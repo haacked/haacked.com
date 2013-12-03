@@ -1,0 +1,28 @@
+<div class="profilepic">
+	{% if site.gravatar_url %}
+	<img src="{{ site.gravatar_url }}?s=160" alt="Profile Picture" style="width: 160px;" />
+	{% endif %}
+</div>
+<hgroup>
+  <h1><a href="/">{{ site.title }}</a></h1>
+  {% if site.subtitle %}
+    <h2>{{ site.subtitle }}</h2>
+  {% endif %}
+</hgroup>
+<nav id="main-nav">{% include navigation.html %}</nav>
+<nav id="sub-nav">
+	<div class="social">
+		{% if site.email %}
+			<a class="email" href="mailto:{{ site.email }}" title="Email">Email</a>
+		{% endif %}
+		{% if site.twitter_user %}
+			<a class="twitter" href="http://twitter.com/{{ site.twitter_user }}" title="Twitter">Twitter</a>
+		{% endif %}
+		{% if site.github_user %}
+			<a class="github" href="https://github.com/{{ site.github_user }}" title="GitHub">GitHub</a>
+		{% endif %}
+		{% if site.subscribe_rss %}
+			<a class="rss" href="{{ site.subscribe_rss }}" title="RSS">RSS</a>
+		{% endif %}
+	</div>
+</nav>

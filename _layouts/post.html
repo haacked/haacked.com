@@ -1,0 +1,35 @@
+---
+layout: default
+single: true
+---
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">{% include article.html %}</article>
+
+<div data-type="ad" data-publisher="lqm.youvebeenhacked.site" data-zone="ron" data-format="728x90"></div>
+
+{% unless page.sharing == false %}
+	{% include post/sharing.html %}
+{% endunless %}
+
+<div id="page-navigation"> 
+        <div class="previous"> 
+        {% if page.previous.url %} 
+                <a href="{{page.previous.url}}" title="Previous Post: 
+{{page.previous.title}}">&laquo; {{page.previous.title}}</a>
+        {% endif %} 
+        </div>
+
+        <div class="next"> 
+        {% if page.next.url %} 
+               <a href="{{page.next.url}}" title="next Post: 
+{{page.next.title}}">{{page.next.title}} &raquo; </a> 
+        {% endif %} 
+        </div>
+</div> 
+
+{% if site.disqus_short_name and page.comments == true %}
+<section id="comment">
+    <h1 class="title">Comments</h1>
+    <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+</section>
+{% endif %}

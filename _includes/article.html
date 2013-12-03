@@ -1,0 +1,13 @@
+{% if index %}
+	<h1 class="title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h1>
+	{% include post/meta.html %}
+	<div class="entry-content" itemprop="articleBody">
+		{{ content | excerpt }}
+		{% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
+		{% if excerpted == 'true' %}<a href="{{ post.url }}" class="more-link">{{ site.excerpt_link }}</a>{% endif %}
+	</div>
+{% else %}
+	<h1 class="title" itemprop="name">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+	{% include post/meta.html %}
+	<div class="entry-content" itemprop="articleBody">{{ content }}</div>
+{% endif %}

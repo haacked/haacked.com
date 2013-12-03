@@ -1,0 +1,8 @@
+<div class="meta">
+	<span class="date">{% include post/date.html %}{{ time }}</span>
+	<span class="tags">{% include post/categories.html %}</span>
+	{% if site.disqus_short_name and site.disqus_show_comment_count == true %}
+		{% include post/comments_link.html %}
+	{% endif %}
+	<span class="edit">{% include post/edit.html %}</span>
+</div>

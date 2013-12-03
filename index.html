@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% assign index = true %}
+<div itemscope itemtype="http://schema.org/Blog">
+{% for post in paginator.posts %}
+{% assign content = post.content %}
+    <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+        {% include article.html %}
+    </article>
+{% endfor %}
+</div>
+<nav id="pagenavi">
+    {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' | replace: 'index.html', '' }}" class="prev">Prev</a>
+    {% endif %}
+    {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="next">Next</a>
+    {% endif %}
+    <div class="center"><a href="/archive">Blog Archives</a></div>
+</nav>

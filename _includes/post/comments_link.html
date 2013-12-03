@@ -1,0 +1,7 @@
+{% if post.disqus_identifier %}
+  {% assign disqus_identifier = post.disqus_identifier %}
+{% else %}
+  {% assign disqus_identifier = page.disqus_identifier %}
+{% endif %}
+
+<span class="comments"><a href="{{ post.url }}#disqus_thread"{% if disqus_identifier %} data-disqus-identifier="{{ disqus_identifier }}"{% endif %}>comments</a></span>
