@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Subtext 1.9.3 Released"
+date: 2006-12-13 -0800
+comments: true
+disqus_identifier: 18167
+categories: []
+---
+[Steve Harman](http://stevenharman.net/blog/ "Steve Harman's Blog") just
+announced the [release of Subtext
+1.9.3](http://stevenharman.net/blog/archive/2006/12/14/Subtext_1.9.3_quotRepair_Jobquot_Edition_Released.aspx "Subtext 1.9.3 Released").
+This is primarily a bug fix release, though there are a couple of small
+improvements.
+
+You can download the [latest bits
+here](https://sourceforge.net/project/showfiles.php?group_id=137896&package_id=181920&release_id=470900 "The Latest Subtext Release").
+
+Many thanks to Steve and the rest of the Subtext crew for all the hard
+work in getting this release together. Ever since I wrote that [Subtext
+Job Posting blog
+post](http://haacked.com/archive/2006/11/03/Seriously_Cool_Jobs_Available.aspx "Seriously Cool Jobs Available"),
+we've had a lot more active contributors lending a hand, which has been
+a big help. Your participation is very much appreciated!
+
+With 1.9.3 out of the dock, all focus is now on getting Subtext 2.0
+ready for deployment.
+
+So far, progress on Subtext 2.0 has been going better than I
+expected. We have an early implementation of our plugin framework
+working, though we still have a lot of improvements and polishing to do
+on it. The Membership Provider is also working, though we have a few
+refactorings we’re considering to the data model.
+

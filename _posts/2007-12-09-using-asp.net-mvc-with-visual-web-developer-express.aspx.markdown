@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Using ASP.NET MVC With Visual Web Developer Express"
+date: 2007-12-09 -0800
+comments: true
+disqus_identifier: 18435
+categories: [asp.net,code,asp.net mvc]
+---
+UPDATE: ASP.NET MVC now works with Visual Web Developer Express SP1
+
+Some developers who downloaded the ASP.NET Extensions CTP specifically
+for ASP.NET MVC and then opened up Visual Web Developer like it was
+Christmas morning instead got a lump of coal.
+
+We currently only include Web Application Projects for ASP.NET MVC,
+which Visual Web Developer does not support. I was planning to write up
+a post on this, but [Scott
+Koon](http://www.lazycoder.com/weblog/ "Scott Koon") beat me to it.
+
+And thank goodness! I’m busy enough as it is already. It’s all part of
+my master plan to have members of the community doing my job for me so
+we can finally take that trip to Tahiti and sip margaritas while I tell
+my bosses I’m “telecommuting”. ;) Seriously though, I appreciate it.
+
+If you’re using Visual Web Developer Express, read Scott’s blog post on
+[**how to get MVC
+working**](http://www.lazycoder.com/weblog/index.php/archives/2007/12/10/using-the-aspnet-mvc-framework-with-visual-web-developer-express/ "Using the ASP.NET MVC Framework with Visual Web Developer Express")
+for you.
+
+I personally would like to get ASP.NET MVC in more hands than less
+hands, so I hope we have a better story for this with a future release.
+
+Tags: [ASP.NET
+MVC](http://technorati.com/tags/aspnetmvc/ "ASP.NET MVC tag") , [Visual
+Web Developer
+Express](http://technorati.com/tags/Visual%20Web%20Developer%20Express/ "Visual Web Developer Express tag")
+, [VWD](http://technorati.com/tags/VWD/ "VWD tag")
+

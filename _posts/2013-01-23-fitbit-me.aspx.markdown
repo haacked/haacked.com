@@ -1,0 +1,142 @@
+---
+layout: post
+title: "Fitbit Me"
+date: 2013-01-23 -0800
+comments: true
+disqus_identifier: 18882
+categories: [personal]
+---
+Back in March of last year, Stephen Wolfram wrote a blog post, [The
+Personal Analytics of My
+Life](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/ "The Personal Analytics of My Life").
+It’s a fascinating look at the data he’s accumulated over years about
+his own personal activities and habits such as daily incoming and
+outgoing email.
+
+Since I read that, I’ve been fascinated about the idea of how personal
+data analytics might prove useful to me. It turns out I found an
+application to my health.
+
+In my series on The Real Pain of Software Development
+([part1](http://haacked.com/archive/2004/06/09/The-Real-Pain-Of-Software-Development-1.aspx "Real Pain of Software Development")
+and
+[part2](http://haacked.com/archive/2012/04/16/The-Real-Pain-Of-Software-Development-2.aspx.aspx "The Real Pain of Software Development")),
+I talked about my history with pain related to work and the various
+measures I took to remedy that pain including intense physical and
+occupational therapy.
+
+I neglected to mention was how much difference a bit of weight loss
+makes. A single pound reduces the force on your joints, back, and other
+muscles an immense amount over the course of a day, week, or years. I am
+now more aware of how much pain I feel ebbs and flows as my weight does.
+
+Sometime last year, GitHub gave all of us a
+[Fitbit](http://www.fitbit.com/ "FitBit"). It’s a little device that
+tracks the number of steps you take during the day. It can also track
+vertical distance changes and if you’re diligent, how much sleep you
+get. It posts all the data online so you can take a look at your numbers
+and compare to friends.
+
+It wasn’t long before my co-workers hooked it up to
+[Hubot](http://hubot.github.com/ "Hubot") (just another example of how
+[chat is important to
+us](http://zachholman.com/posts/chat/ "Chat trumps meeting") and is at
+the center of how we work). Here’s a screenshot of the `/fitbit me`
+command which shows the leaderboards for step counts in the past 7 days.
+I blocked out names for privacy reasons, though I bet the top four would
+love to be unredacted.
+
+[![fitbit-me](http://haacked.com/images/haacked_com/Windows-Live-Writer/Fitbit-Me_85C0/fitbit-me_thumb.png "fitbit-me")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Fitbit-Me_85C0/fitbit-me_2.png)
+
+What I love about this is it adds an element of friendly competition to
+the mix. There’s absolutely NOTHING riding on this other than pride.
+Yet, it’s amazing how motivating this is. I now take a long walk to get
+coffee every day because I want to be up there near the top. And there’s
+no downsides to that. Maybe it’s the wrong motivation, but it’s
+definitely the right result. The evidence for this result is in the
+following.
+
+I also happened to purchase the FitBit Aria Wi-Fi scale because I love
+me them stats. As you can see from the graph, the `/fitbit me`
+motivation is effective.
+
+[![2012-now-weight](http://haacked.com/images/haacked_com/Windows-Live-Writer/Fitbit-Me_85C0/2012-now-weight_thumb.png "2012-now-weight")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Fitbit-Me_85C0/2012-now-weight_2.png)
+
+Unfortunately, I injured my knee snowboarding a couple weeks ago and
+have been sick the past few days so it’s starting to trend slightly up.
+But since I’ve had the scale, I’ve lost 6.3 lbs overall. This isn’t only
+due to the FitBit. We recently started a single subscription to BistroMD
+to supplement our cooking efforts since we both work and I work from
+home. I’ve found portion control a lot easier when it’s controlled for
+you.
+
+FitBit can also track sleep, but this is not as automatic as step
+counting. You have to remember to wear it at night and put it in sleep
+mode. It’s a bit high maintenance.
+
+[![2012-sleep-over-time](http://haacked.com/images/haacked_com/Windows-Live-Writer/Fitbit-Me_85C0/2012-sleep-over-time_thumb.png "2012-sleep-over-time")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Fitbit-Me_85C0/2012-sleep-over-time_2.png)
+
+Also, it seems to count nights that you forget to set it as a day with 0
+hours of sleep, which is not really what I want. Based on this graph you
+might incorrectly assume I averaged from 3 to 6 hours of sleep a night
+over the past year. Clearly that’s not correct or I’d be a raging
+hallucinatory lunatic by now. I know, some of you think I am such a
+beast, but if so it’s for other reasons, not due to lack of sleep.
+
+I hope to be more diligently track my sleep patterns this year to see if
+there are any interesting correlations between the amount of sleep I
+get, my fitness level, my mood, and [my GitHub contributions
+graph](https://github.com/blog/1360-introducing-contributions "Contributions Graph").
+Heh.
+
+One thing I wish FitBit did better is provide better graphs for seeing
+my step counts over time. For example, here’s what I could find to see
+my step counts over the past 30 days.
+
+[![steps-over-last-30-days](http://haacked.com/images/haacked_com/Windows-Live-Writer/Fitbit-Me_85C0/steps-over-last-30-days_thumb.png "steps-over-last-30-days")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Fitbit-Me_85C0/steps-over-last-30-days_2.png)
+
+I’d love to see a graph of my steps over the year in fine detail.
+
+Speaking of step counts, see that big spike in January, that’s the
+GitHub Winter Summit, our all company meeting in San Francisco. The way
+that spikes might give you the impression that we’re all health freaks
+and the summit is a very physical endeavor. Well, maybe.
+
+The following is a breakdown of one of a couple of those days.
+
+[![2013-01-17-steps](http://haacked.com/images/haacked_com/Windows-Live-Writer/Fitbit-Me_85C0/2013-01-17-steps_thumb.png "2013-01-17-steps")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Fitbit-Me_85C0/2013-01-17-steps_2.png)*January
+17, 2013: 23,285 (approx 10.69 miles)*
+
+[![2013-01-18-steps](http://haacked.com/images/haacked_com/Windows-Live-Writer/Fitbit-Me_85C0/2013-01-18-steps_thumb.png "2013-01-18-steps")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Fitbit-Me_85C0/2013-01-18-steps_2.png)*January
+18, 2013: 24,512 steps (approx: 11.35 miles)*
+
+Notice the hours of the big spikes. Yeah, we like to dance late at
+night.
+
+Notice the big midday bump on the second day? That was a scavenger hunt
+that took us all around the great city of San Francisco.
+
+All in all, I’m pretty happy with the FitBit and like how the data
+driven lifestyle it encourages has been a net positive for me. Your
+mileage may vary of course.
+
+Some downsides to the FitBit is that it’s easy to lose. It’s easy to
+forget about it and launder it. It’s somewhat easy to break. Mine’s
+survived so far, but not without a chip or two. Also, it requires
+charging almost every day or at least every other day. Also, I’m not
+aware of a way to get the absolute raw data even with the premium
+account.
+
+I’d be willing to pay money to get the raw data and create my own
+graphs. FitBit isn’t the only personal fitness tracker out there, but
+it’s the only one I’ve tried and I’m a big fan. I wouldn’t mind trying
+others, but much like the network effects of other social networks, the
+fact that many of my friends and co-workers are all on FitBit will keep
+me tied to it for now.
+
+UPDATE: Looks like there is a [FitBit
+API](https://wiki.fitbit.com/display/API/Fitbit+API "FitBit API"). I’ll
+have to play around with it. Thanks to
+[@geeksmeetgirl](https://twitter.com/geekmeetsgirl "GeekMeetsGirl on Twitter")
+for pointing it out to me.
+

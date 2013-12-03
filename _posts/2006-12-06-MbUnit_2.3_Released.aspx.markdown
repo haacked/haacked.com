@@ -1,0 +1,32 @@
+---
+layout: post
+title: "MbUnit 2.3 Released!"
+date: 2006-12-06 -0800
+comments: true
+disqus_identifier: 18158
+categories: []
+---
+My favorite unit testing framework just released a new version. [Andrew
+Stopford](http://weblogs.asp.net/astopford/ "Andrew Stopford's blog")
+has [the announcement
+here](http://weblogs.asp.net/astopford/archive/2006/12/07/mbunit-2-3-rtm.aspx?CommentPosted=true#commentmessage "MbUnit Announcement") and
+you can download the release from [the MbUnit
+site](http://www.mbunit.com/ "MbUnit.com").
+
+I met Andrew at Mix 06 early this year and he’s a class act and great
+project lead. I’ve been following MbUnit’s progress on and off and am
+really happy with the team’s responsiveness to my submitted issues.
+
+My one tiny contribution to the project was to [purchase the mbunit.com
+domain](http://haacked.com/archive/2006/06/05/IntroducingMBUnit.com.aspx "Introducing MbUnit.com")
+for them. Perhaps a little bribe to get my feature requests looked at
+promptly. ;)
+
+If you are wondering why I prefe MbUnit of NUnit, check out these posts:
+
+-   [Switching to
+    MbUnit](http://haacked.com/archive/2005/10/18/SwitchingToMbUnit.aspx "switching to MbUnit")
+-   [Row Based Testing in
+    MbUnit](http://haacked.com/archive/2004/10/20/Row_Based_Testing.aspx "Row Testing")
+
+

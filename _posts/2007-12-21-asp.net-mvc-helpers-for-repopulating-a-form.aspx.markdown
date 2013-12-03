@@ -1,0 +1,248 @@
+---
+layout: post
+title: "ASP.NET MVC Helpers For Repopulating A Form"
+date: 2007-12-21 -0800
+comments: true
+disqus_identifier: 18442
+categories: [code,asp.net mvc]
+---
+A common pattern when submitting a form in ASP.NET MVC is to post the
+form data to an action which performs some operation and then redirects
+to another action afterwards. The only problem is, the form data is not
+repopulated automatically after a redirect. Let's look at remedying
+that, shall we?
+
+When submitting form data, the [ASP.NET MVC
+Toolkit](http://www.asp.net/downloads/3.5-extensions/MVCToolkit.zip "MVC Toolkit")
+includes a helper extension method that makes it easy to go the other
+direction, populating an object from the request. Check out the
+following simplified controller action adapted from an example ScottGu’s
+[post on handling form
+data](http://weblogs.asp.net/scottgu/archive/2007/12/09/asp-net-mvc-framework-part-4-handling-form-edit-and-post-scenarios.aspx "Handling Form Data").
+
+```csharp
+[ControllerAction]
+public void Create()
+{
+  Article article = new Article();
+  article.UpdateFrom(Request.Form);
+  
+  repository.Persist(article);
+ 
+  RedirectToAction("List");
+}
+```
+
+`UpdateFrom()` is an extension method on the type `object` that will
+attempt to populate each property of the object with a corresponding
+value from the posted form.
+
+The example above doesn’t address what should happen if the data passed
+to product is incomplete or incorrect.
+
+In that situation, I may want to redirect back to the action that
+renders the form for creating a new product. But now I’m responsible for
+populating the form fields because the posted values are lost after a
+redirect.
+
+One option is to use the `TempData` dictionary, which is intended for
+these scenarios in which you need to persist data for the next request,
+but not afterwards.
+
+```csharp
+[ControllerAction]
+public void Create()
+{
+  Article article = new Article();
+  article.UpdateFrom(Request.Form);
+  
+  //Pretend this was extensive validation
+  if(article.IsValid)
+  {
+    repository.Persist(article);
+    RedirectToAction("List");
+  }
+  else
+  {
+    TempData["message"] = "Please fill in all fields!";
+    TempData["title"] = article.Title;
+    TempData["body"] = article.Body;
+    //... and so on and so on...
+
+    //Takes us to a form for creating a product.
+     RedirectToAction("New");
+  }
+}
+```
+
+That’ll work nicely for object with a small number of properties, but
+when you have a lot of properties to store in `TempData`, it gets a bit
+cumbersome. We have an extension method for populating an object from a
+form, why not do something similar for populating `TempData` from an
+object?
+
+I put together a series of helper extension methods that help simplify
+the above case. Using these extension methods, you can reduce the above
+code to...
+
+```csharp
+[ControllerAction]
+public void Create()
+{
+  Article article = new Article();
+  article.UpdateFrom(Request.Form);
+  
+  //Pretend this was extensive validation
+  if(article.IsValid)
+  {
+    repository.Persist(article);
+    RedirectToAction("List");
+  }
+  else
+  {
+    TempData["Message"] = "Please supply all fields.";
+    TempData.PopulateFrom(article);
+
+    //Takes us to a form for creating a product.
+     RedirectToAction("New");
+  }
+}
+```
+
+`PopulateFrom` is an extension method on `TempDataDictionary` that
+populates the dictionary collection using whatever you pass into it. I
+wrote some overloads so you can populate it directly from an object, the
+form collection, or from a dictionary. I will show the code for the
+extension methods at the end.
+
+This gets us part of the way, but we still need to populate the form
+field values in the view. Here is the relevant code snippet from the
+*New* view.
+
+```aspx-cs
+<% using(Html.Form("Article", "Create")) { %>
+    
+<span class="error">
+    <%= ViewContext.TempData.SafeGet("Message") %>
+</span>
+
+<label for="title">Title: </label> 
+<%= Html.TextBox("title"
+  , Html.Encode(ViewContext.TempData.SafeGet("title"))) %>
+
+<label for="body">Body: </label>
+<%= Html.TextArea("body"
+  , Html.Encode(ViewContext.TempData.SafeGet("body"))) %>
+
+
+<%= Html.SubmitButton() %>
+<% } %>
+```
+
+When retrieving a value from the `TempData` dictionary, if the key you
+specify doesn't exist, it throws an exception. So I added a `SafeGet`
+extension method to make it cleaner to extract values from `TempData`.
+
+*Note: We plan on making `TempData` a direct property of `ViewPage` in
+the future, so you don't have to go through `ViewContext`.*
+
+Here is the code for my temp data extensions...
+
+```csharp
+public static class TempDataExtensions
+{
+  public static void PopulateFrom(this TempDataDictionary tempData, object o)
+  {
+    foreach (PropertyValue property in o.GetProperties())
+    {
+      tempData[property.Name] = property.Value;
+    }
+  }
+
+  public static void PopulateFrom(this TempDataDictionary tempData
+    , NameValueCollection nameValueCollection)
+  {
+    foreach (string key in nameValueCollection.Keys)
+      tempData[key] = nameValueCollection[key];
+  }
+
+  public static void PopulateFrom(this TempDataDictionary tempData
+    , IDictionary<string, object> dictionary)
+  {
+    foreach (string key in dictionary.Keys)
+      tempData[key] = dictionary[key];
+  }
+
+  public static string SafeGet(this TempDataDictionary tempData, string key)
+  { 
+    object value;
+    if (!tempData.TryGetValue(key, out value))
+      return string.Empty;
+    return value.ToString();
+  }
+}
+```
+
+These methods rely on some object extension methods I wrote based on the
+work that [Eilon
+Lipton](http://weblogs.asp.net/leftslipper/ "Eilon Lipton Lead Dev for ASP.NET MVC")
+did with using [C\# 3.0 Anonymous Types as
+Dictionaries](http://weblogs.asp.net/leftslipper/archive/2007/09/24/using-c-3-0-anonymous-types-as-dictionaries.aspx "Anonymous Types To Dictionaries").
+
+```csharp
+public static class ObjectHelpers
+{
+  public static IDictionary<string, object> ToDictionary(this object o)
+  {
+    Dictionary<string, object> properties = new Dictionary<string, object>();
+
+    foreach (PropertyValue property in o.GetProperties())
+    {
+      properties.Add(property.Name, property.Value);
+    }
+    return properties;
+  }
+
+
+  internal static IEnumerable<PropertyValue> GetProperties(this object o)
+  {
+    if (o != null)
+    {
+      PropertyDescriptorCollection props = TypeDescriptor.GetProperties(o);
+      foreach (PropertyDescriptor prop in props)
+      {
+        object val = prop.GetValue(o);
+        if (val != null)
+        {
+          yield return new PropertyValue { Name = prop.Name, Value = val };
+        }
+      }
+    }
+  }
+}
+
+internal sealed class PropertyValue
+{
+  public string Name { get; set; }
+  public object Value { get; set; }
+}
+```
+
+The `ToDictionary` method makes it easy to convert an anonymous typed
+object to a dictionary.
+
+Using these extension methods should help reduce some of the chore of
+handling form submissions with the CTP version ASP.NET MVC. In future
+versions of the framework, I hope we can make some of these common
+scenarios more streamlined.
+
+And before I forget, I have a **[simple solution for
+download](http://haacked.com/code/TempDataDemo.zip "TempData Demo Solution")**
+that includes full source code for the extension methods I wrote as well
+as a trivially simple application that demonstrates using this code.
+
+Tags: [ASP.NET
+MVC](http://technorati.com/tags/aspnetmvc/ "ASP.NET MVC tag") ,
+[TempData](http://technorati.com/tags/TempData/ "TempData tag") , [Form
+Handling](http://technorati.com/tags/Form%20Handling/ "Form Handling tag")
+

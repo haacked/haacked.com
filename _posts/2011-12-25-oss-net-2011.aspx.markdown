@@ -1,0 +1,260 @@
+---
+layout: post
+title: "OSS and .NET Year In Review 2011"
+date: 2011-12-25 -0800
+comments: true
+disqus_identifier: 18835
+categories: [code,open source]
+---
+T’is the season for “Year in Review” and “Best of” blog posts. It’s a
+vain practice, to be sure. This is exactly why I’ve done [it almost
+every
+year](http://haacked.com/tags/Year-in-review/default.aspx "Year in review")!
+After all, isn’t all [blogging pure
+vanity](http://haacked.com/archive/2004/10/08/bloggingispurevanity.aspx "Blogging is pure vanity")?
+Sadly, I did miss a few years when my vanity could not overcome my
+laziness.
+
+This year I am changing it up a bit to look at some of the highlights,
+*in my opinion*, that occurred in 2011 with open source software and the
+.NET community. I think it’s been a banner year for OSS and
+.NET/Microsoft, and I think it’s only going to get better in 2012.
+
+![NuGet
+Logo](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Look-Back-Open-Source-and-.NET-2011_CBF9/nugetlogo_3.png "NuGet")
+
+We released NuGet 1.0 in the [beginning of this
+year](http://haacked.com/archive/2011/01/13/aspnetmvc3-released.aspx "ASP.NET MVC 3")
+and it had a big impact on the amount of sleep I got last year. Insomnia
+aside, it’s also had a significant impact on the .NET community and been
+[very well
+received](http://nuget.codeplex.com/wikipage?title=What%20people%20are%20saying "What folks are saying about NuGet").
+
+One key benefit of NuGet is it provides a central location for people to
+discover and easily acquire open source libraries. This alone helps many
+open source libraries gain visibility. According to
+[http://stats.nuget.org/](http://stats.nuget.org/), the NuGet gallery
+now has over 4,000 unique packages and 3.4 Million package downloads.
+
+[Scott
+Hanselman](http://www.hanselman.com/blog/ "Scott Hanselman's Blog")
+noted another impact I hadn’t considered in his [DevReach 2011
+keynote](http://www.youtube.com/watch?v=bqVTIGPPFWo "DevReach 2011 Keynote").
+To understand his observation, I need to provide a bit of background.
+
+Back in April, Microsoft released the ASP.NET MVC 3 Tools update. This
+added support for pre-installed NuGet packages in the ASP.NET MVC 3
+project templates so that projects created from these templates already
+include dependent libraries installed as NuGet packages rather than as
+flat files in the project. This allows developers who create a project
+from a template to upgrade these libraries after the project has been
+created via NuGet.
+
+NuGet 1.5 adds this support for pre-installed packages to any project
+template that wants it. In the preview for ASP.NET MVC 4, we included
+libraries such as ModernizR, jQuery, jQuery UI, jQuery Validation, and
+Knockout in this manner. We expect other project templates in the future
+to take advantage of this as well.
+
+The interesting observation Hanselman had in his keynote is that this is
+an example of Microsoft giving equal billing to these open source
+libraries as it does to its own. When you create an ASP.NET MVC 4
+project, your project includes Microsoft packages alongside 3rd party
+OSS packages all installed in the same manner.
+
+Additionally, the way NuGet itself was developed is also important.
+NuGet is an Apache v2 open source project that accepts contributions
+from the community. Microsoft gave it to the Outercurve Foundation and
+continues to supply the project with employee contributors.
+
+Orchard Project
+---------------
+
+Before there was NuGet, there was
+[Orchard](http://orchard.codeplex.com/ "Orchard Project"). Orchard is an
+open source CMS system that was started at Microsoft, but also
+contributed to the OuterCurve Foundation.
+
+What’s really impressive about Orchard is the amount of community
+involvement they’ve fostered. They’ve set up a governance structure
+consisting of an [elected steering
+committee](http://orchard.codeplex.com/discussions/270600 "Steering committee")
+so that it’s truly a community run project.
+
+They recently surpassed 1 million module downloads from their [online
+gallery](http://gallery.orchardproject.net/ "Modules"). Modules are
+extensions to Orchard that are installable directly from within the
+Orchard admin.
+
+Umbraco
+-------
+
+[Umbraco](http://umbraco.com/ "Umbraco") is an independent open source
+CMS that has a huge following and a strong community. They’ve been
+around for a while, long before 2011. But in 2011, Microsoft hosted the
+redesigned [http://asp.net/](http://asp.net/) site using Umbraco.
+
+Micro ORMS
+----------
+
+For a lack of better term, I think 2011 was the year of the mini-ORMS.
+While many refere to these libraries as micro-ORMS, they’re not
+technically ORMs. They’re more simple data access libraries. A
+non-comprehensive list of the ones that made a big splash are:
+
+-   The diminutively named
+    [Massive](https://github.com/robconery/massive "Massive")
+-   The straightforwardly named
+    [Simple.Data](https://github.com/markrendle/Simple.Data "Simple.Data")
+-   The fashionable
+    [Dapper.NET](http://code.google.com/p/dapper-dot-net/ "Dapper.NET")
+
+If you’re interested in seeing a more comprehensive list of Micro ORMS
+with source code examples of usage (Nice!), [check out this blog
+post](http://yobriefca.se/blog/2011/06/21/microorms-for-dotnet-inserts-updates-deletes/ "Micro-ORMS for .NET")
+by [James Hughes](http://yobriefca.se/ "James Hughes").
+
+Micro Web Frameworks and OWIN
+-----------------------------
+
+Like pairing a good beer with the right steak, lightweight micro-web
+frameworks provide a good pairing with Micro-ORMS. It’s interesting
+that  both of these picked up quite a bit this past year.
+
+Some that caught my attention this year are:
+
+-   Named after Sinatra’s daughter, there’s the
+    [Nancy](https://github.com/NancyFx/Nancy#readme "Nancy") micro web
+    framework.
+-   [FubuMVC](http://mvc.fubu-project.org/ "Fubu Project") is billed as
+    the project that gets out of your way.
+-   [OpenRasta](https://github.com/openrasta/openrasta-stable/wiki) is a
+    resource oriented web framework for building REST services.
+
+Again, James Hughes provides a [comparative list of micro-web
+frameworks](http://yobriefca.se/blog/2011/07/18/micro-web-frameworks-101-tinyweb/ "Comparative list of micro-web frameworks")
+complete with source code examples.
+
+With the proliferation of web frameworks as well as lightweight web
+servers such as [Kayak](http://kayakhttp.com/ "Kayak") and [Manos de
+Mono](http://jacksonh.tumblr.com/post/1159500924/manos-de-mono-the-manifesto "Manos de Mono"),
+the need to decouple the one from the other arose. This is where OWIN
+stepped into the gap.
+
+OWIN stands for [Open Web Interface for .NET](http://owin.org/ "OWIN").
+It is a project inspired by [Rack, a
+Ruby](http://rack.rubyforge.org/ "Rack") Webserver interface, meant to
+decouple web servers from the web application frameworks that run on
+them.
+
+This project was started as a completely grass roots project in 2011 but
+has seen amazing pick-up from the community and I believe will have a
+big impact in 2012.
+
+![mp-mono-logo](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Look-Back-Open-Source-and-.NET-2011_CBF9/mp-mono-logo_3.png "mp-mono-logo")
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Miguel de Icaza](http://tirania.org/blog/ "Miguel De Icaza's Blog")
+wrote [a monster blog
+post](http://tirania.org/blog/archive/2011/Dec-21.html "Mono 2011")
+about the year that he and the Mono (and Xamarin) folks have had in
+2011. His post inspired me to write this less monstrous one. It’s a
+great post and really inspiring to see how they’ve emerged from the
+ashes of the great Novell layoff of 2011 to have a great year.
+
+In the following image, you can see me teaching Miguel everything he
+knows about software development and open source while Scott acts
+surprised?
+
+![](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Look-Back-at-Mix-11_D597/trouble-inc_2.jpg)
+
+What really caught my interest in his post was the note about Microsoft
+using Mono and Unity3D to build [Kinectimals for
+iOS](http://itunes.apple.com/us/app/kinectimals/id482365195?mt=8 "Kinectimals")
+systems such as the iPad. 2011 seems to be the year of pigs flying for
+Microsoft.
+
+Xamarin is doing a great job of bringing Mono, and consequently C\# and
+open source to just about every device imaginable!
+
+Open Source Fest at ![Mix 11](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Look-Back-Open-Source-and-.NET-2011_CBF9/mix11-logo_3.jpg "Mix 11")
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mix is one of my favorite conferences and I’ve attended every single
+one. And it has nothing to do with it being in Las Vegas, though that
+doesn’t hurt one bit.
+
+This year was special due to the efforts of [John
+Papa](http://johnpapa.net/ "John Papa's Blog") (*who’s name makes me
+wonder if he ever goes all Biggie Smalls on people and sings “I love it
+when you call me John Papa”*). This year, John put together the [Open
+Source Fest at
+Mix](http://live.visitmix.com/OpenSourceFest "Open Source Fest at Mix 2011").
+
+This was an event where around 50 projects had stations in a large open
+room where they could represent their project and talk to attendees. The
+atmosphere was electric as folks went from table to table learning about
+useful software directly from the folks who built it.
+
+This is where projects such as
+[Glimpse](http://getglimpse.com/ "Glimpse") got noticed and really took
+off. Would love to see more of this sort of thing at conferences.
+
+Azure SDKs and GitHub
+---------------------
+
+As I recently wrote on the [GitHub
+blog](https://github.com/blog/1010-azure-on-github "Azure on GitHub"),
+Microsoft is actively developing a set of Azure SDKs for multiple
+platforms (not just .NET) [in
+GitHub](https://github.com/WindowsAzure/azure-sdk-for-net "Azure SDK for .NET in GitHub").
+All of these libraries are Apache v2 licensed and actively being
+developed in GitHub.
+
+![screenshot of the azure sdk
+homepage](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Look-Back-Open-Source-and-.NET-2011_CBF9/Source-code-on-github_3.png "Azure SDK source code on GitHub")
+
+It’s great to see Microsoft not only releasing source code under an open
+source license, but actively developing it in the open and ostensibly
+accepting contributions from the public. I look forward to seeing more
+of this in the future.
+
+[![GitHub\_PixelOptimizedLogo](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Look-Back-Open-Source-and-.NET-2011_CBF9/github-logo_thumb_1.png "GitHub_PixelOptimizedLogo")](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Look-Back-Open-Source-and-.NET-2011_CBF9/github-logo_4.png)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Last but not least, there’s GitHub. Full disclaimer: [I’m an employee of
+GitHub](https://github.com/blog/1002-phil-haack-is-a-githubber "Phil Haack is a GitHubber")
+so naturally my opinion is totally biased. But a bias doesn’t
+necessarily mean an opinion is wrong.
+
+What I love about GitHub is that just about **everybody** is there.
+GitHub hosts a huge number of open source projects, including a large
+number of the important ones you’ve heard of. Quantity alone isn’t a
+sign of quality, but it can create network effects. When a site has such
+a large community, hosting a project there makes it easier to attract
+contributors because there’s such a large pool to draw from.
+
+I’ve seen this benefit .NET open source projects first hand. Since
+moving some of my projects there, I’ve received more pull requests.
+Small independent projects such as JabbR have really attracted a
+passionate community at GitHub with large numbers of external
+contributions. Most of the credit must go to the efforts of the great
+project leads who’ve worked hard to foster a great community, but I
+think they’d agree that hosting on GitHub certainly makes it easier and
+more enjoyable.
+
+What did I miss?
+----------------
+
+Did I miss anything significant in your opinion? Let me know in the
+comments. What do you think will happen in 2012? Does the number 2012
+look like a science fiction year to you? Because it does to me. I can’t
+believe it’s just about here already. Have a great holidays!
+
+**UPDATE: Egg on my face. This post was meant to list a few highlights
+and not be a comprehensive list of all that happened in open source in
+the .NET space. Even so, in my holiday infused malaise, I was negligent
+in omitting several highlights. I apologize and updated the post to
+reflect a few more significant events. Let me know if I missed some
+obvious ones.**
+

@@ -1,0 +1,30 @@
+---
+layout: post
+title: "String.IsNullOrEmpty"
+date: 2006-08-22 -0800
+comments: true
+disqus_identifier: 15920
+categories: []
+---
+This post is an ode to one of my favorite, albeit extremely minor,
+additions to .NET 2.0.  This is the method that I am sure we have all
+written in some sort of StringHelper library of some sort, but are now
+glad it is included in the framework as it makes our code a tad bit
+cleaner and shuts up that pesky FxCop warning about using the length of
+the string to test for empty strings.
+
+And under the hood, it does the right thing.
+
+```csharp
+public static bool IsNullOrEmpty(string value)
+{
+      if (value != null)
+      {
+            return (value.Length == 0);
+      }
+      return true;
+}
+```
+
+If you haven’t met this method, do get well acquainted.
+

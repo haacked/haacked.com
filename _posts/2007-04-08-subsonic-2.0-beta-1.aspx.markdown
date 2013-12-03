@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Subsonic 2.0 Beta 1"
+date: 2007-04-08 -0800
+comments: true
+disqus_identifier: 18273
+categories: []
+---
+![Subsonic
+Logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/Subsonic2.0Beta1_D1CC/subsoniclogo4.png)[Rob
+Conery](http://blog.wekeroad.com/ "Rob Conery") just announced that
+[Beta 1 of SubSonic
+2.0](http://blog.wekeroad.com/archive/2007/04/09/SubSonic-2.0-Beta-1-is-Ready.aspx "Subsonic 2.0 Beta 1")
+is ready for your immediate data access needs. He’s looking for beta
+testers (open to anyone and everyone) to make sure this release is rock
+solid.
+
+I may attempt to claim a significant contribution, but do not believe
+me. I only contributed a teeny-tiny amount of code to this release.
+
+I am using a small bit of
+[Subsonic](http://www.codeplex.com/actionpack "Subsonic on CodePlex") in
+a current project (just using it to generate Stored Procedure wrappers
+since the existing database already has a legacy data model and stored
+procedures to work with).
+
+While I’m talking about release dates for open source projects, I should
+mention that Subtext 1.9.5 will be released soon and afterwards we’ll
+turn our full focus to getting Subtext 2.0 out the door. I’ve made some
+progress on 2.0 while working on the 1.9 branch, so hopefully it will
+follow 1.9 shortly.
+
+My cohorts and I finished our first draft of the book [we’re working
+on](http://haacked.com/archive/2006/11/19/writing_a_book.aspx "Writing a Book"),
+so I should hopefully have more time to work on Subtext. That is, till
+the [kid
+arrives](http://haacked.com/archive/2006/11/05/World_Domination_Phase_1_Commenced.aspx "World Domination Phase 1").
+

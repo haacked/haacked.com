@@ -1,0 +1,14 @@
+---
+layout: post
+title: "I Swear"
+date: 2006-01-25 -0800
+comments: true
+disqus_identifier: 11586
+categories: []
+---
+If Visual Studio .NET 2003 completely crashes during one more debug
+session in the next hour (I need to be reasonable here), I am going to
+throw my freaking computer through the window (figuratively speaking).
+
+Thanks for letting me vent.
+

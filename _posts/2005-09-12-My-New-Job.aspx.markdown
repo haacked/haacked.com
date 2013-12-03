@@ -1,0 +1,91 @@
+---
+layout: post
+title: "New Job"
+date: 2005-09-12 -0800
+comments: true
+disqus_identifier: 10065
+categories: []
+---
+Well I’ve kept this relatively quiet long enough, but since Jon Galloway
+[spilled the
+beans](http://weblogs.asp.net/jgalloway/archive/2005/09/09/424713.aspx),
+I might as well mention it. I am no longer an independent consultant.
+
+Yep, I am rejoining the corporate rat race as an employee complete with
+W2...but with a twist. I have accepted a position as Chief Technology
+Officer of VelocIT (pronounced the same as “Velocity”). The twist is
+that I am also a co-founder and part owner of VelocIT, so it makes the
+idea of being an employee again much more palatable. ;)
+
+I was hoping to save the announcement till we had a real website, but
+that could take a long time with the sheer amount of work we have
+already. So until then, I’ll just make my blog the unofficial de facto
+VelocIT website.
+
+This has been a dream of mine for a long time now. It’s a chance to
+conduct a grand experiment in how my business partner Micah and I think
+a company should be run. For example, I am a big fan of transparency and
+open book accounting. I just don’t see how restricting the information
+your employees have access to helps them perform better.
+
+I am also a big fan of the ideas in *[Growing a
+Business](http://www.amazon.com/exec/obidos/tg/detail/-/0671671642/103-9411210-6787060?v=glance)*
+by [Paul Hawken](http://www.twbookmark.com/authors/28/1711/).
+
+If you haven’t read it, I highly recommend it. One of his main points is
+that simply following a standard generic business model does nothing to
+distinguish a business from the hundreds of other carbon copies.
+Instead, a good business should reflect the values and personality of
+its founders. It should be as individual as you are. Think Ben & Jerrys
+and you start to get the picture.
+
+He also talks a lot about trusting your employees. For a long time I
+have seen many companies [make the mistake of not trusting and
+empowering their employees to make
+decisions](http://haacked.com/archive/2005/05/31/3952.aspx). Now I have
+a chance to really put my money where my mouth is and attempt to push
+responsibility and trust down and see what happens. Obviously this
+requires that we make a great effort to hire people deserving of trust
+and capable of handling responsibility.
+
+We have already identified one of those people in [Jon
+Galloway](http://weblogs.asp.net/jgalloway/) who will be working with us
+as a contractor and who we hope to eventually hire on as an employee.
+I’ve read his blog for a while and he is obviously a top-notch developer
+and a pretty decent fella as well.
+
+VelocIT is at its core, a consulting shop, but we are focusing on being
+Solution Architects. When I described VelocIT to my former CEO (and
+current client), he remarked, “Oh. So you’re like a portable CTO.” That
+hit it right on the mark. Although we can handle any point in the
+technology project lifecycle, our strong point is partnering as a
+portable CTO. As such, we constantly seek the most cost effective
+solution for our clients. Custom software development will usually be
+the option of last resort, and usually only to tie together and
+integrate various systems. If custom development is needed, well you
+found the right people.
+
+If you’ve read my blog for a while, you’ll know that I am a big fan of
+open source software. I am a firm believer that there are viable
+business models with open source software. Just take a look at chapter 1
+of this pdf book, *[Open Source Development with
+CVS](http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A//cvsbook.red-bean.com/OSDevWithCVS_3E.pdf&ei=bn4mQ4mrMs-YsAHfg9HGBg)*
+to get some ideas.
+
+In the short term, my involvement with such OS projects as RSS Bandit
+and Subtext will suffer a bit (*But don’t worry
+[Dare](http://www.25hoursaday.com/weblog/) and
+[Torsten](http://www.rendelmann.info/blog/), I’ll get that Help thing
+done soon*). But in the long term since we plan to leverage open source
+software such as [Subtext](http://www.subtextproject.com/),
+[DotNetNuke](http://www.dotnetnuke.com/), [Blue Whale
+CRM](http://www.bluewhalecrm.com/), etc... in projects where they
+provide the most value to our clients, I foresee making more
+contributions to them in the future. We just need to staff up and free
+me up to remain more high level than the day to day coding I am doing
+now. Don’t get me wrong, I love writing code, but I prefer writing open
+source code.
+
+So in the meanwhile, wish us luck and send me an email if you need our
+services *haacked at gmail dot com*.
+

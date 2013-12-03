@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Grrr..."
+date: 2005-08-16 -0800
+comments: true
+disqus_identifier: 9480
+categories: []
+---
+![Hulk](http://haacked.com/images/hulk.jpg) I just hate it when software
+designed to save you countless hours of development work just don’t work
+out of the box. Especially when you pay good money for it. I’ve come to
+expect a few hiccups here and there with open source software. But
+purchasing an expensive rich editing component from a leading vendor,
+performing a fresh install, and having buttons popup javascript alert
+boxes with debug information is inexcusable. Along with some other
+features just plain not working.
+
+It just makes me angry! And you don’ want to see me when I’m angry!
+Grrr...
+

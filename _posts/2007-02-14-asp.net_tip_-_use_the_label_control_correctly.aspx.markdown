@@ -1,0 +1,68 @@
+---
+layout: post
+title: "ASP.NET Tip - Use The Label Control Correctly"
+date: 2007-02-14 -0800
+comments: true
+disqus_identifier: 18215
+categories: [asp.net]
+---
+[Scott Watermasysk](http://scottwater.com/ "Scott Watermasysk") has a
+great set of [Quick Tips for
+ASP.NET](http://feeds.scottwater.com/~r/scottwater/~3/91219373/ "Quick Tips For ASP.NET Part 1")
+on his blog. And this is only part one! I’m Looking forward to seeing
+the subsequent posts of this series.
+
+However, I disagree slightly with his tip to *Never use the ASP.NET
+`Label` control*. I would rephrase it to:
+
+**Never use the ASP.NET `Label` control when a `Literal` would do**.
+
+The problem is not the `Label` control. The problem is treating the
+`Label` control as if it was merely a `Literal` control.
+
+The `Label` control has a specific usage, to be a label for a form
+input. For example, check out this screenshot of a text label and
+textbox.
+
+![Textbox control and
+label](http://haacked.com/images/haacked_com/WindowsLiveWriter/UseTheLabelControlCorrectly_B044/TextBoxAndLabel_thumb2.png)
+
+Let’s look at one way to create this simple form using a `Literal`
+control (*Notice I’m getting the value from a Resource file because we
+all want to be internationally friendly, right? But it also points out
+why I use an actual control rather than just typing the label
+directly*).
+
+```csharp
+<asp:Literal id="label" Text="<%$ Resources:UserName %>"   runat="server" /> <asp:TextBox id="textbox" runat="server"/>
+```
+
+When you click on the word *Username* what happens? Nothing. **Wouldn’t
+it be nice if the Textbox next to the literal was given focus?** Here’s
+how:
+
+```csharp
+<asp:Label id="label" AssociatedControlId="textbox"     Text="Username" runat="server" /> <asp:TextBox id="textbox" runat="server" />
+```
+
+Now, we’ve associated the label to the control. The underlying HTML
+looks something like (simplified for the sake of discussion):
+
+```csharp
+<label for="textbox">Username</label> <input type="textbox" name="textbox" value="" />
+```
+
+This associates the label *Username* with the textbox control, so when
+you click on label, the textbox gets focus.
+
+So why use the `Label` server control here? **Why not just use the
+\<label /\> html tag directly?**
+
+Because you might not know at compile time what the client id of the
+TextBox will actually end up as. What if these two controls were inside
+a UserControl inside a page? The ID might get a bit funky as its nested
+in a control within a control.
+
+Technorati Tags: [Tips](http://technorati.com/tags/Tips),
+[ASP.NET](http://technorati.com/tags/ASP.NET),
+

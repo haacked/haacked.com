@@ -1,0 +1,51 @@
+---
+layout: post
+title: "ASP.NET MVC Preview of a Preview"
+date: 2008-04-16 -0800
+comments: true
+disqus_identifier: 18476
+categories: [asp.net,asp.net mvc,code]
+---
+UPDATE: Just to prove that this is a preview of a preview, we had a
+signing problem with the initial pre-built VSI download. If you tried
+building from source, everything should’ve been ok. We apologize for
+that. Even though this is meant to be a rough preview, we do want to
+have a high quality bar in that you should be able to try out the code.
+So if you run into that problem, please do download the VSI again.
+
+It’s no secret that Microsoft can get better at naming **non RTM**
+(Release to Manufacturing) releases. We have terms like CTP, Preview,
+Alpha, Beta, RC (Release Candidate), and so on. On the other hand, at
+least Microsoft does try to move things along to RTM rather than keeping
+products in perpetual Beta.
+
+With ASP.NET MVC, we also need to add yet another type of release. For
+now I’ve been calling this a *[CodePlex Source
+Release](http://www.codeplex.com/aspnet/Release/ProjectReleases.aspx?ReleaseId=12640 "CodePlex Source Release")*
+meaning it’s simply sharing source code that is *in progress*.
+[ScottGu](http://weblogs.asp.net/scottgu/ "Scott Guthrie") called it a
+“Preview of a Preview” in my office one day and that name stuck with me.
+This is really a preview of an upcoming preview. ;)
+
+Speaking of ScottGu, he posted [a detailed description of this
+release](http://weblogs.asp.net/scottgu/archive/2008/04/16/asp-net-mvc-source-refresh-preview.aspx "ASP.NET MVC Source Refresh Preview")
+on his blog last night. I recommend taking a look at it because he
+covers most of the changes in good detail.
+
+One aspect of this latest source release that I’m particularly happy
+about is that we released our unit tests. As Scott mentioned, we are
+using [MoQ](http://code.google.com/p/moq/ "Moq") as a mock framework
+within our tests. Note that this is not some official endorsement of any
+particular mock framework. Originally we started out trying to port our
+tests to Rhino Mocks (which I’ve [written a lot
+about](http://haacked.com/tags/rhino+mocks/default.aspx "Rhino Mocks on Haacked.com")).
+MoQ just happened to have a programming model that was closer to the way
+our internal mock framework works, so we switched over to MoQ.
+
+I will write more about this release later. But for now, I will leave
+you with an **[updated Northwind
+Demo](http://haacked.com/code/NorthwindDemo.zip "Northwind")** based on
+this release because *there ain’t no party like a Northwind party*.
+
+Technorati Tags: [aspnetmvc](http://technorati.com/tags/aspnetmvc)
+

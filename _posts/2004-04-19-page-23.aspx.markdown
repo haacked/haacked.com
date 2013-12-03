@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Page 23"
+date: 2004-04-19 -0800
+comments: true
+disqus_identifier: 339
+categories: []
+---
+> "Unfortunately, the regular expression language is no different from
+> any other in that it has various dialects and accents" -- *[Masting
+> Regular
+> Expressions](http://www.amazon.com/exec/obidos/tg/detail/-/1565922573/104-4151528-6682347?v=glance)*,
+> Jeffrey E. F. Friedl
+
+So I know this is basically the geek equivalent to those cheesy email
+surveys that go around asking you to answer a bunch of questions about
+yourself and then send the questionnaire and your answers to all your
+friends, but I have to participate anyways. I found this meme going in a
+[blog entry](http://www.interact-sw.co.uk/iangblog/2004/04/19/pagememe)
+that asks you to do the following:
+
+> Grab the nearest book. Open the book to page 23. Find the fifth
+> sentence. Post the text of the sentence in your journal along with
+> these instructions.
+
+So there you go. I admit, I don't have every arcane rule of regular
+expressions in my head. I often refer to the \^(1+)\$ times a day. It is
+truly the [A-Za-z] of regular expressions.
+

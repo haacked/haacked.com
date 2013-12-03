@@ -1,0 +1,69 @@
+---
+layout: post
+title: "ASP.NET MVC 2 Preview 2"
+date: 2009-09-30 -0800
+comments: true
+disqus_identifier: 18646
+categories: []
+---
+Today we just released ASP.NET MVC 2 Preview 2 for Visual Studio 2008
+SP1 (and ASP.NET 3.5 SP1), which builds on top of the work we did in
+[Preview 1 released two months
+ago](http://haacked.com/archive/2009/07/30/asp.net-mvc-released.aspx "ASP.NET MVC 2 Preview 1 Released").
+
+-   [Download
+    Page](http://go.microsoft.com/fwlink/?LinkID=154414 "Download ASP.NET MVC 2 Preview 2")
+-   [Release
+    Notes](http://go.microsoft.com/fwlink/?LinkID=157066 "ASP.NET MVC 2 Preview 2 Release Notes")
+-   [Roadmap](http://aspnet.codeplex.com/Wiki/View.aspx?title=Road%20Map&referringTitle=Home "Roadmap")
+-   [Source Code and Futures on
+    CodePlex](http://aspnet.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=33836 "Source Code on CodePlex") 
+
+Some of the cool new features we’ve added to Preview 2 include:
+
+-   **Client-Side Validation** – ASP.NET MVC 2 includes the [jQuery
+    validation
+    library](http://bassistance.de/jquery-plugins/jquery-plugin-validation/ "jQuery Validation")
+    to provide client-side validation based on the model’s validation
+    metadata. It is possible to hook in alternative client-side
+    validation libraries by writing an adapter which adapts the client
+    library to the JSON metadata in a manner similar to the [xVal
+    validation
+    framework](http://xval.codeplex.com/ "xVal Validation Framework on CodePlex").
+-   **Areas** – Preview 2 includes in-the-box support for single project
+    areas for developers who wish to organize their application without
+    requiring multiple projects. Registration of areas has also been
+    streamlined.
+-   **Model Validation Providers** - allow hooking in alternative
+    validation logic to provide validation when model binding. The
+    default validation providers uses Data Annotations.
+-   **Metadata Providers** - allow hooking in alternative sources of
+    metadata for model objects. The default metadata provider uses Data
+    Annotations.
+
+Based on this list, you’ll notice a theme where in Preview 1, we tied
+much functionality directly to Data Annotation attributes, in Preview 2
+we inserted abstractions around our usage of Data Annotations which
+allow hooking in custom implementations of validation and metadata
+providers.
+
+This will allow you to do things like swapping out our default
+validation with the Enterprise Library Validation Block for example. It
+also allows providing implementations where model metadata is stored in
+alternative locations rather than via attributes, with a bit of work.
+
+### What About Visual Studio 2010?
+
+The tools for this particular release only work in Visual Studio 2008
+SP1. The version of ASP.NET MVC 2 Preview 2 for Visual Studio 2010 will
+be released in-the-box with Visual Studio 2010 Beta 2. You won’t need to
+go anywhere else, it’ll just be there waiting for you. Likewise, the RTM
+of ASP.NET MVC 2 will be included with the RTM of Visual Studio 2010.
+
+Therefore, if you want to try out the new [HTML encoding code
+blocks](http://haacked.com/archive/2009/09/25/html-encoding-code-nuggets.aspx "HTML Encoding Code Blocks")
+with ASP.NET MVC 2 Preview 2, you’ll have to wait till Visual Studio
+2010 Beta 2 is released. But for now, you can try out Preview 2 on VS
+2008 and start [providing
+feedback](http://forums.asp.net/1146.aspx "ASP.NET MVC Forums").
+

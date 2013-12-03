@@ -1,0 +1,98 @@
+---
+layout: post
+title: "ASP.NET MVC 2 Preview 1 Released"
+date: 2009-07-29 -0800
+comments: true
+disqus_identifier: 18630
+categories: [asp.net,code,asp.net mvc]
+---
+UPDATE: This post is outdated. ASP.NET MVC 2 RTM was [released in
+March](http://haacked.com/archive/2010/03/11/aspnet-mvc2-released.aspx "ASP.NET MVC 2 RTM").
+
+Four and a half months after my team [released ASP.NET MVC
+1.0](http://haacked.com/archive/2009/03/18/aspnet-mvc-rtw.aspx "ASP.NET MVC 1.0"),
+I am very happy to announce that the release of our first Preview of
+version 2 of ASP.NET MVC is now [**available for
+download**](http://go.microsoft.com/fwlink/?LinkID=154409 "ASP.NET MVC 2 Preview 1").
+Go download it immediately and enjoy its coolness. :) Don’t be afraid to
+install it as it will sit nicely side-by-side with ASP.NET 1.0.
+
+The **[release
+notes](http://go.microsoft.com/fwlink/?LinkID=154411 "ASP.NET MVC 2 Preview 1 Release Notes")**
+provide more details on what’s in this release and I’ve also updated the
+[**Roadmap on
+CodePlex**](http://aspnet.codeplex.com/Wiki/View.aspx?title=Road%20Map&referringTitle=Home "ASP.NET MVC Roadmap"),
+which describes the work we want to do in Preview 2 and beyond.
+
+After shipping ASP.NET MVC 1.0, the team and I spent time pitching in on
+ASP.NET 4 which was a nice diversion for me personally as I got a chance
+to work on something different for a while and it let ideas for ASP.NET
+MVC 2 percolate.
+
+But now I’m very happy to be back in the saddle going full bore working
+on ASP.NET MVC again. As mentioned in the roadmap and elsewhere, ASP.NET
+MVC 2 will run on both ASP.NET 3.5 SP1 and ASP.NET 4. We will be
+shipping ASP.NET MVC 2 in the box with Visual Studio 2010 and be making
+a separate installer for Visual Studio 2008 SP 1 available via download.
+
+### Templated Helpers
+
+One of my favorite new additions in Preview 1 is what we call the
+Templated Helpers. You can watch [a short Channel 9
+Video](http://channel9.msdn.com/posts/Glucose/Hanselminutes-on-9-ASPNET-MVC-2-Preview-1-with-Phil-Haack-and-Virtual-Scott/ "Haack on Templated Helpers")
+that Scott Hanselman filmed of me giving a last minute impromptu demo of
+Templated Helpers.
+
+Templated Helpers allow you to automatically associate templates for
+editing and displaying values base on the data type. For example, a date
+picker UI element can be automatically rendered every time data of type
+System.DateTime is used.
+
+If you’re familiar with [Field Templates in ASP.NET Dynamic
+Data](http://msdn.microsoft.com/en-us/library/cc488523.aspx "ASP.NET Dynamic Data Field Templates Overview"),
+then this is very similar to that, but specific to ASP.NET MVC.
+
+To find out more about the helpers, check out the pre-release
+documentation for a [walkthrough of using Templated
+Helpers](http://go.microsoft.com/fwlink/?LinkId=159062 "Walkthrough of Templated Helpers").
+
+We also include support for Areas and Data Annotations, along with
+various bug fixes and minor API improvements. Everything is detailed in
+the [Release
+Notes](http://go.microsoft.com/fwlink/?LinkID=154411 "Release Notes").
+
+### The Team
+
+I have to say, I really like being a part of a team that I feel is
+working very well together and am proud of the work they’ve done. Some
+of them already have blogs such as [Eilon (rarely updated)
+and](http://weblogs.asp.net/leftslipper/ "Eilon's Blog")[Brad
+Wilson](http://bradwilson.typepad.com/ "Brad Wilson's Blog"). The QA
+guys [recently started a podcast](http://codingqa.com/ "CodingQA"). But
+others (Levi, looking at you) really need to start a blog. ;) Great work
+fellas!
+
+Be sure to let us know what you think and provide **[feedback in our
+forums](http://forums.asp.net/1146.aspx "ASP.NET MVC Forums")**!
+
+**Related Links**
+
+-   [ASP.NET MVC Overview on
+    MSDN](http://msdn.microsoft.com/en-us/library/dd381412(VS.100).aspx "ASP.NET MVC Overview")
+-   [ASP.NET MVC Reference Documentation on
+    MSDN](http://msdn.microsoft.com/en-us/library/system.web.mvc(VS.100).aspx "ASP.NET MVC Reference")
+-   [Download Page for ASP.NET MVC 2 Preview
+    1](http://go.microsoft.com/fwlink/?LinkID=154409 "Download Page")
+-   [ASP.NET MVC website](http://asp.net/mvc "ASP.NET MVC Website")
+-   [ASP.NET CodePlex
+    site](http://aspnet.codeplex.com/ "http://aspnet.codeplex.com/")
+-   [ASP.NET MVC
+    Forums](http://forums.asp.net/1146.aspx "ASP.NET MVC Forums")
+
+**Note**: the official name of this version of the product is ASP.NET
+MVC 2 and not ASP.NET MVC 2.0 as some might expect. Maybe it’s part of a
+new marketing initiative to get rid of dots in product names. I guess
+they didn’t read my [Law of Demeter
+post](http://haacked.com/archive/2009/07/14/law-of-demeter-dot-counting.aspx "Law of Demeter")
+to understand it’s not about reducing dots ;).
+

@@ -1,0 +1,55 @@
+---
+layout: post
+title: "ASP.NET MVC Northwind Demo Using the Spark View Engine"
+date: 2008-12-07 -0800
+comments: true
+disqus_identifier: 18563
+categories: [asp.net mvc,asp.net]
+---
+While at PDC, I met [Louis
+DeJardin](http://whereslou.com/ "Where's Lou") and we had some lively
+discussions on various topics around ASP.NET MVC. He kept bugging me
+about some view engine called Flint? No… Electricity? No…
+[Spark](http://dev.dejardin.org/ "Spark View Engine")!
+
+I had heard of it, but never got around to actually playing with it
+until after the conference. And the verdict is, I really like it.
+
+Spark is a view engine for both Monorail and [ASP.NET
+MVC](http://asp.net/mvc "ASP.NET MVC Website"). It supports multiple
+content area layouts much like master pages, which is one thing that
+seems to be lacking in many other view engines I’ve seen, which only
+support a single content area, correct me if I’m wrong. Not only that,
+but he’s already included
+[IronPython](http://www.codeplex.com/IronPython "IronPython on CodePlex")
+and [IronRuby](http://www.ironruby.net/ "IronRuby") support.
+
+But what I really like about it is the simple way you effectively data
+bind HTML elements to code. Let’s start with a simple example. Suppose
+you have an enumeration of products you’re passing to the view from your
+controller action. Here’s how you might render it in Spark.
+
+```csharp
+<viewdata model="IEnumerable[[Product]]"/>
+
+<ul class="products">
+  <li each="var product in ViewData.Model">${product.ProductName}</li>
+</ul>
+```
+
+Note the each attribute of the `<li>` tag contains a code expression.
+This will repeat the `<li>` tag once per product. The `<viewdata>`
+element there declares the type of the `ViewData.Model` property.
+
+Spark still supports using code nuggets \<% %\> when you absolutely need
+them. For example, when using the `BeginForm` method, I needed a using
+block, so I used the code nuggets.
+
+Just for fun, I redid the views of my Northwind sample to replace all
+the ASPX views with Spark as a demonstartion of using an alternative
+view engine. **[Try it
+out](http://haacked.com/code/Northwind-spark.zip "Northwind Demo with Spark")**.
+
+UPDATE: Updated to the latest version of ASP.NET MVC and Spark as of
+ASP.NET MVC 1.0 RC 2.
+
