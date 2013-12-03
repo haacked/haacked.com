@@ -1,0 +1,153 @@
+---
+layout: post
+title: "Subtext 1.9 &quot;Daedelus&quot; Released!"
+date: 2006-08-30 -0800
+comments: true
+disqus_identifier: 16209
+categories: []
+---
+![Subtext
+Logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext1.9DaedelusReleased_10CAF/SubtextLogo5.png)
+Well my friends, it took a bit longer than expected to get Subtext 1.9
+out the door, but we did it.  When we [released Subtext
+1.5](http://haacked.com/archive/2006/06/07/Subtext1.5NautilusRAndREditionReleased.aspx "Subtext 1.5 announcement") back
+in June I said,
+
+> The next version of Subtext is code named **Daedelus**. It will simply
+> be a straight upgrade to ASP.NET 2.0. We hope for a quick turnaround
+> as we don’t plan to add a lot of features in this iteration. We just
+> want to get up and running in ASP.NET 2.0.
+
+Well that was then and this is now and I was wrong about the *quick
+turnaround*.
+
+We realized that a straight port to ASP.NET 2.0 wasn’t much fun if we
+couldn’t take advantage of some of the new goodies that ASP.NET 2.0
+has.  So we spent a significant amount of time cleaning up code and
+refactoring some functionality to take advantage of what ASP.NET 2.0
+offers.  A lot of the changes are under the hood, but there are still a
+few surface level treats for everybody.
+
+Before you upgrade to 1.9, please check out my [notes on
+upgrading](http://haacked.com/archive/2006/08/31/Important_Note_On_Upgrading_to_Subtext_1.9.aspx "important note on upgrading Subtext").
+
+So what is new in Subtext 1.9 besides that it is now an ASP.NET 2.0
+application?
+
+Under The Hood
+--------------
+
+Let’s not kid ourselves. 99.999% (Five nines baby!) of my readers are
+geeks and we want to pop open the hood and take a look around.
+
+1.  Subtext Providers have been refactored to use the Microsoft base
+    Provider class, `System.Configuration.Provider.ProviderBase`.
+2.  Used Generics where appropriate.  As you know, there is a lot of
+    temptation when given a new hammer to start looking at everything as
+    a nail.  We tried to avoid that temptation and make judicious use of
+    Generics.  I think we did a bang up job.  Most of our collection
+    classes are now generic collections and there’s
+    that [`CollectionBook`](http://haacked.com/archive/2006/08/14/FunIteratingPagedCollectionsWithGenericsAndIterators.aspx "Fun iterating PagedCollections")
+    class I wrote about recently.
+3.  Improved our Continuous Integration and build process using
+    CruiseControl.NET.  We now have a [nice
+    dashboard](http://haacked.dyndns.org/ccnet/ "CCNET Dashboard") that
+    provides a lot of visibility into our development progress.
+4.  Improved our unit test [code
+    coverage](http://haacked.com/archive/2004/11/03/CodeCoverageIsNotEnough.aspx "Code Coverage is not enough")
+    to 36.4% and counting. (When I started it was pretty much 0)
+5.  Subtext now runs under Medium Trust without problems except for the
+    [Trackback/Pingback
+    issue](http://haacked.com/archive/2006/07/10/MoreOnMediumTrustAndTrackbacks.aspx "Trackbacks in Medium Trust").
+6.  Converted the Subtext.Web project into a [Web Application
+    Project](http://msdn.microsoft.com/asp.net/reference/infrastructure/wap/default.aspx "Web Application Project").
+7.  Added a *\_System* folder to the Skins directory. This contains some
+    CSS files that any skin may reference which provide some common CSS
+    layout and styles.  For example, by referencing commonstyle.css, you
+    can use the *pullout* css class to pullout some text.  Custom skins
+    can reference these files and override specific settings, putting
+    the *Cascading* back in CSS.
+
+Try out the new “pullout” or “pullout.alt” CSS classes.
+
+New Features
+------------
+
+Some new features we added.
+
+1.  Sometimes removing code is as much a feature as adding code.  As I
+    [announced
+    earlier](http://haacked.com/archive/2006/08/26/Developing_Custom_Skins.aspx "Developing Custom Skins"),
+    we removed some old skins and added some snazzy new ones.  We also
+    implemented a way for custom skin definitions to not get overwritten
+    when upgrading code.
+2.  Improvements to the packaged skins.  We added the Previous/Next
+    control to nearly every skin as well as [Gravatar
+    support](http://subtextproject.com/Home/Docs/Configuration/ConfiguringGravatars/tabid/149/Default.aspx "Configuring Gravatars") among
+    other minor improvements.
+3.  **Comment Moderation!**  This high demand feature was fast-tracked
+    when [my company](http://veloc-it.com/ "My Day Job") was hired to
+    implement it for a client who wished to start a blog. The client
+    agreed to contribute the source back to the project!
+4.  Not exactly a new feature, but we changed the default Html Editor to
+    use the [FCKEditor](http://www.fckeditor.net/ "Html Editor").
+5.  Implemented
+    [RSD](http://cyber.law.harvard.edu/blogs/gems/tech/rsd.html "Really Simple Discovery")
+    (Really Simple Discovery) and the [MetaWeblog
+    API’s](http://www.xmlrpc.com/metaWeblogApi "RFC") `newMediaObject`
+    method so that Subtext works quite well with [Windows Live
+    Writer](http://ideas.live.com/programpage.aspx?versionId=4372c8c2-b76f-4d44-aea1-9835b61d8dc1 "WLW Beta Announcement").
+
+Bug Fixes
+---------
+
+There are probably too many to list, but I'll point out a few that
+people may have noticed.
+
+1.  [[1524172](http://sourceforge.net/tracker/index.php?func=detail&aid=1524172&group_id=137896&atid=739979 "SourceForge")]
+    The Username is being saved as the title.
+2.  [[1524371](http://sourceforge.net/tracker/index.php?func=detail&aid=1524371&group_id=137896&atid=739979 "SourceForge")]
+    Non-English comments do not appear correctly in mail message.
+3.  [[1521317](http://sourceforge.net/tracker/index.php?func=detail&aid=1521317&group_id=137896&atid=739979 "SourceForge")]
+    Installation check code fails in locked down scenarios.
+4.  [[1519764](http://sourceforge.net/tracker/index.php?func=detail&aid=1519764&group_id=137896&atid=739979 "SourceForge")]
+    Skin selection not retained.
+
+Important Note
+--------------
+
+Subtext ships with
+[ReverseDOS](http://www.angrypets.com/tools/rdos/ "Angry Pets ReverseDOS")
+spam blocker enabled out of the box. Please check the ReverseDOS.config
+file to make sure that it is not filtering any terms that would be
+relevant to comments in your blog. You can also disable ReverseDOS by
+removing any reference to it from Web.config should you so desire.
+
+Plans For The Future
+--------------------
+
+We are now gearing up for Subtext 2.0 “Poseidon”, our next major
+release, which will feature a plugin framework.  Our hope is to foster a
+community of plugin contributions.  Other features in the works include
+a Membership provider which will allow multiple authors for a single
+blog and a new skinning framework. I will update the
+[Roadmap](http://subtextproject.com/Home/Roadmap/tabid/55/Default.aspx "Subtext Roadmap")
+soon to reflect our current plans for 2.0.
+
+Also, with the [recent
+deluge](http://haacked.com/archive/2006/08/29/Comment_Spam_Heuristics.aspx "Comment Spam Heuristics")
+in comment spam, I am considering having an interim release (1.9.1) that
+would include [Akismet](http://akismet.com/ "Akismet") as well as
+semi-moderation (1.9 does include full moderation now). Ideally we would
+save these features until we have a plugin framework, as they seem like
+great candidates for plugins. However the communal benefit of blocking
+spam may be too great to wait.
+
+Many thanks to the growing numbers of Subtext contributors who helped
+shape and test this release.  All your efforts, whether it is coding,
+submitting patches, testing, reporting bugs, requesting features, or
+just giving us a piece of your mind are appreciated!
+
+And before I forget, as I tend to do, the link to the latest [release is
+here](http://sourceforge.net/project/showfiles.php?group_id=137896 "Subtext 1.9 Release").
+

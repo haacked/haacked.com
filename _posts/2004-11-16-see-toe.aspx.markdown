@@ -1,0 +1,23 @@
+---
+layout: post
+title: "See-Toe"
+date: 2004-11-16 -0800
+comments: true
+disqus_identifier: 1632
+categories: []
+---
+Recently my company (which was a division of Company X) was purchased by
+Company Y. Company Y is based outside of the country and we are a fully
+owned subsidiary and make up their U.S. presence.
+
+A couple weeks ago or so we found out that my boss (our CTO) was
+promoted to CTO of the parent company. He has to spend 25% of his time
+at the parent company's headquarters in Canada and 75% here, though it's
+been more like 50/50. Some of my coworkers are starting to call me
+"See-Toe". (Get it?).
+
+In any case, I'm currently the lead on integration efforts to get our
+platform running on cell phones and set-top boxes. It's one of the more
+interesting projects I've worked on, though I really can't (or am not
+sure if I should) talk about it much here.
+

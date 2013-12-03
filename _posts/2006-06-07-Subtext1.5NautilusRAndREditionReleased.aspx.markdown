@@ -1,0 +1,160 @@
+---
+layout: post
+title: "Subtext 1.5 Nautilus R and R Edition Released!"
+date: 2006-06-07 -0800
+comments: true
+disqus_identifier: 13182
+categories: []
+---
+IMPORTANT UPDATE: There was a security bug in Subtext 1.5 for multiblog
+setups that will allow the admin of one blog to login to another blog.
+If you are only using a single blog setup, you have nothing to worry
+about. For multiblog setups, please upgrade to Subtext 1.5.1. The change
+is a single line change in `Subtext.Framework.dll` so if you have
+already upgraded to Subtext 1.5, you can simply copy over the old
+`Subtext.Framework.dll` file with the new one instead of copying every
+file from the installation package. Sorry for the the inconvenience.
+[Download Subtext
+1.5.1](http://sourceforge.net/project/showfiles.php?group_id=137896 "Subtext Downloads").
+
+![Subtext Logo](http://haacked.com/images/SubtextLogo.png) After much
+hard work, the Subtext team is proud to announce the release of [Subtext
+1.5](http://sourceforge.net/project/showfiles.php?group_id=137896 "Download it"),
+dubbed the Nautilus R&R Edition. This is primarily a bugfix release with
+a load of bug fixes, but there are a couple of significant new features
+as well as a bit of developer candy thrown in.
+
+### Release Notes
+
+Rather than list all the bug fixes and new features here, I will point
+you to the [release notes published
+online](http://subtextproject.com/Home/Roadmap/ReleaseNotes/tabid/146/Default.aspx "Subtext Release Notes").
+
+I will point out a few key changes.
+
+### HtmlEditorProvider
+
+Subtext now supports an HtmlEditorProvider. You can swap out the html
+editor used in the admin section by implementing a provider for your
+editor of choice. Providers that ship with Subtext include the
+FreeTextBoxProvider (default), FCKeditorProvider, and PlainTextProvider
+for you angle bracket jockeys.
+
+For more information on how to change the [text editor, read
+this](http://subtextproject.com/Home/Docs/Developer/RichTextEditorConfiguration/tabid/144/Default.aspx "How to change the text editor").
+
+### Javascript BlogInfo object
+
+By default now, Subtext emits a javascript object useful for client
+scripts to access information about the blog. This object is
+intentionally simple, but may be expanded as needed. The variable name
+for this object is `subtextBlogInfo`. The following is an example of its
+usage.
+
+```csharp
+var imagesPath = subtextBlogInfo.getImagesVirtualRoot();
+alert(imagesPath);
+```
+
+### Improved Skin configuration {.clear}
+
+If you write custom skins, the `Skins.config` file has a few new
+features. Here is a sample skin configuration that highlights several
+new features.
+
+```csharp
+<SkinTemplate SkinID="Haackify" Skin="Haackify">
+    <Scripts>
+        <Script Src="~/Admin/Resources/Scripts/niceForms.js" />
+        <Script Src="~/scripts/lightbox.js" />
+        <Script Src="~/scripts/XFNHighlighter.js" />
+        <Script Src="~/scripts/ExternalLinks.js" />
+        <Script Src="~/scripts/LiveCommentPreview.js" />
+        <Script Src="~/scripts/AmazonTooltips.js" />
+    </Scripts>
+    <Styles>
+        <Style href="~/scripts/XFNHighlighter.css" />
+        <Style href="~/scripts/lightbox.css" />
+        <Style href="niceforms-default.css" />
+        <Style href="print.css" media="print" />
+    </Styles>
+</SkinTemplate>
+```
+
+Notice that you can reference files using the tilde (\~) syntax. Subtext
+now comes with several script files in the base `Scripts` directory that
+can be shared across skins. For example, if you want to add the
+[LightBox JS](http://huddletogether.com/projects/lightbox/ "LightboxJS")
+effect to your skin, just reference the `~/scripts/lightbox.js` in the
+`Script` section and the `~/scripts/lightbox.css` section in the `Style`
+section as in the above example.
+
+The root `Scripts` directory is a central repository for Subtext client
+script files that are accessible to all skins. Typically skins will
+include their own scripts. But occasionally the Subtext team will make
+popular scripts available to all skins. Some of these scripts have been
+modified to use the `subtextBlogInfo` object mentioned before.
+
+Also notice that `Style` elements may now specifa a media. Thus you can
+add a stylesheet to a skin specifically for printing.
+
+### New Skins and Skin Controls
+
+Checkout the new
+*[Submarine](http://haacked.com/archive/2006/06/07/SubmarineSkin.aspx "Submarine")*
+skin designed by our friends at
+[TurboMilk](http://turbomilk.com/ "TurboMilk"). We have also added
+several new skin controls such as the Previous Next control which
+renders a link to the previous and next blog post. Note that not every
+blog uses every skin control, but it is quite easy to add such a control
+to the skin of your choice.
+
+### CSS Based Printing
+
+Nearly every skin in Subtext now implements CSS [based
+printing](http://haacked.com/archive/2006/03/09/ImplementingCSSBasedPrinting.aspx "CSS Based Printing").
+
+### Upgrading from Subtext 1.0
+
+Subtext 1.5 has an automatic web-based upgrade wizard that will upgrade
+your schema and stored procedures if you are currently running Subtext
+1.0. We have made changes to web.config so if you have made any
+customizations, you will need to merge these changes yourself which
+should not be too hard. Please read the [upgrade
+instructions](http://subtextproject.com/Home/Docs/Upgrading/tabid/147/Default.aspx "Upgrading Subtext to 1.5 from 1.0")
+carefully before upgrading.
+
+If you are uncomfortable upgrading your database schema automatically,
+you can try the manual schema upgrade process [outlined
+here](http://subtextproject.com/Home/Docs/Upgrading/ManualUpgradeProcess/tabid/148/Default.aspx "Manual Upgrade Process").
+The steps in that process are the same ones that the automatic wizard
+takes on your behalf.
+
+### Installation
+
+If you are installing Subtext for the first time, the web-based
+installation works as before. Just follow the [instructions
+here](http://subtextproject.com/Home/Docs/Installation/tabid/111/Default.aspx "Installing Subtext").
+
+### Next Stop, Daedelus!
+
+The next version of Subtext is code named **Daedelus**. It will simply
+be a straight upgrade to ASP.NET 2.0. We hope for a quick turnaround as
+we don’t plan to add a lot of features in this iteration. We just want
+to get up and running in ASP.NET 2.0. Afterwards we will start heavy
+work on Subtext 2.0 **Poseidon**. This will be a more ambitious release.
+
+Please note that we may introduce a lot of breaking changes for skins in
+Subtext 2.0. We will try and keep you informed so that you will have
+advanced warning on how to upgrade your custom skins.
+
+### Links
+
+-   [Download Subtext
+    1.5.1](http://sourceforge.net/project/showfiles.php?group_id=137896 "Subtext Downloads")
+-   [Subtext Project
+    Website](http://subtextproject.com/ "Subtext Project Website")
+-   [Subtext on
+    SourceForge](http://sourceforge.net/projects/subtext "Subtext SourceForge Site")
+
+

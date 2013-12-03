@@ -1,0 +1,35 @@
+---
+layout: post
+title: "ASP.NET MVP Haacked"
+date: 2006-04-30 -0800
+comments: true
+disqus_identifier: 12610
+categories: []
+---
+![ASP.NET 2.0 MVP Hacks and
+Tips](http://haacked.com/images/ASP.NET_Hacks.jpg) [Scott Hanselman
+mentions a new
+book](http://www.hanselman.com/blog/ASPNETMVPHacks.aspx "ASP.NET MVP Hacks")
+in which he is one of the coauthors featured on the cover. Yes, they
+**do** look like they are throwing the twelve sided dice on a table with
+meticulously painted miniatures. If you have no idea what I am talking
+about, you have never embraced the inner geek.
+
+The reason I mention this is that In 2005 I wrote a post in which I
+presented an [Abstract Boilerplate
+HttpHandler](http://haacked.com/archive/2005/03/17/2394.aspx "Boilerplate HttpHandler").
+This particular post was inspired and built upon Scott’s [original
+(non-abstract) boilerplate
+HttpHandler](http://www.hanselman.com/blog/PermaLink,guid,5c59d662-b250-4eb2-96e4-f274295bd52e.aspx "Boilerplate HttpHandler").
+And now it comes full circle as Scott has borrowed from my borrowing,
+cleaned it up a bit, put a tie and suit on it, and then put it in a
+book.
+
+Nice work! Now in order to one-up him, I will have to borrow from the
+book (which would be borrowing from a borrowed borrow) and get a
+Hollywood movie made. Keanu Reeves stars in *Abstract Boilerplate
+HttpHandler I - The Pipeline of Opportunity*.
+
+So among this book of MVP hacks, they have inadvertently included a
+Haack.
+

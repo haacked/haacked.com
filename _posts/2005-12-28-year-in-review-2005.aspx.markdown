@@ -1,0 +1,91 @@
+---
+layout: post
+title: "My Year In Blogging - 2005"
+date: 2005-12-28 -0800
+comments: true
+disqus_identifier: 11384
+categories: [personal]
+---
+In a blatant [ripoff of Scott
+H](http://www.hanselman.com/blog/ "Scott hanselman’s Blog"), I am going
+to post the best of “You’ve Been Haacked” 2005 edition. This year, you
+laughed, you cried and when you were done, you came over and briefly
+glanced at my blog. But I took it in stride and continued to write, rant
+and rave... and this was the best I could come up with in 2005^1^.
+
+**Technical**
+
+-   [Quickstart Guide to Open Source Development with CVS and
+    SourceForge](http://haacked.com/archive/2005/05/12/3178.aspx "Quickstart Guide to Open Source Development with CVS and SourceForge")\
+     Hopefully this helps get many .NET devs to get involved in open
+    source.
+-   [An Abstract Boilerplate
+    HttpHandler](http://haacked.com/archive/2005/03/17/2394.aspx "An Abstract Boilerplate HttpHandler")\
+     Wherein I first ripoff
+    [Scott](http://www.hanselman.com/blog/ "Scott hanselman’s Blog"),
+    make a slight improvement, and attempt to take all the credit.
+-   [Quick and Dirty Guid to Configuring Log4Net for Web
+    Applications](http://haacked.com/archive/2005/03/07/2317.aspx "Configuring Log4Net for the Web")\
+    I know this has helped a few people.
+-   [Using Embedded Resources for Client Script Blogs in
+    ASP.NET](http://haacked.com/archive/2005/04/29/2879.aspx "Embedded Resources for ASP.NET")\
+    Another moment of embracing and extending.
+-   [Matching HTML with Regular Expressions
+    Redux](http://haacked.com/archive/2005/04/22/2784.aspx "Matching HTML With Regex")\
+    Matching html with regular expressions.
+-   [Design Patterns Isn’t a Golden
+    Hammer](http://haacked.com/archive/2005/05/31/3935.aspx)\
+    It is really more of a silvery colored hammer.
+-   [There is no Perfect
+    Design](http://haacked.com/archive/2005/05/31/ThereIsNoPerfectDesign.aspx)\
+    Just look at the Platypus.
+-   [Announcing Subtext, A Fork of .TEXT for Your Blogging
+    Pleasure](http://haacked.com/archive/2005/05/04/2953.aspx)\
+    Despite not having released this puppy yet, this has been a
+    fulfilling personal project.
+-   [Exception Injection Using a Custom SOAP
+    Extension](http://haacked.com/archive/2005/06/29/ExceptionInjectionUsingCustomSoapExtension.aspx "Exception Injection Using a Custom SOAP Extension")\
+    My wife loved this one.
+-   [Simulating Http Context For Unit Tests Without Using Cassinni nor
+    IIS](http://haacked.com/archive/2005/06/11/4617.aspx "Simulating Http Context")
+-   [Rollback Attribute for NUnit 2.2.1 and
+    Above.](http://haacked.com/archive/2005/06/10/4580.aspx "NUnit Rollback")\
+    Useful for us non-purists.
+-   [Does Mort Know We’re Talking Smack About Him Behind His
+    Back?](http://haacked.com/archive/2005/08/03/9210.aspx "Does Mort Know")\
+    This one touched off a lot of comments about coworkers.
+-   [Going Into Design
+    Debt](http://haacked.com/archive/2005/09/24/10336.aspx "Design Debt")\
+    It happens to us all.
+-   [DevSource Article On
+    Exceptions](http://haacked.com/archive/2005/11/17/DevSourceArticleOnExceptions.aspx)\
+    The one where I collaborate with Bob Reselman
+-   [A Closer Look at the Dispose
+    Pattern](http://haacked.com/archive/2005/11/18/ACloserLookAtDisposePattern.aspx "Dispose Pattern")
+
+**Personal**
+
+-   [I’m Going
+    Independent!](http://haacked.com/archive/2005/02/22/2168.aspx "I’m Going Indepdendent!")\
+     Well, this was significant to me.
+-   [Good Korean Food in Los
+    Angeles](http://haacked.com/archive/2005/03/17/2400.aspx "Good Korean Food in Los Angeles")
+    \
+     Developers gotta eat!
+-   [Dreaming of
+    Yakitori](http://haacked.com/archive/2005/08/05/9226.aspx "Yakitori")\
+    A great yakitori place in Tokyo.
+-   [Photos From Burning
+    Man](http://haacked.com/archive/2005/09/10/10019.aspx "Photos From Burning Man")\
+    At least the ones I’m willing to share.
+-   [New
+    Job](http://haacked.com/archive/2005/09/13/10065.aspx "New Job") \
+    Where [a friend](http://micahdylan.com/ "Micah Dylan’s Blog") and I
+    start a company.
+-   [Highlights From
+    Spain](http://haacked.com/archive/2005/11/29/11266.aspx "Highlights From Spain")\
+    A great trip!
+
+^1^ There is no objective criteria for choosing these posts. I simply
+deemed these to be the highlights.
+

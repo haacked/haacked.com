@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Subtext 1.9 Update"
+date: 2006-08-16 -0800
+comments: true
+disqus_identifier: 15242
+categories: []
+---
+Work on [Subtext](http://subtextproject.com/ "Subtext Project Site") 1.9
+is progressing well with more and more contributors chipping in. No firm
+release date yet, but hopefully soon.  The latest builds are pretty
+stable, but there a few more minor bug fixes to get in there. Also we
+plan to implement the [MetaWeblog
+API](http://www.xmlrpc.com/metaWeblogApi "RFC: MetaWeblog API")
+`newMediaObject` method in order to better support [Windows Live
+Writer](http://windowslivewriter.spaces.live.com/blog/cns!D85741BB5E0BE8AA!174.entry "Windows Live Writer Blog Editor").
+
+If you like to live dangerously, you can download one of the [latest
+builds](http://haacked.dyndns.org/builds/archive/ "latest Subtext builds")
+and give it a twirl.  Please note that link is running off of a VMWare
+Server within a Shuttle box in my office/guest room. So if we have
+guests, that link is going down for the night.
+
+Of course, should you find a bug, you know [the
+drill](http://sourceforge.net/tracker/?group_id=137896&atid=739979 "Subtext Bug Report").
+
+In the meanwhile, you can track our status by checking out our
+CruiseControl.NET [statistics
+page](http://haacked.dyndns.org/ccnet/server/local/project/SubText/ViewStatisticsReport.aspx "Subtext Build Stats"). 
+As you can see, our code coverage from unit tests is steadily climbing,
+currently at 34%.  There are 23584 lines of code with 1367 FxCop
+warnings.
+

@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Current Directory For Windows Service Is Not What You Expect"
+date: 2004-06-28 -0800
+comments: true
+disqus_identifier: 706
+categories: []
+---
+At least it wasn't what I expected.  By default, the current directory
+for your Windows service is the System32 folder.  I keep forgetting that
+which causes me problems when I try to access a file or folder using a
+relative path.
+
+~~~~ {style="COLOR: #000000"}
+System.IO.Directory.SetCurrentDirectory(System.AppDomain.CurrentDomain.BaseDirectory);
+~~~~
+
+Use the above line of code to set the current directory to the same
+directory as your windows service. Don't say I didn't warn you. I shall
+never forget again.
+

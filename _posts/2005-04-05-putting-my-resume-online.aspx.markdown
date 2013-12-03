@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Putting My Resume Online"
+date: 2005-04-05 -0800
+comments: true
+disqus_identifier: 2573
+categories: [personal,code]
+---
+I put up an HTML version of my
+[resume](http://haacked.com/Docs/PhillipHaack_Resume.html) on my blog.
+It has a slight bit more information than my Word resume which I think
+lends well to the online experience. For a moment I thought about using
+the Marquee and Blink tags all over and have animated dancing babies,
+but I don't have the design skills to do that tastefully. I even forgoed
+adding Google and Amazon ads all over.
+
+Since I'm now an independent consultant, I think it's a good idea to
+have that sucker online, though I think my blog posts will give the
+potential client a better sense of my experience and abilities.
+
+If you have suggestions for online resumes, let me know. I've thought
+about adding even more information in collapsible regions etc... in an
+effort to make it more “interactive” but I thought better of it. Maybe
+simplicity is best for now.
+

@@ -1,0 +1,87 @@
+---
+layout: post
+title: "ASP.NET MVC 2 Beta Released"
+date: 2009-11-16 -0800
+comments: true
+disqus_identifier: 18659
+categories: []
+---
+This is the first in a series on ASP.NET MVC 2 Beta
+
+1.  **ASP.NET MVC 2 Beta Released** (Release Announcement)
+2.  [Html.RenderAction and
+    Html.Action](http://haacked.com/archive/2009/11/18/aspnetmvc2-render-action.aspx "RenderAction")
+3.  [ASP.NET MVC 2 Custom
+    Validation](http://haacked.com/archive/2009/11/19/aspnetmvc2-custom-validation.aspx "Custom Validation")
+
+Today at [PDC09](http://microsoftpdc.com/ "PDC 2009") (the keynote was
+[streaming live](http://microsoftpdc.com/ "Microsoft PDC")), Bob Muglia
+announced the [release of ASP.NET MVC 2
+Beta](http://go.microsoft.com/fwlink/?LinkID=157068 "ASP.NET MVC 2 Beta").
+Feel free to download it right away! While you do that I want to present
+this public service message.
+
+[![fptopsecret](http://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2Beta_99BE/fptopsecret_3.jpg "fptopsecret")](http://oddlyspecific.com/2009/11/i-guess-the-secret-is-out-now/ "OddlySpecific.com: Please Drive Safely")
+
+The Beta release includes tooling for Visual Studio 2008 SP1. We did not
+ship updated tooling for Visual Studio 2010 because ASP.NET MVC 2 is now
+included as a part of VS10, which is on its own schedule.
+
+Unfortunately, because Visual Studio 2010 Beta 2 and ASP.NET MVC 2 Beta
+share components which are currently not in sync, running ASP.NET MVC 2
+Beta on VS10 Beta 2 **is not supported**.
+
+Here are some highlights of what’s new in ASP.NET MVC 2.
+
+-   RenderAction (and Action)
+-   AsyncController
+-   Expression Based Helpers (TextBoxFor, TextAreaFor, etc.)
+-   Client Validation Improvements (validation summary)
+-   Add Area Dialog
+-   Empty Project Template
+-   And More!
+
+### Go Live
+
+ASP.NET MVC 2 Beta also includes an explicit go-live clause within the
+EULA. You should make sure to read it has an interesting clause which
+references the operation of nuclear facilities, aircraft navigation,
+etc. ;)
+
+### More Details Please!
+
+You can find more details about this release in the [release
+notes](http://go.microsoft.com/fwlink/?LinkID=157069 "ASP.NET MVC 2 Beta Release Notes").
+Also be on the look out for one of
+[ScottGu](http://weblogs.asp.net/scottgu/ "Scott Guthrie's Blog")’s
+trademark blog posts covering what’s new
+
+I’ve started working on a series of blog posts where I will cover
+features of ASP.NET MVC 2 in more detail. I’ll start publishing these
+posts one at a time soon.
+
+### Next Stop: RC
+
+Our next release is going to be the release candidate hopefully before
+the year’s end. The work from now to RC will consist almost solely of
+bug fixes with a few minor feature improvements and changes.
+
+Please do play with the Beta. If you run into an issue that’s serious
+enough, there’s still time to consider changes for RC. Otherwise it will
+have to wait for ASP.NET MVC 3 which I’m just starting to think about.
+
+I’m thinking, “man, I can’t believe I’m already thinking about version
+3"!”
+
+### Links
+
+-   [Download page for ASP.NET MVC 2
+    Beta](http://go.microsoft.com/fwlink/?LinkID=157068 "Download Link")
+-   [Direct link to the ASP.NET MVC 2 Beta Readme
+    Notes](http://go.microsoft.com/fwlink/?LinkID=157069 "ASP.NET MVC 2 Beta Readme")
+-   [Source code and Futures for ASP.NET MVC 2
+    Beta](http://aspnet.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=36054 "ASP.NET MVC 2 Beta on CodePlex")
+
+Tags: [aspnetmvc](http://haacked.com/tags/aspnetmvc/default.aspx),
+[asp.net](http://haacked.com/tags/asp.net/default.aspx)
+

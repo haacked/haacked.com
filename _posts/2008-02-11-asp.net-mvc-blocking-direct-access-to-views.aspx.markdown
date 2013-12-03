@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Blocking Direct Access To Views in ASP.NET MVC"
+date: 2008-02-11 -0800
+comments: true
+disqus_identifier: 18455
+categories: [asp.net,code,asp.net mvc]
+---
+UPDATE: I improved this based on some feedback in my comments.
+
+With ASP.NET MVC it is possible for someone to try and navigate directly
+to a .aspx view. In general, this only leaves them with an ugly error
+message as Views typically need ViewData in order to work.
+
+However, one approach that I think will easily work is to create a
+Web.config file in the root of your Views directory that contains the
+following.
+
+We need to do more testing on our side to make sure there's no
+pathological case in doing this, but so far in my personal testing, it
+seems to work.
+
+```csharp
+<?xml version="1.0"?>
+<configuration>
+  <system.web>
+    <httpHandlers>
+      <remove verb="*" path="*.aspx"/>
+      <add path="*.aspx" verb="*" 
+          type="System.Web.HttpNotFoundHandler"/>
+    </httpHandlers>
+  </system.web>
+
+  <system.webServer>
+    <validation validateIntegratedModeConfiguration="false"/>
+    <handlers>
+      <remove name="PageHandlerFactory-ISAPI-2.0"/>
+      <remove name="PageHandlerFactory-ISAPI-1.1"/>
+      <remove name="PageHandlerFactory-Integrated"/>
+      <add name="BlockViewHandler" path="*.aspx" verb="*" 
+        preCondition="integratedMode" 
+        type="System.Web.HttpNotFoundHandler"/>
+    </handlers>
+  </system.webServer>
+</configuration>
+```
+
+Let me know if you run into problems with this.
+
+Technorati Tags: [ASP.NET
+MVC](http://technorati.com/tags/aspnetmvc),[Tips](http://technorati.com/tags/Tips),[ASP.NET](http://technorati.com/tags/ASP.NET)
+

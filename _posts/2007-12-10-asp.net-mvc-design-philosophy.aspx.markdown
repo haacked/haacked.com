@@ -1,0 +1,45 @@
+---
+layout: post
+title: "ASP.NET MVC Design Philosophy"
+date: 2007-12-10 -0800
+comments: true
+disqus_identifier: 18436
+categories: [asp.net,code,asp.net mvc]
+---
+[Eilon
+Lipton](http://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVCDesignPhilosophy_1509B/Rodin-Denker-Kyoto_2.jpg "Left Slipper"),
+the lead developer on the ASP.NET MVC project shares some of his
+[thoughts on the design
+philosophy](http://weblogs.asp.net/leftslipper/archive/2007/12/10/asp-net-mvc-design-philosophy.aspx "ASP.NET Design Philosophy")
+guiding the shaping of the framework.
+
+There have been many post describing what the framework is and how to
+perform tasks, which are really useful. I think a more reflective post
+like this is a breath of fresh air and a nice insight into how the team
+is making decisions.
+
+[![Rodin-Denker-Kyoto](http://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVCDesignPhilosophy_1509B/Rodin-Denker-Kyoto_3.jpg)](http://commons.wikimedia.org/wiki/Image:Rodin-Denker-Kyoto.jpg "The thinker - cc-by-sa-2.0 - from wikimedia")Eilon
+also covers some of the lessons we’ve already learned in building the
+CTP, and some of the changes we have planned for the next CTP.
+
+At the end he lists some interesting facts. Here are my two favorites:
+
+-   For the released CTP, the unit test code coverage numbers were about
+    93%, far more than any other major feature area. This does not
+    include the code coverage by our QA guys, which I’m sure would bring
+    the number up to at least 99%.
+-   We had about 250 unit tests for MVC, and the ratio of unit test code
+    to product code is about 1.9 to 1 (in terms of the size of the code
+    files, not lines of code; I’m too lazy to do the latter!).
+
+It has been a real joy to work with this team. For example, I’ve never
+worked with such experienced and smart QA people before. I always read
+that the QA team should be involved in design meetings, but Microsoft is
+the first place I worked where we actually did that in a real manner.
+
+Obviously the developers are top notch as you can see from Eilon’s blog
+in general. Hopefully the PM of this team can keep up. ;)
+
+Tags: [ASP.NET
+MVC](http://technorati.com/tags/aspnetmvc/ "ASP.NET MVC tag")
+

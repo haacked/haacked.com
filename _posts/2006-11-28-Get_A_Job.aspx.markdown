@@ -1,0 +1,76 @@
+---
+layout: post
+title: "Get A Job"
+date: 2006-11-28 -0800
+comments: true
+disqus_identifier: 18151
+categories: []
+---
+No, this is not a bait and switch post where I try to recruit you to
+work on [Subtext](http://subtextproject.com/ "Subtext").  A while ago [I
+mentioned](http://haacked.com/archive/2006/10/04/Better_Recruiting_Through_Blogistry.aspx "Hidden Network")
+that I was participating in [The Hidden
+Network](https://hiddennetwork.com/ "The Hidden Network").  So far, I
+really like it, though I think there is still room for improvement.
+
+If you visit my site (since many of you are reading this in an RSS
+aggregator), you might have noticed a
+[Jobs](http://jobs.haacked.com/1002/browse.aspx "Job Listings") link at
+top.  The link will take you to a full listing of jobs.
+
+The neat thing about this job listings page is that it is hosted by The
+Hidden Network. I simply added a CName to redirect jobs.haacked.com
+to hidden network.  They made it extremely easy for me to add a jobs
+section to my website.
+
+Being bored, I figured I’d take a look through the list to see what kind
+of job opportunities are available.  **Frankly, I am a little bit
+disappointed.  Many of the jobs sound like yaaaawners.**  Perhaps more
+employers should read my guide, [The Art Of The Job
+Post](http://haacked.com/archive/2006/10/20/Art_of_the_Job_Post.aspx "Art of the Job Post") (*If
+that came across as arrogant, whoops)*. 
+
+The Hidden Network is still pretty young, but over time I’d like to see
+a lot more jobs listed.  That would make using Geolocation to list jobs
+that are local to the reader more useful. I also think it’d be neat if I
+could annotate job postings.
+
+**There were a few that did catch my attention...**
+
+[Sr. Admin, Programmer at Chuck E.
+Cheese](http://jobs.haacked.com/1002/listing.aspx?JobId=1000126 "Chuck E. Cheese") I
+don’t know if the job itself sounds interesting, but hey! **It’s Chuck
+E. Cheese!  Where a kid can be a kid!** I’d ask for a signing bonus that
+includes free Pizza and  the passcode to play video games onsite for
+free.
+
+[Net, SQL, ASP Developer at Y!
+Music](http://jobs.haacked.com/1002/listing.aspx?JobId=1000195 "Yahoo!")
+I have a buddy who works at Yahoo! in Santa Monica and loves it. In a
+bit of personal trivia, I actually worked on the original Launch.com
+website, which was later bought by Yahoo! (many iterations later).  I
+interviewed with Yahoo! in Santa Monica, but chose to go to SkillJam
+instead.
+
+[.NET Software Engineer at
+IGN](http://jobs.haacked.com/1002/listing.aspx?JobId=1000218 "IGN") If
+you’re into gaming, this could be alot fun.
+
+[The Motley
+Fool](http://jobs.haacked.com/1002/listing.aspx?JobId=1000221 "IIS Configuration")
+have [several
+jobs](http://jobs.haacked.com/1002/listing.aspx?JobId=1000222 "Jobs")
+listed.  Not sure what they’d be like to work for, but at least you’d
+get good investment advice while on the job.
+
+There may well be others in there worth mentioning. I wasn’t *that*
+bored that I would read the details of every one.  **The good thing
+about these listings is they appear to be real jobs, and not phishing
+expeditions by head hunters.**
+
+This may be a longshot to even ask, but if you end up actually applying
+for a job because you saw it on my blog, would you let me know? 
+
+If you are an employer, consider [posting a
+job](http://jobs.haacked.com/1002/post.aspx "Posting A Job").
+

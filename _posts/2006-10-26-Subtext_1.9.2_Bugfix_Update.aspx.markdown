@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Subtext 1.9.2 Bugfix Update"
+date: 2006-10-26 -0800
+comments: true
+disqus_identifier: 18115
+categories: []
+---
+As I mentioned in [my last
+post](http://haacked.com/archive/2006/10/26/PATCH_Cannot_Delete_Posts_In_Subtext_1.9.2.aspx "Cannot Delete Posts"),
+someone reported a bug with deleting posts in the admin tool.  That
+posts also describes a quick and dirty workaround.
+
+However, I fixed the bug and updated our current 1.9.2 release at
+SourceForge.  The [existing URL to download the
+release](https://sourceforge.net/project/showfiles.php?group_id=137896&package_id=181920&release_id=458502 "Download Subtext 1.9.2")
+is still valid.  The full version number for this release is
+**1.9.2.23**.
+
+To find out which version of Subtext you are running, just log into your
+admin and look in the bottom left corner.  You should see the version
+there.
+
+![Subtext
+Version](http://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext1.9.2BugfixUpdate_1064E/Subtext-VersionInfo%5B4%5D.png)
+
+If you downloaded Subtext 1.9.2 before I applied the update, then you
+will probably see version 1.9.2.19 in there.  If so, you have two
+options.  You can either apply the [quick and dirty patch mentioned in
+my last
+post](http://haacked.com/archive/2006/10/26/PATCH_Cannot_Delete_Posts_In_Subtext_1.9.2.aspx "Quick and dirty patch"),
+or you can download the latest build and update the
+`Subtext.Framework.dll` file in the `bin` directory.
+
+However, this latest update also includes some CSS fixes for the KeyWest
+skin in IE 7 designed (and fixed) by [Robb
+Allen](http://blog.robballen.com/ "Robb Allen").  So if you are using
+that skin, you should download and apply this update.
+

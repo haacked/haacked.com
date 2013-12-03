@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Ego check..."
+date: 2004-09-02 -0800
+comments: true
+disqus_identifier: 1126
+categories: []
+---
+I think Chris Anderson is totally wrong here. I am currently the
+smartest person in the room. I don't CARE if I'm also the dumbest person
+in the room. He's still wrong. ;)
+
+> (while talking to another senior person at Microsoft)
+>
+> ChrisAn: "Have you driven a feature from scratch?"
+>
+> Other: "Uhm, yes. I've worked on various platforms for the past 30
+> years, worked on the first release of DOS for Arabic and Windows for
+> the Middle East".
+>
+> ChrisAn: "I'll take that as a yes"
+>
+> Remember to self, you are never the smartest person in the room...
+> ever.
+
+*[Via
+[simplegeek](http://www.simplegeek.com/permalink.aspx/b966664f-7a74-49ab-870f-d8542d34c7a2)]*
+

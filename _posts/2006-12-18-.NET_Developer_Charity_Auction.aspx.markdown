@@ -1,0 +1,32 @@
+---
+layout: post
+title: ".NET Developer Charity Auction"
+date: 2006-12-18 -0800
+comments: true
+disqus_identifier: 18175
+categories: []
+---
+![Malawi
+Villagers](http://haacked.com/images/haacked_com/WindowsLiveWriter/920309b32670.NETDeveloperCharityAuction_11436/MzuzuSept82006Richard112%5B6%5D.jpg)Clean
+drinking water piped to my house is something I take for granted (*yes,
+even in Los Angeles)*. When I stop to think about it a bit, I can’t
+imagine how tough it must be to not have clean drinking water.
+
+For people in four remote areas of Malawi, this is a day to day reality.
+Fortunately, there are people trying to do something about it. [Wells
+for Zoë](http://www.wellsforzoe.org/ "The Charity’s Website") is a
+charity dedicated to bringing clean water to these areas.
+
+[Jamie
+Cansdale](http://weblogs.asp.net/nunitaddin/ "Jamie Cansdale’s Blog"),
+famous for [TestDriven.NET](http://testdriven.net/ "TestDriven.NET") (a
+tool [near and dear to my
+heart](http://haacked.com/archive/2006/12/14/Indulging_My_OCD_Using_TestDriven.NET_With_NCoverExplorer.aspx "Indulging my unit testing OCD")),
+is doing his part to contribute to this good cause by starting a [.NET
+software charity
+auction](http://weblogs.asp.net/nunitaddin/archive/2006/12/14/net-developer-software-charity-auction.aspx "Charity Auction").
+Several generous vendors have donated licenses to great software you can
+bid on. If you have the means, consider making a bid. If not, perhaps
+you can make a small [direct
+donation](http://www.wellsforzoe.org/donations.htm "Donation").
+

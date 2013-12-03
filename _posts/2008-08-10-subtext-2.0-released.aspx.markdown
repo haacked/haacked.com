@@ -1,0 +1,106 @@
+---
+layout: post
+title: "Subtext 2.0 Released"
+date: 2008-08-10 -0800
+comments: true
+disqus_identifier: 18518
+categories: [personal]
+---
+It’s been a long time coming, but we are finally ready to release
+Subtext 2.0. As I [mentioned in
+April](http://haacked.com/archive/2008/04/08/subtext-awakens-from-its-slumber.aspx "Subtext Awakens From Its Slumber")
+(was it that long ago!?), this is scaled down a bit from our original
+2.0 plans. But even so, we have a lot of new goodness in here. It’s not
+just a bug fix release, though there are plenty of those too.
+
+### Highlights
+
+With this release, Subtext has top notch support for Windows Live Writer
+thanks to some [check-ins from Tim
+Heuer](http://www.timheuer.com/blog/archive/2008/06/25/first-contribution-made-to-open-source-subtext.aspx "My First OSS contribution").
+
+-   Enhanced MetaWeblog API implementation to support providing a "slug"
+    URL name for the post.  This gives the user the option to use the
+    default URL naming, the "auto-friendly" or now to override that with
+    your own slug name.
+-   Fixed a bug in the SiteMap handler for blogs not hosted at root
+    domains.  Would love people to test this out.
+-   Added support for WordPress API functions of: newPage, editPage,
+    getPages, newCategory
+-   Simple modification to the Windows Live Writer manifest to prevent
+    those who think they can future post :-)
+-   Tag-based RSS syndicator
+
+### Other highlights
+
+-   New CSS-Based Admin Design That Makes Better Use of Space
+-   Ability to set a separate skin for mobile devices
+-   Streamlined Installation Process. I tried to remove unnecessary
+    steps and make this more robust.
+-   Support for Enclosures (See [Simo’s great post on
+    this](http://codeclimber.net.nz/archive/2008/08/08/new-feature-in-subtext-2.0-enclosures.aspx "Subtext 2.0 enclosures")
+    for more details)
+-   CSS and JS optimizations ([Simo has more interesting details on
+    this](http://codeclimber.net.nz/archive/2008/08/09/new-feature-in-subtext-2.0-css-and-js-optimization.aspx "CSS and JS optimizations")).
+-   Setting a date in the future for publishing posts (again, [Simo has
+    more
+    details](http://codeclimber.net.nz/archive/2008/08/10/new-feature-in-subtext-2.0-publish-in-the-future.aspx "Publishing in the future")).
+-   Login to your blog using OpenID, as well as use your blog as an
+    OpenId Delegate
+
+### Notes for new installations
+
+The install package includes a default *Subtext2.0.mdf* file for SQL
+2005. If you plan to run your blog off of SQL Express, installation is
+as easy as copying the install files to your webroot. If you’re not
+using SQL Express, but plan to use SQL Server 2005, you can attach to
+the supplied .mdf file and use it as your database.
+
+### Notes for upgrading
+
+In the app\_data folder of the install package, feel free to delete the
+database files there. They only apply to new installs.
+
+We also include a zip file with just the SQL upgrade scripts. This is
+sometimes useful for those who run into problems with the upgrade
+procedure.
+
+Full upgrade notes are on the [Subtext project
+website](http://www.subtextproject.com/Home/About/Docs/Upgrading/tabid/147/Default.aspx "Upgrading Subtext").
+
+### So what’s next for Subtext?
+
+The Subtext team is fired up to get their feet wet using ASP.NET MVC,
+and I can’t blame them. So at this point, we’re starting preliminary
+planning work for Subtext 3.0, the next major version of Subtext which
+will be a ground-up rewrite pulling in as much code from 2.0 along the
+way of course.
+
+But that doesn’t mean we’re abandoning the 2.0 line immediately. I would
+expect to see several small incremental releases of the 2.\* line even
+as we start on 3.0 with fires lit under our butts. Subtext 3.0 is in the
+very early stages of planning taking a long term look into the future.
+
+After all, there’s still a lot of infrastructure decisions to be made,
+as well as requirements gathering. In what ways do we want to be just
+like Subtext 2.0? In what ways do we want to completely change the
+architecture?
+
+Some of the decisions we need to make, just as a start:
+
+1.  Where do we host? Do we stick with SourceForge or go elsewhere?
+2.  What data access layer/ORM tooling should we use?
+3.  What DI framework do we choose?
+4.  What do we use for communication and documentation?
+5.  What should our database design look like?
+6.  Should we change how we [handle
+    multi-tenancy](http://www.ayende.com/Blog/archive/2008/08/06/Multi-Tenancy.aspx "Multi-tenancy")?
+
+In any case, it’s been a fun ride so far, and I hope we can keep our
+momentum going in producing a great blogging platform for ASP.NET.
+
+And before I forget, here’s the **[download page
+link](https://sourceforge.net/project/showfiles.php?group_id=137896 "Download Subtext 2.0")**.
+
+Tags: [subtext](http://technorati.com/tags/subtext/ "subtext tag")
+

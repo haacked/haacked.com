@@ -1,0 +1,75 @@
+---
+layout: post
+title: "Subtext 2.1 Released! Contains Security Update"
+date: 2008-11-27 -0800
+comments: true
+disqus_identifier: 18560
+categories: [subtext]
+---
+A Subtext user found a security flaw which opens up Subtext to potential
+XSS attacks via comment. This flaw was introduced in Subtext 2.0 by the
+feature which converts URLs to anchor tags. If you are still on 1.9.5b
+or before, you are not affected by this issue. If you upgraded to 2.0,
+then please update to 2.1 as soon as you can.
+
+Note that you can edit comments in the admin section of your blog to fix
+comments if someone attempts to abuse your comments.
+
+This release has several other bug fixes and usability improvements as
+well. I started to replace the use of `UpdatePanel` in some areas with
+straight up jQuery, which ends up reducing bandwidth usage.
+
+List of bug fixes and changes:
+------------------------------
+
+-   Fixed Medium Trust issue by removing calls to
+    `UrlAuthorizationModule.CheckUrlAccessForPrincipal` which is not
+    allowed from medium trust.
+-   Removed email address from RSS feed by default and added Web.config
+    setting to change this in order to protect against spamming.
+-   Upgraded Jayrock assembly to fix the issue with
+    VerificationException being thrown.
+-   Fixed code which strips HTML from comments when displaying recent
+    comments. Certain cases would cause CPU spike.
+-   Fixed Remember Me functionality for the OpenID login.
+-   Fixed a bug with adding categories in which an error was displayed,
+    even though the category was added correctly.
+-   Fixed a bug in the code to convert URLs to anchor tags.
+-   Upgraded jQuery to version 1.2.6
+-   Improved the timezone selection UI with jQuery
+
+I was the one who implemented the feature at fault. Unfortunately the
+way the feature was written made it such that it reversed earlier
+scrubbing of the HTML due to a mistake in how I used
+[SgmlReader](http://wiki.developer.mindtouch.com/SgmlReader "SgmlReader").
+I apologize for the mistake. It won’t happen again.
+
+Many thanks go out to [Adrian
+Bateman](http://adrianba.net/ "Adrianba.net") for pointing out the bug
+and the fix.
+
+Notes for new installations
+---------------------------
+
+The install package includes a default *Subtext2.1.mdf* file for SQL
+2005 Express. If you plan to run your blog off of SQL Server Express,
+installation is as easy as copying the install files to your Web Root.
+If you’re not using SQL Express, but plan to use SQL Server 2005, you
+can attach to the supplied .mdf file and use it as your database.
+
+Notes for upgrading
+-------------------
+
+In the *app\_data* folder of the install package, feel free to delete
+the database files there. They only apply to new installs. Subtext 2.1
+does not have any schema changes, so upgrading should be smooth.
+
+Full upgrade instructions are on the [Subtext project
+website](http://www.subtextproject.com/Home/About/Docs/Upgrading/tabid/147/Default.aspx).
+
+**[Download it
+here](https://sourceforge.net/project/showfiles.php?group_id=137896&package_id=181920&release_id=643458 "Download Subtext 2.1")**.
+Note that the file **Subtext-2.1.0.5.zip** is the one you want to use to
+upgrade your site. The other file contains the source in case you want
+to build the solution.
+
