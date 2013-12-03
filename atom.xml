@@ -10,7 +10,7 @@ layout: nil
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>{{ site.url }}/</id>
   <author>
-    <name><![CDATA[{{ site.author | strip_html }}]]></name>
+    <name><![CDATA[{{ site.name | strip_html }}]]></name>
     {% if site.email %}<email><![CDATA[{{ site.email }}]]></email>{% endif %}
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
