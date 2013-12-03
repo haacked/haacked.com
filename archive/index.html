@@ -1,0 +1,11 @@
+---
+layout: page
+title: Blog Archives
+---
+
+<div class="archives" itemscope itemtype="http://schema.org/Blog">
+{% for post in site.posts reverse %}
+	{% include archive_post.html %}
+{% endfor %}
+  </ul>
+</div>
