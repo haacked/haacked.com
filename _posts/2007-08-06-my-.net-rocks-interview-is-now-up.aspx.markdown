@@ -1,0 +1,25 @@
+---
+layout: post
+title: "My .NET Rocks Interview Is Now Up"
+date: 2007-08-06 -0800
+comments: true
+disqus_identifier: 18378
+categories: []
+---
+Run, don’t walk, over to [.NET
+Rocks](http://www.dotnetrocks.com/ ".NET Rocks") and download their
+[interview with yours
+truly](http://www.dotnetrocks.com/default.aspx?showNum=261 "Phil Haack") (as
+in me, not any other *yours truly*).
+
+I had a real blast chatting with Carl Franklin and Richard Campbell. We
+covered all my favorite topics (well except soccer) which include
+Software Development, Open Source, and
+[Subtext](http://subtextproject.com/ "Subtext project website")!
+
+I’m still here in Redmond on the Microsoft campus so I haven’t had the
+cringeworthy experience of listening to myself talk. ;)
+
+Technorati tags: [.NET Rocks](http://technorati.com/tags/.NET%20Rocks),
+[Subtext](http://technorati.com/tags/Subtext)
+

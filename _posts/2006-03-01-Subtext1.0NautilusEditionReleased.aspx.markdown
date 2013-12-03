@@ -1,0 +1,123 @@
+---
+layout: post
+title: "Subtext 1.0 Nautilus Edition Released"
+date: 2006-03-01 -0800
+comments: true
+disqus_identifier: 11927
+categories: []
+---
+![Subtext Logo](/images/SubtextLogo.png) Well it took a bit longer than
+I thought it would, but we’ve finally put the final touches to [Subtext
+1.0](http://subtextproject.com/ "Subtext Project Site"), code named
+“Nautilus”! One of the primary goals of this release was to make it much
+easier to setup and use than .TEXT, and I think we’ve accomplished that.
+
+[[Download it here](http://prdownloads.sourceforge.net/subtext/Subtext_1.0.0.2_INSTALL.zip?download "Subtext Binaries Download")]
+---------------------------------------------------------------------------------------------------------------------------------
+
+Acknowledgements
+----------------
+
+It is a LOT of work delivering an open source product, especially given
+that all this work is done in our spare time. A big thanks goes out to
+all the contributors: those who submitted code as well as those who
+contributed ideas and encouragement (especially my wife who has been
+very understanding of my code obsession and made me a fantastic cup of
+tea last night as I tried to finalize the release). All of it is helpful
+and appreciated.
+
+In particular I want to [give much credit to the
+team](http://subtextproject.com/About/TheTeam/ "The Subtext Development Team")
+who have put in a lot of effort lately to get this ready. Robb, I am
+ready for that homebrewed beer!
+
+I also want to highlight [TurboMilk](http://turbomilk.com/ "TurboMilk"),
+the creative folks who designed our logo.
+
+Installation
+------------
+
+Check out the [installation
+guide](http://subtextproject.com/Docs/Installation/ "Installation Guide")
+on our [project
+site](http://subtextproject.com/ "Subtext Project Website") for a
+walkthrough of the installation. There are also a couple screen casts if
+you are the more visual type.
+
+New Features
+------------
+
+There are many small improvements both under the hood and in the UI.
+Here are some of the highlights...
+
+-   **Web Based Installer** - Installs the database schema and stored
+    procedures.
+-   **BlogML Support** - Import and export your blog data to and from
+    other blogs that support this new standard.
+-   **.TEXT 0.95 Import Wizard** - This is a direct database to database
+    import.
+-   **Host Admin Tool** - Use this to manage multiple blogs
+-   **Improved multi-blog support**. Read the [configuration
+    docs](http://subtextproject.com/Docs/Configuration/ "Subtext Configuration Docs")
+    for more details.
+-   **Improved Documentation** - We’ve gone out of our way to improve
+    documentation as much as possible.
+-   **Logging Console** - The first iteration of this console displays
+    error messages in the admin section. You can update the
+    Log4Net.config file to change logging levels.
+
+Interface Improvements
+----------------------
+
+These were designed to spiff up the look of Subtext and remove some of
+the headaches in .TEXT
+
+-   **New Skins** - We added some spiffy new skins for your blog
+    delight.
+-   **Recent Comments Skin Control** - Display recent comments on your
+    blog (requires editing a skin if it doesn’t have the control
+    already).
+-   **Multiple Comment Deletion** - Rather than deleting comments one at
+    a time, check them off and delete them in bulk.
+-   **Single Web.config file** - There’s only one web.config file to
+    worry about.
+-   **Comments disabled after N days** - Where N is an integer of your
+    chosing zero or larger.
+-   **Comments throttling** - Specify a delay between comments as well
+    as filter out exact duplicates. This is good for those repetitive
+    spam bot attacks.
+-   **Edit Link Control** - when logged in as an admin, an edit link
+    appears next to post titles (requires editing a skin if it doesn’t
+    have the control already).
+
+Under the hood
+--------------
+
+This is for you developers out there. Holla!
+
+-   **Unit Tests** - We added a bunch of unit tests (using MbUnit) to
+    the codebase. We are by no means where we want to be regarding code
+    coverage, but it is a step in the right direction.
+-   **NDoc** - We included an NDoc file and compiled help file of the
+    code base.
+-   **FxCop** - We have way too many FxCop violations, but at least we
+    know we do via our FxCop project file.
+-   **NAnt Build File** - Build the entire solution from the command
+    line. Choosing the “doc” target builds a compiled help file.
+-   **RFC3229 Delta Encoding** - Potentially saves on bandwidth once
+    clients start implementing their side of the protocol.
+-   **RSS GZIP Compression** - Compress that baby.
+-   **Fixed MetaBlogAPI** - Fixed a few bugs with the MetaBlogAPI
+    implementation. You can now edit blog posts via w.Bloggar.
+
+What’s Next?
+------------
+
+The next version of Subtext code-named “Daedelus” will focus on
+delivering a Plugin framework along with a few plugins. That will be the
+key deliverable. You can view the
+[Roadmap](http://subtextproject.com/Roadmap/ "Subtext Roadmap") to see
+other planned features, but be aware that we may revise this list soon
+in order to keep the next release tightly focused. Deliver early and
+often I always say.
+

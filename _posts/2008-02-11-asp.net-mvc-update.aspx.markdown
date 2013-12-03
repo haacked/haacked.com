@@ -1,0 +1,61 @@
+---
+layout: post
+title: "ASP.NET MVC Update"
+date: 2008-02-11 -0800
+comments: true
+disqus_identifier: 18456
+categories: [asp.net,code,asp.net mvc]
+---
+By the way my blogging frequency has declined, you can guess I’ve been
+quite busy here at Microsoft preparing for the next release of ASP.NET
+MVC.
+
+It’s not just working on specs, design meetings, etc... that keep me
+busy. It’s preparing for several talks, various spec reviews, building
+hands on labs, demo and and app building, etc...that keeps me busy. All
+the while I am still learning the ropes and dealing with selling a house
+in L.A. and buying a house up here. There’s a lot that goes into being a
+PM I naively didn’t expect, on top of just how much work goes into
+simply moving.
+
+Not that I’m complaining. It’s still a lot of fun.
+[ScottGu](http://weblogs.asp.net/scottgu/ "Scott Guthrie") posted an
+[entry on his
+blog](http://weblogs.asp.net/scottgu/archive/2008/02/12/asp-net-mvc-framework-road-map-update.aspx "ASP.NET MVC Roadmap")
+about the fun we’re having in preparing for the upcoming ASP.NET MVC Mix
+Preview.
+
+Here’s a screenshot that shows a tooling feature I’m particularly
+excited about.
+
+![Unit Testing
+Frameworks](http://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVCUpdate_C69C/UnitTestingFrameworks_3.png)
+
+I’ve written about the challenges Microsoft faces with bundling [Open
+Source
+software](http://haacked.com/archive/2007/09/04/should-microsoft-really-bundle-open-source-software.aspx "Should Microsoft Bundle Open Source Software")
+in the past and what I thought they should do about it...
+
+> What I would have liked to have seen is for Team System to provide
+> extensibility points which make it extremely easy to swap out MS Test
+> for another testing framework. MS Test isn’t the money maker for
+> Microsoft, it’s the whole integrated suite that brings in the moolah,
+> so being able to replace it doesn’t hurt the bottom line.
+
+What we have here is similar in spirit to what I hoped for. AFAIK it is
+not going to be *integrated* to the level that Visual Studio Team Test
+is integrated, but it also won’t require VSTS. This is a feature of the
+ASP.NET MVC project template.
+
+I’m also excited about some of the community feedback we were able to
+incorporate such as removing the `ControllerActionAttribute` among other
+things. A hat or two might be eaten over that one ;).
+
+In any case, there are still some areas I’m not yet happy with (there
+always will be, won’t there?), so we are not done by any measure. I’ll
+reserve talking about that until after Mix when you have the code in
+your hands and can follow along.
+
+Technorati Tags:
+[ASP.NET](http://technorati.com/tags/ASP.NET),[aspnetmvc](http://technorati.com/tags/aspnetmvc)
+

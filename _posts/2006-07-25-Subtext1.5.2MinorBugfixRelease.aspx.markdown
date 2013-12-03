@@ -1,0 +1,56 @@
+---
+layout: post
+title: "Subtext 1.5.2 Minor Bugfix Release"
+date: 2006-07-25 -0800
+comments: true
+disqus_identifier: 14174
+categories: []
+---
+![Subtext Logo](http://haacked.com/images/SubtextLogo.png) The Subtext
+team is currently furiously working to prepare the Subtext 1.9
+*Daedelus* release for your blogging enjoyment. Subtext 1.9 will run on
+ASP.NET 2.0 in Medium trust and contain a few new goodies, though those
+goodies have been kept to a minimum as the goal was to create a straight
+port to ASP.NET 2.0. The release date has not been set since [my day
+job](http://veloc-it.com/ "My Employer") and another minor side project
+has been keeping me busy. My hope is to release somewhere around the
+first or second week of August.
+
+In the meanwhile, we found the need to respond to some minor bugs in the
+last release. Thus today we release Subtext 1.5.2 which still runs on
+ASP.NET 1.1. This is a very minor release, so probably not necessary
+unless you are affected by one of the bugs listed below.
+
+Probably the most annoying bug was one that caused problems when
+attempting to create a post using the web-based admin tool. This was due
+to a misconfiguration on my part of our
+[ReverseDOS](http://www.angrypets.com/tools/rdos/ "Reverse DOS")
+configuration file.
+
+It was this misconfiguration that inspired my “[stroke of pure
+genius](http://blog.angrypets.com/2006/07/reversedos_the_.html "ReverseDos The Next Generation")”
+suggestion to the [creator of
+ReverseDOS](http://blog.angrypets.com/ "AngryPets") (though methinks he
+is a bit strong on the compliment). ;)
+
+Here are the release notes.
+
+    Version 1.5.2 - Bugfix Release
+    - BUG:  [1492127] Fixed a constraint on the 
+                      subtext_Config.BlogGroup in the import  
+                      script.
+    - BUG:  [1524172] The User Name Is Being Saved as the Title
+    - BUG:  [1502661] Change ReverseDOS.config - turn on  
+                      isRegex="true" flag for
+                Trusted Addresses.
+    - BUG:  [1514406] Fixed bug in which permissions were not 
+                      applied to [Subtext_GetEntry_PreviousNext] stored 
+                      procedure.
+
+[Download it
+here](http://sourceforge.net/project/showfiles.php?group_id=137896 "Subtext 1.5.2").
+
+The number of code contributions to Subtext has been increasing lately
+which is wonderful! Thanks for sticking with us and we **really
+appreciate** the contributions. Keep it up!
+

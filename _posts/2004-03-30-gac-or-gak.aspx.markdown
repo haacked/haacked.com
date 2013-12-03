@@ -1,0 +1,20 @@
+---
+layout: post
+title: "GAC or GAK?"
+date: 2004-03-30 -0800
+comments: true
+disqus_identifier: 284
+categories: []
+---
+![GAK](/images/Gak.jpg)Every time someone tells me to register a
+component in the GAC, I think of GAK. Do you remember GAK? It was this
+*Are you sure an alien didn’t sneeze this up?* brightly colored gooey
+junk made by Nickelodeon. You can still [buy the
+stuff](http://www.buy.com/retail/product.asp?sku=200761430&loc=23014 "Buy the stuff")!.
+
+But what’s better than buying stuff? Making it! I found this little
+article online on [how to make
+GAK](http://www.reachoutmichigan.org/funexperiments/agesubject/lessons/aboutlessons/polymers.html "how to make GAK").
+Your assignment, make tons and tons of this stuff! It never lived up to
+its potential to take over the world.
+

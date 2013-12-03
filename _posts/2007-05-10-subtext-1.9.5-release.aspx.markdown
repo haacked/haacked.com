@@ -1,0 +1,118 @@
+---
+layout: post
+title: "Subtext 1.9.5 Release"
+date: 2007-05-10 -0800
+comments: true
+disqus_identifier: 18307
+categories: []
+---
+![Subtext Submarine
+Logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext1.9.5Release_EEA4/subtextsubmarinelogo6.png)
+It is with great pleasure and relief that I announce the release of
+Subtext 1.9.5. Between you and me, I’m just happy to get this release
+out before [the kid is
+born](http://haacked.com/archive/2006/11/05/World_Domination_Phase_1_Commenced.aspx "World Domination Plans").
+
+As with most point releases, this is primarily a bug fix release, but we
+found time to introduce a few nice new features - most notably support
+for tagging and
+[Identicons](http://www.docuverse.com/blog/donpark/2007/01/19/identicon-explained "Identicons").
+
+### New Features
+
+-   **Content Tagging and Tag Cloud -** for more details, refere to
+    [this
+    post](http://haacked.com/archive/2007/05/11/tagging-in-subtext.aspx "Tagging In Subtext"). 
+-   **Identicon Support** - Uses the [Identicon Handler
+    project](http://haacked.com/archive/2007/03/19/identicon-handler-for-.net-on-codeplex.aspx "Identicon Handler on CodePlex")
+    on CodePlex.
+-   **MyBrand Feedburner Support** - Updated our FeedBurner
+    implementation to support custom feedburner URLs
+-   **Upgrade to**[**LightBox
+    2.0**](http://www.huddletogether.com/projects/lightbox2/ "Lightbox 2")
+    - If you referenced the default lightbox skin in your custom skin,
+    please reference [this
+    post](http://codeclimber.net.nz/archive/2007/05/11/Breaking-change-in-Subtext-1.9.5-update-your-custom-skins.aspx "Update your custom skin")
+    by Simone to understand how to update the skin.
+-   **Author CSS Class** - The CSS class of "author" is added to
+    comments left by the owner of a blog (must be logged in when leaving
+    comment for this to work). This allows custom skin authors to
+    highlight comments by authors.
+-   **Credits Page** - In the Admin section, we give credit where credit
+    is due, displaying a list of the open source products we make use of
+    in building Subtext.
+-   **Implemented ASP.NET AJAX** - We replaced MagicAjax panel
+    with ASP.NET Ajax libraries. Keep in mind that this requires a bit
+    of new Web.config configuration sections. So be careful when merging
+    your Web.config changes.
+
+### Bug Fixes
+
+-   [Metaweblog API getRecentPosts method does not send
+    categories](http://sourceforge.net/tracker/index.php?func=detail&aid=1683847&group_id=137896&atid=739979 "Subtext Bug 1683847")
+-   [Host Admin edits wrong blog host when not on page
+    1](http://sourceforge.net/tracker/index.php?func=detail&aid=1658118&group_id=137896&atid=739979 "Subtext Bug 1658118")
+-   [Recent Posts control wrong
+    URL](http://sourceforge.net/tracker/index.php?func=detail&aid=1679366&group_id=137896&atid=739979 "Subtext Bug")
+-   [FeedBurner doesn’t allow the / character, though it
+    should](http://sourceforge.net/tracker/index.php?func=detail&aid=1685842&group_id=137896&atid=739979 "Subtext Bug 1685842")
+-   [Comments allow unclosed
+    tags](http://sourceforge.net/tracker/index.php?func=detail&aid=1677521&group_id=137896&atid=739979 "Subtext Bug 1677521")
+-   [Fixed up CSS issues for several
+    Skins](http://sourceforge.net/tracker/index.php?func=detail&aid=1545724&group_id=137896&atid=739979 "Subtext Bug 1545724")
+-   [MultiBlog Caching Issue - Posts from one show in
+    another](http://sourceforge.net/tracker/index.php?func=detail&aid=1452536&group_id=137896&atid=739979)
+    - This bug bears special mention as it was a real pain to track down
+    the root cause.
+-   Fixed issues with case sensitive databases
+-   ...and others...
+
+### Clean Installation
+
+A clean install of Subtext is relatively painless. Essentially copy all
+the files to your webserver, create a database if you don’t already have
+one, update web.config to point to your database, and you’re all set.
+For more details on the setup instructions, read the [Clean Installation
+Instructions](http://www.subtextproject.com/Home/About/Docs/Installation/tabid/111/Default.aspx "Clean Installation Instructions")
+
+### Upgrading
+
+Upgrading from a previous 1.9 version is relatively straightforward. For
+the safest approach, follow the [upgrade instructions
+here](http://www.subtextproject.com/Home/About/Docs/Upgrading/tabid/147/Default.aspx "Upgrading Subtext").
+
+I’ve written a command line tool for upgrading Subtext, but it isn’t
+production ready yet. Our goal is to make the upgrade process as
+seamless as possible in future versions. If you’d like to help with
+that, we’d love to have your contributions!
+
+### Download
+
+As always, you can [**download the latest release
+here**](http://sourceforge.net/project/showfiles.php?group_id=137896 "Download").
+The *install* file contains just the files you need to deploy to your
+webserver. The *source* file contains full source code.
+
+### Thanks!
+
+As always, many thanks go out to the many Subtext contributors and
+community members who helped make this latest release possible. Subtext
+keeps on getting better because of the community involvement. Just take
+a look at the improvements to our [Continous Integration and Build
+Server](http://build.subtextproject.com/ccnet/) as an example.
+
+If you’d like to contribute, we’re always looking for help. [Great
+positions are
+open](http://haacked.com/archive/2006/11/03/Seriously_Cool_Jobs_Available.aspx "Cool Jobs Available")!
+
+**What’s Next?**
+
+I’m wrapping up a project for a client in which I was able to implement
+multiple authors per blog. Hopefully, this means that Subtext 2.0 won’t
+take as long to release as 1.9.5 did.
+
+We are constantly improving our development process and refactoring the
+code. The big push for 2.0 is to get the Plugin Model and custom
+MembershipProvider rock solid and to refactor and clean up the code
+heavily.
+

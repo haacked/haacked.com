@@ -1,0 +1,106 @@
+---
+layout: post
+title: "ALT.NET Should Be Divisive, But Not Contrarian"
+date: 2007-10-05 -0800
+comments: true
+disqus_identifier: 18404
+categories: []
+---
+In his post [Goodby CodeBetter and
+ALT.NET](http://samgentile.com/blogs/samgentile/archive/2007/10/06/goodbye-codebetter-and-alt-net.aspx "Same Gentile on CodeBetter and ALT.NET"),
+Sam Gentile writes about his dissatisfaction with CodeBetter and the
+ALT.NET movement. I don’t know Sam personally, but I’ve read his blog
+for a long time and know him to be a well reasoned thoughtful person.
+
+Sam, please don’t throw out the baby with the bathwater, to use an old
+cliche. I don’t think it’s necessary to equate CodeBetter with ALT.NET.
+Perhaps CodeBetter bloggers are very influential in the ALT.NET circles,
+but it’s important for ALT.NET to stand separately and on its own.
+
+Sam mentions that ALT.NET is divisive.
+
+> ALT.NET is a divisive thing. No matter what they tell you, they are
+> full of negative energy, they sneer at others that don’t buy into
+> their view and sneer at the "enterprisey" folks. I know, I was there.
+
+I think the *divisive* label can also be applied to the [Agile
+Movement](http://agilemanifesto.org/ "Agile Manifesto"), which [Sam was
+a part
+of](http://channel9.msdn.com/ShowPost.aspx?PostID=126731 "Sam Gentile and Ward Cunningham").
+It divides people into two camps, those who agree and those who don’t.
+It’s divisive because it makes a stand, but hopefully without all the
+sneering and negative energy.
+
+**ALT.NET should be about *considering alternatives*, not being
+contrarian.**
+
+A lot of fuss has been made about the ALT.NET label on this particular
+movement. Personally, I think it’s darn near impossible to change the
+name of a movement once it sticks. The real work is in putting the
+meaning into the label so it reflects something positive.
+
+For example, I don’t see ALT.NET as saying, “you must use alternatives
+to Microsoft technologies in all cases”. Otherwise the ALT.NET movement
+would really be the Ruby, Erlang, Python, Haskell, Java movement.
+ALT.NET is not about simply being contrarian.
+
+I think the movement is really about opening people’s eyes to always be
+learning and considering better ALTernatives to the tools, methods, and
+practices they use now. As Dave Laribee wrote in his [ALT.NET
+post](http://laribee.com/blog/2007/04/10/altnet/ "ALT.NET")...
+
+> What does it mean to be to be ALT.NET? In short it signifies:
+>
+> -   You’re the type of developer who uses what works while keeping an
+>     eye out for a better way.\
+> -   You reach outside the mainstream to adopt the best of any
+>     community: Open Source, Agile, Java, Ruby, etc.\
+> -   You’re not content with the status quo. Things can always be
+>     better expressed, more elegant and simple, more mutable, higher
+>     quality, etc.\
+> -   You know tools are great, but they only take you so far. It’s the
+>     principles and knowledge that really matter. The best tools are
+>     those that embed the knowledge and encourage the principles (e.g.
+>     Resharper.)
+
+These are all noble goals.
+
+In his Goodbye post, Same relents about his ALT.NET involvement.
+
+> Now, onto this whole ALT.NET thing. When I was in the weeds at Algo,
+> coding away, I too got caught up in the low-level issues and put out a
+> stupid [ALT.NET Moniker and
+> List](http://codebetter.com/blogs/sam.gentile/archive/2007/06/05/the-alt-net-moniker-and-list.aspx "ALT.NET Moniker and List").
+> I took a ton of crap on this from my friends all over the world, both
+> inside and outside Microsoft. It wasn’t about disagreement, it was
+> just blindly putting a list that was stupid, cross out everything
+> Microsoft in one column and replace it with something else.
+
+In reading his post, I don’t think it’s anything to necessarily be
+ashamed of in that his post first lists the principles above, but then
+it goes on to make two lists, one for ALT.NET and one for Not ALT.NET.
+Sam’s mistake is not in joining in the ALT.NET fun, it’s in making the
+hot-or-not list appear to be a significant part of ALT.NET (whether he
+intended this or not).
+
+As the last ALT.NET principle states, tools only take you so far. Not
+only that, they change rapidly. Tools that are “HOT” today will end up
+being “NOT” tomorrow. While picking the best tools for the job is
+important to developers, suggesting specific tools is an addendum to
+ALT.NET, not core to it.
+
+I certainly have my list of tools I think are the best tools for the
+job, but I won’t go so far to say you must use these tools or you’re a
+Mort. Drawing lines among which tools you use is just plain silliness,
+reminiscent of elementary school lines drawn along who could afford
+designer jeans.
+
+So Sam, if you’re reading, keep in mind that the Agile Manifesto wasn’t
+written in one shot. It took time to evolve and refine the message till
+it was something the signers could agree upon.
+
+I think ALT.NET is in that stage. The message is still being defined and
+refined and we need voices of reason involved. So while you might leave
+CodeBetter, consider staying involved in ALT.NET. After all, the goal is
+to sift out the really gold nuggets and move them to the mainstream.
+

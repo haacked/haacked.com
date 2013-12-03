@@ -1,0 +1,23 @@
+---
+layout: post
+title: "A .NET API To Search Open Source Code"
+date: 2007-05-21 -0800
+comments: true
+disqus_identifier: 18323
+categories: [code]
+---
+I [wrote about
+this](http://www.koders.com/blog/?p=72 "Searching source code on Koders.com with C#")
+on my company’s blog, but thought I’d mention it here since I assume not
+everyone has jumped at the chance to subscribe to [that
+blog](http://www.koders.com/blog/ "Koders Blog") (go on, it won’t bite)
+;)
+
+[Simone
+Busoli](http://dotnetslackers.com/community/blogs/simoneb/ "Simone Busoli")
+wrote a pretty cool API to query open source code via Koders.com by
+leveraging the [ASP.NET RSS
+Toolkit](http://www.codeplex.com/ASPNETRSSToolkit "ASP.NET RSS Toolkit").
+Read more about it at [his
+blog](http://dotnetslackers.com/community/blogs/simoneb/archive/2007/05/22/Searching-source-code-on-Koders.com.aspx#comments "Searching Source Code on Koders.com").
+

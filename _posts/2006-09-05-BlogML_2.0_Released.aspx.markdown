@@ -1,0 +1,34 @@
+---
+layout: post
+title: "BlogML 2.0 Released!"
+date: 2006-09-05 -0800
+comments: true
+disqus_identifier: 16315
+categories: []
+---
+Seems like all sorts of open source projects have been releasing
+lately.  [Darren Neimke](http://markitup.com/\) and [Keyvan
+Nayyeri](http://nayyeri.net/) proudly announce the release of [BlogML
+2.0](http://markitup.com/Posts/Post.aspx?postId=3d18797b-2c53-4aa3-88bc-ef1c97e84e5f)
+on [CodePlex](http://codeplex.com/).  Here’s a [list of new
+features](http://nayyeri.net/archive/2006/07/23/BlogML-new-features.aspx)
+on Keyvan’s blog. With a bit of luck and lots of persistence, BlogML
+will hopefully be a key component in breaking vendor lock-in when it
+comes to blogging engine. 
+
+For example, if you decide to try [Subtext](http://subtextproject.com/)
+as your blogging engine, and decide it’s not for you, I want you to have
+**your** data in a form that is easy to import to other engines.  Why
+should you have to write code to move from one platform to another?
+
+I contributed a BlogML provider framework with the goal of making it
+really easy to implement BlogML on other platforms.  For example, the
+homegrown blog.  I don’t feel I fully accomplished the goal of making it
+easy, but I think it’s a step in the right direction and I’m sure it’s
+in good hands now.
+
+Of course I am now pissed (for you British, that’s angry, not
+drunk) that we have all this extra work to do for Subtext since we’re
+still running BlogML 1.0 (legacy!), and 2.0 has already been out a few
+hours!
+

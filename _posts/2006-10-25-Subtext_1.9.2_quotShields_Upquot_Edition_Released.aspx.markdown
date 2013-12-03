@@ -1,0 +1,211 @@
+---
+layout: post
+title: "Subtext 1.9.2 &quot;Shields Up&quot; Edition Released!"
+date: 2006-10-25 -0800
+comments: true
+disqus_identifier: 18108
+categories: []
+---
+> Making the world safe for trackbacks again!
+
+UPDATE: A bug was reported that blog posts could not be deleted. We
+have updated the release files [with a fixed
+version](http://haacked.com/archive/2006/10/26/Subtext_1.9.2_Bugfix_Update.aspx "Subtext 1.9.2 Bugfix Update"). There’s
+also a [quick and dirty
+workaround](http://haacked.com/archive/2006/10/26/PATCH_Cannot_Delete_Posts_In_Subtext_1.9.2.aspx "Quick and Dirty Workaround"). 
+You only need to apply the fix if you downloaded and installed Subtext
+before this update message was posted.  See [here for
+details](http://haacked.com/archive/2006/10/26/Subtext_1.9.2_Bugfix_Update.aspx "Bugfix Update").
+
+Well it took me a little longer [than
+anticipated](http://haacked.com/archive/2006/10/09/Comment_Spam_Relief_In_Subtext_Coming_Soon.aspx "Comment Spam Relief in Subtext"),
+but I finally teased out the remaining show stopper bugs and put the
+finishing touches on Subtext 1.9.2. If you plan on upgrading to Subtext
+1.9.2, please consider reading this entire post carefully. If not, at
+least **remember to backup your database and site first before
+upgrading!**
+
+What happened to 1.9.1? Long story for another time. We are skipping
+from 1.9 to 1.9.2. Here is a list of releases so far just in case you
+were curious. UPDATE: I had only listed the versions that required an
+automatic upgrade. Here is the complete list with the ones in bold
+required an automatic database update:
+
+-   **Subtext 1.0**
+-   **Subtext 1.5**
+-   Subtext 1.5.1
+-   Subtext 1.5.2 
+-   **Subtext 1.9**
+-   **Subtext 1.9.2**
+
+As you can see, our version numbering has been a bit less than
+consistent. But starting with 2.0, we should stay a bit more consistent.
+With the launch of IE 7, don’t be surprised if we come out with a 1.9.3
+version that just includes fixes to the skins. Volunteers for that
+effort are welcome.
+
+### New Features
+
+The reason we call this the “Shields Up” edition is that the focus has
+been on dealing with Comment Spam. I had few interesting ideas I could
+not implement in time, but I did implement three key features that have
+really made a huge difference in regards to comment spam, and may not
+necessitate my other ideas.
+
+#### Akismet Support
+
+Subtext now has full integrated support for
+[Akismet](http://akismet.com/ "Akismet Spam Filtering") spam filtering.
+Not too long ago, I released an Akismet API so that others can use it
+for spam filtering. ~~[Scott
+Hanselman](http://hanselman.com/blog/ "Scott Hanselman")~~ Members of
+the DasBlog team implemented it for
+[DasBlog](http://dasblog.net/ "DasBlog blog engine") (in their source
+control tree. Not yet released.) and has nothing but praise for it,
+saying it has completely eliminated comment spam for him.
+
+Now let me explain what I mean by full integrated support. When you
+enable Akismet and are looking at approved comments in the feedback
+section, if you notice something that should have been filtered as spam,
+you can check it and click the *Spam* button. That will then report a
+false negative to Akismet, indicating that they failed to mark this item
+as spam and then move the item to the new *Trash folder*.
+
+Likewise, if you notice an item that is flagged as spam, but should not
+have been, you can check the item and click *Approve* which reports a
+false positive to Akismet. By doing so, you will be training Akismet to
+become more adept at filtering spam.
+
+**Note, to enable Akismet, you must sign up for an**[**Akismet API
+key**](http://akismet.com/personal/ "Akismet API Key")**and supply that
+key to Subtext via the admin section**. In order to get this key, you
+have to [register for a Wordpress.com user
+account](http://wordpress.com/signup/ "Register for a Wordpress Account"),
+whether or not you plan to use a Wordpress blog.
+
+**Another note, Akismet may not work in Medium Trust scenarios**. So if
+you host your site with a hosting provider such as GoDaddy,
+WebHost4Life, etc... who run their sites in Medium trust, Akismet might
+not work for you. I wrote about the [problem
+here](http://haacked.com/archive/2006/10/17/Why_Oh_Why_Couldnt_WebPermission_Be_Part_Of_Medium_Trust.aspx "Medium Trust and WebPermission").
+
+In the comments to the aforementioned post, [Scott
+Watermasysk](http://scottwater.com/blog/ "Scott Watermasysk") points out
+a promising approach. Have your hosting provider set up a proxy which
+can be used to make requests. To that end, I did add some
+`Web.config appSettings` for enabling proxy support:
+`ProxyHost, ProxyPort, ProxyUsername, ProxyPassword`.
+
+If specified, all web requests for subtext will use this proxy.
+
+#### Invisible Captcha
+
+Not too long ago, I released a [lightweight invisible CAPTCHA validator
+control](http://haacked.com/archive/2006/09/26/Lightweight_Invisible_CAPTCHA_Validator_Control.aspx "Invisible CAPTCHA").
+As far as I can tell, it has worked pretty well at keeping out automated
+comment spam. But as I also warned, it did nothing to stop
+Trackback/Pingback spam. Hence the need for Akismet support.
+
+Invisible CAPTCHA is probably not necessary given the Akismet support,
+but since Akismet is not enabled by default and Invisible CAPTCHA is, it
+will provide some relief until you get your Akismet API key, if you so
+choose.
+
+If Invisible CAPTCHA causes problems for you for some reason, you can
+turn it off for the entire site (no per-blog setting) via `Web.config`.
+
+#### Visible CAPTCHA
+
+Some of you twisted my arm, so I am complying. I love my users so I
+gotta keep them happy. We now have support for the standard visible
+CAPTCHA you know and love.
+
+### Time Zone Fix
+
+This topic gets its own special treatment because it is both a bug fix
+and a new feature. Not too long ago I mentioned [some work I did for
+DasBlog](http://haacked.com/archive/2006/10/06/TimeZones.aspx "TimeZones")
+regarding daylight savings time.
+
+Long story short, there was no way in the .NET framework to convert from
+one arbitrary timezone to another. The way this manifested in Subtext is
+that users who had their blog hosted in another timezone always had
+incorrect timestamps on their blog posts.  This fix resolves that issue.
+
+Previously, Subtext only stored a timezone offset for each timezone. For
+example, the offset for Pacific Standard Time (PST) is -8. However that
+is not accurate enough to be correct. For example, at the time of this
+blog post, the offset is actually -7 because of [Daylight Savings
+Time](http://en.wikipedia.org/wiki/Daylight_saving_time "Daylight Savings Time on Wikipedia").
+
+Likewise, choosing -7 for a timezone is not accurate because Arizona
+does not observe daylight savings, but Mountain Time does. The only way
+to really get this accurate is to store the actual timezone and not just
+the offset. So that is what Subtext now does.
+
+We now list every timezone (at least every one I could extract from the
+Windows XP registry). There is no natural integer identifier for a
+timezone, so based on a suggestion by someone at Microsoft, I used the
+hash code of the timezone’s Standard Name. This is the only guaranteed
+consistent unique identifier for a timezone. So when you upgrade to
+1.9.2, we try and update your offset to the most likely timezone id.
+Obviously, we can’t be perfect about this, **so after you upgrade, you
+probably want to login and configure your blog with the correct timezone
+if we chose unwisely**.
+
+### Other Release Note Items
+
+-   Feature
+    [[1565237](https://sourceforge.net/tracker/index.php?func=detail&aid=1565237&group_id=137896&atid=739982 "Support external CSS")]
+    Support referencing External CSS
+-   Feature
+    [[1577073](https://sourceforge.net/tracker/index.php?func=detail&aid=1577073&group_id=137896&atid=739982 "Flag All, Destroy All")]
+    Flag All, Destroy All options
+-   Fixed
+    [[1584075](https://sourceforge.net/tracker/index.php?func=detail&aid=1584075&group_id=137896&atid=739979 "Bug fix")]
+    Disabling trackbacks didn’t disable trackbacks properly.
+
+### Upgrade Instructions and Warnings
+
+If you are upgrading from Subtext 1.5 or below, then please read this
+[important note on
+upgrading](http://haacked.com/archive/2006/08/31/Important_Note_On_Upgrading_to_Subtext_1.9.aspx "Important Note on Upgrading to Subtext 1.9").
+Subtext 1.9.2 runs on ASP.NET 2.0, so upgrading from 1.5 and below(which
+ran on ASP.NET 1.1) takes a few additional steps than normal.  As
+always, don’t forget to merge your `web.config` customizations into the
+new `web.config` file.
+
+Also, for all people upgrading to 1.9.2. **The Subtext 1.9.2 upgrade
+process performs a major database schema change**, moving all comments
+and trackbacks into a new `subtext_Feedback` table. We’ve tested this
+over and over again working out all the kinks we could find, but we
+can’t guarantee that it will be 100% perfect. Thus **backup your
+database first before upgrading**!
+
+Also, as I mentioned in the previous section, after you upgrade, please
+check the timezone setting in the admin section.
+
+Lastly, in order to improve the commenting experience, we’ve added a
+tiny dash of Ajax using the MagicAjax control for leaving comments on a
+blog. However, this does not work well with the excellent
+[ReverseDOS](http://www.angrypets.com/tools/rdos/ "Reverse DOS") because
+ReverseDOS acts before the request is passed on the our code. **If you
+plan on using Akismet, it is recommended that you turn off ReverseDOS
+support in the `Web.config`.** In fact, the web.config file that comes
+with 1.9.2 disables ReverseDOS. I’ve been in contact with the ReverseDOS
+creator, [Michael Campbell](http://blog.angrypets.com/ "AngryPets"),
+about these issues and he has plans to work together to address them.
+But like all things, life comes first.
+
+Even though Akismet does a great job with comment spam, I still think
+ReverseDOS is worthwhile and a nice complement to Akismet. However, we
+need tighter control of when ReverseDOS is triggered in the request
+pipeline in order to integrate it into Subtext’s existing spam filtering
+functionality.
+
+### Download
+
+*Ok, enough talk already, where do I download this sucker?*  The
+download is hosted by SourceForge here:
+[[DOWNLOAD](https://sourceforge.net/project/showfiles.php?group_id=137896&package_id=181920&release_id=458502 "Download Subtext 1.9.2 from SourceForge")]
+

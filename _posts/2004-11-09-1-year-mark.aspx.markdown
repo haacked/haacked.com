@@ -1,0 +1,10 @@
+---
+layout: post
+title: "1 Year Mark"
+date: 2004-11-09 -0800
+comments: true
+disqus_identifier: 1590
+categories: []
+---
+Today I've been at my current employer for one year.
+

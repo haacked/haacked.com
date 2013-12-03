@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Speaking at Tech-Ed 2008 Hong Kong"
+date: 2008-09-15 -0800
+comments: true
+disqus_identifier: 18530
+categories: [personal]
+---
+If you happen to be in Asia around October 8-10, I’ll be speaking at
+[Tech-Ed Hong
+Kong](http://www.microsoft.com/hk/technet/teched2008/ "Tech-Ed HK 2008").
+Come by and say hi. I’m giving three talks, one on each day.
+
+Date       | Time                | Talk
+-----------|---------------------|---------------------------------------------------------------------
+October 8  | 11:45 AM – 1:00 PM  | ASP.NET MVC  - An alternative approach to building Web Applications
+October 9  | 11:00 AM – 12:15 PM | Developing Data Driven Applications Using ASP.NET Dynamic Data
+October 10 | 9:30 AM – 10:45 AM  | Write better designed code with Test Driven Development
+
+[![hong\_kong](http://haacked.com/images/haacked_com/WindowsLiveWriter/SpeakingatTechEd2008HongKong_F08D/hong_kong_3.jpg "hong_kong")](http://www.sxc.hu/photo/976082 "HK photo from stock.xchng")I’m
+hoping to have a little time after some of my talks to go do a little
+sight-seeing around Hong Kong. The trip to Hong Kong is actually a side
+trip from Japan where my wife and kid will stay while I go and and speak
+at this conference. I’m looking forward to the vacation, but wish I had
+scheduled the vacation part *after* the conference, rather than before.
+Lesson learned!
+
+Technorati Tags:
+[conferences](http://technorati.com/tags/conferences),[aspnetmvc](http://technorati.com/tags/aspnetmvc),[tdd](http://technorati.com/tags/tdd),[dynamic
+data](http://technorati.com/tags/dynamic+data)
+

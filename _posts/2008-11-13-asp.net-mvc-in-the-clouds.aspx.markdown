@@ -1,0 +1,63 @@
+---
+layout: post
+title: "ASP.NET MVC In The Clouds"
+date: 2008-11-13 -0800
+comments: true
+disqus_identifier: 18554
+categories: [asp.net mvc,asp.net]
+---
+Quick question? What’s higher than a kite?
+
+No, it’s not me nor [Cheech and
+Chong](http://www.youtube.com/watch?v=067FMmyrXmQ&feature=related "Cheech and Chong in the Car").
+It’s a cloud!
+
+Bad jokes (but funny video link) aside, Windows Azure, Microsoft’s foray
+into cloud computing, is getting a lot of attention right now. The basic
+idea behind cloud computing is you can host your application in the
+cloud and pay a monthly fee much like a utility such as paying for water
+and power.
+
+The benefit is you don’t have to deal with the infrastructure work and
+maintenance and you get “elastic” scalability, meaning your application
+can dynamically scale to meet rising need without much work on your
+part. That’s the idea at least.
+
+The Saturday evening before I left for the PDC,
+[Eilon](http://weblogs.asp.net/LeftSlipper/ "Eilon Lipton's Blog") (lead
+dev for [ASP.NET MVC](http://asp.net/mvc "ASP.NET MVC Website")) and I
+got together to try out ASP.NET MVC with the Azure Dev Fabric
+environment. This was something we promised to prototype for [Jim
+Nakashima](http://blogs.msdn.com/jnak/ "Jim Nakamura's Blog") of the
+Azure team before the PDC, but were … ah … a little late to deliver. ;)
+
+We had good reason as we had been pre-occupied with getting the [Beta
+release
+out](http://weblogs.asp.net/scottgu/archive/2008/10/16/asp-net-mvc-beta-released.aspx "Beta Release"),
+but still felt bad for totally dropping the ball, hence the late
+Saturday night pair programming session.
+
+It turned out that it didn’t take long to get the default ASP.NET MVC
+project template sample app running in the Dev Fabric, which Jim later
+[posted to his
+blog](http://blogs.msdn.com/jnak/archive/2008/10/28/asp-net-mvc-projects-running-on-windows-azure.aspx "ASP.NET MVC on Windows Azure").
+Unfortunately, we didn’t invite a QA person over that evening and didn’t
+test the entire site thoroughly. While the home and about page worked,
+the account pages requiring the Membership Provider didn’t. Doh!
+
+Fortunately Jim recently updated the sample to now work with ASP.NET
+Providers running in the cloud and [posted it to his
+blog](http://blogs.msdn.com/jnak/archive/2008/11/10/asp-net-mvc-on-windows-azure-with-providers.aspx "ASP.NET MVC on Azure with Providers").
+Even before Jim updated the sample we delivered to him, Aaron Lerch
+posted his [own step by
+step](http://weblogs.asp.net/aaronlerch/archive/2008/11/01/run-asp-net-mvc-on-windows-azure.aspx "ASP.NET MVC on Azure")
+guide to getting providers to work. Nice!
+
+The sample project Jim posted has some fixes to the project that allow
+it to work in the actual cloud. There were a couple of minor bugs
+regarding rendering URLs with port numbers when using our form helpers
+(already fixed in our trunk) that would not affect most people, but does
+happen to affect running in the cloud.
+
+ 
+

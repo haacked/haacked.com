@@ -1,0 +1,123 @@
+---
+layout: post
+title: "The ASP.NET MVC 4 Book Is Available!"
+date: 2012-10-02 -0800
+comments: true
+disqus_identifier: 18870
+categories: [asp.net mvc,blogging,code]
+---
+When someone says they want to write a technical book, I take a hammer
+and slam it on the aspiring author’s thumb and ask “How do you like
+that?” If the answer is, “Very much! May I have another.” This person is
+ready to write a technical book.
+
+Sure, writing a book always starts off full of exciting possibilities.
+But it soon devolves into drudgery and pain with the constant question
+of whether the time spent is worth it when weighed against all your
+other obligations and opportunities in life.
+
+But no matter how much I sometimes hate the process of writing a book, I
+do love this moment. The moment the fruits of your labor are delivered
+in a cardboard box and you open it up to see your name on a glossy cover
+with a speedy looking bobsled!
+
+[![mvc4-books](http://haacked.com/images/haacked_com/Windows-Live-Writer/ASP.NET-MVC-4-Book-Available_11824/mvc4-books_thumb.jpg "mvc4-books")](http://haacked.com/images/haacked_com/Windows-Live-Writer/ASP.NET-MVC-4-Book-Available_11824/mvc4-books_2.jpg)
+
+But soon after the big question sets in, “what the hell am I going to do
+with all these books?!” (*I’ll bring some
+to*[*MonkeySpace*](http://monkeyspace.org/ "MonkeySpace Conference")*in
+October! And maybe I’ll give a few away via the internet if I can think
+of a criteria for giving them out.*)
+
+At long last, the [Wrox Professional ASP.NET MVC 4
+book](http://www.amazon.com/Professional-ASP-NET-MVC-Jon-Galloway/dp/111834846X "Professional ASP.NET MVC 4 Book on Amazon")
+written by me and my esteemed coauthors, [Jon
+Galloway](http://weblogs.asp.net/jgalloway/ "Jon Galloway"), [K. Scott
+Allen](http://odetocode.com/blogs/scott/ "K. Scott Allen's Blog"), and
+[Brad Wilson](http://bradwilson.typepad.com/ "Brad Wilson"), is
+available (in
+[Kindle](http://www.amazon.com/gp/product/B009F09SRM/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009F09SRM&linkCode=as2&tag=youvebeenhaac-20 "Professional ASP.NET MVC 4 Kindle Format")
+and
+[Print](https://www.amazon.com/dp/111834846X/ref=as_li_ss_til?tag=youvebeenhaac-20&camp=0&creative=0&linkCode=as4&creativeASIN=111834846X&adid=1S9J5060VMAHHP8FY145&)
+formats) on Amazon.
+
+As Jon points out [in his blog
+post](http://weblogs.asp.net/jgalloway/archive/2012/09/26/professional-asp-net-mvc-4-is-out.aspx "Jon's take on the book"),
+the Kindle version looks nice and is in color (on devices that support
+color of course).
+
+Real World Development
+----------------------
+
+This book includes a new chapter that I really did enjoy writing. The
+focus on the chapter is building a real world ASP.NET MVC application
+using the [NuGet
+Gallery](http://github.com/nuget/nugetgallery "NuGet Gallery") as a case
+study. The NuGet Gallery is the code behind
+[http://nuget.org/](http://nuget.org/), the online public host for
+thousands of NuGet packages with millions of package installs.
+
+This is a great case study because it’s easy to [visit the
+site](http://nuget.org/ "NuGet Gallery Website") while you read the
+chapter and you can easily [grab the source
+code](http://github.com/nuget/nugetgallery "NuGet Gallery Source Code").
+The chapter covers the packages used to build the gallery as well as
+some of the trade-offs the NuGet gallery team made. For example, there
+are some places where we rolled our own features rather than using the
+built in defaults.
+
+Ironically, because we haven’t upgraded the NuGet Gallery yet, the
+content of the chapter describes an ASP.NET MVC 3 project. But all of
+the concepts and packages apply equally well to an ASP.NET MVC 4
+project.
+
+If you’re building real web applications with ASP.NET MVC, I think
+you’ll find at least one thing useful in this chapter. Hopefully more!
+
+Credits
+-------
+
+I really must give a lot of credit to my coauthors who really knocked it
+out of the park. These are some smart folks I have the pleasure of
+working with. Extra kudos to Jon Galloway who was more or less the
+project manager and chief cheerleader in organizing the rest of us to
+get this book out the door.
+
+I also want to give a big thanks to [Eilon
+Lipton](http://weblogs.asp.net/leftslipper/ "Eilon Lipton's Blog"), our
+technical reviewer. He’s the developer lead still responsible for the
+developer team that works on ASP.NET MVC and Web API and is a meticulous
+reviewer.
+
+What’s Next?
+------------
+
+ASP.NET MVC 4 is the last version of ASP.NET MVC that I had any
+involvement with. I don’t plan to be a coauthor on the ASP.NET MVC 5/Web
+API 2 book at this point. I’m just not likely to be involved enough to
+have the level of insight that I’ve had in the past. Also, it’s really
+hard work.
+
+So you should buy this book because it’ll be a collector’s item! Or, you
+can take the advice of another former coauthor of mine who said [Don’t
+Buy This Book
+right](http://www.codinghorror.com/blog/2007/10/do-not-buy-this-book.html "Do not buy this book")
+after we finished one together. Either way, I won’t hold it against you.
+(But do buy it anyways just to spite Atwood.)
+
+Will I write another book again? Maybe, but if I do it won’t be like any
+of the books I’ve worked on in the past. I have some ideas to write a
+fiction piece about a shimmery vampire wizard who goes to a school named
+PigPimples under the control of a spoiled brat king named Jeffrey who
+hates his midget uncle Teeryon Bannister. I even have a catchy phrase, a
+Bannister always pays his dates.
+
+If it somehow turns out that writing fiction doesn’t work out, I might
+be interested in writing a book that explores more of the people aspects
+of software development or related to core principles. Something that
+doesn’t change and get outdated every year.
+
+Or perhaps I’ll just keep randomly slamming keys on my keyboard and
+publish the result on my blog and call it a blog post. At least I still
+have fun doing that.
+

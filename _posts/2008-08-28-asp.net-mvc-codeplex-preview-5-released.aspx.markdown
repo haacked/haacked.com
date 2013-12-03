@@ -1,0 +1,55 @@
+---
+layout: post
+title: "ASP.NET MVC CodePlex Preview 5 Released"
+date: 2008-08-28 -0800
+comments: true
+disqus_identifier: 18527
+categories: [asp.net,asp.net mvc,code]
+---
+*Download the [MSI and Release notes
+here](http://www.codeplex.com/aspnet/Release/ProjectReleases.aspx?ReleaseId=16775 "ASP.NET CodePlex Preview 5").*
+
+Last night we released ASP.NET CodePlex Preview 5 on CodePlex. Be on the
+lookout for one of those famous epic blog posts from
+[ScottGu](http://weblogs.asp.net/scottgu "Scott Guthrie") describing the
+release. In the meanwhile, the release notes contain short write-ups of
+what has changed.
+
+We didn’t originally plan to have another preview. However, we
+implemented a few significant chunks of functionality and were dying to
+get feedback so that we could incorporate it into the product before
+Beta. It helps that with five or so of these interim releases, we’ve
+become pretty efficient producing these releases.
+
+We plan to have our next release be our official
+[Beta](http://haacked.com/archive/2008/08/15/understanding-beta.aspx "understanding beta"),
+which means we’ll have a lot more test passes to produce and run before
+we release the next one.
+
+In the meanwhile, take the code for a test drive and let us know what
+you think. Some of the naming needs to be cleaned up, so you can expect
+some name changes and improvements to the API from here to Beta, along
+with a lot of bug fixes and a few more features. Naming classes is
+tough, so we appreciate good suggestions there. :)
+
+One change that I think I forgot to mention in the release notes is that
+the Ajax helpers do not accept inline script any longer, they take
+method names. Those helpers are all in their own namespace now as
+extension methods which allow you to completely swap them out with ones
+of your own.
+
+If you’re interested in more details about how our action method
+selection works, be sure to read my post entitled [How a Method Becomes
+an
+Action](http://haacked.com/archive/2008/08/29/how-a-method-becomes-an-action.aspx "How a Method Becomes An Action").
+Be sure to keep an eye on [Brad Wilson’s
+blog](http://bradwilson.typepad.com/ "Brad Wilson") too, as he put in
+some work on this feature and will describe the view engine changes.
+
+UPDATE: Brad just blogged about [partial rendering and view
+engines](http://bradwilson.typepad.com/blog/2008/08/partial-renderi.html "Partial Rendering and View Engines")
+in ASP.NET MVC.
+
+Technorati Tags:
+[aspnetmvc](http://technorati.com/tags/aspnetmvc),[asp.net](http://technorati.com/tags/asp.net)
+
