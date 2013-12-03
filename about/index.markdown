@@ -53,7 +53,7 @@ Oh well. Read my blog for a while and you’ll find I’m fanatical about
 playing soccer.
 
 Living in beautiful Bellevue, WA, I take every occasion to go hiking and
-camping. I’ve also been to [Burning Man](http://haacked.com/archive/2004/07/18/BurningManPhotopedia.aspx "Burningman Photos")
+camping. I’ve also been to [Burning Man](http://haacked.com/archive/2004/07/18/burningmanphotopedia.aspx/ "Burningman Photos")
 three times, and would love to make it a habit if I could.
 
 The picture above is from my first time at Burning Man, paddling away
