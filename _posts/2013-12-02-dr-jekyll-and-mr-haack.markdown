@@ -20,11 +20,11 @@ So I did.
 
 One of the beautiful things about GitHub Pages is that it supports [Jekyll](http://jekyllrb.com/), a simple blog aware static site generator.
 
-If you can see this blog post, then the transition of my blog over to Jekyll is complete and (mostly) successful. The GitHub repository for this blog is located at [https://github.com/haacked/haacked.com](https://github.com/haacked/haacked.com).
+If you can see this blog post, then the transition of my blog over to Jekyll is complete and (mostly) successful. The GitHub repository for this blog is located at [https://github.com/haacked/haacked.com](https://github.com/haacked/haacked.com). Let me know if you find any issues. Or better yet, click that edit button and send me a pull request!
 
 ![Screen grab from the 1931 movie Dr. Jekyll and Mr. Hide public domain](https://f.cloud.github.com/assets/19977/1656110/a3f8b280-5b6d-11e3-818d-c06ab05bd613.jpg)
 
-There are two main approaches you can take with Jekyll. In one approach, you can use something like [Octopress](http://octopress.org/) to generate your site locally and then deploy the locally generated output to a `gh-pages` branch. Octopress has a nice set of themes and plugins you can take advantage of with this approach. The downside of that approach is you can't publish a blog post solely through GitHub.com the website.
+There are two main approaches you can take with Jekyll. In one approach, you can use something like [Octopress](http://octopress.org/) to generate your site locally and then deploy the locally generated output to a `gh-pages` branch. Octopress has a nice set of themes (my new design is based off of the [Greyshade theme](https://github.com/shashankmehta/greyshade)) and plugins you can take advantage of with this approach. The downside of that approach is you can't publish a blog post solely through GitHub.com the website.
 
 Another approach is to use raw Jekyll with GitHub pages and let GitHub Pages generate your site when your content changes. The downside of this approach is that for security reasons, you have a very limited set of Jekyll plugins at your disposal. Even so, there's quite a lot you can do. My blog is using this approach.
 
