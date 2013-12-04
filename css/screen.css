@@ -562,8 +562,14 @@ ul li a { -webkit-transition: all .2s ease-in;-moz-transition:all .2s ease-in;-o
         float: none;
         width: 100%;
     }
-    .container .mid-col .mid-col-container { padding: 15px 15px }
+    .container .mid-col .mid-col-container { padding: 15px 15px; overflow: hidden; }
     #content article .meta { float: none }
+    #content article h1.title { font-weight: 700; font-size:2em; overflow: hidden; }
+    #content article .meta span { display: block; font-size: 0.9em; }
+    #content article .meta span.edit { display: none }
+    #content article .meta span.comments { display: none }
+    #content article h1.title { overflow: hidden; }
+    #content article pre code { font-size: 0.6em; word-wrap:break-word;}
 }
 #feedburner-count { position: absolute;top:0;right:0;clip:rect(4px, 85px, 15px, 4px) }
 span.comments a { text-transform: lowercase }
