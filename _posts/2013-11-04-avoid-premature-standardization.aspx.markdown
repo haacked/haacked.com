@@ -8,7 +8,7 @@ categories: [open source,code,github]
 ---
 Most developers are aware of the potential pitfalls of premature
 optimization and [premature
-generalization](http://haacked.com/archive/2005/09/19/avoid_premature_generalization.aspx "Avoid Premature Generalization").
+generalization](http://haacked.com/archive/2005/09/18/avoid_premature_generalization.aspx "Avoid Premature Generalization").
 At least I hope they are. But what about premature standardization, a
 close cousin to premature generalization?
 
