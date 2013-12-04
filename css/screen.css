@@ -523,7 +523,7 @@ ul li a { -webkit-transition: all .2s ease-in;-moz-transition:all .2s ease-in;-o
 #content article .entry-content table td { text-align: left }
 #content article .meta { color: #999;font-family:"Open Sans";font-weight:100;font-size:1.2em }
 #content article .meta .date { display: inline }
-#content article h1.title { font-family: "Open Sans";font-weight:800;font-size:5em }
+#content article h1.title { font-family: "Open Sans";font-weight:800;font-size:5em;padding-bottom:15px; }
 #content article h1.title a { color: #333;-webkit-transition:color 0.3s;-moz-transition:color 0.3s;-o-transition:color 0.3s;transition:color 0.3s }
 #content div.archives h1.title { font-size: 3em }
 .container .mid-col footer { width: 100% }
