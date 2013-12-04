@@ -48,7 +48,7 @@ It's with heavy heart that I admit publicly what everyone has known for a while.
 
 I don't say dead because the [source code](https://github.com/haacked/subtext) is available on GitHub under a permissive open source license. So anyone can take the code and continue to work on it if necessary. But the truth is, there are much better blog engines out there.
 
-I started Subtext with high hopes [eight years ago](http://haacked.com/archive/2005/05/04/announcing-subtext.aspx). Despite a valiant effort to tame the code, what I learned in that time was that I should have started from scratch.
+I started Subtext with high hopes [eight years ago](http://haacked.com/archive/2005/05/03/announcing-subtext.aspx). Despite a valiant effort to tame the code, what I learned in that time was that I should have started from scratch.
 
 I was heavily influenced by this blog post from Joel Spolksy, [Things You Should Never Do](http://www.joelonsoftware.com/articles/fog0000000069.html).
 
