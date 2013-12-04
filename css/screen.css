@@ -100,7 +100,7 @@ a {
     color: #fff;
     display: block;
     margin: auto;
-    width: 210px;
+    max-width: 210px;
     margin: 0;
 }
 @media screen and (max-width: 600px) { 
