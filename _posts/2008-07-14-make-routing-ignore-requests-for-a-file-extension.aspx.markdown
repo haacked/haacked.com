@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Make Routing Ignore Requests For A File Extension"
-date: 2008-07-13 -0800
+date: 2008-07-14 -0800
 comments: true
 disqus_identifier: 18503
 categories: [asp.net mvc,asp.net]
