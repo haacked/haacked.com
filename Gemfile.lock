@@ -1,12 +1,17 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    RedCloth (4.2.9)
     RedCloth (4.2.9-x86-mingw32)
     classifier (1.3.3)
       fast-stemmer (>= 1.0.0)
     colorator (0.1)
+    colored (1.2)
     commander (4.1.5)
       highline (~> 1.6.11)
+    ethon (0.6.1)
+      ffi (>= 1.3.0)
+      mime-types (~> 1.18)
     fast-stemmer (1.0.2)
     ffi (1.9.3-x86-mingw32)
     github-pages (11)
@@ -18,6 +23,11 @@ GEM
       rdiscount (= 2.1.7)
       redcarpet (= 2.3.0)
     highline (1.6.20)
+    html-proofer (0.3.0)
+      colored (~> 1.2)
+      mercenary (~> 0.2.0)
+      nokogiri (~> 1.6.0)
+      typhoeus (~> 0.6.3)
     jekyll (1.3.1)
       classifier (~> 1.3)
       colorator (~> 0.1)
@@ -36,10 +46,16 @@ GEM
       rb-kqueue (>= 0.2)
     maruku (0.6.1)
       syntax (>= 1.0.0)
+    mercenary (0.2.0)
+    mime-types (1.25.1)
+    mini_portile (0.5.2)
+    nokogiri (1.6.0-x86-mingw32)
+      mini_portile (~> 0.5.0)
     posix-spawn (0.3.6)
     pygments.rb (0.5.4)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
+    rake (10.1.0)
     rb-fsevent (0.9.3)
     rb-inotify (0.9.2)
       ffi (>= 0.5.0)
@@ -49,6 +65,9 @@ GEM
     redcarpet (2.3.0)
     safe_yaml (0.9.7)
     syntax (1.0.0)
+    typhoeus (0.6.6)
+      ethon (~> 0.6.1)
+    yajl-ruby (1.1.0)
     yajl-ruby (1.1.0-x86-mingw32)
 
 PLATFORMS
@@ -56,3 +75,5 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  html-proofer
+  rake
