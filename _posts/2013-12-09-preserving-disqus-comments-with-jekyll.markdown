@@ -51,9 +51,11 @@ var disqus_identifier = '{% if page.disqus_identifier %}{{ page.disqus_identifie
 var disqus_url = '{{ site.url }}{{ page.url }}';
 ```
 
-If your current blog engine doesn't set a `disqus_identifier`, you might try using the OLD URL as the identifier. I'm not sure if that works or not. Or, you could simply use the same approach I did for the `disqus_url`.
+If your current blog engine doesn't set a `disqus_identifier`, you might try using the OLD URL as the identifier. I'm not sure if that works or not. Or, you could simply use the same approach I used to allow a post to override the `disqus_url`.
 
 ```xml
 var disqus_identifier = '{% if page.disqus_identifier %}{{ page.disqus_identifier}}{% else %}{{ site.url }}{{ page.url }}{% endif %}';
-var disqus_url = '{% if page.disqus_identifier %}{{ page.disqus_url }}{% else %}{{ site.url }}{{ page.url }}{% endif %}';
+var disqus_url = '{% if page.disqus_url %}{{ page.disqus_url }}{% else %}{{ site.url }}{{ page.url }}{% endif %}';
 ```
+
+I hope that helps with your migration to Jekyll and GitHub pages!
