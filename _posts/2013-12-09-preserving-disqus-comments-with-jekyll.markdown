@@ -8,9 +8,9 @@ categories: [jekyll]
 
 In my last post, I wrote about [preserving URLs when migrating to Jekyll](http://haacked.com/archive/2013/12/03/jekyll-url-extensions/). In this post, show how to preserve your Disqus comments.
 
-This ended up being a little bit tricker. By default, disqus stores comments keyed by a URL. So if you people create Disqus comments at http://example.com/foo.aspx, you need to preserve that _exact_ URL in order for those comments to keep showing up.
+This ended up being a little bit tricker. By default, disqus stores comments keyed by a URL. So if you people create Disqus comments at `http://example.com/foo.aspx`, you need to preserve that _exact_ URL in order for those comments to keep showing up.
 
-In my last post, I showed how to preserve such a URL, but it's not quite exact. With Jekyll, I can get a request to http://example.com/foo.aspx to redirect to http://example.com/foo.aspx/. Note that trailing slash. To Disqus, these are two different URLs and thus my comments for that page would not load anymore.
+In my last post, I showed how to preserve such a URL, but it's not quite exact. With Jekyll, I can get a request to `http://example.com/foo.aspx` to redirect to `http://example.com/foo.aspx/`. Note that trailing slash. To Disqus, these are two different URLs and thus my comments for that page would not load anymore.
 
 Fortunately, Disqus allows you to set a [Disqus Identifier](http://help.disqus.com/customer/portal/articles/472099-what-is-a-disqus-identifier-) that it uses to look up a page's comment thread. For example, if you view source [on a migrated post of mine](http://haacked.com/archive/2013/10/28/code-review-like-you-mean-it.aspx/), you'll see something like this:
 
