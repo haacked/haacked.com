@@ -39,5 +39,5 @@ I’m also excited about the partnership between Microsoft and Xamarin
 this represents. I do believe C\# is a great language for cross-platform
 development and it’s good to see Microsoft jumping back on board with
 this. This is a marked change from the situation I [wrote about in
-2012](http://haacked.com/archive/2012/10/21/monkeyspace-dotnet-oss.aspx "MonkeySpace").
+2012](http://haacked.com/archive/2012/10/20/monkeyspace-dotnet-oss.aspx "MonkeySpace").
 
