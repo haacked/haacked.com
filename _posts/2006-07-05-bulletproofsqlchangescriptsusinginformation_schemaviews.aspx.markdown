@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bulletproof Sql Change Scripts Using INFORMATION_SCHEMA Views"
-date: 2006-07-04 -0800
+date: 2006-07-05 -0800
 comments: true
 disqus_identifier: 13710
 categories: [sql]
