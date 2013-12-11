@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Templated Razor Delegates"
-date: 2011-02-26 -0800
+date: 2011-02-27 -0800
 comments: true
 disqus_identifier: 18766
 categories: [asp.net mvc,code]
