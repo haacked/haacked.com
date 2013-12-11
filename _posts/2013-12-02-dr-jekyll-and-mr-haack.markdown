@@ -40,7 +40,7 @@ Previously, I hosted my blog using Subtext, a database driven ASP.NET applicatio
 
 The app then shells out to [Pandoc](http://johnmacfarlane.net/pandoc/) to convert the HTML for each post into Markdown. This isn't super fast, but it's a one time only operation.
 
-If you have a blog stored in a database, you can probably modify the Subtext Jekyll Exporter to create the markdown post files for your Jekyll blog. I apologize for the ugliness of the code, but I have no plans to maintain it as it's done it's job for me.
+If you have a blog stored in a database, you can probably modify the Subtext Jekyll Exporter to create the markdown post files for your Jekyll blog. I apologize for the ugliness of the code, but I have no plans to maintain it as it's done its job for me.
 
 ## The Future of Subtext
 
