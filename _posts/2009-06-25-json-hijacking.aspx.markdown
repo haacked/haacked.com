@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JSON Hijacking"
-date: 2009-06-24 -0800
+date: 2009-06-25 -0800
 comments: true
 disqus_identifier: 18624
 categories: []
