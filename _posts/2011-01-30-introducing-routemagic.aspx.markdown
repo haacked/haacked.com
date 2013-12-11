@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introducing RouteMagic"
-date: 2011-01-29 -0800
+date: 2011-01-30 -0800
 comments: true
 disqus_identifier: 18760
 categories: [asp.net,code,asp.net mvc,open source]
