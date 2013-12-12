@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Log4Net"
+date: 2004-02-12 -0800
+comments: true
+disqus_identifier: 192
+categories: []
+---
+I just finished reading the [Log4Net
+Introduction](http://log4net.sourceforge.net/release/1.2.0.30507/doc/manual/introduction.html "Log4Net Introduction")
+and
+[FAQ](http://log4net.sourceforge.net/release/1.2.0.30507/doc/manual/faq.html "FAQ")
+and realize I've been missing out all these years. I won't retrofit my
+current App (just yet), but I definitely need to give Log4Net a try with
+future projects.
+
+In particular, I like the hierarchical logging that it enables, both
+with log levels and with the equivalent of logging namespaces. For
+exampl, you can create a log named "Security" and another log with
+"Security.Access". If you set a log level on Security, the
+Security.Access will inherit that log level (unless you also specify a
+log level for it). Very cool.
+
