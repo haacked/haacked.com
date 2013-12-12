@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anatomy of a Cross-site Request Forgery Attack"
-date: 2009-04-01 -0800
+date: 2009-04-02 -0800
 comments: true
 disqus_identifier: 18605
 categories: [asp.net,code,asp.net mvc]
