@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Feedburner to Google Domain Transition Foul Up"
-date: 2008-12-10 -0800
+date: 2008-12-11 -0800
 comments: true
 disqus_identifier: 18564
 categories: [personal]
