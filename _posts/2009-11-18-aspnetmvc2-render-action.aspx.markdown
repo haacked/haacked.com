@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Html.RenderAction and Html.Action"
-date: 2009-11-17 -0800
+date: 2009-11-18 -0800
 comments: true
 disqus_identifier: 18660
 categories: []
