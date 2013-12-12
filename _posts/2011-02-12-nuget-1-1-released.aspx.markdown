@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NuGet 1.1 Released!"
-date: 2011-02-11 -0800
+date: 2011-02-12 -0800
 comments: true
 disqus_identifier: 18762
 categories: [nuget,open source,code]
