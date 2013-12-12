@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What&rsquo;s the Difference Between a Value Provider and Model Binder?"
-date: 2011-06-29 -0800
+date: 2011-06-30 -0800
 comments: true
 disqus_identifier: 18800
 categories: [asp.net,asp.net mvc,code]

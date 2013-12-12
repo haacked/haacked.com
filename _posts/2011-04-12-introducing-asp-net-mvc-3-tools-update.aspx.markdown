@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introducing ASP.NET MVC 3 Tools Update"
-date: 2011-04-11 -0800
+date: 2011-04-12 -0800
 comments: true
 disqus_identifier: 18773
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Using GitHub for Windows with non-GitHub repositories"
-date: 2012-05-29 -0800
+date: 2012-05-30 -0800
 comments: true
 disqus_identifier: 18859
 categories: [github,git]

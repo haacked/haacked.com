@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET MVC 3 Extensionless URLs on IIS 6"
-date: 2010-12-21 -0800
+date: 2010-12-22 -0800
 comments: true
 disqus_identifier: 18750
 categories: [asp.net,asp.net mvc,code]
