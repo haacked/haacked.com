@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How a Method Becomes An Action"
-date: 2008-08-28 -0800
+date: 2008-08-29 -0800
 comments: true
 disqus_identifier: 18528
 categories: [asp.net mvc,asp.net]
