@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET MVC 2 Preview 2"
-date: 2009-09-30 -0800
+date: 2009-10-01 -0800
 comments: true
 disqus_identifier: 18646
 categories: []

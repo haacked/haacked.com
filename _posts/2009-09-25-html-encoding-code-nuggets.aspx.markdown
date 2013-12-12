@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Html Encoding Code Blocks With ASP.NET 4"
-date: 2009-09-24 -0800
+date: 2009-09-25 -0800
 comments: true
 disqus_identifier: 18644
 categories: [asp.net,code,asp.net mvc]

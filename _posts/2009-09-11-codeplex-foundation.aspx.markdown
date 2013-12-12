@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What The CodePlex Foundation Means To The .NET OSS Developer"
-date: 2009-09-10 -0800
+date: 2009-09-11 -0800
 comments: true
 disqus_identifier: 18642
 categories: []

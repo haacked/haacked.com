@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fun With Method Missing and C# 4"
-date: 2009-08-25 -0800
+date: 2009-08-26 -0800
 comments: true
 disqus_identifier: 18639
 categories: [asp.net,code,asp.net mvc]

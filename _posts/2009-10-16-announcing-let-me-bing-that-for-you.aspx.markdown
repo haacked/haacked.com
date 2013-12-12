@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Announcing Let Me Bing That For You"
-date: 2009-10-15 -0800
+date: 2009-10-16 -0800
 comments: true
 disqus_identifier: 18650
 categories: []
