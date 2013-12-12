@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Abstract Boilerplate HttpHandler"
-date: 2005-03-16 -0800
+date: 2005-03-17 -0800
 comments: true
 disqus_identifier: 2394
 categories: []
