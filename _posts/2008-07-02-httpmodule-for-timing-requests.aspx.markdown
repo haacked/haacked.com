@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HttpModule For Timing Requests"
-date: 2008-07-01 -0800
+date: 2008-07-02 -0800
 comments: true
 disqus_identifier: 18501
 categories: [asp.net,asp.net mvc,code]
