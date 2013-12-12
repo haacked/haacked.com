@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IronRuby With ASP.NET MVC Working Prototype"
-date: 2008-07-19 -0800
+date: 2008-07-20 -0800
 comments: true
 disqus_identifier: 18505
 categories: [asp.net mvc,code,dlr]
