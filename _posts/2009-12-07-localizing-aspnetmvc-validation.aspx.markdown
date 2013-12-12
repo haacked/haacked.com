@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Localizing ASP.NET MVC Validation"
-date: 2009-12-11 -0800
+date: 2009-12-07 -0800
 comments: true
 disqus_identifier: 18664
-categories: []
+categories: [aspnetmvc]
 ---
 This is the fourth post in my series on ASP.NET MVC 2 and its new
 features.
