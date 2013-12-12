@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Comparison of TFS vs Subversion for Open Source Projects"
-date: 2007-03-01 -0800
+date: 2007-03-02 -0800
 comments: true
 disqus_identifier: 18222
 categories: []
