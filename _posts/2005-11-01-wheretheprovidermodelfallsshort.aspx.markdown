@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Where the Provider Model Falls Short"
-date: 2005-10-31 -0800
+date: 2005-11-01 -0800
 comments: true
 disqus_identifier: 11066
 categories: []

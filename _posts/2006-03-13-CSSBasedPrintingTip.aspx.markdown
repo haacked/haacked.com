@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CSS Based Printing Tip"
-date: 2006-03-12 -0800
+date: 2006-03-13 -0800
 comments: true
 disqus_identifier: 12071
 categories: []

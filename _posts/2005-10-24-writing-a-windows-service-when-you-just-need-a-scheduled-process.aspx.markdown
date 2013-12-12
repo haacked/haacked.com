@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Writing a Windows Service When You Just Need A Scheduled Process"
-date: 2005-10-23 -0800
+date: 2005-10-24 -0800
 comments: true
 disqus_identifier: 10997
 categories: []

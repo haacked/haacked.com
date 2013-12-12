@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Random Friday: My Accomplishments"
-date: 2011-06-02 -0800
+date: 2011-06-03 -0800
 comments: true
 disqus_identifier: 18794
 categories: [humor,personal]

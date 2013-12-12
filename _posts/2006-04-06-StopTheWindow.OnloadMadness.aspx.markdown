@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stop The Window.Onload Madness"
-date: 2006-04-05 -0800
+date: 2006-04-06 -0800
 comments: true
 disqus_identifier: 12292
 categories: []

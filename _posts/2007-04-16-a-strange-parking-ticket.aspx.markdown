@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Strange Parking Ticket"
-date: 2007-04-15 -0800
+date: 2007-04-16 -0800
 comments: true
 disqus_identifier: 18283
 categories: []

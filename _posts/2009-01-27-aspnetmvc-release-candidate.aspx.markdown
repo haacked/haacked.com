@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET MVC Release Candidate"
-date: 2009-01-26 -0800
+date: 2009-01-27 -0800
 comments: true
 disqus_identifier: 18579
 categories: [asp.net mvc,asp.net]

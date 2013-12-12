@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FUNNY: The REAL Automatic Update Message"
-date: 2005-08-09 -0800
+date: 2005-08-10 -0800
 comments: true
 disqus_identifier: 9296
 categories: []

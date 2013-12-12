@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DotNetKicks Going Open Source"
-date: 2007-03-19 -0800
+date: 2007-03-20 -0800
 comments: true
 disqus_identifier: 18255
 categories: []

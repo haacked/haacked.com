@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Structuring Unit Tests"
-date: 2012-01-01 -0800
+date: 2012-01-02 -0800
 comments: true
 disqus_identifier: 18838
 categories: [code,tdd]

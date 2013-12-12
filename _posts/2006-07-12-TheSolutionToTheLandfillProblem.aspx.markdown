@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Solution To The Landfill Problem"
-date: 2006-07-11 -0800
+date: 2006-07-12 -0800
 comments: true
 disqus_identifier: 13888
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enabling IPv6 For Your .NET Application"
-date: 2004-09-23 -0800
+date: 2004-09-24 -0800
 comments: true
 disqus_identifier: 1265
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Partisan Bush Joke: Intelligence Riddle"
-date: 2004-10-22 -0800
+date: 2004-10-23 -0800
 comments: true
 disqus_identifier: 1455
 categories: []

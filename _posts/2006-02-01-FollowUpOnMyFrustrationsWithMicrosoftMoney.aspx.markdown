@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Follow Up On My Frustrations With Microsoft Money"
-date: 2006-01-31 -0800
+date: 2006-02-01 -0800
 comments: true
 disqus_identifier: 11638
 categories: []

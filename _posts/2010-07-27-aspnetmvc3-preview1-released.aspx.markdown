@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET MVC 3 Preview 1 Released"
-date: 2010-07-26 -0800
+date: 2010-07-27 -0800
 comments: true
 disqus_identifier: 18713
 categories: [asp.net,code,asp.net mvc]

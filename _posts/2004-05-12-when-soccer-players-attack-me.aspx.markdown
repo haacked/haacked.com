@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When Soccer Players Attack ... me"
-date: 2004-05-11 -0800
+date: 2004-05-12 -0800
 comments: true
 disqus_identifier: 434
 categories: []

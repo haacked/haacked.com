@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET MVC 1.0 Released!"
-date: 2009-03-17 -0800
+date: 2009-03-18 -0800
 comments: true
 disqus_identifier: 18598
 categories: [asp.net,asp.net mvc]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Happy Halloween"
-date: 2006-10-30 -0800
+date: 2006-10-31 -0800
 comments: true
 disqus_identifier: 18121
 categories: []

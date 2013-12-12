@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Metrics For Your Open Source Project"
-date: 2006-10-16 -0800
+date: 2006-10-17 -0800
 comments: true
 disqus_identifier: 18091
 categories: []

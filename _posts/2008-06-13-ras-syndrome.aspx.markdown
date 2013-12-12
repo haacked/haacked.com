@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RAS Syndrome"
-date: 2008-06-12 -0800
+date: 2008-06-13 -0800
 comments: true
 disqus_identifier: 18492
 categories: [humor]

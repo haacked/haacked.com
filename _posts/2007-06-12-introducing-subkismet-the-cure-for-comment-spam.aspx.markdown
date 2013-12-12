@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introducing Subkismet-The Cure For Comment Spam"
-date: 2007-06-11 -0800
+date: 2007-06-12 -0800
 comments: true
 disqus_identifier: 18347
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Better Recruiting Through Blogistry"
-date: 2006-10-03 -0800
+date: 2006-10-04 -0800
 comments: true
 disqus_identifier: 17636
 categories: []

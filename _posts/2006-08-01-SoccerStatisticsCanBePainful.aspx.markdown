@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Soccer Statistics Can Be Painful"
-date: 2006-07-31 -0800
+date: 2006-08-01 -0800
 comments: true
 disqus_identifier: 14536
 categories: []

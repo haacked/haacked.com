@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hosting Your Own Local and Remote NuGet Feeds"
-date: 2010-10-20 -0800
+date: 2010-10-21 -0800
 comments: true
 disqus_identifier: 18728
 categories: [nuget,code,open source]

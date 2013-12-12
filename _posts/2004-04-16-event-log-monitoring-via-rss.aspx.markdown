@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Event Log Monitoring via RSS"
-date: 2004-04-15 -0800
+date: 2004-04-16 -0800
 comments: true
 disqus_identifier: 329
 categories: []

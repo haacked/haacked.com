@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Source Available vs Open Source vs Free Software"
-date: 2006-07-25 -0800
+date: 2006-07-26 -0800
 comments: true
 disqus_identifier: 14224
 categories: []

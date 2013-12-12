@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Can't Spec Writers Write...Specs?"
-date: 2007-03-06 -0800
+date: 2007-03-07 -0800
 comments: true
 disqus_identifier: 18228
 categories: []

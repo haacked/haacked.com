@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HTML Stripping Challenge"
-date: 2008-11-10 -0800
+date: 2008-11-11 -0800
 comments: true
 disqus_identifier: 18552
 categories: [code]

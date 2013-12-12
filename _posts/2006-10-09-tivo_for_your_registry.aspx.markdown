@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tivo For Your Registry"
-date: 2006-10-08 -0800
+date: 2006-10-09 -0800
 comments: true
 disqus_identifier: 17922
 categories: []

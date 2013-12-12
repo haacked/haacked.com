@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "T4CSS: A T4 Template for .Less CSS With Compression"
-date: 2009-12-01 -0800
+date: 2009-12-02 -0800
 comments: true
 disqus_identifier: 18663
 categories: [asp.net,code]

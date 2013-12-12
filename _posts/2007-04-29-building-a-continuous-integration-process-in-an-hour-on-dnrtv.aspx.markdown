@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building a Continuous Integration Process In An Hour On DNRTV"
-date: 2007-04-28 -0800
+date: 2007-04-29 -0800
 comments: true
 disqus_identifier: 18297
 categories: []

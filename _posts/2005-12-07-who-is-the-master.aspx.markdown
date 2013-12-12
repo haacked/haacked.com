@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Who Is The Master?"
-date: 2005-12-06 -0800
+date: 2005-12-07 -0800
 comments: true
 disqus_identifier: 11308
 categories: [personal]

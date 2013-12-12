@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dealing with Comment Threads"
-date: 2006-05-16 -0800
+date: 2006-05-17 -0800
 comments: true
 disqus_identifier: 12837
 categories: []

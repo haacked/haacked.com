@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In Los Angeles this Friday for .NET Rocks Roadshow"
-date: 2012-11-27 -0800
+date: 2012-11-28 -0800
 comments: true
 disqus_identifier: 18875
 categories: [personal]

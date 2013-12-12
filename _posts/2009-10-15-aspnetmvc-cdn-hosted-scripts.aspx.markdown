@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET MVC 1.0 Scripts Available on Microsoft CDN"
-date: 2009-10-14 -0800
+date: 2009-10-15 -0800
 comments: true
 disqus_identifier: 18649
 categories: []

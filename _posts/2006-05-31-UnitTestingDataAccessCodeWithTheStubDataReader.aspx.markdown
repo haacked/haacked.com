@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unit Testing Data Access Code With The StubDataReader"
-date: 2006-05-30 -0800
+date: 2006-05-31 -0800
 comments: true
 disqus_identifier: 13070
 categories: []

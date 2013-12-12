@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is It Too Late To Change JSON?"
-date: 2009-06-25 -0800
+date: 2009-06-26 -0800
 comments: true
 disqus_identifier: 18625
 categories: []

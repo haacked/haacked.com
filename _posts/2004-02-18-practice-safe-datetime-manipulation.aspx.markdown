@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Practice safe DateTime manipulation"
-date: 2004-02-17 -0800
+date: 2004-02-18 -0800
 comments: true
 disqus_identifier: 198
 categories: []

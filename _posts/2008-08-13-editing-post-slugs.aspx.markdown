@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Better URLs With Subtext and Windows Live Writer"
-date: 2008-08-12 -0800
+date: 2008-08-13 -0800
 comments: true
 disqus_identifier: 18521
 categories: [subtext]

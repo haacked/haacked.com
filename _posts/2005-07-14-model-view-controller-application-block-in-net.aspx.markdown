@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Model View Controller Application Block in .NET"
-date: 2005-07-13 -0800
+date: 2005-07-14 -0800
 comments: true
 disqus_identifier: 8753
 categories: []

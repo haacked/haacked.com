@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Presentation Tips Learned From My (Many) Mistakes"
-date: 2011-04-17 -0800
+date: 2011-04-18 -0800
 comments: true
 disqus_identifier: 18777
 categories: [code,tech,personal]

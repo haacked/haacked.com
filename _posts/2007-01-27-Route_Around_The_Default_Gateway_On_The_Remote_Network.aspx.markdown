@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Route Around The Default Gateway On The Remote Network"
-date: 2007-01-26 -0800
+date: 2007-01-27 -0800
 comments: true
 disqus_identifier: 18201
 categories: []

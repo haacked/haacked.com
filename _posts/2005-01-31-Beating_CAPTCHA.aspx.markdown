@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beating CAPTCHA With A Neural Network"
-date: 2005-01-30 -0800
+date: 2005-01-31 -0800
 comments: true
 disqus_identifier: 2060
 categories: []

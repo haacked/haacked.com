@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visited Microsoft Today.  Even Saw Chris Sells."
-date: 2004-07-28 -0800
+date: 2004-07-29 -0800
 comments: true
 disqus_identifier: 864
 categories: []

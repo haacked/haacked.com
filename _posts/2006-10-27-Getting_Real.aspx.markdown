@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Real"
-date: 2006-10-26 -0800
+date: 2006-10-27 -0800
 comments: true
 disqus_identifier: 18116
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unit Tests Do Cost More To Write..."
-date: 2005-12-05 -0800
+date: 2005-12-06 -0800
 comments: true
 disqus_identifier: 11302
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Burning Man 2004 Starts Today!"
-date: 2004-08-29 -0800
+date: 2004-08-30 -0800
 comments: true
 disqus_identifier: 986
 categories: [personal]

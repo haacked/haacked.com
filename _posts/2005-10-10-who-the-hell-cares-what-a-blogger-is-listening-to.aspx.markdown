@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Who The Hell Cares What a Blogger Is Listening To?"
-date: 2005-10-09 -0800
+date: 2005-10-10 -0800
 comments: true
 disqus_identifier: 10663
 categories: []

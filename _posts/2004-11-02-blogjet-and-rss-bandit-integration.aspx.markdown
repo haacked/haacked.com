@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BlogJet and RSS Bandit integration"
-date: 2004-11-01 -0800
+date: 2004-11-02 -0800
 comments: true
 disqus_identifier: 1548
 categories: []

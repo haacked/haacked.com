@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Developers Are Not Plug and Play"
-date: 2006-03-09 -0800
+date: 2006-03-10 -0800
 comments: true
 disqus_identifier: 12049
 categories: []

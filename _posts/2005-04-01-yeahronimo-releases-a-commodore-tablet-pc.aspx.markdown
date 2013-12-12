@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yeahronimo Releases a Commodore Tablet PC"
-date: 2005-03-31 -0800
+date: 2005-04-01 -0800
 comments: true
 disqus_identifier: 2521
 categories: []

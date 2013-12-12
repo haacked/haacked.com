@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google Print Is Still A Good Idea"
-date: 2005-10-23 -0800
+date: 2005-10-24 -0800
 comments: true
 disqus_identifier: 10992
 categories: [tech]

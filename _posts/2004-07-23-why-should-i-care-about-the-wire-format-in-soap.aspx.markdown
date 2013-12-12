@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Should I Care About The Wire Format In SOAP?"
-date: 2004-07-22 -0800
+date: 2004-07-23 -0800
 comments: true
 disqus_identifier: 842
 categories: [code]

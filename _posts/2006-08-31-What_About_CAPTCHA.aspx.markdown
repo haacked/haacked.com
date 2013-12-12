@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What About CAPTCHA?"
-date: 2006-08-30 -0800
+date: 2006-08-31 -0800
 comments: true
 disqus_identifier: 16219
 categories: []

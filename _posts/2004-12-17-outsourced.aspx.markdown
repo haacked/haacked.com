@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Outsourced..."
-date: 2004-12-16 -0800
+date: 2004-12-17 -0800
 comments: true
 disqus_identifier: 1744
 categories: []

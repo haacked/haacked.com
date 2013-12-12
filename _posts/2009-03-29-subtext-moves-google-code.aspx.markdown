@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Subtext Is On The Move"
-date: 2009-03-28 -0800
+date: 2009-03-29 -0800
 comments: true
 disqus_identifier: 18602
 categories: [subtext]

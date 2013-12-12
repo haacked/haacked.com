@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Didn't Anyone Tell Me Steve McConnell Has A Blog!?"
-date: 2007-05-23 -0800
+date: 2007-05-24 -0800
 comments: true
 disqus_identifier: 18328
 categories: []

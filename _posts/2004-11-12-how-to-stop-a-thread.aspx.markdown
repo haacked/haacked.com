@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Stop a Thread in .NET (and Why Thread.Abort is Evil)"
-date: 2004-11-11 -0800
+date: 2004-11-12 -0800
 comments: true
 disqus_identifier: 1604
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Kinney Redesign"
-date: 2006-04-20 -0800
+date: 2006-04-21 -0800
 comments: true
 disqus_identifier: 12495
 categories: []

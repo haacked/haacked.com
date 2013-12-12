@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "If You&rsquo;ve Ever Been A Consultant, You Understand This"
-date: 2008-06-12 -0800
+date: 2008-06-13 -0800
 comments: true
 disqus_identifier: 18493
 categories: [humor]

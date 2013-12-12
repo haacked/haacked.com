@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quiz Answer: Watch out for the Eeeevil Thread.Abort."
-date: 2004-11-17 -0800
+date: 2004-11-18 -0800
 comments: true
 disqus_identifier: 1642
 categories: []

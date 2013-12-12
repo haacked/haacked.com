@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "World Cup Widows"
-date: 2006-06-17 -0800
+date: 2006-06-18 -0800
 comments: true
 disqus_identifier: 13378
 categories: [humor]

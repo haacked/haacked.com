@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yahoo, Please Make RSS Better For My Friend Walter"
-date: 2004-06-27 -0800
+date: 2004-06-28 -0800
 comments: true
 disqus_identifier: 698
 categories: []

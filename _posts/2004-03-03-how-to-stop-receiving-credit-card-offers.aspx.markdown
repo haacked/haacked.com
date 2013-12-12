@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Stop Receiving Credit Card Offers"
-date: 2004-03-02 -0800
+date: 2004-03-03 -0800
 comments: true
 disqus_identifier: 223
 categories: []

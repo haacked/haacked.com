@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This Just In - Beckham To Play For Los Angeles"
-date: 2007-01-10 -0800
+date: 2007-01-11 -0800
 comments: true
 disqus_identifier: 18190
 categories: []

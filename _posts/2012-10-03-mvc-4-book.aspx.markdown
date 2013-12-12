@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The ASP.NET MVC 4 Book Is Available!"
-date: 2012-10-02 -0800
+date: 2012-10-03 -0800
 comments: true
 disqus_identifier: 18870
 categories: [asp.net mvc,blogging,code]

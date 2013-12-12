@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alaska. We'll Pay You To Live Here."
-date: 2004-07-31 -0800
+date: 2004-08-01 -0800
 comments: true
 disqus_identifier: 872
 categories: [personal]

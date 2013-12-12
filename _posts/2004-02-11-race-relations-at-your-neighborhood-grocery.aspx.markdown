@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Race relations at your neighborhood grocery"
-date: 2004-02-10 -0800
+date: 2004-02-11 -0800
 comments: true
 disqus_identifier: 186
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating a Custom ASP.NET MVC Project Template"
-date: 2011-06-05 -0800
+date: 2011-06-06 -0800
 comments: true
 disqus_identifier: 18795
 categories: [asp.net,asp.net mvc]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comment Spam Relief In Subtext Coming Soon"
-date: 2006-10-08 -0800
+date: 2006-10-09 -0800
 comments: true
 disqus_identifier: 17913
 categories: []

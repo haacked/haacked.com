@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Case Study In Design Tradeoffs: Usability vs Discoverability"
-date: 2008-11-05 -0800
+date: 2008-11-06 -0800
 comments: true
 disqus_identifier: 18549
 categories: [asp.net,code,asp.net mvc]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Server. The Server. The Server's On Fire."
-date: 2004-12-07 -0800
+date: 2004-12-08 -0800
 comments: true
 disqus_identifier: 1716
 categories: []

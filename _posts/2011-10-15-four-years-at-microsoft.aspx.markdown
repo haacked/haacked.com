@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Four Years At Microsoft"
-date: 2011-10-14 -0800
+date: 2011-10-15 -0800
 comments: true
 disqus_identifier: 18818
 categories: [personal,code]

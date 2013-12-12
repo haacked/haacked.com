@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding How Much POP3 Is Not Scalable"
-date: 2004-09-13 -0800
+date: 2004-09-14 -0800
 comments: true
 disqus_identifier: 1207
 categories: []

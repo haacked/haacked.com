@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET MVC And Dynamic Data Learn To Play Well Together"
-date: 2008-06-10 -0800
+date: 2008-06-11 -0800
 comments: true
 disqus_identifier: 18490
 categories: [asp.net mvc,code,asp.net]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Block At All?  Thoughts on threading and sockets"
-date: 2004-08-05 -0800
+date: 2004-08-06 -0800
 comments: true
 disqus_identifier: 882
 categories: []

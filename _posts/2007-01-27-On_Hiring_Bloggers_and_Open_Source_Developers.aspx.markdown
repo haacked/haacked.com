@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Hiring Bloggers and Open Source Developers"
-date: 2007-01-26 -0800
+date: 2007-01-27 -0800
 comments: true
 disqus_identifier: 18202
 categories: [blogging]

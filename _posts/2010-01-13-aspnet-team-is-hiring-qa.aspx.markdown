@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Join My Team And Help Us Produce Higher Quality Products"
-date: 2010-01-12 -0800
+date: 2010-01-13 -0800
 comments: true
 disqus_identifier: 18677
 categories: [asp.net]

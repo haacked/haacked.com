@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Good Design Minimizes The Impact Of Changes"
-date: 2006-11-12 -0800
+date: 2006-11-13 -0800
 comments: true
 disqus_identifier: 18136
 categories: []

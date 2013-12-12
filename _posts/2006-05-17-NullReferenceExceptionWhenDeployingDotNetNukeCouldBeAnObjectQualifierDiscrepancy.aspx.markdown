@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NullReferenceException When Deploying DotNetNuke Could Be An ObjectQualifier Discrepancy"
-date: 2006-05-16 -0800
+date: 2006-05-17 -0800
 comments: true
 disqus_identifier: 12838
 categories: []

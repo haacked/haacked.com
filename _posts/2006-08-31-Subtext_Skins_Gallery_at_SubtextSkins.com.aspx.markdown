@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Subtext Skins Gallery at SubtextSkins.com"
-date: 2006-08-30 -0800
+date: 2006-08-31 -0800
 comments: true
 disqus_identifier: 16241
 categories: []

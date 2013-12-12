@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unit Testing Security Example"
-date: 2007-09-20 -0800
+date: 2007-09-21 -0800
 comments: true
 disqus_identifier: 18398
 categories: [code,tdd]

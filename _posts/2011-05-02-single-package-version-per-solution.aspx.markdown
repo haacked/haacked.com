@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Single Package Version per Solution"
-date: 2011-05-01 -0800
+date: 2011-05-02 -0800
 comments: true
 disqus_identifier: 18783
 categories: [nuget,code,open source]

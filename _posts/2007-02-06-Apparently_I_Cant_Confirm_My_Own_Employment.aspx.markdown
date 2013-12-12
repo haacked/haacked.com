@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apparently I Can't Confirm My Own Employment"
-date: 2007-02-05 -0800
+date: 2007-02-06 -0800
 comments: true
 disqus_identifier: 18206
 categories: []

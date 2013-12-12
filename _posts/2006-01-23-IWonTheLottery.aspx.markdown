@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Won The Lottery!"
-date: 2006-01-22 -0800
+date: 2006-01-23 -0800
 comments: true
 disqus_identifier: 11569
 categories: []

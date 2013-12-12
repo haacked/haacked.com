@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Create Your Own Motivator Poster"
-date: 2007-05-10 -0800
+date: 2007-05-11 -0800
 comments: true
 disqus_identifier: 18310
 categories: []

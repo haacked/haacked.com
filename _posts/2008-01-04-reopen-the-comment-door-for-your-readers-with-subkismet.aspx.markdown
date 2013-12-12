@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reopen The Comment Door For Your Readers With Subkismet"
-date: 2008-01-03 -0800
+date: 2008-01-04 -0800
 comments: true
 disqus_identifier: 18444
 categories: [code]

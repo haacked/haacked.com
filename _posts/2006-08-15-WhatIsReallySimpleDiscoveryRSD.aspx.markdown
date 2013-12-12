@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Is Really Simple Discovery (RSD)?"
-date: 2006-08-14 -0800
+date: 2006-08-15 -0800
 comments: true
 disqus_identifier: 14972
 categories: []

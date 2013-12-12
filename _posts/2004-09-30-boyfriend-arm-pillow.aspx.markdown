@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Boyfriend Arm Pillow"
-date: 2004-09-29 -0800
+date: 2004-09-30 -0800
 comments: true
 disqus_identifier: 1291
 categories: []

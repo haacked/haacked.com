@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making Microformats More Visible - Announcing The XFN Highlighter Script"
-date: 2006-04-04 -0800
+date: 2006-04-05 -0800
 comments: true
 disqus_identifier: 12276
 categories: []

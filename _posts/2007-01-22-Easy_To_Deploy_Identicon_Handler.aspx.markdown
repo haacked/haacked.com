@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Easy To Deploy Identicon Handler"
-date: 2007-01-21 -0800
+date: 2007-01-22 -0800
 comments: true
 disqus_identifier: 18197
 categories: [code]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Exactly Are You Trying To Prove?"
-date: 2007-11-15 -0800
+date: 2007-11-16 -0800
 comments: true
 disqus_identifier: 18424
 categories: [code,tdd]

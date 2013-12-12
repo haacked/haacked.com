@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Come Work With Me And Other Great People"
-date: 2008-01-28 -0800
+date: 2008-01-29 -0800
 comments: true
 disqus_identifier: 18452
 categories: [asp.net,asp.net mvc]

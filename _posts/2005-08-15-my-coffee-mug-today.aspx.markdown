@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Coffee Mug Today"
-date: 2005-08-14 -0800
+date: 2005-08-15 -0800
 comments: true
 disqus_identifier: 9445
 categories: []

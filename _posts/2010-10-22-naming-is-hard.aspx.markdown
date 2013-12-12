@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Naming is Hard, Let&rsquo;s Go Shopping"
-date: 2010-10-21 -0800
+date: 2010-10-22 -0800
 comments: true
 disqus_identifier: 18730
 categories: [open source,nuget]

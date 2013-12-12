@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dealing With Denial of Service Attacks"
-date: 2008-08-21 -0800
+date: 2008-08-22 -0800
 comments: true
 disqus_identifier: 18525
 categories: [personal]

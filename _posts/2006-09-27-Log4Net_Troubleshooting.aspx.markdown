@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Log4Net Troubleshooting"
-date: 2006-09-26 -0800
+date: 2006-09-27 -0800
 comments: true
 disqus_identifier: 17270
 categories: []

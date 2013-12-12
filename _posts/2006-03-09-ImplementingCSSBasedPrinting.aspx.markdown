@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Implementing CSS Based Printing"
-date: 2006-03-08 -0800
+date: 2006-03-09 -0800
 comments: true
 disqus_identifier: 12039
 categories: []

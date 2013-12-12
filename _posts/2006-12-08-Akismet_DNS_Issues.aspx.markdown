@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Akismet DNS Issues"
-date: 2006-12-07 -0800
+date: 2006-12-08 -0800
 comments: true
 disqus_identifier: 18161
 categories: []

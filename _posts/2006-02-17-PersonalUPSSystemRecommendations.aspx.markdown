@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Personal UPS System Recommendations"
-date: 2006-02-16 -0800
+date: 2006-02-17 -0800
 comments: true
 disqus_identifier: 11830
 categories: []

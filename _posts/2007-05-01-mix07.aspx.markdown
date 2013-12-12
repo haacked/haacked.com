@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mix07 And The Italian Jersey"
-date: 2007-04-30 -0800
+date: 2007-05-01 -0800
 comments: true
 disqus_identifier: 18300
 categories: []

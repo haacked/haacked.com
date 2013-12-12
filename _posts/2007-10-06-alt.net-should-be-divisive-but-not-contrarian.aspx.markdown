@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ALT.NET Should Be Divisive, But Not Contrarian"
-date: 2007-10-05 -0800
+date: 2007-10-06 -0800
 comments: true
 disqus_identifier: 18404
 categories: []

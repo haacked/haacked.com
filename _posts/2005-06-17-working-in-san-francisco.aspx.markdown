@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Working in San Francisco"
-date: 2005-06-16 -0800
+date: 2005-06-17 -0800
 comments: true
 disqus_identifier: 5082
 categories: []

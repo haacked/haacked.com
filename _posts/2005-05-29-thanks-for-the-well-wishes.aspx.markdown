@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thanks for the Well Wishes"
-date: 2005-05-28 -0800
+date: 2005-05-29 -0800
 comments: true
 disqus_identifier: 3922
 categories: []

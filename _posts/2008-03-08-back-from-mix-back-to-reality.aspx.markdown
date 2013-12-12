@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Back From Mix Back To Reality"
-date: 2008-03-07 -0800
+date: 2008-03-08 -0800
 comments: true
 disqus_identifier: 18460
 categories: [personal]

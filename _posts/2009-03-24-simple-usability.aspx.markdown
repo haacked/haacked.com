@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simple Usability"
-date: 2009-03-23 -0800
+date: 2009-03-24 -0800
 comments: true
 disqus_identifier: 18600
 categories: [code]

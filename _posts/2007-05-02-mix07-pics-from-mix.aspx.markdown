@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MIX07 Pics From Mix"
-date: 2007-05-01 -0800
+date: 2007-05-02 -0800
 comments: true
 disqus_identifier: 18301
 categories: []

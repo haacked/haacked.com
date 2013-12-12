@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Real Pain Of Software Development [part 1]"
-date: 2004-06-09 -0800
+date: 2004-06-10 -0800
 comments: true
 disqus_identifier: 590
 categories: [code,personal,tech]

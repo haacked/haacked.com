@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Share In My Stupidity"
-date: 2006-09-18 -0800
+date: 2006-09-19 -0800
 comments: true
 disqus_identifier: 16848
 categories: []

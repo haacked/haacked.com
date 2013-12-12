@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Problem: Can't Access Anything on LocalHost?"
-date: 2005-07-10 -0800
+date: 2005-07-11 -0800
 comments: true
 disqus_identifier: 8583
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Played Soccer Against The Juggernaut"
-date: 2006-12-15 -0800
+date: 2006-12-16 -0800
 comments: true
 disqus_identifier: 18171
 categories: []

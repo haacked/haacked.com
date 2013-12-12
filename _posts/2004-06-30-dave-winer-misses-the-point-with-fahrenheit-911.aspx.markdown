@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dave Winer Misses The Point With Fahrenheit 9/11"
-date: 2004-06-29 -0800
+date: 2004-06-30 -0800
 comments: true
 disqus_identifier: 711
 categories: []

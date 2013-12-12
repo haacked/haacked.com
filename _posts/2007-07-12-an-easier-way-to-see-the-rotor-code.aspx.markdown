@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Easier Way To See The Rotor Code"
-date: 2007-07-11 -0800
+date: 2007-07-12 -0800
 comments: true
 disqus_identifier: 18366
 categories: []

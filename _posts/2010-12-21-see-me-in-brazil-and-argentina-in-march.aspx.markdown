@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "See Me in Brazil and Argentina in March"
-date: 2010-12-20 -0800
+date: 2010-12-21 -0800
 comments: true
 disqus_identifier: 18749
 categories: [personal,asp.net mvc,asp.net]

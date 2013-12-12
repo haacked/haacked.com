@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Syntax Highlighting Revisited: SnippetCompiler."
-date: 2004-06-16 -0800
+date: 2004-06-17 -0800
 comments: true
 disqus_identifier: 642
 categories: []

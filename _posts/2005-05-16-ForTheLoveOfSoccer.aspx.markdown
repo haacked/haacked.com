@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "For The Love of Football (Soccer)"
-date: 2005-05-15 -0800
+date: 2005-05-16 -0800
 comments: true
 disqus_identifier: 3254
 categories: [personal]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Date a White Woman: A Practical Guide for Asian Men"
-date: 2004-09-14 -0800
+date: 2004-09-15 -0800
 comments: true
 disqus_identifier: 1210
 categories: []

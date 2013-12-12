@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Websites Back In The Day"
-date: 2006-01-05 -0800
+date: 2006-01-06 -0800
 comments: true
 disqus_identifier: 11423
 categories: []

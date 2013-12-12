@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "It Came From the Blue Lagoon"
-date: 2011-11-06 -0800
+date: 2011-11-07 -0800
 comments: true
 disqus_identifier: 18824
 categories: [personal]

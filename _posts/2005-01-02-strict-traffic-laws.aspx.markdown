@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Strict Traffic Laws"
-date: 2005-01-01 -0800
+date: 2005-01-02 -0800
 comments: true
 disqus_identifier: 1798
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Words Typed With The Left Hand - Dvorak Style"
-date: 2006-05-25 -0800
+date: 2006-05-26 -0800
 comments: true
 disqus_identifier: 12980
 categories: []

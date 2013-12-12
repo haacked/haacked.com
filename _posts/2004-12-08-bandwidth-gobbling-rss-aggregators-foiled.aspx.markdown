@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bandwidth-gobbling RSS aggregators: foiled!"
-date: 2004-12-07 -0800
+date: 2004-12-08 -0800
 comments: true
 disqus_identifier: 1717
 categories: []

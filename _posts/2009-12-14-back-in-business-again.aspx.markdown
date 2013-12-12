@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Back in Business"
-date: 2009-12-13 -0800
+date: 2009-12-14 -0800
 comments: true
 disqus_identifier: 18665
 categories: [personal]

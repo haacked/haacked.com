@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Jiggy With ASP.NET On Rails"
-date: 2006-08-28 -0800
+date: 2006-08-29 -0800
 comments: true
 disqus_identifier: 16150
 categories: []

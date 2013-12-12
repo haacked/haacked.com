@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FUNNY: Afro Ninja"
-date: 2004-09-14 -0800
+date: 2004-09-15 -0800
 comments: true
 disqus_identifier: 1211
 categories: []

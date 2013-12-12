@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome To My New And Improved (And Permanent) Blog Location"
-date: 2004-06-05 -0800
+date: 2004-06-06 -0800
 comments: true
 disqus_identifier: 535
 categories: []

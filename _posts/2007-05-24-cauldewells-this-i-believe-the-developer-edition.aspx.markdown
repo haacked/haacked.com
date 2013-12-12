@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cauldwell's This I Believe, The Developer Edition"
-date: 2007-05-23 -0800
+date: 2007-05-24 -0800
 comments: true
 disqus_identifier: 18329
 categories: []

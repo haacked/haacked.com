@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RSS Bandit Is Tight"
-date: 2004-09-07 -0800
+date: 2004-09-08 -0800
 comments: true
 disqus_identifier: 1166
 categories: []
