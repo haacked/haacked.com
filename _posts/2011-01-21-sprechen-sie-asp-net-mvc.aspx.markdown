@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sprechen Sie ASP.NET MVC?"
-date: 2011-01-20 -0800
+date: 2011-01-21 -0800
 comments: true
 disqus_identifier: 18759
 categories: [asp.net,asp.net mvc]

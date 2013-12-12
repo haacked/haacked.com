@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mitigate The Billion Dollar Mistake with Aspects"
-date: 2013-01-04 -0800
+date: 2013-01-05 -0800
 comments: true
 disqus_identifier: 18880
 categories: [code]

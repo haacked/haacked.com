@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apple's Unintended Compliment To PCs"
-date: 2006-06-29 -0800
+date: 2006-06-30 -0800
 comments: true
 disqus_identifier: 13594
 categories: []

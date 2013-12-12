@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Writing Custom Exceptions Using Resharper Live Templates"
-date: 2005-10-16 -0800
+date: 2005-10-17 -0800
 comments: true
 disqus_identifier: 10828
 categories: []

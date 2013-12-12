@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Departures"
-date: 2011-11-27 -0800
+date: 2011-11-28 -0800
 comments: true
 disqus_identifier: 18828
 categories: [personal,nuget]

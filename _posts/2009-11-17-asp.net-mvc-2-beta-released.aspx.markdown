@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET MVC 2 Beta Released"
-date: 2009-11-16 -0800
+date: 2009-11-17 -0800
 comments: true
 disqus_identifier: 18659
 categories: []

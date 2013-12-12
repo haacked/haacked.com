@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Problem With Extremism"
-date: 2005-10-18 -0800
+date: 2005-10-19 -0800
 comments: true
 disqus_identifier: 10867
 categories: []

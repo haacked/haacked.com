@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Photography Lessons"
-date: 2006-01-06 -0800
+date: 2006-01-07 -0800
 comments: true
 disqus_identifier: 11432
 categories: []

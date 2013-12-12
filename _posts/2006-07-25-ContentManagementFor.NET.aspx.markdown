@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Content Management For .NET"
-date: 2006-07-24 -0800
+date: 2006-07-25 -0800
 comments: true
 disqus_identifier: 14160
 categories: []

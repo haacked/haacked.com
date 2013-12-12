@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google's IPO Could Be Worth PI, not E"
-date: 2004-07-25 -0800
+date: 2004-07-26 -0800
 comments: true
 disqus_identifier: 859
 categories: []

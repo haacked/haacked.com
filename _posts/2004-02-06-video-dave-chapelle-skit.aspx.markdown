@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Video: The Dave Chappelle Show - &quot;The Niggar Family&quot;"
-date: 2004-02-05 -0800
+date: 2004-02-06 -0800
 comments: true
 disqus_identifier: 169
 categories: []

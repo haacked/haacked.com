@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Insert Code for Windows Live Writer"
-date: 2007-04-26 -0800
+date: 2007-04-27 -0800
 comments: true
 disqus_identifier: 18295
 categories: [code,tech,blogging]

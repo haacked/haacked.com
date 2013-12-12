@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ruby-Like Expressiveness in C# 3.0"
-date: 2007-05-23 -0800
+date: 2007-05-24 -0800
 comments: true
 disqus_identifier: 18330
 categories: []

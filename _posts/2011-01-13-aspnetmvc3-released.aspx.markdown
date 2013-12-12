@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET MVC 3 and NuGet 1.0 Released (Including Source Code!)"
-date: 2011-01-12 -0800
+date: 2011-01-13 -0800
 comments: true
 disqus_identifier: 18756
 categories: [asp.net,asp.net mvc,code,open source,nuget]

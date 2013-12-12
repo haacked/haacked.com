@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Known Installation Issues With ASP.NET MVC"
-date: 2008-12-02 -0800
+date: 2008-12-03 -0800
 comments: true
 disqus_identifier: 18562
 categories: [asp.net mvc,asp.net]

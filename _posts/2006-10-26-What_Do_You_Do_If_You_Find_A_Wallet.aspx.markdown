@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Do You Do If You Find A Wallet?"
-date: 2006-10-25 -0800
+date: 2006-10-26 -0800
 comments: true
 disqus_identifier: 18112
 categories: []

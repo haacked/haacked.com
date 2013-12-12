@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The ABCs of Alpha, Beta, CTP"
-date: 2008-08-14 -0800
+date: 2008-08-15 -0800
 comments: true
 disqus_identifier: 18524
 categories: [code,asp.net mvc,asp.net]

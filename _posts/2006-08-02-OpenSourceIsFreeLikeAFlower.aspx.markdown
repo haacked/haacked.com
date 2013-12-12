@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Open Source Is Free Like A Flower"
-date: 2006-08-01 -0800
+date: 2006-08-02 -0800
 comments: true
 disqus_identifier: 14554
 categories: [code,open source]

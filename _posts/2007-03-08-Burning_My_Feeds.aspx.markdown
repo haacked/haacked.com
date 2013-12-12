@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Burning My Feeds"
-date: 2007-03-07 -0800
+date: 2007-03-08 -0800
 comments: true
 disqus_identifier: 18230
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Real Shaolin Soccer"
-date: 2006-08-26 -0800
+date: 2006-08-27 -0800
 comments: true
 disqus_identifier: 16098
 categories: []

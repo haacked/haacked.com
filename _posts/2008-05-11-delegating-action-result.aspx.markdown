@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Delegating Action Result"
-date: 2008-05-10 -0800
+date: 2008-05-11 -0800
 comments: true
 disqus_identifier: 18485
 categories: [asp.net,asp.net mvc,code]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Build Traffic With Father's Day Humor"
-date: 2007-06-14 -0800
+date: 2007-06-15 -0800
 comments: true
 disqus_identifier: 18352
 categories: []

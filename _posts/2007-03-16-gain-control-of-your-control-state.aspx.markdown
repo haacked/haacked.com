@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gain Control Of Your Control State"
-date: 2007-03-15 -0800
+date: 2007-03-16 -0800
 comments: true
 disqus_identifier: 18247
 categories: [asp.net,code]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Playing Soccer Against Former National Team Players"
-date: 2006-02-08 -0800
+date: 2006-02-09 -0800
 comments: true
 disqus_identifier: 11752
 categories: []

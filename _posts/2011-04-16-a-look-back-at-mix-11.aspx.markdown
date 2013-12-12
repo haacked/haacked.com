@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Look Back at Mix 11"
-date: 2011-04-15 -0800
+date: 2011-04-16 -0800
 comments: true
 disqus_identifier: 18776
 categories: [code,open source,asp.net mvc,asp.net,nuget]

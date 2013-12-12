@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Out Of Town Guests"
-date: 2004-07-11 -0800
+date: 2004-07-12 -0800
 comments: true
 disqus_identifier: 803
 categories: []

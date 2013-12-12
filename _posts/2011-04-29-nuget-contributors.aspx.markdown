@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Secret to NuGet&rsquo;s Success. You!"
-date: 2011-04-28 -0800
+date: 2011-04-29 -0800
 comments: true
 disqus_identifier: 18784
 categories: []

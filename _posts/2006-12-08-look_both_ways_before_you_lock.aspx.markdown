@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Look Both Ways Before You Lock"
-date: 2006-12-07 -0800
+date: 2006-12-08 -0800
 comments: true
 disqus_identifier: 18159
 categories: []

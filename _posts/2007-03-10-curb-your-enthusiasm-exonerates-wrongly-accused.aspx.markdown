@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Curb Your Enthusiasm Exonerates Wrongly Accused"
-date: 2007-03-09 -0800
+date: 2007-03-10 -0800
 comments: true
 disqus_identifier: 18234
 categories: []

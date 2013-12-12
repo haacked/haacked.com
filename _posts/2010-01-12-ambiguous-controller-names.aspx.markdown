@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ambiguous Controller Names With Areas"
-date: 2010-01-11 -0800
+date: 2010-01-12 -0800
 comments: true
 disqus_identifier: 18675
 categories: [asp.net,asp.net mvc]

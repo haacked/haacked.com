@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Examine an Exception in a Catch() Block"
-date: 2006-06-06 -0800
+date: 2006-06-07 -0800
 comments: true
 disqus_identifier: 13179
 categories: []

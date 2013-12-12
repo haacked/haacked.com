@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A New Closed Source Viral License"
-date: 2010-03-30 -0800
+date: 2010-03-31 -0800
 comments: true
 disqus_identifier: 18693
 categories: [humor,code]

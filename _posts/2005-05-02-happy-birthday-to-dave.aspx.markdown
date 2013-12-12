@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Happy Birthday to Dave"
-date: 2005-05-01 -0800
+date: 2005-05-02 -0800
 comments: true
 disqus_identifier: 2918
 categories: []

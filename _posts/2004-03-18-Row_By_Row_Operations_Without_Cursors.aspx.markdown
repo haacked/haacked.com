@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TIP: Row by Row operations without cursors"
-date: 2004-03-17 -0800
+date: 2004-03-18 -0800
 comments: true
 disqus_identifier: 261
 categories: [code,sql]

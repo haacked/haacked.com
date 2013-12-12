@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Integrate Your Custom Search Engine With The Browser"
-date: 2006-10-23 -0800
+date: 2006-10-24 -0800
 comments: true
 disqus_identifier: 18106
 categories: []

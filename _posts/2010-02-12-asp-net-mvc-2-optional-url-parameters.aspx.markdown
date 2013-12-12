@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET MVC 2 Optional URL Parameters"
-date: 2010-02-11 -0800
+date: 2010-02-12 -0800
 comments: true
 disqus_identifier: 18686
 categories: [asp.net,asp.net mvc,code]

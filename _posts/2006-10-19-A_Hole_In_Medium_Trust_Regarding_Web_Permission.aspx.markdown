@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OriginUrl Supports Regular Expressions"
-date: 2006-10-18 -0800
+date: 2006-10-19 -0800
 comments: true
 disqus_identifier: 18095
 categories: []

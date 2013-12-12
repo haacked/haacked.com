@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SQL TIP: Connection To SQL via Windows Authentication over VPN"
-date: 2004-11-28 -0800
+date: 2004-11-29 -0800
 comments: true
 disqus_identifier: 1683
 categories: [sql]

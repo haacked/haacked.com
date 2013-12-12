@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quotas, What Are They Good For?"
-date: 2012-09-02 -0800
+date: 2012-09-03 -0800
 comments: true
 disqus_identifier: 18867
 categories: [code]

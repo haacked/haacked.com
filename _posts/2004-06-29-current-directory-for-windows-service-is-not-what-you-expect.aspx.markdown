@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Current Directory For Windows Service Is Not What You Expect"
-date: 2004-06-28 -0800
+date: 2004-06-29 -0800
 comments: true
 disqus_identifier: 706
 categories: []

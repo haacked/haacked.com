@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "C# .NET Quizzes"
-date: 2005-01-25 -0800
+date: 2005-01-26 -0800
 comments: true
 disqus_identifier: 2020
 categories: []

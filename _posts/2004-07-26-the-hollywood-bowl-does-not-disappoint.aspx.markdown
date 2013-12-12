@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Hollywood Bowl Does Not Disappoint"
-date: 2004-07-25 -0800
+date: 2004-07-26 -0800
 comments: true
 disqus_identifier: 855
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Compiling MVC Views In A Build Environment"
-date: 2011-05-08 -0800
+date: 2011-05-09 -0800
 comments: true
 disqus_identifier: 18785
 categories: [asp.net,asp.net mvc]

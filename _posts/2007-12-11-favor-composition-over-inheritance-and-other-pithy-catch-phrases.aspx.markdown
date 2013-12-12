@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Composition over Inheritance and other Pithy Catch Phrases"
-date: 2007-12-10 -0800
+date: 2007-12-11 -0800
 comments: true
 disqus_identifier: 18437
 categories: []

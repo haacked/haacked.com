@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hotel Minibar Keys Open Diebold Voting Machines"
-date: 2006-09-17 -0800
+date: 2006-09-18 -0800
 comments: true
 disqus_identifier: 16793
 categories: []

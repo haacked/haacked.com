@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Help! Server.Transfer Throws Exception In WebServer.WebDev In Medium Trust"
-date: 2006-12-05 -0800
+date: 2006-12-06 -0800
 comments: true
 disqus_identifier: 18157
 categories: []

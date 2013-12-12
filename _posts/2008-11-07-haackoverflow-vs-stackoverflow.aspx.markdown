@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Step Aside StackOverflow, Here&rsquo;s HaackOverflow"
-date: 2008-11-06 -0800
+date: 2008-11-07 -0800
 comments: true
 disqus_identifier: 18550
 categories: [humor,personal]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tradeoffs When Minimizing The Impact Of Changes"
-date: 2006-11-15 -0800
+date: 2006-11-16 -0800
 comments: true
 disqus_identifier: 18138
 categories: []

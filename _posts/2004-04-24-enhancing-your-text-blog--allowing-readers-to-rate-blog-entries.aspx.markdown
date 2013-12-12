@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enhancing Your .Text Blog - Allowing Readers to Rate Blog Entries"
-date: 2004-04-23 -0800
+date: 2004-04-24 -0800
 comments: true
 disqus_identifier: 356
 categories: []

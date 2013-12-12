@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ready To Fire My QA Department"
-date: 2006-03-13 -0800
+date: 2006-03-14 -0800
 comments: true
 disqus_identifier: 12087
 categories: []

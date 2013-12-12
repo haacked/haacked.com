@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Leaving Las Vegas With Software Consulting Ethics Intact"
-date: 2007-06-17 -0800
+date: 2007-06-18 -0800
 comments: true
 disqus_identifier: 18355
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Really Empty ASP.NET MVC 3 Project Template"
-date: 2012-01-10 -0800
+date: 2012-01-11 -0800
 comments: true
 disqus_identifier: 18841
 categories: [asp.net,asp.net mvc]

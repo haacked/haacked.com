@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes on ASP.NET MVC CodePlex Preview 4"
-date: 2008-07-15 -0800
+date: 2008-07-16 -0800
 comments: true
 disqus_identifier: 18504
 categories: [asp.net mvc,asp.net]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Job"
-date: 2005-09-12 -0800
+date: 2005-09-13 -0800
 comments: true
 disqus_identifier: 10065
 categories: []

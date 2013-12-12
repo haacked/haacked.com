@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reflections on 2012"
-date: 2012-12-31 -0800
+date: 2013-01-01 -0800
 comments: true
 disqus_identifier: 18879
 categories: [personal]

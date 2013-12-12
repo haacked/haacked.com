@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interesting Browser Bug with CSS border and the Select element"
-date: 2008-10-13 -0800
+date: 2008-10-14 -0800
 comments: true
 disqus_identifier: 18537
 categories: [code]

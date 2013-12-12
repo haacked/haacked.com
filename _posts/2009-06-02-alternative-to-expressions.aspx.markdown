@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Alternative Approach To Strongly Typed Helpers"
-date: 2009-06-01 -0800
+date: 2009-06-02 -0800
 comments: true
 disqus_identifier: 18621
 categories: []

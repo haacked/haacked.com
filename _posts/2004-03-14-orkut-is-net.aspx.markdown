@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Orkut is .NET"
-date: 2004-03-13 -0800
+date: 2004-03-14 -0800
 comments: true
 disqus_identifier: 253
 categories: [personal]

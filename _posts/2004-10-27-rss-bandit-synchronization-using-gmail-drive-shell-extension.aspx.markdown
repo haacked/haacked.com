@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RSS Bandit Synchronization Using GMail Drive Shell Extension"
-date: 2004-10-26 -0800
+date: 2004-10-27 -0800
 comments: true
 disqus_identifier: 1503
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why You Shouldn't Be Using a Password Of Any Kind"
-date: 2004-12-06 -0800
+date: 2004-12-07 -0800
 comments: true
 disqus_identifier: 1711
 categories: []

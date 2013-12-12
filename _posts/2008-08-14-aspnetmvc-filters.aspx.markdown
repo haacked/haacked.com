@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Filters in ASP.NET MVC CodePlex Preview 4"
-date: 2008-08-13 -0800
+date: 2008-08-14 -0800
 comments: true
 disqus_identifier: 18522
 categories: [asp.net,asp.net mvc]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Swear I Didn&#8217;t Commission This"
-date: 2006-08-11 -0800
+date: 2006-08-12 -0800
 comments: true
 disqus_identifier: 14907
 categories: []

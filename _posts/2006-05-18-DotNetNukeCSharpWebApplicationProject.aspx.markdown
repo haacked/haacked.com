@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DotNetNuke CSharp Web Application Project"
-date: 2006-05-17 -0800
+date: 2006-05-18 -0800
 comments: true
 disqus_identifier: 12848
 categories: []

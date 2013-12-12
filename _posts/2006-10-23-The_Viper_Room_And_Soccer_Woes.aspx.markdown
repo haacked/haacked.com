@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Viper Room And Soccer Woes"
-date: 2006-10-22 -0800
+date: 2006-10-23 -0800
 comments: true
 disqus_identifier: 18103
 categories: []

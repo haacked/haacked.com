@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I'll Never Get The Fashion Industry"
-date: 2004-09-23 -0800
+date: 2004-09-24 -0800
 comments: true
 disqus_identifier: 1266
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fun Iterating PagedCollections With Generics and Iterators"
-date: 2006-08-13 -0800
+date: 2006-08-14 -0800
 comments: true
 disqus_identifier: 14934
 categories: []

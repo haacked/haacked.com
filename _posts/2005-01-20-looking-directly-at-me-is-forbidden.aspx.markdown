@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Looking Directly At Me Is Forbidden"
-date: 2005-01-19 -0800
+date: 2005-01-20 -0800
 comments: true
 disqus_identifier: 1938
 categories: []

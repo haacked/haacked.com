@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tech-Ed 2004: Don Box and Doug Purdy talk about Connected Systems."
-date: 2004-05-24 -0800
+date: 2004-05-25 -0800
 comments: true
 disqus_identifier: 484
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Using RFC3229 with Feeds Does Not Validate"
-date: 2005-06-29 -0800
+date: 2005-06-30 -0800
 comments: true
 disqus_identifier: 7415
 categories: []

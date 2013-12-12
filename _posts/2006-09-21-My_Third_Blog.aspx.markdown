@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Third Blog"
-date: 2006-09-20 -0800
+date: 2006-09-21 -0800
 comments: true
 disqus_identifier: 16979
 categories: [blogging]

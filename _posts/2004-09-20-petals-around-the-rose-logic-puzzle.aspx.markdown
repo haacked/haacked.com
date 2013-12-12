@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Petals Around the Rose logic puzzle"
-date: 2004-09-19 -0800
+date: 2004-09-20 -0800
 comments: true
 disqus_identifier: 1234
 categories: []

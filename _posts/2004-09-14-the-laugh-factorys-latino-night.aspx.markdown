@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Laugh Factory's Latino Night"
-date: 2004-09-13 -0800
+date: 2004-09-14 -0800
 comments: true
 disqus_identifier: 1202
 categories: []

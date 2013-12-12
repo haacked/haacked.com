@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cheney Coordinated Haliburton Contract"
-date: 2004-06-01 -0800
+date: 2004-06-02 -0800
 comments: true
 disqus_identifier: 504
 categories: []

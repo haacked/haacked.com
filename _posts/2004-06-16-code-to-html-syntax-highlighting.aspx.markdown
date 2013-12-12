@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Syntax Highlighting.  Converting C# (et al) to HTML."
-date: 2004-06-15 -0800
+date: 2004-06-16 -0800
 comments: true
 disqus_identifier: 636
 categories: []

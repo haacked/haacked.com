@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Happens At Conferences In Vegas Do Not Stay In Vegas"
-date: 2007-11-09 -0800
+date: 2007-11-10 -0800
 comments: true
 disqus_identifier: 18419
 categories: []

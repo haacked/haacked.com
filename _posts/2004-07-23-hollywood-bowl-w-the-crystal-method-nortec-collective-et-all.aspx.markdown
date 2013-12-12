@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hollywood Bowl w/ The Crystal Method, Nortec Collective et all"
-date: 2004-07-22 -0800
+date: 2004-07-23 -0800
 comments: true
 disqus_identifier: 838
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arrived at Mix 07"
-date: 2007-04-29 -0800
+date: 2007-04-30 -0800
 comments: true
 disqus_identifier: 18298
 categories: []

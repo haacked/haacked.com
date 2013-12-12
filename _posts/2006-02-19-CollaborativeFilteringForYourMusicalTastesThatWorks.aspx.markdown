@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Collaborative Filtering For Your Musical Tastes That Works"
-date: 2006-02-18 -0800
+date: 2006-02-19 -0800
 comments: true
 disqus_identifier: 11839
 categories: []

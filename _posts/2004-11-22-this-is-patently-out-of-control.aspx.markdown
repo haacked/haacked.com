@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This Is Patently Out Of Control!"
-date: 2004-11-21 -0800
+date: 2004-11-22 -0800
 comments: true
 disqus_identifier: 1663
 categories: []

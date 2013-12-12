@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Word to the Wise About Spam Filters"
-date: 2006-01-17 -0800
+date: 2006-01-18 -0800
 comments: true
 disqus_identifier: 11534
 categories: []

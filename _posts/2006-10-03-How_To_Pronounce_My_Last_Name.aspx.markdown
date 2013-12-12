@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Pronounce My Last Name"
-date: 2006-10-02 -0800
+date: 2006-10-03 -0800
 comments: true
 disqus_identifier: 17595
 categories: []

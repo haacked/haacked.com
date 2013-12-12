@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Washington Mutual Upgrades to ASP.NET"
-date: 2006-07-20 -0800
+date: 2006-07-21 -0800
 comments: true
 disqus_identifier: 14028
 categories: []

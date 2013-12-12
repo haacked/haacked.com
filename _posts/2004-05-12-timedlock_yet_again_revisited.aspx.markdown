@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TimedLock Yet Again Revisited..."
-date: 2004-05-11 -0800
+date: 2004-05-12 -0800
 comments: true
 disqus_identifier: 431
 categories: [code]

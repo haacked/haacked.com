@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comment Spam Heuristics"
-date: 2006-08-28 -0800
+date: 2006-08-29 -0800
 comments: true
 disqus_identifier: 16134
 categories: []

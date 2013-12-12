@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Super Simple MVC Ajax With JQuery Demo"
-date: 2008-07-28 -0800
+date: 2008-07-29 -0800
 comments: true
 disqus_identifier: 18512
 categories: [asp.net mvc,asp.net]

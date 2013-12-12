@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Monty Hall Problem and Monte Carlo simulations"
-date: 2004-07-20 -0800
+date: 2004-07-21 -0800
 comments: true
 disqus_identifier: 836
 categories: []

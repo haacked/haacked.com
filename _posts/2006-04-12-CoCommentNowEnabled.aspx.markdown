@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CoComment Now Enabled"
-date: 2006-04-11 -0800
+date: 2006-04-12 -0800
 comments: true
 disqus_identifier: 12400
 categories: []

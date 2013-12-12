@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "And Get Rid Of Those Pesky Programmers"
-date: 2009-06-11 -0800
+date: 2009-06-12 -0800
 comments: true
 disqus_identifier: 18623
 categories: [code]

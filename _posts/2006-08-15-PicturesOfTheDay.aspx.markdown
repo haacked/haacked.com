@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pictures Of The Day"
-date: 2006-08-14 -0800
+date: 2006-08-15 -0800
 comments: true
 disqus_identifier: 14973
 categories: []

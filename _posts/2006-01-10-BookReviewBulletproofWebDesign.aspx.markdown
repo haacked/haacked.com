@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Review: Bulletproof Web Design"
-date: 2006-01-09 -0800
+date: 2006-01-10 -0800
 comments: true
 disqus_identifier: 11459
 categories: []

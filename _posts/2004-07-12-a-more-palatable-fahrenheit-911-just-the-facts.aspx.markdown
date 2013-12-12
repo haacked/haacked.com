@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A More Palatable Fahrenheit 9/11, Just the Facts..."
-date: 2004-07-11 -0800
+date: 2004-07-12 -0800
 comments: true
 disqus_identifier: 806
 categories: []

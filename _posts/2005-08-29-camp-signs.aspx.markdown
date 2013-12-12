@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Camp Signs"
-date: 2005-08-28 -0800
+date: 2005-08-29 -0800
 comments: true
 disqus_identifier: 9738
 categories: []

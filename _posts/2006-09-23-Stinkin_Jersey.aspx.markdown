@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stinkin' Jersey"
-date: 2006-09-22 -0800
+date: 2006-09-23 -0800
 comments: true
 disqus_identifier: 17089
 categories: []

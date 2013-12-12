@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comment Spam"
-date: 2004-10-25 -0800
+date: 2004-10-26 -0800
 comments: true
 disqus_identifier: 1485
 categories: []

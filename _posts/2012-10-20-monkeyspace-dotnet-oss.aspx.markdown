@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MonkeySpace shines a light on the future of .NET OSS"
-date: 2012-10-21 -0800
+date: 2012-10-20 -0800
 comments: true
 disqus_identifier: 18872
 categories: [open source,code,community]

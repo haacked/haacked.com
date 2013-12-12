@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Demise of NDoc and A Challenge For Users Of Open Source Software"
-date: 2006-07-25 -0800
+date: 2006-07-26 -0800
 comments: true
 disqus_identifier: 14238
 categories: []

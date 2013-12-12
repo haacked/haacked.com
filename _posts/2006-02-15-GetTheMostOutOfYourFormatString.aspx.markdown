@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Get The Most Out Of Your Format String"
-date: 2006-02-14 -0800
+date: 2006-02-15 -0800
 comments: true
 disqus_identifier: 11798
 categories: []

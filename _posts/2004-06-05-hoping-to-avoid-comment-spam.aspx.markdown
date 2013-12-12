@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hoping To Avoid Comment Spam..."
-date: 2004-06-04 -0800
+date: 2004-06-05 -0800
 comments: true
 disqus_identifier: 533
 categories: []

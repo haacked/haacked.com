@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Default Templated Views"
-date: 2009-08-03 -0800
+date: 2009-08-04 -0800
 comments: true
 disqus_identifier: 18633
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Putting the Con (COM1, LPT1, NUL, etc.) Back in your URLs"
-date: 2010-04-28 -0800
+date: 2010-04-29 -0800
 comments: true
 disqus_identifier: 18697
 categories: [asp.net,asp.net mvc,code]

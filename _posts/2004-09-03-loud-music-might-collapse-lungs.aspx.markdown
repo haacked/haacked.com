@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Loud Music Might Collapse Lungs"
-date: 2004-09-02 -0800
+date: 2004-09-03 -0800
 comments: true
 disqus_identifier: 1125
 categories: []

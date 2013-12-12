@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Power Tools For Disk Defragmenting"
-date: 2006-10-07 -0800
+date: 2006-10-08 -0800
 comments: true
 disqus_identifier: 17851
 categories: []

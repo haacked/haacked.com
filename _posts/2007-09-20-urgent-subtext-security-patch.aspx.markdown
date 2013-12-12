@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Urgent: Subtext Security Patch"
-date: 2007-09-19 -0800
+date: 2007-09-20 -0800
 comments: true
 disqus_identifier: 18396
 categories: [personal]

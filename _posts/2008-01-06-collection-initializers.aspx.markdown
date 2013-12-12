@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Collection Initializers"
-date: 2008-01-05 -0800
+date: 2008-01-06 -0800
 comments: true
 disqus_identifier: 18446
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This Could Remove All The Fun From When A Coworker Leaves Her Computer Unlocked"
-date: 2005-08-14 -0800
+date: 2005-08-15 -0800
 comments: true
 disqus_identifier: 9440
 categories: []

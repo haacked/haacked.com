@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET MVC 4 Developer Preview Released"
-date: 2011-09-13 -0800
+date: 2011-09-14 -0800
 comments: true
 disqus_identifier: 18814
 categories: [asp.net,asp.net mvc]

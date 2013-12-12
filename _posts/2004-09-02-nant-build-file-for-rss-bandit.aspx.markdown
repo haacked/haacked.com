@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NAnt Build File For Rss Bandit"
-date: 2004-09-01 -0800
+date: 2004-09-02 -0800
 comments: true
 disqus_identifier: 1109
 categories: []

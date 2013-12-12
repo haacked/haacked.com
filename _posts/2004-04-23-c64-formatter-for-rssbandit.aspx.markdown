@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New RSS Bandit Formatter Stylesheet - C64"
-date: 2004-04-22 -0800
+date: 2004-04-23 -0800
 comments: true
 disqus_identifier: 354
 categories: []

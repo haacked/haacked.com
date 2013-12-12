@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vista Could Be So Much Better"
-date: 2006-01-13 -0800
+date: 2006-01-14 -0800
 comments: true
 disqus_identifier: 11502
 categories: []

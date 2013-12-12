@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET MVC For Visual Studio 2010 Beta 1"
-date: 2009-05-17 -0800
+date: 2009-05-18 -0800
 comments: true
 disqus_identifier: 18618
 categories: [asp.net,code,asp.net mvc]

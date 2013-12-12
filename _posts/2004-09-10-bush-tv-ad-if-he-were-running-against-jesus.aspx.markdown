@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bush TV Ad If He Were Running Against Jesus"
-date: 2004-09-09 -0800
+date: 2004-09-10 -0800
 comments: true
 disqus_identifier: 1185
 categories: []

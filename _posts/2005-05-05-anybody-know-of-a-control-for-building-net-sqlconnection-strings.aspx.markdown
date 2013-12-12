@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anybody Know of a Control for Building .NET SqlConnection Strings?"
-date: 2005-05-04 -0800
+date: 2005-05-05 -0800
 comments: true
 disqus_identifier: 3010
 categories: []

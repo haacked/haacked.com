@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Rush Of Basketball"
-date: 2004-07-06 -0800
+date: 2004-07-07 -0800
 comments: true
 disqus_identifier: 780
 categories: []

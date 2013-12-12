@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This is So Me"
-date: 2004-10-28 -0800
+date: 2004-10-29 -0800
 comments: true
 disqus_identifier: 1530
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MySpace Founder Alleges Fraud In Acquisition"
-date: 2006-10-04 -0800
+date: 2006-10-05 -0800
 comments: true
 disqus_identifier: 17689
 categories: []

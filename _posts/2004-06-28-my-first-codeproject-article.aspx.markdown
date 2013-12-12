@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First CodeProject Article"
-date: 2004-06-27 -0800
+date: 2004-06-28 -0800
 comments: true
 disqus_identifier: 700
 categories: []

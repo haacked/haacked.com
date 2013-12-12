@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Ultimate Business Plan."
-date: 2004-04-19 -0800
+date: 2004-04-20 -0800
 comments: true
 disqus_identifier: 338
 categories: []

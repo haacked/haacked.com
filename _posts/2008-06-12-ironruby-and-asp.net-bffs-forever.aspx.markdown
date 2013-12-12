@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IronRuby and ASP.NET BFFs Forever"
-date: 2008-06-11 -0800
+date: 2008-06-12 -0800
 comments: true
 disqus_identifier: 18491
 categories: [asp.net mvc,code]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Downside to Cool Software Names"
-date: 2005-09-20 -0800
+date: 2005-09-21 -0800
 comments: true
 disqus_identifier: 10259
 categories: []

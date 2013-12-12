@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Localized Releases of ASP.NET MVC 3 Tools Update"
-date: 2011-05-09 -0800
+date: 2011-05-10 -0800
 comments: true
 disqus_identifier: 18786
 categories: [asp.net mvc,asp.net]

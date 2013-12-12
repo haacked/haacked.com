@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A RouteHandler for IHttpHandlers"
-date: 2009-11-03 -0800
+date: 2009-11-04 -0800
 comments: true
 disqus_identifier: 18656
 categories: [asp.net,code]

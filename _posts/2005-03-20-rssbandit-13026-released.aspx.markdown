@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RSS Bandit 1.3.0.26 Released!"
-date: 2005-03-19 -0800
+date: 2005-03-20 -0800
 comments: true
 disqus_identifier: 2411
 categories: [open source]

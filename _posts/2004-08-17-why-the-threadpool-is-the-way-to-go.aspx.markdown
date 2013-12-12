@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why The ThreadPool Is Very Often The Way To Go"
-date: 2004-08-16 -0800
+date: 2004-08-17 -0800
 comments: true
 disqus_identifier: 928
 categories: []

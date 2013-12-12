@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wow! Sasha Is a Resident DJ in Los Angeles"
-date: 2004-12-14 -0800
+date: 2004-12-15 -0800
 comments: true
 disqus_identifier: 1738
 categories: [personal]

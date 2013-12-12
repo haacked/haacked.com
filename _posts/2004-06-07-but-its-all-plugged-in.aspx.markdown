@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "But It's All Plugged In"
-date: 2004-06-06 -0800
+date: 2004-06-07 -0800
 comments: true
 disqus_identifier: 539
 categories: []

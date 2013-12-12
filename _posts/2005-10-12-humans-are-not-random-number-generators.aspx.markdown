@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Humans Are Not Random Number Generators"
-date: 2005-10-11 -0800
+date: 2005-10-12 -0800
 comments: true
 disqus_identifier: 10750
 categories: []

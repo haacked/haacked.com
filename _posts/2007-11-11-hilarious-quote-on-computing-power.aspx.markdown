@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hilarious Quote on Computing Power"
-date: 2007-11-10 -0800
+date: 2007-11-11 -0800
 comments: true
 disqus_identifier: 18421
 categories: []

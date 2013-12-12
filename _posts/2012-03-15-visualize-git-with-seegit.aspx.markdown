@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visualize Git with SeeGit"
-date: 2012-03-14 -0800
+date: 2012-03-15 -0800
 comments: true
 disqus_identifier: 18852
 categories: [git,github,code]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Revenge Of The Frogs"
-date: 2004-09-15 -0800
+date: 2004-09-16 -0800
 comments: true
 disqus_identifier: 1224
 categories: []

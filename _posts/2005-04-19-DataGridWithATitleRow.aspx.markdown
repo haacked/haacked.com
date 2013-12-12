@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DataGrid With a Title Row"
-date: 2005-04-18 -0800
+date: 2005-04-19 -0800
 comments: true
 disqus_identifier: 2741
 categories: []

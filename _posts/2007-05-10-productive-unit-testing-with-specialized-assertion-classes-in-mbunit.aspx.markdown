@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Productive Unit Testing with Specialized Assertion Classes in MbUnit"
-date: 2007-05-09 -0800
+date: 2007-05-10 -0800
 comments: true
 disqus_identifier: 18306
 categories: [code,tdd]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Custom Partial Output Caching"
-date: 2006-05-14 -0800
+date: 2006-05-15 -0800
 comments: true
 disqus_identifier: 12791
 categories: []

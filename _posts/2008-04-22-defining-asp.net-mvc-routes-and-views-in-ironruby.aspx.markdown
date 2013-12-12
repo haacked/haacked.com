@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Defining ASP.NET MVC Routes and Views in IronRuby"
-date: 2008-04-21 -0800
+date: 2008-04-22 -0800
 comments: true
 disqus_identifier: 18479
 categories: [asp.net,asp.net mvc,code]

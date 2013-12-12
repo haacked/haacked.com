@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ".NET 3.5 SP1 Beta and Its Effect on MVC"
-date: 2008-05-11 -0800
+date: 2008-05-12 -0800
 comments: true
 disqus_identifier: 18486
 categories: [asp.net,asp.net mvc,code]

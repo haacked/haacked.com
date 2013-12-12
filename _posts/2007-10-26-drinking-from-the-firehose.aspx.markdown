@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Drinking from the Fire Hose At Microsoft"
-date: 2007-10-25 -0800
+date: 2007-10-26 -0800
 comments: true
 disqus_identifier: 18410
 categories: []
