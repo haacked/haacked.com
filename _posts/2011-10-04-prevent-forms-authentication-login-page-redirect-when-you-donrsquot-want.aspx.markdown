@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prevent Forms Authentication Login Page Redirect When You Don&rsquo;t Want It"
-date: 2011-10-03 -0800
+date: 2011-10-04 -0800
 comments: true
 disqus_identifier: 18816
 categories: [asp.net,asp.net mvc,code]
