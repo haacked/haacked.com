@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bin Deploying ASP.NET MVC"
-date: 2008-11-02 -0800
+date: 2008-11-03 -0800
 comments: true
 disqus_identifier: 18546
 categories: [asp.net mvc,asp.net]
