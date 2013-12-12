@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Combining JQuery Form Validation and Ajax Submission with ASP.NET"
-date: 2008-11-20 -0800
+date: 2008-11-21 -0800
 comments: true
 disqus_identifier: 18558
 categories: [asp.net]
