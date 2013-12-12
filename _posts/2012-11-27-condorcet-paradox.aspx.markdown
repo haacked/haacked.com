@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Voting is a Sham! Mathematically Speaking."
-date: 2012-11-26 -0800
+date: 2012-11-27 -0800
 comments: true
 disqus_identifier: 18874
 categories: [math]
