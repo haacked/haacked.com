@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Installing Ubuntu on Virtual PC for Windows Lovers"
-date: 2007-05-05 -0800
+date: 2007-05-06 -0800
 comments: true
 disqus_identifier: 18303
 categories: []
