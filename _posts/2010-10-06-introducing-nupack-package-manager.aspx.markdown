@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introducing NuGet Package Manager"
-date: 2010-10-05 -0800
+date: 2010-10-06 -0800
 comments: true
 disqus_identifier: 18724
 categories: [asp.net mvc,code,open source,nuget]

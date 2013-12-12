@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Everything You Wanted To Know About MVC and MVP But Were Afraid To Ask"
-date: 2008-06-15 -0800
+date: 2008-06-16 -0800
 comments: true
 disqus_identifier: 18494
 categories: [asp.net,asp.net mvc,code]
