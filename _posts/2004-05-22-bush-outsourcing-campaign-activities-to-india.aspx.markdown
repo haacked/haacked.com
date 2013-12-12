@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bush outsourcing campaign activities to India"
-date: 2004-05-21 -0800
+date: 2004-05-22 -0800
 comments: true
 disqus_identifier: 468
 categories: []

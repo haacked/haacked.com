@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RSS Bandit 1.3.x (Wolverine) Beta Available!"
-date: 2005-02-04 -0800
+date: 2005-02-05 -0800
 comments: true
 disqus_identifier: 2096
 categories: []

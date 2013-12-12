@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET MVC CodePlex Preview 5 Released"
-date: 2008-08-28 -0800
+date: 2008-08-29 -0800
 comments: true
 disqus_identifier: 18527
 categories: [asp.net,asp.net mvc,code]

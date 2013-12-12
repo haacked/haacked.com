@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When Not To Iterate"
-date: 2006-02-01 -0800
+date: 2006-02-02 -0800
 comments: true
 disqus_identifier: 11645
 categories: []

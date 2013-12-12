@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mathematics Presentation and Lectures at Burning Man"
-date: 2005-08-27 -0800
+date: 2005-08-28 -0800
 comments: true
 disqus_identifier: 9727
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Html Encoding Nuggets With ASP.NET MVC 2"
-date: 2009-11-02 -0800
+date: 2009-11-03 -0800
 comments: true
 disqus_identifier: 18655
 categories: [asp.net,code,asp.net mvc]

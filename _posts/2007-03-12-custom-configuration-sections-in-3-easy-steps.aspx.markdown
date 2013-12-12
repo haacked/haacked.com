@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Custom Configuration Sections in 3 Easy Steps"
-date: 2007-03-11 -0800
+date: 2007-03-12 -0800
 comments: true
 disqus_identifier: 18236
 categories: []

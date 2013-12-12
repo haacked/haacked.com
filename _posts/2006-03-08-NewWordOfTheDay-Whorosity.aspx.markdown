@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Word Of The Day - Whorosity"
-date: 2006-03-07 -0800
+date: 2006-03-08 -0800
 comments: true
 disqus_identifier: 12033
 categories: []

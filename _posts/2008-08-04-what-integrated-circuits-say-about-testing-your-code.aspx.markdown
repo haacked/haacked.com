@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Integrated Circuits Say About Testing Your Code"
-date: 2008-08-03 -0800
+date: 2008-08-04 -0800
 comments: true
 disqus_identifier: 18513
 categories: [tdd,code]

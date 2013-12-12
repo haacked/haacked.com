@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "More On The CodePlex Foundation"
-date: 2009-09-12 -0800
+date: 2009-09-13 -0800
 comments: true
 disqus_identifier: 18643
 categories: []

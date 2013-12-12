@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Event Handlers, Circular References, and Alleged Memory Leaks"
-date: 2004-07-06 -0800
+date: 2004-07-07 -0800
 comments: true
 disqus_identifier: 781
 categories: []

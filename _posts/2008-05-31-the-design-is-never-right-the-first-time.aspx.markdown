@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Design Is Never Right The First Time"
-date: 2008-05-30 -0800
+date: 2008-05-31 -0800
 comments: true
 disqus_identifier: 18489
 categories: [asp.net,asp.net mvc,code]

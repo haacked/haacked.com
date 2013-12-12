@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Real Madrid vs Galaxy, July 18"
-date: 2005-06-27 -0800
+date: 2005-06-28 -0800
 comments: true
 disqus_identifier: 7347
 categories: []

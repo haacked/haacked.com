@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "7 Stages of new language keyword grief"
-date: 2009-08-30 -0800
+date: 2009-08-31 -0800
 comments: true
 disqus_identifier: 18641
 categories: []

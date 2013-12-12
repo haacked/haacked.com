@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Must Be Trustworthy"
-date: 2006-01-10 -0800
+date: 2006-01-11 -0800
 comments: true
 disqus_identifier: 11473
 categories: []

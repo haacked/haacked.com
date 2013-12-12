@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WebHost4Life"
-date: 2004-06-03 -0800
+date: 2004-06-04 -0800
 comments: true
 disqus_identifier: 518
 categories: []

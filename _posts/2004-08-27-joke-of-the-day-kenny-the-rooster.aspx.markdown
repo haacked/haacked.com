@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Joke Of The Day: Kenny the Rooster"
-date: 2004-08-26 -0800
+date: 2004-08-27 -0800
 comments: true
 disqus_identifier: 982
 categories: []

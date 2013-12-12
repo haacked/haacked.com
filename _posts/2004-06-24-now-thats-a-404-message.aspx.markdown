@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Now that's a 404 Message!"
-date: 2004-06-23 -0800
+date: 2004-06-24 -0800
 comments: true
 disqus_identifier: 670
 categories: []

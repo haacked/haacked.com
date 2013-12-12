@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Random Friday: Geek Verticals"
-date: 2011-08-11 -0800
+date: 2011-08-12 -0800
 comments: true
 disqus_identifier: 18807
 categories: [humor,personal]

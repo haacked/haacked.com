@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Better String Input Handling"
-date: 2009-03-31 -0800
+date: 2009-04-01 -0800
 comments: true
 disqus_identifier: 18603
 categories: [code,humor]

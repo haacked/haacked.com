@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CoComment Support in Subtext"
-date: 2006-04-03 -0800
+date: 2006-04-04 -0800
 comments: true
 disqus_identifier: 12261
 categories: [subtext]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Matching HTML With Regular Expressions Redux"
-date: 2005-04-21 -0800
+date: 2005-04-22 -0800
 comments: true
 disqus_identifier: 2784
 categories: []

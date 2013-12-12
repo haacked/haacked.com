@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "End Of The Road Trip"
-date: 2006-09-09 -0800
+date: 2006-09-10 -0800
 comments: true
 disqus_identifier: 16437
 categories: [personal]

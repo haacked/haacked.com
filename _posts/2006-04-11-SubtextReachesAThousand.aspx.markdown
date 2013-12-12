@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Subtext Reaches A Thousand"
-date: 2006-04-10 -0800
+date: 2006-04-11 -0800
 comments: true
 disqus_identifier: 12376
 categories: [subtext]

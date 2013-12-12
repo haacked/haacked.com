@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Databinding Tips: Nesting Eval Statements"
-date: 2007-04-11 -0800
+date: 2007-04-12 -0800
 comments: true
 disqus_identifier: 18279
 categories: []

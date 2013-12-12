@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ReSharper Property Expansion Live Template"
-date: 2004-08-19 -0800
+date: 2004-08-20 -0800
 comments: true
 disqus_identifier: 954
 categories: []

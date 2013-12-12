@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Make Async Your Buddy With Reactive Extensions"
-date: 2012-04-08 -0800
+date: 2012-04-09 -0800
 comments: true
 disqus_identifier: 18856
 categories: [code,rx]

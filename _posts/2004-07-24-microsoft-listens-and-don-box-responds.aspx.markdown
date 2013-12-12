@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Microsoft Listens and Don Box Responds"
-date: 2004-07-23 -0800
+date: 2004-07-24 -0800
 comments: true
 disqus_identifier: 853
 categories: []

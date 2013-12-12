@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating Copies of Attributes"
-date: 2010-08-04 -0800
+date: 2010-08-05 -0800
 comments: true
 disqus_identifier: 18715
 categories: [code]

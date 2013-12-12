@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Datatable as a method parameter"
-date: 2004-02-03 -0800
+date: 2004-02-04 -0800
 comments: true
 disqus_identifier: 159
 categories: [code]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bird Flu Hits the U.S."
-date: 2005-11-02 -0800
+date: 2005-11-03 -0800
 comments: true
 disqus_identifier: 11101
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NuGet Roundup December 2010 Edition"
-date: 2010-12-06 -0800
+date: 2010-12-07 -0800
 comments: true
 disqus_identifier: 18745
 categories: [nuget,code]

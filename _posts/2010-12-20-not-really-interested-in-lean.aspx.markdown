@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Not Really Interested In Lean"
-date: 2010-12-19 -0800
+date: 2010-12-20 -0800
 comments: true
 disqus_identifier: 18748
 categories: [code,nuget]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "It's The Output Stupid!  (What Makes a Great Influencer, Hacker, and Writer?)"
-date: 2004-09-08 -0800
+date: 2004-09-09 -0800
 comments: true
 disqus_identifier: 1175
 categories: []

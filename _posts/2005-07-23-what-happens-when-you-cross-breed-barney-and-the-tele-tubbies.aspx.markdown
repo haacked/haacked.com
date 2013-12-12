@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Happens when you Cross-Breed Barney and the Tele-Tubbies?"
-date: 2005-07-22 -0800
+date: 2005-07-23 -0800
 comments: true
 disqus_identifier: 8976
 categories: []

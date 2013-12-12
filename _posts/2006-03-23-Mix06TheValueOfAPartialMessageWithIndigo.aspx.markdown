@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Mix06] The Value Of A Partial Message With Indigo"
-date: 2006-03-22 -0800
+date: 2006-03-23 -0800
 comments: true
 disqus_identifier: 12144
 categories: []

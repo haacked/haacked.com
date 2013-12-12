@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Microsoft and Open Source"
-date: 2007-07-25 -0800
+date: 2007-07-26 -0800
 comments: true
 disqus_identifier: 18370
 categories: []

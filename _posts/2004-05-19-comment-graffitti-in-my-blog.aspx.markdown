@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comment Graffitti in my Blog"
-date: 2004-05-18 -0800
+date: 2004-05-19 -0800
 comments: true
 disqus_identifier: 456
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET MVC 3 Release Candidate"
-date: 2010-11-08 -0800
+date: 2010-11-09 -0800
 comments: true
 disqus_identifier: 18736
 categories: [asp.net,asp.net mvc,code,nuget]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Async Lambdas"
-date: 2013-01-23 -0800
+date: 2013-01-24 -0800
 comments: true
 disqus_identifier: 18883
 categories: [code]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Implicit Branching and Merging"
-date: 2006-06-01 -0800
+date: 2006-06-02 -0800
 comments: true
 disqus_identifier: 13101
 categories: [code]

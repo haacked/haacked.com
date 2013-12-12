@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dynamic WHERE and ORDER BY Without Dynamic SQL"
-date: 2006-01-25 -0800
+date: 2006-01-26 -0800
 comments: true
 disqus_identifier: 11598
 categories: [sql]

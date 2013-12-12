@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setting Up CVS Commit Emails In SourceForge"
-date: 2006-01-16 -0800
+date: 2006-01-17 -0800
 comments: true
 disqus_identifier: 11526
 categories: []

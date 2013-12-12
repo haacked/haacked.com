@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Can't Sleep, Feeling Sick, So I Code"
-date: 2006-10-11 -0800
+date: 2006-10-12 -0800
 comments: true
 disqus_identifier: 18047
 categories: []

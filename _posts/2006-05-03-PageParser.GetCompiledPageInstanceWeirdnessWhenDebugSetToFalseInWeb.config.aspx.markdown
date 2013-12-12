@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PageParser.GetCompiledPageInstance Weirdness When Debug Set To False In Web.config"
-date: 2006-05-02 -0800
+date: 2006-05-03 -0800
 comments: true
 disqus_identifier: 12642
 categories: []

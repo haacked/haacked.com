@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Microsoft Sql Server 2000 Best Practices Analyzer 1.0"
-date: 2004-04-02 -0800
+date: 2004-04-03 -0800
 comments: true
 disqus_identifier: 296
 categories: []

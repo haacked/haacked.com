@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GeeksWithBlogs Now Are Geeks With Subtext"
-date: 2007-04-13 -0800
+date: 2007-04-14 -0800
 comments: true
 disqus_identifier: 18281
 categories: []

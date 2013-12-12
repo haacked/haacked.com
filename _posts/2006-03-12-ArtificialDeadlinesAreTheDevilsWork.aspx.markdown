@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Artificial Deadlines Are The Devils Work"
-date: 2006-03-11 -0800
+date: 2006-03-12 -0800
 comments: true
 disqus_identifier: 12067
 categories: []

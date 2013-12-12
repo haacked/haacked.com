@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scott Adams Solves The Middle East Riddle"
-date: 2006-07-27 -0800
+date: 2006-07-28 -0800
 comments: true
 disqus_identifier: 14390
 categories: []

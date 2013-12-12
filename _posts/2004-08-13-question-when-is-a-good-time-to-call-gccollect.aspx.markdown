@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Question: When Is A Good Time To Call GC.Collect()?"
-date: 2004-08-12 -0800
+date: 2004-08-13 -0800
 comments: true
 disqus_identifier: 918
 categories: []

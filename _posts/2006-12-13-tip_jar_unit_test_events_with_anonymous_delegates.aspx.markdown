@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Tip Jar] Unit Test Events With Anonymous Delegates"
-date: 2006-12-12 -0800
+date: 2006-12-13 -0800
 comments: true
 disqus_identifier: 18166
 categories: [code,tdd]

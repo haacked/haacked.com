@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is Open Source A Crap Idea?"
-date: 2006-03-23 -0800
+date: 2006-03-24 -0800
 comments: true
 disqus_identifier: 12180
 categories: []

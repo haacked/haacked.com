@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Clickable Background Images Via CSS"
-date: 2006-01-12 -0800
+date: 2006-01-13 -0800
 comments: true
 disqus_identifier: 11489
 categories: [code]

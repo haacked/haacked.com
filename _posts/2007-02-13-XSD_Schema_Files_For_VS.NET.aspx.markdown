@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "XSD Schema Files For VS.NET"
-date: 2007-02-12 -0800
+date: 2007-02-13 -0800
 comments: true
 disqus_identifier: 18212
 categories: []

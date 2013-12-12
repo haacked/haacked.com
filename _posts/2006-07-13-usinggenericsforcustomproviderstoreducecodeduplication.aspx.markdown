@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Using Generics For Custom Providers To Reduce Code Duplication"
-date: 2006-07-12 -0800
+date: 2006-07-13 -0800
 comments: true
 disqus_identifier: 13917
 categories: []

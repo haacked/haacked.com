@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sony Announces Digital Music Player"
-date: 2004-06-30 -0800
+date: 2004-07-01 -0800
 comments: true
 disqus_identifier: 759
 categories: []

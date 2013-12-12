@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Windows Developer Tools Day"
-date: 2007-01-18 -0800
+date: 2007-01-19 -0800
 comments: true
 disqus_identifier: 18195
 categories: []

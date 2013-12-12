@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Subsonic 2.0 Beta 1"
-date: 2007-04-08 -0800
+date: 2007-04-09 -0800
 comments: true
 disqus_identifier: 18273
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Funny piece of spam"
-date: 2004-02-05 -0800
+date: 2004-02-06 -0800
 comments: true
 disqus_identifier: 170
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Premature Optimization Considered Healthy"
-date: 2006-09-12 -0800
+date: 2006-09-13 -0800
 comments: true
 disqus_identifier: 16528
 categories: []

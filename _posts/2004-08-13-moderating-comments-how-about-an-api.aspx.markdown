@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moderating Comments. How About An API?"
-date: 2004-08-12 -0800
+date: 2004-08-13 -0800
 comments: true
 disqus_identifier: 919
 categories: []

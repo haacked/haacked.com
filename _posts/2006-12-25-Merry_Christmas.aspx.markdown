@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Merry Christmas!"
-date: 2006-12-24 -0800
+date: 2006-12-25 -0800
 comments: true
 disqus_identifier: 18180
 categories: []

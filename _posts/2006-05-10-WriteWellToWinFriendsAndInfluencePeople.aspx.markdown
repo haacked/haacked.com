@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Write Well To Win Friends And Influence People"
-date: 2006-05-09 -0800
+date: 2006-05-10 -0800
 comments: true
 disqus_identifier: 12738
 categories: []

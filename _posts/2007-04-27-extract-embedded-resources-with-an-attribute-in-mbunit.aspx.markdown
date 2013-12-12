@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extract Embedded Resources With An Attribute In MbUnit"
-date: 2007-04-26 -0800
+date: 2007-04-27 -0800
 comments: true
 disqus_identifier: 18294
 categories: []

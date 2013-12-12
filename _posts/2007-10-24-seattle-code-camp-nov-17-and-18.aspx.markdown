@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seattle Code Camp Nov 17 and 18"
-date: 2007-10-23 -0800
+date: 2007-10-24 -0800
 comments: true
 disqus_identifier: 18409
 categories: []

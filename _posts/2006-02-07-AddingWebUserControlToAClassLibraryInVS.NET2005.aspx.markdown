@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adding Web User Control To A Class Library In VS.NET 2005"
-date: 2006-02-06 -0800
+date: 2006-02-07 -0800
 comments: true
 disqus_identifier: 11728
 categories: []

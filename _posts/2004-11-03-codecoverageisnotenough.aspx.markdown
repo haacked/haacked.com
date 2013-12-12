@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Code Coverage is not Enough"
-date: 2004-11-02 -0800
+date: 2004-11-03 -0800
 comments: true
 disqus_identifier: 1559
 categories: [code,tdd]

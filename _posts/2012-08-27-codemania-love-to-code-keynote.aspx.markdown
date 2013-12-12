@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CodeMania Love To Code Keynote"
-date: 2012-08-26 -0800
+date: 2012-08-27 -0800
 comments: true
 disqus_identifier: 18866
 categories: [community,code,company culture,github]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bug Driven Development"
-date: 2007-09-23 -0800
+date: 2007-09-24 -0800
 comments: true
 disqus_identifier: 18400
 categories: [code,tdd]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HTTP Debugging Using Reverse Proxies And Port Forwarders"
-date: 2007-01-09 -0800
+date: 2007-01-10 -0800
 comments: true
 disqus_identifier: 18189
 categories: []

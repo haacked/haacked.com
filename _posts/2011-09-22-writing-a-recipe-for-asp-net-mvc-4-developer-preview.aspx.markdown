@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Writing a Recipe for ASP.NET MVC 4 Developer Preview"
-date: 2011-09-21 -0800
+date: 2011-09-22 -0800
 comments: true
 disqus_identifier: 18815
 categories: [asp.net mvc,asp.net,nuget]

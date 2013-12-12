@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Routing Regression With Two Consecutive Optional Url Parameters"
-date: 2011-02-19 -0800
+date: 2011-02-20 -0800
 comments: true
 disqus_identifier: 18763
 categories: []

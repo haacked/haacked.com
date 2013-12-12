@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Build All The Things With Bildopolis"
-date: 2012-03-01 -0800
+date: 2012-03-02 -0800
 comments: true
 disqus_identifier: 18850
 categories: [personal]

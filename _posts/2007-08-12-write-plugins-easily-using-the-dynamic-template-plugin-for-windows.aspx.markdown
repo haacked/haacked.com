@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Write Plugins Easily Using The Dynamic Template Plugin For Windows Live Writer"
-date: 2007-08-11 -0800
+date: 2007-08-12 -0800
 comments: true
 disqus_identifier: 18380
 categories: []

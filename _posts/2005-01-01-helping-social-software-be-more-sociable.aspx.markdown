@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Helping Social Software Be More Sociable"
-date: 2004-12-31 -0800
+date: 2005-01-01 -0800
 comments: true
 disqus_identifier: 1793
 categories: []

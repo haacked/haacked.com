@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Every Developer Should Know About Source Control"
-date: 2006-02-16 -0800
+date: 2006-02-17 -0800
 comments: true
 disqus_identifier: 11821
 categories: []

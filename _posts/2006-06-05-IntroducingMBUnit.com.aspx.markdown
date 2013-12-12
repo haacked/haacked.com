@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introducing MbUnit.com"
-date: 2006-06-04 -0800
+date: 2006-06-05 -0800
 comments: true
 disqus_identifier: 13145
 categories: [tdd]

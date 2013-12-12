@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Custom Source Control In CruiseControl.NET?"
-date: 2004-08-26 -0800
+date: 2004-08-27 -0800
 comments: true
 disqus_identifier: 984
 categories: []

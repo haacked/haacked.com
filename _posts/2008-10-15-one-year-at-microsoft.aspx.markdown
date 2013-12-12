@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "One Year At Microsoft"
-date: 2008-10-14 -0800
+date: 2008-10-15 -0800
 comments: true
 disqus_identifier: 18539
 categories: [personal]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testing Visual Blogger 2004 Beta 3"
-date: 2004-06-27 -0800
+date: 2004-06-28 -0800
 comments: true
 disqus_identifier: 701
 categories: []

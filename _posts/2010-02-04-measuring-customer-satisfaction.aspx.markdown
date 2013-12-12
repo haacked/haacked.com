@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Can You Really Measure Customer Satisfaction?"
-date: 2010-02-03 -0800
+date: 2010-02-04 -0800
 comments: true
 disqus_identifier: 18682
 categories: [personal,code]

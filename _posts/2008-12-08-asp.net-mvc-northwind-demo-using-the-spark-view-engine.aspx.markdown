@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET MVC Northwind Demo Using the Spark View Engine"
-date: 2008-12-07 -0800
+date: 2008-12-08 -0800
 comments: true
 disqus_identifier: 18563
 categories: [asp.net mvc,asp.net]

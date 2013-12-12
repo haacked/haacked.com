@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "St Paddys Day In Iraq - And A Joke"
-date: 2006-03-16 -0800
+date: 2006-03-17 -0800
 comments: true
 disqus_identifier: 12098
 categories: []

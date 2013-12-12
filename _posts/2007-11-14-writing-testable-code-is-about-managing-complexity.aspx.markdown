@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Writing Testable Code Is About Managing Complexity"
-date: 2007-11-13 -0800
+date: 2007-11-14 -0800
 comments: true
 disqus_identifier: 18423
 categories: [code,tdd]

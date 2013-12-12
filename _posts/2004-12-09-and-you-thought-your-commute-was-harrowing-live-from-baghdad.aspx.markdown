@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "And You Thought Your Commute Was Harrowing.  Live From Baghdad..."
-date: 2004-12-08 -0800
+date: 2004-12-09 -0800
 comments: true
 disqus_identifier: 1727
 categories: []

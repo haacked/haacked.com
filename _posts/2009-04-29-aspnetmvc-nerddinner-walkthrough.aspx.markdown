@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET MVC NerdDinner Walkthrough"
-date: 2009-04-28 -0800
+date: 2009-04-29 -0800
 comments: true
 disqus_identifier: 18613
 categories: []

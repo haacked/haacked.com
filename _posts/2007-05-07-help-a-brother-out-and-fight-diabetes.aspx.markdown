@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Help a Brother Out And Fight Diabetes"
-date: 2007-05-06 -0800
+date: 2007-05-07 -0800
 comments: true
 disqus_identifier: 18304
 categories: []

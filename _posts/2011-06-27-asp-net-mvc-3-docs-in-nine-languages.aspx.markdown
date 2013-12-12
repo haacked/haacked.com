@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET MVC 3 Docs In Nine Languages"
-date: 2011-06-26 -0800
+date: 2011-06-27 -0800
 comments: true
 disqus_identifier: 18798
 categories: [asp.net,asp.net mvc]

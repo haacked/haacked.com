@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Specs for Haacked.com"
-date: 2011-11-18 -0800
+date: 2011-11-19 -0800
 comments: true
 disqus_identifier: 18825
 categories: [code,personal]

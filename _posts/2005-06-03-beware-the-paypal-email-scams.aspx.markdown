@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beware the PayPal Email Scams!"
-date: 2005-06-02 -0800
+date: 2005-06-03 -0800
 comments: true
 disqus_identifier: 4004
 categories: []

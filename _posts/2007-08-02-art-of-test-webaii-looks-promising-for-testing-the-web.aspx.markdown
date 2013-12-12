@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Art Of Test WebAii Looks Promising For Testing The Web"
-date: 2007-08-01 -0800
+date: 2007-08-02 -0800
 comments: true
 disqus_identifier: 18377
 categories: []

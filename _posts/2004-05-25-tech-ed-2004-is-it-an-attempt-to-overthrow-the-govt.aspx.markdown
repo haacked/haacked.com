@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tech-Ed 2004: Is it an attempt to overthrow the govt?"
-date: 2004-05-24 -0800
+date: 2004-05-25 -0800
 comments: true
 disqus_identifier: 483
 categories: []

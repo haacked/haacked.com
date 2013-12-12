@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating A Sane Build Process"
-date: 2004-08-25 -0800
+date: 2004-08-26 -0800
 comments: true
 disqus_identifier: 978
 categories: [code]

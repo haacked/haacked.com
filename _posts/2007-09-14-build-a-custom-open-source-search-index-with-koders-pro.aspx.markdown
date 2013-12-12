@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Build a Custom Open Source Search Index"
-date: 2007-09-13 -0800
+date: 2007-09-14 -0800
 comments: true
 disqus_identifier: 18391
 categories: []

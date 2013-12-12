@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Build Twitter In One Line Of Code"
-date: 2007-05-19 -0800
+date: 2007-05-20 -0800
 comments: true
 disqus_identifier: 18319
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Changing Base Type Of A Razor View"
-date: 2011-02-20 -0800
+date: 2011-02-21 -0800
 comments: true
 disqus_identifier: 18764
 categories: [asp.net,asp.net mvc]

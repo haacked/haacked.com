@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Faceoff! Haack vs Hanselman - It Gets Real"
-date: 2007-12-20 -0800
+date: 2007-12-21 -0800
 comments: true
 disqus_identifier: 18441
 categories: [code]

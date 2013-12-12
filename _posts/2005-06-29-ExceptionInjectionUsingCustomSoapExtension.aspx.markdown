@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exception Injection Using a Custom SOAP Extension"
-date: 2005-06-28 -0800
+date: 2005-06-29 -0800
 comments: true
 disqus_identifier: 7392
 categories: []

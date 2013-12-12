@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CSS URL References And URL Rewriting"
-date: 2006-01-11 -0800
+date: 2006-01-12 -0800
 comments: true
 disqus_identifier: 11480
 categories: []

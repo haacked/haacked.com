@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is It Always Bad To Swallow Exceptions?"
-date: 2005-08-09 -0800
+date: 2005-08-10 -0800
 comments: true
 disqus_identifier: 9293
 categories: []

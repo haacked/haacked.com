@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET Supervising Controller (Model View Presenter) From Schematic To Unit Tests to Code"
-date: 2006-08-08 -0800
+date: 2006-08-09 -0800
 comments: true
 disqus_identifier: 14779
 categories: [asp.net,code,asp.net mvc]

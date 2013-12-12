@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Allowing Friends To Correct Typos"
-date: 2004-07-15 -0800
+date: 2004-07-16 -0800
 comments: true
 disqus_identifier: 822
 categories: []

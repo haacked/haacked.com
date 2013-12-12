@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Demeter Transmogrifiers To The Rescue"
-date: 2009-08-15 -0800
+date: 2009-08-16 -0800
 comments: true
 disqus_identifier: 18636
 categories: []

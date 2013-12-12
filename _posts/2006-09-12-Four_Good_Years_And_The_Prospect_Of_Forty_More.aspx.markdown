@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Four Good Years And The Prospect Of Forty More"
-date: 2006-09-11 -0800
+date: 2006-09-12 -0800
 comments: true
 disqus_identifier: 16482
 categories: []

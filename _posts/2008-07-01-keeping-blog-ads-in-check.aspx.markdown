@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Keeping Blog Ads In Check"
-date: 2008-06-30 -0800
+date: 2008-07-01 -0800
 comments: true
 disqus_identifier: 18500
 categories: [personal]

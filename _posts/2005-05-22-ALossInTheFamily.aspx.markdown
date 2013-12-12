@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Loss In The Family"
-date: 2005-05-21 -0800
+date: 2005-05-22 -0800
 comments: true
 disqus_identifier: 3348
 categories: []

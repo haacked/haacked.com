@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Random Thought Friday"
-date: 2011-05-26 -0800
+date: 2011-05-27 -0800
 comments: true
 disqus_identifier: 18792
 categories: [personal]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dvorak, Keyboard Layout of Champions"
-date: 2007-06-04 -0800
+date: 2007-06-05 -0800
 comments: true
 disqus_identifier: 18342
 categories: []

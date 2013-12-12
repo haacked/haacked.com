@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mr Subsonic Joins Microsoft"
-date: 2007-10-25 -0800
+date: 2007-10-26 -0800
 comments: true
 disqus_identifier: 18411
 categories: []

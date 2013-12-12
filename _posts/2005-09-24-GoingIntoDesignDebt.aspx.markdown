@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Going Into Design Debt"
-date: 2005-09-23 -0800
+date: 2005-09-24 -0800
 comments: true
 disqus_identifier: 10336
 categories: []

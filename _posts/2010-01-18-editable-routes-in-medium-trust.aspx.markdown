@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Editable Routes Using App_Code"
-date: 2010-01-17 -0800
+date: 2010-01-18 -0800
 comments: true
 disqus_identifier: 18680
 categories: [asp.net,asp.net mvc,code]

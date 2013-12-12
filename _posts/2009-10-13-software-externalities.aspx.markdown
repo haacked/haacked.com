@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Software Externalities"
-date: 2009-10-12 -0800
+date: 2009-10-13 -0800
 comments: true
 disqus_identifier: 18648
 categories: []

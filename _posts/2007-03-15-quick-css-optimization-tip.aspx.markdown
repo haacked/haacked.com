@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quick CSS Optimization Tip"
-date: 2007-03-14 -0800
+date: 2007-03-15 -0800
 comments: true
 disqus_identifier: 18243
 categories: []

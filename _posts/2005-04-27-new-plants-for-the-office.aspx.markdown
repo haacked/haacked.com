@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Plants for the Office"
-date: 2005-04-26 -0800
+date: 2005-04-27 -0800
 comments: true
 disqus_identifier: 2843
 categories: []

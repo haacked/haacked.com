@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Resilient Plugins Part Deux - Granular Control"
-date: 2006-06-30 -0800
+date: 2006-07-01 -0800
 comments: true
 disqus_identifier: 13635
 categories: [code]

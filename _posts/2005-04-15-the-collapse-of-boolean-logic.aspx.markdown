@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Collapse of Boolean Logic"
-date: 2005-04-14 -0800
+date: 2005-04-15 -0800
 comments: true
 disqus_identifier: 2711
 categories: []

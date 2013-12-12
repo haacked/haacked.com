@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tagging In Subtext"
-date: 2007-05-10 -0800
+date: 2007-05-11 -0800
 comments: true
 disqus_identifier: 18308
 categories: []

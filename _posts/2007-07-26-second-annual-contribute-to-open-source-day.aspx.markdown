@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Second Annual Contribute to Open Source Day"
-date: 2007-07-25 -0800
+date: 2007-07-26 -0800
 comments: true
 disqus_identifier: 18371
 categories: []

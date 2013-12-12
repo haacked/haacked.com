@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pop Quiz: Can you reference an exe assembly"
-date: 2004-04-27 -0800
+date: 2004-04-28 -0800
 comments: true
 disqus_identifier: 374
 categories: []

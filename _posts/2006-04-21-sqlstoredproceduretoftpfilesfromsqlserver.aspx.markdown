@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[SQL] Stored Procedure To FTP Files From SQL Server"
-date: 2006-04-20 -0800
+date: 2006-04-21 -0800
 comments: true
 disqus_identifier: 12496
 categories: [sql]

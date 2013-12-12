@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HILARIOUS!: TechTV catastrophe"
-date: 2004-07-11 -0800
+date: 2004-07-12 -0800
 comments: true
 disqus_identifier: 804
 categories: []

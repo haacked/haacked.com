@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TIP: More on Exceptions and Serialization"
-date: 2004-02-23 -0800
+date: 2004-02-24 -0800
 comments: true
 disqus_identifier: 208
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TIP: Url Encoding (or Hex encoding)"
-date: 2004-02-04 -0800
+date: 2004-02-05 -0800
 comments: true
 disqus_identifier: 161
 categories: []

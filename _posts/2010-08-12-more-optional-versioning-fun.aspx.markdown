@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "More Versioning Fun With Optional Arguments"
-date: 2010-08-11 -0800
+date: 2010-08-12 -0800
 comments: true
 disqus_identifier: 18717
 categories: [code]

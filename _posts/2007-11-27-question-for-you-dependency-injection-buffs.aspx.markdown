@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Question For You Dependency Injection Buffs"
-date: 2007-11-26 -0800
+date: 2007-11-27 -0800
 comments: true
 disqus_identifier: 18425
 categories: [code,tdd]

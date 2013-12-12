@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eagle Attacks, Carries Off Bear Cub"
-date: 2004-04-28 -0800
+date: 2004-04-29 -0800
 comments: true
 disqus_identifier: 386
 categories: []

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UML Is Chinese To Me"
-date: 2006-04-14 -0800
+date: 2006-04-15 -0800
 comments: true
 disqus_identifier: 12419
 categories: []

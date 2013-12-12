@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Law of Demeter Is Not A Dot Counting Exercise"
-date: 2009-07-13 -0800
+date: 2009-07-14 -0800
 comments: true
 disqus_identifier: 18628
 categories: []

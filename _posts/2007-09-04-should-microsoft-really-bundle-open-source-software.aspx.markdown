@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Should Microsoft Really Bundle Open Source Software?"
-date: 2007-09-03 -0800
+date: 2007-09-04 -0800
 comments: true
 disqus_identifier: 18386
 categories: []

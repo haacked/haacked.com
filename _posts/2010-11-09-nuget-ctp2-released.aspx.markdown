@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NuGet CTP 2 Released!"
-date: 2010-11-08 -0800
+date: 2010-11-09 -0800
 comments: true
 disqus_identifier: 18735
 categories: [nuget,code]

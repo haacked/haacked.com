@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trouble With Your Firewall Software After Installing Windows XP SP2?"
-date: 2004-09-12 -0800
+date: 2004-09-13 -0800
 comments: true
 disqus_identifier: 1200
 categories: []

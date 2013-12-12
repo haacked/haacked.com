@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comparing Strings in Unit Tests"
-date: 2012-01-13 -0800
+date: 2012-01-14 -0800
 comments: true
 disqus_identifier: 18842
 categories: [tdd,code]

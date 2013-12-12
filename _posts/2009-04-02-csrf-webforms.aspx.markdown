@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CSRF Attacks and Web Forms"
-date: 2009-04-01 -0800
+date: 2009-04-02 -0800
 comments: true
 disqus_identifier: 18606
 categories: [asp.net]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Joke Of the day: Restroom Etiquette"
-date: 2004-08-31 -0800
+date: 2004-09-01 -0800
 comments: true
 disqus_identifier: 1086
 categories: []

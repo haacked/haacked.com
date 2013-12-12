@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Running Open Source In A Distributed World"
-date: 2010-10-11 -0800
+date: 2010-10-12 -0800
 comments: true
 disqus_identifier: 18725
 categories: [nuget,code,open source]

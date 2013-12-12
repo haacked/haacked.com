@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Identicon Handler For .NET On CodePlex"
-date: 2007-03-18 -0800
+date: 2007-03-19 -0800
 comments: true
 disqus_identifier: 18253
 categories: []

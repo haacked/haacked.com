@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Colbert on Dungeons and Dragons"
-date: 2006-08-20 -0800
+date: 2006-08-21 -0800
 comments: true
 disqus_identifier: 15709
 categories: []

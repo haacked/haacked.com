@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ALT.NET Seattle Day Two"
-date: 2009-02-28 -0800
+date: 2009-03-01 -0800
 comments: true
 disqus_identifier: 18590
 categories: [personal]

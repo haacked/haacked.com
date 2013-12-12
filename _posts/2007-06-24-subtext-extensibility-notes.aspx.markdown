@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Subtext Extensibility Notes"
-date: 2007-06-23 -0800
+date: 2007-06-24 -0800
 comments: true
 disqus_identifier: 18358
 categories: []

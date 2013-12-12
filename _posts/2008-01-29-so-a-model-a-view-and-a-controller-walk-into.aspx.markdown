@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "So A Model, A View, and a Controller Walk Into a Bar"
-date: 2008-01-28 -0800
+date: 2008-01-29 -0800
 comments: true
 disqus_identifier: 18453
 categories: [code]

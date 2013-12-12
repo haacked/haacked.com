@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ego Surfing"
-date: 2006-01-09 -0800
+date: 2006-01-10 -0800
 comments: true
 disqus_identifier: 11468
 categories: []

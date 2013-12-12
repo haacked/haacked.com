@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NuGet 1.5 Released!"
-date: 2011-08-29 -0800
+date: 2011-08-30 -0800
 comments: true
 disqus_identifier: 18811
 categories: [nuget,code]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visual Studio Smart Tag Expansion Tip"
-date: 2008-06-22 -0800
+date: 2008-06-23 -0800
 comments: true
 disqus_identifier: 18496
 categories: [code]

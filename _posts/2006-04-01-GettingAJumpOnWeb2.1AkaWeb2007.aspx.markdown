@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting A Jump on Web 2.1 aka Web 2007"
-date: 2006-03-31 -0800
+date: 2006-04-01 -0800
 comments: true
 disqus_identifier: 12220
 categories: []

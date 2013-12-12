@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dynamic Methods in View Data"
-date: 2010-08-01 -0800
+date: 2010-08-02 -0800
 comments: true
 disqus_identifier: 18714
 categories: [asp.net,asp.net mvc,code]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WARNING: PayPal Scam."
-date: 2004-06-08 -0800
+date: 2004-06-09 -0800
 comments: true
 disqus_identifier: 567
 categories: []

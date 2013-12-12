@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Subtext 2.1.1 Available Via the Web Platform Installer"
-date: 2009-03-17 -0800
+date: 2009-03-18 -0800
 comments: true
 disqus_identifier: 18599
 categories: []

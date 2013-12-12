@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A lock statement with timeout..."
-date: 2004-03-25 -0800
+date: 2004-03-26 -0800
 comments: true
 disqus_identifier: 270
 categories: [code]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Birthday Clusters and Code Camps"
-date: 2008-01-22 -0800
+date: 2008-01-23 -0800
 comments: true
 disqus_identifier: 18450
 categories: [personal]

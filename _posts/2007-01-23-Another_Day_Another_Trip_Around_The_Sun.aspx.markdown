@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Another Day, Another Trip Around The Sun"
-date: 2007-01-22 -0800
+date: 2007-01-23 -0800
 comments: true
 disqus_identifier: 18198
 categories: []

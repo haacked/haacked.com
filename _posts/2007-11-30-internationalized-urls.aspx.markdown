@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Internationalized URLs"
-date: 2007-11-29 -0800
+date: 2007-11-30 -0800
 comments: true
 disqus_identifier: 18428
 categories: []

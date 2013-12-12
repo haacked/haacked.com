@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Versioning Issues With Abstract Base Classes and Interfaces"
-date: 2008-02-20 -0800
+date: 2008-02-21 -0800
 comments: true
 disqus_identifier: 18457
 categories: [asp.net,code]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The meaning of &quot;Impedance Mismatch&quot;."
-date: 2004-06-14 -0800
+date: 2004-06-15 -0800
 comments: true
 disqus_identifier: 629
 categories: [code]

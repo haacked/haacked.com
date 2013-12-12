@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Response.Redirect vs Server.Transfer"
-date: 2004-10-05 -0800
+date: 2004-10-06 -0800
 comments: true
 disqus_identifier: 1308
 categories: [code]

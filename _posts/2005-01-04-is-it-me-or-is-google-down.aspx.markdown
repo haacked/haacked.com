@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is It Me Or Is Google Down?"
-date: 2005-01-03 -0800
+date: 2005-01-04 -0800
 comments: true
 disqus_identifier: 1810
 categories: []

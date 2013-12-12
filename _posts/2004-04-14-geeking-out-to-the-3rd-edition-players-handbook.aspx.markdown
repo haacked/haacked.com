@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Geeking out to the 3rd edition Player's Handbook."
-date: 2004-04-13 -0800
+date: 2004-04-14 -0800
 comments: true
 disqus_identifier: 318
 categories: []

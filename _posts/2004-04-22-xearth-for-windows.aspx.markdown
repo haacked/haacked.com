@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "XEarth For Windows"
-date: 2004-04-21 -0800
+date: 2004-04-22 -0800
 comments: true
 disqus_identifier: 350
 categories: []

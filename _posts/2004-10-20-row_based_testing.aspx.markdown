@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Row based testing in MbUnit (i.e. RowTest)"
-date: 2004-10-19 -0800
+date: 2004-10-20 -0800
 comments: true
 disqus_identifier: 1421
 categories: [code,tdd]

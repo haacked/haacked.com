@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Feedback Request for using NuGet Without Committing Packages"
-date: 2011-04-26 -0800
+date: 2011-04-27 -0800
 comments: true
 disqus_identifier: 18782
 categories: [nuget,code,open source]
