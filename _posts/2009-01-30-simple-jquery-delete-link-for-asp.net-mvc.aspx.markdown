@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simple jQuery Delete Link For ASP.NET MVC"
-date: 2009-01-29 -0800
+date: 2009-01-30 -0800
 comments: true
 disqus_identifier: 18582
 categories: [asp.net,asp.net mvc]
