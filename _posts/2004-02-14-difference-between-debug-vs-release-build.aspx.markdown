@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What's the difference between a Debug vs Release Build?"
-date: 2004-02-13 -0800
+date: 2004-02-14 -0800
 comments: true
 disqus_identifier: 194
 categories: []
