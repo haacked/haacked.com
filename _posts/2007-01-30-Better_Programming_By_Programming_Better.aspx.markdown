@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Better Programming By Programming Better"
-date: 2007-01-29 -0800
+date: 2007-01-30 -0800
 comments: true
 disqus_identifier: 18203
 categories: []

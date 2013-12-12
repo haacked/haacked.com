@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Razor Donut Caching"
-date: 2011-11-25 -0800
+date: 2011-11-26 -0800
 comments: true
 disqus_identifier: 18827
 categories: [asp.net,asp.net mvc,code]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Razor View Syntax"
-date: 2010-07-02 -0800
+date: 2010-07-03 -0800
 comments: true
 disqus_identifier: 18711
 categories: [asp.net,asp.net mvc]
