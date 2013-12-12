@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET MVC 2 Custom Validation"
-date: 2009-11-18 -0800
+date: 2009-11-19 -0800
 comments: true
 disqus_identifier: 18661
 categories: []
