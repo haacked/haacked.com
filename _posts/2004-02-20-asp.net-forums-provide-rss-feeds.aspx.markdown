@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Asp.NET forums provide RSS Feeds"
+date: 2004-02-20 -0800
+comments: true
+disqus_identifier: 203
+categories: []
+---
+Wow. All this time, I̵ve tried to follow various [Asp.Net
+Forums](http://www.asp.net/forums "Asp.Net Forums"), only now to
+discover that each forum is syndicated via RSS! Nice!
+
