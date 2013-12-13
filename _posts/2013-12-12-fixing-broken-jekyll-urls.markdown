@@ -5,7 +5,6 @@ date: 2013-12-12 -0800
 comments: true
 categories: [jekyll]
 ---
-
 Well this is a bit embarrassing.
 
 I recently [migrated my blog to Jekyll](http://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/) and subsequently wrote about my painstaking work to [preserve my URLs](http://haacked.com/archive/2013/12/03/jekyll-url-extensions/).
