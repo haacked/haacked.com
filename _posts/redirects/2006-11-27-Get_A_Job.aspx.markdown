@@ -1,0 +1,5 @@
+---
+layout: redirect
+date: 2006-11-27 -0800
+redirect: /archive/2006/11/28/Get_A_Job.aspx/
+---

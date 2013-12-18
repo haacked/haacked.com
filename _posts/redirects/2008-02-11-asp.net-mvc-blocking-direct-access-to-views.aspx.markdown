@@ -1,0 +1,5 @@
+---
+layout: redirect
+date: 2008-02-11 -0800
+redirect: /archive/2008/02/12/asp.net-mvc-blocking-direct-access-to-views.aspx/
+---

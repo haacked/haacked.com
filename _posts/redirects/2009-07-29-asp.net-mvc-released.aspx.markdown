@@ -1,0 +1,5 @@
+---
+layout: redirect
+date: 2009-07-29 -0800
+redirect: /archive/2009/07/30/asp.net-mvc-released.aspx/
+---

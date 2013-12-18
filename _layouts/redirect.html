@@ -1,0 +1,18 @@
+{% if site.lang %}
+<html lang="{{ site.lang }}">
+{% else %}
+<html>
+{% endif %}
+<head>
+	<meta charset="utf-8">
+	<link rel="canonical" href="{{ site.url }}{{ page.redirect }}" />
+    <meta http-equiv="refresh" content="0;url={{ page.redirect }}" />
+</head>
+<body>
+	<h1>This page has been moved!</h1>
+	<p>
+		If your browser doesn't redirect automatically, click
+		<a href="{{ page.redirect }}">here to go to the new URL</a>.
+	</p>
+</body>
+</html>
