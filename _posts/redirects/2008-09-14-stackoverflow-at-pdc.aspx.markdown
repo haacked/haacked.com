@@ -1,0 +1,5 @@
+---
+layout: redirect
+date: 2008-09-14 -0800
+redirect: /archive/2008/09/15/stackoverflow-at-pdc.aspx/
+---

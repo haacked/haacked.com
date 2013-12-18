@@ -1,0 +1,5 @@
+---
+layout: redirect
+date: 2006-02-07 -0800
+redirect: /archive/2006/02/08/OnReligiousWarsinSoftware.aspx/
+---

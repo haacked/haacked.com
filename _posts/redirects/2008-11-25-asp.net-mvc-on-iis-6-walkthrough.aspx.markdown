@@ -1,0 +1,5 @@
+---
+layout: redirect
+date: 2008-11-25 -0800
+redirect: /archive/2008/11/26/asp.net-mvc-on-iis-6-walkthrough.aspx/
+---
