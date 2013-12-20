@@ -55,6 +55,7 @@ This List method accepts a templated Razor delegate, so we can call it
 like so.
 
 ```csharp
+{% raw  %}
 @{
   var items = new[] { "one", "two", "three" };
 }
@@ -62,6 +63,7 @@ like so.
 <ul>
 @items.List(@<li>@item</li>)
 </ul>
+{% endraw  %}
 ```
 
 As I mentioned earlier, notice that the argument to this method,
