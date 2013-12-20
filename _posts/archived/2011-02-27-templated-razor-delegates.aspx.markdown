@@ -71,7 +71,7 @@ As I mentioned earlier, notice that the argument to this method,
 Now this `List` method is very reusable. Let’s use it to generate a
 table of comic books.
 
-```csharp
+<pre><code>
 @{
     var comics = new[] { 
         new ComicBook {Title = "Groo", Publisher = "Dark Horse Comics"},
@@ -86,7 +86,7 @@ table of comic books.
     <td>@item.Publisher</td>
   </tr>)
 </table>
-```
+</code></pre>
 
 This feature was originally implemented to support the WebGrid helper
 method, but I’m sure you’ll think of other creative ways to take
