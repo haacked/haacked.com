@@ -54,8 +54,7 @@ public static class RazorExtensions {
 This List method accepts a templated Razor delegate, so we can call it
 like so.
 
-```csharp
-{% raw  %}
+<pre><code>
 @{
   var items = new[] { "one", "two", "three" };
 }
@@ -63,8 +62,7 @@ like so.
 <ul>
 @items.List(@<li>@item</li>)
 </ul>
-{% endraw  %}
-```
+</code></pre>
 
 As I mentioned earlier, notice that the argument to this method,
 `@<li>@item</li>` is automatically converted into a
