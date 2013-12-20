@@ -79,13 +79,13 @@ table of comic books.
     };
 }
 
-<table>
+&lt;table>
 @comics.List(
-  @<tr>
-    <td>@item.Title</td>
-    <td>@item.Publisher</td>
-  </tr>)
-</table>
+  @&lt;tr>
+    &lt;td>@item.Title</td>
+    &lt;td>@item.Publisher</td>
+  &lt;/tr>)
+&lt;/table>
 </code></pre>
 
 This feature was originally implemented to support the WebGrid helper
