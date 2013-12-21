@@ -16,7 +16,7 @@ layout: nil
   <generator uri="http://octopress.org/">Octopress</generator>
 
   {% for post in site.posts limit: 20 %}
-  {% if !post.redirect %}
+  {% unless post.redirect %}
   <entry>
     <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
     <link href="{{ site.url }}{{ post.url }}"/>
@@ -24,6 +24,6 @@ layout: nil
     <id>{{ site.url }}{{ post.id }}</id>
     <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></content>
   </entry>
-  {% endif %}
+  {% endunless %}
   {% endfor %}
 </feed>
