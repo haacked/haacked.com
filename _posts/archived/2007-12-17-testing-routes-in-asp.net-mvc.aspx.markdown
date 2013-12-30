@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testing Routes In ASP.NET MVC"
-date: 2007-12-16 -0800
+date: 2007-12-17 -0800
 comments: true
 disqus_identifier: 18440
 categories: [asp.net,code,asp.net mvc]
