@@ -1,0 +1,51 @@
+---
+layout: post
+title: "A Very Haacked 2013"
+date: 2013-12-31 -0800
+comments: true
+categories: [blogging,personal]
+---
+
+It's the end of the year and I hope it was a good one for you. It's been a great one for me and my family. As the kids get older, they become a lot more fun to be around.
+
+![chess](https://f.cloud.github.com/assets/19977/1824339/c1528a12-7194-11e3-855b-40470fe9a16a.jpg)
+
+Contribution graphs are not a great way to determine the impact you've had in a year. They don't capture a lot of important work that you do that can't be be captured by GitHub.
+
+But at the same time, the gaps in a contribution graph tell as much a story as the areas that are filled in. So I find them fun to look at from a historical perspective. For example, you can see when I go on vacation based on my graphs.
+
+Here's two of my contribution graphs. The first one is what I see as it shows contributions to both public and private repositories. 
+
+![Haacked Contribution Graph](https://f.cloud.github.com/assets/19977/1824245/5b3559d2-7192-11e3-8468-d4c815e09c14.png)
+
+The second one shows what the public sees. This is perhaps a decent, though not perfect, representation of the work I've done with open source.
+
+![Haacked public Contribution Graph](https://f.cloud.github.com/assets/19977/1824247/61d20e8e-7192-11e3-9efb-57adc2e4924b.png)
+
+## What I wrote, that people seemed to like
+
+My three most popular posts written in 2013 according to Google Analytics are:
+
+1. [Death to the if statement](http://haacked.com/archive/2013/11/08/death-to-the-if-statement.aspx) - more robust code with less control structures with 25,987 page views.
+2. [Argue well by losing](http://haacked.com/archive/2013/10/21/argue-well-by-losing.aspx/) - You only learn something when you lose an argument with 21,264 views.
+3. [Test Better](http://haacked.com/archive/2013/03/04/test-better.aspx/) - How developers should become better testers with 15,618 views
+
+By the way, does anyone know how to easily do a report in Google Analytics for content _created_ in a year?
+
+## What I've Shipped
+
+This past year, I've had the pleasure to be involved in shipping the following:
+
+1. [GitHub Enterprise support in GitHub for Windows](https://github.com/blog/1628-enterprise-support-in-github-for-windows)
+2. [Octokit.net](https://github.com/blog/1676-introducing-octokit-net)
+3. [ChooseALicense.com](https://github.com/blog/1530-choosing-an-open-source-license)
+4. [RestSharp](http://haacked.com/archive/2013/09/18/restsharp-104-2-0-released.aspx/) - a few releases actually.
+5. According to FitBit, I had `4,547,191` steps this year (approximately `2,085` miles). This is up from `3,115,606` steps (`1,513.57` miles) in 2012.
+
+## You People
+
+Yeah, let's talk about you. You people are my favorite. Well, most of you.
+
+* __Visitors__ `1,456,309` unique visitors made `2,083,957` visits. Those numbers are down `25.17%` and `22.57%` respectively from the previous year.
+
+* __RSS Subscribers__ According to FeedBurner, there are still `84,377` subscribers to my RSS feed which is surprising given the demise of Google Reader. I guess everybody found replacements. Or the stats are jacked.
