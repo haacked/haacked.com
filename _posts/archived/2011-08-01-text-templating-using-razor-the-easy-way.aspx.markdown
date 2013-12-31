@@ -65,6 +65,7 @@ in the field labeled **Custom Tool**.
 I added the following code within the CSHTML file:
 
 <pre><code>
+{% raw %}
 @* Generator : Template TypeVisibility : Internal *@
 @functions  {
     public dynamic Model { get; set; }
@@ -74,6 +75,7 @@ I added the following code within the CSHTML file:
     <li>@item.Name (@item.Id)</li>  
 }
 </ul>
+{% endraw %}
 </code></pre>
 
 That first line is a generator declaration. It’s required to by the
