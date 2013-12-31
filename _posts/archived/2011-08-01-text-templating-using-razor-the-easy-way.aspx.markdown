@@ -68,13 +68,13 @@ I added the following code within the CSHTML file:
 <pre><code>
 @* Generator : Template TypeVisibility : Internal *@
 @functions  {
-    public dynamic Model { get; set; }
+  public dynamic Model { get; set; }
 }
-<ul>
+&lt;ul>
 @foreach (var item in Model) {
-    <li>@item.Name (@item.Id)</li>  
+  &lt;li>@item.Name (@item.Id)&lt;/li>  
 }
-</ul>
+&lt;/ul>
 </code></pre>
 {% endraw %}
 
