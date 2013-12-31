@@ -1,0 +1,75 @@
+---
+layout: post
+title: "A Very Haacked 2013"
+date: 2013-12-31 -0800
+comments: true
+categories: [blogging,personal]
+---
+
+Another year comes to an end and tradition demands that I write a recap for the year. But it doesn't require that I write a very good one.
+
+I wish I had the time and energy to write one of those recaps that captures the essence of the year in a thoughtful insightful manner. The best I can muster is "a lot of stuff happened."
+
+Here, look at this picture of my tiny kids playing chess.
+
+![chess](https://f.cloud.github.com/assets/19977/1824339/c1528a12-7194-11e3-855b-40470fe9a16a.jpg)
+
+## Personal
+
+This has been a great year for me. My son started first grade, and much to our relief, he loves it. At home, he [started to learn to program](http://www.amazon.com/gp/product/1593275315/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1593275315&linkCode=as2&tag=youvebeenhaac-20). I even had my first conversation with him about refactoring and the [DRY principle](http://en.wikipedia.org/wiki/Don't_repeat_yourself). Parents, it's never too early to talk to your kids about clean code!
+
+My daughter just gets more and more interesting and fun to be around. She has a big personality and just wins over any room she's in. Sometimes we take walks together and she's now able to walk with me over a mile to the local frozen yogurt place. But she usually makes me carry her part of the way back.
+
+And I finished my second year at GitHub. After a year and a half solely focused on GitHub for Windows, I've been able to bounce around a few other cool projects which keeps me excited every day. I still love working here.
+
+I spoke at a few conferences, but I've certainly ramped that down as travel is tough on the family and I had a tiny bit more work travel this year.
+
+## Work
+
+Contribution graphs are not a great way to determine the impact you've had in a year. They don't capture a lot of important work that happens outside of GitHub. Yes, it's true. Productive work does happen that's not captured by a Git commit.
+
+Even so, I find them interesting to look at for some historical perspective. The gaps in a contribution graph tell as much a story as the areas that are filled in. For example, you can see when I go on vacation based on my graphs, though I'm not very good at staying away from the computer when I do.
+
+Here's two of my contribution graphs. The first one is what I see as it shows contributions to both public and private repositories. 
+
+![Haacked Contribution Graph](https://f.cloud.github.com/assets/19977/1824245/5b3559d2-7192-11e3-8468-d4c815e09c14.png)
+
+The second one shows what the public sees. This is perhaps a decent, though not perfect, representation of the work I've done with open source.
+
+![Haacked public Contribution Graph](https://f.cloud.github.com/assets/19977/1824247/61d20e8e-7192-11e3-9efb-57adc2e4924b.png)
+
+As you can see, after shipping a major release of GitHub for Windows, I shifted my focus to some open source projects like [choosealicense.com](http://choosealicense.com) and [octokit.net](https://github.com/octokit/octokit.net), making my public contribution graph much greener in the latter half of the year.
+
+## What I wrote, that people seemed to like
+
+My three most popular posts written in 2013 according to Google Analytics are:
+
+1. [Death to the if statement](http://haacked.com/archive/2013/11/08/death-to-the-if-statement.aspx) - more robust code with less control structures with `25,987` page views.
+2. [Argue well by losing](http://haacked.com/archive/2013/10/21/argue-well-by-losing.aspx/) - You only learn something when you lose an argument with `21,264` views.
+3. [Test Better](http://haacked.com/archive/2013/03/04/test-better.aspx/) - How developers should become better testers with 15,618 views
+
+By the way, does anyone know how to easily do a report in Google Analytics for content _created_ in a year? I'd find that useful.
+
+## What I've Shipped
+
+This past year, I've had the pleasure to be involved in shipping the following:
+
+1. [GitHub Enterprise support in GitHub for Windows](https://github.com/blog/1628-enterprise-support-in-github-for-windows)
+2. [Octokit.net](https://github.com/blog/1676-introducing-octokit-net)
+3. [ChooseALicense.com](https://github.com/blog/1530-choosing-an-open-source-license)
+4. [RestSharp](http://haacked.com/archive/2013/09/18/restsharp-104-2-0-released.aspx/) - a few releases actually.
+5. According to FitBit, I had `4,557,627` steps this year. That's approximately `2,090 `miles. Compare this to the 3.1 million steps I took the year before. That's a huge improvement!
+
+## You People
+
+Yeah, let's talk about you. You people are my favorite. Well, most of you.
+
+* __Visitors__ `1,462,003` unique visitors made `2,091,606` visits. Those numbers are down `24.9%` and `22.27%` respectively from the previous year. I'd like to blame the death of blogging, but I suspect the quality of my writing has declined as I've focused more on other areas of my life.
+
+* __RSS Subscribers__ According to FeedBurner, there are still `84,377` subscribers to my RSS feed which is surprising given the demise of Google Reader. I guess everybody found replacements. Or the stats are jacked.
+
+## Next Year
+
+I'm looking forward to 2014. I've started learning F# by reading the [Real-World Functional Programming](http://www.amazon.com/gp/product/1933988924/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1933988924&linkCode=as2&tag=youvebeenhaac-20) book by Tomas Petricek and Jon Skeet. I'm hoping to incorporate more functional programming into my toolset. And I'm hoping to take even more steps.
+
+Hopefully I can speak at a few conferences again this year. I'd love to speak in some new places. I'm really hoping to get a gig in South Korea this year. It'd be a chance to see how the industry is really growing there and to visit some of my family.
