@@ -58,7 +58,7 @@ This past year, I've had the pleasure to be involved in shipping the following:
 2. [Octokit.net](https://github.com/blog/1676-introducing-octokit-net)
 3. [ChooseALicense.com](https://github.com/blog/1530-choosing-an-open-source-license)
 4. [RestSharp](http://haacked.com/archive/2013/09/18/restsharp-104-2-0-released.aspx/) - a few releases actually.
-5. According to FitBit, I had `4,557,627` steps this year. That's approximately `2,090 `miles. Compare this to the 3.1 million steps I took the year before. That's a huge improvement!
+5. According to FitBit, I had `4,577,481` steps this year. That's approximately `2,099 `miles. Compare this to the 3.1 million steps I took the year before. That's a huge improvement!
 
 ## You People
 
