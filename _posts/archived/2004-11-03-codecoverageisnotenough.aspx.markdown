@@ -20,175 +20,58 @@ However, apart from errors of omission, there’s the case presented here.
 Imagine you have the following simple class (I’m sure your real world
 class is much more complicated and interesting, but bear with me).
 
-~~~~ {style="MARGIN: 0px"}
+```csharp
 using System;
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
 using System.Collections;
-~~~~
 
-~~~~ {style="MARGIN: 0px"}
- 
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
 public class MyClass
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
 {
-~~~~
+    Dictionary&lt;string, int&gt; _values = new Dictionary&lt;string, int&gt;();
 
-~~~~ {style="MARGIN: 0px"}
-    Hashtable _values = new Hashtable();
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
-    
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
     public MyClass()
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
     {
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
         _values.Add("keyOne", "1");
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
         _values.Add("keyTwo", "7");
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
         _values.Add("keyThree", "10");
-~~~~
 
-~~~~ {style="MARGIN: 0px"}
-        //...
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
+        // ...
     }
-~~~~
 
-~~~~ {style="MARGIN: 0px"}
-    
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
     public int SumIt(string[] keys)
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
     {
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
         int total = 0;
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
-        foreach(string key in keys)
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
+        
+		foreach(string key in keys)
         {
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
-            total += (int)_values[key];
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
+            total += _values[key];
             _values[key] = total;
-~~~~
 
-~~~~ {style="MARGIN: 0px"}
             //Maybe we do some other
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
             //interesting things here.
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
         }
-~~~~
 
-~~~~ {style="MARGIN: 0px"}
         return total;
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
     }
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
 }
-~~~~
+```
 
 Now imagine you test this class with the following NUnit fixture.
 
-~~~~ {style="MARGIN: 0px"}
+```csharp
 using System;
-~~~~
+using XUnit;
 
-~~~~ {style="MARGIN: 0px"}
-using NUnit.Framework;
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
- 
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
-[TestFixture]
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
 public class MyClassTest
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
 {
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
-    [Test]
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
+    [Fact]
     public void TestSumIt()
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
     {
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
-        MyClass mine = new MyClass();
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
+        var mine = new MyClass();
         string[] keys = {"keyOne", "keyTwo"};
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
         Assert.AreEqual(8, mine.SumIt(keys));
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
     }
-~~~~
-
-~~~~ {style="MARGIN: 0px"}
 }
-~~~~
+```
 
 Voila! 100% code coverage. But does this satisfy the little QA tester
 inside? I would hope not and suggest that it shouldn’t. Code coverage is
@@ -201,4 +84,3 @@ course, that’s not always practical. In the above example, if I only
 have 10 keys, testing the possible permutations of SumIt becomes a huge
 burden. Often the best you can do is to test a small sample and the
 boundary cases.
-

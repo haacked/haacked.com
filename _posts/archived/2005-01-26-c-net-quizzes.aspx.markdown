@@ -12,7 +12,7 @@ about enumeration on his blog. Basically he asks, how would you
 implement a class to enumerate through all the letters of the alphabet.
 Below is my "cute" response.
 
-~~~~ {.cf}
+```csharp
 using System;
 using System.Collections;
  
@@ -23,9 +23,7 @@ public class Alphabet : IEnumerable
     return "abcdefghijklmnopqrstuvwxyz".GetEnumerator();
   }
 }
-~~~~
-
-\
+```
 
 Now if you compile my answer and run it, it seems to answer the question
 correctly (for an academic quiz), but it's completely wrong for a real

@@ -20,9 +20,9 @@ One great new feature being introduced in ASP.NET 4 is a new code block
 team*) syntax which provides a convenient means to HTML encode output in
 an ASPX page or view.
 
-~~~~ {.csharpcode .big-emphasis}
+```aspx
 <%: CodeExpression %>
-~~~~
+```
 
 *I often tell people it’s `<%=` but with the `=` seen from the front.*
 
