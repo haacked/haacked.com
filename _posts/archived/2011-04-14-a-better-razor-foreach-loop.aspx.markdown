@@ -4,7 +4,7 @@ title: "A Better Razor Foreach Loop"
 date: 2011-04-14 -0800
 comments: true
 disqus_identifier: 18775
-categories: []
+categories: [razor,code,asp.net mvc]
 ---
 Yesterday, during my [ASP.NET MVC 3 talk at Mix
 11](http://channel9.msdn.com/events/MIX/MIX11/FRM03 "ASP.NET MVC 3 The Time Is Now"),
@@ -56,13 +56,12 @@ And here’s an example of its usage within a view. Notice that we pass in
 Razor markup as an argument to the method which gets called for each
 item. We have access to the direct item and the current index.
 
-```csharp
-@model IEnumerable<Question>
+<pre class="csharpcode"><code>
+<span class="asp">@</span>model IEnumerable&lt;Question&gt;
 
-<ol>
-@Model.Each(@<li>Item @item.Index of @(Model.Count() - 1): @item.Item.Title</li>)
-</ol>
-```
+&lt;ol&gt;
+<span class="asp">@</span>Model.Each(<span class="asp">@</span>&lt;li&gt;Item <span class="asp">@</span>item.Index of <span class="asp">@</span>(Model.Count() - 1): <span class="asp">@</span>item.Item.Title&lt;/li&gt;)
+&lt;/ol&gt;</code></pre>
 
 If you want to try it out, I put the code in a package in my personal
 NuGet feed for my code samples. Just connect NuGet to
