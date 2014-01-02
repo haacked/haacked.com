@@ -4,7 +4,7 @@ title: "Razor Donut Caching"
 date: 2011-11-26 -0800
 comments: true
 disqus_identifier: 18827
-categories: [asp.net,asp.net mvc,code]
+categories: [asp.net,asp.net mvc,code,razor]
 ---
 Donut caching, the ability to cache an entire page except for a small
 region of the page (or set of regions) has been conspicuously [absent
@@ -36,24 +36,23 @@ your work as if I had done it. Ha!
 Ideally, Razor should have first class support for carving out donut
 holes. Perhaps something like:
 
-```html
-<h1>This entire view is cached</h1>
-@nocache {
-  <div>But this part is not. @DateTime.Now</div>
+<pre class="csharpcode"><code>
+<span class="kwrd">&lt;</span><span class="html">h1</span><span class="kwrd">&gt;</span>This entire view is cached<span class="kwrd">&lt;/</span><span class="html">h1</span><span class="kwrd">&gt;</span>
+<span class="asp">@</span>nocache {
+  <span class="kwrd">&lt;</span><span class="html">div</span><span class="kwrd">&gt;</span>But this part is not. <span class="asp">@</span>DateTime.Now<span class="kwrd">&lt;/</span><span class="html">div</span><span class="kwrd">&gt;</span>
 }
-```
+</code></pre>
 
 As this seems to be the most common scenario for donut holes, I like the
 simplicity of this approach. However, there may be times when you do
 want the hole cached, but at a different interval than the rest of the
 page.
 
-```html
-<h1>The entire view is cached for a day</h1>
-@cache(TimeSpan.FromSeconds(10)) {
-  <div>But this part is cached for 10 seconds. @DateTime.Now</div>
-}
-```
+<pre class="csharpcode"><code>
+<span class="kwrd">&lt;</span><span class="html">h1</span><span class="kwrd">&gt;</span>The entire view is cached for a day<span class="kwrd">&lt;/</span><span class="html">h1</span><span class="kwrd">&gt;</span>
+<span class="asp">@</span>cache(TimeSpan.FromSeconds(10)) {
+  <span class="kwrd">&lt;</span><span class="html">div</span><span class="kwrd">&gt;</span>But this part is cached for 10 seconds. <span class="asp">@</span>DateTime.Now<span class="kwrd">&lt;/</span><span class="html">div</span><span class="kwrd">&gt;</span>
+}</code></pre>
 
 If we have the second `cache` directive, we probably don’t really need
 the `nocache` directive as its redundant. But since I think it’s the
