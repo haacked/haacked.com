@@ -59,9 +59,9 @@ like so.
   var items = new[] { "one", "two", "three" };
 }
 
-<ul>
-@items.List(@<li>@item</li>)
-</ul>
+&lt;ul>
+@items.List(@&lt;li>@item</li>)
+&lt;/ul>
 </code></pre>
 
 As I mentioned earlier, notice that the argument to this method,
