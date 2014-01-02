@@ -11,12 +11,12 @@ turned me on to a really cool feature of Razor I hadn’t realized made it
 into 1.0, Templated Razor Delegates. What’s that? I’ll let the code do
 the speaking.
 
-```csharp
-@{
-  Func<dynamic, object> b = @<strong>@item</strong>;
+<pre class="csharpcode">
+<span class="asp">@</span>{
+  Func&lt;dynamic, <span class="kwrd">object</span>&gt; b = @&lt;strong&gt;@item&lt;/strong&gt;;
 }
-<span>This sentence is @b("In Bold").</span>
-```
+<span class="kwrd">&lt;</span><span class="html">span</span><span class="kwrd">&gt;</span>This sentence is <span class="asp">@</span>b("In Bold").<span class="kwrd">&lt;/</span><span class="html">span</span><span class="kwrd">&gt;
+</pre>
 
 That could come in handy if you have friends who’ll jump on your case
 for using the bold tag instead of the strong tag because it’s “not
@@ -54,36 +54,36 @@ public static class RazorExtensions {
 This List method accepts a templated Razor delegate, so we can call it
 like so.
 
-<pre><code>
-@{
+<pre class="csharpcode">
+<span class="asp">@</span>{
   var items = new[] { "one", "two", "three" };
 }
 
 &lt;ul>
-@items.List(@&lt;li>@item</li>)
+<span class="asp">@</span>items.List(<span class="asp">@</span>&lt;li>@item</li>)
 &lt;/ul>
-</code></pre>
+</pre>
 
 As I mentioned earlier, notice that the argument to this method,
-`@<li>@item</li>` is automatically converted into a
-`Func<dynamic, HelperResult>` which is what our method requires.
+`<span class="asp">@</span>&lt;li><span class="asp">@</span>item&lt;/li>` is automatically converted into a
+`Func&lt;dynamic, HelperResult>` which is what our method requires.
 
 Now this `List` method is very reusable. Let’s use it to generate a
 table of comic books.
 
 <pre><code>
-@{
-    var comics = new[] { 
-        new ComicBook {Title = "Groo", Publisher = "Dark Horse Comics"},
-        new ComicBook {Title = "Spiderman", Publisher = "Marvel"}
+<span class="asp">@</span>{
+    <span class="kwrd">var</span> comics = new[] { 
+        <span class="kwrd">new</span> ComicBook {Title = "Groo", Publisher = "Dark Horse Comics"},
+        <span class="kwrd">new</span> ComicBook {Title = "Spiderman", Publisher = "Marvel"}
     };
 }
 
 &lt;table>
 @comics.List(
   @&lt;tr>
-    &lt;td>@item.Title</td>
-    &lt;td>@item.Publisher</td>
+    &lt;td><span class="asp">@</span>item.Title</td>
+    &lt;td><span class="asp">@</span>item.Publisher</td>
   &lt;/tr>)
 &lt;/table>
 </code></pre>
