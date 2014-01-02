@@ -4,7 +4,7 @@ title: "Razor View Syntax"
 date: 2010-07-03 -0800
 comments: true
 disqus_identifier: 18711
-categories: [asp.net,asp.net mvc]
+categories: [asp.net,asp.net mvc,razor]
 ---
 UPDATE: Check out my [Razor View Syntax Quick
 Reference](http://haacked.com/archive/2011/01/06/razor-syntax-quick-reference.aspx "Razor Quick Reference")
