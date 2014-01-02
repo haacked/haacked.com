@@ -4,7 +4,7 @@ title: "Using QUnit with Razor Layouts"
 date: 2011-12-10 -0800
 comments: true
 disqus_identifier: 18832
-categories: [asp.net,asp.net mvc,tdd,code]
+categories: [asp.net,asp.net mvc,tdd,code,razor]
 ---
 Given how central JavaScript is to many modern web applications,  it is
 important to use unit tests to drive the design and quality of that
