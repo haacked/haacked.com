@@ -70,11 +70,11 @@ I added the following code within the CSHTML file:
 @functions  {
   public dynamic Model { get; set; }
 }
-&amp;&lt;ul>
+&lt;ul>
 @foreach (var item in Model) {
-  &amp;&lt;li>@item.Name (@item.Id)&amp;&lt;/li>  
+  &lt;li>@item.Name (@item.Id)&lt;/li>  
 }
-&amp;&lt;/ul>
+&lt;/ul>
 </code></pre>
 {% endraw %}
 
