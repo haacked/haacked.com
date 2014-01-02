@@ -65,7 +65,7 @@ in the field labeled **Custom Tool**.
 I added the following code within the CSHTML file:
 
 {% raw %}
-<pre class="csharpcode">
+<pre class="csharpcode"><code>
 <span class="asp">@*</span> Generator : Template TypeVisibility : Internal <span class="asp">*@</span>
 <span class="asp">@</span><span class="kwrd">functions</span> {
   <span class="kwrd">public</span> dynamic&lt;/span&gt; Model { <span class="kwrd">get</span>; <span class="kwrd">set</span>; }
@@ -74,7 +74,7 @@ I added the following code within the CSHTML file:
 <span class="asp">@</span><span class="kwrd">foreach</span> (<span class="kwrd">var</span> item <span class="kwrd">in</span> Model) {
   <span class="kwrd">&lt;</span><span class="html">li</span><span class="kwrd">&gt;</span><span class="asp">@</span>item.Name (<span class="asp">@</span>item.Id)<span class="kwrd">&lt;/</span><span class="html">li</span><span class="kwrd">&gt;</span>  
 }
-<span class="kwrd">&lt;/</span><span class="html">ul</span><span class="kwrd">&gt;</span></pre>
+<span class="kwrd">&lt;/</span><span class="html">ul</span><span class="kwrd">&gt;</span></code></pre>
 {% endraw %}
 
 That first line is a generator declaration. It’s required to by the
