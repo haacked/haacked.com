@@ -4,7 +4,7 @@ title: "Changing Base Type Of A Razor View"
 date: 2011-02-21 -0800
 comments: true
 disqus_identifier: 18764
-categories: [asp.net,asp.net mvc]
+categories: [asp.net,asp.net mvc,razor]
 ---
 Within a Razor view, you have access to a base set of properties (such
 as `Html`, `Url`, `Ajax`, etc.) each of which provides methods you can
@@ -13,9 +13,9 @@ use within the view.
 For example, in the following view, we use the `Html` property to access
 the `TextBox` method.
 
-```csharp
-@Html.TextBox("SomeProperty")
-```
+<pre class="csharpcode"><code.
+<span class="asp">@</span>Html.TextBox(<span class="str">"SomeProperty"</span>)
+</code></pre>
 
 `Html` is a property of type `HtmlHelper` and there are a large number
 of useful extension methods that hang off this type, such as  `TextBox`.
@@ -51,7 +51,7 @@ directory contains a *Web.config* file.
 
 Look inside that file and you’ll notice the following snippet of XML.
 
-```csharp
+```xml
 <system.web.webPages.razor>
     <host factoryType="System.Web.Mvc.MvcWebRazorHostFactory, 
     System.Web.Mvc, Version=3.0.0.0, 
@@ -148,14 +148,13 @@ What about Strongly Typed Views
 What if I have a Razor view that specifies a strongly typed model like
 so:
 
-```csharp
-@model Product
-@{
-    ViewBag.Title = "Home Page";
+<pre class="csharpcode"><code>
+<span class="asp">@</span>model Product
+<span class="asp">@</span>{
+    ViewBag.Title = <span class="str">"Home Page"</span>;
 }
 
-<p>@Model.Name</p>
-```
+&lt;p&gt;<span class="asp">@</span>Model.Name&lt;/p&gt;</code></pre>
 
 The base class we wrote wasn’t a generic class so how’s this going to
 work? Not to worry. This is the part of Razor that’s pretty cool. We can
