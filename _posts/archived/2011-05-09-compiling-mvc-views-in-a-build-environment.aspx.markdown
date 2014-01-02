@@ -46,23 +46,19 @@ csproj/vbproj file will still have this bug.
 
 To fix this, look for the following element within your project file:
 
-~~~~ {.csharpcode style="font-size: 0.85em"}
+```xml
 <Target Name="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
   <AspNetCompiler VirtualPath="temp" PhysicalPath="$(ProjectDir)\..\$(ProjectName)" />
 </Target>
-~~~~
+```
 
 And replace it with the following.
 
-~~~~ {.csharpcode style="font-size: 0.85em"}
+```xml
 <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
   <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
 </Target>
-~~~~
-
- 
-
- 
+```
 
 After I did that, I was able to deploy my application to AppHarbor
 without any problems.

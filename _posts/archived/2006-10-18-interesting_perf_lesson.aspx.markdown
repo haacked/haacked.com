@@ -62,19 +62,15 @@ blog](http://selectsoftwarethoughtsfromtyler.blogspot.com/2006/10/performance-fo
 
 > Calling the methods included in a previous post, 5000 times each,
 >
-> ~~~~ {.console}
 > With parameters took 1203.125 milliseconds.
 > With objects took 1250 milliseconds. 
 > Objects took -46.875 milliseconds less.
-> ~~~~
 >
 > 20000 times each:
 >
-> ~~~~ {.console}
 > With parameters took 4859.375 milliseconds.  
 > With objects took 5015.625 milliseconds.
 > Objects took -156.25 milliseconds less.
-> ~~~~
 
 The results show that the performance difference is negligible. However,
 even before seeing the performance results, I would agree with the
@@ -106,4 +102,3 @@ and I don’t see keeping the order intact much more work than getting the
 parameter names correct.
 
 But that’s just me.
-
