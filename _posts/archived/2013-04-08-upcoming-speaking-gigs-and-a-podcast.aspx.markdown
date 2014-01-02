@@ -14,7 +14,7 @@ doing a bit of travelling ourselves and I like spending time with them.
 
 But I will be hitting up two conferences that I know of.
 
-[\<anglebrackets/\> April 8 – 11](http://anglebrackets.org/)
+[&lt;anglebrackets&gt; April 8 – 11](http://anglebrackets.org/)
 ------------------------------------------------------------
 
 Ohmagerd! That’s **this week! I better prepare!**
