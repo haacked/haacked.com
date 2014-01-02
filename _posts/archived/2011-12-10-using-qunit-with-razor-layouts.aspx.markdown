@@ -91,7 +91,7 @@ The next step is to write the layout file, `_Layout.cshtml`. This
 contains the QUnit boilerplate along with a place holder (the
 `RenderBody` call) for the actual tests.
 
-```csharp
+```html
 <!DOCTYPE html>
 
 <html>
@@ -124,19 +124,19 @@ contains the QUnit boilerplate along with a place holder (the
 And now, one or more files that contain the actual test. Here’s an
 example called `footest.cshtml`.
 
-```csharp
+<pre><code>
 @{
   Page.Title = "FooTests";
 }
 @if (false) {
   // OPTIONAL! QUnit script (here for intellisense)
-  <script src="/scripts/qunit.js"> </script>
+  &lt;script src="/scripts/qunit.js"> </script>
 }
 <!-- Script we're testing -->
-<script src="/scripts/calculator.js"></script>
+&lt;script src="/scripts/calculator.js"></script>
 
 <!-- The tests -->
-<script>
+&lt;script>
   $(function () {
     // calculator_tests.js
     module("A group of tests get's a module");
@@ -146,8 +146,8 @@ example called `footest.cshtml`.
       equals(calc.add(2, 2), 4, "shit broken");
     });
   });
-</script>
-```
+&lt;/script>
+</code></pre>
 
 You’ll note that I have this funky if (false) block in the code. That’s
 to workaround a current limitation in Razor so that JavaScript
@@ -166,7 +166,7 @@ of tests. It simply iterates through every test file and generates a
 link. One nifty little perk of using ASP.NET Web Pages is you can leave
 off the extension when you request the file.
 
-```csharp
+```html
 @using System.IO;
 @{
   Layout = null;
