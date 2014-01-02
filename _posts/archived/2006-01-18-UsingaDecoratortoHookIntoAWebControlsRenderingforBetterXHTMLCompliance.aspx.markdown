@@ -31,9 +31,9 @@ My first attempt to handle this was to simply try and remove the
 language attribute via the following code placed in the `OnPreRender`
 method of my page:
 
-~~~~ {style="margin: 0px;"}
+```csharp
 btnSubmit.Attributes.Remove("language");
-~~~~
+```
 
 That didn’t work because the button control doesn’t explicitly add the
 language attribute to the attributes collection. Instead, the attribute
@@ -69,41 +69,25 @@ The first step is to create a `CompliantButton` class that inherits from
 `Button`. Within that class I created a private internal class named
 `CompliantHtmlTextWriter` like so:
 
+```
 private class CompliantHtmlTextWriter : HtmlTextWriter
-
 {
 
-    internal CompliantHtmlTextWriter(HtmlTextWriter writer) :
-base(writer)
-
+    internal CompliantHtmlTextWriter(HtmlTextWriter writer) : base(writer)
     {
-
     }
-
  
-
-    /// \<summary\>
-
-    /// Ignores the language attribute for the purposes of a submit
-button.
-
-    /// \</summary\>
-
-    public override void AddAttribute(string name, string value, bool
-fEndode)
-
+    /// <summary>
+    /// Ignores the language attribute for the purposes of a submit button.
+    /// </summary>
+    public override void AddAttribute(string name, string value, bool fEndode)
     {
-
-        if(String.Compare(name, "language", true,
-CultureInfo.InvariantCulture) == 0)
-
+        if(String.Compare(name, "language", true, CultureInfo.InvariantCulture) == 0)
             return;
-
         base.AddAttribute (name, value, fEndode);
-
     }
-
 }
+```
 
 This is the decorator. Notice that the constructor takes in another
 `HtmlTextWriter` which it will forward method calls to. The
@@ -115,13 +99,12 @@ attribute name is “language”.
 Now all that is left is to use the decorator within the render method of
 the `CompliantButton` class. Here is the render method:
 
+```csharp
 protected override void Render(System.Web.UI.HtmlTextWriter writer)
-
 {
-
     base.Render(new CompliantHtmlTextWriter(writer));
-
 }
+```
 
 Notice that I am wrapping (decorating) the `HtmlTextWriter` parameter
 with my `CompliantHtmlTextWriter` decorator before passing it along to

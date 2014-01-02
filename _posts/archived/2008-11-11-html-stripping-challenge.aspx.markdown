@@ -88,7 +88,7 @@ Your challenge, should you choose to accept it, is to implement this
 method such that the following unit tests pass. I apologize for the
 small font, but I used some long names and wanted it to fit.
 
-~~~~ {.csharpcode style="font-size: 0.8em"}
+```csharp
 [TestMethod]
 public void NullHtml_ThrowsArgumentException() {
     try {
@@ -264,7 +264,7 @@ public void Html_WithTagClosedByEmptyComment_StripsFirstTag()
     string html = "<foo<!>Test";
     Assert.AreEqual("Test", HtmlHelper.RemoveHtml(html));
 }
-~~~~
+```
 
 What’s the moral of this story, apart from “Phil has way too much time
 on his hands?” In part, it’s that parsing HTML is fraught with peril. I

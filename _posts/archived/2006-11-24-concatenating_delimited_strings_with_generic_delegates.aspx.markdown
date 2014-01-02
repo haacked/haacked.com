@@ -103,13 +103,12 @@ concatenated together.
 
 This code produces the following output.
 
-~~~~ {.console}
+```bash
 305|334|913
-~~~~
+```
 
 This gives me a nice reusable method to concatenate collections of
 objects into delimited strings via the `Converter` generic delegate.
 This follows a common pattern in .NET 2.0 embodied by such methods as
 the `List.ForEach` method which uses the `Action` generic delegate and
 the `Array.Find` method which uses the `Predicate` generic delegate.
-

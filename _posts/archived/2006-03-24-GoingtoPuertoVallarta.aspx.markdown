@@ -22,4 +22,3 @@ I think.
 
 I do get a bit panicky without my blogs after a few ~~days~~~~hours~~
 minutes, but the missus promises me I will be ok.
-
