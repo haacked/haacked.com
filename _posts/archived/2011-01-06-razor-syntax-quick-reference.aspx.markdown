@@ -307,6 +307,8 @@ this guide. I hope you find this helpful.
 additions to Razor v2/ASP.NET MVC 4 syntax. Razor got a lot better in
 that release!
 
+Also, if you want to know more, consider buying the [Progamming ASP.NET MVC 4](http://www.amazon.com/gp/product/111834846X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=111834846X&linkCode=as2&tag=youvebeenhaac-20) book. Full disclosure, I'm one of the authors, but the other three authors are way better.
+
 Tags: [aspnetmvc](http://haacked.com/tags/aspnetmvc/default.aspx),
 [asp.net](http://haacked.com/tags/asp.net/default.aspx),
 [razor](http://haacked.com/tags/razor/default.aspx)
