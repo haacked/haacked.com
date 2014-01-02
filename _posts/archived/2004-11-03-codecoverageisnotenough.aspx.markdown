@@ -68,7 +68,7 @@ public class MyClassTest
     {
         var mine = new MyClass();
         string[] keys = {"keyOne", "keyTwo"};
-        Assert.AreEqual(8, mine.SumIt(keys));
+        Assert.Equal(8, mine.SumIt(keys));
     }
 }
 ```
