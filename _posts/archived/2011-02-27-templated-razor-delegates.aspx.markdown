@@ -11,12 +11,12 @@ turned me on to a really cool feature of Razor I hadn’t realized made it
 into 1.0, Templated Razor Delegates. What’s that? I’ll let the code do
 the speaking.
 
-<pre class="csharpcode">
+<pre class="csharpcode"><code>
 <span class="asp">@</span>{
   Func&lt;dynamic, <span class="kwrd">object</span>&gt; b = @&lt;strong&gt;@item&lt;/strong&gt;;
 }
 <span class="kwrd">&lt;</span><span class="html">span</span><span class="kwrd">&gt;</span>This sentence is <span class="asp">@</span>b("In Bold").<span class="kwrd">&lt;/</span><span class="html">span</span><span class="kwrd">&gt;
-</pre>
+</code></pre>
 
 That could come in handy if you have friends who’ll jump on your case
 for using the bold tag instead of the strong tag because it’s “not
@@ -54,7 +54,7 @@ public static class RazorExtensions {
 This List method accepts a templated Razor delegate, so we can call it
 like so.
 
-<pre class="csharpcode">
+<pre class="csharpcode"><code>
 <span class="asp">@</span>{
   var items = new[] { "one", "two", "three" };
 }
@@ -62,7 +62,7 @@ like so.
 &lt;ul>
 <span class="asp">@</span>items.List(<span class="asp">@</span>&lt;li>@item</li>)
 &lt;/ul>
-</pre>
+</code></pre>
 
 As I mentioned earlier, notice that the argument to this method,
 `<span class="asp">@</span>&lt;li><span class="asp">@</span>item&lt;/li>` is automatically converted into a
