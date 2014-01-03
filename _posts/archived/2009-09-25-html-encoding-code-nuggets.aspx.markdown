@@ -20,7 +20,7 @@ One great new feature being introduced in ASP.NET 4 is a new code block
 team*) syntax which provides a convenient means to HTML encode output in
 an ASPX page or view.
 
-```aspx
+```html
 <%: CodeExpression %>
 ```
 
@@ -31,7 +31,7 @@ view. Suppose you have a form which allows the user to submit their
 first and last name. After submitting the form, the same view is used to
 display the submitted values.
 
-```aspx-cs
+```html
 First Name: <%: Model.FirstName %>
 Last Name: <%: Model.FirstName %>
 
