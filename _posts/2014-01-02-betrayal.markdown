@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Betrayal"
+date: 2014-01-02 -0800
+comments: true
+categories: [oss]
+---
+Today, I [read a comment](http://blogs.msdn.com/b/rxteam/archive/2014/01/01/reactive-extensions-2013-year-in-review.aspx#10486541) about a group of people who feel betrayed by the increase in code that Microsoft is releasing under an open source license.
+
+> I and my team are really troubled by MS's apparent policy of Open-sourcing code from under our feet.
+>
+> We are in an industry with rather paranoid clients that contractually bar us from using Open Source software. We have immensely enjoyed using Rx but its open-sourcing threw us into turmoil.
+>
+> I feel like we have been betrayed, and will think twice before adopting some new Microsoft framework again, wary of it being Open Sourced later on without prior warning.
+
+And I understand this feeling. I really do. Feelings of betrayal are a natural consequence of progress.
+
+By betrayal, I mean the [following definition from Webster](http://www.merriam-webster.com/dictionary/betrayal),
+
+> to hurt (someone who trusts you, such as a friend or relative) by not giving help or by doing something morally wrong
+
+The Catholic Church at the time must have felt betrayed by Galileo when he lent his support to the heliocentric model of the universe because it deviated from their orthodoxy.
+
+Factory owners who profited on cheap labor from children must have felt betrayed by the passage of child labor laws.
+
+Racists who held onto the idea that other races were inferior to their own must have felt betrayed by the passage of the civil rights act.
+
+These are grand examples. But often we experience much smaller and simpler betrayals as a result of little tiny foot steps of progress. Such as the betrayal some might feel when changing winds in the industry makes their antiquated business practices harder to sustain.
+
+It's important to note, that betrayal does not imply progress. It can also result from regression. But doing the right thing always leads to some group feeling betrayed.
+
+And what do we do about those who feel betrayed? It's easy to deride them as an anachronistic holdover from a past that no longer has a place in the present. That's the easy way to deal with it.
+
+But for those who've only known the world to be one way all their life, feelings of betrayal are understandable when the world suddenly changes. Hopefully we can reach out and help those adapt to the new way. There's room for everyone. It's a painful path. But it can happen.
+
+For the rest who would rather stew in the feelings of betrayal and hold onto their outdated ideas with an iron fist. These are the folks we should never, under any circumstances, let impede progress.
+
+I'm sad to hear that these folks feel betrayed because their clients won't allow them to use Rx now that it is open source. Rx is a powerful and useful library. But when you put it in perspective, clients like these are going extinct. History has never been kind to businesses who cannot adapt to change. Best to try and educate the clients about how their policy is regressive and detrimental to their future health. And if that's not successful, then look for clients who are adaptable and wisely embrace open source as one of many means of ensuring their own survival in the long run.
