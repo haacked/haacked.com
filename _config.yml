@@ -28,11 +28,9 @@ google_analytics_tracking_id: UA-177588-1
 #
 # Jekyll Settings
 #
-markdown: rdiscount
+markdown: redcarpet
 pygments: true
 permalink: /archive/:year/:month/:day/:title/
-rdiscount:
-  extensions: [smart]
 paginate: 5
 paginate_path: "page/:num"
 category_dir: categories
