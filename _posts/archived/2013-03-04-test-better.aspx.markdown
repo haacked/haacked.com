@@ -15,9 +15,8 @@ Testing.
 I’m not talking about drug testing, unit testing, or any form of
 automated testing. After all, while there are still some holdouts, at
 least these types of tests involve *writing code*. And we know how much
-developers love to write code (*even though*[*that’s not what we’re
-really paid to
-do*](http://haacked.com/archive/2010/08/26/not-paid-to-write-code.aspx "We're not paid to write code")).
+developers love to write code (_even though that’s not what we’re
+really paid to do_](http://haacked.com/archive/2010/08/26/not-paid-to-write-code.aspx/ "We're not paid to write code")).
 
 No, I’m talking about the kind of testing where you get your hands dirty
 *actually trying the application*. Where you attempt to break the
@@ -27,9 +26,7 @@ post, I’ll provide a tip using GitHub that’s helped me with this.
 TDD isn’t enough
 ----------------
 
-I’m a huge fan of Test Driven Development as evidenced by [my blog
-archives](http://haacked.com/category/TDD.aspx "TDD category on haacked.com").
-I know, I know. TDD isn’t about testing as [Uncle
+I’m a huge fan of Test Driven Development. I know, I know. TDD isn’t about testing as [Uncle
 Bob](https://sites.google.com/site/unclebobconsultingllc/ "Uncle Bob")
 sayeth from on high in his book, [Agile Software Development,
 Principles, Patterns, and
@@ -52,7 +49,7 @@ gimme dat! Credit: Jason Lam
 [CC-BY-SA-2.0](http://creativecommons.org/licenses/by-sa/2.0/)*
 
 The problem I’ve found myself running into, despite my [own
-advice](http://haacked.com/archive/2004/06/09/test-first-development-doesnt-mean-you-dont-walk-through-your-code.aspx "Walkthrough your code")
+advice](http://haacked.com/archive/2004/06/09/test-first-development-doesnt-mean-you-dont-walk-through-your-code.aspx/ "Walkthrough your code")
 to [the
 contrary](http://haacked.com/archive/2004/11/03/codecoverageisnotenough.aspx "Code Coverage is not enough"),
 is that I start to trust too much in my unit tests. Several times I’ve
@@ -92,7 +89,7 @@ But we still lacked rigor in regular non-automated testing. Then along
 comes my compatriot, [Drew
 Miller](https://twitter.com/halfogre "AnglicanGeek on Twitter"). If you
 recall, he’s the one I cribbed my approach [structuring unit
-tests](http://haacked.com/archive/2012/01/01/structuring-unit-tests.aspx "Structuring Unit Tests")
+tests](http://haacked.com/archive/2012/01/02/structuring-unit-tests.aspx/ "Structuring Unit Tests")
 from.
 
 Drew really gets testing in all its forms. I first started working with
@@ -223,13 +220,11 @@ incoming bug reports from customers.
 **Related Posts**
 
 -   [Test First Development Doesn’t Mean You Don’t Walk Through Your
-    Code](http://haacked.com/archive/2004/06/09/test-first-development-doesnt-mean-you-dont-walk-through-your-code.aspx "Walk through your code")
+    Code](http://haacked.com/archive/2004/06/09/test-first-development-doesnt-mean-you-dont-walk-through-your-code.aspx/ "Walk through your code")
 -   [Why Code Coverage is not
-    Enough](http://haacked.com/archive/2004/11/03/codecoverageisnotenough.aspx "Why Code Coverage is not Enough")
+    Enough](http://haacked.com/archive/2004/11/03/codecoverageisnotenough.aspx/ "Why Code Coverage is not Enough")
 -   Structuring Unit Tests
 -   [How we use Pull Requests to build
     GitHub](https://github.com/blog/1124-how-we-use-pull-requests-to-build-github "Pull Requests at GitHub")
 -   [Task Lists in GFM: Issues/Pulls,
     Comments](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments "Task Lists in GFM")
-
-
