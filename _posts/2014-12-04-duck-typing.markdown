@@ -108,7 +108,9 @@ One observation I've heard is that "duck typing" sounds kind of like "duct tapin
 
 On the Appolo 13 mission, the crew was faced with a situation where carbon dioxide levels were rising to dangerous levels in the Lunar Module. They had plenty of filters, [but their square filters would not fit in the round  barrels that housed the filters](http://www.universetoday.com/63673/13-things-that-saved-apollo-13-part-10-duct-tape/). In other words, their square filters were the wrong type (whether dynamic or static). Their solution was to use duct tape to cobble something together that would work. It wasn't the solution intended by the original design, but as long as the final contraption acts like an air filter (duck typing), they would survive. And they did. Like I said, the analogy is a bit of as stretch, but I think it embodies the duck typing approach.
 
-For static typed languages, I think the idea of structural typing provides a really interesting combination of type safety and flexibility. Mark Rendle, in the comments to Eric's blog post provides this observation:
+Perhaps a better term is implicit typing. Wherease with explicit typing, you declare an object to be one type or another (whether at compile time or run time), with implicit typing, if it just happens to meet the needs of the consumer, then hey! It's a duck!
+
+For static typed languages, I really like the idea of structural typing. It provides a nice combination of type safety and flexibility. [Mark Rendle](http://blog.markrendle.net/), in the comments to Eric's blog post provides this observation:
 
 > Structural Typing may be thought of as a kind of compiler-enforced subset of Duck Typing.
 
