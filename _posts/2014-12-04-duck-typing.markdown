@@ -61,9 +61,9 @@ class PetOwner:
     def take_care_of(arg):
         if behaves_like_duck(arg):
             #Pout lips and quack quack
-        elif if behaves_like_robot(arg):
+        elif behaves_like_robot(arg):
             #Domo arigato Mr. Roboto
-        elif if behaves_like_car(arg):
+        elif behaves_like_car(arg):
             #Vroom vroom vroom farfegnugen
 ``` 
 
@@ -80,14 +80,14 @@ I'd guess that code would look something like:
 ```python
 class PetOwner:
   def take_care_of(arg):
-    try
+    try:
       arg.walk()
       arg.quack()
-    catch
-      try
+    except AttributeError:
+      try:
         arg.sense_danger_will_robinson()
         arg.dance_in_staccato_manner()
-      catch
+      except AttributeError:
         arg.drive()
         arg.drift()
 ``` 
@@ -121,13 +121,3 @@ Also in the comments to Eric's post, someone linked to [my blog post about duck 
 
 
 What do you think? Did I nail it? Or did I drop the ball and get something wrong or misrepresent an idea? Let me know in the comments.
-
-__UPDATE:__ Sam Livingston-Gray, also known as [@geeksam](https://twitter.com/geeksam) notes [another key difference between late binding that I completely missed](https://twitter.com/geeksam/status/419541821283237888):
-
-> @haacked method_missing illustrates the disconnect between binding and typing: an obj can choose how and whether to respond to a message
-
-Recall that Eric defines "Late Binding" as:
-
-> "Binding" is the association of a particular method, property, variable, and so on, with a particular name in a particular context; if done by the compiler then it is "early binding", and if it is done at runtime then it is "late binding".
-
-You could argue that `method_missing` is another form of late binding where the name is bound to `method_missing` because there is no other name to bind to. But conceptually, it feels very different to me. With binding, you usually think of the caller determining which method to call by name. And whether it's bound early or late is no matter, it's still the caller's choice. With `method_missing` it's the object in control of whethere it's going to respond to the method call (message).
