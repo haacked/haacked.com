@@ -26,9 +26,9 @@ To back this up, I looked at the original [Google Group post](https://groups.goo
 
 > In other words, don't check whether it IS-a duck: check whether it QUACKS-like-a duck, WALKS-like-a duck, etc, etc, depending on exactly what subset of duck-like behaviour you need to play your language-games with. 
 
-This was a response to a question that asked the question (I'm paraphrasing), _how do you handle method overloading with a single parameter in a dynamic language?_
+This was a response to a question that asked the question (I'm paraphrasing), _how do you handle method overloading with a single parameter in a dynamic language?_ Specifically, the question was in reference to the Python language.
 
-To illustrate, in a static typed language like C#, you might have the following three methods of a class:
+To illustrate, in a static typed language like C#, you might have the following three methods of a class (_forgive me if the example seems contrived. I lack imagination._):
 
 ```csharp
 
@@ -39,18 +39,16 @@ public class PetOwner {
 }
 ```
 
-For the sake of argument, let's ignore why we have these methods. In the original example, we were dealing with constructors that could take different objects in.
-
 In C#, the method that gets called is resolved at compile time depending on the type of the argument passed to it.
 
 ```csharp
 var petOwner = new PetOwner();
 petOwner.TakeCareOf(new Duck()); // calls first method.
 petOwner.TakeCareOf(new Robot()); // calls second method.
-petOwner.TakeCareOf(new Car()); // calls second method.
+petOwner.TakeCareOf(new Car()); // calls third method.
 ```
 
-But a dynamic language such as Python can't support this approach. You can't have three methods of the same name each with a single argument because there is no type declared to distinguish between the methods. Instead, you'd need a single method.
+But in a dynamic language, such as Python, you can't have three methods with the same name each with a single argument. Without a type declared for the method argument, there is no way to distinguish between the methods. Instead, you'd need a single method and do something else.
 
 One approach is you could switch based on the runtime type of the argument passed in, but Alex points out that would be inappropriate in Python. I assume because it conflicts with Python's dynamic nature. Keep in mind that I'm not a Python programmer so I'm basing this on my best attempt to interpret Alex's words:
 
@@ -60,13 +58,13 @@ As I said before, I don't know a lick of Python, so I'll pseuducode what this mi
 
 ```python
 class PetOwner:
-    def take_care_of_pet(arg):
+    def take_care_of(arg):
         if behaves_like_duck(arg):
-            #Do ducky stuff
-        elif if behaves_like_fish(arg):
-            #Do fishy stuff
-        elif if behaves_like_dog(arg):
-            #Do doggy stuff
+            #Pout lips and quack quack
+        elif if behaves_like_robot(arg):
+            #Domo arigato Mr. Roboto
+        elif if behaves_like_car(arg):
+            #Vroom vroom vroom farfegnugen
 ``` 
 
 So rather than check if the arg IS A duck, you check if it behaves like a duck. The question is, how do you do that?
@@ -81,17 +79,17 @@ I'd guess that code would look something like:
 
 ```python
 class PetOwner:
-  def take_care_of_pet(arg):
+  def take_care_of(arg):
     try
       arg.walk()
       arg.quack()
     catch
       try
-        arg.swim()
-        arg.make_fishtank_stinky()
+        arg.sense_danger_will_robinson()
+        arg.dance_in_staccato_manner()
       catch
-        arg.pet()
-        arg.be_best_friend_to()
+        arg.drive()
+        arg.drift()
 ``` 
 
 Note that this is not exactly the same as late binding as Eric proposes. Late binding is involved, but that's not the full picture. It's late binding combined with the branching based on the set of methods and properties that make up "duck typing."
@@ -104,7 +102,7 @@ He goes on to state that the duck typing approach seems to have dubious benefit.
 
 > The "royal-road" alternative route to overloading would, I think, be the use of suitable named-arguments.  A rockier road, perhaps preferable in some cases, but more work for dubious benefit, would be the try/except approach to see if an argument supplies the functionalities you require.
 
-My uneducated guess is that despite his downplaying of it, duck typing became a thing because of Ruby. While Python advocates an "explicit is better than implicit" philosophy, Ruby is known for its "configuration over convention" philosophy that sometimes is in conflict with being explicit.
+My uneducated guess is that despite Alex's downplaying of it as a solution, duck typing became a thing because of Ruby. While Python advocates an "explicit is better than implicit" philosophy, Ruby is known for its "configuration over convention" philosophy that sometimes is in conflict with explicitness.
 
 For static typed languages, I think the idea of structural typing provides a really interesting combination of type safety and flexibility. Mark Rendle, in the comments to Eric's blog post provides this observation:
 
