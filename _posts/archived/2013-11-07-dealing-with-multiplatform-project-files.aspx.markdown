@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 18905
 categories: [open source,code]
 ---
-[Octokit.net](github.com/octokit/octokit.net "Octokit.net on GitHub")
+[Octokit.net](https://github.com/octokit/octokit.net "Octokit.net on GitHub")
 targets multiple platforms. This involves a large risk to my sanity. You
 can see the general approach here in the [Octokit
 directory](https://github.com/octokit/octokit.net/tree/master/Octokit "Octokit.net Octokit directory.")
