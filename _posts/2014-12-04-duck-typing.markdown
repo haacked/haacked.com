@@ -104,6 +104,10 @@ He goes on to state that the duck typing approach seems to have dubious benefit.
 
 My uneducated guess is that despite Alex's downplaying of it as a solution, duck typing became a thing because of Ruby. While Python advocates an "explicit is better than implicit" philosophy, Ruby is known for its "convention over configuration" philosophy that sometimes is in conflict with explicitness.
 
+One observation I've heard is that "duck typing" sounds kind of like "duct taping." Not sure if there's anything to that, but if you forgive a bit of a stretch, I think there it may be an apt analogy.
+
+On the Appolo 13 mission, the crew was faced with a situation where carbon dioxide levels were rising to dangerous levels in the Lunar Module. They had plenty of filters, [but their square filters would not fit in the round  barrels that housed the filters](http://www.universetoday.com/63673/13-things-that-saved-apollo-13-part-10-duct-tape/). In other words, their square filters were the wrong type (whether dynamic or static). Their solution was to use duct tape to cobble something together that would work. It wasn't the solution intended by the original design, but as long as the final contraption acts like an air filter (duck typing), they would survive. And they did. Like I said, the analogy is a bit of as stretch, but I think it embodies the duck typing approach.
+
 For static typed languages, I think the idea of structural typing provides a really interesting combination of type safety and flexibility. Mark Rendle, in the comments to Eric's blog post provides this observation:
 
 > Structural Typing may be thought of as a kind of compiler-enforced subset of Duck Typing.
@@ -111,5 +115,7 @@ For static typed languages, I think the idea of structural typing provides a rea
 In other words, it's duck typing for static typed languages.
 
 Also in the comments to Eric's post, someone linked to [my blog post about duck typing](http://haacked.com/archive/2007/08/19/why-duck-typing-matters-to-c-developers.aspx/). At the time I wrote that, "structural typing" wasn't in my vocabulary. If it had been, I could have been more precise in my post. For static languages, I find structural typing to be very compelling.
+
+
 
 What do you think? Did I nail it? Or did I drop the ball and get something wrong or misrepresent an idea? Let me know in the comments.
