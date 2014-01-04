@@ -111,4 +111,5 @@ For static typed languages, I think the idea of structural typing provides a rea
 In other words, it's duck typing for static typed languages.
 
 Also in the comments to Eric's post, someone linked to [my blog post about duck typing](http://haacked.com/archive/2007/08/19/why-duck-typing-matters-to-c-developers.aspx/). At the time I wrote that, "structural typing" wasn't in my vocabulary. If it had been, I could have been more precise in my post. For static languages, I find structural typing to be very compelling.
- 
+
+What do you think? Did I nail it? Or did I drop the ball and get something wrong or misrepresent an idea? Let me know in the comments.
