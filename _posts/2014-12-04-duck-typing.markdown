@@ -102,7 +102,7 @@ He goes on to state that the duck typing approach seems to have dubious benefit.
 
 > The "royal-road" alternative route to overloading would, I think, be the use of suitable named-arguments.  A rockier road, perhaps preferable in some cases, but more work for dubious benefit, would be the try/except approach to see if an argument supplies the functionalities you require.
 
-My uneducated guess is that despite Alex's downplaying of it as a solution, duck typing became a thing because of Ruby. While Python advocates an "explicit is better than implicit" philosophy, Ruby is known for its "configuration over convention" philosophy that sometimes is in conflict with explicitness.
+My uneducated guess is that despite Alex's downplaying of it as a solution, duck typing became a thing because of Ruby. While Python advocates an "explicit is better than implicit" philosophy, Ruby is known for its "convention over configuration" philosophy that sometimes is in conflict with explicitness.
 
 For static typed languages, I think the idea of structural typing provides a really interesting combination of type safety and flexibility. Mark Rendle, in the comments to Eric's blog post provides this observation:
 
