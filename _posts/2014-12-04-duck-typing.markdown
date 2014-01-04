@@ -98,11 +98,11 @@ What's interesting is that this was not the only possible solution that Alex pro
 
 > Besides, "explicit is better than implicit", goes one of Python's mantras.  Just let the client-code explicitly TELL you which kind of argument they are passing you (and doing so through a named argument is simple and readable), and your work drops to zero, while removing no useful functionality whatever from the client.
 
-He goes on to state that the duck typing approach seems to have dubious benefit.
+He goes on to state that this implicit duck typing approach to method overloading seems to have dubious benefit.
 
 > The "royal-road" alternative route to overloading would, I think, be the use of suitable named-arguments.  A rockier road, perhaps preferable in some cases, but more work for dubious benefit, would be the try/except approach to see if an argument supplies the functionalities you require.
 
-My uneducated guess is that despite Alex's downplaying of it as a solution, duck typing became a thing because of Ruby. While Python advocates an "explicit is better than implicit" philosophy, Ruby is known for its "convention over configuration" philosophy that sometimes is in conflict with explicitness.
+The Python approach would be to pass in a discriminator. Even so, the object passed in would have to fulfill the set of requirements for the selected branch of code indicated by the discriminator. With the discriminator, it does feel more like we're just talking about late binding, but applied to a set of methods and properties, not just each one individually as you might do with late binding.
 
 One observation I've heard is that "duck typing" sounds kind of like "duct taping." Not sure if there's anything to that, but if you forgive a bit of a stretch, I think there it may be an apt analogy.
 
