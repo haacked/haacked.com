@@ -50,7 +50,9 @@ petOwner.TakeCareOf(new Robot()); // calls second method.
 petOwner.TakeCareOf(new Car()); // calls second method.
 ```
 
-But a dynamic language such as Python doesn't support this approach. You could switch based on the runtime type of the argument passed in, but Alex points out that would be inappropriate in Python. I assume because it conflicts with Python's dynamic nature. Keep in mind that I'm not a Python programmer so I'm basing this on my best attempt to interpret Alex's response.
+But a dynamic language such as Python can't support this approach. Without a static type, you can't have three methods of the same name each with a single argument because there is no type declared to distinguish between the methods. Instead, you'd need a single method.
+
+One approach is you could switch based on the runtime type of the argument passed in, but Alex points out that would be inappropriate in Python. I assume because it conflicts with Python's dynamic nature. Keep in mind that I'm not a Python programmer so I'm basing this on my best attempt to interpret Alex's words:
 
 > In other words, don't check whether it IS-a duck: check whether it QUACKS-like-a duck, WALKS-like-a duck, etc, etc, depending on exactly what subset of duck-like behaviour you need to play your language-games with.
 
