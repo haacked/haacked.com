@@ -6,9 +6,11 @@ comments: true
 categories: [code]
 ---
 
-In a recent blog post, [Eric Lippert](http://ericlippert.com/), who writes one of my favorite tech blogs, asks the question, "[What is Duck Typing?](http://ericlippert.com/2014/01/02/what-is-duck-typing/)" His post provides a thoughtful critique and deconstruction of the [Wikipedia entry on the subject](http://en.wikipedia.org/wiki/Duck_typing). I recommend reading his blog post, though I'll try to summarize it briefly.
+[Eric Lippert](http://ericlippert.com/) writes one of my all time favorite tech blogs. Sadly, the [purple font he was famous for](http://www.codinghorror.com/blog/2006/12/eric-lipperts-purple-crayon.html) is no longer, but the technical depth is still there.
 
-He starts off with his definitions of "typing":
+In a recent post, he asks the question, "[What is Duck Typing?](http://ericlippert.com/2014/01/02/what-is-duck-typing/)" His post provides a thoughtful critique and deconstruction of the [Wikipedia entry on the subject](http://en.wikipedia.org/wiki/Duck_typing). Seriously, go read it, but please come back here afterwards!
+
+For those of you too lazy to read it, I'll try and summarize crudely. He starts off with his definitions of "typing":
 
 > A __compile-time type system__ provides three things: first, rules for defining types, like "array of pointers to integer". Second, rules for logically deducing what type is associated with every expression, variable, method, property, and so on, in a program. And third, rules for determining what programs are legal or illegal based on the type of each entity. These types are used by the compiler to determine the legality of the program.
 
