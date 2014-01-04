@@ -20,7 +20,7 @@ He continues with a description of structural typing that sounds like what he al
 
 > But this is not even typing in the first place! We already have a name for this; this is late binding. "Binding" is the association of a particular method, property, variable, and so on, with a particular name2 in a particular context; if done by the compiler then it is "early binding", and if it is done at runtime then it is "late binding".3 Why would we even need to invent this misleadingly-named idea of "duck typing" in the first place??? If you mean "late binding" then just say "late binding"!
 
-I wasn't convinced by this. I don't think of duck typing as a type system so much as a fuzzy approach to treating objects as if they are certain types (or close enough) based on their behavior rather than their declared type. This is a subtle distinction to late binding.
+I agree that the Wikipedia definition is a bit unclear, but I think there's more to it than simple late binding. Also, I think some of the confusion lies in the fact that duck typing isn't so much a type system as it is a fuzzy approach to treating objects as if they are certain types (or close enough) based on their behavior rather than their declared type. This is a subtle distinction to late binding.
 
 To back this up, I looked at the original [Google Group post](https://groups.google.com/forum/?hl=en#!msg/comp.lang.python/CCs2oJdyuzc/NYjla5HKMOIJ) where the Alex Martelli first described this concept.
 
