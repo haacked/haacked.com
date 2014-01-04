@@ -13,7 +13,7 @@ In a recent post, he asks the question, "[What is Duck Typing?](http://ericlippe
 For those of you too lazy to read it, I'll try and summarize crudely. He starts off with his definitions of "typing":
 
 > A __compile-time type system__ provides three things: first, rules for defining types, like "array of pointers to integer". Second, rules for logically deducing what type is associated with every expression, variable, method, property, and so on, in a program. And third, rules for determining what programs are legal or illegal based on the type of each entity. These types are used by the compiler to determine the legality of the program.
-
+> 
 > A __run-time type system__ provides three similar things: first, again, rules for defining types. Second, every object and storage location in the system is associated with a type. And third, rules for what sorts of objects can be stored in what sorts of storage locations. These types are used by the runtime to determine how the program executes, including perhaps halting it in the event of a violation of the rules.
 
 He continues with a description of structural typing that sounds like what he always thought "duck typing" referred to, but notes that his idea differs from the Wikipedia definition. As far as he can tell, the Wikipedia definition sounds like it's just describing Late Binding.
@@ -108,7 +108,7 @@ One observation I've heard is that "duck typing" sounds kind of like "duct tapin
 
 On the Appolo 13 mission, the crew was faced with a situation where carbon dioxide levels were rising to dangerous levels in the Lunar Module. They had plenty of filters, [but their square filters would not fit in the round  barrels that housed the filters](http://www.universetoday.com/63673/13-things-that-saved-apollo-13-part-10-duct-tape/). In other words, their square filters were the wrong type (whether dynamic or static). Their solution was to use duct tape to cobble something together that would work. It wasn't the solution intended by the original design, but as long as the final contraption acts like an air filter (duck typing), they would survive. And they did. Like I said, the analogy is a bit of as stretch, but I think it embodies the duck typing approach.
 
-Perhaps a better term is implicit typing. With explicit typing, you explicitly declare an object to be one type or another (whether at compile time or run time). With implicit typing, if it just happens to meet the needs of the consumer, then hey! It's a duck!
+Perhaps a better term is typing by usage. With explicit typing, you explicitly declare an object to be one type or another (whether at compile time or run time). With typing by usage, if it just happens to meet the needs of the consumer, then hey! It's a duck!
 
 For static typed languages, I really like the idea of structural typing. It provides a nice combination of type safety and flexibility. [Mark Rendle](http://blog.markrendle.net/), in the comments to Eric's blog post provides this observation:
 
