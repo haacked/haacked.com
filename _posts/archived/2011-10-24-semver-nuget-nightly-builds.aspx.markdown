@@ -6,16 +6,15 @@ comments: true
 disqus_identifier: 18821
 categories: [asp.net,nuget]
 ---
+
 Recently, a group of covert ninjas within my organization started to
 investigate what it would take to change our internal build and
 continuous integration systems (CI) to take advantage of
 [NuGet](http://nuget.org/ "NuGet Website") for many of our products,
 **and I need your input!**
 
-[![AskANinja11](http://haacked.com/images/haacked_com/Windows-Live-Writer/SemVer-and-Nightly-Builds_936F/AskANinja11_f5c89cab-0701-49d8-b269-8b22b93143ac.jpg "AskANinja11")](http://blip.tv/askaninja "Ask a Ninja")
-\
-*Hmm, off by one error slays me again. -Image from Ask A Ninja. Click on
-the image to visit.*
+[![Hmm, off by one error slays me again. -Image from Ask A Ninja. Click on
+the image to visit.](http://haacked.com/images/haacked_com/Windows-Live-Writer/SemVer-and-Nightly-Builds_936F/AskANinja11_f5c89cab-0701-49d8-b269-8b22b93143ac.jpg "AskANinja11")](http://blip.tv/askaninja "Ask a Ninja")
 
 Ok, they’re not really covert ninjas, that just sounds much cooler than
 a team of slightly pudgy software developers. Ok, they’ve told me to
@@ -197,7 +196,3 @@ page](http://nuget.codeplex.com/discussions/277189). I look forward to
 hearing your advice on how to handle this situation. Whatever we decide,
 we want to bake in first-class support into NuGet to make this sort of
 thing easier.
-
-Tags:
-[nuget](http://haacked.com/tags/nuget/default.aspx),[aspnet](http://haacked.com/tags/aspnet/default.aspx),[aspnetmvc](http://haacked.com/tags/aspnetmvc/default.aspx),[ci](http://haacked.com/tags/ci/default.aspx),[builds](http://haacked.com/tags/builds/default.aspx),[versioning](http://haacked.com/tags/versioning/default.aspx)
-
