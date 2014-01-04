@@ -61,9 +61,9 @@ class PetOwner:
     def take_care_of(arg):
         if behaves_like_duck(arg):
             #Pout lips and quack quack
-        elif if behaves_like_robot(arg):
+        elif behaves_like_robot(arg):
             #Domo arigato Mr. Roboto
-        elif if behaves_like_car(arg):
+        elif behaves_like_car(arg):
             #Vroom vroom vroom farfegnugen
 ``` 
 
@@ -80,14 +80,14 @@ I'd guess that code would look something like:
 ```python
 class PetOwner:
   def take_care_of(arg):
-    try
+    try:
       arg.walk()
       arg.quack()
-    catch
-      try
+    except:
+      try:
         arg.sense_danger_will_robinson()
         arg.dance_in_staccato_manner()
-      catch
+      except:
         arg.drive()
         arg.drift()
 ``` 
