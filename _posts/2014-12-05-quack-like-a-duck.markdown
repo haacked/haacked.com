@@ -57,7 +57,7 @@ end
 
 class Scientist
   def quack
-    PseduoScience.new
+    PseudoScience.new
   end
 end
 ```
