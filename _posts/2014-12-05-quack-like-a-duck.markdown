@@ -65,8 +65,8 @@ end
 The `Scientist` certainly quacks, but it doesn't quack like a duck.
 
 ```ruby
-func(Duck.new) // Works!
-func(Scientist.new) // Oops!
+func(Duck.new) // returns a MatchData object
+func(Scientist.new) // returns nil (match failed)
 ```
 
 I think that's one reason why the example in my previous post actually tries and call the method to ensure that the argument indeed quacks _like a duck_.
