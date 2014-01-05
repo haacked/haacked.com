@@ -51,7 +51,7 @@ And we have the following two classes.
 ```ruby
 class Duck
   def quack
-    return "quacketty quack quack"
+    "quacketty quack quack"
   end
 end
 
