@@ -40,9 +40,9 @@ Suppose we have the following client code.
 
 ```ruby
 def func(arg)
-  if arg.respond_to?(:quack)
-    /quack quack/.match(arg.quack)
-  end
+  return unless arg.respond_to?(:quack)
+  sound = arg.quack
+  /quack quack/.match(sound)
 end
 ```
 
