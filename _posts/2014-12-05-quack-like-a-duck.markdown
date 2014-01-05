@@ -26,7 +26,7 @@ Here's an example in Ruby.
 
 ```ruby
 def func(arg)
-  if arg.respond_to? :quack
+  if arg.respond_to?(:quack)
     arg.quack
   end
 end
@@ -41,7 +41,7 @@ Suppose we have the following client code.
 ```ruby
 def func(arg)
   if arg.respond_to?(:quack)
-    /quack quack/.match arg.quack
+    /quack quack/.match(arg.quack)
   end
 end
 ```
@@ -50,7 +50,7 @@ And we have the following two classes.
 
 ```ruby
 class Duck
-  def quack()
+  def quack
     return "quacketty quack quack"
   end
 end
@@ -65,8 +65,8 @@ end
 The `Scientist` certainly quacks, but it doesn't quack like a duck.
 
 ```ruby
-func Duck.new // Works!
-func Scientist.new // Oops!
+func(Duck.new) // Works!
+func(Scientist.new) // Oops!
 ```
 
 I think that's one reason why the example in my previous post actually tries and call the method to ensure that the argument indeed quacks _like a duck_.
