@@ -79,4 +79,6 @@ I think that's one reason why the example in my previous post actually tries and
 
 My guess is that in practice, conflicts like this where a method has the same name, but different type, is rare enough that Ruby and Python developers don't worry about it too much.
 
-Also, with such dynamic languages, it's possible to monkey patch an object to conform to the implicit contract if it doesn't match it exactly. Say if you have a `RobotDuck` you got from another library you didn't write and want to pass it in as a duck. 
+Also, with such dynamic languages, it's possible to monkey patch an object to conform to the implicit contract if it doesn't match it exactly. Say if you have a `RobotDuck` you got from another library you didn't write and want to pass it in as a duck.
+
+_Thanks to [GeekSam](https://github.com/geeksam) for reviewing my Ruby and Python idioms_.
