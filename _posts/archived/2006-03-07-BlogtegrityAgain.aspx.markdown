@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blogtegrity"
-date: 2006-03-06 -0800
+date: 2006-03-07 -0800
 comments: true
 disqus_identifier: 12009
 categories: []
