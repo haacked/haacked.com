@@ -5,11 +5,12 @@ date: 2006-03-06 -0800
 comments: false
 disqus_identifier: 12008
 ---
+
 Intro
 -----
 
 This is a statement about the integrity of this blog or its
-“blogtegrity”. See [this post](http://haacked.com/archive/2006/03/07/BlogtegrityAgain.aspx)
+“blogtegrity”. See [this post](http://haacked.com/archive/2006/03/07/BlogtegrityAgain.aspx/)
 for why I wrote this.
 
 This is a promise that the contents of this blog under my control are
