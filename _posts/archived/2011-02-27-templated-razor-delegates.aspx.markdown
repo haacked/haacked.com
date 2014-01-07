@@ -94,6 +94,6 @@ advantage of it.
 
 If you’re interested in how this feature works under the covers, check
 out [this blog
-post](http://vibrantcode.com/blog/2010/8/2/inside-razor-part-3-templates.html/ "Insider Razor Templates Part 3")
+post](http://vibrantcode.com/blog/2010/8/2/inside-razor-part-3-templates.html "Insider Razor Templates Part 3")
 by [Andrew Nurse](http://vibrantcode.com/blog/ "met friend co-worker").
 
