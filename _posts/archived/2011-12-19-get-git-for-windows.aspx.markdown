@@ -6,28 +6,18 @@ comments: true
 disqus_identifier: 18834
 categories: [git,code]
 ---
-My last post covered how to [improve your Git experience on Windows
-using PowerShell, Posh-Git, and
-PsGet](http://haacked.com/archive/2011/12/13/better-git-with-powershell.aspx "Better Git with PowerShell").
-However, a commenter reminded me that a lot of folks don’t know how to
-get Git for Windows in the first place.
+My last post covered how to [improve your Git experience on Windows using PowerShell, Posh-Git, and PsGet](http://haacked.com/archive/2011/12/13/better-git-with-powershell.aspx "Better Git with PowerShell").
+However, a commenter reminded me that a lot of folks don’t know how to get Git for Windows in the first place.
 
-And once you do get Git set up, how do you avoid getting prompted all
-the time for your credentials when you push changes back to your
-repository (or pull from a private repository)?
+And once you do get Git set up, how do you avoid getting prompted all the time for your credentials when you push changes back to your repository (or pull from a private repository)?
 
 I’ll answer both of those questions in this post.
 
 Install msysgit
 ---------------
 
-The first step is to install [Git for
-Windows](http://code.google.com/p/msysgit/ "msysgit") (aka msysgit). The
-full installer for [msysgit 1.7.8 is
-here](http://code.google.com/p/msysgit/downloads/detail?name=Git-1.7.8-preview20111206.exe&can=3&q=official+Git "Installer").
-For a detailed walkthrough of the setup steps, check out [GItHub’s
-Windows Setup
-walkthrough](http://help.github.com/win-set-up-git/ "Setting up Git for Windows").
+The first step is to install [Git for Windows](http://code.google.com/p/msysgit/ "msysgit") (aka msysgit). The
+full installer for [msysgit 1.7.8 is here](http://code.google.com/p/msysgit/downloads/detail?name=Git-1.7.8-preview20111206.exe&can=3&q=official+Git "Installer"). For a detailed walkthrough of the setup steps, check out [GItHub’s Windows Setup walkthrough](http://help.github.com/win-set-up-git/ "Setting up Git for Windows").
 It’s pretty straightforward. That’ll put Git.exe in your path so that
 [Posh-Git](https://github.com/dahlbyk/posh-git "Posh-Git on GitHub")
 will work.
@@ -56,25 +46,25 @@ Posh-Git by running the following command:
 Install-Module Posh-Git –force
 ```
 
-~~Unfortunately, at the time that I write this, the version of Posh-Git
+Unfortunately, at the time that I write this, the version of Posh-Git
 in PsGet does not support starting an SSH Agent. The good news is, the
-latest version of Posh-Git direct from~~[~~their GitHub
-repository~~](https://github.com/dahlbyk/posh-git "Posh-Git on GitHub")~~does
-support SSH Agent.~~
+latest version of Posh-Git direct from [their GitHub
+repository](https://github.com/dahlbyk/posh-git "Posh-Git on GitHub") does
+support SSH Agent.
 
-~~Since the previous step installed git.exe on my machine, all I needed
+Since the previous step installed git.exe on my machine, all I needed
 to do to get the latest version of Posh-Git is to clone the
-repository.~~
+repository.
 
 ```csharp
 git clone https://github.com/dahlbyk/posh-git.git
 ```
 
-~~This creates a folder named “posh-git” in the directory where you ran
+This creates a folder named “posh-git” in the directory where you ran
 the command. I then copied all the files in that folder into the place
-where PsGet installed posh-git. On my machine, that was:~~
+where PsGet installed posh-git. On my machine, that was:
 
-*~~C:\\Users\\Haacked\\Documents\\WindowsPowerShell\\Modules\\posh-git~~*
+*C:\\Users\\Haacked\\Documents\\WindowsPowerShell\\Modules\\posh-git*
 
 When I restarted my PowerShell prompt, it told me it could not start SSH
 Agent.
@@ -119,4 +109,3 @@ their example profile:
 That profile script is calling the `Start-SshAgent` command which is
 included with Posh-Git. If you don’t like their profile example, you can
 manually start ssh-agent by calling the `Start-SshAgent` command.
-
