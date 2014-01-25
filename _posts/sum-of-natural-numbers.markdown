@@ -1,6 +1,15 @@
-Recently, a couple of physicists blew a bunch of minds on the internet with their [video "proof"] that the sum of all natural numbers is -1/12 (or 0.833.. for you fraction haters).
+---
+layout: post
+title: "Fun with infinite sums"
+date: 2014-01-25 -0800
+comments: true
+categories: [math]
+---
+Recently an ["astounding result" from Numberphile](http://www.youtube.com/watch?v=w-I6XTVZXww) on Youtube made its way around the internet. In this video, a couple of physicists "prove" that sum of all natural numbers is `-1/12` (or 0.08333... for you fraction haters). That is, if you take `1 + 2 + 3 + ...` forever and ever, the eventual sum is a negative fraction. What?!
 
-This result, as you might expect, defies intuition. It turns out, that they played a bit fast and loose with the math, but there is a kernel of truth to what they did. Many much better mathematicians than me have explained the result, but I thought I'd have a bit of fun with it using computers because it's an interesting idea.
+This result defies intuition. But as we'll see, most results when dealing with infinities defy intuition.
+
+In this particular video, they seem to play a bit fast and loose with the math. But there is a kernel of truth to what they demonstrate. I thought it'd be fun to look at their result, throw some code at it, and explore it a bit. But first, I should warn you I am not a mathematician. I have some background in math, but some of the concepts I'll explore I don't have a firm grasp on and might make minor mistakes. Send me a pull request if you catch any!
 
 ## But first, an old mathematician vs physicist joke
 
@@ -22,14 +31,13 @@ A __partial sum__ is the sum of a finite portion of the sequence starting at the
 
 ## Infinite series with finite sums
 
-Let's look at an infinite series with a finite sum to prove this is possible. Intuitively, you'd expect that a series where each term approaches zero "faster" than they add to the sum could approach a finite number.
+Let's look at an infinite series with a finite sum to prove that such a thing is even possible. Intuition suggests that a series where each term approaches zero "fast enough" could result in a sum that is finite. The approach to zero just has to be "faster" than the growth via accumulation.
 
-
-The following is known as the Basel Series where each member of the sequence is `1/n^2`. In 1735, Leonhard Euler (pronounced "oiler", not "yuler" as I did during nearly my entire time as an undergraduate), at the tender young age of 28, famously gave a proof for the exact value of this series as `n` goes to infinity. If you have a math symbol fetish, you can go read [Euler's proof here](http://en.wikipedia.org/wiki/Basel_series#Euler.27s_approach).
+The following is known as the Basel Series where each member of the sequence is `1/n^2`. In 1735, Leonhard Euler (pronounced "oiler", not "yuler"), at the tender young age of 28, famously gave a proof for the exact value of this series as `n` goes to infinity. If you have a math symbol fetish, you can go read [Euler's proof here](http://en.wikipedia.org/wiki/Basel_series#Euler.27s_approach). There's enough Greek there to write a tragedy.
 
 ![sum-of-reciprocal-squares](https://f.cloud.github.com/assets/19977/1992154/a111bde6-84b2-11e3-8929-a974941b84eb.png)
 
-But lacking the brilliance of Euler, I'll write some code to show this convergence.
+Since I lack the brilliance of Euler, I'll write some code to demonstrate this convergence because I have COMPUTERS!
 
 The following method gets a partial sum of this series.
 
@@ -59,7 +67,7 @@ static void Main(string[] args)
 }
 ```
 
-This code keeps overwriting the previous result in the console. This allows you to see the values converging. The first few decimal places converge immediately. The further out you go in decimal places, the longer it takes for a value to converge. As we get closer to 1 million iterations, we're adding every smaller increments to the sum.
+The reason for the `SetCursorPosition` call is to have each successive result override the previous result. This way, you can watch the successive values change over time. The first few decimal places converge in a near instant. It takes longer for the further out decimal places. As we get closer to 1 million iterations, we're adding much smaller increments to the sum. If I could run this program with an infinite number of iterations, every position would eventually converge to a value. There's just an infinite number of them.
 
 ## Graph it
 
@@ -108,6 +116,8 @@ Ok, it's been a while, let's get back to the topic at hand.
 > _The physicist:_ it diverges!
 
 > _Polchinski:_ = -1/12
+
+Polchinksi was a string theorist.
 
 So what's the problem with the proof in the video? Well as we've seen, in order for a summation of a series to converge, the terms need to go to 0. But the first series they cover, Grandi's Series, does not converge!
 
@@ -164,15 +174,15 @@ private static IEnumerable<DataPoint> GetGrandiCesaroPartialSum(int n)
 }
 ```
 
-![grandi cesaro summation](https://f.cloud.github.com/assets/19977/1992343/1bef65ac-84ba-11e3-8057-f5b5e21f81e9.png)
+![grandi Cesàro summation](https://f.cloud.github.com/assets/19977/1992343/1bef65ac-84ba-11e3-8057-f5b5e21f81e9.png)
 
 That's kind of neat.
 
-But here's the thing, a Cesàro summation is not the same thing as a straightforward summation. You can think of it as a different property of a series. But the physicists in the video treat it like a normal summation as they perform various operations on it.
+But here's the thing, a Cesàro summation is not the same thing as a normal additive summation. You can think of its result as a different property of a series from the normal summation. But the physicists in the video treat it like a normal summation as they perform various operations on it.
 
-As an analogy, imagine that I show you two flat shapes and then provide a proof that the shapes cancel each other out and sum to 0 by subtracting the perimeter of one from the are of the other. You'd probably call foul on that.
+As an analogy, imagine that I show you two flat shapes and then provide a proof that the shapes cancel each other out by subtracting the perimeter of one from the area of the other. You'd probably call foul on that.
 
-While not a perfect analogy, that's pretty close to what the video shows because they treat the cesaro sum of the series as if it were a convergent series while they perform various operations to get to their result.
+While not a perfect analogy, that's pretty close to what the video shows because they treat the Cesàro sum of the series as if it were a convergent series while they perform various operations to get to their result.
 
 For example, at some point, they shift the series and start adding them. That might work for a convergent series, but not for divergent. 
 
@@ -198,33 +208,25 @@ So here we've proven that `0 = 1`. Mathematicians would call this a _reductio ad
 
 ## So how do you get -1/12?
 
-Ok, so these fellows are not stupid. While I disagree with the way they get to their result, they did literally point to an equation that shows the sum of natural numbers is `-1/12` in a book.
+While I disagree with the way they get to their result, these guys are not stupid. They did literally point to an equation that shows the sum of natural numbers is `-1/12` in a book.
 
 ![-508](https://f.cloud.github.com/assets/19977/2002324/6f786528-85ed-11e3-9147-7594771df0c9.png)
 
-IN A BOOK! Well it must be true then. Why the hell am I bothering with logic when it's in a book?
-
-But for shits and giggles, let's take a closer look at that equation.
-
-![riemann-normalization](https://f.cloud.github.com/assets/19977/2002358/fb931cdc-85ee-11e3-9fbd-0b8fbb552709.png)
-
-Notice there's an arrow rather than equality. Often that's used to indicate the limit of a series approaches some value. In a normal summation, if the series approaches a finite limit, an equals sign would be appropriate.
-
-Now here's where my math memory is hazy and I'd appreciate insight from those in the know, but my gut is that the arrow is used here to indicate some sort of transformation is taking place and that this is not a straightforward sum.
-
-In fact, you can see it in the text if you look closely. The book mentions a "renormalization."
+IN A BOOK! Well it must be true then. Why the hell am I bothering with logic when it's in a book? Well if you look closely at the text, you'll see it mentions something about a "[renormalization](http://en.wikipedia.org/wiki/Renormalization)."
 
 ## Riemann zeta function and analytic continuations.
 
-Much like a shape has different properties such as area, height, and weight, a summation can have different properties. Or more accurately, there are different approaches to summing a series. The one we're most familiar with is the standard arithmetic method where you just add the terms. That sum is just one property of the series. But there are others, such as the Cesàro summation. And as you might guess, different approaches to summation might have different areas where they are useful.
+As I mentioned earlier, much like a shape has different properties such as area, height, and weight, a summation can have different properties. Or more accurately, there are different approaches to summing a series.
 
-As I was working on this blog post, I learned that the Numberphile folks, who created the original video, produced [a follow-on video](http://www.youtube.com/watch?v=E-d9mgo8FGk) that shows an alternate proof that takes advantage of the [Riemann Zeta function](http://en.wikipedia.org/wiki/Riemann_zeta_function) and analytic continuations. 
+As I was working on this blog post, I learned that the Numberphile folks, who created the original video, produced [a follow-on video](http://www.youtube.com/watch?v=E-d9mgo8FGk) that shows an alternate proof that takes advantage of the [Riemann Zeta function](http://en.wikipedia.org/wiki/Riemann_zeta_function) and [analytic continuations](http://en.wikipedia.org/wiki/Analytic_continuation).
 
 ![riemann-zeta-function](https://f.cloud.github.com/assets/19977/2002454/838870a4-85f6-11e3-8988-c0a4164063e2.png)
 
 It's worth a watch. They get into how this applies to string theory.
 
-I won't pretend to fully understand any of it, nor what an analytic continuation is, but my instinct is it has to do with the fact that the Zeta function is originally defined for values of `n > 1`. At `n=1` it diverges. I believe the analytic continuation basically says "who cares? Let's continue this function across the divergence and see what happens."
+Analytic continuations are a technique to extend the domain of a function. Recall that a _domain_ is the range of allowed inputs into a function. These are the inputs for which the function provides a valid output. Inputs outside of the domain might diverge to infinity, for example.
+
+The Zeta function's domain is for values greater than 1. `Zeta(1)` diverges to infinity. But we (well not "we", but mathematicians who have a clue what they're doing) can apply analytic continuation to extend the Zeta function below 1 just to see what happens. Mathematicians like to live dangerously.
 
 When you plug in -1 to the zeta function, you get `-1/12`. By definition of the zeta function, that also happens to equal `1 + 2 + 3 + 4 + ...`. So the zeta function is another way to assign a finite value to this divergent series.
 
@@ -232,12 +234,14 @@ To visualize this, look at this graph of the zeta function here, it diverges at 
 
 ![zeta function graph from http://planet.racket-lang.org/package-source/williams/science.plt/3/1/planet-docs/science/special-functions.html](https://f.cloud.github.com/assets/19977/2002436/7d0a992e-85f5-11e3-83f2-3b0db9c15c40.png)
 
-In the original formulation of this function, Euler allowed for the exponents to be real numbers. Riemann took it further and generalized it to complex exponents. If you recall, a complex number is in the form of a real part added to an imaginary part. Another way to think of them are as coordinates on the complex plane. In that regard, it becomes easy to imagine a series that diverges in one direction, but converges in another.
+In the original formulation of this function, Euler allowed for the exponents to be real numbers. Riemann took it further and generalized it to complex exponents. If you recall, a complex number is in the form of a real part added to an imaginary part. Rather than worry about the implications of "imaginary" numbers, think of complex numbers as coordinates where the real part is the x-axis and the imaginary part is the y-axis. In that regard, it becomes easy to imagine a series that diverges in one axis, but converges in another.
 
 Graphing the Zeta function in this way produces some beautiful 3-D graphs as [seen on Wolfram Alpha](http://mathworld.wolfram.com/RiemannZetaFunction.html) and immortalized by XKCD.
 
 ![XKCD on Riemann Zeta - Creative Commons BY-NC 2.5](http://imgs.xkcd.com/comics/riemann-zeta.jpg)
 
-Incomprehensible is a good way to describe it. When you deal with infinite series, it's very hard for our intuition to grasp it. Our minds don't deal with infinity very well, but our math does. Sometimes trusting the math makes us doubt reality.
+Incomprehensible indeed! When you deal with infinite series, it's near impossible to have an intuitive handle on it. Our minds don't deal with infinity very well, but our math does.
 
-In any case, I hope you enjoyed this tour. I don't pretend to know much about math. I just found it fun to explore this problem with a little code and visualization.
+I hope you enjoyed this exploration. I don't pretend to know much about math. I just found it fun to explore this problem with a little code and visualization. If you're interested in the code and graphs, I have a [GitHub Repository](https://github.com/haacked/mathexperiments) with the code I used. 
+
+If you're looking for a practical use of this information, next time someone says they owe you money, just ask them if they'll accept an amount equal to the sum of all natural numbers. If they accept, send them a bill for `$-0.083`.
