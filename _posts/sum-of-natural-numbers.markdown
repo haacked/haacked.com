@@ -168,7 +168,11 @@ private static IEnumerable<DataPoint> GetGrandiCesaroPartialSum(int n)
 
 That's kind of neat.
 
-But here's the thing, a Cesàro summation is a different sort of thing than a straightforward summation. And in the video, the people treat it like a normal summation and perform some algebraic operations with it. That's not allowed. That's missing apples with oranges.
+But here's the thing, a Cesàro summation is not the same thing as a straightforward summation. You can think of it as a different property of a series. But the physicists in the video treat it like a normal summation as they perform various operations on it.
+
+As an analogy, imagine that I show you two flat shapes and then provide a proof that the shapes cancel each other out and sum to 0 by subtracting the perimeter of one from the are of the other. You'd probably call foul on that.
+
+While not a perfect analogy, that's pretty close to what the video shows because they treat the cesaro sum of the series as if it were a convergent series while they perform various operations to get to their result.
 
 For example, at some point, they shift the series and start adding them. That might work for a convergent series, but not for divergent. 
 
@@ -176,9 +180,64 @@ Here's a simple proof from [Quora](http://www.quora.com/Mathematics/Theoreticall
 
 ```
  S =   1 + 2 + 3 + 4 + 5...
--S = -(    1 + 2 + 3 + 4)...
+-S = -     1 + 2 + 3 + 4...
 ----------------------------
  0 =   1 + 1 + 1 + 1 + 1...
 ```
 
-Clearly, that's not true.
+Let's subtract it from itself again shifted over by one.
+
+```
+ 0 =   1 + 1 + 1 + 1 + 1...
+-0 = -     1 + 1 + 1 + 1...
+----------------------------
+ 0 =   1  
+```
+
+So here we've proven that `0 = 1`. Mathematicians would call this a _reductio ad absurdum_ which is latin for "that shit's cray!" The premise leads to an absurd result.
+
+## So how do you get -1/12?
+
+Ok, so these fellows are not stupid. While I disagree with the way they get to their result, they did literally point to an equation that shows the sum of natural numbers is `-1/12` in a book.
+
+![-508](https://f.cloud.github.com/assets/19977/2002324/6f786528-85ed-11e3-9147-7594771df0c9.png)
+
+IN A BOOK! Well it must be true then. Why the hell am I bothering with logic when it's in a book?
+
+But for shits and giggles, let's take a closer look at that equation.
+
+![riemann-normalization](https://f.cloud.github.com/assets/19977/2002358/fb931cdc-85ee-11e3-9fbd-0b8fbb552709.png)
+
+Notice there's an arrow rather than equality. Often that's used to indicate the limit of a series approaches some value. In a normal summation, if the series approaches a finite limit, an equals sign would be appropriate.
+
+Now here's where my math memory is hazy and I'd appreciate insight from those in the know, but my gut is that the arrow is used here to indicate some sort of transformation is taking place and that this is not a straightforward sum.
+
+In fact, you can see it in the text if you look closely. The book mentions a "renormalization."
+
+## Riemann zeta function and analytic continuations.
+
+Much like a shape has different properties such as area, height, and weight, a summation can have different properties. Or more accurately, there are different approaches to summing a series. The one we're most familiar with is the standard arithmetic method where you just add the terms. That sum is just one property of the series. But there are others, such as the Cesàro summation. And as you might guess, different approaches to summation might have different areas where they are useful.
+
+As I was working on this blog post, I learned that the Numberphile folks, who created the original video, produced [a follow-on video](http://www.youtube.com/watch?v=E-d9mgo8FGk) that shows an alternate proof that takes advantage of the [Riemann Zeta function](http://en.wikipedia.org/wiki/Riemann_zeta_function) and analytic continuations. 
+
+![riemann-zeta-function](https://f.cloud.github.com/assets/19977/2002454/838870a4-85f6-11e3-8988-c0a4164063e2.png)
+
+It's worth a watch. They get into how this applies to string theory.
+
+I won't pretend to fully understand any of it, nor what an analytic continuation is, but my instinct is it has to do with the fact that the Zeta function is originally defined for values of `n > 1`. At `n=1` it diverges. I believe the analytic continuation basically says "who cares? Let's continue this function across the divergence and see what happens."
+
+When you plug in -1 to the zeta function, you get `-1/12`. By definition of the zeta function, that also happens to equal `1 + 2 + 3 + 4 + ...`. So the zeta function is another way to assign a finite value to this divergent series.
+
+To visualize this, look at this graph of the zeta function here, it diverges at x = 1. But if you continue to the left pass the divergence, you can see finite values again.
+
+![zeta function graph from http://planet.racket-lang.org/package-source/williams/science.plt/3/1/planet-docs/science/special-functions.html](https://f.cloud.github.com/assets/19977/2002436/7d0a992e-85f5-11e3-83f2-3b0db9c15c40.png)
+
+In the original formulation of this function, Euler allowed for the exponents to be real numbers. Riemann took it further and generalized it to complex exponents. If you recall, a complex number is in the form of a real part added to an imaginary part. Another way to think of them are as coordinates on the complex plane. In that regard, it becomes easy to imagine a series that diverges in one direction, but converges in another.
+
+Graphing the Zeta function in this way produces some beautiful 3-D graphs as [seen on Wolfram Alpha](http://mathworld.wolfram.com/RiemannZetaFunction.html) and immortalized by XKCD.
+
+![XKCD on Riemann Zeta - Creative Commons BY-NC 2.5](http://imgs.xkcd.com/comics/riemann-zeta.jpg)
+
+Incomprehensible is a good way to describe it. When you deal with infinite series, it's very hard for our intuition to grasp it. Our minds don't deal with infinity very well, but our math does. Sometimes trusting the math makes us doubt reality.
+
+In any case, I hope you enjoyed this tour. I don't pretend to know much about math. I just found it fun to explore this problem with a little code and visualization.
