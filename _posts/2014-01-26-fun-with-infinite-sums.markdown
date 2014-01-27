@@ -15,6 +15,8 @@ In this particular video, they seem to play a bit fast and loose with the math. 
 
 ## But first, a joke
 
+There's another one later if you stick with it. 
+
 > A mathematician will call an infinite series convergent if its terms go to zero. A physicist will call it convergent if the first term is finite.
 
 This joke is funny to mathematicians because it pokes fun at the math ability of physicists. The joke is funny to me because it's wrong about the mathematician. Any decent mathematician knows that the terms going to zero is necessary, but not sufficient for the series to converge. For example, the terms of the harmonic series go to zero, but its sum is positive infinity.
