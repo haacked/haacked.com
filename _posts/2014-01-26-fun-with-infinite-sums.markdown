@@ -7,7 +7,7 @@ categories: [math]
 ---
 I'm kind of a fan of numbers. You might even say I'm a bit of a numberPHILe. You groan, but it's true. Numbers exhibit such interesting properties when you put them together.
 
-Recently an ["astounding result"](http://www.youtube.com/watch?v=w-I6XTVZXww) from the [Numberphile](http://www.numberphile.com/) folks (see, I'm not the only one) on Youtube made its way around the internet. In this video, a couple of physicists "prove" that sum of all natural numbers results in `-1/12` (or -0.08333... for you fraction haters). That is, if you take `1 + 2 + 3 + ...` and keep adding the next number forever, the eventual sum is a negative fraction. What you talking about Willis?!
+Recently an ["astounding result"](http://www.youtube.com/watch?v=w-I6XTVZXww) from the [Numberphile](http://www.numberphile.com/) folks (see, I'm not the only one) on Youtube made its way around the internet. In this video, a couple of physicists "prove" that sum of all natural numbers results in `-1/12` (or -0.08333... for you fraction haters). That is, if you take `1 + 2 + 3 + ...` and keep adding the next number forever, the eventual sum is a negative fraction. Whatchoo talkin' 'bout, Willis?!
 
 This result defies intuition. But as we'll see, most results when dealing with infinities defy intuition.
 
