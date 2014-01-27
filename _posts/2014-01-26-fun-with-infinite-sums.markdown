@@ -153,16 +153,14 @@ As you can see, that looks very different. There's no clear convergence to a sin
 
 So in the video, they mention that you could assign a value of `0.5` to this series. What they refer to is another way of assigning a sum to an infinite series. For example, a [Cesàro summation](http://en.wikipedia.org/wiki/Ces%C3%A0ro_summation) is an approach where you take the average of the _partial sums_. This is slightly confusing so let me clarify. As we saw, the partial sum is either 0 or 1 at every iteration. If we sum up those partial sums at each iteration and divide it by the iteration, we get the average. That's the Cesàro partial sum.
 
-<pre>
-| n | Sum | Sum of Partial Sums | Average = (Sum of Sums / n) |
-| - | --- | ------------------- | --------------------------- |
-| 1 |  1  |          1          |    1                        |
-| 2 |  0  |          1          |    1/2 = 0.5                |
-| 3 |  1  |          2          |    2/3 = 0.6666             |
-| 4 |  0  |          2          |    2/4 = 0.5                |
-| 5 |  1  |          3          |    3/5 = 0.6                |
-| 6 |  0  |          3          |    3/6 = 0.5                |
-</pre>
+| n   | Sum | Sum of Partial Sums | Average = (Sum of Sums / n) |
+| --- | --- | ------------------- | --------------------------- |
+| 1   |  1  | 1                   | 1                           |
+| 2   |  0  | 1                   | 1/2 = 0.5                   |
+| 3   |  1  | 2                   | 2/3 = 0.6666                |
+| 4   |  0  | 2                   | 2/4 = 0.5                   |
+| 5   |  1  | 3                   | 3/5 = 0.6                   |
+| 6   |  0  | 3                   | 3/6 = 0.5                   |
 
 As you can see, it appears to be converging to 0.5. So even though the Grandi series is divergent series and has an infinite sum, it is Cesàro summable and that sum is `0.5`.
 
