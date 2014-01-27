@@ -27,7 +27,7 @@ For those who need a refresher, it might help if I define what a sequence is and
 
 ## Definitions
 
-A __sequence__ is an _ordered_ list of elements. The elements can be anything that can be ordered such as a sequence of your family members ordered by how much you love them. For our purposes, we'll stick with numbers. A sequence can be finite or infinite. For infinite series, it's prudent to have some mathematical formula that tells you how to determine each member of the sequence rather than attempt to write them out by hand. I don't recommend this. Though it could come in handy if you every need to [disable an evil entity's control over your computer](http://en.wikipedia.org/wiki/Wolf_in_the_Fold) by keeping the computer busy.
+A __sequence__ is an _ordered_ list of elements. The elements can be anything that can be ordered such as a sequence of your family members ordered by how much you love them. For our purposes, we'll stick with numbers. A sequence can be finite or infinite. For infinite series, it's prudent to have some mathematical formula that tells you how to determine each member of the sequence rather than attempt to write them out by hand. I don't recommend this. Though it could come in handy if you ever need to [disable an evil entity's control over your computer](http://en.wikipedia.org/wiki/Wolf_in_the_Fold) by keeping the computer busy.
 
 A __series__ is simply the sum of the members of a sequence. Clearly finite series are finite. What often is counter intuitive is that an infinite series can also have a finite sum.
 
