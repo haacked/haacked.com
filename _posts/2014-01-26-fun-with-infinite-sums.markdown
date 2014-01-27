@@ -152,7 +152,7 @@ As you can see, that looks very different. There's no clear convergence to a sin
 So in the video, they mention that you could assign a value of `0.5` to this series. What they refer to is another way of assigning a sum to an infinite series. For example, a [Cesàro summation](http://en.wikipedia.org/wiki/Ces%C3%A0ro_summation) is an approach where you take the average of the _partial sums_. This is slightly confusing so let me clarify. As we saw, the partial sum is either 0 or 1 at every iteration. If we sum up those partial sums at each iteration and divide it by the iteration, we get the average. That's the Cesàro partial sum.
 
 | n | Sum | Sum of Partial Sums | Average = (Sum of Sums / n) |
-|---| --- | ------------------- | --------------------------- |
+| - | --- | ------------------- | --------------------------- |
 | 1 |  1  |          1          |    1                        |
 | 2 |  0  |          1          |    1/2 = 0.5                |
 | 3 |  1  |          2          |    2/3 = 0.6666             |
