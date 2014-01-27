@@ -29,9 +29,10 @@ For those who need a refresher, it might help if I define what a sequence is and
 
 A __sequence__ is an _ordered_ list of elements. The elements can be anything that can be ordered such as a sequence of your family members ordered by how much you love them. For our purposes, we'll stick with numbers. A sequence can be finite or infinite. For infinite series, it's prudent to have some mathematical formula that tells you how to determine each member of the sequence rather than attempt to write them out by hand. I don't recommend this. Though it could come in handy if you ever need to [disable an evil entity's control over your computer](http://en.wikipedia.org/wiki/Wolf_in_the_Fold) by keeping the computer busy.
 
-A __series__ is simply the sum of the members of a sequence. Clearly finite series are finite. What often is counter intuitive is that an infinite series can also have a finite sum.
-
 A __partial sum__ is the sum of a finite portion of the sequence starting at the beginning. In looking at the harmonic series, this is like plugging in a specific value for `n`. So in the case of `n = 1`, the partial sum is `1`. For `n = 2`, it's `1.5`. For `n = 10` it's a lot of addition.
+
+A __series__ is itself a sequence where each value represents the partial sum from `0` to `n`. A finite series will have a last term that represents the finite value that the series converges to. What often is counter intuitive is that an infinite series can also converge to a finite number as `n` goes to infinity. There's no last term (it's infinite), but we can use mathematical tools to determine the limit (the value the series approaches) for the series.
+
 
 ## Infinite series with finite sums
 
