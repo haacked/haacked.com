@@ -246,6 +246,6 @@ Graphing the Zeta function in this way produces some beautiful 3-D graphs as [se
 
 Incomprehensible indeed! When you deal with infinite series, it's near impossible to have an intuitive handle on it. Our minds don't deal with infinity very well, but our math does.
 
-I hope you enjoyed this exploration. I can't claim to know much about math, but I did find it fun to explore this idea with a bit of code and graphing. If you're interested in the code I used, check out my ["infinite sums" GitHub Repository](https://github.com/haacked/infinite-sums).
+I hope you enjoyed this exploration. I can't claim to know much about math, but I did find it fun to explore this idea with a bit of code and graphing. If you're interested in the code I used, check out my ["infinite sums" GitHub Repository](https://github.com/Haacked/fun-with-infinite-sums).
 
 If you're looking for a practical use of this information, did you miss the part where I said it was math? LOL! But seriously, I thought of one practical use apart from describing 26 dimensional vibrating strings. The next time someone says you owe them money, just ask them if they'll accept an amount equal to the sum of all natural numbers. If they accept, send them a bill for `$-0.083`.
