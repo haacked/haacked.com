@@ -68,7 +68,7 @@ I added the following code within the CSHTML file:
 <pre class="csharpcode"><code>
 <span class="asp">@*</span> Generator : Template TypeVisibility : Internal <span class="asp">*@</span>
 <span class="asp">@</span><span class="kwrd">functions</span> {
-  <span class="kwrd">public</span> dynamic&lt;/span&gt; Model { <span class="kwrd">get</span>; <span class="kwrd">set</span>; }
+  <span class="kwrd">public dynamic</span> Model { <span class="kwrd">get</span>; <span class="kwrd">set</span>; }
 }
 <span class="kwrd">&lt;</span><span class="html">ul</span><span class="kwrd">&gt;</span>
 <span class="asp">@</span><span class="kwrd">foreach</span> (<span class="kwrd">var</span> item <span class="kwrd">in</span> Model) {
