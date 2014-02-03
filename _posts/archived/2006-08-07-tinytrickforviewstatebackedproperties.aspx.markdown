@@ -4,7 +4,7 @@ title: "Tiny Trick For ViewState Backed Properties"
 date: 2006-08-07 -0800
 comments: true
 disqus_identifier: 14705
-categories: []
+categories: [aspnet]
 ---
 This might be almost too obvious for many of you, but I thought I’d
 share it anyways. Back in the day, this was the typical code I would
@@ -12,7 +12,19 @@ write for a value type property of an ASP.NET `Control` that was backed
 by the `ViewState`.
 
 ```csharp
-public bool WillSucceed{    get    {        if (ViewState["WillSucceed"] == null)            return false;        return (bool)ViewState["WillSucceed"];    }    set    {        ViewState["WillSucceed"] = value;    } }
+public bool WillSucceed
+{
+    get
+    {
+        if (ViewState["WillSucceed"] == null)
+            return false;
+        return (bool)ViewState["WillSucceed"];
+    }
+    set
+    {
+        ViewState["WillSucceed"] = value;
+    }
+}
 ```
 
 I have seen code that tried to avoid the null check in the getter by
@@ -26,7 +38,17 @@ With C\# 2.0 out, I figured I could use the null coalescing operator to
 produce cleaner code. Here is what I naively tried.
 
 ```csharp
-public bool WillSucceed{    get    {        return (bool)ViewState["WillSucceed"] ?? false;    }    set    {        ViewState["WillSucceed"] = value;    }}
+public bool WillSucceed
+{
+    get
+    {
+        return (bool)ViewState["WillSucceed"] ?? false;
+    }
+    set
+    {
+        ViewState["WillSucceed"] = value;
+    }
+}
 ```
 
 Well of course that won’t compile. It doesn’t make sense to apply the
@@ -37,7 +59,17 @@ dropped the issue. What an eeediot! All I had to do was move the cast
 outside of the expression.
 
 ```csharp
-public bool WillSucceed {    get    {        return (bool)(ViewState["WillSucceed"] ?? false);    }    set    {        ViewState["WillSucceed"] = value;    }}
+public bool WillSucceed
+{
+    get
+    {
+        return (bool)(ViewState["WillSucceed"] ?? false);
+    }
+    set
+    {
+        ViewState["WillSucceed"] = value;
+    }
+}
 ```
 
 I am probably the last one to realize this improvement and everyone
