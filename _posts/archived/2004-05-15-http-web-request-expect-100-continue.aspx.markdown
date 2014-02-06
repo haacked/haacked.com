@@ -29,7 +29,7 @@ through the source code for the System.Net.HttpWebRequest class. Aha!
 There it is. Within a private method named "MakeRequest()" are the
 following lines of code:
 
-```c#
+```csharp
 if (this._ExpectContinue && ((this._HttpWriteMode == HttpWriteMode.Chunked) || (this._ContentLength > ((long) 0))))
 {
     this._HttpRequestHeaders.AddInternal("Expect", "100-continue");
