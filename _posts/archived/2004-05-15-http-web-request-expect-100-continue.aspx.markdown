@@ -29,7 +29,12 @@ through the source code for the System.Net.HttpWebRequest class. Aha!
 There it is. Within a private method named "MakeRequest()" are the
 following lines of code:
 
-`if (this._ExpectContinue && ((this._HttpWriteMode == HttpWriteMode.Chunked) || (this._ContentLength > ((long) 0)))) {     this._HttpRequestHeaders.AddInternal("Expect", "100-continue"); }`
+```csharp
+if (this._ExpectContinue && ((this._HttpWriteMode == HttpWriteMode.Chunked) || (this._ContentLength > ((long) 0))))
+{
+    this._HttpRequestHeaders.AddInternal("Expect", "100-continue");
+}
+```
 
 So even if you try to remove the Expect header from the
 \_HttpRequestHeaders collection, the header will get added back when the
