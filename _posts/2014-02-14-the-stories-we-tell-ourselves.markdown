@@ -25,7 +25,7 @@ This thought experiment mirrors the ideas I wrote about in my post [Argue Well B
 When you change your narrative, you challenge your long held beliefs, biases, and prejudices. You realize that someone who holds a deep belief that's antithetical to your own, is a "good person" in their own mind. And in their narrative, you, who attempts to refute their belief, is "the bad guy."
 
 This can lead to mutual understanding. Perhaps you still want to change their mind, but the tactics you take might change. Rather than go on the attack as your only option, you might look for ways to mitigate their concerns.
-You might help them see that those who oppose their beliefs are not the "bad guys." A great example of this approach is in this post [The Distress of the Privilege](http://weeklysift.com/2012/09/10/the-distress-of-the-privileged/).
+You might help them see that those who oppose their beliefs are not the "bad guys." A great example of this approach is in this post [The Distress of the Privileged](http://weeklysift.com/2012/09/10/the-distress-of-the-privileged/).
 
 > Privileged distress. I’m not bringing this up just to discuss old movies. As the culture evolves, people who benefitted from the old ways invariably see themselves as victims of change. The world used to fit them like a glove, but it no longer does. Increasingly, they find themselves in unfamiliar situations that feel unfair or even unsafe. Their concerns used to take center stage, but now they must compete with the formerly invisible concerns of others.
 
