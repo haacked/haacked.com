@@ -12,20 +12,20 @@ Here's an interesting thought experiment to try once in a while. Like Walter, tu
 
 ![heisenberg: hero or villain? By Alejandro Garcia CC BY-ND 3.0](https://f.cloud.github.com/assets/19977/2177150/d201b252-95fc-11e3-8af5-7fbe62f179fe.jpg)
 
-Yesterday, as I drove my family to work and school, a driver cut me off as he drifted across two lanes to get into the left lane. This forced me to hit the brakes to avoid him. I pulled up next to his car and glared over, but he did to not look back.
+Yesterday, as I drove my family to work and school, a driver cut me off as he drifted across two lanes to get into the left lane. This forced me to hit the brakes to avoid him. I pulled up next to his car and glared over, but he did not look back.
 
 The running narrative in my head assimilated this into the story. This young punk was oblivious to what's going around him. He's a bad driver and a bad person.
 
 But I had this sudden epiphany. What if I were the villain in this story? It did seem this guy had just pulled into the right lane from another street and he needed to get to the left lane so he could get on the freeway. Was I perhaps going a bit over the speed limit? (The answer to that is usually yes.)
 
-In this alternative narrative, I was the aggressor. I sped along and did not allow this innocent person make it over to the turn lane. It made me realize that I've been in his shoes before. And many times I label the drive who approaches too fast as the bad guy when I try to change lanes. I couldn't have been in the right in every situation, could I?
+In this alternative narrative, I was the aggressor. I sped along and did not allow this innocent person make it over to the turn lane. It made me realize that I've been in his shoes before. And many times I label the driver who approaches too fast as the bad guy when I try to change lanes. I couldn't have been in the right in every situation, could I?
 
 This thought experiment mirrors the ideas I wrote about in my post [Argue Well By Losing](http://haacked.com/archive/2013/10/21/argue-well-by-losing.aspx/). The difference is the techniques I wrote about in that post apply when you're in the midst of a debate. This technique is for more contemplative moments.
 
 When you change your narrative, you challenge your long held beliefs, biases, and prejudices. You realize that someone who holds a deep belief that's antithetical to your own, is a "good person" in their own mind. And in their narrative, you, who attempts to refute their belief, is "the bad guy."
 
 This can lead to mutual understanding. Perhaps you still want to change their mind, but the tactics you take might change. Rather than go on the attack as your only option, you might look for ways to mitigate their concerns.
-You might help them see that those who oppose their beliefs are not the "bad guys." A great example of this approach is in this post [The Distress of the Privilege](http://weeklysift.com/2012/09/10/the-distress-of-the-privileged/).
+You might help them see that those who oppose their beliefs are not the "bad guys." A great example of this approach is in this post [The Distress of the Privileged](http://weeklysift.com/2012/09/10/the-distress-of-the-privileged/).
 
 > Privileged distress. I’m not bringing this up just to discuss old movies. As the culture evolves, people who benefitted from the old ways invariably see themselves as victims of change. The world used to fit them like a glove, but it no longer does. Increasingly, they find themselves in unfamiliar situations that feel unfair or even unsafe. Their concerns used to take center stage, but now they must compete with the formerly invisible concerns of others.
 
