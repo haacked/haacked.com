@@ -18,7 +18,7 @@ The running narrative in my head assimilated this into the story. This young pun
 
 But I had this sudden epiphany. What if I were the villain in this story? It did seem this guy had just pulled into the right lane from another street and he needed to get to the left lane so he could get on the freeway. Was I perhaps going a bit over the speed limit? (The answer to that is usually yes.)
 
-In this alternative narrative, I was the aggressor. I sped along and did not allow this innocent person make it over to the turn lane. It made me realize that I've been in his shoes before. And many times I label the drive who approaches too fast as the bad guy when I try to change lanes. I couldn't have been in the right in every situation, could I?
+In this alternative narrative, I was the aggressor. I sped along and did not allow this innocent person make it over to the turn lane. It made me realize that I've been in his shoes before. And many times I label the driver who approaches too fast as the bad guy when I try to change lanes. I couldn't have been in the right in every situation, could I?
 
 This thought experiment mirrors the ideas I wrote about in my post [Argue Well By Losing](http://haacked.com/archive/2013/10/21/argue-well-by-losing.aspx/). The difference is the techniques I wrote about in that post apply when you're in the midst of a debate. This technique is for more contemplative moments.
 
