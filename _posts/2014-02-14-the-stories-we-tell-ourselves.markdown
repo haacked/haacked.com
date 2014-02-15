@@ -6,7 +6,7 @@ comments: true
 categories: [personal]
 ---
 
-Everyone is the protagonist of their own narrative. And in this narrative, it's only natural to see ourselves as the "good guy" of the story.
+Everyone is the protagonist of their own narrative. And in this narrative, it's only natural to see ourselves as the proverbial "good guy" of the story.
 
 Here's an interesting thought experiment to try once in a while. Turn this narrative on its head and imagine that you are the villain of your own narrative instead. What lessons would that provide?
 
