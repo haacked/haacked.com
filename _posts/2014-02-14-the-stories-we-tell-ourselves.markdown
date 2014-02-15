@@ -6,9 +6,9 @@ comments: true
 categories: [personal]
 ---
 
-Everyone is the protagonist of their own narrative. And in this narrative, it's only natural to see ourselves as the proverbial "good guy" of the story.
+Everyone is the protagonist of their own narrative. And in this narrative, it's only natural to see ourselves as the proverbial "good guy" of the story. We tend to rationalize our own actions as necessary or positive, much like Walter White until _spoiler alert_ the end of Breaking Bad.
 
-Here's an interesting thought experiment to try once in a while. Turn this narrative on its head and imagine that you are the villain of your own narrative instead. What lessons would that provide?
+Here's an interesting thought experiment to try once in a while. Like Walter, turn this narrative on its head and imagine that you are the villain of your own narrative instead. What lessons would that provide?
 
 ![heisenberg: hero or villain? By Alejandro Garcia CC BY-ND 3.0](https://f.cloud.github.com/assets/19977/2177150/d201b252-95fc-11e3-8af5-7fbe62f179fe.jpg)
 
