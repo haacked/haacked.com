@@ -12,7 +12,7 @@ Here's an interesting thought experiment to try once in a while. Turn this narra
 
 ![heisenberg: hero or villain? By Alejandro Garcia CC BY-ND 3.0](https://f.cloud.github.com/assets/19977/2177150/d201b252-95fc-11e3-8af5-7fbe62f179fe.jpg)
 
-Yesterday, as I drove my family to work and school, a driver cut me off as he drifted across two lanes to get into the left lane. This forced me to hit the brakes to avoid him. I pulled up next to his car and glared over, but he did to not look back.
+Yesterday, as I drove my family to work and school, a driver cut me off as he drifted across two lanes to get into the left lane. This forced me to hit the brakes to avoid him. I pulled up next to his car and glared over, but he did not look back.
 
 The running narrative in my head assimilated this into the story. This young punk was oblivious to what's going around him. He's a bad driver and a bad person.
 
