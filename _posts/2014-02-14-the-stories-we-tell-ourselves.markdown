@@ -33,6 +33,6 @@ You might help them see that those who oppose their beliefs are not the "bad guy
 
 > Tempting, but also, I think, a mistake. The privileged are still privileged enough to foment a counter-revolution, if their frustrated sense of entitlement hardens.
 
-Note that this doesn't mean you excuse the marginalization of others by the privileged. It means you gain an understand of what's going on in their heads. How they rationalize it with the narrative that they are a good person.
+Note that this doesn't mean you excuse the marginalization of others by the privileged. It means you gain an understanding of what's going on in their heads. How they rationalize it with the narrative that they are a good person.
 
 Unfortunately, this doesn't make for "good politics." Loud extremists create an environment where politicians feel pressure to form rigid views with no wiggle room. But the rest of us don't have to wallow in that bullshit. We can realize we're all the good guys of our own narratives just trying to live decent lives, even if we disagree on how to do that.
