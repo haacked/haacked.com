@@ -6,13 +6,13 @@ comments: true
 categories: [jekyll]
 ---
 
-If you lead a charmed life, most of your merges will be clean. Meaning that when you merge one branch into another, there are no conflicts.
+Git does a pretty amazing job when it merges one branch into another. On a typical project, it can merge without conflicts most of the time. But it's inevitable that two branches will contain changes that conflict with each other such as when two developers commit different changes to the same line of code.
 
-But I don't live in that fairy tale land. From time to time, a merge will result in a conflict and I'll have to resolve those conflicts as part of the merge commit.
+In a fairy tale world with rainbow skittles and peanut butter butterflies, the work to resolve these conflicts is always minimal. But in the real world, where it rains a lot, some conflicts will be gnarly and require a lot of work to resolve. This is especially true with long running branches that deviate from the main branch in significant ways. This is one reason it's a good practice to merge often. It's also a good practice to try and avoid long running branches when possible by doing work in small iterations.
 
-If you stick to small iterative branches, this usually won't be so bad. But from time to time, it's unavoidable that you will have a long running branch you need to merge into another that will require significant work in order to resolve the conflicts. 
+But even following these practices, once in a while a long running branch or major merge conflict is unavoidable. Git happens.
 
-Any time you have significant work, you should have others review that code in a pull request. When my team is in this situation, we actually push the merge commit into its own branch.
+The work to resolve such a conflict is itself a significant piece of work. And any time you have significant work, others should review that code in a pull request. When my team is in this situation, we actually push the merge commit into its own branch.
 
 For example, suppose I want to merge the `master` branch into a branch named `long-running-branch`. I'll create a new branch named something like `merge-master-into-long-running-branch`. I'll then perform the merge in that branch (when I am resolving a gnarly merge my outbursts can be rightly described as a performance). When I'm done and everything is working, I'll push that new branch to GitHub and create a pull request from it for others to review.
 
@@ -21,7 +21,7 @@ In git that looks like:
 ```bash
 git checkout long-running-branch
 git checkout -b merge-master-into-long-running-branch
-git merge master
+git merge master _# Lots of work to resolve the conflicts_
 git push origin merge-master-into-long-running-branch
 ```
 
