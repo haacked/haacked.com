@@ -26,7 +26,7 @@ In git that looks like:
 ```bash
 git checkout long-running-branch
 git checkout -b merge-master-into-long-running-branch
-git merge master _# Lots of work to resolve the conflicts_
+git merge master # Lots of work to resolve the conflicts
 git push origin merge-master-into-long-running-branch
 ```
 
