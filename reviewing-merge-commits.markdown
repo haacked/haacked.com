@@ -15,7 +15,7 @@ Git can only do so much to resolve conflicts. If two developers change the same 
 
 The impact of merge conflicts can be mitigated by doing work in small iterations and merging often. But even so, the occasional long running branch and gnarly merge conflict are unavoidable.
 
-Often, we treat the work to resolve a merge conflict as trivial. But in reality, with a major merge conflict, it may take a significant amonut of work to resolve it. And any time there is significant work, others should probably review that code in a pull request.
+Often, we treat the work to resolve a merge conflict as trivial. But in reality, with a major merge conflict, it may take a significant amonut of work to resolve it. And any time there is significant work, others should probably review that code in a pull request (PR for short).
 
 When my team is in this situation, we actually push the merge commit into its own branch and send a pull request.
 
@@ -34,7 +34,7 @@ The first command just makes sure I'm in the `long-running-branch`. The second c
 
 That way, someone can do a quick review to make sure the merge doesn't break anything and merge it in.
 
-However, this runs into some problems as articulated by my quotable co-worker [Paul Betts](http://paulbetts.org/). In a recent merge commit PR that I sent, he made the following comment shortly before merging my PR.
+However, this runs into some problems as articulated by my quotable co-worker [Paul Betts](http://paulbetts.org/). In a recent merge commit PR that I sent, he made the following comment just before he merged my PR.
 
 ![I have no idea how to review a merge commit](https://f.cloud.github.com/assets/19977/2236359/c3c993ee-9b5b-11e3-8fc3-63c364ca3f08.png)
 
