@@ -15,7 +15,7 @@ Git can only do so much to resolve conflicts. If two developers change the same 
 
 The impact of merge conflicts can be mitigated by doing work in small iterations and merging often. But even so, the occasional long running branch and gnarly merge conflict are unavoidable.
 
-Often, we treat the work to resolve a merge conflict as trivial. But in reality, with a major merge conflict, it may take a significant amonut of work to resolve it. And any time there is significant work, others should probably review that code in a pull request (PR for short).
+Often, we treat the work to resolve a merge conflict as trivial. But in reality, with a major merge conflict, it may take a significant amonut of work to resolve it. And any time there is significant work, others should probably review that code in a pull request (PR for short). After all, a bad merge conflict resolution could introduce or reintroduce subtle bugs that were presumed to be fixed already.
 
 When my team is in this situation, we actually push the merge commit into its own branch and send a pull request.
 
