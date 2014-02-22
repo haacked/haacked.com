@@ -29,7 +29,7 @@ The first command just makes sure I'm in the `long-running-branch`. The second c
 
 That way, someone can do a quick review to make sure the merge doesn't break anything and merge it in.
 
-However, this runs into some problems as articulated by my co-worker Paul after merging my merge PR.
+However, this runs into some problems as articulated by my quotable co-worker [Paul Betts](http://paulbetts.org/) after merging my merge PR.
 
 ![how do you review a merge conflict](https://f.cloud.github.com/assets/19977/2236359/c3c993ee-9b5b-11e3-8fc3-63c364ca3f08.png)
 
