@@ -64,7 +64,7 @@ So how do we see only the lines that changed as part of the conflict resolution?
 git diff-tree --cc cc5b002a
 ```
 
-You can see the output [in this gist](https://gist.github.com/Haacked/9160205). Notice how much less there is there compared to the output of the merge commit.
+You can see the output [in this gist](https://gist.github.com/Haacked/9160205). Notice how much less there is there compared to the [full diff of the merge commit](https://github.com/SignalR/SignalR/commit/cc5b002a5140e2d60184de42554a8737981c846c).
 
 If we look at the [`git diff-tree` documentation](http://git-scm.com/docs/git-diff-tree), we can see that the `--cc` flag is the one that's interesting to us.
 
