@@ -47,7 +47,7 @@ Well my hero [Russell Belfer](https://github.com/arrbee) (no blog, but he's [@ar
 
 For the following discussion, let's use [this merge commit](https://github.com/SignalR/SignalR/commit/cc5b002a5140e2d60184de42554a8737981c846c) from the SignalR project as an example. This merge commit merges their `release` branch into their `dev` branch. The SHA for this commit is `cc5b002a5140e2d60184de42554a8737981c846c` which is pretty easy to remember but to be fair to those with drug addled brains, I'll use `cc5b002a` as a shorthand to reference this commit.
 
-Recall that any given merge commit will have two or more parents. Typically though, we're dealing with just two as in this case.
+Recall that when you merge one branch into another, a new merge commit is created that points to both branches. In fact, a merge commit may have two or more parents as it's possible to merge multiple branches into one at the same time. But in most cases, as the one we have here, a merge commit has exactly two parents.
 
 You can use git diff to look at either side of the merge. For example:
 
@@ -56,7 +56,7 @@ git diff cc5b002a^1 cc5b002a
 git diff cc5b002a^2 cc5b002a
 ```
 
-Recall that the `^` caret is used to denote which parent of a commit we want to look at. So `^1` is the first parent. `^2` is the second parent.
+Recall that the `^` caret is used to denote which parent of a commit we want to look at. So `^1` is the first parent, `^2` is the second parent, and so on.
 
 So how do we see only the lines that changed as part of the conflict resolution?
 
