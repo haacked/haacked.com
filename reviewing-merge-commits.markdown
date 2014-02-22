@@ -55,18 +55,22 @@ Recall that the `^` caret is used to denote which parent of a commit we want to 
 So how do we see only the lines that changed as part of the conflict resolution?
 
 ```bash
-git log -1 -p --cc cc5b002a
+git diff-tree --cc cc5b002a
 ```
 
-If we look at the [documentation `git log`](https://www.kernel.org/pub/software/scm/git/docs/git-log.html#_diff_formatting), we can see that the `--cc` flag is the one that's interesting to us.
+You can see the output [in this gist](https://gist.github.com/Haacked/9160205). Notice how much less there is there compared to the output of the merge commit.
+
+If we look at the [`git diff-tree` documentation](http://git-scm.com/docs/git-diff-tree), we can see that the `--cc` flag is the one that's interesting to us.
 
 > --cc
-> This flag implies the -c option and further compresses the patch output by omitting uninteresting hunks whose contents in the parents have only two variants and the merge result picks one of them without modification.
+> This flag changes the way a merge commit patch is displayed, in a similar way to the -c option. It implies the -c and -p options and further compresses the patch output by omitting uninteresting hunks whose the contents in the parents have only two variants and the merge result picks one of them without modification. When all hunks are uninteresting, the commit itself and the commit log message is not shown, just like in any other "empty diff" case.
 
-Well, it probably helps to look at `-c` too then.
+Since the `--cc` option describes itself in terms of the `-c` option, let's look at that too.
 
 > -c
-> With this option, diff output for a merge commit shows the differences from each of the parents to the merge result simultaneously instead of showing pairwise diff between a parent and the result one at a time. Furthermore, it lists only files which were modified from all parents.
+> This flag changes the way a merge commit is displayed (which means it is useful only when the command is given one <tree-ish>, or --stdin). It shows the differences from each of the parents to the merge result simultaneously instead of showing pairwise diff between a parent and the result one at a time (which is what the -m option does). Furthermore, it lists only files which were modified from all parents.
+
+The `-p` option mentioned generates a patch output rather than a normal diff output.
 
 In other words, this will show us ONLY what's different in this commit from all of the parents of this commit. If there were no conflicts, this would be empty.
 
