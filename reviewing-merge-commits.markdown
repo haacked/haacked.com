@@ -78,7 +78,7 @@ Since the `--cc` option describes itself in terms of the `-c` option, let's look
 
 The `-p` option mentioned generates a patch output rather than a normal diff output.
 
-In other words, this will show us ONLY what's different in this commit from all of the parents of this commit. If there were no conflicts, this would be empty.
+If you're not well versed in Git (and perhaps even if you are) that's a mouthful to read and a bit hard to fully understand what it's saying. But the outcome of the flag is simple. This option displays ONLY what is different in this commit from all of the parents of this commit. If there were no conflicts, this would be empty. In other words, it shows us what changed in order to resolve the merge conflict, if anything.
 
 This is a handy way to help focus your review on exactly what changed. There have been many times where a bad merge conflict resolution introduced bugs or regressions into a code base. So I hope you find this useful. Go review some code!
 
