@@ -6,13 +6,18 @@ comments: true
 categories: [jekyll]
 ---
 
-Git does a pretty amazing job when it merges one branch into another. On a typical project, it can merge without conflicts most of the time. But it's inevitable that two branches will contain changes that conflict with each other such as when two developers commit different changes to the same line of code.
+Git does a pretty amazing job when it merges one branch into another. On a typical project, it can merge without conflicts most of the time. In a fairy tale world with rainbow skittles and peanut butter butterflies, every merge would be without conflict.
+But we live in the real world where it rains a lot and where merge conflicts are an inevitable fact of life.
 
-In a fairy tale world with rainbow skittles and peanut butter butterflies, the work to resolve these conflicts is always minimal. But in the real world, where it rains a lot, some conflicts will be gnarly and require a lot of work to resolve. This is especially true with long running branches that deviate from the main branch in significant ways. This is one reason it's a good practice to merge often. It's also a good practice to try and avoid long running branches when possible by doing work in small iterations.
+![Dhaka traffic - by Ranveig Thatta license CC BY 2.0](https://f.cloud.github.com/assets/19977/2239004/c8908f52-9c0c-11e3-855e-366c67a0abc9.jpg)
 
-But even following these practices, once in a while a long running branch or major merge conflict is unavoidable. Git happens.
+Git can only do so much to resolve conflicts. If two developers change the same line of code in different ways, someone has to figure out what the end result should be. That can't be done automatically.
 
-The work to resolve such a conflict is itself a significant piece of work. And any time you have significant work, others should review that code in a pull request. When my team is in this situation, we actually push the merge commit into its own branch.
+The impact of merge conflicts can be mitigated by doing work in small iterations and merging often. But even so, the occasional long running branch and gnarly merge conflict are unavoidable.
+
+Often, we treat the work to resolve a merge conflict as trivial. But in reality, with a major merge conflict, it may take a significant amonut of work to resolve it. And any time there is significant work, others should probably review that code in a pull request.
+
+When my team is in this situation, we actually push the merge commit into its own branch and send a pull request.
 
 For example, suppose I want to merge the `master` branch into a branch named `long-running-branch`. I'll create a new branch named something like `merge-master-into-long-running-branch`. I'll then perform the merge in that branch (when I am resolving a gnarly merge my outbursts can be rightly described as a performance). When I'm done and everything is working, I'll push that new branch to GitHub and create a pull request from it for others to review.
 
@@ -29,9 +34,9 @@ The first command just makes sure I'm in the `long-running-branch`. The second c
 
 That way, someone can do a quick review to make sure the merge doesn't break anything and merge it in.
 
-However, this runs into some problems as articulated by my quotable co-worker [Paul Betts](http://paulbetts.org/) after merging my merge PR.
+However, this runs into some problems as articulated by my quotable co-worker [Paul Betts](http://paulbetts.org/) recently. In a recent merge commit PR that I sent, he made the following comment shortly before merging my PR.
 
-![how do you review a merge conflict](https://f.cloud.github.com/assets/19977/2236359/c3c993ee-9b5b-11e3-8fc3-63c364ca3f08.png)
+![I have no idea how to review a merge commit](https://f.cloud.github.com/assets/19977/2236359/c3c993ee-9b5b-11e3-8fc3-63c364ca3f08.png)
 
 The problem he alludes to is that when you merge one branch into another, the diff of that merge commit will show every change since the last merge. For the most part, that's all code that's already been reviewed and doesn't need to be reviewed again.
 
