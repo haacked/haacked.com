@@ -80,7 +80,7 @@ The `-p` option mentioned generates a patch output rather than a normal diff out
 
 If you're not well versed in Git (and perhaps even if you are) that's a mouthful to read and a bit hard to fully understand what it's saying. But the outcome of the flag is simple. This option displays ONLY what is different in this commit from all of the parents of this commit. If there were no conflicts, this would be empty. But if there were conflicts, it shows us what changed in order to resolve the conflicts.
 
-This is a handy way to help focus your review on exactly what changed. There have been many times where a bad merge conflict resolution introduced bugs or regressions into a code base. So I hope you find this useful. Go review some code!
+As I mentioned earlier, the work to resolve a merge conflict could itself introduce bugs. This technique provides a handy tool to help focus a code review on those changes and reduce the risk of bugs. Now go review some code!
 
 Note, if you're wondering how I found this example commit, I ran `git log --min-parents=2 -p --cc` and looked for a commit with a diff.
 
