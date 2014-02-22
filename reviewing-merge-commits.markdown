@@ -6,7 +6,7 @@ comments: true
 categories: [jekyll]
 ---
 
-Git does a pretty amazing job when it merges one branch into another. On a typical project, it can merge without conflicts most of the time. In a fairy tale world with rainbow skittles and peanut butter butterflies, every merge would be without conflict.
+Git does a pretty amazing job when it merges one branch into another. Most of the time, it merges without conflict. In a fairy tale world with rainbow skittles and peanut butter butterflies, _every_ merge would be without conflict.
 But we live in the real world where it rains a lot and where merge conflicts are an inevitable fact of life.
 
 ![Dhaka traffic - by Ranveig Thatta license CC BY 2.0](https://f.cloud.github.com/assets/19977/2239004/c8908f52-9c0c-11e3-855e-366c67a0abc9.jpg)
