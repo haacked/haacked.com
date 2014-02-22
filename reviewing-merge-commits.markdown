@@ -45,7 +45,7 @@ What you really want to look at is whether there were conflicts and what shenani
 
 Well my hero [Russell Belfer](https://github.com/arrbee) (no blog, but he's [@arrbee on Twitter](https://twitter.com/arrbee)) to the rescue! He works on [LibGit2](https://github.com/libgit2/libgit2) so as you'd expect, he knows a thing or two about how Git works.
 
-For the following discussion, let's use [this merge commit](https://github.com/SignalR/SignalR/commit/cc5b002a5140e2d60184de42554a8737981c846c) from the SignalR project as an example. This merge commit merges their `release` branch into their `dev` branch. The SHA for this commit is cc5b002a5140e2d60184de42554a8737981c846c but I'll use cc5b002a for short.
+For the following discussion, let's use [this merge commit](https://github.com/SignalR/SignalR/commit/cc5b002a5140e2d60184de42554a8737981c846c) from the SignalR project as an example. This merge commit merges their `release` branch into their `dev` branch. The SHA for this commit is `cc5b002a5140e2d60184de42554a8737981c846c` which is pretty easy to remember but to be fair to those with drug addled brains, I'll use `cc5b002a` as a shorthand to reference this commit.
 
 Recall that any given merge commit will have two or more parents. Typically though, we're dealing with just two as in this case.
 
