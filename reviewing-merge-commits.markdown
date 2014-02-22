@@ -45,9 +45,9 @@ What you really want to look at is whether there were conflicts and what shenani
 
 Well my hero [Russell Belfer](https://github.com/arrbee) (no blog, but he's [@arrbee on Twitter](https://twitter.com/arrbee)) to the rescue! He works on [LibGit2](https://github.com/libgit2/libgit2) so as you'd expect, he knows a thing or two about how Git works.
 
-For the following discussion, let's use [this merge commit](https://github.com/SignalR/SignalR/commit/cc5b002a5140e2d60184de42554a8737981c846c) from the SignalR project as an example. This merge commit merges their `release` branch into their `dev` branch. The SHA for this commit is `cc5b002a5140e2d60184de42554a8737981c846c` which is pretty easy to remember but to be fair to those with drug addled brains, I'll use `cc5b002a` as a shorthand to reference this commit.
+Recall that when you merge one branch into another, a new merge commit is created that points to both branches. In fact, a merge commit may have two or more parents as it's possible to merge multiple branches into one at the same time. But in most cases a merge commit has exactly two parents.
 
-Recall that when you merge one branch into another, a new merge commit is created that points to both branches. In fact, a merge commit may have two or more parents as it's possible to merge multiple branches into one at the same time. But in most cases, as the one we have here, a merge commit has exactly two parents.
+Let's look at an example of [such a merge commit](https://github.com/SignalR/SignalR/commit/cc5b002a5140e2d60184de42554a8737981c846c) from the SignalR project. This commit merges their `release` branch into their `dev` branch. The SHA for this commit is `cc5b002a5140e2d60184de42554a8737981c846c` which is pretty easy to remember but to be fair to those with drug addled brains, I'll use `cc5b002a` as a shorthand to reference this commit.
 
 You can use git diff to look at either side of the merge. For example:
 
