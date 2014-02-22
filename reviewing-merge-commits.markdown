@@ -82,6 +82,6 @@ If you're not well versed in Git (and perhaps even if you are) that's a mouthful
 
 As I mentioned earlier, the work to resolve a merge conflict could itself introduce bugs. This technique provides a handy tool to help focus a code review on those changes and reduce the risk of bugs. Now go review some code!
 
-_If you're wondering how I found this example commit, I ran `git log --min-parents=2 -p --cc` and looked for a commit with a diff.
+_If you're wondering how I found this example commit, I ran `git log --min-parents=2 -p --cc` and looked for a commit with a diff._
 
-That filters the git log with commits that have at least two parents._
+_That filters the git log with commits that have at least two parents._
