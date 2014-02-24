@@ -17,7 +17,7 @@ The impact of merge conflicts can be mitigated by doing work in small iterations
 
 Often, we treat the work to resolve a merge conflict as trivial. But in reality, with a major merge conflict, it may take a significant amonut of work to resolve it. And any time there is significant work, others should probably review that code in a pull request (PR for short). After all, a bad merge conflict resolution could introduce or reintroduce subtle bugs that were presumed to be fixed already.
 
-As a great example, take a look at the [recent Apple Goto Fail bug](http://www.wired.com/threatlevel/2014/02/gotofail/). I'm not suggesting this was the result of a bad merge conflict resolution, but you could easily see how it could be and thus bypass careful code review.
+As a great example, take a look at the [recent Apple Goto Fail bug](http://www.wired.com/threatlevel/2014/02/gotofail/). I'm not suggesting this was the result of a bad merge conflict resolution, but you could easily see how a bad merge conflict might produce such a bug and bypass careful code review.
 
 ```
 if ((err = SSLHashSHA1.update(&hashCtx, &serverRandom)) != 0)
