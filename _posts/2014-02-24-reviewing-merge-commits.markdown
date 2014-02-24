@@ -76,7 +76,13 @@ So how do we see only the lines that changed as part of the conflict resolution?
 git diff-tree --cc cc5b002a
 ```
 
-UPDATE: I just now learned from [@jspahrsummers](https://twitter.com/jspahrsummers) that `git show cc5b002a` works just as well and in my shell gives you the color coded diff.
+UPDATE: I just now learned from [@jspahrsummers](https://twitter.com/jspahrsummers) that `git show cc5b002a` works just as well and in my shell gives you the color coded diff. The merge commit generally won't contain any content _except_ for the conflict resolution.
+
+```bash
+git show --cc cc5b002a
+```
+
+As I'll show later, the `--cc` option is useful for finding interesting commits like this.
 
 You can see the output [in this gist](https://gist.github.com/Haacked/9160205). Notice how much less there is there compared to the [full diff of the merge commit](https://github.com/SignalR/SignalR/commit/cc5b002a5140e2d60184de42554a8737981c846c).
 
