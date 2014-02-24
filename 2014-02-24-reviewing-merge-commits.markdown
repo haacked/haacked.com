@@ -17,6 +17,18 @@ The impact of merge conflicts can be mitigated by doing work in small iterations
 
 Often, we treat the work to resolve a merge conflict as trivial. But in reality, with a major merge conflict, it may take a significant amonut of work to resolve it. And any time there is significant work, others should probably review that code in a pull request (PR for short). After all, a bad merge conflict resolution could introduce or reintroduce subtle bugs that were presumed to be fixed already.
 
+As a great example, take a look at the [recent Apple Goto Fail bug](http://www.wired.com/threatlevel/2014/02/gotofail/). I'm not suggesting this was the result of a bad merge conflict resolution, but you could easily see how it could be and thus bypass careful code review.
+
+```
+if ((err = SSLHashSHA1.update(&hashCtx, &serverRandom)) != 0)
+    goto fail;
+if ((err = SSLHashSHA1.update(&hashCtx, @signedParams)) != 0)
+    goto fail;
+    goto fail;
+if ((err = SSLHashSHA1.final(&hashCtx, &hashOut)) != 0)
+    goto fail;
+```
+
 When my team is in this situation, we actually push the merge commit into its own branch and send a pull request.
 
 For example, suppose I want to merge the `master` branch into a branch named `long-running-branch`. I'll create a new branch named something like `merge-master-into-long-running-branch`. I'll then perform the merge in that branch (when I am resolving a gnarly merge my outbursts can be rightly described as a performance). When I'm done and everything is working, I'll push that new branch to GitHub and create a pull request from it for others to review.
