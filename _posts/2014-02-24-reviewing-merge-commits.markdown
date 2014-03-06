@@ -79,7 +79,7 @@ git diff-tree --cc cc5b002a
 UPDATE: I just now learned from [@jspahrsummers](https://twitter.com/jspahrsummers) that `git show cc5b002a` works just as well and in my shell gives you the color coded diff. The merge commit generally won't contain any content _except_ for the conflict resolution.
 
 ```bash
-git show --cc cc5b002a
+git show cc5b002a
 ```
 
 As I'll show later, the `--cc` option is useful for finding interesting commits like this.
