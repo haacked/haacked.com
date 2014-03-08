@@ -8,7 +8,7 @@ categories: [rx, software]
 
 What would you do if you could stop time for everyone but yourself?
 
-When I was a kid, I watched a TV movie called The Girl, The Gold Watch, and Everything that explored this question. The main character, Kirby, inherits a very special gold watch from his Uncle that can stop time. With time frozen, the bearer of the watch could move around and affect his or her surrounds. Here's a clip from the movie where Kirby and his friend have a bit of fun with it.
+When I was a kid, I watched a TV movie called _The Girl, The Gold Watch, and Everything_ that explored this question. The main character, Kirby, inherits a very special gold watch from his Uncle that can stop time. With time frozen, the bearer of the watch could move around and affect his or her surrounds. Here's a clip from the movie where Kirby and his friend have a bit of fun with it.
 
 [![The Girl, The Gold Watch, and Everything](https://f.cloud.github.com/assets/19977/2189430/ca7e9b00-9816-11e3-9bc3-062fbb4940b7.jpg)](http://www.youtube.com/watch?v=tY9sBATdA0Q)
 
