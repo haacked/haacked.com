@@ -144,7 +144,7 @@ public void TextBoxThrottlesCorrectly()
 
 In this test, we're using the `With` extension method provided by `reactiveui-testing` package. This method takes in a lambda expression that provides us with a scheduler to pass into our Throttle method.
 
-Within that lambda, I am in complete control of time. As you can see, I start advancing the clock here and there and changing the `TextBox`'s `Text` values. As you'd expect, as long as I don't advance the clock more than 400 ms in between text changes, the `ThrottleTextBox` observable won't give us any values.
+Within that lambda, I am once again in complete control of time. As you can see, I start advancing the clock here and there and changing the `TextBox`'s `Text` values. As you'd expect, as long as I don't advance the clock more than 400 ms in between text changes, the `ThrottleTextBox` observable won't give us any values.
 
 But at the end, I go ahead and advance the clock by 400 ms after a text change and we finally get a value from the observable.
 
@@ -152,4 +152,6 @@ But at the end, I go ahead and advance the clock by 400 ms after a text change a
 
 The throttling of a `TextBox` (for autocomplete and search scenarios) is probably an overused and abused example for Rx, but there's a good reason for that. It's easy to grok and explain. But don't let that stop you from seeing the full power and potential of this technique.
 
-It's hopefully self evident how this ability to control time makes it possible to write tests that can verify even the most complex asynchronous interactions in a _deterministic_ manner (cue ["mind blown"](https://github.com/Haacked/gifs/blob/master/mind-blown/Mind-Blown-Russell-Brand.gif)).
+It should be clear how this ability to control time makes it possible to write tests that can verify even the most complex asynchronous interactions in a _deterministic_ manner (cue ["mind blown"](https://github.com/Haacked/gifs/blob/master/mind-blown/Mind-Blown-Russell-Brand.gif)).
+
+Unfortunately, the `TestScheduler` doesn't extend into real life, so your shenanigans are limited to your asynchronous Reactive code, but there's still a lot of fun to be had there. Happy coding!
