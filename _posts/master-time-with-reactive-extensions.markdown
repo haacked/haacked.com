@@ -12,9 +12,9 @@ When I was a kid, I watched a TV movie called _The Girl, The Gold Watch, and Eve
 
 [![The Girl, The Gold Watch, and Everything](https://f.cloud.github.com/assets/19977/2189430/ca7e9b00-9816-11e3-9bc3-062fbb4940b7.jpg)](http://www.youtube.com/watch?v=tY9sBATdA0Q)
 
-This motif has been repeated in more recent movies as well. I often daydream about the shenanigans I could get into with such a device. If you had such a device, I'm sure you'd do what I would do—use the device to write deterministic tests of asynchronous code of course!
+This motif has been repeated in more recent movies as well. I often daydream about the shenanigans I could get into with such a device. If you had such a device, I'm sure you would do what I would do: use the device to write deterministic tests of asynchronous code of course!
 
-Here's the good news. When you use Reactive Extensions (Rx), you have such a device at your disposal!
+Here's the good news. When you use Reactive Extensions (Rx), you have such a device at your disposal! Try not to get into too much trouble with it.
 
 In the past, I've written how Rx can [reduce the cognitive load of asynchronous code through a declarative model](http://haacked.com/archive/2013/11/20/declare-dont-tell.aspx/). Rather than attempt to orchestrate all the interactions that must happen asynchronously at the right time, you simply describe the operations that need to happen and Reactive Extensions orchestrates everything for you.
 
@@ -27,17 +27,6 @@ Everything in Rx is scheduled using schedulers. Schedulers are classes that impl
 ## Control Time with the The `TestScheduler`
 
 Rx provides the [`TestScheduler` class](http://msdn.microsoft.com/en-us/library/microsoft.reactive.testing.testscheduler(v=vs.103).aspx) (available in the [`Rx-Testing` NuGet package](http://www.nuget.org/packages/Rx-Testing/)) to give you absolute control over timing making it possible to write deterministic repeatable unit tests.
-
-In the following simple example, I’m going to write a unit test of the existing `Throttle` method. Here’s the description of what it does from MSDN:
-
-Ignores the values from an observable sequence which are followed by another value before due time with the specified `source`, `dueTime` and `scheduler`.
-
-`Throttle` is the type of method you might use with a text field that does incremental search while you’re typing. If you type a set of characters quickly one after the other, you don’t want a separate HTTP request for each character to be made. You’d rather wait till there’s a slight pause before searching because the old results are going to be discarded anyways. Here's a super simple `Throttle` example that throttles values coming from some subject. No matter how quickly the subject produces values, the `Subscribe` callback will only see values every 10 milliseconds. 
-
-```csharp
-  subject.Throttle(TimeSpan.FromMilliseconds(10))
-      .Subscribe(value => seenValue = value);
-```
 
 As I mentioned before, you can use the `TestScheduler` from the `Rx-Testing` package to control the timing of observables for testing purposes. However, it's a bit of a pain to use as-is which is why [Paul Betts](http://paulbetts.org/) took it upon himself to write some useful `TestScheduler` extension methods available in the [`reactiveui-testing` NuGet package](http://www.nuget.org/packages/reactiveui-testing/). This library provides the `OnNextAt` method. We'll use this to create an observable that provides values at specified times.
 
@@ -79,7 +68,18 @@ After we create the observable, we subscribe to it and then start advancing the 
 
 ## Real World Example
 
-Ok, that's neat. But let's see something that's a bit more real world. Suppose you want to kick off a search when someone times in values into a text box. You probably don't want to kick off a search for every typed in value. Instead, you want to throttle it a bit. Here's a method that does that.
+Ok, that's neat. But let's see something that's a bit more real world. Suppose you want to kick off a search when someone times in values into a text box. You probably don't want to kick off a search for every typed in value. Instead, you want to throttle it a bit. We'll write a method to do that that takes advantage of the [`Throttle`](http://msdn.microsoft.com/en-us/library/hh229400(v=vs.103).aspx) method.
+
+> Ignores the values from an observable sequence which are followed by another value before due time with the specified `source`, `dueTime` and `scheduler`.
+
+`Throttle` is the type of method you might use with a text field that does incremental search while you’re typing. If you type a set of characters quickly one after the other, you don’t want a separate HTTP request for each character to be made. You’d rather wait till there’s a slight pause before searching because the old results are going to be discarded anyways. Here's a super simple `Throttle` example that throttles values coming from some subject. No matter how quickly the subject produces values, the `Subscribe` callback will only see values every 10 milliseconds. 
+
+```csharp
+  subject.Throttle(TimeSpan.FromMilliseconds(10))
+      .Subscribe(value => seenValue = value);
+```
+
+
 
 ```csharp
 public static IObservable<string> ThrottleTextBox(TextBox textBox, IScheduler scheduler)
