@@ -26,9 +26,9 @@ Everything in Rx is scheduled using schedulers. Schedulers are classes that impl
 
 ## Control Time with the The `TestScheduler`
 
-Rx provides the [`TestScheduler` class](http://msdn.microsoft.com/en-us/library/microsoft.reactive.testing.testscheduler(v=vs.103).aspx) (available in the [`Rx-Testing` NuGet package](http://www.nuget.org/packages/Rx-Testing/)) to give you absolute control over timing making it possible to write deterministic repeatable unit tests.
+Rx provides the [`TestScheduler` class](http://msdn.microsoft.com/en-us/library/microsoft.reactive.testing.testscheduler(v=vs.103).aspx) (available in the [`Rx-Testing` NuGet package](http://www.nuget.org/packages/Rx-Testing/)) to give you absolute control over scheduling. This makes it possible to write deterministic repeatable unit tests.
 
-As I mentioned before, you can use the `TestScheduler` from the `Rx-Testing` package to control the timing of observables for testing purposes. However, it's a bit of a pain to use as-is which is why [Paul Betts](http://paulbetts.org/) took it upon himself to write some useful `TestScheduler` extension methods available in the [`reactiveui-testing` NuGet package](http://www.nuget.org/packages/reactiveui-testing/). This library provides the `OnNextAt` method. We'll use this to create an observable that provides values at specified times.
+Unfortunately, it's a bit of a pain to use as-is which is why [Paul Betts](http://paulbetts.org/) took it upon himself to write some useful `TestScheduler` extension methods available in the [`reactiveui-testing` NuGet package](http://www.nuget.org/packages/reactiveui-testing/). This library provides the `OnNextAt` method. We'll use this to create an observable that provides values at specified times.
 
 The following test simply shows how we can create an observable that fires at specific times and how we can test that it does the right thing.
 
