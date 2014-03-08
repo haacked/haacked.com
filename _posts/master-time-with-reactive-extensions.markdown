@@ -30,7 +30,7 @@ Rx provides the [`TestScheduler` class](http://msdn.microsoft.com/en-us/library/
 
 Unfortunately, it's a bit of a pain to use as-is which is why [Paul Betts](http://paulbetts.org/) took it upon himself to write some useful `TestScheduler` extension methods available in the [`reactiveui-testing` NuGet package](http://www.nuget.org/packages/reactiveui-testing/). This library provides the `OnNextAt` method. We'll use this to create an observable that provides values at specified times.
 
-The following test simply shows how we can create an observable that fires at specific times and how we can test that it does the right thing.
+The following test demonstrates how we can use the `TestScheduler`.
 
 ```csharp
 [Fact]
@@ -62,13 +62,15 @@ public void SchedulerDemo()
 
 ```
 
-We start off by creating an instance of a `TestScheduler`. We then create a subject (observable) that provides four values. Using the `OnNextAt` method we can control when the values are provided by the scheduler. Not that these are timings on a virtual clock. The code in this test runs pretty much instantaneously.
+We start off by creating an instance of a `TestScheduler`. We then create an observable (`subject`) that provides four values at specific times. We subscribe to the observable and set the `seenValue` variable to whatever values the observable supplies us.
 
-After we create the observable, we subscribe to it and then start advancing the clock to ensure that the scheduler fires at the appropriate time.
+After we subscribe to the observable, we start to advance the scheduler's clock using the `OnNextAt` method. At this point, we are in control of time as far as the scheduler is concerned. Feel the power! The test scheduler is your gold watch.
+
+Note that these are timings on a virtual clock. When you run this test, the code executes pretty much instantaneously. When you see `AdvanceByMs(100)`, the scheduler's clock advances by that amount, but your computer's real clock does not have to wait 100 ms. You could call `AdvanceByMs(99999999)` and that statement would execute instantaneously.
 
 ## Real World Example
 
-Ok, that's neat. But let's see something that's a bit more real world. Suppose you want to kick off a search when someone times in values into a text box. You probably don't want to kick off a search for every typed in value. Instead, you want to throttle it a bit. We'll write a method to do that that takes advantage of the [`Throttle`](http://msdn.microsoft.com/en-us/library/hh229400(v=vs.103).aspx) method.
+Ok, that's neat. But let's see something that's a bit more real world. Suppose you want to kick off a search (as in an autocomplete scenario) when someone times in values into a text box. You probably don't want to kick off a search for every typed in value. Instead, you want to throttle it a bit. We'll write a method to do that that takes advantage of the [`Throttle`](http://msdn.microsoft.com/en-us/library/hh229400(v=vs.103).aspx) method. From the MSDN documentation, the `Throttle` method:
 
 > Ignores the values from an observable sequence which are followed by another value before due time with the specified `source`, `dueTime` and `scheduler`.
 
