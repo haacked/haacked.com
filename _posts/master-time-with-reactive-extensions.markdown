@@ -103,7 +103,7 @@ public static IObservable<string> ThrottleTextBox(TextBox textBox, IScheduler sc
 {
     return textBox
         .Events()
-        .TextChanged
+        .TextChanged // IObservable<TextChangedEventArgs>
         .Throttle(TimeSpan.FromMilliseconds(400), scheduler)
         .Select(e => ((TextBox)e.Source).Text);
 }
