@@ -46,3 +46,4 @@ By the way, RouteDebugger is now part of the [RouteMagic
 project](http://routemagic.codeplex.com/ "RouteMagic") if you want to
 see the source code.
 
+To try it out, `Install-Package RouteDebugger`.
