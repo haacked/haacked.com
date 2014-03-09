@@ -14,6 +14,10 @@ When I was a kid, I watched a TV movie called _The Girl, The Gold Watch, and Eve
 
 This motif has been repeated in more recent movies as well. I often daydream about the shenanigans I could get into with such a device. If you had such a device, I'm sure you would do what I would do: use the device to write deterministic tests of asynchronous code of course!
 
+Writing tests of asynchronous code can be very tricky. You often have to resort to calling `Thread.Sleep` or `Task.Delay` within an asynchronous callback so you can control the timing and assert what you need to assert.
+
+For the most part, these are ugly hacks. What you really want is a way to control execution timing with fine grained control. You need a device like Kirby's golden watch.
+
 Here's the good news. When you use Reactive Extensions (Rx), you have such a device at your disposal! Try not to get into too much trouble with it.
 
 In the past, I've written how Rx can [reduce the cognitive load of asynchronous code through a declarative model](http://haacked.com/archive/2013/11/20/declare-dont-tell.aspx/). Rather than attempt to orchestrate all the interactions that must happen asynchronously at the right time, you simply describe the operations that need to happen and Reactive Extensions orchestrates everything for you.
@@ -154,4 +158,8 @@ The throttling of a `TextBox` (for autocomplete and search scenarios) is probabl
 
 It should be clear how this ability to control time makes it possible to write tests that can verify even the most complex asynchronous interactions in a _deterministic_ manner (cue ["mind blown"](https://github.com/Haacked/gifs/blob/master/mind-blown/Mind-Blown-Russell-Brand.gif)).
 
-Unfortunately, the `TestScheduler` doesn't extend into real life, so your shenanigans are limited to your asynchronous Reactive code, but there's still a lot of fun to be had there. Happy coding!
+Unfortunately, and this next point is important, the `TestScheduler` doesn't extend into real life, so your shenanigans are limited to your asynchronous Reactive code. Thus, if you call `Thread.Sleep(1000)` in your test, that thread will really be blocked for a second. But as far as the test scheduler is concerned, no time has passed.
+
+The good news is, with the `TestScheduler`, you generally don't need to call `Thread.Sleep` in your tests. There are many methods in Reactive Extensions for converting asynchronous calling patterns into Observables.
+
+So the `TestScheduler` might not be as much fun as Kirby's golden watch, it should make writing and testing asynchronous code a whole lot more fun than it was in the past.
