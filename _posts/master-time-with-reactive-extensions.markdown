@@ -131,16 +131,19 @@ public void TextBoxThrottlesCorrectly()
 
         textBox.Text = "m";
         Assert.Null(observed);
+        
         sched.AdvanceByMs(100);
         textBox.Text = "mo";
         Assert.Null(observed);
+        
         textBox.Text = "mor";
         sched.AdvanceBy(399);  // Just about to kick off the throttle
         Assert.Null(observed);
+        
         textBox.Text = "mork"; // But we changed it just in time.
         Assert.Null(observed);
+        
         sched.AdvanceByMs(400); // Wait the throttle amount
-
         Assert.Equal("mork", observed);
     });
 }
