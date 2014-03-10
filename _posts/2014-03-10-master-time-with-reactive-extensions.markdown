@@ -26,11 +26,11 @@ This nearly eliminates race conditions and deadlocks while also reducing the cog
 
 Those are all amazing benefits of this approach, yet those aren’t even my favorite thing about Reactive Extensions. My favorite thing is how the abstraction allows me to bend time itself to my will when writing unit tests. FEEL THE POWER!
 
-Everything in Rx is scheduled using schedulers. Schedulers are classes that implement the [`IScheduler` interface](http://msdn.microsoft.com/en-us/library/system.reactive.concurrency.ischeduler(v=vs.103).aspx). This simple, but powerful, interface contains a `Now` property as well as three `Schedule` methods for scheduling actions to be run.
+Everything in Rx is scheduled using schedulers. Schedulers are classes that implement the <a href="http://msdn.microsoft.com/en-us/library/system.reactive.concurrency.ischeduler(v=vs.103).aspx"><code>IScheduler</code> interface</a>. This simple, but powerful, interface contains a `Now` property as well as three `Schedule` methods for scheduling actions to be run.
 
 ## Control Time with the The `TestScheduler`
 
-Rx provides the [`TestScheduler` class](http://msdn.microsoft.com/en-us/library/microsoft.reactive.testing.testscheduler(v=vs.103).aspx) (available in the [`Rx-Testing` NuGet package](http://www.nuget.org/packages/Rx-Testing/)) to give you absolute control over scheduling. This makes it possible to write deterministic repeatable unit tests.
+Rx provides the <a href="http://msdn.microsoft.com/en-us/library/microsoft.reactive.testing.testscheduler(v=vs.103).aspx"><code>TestScheduler class</code></a> (available in the [`Rx-Testing` NuGet package](http://www.nuget.org/packages/Rx-Testing/)) to give you absolute control over scheduling. This makes it possible to write deterministic repeatable unit tests.
 
 Unfortunately, it's a bit of a pain to use as-is which is why [Paul Betts](http://paulbetts.org/) took it upon himself to write some useful `TestScheduler` extension methods available in the [`reactiveui-testing` NuGet package](http://www.nuget.org/packages/reactiveui-testing/). This library provides the `OnNextAt` method. We'll use this to create an observable that provides values at specified times.
 
@@ -74,7 +74,7 @@ Note that these are timings on a virtual clock. When you run this test, the code
 
 ## Real World Example
 
-Ok, that's neat. But let's see something that's a bit more real world. Suppose you want to kick off a search (as in an autocomplete scenario) when someone times in values into a text box. You probably don't want to kick off a search for every typed in value. Instead, you want to throttle it a bit. We'll write a method to do that that takes advantage of the [`Throttle`](http://msdn.microsoft.com/en-us/library/hh229400(v=vs.103).aspx) method. From the MSDN documentation, the `Throttle` method:
+Ok, that's neat. But let's see something that's a bit more real world. Suppose you want to kick off a search (as in an autocomplete scenario) when someone times in values into a text box. You probably don't want to kick off a search for every typed in value. Instead, you want to throttle it a bit. We'll write a method to do that that takes advantage of the <a href="http://msdn.microsoft.com/en-us/library/hh229400(v=vs.103).aspx"><code>Throttle</code> method</a>. From the MSDN documentation, the `Throttle` method:
 
 > Ignores the values from an observable sequence which are followed by another value before due time with the specified `source`, `dueTime` and `scheduler`.
 
@@ -98,7 +98,7 @@ public static IObservable<string> ThrottleTextBox(TextBox textBox, IScheduler sc
 }
 ```
 
-What we do here is use the [`Observable.FromEEventPattern`](http://msdn.microsoft.com/en-us/library/system.reactive.linq.observable.fromeventpattern(v=vs.103).aspx) method create an observable from the `TextChanged` event. If you're not used to it, the `FromEventPattern` method is kind of gnarly.
+What we do here is use the <a href="http://msdn.microsoft.com/en-us/library/system.reactive.linq.observable.fromeventpattern(v=vs.103).aspx"><code>Observable.FromEventPattern</code> method</a> create an observable from the `TextChanged` event. If you're not used to it, the `FromEventPattern` method is kind of gnarly.
 
 Once again, Paul Betts has your back with the very useful [`ReactiveUI-Events` package on NuGet](https://www.nuget.org/packages/reactiveui-events/). This package adds an `Events` extension method to most Windows controls that provides observable event properties. Here's the code rewritten using that. It's much easier to understand.
 
