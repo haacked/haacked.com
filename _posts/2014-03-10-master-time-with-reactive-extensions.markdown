@@ -74,7 +74,7 @@ Note that these are timings on a virtual clock. When you run this test, the code
 
 ## Real World Example
 
-Ok, that's neat. But let's see something that's a bit more real world. Suppose you want to kick off a search (as in an autocomplete scenario) when someone times in values into a text box. You probably don't want to kick off a search for every typed in value. Instead, you want to throttle it a bit. We'll write a method to do that that takes advantage of the [`Throttle`](http://msdn.microsoft.com/en-us/library/hh229400(v=vs.103).aspx) method. From the MSDN documentation, the `Throttle` method:
+Ok, that's neat. But let's see something that's a bit more real world. Suppose you want to kick off a search (as in an autocomplete scenario) when someone times in values into a text box. You probably don't want to kick off a search for every typed in value. Instead, you want to throttle it a bit. We'll write a method to do that that takes advantage of the [`Throttle`](http://msdn.microsoft.com/en-us/library/hh229400\(v=vs.103\).aspx) method. From the MSDN documentation, the `Throttle` method:
 
 > Ignores the values from an observable sequence which are followed by another value before due time with the specified `source`, `dueTime` and `scheduler`.
 
