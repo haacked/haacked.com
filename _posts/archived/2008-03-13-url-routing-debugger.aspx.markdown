@@ -11,6 +11,8 @@ package](http://haacked.com/archive/2010/10/06/introducing-nupack-package-manage
 named "routedebugger" to the NuGet feed, which will make it much easier
 to install.*
 
+*UPDATE 2: In newer versions of the NuGet package you don't need to add code to `global.asax` as described below. An appSetting `<add key="RouteDebugger:Enabled" value="true" />` in `web.config` suffices.*
+
 In [Scott Hanselman’s](http://www.hanselman.com/blog/ "Scott Hanselman")
 wonderful [talk at
 Mix](http://sessions.visitmix.com/?selectedSearch=T22 "Developing ASP.NET MVC Applications Screencast"),
