@@ -4,7 +4,7 @@ title: "Building A Strong Open Source Community Requires Empathy"
 date: 2007-03-26 -0800
 comments: true
 disqus_identifier: 18263
-categories: []
+categories: [oss, empathy, community]
 ---
 A recent confrontational [thread within the Subtext
 forums](http://sourceforge.net/forum/message.php?msg_id=4227149 "Subtext Forum Thread")
