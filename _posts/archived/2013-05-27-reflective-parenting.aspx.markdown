@@ -4,7 +4,7 @@ title: "Reflective Parenting"
 date: 2013-05-27 -0800
 comments: true
 disqus_identifier: 18890
-categories: [personal]
+categories: [personal, empathy, parenting]
 ---
 *This post is a departure from my typical software related topics, but I
 think you’ll find parallels with management and dealing with software
