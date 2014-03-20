@@ -64,6 +64,3 @@ This isn't the first time I've written about empathy and won't be the last. You 
 * [Building an Open Source Community requires empathy](http://haacked.com/archive/2007/03/26/building-a-strong-open-source-community-requires-empathy.aspx/) where I talk about having empathy for your users as well as a thick skin.
 * [You don't need a thick skin](http://haacked.com/archive/2012/12/17/you-do-not-need-a-thick-skin.aspx/) where I contradict myself and suggest maybe you don't need a thick skin.
 * [Reflective Parenting](http://haacked.com/archive/2013/05/27/reflective-parenting.aspx/) where I talk about empathy's role in parenting.
-
-Now it's easy to talk about empathy to those who want to be more empathetic. But if we get down to it, why? Why would I want my children to be empathetic? What's the benefit?
-
