@@ -49,7 +49,7 @@ I ascribe this to a lack of empathy. People jump to a conclusion that ascribes t
 
 Empathy makes you realize that everybody has their struggles in life and are just trying to get by. People spend their time concerned about their own well-being, not on negatively affecting yours. As a friend once told me, we're all just squirrels trying to get a nut in this world. 
 
-Spending time demonizing others who don't conform to your world view leads to a pretty sad existence. This isn't to say that you must _agree_ with everyone. But that you recognize that the lives of others is not so black and white, much as yours isn't.
+Spending a lot of time demonizing others who don't conform to your world view leads to a pretty unhealthy existence. This isn't to say that you must _agree_ with everyone. But that you recognize that the lives of others is not so black and white, much as yours isn't.
 
 ### It makes you a more effective person
 
