@@ -8,7 +8,7 @@ You'll note the unnecessary "u" in "coloured". Reg is Canadian, but don't let th
 
 In fact, it's so good, part of the point of my blog post is to draw attention to his post. Especially the iconic image in his post that is a powerful illustration of real empathy.
 
-But this reminds me of a Malcom in the Middle episode entitled _Reese Cooks_. Reese is an older brother to Malcom who exhibits mild psychopathic tendencies. In an effort to show him more attention, ~~Heisenberg~~Hal, his dad, signs him up for a cooking class.
+But this reminds me of a scene from an early 2000 television sitcom known for exploring the dark recesses of human psychology, Malcom in the Middle. In an episode entitled _Reese Cooks_, Reese, an older brother to Malcom, exhibits mild psychopathic tendencies. In an effort to show him more attention, ~~Heisenberg~~Hal, his dad, signs him up for a cooking class.
 
 ![Malcom in the Middle episode: Reese Cooks - Heisenberg in his previous marriage](https://f.cloud.github.com/assets/19977/2463115/7ea028fa-af88-11e3-8a79-e3ba584a561d.jpg)
 
@@ -27,33 +27,35 @@ His mom, Lois, and dad then attempt to teach him about empathy.
 
 Why would you want it indeed? It sounds kind of, well, painful. Why would anyone want to be empathetic? How do you explain the benefit to someone who's not inclined to be empathetic? How do you explain to someone who seems to only look out for his or herself?
 
-__My answer? It's in your own best interest to be empathetic.__
+## It's in your own best interest to be empathetic.
 
-I don't mean this in some vague karmic fashion. I mean concretely.
+I don't mean this in some vague karmic fashion, but in a concrete sense.
 
 ### It makes for better relationships with others.
 
-Imagine if you constantly misunderstood the intentions and motivations of those around you? That leads to so much unnecessary conflict. Empathy helps you better understand the mindset of those around you and address perhaps what's really bothering them rather than talking past them or working towards cross purposes.
+It's hard to carry on meaningful relationships with others when you constantly misunderstand the intentions and motivations of those around you. This applies to your friends, family, and work relationships. You can imagine that being around someone who constantly misinterprets your intentions would lead to unnecessary conflict.
+
+Empathy helps people better understand the mindset of those around them. This helps people address the real issues rather than talking past each other or working towards cross purposes.
 
 ### It helps you make better choices for your own well being.
 
-Often, the lens we view others with hides what's really going on. This can have detrimental effects to our decision making process. In effect, our own biases are feeding ourselves misinformation. Empathy helps one see the truth of a situation and act accordingly.
+Everyone views the world through a lens of their own experience. In effect, our own biases are feeding ourselves misinformation which affects our ability to make decisions. Empathy helps one see the truth of a situation and act accordingly.
 
 Too often, people spend much of their time engaging in behavior that is ultimately not in their long term self interest for an apparent short term gain. Sometimes it's obvious. It might feel real good to smoke that cigarette, but in the long term you know you'd be better off quitting.
 
-But sometimes, it's more subtle. For example, when a marginalized person speaks out against some abuse they've faced, you might feel as it's an attack on people like you so you go rage on the Twitters even though you don't know the person and have no skin in this particular game. Lack of empathy often leads people to ascribe the worst motives and demonize others who don't share the same worldview.
+Sometimes it's more subtle. For example, when a marginalized person speaks out against some abuse they've faced, it seems inevitable that there's a strong backlash from people who, although are not involved in this particular incident in any way, feel a sense of being attacked.
+
+I ascribe this to a lack of empathy. People jump to a conclusion that ascribes the worst motives and demonize others who don't share the same worldview.
 
 Empathy makes you realize that everybody has their struggles in life and are just trying to get by. People spend their time concerned about their own well-being, not on negatively affecting yours. As a friend once told me, we're all just squirrels trying to get a nut in this world. 
 
-And spending your time raging against others is not only harmful to them, it's a collossal waste of your time. There are over 6 billion people on the planet that you don't know, many of them speaking out about abuses. You don't have the time to contribute to all their abuse.
-
-What kind of sad life is it to demonize people who don't view the world through your perspective. To see these folks as interested in harming your way of life as opposed to what's more likely the truth, they're just trying to get by in life just like you are. As a friend once told me, we're all just squirrels trying to get a nut. 
+Spending time demonizing others who don't conform to your world view leads to a pretty sad existence. This isn't to say that you must _agree_ with everyone. But that you recognize that the lives of others is not so black and white, much as yours isn't.
 
 ### It makes you a more effective person
 
 All too often I see leaders who flip a bozo bit on an employee. Or color their experiences through their own lens. This makes the leader extremely ineffective at motivating people to do their best work. It creates an environment where those who don't see things the same way as the leader are demoralized, even though they may be doing great work otherwise.
 
-Likewise, I often see employees flip the bozo bit on a leader because of lack of empathy. This makes the employee ineffective. It's hard to influence decisions when you lack basic empathy to the view point you're arguing against.
+Likewise, I often see employees flip the bozo bit on a leader because of lack of empathy for the challenges and pressures of being a leader. This makes the employee ineffective. It's hard to influence decisions when you lack basic empathy to the view point you're arguing against.
 
 ## Conclusion
 
