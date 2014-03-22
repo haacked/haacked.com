@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Empathy In Your Best Interest"
+date: 2014-03-22 10:18 -0700
+comments: true
+categories: [personal, empathy]
+---
+
 If I had to pick only one trait I hope to instill in my children, it's empathy. It's on my mind because of [this beautiful post by Reg Braythwayt](http://braythwayt.com/2014/03/17/empathy.html).
 
 > Empathy is not seeing the world with your eyes from where someone else is standing, it’s seeing the world with their eyes, from their perspective, coloured with their hopes and fears, their life experience.
