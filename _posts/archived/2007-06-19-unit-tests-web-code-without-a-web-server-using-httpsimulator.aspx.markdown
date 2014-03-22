@@ -14,7 +14,7 @@ object. **My goal is to make testing such code easier**.
 FreeFoto.com](http://haacked.com/images/haacked_com/WindowsLiveWriter/WriteUnitTestsForTheWebWithoutAWebServer_13D45/01_17_8---Spiders-Web_web_1.jpg)](http://www.freefoto.com/preview/01-17-8?ffid=01-17-8 "Spider Web (c) FreeFoto.com")
 
 A while ago, I wrote some code to [simulate the
-HttpContext](http://haacked.com/archive/2005/06/11/Simulating_HttpContext.aspx "Simulate HttpContext for Unit Tests Without Using Cassini nor IIS")
+HttpContext](http://haacked.com/archive/2005/06/11/simulating_httpContext.aspx "Simulate HttpContext for Unit Tests Without Using Cassini nor IIS")
 in order to make writing such unit tests easier. My goal wasn’t to
 replace web testing frameworks such as
 [Selenium](http://www.openqa.org/selenium/ "Selenium Web Testing Tool"),
