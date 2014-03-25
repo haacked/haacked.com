@@ -16,7 +16,7 @@ You'll note the unnecessary "u" in "coloured". Reg is Canadian, but don't let th
 
 In fact, it's so good, part of the point of my blog post is to draw attention to his post. Especially the iconic image in his post that is a powerful illustration of real empathy.
 
-But this reminds me of a scene from an early 2000 television sitcom known for exploring the dark recesses of human psychology, Malcom in the Middle. In an episode entitled _Reese Cooks_, Reese, an older brother to Malcom, exhibits mild psychopathic tendencies. In an effort to show him more attention, ~~Heisenberg~~Hal, his dad, signs him up for a cooking class.
+But this reminds me of a scene from an early 2000 television sitcom known for exploring the dark recesses of human psychology, Malcom in the Middle. In an episode entitled _Reese Cooks_, Reese, an older brother to Malcom, exhibits mild sociopathic tendencies. In an effort to show him more attention, ~~Heisenberg~~Hal, his dad, signs him up for a cooking class.
 
 ![Malcom in the Middle episode: Reese Cooks - Heisenberg in his previous marriage](https://f.cloud.github.com/assets/19977/2463115/7ea028fa-af88-11e3-8a79-e3ba584a561d.jpg)
 
