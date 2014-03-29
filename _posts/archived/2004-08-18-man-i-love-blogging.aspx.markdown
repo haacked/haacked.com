@@ -4,7 +4,7 @@ title: "Man I Love Blogging."
 date: 2004-08-18 -0800
 comments: true
 disqus_identifier: 947
-categories: []
+categories: [personal, blogging]
 ---
 I'm hooked! To both reading blogs (via RSS feeds) as well as writing
 one. I'm addicted to poking my nose in the comments sections of other
