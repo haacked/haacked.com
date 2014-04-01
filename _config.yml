@@ -35,3 +35,6 @@ permalink: /archive/:year/:month/:day/:title/
 paginate: 20
 paginate_path: "page/:num"
 category_dir: categories
+
+gems:
+  - jekyll-redirect-from
