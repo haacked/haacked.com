@@ -28,9 +28,9 @@ Fortunately, there are some great features in NuGet that can help package author
 
 NuGet 2.5 introduces the ability to [import MSBuild targets and prop files into a project](http://docs.nuget.org/docs/creating-packages/creating-and-publishing-a-package#Import_MSBuild_targets_and_props_files_into_project_\(Requires_NuGet_2.5_or_above\)). As more projects take advantage of this feature, we'll hopefully see the demise of required MSIs in order to work on a project. As Maarten points out, MSIs (or Visual Studio Extensions) are still valuable in order to add extra tooling. But they shouldn't be required in order to build a project.
 
-## Development only dependencies
+## Development-only dependencies
 
-In tandem with importing MSBuild targets, NuGet 2.7 adds the ability to specify [dependency only dependencies](http://docs.nuget.org/docs/release-notes/nuget-2.7#Development-Only_Dependencies).
+In tandem with importing MSBuild targets, NuGet 2.7 adds the ability to specify [development-only dependencies](http://docs.nuget.org/docs/release-notes/nuget-2.7#Development-Only_Dependencies).
 
 > This feature was contributed by Adam Ralph and it allows package authors to declare dependencies that were only used at development time and don't require package dependencies. By adding a `developmentDependency="true"` attribute to a package in `packages.config`, `nuget.exe pack` will no longer include that package as a dependency.
 
