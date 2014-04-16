@@ -14,17 +14,19 @@ Well, it used to be that we would do a `union` merge for `*.csproj` files. The `
 
 > Instead of leaving conflicts in the file, resolve conflicts favouring our (or their or both) side of the lines.
 
-So when a conflict occurs, it tries to resolve it by accepting all changes more or less.
+For those who don't speak the commonwealth English, "favouring" is a common British mispelling of the one true spelling of "favoring". :trollface:
 
-This strategy can be set in a `.gitattributes` file like so. 
+So when a conflict occurs, it tries to resolve it by accepting all changes more or less. It's basically a cop out.
+
+This strategy can be set in a `.gitattributes` file like so if you really want this behavior for your repository.
 
 ```
 *.csproj  merge=union
 ```
 
-## Union Merges Gone Wild
+But let me show why you probably don't want to do that and why we ended up changing this.
 
-However, this ended up causing a lot of problems that often went unnoticed. Let me demonstrate an example.
+## Union Merges Gone Wild
 
 Suppose we start with the following simplified `foo.csproj` file in our `master` branch along with that `.gitattributes` file:
 
@@ -191,10 +193,16 @@ Without that `.gitattributes` file in place and using the standard merge strateg
 </Project>
 ```
 
+Obviously, in some idyllic parallel universe, git would merge the full `CCC` element after the `BBB` element without fudging it up and without bothering us with these pesky merge conflicts. We don't live in that universe, but maybe ours could become more like that one. I hear it's cool over there.
+
 ## What's this gotta do with Visual Studio?
 
 I recently asked folks on Twitter to vote up this User Voice issue asking the Visual Studio team to [support file patterns in project files](http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/4512873-vs-ide-should-support-file-patterns-in-project-fil). Wildcards in .csproj files are already supported by MSBuild, but Visual Studio doesn't deal with them very well.
 
-One of the big reasons to do this is to ease the pain of merge conflicts. Another way would be to write a proper XML merge driver for Git, but that's quite a challenge as my co-worker [Markus Olsson](https://twitter.com/niik) can attest to. If it were easy, or even moderately hard, it would have been done already. Though I wonder if we limited it to common `.csproj` issues could we write one that isn't perfect but good enough to handle common merge conflicts? Perhaps. Even if we did this, the merge driver only solves the problem for one version control system, though arguably the only one that really matters. :trollface:
+One of the big reasons to do this is to ease the pain of merge conflicts. If I could wild-card a directory, I wouldn't need to add an entry to `*.csproj` every time I add afile.
+
+Another way would be to write a proper XML merge driver for Git, but that's quite a challenge as my co-worker [Markus Olsson](https://twitter.com/niik) can attest to. If it were easy, or even moderately hard, it would have been done already. Though I wonder if we limited it to common `.csproj` issues could we write one that isn't perfect but good enough to handle common merge conflicts? Perhaps.
+
+Even if we did this, the merge driver only solves the problem for one version control system, though arguably the only one that really matters. :trollface:
 
 It's been suggested that if Visual Studio sorted its elements first, that would help mitigate the problem. But that's not the case as the example I presented demonstrates. Every element remained sorted throughout my example.
