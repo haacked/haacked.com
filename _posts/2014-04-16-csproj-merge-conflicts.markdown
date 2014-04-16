@@ -205,4 +205,6 @@ Another way would be to write a proper XML merge driver for Git, but that's quit
 
 Even if we did this, the merge driver only solves the problem for one version control system, though arguably the only one that really matters. :trollface:
 
-It's been suggested that if Visual Studio sorted its elements first, that would help mitigate the problem. But that's not the case as the example I presented demonstrates. Every element remained sorted throughout my example.
+It's been suggested that if Visual Studio sorted its elements first, that would help mitigate the problem. That helps reduce the incidental conflicts caused by Visual Studio's apparent non-deterministic sort of elements. But it doesn't make the issue of merge conflicts go away. In the example I presented, every element remained sorted throughout my example. So any time two different branches adds files that would be adjacent, you run the risk of this conflict. This happens quite frequently.
+
+Wild card support would make this problem almost completely go away. Note, I said _almost_. There will still be the occasional conflict in the file, but they'd be very rare.
