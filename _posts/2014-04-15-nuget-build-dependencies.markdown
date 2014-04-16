@@ -12,6 +12,8 @@ He's also a co-author of the [Pro NuGet book](http://amzn.to/1kYrgw0), though I 
 
 His post gives voice to a frustration I've long had. For example, if you want to build a project library that targets Windows 8 RT, you have to install Visual Studio on your build machine. That's just silly fries! (_By the way, if you have a solution that doesn't require Visual Studio, I'd love to hear it!_)
 
+UPDATE: Nick Berardi writes [about an approach that doesn't require Visual Studio](http://nickberardi.com/a-net-build-server-without-visual-studio/). Of course, there are several caveats with that approach. First, any upgrade requires you re-do the copy. Second, I'm not sure what the licensing implications are. You might still technically need a Visual Studio license for that server to do this. In any case, I opened a User Voice issue asking Microsoft to just [clean this mess up](http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/5786689-support-net-builds-without-requiring-visual-studi) and make it easier for us to do this. 
+
 Maarten doesn't just rant about this situation, he proposes a solution (emphasis mine):
 
 > I do not think we can solve this quickly and change history. But I do think from now on we have to start building SDK’s differently. Most projects only require an MSBuild .targets file and some assemblies, either containing MSBuild tasks or reference assemblies, to do their compilation work. __What if… we shipped the minimum files required to succesfully build a project as NuGet packages?__
