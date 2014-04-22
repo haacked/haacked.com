@@ -132,3 +132,7 @@ To get this sample working, make sure to replace the `clientId` and `clientSecre
 When you visit the home page and authorize the application, you'll see a list of your repositories lovingly rendered by my beautiful web design.
 
 ![the beautiful result](https://cloud.githubusercontent.com/assets/19977/2759992/5021c208-c9ab-11e3-9b86-27fb7e95d141.png)
+
+## Next Steps
+
+If you're using ASP.NET MVC 5 or any OWIN based application, there's an [Owin OAuth provider for GitHub](http://blog.beabigrockstar.com/owin-oauth-provider-github/) you can use instead to provide authentication. I haven't played with it so I'm not sure how you obtain the OAuth Access Token when you use it.
