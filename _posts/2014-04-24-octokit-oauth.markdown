@@ -1,4 +1,12 @@
-Some endpoints in the GitHub API require authorization to access private details. For example, if you want to get all of a user's repositories, you'll need to authenticate.
+---
+layout: post
+title: "Using Octokit.net to authenticate your app with GitHub"
+date: 2014-04-24 10:44 -0800
+comments: true
+categories: [octokit github aspnetmvc oauth]
+---
+
+Some endpoints in the GitHub API require authorization to access private details. For example, if you want to get all of a user's repositories, you'll need to authenticate to see private repositories.
 
 If you're building a third-party application that integrates with the GitHub API, it's poor form to ask for a user's GitHub credentials. Most users would be wary of providing that information.
 
@@ -31,7 +39,9 @@ After you click "Register application", you'll see your client id and client sec
 
 ## Implement the web flow
 
-I've put together a simple ASP.NET MVC demonstration of this workflow. If you want to follow along from scratch, create a new ASP.NET MVC project in Visual Studio and then install the Octokit.net package:
+I've put together a simple raw [ASP.NET MVC demonstration of this workflow](https://github.com/Haacked/octokit-oauth-demo) to illustrate how the workflow works. In a real ASP.NET MVC application, I would probably implement Owin middleware (which has been done before and I link to it later). In an older ASP.NET MVC application I might implement a custom `AuthorizeAttribute`.   
+
+If you want to follow along from scratch, create a new ASP.NET MVC project in Visual Studio and then install the Octokit.net package:
 
 ```bash
 Install-Package Octokit
@@ -135,4 +145,4 @@ When you visit the home page and authorize the application, you'll see a list of
 
 ## Next Steps
 
-If you're using ASP.NET MVC 5 or any OWIN based application, there's an [Owin OAuth provider for GitHub](http://blog.beabigrockstar.com/owin-oauth-provider-github/) you can use instead to provide authentication. I haven't played with it so I'm not sure how you obtain the OAuth Access Token when you use it.
+If you're using ASP.NET MVC 5 or any OWIN based application, there's an [Owin OAuth provider for GitHub](http://blog.beabigrockstar.com/owin-oauth-provider-github/) you can use instead to provide authentication. I haven't played with it so I have no idea how good it is or how you obtain the OAuth Access Token when you use it in order to pass it to Octokit.net.
