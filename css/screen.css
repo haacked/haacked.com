@@ -574,7 +574,6 @@ ul li a { -webkit-transition: all .2s ease-in;-moz-transition:all .2s ease-in;-o
     #content article .entry-content { font-size:1.3em; }
 }
 #feedburner-count { position: absolute;top:0;right:0;clip:rect(4px, 85px, 15px, 4px) }
-span.comments a { text-transform: lowercase }
 article table.matrix td,
 article table.matrix th { font-size: 0.7em;font-family:'Trebuchet MS','Lucida Sans Unicode','Lucida Grande','Lucida',Arial,Verdana,sans-serif }
 article table.matrix pre.csharpcode { border: none;font-size:1.1em }
