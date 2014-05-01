@@ -14,7 +14,7 @@ Well, it used to be that we would do a `union` merge for `*.csproj` files. The `
 
 > Instead of leaving conflicts in the file, resolve conflicts favouring our (or their or both) side of the lines.
 
-For those who don't speak the commonwealth English, "favouring" is a common British mispelling of the one true spelling of "favoring". :trollface:
+For those who don't speak the commonwealth English, "favouring" is a common British misspelling of the one true spelling of "favoring". :trollface:
 
 So when a conflict occurs, it tries to resolve it by accepting all changes more or less. It's basically a cop out.
 
