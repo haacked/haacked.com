@@ -7,7 +7,7 @@ disqus_identifier: 590
 categories: [code,personal,tech]
 ---
 UPDATE: I finally followed up with [part
-2](http://haacked.com/archive/2012/04/16/The-Real-Pain-Of-Software-Development-2.aspx.aspx),
+2](http://haacked.com/archive/2012/04/15/The-Real-Pain-Of-Software-Development-2.aspx.aspx/),
 only 8 years later.
 
 ![Typist In Pain](/images/TypingPain.jpg)When you ask the average
@@ -77,6 +77,6 @@ Some references of note:
 -   [The Typing Injury FAQ](http://www.tifaq.com/) has comprehensive
     information about RSI and typing injuries.
 -   [Part
-    2](http://haacked.com/archive/2012/04/16/The-Real-Pain-Of-Software-Development-2.aspx.aspx)
+    2](http://haacked.com/archive/2012/04/15/The-Real-Pain-Of-Software-Development-2.aspx.aspx/)
 
 
