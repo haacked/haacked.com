@@ -20,7 +20,7 @@ request the old fashioned way.
 <ul>
 {% for contributor in site.github.contributors %}
   <li>
-    <img src="{{ contributor.avatar_url }}" width="32" height="32" /> {{ contributor.login }}
+    <img src="{{ contributor.avatar_url }}" width="32" height="32" /> <a href="https://github.com/{{ contributor.login }}">{{ contributor.login }}</a>
   </li>
 {% endfor %}
 </ul>
