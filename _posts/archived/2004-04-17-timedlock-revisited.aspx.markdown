@@ -18,9 +18,8 @@ the StackTrace of the blocking thread.
 
 Well I stopped asking questions and started writing answers. I update
 the TimedLock class with stack trace tracking and also wrote an NUnit
-test that demonstrates the fact that we can identify the stack trace.
-[**Download the source code
-here**](http://haacked.com/code/TimedLock.zip).
+test that demonstrates the fact that we can identify the stack trace. 
+Check out the source code [in the TimedLock repository](https://github.com/Haacked/TimedLock/).
 
 Please keep in mind, this is meant to be a DEBUG version. In order to
 store the stack trace, I place it and the object being locked into a
