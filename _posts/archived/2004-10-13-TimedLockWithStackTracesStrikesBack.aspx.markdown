@@ -72,7 +72,7 @@ UPDATE: I accidentally linked to the old `TimedLock`. The link above has
 been updated.
 
 UPDATE \#2: [Eric](http://www.randomtree.org/eric/techblog/) discovered
-a subtle bug in my older implementation of TimedLock which he [describes
+a subtle bug in my older implementation of `TimedLock` which he [describes
 here](http://www.randomtree.org/eric/techblog/archives/2004/10/multithreading_is_hard.html).
 Nice work in tracking that down!
 
