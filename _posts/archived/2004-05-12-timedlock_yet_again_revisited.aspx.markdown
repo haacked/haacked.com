@@ -25,9 +25,7 @@ the user of the TimedLock remembered to call Dispose. I've incorporated
 his new changes as well as his comments and have released my newest
 TimedLock struct.
 
-Get the [code
-here](http://code.haacked.com/util/TimedLock.zip "TimedLock class"). I
-have yet to update the NUnit tests (I know, bad programmer! Bad!).
+I posted the code in my [TimedLock repository on GitHub](https://github.com/Haacked/TimedLock/).
 
 As Ian points out, there are non-trivial costs involved in keeping track
 of the stack trace of every lock just in case we wish to examine it
