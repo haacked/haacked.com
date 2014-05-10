@@ -14,7 +14,7 @@ easiest way.
 In Ian's [last
 post](http://www.interact-sw.co.uk/iangblog/2004/05/12/timedlockstacktrace)
 on the TimedLock, he talked a bit about the performance considerations
-with my [solution](http://haacked.com/archive/2004/05/12/431.aspx) to
+with my [solution](http://haacked.com/archive/2004/05/12/timedlock_yet_again_revisited.aspx/) to
 keeping track of stack traces in a multi-threaded situation. To sum, my
 solution is pokey in certain situations. As always, measure measure
 measure.
