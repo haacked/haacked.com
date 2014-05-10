@@ -62,6 +62,4 @@ for debugging deadlock situations.
 > directly, otherwise it will box to the IDisposable interface before
 > calling Dispose().
 
-*[Via [Eric Gunnerson's C#
-Compendium](http://blogs.msdn.com/b/ericgu/archive/2004/03/24/95743.aspx)]*
-
+UPDATE: I implemented the stack traces retrieval. Check out my [TimedLock repository](https://github.com/Haacked/TimedLock/) for the code and history of this class.
