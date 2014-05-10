@@ -8,7 +8,7 @@ categories: [blog github pages]
 
 Software collaboration goes beyond just working on the code. In addition to writing a lot of code, software involves writing a lot of _words_. Prose shows up in documentation, tutorials, blog posts, and so on.
 
-[GitHub Pages](https://pages.github.com/) is a great platform for sharing and working together on those words and it keeps getting better. This is why I [host my blog using Jekyll on GitHub Pages](http://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/). So far, I really love it.
+[GitHub Pages](https://pages.github.com/) is a great platform for sharing and working together on those words, and it keeps getting better. This is why I [host my blog using Jekyll on GitHub Pages](http://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/). So far, I really love it.
 
 One recent improvement that [Reginald “Raganwald” Braithwaite](http://raganwald.com/) wrote about is the [rendered prose diffs for markdown](https://github.com/blog/1784-rendered-prose-diffs). This provides a nice prose-centric way of looking at changes to a written document.
 
