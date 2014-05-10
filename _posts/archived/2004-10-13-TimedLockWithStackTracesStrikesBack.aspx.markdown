@@ -59,7 +59,7 @@ trace from the Hashtable, stores a reference locally, and then removes
 it from the Hashtable.
 
 In any case, I've posted the source code
-[here](http://code.haacked.com/util/TimedLock.zip).
+in my [TimedLock repository on GitHub](https://github.com/Haacked/TimedLock/).
 
 DISCLAIMER: The code to keep track of stack traces is designed for
 debugging only and is turned on by setting the conditional compilation
