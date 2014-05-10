@@ -51,10 +51,6 @@ for debugging deadlock situations.
 > private one. If that's the case, the compiler will call Dispose()
 > directly, otherwise it will box to the IDisposable interface before
 > calling Dispose().
->
->  
->
-> ![](http://weblogs.asp.net/ericgu/aggbug/95743.aspx)
 
 *[Via [Eric Gunnerson's C#
 Compendium](http://weblogs.asp.net/ericgu/archive/2004/03/24/95743.aspx)]*
