@@ -6,13 +6,11 @@ comments: true
 categories: [microsoft aspnet oss]
 ---
 
-When Ballmer famously said, "Linux is a cancer that attaches itself in an intellectual property sense to everything it touches," it was fair to characterize Microsoft's approach to open source as hostile.
+When Ballmer famously said, "Linux is a cancer that attaches itself in an intellectual property sense to everything it touches," it was fair to characterize Microsoft's approach to open source as hostile. But over time, this attitude started to change. Many groups inside of Microsoft saw the customer value in fostering OSS.
 
-But many years back, this attitude started to change. Many groups inside of Microsoft saw the value of fostering OSS.
+Under the leadership of [Scott Guthrie](http://weblogs.asp.net/scottgu/), the ASP.NET and Azure teams were trailblazers in this area. They were not the only trailblazers, but they were very influential ones. Disclaimer, I'm a former employee of these teams so I am totally objective and devoid of any bias whatsoever.
 
-Under the leadership of [Scott Guthrie](http://weblogs.asp.net/scottgu/), the ASP.NET and Azure teams were trailblazers in this area. They were not the only trailblazers, but they were very influential ones. Disclaimer, I'm a former employee of these teams so I am totally objective and without any bias whatsoever.
-
-While change did come, it came slowly. It was never fast enough for those who cared. The prevailing metaphor that folks like [Scott Hanselman](http://hanselman.com/blog) and I would use was this idea of "baby steps".
+While change did come, it felt like glacier watching and that angered some who wanted to see more movement. The prevailing metaphor that folks like [Scott Hanselman](http://hanselman.com/blog) and I would use was this idea of "baby steps".
 
 Here's a snippet from a post Scott wrote five years ago when we [first released ASP.NET MVC 1.0 under a permissive open source license](http://www.hanselman.com/blog/MicrosoftASPNETMVC10IsNowOpenSourceMSPL.aspx):
 
