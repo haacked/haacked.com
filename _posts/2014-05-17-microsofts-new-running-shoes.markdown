@@ -10,7 +10,7 @@ When Ballmer famously said, "Linux is a cancer that attaches itself in an intell
 
 But many years back, this attitude started to change. Many groups inside of Microsoft saw the value of fostering OSS.
 
-Under the leadership of [Scott Guthrie](http://weblogs.asp.net/scottgu/), the ASP.NET and Azure teams were trailblazers in this area. They were not the only trailblazers, but were influential ones. Disclaimer, I'm a former employee of these teams so I am totally objective and without any bias whatsoever.
+Under the leadership of [Scott Guthrie](http://weblogs.asp.net/scottgu/), the ASP.NET and Azure teams were trailblazers in this area. They were not the only trailblazers, but they were very influential ones. Disclaimer, I'm a former employee of these teams so I am totally objective and without any bias whatsoever.
 
 While change did come, it came slowly. It was never fast enough for those who cared. The prevailing metaphor that folks like [Scott Hanselman](http://hanselman.com/blog) and I would use was this idea of "baby steps".
 
