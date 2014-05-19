@@ -6,11 +6,11 @@ comments: true
 categories: [microsoft aspnet oss]
 ---
 
-When Ballmer famously said, "Linux is a cancer that attaches itself in an intellectual property sense to everything it touches," it was fair to characterize Microsoft's approach to open source as hostile. But over time, this attitude started to change. Many groups inside of Microsoft saw the customer value in fostering OSS.
+When Ballmer famously said, "Linux is a cancer that attaches itself in an intellectual property sense to everything it touches," it was fair to characterize Microsoft's approach to open source as hostile. But over time, forces within Microsoft pushed to change this attitude. Many groups inside of Microsoft continue to see the customer and business value in fostering, rather than fighting, OSS.
 
-Under the leadership of [Scott Guthrie](http://weblogs.asp.net/scottgu/), the ASP.NET and Azure teams were trailblazers in this area. They were not the only trailblazers, but they were very influential ones. Disclaimer, I'm a former employee of these teams so I am totally objective and devoid of any bias whatsoever.
+Under the leadership of [Scott Guthrie](http://weblogs.asp.net/scottgu/), the ASP.NET and Azure teams were trailblazers in this area. They were not the only trailblazers, but they were influential ones. Disclaimer, I'm a former employee of these teams so I am totally objective and devoid of any bias whatsoever.
 
-While change did come, it felt like glacier watching and that angered some who wanted to see more movement. The prevailing metaphor that folks like [Scott Hanselman](http://hanselman.com/blog) and I would use was this idea of "baby steps".
+While change carved its glacial path, its pace angered some who wanted to see more movement. The prevailing metaphor that folks like [Scott Hanselman](http://hanselman.com/blog) and I would use was this idea of "baby steps".
 
 Here's a snippet from a post Scott wrote five years ago when we [first released ASP.NET MVC 1.0 under a permissive open source license](http://www.hanselman.com/blog/MicrosoftASPNETMVC10IsNowOpenSourceMSPL.aspx):
 
@@ -20,7 +20,7 @@ Here's my use of the phrase in my [notes about the release a year prior](http://
 
 > As I mentioned before, routing is not actually a feature of MVC which is why it is not included. It will be part of the .NET Framework and thus its source will eventually be available much like the rest of the .NET Framework source. It’d be nice to include it in CodePlex, but as I like to say, baby steps.
 
-The point we were trying to get across is that changes in momentum of a massive object (and a 90,000 person company is quite large) takes a lot of small forces that over time sum up to a big force.
+The point we tried to impress on people is that changes in momentum of a massive object (and a 90,000 person company is quite large) takes a lot of small forces that over time sum up to a big force.
 
 However, Microsoft's recent remarkable announcements around the next generation of ASP.NET this week have made it clear that they've dispensed with the baby steps and have put on their running shoes.
 
@@ -31,7 +31,7 @@ However, Microsoft's recent remarkable announcements around the next generation 
 * Dependency Injection from the ground up.
 * No Strong-Naming! (See [this discussion](https://github.com/octokit/octokit.net/issues/405) for the headache strong-naming has been)
 
-But most exciting to me is that all of this is open source, accepts contributions, and [hosted on GitHub](https://github.com/aspnet). This isn't a project that just targets .NET developer. This is a project that wants to be taken seriously by all web developers.
+But most exciting to me is that all of this is open source, accepts contributions, and [hosted on GitHub](https://github.com/aspnet). This isn't a project that just targets .NET developer. This is a project that wants all web developers to take it seriously.
 
 In other areas of Microsoft they released Microsoft Office for the iPad and made Windows free for small devices. It's definitely a new Microsoft.
 
@@ -43,13 +43,13 @@ Look at this contribution graph for [Project K's Runtime](https://github.com/asp
 
 ![Project KRuntime commit](https://cloud.githubusercontent.com/assets/19977/3005570/6e0ce8b4-dde8-11e3-8346-61b1437c190f.png)
 
-The [initial commit was on November 7, 2013](https://github.com/aspnet/KRuntime/commit/69df15f0921792f01c80f0fad15d21cc7017b219). Satya become CEO on [February 4, 2014](http://www.microsoft.com/en-us/news/press/2014/feb14/02-04newspr.aspx). Now I'm no math major (_oh wait! I was a math major!_), but I'm pretty sure February 2014 comes after November 2013. So clearly this had been underway for a long time before Satya became CEO.
+The [initial commit was on November 7, 2013](https://github.com/aspnet/KRuntime/commit/69df15f0921792f01c80f0fad15d21cc7017b219). Satya become CEO on [February 4, 2014](http://www.microsoft.com/en-us/news/press/2014/feb14/02-04newspr.aspx). Now I'm no math major (_oh wait! I was a math major!_), but I'm pretty sure February 2014 comes after November 2013. It's apparent this had been underway for a long time before Satya became CEO.
 
-To be clear, I don't want to take anything away from Satya's importance to the new Microsoft. While this effort didn't start under him, he definitely creates the right climate within Microsoft for this effort to thrive. His leadership and vision sets these new efforts up for success and that's a big deal. The appointment of Satya makes Microsoft a force to be reckoned with again.
+To be clear, I don't want to take anything away from Satya's importance to the new Microsoft. While this effort didn't start under him, he does create the right climate within Microsoft for this effort to thrive. His leadership and vision sets these new efforts up for success and that's a big deal. The appointment of Satya makes Microsoft a force to be reckoned with again.
 
 But efforts like this started in a more grass roots fashion, albeit with the support of big hitters like the Gu. In a large part, the focus on the Azure business paved the way for this to happen.
 
-Azure provides an environment where they are not limited to hosting .NET web applications. Azure makes money whether you host ASP.NET, NodeJs, or whatever. This is analogous to how releasing Office for iPad is a sign that Office will no longer help prop up Windows. Windows must live or die on its own merits.
+Azure provides an environment that is not limited to hosting .NET web applications. Azure makes money whether you host ASP.NET, NodeJs, or whatever. This is analogous to how the release of Office for iPad is a sign that Office will no longer help prop up Windows. Windows must live or die on its own merits.
 
 In the same way, ASP.NET must compete on its own merits and to do so requires drastic changes.
 
