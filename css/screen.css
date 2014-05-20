@@ -499,7 +499,7 @@ h2 { color: #555 }
 #header #main-nav ul li { margin-left: 0px;display:block }
 #header #main-nav ul li a { padding: 0px 0px }
 .left-col,
-ul li a { -webkit-transition: all .2s ease-in;-moz-transition:all .2s ease-in;-o-transition:all .2s ease-in;-ms-transition:all .2s ease-in;transition:all .2s ease-in;color:#333 }
+ul li a { -webkit-transition: all .2s ease-in;-moz-transition:all .2s ease-in;-o-transition:all .2s ease-in;-ms-transition:all .2s ease-in;transition:all .2s ease-in; }
 .container { position: relative;min-height:100% }
 .container .mid-col { position: absolute;right:0;min-height:100%;width:77%;background:#fff }
 .container .mid-col #banner { width: 100% }
