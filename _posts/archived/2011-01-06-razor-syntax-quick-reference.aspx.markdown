@@ -109,7 +109,7 @@ reference about the Razor syntax.
       </td>
 
       <td valign="top">
-        <pre class="csharpcode"> <span class="asp">&lt;%</span> <span class="kwrd">using</span> (Html.BeginForm()) { <span class="asp">%&gt;</span>
+        <pre class="csharpcode"><span class="asp">&lt;%</span> <span class="kwrd">using</span> (Html.BeginForm()) { <span class="asp">%&gt;</span>
   <span class="kwrd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kwrd">="text"</span> <span class="attr">value</span><span class="kwrd">="input here"</span><span class="kwrd">&gt;</span>
 <span class="asp">&lt;%</span> } <span class="asp">%&gt;</span></pre>
       </td>
