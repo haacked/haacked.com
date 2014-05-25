@@ -10,7 +10,7 @@ categories: [aspnet]
 
 If anyone tells you that backwards compatibility isn't important, they're wrong. Prove it to them. Downgrade their operating system when their attention is diverted (to simulate breaking changes) and laugh as they complain about their applications' sudden failures.
 
-I've seen the most vocal "go ahead and break things" proponent baby whine when my team introduced a breaking change in a beta release.
+I've seen the most vocal "go ahead and break things" proponent whine like a baby when my team introduced a breaking change in a beta release.
 
 Microsoft is famous for its dedication to backwards compatibility. In his post, [How Microsoft Lost the API War](http://www.joelonsoftware.com/articles/APIWar.html) Spolsky highlights this comment from Raymond Chen, famous for his [stories](http://blogs.msdn.com/b/oldnewthing/archive/2003/12/23/45481.aspx) of the [crazy lengths](http://blogs.msdn.com/b/oldnewthing/archive/2003/10/15/55296.aspx) they went to maintain backwards compat.
 
