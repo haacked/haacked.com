@@ -1,16 +1,14 @@
 ``---
 layout: post
 title: "The Siren Song of Backwards Compatibility"
-date: 2015-05-24 -0800
+date: 2015-05-27 -0800
 comments: true
 categories: [aspnet]
 ---
 
 ## The Importance of Backwards Compatibility
 
-If anyone tells you that backwards compatibility isn't important, they're wrong. You can prove it to them. Downgrade their operating system when their attention is diverted (to simulate breaking changes) and laugh as they complain about their applications' sudden failures.
-
-I've seen the most vocal "go ahead and break things" proponent whine like a Restafarian asked to call a SOAP service when my team introduced a breaking change in a beta release.
+If anyone tells you that backwards compatibility isn't important, they're wrong. And in fact, if they use software long enough, they'll tell you themselves. Another upgrade of some framework they depend on will break their application and they'll get real care mad about it.
 
 Microsoft is famous for its tenacious dedication to backwards compatibility. In his post, [How Microsoft Lost the API War](http://www.joelonsoftware.com/articles/APIWar.html) Spolsky highlights this comment from Raymond Chen, famous for his [stories](http://blogs.msdn.com/b/oldnewthing/archive/2003/12/23/45481.aspx) of the [crazy lengths](http://blogs.msdn.com/b/oldnewthing/archive/2003/10/15/55296.aspx) they went to maintain backwards compat.
 
