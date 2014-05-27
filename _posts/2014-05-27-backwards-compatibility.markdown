@@ -1,4 +1,4 @@
-``---
+---
 layout: post
 title: "The Siren Song of Backwards Compatibility"
 date: 2015-05-27 -0800
