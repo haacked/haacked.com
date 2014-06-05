@@ -37,7 +37,7 @@ In other areas of Microsoft they released Microsoft Office for the iPad and made
 
 ## How did this come about?
 
-Well breathless headlines would have you believe that [Satya Nadella singehandedly built a new Microsoft in his first three months](http://www.businessinsider.com/nadella-builds-new-microsoft-in-3-months-2014-5). It makes for a good story, but it's clearly wrong. It's lazy thinking.
+Well breathless headlines would have you believe that [Satya Nadella singlehandedly built a new Microsoft in his first three months](http://www.businessinsider.com/nadella-builds-new-microsoft-in-3-months-2014-5). It makes for a good story, but it's clearly wrong. It's lazy thinking.
 
 Look at this contribution graph for [Project K's Runtime](https://github.com/aspnet/KRuntime).
 
