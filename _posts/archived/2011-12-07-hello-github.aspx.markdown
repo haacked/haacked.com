@@ -40,7 +40,7 @@ According to my offer letter, my title is “Windows Badass”, but the way
 I see it, I will do whatever I can to help GitHub be even more awesome.
 It’s going to take some creative thinking because it’s already pretty
 damn cool, but I’ll figure something out.  My first idea for adding
-[more cowbell](http://vimeo.com/14043123 "More Cowbell, on SNL") was
+[more cowbell](https://screen.yahoo.com/more-cowbell-174128899.html "More Cowbell, on SNL") was
 rejected, but I’m just finding my footing. I’ll get the hang of it.
 
 More specifically, I plan to help GitHub appeal to more developers who
@@ -54,7 +54,7 @@ page](https://github.com/languages "GitHub Languages Page").[![github
 languages](http://haacked.com/images/haacked_com/Windows-Live-Writer/Hello-GitHub_129E2/github%20languages_thumb.png "github languages")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Hello-GitHub_129E2/github%20languages_2.png)
 
 See something missing? Yes, oh mah gawd!
-[LOLCODE](http://lolcode.com/ "Lolcode") is not there!!!
+[LOLCODE](http://lolcode.org/ "Lolcode") is not there!!!
 
 Ok, besides that. See something else missing? Despite the fact that
 TIOBE ranks it as the fourth most popular language, C\# doesn’t make it
