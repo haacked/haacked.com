@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Get your Fitbit totals"
+date: 2014-06-08 -0800
+comments: true
+categories: [personal github]
+---
+
 More and more people are using GitHub in interesting ways for non-software projects. For example, a co-worker of mine has a repository where he is tracking a pet project:
 
 > I bought a crappy 1987 Honda XR600 and I am going to turn it into something awesome
