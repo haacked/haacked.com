@@ -1,0 +1,31 @@
+---
+layout: post
+title: "GitHub for Windows 2.0"
+date: 2014-06-09 -0800
+comments: true
+categories: [ghfw github]
+---
+
+Today we released [GitHub for Windows 2.0](https://windows.github.com/) after a long development cycle. You can read some [details about the release on the GitHub blog](https://github.com/blog/1844-say-hello-to-github-for-windows-2-0).
+
+The team worked very hard on this release while simultaneously continuing to release improvements to the GitHub for Windows 1.X series. I've been using it for a while and really like how much better it integrates into my workflow.
+
+I won't reiterate all the changes we've made. Instead I'll focus on one feature I worked on that is clearly the most important of all the changes: emoji autocomplete.
+
+![emoji](https://cloud.githubusercontent.com/assets/19977/3218916/0293bf30-eff0-11e3-816b-68af901cf5a4.png)
+
+When you create a commit message, you can now invoke the emoji auto complete drop down using the `:` character just as you would on the [github.com website](https://github.com/). This brings a new level of expressiveness to your commit messages.
+
+In fact, we've started to establish our own conventions of prefixing certain commits with an emoji as you can see in the screenshot. For example:
+
+* :lipstick: indicates a commit that's primarily just refactoring
+* :fire: indicates removing code.
+* :money: indicates a developer is very proud of her work.
+
+![commit messages](https://cloud.githubusercontent.com/assets/19977/3218979/a5109152-eff0-11e3-8e03-ae55eef080e5.png)
+
+To implement this, I started with the `AutocompleteTextBox` control from the [WPF Toolkit](http://wpf.codeplex.com/releases/view/40535) and then proceeded to strip 90% of the code away and then rewrote most of it to have observable properties (Yay Rx!) instead of events. There's very little left of the original code, but it was a nice head start on getting the behaviors correct.
+
+While I'm personally excited about this feature, I do have to admit it might not be as important as the improved navigation that makes it easier to switch between projects while working.
+
+But one of the big improvements that won't be quite visible to end-users is the improvements we made to the codebase. The refactorings will increase our velocity as we add improvements to the application. Enjoy!
