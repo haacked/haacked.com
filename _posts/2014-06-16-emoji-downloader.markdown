@@ -112,7 +112,11 @@ Now we can call the equivalent method, but we have the benefit of using the [`Bu
 githubClient.Miscellaneous.GetEmojis()
     .Buffer(4) // Downloads 4 at a time.
     .Do(group => Task.WaitAll(group
-        .Select(emoji => new { emoji.Url, FilePath = Path.Combine(outputDirectory, emoji.Name + ".png") })
+        .Select(emoji => new
+        {
+            emoji.Url,
+            FilePath = Path.Combine(outputDirectory, emoji.Name + ".png")
+        })
         .Select(download => DownloadImage(download.Url, download.FilePath)).ToArray()))
     .Wait();
 ```
