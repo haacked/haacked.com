@@ -125,6 +125,23 @@ The buffer method groups the sequence of emojis into groups of four so we can th
 
 The reason we don't just request them all at the same time is we don't want to flood the network card or local network.
 
+UPDATE: My buddy [Paul Betts](https://twitter.com/paulcbetts) suggests an even better more Rx-y approach in the comments.
+
+```csharp
+githubClient.Miscellaneous.GetEmojis()
+    .Select(emoji => Observable.FromAsync(async () =>
+    {
+        var path = Path.Combine(outputDirectory, emoji.Name + ".png");
+        await DownloadImage(emoji.Url, path);
+        return path;
+    }))
+    .Merge(4)
+    .ToArray()
+    .Wait();
+``` 
+
+We'll use the [`Merge`](http://msdn.microsoft.com/en-us/library/system.reactive.linq.observable.merge(v=vs.103).aspx) method instead of `Buffer` to throttle requests to four at a time.
+
 And with that, you'll have 887 (as of right now) emoji png files downloaded to disk.
 
 ## Other Octokit.NET blog posts
