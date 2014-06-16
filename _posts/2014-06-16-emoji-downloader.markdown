@@ -27,7 +27,8 @@ Install-Package Octokit
 The first step is to create an instance of the `GitHubClient`. We don't have to provide any credentials to call the Emojis API.
 
 ```csharp
-var githubClient = new GitHubClient(new ProductHeaderValue("Haack-Emoji-Downloader"));
+var githubClient = new GitHubClient(
+    new ProductHeaderValue("Haack-Emoji-Downloader"));
 ```
 
 The string in the `ProductHeaderValue` is used to form a User Agent for the request. The GitHub API requires a valid user agent.
@@ -101,7 +102,8 @@ Install-Package Octokit.Reactive
 Instead of the `GitHubClient` we'll create an `ObservableGitHubClient`.
 
 ```csharp
-var githubClient = new ObservableGitHubClient(new ProductHeaderValue("Haack-Reactive-Emoji-Downloader"));            
+var githubClient = new ObservableGitHubClient(
+    new ProductHeaderValue("Haack-Reactive-Emoji-Downloader"));            
 ```
 
 Now we can call the equivalent method, but we have the benefit of using the [`Buffer`](http://msdn.microsoft.com/en-us/library/system.reactive.linq.observable.buffer(v=vs.103).aspx) method.
