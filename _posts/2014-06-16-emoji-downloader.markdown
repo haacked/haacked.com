@@ -106,7 +106,7 @@ var githubClient = new ObservableGitHubClient(
     new ProductHeaderValue("Haack-Reactive-Emoji-Downloader"));            
 ```
 
-Now we can call the equivalent method, but we have the benefit of using the [`Buffer`](http://msdn.microsoft.com/en-us/library/system.reactive.linq.observable.buffer(v=vs.103).aspx) method.
+Now we can call the equivalent method, but we have the benefit of using the [`Buffer`](http://msdn.microsoft.com/en-us/library/system.reactive.linq.observable.buffer%28v=vs.103%29.aspx) method.
 
 ```csharp
 githubClient.Miscellaneous.GetEmojis()
@@ -140,7 +140,7 @@ githubClient.Miscellaneous.GetEmojis()
     .Wait();
 ``` 
 
-We'll use the [`Merge`](http://msdn.microsoft.com/en-us/library/system.reactive.linq.observable.merge(v=vs.103).aspx) method instead of `Buffer` to throttle requests to four at a time.
+We'll use the [`Merge`](http://msdn.microsoft.com/en-us/library/system.reactive.linq.observable.merge%28v=vs.103%29.aspx) method instead of `Buffer` to throttle requests to four at a time.
 
 And with that, you'll have 887 (as of right now) emoji png files downloaded to disk.
 
