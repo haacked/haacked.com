@@ -8,7 +8,11 @@ categories: [community,code,company culture,github]
 ---
 Back in March of this year I had the honor and delight to give the
 opening keynote at [CodeMania](http://codemania.co.nz/ "CodeMania"), a
-new conference in New Zealand. This conference was something special. I
+new conference in New Zealand.
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/HYnEhDOKoxA" frameborder="0" allowfullscreen></iframe>
+
+This conference was something special. I
 mean, just look at their beautiful [lucha
 libre](http://en.wikipedia.org/wiki/Lucha_libre "Lucha Libre on Wikipedia")
 inspired site design.
@@ -45,7 +49,7 @@ job](https://twitter.com/kev_nz/status/239252199006404608 "Tweet about leaving h
 in search of a better one!
 
 **[You can watch the talk on
-Youtube](http://www.youtube.com/watch?v=MELG2yRJd0E&sns=tw "I Love To Code")**.
+Youtube](https://www.youtube.com/watch?v=HYnEhDOKoxA "I Love To Code")**.
 Note that the title of my talk includes a swear word (I explain why). I
 know some of you are sensitive to that so I thought I’d warn you in case
 you’re watching this out loud with children around and would rather they
