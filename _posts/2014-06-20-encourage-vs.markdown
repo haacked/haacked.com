@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Your Editor should Encourage You"
-date: 2014-06-20-0800
+date: 2014-06-20 -0800
 comments: true
 categories: [vs vsix dev]
 ---
