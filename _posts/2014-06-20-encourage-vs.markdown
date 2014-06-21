@@ -29,7 +29,7 @@ And it's theme aware!
 
 Yes, it's silly. But try it out and tell me it doesn't put an extra smile on your face during your day.
 
-This wasn't my idea. My co-worker [Pat Nakajima](patnakajima.com) came up with this idea and built a TextMate extension to do this. He showed it to me and I instantly fell in love. With the idea. And Pat, a little.
+This wasn't my idea. My co-worker [Pat Nakajima](http://patnakajima.com) came up with this idea and built a TextMate extension to do this. He showed it to me and I instantly fell in love. With the idea. And Pat, a little.
 
 Apparently it's very easy to do this in TextMate. Here's the full source code:
 
