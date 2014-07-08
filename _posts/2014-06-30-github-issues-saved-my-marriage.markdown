@@ -65,3 +65,10 @@ The work involved to close an issue sometimes leads to the need to create more i
 My wife and I have tried Trello and other systems in the past, but this one has been very successful for us and she's been very happy with the results.
 
 I also use Markdown documents in the repository to track kids meal ideas, lists of babysitters, weekend fun ideas, etc. It's become even better now that we have [rendered prose diffs](https://github.com/blog/1784-rendered-prose-diffs). Our household GitHub repository helps me track just about related to our household. What interesting ways do you use GitHub for non-software projects?
+
+_UPDATE 2014-08-07_ I just learned about a service called [GitHub Reminders](http://www.github-reminders.com/).
+
+> Get a email reminder by creating a GitHub issue comment with a emoji and a naural language date. 
+Login and Signup with your GitHub.com Account to get started
+
+This sounds like it could be very useful for a household issue tracker.
