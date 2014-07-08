@@ -120,9 +120,9 @@ The last candidate is eliminated since the parameter types are
 incorrect, which leaves us with the first two.
 
 ```csharp
-public static void Blah(int i);
-public static void Blah(int i, int j = 5);
-public static void Blah(string i = "Hello"); 
+public static void Blah(int i); // Candidate
+public static void Blah(int i, int j = 5); // Candidate
+public static void Blah(string i = "Hello");  // Eliminated
 ```
 
 At this point, the compiler needs to perform a conflict resolution. The
