@@ -186,3 +186,5 @@ It would be impossible to source every git alias I use as many of these are pret
 * [Git Aliases Parameters](http://jondavidjohn.com/git-aliases-parameters/) taught me how to specify a default value for positional parameters.
 * [Delete already merged branches](http://stevenharman.net/git-clean-delete-already-merged-branches) was the inspiration for `git bclean`.
 * [Aliases Git Wiki Page](https://git.wiki.kernel.org/index.php/Aliases) has a bunch of useful aliases.
+
+_PS: If you liked this post [follow me on Twitter](https://twitter.com/haacked) for interesting links and my wild observations about pointless drivel_
