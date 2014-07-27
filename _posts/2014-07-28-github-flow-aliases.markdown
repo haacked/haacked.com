@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GitHub Flow Like a Pro with these 13 Git Aliases"
-date: 2014-07-24 -0800
+date: 2014-07-28 -0800
 comments: true
 categories: [git github]
 ---
