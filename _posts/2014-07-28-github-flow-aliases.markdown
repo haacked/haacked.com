@@ -147,7 +147,7 @@ Thus when you type `git bclean` the expression `${1-master}` evaluates to `maste
 
 Let's break down this alias into pieces to understand it.
 
-`git branch --merged ${1-master}` lists all the branches that have been merged into the specify branch (or master if none is specified). This list is then piped into the `grep -v "${1-master}"` command. [Grep](https://www.kernel.org/pub/software/scm/git/docs/git-grep.html) prints out lines matching the pattern. The `-v` flag inverts the match. So this will list all merged branches that are not `master` itself. Finally this gets piped into `xargs` which takes the standard input and executes the `git branch -d` line for each line in the standard input which is piped in from the previous command.
+`git branch --merged ${1-master}` lists all the branches that have been merged into the specify branch (or master if none is specified). This list is then piped into the `grep -v "${1-master}"` command. [Grep](http://www.gnu.org/software/grep/manual/grep.html) prints out lines matching the pattern. The `-v` flag inverts the match. So this will list all merged branches that are not `master` itself. Finally this gets piped into `xargs` which takes the standard input and executes the `git branch -d` line for each line in the standard input which is piped in from the previous command.
 
 In other words, it deletes every branch that's been merged into `master` except `master`. I love how we can compose these commands together.
 
