@@ -190,3 +190,5 @@ It would be impossible to source every git alias I use as many of these are pret
 * [How GitHub uses GitHub to build GitHub](http://zachholman.com/talk/how-github-uses-github-to-build-github/)
 
 _PS: If you liked this post [follow me on Twitter](https://twitter.com/haacked) for interesting links and my wild observations about pointless drivel_
+
+_PPS_: For Windows users, these aliases don't require using Git Bash. They work in PowerShell and CMD when msysgit is in your path. For example, if you install GitHub for Windows and use the GitHub Shell, these all work fine.
