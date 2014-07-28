@@ -103,7 +103,7 @@ Or, if I merely need to modify the previous commit, I'll use `git amend`
     amend = commit -a --amend
 ```
 
-The `-a` adds any modifications and deletions of existing files to the commit but ignores brand new files. The `--amend` ]launches your default commit editor (Notepad in my case) and lets you change the commit message of the most recent commit.
+The `-a` adds any modifications and deletions of existing files to the commit but ignores brand new files. The `--amend` launches your default commit editor (Notepad in my case) and lets you change the commit message of the most recent commit.
 
 ### A proper reset
 
