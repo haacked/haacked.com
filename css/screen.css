@@ -348,6 +348,7 @@ article .entry-content table {
     border-collapse: collapse;
     margin-top: 10px;
 }
+article .entry-content h2+h3 { margin-top: 30px; font-size: 22px; }
 article .entry-content table td,
 article .entry-content table th {
     font-family: helvetica, arial, san-serif;
