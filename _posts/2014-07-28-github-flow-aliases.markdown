@@ -125,7 +125,7 @@ This commits everything in my working directory and then does a hard reset to re
 
 ### Completing the pull request
 
-While working on a branch, I regularly push my changes to GitHub. At some point, I'll go to github.com and create a pull request, people will review it, and then it'll get merged. Once it's merge, I like to [tidy up and delete the branch via the Web UI](https://github.com/blog/1335-tidying-up-after-pull-requests). At this point, I'm done with this topic branch and I want to clean everything up on my local machine. Here's where I use one of my more powerful aliases, `git bdone`.
+While working on a branch, I regularly push my changes to GitHub. At some point, I'll go to github.com and create a pull request, people will review it, and then it'll get merged. Once it's merged, I like to [tidy up and delete the branch via the Web UI](https://github.com/blog/1335-tidying-up-after-pull-requests). At this point, I'm done with this topic branch and I want to clean everything up on my local machine. Here's where I use one of my more powerful aliases, `git bdone`.
 
 This alias does the following.
 
