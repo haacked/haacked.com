@@ -35,7 +35,7 @@ This sets `co` as an alias for `checkout`. If you open up your `.gitconfig` file
     co = checkout
 ```
 
-With this alias, you can checkout a branch by using `git co some-branch` instead of `git checkout some-branch`. Since I often edit aliases by hand, I have on that opens the `gitconfig` file with my default editor.
+With this alias, you can checkout a branch by using `git co some-branch` instead of `git checkout some-branch`. Since I often edit aliases by hand, I have one that opens the `gitconfig` file with my default editor.
 
 ```ini
     ec = config --global -e
