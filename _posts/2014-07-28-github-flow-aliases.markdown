@@ -6,23 +6,23 @@ comments: true
 categories: [git github]
 ---
 
-[GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html) is a simple Git work flow with a simple branching model. The following diagram of this flow is from Zach Holman's talk on [How GitHub uses GitHub to build GitHub](http://zachholman.com/talk/how-github-uses-github-to-build-github/).
+[GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html) is a Git work flow with a simple branching model. The following diagram of this flow is from Zach Holman's talk on [How GitHub uses GitHub to build GitHub](http://zachholman.com/talk/how-github-uses-github-to-build-github/).
 
 ![github-branching](https://cloud.githubusercontent.com/assets/19977/3638839/8343b14c-1063-11e4-8369-537f7d62be06.png)
 
-That explains it all, right?
+You are now a master of GitHub flow. Drop the mic and go release some software!
 
-The basic idea is that new work (such as a bug fix or new feature) is done in a branch off of the `master` branch. At any time, you should feel free to push the branch and create a pull request (PR). A Pull Request is a discussion around some code and not necessarily the completed work.
+Ok, there's probably a few more details than that diagram to understand. The basic idea is that new work (such as a bug fix or new feature) is done in a "topic" branch off of the `master` branch. At any time, you should feel free to push the topic branch and create a pull request (PR). A Pull Request is a discussion around some code and not [necessarily the completed work](https://github.com/blog/1124-how-we-use-pull-requests-to-build-github).
 
-At some point, the PR is complete and ready for review. After a few rounds of review (as needed), either the PR gets closed or someone merges the branch into master and the cycle continues.
+At some point, the PR is complete and ready for review. After a few rounds of review (as needed), either the PR gets closed or someone merges the branch into master and the cycle continues. If the reviews have been respectful, you may even still continue to like your colleagues.
 
 It's simple, but powerful.
 
-Over time, I've developed a set of Git aliases that streamline this flow for me. In this post, I will share these aliases and some tips on writing your own. These aliases start off simple, but I'll show more and more advanced techniques for building very useful aliases near the end.
+Over time, my laziness spurred me to write a set of Git aliases that streamline this flow for me. In this post, I share these aliases and some tips on writing your own. These aliases start off simple, but they get more advanced near the end. The advanced ones demonstrate some techniques for building your own very useful aliases.
 
 ## Intro to Git Aliases
 
-An alias is simply a way to add a shorthand for a common Git command or set of Git commands. Some are quite simple. For example, a common one you might see is:
+An alias is simply a way to add a shorthand for a common Git command or set of Git commands. Some are quite simple. For example, here's a common one:
 
 ```bash
 git config --global alias.co checkout
@@ -41,13 +41,13 @@ With this alias, you can checkout a branch by using `git co some-branch` instead
     ec = config --global -e
 ```
 
-These sort of simple aliases are just the tip of the iceberg.
+These sort of simple aliases only begin to scratch the surface.
 
 ## GitHub Flow Aliases
 
 ### Get my working directory up to date.
 
-When I'm ready to start some work, I always do the work in a new branch. But first, I make sure that I'm up to date before I create that branch. Typically, I'll want to run the following commands:
+When I'm ready to start some work, I always do the work in a new branch. But first, I make sure that my working directory is up to date with the origin before I create that branch. Typically, I'll want to run the following commands:
 
 ```bash
 git pull --rebase --prune
@@ -107,25 +107,25 @@ The `-a` adds any modifications and deletions of existing files to the commit bu
 
 ### A proper reset
 
-Sometimes, you just want to throw your hands up in disgust and burn all the work in your working directory to the ground and start over.
+There will be times when you explore a promising idea in code and it turns out to be crap. You just want to throw your hands up in disgust and burn all the work in your working directory to the ground and start over.
 
 In an attempt to be helpful, people might recommend: `git reset HEAD --hard`.
 
-Bad idea. Don't do it!
+Slap those people in the face. It's a bad idea. Don't do it!
 
-That's basically a delete without any undo. As soon as you run that command, Murphy's law dictates you'll suddenly remember there was that one gem among the refuse you don't want to rewrite.
+That's basically a delete of your current changes without any undo. As soon as you run that command, Murphy's law dictates you'll suddenly remember there was that one gem among the refuse you don't want to rewrite.
 
-Too bad. If you reset work that you never committed it is gone for good. Hence, the `wipe` alias.
+Too bad. If you reset work that you _never committed_ it is gone for good. Hence, the `wipe` alias.
 
 ```ini
     wipe = !git add -A && git commit -qm 'WIPE SAVEPOINT' && git reset HEAD~1 --hard
 ```
 
-This commits everything in my working directory and then does a hard reset to remove that commit. The nice thing is, the commit is still there, but it's just unreachable. You can run the `git reflog` command and find the SHA of the commit if you realize later that you made a mistake with the reset.
+This commits everything in my working directory and then does a hard reset to remove that commit. The nice thing is, the commit is still there, but it's just unreachable. Unreachable commits are a bit inconvenient to restore, but at least they are still there. You can run the `git reflog` command and find the SHA of the commit if you realize later that you made a mistake with the reset. The commit message will be "WIPE SAVEPOINT" in this case.
 
 ### Completing the pull request
 
-While working on a branch, I regularly push my changes to GitHub. At some point, I'll go to github.com and create a pull request, people will review it, and then it'll get merged. I tend to delete the branch from the Web UI as part of the merge process. At this point, I'm done with my current branch and I want to clean everything up. Here's where I use one of my more powerful aliases, `git bdone`.
+While working on a branch, I regularly push my changes to GitHub. At some point, I'll go to github.com and create a pull request, people will review it, and then it'll get merged. Once it's merge, I like to [tidy up and delete the branch via the Web UI](https://github.com/blog/1335-tidying-up-after-pull-requests). At this point, I'm done with this topic branch and I want to clean everything up on my local machine. Here's where I use one of my more powerful aliases, `git bdone`.
 
 This alias does the following.
 
@@ -133,7 +133,7 @@ This alias does the following.
 2. Runs `git up` to bring master up to speed with the origin
 3. Deletes all branches already merged into master using another alias, `git bclean`
 
-It's quite powerful and useful and demonstrates some advanced concepts of git aliases. But first, let me show `git bclean`. This alias is meant to be run from your default branch.
+It's quite powerful and useful and demonstrates some advanced concepts of git aliases. But first, let me show `git bclean`. This alias is meant to be run from your master (or default) branch and does the cleanup of merged branches.
 
 ```ini
 bclean = "!f() { git branch --merged ${1-master} | grep -v " ${1-master}$" | xargs -r git branch -d; }; f"
@@ -157,7 +157,7 @@ With `bclean` in place, I can compose my git aliases together and write `git bdo
     bdone = "!f() { git checkout ${1-master} && git up && git bclean ${1-master}; }; f"
 ```
 
-I use this one all the time when I'm deep in the GitHub flow.
+I use this one all the time when I'm deep in the GitHub flow. And now, you too can be a GitHub flow master.
 
 ## The List
 
@@ -179,12 +179,14 @@ Here's a list of all the aliases together for your convenience.
     bdone = "!f() { git checkout ${1-master} && git up && git bclean ${1-master}; }; f"
 ```
 
-## Credits
+## Credits and more reading
 
-It would be impossible to source every git alias I use as many of these are pretty common and I've adapted them for my own needs. However, there are a few blog posts that provided helpful information about git aliases that served as my inspiration.
+It would be impossible to source every git alias I use as many of these are pretty common and I've adapted them for my own needs. However, here are a few blog posts that provided helpful information about git aliases that served as my inspiration. I also added a couple posts about how GitHub uses pull requests.
 
 * [Git Aliases Parameters](http://jondavidjohn.com/git-aliases-parameters/) taught me how to specify a default value for positional parameters.
 * [Delete already merged branches](http://stevenharman.net/git-clean-delete-already-merged-branches) was the inspiration for `git bclean`.
 * [Aliases Git Wiki Page](https://git.wiki.kernel.org/index.php/Aliases) has a bunch of useful aliases.
+* [How GitHub uses Pull Requests](https://github.com/blog/1124-how-we-use-pull-requests-to-build-github)
+* [How GitHub uses GitHub to build GitHub](http://zachholman.com/talk/how-github-uses-github-to-build-github/)
 
 _PS: If you liked this post [follow me on Twitter](https://twitter.com/haacked) for interesting links and my wild observations about pointless drivel_
