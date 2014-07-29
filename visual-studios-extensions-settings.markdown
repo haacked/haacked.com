@@ -24,9 +24,7 @@ So if you're of the masochistic inclination, you can treat yourself to custom di
 
 So why was this challenging? Well like many things with development platforms, to do the basic thing is really easy, but when you want to deviate, things become hard.
 
-If you follow the [Walkthrough: Creating an Options Page](http://msdn.microsoft.com/en-us/library/bb166195.aspx) you'll be able to add settings to your Visual Studio extension pretty easily.
-
-However, you can even rely on Visual Studio to generate a properties UI for you.
+If you follow the [Walkthrough: Creating an Options Page](http://msdn.microsoft.com/en-us/library/bb166195.aspx) you'll be able to add settings to your Visual Studio extension pretty easily. Using this approach, you can even rely on Visual Studio to generate a properties UI for you.
 
 ![basic options](https://cloud.githubusercontent.com/assets/19977/3739630/a726fd0e-174c-11e4-98b7-036f08f0c625.png)
 
