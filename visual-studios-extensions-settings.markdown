@@ -46,7 +46,7 @@ Thankfully, Jared pointed me to the [`UIElementDialogPage`](http://msdn.microsof
 
 __If you want to provide a WPF User Control for your Visual Studio Extension, derive from `UIElementDialogPage` and not `DialogPage` like all the samples demonstrate!__
 
-It does all the necessary `WindProc` magic under the hood for you.
+It does all the necessary `WndProc` magic under the hood for you.
 
 ## Storing Settings
 
