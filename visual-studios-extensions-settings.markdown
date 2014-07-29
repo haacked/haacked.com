@@ -40,11 +40,11 @@ I wasn't interested in overriding [`WndProc`](http://msdn.microsoft.com/en-us/li
 
 ## UIElementDialogPage
 
-Thankfully, Jared pointed me to the [`UIElementDialogPage`](http://msdn.microsoft.com/en-us/library/vstudio/microsoft.visualstudio.shell.uielementdialogpage.dialogkeypendingevent\(v=vs.110\).aspx). 
+Thankfully, Jared pointed me to the [`UIElementDialogPage`](http://msdn.microsoft.com/en-us/library/vstudio/microsoft.visualstudio.shell.uielementdialogpage.dialogkeypendingevent\(v=vs.110\).aspx).
 
 __If you want to provide a WPF User Control for your Visual Studio Extension, derive from `UIElementDialogPage` and not `DialogPage` like all the samples demonstrate!__
 
-It does all the necessary `WndProc` magic under the hood for you.
+It does all the necessary `WndProc` magic under the hood for you. Note that it was introduced in Visual Studio 2012 so if you take a dependency on it, your extension won't work in Visual Studio 2010. Live in the present I always say.
 
 ## Storing Settings
 
