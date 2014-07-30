@@ -63,3 +63,5 @@ public static WritableSettingsStore GetWritableSettingsStore(this SVsServiceProv
 ```
 
 If this is interesting to you, I encourage (tee hee) you to read through [the Pull Request that adds settings to the Encourage pull request](https://github.com/Haacked/Encourage/pull/27). You can read through the commits to watch me flailing around, or you can read the final DIFF to see what changes I had to make.
+
+_PS: If you liked this post [follow me on Twitter](https://twitter.com/haacked) for interesting links and my wild observations about pointless drivel_
