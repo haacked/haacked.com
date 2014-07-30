@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Settings for your Visual Studio Extension"
-date: 2014-07-29 -0800
+date: 2014-07-30 -0800
 comments: true
 categories: [vs vsix dev encouragement]
 ---
 
-Recently I wrote what many consider to be the most important Visual Studio Extension ever shipped -  [Encourage for Visual Studio](http://haacked.com/archive/2014/06/20/encourage-vs/). It was my humble attempt to make a small corner of the world brighter with little encouragements as folks work in Visual Studio.
+Recently I wrote what many consider to be the most important Visual Studio Extension ever shipped -  [Encourage for Visual Studio](http://haacked.com/archive/2014/06/20/encourage-vs/). It was my humble attempt to make a small corner of the world brighter with little encouragements as folks work in Visual Studio. You can get it via the Visual Studio Extension Manager.
 
 But not everyone has a sunny disposition like I do. Some folks want to watch the world burn. What they want is _Discouragements_.
 
