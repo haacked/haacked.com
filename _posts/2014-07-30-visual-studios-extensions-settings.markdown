@@ -18,7 +18,9 @@ And that's what I did. I added an Options pane to allow users to configure the s
 
 So if you're of the masochistic inclination, you can treat yourself to custom discouragements all day long if you so choose.
 
-![Discouragement in use](https://cloud.githubusercontent.com/assets/19977/3739512/4d359590-174b-11e4-8468-3d32e2a0e4cd.png)
+![Discouragement in use](https://cloud.githubusercontent.com/assets/19977/3834589/161bd9f2-1db3-11e4-8e81-85bdf32846b6.png)
+
+As you can see from the screenshot, it __supports native emoji!__. If you want these for yourself, I [posted them into a gist](https://gist.github.com/Haacked/1c51925deddb254a0422). 
 
 ## Challenges and Travails
 
