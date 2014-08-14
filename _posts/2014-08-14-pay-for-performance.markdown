@@ -11,7 +11,7 @@ l that newly legal weed in my state (Washington). I know this challenges a belie
 
 ![money money money!](https://cloud.githubusercontent.com/assets/19977/3928090/7e00f0e6-2404-11e4-8168-89532fcfdef6.jpg)
 
-This excellent post in the Harvard Business Review Blog, [Stop Basing Pay on Performance Reviews](http://blogs.hbr.org/2014/01/stop-basing-pay-on-performance-reviews/), got me thinking about this. Please go read it. It won't take long. Here's an excerpt.
+This excellent post in the Harvard Business Review Blog, [Stop Basing Pay on Performance Reviews](http://blogs.hbr.org/2014/01/stop-basing-pay-on-performance-reviews/), makes a compelling case for this. It won't take long, so please go read it. Here's an excerpt.
 
 > If your company is like most, it tries to drive high performance by dangling money in front of employees’ noses. To implement this concept, you sit down with your direct reports every once in a while, assess them on their performance, and give them ratings, which help determine their bonuses or raises.
 
