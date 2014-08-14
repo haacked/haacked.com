@@ -67,6 +67,8 @@ If your employees act rationally, they'd be stupid to stay at your company for l
 
 So even if you decide to continue on a pay for performance system, market forces necessitate that you adjust pay to market value. Or continue selling your employees a story about how they should stay out of "loyalty". This story is never bidirectional.
 
+And what should you do if someone tries to take advantage of the system and consistently underperforms? You fire them. They are not upholding their side of the exchange. Most of the time, people _want_ to do good work. Optimize for that scenario. People will have occasional ruts. Help them through it. That's what the separate performance reviews are for. It provides a means of providing candid feedback without the extra charged atmosphere that money can bring to the discussion.
+
 ## The Netflix model
 
 This is one area where I think the [Netflix model is very interesting](http://www.slideshare.net/reed2001/culture-1798664). They try to pay top of market for each employee using the following test:
