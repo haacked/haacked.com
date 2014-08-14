@@ -5,7 +5,11 @@ date: 2014-08-05 -0800
 comments: true
 categories: [managment]
 ---
-__If you run a company, stop increasing pay based on performance reviews.__ No, I'm not taking advantage of all that newly legal weed in my state (Washington). I know this challenges a belief as old as business itself. It challenges something that seems so totally obvious that you're still not convinced I'm not smoking _something_. But hear me out.
+
+__If you run a company, stop increasing pay based on performance reviews.__ No, I'm not taking advantage of
+l that newly legal weed in my state (Washington). I know this challenges a belief as old as business itself. It challenges something that seems so totally obvious that you're still not convinced I'm not smoking _something_. But hear me out.
+
+![money money money!](https://cloud.githubusercontent.com/assets/19977/3928090/7e00f0e6-2404-11e4-8168-89532fcfdef6.jpg)
 
 This excellent post in the Harvard Business Review Blog, [Stop Basing Pay on Performance Reviews](http://blogs.hbr.org/2014/01/stop-basing-pay-on-performance-reviews/), got me thinking about this. Please go read it. It won't take long. Here's an excerpt.
 
