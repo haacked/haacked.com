@@ -3,7 +3,7 @@ layout: post
 title: "The Case Against Pay for Performance"
 date: 2014-08-14 -0800
 comments: true
-categories: [managment]
+categories: [management]
 ---
 
 __If you run a company, stop increasing pay based on performance reviews.__ No, I'm not taking advantage of
