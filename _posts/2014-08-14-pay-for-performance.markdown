@@ -86,3 +86,7 @@ Another cool feature of the Netflix model is they give employees a choice to tak
 ## Conclusion
 
 If you insist on continuing to believe that bonuses for performance is the right approach, I'd be curious to hear what science and data you have that refutes the evidence presented by the various people I've referenced. What do you know that they don't? It'd make for some interesting research.
+
+__UPDATE:__ Based on some comments, there's one thing I want to clarify. I don't think the evidence suggests that all companies should pay absolute top of Market. That's not what I'm suggesting. Many companies can't afford that and offer other compensating factors to lure developers. For example, a desirable company that makes amazing products might be able to get away with paying closer to the market average because of the prestige and excitement of working there.
+
+The point is not that you have to be at 99%. The point is to use the market value for an individual's skills as your index for compensation adjustments. When it goes up, you raise accordingly. When it flatlines or goes down, well, I'm not sure what Lear does. I certainly wouldn't lower salaries. I'd just stop having raises until the market value is above an individual's current pay. I'd be curious to hear what others think.
