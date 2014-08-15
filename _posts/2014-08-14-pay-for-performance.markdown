@@ -25,7 +25,7 @@ The idea that more pay decreases intrinsic motivation is supported by a lot of s
 > 
 > Hint: It’s not more money.
 
-I recommend this talk to just about everyone I know who work for a living. I'm kind of obsessed with it. It's mind opening. Dan Pink shows how study after study demonstrate that for work that contains a cognitive element (such as programming), more pay undermines motivation.
+I recommend this talk to just about everyone I know who works for a living. I'm kind of obsessed with it. It's mind opening. Dan Pink shows how study after study demonstrate that for work that contains a cognitive element (such as programming), more pay undermines motivation.
 
 More recently, researchers found a neurological basis to support the idea that [monetary rewards undermine intrinsic motivation](http://www.pnas.org/content/107/49/20911.abstract?ijkey=5a8edba9858eb2525c993d3b480e03acd1347c0f&keytype2=tf_ipsecsha).
 
