@@ -15,7 +15,7 @@ Testing.
 I’m not talking about drug testing, unit testing, or any form of
 automated testing. After all, while there are still some holdouts, at
 least these types of tests involve *writing code*. And we know how much
-developers love to write code (_even though that’s not what we’re
+developers love to write code ([_even though that’s not what we’re
 really paid to do_](http://haacked.com/archive/2010/08/26/not-paid-to-write-code.aspx/ "We're not paid to write code")).
 
 No, I’m talking about the kind of testing where you get your hands dirty
