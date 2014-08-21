@@ -78,7 +78,7 @@ posting his solution! This is a great technique for dealing with
 sequences using MoQ.
 
 UPDATE: There’s a great discussion in the comments to this post.
-[Fredrik Kalseth](http://iridescence.no/ "Fredrik's Blog") proposed an
+Fredrik Kalseth proposed an
 extension method to make this pattern even simpler to apply and much
 more understandable. Why didn’t I think of this?! Here’s the extension
 method he proposed (but renamed to the name that Matt proposed because I
