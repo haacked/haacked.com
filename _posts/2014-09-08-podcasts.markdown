@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Podcasts"
+date: 2014-09-08 -0800
+comments: true
+categories: [vanity]
+---
+
+I love to communicate through the written word because it offers me a chance to really consider what I say, and then rewrite it, and then rewrite it again. And in the end, I still don't communicate as clearly and eloquently as I would like.
+
+Which makes it a wonder that I would subject myself to a podcast where I'm forced to think on the spot for thirty minutes to an hour and then spend the next week lamenting all the amazing comebacks and other witty things I should have said.
+
+That I still do it is really a testament to the quality of the hosts on these podcasts. If you follow me on Twitter (Perhaps follow me if you don't. I'm [@haacked](https://twitter.com/haacked)) you might already know about these. But I thought I'd list them here. In most of these podcasts I talk a lot about Open Source, Microsoft's improving relationship to Open Source, and of course, GitHub!
+
+## [Thinking Open Source With Phil Haack](http://www.dotnetrocks.com/default.aspx?showNum=1028) on .NET Rocks.
+
+Carl Franklin and Richard Campbell are old pros at this and make it easy. They're always a riot to chat with. It's too bad a lot of the good stuff is not recorded. They should start an Unauthorized .NET Rocks where all the in-between profane conversation is recorded.
+
+In this podcast we get into a bit about Git, GitHub, and Open Source in general. As usual, I end up talking a bit about open source licensing. I'm like a broken record.
+
+## [Yet Another Podcast #131](http://jesseliberty.com/2014/09/05/yet-another-podcast-131-phil-haack/) with Jesse Liberty
+
+In this podcast Jesse Liberty and I talk a bit about Git and GitHub including our desktop clients. Jesse is getting into Git and it's a great episode for Git newbies. Jesse is easy to talk to and is effusive with the praise.
+
+## [GitHub with Phil Haack](http://msdevshow.com/2014/07/github-with-phil-haack/) on the MS Dev Show
+
+Back in July I spoke with the folks at the MS Dev Show podcast.
+
+This podcast is a Microsoft Developer focused podcast with [Jason Young](http://www.ytechie.com/) and [Carl Shweitzer](http://wpdevguy.com/). They start off the podcast with a bit of techie news where they call out some interesting blog posts and discuss them. It's a pretty neat intro.
+
+In this podcast, we talked about a bit about how I host my blog on GitHub, GitHub for Windows, Octokit.net, Atom.io, etc.
+
+## [Phil Haack and a Bad Joke](http://wildermuth.com/2014/05/05/Phil_Haack_and_a_Bad_Joke_on_This_Week_s_Podcast) with Shawn Wildermuth
+
+I did this one much earlier in the year (in May), but thought I'd list it here in case you really like the sound of my voice (I don't understand, but I don't judge).
+
+This podcast is with Shawn Wildermuth and here's his synopsis:
+
+> I get to finally use my bad joke about his last name on this week’s podcast. We also talk about his start, the move to Seattle to work at Microsoft and how to keep Californian’s out of Washington state.
+
+Spoiler alert, while I'm known for the occasional #dadjoke, the bad joke in this case was his and it wasn't dirty. Sorry.
+
+## Go Talk Good
+
+If you're doing something interesting with software, in addition to blogging about it, I think going on a podcast is a great way to get the word out to others. It's actually more approachable than speaking in front of a crowd. It's just you in your own space (hopefully a comfortable one) having a friendly conversation with the host or hosts. It takes a lot less up front preparation and good hosts will help draw out information.
