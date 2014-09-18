@@ -40,8 +40,8 @@ result of a Google search.
 The more sophisticated vain blogger realizes poring through referrer
 logs is futile and steps it up a notch by using tools such as
 [Technorati](http://www.technorati.com/),
-[Feedster](http://www.feedster.com/), and
-[PubSub](http://www.pubsub.com/). These tools enable the vain blogger to
+Feedster (no longer around), and
+PubSub (also gone bye-bye). These tools enable the vain blogger to
 register his or her blog on their search engines and then subscribe to a
 feed of blogs that mention or link to his own. Ah... this takes the
 blogger to the next level of vanity. But it doesn't stop there.
@@ -56,8 +56,7 @@ better than it was. That's all that matters.
 
 What is vanity if there is nobody around to behold it. Thus the vain
 blogger whores himself out by linking to
-[Scoble](http://radio.weblogs.com/0001011/) or [Dave
-Winer](http://www.scripting.com/) in hopes of a back referral and
+[Scoble](http://radio.weblogs.com/0001011/) or [Dave Winer](http://www.scripting.com/) in hopes of a back referral and
 perhaps endorsement. Better yet, he'll try to get link to his blog
 posted on
 [BoingBoing](http://www.boingboing.net/2004/08/30/rncnyc_daily_geek_pr.html)
@@ -72,9 +71,7 @@ dignity and integrity.
 Unless of course you can get me on Slashdot...
 
 UPDATE: One tool on the vain blogger's utility belt I forgot to mention
-is blatant self promotion. Got that one from [Brian Bailey's tips for a
-better
-blog](http://www.leaveitbehind.com/home/2005/01/building_a_bett.html),
+is blatant self promotion. Got that one from [Brian Bailey's tips for a better blog](http://www.leaveitbehind.com/home/2005/01/building_a_bett.html),
 but it applies just as well to vanity.
 
 Tags: [blogging](http://haacked.com/tags/blogging/default.aspx), [Meta
