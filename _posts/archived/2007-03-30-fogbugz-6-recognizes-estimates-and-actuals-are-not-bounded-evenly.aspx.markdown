@@ -1,21 +1,18 @@
 ---
 layout: post
-title: "FogBugz 6 Recognizes Estimates And Actuals Are Not Bounded Evenly On Both Sides"
+title: "Estimates And Actuals Are Not Bounded Evenly On Both Sides"
 date: 2007-03-30 -0800
 comments: true
 disqus_identifier: 18266
 categories: []
 ---
-[![Code
-Complete](http://ec1.images-amazon.com/images/P/0735605351.01._AA_SCMZZZZZZZ_.jpg)](http://www.amazon.com/gp/product/0735605351?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0735605351)A
+[![Code Complete](http://ec1.images-amazon.com/images/P/0735605351.01._AA_SCMZZZZZZZ_.jpg)](http://www.amazon.com/gp/product/0735605351?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0735605351)A
 while ago I read Steve McConnel’s latest book, [Software Estimation:
-Demystifying the Black
-Art](http://www.amazon.com/gp/product/0735605351?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0735605351 "Software Estimation Book"),
+Demystifying the Black Art](http://www.amazon.com/gp/product/0735605351?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0735605351 "Software Estimation Book"),
 which is a fantastic treatise on the “Black Art” of software estimation.
 
 One of the key discoveries the book highlights is just how bad people
-are at estimation, especially [single point
-estimation](http://www.codinghorror.com/blog/archives/000611.html "Single Point Estimation").
+are at estimation, especially [single point estimation](http://www.codinghorror.com/blog/archives/000611.html "Single Point Estimation").
 
 One of several techniques given in the book focuses on providing three
 estimation points for every line item.
@@ -33,14 +30,11 @@ estimation points for every line item.
 
 The hope is that when development is complete, you’ll find that the
 actual time spent is between your best case and worst case. McConnell
-[provides a
-quiz](http://www.codinghorror.com/blog/archives/000625.html "An Estimation Quiz")
-you can try out to discover that this is [harder than it
-sounds](http://www.codinghorror.com/blog/archives/000626.html "How Good An Estimator are you").
+[provides a quiz](http://www.codinghorror.com/blog/archives/000625.html "An Estimation Quiz")
+you can try out to discover that this is [harder than it sounds](http://www.codinghorror.com/blog/archives/000626.html "How Good An Estimator are you").
 
 Over time, as you reconcile your actual times into your past estimates,
-you’ll be able to figure out what I call **your estimation**[**batting
-average**](http://en.wikipedia.org/wiki/Batting_average "Batting Average"),
+you’ll be able to figure out what I call **your estimation** [**batting average**](http://en.wikipedia.org/wiki/Batting_average "Batting Average"),
 a number that represents how accurate your estimates tend to be.
 
 Once you have these three points for a given estimate, you can apply
