@@ -16,7 +16,7 @@ you start digging into the myriad of confusing command switches.
 I wanted a visual aid that showed off the structure of a git repository
 in real time while I issued commands against the repository. So I hacked
 one together in a couple afternoons.
-[SeeGit](http://haacked.github.com/SeeGit/ "SeeGit") is an open source
+[SeeGit](https://github.com/Haacked/SeeGit "SeeGit") is an open source
 instructive visual aid for teaching people about git. Point it to a
 directory and start issuing git commands, and it automatically updates
 itself with a nice graph of the git repository.
