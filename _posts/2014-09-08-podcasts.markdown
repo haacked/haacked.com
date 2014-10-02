@@ -26,7 +26,7 @@ In this podcast Jesse Liberty and I talk a bit about Git and GitHub including ou
 
 Back in July I spoke with the folks at the MS Dev Show podcast.
 
-This podcast is a Microsoft Developer focused podcast with [Jason Young](http://www.ytechie.com/) and [Carl Shweitzer](http://wpdevguy.com/). They start off the podcast with a bit of techie news where they call out some interesting blog posts and discuss them. It's a pretty neat intro.
+This podcast is a Microsoft Developer focused podcast with [Jason Young](http://www.ytechie.com/) and [Carl Schweitzer](http://wpdevguy.com/). They start off the podcast with a bit of techie news where they call out some interesting blog posts and discuss them. It's a pretty neat intro.
 
 In this podcast, we talked about a bit about how I host my blog on GitHub, GitHub for Windows, Octokit.net, Atom.io, etc.
 
