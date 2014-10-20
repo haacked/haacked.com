@@ -59,3 +59,7 @@ If you're single and have ample freezer room, freeze your glass. What I do is fi
 8. Put the shaker cap on and pour the cocktail into the glass.
 9. Add the Maraschino cherry and maybe a bit of the cherry juice if you like.
 10. Savor your perfect classic Manhattan, you classy person, you.
+
+Learning to make this drink saved me a lot of money considering a Manhattan with good Bourbon can go for over ten to fifteen bucks at a bar. My next goal is to learn a few variations and maybe one alternative cocktail for when I get tired of drinking the same thing all the time.
+
+What's your go to drink and why?
