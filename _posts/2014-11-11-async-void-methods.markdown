@@ -1,18 +1,20 @@
 ---
 layout: post
 title: "Avoid async void methods"
-date: 2014-01-02 -0800
+date: 2014-11-11 -0800
 comments: true
 categories: [csharp async]
 ---
 
-In C#, it's a good idea to avoid `async void` methods. They really are a scourge upon your code. Stephen Cleary has a pretty detailed article in [MSDN magazine that describes why they are to be avoided](http://msdn.microsoft.com/en-us/magazine/jj991977.aspx).
+Repeat after me, "__Avoid `async void`__!" (_Now say that ten times fast!_)
 
-I found another reason recently. I was investigating a bug and noticed that the unit test that should have caught the bug was passing. That's odd.
+In C#, `async void` methods are a scourge upon your code. To understand why, I recommend this detailed Stephen Cleary article, [Best Practices in Asynchronous Programming](http://msdn.microsoft.com/en-us/magazine/jj991977.aspx). In short, exceptions thrown when awaiting an `async void` method isn't handled the same way as awaiting a `Task` and will crash the process. Not a great experience.
 
-Then I noticed that the return type of the method was `async void`. I changed it to `async Task` and it started to fail. Ohhhhh shit.
+Recently, I found another reason to avoid `async void` methods. While investigating a bug, I noticed that the unit test that should have ostensibly failed because of the bug passed with flying colors. That's odd. There was no logical reason for the test to pass given the bug.
 
-If you write unit tests using XUnit.NET and accidentally mark them as `async void` instead of `async Task`, the tests are effectively ignored. I learned the hard way we had failing tests that were "passing" our test runs. Ouch!
+Then I noticed that the return type of the method was `async void`. On a hunch I changed it to `async Task` and it started to fail. Ohhhhh snap!
+
+If you write unit tests using XUnit.NET and accidentally mark them as `async void` instead of `async Task`, the tests are effectively ignored. I furiously looked for other cases where we did this and fixed them.
 
 Pretty much the only valid reason to use `async void` methods is in the case where you need an asynchronous event handler. But if you use Reactive Extensions, there's an even better approach that I've [written about before, `Observable.FromEventPattern`](http://haacked.com/archive/2012/04/09/reactive-extensions-sample.aspx/).
 
@@ -25,17 +27,19 @@ public async void Foo()
 }
 ```
 
-Well, it's pretty easy to search for that method. But there are subtle ways where `async void` methods crop up. For example, take a look at the following code.
+It's pretty easy to manually search for methods with that signature. You might even catch them in code review. But there are other ways where `async void` methods crop up that are extremely subtle. For example, take a look at the following code.
 
 ```csharp
 new Subject<Unit>().Subscribe(async _ => await Task.Run(() => {}));
 ```
 
-Looks legit, right? You are wrong my friend. Take a shot of whiskey. If you look at all the overloads of `Subscribe` you'll see that we're calling one that takes in an `Action<T>` and not a `Func<T, Task>`. In other words, we've unwittingly passed in an `async void` lambda.
+Looks legit, right? You are wrong my friend. Take a shot of whiskey (or tomato juice if you're a teetotaler)! Do it even if you were correct, because, hey! It's whiskey (or tomato juice)!
+
+If you look at all the overloads of `Subscribe` you'll see that we're calling one that takes in an `Action<T>` and not a `Func<T, Task>`. In other words, we've unwittingly passed in an `async void` lambda. Because of the beauty of type inference and extension methods, it's hard to look at code like this and know whether that's being called correctly. You'd have to know all the overloads as well as any extension methods in play.
 
 ## Here I Come To Save The Day
 
-Clearly I should tighten up code reviews to keep an eye out for this problem, right? Hell nah! Let a computer do this crap for you. I wrote some integrity tests that look out for this problem.
+Clearly I should tighten up code reviews to keep an eye out for this problem, right? Hell nah! Let a computer do this crap for you. I wrote some code I'll share here to look out for this problem.
 
 These tests make use of this method [I wrote a while back to grab all loadable types](http://haacked.com/archive/2012/07/23/get-all-types-in-an-assembly.aspx/) from an assembly.
 
@@ -64,7 +68,7 @@ public static bool HasAttribute<TAttribute>(this MethodInfo property) where TAtt
 }
 ```
 
-And the power of Reflection compels you! Here's a method that will return every public `async void` method or lambda in an assembly.
+And the power of Reflection compels you! Here's a method that will return every `async void` method or lambda in an assembly.
 
 ```csharp
 public static IEnumerable<MethodInfo> GetAsyncVoidMethods(this Assembly assembly)
@@ -122,4 +126,4 @@ Test 'GitHub.Tests.IntegrityTests.EnsureNoAsyncVoidTests' failed: Async void met
 0 passed, 1 failed, 0 skipped, took 0.97 seconds (xUnit.net 1.9.2 build 1705).
 ```
 
-My hope is this code should help us avoid accidentally making this mistake again. It's really subtle and easy to miss during code review if you're not careful. Happy coding!
+These tests will help ensure my team doesn't make this mistake again. It's really subtle and easy to miss during code review if you're not careful. Happy coding!
