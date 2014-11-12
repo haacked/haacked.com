@@ -62,9 +62,9 @@ public static IEnumerable<Type> GetLoadableTypes(this Assembly assembly)
 I also wrote this other extension method to make the final result a bit cleaner.
 
 ```csharp
-public static bool HasAttribute<TAttribute>(this MethodInfo property) where TAttribute : Attribute
+public static bool HasAttribute<TAttribute>(this MethodInfo method) where TAttribute : Attribute
 {
-    return property.GetCustomAttributes(typeof(TAttribute), false).Any();
+    return method.GetCustomAttributes(typeof(TAttribute), false).Any();
 }
 ```
 
