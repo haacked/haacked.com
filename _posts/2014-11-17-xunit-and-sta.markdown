@@ -52,3 +52,9 @@ Apartments are a way of controlling communication between objects on multiple th
 > Single-threaded apartments consist of exactly one thread, so all COM objects that live in a single-threaded apartment can receive method calls only from the one thread that belongs to that apartment. All method calls to a COM object in a single-threaded apartment are synchronized with the windows message queue for the single-threaded apartment's thread. A process with a single thread of execution is simply a special case of this model.
 
 In WPF, the UI loop is an example of this. UI components must be created on the main application thread and only invoked on that thread. UI components may look pretty, but they're all single.
+
+For completeness, the alternative to STA is MTA or Multithreaded Apartments. This is where things get really interesting.
+
+> Multithreaded apartments consist of one or more threads, so all COM objects that live in an multithreaded apartment can receive method calls directly from any of the threads that belong to the multithreaded apartment. Threads in a multithreaded apartment use a model called free-threading. Calls to COM objects in a multithreaded apartment are synchronized by the objects themselves.
+
+Yes, threads that live in a multithreaded apartment are into this whole "free-threading" lifestyle. Make of it what you will.
