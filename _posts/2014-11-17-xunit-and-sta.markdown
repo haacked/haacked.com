@@ -33,6 +33,18 @@ Well, I decided to fix that problem by writing two custom attributes for tests:
 
 `STAFactAttribute` is the same thing as `FactAttribute` but it makes sure the test runs on the STA thread. Same goes for `STATheoryAttribute`. It's the same thing as `TheoryAttribute`.
 
+For example,
+
+```csharp
+[STATheory]
+[InlineData(1)]
+[InlineData(-1)]
+public async Task SomeTest(int someValue)
+{
+  ...
+}
+```
+
 I contributed this code to the [xunit/samples](https://github.com/xunit/samples) repository on GitHub. There's a lot of great examples in this repository that demonstrate how easy it is to extend XUnit to provide a nice custom experience.
 
 ## STA Thread
