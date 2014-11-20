@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unit tests that require the STA Thread"
-date: 2014-11-17 -0800
+date: 2014-11-20 -0800
 comments: true
 categories: [csharp xunit tdd wpf]
 ---
@@ -45,7 +45,7 @@ public async Task SomeTest(int someValue)
 }
 ```
 
-I contributed this code to the [xunit/samples](https://github.com/xunit/samples) repository on GitHub. There's a lot of great examples in this repository that demonstrate how easy it is to extend XUnit to provide a nice custom experience.
+I contributed [this code](https://github.com/xunit/samples/pull/3) to the [xunit/samples](https://github.com/xunit/samples) repository on GitHub. There's a lot of great examples in this repository that demonstrate how easy it is to extend XUnit to provide a nice custom experience.
 
 ## STA Thread
 
