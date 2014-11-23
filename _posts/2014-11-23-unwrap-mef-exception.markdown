@@ -89,3 +89,14 @@ What this method does is search through the `CompositionException` structure loo
 It seems to work fine for me, but would love to have any MEF experts look at it and let me know if I'm missing anything. For example, I only look at the first error in each `CompositionException` because I've never seen more than one. But that could be an implementation detail.
 
 Even if that strategy is incomplete, the code should be safe because if it can't find the root cause exception, it'll just return the original exception, so you're no worse off than before.
+
+Here's an example of our log file with this code in place.
+
+> System.InvalidOperationException: haha
+   at GitHub.Api.ApiClient.Throw() in c:\dev\Windows\GitHub.Core\Api\ApiClient.cs:line 57
+   at GitHub.Api.ApiClient..ctor(HostAddress hostAddress, IObservableGitHubClient gitHubClient, Func`2 twoFactorChallengeHandler) in c:\dev\Windows\GitHub.Core\Api\ApiClient.cs:line 52
+   at GitHub.Api.ApiClientFactory.Create(HostAddress hostAddress) in c:\dev\Windows\GitHub\Api\ApiClientFactory.cs:line 38
+   at GitHub.Models.RepositoryHostFactory.Create(HostAddress hostAddress) in c:\dev\Windows\GitHub\Models\RepositoryHostFactory.cs:line 42
+   at GitHub.Models.RepositoryHosts..ctor(IRepositoryHostFactory repositoryHostFactory, IEnterpriseProbe enterpriseProbe, IHttpsCertificateProbe certificateProbe, ISharedCache sharedCache, IUserSettingsModel settings, ILoginCache loginCache) in c:\dev\Windows\GitHub\Models\RepositoryHosts.cs:line 51
+
+Now I can see the actual stack trace. In cases where an exception in the constructor is the cause, I really don't care about all the composition errors. This is what I really want to see. Hope you find this useful.
