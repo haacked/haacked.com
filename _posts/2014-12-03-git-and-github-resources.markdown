@@ -18,7 +18,7 @@ I thought it might be useful to collect some resources that have helped me under
 * __[The thing about Git](http://tomayko.com/writings/the-thing-about-git)__ This is a bit of a philosophical piece with practical Git workflow suggestions.
 * __[GitHub Flow Like a Pro with these 13 Git Aliases](http://haacked.com/archive/2014/07/28/github-flow-aliases/)__ This is about Git, but also GitHub workflows. It's a useful collection of aliases I put together.
 
-## Git on Windows
+### Git on Windows
 
 * __[Better Git with PowerShell](http://haacked.com/archive/2011/12/13/better-git-with-powershell.aspx/)__ Introduces Posh-Git. But don't follow the instructions for installing Posh-Git here. Instead use...
 * __[Introducing GitHub for Windows](http://haacked.com/archive/2012/05/21/introducing-github-for-windows.aspx/)__ GitHub for Windows is not only a nice UI client for Git geared towards GitHub, but it also is a great way to get the git command line and Posh-Git onto your machine.
