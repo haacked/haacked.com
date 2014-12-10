@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Unwrap MEF composition exceptions"
-date: 2014-11-22 -0800
+date: 2014-12-09 -0800
 comments: true
 categories: [csharp mef]
 ---
 
-There are times when the Managed Extensibility Framework (aka MEF) cannot compose a part. In those cases, it'll throw a `[CompositionException](http://msdn.microsoft.com/en-us/library/system.componentmodel.composition.compositionexception%28v=vs.110%29.aspx)`.
+There are times when the Managed Extensibility Framework (aka MEF, the close relative of "Meh") cannot compose a part. In those cases it'll shrug (¯\\_(ツ)_/¯) and then take a dump on your runtime execution by throwing a  [`CompositionException`](http://msdn.microsoft.com/en-us/library/system.componentmodel.composition.compositionexception%28v=vs.110%29.aspx).
 
-There are probably many reasons a composition will fail. There are two I run into the most often. The first is that you simply forgot to export a type. The exception message you get with a `CompositionException` is helpful here.
+There are many reasons a composition will fail. There are two I run into the most often. The first is that I simply forgot to export a type. The `CompositionException` in this case is actually helpful.
 
-But the other case is where one of the types you're importing throws an exception in its constructor. Here, the exception message is pretty useless. Here's an example taken from a real application, GitHub for Windows. I had to inject an exception with the message "haha" in the constructor of `CreateNewRepositoryViewModel`.
+But the other case is when an imported type throws an exception in its constructor. Here, the exception message is pretty useless. Here's an example taken from a real application, [GitHub for Windows](https://windows.github.com/). The actual exception is contrived for the purposes of demonstration. I changed the constructor of `CreateNewRepositoryViewModel` to throw an exception with the message "haha".
 
 > System.ComponentModel.Composition.CompositionException: The composition produced a single composition error. The root cause is provided below. Review the CompositionException.Errors property for more detailed information.
 
@@ -23,11 +23,11 @@ Element: GitHub.ViewModels.CreateNewRepositoryViewModel -->  GitHub.ViewModels.C
 
 > ...
 
-It goes on and on. But note that the one piece of information I _really really_ want is not present. __What is the stack trace of the exception that caused this cascade of failures in the first place?!__
+It goes on and on. But note that the one piece of information I _really really_ want, the piece of information that would actually help me figure out what's going on, is not present. __What is the stack trace of the exception that caused this cascade of failures in the first place?!__
 
-If your system is logging exception messages and stack traces, this is pretty useless. Note that you do see the root cause exception message "haha", but nothing else. You don't even know the exception type.
+This exception stack trace is pretty useless. Note that you do see the root cause exception message "haha", but nothing else. You don't even know the exception type.
 
-But don't worry, I wouldn't be writing this blog post if I didn't have an answer for you.
+But don't worry, I wouldn't be writing this blog post if I didn't have an answer for you. It may not be a good answer, but it's something that seems to work for me. I wrote a method that unwraps the composition exception and tries to retrieve the actual original exception.
 
 ```csharp
 /// <summary>
@@ -97,4 +97,4 @@ Here's an example of our log file with this code in place, emphasis mine.
    at GitHub.Api.ApiClient..ctor(HostAddress hostAddress, IObservableGitHubClient gitHubClient, Func`2 twoFactorChallengeHandler) in c:\dev\Windows\GitHub.Core\Api\ApiClient.cs:line 52
    at GitHub.Api.ApiClientFactory.Create(HostAddress hostAddress) in...
 
-Now I can see the actual stack trace. In cases where an exception in the constructor is the cause, I really don't care about all the composition errors. This is what I really want to see. Hope you find this useful.
+Now I can see the actual stack trace. In cases where an exception in the constructor is the cause, I really don't care about all the composition errors. This is what I really want to see. I hope you find this useful.
