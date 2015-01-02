@@ -6,17 +6,14 @@ comments: true
 disqus_identifier: 18382
 categories: []
 ---
-Not too long ago, [Jeff
-Atwood](http://www.codinghorror.com/blog/ "CodingHorror") lowered the
+Not too long ago, [Jeff Atwood](http://www.codinghorror.com/blog/ "CodingHorror") lowered the
 overall productivity of software developers everywhere when he [wrote
-about Desktop Tower
-Defense](http://www.codinghorror.com/blog/archives/000872.html "How to get rich programming"),
+about Desktop Tower Defense](http://www.codinghorror.com/blog/archives/000872.html "How to get rich programming"),
 a game that he calls *fiendishly addictive*.
 
 I chose not to play the game as I had too much going on. But now I have
 family visiting and my brother (Hey Brian!) introduced me to yet another
-fiendishly addictive flash game, *[Line
-Rider](http://www.official-linerider.com/images/engin2.162.swf "Line Rider").
+fiendishly addictive flash game, *[Line Rider](http://www.crazygames.com/game/line-rider "Line Rider").
 Damn you brother!*
 
 It’s not even really a game in the sense that there’s no objective other
@@ -25,8 +22,7 @@ drawing tool. You simply start drawing lines and hit play to watch a
 some little dude with a red scarf sled down your course.
 
 [![engin2.162.swf (applicationx-shockwave-flash Object) - Mozilla
-Firefox
-(2)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MyLatestAddictionIsLineRider_CF3B/engin2.162.swf%20(applicationx-shockwave-flash%20Object)%20-%20Mozilla%20Firefox%20(2)_thumb_1.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MyLatestAddictionIsLineRider_CF3B/engin2.162.swf%20(applicationx-shockwave-flash%20Object)%20-%20Mozilla%20Firefox%20(2)_1.png)
+Firefox(2)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MyLatestAddictionIsLineRider_CF3B/engin2.162.swf%20(applicationx-shockwave-flash%20Object)%20-%20Mozilla%20Firefox%20(2)_thumb_1.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MyLatestAddictionIsLineRider_CF3B/engin2.162.swf%20(applicationx-shockwave-flash%20Object)%20-%20Mozilla%20Firefox%20(2)_1.png)
 
 The tools themselves are simple. You have a free-hand pencil tool and a
 line tool. There are 3 colors of lines you can draw.
@@ -43,8 +39,3 @@ brother showed me some of the amazing stuff that people have put
 together on YouTube like these two videos:
 
 Sadly, I am completely hooked.
-
-Technorati tags: [Games](http://technorati.com/tags/Games),
-[Flash](http://technorati.com/tags/Flash),
-[LineRider](http://technorati.com/tags/LineRider)
-
