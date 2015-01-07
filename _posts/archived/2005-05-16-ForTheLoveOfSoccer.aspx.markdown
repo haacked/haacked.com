@@ -6,12 +6,8 @@ comments: true
 disqus_identifier: 3254
 categories: [personal]
 ---
-![Thierry Henry](/images/ThierryHenry.jpg) One of my friends from our
-weekend pick-up game sent around this quote from Nick Hornby's novel,
-[Fever
-Pitch](http://www.amazon.com/exec/obidos/tg/detail/-/1573226882/104-6358879-1601531?v=glance)
-(which was regrettably turned into a movie about baseball, rather than
-soccer as it was written).
+![Thierry Henry](/images/ThierryHenry.jpg) One of my friends from our weekend pick-up game sent around this quote from Nick Hornby's novel, [Fever Pitch](http://www.amazon.com/exec/obidos/tg/detail/-/1573226882/104-6358879-1601531?v=glance)
+(which was regrettably turned into a movie about baseball, rather than soccer as it was written).
 
 This quote just captures the love and passion the world has for soccer.
 
@@ -31,15 +27,11 @@ This quote just captures the love and passion the world has for soccer.
 > and your lack of height, were it not for all those peripherals, you
 > would have looked just like....(Thierry Henry).
 
-For those (probably just family and friends) that are interested, here
-are some pics from a recent pick-up game we had. We rented a pitch with
-a perfect artificial turf for \$175 an hour for two hours (I need to get
-into that racket). One of our players is also an aspiring photographer.
+For those (probably just family and friends) that are interested, here are some pics from a recent pick-up game we had. We rented a pitch with a perfect artificial turf for $175 an hour for two hours (I need to get into that racket). One of our players is also an aspiring photographer.
 
 ![Clark Saves](/images/ClarkSaves.jpg)
 
-This is Clark, our fearless phenomenal goalie. You may have seen him in
-that movie, *In Good Company*.
+This is Clark, our fearless phenomenal goalie. You may have seen him in that movie, *In Good Company*.
 
 ![Ron Dribbles](/images/RonDribbles.jpg)
 
