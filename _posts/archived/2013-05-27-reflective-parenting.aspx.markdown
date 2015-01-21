@@ -59,7 +59,8 @@ So in this post, I’ll explore what SCIENCE brings to bear on the
 subject. It may seem weird to invoke science in a subject as personal
 and emotional as parenting. But the scientific method is effective, even
 on a personal
-scale.![xkcd-standback](http://haacked.com/images/haacked_com/WindowsLiveWriter/ReflectiveParenting_80EF/xkcd-standback_thumb.png "xkcd-standback")
+scale.
+![xkcd-standback](http://haacked.com/images/haacked_com/WindowsLiveWriter/ReflectiveParenting_80EF/xkcd-standback_thumb.png "xkcd-standback")
 
 Note that the focus here is on core principles and less on specifics.
 I’m not going to tell you to spank or not spank your child (*because we
