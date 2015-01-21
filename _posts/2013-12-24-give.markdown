@@ -1,0 +1,82 @@
+---
+layout: post
+title: "Give!"
+date: 2013-12-24 -0800
+comments: true
+categories: [personal]
+---
+
+> To those whom much is given, much is expected. -- John F. Kennedy
+
+There was this recent [viral video](http://www.youtube.com/watch?v=8yc6z2oSPdQ) where a Google employee tells protesters who lament the rising cost of living in the bay area, "Why don't you go to a city where you can afford it? This is a city for the right people."
+
+It turns out that the confrontation was staged. The "Google employee" was actually a union organizer.
+
+What saddens me about this video is how easy it was for so many people to be duped by it. What it tells me is that the tech industry is not known for compassion or generosity.
+
+In part, I think there's this pervasive belief among developers that we earned and deserve our success. Nobody gave it to us, we did it on our own. I tend to take a different view:
+
+> We drink from wells we did not dig; we are warmed by fires we did not kindle. --Deuteronomy. 6.11
+
+It's nice to see companies like StackExchange [embody this approach](http://blog.stackoverflow.com/2013/12/stack-exchange-gives-back-2013-2/).
+
+Much has been given to us. So let's give back! If you don't know where to give, here are some ideas.
+
+## Omakase Charity
+
+In [their own words](https://omakasecharity.org/),
+
+> Omakase is a Japanese word that means “I’ll leave it to you.” We research and select high-impact nonprofits for you. Every quarter our charities change, giving you the chance to learn about and support a wide variety of charities.
+
+This seems ideal for the busy software developer who wants to see their money put to good use, but doesn't have time to research a bunch of charities.
+
+Some people will have a negative reaction to the idea of outsourcing their charity giving. But from my experience, that's generally just a cop out. If a person is already deeply involved with certain charities, then Omakase Charity is probably not for them.
+
+But for those who are not giving because they're too busy to research all the options, Omakase Charity provides a good way to know their donation is going to good use.
+
+## Clothing Students (Nazareth House/Apostolate/Grace Church)
+
+Giving to some charities can feel impersonal. The money flows into a giant organization and who knows how your dollar is spent.
+
+Others feel much more small and personal. My friend and co-worker [Drew Miller](https://twitter.com/halfogre) has been a longtime supporter of this school in Sierra Leone. The school has 300 students in need of school uniforms. As I write this, they have raised 19% of their $3,800 goal. Your contribution will make a noticeable concrete difference.
+
+My family donated some money, but sadly not enough to get an Octocat on the uniforms.
+
+## Charity: Water
+
+I learned [this charity](http://www.charitywater.org/) from another friend and co-worker, [Julie Ann Horvath](http://julieannhorvath.com/). In their own words,
+
+> We’re a non-profit organization on a mission to bring clean and safe drinking water to every person on the planet. Join us.
+
+This addresses such a fundamental need. And the benefits are compounded. When people have easy access to clean drinking water, their health improves. It frees up time for people to get an education, improve other aspects of their community, and so on.
+
+> Every $1 invested in improved water supply and sanitation can yield from $4 to $12 for the local economy, depending on the type of project.
+
+My family takes clean water for granted. We donated so others will hopefully be able to do the same.
+
+## Kiva
+
+[Kiva](http://www.kiva.org/) isn't really a charity in the traditional sense. It's a micro-lending site that really helps people. In their words,
+
+> We are a non-profit organization with a mission to connect people through lending to alleviate poverty. Leveraging the internet and a worldwide network of microfinance institutions, Kiva lets individuals lend as little as $25 to help create opportunity around the world. 
+
+The site has a 99% repayment rate. This means the money you lend can really go a long way. After it's been repaid, you can loan it to someone else in need. Not everyone needs outright charity. Sometimes they just need a loan to get on their feet. It helps communities help themselves and hopefully create sustainable businesses.
+
+My wife thought it'd be fun to get the kids involved with Kiva and pick a few groups to provide a loan to as a good means to help them develop a sense of compassion and empathy.
+
+## BrightFunds
+
+Brightfunds itself is not a charity, but a donation platform.
+
+GitHub recently set us up with [BrightFunds](http://www.brightfunds.org/) as the means to provide employee matching. My wife and I had fun giving money away on the site. So much that we triggered our credit card's fraud detection algorithm. Whoops!
+
+Brightfunds groups charities into various funds, but you can also give directly to specific charities.
+
+Here's a few we gave to (among others).
+
+* [Year Up](http://www.yearup.org/) - close the Opportunity Divide by providing urban young adults with the skills, experience, and support that will empower them to reach their potential through professional careers and higher education.
+* [Girls Who Code](http://www.girlswhocode.com/) - working to close the gender gap in the technology and engineering sectors.
+* [EFF](https://www.eff.org/) - Defending your rights in the digital world.
+* [Women's Refugee Commission](http://womensrefugeecommission.org/) - improve the lives and protect the rights of women, children and youth displaced by conflict and crisis.
+
+If you have the time and inclination to research charities, [CharityNavigator](charitynavigator.org) is a useful resource to research how a non-profit is organized and how the money is spent.
