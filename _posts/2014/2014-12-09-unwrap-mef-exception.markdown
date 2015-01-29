@@ -86,7 +86,7 @@ public static Exception UnwrapCompositionException(this Exception exception)
 
 What this method does is search through the `CompositionException` structure looking for an exception that is the root cause of the failure. Basically an exception that isn't a `CompositionException` nor `ComposablePartException`.
 
-It seems to work fine for me, but would love to have any MEF experts look at it and let me know if I'm missing anything. For example, I only look at the first error in each `CompositionException` because I've never seen more than one. But that could be an implementation detail.
+It seems to work fine for me, but I would love to have any MEF experts look at it and let me know if I'm missing anything. For example, I only look at the first error in each `CompositionException` because I've never seen more than one. But that could be an implementation detail.
 
 Even if that strategy is incomplete, the code should be safe because if it can't find the root cause exception, it'll just return the original exception, so you're no worse off than before.
 
