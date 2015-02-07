@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Failure and Repair"
-date: 2014-12-09 -0800
+title: "The Inevitability of Failure and Importance of Repair"
+date: 2015-02-07 -0800
 comments: true
 categories: [personal management]
 ---
 
-I'm often amazed at the Sisyphean lengths people will go to try and prevent failure, yet prepare so little for the inevitability of failure.
+I'm often amazed at the Sisyphean lengths people will go to try and prevent failure, yet prepare so little for its inevitability.
 
 There's nothing wrong with attempting to prevent failures that are easily preventable. But such preventative measures have to be weighed against the friction and cost the measure introduces. Lost in this calculation is the consideration that much of the energy and effort that goes into prevention might be better spent in preparing to respond to failure and the repair process.
 
-This is a lesson that's not just true for software, but all aspects of life. I was thinking about how this principle seems to apply to social policy, parenting, relationships, and code.
+This is a lesson that's not just true for software, but all aspects of life. The following are examples of where this principle applies to social policy, parenting, relationships, and code.
 
 ## Social Policy
 
@@ -18,17 +18,17 @@ This is a lesson that's not just true for software, but all aspects of life. I w
 
 > If there is one number that embodies the seemingly intractable challenge imposed by the illegal drug trade on the relationship between the United States and Mexico, it is $177.26. That is the retail price, according to Drug Enforcement Administration data, of one gram of pure cocaine from your typical local pusher. That is 74 percent cheaper than it was 30 years ago.
 
-So after thirty years spent, [$51 Trillion](http://www.drugpolicy.org/drug-war-statistics) (yes, Trillion!) spent, the incredible social costs, the result we get is that it's 74 percent cheaper for that hit of cocaine. Wall street traders are rejoicing.
+So after thirty years spent, [$51 Trillion](http://www.drugpolicy.org/drug-war-statistics) (yes, Trillion!) spent, not to mention the incredible social costs, the result we get for all that expenditure is it's 74 percent cheaper for that hit of cocaine. Wall street traders are rejoicing.
 
-It doesn't take [5 Nobel Prize winning economists](http://www.alternet.org/drugs/5-nobel-prize-economists-call-end-failed-war-drugs) to tell you that policy is a failure.
+It doesn't take [5 Nobel Prize winning economists](http://www.alternet.org/drugs/5-nobel-prize-economists-call-end-failed-war-drugs) to tell you that the drug war is a failure.
 
 The idea that you can tell people to "Just Say No" and that will somehow turn the tide of human nature is laughably ridiculous. This is the failure of the prevention model.
 
-A repair model is based on the realization that you can't stop people from taking drugs, but you can help with the repair process for those who do get addicted. You can get better results if you treat drugs as a health problem and not a criminal problem. It's [worked very well for Portugal](http://www.forbes.com/sites/erikkain/2011/07/05/ten-years-after-decriminalization-drug-abuse-down-by-half-in-portugal/). Ten years after decriminalizing all drugs, drug abuse is down by half.
+A response that focuses on repair as opposed to all out prevention realizes that you can't stop people from taking drugs, but you can help with the repair process for those who do get addicted. You can get better results if you treat drugs as a health problem and not a criminal problem. It's [worked very well for Portugal](http://www.forbes.com/sites/erikkain/2011/07/05/ten-years-after-decriminalization-drug-abuse-down-by-half-in-portugal/). Ten years after they  decriminalized all drugs, drug abuse is down by half.
 
 > This development can not only be attributed to decriminalisation but to a confluence of treatment and risk reduction policies.
 
-It's a sane approach and it works. Locking an addict up in jail doesn't help repair them.
+It's a sane approach and it works. Locking an addict up in jail doesn't help them to repair.
 
 ## Parenting
 
@@ -40,15 +40,15 @@ If there's ever a situation that will disabuse a person of the notion that they'
 
 Perhaps I'm fortunate that I get a lot of practice fucking up and then repairing with my own kids. Just the other day I was frazzled trying to get the kids ready for some birthday party. I told my son to fill out the birthday card, but avoid a splotch of water on the table while I went to grab a towel. Sure enough, he put the card on the water. I was pissed. I berated him for doing the one thing I just finished explicitly telling him not to do that. Why would he do that?! Why didn't he liste?!
 
-His normal smile was replaced with a crestfallen face as his eyes teared up. That struck me. When I calmed down, he pointed to a little plate full of water on the table. He thought I had meant _that_ water. Asshole doesn't even begin to describe how much of a schmuck I felt at that moment. It was a total misunderstanding. He didn't even see the splotch of water next to the more conspicuous plate of water.
+His normal smile was replaced with a crestfallen face as his eyes teared up. That struck me. When I calmed down, he pointed to a little plate full of water on the table. He thought I had meant _that_ water. "Asshole" doesn't even begin to describe how much of a schmuck I felt at that moment. It was a total misunderstanding. He didn't even see the splotch of water next to the more conspicuous plate of water.
 
-I got down to his eye level and told him that I'm sorry. I made a mistake. I understand how my instructions would be confusing. I was sincere, remoresful, and honest. We hugged it out and things were fine afterwards. Learning to repair is essential to good parenting.
+I got down to his eye level and told him that I'm sorry. I made a mistake. I understand how my instructions would be confusing. I was sincere, remorseful, and honest. We hugged it out and things were fine afterwards. Learning to repair is essential to good parenting.
 
 ## Relationships
 
 I've been reading <a href="http://www.amazon.com/gp/product/014028852X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=014028852X&linkCode=as2&tag=youvebeenhaac-20&linkId=AQI5WFMVTHGOLSNB">Difficult Conversations: How to Discuss What Matters Most</a>. This book is a phenomenal guide to communicating well, both at work and home. Even if you think you are great at communicating with others, there's probably something in here for you.
 
-It recently helped me through a recent difficult situation where I hurt someone's feelings. I had no idea that my words would prompt such a response and was surprised by the reaction. Prior to reading this book, my typical approach would be to try and defend my actions and help this person see the obvious reason in my position. I would try to _win_ the argument.
+It helped me through a recent difficult situation where I hurt someone's feelings. I had no idea that my words would prompt the response it did and I was surprised by the reaction. Prior to reading this book, my typical approach would be to try and defend my actions and help this person see the obvious reason in my position. I would try to _win_ the argument.
 
 Difficult Conversations proposes a third approach, rather than try to win the argument, it suggests you move towards a learning conversation.
 
@@ -82,4 +82,4 @@ There are a lot of backup systems out there. And to a degree, backups are a step
 
 ## Moral
 
-Systems and policies that require 100% failure prevention to work are highly suspect. Such a system should trigger your spidey sense. When building a system or policy, think not only about how the system or palicy might fail, but how users of the system and those subject to the policy might fail. And give them tools to recover and repair failures. Perhaps the only guarantee you can provide is there will be failure. So prepare for it.
+Systems and policies that require 100% failure prevention to work are highly suspect. Such a system should trigger your Spidey sense. When building a system or policy, think not only about how the system or policy might fail, but how users of the system and those subject to the policy might fail. And give them tools to recover and repair failures. Perhaps the only guarantee you can provide is there will be failure. So prepare for it and prepare to recover from it.
