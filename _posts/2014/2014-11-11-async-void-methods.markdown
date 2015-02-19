@@ -8,7 +8,7 @@ categories: [csharp async]
 
 Repeat after me, "__Avoid `async void`__!" (_Now say that ten times fast!_) Ha ha ha. You sound funny.
 
-In C#, `async void` methods are a scourge upon your code. To understand why, I recommend this detailed Stephen Cleary article, [Best Practices in Asynchronous Programming](http://msdn.microsoft.com/en-us/magazine/jj991977.aspx). In short, exceptions thrown when awaiting an `async void` method isn't handled the same way as awaiting a `Task` and will crash the process. Not a great experience.
+In C#, `async void` methods are a scourge upon your code. To understand why, I recommend this detailed Stephen Cleary article, [Best Practices in Asynchronous Programming](http://msdn.microsoft.com/en-us/magazine/jj991977.aspx). In short, exceptions thrown when calling an `async void` method isn't handled the same way as awaiting a `Task` and will crash the process. Not a great experience.
 
 Recently, I found another reason to avoid `async void` methods. While investigating a bug, I noticed that the unit test that should have ostensibly failed because of the bug passed with flying colors. That's odd. There was no logical reason for the test to pass given the bug.
 
