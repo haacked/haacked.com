@@ -18,7 +18,7 @@ and I promised I would incorporate his feedback and revise the code.
 
 Since that time, Ian [revisited the
 TimedLock](http://www.interact-sw.co.uk/iangblog/2004/04/26/yetmoretimedlocking)
-based on comments he recevied and changed it to be a struct in both
+based on comments he received and changed it to be a struct in both
 Debug and Release versions. He adds a new Sentinel class in the debug
 version. The finalizer in the Sentinal is used to detect whether or not
 the user of the TimedLock remembered to call Dispose. I've incorporated
