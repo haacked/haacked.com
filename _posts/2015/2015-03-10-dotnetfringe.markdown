@@ -18,8 +18,7 @@ I am excited by all this. It's been a long time coming. It's a good thing.
 
 That being said, Microsoft, being the giant company it is, casts a large shadow. It's good to praise the vigor with which Microsoft adopts open source. At the same time, it's important not to forget all the projects that have been here all along, nor the new ones that crop up all the time. The lesser known projects and independent open source developers are an important part of the .NET open source ecosystem.
 
-[DotNetFringe](http://dotnetfringe.org/) (April 12-14 in Portland, Oregon) is a new conference that hopes to bring all these grass root independent efforts from out of the shadow. This conference is organized by a [group of independent folks](http://dotnetfringe.org/index.html#team) (myself included) who have a deep seated passion for .NET open source.
-
+[DotNetFringe](http://dotnetfringe.org/) (April 12-14 in Portland, Oregon) is a new conference that will help bring all these grass root independent efforts from out of the shadow. This conference is organized by a [group of independent folks](http://dotnetfringe.org/index.html#team) (myself included) who have a deep seated passion for .NET open source.
 
 And we collected a great [line-up of speakers](http://dotnetfringe.org/index.html#speakers). Some of the names you'll recognize as fixtures in the .NET open source community. Many are regular speakers. We also worked hard to create an environment that welcomes fresh new voices you may not have heard before.
 
