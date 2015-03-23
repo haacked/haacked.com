@@ -88,7 +88,7 @@ Sometimes, I just want to save my work in a commit without having to think of a 
 
 ```ini
     save = !git add -A && git commit -m 'SAVEPOINT'
-    wip = !git add -u && git commit -m "WIP" 
+    wip = commit -am "WIP" 
 ```
 
 When I return to work, I'll just use `git undo` which resets the previous commit, but keeps all the changes from that commit in the working directory.
