@@ -8,6 +8,8 @@ categories: [personal management]
 
 A lot of the advice you see about management is bullshit. For example, I recently read some post, probably on some pretentious site like medium.com, about how you shouldn't send emails late as night if you're a manager because it sends the wrong message to your people. It creates the impression that your people should be working all the time and destroys the idea of work-life balance.
 
+![whaaaaat's happening?](https://cloud.githubusercontent.com/assets/19977/6819836/ee52113e-d284-11e4-9ac2-08f05ca1cb27.png)
+
 Don't get me wrong, I get where there coming from. The 1990s.
 
 For some reason, this piece of management advice made me angry. Let me describe my team. I have one person in San Francisco, two in Canada, one in Sweden, one in Copenhagen, a couple in Ohio, one in Australia, and I live in Washington. So pray tell me, when exactly can I send an email that won't be received by someone out of "normal" working hours?
