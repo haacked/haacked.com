@@ -8,7 +8,7 @@ categories: []
 ---
 A while ago I wrote up a [Quick and Dirty Guide to Configuring Log4Net
 for Web
-Applications](http://haacked.com/archive/2005/03/07/2317.aspx "Guide to Log4Net").
+Applications](http://haacked.com/archive/2005/03/07/ConfiguringLog4NetForWebApplications.aspx/ "Guide to Log4Net").
 Today I received an email asking how to set up logging for a web
 application that also consists of a business layer and a data access
 layer.
