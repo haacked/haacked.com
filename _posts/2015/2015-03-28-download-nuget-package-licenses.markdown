@@ -19,8 +19,10 @@ Then it dawned on me. Hey! I'm one of those people! And that's exactly what we d
 I didn't find an exact solution, but I found a really good start. This [StackOverflow answer](http://stackoverflow.com/a/10055564/598) by [Matt Ward](http://lastexitcode.com/) shows how to download every license for a single package. I then found [this post](http://www.edcourtenay.co.uk/musings-of-an-idiot/list-referenced-nuget-packages-from-the-package-manager-console) by Ed Courtenay to list every package in a solution. I combined the two together and tweaked them a bit (such as filtering out null project names) and ended up with this one liner you can paste into your Package Manager Console. Note that you'll want to change the path to something that makes sense on your machine.
 
 ```powershell
-@( Get-Project -All |  ? { $_.ProjectName } |    % { Get-Package -ProjectName $_.ProjectName } ) |    Sort -Unique |    % { $pkg = $_ ; Try { (New-Object System.Net.WebClient).DownloadFile($pkg.LicenseUrl, 'c:\dev\licenses\' + $pkg.Id + ".txt") } Catch [system.exception] { Write-Host "Could not download license for $pkg" } }
+@( Get-Project -All | ? { $_.ProjectName } | % { Get-Package -ProjectName $_.ProjectName } ) | Sort -Unique | % { $pkg = $_ ; Try { (New-Object System.Net.WebClient).DownloadFile($pkg.LicenseUrl, 'c:\dev\licenses\' + $pkg.Id + ".txt") } Catch [system.exception] { Write-Host "Could not download license for $pkg" } }
 ```
+
+_UPDATE:_ My first attempt had a bug in the in the catch clause that would prevent it from showing the package when an exception occurred. Thanks to Graham Clack for noticing it, Stephen Yeadon for suggesting a fix, and Gabriel for providing a PR for the fix.
 
 Be sure to double check that the list is correct by comparing it to the list of package folders in your packages directory. This isn't the complete list for my project because we also reference submodules, but it's a really great start!
 
