@@ -28,8 +28,7 @@ public class DisposableObject : IDisposable
     {
         if(disposing)
         {
-            Console.WriteLine("Releasing Managed Resources in base
-lass!");
+            Console.WriteLine("Releasing Managed Resources in base class!");
         }
     }
 }
