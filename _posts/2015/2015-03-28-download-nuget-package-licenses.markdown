@@ -18,6 +18,8 @@ Then it dawned on me. Hey! I'm one of those people! And that's exactly what we d
 
 I didn't find an exact solution, but I found a really good start. This [StackOverflow answer](http://stackoverflow.com/a/10055564/598) by [Matt Ward](http://lastexitcode.com/) shows how to download every license for a single package. I then found [this post](http://www.edcourtenay.co.uk/musings-of-an-idiot/list-referenced-nuget-packages-from-the-package-manager-console) by Ed Courtenay to list every package in a solution. I combined the two together and tweaked them a bit (such as filtering out null project names) and ended up with this one liner you can paste into your Package Manager Console. Note that you'll want to change the path to something that makes sense on your machine.
 
+I posted this as a [gist as well](https://gist.github.com/Haacked/31c645b2ca315ebf1a1f).
+
 ```powershell
 @( Get-Project -All | ? { $_.ProjectName } | % { Get-Package -ProjectName $_.ProjectName } ) | Sort -Unique | % { $pkg = $_ ; Try { (New-Object System.Net.WebClient).DownloadFile($pkg.LicenseUrl, 'c:\dev\licenses\' + $pkg.Id + ".txt") } Catch [system.exception] { Write-Host "Could not download license for $pkg" } }
 ```
