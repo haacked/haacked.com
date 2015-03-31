@@ -22,7 +22,7 @@ I didn't find an exact solution, but I found a really good start. This [StackOve
 @( Get-Project -All | ? { $_.ProjectName } | % { Get-Package -ProjectName $_.ProjectName } ) | Sort -Unique | % { $pkg = $_ ; Try { (New-Object System.Net.WebClient).DownloadFile($pkg.LicenseUrl, 'c:\dev\licenses\' + $pkg.Id + ".txt") } Catch [system.exception] { Write-Host "Could not download license for $pkg" } }
 ```
 
-_UPDATE:_ My first attempt had a bug in the in the catch clause that would prevent it from showing the package when an exception occurred. Thanks to Graham Clack for noticing it, Stephen Yeadon for suggesting a fix, and Gabriel for providing a PR for the fix.
+_UPDATE:_ My first attempt had a bug in the catch clause that would prevent it from showing the package when an exception occurred. Thanks to Graham Clack for noticing it, Stephen Yeadon for suggesting a fix, and Gabriel for providing a PR for the fix.
 
 Be sure to double check that the list is correct by comparing it to the list of package folders in your packages directory. This isn't the complete list for my project because we also reference submodules, but it's a really great start!
 
