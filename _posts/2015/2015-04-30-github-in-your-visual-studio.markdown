@@ -8,6 +8,8 @@ categories: [github visualstudio]
 
 I heard you liked GitHub, so today my team put GitHub inside of your Visual Studio. This has been a unique collaboration with the Visual Studio team. In this post, I'll walk you through installation and the features. I'll then talk a bit about the background for how this came to be.
 
+And if you're a fan of video, here's a [video I recorded for Microsoft's Channel 9 site](https://channel9.msdn.com/Series/ConnectOn-Demand/217) that walks through the features.
+
 ## Installation
 
 If you have Visual Studio 2015 installed, visit the Visual Studio Extension gallery to download and install the extension. You can use the following convenient URL to grab it: [https://aka.ms/ghfvs](https://aka.ms/ghfvs).
