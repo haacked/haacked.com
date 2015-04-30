@@ -6,9 +6,11 @@ comments: true
 categories: [github visualstudio]
 ---
 
-I heard you liked GitHub, so today my team put GitHub inside of your Visual Studio. This has been a unique collaboration with the Visual Studio team. In this post, I'll walk you through installation and the features. I'll then talk a bit about the background for how this came to be.
+I heard you liked GitHub, so today [my team put GitHub inside of your Visual Studio](https://github.com/blog/1989-improving-the-github-workflow-for-the-microsoft-community). This has been a unique collaboration with the Visual Studio team. In this post, I'll walk you through installation and the features. I'll then talk a bit about the background for how this came to be.
 
-And if you're a fan of video, here's a [video I recorded for Microsoft's Channel 9 site](https://channel9.msdn.com/Series/ConnectOn-Demand/217) that walks through the features.
+__If you are attending Build 2015, I'll be giving a demo of this as part of [the talk Martin Woodward and I are giving](http://channel9.msdn.com/Events/Build/2015/3-746) in room 2009__
+
+If you're a fan of video, here's a [video I recorded for Microsoft's Channel 9 site](https://channel9.msdn.com/Series/ConnectOn-Demand/217) that walks through the features. I also recorded an interview with the [.NET Rocks folks](http://www.dotnetrocks.com/default.aspx?showNum=1133) where we have a rollicking good time talking about it.
 
 ## Installation
 
