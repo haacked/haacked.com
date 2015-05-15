@@ -12,7 +12,7 @@ This past week I had the great pleasure to speak in Puerto Rico at [their TechSu
 
 My colleague, [Ben Balter](http://ben.balter.com/) referred me to the CIO of Puerto Rico; [Giancarlo Gonzales](https://twitter.com/giangonz?lang=en), an energetic advocate for government embrace of technology; to speak about the transformative power of Open Source on businesses and government agencies. I partnered with [Rich Lander](https://twitter.com/runfaster2000) from Microsoft. Rich is on the CLR team and has been heavily involved in all the work to open source the Core CLR, etc.
 
-![image](https://cloud.githubusercontent.com/assets/19977/7637908/4e47da06-fa3f-11e4-9110-d5688fede6cc.png)
+![Colorful Puerto Rico Buildings](https://cloud.githubusercontent.com/assets/19977/7637908/4e47da06-fa3f-11e4-9110-d5688fede6cc.png)
 
 The local technology sector is heavily pro Microsoft. Giancarlo had a vision that we could help convince these business leaders that the world has changed, Microsoft has changed, and it's now perfectly fine to mix and match technologies as they make sense. It's ok to use GitHub along with your Microsoft stack. You don't have to be locked in to a single vendor. We tried our best.
 
@@ -20,11 +20,11 @@ The local technology sector is heavily pro Microsoft. Giancarlo had a vision tha
 
 Most of my time in Puerto Rico was spent working on the talk and in an emergency room (more on that later). But Rich and I did manage a short trip to the forts at San Cristóbal and El Morrow.
 
-![Cristobal](https://cloud.githubusercontent.com/assets/19977/7638000/d88e2940-fa3f-11e4-8aa4-37820db399b2.png)
+![San Cristobal](https://cloud.githubusercontent.com/assets/19977/7638000/d88e2940-fa3f-11e4-8aa4-37820db399b2.png)
 
 I was absolutely giddy with excitement when I set foot in these forts. As a fan of Sid Meier's Pirates and later Assassin's Creed Black Flag, which both take place in the West Indies, I really enjoyed seeing one of the settings in real life.
 
-![Cristobal](https://cloud.githubusercontent.com/assets/19977/7646949/edace3de-fa99-11e4-9f6b-43c621ee1115.png)
+![El Morrow](https://cloud.githubusercontent.com/assets/19977/7646949/edace3de-fa99-11e4-9f6b-43c621ee1115.png)
 
 There are tunnels to explore, ramparts to patrol, and views of the ocean to soak in. I highly recommend a visit. The imprressiveness of the forts are a reflection of how Puerto Rico was a historically strategic outpost.
 
@@ -38,7 +38,7 @@ Unfortunately, it kept getting worse every day from that point on. I just assume
 
 So I got out of bed at 2 AM and grabbed a taxi to the emergency room at Ashford Presbyterian hospital. The doctor took a look at it and ordered some X-rays and they gave me an IV of anti-biotics.
 
-<img src="https://cloud.githubusercontent.com/assets/19977/7637885/2913ec02-fa3f-11e4-9575-4313a841767a.png" width="365" />
+<img src="https://cloud.githubusercontent.com/assets/19977/7637885/2913ec02-fa3f-11e4-9575-4313a841767a.png" width="365" alt="Antibiotics IV" />
 
 It turns out that I had experienced an elbow fracture and there was a small bone chip. The doctor prescribed a more powerful anti-inflammatory and some antibiotics. He also gave me a sling to wear.
 
