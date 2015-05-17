@@ -14,7 +14,7 @@ This is a lesson that's not just true for software, but all aspects of life. The
 
 ## Social Policy
 
-[The "War on Drugs" is it](http://www.nytimes.com/2012/07/04/business/in-rethinking-the-war-on-drugs-start-with-the-numbers.html?pagewanted=all&_r=0) a colossal failure of social policy...
+[The "War on Drugs" is](http://www.nytimes.com/2012/07/04/business/in-rethinking-the-war-on-drugs-start-with-the-numbers.html?pagewanted=all&_r=0) a colossal failure of social policy...
 
 > If there is one number that embodies the seemingly intractable challenge imposed by the illegal drug trade on the relationship between the United States and Mexico, it is $177.26. That is the retail price, according to Drug Enforcement Administration data, of one gram of pure cocaine from your typical local pusher. That is 74 percent cheaper than it was 30 years ago.
 
