@@ -18,11 +18,11 @@ This was his "getting better moment" and like many such moments, it was the resu
 
 ![The Internet circa 1997 - image from Wikipedia - Public Domain](https://cloud.githubusercontent.com/assets/19977/8146357/9c0bb4ea-11e8-11e5-9706-43dd76ae6205.png)
 
-Upon graduating from college, I got a job with a small custom software shop named Sequoia Softworks located in the quaint town of Seal Beach. You know it's a beach town because it's right there in the name. The company is still around under the [name Solien](https://solien.com).
+Upon graduating from college, I got a job with a small custom software shop named Sequoia Softworks, which was at the time located in the quaint town of Seal Beach, California. You know it's a beach town because it's right there in the name. The company is still around under the [name Solien](https://solien.com).
 
 I was understandably nervous my first week. I was a fresh-fashed recent graduate with a Math degree that pretty much was useless for the work I was about to engage in. Sure, it prepared me to think logically, but I didn't know a database from an Active Server Page, which was the technology we used. Now we call it "Classic" ASP, but at the time, it was the hot new thing.
 
-Fortunately, a nice contractor took me under her wing and showed me the ropes. Perhaps the most valuable lesson I learned was this:
+Fortunately, a nice contractor took me under her wing and showed me the ropes. She taught me VBScript and how to access a SQL Server database. Perhaps the most valuable lesson I learned was this:
 
 ```vb
 Dim conn, rs
@@ -32,12 +32,12 @@ Set rs = conn.Execute("SELECT * FROM SomeTable")
 Do Until rs.EOF
   ' ...
 
-  rs.MoveNext ' NEVER EVER EVER FORGET THIS CALL!
+  rs.MoveNext ' NEVER EVER EVER EVER FORGET THIS CALL!
 Loop
 conn.Close
 ```
 
-Never ever forget to call `rs.MoveNext`.
+The important bit is the line with the comment. Never ever ever ever forget to call `rs.MoveNext`.
 
 Being a tiny company, it wasn't long before I was working on some important projects. I recall working on a [music site called myLaunch](http://solien.com/client-successes/Pages/launch-media.aspx) which later became Launch which later was bought and incorporated into Yahoo Music.
 
