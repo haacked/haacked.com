@@ -64,4 +64,6 @@ That was my Getting Better Moment, inspired by a fear of losing my job. Fortunal
 
 Reading this book changed the arc of my career for the better. Up until that point, programming was a job I took to help pay off my student loan bills while I contemplated going to graduate school. After reading this book, I fell in love with the practice and craft of writing code. This was for me. It inspired me to dedicate myself to a lifelong path of improving the way I build software. And to hopefully helping others do the same through the products I build and the things I write.
 
+And the good news is I wasn't fired from my first job. I ended up staying their seven years becoming the manager of all the developers before deciding to leave to try my hand at other things.
+
 So there you go, that's my Getting Better Moment. What was yours?
