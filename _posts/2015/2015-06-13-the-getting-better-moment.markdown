@@ -6,27 +6,27 @@ comments: true
 categories: [code bugs software]
 ---
 
-The beads of sweat gathering on my forehead were oddly juxtaposed against the cool temperature of the air conditioned room. But there they were, caused by the heat of the CTO's anger. I made a sloppy mistake and now sat in his office wondering if I was about to lose my job. My first full-time job. I recently found some archival footage of this moment.
+The beads of sweat gathered on my forehead were oddly juxtaposed against the cool temperature of the air conditioned room. But there they were, caused by the heat of the CTO's anger. I made a sloppy mistake and now sat in his office wondering if I was about to lose my job. My first full-time job. I recently found some archival footage of this moment.
 
 ![I wore headphones everywhere back then](https://cloud.githubusercontent.com/assets/19977/8146368/361c167e-11e9-11e5-8d24-e1aa1a7360bc.png)
 
-So why am I writing about this? Unless you've been passed out drunk in a gutter for the last week (which is much more believable living under a rock), you've heard about this amazing opus by [Paul Ford](https://twitter.com/ftrain) entitled "[What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)"
+So why do I write about this? Unless you've been passed out drunk in a gutter for the last week (which is much more believable than living under a rock), you've heard about this amazing opus by [Paul Ford](https://twitter.com/ftrain) entitled "[What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)"
 
-If you haven't read it yet, cancel all your appointments, grab a beer, find a nice shady spot, and soak it all in. The whole piece is amazing, but there was one paragraph in particular that I zeroed in on. In the intro, Paul talks about his programming start.
+If you haven't read it yet, cancel all your appointments, grab a beer, find a nice shady spot, and soak it all in. The whole piece is great, but there was one paragraph in particular that I zeroed in on. In the intro, Paul talks about his programming start.
 
 > I began to program nearly 20 years ago, learning via oraperl, a special version of the Perl language modified to work with the Oracle database. A month into the work, I damaged the accounts of 30,000 fantasy basketball players. They sent some angry e-mails. After that, I decided to get better.
 
-This was his "getting better moment" and like many such moments, it was the result of a coding mistake early in his career. It got me thinking about the moment I decided to get better.
+This was his "getting better moment" and like many such moments, it was the result of a coding mistake early in his career. It caused me to reminisce about the moment I decided to get better.
 
 When I graduated from college, websites were still in black and white and connected to the net by string and cans. They pretty much worked like this.
 
 ![The Internet circa 1997 - image from Wikipedia - Public Domain](https://cloud.githubusercontent.com/assets/19977/8146357/9c0bb4ea-11e8-11e5-9706-43dd76ae6205.png)
 
-As a fresh graduate, I was confident that I would go on to grad school and continue my studies in Mathematics. But deep in debt, I decided to get a job long enough to pay down this debt a bit before returning to the warm comfort of academia. Companies were hiring people to work on this "Web" thing. It wouldn't hurt to dabble.
+As a fresh graduate, I was confident that I would go on to grad school and continue my studies in Mathematics. But deep in debt, I decided to get a job long enough to pay down this debt a bit before I returend to the warm comfort of academia. After all, companies were keen to hire people to work on this "Web" thing. It wouldn't hurt to dabble.
 
 Despite my lack of experience, a small custom software shop named Sequoia Softworks hired me. It was located in the quaint beach town of Seal Beach, California. You know it's a beach town because it's right there in the name. The company is still around under the [name Solien](https://solien.com) and now is located in Santa Monica, California.
 
-My first few weeks were a nervous affair as my degree in Math was pretty much useless for the work I was about to engage in. Sure, it prepared me to think logically, but I didn't know a database from a VBScript, and my new job was to build database driven websites using this hot new technology called Active Server Pages (pre .NET, we'd now call this "Classic ASP" if we call it anything).
+My first few weeks were a nervous affair as my degree in Math was pretty much useless for the work I was about to engage in. Sure, it prepared me to think logically, but I didn't know a database from a VBScript, and my new job was to build database driven websites with this hot new technology called Active Server Pages (pre .NET, we'd now call this "Classic ASP" if we call it anything).
 
 Fortunately, the president of the company assigned a nice contractor to mentor me. She taught me VBScript, ADODB, and how to access a SQL Server database. Perhaps the most valuable lesson I learned was this:
 
@@ -45,7 +45,7 @@ conn.Close
 
 As the comment states, never ever ever ever forget to call `rs.MoveNext`. Ever.
 
-Being a tiny company, it wasn't long before I was working on some important projects. I recall working on a [music website called myLaunch](http://solien.com/client-successes/Pages/launch-media.aspx). The website was a companion to the multi-media Launch CD-ROM magazine. Cutting edge stuff, you can [still find them on Amazon](http://www.amazon.com/Launch-(CD-ROM-Magazine)/e/B000AQ4H1M). I wish I had kept [the Radiohead issue](http://www.amazon.com/LAUNCH-No-15/dp/B0000039S4/ref=ntt_mus_ep_dpi_2), it sells for $25!
+A benefit of working at a tiny company, it wasn't long before I got to work on important and interesting projects. One of these projects was a [music website called myLaunch](http://solien.com/client-successes/Pages/launch-media.aspx). The website was a companion to the multi-media Launch CD-ROM magazine. Cutting edge stuff, you can [still find them on Amazon](http://www.amazon.com/Launch-(CD-ROM-Magazine)/e/B000AQ4H1M). I wish I had kept [the Radiohead issue](http://www.amazon.com/LAUNCH-No-15/dp/B0000039S4/ref=ntt_mus_ep_dpi_2), it sells for $25!
 
 ![Launch magazine](https://cloud.githubusercontent.com/assets/19977/8151027/5d56cdec-12b6-11e5-81a2-4c1b3cf2e8ce.png)
 
