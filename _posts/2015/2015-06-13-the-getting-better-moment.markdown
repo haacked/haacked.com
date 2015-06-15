@@ -30,7 +30,7 @@ My first few weeks were a nervous affair as my degree in Math was pretty much us
 
 Fortunately, the president of the company assigned a nice contractor to mentor me. She taught me VBScript, ADODB, and how to access a SQL Server database. Perhaps the most valuable lesson I learned was this:
 
-```vb
+```vbnet
 Dim conn, rs
 Set conn = Server.CreateObject("ADODB.Connection")
 conn.Open("Driver={SQL Server};Server=XXX;database=XXX;uid=XXX;pwd=XXX")
