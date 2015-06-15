@@ -67,7 +67,7 @@ I soon learned there's a pecking order to finding bugs. It's better to
 
 I wasn't fired right then, but it was made clear to me that wouldn't hold true if I made another mistake like that. Gulp! _And by "Gulp!" I don't mean a JavaScript build system._
 
-Inspired by a fear of losing my job, this was my Getting Better Moment. Like Paul Ford, I decided right then to get better. Problem was, I wasn't sure exactly how to go about it. Fortunately, a co-worker had the answer. He lent me his copy of [Code Complete](http://www.amazon.com/gp/product/0735619670/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0735619670&linkCode=as2&tag=youvebeenhaac-20&linkId=RDVAZIUH22CSYWDA) and my eyes were opened.
+Inspired by a fear of losing my job, this was my Getting Better Moment. Like Paul Ford, I decided right then to get better. Problem was, I wasn't sure exactly how to go about it. Fortunately, a co-worker had the answer. He lent me his copy of [Code Complete](http://www.amazon.com/gp/product/0735619670/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0735619670&linkCode=as2&tag=youvebeenhaac-20&linkId=RDVAZIUH22CSYWDA), and my eyes were opened.
 
 Reading this book changed the arc of my career for the better. Programming went from a dalliance to pay off some of my student loan bills, to a profession I wanted to make a career out of. I fell in love with the practice and craft of writing code. This was for me.
 
