@@ -24,7 +24,7 @@ When I graduated from college, websites were still in black and white and connec
 
 As a fresh graduate, I was confident that I would go on to grad school and continue my studies in Mathematics. But deep in debt, I decided to get a job long enough to pay down this debt a bit before I returend to the warm comfort of academia. After all, companies were keen to hire people to work on this "Web" thing. It wouldn't hurt to dabble.
 
-Despite my lack of experience, a small custom software shop named Sequoia Softworks hired me. It was located in the quaint beach town of Seal Beach, California. You know it's a beach town because it's right there in the name. The company is still around under the [name Solien](https://solien.com) and now is located in Santa Monica, California.
+Despite my lack of experience, a small custom software shop named Sequoia Softworks hired me. It was located in the quaint beach town of Seal Beach, California. You know it's a beach town because it's right there in the name. The company is still around under the [name Solien](http://www.solien.com) and now is located in Santa Monica, California.
 
 My first few weeks were a nervous affair as my degree in Math was pretty much useless for the work I was about to engage in. Sure, it prepared me to think logically, but I didn't know a database from a VBScript, and my new job was to build database driven websites with this hot new technology called Active Server Pages (pre .NET, we'd now call this "Classic ASP" if we call it anything).
 
