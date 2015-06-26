@@ -48,4 +48,4 @@ This was the first all-nighter I've pulled in a very long time. I only tell the 
 
 But more importantly, once again it's a reminder to listen to your body when it's giving you pain signals. The last time I shared one of my medical stories, I heard back that people appreciated the heads up.
 
-__UPDATE__ So when I got back to the states, I got another X-Ray and it turns out it's not a fracture at all. Tendonds can have a bit of calcification that looks like bone chips. I noticed the X-Ray at my local hospital is much higher resolution. What I have is called Septic Bursitis (Bursitis with a side of infection). So I'm still on a bunch of antibiotics.
+__UPDATE__ So when I got back to the states, I got another X-Ray and it turns out it's not a fracture at all. Tendons can have a bit of calcification that looks like bone chips. I noticed the X-Ray at my local hospital is much higher resolution. What I have is called Septic Bursitis (Bursitis with a side of infection). So I'm still on a bunch of antibiotics.
