@@ -96,9 +96,9 @@ But now, I need to move the `new-branch` onto `master`.
 
 `git rebase --onto master origin/wrong-branch new-branch`
 
-![Final result](https://cloud.githubusercontent.com/assets/19977/8369725/e974c09e-1b72-11e5-8b1d-dc1eeb223502.png)
+![Final result](https://cloud.githubusercontent.com/assets/19977/8382092/06f71640-1be5-11e5-9f90-2b433bd6ffd8.png)
 
-As you know, the `git rebase` command is the way you move (well, actually you replay) commits onto other branches. The `--onto` flag makes it possible to specify a range of commits to move elsewhere. So in this case, I moved commits `E` and `F` because they are the ones between `origin/wrong-branch` exclusive and `new-branch` inclusive.
+As you know, the `git rebase` command is the way you move (well, actually you replay) commits onto other branches. The handy `--onto` flag makes it possible to specify a range of commits to move elsewhere. [Pivotal Labs has a helpful post](http://pivotallabs.com/git-rebase-onto/) that describes this option in more detail. So in this case, I moved commits `E` and `F` because they are the ones between `origin/wrong-branch` exclusive and `new-branch` inclusive.
 
 ### Fix up local only branches
 
