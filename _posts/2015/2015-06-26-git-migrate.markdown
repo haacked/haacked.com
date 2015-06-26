@@ -12,7 +12,7 @@ As you may know, a key component of the GitHub Flow workflow is to do all new fe
 
 So what happens when you run into this situation? Are you stuck? Heavens no! [The thing about Git](http://2ndscale.com/rtomayko/2008/the-thing-about-git) is that its very design supports fixing up mistakes after the fact. It's very forgiving in this regard. For example, a recent blog post on the GitHub blog highlights all the different ways [you can undo mistakes in Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git).
 
-### Fixing up `master`
+### The Easy Case - Fixing `master`
 
 This is the simple case. I made commits on master that were intended for a branch off of master.
 
@@ -102,16 +102,18 @@ As you know, the `git rebase` command is the way you move (well, actually you re
 
 ### Fix up local only branches
 
-The assumption I made in the past two examples is that I'm working with branches that I've pushed to a remote. This makes it easy to find the range of commits that are only on my machine and move those.
+The assumption I made in the past two examples is that I'm working with branches that I've pushed to a remote. That's a convenient scenario because the version of the branch on the server (the remote) is a handy "Save Point" that I can reset to in the form of the remote tracking branch (the ones named `origin/*`).
+
+This makes it easy to find the range of commits that are only on my machine and move those.
 
 But I could be in the situation where I don't have a remote branch. Or maybe the branch I started muddying up already had a local commit.
 
-That's fine, I can just specify a commit range. For example, if I only wanted to move the last two commits on `master` into a new branch, I might do this.
+That's fine, I can just specify a commit range. For example, if I only wanted to move the last commit on `wrong-branch` into a new branch, I might do this.
 
 ```bash
 git branch new-branch
-git reset HEAD~2 --hard
-git checkout new-branch
+git reset HEAD~1 --hard
+git rebase --onto master HEAD~1 new-branch
 ```
 
 ### Alias was a fine TV show, but a better Git technique
