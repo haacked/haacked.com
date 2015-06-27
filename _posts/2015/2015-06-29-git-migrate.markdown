@@ -80,7 +80,7 @@ Let's walk through these steps one by one. Not to worry, as before, I create a n
 
 `git branch new-branch`
 
-![A new branch](https://cloud.githubusercontent.com/assets/19977/8369616/48025ac4-1b71-11e5-9e0f-114e9bbb0001.png)
+![Always a new branch](https://cloud.githubusercontent.com/assets/19977/8390535/e6a2c114-1c4d-11e5-8fd7-0911a8238334.png)
 
 Again, just like before, I reset the current branch to the state of the current branch as it exists on the server.
 
