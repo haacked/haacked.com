@@ -6,33 +6,27 @@ comments: true
 categories: [github git]
 ---
 
-Show of hands if this happens to you. You get excited about an idea and just start writing code and creating commits only to realize you're in the wrong branch. Well, you'll have to tell me about it in the comments because I can't see your hands. This happens to me all the time because I lack impulse control.
+Show of hands if this ever happens to you. After a long day of fighting fires at work, you settle into your favorite chair to unwind and write code. Your fingers fly over the keyboard punctuating your code with semi-colons or paretheses or whatever is appropriate.
 
-As you may know, a key component of the GitHub Flow workflow is to do all new feature work in a branch. Fixing a bug? Create a branch! Adding a new feature? Create a branch! Need to climbe a tree? Well, you get the picture.
+But after a few commits, it dawns on you that you're in the wrong branch. Yeah? Me too. This happens to me all the time because I lack impulse control. You can put your hands down now.
 
-So what happens when you run into this situation? Are you stuck? Heavens no! [The thing about Git](http://2ndscale.com/rtomayko/2008/the-thing-about-git) is that its very design supports fixing up mistakes after the fact. It's very forgiving in this regard. For example, a recent blog post on the GitHub blog highlights all the different ways [you can undo mistakes in Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git).
+### GitHub Flow
+
+As you may know, a key component of the [GitHub Flow](https://guides.github.com/introduction/flow/) lightweight workflow is to do all new feature work in a branch. Fixing a bug? Create a branch! Adding a new feature? Create a branch! Need to climb a tree? Well, you get the picture.
+
+So what happens when you run into the situation I just described? Are you stuck? Heavens no! [The thing about Git](http://2ndscale.com/rtomayko/2008/the-thing-about-git) is that its very design supports fixing up mistakes after the fact. It's very forgiving in this regard. For example, a recent blog post on the GitHub blog highlights all the different ways [you can undo mistakes in Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git).
 
 ### The Easy Case - Fixing `master`
 
-This is the simple case. I made commits on master that were intended for a branch off of master.
+This is the simple case. I made commits on master that were intended for a branch off of master. Lets walk through this scenario step by step with some visual aids.
 
-I can run the following set of Git commands to migrate my changes to a new branch and restore master to reflect its state on the remote (typically GitHub.com in my case).
-
-```bash
-git branch new-branch
-git reset origin/master --hard
-git checkout new-branch
-```
-
-Let me walk through this with some pictures for the visual among you.
-
-So here's the state of my repository before I got all itchy trigger finger on it.
+The following diagram shows the state of my repository before I got all itchy trigger finger on it.
 
 ![Original state](https://cloud.githubusercontent.com/assets/19977/8369477/2d2b8812-1b6f-11e5-9e68-190f988172af.png)
 
-As you can see, I have two commits to the `master` branch. HEAD points to the tip of my current branch. You can also see a remote tracking branch named `origin/master`. So at this point, my local `master` matches the `master` on the server as far as I can tell.
+As you can see, I have two commits to the `master` branch. HEAD points to the tip of my current branch. You can also see a remote tracking branch named `origin/master` (_this is a special branch that tracks the `master` branch on the remote server_). So at this point, my local `master` matches the `master` on the server.
 
-This is when I am struck by inspiration and I start some work.
+This is the state of my repository when I am struck by inspiration and I start to code.
 
 ![First Commit](https://cloud.githubusercontent.com/assets/19977/8369476/2d2ab536-1b6f-11e5-8971-079be907489a.png)
 
@@ -40,7 +34,7 @@ I make one commit. Then two.
 
 ![Second Commit - It's fixing time!](https://cloud.githubusercontent.com/assets/19977/8369478/2d2bd268-1b6f-11e5-893b-abeceefb4650.png)
 
-Each time I make a commit, the local `master` branch is updated to the new commit. Uh oh! I meant to create these two commits on a new branch creatively named `new-branch`. I better fix this up.
+Each time I make a commit, the local `master` branch is updated to the new commit. Uh oh! As in the scenario in the opening paragraph, I meant to create these two commits on a new branch creatively named `new-branch`. I better fix this up.
 
 So the first thing I do is create this branch without switching to it.
 
@@ -48,9 +42,9 @@ So the first thing I do is create this branch without switching to it.
 
 ![new branch](https://cloud.githubusercontent.com/assets/19977/8369479/2d2f10d6-1b6f-11e5-8fe9-0a30c4b4ad27.png)
 
-Notice that `HEAD` still points to `master`. Also note that `new-branch` simply points to the same location. This is why branching is so cheap. A branch is just a pointer to a commit.
+Notice that `HEAD` still points to `master`. Also note that `new-branch` points to the same location. This is why branching is so cheap. A branch is just a pointer to a commit.
 
-Creating a branch pointing to the latest commit makes it safe for me to reset the master branch back to the state it is on the server.
+I created a branch that points to the latest commit to make it safe for me to reset the master branch back to the state it is on the server. I want to make sure I have an easy way to still reference the commit that the branch points to before I reset it.
 
 `git reset origin/master --hard`
 
@@ -64,21 +58,23 @@ Now I can simply check out the `new-branch` and continue my work.
 
 This moves `HEAD` to the new branch and now I can continue to work on the branch as if I had never made this mistake. Yay!
 
+Here's the set of commands that I ran all together.
+
+```bash
+git branch new-branch
+git reset origin/master --hard
+git checkout new-branch
+```
+
 ### Fixing up a non-master branch
 
 ![The wrong branch](https://cloud.githubusercontent.com/assets/19977/8369613/48019364-1b71-11e5-9a28-b748a2802ed7.png)
 
-This case is a bit more complicated. Here I have a branch named `wrong-branch` that is my current branch. But I thought I was working in the master branch. I inadverdently make two commits in this branch, leaving us in this fine mess.
+This case is a bit more complicated. Here I have a branch named `wrong-branch` that is my current branch. But I thought I was working in the `master` branch. I make two commits in this branch by `mistake` which causes this fine mess.
 
 ![A fine mess](https://cloud.githubusercontent.com/assets/19977/8369614/4801b83a-1b71-11e5-898a-4c116e83b749.png)
 
 What I want here is to migrate commits `E` and `F` to a new branch off of `master`. Here's the set of commands.
-
-```bash
-git branch new-branch
-git reset origin/wrong-branch --hard
-git rebase --onto master origin/wrong-branch new-branch
-```
 
 Let's walk through these steps one by one. Not to worry, as before, I create a new branch.
 
@@ -98,15 +94,27 @@ But now, I need to move the `new-branch` onto `master`.
 
 ![Final result](https://cloud.githubusercontent.com/assets/19977/8382092/06f71640-1be5-11e5-9f90-2b433bd6ffd8.png)
 
-As you know, the `git rebase` command is the way you move (well, actually you replay) commits onto other branches. The handy `--onto` flag makes it possible to specify a range of commits to move elsewhere. [Pivotal Labs has a helpful post](http://pivotallabs.com/git-rebase-onto/) that describes this option in more detail. So in this case, I moved commits `E` and `F` because they are the ones between `origin/wrong-branch` exclusive and `new-branch` inclusive.
+The `git rebase` command is a great way to move (well, actually you replay commits, but that's a story for another day) commits onto other branches. The handy `--onto` flag makes it possible to specify a range of commits to move elsewhere. [Pivotal Labs has a helpful post](http://pivotallabs.com/git-rebase-onto/) that describes this option in more detail.
 
-### Fix up local only branches
+So in this case, I moved commits `E` and `F` because they are the ones between `origin/wrong-branch` exclusive and `new-branch` inclusive
 
-The assumption I made in the past two examples is that I'm working with branches that I've pushed to a remote. That's a convenient scenario because the version of the branch on the server (the remote) is a handy "Save Point" that I can reset to in the form of the remote tracking branch (the ones named `origin/*`).
+Here's the set of command I ran all together.
 
-This makes it easy to find the range of commits that are only on my machine and move those.
+```bash
+git branch new-branch
+git reset origin/wrong-branch --hard
+git rebase --onto master origin/wrong-branch new-branch
+```
 
-But I could be in the situation where I don't have a remote branch. Or maybe the branch I started muddying up already had a local commit.
+### Migrate commit ranges - great for local only branches
+
+The assumption I made in the past two examples is that I'm working with branches that I've pushed to a remote. When you push a branch to a remote, you can create a local "remote tracking branch" that tracks the state of the branch on the remote server using the `-u` option.
+
+For example, when I pushed the `wrong-branch`, I ran the command `git push -u origin wrong-branch` which not only pushes the branch to the remote (named `origin`), but creates the branch named `origin/wrong-branch` which corresponds to the state of `wrong-branch` on the server.
+
+I can use a remote tracking branch as a convenient "Save Point" that I can reset to if I accidentally make commits on the corresponding local branch. It makes it easy to find the range of commits that are only on my machine and move just those.
+
+But I could be in the situation where I don't have a remote branch. Or maybe the branch I started muddying up already had a local commit that I _don't_ want to move.
 
 That's fine, I can just specify a commit range. For example, if I only wanted to move the last commit on `wrong-branch` into a new branch, I might do this.
 
@@ -118,7 +126,9 @@ git rebase --onto master HEAD~1 new-branch
 
 ### Alias was a fine TV show, but a better Git technique
 
-What I've shown are rote series of steps. Sounds like a job for a Git Alias! Aliases are a powerful way of automating or extending Git with your own Git commands.
+When you see the set of commands I ran, I hope you're thinking "Hey, that looks like a rote series of steps and you should automate that!" This is why I like you. You're very clever and very correct!
+
+Automating a series of git commands sounds like a job for a Git Alias! Aliases are a powerful way of automating or extending Git with your own Git commands.
 
 In a blog post I wrote last year, [GitHub Flow Like a Pro with these 13 Git aliases](http://haacked.com/archive/2014/07/28/github-flow-aliases/), I wrote about some aliases I use to support my workflow.
 
@@ -130,7 +140,7 @@ Well now I have one more to add to this list. I decided to call this alias, `mig
 
 So if I'm on `master` with a repository that's tracking a remote and I want move my local commits to a new branch, I'd just run `git migrate new-branch`.
 
-If I'm not on master, but on a branch named `wrong-branch` I'd just do this:
+If I'm not on `master`, but on a branch named `wrong-branch` I'd just do this:
 
 `git migrate new-branch origin/wrong-branch`
 
