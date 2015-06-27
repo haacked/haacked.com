@@ -22,17 +22,17 @@ This is the simple case. I made commits on master that were intended for a branc
 
 The following diagram shows the state of my repository before I got all itchy trigger finger on it.
 
-![Original state](https://cloud.githubusercontent.com/assets/19977/8369477/2d2b8812-1b6f-11e5-9e68-190f988172af.png)
+![Initial state](https://cloud.githubusercontent.com/assets/19977/8390497/bbde5f8e-1c4c-11e5-9760-9e94236423d6.png)
 
 As you can see, I have two commits to the `master` branch. HEAD points to the tip of my current branch. You can also see a remote tracking branch named `origin/master` (_this is a special branch that tracks the `master` branch on the remote server_). So at this point, my local `master` matches the `master` on the server.
 
 This is the state of my repository when I am struck by inspiration and I start to code.
 
-![First Commit](https://cloud.githubusercontent.com/assets/19977/8369476/2d2ab536-1b6f-11e5-8971-079be907489a.png)
+![First](https://cloud.githubusercontent.com/assets/19977/8390499/bbe3174a-1c4c-11e5-87ee-75aacf1a197a.png)
 
 I make one commit. Then two.
 
-![Second Commit - It's fixing time!](https://cloud.githubusercontent.com/assets/19977/8369478/2d2bd268-1b6f-11e5-893b-abeceefb4650.png)
+![Second Commit - fixing time](https://cloud.githubusercontent.com/assets/19977/8390498/bbe2c524-1c4c-11e5-98c3-7526ae2277f9.png)
 
 Each time I make a commit, the local `master` branch is updated to the new commit. Uh oh! As in the scenario in the opening paragraph, I meant to create these two commits on a new branch creatively named `new-branch`. I better fix this up.
 
@@ -40,7 +40,7 @@ So the first thing I do is create this branch without switching to it.
 
 `git branch new-branch`
 
-![new branch](https://cloud.githubusercontent.com/assets/19977/8369479/2d2f10d6-1b6f-11e5-8fe9-0a30c4b4ad27.png)
+![Create a new branch named new-branch](https://cloud.githubusercontent.com/assets/19977/8390500/bbe365ec-1c4c-11e5-83e6-eb60f7155efe.png)
 
 Notice that `HEAD` still points to `master`. Also note that `new-branch` points to the same location. This is why branching is so cheap. A branch is just a pointer to a commit.
 
@@ -48,13 +48,13 @@ I created a branch that points to the latest commit to make it safe for me to re
 
 `git reset origin/master --hard`
 
-![master restored](https://cloud.githubusercontent.com/assets/19977/8369481/2d3feabe-1b6f-11e5-91ff-22fc27d0d13b.png)
+![Reset master back to its original position](https://cloud.githubusercontent.com/assets/19977/8390501/bbf39b24-1c4c-11e5-8d7a-b1cf7b4bcb5b.png)
 
 Notice that `HEAD` and `master` are back to their original position, but `new-branch` continues to point to the latest commit.
 
 Now I can simply check out the `new-branch` and continue my work.
 
-![checkout the new branch](https://cloud.githubusercontent.com/assets/19977/8369480/2d3d416a-1b6f-11e5-94c8-301aa8fbd4d1.png)
+![Checkout new-branch and we are done](https://cloud.githubusercontent.com/assets/19977/8390502/bbf69180-1c4c-11e5-920a-7991e341eefa.png)
 
 This moves `HEAD` to the new branch and now I can continue to work on the branch as if I had never made this mistake. Yay!
 
@@ -132,7 +132,7 @@ Automating a series of git commands sounds like a job for a Git Alias! Aliases a
 
 In a blog post I wrote last year, [GitHub Flow Like a Pro with these 13 Git aliases](http://haacked.com/archive/2014/07/28/github-flow-aliases/), I wrote about some aliases I use to support my workflow.
 
-Well now I have one more to add to this list. I decided to call this alias, `migrate`.
+Well now I have one more to add to this list. I decided to call this alias, `migrate`. Here's the definition for the alias. Notice that it uses `git rebase --onto` which we used for the second scenario I described. It turns out that this happens to work for the first scenario too.
 
 ```
     migrate = "!f(){ git branch $1 && git reset @{u} --hard && git rebase --onto ${2-master} @{u} $1; }; f"
