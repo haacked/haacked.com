@@ -148,4 +148,6 @@ Here's the output from that command using the second example where I migrate com
 
 ![git migrate command output](https://cloud.githubusercontent.com/assets/19977/8381990/681cd2c6-1be4-11e5-96db-56e4cee7306c.png)
 
+I can also migrate the commits to a branch created off of something other than `master` - `git migrate new-branch other-branch`
+
 And there you go. A nice alias that automates a set of steps to fix a common mistake. Let me know if you find it useful!
