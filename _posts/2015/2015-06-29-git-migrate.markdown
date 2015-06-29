@@ -148,3 +148,5 @@ And finally, if I want to just migrate the last commit to a new branch created o
 `git migrate new-branch master HEAD~1`
 
 And there you go. A nice alias that automates a set of steps to fix a common mistake. Let me know if you find it useful!
+
+Also, I want to give a special thanks to [@mhagger](https://github.com/mhagger) for his help with this post. The [original draft](https://github.com/mhagger) had the grace of a two-year-old neurosurgeon with a mallet. The straightforward Git commands I proposed would rewrite the working tree twice. With his proposed changes, this alias never rewrites the working tree. Like math, there's often often a more elegant solution with Git once you understand the available tools.
