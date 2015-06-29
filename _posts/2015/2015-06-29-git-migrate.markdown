@@ -131,11 +131,11 @@ There's a lot going on here and I could probably write a whole blog post unpacki
 
 This alias has one required parameter, the new branch name, and two optional parameters.
 
-```
-branch-name   required  The name of the new branch to migrate to
-target-branch optional  Defaults to "master". The branch to create the new branch off of
-commit-range  optional  The set of commits to migrate. Defaults to the current remote tracking branch.
-```
+! parameter         ! type     ! Description                                                             !
+|-------------------|----------|-------------------------------------------------------------------------|
+| __branch-name__   | required | Name of the new branch                                                  |
+| __target-branch__ | optional | Defaults to "master". The branch that the new branch is created off of. |
+| __commit-range__  | optional | The commits to migrate. Defaults to the current remote tracking branch. |
 
 This command always migrates the current branch.
 
