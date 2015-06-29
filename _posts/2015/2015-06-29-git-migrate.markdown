@@ -132,9 +132,9 @@ There's a lot going on here and I could probably write a whole blog post unpacki
 This alias has one required parameter, the new branch name, and two optional parameters.
 
 
-parameter | type | Description
----|---|---
-__branch-name__ | required | Name of the new branch. 
+parameter         | type     | Description
+------------------|----------|------------------------------------------------------------------------
+__branch-name__   | required | Name of the new branch. 
 __target-branch__ | optional | Defaults to "master". The branch that the new branch is created off of. 
 __commit-range__  | optional | The commits to migrate. Defaults to the current remote tracking branch.
 
