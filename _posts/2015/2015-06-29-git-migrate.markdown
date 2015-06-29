@@ -124,19 +124,27 @@ In a blog post I wrote last year, [GitHub Flow Like a Pro with these 13 Git alia
 Well now I have one more to add to this list. I decided to call this alias, `migrate`. Here's the definition for the alias. Notice that it uses `git rebase --onto` which we used for the second scenario I described. It turns out that this happens to work for the first scenario too.
 
 ```
-    migrate = "!f(){ git branch $1 && git reset @{u} --hard && git rebase --onto ${2-master} @{u} $1; }; f"
+    migrate = "!f(){ CURRENT=$(git symbolic-ref --short HEAD); git checkout -b $1 && git branch --force $CURRENT ${3-'$CURRENT@{u}'} && git rebase --onto ${2-master} $CURRENT; }; f"
 ```
 
-So if I'm on `master` with a repository that's tracking a remote and I want move my local commits to a new branch, I'd just run `git migrate new-branch`.
+There's a lot going on here and I could probably write a whole blog post unpacking it, but for now I'll try and focus on the usage pattern.
 
-If I'm not on `master`, but on a branch named `wrong-branch` I'd just do this:
+This alias has one required parameter, the new branch name, and two optional parameters.
 
-`git migrate new-branch origin/wrong-branch`
+```
+branch-name   required  The name of the new branch to migrate to
+target-branch optional  Defaults to "master". The branch to create the new branch off of
+commit-range  optional  The set of commits to migrate. Defaults to the current remote tracking branch.
+```
 
-Here's the output from that command using the second example where I migrate commits `E` and `F` to a new branch.
+This command always migrates the current branch.
 
-![git migrate command output](https://cloud.githubusercontent.com/assets/19977/8381990/681cd2c6-1be4-11e5-96db-56e4cee7306c.png)
+If I'm on a branch and want to migrate the local only commits over to `master`, I can just run `git migrate new-branch-name`. This works whether I'm on `master` or some other wrong branch.
 
 I can also migrate the commits to a branch created off of something other than `master` - `git migrate new-branch other-branch`
+
+And finally, if I want to just migrate the last commit to a new branch created off of master, I can do this.
+
+`git migrate new-branch master HEAD~1`
 
 And there you go. A nice alias that automates a set of steps to fix a common mistake. Let me know if you find it useful!
