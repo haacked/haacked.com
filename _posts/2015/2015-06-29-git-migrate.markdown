@@ -142,7 +142,7 @@ This command always migrates the current branch.
 
 If I'm on a branch and want to migrate the local only commits over to `master`, I can just run `git migrate new-branch-name`. This works whether I'm on `master` or some other wrong branch.
 
-I can also migrate the commits to a branch created off of something other than `master` - `git migrate new-branch other-branch`
+I can also migrate the commits to a branch created off of something other than `master` using this command: `git migrate new-branch other-branch`
 
 And finally, if I want to just migrate the last commit to a new branch created off of master, I can do this.
 
