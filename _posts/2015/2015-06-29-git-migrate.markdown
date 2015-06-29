@@ -67,32 +67,32 @@ What I want here is to migrate commits `E` and `F` to a new branch off of `maste
 
 Let's walk through these steps one by one. Not to worry, as before, I create a new branch.
 
-`git branch new-branch`
+`git checkout -b new-branch`
 
-![Always a new branch](https://cloud.githubusercontent.com/assets/19977/8390535/e6a2c114-1c4d-11e5-8fd7-0911a8238334.png)
+![Always a new branch](https://cloud.githubusercontent.com/assets/19977/8412077/4d85a08c-1e3c-11e5-98eb-c421d2cf5159.png)
 
-Again, just like before, I reset the current branch to the state of the current branch as it exists on the server.
+Again, just like before, I force the current branch to the state of the current branch as it exists on the server.
 
-`git reset origin/wrong-branch --hard`
+`git branch --force wrong-branch origin/wrong-branch`
 
-![Reset the current branch](https://cloud.githubusercontent.com/assets/19977/8369612/47fe6374-1b71-11e5-92dd-26ddf71d5a7a.png)
+![force branch](https://cloud.githubusercontent.com/assets/19977/8412113/93984c46-1e3c-11e5-9329-f38adb158dcd.png)
 
 But now, I need to move the `new-branch` onto `master`.  
 
-`git rebase --onto master origin/wrong-branch new-branch`
+`git rebase --onto master wrong-branch`
 
 ![Final result](https://cloud.githubusercontent.com/assets/19977/8382092/06f71640-1be5-11e5-9f90-2b433bd6ffd8.png)
 
 The `git rebase` command is a great way to move (well, actually you replay commits, but that's a story for another day) commits onto other branches. The handy `--onto` flag makes it possible to specify a range of commits to move elsewhere. [Pivotal Labs has a helpful post](http://pivotallabs.com/git-rebase-onto/) that describes this option in more detail.
 
-So in this case, I moved commits `E` and `F` because they are the ones between `origin/wrong-branch` exclusive and `new-branch` inclusive
+So in this case, I moved commits `E` and `F` because they are the ones since `wrong-branch` on the current branch, `new-branch`.
 
 Here's the set of command I ran all together.
 
 ```bash
-git branch new-branch
-git reset origin/wrong-branch --hard
-git rebase --onto master origin/wrong-branch new-branch
+git checkout -b new-branch
+git branch --force wrong-branch origin/wrong-branch
+git rebase --onto master wrong-branch
 ```
 
 ### Migrate commit ranges - great for local only branches
