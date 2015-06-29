@@ -6,6 +6,8 @@ comments: true
 categories: [git github]
 ---
 
+_BONUS! I've added a [useful 14th Git Alias](http://haacked.com/archive/2015/06/29/git-migrate/): `git migrate`_
+
 [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html) is a Git work flow with a simple branching model. The following diagram of this flow is from Zach Holman's talk on [How GitHub uses GitHub to build GitHub](http://zachholman.com/talk/how-github-uses-github-to-build-github/).
 
 ![github-branching](https://cloud.githubusercontent.com/assets/19977/3638839/8343b14c-1063-11e4-8369-537f7d62be06.png)
