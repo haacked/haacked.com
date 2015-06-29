@@ -108,9 +108,9 @@ But I could be in the situation where I don't have a remote branch. Or maybe the
 That's fine, I can just specify a commit range. For example, if I only wanted to move the last commit on `wrong-branch` into a new branch, I might do this.
 
 ```bash
-git branch new-branch
-git reset HEAD~1 --hard
-git rebase --onto master HEAD~1 new-branch
+git checkout -b new-branch
+git branch --force wrong-branch HEAD~1
+git rebase --onto master wrong-branch
 ```
 
 ### Alias was a fine TV show, but a better Git technique
