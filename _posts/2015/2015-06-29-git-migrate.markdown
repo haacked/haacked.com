@@ -6,7 +6,7 @@ comments: true
 categories: [github git]
 ---
 
-Show of hands if this ever happens to you. After a long day of fighting fires at work, you settle into your favorite chair to unwind and write code. Your fingers fly over the keyboard punctuating your code with semi-colons or paretheses or whatever is appropriate.
+Show of hands if this ever happens to you. After a long day of fighting fires at work, you settle into your favorite chair to unwind and write code. Your fingers fly over the keyboard punctuating your code with semi-colons or parentheses or whatever is appropriate.
 
 But after a few commits, it dawns on you that you're in the wrong branch. Yeah? Me too. This happens to me all the time because I lack impulse control. You can put your hands down now.
 
@@ -36,34 +36,23 @@ I make one commit. Then two.
 
 Each time I make a commit, the local `master` branch is updated to the new commit. Uh oh! As in the scenario in the opening paragraph, I meant to create these two commits on a new branch creatively named `new-branch`. I better fix this up.
 
-So the first thing I do is create this branch without switching to it.
+The first step is to create the new branch. We can create it and check it out all in one step.
 
-`git branch new-branch`
+`git checkout -b new-branch`
 
-![Create a new branch named new-branch](https://cloud.githubusercontent.com/assets/19977/8390500/bbe365ec-1c4c-11e5-83e6-eb60f7155efe.png)
+![checkout a new branch](https://cloud.githubusercontent.com/assets/19977/8411869/0ba24220-1e3b-11e5-9895-42c486709937.png)
 
-Notice that `HEAD` still points to `master`. Also note that `new-branch` points to the same location. This is why branching is so cheap. A branch is just a pointer to a commit.
+At this point, both the `new-branch` and `master` point to the same commit. Now I can force the master branch back to its original position.
 
-I created a branch that points to the latest commit to make it safe for me to reset the master branch back to the state it is on the server. I want to make sure I have an easy way to still reference the commit that the branch points to before I reset it.
+`git branch --force master origin/master`
 
-`git reset origin/master --hard`
-
-![Reset master back to its original position](https://cloud.githubusercontent.com/assets/19977/8390501/bbf39b24-1c4c-11e5-8d7a-b1cf7b4bcb5b.png)
-
-Notice that `HEAD` and `master` are back to their original position, but `new-branch` continues to point to the latest commit.
-
-Now I can simply check out the `new-branch` and continue my work.
-
-![Checkout new-branch and we are done](https://cloud.githubusercontent.com/assets/19977/8390502/bbf69180-1c4c-11e5-920a-7991e341eefa.png)
-
-This moves `HEAD` to the new branch and now I can continue to work on the branch as if I had never made this mistake. Yay!
+![force branch master](https://cloud.githubusercontent.com/assets/19977/8411975/b05c941e-1e3b-11e5-8e84-f36535fb7893.png)
 
 Here's the set of commands that I ran all together.
 
 ```bash
-git branch new-branch
-git reset origin/master --hard
-git checkout new-branch
+git checkout -b new-branch
+git branch --force master origin/master
 ```
 
 ### Fixing up a non-master branch
