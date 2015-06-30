@@ -6,7 +6,7 @@ comments: true
 categories: [github git]
 ---
 
-Show of hands if this everm happens to you. After a long day of fighting fires at work, you settle into your favorite chair to unwind and write code. Your fingers fly over the keyboard punctuating your code with semi-colons or parentheses or whatever is appropriate.
+Show of hands if this ever happens to you. After a long day of fighting fires at work, you settle into your favorite chair to unwind and write code. Your fingers fly over the keyboard punctuating your code with semi-colons or parentheses or whatever is appropriate.
 
 But after a few commits, it dawns on you that you're in the wrong branch. Yeah? Me too. This happens to me all the time because I lack impulse control. You can put your hands down now.
 
