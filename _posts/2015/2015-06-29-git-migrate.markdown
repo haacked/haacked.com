@@ -6,7 +6,7 @@ comments: true
 categories: [github git]
 ---
 
-Show of hands if this ever happens to you. After a long day of fighting fires at work, you settle into your favorite chair to unwind and write code. Your fingers fly over the keyboard punctuating your code with semi-colons or parentheses or whatever is appropriate.
+Show of hands if this everm happens to you. After a long day of fighting fires at work, you settle into your favorite chair to unwind and write code. Your fingers fly over the keyboard punctuating your code with semi-colons or parentheses or whatever is appropriate.
 
 But after a few commits, it dawns on you that you're in the wrong branch. Yeah? Me too. This happens to me all the time because I lack impulse control. You can put your hands down now.
 
@@ -59,7 +59,7 @@ git branch --force master origin/master
 
 ![The wrong branch](https://cloud.githubusercontent.com/assets/19977/8369613/48019364-1b71-11e5-9a28-b748a2802ed7.png)
 
-This case is a bit more complicated. Here I have a branch named `wrong-branch` that is my current branch. But I thought I was working in the `master` branch. I make two commits in this branch by `mistake` which causes this fine mess.
+This case is a bit more complicated. Here I have a branch named `wrong-branch` that is my current branch. But I thought I was working in the `master` branch. I make two commits in this branch by mistake which causes this fine mess.
 
 ![A fine mess](https://cloud.githubusercontent.com/assets/19977/8369614/4801b83a-1b71-11e5-898a-4c116e83b749.png)
 
