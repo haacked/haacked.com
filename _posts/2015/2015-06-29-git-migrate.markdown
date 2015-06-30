@@ -71,7 +71,7 @@ Let's walk through these steps one by one. Not to worry, as before, I create a n
 
 ![Always a new branch](https://cloud.githubusercontent.com/assets/19977/8412077/4d85a08c-1e3c-11e5-98eb-c421d2cf5159.png)
 
-Again, just like before, I force the current branch to the state of the current branch as it exists on the server.
+Again, just like before, I force `wrong-branch` to its state on the server.
 
 `git branch --force wrong-branch origin/wrong-branch`
 
