@@ -18,7 +18,7 @@ So what happens when you run into the situation I just described? Are you stuck?
 
 ### The Easy Case - Fixing `master`
 
-This is the simple case. I made commits on master that were intended for a branch off of master. Lets walk through this scenario step by step with some visual aids.
+This is the simple case. I made commits on master that were intended for a branch off of master. Let's walk through this scenario step by step with some visual aids.
 
 The following diagram shows the state of my repository before I got all itchy trigger finger on it.
 
@@ -150,4 +150,4 @@ And finally, if I want to just migrate the last commit to a new branch created o
 
 And there you go. A nice alias that automates a set of steps to fix a common mistake. Let me know if you find it useful!
 
-Also, I want to give a special thanks to [@mhagger](https://github.com/mhagger) for his help with this post. The [original draft pull request](https://github.com/Haacked/haacked.com/pull/205) had the grace of a two-year-old neurosurgeon with a mallet. The straightforward Git commands I proposed would rewrite the working tree twice. With his proposed changes, this alias never rewrites the working tree. Like math, there's often often a more elegant solution with Git once you understand the available tools.
+Also, I want to give a special thanks to [@mhagger](https://github.com/mhagger) for his help with this post. The [original draft pull request](https://github.com/Haacked/haacked.com/pull/205) had the grace of a two-year-old neurosurgeon with a mallet. The straightforward Git commands I proposed would rewrite the working tree twice. With his proposed changes, this alias never rewrites the working tree. Like math, there's often a more elegant solution with Git once you understand the available tools.
