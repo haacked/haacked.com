@@ -115,7 +115,7 @@ In an attempt to be helpful, people might recommend: `git reset HEAD --hard`.
 
 Slap those people in the face. It's a bad idea. Don't do it!
 
-That's basically a delete of your current changes without any undo. As soon as you run that command, Murphy's law dictates you'll suddenly remember there was that one gem among the refuse you don't want to rewrite.
+That's basically a delete of your current changes without any undo. As soon as you run that command, Murphy's Law dictates you'll suddenly remember there was that one gem among the refuse you don't want to rewrite.
 
 Too bad. If you reset work that you _never committed_ it is gone for good. Hence, the `wipe` alias.
 
@@ -145,7 +145,7 @@ If you're not used to shell scripts, this looks a bit odd. What it's doing is de
 
 What's cool about this is we can take advantage of arguments to this alias. In fact, we can have optional parameters. For example, the first argument to this alias can be accessed via `$1`. But suppose you want a default value for this argument if none is provided. That's where the curly braces come in. Inside the braces you specify the argument index (`$0` returns the whole script) followed by a dash and then the default value.
 
-Thus when you type `git bclean` the expression `${1-master}` evaluates to `master` because no argument was provided. But if you're working on a GitHub pages repository, you'll probably want to call `git bclean gh-pages` in which case the expression `${1-master}` evaluates to `gh-pages` as that's the first argument to the the alias.
+Thus when you type `git bclean` the expression `${1-master}` evaluates to `master` because no argument was provided. But if you're working on a GitHub pages repository, you'll probably want to call `git bclean gh-pages` in which case the expression `${1-master}` evaluates to `gh-pages` as that's the first argument to the alias.
 
 Let's break down this alias into pieces to understand it.
 
