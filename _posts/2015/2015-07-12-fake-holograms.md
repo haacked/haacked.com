@@ -12,7 +12,9 @@ This past week I learned a new party trick. I can turn a holographic researcher 
 
 [A hologram](https://en.wikipedia.org/wiki/Holography) is a very specific effect taking advantage of interference and refraction of light. As Wikipedia describes it,
 
-> Normally, a hologram is a photographic recording of a light field, rather than of an image formed by a lens, and it is used to display a fully three-dimensional image of the holographed subject, which is seen without the aid of special glasses or other intermediate optics. The hologram itself is not an image and it is usually unintelligible when viewed by diffuse ambient light. It is an encoding of the light field as an interference pattern of seemingly random variations in the opacity, density, or surface profile of the photographic medium. When suitably lit, the interference pattern diffracts the light into a reproduction of the original light field and the objects that were in it appear to still be there, exhibiting visual depth cues such as parallax and perspective that change realistically with any change in the relative position of the observer.
+> Normally, a hologram is a photographic recording of a light field, rather than of an image formed by a lens, and it is used to display a fully three-dimensional image of the holographed subject, which is seen without the aid of special glasses or other intermediate optics. 
+> ...
+> When suitably lit, the interference pattern diffracts the light into a reproduction of the original light field and the objects that were in it appear to still be there, exhibiting visual depth cues such as parallax and perspective that change realistically with any change in the relative position of the observer.
 
 The Tupac "hologram" was a variant of [Pepper's Ghost](https://en.wikipedia.org/wiki/Pepper%27s_ghost) which is a technique that's been described as early as the 16th century by Giambattista della Porta:
 
