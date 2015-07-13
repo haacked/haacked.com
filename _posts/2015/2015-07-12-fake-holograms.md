@@ -29,3 +29,5 @@ However, at one point I did open my mouth just long enough to betray my complete
 By that definition, it occurred to me that [HoloLens](https://www.microsoft.com/microsoft-hololens/en-us) therefore isn't a true hologram either. This came up in the conversation (but not by me as I decided to continue keeping my mouth shut) and the HoloLens researcher noted that while true, it's much closer to the experience of a hologram than using the Pepper's Ghost technique. So while it makes him cringe as someone who understands the distinction, it doesn't make him as angry as it used to.
 
 So next time the topic of HoloLens comes up and someone uses the term _holgram_, you can pull an epic [Well, Actually](http://tirania.org/blog/archive/2011/Feb-17.html) and come out of the conversation victorious!
+
+_UPDATE: Daniel Rose left a comment pointing to [this post](http://doc-ok.org/?p=1172) that goes into more detail about holography and makes a convincing case that the distinction between what HoloLens does and holography is overly pedantic and not useful. It looks like the well actuallyer has been well actually'd!_
