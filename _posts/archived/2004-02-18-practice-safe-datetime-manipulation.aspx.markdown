@@ -10,16 +10,25 @@ What is the proper way to add three hours to a `DateTime` for the PST timezone? 
 
 ```csharp
 var d = DateTime.Parse("Oct 26, 2003 12:00:00 AM");
-d = d.AddHours(3.0);
+var later = d.AddHours(3.0);
+Console.WriteLine(later); // displays 10/26/2003 03:00:00 AM which is NOT correct!
 ```
 
 A valiant attempt, but wrong. Instead try this:
 
 ```csharp
 var d = DateTime.Parse("Oct 26, 2003 12:00:00 AM");
-d = d.ToUniversalTime().AddHours(3.0).ToLocalTime();
-// displays 10/26/2003 02:00:00 AM which is correct!
-Console.WriteLine(d);
+var later = d.ToUniversalTime().AddHours(3.0).ToLocalTime();
+Console.WriteLine(later); // displays 10/26/2003 02:00:00 AM which is correct!
+```
+
+Or better yet, use `DateTimeOffset`.
+
+```csharp
+const string dateFormat = "MMM dd yyyy h:mm tt zzz";
+var d = DateTimeOffset.ParseExact("Oct 26 2003 12:00 AM -07:00", dateFormat, CultureInfo.InvariantCulture);
+var later = d.AddHours(3.0);
+Console.WriteLine(later);
 ```
 
 Why all the [rigamarole](http://dictionary.reference.com/search?r=2&q=rigamarole "Definition of Rigamarole")
