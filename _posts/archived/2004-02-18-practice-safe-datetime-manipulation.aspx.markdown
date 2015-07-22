@@ -9,14 +9,14 @@ categories: [csharp code datetime]
 What is the proper way to add three hours to a `DateTime` for the PST timezone? Is it this?
 
 ```csharp
-DateTime d = DateTime.Parse("Oct 26, 2003 12:00:00 AM");
+var d = DateTime.Parse("Oct 26, 2003 12:00:00 AM");
 d = d.AddHours(3.0);
 ```
 
 A valiant attempt, but wrong. Instead try this:
 
 ```csharp
-DateTime d = DateTime.Parse("Oct 26, 2003 12:00:00 AM");
+var d = DateTime.Parse("Oct 26, 2003 12:00:00 AM");
 d = d.ToUniversalTime().AddHours(3.0).ToLocalTime();
 // displays 10/26/2003 02:00:00 AM which is correct!
 Console.WriteLine(d);
