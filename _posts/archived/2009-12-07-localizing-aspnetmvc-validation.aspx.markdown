@@ -4,7 +4,8 @@ title: "Localizing ASP.NET MVC Validation"
 date: 2009-12-07 -0800
 comments: true
 disqus_identifier: 18664
-categories: [aspnetmvc]
+redirect_from: "/archive/2009/12/12/localizing-aspnetmvc-validation.aspx"
+categories: [aspnetmvc localization validation]
 ---
 This is the fourth post in my series on ASP.NET MVC 2 and its new
 features.
@@ -41,7 +42,7 @@ Let’s start with the `ProductViewModel` I used in the last post
 public class ProductViewModel {
   [Price(MinPrice = 1.99)]
   public double Price { get; set; }
- 
+
   [Required]
   public string Title { get; set; }
 }
@@ -82,10 +83,10 @@ messages from the resources.
 
 ```csharp
 public class ProductViewModel {
-  [Required(ErrorMessageResourceType = typeof(Resources), 
+  [Required(ErrorMessageResourceType = typeof(Resources),
     ErrorMessageResourceName = "Required")]
   public string Title { get; set; }
-  [Price(MinPrice = 3.99, ErrorMessageResourceType = typeof(Resources), 
+  [Price(MinPrice = 3.99, ErrorMessageResourceType = typeof(Resources),
     ErrorMessageResourceName = "PriceIsNotRight")]
   public double Price { get; set; }
 }
@@ -126,4 +127,3 @@ Tags: [aspnetmvc](http://haacked.com/tags/aspnetmvc/default.aspx),
 [validation](http://haacked.com/tags/validation/default.aspx),
 [localization](http://haacked.com/tags/localization/default.aspx), [data
 annotations](http://haacked.com/tags/data+annotations/default.aspx)
-
