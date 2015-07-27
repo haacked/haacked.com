@@ -4,7 +4,7 @@ title: "OutOfMemoryException and other pathological cases"
 date: 2004-02-11 -0800
 comments: true
 disqus_identifier: 189
-categories: []
+categories: [csharp dotnet]
 ---
 Ok, I admit it. I’m a unit-tester-aholic. I’m compulsive about it.
 Sometimes going overboard:
@@ -30,7 +30,7 @@ gets garbage collected until the entire mailing is complete. Bad move. These bun
 
 So in any case, I’m thinking about whether or not I should write a unit case for dealing with `OutOfMemoryException`s. There are a lot of difficulties in doing so. Typically, for a case like this, I will try to write a unit test that fakes it. I will talk about how I do that later.
 
-I already have a unit test for dealing with the `ThreadAbortException`. That’s also a story for another time as there are several difficulties with deaing with the ThreadAbortException. For example, it doesn’t seem to get raised in my methods that are running asynchronously. They just seem to die without a whimper. Also, there’s a [slight issue](http://headblender.com/joe/blog/archives/geekness/001084.html "Slight Issue with the Finally Block")
+I already have a unit test for dealing with the `ThreadAbortException`. That’s also a story for another time as there are several difficulties with deaing with the `ThreadAbortException`. For example, it doesn’t seem to get raised in my methods that are running asynchronously. They just seem to die without a whimper. Also, there’s a [slight issue](http://headblender.com/joe/blog/archives/geekness/001084.html "Slight Issue with the Finally Block")
 with the CLR such that the finally block isn’t guaranteed to execute.
 
 Till next time
