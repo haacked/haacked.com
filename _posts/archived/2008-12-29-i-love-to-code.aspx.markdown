@@ -66,5 +66,5 @@ that if you don’t do it for fun, you don’t love to code. Some people
 work so much, they don’t have time to do it for fun, but would code for
 fun if they had copious free time.
 
-As for me, I’ll say it again, I **\<3**to code.
+As for me, I’ll say it again, I **\<3** to code.
 

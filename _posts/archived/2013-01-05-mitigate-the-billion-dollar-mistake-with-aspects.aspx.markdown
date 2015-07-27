@@ -116,7 +116,7 @@ make allowing null opt in rather than opt out. It’s still shit work.
 It’s also error-prone and I’m too lazy a bastard to get it right in
 every case.
 
-IL Rewriting to The Rescue
+IL Rewriting to the Rescue
 --------------------------
 
 So I figured I’d go off the deep end and experiment with Intermediate
@@ -239,7 +239,7 @@ NullGuard.PostSharp is really an experiment. It’s my first iteration in
 solving this problem. I think it’s useful in its current state, but
 there are much better approaches I want to try.
 
--   **Use**[**Fody**](https://github.com/SimonCropp/Fody "Fody")**to
+-   **Use** [**Fody**](https://github.com/Fody/Fody "Fody") **to
     write the guard blocks.** Fody is an IL Weaver tool written by
     [Simon Cropp](http://simoncropp.com/ "Simon Cropp's Blog") that
     provides an MSBuild task to rewrite IL. The benefit of this approach
@@ -250,7 +250,7 @@ there are much better approaches I want to try.
     In the meanwhile, I better start reading up on IL. I think this will
     be the next approach I try. **UPDATE:** Turns out that in response
     to this blog post, the Fody team wrote
-    [NullGuard.Fody](https://github.com/SimonCropp/NullGuard.Fody) that
+    [NullGuard.Fody](https://github.com/Fody/NullGuard) that
     does exactly this!
 -   **Use T4 to rewrite the source code.** Rather than rewrite the IL,
     another approach would be to rewrite the source code much like T4MVC

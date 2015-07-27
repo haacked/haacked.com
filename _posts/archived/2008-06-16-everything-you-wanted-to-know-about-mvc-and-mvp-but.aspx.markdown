@@ -72,10 +72,9 @@ The Difference?
 ---------------
 
 So what’s the diff between MVC and MVP? Using
-[WinMerge](http://winmerge.org/ "WinMerge"), here it is!
+GitHub, here it is!
 
-![WinMerge - [MVP.txt -
-mvc.txt]](http://haacked.com/images/haacked_com/WindowsLiveWriter/MVCandMVPPatternResources_71CE/WinMerge%20-%20%5BMVP.txt%20-%20mvc.txt%5D_3.png "WinMerge - [MVP.txt - mvc.txt]")
+![246](https://cloud.githubusercontent.com/assets/19977/4980474/6af411ae-6900-11e4-8959-a80072db3054.png)
 
 Sorry, bad joke but I couldn’t resist.
 

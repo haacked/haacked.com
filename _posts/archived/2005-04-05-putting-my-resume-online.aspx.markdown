@@ -6,8 +6,12 @@ comments: true
 disqus_identifier: 2573
 categories: [personal,code]
 ---
-I put up an HTML version of my
-[resume](http://haacked.com/Docs/PhillipHaack_Resume.html) on my blog.
+
+_UPDATE: 2014/05/13 I lost it when I migrated it and honestly i don't feel
+the need to have it up at the moment._
+
+<strike>I put up an HTML version of my
+resume on my blog.</strike>
 It has a slight bit more information than my Word resume which I think
 lends well to the online experience. For a moment I thought about using
 the Marquee and Blink tags all over and have animated dancing babies,
