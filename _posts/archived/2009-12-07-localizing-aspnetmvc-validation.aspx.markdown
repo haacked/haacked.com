@@ -4,7 +4,7 @@ title: "Localizing ASP.NET MVC Validation"
 date: 2009-12-07 -0800
 comments: true
 disqus_identifier: 18664
-redirect_from: "/archive/2009/12/12/localizing-aspnetmvc-validation.aspx"
+redirect_from: "/archive/2009/12/12/localizing-aspnetmvc-validation.aspx.html"
 categories: [aspnetmvc localization validation]
 ---
 This is the fourth post in my series on ASP.NET MVC 2 and its new
