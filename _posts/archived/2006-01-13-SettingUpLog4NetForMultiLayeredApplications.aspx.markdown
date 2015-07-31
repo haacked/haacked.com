@@ -88,7 +88,7 @@ to the Log4Net assembly and make calls to its logging methods in your
 code just as you would in the web application layer.
 
 Then configure your web application as mentioned in my [dirty
-guide](http://haacked.com/archive/2005/03/07/2317.aspx "Guide to Log4Net")
+guide](http://haacked.com/archive/2005/03/07/ConfiguringLog4NetForWebApplications.aspx/ "Guide to Log4Net")
 and you are all set. Log messages from all three assemblies should
 funnel nicely to your log file.
 
