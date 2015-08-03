@@ -4,6 +4,7 @@ title: "ReSharper Property Expansion Live Template"
 date: 2004-08-20 -0800
 comments: true
 disqus_identifier: 954
+redirect_from: "/archive/2004/08/20/954.aspx.html"
 categories: []
 ---
 One thing I liked about CodeRush is that it came with several property
