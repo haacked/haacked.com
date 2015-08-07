@@ -5,7 +5,7 @@ date: 2005-03-13 -0800
 redirect_from: "/archive/2005/03/13/2357.aspx.html"
 comments: true
 disqus_identifier: 2357
-categories: [humor,blogging]
+categories: [humor blogging meta-blogging]
 ---
 ![](/images/TheBigHit.jpg "The Big Hit") In the 1998 movie, [The Big
 Hit](http://www.imdb.com/title/tt0120609/), the protagonists kidnap the
@@ -38,7 +38,3 @@ I recently walked through the hallowed shelves of the local Borders book
 store in Santa Monica with my wife and noticed an entire shelf of books
 on writing. The thought that we might see the end of writing about
 writing never occured to me.
-
-Tags: [blogging](http://haacked.com/tags/blogging/default.aspx), [Meta
-blogging](http://haacked.com/tags/meta%20blogging/default.aspx)
-
