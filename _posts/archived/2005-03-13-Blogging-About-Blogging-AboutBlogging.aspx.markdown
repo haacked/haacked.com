@@ -2,6 +2,7 @@
 layout: post
 title: "Blogging about Blogging about Blogging about ..."
 date: 2005-03-13 -0800
+redirect_from: "/archive/2005/03/13/2357.aspx.html"
 comments: true
 disqus_identifier: 2357
 categories: [humor,blogging]
