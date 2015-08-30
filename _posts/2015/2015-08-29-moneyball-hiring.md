@@ -12,6 +12,8 @@ The seer squatted next to the entrails on the ground, staring intently at the pa
 
 Such is the state of hiring developers today.
 
+### Our approach to hiring is misguided
+
 The approach to hiring developers and managing their performance afterwards at many if not most tech companies is based on age old ritual and outdated ideas of what predicts how an employee will perform. Most of it ends up being very poor at predicting success and rife with bias.
 
 For example, remember when questions like "How would you move Mt. Fuji?" were all the rage at companies like Microsoft and Google? The hope was that in answering such questions, the interviewee would demonstrate clever problem solving skills and intelligence. Surely this would help hire the best and brightest?
@@ -21,6 +23,8 @@ Nope.
 According to Google’s Senior VP of People Operations Laszlo Bock, Google long ago realized [these questions were complete wastes of time](http://www.deathandtaxesmag.com/200732/google-admits-its-famous-job-interview-questions-were-a-complete-waste-of-time/).
 
 > Years ago, we did a study to determine whether anyone at Google is particularly good at hiring. We looked at tens of thousands of interviews, and everyone who had done the interviews and what they scored the candidate, and how that person ultimately performed in their job. We found zero relationship.
+
+### We're not the first to face this
 
 Our industry is at a stage where we are rife with superstition about what factors predict putting together a great team. This [sounds eerily familiar](https://en.wikipedia.org/wiki/Moneyball).
 
@@ -36,6 +40,8 @@ Did it work?
 
 > By re-evaluating the strategies that produce wins on the field, the 2002 Athletics, with approximately US$44 million in salary, were competitive with larger market teams such as the New York Yankees, who spent over US$125 million in payroll that same season...This approach brought the A's to the playoffs in 2002 and 2003.
 
+### Moneyball of Hiring
+
 It makes me wonder, where is the Moneyball of software hiring and performance management?
 
 Companies like Google, as evidenced by the previously mentioned study, are applying a lot of data to the analysis of [hiring and performance management](http://www.theatlantic.com/business/archive/2013/10/how-google-uses-data-to-build-a-better-worker/280347/). I bet that analysis is a competitive advantage in their ability to hire the best and form great teams. It gives them the ability to hire people overlooked by other companies still stuck in the superstition that making candidates code on white boards or reverse linked lists will find the best people.
@@ -43,6 +49,8 @@ Companies like Google, as evidenced by the previously mentioned study, are apply
 Even so, this area is ripe to apply more science to it and study it on a grander scale. I would love to see multiple large companies collect and share this data for the greater good of the industry and society at large. Studies like this often are a force in [reducing unconscious bias and increasing diversity](http://www.upworthy.com/this-orchestras-blind-audition-proves-bias-sneaks-in-when-you-least-expect-it).
 
 Having this data in the open might remove this one competitive advantage in hiring, but companies can still compete by offering interesting work, great compensation, and benefits.
+
+### We'll never get it right
 
 Even with all this data, we'll never perfect hiring. Studying human behavior is a tricky affair. If we could predict it well, the stock market would be completely predictable.
 
