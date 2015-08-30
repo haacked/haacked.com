@@ -42,4 +42,8 @@ Companies like Google, as evidenced by the previously mentioned study, are apply
 
 Even so, this area is ripe to apply more science to it and study it on a grander scale. I would love to see multiple large companies collect and share this data for the greater good of the industry and society at large. Studies like this often are a force in [reducing unconscious bias and increasing diversity](http://www.upworthy.com/this-orchestras-blind-audition-proves-bias-sneaks-in-when-you-least-expect-it).
 
-Having this data in the open might remove this one competitive advantage in hiring, but companies can still compete by offering interesting work, great compensation, and benefts.
+Having this data in the open might remove this one competitive advantage in hiring, but companies can still compete by offering interesting work, great compensation, and benefits.
+
+Even with all this data, we'll never perfect hiring. Studying human behavior is a tricky affair. If we could predict it well, the stock market would be completely predictable.
+
+Companies should embrace the fact that they will often be wrong. They will make mistakes in hiring. As much time as a company spends attempting to make their hiring process rock solid, they should also spend a similar amount of time building humane systems for correcting hiring mistakes. This is a theme I've touched upon before - the [inevitability of failure](http://haacked.com/archive/2015/02/07/failure-and-repair/).
