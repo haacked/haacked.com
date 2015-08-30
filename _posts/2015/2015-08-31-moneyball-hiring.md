@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moneyball of Hiring"
-date: 2015-08-29 -0800
+date: 2015-08-31 -0800
 comments: true
 categories: [hiring industry]
 ---
