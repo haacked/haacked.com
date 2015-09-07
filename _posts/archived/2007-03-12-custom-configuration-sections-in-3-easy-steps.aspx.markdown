@@ -30,7 +30,7 @@ Join the club. Not only is the first approach prone to typos
 these things all bunched together can cause your eyes to glaze over. It
 is a lot easier to manage when settings are grouped in logical bunches.
 
-A while back [Craig Andera](http://www.pluralsight.com/blogs/craig/ "Craig Andera") solved this problem with the [Last Configuration Section Handler](http://www.pluralsight.com/wiki/default.aspx/Craig/XmlSerializerSectionHandler.html "Last Configuration Section Handler") he’d ever need. This basically made it easy to specify a custom strongly
+A while back [Craig Andera](https://sites.google.com/site/craigandera/ "Craig Andera") solved this problem with the [Last Configuration Section Handler](https://sites.google.com/site/craigandera/craigs-stuff/clr-workings/the-last-configuration-section-handler-i-ll-ever-need "Last Configuration Section Handler") he’d ever need. This basically made it easy to specify a custom strongly
 typed class to represent a logical group of settings using XML Serialization. It led to a much cleaner configuration file.
 
 But that was then and this is now. With ASP.NET 2.0, **there’s an even easier way** which I didn’t know about until [Jeff
