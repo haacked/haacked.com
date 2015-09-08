@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Moneyball of Hiring"
-date: 2015-08-31 -0800
+date: 2015-09-08 -0800
 comments: true
 categories: [hiring industry]
 ---
 
-The seer squatted next to the entrails on the ground, staring intently at the pattern formed by the splatter. There was something there, but confirmation was needed. Turning away from the decomposing remains, the seer consulted the dregs of a near empty cup of tea, searching the shifting patterns of the swirling tea leaves for corroboration. There it was. A decision could be made. "Yes, this person will be successful here. We should hire this person."
+Pat squatted next to the entrails on the ground and stared intently at the pattern formed by the splatter. There was something there, but confirmation was needed. Turning away from the decomposing remains, the shaman consulted the dregs of a cup of tea, searching the shifting patterns of the swirling tea leaves for corroboration. There it was. A decision could be made. "Yes, this person will be successful here. We should hire this person."
 
 ![Spring Pouchong tea - CC BY SA 3.0 by Richard Corner ](https://cloud.githubusercontent.com/assets/19977/9565095/3e6e5c4c-4e70-11e5-8023-6aa1f81c31dd.png)
 
