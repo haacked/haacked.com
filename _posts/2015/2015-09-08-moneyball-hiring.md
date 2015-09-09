@@ -50,6 +50,8 @@ Even so, this area is ripe to apply more science to it and study it on a grander
 
 Having this data in the open might remove this one competitive advantage in hiring, but companies can still compete by offering interesting work, great compensation, and benefits.
 
+The good news is, there are a lot of people and companies thinking about this. This article,  [What's Wrong with Job Interviews, and How to Fix Them](https://www.linkedin.com/pulse/20130610025112-69244073-will-smart-companies-interview-your-kids) is a great example.
+
 ### We'll never get it right
 
 Even with all this data, we'll never perfect hiring. Studying human behavior is a tricky affair. If we could predict it well, the stock market would be completely predictable.
