@@ -22,7 +22,7 @@ poles of two magnets together.
 
 Interestingly enough, the term "Impedance", now bandied about in
 software engineering circles, is borrowed from electronics. I'm going to
-do a disservice to electrical engineers all over the world by offering a
+do a disservice to electrical engineers all over the world by offering
 a very simple explanation. (My aplogies to you EEs out there).
 
 > **Impedance** is the measure of the amount that some object impedes
