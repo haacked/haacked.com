@@ -84,7 +84,7 @@ git show cc5b002a
 
 As I'll show later, the `--cc` option is useful for finding interesting commits like this.
 
-You can see the output of the `gist show` command [in this gist](https://gist.github.com/Haacked/9192002). Notice how much less there is there compared to the [full diff of the merge commit](https://github.com/SignalR/SignalR/commit/cc5b002a5140e2d60184de42554a8737981c846c).
+You can see the output of the `git show` command [in this gist](https://gist.github.com/Haacked/9192002). Notice how much less there is there compared to the [full diff of the merge commit](https://github.com/SignalR/SignalR/commit/cc5b002a5140e2d60184de42554a8737981c846c).
 
 The `git diff-tree` command is a lower level command and if I had to guess, `git show` builds on top of it.
 
