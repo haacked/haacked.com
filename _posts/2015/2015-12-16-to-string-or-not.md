@@ -12,25 +12,29 @@ For example, a recent [Octokit.net pull request](https://github.com/octokit/octo
 
 However, as I just said, __I care__. I care about things that don't matter.
 
-Resharper, a tool we use to maintain our code conventions, by default suggests changing all `String` to `string`. But this doesn't fit the convention we follow. It probably helps to think about why are there aliases in the first place for these types.
+Resharper, a tool we use to maintain our code conventions, by default suggests changing all `String` to `string`. But this doesn't fit the convention we follow.
 
-I'm not really sure, but types like `string` and `int` feel special to me. They feel like primitives. In C#, [keywords are lowercase](https://msdn.microsoft.com/en-us/library/x53a06bb.aspx). So in my mind, when we're using these types in this manner, they should be lowercased. Any time they're declaring a return type, parameter type, etc.
+To understand the convention I have in my head, it probably helps to think about why are there aliases in the first place for these types.
+
+I'm not really sure, but types like `string` and `int` feel special to me. They feel like primitives. In C#, [keywords are lowercase](https://msdn.microsoft.com/en-us/library/x53a06bb.aspx). So in my mind, when we're using these types in this manner, they should be lowercase. Thus my convention is to lowercase `string` and `int` any time we're using them in a manner where they feel like a keyword.
 
 For example,
 
 ```csharp
+int x;
 string foo;
 string SomeMethod();
 void AnotherMethod(string x);
 public string Foo { get; }
 ```
 
-But when we're using it to call static methods, I want it to look like a normal class.
+But when we're using it to call static methods or calling constructors on these types, I want it to look like a normal type. These constructs don't look like you're using a keyword.
 
 ```csharp
+Int32.Parse("42");
 var foo = String.Empty;
 String.Format("blah{0}", "blah");
 var baz = new String();
 ```
 
-Maybe I'm being too nitpicky   about this. For those of you who also care about unimportant things, I'm curious to hear what your thoughts on this matter. Is it possible to configure R# or other tools to enforce this convention?
+Maybe I'm being too nitpicky about this. For those of you who also care about unimportant things, I'm curious to hear what your thoughts on this matter. Is it possible to configure R# or other tools to enforce this convention?
