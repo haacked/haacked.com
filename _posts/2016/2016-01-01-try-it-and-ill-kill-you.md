@@ -20,6 +20,8 @@ Now if you've ever seen or met my daughter, she's a delightful joyful child who'
 
 At being admonished, she started whimpering and crying. But then, out of nowhere, she screams with the full fury of her six year old being, "Try it and I'll kill you!"
 
+![public domain image](https://cloud.githubusercontent.com/assets/19977/12076360/86f30986-b15d-11e5-9b55-13850e70e517.png)
+
 My eyes went wide and I looked at my wife in shock mouthing "Holy fuck!" As I searched for the words to convey to my daughter the gravity of how wrong it was to say that, I bust out laughing. Out loud. Uncontrollably.
 
 The intense incongruity of this little bundle of cuteness screaming such an over the top aggressive threat was too comical and I could not keep a straight face.
