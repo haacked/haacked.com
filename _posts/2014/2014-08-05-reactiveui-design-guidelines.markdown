@@ -22,7 +22,7 @@ It can be tough to wrap your head around Reactive Extensions, and by extension R
 
 Much of this knowledge is tribal in nature. We tell stories to each other to remind each other of what to do and what not to do. However, that's fragile and doesn't help anyone else.
 
-So we're making a more concerted attempt to record that tribal knowledge so others can benefit from what we learn and we can benefit from what others learned. To that end, we've made our [ReactiveUI Design Guidelines](https://github.com/reactiveui/rxui-design-guidelines) public.
+So we're making a more concerted attempt to record that tribal knowledge so others can benefit from what we learn and we can benefit from what others learned. To that end, we've made our [ReactiveUI Design Guidelines](http://docs.reactiveui.net/en/design-guidelines/commands.html) public.
 
 It's a bit sparse, but we hope to build on it over time as we learn and improve. If you use ReactiveUI, I hope you find it useful as well.
 
