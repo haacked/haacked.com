@@ -19,7 +19,7 @@ top of my scalp. Fortunately it wasn’t very deep and I was not knocked
 unconscious, though I bled a lot and had a nice Tom & Jerry bump on the
 head.
 
-[![tom-jerry-bump](http://haacked.com/images/haacked_com/Windows-Live-Writer/Staples-In-My-Head_132F8/tom-jerry-bump_thumb.jpg "tom-jerry-bump")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Staples-In-My-Head_132F8/tom-jerry-bump_2.jpg)
+[![tom-jerry-bump](http://haacked.com/images/haacked_com/WindowsLiveWriter/Staples-In-My-Head_132F8/tom-jerry-bump_thumb.jpg "tom-jerry-bump")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Staples-In-My-Head_132F8/tom-jerry-bump_2.jpg)
 
 This earned me a trip to the ER which is NOTHING like the TV show. If it
 were, the show would have been cancelled after the first episode. I fail

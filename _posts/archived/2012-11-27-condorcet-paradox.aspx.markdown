@@ -38,7 +38,7 @@ out of a set of candidates. It’s pretty obvious, right? When you have
 two choices, the method of voting is pretty obvious. Majority wins! But
 when you have more than two choices, things become interesting.
 
-[![extended-forehead-edition\_2](http://haacked.com/images/haacked_com/Windows-Live-Writer/Voting-is-a-Sham_C528/extended-forehead-edition_2_thumb.jpg "extended-forehead-edition_2")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Voting-is-a-Sham_C528/extended-forehead-edition_2_2.jpg)Suppose
+[![extended-forehead-edition\_2](http://haacked.com/images/haacked_com/WindowsLiveWriter/Voting-is-a-Sham_C528/extended-forehead-edition_2_thumb.jpg "extended-forehead-edition_2")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Voting-is-a-Sham_C528/extended-forehead-edition_2_2.jpg)Suppose
 you have a contest for the best (not biggest) forehead between three
 candidates. I’ll use my former forehead endowed co-authors for this
 example.
@@ -157,7 +157,7 @@ who wasn’t back then?) French mathematician philosopher who advocated
 crazy ideas like public education and equal rights for women and people
 of all ages.
 
-[![I see you over there, to my right.](http://haacked.com/images/haacked_com/Windows-Live-Writer/Voting-is-a-Sham_C528/420px-Nicolas_de_Condorcet_thumb.png "420px-Nicolas_de_Condorcet")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Voting-is-a-Sham_C528/420px-Nicolas_de_Condorcet.png)
+[![I see you over there, to my right.](http://haacked.com/images/haacked_com/WindowsLiveWriter/Voting-is-a-Sham_C528/420px-Nicolas_de_Condorcet_thumb.png "420px-Nicolas_de_Condorcet")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Voting-is-a-Sham_C528/420px-Nicolas_de_Condorcet.png)
 
 He also studied these interesting voting problems and noted that
 collective preferences are not transitive but can by cyclic.

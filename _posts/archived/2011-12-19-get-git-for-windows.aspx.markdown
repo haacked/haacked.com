@@ -69,7 +69,7 @@ where PsGet installed posh-git. On my machine, that was:
 When I restarted my PowerShell prompt, it told me it could not start SSH
 Agent.
 
-[![powershell-ssh-agent-not-found](http://haacked.com/images/haacked_com/Windows-Live-Writer/Get-Git-For-Windows_D671/powershell-ssh-agent-not-found_thumb.png "powershell-ssh-agent-not-found")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Get-Git-For-Windows_D671/powershell-ssh-agent-not-found_2.png)
+[![powershell-ssh-agent-not-found](http://haacked.com/images/haacked_com/WindowsLiveWriter/Get-Git-For-Windows_D671/powershell-ssh-agent-not-found_thumb.png "powershell-ssh-agent-not-found")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Get-Git-For-Windows_D671/powershell-ssh-agent-not-found_2.png)
 
 It turns out that it was not able to find the “ssh-agent.exe”
 executable. That file is located in *C:\\Program Files (x86)\\Git\\bin*.
@@ -90,7 +90,7 @@ On my machine that script is at:
 The next time I opened my PowerShell prompt, I was greeted with a
 request for my pass phrase.
 
-[![powershell-ssh-agent](http://haacked.com/images/haacked_com/Windows-Live-Writer/Get-Git-For-Windows_D671/powershell-ssh-agent_thumb.png "powershell-ssh-agent")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Get-Git-For-Windows_D671/powershell-ssh-agent_2.png)
+[![powershell-ssh-agent](http://haacked.com/images/haacked_com/WindowsLiveWriter/Get-Git-For-Windows_D671/powershell-ssh-agent_thumb.png "powershell-ssh-agent")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Get-Git-For-Windows_D671/powershell-ssh-agent_2.png)
 
 After typing in my super secret pass phrase, once at the beginning of
 the session, I was set. I could clone some private repositories and push

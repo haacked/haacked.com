@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 18816
 categories: [asp.net,asp.net mvc,code]
 ---
-[![redirect](http://haacked.com/images/haacked_com/Windows-Live-Writer/Prevent-Forms-Authentication-Login-Page-_C968/redirect_3.jpg "redirect")](http://www.flickr.com/photos/notjake13/2574028447/ "Construction signs in NY")
+[![redirect](http://haacked.com/images/haacked_com/WindowsLiveWriter/Prevent-Forms-Authentication-Login-Page-_C968/redirect_3.jpg "redirect")](http://www.flickr.com/photos/notjake13/2574028447/ "Construction signs in NY")
 *Go that way instead - Photo by JacobEnos [CC some rights
 reserved](http://creativecommons.org/licenses/by/2.0/deed.en "Creative Commons by Attribution")*
 

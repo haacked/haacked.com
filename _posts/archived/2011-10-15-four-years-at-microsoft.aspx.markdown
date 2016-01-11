@@ -12,9 +12,9 @@ Tim Heuer already [introspected for
 me](http://timheuer.com/blog/archive/2011/08/24/working-at-microsoft-instrospection.aspx "Working at Microsoft").
 Much of what he writes echoes my own experience, thus leaving me with
 less to write about.
-![Smile](http://haacked.com/images/haacked_com/Windows-Live-Writer/Four-Years-At-Microsoft_E91A/wlEmoticon-smile_2.png)
+![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/Four-Years-At-Microsoft_E91A/wlEmoticon-smile_2.png)
 
-[![microsoft-way](http://haacked.com/images/haacked_com/Windows-Live-Writer/Four-Years-At-Microsoft_E91A/microsoft-way_thumb.jpg "microsoft-way")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Four-Years-At-Microsoft_E91A/microsoft-way_2.jpg)
+[![microsoft-way](http://haacked.com/images/haacked_com/WindowsLiveWriter/Four-Years-At-Microsoft_E91A/microsoft-way_thumb.jpg "microsoft-way")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Four-Years-At-Microsoft_E91A/microsoft-way_2.jpg)
 *It’s the Microsoft way, or the highway. Which is conveniently located
 near Microsoft Way. - [Photo by Todd
 Bishop](http://www.flickr.com/photos/36182550@N08/3347465868/), [CC BY

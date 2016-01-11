@@ -55,7 +55,7 @@ Once you have Posh-Git loaded up, your PowerShell window lights up with
 extra information and features when you are in a directory with a git
 repository.
 
-[![posh-git-info](http://haacked.com/images/haacked_com/Windows-Live-Writer/Git-Smooth-with-PowerShell_94DB/posh-git-info_thumb.png "posh-git-info")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Git-Smooth-with-PowerShell_94DB/posh-git-info_2.png)
+[![posh-git-info](http://haacked.com/images/haacked_com/WindowsLiveWriter/Git-Smooth-with-PowerShell_94DB/posh-git-info_thumb.png "posh-git-info")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Git-Smooth-with-PowerShell_94DB/posh-git-info_2.png)
 
 Notice that my PowerShell prompt includes the current branch name as
 well as information about the current status of my index. I have 2 files
@@ -66,7 +66,7 @@ as well as your branches! The following animated GIF shows what happens
 when I hit the tab key multiple times to cycle through my available
 branches. That alone is just sublime.
 
-[![ps-tab-expansion](http://haacked.com/images/haacked_com/Windows-Live-Writer/Git-Smooth-with-PowerShell_94DB/ps-tab-expansion_thumb.gif "ps-tab-expansion")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Git-Smooth-with-PowerShell_94DB/ps-tab-expansion_2.gif)
+[![ps-tab-expansion](http://haacked.com/images/haacked_com/WindowsLiveWriter/Git-Smooth-with-PowerShell_94DB/ps-tab-expansion_thumb.gif "ps-tab-expansion")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Git-Smooth-with-PowerShell_94DB/ps-tab-expansion_2.gif)
 
 Install Posh-Git using PsGet
 ----------------------------
@@ -92,7 +92,7 @@ install-module posh-git
 Here’s a screenshot of my PowerShell window running the command. Once
 you run the commands, you’ll need to close and re-open the PowerShell
 console for the changes to take
-effect.[![ps-installing-posh-git](http://haacked.com/images/haacked_com/Windows-Live-Writer/Git-Smooth-with-PowerShell_94DB/ps-installing-posh-git_thumb.png "ps-installing-posh-git")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Git-Smooth-with-PowerShell_94DB/ps-installing-posh-git_2.png)That’s
+effect.[![ps-installing-posh-git](http://haacked.com/images/haacked_com/WindowsLiveWriter/Git-Smooth-with-PowerShell_94DB/ps-installing-posh-git_thumb.png "ps-installing-posh-git")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Git-Smooth-with-PowerShell_94DB/ps-installing-posh-git_2.png)That’s
 
 Both of these commands are pulled right from the [PsGet
 homepage](http://psget.net/ "PsGet Homepage"). That’s it! Took me no

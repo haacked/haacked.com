@@ -262,7 +262,7 @@ conundrum. You only see that a package is digitally signed after you’ve
 downloaded and decided to install it. At that point, you tend to be
 committed already.
 
-[![vs-extension-gallery](http://haacked.com/images/haacked_com/Windows-Live-Writer/Trust-and-NuGet_84DF/vs-extension-gallery_thumb.png "vs-extension-gallery")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Trust-and-NuGet_84DF/vs-extension-gallery_2.png)
+[![vs-extension-gallery](http://haacked.com/images/haacked_com/WindowsLiveWriter/Trust-and-NuGet_84DF/vs-extension-gallery_thumb.png "vs-extension-gallery")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Trust-and-NuGet_84DF/vs-extension-gallery_2.png)
 
 Also notice that the message that this package isn’t signed is barely
 noticeable.

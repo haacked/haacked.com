@@ -11,7 +11,7 @@ categories: [open source,nuget]
 
 I’m always impressed with the passion of the open source community and
 nothing brings it out more than a naming exercise.
-![Smile](http://haacked.com/images/haacked_com/Windows-Live-Writer/Naming-is-Hard-Lets-Go-Shopping_7876/wlEmoticon-smile_2.png)
+![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/Naming-is-Hard-Lets-Go-Shopping_7876/wlEmoticon-smile_2.png)
 
 In my last blog post, I posted about our [need to rename
 NuPack](http://haacked.com/archive/2010/10/21/renaming-nupack.aspx "Renaming NuPack").
@@ -176,5 +176,5 @@ help](http://nupack.codeplex.com/documentation?title=Contributing%20to%20NuPack 
 
 And no, we’re not going to name it:
 
-![prince-symbol](http://haacked.com/images/haacked_com/Windows-Live-Writer/Naming-is-Hard-Lets-Go-Shopping_7876/prince-symbol_84a96c0e-8bf9-4fa2-a82d-9a46970810d9.jpg "prince-symbol")
+![prince-symbol](http://haacked.com/images/haacked_com/WindowsLiveWriter/Naming-is-Hard-Lets-Go-Shopping_7876/prince-symbol_84a96c0e-8bf9-4fa2-a82d-9a46970810d9.jpg "prince-symbol")
 

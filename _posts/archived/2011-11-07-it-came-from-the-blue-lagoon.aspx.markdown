@@ -13,11 +13,11 @@ my hotel at an ungodly early hour (which ended up being really late for
 me Seattle time), my first order of business was to head over to [the
 Blue Lagoon](http://www.bluelagoon.com/ "The Blue Lagoon").
 
-[![blue-lagoon-movie](http://haacked.com/images/haacked_com/Windows-Live-Writer/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon-movie_thumb.jpg "blue-lagoon-movie")](http://haacked.com/images/haacked_com/Windows-Live-Writer/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon-movie_2.jpg)
+[![blue-lagoon-movie](http://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon-movie_thumb.jpg "blue-lagoon-movie")](http://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon-movie_2.jpg)
 
 No, **not that Blue Lagoon**! This one!
 
-[![blue-lagoon](http://haacked.com/images/haacked_com/Windows-Live-Writer/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon_thumb.jpg "blue-lagoon")](http://haacked.com/images/haacked_com/Windows-Live-Writer/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon_2.jpg) 
+[![blue-lagoon](http://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon_thumb.jpg "blue-lagoon")](http://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon_2.jpg) 
 
 Look at that steam coming off the water! The Blue Lagoon is a geothermal
 spa with a 5000 square meter lagoon. The water comes from a nearby
@@ -66,7 +66,7 @@ and warm within the heated waters.
 
 I even had time to stop at a water side bar for a drink.
 
-[![bar-at-the-blue-lagoon](http://haacked.com/images/haacked_com/Windows-Live-Writer/It-Came-From-the-Blue-Lagoon_7635/bar-at-the-blue-lagoon_thumb.jpg "bar-at-the-blue-lagoon")](http://haacked.com/images/haacked_com/Windows-Live-Writer/It-Came-From-the-Blue-Lagoon_7635/bar-at-the-blue-lagoon_2.jpg)
+[![bar-at-the-blue-lagoon](http://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/bar-at-the-blue-lagoon_thumb.jpg "bar-at-the-blue-lagoon")](http://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/bar-at-the-blue-lagoon_2.jpg)
 
 A good part of the drive to the Lagoon is through a vast lava field that
 is reminiscent of the photos sent back by the Mars Rover. It’s very easy

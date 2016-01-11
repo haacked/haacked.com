@@ -80,7 +80,7 @@ So unless you’re built by this guy (photo from [The NFL’s Widest Necks
 article on
 Slate](http://www.slate.com/slideshows/sports/the-nfls-widest-necks.html "NFL's Widest Neck"))
 
-[![big-neck](http://haacked.com/images/haacked_com/Windows-Live-Writer/0f290b5866d0_11DF0/big-neck_thumb.png "big-neck")](http://haacked.com/images/haacked_com/Windows-Live-Writer/0f290b5866d0_11DF0/big-neck_2.png)
+[![big-neck](http://haacked.com/images/haacked_com/WindowsLiveWriter/0f290b5866d0_11DF0/big-neck_thumb.png "big-neck")](http://haacked.com/images/haacked_com/WindowsLiveWriter/0f290b5866d0_11DF0/big-neck_2.png)
 
 Holding your head up all day can be a literal pain in the neck. The
 trick, of course, is to balance the head well so you’re neck isn’t

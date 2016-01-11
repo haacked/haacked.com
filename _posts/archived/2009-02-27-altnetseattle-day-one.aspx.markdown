@@ -9,7 +9,7 @@ categories: [personal]
  
 
 [![ALT.NET Opening Ceremonies by Brad
-Wilson](http://haacked.com/images/haacked_com/Windows-Live-Writer/ALT.NET-Seattle-Day-One_A157/scott-why-so-mean_thumb.jpg "ALT.NET Opening Ceremonies by Brad Wilson")](http://haacked.com/images/haacked_com/Windows-Live-Writer/ALT.NET-Seattle-Day-One_A157/scott-why-so-mean_2.jpg)
+Wilson](http://haacked.com/images/haacked_com/WindowsLiveWriter/ALT.NET-Seattle-Day-One_A157/scott-why-so-mean_thumb.jpg "ALT.NET Opening Ceremonies by Brad Wilson")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ALT.NET-Seattle-Day-One_A157/scott-why-so-mean_2.jpg)
 
 Day one of the ALT.NET Seattle conference is over and I’m looking
 forward to tomorrow’s sessions.

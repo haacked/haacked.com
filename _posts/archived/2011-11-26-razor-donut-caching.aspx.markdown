@@ -11,7 +11,7 @@ region of the page (or set of regions) has been conspicuously [absent
 from ASP.NET MVC since version
 2](http://haacked.com/archive/2008/11/05/donut-caching-in-asp.net-mvc.aspx "ASP.NET MVC Donut Caching").
 
-[![MMMM Donuts! Photo by Pzado at sxc.hu](http://haacked.com/images/haacked_com/Windows-Live-Writer/Donut-Caching-in-ASP.NET-MVC_A1EE/mmm-donuts_thumb.jpg "mmm-donuts")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Donut-Caching-in-ASP.NET-MVC_A1EE/mmm-donuts_2.jpg)
+[![MMMM Donuts! Photo by Pzado at sxc.hu](http://haacked.com/images/haacked_com/WindowsLiveWriter/Donut-Caching-in-ASP.NET-MVC_A1EE/mmm-donuts_thumb.jpg "mmm-donuts")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Donut-Caching-in-ASP.NET-MVC_A1EE/mmm-donuts_2.jpg)
 
 This is something that’s on our Roadmap for ASP.NET MVC 4, but we have
 yet to flesh out the design. In the meanwhile, there’s a new

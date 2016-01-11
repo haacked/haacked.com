@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 18813
 categories: [asp.net,asp.net mvc]
 ---
-[![BUILD-speaker-bling](http://haacked.com/images/haacked_com/Windows-Live-Writer/Im-Speaking-at-BUILD_BE99/BUILD-speaker-bling_thumb.png "BUILD-speaker-bling")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Im-Speaking-at-BUILD_BE99/BUILD-speaker-bling_2.png)If
+[![BUILD-speaker-bling](http://haacked.com/images/haacked_com/WindowsLiveWriter/Im-Speaking-at-BUILD_BE99/BUILD-speaker-bling_thumb.png "BUILD-speaker-bling")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Im-Speaking-at-BUILD_BE99/BUILD-speaker-bling_2.png)If
 you’re at the BUILD conference in Anaheim, I’ll be speaking in two
 sessions on Thursday.
 
@@ -55,5 +55,5 @@ Edwards](http://damianedwards.wordpress.com/ "Damian Edwards"). 
 
 If you’re here, I hope you can make it. I’ll be giving out NuGet
 stickers at my sessions.
-![Smile](http://haacked.com/images/haacked_com/Windows-Live-Writer/Im-Speaking-at-BUILD_BE99/wlEmoticon-smile_2.png)
+![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/Im-Speaking-at-BUILD_BE99/wlEmoticon-smile_2.png)
 

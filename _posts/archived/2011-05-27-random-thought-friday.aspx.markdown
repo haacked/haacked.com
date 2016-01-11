@@ -39,7 +39,7 @@ day off and spend it with my wife. Oh, and Instagram. I appreciate
 Instagram a lot. Perhaps too much. I’ll try easing off the Tilt-Shift
 from now on.
 
-![my-lovely-wife](http://haacked.com/images/haacked_com/Windows-Live-Writer/Random-Thought-Friday_C08B/my-lovely-wife_8b64a7e6-a0d5-437f-b281-412808e08d48.jpg "my-lovely-wife")
+![my-lovely-wife](http://haacked.com/images/haacked_com/WindowsLiveWriter/Random-Thought-Friday_C08B/my-lovely-wife_8b64a7e6-a0d5-437f-b281-412808e08d48.jpg "my-lovely-wife")
 
 Here’s where I violate my wife’s privacy and post a picture of her on a
 ferry to Bainbridge Island on my blog. We had a really nice outing on
