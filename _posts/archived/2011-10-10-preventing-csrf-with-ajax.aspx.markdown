@@ -13,7 +13,7 @@ attacks, also known as CSRF or XSRF. These exploits are a form of
 [confused deputy
 attack](http://en.wikipedia.org/wiki/Confused_Deputy "Confused Deputy Attack").
 
-[![police-academy](http://haacked.com/images/haacked_com/Windows-Live-Writer/45c6ec1c5059_11263/police-academy_thumb.jpg "police-academy")](http://haacked.com/images/haacked_com/Windows-Live-Writer/45c6ec1c5059_11263/police-academy_2.jpg)*Screen
+[![police-academy](http://haacked.com/images/haacked_com/WindowsLiveWriter/45c6ec1c5059_11263/police-academy_thumb.jpg "police-academy")](http://haacked.com/images/haacked_com/WindowsLiveWriter/45c6ec1c5059_11263/police-academy_2.jpg)*Screen
 grab from The Police Academy movie.*In that post, I covered how ASP.NET
 MVC includes a set of anti-forgery helpers to help mitigate such
 exploits. The helpers include an HTML helper meant to be called in the

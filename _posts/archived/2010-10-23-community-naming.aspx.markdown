@@ -25,5 +25,5 @@ here**](http://nupack.codeplex.com/workitem/282 "Vote for NuGet"))
 As before, **voting still closes on Tuesday 10/26 at 11:59 PM PDT**. If
 you feel strongly enough around a name, rally your friends to vote for
 one.
-![Smile](http://haacked.com/images/haacked_com/Windows-Live-Writer/Community-Naming_BF2C/wlEmoticon-smile_2.png)
+![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/Community-Naming_BF2C/wlEmoticon-smile_2.png)
 

@@ -18,7 +18,7 @@ side of an icosahedron (20-sided polyhedron, or for you D&D folks, a
 d20). On each face of the d20 is a potential answer to your yes or no
 question.
 
-[![magic-8-ball](http://haacked.com/images/haacked_com/Windows-Live-Writer/Writing-a-NuGet-Package-That-Adds-A-Comm_C56B/magic-8-ball_3.jpg "magic-8-ball")](http://www.flickr.com/photos/greeblie/2426454804/ "Magic 8-Ball")
+[![magic-8-ball](http://haacked.com/images/haacked_com/WindowsLiveWriter/Writing-a-NuGet-Package-That-Adds-A-Comm_C56B/magic-8-ball_3.jpg "magic-8-ball")](http://www.flickr.com/photos/greeblie/2426454804/ "Magic 8-Ball")
 
 I thought it would be fun to write a
 [NuGet](http://nuget.codeplex.com/ "NuGet") package that emulates this
@@ -38,7 +38,7 @@ command, you can see a tab expansion suggesting a set of questions. It’s
 important to note that unlike Intellisense, you are free to ignore the
 tab expansion here and type in any question you want.
 
-![magic-eight-ball](http://haacked.com/images/haacked_com/Windows-Live-Writer/Writing-a-NuGet-Package-That-Adds-A-Comm_C56B/magic-eight-ball_3.png "magic-eight-ball")
+![magic-eight-ball](http://haacked.com/images/haacked_com/WindowsLiveWriter/Writing-a-NuGet-Package-That-Adds-A-Comm_C56B/magic-eight-ball_3.png "magic-eight-ball")
 
 In this blog post, I will walk through how I wrote and packaged that
 command. I must warn you, I’m no PowerShell expert. I wrote this as a
@@ -137,7 +137,7 @@ put them in the *Tools* folder.
 I then selected *Edit* \> *Edit Package Metadata* from the menu to enter
 the NuSpec metadata for the package and clicked *OK* at the bottom.
 
-[![magic-eight-ball-pkg](http://haacked.com/images/haacked_com/Windows-Live-Writer/Writing-a-NuGet-Package-That-Adds-A-Comm_C56B/magic-eight-ball-pkg_thumb.png "magic-eight-ball-pkg")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Writing-a-NuGet-Package-That-Adds-A-Comm_C56B/magic-eight-ball-pkg_2.png)
+[![magic-eight-ball-pkg](http://haacked.com/images/haacked_com/WindowsLiveWriter/Writing-a-NuGet-Package-That-Adds-A-Comm_C56B/magic-eight-ball-pkg_thumb.png "magic-eight-ball-pkg")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Writing-a-NuGet-Package-That-Adds-A-Comm_C56B/magic-eight-ball-pkg_2.png)
 
 With all that done, I selected the *File* \> *Save As…* menu to save the
 package on disk so I could test it out. Once I was done testing, I

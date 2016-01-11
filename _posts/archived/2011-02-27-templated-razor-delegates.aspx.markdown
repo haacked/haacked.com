@@ -23,7 +23,7 @@ for using the bold tag instead of the strong tag because it’s “not
 semantic”. Yeah, I’m looking at you
 [Damian](http://damianedwards.wordpress.com/ "Damian") ![Smile with
 tongue
-out](http://haacked.com/images/haacked_com/Windows-Live-Writer/Templated-Razor-Delegates_C83C/wlEmoticon-smilewithtongueout_2.png).
+out](http://haacked.com/images/haacked_com/WindowsLiveWriter/Templated-Razor-Delegates_C83C/wlEmoticon-smilewithtongueout_2.png).
 I mean, don’t both words signify being forceful? I digress.
 
 Note that the delegate that’s generated is a `Func<T, HelperResult>`.

@@ -26,7 +26,7 @@ route debugger so that it acts like tracing and puts the debug
 information at the bottom of the page (*click to enlarge*).
 
 [![About Us - Windows Internet
-Explorer](http://haacked.com/images/haacked_com/Windows-Live-Writer/RouteDebugger-2.0_6BC4/About%20Us%20-%20Windows%20Internet%20Explorer_thumb.png "About Us - Windows Internet Explorer")](http://haacked.com/images/haacked_com/Windows-Live-Writer/RouteDebugger-2.0_6BC4/About%20Us%20-%20Windows%20Internet%20Explorer_2.png)
+Explorer](http://haacked.com/images/haacked_com/WindowsLiveWriter/RouteDebugger-2.0_6BC4/About%20Us%20-%20Windows%20Internet%20Explorer_thumb.png "About Us - Windows Internet Explorer")](http://haacked.com/images/haacked_com/WindowsLiveWriter/RouteDebugger-2.0_6BC4/About%20Us%20-%20Windows%20Internet%20Explorer_2.png)
 
 Note that this new feature requires that you’re running against .NET 4
 and that you have the Microsoft.Web.Infrastructure assembly available

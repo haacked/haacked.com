@@ -26,7 +26,7 @@ research](http://dailyinfographic.com/sitting-down-is-killing-you-infographic "S
 Seriously, click on the image below. I could have stopped there and
 called it a post. But as always, I don’t know when to stop.
 
-[![sitting-is-killing-you](http://haacked.com/images/haacked_com/Windows-Live-Writer/Get-Up-Stand-Up_CC31/sitting-is-killing-you_3.png "sitting-is-killing-you")](http://dailyinfographic.com/sitting-down-is-killing-you-infographic "Sitting Down is Killing You [infographic]")
+[![sitting-is-killing-you](http://haacked.com/images/haacked_com/WindowsLiveWriter/Get-Up-Stand-Up_CC31/sitting-is-killing-you_3.png "sitting-is-killing-you")](http://dailyinfographic.com/sitting-down-is-killing-you-infographic "Sitting Down is Killing You [infographic]")
 
 Much has been written about the detrimental health effects of
 inactivity. According to Marc Hamilton, a biomedical researcher, sitting
@@ -116,7 +116,7 @@ tables](http://www.news.cornell.edu/Chronicle/04/11.18.04/stand_at_work.html "st
 So I went on a quest to find the perfect adjustable desk. How did I
 choose which desk to purchase?
 
-[![dodecahedron](http://haacked.com/images/haacked_com/Windows-Live-Writer/Get-Up-Stand-Up_CC31/dodecahedron5_thumb.jpg "dodecahedron")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Get-Up-Stand-Up_CC31/dodecahedron5.jpg)
+[![dodecahedron](http://haacked.com/images/haacked_com/WindowsLiveWriter/Get-Up-Stand-Up_CC31/dodecahedron5_thumb.jpg "dodecahedron")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Get-Up-Stand-Up_CC31/dodecahedron5.jpg)
 \
 *Critical hit!
 [Photo](http://www.flickr.com/photos/disoculated/4574721445/ "20-sided die")
@@ -154,7 +154,7 @@ I’m very happy with this desk. Here’s a photo of my workspace that I
 [sent to CoderWall](http://coderwall.com/p/v7xqcg "CoderWall") with the
 desk in a standing configuration.
 
-[![my-workspace](http://haacked.com/images/haacked_com/Windows-Live-Writer/Get-Up-Stand-Up_CC31/my-workspace_thumb.jpg "my-workspace")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Get-Up-Stand-Up_CC31/my-workspace_2.jpg)
+[![my-workspace](http://haacked.com/images/haacked_com/WindowsLiveWriter/Get-Up-Stand-Up_CC31/my-workspace_thumb.jpg "my-workspace")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Get-Up-Stand-Up_CC31/my-workspace_2.jpg)
 
 If you are looking for a more inexpensive option, I recently learned
 about this [Adjustable Keyboard Podium](http://www.akp-inc.com/) that

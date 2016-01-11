@@ -127,7 +127,7 @@ ignored the unit test project) to enable code analysis using this
 ruleset file. Just go to the project properties and select the *Code
 Analysis* tab.
 
-[![CodeAnalysisRuleSet](http://haacked.com/images/haacked_com/Windows-Live-Writer/70bb1ffd73a5_C2A0/CodeAnalysisRuleSet_thumb.png "CodeAnalysisRuleSet")](http://haacked.com/images/haacked_com/Windows-Live-Writer/70bb1ffd73a5_C2A0/CodeAnalysisRuleSet_2.png)
+[![CodeAnalysisRuleSet](http://haacked.com/images/haacked_com/WindowsLiveWriter/70bb1ffd73a5_C2A0/CodeAnalysisRuleSet_thumb.png "CodeAnalysisRuleSet")](http://haacked.com/images/haacked_com/WindowsLiveWriter/70bb1ffd73a5_C2A0/CodeAnalysisRuleSet_2.png)
 
 I changed the selected Configuration to “All Configurations”. I also
 checked the “Enable Code Analysis…” checkbox. I then clicked “Open” and
@@ -191,7 +191,7 @@ Note that you don’t have to edit this file by hand. If you open the
 ruleset in Visual Studio it’ll provide a GUI editor. I prefer to simply
 edit the file.
 
-[![RuleSetEditor](http://haacked.com/images/haacked_com/Windows-Live-Writer/70bb1ffd73a5_C2A0/RuleSetEditor_thumb.png "RuleSetEditor")](http://haacked.com/images/haacked_com/Windows-Live-Writer/70bb1ffd73a5_C2A0/RuleSetEditor_2.png)
+[![RuleSetEditor](http://haacked.com/images/haacked_com/WindowsLiveWriter/70bb1ffd73a5_C2A0/RuleSetEditor_thumb.png "RuleSetEditor")](http://haacked.com/images/haacked_com/WindowsLiveWriter/70bb1ffd73a5_C2A0/RuleSetEditor_2.png)
 
 One other thing I did was for really important rules where there were
 too many issues to fix in a timely manner, I would simply use Visual

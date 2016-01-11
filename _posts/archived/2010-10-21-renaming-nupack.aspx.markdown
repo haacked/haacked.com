@@ -24,7 +24,7 @@ I’ve posted a set of names as issues in our NuPack CodePlex.com site and
 will ask you to vote for your favorite name among the lot. Vote for as
 many as you want, but realize that if you vote for all of them, you’ve
 just cancelled your vote. ![Winking
-smile](http://haacked.com/images/haacked_com/Windows-Live-Writer/Were-Renaming-NuPack_F06B/wlEmoticon-winkingsmile_2.png)
+smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/Were-Renaming-NuPack_F06B/wlEmoticon-winkingsmile_2.png)
 
 Here are the choices:
 

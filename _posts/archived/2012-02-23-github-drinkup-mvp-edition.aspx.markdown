@@ -14,7 +14,7 @@ Grill](https://github.com/blog/1059-bellevue-wa-drinkup "GitHub Drinkup Bellevue
 Not an MVP? Nonsense! You are in my book, so show up! If you are an MVP,
 you’re still welcome to slum it with the rest of us schlubs.
 
-[![taphousegrill](http://haacked.com/images/haacked_com/Windows-Live-Writer/a86933e2807a_D44C/taphousegrill_thumb.jpg "taphousegrill")](http://haacked.com/images/haacked_com/Windows-Live-Writer/a86933e2807a_D44C/taphousegrill_2.jpg)
+[![taphousegrill](http://haacked.com/images/haacked_com/WindowsLiveWriter/a86933e2807a_D44C/taphousegrill_thumb.jpg "taphousegrill")](http://haacked.com/images/haacked_com/WindowsLiveWriter/a86933e2807a_D44C/taphousegrill_2.jpg)
 
 All the details are posted over at the [**GitHub Blog
 post**](https://github.com/blog/1059-bellevue-wa-drinkup "Bellevue Drinkup").

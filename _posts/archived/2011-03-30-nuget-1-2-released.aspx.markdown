@@ -26,9 +26,9 @@ NuGet.exe, you can upgrade it by simply running the following command:
 `NuGet.exe u`
 
 ![076583
-fg1019](http://haacked.com/images/haacked_com/Windows-Live-Writer/NuGet-1.2-Released_142C7/076583%20fg1019_3.png "076583 fg1019")
+fg1019](http://haacked.com/images/haacked_com/WindowsLiveWriter/NuGet-1.2-Released_142C7/076583%20fg1019_3.png "076583 fg1019")
 
 Thanks to everyone who helped make this happen. I’ll be writing about
 our plans for 1.3 fairly soon.
-![Smile](http://haacked.com/images/haacked_com/Windows-Live-Writer/NuGet-1.2-Released_142C7/wlEmoticon-smile_2.png)
+![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/NuGet-1.2-Released_142C7/wlEmoticon-smile_2.png)
 
