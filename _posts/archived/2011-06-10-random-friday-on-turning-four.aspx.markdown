@@ -69,5 +69,5 @@ tales of old men playing Soccer.
 I’m on vacation next week so things should be quiet for me here. Unless
 past behavior is any indication in which case I’ll blog a thousand
 technical posts. Thanks for reading.
-![Smile](http://haacked.com/images/haacked_com/Windows-Live-Writer/c5dc3038ce0e_7B99/wlEmoticon-smile_2.png)
+![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/c5dc3038ce0e_7B99/wlEmoticon-smile_2.png)
 

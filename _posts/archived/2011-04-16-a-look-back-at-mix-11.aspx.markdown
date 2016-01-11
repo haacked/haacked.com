@@ -16,17 +16,17 @@ now, my team and I can take a moment to breath as we start making big
 plans for ASP.NET MVC 4. It’s interesting to me to think that the
 version number for ASP.NET MVC is quickly catching up to the version of
 ASP.NET proper.
-![Smile](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Look-Back-at-Mix-11_D597/wlEmoticon-smile_2.png)
+![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/wlEmoticon-smile_2.png)
 
 Once again, Mix has continued to be one of my favorite conferences due
 to the eclectic mix of folks who attend.
 
-[![trouble-inc](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Look-Back-at-Mix-11_D597/trouble-inc_thumb.jpg "trouble-inc")](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Look-Back-at-Mix-11_D597/trouble-inc_2.jpg)
+[![trouble-inc](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/trouble-inc_thumb.jpg "trouble-inc")](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/trouble-inc_2.jpg)
 
 The previous photo was taken from [Joey De Villa’s Blog
 post](http://www.globalnerdy.com/2011/04/13/trouble-inc/ "Trouble, Inc").
 
-[![Me-and-elvis](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Look-Back-at-Mix-11_D597/Me-and-elvis_thumb.jpg "Me-and-elvis")](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Look-Back-at-Mix-11_D597/Me-and-elvis_2.jpg)
+[![Me-and-elvis](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/Me-and-elvis_thumb.jpg "Me-and-elvis")](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/Me-and-elvis_2.jpg)
 
 It’s not just a conference where you’ll run into Scott Guthrie and
 Hanselman, but you’ll also run into [Douglas
@@ -98,7 +98,7 @@ twenty-sided polyhedron.
 During the talk, we randomly start talking about a ringtone. That was
 due to someone’s phone going off in the audience. You can’t hear it in
 the recording.
-![Smile](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Look-Back-at-Mix-11_D597/wlEmoticon-smile_2.png)
+![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/wlEmoticon-smile_2.png)
 
 Oh, I just pushed *MoodSwings* to the main feed so you can try it out.
 
@@ -113,7 +113,7 @@ after my last talk. A few of us went to ride the rollercoaster at NY NY,
 walk around the strip, and take in a show
 [JabbaWockeez](http://en.wikipedia.org/wiki/JabbaWockeeZ "JabbaWockeez").
 
-[![IMG\_1183](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Look-Back-at-Mix-11_D597/IMG_1183_thumb.jpg "IMG_1183")](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Look-Back-at-Mix-11_D597/IMG_1183.jpg)[![IMG\_1188](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Look-Back-at-Mix-11_D597/IMG_1188_thumb.jpg "IMG_1188")](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Look-Back-at-Mix-11_D597/IMG_1188.jpg)
+[![IMG\_1183](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/IMG_1183_thumb.jpg "IMG_1183")](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/IMG_1183.jpg)[![IMG\_1188](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/IMG_1188_thumb.jpg "IMG_1188")](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/IMG_1188.jpg)
 
 Tags: [aspnetmvc](http://haacked.com/tags/aspnetmvc/default.aspx),
 [nuget-gallery](http://haacked.com/tags/nuget-gallery/default.aspx),

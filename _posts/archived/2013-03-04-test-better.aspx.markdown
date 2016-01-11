@@ -44,7 +44,7 @@ focus of the meal, but I sure as hell am not going to throw away the
 bacon! *I know, half of you are hitting the reply button to suggest you
 prefer the bacon. Me too but allow me this analogy.*
 
-[![bacon-wrapped-steak](http://haacked.com/images/haacked_com/Windows-Live-Writer/Test-Better_9083/bacon-wrapped-steak_thumb.jpg "bacon-wrapped-steak")](http://www.flickr.com/photos/mesohungry/4267332997/)*MMMM,
+[![bacon-wrapped-steak](http://haacked.com/images/haacked_com/WindowsLiveWriter/Test-Better_9083/bacon-wrapped-steak_thumb.jpg "bacon-wrapped-steak")](http://www.flickr.com/photos/mesohungry/4267332997/)*MMMM,
 gimme dat! Credit: Jason Lam
 [CC-BY-SA-2.0](http://creativecommons.org/licenses/by-sa/2.0/)*
 
@@ -179,7 +179,7 @@ or get added to it.
 Here’s an example of a portion of a recent test plan for a major bug fix
 I worked on (click on it to see it larger).
 
-[![test-plan-in-pr](http://haacked.com/images/haacked_com/Windows-Live-Writer/Test-Better_9083/test-plan-in-pr_thumb.png "test-plan-in-pr")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Test-Better_9083/test-plan-in-pr_2.png)
+[![test-plan-in-pr](http://haacked.com/images/haacked_com/WindowsLiveWriter/Test-Better_9083/test-plan-in-pr_thumb.png "test-plan-in-pr")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Test-Better_9083/test-plan-in-pr_2.png)
 
 The act of writing the test plan really helps me think hard about what
 could go wrong with the code. Then running through it just requires

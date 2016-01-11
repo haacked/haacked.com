@@ -59,10 +59,10 @@ but it provides pagination, reordering and inline editing of the content
 using Ajax.
 
 ![Add \> Controller menu
-selection](http://haacked.com/images/haacked_com/Windows-Live-Writer/New-Ajax-Grid-Scaffolding-NuGet-Package-_126BB/clip_image001_3.png "Add > Controller menu selection")
+selection](http://haacked.com/images/haacked_com/WindowsLiveWriter/New-Ajax-Grid-Scaffolding-NuGet-Package-_126BB/clip_image001_3.png "Add > Controller menu selection")
 
 ![Template Selection - Ajax Grid
-Controller](http://haacked.com/images/haacked_com/Windows-Live-Writer/New-Ajax-Grid-Scaffolding-NuGet-Package-_126BB/clip_image002_3.png "Template Selection - Ajax Grid Controller")
+Controller](http://haacked.com/images/haacked_com/WindowsLiveWriter/New-Ajax-Grid-Scaffolding-NuGet-Package-_126BB/clip_image002_3.png "Template Selection - Ajax Grid Controller")
 
 Currently, the Ajax Grid Scaffolder only generates C\# code, but both
 Razor and ASPX views are supported. We’ll add VB.NET support later. If
@@ -81,7 +81,7 @@ These \*Data actions aren’t very *verby* (*editor’s note: “verby?”
 Seriously?*) and improved naming suggestions are welcome.
 
 ![Solution explorer view of the project
-structure](http://haacked.com/images/haacked_com/Windows-Live-Writer/New-Ajax-Grid-Scaffolding-NuGet-Package-_126BB/clip_image003_3.png "Solution explorer view of the project structure")
+structure](http://haacked.com/images/haacked_com/WindowsLiveWriter/New-Ajax-Grid-Scaffolding-NuGet-Package-_126BB/clip_image003_3.png "Solution explorer view of the project structure")
 
 The scaffolder also provides three views: `Index`, `GridData`, and
 `Edit`. The `Index` view includes JavaScript and small amount of CSS
@@ -91,7 +91,7 @@ JavaScript and CSS will be included in the `<head>` element of the
 document. However, we are looking at possible fixes for the MVC 4
 release.
 
-[![clip\_image005](http://haacked.com/images/haacked_com/Windows-Live-Writer/New-Ajax-Grid-Scaffolding-NuGet-Package-_126BB/clip_image005_thumb.jpg "clip_image005")](http://haacked.com/images/haacked_com/Windows-Live-Writer/New-Ajax-Grid-Scaffolding-NuGet-Package-_126BB/clip_image005_2.jpg)
+[![clip\_image005](http://haacked.com/images/haacked_com/WindowsLiveWriter/New-Ajax-Grid-Scaffolding-NuGet-Package-_126BB/clip_image005_thumb.jpg "clip_image005")](http://haacked.com/images/haacked_com/WindowsLiveWriter/New-Ajax-Grid-Scaffolding-NuGet-Package-_126BB/clip_image005_2.jpg)
 
 The `GridData` and `Edit` views are partial views that are rendered when
 retrieving non-editable and editable rows respectively via

@@ -189,7 +189,7 @@ If you get the source code, check out the following projects:
 The demo website’s homepage uses these methods to show a list of bad
 controllers.
 
-[![bad-controllers](http://haacked.com/images/haacked_com/Windows-Live-Writer/b185f9b53b5b_11FC8/bad-controllers_thumb.png "bad-controllers")](http://haacked.com/images/haacked_com/Windows-Live-Writer/b185f9b53b5b_11FC8/bad-controllers_2.png)
+[![bad-controllers](http://haacked.com/images/haacked_com/WindowsLiveWriter/b185f9b53b5b_11FC8/bad-controllers_thumb.png "bad-controllers")](http://haacked.com/images/haacked_com/WindowsLiveWriter/b185f9b53b5b_11FC8/bad-controllers_2.png)
 
 The code I wrote is based on looking at how ASP.NET MVC locates and
 determines controllers. It turns out, because of the performance

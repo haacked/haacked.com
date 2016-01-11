@@ -9,7 +9,7 @@ categories: [code,asp.net]
 It was a dark and stormy coding session; the rain fell in torrents as my
 eyes were locked to two LCD screens in a furious display of coding …
 
-[![stormy](http://haacked.com/images/haacked_com/Windows-Live-Writer/775597446ef4_D206/stormy_3.jpg "stormy")](http://www.sxc.hu/photo/1302654 "Photo by Roger Kirby")
+[![stormy](http://haacked.com/images/haacked_com/WindowsLiveWriter/775597446ef4_D206/stormy_3.jpg "stormy")](http://www.sxc.hu/photo/1302654 "Photo by Roger Kirby")
 
 …sorry sorry, I just can’t continue. It’s all a lie.
 
@@ -30,7 +30,7 @@ scroll to the very bottom of the admin section, you’ll see the
 following.
 
 ![Subtext Admin - Feedback - Google
-Chrome](http://haacked.com/images/haacked_com/Windows-Live-Writer/775597446ef4_D206/Subtext%20Admin%20-%20Feedback%20-%20Google%20Chrome_753585da-76b5-4af2-9b42-e74c0bae6c28.png "Subtext Admin - Feedback - Google Chrome")
+Chrome](http://haacked.com/images/haacked_com/WindowsLiveWriter/775597446ef4_D206/Subtext%20Admin%20-%20Feedback%20-%20Google%20Chrome_753585da-76b5-4af2-9b42-e74c0bae6c28.png "Subtext Admin - Feedback - Google Chrome")
 
 As you can imagine, the code for to get the version number is very
 straightforward:
@@ -109,7 +109,7 @@ When I run this application and visit */Home/ClassLibAssemblyVersion*
 everything works fine and we see the version number.
 
 ![httplocalhost29519homeClassLibAssemblyVersionFixed - Windows Internet
-Explorer](http://haacked.com/images/haacked_com/Windows-Live-Writer/775597446ef4_D206/httplocalhost29519homeClassLibAssemblyVersionFixed%20-%20Windows%20Internet%20Explorer_19fefe6c-3d6b-4329-89e8-1a4b7cb8ad6f.png "httplocalhost29519homeClassLibAssemblyVersionFixed - Windows Internet Explorer")
+Explorer](http://haacked.com/images/haacked_com/WindowsLiveWriter/775597446ef4_D206/httplocalhost29519homeClassLibAssemblyVersionFixed%20-%20Windows%20Internet%20Explorer_19fefe6c-3d6b-4329-89e8-1a4b7cb8ad6f.png "httplocalhost29519homeClassLibAssemblyVersionFixed - Windows Internet Explorer")
 
 Now’s where the party gets a bit wild (but still safe for work). At this
 point, I’ll put the class library assembly in the GAC and then recompile
@@ -120,7 +120,7 @@ reference and replace it with a GAC reference.
 
 When I do that and run the application again, I get.
 
-![security-exception](http://haacked.com/images/haacked_com/Windows-Live-Writer/775597446ef4_D206/security-exception_7d87cfe5-1568-43e4-b627-0fbbdb9a8c28.png "security-exception")
+![security-exception](http://haacked.com/images/haacked_com/WindowsLiveWriter/775597446ef4_D206/security-exception_7d87cfe5-1568-43e4-b627-0fbbdb9a8c28.png "security-exception")
 
 Oh noes!
 
@@ -205,5 +205,5 @@ assembly level `SecurityTransparentAttribute` in my class library. Is
 that a case of my assembly attempting to deal with self esteem issues
 and shying away from a clamoring public? Why did I put that attribute
 there? The answer to that, my friends, is a story for another time.
-![Smile](http://haacked.com/images/haacked_com/Windows-Live-Writer/775597446ef4_D206/wlEmoticon-smile_2.png)
+![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/775597446ef4_D206/wlEmoticon-smile_2.png)
 

@@ -64,7 +64,7 @@ binding), it’s in the form of a dictionary like interface via the
 The following screenshot shows what such a request looks like using
 Fiddler.
 
-![form-encoded-post](http://haacked.com/images/haacked_com/Windows-Live-Writer/Why-Isnt-The-JsonValueProviderFactory_EADC/form-encoded-post_3.png "form-encoded-post")
+![form-encoded-post](http://haacked.com/images/haacked_com/WindowsLiveWriter/Why-Isnt-The-JsonValueProviderFactory_EADC/form-encoded-post_3.png "form-encoded-post")
 
 When content is posted in this format, the `DefaultModelBinder` calls
 into the `FormValueProvider` asking for a value for each property of the
@@ -98,7 +98,7 @@ jQuery and a browser that natively supports the `JSON.stringify` method.
 
 When this code executes, the following request is created.
 
-![json-encoded-post](http://haacked.com/images/haacked_com/Windows-Live-Writer/Why-Isnt-The-JsonValueProviderFactory_EADC/json-encoded-post_3.png "json-encoded-post")
+![json-encoded-post](http://haacked.com/images/haacked_com/WindowsLiveWriter/Why-Isnt-The-JsonValueProviderFactory_EADC/json-encoded-post_3.png "json-encoded-post")
 
 Notice that the content is encoded as JSON rather than form url encoded.
 
@@ -111,7 +111,7 @@ through a common scenario. Suppose someone submits the form and they
 enter a string instead of a number for the field `IssueNumber`. You’d
 probably expect to see the following.
 
-[![form-validation-error](http://haacked.com/images/haacked_com/Windows-Live-Writer/Why-Isnt-The-JsonValueProviderFactory_EADC/form-validation-error_thumb.png "form-validation-error")](http://haacked.com/images/haacked_com/Windows-Live-Writer/Why-Isnt-The-JsonValueProviderFactory_EADC/form-validation-error_2.png)
+[![form-validation-error](http://haacked.com/images/haacked_com/WindowsLiveWriter/Why-Isnt-The-JsonValueProviderFactory_EADC/form-validation-error_thumb.png "form-validation-error")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Why-Isnt-The-JsonValueProviderFactory_EADC/form-validation-error_2.png)
 
 Notice that the model binding was able to determine that the Title was
 submitted correctly, but that the `IssueNumber` was not.

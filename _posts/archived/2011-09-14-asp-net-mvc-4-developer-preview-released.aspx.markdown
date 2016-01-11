@@ -59,7 +59,7 @@ feedback. I also want to recognize the heroic efforts of the ASP.NET MVC
 team (and NuGet and ASP.NET Web Pages) to get this release ready in time
 with all the features that it contains. I’m privileged to work with such
 great folks.
-![Smile](http://haacked.com/images/haacked_com/Windows-Live-Writer/ASP.NET-MVC-4-Developer_823E/wlEmoticon-smile_2.png)
+![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NET-MVC-4-Developer_823E/wlEmoticon-smile_2.png)
 
 Tags: [aspnetmvc](http://haacked.com/tags/aspnetmvc/default.aspx),
 [asp.net](http://haacked.com/tags/asp.net/default.aspx),

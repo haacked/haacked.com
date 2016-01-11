@@ -24,11 +24,11 @@ I’ll show you the results first, and then talk about how I made it.
 After installing my project template, every time you create a new
 ASP.NET MVC 3 project, you’ll see a new entry named “Really Empty”
 
-[![mvc3-empty-proj-template](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Really-Empt.NET-MVC-3-Project-Template_E2FF/mvc3-empty-proj-template_thumb_4.png "mvc3-empty-proj-template")](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Really-Empt.NET-MVC-3-Project-Template_E2FF/mvc3-empty-proj-template_10.png)
+[![mvc3-empty-proj-template](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Really-Empt.NET-MVC-3-Project-Template_E2FF/mvc3-empty-proj-template_thumb_4.png "mvc3-empty-proj-template")](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Really-Empt.NET-MVC-3-Project-Template_E2FF/mvc3-empty-proj-template_10.png)
 
 Select that and you end up with the following directory structure.
 
-![mvc3-proj-template-expanded](http://haacked.com/images/haacked_com/Windows-Live-Writer/A-Really-Empt.NET-MVC-3-Project-Template_E2FF/mvc3-proj-template-expanded_3.png "mvc3-proj-template-expanded")
+![mvc3-proj-template-expanded](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Really-Empt.NET-MVC-3-Project-Template_E2FF/mvc3-proj-template-expanded_3.png "mvc3-proj-template-expanded")
 
 I removed just about everything. I kept the *Views* directory because
 the *Web.config* file that’s required is not obvious and there’s special

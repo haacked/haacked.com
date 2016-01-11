@@ -32,7 +32,7 @@ Thanks for your participation and support! I’m glad to have this behind
 us so we can continue to focus on delivering a great product. I’ve even
 thought of a tagline we can use until one of you come up with a much
 better one. ![Winking
-smile](http://haacked.com/images/haacked_com/Windows-Live-Writer/Introducing-NuGet_125B4/wlEmoticon-winkingsmile_2.png)
+smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing-NuGet_125B4/wlEmoticon-winkingsmile_2.png)
 
 *NuGet: A new way to get libraries.*
 
