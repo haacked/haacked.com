@@ -36,7 +36,7 @@ there but when I type “MVC” and hit GO, nothing happens. I also try my
 last name. No go.
 
 ![Sessions - Windows Internet
-Explorer](http://haacked.com/images/haacked_com/WindowsLiveWriter/SimpleUsability_B713/Sessions%20-%20Windows%20Internet%20Explorer_3.png "Sessions - Windows Internet Explorer")
+Explorer](http://haacked.com/images/haacked_com/WindowsLiveWriter/SimpleUsability_B713/Sessions.png "Sessions - Windows Internet Explorer")
 Near the bottom, I click on SPEAKERS and find my name. I then try
 clicking on one of my sessions which is highlighted as a link, and
 nothing happens (it’s since been fixed). When I highlight the session, a
@@ -44,7 +44,7 @@ pop-up which appears to have links shows up, but I can’t seem to move my
 mouse over it because it disappears before my mouse gets there.
 
 ![Speakers - Windows Internet
-Explorer](http://haacked.com/images/haacked_com/WindowsLiveWriter/SimpleUsability_B713/Speakers%20-%20Windows%20Internet%20Explorer_3.png "Speakers - Windows Internet Explorer")
+Explorer](http://haacked.com/images/haacked_com/WindowsLiveWriter/SimpleUsability_B713/Speakers.png "Speakers - Windows Internet Explorer")
 
 After a moment of pondering, it occurs to me that maybe the video of my
 talk was not yet available at the time (it is now as I write this). It
@@ -58,7 +58,7 @@ by Greg Duncan.
 
 ![Mix 09 Quick Video Link List - Gregs Cool [Insert Clever Name] of the
 Day - Windows Internet
-Explorer](http://haacked.com/images/haacked_com/WindowsLiveWriter/SimpleUsability_B713/Mix%2009%20Quick%20Video%20Link%20List%20-%20Gregs%20Cool%20%5BInsert%20Clever%20Name%5D%20of%20the%20Day%20-%20Windows%20Internet%20Explorer_3.png "Mix 09 Quick Video Link List - Gregs Cool [Insert Clever Name] of the Day - Windows Internet Explorer")
+Explorer](http://haacked.com/images/haacked_com/WindowsLiveWriter/SimpleUsability_B713/Gregs.png "Mix 09 Quick Video Link List - Gregs Cool [Insert Clever Name] of the Day - Windows Internet Explorer")
 
 Notice that it’s the height of simplicity. It’s a list of all sessions
 (after all, the list of sessions wasn’t all *that* long) with headings
@@ -88,4 +88,3 @@ search. Bam! Done! I can move on now.
 Keep that in mind next time as you put together your next great user
 interface. How can you make it simpler and leverage the tools already in
 the client?
-
