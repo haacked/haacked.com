@@ -12,6 +12,8 @@ Today I pushed a change to semver.org that implements this. Go [try it out](http
 
 In this post, I discuss some of the interesting non-obvious challenges in the implementation, some limitations of the implementation, and my hope for the future.
 
+<img title="Linked by Ian Sane - CC By 2.0" src="https://cloud.githubusercontent.com/assets/19977/12462595/04521dda-bf74-11e5-95ca-ec7ec0b5e6e4.jpg" width="260" align="right" />
+
 ### Implementation
 
 The Semver specification is hosted in a [different GitHub repository](https://github.com/mojombo/semver) than [the website](https://github.com/mojombo/semver.org).
