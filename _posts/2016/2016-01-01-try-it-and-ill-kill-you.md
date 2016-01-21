@@ -12,7 +12,7 @@ For the most part, my kids are wonderful. Like most kids, they have their infuri
 
 My family and I are in Portland for a brief trip. As I drove around an unfamiliar location, my daughter asked the typical question kids ask as a form of advanced psychological torture, "Are we there yet?"
 
-This wasn't so bad. My wife calmly explained to my daughter not to ask that again because she'd already done so several hundred of times. She then asked my daughter what the consequence should be if she asks again and they started negotiating about the consequence of that action.
+This wasn't so bad. My wife calmly explained to my daughter not to ask that again because she'd already done so several hundred times. She then asked my daughter what the consequence should be if she asks again and they started negotiating about the consequence of that action.
 
 Not long after, my daughter repeatedly poked my ear with a stick made of straws as I drove. We have a strict and, in my humble opinion, eminently reasonable rule not to distract the driver. My wife calmly told my daughter that the consequence of that action next time would be to break the stick.
 
