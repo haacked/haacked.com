@@ -20,6 +20,19 @@ The plan is to start with [this repository](https://github.com/haacked/scientist
 
 I tried to stay true to the Ruby implementation with one small difference. Instead of registering a custom experimentation type, you can register a custom measurement publisher. We don't have the ability to override the `new` operator like those Rubyists and I liked keeping publishing separate. But I'm not stuck to this idea.
 
+Here's a sample usage:
+
+```csharp
+public bool MayPush(IUser user)
+{
+  return Scientist.Science<int>("may-push", experiment =>
+  {
+      experiment.Use(() => IsCollaborator(user));
+      experiment.Try(() => HasAccess(user));
+  });
+}
+```
+
 As expected, you can install it via NuGet `Install-Package Scientist -Pre`
 
 Enjoy!
