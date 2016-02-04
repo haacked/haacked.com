@@ -14,6 +14,12 @@ It's an enjoyable read with a really great analogy comparing this approach to bu
 
 Naturally, a lot of people asked if we were working on a C# version. In truth, I had been toying with it for a while. I had hoped to have something ready to ship on the day that Scientist 1.0 shipped, but life has a way of catching up to you and tossing your plans in the gutter. The release of Scientist 1.0 lit that proverbial fire under my ass to get something out that people can play with and help improve.
 
-Consider this a working sketch of the API. The plan is to start with [this repository](https://github.com/haacked/scientist.net) and once we have a rock solid battle tested implementation, we can move it to the [GitHub Organization](https://github.com/github/) on GitHub.com. If you'd like to participate, jump right in. There's plenty to do!
+Consider this a working sketch of the API. It's very rough, but it works! I don't have a CI server set up yet etc. etc. I'll get around to it.
+
+The plan is to start with [this repository](https://github.com/haacked/scientist.net) and once we have a rock solid battle tested implementation, we can move it to the [GitHub Organization](https://github.com/github/) on GitHub.com. If you'd like to participate, jump right in. There's plenty to do!
 
 I tried to stay true to the Ruby implementation with one small difference. Instead of registering a custom experimentation type, you can register a custom measurement publisher. We don't have the ability to override the `new` operator like those Rubyists and I liked keeping publishing separate. But I'm not stuck to this idea.
+
+As expected, you can install it via NuGet `Install-Package Scientist -Pre`
+
+Enjoy!
