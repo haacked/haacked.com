@@ -25,7 +25,7 @@ Here's a sample usage:
 ```csharp
 public bool MayPush(IUser user)
 {
-  return Scientist.Science<int>("may-push", experiment =>
+  return Scientist.Science<bool>("may-push", experiment =>
   {
       experiment.Use(() => IsCollaborator(user));
       experiment.Try(() => HasAccess(user));
