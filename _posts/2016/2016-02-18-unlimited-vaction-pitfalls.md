@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pitfalls of Unlimited Vacations"
-date: 2016-01-16 -0800
+date: 2016-02-18 -0800
 comments: true
 categories: [hr vacation]
 ---
@@ -13,15 +13,15 @@ categories: [hr vacation]
 
 ![Beatnik Beach CC BY-SA 2.0 Photo by Ocad123](https://c1.staticflickr.com/1/531/18817727920_1c0a67d3a3_b.jpg)
 
-When I joined GitHub [four years ago](https://github.com/blog/1002-phil-haack-is-a-githubber), I adored its unlimited paid time off benefit. It's not that I planned to take a six month trek across Nepal (or the more plausible scenario of playing X-Box in my pajamas for months), but I liked the message it sent.
+When I joined GitHub [four years ago](https://github.com/blog/1002-phil-haack-is-a-githubber), I adored its unlimited paid time off benefit. It's not that I planned to take a six month trek across Nepal (or the more plausible scenario of playing X-Box in my pajamas for six months), but I liked the message it sent.
 
 It told me this company valued its employees, wanted them to not burn out, and trusted them to behave like stakeholders in the company and be responsible about their vacation.
 
-And for me personally, it's worked out well. This, in tandem with our flexible work hours, helps me arrange my work schedule so that I can be a better spouse and parent. I walk my son to to the bus stop in the mornings. I chaperone every field trip I can. I take the day off when my kids have no school.
+And for me personally, it's worked out well. This, in tandem with our flexible work hours, helps me arrange my work schedule so that I can be a better spouse and parent. I walk my son to the bus stop in the mornings. I chaperone every field trip I can. I take the day off when my kids have no school. It's great!
 
 I also believe it's a tool to help recruit great people.
 
-For example, in their famous [Culture Deck](http://www.slideshare.net/reed2001/culture-1798664), Netfilx notes [that...](http://www.slideshare.net/reed2001/culture-1798664/41-Responsible_PeopleThrive_on_Freedomand_are)
+For example, in their famous [Culture Deck](http://www.slideshare.net/reed2001/culture-1798664), Netflix notes [that...](http://www.slideshare.net/reed2001/culture-1798664/41-Responsible_PeopleThrive_on_Freedomand_are)
 
 > Responsible People Thrive on Freedom and are Worthy of Freedom
 
@@ -37,13 +37,13 @@ This is why Netflix also has a policy that there is no vacation policy. They do 
 
 ### Pitfalls
 
-As you might expect, there are some subtle pitfalls to such a policy or lack thereof. I believe such policies that rely on the good judgment of individuals are well intentioned, but often ignore the very real sociological factors that surround such policies.
+As you might expect, there are some subtle pitfalls to such a policy or lack thereof. I believe such policies that rely on the good judgment of individuals are well intentioned, but often ignore the very real psychological and sociological factors that come into play with such policies.
 
-Only the pathologically naive employee would believe they can really go on a world tour for eight months and expect no repercussions when they return to work.
+Only the pathologically naïve employee would believe they can really go on a world tour for twelve months and expect no repercussions when they return to work.
 
 Clearly, in the absence of an explicit policy, there's an implicit policy. But it's an implicit policy that in practice becomes a big [game of Calvinball](http://calvinandhobbes.wikia.com/wiki/Calvinball) where nobody really knows the rules. But rather than making the rules as we go along, the rules are driven by subtle social cues from managers and co-workers. And the rules might even be different from team to team even in a small company because of different unsaid expectations.
 
-At GitHub, this confusion comes into sharp relief when you look at our generous parental policy. GitHub provides four months of paid time off for either parent when a new child enters the family through birth or adoption. I absolutely adore this policy, but it raises the question, why is it necessary when we already have unlimited paid time?
+At GitHub, this confusion comes into sharp relief when you look at our generous parental policy. GitHub provides four months of paid time off for either parent when a new child enters the family through birth or adoption. I love how family friendly this policy is, but it raises the question, why is it necessary when we already have unlimited paid time?
 
 Well, one benefit of this policy, even if it seems redundant, is that it sets the right expectations of what is deemed reasonable and acceptable.
 
@@ -59,7 +59,7 @@ Travis CI took the unusual step of instituting a minimum vacation policy. It set
 
 In talking about this with a my friend Drew Miller, he had an astute observation.
 
-He noted that while such a policy is a good start, it doesn't necessarily address the root problem. If people aren't taking vacation in a company with no vacation policy, one should take a deep look at the culture at the company that made it so that people felt like they couldn't take time off.
+He noted that while such a policy is a good start, it doesn't address the root cause. If a company with no vacation policy finds that people aren't taking vacation, it should probably look at its culture. Specifically, what about its culture causes people to feel like they can't take time off.
 
 For example, and the Travis-CI post notes this, leaders at a company have to model good behavior. If the founders, executives, managers, take very little vacation, they unconsciously communicate to others that taking vacation is not valued or important at this company.
 
