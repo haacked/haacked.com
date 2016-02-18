@@ -6,13 +6,12 @@ comments: true
 categories: [hr vacation]
 ---
 
-> Vacation, All I ever wanted
-
-> Vacation, Had to get away
-
-> Vacation, Meant to be spent alone
-
-> _Lyrics by The Go Go's_
+```
+Vacation, All I ever wanted
+Vacation, Had to get away
+Vacation, Meant to be spent alone
+```
+_Lyrics by The Go Go's_
 
 ![Beatnik Beach CC BY-SA 2.0 Photo by Ocad123](https://c1.staticflickr.com/1/531/18817727920_1c0a67d3a3_b.jpg)
 
