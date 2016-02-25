@@ -56,7 +56,7 @@ A *dot-atom* is a dot delimited series of atoms. An *atom* is defined in
 a series of alphanumeric characters and may include the following
 characters (*all the ones you need to swear in a comic strip*)...
 
-> ! \$ & \* - = \^ \` | \~ \# % ' + / ? \_ { }
+> ! \$ & \* - = \^ \` \| \~ \# % ' + / ? \_ { }
 
 Not only that, but it’s also valid (though not recommended and very
 uncommon) to have quoted local parts which allow pretty much any
