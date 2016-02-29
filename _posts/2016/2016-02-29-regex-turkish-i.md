@@ -17,7 +17,11 @@ As XKCD noted, regular expressions used in the right context can save the day!
 ![XKCD - CC BY-NC 2.5 by Randall Munroe](http://imgs.xkcd.com/comics/regular_expressions.png)
 
 If Jeffrey Friedl's name sounds familiar to you, it's probably because he's the author of the definitive book on regular expressions, [Mastering Regular Expressions](http://www.amazon.com/gp/product/0596528124?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596528124).
-After reading this book, I was no longer afraid to use regular expressions. I've mentioned the book in the past, ironically in a post that uses regular expressions in a manner that perhaps highlights Jamie's point, [parsing HTML](http://haacked.com/archive/2004/10/25/usingregularexpressionstomatchhtml.aspx/). In general, I wouldn't use regular expressions for parsing HTML, especially in a security context. However, if you're just trying to extract some rough data from a corpus of HTML, it can be useful.
+After reading this book, I felt like the hero in the XKCD comic, ready to save the day with regular expressions.
+
+I've mentioned the book in the past, ironically in a post that uses regular expressions in a manner that perhaps bolsters Jamie's point, [parsing HTML](http://haacked.com/archive/2004/10/25/usingregularexpressionstomatchhtml.aspx/). In general, I wouldn't use regular expressions for parsing HTML, especially in a security context. However, if you're just trying to extract some rough data from a corpus of HTML, it can be useful.
+
+## The Setup
 
 This particular post is about a situation where Jamie's regular expressions prophecy came true. In using regular expressions, I discovered a subtle unexpected behavior that could have lead to a security vulnerability.
 
@@ -53,7 +57,11 @@ Ok, that's easy enough to fix. We can simply supply an option to make the regula
 Regex.IsMatch("ShiftKey", "^[a-z0-9]+$", RegexOptions.IgnoreCase); // true
 ```
 
-Ahhh, now harmony is restored and everything is back in order. Or is it? Suppose our resident `shiftkey` imposter returns again.
+Ahhh, now harmony is restored and everything is back in order. Or is it?
+
+## The Subtle Unexpected Behavior Strikes
+
+Suppose our resident `shiftkey` imposter returns again.
 
 ```csharp
 Regex.IsMatch("ShİftKey", "^[a-z0-9]+$", RegexOptions.IgnoreCase); // true, DOH!
@@ -92,6 +100,8 @@ As I expected, these did not match `ShİftKey` but did match `ShIftKey` as inten
 
 It seems like .NET is the only one that behaves in this unexpected manner. Though to be fair, I didn't conduct an exhaustive experiment of popular languages.
 
+## The Fix
+
 Fortunately, in the .NET case, there's two simple ways to fix this.
 
 ```csharp
@@ -102,6 +112,8 @@ Regex.IsMatch("ShİftKey", "^[a-z0-9]+$", RegexOptions.IgnoreCase | RegexOptions
 In the first case, we just explicitly specify capital A through Z and remove the `IgnoreCase` option. In the second case, we use the `CultureInvariant` regular expression option.
 
 While writing this post, I used several helpful online utilities to help me test the regular expressions in multiple languages.
+
+## Useful online tools
 
 * https://repl.it/languages provides a REPL for multiple languages such as Ruby, JavaScript, C#, Python, Go, and LOLCODE among many others.
 * http://www.tutorialspoint.com/execute_perl_online.php is a Perl REPL since that last site did not include Perl.
