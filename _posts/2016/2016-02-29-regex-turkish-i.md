@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "A Subtle Case Sensitivity Issue with Regular Expressions"
+title: "A Subtle Case Sensitivity Gotcha with Regular Expressions"
 date: 2016-02-29 -0800
 comments: true
 categories: [regex]
 ---
 
-> Some people, when confronted with a problem, think  “I know, I'll use regular expressions.” Now they have two problems. - Jamie Zawinski
+> Some people, when confronted with a problem, think “I know, I'll use regular expressions.” Now they have two problems. - Jamie Zawinski
 
-Good thing I love solving problems!
+For other people, when confronted with writing a blog post about regular expressions, think "I know, I'll quote that Jamie Zawinski quote!"
 
-In fairness, this quote is often taken out of context. Back in 2006, Jeffrey Friedl tracked down the original context of this statement [in a fine piece of "pointless" detective work](http://regex.info/blog/2006-09-15/247). The original point, as you might guess, is a warning against trying to shoehorn Regular Expressions to solve problems they're not appropriate for.
+It's the go to quote about regular expressions, but it's probably no surprise that it's often taken out of context. Back in 2006, Jeffrey Friedl tracked down the original context of this statement [in a fine piece of "pointless" detective work](http://regex.info/blog/2006-09-15/247). The original point, as you might guess, is a warning against trying to shoehorn Regular Expressions to solve problems they're not appropriate for.
 
 As XKCD noted, regular expressions used in the right context can save the day!
 
@@ -18,8 +18,6 @@ As XKCD noted, regular expressions used in the right context can save the day!
 
 If Jeffrey Friedl's name sounds familiar to you, it's probably because he's the author of the definitive book on regular expressions, [Mastering Regular Expressions](http://www.amazon.com/gp/product/0596528124?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596528124).
 After reading this book, I felt like the hero in the XKCD comic, ready to save the day with regular expressions.
-
-I've mentioned the book in the past, ironically in a post that uses regular expressions in a manner that perhaps bolsters Jamie's point, [parsing HTML](http://haacked.com/archive/2004/10/25/usingregularexpressionstomatchhtml.aspx/). In general, I wouldn't use regular expressions for parsing HTML, especially in a security context. However, if you're just trying to extract some rough data from a corpus of HTML, it can be useful.
 
 ## The Setup
 
@@ -71,7 +69,7 @@ Foiled! Well that was entirely unexpected! What is going on here? It's the Turki
 
 > The tl;dr summary is that the uppercase for i in English is I (note the lack of a dot) but in Turkish it’s dotted, İ. So while we have two i’s (upper and lower), they have four.
 
-It seems to me that this is a bug as it's completely unexpected behavior and could lead to subtle security vulnerabilities. I tried this with a few other languages to see what would happen.
+This feels like a bug to me, but I'm not entirely sure. It's definitely a surprising and unexpected behavior that could lead to subtle security vulnerabilities. I tried this with a few other languages to see what would happen. Maybe this is totally normal behavior.
 
 Here's the regular expression literal I'm using for each of these test cases: `/^[a-z0-9]+$/i` The key thing to note is that the `/i` at the end is a regular expression option that specifies a case insensitive match.
 
@@ -96,7 +94,7 @@ else {
 }
 ```
 
-As I expected, these did not match `ShİftKey` but did match `ShIftKey` as intended. I also tried these tests with my machine set to the Turkish culture just in case something else weird is going on.
+As I expected, these did not match `ShİftKey` but did match `ShIftKey`, contrary to the C# behavior. I also tried these tests with my machine set to the Turkish culture just in case something else weird is going on.
 
 It seems like .NET is the only one that behaves in this unexpected manner. Though to be fair, I didn't conduct an exhaustive experiment of popular languages.
 
@@ -110,6 +108,16 @@ Regex.IsMatch("ShİftKey", "^[a-z0-9]+$", RegexOptions.IgnoreCase | RegexOptions
 ```
 
 In the first case, we just explicitly specify capital A through Z and remove the `IgnoreCase` option. In the second case, we use the `CultureInvariant` regular expression option.
+
+Per [the documentation](https://msdn.microsoft.com/en-us/library/yd1hzczs\(v=vs.110\).aspx#Invariant),
+
+> By default, when the regular expression engine performs case-insensitive comparisons, it uses the casing conventions of the current culture to determine equivalent uppercase and lowercase characters.
+
+The documentation even notes the Turkish I problem.
+
+> However, this behavior is undesirable for some types of comparisons, particularly when comparing user input to the names of system resources, such as passwords, files, or URLs. The following example illustrates such as scenario. The code is intended to block access to any resource whose URL is prefaced with FILE://. The regular expression attempts a case-insensitive match with the string by using the regular expression $FILE://. However, when the current system culture is tr-TR (Turkish-Turkey), "I" is not the uppercase equivalent of "i". As a result, the call to the Regex.IsMatch method returns false, and access to the file is allowed.
+
+It may be that the other regular expression engines are culturally invariant by default when ignoring case. That seems like the correct default to me.
 
 While writing this post, I used several helpful online utilities to help me test the regular expressions in multiple languages.
 
