@@ -49,7 +49,7 @@ But no, we have another problem! Usernames on GitHub are case insensitive!
 Regex.IsMatch("ShiftKey", "^[a-z0-9]+$"); // false, but this should be valid
 ```
 
-Ok, that's easy enough to fix. We can simply supply an option to make the regular expression case sensitive.
+Ok, that's easy enough to fix. We can simply supply an option to make the regular expression case insensitive.
 
 ```csharp
 Regex.IsMatch("ShiftKey", "^[a-z0-9]+$", RegexOptions.IgnoreCase); // true
