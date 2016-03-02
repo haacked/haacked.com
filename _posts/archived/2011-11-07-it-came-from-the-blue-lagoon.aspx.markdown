@@ -6,12 +6,9 @@ comments: true
 disqus_identifier: 18824
 categories: [personal]
 ---
-As I mentioned in [my last
-post](http://haacked.com/archive/2011/10/31/beer-in-iceland.aspx "Beer in Iceland"),
-I have an overnight stopover in Reykjavik Iceland. After checking into
-my hotel at an ungodly early hour (which ended up being really late for
-me Seattle time), my first order of business was to head over to [the
-Blue Lagoon](http://www.bluelagoon.com/ "The Blue Lagoon").
+
+As I mentioned in [my last post](http://haacked.com/archive/2011/10/31/beer-in-iceland.aspx "Beer in Iceland"),
+I have an overnight stopover in Reykjavik Iceland. After checking into my hotel at an ungodly early hour (which ended up being really late for me Seattle time), my first order of business was to head over to [the Blue Lagoon](http://www.bluelagoon.com/ "The Blue Lagoon").
 
 [![blue-lagoon-movie](http://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon-movie_thumb.jpg "blue-lagoon-movie")](http://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon-movie_2.jpg)
 
@@ -19,10 +16,7 @@ No, **not that Blue Lagoon**! This one!
 
 [![blue-lagoon](http://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon_thumb.jpg "blue-lagoon")](http://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon_2.jpg) 
 
-Look at that steam coming off the water! The Blue Lagoon is a geothermal
-spa with a 5000 square meter lagoon. The water comes from a nearby
-geothermal plant and is renewed every two days. According [to
-Wikipedia](http://en.wikipedia.org/wiki/Blue_Lagoon_(geothermal_spa) "Wikipedia on the spa"),
+Look at that steam coming off the water! The Blue Lagoon is a geothermal spa with a 5000 square meter lagoon. The water comes from a nearby geothermal plant and is renewed every two days. According [to Wikipedia](http://en.wikipedia.org/wiki/Blue_Lagoon_(geothermal_spa) "Wikipedia on the spa"),
 
 > Superheated water is vented from the ground near a lava flow and used
 > to run turbines that generate electricity. After going through the
@@ -31,14 +25,9 @@ Wikipedia](http://en.wikipedia.org/wiki/Blue_Lagoon_(geothermal_spa) "Wikipedia 
 > is fed into the lagoon for recreational and medicinal users to bathe
 > in.
 
-Yes, the thought of being cooked in superheated water did cross my mind
-since my manager reminded me of a scene from some crappy movie where
-that happened. Fortunately, that did not happen.
+Yes, the thought of being cooked in superheated water did cross my mind since my manager reminded me of a scene from some crappy movie where that happened. Fortunately, that did not happen.
 
-This method of heating the lagoon is just one example of how Iceland
-gets a lot of its power from the heat within the Earth. [From another
-Wikipedia
-article](http://en.wikipedia.org/wiki/Geothermal_power_in_Iceland "Geothermal power in Iceland"),
+This method of heating the lagoon is just one example of how Iceland gets a lot of its power from the heat within the Earth. [From another Wikipedia article](http://en.wikipedia.org/wiki/Geothermal_power_in_Iceland "Geothermal power in Iceland"),
 emphasis mine,
 
 > Five major [geothermal](http://en.wikipedia.org/wiki/Geothermal_power)
@@ -51,34 +40,20 @@ emphasis mine,
 > power](http://en.wikipedia.org/wiki/Hydroelectricity), and 0.1% from
 > [fossil fuels](http://en.wikipedia.org/wiki/Fossil_fuel).
 
-It’s pretty impressive. They plan to go 100% fossil-fuel-free in the
-near future. Of course, the one downside is that the water here smells
-slightly of sulfur. I actually don’t mind it.
+It’s pretty impressive. They plan to go 100% fossil-fuel-free in the near future. Of course, the one downside is that the water here smells slightly of sulfur. I actually don’t mind it.
 
-The spa provides buckets of white silica gel you can put on your face to
-exfoliate your skin. I found that the sleet being whipped around 35 mile
-per hours did a fine job of exfoliating my skin. It nearly exfoliated it
-off of my face.
+The spa provides buckets of white silica gel you can put on your face to exfoliate your skin. I found that the sleet being whipped around 35 miles per hours did a fine job of exfoliating my skin. It nearly exfoliated it off of my face.
 
-Though I have to admit, that was part of the fun. It was novel to be
-swimming outdoors in November with sleet and wind pouring down, but nice
-and warm within the heated waters.
+Though I have to admit, that was part of the fun. It was novel to be swimming outdoors in November with sleet and wind pouring down, but nice and warm within the heated waters.
 
 I even had time to stop at a water side bar for a drink.
 
 [![bar-at-the-blue-lagoon](http://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/bar-at-the-blue-lagoon_thumb.jpg "bar-at-the-blue-lagoon")](http://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/bar-at-the-blue-lagoon_2.jpg)
 
-A good part of the drive to the Lagoon is through a vast lava field that
-is reminiscent of the photos sent back by the Mars Rover. It’s very easy
-to catch a bus from your hotel or from the airport to get there and they
-provide lockers as well as towel and even swimwear rental. They really
-make it easy to take a quick jaunt over there if you’re just on a
+A good part of the drive to the Lagoon is through a vast lava field that is reminiscent of the photos sent back by the Mars Rover. It’s very easy to catch a bus from your hotel or from the airport to get there and they provide lockers as well as towel and even swimwear rental. They really make it easy to take a quick jaunt over there if you’re just on a
 stopover in Iceland.
 
-Now I’m warm and dry in my hotel room planning my next step. I would
-like to do some sight seeing before I meet folks at the bar, but I also
-like remaining warm and dry. Conundrums!
+Now I’m warm and dry in my hotel room planning my next step. I would like to do some sight seeing before I meet folks at the bar, but I also like remaining warm and dry. Conundrums!
 
-I think I’ll venture out now and report back later. If you ever find
-yourself with a long stopover in Iceland, do visit the Blue Lagoon.
+I think I’ll venture out now and report back later. If you ever find yourself with a long stopover in Iceland, do visit the Blue Lagoon.
 
