@@ -77,9 +77,11 @@ Again, just like before, I force `wrong-branch` to its state on the server.
 
 ![force branch](https://cloud.githubusercontent.com/assets/19977/8412113/93984c46-1e3c-11e5-9329-f38adb158dcd.png)
 
-But now, I need to move the `new-branch` onto `master`.  
+But now, I need to move the commits from the branch `new-branch` onto `master`.  
 
 `git rebase --onto master wrong-branch`
+
+Note that `git rebase --onto` works on the _current branch (HEAD)_. So `git rebase --onto master wrong-branch` is saying migrate the commits between `wrong-branch` and `HEAD` onto master.
 
 ![Final result](https://cloud.githubusercontent.com/assets/19977/8382092/06f71640-1be5-11e5-9f90-2b433bd6ffd8.png)
 
