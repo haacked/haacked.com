@@ -7,8 +7,7 @@ disqus_identifier: 18824
 categories: [personal]
 ---
 
-As I mentioned in [my last post](http://haacked.com/archive/2011/10/31/beer-in-iceland.aspx "Beer in Iceland"),
-I have an overnight stopover in Reykjavik Iceland. After checking into my hotel at an ungodly early hour (which ended up being really late for me Seattle time), my first order of business was to head over to [the Blue Lagoon](http://www.bluelagoon.com/ "The Blue Lagoon").
+As I mentioned in [my last post](http://haacked.com/archive/2011/10/31/beer-in-iceland.aspx "Beer in Iceland"), I have an overnight stopover in Reykjavik Iceland. After checking into my hotel at an ungodly early hour (which ended up being really late for me Seattle time), my first order of business was to head over to [the Blue Lagoon](http://www.bluelagoon.com/ "The Blue Lagoon").
 
 [![blue-lagoon-movie](http://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon-movie_thumb.jpg "blue-lagoon-movie")](http://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon-movie_2.jpg)
 
@@ -27,8 +26,7 @@ Look at that steam coming off the water! The Blue Lagoon is a geothermal spa wit
 
 Yes, the thought of being cooked in superheated water did cross my mind since my manager reminded me of a scene from some crappy movie where that happened. Fortunately, that did not happen.
 
-This method of heating the lagoon is just one example of how Iceland gets a lot of its power from the heat within the Earth. [From another Wikipedia article](http://en.wikipedia.org/wiki/Geothermal_power_in_Iceland "Geothermal power in Iceland"),
-emphasis mine,
+This method of heating the lagoon is just one example of how Iceland gets a lot of its power from the heat within the Earth. [From another Wikipedia article](http://en.wikipedia.org/wiki/Geothermal_power_in_Iceland "Geothermal power in Iceland"), emphasis mine,
 
 > Five major [geothermal](http://en.wikipedia.org/wiki/Geothermal_power)
 > power plants exist in Iceland, which produce approximately 26.2%
@@ -50,10 +48,8 @@ I even had time to stop at a water side bar for a drink.
 
 [![bar-at-the-blue-lagoon](http://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/bar-at-the-blue-lagoon_thumb.jpg "bar-at-the-blue-lagoon")](http://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/bar-at-the-blue-lagoon_2.jpg)
 
-A good part of the drive to the Lagoon is through a vast lava field that is reminiscent of the photos sent back by the Mars Rover. It’s very easy to catch a bus from your hotel or from the airport to get there and they provide lockers as well as towel and even swimwear rental. They really make it easy to take a quick jaunt over there if you’re just on a
-stopover in Iceland.
+A good part of the drive to the Lagoon is through a vast lava field that is reminiscent of the photos sent back by the Mars Rover. It’s very easy to catch a bus from your hotel or from the airport to get there and they provide lockers as well as towel and even swimwear rental. They really make it easy to take a quick jaunt over there if you’re just on a stopover in Iceland.
 
 Now I’m warm and dry in my hotel room planning my next step. I would like to do some sight seeing before I meet folks at the bar, but I also like remaining warm and dry. Conundrums!
 
 I think I’ll venture out now and report back later. If you ever find yourself with a long stopover in Iceland, do visit the Blue Lagoon.
-
