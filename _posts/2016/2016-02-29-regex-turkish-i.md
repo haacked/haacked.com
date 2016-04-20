@@ -6,7 +6,8 @@ comments: true
 categories: [regex]
 ---
 
-> Some people, when confronted with a problem, think “I know, I'll use regular expressions.” Now they have two problems. - Jamie Zawinski
+> Some people, when confronted with a problem, think “I know, I'll use regular expressions.” Now they have two problems.  
+> - Jamie Zawinski
 
 For other people, when confronted with writing a blog post about regular expressions, think "I know, I'll quote that Jamie Zawinski quote!"
 
