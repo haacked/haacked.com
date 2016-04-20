@@ -25,7 +25,7 @@ disqus_show_comment_count: true
 google_analytics_tracking_id: UA-177588-1
 
 kramdown:
-  hard_wrap: true
+  hard_wrap: false
 
 #
 # Jekyll Settings
