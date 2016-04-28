@@ -133,7 +133,7 @@ This works well when dealing with pull requests from people who also have commit
 
 Here’s one of my favorites for a very good contributions.
 
-![Bruce Lee gives a thumbs up](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/thumbs-up-bruce-lee_thumb.gif]
+![Bruce Lee gives a thumbs up](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/thumbs-up-bruce-lee_thumb.gif)
 
 Be Good To Each Other
 ---------------------
