@@ -88,7 +88,7 @@ My checklist includes things like:
     meant to be used by others and to learn what the expected behavior
     is.
 2.  **Review arguments to methods.** Make sure arguments to methods make
-    sense and are validated.
+    sense and are validated. Consider what happens with boundary conditions.
 3.  **Look for null reference exceptions.** [Null references are a
     bitch](http://haacked.com/archive/2013/01/05/mitigate-the-billion-dollar-mistake-with-aspects.aspx "Mitigate the billion dollar mistake")
     and it’s worth looking out for them specifically.
@@ -98,7 +98,7 @@ My checklist includes things like:
 5.  **Disposable things are disposed.** Look for usages of resources
     that should be disposed but are not.
 6.  **Security.**There is a whole threat and mitigation review process
-    that falls under this bucket. I won’t go into that in this post.
+    that falls under this bucket. I won’t go into that in this post. But do ask yourself how the code can be exploited.
 
 I also have separate checklists for different platform specific items. For example, if I’m reviewing a WPF application, I’m looking out for cases where we might update the UI on a non-UI thread. Things like that.
 
