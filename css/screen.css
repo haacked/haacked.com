@@ -520,6 +520,7 @@ ul li a { -webkit-transition: all .2s ease-in;-moz-transition:all .2s ease-in;-o
 #content article .entry-content h2::before { border-bottom: none }
 #content article .entry-content blockquote { border-left: 5px solid #4466c5;background:#F7F7F7 }
 #content article .entry-content blockquote p { margin-top: 0px }
+#content article .entry-content h2 + blockquote { margin-top: 30px; }
 #content article .entry-content table { line-height: 1.2em }
 #content article .entry-content table td { text-align: left }
 #content article .meta { color: #999;font-family:"Open Sans";font-weight:100;font-size:1.2em }
