@@ -18,7 +18,7 @@ Some folks are confused by the name “pull request.” Just think of it as a re
 
 Here’s a screenshot of a pull request for GitHub for Windows where [Paul Betts](http://log.paulbetts.org "Paul Betts blog") patiently explains why my code might result in the total economic collapse of the world economy.
 
-[![-395](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/-395_thumb.png "-395")](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/-395_2.png)
+[![sample code review](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/-395_thumb.png "sample code review")](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/-395_2.png)
 
 A co-worker code review is a good way to avoid the [Danger Zone](http://www.youtube.com/watch?v=8vuZ8jSVNUI "Danger Zone") (*slightly NSFW*).
 
