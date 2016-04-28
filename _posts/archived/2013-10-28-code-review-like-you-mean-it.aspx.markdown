@@ -116,7 +116,7 @@ If you have GitHub for Windows or GitHub for Mac installed and you scroll down t
 
 Click on that button and we’ll clone the pull request code to your local machine so you can quickly and easily try it out.
 
-Note that in Git parlance, this is not the original pull request branch, but reference (usually named something like *pr/42* where 42 is the pull request number) so you should treat it as a read-only branch. But you can always create a branch from that reference and push it to GitHub if you need to.
+Note that in Git parlance, this is not the original pull request branch, but reference (usually named something like `pr/42` where `42` is the pull request number) so you should treat it as a read-only branch. But you can always create a branch from that reference and push it to GitHub if you need to.
 
 I often like to do this and run Resharper analysis on the code to highlight things like places where I might want to convert code to use a LINQ expression and things like that.
 
@@ -125,7 +125,7 @@ I often like to do this and run Resharper analysis on the code to highlight thin
 After a few rounds of review, when the code looks good, make sure you let the author know! Praise where praise is due is an important part of code reviews.
 
 At GitHub, when a team is satisfied with a pull request, we tend to comment it and include the ship it squirrel emoji
-(:shipit:)[![shipit](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/shipit_thumb.png "shipit")](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/shipit_2.png). That indicates the review is complete, everything looks good, and you are free to ship the changes and merge it to master.
+(`:shipit:`) ![](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/shipit_thumb.png). That indicates the review is complete, everything looks good, and you are free to ship the changes and merge it to master.
 
 Every team is different, but on the GitHub for Windows team we tend to let the author merge the code into master after someone else signs off on the pull request.
 
@@ -133,7 +133,7 @@ This works well when dealing with pull requests from people who also have commit
 
 Here’s one of my favorites for a very good contributions.
 
-[![thumbs-up-bruce-lee](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/thumbs-up-bruce-lee_thumb.gif "thumbs-up-bruce-lee")](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/thumbs-up-bruce-lee_2.gif)
+![Bruce Lee gives a thumbs up](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/thumbs-up-bruce-lee_thumb.gif]
 
 Be Good To Each Other
 ---------------------
