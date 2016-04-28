@@ -4,7 +4,7 @@ title: "Code Review Like You Mean It"
 date: 2013-10-28 -0800
 comments: true
 disqus_identifier: 18902
-categories: [open source,github,code,code-review]
+categories: [open source,github,code,code review]
 ---
 
 If I had to pick just one feature that embodies GitHub (besides [emoji support](http://www.emoji-cheat-sheet.com/ "Emoji") of course ![](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/thumbsup_thumb.png), I’d easily choose the **Pull Request** (aka PR). According to [GitHub’s help docs](https://help.github.com/articles/using-pull-requests "Pull Requests") (emphasis mine),
