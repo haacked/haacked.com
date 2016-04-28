@@ -7,7 +7,7 @@ disqus_identifier: 18902
 categories: [open source,github,code]
 ---
 
-If I had to pick just one feature that embodies GitHub (besides [emoji support](http://www.emoji-cheat-sheet.com/ "Emoji") of course ![emoji thumb up](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/thumbsup_thumb.png), I’d easily choose the **Pull Request** (aka PR). According to [GitHub’s help docs](https://help.github.com/articles/using-pull-requests "Pull Requests") (emphasis mine),
+If I had to pick just one feature that embodies GitHub (besides [emoji support](http://www.emoji-cheat-sheet.com/ "Emoji") of course ![](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/thumbsup_thumb.png), I’d easily choose the **Pull Request** (aka PR). According to [GitHub’s help docs](https://help.github.com/articles/using-pull-requests "Pull Requests") (emphasis mine),
 
 > Pull requests let you tell others about changes you’ve pushed to a
 > GitHub repository. Once a pull request is sent, **interested parties
