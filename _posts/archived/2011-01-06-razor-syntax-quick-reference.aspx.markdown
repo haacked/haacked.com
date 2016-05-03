@@ -319,8 +319,8 @@ the expression.
 Let me know if there are other examples you think should be placed in
 this guide. I hope you find this helpful.
 
-**UPDATE 12/30/2012:**I’ve added a few new examples to the table of new
+**UPDATE 12/30/2012:** I’ve added a few new examples to the table of new
 additions to Razor v2/ASP.NET MVC 4 syntax. Razor got a lot better in
 that release!
 
-Also, if you want to know more, consider buying the [Progamming ASP.NET MVC 4](http://www.amazon.com/gp/product/111834846X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=111834846X&linkCode=as2&tag=youvebeenhaac-20) book. Full disclosure, I'm one of the authors, but the other three authors are way better.
+Also, if you want to know more, consider buying the [Programming ASP.NET MVC 4](http://www.amazon.com/gp/product/111834846X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=111834846X&linkCode=as2&tag=youvebeenhaac-20) book. Full disclosure, I'm one of the authors, but the other three authors are way better.
