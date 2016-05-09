@@ -22,6 +22,7 @@ Here's an example of my first attempt at front-matter for a blog post on my blog
 ---
 layout: post
 title: "Localizing ASP.NET MVC Validation"
+permalink: /404.html
 date: 2009-12-07 -0800
 comments: true
 disqus_identifier: 18664
