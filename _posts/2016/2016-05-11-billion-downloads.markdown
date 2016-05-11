@@ -22,7 +22,7 @@ We had a goal to make installing packages as frictionless as possible. To that e
 
 However, this didn't work for everybody. We had to deal with the reality that some package authors (especially large corporations such as Microsoft) required explicit acceptance of the license before they could install it. So we made this an opt-in feature for package authors which represented itself like so in the GUI.
 
-![nupack-license-acceptance](https://cloud.githubusercontent.com/assets/19977/15196311/8d4f4ee6-1780-11e6-9240-0b476effaca9.png)
+![NuPack License Acceptance Flow Mockup](https://cloud.githubusercontent.com/assets/19977/15196311/8d4f4ee6-1780-11e6-9240-0b476effaca9.png)
 
 As you can see, I used [Balsamiq](https://balsamiq.com/) to mock up the UI. I used Balsamiq a lot back then to play around with UI mockups. This mockup is from the time when the project was still called NuPack. It's a fun (to me at least) bit of history.
 
