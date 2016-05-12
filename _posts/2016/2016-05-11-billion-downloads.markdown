@@ -26,4 +26,4 @@ However, this didn't work for everybody. We had to deal with the reality that so
 
 As you can see, I used [Balsamiq](https://balsamiq.com/) to mock up the UI. I used Balsamiq a lot back then to play around with UI mockups. This mockup is from the time when the project was still called NuPack. It's a fun (to me at least) bit of history.
 
-These days I'm not as involved with NuGet as I used to be, but I have no shortage of opinions on what I hope to see in its future. I may not be contributing to NuGet directly anymore, but I'm still a NuGet package user and author. All of useful repositories [have corresponding packages on NuGet.org](https://www.nuget.org/profiles/haacked).
+These days I'm not as involved with NuGet as I used to be, but I have no shortage of opinions on what I hope to see in its future. I may not be contributing to NuGet directly anymore, but I'm still a NuGet package user and author. All of my useful repositories [have corresponding packages on NuGet.org](https://www.nuget.org/profiles/haacked).
