@@ -14,7 +14,7 @@ It's exciting to see NuGet still going strong. As part of the original team that
 
 I love that the post calls out the original name for NuGet, aka NuPack. I loved the original name and there was a lot of upset feelings about the change at the time, but the experience taught me an important lesson about naming. Not only is it hard, there will always be a lot of people who will immediately hate whatever name you choose. It takes time for people to adjust to _any_ name. Unless the name is truly terrible like Qwikster. What was that about?
 
-At the time, every name we chose felt wrong, but over time, the name and the identity of the product start to mesh together and now, I can't imagine any other name other than NuGet. Expect for HaackGet. I would have totally been all over that.
+At the time, every name we chose felt wrong, but over time, the name and the identity of the product start to mesh together and now, I can't imagine any other name other than NuGet. Except for HaackGet. I would have totally been all over that.
 
 Just recently I cleaned out some long neglected DropBox folders and found an old PowerPoint presentation about a design change to the license acceptance flow for packages. Yes, license acceptance sounds like boring stuff but it's the only remnant I have from the design process back in the day and it's more interesting than you think if you're a licensing nerd like me.
 
