@@ -6,8 +6,7 @@ comments: true
 categories: [vs vsix dev encouragement]
 ---
 
-[I love to code](http://haacked.com/archive/2008/12/29/i-love-to-code.aspx/) as much as the next developer. I even professed my love [in a keynote once](https://www.youtube.com/watch?v=HYnEhDOKoxA).  
-And judging by the fact that you're reading this blog, I bet you love to code too.
+[I love to code](http://haacked.com/archive/2008/12/29/i-love-to-code.aspx/) as much as the next developer. I even professed my love [in a keynote once](https://www.youtube.com/watch?v=HYnEhDOKoxA). And judging by the fact that you're reading this blog, I bet you love to code too.
 
 But in the immortal words of that philosopher, Pat Benatar,
 
