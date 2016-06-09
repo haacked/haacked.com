@@ -54,10 +54,12 @@ By default, the extension comes with a few specs. You can run the specs by invok
 
 ## Publishing
 
-Publishing an Atom package is super easy. Push your code to a public GitHub repository and then from the repository directory call `apm push patch|minor|major` depending on the type of change. The flight manual I mentioned has details on this command.
+Publishing an Atom package is super easy. Push your code to a public GitHub repository and then from the repository directory call `apm publish patch|minor|major` depending on the type of change. The flight manual I mentioned has details on this command.
 
 ## What's Next?
 
 I don't plan on investing a huge amount of time in this extension. It was more an exercise for me to learn about the Atom packaging system. If you're interested in helping out, I've already [started logging issues](https://github.com/haacked/encourage-atom/issues) such as being able to set the list of encouragements. I'd welcome the help!
 
 For example, I want to add the ability for those who use the package to set up their own encouragements. Or perhaps, discouragements. I actually find it really [funny when my editor shits on my code](http://haacked.com/archive/2014/07/30/visual-studios-extensions-settings/). In fact, it causes me to think harder about my code because I want to prove it wrong. I should probably stop with all this editor anthropomorphism, huh? Tell me what you think in the comments.
+
+UPDATE: A couple days after publishing this package, [Nathan Armstrong (aka armstnp on GitHub)](https://github.com/armstnp) sent me a [pull request that implemented](https://github.com/Haacked/encourage-atom/pull/8) the ability to configure the list of encouragements via the `Package Settings` (Thanks!). This has been published in Encourage v0.2.0. To set this, go to the `Settings` view, select the `Packages` tab, and find "encourage" under the `Installed Packages` section. Then can click the `Settings` button for the package and update the comma separated list of encouragements.
