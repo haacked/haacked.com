@@ -12,7 +12,7 @@ categories: [asp.net mvc,code,razor]
 <span class="asp">@</span>{
   Func&lt;dynamic, <span class="kwrd">object</span>&gt; b = @&lt;strong&gt;@item&lt;/strong&gt;;
 }
-<span class="kwrd">&lt;</span><span class="html">span</span><span class="kwrd">&gt;</span>This sentence is <span class="asp">@</span>b("In Bold").<span class="kwrd">&lt;/</span><span class="html">span</span><span class="kwrd">&gt;
+<span class="kwrd">&lt;</span><span class="html">span</span><span class="kwrd">&gt;</span>This sentence is <span class="asp">@</span>b("In Bold").<span class="kwrd">&lt;/</span><span class="html">span</span><span class="kwrd">&gt;</span>
 </code></pre>
 
 That could come in handy if you have friends who’ll jump on your case for using the bold tag instead of the strong tag because it’s “not semantic”. Yeah, I’m looking at you [Damian](http://damianedwards.wordpress.com/ "Damian") ![Smile with tongue
