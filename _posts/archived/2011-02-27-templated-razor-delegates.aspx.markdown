@@ -15,9 +15,7 @@ categories: [asp.net mvc,code,razor]
 <span class="kwrd">&lt;</span><span class="html">span</span><span class="kwrd">&gt;</span>This sentence is <span class="asp">@</span>b("In Bold").<span class="kwrd">&lt;/</span><span class="html">span</span><span class="kwrd">&gt;</span>
 </code></pre>
 
-That could come in handy if you have friends who’ll jump on your case for using the bold tag instead of the strong tag because it’s “not semantic”. Yeah, I’m looking at you [Damian](http://damianedwards.wordpress.com/ "Damian") ![Smile with tongue
-out](http://haacked.com/images/haacked_com/WindowsLiveWriter/Templated-Razor-Delegates_C83C/wlEmoticon-smilewithtongueout_2.png).
-I mean, don’t both words signify being forceful? I digress.
+That could come in handy if you have friends who’ll jump on your case for using the bold tag instead of the strong tag because it’s “not semantic”. Yeah, I’m looking at you [Damian](http://damianedwards.wordpress.com/ "Damian") :stuck_out_tongue:  I mean, don’t both words signify being forceful? I digress.
 
 Note that the delegate that’s generated is a `Func<T, HelperResult>`. Also, the `@item` parameter is a special magic parameter. These
 delegates are only allowed one such parameter, but the template can call into that parameter as many times as it needs.
