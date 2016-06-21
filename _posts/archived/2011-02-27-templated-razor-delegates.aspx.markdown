@@ -53,7 +53,7 @@ As I mentioned earlier, notice that the argument to this method, `<span class="a
 
 Now this `List` method is very reusable. Let’s use it to generate a table of comic books.
 
-<pre><code>
+<pre class="csharpcode"><code>
 <span class="asp">@</span>{
     <span class="kwrd">var</span> comics = new[] { 
         <span class="kwrd">new</span> ComicBook {Title = "Groo", Publisher = "Dark Horse Comics"},
