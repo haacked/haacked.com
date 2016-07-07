@@ -6,17 +6,11 @@ comments: true
 disqus_identifier: 18753
 categories: [asp.net mvc,asp.net,code]
 ---
-I gave a presentation to another team at Microsoft yesterday on ASP.NET
-MVC and the Razor view engine and someone asked if there was a reference
-for the Razor syntax.
+I gave a presentation to another team at Microsoft yesterday on ASP.NET MVC and the Razor view engine and someone asked if there was a reference for the Razor syntax.
 
-It turns out, there is a pretty [good guide about
-Razor](http://www.asp.net/webmatrix/tutorials/2-introduction-to-asp-net-web-programming-using-the-razor-syntax "Razor Guide")
-available, but it’s focused on covering the basics of web programming
-using Razor and inline pages and not just the Razor syntax.
+It turns out, there is a pretty [good guide about Razor](http://www.asp.net/webmatrix/tutorials/2-introduction-to-asp-net-web-programming-using-the-razor-syntax "Razor Guide") available, but it’s focused on covering the basics of web programming using Razor and inline pages and not just the Razor syntax.
 
-So I thought it might be handy to write up a a really concise quick
-reference about the Razor syntax.
+So I thought it might be handy to write up a a really concise quick reference about the Razor syntax.
 
 <table class="matrix"><tbody>
     <tr>
@@ -103,7 +97,7 @@ reference about the Razor syntax.
       <td valign="top" width="183">Using block</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="asp">@</span> <span class="kwrd">using</span> (Html.BeginForm()) {
+        <pre class="csharpcode"><span class="asp">@</span><span class="kwrd">using</span> (Html.BeginForm()) {
   <span class="kwrd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kwrd">="text"</span> <span class="attr">value</span><span class="kwrd">="input here"</span><span class="kwrd">&gt;</span>
 }</pre>
       </td>
@@ -311,16 +305,10 @@ When running in a virtual application named <code>MyApp</code>
   </tbody>
 </table>
 
-Notice in the “mixing expressions and text” example that Razor is smart
-enough to know that the ending period is a literal text punctuation and
-not meant to indicate that it’s trying to call a method or property of
-the expression.
+Notice in the “mixing expressions and text” example that Razor is smart enough to know that the ending period is a literal text punctuation and not meant to indicate that it’s trying to call a method or property of the expression.
 
-Let me know if there are other examples you think should be placed in
-this guide. I hope you find this helpful.
+Let me know if there are other examples you think should be placed in this guide. I hope you find this helpful.
 
-**UPDATE 12/30/2012:** I’ve added a few new examples to the table of new
-additions to Razor v2/ASP.NET MVC 4 syntax. Razor got a lot better in
-that release!
+**UPDATE 12/30/2012:** I’ve added a few new examples to the table of new additions to Razor v2/ASP.NET MVC 4 syntax. Razor got a lot better in that release!
 
 Also, if you want to know more, consider buying the [Programming ASP.NET MVC 4](http://www.amazon.com/gp/product/111834846X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=111834846X&linkCode=as2&tag=youvebeenhaac-20) book. Full disclosure, I'm one of the authors, but the other three authors are way better.
