@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2006-06-04 -0800
-redirect: /archive/2006/06/05/IntroducingMBUnit.com.aspx/
+redirect_to: /archive/2006/06/05/IntroducingMBUnit.com.aspx/
 ---

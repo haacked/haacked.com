@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2011-10-09 -0800
-redirect: /archive/2011/10/10/preventing-csrf-with-ajax.aspx/
+redirect_to: /archive/2011/10/10/preventing-csrf-with-ajax.aspx/
 ---

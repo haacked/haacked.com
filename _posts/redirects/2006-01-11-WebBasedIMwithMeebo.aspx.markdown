@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2006-01-11 -0800
-redirect: /archive/2006/01/12/WebBasedIMwithMeebo.aspx/
+redirect_to: /archive/2006/01/12/WebBasedIMwithMeebo.aspx/
 ---

@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2006-02-25 -0800
-redirect: /archive/2006/02/26/GettingPummelled.aspx/
+redirect_to: /archive/2006/02/26/GettingPummelled.aspx/
 ---

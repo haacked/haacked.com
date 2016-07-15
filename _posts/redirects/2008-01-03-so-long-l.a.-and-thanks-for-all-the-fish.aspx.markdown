@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2008-01-03 -0800
-redirect: /archive/2008/01/04/so-long-l.a.-and-thanks-for-all-the-fish.aspx/
+redirect_to: /archive/2008/01/04/so-long-l.a.-and-thanks-for-all-the-fish.aspx/
 ---

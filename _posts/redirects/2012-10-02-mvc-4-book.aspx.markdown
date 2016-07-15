@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2012-10-02 -0800
-redirect: /archive/2012/10/03/mvc-4-book.aspx/
+redirect_to: /archive/2012/10/03/mvc-4-book.aspx/
 ---
