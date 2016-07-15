@@ -38,3 +38,4 @@ category_dir: categories
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-seo-tag
