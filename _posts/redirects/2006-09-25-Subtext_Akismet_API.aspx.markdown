@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2006-09-25 -0800
-redirect: /archive/2006/09/26/Subtext_Akismet_API.aspx/
+redirect_to: /archive/2006/09/26/Subtext_Akismet_API.aspx/
 ---

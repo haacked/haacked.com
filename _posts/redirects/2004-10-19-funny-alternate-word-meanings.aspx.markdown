@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2004-10-19 -0800
-redirect: /archive/2004/10/20/funny-alternate-word-meanings.aspx/
+redirect_to: /archive/2004/10/20/funny-alternate-word-meanings.aspx/
 ---

@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2006-06-29 -0800
-redirect: /archive/2006/06/30/ApplesUnintendedComplimentToWindows.aspx/
+redirect_to: /archive/2006/06/30/ApplesUnintendedComplimentToWindows.aspx/
 ---

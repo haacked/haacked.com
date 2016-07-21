@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2005-06-11 -0800
-redirect: /archive/2005/06/12/commentapi-circumvents-captcha.aspx/
+redirect_to: /archive/2005/06/12/commentapi-circumvents-captcha.aspx/
 ---

@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2007-12-09 -0800
-redirect: /archive/2007/12/10/using-asp.net-mvc-with-visual-web-developer-express.aspx/
+redirect_to: /archive/2007/12/10/using-asp.net-mvc-with-visual-web-developer-express.aspx/
 ---

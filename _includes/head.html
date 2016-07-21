@@ -6,14 +6,6 @@
 {% endif %}
 <head>
 	<meta charset="utf-8">
-	<title>{% if page.title %}{{ page.title }} - {% elsif post.title %}{{ post.title }} - {% endif %}{{ site.title }}</title>
-	<meta name="author" content="{{ site.author }}">
-
-	{% capture description %}
-		{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}
-	{% endcapture %}
-	<meta name="description" content="{{ description }}">
-	{% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
 
 	<!-- http://t.co/dKP3o1e -->
 	<meta name="HandheldFriendly" content="True">
@@ -21,8 +13,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
-	{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' }}{% endif %}{% endcapture %}
-	<link rel="canonical" href="{{ canonical }}">
 	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 	<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,400italic,600,700,800' rel='stylesheet' type='text/css'>
@@ -31,6 +21,6 @@
 	<link rel="stylesheet" href="/css/code.css" type="text/css">
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	<script src="/js/slash.js" async></script>
-
+		{% seo %}
   	{% include google_analytics.html %}
 </head>
