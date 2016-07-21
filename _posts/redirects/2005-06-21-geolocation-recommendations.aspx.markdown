@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2005-06-21 -0800
-redirect: /archive/2005/06/22/geolocation-recommendations.aspx/
+redirect_to: /archive/2005/06/22/geolocation-recommendations.aspx/
 ---

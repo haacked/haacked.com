@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2006-05-30 -0800
-redirect: /archive/2006/05/31/UnitTestingDataAccessCodeWithTheStubDataReader.aspx/
+redirect_to: /archive/2006/05/31/UnitTestingDataAccessCodeWithTheStubDataReader.aspx/
 ---

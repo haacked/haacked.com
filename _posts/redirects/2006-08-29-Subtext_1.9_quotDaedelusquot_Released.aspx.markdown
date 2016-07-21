@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2006-08-29 -0800
-redirect: /archive/2006/08/30/Subtext_1.9_quotDaedelusquot_Released.aspx/
+redirect_to: /archive/2006/08/30/Subtext_1.9_quotDaedelusquot_Released.aspx/
 ---
