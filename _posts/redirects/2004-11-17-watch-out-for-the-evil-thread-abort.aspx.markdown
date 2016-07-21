@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2004-11-17 -0800
-redirect: /archive/2004/11/18/watch-out-for-the-evil-thread-abort.aspx/
+redirect_to: /archive/2004/11/18/watch-out-for-the-evil-thread-abort.aspx/
 ---

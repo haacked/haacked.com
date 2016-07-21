@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2007-02-14 -0800
-redirect: /archive/2007/02/15/asp.net_tip_-_use_the_label_control_correctly.aspx/
+redirect_to: /archive/2007/02/15/asp.net_tip_-_use_the_label_control_correctly.aspx/
 ---

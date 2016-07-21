@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2006-05-16 -0800
-redirect: /archive/2006/05/17/DealingWithCommentThreads.aspx/
+redirect_to: /archive/2006/05/17/DealingWithCommentThreads.aspx/
 ---

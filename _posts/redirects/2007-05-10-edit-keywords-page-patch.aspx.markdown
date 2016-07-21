@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2007-05-10 -0800
-redirect: /archive/2007/05/11/edit-keywords-page-patch.aspx/
+redirect_to: /archive/2007/05/11/edit-keywords-page-patch.aspx/
 ---

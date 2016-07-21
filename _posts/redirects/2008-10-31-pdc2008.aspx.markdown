@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2008-10-31 -0800
-redirect: /archive/2008/11/01/pdc2008.aspx/
+redirect_to: /archive/2008/11/01/pdc2008.aspx/
 ---

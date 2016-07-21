@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2006-07-26 -0800
-redirect: /archive/2006/07/27/HappyBelatedBirthdayToUs.aspx/
+redirect_to: /archive/2006/07/27/HappyBelatedBirthdayToUs.aspx/
 ---

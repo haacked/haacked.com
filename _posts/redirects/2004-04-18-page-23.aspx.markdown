@@ -1,5 +1,4 @@
 ---
-layout: redirect
 date: 2004-04-18 -0800
-redirect: /archive/2004/04/19/page-23.aspx/
+redirect_to: /archive/2004/04/19/page-23.aspx/
 ---
