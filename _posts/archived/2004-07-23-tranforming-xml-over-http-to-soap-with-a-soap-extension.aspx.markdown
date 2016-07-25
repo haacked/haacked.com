@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tranforming Xml over Http to SOAP with a Soap Extension"
+title: Tranforming Xml over Http to SOAP with a Soap Extension
 date: 2004-07-23 -0800
 comments: true
 disqus_identifier: 843
 categories: []
+redirect_from: "/archive/2004/07/22/tranforming-xml-over-http-to-soap-with-a-soap-extension.aspx/"
 ---
+
 ![Soap](/images/soap.jpg) In my last
 [post](http://haacked.com/archive/2004/07/23/842.aspx) I discussed a
 client who requires that we build a web service using a proprietary XML

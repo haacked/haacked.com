@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "London Terrorist Attack"
+title: London Terrorist Attack
 date: 2005-07-06 -0800
 comments: true
 disqus_identifier: 7671
 categories: []
+redirect_from: "/archive/2005/07/05/london-terrorist-attack.aspx/"
 ---
+
 ![London Blast](http://haacked.com/images/LondonBlast.jpg) By now you
 must have heard that there was a [Terrorist attack in
 London](http://www.cnn.com/2005/WORLD/europe/07/07/london.tube/index.html)

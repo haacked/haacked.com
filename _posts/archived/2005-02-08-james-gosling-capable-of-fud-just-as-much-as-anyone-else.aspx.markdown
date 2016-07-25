@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "James Gosling Capable of FUD Just As Much As Anyone Else..."
+title: James Gosling Capable of FUD Just As Much As Anyone Else...
 date: 2005-02-08 -0800
 comments: true
 disqus_identifier: 2115
 categories: []
+redirect_from: "/archive/2005/02/07/james-gosling-capable-of-fud-just-as-much-as-anyone-else.aspx/"
 ---
+
 I love [Ian's
 response](http://www.interact-sw.co.uk/iangblog/2005/02/08/goslingmcpp)
 to James Gosling's opinion on .NET's C++ support and it's supposed

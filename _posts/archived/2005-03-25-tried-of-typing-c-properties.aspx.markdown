@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Tried of Typing C# Properties?"
+title: Tried of Typing C# Properties?
 date: 2005-03-25 -0800
 comments: true
 disqus_identifier: 2456
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2005/03/24/tried-of-typing-c-properties.aspx/"
 ---
+
 Saw this post on [Consult Utah's
 Weblog](http://consultutah.com/weblog.aspx?id=92)...
 

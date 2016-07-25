@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Prose Is Dead. Long Live Prose"
+title: Prose Is Dead. Long Live Prose
 date: 2007-04-27 -0800
 comments: true
 disqus_identifier: 18296
 categories: []
+redirect_from: "/archive/2007/04/26/prose-is-dead.-long-live-prose.aspx/"
 ---
+
 Charlez Petzold makes [the following
 lament](http://www.charlespetzold.com/blog/2007/04/270433.html "Petzold Book Blog")
 in response to [Jeff Atwood’s

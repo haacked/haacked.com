@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "It's the Little Touches - Trillian and MSN Messenger."
+title: It's the Little Touches - Trillian and MSN Messenger.
 date: 2005-04-21 -0800
 comments: true
 disqus_identifier: 2778
 categories: []
+redirect_from: "/archive/2005/04/20/its-the-little-touches--trillian-and-msn-messenger.aspx/"
 ---
+
 Yesterday I [wrote
 about](http://haacked.com/archive/2005/04/21/2764.aspx) a neat
 [Trillian](http://www.ceruleanstudios.com/)feature that highlights words

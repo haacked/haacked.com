@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "So Long L.A. And Thanks For All The Fish"
+title: So Long L.A. And Thanks For All The Fish
 date: 2008-01-04 -0800
 comments: true
 disqus_identifier: 18445
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2008/01/03/so-long-l.a.-and-thanks-for-all-the-fish.aspx/"
 ---
+
 ![132554078\_55943228ef[2]](http://haacked.com/images/haacked_com/WindowsLiveWriter/SoLongLAAndThanksForAllTheFish_F995/132554078_55943228ef%5B2%5D_3.jpg)
 
 No, the title of this post isn’t suggesting that L.A. is about to be

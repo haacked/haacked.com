@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Better Developers Through Diversity"
+title: Better Developers Through Diversity
 date: 2006-02-16 -0800
 comments: true
 disqus_identifier: 11802
 categories: []
+redirect_from: "/archive/2006/02/15/BetterDevelopersThroughDiversity.aspx/"
 ---
+
 The local newspaper sports a comic strip that enjoys every opportunity
 to mock the modern university’s emphasis on diversity. The strip holds
 diversity accountable for lowered standards and educational quality.

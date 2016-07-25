@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Defining ASP.NET MVC Routes and Views in IronRuby"
+title: Defining ASP.NET MVC Routes and Views in IronRuby
 date: 2008-04-22 -0800
 comments: true
 disqus_identifier: 18479
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2008/04/21/defining-asp.net-mvc-routes-and-views-in-ironruby.aspx/"
 ---
+
 In a [recent
 post](http://haacked.com/archive/2008/04/18/dynamic-language-dsl-vs-xml-configuration.aspx "Dynamic Language DSL vs XML Config")
 I expressed a few thoughts on using a DSL instead of an XML config file.

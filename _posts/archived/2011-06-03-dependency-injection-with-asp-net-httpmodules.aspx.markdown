@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Dependency Injection With ASP.NET HttpModules"
+title: Dependency Injection With ASP.NET HttpModules
 date: 2011-06-03 -0800
 comments: true
 disqus_identifier: 18793
-categories: [asp.net,asp.net mvc,nuget,code]
+categories:
+- asp.net
+- asp.net mvc
+- nuget
+- code
+redirect_from: "/archive/2011/06/02/dependency-injection-with-asp-net-httpmodules.aspx/"
 ---
+
 At the risk of getting [punched in the
 face](http://twitter.com/#!/migueldeicaza/status/28312478630805504 "Miguel doesn't like DI")
 by my friend Miguel, I’m not afraid to admit I’m a fan of responsible

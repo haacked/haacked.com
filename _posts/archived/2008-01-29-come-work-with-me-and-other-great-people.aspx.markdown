@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Come Work With Me And Other Great People"
+title: Come Work With Me And Other Great People
 date: 2008-01-29 -0800
 comments: true
 disqus_identifier: 18452
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2008/01/28/come-work-with-me-and-other-great-people.aspx/"
 ---
+
 The ASP.NET and Silverlight team are hiring! [Brad
 Abrams](http://blogs.msdn.com/brada/ "Brad Abrams...") (*who happens to
 be my “grand-boss” as in my boss's boss*) posted a [developers wanted

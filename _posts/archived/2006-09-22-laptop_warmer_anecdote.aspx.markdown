@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Laptop Warmer Anecdote"
+title: Laptop Warmer Anecdote
 date: 2006-09-22 -0800
 comments: true
 disqus_identifier: 17061
 categories: []
+redirect_from: "/archive/2006/09/21/laptop_warmer_anecdote.aspx/"
 ---
+
 I saw [this story](http://www.qdb.us/53151) on the [debugging section of
 Anecdota](http://www.anecdota.org/debugging/) and thought it was funny,
 though I find it hard to believe.

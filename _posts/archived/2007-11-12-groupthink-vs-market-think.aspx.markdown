@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Groupthink Vs Market Think"
+title: Groupthink Vs Market Think
 date: 2007-11-12 -0800
 comments: true
 disqus_identifier: 18422
 categories: []
+redirect_from: "/archive/2007/11/11/groupthink-vs-market-think.aspx/"
 ---
+
 In his book, [The Wisdom of Crowds: Why the Many Are Smarter Than the
 Few and How Collective Wisdom Shapes Business, Economies, Societies and
 Nations](http://www.amazon.com/gp/product/0385721706?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0385721706 "The Wisdom of Crowds on Amazon.com")

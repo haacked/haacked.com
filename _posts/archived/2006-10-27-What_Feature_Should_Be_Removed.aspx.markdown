@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "What Feature Should Be Removed?"
+title: What Feature Should Be Removed?
 date: 2006-10-27 -0800
 comments: true
 disqus_identifier: 18117
 categories: []
+redirect_from: "/archive/2006/10/26/What_Feature_Should_Be_Removed.aspx/"
 ---
+
 In the essay entitled [Hold the
 Mayo](http://gettingreal.37signals.com/ch05_Hold_the_Mayo.php#footer "Hold the Mayo"),
 37signals points out the obvious fact that most surveys ask users what

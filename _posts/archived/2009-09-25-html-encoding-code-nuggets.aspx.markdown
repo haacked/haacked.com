@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Html Encoding Code Blocks With ASP.NET 4"
+title: Html Encoding Code Blocks With ASP.NET 4
 date: 2009-09-25 -0800
 comments: true
 disqus_identifier: 18644
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from: "/archive/2009/09/24/html-encoding-code-nuggets.aspx/"
 ---
+
 This is the first in a three part series related to HTML encoding
 blocks, aka the `<%: ... %>` syntax.
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Get your 1GB email account now!"
+title: Get your 1GB email account now!
 date: 2004-04-06 -0800
 comments: true
 disqus_identifier: 304
 categories: []
+redirect_from: "/archive/2004/04/05/get-your-1gb-email-account-now.aspx/"
 ---
+
 ![](/images/spymaclogo.gif)Looks like a another company has stolen some
 of the thunder from Google's announcement offering 1GB of email. Spymac
 announces in this

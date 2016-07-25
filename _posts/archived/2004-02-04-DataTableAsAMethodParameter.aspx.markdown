@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Datatable as a method parameter"
+title: Datatable as a method parameter
 date: 2004-02-04 -0800
 comments: true
 disqus_identifier: 159
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2004/02/03/DataTableAsAMethodParameter.aspx/"
 ---
+
 I'm working with a third party component (I will not name the guilty
 party) that has a method with the following signature and implementation
 (with no overrides):

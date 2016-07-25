@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "I Have Contracted A Fever"
+title: I Have Contracted A Fever
 date: 2006-06-13 -0800
 comments: true
 disqus_identifier: 13288
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2006/06/12/IHaveContractedAFever.aspx/"
 ---
+
 ![Soccer Ball](http://haacked.com/images/SoccerBallBW.jpg)**World Cup
 Fever!**.
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "CodePlex To Roll Out TortoiseSVN Support"
+title: CodePlex To Roll Out TortoiseSVN Support
 date: 2007-05-21 -0800
 comments: true
 disqus_identifier: 18322
 categories: []
+redirect_from: "/archive/2007/05/20/codeplex-to-roll-out-tortoisesvn-support.aspx/"
 ---
+
 This just in. CodePlex is planning to roll out TortoiseSVN support!
 
 [![](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodePlexToRollOutTortoiseSVNSupport_CD86/codeplexworkitemdetails_thumb1.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodePlexToRollOutTortoiseSVNSupport_CD86/codeplexworkitemdetails3.png "Codeplex SVN Work Item Detail")

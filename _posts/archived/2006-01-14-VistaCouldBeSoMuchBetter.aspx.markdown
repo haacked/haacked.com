@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Vista Could Be So Much Better"
+title: Vista Could Be So Much Better
 date: 2006-01-14 -0800
 comments: true
 disqus_identifier: 11502
 categories: []
+redirect_from: "/archive/2006/01/13/VistaCouldBeSoMuchBetter.aspx/"
 ---
+
 ![Vista](http://haacked.com/images/WindowsVista.jpg) From reading other
 blogs, it seems many developers are unimpressed with the sheen of
 Windows Vista, the next version of the Microsoft operating system. There

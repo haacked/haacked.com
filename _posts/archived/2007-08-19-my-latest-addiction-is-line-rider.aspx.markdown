@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "My Latest Addiction Is Line Rider"
+title: My Latest Addiction Is Line Rider
 date: 2007-08-19 -0800
 comments: true
 disqus_identifier: 18382
 categories: []
+redirect_from: "/archive/2007/08/18/my-latest-addiction-is-line-rider.aspx/"
 ---
+
 Not too long ago, [Jeff Atwood](http://www.codinghorror.com/blog/ "CodingHorror") lowered the
 overall productivity of software developers everywhere when he [wrote
 about Desktop Tower Defense](http://www.codinghorror.com/blog/archives/000872.html "How to get rich programming"),

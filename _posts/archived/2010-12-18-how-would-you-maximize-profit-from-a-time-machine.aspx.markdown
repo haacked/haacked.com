@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "How Would You Maximize Profit From A Time Machine?"
+title: How Would You Maximize Profit From A Time Machine?
 date: 2010-12-18 -0800
 comments: true
 disqus_identifier: 18747
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2010/12/17/how-would-you-maximize-profit-from-a-time-machine.aspx/"
 ---
+
 At some point, everybody and every team makes a mistake they regret and
 wish they could take back. During our regular status meetings, I
 sometimes make the mistake of saying something like “if I could go back

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Introduction To Microformats Article"
+title: Introduction To Microformats Article
 date: 2006-05-11 -0800
 comments: true
 disqus_identifier: 12762
 categories: []
+redirect_from: "/archive/2006/05/10/IntroductionToMicroformatsArticle.aspx/"
 ---
+
 Lest you think I sit around spending all my time on [computer
 games](http://haacked.com/archive/2006/05/11/AdmittingYourAddictionIsTheFirstStep.aspx "addiction")
 and soccer, I also try to write occasionally.

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "CoComment Now Enabled"
+title: CoComment Now Enabled
 date: 2006-04-12 -0800
 comments: true
 disqus_identifier: 12400
 categories: []
+redirect_from: "/archive/2006/04/11/CoCommentNowEnabled.aspx/"
 ---
+
 ![CoComment Logo](http://haacked.com/images/cocommentlogo.gif) My blog
 now supports
 [CoComment](http://cocomment.com/ "Comment Tracking System") tracking.

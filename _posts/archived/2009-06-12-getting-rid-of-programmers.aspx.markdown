@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "And Get Rid Of Those Pesky Programmers"
+title: And Get Rid Of Those Pesky Programmers
 date: 2009-06-12 -0800
 comments: true
 disqus_identifier: 18623
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2009/06/11/getting-rid-of-programmers.aspx/"
 ---
+
 Every now and then some email or website comes along promising to prove
 Fred Brooks wrong about this crazy idea he wrote in [The Mythical Man
 Month](http://www.amazon.com/gp/product/0201835959?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0201835959 "The Mythical Man Month")

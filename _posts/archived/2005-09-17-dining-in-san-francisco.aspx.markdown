@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Dining in San Francisco"
+title: Dining in San Francisco
 date: 2005-09-17 -0800
 comments: true
 disqus_identifier: 10182
 categories: []
+redirect_from: "/archive/2005/09/16/dining-in-san-francisco.aspx/"
 ---
+
 [![dsc00694](http://static.flickr.com/25/44224652_40777395e6_m.jpg)](http://www.flickr.com/photos/haacked/44224652/ "Photo Sharing")
 Akumi and I decided to turn the business trip into a short weekend
 getaway. After the meeting, we all went out to Espetus, a brazilian

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Halloween Preview"
+title: Halloween Preview
 date: 2008-10-17 -0800
 comments: true
 disqus_identifier: 18541
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2008/10/16/halloween-preview.aspx/"
 ---
+
 I just can’t help myself. I said I wouldn’t be one of *those* parents,
 but forget it. I am one of *those* parents. I think my kid is adorable,
 so sue me. Check out Cody’s halloween costume. He’s with his [BFF

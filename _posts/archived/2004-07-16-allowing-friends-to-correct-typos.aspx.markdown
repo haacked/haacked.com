@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Allowing Friends To Correct Typos"
+title: Allowing Friends To Correct Typos
 date: 2004-07-16 -0800
 comments: true
 disqus_identifier: 822
 categories: []
+redirect_from: "/archive/2004/07/15/allowing-friends-to-correct-typos.aspx/"
 ---
+
 I like this idea found on [Boing Boing](http://www.boingboing.net/):
 
 > Whole Lotta Nothing has sent out a lazyweb request for a blogging

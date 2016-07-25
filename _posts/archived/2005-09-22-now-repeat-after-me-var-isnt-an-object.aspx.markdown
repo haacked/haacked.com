@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Now Repeat After Me, Var Isn't an Object"
+title: Now Repeat After Me, Var Isn't an Object
 date: 2005-09-22 -0800
 comments: true
 disqus_identifier: 10309
 categories: []
+redirect_from: "/archive/2005/09/21/now-repeat-after-me-var-isnt-an-object.aspx/"
 ---
+
 Leave it to [Ian](http://www.interact-sw.co.uk/iangblog/) to cut through
 the crap and give a [very clear and detailed
 account](http://www.interact-sw.co.uk/iangblog/2005/09/23/varisntobject)

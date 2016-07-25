@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Chivas USA vs Osasuna"
+title: Chivas USA vs Osasuna
 date: 2005-03-27 -0800
 comments: true
 disqus_identifier: 2470
 categories: []
+redirect_from: "/archive/2005/03/26/chivas-usa-vs-osasuna.aspx/"
 ---
- 
+
 ![Chivas vs Osasuna soccer game](/images/ChivasGame.jpg "Chivas vs Osasuna")
 
 Went to watch a friendly between Chivas USA and Osasuna of La Liga (Spanish premier league) at the Home Depot Center Saturday night. Thanks to a soccer buddy Ed (who happens to work for Fox Sports World), Akumi and I were sitting in some pretty nice seats.

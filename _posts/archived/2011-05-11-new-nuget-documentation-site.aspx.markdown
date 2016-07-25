@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "New NuGet Documentation Site"
+title: New NuGet Documentation Site
 date: 2011-05-11 -0800
 comments: true
 disqus_identifier: 18787
-categories: [nuget,open source]
+categories:
+- nuget
+- open source
+redirect_from: "/archive/2011/05/10/new-nuget-documentation-site.aspx/"
 ---
+
 It’s a common refrain you hear when it comes to documentation for open
 source projects. It typically sucks! In part, because nobody wants to
 work on docs. But also in part because good documentation is challenging

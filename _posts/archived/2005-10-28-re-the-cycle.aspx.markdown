@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "RE: The cycle"
+title: 'RE: The cycle'
 date: 2005-10-28 -0800
 comments: true
 disqus_identifier: 11040
 categories: []
+redirect_from: "/archive/2005/10/27/re-the-cycle.aspx/"
 ---
+
 Every day I look at my current code and go, “Damn, that's some sweet
 shit!” But I also look at code I wrote a month ago and say, “What a
 freakin' idiot I was to write that!” So in a month, the code I'm writing

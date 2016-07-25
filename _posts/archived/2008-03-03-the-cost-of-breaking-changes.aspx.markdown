@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Cost Of Breaking Changes"
+title: The Cost Of Breaking Changes
 date: 2008-03-03 -0800
 comments: true
 disqus_identifier: 18459
 categories: []
+redirect_from: "/archive/2008/03/02/the-cost-of-breaking-changes.aspx/"
 ---
+
 [![broken-glass](http://haacked.com/images/haacked_com/WindowsLiveWriter/TheCostOfBreakingChanges_A4A1/broken-glass_3.jpg)](http://www.sxc.hu/photo/296133 "Broken Glass on Stock Xchng")
 One interesting response to my series on versioning of interfaces and
 abstract base classes is the one in which someone suggested that we

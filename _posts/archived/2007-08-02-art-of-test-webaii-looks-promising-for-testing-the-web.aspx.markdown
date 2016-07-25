@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Art Of Test WebAii Looks Promising For Testing The Web"
+title: Art Of Test WebAii Looks Promising For Testing The Web
 date: 2007-08-02 -0800
 comments: true
 disqus_identifier: 18377
 categories: []
+redirect_from: "/archive/2007/08/01/art-of-test-webaii-looks-promising-for-testing-the-web.aspx/"
 ---
+
 A coworker of mine ran into some problems using
 [WATIN](http://watin.sourceforge.net/ "WATIN web app testing") to test
 our website. Specifically issues with Javascript and AJAX. Yes, I know

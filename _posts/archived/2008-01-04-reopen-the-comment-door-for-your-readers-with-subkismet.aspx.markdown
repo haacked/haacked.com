@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Reopen The Comment Door For Your Readers With Subkismet"
+title: Reopen The Comment Door For Your Readers With Subkismet
 date: 2008-01-04 -0800
 comments: true
 disqus_identifier: 18444
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2008/01/03/reopen-the-comment-door-for-your-readers-with-subkismet.aspx/"
 ---
+
 Six months ago and six days after the birth of my son, [Subkismet was
 also
 born](http://haacked.com/archive/2007/06/12/introducing-subkismet-the-cure-for-comment-spam.aspx "Introducing Subkismet")

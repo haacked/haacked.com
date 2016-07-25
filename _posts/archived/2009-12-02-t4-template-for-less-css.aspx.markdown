@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "T4CSS: A T4 Template for .Less CSS With Compression"
+title: 'T4CSS: A T4 Template for .Less CSS With Compression'
 date: 2009-12-02 -0800
 comments: true
 disqus_identifier: 18663
-categories: [asp.net,code]
+categories:
+- asp.net
+- code
+redirect_from: "/archive/2009/12/01/t4-template-for-less-css.aspx/"
 ---
+
 Good news! I have contributed my T4 template to the .less project. You
 can access it from the big download button [on their
 homepage](http://www.dotlesscss.org/ "dot less project homepage").

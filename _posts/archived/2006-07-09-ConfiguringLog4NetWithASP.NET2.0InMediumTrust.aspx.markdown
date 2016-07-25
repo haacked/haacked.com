@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Configuring Log4Net with ASP.NET 2.0 in Medium Trust"
+title: Configuring Log4Net with ASP.NET 2.0 in Medium Trust
 date: 2006-07-09 -0800
 comments: true
 disqus_identifier: 13766
-categories: [log4net logging aspnet]
+categories:
+- log4net logging aspnet
+redirect_from: "/archive/2006/07/08/ConfiguringLog4NetWithASP.NET2.0InMediumTrust.aspx/"
 ---
+
 UPDATE: Mea Culpa! It seems like Log4Net has no problems with medium trust and an external log4net file. I [have written an updated
 post](http://haacked.com/archive/2006/08/08/Log4NetAndExternalConfigurationFileInASP.NET2.0.aspx "External Config FIles and Log4Net")
 that talks about the problem I *did* run into and how I solved it.

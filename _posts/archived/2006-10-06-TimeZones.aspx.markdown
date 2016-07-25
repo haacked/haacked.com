@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "TimeZones"
+title: TimeZones
 date: 2006-10-06 -0800
 comments: true
 disqus_identifier: 17780
 categories: []
+redirect_from: "/archive/2006/10/05/TimeZones.aspx/"
 ---
+
 [![TimeZones](http://haacked.com/images/haacked_com/WindowsLiveWriter/TimeZones_105BD/timezone_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/TimeZones_105BD/timezone2.jpg)
 Right now, there is no easy way to convert a time from one arbitrary
 timezone to another arbitrary timezone in .NET.  Certainly you can

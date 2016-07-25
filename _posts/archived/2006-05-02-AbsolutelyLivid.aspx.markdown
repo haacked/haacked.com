@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Absolutely Livid"
+title: Absolutely Livid
 date: 2006-05-02 -0800
 comments: true
 disqus_identifier: 12631
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2006/05/01/AbsolutelyLivid.aspx/"
 ---
+
 I am absolutely livid with my company’s bank right now and I need to
 blow off some steam. We had two recent deposits reversed because of a
 missing endorsement. This is odd because I am always careful to sign

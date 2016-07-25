@@ -1,12 +1,16 @@
 ---
 layout: post
-title: "Blogging about Blogging about Blogging about ..."
+title: Blogging about Blogging about Blogging about ...
 date: 2005-03-13 -0800
-redirect_from: "/archive/2005/03/13/2357.aspx.html"
+redirect_from:
+- "/archive/2005/03/13/2357.aspx.html"
+- "/archive/2005/03/12/Blogging-About-Blogging-AboutBlogging.aspx/"
 comments: true
 disqus_identifier: 2357
-categories: [humor blogging meta-blogging]
+categories:
+- humor blogging meta-blogging
 ---
+
 ![](/images/TheBigHit.jpg "The Big Hit") In the 1998 movie, [The Big
 Hit](http://www.imdb.com/title/tt0120609/), the protagonists kidnap the
 daughter of an extremely wealthy Japanese businessman. When they call to

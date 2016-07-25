@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Threading - Never Lock This Redux"
+title: Threading - Never Lock This Redux
 date: 2006-08-08 -0800
 comments: true
 disqus_identifier: 14764
 categories: []
+redirect_from: "/archive/2006/08/07/threadingneverlockthisredux.aspx/"
 ---
+
 A while ago I wrote that you [should never lock a value type and never
 lock
 `this`](http://haacked.com/archive/2005/04/12/NeverLockThis.aspx "Threading Tips").

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Rating Plug-In for RSS Bandit"
+title: Rating Plug-In for RSS Bandit
 date: 2004-11-26 -0800
 comments: true
 disqus_identifier: 1676
 categories: []
+redirect_from: "/archive/2004/11/25/rating-plug-in-for-rss-bandit.aspx/"
 ---
+
 A while ago I [wrote about
 AmphetaRate](http://haacked.com/archive/2004/05/07/412.aspx), a blog
 recommendation engine that takes user ratings of blog entries and serves

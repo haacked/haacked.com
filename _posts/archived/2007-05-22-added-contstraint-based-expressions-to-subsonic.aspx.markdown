@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Added Contstraint Based Expressions To Subsonic"
+title: Added Contstraint Based Expressions To Subsonic
 date: 2007-05-22 -0800
 comments: true
 disqus_identifier: 18326
 categories: []
+redirect_from: "/archive/2007/05/21/added-contstraint-based-expressions-to-subsonic.aspx/"
 ---
+
 NUnit 2.4 introduces a really nice programming model they call
 [Constraint-Based Assert
 Model](http://nunit.com/index.php?p=constraintModel&r=2.4 "Constraint-Based Assert Model").

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Keeping Blog Ads In Check"
+title: Keeping Blog Ads In Check
 date: 2008-07-01 -0800
 comments: true
 disqus_identifier: 18500
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2008/06/30/keeping-blog-ads-in-check.aspx/"
 ---
+
 I credit Google [AdSense](https://www.google.com/adsense/ "AdSense") for
 really opening up the possibility for small blogs to become sources of
 passive income. Look around the web and you’ll see nearly every blog

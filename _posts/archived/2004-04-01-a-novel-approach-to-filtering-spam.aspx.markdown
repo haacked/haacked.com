@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A Novel Approach to Filtering Spam"
+title: A Novel Approach to Filtering Spam
 date: 2004-04-01 -0800
 comments: true
 disqus_identifier: 294
 categories: []
+redirect_from: "/archive/2004/03/31/a-novel-approach-to-filtering-spam.aspx/"
 ---
+
 ![Spam](/images/spam.jpg) For the past few months I've been teaching
 myself Longhorn programming via the PDC bits by building a better Spam
 filter. Some of the best filters will typically use an approach based on

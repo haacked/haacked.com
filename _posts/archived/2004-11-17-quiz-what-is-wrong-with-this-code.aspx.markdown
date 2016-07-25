@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "QUIZ: What's Wrong With This Code?"
+title: 'QUIZ: What''s Wrong With This Code?'
 date: 2004-11-17 -0800
 comments: true
 disqus_identifier: 1634
 categories: []
+redirect_from: "/archive/2004/11/16/quiz-what-is-wrong-with-this-code.aspx/"
 ---
+
 This is a simplified version of a sneaky bug I ran into today (I’m fine
 thank you, but the bug is dead). ~~The only prize I can offer is a GMail
 account if you want one.~~

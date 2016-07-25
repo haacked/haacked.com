@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "New Word Of The Day - Whorosity"
+title: New Word Of The Day - Whorosity
 date: 2006-03-08 -0800
 comments: true
 disqus_identifier: 12033
 categories: []
+redirect_from: "/archive/2006/03/07/NewWordOfTheDay-Whorosity.aspx/"
 ---
+
 [Kent Sharkey
 comments](http://www.acmebinary.com/blogs/kent/comments/483.aspx "Kent Sharkey's Blog")
 on the necessity of marketing and advertising in general in response to

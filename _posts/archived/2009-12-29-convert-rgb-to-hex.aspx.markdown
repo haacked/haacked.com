@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Converting an RGB Color To Hex With JavaScript"
+title: Converting an RGB Color To Hex With JavaScript
 date: 2009-12-29 -0800
 comments: true
 disqus_identifier: 18672
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2009/12/28/convert-rgb-to-hex.aspx/"
 ---
+
 UPDATE: 12/30 I had transposed the rgb colors. I corrected the function.
 
 I’ve been distracted by a new jQuery plugin that I’m writing. The plugin

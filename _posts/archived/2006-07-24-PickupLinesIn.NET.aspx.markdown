@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Pickup Lines In .NET"
+title: Pickup Lines In .NET
 date: 2006-07-24 -0800
 comments: true
 disqus_identifier: 14142
 categories: []
+redirect_from: "/archive/2006/07/23/PickupLinesIn.NET.aspx/"
 ---
+
 Now this is the ultimate in geekery. [K. Scott
 Allen](http://odetocode.com/Blogs/scott/ "Ode To Code") posts [pickup
 lines in

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "ALT.NET Seattle Day Two"
+title: ALT.NET Seattle Day Two
 date: 2009-03-01 -0800
 comments: true
 disqus_identifier: 18590
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2009/02/28/altnetseattle-day-two.aspx/"
 ---
+
 Day two of ALT.NET is over and I’m already pooped (for you non-English
 speakers, that means tired, not something else that might come to mind).
 

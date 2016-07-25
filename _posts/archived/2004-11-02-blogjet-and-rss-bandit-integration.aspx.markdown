@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "BlogJet and RSS Bandit integration"
+title: BlogJet and RSS Bandit integration
 date: 2004-11-02 -0800
 comments: true
 disqus_identifier: 1548
 categories: []
+redirect_from: "/archive/2004/11/01/blogjet-and-rss-bandit-integration.aspx/"
 ---
+
 There is now a plug-in to use BlogJet to blog items from RSS Bandit. I
 haven't tested it yet, but if the plug-in doesn't do anything specific
 to RSS Bandit, it should be usable by any aggregator that supports the

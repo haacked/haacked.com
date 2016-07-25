@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Keybord Settings in RSS Bandit"
+title: Keybord Settings in RSS Bandit
 date: 2005-12-04 -0800
 comments: true
 disqus_identifier: 11296
 categories: []
+redirect_from: "/archive/2005/12/03/keybord-settings-in-rss-bandit.aspx/"
 ---
+
 I haven’t confirmed this myself, but I believe [Scott when he says
 that](http://www.scottcreynolds.com/PermaLink.aspx?guid=86c13378-d2b2-4e6f-953c-6ae732662775)
 the latest version of [RSS Bandit](http://www.rssbandit.org/) changed

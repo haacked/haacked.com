@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "My Four Tips For Job Seekers"
+title: My Four Tips For Job Seekers
 date: 2004-10-01 -0800
 comments: true
 disqus_identifier: 1294
 categories: []
+redirect_from: "/archive/2004/09/30/my-four-tips-for-job-seekers.aspx/"
 ---
+
 Ok, I just have to take a moment to rant a bit. We’re currently looking
 for some mid-level developers as well as a System Administrator.
 Naturally we posted a job description on

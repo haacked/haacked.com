@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "AddressInfo.cs: Converting State Codes to State Names and Vice Versa"
+title: 'AddressInfo.cs: Converting State Codes to State Names and Vice Versa'
 date: 2005-04-08 -0800
 comments: true
 disqus_identifier: 2599
 categories: []
+redirect_from: "/archive/2005/04/07/addressinfocs-converting-state-codes-to-state-names-and-vice-versa.aspx/"
 ---
+
 I'm feeling a little uninspired to write anything interesting because my
 hands are hurting from the keyboard pounding I've been doing. Instead, I
 thought I'd dig up this really simple (and hopefully useful) AddressInfo

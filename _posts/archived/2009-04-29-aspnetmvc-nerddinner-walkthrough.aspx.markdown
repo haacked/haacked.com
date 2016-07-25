@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "ASP.NET MVC NerdDinner Walkthrough"
+title: ASP.NET MVC NerdDinner Walkthrough
 date: 2009-04-29 -0800
 comments: true
 disqus_identifier: 18613
 categories: []
+redirect_from: "/archive/2009/04/28/aspnetmvc-nerddinner-walkthrough.aspx/"
 ---
+
 [![](http://weblogs.asp.net/blogs/scottgu/bookcover1_6CAECF94.png)](http://www.amazon.com/gp/product/0470384611?ie=UTF8&tag=scoblo04-20&linkCode=xm2&camp=1789&creativeASIN=0470384611)At
 long last, the book that I worked on with [Scott
 Hanselman](http://hanselman.com/ "Scott Hanselman's Blog"), [Rob

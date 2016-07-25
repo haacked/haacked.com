@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Secrets of Product Support"
+title: Secrets of Product Support
 date: 2004-03-03 -0800
 comments: true
 disqus_identifier: 228
 categories: []
+redirect_from: "/archive/2004/03/02/secrets-of-product-support.aspx/"
 ---
+
 Found this gem on Raymond Chen's blog.
 
 > Okay, I'm about to reveal one of the tricks of Product Support. \

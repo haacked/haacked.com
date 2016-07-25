@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "If this port is rocking, don't come a knocking"
+title: If this port is rocking, don't come a knocking
 date: 2004-02-05 -0800
 comments: true
 disqus_identifier: 171
 categories: []
+redirect_from: "/archive/2004/02/04/if-this-port-is-rocking-dont-come-a-knocking.aspx/"
 ---
+
 [\>Port knocking](http://www.portknocking.org/) is a method of
 establishing extra security between a networked computer and the outside
 world. It seems like a great idea. For hosts that are running private

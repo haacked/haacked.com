@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Seattle Code Camp Wrapup"
+title: Seattle Code Camp Wrapup
 date: 2008-01-28 -0800
 comments: true
 disqus_identifier: 18451
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2008/01/27/seattle-code-camp-wrapup.aspx/"
 ---
+
 ![camping](http://haacked.com/images/haacked_com/WindowsLiveWriter/SeattleCodeCampWrapup_B730/202619834_697395adda_b_3.jpg)
 The [Seattle Code Camp](https://seattle.codecamp.us/default.aspx) (which
 despite the misleading photo, isn’t a camping trip) is now over and I

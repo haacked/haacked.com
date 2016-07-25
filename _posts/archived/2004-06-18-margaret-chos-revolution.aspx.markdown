@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Margaret Cho's Revolution"
+title: Margaret Cho's Revolution
 date: 2004-06-18 -0800
 comments: true
 disqus_identifier: 648
 categories: []
+redirect_from: "/archive/2004/06/17/margaret-chos-revolution.aspx/"
 ---
+
 ![Margaret Cho Revolution](/images/Margaret.jpg)We recently saw Margaret
 Cho try out some new material in Claremont. I think she's absolutely
 hilarious and poignant. Some say she relies way too much on her Korean

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Blogging With a Beer And In Pajamas"
+title: Blogging With a Beer And In Pajamas
 date: 2005-03-07 -0800
 comments: true
 disqus_identifier: 2320
 categories: []
+redirect_from: "/archive/2005/03/06/blogging-with-a-beer-and-in-pajamas.aspx/"
 ---
+
 I saw [this
 post](http://customerevangelists.typepad.com/blog/2005/03/im_not_a_man_an.html)
 on [Scoble's Link Blog](http://scobleizer.com/linkblog/)...

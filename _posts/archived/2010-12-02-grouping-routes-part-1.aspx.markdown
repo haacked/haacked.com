@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Grouping Routes Part 1"
+title: Grouping Routes Part 1
 date: 2010-12-02 -0800
 comments: true
 disqus_identifier: 18743
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2010/12/01/grouping-routes-part-1.aspx/"
 ---
+
 UPDATE: 2011/02/13: This code is now included in the
 [RouteMagic](http://haacked.com/archive/2011/01/30/introducing-routemagic.aspx "Introducing RouteMagic")
 NuGet package! To use this code, simply run `Install-Package RouteMagic`

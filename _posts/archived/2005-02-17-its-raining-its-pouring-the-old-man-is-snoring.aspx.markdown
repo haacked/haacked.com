@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "It's Raining, It's Pouring, The Old Man Is Snoring"
+title: It's Raining, It's Pouring, The Old Man Is Snoring
 date: 2005-02-17 -0800
 comments: true
 disqus_identifier: 2154
 categories: []
+redirect_from: "/archive/2005/02/16/its-raining-its-pouring-the-old-man-is-snoring.aspx/"
 ---
+
 It's really coming down out there. On the freeway today I started
 hydroplaning a bit. Be careful out there. I've been pretty quiet on this
 blog due to being very busy. I have some big personal news (no, we're

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Duplication of Efforts Is Not The Problem"
+title: Duplication of Efforts Is Not The Problem
 date: 2007-12-02 -0800
 comments: true
 disqus_identifier: 18429
 categories: []
+redirect_from: "/archive/2007/12/01/duplication-of-efforts-is-not-the-problem.aspx/"
 ---
+
 [Oren Eini](http://www.ayende.com/Blog/ "Ayende"), aka Ayende, writes
 about [his dissatisfaction with
 Microsoft](http://www.ayende.com/Blog/archive/2007/12/03/Reasons-for-caring-Microsoft-amp-OSS.aspx "Reasons for caring: Microsoft and OSS")

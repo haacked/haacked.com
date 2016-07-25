@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Refactoring the Gregorian Calendar"
+title: Refactoring the Gregorian Calendar
 date: 2005-09-20 -0800
 comments: true
 disqus_identifier: 10261
 categories: []
+redirect_from: "/archive/2005/09/19/refactoring-the-gregorian-calendar.aspx/"
 ---
+
 In 1582, the Julian calendar was really starting to show its age. A
 bunch of brains got together and came up with the Gregorian calendar,
 which was received by the general population with a big middle finger in

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ego check..."
+title: Ego check...
 date: 2004-09-03 -0800
 comments: true
 disqus_identifier: 1126
 categories: []
+redirect_from: "/archive/2004/09/02/ego-check.aspx/"
 ---
+
 I think Chris Anderson is totally wrong here. I am currently the
 smartest person in the room. I don't CARE if I'm also the dumbest person
 in the room. He's still wrong. ;)

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Wintellect Site Is Down..."
+title: Wintellect Site Is Down...
 date: 2004-09-22 -0800
 comments: true
 disqus_identifier: 1259
 categories: []
+redirect_from: "/archive/2004/09/21/wintellect-site-is-down.aspx/"
 ---
+
 I doubt [these guys](http://www.wintellect.com/) went out of business,
 but they're site has been unavailable since last evening. Perhaps
 someone bumped into the power switch?

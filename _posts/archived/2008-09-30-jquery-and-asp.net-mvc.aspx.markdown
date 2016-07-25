@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "JQuery and ASP.NET MVC"
+title: JQuery and ASP.NET MVC
 date: 2008-09-30 -0800
 comments: true
 disqus_identifier: 18534
-categories: [personal,asp.net,asp.net mvc]
+categories:
+- personal
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2008/09/29/jquery-and-asp.net-mvc.aspx/"
 ---
+
 Where have I been? ;) You probably heard the news already from the GU
 already, but just in case, we will be shipping [JQuery with Visual
 Studio](http://weblogs.asp.net/scottgu/archive/2008/09/28/jquery-and-microsoft.aspx).

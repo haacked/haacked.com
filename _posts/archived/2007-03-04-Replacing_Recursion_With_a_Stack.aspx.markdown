@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Replacing Recursion With a Stack"
+title: Replacing Recursion With a Stack
 date: 2007-03-04 -0800
 comments: true
 disqus_identifier: 18223
 categories: []
+redirect_from: "/archive/2007/03/03/Replacing_Recursion_With_a_Stack.aspx/"
 ---
+
 ![Stack of
 Paper](http://haacked.com/images/haacked_com/WindowsLiveWriter/ReplacingRecursionWithaStack_124F7/251979_paper_stack10.jpg)In
 [Jeff Atwood’s](http://codinghorror.com/blog/ "Jeff Atwood") infamous

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Subtext Skins Gallery at SubtextSkins.com"
+title: Subtext Skins Gallery at SubtextSkins.com
 date: 2006-08-31 -0800
 comments: true
 disqus_identifier: 16241
 categories: []
+redirect_from: "/archive/2006/08/30/Subtext_Skins_Gallery_at_SubtextSkins.com.aspx/"
 ---
+
 As a follow-up to the recent release of Subtext 1.9, I would also like
 to introduce a little something I put together at
 [http://subtextskins.com/](http://subtextskins.com/ "Subtext Skin Gallery").

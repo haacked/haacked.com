@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Writing Unit Tests For Controller Actions"
+title: Writing Unit Tests For Controller Actions
 date: 2007-12-09 -0800
 comments: true
 disqus_identifier: 18434
-categories: [asp.net,code,asp.net mvc,tdd]
+categories:
+- asp.net
+- code
+- asp.net mvc
+- tdd
+redirect_from: "/archive/2007/12/08/writing-unit-tests-for-controller-actions.aspx/"
 ---
+
 UPDATE: Completely ignore the contents of this post. All of this is
 out-dated. Test specific subclasses are no longer necessary with ASP.NET
 MVC since our [April CodePlex

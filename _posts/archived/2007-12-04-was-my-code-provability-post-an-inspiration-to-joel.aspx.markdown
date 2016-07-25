@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Was My Code Provability Post An Inspiration To Joel?"
+title: Was My Code Provability Post An Inspiration To Joel?
 date: 2007-12-04 -0800
 comments: true
 disqus_identifier: 18430
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2007/12/03/was-my-code-provability-post-an-inspiration-to-joel.aspx/"
 ---
+
 *![Brazil
 Jersey](http://haacked.com/images/haacked_com/WindowsLiveWriter/DidJoelReadMyPostOnCodeProvability_211/BrazilJersey_3.jpg)
 Note that in the same vein as Pele, Ronaldinho and Ronaldo, Joel has

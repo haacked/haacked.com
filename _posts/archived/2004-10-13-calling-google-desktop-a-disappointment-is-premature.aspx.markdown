@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Calling Google Desktop A Disappointment Is Premature"
+title: Calling Google Desktop A Disappointment Is Premature
 date: 2004-10-13 -0800
 comments: true
 disqus_identifier: 1353
 categories: []
+redirect_from: "/archive/2004/10/12/calling-google-desktop-a-disappointment-is-premature.aspx/"
 ---
+
 Dave Winer
 [points](http://archive.scripting.com/2004/10/14#When:9:37:44AM) to a
 [blog posting](http://www.geekfun.com/archives/000409.html) by Erik

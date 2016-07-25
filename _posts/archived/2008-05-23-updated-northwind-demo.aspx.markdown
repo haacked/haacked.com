@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Updated Northwind Demo For ASP.NET MVC Beta"
+title: Updated Northwind Demo For ASP.NET MVC Beta
 date: 2008-05-23 -0800
 comments: true
 disqus_identifier: 18488
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2008/05/22/updated-northwind-demo.aspx/"
 ---
+
 I updated the template to have the correct assembly references so it
 should work now out of the box. Sorry about that.
 

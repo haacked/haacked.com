@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Requirements and Specs Are Always Ambiguous"
+title: Requirements and Specs Are Always Ambiguous
 date: 2007-03-08 -0800
 comments: true
 disqus_identifier: 18233
 categories: []
+redirect_from: "/archive/2007/03/07/Specs_Are_Always_Ambiguous.aspx/"
 ---
+
 UPDATE: As an aside, it would probably be more accurate to say the
 FizzBuzz question is a **Requirement**. So where you read the term
 *Spec*, you can replace it with *Requirement*. Either way, the same

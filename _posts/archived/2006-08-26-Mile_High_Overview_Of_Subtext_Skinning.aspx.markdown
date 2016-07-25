@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Mile High Overview Of Subtext Skinning"
+title: Mile High Overview Of Subtext Skinning
 date: 2006-08-26 -0800
 comments: true
 disqus_identifier: 16091
-categories: [subtext,open source]
+categories:
+- subtext
+- open source
+redirect_from: "/archive/2006/08/25/Mile_High_Overview_Of_Subtext_Skinning.aspx/"
 ---
+
 In my [previous
 post](http://haacked.com/archive/2006/08/26/Subtext_Skinning_Changes.aspx "Subtext Skinning Changes"),
 I outlined some minor changes to the skinning model for Subtext. In this

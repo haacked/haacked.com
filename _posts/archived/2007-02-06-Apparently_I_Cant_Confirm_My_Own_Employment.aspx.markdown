@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Apparently I Can't Confirm My Own Employment"
+title: Apparently I Can't Confirm My Own Employment
 date: 2007-02-06 -0800
 comments: true
 disqus_identifier: 18206
 categories: []
+redirect_from: "/archive/2007/02/05/Apparently_I_Cant_Confirm_My_Own_Employment.aspx/"
 ---
+
 I received a call from a nice lady asking to speak to someone who could
 confirm an employment at [VelocIT](http://veloc-it.com/ "VelocIT").
 

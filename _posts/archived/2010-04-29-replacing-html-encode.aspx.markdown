@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Tip: Replacing Html.Encode Calls With New Html Encoding Syntax"
+title: 'Tip: Replacing Html.Encode Calls With New Html Encoding Syntax'
 date: 2010-04-29 -0800
 comments: true
 disqus_identifier: 18696
-categories: [asp.net mvc,asp.net,code]
+categories:
+- asp.net mvc
+- asp.net
+- code
+redirect_from: "/archive/2010/04/28/replacing-html-encode.aspx/"
 ---
+
 Like the well disciplined secure developer that you are, when you built
 your ASP.NET MVC 1.0 application, you remembered to call `Html.Encode`
 every time you output a value that came from user input. Didn’t you?

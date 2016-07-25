@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Misperceptions of Open Source"
+title: Misperceptions of Open Source
 date: 2006-01-16 -0800
 comments: true
 disqus_identifier: 11521
 categories: []
+redirect_from: "/archive/2006/01/15/MisperceptionsofOpenSource.aspx/"
 ---
+
 Tim Bray writes to [correct
 misperceptions](http://www.tbray.org/ongoing/When/200x/2006/01/16/Open-Source-Community)
 of what “Open Source” is about.

@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Avoid Premature Standardization"
+title: Avoid Premature Standardization
 date: 2013-11-04 -0800
 comments: true
 disqus_identifier: 18904
-categories: [open source,code,github]
+categories:
+- open source
+- code
+- github
+redirect_from: "/archive/2013/11/03/avoid-premature-standardization.aspx/"
 ---
+
 Most developers are aware of the potential pitfalls of premature
 optimization and [premature
 generalization](http://haacked.com/archive/2005/09/18/avoid_premature_generalization.aspx "Avoid Premature Generalization").

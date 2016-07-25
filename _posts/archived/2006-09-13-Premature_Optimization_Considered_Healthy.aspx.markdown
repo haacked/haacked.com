@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Premature Optimization Considered Healthy"
+title: Premature Optimization Considered Healthy
 date: 2006-09-13 -0800
 comments: true
 disqus_identifier: 16528
 categories: []
+redirect_from: "/archive/2006/09/12/Premature_Optimization_Considered_Healthy.aspx/"
 ---
+
 Some computer scientist by the name of [Donald
 Knuth](http://en.wikipedia.org/wiki/Donald_Knuth) once said,
 

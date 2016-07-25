@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Hidden Code Mines"
+title: Hidden Code Mines
 date: 2013-06-17 -0800
 comments: true
 disqus_identifier: 18891
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2013/06/16/hidden-code-mines.aspx/"
 ---
+
 Code is unforgiving. As the reasonable human beings that we are, when we
 review code we both know what the author intends. But computers can’t
 wait to [Well,

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tagging In Subtext"
+title: Tagging In Subtext
 date: 2007-05-11 -0800
 comments: true
 disqus_identifier: 18308
 categories: []
+redirect_from: "/archive/2007/05/10/tagging-in-subtext.aspx/"
 ---
+
 With the [announcement of the 1.9.5
 release](http://haacked.com/archive/2007/05/11/subtext-1.9.5-release.aspx "Subtext 1.9.5 release announcement")
 of Subtext, I thought I should talk about the new tagging and tag cloud

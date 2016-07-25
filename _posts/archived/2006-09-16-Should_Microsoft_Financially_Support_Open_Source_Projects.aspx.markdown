@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Should Microsoft Financially Support Open Source Projects?"
+title: Should Microsoft Financially Support Open Source Projects?
 date: 2006-09-16 -0800
 comments: true
 disqus_identifier: 16713
 categories: []
+redirect_from: "/archive/2006/09/15/Should_Microsoft_Financially_Support_Open_Source_Projects.aspx/"
 ---
+
 UPDATE: I remember that Scott Hanselman proposed that Microsoft put
 [together an organization like
 INETA](http://www.hanselman.com/blog/SandcastleMicrosoftCTPOfAHelpCHMFileGeneratorOnTheTailsOfTheDeathOfNDoc.aspx)

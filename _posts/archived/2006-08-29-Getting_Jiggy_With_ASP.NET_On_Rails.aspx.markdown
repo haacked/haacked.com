@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Getting Jiggy With ASP.NET On Rails"
+title: Getting Jiggy With ASP.NET On Rails
 date: 2006-08-29 -0800
 comments: true
 disqus_identifier: 16150
 categories: []
+redirect_from: "/archive/2006/08/28/Getting_Jiggy_With_ASP.NET_On_Rails.aspx/"
 ---
+
 Update: Rob [renamed his
 project](http://www.wekeroad.com/blogs/PermaLink,guid,7f17b078-d04f-4103-8c23-cee21f31375a.aspx "Renamed to subsonic")
 to Subsonic.

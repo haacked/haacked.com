@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Gmail Bug Sparks Storage Rumors"
+title: Gmail Bug Sparks Storage Rumors
 date: 2004-05-20 -0800
 comments: true
 disqus_identifier: 458
 categories: []
+redirect_from: "/archive/2004/05/19/gmail-bug-sparks-storage-rumors.aspx/"
 ---
+
 Knew it had to be too good to be true. Ignore my previous post.
 
 > Google is not offering users of its Gmail service 1 terabyte of

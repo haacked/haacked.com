@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Dvorak, Keyboard Layout of Champions"
+title: Dvorak, Keyboard Layout of Champions
 date: 2007-06-05 -0800
 comments: true
 disqus_identifier: 18342
 categories: []
+redirect_from: "/archive/2007/06/04/dvorak-keyboard-layout-of-champions.aspx/"
 ---
+
 [![Underwood
 Keyboard](http://haacked.com/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/UnderwoodKeyboard_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/UnderwoodKeyboard.jpg "Underwood Keyboard")One
 thing that never gets old is when someone visits me and asks to

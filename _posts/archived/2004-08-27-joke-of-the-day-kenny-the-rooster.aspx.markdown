@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Joke Of The Day: Kenny the Rooster"
+title: 'Joke Of The Day: Kenny the Rooster'
 date: 2004-08-27 -0800
 comments: true
 disqus_identifier: 982
 categories: []
+redirect_from: "/archive/2004/08/26/joke-of-the-day-kenny-the-rooster.aspx/"
 ---
+
 ![Rooster](/images/rooster.jpg)This farmer has about 500 hens, but no
 rooster, and he wants chicks. So, he goes down the road to the next
 farmer and asks if he has a rooster that he would sell. The other farmer

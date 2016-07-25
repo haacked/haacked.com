@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Clearing A Path In Baghdad With Half-Liter Water Bottles"
+title: Clearing A Path In Baghdad With Half-Liter Water Bottles
 date: 2005-02-08 -0800
 comments: true
 disqus_identifier: 2121
 categories: []
+redirect_from: "/archive/2005/02/07/clearing-a-path-in-baghdad-with-half-liter-water-bottles.aspx/"
 ---
+
 In his latest
 [entry](http://serjak.blogspot.com/2005/02/nothing-happening_09.html)
 about life as a infrastructure reconstruction project manager in

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Live Comment Preview In Three Easy Steps"
+title: Live Comment Preview In Three Easy Steps
 date: 2006-03-13 -0800
 comments: true
 disqus_identifier: 12072
 categories: []
+redirect_from: "/archive/2006/03/12/LiveCommentPreviewInThreeEasySteps.aspx/"
 ---
+
 Several people have complimented the live comment preview used in my
 skin. Try leaving a comment and notice the preview mode underneath. It
 now even supports a few HTML tags. Unfortunately I haven’t updated the

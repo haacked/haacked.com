@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Meet Twiggy"
+title: Meet Twiggy
 date: 2004-09-27 -0800
 comments: true
 disqus_identifier: 1278
 categories: []
+redirect_from: "/archive/2004/09/26/meet-twiggy.aspx/"
 ---
+
 Twiggy is our new Italian Greyhound (not to be confused with a normal
 greyhound). She's around two years old (we don't know for sure) and she
 has a major case of Attention Deficit Disorder. Fully grown, she's only

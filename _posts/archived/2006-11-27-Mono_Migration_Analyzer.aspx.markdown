@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Mono Migration Analyzer"
+title: Mono Migration Analyzer
 date: 2006-11-27 -0800
 comments: true
 disqus_identifier: 18148
 categories: []
+redirect_from: "/archive/2006/11/26/Mono_Migration_Analyzer.aspx/"
 ---
+
 Now this is a stroke of genius.  If you want people to consider making
 their .NET applications work on
 [Mono](http://www.mono-project.com/ "Mono"), **give them a tool that

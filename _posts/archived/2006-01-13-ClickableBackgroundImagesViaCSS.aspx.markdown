@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Clickable Background Images Via CSS"
+title: Clickable Background Images Via CSS
 date: 2006-01-13 -0800
 comments: true
 disqus_identifier: 11489
-categories: [code,css]
+categories:
+- code
+- css
+redirect_from: "/archive/2006/01/12/ClickableBackgroundImagesViaCSS.aspx/"
 ---
+
 On a recent project, my team pursued a CSS based design as we had two
 sites to build that were similar in layout, but different in look and
 feel. We were brought in after the schematics and design had pretty much

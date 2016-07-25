@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "My Third Blog"
+title: My Third Blog
 date: 2006-09-21 -0800
 comments: true
 disqus_identifier: 16979
-categories: [blogging]
+categories:
+- blogging
+redirect_from: "/archive/2006/09/20/My_Third_Blog.aspx/"
 ---
+
 [![Soccer
 Game](http://haacked.com/images/haacked_com/WindowsLiveWriter/MyThirdBlog_A1F6/soccer_defense_thumb1.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MyThirdBlog_A1F6/soccer_defense3.jpg)
 Way back when I announced the [first Roadmap for

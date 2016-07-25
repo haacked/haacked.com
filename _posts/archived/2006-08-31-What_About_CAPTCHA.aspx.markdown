@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "What About CAPTCHA?"
+title: What About CAPTCHA?
 date: 2006-08-31 -0800
 comments: true
 disqus_identifier: 16219
 categories: []
+redirect_from: "/archive/2006/08/30/What_About_CAPTCHA.aspx/"
 ---
+
 I mentioned several heuristic approachs to blocking spam in my recent
 post on [blocking comment
 spam](http://haacked.com/archive/2006/08/29/Comment_Spam_Heuristics.aspx),

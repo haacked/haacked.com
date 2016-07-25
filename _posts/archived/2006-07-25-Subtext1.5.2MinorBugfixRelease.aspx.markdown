@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Subtext 1.5.2 Minor Bugfix Release"
+title: Subtext 1.5.2 Minor Bugfix Release
 date: 2006-07-25 -0800
 comments: true
 disqus_identifier: 14174
 categories: []
+redirect_from: "/archive/2006/07/24/Subtext1.5.2MinorBugfixRelease.aspx/"
 ---
+
 ![Subtext Logo](http://haacked.com/images/SubtextLogo.png) The Subtext
 team is currently furiously working to prepare the Subtext 1.9
 *Daedelus* release for your blogging enjoyment. Subtext 1.9 will run on

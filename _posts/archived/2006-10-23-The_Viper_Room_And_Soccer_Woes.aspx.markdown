@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Viper Room And Soccer Woes"
+title: The Viper Room And Soccer Woes
 date: 2006-10-23 -0800
 comments: true
 disqus_identifier: 18103
 categories: []
+redirect_from: "/archive/2006/10/22/The_Viper_Room_And_Soccer_Woes.aspx/"
 ---
+
 ![The Viper
 Room](http://haacked.com/images/haacked_com/WindowsLiveWriter/TheViperRoom_91DC/ViperRoom%5B13%5D.jpg)Last
 night I went to the “[World Famous Viper

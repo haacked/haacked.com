@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Applying Conway&rsquo;s Law"
+title: Applying Conway&rsquo;s Law
 date: 2013-05-13 -0800
 comments: true
 disqus_identifier: 18889
-categories: [code,open source,github]
+categories:
+- code
+- open source
+- github
+redirect_from: "/archive/2013/05/12/applying-conways-law.aspx/"
 ---
+
 In some recent talks I make a reference to [Conway’s Law](http://en.wikipedia.org/wiki/Conway's_law "Conway's Law") named after [Melvin Conway](http://www.melconway.com/Home/Home.html "Melvin Conway") (not to be confused with British Mathematician [John Horton
 Conway](http://en.wikipedia.org/wiki/John_Horton_Conway "John Horton Conway") famous for [Conway’s Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life "Conway's Game of Life") nor to be confused with [Conway Twitty](http://en.wikipedia.org/wiki/Conway_Twitty "Conway Twitty")) which states:
 

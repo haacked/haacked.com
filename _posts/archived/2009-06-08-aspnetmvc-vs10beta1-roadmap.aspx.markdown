@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "ASP.NET MVC Installer For Visual Studio 2010 Beta 1 And Roadmap"
+title: ASP.NET MVC Installer For Visual Studio 2010 Beta 1 And Roadmap
 date: 2009-06-08 -0800
 comments: true
 disqus_identifier: 18622
 categories: []
+redirect_from: "/archive/2009/06/07/aspnetmvc-vs10beta1-roadmap.aspx/"
 ---
+
 A little while ago I announced our plans for [ASP.NET
 MVC](http://asp.net/mvc "ASP.NET MVC Website") as it relates to Visual
 Studio 2010. ASP.NET MVC wasn’t included as part of Beta 1, which raised

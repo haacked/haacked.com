@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hiking the Paseo Miramar Trail"
+title: Hiking the Paseo Miramar Trail
 date: 2005-03-27 -0800
 comments: true
 disqus_identifier: 2471
 categories: []
+redirect_from: "/archive/2005/03/26/hiking-the-paseo-miramar-trail.aspx/"
 ---
+
 Today Akumi and I hiked the Paseo Miramar trail. To get there, simply
 take the PCH North till you get to Sunset. Take a right onto Sunset, and
 go up a little ways till you see Paseo Miramar on the left. Take it till

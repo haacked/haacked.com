@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Edit Keywords Page Patch"
+title: Edit Keywords Page Patch
 date: 2007-05-11 -0800
 comments: true
 disqus_identifier: 18309
 categories: []
+redirect_from: "/archive/2007/05/10/edit-keywords-page-patch.aspx/"
 ---
+
 If you downloaded [Subtext last
 night](http://haacked.com/archive/2007/05/11/subtext-1.9.5-release.aspx "Subtext Last Night")
 and try to edit keywords in the admin section, you might run into a

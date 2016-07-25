@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Hidden Pitfalls With Object Initializers"
+title: Hidden Pitfalls With Object Initializers
 date: 2013-01-11 -0800
 comments: true
 disqus_identifier: 18881
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2013/01/10/hidden-pitfalls-with-object-initializers.aspx/"
 ---
+
 I love automation. I’m pretty lazy by nature and the more I can offload
 to my little programmatic or robotic helpers the better. I’ll be sad the
 day they become self-aware and decide that it’s payback time and enslave

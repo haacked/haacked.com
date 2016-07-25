@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "VIDEO: Interesting German Car Commercial"
+title: 'VIDEO: Interesting German Car Commercial'
 date: 2004-05-21 -0800
 comments: true
 disqus_identifier: 465
 categories: []
+redirect_from: "/archive/2004/05/20/video-interesting-german-car-commercial.aspx/"
 ---
+
 A coworker sent me this really neat car commercial. It makes really good
 use of soothing subtle sound effects as the car drives around the
 scerene landscape. You may need to turn up your speakers a bit to hear

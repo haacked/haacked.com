@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Picture of the Day - Metro Entrance Bilbao, Spain"
+title: Picture of the Day - Metro Entrance Bilbao, Spain
 date: 2005-12-12 -0800
 comments: true
 disqus_identifier: 11334
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2005/12/11/metro-entrance-bilbao.aspx/"
 ---
+
 If [Joel](http://joelonsoftware.com/) can do it with FogBugz, I can try
 and do it with my blog. That “it” being to post a picture of the day.
 

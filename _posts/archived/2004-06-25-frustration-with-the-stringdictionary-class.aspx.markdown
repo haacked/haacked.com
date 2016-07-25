@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Frustration with the StringDictionary class."
+title: Frustration with the StringDictionary class.
 date: 2004-06-25 -0800
 comments: true
 disqus_identifier: 685
 categories: []
+redirect_from: "/archive/2004/06/24/frustration-with-the-stringdictionary-class.aspx/"
 ---
+
 Today I ran into an annoying nuance of the `StringDictionary` class
 (located in the `System.Collections.Specialized` namespace so as not to
 be confused with the other imposter string dictionaries). It's not a

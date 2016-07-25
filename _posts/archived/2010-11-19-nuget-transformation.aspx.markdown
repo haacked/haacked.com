@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "NuGet Package Transformations"
+title: NuGet Package Transformations
 date: 2010-11-19 -0800
 comments: true
 disqus_identifier: 18737
-categories: [code,nuget,open source]
+categories:
+- code
+- nuget
+- open source
+redirect_from: "/archive/2010/11/18/nuget-transformation.aspx/"
 ---
+
 *Note, this blog post applies to v1.0 of NuGet and the details are
 subject to change in a future version.*
 

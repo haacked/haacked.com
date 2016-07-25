@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Introducing MbUnit.com"
+title: Introducing MbUnit.com
 date: 2006-06-05 -0800
 comments: true
 disqus_identifier: 13145
-categories: [tdd]
+categories:
+- tdd
+redirect_from: "/archive/2006/06/04/IntroducingMBUnit.com.aspx/"
 ---
+
 If you’ve read my blog for any length of time, you know that I am a fan
 of the [MbUnit](http://mbunit.com/ "MbUnit") generative unit test
 framework.

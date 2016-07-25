@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Artificial Deadlines Are The Devils Work"
+title: Artificial Deadlines Are The Devils Work
 date: 2006-03-12 -0800
 comments: true
 disqus_identifier: 12067
 categories: []
+redirect_from: "/archive/2006/03/11/ArtificialDeadlinesAreTheDevilsWork.aspx/"
 ---
+
 ![Artificial Teeth](http://haacked.com/images/artificialTeeth.jpg) In
 [my last
 post](http://haacked.com/archive/2006/03/10/DevelopersAreNotPlugandPlay.aspx "Developers are not plug and play"),

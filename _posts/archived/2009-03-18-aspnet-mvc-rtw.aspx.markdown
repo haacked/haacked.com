@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "ASP.NET MVC 1.0 Released!"
+title: ASP.NET MVC 1.0 Released!
 date: 2009-03-18 -0800
 comments: true
 disqus_identifier: 18598
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2009/03/17/aspnet-mvc-rtw.aspx/"
 ---
+
 ![newdotnetlogo\_2\_thumb](http://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC1.0Released_D6B8/newdotnetlogo_2_thumb_3.png "newdotnetlogo_2_thumb")
 Today I’m happy to write that ASP.NET MVC 1.0 RTW (Release To Web) is
 [**now officially

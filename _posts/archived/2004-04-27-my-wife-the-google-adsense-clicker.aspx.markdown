@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "My wife, the Google AdSense clicker..."
+title: My wife, the Google AdSense clicker...
 date: 2004-04-27 -0800
 comments: true
 disqus_identifier: 380
 categories: []
+redirect_from: "/archive/2004/04/26/my-wife-the-google-adsense-clicker.aspx/"
 ---
+
 If you read my blog in an aggregator, you probably haven't noticed the
 little advertisements at the top of the page. These ads are served from
 Google as part of their [AdSense](https://www.google.com/adsense/)

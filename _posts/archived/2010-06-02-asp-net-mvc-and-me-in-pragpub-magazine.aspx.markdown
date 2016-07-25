@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "ASP.NET MVC and Me in PragPub Magazine"
+title: ASP.NET MVC and Me in PragPub Magazine
 date: 2010-06-02 -0800
 comments: true
 disqus_identifier: 18704
-categories: [asp.net mvc,personal,open source]
+categories:
+- asp.net mvc
+- personal
+- open source
+redirect_from: "/archive/2010/06/01/asp-net-mvc-and-me-in-pragpub-magazine.aspx/"
 ---
+
 The [June
 issue](http://pragprog.com/magazines/2010-06/content "June PragPub HTML")
 (also in

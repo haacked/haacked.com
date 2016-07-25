@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Good Design Minimizes The Impact Of Changes"
+title: Good Design Minimizes The Impact Of Changes
 date: 2006-11-13 -0800
 comments: true
 disqus_identifier: 18136
 categories: []
+redirect_from: "/archive/2006/11/12/Good_Design_Minimizes_The_Impact_Of_Changes.aspx/"
 ---
+
 [![Blue Skies from
 Stock.xchng](http://haacked.com/images/haacked_com/WindowsLiveWriter/GoodDesignMinimizesTheImpactOfChanges_1198/blue_skies_thumb1.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/GoodDesignMinimizesTheImpactOfChanges_1198/blue_skies3.jpg)
 We’ve all been there.  Your project stakeholder stands in your doorway

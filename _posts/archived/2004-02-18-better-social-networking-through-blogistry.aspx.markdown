@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Better Social Networking through Blogistry"
+title: Better Social Networking through Blogistry
 date: 2004-02-18 -0800
 comments: true
 disqus_identifier: 201
 categories: []
+redirect_from: "/archive/2004/02/17/better-social-networking-through-blogistry.aspx/"
 ---
+
 ![agent](/images/agent.jpg)Lately it seems that everybody is playing
 “six-degrees of separation” by sprouting a social networking service.
 Some of the most prominent are

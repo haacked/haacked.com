@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Easily Test Your Code For Multiple Cultures"
+title: Easily Test Your Code For Multiple Cultures
 date: 2007-06-14 -0800
 comments: true
 disqus_identifier: 18351
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2007/06/13/easily-test-your-code-for-multiple-cultures.aspx/"
 ---
+
 [![Globe from the
 stock.xchng](http://haacked.com/images/haacked_com/WindowsLiveWriter/EasilyTestYourCodeForMultipleCultures_1390E/439027_around_the_world_5_1.jpg)](http://www.sxc.hu/photo/439027 "Photo from the stock.xchng")
 Most of the time when I’m testing my code, I only test it using the

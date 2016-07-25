@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "The Subtext Alternative To Url Rewriting"
+title: The Subtext Alternative To Url Rewriting
 date: 2006-02-23 -0800
 comments: true
 disqus_identifier: 11859
-categories: [asp.net,subtext]
+categories:
+- asp.net
+- subtext
+redirect_from: "/archive/2006/02/22/TheSubtextAlternativeToUrlRewriting.aspx/"
 ---
+
 ![Fountain Pen](http://haacked.com/images/fountain_pen.jpg)For simple
 ASP.NET applications that do not employ URL Rewriting, stepping through
 the code that handles a request is fairly straightforward. For example,

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "I Must Be Trustworthy"
+title: I Must Be Trustworthy
 date: 2006-01-11 -0800
 comments: true
 disqus_identifier: 11473
 categories: []
+redirect_from: "/archive/2006/01/10/IMustBeTrustworthy.aspx/"
 ---
+
 ![Link](http://haacked.com/images/link.jpg) Jon Galloway has an
 [interesting
 write-up](http://weblogs.asp.net/jgalloway/archive/2006/01/11/435076.aspx)

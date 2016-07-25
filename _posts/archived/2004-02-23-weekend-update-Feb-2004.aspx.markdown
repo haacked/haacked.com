@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Weekend Update"
+title: Weekend Update
 date: 2004-02-23 -0800
 comments: true
 disqus_identifier: 205
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2004/02/22/weekend-update-Feb-2004.aspx/"
 ---
+
 Let's see. On Friday we went to see a sneak preview of Starsky and
 Hutch. If you liked Zoolander, I think you'll like this. It's not the
 same, but has similar type of humor. It's hard to approach Zoolander in

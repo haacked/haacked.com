@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Bush Not Concerned About Osama"
+title: Bush Not Concerned About Osama
 date: 2004-10-14 -0800
 comments: true
 disqus_identifier: 1356
 categories: []
+redirect_from: "/archive/2004/10/13/bush-not-concerned-about-osama.aspx/"
 ---
+
 Time to get political. I loved how Kerry caught Bush off-guard when he
 pointed out that in 2002, Bush [said he wasn't concerned with
 Osama](http://story.news.yahoo.com/news?tmpl=story2&u=/latimests/bushnotconcernedaboutbinladenin02).

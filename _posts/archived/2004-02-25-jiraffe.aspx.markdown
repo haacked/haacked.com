@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Jiraffe"
+title: Jiraffe
 date: 2004-02-25 -0800
 comments: true
 disqus_identifier: 211
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2004/02/24/jiraffe.aspx/"
 ---
+
 We went on a triple date last night with Walt, Celine, Dan, and Judy to
 eat at Jiraffe. They are having some sort of Monday prefixe special.
 Unfortunately, a lot of French food has egg product in it to give it an

@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Unit Test Web Code Without A Web Server Using HttpSimulator"
+title: Unit Test Web Code Without A Web Server Using HttpSimulator
 date: 2007-06-19 -0800
 comments: true
 disqus_identifier: 18356
-categories: [asp.net,tdd]
+categories:
+- asp.net
+- tdd
+redirect_from: "/archive/2007/06/18/unit-tests-web-code-without-a-web-server-using-httpsimulator.aspx/"
 ---
+
 Testing code written for the web is challenging. Especially code that makes use of the ASP.NET intrinsic objects such as the `HttpRequest` object. **My goal is to make testing such code easier**.
 
 [![Spider Web (c) FreeFoto.com](http://haacked.com/images/haacked_com/WindowsLiveWriter/WriteUnitTestsForTheWebWithoutAWebServer_13D45/01_17_8---Spiders-Web_web_1.jpg)](http://www.freefoto.com/preview/01-17-8?ffid=01-17-8 "Spider Web (c) FreeFoto.com")

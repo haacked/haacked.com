@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Back from Alaska With A New Release of Subtext"
+title: Back from Alaska With A New Release of Subtext
 date: 2010-06-27 -0800
 comments: true
 disqus_identifier: 18710
-categories: [subtext,personal]
+categories:
+- subtext
+- personal
+redirect_from: "/archive/2010/06/26/back-from-alaska.aspx/"
 ---
+
 My son and I returned from a week long vacation to visit my parents in
 Anchorage Alaska last night. Apparently, having the boys out of the
 house was quite the vacation for my wife as well. :)

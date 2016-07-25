@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Star Trek Sexadventure"
+title: Star Trek Sexadventure
 date: 2006-12-08 -0800
 comments: true
 disqus_identifier: 18160
 categories: []
+redirect_from: "/archive/2006/12/07/Star_Trek_Sexadventure.aspx/"
 ---
+
 Just thought I would highlight something I mentioned in [my last
 post](http://haacked.com/archive/2006/12/08/Look_Both_Ways_Before_You_Lock.aspx "In my last post")
 because I thought it was particularly funny. I wrote about joys using

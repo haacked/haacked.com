@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "See! The Monkeys Are Trying To Take Over. But Luckily There Is Help."
+title: See! The Monkeys Are Trying To Take Over. But Luckily There Is Help.
 date: 2006-08-06 -0800
 comments: true
 disqus_identifier: 14685
 categories: []
+redirect_from: "/archive/2006/08/05/SeeTheMonkeysAreTryingToTakeOver.ButLuckilyThereIsHelp.aspx/"
 ---
+
 ![The Evil Monkey In Chris's
 Closet](http://haacked.com/images/evilmonkeyinchriscloset.jpg) This
 [story from Boing

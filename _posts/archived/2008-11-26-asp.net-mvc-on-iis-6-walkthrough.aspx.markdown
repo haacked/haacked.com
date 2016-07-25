@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "ASP.NET MVC on IIS 6 Walkthrough"
+title: ASP.NET MVC on IIS 6 Walkthrough
 date: 2008-11-26 -0800
 comments: true
 disqus_identifier: 18559
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2008/11/25/asp.net-mvc-on-iis-6-walkthrough.aspx/"
 ---
+
 UPDATE: If you run ASP.NET MVC on IIS 6 with *ASP.NET 4*, setting up
 extensionless URLs [just got
 easier](http://haacked.com/archive/2010/12/22/asp-net-mvc-3-extensionless-urls-on-iis-6.aspx "IIS 6 and ASP.NET MVC on ASP.NET 4").

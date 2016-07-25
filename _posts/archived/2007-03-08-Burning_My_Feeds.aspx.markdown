@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Burning My Feeds"
+title: Burning My Feeds
 date: 2007-03-08 -0800
 comments: true
 disqus_identifier: 18230
 categories: []
+redirect_from: "/archive/2007/03/07/Burning_My_Feeds.aspx/"
 ---
+
 UPDATE: You can now subscribe to my feed [via
 email](http://www.feedburner.com/fb/a/emailverifySubmit?feedId=527603 "subscribe via email").
 This is a service offering from Feedburner. Sweet!

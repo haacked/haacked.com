@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Subtext 2.1.1 Available Via the Web Platform Installer"
+title: Subtext 2.1.1 Available Via the Web Platform Installer
 date: 2009-03-18 -0800
 comments: true
 disqus_identifier: 18599
 categories: []
+redirect_from: "/archive/2009/03/17/subtext-in-the-web-pi.aspx/"
 ---
+
 ![subtext200x200](http://haacked.com/images/haacked_com/WindowsLiveWriter/Sub.1AvailableViatheWebPlatformInstaller_DD87/subtext200x200_3.png "subtext200x200")One
 of the cool products that I’m personally excited about announced at Mix
 is the updated Web Platform Installer.

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Another Attempt To Reduce Comment Span"
+title: Another Attempt To Reduce Comment Span
 date: 2004-07-02 -0800
 comments: true
 disqus_identifier: 768
 categories: []
+redirect_from: "/archive/2004/07/01/another-attempt-to-reduce-comment-span.aspx/"
 ---
+
 ![Spam](/images/spam.jpg)A little while back, I had a [few
 ideas](http://haacked.com/archive/2004/06/05/529.aspx) about how to
 combat comment spam. My ideas were more geared towards a trust-based

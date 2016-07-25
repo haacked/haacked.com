@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "FUNNY: Alternate word meanings..."
+title: 'FUNNY: Alternate word meanings...'
 date: 2004-10-20 -0800
 comments: true
 disqus_identifier: 1428
-categories: [humor]
+categories:
+- humor
+redirect_from: "/archive/2004/10/19/funny-alternate-word-meanings.aspx/"
 ---
+
 My friend Michael who lives in London for now sent me this.
 
 Once again, The Washington Post published its yearly contest in which

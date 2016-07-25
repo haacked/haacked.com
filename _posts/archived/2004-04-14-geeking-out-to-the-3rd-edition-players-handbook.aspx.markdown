@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Geeking out to the 3rd edition Player's Handbook."
+title: Geeking out to the 3rd edition Player's Handbook.
 date: 2004-04-14 -0800
 comments: true
 disqus_identifier: 318
 categories: []
+redirect_from: "/archive/2004/04/13/geeking-out-to-the-3rd-edition-players-handbook.aspx/"
 ---
+
 ![](/images/PlayersHandbook.jpg) DISCLAIMER: When I say Player's
 handbook, I'm not talking about a "Playa's Handbook". The book I am
 referencing is absolutely the WRONG thing to read if you want to pick up

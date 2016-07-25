@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Someone Is Using My Credit Card"
+title: Someone Is Using My Credit Card
 date: 2005-03-16 -0800
 comments: true
 disqus_identifier: 2395
 categories: []
+redirect_from: "/archive/2005/03/15/someone-is-using-my-credit-card.aspx/"
 ---
+
 ![Crook](/images/crook.jpg) Apparently someone went on an online
 shopping spree with our credit card number. Fortunately the Bank of
 America protection kicked in before they could do too much damage and we

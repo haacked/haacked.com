@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "New Edition Of Code Complete"
+title: New Edition Of Code Complete
 date: 2004-04-16 -0800
 comments: true
 disqus_identifier: 331
 categories: []
+redirect_from: "/archive/2004/04/15/new-edition-of-code-complete.aspx/"
 ---
+
 ![Code Complete 2](/images/CodeComplete2.jpg)*Code Complete* by Steve
 McConnell was the first programming book that had me glued to its pages
 as one would read a page turner thrilling novel. I couldn't put it down.

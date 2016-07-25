@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hoping To Avoid Comment Spam..."
+title: Hoping To Avoid Comment Spam...
 date: 2004-06-05 -0800
 comments: true
 disqus_identifier: 533
 categories: []
+redirect_from: "/archive/2004/06/04/hoping-to-avoid-comment-spam.aspx/"
 ---
+
 See, this is exactly the type of comment spam I'm hoping to avoid.
 
 > Harrrrrr... shoulder of pork and ham!!! \$4 dollars at the

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Software Project Management Lessons From Open Source"
+title: Software Project Management Lessons From Open Source
 date: 2006-03-03 -0800
 comments: true
 disqus_identifier: 11961
 categories: []
+redirect_from: "/archive/2006/03/02/SoftwareProjectManagementLessonsFromOpenSource.aspx/"
 ---
+
 [Via
 Slashdot](http://rss.slashdot.org/slashdot/eqWf?m=3999 "Slashdot Post"),
 I recently read an article entitled [What Corporate Projects Should

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Dogfooding My Blog"
+title: Dogfooding My Blog
 date: 2006-10-12 -0800
 comments: true
 disqus_identifier: 18088
 categories: []
+redirect_from: "/archive/2006/10/11/Dogfooding_My_Blog.aspx/"
 ---
+
 Just upgraded my blog to the latest version of Subtext in the Subversion
 1.9 branch, not that you needed to know that. I just appreciate you
 letting me know if you run into problems leaving a comment and such by

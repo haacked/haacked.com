@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Unit Tests Do Cost More To Write..."
+title: Unit Tests Do Cost More To Write...
 date: 2005-12-06 -0800
 comments: true
 disqus_identifier: 11302
 categories: []
+redirect_from: "/archive/2005/12/05/unit-tests-cost-more-to-write.aspx/"
 ---
+
 One common objection I hear to TDD and writing unit tests is that it
 creates a lot of extra work to develop software. And this is true, but
 it does not give a complete picture. TDD and writing and maintaining

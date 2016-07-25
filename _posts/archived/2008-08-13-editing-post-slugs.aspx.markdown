@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Better URLs With Subtext and Windows Live Writer"
+title: Better URLs With Subtext and Windows Live Writer
 date: 2008-08-13 -0800
 comments: true
 disqus_identifier: 18521
-categories: [subtext]
+categories:
+- subtext
+redirect_from: "/archive/2008/08/12/editing-post-slugs.aspx/"
 ---
+
 One feature of Windows Live Writer that Subtext supports is the ability
 to edit your post slug? What is the URL slug associated with a blog
 post? What is the URL slug?

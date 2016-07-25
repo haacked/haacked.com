@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Why Should I Care About The Wire Format In SOAP?"
+title: Why Should I Care About The Wire Format In SOAP?
 date: 2004-07-23 -0800
 comments: true
 disqus_identifier: 842
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2004/07/22/why-should-i-care-about-the-wire-format-in-soap.aspx/"
 ---
+
 ![Soap](/images/soap.jpg)In this
 [post](http://pluralsight.com/blogs/tewald/archive/2004/06/29/460.aspx),
 Tim Ewald talks about using Doc/Literal/Bare for your web service. There

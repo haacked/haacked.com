@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "First Wi-Fi theft Case Prosecuted"
+title: First Wi-Fi theft Case Prosecuted
 date: 2005-07-06 -0800
 comments: true
 disqus_identifier: 7668
 categories: []
+redirect_from: "/archive/2005/07/05/first-wi-fi-theft-case-prosecuted.aspx/"
 ---
+
 [Walt
 highlights](http://spaces.msn.com/members/waltimate/Blog/cns!1pCvw_V_FwCgTXneX4GXlXLw!381.entry)
 the [first reported case of prosecution for Wi-Fi

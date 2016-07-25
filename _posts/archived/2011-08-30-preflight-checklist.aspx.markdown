@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Preflight Checklist"
+title: Preflight Checklist
 date: 2011-08-30 -0800
 comments: true
 disqus_identifier: 18812
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2011/08/29/preflight-checklist.aspx/"
 ---
+
 I had a dry run today for an upcoming presentation that did not go quite
 as well as I would like, though I completely expected this as I was
 unprepared. The good news is, it was a *dry run* and not the real thing,

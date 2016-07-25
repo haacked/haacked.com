@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "ASP.NET MVC In The Clouds"
+title: ASP.NET MVC In The Clouds
 date: 2008-11-14 -0800
 comments: true
 disqus_identifier: 18554
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2008/11/13/asp.net-mvc-in-the-clouds.aspx/"
 ---
+
 Quick question? What’s higher than a kite?
 
 No, it’s not me nor [Cheech and

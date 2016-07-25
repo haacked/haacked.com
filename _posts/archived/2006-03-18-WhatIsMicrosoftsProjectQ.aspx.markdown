@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "What Is Microsoft's Project Q?"
+title: What Is Microsoft's Project Q?
 date: 2006-03-18 -0800
 comments: true
 disqus_identifier: 12102
 categories: []
+redirect_from: "/archive/2006/03/17/WhatIsMicrosoftsProjectQ.aspx/"
 ---
+
 ![Anyon Braid Illustation](http://haacked.com/images/AnyonBraid.jpg)
 Scientific American has a fascinating article this month on *Computing
 with Quantum Knots*. In particular, it focuses on using topological

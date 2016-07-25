@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "ASP.NET 4 Web Server Here Shell Extension"
+title: ASP.NET 4 Web Server Here Shell Extension
 date: 2009-10-27 -0800
 comments: true
 disqus_identifier: 18652
-categories: [asp.net]
+categories:
+- asp.net
+redirect_from: "/archive/2009/10/26/aspnet4-webserver-here-shell-extension.aspx/"
 ---
+
 Have you ever needed to quickly spawn a web server against a local
 folder to preview a web application? If not, [what would you say you do
 here](http://www.youtube.com/watch?v=iKa68kWkP48&feature=related "What would you say, you do here?")?

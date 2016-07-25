@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Double Check Locking and Other Premature Optimizations Can Shoot You In The Foot"
+title: Double Check Locking and Other Premature Optimizations Can Shoot You In The
+  Foot
 date: 2007-03-19 -0800
 comments: true
 disqus_identifier: 18254
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2007/03/18/double-check-locking-and-other-premature-optimizations-can-shoot-you.aspx/"
 ---
+
 ![Lock](http://haacked.com/images/haacked_com/WindowsLiveWriter/AvoidDoubleCheckLockingForSingletons_EBC6/736837_combination_lock7.jpg)
 After reading Scott Hanselman’s post on [Managed
 Snobism](http://www.hanselman.com/blog/ManagedSnobism.aspx "Managed Snobism")

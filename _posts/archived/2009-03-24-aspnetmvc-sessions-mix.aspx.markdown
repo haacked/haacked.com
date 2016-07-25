@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "ASP.NET MVC Sessions At Mix"
+title: ASP.NET MVC Sessions At Mix
 date: 2009-03-24 -0800
 comments: true
 disqus_identifier: 18601
-categories: [asp.net mvc]
+categories:
+- asp.net mvc
+redirect_from: "/archive/2009/03/23/aspnetmvc-sessions-mix.aspx/"
 ---
+
 After my critical post of the Mix website, I found this other site,
 [http://sessions.visitmix.com/](http://sessions.visitmix.com/), which
 should have been prominently linked to from the main site because it has

@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Tiny Trick For ViewState Backed Properties"
+title: Tiny Trick For ViewState Backed Properties
 date: 2006-08-07 -0800
 comments: true
 disqus_identifier: 14705
-categories: [aspnet]
+categories:
+- aspnet
+redirect_from:
+- "/archive/2006/08/06/tinytrickforviewstatebackedproperties.aspx/"
+- "/archive/2006/08/07/TinyTrickForViewStateBackedProperties.aspx/"
 ---
+
 This might be almost too obvious for many of you, but I thought I’d
 share it anyways. Back in the day, this was the typical code I would
 write for a value type property of an ASP.NET `Control` that was backed

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Windows Live Writer First Impression"
+title: Windows Live Writer First Impression
 date: 2006-08-14 -0800
 comments: true
 disqus_identifier: 14943
 categories: []
+redirect_from: "/archive/2006/08/13/WindowsLiveWriterFirstImpression.aspx/"
 ---
+
 There is a lot of
 [buzz](http://www.hanselman.com/blog/WindowsLiveWriterAndDasBlog19.aspx "Windows Live Writer and DasBlog 1.9")
 [around](http://dbvt.com/blog/archive/2006/08/14/5084.aspx "A quick tour")

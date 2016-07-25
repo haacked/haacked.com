@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "StackOverflow at PDC"
+title: StackOverflow at PDC
 date: 2008-09-15 -0800
 comments: true
 disqus_identifier: 18531
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2008/09/14/stackoverflow-at-pdc.aspx/"
 ---
+
 ![pdc2008](http://haacked.com/images/haacked_com/WindowsLiveWriter/StackOverflowatPDC_EC4F/pdc2008_3.jpg "pdc2008")
 First of all, I want to congratulate [Jeff
 Atwood](http://codinghorror.com/ "CodingHorror blog"), [Joel

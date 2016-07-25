@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "C# Razor Syntax Quick Reference"
+title: C# Razor Syntax Quick Reference
 date: 2011-01-06 -0800
 comments: true
 disqus_identifier: 18753
-categories: [asp.net mvc,asp.net,code]
+categories:
+- asp.net mvc
+- asp.net
+- code
+redirect_from: "/archive/2011/01/05/razor-syntax-quick-reference.aspx/"
 ---
+
 I gave a presentation to another team at Microsoft yesterday on ASP.NET MVC and the Razor view engine and someone asked if there was a reference for the Razor syntax.
 
 It turns out, there is a pretty [good guide about Razor](http://www.asp.net/webmatrix/tutorials/2-introduction-to-asp-net-web-programming-using-the-razor-syntax "Razor Guide") available, but it’s focused on covering the basics of web programming using Razor and inline pages and not just the Razor syntax.

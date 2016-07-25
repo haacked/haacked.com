@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ideas To Reduce Comment Spam"
+title: Ideas To Reduce Comment Spam
 date: 2004-06-04 -0800
 comments: true
 disqus_identifier: 529
 categories: []
+redirect_from: "/archive/2004/06/03/ideas-to-reduce-comment-spam.aspx/"
 ---
+
 In an email to [Ian Griffiths](http://www.interact-sw.co.uk/iangblog/) I
 mentioned that I wished he had a comments section because some of his
 posts are so intriguing I have to reply. ;) His reply relayed a common

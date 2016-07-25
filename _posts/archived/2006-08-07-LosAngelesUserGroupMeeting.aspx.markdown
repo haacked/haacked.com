@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Los Angeles User Group Meeting"
+title: Los Angeles User Group Meeting
 date: 2006-08-07 -0800
 comments: true
 disqus_identifier: 14755
 categories: []
+redirect_from: "/archive/2006/08/06/LosAngelesUserGroupMeeting.aspx/"
 ---
+
 Tonight I attended our local [Los Angeles .NET Developers
 Group](http://www.ladotnet.org/ "Los Angeles .NET Developers Group")
 meeting for the first time in years. I pretty much never go to these

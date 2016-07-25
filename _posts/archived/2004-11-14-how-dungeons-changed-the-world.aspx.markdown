@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "How 'Dungeons' changed the world"
+title: How 'Dungeons' changed the world
 date: 2004-11-14 -0800
 comments: true
 disqus_identifier: 1614
 categories: []
+redirect_from: "/archive/2004/11/13/how-dungeons-changed-the-world.aspx/"
 ---
+
 ![AD&D](/images/ADAndD.jpg) I'll come out of the closet and admit that I
 used to play this game with an almost fanatic interest. My first
 exposure to the game was in Spain when several other military brats in

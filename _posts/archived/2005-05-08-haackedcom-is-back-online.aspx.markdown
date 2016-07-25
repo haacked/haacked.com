@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Haacked.com Is Back Online"
+title: Haacked.com Is Back Online
 date: 2005-05-08 -0800
 comments: true
 disqus_identifier: 3076
 categories: []
+redirect_from: "/archive/2005/05/07/haackedcom-is-back-online.aspx/"
 ---
+
 If there's one thing I've learned as a professional developer, it is
 that "TIP" is bad. Never Test In Production! Unfortunately in my case,
 it was past midnight, I was tired, and I had two query analyzer windows

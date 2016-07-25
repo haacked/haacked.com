@@ -1,11 +1,18 @@
 ---
 layout: post
-title: "Professional ASP.NET MVC 3 is available!"
+title: Professional ASP.NET MVC 3 is available!
 date: 2011-08-07 -0800
 comments: true
 disqus_identifier: 18805
-categories: [asp.net,asp.net mvc,personal,tech,code]
+categories:
+- asp.net
+- asp.net mvc
+- personal
+- tech
+- code
+redirect_from: "/archive/2011/08/06/professional-aspnetmvc3.aspx/"
 ---
+
 I hate code samples in technical books! No seriously, this is bile I’m
 not afraid to [give a
 permalink](http://www.hanselman.com/blog/DontGiveBileAPermalinkFindingBalanceWithinTheNoAssholeRule.aspx "Don't give bile a permalink")

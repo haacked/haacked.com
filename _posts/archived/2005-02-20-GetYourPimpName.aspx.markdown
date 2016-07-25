@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Get Your Pimp Name Playah!"
+title: Get Your Pimp Name Playah!
 date: 2005-02-20 -0800
 comments: true
 disqus_identifier: 2165
 categories: []
+redirect_from: "/archive/2005/02/19/GetYourPimpName.aspx/"
 ---
+
 ![](/images/PimpName.gif) My friends are always looking out for me.
 Apparently Tre (aka Macktastic Tre Flava) realized that as an elevated
 player, I was in dire need of a pimp name. So he helpfully sent me a

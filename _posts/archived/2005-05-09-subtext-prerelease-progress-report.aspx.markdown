@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Subtext Progress Report"
+title: Subtext Progress Report
 date: 2005-05-09 -0800
 comments: true
 disqus_identifier: 3120
-categories: [subtext]
+categories:
+- subtext
+redirect_from: "/archive/2005/05/08/subtext-prerelease-progress-report.aspx/"
 ---
+
 ![Subtext Logo](/images/header_logo.gif) For the past several days, I’ve
 been consumed with working on the [Subtext blogging
 engine](http://haacked.com/archive/2005/05/04/2953.aspx) (not to be

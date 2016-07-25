@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "T-SQL Quiz - Dealing With Trends"
+title: T-SQL Quiz - Dealing With Trends
 date: 2007-04-09 -0800
 comments: true
 disqus_identifier: 18275
-categories: [code,sql]
+categories:
+- code
+- sql
+redirect_from: "/archive/2007/04/08/t-sql-quiz---dealing-with-trends.aspx/"
 ---
+
 I’m not one to post a lot of quizzes on my blog. Let’s face it, while we
 may create altruistic reasons for posting quizzes such as:
 

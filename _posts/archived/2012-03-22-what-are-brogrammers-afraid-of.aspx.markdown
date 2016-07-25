@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "What Are Brogrammers Afraid Of?"
+title: What Are Brogrammers Afraid Of?
 date: 2012-03-22 -0800
 comments: true
 disqus_identifier: 18853
-categories: [code,personal,open source]
+categories:
+- code
+- personal
+- open source
+redirect_from: "/archive/2012/03/21/what-are-brogrammers-afraid-of.aspx/"
 ---
+
 *Disclaimer: these opinions are my own and don’t necessarily represent
 the opinion of any person or institution who are not me.*
 

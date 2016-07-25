@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "A Sordid Little Tale Of Unexpected Security Exceptions"
+title: A Sordid Little Tale Of Unexpected Security Exceptions
 date: 2010-11-04 -0800
 comments: true
 disqus_identifier: 18733
-categories: [code,asp.net]
+categories:
+- code
+- asp.net
+redirect_from: "/archive/2010/11/03/assembly-location-and-medium-trust.aspx/"
 ---
+
 It was a dark and stormy coding session; the rain fell in torrents as my
 eyes were locked to two LCD screens in a furious display of coding …
 

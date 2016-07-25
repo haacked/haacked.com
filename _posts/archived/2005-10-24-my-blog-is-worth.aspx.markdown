@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "My Blog Is Worth..."
+title: My Blog Is Worth...
 date: 2005-10-24 -0800
 comments: true
 disqus_identifier: 11000
 categories: []
+redirect_from: "/archive/2005/10/23/my-blog-is-worth.aspx/"
 ---
+
 Welcome to the new pissing contest.
 
 > Oh my, I couldn’t possible link to *that* blog. It’s only worth half

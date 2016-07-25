@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "What A Difference A Revision Makes - IConfigMapPath Is Inaccessible Due To Its Protection Level"
+title: What A Difference A Revision Makes - IConfigMapPath Is Inaccessible Due To
+  Its Protection Level
 date: 2007-06-20 -0800
 comments: true
 disqus_identifier: 18357
 categories: []
+redirect_from: "/archive/2007/06/19/what-a-difference-a-revision-makes---iconfigmappath-is-inaccessible.aspx/"
 ---
+
 A few people mentioned that they had the following compiler error when
 trying to compile
 [HttpSimulator](http://haacked.com/archive/2007/06/19/unit-tests-web-code-without-a-web-server-using-httpsimulator.aspx "Unit Test Web Code Without A Web Server Using HttpSimulator"):

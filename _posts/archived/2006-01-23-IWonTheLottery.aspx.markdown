@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "I Won The Lottery!"
+title: I Won The Lottery!
 date: 2006-01-23 -0800
 comments: true
 disqus_identifier: 11569
 categories: []
+redirect_from: "/archive/2006/01/22/IWonTheLottery.aspx/"
 ---
+
 Well today completes my 31^st^ trip around the Sun and what a Birthday
 weekend it has been! Every now and then I like to buy a Super Lotto
 ticket just for the fun of it. I have a solid understanding of math (I

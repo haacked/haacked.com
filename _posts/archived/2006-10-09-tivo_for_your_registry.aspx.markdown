@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tivo For Your Registry"
+title: Tivo For Your Registry
 date: 2006-10-09 -0800
 comments: true
 disqus_identifier: 17922
 categories: []
+redirect_from: "/archive/2006/10/08/tivo_for_your_registry.aspx/"
 ---
+
 ![Tivo
 Icon](http://haacked.com/images/haacked_com/WindowsLiveWriter/TivoForYourRegistry_A88C/tivo%5B6%5D.jpg)
 Ever prolific [Jon

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "A Fright on Mt Si"
+title: A Fright on Mt Si
 date: 2009-05-24 -0800
 comments: true
 disqus_identifier: 18619
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2009/05/23/panic-mt-si.aspx/"
 ---
+
 Being that it’s a glorious Memorial Day Weekend up here in the
 Northwest, my [co-worker
 Eilon](http://weblogs.asp.net/leftslipper/ "Eilon") (developer lead for

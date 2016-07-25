@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Subtext 1.5 Nautilus R and R Edition Released!"
+title: Subtext 1.5 Nautilus R and R Edition Released!
 date: 2006-06-07 -0800
 comments: true
 disqus_identifier: 13182
 categories: []
+redirect_from: "/archive/2006/06/06/Subtext1.5NautilusRAndREditionReleased.aspx/"
 ---
+
 IMPORTANT UPDATE: There was a security bug in Subtext 1.5 for multiblog
 setups that will allow the admin of one blog to login to another blog.
 If you are only using a single blog setup, you have nothing to worry

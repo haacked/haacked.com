@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Smoggy Day"
+title: Smoggy Day
 date: 2004-09-23 -0800
 comments: true
 disqus_identifier: 1264
 categories: []
+redirect_from: "/archive/2004/09/22/smoggy-day.aspx/"
 ---
+
 My office is 17 floors up with a nice view towards the Pacific. The
 ocean is a few miles away, so all I see is a sliver of blue on a clear
 day.

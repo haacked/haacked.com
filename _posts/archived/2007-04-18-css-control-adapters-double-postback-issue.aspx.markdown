@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "CSS Control Adapters Double PostBack Issue"
+title: CSS Control Adapters Double PostBack Issue
 date: 2007-04-18 -0800
 comments: true
 disqus_identifier: 18286
 categories: []
+redirect_from: "/archive/2007/04/17/css-control-adapters-double-postback-issue.aspx/"
 ---
+
 My Coworker (and
 [Subtext](http://subtextproject.com/ "Subtext Project Website")
 co-admin) [Steve

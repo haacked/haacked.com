@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Faster than Einstein"
+title: Faster than Einstein
 date: 2005-11-07 -0800
 comments: true
 disqus_identifier: 11154
 categories: []
+redirect_from: "/archive/2005/11/06/faster-than-einstein.aspx/"
 ---
+
 Ingo Rammer [writes about the theoretical
 limit](http://blogs.thinktecture.com/ingo/comments/414304.aspx) to
 reducing latency. Since 1994, we’ve reduced latency by 10 times, but

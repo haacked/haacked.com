@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "We&rsquo;re Not Paid To Write Code"
+title: We&rsquo;re Not Paid To Write Code
 date: 2010-08-26 -0800
 comments: true
 disqus_identifier: 18718
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2010/08/25/not-paid-to-write-code.aspx/"
 ---
+
 On Twitter yesterday I made the [following
 comment](http://twitter.com/haacked/status/22118616918 "Comment on Twitter"):
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Only Universal Language In Software Is English"
+title: The Only Universal Language In Software Is English
 date: 2007-05-28 -0800
 comments: true
 disqus_identifier: 18332
 categories: []
+redirect_from: "/archive/2007/05/27/the-only-universal-language-in-software-is-english.aspx/"
 ---
+
 In a [recent
 post](http://haacked.com/archive/2007/05/24/ruby-like-syntax-in-c-3.0.aspx "Ruby Like syntaxt in C# 3.0"),
 I compared the expressiveness of the Ruby style of writing code to the

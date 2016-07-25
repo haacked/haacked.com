@@ -1,4 +1,0 @@
----
-date: 2009-11-16 -0800
-redirect_to: /archive/2009/11/17/asp.net-mvc-2-beta-released.aspx/
----

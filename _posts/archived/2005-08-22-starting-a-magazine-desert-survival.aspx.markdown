@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Starting a Magazine: Desert Survival"
+title: 'Starting a Magazine: Desert Survival'
 date: 2005-08-22 -0800
 comments: true
 disqus_identifier: 9634
 categories: []
+redirect_from: "/archive/2005/08/21/starting-a-magazine-desert-survival.aspx/"
 ---
+
 Well I’ve decided to start a new magazine called *Desert Survival*.
 Check out the inaugural issue.
 

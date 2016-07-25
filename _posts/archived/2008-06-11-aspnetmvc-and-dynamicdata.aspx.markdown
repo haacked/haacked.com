@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "ASP.NET MVC And Dynamic Data Learn To Play Well Together"
+title: ASP.NET MVC And Dynamic Data Learn To Play Well Together
 date: 2008-06-11 -0800
 comments: true
 disqus_identifier: 18490
-categories: [asp.net mvc,code,asp.net]
+categories:
+- asp.net mvc
+- code
+- asp.net
+redirect_from: "/archive/2008/06/10/aspnetmvc-and-dynamicdata.aspx/"
 ---
+
 My compadre [Scott
 Hunter](http://blogs.msdn.com/scothu/ "Scott Hunter's Blog"), another PM
 on the ASP.NET team, who happens to work on the Dynamic Data feature,

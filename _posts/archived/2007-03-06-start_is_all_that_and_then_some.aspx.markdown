@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Start++ Is All That And Then Some"
+title: Start++ Is All That And Then Some
 date: 2007-03-06 -0800
 comments: true
 disqus_identifier: 18224
 categories: []
+redirect_from: "/archive/2007/03/05/start_is_all_that_and_then_some.aspx/"
 ---
+
 Update: I have an even better startlet for stopping and starting
 services in my comments.
 

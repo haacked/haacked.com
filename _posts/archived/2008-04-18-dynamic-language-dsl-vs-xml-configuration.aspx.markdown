@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Dynamic Language DSL vs Xml Configuration"
+title: Dynamic Language DSL vs Xml Configuration
 date: 2008-04-18 -0800
 comments: true
 disqus_identifier: 18477
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2008/04/17/dynamic-language-dsl-vs-xml-configuration.aspx/"
 ---
+
 *Disclaimer: My opinions only, not anyone else’s. Nothing official here.
 I shouldn’t have to say this, but past history suggests I should. P.S.
 I’m not an expert on DSLs and Dynamic Languages ;)*

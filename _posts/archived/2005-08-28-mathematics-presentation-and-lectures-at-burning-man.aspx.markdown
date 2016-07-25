@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Mathematics Presentation and Lectures at Burning Man"
+title: Mathematics Presentation and Lectures at Burning Man
 date: 2005-08-28 -0800
 comments: true
 disqus_identifier: 9727
 categories: []
+redirect_from: "/archive/2005/08/27/mathematics-presentation-and-lectures-at-burning-man.aspx/"
 ---
+
 As many of you know, I will be heading to [Burning
 Man](http://www.burningman.com/) this weekend. That’ll put a crimp in my
 blogging for a week since I won’t be bringing my tablet to the playa.

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "CSRF Attacks and Web Forms"
+title: CSRF Attacks and Web Forms
 date: 2009-04-02 -0800
 comments: true
 disqus_identifier: 18606
-categories: [asp.net]
+categories:
+- asp.net
+redirect_from: "/archive/2009/04/01/csrf-webforms.aspx/"
 ---
+
 In [my last blog
 post](http://haacked.com/archive/2009/04/02/anatomy-of-csrf-attack.aspx "Anatomy of a CSRF attack"),
 I walked step by step through a [Cross-site request

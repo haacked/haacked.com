@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "TimedLock with Stack Traces Strikes Back"
+title: TimedLock with Stack Traces Strikes Back
 date: 2004-10-13 -0800
 comments: true
 disqus_identifier: 1341
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2004/10/12/TimedLockWithStackTracesStrikesBack.aspx/"
 ---
+
 By now you probably think I have an unhealthy obsession over the
 `TimedLock` struct. Well, you're right. I think it's emblematic of the
 right way to do things and shows that the right way isn't always the

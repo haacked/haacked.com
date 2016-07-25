@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Mitigate The Billion Dollar Mistake with Aspects"
+title: Mitigate The Billion Dollar Mistake with Aspects
 date: 2013-01-05 -0800
 comments: true
 disqus_identifier: 18880
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2013/01/04/mitigate-the-billion-dollar-mistake-with-aspects.aspx/"
 ---
+
 [Tony Hoare](http://en.wikipedia.org/wiki/Tony_Hoare "Tony Hoare"), the
 computer scientist who implemented null references in ALGOL calls it his
 “billion-dollar mistake.”

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tying MVP To the ASP.NET Event Model"
+title: Tying MVP To the ASP.NET Event Model
 date: 2006-08-09 -0800
 comments: true
 disqus_identifier: 14786
 categories: []
+redirect_from: "/archive/2006/08/08/TyingMVPToTheASP.NETEventModel.aspx/"
 ---
+
 I knew this question would come up, so I figure I would address it in
 its own blog post. [Mike](http://geekswithblogs.net/opiesblog "Mike")
 asks a great question about my [MVP

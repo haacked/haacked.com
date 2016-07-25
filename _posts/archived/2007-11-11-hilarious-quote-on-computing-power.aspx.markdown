@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hilarious Quote on Computing Power"
+title: Hilarious Quote on Computing Power
 date: 2007-11-11 -0800
 comments: true
 disqus_identifier: 18421
 categories: []
+redirect_from: "/archive/2007/11/10/hilarious-quote-on-computing-power.aspx/"
 ---
+
 Seen in Twitter today
 
 > *CodingHorror*: Guitar Hero III for the PC/Mac has truly insane system

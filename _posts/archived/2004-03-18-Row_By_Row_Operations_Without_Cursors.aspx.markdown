@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "TIP: Row by Row operations without cursors"
+title: 'TIP: Row by Row operations without cursors'
 date: 2004-03-18 -0800
 comments: true
 disqus_identifier: 261
-categories: [code,sql]
+categories:
+- code
+- sql
+redirect_from: "/archive/2004/03/17/Row_By_Row_Operations_Without_Cursors.aspx/"
 ---
+
 ![](/images/cursor.jpg)In general, cursors suck ass! Ok, that’s a bit
 extreme, but I have a long and ugly history with cursors. Let me diverge
 here and tell you a true story.

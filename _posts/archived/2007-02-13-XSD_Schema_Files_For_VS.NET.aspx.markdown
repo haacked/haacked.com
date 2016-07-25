@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "XSD Schema Files For VS.NET"
+title: XSD Schema Files For VS.NET
 date: 2007-02-13 -0800
 comments: true
 disqus_identifier: 18212
 categories: []
+redirect_from: "/archive/2007/02/12/XSD_Schema_Files_For_VS.NET.aspx/"
 ---
+
 I’m posting this more as a reminder for myself. Where exactly are you
 supposed to place XSD files to give you intellisense for XML files in
 Visual Studio.NET?

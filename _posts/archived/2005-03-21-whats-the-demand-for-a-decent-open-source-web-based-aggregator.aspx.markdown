@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "What's the Demand For a Decent Open Source Web Based Aggregator?"
+title: What's the Demand For a Decent Open Source Web Based Aggregator?
 date: 2005-03-21 -0800
 comments: true
 disqus_identifier: 2422
 categories: []
+redirect_from: "/archive/2005/03/20/whats-the-demand-for-a-decent-open-source-web-based-aggregator.aspx/"
 ---
+
 Forgive me for not doing a thorough search for prior art, but I noticed
 [this post](http://www.tkachenko.com/blog/archives/000407.html) by Oleg
 Tkachenko in which he's in need of a decent server-side aggregation code

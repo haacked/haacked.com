@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "It Never Rains in Southern California...Except Today"
+title: It Never Rains in Southern California...Except Today
 date: 2005-09-19 -0800
 comments: true
 disqus_identifier: 10249
 categories: []
+redirect_from: "/archive/2005/09/18/it-never-rains-in-southern-californiaexcept-today.aspx/"
 ---
+
 UPDATE: Looks like I was sleeping during my class on 70s funk. It was
 Albert Hammond who wrote *It Never Rains In Southern California*, not
 Kool and the Gang. Thanks [Jeff](http://www.codinghorror.com/blog/).

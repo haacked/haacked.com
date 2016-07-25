@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Spirited Away Hotel"
+title: Spirited Away Hotel
 date: 2005-07-31 -0800
 comments: true
 disqus_identifier: 9185
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2005/07/30/spirited-away-hotel.aspx/"
 ---
+
 Since I have a free moment (and the internet connection is back up), I
 thought I’d write a short status update of my trip to Japan. But first,
 let me point out that I used the term “status update”. What am I? A

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Some More Pics Of Twiggy"
+title: Some More Pics Of Twiggy
 date: 2004-10-06 -0800
 comments: true
 disqus_identifier: 1310
 categories: []
+redirect_from: "/archive/2004/10/05/some-more-pics-of-twiggy.aspx/"
 ---
+
 So Twiggy's a fast learner. She now knows that the proper place to do
 her thing is outside and not in the house. She even knows to whine if
 she needs to go so. The vet removed her stitches and she has an

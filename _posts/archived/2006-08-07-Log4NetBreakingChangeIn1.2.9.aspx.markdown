@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Log4Net Breaking Change in 1.2.9"
+title: Log4Net Breaking Change in 1.2.9
 date: 2006-08-07 -0800
 comments: true
 disqus_identifier: 14727
 categories: []
+redirect_from: "/archive/2006/08/06/Log4NetBreakingChangeIn1.2.9.aspx/"
 ---
+
 I am a little late in reporting this, but I hadn’t realized the problem
 until I had to maintain an older project that used Log4Net 1.2.8. I
 upgraded it to log4net 1.2.10 and noticed it stopped working. I then

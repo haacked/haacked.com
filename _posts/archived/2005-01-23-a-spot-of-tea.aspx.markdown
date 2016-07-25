@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A Spot Of Tea"
+title: A Spot Of Tea
 date: 2005-01-23 -0800
 comments: true
 disqus_identifier: 1990
 categories: []
+redirect_from: "/archive/2005/01/22/a-spot-of-tea.aspx/"
 ---
+
 Being married to a Japanese woman, I've cultivated a love of tea.
 Although Koreans have great tea as well, it doesn't figure as highly in
 the culture as it does for the Japanese.

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Subtext Extensibility Notes"
+title: Subtext Extensibility Notes
 date: 2007-06-24 -0800
 comments: true
 disqus_identifier: 18358
 categories: []
+redirect_from: "/archive/2007/06/23/subtext-extensibility-notes.aspx/"
 ---
+
 ![Subtext Submarine
 Logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext1.9.5Release_EEA4/subtextsubmarinelogo6.png)Subtext
 2.0 is progressing nicely. The plug-in architecture is pretty much

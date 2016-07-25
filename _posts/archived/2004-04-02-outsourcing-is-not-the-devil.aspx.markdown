@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Outsourcing is not the Devil"
+title: Outsourcing is not the Devil
 date: 2004-04-02 -0800
 comments: true
 disqus_identifier: 297
 categories: []
+redirect_from: "/archive/2004/04/01/outsourcing-is-not-the-devil.aspx/"
 ---
+
 ![](/images/Economist.jpg) Now I'm every bit as much the bleeding heart
 liberal as the guy to my left, but I have to say that I believe the
 outcry against offshoring and outsourcing is purely a reactionary

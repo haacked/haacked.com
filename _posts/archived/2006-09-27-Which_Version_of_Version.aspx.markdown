@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Which Version of Version?"
+title: Which Version of Version?
 date: 2006-09-27 -0800
 comments: true
 disqus_identifier: 17309
 categories: []
+redirect_from: "/archive/2006/09/26/Which_Version_of_Version.aspx/"
 ---
+
 As developers, I think we tend to take the definition of *Version* for
 granted.  What are the components of a version?  Well that's easy, it
 is:

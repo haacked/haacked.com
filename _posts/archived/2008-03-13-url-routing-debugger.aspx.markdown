@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "ASP.NET Routing Debugger"
+title: ASP.NET Routing Debugger
 date: 2008-03-13 -0800
 comments: true
 disqus_identifier: 18464
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2008/03/12/url-routing-debugger.aspx/"
 ---
+
 *UPDATE: I’ve added a [NuGet
 package](http://haacked.com/archive/2010/10/06/introducing-nupack-package-manager.aspx)
 named "routedebugger" to the NuGet feed, which will make it much easier

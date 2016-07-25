@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "What&rsquo;s the Difference Between a Value Provider and Model Binder?"
+title: What&rsquo;s the Difference Between a Value Provider and Model Binder?
 date: 2011-06-30 -0800
 comments: true
 disqus_identifier: 18800
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2011/06/29/whatrsquos-the-difference-between-a-value-provider-and-model-binder.aspx/"
 ---
+
 ASP.NET MVC 3 introduced the ability to bind an incoming JSON request to an action method parameter, which is something I [wrote about
 before](http://haacked.com/archive/2010/04/15/sending-json-to-an-asp-net-mvc-action-method-argument.aspx "Sending JSON to an action method").
 

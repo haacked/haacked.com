@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Make Routing Ignore Requests For A File Extension"
+title: Make Routing Ignore Requests For A File Extension
 date: 2008-07-14 -0800
 comments: true
 disqus_identifier: 18503
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2008/07/13/make-routing-ignore-requests-for-a-file-extension.aspx/"
 ---
+
 By default, ASP.NET Routing ignores requests for files that do ~~not~~
 exist on disk. I explained the reason for this in a [previous post on
 upcoming routing

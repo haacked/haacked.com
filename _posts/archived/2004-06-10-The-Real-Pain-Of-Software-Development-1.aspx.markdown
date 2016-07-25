@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "The Real Pain Of Software Development [part 1]"
+title: The Real Pain Of Software Development [part 1]
 date: 2004-06-10 -0800
 comments: true
 disqus_identifier: 590
-categories: [code,personal,tech]
+categories:
+- code
+- personal
+- tech
+redirect_from: "/archive/2004/06/09/The-Real-Pain-Of-Software-Development-1.aspx/"
 ---
+
 UPDATE: I finally followed up with [part 2](http://haacked.com/archive/2012/04/15/The-Real-Pain-Of-Software-Development-2/),
 only 8 years later.
 

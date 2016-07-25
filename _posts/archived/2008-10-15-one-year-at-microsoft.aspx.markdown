@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "One Year At Microsoft"
+title: One Year At Microsoft
 date: 2008-10-15 -0800
 comments: true
 disqus_identifier: 18539
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2008/10/14/one-year-at-microsoft.aspx/"
 ---
+
 [![bowl-mm](http://haacked.com/images/haacked_com/WindowsLiveWriter/OneYearAtMicrosoft_6728/bowl-mm_3.jpg "bowl-mm")](http://www.flickr.com/photos/jono_rotten/80751090/ "M&M by Jono Rotten - CC by attribution")
 Today marks my one year anniversary at Microsoft. Tradition dictates
 that I bring in a pound of M&Ms for each year that I’ve been an

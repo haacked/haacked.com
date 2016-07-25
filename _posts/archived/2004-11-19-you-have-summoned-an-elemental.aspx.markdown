@@ -5,7 +5,9 @@ date: 2004-11-19 -0800
 comments: true
 disqus_identifier: 1658
 categories: []
+redirect_from: "/archive/2004/11/18/you-have-summoned-an-elemental.aspx/"
 ---
+
 ![C64](/images/C64.gif)It was really just a side question of this
 [post](http://neopoleon.com/blog/posts/9917.aspx) on [Rory’s
 blog](http://www.neopoleon.com/blog/) having nothing to do with the main

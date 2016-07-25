@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "RSS Bandit 1.3.x (Wolverine) Beta Available!"
+title: RSS Bandit 1.3.x (Wolverine) Beta Available!
 date: 2005-02-05 -0800
 comments: true
 disqus_identifier: 2096
 categories: []
+redirect_from: "/archive/2005/02/04/rss-bandit-13x-wolverine-beta-available.aspx/"
 ---
+
 Dare
 [announced](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=b56797bf-0bde-40a9-aae2-436bb6515e6e)
 the beta version for the Wolverine edition of RSS Bandit (version 1.3.x)

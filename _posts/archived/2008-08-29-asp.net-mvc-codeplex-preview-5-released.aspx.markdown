@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "ASP.NET MVC CodePlex Preview 5 Released"
+title: ASP.NET MVC CodePlex Preview 5 Released
 date: 2008-08-29 -0800
 comments: true
 disqus_identifier: 18527
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2008/08/28/asp.net-mvc-codeplex-preview-5-released.aspx/"
 ---
+
 *Download the [MSI and Release notes
 here](http://www.codeplex.com/aspnet/Release/ProjectReleases.aspx?ReleaseId=16775 "ASP.NET CodePlex Preview 5").*
 

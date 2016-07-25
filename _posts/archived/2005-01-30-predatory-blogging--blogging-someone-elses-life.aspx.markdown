@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Predatory Blogging - Blogging Someone Else's Life"
+title: Predatory Blogging - Blogging Someone Else's Life
 date: 2005-01-30 -0800
 comments: true
 disqus_identifier: 2054
 categories: []
+redirect_from: "/archive/2005/01/29/predatory-blogging--blogging-someone-elses-life.aspx/"
 ---
+
 Received this comment on my "[Blogging Is Pure
 Vanity](http://haacked.com/archive/2004/10/08/1322.aspx)" Post.
 

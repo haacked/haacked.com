@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Customizing Keyboard Settings In RSS Bandit Part 1"
+title: Customizing Keyboard Settings In RSS Bandit Part 1
 date: 2005-03-22 -0800
 comments: true
 disqus_identifier: 2425
 categories: []
+redirect_from: "/archive/2005/03/21/CustomizingKeyboardSettingsPart1.aspx/"
 ---
+
 ![Keyboard](/images/Keyboard.jpg) You might not know this, but RSS
 Bandit supports customizing keyboard shortcuts via an XML configuration
 file. The reason you might not know this is because it is an

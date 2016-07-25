@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Viva Espa&ntilde;a"
+title: Viva Espa&ntilde;a
 date: 2005-11-11 -0800
 comments: true
 disqus_identifier: 11184
 categories: []
+redirect_from: "/archive/2005/11/10/viva-espa-ntildea.aspx/"
 ---
+
 So in exactly one week Akumi and I will be on a plane to Spain where it
 rains in the plains (please excuse me). We are flying into Madrid in the
 morning of the 20^th^ where we’ll stay the night. There, we will meet up

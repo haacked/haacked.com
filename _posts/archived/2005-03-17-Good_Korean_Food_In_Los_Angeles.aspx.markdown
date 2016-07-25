@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Good Korean Food in Los Angeles"
+title: Good Korean Food in Los Angeles
 date: 2005-03-17 -0800
 comments: true
 disqus_identifier: 2400
 categories: []
+redirect_from: "/archive/2005/03/16/Good_Korean_Food_In_Los_Angeles.aspx/"
 ---
+
 ![Korean Food](/images/KoreanFood.jpg) I've been told that for the best
 Korean food in the world, you need look no further than Los Angeles. The
 rationale is that you have a vibrant Korean community in Koreatown

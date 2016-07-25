@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Sabotage Due To Pain. Developers, Take Ergonomics Seriously!"
+title: Sabotage Due To Pain. Developers, Take Ergonomics Seriously!
 date: 2007-05-15 -0800
 comments: true
 disqus_identifier: 18314
 categories: []
+redirect_from: "/archive/2007/05/14/sabatoge-due-to-pain.-developers-take-ergonomics-seriously.aspx/"
 ---
+
 > At the end of an average eight-hour workday, the fingers have walked
 > 16 miles over the keys and have expended energy equal to the lifting
 > of 1 1/4 tons. -

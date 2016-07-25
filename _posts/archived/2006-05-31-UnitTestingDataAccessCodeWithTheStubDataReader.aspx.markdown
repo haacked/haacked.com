@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Unit Testing Data Access Code With The StubDataReader"
+title: Unit Testing Data Access Code With The StubDataReader
 date: 2006-05-31 -0800
 comments: true
 disqus_identifier: 13070
 categories: []
+redirect_from: "/archive/2006/05/30/UnitTestingDataAccessCodeWithTheStubDataReader.aspx/"
 ---
+
 In spirit, this is a follow-up to my recent post on [unit-testing email
 functionality](http://haacked.com/archive/2006/05/30/ATestingMailServerForUnitTestingEmailFunctionality.aspx "Testing Mail Server").
 

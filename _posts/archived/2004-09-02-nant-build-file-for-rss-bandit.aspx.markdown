@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "NAnt Build File For Rss Bandit"
+title: NAnt Build File For Rss Bandit
 date: 2004-09-02 -0800
 comments: true
 disqus_identifier: 1109
 categories: []
+redirect_from: "/archive/2004/09/01/nant-build-file-for-rss-bandit.aspx/"
 ---
+
 Recently I blabbed on and on about how to [create a sane build
 process](http://haacked.com/archive/2004/08/26/978.aspx). One question
 I've heard in the past is what's the point of a setting up a big formal

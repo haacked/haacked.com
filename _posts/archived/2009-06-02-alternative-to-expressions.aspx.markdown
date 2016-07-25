@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "An Alternative Approach To Strongly Typed Helpers"
+title: An Alternative Approach To Strongly Typed Helpers
 date: 2009-06-02 -0800
 comments: true
 disqus_identifier: 18621
 categories: []
+redirect_from: "/archive/2009/06/01/alternative-to-expressions.aspx/"
 ---
+
 One of the features contained in the [MVC
 Futures](http://aspnet.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=24471 "ASP.NET MVC 1.0 Source")
 project is the ability to generate action links in a strongly typed

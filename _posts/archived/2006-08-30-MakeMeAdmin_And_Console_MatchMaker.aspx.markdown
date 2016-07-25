@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "MakeMeAdmin And Console MatchMaker"
+title: MakeMeAdmin And Console MatchMaker
 date: 2006-08-30 -0800
 comments: true
 disqus_identifier: 16199
 categories: []
+redirect_from: "/archive/2006/08/29/MakeMeAdmin_And_Console_MatchMaker.aspx/"
 ---
+
 I am still continuing [my
 experiment](http://haacked.com/archive/2006/04/28/YouveBeenHaacked1KTimes.aspx "My 1000th post")
 in running as a LUA (aka Non-Admin).  Let me tell you, it has been a

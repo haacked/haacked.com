@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Playing Soccer Against Former National Team Players"
+title: Playing Soccer Against Former National Team Players
 date: 2006-02-09 -0800
 comments: true
 disqus_identifier: 11752
 categories: []
+redirect_from: "/archive/2006/02/08/PlayingSoccerAgainstFormerNationalTeamPlayers.aspx/"
 ---
+
 ![Soccer Ball](http://haacked.com/images/SoccerBallBW.jpg) I’ve joined a
 group of soccer players attempting to form a team to get into a 30 and
 over league that hosts games on much nicer fields. These are the fields

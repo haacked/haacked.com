@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Online Gamer Stabbed - A Case for a Virtual Police Force and Courts?"
+title: Online Gamer Stabbed - A Case for a Virtual Police Force and Courts?
 date: 2005-03-30 -0800
 comments: true
 disqus_identifier: 2513
 categories: []
+redirect_from: "/archive/2005/03/29/online-gamer-stabbed--a-case-for-a-virtual-police-force-and-courts.aspx/"
 ---
+
 Did you read about the Chinese [online gamer who stabbed a
 competitor](http://story.news.yahoo.com/news?tmpl=story&u=/nm/life_china_sabre_dc)
 after the competitor sold his borrowed virtual sword?

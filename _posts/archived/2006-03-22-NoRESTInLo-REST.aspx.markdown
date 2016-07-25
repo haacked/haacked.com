@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "No REST In Lo-REST"
+title: No REST In Lo-REST
 date: 2006-03-22 -0800
 comments: true
 disqus_identifier: 12138
 categories: []
+redirect_from: "/archive/2006/03/21/NoRESTInLo-REST.aspx/"
 ---
+
 UPDATE: Ok, so being away from RSS Bandit has put me out of touch of
 some of the other discussion on this topic. As Dare writes, Don isn’t
 the first person to make the [Lo-REST

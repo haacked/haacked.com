@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Five Things You Didn't Want To Know About Me"
+title: Five Things You Didn't Want To Know About Me
 date: 2007-01-02 -0800
 comments: true
 disqus_identifier: 18182
 categories: []
+redirect_from: "/archive/2007/01/01/Five_Things_You_Didnt_Want_To_Know_About_Me.aspx/"
 ---
+
 [K. Scott
 Allen](http://odetocode.com/Blogs/scott/archive/2006/12/30/9637.aspx "5 Things You Don’t Know About Scott"),
 [Jayson

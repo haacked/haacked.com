@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "MMORPGs Come Of Age - WOW Reviewed on NPR"
+title: MMORPGs Come Of Age - WOW Reviewed on NPR
 date: 2005-03-16 -0800
 comments: true
 disqus_identifier: 2380
 categories: []
+redirect_from: "/archive/2005/03/15/mmorpgs-come-of-age--wow-reviewed-on-npr.aspx/"
 ---
+
 ![World of Warcraft](/images/WorldOfWarcraft.jpg) On my drive home today
 (being my last day at work. I'm now fully independent.), I was listening
 to the show "All Things Considered" on NPR. Much to my surprise there

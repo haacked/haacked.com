@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Updated Routing With WebForms"
+title: Updated Routing With WebForms
 date: 2008-05-19 -0800
 comments: true
 disqus_identifier: 18487
-categories: [asp.net]
+categories:
+- asp.net
+redirect_from: "/archive/2008/05/18/updated-routing-with-webforms.aspx/"
 ---
+
 A while back I wrote a sample that demonstrated how to [use Routing with
 WebForms](http://haacked.com/archive/2008/03/11/using-routing-with-webforms.aspx "Using Routing with WebForms").
 

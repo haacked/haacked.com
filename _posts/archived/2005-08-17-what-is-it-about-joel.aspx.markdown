@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "What Is It About Joel?"
+title: What Is It About Joel?
 date: 2005-08-17 -0800
 comments: true
 disqus_identifier: 9543
 categories: []
+redirect_from: "/archive/2005/08/16/what-is-it-about-joel.aspx/"
 ---
+
 After reading over my [last blog
 post](http://haacked.com/archive/2005/08/18/9536.aspx), I wondered why
 my posts take such a virulent tone towards Joel Spolsky when I think

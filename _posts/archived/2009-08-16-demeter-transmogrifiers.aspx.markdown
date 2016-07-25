@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Demeter Transmogrifiers To The Rescue"
+title: Demeter Transmogrifiers To The Rescue
 date: 2009-08-16 -0800
 comments: true
 disqus_identifier: 18636
 categories: []
+redirect_from: "/archive/2009/08/15/demeter-transmogrifiers.aspx/"
 ---
+
 In a recent post, [The Law of Demeter Is Not A Dot Counting
 Exercise](http://haacked.com/archive/2009/07/14/law-of-demeter-dot-counting.aspx "Law of Demeter Dot Counting"),
 I wanted to peer into the dark depths of the Law of Demeter to

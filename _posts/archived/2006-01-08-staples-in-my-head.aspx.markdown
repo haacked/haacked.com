@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Staples In My Head"
+title: Staples In My Head
 date: 2006-01-08 -0800
 comments: true
 disqus_identifier: 11445
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2006/01/07/staples-in-my-head.aspx/"
 ---
+
 When you hear the phrase, “use your head” you are typically being told
 to think. There are other uses of the head that are quite unwise. For
 example, trying to clear a soccer ball away from another player rushing

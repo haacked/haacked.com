@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Html.RenderAction and Html.Action"
+title: Html.RenderAction and Html.Action
 date: 2009-11-18 -0800
 comments: true
 disqus_identifier: 18660
 categories: []
+redirect_from: "/archive/2009/11/17/aspnetmvc2-render-action.aspx/"
 ---
+
 One of the upcoming new features being added to ASP.NET MVC 2 Beta is a
 little helper method called `Html.RenderAction` and its counterpart,
 `Html.Action`. This has been a part of our ASP.NET MVC Futures library

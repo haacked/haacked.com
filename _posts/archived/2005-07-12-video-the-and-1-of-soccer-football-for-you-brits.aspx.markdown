@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Video: The And 1 of Soccer (Football for you Brits)"
+title: 'Video: The And 1 of Soccer (Football for you Brits)'
 date: 2005-07-12 -0800
 comments: true
 disqus_identifier: 8728
 categories: []
+redirect_from: "/archive/2005/07/11/video-the-and-1-of-soccer-football-for-you-brits.aspx/"
 ---
+
 ![Soccer Video](http://haacked.com/images/SoccerVideo.jpg) This is one
 of the [freshest soccer
 videos](http://www.putfile.com/media.php?n=fussball) I’ve ever seen. All

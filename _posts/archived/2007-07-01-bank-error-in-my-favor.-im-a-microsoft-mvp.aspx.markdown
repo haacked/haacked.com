@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Bank Error In My Favor. I'm a Microsoft MVP"
+title: Bank Error In My Favor. I'm a Microsoft MVP
 date: 2007-07-01 -0800
 comments: true
 disqus_identifier: 18362
 categories: []
+redirect_from: "/archive/2007/06/30/bank-error-in-my-favor.-im-a-microsoft-mvp.aspx/"
 ---
+
 ![microsoft-mvp](http://haacked.com/images/haacked_com/WindowsLiveWriter/MicrosoftsRegretIsMyGainImanMVP_122F9/microsoft-mvp_thumb.png)I
 received an email today informing me that I’ve been awarded the status
 of Microsoft MVP in the *Visual Developer - ASP/ASP.NET* category. I was

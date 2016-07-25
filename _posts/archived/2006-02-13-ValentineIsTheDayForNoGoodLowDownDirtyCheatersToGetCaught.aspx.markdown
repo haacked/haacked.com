@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Valentine Is The Day For No Good Low Down Dirty Cheaters To Get Caught"
+title: Valentine Is The Day For No Good Low Down Dirty Cheaters To Get Caught
 date: 2006-02-13 -0800
 comments: true
 disqus_identifier: 11786
 categories: []
+redirect_from: "/archive/2006/02/12/ValentineIsTheDayForNoGoodLowDownDirtyCheatersToGetCaught.aspx/"
 ---
+
 ![Candy Hearts](http://haacked.com/images/CandyHearts.jpg) Read this
 [interesting
 post](http://www.schneier.com/blog/archives/2006/02/valentines_day.html "Valentine's Day Security")

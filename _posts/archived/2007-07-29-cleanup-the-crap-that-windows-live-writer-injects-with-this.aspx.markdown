@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Cleanup The Crap That Windows Live Writer Injects With This HttpModule"
+title: Cleanup The Crap That Windows Live Writer Injects With This HttpModule
 date: 2007-07-29 -0800
 comments: true
 disqus_identifier: 18374
 categories: []
+redirect_from: "/archive/2007/07/28/cleanup-the-crap-that-windows-live-writer-injects-with-this.aspx/"
 ---
+
 First, let me start off with some praise. I really really like [Windows
 Live Writer](http://windowslivewriter.spaces.live.com/ "WLW Team Blog").
 I’ve praised it many times on my blog. However, there is one thing that

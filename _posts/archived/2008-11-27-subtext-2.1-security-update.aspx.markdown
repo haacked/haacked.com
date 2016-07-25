@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Subtext 2.1 Released! Contains Security Update"
+title: Subtext 2.1 Released! Contains Security Update
 date: 2008-11-27 -0800
 comments: true
 disqus_identifier: 18560
-categories: [subtext]
+categories:
+- subtext
+redirect_from: "/archive/2008/11/26/subtext-2.1-security-update.aspx/"
 ---
+
 A Subtext user found a security flaw which opens up Subtext to potential
 XSS attacks via comment. This flaw was introduced in Subtext 2.0 by the
 feature which converts URLs to anchor tags. If you are still on 1.9.5b

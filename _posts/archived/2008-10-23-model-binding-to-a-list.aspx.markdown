@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Model Binding To A List"
+title: Model Binding To A List
 date: 2008-10-23 -0800
 comments: true
 disqus_identifier: 18542
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2008/10/22/model-binding-to-a-list.aspx/"
 ---
+
 Download the **[sample
 project](http://code.haacked.com/mvc-2/ListModelBindingDemo.zip "ListModelBinding Demos")**
 to play with the code as you read this blog post.

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Year of the Starving Pig?"
+title: Year of the Starving Pig?
 date: 2007-03-14 -0800
 comments: true
 disqus_identifier: 18242
 categories: []
+redirect_from: "/archive/2007/03/13/year-of-the-starving-pig.aspx/"
 ---
+
 In January, I wrote that according to the Chinese Zodiac, this is the
 [Year of the Golden
 Pig](http://haacked.com/archive/2007/01/03/Year_of_the_Golden_Pig.aspx "Year of the golden pig").

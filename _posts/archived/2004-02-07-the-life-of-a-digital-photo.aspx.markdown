@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Life of a Digital Photo"
+title: The Life of a Digital Photo
 date: 2004-02-07 -0800
 comments: true
 disqus_identifier: 179
 categories: []
+redirect_from: "/archive/2004/02/06/the-life-of-a-digital-photo.aspx/"
 ---
+
 My latest tech toy is an HP Scanjet 5530 Photosmart Scanner (wow that's
 a mouthful). The defining feature of this scanner is the photo feeder
 built in. Simply add a pile of photos (around 24 max at a time) into the

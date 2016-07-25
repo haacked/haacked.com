@@ -1,11 +1,18 @@
 ---
 layout: post
-title: "Git and GitHub Talk in Hawaii!"
+title: Git and GitHub Talk in Hawaii!
 date: 2012-09-05 -0800
 comments: true
 disqus_identifier: 18868
-categories: [code,git,github,community,tech]
+categories:
+- code
+- git
+- github
+- community
+- tech
+redirect_from: "/archive/2012/09/04/git-and-github-talk-in-hawaii.aspx/"
 ---
+
 Next week my wife and I celebrate our tenth anniversary in Oahu with the
 kids. It’s been a great ten years and I’m just so lucky to have such a
 wonderful woman and partner in my life along with two deviously great

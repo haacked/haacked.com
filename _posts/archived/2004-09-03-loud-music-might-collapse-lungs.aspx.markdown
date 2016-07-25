@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Loud Music Might Collapse Lungs"
+title: Loud Music Might Collapse Lungs
 date: 2004-09-03 -0800
 comments: true
 disqus_identifier: 1125
 categories: []
+redirect_from: "/archive/2004/09/02/loud-music-might-collapse-lungs.aspx/"
 ---
+
 Whoa! I saw this on Wired News. If anyone is in danger, it's me. I love
 getting right up to the subwoofers and feel the wind generated (of
 course wearing my etymotic earplugs).

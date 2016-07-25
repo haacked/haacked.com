@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "PATCH: Cannot Delete Posts In Subtext 1.9.2"
+title: 'PATCH: Cannot Delete Posts In Subtext 1.9.2'
 date: 2006-10-26 -0800
 comments: true
 disqus_identifier: 18114
 categories: []
+redirect_from: "/archive/2006/10/25/PATCH_Cannot_Delete_Posts_In_Subtext_1.9.2.aspx/"
 ---
+
 Someone reported that they cannot delete posts in the just [released
 Subtext
 1.9.2](http://haacked.com/archive/2006/10/25/Subtext_1.9.2_quotShields_Upquot_Edition_Released.aspx "Subtext 1.9.2 released!").

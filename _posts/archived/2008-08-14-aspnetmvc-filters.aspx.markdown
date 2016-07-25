@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Filters in ASP.NET MVC CodePlex Preview 4"
+title: Filters in ASP.NET MVC CodePlex Preview 4
 date: 2008-08-14 -0800
 comments: true
 disqus_identifier: 18522
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2008/08/13/aspnetmvc-filters.aspx/"
 ---
+
 In Preview 2 or Preview 3 of ASP.NET (I forget which), we introduced the
 concept of *Action Filters*. Sounds much more exciting than your
 run-of-the-mill `LayOnTheCouchMunchingChipsWatchingInfomercialsFilter`,

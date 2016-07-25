@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "CodeMania Love To Code Keynote"
+title: CodeMania Love To Code Keynote
 date: 2012-08-27 -0800
 comments: true
 disqus_identifier: 18866
-categories: [community,code,company culture,github]
+categories:
+- community
+- code
+- company culture
+- github
+redirect_from: "/archive/2012/08/26/codemania-love-to-code-keynote.aspx/"
 ---
+
 Back in March of this year I had the honor and delight to give the
 opening keynote at [CodeMania](http://codemania.co.nz/ "CodeMania"), a
 new conference in New Zealand.

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Matching HTML With Regular Expressions Redux"
+title: Matching HTML With Regular Expressions Redux
 date: 2005-04-22 -0800
 comments: true
 disqus_identifier: 2784
 categories: []
+redirect_from: "/archive/2005/04/21/Matching_HTML_With_Regex.aspx/"
 ---
+
 UPDATE: Mea culpa! [Maurice](http://www.bluedoglimited.com/) pointed out
 that (except for the casing) my original expression WAS correct. I only
 needed the RegexOptions.SingleLine option. I didn't need to add the

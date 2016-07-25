@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Code Camp Black Rock City?"
+title: Code Camp Black Rock City?
 date: 2005-07-11 -0800
 comments: true
 disqus_identifier: 8606
 categories: []
+redirect_from: "/archive/2005/07/10/code-camp-black-rock-city.aspx/"
 ---
+
 [![Black Rock
 City](http://haacked.com/images/BlackRockCity.jpg)](http://www.sidecanyon.com/features/deserts10.htm)
 Ok, this is kind of a crazy idea, so as Ron Burgundy would say,

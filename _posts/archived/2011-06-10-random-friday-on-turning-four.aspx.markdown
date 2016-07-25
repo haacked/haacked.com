@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Random Friday: On Turning Four"
+title: 'Random Friday: On Turning Four'
 date: 2011-06-10 -0800
 comments: true
 disqus_identifier: 18796
-categories: [blogging,personal]
+categories:
+- blogging
+- personal
+redirect_from: "/archive/2011/06/09/random-friday-on-turning-four.aspx/"
 ---
+
 No, I’m not talking about my mental age.
 
 My son turned four this past week which means I’m four years into [my

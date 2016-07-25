@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "CodeClimber"
+title: CodeClimber
 date: 2006-12-10 -0800
 comments: true
 disqus_identifier: 18162
 categories: []
+redirect_from: "/archive/2006/12/09/CodeClimber.aspx/"
 ---
+
 [Subtext](http://subtextproject.com/ "Subtext Project Website") has a
 pretty sweet [Continuous Integration
 setup](http://haacked.dyndns.org/ccnet/ViewFarmReport.aspx "CCNET Dashboard")

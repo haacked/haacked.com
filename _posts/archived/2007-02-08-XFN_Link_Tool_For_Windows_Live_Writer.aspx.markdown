@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "XFN Link Tool For Windows Live Writer"
+title: XFN Link Tool For Windows Live Writer
 date: 2007-02-08 -0800
 comments: true
 disqus_identifier: 18209
 categories: []
+redirect_from: "/archive/2007/02/07/XFN_Link_Tool_For_Windows_Live_Writer.aspx/"
 ---
+
 UPDATE: How could I have overlooked the [Plugin Keyvan
 Nayyeri](http://nayyeri.net/archive/2006/12/07/xfn-link-plugin-for-windows-live-writer.aspx "XFN WLW plugin")
 wrote two months ago. Sorry buddy!

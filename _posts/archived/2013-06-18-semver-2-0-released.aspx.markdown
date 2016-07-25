@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "SemVer 2.0 Released"
+title: SemVer 2.0 Released
 date: 2013-06-18 -0800
 comments: true
 disqus_identifier: 18892
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2013/06/17/semver-2-0-released.aspx/"
 ---
+
 One of the side projects I’ve been working on lately is helping to
 shepherd the [Semantic Versioning
 specification](http://semver.org/ "SemVer") (SemVer) along to its 2.0.0

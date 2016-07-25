@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Know What You Really Think - Implicit Association"
+title: Know What You Really Think - Implicit Association
 date: 2005-07-04 -0800
 comments: true
 disqus_identifier: 7578
 categories: []
+redirect_from: "/archive/2005/07/03/know-what-you-really-think--implicit-association.aspx/"
 ---
+
 [This caught
 my](http://www.douglasp.com/PermaLink.aspx?guid=418b32fb-8694-4a05-be99-de2fb51ac2bc)
 attention from [Meta-Douglasp](http://www.douglasp.com/). From the home

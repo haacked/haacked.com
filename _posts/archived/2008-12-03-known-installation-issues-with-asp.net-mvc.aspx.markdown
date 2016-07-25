@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Known Installation Issues With ASP.NET MVC"
+title: Known Installation Issues With ASP.NET MVC
 date: 2008-12-03 -0800
 comments: true
 disqus_identifier: 18562
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2008/12/02/known-installation-issues-with-asp.net-mvc.aspx/"
 ---
+
 I’m working to try and keep internal release notes up to date so that I
 don’t have this huge amount of work when we’re finally ready to release.
 Yeah, I’m always trying something new by giving procrastination a boot

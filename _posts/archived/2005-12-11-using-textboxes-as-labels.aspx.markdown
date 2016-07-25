@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Using TextBoxes as Labels"
+title: Using TextBoxes as Labels
 date: 2005-12-11 -0800
 comments: true
 disqus_identifier: 11330
 categories: []
+redirect_from: "/archive/2005/12/10/using-textboxes-as-labels.aspx/"
 ---
+
 In this post, I plan to give out some rough code I hope you find useful.
 But first, an introduction. Occasionally, in the search to compress more
 into less space, web designers will create a form in which the text

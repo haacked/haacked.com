@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "A .NET API To Search Open Source Code"
+title: A .NET API To Search Open Source Code
 date: 2007-05-21 -0800
 comments: true
 disqus_identifier: 18323
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2007/05/20/a-.net-api-to-search-open-source-code.aspx/"
 ---
+
 I [wrote about
 this](http://www.koders.com/blog/?p=72 "Searching source code on Koders.com with C#")
 on my company’s blog, but thought I’d mention it here since I assume not

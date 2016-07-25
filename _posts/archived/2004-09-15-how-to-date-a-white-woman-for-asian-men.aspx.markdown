@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "How to Date a White Woman: A Practical Guide for Asian Men"
+title: 'How to Date a White Woman: A Practical Guide for Asian Men'
 date: 2004-09-15 -0800
 comments: true
 disqus_identifier: 1210
 categories: []
+redirect_from: "/archive/2004/09/14/how-to-date-a-white-woman-for-asian-men.aspx/"
 ---
+
 Someone pointed this out to me on [Amazon.com](http://www.amazon.com/).
 A book entitled [How to Date a White Woman: A Practical Guide for Asian
 Men](http://www.amazon.com/gp/product/customer-reviews/0919637264/ref=cm_cr_dp_2_1/102-0653022-3412114?me=ATVPDKIKX0DER "How to Date a White Woman: A Practical Guide for Asian Men").

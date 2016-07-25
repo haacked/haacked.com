@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Soccer Beat Down"
+title: Soccer Beat Down
 date: 2006-08-23 -0800
 comments: true
 disqus_identifier: 15883
 categories: []
+redirect_from: "/archive/2006/08/22/Soccer_Beat_Down.aspx/"
 ---
+
 Tonight we had our first game of the new season against Hollywood United
 who now feature [Alexi
 Lalas](http://en.wikipedia.org/wiki/Alexi_Lalas "Alexi on Wikipedia")

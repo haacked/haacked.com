@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Where Do These Bruises Come From?"
+title: Where Do These Bruises Come From?
 date: 2005-04-18 -0800
 comments: true
 disqus_identifier: 2724
 categories: []
+redirect_from: "/archive/2005/04/17/where-do-these-bruises-come-from.aspx/"
 ---
+
 ![Elbow](/images/elbow.jpg) Yesterday Akumi pointed at my elbow in shock
 and asked me what happened.
 

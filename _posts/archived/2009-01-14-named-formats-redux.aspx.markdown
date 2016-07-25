@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Named Formats Redux"
+title: Named Formats Redux
 date: 2009-01-14 -0800
 comments: true
 disqus_identifier: 18577
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2009/01/13/named-formats-redux.aspx/"
 ---
+
 UPDATE: Be sure to [read Peli’s
 post](http://blog.dotnetwiki.org/2009/01/16/NamedFormatsPexTestimonium.aspx "Named Formats Pex")
 in which he explores all of these implementations using PEX. Apparently

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tech-Ed 2004: Is it an attempt to overthrow the govt?"
+title: 'Tech-Ed 2004: Is it an attempt to overthrow the govt?'
 date: 2004-05-25 -0800
 comments: true
 disqus_identifier: 483
 categories: []
+redirect_from: "/archive/2004/05/24/tech-ed-2004-is-it-an-attempt-to-overthrow-the-govt.aspx/"
 ---
+
 My good [buddy](http://koba.europe.webmatrixhosting.net/) makes the
 following comment on my last post:
 

@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "ASP.NET MVC Diagnostics Using NuGet"
+title: ASP.NET MVC Diagnostics Using NuGet
 date: 2010-12-05 -0800
 comments: true
 disqus_identifier: 18744
-categories: [asp.net,asp.net mvc,nuget,code]
+categories:
+- asp.net
+- asp.net mvc
+- nuget
+- code
+redirect_from: "/archive/2010/12/04/asp-net-mvc-diagnostics-using-nuget.aspx/"
 ---
+
 Sometimes, despite your best efforts, you encounter a problem with your
 ASP.NET MVC application that seems impossible to figure out and makes
 you want to pull out your hair. Or worse, it makes you want to pull out

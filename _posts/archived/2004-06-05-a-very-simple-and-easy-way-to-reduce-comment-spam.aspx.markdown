@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A Very Simple And Easy Way To Reduce Comment Spam"
+title: A Very Simple And Easy Way To Reduce Comment Spam
 date: 2004-06-05 -0800
 comments: true
 disqus_identifier: 530
 categories: []
+redirect_from: "/archive/2004/06/04/a-very-simple-and-easy-way-to-reduce-comment-spam.aspx/"
 ---
+
 Another option is to simply remove the web interface for comments and
 only allow comments via the Comment API.
 

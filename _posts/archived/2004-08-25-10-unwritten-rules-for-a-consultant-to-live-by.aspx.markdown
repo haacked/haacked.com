@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "10 Unwritten Rules for a Consultant to Live By"
+title: 10 Unwritten Rules for a Consultant to Live By
 date: 2004-08-25 -0800
 comments: true
 disqus_identifier: 975
-categories: [code,tech]
+categories:
+- code
+- tech
+redirect_from: "/archive/2004/08/24/10-unwritten-rules-for-a-consultant-to-live-by.aspx/"
 ---
+
 Now I've never been a consultant myself, but I have friends who have
 been consultants. Namely
 [Kyle](http://koba.europe.webmatrixhosting.net/). What do you think of

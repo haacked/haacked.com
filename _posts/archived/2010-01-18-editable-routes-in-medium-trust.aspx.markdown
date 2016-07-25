@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Editable Routes Using App_Code"
+title: Editable Routes Using App_Code
 date: 2010-01-18 -0800
 comments: true
 disqus_identifier: 18680
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2010/01/17/editable-routes-in-medium-trust.aspx/"
 ---
+
 UPDATE: THIS POST IS DEPRECATED!!! I’ve updated the [original
 post](http://haacked.com/archive/2010/01/17/editable-routes.aspx "Editable Routes")
 for editable routes to work in medium trust and not require a full app

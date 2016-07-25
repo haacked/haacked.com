@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "What is Your Blogger Handle?"
+title: What is Your Blogger Handle?
 date: 2005-03-12 -0800
 comments: true
 disqus_identifier: 2350
 categories: []
+redirect_from: "/archive/2005/03/11/what-is-your-blogger-handle.aspx/"
 ---
+
 ![TRS 80](/images/Trs80.jpg) My first couple computers (TRS 80 and
 Commodore 128) led very solitairy lives. Though they had the constant
 company of a human companion, they lacked the familiar company of their

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Looking Directly At Me Is Forbidden"
+title: Looking Directly At Me Is Forbidden
 date: 2005-01-20 -0800
 comments: true
 disqus_identifier: 1938
 categories: []
+redirect_from: "/archive/2005/01/19/looking-directly-at-me-is-forbidden.aspx/"
 ---
+
 From now on, no person, whether an individual or a body corporate, shall
 look directly upon my person nor speak of me without my written
 permission. I was inspired to enact this notice by this tidbit from

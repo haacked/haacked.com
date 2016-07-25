@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "My Blog Lives In The Matrix"
+title: My Blog Lives In The Matrix
 date: 2007-11-01 -0800
 comments: true
 disqus_identifier: 18415
 categories: []
+redirect_from: "/archive/2007/10/31/my-blog-lives-in-the-matrix.aspx/"
 ---
+
 A while back, [Jon
 Galloway](http://weblogs.asp.net/jgalloway/ "Jon Galloway's Blog") asked
 the question, [Can Operating Systems tell if they’re running in a

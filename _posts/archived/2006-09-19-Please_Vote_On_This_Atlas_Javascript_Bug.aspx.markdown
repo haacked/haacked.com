@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Please Vote On This Atlas Javascript Bug"
+title: Please Vote On This Atlas Javascript Bug
 date: 2006-09-19 -0800
 comments: true
 disqus_identifier: 16861
 categories: []
+redirect_from: "/archive/2006/09/18/Please_Vote_On_This_Atlas_Javascript_Bug.aspx/"
 ---
+
 UPDATE: Looks like this will get fixed in the next release according to
 a comment on Steve’s blog.
 

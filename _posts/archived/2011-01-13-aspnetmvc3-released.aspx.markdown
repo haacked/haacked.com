@@ -1,11 +1,18 @@
 ---
 layout: post
-title: "ASP.NET MVC 3 and NuGet 1.0 Released (Including Source Code!)"
+title: ASP.NET MVC 3 and NuGet 1.0 Released (Including Source Code!)
 date: 2011-01-13 -0800
 comments: true
 disqus_identifier: 18756
-categories: [asp.net,asp.net mvc,code,open source,nuget]
+categories:
+- asp.net
+- asp.net mvc
+- code
+- open source
+- nuget
+redirect_from: "/archive/2011/01/12/aspnetmvc3-released.aspx/"
 ---
+
 The changing of the year is a time of celebration as people reflect
 thoughtfully on the past year and grow excited with anticipation for
 what’s to come in the year ahead.

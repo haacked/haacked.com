@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Haacking 2007"
+title: Haacking 2007
 date: 2007-12-31 -0800
 comments: true
 disqus_identifier: 18443
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2007/12/30/haacking-2007.aspx/"
 ---
+
 You’ve been forewarned, this is yet another end-of-year slightly
 self-inflating retrospective blog post (complete with the cheesy
 meta-blogging introduction).

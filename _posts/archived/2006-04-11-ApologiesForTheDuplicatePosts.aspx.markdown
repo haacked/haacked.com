@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Apologies For The Duplicate Posts"
+title: Apologies For The Duplicate Posts
 date: 2006-04-11 -0800
 comments: true
 disqus_identifier: 12392
 categories: []
+redirect_from: "/archive/2006/04/10/ApologiesForTheDuplicatePosts.aspx/"
 ---
+
 If you are seeing duplicate posts from my blog in your feed aggregator,
 my apologies. I am dogfooding the latest development version of Subtext
 straight from the Subversion repository. Unfortunately, my unit tests

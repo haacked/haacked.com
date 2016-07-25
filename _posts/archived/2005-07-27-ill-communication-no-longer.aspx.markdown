@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ill Communication No Longer"
+title: Ill Communication No Longer
 date: 2005-07-27 -0800
 comments: true
 disqus_identifier: 9065
 categories: []
+redirect_from: "/archive/2005/07/26/ill-communication-no-longer.aspx/"
 ---
+
 You just have to love modern technology and its power to shrink the
 Earth. I had a meeting over Skype with Micah in San Francisco from here
 in Japan with no discernible lag at all and wonderful audio quality.

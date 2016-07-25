@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Arrived at Mix 07"
+title: Arrived at Mix 07
 date: 2007-04-30 -0800
 comments: true
 disqus_identifier: 18298
 categories: []
+redirect_from: "/archive/2007/04/29/arrived-at-mix-07.aspx/"
 ---
+
 Well [Jon](http://weblogs.asp.net/jgalloway/ "Jon Galloway's Blog") and
 I arrived safely, driving into Vegas around 4 PM last evening. Upon
 arriving, we met up with [Miguel De

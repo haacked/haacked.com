@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Pop Quiz: Can you reference an exe assembly"
+title: 'Pop Quiz: Can you reference an exe assembly'
 date: 2004-04-28 -0800
 comments: true
 disqus_identifier: 374
 categories: []
+redirect_from: "/archive/2004/04/27/can-you-reference-an-exe-assembly.aspx/"
 ---
+
 With Visual Studio.NET 2005 and on, you can now reference an exe
 assembly just fine.
 

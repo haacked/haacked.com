@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "RSS Bandit Synchronization Using GMail Drive Shell Extension"
+title: RSS Bandit Synchronization Using GMail Drive Shell Extension
 date: 2004-10-27 -0800
 comments: true
 disqus_identifier: 1503
 categories: []
+redirect_from: "/archive/2004/10/26/rss-bandit-synchronization-using-gmail-drive-shell-extension.aspx/"
 ---
+
 If you haven't heard, RSS Bandit can synchronize its state (feedlist,
 read/unread, etc...) across multiple machines. I wrote about it in the
 [RSS Bandit docs](http://www.rssbandit.org/docs/).

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Options For Distributed Code Reviews"
+title: Options For Distributed Code Reviews
 date: 2006-02-03 -0800
 comments: true
 disqus_identifier: 11655
 categories: []
+redirect_from: "/archive/2006/02/02/OptionsForDistributedCodeReviews.aspx/"
 ---
+
 ![Screen Showing Code](http://haacked.com/images/CodeReview.jpg) The
 great thing about being involved in a couple of open source projects is
 that they provide great opportunities to learn and to teach, especially

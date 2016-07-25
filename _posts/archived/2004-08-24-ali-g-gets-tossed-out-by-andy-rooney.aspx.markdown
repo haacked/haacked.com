@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ali G Gets Tossed Out By Andy Rooney"
+title: Ali G Gets Tossed Out By Andy Rooney
 date: 2004-08-24 -0800
 comments: true
 disqus_identifier: 971
 categories: []
+redirect_from: "/archive/2004/08/23/ali-g-gets-tossed-out-by-andy-rooney.aspx/"
 ---
+
 ![Ali G](/images/AliG.jpg)Apparently, Andy Rooney has no [patience
 for](http://www.nypost.com/entertainment/27433.htm) faux british
 rappers. If you've never seen the Ali G show, it's worth a watch. One of

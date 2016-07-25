@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "DevSource Article on Exceptions"
+title: DevSource Article on Exceptions
 date: 2005-11-16 -0800
 comments: true
 disqus_identifier: 11207
 categories: []
+redirect_from: "/archive/2005/11/15/DevSourceArticleOnExceptions.aspx/"
 ---
+
 I am now a published DevSource article author. :)
 
 Well actually, [Bob Reselman (aka Mr. Coding

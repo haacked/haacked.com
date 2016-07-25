@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "6/6/06"
+title: 6/6/06
 date: 2006-06-06 -0800
 comments: true
 disqus_identifier: 13162
-categories: [humor]
+categories:
+- humor
+redirect_from: "/archive/2006/06/05/TodayIs666.aspx/"
 ---
+
 As you may well know, today is June 6, 2006 or in shorthand notation
 6/6/06, the mark of the beast. As the church lady would say, “mmmmm,
 isn’t that special?”

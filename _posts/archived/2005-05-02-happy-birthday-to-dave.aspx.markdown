@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Happy Birthday to Dave"
+title: Happy Birthday to Dave
 date: 2005-05-02 -0800
 comments: true
 disqus_identifier: 2918
 categories: []
+redirect_from: "/archive/2005/05/01/happy-birthday-to-dave.aspx/"
 ---
+
 I once said he missed the [point with Farhenheit
 9/11](http://haacked.com/archive/2004/06/30/711.aspx) and he linked to
 my criticism (bringing with it a lot of traffic). I appreciated and

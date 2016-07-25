@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Cruise Control .NET Resources"
+title: Cruise Control .NET Resources
 date: 2004-08-17 -0800
 comments: true
 disqus_identifier: 931
 categories: []
+redirect_from: "/archive/2004/08/16/ccnet-resources.aspx/"
 ---
+
 Since I’m just getting started with Cruise Control, I thought I’d look
 around the web and blogosphere and put together some resources on
 configuring CruiseControl.NET.

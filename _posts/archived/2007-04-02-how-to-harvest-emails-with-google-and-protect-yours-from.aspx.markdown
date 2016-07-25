@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "How to Harvest Emails With Google And Protect Yours From Spammers"
+title: How to Harvest Emails With Google And Protect Yours From Spammers
 date: 2007-04-02 -0800
 comments: true
 disqus_identifier: 18267
-categories: [code,tech]
+categories:
+- code
+- tech
+redirect_from: "/archive/2007/04/01/how-to-harvest-emails-with-google-and-protect-yours-from.aspx/"
 ---
+
 Just something I noticed today. A lot of people (I may even be guilty of
 this) publish their emails on the web using the following format:
 

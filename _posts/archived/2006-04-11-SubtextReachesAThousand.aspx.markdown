@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Subtext Reaches A Thousand"
+title: Subtext Reaches A Thousand
 date: 2006-04-11 -0800
 comments: true
 disqus_identifier: 12376
-categories: [subtext]
+categories:
+- subtext
+redirect_from: "/archive/2006/04/10/SubtextReachesAThousand.aspx/"
 ---
+
 ![Subtext Logo](http://haacked.com/images/SubtextLogo.png) [Steve
 Harman](http://stevenharman.net/blog/ "Steve's Blog") reports that
 [Subtext reached 1000

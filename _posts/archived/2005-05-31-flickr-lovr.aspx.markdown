@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Flickr Lovr"
+title: Flickr Lovr
 date: 2005-05-31 -0800
 comments: true
 disqus_identifier: 3962
 categories: []
+redirect_from: "/archive/2005/05/30/flickr-lovr.aspx/"
 ---
+
 I know it’s been around a good while now and has been the darling of the
 blogging community far that time, but I only recently started to play
 with [Flickr](http://flickr.com/). My initial resistance was due to my

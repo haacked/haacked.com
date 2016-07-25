@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Dream Hangovers"
+title: Dream Hangovers
 date: 2005-06-29 -0800
 comments: true
 disqus_identifier: 7412
 categories: []
+redirect_from: "/archive/2005/06/28/dream-hangovers.aspx/"
 ---
+
 ![Jaw Fragment](http://haacked.com/images/jawfragment.jpg) From the
 title of his post, [Dream
 Hangovers](http://sharpmarbles.stufftoread.com/archive/2005/06/30/3565.aspx),

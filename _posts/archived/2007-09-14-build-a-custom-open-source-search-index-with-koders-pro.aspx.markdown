@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Build a Custom Open Source Search Index"
+title: Build a Custom Open Source Search Index
 date: 2007-09-14 -0800
 comments: true
 disqus_identifier: 18391
 categories: []
+redirect_from: "/archive/2007/09/13/build-a-custom-open-source-search-index-with-koders-pro.aspx/"
 ---
+
 Here’s a little plug for something we’ve been working hard at over at
 Koders. Everyone knows that if you want to find open source code, you go
 to [http://www.koders.com/](http://www.koders.com/) (it recently got a

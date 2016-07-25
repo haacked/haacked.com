@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "The REST-Like Aspect Of ASP.NET MVC"
+title: The REST-Like Aspect Of ASP.NET MVC
 date: 2007-11-09 -0800
 comments: true
 disqus_identifier: 18420
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2007/11/08/the-rest-like-aspect-of-asp.net-mvc.aspx/"
 ---
+
 While at DevConnections/OpenForce, I had some great conversations with
 various people on the topic of ASP.NET MVC. While many expressed their
 excitement about the framework and asked when they could see the bits

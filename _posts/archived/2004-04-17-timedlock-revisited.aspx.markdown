@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "TimedLock revisited"
+title: TimedLock revisited
 date: 2004-04-17 -0800
 comments: true
 disqus_identifier: 333
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2004/04/16/timedlock-revisited.aspx/"
 ---
+
 In an earlier [blog entry](http://haacked.com/archive/2004/03/26/lock-statement-with-timeout.aspx/),
 I asked the question if it made sense to add code in a debug version of
 the TimedLock class (written by Ian Griffiths in [**this

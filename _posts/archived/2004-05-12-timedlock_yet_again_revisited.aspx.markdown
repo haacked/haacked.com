@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "TimedLock Yet Again Revisited..."
+title: TimedLock Yet Again Revisited...
 date: 2004-05-12 -0800
 comments: true
 disqus_identifier: 431
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2004/05/11/timedlock_yet_again_revisited.aspx/"
 ---
+
 ![lock](/images/lock.jpg) In an [earlier
 post](/archive/2004/04/17/timedlock-revisited.aspx), I updated the
 TimedLock class (first introduced in [this

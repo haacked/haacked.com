@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Globalizing ASP.NET MVC Client Validation"
+title: Globalizing ASP.NET MVC Client Validation
 date: 2010-05-10 -0800
 comments: true
 disqus_identifier: 18699
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2010/05/09/globalizing-mvc-validation.aspx/"
 ---
+
 One of my favorite features of ASP.NET MVC 2 is the support for client
 validation. I’ve covered a bit about validation in the following two
 posts:

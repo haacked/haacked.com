@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "You've Been Haacked In Chinese"
+title: You've Been Haacked In Chinese
 date: 2008-04-10 -0800
 comments: true
 disqus_identifier: 18475
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2008/04/09/youve-been-haacked-in-chinese.aspx/"
 ---
+
 If ever someone was undeserving of having others spend their valuable
 time translating his blog, it would be me. But hey, some people from the
 [http://blog.joycode.com/](http://blog.joycode.com/ "Blog Joycode") site

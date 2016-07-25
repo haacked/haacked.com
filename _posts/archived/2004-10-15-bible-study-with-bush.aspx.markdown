@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hilarity: Bible Study With Bush"
+title: 'Hilarity: Bible Study With Bush'
 date: 2004-10-15 -0800
 comments: true
 disqus_identifier: 1366
 categories: []
+redirect_from: "/archive/2004/10/14/bible-study-with-bush.aspx/"
 ---
+
 ![Bush Prays](/images/bushprays.jpg)Saw this going around the web.
 Classic!
 

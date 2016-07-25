@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "rel=&quot;nofollow&quot; Fix Applied"
+title: rel=&quot;nofollow&quot; Fix Applied
 date: 2005-01-19 -0800
 comments: true
 disqus_identifier: 1933
 categories: []
+redirect_from: "/archive/2005/01/18/relnofollow-fix-applied.aspx/"
 ---
+
 I applied a patch to my .Text installation as recommended by [Scott
 Watermasysk](http://scottwater.com/blog/) in [this
 entry](http://scottwater.com/blog/archive/2005/01/19/rel_nofollow_quickchange)

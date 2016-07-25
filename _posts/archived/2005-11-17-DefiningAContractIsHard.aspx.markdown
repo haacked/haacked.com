@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Defining a Contract Is Hard"
+title: Defining a Contract Is Hard
 date: 2005-11-17 -0800
 comments: true
 disqus_identifier: 11211
 categories: []
+redirect_from: "/archive/2005/11/16/DefiningAContractIsHard.aspx/"
 ---
+
 As soon as I saw the code sample on [K. Scott Allen’s latest blog
 post](http://odetocode.com/Blogs/scott/archive/2005/11/17/2479.aspx), I
 knew he was talking about the Membership Provider.

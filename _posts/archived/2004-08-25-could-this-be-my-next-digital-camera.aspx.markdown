@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Could This Be My Next Digital Camera?"
+title: Could This Be My Next Digital Camera?
 date: 2004-08-25 -0800
 comments: true
 disqus_identifier: 976
 categories: []
+redirect_from: "/archive/2004/08/24/could-this-be-my-next-digital-camera.aspx/"
 ---
+
 *[Via [Boing
 Boing](http://www.boingboing.net/2004/08/25/best_digital_camera_.html)]*
 

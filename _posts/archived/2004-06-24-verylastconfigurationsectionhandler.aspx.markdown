@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Very Last Configuration Section Handler I'll Ever Need"
+title: The Very Last Configuration Section Handler I'll Ever Need
 date: 2004-06-24 -0800
 comments: true
 disqus_identifier: 679
 categories: []
+redirect_from: "/archive/2004/06/23/verylastconfigurationsectionhandler.aspx/"
 ---
+
 UPDATE: In ASP.NET 2.0, there’s an even easier approach that supercedes
 this one. I wrote [about it
 here](http://haacked.com/archive/2007/03/12/custom-configuration-sections-in-3-easy-steps.aspx "configuration in asp.net 2.0").

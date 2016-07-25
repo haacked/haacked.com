@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "See Me in Brazil and Argentina in March"
+title: See Me in Brazil and Argentina in March
 date: 2010-12-21 -0800
 comments: true
 disqus_identifier: 18749
-categories: [personal,asp.net mvc,asp.net]
+categories:
+- personal
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2010/12/20/see-me-in-brazil-and-argentina-in-march.aspx/"
 ---
+
 Along with [James Senior](http://jamessenior.com/ "James Senior"), I’ll
 be speaking at a couple of **free** [Web
 Camps](http://www.webcamps.ms "Web Camps") events in South America in

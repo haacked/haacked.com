@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Want to work on datajs?"
+title: Want to work on datajs?
 date: 2011-03-23 -0800
 comments: true
 disqus_identifier: 18769
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2011/03/22/want-to-work-on-datajs.aspx/"
 ---
+
 A colleague of mine from the Data and Modeling Group mentioned that they
 have a new senior developer position open working on their new datajs
 project.

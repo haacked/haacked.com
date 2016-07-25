@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hooking Another Person On RSS Bandit"
+title: Hooking Another Person On RSS Bandit
 date: 2004-07-29 -0800
 comments: true
 disqus_identifier: 866
 categories: []
+redirect_from: "/archive/2004/07/28/hooking-another-person-on-rss-bandit.aspx/"
 ---
+
 I'm here in Seattle hooking an unsuspecting Dan Kalish on the drug I
 call RSS Bandit. He just finished the Washington Bar (after having
 passed the Connecticut bar only a couple of years ago. Sucks to be a

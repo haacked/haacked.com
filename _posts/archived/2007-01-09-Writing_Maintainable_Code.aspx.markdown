@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Writing Maintainable Code"
+title: Writing Maintainable Code
 date: 2007-01-09 -0800
 comments: true
 disqus_identifier: 18187
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2007/01/08/Writing_Maintainable_Code.aspx/"
 ---
+
 [![A big
 wrenche](http://haacked.com/images/haacked_com/WindowsLiveWriter/WritingMaintainableCode_8727/496099_monkey_wrench_thumb%5B1%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/WritingMaintainableCode_8727/496099_monkey_wrench%5B3%5D.jpg)
 [Jeremy

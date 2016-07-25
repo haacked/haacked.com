@@ -5,7 +5,9 @@ date: 2006-03-25 -0800
 comments: true
 disqus_identifier: 12195
 categories: []
+redirect_from: "/archive/2006/03/24/Mix06VeryLateRoundup.aspx/"
 ---
+
 ![Craps](http://haacked.com/images/Craps.jpg)I apologize for writing up
 a roundup for the Mix06 conference several days too late, but I was not
 in a good condition to blog during the conference. In part it was due to

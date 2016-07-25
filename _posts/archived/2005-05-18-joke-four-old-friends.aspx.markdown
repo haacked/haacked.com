@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Joke: Four Old Friends"
+title: 'Joke: Four Old Friends'
 date: 2005-05-18 -0800
 comments: true
 disqus_identifier: 3314
 categories: []
+redirect_from: "/archive/2005/05/17/joke-four-old-friends.aspx/"
 ---
+
 Four friends who hadn’t seen each other in 30 years, reunited at a
 party. After several drinks, one of the men had to use the rest room.
 Those who remained talked about their kids.

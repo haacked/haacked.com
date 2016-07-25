@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "MUSIC: My Finger Is On The Button"
+title: 'MUSIC: My Finger Is On The Button'
 date: 2005-01-24 -0800
 comments: true
 disqus_identifier: 2006
 categories: []
+redirect_from: "/archive/2005/01/23/my-finger-is-on-the-button.aspx/"
 ---
+
 If you’re a fan of good music (I mean objectively, not subjectively) I
 plan to recommend a few songs here and there in this blog. Never mind
 the fact that if you end up purchasing the songs via my site, I get

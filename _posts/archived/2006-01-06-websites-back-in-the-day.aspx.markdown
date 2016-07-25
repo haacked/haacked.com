@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Websites Back In The Day"
+title: Websites Back In The Day
 date: 2006-01-06 -0800
 comments: true
 disqus_identifier: 11423
 categories: []
+redirect_from: "/archive/2006/01/05/websites-back-in-the-day.aspx/"
 ---
+
 [Scott
 Mitchell](http://scottonwriting.net/sowblog/ "Scott On Writing Blog")
 reminisces about [Websites Back in the

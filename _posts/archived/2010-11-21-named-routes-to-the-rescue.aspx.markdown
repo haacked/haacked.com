@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Named Routes To The Rescue"
+title: Named Routes To The Rescue
 date: 2010-11-21 -0800
 comments: true
 disqus_identifier: 18738
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2010/11/20/named-routes-to-the-rescue.aspx/"
 ---
+
 > The beginning of wisdom is to call things by their right names –
 > Chinese Proverb
 

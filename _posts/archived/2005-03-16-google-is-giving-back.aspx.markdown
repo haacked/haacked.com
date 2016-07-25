@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Google Is Giving Back"
+title: Google Is Giving Back
 date: 2005-03-16 -0800
 comments: true
 disqus_identifier: 2397
 categories: []
+redirect_from: "/archive/2005/03/15/google-is-giving-back.aspx/"
 ---
+
 Looks like Google is responding to [some
 critics](http://blog.kowalczyk.info/archives/2004/12/29/google-we-take-it-all-give-nothing-back/)
 who say Google takes all and doesn't give back to the open source

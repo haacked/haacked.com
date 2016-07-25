@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Neopoleon Guide to Hollywood Aliens"
+title: The Neopoleon Guide to Hollywood Aliens
 date: 2004-03-11 -0800
 comments: true
 disqus_identifier: 244
 categories: []
+redirect_from: "/archive/2004/03/10/the-neopoleon-guide-to-hollywood-aliens.aspx/"
 ---
+
 This is a hilarious guide to distinguishing aliens from humans. Here's
 an excerpt. Read the rest at
 [Neopoleon.com](http://neopoleon.com/blog/posts/4214.aspx).

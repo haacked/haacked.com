@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Write Well To Win Friends And Influence People"
+title: Write Well To Win Friends And Influence People
 date: 2006-05-10 -0800
 comments: true
 disqus_identifier: 12738
 categories: []
+redirect_from: "/archive/2006/05/09/WriteWellToWinFriendsAndInfluencePeople.aspx/"
 ---
+
 ![Pen](http://haacked.com/images/FountainPen.jpg) I write this blog post
 with apologies to [Dale
 Carnegie](http://en.wikipedia.org/wiki/Dale_Carnegie "Dale Carnegie")

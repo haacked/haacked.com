@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Anatomy of a Cross-site Request Forgery Attack"
+title: Anatomy of a Cross-site Request Forgery Attack
 date: 2009-04-02 -0800
 comments: true
 disqus_identifier: 18605
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from: "/archive/2009/04/01/anatomy-of-csrf-attack.aspx/"
 ---
+
 A [Cross-site request
 forgery](http://en.wikipedia.org/wiki/CSRF "Cross-site requset forgery")
 attack, also known as CSRF or XSRF (pronounced sea-surf) is the less

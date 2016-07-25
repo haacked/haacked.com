@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Merry Christmas!"
+title: Merry Christmas!
 date: 2006-12-25 -0800
 comments: true
 disqus_identifier: 18180
 categories: []
+redirect_from: "/archive/2006/12/24/Merry_Christmas.aspx/"
 ---
+
 Here’s wishing you a Merry Christmas and a Happy Holidays. For
 Christmas, I received a defective video card as a warranty replacement
 for my defective video card. Thanks Dell! The replacement card was

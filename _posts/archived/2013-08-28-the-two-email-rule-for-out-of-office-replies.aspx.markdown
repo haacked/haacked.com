@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "The Two Email Rule For Out of Office Replies"
+title: The Two Email Rule For Out of Office Replies
 date: 2013-08-28 -0800
 comments: true
 disqus_identifier: 18898
-categories: [humor,personal,company culture]
+categories:
+- humor
+- personal
+- company culture
+redirect_from: "/archive/2013/08/27/the-two-email-rule-for-out-of-office-replies.aspx/"
 ---
+
 I avoid mailing lists the same way I avoid fun activities like meetings
 and pouring lemon juice into bloody scrapes. Even so, I still somehow
 end up subscribed to one or two. Even worse, once in a while, despite my

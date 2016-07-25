@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Increase Productivity With Search Driven Development"
+title: Increase Productivity With Search Driven Development
 date: 2007-03-16 -0800
 comments: true
 disqus_identifier: 18248
 categories: []
+redirect_from: "/archive/2007/03/15/increase-productivity-with-search-driven-development.aspx/"
 ---
+
 [![Search Magnifying
 Glass](http://haacked.com/images/haacked_com/WindowsLiveWriter/IncreaseProductivityWithSearchDrivenDeve_E9CF/magnifyGlass00009_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/IncreaseProductivityWithSearchDrivenDeve_E9CF/magnifyGlass00009%5B2%5D.jpg)
 With all the advances in software development in the past few years, I

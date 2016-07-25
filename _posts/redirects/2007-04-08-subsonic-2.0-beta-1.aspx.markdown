@@ -1,4 +1,0 @@
----
-date: 2007-04-08 -0800
-redirect_to: /archive/2007/04/09/subsonic-2.0-beta-1.aspx/
----

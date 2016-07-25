@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "A Caveat with NuGet Source Code Packages"
+title: A Caveat with NuGet Source Code Packages
 date: 2013-02-10 -0800
 comments: true
 disqus_identifier: 18884
-categories: [git,github,code]
+categories:
+- git
+- github
+- code
+redirect_from: "/archive/2013/02/09/a-caveat-with-nuget-source-code-packages.aspx/"
 ---
+
 The other day I needed a simple JSON parser for a thing I worked on.
 Sure, I’m familiar with JSON.NET, but I wanted something I could just
 compile into my project. The reason why is not important for this

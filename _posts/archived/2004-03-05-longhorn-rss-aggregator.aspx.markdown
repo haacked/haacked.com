@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Longhorn RSS Aggregator"
+title: Longhorn RSS Aggregator
 date: 2004-03-05 -0800
 comments: true
 disqus_identifier: 235
 categories: []
+redirect_from: "/archive/2004/03/04/longhorn-rss-aggregator.aspx/"
 ---
+
 I've seen the future and it is good. Adam Kinney has a demo Rss
 Aggregator for Longhorn at his site,
 [http://www.adamkinney.com/](www.adamkinney.com "Adam Kinney"). It's

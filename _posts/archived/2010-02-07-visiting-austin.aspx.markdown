@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Headed To Austin and Speaking at the .NET User&rsquo;s Group"
+title: Headed To Austin and Speaking at the .NET User&rsquo;s Group
 date: 2010-02-07 -0800
 comments: true
 disqus_identifier: 18684
-categories: [personal,code]
+categories:
+- personal
+- code
+redirect_from: "/archive/2010/02/06/visiting-austin.aspx/"
 ---
+
 UPDATE: We moved the date to February 24th.
 
 The stars at night, are big and bright – clap clap clap clap – **deep in

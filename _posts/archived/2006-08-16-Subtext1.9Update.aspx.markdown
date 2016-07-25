@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Subtext 1.9 Update"
+title: Subtext 1.9 Update
 date: 2006-08-16 -0800
 comments: true
 disqus_identifier: 15242
 categories: []
+redirect_from: "/archive/2006/08/15/Subtext1.9Update.aspx/"
 ---
+
 Work on [Subtext](http://subtextproject.com/ "Subtext Project Site") 1.9
 is progressing well with more and more contributors chipping in. No firm
 release date yet, but hopefully soon.  The latest builds are pretty

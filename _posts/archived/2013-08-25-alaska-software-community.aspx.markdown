@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Alaska Software Community"
+title: Alaska Software Community
 date: 2013-08-25 -0800
 comments: true
 disqus_identifier: 18897
-categories: [code,community]
+categories:
+- code
+- community
+redirect_from: "/archive/2013/08/24/alaska-software-community.aspx/"
 ---
+
 There’s something about being outdoors in Alaska that inspires poetic
 thoughts. In my case it’s all bad poetry so I’ll spare you the nausea
 and just show a photo instead.

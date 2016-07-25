@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Synchronization Software?"
+title: Synchronization Software?
 date: 2004-11-11 -0800
 comments: true
 disqus_identifier: 1598
 categories: []
+redirect_from: "/archive/2004/11/10/synchronization-software.aspx/"
 ---
+
 So now that I have a second Windows box (and third computer in the
 house), I'm soliciting recommendations for good synchronization
 software. Ideally I'd like something where I could configure which

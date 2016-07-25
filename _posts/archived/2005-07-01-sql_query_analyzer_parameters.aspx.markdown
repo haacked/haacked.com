@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Sql Query Analyzer Template Parameters"
+title: Sql Query Analyzer Template Parameters
 date: 2005-07-01 -0800
 comments: true
 disqus_identifier: 7433
-categories: [sql]
+categories:
+- sql
+redirect_from: "/archive/2005/06/30/sql_query_analyzer_parameters.aspx/"
 ---
+
 I’m not sure if this is common knowledge, but you can place template
 parameters in your SQL scripts and evaluate them within query analyzer.
 I think I learned this one a long time ago from a former fantastic

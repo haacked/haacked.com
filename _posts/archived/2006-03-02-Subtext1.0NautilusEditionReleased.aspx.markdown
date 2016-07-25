@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Subtext 1.0 Nautilus Edition Released"
+title: Subtext 1.0 Nautilus Edition Released
 date: 2006-03-02 -0800
 comments: true
 disqus_identifier: 11927
 categories: []
+redirect_from: "/archive/2006/03/01/Subtext1.0NautilusEditionReleased.aspx/"
 ---
+
 ![Subtext Logo](/images/SubtextLogo.png) Well it took a bit longer than
 I thought it would, but we’ve finally put the final touches to [Subtext
 1.0](http://subtextproject.com/ "Subtext Project Site"), code named

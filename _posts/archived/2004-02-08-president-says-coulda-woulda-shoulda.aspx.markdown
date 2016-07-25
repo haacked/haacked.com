@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "President says, &quot;Coulda, Woulda, Shoulda&quot;"
+title: President says, &quot;Coulda, Woulda, Shoulda&quot;
 date: 2004-02-08 -0800
 comments: true
 disqus_identifier: 180
 categories: []
+redirect_from: "/archive/2004/02/07/president-says-coulda-woulda-shoulda.aspx/"
 ---
+
 I thought this was a joke until I realized that it was on Yahoo news.
 Bush and Cheney say we attacked Iraq because Saddam COULD HAVE made
 weapons of mass destruction. "Could have". Gee, well North Korea "could

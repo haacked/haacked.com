@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Ambiguous Controller Names With Areas"
+title: Ambiguous Controller Names With Areas
 date: 2010-01-12 -0800
 comments: true
 disqus_identifier: 18675
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2010/01/11/ambiguous-controller-names.aspx/"
 ---
+
 *Note: This describes the behavior of ASP.NET MVC 2 as of the release
 candidate. It’s possible things might change for the RTM.*
 

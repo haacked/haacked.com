@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Birthday Clusters and Code Camps"
+title: Birthday Clusters and Code Camps
 date: 2008-01-23 -0800
 comments: true
 disqus_identifier: 18450
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2008/01/22/birthday-clusters-and-code-camps.aspx/"
 ---
+
 Well today I turn old. 33 years old to be exact. A day after
 [Hanselman](http://hanselman.com/blog/ "Scott Hanselman") turns really
 old. It seems I’m always following in that guy’s footsteps doesn’t it?

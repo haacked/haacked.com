@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "ASP.NET MVC Preview of a Preview"
+title: ASP.NET MVC Preview of a Preview
 date: 2008-04-17 -0800
 comments: true
 disqus_identifier: 18476
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2008/04/16/asp.net-mvc-preview-of-a-preview.aspx/"
 ---
+
 UPDATE: Just to prove that this is a preview of a preview, we had a
 signing problem with the initial pre-built VSI download. If you tried
 building from source, everything should’ve been ok. We apologize for

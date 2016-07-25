@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Put Your Pages and Views on Lockdown"
+title: Put Your Pages and Views on Lockdown
 date: 2009-05-05 -0800
 comments: true
 disqus_identifier: 18614
 categories: []
+redirect_from: "/archive/2009/05/04/page-view-lockdown.aspx/"
 ---
+
 [![lockdown](http://haacked.com/images/haacked_com/WindowsLiveWriter/PutYourViewsonLockdown_DB88/lockdown_3.jpg "lockdown")](http://www.sxc.hu/photo/1135166 "Lock on stock.xchng")As
 I’m sure you know, we developers are very particular people and we like
 to have things exactly our way. How else can you explain long winded

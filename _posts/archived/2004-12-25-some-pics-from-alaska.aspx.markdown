@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Some Pics from Alaska"
+title: Some Pics from Alaska
 date: 2004-12-25 -0800
 comments: true
 disqus_identifier: 1762
 categories: []
+redirect_from: "/archive/2004/12/24/some-pics-from-alaska.aspx/"
 ---
+
 This is the road out of Anchorage towards Turnagain arm. It's around 10
 AM and the sun is just about to rouse its lazy butt above the horizon.
 

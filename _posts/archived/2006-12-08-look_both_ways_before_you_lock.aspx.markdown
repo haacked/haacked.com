@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Look Both Ways Before You Lock"
+title: Look Both Ways Before You Lock
 date: 2006-12-08 -0800
 comments: true
 disqus_identifier: 18159
 categories: []
+redirect_from: "/archive/2006/12/07/look_both_ways_before_you_lock.aspx/"
 ---
+
 [![Green Light from
 http://www.sxc.hu/photo/669003](http://haacked.com/images/haacked_com/WindowsLiveWriter/LookBothWaysBeforeYouLock_15150/669003_green_traffic_light_thumb1.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/LookBothWaysBeforeYouLock_15150/669003_green_traffic_light3.jpg "Traffic Light")Google
 Code Search is truly the search engine for the uber geek, and

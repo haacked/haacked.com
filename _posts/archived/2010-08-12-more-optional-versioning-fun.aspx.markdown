@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "More Versioning Fun With Optional Arguments"
+title: More Versioning Fun With Optional Arguments
 date: 2010-08-12 -0800
 comments: true
 disqus_identifier: 18717
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2010/08/11/more-optional-versioning-fun.aspx/"
 ---
+
 In my [last blog
 post](http://haacked.com/archive/2010/08/10/versioning-issues-with-optional-arguments.aspx "Versioning Issues with Optional Arguments"),
 I covered some challenges with versioning methods that differ only by

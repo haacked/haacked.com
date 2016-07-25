@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A New Sub In Town"
+title: A New Sub In Town
 date: 2006-09-05 -0800
 comments: true
 disqus_identifier: 16317
 categories: []
+redirect_from: "/archive/2006/09/04/A_New_Sub_In_Town.aspx/"
 ---
+
 [Darren Neimke](http://markitup.com/) apparently is not one to shy away
 from a bit of trash talk.  He IM’d me via MSN recently to warn me about
 a new SUB, ready to take down [Subtext](http://subtextproject.com/). In

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "7 Arrested in School Cafeteria Food Fight (AP)"
+title: 7 Arrested in School Cafeteria Food Fight (AP)
 date: 2004-06-10 -0800
 comments: true
 disqus_identifier: 611
 categories: []
+redirect_from: "/archive/2004/06/09/7-arrested-in-school-cafeteria-food-fight-ap.aspx/"
 ---
+
 Wolfgang Puck could not be reached for comment.
 
 > AP - A food fight that started with fruit cup turned into a mealtime

@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Reflective Parenting"
+title: Reflective Parenting
 date: 2013-05-27 -0800
 comments: true
 disqus_identifier: 18890
-categories: [personal, empathy, parenting]
+categories:
+- personal
+- empathy
+- parenting
+redirect_from: "/archive/2013/05/26/reflective-parenting.aspx/"
 ---
+
 *This post is a departure from my typical software related topics, but I think you’ll find parallels with management and dealing with software developers.*
 
 Parenting is a skill like any other – it can be improved (*for some more than others, amirite?!*).

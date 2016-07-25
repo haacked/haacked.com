@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Super Simple MVC Ajax With JQuery Demo"
+title: Super Simple MVC Ajax With JQuery Demo
 date: 2008-07-29 -0800
 comments: true
 disqus_identifier: 18512
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2008/07/28/super-simple-mvc-ajax-with-jquery-demo.aspx/"
 ---
+
 UPDATE: I linked to the wrong post. I corrected the link.
 
 During the recent Insiders summit,
