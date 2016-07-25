@@ -1,4 +1,0 @@
----
-date: 2007-12-10 -0800
-redirect_to: /archive/2007/12/11/asp.net-mvc-design-philosophy.aspx/
----

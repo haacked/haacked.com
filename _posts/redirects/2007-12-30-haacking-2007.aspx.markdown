@@ -1,4 +1,0 @@
----
-date: 2007-12-30 -0800
-redirect_to: /archive/2007/12/31/haacking-2007.aspx/
----

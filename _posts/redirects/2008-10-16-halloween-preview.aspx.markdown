@@ -1,4 +1,0 @@
----
-date: 2008-10-16 -0800
-redirect_to: /archive/2008/10/17/halloween-preview.aspx/
----

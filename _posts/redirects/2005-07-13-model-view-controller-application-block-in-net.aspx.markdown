@@ -1,4 +1,0 @@
----
-date: 2005-07-13 -0800
-redirect_to: /archive/2005/07/14/model-view-controller-application-block-in-net.aspx/
----
