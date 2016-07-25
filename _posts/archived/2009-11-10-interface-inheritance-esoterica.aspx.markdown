@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Interface Inheritance Esoterica"
+title: Interface Inheritance Esoterica
 date: 2009-11-10 -0800
 comments: true
 disqus_identifier: 18658
 categories: []
+redirect_from: "/archive/2009/11/09/interface-inheritance-esoterica.aspx/"
 ---
+
 I learned something new yesterday about interface inheritance in .NET as
 compared to implementation inheritance. To illustrate this difference,
 here’s a simple demonstration.

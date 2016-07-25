@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Simple Answer To VS.NET Designer Woe"
+title: The Simple Answer To VS.NET Designer Woe
 date: 2005-10-14 -0800
 comments: true
 disqus_identifier: 10809
 categories: []
+redirect_from: "/archive/2005/10/13/the-simple-answer-to-vsnet-designer-woe.aspx/"
 ---
+
 It’s happened to all of us. You are happily coding along (in Visual
 Studio .NET 1.x), minding your own business when you decide to switch
 from the code view to the designer and back to the code view. That’s

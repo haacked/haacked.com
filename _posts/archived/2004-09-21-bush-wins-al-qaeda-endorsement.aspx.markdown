@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Bush Wins Al Qaeda Endorsement"
+title: Bush Wins Al Qaeda Endorsement
 date: 2004-09-21 -0800
 comments: true
 disqus_identifier: 1245
 categories: []
+redirect_from: "/archive/2004/09/20/bush-wins-al-qaeda-endorsement.aspx/"
 ---
+
 [Read the story](http://www.foxnews.com/story/0,2933,114489,00.html)
 from Fox News of all places.
 

@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Security Tip: Blocking Access to ASP.NET MVC Views Using Alternative View Engines"
+title: 'Security Tip: Blocking Access to ASP.NET MVC Views Using Alternative View
+  Engines'
 date: 2008-06-25 -0800
 comments: true
 disqus_identifier: 18498
-categories: [asp.net mvc,asp.net,code]
+categories:
+- asp.net mvc
+- asp.net
+- code
+redirect_from: "/archive/2008/06/24/aspnetmvc-block-view-access.aspx/"
 ---
+
 When you create a new ASP.NET MVC project using our default templates,
 one of the things you might notice is that there is a `web.config` file
 within the *Views* directory. This file is there specifically to block

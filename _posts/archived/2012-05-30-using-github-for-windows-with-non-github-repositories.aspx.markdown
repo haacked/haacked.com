@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Using GitHub for Windows with non-GitHub repositories"
+title: Using GitHub for Windows with non-GitHub repositories
 date: 2012-05-30 -0800
 comments: true
 disqus_identifier: 18859
-categories: [github,git]
+categories:
+- github
+- git
+redirect_from: "/archive/2012/05/29/using-github-for-windows-with-non-github-repositories.aspx/"
 ---
+
 In my [last blog
 post](http://haacked.com/archive/2012/05/21/introducing-github-for-windows.aspx "Introducing GitHub for Windows"),
 I mentioned that GitHub for Windows (GHfW) works with non-GitHub

@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Recognition Compensation"
+title: Recognition Compensation
 date: 2012-01-05 -0800
 comments: true
 disqus_identifier: 18840
-categories: [open source,community]
+categories:
+- open source
+- community
+redirect_from: "/archive/2012/01/04/recognition-compensation.aspx/"
 ---
+
 Mary Poppendieck writes the following in [Unjust Deserts
 (pdf)](http://www.poppendieck.com/pdfs/Compensation.pdf "Poppendieck paper on compensation"),
 a paper on compensation systems (emphasis mine),

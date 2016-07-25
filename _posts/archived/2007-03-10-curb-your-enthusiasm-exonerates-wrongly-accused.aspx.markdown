@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Curb Your Enthusiasm Exonerates Wrongly Accused"
+title: Curb Your Enthusiasm Exonerates Wrongly Accused
 date: 2007-03-10 -0800
 comments: true
 disqus_identifier: 18234
 categories: []
+redirect_from: "/archive/2007/03/09/curb-your-enthusiasm-exonerates-wrongly-accused.aspx/"
 ---
+
 [![Curb your enthusiasm season 1
 dvd](http://images.amazon.com/images/P/B000FL7CAU.01._AA_SCMZZZZZZZ_.jpg)](http://www.amazon.com/gp/product/B000FL7CAU?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000FL7CAU)Juan
 Catalan must be feeling “Pretty good. Pretty, pretty, pretty, pretty,

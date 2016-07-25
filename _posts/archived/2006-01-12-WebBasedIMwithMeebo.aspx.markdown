@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Web Based IM with Meebo"
+title: Web Based IM with Meebo
 date: 2006-01-12 -0800
 comments: true
 disqus_identifier: 11485
 categories: []
+redirect_from: "/archive/2006/01/11/WebBasedIMwithMeebo.aspx/"
 ---
+
 Can’t use your favorite IM tool because of a pesky firewall at your
 place of work? Kyle points me to this web app,
 [Meebo](http://meebo.com/) which appears to be in the alpha phase, but

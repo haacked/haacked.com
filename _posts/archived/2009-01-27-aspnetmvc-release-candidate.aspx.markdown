@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "ASP.NET MVC Release Candidate"
+title: ASP.NET MVC Release Candidate
 date: 2009-01-27 -0800
 comments: true
 disqus_identifier: 18579
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2009/01/26/aspnetmvc-release-candidate.aspx/"
 ---
+
 At long last I am happy, relieved, excited to announce the release
 candidate for [ASP.NET MVC](http://asp.net/mvc "ASP.NET MVC Website").
 Feel free to **[go download it

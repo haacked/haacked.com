@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Hazards of Converting Binary Data To A String"
+title: Hazards of Converting Binary Data To A String
 date: 2012-01-30 -0800
 comments: true
 disqus_identifier: 18844
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2012/01/29/hazards-of-converting-binary-data-to-a-string.aspx/"
 ---
+
 Back in November, someone asked [a question on
 StackOverflow](http://stackoverflow.com/questions/7996955/encoding-to-use-to-convert-bytes-array-to-string-and-vice-versa "Converting bytes to a string")
 about converting arbitrary binary data (in the form of a byte array) to

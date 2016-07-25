@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Delegating Action Result"
+title: Delegating Action Result
 date: 2008-05-11 -0800
 comments: true
 disqus_identifier: 18485
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2008/05/10/delegating-action-result.aspx/"
 ---
+
 In [my last
 post](http://haacked.com/archive/2008/05/10/writing-a-custom-file-download-action-result-for-asp.net-mvc.aspx "Download Action Result"),
 I walked through a simple example of an `ActionResult` that you can use

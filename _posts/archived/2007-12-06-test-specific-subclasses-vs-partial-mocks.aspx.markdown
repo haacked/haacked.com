@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Test Specific Subclasses vs Partial Mocks"
+title: Test Specific Subclasses vs Partial Mocks
 date: 2007-12-06 -0800
 comments: true
 disqus_identifier: 18431
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2007/12/05/test-specific-subclasses-vs-partial-mocks.aspx/"
 ---
+
 Sometimes when writing unit tests, you run into the case where you want
 to override the behavior of a specific method.
 

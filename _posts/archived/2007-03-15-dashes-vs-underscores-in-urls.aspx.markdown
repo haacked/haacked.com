@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Dashes Vs Underscores In URLs"
+title: Dashes Vs Underscores In URLs
 date: 2007-03-15 -0800
 comments: true
 disqus_identifier: 18245
 categories: []
+redirect_from: "/archive/2007/03/14/dashes-vs-underscores-in-urls.aspx/"
 ---
+
 I used to think the choice of using dashes vs underscores to separate
 words in an URL was simply a matter of personal preference. Nothing more
 than a [religious

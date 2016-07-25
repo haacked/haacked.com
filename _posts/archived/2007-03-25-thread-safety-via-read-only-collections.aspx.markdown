@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Thread Safety Via Read Only Collections"
+title: Thread Safety Via Read Only Collections
 date: 2007-03-25 -0800
 comments: true
 disqus_identifier: 18262
 categories: []
+redirect_from: "/archive/2007/03/24/thread-safety-via-read-only-collections.aspx/"
 ---
+
 UPDATE: Made some corrections to the discussion of ReadOnlyCollection’s
 interface implementations near the bottom. Thanks to [Thomas
 Freudenberg](http://thomasfreudenberg.com/ "Thomas Freudenberg") and

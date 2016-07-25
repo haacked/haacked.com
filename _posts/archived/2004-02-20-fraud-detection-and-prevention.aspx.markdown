@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Fraud Detection and Prevention"
+title: Fraud Detection and Prevention
 date: 2004-02-20 -0800
 comments: true
 disqus_identifier: 202
 categories: []
+redirect_from: "/archive/2004/02/19/fraud-detection-and-prevention.aspx/"
 ---
+
 My latest task is to produce reports useful for fraud detection. We’ve
 recently had incidents in which users from Vietnam opened up several
 accounts via stolen credit cards, deposited money via Paypal, then

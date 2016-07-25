@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Achieving Pixel Perfect Skins in DotNetNuke"
+title: Achieving Pixel Perfect Skins in DotNetNuke
 date: 2005-11-17 -0800
 comments: true
 disqus_identifier: 11206
 categories: []
+redirect_from: "/archive/2005/11/16/AchievingPixelPerfectSkinsInDotNetNuke.aspx/"
 ---
+
 One complaint that I’ve had about DotNetNuke (DNN for short) is the
 difficulty I've had in creating skins that match client design comps
 exactly to the pixel. And believe me, they check every single one.

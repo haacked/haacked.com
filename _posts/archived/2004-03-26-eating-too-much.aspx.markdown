@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Eating too much"
+title: Eating too much
 date: 2004-03-26 -0800
 comments: true
 disqus_identifier: 273
 categories: []
+redirect_from: "/archive/2004/03/25/eating-too-much.aspx/"
 ---
+
 ![](/images/pig.jpg)Don't you hate it when you momentarily lose all
 control and pig out like a death row inmate on his last meal? I need to
 exhibit more self control during those “all you can eat” moments,

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Corporate Sponsored Pornography?"
+title: Corporate Sponsored Pornography?
 date: 2004-08-26 -0800
 comments: true
 disqus_identifier: 981
 categories: []
+redirect_from: "/archive/2004/08/25/corporate-sponsored-pornography.aspx/"
 ---
+
 I thought that would get your attention. I recently realized that my old
 blog on blogspot is still up and running. When I was working at a large
 ethnic television network (that will remain unnamed), I received the

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Is Bush Choosing Stupidity?"
+title: Is Bush Choosing Stupidity?
 date: 2004-05-10 -0800
 comments: true
 disqus_identifier: 425
 categories: []
+redirect_from: "/archive/2004/05/09/is-bush-choosing-stupidity.aspx/"
 ---
+
 ![Dubya](/images/Dubya.jpg)This [interesting
 piece](http://slate.msn.com/id/2100064/) on
 [Slate](http://www.slate.com) presents the idea that perhaps Bush chose

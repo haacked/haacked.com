@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Resharper Can Preview XML Comments as HTML"
+title: Resharper Can Preview XML Comments as HTML
 date: 2006-07-19 -0800
 comments: true
 disqus_identifier: 14005
 categories: []
+redirect_from: "/archive/2006/07/18/ResharperCanPreviewXMLCommentsAsHTML.aspx/"
 ---
+
 Golly gee whiz but you learn something new every day. I was a big fan of
 [Quickdoc
 viewer](http://www.kyrsoft.com/opentools/qdocviewer.html "QuickDoc Viewer site")

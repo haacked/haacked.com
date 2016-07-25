@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Step Aside StackOverflow, Here&rsquo;s HaackOverflow"
+title: Step Aside StackOverflow, Here&rsquo;s HaackOverflow
 date: 2008-11-07 -0800
 comments: true
 disqus_identifier: 18550
-categories: [humor,personal]
+categories:
+- humor
+- personal
+redirect_from: "/archive/2008/11/06/haackoverflow-vs-stackoverflow.aspx/"
 ---
+
 During my talk at the PDC, I heeded [Hanselman’s call to
 action](http://www.hanselman.com/blog/CommunityCallToActionNOTNorthwind.aspx "No More Northwind")
 and decided to veer away from the Northwind “Permademo” and build

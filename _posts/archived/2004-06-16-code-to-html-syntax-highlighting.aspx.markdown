@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Syntax Highlighting.  Converting C# (et al) to HTML."
+title: Syntax Highlighting.  Converting C# (et al) to HTML.
 date: 2004-06-16 -0800
 comments: true
 disqus_identifier: 636
 categories: []
+redirect_from: "/archive/2004/06/15/code-to-html-syntax-highlighting.aspx/"
 ---
+
 I’ve probably read a hundred or so posts of people looking for a way to
 syntax highlight source code listings in HTML. Maybe I’m the last to
 discover this site, but

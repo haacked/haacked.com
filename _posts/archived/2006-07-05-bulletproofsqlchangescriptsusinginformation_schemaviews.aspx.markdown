@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Bulletproof Sql Change Scripts Using INFORMATION_SCHEMA Views"
+title: Bulletproof Sql Change Scripts Using INFORMATION_SCHEMA Views
 date: 2006-07-05 -0800
 comments: true
 disqus_identifier: 13710
-categories: [sql]
+categories:
+- sql
+redirect_from: "/archive/2006/07/04/bulletproofsqlchangescriptsusinginformation_schemaviews.aspx/"
 ---
+
 ![Bullet](http://haacked.com/images/singlebullet.jpg) Working as a team
 against a common database schema can be a real challenge. Some teams
 prefer to have their local code connect to a centralized database, but

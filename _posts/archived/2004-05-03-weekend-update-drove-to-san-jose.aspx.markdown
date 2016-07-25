@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Weekend Update: Drove to San Jose..."
+title: 'Weekend Update: Drove to San Jose...'
 date: 2004-05-03 -0800
 comments: true
 disqus_identifier: 399
 categories: []
+redirect_from: "/archive/2004/05/02/weekend-update-drove-to-san-jose.aspx/"
 ---
+
 ![Rock The Vote](/images/RockTheVote.jpg)This weekend I drove up to San
 Jose to hang out with [Mr.
 Oba](http://koba.europe.webmatrixhosting.net "Kyle Oba") and his woman

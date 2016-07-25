@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Presentation Tips Learned From My (Many) Mistakes"
+title: Presentation Tips Learned From My (Many) Mistakes
 date: 2011-04-18 -0800
 comments: true
 disqus_identifier: 18777
-categories: [code,tech,personal]
+categories:
+- code
+- tech
+- personal
+redirect_from: "/archive/2011/04/17/presentation-tips.aspx/"
 ---
+
 One aspect of my job that I love is being able to go in front of other
 developers, my peers, and give presentations on the technologies that my
 team and I build. I’m very fortunate to be able to do so, especially

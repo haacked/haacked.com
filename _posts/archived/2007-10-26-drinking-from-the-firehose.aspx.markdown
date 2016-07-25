@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Drinking from the Fire Hose At Microsoft"
+title: Drinking from the Fire Hose At Microsoft
 date: 2007-10-26 -0800
 comments: true
 disqus_identifier: 18410
 categories: []
+redirect_from: "/archive/2007/10/25/drinking-from-the-firehose.aspx/"
 ---
+
 For those starting out at Microsoft, an analogy that you’re likely to
 hear a lot is “Drinking from the firehose”. The first time I’ve ever
 heard this phrase was when

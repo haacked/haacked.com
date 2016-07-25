@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Your Next Tablet Hard Drive - Solid State Baby"
+title: Your Next Tablet Hard Drive - Solid State Baby
 date: 2005-07-20 -0800
 comments: true
 disqus_identifier: 8920
 categories: []
+redirect_from: "/archive/2005/07/19/your-next-tablet-hard-drive--solid-state-baby.aspx/"
 ---
+
 ![Samsung SSD](http://haacked.com/images/SamsungSolidState.jpg) Too bad
 [these things aren’t out
 yet](http://www.samsung.com/PressCenter/PressRelease/PressRelease.asp?seq=20050523_0000123980#).

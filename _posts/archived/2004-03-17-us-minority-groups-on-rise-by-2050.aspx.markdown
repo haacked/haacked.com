@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "U.S. Minority Groups on Rise by 2050"
+title: U.S. Minority Groups on Rise by 2050
 date: 2004-03-17 -0800
 comments: true
 disqus_identifier: 262
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2004/03/16/us-minority-groups-on-rise-by-2050.aspx/"
 ---
+
 ![](/images/benetton.jpg)Being of mixed heritageI have both bases
 covered. For now, I can claim my caucasian-ness and reap all the
 benefits of being the dominant sub-culture. But once minorities surpass

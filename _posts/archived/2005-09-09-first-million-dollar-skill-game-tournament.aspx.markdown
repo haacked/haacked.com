@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "First Million Dollar Skill Game Tournament"
+title: First Million Dollar Skill Game Tournament
 date: 2005-09-09 -0800
 comments: true
 disqus_identifier: 10020
 categories: []
+redirect_from: "/archive/2005/09/08/first-million-dollar-skill-game-tournament.aspx/"
 ---
+
 I [learned through Mr. Wagner](http://wagnerblog.com/index.php?p=466)
 that my former employer [just
 announced](http://www.newswire.ca/en/releases/archive/September2005/08/c7052.html)

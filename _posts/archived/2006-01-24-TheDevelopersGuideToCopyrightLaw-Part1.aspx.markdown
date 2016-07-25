@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Developer's Guide To Copyright Law - Part 1"
+title: The Developer's Guide To Copyright Law - Part 1
 date: 2006-01-24 -0800
 comments: true
 disqus_identifier: 11575
-categories: [open source]
+categories:
+- open source
+redirect_from: "/archive/2006/01/23/TheDevelopersGuideToCopyrightLaw-Part1.aspx/"
 ---
+
 This is part 1 in a three-part series on copyright law and open source
 licensing. After this, continue onto [Part
 2](http://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Part 2 of the series")

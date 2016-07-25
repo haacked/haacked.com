@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Borg Has Learned To Share"
+title: The Borg Has Learned To Share
 date: 2005-06-23 -0800
 comments: true
 disqus_identifier: 7186
 categories: []
+redirect_from: "/archive/2005/06/22/the-borg-has-learned-to-share.aspx/"
 ---
+
 From the [Lessig blog I learned
 that](http://www.lessig.org/blog/archives/002978.shtml) Microsoft is
 releasing its spec for “Simple Feed Extensions” under a Creative Commons

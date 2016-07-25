@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Resistance Is Not Futile"
+title: Resistance Is Not Futile
 date: 2006-08-18 -0800
 comments: true
 disqus_identifier: 15378
 categories: []
+redirect_from: "/archive/2006/08/17/ResistanceIsNotFutile.aspx/"
 ---
+
 Interesting [post on the 37Signals
 blog](http://37signals.com/svn/archives2/google_does_not_render_resistance_futile.php "Google does not render resistance futile")
 regarding competing against Google.  Harb references a post by [Paul

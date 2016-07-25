@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Decompression"
+title: Decompression
 date: 2005-10-16 -0800
 comments: true
 disqus_identifier: 10827
 categories: []
+redirect_from: "/archive/2005/10/15/decompression.aspx/"
 ---
+
 My weekends just seem to get better and better every week. Since going
 independent and then starting a company with a friend, my work weeks
 have been much more enjoyable. Fortunately, my weekends have kept up as

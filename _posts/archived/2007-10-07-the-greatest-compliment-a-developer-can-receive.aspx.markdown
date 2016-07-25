@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Greatest Compliment A Developer Can Receive"
+title: The Greatest Compliment A Developer Can Receive
 date: 2007-10-07 -0800
 comments: true
 disqus_identifier: 18405
 categories: []
+redirect_from: "/archive/2007/10/06/the-greatest-compliment-a-developer-can-receive.aspx/"
 ---
+
 Here’s the dirty little secret about being a software developer. No
 matter how good the code you write is, it’s crap to another developer.
 

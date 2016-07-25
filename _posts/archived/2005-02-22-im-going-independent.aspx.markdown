@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "I'm Going Independent!"
+title: I'm Going Independent!
 date: 2005-02-22 -0800
 comments: true
 disqus_identifier: 2168
 categories: []
+redirect_from: "/archive/2005/02/21/im-going-independent.aspx/"
 ---
+
 Today, my boss, the CTO, announced that I'm leaving the company to join
 the adult movie industry. Don't worry, I'm actually not out to challenge
 the supremacy of John Holmes. That just happens to be the typical way he

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Projects Winding Down. Off to Alaska Soon."
+title: Projects Winding Down. Off to Alaska Soon.
 date: 2004-12-22 -0800
 comments: true
 disqus_identifier: 1755
 categories: []
+redirect_from: "/archive/2004/12/21/projects-winding-down-off-to-alaska-soon.aspx/"
 ---
+
 As with many blogs right now, my blog has been graced by the quiet
 sounds of tumbleweeds rolling by due to a long period of lack of use.
 The primary reason for my absence is an end of year push to get several

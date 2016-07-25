@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Embedding Unit tests"
+title: Embedding Unit tests
 date: 2004-04-07 -0800
 comments: true
 disqus_identifier: 309
 categories: []
+redirect_from: "/archive/2004/04/06/embedding-unit-tests.aspx/"
 ---
+
 ![](/images/unittests.jpg) I just read Bruce Eckel's [blog
 entry](http://mindview.net/WebLog/log-0054) about embedding unit tests
 in code. Ideally, he'd like compiler support in programming languages

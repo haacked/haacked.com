@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "New NuGet.org Deployed!"
+title: New NuGet.org Deployed!
 date: 2011-12-05 -0800
 comments: true
 disqus_identifier: 18830
-categories: [nuget,code]
+categories:
+- nuget
+- code
+redirect_from: "/archive/2011/12/04/nuget_org_update.aspx/"
 ---
+
 So my [last day at
 Microsoft](http://haacked.com/archive/2011/12/05/last-day-at-microsoft.aspx "Last day at Microsoft")
 ended up being a very long one as the

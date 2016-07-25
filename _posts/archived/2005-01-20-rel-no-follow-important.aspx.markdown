@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Why Is rel=&quot;nofollow&quot; important?"
+title: Why Is rel=&quot;nofollow&quot; important?
 date: 2005-01-20 -0800
 comments: true
 disqus_identifier: 1944
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2005/01/19/rel-no-follow-important.aspx/"
 ---
+
 There's a debate going on about how effective the rel="nofollow"
 solution really is. [Some
 believe](http://yexley.net/blogs/bob/archive/2005/01/19/1143.aspx) that

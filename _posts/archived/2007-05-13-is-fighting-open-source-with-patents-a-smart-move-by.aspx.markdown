@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Is Fighting Open Source With Patents A Smart Move By Microsoft?"
+title: Is Fighting Open Source With Patents A Smart Move By Microsoft?
 date: 2007-05-13 -0800
 comments: true
 disqus_identifier: 18313
 categories: []
+redirect_from: "/archive/2007/05/12/is-fighting-open-source-with-patents-a-smart-move-by.aspx/"
 ---
+
 Fortune Magazine [published an
 article](http://money.cnn.com/magazines/fortune/fortune_archive/2007/05/28/100033867/index.htm?section=money_latest "Microsoft Takes on the Free World")
 in which they describe how Microsoft claims that free software, such as

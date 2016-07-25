@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "ASP.NET MVC 4 Developer Preview Released"
+title: ASP.NET MVC 4 Developer Preview Released
 date: 2011-09-14 -0800
 comments: true
 disqus_identifier: 18814
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2011/09/13/asp-net-mvc-4-developer-preview-released.aspx/"
 ---
+
 Today, during his [//BUILD
 keynote](http://www.buildwindows.com/ "Build Windows"), [Scott
 Guthrie](http://weblogs.asp.net/scottgu "Scott Guthrie's Blog")

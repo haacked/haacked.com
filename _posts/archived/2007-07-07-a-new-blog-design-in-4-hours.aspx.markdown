@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "A New Blog Design In 4 Hours"
+title: A New Blog Design In 4 Hours
 date: 2007-07-07 -0800
 comments: true
 disqus_identifier: 18365
-categories: [subtext,blogging]
+categories:
+- subtext
+- blogging
+redirect_from: "/archive/2007/07/06/a-new-blog-design-in-4-hours.aspx/"
 ---
+
 When summer arrives, many like to create a new look via a haircut or new
 threads. I prefer to change the look of my blog with a new design.
 

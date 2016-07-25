@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Declare Don&rsquo;t Tell"
+title: Declare Don&rsquo;t Tell
 date: 2013-11-20 -0800
 comments: true
 disqus_identifier: 18908
-categories: [code,rx]
+categories:
+- code
+- rx
+redirect_from: "/archive/2013/11/19/declare-dont-tell.aspx/"
 ---
+
 Judging by the reaction to my [Death to the If
 statement](http://haacked.com/archive/2013/11/08/death-to-the-if-statement.aspx "Death to the If statement")
 where I talked about the benefits of declarative code and reducing

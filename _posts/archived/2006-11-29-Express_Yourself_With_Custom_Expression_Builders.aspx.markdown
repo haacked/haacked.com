@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Express Yourself With Custom Expression Builders"
+title: Express Yourself With Custom Expression Builders
 date: 2006-11-29 -0800
 comments: true
 disqus_identifier: 18152
 categories: []
+redirect_from: "/archive/2006/11/28/Express_Yourself_With_Custom_Expression_Builders.aspx/"
 ---
+
 One of the hidden gems in ASP.NET 2.0 is the new expression syntax. For
 example, to display the value of a setting in the AppSettings section of
 your web.config, you can do this:

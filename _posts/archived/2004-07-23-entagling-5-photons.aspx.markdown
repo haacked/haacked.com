@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Entagling 5 photons"
+title: Entagling 5 photons
 date: 2004-07-23 -0800
 comments: true
 disqus_identifier: 852
 categories: []
+redirect_from: "/archive/2004/07/22/entagling-5-photons.aspx/"
 ---
+
 Scientists will soon rip open the door to real Quantum computing. Will
 it be a peek into alternate universes? Or will it fizzle with a whimper?
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Combining JQuery Form Validation and Ajax Submission with ASP.NET"
+title: Combining JQuery Form Validation and Ajax Submission with ASP.NET
 date: 2008-11-21 -0800
 comments: true
 disqus_identifier: 18558
-categories: [asp.net]
+categories:
+- asp.net
+redirect_from: "/archive/2008/11/20/combining-jquery-form-validation-and-ajax-submission-with-asp.net.aspx/"
 ---
+
 As I [mentioned
 before](http://haacked.com/archive/2008/09/30/jquery-and-asp.net-mvc.aspx "jQuery"),
 I’m really excited that we’re shipping jQuery with [ASP.NET

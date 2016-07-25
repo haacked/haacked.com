@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Introducing NuGet Package Manager"
+title: Introducing NuGet Package Manager
 date: 2010-10-06 -0800
 comments: true
 disqus_identifier: 18724
-categories: [asp.net mvc,code,open source,nuget]
+categories:
+- asp.net mvc
+- code
+- open source
+- nuget
+redirect_from: "/archive/2010/10/05/introducing-nupack-package-manager.aspx/"
 ---
+
 [NuGet](http://nuget.codeplex.com/ "NuGet Project on CodePlex")
 ([recently renamed from
 NuPack](http://haacked.com/archive/2010/10/29/nupack-is-now-nuget.aspx "NuPack Renamed to NuGet"))

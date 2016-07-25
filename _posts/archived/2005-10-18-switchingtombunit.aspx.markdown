@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Switching to MbUnit"
+title: Switching to MbUnit
 date: 2005-10-18 -0800
 comments: true
 disqus_identifier: 10856
 categories: []
+redirect_from: "/archive/2005/10/17/switchingtombunit.aspx/"
 ---
+
 For the longest time now, I’ve been a fan of MbUnit, but never really
 used it on a real project. In part, I stuck with NUnit despite MbUnit’s
 superiority because NUnit was the defacto standard.

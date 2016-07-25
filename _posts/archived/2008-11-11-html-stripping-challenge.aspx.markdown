@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "HTML Stripping Challenge"
+title: HTML Stripping Challenge
 date: 2008-11-11 -0800
 comments: true
 disqus_identifier: 18552
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2008/11/10/html-stripping-challenge.aspx/"
 ---
+
 UPDATE: I added three new unit tests and one interesting case in which
 the three browser render something differently.
 

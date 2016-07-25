@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Writing Software Is Easy. Clients Make It Hard."
+title: Writing Software Is Easy. Clients Make It Hard.
 date: 2004-08-03 -0800
 comments: true
 disqus_identifier: 878
 categories: []
+redirect_from: "/archive/2004/08/02/writing-software-is-easy-clients-make-it-hard.aspx/"
 ---
+
 [Patrick Cauldwell](http://www.cauldwell.net/patrick/blog/) points out
 that the challenge of coding a business app isn’t in writing the code,
 that’s easy. The challenge is in understanding business requirements,

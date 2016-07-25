@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "The Truth about NuGet and its Future"
+title: The Truth about NuGet and its Future
 date: 2012-10-23 -0800
 comments: true
 disqus_identifier: 18873
-categories: [open source,nuget,community,code]
+categories:
+- open source
+- nuget
+- community
+- code
+redirect_from: "/archive/2012/10/22/the-truth-about-nuget-and-its-future.aspx/"
 ---
+
 In [my last
 post](http://haacked.com/archive/2012/10/21/monkeyspace-dotnet-oss.aspx "MonkeySpace shines a light on .NET open source"),
 I talked about the [MonkeySpace

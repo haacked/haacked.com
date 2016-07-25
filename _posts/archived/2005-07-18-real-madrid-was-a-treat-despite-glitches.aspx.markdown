@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Real Madrid Was a Treat, Despite Glitches"
+title: Real Madrid Was a Treat, Despite Glitches
 date: 2005-07-18 -0800
 comments: true
 disqus_identifier: 8887
 categories: []
+redirect_from: "/archive/2005/07/17/real-madrid-was-a-treat-despite-glitches.aspx/"
 ---
+
 ![Zinedine Zidane](http://haacked.com/images/ZidaneOnTheAttack.jpg)
 
 You know how in Monopoly you can draw a Community Chest card that says

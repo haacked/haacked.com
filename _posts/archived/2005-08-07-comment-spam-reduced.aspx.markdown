@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Comment Spam Reduced?"
+title: Comment Spam Reduced?
 date: 2005-08-07 -0800
 comments: true
 disqus_identifier: 9235
 categories: []
+redirect_from: "/archive/2005/08/06/comment-spam-reduced.aspx/"
 ---
+
 ![Spam](/images/spam.jpg) Before I mention this, I better knock on wood
 and cross my fingers so as not to jinx it, but I haven’t had any comment
 spam for several days. In fact, for the past month, the amount of

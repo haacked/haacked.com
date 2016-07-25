@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Abstract Base Classes Have Versioning Problems Too"
+title: Abstract Base Classes Have Versioning Problems Too
 date: 2008-02-21 -0800
 comments: true
 disqus_identifier: 18458
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2008/02/20/abstract-base-classes-have-versioning-problems-too.aspx/"
 ---
+
 This is part 2 in an ongoing series in which I talk about various design
 and versioning issues as they relate to Abstract Base Classes (ABC),
 Interfaces, and Framework design. In [part

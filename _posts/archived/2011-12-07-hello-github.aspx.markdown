@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Hello GitHub!"
+title: Hello GitHub!
 date: 2011-12-07 -0800
 comments: true
 disqus_identifier: 18831
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2011/12/06/hello-github.aspx/"
 ---
+
 *[Hubot](http://hubot.github.com/ "HuBot") stache me*.
 
 Well the poll results are in and [you guys were very

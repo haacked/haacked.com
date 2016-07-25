@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "I'll Be Speaking About Open Source at OpenForce"
+title: I'll Be Speaking About Open Source at OpenForce
 date: 2007-05-22 -0800
 comments: true
 disqus_identifier: 18325
 categories: []
+redirect_from: "/archive/2007/05/21/ill-be-speaking-about-open-source-at-openforce.aspx/"
 ---
+
 I’ve been invited to participate on a couple of panels at the upcoming
 [DotNetNuke OpenForce
 '07](http://www.dotnetnukecorp.com/Events/OpenForce07/tabid/73/Default.aspx "OpenForce '07")

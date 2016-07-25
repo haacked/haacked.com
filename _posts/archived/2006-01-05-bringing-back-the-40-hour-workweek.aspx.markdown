@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Bringing Back The 40-hour Workweek"
+title: Bringing Back The 40-hour Workweek
 date: 2006-01-05 -0800
 comments: true
 disqus_identifier: 11417
 categories: []
+redirect_from: "/archive/2006/01/04/bringing-back-the-40-hour-workweek.aspx/"
 ---
+
 These days it seems that the 40-hour workweek is a pipe dream of of a
 bygone past (if it ever was a reality). This seems especially true for
 the field of software development which seems to glorify working

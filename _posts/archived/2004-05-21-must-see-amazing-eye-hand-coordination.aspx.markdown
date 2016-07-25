@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "MUST SEE: Amazing eye hand coordination"
+title: 'MUST SEE: Amazing eye hand coordination'
 date: 2004-05-21 -0800
 comments: true
 disqus_identifier: 462
 categories: []
+redirect_from: "/archive/2004/05/20/must-see-amazing-eye-hand-coordination.aspx/"
 ---
+
 ![shaolin](/images/shaolin.jpg)In the old days, the Shaolin monks
 demonstrated the strength of their kung-fu with feats of amazing
 dexterity. The modern monk has replaced kung-fu with this:

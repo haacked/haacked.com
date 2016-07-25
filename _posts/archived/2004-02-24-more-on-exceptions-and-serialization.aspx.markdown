@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "TIP: More on Exceptions and Serialization"
+title: 'TIP: More on Exceptions and Serialization'
 date: 2004-02-24 -0800
 comments: true
 disqus_identifier: 208
 categories: []
+redirect_from: "/archive/2004/02/23/more-on-exceptions-and-serialization.aspx/"
 ---
+
 I just left to do some thinking where I get my best thinking done. While
 washing my hands, I realized I should mention a few issues with my
 [previous

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Buy Our Book And Become An ASP.NET Bad Ass"
+title: Buy Our Book And Become An ASP.NET Bad Ass
 date: 2007-09-18 -0800
 comments: true
 disqus_identifier: 18394
 categories: []
+redirect_from: "/archive/2007/09/17/buy-our-book-and-become-an-asp.net-bad-ass.aspx/"
 ---
+
 [![41XDcuGaQrL.\_AA240\_](http://haacked.com/images/haacked_com/WindowsLiveWriter/BuyOurBookAndBecomeAnASP.NETBadAss_12E22/41XDcuGaQrL._AA240_.jpg)](http://www.amazon.com/gp/product/098028581X?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=098028581X "ASP.NET 2.0 Anthology")
 Remember the book I mentioned that [I was
 writing](http://haacked.com/archive/2006/11/19/Writing_A_Book.aspx "Writing a Book")

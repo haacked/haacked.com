@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Optical Character Recognition On The Cheap"
+title: Optical Character Recognition On The Cheap
 date: 2006-10-02 -0800
 comments: true
 disqus_identifier: 17524
 categories: []
+redirect_from: "/archive/2006/10/01/Optical_Character_Recognition_On_The_Cheap.aspx/"
 ---
+
 [Jon
 Galloway](http://weblogs.asp.net/jgalloway/ "JonGalloway.ToString()")
 combines [Timesnapper](http://timesnapper.com/ "Timesnapper") ([Tivo for

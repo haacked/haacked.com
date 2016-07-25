@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Functional Language Gateway Drug"
+title: The Functional Language Gateway Drug
 date: 2009-02-15 -0800
 comments: true
 disqus_identifier: 18587
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2009/02/14/the-functional-language-gateway-drug.aspx/"
 ---
+
 ***Alternate Title: Linq, it’s not just for SQL.***
 
 I admit, I’m not very proficient with functional programming. It almost

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Negative Base Numbering Systems"
+title: Negative Base Numbering Systems
 date: 2006-05-01 -0800
 comments: true
 disqus_identifier: 12617
 categories: []
+redirect_from: "/archive/2006/04/30/negativebasenumberingsystems.aspx/"
 ---
+
 UPDATE: I updated the article a bit to better explain decimal expansion
 to negabinary
 

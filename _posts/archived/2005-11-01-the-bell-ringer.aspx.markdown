@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Bell Ringer"
+title: The Bell Ringer
 date: 2005-11-01 -0800
 comments: true
 disqus_identifier: 11073
 categories: []
+redirect_from: "/archive/2005/10/31/the-bell-ringer.aspx/"
 ---
+
 I just had to post this in its full glory. Great leadup Matt!
 
 > You just came to Texas Tech University as a freshman...

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Monkey Patching CLR Objects"
+title: Monkey Patching CLR Objects
 date: 2008-04-18 -0800
 comments: true
 disqus_identifier: 18478
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2008/04/17/monkey-patching-clr-objects.aspx/"
 ---
+
 In [my last
 post](http://haacked.com/archive/2008/04/18/dynamic-language-dsl-vs-xml-configuration.aspx "Dynamic Language vs XML")
 I set the stage for this post by discussing some of my personal opinions

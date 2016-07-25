@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "GMail-like Loading Indicator with ASP.NET Ajax"
+title: GMail-like Loading Indicator with ASP.NET Ajax
 date: 2007-05-17 -0800
 comments: true
 disqus_identifier: 18315
 categories: []
+redirect_from: "/archive/2007/05/16/gmail-like-loading-indicator-with-asp.net-ajax.aspx/"
 ---
+
 [Simone Chiaretta](http://codeclimber.net.nz/ "Simone Chiaretta"), a
 member of the Subtext development team (among other open source
 projects), has been quite busy lately. I recently mentioned the [Vista

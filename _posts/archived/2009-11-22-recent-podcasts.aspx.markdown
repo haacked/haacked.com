@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Recent Podcasts"
+title: Recent Podcasts
 date: 2009-11-22 -0800
 comments: true
 disqus_identifier: 18662
 categories: []
+redirect_from: "/archive/2009/11/21/recent-podcasts.aspx/"
 ---
+
 Just wanted to highlight a couple of podcasts that were
 ~~suckers~~gracious enough to have me as a guest.
 

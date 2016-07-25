@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "PHOTO: When Nerds Protest The RNC."
+title: 'PHOTO: When Nerds Protest The RNC.'
 date: 2004-08-30 -0800
 comments: true
 disqus_identifier: 987
-categories: [humor]
+categories:
+- humor
+redirect_from: "/archive/2004/08/29/when-nerds-protest.aspx/"
 ---
+
 [Kyle](http://koba.europe.webmatrixhosting.net) sent me this classic
 photo from a friend of his, Brad Kagawa, who was at the RNC protest in
 New York. Brad scrambled across the march to take a picture of the

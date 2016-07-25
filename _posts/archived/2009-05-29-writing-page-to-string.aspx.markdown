@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Writing A Page To A String"
+title: Writing A Page To A String
 date: 2009-05-29 -0800
 comments: true
 disqus_identifier: 18620
 categories: []
+redirect_from: "/archive/2009/05/28/writing-page-to-string.aspx/"
 ---
+
 ASP.NET Pages are designed to stream their output directly to a response
 stream. This can be a huge performance benefit for large pages as it
 doesn’t require buffering and allocating very large strings before

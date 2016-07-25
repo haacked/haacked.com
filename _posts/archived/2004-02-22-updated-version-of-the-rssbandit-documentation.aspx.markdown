@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Updated version of the RssBandit documentation"
+title: Updated version of the RssBandit documentation
 date: 2004-02-22 -0800
 comments: true
 disqus_identifier: 204
 categories: []
+redirect_from: "/archive/2004/02/21/updated-version-of-the-rssbandit-documentation.aspx/"
 ---
+
 UPDATE: Whoops! I should have read the SLA for my free hosting provider
 more carefully. There’s a size limit to the files I may post on my ftp
 server. I will work to rectify this situation by finding a new FTP site.

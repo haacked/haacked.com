@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Potential For A Subtle Bug in RFC3229 Implementations"
+title: Potential For A Subtle Bug in RFC3229 Implementations
 date: 2005-06-30 -0800
 comments: true
 disqus_identifier: 7427
 categories: []
+redirect_from: "/archive/2005/06/29/Potential_For_A_Subtle_Bug_in_RFC3229_Implementations.aspx/"
 ---
+
 In a [previous post](http://haacked.com/archive/2005/06/30/7415.aspx) I
 mentioned a problem I was having with implementing
 [RFC3229](http://bobwyman.pubsub.com/main/2004/09/using_rfc3229_w.html).

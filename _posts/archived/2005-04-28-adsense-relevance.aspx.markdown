@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "AdSense relevance..."
+title: AdSense relevance...
 date: 2005-04-28 -0800
 comments: true
 disqus_identifier: 2877
 categories: []
+redirect_from: "/archive/2005/04/27/adsense-relevance.aspx/"
 ---
+
 ![Orange Chicken](/images/OrangeChicken.jpg) In [my
 comments](http://haacked.com/archive/2005/04/29/2874.aspx#2876),
 [Barry](http://idunno.org/)winces at the relevance of some Ad Sense ads

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Adding Window Onload Events In Javascript"
+title: Adding Window Onload Events In Javascript
 date: 2006-02-05 -0800
 comments: true
 disqus_identifier: 11686
 categories: []
+redirect_from: "/archive/2006/02/04/AddingWindowOnloadEventsInJavascript.aspx/"
 ---
+
 One common approach to having a script method run when a page loads is
 to attach a method to the `window.onload` event like so...
 

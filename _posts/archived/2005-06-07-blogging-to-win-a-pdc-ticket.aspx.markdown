@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Blogging to Win a PDC Ticket"
+title: Blogging to Win a PDC Ticket
 date: 2005-06-07 -0800
 comments: true
 disqus_identifier: 4464
 categories: []
+redirect_from: "/archive/2005/06/06/blogging-to-win-a-pdc-ticket.aspx/"
 ---
+
 [![blogging my way to
 pdc](http://channel9.msdn.com/pdc/Flairs/Blogmyway-h.jpg)](http://channel9.msdn.com/pdc/pdcfriends.aspx?contest=true)
 This is my feeble attempt win an all expense trip to the PDC this year.

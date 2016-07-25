@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Popular Code Conventions on GitHub"
+title: Popular Code Conventions on GitHub
 date: 2013-09-17 -0800
 comments: true
 disqus_identifier: 18899
-categories: [code,open source,github]
+categories:
+- code
+- open source
+- github
+redirect_from: "/archive/2013/09/16/popular-code-conventions-on-github.aspx/"
 ---
+
 The [first GitHub Data
 Challenge](https://github.com/blog/1118-the-github-data-challenge "GitHub data challenge")
 launched in 2012 and asked the following compelling question: *what

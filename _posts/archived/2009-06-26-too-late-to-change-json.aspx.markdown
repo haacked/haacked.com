@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Is It Too Late To Change JSON?"
+title: Is It Too Late To Change JSON?
 date: 2009-06-26 -0800
 comments: true
 disqus_identifier: 18625
 categories: []
+redirect_from: "/archive/2009/06/25/too-late-to-change-json.aspx/"
 ---
+
 In my last post, I wrote about the [hijacking of JSON
 arrays](http://haacked.com/archive/2009/06/25/json-hijacking.aspx "JSON Hijacking").
 Near the end of the post, I mentioned a comment whereby someone suggests

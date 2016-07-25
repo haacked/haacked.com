@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "An Abstract Boilerplate HttpHandler"
+title: An Abstract Boilerplate HttpHandler
 date: 2005-03-17 -0800
 comments: true
 disqus_identifier: 2394
 categories: []
+redirect_from: "/archive/2005/03/16/AnAbstractBoilerplateHttpHandler.aspx/"
 ---
+
 My last project involved writing a lot of HttpHandlers to respond to
 HTTP requests originating from a cell phone. To simplify my life, I
 created an abstract base handler that handled a lot of the repetitive

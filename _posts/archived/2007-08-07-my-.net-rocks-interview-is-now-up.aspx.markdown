@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "My .NET Rocks Interview Is Now Up"
+title: My .NET Rocks Interview Is Now Up
 date: 2007-08-07 -0800
 comments: true
 disqus_identifier: 18378
 categories: []
+redirect_from: "/archive/2007/08/06/my-.net-rocks-interview-is-now-up.aspx/"
 ---
+
 Run, don’t walk, over to [.NET
 Rocks](http://www.dotnetrocks.com/ ".NET Rocks") and download their
 [interview with yours

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "So A Model, A View, and a Controller Walk Into a Bar"
+title: So A Model, A View, and a Controller Walk Into a Bar
 date: 2008-01-29 -0800
 comments: true
 disqus_identifier: 18453
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2008/01/28/so-a-model-a-view-and-a-controller-walk-into.aspx/"
 ---
+
 At the risk of embarrassing myself and eliciting more groans, I am going
 to share a joke I made up for my [Code Camp
 talk](http://haacked.com/archive/2008/01/28/seattle-code-camp-wrapup.aspx "Seattle Code Camp").

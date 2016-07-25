@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Hollywood Bowl Does Not Disappoint"
+title: The Hollywood Bowl Does Not Disappoint
 date: 2004-07-26 -0800
 comments: true
 disqus_identifier: 855
 categories: []
+redirect_from: "/archive/2004/07/25/the-hollywood-bowl-does-not-disappoint.aspx/"
 ---
+
 I'm no professional musician, but I thought the acoustics at the
 Hollywood bowl was fantastic. They've been touting the improved sound
 with the new shell and improvements. The sound was sharp and clear.

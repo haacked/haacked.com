@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Fixing AutoLink - Give Users Control"
+title: Fixing AutoLink - Give Users Control
 date: 2005-02-22 -0800
 comments: true
 disqus_identifier: 2170
 categories: []
+redirect_from: "/archive/2005/02/21/fixing-autolink--give-users-control.aspx/"
 ---
+
 Don Park outlines an interesting [potential
 solution](http://www.docuverse.com/blog/donpark/EntryViewPage.aspx?guid=676e38b4-0db9-4c7b-9692-b285fa5d0918)
 to Google's proposed Auto Link feature of its Toolbar. Essentially his

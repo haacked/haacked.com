@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "TimedLock Success Story!"
+title: TimedLock Success Story!
 date: 2004-08-06 -0800
 comments: true
 disqus_identifier: 879
 categories: []
+redirect_from: "/archive/2004/08/05/timedlock-success-story.aspx/"
 ---
+
 This seems to be my favorite geek subject, but I have to tell you a
 success story using [Ian Griffith's Timed
 Lock](http://www.interact-sw.co.uk/iangblog/2004/03/23/locking) struct

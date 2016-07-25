@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A Critical Look at C# 3.0 Extension Methods"
+title: A Critical Look at C# 3.0 Extension Methods
 date: 2005-09-26 -0800
 comments: true
 disqus_identifier: 10384
 categories: []
+redirect_from: "/archive/2005/09/25/a-critical-look-at-c-30-extension-methods.aspx/"
 ---
+
 [Ian Griffiths](http://www.interact-sw.co.uk/iangblog/) takes [an
 in-depth look at C\# 3.0 Extension
 methods](http://www.interact-sw.co.uk/iangblog/2005/09/26/extensionmethods)

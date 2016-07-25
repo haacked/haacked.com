@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Rainbow Portal Looks To Implement Subtext For Blogging"
+title: Rainbow Portal Looks To Implement Subtext For Blogging
 date: 2006-04-07 -0800
 comments: true
 disqus_identifier: 12310
 categories: []
+redirect_from: "/archive/2006/04/06/RainbowPortalLooksToImplementSubtextForBlogging.aspx/"
 ---
+
 ![Rainbow](http://haacked.com/images/Rainbow.jpg) [Eric
 Ramseur](http://eramseur.blogspot.com/ "asp.net 2.0 blog") who works on
 the [Rainbow 2.0 Portal

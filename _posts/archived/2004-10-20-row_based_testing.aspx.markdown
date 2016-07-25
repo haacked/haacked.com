@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Row based testing in MbUnit (i.e. RowTest)"
+title: Row based testing in MbUnit (i.e. RowTest)
 date: 2004-10-20 -0800
 comments: true
 disqus_identifier: 1421
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2004/10/19/row_based_testing.aspx/"
 ---
+
 Jonathan de Halleux, aka [Peli](http://blog.dotnetwiki.org/), never
 ceases to impress me with his innovations within
 [MbUnit](http://mbunit.tigris.org/). In case you're not familiar with

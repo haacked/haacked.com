@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Writing a NuGet Package That Adds A Command To The PowerShell Console"
+title: Writing a NuGet Package That Adds A Command To The PowerShell Console
 date: 2011-04-19 -0800
 comments: true
 disqus_identifier: 18778
-categories: [code,open source,nuget]
+categories:
+- code
+- open source
+- nuget
+redirect_from: "/archive/2011/04/18/writing-a-nuget-package-that-adds-a-command-to-the.aspx/"
 ---
+
 The [Magic 8-ball
 toy](http://en.wikipedia.org/wiki/Magic_8-Ball "Magic 8-ball") is a toy
 usually good for maybe one or two laughs before it quickly gets boring.

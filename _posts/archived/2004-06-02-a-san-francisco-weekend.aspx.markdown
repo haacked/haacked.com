@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A San Francisco Weekend"
+title: A San Francisco Weekend
 date: 2004-06-02 -0800
 comments: true
 disqus_identifier: 503
 categories: []
+redirect_from: "/archive/2004/06/01/a-san-francisco-weekend.aspx/"
 ---
+
 ![San Francisco](/images/sanFran.jpg)My car hates me. Or it should. Last
 week I made two round trips to SD. Last Friday night, I returned from
 SD, and Akumi and I left the following Saturday morning to drive up to

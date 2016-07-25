@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "How To Be Lazy...or...Understanding Requirements"
+title: How To Be Lazy...or...Understanding Requirements
 date: 2004-08-01 -0800
 comments: true
 disqus_identifier: 875
 categories: []
+redirect_from: "/archive/2004/07/31/how-to-be-lazyorunderstanding-requirements.aspx/"
 ---
+
 If you’re a lazy mofo like me, there’s one thing you’re not lazy about,
 getting out of having to do a lot of work. An important skill that
 should be on every lazy developer’s utility belt is the ability to

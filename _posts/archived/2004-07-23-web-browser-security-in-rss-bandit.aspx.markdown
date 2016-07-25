@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Web Browser Security In RSS Bandit"
+title: Web Browser Security In RSS Bandit
 date: 2004-07-23 -0800
 comments: true
 disqus_identifier: 841
 categories: []
+redirect_from: "/archive/2004/07/22/web-browser-security-in-rss-bandit.aspx/"
 ---
+
 [Dare](http://www.25hoursaday.com/) [asks the
 question](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=f0e81765-a3b9-40d7-ad3d-e0500b7abcc1)
 whether or not we should change the browser used by RSS Bandit. He was

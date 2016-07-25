@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Windows Live Writer Manifest For Subtext"
+title: Windows Live Writer Manifest For Subtext
 date: 2007-06-03 -0800
 comments: true
 disqus_identifier: 18337
 categories: []
+redirect_from: "/archive/2007/06/02/windows-live-writer-manifest-for-subtext.aspx/"
 ---
+
 ![Panel
 View](http://haacked.com/images/haacked_com/WindowsLiveWriter/WindowsLiveWriterManifestForSubtext_DE77/wlmPanel_1_1.png)
 Microsoft recently released [Windows Live Writer Beta

@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Donut Caching in ASP.NET MVC"
+title: Donut Caching in ASP.NET MVC
 date: 2008-11-05 -0800
 comments: true
 disqus_identifier: 18548
-categories: [asp.net mvc,asp.net,code]
+categories:
+- asp.net mvc
+- asp.net
+- code
+redirect_from: "/archive/2008/11/04/donut-caching-in-asp.net-mvc.aspx/"
 ---
+
 UPDATE: Due to differences in the way that ASP.NET MVC 2 processes
 request, data within the substitution block can be cached when it
 shouldn’t be. Substitution caching for ASP.NET MVC is not supported and

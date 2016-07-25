@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Help! Server.Transfer Throws Exception In WebServer.WebDev In Medium Trust"
+title: Help! Server.Transfer Throws Exception In WebServer.WebDev In Medium Trust
 date: 2006-12-06 -0800
 comments: true
 disqus_identifier: 18157
 categories: []
+redirect_from: "/archive/2006/12/05/Help_Server.Transfer_Throws_Exception_In_WebServer.WebDev_In_Medium_Trust.aspx/"
 ---
+
 Ok, I could use some really expert help here. I really like using the
 built in WebServer.WebDev Web Server that is a part of Visual Studio
 2005. For one thing, it makes getting a new developer working on Subtext

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Unit Testing Loves Beta Testing And Vice Versa"
+title: Unit Testing Loves Beta Testing And Vice Versa
 date: 2005-10-18 -0800
 comments: true
 disqus_identifier: 10854
 categories: []
+redirect_from: "/archive/2005/10/17/UnitTestingLovesBetaTestingAndViceVersa.aspx/"
 ---
+
 [Jeff links](http://www.codinghorror.com/blog/archives/000420.html) to a
 post by Wil Shipley [criticizing unit
 testing](http://wilshipley.com/blog/2005/09/unit-testing-is-teh-suck-urr.html).

@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Fun With Method Missing and C# 4"
+title: Fun With Method Missing and C# 4
 date: 2009-08-26 -0800
 comments: true
 disqus_identifier: 18639
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from: "/archive/2009/08/25/method-missing-csharp-4.aspx/"
 ---
+
 UPDATE: Looks like the CLR already has something similar to what I did
 here. Meet the latest class with a superhero sounding name,
 [`ExpandoObject`](http://blogs.msdn.com/csharpfaq/archive/2009/10/01/dynamic-in-c-4-0-introducing-the-expandoobject.aspx "Expando Object")

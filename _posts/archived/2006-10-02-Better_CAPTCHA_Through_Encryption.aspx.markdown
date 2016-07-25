@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Better CAPTCHA Through Encryption"
+title: Better CAPTCHA Through Encryption
 date: 2006-10-02 -0800
 comments: true
 disqus_identifier: 17568
-categories: [code,blogging]
+categories:
+- code
+- blogging
+redirect_from: "/archive/2006/10/01/Better_CAPTCHA_Through_Encryption.aspx/"
 ---
+
 I recently wrote about a [lightweight invisible CAPTCHA validator
 control](http://haacked.com/archive/2006/09/26/Lightweight_Invisible_CAPTCHA_Validator_Control.aspx "Lightweight Invisible CAPTCHA")
 I built as a defensive measure against comment spam.  I wanted the

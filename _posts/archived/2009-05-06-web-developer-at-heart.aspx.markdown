@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "I am a Web Developer At Heart"
+title: I am a Web Developer At Heart
 date: 2009-05-06 -0800
 comments: true
 disqus_identifier: 18616
 categories: []
+redirect_from: "/archive/2009/05/05/web-developer-at-heart.aspx/"
 ---
+
 A while back a young developer emailed me asking for advice on what it
 takes to become a successful developer. I started to respond,
 

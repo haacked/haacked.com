@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "NuGet Logo Stickers"
+title: NuGet Logo Stickers
 date: 2011-01-20 -0800
 comments: true
 disqus_identifier: 18758
-categories: [nuget]
+categories:
+- nuget
+redirect_from: "/archive/2011/01/19/nuget-logo-stickers.aspx/"
 ---
+
 Last night I got a little treat in the mail from the [kind folks at
 StickerMule](http://stickermule.com/ "StickerMule"). I really appreciate
 how they [support open source

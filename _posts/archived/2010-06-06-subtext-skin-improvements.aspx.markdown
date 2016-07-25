@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Subtext 2.5 Skin Improvements"
+title: Subtext 2.5 Skin Improvements
 date: 2010-06-06 -0800
 comments: true
 disqus_identifier: 18707
-categories: [subtext]
+categories:
+- subtext
+redirect_from: "/archive/2010/06/05/subtext-skin-improvements.aspx/"
 ---
+
 Deploying a Subtext skin used to be one of the biggest annoyances with
 Subtext prior to version 2.5. The main problem was that you couldn’t
 simply copy a skin folder into the Skins directory and just have it work

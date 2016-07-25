@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Currently in Japan with No Consistent Internet Access"
+title: Currently in Japan with No Consistent Internet Access
 date: 2008-09-30 -0800
 comments: true
 disqus_identifier: 18533
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2008/09/29/currently-in-japan-with-no-consistent-internet-access.aspx/"
 ---
+
 The internet access I had at my mother-in-law's last time I was in Japan
 turned out to be a fluke. I am at a Japanese Manga and Internet cafe
 (because those three things go so well together) right now typing this

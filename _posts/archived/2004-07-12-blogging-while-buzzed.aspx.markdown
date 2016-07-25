@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Blogging While Buzzed"
+title: Blogging While Buzzed
 date: 2004-07-12 -0800
 comments: true
 disqus_identifier: 810
-categories: [blogging]
+categories:
+- blogging
+redirect_from: "/archive/2004/07/11/blogging-while-buzzed.aspx/"
 ---
+
 ![](/images/knobcreek.jpg) I’m going to buck tradition and start a new
 craze just because I mean to. Let’s call it, *blogging while buzzed*.
 Perhaps it will be the next *meme*, *fad* whatever, but this won’t be

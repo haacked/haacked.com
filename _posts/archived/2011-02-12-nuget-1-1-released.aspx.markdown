@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "NuGet 1.1 Released!"
+title: NuGet 1.1 Released!
 date: 2011-02-12 -0800
 comments: true
 disqus_identifier: 18762
-categories: [nuget,open source,code]
+categories:
+- nuget
+- open source
+- code
+redirect_from: "/archive/2011/02/11/nuget-1-1-released.aspx/"
 ---
+
 Today I’m pleased to announce the release of NuGet 1.1 to the VS
 Extension Gallery and CodePlex. If you have NuGet 1.0 installed, just
 launch the VS Extension Manager (via *Tools* | *Extension Manager* menu)

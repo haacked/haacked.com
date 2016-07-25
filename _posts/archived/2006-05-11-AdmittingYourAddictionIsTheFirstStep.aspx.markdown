@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Admitting Your Addiction Is The First Step"
+title: Admitting Your Addiction Is The First Step
 date: 2006-05-11 -0800
 comments: true
 disqus_identifier: 12747
 categories: []
+redirect_from: "/archive/2006/05/10/AdmittingYourAddictionIsTheFirstStep.aspx/"
 ---
+
 I once thought I was a bit of a blogging addict. To get settled into
 work I would read my blogs. I’d tune back in while eating my lunch. And
 if I went on vacation, I thought about the huge number of unread feeds.

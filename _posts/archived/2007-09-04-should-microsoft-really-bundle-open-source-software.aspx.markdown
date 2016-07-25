@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Should Microsoft Really Bundle Open Source Software?"
+title: Should Microsoft Really Bundle Open Source Software?
 date: 2007-09-04 -0800
 comments: true
 disqus_identifier: 18386
 categories: []
+redirect_from: "/archive/2007/09/03/should-microsoft-really-bundle-open-source-software.aspx/"
 ---
+
 [Ayende](http://www.ayende.com/ "Ayende") recently wrote about
 Microsoft’s “annoying” tendency [to duplicate the
 efforts](http://www.ayende.com/Blog/archive/2007/09/01/Duplication-of-Efforts.aspx "Duplication of Efforts") of

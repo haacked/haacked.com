@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "If You Cut A Mort, Does He Not Bleed?"
+title: If You Cut A Mort, Does He Not Bleed?
 date: 2006-03-16 -0800
 comments: true
 disqus_identifier: 12099
 categories: []
+redirect_from: "/archive/2006/03/15/IfYouCutAMort,DoesHeNotBleed.aspx/"
 ---
+
 [Lazy Coder](http://www.lazycoder.com/weblog/ "Scott's Blog") Scott
 [snickers when he reads
 blog](http://www.lazycoder.com/weblog/index.php/archives/2006/03/17/we-are-all-mort/)

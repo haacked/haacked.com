@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "World Domination Phase 1 Commenced"
+title: World Domination Phase 1 Commenced
 date: 2006-11-05 -0800
 comments: true
 disqus_identifier: 18129
 categories: []
+redirect_from: "/archive/2006/11/04/World_Domination_Phase_1_Commenced.aspx/"
 ---
+
 [![Source:
 http://www.solarviews.com/raw/earth/earthx.jpg](http://haacked.com/images/haacked_com/WindowsLiveWriter/WorldDominationPhase1Commenced_DD0A/earthx_thumb1.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/WorldDominationPhase1Commenced_DD0A/earthx3.jpg)
 Total world domination has always been a small goal of mine. It’s not

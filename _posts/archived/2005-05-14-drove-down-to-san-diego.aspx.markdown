@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Drove Down to San Diego"
+title: Drove Down to San Diego
 date: 2005-05-14 -0800
 comments: true
 disqus_identifier: 3228
 categories: []
+redirect_from: "/archive/2005/05/13/drove-down-to-san-diego.aspx/"
 ---
+
 Yesterday we drove down to the San Diego area to spend the day with
 Akumi's dad in Chula Vista, right on the border with Mexico. Trips to
 visit her dad end up being culinary expeditions of the highest quality.

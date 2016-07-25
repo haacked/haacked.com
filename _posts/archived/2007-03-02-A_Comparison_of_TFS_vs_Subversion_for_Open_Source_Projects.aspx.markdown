@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A Comparison of TFS vs Subversion for Open Source Projects"
+title: A Comparison of TFS vs Subversion for Open Source Projects
 date: 2007-03-02 -0800
 comments: true
 disqus_identifier: 18222
 categories: []
+redirect_from: "/archive/2007/03/01/A_Comparison_of_TFS_vs_Subversion_for_Open_Source_Projects.aspx/"
 ---
+
 We’ve been having an internal debate within the
 [Subtext](http://subtextproject.com/ "Subtext Project Website") mailing
 list over the merits of

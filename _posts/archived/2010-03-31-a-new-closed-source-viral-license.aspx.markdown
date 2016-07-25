@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "A New Closed Source Viral License"
+title: A New Closed Source Viral License
 date: 2010-03-31 -0800
 comments: true
 disqus_identifier: 18693
-categories: [humor,code]
+categories:
+- humor
+- code
+redirect_from: "/archive/2010/03/30/a-new-closed-source-viral-license.aspx/"
 ---
+
 The “copyleft” provisions of the GPL ([GNU General Public
 License](http://en.wikipedia.org/wiki/GPL "GPL on Wikipedia")) require
 that any changes or additions to a GPL licensed work must itself be

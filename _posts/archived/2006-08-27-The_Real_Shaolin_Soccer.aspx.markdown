@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Real Shaolin Soccer"
+title: The Real Shaolin Soccer
 date: 2006-08-27 -0800
 comments: true
 disqus_identifier: 16098
 categories: []
+redirect_from: "/archive/2006/08/26/The_Real_Shaolin_Soccer.aspx/"
 ---
+
 [Unbelievable!](http://video.google.com/videoplay?docid=6050883803862208942&q=soccer+skill)
 
 Another blog linked to this post and mentioned watching the video up to

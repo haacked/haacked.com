@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "CSS Question: Two Backgrounds on the Same Element?"
+title: 'CSS Question: Two Backgrounds on the Same Element?'
 date: 2005-04-04 -0800
 comments: true
 disqus_identifier: 2541
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2005/04/03/css-question-two-backgrounds-on-the-same-element-again.aspx/"
 ---
+
 As part of my site's redesign, I wanted to keep the drop shadow effect
 on the left and right borders of my main content area. No problem I
 naively thought, I'll simply add two background elements to the main

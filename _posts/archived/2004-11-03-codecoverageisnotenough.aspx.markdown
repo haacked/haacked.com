@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Why Code Coverage is not Enough"
+title: Why Code Coverage is not Enough
 date: 2004-11-03 -0800
 comments: true
 disqus_identifier: 1559
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2004/11/02/codecoverageisnotenough.aspx/"
 ---
+
 One of the holy grails for unit testing is to get 100% code coverage
 from your tests. However, you can’t sit back and smoke a cigar when you
 reach that point and assume your code is invulnerable. Code coverage

@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Single Project Areas With ASP.NET MVC 2 Preview 1"
+title: Single Project Areas With ASP.NET MVC 2 Preview 1
 date: 2009-07-31 -0800
 comments: true
 disqus_identifier: 18631
-categories: [code,asp.net mvc]
+categories:
+- code
+- asp.net mvc
+redirect_from: "/archive/2009/07/30/single-project-areas.aspx/"
 ---
+
 **UPDATE***This post is now obsolete. Single project areas are a core
 part of ASP.NET MVC 2.*
 

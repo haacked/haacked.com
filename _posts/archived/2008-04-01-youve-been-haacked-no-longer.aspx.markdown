@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "You've Been Haacked No Longer"
+title: You've Been Haacked No Longer
 date: 2008-04-01 -0800
 comments: true
 disqus_identifier: 18469
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2008/03/31/youve-been-haacked-no-longer.aspx/"
 ---
+
 UPDATE: This was an April Fool’s joke. I actually stated this in the
 bottom of the original post, but in a very small font, which some people
 noticed. :)

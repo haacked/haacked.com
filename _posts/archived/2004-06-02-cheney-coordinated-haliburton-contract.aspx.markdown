@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Cheney Coordinated Haliburton Contract"
+title: Cheney Coordinated Haliburton Contract
 date: 2004-06-02 -0800
 comments: true
 disqus_identifier: 504
 categories: []
+redirect_from: "/archive/2004/06/01/cheney-coordinated-haliburton-contract.aspx/"
 ---
+
 Found this out in the blogosphere:
 
 > Apparently, Time has obtained [an internal pentagon

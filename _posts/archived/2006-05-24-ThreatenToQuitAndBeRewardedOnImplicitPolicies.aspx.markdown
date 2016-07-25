@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Threaten To Quit And Be Rewarded - On Implicit Policies"
+title: Threaten To Quit And Be Rewarded - On Implicit Policies
 date: 2006-05-24 -0800
 comments: true
 disqus_identifier: 12937
-categories: [company culture]
+categories:
+- company culture
+redirect_from: "/archive/2006/05/23/ThreatenToQuitAndBeRewardedOnImplicitPolicies.aspx/"
 ---
+
 Implied policies are policies that are never written in any employee
 manual, but are implied due to real world practices or are side effects
 of explicit policies. The classic example is when an employee gives

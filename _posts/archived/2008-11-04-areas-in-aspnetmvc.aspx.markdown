@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Grouping Controllers with ASP.NET MVC"
+title: Grouping Controllers with ASP.NET MVC
 date: 2008-11-04 -0800
 comments: true
 disqus_identifier: 18547
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2008/11/03/areas-in-aspnetmvc.aspx/"
 ---
+
 UPDATE: I updated the prototype to work against the ASP.NET MVC 1.0 RTM.
 Keep in mind, this is \*NOT\* a backport of the the ASP.NET MVC 2
 feature so there may be some differences.

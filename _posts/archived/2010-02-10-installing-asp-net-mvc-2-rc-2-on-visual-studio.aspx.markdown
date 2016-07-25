@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Installing ASP.NET MVC 2 RC 2 on Visual Studio 2010 RC"
+title: Installing ASP.NET MVC 2 RC 2 on Visual Studio 2010 RC
 date: 2010-02-10 -0800
 comments: true
 disqus_identifier: 18685
 categories: []
+redirect_from: "/archive/2010/02/09/installing-asp-net-mvc-2-rc-2-on-visual-studio.aspx/"
 ---
+
 As many of you have probably heard, the [release candidate for Visual
 Studio 2010 was recently
 released](http://weblogs.asp.net/scottgu/archive/2010/02/08/vs-2010-net-4-release-candidate.aspx "VS 2010/.NET 4 Release Candidate")

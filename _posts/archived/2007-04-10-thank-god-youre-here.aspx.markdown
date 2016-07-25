@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Thank God You're Here"
+title: Thank God You're Here
 date: 2007-04-10 -0800
 comments: true
 disqus_identifier: 18276
 categories: []
+redirect_from: "/archive/2007/04/09/thank-god-youre-here.aspx/"
 ---
+
 How good are you at thinking on your feet?
 
 Last night I watched the premier for a new show called *Thank God You’re

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "How to Stop Receiving Credit Card Offers"
+title: How to Stop Receiving Credit Card Offers
 date: 2004-03-03 -0800
 comments: true
 disqus_identifier: 223
 categories: []
+redirect_from: "/archive/2004/03/02/how-to-stop-receiving-credit-card-offers.aspx/"
 ---
+
 > Tired of annoying "pre-approved" credit card offers? I sure am.
 > According to the Fair Credit Reporting Act (FCRA) of 1970 as amended
 > in 1996, the four major credit bureaus have the right to sell your

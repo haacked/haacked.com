@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Putting a Crimp in the RSS Fire Hose"
+title: Putting a Crimp in the RSS Fire Hose
 date: 2005-03-30 -0800
 comments: true
 disqus_identifier: 2500
 categories: []
+redirect_from: "/archive/2005/03/29/putting-a-crimp-in-the-rss-fire-hose.aspx/"
 ---
+
 ![fire hose](http://haacked.com/images/firehose.jpg) In my post entitled
 [Drinking From an RSS Fire
 Hose](http://haacked.com/archive/2005/03/24/2450.aspx) I dealt with some

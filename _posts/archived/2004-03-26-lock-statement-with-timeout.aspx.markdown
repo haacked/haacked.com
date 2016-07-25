@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "A lock statement with timeout..."
+title: A lock statement with timeout...
 date: 2004-03-26 -0800
 comments: true
 disqus_identifier: 270
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2004/03/25/lock-statement-with-timeout.aspx/"
 ---
 
 Found this [interesting post](http://www.interact-sw.co.uk/iangblog/2004/03/23/locking)

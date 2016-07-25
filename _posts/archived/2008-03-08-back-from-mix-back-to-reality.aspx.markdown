@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Back From Mix Back To Reality"
+title: Back From Mix Back To Reality
 date: 2008-03-08 -0800
 comments: true
 disqus_identifier: 18460
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2008/03/07/back-from-mix-back-to-reality.aspx/"
 ---
+
 You don’t so much *return* from Las Vegas as you *recover* from Las
 Vegas.
 

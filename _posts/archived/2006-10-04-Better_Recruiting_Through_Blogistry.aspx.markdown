@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Better Recruiting Through Blogistry"
+title: Better Recruiting Through Blogistry
 date: 2006-10-04 -0800
 comments: true
 disqus_identifier: 17636
 categories: []
+redirect_from: "/archive/2006/10/03/Better_Recruiting_Through_Blogistry.aspx/"
 ---
+
 [Alex
 Papadimoulis](http://weblogs.asp.net/Alex%5FPapadimoulis/ "Alex Papadimoulis' Blog"),
 the man behind the ever entertaining (and depressing)

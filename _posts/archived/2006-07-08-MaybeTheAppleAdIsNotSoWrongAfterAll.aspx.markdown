@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Maybe The Apple Ad Is Not So Wrong After All"
+title: Maybe The Apple Ad Is Not So Wrong After All
 date: 2006-07-08 -0800
 comments: true
 disqus_identifier: 13744
 categories: []
+redirect_from: "/archive/2006/07/07/MaybeTheAppleAdIsNotSoWrongAfterAll.aspx/"
 ---
+
 ![Apple Ad](http://haacked.com/images/AppleAd.jpg) Recently I poked
 lighthearted fun at one of the [recent Apple
 commercials](http://haacked.com/archive/2006/06/30/ApplesUnintendedComplimentToWindows.aspx "Apple Commercial")

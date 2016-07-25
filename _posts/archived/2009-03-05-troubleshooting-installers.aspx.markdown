@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Troubleshooting Windows MSI Installers"
+title: Troubleshooting Windows MSI Installers
 date: 2009-03-05 -0800
 comments: true
 disqus_identifier: 18594
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2009/03/04/troubleshooting-installers.aspx/"
 ---
+
 UPDATE: I updated this post slightly to address some good [criticsm from
 Rob
 Mensching](http://robmensching.com/blog/posts/2009/3/6/More-on-Haacks-Troubleshooting-Windows-MSI-Installers "More on Haack's Troubleshooting")

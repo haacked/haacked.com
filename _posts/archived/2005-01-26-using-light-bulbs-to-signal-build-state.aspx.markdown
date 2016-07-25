@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Using Light Bulbs To Signal Build State"
+title: Using Light Bulbs To Signal Build State
 date: 2005-01-26 -0800
 comments: true
 disqus_identifier: 2018
 categories: []
+redirect_from: "/archive/2005/01/25/using-light-bulbs-to-signal-build-state.aspx/"
 ---
+
 ![Build Lights](/images/buildlights.jpg) Oh yes, this is geeky! [Craig
 Wangdera](http://pluralsight.com/wiki/default.aspx/Craig.BuildLightsCode)
 posted the source code he wrote that lights up physical light bulbs with

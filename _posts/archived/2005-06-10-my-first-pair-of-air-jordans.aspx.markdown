@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "My First Pair Of Air Jordans"
+title: My First Pair Of Air Jordans
 date: 2005-06-10 -0800
 comments: true
 disqus_identifier: 4581
 categories: []
+redirect_from: "/archive/2005/06/09/my-first-pair-of-air-jordans.aspx/"
 ---
+
 So it's maybe thirteen years too late, but I finally have my first pair
 of Air Jordans. Yeah, they don't have anywhere near the cachet they did
 back in the day, but hey, better late than never. Here's a photo to

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Mix07 I Am Terrible At Being Interviewed"
+title: Mix07 I Am Terrible At Being Interviewed
 date: 2007-05-01 -0800
 comments: true
 disqus_identifier: 18299
 categories: []
+redirect_from: "/archive/2007/04/30/mix07-i-am-a-terrible-at-being-interviewed.aspx/"
 ---
+
 Yesterday, while hanging out in the so called “BlogZone”, [Tim
 Heuer](http://www.timheuer.com/blog/) pulled me aside for a [audio short
 interview](http://s3.amazonaws.com/timcast/MIX07-PhilHaack.mp3) on the

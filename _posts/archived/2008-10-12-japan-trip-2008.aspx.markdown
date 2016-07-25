@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Japan Trip 2008"
+title: Japan Trip 2008
 date: 2008-10-12 -0800
 comments: true
 disqus_identifier: 18535
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2008/10/11/japan-trip-2008.aspx/"
 ---
+
 Just got back from our trip to latest Japan yesterday morning. On
 previous trips, I [ate really great
 Yakitori](http://haacked.com/archive/2005/08/05/dreamingofyakitori.aspx "Yakitori"),

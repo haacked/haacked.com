@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "What Is a Blog Worth?"
+title: What Is a Blog Worth?
 date: 2005-11-03 -0800
 comments: true
 disqus_identifier: 11121
 categories: []
+redirect_from: "/archive/2005/11/02/what-is-a-blog-worth.aspx/"
 ---
+
 Or a better question that Jon Galloway asks is “What are many blogs
 worth?” Specifically he [answers this question for every
 blog](http://weblogs.asp.net/jgalloway/archive/2005/11/04/429559.aspx)

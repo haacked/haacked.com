@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Copy Source As HTML"
+title: Copy Source As HTML
 date: 2004-11-02 -0800
 comments: true
 disqus_identifier: 1553
 categories: []
+redirect_from: "/archive/2004/11/01/copy-source-as-html.aspx/"
 ---
+
 My main man [Colin](http://www.jtleigh.com/people/colin/blog/) is on
 fire with his latest version of [CopySourceAsHtml
 add-in](http://www.jtleigh.com/people/colin/blog/archives/2004/11/copysourceashtm_2.html).

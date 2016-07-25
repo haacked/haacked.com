@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Soccer Result: 2 - 2 tie."
+title: 'Soccer Result: 2 - 2 tie.'
 date: 2004-07-25 -0800
 comments: true
 disqus_identifier: 856
 categories: []
+redirect_from: "/archive/2004/07/24/soccer-result-2--2-tie.aspx/"
 ---
+
 ![Soccer ball](/images/soccerball.jpg) My team, Nothend United, tied the
 Westsiders 2 to 2. Our goalie was phenomenal in staving off their
 aggresive attack, but sadly the opponents scored twice by capitalizing

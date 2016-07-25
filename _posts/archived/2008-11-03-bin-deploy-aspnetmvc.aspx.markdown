@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Bin Deploying ASP.NET MVC"
+title: Bin Deploying ASP.NET MVC
 date: 2008-11-03 -0800
 comments: true
 disqus_identifier: 18546
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2008/11/02/bin-deploy-aspnetmvc.aspx/"
 ---
+
 With the release of [ASP.NET
 MVC](http://asp.net/mvc "ASP.NET MVC Website") Beta, the assemblies
 distributed with ASP.NET MVC are automatically installed into the GAC.

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "HowTo Support your Favorite Blogger"
+title: HowTo Support your Favorite Blogger
 date: 2005-07-06 -0800
 comments: true
 disqus_identifier: 7672
 categories: []
+redirect_from: "/archive/2005/07/05/howto-support-your-favorite-blogger.aspx/"
 ---
+
 [Randy](http://www.kbcafe.com/iBLOGthere4iM/) posts this summary list of
 [tips from challies.com](http://www.challies.com/archives/001128.php).
 It’s a nice list to be sure, but I’ve always been partial to a big fat

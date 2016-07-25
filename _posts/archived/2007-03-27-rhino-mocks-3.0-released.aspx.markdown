@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Rhino Mocks 3.0 Released!"
+title: Rhino Mocks 3.0 Released!
 date: 2007-03-27 -0800
 comments: true
 disqus_identifier: 18264
-categories: [code,tdd,open source,tech]
+categories:
+- code
+- tdd
+- open source
+- tech
+redirect_from: "/archive/2007/03/26/rhino-mocks-3.0-released.aspx/"
 ---
+
 ![Rhino](http://haacked.com/images/Rhino.jpg)[Ayende](http://www.ayende.com/ "Ayende")
 just announced the [release of Rhino Mocks
 3.0](http://ayende.com/Blog/archive/2007/03/28/Rhino-Mocks-3.0-Released.aspx "Rhino Mocks").

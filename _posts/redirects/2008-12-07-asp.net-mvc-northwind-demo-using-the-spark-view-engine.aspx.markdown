@@ -1,4 +1,0 @@
----
-date: 2008-12-07 -0800
-redirect_to: /archive/2008/12/08/asp.net-mvc-northwind-demo-using-the-spark-view-engine.aspx/
----

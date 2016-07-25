@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "TestNG - It's like NUnit, But in Java"
+title: TestNG - It's like NUnit, But in Java
 date: 2005-03-28 -0800
 comments: true
 disqus_identifier: 2478
 categories: []
+redirect_from: "/archive/2005/03/27/testng--its-like-nunit-but-in-java.aspx/"
 ---
+
 Good ideas get coopted. That's what they do. For example,
 [JUnit](http://junit.sourceforge.net/) was coopted by the .NET community
 and ported into NUnit. However in [NUnit 2.0](http://www.nunit.org/),

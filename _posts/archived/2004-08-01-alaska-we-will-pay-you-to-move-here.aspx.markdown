@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Alaska. We'll Pay You To Live Here."
+title: Alaska. We'll Pay You To Live Here.
 date: 2004-08-01 -0800
 comments: true
 disqus_identifier: 872
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2004/07/31/alaska-we-will-pay-you-to-move-here.aspx/"
 ---
+
 UPDATE: I cannot help you move to Alaska. This post was written in 2004.
 If you want to move to Alaska, please don’t contact me. Try looking for
 information at the official [Alaska

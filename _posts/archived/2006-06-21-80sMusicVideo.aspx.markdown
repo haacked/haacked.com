@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "80s Music Videos"
+title: 80s Music Videos
 date: 2006-06-21 -0800
 comments: true
 disqus_identifier: 13450
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2006/06/20/80sMusicVideo.aspx/"
 ---
+
 [Greg
 Duncan](http://coolthingoftheday.blogspot.com/2006/06/satisfy-your-80s-music-video-fix.html "Greg Duncan")
 is now my hero for [this

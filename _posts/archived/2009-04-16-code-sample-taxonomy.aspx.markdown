@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Code Sample Taxonomy"
+title: Code Sample Taxonomy
 date: 2009-04-16 -0800
 comments: true
 disqus_identifier: 18610
 categories: []
+redirect_from: "/archive/2009/04/15/code-sample-taxonomy.aspx/"
 ---
+
 What responsibility do we have as software professionals when we post
 code out there for public consumption?
 

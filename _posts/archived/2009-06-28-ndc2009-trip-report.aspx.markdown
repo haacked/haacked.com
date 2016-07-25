@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "NDC09 Trip Report"
+title: NDC09 Trip Report
 date: 2009-06-28 -0800
 comments: true
 disqus_identifier: 18626
 categories: []
+redirect_from: "/archive/2009/06/27/ndc2009-trip-report.aspx/"
 ---
+
 When you visit Norway, it takes a week to recover. Ok, at least when *I*
 visit Norway, it takes a week. But that’s just a testament to the good
 time I had. As they say, what happens in Vegas stays in Vegas, but what

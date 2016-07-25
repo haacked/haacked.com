@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "This Song Is So Much Fun"
+title: This Song Is So Much Fun
 date: 2005-07-19 -0800
 comments: true
 disqus_identifier: 8891
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2005/07/18/this-song-is-so-much-fun.aspx/"
 ---
+
 [![James
 Lavelle](http://haacked.com/images/FabricLive.jpg)](http://www.amazon.com/exec/obidos/ASIN/B00005S6P9/youvebeenhaac-20?creative=327641&camp=14573&link_code=as1)I’ve
 been pretty head down lately with work. But I just had to take a short

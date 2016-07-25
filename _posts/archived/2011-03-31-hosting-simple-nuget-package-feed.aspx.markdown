@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Hosting a Simple &ldquo;Read-Only&rdquo; NuGet Package Feed on the Web"
+title: Hosting a Simple &ldquo;Read-Only&rdquo; NuGet Package Feed on the Web
 date: 2011-03-31 -0800
 comments: true
 disqus_identifier: 18771
-categories: [nuget,asp.net,code]
+categories:
+- nuget
+- asp.net
+- code
+redirect_from: "/archive/2011/03/30/hosting-simple-nuget-package-feed.aspx/"
 ---
+
 As you may know, NuGet supports aggregating packages from multiple
 package sources. You can simply point NuGet at a folder containing
 packages or at a NuGet OData service.

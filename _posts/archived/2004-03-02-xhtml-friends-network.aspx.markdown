@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "XHTML Friends Network"
+title: XHTML Friends Network
 date: 2004-03-02 -0800
 comments: true
 disqus_identifier: 225
 categories: []
+redirect_from: "/archive/2004/03/01/xhtml-friends-network.aspx/"
 ---
+
 A while ago, I posted an
 [entry](http://haacked.europe.webmatrixhosting.net/archive/2004/02/18/201.aspx "Better Social Networking through Blogistry")
 imagining the next generation of Rss Aggregators and blogging engines

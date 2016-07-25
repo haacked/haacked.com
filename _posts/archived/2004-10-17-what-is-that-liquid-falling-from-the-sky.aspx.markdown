@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "What Is That Liquid Falling From The Sky?"
+title: What Is That Liquid Falling From The Sky?
 date: 2004-10-17 -0800
 comments: true
 disqus_identifier: 1383
 categories: []
+redirect_from: "/archive/2004/10/16/what-is-that-liquid-falling-from-the-sky.aspx/"
 ---
+
 A strange phenomena occurred last night and into this morning here in
 Los Angeles. I kid you not, but **water**... fell from the **SKY**!
 

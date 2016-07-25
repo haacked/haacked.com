@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Camp Signs"
+title: Camp Signs
 date: 2005-08-29 -0800
 comments: true
 disqus_identifier: 9738
 categories: []
+redirect_from: "/archive/2005/08/28/camp-signs.aspx/"
 ---
+
 [![CampSigns](http://photos21.flickr.com/38263995_b677f72f9e.jpg)](http://www.flickr.com/photos/haacked/38263995/ "Photo Sharing")
 
 If you’re heading off to Burning Man this year and want to swing by and

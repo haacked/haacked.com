@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A Simple Solution To Schwimmer's Issue With Bloglines"
+title: A Simple Solution To Schwimmer's Issue With Bloglines
 date: 2005-01-15 -0800
 comments: true
 disqus_identifier: 1867
 categories: []
+redirect_from: "/archive/2005/01/14/a-simple-solution-to-schwimmers-issue-with-bloglines.aspx/"
 ---
+
 > I've just removed [Martin
 > Schwimmer](http://trademark.blog.us/blog/2005/01/14.html)from my
 > subscription list. Why? Because he doesn't want his posts reprinted in

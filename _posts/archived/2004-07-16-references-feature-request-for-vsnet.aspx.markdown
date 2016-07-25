@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "References Feature Request for VS.NET"
+title: References Feature Request for VS.NET
 date: 2004-07-16 -0800
 comments: true
 disqus_identifier: 819
 categories: []
+redirect_from: "/archive/2004/07/15/references-feature-request-for-vsnet.aspx/"
 ---
+
 Omer's
 [post](http://weblogs.asp.net/okloeten/archive/2004/07/16/185270.aspx)
 (Hey, everyone! It's the "Omer Asks For A Feature" time again!) reminds

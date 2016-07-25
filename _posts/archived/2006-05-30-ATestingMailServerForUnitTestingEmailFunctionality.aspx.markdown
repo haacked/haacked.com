@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A Testing Mail Server For Unit Testing Email Functionality"
+title: A Testing Mail Server For Unit Testing Email Functionality
 date: 2006-05-30 -0800
 comments: true
 disqus_identifier: 13061
 categories: []
+redirect_from: "/archive/2006/05/29/ATestingMailServerForUnitTestingEmailFunctionality.aspx/"
 ---
+
 ![Mail](http://haacked.com/images/Mail.jpg)So you are coding along
 riding that TDD high when you reach the point at which your code needs
 to send an email. What do you do now?

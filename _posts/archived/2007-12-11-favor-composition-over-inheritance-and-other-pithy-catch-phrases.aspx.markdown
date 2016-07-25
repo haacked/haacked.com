@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Composition over Inheritance and other Pithy Catch Phrases"
+title: Composition over Inheritance and other Pithy Catch Phrases
 date: 2007-12-11 -0800
 comments: true
 disqus_identifier: 18437
 categories: []
+redirect_from: "/archive/2007/12/10/favor-composition-over-inheritance-and-other-pithy-catch-phrases.aspx/"
 ---
+
 Love them or hate them, the ALT.NET mailing list is a source of
 interesting debate, commentary and insight. I can’t help myself but to
 participate. Debate is good. Stifling debate is bad. Period. End of

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Using CraigsList To Support Katrina Survivors"
+title: Using CraigsList To Support Katrina Survivors
 date: 2005-09-06 -0800
 comments: true
 disqus_identifier: 9926
 categories: []
+redirect_from: "/archive/2005/09/05/using-craigslist-to-support-katrina-survivors.aspx/"
 ---
+
 I arrived back in Los Angeles last night from Burning Man where I spent
 the week in utter ignorance of the true scale of Hurricane Katrina. Only
 today have I started to grasp the immense scale of the destruction.

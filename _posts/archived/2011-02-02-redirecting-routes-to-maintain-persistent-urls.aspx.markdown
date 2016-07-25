@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Redirecting Routes To Maintain Persistent URLs"
+title: Redirecting Routes To Maintain Persistent URLs
 date: 2011-02-02 -0800
 comments: true
 disqus_identifier: 18761
-categories: [asp.net,nuget,open source]
+categories:
+- asp.net
+- nuget
+- open source
+redirect_from: "/archive/2011/02/01/redirecting-routes-to-maintain-persistent-urls.aspx/"
 ---
+
 Over a decade ago, Tim Berners-Lee, creator of the World Wide Web
 instructed the world know that [cool URIs don’t
 change](http://www.w3.org/Provider/Style/URI "Cool URIs don't change.")

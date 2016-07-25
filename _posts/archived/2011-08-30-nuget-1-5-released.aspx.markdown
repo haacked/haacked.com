@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "NuGet 1.5 Released!"
+title: NuGet 1.5 Released!
 date: 2011-08-30 -0800
 comments: true
 disqus_identifier: 18811
-categories: [nuget,code]
+categories:
+- nuget
+- code
+redirect_from: "/archive/2011/08/29/nuget-1-5-released.aspx/"
 ---
+
 UPDATE: We found [an issue](http://nuget.codeplex.com/workitem/1419)
 with 1.5 when running behind some proxies that caused an “Arithmetic
 operation resulted in an overflow” exception message and another issue

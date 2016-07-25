@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Mix Conferences Will End With 09"
+title: The Mix Conferences Will End With 09
 date: 2006-09-20 -0800
 comments: true
 disqus_identifier: 16951
-categories: [community]
+categories:
+- community
+redirect_from: "/archive/2006/09/19/The_Mix_Conferences_Will_End_With_09.aspx/"
 ---
+
 [![Mix06
 Hand](http://haacked.com/images/haacked_com/WindowsLiveWriter/TheMixConferencesWillEndWith09_14993/mix06_web_hand_thumb1.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/TheMixConferencesWillEndWith09_14993/mix06_web_hand3.jpg)
 I am going to pull a Nostradamus here and predict that the Mix series of

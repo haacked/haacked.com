@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "My Little World Domination Backup"
+title: My Little World Domination Backup
 date: 2009-04-07 -0800
 comments: true
 disqus_identifier: 18608
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2009/04/06/my-little-world-domination-backup.aspx/"
 ---
+
 Every good developer knows to always have a backup. For example, over
 two years ago, I announced my [world domination
 plans](http://haacked.com/archive/2006/11/05/World_Domination_Phase_1_Commenced.aspx "World Domination Plans").

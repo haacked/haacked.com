@@ -5,7 +5,9 @@ date: 2006-03-21 -0800
 comments: true
 disqus_identifier: 12131
 categories: []
+redirect_from: "/archive/2006/03/20/Mix06MicroformatsAutodiscovery.aspx/"
 ---
+
 It is unfortunate that I haven’t been able to blog much about the Mix06
 conference so far, as there is so much worth writing about.
 Unfortunately I have acquired a bad cold on top of a splitting headache

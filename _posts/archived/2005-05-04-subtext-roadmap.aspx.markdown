@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Subtext Roadmap"
+title: Subtext Roadmap
 date: 2005-05-04 -0800
 comments: true
 disqus_identifier: 2983
-categories: [subtext]
+categories:
+- subtext
+redirect_from: "/archive/2005/05/03/subtext-roadmap.aspx/"
 ---
+
 This document describes the goals for future versions of Subtext as well
 as a plan for achieving them. The goals for this roadmap are the
 following:

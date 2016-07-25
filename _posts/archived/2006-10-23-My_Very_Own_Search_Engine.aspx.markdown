@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "My Very Own Search Engine"
+title: My Very Own Search Engine
 date: 2006-10-23 -0800
 comments: true
 disqus_identifier: 18105
 categories: []
+redirect_from: "/archive/2006/10/22/My_Very_Own_Search_Engine.aspx/"
 ---
+
 ![Google
 Beta](http://haacked.com/images/haacked_com/WindowsLiveWriter/MyVeryOwnSearchEngine_13EC6/google_coop_xsm5.gif)
 Google just launched a

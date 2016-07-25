@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Lightbox JS 2.0 Released"
+title: Lightbox JS 2.0 Released
 date: 2006-04-04 -0800
 comments: true
 disqus_identifier: 12263
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2006/04/03/LightboxJS2.0Released.aspx/"
 ---
+
 [Lightbox
 JS](http://www.huddletogether.com/projects/lightbox/ "The original Lightbox")
 brought a new level of hotness when it came to displaying pictures on

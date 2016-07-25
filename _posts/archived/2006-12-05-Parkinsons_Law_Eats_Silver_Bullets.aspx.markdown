@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Parkinson's Law Eats Silver Bullets"
+title: Parkinson's Law Eats Silver Bullets
 date: 2006-12-05 -0800
 comments: true
 disqus_identifier: 18156
 categories: []
+redirect_from: "/archive/2006/12/04/Parkinsons_Law_Eats_Silver_Bullets.aspx/"
 ---
+
 ![Silver Bullet: From
 http://www.tejasthumpcycles.com/Parts/LeversGripsctrls/Silver\_Bullet/Silver\_Bullet\_Shift\_Brake.jpg](http://haacked.com/images/haacked_com/WindowsLiveWriter/TradeoffsWhenMinimizingTheImpactOfChange_1D54/Silver_Bullet_thumb%5B1%5D.jpg)
 In his essay [No Silver Bullet: Essence and Accidents of Software

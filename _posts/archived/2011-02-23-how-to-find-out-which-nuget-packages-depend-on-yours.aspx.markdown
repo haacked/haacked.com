@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "How To Find Out Which NuGet Packages Depend on Yours"
+title: How To Find Out Which NuGet Packages Depend on Yours
 date: 2011-02-23 -0800
 comments: true
 disqus_identifier: 18765
-categories: [nuget,asp.net,asp.net mvc,code]
+categories:
+- nuget
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2011/02/22/how-to-find-out-which-nuget-packages-depend-on-yours.aspx/"
 ---
+
 Renaming a package ID is a potentially destructive action and one we
 don’t recommend doing. Why? Well if any other packages depend on your
 package, you’ve effectively broken them if you change your package ID.

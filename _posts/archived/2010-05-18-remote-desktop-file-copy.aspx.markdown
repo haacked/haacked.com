@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Copying Files Over Remote Desktop"
+title: Copying Files Over Remote Desktop
 date: 2010-05-18 -0800
 comments: true
 disqus_identifier: 18701
-categories: [tech]
+categories:
+- tech
+redirect_from: "/archive/2010/05/17/remote-desktop-file-copy.aspx/"
 ---
+
 Here’s a handy tip I just recently learned from the new intern on our
 team (*see, you can learn something from anyone on any given day*). I’ve
 long known you could access your local drives from a remote machine.

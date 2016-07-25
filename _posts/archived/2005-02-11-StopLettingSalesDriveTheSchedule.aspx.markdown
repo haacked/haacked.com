@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Please, Stop Letting the Sales Team Drive the Software Schedule"
+title: Please, Stop Letting the Sales Team Drive the Software Schedule
 date: 2005-02-11 -0800
 comments: true
 disqus_identifier: 2140
 categories: []
+redirect_from: "/archive/2005/02/10/StopLettingSalesDriveTheSchedule.aspx/"
 ---
+
 My friend [Thomas Wagner](http://wagnerblog.com/) has a [small epiphany
 of sorts](http://wagnerblog.com/index.php?p=344). At first, I thought he
 was writing the biography of my first year at my current job. But

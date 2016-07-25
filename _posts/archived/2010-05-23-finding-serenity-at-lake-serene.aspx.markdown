@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Finding Serenity at Lake Serene"
+title: Finding Serenity at Lake Serene
 date: 2010-05-23 -0800
 comments: true
 disqus_identifier: 18702
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2010/05/22/finding-serenity-at-lake-serene.aspx/"
 ---
+
 The last time I wrote about one of my hiking adventures, it started off
 great, but [really didn’t end
 well](http://haacked.com/archive/2009/05/24/panic-mt-si.aspx "Fright on Mt Si").

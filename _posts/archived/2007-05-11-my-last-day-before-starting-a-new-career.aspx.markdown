@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "My Last Day Before Starting A New Career"
+title: My Last Day Before Starting A New Career
 date: 2007-05-11 -0800
 comments: true
 disqus_identifier: 18312
 categories: []
+redirect_from: "/archive/2007/05/10/my-last-day-before-starting-a-new-career.aspx/"
 ---
+
 Today is my last day of work as a
 [VelocIT](http://veloc-it.com/ "VelocIT") employee, a company I helped
 start and had (and still have) high hopes for as [employee

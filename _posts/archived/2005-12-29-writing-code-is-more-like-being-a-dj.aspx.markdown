@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Writing Code Is More Like Being a DJ"
+title: Writing Code Is More Like Being a DJ
 date: 2005-12-29 -0800
 comments: true
 disqus_identifier: 11387
 categories: []
+redirect_from: "/archive/2005/12/28/writing-code-is-more-like-being-a-dj.aspx/"
 ---
+
 While we’re on the topic of appropriate analogies for software
 development, my homie Micah writes a post about how certain analogies
 fall short, and [he compares writing software to being an

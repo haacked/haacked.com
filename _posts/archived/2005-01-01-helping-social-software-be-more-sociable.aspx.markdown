@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Helping Social Software Be More Sociable"
+title: Helping Social Software Be More Sociable
 date: 2005-01-01 -0800
 comments: true
 disqus_identifier: 1793
 categories: []
+redirect_from: "/archive/2004/12/31/helping-social-software-be-more-sociable.aspx/"
 ---
+
 I read with interest [Dare's
 post](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=101325f8-dc54-4340-a674-c32c31c6db97)
 on the quandary social software finds itself in today. In a nutshell,

@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "ASP.NET MVC 2 RC 2 Released"
+title: ASP.NET MVC 2 RC 2 Released
 date: 2010-02-04 -0800
 comments: true
 disqus_identifier: 18683
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from: "/archive/2010/02/03/aspnetmvc2-rc2.aspx/"
 ---
+
 UPDATE: This blog post is out-of date. We released the RTM of ASP.NET
 MVC 2 in March 2010. Read [about it
 here](http://haacked.com/archive/2010/03/11/aspnet-mvc2-released.aspx "ASP.NET MVC 2 RTM").

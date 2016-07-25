@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Shining Redux - Feel Good Movie?"
+title: The Shining Redux - Feel Good Movie?
 date: 2005-09-29 -0800
 comments: true
 disqus_identifier: 10459
 categories: []
+redirect_from: "/archive/2005/09/28/the-shining-redux--feel-good-movie.aspx/"
 ---
+
 ![The Shining](http://haacked.com/images/TheShining.jpg) Since when was
 *The Shining* a feel good movie? Since somebody creatively edited
 footage to make [this

@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Introducing RouteMagic"
+title: Introducing RouteMagic
 date: 2011-01-30 -0800
 comments: true
 disqus_identifier: 18760
-categories: [asp.net,code,asp.net mvc,open source]
+categories:
+- asp.net
+- code
+- asp.net mvc
+- open source
+redirect_from: "/archive/2011/01/29/introducing-routemagic.aspx/"
 ---
+
 Over the past couple of years, I’ve written [several blog posts on
 ASP.NET
 Routing](http://haacked.com/tags/Routing/default.aspx "Blog Posts Tagged with 'Routing'")

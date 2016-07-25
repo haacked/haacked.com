@@ -4,8 +4,13 @@ title: ".NET 3.5 SP1 Beta and Its Effect on MVC"
 date: 2008-05-12 -0800
 comments: true
 disqus_identifier: 18486
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2008/05/11/sp1-beta-and-its-effect-on-mvc.aspx/"
 ---
+
 The [news is
 out](http://weblogs.asp.net/scottgu/archive/2008/05/12/visual-studio-2008-and-net-framework-3-5-service-pack-1-beta.aspx ".NET 3.5 SP1"),
 the beta for the Visual Studio 2008 and the .NET Framework 3.5 Service

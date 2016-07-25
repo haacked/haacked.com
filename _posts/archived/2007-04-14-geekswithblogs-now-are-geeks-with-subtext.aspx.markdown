@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "GeeksWithBlogs Now Are Geeks With Subtext"
+title: GeeksWithBlogs Now Are Geeks With Subtext
 date: 2007-04-14 -0800
 comments: true
 disqus_identifier: 18281
 categories: []
+redirect_from: "/archive/2007/04/13/geekswithblogs-now-are-geeks-with-subtext.aspx/"
 ---
+
 The GeeksWithBlogs.net website just switched over its 1442 (and
 counting) blogs, containing 25,921 blog posts and 39,140 comments over
 to Subtext. As Jeff Julian reports, it only [took them six

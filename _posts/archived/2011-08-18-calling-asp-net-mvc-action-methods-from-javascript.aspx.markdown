@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Calling ASP.NET MVC Action Methods from JavaScript"
+title: Calling ASP.NET MVC Action Methods from JavaScript
 date: 2011-08-18 -0800
 comments: true
 disqus_identifier: 18810
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2011/08/17/calling-asp-net-mvc-action-methods-from-javascript.aspx/"
 ---
+
 In a recent blog post, I wrote a [a controller
 inspector](http://haacked.com/archive/2011/08/10/writing-an-asp-net-mvc-controller-inspector.aspx "Controller Inspector")
 to demonstrate Controller and Action Descriptors. In this blog post, I

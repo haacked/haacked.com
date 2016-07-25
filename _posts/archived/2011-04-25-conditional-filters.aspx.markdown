@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Conditional Filters in ASP.NET MVC 3"
+title: Conditional Filters in ASP.NET MVC 3
 date: 2011-04-25 -0800
 comments: true
 disqus_identifier: 18780
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2011/04/24/conditional-filters.aspx/"
 ---
+
 Say you want to apply an action filter to every action except one. How
 would you go about it? For example, suppose you want to apply an
 authorization filter to every action except the action that lets the

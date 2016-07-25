@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "NuGet 1.3 Released"
+title: NuGet 1.3 Released
 date: 2011-04-26 -0800
 comments: true
 disqus_identifier: 18781
-categories: [nuget,code,open source]
+categories:
+- nuget
+- code
+- open source
+redirect_from: "/archive/2011/04/25/nuget-1-3-released.aspx/"
 ---
+
 In continuing our efforts to [release early, release
 often](http://haacked.com/archive/2011/04/20/release-early-and-often.aspx "Release Early, Release Often"),
 I’m happy to announce [the release of NuGet

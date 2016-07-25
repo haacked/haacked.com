@@ -1,4 +1,0 @@
----
-date: 2007-05-10 -0800
-redirect_to: /archive/2007/05/11/subtext-1.9.5-release.aspx/
----

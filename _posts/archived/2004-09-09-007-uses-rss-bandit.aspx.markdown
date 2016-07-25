@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "007 Uses RSS Bandit"
+title: 007 Uses RSS Bandit
 date: 2004-09-09 -0800
 comments: true
 disqus_identifier: 1181
 categories: []
+redirect_from: "/archive/2004/09/08/007-uses-rss-bandit.aspx/"
 ---
+
 Dare puts this quote from Tim Bray up on his blog.
 
 > This has nothing to do with a California chip maker. Rather, its about

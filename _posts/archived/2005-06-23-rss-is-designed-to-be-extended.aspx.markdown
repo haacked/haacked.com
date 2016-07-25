@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "RSS Is Designed To Be Extended"
+title: RSS Is Designed To Be Extended
 date: 2005-06-23 -0800
 comments: true
 disqus_identifier: 7187
 categories: []
+redirect_from: "/archive/2005/06/22/rss-is-designed-to-be-extended.aspx/"
 ---
+
 ![RSS](http://haacked.com/images/RSSLOGO.jpg) Now repeat after me, “RSS
 is designed to be extended.”
 

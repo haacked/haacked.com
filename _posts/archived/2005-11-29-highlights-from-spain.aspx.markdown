@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Highlights From Spain"
+title: Highlights From Spain
 date: 2005-11-29 -0800
 comments: true
 disqus_identifier: 11266
 categories: []
+redirect_from: "/archive/2005/11/28/highlights-from-spain.aspx/"
 ---
+
 Upon returning from any vacation, I usually have a great desire to
 upload all my pics to Flickr and give each one a detailed, witty,
 interesting description. About five pictures into the process, I grow

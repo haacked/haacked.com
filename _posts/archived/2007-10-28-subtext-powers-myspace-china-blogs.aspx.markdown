@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "MySpace China Blogs Powered By Subtext"
+title: MySpace China Blogs Powered By Subtext
 date: 2007-10-28 -0800
 comments: true
 disqus_identifier: 18412
-categories: [subtext]
+categories:
+- subtext
+redirect_from: "/archive/2007/10/27/subtext-powers-myspace-china-blogs.aspx/"
 ---
+
 ![MySpace China
 Logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/NihaoMySpaceChinaHowisSubtextWorkingOutF_6BA/logo_3.png)An
 undisclosed source informed me that [MySpace

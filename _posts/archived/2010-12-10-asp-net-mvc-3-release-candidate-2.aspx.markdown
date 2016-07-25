@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "ASP.NET MVC 3 Release Candidate 2"
+title: ASP.NET MVC 3 Release Candidate 2
 date: 2010-12-10 -0800
 comments: true
 disqus_identifier: 18746
-categories: [asp.net,asp.net mvc,nuget,code]
+categories:
+- asp.net
+- asp.net mvc
+- nuget
+- code
+redirect_from: "/archive/2010/12/09/asp-net-mvc-3-release-candidate-2.aspx/"
 ---
+
 Almost [exactly one month
 ago](http://haacked.com/archive/2010/11/09/asp-net-mvc-3-release-candidate.aspx "ASP.NET MVC 3 RC"),
 we released the Release Candidate for ASP.NET MVC 3. And today we learn

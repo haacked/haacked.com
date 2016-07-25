@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "ReSharper Return to Intended Price"
+title: ReSharper Return to Intended Price
 date: 2005-03-27 -0800
 comments: true
 disqus_identifier: 2472
 categories: []
+redirect_from: "/archive/2005/03/26/resharper-return-to-intended-price.aspx/"
 ---
+
 ReSharper is no longer going to be the super bargain it currently is as
 they are raising the price. Even at \$149, it's a worthwhile product.
 But if you see yourself doing development with VS.NET 2003 for a long

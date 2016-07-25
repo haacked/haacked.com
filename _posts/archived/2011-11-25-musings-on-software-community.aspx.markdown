@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Musings On Software Community"
+title: Musings On Software Community
 date: 2011-11-25 -0800
 comments: true
 disqus_identifier: 18826
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2011/11/24/musings-on-software-community.aspx/"
 ---
+
 While attending [Oredev 2011](http://oredev.org/2011/), I had an
 interesting conversation with [Corey
 Haines](http://coreyhaines.com/ "Corey Haines") about his perception of

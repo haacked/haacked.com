@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "How Is The Weather?"
+title: How Is The Weather?
 date: 2005-11-06 -0800
 comments: true
 disqus_identifier: 11141
 categories: []
+redirect_from: "/archive/2005/11/05/how-is-the-weather.aspx/"
 ---
+
 The title of my post is meant to indicate that this post is not
 technical in nature, but rather just a bit of small talk, chit-chat,
 idle conversation. You know, the sort of surface level conversation

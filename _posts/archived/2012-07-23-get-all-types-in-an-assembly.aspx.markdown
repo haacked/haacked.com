@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Get All Types in an Assembly"
+title: Get All Types in an Assembly
 date: 2012-07-23 -0800
 comments: true
 disqus_identifier: 18863
-categories: [asp.net mvc,code]
+categories:
+- asp.net mvc
+- code
+redirect_from: "/archive/2012/07/22/get-all-types-in-an-assembly.aspx/"
 ---
+
 Sometimes, you need to scan all the types in an assembly for a certain
 reason. For example, ASP.NET MVC does this to look for potential
 controllers.

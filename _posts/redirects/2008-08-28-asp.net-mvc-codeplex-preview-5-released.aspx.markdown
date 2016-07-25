@@ -1,4 +1,0 @@
----
-date: 2008-08-28 -0800
-redirect_to: /archive/2008/08/29/asp.net-mvc-codeplex-preview-5-released.aspx/
----

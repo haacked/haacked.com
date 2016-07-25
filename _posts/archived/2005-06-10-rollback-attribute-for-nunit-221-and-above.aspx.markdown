@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Rollback Attribute for NUnit 2.2.1 and Above"
+title: Rollback Attribute for NUnit 2.2.1 and Above
 date: 2005-06-10 -0800
 comments: true
 disqus_identifier: 4580
 categories: []
+redirect_from: "/archive/2005/06/09/rollback-attribute-for-nunit-221-and-above.aspx/"
 ---
+
 Oh man, I have been head deep into “real” work lately, which explains
 the relative silence on my blog. In any case, it’s time to jump back in
 the fray with some light technical content.

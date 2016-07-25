@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "First Impression of Resharper 1.0.2: It's Sloooow"
+title: 'First Impression of Resharper 1.0.2: It''s Sloooow'
 date: 2004-08-09 -0800
 comments: true
 disqus_identifier: 901
 categories: []
+redirect_from: "/archive/2004/08/08/first-impression-of-resharper-102-its-sloooow.aspx/"
 ---
+
 ![Resharper](/images/resharper.gif) After hearing so much about how
 [IntelliJ IDEA](http://www.jetbrains.com/idea/index.html) is the ideal
 IDE and blows every other IDE to smithereens from various Java pundits

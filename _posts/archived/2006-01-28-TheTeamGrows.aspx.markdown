@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Team Grows"
+title: The Team Grows
 date: 2006-01-28 -0800
 comments: true
 disqus_identifier: 11613
 categories: []
+redirect_from: "/archive/2006/01/27/TheTeamGrows.aspx/"
 ---
+
 A while ago I told you that I was starting [a
 company](http://micahdylan.com/archive/2006/01/27/TheThreeAmigos.aspx)
 with my business partner, [Micah](http://micahdylan.com/). Well the good

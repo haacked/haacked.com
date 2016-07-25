@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Writing Custom Exceptions Using Resharper Live Templates"
+title: Writing Custom Exceptions Using Resharper Live Templates
 date: 2005-10-17 -0800
 comments: true
 disqus_identifier: 10828
 categories: []
+redirect_from: "/archive/2005/10/16/WritingCustomExceptionsUsingResharperLiveTemplates.aspx/"
 ---
+
 Writing proper custom exceptions can amount to a lot of busy work. Oh
 sure, it’s easy to simply inherit from `System.Exception` and stop
 there. But try running that baby through FxCop or passing that exception

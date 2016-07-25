@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Biking Ballona Creek"
+title: Biking Ballona Creek
 date: 2006-07-17 -0800
 comments: true
 disqus_identifier: 13970
 categories: []
+redirect_from: "/archive/2006/07/16/BikingBallonaCreek.aspx/"
 ---
+
 ![creek](http://haacked.com/images/brushycreek.jpg) Yesterday afternoon
 the wife and I took a bike ride along Ballona Creek. Now the word
 *creek* might conjure up an image for you of tall brushy trees on grass

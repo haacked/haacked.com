@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Connecting to Terminal Services When All Active Sessions are Used"
+title: Connecting to Terminal Services When All Active Sessions are Used
 date: 2005-10-13 -0800
 comments: true
 disqus_identifier: 10783
 categories: []
+redirect_from: "/archive/2005/10/12/remote_desktop_to_console_session.aspx/"
 ---
+
 UPDATE: If you are using Windows Server 2008, the switch is **`/admin`**
 not `/console`. See this post [for
 details](http://blogs.msdn.com/ts/archive/2007/12/17/changes-to-remote-administration-in-windows-server-2008.aspx "details").

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Moderating Comments. How About An API?"
+title: Moderating Comments. How About An API?
 date: 2004-08-13 -0800
 comments: true
 disqus_identifier: 919
 categories: []
+redirect_from: "/archive/2004/08/12/moderating-comments-how-about-an-api.aspx/"
 ---
+
 I've heard a lot of complaints about what a b\*tch moderating comments
 turns out to be. So why not create an API for moderating comments?
 

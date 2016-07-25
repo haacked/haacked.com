@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Digging Deeper Into the Triangular Series"
+title: Digging Deeper Into the Triangular Series
 date: 2005-10-20 -0800
 comments: true
 disqus_identifier: 10910
 categories: []
+redirect_from: "/archive/2005/10/19/digging-deeper-into-the-triangular-series.aspx/"
 ---
+
 In [my last post](http://haacked.com/archive/2005/10/20/10899.aspx), I
 didn’t explain the pattern to Jayson’s satisfaction *and* I had a typo
 in my proof that I have since corrected.

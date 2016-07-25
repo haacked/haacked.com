@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Stop The Window.Onload Madness"
+title: Stop The Window.Onload Madness
 date: 2006-04-06 -0800
 comments: true
 disqus_identifier: 12292
 categories: []
+redirect_from: "/archive/2006/04/05/StopTheWindow.OnloadMadness.aspx/"
 ---
+
 ![Madness - Image from DC
 Comics](http://haacked.com/images/JokerMadness.jpg) There are a lot
 [cool](/archive/2006/04/05/MakingMicroformatsMoreVisibleAnnouncingTheXFNHighlighterScript.aspx "XFN Highlighter Script")

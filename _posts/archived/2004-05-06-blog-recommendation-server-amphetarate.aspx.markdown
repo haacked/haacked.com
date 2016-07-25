@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Blog Recommendation Server: AmphetaRate"
+title: 'Blog Recommendation Server: AmphetaRate'
 date: 2004-05-06 -0800
 comments: true
 disqus_identifier: 412
 categories: []
+redirect_from: "/archive/2004/05/05/blog-recommendation-server-amphetarate.aspx/"
 ---
+
 Saw a post on the RSS Bandit newsgroup about
 [AmphetaRate](http://amphetarate.sourceforge.net/), a recommendation
 engine for blogs.

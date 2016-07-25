@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Get Your GMail Invites Here...  (UPDATE: All out)"
+title: 'Get Your GMail Invites Here...  (UPDATE: All out)'
 date: 2004-08-30 -0800
 comments: true
 disqus_identifier: 1034
 categories: []
+redirect_from: "/archive/2004/08/29/get-your-gmail-invites-here-update-all-out.aspx/"
 ---
+
 I have a few GMail invites to give away. If you don't mind having a
 profit driven corporation scanning the contents of your emails in order
 to target you with ads, then post a funny comment with your email

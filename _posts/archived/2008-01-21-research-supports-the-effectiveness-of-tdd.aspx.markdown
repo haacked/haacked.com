@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Research Supports The Effectiveness of TDD"
+title: Research Supports The Effectiveness of TDD
 date: 2008-01-21 -0800
 comments: true
 disqus_identifier: 18449
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2008/01/20/research-supports-the-effectiveness-of-tdd.aspx/"
 ---
+
 In a [recent
 post](http://weblogs.asp.net/fbouma/archive/2008/01/11/the-waterfall-which-makes-agile-pundits-go-blind.aspx "The Waterfall which makes agile pundits go blind"),
 [Frans Bouma](http://weblogs.asp.net/fbouma/ "Frans Bouma") laments the

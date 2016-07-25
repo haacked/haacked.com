@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Random Thought Friday"
+title: Random Thought Friday
 date: 2011-05-27 -0800
 comments: true
 disqus_identifier: 18792
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2011/05/26/random-thought-friday.aspx/"
 ---
+
 I’m reading through the archives of a blog where the author posts
 something random every Friday (yesterday was Thursday, and tomorrow is
 Saturday). His Friday posts are completely unrelated to the main theme

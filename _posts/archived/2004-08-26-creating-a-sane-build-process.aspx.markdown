@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Creating A Sane Build Process"
+title: Creating A Sane Build Process
 date: 2004-08-26 -0800
 comments: true
 disqus_identifier: 978
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2004/08/25/creating-a-sane-build-process.aspx/"
 ---
+
 I’m not proud of it (well maybe just a little), but I once created an
 *insane* build process once. If
 [Pat](http://www.patrickgannon.net/ "Patrick Gannon") (who maintained

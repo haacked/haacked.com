@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Why You Shouldn't Be Using a Password Of Any Kind"
+title: Why You Shouldn't Be Using a Password Of Any Kind
 date: 2004-12-07 -0800
 comments: true
 disqus_identifier: 1711
 categories: []
+redirect_from: "/archive/2004/12/06/why-you-shouldnt-be-using-a-password-of-any-kind.aspx/"
 ---
+
 [Robert Hensing](http://weblogs.asp.net/robert_hensing/), a senior
 member of Microsoft's PSS Security Response Team, writes this
 enlightening post [why

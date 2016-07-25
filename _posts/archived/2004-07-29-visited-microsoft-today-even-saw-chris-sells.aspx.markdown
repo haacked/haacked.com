@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Visited Microsoft Today.  Even Saw Chris Sells."
+title: Visited Microsoft Today.  Even Saw Chris Sells.
 date: 2004-07-29 -0800
 comments: true
 disqus_identifier: 864
 categories: []
+redirect_from: "/archive/2004/07/28/visited-microsoft-today-even-saw-chris-sells.aspx/"
 ---
+
 My friend Julie showed me and Akumi around the campus today. She works
 for the Finance department in Building 4. When I say "campus", Microsoft
 really has a collegiate feel to it. We even saw a group sitting in a

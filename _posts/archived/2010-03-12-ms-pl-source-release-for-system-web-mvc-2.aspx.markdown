@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Ms-PL Source Release for System.Web.Mvc 2"
+title: Ms-PL Source Release for System.Web.Mvc 2
 date: 2010-03-12 -0800
 comments: true
 disqus_identifier: 18690
-categories: [asp.net,asp.net mvc,open source,code]
+categories:
+- asp.net
+- asp.net mvc
+- open source
+- code
+redirect_from: "/archive/2010/03/11/ms-pl-source-release-for-system-web-mvc-2.aspx/"
 ---
+
 Hot on the heels of the [release of ASP.NET MVC 2
 yesterday](http://haacked.com/archive/2010/03/11/aspnet-mvc2-released.aspx "ASP.NET MVC 2 Released!"),
 I’m happy to announce that we are **releasing the source code to ASP.NET

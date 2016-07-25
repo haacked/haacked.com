@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Async Lambdas"
+title: Async Lambdas
 date: 2013-01-24 -0800
 comments: true
 disqus_identifier: 18883
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2013/01/23/async-lambdas.aspx/"
 ---
+
 Today I learned something new and I love that!
 
 I was looking at some code that looked like this:

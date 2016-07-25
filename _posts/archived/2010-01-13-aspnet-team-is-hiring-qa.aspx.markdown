@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Join My Team And Help Us Produce Higher Quality Products"
+title: Join My Team And Help Us Produce Higher Quality Products
 date: 2010-01-13 -0800
 comments: true
 disqus_identifier: 18677
-categories: [asp.net]
+categories:
+- asp.net
+redirect_from: "/archive/2010/01/12/aspnet-team-is-hiring-qa.aspx/"
 ---
+
 The ASP.NET Team is still looking for that QA person out there who
 shares our passion for technology and improving the means by which
 software is made.

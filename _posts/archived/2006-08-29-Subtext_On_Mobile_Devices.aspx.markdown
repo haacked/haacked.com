@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Subtext On Mobile Devices"
+title: Subtext On Mobile Devices
 date: 2006-08-29 -0800
 comments: true
 disqus_identifier: 16169
 categories: []
+redirect_from: "/archive/2006/08/28/Subtext_On_Mobile_Devices.aspx/"
 ---
+
 Scott writes about [making DasBlog work on Mobile
 Devices](http://www.hanselman.com/blog/MakingDasBlogWorkOnMobileDevices.aspx "DasBlog"). 
 The approach he takes is to programmatically detect that the device is a

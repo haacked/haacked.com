@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Open Source Distinction And Search"
+title: Open Source Distinction And Search
 date: 2006-04-25 -0800
 comments: true
 disqus_identifier: 12560
 categories: []
+redirect_from: "/archive/2006/04/24/OpenSourceDistinctionAndSearch.aspx/"
 ---
+
 Scott makes a great [distinction
 between](http://www.hanselman.com/blog/CommentView.aspx?guid=da5c0dea-e676-47b3-bb7e-ce3a86a7e971#commentstart "Open Source Distinction")
 Open Source code and Source Out in the open.

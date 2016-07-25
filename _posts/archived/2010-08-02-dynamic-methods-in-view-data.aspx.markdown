@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Dynamic Methods in View Data"
+title: Dynamic Methods in View Data
 date: 2010-08-02 -0800
 comments: true
 disqus_identifier: 18714
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2010/08/01/dynamic-methods-in-view-data.aspx/"
 ---
+
 In [ASP.NET MVC 3 Preview
 1](http://haacked.com/archive/2010/07/27/aspnetmvc3-preview1-released.aspx "ASP.NET MVC 3 Preview 1 Released"),
 we introduced some syntactic sugar for creating and accessing view data

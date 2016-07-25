@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Enabling IPv6 For Your .NET Application"
+title: Enabling IPv6 For Your .NET Application
 date: 2004-09-24 -0800
 comments: true
 disqus_identifier: 1265
 categories: []
+redirect_from: "/archive/2004/09/23/enabling-ipv6-for-your-net-application.aspx/"
 ---
+
 RSS Bandit Developer [Torsten](http://www.rendelmann.info/blog/) points
 out a very long and arduous process for enabling IPv6 in your .NET
 application. Here is the extremely tedious set of instructions.

@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Sprechen Sie ASP.NET MVC?"
+title: Sprechen Sie ASP.NET MVC?
 date: 2011-01-21 -0800
 comments: true
 disqus_identifier: 18759
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2011/01/20/sprechen-sie-asp-net-mvc.aspx/"
 ---
+
 Ni hao ma!
 
 Hot on the heels of [the RTM release of ASP.NET MVC

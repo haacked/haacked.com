@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Reflections on 2012"
+title: Reflections on 2012
 date: 2013-01-01 -0800
 comments: true
 disqus_identifier: 18879
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2012/12/31/reflections-on-2012.aspx/"
 ---
+
 I wasn’t prepared to write an end-of-year blog post given the impending
 destruction of the world via a Mayan prophesied cataclysmic fury. But
 since that didn’t pan out I figured I’d better get typing.

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Why Must The &quot;Reply To All&quot; Button Be Right Next To The &quot;Reply&quot; Button?"
+title: Why Must The &quot;Reply To All&quot; Button Be Right Next To The &quot;Reply&quot;
+  Button?
 date: 2005-01-27 -0800
 comments: true
 disqus_identifier: 2038
 categories: []
+redirect_from: "/archive/2005/01/26/why-must-the-reply-to-all-button-be-right-next-to-the-reply-button.aspx/"
 ---
+
 Every Friday the company buys lunch. Today we all received an email with
 the list of choices from a Thai restaurant. I replied with "Orange
 Chicken". Soon afterwards one of my coworkers thanks me for letting him

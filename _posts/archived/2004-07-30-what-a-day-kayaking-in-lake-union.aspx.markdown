@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "What a day! Kayaking in Lake Union"
+title: What a day! Kayaking in Lake Union
 date: 2004-07-30 -0800
 comments: true
 disqus_identifier: 869
 categories: []
+redirect_from: "/archive/2004/07/29/what-a-day-kayaking-in-lake-union.aspx/"
 ---
+
 There ought to be a law that requires employers to give their charges
 the day off due to great weather. Back in Alaska, we'd have the day off
 when it dropped to -60 F with snow up to your nostrils. They call it a

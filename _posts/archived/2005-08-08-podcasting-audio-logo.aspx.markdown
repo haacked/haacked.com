@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Podcasting Audio Logo"
+title: Podcasting Audio Logo
 date: 2005-08-08 -0800
 comments: true
 disqus_identifier: 9261
 categories: []
+redirect_from: "/archive/2005/08/07/podcasting-audio-logo.aspx/"
 ---
+
 So you’re ready to bore the world with your stuttering lisp via
 podcasting. Congratulations! Join the thousands of others podcasting
 their mind numbing undifferentiated message.

@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "And The Winner Is, NuGet"
+title: And The Winner Is, NuGet
 date: 2010-10-29 -0800
 comments: true
 disqus_identifier: 18732
-categories: [code,open source,nuget]
+categories:
+- code
+- open source
+- nuget
+redirect_from: "/archive/2010/10/28/nupack-is-now-nuget.aspx/"
 ---
+
 The polls have closed and we now have a new name for our project, NuGet
 (pronounced “New Get” and not “Nugget” and not “Noojay” for you
 hoity-toity) which had the [most votes by a large

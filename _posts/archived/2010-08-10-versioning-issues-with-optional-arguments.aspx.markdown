@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Versioning Issues With Optional Arguments"
+title: Versioning Issues With Optional Arguments
 date: 2010-08-10 -0800
 comments: true
 disqus_identifier: 18716
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2010/08/09/versioning-issues-with-optional-arguments.aspx/"
 ---
+
 One nice new feature introduced in C\# 4 is support for [named and
 optional
 arguments](http://msdn.microsoft.com/en-us/library/dd264739.aspx "Named and Optional Arguments (MSDN)").

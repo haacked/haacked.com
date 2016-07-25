@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Donut Hole Caching in ASP.NET MVC"
+title: Donut Hole Caching in ASP.NET MVC
 date: 2009-05-12 -0800
 comments: true
 disqus_identifier: 18617
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from: "/archive/2009/05/11/donut-hole-caching.aspx/"
 ---
+
 A while back, I wrote about [Donut Caching in ASP.NET
 MVC](http://haacked.com/archive/2008/11/05/donut-caching-in-asp.net-mvc.aspx "Donut Caching")
 for the scenario where you want to cache an entire view except for a

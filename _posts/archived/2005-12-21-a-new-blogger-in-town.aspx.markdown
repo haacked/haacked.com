@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A New Blogger In Town"
+title: A New Blogger In Town
 date: 2005-12-21 -0800
 comments: true
 disqus_identifier: 11360
 categories: []
+redirect_from: "/archive/2005/12/20/a-new-blogger-in-town.aspx/"
 ---
+
 My good friend Micah finally [started a blog](http://micahdylan.com/).
 He is the CEO of my company, [VelocIT](http://www.veloc-it.com/), which
 makes him a business partner as well as a friend.

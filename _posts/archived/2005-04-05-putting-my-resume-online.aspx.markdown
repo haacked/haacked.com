@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Putting My Resume Online"
+title: Putting My Resume Online
 date: 2005-04-05 -0800
 comments: true
 disqus_identifier: 2573
-categories: [personal,code]
+categories:
+- personal
+- code
+redirect_from: "/archive/2005/04/04/putting-my-resume-online.aspx/"
 ---
 
 _UPDATE: 2014/05/13 I lost it when I migrated it and honestly i don't feel

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Build Traffic With Father's Day Humor"
+title: Build Traffic With Father's Day Humor
 date: 2007-06-15 -0800
 comments: true
 disqus_identifier: 18352
 categories: []
+redirect_from: "/archive/2007/06/14/fathers-day-humor-impact-on-blog-traffic.aspx/"
 ---
+
 With Father’s Day fast approaching (June 17 this year), and now that I
 have joined the hallowed ranks of fathers, I thought I’d have a little
 fun writing about something I [posted on my blog two years

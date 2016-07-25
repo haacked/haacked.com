@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "String.IsNullOrEmpty"
+title: String.IsNullOrEmpty
 date: 2006-08-23 -0800
 comments: true
 disqus_identifier: 15920
 categories: []
+redirect_from: "/archive/2006/08/22/String.IsNullOrEmpty.aspx/"
 ---
+
 This post is an ode to one of my favorite, albeit extremely minor,
 additions to .NET 2.0.  This is the method that I am sure we have all
 written in some sort of StringHelper library of some sort, but are now

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "It's Official, Monday January 24 To Be The Wost Day Of The Year"
+title: It's Official, Monday January 24 To Be The Wost Day Of The Year
 date: 2005-01-20 -0800
 comments: true
 disqus_identifier: 1962
 categories: []
+redirect_from: "/archive/2005/01/19/its-official-monday-january-24-to-be-the-wost-day-of-the-year.aspx/"
 ---
+
 A Dr. at Cardiff University has created a [scientific formula to
 prove](http://news.bbc.co.uk/2/hi/uk_news/4187183.stm) that January 24th
 will be the worst day of the year.

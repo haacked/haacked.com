@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "TDD Is Also An Organizational Process"
+title: TDD Is Also An Organizational Process
 date: 2008-01-14 -0800
 comments: true
 disqus_identifier: 18448
 categories: []
+redirect_from: "/archive/2008/01/13/tdd-is-also-an-organizational-process.aspx/"
 ---
+
 After [joining
 Microsoft](http://haacked.com/archive/2007/09/17/why-is-microsoft-removing-my-mvp-status.aspx "Why Am I Losing My MVP status?")
 and [drinking from the

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Dreaming of Yakitori"
+title: Dreaming of Yakitori
 date: 2005-08-05 -0800
 comments: true
 disqus_identifier: 9226
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2005/08/04/dreamingofyakitori.aspx/"
 ---
+
 [![Yakitori
 Time](http://photos22.flickr.com/30882934_de3ca3fd61_m.jpg)](http://www.flickr.com/photos/haacked/30882934/ "Photo Sharing")
 

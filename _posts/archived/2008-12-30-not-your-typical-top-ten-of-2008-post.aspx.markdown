@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Not Your Typical Top Ten Of 2008 Post"
+title: Not Your Typical Top Ten Of 2008 Post
 date: 2008-12-30 -0800
 comments: true
 disqus_identifier: 18569
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2008/12/29/not-your-typical-top-ten-of-2008-post.aspx/"
 ---
+
 At the end of the year, it’s very common for bloggers to take a look
 back at their own blog and list their favorite 10 blog posts. I find
 that somewhat narcissistic, so you know I’m going to do that.

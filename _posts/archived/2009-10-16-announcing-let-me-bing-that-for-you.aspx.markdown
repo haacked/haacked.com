@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Announcing Let Me Bing That For You"
+title: Announcing Let Me Bing That For You
 date: 2009-10-16 -0800
 comments: true
 disqus_identifier: 18650
 categories: []
+redirect_from: "/archive/2009/10/15/announcing-let-me-bing-that-for-you.aspx/"
 ---
+
 Despite what your well intentioned elementary school teachers would have
 liked you to believe, **there *is* such a thing as a stupid question**,
 and you probably get them all the time via email or IM.

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Funniest Subtext Subversion Checkin So Far"
+title: Funniest Subtext Subversion Checkin So Far
 date: 2006-04-21 -0800
 comments: true
 disqus_identifier: 12505
-categories: [subtext]
+categories:
+- subtext
+redirect_from: "/archive/2006/04/20/FunniestSubtextSubversionCheckinSoFar.aspx/"
 ---
+
 I noticed the following checkin message in the subtext commits mailing
 list today (this is the mailing list in which we can receive Subversion
 checkin notifications).

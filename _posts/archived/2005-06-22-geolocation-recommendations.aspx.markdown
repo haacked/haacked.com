@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Geolocation Recommendations?"
+title: Geolocation Recommendations?
 date: 2005-06-22 -0800
 comments: true
 disqus_identifier: 7138
 categories: []
+redirect_from: "/archive/2005/06/21/geolocation-recommendations.aspx/"
 ---
+
 ![Geolocation](http://haacked.com/images/geolocation.jpg) Anybody out
 there use a geolocation service they are happy with?
 

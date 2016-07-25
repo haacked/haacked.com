@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Googlers are Burners"
+title: Googlers are Burners
 date: 2004-06-08 -0800
 comments: true
 disqus_identifier: 566
 categories: []
+redirect_from: "/archive/2004/06/07/googlers-are-burners.aspx/"
 ---
+
 ![Google Logo with Burning
 Man](http://www.google.com/logos/googleburn.jpg)
 

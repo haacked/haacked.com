@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Play The Most Influential Amiga Games Now"
+title: Play The Most Influential Amiga Games Now
 date: 2007-04-15 -0800
 comments: true
 disqus_identifier: 18282
 categories: []
+redirect_from: "/archive/2007/04/14/play-the-most-influential-amiga-games-now.aspx/"
 ---
+
 It wasn’t till 1987 that I experienced my first (and worst) case of
 [technolust](http://www.urbandictionary.com/define.php?term=technolust "Definition of Technolust")
 ever. The object that inspired such raw feelings of lust, of course, was

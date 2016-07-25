@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Man Accidentally Dates Mother Online"
+title: Man Accidentally Dates Mother Online
 date: 2005-12-13 -0800
 comments: true
 disqus_identifier: 11341
 categories: []
+redirect_from: "/archive/2005/12/12/man-accidentally-dates-mother-online.aspx/"
 ---
+
 Men who engage in online relationships in chatrooms and such are
 constantly suspicious that the person on the other end is not who they
 say they are. Often the vision of another middle-aged man looking for

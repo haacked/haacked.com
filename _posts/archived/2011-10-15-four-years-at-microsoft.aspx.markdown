@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Four Years At Microsoft"
+title: Four Years At Microsoft
 date: 2011-10-15 -0800
 comments: true
 disqus_identifier: 18818
-categories: [personal,code]
+categories:
+- personal
+- code
+redirect_from: "/archive/2011/10/14/four-years-at-microsoft.aspx/"
 ---
+
 Today, October 15 2011, marks four years of being a Microsoft employee
 for me. As such, it’s time for a little introspection, but in many ways,
 Tim Heuer already [introspected for

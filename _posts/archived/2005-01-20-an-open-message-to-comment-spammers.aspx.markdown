@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "An Open Message To Comment Spammers"
+title: An Open Message To Comment Spammers
 date: 2005-01-20 -0800
 comments: true
 disqus_identifier: 1939
 categories: []
+redirect_from: "/archive/2005/01/19/an-open-message-to-comment-spammers.aspx/"
 ---
+
 ![Monkey](/images/MonkeyJoel.jpg)Hello y'all. In case you haven't
 noticed, links in my comments now have a rel="nofollow" attribute
 attached. That means no more Google juice when you post a list of links

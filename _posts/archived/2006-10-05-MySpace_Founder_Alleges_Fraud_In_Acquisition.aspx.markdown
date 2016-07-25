@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "MySpace Founder Alleges Fraud In Acquisition"
+title: MySpace Founder Alleges Fraud In Acquisition
 date: 2006-10-05 -0800
 comments: true
 disqus_identifier: 17689
 categories: []
+redirect_from: "/archive/2006/10/04/MySpace_Founder_Alleges_Fraud_In_Acquisition.aspx/"
 ---
+
 A friend of mine sent me an [interesting
 report](http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20061005005653&newsLang=en "Report")
 that Brad Greenspan, the founder of eUniverse (now Intermix Media) that

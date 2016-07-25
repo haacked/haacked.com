@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Adding Client-Side Custom Properties To Controls"
+title: Adding Client-Side Custom Properties To Controls
 date: 2006-11-26 -0800
 comments: true
 disqus_identifier: 18147
-categories: [asp.net,code]
+categories:
+- asp.net
+- code
+redirect_from: "/archive/2006/11/25/Adding_ClientSide_Custom_Properties_To_Controls.aspx/"
 ---
+
 One of the benefits of [writing an
 ASP.NET book](http://haacked.com/archive/2006/11/19/Writing_A_Book.aspx "Writing A Book")
 is that it forces me to spend a lot of time spelunking deep in the

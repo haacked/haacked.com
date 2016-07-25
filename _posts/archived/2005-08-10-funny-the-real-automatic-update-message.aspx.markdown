@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "FUNNY: The REAL Automatic Update Message"
+title: 'FUNNY: The REAL Automatic Update Message'
 date: 2005-08-10 -0800
 comments: true
 disqus_identifier: 9296
 categories: []
+redirect_from: "/archive/2005/08/09/funny-the-real-automatic-update-message.aspx/"
 ---
+
 Oh yeah, this little curse is going around right now as Microsoft
 recently released some new security updates. I love Robb’s take on the
 real message underneath the Automatic Update dialog.

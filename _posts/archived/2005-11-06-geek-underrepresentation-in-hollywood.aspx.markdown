@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Geek Underrepresentation In Hollywood"
+title: Geek Underrepresentation In Hollywood
 date: 2005-11-06 -0800
 comments: true
 disqus_identifier: 11146
 categories: []
+redirect_from: "/archive/2005/11/05/geek-underrepresentation-in-hollywood.aspx/"
 ---
+
 [FogCreek](http://fogcreek.com/) commissioned [a
 documentary](http://www.joelonsoftware.com/items/2005/11/07.html) about
 their summer intern project named

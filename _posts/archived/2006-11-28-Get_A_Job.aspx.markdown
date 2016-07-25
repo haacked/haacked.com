@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Get A Job"
+title: Get A Job
 date: 2006-11-28 -0800
 comments: true
 disqus_identifier: 18151
 categories: []
+redirect_from: "/archive/2006/11/27/Get_A_Job.aspx/"
 ---
+
 No, this is not a bait and switch post where I try to recruit you to
 work on [Subtext](http://subtextproject.com/ "Subtext").  A while ago [I
 mentioned](http://haacked.com/archive/2006/10/04/Better_Recruiting_Through_Blogistry.aspx "Hidden Network")

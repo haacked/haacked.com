@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Changing Base Type Of A Razor View"
+title: Changing Base Type Of A Razor View
 date: 2011-02-21 -0800
 comments: true
 disqus_identifier: 18764
-categories: [asp.net,asp.net mvc,razor]
+categories:
+- asp.net
+- asp.net mvc
+- razor
+redirect_from: "/archive/2011/02/20/changing-base-type-of-a-razor-view.aspx/"
 ---
+
 Within a Razor view, you have access to a base set of properties (such
 as `Html`, `Url`, `Ajax`, etc.) each of which provides methods you can
 use within the view.

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Where the Provider Model Falls Short"
+title: Where the Provider Model Falls Short
 date: 2005-11-01 -0800
 comments: true
 disqus_identifier: 11066
 categories: []
+redirect_from: "/archive/2005/10/31/wheretheprovidermodelfallsshort.aspx/"
 ---
+
 Now that ASP.NET 2.0 is released, a lot of developers will start to
 really dig into the [provider model design pattern and
 specification](http://msdn.microsoft.com/asp.net/beta2/providers/default.aspx?pull=/library/en-us/dnaspnet/html/asp02182004.asp)

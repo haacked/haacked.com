@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "New RSS Bandit Formatter Stylesheet - C64"
+title: New RSS Bandit Formatter Stylesheet - C64
 date: 2004-04-23 -0800
 comments: true
 disqus_identifier: 354
 categories: []
+redirect_from: "/archive/2004/04/22/c64-formatter-for-rssbandit.aspx/"
 ---
+
 ![C64](http://haacked.com/images/C64.gif)I was fooling around with
 building a custom stylesheet for formatting RSS items within RSS Bandit
 and I created one that tries to emulate the Commodore 64 look and feel.

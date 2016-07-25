@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "I&rsquo;m Speaking At Mix 2009"
+title: I&rsquo;m Speaking At Mix 2009
 date: 2009-03-01 -0800
 comments: true
 disqus_identifier: 18592
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2009/02/28/speaking-at-mix09.aspx/"
 ---
+
 ![MIX09\_SpeakerBling\_VegasStrip\_136x186](http://haacked.com/images/haacked_com/WindowsLiveWriter/ad105f84305f_1361F/MIX09_SpeakerBling_VegasStrip_136x186_3.jpg "MIX09_SpeakerBling_VegasStrip_136x186")
 I finally have my registration worked out and I’m officially going to
 Mix09 this year! Woohoo! Not only am I going, but I’ll be speaking at

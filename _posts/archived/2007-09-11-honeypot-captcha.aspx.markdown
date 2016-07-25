@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Honeypot Captcha"
+title: Honeypot Captcha
 date: 2007-09-11 -0800
 comments: true
 disqus_identifier: 18389
-categories: [code,tech,blogging]
+categories:
+- code
+- tech
+- blogging
+redirect_from: "/archive/2007/09/10/honeypot-captcha.aspx/"
 ---
+
 I was thinking about alternative ways to block comment spam the other
 day and it occurred to me that there’s potentially a simpler solution
 than the [Invisible

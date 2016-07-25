@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Seriously Cool Jobs Available"
+title: Seriously Cool Jobs Available
 date: 2006-11-03 -0800
 comments: true
 disqus_identifier: 18128
-categories: [code,open source]
+categories:
+- code
+- open source
+redirect_from: "/archive/2006/11/02/Seriously_Cool_Jobs_Available.aspx/"
 ---
+
 I have a few great openings available that I have to share with you. 
 These are really great positions working with really interesting and
 smart people all over the world. 

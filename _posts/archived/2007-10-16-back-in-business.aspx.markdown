@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Back In Business"
+title: Back In Business
 date: 2007-10-16 -0800
 comments: true
 disqus_identifier: 18408
 categories: []
+redirect_from: "/archive/2007/10/15/back-in-business.aspx/"
 ---
+
 Many of you noticed that my blog was down. Thanks for the heads up. For
 some reason, it was pegging the CPU at 100% all of a sudden. Not sure
 why this was happening since nobody made any changes to the server. At

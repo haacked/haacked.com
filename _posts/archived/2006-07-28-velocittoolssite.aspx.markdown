@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "VelocIT Tools Site"
+title: VelocIT Tools Site
 date: 2006-07-28 -0800
 comments: true
 disqus_identifier: 14399
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2006/07/27/velocittoolssite.aspx/"
 ---
+
 UPDATE: Sorry, but this site appears to be down now. I'll try to find
 the tools and upload them elsewhere.
 

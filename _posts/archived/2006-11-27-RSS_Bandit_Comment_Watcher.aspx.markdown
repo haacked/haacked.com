@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "RSS Bandit Comment Watcher"
+title: RSS Bandit Comment Watcher
 date: 2006-11-27 -0800
 comments: true
 disqus_identifier: 18150
 categories: []
+redirect_from: "/archive/2006/11/26/RSS_Bandit_Comment_Watcher.aspx/"
 ---
+
 Participating in the comments section of particularly interesting blog
 posts is a lot of fun and helps build community.  But one of the
 annoyances in doing so is that there’s really no good way to keep track

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Introducing Subkismet-The Cure For Comment Spam"
+title: Introducing Subkismet-The Cure For Comment Spam
 date: 2007-06-12 -0800
 comments: true
 disqus_identifier: 18347
 categories: []
+redirect_from: "/archive/2007/06/11/introducing-subkismet-the-cure-for-comment-spam.aspx/"
 ---
+
 *Update: I’ve created a new [NuGet
 Package](http://haacked.com/archive/2010/10/06/introducing-nupack-package-manager.aspx "NuGet Package")
 for Subkismet (Package Id is “subkismet”) which will make it much easier

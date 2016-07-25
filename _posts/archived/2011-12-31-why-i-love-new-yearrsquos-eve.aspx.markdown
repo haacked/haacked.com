@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Why I Love New Year&rsquo;s Eve"
+title: Why I Love New Year&rsquo;s Eve
 date: 2011-12-31 -0800
 comments: true
 disqus_identifier: 18836
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2011/12/30/why-i-love-new-yearrsquos-eve.aspx/"
 ---
+
 Happy New Year’s Eve everyone! And by the time you read this, it’ll
 probably already be the new year. To my friends across the international
 date line, what is 2012 like? The rest of us will be there soon.

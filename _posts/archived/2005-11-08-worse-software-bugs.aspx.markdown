@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Worst Software Bugs in History"
+title: Worst Software Bugs in History
 date: 2005-11-08 -0800
 comments: true
 disqus_identifier: 11152
-categories: [personal,code]
+categories:
+- personal
+- code
+redirect_from: "/archive/2005/11/07/worse-software-bugs.aspx/"
 ---
+
 Wired News has a very interesting article on [History’s worst software
 flaws](http://wired.com/news/technology/bugs/0,2924,69355-2,00.html?tw=wn_story_page_next1).
 

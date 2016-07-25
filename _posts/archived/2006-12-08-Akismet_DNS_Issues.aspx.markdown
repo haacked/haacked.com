@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Akismet DNS Issues"
+title: Akismet DNS Issues
 date: 2006-12-08 -0800
 comments: true
 disqus_identifier: 18161
 categories: []
+redirect_from: "/archive/2006/12/07/Akismet_DNS_Issues.aspx/"
 ---
+
 UPDATE: Looks like the DNS issue is starting to get resolved. The fix
 may not have fully propagated yet.
 

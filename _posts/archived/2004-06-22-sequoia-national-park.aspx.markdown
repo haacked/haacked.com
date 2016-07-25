@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Sequoia National Park"
+title: Sequoia National Park
 date: 2004-06-22 -0800
 comments: true
 disqus_identifier: 666
 categories: []
+redirect_from: "/archive/2004/06/21/sequoia-national-park.aspx/"
 ---
+
 We went camping in [Sequoia National Park](http://www.nps.gov/seki/) a
 couple of weekends ago, a weekend which happened to coincide with our
 first anniversary! Somehow I convinced my lovely wife that a weekend of

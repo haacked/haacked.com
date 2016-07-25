@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tip For Managing Remote VMWare Server"
+title: Tip For Managing Remote VMWare Server
 date: 2006-10-11 -0800
 comments: true
 disqus_identifier: 18014
 categories: []
+redirect_from: "/archive/2006/10/10/tip_for_managing_remote_vmware_server.aspx/"
 ---
+
 Quick tip for you if you need to remotely connect to a server with
 VMWare Server installed in order to manage the virtual server. 
 

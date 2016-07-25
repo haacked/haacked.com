@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Talk About Awkward Moments"
+title: Talk About Awkward Moments
 date: 2004-02-23 -0800
 comments: true
 disqus_identifier: 206
 categories: []
+redirect_from: "/archive/2004/02/22/talkaboutawkwardmoments.aspx/"
 ---
+
 This is probably the funniest thing I’ve ever heard happening on a
 train:
 

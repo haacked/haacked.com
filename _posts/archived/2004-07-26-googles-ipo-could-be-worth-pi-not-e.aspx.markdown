@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Google's IPO Could Be Worth PI, not E"
+title: Google's IPO Could Be Worth PI, not E
 date: 2004-07-26 -0800
 comments: true
 disqus_identifier: 859
 categories: []
+redirect_from: "/archive/2004/07/25/googles-ipo-could-be-worth-pi-not-e.aspx/"
 ---
+
 Google originally wanted to raise \$2,718,281,828, but based on this
 article, I predict they'll be closer to \$3,141,592,653. In any case,
 that's a big piece of pi. (sorry. really. don't shoot me.)

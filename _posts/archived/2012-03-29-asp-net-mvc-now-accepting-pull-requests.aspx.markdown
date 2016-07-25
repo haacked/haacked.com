@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "ASP.NET MVC Now Accepting Pull Requests"
+title: ASP.NET MVC Now Accepting Pull Requests
 date: 2012-03-29 -0800
 comments: true
 disqus_identifier: 18854
-categories: [code,open source,asp.net,asp.net mvc]
+categories:
+- code
+- open source
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2012/03/28/asp-net-mvc-now-accepting-pull-requests.aspx/"
 ---
+
 Changing a big organizations is a slow endeavor. But when people are
 passionate and persistent, change does happen.
 

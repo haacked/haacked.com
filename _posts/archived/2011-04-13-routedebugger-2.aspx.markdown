@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "RouteDebugger 2.0"
+title: RouteDebugger 2.0
 date: 2011-04-13 -0800
 comments: true
 disqus_identifier: 18774
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2011/04/12/routedebugger-2.aspx/"
 ---
+
 I’m at Mix11 all week and this past Monday, I attended the [Open Source
 Fest](http://johnpapa.net/silverlight/opensourcefestannounce/ "Open Source Fest")
 where multiple tables were set up for open source project owners to show

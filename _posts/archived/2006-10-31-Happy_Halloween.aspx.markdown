@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Happy Halloween"
+title: Happy Halloween
 date: 2006-10-31 -0800
 comments: true
 disqus_identifier: 18121
 categories: []
+redirect_from: "/archive/2006/10/30/Happy_Halloween.aspx/"
 ---
+
 I love Halloween because it makes for great parties. What makes a party
 great? Costumes! This past weekend I drove up from Los Angeles to San
 Jose to stay with my friend Kyle and his wife Cara. That evening we

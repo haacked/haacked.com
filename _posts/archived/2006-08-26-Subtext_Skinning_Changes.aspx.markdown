@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Subtext Skinning Changes"
+title: Subtext Skinning Changes
 date: 2006-08-26 -0800
 comments: true
 disqus_identifier: 16090
 categories: []
+redirect_from: "/archive/2006/08/25/Subtext_Skinning_Changes.aspx/"
 ---
+
 With the Subtext 1.9 release just around the corner, this is probably a
 good time to highlight some minor, but important, changes to skinning in
 Subtext.

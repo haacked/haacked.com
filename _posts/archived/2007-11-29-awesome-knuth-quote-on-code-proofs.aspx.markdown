@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Awesome Knuth Quote On Code Proofs"
+title: Awesome Knuth Quote On Code Proofs
 date: 2007-11-29 -0800
 comments: true
 disqus_identifier: 18426
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2007/11/28/awesome-knuth-quote-on-code-proofs.aspx/"
 ---
+
 My friend (and former boss and
 [business](http://veloc-it.com/ "VelocIT - Where I used to work")
 partner) [Micah](http://micahdylan.com/ "Micah Dylan") found this gem of

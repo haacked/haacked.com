@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Building Plugins Resilient To Versioning"
+title: Building Plugins Resilient To Versioning
 date: 2006-06-26 -0800
 comments: true
 disqus_identifier: 13522
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2006/06/25/BuildingPluginsResilientToVersioning.aspx/"
 ---
+
 UPDATE: Added a followup [part
 2](http://haacked.com/archive/2006/07/01/ResilientPluginsPartDeuxGranularControl.aspx "Part 2 - Granular control")
 to this post on the topic of granular control.

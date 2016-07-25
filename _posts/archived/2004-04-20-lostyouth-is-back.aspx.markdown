@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "LostYouth is back..."
+title: LostYouth is back...
 date: 2004-04-20 -0800
 comments: true
 disqus_identifier: 341
 categories: []
+redirect_from: "/archive/2004/04/19/lostyouth-is-back.aspx/"
 ---
+
 Back in the day, amidst all the stupidity prevalent on the web, there
 was one site that dared to raise the banner and take the stupidity one
 step higher. That site was, my friends, lostyouth.com.

@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "The Future of WebForms And ASP.NET MVC"
+title: The Future of WebForms And ASP.NET MVC
 date: 2008-11-13 -0800
 comments: true
 disqus_identifier: 18553
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2008/11/12/future-of-aspnet.aspx/"
 ---
+
 I’ve heard a lot of concerns from people worried that the ASP.NET team
 will stop sparing resources and support for Web Forms in favor of
 ASP.NET MVC in the future. I thought I would try to address that concern

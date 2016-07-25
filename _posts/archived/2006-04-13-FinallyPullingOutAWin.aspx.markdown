@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Finally Pulling Out A Win"
+title: Finally Pulling Out A Win
 date: 2006-04-13 -0800
 comments: true
 disqus_identifier: 12416
 categories: []
+redirect_from: "/archive/2006/04/12/FinallyPullingOutAWin.aspx/"
 ---
+
 So after a few humiliating losses (in both soccer leagues I play in), we
 finally have a convincing win last night (5 to 2) in the Olympic league
 (the more competitive one). I even had a goal off of a dangerous cross

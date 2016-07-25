@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Can You Really Measure Customer Satisfaction?"
+title: Can You Really Measure Customer Satisfaction?
 date: 2010-02-04 -0800
 comments: true
 disqus_identifier: 18682
-categories: [personal,code]
+categories:
+- personal
+- code
+redirect_from: "/archive/2010/02/03/measuring-customer-satisfaction.aspx/"
 ---
+
 One question that came up recently during my mid-year review is how am I
 measuring customer satisfaction with the products that I work on? For
 example, how can I measurably demonstrate that customers are happy with

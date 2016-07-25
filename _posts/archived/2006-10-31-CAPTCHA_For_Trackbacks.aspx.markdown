@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "CAPTCHA For Trackbacks"
+title: CAPTCHA For Trackbacks
 date: 2006-10-31 -0800
 comments: true
 disqus_identifier: 18124
 categories: []
+redirect_from: "/archive/2006/10/30/CAPTCHA_For_Trackbacks.aspx/"
 ---
+
 [Jeff Atwood](http://codinghorror.com/ "CodingHorror") points [out
 several
 problems](http://www.codinghorror.com/blog/archives/000715.html#comments "Whitelist, blacklist, greylist")

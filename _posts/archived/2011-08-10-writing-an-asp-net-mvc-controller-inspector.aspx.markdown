@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Writing an ASP.NET MVC Controller Inspector"
+title: Writing an ASP.NET MVC Controller Inspector
 date: 2011-08-10 -0800
 comments: true
 disqus_identifier: 18806
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2011/08/09/writing-an-asp-net-mvc-controller-inspector.aspx/"
 ---
+
 99.99999% of the time (yes, I measured it), a controller in ASP.NET MVC
 is a type, and an action is a method — with reflection as the glue that
 holds it all together. For most folks, that’s the best way to view how

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Be A Real Political Geek, Buy The &lt;/bush&gt; T-Shirt"
+title: Be A Real Political Geek, Buy The &lt;/bush&gt; T-Shirt
 date: 2004-08-30 -0800
 comments: true
 disqus_identifier: 1031
 categories: []
+redirect_from: "/archive/2004/08/29/be-a-real-political-geek-buy-the-ltbush-gt-t-shirt.aspx/"
 ---
+
 In the comments section of the post about [the geekiest protest
 sign](http://haacked.com/archive/2004/08/30/987.aspx),
 [Clara](http://www.mismatched.net.nz/clara/index.html) points out that

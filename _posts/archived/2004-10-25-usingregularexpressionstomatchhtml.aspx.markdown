@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Using a Regular Expression to Match HTML"
+title: Using a Regular Expression to Match HTML
 date: 2004-10-25 -0800
 comments: true
 disqus_identifier: 1471
-categories: [code, regex]
+categories:
+- code
+- regex
+redirect_from: "/archive/2004/10/24/usingregularexpressionstomatchhtml.aspx/"
 ---
 
 I just love regular expressions. I mean look at the sample below.

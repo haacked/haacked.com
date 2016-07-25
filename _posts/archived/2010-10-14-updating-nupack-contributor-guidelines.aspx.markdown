@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Updating NuGet Contributor Guidelines"
+title: Updating NuGet Contributor Guidelines
 date: 2010-10-14 -0800
 comments: true
 disqus_identifier: 18726
-categories: [nuget,code,open source]
+categories:
+- nuget
+- code
+- open source
+redirect_from: "/archive/2010/10/13/updating-nupack-contributor-guidelines.aspx/"
 ---
+
 A couple days ago I wrote a blog post entitled, [Running Open Source In
 A Distributed
 World](http://haacked.com/archive/2010/10/12/running-open-source-in-a-distributed-world.aspx "Running OSS in a Distributed World")

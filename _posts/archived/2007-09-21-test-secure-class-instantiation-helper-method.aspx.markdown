@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Test Secure Class Instantiation Helper Method"
+title: Test Secure Class Instantiation Helper Method
 date: 2007-09-21 -0800
 comments: true
 disqus_identifier: 18399
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2007/09/20/test-secure-class-instantiation-helper-method.aspx/"
 ---
+
 This is a quick follow-up [to my last
 post](http://haacked.com/archive/2007/09/21/unit-testing-security-example.aspx "Unit Testing Security Example").
 That seemed like such a common test situation I figured I’d write a

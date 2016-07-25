@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Fitbit Me"
+title: Fitbit Me
 date: 2013-01-23 -0800
 comments: true
 disqus_identifier: 18882
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2013/01/22/fitbit-me.aspx/"
 ---
+
 Back in March of last year, Stephen Wolfram wrote a blog post, [The
 Personal Analytics of My
 Life](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/ "The Personal Analytics of My Life").

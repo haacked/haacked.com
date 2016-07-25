@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "SQL TIP: Connection To SQL via Windows Authentication over VPN"
+title: 'SQL TIP: Connection To SQL via Windows Authentication over VPN'
 date: 2004-11-29 -0800
 comments: true
 disqus_identifier: 1683
-categories: [sql]
+categories:
+- sql
+redirect_from: "/archive/2004/11/28/sql-tip-connection-to-sql-via-windows-authentication-over-vpn.aspx/"
 ---
+
 I’m posting this great
 [tip](http://sqljunkies.com/WebLog/roman/archive/2004/11/28/5296.aspx "Connection to SQL")
 so I can find it later and for your benefit.

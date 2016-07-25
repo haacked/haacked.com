@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "If You&rsquo;re Graduating Soon, Consider Working For The ASP.NET Team"
+title: If You&rsquo;re Graduating Soon, Consider Working For The ASP.NET Team
 date: 2010-01-13 -0800
 comments: true
 disqus_identifier: 18678
-categories: [asp.net]
+categories:
+- asp.net
+redirect_from: "/archive/2010/01/12/hiring-college-grads-in-2010.aspx/"
 ---
+
 This is the second job posting in two days for positions on the ASP.NET
 team, how exciting! This one is a developer position for upcoming
 graduates.

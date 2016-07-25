@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "What Integrated Circuits Say About Testing Your Code"
+title: What Integrated Circuits Say About Testing Your Code
 date: 2008-08-04 -0800
 comments: true
 disqus_identifier: 18513
-categories: [tdd,code]
+categories:
+- tdd
+- code
+redirect_from: "/archive/2008/08/03/what-integrated-circuits-say-about-testing-your-code.aspx/"
 ---
+
 A while back I talked about how [testable code helps manage
 complexity](http://haacked.com/archive/2007/11/14/writing-testable-code-is-about-managing-complexity.aspx "Testable code manages complexity").
 In that post, I mentioned one common rebuttal to certain design

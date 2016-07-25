@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Getting The Route Name For A Route"
+title: Getting The Route Name For A Route
 date: 2010-11-28 -0800
 comments: true
 disqus_identifier: 18742
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2010/11/27/getting-the-route-name-for-a-route.aspx/"
 ---
+
 A question I often receive via my blog and email goes like this:
 
 > Hi, I just got an email from a Nigerian prince asking me to hold some

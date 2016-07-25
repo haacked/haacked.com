@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "How To Build IBlogExtension Plug-ins for RSS Bandit"
+title: How To Build IBlogExtension Plug-ins for RSS Bandit
 date: 2004-06-18 -0800
 comments: true
 disqus_identifier: 651
 categories: []
+redirect_from: "/archive/2004/06/17/how-to-build-iblogextension-plug-ins-for-rss-bandit.aspx/"
 ---
+
 ![RSS Bandit Logo](/images/RssBanditLogo.jpg) Plug-ins are a powerful
 way for users to dynamically enhance the functionality of an installed
 application. Is there a high priority feature you want that is low

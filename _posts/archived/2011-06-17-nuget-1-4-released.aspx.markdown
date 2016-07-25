@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "NuGet 1.4 Released"
+title: NuGet 1.4 Released
 date: 2011-06-17 -0800
 comments: true
 disqus_identifier: 18797
-categories: [open source,nuget]
+categories:
+- open source
+- nuget
+redirect_from: "/archive/2011/06/16/nuget-1-4-released.aspx/"
 ---
+
 The moon goes around the earth and when it comes up on the other side,
 Hark! There’s a new release of NuGet! Well, this time it was more like
 one and a half revolutions, but I’m happy nonetheless to announce the

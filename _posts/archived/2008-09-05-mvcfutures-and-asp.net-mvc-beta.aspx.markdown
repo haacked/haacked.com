@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "MvcFutures And ASP.NET MVC Beta"
+title: MvcFutures And ASP.NET MVC Beta
 date: 2008-09-05 -0800
 comments: true
 disqus_identifier: 18529
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2008/09/04/mvcfutures-and-asp.net-mvc-beta.aspx/"
 ---
+
 UPDATE: The MVC Futures assembly, `Microsoft.Web.Mvc` is [available on
 CodePlex](http://www.codeplex.com/aspnet/Release/ProjectReleases.aspx?ReleaseId=18459 "MVC Futures on CodePlex").
 

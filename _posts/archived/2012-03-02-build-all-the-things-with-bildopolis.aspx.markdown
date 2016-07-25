@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Build All The Things With Bildopolis"
+title: Build All The Things With Bildopolis
 date: 2012-03-02 -0800
 comments: true
 disqus_identifier: 18850
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2012/03/01/build-all-the-things-with-bildopolis.aspx/"
 ---
+
 Recently I’ve been tweeting photos of my kids playing with a new toy my
 wife bought them that ~~I’m~~they are totally enthralled with. It’s
 called the [Bildopolis](http://bildopolis.com/ "Bildopolis") Big Bilder

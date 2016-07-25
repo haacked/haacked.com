@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "VIDEO: Aswesome Rock Balancing Video"
+title: 'VIDEO: Aswesome Rock Balancing Video'
 date: 2005-08-09 -0800
 comments: true
 disqus_identifier: 9282
 categories: []
+redirect_from: "/archive/2005/08/08/video-aswesome-rock-balancing-video.aspx/"
 ---
+
 ![Picture 1-15](http://www.boingboing.net/Picture%201-15.jpg) This is
 the must see video of the month. I would love to see this video in
 reverse.

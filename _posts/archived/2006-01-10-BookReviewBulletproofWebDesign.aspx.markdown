@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Book Review: Bulletproof Web Design"
+title: 'Book Review: Bulletproof Web Design'
 date: 2006-01-10 -0800
 comments: true
 disqus_identifier: 11459
 categories: []
+redirect_from: "/archive/2006/01/09/BookReviewBulletproofWebDesign.aspx/"
 ---
+
 [![](/images/Amazon/0321346939.01._AA_SCMZZZZZZZ_.jpg)](http://www.amazon.com/exec/obidos/redirect?link_code=as2&path=ASIN/0321346939&tag=youvebeenhaac-20&camp=1789&creative=9325)
 As I mentioned in my last post, my redesign was inspired by some of the
 lessons in this book, “[Bulletproof Web

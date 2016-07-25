@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Haacked.com Makes Breakin' History"
+title: Haacked.com Makes Breakin' History
 date: 2005-11-11 -0800
 comments: true
 disqus_identifier: 11185
 categories: []
+redirect_from: "/archive/2005/11/10/haackedcom-makes-breakin-history.aspx/"
 ---
+
 I would like to take this moment to point out that as far as I know (and
 the judges are still confirming this), I may have made history with [my
 last blog post](http://haacked.com/archive/2005/11/12/11184.aspx) as the

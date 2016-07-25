@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Design Patterns Isn&#8217;t a Golden Hammer"
+title: Design Patterns Isn&#8217;t a Golden Hammer
 date: 2005-05-30 -0800
 comments: true
 disqus_identifier: 3935
 categories: []
+redirect_from: "/archive/2005/05/29/design-patterns-isn-8217t-a-golden-hammer.aspx/"
 ---
+
 One trap that developers need to be wary of is the mentality of the
 [Hammer Truism](http://c2.com/cgi/wiki?HammerTruism). This states that
 

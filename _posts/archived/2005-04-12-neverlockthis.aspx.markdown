@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Threading Tips: Never Lock a Value Type. Never Lock &quot;This&quot;."
+title: 'Threading Tips: Never Lock a Value Type. Never Lock &quot;This&quot;.'
 date: 2005-04-12 -0800
 comments: true
 disqus_identifier: 2634
 categories: []
+redirect_from: "/archive/2005/04/11/neverlockthis.aspx/"
 ---
+
 UPDATE: As a commenter pointed out, the original code example did not
 properly demonstrate the problem with locking on the `this` keyword
 within a normal method. I have corrected this example and [wrote a

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "GetRecentPost Ignores Categories In Windows Live Writer"
+title: GetRecentPost Ignores Categories In Windows Live Writer
 date: 2007-03-23 -0800
 comments: true
 disqus_identifier: 18261
 categories: []
+redirect_from: "/archive/2007/03/22/getrecentpost-ignores-categories-in-windows-live-writer.aspx/"
 ---
+
 It appears to me that [Windows Live
 Writer](http://windowslivewriter.spaces.live.com/ "Windows Live Writer Space")
 completely ignores categories returned by the `getRecentPosts`

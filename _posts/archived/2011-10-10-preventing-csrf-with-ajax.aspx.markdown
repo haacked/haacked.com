@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Preventing CSRF With Ajax"
+title: Preventing CSRF With Ajax
 date: 2011-10-10 -0800
 comments: true
 disqus_identifier: 18817
-categories: [asp.net mvc,asp.net,code]
+categories:
+- asp.net mvc
+- asp.net
+- code
+redirect_from: "/archive/2011/10/09/preventing-csrf-with-ajax.aspx/"
 ---
+
 A long while ago I wrote about the potential [dangers of Cross-site
 Request
 Forgery](http://haacked.com/archive/2009/04/02/anatomy-of-csrf-attack.aspx "Anatomy of a CSRF attack")

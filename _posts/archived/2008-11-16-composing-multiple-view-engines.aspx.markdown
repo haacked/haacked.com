@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Rendering A Single View Using Multiple ViewEngines"
+title: Rendering A Single View Using Multiple ViewEngines
 date: 2008-11-16 -0800
 comments: true
 disqus_identifier: 18555
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2008/11/15/composing-multiple-view-engines.aspx/"
 ---
+
 One of the relatively obscure features of ASP.NET view rendering is that
 you can render a single view using multiple view engines.
 

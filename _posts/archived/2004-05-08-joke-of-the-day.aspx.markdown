@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Joke of the day"
+title: Joke of the day
 date: 2004-05-08 -0800
 comments: true
 disqus_identifier: 420
 categories: []
+redirect_from: "/archive/2004/05/07/joke-of-the-day.aspx/"
 ---
+
 One day at kindergarten a teacher said to the class of 5-year- olds,
 I'll give $2 to the child who can tell me who was the most famous man
 who ever lived."

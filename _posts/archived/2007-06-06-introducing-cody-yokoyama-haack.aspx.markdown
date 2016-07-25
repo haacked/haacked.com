@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Introducing Cody Yokoyama Haack"
+title: Introducing Cody Yokoyama Haack
 date: 2007-06-06 -0800
 comments: true
 disqus_identifier: 18344
 categories: []
+redirect_from: "/archive/2007/06/05/introducing-cody-yokoyama-haack.aspx/"
 ---
+
 A while back I mentioned the beginning of phase 1 of my [total world
 domination
 plans](http://haacked.com/archive/2006/11/05/World_Domination_Phase_1_Commenced.aspx "World Domination Phase 1").

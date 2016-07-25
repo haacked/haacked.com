@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Self-Contradictory Word Of The Day"
+title: Self-Contradictory Word Of The Day
 date: 2004-06-14 -0800
 comments: true
 disqus_identifier: 621
 categories: []
+redirect_from: "/archive/2004/06/13/self-contradictory-word-of-the-day.aspx/"
 ---
+
 Quick! What is the definition of the word **moot**? I'll use it in a
 sentence.
 

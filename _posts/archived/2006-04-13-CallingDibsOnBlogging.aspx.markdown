@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Calling Dibs On Blogging"
+title: Calling Dibs On Blogging
 date: 2006-04-13 -0800
 comments: true
 disqus_identifier: 12406
 categories: []
+redirect_from: "/archive/2006/04/12/CallingDibsOnBlogging.aspx/"
 ---
+
 ![Dibs](http://haacked.com/images/dibs.jpg)I love working with other
 developers who are really excited about technology and the work we are
 doing. As is characteristic of such an organization, there is a constant

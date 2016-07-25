@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "IronRuby and ASP.NET BFFs Forever"
+title: IronRuby and ASP.NET BFFs Forever
 date: 2008-06-12 -0800
 comments: true
 disqus_identifier: 18491
-categories: [asp.net mvc,code]
+categories:
+- asp.net mvc
+- code
+redirect_from: "/archive/2008/06/11/ironruby-and-asp.net-bffs-forever.aspx/"
 ---
+
 UPDATE: I just posted the [working demo
 here](http://haacked.com/archive/2008/07/20/ironruby-aspnetmvc-prototype.aspx "IronRuby ASP.NET MVC Prototype").
 

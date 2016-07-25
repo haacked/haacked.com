@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Improve Your Blog's Reach With These 20 Essential Web Utilities"
+title: Improve Your Blog's Reach With These 20 Essential Web Utilities
 date: 2007-03-13 -0800
 comments: true
 disqus_identifier: 18239
 categories: []
+redirect_from: "/archive/2007/03/12/improve-your-blogs-reach-with-these-20-essential-web-utilities.aspx/"
 ---
+
 You’ve spent hours setting up your blog on your favorite blog platform
 just right. Good for you! **So how do you maintain your blog so that it
 remains at the top of its game?**

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "What Every Developer Should Know About Source Control"
+title: What Every Developer Should Know About Source Control
 date: 2006-02-17 -0800
 comments: true
 disqus_identifier: 11821
 categories: []
+redirect_from: "/archive/2006/02/16/WhatEveryDeveloperShouldKnowAboutSourceControl.aspx/"
 ---
+
 If you are like me, you “learned” source control in a very informal
 manner. Perhaps you learned via what we used to call the “Commodore
 Shuffle” back in the day (what is the modern term for this?) in which

@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "ASP.NET MVC 2 Optional URL Parameters"
+title: ASP.NET MVC 2 Optional URL Parameters
 date: 2010-02-12 -0800
 comments: true
 disqus_identifier: 18686
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2010/02/11/asp-net-mvc-2-optional-url-parameters.aspx/"
 ---
+
 If you have a model object with a property named `Id`, you may have run
 into an issue where your model state is invalid when binding to that
 model even though you don’t have an “Id” field in your form.

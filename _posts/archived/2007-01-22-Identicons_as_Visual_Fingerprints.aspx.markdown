@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Identicons as Graphical Digital Fingerprints"
+title: Identicons as Graphical Digital Fingerprints
 date: 2007-01-22 -0800
 comments: true
 disqus_identifier: 18196
-categories: [tech,code]
+categories:
+- tech
+- code
+redirect_from:
+- "/archive/2007/01/20/Identicons_as_Visual_Fingerprints.aspx/"
+- "/archive/2007/01/21/Identicons_as_Visual_Fingerprints.aspx/"
 ---
+
 **[![Fingerprint via public domain
 clipart](http://haacked.com/images/haacked_com/WindowsLiveWriter/IdenticonsasVisualFingerprints_CB0/fingerprint_thumb1.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/IdenticonsasVisualFingerprints_CB0/fingerprint3.png)
 How do you uniquely identify a person, without divulging the identity of

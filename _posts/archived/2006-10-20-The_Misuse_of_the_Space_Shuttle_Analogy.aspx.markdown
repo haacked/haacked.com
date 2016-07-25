@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "The Misuse of the Space Shuttle Analogy"
+title: The Misuse of the Space Shuttle Analogy
 date: 2006-10-20 -0800
 comments: true
 disqus_identifier: 18097
-categories: [code,tech]
+categories:
+- code
+- tech
+redirect_from: "/archive/2006/10/19/The_Misuse_of_the_Space_Shuttle_Analogy.aspx/"
 ---
+
 [![Space Shuttle
 Landing](http://haacked.com/images/haacked_com/WindowsLiveWriter/TheMisuseoftheSpaceShuttleAnalogy_C0E0/spaceshuttlelanding1_thumb2.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/TheMisuseoftheSpaceShuttleAnalogy_C0E0/spaceshuttlelanding14.jpg)
 [Jeff

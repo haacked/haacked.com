@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Estimates And Actuals Are Not Bounded Evenly On Both Sides"
+title: Estimates And Actuals Are Not Bounded Evenly On Both Sides
 date: 2007-03-30 -0800
 comments: true
 disqus_identifier: 18266
 categories: []
+redirect_from: "/archive/2007/03/29/fogbugz-6-recognizes-estimates-and-actuals-are-not-bounded-evenly.aspx/"
 ---
+
 [![Code Complete](http://ec1.images-amazon.com/images/P/0735605351.01._AA_SCMZZZZZZZ_.jpg)](http://www.amazon.com/gp/product/0735605351?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0735605351)A
 while ago I read Steve McConnel’s latest book, [Software Estimation:
 Demystifying the Black Art](http://www.amazon.com/gp/product/0735605351?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0735605351 "Software Estimation Book"),

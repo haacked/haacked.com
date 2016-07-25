@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "New Years Eve Plans"
+title: New Years Eve Plans
 date: 2005-12-01 -0800
 comments: true
 disqus_identifier: 11284
 categories: []
+redirect_from: "/archive/2005/11/30/new-years-eve-plans.aspx/"
 ---
+
 In case you were wondering, [this is where](http://giantvillage.com/) my
 wife and I will be spending our New Years Eve this year. Some of the
 highlights of the expansive line-up include John Digweed, Christopher

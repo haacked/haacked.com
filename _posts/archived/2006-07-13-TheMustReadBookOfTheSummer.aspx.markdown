@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Must Read Book Of The Summer"
+title: The Must Read Book Of The Summer
 date: 2006-07-13 -0800
 comments: true
 disqus_identifier: 13925
 categories: []
+redirect_from: "/archive/2006/07/12/TheMustReadBookOfTheSummer.aspx/"
 ---
+
 [Jim Holmes](http://frazzleddad.blogspot.com/ "Jim Holmes") and [James
 Avery](http://dotavery.com/blog/ "James Avery") announced that their new
 book *[Windows Developer Power

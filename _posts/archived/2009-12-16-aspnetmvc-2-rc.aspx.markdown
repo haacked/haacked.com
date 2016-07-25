@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "ASP.NET MVC 2 RC Released"
+title: ASP.NET MVC 2 RC Released
 date: 2009-12-16 -0800
 comments: true
 disqus_identifier: 18668
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2009/12/15/aspnetmvc-2-rc.aspx/"
 ---
+
 Paternity leave is not all fun and games. Mostly it’s soothing an irate
 baby and toddler while dealing with explosive poo episodes. Believe me
 when I say the term “blow out” is apt. That’s probably not the imagery

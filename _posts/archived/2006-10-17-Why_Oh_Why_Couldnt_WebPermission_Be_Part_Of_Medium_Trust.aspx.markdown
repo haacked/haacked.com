@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Why Oh Why Couldn't WebPermission Be Part Of Medium Trust?"
+title: Why Oh Why Couldn't WebPermission Be Part Of Medium Trust?
 date: 2006-10-17 -0800
 comments: true
 disqus_identifier: 18092
 categories: []
+redirect_from: "/archive/2006/10/16/Why_Oh_Why_Couldnt_WebPermission_Be_Part_Of_Medium_Trust.aspx/"
 ---
+
 ![Source:
 http://macibolt.hu/pag/goldilock.html](http://haacked.com/images/haacked_com/WindowsLiveWriter/WhyOhWhyCouldntWebPermissionBePartOfMedi_11C05/threebears%5B3%5D.gif)This
 is a bit of rant born out of some frustrations I have with ASP.NET. When

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Reverse Comment Moderation. Or Better Yet..."
+title: Reverse Comment Moderation. Or Better Yet...
 date: 2005-01-20 -0800
 comments: true
 disqus_identifier: 1966
 categories: []
+redirect_from: "/archive/2005/01/19/reverse-comment-moderation.aspx/"
 ---
+
 One [complaint](http://haacked.com/archive/2005/01/20/1944.aspx#1964)
 about rel="nofollow" is that you just might want to reward people who
 post related and constructive links in the comments section of your

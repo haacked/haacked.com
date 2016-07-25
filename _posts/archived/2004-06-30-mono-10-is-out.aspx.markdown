@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Mono 1.0 is out"
+title: Mono 1.0 is out
 date: 2004-06-30 -0800
 comments: true
 disqus_identifier: 755
 categories: []
+redirect_from: "/archive/2004/06/29/mono-10-is-out.aspx/"
 ---
+
 Sweet! This is extremely exciting. Now developing for the Linux platform
 is becoming a viable option. Perhaps I can start putting penguins in my
 office, post on [Slashdot](http://www.slashdot.org/) more often, and

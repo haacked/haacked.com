@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Building a Self Updating Site Using NuGet"
+title: Building a Self Updating Site Using NuGet
 date: 2011-01-15 -0800
 comments: true
 disqus_identifier: 18757
-categories: [asp.net mvc,open source,nuget]
+categories:
+- asp.net mvc
+- open source
+- nuget
+redirect_from: "/archive/2011/01/14/building-a-self-updating-site-using-nuget.aspx/"
 ---
+
 For those of you who enjoy learning about a technology via screencast,
 I’ve recorded a video to accompany and complement this blog post. The
 screencast shows you what this package does, and the blog post covers

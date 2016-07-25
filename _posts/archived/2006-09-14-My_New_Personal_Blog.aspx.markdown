@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "My New Personal Blog"
+title: My New Personal Blog
 date: 2006-09-14 -0800
 comments: true
 disqus_identifier: 16611
 categories: []
+redirect_from: "/archive/2006/09/13/My_New_Personal_Blog.aspx/"
 ---
+
 I found out recently that many of my family members and friends who used
 to read my blog stopped doing so because most of my blog posts were pure
 gibberish to them.  Apparently not everyone is fascinated by topics such

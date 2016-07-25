@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Setting Up Log4Net For Multi Layered Applications"
+title: Setting Up Log4Net For Multi Layered Applications
 date: 2006-01-13 -0800
 comments: true
 disqus_identifier: 11491
 categories: []
+redirect_from: "/archive/2006/01/12/SettingUpLog4NetForMultiLayeredApplications.aspx/"
 ---
+
 A while ago I wrote up a [Quick and Dirty Guide to Configuring Log4Net
 for Web
 Applications](http://haacked.com/archive/2005/03/07/ConfiguringLog4NetForWebApplications.aspx/ "Guide to Log4Net").

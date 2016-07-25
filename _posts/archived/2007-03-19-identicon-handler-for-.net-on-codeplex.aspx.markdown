@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Identicon Handler For .NET On CodePlex"
+title: Identicon Handler For .NET On CodePlex
 date: 2007-03-19 -0800
 comments: true
 disqus_identifier: 18253
 categories: []
+redirect_from: "/archive/2007/03/18/identicon-handler-for-.net-on-codeplex.aspx/"
 ---
+
 *Update: I’ve created a new [NuGet
 Package](http://haacked.com/archive/2010/10/06/introducing-nupack-package-manager.aspx "NuGet Package")
 for Identicon Handler (Package Id is “IdenticonHandler”) which will make

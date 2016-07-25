@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Victim Of A Yahoo Messenger Phishing Attack"
+title: Victim Of A Yahoo Messenger Phishing Attack
 date: 2006-05-04 -0800
 comments: true
 disqus_identifier: 12658
 categories: []
+redirect_from: "/archive/2006/05/03/victimofayahoomessengerphishingattack.aspx/"
 ---
+
 ![Fish](http://haacked.com/images/fish.jpg) UPDATE:*I am back in
 business. I have re-obtained control over my Yahoo account. So the IM
 messages you receive from me are really from me. I won’t make this

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Subtext Issue: Missing Emoticons File"
+title: 'Subtext Issue: Missing Emoticons File'
 date: 2006-03-04 -0800
 comments: true
 disqus_identifier: 11967
-categories: [subtext]
+categories:
+- subtext
+redirect_from: "/archive/2006/03/03/SubtextIssueMissingEmoticonsFile.aspx/"
 ---
+
 UPDATE: Ok, this is totally my fault. I took a perfectly good NAnt
 script another developer wrote and tried to add a few things in there
 and made a dumb error. I should have a unit test for our NAnt script. ;)

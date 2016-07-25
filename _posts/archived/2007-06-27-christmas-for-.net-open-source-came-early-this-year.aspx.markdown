@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Christmas For .NET Open Source Came Early This Year"
+title: Christmas For .NET Open Source Came Early This Year
 date: 2007-06-27 -0800
 comments: true
 disqus_identifier: 18361
 categories: []
+redirect_from: "/archive/2007/06/26/christmas-for-.net-open-source-came-early-this-year.aspx/"
 ---
+
 Last year when all the [hubbub surrounding
 NDoc](http://haacked.com/archive/2006/07/26/TheDemiseOfNDocAndAChallengeForUsersOfOpenSourceSoftware.aspx "The Demise to NDoc and a challenge for OSS")
 was happening, I tried to rally people around the idea of a **Contribute

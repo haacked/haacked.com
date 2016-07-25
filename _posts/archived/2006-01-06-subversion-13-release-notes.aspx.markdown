@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Subversion 1.3 Release Notes"
+title: Subversion 1.3 Release Notes
 date: 2006-01-06 -0800
 comments: true
 disqus_identifier: 11421
 categories: []
+redirect_from: "/archive/2006/01/05/subversion-13-release-notes.aspx/"
 ---
+
 Via [Larkware News](http://www.larkware.com/dg4/TheDailyGrind792.html) I
 noticed that Subversion 1.3 has been released. Looking at the release
 notes I noticed one thing in particular that caught my attention.

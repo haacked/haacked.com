@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "New Line Quirk with HTML TextArea"
+title: New Line Quirk with HTML TextArea
 date: 2008-11-18 -0800
 comments: true
 disqus_identifier: 18556
-categories: [asp.net mvc]
+categories:
+- asp.net mvc
+redirect_from: "/archive/2008/11/17/new-line-quirk-with-html-textarea.aspx/"
 ---
+
 Pop quiz. What would you expect these three bits of HTML to render?
 
 ```csharp

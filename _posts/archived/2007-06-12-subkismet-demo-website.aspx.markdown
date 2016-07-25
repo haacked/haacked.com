@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Subkismet Demo Website"
+title: Subkismet Demo Website
 date: 2007-06-12 -0800
 comments: true
 disqus_identifier: 18348
 categories: []
+redirect_from: "/archive/2007/06/11/subkismet-demo-website.aspx/"
 ---
+
 In my last post I mentioned that [Subkismet is ready to put a thumping
 on comment
 SPAM](http://haacked.com/archive/2007/06/12/introducing-subkismet-the-cure-for-comment-spam.aspx "Subkismet - The Cure For Comment Spam")

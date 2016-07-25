@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Localized Releases of ASP.NET MVC 3 Tools Update"
+title: Localized Releases of ASP.NET MVC 3 Tools Update
 date: 2011-05-10 -0800
 comments: true
 disqus_identifier: 18786
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2011/05/09/localized-releases-of-asp-net-mvc-3-tools-update.aspx/"
 ---
+
 In April we announced the [release of ASP.NET MVC 3 Tools
 Update](http://haacked.com/archive/2011/04/12/introducing-asp-net-mvc-3-tools-update.aspx "Tools Update")
 which added Scaffolding, HTML 5 project templates, Modernizr, and [EF

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Comedy Of Errors Bringing A Server Back From The Dead"
+title: Comedy Of Errors Bringing A Server Back From The Dead
 date: 2007-05-08 -0800
 comments: true
 disqus_identifier: 18305
 categories: []
+redirect_from: "/archive/2007/05/07/comedy-of-errors-bringing-a-server-back-from-the-dead.aspx/"
 ---
+
 Not too long ago I mentioned that a power surge [bricked the Subtext
 Build
 Server](http://haacked.com/archive/2007/04/24/the-death-of-the-subtext-build-server.aspx "The Death of the Subtext Build Server").

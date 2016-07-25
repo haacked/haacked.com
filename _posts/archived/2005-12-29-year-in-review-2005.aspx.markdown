@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "My Year In Blogging - 2005"
+title: My Year In Blogging - 2005
 date: 2005-12-29 -0800
 comments: true
 disqus_identifier: 11384
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2005/12/28/year-in-review-2005.aspx/"
 ---
+
 In a blatant [ripoff of Scott
 H](http://www.hanselman.com/blog/ "Scott hanselman’s Blog"), I am going
 to post the best of “You’ve Been Haacked” 2005 edition. This year, you

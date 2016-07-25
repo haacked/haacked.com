@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Happy Fourth of July!  Historical Outsourcing Lesson."
+title: Happy Fourth of July!  Historical Outsourcing Lesson.
 date: 2005-07-03 -0800
 comments: true
 disqus_identifier: 7529
 categories: []
+redirect_from: "/archive/2005/07/02/happy-fourth-of-july-historical-outsourcing-lesson.aspx/"
 ---
+
 ![Flag](http://haacked.com/images/UsFlag.jpg) The United States is like
 your family, it’s got its problems and can seem dysfunctional at times,
 but you gotta love it, and it sure beats being in some of them other

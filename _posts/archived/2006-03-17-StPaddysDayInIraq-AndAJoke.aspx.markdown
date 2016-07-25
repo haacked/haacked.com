@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "St Paddys Day In Iraq - And A Joke"
+title: St Paddys Day In Iraq - And A Joke
 date: 2006-03-17 -0800
 comments: true
 disqus_identifier: 12098
 categories: []
+redirect_from: "/archive/2006/03/16/StPaddysDayInIraq-AndAJoke.aspx/"
 ---
+
 ![Clover](http://haacked.com/images/clover_leaf.jpg) My former neighbors
 who are now in Iraq helping the reconstruction efforts [write about
 their St. Patrick’s day

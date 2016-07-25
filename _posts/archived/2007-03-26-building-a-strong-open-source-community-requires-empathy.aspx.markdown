@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Building A Strong Open Source Community Requires Empathy"
+title: Building A Strong Open Source Community Requires Empathy
 date: 2007-03-26 -0800
 comments: true
 disqus_identifier: 18263
-categories: [oss, empathy, community]
+categories:
+- oss
+- empathy
+- community
+redirect_from: "/archive/2007/03/25/building-a-strong-open-source-community-requires-empathy.aspx/"
 ---
+
 A recent confrontational [thread within the Subtext
 forums](http://sourceforge.net/forum/message.php?msg_id=4227149 "Subtext Forum Thread")
 that I shared with [Rob Conery](http://blog.wekeroad.com/ "Rob Conery")

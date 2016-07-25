@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "MapPoint Uploads with Zip and Chunking"
+title: MapPoint Uploads with Zip and Chunking
 date: 2005-12-17 -0800
 comments: true
 disqus_identifier: 11354
 categories: []
+redirect_from: "/archive/2005/12/16/mappoint-uploads-with-zip-and-chunking.aspx/"
 ---
+
 As I recently said, you have to be [a bit
 MacGuyver](http://haacked.com/archive/2005/12/16/11350.aspx) to be a
 successful consultant. I’ve also whined about [how difficult hiring

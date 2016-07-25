@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Secret to NuGet&rsquo;s Success. You!"
+title: The Secret to NuGet&rsquo;s Success. You!
 date: 2011-04-29 -0800
 comments: true
 disqus_identifier: 18784
 categories: []
+redirect_from: "/archive/2011/04/28/nuget-contributors.aspx/"
 ---
+
 On a personal level, NuGet has been an immensely satisfying project to
 work on. I’ve always enjoyed working on open source projects with an
 active community in my spare time, but being able to do it as part of my

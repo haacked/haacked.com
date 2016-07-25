@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tip Jar: Concatenating A Delimited String"
+title: 'Tip Jar: Concatenating A Delimited String'
 date: 2006-11-21 -0800
 comments: true
 disqus_identifier: 18141
 categories: []
+redirect_from: "/archive/2006/11/20/tip_jar_concatenating_a_delimited_string.aspx/"
 ---
+
 Update: I also wrote [a more generic
 version](http://haacked.com/archive/2006/11/24/Concatenating_Delimited_Strings_With_Generic_Delegates.aspx "Concatenating Delimited Strings")
 using anonymous delegates for .NET 2.0 as a followup to this post.

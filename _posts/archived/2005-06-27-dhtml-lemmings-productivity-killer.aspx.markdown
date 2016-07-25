@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "DHTML Lemmings: Productivity Killer"
+title: 'DHTML Lemmings: Productivity Killer'
 date: 2005-06-27 -0800
 comments: true
 disqus_identifier: 7343
 categories: []
+redirect_from: "/archive/2005/06/26/dhtml-lemmings-productivity-killer.aspx/"
 ---
+
 ![Lemmings](http://haacked.com/images/Lemmings.jpg)
 [Dare](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=00e33779-3abd-46d1-9018-cd997950e917)
 may singlehandedly be responsible for delaying Longhorn, VS.NET 2005,

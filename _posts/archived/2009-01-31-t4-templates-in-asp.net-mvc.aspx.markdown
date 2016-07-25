@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "T4 Templates in ASP.NET MVC"
+title: T4 Templates in ASP.NET MVC
 date: 2009-01-31 -0800
 comments: true
 disqus_identifier: 18585
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2009/01/30/t4-templates-in-asp.net-mvc.aspx/"
 ---
+
 Here’s a little known fact about T4 Templates…well besides that they
 exist in the first place. Visual Studio 2005 had support for T3
 templates. T4 is the natural successor to T3. T3 is also the

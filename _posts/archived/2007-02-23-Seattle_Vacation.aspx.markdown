@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Seeing Bill Gate's House During Seattle Vacation"
+title: Seeing Bill Gate's House During Seattle Vacation
 date: 2007-02-23 -0800
 comments: true
 disqus_identifier: 18216
 categories: []
+redirect_from: "/archive/2007/02/22/Seattle_Vacation.aspx/"
 ---
+
 I finally got around to uploading pics of our short [Seattle
 vacation](http://www.flickr.com/photos/haacked/sets/72157594553243072/ "Seattle Vacation Pictures")
 to Flickr. Our first full day there, Saturday, benefitted from beautiful

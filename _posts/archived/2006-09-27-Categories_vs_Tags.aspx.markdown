@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Categories vs Tags"
+title: Categories vs Tags
 date: 2006-09-27 -0800
 comments: true
 disqus_identifier: 17267
 categories: []
+redirect_from: "/archive/2006/09/26/Categories_vs_Tags.aspx/"
 ---
+
 [![Tag](http://haacked.com/images/haacked_com/WindowsLiveWriter/CategoriesvsTags_833F/561962_price_tag_thumb%5B1%5D.jpg)
 Duncan
 Mackenzie](http://haacked.com/images/haacked_com/WindowsLiveWriter/CategoriesvsTags_833F/561962_price_tag%5B3%5D.jpg)

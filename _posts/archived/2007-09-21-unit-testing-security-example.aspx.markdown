@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Unit Testing Security Example"
+title: Unit Testing Security Example
 date: 2007-09-21 -0800
 comments: true
 disqus_identifier: 18398
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2007/09/20/unit-testing-security-example.aspx/"
 ---
+
 This is a simple little demonstration of how to write unit tests to test
 out a specific role based permission issue using
 [NUnit](http://nunit.com/ "NUnit")/[MbUnit](http://mbunit.com/ "MbUnit")

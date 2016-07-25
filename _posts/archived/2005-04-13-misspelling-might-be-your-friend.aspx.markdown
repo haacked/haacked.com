@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Misspelling Might Be Your Friend"
+title: Misspelling Might Be Your Friend
 date: 2005-04-13 -0800
 comments: true
 disqus_identifier: 2647
 categories: []
+redirect_from: "/archive/2005/04/12/misspelling-might-be-your-friend.aspx/"
 ---
+
 Looking through my statistics today and I noticed that I received a lot
 of hits from [this
 post](http://haacked.com/archive/2005/04/04/2555.aspx) about Google Maps

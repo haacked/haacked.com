@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Praise For a Good Company"
+title: Praise For a Good Company
 date: 2006-08-11 -0800
 comments: true
 disqus_identifier: 14843
 categories: []
+redirect_from: "/archive/2006/08/10/PraiseForAGoodCompany.aspx/"
 ---
+
 Today I was thinking about how much I enjoy doing business with a
 particular company and realized my natural inclination was not to blog
 about it. Yet when a company really drops the ball, I have no problem

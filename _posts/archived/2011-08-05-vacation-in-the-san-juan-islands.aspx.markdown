@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Vacation in the San Juan Islands"
+title: Vacation in the San Juan Islands
 date: 2011-08-05 -0800
 comments: true
 disqus_identifier: 18804
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2011/08/04/vacation-in-the-san-juan-islands.aspx/"
 ---
+
 A few weeks ago I felt burned out and was in sore need of a vacation. I
 suggested to my wife that we take the kids somewhere and she sagely
 noted that taking the kids anywhere at their ages is not a vacation.

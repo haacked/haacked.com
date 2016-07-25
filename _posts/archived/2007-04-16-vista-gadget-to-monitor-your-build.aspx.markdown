@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Vista Gadget To Monitor Your Build"
+title: Vista Gadget To Monitor Your Build
 date: 2007-04-16 -0800
 comments: true
 disqus_identifier: 18285
 categories: []
+redirect_from: "/archive/2007/04/15/vista-gadget-to-monitor-your-build.aspx/"
 ---
+
 [Simone Chiaretta](http://www.codeclimber.net.nz/ "Simone"), a member of
 the [Subtext](http://subtextproject.com/ "Subtext") team (not to mention
 many other projects), just [released a Vista

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "VS.NET Add-In For Source Code Formatting as HTML"
+title: VS.NET Add-In For Source Code Formatting as HTML
 date: 2004-10-13 -0800
 comments: true
 disqus_identifier: 1345
 categories: []
+redirect_from: "/archive/2004/10/12/vsnet-add-in-for-source-code-formatting-as-html.aspx/"
 ---
+
 [Colin](http://www.jtleigh.com/people/colin/blog/) sent me an email
 pointing me to an [add-in he
 wrote](http://www.jtleigh.com/people/colin/blog/archives/2004/10/visual_studio_a.html)

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RAS Syndrome"
+title: RAS Syndrome
 date: 2008-06-13 -0800
 comments: true
 disqus_identifier: 18492
-categories: [humor]
+categories:
+- humor
+redirect_from: "/archive/2008/06/12/ras-syndrome.aspx/"
 ---
+
 ![Photo by lizerixt on stock.xchng
 http://www.sxc.hu/photo/1005758](http://haacked.com/images/haacked_com/WindowsLiveWriter/RASSyndrome_DA3C/bff_shadow_3.jpg "Photo by lizerixt on stock.xchng http://www.sxc.hu/photo/1005758")
 Yesterday, I [wrote a

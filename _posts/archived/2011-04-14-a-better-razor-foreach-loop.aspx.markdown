@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "A Better Razor Foreach Loop"
+title: A Better Razor Foreach Loop
 date: 2011-04-14 -0800
 comments: true
 disqus_identifier: 18775
-categories: [razor,code,asp.net mvc]
+categories:
+- razor
+- code
+- asp.net mvc
+redirect_from: "/archive/2011/04/13/a-better-razor-foreach-loop.aspx/"
 ---
+
 Yesterday, during my [ASP.NET MVC 3 talk at Mix
 11](http://channel9.msdn.com/events/MIX/MIX11/FRM03 "ASP.NET MVC 3 The Time Is Now"),
 I wrote a useful helper method demonstrating an advanced feature of

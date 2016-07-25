@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "ALT.NET Should Be Divisive, But Not Contrarian"
+title: ALT.NET Should Be Divisive, But Not Contrarian
 date: 2007-10-06 -0800
 comments: true
 disqus_identifier: 18404
 categories: []
+redirect_from: "/archive/2007/10/05/alt.net-should-be-divisive-but-not-contrarian.aspx/"
 ---
+
 In his post [Goodby CodeBetter and
 ALT.NET](http://samgentile.com/blogs/samgentile/archive/2007/10/06/goodbye-codebetter-and-alt-net.aspx "Same Gentile on CodeBetter and ALT.NET"),
 Sam Gentile writes about his dissatisfaction with CodeBetter and the

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Black Rock City Bound"
+title: Black Rock City Bound
 date: 2006-05-03 -0800
 comments: true
 disqus_identifier: 12649
 categories: []
+redirect_from: "/archive/2006/05/02/BlackRockCityBound.aspx/"
 ---
+
 Yes, yet again I have purchased tickets to [Burning
 Man](http://www.burningman.com/ "BurningMan Homepage") scheduled for
 August 28 through September 4, 2006. And you better believe I am

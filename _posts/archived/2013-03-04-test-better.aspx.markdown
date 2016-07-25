@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Test Better"
+title: Test Better
 date: 2013-03-04 -0800
 comments: true
 disqus_identifier: 18886
-categories: [code,tdd,github]
+categories:
+- code
+- tdd
+- github
+redirect_from: "/archive/2013/03/03/test-better.aspx/"
 ---
 
 Developers take pride in speaking their mind and not shying away from touchy subjects. Yet there is one subject makes many developers

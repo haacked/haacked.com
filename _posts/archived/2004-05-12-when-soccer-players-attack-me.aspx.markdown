@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "When Soccer Players Attack ... me"
+title: When Soccer Players Attack ... me
 date: 2004-05-12 -0800
 comments: true
 disqus_identifier: 434
 categories: []
+redirect_from: "/archive/2004/05/11/when-soccer-players-attack-me.aspx/"
 ---
+
 ![fight](/images/fightclub.jpg)This weekend I nearly got into a fight
 while playing soccer. To give you perspective, this is a friendly co-ed
 game with a group of people I've played with for six years. Player ages

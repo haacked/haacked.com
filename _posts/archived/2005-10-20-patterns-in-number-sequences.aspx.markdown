@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Patterns in Number Sequences"
+title: Patterns in Number Sequences
 date: 2005-10-20 -0800
 comments: true
 disqus_identifier: 10899
 categories: []
+redirect_from: "/archive/2005/10/19/patterns-in-number-sequences.aspx/"
 ---
+
 You know you’re a big geek when a sequence of numbers with an
 interesting property just pops in your head. No, I’m not talking about
 myself (this time). [Jayson Knight](http://jaysonknight.com/blog/) is

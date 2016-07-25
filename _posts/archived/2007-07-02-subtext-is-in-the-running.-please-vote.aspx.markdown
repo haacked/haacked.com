@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Subtext Is In The Running. Please Vote."
+title: Subtext Is In The Running. Please Vote.
 date: 2007-07-02 -0800
 comments: true
 disqus_identifier: 18364
 categories: []
+redirect_from: "/archive/2007/07/01/subtext-is-in-the-running.-please-vote.aspx/"
 ---
+
 [![sf-cca-vote](http://haacked.com/images/haacked_com/WindowsLiveWriter/SubtextIsInTheRunning.PleaseVote_1416C/sf-cca-vote_1.png)](http://sourceforge.net/awards/cca/vote.php?from=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fsubtext%252 "Vote for Subtext")
 A little while ago I pleaded with my readers to [nominate Subtext for a
 SourceForge Community Choice

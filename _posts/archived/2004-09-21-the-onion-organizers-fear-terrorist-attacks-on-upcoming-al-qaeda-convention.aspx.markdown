@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Onion: Organizers Fear Terrorist Attacks On Upcoming Al-Qaeda Convention"
+title: 'The Onion: Organizers Fear Terrorist Attacks On Upcoming Al-Qaeda Convention'
 date: 2004-09-21 -0800
 comments: true
 disqus_identifier: 1246
 categories: []
+redirect_from: "/archive/2004/09/20/the-onion-organizers-fear-terrorist-attacks-on-upcoming-al-qaeda-convention.aspx/"
 ---
+
 This is [too
 funny](http://www.theonion.com/news/index.php?issue=4038&n=0&pg=2). For
 any foreigners or Chinese press who read this blog, The Onion is satire.

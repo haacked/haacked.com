@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tickets to Spain"
+title: Tickets to Spain
 date: 2005-09-19 -0800
 comments: true
 disqus_identifier: 10245
 categories: []
+redirect_from: "/archive/2005/09/18/tickets-to-spain.aspx/"
 ---
+
 Picked up our airline tickets to Spain today. We’ll be visiting in
 November, landing in Madrid, travelling through Andalucia and ending up
 in Barcelona. The main thing I want to visit in Madrid is the area where

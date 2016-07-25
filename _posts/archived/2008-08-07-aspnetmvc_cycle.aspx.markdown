@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "An Arbitrary Cycle Method For ASP.NET MVC"
+title: An Arbitrary Cycle Method For ASP.NET MVC
 date: 2008-08-07 -0800
 comments: true
 disqus_identifier: 18517
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2008/08/06/aspnetmvc_cycle.aspx/"
 ---
+
 In his [Practical Review of ASP.NET
 MVC](http://www.joshuamcharles.com/blog/2008/08/a-practical-review-aspnet-mvc/ "Practical Review"),
 Josh Charles provides a helpful review of ASP.NET MVC from a Rails

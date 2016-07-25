@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Atheist Calls Pledge Unconstitutional"
+title: Atheist Calls Pledge Unconstitutional
 date: 2004-03-25 -0800
 comments: true
 disqus_identifier: 269
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2004/03/24/atheist-calls-pledge-unconstitutional.aspx/"
 ---
+
 How quickly would the pledge be altered if it ended "one nation under
 Allah" or "one nation under Buddah"?
 

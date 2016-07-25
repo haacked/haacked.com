@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "What I Will Be Reading In 2006"
+title: What I Will Be Reading In 2006
 date: 2005-12-25 -0800
 comments: true
 disqus_identifier: 11370
 categories: []
+redirect_from: "/archive/2005/12/24/what-i-will-be-reading-in-2006.aspx/"
 ---
+
 Thanks to the generosity of my folks, I’ll be reading the following
 books. If you were planning (or want to) read them as well, click on the
 images below.

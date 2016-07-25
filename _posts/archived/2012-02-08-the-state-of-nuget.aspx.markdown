@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "The State of NuGet"
+title: The State of NuGet
 date: 2012-02-08 -0800
 comments: true
 disqus_identifier: 18845
-categories: [nuget,open source]
+categories:
+- nuget
+- open source
+redirect_from: "/archive/2012/02/07/the-state-of-nuget.aspx/"
 ---
+
 I’ve seen a few recent tweets asking about what’s going on with NuGet
 since I left Microsoft. The fact is that the NuGet team has been hard at
 work on the release and have been discussing it in various public

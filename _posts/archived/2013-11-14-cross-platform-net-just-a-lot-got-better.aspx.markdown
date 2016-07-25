@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Cross Platform .NET Just A Lot Got Better"
+title: Cross Platform .NET Just A Lot Got Better
 date: 2013-11-14 -0800
 comments: true
 disqus_identifier: 18907
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2013/11/13/cross-platform-net-just-a-lot-got-better.aspx/"
 ---
+
 Not long ago I wrote a blog post about how [platform restrictions harm
 .NET](http://haacked.com/archive/2013/06/24/platform-limitations-harm-net.aspx "Platform Restrictions harm .NET").
 This led to a lot of discussion online and on Twitter. At some point

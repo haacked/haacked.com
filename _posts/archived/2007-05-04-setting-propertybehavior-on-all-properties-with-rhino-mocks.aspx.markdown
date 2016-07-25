@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Setting PropertyBehavior On All Properties With Rhino Mocks"
+title: Setting PropertyBehavior On All Properties With Rhino Mocks
 date: 2007-05-04 -0800
 comments: true
 disqus_identifier: 18302
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2007/05/03/setting-propertybehavior-on-all-properties-with-rhino-mocks.aspx/"
 ---
+
 Although I am a big fan of [Rhino
 Mocks](http://www.ayende.com/projects/rhino-mocks.aspx "Rhino Mocks Website"),
 I typically favor [State-Based over Interaction-Based unit

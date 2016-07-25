@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "We're Having A Doggie!"
+title: We're Having A Doggie!
 date: 2004-08-31 -0800
 comments: true
 disqus_identifier: 1062
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2004/08/30/were-having-a-doggie.aspx/"
 ---
+
 ![Italian Greyhound](/images/italianGreyhound.jpg)So after much
 deliberation and research, we've decided that we're going to provide a
 home for a dog. In particular, we hope to adopt an [Italian

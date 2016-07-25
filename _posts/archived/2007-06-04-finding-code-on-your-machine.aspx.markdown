@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Finding Code On Your Machine"
+title: Finding Code On Your Machine
 date: 2007-06-04 -0800
 comments: true
 disqus_identifier: 18339
 categories: []
+redirect_from: "/archive/2007/06/03/finding-code-on-your-machine.aspx/"
 ---
+
 As I [mentioned
 before](http://haacked.com/archive/2007/05/11/my-last-day-before-starting-a-new-career.aspx "Starting a new career"),
 I am the Product Manager for the [Koders.com

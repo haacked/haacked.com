@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Strongly Typed Stored Procedures Using Subsonic"
+title: Strongly Typed Stored Procedures Using Subsonic
 date: 2007-05-29 -0800
 comments: true
 disqus_identifier: 18333
 categories: []
+redirect_from: "/archive/2007/05/28/strongly-typed-stored-procedures-using-subsonic.aspx/"
 ---
+
 I don’t know about you, but I find it a pain to call stored procedures
 from code. Either I end up writing way too much code to specify each
 `SqlParameter` explicitly, or I use a tool like Microsoft’s Data Access
