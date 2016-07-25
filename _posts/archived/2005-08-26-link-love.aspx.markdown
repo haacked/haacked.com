@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Link Love"
+title: Link Love
 date: 2005-08-26 -0800
 comments: true
 disqus_identifier: 9683
 categories: []
+redirect_from: "/archive/2005/08/25/link-love.aspx/"
 ---
+
 Well my Page Rank (and traffic numbers) are suddenly down as of last
 week. It wasn’t a gradual drop as one would expect, but more of a rapid
 freefall descent like any stock I’ve ever purchased.

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Thanks for the Well Wishes"
+title: Thanks for the Well Wishes
 date: 2005-05-29 -0800
 comments: true
 disqus_identifier: 3922
 categories: []
+redirect_from: "/archive/2005/05/28/thanks-for-the-well-wishes.aspx/"
 ---
+
 When something tragic befalls a friend, or even an acquaintance, I used
 to wonder if expressing my condolences and sorrow really meant much to
 the afflicted person. It certainly is different from person to person.

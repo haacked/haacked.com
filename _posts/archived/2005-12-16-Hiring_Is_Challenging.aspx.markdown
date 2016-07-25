@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hiring Is Challenging"
+title: Hiring Is Challenging
 date: 2005-12-16 -0800
 comments: true
 disqus_identifier: 11351
 categories: []
+redirect_from: "/archive/2005/12/15/Hiring_Is_Challenging.aspx/"
 ---
+
 Hiring good developers is challenging. There’s a small bit of science
 and a lot of art. Even when a hire is brilliant, [he or she might not
 work out](http://haacked.com/archive/2005/12/16/11350.aspx). When

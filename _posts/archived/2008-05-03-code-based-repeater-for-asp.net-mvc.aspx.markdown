@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Code Based Repeater for ASP.NET MVC"
+title: Code Based Repeater for ASP.NET MVC
 date: 2008-05-03 -0800
 comments: true
 disqus_identifier: 18481
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2008/05/02/code-based-repeater-for-asp.net-mvc.aspx/"
 ---
+
 Not long ago, my compadre [Scott
 Hanselman](http://www.hanselman.com/blog/ "Scott Hanselman's Blog")
 related the [following

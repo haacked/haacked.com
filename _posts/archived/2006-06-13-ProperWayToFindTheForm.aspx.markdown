@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Proper Way To Find The Form"
+title: Proper Way To Find The Form
 date: 2006-06-13 -0800
 comments: true
 disqus_identifier: 13303
-categories: [code,asp.net]
+categories:
+- code
+- asp.net
+redirect_from: "/archive/2006/06/12/ProperWayToFindTheForm.aspx/"
 ---
+
 ![1040 EZ Form](http://haacked.com/images/1040ez.jpg) Today I ran across
 some code in a 3rd party open source library that used the following
 function in order to retrieve the form id.

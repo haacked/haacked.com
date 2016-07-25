@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Prevent Forms Authentication Login Page Redirect When You Don&rsquo;t Want It"
+title: Prevent Forms Authentication Login Page Redirect When You Don&rsquo;t Want
+  It
 date: 2011-10-04 -0800
 comments: true
 disqus_identifier: 18816
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2011/10/03/prevent-forms-authentication-login-page-redirect-when-you-donrsquot-want.aspx/"
 ---
+
 [![redirect](http://haacked.com/images/haacked_com/WindowsLiveWriter/Prevent-Forms-Authentication-Login-Page-_C968/redirect_3.jpg "redirect")](http://www.flickr.com/photos/notjake13/2574028447/ "Construction signs in NY")
 *Go that way instead - Photo by JacobEnos [CC some rights
 reserved](http://creativecommons.org/licenses/by/2.0/deed.en "Creative Commons by Attribution")*

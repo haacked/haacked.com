@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "We&rsquo;re Renaming NuPack"
+title: We&rsquo;re Renaming NuPack
 date: 2010-10-21 -0800
 comments: true
 disqus_identifier: 18729
-categories: [nuget,code,open source]
+categories:
+- nuget
+- code
+- open source
+redirect_from: "/archive/2010/10/20/renaming-nupack.aspx/"
 ---
+
 UPDATE: [The new name is
 NuGet](http://haacked.com/archive/2010/10/29/nupack-is-now-nuget.aspx "NuPack renamed")
 

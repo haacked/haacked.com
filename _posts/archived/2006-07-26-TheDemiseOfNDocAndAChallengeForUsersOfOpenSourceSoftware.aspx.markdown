@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Demise of NDoc and A Challenge For Users Of Open Source Software"
+title: The Demise of NDoc and A Challenge For Users Of Open Source Software
 date: 2006-07-26 -0800
 comments: true
 disqus_identifier: 14238
 categories: []
+redirect_from: "/archive/2006/07/25/TheDemiseOfNDocAndAChallengeForUsersOfOpenSourceSoftware.aspx/"
 ---
+
 My goodness. Today is Open Source News Day for me.
 
 I just read the sad news that Kevin Downs, the leader of the NDoc

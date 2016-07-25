@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "An Amendment To Save Marriages"
+title: An Amendment To Save Marriages
 date: 2004-02-27 -0800
 comments: true
 disqus_identifier: 214
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2004/02/26/an-amendment-to-save-marriage.aspx/"
 ---
+
 Bush believes that an amendment is necessary to bring “clarity” to the
 issue of gay marriage and to preserve the social fabric of our great
 nation.

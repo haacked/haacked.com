@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Better Programming By Programming Better"
+title: Better Programming By Programming Better
 date: 2007-01-30 -0800
 comments: true
 disqus_identifier: 18203
 categories: []
+redirect_from: "/archive/2007/01/29/Better_Programming_By_Programming_Better.aspx/"
 ---
+
 [Jeff Atwood](http://www.codinghorror.com/blog/ "Coding Horror") writes
 a great post on how to become a [better programmer by not
 programming](http://www.codinghorror.com/blog/archives/000543.html "Better Programming By Not Programming").

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Refactoring Handles Unanticipated Changes"
+title: Refactoring Handles Unanticipated Changes
 date: 2005-12-04 -0800
 comments: true
 disqus_identifier: 11295
 categories: []
+redirect_from: "/archive/2005/12/03/refactoring-handles-unanticipated-changes.aspx/"
 ---
+
 [Sam Gentile is
 preaching](http://samgentile.com/blog/archive/2005/12/04/32144.aspx) and
 I am in the choir. I’ve talked about the benefits of unit testing and

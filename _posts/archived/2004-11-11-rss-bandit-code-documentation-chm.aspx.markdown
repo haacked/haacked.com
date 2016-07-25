@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "RSS Bandit Code Documentation (CHM)"
+title: RSS Bandit Code Documentation (CHM)
 date: 2004-11-11 -0800
 comments: true
 disqus_identifier: 1601
 categories: []
+redirect_from: "/archive/2004/11/10/rss-bandit-code-documentation-chm.aspx/"
 ---
+
 Using [NDoc](http://ndoc.sourceforge.net/) I've generated an update
 version of the [CHM code documentation for RSS
 Bandit](http://haacked.com/code/RSSBanditCodeDocumentation.chm). As

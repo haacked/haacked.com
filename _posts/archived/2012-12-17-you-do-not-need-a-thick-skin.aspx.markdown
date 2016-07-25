@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "You Don&rsquo;t Need A Thick Skin"
+title: You Don&rsquo;t Need A Thick Skin
 date: 2012-12-17 -0800
 comments: true
 disqus_identifier: 18877
-categories: [code,community,empathy]
+categories:
+- code
+- community
+- empathy
+redirect_from: "/archive/2012/12/16/you-do-not-need-a-thick-skin.aspx/"
 ---
+
 I have a confession to make.
 
 I sometimes avoid your feedback on the Twitters. It’s nothing personal.

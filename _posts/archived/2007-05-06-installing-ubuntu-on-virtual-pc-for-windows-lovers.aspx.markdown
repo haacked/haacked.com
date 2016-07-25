@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Installing Ubuntu on Virtual PC for Windows Lovers"
+title: Installing Ubuntu on Virtual PC for Windows Lovers
 date: 2007-05-06 -0800
 comments: true
 disqus_identifier: 18303
 categories: []
+redirect_from: "/archive/2007/05/05/installing-ubuntu-on-virtual-pc-for-windows-lovers.aspx/"
 ---
+
 I am a total
 [noob](http://www.urbandictionary.com/define.php?term=noob "Definition of noob - Someone who is new to something.")
 when it comes to working with Linux. The only experience I have with

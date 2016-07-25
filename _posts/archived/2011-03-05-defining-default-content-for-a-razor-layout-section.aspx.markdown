@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Defining Default Content For A Razor Layout Section"
+title: Defining Default Content For A Razor Layout Section
 date: 2011-03-05 -0800
 comments: true
 disqus_identifier: 18767
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2011/03/04/defining-default-content-for-a-razor-layout-section.aspx/"
 ---
+
 Layouts in Razor serve the same purpose as Master Pages do in Web Forms.
 They allow you to specify a layout for your site and carve out some
 placeholder sections for your views to implement.

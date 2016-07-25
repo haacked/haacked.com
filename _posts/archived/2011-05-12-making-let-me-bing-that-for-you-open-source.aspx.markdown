@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Making Let Me Bing That For You Open Source"
+title: Making Let Me Bing That For You Open Source
 date: 2011-05-12 -0800
 comments: true
 disqus_identifier: 18788
-categories: [open source,personal]
+categories:
+- open source
+- personal
+redirect_from: "/archive/2011/05/11/making-let-me-bing-that-for-you-open-source.aspx/"
 ---
+
 Almost two years ago, I [announced the
 launch](http://haacked.com/archive/2009/10/16/announcing-let-me-bing-that-for-you.aspx "Announcing LetMeBingThatForYou.com")
 of [http://letmebingthatforyou.com/](http://letmebingthatforyou.com/), a

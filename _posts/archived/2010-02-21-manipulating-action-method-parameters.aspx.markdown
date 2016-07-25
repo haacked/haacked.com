@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Manipulating Action Method Parameters"
+title: Manipulating Action Method Parameters
 date: 2010-02-21 -0800
 comments: true
 disqus_identifier: 18687
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2010/02/20/manipulating-action-method-parameters.aspx/"
 ---
+
 During the MVP summit, an attendee asked me for some help with a common
 scenario common among those building content management systems. He
 wanted his site to use human friendly URLs.

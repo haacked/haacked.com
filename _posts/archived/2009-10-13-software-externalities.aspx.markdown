@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Software Externalities"
+title: Software Externalities
 date: 2009-10-13 -0800
 comments: true
 disqus_identifier: 18648
 categories: []
+redirect_from: "/archive/2009/10/12/software-externalities.aspx/"
 ---
+
 If you’re a manufacturing plant, one way to maximize profit is to keep
 costs as low as possible. One way to do that is to cut corners. Go ahead
 and dump that toxic waste into the river and pollute the heck out of the

@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Make Async Your Buddy With Reactive Extensions"
+title: Make Async Your Buddy With Reactive Extensions
 date: 2012-04-09 -0800
 comments: true
 disqus_identifier: 18856
-categories: [code,rx]
+categories:
+- code
+- rx
+redirect_from: "/archive/2012/04/08/reactive-extensions-sample.aspx/"
 ---
+
 For a long time, good folks like [Matt
 Podwysocki](http://weblogs.asp.net/podwysocki/ "Matt Podwysocki") have
 extolled the virtues of Reactive Extensions (aka Rx) to me. It piqued my

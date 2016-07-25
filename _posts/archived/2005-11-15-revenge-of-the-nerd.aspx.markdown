@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Revenge of the Nerd?"
+title: Revenge of the Nerd?
 date: 2005-11-15 -0800
 comments: true
 disqus_identifier: 11202
 categories: []
+redirect_from: "/archive/2005/11/14/revenge-of-the-nerd.aspx/"
 ---
+
 BoingBoing has this story on a guy who fixes computers in exchange
 for...er...*special favors* from female customers. First the plumber,
 and now the computer guy. This could start a whole new breed of dirty

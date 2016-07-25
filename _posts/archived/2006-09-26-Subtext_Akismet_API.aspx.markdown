@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Subtext Akismet API"
+title: Subtext Akismet API
 date: 2006-09-26 -0800
 comments: true
 disqus_identifier: 17231
 categories: []
+redirect_from: "/archive/2006/09/25/Subtext_Akismet_API.aspx/"
 ---
+
 [Akismet](http://akismet.com/) is all the rage among the kids these days
 for blocking comment spam.  Started by the founder of Wordpress, [Matt
 Mullenweg](http://photomatt.net/), Akismet is a RESTful web service used

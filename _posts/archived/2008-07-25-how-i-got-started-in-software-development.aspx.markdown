@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "How I Got Started In Software Development"
+title: How I Got Started In Software Development
 date: 2008-07-25 -0800
 comments: true
 disqus_identifier: 18507
-categories: [personal,code]
+categories:
+- personal
+- code
+redirect_from: "/archive/2008/07/24/how-i-got-started-in-software-development.aspx/"
 ---
+
 It’s a quiet friday afternoon with all of our devs in training today, so
 I figured I’d take a breather and respond to this meme I’ve been tagged
 with by

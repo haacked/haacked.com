@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Unit Test Boundaries"
+title: Unit Test Boundaries
 date: 2008-07-22 -0800
 comments: true
 disqus_identifier: 18506
-categories: [tdd,code]
+categories:
+- tdd
+- code
+redirect_from: "/archive/2008/07/21/unit-test-boundaries.aspx/"
 ---
+
 One principle to follow when writing a unit test is that a unit test
 should ideally [not cross
 boundaries](http://www.williamcaputo.com/archives/000019.html "TDD Pattern: Do not Cross Boundaries").

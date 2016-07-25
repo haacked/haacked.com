@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "7 Stages of new language keyword grief"
+title: 7 Stages of new language keyword grief
 date: 2009-08-31 -0800
 comments: true
 disqus_identifier: 18641
 categories: []
+redirect_from: "/archive/2009/08/30/7-stages-of-language-keyword-grief.aspx/"
 ---
+
 My [last
 post](http://haacked.com/archive/2009/08/26/method-missing-csharp-4.aspx "Fun with method missing in C# 4")
 on the new `dynamic` keyword sparked a range of reactions which are not

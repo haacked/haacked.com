@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Laugh Factory's Latino Night"
+title: The Laugh Factory's Latino Night
 date: 2004-09-14 -0800
 comments: true
 disqus_identifier: 1202
 categories: []
+redirect_from: "/archive/2004/09/13/the-laugh-factorys-latino-night.aspx/"
 ---
+
 Last night Akumi and I attended the Laugh Factory on Sunset to see our
 friend and up and coming comic Rick Ramos perform. I met Rick through
 Kyle as the two of them went to Northwestern together and both Rick and

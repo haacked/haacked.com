@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Microsoft and Open Source"
+title: Microsoft and Open Source
 date: 2007-07-26 -0800
 comments: true
 disqus_identifier: 18370
 categories: []
+redirect_from: "/archive/2007/07/25/microsoft-and-open-source.aspx/"
 ---
+
 Microsoft just unveiled [a new web
 property](http://www.microsoft.com/opensource/) intended to clarify its
 position on Open Source as well as provide a one-stop location to find

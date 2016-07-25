@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A Closer Look At The Dispose Pattern"
+title: A Closer Look At The Dispose Pattern
 date: 2005-11-18 -0800
 comments: true
 disqus_identifier: 11222
 categories: []
+redirect_from: "/archive/2005/11/17/ACloserLookAtDisposePattern.aspx/"
 ---
+
 The [Framework Design Guidelines](http://www.amazon.com/gp/product/0321246756/103-9411210-6787060?v=glance&n=283155&v=glance)
 has an illuminating discussion on the Dispose pattern for implementing `IDisposable` in chapter 9 section 3. However, there was one place where I found a potential problem.
 

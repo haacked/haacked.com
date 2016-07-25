@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Hot New Presentation Tip"
+title: Hot New Presentation Tip
 date: 2008-10-28 -0800
 comments: true
 disqus_identifier: 18543
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2008/10/27/hot-new-presentation-tip.aspx/"
 ---
+
 Before giving a presentation, I review [Scott Hanselman’s top 11
 presentation
 tips](http://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation.aspx "Presentation Tips").

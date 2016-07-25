@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Is Pizza Brain Food?"
+title: Is Pizza Brain Food?
 date: 2008-03-21 -0800
 comments: true
 disqus_identifier: 18465
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2008/03/20/is-pizza-brain-food.aspx/"
 ---
+
 My family and I recently moved into our new home after a two month stay
 in temporary housing. One of the perks of moving is when your stuff is
 delivered from storage, it feels like Christmas again. “*Oooh! Look at

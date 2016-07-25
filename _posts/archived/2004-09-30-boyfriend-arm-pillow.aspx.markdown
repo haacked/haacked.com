@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Boyfriend Arm Pillow"
+title: Boyfriend Arm Pillow
 date: 2004-09-30 -0800
 comments: true
 disqus_identifier: 1291
 categories: []
+redirect_from: "/archive/2004/09/29/boyfriend-arm-pillow.aspx/"
 ---
+
 You gotta love the Japanese for making such interesting products. The
 company that makes this disembodied arm pillow has sold 1000 units since
 last December. It's actually genius if you think about it.

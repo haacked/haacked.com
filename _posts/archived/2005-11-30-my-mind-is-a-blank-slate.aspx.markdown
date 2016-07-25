@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "My Mind Is A Blank Slate"
+title: My Mind Is A Blank Slate
 date: 2005-11-30 -0800
 comments: true
 disqus_identifier: 11274
 categories: []
+redirect_from: "/archive/2005/11/29/my-mind-is-a-blank-slate.aspx/"
 ---
+
 Apparently I am quite sensitive to jet lag. My wife has been cheerful,
 upbeat, and energetic, while I’ve come very close to biting the heads of
 little babies and throwing my own feces on the wall. Yeah, it’s that

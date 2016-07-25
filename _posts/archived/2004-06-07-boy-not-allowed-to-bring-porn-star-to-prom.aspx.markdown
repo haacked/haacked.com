@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Boy Not Allowed To Bring Porn Star To Prom"
+title: Boy Not Allowed To Bring Porn Star To Prom
 date: 2004-06-07 -0800
 comments: true
 disqus_identifier: 541
 categories: []
+redirect_from: "/archive/2004/06/06/boy-not-allowed-to-bring-porn-star-to-prom.aspx/"
 ---
+
 Guess he should have remembered to take out the trash... Oh wait, he
 tried.
 

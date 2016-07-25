@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "I Knew How To Validate An Email Address Until I Read The RFC"
+title: I Knew How To Validate An Email Address Until I Read The RFC
 date: 2007-08-21 -0800
 comments: true
 disqus_identifier: 18384
-categories: [code,regex]
+categories:
+- code
+- regex
+redirect_from: "/archive/2007/08/20/i-knew-how-to-validate-an-email-address-until-i.aspx/"
 ---
+
 Raise your hand if you know how to validate an email address. For those of you with your hand in the air, put it down quickly before someone sees you. It’s an odd sight to see someone sitting alone at the keyboard raising his or her hand. I was speaking metaphorically.
 
 [![at-sign](http://haacked.com/images/haacked_com/WindowsLiveWriter/IThoughtIKnewHowToValidateAnEmailAddress_E977/at-sign_1.jpg)](http://www.stockxpert.com/browse.phtml?f=profile&l=ErickN "At Sign from stockxpert by ErickN")

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Participating in a Fox Sports World Soccer Focus Group"
+title: Participating in a Fox Sports World Soccer Focus Group
 date: 2004-12-08 -0800
 comments: true
 disqus_identifier: 1720
 categories: []
+redirect_from: "/archive/2004/12/07/participating-in-a-fox-sports-world-soccer-focus-group.aspx/"
 ---
+
 Fox Sports World is undertaking strategic initiatives regarding the
 branding, on-air look, and marketing of the channels. As a soccer fan
 (and a friend of an FSW exec) I've been invited to participate in a

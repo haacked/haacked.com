@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "You've Been Haacked 1K Times"
+title: You've Been Haacked 1K Times
 date: 2006-04-27 -0800
 comments: true
 disqus_identifier: 12588
 categories: []
+redirect_from: "/archive/2006/04/26/YouveBeenHaacked1KTimes.aspx/"
 ---
+
 ![Axe](http://haacked.com/images/bloodyAxe.jpg) Well this post marks my
 1000th post on this blog. Since I am totally on board with the base 10
 system, that makes this noteworthy to me. If we all used the hexadecimal

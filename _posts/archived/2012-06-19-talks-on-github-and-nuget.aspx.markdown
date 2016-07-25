@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Talks on GitHub and NuGet"
+title: Talks on GitHub and NuGet
 date: 2012-06-19 -0800
 comments: true
 disqus_identifier: 18860
-categories: [git,github,nuget,code]
+categories:
+- git
+- github
+- nuget
+- code
+redirect_from: "/archive/2012/06/18/talks-on-github-and-nuget.aspx/"
 ---
+
 A couple weeks ago I had the great pleasure to speak at the Norwegian
 Developer’s Conference (NDC). This is my second time speaking at NDC.
 The first time was back in 2009 and [it was a

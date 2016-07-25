@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Unit Test Project Structure Poll"
+title: Unit Test Project Structure Poll
 date: 2008-04-09 -0800
 comments: true
 disqus_identifier: 18472
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2008/04/08/unit-test-project-structure-poll.aspx/"
 ---
+
 When I build applications, I personally like to have my unit tests in a
 separate class library project than the application I am testing.
 [That’s just how I

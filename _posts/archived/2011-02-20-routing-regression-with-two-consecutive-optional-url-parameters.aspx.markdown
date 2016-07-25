@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Routing Regression With Two Consecutive Optional Url Parameters"
+title: Routing Regression With Two Consecutive Optional Url Parameters
 date: 2011-02-20 -0800
 comments: true
 disqus_identifier: 18763
 categories: []
+redirect_from: "/archive/2011/02/19/routing-regression-with-two-consecutive-optional-url-parameters.aspx/"
 ---
+
 It pains me to say it, but ASP.NET MVC 3 introduces a minor regression
 in routing from ASP.NET MVC 2. The good news is that there’s an easy
 workaround.

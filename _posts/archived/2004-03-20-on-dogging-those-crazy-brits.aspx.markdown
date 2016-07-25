@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Those Crazy Brits are at it again"
+title: Those Crazy Brits are at it again
 date: 2004-03-20 -0800
 comments: true
 disqus_identifier: 265
-categories: [humor]
+categories:
+- humor
+redirect_from: "/archive/2004/03/19/on-dogging-those-crazy-brits.aspx/"
 ---
+
 ![](/images/dogging.jpg)Austin would be so pround. I wonder what the
 Queen thinks of all this wanton shagging going on? And I thought the
 British were such a reserved people. Apparently so if we’re talking

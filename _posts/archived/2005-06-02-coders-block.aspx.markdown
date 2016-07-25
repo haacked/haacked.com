@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Coder&#8217;s Block"
+title: Coder&#8217;s Block
 date: 2005-06-02 -0800
 comments: true
 disqus_identifier: 3990
 categories: []
+redirect_from: "/archive/2005/06/01/coders-block.aspx/"
 ---
+
 ![block](/images/block.jpg) I’ve heard of writer’s block, but never
 dealt with coder’s block until today. Seriously, I’ve always been able
 to just unleash that kernel of code simmering inside in a big pop of

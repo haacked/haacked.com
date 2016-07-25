@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Basketball Social Engineering Hoax"
+title: Basketball Social Engineering Hoax
 date: 2006-03-14 -0800
 comments: true
 disqus_identifier: 12088
 categories: []
+redirect_from: "/archive/2006/03/13/BasketballSocialEngineeringHoax.aspx/"
 ---
+
 Security expert [Bruce Schneier
 writes](http://www.schneier.com/blog/archives/2006/03/basketball_pran.html "Basketball Hoax")
 about a humorous, cruel, yet very clever social engineering hoax

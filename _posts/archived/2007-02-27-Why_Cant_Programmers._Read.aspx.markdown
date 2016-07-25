@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Why Can't Programmers... Read?"
+title: Why Can't Programmers... Read?
 date: 2007-02-27 -0800
 comments: true
 disqus_identifier: 18218
 categories: []
+redirect_from: "/archive/2007/02/26/Why_Cant_Programmers._Read.aspx/"
 ---
+
 UPDATE: This post was meant to be mostly tongue in cheek. I love
 programmers. Some of my best friends are programmers. Also, to be fair
 to the FizzBuzzers, the spec for this question is flawed, as are all

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Marshmallow-based speed-of-light measurator"
+title: Marshmallow-based speed-of-light measurator
 date: 2004-05-05 -0800
 comments: true
 disqus_identifier: 404
 categories: []
+redirect_from: "/archive/2004/05/04/marshmallow-based-speed-of-light-measurator.aspx/"
 ---
+
 ![Marshmallow Man](/images/marshmallowman.jpg)The physics geek and
 marshmallow lover in me thinks this is awesome.
 

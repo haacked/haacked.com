@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Humans Are Not Random Number Generators"
+title: Humans Are Not Random Number Generators
 date: 2005-10-12 -0800
 comments: true
 disqus_identifier: 10750
 categories: []
+redirect_from: "/archive/2005/10/11/humans-are-not-random-number-generators.aspx/"
 ---
+
 There’s an [interesting discussion in the
 comments](http://www.codinghorror.com/blog/archives/000413.html) on the
 [Coding Horror](http://www.codinghorror.com/blog/) blog in which Jeff

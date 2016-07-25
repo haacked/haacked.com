@@ -4,8 +4,11 @@ title: "[SQL] Stored ProcedureTo Generate Random Time of Day"
 date: 2006-04-21 -0800
 comments: true
 disqus_identifier: 12487
-categories: [sql]
+categories:
+- sql
+redirect_from: "/archive/2006/04/20/sqlfunctiontogeneraterandomtimeofday.aspx/"
 ---
+
 Here is a function that will generate a random time of day. Later I will
 show why I am posting this particular query and how I am using it. It
 comes in useful when trying create random scheduled jobs in SQL Server.

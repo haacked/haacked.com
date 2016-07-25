@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Drag and Drop an RSS (or ATOM) Link Into RSS Bandit"
+title: Drag and Drop an RSS (or ATOM) Link Into RSS Bandit
 date: 2005-01-24 -0800
 comments: true
 disqus_identifier: 2014
 categories: []
+redirect_from: "/archive/2005/01/23/drag-and-drop-an-rss-or-atom-link-into-rss-bandit.aspx/"
 ---
+
 Given that I've written much of the documentation for [RSS
 Bandit](http://www.rssbandit.org/) on the [documentation
 site](http://www.rssbandit.org/docs/) and have spent a lot of time in

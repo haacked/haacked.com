@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Introducing CaptainHook - A Subversion Hook Framework For .NET"
+title: Introducing CaptainHook - A Subversion Hook Framework For .NET
 date: 2006-07-27 -0800
 comments: true
 disqus_identifier: 14326
 categories: []
+redirect_from: "/archive/2006/07/26/introducingcaptainhookasubversionhookframeworkfor.net.aspx/"
 ---
+
 UPDATE: CaptainHook is now an [Open Source project on
 SourceForge](http://haacked.com/archive/2006/07/31/CaptainHookIsOnSourceForge.aspx "CaptainHook on SourceForge").
 

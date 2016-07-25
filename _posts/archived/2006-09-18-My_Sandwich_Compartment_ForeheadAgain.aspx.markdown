@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "My Sandwich Compartment Forehead"
+title: My Sandwich Compartment Forehead
 date: 2006-09-18 -0800
 comments: true
 disqus_identifier: 16802
 categories: []
+redirect_from: "/archive/2006/09/17/My_Sandwich_Compartment_ForeheadAgain.aspx/"
 ---
+
 [![CC Share Alike License:
 http://www.flickr.com/photos/bingramos/](http://haacked.com/images/haacked_com/WindowsLiveWriter/MySandwichCompartmentForehead_D036/sandwich_thumb1.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MySandwichCompartmentForehead_D036/sandwich3.jpg)
 For whatever reasons, I happen to be somewhat well endowed in the

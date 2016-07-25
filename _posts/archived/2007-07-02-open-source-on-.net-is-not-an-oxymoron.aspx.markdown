@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Open Source On .NET Is Not An Oxymoron"
+title: Open Source On .NET Is Not An Oxymoron
 date: 2007-07-02 -0800
 comments: true
 disqus_identifier: 18363
 categories: []
+redirect_from: "/archive/2007/07/01/open-source-on-.net-is-not-an-oxymoron.aspx/"
 ---
+
 I have a confession.
 
 I am an Open Source developer and my platform of choice is the .NET

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Dave Winer Misses The Point With Fahrenheit 9/11"
+title: Dave Winer Misses The Point With Fahrenheit 9/11
 date: 2004-06-30 -0800
 comments: true
 disqus_identifier: 711
 categories: []
+redirect_from: "/archive/2004/06/29/dave-winer-misses-the-point-with-fahrenheit-911.aspx/"
 ---
+
 ![Thermometer](/images/Thermometer.jpg)[Dave
 Winer](http://www.scripting.com/) the founder of RSS and a popular
 member of the so-called blogosphere writes:

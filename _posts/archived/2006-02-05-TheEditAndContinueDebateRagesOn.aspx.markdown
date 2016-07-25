@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Edit And Continue Debate Rages On"
+title: The Edit And Continue Debate Rages On
 date: 2006-02-05 -0800
 comments: true
 disqus_identifier: 11697
 categories: []
+redirect_from: "/archive/2006/02/04/TheEditAndContinueDebateRagesOn.aspx/"
 ---
+
 Looks like Jeff Atwood is not content to let dead dogs lie when he
 revisits [Edit and
 Continue](http://www.codinghorror.com/blog/archives/000507.html "Revisiting Edit And Continue").

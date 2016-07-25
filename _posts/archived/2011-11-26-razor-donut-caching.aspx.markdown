@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Razor Donut Caching"
+title: Razor Donut Caching
 date: 2011-11-26 -0800
 comments: true
 disqus_identifier: 18827
-categories: [asp.net,asp.net mvc,code,razor]
+categories:
+- asp.net
+- asp.net mvc
+- code
+- razor
+redirect_from: "/archive/2011/11/25/razor-donut-caching.aspx/"
 ---
+
 Donut caching, the ability to cache an entire page except for a small
 region of the page (or set of regions) has been conspicuously [absent
 from ASP.NET MVC since version

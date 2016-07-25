@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Mobile Phone Gaming"
+title: Mobile Phone Gaming
 date: 2005-06-08 -0800
 comments: true
 disqus_identifier: 4473
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2005/06/07/mobile-phone-gaming.aspx/"
 ---
+
 [This is what](http://www.eweek.com/article2/0,1759,1817011,00.asp) I
 was working on before the siren call of independent consulting lured me
 away.

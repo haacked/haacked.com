@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Turkish İ Problem and Why You Should Care"
+title: The Turkish İ Problem and Why You Should Care
 date: 2012-07-05 -0800
 comments: true
 disqus_identifier: 18861
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2012/07/04/turkish-i-problem-and-why-you-should-care.aspx/"
 ---
+
 Take a look at the following code.
 
 ```csharp

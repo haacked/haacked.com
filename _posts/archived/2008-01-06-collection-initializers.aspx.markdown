@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Collection Initializers"
+title: Collection Initializers
 date: 2008-01-06 -0800
 comments: true
 disqus_identifier: 18446
 categories: []
+redirect_from: "/archive/2008/01/05/collection-initializers.aspx/"
 ---
+
 File this in my *learn something new every day* bucket. I received an
 email from [Steve Maine](http://hyperthink.net/blog/ "Brain.Save()")
 after he read a blog post in which I discuss the anonymous object as

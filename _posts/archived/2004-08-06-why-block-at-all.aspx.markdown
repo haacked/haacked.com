@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Why Block At All?  Thoughts on threading and sockets"
+title: Why Block At All?  Thoughts on threading and sockets
 date: 2004-08-06 -0800
 comments: true
 disqus_identifier: 882
 categories: []
+redirect_from: "/archive/2004/08/05/why-block-at-all.aspx/"
 ---
+
 The path of least resistance when writing threading code as well as
 socket communications is to use techniques that cause indefinite
 blocking of some sort. Personally, I prefer never to block indefinitely.

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Idempotence Again and Again"
+title: Idempotence Again and Again
 date: 2005-10-25 -0800
 comments: true
 disqus_identifier: 11021
 categories: []
+redirect_from: "/archive/2005/10/24/idempotence-again-and-again.aspx/"
 ---
+
 Eric Lippert does a [great job of defining the
 term](http://blogs.msdn.com/ericlippert/archive/2005/10/26/483900.aspx)
 *Idempotent*. I’ve used this term many times both to sound smart and

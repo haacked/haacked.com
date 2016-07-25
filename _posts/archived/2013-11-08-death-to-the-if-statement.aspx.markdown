@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Death to the IF statement"
+title: Death to the IF statement
 date: 2013-11-08 -0800
 comments: true
 disqus_identifier: 18906
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2013/11/07/death-to-the-if-statement.aspx/"
 ---
+
 Over the past few years I’ve become more and more interested in
 functional programming concepts and the power, expressiveness, and
 elegance they hold.

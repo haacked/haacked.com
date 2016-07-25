@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Woman sues over Janet Jackon's breast (Reuters)"
+title: Woman sues over Janet Jackon's breast (Reuters)
 date: 2004-02-06 -0800
 comments: true
 disqus_identifier: 175
 categories: []
+redirect_from: "/archive/2004/02/05/woman-sues-over-janet-jackons-breast-reuters.aspx/"
 ---
+
 Oh my fucking lord...
 
 > Reuters - A Tennessee woman has filed a class action suit against

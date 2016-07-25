@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Weekend Update"
+title: Weekend Update
 date: 2004-04-07 -0800
 comments: true
 disqus_identifier: 306
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2004/04/06/weekend-update-Apr-2004.aspx/"
 ---
+
 ![Trump](/images/Trump.jpg) I don't know if you caught Saturday Night
 Live this weekend, but the Donald was hosting. He was a bombastic, self
 aggrandizing, braggart in true Trump fashion. For some reason, it just

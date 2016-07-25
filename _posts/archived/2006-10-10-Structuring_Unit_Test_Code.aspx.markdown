@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Structuring Unit Test Code"
+title: Structuring Unit Test Code
 date: 2006-10-10 -0800
 comments: true
 disqus_identifier: 17988
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2006/10/09/Structuring_Unit_Test_Code.aspx/"
 ---
+
 UPDATE: I’ve since supplemented this [with another
 approach](http://haacked.com/archive/2012/01/01/structuring-unit-tests.aspx "Structuring unit tests").
 

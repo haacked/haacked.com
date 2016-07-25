@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Going Independent Status Update"
+title: Going Independent Status Update
 date: 2005-03-21 -0800
 comments: true
 disqus_identifier: 2415
 categories: []
+redirect_from: "/archive/2005/03/20/going-independent-status-update.aspx/"
 ---
+
 In case you were wondering, I thought I'd tell y'all how it's going.
 First of all, I've somehow picked up a southern accent as evidenced by
 my use of "y'all".

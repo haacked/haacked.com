@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Visual Studio Smart Tag Expansion Tip"
+title: Visual Studio Smart Tag Expansion Tip
 date: 2008-06-23 -0800
 comments: true
 disqus_identifier: 18496
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2008/06/22/visual-studio-smart-tag-expansion-tip.aspx/"
 ---
+
 I used to find the smart tag really annoying in Visual Studio because it
 is such a small target to hit with the mouse. Silly me, trying to expand
 a smart tag with a mouse.

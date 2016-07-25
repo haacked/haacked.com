@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "What Housing Bubble?"
+title: What Housing Bubble?
 date: 2005-10-31 -0800
 comments: true
 disqus_identifier: 11052
 categories: []
+redirect_from: "/archive/2005/10/30/WhatHousingBubble.aspx/"
 ---
+
 The subject of this post is the title of an interesting article on page
 58 of this month’s Wired magazine. The author, Patrick Di Justo, shows
 that compared to 1950 prices, we are paying more of our annual income

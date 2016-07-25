@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Four Good Years And The Prospect Of Forty More"
+title: Four Good Years And The Prospect Of Forty More
 date: 2006-09-12 -0800
 comments: true
 disqus_identifier: 16482
 categories: []
+redirect_from: "/archive/2006/09/11/Four_Good_Years_And_The_Prospect_Of_Forty_More.aspx/"
 ---
+
 Just a little shout out to my wife to wish us a happy anniversary. 
 We’ve been married for four years and each one has been better than the
 last.  I love you honey!

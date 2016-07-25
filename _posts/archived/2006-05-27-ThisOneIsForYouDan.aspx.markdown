@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "This One Is For You Dan"
+title: This One Is For You Dan
 date: 2006-05-27 -0800
 comments: true
 disqus_identifier: 13009
 categories: []
+redirect_from: "/archive/2006/05/26/ThisOneIsForYouDan.aspx/"
 ---
+
 Last night we went out with friends to celebrate Akumi’s birthday.
 Somehow the topic of my blog came up in conversation. Perhaps I have a
 tendency to interject the topic of “blogging” every chance I get. I can

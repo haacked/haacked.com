@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Asynchronous Fire and Forget With Lambdas"
+title: Asynchronous Fire and Forget With Lambdas
 date: 2009-01-09 -0800
 comments: true
 disqus_identifier: 18572
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2009/01/08/asynchronous-fire-and-forget-with-lambdas.aspx/"
 ---
+
 I’ve been having trouble getting to sleep lately, so I thought last
 night that I would put that to use and hack on
 [Subtext](http://subtextproject.com/ "Subtext Project Website") a bit.

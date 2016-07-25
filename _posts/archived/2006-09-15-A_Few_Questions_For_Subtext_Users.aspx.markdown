@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A Few Questions For Subtext Users"
+title: A Few Questions For Subtext Users
 date: 2006-09-15 -0800
 comments: true
 disqus_identifier: 16681
 categories: []
+redirect_from: "/archive/2006/09/14/A_Few_Questions_For_Subtext_Users.aspx/"
 ---
+
 ![Subtext
 Logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/AFewQuestionsForSubtextUsers_194/SubtextLogo6.png)
 If you are using Subtext, or are using .TEXT and plan to use Subtext I

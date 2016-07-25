@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Dealing With Denial of Service Attacks"
+title: Dealing With Denial of Service Attacks
 date: 2008-08-22 -0800
 comments: true
 disqus_identifier: 18525
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2008/08/21/dealing-with-denial-of-service-attacks.aspx/"
 ---
+
 As Scott [wrote last
 week](http://www.hanselman.com/blog/HackedAndIDidntLikeItURLScanIsStepZero.aspx "Hacked!"),
 using a punny title I have to admire, he and I (among many others) were

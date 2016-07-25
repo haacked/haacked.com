@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "56 Deceits in Fahrenheit 9/11"
+title: 56 Deceits in Fahrenheit 9/11
 date: 2004-07-16 -0800
 comments: true
 disqus_identifier: 829
 categories: []
+redirect_from: "/archive/2004/07/15/56-deceits-in-fahrenheit-911.aspx/"
 ---
+
 Earlier I posted the [factual
 backup](http://haacked.com/archive/2004/07/12/806.aspx) from [Michael
 Moore's website](http://www.michaelmoore.com/) concerning Fahrenheit

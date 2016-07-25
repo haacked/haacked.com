@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Slight Redesign of Haacked.com"
+title: Slight Redesign of Haacked.com
 date: 2005-04-04 -0800
 comments: true
 disqus_identifier: 2538
 categories: []
+redirect_from: "/archive/2005/04/03/slight-redesign-of-haackedcom.aspx/"
 ---
+
 So I spent a bit of time today to "refresh" the look of my site. On the
 face of it, it's not a dramatic change, but under the hood, I tore out
 the table driven layout and replaced it with a CSS driven layout.

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "An Inconvenient Truth"
+title: An Inconvenient Truth
 date: 2006-06-25 -0800
 comments: true
 disqus_identifier: 13503
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2006/06/24/AnInconvenientTruth.aspx/"
 ---
+
 ![Movie Poster](http://haacked.com/images/AnInconvenientTruth.jpg)
 Watched a free screening of this last night in Downtown Los Angeles as
 part of a film festival. Prior to the screening, Jon Bon Jovi and Richie

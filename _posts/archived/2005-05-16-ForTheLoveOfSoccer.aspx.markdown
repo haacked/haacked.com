@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "For The Love of Football (Soccer)"
+title: For The Love of Football (Soccer)
 date: 2005-05-16 -0800
 comments: true
 disqus_identifier: 3254
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2005/05/15/ForTheLoveOfSoccer.aspx/"
 ---
+
 ![Thierry Henry](/images/ThierryHenry.jpg) One of my friends from our weekend pick-up game sent around this quote from Nick Hornby's novel, [Fever Pitch](http://www.amazon.com/exec/obidos/tg/detail/-/1573226882/104-6358879-1601531?v=glance)
 (which was regrettably turned into a movie about baseball, rather than soccer as it was written).
 

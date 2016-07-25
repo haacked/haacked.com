@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Comparing Moq to Rhino Mocks"
+title: Comparing Moq to Rhino Mocks
 date: 2008-03-23 -0800
 comments: true
 disqus_identifier: 18467
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2008/03/22/comparing-moq-to-rhino-mocks.aspx/"
 ---
+
 UPDATE: I should have entitled this “Comparing Rhino Mocks and MoQ for
 State Based Testing”. I tend to prefer [state-based testing over
 interaction based

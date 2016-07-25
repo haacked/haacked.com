@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "One Year At GitHub"
+title: One Year At GitHub
 date: 2012-12-07 -0800
 comments: true
 disqus_identifier: 18876
-categories: [company culture,personal,github]
+categories:
+- company culture
+- personal
+- github
+redirect_from: "/archive/2012/12/06/one-year-at-github.aspx/"
 ---
+
 As of today, I’ve been a GitHub employee for one year and I gotta tell
 you…
 

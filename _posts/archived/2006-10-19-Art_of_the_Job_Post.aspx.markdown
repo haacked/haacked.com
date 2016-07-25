@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Art of the Job Post"
+title: Art of the Job Post
 date: 2006-10-19 -0800
 comments: true
 disqus_identifier: 18098
 categories: []
+redirect_from: "/archive/2006/10/18/Art_of_the_Job_Post.aspx/"
 ---
+
 [![Mona
 Lisa](http://haacked.com/images/haacked_com/WindowsLiveWriter/ArtoftheJobPost_CBAE/monalisa_thumb%5B1%5D.gif)](http://haacked.com/images/haacked_com/WindowsLiveWriter/ArtoftheJobPost_CBAE/monalisa%5B3%5D.gif)
 When I was a bright eyed bushy tailed senior in

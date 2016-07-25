@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "ASP.NET MVC For Visual Studio 2010 Beta 1"
+title: ASP.NET MVC For Visual Studio 2010 Beta 1
 date: 2009-05-18 -0800
 comments: true
 disqus_identifier: 18618
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from: "/archive/2009/05/17/aspnetmvc-vs2010-beta1.aspx/"
 ---
+
 This post is now outdated
 
 I apologize for not blogging this over the weekend as I had planned, but

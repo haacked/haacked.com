@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "CSS Based Printing Tip"
+title: CSS Based Printing Tip
 date: 2006-03-13 -0800
 comments: true
 disqus_identifier: 12071
 categories: []
+redirect_from: "/archive/2006/03/12/CSSBasedPrintingTip.aspx/"
 ---
+
 This is a follow up tip to my post on [Implementing CSS Based
 Printing](http://haacked.com/archive/2006/03/09/ImplementingCSSBasedPrinting.aspx "Printing Article").
 

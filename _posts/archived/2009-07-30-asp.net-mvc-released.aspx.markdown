@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "ASP.NET MVC 2 Preview 1 Released"
+title: ASP.NET MVC 2 Preview 1 Released
 date: 2009-07-30 -0800
 comments: true
 disqus_identifier: 18630
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from: "/archive/2009/07/29/asp.net-mvc-released.aspx/"
 ---
+
 UPDATE: This post is outdated. ASP.NET MVC 2 RTM was [released in
 March](http://haacked.com/archive/2010/03/11/aspnet-mvc2-released.aspx "ASP.NET MVC 2 RTM").
 

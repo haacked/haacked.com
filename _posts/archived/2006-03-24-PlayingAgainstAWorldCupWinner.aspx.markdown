@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Playing Against A World Cup Winner"
+title: Playing Against A World Cup Winner
 date: 2006-03-24 -0800
 comments: true
 disqus_identifier: 12184
 categories: []
+redirect_from: "/archive/2006/03/23/PlayingAgainstAWorldCupWinner.aspx/"
 ---
+
 ![LeBoeuf](http://haacked.com/images/LeBoeuf.jpg) You Europeans ought to
 appreciate this one.
 

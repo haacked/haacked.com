@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Greatness"
+title: Greatness
 date: 2005-12-06 -0800
 comments: true
 disqus_identifier: 11307
 categories: []
+redirect_from: "/archive/2005/12/05/greatness.aspx/"
 ---
+
 ![The Greatest](http://haacked.com/images/TheGreatest.jpg) [Wesner
 writes
 that](http://wesnerm.blogs.com/net_undocumented/2005/12/think_big.html)

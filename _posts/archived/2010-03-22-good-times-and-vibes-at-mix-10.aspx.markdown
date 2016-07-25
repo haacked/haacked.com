@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Good Times and Vibes at Mix 10"
+title: Good Times and Vibes at Mix 10
 date: 2010-03-22 -0800
 comments: true
 disqus_identifier: 18691
-categories: [personal,code]
+categories:
+- personal
+- code
+redirect_from: "/archive/2010/03/21/good-times-and-vibes-at-mix-10.aspx/"
 ---
+
 Last week I spent a few days in Las Vegas attending the [Mix 10
 conference](http://live.visitmix.com/ "Mix 10 website"). Mix is billed
 as …

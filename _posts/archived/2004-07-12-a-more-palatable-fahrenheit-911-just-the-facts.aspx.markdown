@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A More Palatable Fahrenheit 9/11, Just the Facts..."
+title: A More Palatable Fahrenheit 9/11, Just the Facts...
 date: 2004-07-12 -0800
 comments: true
 disqus_identifier: 806
 categories: []
+redirect_from: "/archive/2004/07/11/a-more-palatable-fahrenheit-911-just-the-facts.aspx/"
 ---
+
 This may be a more palatable way to understand Fahrenheit 9/11 for many
 who are not fans of Michael Moore. His website has a [list of the
 facts](http://www.michaelmoore.com/warroom/f911notes/) he presents in

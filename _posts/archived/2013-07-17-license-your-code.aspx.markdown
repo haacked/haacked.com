@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "License your code"
+title: License your code
 date: 2013-07-17 -0800
 comments: true
 disqus_identifier: 18896
-categories: [open source]
+categories:
+- open source
+redirect_from: "/archive/2013/07/16/license-your-code.aspx/"
 ---
+
 A while back I wrote a riveting 3-part developer’s guide to copyright
 law and open source licensing for developers.
 

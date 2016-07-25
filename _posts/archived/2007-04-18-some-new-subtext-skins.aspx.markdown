@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Some New Subtext Skins"
+title: Some New Subtext Skins
 date: 2007-04-18 -0800
 comments: true
 disqus_identifier: 18287
 categories: []
+redirect_from: "/archive/2007/04/17/some-new-subtext-skins.aspx/"
 ---
+
 [Tim Heuer](http://timheuer.com/blog/ "Tim Heuer’s Blog") has been on a
 tear lately submitting some great new skins to the [Subtext Skin
 Showcase](http://subtextskins.com/Home/SkinShowcase/tabid/156/Default.aspx "Subtext Skin Showcase"),

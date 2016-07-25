@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "I Want This Shirt For My Son"
+title: I Want This Shirt For My Son
 date: 2007-03-18 -0800
 comments: true
 disqus_identifier: 18252
-categories: [personal,humor]
+categories:
+- personal
+- humor
+redirect_from: "/archive/2007/03/17/i-want-this-shirt-for-my-son.aspx/"
 ---
+
 ![Baby Character Sheet for Level 1
 Human](http://haacked.com/images/haacked_com/WindowsLiveWriter/INeedToFindThisShirtForMySon_97A2/d_and_d_baby_shirt13.jpg)
 

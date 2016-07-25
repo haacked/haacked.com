@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "CSS URL References And URL Rewriting"
+title: CSS URL References And URL Rewriting
 date: 2006-01-12 -0800
 comments: true
 disqus_identifier: 11480
 categories: []
+redirect_from: "/archive/2006/01/11/CSSURLReferencesAndURLRewriting.aspx/"
 ---
+
 I can get a bit overboard with my virtual paths. I tend to prefer
 virtual paths over relative paths since they feel safer to use. For
 example, when applying a background image via CSS, I will tend to do

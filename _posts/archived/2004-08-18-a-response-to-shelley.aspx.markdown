@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A Response To Shelley"
+title: A Response To Shelley
 date: 2004-08-18 -0800
 comments: true
 disqus_identifier: 938
 categories: []
+redirect_from: "/archive/2004/08/17/a-response-to-shelley.aspx/"
 ---
+
 Regarding my [post on Women in
 XML](http://haacked.com/archive/2004/08/18/935.aspx) which is really a
 post about women in software industry,

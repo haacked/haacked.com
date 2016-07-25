@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "By This Criteria, I Must Be Awesome"
+title: By This Criteria, I Must Be Awesome
 date: 2005-08-27 -0800
 comments: true
 disqus_identifier: 9724
 categories: []
+redirect_from: "/archive/2005/08/26/by-this-criteria-i-must-be-awesome.aspx/"
 ---
+
 [Jeff Atwood
 writes](http://www.codinghorror.com/blog/archives/000373.html) that
 truly great programmers are not only lazy, but dumb too.

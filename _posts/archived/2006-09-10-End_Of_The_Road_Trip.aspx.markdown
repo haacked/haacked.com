@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "End Of The Road Trip"
+title: End Of The Road Trip
 date: 2006-09-10 -0800
 comments: true
 disqus_identifier: 16437
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2006/09/09/End_Of_The_Road_Trip.aspx/"
 ---
+
 Update: You can click on the images (except the vegas one) to see larger
 pics.
 

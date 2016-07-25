@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "They're Hiring"
+title: They're Hiring
 date: 2005-03-30 -0800
 comments: true
 disqus_identifier: 2506
 categories: []
+redirect_from: "/archive/2005/03/29/theyre-hiring.aspx/"
 ---
+
 I will neither confirm nor deny that this is where I used to work before
 going independent. I'll only say that they'll be doing some interesting
 work with .NET and it's worth checking out.

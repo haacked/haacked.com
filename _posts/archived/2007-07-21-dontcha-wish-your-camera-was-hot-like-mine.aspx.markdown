@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Dontcha Wish Your Camera Was Hot Like Mine"
+title: Dontcha Wish Your Camera Was Hot Like Mine
 date: 2007-07-21 -0800
 comments: true
 disqus_identifier: 18368
 categories: []
+redirect_from: "/archive/2007/07/20/dontcha-wish-your-camera-was-hot-like-mine.aspx/"
 ---
+
 A little while back [Scott
 Watermasysk](http://scottwater.com/blog/ "Scott Watermasysk's blog"),
 preparing for the arrival of his first child, [asked for

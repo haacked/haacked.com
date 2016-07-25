@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Question For You Dependency Injection Buffs"
+title: Question For You Dependency Injection Buffs
 date: 2007-11-27 -0800
 comments: true
 disqus_identifier: 18425
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2007/11/26/question-for-you-dependency-injection-buffs.aspx/"
 ---
+
 I’m currently doing some app building with ASP.NET MVC in which I try to
 cover a bunch of different scenarios. One scenario in particular I
 wanted to cover is approaching an application using a Test Driven

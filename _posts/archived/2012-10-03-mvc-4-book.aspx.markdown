@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "The ASP.NET MVC 4 Book Is Available!"
+title: The ASP.NET MVC 4 Book Is Available!
 date: 2012-10-03 -0800
 comments: true
 disqus_identifier: 18870
-categories: [asp.net mvc,blogging,code]
+categories:
+- asp.net mvc
+- blogging
+- code
+redirect_from: "/archive/2012/10/02/mvc-4-book.aspx/"
 ---
+
 When someone says they want to write a technical book, I take a hammer
 and slam it on the aspiring author’s thumb and ask “How do you like
 that?” If the answer is, “Very much! May I have another.” This person is

@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "ASP.NET MVC Update"
+title: ASP.NET MVC Update
 date: 2008-02-12 -0800
 comments: true
 disqus_identifier: 18456
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from: "/archive/2008/02/11/asp.net-mvc-update.aspx/"
 ---
+
 By the way my blogging frequency has declined, you can guess I’ve been
 quite busy here at Microsoft preparing for the next release of ASP.NET
 MVC.

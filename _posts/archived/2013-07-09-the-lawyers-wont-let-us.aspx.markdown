@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Lawyers Won&#8217;t Let Us"
+title: The Lawyers Won&#8217;t Let Us
 date: 2013-07-09 -0800
 comments: true
 disqus_identifier: 18895
-categories: [company culture]
+categories:
+- company culture
+redirect_from: "/archive/2013/07/08/the-lawyers-wont-let-us.aspx/"
 ---
+
 A finely honed bullshit detector is a benefit to everyone. Let’s try a
 hypothetical conversation to test yours!
 

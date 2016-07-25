@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "I'm Running .TEXT"
+title: I'm Running .TEXT
 date: 2004-12-27 -0800
 comments: true
 disqus_identifier: 1774
 categories: []
+redirect_from: "/archive/2004/12/26/im-running-text.aspx/"
 ---
+
 In case you're wondering (and I know at least one of you is), my blog is
 hosted at [WebHost4Life](http://www.webHost4Life.com) and is running
 .Text version 0.95 (or is it .96?). I chose it over DasBlog because of

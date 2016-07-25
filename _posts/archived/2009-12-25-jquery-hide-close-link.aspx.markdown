@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "jQuery Hide/Close Link"
+title: jQuery Hide/Close Link
 date: 2009-12-25 -0800
 comments: true
 disqus_identifier: 18671
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2009/12/24/jquery-hide-close-link.aspx/"
 ---
+
 UPDATE (12/26): I updated this post to use the `href` instead of the
 `rel` attribute
 

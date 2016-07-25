@@ -1,13 +1,18 @@
 ---
 layout: post
-title: "Take Charge of Your Security"
+title: Take Charge of Your Security
 date: 2009-02-07 -0800
 comments: true
 disqus_identifier: 18586
 redirect_from:
-  - /archive/0001/01/01/take-charge-of-your-security.aspx/
-categories: [asp.net mvc,asp.net,code]
+- "/archive/0001/01/01/take-charge-of-your-security.aspx/"
+- "/archive/2009/02/06/take-charge-of-your-security.aspx/"
+categories:
+- asp.net mvc
+- asp.net
+- code
 ---
+
 Today I read something where someone was comparing Web Forms to [ASP.NET
 MVC](http://asp.net/mvc "ASP.NET Website") and suggested that Web Forms
 does a lot more than ASP.NET MVC to protect your site from malicious

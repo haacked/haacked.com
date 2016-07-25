@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Weekend Update"
+title: Weekend Update
 date: 2005-08-21 -0800
 comments: true
 disqus_identifier: 9599
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2005/08/20/weekend-update-Aug-2005.aspx/"
 ---
+
 Putting the ball in the back of the net in a competitive game of Soccer
 is one of the most exhilarating feelings around. Why, I think it can
 feel as good as ... well I won’t go there. Suffice to say, it’s a great

@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "The Dangers of Implementing Recurring Background Tasks In ASP.NET"
+title: The Dangers of Implementing Recurring Background Tasks In ASP.NET
 date: 2011-10-16 -0800
 comments: true
 disqus_identifier: 18819
-categories: [asp.net,code]
+categories:
+- asp.net
+- code
+redirect_from: "/archive/2011/10/15/the-dangers-of-implementing-recurring-background-tasks-in-asp-net.aspx/"
 ---
+
 I like to live life on the wild side. No, I don’t base jump off of
 buildings or invest in speculative tranches made up of junk stock
 derivatives. What I do is attempt to run recurring background tasks

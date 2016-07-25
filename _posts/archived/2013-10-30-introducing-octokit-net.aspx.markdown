@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Introducing Octokit.NET"
+title: Introducing Octokit.NET
 date: 2013-10-30 -0800
 comments: true
 disqus_identifier: 18903
-categories: [github]
+categories:
+- github
+redirect_from: "/archive/2013/10/29/introducing-octokit-net.aspx/"
 ---
+
 Today on the GitHub blog, we announced [the first release of
 Octokit.net](https://github.com/blog/1676-introducing-octokit-net "Introducing Octokit.net").
 

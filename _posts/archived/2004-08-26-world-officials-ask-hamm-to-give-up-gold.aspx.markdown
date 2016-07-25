@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "World Officials Ask Hamm to Give Up Gold"
+title: World Officials Ask Hamm to Give Up Gold
 date: 2004-08-26 -0800
 comments: true
 disqus_identifier: 983
 categories: []
+redirect_from: "/archive/2004/08/25/world-officials-ask-hamm-to-give-up-gold.aspx/"
 ---
+
 Riiight. You know kid, you did nothing wrong, but we'd like you to give
 back that gold medal anyways. We mistakenly gave it to you and we'd love
 it if you corrected that mistake for us. While you're at it, I also had

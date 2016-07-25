@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Olympic Ceremonies Music"
+title: Olympic Ceremonies Music
 date: 2004-11-09 -0800
 comments: true
 disqus_identifier: 1589
 categories: []
+redirect_from: "/archive/2004/11/08/olympic-ceremonies-music.aspx/"
 ---
+
 ![Parade of the
 Athletes](http://haacked.com/images/ParadeOfTheAthletes.jpg)When the
 Olympics occurred, one of my favorite DJs spun for the opening

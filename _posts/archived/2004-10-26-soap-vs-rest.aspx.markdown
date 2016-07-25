@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "SOAP vs. REST in the Real World"
+title: SOAP vs. REST in the Real World
 date: 2004-10-26 -0800
 comments: true
 disqus_identifier: 1490
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2004/10/25/soap-vs-rest.aspx/"
 ---
+
 There’s a lot of focus these days on SOAP vs REST and the proliferation
 of WS-\* specifications. Sometimes you wonder if WS-\* solves problems
 that aren't all that common or have already been solved.

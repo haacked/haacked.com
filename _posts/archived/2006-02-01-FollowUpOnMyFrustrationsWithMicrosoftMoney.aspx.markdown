@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Follow Up On My Frustrations With Microsoft Money"
+title: Follow Up On My Frustrations With Microsoft Money
 date: 2006-02-01 -0800
 comments: true
 disqus_identifier: 11638
 categories: []
+redirect_from: "/archive/2006/01/31/FollowUpOnMyFrustrationsWithMicrosoftMoney.aspx/"
 ---
+
 Last month, I wrote about some frustrations I had with [Microsoft
 Money](http://haacked.com/archive/2006/01/17/FrustratedWithMicrosoftMoney.aspx "Article on frustrations with Microsoft Money").
 I am pleased to report that everything has been resolved and I want to

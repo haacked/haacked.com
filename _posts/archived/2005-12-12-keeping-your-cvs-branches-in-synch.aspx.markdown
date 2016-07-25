@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Keeping Your CVS Branches In Synch"
+title: Keeping Your CVS Branches In Synch
 date: 2005-12-12 -0800
 comments: true
 disqus_identifier: 11332
 categories: []
+redirect_from: "/archive/2005/12/11/keeping-your-cvs-branches-in-synch.aspx/"
 ---
+
 [![Branching
 Diagram](http://haacked.com/images/CVS_HowTo_SyncBranches.png)](http://stevenharman.net/blog/archive/2005/11/01/keepCVSBranchInSync.aspx)
 I can’t believe I didn’t notice this when he first published it (I only

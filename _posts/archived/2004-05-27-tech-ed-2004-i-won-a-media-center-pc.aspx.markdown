@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tech-Ed 2004: I Won a Media Center PC!!!"
+title: 'Tech-Ed 2004: I Won a Media Center PC!!!'
 date: 2004-05-27 -0800
 comments: true
 disqus_identifier: 493
 categories: []
+redirect_from: "/archive/2004/05/26/tech-ed-2004-i-won-a-media-center-pc.aspx/"
 ---
+
 Last night I attended the Microsoft Office System party at the Hard Rock
 Cafe. The "Unauthorized Rolling Stones" were playing and the crowd was
 into it. I was primarily there for the food at first, but after a few

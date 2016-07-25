@@ -5,7 +5,9 @@ date: 2006-03-23 -0800
 comments: true
 disqus_identifier: 12144
 categories: []
+redirect_from: "/archive/2006/03/22/Mix06TheValueOfAPartialMessageWithIndigo.aspx/"
 ---
+
 I was involved in a 5 AM breakfast conversation (a little late night
 snack before we all turned in for the evening) with [Clemens
 Vasters](http://staff.newtelligence.net/clemensv/ "Clemens Vasters Blog"),

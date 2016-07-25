@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Gain Control Of Your Control State"
+title: Gain Control Of Your Control State
 date: 2007-03-16 -0800
 comments: true
 disqus_identifier: 18247
-categories: [asp.net,code]
+categories:
+- asp.net
+- code
+redirect_from: "/archive/2007/03/15/gain-control-of-your-control-state.aspx/"
 ---
+
 Some people think the [`ViewState` is the spawn of the
 devil](http://staff.interesource.com/james/aug06/viewstate_postbacks_harmful.htm "ASP.NET Postbacks and ViewState Considered Harmful").
 Not one to be afraid of being in bed with the devil, I feel a tad bit

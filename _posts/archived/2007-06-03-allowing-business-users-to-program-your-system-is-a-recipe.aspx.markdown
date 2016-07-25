@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Allowing Business Users To Program Your System Is A Recipe For Disaster"
+title: Allowing Business Users To Program Your System Is A Recipe For Disaster
 date: 2007-06-03 -0800
 comments: true
 disqus_identifier: 18338
 categories: []
+redirect_from: "/archive/2007/06/02/allowing-business-users-to-program-your-system-is-a-recipe.aspx/"
 ---
+
 I don’t know about you, but every company I’ve ever worked at had a Fort
 Knox like system in place for deploying code to the production server.
 Typically, deployment looks something like this (some with more steps,

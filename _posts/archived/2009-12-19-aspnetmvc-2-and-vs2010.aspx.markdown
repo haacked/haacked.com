@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "ASP.NET MVC 2 and Visual Studio 2010"
+title: ASP.NET MVC 2 and Visual Studio 2010
 date: 2009-12-19 -0800
 comments: true
 disqus_identifier: 18669
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2009/12/18/aspnetmvc-2-and-vs2010.aspx/"
 ---
+
 When we [released ASP.NET MVC 2
 Beta](http://haacked.com/archive/2009/11/17/asp.net-mvc-2-beta-released.aspx "ASP.NET MVC 2 Beta Released")
 back in November, I addressed the issue of support for Visual Studio

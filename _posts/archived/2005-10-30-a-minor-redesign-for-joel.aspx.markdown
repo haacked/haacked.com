@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A Minor Redesign for Joel"
+title: A Minor Redesign for Joel
 date: 2005-10-30 -0800
 comments: true
 disqus_identifier: 11049
 categories: []
+redirect_from: "/archive/2005/10/29/a-minor-redesign-for-joel.aspx/"
 ---
+
 Software pundit [Joel Spolsky](http://www.joelonsoftware.com/) finally
 [added titles](http://www.joelonsoftware.com/items/2005/10/30.html) to
 his RSS feeds (among other site improvements) and it’s about time. The

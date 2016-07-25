@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Teaching Solid HTML and CSS Production Work"
+title: Teaching Solid HTML and CSS Production Work
 date: 2005-10-11 -0800
 comments: true
 disqus_identifier: 10725
 categories: []
+redirect_from: "/archive/2005/10/10/teaching-solid-html-and-css-production-work.aspx/"
 ---
+
 I want to teach a friend everything I know about HTML Production work
 (which won’t take long). By production work, I mean the process of
 receiving a Photoshop file, cutting it up, and producing nice clean

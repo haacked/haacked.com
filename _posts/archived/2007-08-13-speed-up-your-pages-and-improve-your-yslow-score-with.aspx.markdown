@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Speed Up Your Pages And Improve Your YSlow Score With The Coral Content Distribution Network"
+title: Speed Up Your Pages And Improve Your YSlow Score With The Coral Content Distribution
+  Network
 date: 2007-08-13 -0800
 comments: true
 disqus_identifier: 18381
 categories: []
+redirect_from: "/archive/2007/08/12/speed-up-your-pages-and-improve-your-yslow-score-with.aspx/"
 ---
+
 UPDATE: Using Coral CDN to serve up my images and stylesheets ended up
 being a mistake and actually *slowed* down my site. I’d recommend using
 Amazon S3 instead if you need high bandwidth fast serving of static

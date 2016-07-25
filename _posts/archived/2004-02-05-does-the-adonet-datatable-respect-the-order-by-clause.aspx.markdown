@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Does the ADO.NET DataTable respect the Order By Clause?"
+title: Does the ADO.NET DataTable respect the Order By Clause?
 date: 2004-02-05 -0800
 comments: true
 disqus_identifier: 168
 categories: []
+redirect_from: "/archive/2004/02/04/does-the-adonet-datatable-respect-the-order-by-clause.aspx/"
 ---
+
 Can somebody out there point me to a reference that explicitly says
 whether or not we can count on the underlying order of a DataTable rows
 to be the same order that is returned by a SQL statement or a Stored

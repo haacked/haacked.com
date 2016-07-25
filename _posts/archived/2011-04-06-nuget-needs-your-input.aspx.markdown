@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "NuGet Needs Your Input"
+title: NuGet Needs Your Input
 date: 2011-04-06 -0800
 comments: true
 disqus_identifier: 18772
-categories: [nuget,open source,code]
+categories:
+- nuget
+- open source
+- code
+redirect_from: "/archive/2011/04/05/nuget-needs-your-input.aspx/"
 ---
+
 Hi there, it’s time to shine the bat-signal, or better yet, the
 NuGet-Signal!
 

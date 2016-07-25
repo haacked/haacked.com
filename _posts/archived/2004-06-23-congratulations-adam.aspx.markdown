@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Congratulations Adam!"
+title: Congratulations Adam!
 date: 2004-06-23 -0800
 comments: true
 disqus_identifier: 672
 categories: []
+redirect_from: "/archive/2004/06/22/congratulations-adam.aspx/"
 ---
+
 [Xamlon, Inc](http://www.xamlon.com/)
 [announces](http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20040623005199&newsLang=en)
 that [Adam Kinney](http://adamkinney.com/), aka Mr. Longhorn Blogs, has

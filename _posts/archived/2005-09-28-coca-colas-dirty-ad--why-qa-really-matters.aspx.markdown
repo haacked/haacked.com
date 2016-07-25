@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Coca Cola's Dirty Ad - Why QA Really Matters"
+title: Coca Cola's Dirty Ad - Why QA Really Matters
 date: 2005-09-28 -0800
 comments: true
 disqus_identifier: 10438
 categories: []
+redirect_from: "/archive/2005/09/27/coca-colas-dirty-ad--why-qa-really-matters.aspx/"
 ---
+
 [Saw this](http://www.snopes.com/cokelore/poster.asp) on the Snopes site
 about a Coke ad that Coca Cola released and then had to recall because
 of a hidden risqué image. Pretty damn funny. It just shows that

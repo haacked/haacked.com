@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Web Applications and Local Document Storage"
+title: Web Applications and Local Document Storage
 date: 2005-11-02 -0800
 comments: true
 disqus_identifier: 11098
 categories: []
+redirect_from: "/archive/2005/11/01/web-applications-and-local-document-storage.aspx/"
 ---
+
 Rob Howard asks the question *[Is “Smart Client” a “Dumb
 Idea”](http://weblogs.asp.net/rhoward/archive/2005/11/03/429355.aspx)*.
 Obviously I don’t necessarily think so as I pointed out in my post

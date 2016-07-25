@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Freshest BreakDancing Ever!"
+title: The Freshest BreakDancing Ever!
 date: 2005-03-02 -0800
 comments: true
 disqus_identifier: 2240
 categories: []
+redirect_from: "/archive/2005/03/01/FreshestBreakDancingEver.aspx/"
 ---
+
 A coworker sent me [this
 video](http://haacked.com.nyud.net:8090/videos/awesome_breakdance.wmv)
 of some of the most amazing breakdancing I've seen. And no, this isn't

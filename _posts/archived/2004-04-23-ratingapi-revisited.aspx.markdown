@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "RatingAPI Revisited"
+title: RatingAPI Revisited
 date: 2004-04-23 -0800
 comments: true
 disqus_identifier: 359
 categories: []
+redirect_from: "/archive/2004/04/22/ratingapi-revisited.aspx/"
 ---
+
 After reading up on the [CommentAPI](http://wellformedweb.org/story/9),
 if I were to write the RatingAPI, I'd pretty much plagiarize the
 CommentAPI but only make the following changes:

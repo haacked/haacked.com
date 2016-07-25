@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Downloading the Latest Source for Subtext from CVS"
+title: Downloading the Latest Source for Subtext from CVS
 date: 2005-06-17 -0800
 comments: true
 disqus_identifier: 5155
 categories: []
+redirect_from: "/archive/2005/06/16/downloading-the-latest-source-for-subtext-from-cvs.aspx/"
 ---
+
 UPDATE: Sorry, but my previous instructions contained some errors. I’ll
 make it up to you. In the meanwhile, here are the corrections.
 

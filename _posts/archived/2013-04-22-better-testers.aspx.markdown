@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Better Testers"
+title: Better Testers
 date: 2013-04-22 -0800
 comments: true
 disqus_identifier: 18888
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2013/04/21/better-testers.aspx/"
 ---
 
 In a recent post, [Test Better](http://haacked.com/archive/2013/03/04/test-better.aspx), I suggested that developers can and ought do a better job of testing their own code. *If you haven’t read it, I recommend you read that post first. I’m totally not biased in saying this at all. GO DO IT ALREADY!*

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Bill Bryson Scoops Prize -- for Science Writing"
+title: Bill Bryson Scoops Prize -- for Science Writing
 date: 2004-06-14 -0800
 comments: true
 disqus_identifier: 625
 categories: []
+redirect_from: "/archive/2004/06/13/bill-bryson-scoops-prize--for-science-writing.aspx/"
 ---
+
 ![A Short History of Nearly Everything](/images/ShortHistory.jpg) I'm
 right in the middle of reading this book right now and I can't heap
 enough praise upon it. This is a worthwhile read.

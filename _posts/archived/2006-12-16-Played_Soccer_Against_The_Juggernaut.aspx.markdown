@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Played Soccer Against The Juggernaut"
+title: Played Soccer Against The Juggernaut
 date: 2006-12-16 -0800
 comments: true
 disqus_identifier: 18171
 categories: []
+redirect_from: "/archive/2006/12/15/Played_Soccer_Against_The_Juggernaut.aspx/"
 ---
+
 Today my team had a friendly preseason game against Hollywood United.
 They fielded a mixture of a few players from their 40 and over team, but
 most of the players were from their main team.

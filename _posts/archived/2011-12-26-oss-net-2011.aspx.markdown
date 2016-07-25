@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "OSS and .NET Year In Review 2011"
+title: OSS and .NET Year In Review 2011
 date: 2011-12-26 -0800
 comments: true
 disqus_identifier: 18835
-categories: [code,open source]
+categories:
+- code
+- open source
+redirect_from: "/archive/2011/12/25/oss-net-2011.aspx/"
 ---
+
 T’is the season for “Year in Review” and “Best of” blog posts. It’s a
 vain practice, to be sure. This is exactly why I’ve done [it almost
 every

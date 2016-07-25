@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Using ASP.NET MVC With Visual Web Developer Express"
+title: Using ASP.NET MVC With Visual Web Developer Express
 date: 2007-12-10 -0800
 comments: true
 disqus_identifier: 18435
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from: "/archive/2007/12/09/using-asp.net-mvc-with-visual-web-developer-express.aspx/"
 ---
+
 UPDATE: ASP.NET MVC now works with Visual Web Developer Express SP1
 
 Some developers who downloaded the ASP.NET Extensions CTP specifically

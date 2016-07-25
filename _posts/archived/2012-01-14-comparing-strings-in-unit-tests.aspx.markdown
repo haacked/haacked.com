@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Comparing Strings in Unit Tests"
+title: Comparing Strings in Unit Tests
 date: 2012-01-14 -0800
 comments: true
 disqus_identifier: 18842
-categories: [tdd,code]
+categories:
+- tdd
+- code
+redirect_from: "/archive/2012/01/13/comparing-strings-in-unit-tests.aspx/"
 ---
+
 Suppose you have a test that needs to compare strings. Most test
 frameworks do a fine job with their default equality assertion. But once
 in a while, you get a case like this:

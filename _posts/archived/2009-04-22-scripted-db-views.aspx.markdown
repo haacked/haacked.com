@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Scripting ASP.NET MVC Views Stored In The Database"
+title: Scripting ASP.NET MVC Views Stored In The Database
 date: 2009-04-22 -0800
 comments: true
 disqus_identifier: 18612
-categories: [code,asp.net mvc,dlr]
+categories:
+- code
+- asp.net mvc
+- dlr
+redirect_from: "/archive/2009/04/21/scripted-db-views.aspx/"
 ---
+
 Say you’re building a web application and you want, against your better
 judgment perhaps, to allow end users to easily customize the look and
 feel – a common scenario within a blog engine or any hosted application.

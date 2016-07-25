@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Google Suggest"
+title: Google Suggest
 date: 2004-12-10 -0800
 comments: true
 disqus_identifier: 1732
 categories: []
+redirect_from: "/archive/2004/12/09/google-suggest.aspx/"
 ---
+
 Not to just join the chorus, but I am blown away by [Google
 Suggest](http://www.google.com/webhp?complete=1&hl=en). It's a simple
 idea, but well executed - it guesses what you are searching for as you

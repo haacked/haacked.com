@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "ASP.NET MVC 2 Released!"
+title: ASP.NET MVC 2 Released!
 date: 2010-03-11 -0800
 comments: true
 disqus_identifier: 18689
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2010/03/10/aspnet-mvc2-released.aspx/"
 ---
+
 It’s that time of year again when the sakura (cherry blossoms) bloom and
 allergies kick into high gear. When the drive home is no longer shrouded
 in darkness and when the ASP.NET team releases Software!

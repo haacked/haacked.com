@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "A Niggle or Two About Asynchronous Sockets And Thread Safety"
+title: A Niggle or Two About Asynchronous Sockets And Thread Safety
 date: 2004-08-09 -0800
 comments: true
 disqus_identifier: 895
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2004/08/08/niggle-about-asynchronous-sockets-and-thread-safety.aspx/"
 ---
+
 [Ian Griffiths](http://www.interact-sw.co.uk/iangblog/) finds a
 [niggle](http://dictionary.reference.com/search?q=niggle) about my
 [post](http://haacked.com/archive/2004/08/06/882.aspx) on sockets.

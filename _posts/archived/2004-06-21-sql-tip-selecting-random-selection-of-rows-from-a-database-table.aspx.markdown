@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "SQL TIP: Selecting Random Selection Of Rows From A Database Table"
+title: 'SQL TIP: Selecting Random Selection Of Rows From A Database Table'
 date: 2004-06-21 -0800
 comments: true
 disqus_identifier: 658
-categories: [sql]
+categories:
+- sql
+redirect_from: "/archive/2004/06/20/sql-tip-selecting-random-selection-of-rows-from-a-database-table.aspx/"
 ---
+
 I found a [nice tip](http://www.sqlteam.com/item.asp?ItemID=8747) for
 selecting random rows from within a SQL Server 2000 database. Well
 actually, pseudorandom. Since my undergraduate thesis was on the topic

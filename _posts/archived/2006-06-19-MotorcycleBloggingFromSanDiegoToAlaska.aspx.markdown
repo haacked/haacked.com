@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Motorcycle Blogging From San Diego to Alaska"
+title: Motorcycle Blogging From San Diego to Alaska
 date: 2006-06-19 -0800
 comments: true
 disqus_identifier: 13389
-categories: [blogging]
+categories:
+- blogging
+redirect_from: "/archive/2006/06/18/MotorcycleBloggingFromSanDiegoToAlaska.aspx/"
 ---
+
 This is the [blog of a
 chap](http://carotidbattery.com/ "Carotid Battery") who is riding a
 teched out motorcycle computer (which he calls his “motocompy”) from San

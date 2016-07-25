@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Seasons Greetings To Y'all"
+title: Seasons Greetings To Y'all
 date: 2005-12-24 -0800
 comments: true
 disqus_identifier: 11367
 categories: []
+redirect_from: "/archive/2005/12/23/seasons-greetings-to-yall.aspx/"
 ---
+
 My parents are downstairs watching basktetball, my brother will arrive
 here tonight around 8PM, I’m wrapping a gift for my wife, and my coffee
 downstairs is getting cold.

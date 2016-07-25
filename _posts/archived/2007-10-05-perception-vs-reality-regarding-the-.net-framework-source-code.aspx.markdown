@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Perception Vs Reality Regarding The .NET Framework Source Code"
+title: Perception Vs Reality Regarding The .NET Framework Source Code
 date: 2007-10-05 -0800
 comments: true
 disqus_identifier: 18403
 categories: []
+redirect_from: "/archive/2007/10/04/perception-vs-reality-regarding-the-.net-framework-source-code.aspx/"
 ---
+
 I think [Miguel de Icaza](http://tirania.org/blog/ "Miguel de Icaza")
 [nails
 it](http://tirania.org/blog/archive/2007/Oct-05-2.html "A Journey Into the Dumbo-o-Sphere")

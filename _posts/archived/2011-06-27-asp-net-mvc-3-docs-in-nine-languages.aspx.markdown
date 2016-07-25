@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "ASP.NET MVC 3 Docs In Nine Languages"
+title: ASP.NET MVC 3 Docs In Nine Languages
 date: 2011-06-27 -0800
 comments: true
 disqus_identifier: 18798
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2011/06/26/asp-net-mvc-3-docs-in-nine-languages.aspx/"
 ---
+
 In May, we released a tools update for ASP.NET MVC 3 [in nine languages
 other than
 English](http://haacked.com/archive/2011/05/10/localized-releases-of-asp-net-mvc-3-tools-update.aspx "ASP.NET MVC 3 Tools Update Loc").

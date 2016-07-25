@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "UML Is Chinese To Me"
+title: UML Is Chinese To Me
 date: 2006-04-15 -0800
 comments: true
 disqus_identifier: 12419
 categories: []
+redirect_from: "/archive/2006/04/14/UMLIsChineseToMe.aspx/"
 ---
+
 ![Chinese Character for
 Money](http://haacked.com/images/MoneyInChinese.jpg)
 [Jeff](http://www.codinghorror.com/blog/ "CodingHorror blog") has a

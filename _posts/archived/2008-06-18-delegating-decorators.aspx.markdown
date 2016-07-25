@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Delegating Decorators"
+title: Delegating Decorators
 date: 2008-06-18 -0800
 comments: true
 disqus_identifier: 18495
-categories: [asp.net mvc,asp.net,code]
+categories:
+- asp.net mvc
+- asp.net
+- code
+redirect_from: "/archive/2008/06/17/delegating-decorators.aspx/"
 ---
+
 When approaching an extensibility model, I often find cases in which I
 want to merely tweak the existing behavior of the default implementation
 and wish I didn’t have to create a whole new specific type to do so.

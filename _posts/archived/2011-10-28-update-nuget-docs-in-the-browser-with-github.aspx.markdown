@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Update NuGet Docs in the Browser with Github"
+title: Update NuGet Docs in the Browser with Github
 date: 2011-10-28 -0800
 comments: true
 disqus_identifier: 18822
-categories: [nuget,open source]
+categories:
+- nuget
+- open source
+redirect_from: "/archive/2011/10/27/update-nuget-docs-in-the-browser-with-github.aspx/"
 ---
+
 We made a recent change to make it easy to update the [NuGet
 documentation](http://docs.nuget.org/ "NuGet Documentation Site"). In
 this post, I’ll cover what the change was, why we made it, and how it

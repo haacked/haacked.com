@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "ASP.NET MVC Beta Released!"
+title: ASP.NET MVC Beta Released!
 date: 2008-10-16 -0800
 comments: true
 disqus_identifier: 18540
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2008/10/15/aspnetmvc-beta-release.aspx/"
 ---
+
 Today we finally officially released the beta of [ASP.NET
 MVC](http://asp.net/mvc "ASP.NET MVC Website") ([**go download it
 already!**](http://www.microsoft.com/downloads/details.aspx?FamilyId=A24D1E00-CD35-4F66-BAA0-2362BDDE0766&displaylang=en "Download Link")).

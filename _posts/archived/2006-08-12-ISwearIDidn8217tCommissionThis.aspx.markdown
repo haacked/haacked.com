@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "I Swear I Didn&#8217;t Commission This"
+title: I Swear I Didn&#8217;t Commission This
 date: 2006-08-12 -0800
 comments: true
 disqus_identifier: 14907
 categories: []
+redirect_from: "/archive/2006/08/11/ISwearIDidn8217tCommissionThis.aspx/"
 ---
+
 Or did I?
 
 [JackAce](http://codeturkey.blogspot.com/ "Coding Turkey Blog"), a

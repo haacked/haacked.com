@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Test First Development Doesn't Mean You Don't Walk Through Your Code"
+title: Test First Development Doesn't Mean You Don't Walk Through Your Code
 date: 2004-06-09 -0800
 comments: true
 disqus_identifier: 588
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2004/06/08/test-first-development-doesnt-mean-you-dont-walk-through-your-code.aspx/"
 ---
+
 Test First Development, the process of writing unit tests to test the
 code you are about to write, is one of my favorite software practices
 that has an impact on producing better written code. However, it's no a

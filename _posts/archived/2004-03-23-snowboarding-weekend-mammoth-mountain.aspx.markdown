@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Snowboarding Weekend!"
+title: Snowboarding Weekend!
 date: 2004-03-23 -0800
 comments: true
 disqus_identifier: 268
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2004/03/22/snowboarding-weekend-mammoth-mountain.aspx/"
 ---
+
 ![Snowboarding](/images/snowboarding.jpg) A group of us went
 snowboarding at Mammoth mountain this past weekend to celebrate Judy's
 (Dan's wife) birthday. I won't be so uncouth to tell you how old she

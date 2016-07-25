@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Excellence Awards"
+title: Excellence Awards
 date: 2006-11-01 -0800
 comments: true
 disqus_identifier: 18126
 categories: []
+redirect_from: "/archive/2006/10/31/Excellence_Awards.aspx/"
 ---
+
 A while ago [I
 mentioned](http://haacked.com/archive/2006/09/21/Subtext_Success_Story.aspx "Subtext Success Stories")
 that [my company](http://veloc-it.com/ "VelocIT"), in collaboration with

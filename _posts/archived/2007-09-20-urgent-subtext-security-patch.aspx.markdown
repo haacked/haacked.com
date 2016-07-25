@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Urgent: Subtext Security Patch"
+title: 'Urgent: Subtext Security Patch'
 date: 2007-09-20 -0800
 comments: true
 disqus_identifier: 18396
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2007/09/19/urgent-subtext-security-patch.aspx/"
 ---
+
 UPDATE: We [released Subtext
 2.0](http://haacked.com/archive/2008/08/10/subtext-2.0-released.aspx "Subtext 2.0")
 which also includes the fix for this vulnerability among many other bug

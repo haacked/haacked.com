@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Seattle Code Camp Nov 17 and 18"
+title: Seattle Code Camp Nov 17 and 18
 date: 2007-10-24 -0800
 comments: true
 disqus_identifier: 18409
 categories: []
+redirect_from: "/archive/2007/10/23/seattle-code-camp-nov-17-and-18.aspx/"
 ---
+
 If you live in the Seattle area and like code, talking about code, or
 listening to people talk about code, you owe it to yourself to check out
 the Seattle Code Camp.

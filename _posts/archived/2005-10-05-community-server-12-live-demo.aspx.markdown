@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Community Server 1.2 Live Demo"
+title: Community Server 1.2 Live Demo
 date: 2005-10-05 -0800
 comments: true
 disqus_identifier: 10598
 categories: []
+redirect_from: "/archive/2005/10/04/community-server-12-live-demo.aspx/"
 ---
+
 When it was released, I was quite critical of Community Server. I felt
 it was a rush job and shouldn’t have even been graced with a “beta” next
 to its name. That, along with other reasons, spurred me to start the

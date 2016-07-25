@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "More on Microformats"
+title: More on Microformats
 date: 2005-07-30 -0800
 comments: true
 disqus_identifier: 9173
 categories: []
+redirect_from: "/archive/2005/07/29/more-on-microformats.aspx/"
 ---
+
 [Kevin Marks](http://epeus.blogspot.com/) says in the comments to my
 [last post](http://haacked.com/archive/2005/07/28/9085.aspx) that my
 example of how a format designed for both machine and human readability

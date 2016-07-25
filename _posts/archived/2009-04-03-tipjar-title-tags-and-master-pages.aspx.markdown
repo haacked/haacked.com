@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "TipJar: Title Tags and Master Pages"
+title: 'TipJar: Title Tags and Master Pages'
 date: 2009-04-03 -0800
 comments: true
 disqus_identifier: 18607
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2009/04/02/tipjar-title-tags-and-master-pages.aspx/"
 ---
+
 There are a couple of peculiarities worth understanding when dealing
 with title tags and master pages within Web Forms and [ASP.NET
 MVC](http://asp.net/mvc "ASP.NET MVC"). These assume you are using the

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Faceoff! Haack vs Hanselman - It Gets Real"
+title: Faceoff! Haack vs Hanselman - It Gets Real
 date: 2007-12-21 -0800
 comments: true
 disqus_identifier: 18441
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2007/12/20/faceoff-haack-vs-hanselman-it-gets-real.aspx/"
 ---
+
 ![Faceoff](http://haacked.com/images/haacked_com/WindowsLiveWriter/FaceoffHaackvsHanselmanItGetsReal_8279/a1aadf66-4786-4f6a-9a99-1acbd7d07220_ms%5B1%5D_3.jpg)
 Recently, Maxfield Pool from
 [CodeSqueeze](http://www.codesqueeze.com/ "Code Squeeze") sent me an

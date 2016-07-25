@@ -5,7 +5,9 @@ date: 2004-03-31 -0800
 comments: true
 disqus_identifier: 288
 categories: []
+redirect_from: "/archive/2004/03/30/net-web-hosting.aspx/"
 ---
+
 I'm looking to host my site and I'm ready to pay money!!! Does anyone
 have any recommendations? Right now, my top choices are WebHost4Life
 which has unlimited bandwidth, \$9.95 a month, 150 MB disk space and 150

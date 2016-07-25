@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Getting Older"
+title: Getting Older
 date: 2012-01-23 -0800
 comments: true
 disqus_identifier: 18843
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2012/01/22/getting-older.aspx/"
 ---
+
 Birthdays are a funny thing, aren’t they? Let’s look at [this
 tweet](https://twitter.com/#!/ckindel/status/161366815321243648 "Charlie Kindel Tweet")
 for example,

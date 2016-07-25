@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Boing Boing Effect"
+title: The Boing Boing Effect
 date: 2004-09-02 -0800
 comments: true
 disqus_identifier: 1118
 categories: []
+redirect_from: "/archive/2004/09/01/the-boing-boing-effect.aspx/"
 ---
+
 Wired printed an article recently (I wish I could remember the title)
 that discussed the network structure of relationships and fame. For
 example, imagine individuals as nodes in a big graph. Join the nodes by

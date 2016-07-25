@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Church Sign Generator"
+title: Church Sign Generator
 date: 2004-11-18 -0800
 comments: true
 disqus_identifier: 1648
-categories: [personal,humor]
+categories:
+- personal
+- humor
+redirect_from: "/archive/2004/11/17/church-signs.aspx/"
 ---
+
 My buddy Dan sent this [site](http://www.churchsigngenerator.com/) to
 me. You can generate your own church signs.
 

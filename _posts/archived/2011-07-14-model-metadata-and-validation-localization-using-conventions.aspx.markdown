@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Model Metadata and Validation Localization using Conventions"
+title: Model Metadata and Validation Localization using Conventions
 date: 2011-07-14 -0800
 comments: true
 disqus_identifier: 18802
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from: "/archive/2011/07/13/model-metadata-and-validation-localization-using-conventions.aspx/"
 ---
+
 By default, ASP.NET MVC leverages Data Annotations to provide
 validation. The approach is easy to get started with and allows the
 validation applied on the server to “float” to the client without any

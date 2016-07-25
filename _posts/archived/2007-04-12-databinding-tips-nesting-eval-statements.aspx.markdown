@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Databinding Tips: Nesting Eval Statements"
+title: 'Databinding Tips: Nesting Eval Statements'
 date: 2007-04-12 -0800
 comments: true
 disqus_identifier: 18279
 categories: []
+redirect_from: "/archive/2007/04/11/databinding-tips-nesting-eval-statements.aspx/"
 ---
+
 Maybe this is obvious, but it wasn’t obvious to me. I’m binding some
 data in a repeater that has the following output based on two numeric
 columns in my database. It doesn’t matter why or what the data

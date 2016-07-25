@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Thank You For Helping Me With My Job With ASP.NET MVC"
+title: Thank You For Helping Me With My Job With ASP.NET MVC
 date: 2007-12-13 -0800
 comments: true
 disqus_identifier: 18438
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from: "/archive/2007/12/12/thank-you-for-helping-me-with-my-job-with-asp.net.aspx/"
 ---
+
 I have a set of little demos apps I’ve been working on that I want to
 release to the public. I need to clean them up a bit (you’d be surprised
 how much I swear in comments) and make sure they work with the CTP.

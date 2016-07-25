@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Specs for Haacked.com"
+title: Specs for Haacked.com
 date: 2011-11-19 -0800
 comments: true
 disqus_identifier: 18825
-categories: [code,personal]
+categories:
+- code
+- personal
+redirect_from: "/archive/2011/11/18/specs-for-haacked-com.aspx/"
 ---
+
 Once in a while folks ask me for details about the hardware and software
 that hosts my blog. Rather than write about it, a photo can provide all
 the details that you need.

@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Trust and NuGet"
+title: Trust and NuGet
 date: 2013-02-19 -0800
 comments: true
 disqus_identifier: 18885
-categories: [nuget]
+categories:
+- nuget
+redirect_from: "/archive/2013/02/18/trust-and-nuget.aspx/"
 ---
 
 How can you trust anything you install from NuGet? It’s a simple question, but the answer is complicated. Trust is not some binary value. There are degrees of trust. I trust my friends to warn me before they contact the authorities and maybe suggest a lawyer, but I trust my wife to help me dispose of the body and uphold the conspiracy of silence (*Honey, it was in the fine print of our wedding vows in case you’re wondering*).

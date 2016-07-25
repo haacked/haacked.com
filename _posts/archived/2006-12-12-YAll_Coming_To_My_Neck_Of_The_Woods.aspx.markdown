@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Y'All Coming To My Neck Of The Woods?"
+title: Y'All Coming To My Neck Of The Woods?
 date: 2006-12-12 -0800
 comments: true
 disqus_identifier: 18165
 categories: []
+redirect_from: "/archive/2006/12/11/YAll_Coming_To_My_Neck_Of_The_Woods.aspx/"
 ---
+
 ![PDC 2007 Developer
 Powered](http://haacked.com/images/haacked_com/WindowsLiveWriter/YAllComingToMyNeckOfTheWoods_1478D/image001_revised%5B1%5D%5B4%5D.gif)
 According to Brad Abrams, it looks like we’re going to have us another

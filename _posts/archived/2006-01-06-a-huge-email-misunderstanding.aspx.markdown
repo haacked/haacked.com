@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A Huge Email Misunderstanding"
+title: A Huge Email Misunderstanding
 date: 2006-01-06 -0800
 comments: true
 disqus_identifier: 11422
 categories: []
+redirect_from: "/archive/2006/01/05/a-huge-email-misunderstanding.aspx/"
 ---
+
 Yesterday I received a call from my very exasperated father who recently
 has been helping my Korean mother learn how to use the web and web-based
 email.

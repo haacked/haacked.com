@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Funny Video: A Very Big Ad. My God, It's Huge."
+title: 'Funny Video: A Very Big Ad. My God, It''s Huge.'
 date: 2005-08-13 -0800
 comments: true
 disqus_identifier: 9388
 categories: []
+redirect_from: "/archive/2005/08/12/funny-video-a-very-big-ad-my-god-its-huge.aspx/"
 ---
+
 ![](http://haacked.com/images/BigAd.jpg) Man, I’ve been so heads down
 busy with work lately that I haven’t had time to regale you with the
 fantastical events that have been going on around here. Tales of

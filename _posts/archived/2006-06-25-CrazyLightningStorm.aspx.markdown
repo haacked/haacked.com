@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Crazy Lightning Storm"
+title: Crazy Lightning Storm
 date: 2006-06-25 -0800
 comments: true
 disqus_identifier: 13507
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2006/06/24/CrazyLightningStorm.aspx/"
 ---
+
 ![Lightning Storm](http://haacked.com/images/LightningStorm.jpg)We just
 had a short lived but crazy loud lightning storm. I was up late working
 on Subtext because I couldn’t sleep when I started hearing the loud clap

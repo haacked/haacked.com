@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "ASP.NET MVC 2 Custom Validation"
+title: ASP.NET MVC 2 Custom Validation
 date: 2009-11-19 -0800
 comments: true
 disqus_identifier: 18661
 categories: []
+redirect_from: "/archive/2009/11/18/aspnetmvc2-custom-validation.aspx/"
 ---
+
 UPDATE: I’ve updated this post to cover changes to client validation
 made in ASP.NET MVC 2 RC 2.
 

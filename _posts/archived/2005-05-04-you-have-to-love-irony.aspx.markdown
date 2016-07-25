@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "You Have To Love Irony "
+title: 'You Have To Love Irony '
 date: 2005-05-04 -0800
 comments: true
 disqus_identifier: 2986
 categories: []
+redirect_from: "/archive/2005/05/03/you-have-to-love-irony.aspx/"
 ---
+
 This quote from Sharp as a Marble just cracks me up.
 
 > Then, on the way into work, a car passed me with a bumper sticker on

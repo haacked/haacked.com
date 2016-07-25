@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Conditional Compilation Constants and ASP.NET"
+title: Conditional Compilation Constants and ASP.NET
 date: 2007-09-16 -0800
 comments: true
 disqus_identifier: 18392
-categories: [asp.net]
+categories:
+- asp.net
+redirect_from: "/archive/2007/09/15/conditional-compilation-constants-and-asp.net.aspx/"
 ---
+
 UPDATE: K. Scott Allen got to the root of the problem. It turns out it
 was an issue of precedence. Compiler options are not additive.
 Specifying options in @Page override those in web.config. [Read his

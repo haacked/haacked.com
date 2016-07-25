@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "How to subscribe to my RssFeed"
+title: How to subscribe to my RssFeed
 date: 2004-02-08 -0800
 comments: true
 disqus_identifier: 183
 categories: []
+redirect_from: "/archive/2004/02/07/how-to-subscribe-to-my-rssfeed.aspx/"
 ---
+
 So I keep blabbing and blabbing about my new RSS Feed. I keep imploring
 you to get an RSS aggregator and subscribe to my feed. What the hell am
 I talking about?!

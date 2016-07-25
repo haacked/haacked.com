@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "The Getting Better Moment"
+title: The Getting Better Moment
 date: 2015-06-15 -0800
 comments: true
-categories: [code bugs software]
+categories:
+- code bugs software
+redirect_from: "/archive/2015/05/14/the-getting-better-moment/"
 ---
 
 The beads of sweat gathered on my forehead were oddly juxtaposed against the cool temperature of the air conditioned room. But there they were, caused by the heat of the CTO's anger. I made a sloppy mistake and now sat in his office wondering if I was about to lose my job. My first full-time job. I recently found some archival footage of this moment.

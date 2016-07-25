@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Attention Denizens of Black Rock City"
+title: Attention Denizens of Black Rock City
 date: 2010-08-29 -0800
 comments: true
 disqus_identifier: 18719
-categories: [personal,humor]
+categories:
+- personal
+- humor
+redirect_from: "/archive/2010/08/28/attention-denizens-of-black-rock-city.aspx/"
 ---
+
 Our eye in the sky reports two angry evil (but devishly good looking)
 cyborg units, XSP 2000 and TRS-80, are fast approaching Black Rock City.
 They are considered very armed and dangerous. In fact, they are mostly

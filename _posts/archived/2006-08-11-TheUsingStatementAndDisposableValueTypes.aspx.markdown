@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Using Statement And Disposable Value Types"
+title: The Using Statement And Disposable Value Types
 date: 2006-08-11 -0800
 comments: true
 disqus_identifier: 14845
 categories: []
+redirect_from: "/archive/2006/08/10/TheUsingStatementAndDisposableValueTypes.aspx/"
 ---
+
 A while ago [Ian
 Griffiths](http://www.interact-sw.co.uk/iangblog/ "Ian Griffiths") wrote
 about an [improvement to his `TimedLock`

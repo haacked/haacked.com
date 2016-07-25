@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "NuGet Roundup December 2010 Edition"
+title: NuGet Roundup December 2010 Edition
 date: 2010-12-07 -0800
 comments: true
 disqus_identifier: 18745
-categories: [nuget,code]
+categories:
+- nuget
+- code
+redirect_from: "/archive/2010/12/06/nuget-roundup-december-2010-edition.aspx/"
 ---
+
 I don’t normally post lists of links as it’s really not my style. But
 there’s a lot of great NuGet blog posts I want to call out so I thought
 I’d try my hand at it.

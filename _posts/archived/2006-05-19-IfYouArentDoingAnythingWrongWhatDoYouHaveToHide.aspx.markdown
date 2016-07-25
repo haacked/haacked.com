@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "If You Aren't Doing Anything Wrong, What Do You Have To Hide?"
+title: If You Aren't Doing Anything Wrong, What Do You Have To Hide?
 date: 2006-05-19 -0800
 comments: true
 disqus_identifier: 12868
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2006/05/18/IfYouArentDoingAnythingWrongWhatDoYouHaveToHide.aspx/"
 ---
+
 Security expert Bruce Schneier [writes a fantastic
 essay](http://www.schneier.com/blog/archives/2006/05/the_value_of_pr.html "The Value of Privacy")
 on the value of privacy. This is a great response to the rhetorical

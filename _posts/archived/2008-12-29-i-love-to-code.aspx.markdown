@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "I Love To Code"
+title: I Love To Code
 date: 2008-12-29 -0800
 comments: true
 disqus_identifier: 18567
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2008/12/28/i-love-to-code.aspx/"
 ---
+
 I was reading [Jeff Atwood’s](http://codinghorror.com/ "CodingHorror")
 latest post, [Programming: Love it or Leave
 it](http://www.codinghorror.com/blog/archives/001202.html "Programming: Love it or Leave it")

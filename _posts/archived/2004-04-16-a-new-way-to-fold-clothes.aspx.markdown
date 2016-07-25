@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "A New Way To Fold Clothes"
+title: A New Way To Fold Clothes
 date: 2004-04-16 -0800
 comments: true
 disqus_identifier: 330
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2004/04/15/a-new-way-to-fold-clothes.aspx/"
 ---
+
 The video is gone. Sorry.
 
 Innovation happens everywhere.

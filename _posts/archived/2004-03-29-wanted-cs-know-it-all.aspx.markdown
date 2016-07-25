@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Wanted: CS Know-it-all"
+title: 'Wanted: CS Know-it-all'
 date: 2004-03-29 -0800
 comments: true
 disqus_identifier: 281
 categories: []
+redirect_from: "/archive/2004/03/28/wanted-cs-know-it-all.aspx/"
 ---
+
 ![Poker Chips](/images/chips.jpg)Rory at
 [Neopoleon.com](http://neopoleon.com/blog/posts/4954.aspx) has an
 interesting proposition for would-be Computer Science mentors.

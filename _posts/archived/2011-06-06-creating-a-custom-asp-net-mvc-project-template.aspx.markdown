@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Creating a Custom ASP.NET MVC Project Template"
+title: Creating a Custom ASP.NET MVC Project Template
 date: 2011-06-06 -0800
 comments: true
 disqus_identifier: 18795
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2011/06/05/creating-a-custom-asp-net-mvc-project-template.aspx/"
 ---
+
 UPDATE: I have an example [Really Empty project
 template](http://haacked.com/archive/2012/01/11/a-really-empty-asp-net-mvc-3-project-template.aspx)
 up on GitHub you can look at. I improved on this technique a bit in that

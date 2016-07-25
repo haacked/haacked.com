@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Concatenating Delimited Strings With Generic Delegates"
+title: Concatenating Delimited Strings With Generic Delegates
 date: 2006-11-24 -0800
 comments: true
 disqus_identifier: 18145
 categories: []
+redirect_from: "/archive/2006/11/23/concatenating_delimited_strings_with_generic_delegates.aspx/"
 ---
+
 UPDATE: In my original example, I created my own delegate for converting
 objects to strings. [Kevin
 Dente](http://weblogs.asp.net/kdente "Kevin Dente") pointed out that

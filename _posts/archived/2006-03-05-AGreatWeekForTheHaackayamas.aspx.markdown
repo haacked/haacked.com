@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A Great Week For The Haackayamas"
+title: A Great Week For The Haackayamas
 date: 2006-03-05 -0800
 comments: true
 disqus_identifier: 11989
 categories: []
+redirect_from: "/archive/2006/03/04/AGreatWeekForTheHaackayamas.aspx/"
 ---
+
 This past week was a particularly good week and weekend for me and my
 wife. First of all, I was happy to announce [the release of
 Subtext](/archive/2006/03/02/Subtext1.0NautilusEditionReleased.aspx "Subtext Release Announcement")

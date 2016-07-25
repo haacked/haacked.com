@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Medicis, The Music Industry, And Open Source Software"
+title: The Medicis, The Music Industry, And Open Source Software
 date: 2006-09-20 -0800
 comments: true
 disqus_identifier: 16923
-categories: [open source]
+categories:
+- open source
+redirect_from: "/archive/2006/09/19/The_Medicis_The_Music_Industry_And_Open_Source_Software.aspx/"
 ---
+
 [![From Wikipedia:
 http://en.wikipedia.org/wiki/Medici](http://haacked.com/images/haacked_com/WindowsLiveWriter/TheMedicisTheMusicIndustryAndOpenSourceS_D54E/350pxGozzoli_magi_thumb3.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/TheMedicisTheMusicIndustryAndOpenSourceS_D54E/350pxGozzoli_magi5.jpg)
 

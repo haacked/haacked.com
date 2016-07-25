@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Another Day, Another Trip Around The Sun"
+title: Another Day, Another Trip Around The Sun
 date: 2007-01-23 -0800
 comments: true
 disqus_identifier: 18198
 categories: []
+redirect_from: "/archive/2007/01/22/Another_Day_Another_Trip_Around_The_Sun.aspx/"
 ---
+
 [![Image of the sun from
 http://www.noaanews.noaa.gov/stories2005/s2372.htm](http://haacked.com/images/haacked_com/WindowsLiveWriter/AnotherDayAnotherTripAroundTheSun_7FCF/sunsoho0119051919z2_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/AnotherDayAnotherTripAroundTheSun_7FCF/sunsoho0119051919z22.jpg)
 Today I turn 32 years old.

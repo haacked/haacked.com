@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Pictures Of The Day"
+title: Pictures Of The Day
 date: 2006-08-15 -0800
 comments: true
 disqus_identifier: 14973
 categories: []
+redirect_from: "/archive/2006/08/14/PicturesOfTheDay.aspx/"
 ---
+
 Since my blog has been getting a bit geek heavy for my wife’s taste
 ([see
 comment](http://haacked.com/archive/2006/08/12/ISwearIDidn8217tCommissionThis.aspx#feedback "Haackfiti")

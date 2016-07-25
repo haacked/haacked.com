@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Random Friday: Geek Verticals"
+title: 'Random Friday: Geek Verticals'
 date: 2011-08-12 -0800
 comments: true
 disqus_identifier: 18807
-categories: [humor,personal]
+categories:
+- humor
+- personal
+redirect_from: "/archive/2011/08/11/random-friday-geek-verticals.aspx/"
 ---
+
 Stumbling around the net, I ran into the “funny verticals” meme. These
 are typically a vertical strip of screenshots pulled from a movie or
 television with funny captions tacked on.

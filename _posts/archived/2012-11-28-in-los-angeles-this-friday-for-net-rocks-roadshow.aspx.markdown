@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "In Los Angeles this Friday for .NET Rocks Roadshow"
+title: In Los Angeles this Friday for .NET Rocks Roadshow
 date: 2012-11-28 -0800
 comments: true
 disqus_identifier: 18875
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2012/11/27/in-los-angeles-this-friday-for-net-rocks-roadshow.aspx/"
 ---
+
 Once again, those crazy fools [Richard
 Campbell](http://www.campbellassociates.ca/blog/ "Richard Campbell's Blog")
 and [Carl Franklin](http://carlfranklin.net/ "Carl Franklin's Blog") are

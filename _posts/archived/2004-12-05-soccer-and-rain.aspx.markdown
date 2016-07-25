@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Soccer And Rain"
+title: Soccer And Rain
 date: 2004-12-05 -0800
 comments: true
 disqus_identifier: 1702
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2004/12/04/soccer-and-rain.aspx/"
 ---
+
 ![Soccer Ball](/images/SoccerBallBW.jpg) Americans often have a low view
 of soccer players (though that is changing in recent years). They don't
 think of the sport as physical as football or even basketball. However

@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Better Git with PowerShell"
+title: Better Git with PowerShell
 date: 2011-12-13 -0800
 comments: true
 disqus_identifier: 18833
-categories: [code,git]
+categories:
+- code
+- git
+redirect_from: "/archive/2011/12/12/better-git-with-powershell.aspx/"
 ---
+
 *I’m usually not one to resort to puns in my blog titles, but I couldn’t
 resist. Git it? Git it? Sorry.*
 

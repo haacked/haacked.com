@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Atwood Is Preaching And I'm In The Choir"
+title: Atwood Is Preaching And I'm In The Choir
 date: 2006-08-15 -0800
 comments: true
 disqus_identifier: 14977
 categories: []
+redirect_from: "/archive/2006/08/14/AtwoodIsPreachingAndImInTheChoir.aspx/"
 ---
+
 ![Choir](http://haacked.com/images/AtwoodIsPreachingAndImInTheChoir_CE5B/choir_thumb6.jpg)In
 [Jeff Atwood’s](http://www.codinghorror.com/blog/ "Jeff Atwood's Blog")
 latest post entitled [Source Control: Anything But

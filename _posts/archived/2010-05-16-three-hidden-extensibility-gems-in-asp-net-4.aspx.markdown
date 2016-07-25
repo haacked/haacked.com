@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Three Hidden Extensibility Gems in ASP.NET 4"
+title: Three Hidden Extensibility Gems in ASP.NET 4
 date: 2010-05-16 -0800
 comments: true
 disqus_identifier: 18700
-categories: [asp.net,code]
+categories:
+- asp.net
+- code
+redirect_from: "/archive/2010/05/15/three-hidden-extensibility-gems-in-asp-net-4.aspx/"
 ---
+
 ASP.NET 4 introduces a few new extensibility APIs that live the hermit
 lifestyle away from the public eye. They’re not exactly *hidden -* they
 are well documented on MSDN - but they aren’t well publicized. It’s

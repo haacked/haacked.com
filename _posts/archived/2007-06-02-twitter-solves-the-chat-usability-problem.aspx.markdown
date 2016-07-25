@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Twitter Solves the Chat Usability Problem"
+title: Twitter Solves the Chat Usability Problem
 date: 2007-06-02 -0800
 comments: true
 disqus_identifier: 18336
-categories: [tech]
+categories:
+- tech
+redirect_from: "/archive/2007/06/01/twitter-solves-the-chat-usability-problem.aspx/"
 ---
+
 Ok, this will be my last post on Twitter for the time being. My last
 [two](http://haacked.com/archive/2007/05/20/is-twitter-vs-jaiku-a-replay-of-friendster-vs-myspace.aspx "Is Twitter vs Jaiku")
 [posts](http://haacked.com/archive/2007/05/20/how-to-build-twitter-in-one-line-of-code.aspx "Twitter in one line of code")

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Back in Business"
+title: Back in Business
 date: 2009-12-14 -0800
 comments: true
 disqus_identifier: 18665
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2009/12/13/back-in-business-again.aspx/"
 ---
+
 Yeah, the past few days have been a pretty low moment for me and this
 blog. Long story short, on December 11, a hard-drive failure took down
 the managed dedicated server which hosts my blog among other sites.

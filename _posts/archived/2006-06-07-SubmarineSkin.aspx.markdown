@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Submarine Skin"
+title: Submarine Skin
 date: 2006-06-07 -0800
 comments: true
 disqus_identifier: 13183
 categories: []
+redirect_from: "/archive/2006/06/06/SubmarineSkin.aspx/"
 ---
+
 In the Subtext 1.5 release announcement, I mentioned we had a few new
 skins. I thought I would post a couple of screenshots of the Submarine
 skin to give you a sense of what it looks like.

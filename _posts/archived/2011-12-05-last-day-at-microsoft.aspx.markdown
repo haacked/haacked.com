@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Last Day at Microsoft"
+title: Last Day at Microsoft
 date: 2011-12-05 -0800
 comments: true
 disqus_identifier: 18829
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2011/12/04/last-day-at-microsoft.aspx/"
 ---
+
 Well, as I [wrote
 before](http://haacked.com/archive/2011/11/28/departing-microsoft.aspx "Departures"),
 today is my last day at Microsoft. Last night we had our office Holiday

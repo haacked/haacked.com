@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The architect of the fashion world"
+title: The architect of the fashion world
 date: 2004-03-12 -0800
 comments: true
 disqus_identifier: 250
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2004/03/11/the-architect-of-the-fashion-world.aspx/"
 ---
+
 With the news that we are about to be home owners, Kyle’s comment was
 
 > Now you are a homeowner. Commence reproduction cycle.

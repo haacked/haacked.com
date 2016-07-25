@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "ASP.NET MVC RC Refresh"
+title: ASP.NET MVC RC Refresh
 date: 2009-01-30 -0800
 comments: true
 disqus_identifier: 18584
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2009/01/29/aspnetmvc-refresh.aspx/"
 ---
+
 Hello there. :)
 
 On Tuesday, we [announced the release

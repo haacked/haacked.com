@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Implementing CSS Based Printing"
+title: Implementing CSS Based Printing
 date: 2006-03-09 -0800
 comments: true
 disqus_identifier: 12039
 categories: []
+redirect_from: "/archive/2006/03/08/ImplementingCSSBasedPrinting.aspx/"
 ---
+
 I don’t know about you, but when I find something wordy but really worth
 reading on the web, I print it out. Sure, I could try reading it on my
 tablet, but do you really want to deal with your tablet while reading in

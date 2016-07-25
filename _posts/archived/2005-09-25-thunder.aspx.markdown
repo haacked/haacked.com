@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Thunder!"
+title: Thunder!
 date: 2005-09-25 -0800
 comments: true
 disqus_identifier: 10382
 categories: []
+redirect_from: "/archive/2005/09/24/thunder.aspx/"
 ---
+
 I just heard thunder. I don’t think the weather here in Los Angeles got
 the memo, but we already had a thunderstorm. To the thunder clounds, go
 away and come back later when the yearly quota has’t been filled.

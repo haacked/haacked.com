@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Subtext 2.5 Released!"
+title: Subtext 2.5 Released!
 date: 2010-06-06 -0800
 comments: true
 disqus_identifier: 18706
 categories: []
+redirect_from: "/archive/2010/06/05/subtext-2-5-released.aspx/"
 ---
+
 Wow, has it already been over a year since the [last major version of
 Subtext](http://haacked.com/archive/2008/11/27/subtext-2.1-security-update.aspx "Subtext 2.1.2 released")?
 Apparently so.

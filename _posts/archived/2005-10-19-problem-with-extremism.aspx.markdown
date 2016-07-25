@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Problem With Extremism"
+title: The Problem With Extremism
 date: 2005-10-19 -0800
 comments: true
 disqus_identifier: 10867
 categories: []
+redirect_from: "/archive/2005/10/18/problem-with-extremism.aspx/"
 ---
+
 The problem with extremists is that they inevitably color the
 mainstream’s perception of a thing, whether it be a race, a culture, or
 a software development practice.

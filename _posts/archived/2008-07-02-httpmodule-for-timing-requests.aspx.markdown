@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "HttpModule For Timing Requests"
+title: HttpModule For Timing Requests
 date: 2008-07-02 -0800
 comments: true
 disqus_identifier: 18501
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2008/07/01/httpmodule-for-timing-requests.aspx/"
 ---
+
 Yesterday, I wrote a quick and dirty ASP.NET `HttpModule` for displaying
 the time that a request takes to process. Note that by turning on [trace
 output for a

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Live Every Day As If It Were..."
+title: Live Every Day As If It Were...
 date: 2006-06-02 -0800
 comments: true
 disqus_identifier: 13121
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2006/06/01/LiveEveryDayAsIfItWere.aspx/"
 ---
+
 ...worth blogging about.
 
 This is my thought for the weekend.

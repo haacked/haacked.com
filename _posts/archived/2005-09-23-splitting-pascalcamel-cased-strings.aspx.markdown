@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Splitting Pascal/Camel Cased Strings"
+title: Splitting Pascal/Camel Cased Strings
 date: 2005-09-23 -0800
 comments: true
-redirect_from: "/archive/2005/09/24/10334.aspx"
+redirect_from:
+- "/archive/2005/09/24/10334.aspx"
+- "/archive/2005/09/22/splitting-pascalcamel-cased-strings.aspx/"
 disqus_identifier: 10334
-categories: [code]
+categories:
+- code
 ---
 
 Found [this post in RossCode](http://www.rosscode.com/blog/index.php?title=quick_hits&more=1&c=1&tb=1&pb=1) which mentions a blog post that discusses how to [bind enumerations to drop downs](http://geekswithblogs.net/jawad/archive/2005/06/24/EnumDropDown.aspx),

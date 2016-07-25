@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Exception Injection Using a Custom SOAP Extension"
+title: Exception Injection Using a Custom SOAP Extension
 date: 2005-06-29 -0800
 comments: true
 disqus_identifier: 7392
 categories: []
+redirect_from: "/archive/2005/06/28/ExceptionInjectionUsingCustomSoapExtension.aspx/"
 ---
+
 You kind of get the feeling that [Keith
 Brown](http://pluralsight.com/blogs/keith/) has a beef with soap
 exceptions when he writes that [SoapException

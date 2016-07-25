@@ -1,11 +1,18 @@
 ---
 layout: post
-title: "MonkeySpace shines a light on the future of .NET OSS"
+title: MonkeySpace shines a light on the future of .NET OSS
 date: 2012-10-21 -0800
 comments: true
 disqus_identifier: 18872
-categories: [open source,code,community]
+categories:
+- open source
+- code
+- community
+redirect_from:
+- "/archive/2012/10/19/monkeyspace-dotnet-oss.aspx/"
+- "/archive/2012/10/20/monkeyspace-dotnet-oss.aspx/"
 ---
+
 At the end of last year, I [wrote a
 blurb](http://haacked.com/archive/2011/12/26/oss-net-2011.aspx "OSS and .NET Year in Review")
 about the Open Source Fest event at Mix 2011. Imagine the typical

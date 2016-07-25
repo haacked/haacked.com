@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Welcome Home Discovery, Thanks for Setting Off the Car Alarms"
+title: Welcome Home Discovery, Thanks for Setting Off the Car Alarms
 date: 2005-08-08 -0800
 comments: true
 disqus_identifier: 9258
 categories: []
+redirect_from: "/archive/2005/08/07/welcome-home-discovery-thanks-for-setting-off-the-car-alarms.aspx/"
 ---
+
 ![Shuttle Crew](http://haacked.com/images/ShuttleCrew.jpg) Very early
 this morning my slumber was disturbed by an extremely lound noise. Like
 Maverick in Top Gun, those durn shuttle astronauts did a fly by enroute

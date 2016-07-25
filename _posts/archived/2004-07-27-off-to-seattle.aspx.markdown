@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Off to Seattle"
+title: Off to Seattle
 date: 2004-07-27 -0800
 comments: true
 disqus_identifier: 862
 categories: []
+redirect_from: "/archive/2004/07/26/off-to-seattle.aspx/"
 ---
+
 We fly off tomorrow to Seattle and don't let me catch you even thinking
 about trying to snake my stuff. I live in a very bad neighborhood, you
 wouldn't want to be there after dark or in the nude. We have vicious

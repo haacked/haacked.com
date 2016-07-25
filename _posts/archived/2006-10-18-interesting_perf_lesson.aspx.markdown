@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Interesting Perf Lesson"
+title: Interesting Perf Lesson
 date: 2006-10-18 -0800
 comments: true
 disqus_identifier: 18094
 categories: []
+redirect_from: "/archive/2006/10/17/interesting_perf_lesson.aspx/"
 ---
+
 Tyler, an old friend and an outstanding contractor for
 [VelocIT](http://veloc-it.com/ "My Company") recently [wrote a
 post](http://selectsoftwarethoughtsfromtyler.blogspot.com/2006/10/pass-parameters-as-objects-to-ms-data.html "Pass Parameters As Objects")

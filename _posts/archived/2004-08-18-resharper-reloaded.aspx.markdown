@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "ReSharper Reloaded"
+title: ReSharper Reloaded
 date: 2004-08-18 -0800
 comments: true
 disqus_identifier: 944
 categories: []
+redirect_from: "/archive/2004/08/17/resharper-reloaded.aspx/"
 ---
+
 Ok, I tried
 [CodeRush](http://www.devexpress.com/?section=/Products/NET/CodeRush)
 (an excellent product) and now I'm back to

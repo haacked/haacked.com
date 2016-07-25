@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ultimate Tool"
+title: Ultimate Tool
 date: 2006-08-29 -0800
 comments: true
 disqus_identifier: 16164
 categories: []
+redirect_from: "/archive/2006/08/28/Ultimate_Tool.aspx/"
 ---
+
 [Scott Hanselman](http://www.hanselman.com/blog/) sets the geek-o-sphere
 abuzz with his latest (and apparently now annual) [Ultimate Developer
 and Power Users Tool List for

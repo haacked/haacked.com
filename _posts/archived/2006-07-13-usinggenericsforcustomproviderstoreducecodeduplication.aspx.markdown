@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Using Generics For Custom Providers To Reduce Code Duplication"
+title: Using Generics For Custom Providers To Reduce Code Duplication
 date: 2006-07-13 -0800
 comments: true
 disqus_identifier: 13917
 categories: []
+redirect_from: "/archive/2006/07/12/usinggenericsforcustomproviderstoreducecodeduplication.aspx/"
 ---
+
 Here is a quick little nugget for you custom provider implementers. I
 recently scanned through [this
 article](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnaspp/html/ASPNETProvMod_Prt8.asp "Custom Provider-Based Services")

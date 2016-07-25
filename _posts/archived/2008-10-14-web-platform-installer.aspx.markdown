@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Web Platform Installer"
+title: Web Platform Installer
 date: 2008-10-14 -0800
 comments: true
 disqus_identifier: 18538
-categories: [asp.net]
+categories:
+- asp.net
+redirect_from: "/archive/2008/10/13/web-platform-installer.aspx/"
 ---
+
 I’ve used the term “[drinking from the fire
 hose](http://haacked.com/archive/2007/10/26/drinking-from-the-firehose.aspx "Drinking from the firehose")”
 when describing my first days at Microsoft. However, I believe that a

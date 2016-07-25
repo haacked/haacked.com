@@ -1,11 +1,18 @@
 ---
 layout: post
-title: "Testing Routes In ASP.NET MVC"
+title: Testing Routes In ASP.NET MVC
 date: 2007-12-17 -0800
 comments: true
 disqus_identifier: 18440
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from:
+- "/archive/2007/12/15/testing-routes-in-asp.net-mvc.aspx/"
+- "/archive/2007/12/16/testing-routes-in-asp.net-mvc.aspx/"
 ---
+
 The ASP.NET Routing engine used by ASP.NET MVC plays a very important
 role. Routes map incoming requests for URLs to a Controller and Action.
 They also are used to construct an URL to a Controller/Action. In this

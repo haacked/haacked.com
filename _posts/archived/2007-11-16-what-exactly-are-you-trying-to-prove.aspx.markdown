@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "What Exactly Are You Trying To Prove?"
+title: What Exactly Are You Trying To Prove?
 date: 2007-11-16 -0800
 comments: true
 disqus_identifier: 18424
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2007/11/15/what-exactly-are-you-trying-to-prove.aspx/"
 ---
+
 Frans Bouma wrote an *interesting* response to my last post, [Writing
 Testable Code Is About Managing
 Complexity](http://haacked.com/archive/2007/11/14/writing-testable-code-is-about-managing-complexity.aspx "My Last Post")

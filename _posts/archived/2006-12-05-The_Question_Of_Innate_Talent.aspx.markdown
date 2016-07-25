@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Question Of Innate Talent"
+title: The Question Of Innate Talent
 date: 2006-12-05 -0800
 comments: true
 disqus_identifier: 18154
 categories: []
+redirect_from: "/archive/2006/12/04/The_Question_Of_Innate_Talent.aspx/"
 ---
+
 [![From
 http://www.v-brazil.com/culture/sports/football/player/ronaldinho-kid.jpg](http://haacked.com/images/haacked_com/WindowsLiveWriter/TheQuestionOfInnateTalent_A198/ronaldinhokid_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/TheQuestionOfInnateTalent_A198/ronaldinhokid2.jpg)
 Recently while picking up a few items at Target, I decided to buy a

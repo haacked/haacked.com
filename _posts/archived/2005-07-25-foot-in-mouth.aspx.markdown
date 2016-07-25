@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Joel Inserts Foot in Mouth and Then Shoots Self in Foot."
+title: Joel Inserts Foot in Mouth and Then Shoots Self in Foot.
 date: 2005-07-25 -0800
 comments: true
 disqus_identifier: 9027
 categories: []
+redirect_from: "/archive/2005/07/24/foot-in-mouth.aspx/"
 ---
+
 For as smart a guy as Joel Spolsky supposedly is, you’d think he’d keep
 his dumb ass remarks off his blog and between himself and his interns.
 

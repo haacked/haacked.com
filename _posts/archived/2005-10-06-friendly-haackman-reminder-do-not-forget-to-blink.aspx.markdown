@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Friendly HaackMan Reminder: Do Not Forget To Blink"
+title: 'Friendly HaackMan Reminder: Do Not Forget To Blink'
 date: 2005-10-06 -0800
 comments: true
 disqus_identifier: 10621
 categories: []
+redirect_from: "/archive/2005/10/05/friendly-haackman-reminder-do-not-forget-to-blink.aspx/"
 ---
+
 Hey you! Yeah I’m talking to you. The one there who has been staring at
 the screen for several hours straight. Do NOT forget to blink often.
 

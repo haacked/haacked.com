@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Write Specs In The Present Tense"
+title: Write Specs In The Present Tense
 date: 2004-07-26 -0800
 comments: true
 disqus_identifier: 858
 categories: []
+redirect_from: "/archive/2004/07/25/write-specs-in-the-present-tense.aspx/"
 ---
+
 I have a bad habit of writing specs in the future tense. Since the
 system I’m spec’ing doesn’t yet exist, it’s so easy for me to fall in
 the habit of saying things like:

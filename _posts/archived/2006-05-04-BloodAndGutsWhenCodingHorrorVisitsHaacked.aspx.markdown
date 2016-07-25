@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Blood And Guts When CodingHorror Visits Haacked"
+title: Blood And Guts When CodingHorror Visits Haacked
 date: 2006-05-04 -0800
 comments: true
 disqus_identifier: 12684
 categories: []
+redirect_from: "/archive/2006/05/03/BloodAndGutsWhenCodingHorrorVisitsHaacked.aspx/"
 ---
+
 Prolific blogger Mr. [Jeff
 Atwood](http://www.codinghorror.com/ "Coding Horror"), author of the
 CodingHorror blog, paid us a surprise visit last night. He is in town

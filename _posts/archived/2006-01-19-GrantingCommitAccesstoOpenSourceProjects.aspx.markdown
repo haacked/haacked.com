@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Granting Commit Access to Open Source Projects"
+title: Granting Commit Access to Open Source Projects
 date: 2006-01-19 -0800
 comments: true
 disqus_identifier: 11559
-categories: [open source]
+categories:
+- open source
+redirect_from: "/archive/2006/01/18/GrantingCommitAccesstoOpenSourceProjects.aspx/"
 ---
+
 Every open source project has its own procedures for granting the
 all-important commit access to developers. Some require a set number of
 submitted patches (which Fogel, author of [Producing Open Source

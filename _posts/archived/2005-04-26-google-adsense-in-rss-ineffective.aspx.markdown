@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Google AdSense in RSS Ineffective?"
+title: Google AdSense in RSS Ineffective?
 date: 2005-04-26 -0800
 comments: true
 disqus_identifier: 2839
 categories: []
+redirect_from: "/archive/2005/04/25/google-adsense-in-rss-ineffective.aspx/"
 ---
+
 As you've probably heard, Google is [testing AdSense within
 RSS](http://weblogs.asp.net/rmclaws/archive/2005/04/26/404469.aspx) on a
 single site.

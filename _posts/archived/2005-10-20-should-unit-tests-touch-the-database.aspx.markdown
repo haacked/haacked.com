@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Should Unit Tests Touch the Database?"
+title: Should Unit Tests Touch the Database?
 date: 2005-10-20 -0800
 comments: true
-redirect_from: "/archive/2005/10/21/10941.aspx"
+redirect_from:
+- "/archive/2005/10/21/10941.aspx"
+- "/archive/2005/10/19/should-unit-tests-touch-the-database.aspx/"
 disqus_identifier: 10941
-categories: [tdd database integration]
+categories:
+- tdd database integration
 ---
 
 _UPDATE: For the most part, I think young Phil Haack is full of shit in these first two paragraphs. I definitely now think unit tests should NOT touch the database. Instead, I do separate those into a separate integration test suite, as I had suggested in the last paragraph. So maybe Young Phil wasn't so full of shit after all._

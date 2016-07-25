@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A Gotcha Identifying the User's IP Address"
+title: A Gotcha Identifying the User's IP Address
 date: 2006-10-11 -0800
 comments: true
 disqus_identifier: 18027
 categories: []
+redirect_from: "/archive/2006/10/10/A_Gotcha_Identifying_the_Users_IP_Address.aspx/"
 ---
+
 Recently I wrote a .NET based [Akismet API
 component](http://haacked.com/archive/2006/09/26/Subtext_Akismet_API.aspx "Subtext Akismet API")
 for [Subtext](http://subtextproject.com/ "Subtext Project Website").  In

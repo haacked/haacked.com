@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Yahoo, Please Make RSS Better For My Friend Walter"
+title: Yahoo, Please Make RSS Better For My Friend Walter
 date: 2004-06-28 -0800
 comments: true
 disqus_identifier: 698
 categories: []
+redirect_from: "/archive/2004/06/27/yahoo-please-make-rss-better-for-my-friend-walter.aspx/"
 ---
+
 Surprisingly, most of my good friends who read this blog don't care much
 about software development or .NET. They're not riveted by gripping
 stories of flexible configuration section handlers, or the heart

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Protect Yourself From Credit Fraud With A Fraud Alert"
+title: Protect Yourself From Credit Fraud With A Fraud Alert
 date: 2006-05-05 -0800
 comments: true
 disqus_identifier: 12688
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2006/05/04/ProtectYourselfFromCreditFraudWithAFraudAlert.aspx/"
 ---
+
 ![Stop Fraud!](http://haacked.com/images/stop_sign.jpg) So after getting
 my [Yahoo password
 phished](http://haacked.com/archive/2006/05/04/VictimOfAYahooMessengerPhishingAttack.aspx "Stupid Mistake"),

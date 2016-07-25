@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Successive Method Calls With MoQ"
+title: Successive Method Calls With MoQ
 date: 2009-09-29 -0800
 comments: true
 disqus_identifier: 18645
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2009/09/28/moq-sequences.aspx/"
 ---
+
 *UPDATE: For a better approach, check out [MoQ Sequences
 Revisited](http://haacked.com/archive/2010/11/24/moq-sequences-revisited.aspx "A better MoQ sequences post").*
 

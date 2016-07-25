@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Security Argument Against Homogeneity"
+title: Security Argument Against Homogeneity
 date: 2006-05-04 -0800
 comments: true
 disqus_identifier: 12660
 categories: []
+redirect_from: "/archive/2006/05/03/SecurityArgumentAgainstHomogeneity.aspx/"
 ---
+
 Well this recent phishing attack is clear demonstration of the inherent
 dangers of homogeneity. Biologists and epidemologists have known this
 stuff for decades. Having given out my Yahoo password would have been

@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Role Playing Via Skype"
+title: Role Playing Via Skype
 date: 2006-05-17 -0800
 comments: true
 disqus_identifier: 12834
-categories: [personal,tech]
+categories:
+- personal
+- tech
+redirect_from: "/archive/2006/05/16/RolePlayingViaSkype.aspx/"
 ---
+
 So [Adam Kinney](http://adamkinney.com/blog/ "AdamKinney.com") isn’t
 quite as [ga-ga over
 Oblivion](http://adamkinney.com/blog/130/default.aspx "Oblivion, a fitting title")

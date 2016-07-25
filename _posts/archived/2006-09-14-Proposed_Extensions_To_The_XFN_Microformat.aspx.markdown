@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Proposed Extensions To The XFN Microformat"
+title: Proposed Extensions To The XFN Microformat
 date: 2006-09-14 -0800
 comments: true
 disqus_identifier: 16623
 categories: []
+redirect_from: "/archive/2006/09/13/Proposed_Extensions_To_The_XFN_Microformat.aspx/"
 ---
+
 [![Source:
 http://www.hollywoodjesus.com/movie/friends/20.jpg](http://haacked.com/images/haacked_com/WindowsLiveWriter/ProposedExtensionsToTheXFNMicroformat_121EE/CastOfFriends_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/ProposedExtensionsToTheXFNMicroformat_121EE/CastOfFriends2.jpg)
 If you’ve read my blog you know I have a bit of a [thing for

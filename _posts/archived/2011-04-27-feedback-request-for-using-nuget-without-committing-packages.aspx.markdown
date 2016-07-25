@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Feedback Request for using NuGet Without Committing Packages"
+title: Feedback Request for using NuGet Without Committing Packages
 date: 2011-04-27 -0800
 comments: true
 disqus_identifier: 18782
-categories: [nuget,code,open source]
+categories:
+- nuget
+- code
+- open source
+redirect_from: "/archive/2011/04/26/feedback-request-for-using-nuget-without-committing-packages.aspx/"
 ---
+
 When installing a package into a project, NuGet creates a
 *packages.config* file within the project (if it doesn’t already exist)
 which is an exact record of the packages that are installed in the

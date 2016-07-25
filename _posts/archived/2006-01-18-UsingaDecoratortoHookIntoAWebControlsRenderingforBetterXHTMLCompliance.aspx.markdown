@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Using a Decorator to Hook Into A WebControl's Rendering for Better XHTML Compliance"
+title: Using a Decorator to Hook Into A WebControl's Rendering for Better XHTML Compliance
 date: 2006-01-18 -0800
 comments: true
 disqus_identifier: 11537
 categories: []
+redirect_from: "/archive/2006/01/17/UsingaDecoratortoHookIntoAWebControlsRenderingforBetterXHTMLCompliance.aspx/"
 ---
+
 Man! What a mouthful of a title, but I think it succinctly describes
 what this post is about. I will demonstrate how to hook into the
 rendering of a control that inherits from

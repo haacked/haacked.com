@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "More On Medium Trust and Trackbacks"
+title: More On Medium Trust and Trackbacks
 date: 2006-07-09 -0800
 comments: true
 disqus_identifier: 13781
 categories: []
+redirect_from: "/archive/2006/07/08/MoreOnMediumTrustAndTrackbacks.aspx/"
 ---
+
 In [my last
 post](http://haacked.com/archive/2006/07/09/ConfiguringLog4NetWithASP.NET2.0InMediumTrust.aspx "Medium Trust and Log4Net"),
 one of the restrictions listed when running in medium trust is that HTTP

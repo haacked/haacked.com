@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "A Case Study In Design Tradeoffs: Usability vs Discoverability"
+title: 'A Case Study In Design Tradeoffs: Usability vs Discoverability'
 date: 2008-11-06 -0800
 comments: true
 disqus_identifier: 18549
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from: "/archive/2008/11/05/usability-vs-discoverability.aspx/"
 ---
+
 Usability and Discoverability (also referred to as Learnability) are
 often confused with one another, but they really are distinct concepts.
 In Joel Spolsky’s wonderful [User Interface Design for

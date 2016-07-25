@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Adding Mouse Over Row Highlighting To Tables"
+title: Adding Mouse Over Row Highlighting To Tables
 date: 2006-02-05 -0800
 comments: true
 disqus_identifier: 11683
 categories: []
+redirect_from: "/archive/2006/02/04/AddingMouseOverRowHighlightingToTables.aspx/"
 ---
+
 Intro
 -----
 

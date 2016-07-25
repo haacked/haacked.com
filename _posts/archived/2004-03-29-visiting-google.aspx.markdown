@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Visiting Google"
+title: Visiting Google
 date: 2004-03-29 -0800
 comments: true
 disqus_identifier: 279
 categories: []
+redirect_from: "/archive/2004/03/28/visiting-google.aspx/"
 ---
+
 I just realized that I haven't been to
 [Google.com](http://www.google.com) in a very long time. Maybe months.
 Oh, don't get me wrong, I've *used* Google plenty, but now with the IE

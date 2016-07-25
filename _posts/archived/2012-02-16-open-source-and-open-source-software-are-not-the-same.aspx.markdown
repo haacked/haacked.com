@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Open Source and Open Source Software Are Not The Same Things"
+title: Open Source and Open Source Software Are Not The Same Things
 date: 2012-02-16 -0800
 comments: true
 disqus_identifier: 18847
-categories: [code,asp.net mvc,open source,community]
+categories:
+- code
+- asp.net mvc
+- open source
+- community
+redirect_from: "/archive/2012/02/15/open-source-and-open-source-software-are-not-the-same.aspx/"
 ---
+
 UPDATE: I have a [follow-up
 post](http://haacked.com/archive/2012/02/22/spirit-of-open-source.aspx "Spirit of OS")
 that addresses a few criticisms of this post.

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Video Dice Stacking"
+title: Video Dice Stacking
 date: 2007-04-08 -0800
 comments: true
 disqus_identifier: 18271
 categories: []
+redirect_from: "/archive/2007/04/07/video-dice-stacking.aspx/"
 ---
+
 I think it’s time to start a video collection of amazing talents people
 acquire when they have too much time on their hands. This one must
 surely qualify. It’s worth two minutes of your time to check it out.

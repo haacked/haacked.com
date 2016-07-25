@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Log4Net Troubleshooting"
+title: Log4Net Troubleshooting
 date: 2006-09-27 -0800
 comments: true
 disqus_identifier: 17270
 categories: []
+redirect_from: "/archive/2006/09/26/Log4Net_Troubleshooting.aspx/"
 ---
+
 When Log4Net doesn’t work, it can be a very frustrating experience. 
 Unlike your typical application library, log4net doesn’t throw
 exceptions when it fails.  Well that is to be expected and makes a lot

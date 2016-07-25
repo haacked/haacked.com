@@ -4,8 +4,12 @@ title: "[Tip Jar] Unit Test Events With Anonymous Delegates"
 date: 2006-12-13 -0800
 comments: true
 disqus_identifier: 18166
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2006/12/12/tip_jar_unit_test_events_with_anonymous_delegates.aspx/"
 ---
+
 Here we are already looking ahead to learn about the language [features
 of C\#
 3.0](http://channel9.msdn.com/ShowPost.aspx?PostID=10276 "Channel 9 - Programming Data in C# 3.0")

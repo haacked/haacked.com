@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Snowboarding weekend"
+title: Snowboarding weekend
 date: 2004-02-17 -0800
 comments: true
 disqus_identifier: 200
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2004/02/16/snowboarding-weekend-mountain-high.aspx/"
 ---
+
 ![Snowboarding](/images/Snowboarding.JPG)Yesterday Akumi, Laura, Judy,
 and I drove to Mountain High (not a reference to smoking out) for a day
 of snowboarding. This would be my second time snowboarding since the big

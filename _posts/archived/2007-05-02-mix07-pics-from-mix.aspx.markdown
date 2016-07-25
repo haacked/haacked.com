@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "MIX07 Pics From Mix"
+title: MIX07 Pics From Mix
 date: 2007-05-02 -0800
 comments: true
 disqus_identifier: 18301
 categories: []
+redirect_from: "/archive/2007/05/01/mix07-pics-from-mix.aspx/"
 ---
+
 Thought I’d post a few pics from mix with some notes. Click on any for a
 larger view.
 

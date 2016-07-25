@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Personal UPS System Recommendations"
+title: Personal UPS System Recommendations
 date: 2006-02-17 -0800
 comments: true
 disqus_identifier: 11830
 categories: []
+redirect_from: "/archive/2006/02/16/PersonalUPSSystemRecommendations.aspx/"
 ---
+
 ![Power mast](http://haacked.com/images/PowerMast.jpg) Just had a short
 power outtage at home, which sucks because I work here. I was taking a
 short break downstairs reading when the lights suddenly turned off. I

@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "UrlScan Broke My Blog (And How I Fixed It)"
+title: UrlScan Broke My Blog (And How I Fixed It)
 date: 2010-09-26 -0800
 comments: true
 disqus_identifier: 18722
-categories: [asp.net,subtext,code]
+categories:
+- asp.net
+- subtext
+- code
+redirect_from: "/archive/2010/09/25/url-scan-broke-my-blog.aspx/"
 ---
+
 By now, you’re probably aware of a serious [ASP.NET
 Vulnerability](http://weblogs.asp.net/scottgu/archive/2010/09/18/important-asp-net-security-vulnerability.aspx "Security Vulnerability")
 going around. The ASP.NET team has been working around the clock to

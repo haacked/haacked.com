@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Atlas Comment Spam Heuristics"
+title: Atlas Comment Spam Heuristics
 date: 2006-09-19 -0800
 comments: true
 disqus_identifier: 16843
 categories: []
+redirect_from: "/archive/2006/09/18/Atlas_Comment_Spam_Heuristics.aspx/"
 ---
+
 Remember my [recent
 post](http://haacked.com/archive/2006/08/29/Comment_Spam_Heuristics.aspx)
 in which I suggested that we need more heuristic approaches to the

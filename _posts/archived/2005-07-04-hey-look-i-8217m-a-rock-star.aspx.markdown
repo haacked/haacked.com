@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hey Look! I&#8217;m a Rock Star!"
+title: Hey Look! I&#8217;m a Rock Star!
 date: 2005-07-04 -0800
 comments: true
 disqus_identifier: 7587
 categories: []
+redirect_from: "/archive/2005/07/03/hey-look-i-8217m-a-rock-star.aspx/"
 ---
+
 I don’t know who these people are, but [How To
 Rockstar](http://howtorockstar.blogspot.com/) just [wrote up my blog
 with a very nice

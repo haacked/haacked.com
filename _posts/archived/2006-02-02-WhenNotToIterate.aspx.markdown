@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "When Not To Iterate"
+title: When Not To Iterate
 date: 2006-02-02 -0800
 comments: true
 disqus_identifier: 11645
 categories: []
+redirect_from: "/archive/2006/02/01/WhenNotToIterate.aspx/"
 ---
+
 As a kid, one of my favorite tools I had was a shiny red cased
 Victorinox swiss army knife. I’d carry that sucker around with me
 everywhere, using the main blade to tackle nearly every problem like a

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "I Used To Work For Fun"
+title: I Used To Work For Fun
 date: 2006-07-06 -0800
 comments: true
 disqus_identifier: 13734
 categories: []
+redirect_from: "/archive/2006/07/05/IUsedToWorkForFun.aspx/"
 ---
+
 Jeff asks the question, “Isn’t programming supposed to be fun?”? Ha ha
 ha, naive little bunny. As if the person who invented programming had
 *fun* in mind. Silly rabbit.

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Schwimmer's Clarifies His Bloglines Stance"
+title: Schwimmer's Clarifies His Bloglines Stance
 date: 2005-01-16 -0800
 comments: true
 disqus_identifier: 1881
 categories: []
+redirect_from: "/archive/2005/01/15/schwimmers-clarifies-his-bloglines-stance.aspx/"
 ---
+
 Schwimmer [makes some good
 points](http://trademark.blog.us/blog/2005/01/15.html#a1531) in his
 clarification to his decision to ask Bloglines to remove his feed. A few

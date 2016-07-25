@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "MEME: Top 10 Recent Blogs"
+title: 'MEME: Top 10 Recent Blogs'
 date: 2005-09-23 -0800
 comments: true
 disqus_identifier: 10326
 categories: []
+redirect_from: "/archive/2005/09/22/Top10RecentBlogs.aspx/"
 ---
+
 Ok, I am looking for some blogging fresh meat, so I thought I’d try my
 hand at starting a meme. The criteria is purposely vague and very
 simple. I want you to list ten blogs you’ve really enjoyed reading

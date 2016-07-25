@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Avoid Using a Database as an API Integration Point"
+title: Avoid Using a Database as an API Integration Point
 date: 2007-04-23 -0800
 comments: true
 disqus_identifier: 18292
 categories: []
+redirect_from: "/archive/2007/04/22/avoid-using-a-database-as-an-api-integration-point.aspx/"
 ---
+
 Before I begin, I should clarify what I mean by *using a database as an
 API integration point*.
 

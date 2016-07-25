@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Why Didn't Anyone Tell Me Steve McConnell Has A Blog!?"
+title: Why Didn't Anyone Tell Me Steve McConnell Has A Blog!?
 date: 2007-05-24 -0800
 comments: true
 disqus_identifier: 18328
 categories: []
+redirect_from: "/archive/2007/05/23/why-didnt-anyone-tell-me-steve-mcconnel-has-a-blog.aspx/"
 ---
+
 Come on people! I count on you to keep me informed! It looks like he
 started it way back in March.
 

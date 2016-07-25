@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Don't Buy Our Book. Win It. Or Win that XBox. Your Choice."
+title: Don't Buy Our Book. Win It. Or Win that XBox. Your Choice.
 date: 2007-11-05 -0800
 comments: true
 disqus_identifier: 18417
 categories: []
+redirect_from: "/archive/2007/11/04/dont-buy-our-book-win-it-or-win-that-x-box.aspx/"
 ---
+
 Recently I [gave out a few free
 copies](http://haacked.com/archive/2007/10/04/get-a-free-copy-of-our-new-book.aspx "Get a Free Copy of our new book")
 of a book I co-wrote, but ran out quickly. This is the same book that

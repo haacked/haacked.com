@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Merry Christmas"
+title: Merry Christmas
 date: 2009-12-24 -0800
 comments: true
 disqus_identifier: 18670
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2009/12/23/merry-christmas-2009.aspx/"
 ---
+
 Just wanted to wish you all a Merry Christmas, Happy Holidays, or a
 Happy whatever you are celebrating at this time of year. I hope you are
 spending it well with family and friends! :)

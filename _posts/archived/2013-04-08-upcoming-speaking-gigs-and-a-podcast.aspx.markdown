@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Upcoming Speaking Gigs and a Podcast"
+title: Upcoming Speaking Gigs and a Podcast
 date: 2013-04-08 -0800
 comments: true
 disqus_identifier: 18887
-categories: [community,open source,personal]
+categories:
+- community
+- open source
+- personal
+redirect_from: "/archive/2013/04/07/upcoming-speaking-gigs-and-a-podcast.aspx/"
 ---
+
 Someone recently emailed me to ask if I’m speaking at any upcoming
 conferences this year. Good question!
 

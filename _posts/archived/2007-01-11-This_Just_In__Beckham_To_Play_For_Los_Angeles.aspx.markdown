@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "This Just In - Beckham To Play For Los Angeles"
+title: This Just In - Beckham To Play For Los Angeles
 date: 2007-01-11 -0800
 comments: true
 disqus_identifier: 18190
 categories: []
+redirect_from: "/archive/2007/01/10/This_Just_In__Beckham_To_Play_For_Los_Angeles.aspx/"
 ---
+
 [![David
 Beckham](http://haacked.com/images/haacked_com/WindowsLiveWriter/ThisJustInBeckhamToPlayForLosAngeles_8FE4/david-beckham-11_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/ThisJustInBeckhamToPlayForLosAngeles_8FE4/david-beckham-11%5B2%5D.jpg)Looks
 like [Beckham is moving to La La

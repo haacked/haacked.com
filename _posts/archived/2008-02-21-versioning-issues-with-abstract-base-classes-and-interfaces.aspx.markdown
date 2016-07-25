@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Versioning Issues With Abstract Base Classes and Interfaces"
+title: Versioning Issues With Abstract Base Classes and Interfaces
 date: 2008-02-21 -0800
 comments: true
 disqus_identifier: 18457
-categories: [asp.net,code]
+categories:
+- asp.net
+- code
+redirect_from: "/archive/2008/02/20/versioning-issues-with-abstract-base-classes-and-interfaces.aspx/"
 ---
+
 [Eilon
 Lipton](http://weblogs.asp.net/leftslipper/ "Eilon Litpon's blog")
 recently wrote a bit about [context objects in ASP.NET

@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Using AntiXss As The Default Encoder For ASP.NET"
+title: Using AntiXss As The Default Encoder For ASP.NET
 date: 2010-04-06 -0800
 comments: true
 disqus_identifier: 18694
-categories: [asp.net mvc,asp.net,code]
+categories:
+- asp.net mvc
+- asp.net
+- code
+redirect_from: "/archive/2010/04/05/using-antixss-as-the-default-encoder-for-asp-net.aspx/"
 ---
+
 This is the third in a three part series related to HTML encoding
 blocks, aka the `<%: ... %>` syntax.
 

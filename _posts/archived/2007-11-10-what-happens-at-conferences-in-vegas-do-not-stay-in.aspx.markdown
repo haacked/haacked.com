@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "What Happens At Conferences In Vegas Do Not Stay In Vegas"
+title: What Happens At Conferences In Vegas Do Not Stay In Vegas
 date: 2007-11-10 -0800
 comments: true
 disqus_identifier: 18419
 categories: []
+redirect_from: "/archive/2007/11/09/what-happens-at-conferences-in-vegas-do-not-stay-in.aspx/"
 ---
+
 Last week I was busy in Las Vegas at the DevConnections/OpenForce
 conferences, and unlike that pithy but over-used catch-phrase, what
 happens at a conference in Vegas should definitely *not* stay in Vegas

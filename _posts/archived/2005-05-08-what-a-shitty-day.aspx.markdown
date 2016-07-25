@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "What a Shitty Day"
+title: What a Shitty Day
 date: 2005-05-08 -0800
 comments: true
 disqus_identifier: 3079
 categories: []
+redirect_from: "/archive/2005/05/07/what-a-shitty-day.aspx/"
 ---
+
 Today has been an awful day, starting just past midnight, I [lose the
 database](http://haacked.com/archive/2005/05/08/3076.aspx) for my site.
 Later, I played in the most dreadful soccer game ever. We only fielded

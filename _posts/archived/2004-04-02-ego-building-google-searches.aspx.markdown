@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ego-Building Google Searches"
+title: Ego-Building Google Searches
 date: 2004-04-02 -0800
 comments: true
 disqus_identifier: 295
 categories: []
+redirect_from: "/archive/2004/04/01/ego-building-google-searches.aspx/"
 ---
+
 ![](/images/Google.jpg)[Adam
 Kinney](http://www.adamkinney.com/PermaLink.aspx?guid=ed62bac1-6a0b-4505-b3b2-e74f1ccdee74)
 posts about finding Google phrases that return your site at \#1 with

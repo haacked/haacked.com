@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "What Does My Testing MailServer Test That A Mock Would Not?"
+title: What Does My Testing MailServer Test That A Mock Would Not?
 date: 2006-05-31 -0800
 comments: true
 disqus_identifier: 13076
 categories: []
+redirect_from: "/archive/2006/05/30/WhatDoesMyTestingMailServerTestThatAMockWouldNot.aspx/"
 ---
+
 [Greg Young](http://geekswithblogs.net/gyoung/ "Greg Young's Blog")
 takes my [Testing Mail
 Server](http://haacked.com/archive/2006/05/30/ATestingMailServerForUnitTestingEmailFunctionality.aspx "Testing Mail Server")

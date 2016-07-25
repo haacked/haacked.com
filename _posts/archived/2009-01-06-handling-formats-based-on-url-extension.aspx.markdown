@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Handling Formats Based On Url Extension"
+title: Handling Formats Based On Url Extension
 date: 2009-01-06 -0800
 comments: true
 disqus_identifier: 18571
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2009/01/05/handling-formats-based-on-url-extension.aspx/"
 ---
+
 [Rob](http://blog.wekeroad.com/ "Rob Conery") pinged me today asking
 about how to respond to requests using different formats based on the
 extension in the URL. More specifically, he’d like to respond with HTML

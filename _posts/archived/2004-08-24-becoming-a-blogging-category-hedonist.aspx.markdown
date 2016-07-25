@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Becoming a Blogging &quot;Category Hedonist&quot;."
+title: Becoming a Blogging &quot;Category Hedonist&quot;.
 date: 2004-08-24 -0800
 comments: true
 disqus_identifier: 970
 categories: []
+redirect_from: "/archive/2004/08/23/becoming-a-blogging-category-hedonist.aspx/"
 ---
+
 When I started blogging, I was a category ascetic. I figured I should
 keep categories to a minimum across very strict dividing lines. I was
 going for a Zen approach. The thought process I had is that each

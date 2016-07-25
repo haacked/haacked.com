@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Don't Be a Validation Nazi"
+title: Don't Be a Validation Nazi
 date: 2007-08-26 -0800
 comments: true
 disqus_identifier: 18385
-categories: [code,regex]
+categories:
+- code
+- regex
+redirect_from: "/archive/2007/08/25/dont-be-a-validation-nazi.aspx/"
 ---
+
 In my [last
 post](http://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx "I Knew How To Validate an Email Address Until I Read The RFC"),
 I wrote about how most email validation routines are too strict when

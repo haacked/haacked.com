@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Blog Moved Off Of WebHost4Life"
+title: Blog Moved Off Of WebHost4Life
 date: 2006-04-19 -0800
 comments: true
 disqus_identifier: 12473
 categories: []
+redirect_from: "/archive/2006/04/18/BlogMovedOffOfWebHost4Life.aspx/"
 ---
+
 I recently moved my blog off of
 [WebHost4Life](http://webhost4life.com/ "Web Host 4 Life Website") where
 I have had it hosted for a couple years now. Apparently the traffic on

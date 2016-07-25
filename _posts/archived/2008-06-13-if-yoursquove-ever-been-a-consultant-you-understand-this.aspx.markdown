@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "If You&rsquo;ve Ever Been A Consultant, You Understand This"
+title: If You&rsquo;ve Ever Been A Consultant, You Understand This
 date: 2008-06-13 -0800
 comments: true
 disqus_identifier: 18493
-categories: [humor]
+categories:
+- humor
+redirect_from: "/archive/2008/06/12/if-yoursquove-ever-been-a-consultant-you-understand-this.aspx/"
 ---
+
 Today’s Dilbert described one of the most challenging problems small
 consulting companies face. I’m sure
 [Jon](http://weblogs.asp.net/jgalloway/ "Jon Galloway"),

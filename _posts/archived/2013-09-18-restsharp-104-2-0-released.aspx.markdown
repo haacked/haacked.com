@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "RestSharp 104.2.0 Released"
+title: RestSharp 104.2.0 Released
 date: 2013-09-18 -0800
 comments: true
 disqus_identifier: 18900
-categories: [code,open source]
+categories:
+- code
+- open source
+redirect_from: "/archive/2013/09/17/restsharp-104-2-0-released.aspx/"
 ---
+
 Just shipped a new release of [RestSharp to
 NuGet](https://www.nuget.org/packages/RestSharp/ "RestSharp on NuGet").
 For those who don’t know, RestSharp is a simple REST and HTTP API Client

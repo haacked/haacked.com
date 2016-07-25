@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "A Few Notes About The MVC CodePlex Source Code Release"
+title: A Few Notes About The MVC CodePlex Source Code Release
 date: 2008-03-21 -0800
 comments: true
 disqus_identifier: 18466
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2008/03/20/a-few-notes-about-the-mvc-codeplex-source-code-release.aspx/"
 ---
+
 Whew! I’ve held off writing about MVC until I could write [a non-MVC
 post](http://haacked.com/archive/2008/03/21/is-pizza-brain-food.aspx "Is Pizza Brain Food?")
 in response to some [constructive

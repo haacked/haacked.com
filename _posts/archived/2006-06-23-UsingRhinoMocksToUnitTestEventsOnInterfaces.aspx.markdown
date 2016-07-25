@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Using Rhino Mocks To Unit Test Events on Interfaces"
+title: Using Rhino Mocks To Unit Test Events on Interfaces
 date: 2006-06-23 -0800
 comments: true
 disqus_identifier: 13491
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2006/06/22/usingrhinomockstounittesteventsoninterfaces.aspx/"
 ---
+
 ![Rhino](http://haacked.com/images/Rhino.jpg) I am working on some code
 using the [Model View
 Presenter](http://www.martinfowler.com/eaaDev/ModelViewPresenter.html "Fowler Article on MVP")

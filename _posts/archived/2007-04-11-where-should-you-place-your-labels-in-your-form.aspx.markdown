@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Where Should You Place Your Labels In Your Form"
+title: Where Should You Place Your Labels In Your Form
 date: 2007-04-11 -0800
 comments: true
 disqus_identifier: 18278
 categories: []
+redirect_from: "/archive/2007/04/10/where-should-you-place-your-labels-in-your-form.aspx/"
 ---
+
 UPDATE: [Luke Wroblewski](http://www.lukew.com/ "Luke Wroblewski")
 posted a link in my comments to his [Best Practices for Form Design
 PDF](http://www.lukew.com/resources/articles/WebForms_LukeW.pdf "Presentation on Form Design").

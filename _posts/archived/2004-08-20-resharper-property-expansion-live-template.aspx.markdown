@@ -1,12 +1,15 @@
 ---
 layout: post
-title: "ReSharper Property Expansion Live Template"
+title: ReSharper Property Expansion Live Template
 date: 2004-08-20 -0800
 comments: true
 disqus_identifier: 954
-redirect_from: "/archive/2004/08/20/954.aspx.html"
+redirect_from:
+- "/archive/2004/08/20/954.aspx.html"
+- "/archive/2004/08/19/resharper-property-expansion-live-template.aspx/"
 categories: []
 ---
+
 One thing I liked about CodeRush is that it came with several property
 expansion templates. However, ReSharper comes with a powerful template
 expansion editor for creating your own templates similar to what Whidbey

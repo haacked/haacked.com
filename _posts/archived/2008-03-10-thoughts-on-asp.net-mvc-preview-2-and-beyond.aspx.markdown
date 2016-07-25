@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Thoughts on ASP.NET MVC Preview 2 and Beyond"
+title: Thoughts on ASP.NET MVC Preview 2 and Beyond
 date: 2008-03-10 -0800
 comments: true
 disqus_identifier: 18462
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from: "/archive/2008/03/09/thoughts-on-asp.net-mvc-preview-2-and-beyond.aspx/"
 ---
+
 At this year’s [Mix
 conference](http://visitmix.com/2008/default.aspx "Mix08"), we announced
 the availability of the second preview for ASP.NET MVC which you can

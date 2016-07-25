@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "The Design Is Never Right The First Time"
+title: The Design Is Never Right The First Time
 date: 2008-05-31 -0800
 comments: true
 disqus_identifier: 18489
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2008/05/30/the-design-is-never-right-the-first-time.aspx/"
 ---
+
 ![tacoma\_narrows](http://haacked.com/images/haacked_com/WindowsLiveWriter/TheDesignIsNeverRightTheFirstTime_CC01/tacoma_narrows_3.jpg)
 The design is never right the first time. Nor is it usually right the
 second time. This is one of those key lessons you learn over time

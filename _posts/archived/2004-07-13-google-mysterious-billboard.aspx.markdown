@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Google's Mysterious Billboard"
+title: Google's Mysterious Billboard
 date: 2004-07-13 -0800
 comments: true
 disqus_identifier: 811
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2004/07/12/google-mysterious-billboard.aspx/"
 ---
+
 ![](/images/googlebillboard.jpg)Google apparently is behind this
 mysterious billboard that presents a nice number theory problem. *I love
 number theory!*

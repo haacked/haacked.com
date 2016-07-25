@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Quickstart Guide To Open Source Development With CVS and SourceForge"
+title: Quickstart Guide To Open Source Development With CVS and SourceForge
 date: 2005-05-11 -0800
 comments: true
 disqus_identifier: 3178
 categories: []
+redirect_from: "/archive/2005/05/10/QuickstartGuideToOpenSourceDevelopmentWithCVSAndSourceForge.aspx/"
 ---
+
 UPDATE: Whoops! I linked to the wrong versions of putty and pageant. I
 corrected the links.
 

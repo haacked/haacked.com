@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Syntax Highlighting Revisited: SnippetCompiler."
+title: 'Syntax Highlighting Revisited: SnippetCompiler.'
 date: 2004-06-17 -0800
 comments: true
 disqus_identifier: 642
 categories: []
+redirect_from: "/archive/2004/06/16/syntax-highlighting-revisited-snippetcompiler.aspx/"
 ---
+
 [![Snippet
 Compiler](/images/SnippetCompilerIcon.png)](http://www.sliver.com/dotnet/SnippetCompiler/)Regarding
 Syntax Highlighting, [Daniel Turini](http://dturini.blogspot.com/)

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "See You At Mix06"
+title: See You At Mix06
 date: 2006-03-15 -0800
 comments: true
 disqus_identifier: 12092
 categories: []
+redirect_from: "/archive/2006/03/14/SeeYouAtMix06.aspx/"
 ---
+
 Well maybe not all of you. For example, I know
 [Jayson](http://jaysonknight.com/blog/ "Jayson Knight") isn’t going.
 Sucker. (Oooh, I just *had* to rub it in, didn’t I?). ;)

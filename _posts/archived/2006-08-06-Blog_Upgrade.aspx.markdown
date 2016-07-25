@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Blog Upgrade"
+title: Blog Upgrade
 date: 2006-08-06 -0800
 comments: true
 disqus_identifier: 14688
 categories: []
+redirect_from: "/archive/2006/08/05/Blog_Upgrade.aspx/"
 ---
+
 If you read this blog outside of an aggregator, you might notice a few
 minor new tweaks. I am dogfooding Subtext 1.9 which runs on ASP.NET 2.0.
 We are very close to preparing a release, so I figured I would beta test

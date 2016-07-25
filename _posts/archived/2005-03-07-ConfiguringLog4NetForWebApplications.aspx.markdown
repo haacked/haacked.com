@@ -1,12 +1,16 @@
 ---
 layout: post
-title: "Quick and Dirty Guide to Configuring Log4Net For Web Applications"
+title: Quick and Dirty Guide to Configuring Log4Net For Web Applications
 date: 2005-03-07 -0800
 comments: true
-redirect_from: "/archive/2005/03/07/2317.aspx.html"
+redirect_from:
+- "/archive/2005/03/07/2317.aspx.html"
+- "/archive/2005/03/06/ConfiguringLog4NetForWebApplications.aspx/"
 disqus_identifier: 2317
-categories: [log4net logging aspnet]
+categories:
+- log4net logging aspnet
 ---
+
 UPDATE: I [wrote a
 post](http://haacked.com/archive/2006/07/09/ConfiguringLog4NetWithASP.NET2.0InMediumTrust.aspx "Configuring Log4Net in Medium Trust")
 with notes on getting this to work with ASP.NET 2.0.

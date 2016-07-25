@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Who Owns the Copyright for An Open Source Project"
+title: Who Owns the Copyright for An Open Source Project
 date: 2006-01-26 -0800
 comments: true
 disqus_identifier: 11589
-categories: [open source]
+categories:
+- open source
+redirect_from: "/archive/2006/01/25/WhoOwnstheCopyrightforAnOpenSourceProject.aspx/"
 ---
+
 This is part 3 in this series on copyright law and open source
 licensing. If you haven’t already, consider reading [Part
 1](http://haacked.com/archive/2006/01/24/TheDevelopersGuideToCopyrightLaw-Part1.aspx "Part 1 of the series")

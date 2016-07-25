@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Finding Bad Controllers"
+title: Finding Bad Controllers
 date: 2012-07-25 -0800
 comments: true
 disqus_identifier: 18864
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2012/07/24/finding-bad-controllers.aspx/"
 ---
+
 In one mailing list I’m on, someone ran into a problem where they
 renamed a controller, but ASP.NET MVC could not for the life of it find
 it. They double checked everything. But ASP.NET MVC simply reported a

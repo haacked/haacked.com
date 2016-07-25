@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Streamlined BDD Using SubSpec for xUnit.NET"
+title: Streamlined BDD Using SubSpec for xUnit.NET
 date: 2008-08-23 -0800
 comments: true
 disqus_identifier: 18526
-categories: [tdd,code]
+categories:
+- tdd
+- code
+redirect_from: "/archive/2008/08/22/introducing-subspec.aspx/"
 ---
+
 I admit, up until now I’ve largely ignored the
 [BDD](http://dannorth.net/introducing-bdd "Introducing BDD") (Behavior
 Driven Development) Context/Specification style of writing unit tests.

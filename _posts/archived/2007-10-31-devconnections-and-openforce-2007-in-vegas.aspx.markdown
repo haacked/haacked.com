@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "DevConnections and OpenForce 2007 in Vegas"
+title: DevConnections and OpenForce 2007 in Vegas
 date: 2007-10-31 -0800
 comments: true
 disqus_identifier: 18414
 categories: []
+redirect_from: "/archive/2007/10/30/devconnections-and-openforce-2007-in-vegas.aspx/"
 ---
+
 From Monday night to Thursday afternoon next week I will be in Las Vegas
 attending both DevConnections/ASPConnections as well as the DotNetNuke
 OpenForce conference. After that, I will be up in Redmond for the next

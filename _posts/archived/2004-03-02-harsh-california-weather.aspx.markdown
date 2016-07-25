@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Harsh California Weather"
+title: Harsh California Weather
 date: 2004-03-02 -0800
 comments: true
 disqus_identifier: 224
 categories: []
+redirect_from: "/archive/2004/03/01/harsh-california-weather.aspx/"
 ---
+
 I received this email from a coworker. It makes you stop and think,
 doesn't it?
 

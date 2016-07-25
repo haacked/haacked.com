@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Current Directory For Windows Service Is Not What You Expect"
+title: Current Directory For Windows Service Is Not What You Expect
 date: 2004-06-29 -0800
 comments: true
 disqus_identifier: 706
 categories: []
+redirect_from: "/archive/2004/06/28/current-directory-for-windows-service-is-not-what-you-expect.aspx/"
 ---
+
 At least it wasn't what I expected.  By default, the current directory
 for your Windows service is the System32 folder.  I keep forgetting that
 which causes me problems when I try to access a file or folder using a

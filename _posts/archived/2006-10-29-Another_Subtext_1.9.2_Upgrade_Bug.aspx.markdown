@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Another Subtext 1.9.2 Upgrade Bug"
+title: Another Subtext 1.9.2 Upgrade Bug
 date: 2006-10-29 -0800
 comments: true
 disqus_identifier: 18120
 categories: []
+redirect_from: "/archive/2006/10/28/Another_Subtext_1.9.2_Upgrade_Bug.aspx/"
 ---
+
 Steve Harman points out another [bug in the upgrade
 process](http://stevenharman.net/blog/archive/2006/10/29/Subtext_1.9.2__Upgrade_Bug.aspx). 
 I feel really terrible that this one slipped through, though as far as I

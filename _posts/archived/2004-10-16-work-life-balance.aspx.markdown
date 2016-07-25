@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Work-life balance"
+title: Work-life balance
 date: 2004-10-16 -0800
 comments: true
 disqus_identifier: 1376
 categories: []
+redirect_from: "/archive/2004/10/15/work-life-balance.aspx/"
 ---
+
 ![FastCompany](/images/FastCompany.jpg) Read [this
 article](http://www.fastcompany.com/magazine/87/balance-1.html) at
 FastCompany pointed to by [Steve Maine](http://hyperthink.net/blog/) and

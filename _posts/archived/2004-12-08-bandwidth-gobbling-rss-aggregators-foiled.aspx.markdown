@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Bandwidth-gobbling RSS aggregators: foiled!"
+title: 'Bandwidth-gobbling RSS aggregators: foiled!'
 date: 2004-12-08 -0800
 comments: true
 disqus_identifier: 1717
 categories: []
+redirect_from: "/archive/2004/12/07/bandwidth-gobbling-rss-aggregators-foiled.aspx/"
 ---
+
 This is great! Rather than wait for all the RSS Aggregators to properly
 use the If-Modified-Since header, implement it on the server instead via
 an IP address and User Agent combination. Now your first thought is

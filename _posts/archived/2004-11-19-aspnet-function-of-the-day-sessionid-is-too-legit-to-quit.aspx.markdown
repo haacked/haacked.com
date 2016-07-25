@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "ASP.NET Function of the Day: SessionId is &quot;Too Legit to Quit&quot;."
+title: 'ASP.NET Function of the Day: SessionId is &quot;Too Legit to Quit&quot;.'
 date: 2004-11-19 -0800
 comments: true
 disqus_identifier: 1653
 categories: []
+redirect_from: "/archive/2004/11/18/aspnet-function-of-the-day-sessionid-is-too-legit-to-quit.aspx/"
 ---
+
 So I was poking around the source code for how ASP.NET initiates session
 state etc... and noticed this method of the `SessionId` class. You gotta
 love the naming of this one. Steve McConnell (via Code Complete) would

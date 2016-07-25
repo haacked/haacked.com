@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Another Marginally Useful Tool - BatchConcat"
+title: Another Marginally Useful Tool - BatchConcat
 date: 2006-09-20 -0800
 comments: true
 disqus_identifier: 16952
 categories: []
+redirect_from: "/archive/2006/09/19/another_marginally_useful_tool__batchconcat.aspx/"
 ---
+
 UPDATE: In one comment, szeryf points out something I didn’t know and
 invalidates the need for the tool I wrote. This is why I post this
 stuff, so someone can tell me about a better way! Thanks szeryf! I’ve

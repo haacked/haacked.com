@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "An Obsessive Compulsive Guide To Source Code Formatting"
+title: An Obsessive Compulsive Guide To Source Code Formatting
 date: 2011-05-22 -0800
 comments: true
 disqus_identifier: 18790
-categories: [open source,nuget]
+categories:
+- open source
+- nuget
+redirect_from: "/archive/2011/05/21/an-obsessive-compulsive-guide-to-source-code-formatting.aspx/"
 ---
+
 Most developers I know are pretty anal about the formatting of their
 source code. I used to think I was pretty obsessive compulsive about it,
 but then I joined Microsoft and faced a whole new level of OCD

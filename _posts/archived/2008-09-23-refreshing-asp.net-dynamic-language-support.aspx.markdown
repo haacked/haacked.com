@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Refreshing ASP.NET Dynamic Language Support"
+title: Refreshing ASP.NET Dynamic Language Support
 date: 2008-09-23 -0800
 comments: true
 disqus_identifier: 18532
-categories: [asp.net,dlr]
+categories:
+- asp.net
+- dlr
+redirect_from: "/archive/2008/09/22/refreshing-asp.net-dynamic-language-support.aspx/"
 ---
+
 This afternoon we released a refresh of our DLR/IronPython support for
 ASP.NET, now called “[ASP.NET Dynamic Language
 Support](http://www.codeplex.com/aspnet/Wiki/View.aspx?title=Dynamic%20Language%20Support "ASP.NET MVC Dynamic Language Support")”,

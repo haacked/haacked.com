@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Quickstart Guide to Subversion on SourceForge"
+title: Quickstart Guide to Subversion on SourceForge
 date: 2006-02-22 -0800
 comments: true
 disqus_identifier: 11851
-categories: [code,open source]
+categories:
+- code
+- open source
+redirect_from: "/archive/2006/02/21/QuickstartGuidetoSubversiononSourceForge.aspx/"
 ---
+
 Good news!
 [SourceForge](http://sourceforge.net "SourceForge (new window)") now
 supports using

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Adding Web User Control To A Class Library In VS.NET 2005"
+title: Adding Web User Control To A Class Library In VS.NET 2005
 date: 2006-02-07 -0800
 comments: true
 disqus_identifier: 11728
 categories: []
+redirect_from: "/archive/2006/02/06/AddingWebUserControlToAClassLibraryInVS.NET2005.aspx/"
 ---
+
 If you’ve started on module development with DotNetNuke 4.0 and above in
 Visual Studio.NET 2005, you might run into a problem with trying to add
 a Web User Control (\*.ascx file) to a class library.

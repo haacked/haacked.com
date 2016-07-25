@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Austin Texas The Techie Town"
+title: Austin Texas The Techie Town
 date: 2010-02-28 -0800
 comments: true
 disqus_identifier: 18688
-categories: [asp.net,asp.net mvc,code,personal]
+categories:
+- asp.net
+- asp.net mvc
+- code
+- personal
+redirect_from: "/archive/2010/02/27/austin-texas-great-for-geeks.aspx/"
 ---
+
 If there’s one impression that Austin left on me, besides the one that
 Rudy’s “extra moist” barbecue left on my gut, is that it’s a developer
 friendly town.

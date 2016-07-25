@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "ASP.NET MVC 2 Beta Released"
+title: ASP.NET MVC 2 Beta Released
 date: 2009-11-17 -0800
 comments: true
 disqus_identifier: 18659
 categories: []
+redirect_from: "/archive/2009/11/16/asp.net-mvc-2-beta-released.aspx/"
 ---
+
 This is the first in a series on ASP.NET MVC 2 Beta
 
 1.  **ASP.NET MVC 2 Beta Released** (Release Announcement)

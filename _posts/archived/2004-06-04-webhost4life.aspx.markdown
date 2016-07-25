@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "WebHost4Life"
+title: WebHost4Life
 date: 2004-06-04 -0800
 comments: true
 disqus_identifier: 518
 categories: []
+redirect_from: "/archive/2004/06/03/webhost4life.aspx/"
 ---
+
 I now have a [WebHost4Life](http://webhost4life.com "WebHost4Life")
 account. I'll be moving my site there sometime in the future. If you
 sign up for webhost4life, be sure to use this link or refer to me. :)

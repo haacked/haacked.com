@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Reviews of Fahrenheit 9/11"
+title: Reviews of Fahrenheit 9/11
 date: 2004-06-21 -0800
 comments: true
 disqus_identifier: 656
 categories: []
+redirect_from: "/archive/2004/06/20/reviews-of-fahrenheit-911.aspx/"
 ---
+
 ![Michael Moore](/images/MichaelMoore.jpg)I found this [scathing
 review](http://slate.msn.com/id/2102723/fr/rss/) on
 [Slate](http://www.slate.com/) of Michael Moore and his upcoming flick,

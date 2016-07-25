@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Writing to the Asp.Net Bin Directory"
+title: Writing to the Asp.Net Bin Directory
 date: 2005-10-31 -0800
 comments: true
 disqus_identifier: 11053
 categories: []
+redirect_from: "/archive/2005/10/30/writing-to-the-aspnet-bin-directory.aspx/"
 ---
+
 I have a question for those of you who host a blog with a hosting
 provider such as WebHost4Life. Do you make sure to remove write access
 for the ASPNET user to the bin directory? If so, would you be willing to

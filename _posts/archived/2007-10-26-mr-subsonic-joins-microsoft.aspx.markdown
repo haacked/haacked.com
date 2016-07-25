@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Mr Subsonic Joins Microsoft"
+title: Mr Subsonic Joins Microsoft
 date: 2007-10-26 -0800
 comments: true
 disqus_identifier: 18411
 categories: []
+redirect_from: "/archive/2007/10/25/mr-subsonic-joins-microsoft.aspx/"
 ---
+
 Like a lovesick puppy, my good friend [Rob
 Conery](http://blog.wekeroad.com/ "Rob Conery") is [following me to
 Microsoft](http://blog.wekeroad.com/2007/10/26/microsoft-subsonic-and-me/ "Rob Conery, Subsonic, and Microsoft").

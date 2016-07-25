@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "How a Method Becomes An Action"
+title: How a Method Becomes An Action
 date: 2008-08-29 -0800
 comments: true
 disqus_identifier: 18528
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2008/08/28/how-a-method-becomes-an-action.aspx/"
 ---
+
 This is one of them “[coming of
 age](http://en.wikipedia.org/wiki/Coming_of_age "Coming of age")”
 stories about how a lowly method becomes a full fledged Action in

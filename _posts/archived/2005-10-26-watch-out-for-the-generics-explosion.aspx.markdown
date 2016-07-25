@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Watch Out For the Generics Explosion"
+title: Watch Out For the Generics Explosion
 date: 2005-10-26 -0800
 comments: true
 disqus_identifier: 11033
 categories: []
+redirect_from: "/archive/2005/10/25/watch-out-for-the-generics-explosion.aspx/"
 ---
+
 By now, every developer and his mother knows that VS.NET 2005 and SQL
 Server 2005 [has been
 released](http://blogs.msdn.com/somasegar/archive/2005/10/27/485665.aspx).

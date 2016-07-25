@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Rough Start to the Day"
+title: Rough Start to the Day
 date: 2005-12-07 -0800
 comments: true
 disqus_identifier: 11317
 categories: []
+redirect_from: "/archive/2005/12/06/rough-start-to-the-day.aspx/"
 ---
+
 This morning I woke up with visions of sugar code dancing in my head. It
 is a coding day and I was ready to sling it, only to be bowled over in
 stomach pain. Not sure what it was, but it was very unpleasant and

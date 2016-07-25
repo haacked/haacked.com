@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Developers Are Not Plug and Play"
+title: Developers Are Not Plug and Play
 date: 2006-03-10 -0800
 comments: true
 disqus_identifier: 12049
 categories: []
+redirect_from: "/archive/2006/03/09/DevelopersAreNotPlugandPlay.aspx/"
 ---
+
 ![Plug and Play](http://haacked.com/images/plugandplay.jpg) It never
 ceases to amaze me how short sighted management at many companies can be
 with software developers. Jeremy Miller mentions a discussion he had at

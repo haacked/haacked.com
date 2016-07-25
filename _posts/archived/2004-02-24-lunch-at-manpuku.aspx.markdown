@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Lunch"
+title: Lunch
 date: 2004-02-24 -0800
 comments: true
 disqus_identifier: 210
 categories: []
+redirect_from: "/archive/2004/02/23/lunch-at-manpuku.aspx/"
 ---
+
 Just had lunch with Erik and Ben at Manpuku. If you’ve never been,
 Manpuku is on Sawtelle just north of Olympic in the strip mall where
 Hurry Curry is. If none of that made sense to you, then you probably

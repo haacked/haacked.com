@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Unit Testing is a Poor Example to Demonstrate a Complaint About Methodologies"
+title: Unit Testing is a Poor Example to Demonstrate a Complaint About Methodologies
 date: 2004-12-06 -0800
 comments: true
 disqus_identifier: 1704
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2004/12/05/unit-testing-benefits.aspx/"
 ---
+
 Although I agree in spirit with most of [Joel’s discussion of
 methodologies](http://www.joelonsoftware.com/items/2004/12/06.html) and
 rock star programmers, I’m in a bit of disagreement over the quote from

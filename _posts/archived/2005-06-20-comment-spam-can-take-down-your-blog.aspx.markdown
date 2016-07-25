@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Comment Spam Can Take Down Your Blog"
+title: Comment Spam Can Take Down Your Blog
 date: 2005-06-20 -0800
 comments: true
 disqus_identifier: 7047
 categories: []
+redirect_from: "/archive/2005/06/19/comment-spam-can-take-down-your-blog.aspx/"
 ---
+
 ![spam](/images/spam.jpg) I can have a very filthy mouth when pissed
 off. Take today for example, my dog was witness to a blistering stream
 of profanities as I found that my site was down. I was hit with a

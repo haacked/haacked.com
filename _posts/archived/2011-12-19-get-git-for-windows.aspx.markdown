@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Configure Git in PowerShell So You Don&rsquo;t Have to Enter Your Password All the Damn Time"
+title: Configure Git in PowerShell So You Don&rsquo;t Have to Enter Your Password
+  All the Damn Time
 date: 2011-12-19 -0800
 comments: true
 disqus_identifier: 18834
-categories: [git,code]
+categories:
+- git
+- code
+redirect_from: "/archive/2011/12/18/get-git-for-windows.aspx/"
 ---
+
 My last post covered how to [improve your Git experience on Windows using PowerShell, Posh-Git, and PsGet](http://haacked.com/archive/2011/12/13/better-git-with-powershell.aspx "Better Git with PowerShell").
 However, a commenter reminded me that a lot of folks don’t know how to get Git for Windows in the first place.
 

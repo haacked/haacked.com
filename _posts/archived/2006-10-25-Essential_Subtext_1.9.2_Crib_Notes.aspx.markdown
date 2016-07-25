@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Essential Subtext 1.9.2 Crib Notes"
+title: Essential Subtext 1.9.2 Crib Notes
 date: 2006-10-25 -0800
 comments: true
 disqus_identifier: 18109
 categories: []
+redirect_from: "/archive/2006/10/24/Essential_Subtext_1.9.2_Crib_Notes.aspx/"
 ---
+
 UPDATE: A bug was reported that blog posts could not be deleted. We
 have updated the release files [with a fixed
 version](http://haacked.com/archive/2006/10/26/Subtext_1.9.2_Bugfix_Update.aspx "Subtext 1.9.2 Bugfix Update"). 

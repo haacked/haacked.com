@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "DataGrid With a Title Row"
+title: DataGrid With a Title Row
 date: 2005-04-19 -0800
 comments: true
 disqus_identifier: 2741
 categories: []
+redirect_from: "/archive/2005/04/18/DataGridWithATitleRow.aspx/"
 ---
+
 One thing I've found annoying at times with the DataGrid control is
 there's no way to specify a title to be displayed above the headers.
 Being lazy, I often resorted to adding a label above the data grid

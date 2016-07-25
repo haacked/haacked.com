@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "A Little Holiday Love From The ASP.NET MVC Team"
+title: A Little Holiday Love From The ASP.NET MVC Team
 date: 2008-12-19 -0800
 comments: true
 disqus_identifier: 18566
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2008/12/18/a-little-holiday-love-from-the-asp.net-mvc-team.aspx/"
 ---
+
 A while ago [ScottGu](http://weblogs.asp.net/scottgu/ "Scott Guthrie")
 mentioned in his blog that we would try and have an [ASP.NET
 MVC](http://asp.net/mvc "ASP.NET MVC Website") Release Candidate by the

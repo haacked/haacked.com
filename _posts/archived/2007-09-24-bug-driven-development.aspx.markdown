@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Bug Driven Development"
+title: Bug Driven Development
 date: 2007-09-24 -0800
 comments: true
 disqus_identifier: 18400
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2007/09/23/bug-driven-development.aspx/"
 ---
+
 It is a sad fact of life that, in this day and age, arguments are not
 won with sound logic and reasoning. Instead, applying the principle of
 [framing an

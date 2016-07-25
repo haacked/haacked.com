@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Help Make Blogs More Visible!"
+title: Help Make Blogs More Visible!
 date: 2004-08-06 -0800
 comments: true
 disqus_identifier: 890
 categories: []
+redirect_from: "/archive/2004/08/05/help-make-blogs-more-visible.aspx/"
 ---
+
 > There are by some estimates more than a million weblogs. But most of
 > them get no visibility in search engines. Only a few "A-List" blogs
 > get into the top search engine results for a given topic, while the

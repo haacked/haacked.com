@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Doing Work Without Threads"
+title: Doing Work Without Threads
 date: 2004-09-22 -0800
 comments: true
 disqus_identifier: 1255
 categories: []
+redirect_from: "/archive/2004/09/21/doing-work-without-threads.aspx/"
 ---
+
 A while ago I wrote up a [post on Asynchronous
 Sockets](http://haacked.com/archive/2004/08/06/882.aspx).
 [Ian](http://www.interact-sw.co.uk/iangblog/) was kind enough to send me

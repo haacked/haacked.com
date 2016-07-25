@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Extending ASP.NET MVC To Add Conventions"
+title: Extending ASP.NET MVC To Add Conventions
 date: 2007-12-08 -0800
 comments: true
 disqus_identifier: 18433
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from: "/archive/2007/12/07/extending-asp.net-mvc-to-add-conventions.aspx/"
 ---
+
 UPDATE: Much of this post is out-of-date with the latest versions of
 MVC. We long sinced removed the `ControllerAction` attribute.
 

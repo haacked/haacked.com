@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Simple Usability"
+title: Simple Usability
 date: 2009-03-24 -0800
 comments: true
 disqus_identifier: 18600
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2009/03/23/simple-usability.aspx/"
 ---
+
 Recently, I tried to accomplish a simple task on a website which
 frustrated me because what should have been simple, was not. All I
 wanted to do was go to the [Mix

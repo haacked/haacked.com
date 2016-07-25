@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Quotas, What Are They Good For?"
+title: Quotas, What Are They Good For?
 date: 2012-09-03 -0800
 comments: true
 disqus_identifier: 18867
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2012/09/02/quotas-what-are-they-good-for.aspx/"
 ---
+
 If you look hard enough at our industry (really at all industries),
 you’ll find many implicit quotas in play. For example, some companies
 demand a minimum set of hours worked per week.

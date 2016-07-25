@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Yes!  Moving from VSS to Subversion"
+title: Yes!  Moving from VSS to Subversion
 date: 2005-07-10 -0800
 comments: true
 disqus_identifier: 8581
 categories: []
+redirect_from: "/archive/2005/07/09/yes-moving-from-vss-to-subversion.aspx/"
 ---
+
 I just received the good news from one of my clients that they installed
 [Subversion](http://subversion.tigris.org/) over the weekend. We’ve all
 been wrestling with using Microsoft Visual Source~~Crap~~Safe over the

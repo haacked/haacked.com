@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tablet PC Question?  M200 Or Not M200?"
+title: Tablet PC Question?  M200 Or Not M200?
 date: 2004-09-06 -0800
 comments: true
 disqus_identifier: 1151
 categories: []
+redirect_from: "/archive/2004/09/05/tablet-pc-question-m200-or-not-m200.aspx/"
 ---
+
 ![Toshiba M200](/images/m200.jpg) So I am in the market for a Tablet PC
 and after a bit of research, the Toshiba Portege M200 is the top
 contender for my hard earned dollar.

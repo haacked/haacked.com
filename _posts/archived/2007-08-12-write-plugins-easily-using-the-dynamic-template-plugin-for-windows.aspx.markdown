@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Write Plugins Easily Using The Dynamic Template Plugin For Windows Live Writer"
+title: Write Plugins Easily Using The Dynamic Template Plugin For Windows Live Writer
 date: 2007-08-12 -0800
 comments: true
 disqus_identifier: 18380
 categories: []
+redirect_from: "/archive/2007/08/11/write-plugins-easily-using-the-dynamic-template-plugin-for-windows.aspx/"
 ---
+
 [Joe Cheng](http://jcheng.wordpress.com/ "Joe Cheng"), member of the
 Windows Live Writer team, [just
 unveiled](http://jcheng.wordpress.com/2007/08/10/new-plugin-dynamic-template/ "New plugin: Dynamic Template")

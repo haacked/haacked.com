@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Simulating Http Context For Unit Tests Without Using Cassini nor IIS"
+title: Simulating Http Context For Unit Tests Without Using Cassini nor IIS
 date: 2005-06-11 -0800
 comments: true
 disqus_identifier: 4617
 categories: []
+redirect_from: "/archive/2005/06/10/simulating_httpcontext.aspx/"
 ---
+
 UPDATE: I have recently posted a [newer and better version of this code](http://haacked.com/archive/2007/06/19/unit-tests-web-code-without-a-web-server-using-httpsimulator.aspx "HttpSimulator")
 on my blog.
 

@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Using Routing With WebForms"
+title: Using Routing With WebForms
 date: 2008-03-11 -0800
 comments: true
 disqus_identifier: 18463
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from: "/archive/2008/03/10/using-routing-with-webforms.aspx/"
 ---
+
 UPDATE: I updated the sample to work with the final version of ASP.NET
 Routing included with ASP.NET 3.5 SP1. This sample is now being hosted
 on CodePlex.

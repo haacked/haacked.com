@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "It's a Love Fest At The WWW Creator's Blog"
+title: It's a Love Fest At The WWW Creator's Blog
 date: 2005-12-16 -0800
 comments: true
 disqus_identifier: 11349
 categories: []
+redirect_from: "/archive/2005/12/15/its-a-love-fest-at-the-www-creators-blog.aspx/"
 ---
+
 [Sir Tim Berners-Lee](http://en.wikipedia.org/wiki/Tim_Berners-Lee)
 starts [a blog](http://dig.csail.mit.edu/breadcrumbs/blog/4) and it’s a
 veritable love fest in his [comments

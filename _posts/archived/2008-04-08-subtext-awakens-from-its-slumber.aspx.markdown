@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Subtext Awakens From Its Slumber"
+title: Subtext Awakens From Its Slumber
 date: 2008-04-08 -0800
 comments: true
 disqus_identifier: 18470
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2008/04/07/subtext-awakens-from-its-slumber.aspx/"
 ---
+
 ![Subtext Submarine
 Logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext1.9.5Release_EEA4/subtextsubmarinelogo6.png)It’s
 been all quiet on the Subtext front for a while. While I think many open

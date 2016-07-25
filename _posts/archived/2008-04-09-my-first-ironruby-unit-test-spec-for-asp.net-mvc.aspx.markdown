@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "My First IronRuby Unit Test Spec For ASP.NET MVC"
+title: My First IronRuby Unit Test Spec For ASP.NET MVC
 date: 2008-04-09 -0800
 comments: true
 disqus_identifier: 18473
-categories: [asp.net,asp.net mvc,code,tdd]
+categories:
+- asp.net
+- asp.net mvc
+- code
+- tdd
+redirect_from: "/archive/2008/04/08/my-first-ironruby-unit-test-spec-for-asp.net-mvc.aspx/"
 ---
+
 Way down the road, it would be nice to be able to build ASP.NET MVC
 applications using a
 [DLR](http://en.wikipedia.org/wiki/Dynamic_Language_Runtime "Dynamic Language Runtime on Wikipedia")

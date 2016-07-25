@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "ASP.NET MVC Tabular Display Template"
+title: ASP.NET MVC Tabular Display Template
 date: 2010-05-05 -0800
 comments: true
 disqus_identifier: 18698
-categories: [asp.net mvc,asp.net,code]
+categories:
+- asp.net mvc
+- asp.net
+- code
+redirect_from: "/archive/2010/05/04/asp-net-mvc-tabular-display-template.aspx/"
 ---
+
 The ASP.NET MVC2 templates feature is a pretty nice way to quickly
 scaffold objects at runtime. Be sure to read [Brad
 Wilson](http://bradwilson.typepad.com/blog/ "Brad Wilson's blog")’s

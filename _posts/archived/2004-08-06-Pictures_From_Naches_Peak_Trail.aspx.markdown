@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Pictures From Naches Peak Trail Near Mt. Rainier"
+title: Pictures From Naches Peak Trail Near Mt. Rainier
 date: 2004-08-06 -0800
 comments: true
 disqus_identifier: 887
 categories: []
+redirect_from: "/archive/2004/08/05/Pictures_From_Naches_Peak_Trail.aspx/"
 ---
+
 Having been on one of the most beautiful hikes during our trip to
 Seattle, it would be a grave disservice not to post a few pictures of
 the hike here. For all you Microsofties out there (and other geeks in

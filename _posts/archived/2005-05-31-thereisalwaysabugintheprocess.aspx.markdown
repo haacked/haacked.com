@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Please Trust And Empower Your Employees. There&#8217;s Always A Bug In The Process."
+title: Please Trust And Empower Your Employees. There&#8217;s Always A Bug In The
+  Process.
 date: 2005-05-31 -0800
 comments: true
 disqus_identifier: 3952
-categories: [company culture]
+categories:
+- company culture
+redirect_from: "/archive/2005/05/30/thereisalwaysabugintheprocess.aspx/"
 ---
+
 In my limited experience so far, and from anecdotal evidence of nearly
 everyone I’ve ever met who had a boss at one time or another, managers
 as a whole still do not trust their employees. It’s a real shame if you

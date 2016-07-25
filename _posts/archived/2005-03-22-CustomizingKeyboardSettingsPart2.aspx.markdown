@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Customizing Keyboard Settings In RSS Bandit Part 2"
+title: Customizing Keyboard Settings In RSS Bandit Part 2
 date: 2005-03-22 -0800
 comments: true
 disqus_identifier: 2427
 categories: []
+redirect_from: "/archive/2005/03/21/CustomizingKeyboardSettingsPart2.aspx/"
 ---
+
 [In part
 1](http://haacked.com/archive/2005/03/22/CustomizingKeyboardSettingsPart1.aspx),
 I bored you with excrutiating detail about how we keyboard shortcuts are

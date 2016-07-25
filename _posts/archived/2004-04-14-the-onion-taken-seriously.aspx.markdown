@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Onion Taken Seriously"
+title: The Onion Taken Seriously
 date: 2004-04-14 -0800
 comments: true
 disqus_identifier: 324
 categories: []
+redirect_from: "/archive/2004/04/13/the-onion-taken-seriously.aspx/"
 ---
+
 ![](/images/theonion.jpg)I'm not one to act like an elitist snob and
 make fun of stupid people. Ok, who am I kidding. I do like to make fun
 of stupid people. Especially those with no sense of humor. Wired News

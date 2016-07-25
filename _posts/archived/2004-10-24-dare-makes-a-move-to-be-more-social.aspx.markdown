@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Dare Makes a Move to be More Social"
+title: Dare Makes a Move to be More Social
 date: 2004-10-24 -0800
 comments: true
 disqus_identifier: 1464
 categories: []
+redirect_from: "/archive/2004/10/23/dare-makes-a-move-to-be-more-social.aspx/"
 ---
+
 [Dare Obasanjo](http://www.25hoursaday.com/weblog/), the project lead on
 the [RSS Bandit project](http://www.rssbandit.org/) (of which I
 contribute) is leaving his post as a Program Manager on the XML team at

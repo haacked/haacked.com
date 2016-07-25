@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Death Of The Subtext Build Server"
+title: The Death Of The Subtext Build Server
 date: 2007-04-24 -0800
 comments: true
 disqus_identifier: 18293
 categories: []
+redirect_from: "/archive/2007/04/23/the-death-of-the-subtext-build-server.aspx/"
 ---
+
 Take a good look at this picture.
 
 [![Brick](http://haacked.com/images/haacked_com/WindowsLiveWriter/TheDeathOfTheSubtextBuildServer_14D3F/Brick_thumb%5B3%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/TheDeathOfTheSubtextBuildServer_14D3F/Brick%5B5%5D.jpg "A Brick")

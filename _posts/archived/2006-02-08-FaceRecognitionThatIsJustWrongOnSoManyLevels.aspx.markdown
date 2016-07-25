@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Face Recognition That Is Just Wrong On So Many Levels"
+title: Face Recognition That Is Just Wrong On So Many Levels
 date: 2006-02-08 -0800
 comments: true
 disqus_identifier: 11744
 categories: []
+redirect_from: "/archive/2006/02/07/FaceRecognitionThatIsJustWrongOnSoManyLevels.aspx/"
 ---
+
 So after reading [this post by Scott
 Hanselman](http://www.hanselman.com/blog/FaceRecognitionuhNotQuite.aspx "Face Recognition Blog Post"),
 I just had to try it out. He writes about a site called

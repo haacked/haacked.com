@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Tell Me Your Unit Testing Pains"
+title: Tell Me Your Unit Testing Pains
 date: 2008-02-05 -0800
 comments: true
 disqus_identifier: 18454
-categories: [asp.net,code]
+categories:
+- asp.net
+- code
+redirect_from: "/archive/2008/02/04/tell-me-your-unit-testing-pains.aspx/"
 ---
+
 If you know me, you know I go through
 [great](http://haacked.com/archive/2007/06/19/unit-tests-web-code-without-a-web-server-using-httpsimulator.aspx "HttpSimulator") [pains](http://haacked.com/archive/2006/05/30/ATestingMailServerForUnitTestingEmailFunctionality.aspx "A Testing Mail Server")
 to write automated unit tests for my code. Some might even call me anal

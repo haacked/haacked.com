@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "E3 Photos"
+title: E3 Photos
 date: 2004-05-17 -0800
 comments: true
 disqus_identifier: 454
 categories: []
+redirect_from: "/archive/2004/05/16/e3-photos.aspx/"
 ---
+
 Last Thursday I was lucky enough to attend the E3 Gaming Conference.
 It's basically a candy store for adolescent boys (or adults who cater to
 the inner adolescent). Two words characterize the expo, sex and

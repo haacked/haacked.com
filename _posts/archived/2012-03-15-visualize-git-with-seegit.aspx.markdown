@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Visualize Git with SeeGit"
+title: Visualize Git with SeeGit
 date: 2012-03-15 -0800
 comments: true
 disqus_identifier: 18852
-categories: [git,github,code]
+categories:
+- git
+- github
+- code
+redirect_from: "/archive/2012/03/14/visualize-git-with-seegit.aspx/"
 ---
+
 I recently gave my first talk on Git and GitHub to [the Dot Net Startup
 Group about Git and
 GitHub](http://www.dotnetstartup.com/events/51574692/?eventId=51574692&action=detail ".NET Startup Group").

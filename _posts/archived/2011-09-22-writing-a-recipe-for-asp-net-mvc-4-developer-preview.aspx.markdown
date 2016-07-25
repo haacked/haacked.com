@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Writing a Recipe for ASP.NET MVC 4 Developer Preview"
+title: Writing a Recipe for ASP.NET MVC 4 Developer Preview
 date: 2011-09-22 -0800
 comments: true
 disqus_identifier: 18815
-categories: [asp.net mvc,asp.net,nuget]
+categories:
+- asp.net mvc
+- asp.net
+- nuget
+redirect_from: "/archive/2011/09/21/writing-a-recipe-for-asp-net-mvc-4-developer-preview.aspx/"
 ---
+
 *NOTE: This blog post covers features in a pre-release product, ASP.NET
 MVC 4 **Developer Preview**. You’ll see we call out those two words a
 lot to cover our butt. The specifics about the feature **will change** 

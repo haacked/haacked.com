@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Making The Factory Pattern More Discoverable"
+title: Making The Factory Pattern More Discoverable
 date: 2005-06-28 -0800
 comments: true
 disqus_identifier: 7346
 categories: []
+redirect_from: "/archive/2005/06/27/making-the-factory-pattern-more-discoverable.aspx/"
 ---
+
 [Steven Clarke](http://blogs.msdn.com/stevencl/) has [an interesting
 post](http://blogs.msdn.com/stevencl/archive/2005/06/21/431230.aspx)
 about the usability (or lack thereof) of the Factory Pattern.

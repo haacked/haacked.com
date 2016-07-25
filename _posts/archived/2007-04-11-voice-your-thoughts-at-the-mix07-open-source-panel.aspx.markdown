@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Voice Your Thoughts At The Mix07 Open Source Panel"
+title: Voice Your Thoughts At The Mix07 Open Source Panel
 date: 2007-04-11 -0800
 comments: true
 disqus_identifier: 18280
 categories: []
+redirect_from: "/archive/2007/04/10/voice-your-thoughts-at-the-mix07-open-source-panel.aspx/"
 ---
+
 [Rob Conery](http://blog.wekeroad.com/ "Rob Conery") is [soliciting our
 feedback](http://blog.wekeroad.com/archive/2007/04/12/The-MIX07-Open-Source-Panel-I-Need-Your-Questions.aspx "I Need Your Questions")
 for a panel on Open Source that he᾿ll be participating in at Mix07.

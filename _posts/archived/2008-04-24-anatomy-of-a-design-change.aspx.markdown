@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Anatomy of a &quot;Small&quot; Software Design Change"
+title: Anatomy of a &quot;Small&quot; Software Design Change
 date: 2008-04-24 -0800
 comments: true
 disqus_identifier: 18480
-categories: [asp.net mvc,code]
+categories:
+- asp.net mvc
+- code
+redirect_from: "/archive/2008/04/23/anatomy-of-a-design-change.aspx/"
 ---
+
 File this one away for the next time your boss comes in and
 asks,[![lumberg[1]](http://haacked.com/images/haacked_com/WindowsLiveWriter/AnatomyofaDesignChange_7EB2/lumberg%5B1%5D_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/AnatomyofaDesignChange_7EB2/lumberg%5B1%5D_2.jpg)
 

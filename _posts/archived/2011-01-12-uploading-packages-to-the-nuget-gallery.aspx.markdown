@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Uploading Packages To The NuGet Gallery"
+title: Uploading Packages To The NuGet Gallery
 date: 2011-01-12 -0800
 comments: true
 disqus_identifier: 18755
-categories: [nuget,open source]
+categories:
+- nuget
+- open source
+redirect_from: "/archive/2011/01/11/uploading-packages-to-the-nuget-gallery.aspx/"
 ---
+
 As [David Ebbo](http://blog.davidebbo.com/ "David Ebbo's Blog") blogged
 today, the [NuGet Gallery is now open to the
 public](http://blog.davidebbo.com/2011/01/introducing-nuget-gallery.html "Introducing the NuGet Gallery").

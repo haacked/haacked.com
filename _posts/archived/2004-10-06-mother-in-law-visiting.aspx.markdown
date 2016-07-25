@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Mother-In-Law Visiting"
+title: Mother-In-Law Visiting
 date: 2004-10-06 -0800
 comments: true
 disqus_identifier: 1309
 categories: []
+redirect_from: "/archive/2004/10/05/mother-in-law-visiting.aspx/"
 ---
+
 Akumi's mother is visiting us from Tokyo for a couple weeks. I have to
 say, if she decided she wanted to move in, I would not complain.
 

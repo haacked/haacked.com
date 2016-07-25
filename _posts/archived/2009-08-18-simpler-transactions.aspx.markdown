@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Simpler Transactions"
+title: Simpler Transactions
 date: 2009-08-18 -0800
 comments: true
 disqus_identifier: 18638
 categories: []
+redirect_from: "/archive/2009/08/17/simpler-transactions.aspx/"
 ---
+
 The .NET Framework provides support for managing transactions from code
 via the
 [System.Transactions](http://msdn.microsoft.com/en-us/library/system.transactions.aspx "System.Transactions Namespace")

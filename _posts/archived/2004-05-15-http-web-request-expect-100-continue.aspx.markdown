@@ -1,12 +1,17 @@
 ---
 layout: post
-title: "HttpWebRequest and the Expect: 100-continue Header Problem"
+title: 'HttpWebRequest and the Expect: 100-continue Header Problem'
 date: 2004-05-15 -0800
 comments: true
 disqus_identifier: 449
-redirect_from: "/archive/2004/05/15/449.aspx"
-categories: [asp.net,code]
+redirect_from:
+- "/archive/2004/05/15/449.aspx"
+- "/archive/2004/05/14/http-web-request-expect-100-continue.aspx/"
+categories:
+- asp.net
+- code
 ---
+
 Apparently I’m not the only one to run into this annoying problem. When using the HttpWebRequest to POST form data using HTTP 1.1, it ALWAYS adds the following HTTP header "Expect: 100-Continue". Fixing the problem has proved to be quite elusive.
 
 According to the HTTP 1.1 protocol, when this header is sent, the form data is not sent with the initial request. Instead, this header is sent to the web server which responds with 100 (Continue) if implemented correctly. However, not all web servers handle this correctly, including the server to which I am attempting to post data. I sniffed the headers that Internet Explorer sends and noticed that it does not send this header, but my code does.

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Developing Custom Skins"
+title: Developing Custom Skins
 date: 2006-08-26 -0800
 comments: true
 disqus_identifier: 16092
 categories: []
+redirect_from: "/archive/2006/08/25/Developing_Custom_Skins.aspx/"
 ---
+
 This is my third post about Skinning in Subtext. Previously I talked
 about some [breaking
 changes](http://haacked.com/archive/2006/08/26/Subtext_Skinning_Changes.aspx). 

@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Blogtegrity"
+title: Blogtegrity
 date: 2006-03-07 -0800
 comments: true
 disqus_identifier: 12009
 categories: []
+redirect_from:
+- "/archive/2006/03/05/BlogtegrityAgain.aspx/"
+- "/archive/2006/03/06/BlogtegrityAgain.aspx/"
 ---
+
 [Scott over at LazyCoder](http://www.lazycoder.com/ "Lazy Coder Blog")
 called me out in my comments for [participating in Channel 9’s viral
 marketing](/archive/2006/03/06/BeyondChannel9.aspx "Am I Being Used?")

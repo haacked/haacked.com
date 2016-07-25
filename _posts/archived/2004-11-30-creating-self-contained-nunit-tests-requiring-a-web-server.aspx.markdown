@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Creating Self Contained NUnit Tests Requiring A Web Server"
+title: Creating Self Contained NUnit Tests Requiring A Web Server
 date: 2004-11-30 -0800
 comments: true
 disqus_identifier: 1687
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2004/11/29/creating-self-contained-nunit-tests-requiring-a-web-server.aspx/"
 ---
+
 This is a [fabulous
 post](http://www.hanselman.com/blog/PermaLink.aspx?guid=944a5284-6b8d-4366-81e8-2e241401e1b3)
 (did I just say "fabulous"?) on how to create self contained NUnit tests

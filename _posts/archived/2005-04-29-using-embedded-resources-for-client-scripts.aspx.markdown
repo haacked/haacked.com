@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Using Embedded Resources for Client Script Blocks in ASP.NET"
+title: Using Embedded Resources for Client Script Blocks in ASP.NET
 date: 2005-04-29 -0800
 comments: true
 disqus_identifier: 2879
 categories: []
+redirect_from: "/archive/2005/04/28/using-embedded-resources-for-client-scripts.aspx/"
 ---
+
 A while ago [Patrick
 Cauldwell](http://www.cauldwell.net/patrick/blog/ "Patrick Cauldwell's Blog")
 highlighted [a wonderful

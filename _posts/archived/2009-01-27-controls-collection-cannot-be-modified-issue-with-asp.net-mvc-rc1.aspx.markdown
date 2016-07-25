@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Controls Collection Cannot Be Modified Issue with ASP.NET MVC RC1"
+title: Controls Collection Cannot Be Modified Issue with ASP.NET MVC RC1
 date: 2009-01-27 -0800
 comments: true
 disqus_identifier: 18580
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2009/01/26/controls-collection-cannot-be-modified-issue-with-asp.net-mvc-rc1.aspx/"
 ---
+
 In my last post, I announced the happy news that the [Release Candidate
 for ASP.NET MVC is
 available](http://haacked.com/archive/2009/01/27/aspnetmvc-release-candidate.aspx "ASP.NET MVC Release Candidate").

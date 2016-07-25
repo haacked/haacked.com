@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Philosophy Blogs"
+title: Philosophy Blogs
 date: 2004-07-21 -0800
 comments: true
 disqus_identifier: 837
 categories: []
+redirect_from: "/archive/2004/07/20/philosophy-blogs.aspx/"
 ---
+
 Via [this article](http://msnbc.msn.com/id/5457020/site/newsweek/) in
 Newsweek, I found an [interesting blog](http://peasoup.typepad.com/)
 geared towards the professional philosopher but open to others with an

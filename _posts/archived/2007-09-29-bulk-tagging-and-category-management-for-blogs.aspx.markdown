@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Bulk Tagging and Category Management For Blogs"
+title: Bulk Tagging and Category Management For Blogs
 date: 2007-09-29 -0800
 comments: true
 disqus_identifier: 18401
 categories: []
+redirect_from: "/archive/2007/09/28/bulk-tagging-and-category-management-for-blogs.aspx/"
 ---
+
 One weakness with many blog engines,
 [Subtext](http://haacked.com/ "Subtext Project") included, is that it is
 difficult to change the tags and categories for multiple entries at a

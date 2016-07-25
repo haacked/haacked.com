@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Top 10 Blogging Clich&eacute;s of 2010"
+title: Top 10 Blogging Clich&eacute;s of 2010
 date: 2011-01-02 -0800
 comments: true
 disqus_identifier: 18752
-categories: [humor,blogging]
+categories:
+- humor
+- blogging
+redirect_from: "/archive/2011/01/01/top-ten-blogging-cliches.aspx/"
 ---
+
 Dear Reader, I apologize for not blogging much lately. I know, total
 \#fail, but I’ve been so f\*\*\*ing busy lately. I thought I would start
 off this new year right with a top ten list FTW!

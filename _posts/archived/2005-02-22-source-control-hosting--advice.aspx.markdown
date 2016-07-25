@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Source Control Hosting - Advice?"
+title: Source Control Hosting - Advice?
 date: 2005-02-22 -0800
 comments: true
 disqus_identifier: 2171
-categories: [hosting sourcecontrol]
+categories:
+- hosting sourcecontrol
+redirect_from: "/archive/2005/02/21/source-control-hosting--advice.aspx/"
 ---
+
 For my personal coding projects at home, I've been using the free one-user version of [SourceGear vault](http://www.sourcegear.com/vault/) for my personal source control needs. As you know, having proper source
 control is #1 on [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html).
 

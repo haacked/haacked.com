@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hollywood Bowl w/ The Crystal Method, Nortec Collective et all"
+title: Hollywood Bowl w/ The Crystal Method, Nortec Collective et all
 date: 2004-07-23 -0800
 comments: true
 disqus_identifier: 838
 categories: []
+redirect_from: "/archive/2004/07/22/hollywood-bowl-w-the-crystal-method-nortec-collective-et-all.aspx/"
 ---
+
 ![The Crystal Method](/images/crystalmethodpic.gif)
 
     

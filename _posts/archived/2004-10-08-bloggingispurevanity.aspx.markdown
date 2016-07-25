@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Blogging Is Pure Vanity: Profile Of A Vain Blogger"
+title: 'Blogging Is Pure Vanity: Profile Of A Vain Blogger'
 date: 2004-10-08 -0800
 comments: true
 disqus_identifier: 1322
-categories: [blogging,humor]
+categories:
+- blogging
+- humor
+redirect_from: "/archive/2004/10/07/bloggingispurevanity.aspx/"
 ---
+
 PubSub is no longer around, so those links will be broken. I’ve written
 [a new
 post](http://haacked.com/archive/2007/04/06/state-of-the-blog-report.aspx "State of the Blog")

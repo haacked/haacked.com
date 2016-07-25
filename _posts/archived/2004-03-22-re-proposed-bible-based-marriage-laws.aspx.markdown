@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RE: Proposed Bible-based marriage laws"
+title: 'RE: Proposed Bible-based marriage laws'
 date: 2004-03-22 -0800
 comments: true
 disqus_identifier: 267
-categories: [humor]
+categories:
+- humor
+redirect_from: "/archive/2004/03/21/re-proposed-bible-based-marriage-laws.aspx/"
 ---
+
 Found this on another website. Sorta ties into my earlier rant about
 Bush's stance on the whole gay marriage issue:
 

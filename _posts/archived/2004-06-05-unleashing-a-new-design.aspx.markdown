@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Unleashing a new design..."
+title: Unleashing a new design...
 date: 2004-06-05 -0800
 comments: true
 disqus_identifier: 536
 categories: []
+redirect_from: "/archive/2004/06/04/unleashing-a-new-design.aspx/"
 ---
+
 Thanks to the help of the very talented [Joel
 Bernarte](http://jbernarte.com/), I have a nice new look to the site. He
 created the logo you see at top. I then spent a bunch of time trying to

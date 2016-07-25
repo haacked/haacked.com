@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Job Posting: Rockstars Developer(s) Needed"
+title: 'Job Posting: Rockstars Developer(s) Needed'
 date: 2005-08-01 -0800
 comments: true
 disqus_identifier: 9192
 categories: []
+redirect_from: "/archive/2005/07/31/job-posting-rockstars-developers-needed.aspx/"
 ---
+
 We here at “You’ve Been Haacked” (*well, actually just me*) bend over
 backwards (*and sideways*) looking to enhance your Haacked experience
 and deliver more bang for your buck (*What!? You’re not paying for this

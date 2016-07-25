@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "State Of The Blog Report"
+title: State Of The Blog Report
 date: 2007-04-06 -0800
 comments: true
 disqus_identifier: 18270
-categories: [blogging]
+categories:
+- blogging
+redirect_from: "/archive/2007/04/05/state-of-the-blog-report.aspx/"
 ---
+
 Technorati recently released their latest [State of The
 Blogosphere](http://technorati.com/weblog/2007/04/328.html "State of the Blogosphere")
 report (renamed to something about the *Live Web* to avoid confusion

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "CommentAPI Circumvents CAPTCHA"
+title: CommentAPI Circumvents CAPTCHA
 date: 2005-06-12 -0800
 comments: true
 disqus_identifier: 4659
 categories: []
+redirect_from: "/archive/2005/06/11/commentapi-circumvents-captcha.aspx/"
 ---
+
 Just so we’re all clear about this, the convenience of the
 [CommentAPI](http://wellformedweb.org/story/9 "CommentAPI"), that nifty
 little service that allows users to make comments to your blog from the

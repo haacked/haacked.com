@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "HTTP Debugging Using Reverse Proxies And Port Forwarders"
+title: HTTP Debugging Using Reverse Proxies And Port Forwarders
 date: 2007-01-10 -0800
 comments: true
 disqus_identifier: 18189
 categories: []
+redirect_from: "/archive/2007/01/09/HTTP_Debugging_Using_Reverse_Proxies_And_Port_Forwarders.aspx/"
 ---
+
 [![Image of a RIM Blackberry
 emulator](http://haacked.com/images/haacked_com/WindowsLiveWriter/UsingFiddlerAsAReverseProxy_D572/Blackberryemulator_thumb3.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/UsingFiddlerAsAReverseProxy_D572/Blackberryemulator5.png)I’m
 currently working on an interesting project to develop a series of HTTP

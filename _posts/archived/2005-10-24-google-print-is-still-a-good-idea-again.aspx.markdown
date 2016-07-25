@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Google Print Is Still A Good Idea"
+title: Google Print Is Still A Good Idea
 date: 2005-10-24 -0800
 comments: true
 disqus_identifier: 10992
-categories: [tech]
+categories:
+- tech
+redirect_from: "/archive/2005/10/23/google-print-is-still-a-good-idea-again.aspx/"
 ---
+
 > I say to you that the VCR is to the American film producer and the
 > American public as the Boston strangler is to the woman home alone. --
 > *Jack Valenti, former head of the MPAA*

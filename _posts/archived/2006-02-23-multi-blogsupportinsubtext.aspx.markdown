@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Multi-Blog Support In Subtext"
+title: Multi-Blog Support In Subtext
 date: 2006-02-23 -0800
 comments: true
 disqus_identifier: 11860
 categories: []
+redirect_from: "/archive/2006/02/22/multi-blogsupportinsubtext.aspx/"
 ---
+
 Intro
 -----
 

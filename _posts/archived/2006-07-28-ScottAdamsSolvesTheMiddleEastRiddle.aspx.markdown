@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Scott Adams Solves The Middle East Riddle"
+title: Scott Adams Solves The Middle East Riddle
 date: 2006-07-28 -0800
 comments: true
 disqus_identifier: 14390
 categories: []
+redirect_from: "/archive/2006/07/27/ScottAdamsSolvesTheMiddleEastRiddle.aspx/"
 ---
+
 This is just too funny not to link to. [Scott
 Adams](http://dilbertblog.typepad.com/the_dilbert_blog/ "The Dilbert Blog"),
 the author of Dilbert, [had an

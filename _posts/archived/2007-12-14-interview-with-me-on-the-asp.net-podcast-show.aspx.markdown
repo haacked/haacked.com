@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Interview with me on the ASP.NET Podcast Show"
+title: Interview with me on the ASP.NET Podcast Show
 date: 2007-12-14 -0800
 comments: true
 disqus_identifier: 18439
-categories: [code,asp.net mvc]
+categories:
+- code
+- asp.net mvc
+redirect_from: "/archive/2007/12/13/interview-with-me-on-the-asp.net-podcast-show.aspx/"
 ---
+
 Yesterday, [Wally
 McClure](http://morewally.com/cs/Default.aspx "MoreWally") interviewed
 me for the ASP.NET Podcast Show. We chatted for around half an hour on

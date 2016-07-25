@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Whidbey Update"
+title: Whidbey Update
 date: 2004-10-22 -0800
 comments: true
 disqus_identifier: 1457
 categories: []
+redirect_from: "/archive/2004/10/21/whidbey-update.aspx/"
 ---
+
 [Scott Guthrie](http://weblogs.asp.net/scottgu/) has returned to
 blogging with a tremendous
 [piece](http://weblogs.asp.net/scottgu/archive/2004/10/23/246709.aspx)

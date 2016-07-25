@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Question: When Is A Good Time To Call GC.Collect()?"
+title: 'Question: When Is A Good Time To Call GC.Collect()?'
 date: 2004-08-13 -0800
 comments: true
 disqus_identifier: 918
 categories: []
+redirect_from: "/archive/2004/08/12/question-when-is-a-good-time-to-call-gccollect.aspx/"
 ---
+
 **Answer:** When you don't have enough change for the phone booth.
 
 I'll be here all week, thank you very much. Bad pun notwithstanding, the

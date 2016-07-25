@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Mission Accomplished. New Doggy In The Family."
+title: Mission Accomplished. New Doggy In The Family.
 date: 2004-09-26 -0800
 comments: true
 disqus_identifier: 1274
 categories: []
+redirect_from: "/archive/2004/09/25/mission-accomplished-new-doggy-in-the-family.aspx/"
 ---
+
 A little while ago I said we've decided to [adopt a
 doggy](http://haacked.com/archive/2004/08/31/1062.aspx). Well we did it.
 On Saturday we got a call that an Italian Greyhound was in need of a

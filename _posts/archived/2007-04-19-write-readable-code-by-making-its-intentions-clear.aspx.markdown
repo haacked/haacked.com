@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "Write Readable Code By Making Its Intentions Clear"
+title: Write Readable Code By Making Its Intentions Clear
 date: 2007-04-19 -0800
 comments: true
 disqus_identifier: 18291
-categories: [code]
-redirect_from: "/archive/2007/04/20/write-readable-code-by-making-its-intentions-clear.aspx"
-
+categories:
+- code
+redirect_from:
+- "/archive/2007/04/20/write-readable-code-by-making-its-intentions-clear.aspx"
+- "/archive/2007/04/18/write-readable-code-by-making-its-intentions-clear.aspx/"
 ---
+
 I don’t think it’s too much of a stretch to say that the hardest part of
 coding is not writing code, but reading it. As Eric Lippert points out,
 [Reading code is hard.](http://blogs.msdn.com/ericlippert/archive/2004/06/14/155316.aspx "Eric Lippert writes on Reading Code Is Hard")

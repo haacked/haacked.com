@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "DotNetRocks Part Deux"
+title: DotNetRocks Part Deux
 date: 2008-05-05 -0800
 comments: true
 disqus_identifier: 18483
-categories: [asp.net,asp.net mvc,personal]
+categories:
+- asp.net
+- asp.net mvc
+- personal
+redirect_from: "/archive/2008/05/04/dotnetrocks-part-deux.aspx/"
 ---
+
 I did another interview with those wild and crazy guys,
 [Carl](http://www.intellectualhedonism.com/ "Carl") and
 [Richard](http://www.campbellassociates.ca/blog/default.aspx "Richard Campbell").

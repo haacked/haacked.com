@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Check Out My Shiny New Flickr Badge"
+title: Check Out My Shiny New Flickr Badge
 date: 2005-06-24 -0800
 comments: true
 disqus_identifier: 7201
 categories: []
+redirect_from: "/archive/2005/06/23/check-out-my-shiny-new-flickr-badge.aspx/"
 ---
+
 > You know what, I do want to express myself, okay. And I don't need 37
 > pieces of flair to do it.
 

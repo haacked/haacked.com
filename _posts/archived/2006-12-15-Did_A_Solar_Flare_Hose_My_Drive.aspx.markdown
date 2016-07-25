@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Did A Solar Flare Hose My Drive?"
+title: Did A Solar Flare Hose My Drive?
 date: 2006-12-15 -0800
 comments: true
 disqus_identifier: 18170
 categories: []
+redirect_from: "/archive/2006/12/14/Did_A_Solar_Flare_Hose_My_Drive.aspx/"
 ---
+
 ![Solar
 Flare](http://haacked.com/images/haacked_com/WindowsLiveWriter/DidASolarFlareHoseMyDrive_F1B6/solar_flare%5B5%5D.jpg)
 

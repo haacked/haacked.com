@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Text templating using Razor the easy way"
+title: Text templating using Razor the easy way
 date: 2011-08-01 -0800
 comments: true
 disqus_identifier: 18803
-categories: [code,asp.net,razor]
+categories:
+- code
+- asp.net
+- razor
+redirect_from: "/archive/2011/07/31/text-templating-using-razor-the-easy-way.aspx/"
 ---
+
 As a web guy, I’ve slung more than my fair share of angle brackets over
 the tubes of the Internet. The Razor syntax quickly became my favorite
 way of generating those angle brackets soon after its release. But its

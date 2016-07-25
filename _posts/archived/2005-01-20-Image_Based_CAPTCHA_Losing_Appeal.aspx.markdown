@@ -1,12 +1,16 @@
 ---
 layout: post
-title: "Image Based CAPTCHA Is Fast Losing It's Appeal"
+title: Image Based CAPTCHA Is Fast Losing It's Appeal
 date: 2005-01-20 -0800
 comments: true
-redirect_from: "/archive/2005/01/20/1967.aspx.html"
+redirect_from:
+- "/archive/2005/01/20/1967.aspx.html"
+- "/archive/2005/01/19/Image_Based_CAPTCHA_Losing_Appeal.aspx/"
 disqus_identifier: 1967
-categories: [captcha]
+categories:
+- captcha
 ---
+
 I read an article recently that talked about how ticket scalpers have a 10% success rate against TicketMaster's CAPTCHA controls. That might not seem like a very good rate, but when you have an automated process attacking it, 10% is plenty good.
 
 ![NSF](/images/CAPTCHA.jpg)

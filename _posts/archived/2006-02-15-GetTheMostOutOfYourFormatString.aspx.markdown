@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Get The Most Out Of Your Format String"
+title: Get The Most Out Of Your Format String
 date: 2006-02-15 -0800
 comments: true
 disqus_identifier: 11798
 categories: []
+redirect_from: "/archive/2006/02/14/GetTheMostOutOfYourFormatString.aspx/"
 ---
+
 I was reviewing some code when I ran into code that fit this pattern all
 over the place (simplified to make a point).
 
