@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Server. The Server. The Server's On Fire."
+title: The Server. The Server. The Server's On Fire.
 date: 2004-12-08 -0800
 comments: true
 disqus_identifier: 1716
 categories: []
+redirect_from: "/archive/2004/12/07/the-server-the-server-the-servers-on-fire.aspx/"
 ---
+
 ![Server on fire](/images/ComputerFire.jpg)
 
 In case you're wondering how important those fans are inside your

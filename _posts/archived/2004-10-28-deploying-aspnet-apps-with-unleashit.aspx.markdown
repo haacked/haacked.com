@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Deploying ASP.NET Apps With UnleashIt"
+title: Deploying ASP.NET Apps With UnleashIt
 date: 2004-10-28 -0800
 comments: true
 disqus_identifier: 1523
 categories: []
+redirect_from: "/archive/2004/10/27/deploying-aspnet-apps-with-unleashit.aspx/"
 ---
+
 I answered a question about ASP.NET deployment in a
 [newsgroup](http://msdn.microsoft.com/newsgroups/default.aspx?dg=microsoft.public.dotnet.framework.aspnet)
 recently where the person asked which files should he deploy when moving

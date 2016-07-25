@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "NullReferenceException When Deploying DotNetNuke Could Be An ObjectQualifier Discrepancy"
+title: NullReferenceException When Deploying DotNetNuke Could Be An ObjectQualifier
+  Discrepancy
 date: 2006-05-17 -0800
 comments: true
 disqus_identifier: 12838
 categories: []
+redirect_from: "/archive/2006/05/16/NullReferenceExceptionWhenDeployingDotNetNukeCouldBeAnObjectQualifierDiscrepancy.aspx/"
 ---
+
 When starting a new DotNetNuke based website, I like to develop it on my
 local machine, and when everything is ready for a first deployment, I
 deploy to whatever staging or production server is relevant.

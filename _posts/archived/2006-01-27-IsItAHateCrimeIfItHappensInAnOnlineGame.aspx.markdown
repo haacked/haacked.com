@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Is It A Hate Crime If It Happens In An Online Game"
+title: Is It A Hate Crime If It Happens In An Online Game
 date: 2006-01-27 -0800
 comments: true
 disqus_identifier: 11611
 categories: []
+redirect_from: "/archive/2006/01/26/IsItAHateCrimeIfItHappensInAnOnlineGame.aspx/"
 ---
+
 This [article in Boing
 Boing](http://www.boingboing.net/2006/01/27/world_of_warcraft_do.html "Article on sexuality in World of Warcraft")
 about how World of Warcraft (WoW) moderators are warning groups not to

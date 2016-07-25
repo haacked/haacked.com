@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Steven Hawking's wife accused of physically abusing him"
+title: Steven Hawking's wife accused of physically abusing him
 date: 2004-03-26 -0800
 comments: true
 disqus_identifier: 272
 categories: []
+redirect_from: "/archive/2004/03/25/steven-hawkings-wife-accused-of-physically-abusing-him.aspx/"
 ---
+
 ![](/images/steven_hawking.jpg)According to [this
 article](http://news.com.au/common/story_page/0,4057,9075388%5E13780,00.html),
 Steven Hawking's wife has been questioned by British detectives over

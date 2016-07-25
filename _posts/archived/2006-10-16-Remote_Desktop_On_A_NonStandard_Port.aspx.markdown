@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Remote Desktop On A Non-Standard Port"
+title: Remote Desktop On A Non-Standard Port
 date: 2006-10-16 -0800
 comments: true
 disqus_identifier: 18090
-categories: [tech]
+categories:
+- tech
+redirect_from: "/archive/2006/10/15/Remote_Desktop_On_A_NonStandard_Port.aspx/"
 ---
+
 For a project I’m working on, we have an automated build server running
 [CruiseControl.NET](http://confluence.public.thoughtworks.org/display/CCNET/Welcome+to+CruiseControl.NET "CruiseControl.NET Continuous Integration Server") hosted
 in a virtual machine.  We do the same thing for

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Quick CSS Optimization Tip"
+title: Quick CSS Optimization Tip
 date: 2007-03-15 -0800
 comments: true
 disqus_identifier: 18243
 categories: []
+redirect_from: "/archive/2007/03/14/quick-css-optimization-tip.aspx/"
 ---
+
 When you see the following in your CSS
 
     div

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Dave Winer for President?"
+title: Dave Winer for President?
 date: 2004-11-23 -0800
 comments: true
 disqus_identifier: 1666
 categories: []
+redirect_from: "/archive/2004/11/22/dave-winer-for-president.aspx/"
 ---
+
 Dave [claims
 that](http://archive.scripting.com/2004/11/23#When:7:12:24PM) inhaling
 puts him out of the running for President.

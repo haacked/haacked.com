@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Oh Yes It&rsquo;s Ladies Night"
+title: Oh Yes It&rsquo;s Ladies Night
 date: 2008-06-27 -0800
 comments: true
 disqus_identifier: 18499
-categories: [humor,personal]
+categories:
+- humor
+- personal
+redirect_from: "/archive/2008/06/26/oh-yes-itrsquos-ladies-night.aspx/"
 ---
+
 …and the feeling’s right.
 
 ![phil-and-akumi](http://haacked.com/images/haacked_com/WindowsLiveWriter/OhYesItsLadiesNight_C6C2/phil-and-akumi_3.jpg "phil-and-akumi")

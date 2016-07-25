@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "How Duck Typing Benefits C# Developers"
+title: How Duck Typing Benefits C# Developers
 date: 2007-08-19 -0800
 comments: true
 disqus_identifier: 18383
 categories: []
+redirect_from: "/archive/2007/08/18/why-duck-typing-matters-to-c-developers.aspx/"
 ---
+
 [David
 Meyer](http://www.deftflux.net/blog/ "David Meyer’s Blog - deft flux")
 recently published a [.NET class

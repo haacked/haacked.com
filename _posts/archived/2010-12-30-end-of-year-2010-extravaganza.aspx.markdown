@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "End Of Year 2010 Extravaganza"
+title: End Of Year 2010 Extravaganza
 date: 2010-12-30 -0800
 comments: true
 disqus_identifier: 18751
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2010/12/29/end-of-year-2010-extravaganza.aspx/"
 ---
+
 It’s the end of the year and it’s time for the annual year in review
 blog post. I know what you’re thinking, but don’t worry, you remembered
 to turn off the stove before leaving.

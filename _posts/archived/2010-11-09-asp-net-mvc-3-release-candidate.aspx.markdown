@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "ASP.NET MVC 3 Release Candidate"
+title: ASP.NET MVC 3 Release Candidate
 date: 2010-11-09 -0800
 comments: true
 disqus_identifier: 18736
-categories: [asp.net,asp.net mvc,code,nuget]
+categories:
+- asp.net
+- asp.net mvc
+- code
+- nuget
+redirect_from: "/archive/2010/11/08/asp-net-mvc-3-release-candidate.aspx/"
 ---
+
 Today we’re releasing the release candidate for ASP.NET MVC 3. We’re in
 the home stretch now so it’ll mostly be bug fixes and small tweaks from
 here on out.

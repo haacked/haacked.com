@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "UPDATE: Buying LCD Monitors."
+title: 'UPDATE: Buying LCD Monitors.'
 date: 2004-04-15 -0800
 comments: true
 disqus_identifier: 328
 categories: []
+redirect_from: "/archive/2004/04/14/update-buying-lcd-monitors.aspx/"
 ---
+
 ![](/images/dellultrasharp.jpg)In a [previous
 post](http://haacked.europe.webmatrixhosting.net/archive/2004/04/07/305.aspx "Previous Post")
 I mentioned that I bought an LCD monitor from some unknow Yahoo store.

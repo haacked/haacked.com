@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Productive Unit Testing with Specialized Assertion Classes in MbUnit"
+title: Productive Unit Testing with Specialized Assertion Classes in MbUnit
 date: 2007-05-10 -0800
 comments: true
 disqus_identifier: 18306
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2007/05/09/productive-unit-testing-with-specialized-assertion-classes-in-mbunit.aspx/"
 ---
+
 If you’ve worked with unit test frameworks like
 [NUnit](http://nunit.com/ "NUnit") or
 [MbUnit](http://mbunit.com/ "MbUnit") for a while, you are probably all

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Petals Around the Rose logic puzzle"
+title: Petals Around the Rose logic puzzle
 date: 2004-09-20 -0800
 comments: true
 disqus_identifier: 1234
 categories: []
+redirect_from: "/archive/2004/09/19/petals-around-the-rose-logic-puzzle.aspx/"
 ---
+
 Found this interesting puzzle on
 [BoingBoing](http://www.boingboing.net/). I figured it out. Can you?
 

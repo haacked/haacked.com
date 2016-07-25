@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "All moved in..."
+title: All moved in...
 date: 2004-04-13 -0800
 comments: true
 disqus_identifier: 317
 categories: []
+redirect_from: "/archive/2004/04/12/all-moved-in.aspx/"
 ---
+
 We're all moved in to our new place. I took a personal day Monday so
 that we could put the place together and not have to live in a huge
 mess. Much love to Dan, Micah, and Matt for helping with the heavy

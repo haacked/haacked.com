@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "How To Handle The DIV Tag Around ASP.NET Hidden Inputs"
+title: How To Handle The DIV Tag Around ASP.NET Hidden Inputs
 date: 2007-06-15 -0800
 comments: true
 disqus_identifier: 18353
 categories: []
+redirect_from: "/archive/2007/06/14/how-to-handle-the-div-tag-around-asp.net-hidden-inputs.aspx/"
 ---
+
 One praiseworthy aspect of ASP.NET 2.0 is its much improved XHTML
 compliance. However, there is one particular implementation detail
 related to this that causes some web designs to break and could

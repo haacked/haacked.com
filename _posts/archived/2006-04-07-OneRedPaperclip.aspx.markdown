@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "One Red Paperclip"
+title: One Red Paperclip
 date: 2006-04-07 -0800
 comments: true
 disqus_identifier: 12321
 categories: []
+redirect_from: "/archive/2006/04/06/OneRedPaperclip.aspx/"
 ---
+
 ![Red Paperclip](http://haacked.com/images/redpaperclip.jpg) [This is
 one](http://oneredpaperclip.blogspot.com/ "One Red Paperclip") of the
 most ingenious methods of self promotion I have ever seen. Not to

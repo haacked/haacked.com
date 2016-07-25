@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Last Night A Doctor Saved My Nut"
+title: Last Night A Doctor Saved My Nut
 date: 2007-09-10 -0800
 comments: true
 disqus_identifier: 18388
 categories: []
+redirect_from: "/archive/2007/09/09/last-night-a-doctor-saved-my-nut.aspx/"
 ---
+
 Last night I nearly lost a dear friend of mine. Now this is the sort of
 story most men, myself included, would understandably want keep to
 themselves. Although this deviates from my normal content, I feel a duty

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Burning Man: Three Person Pedal Powered Ferris Wheel"
+title: 'Burning Man: Three Person Pedal Powered Ferris Wheel'
 date: 2004-09-30 -0800
 comments: true
 disqus_identifier: 1292
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2004/09/29/three-person-ferris-wheel.aspx/"
 ---
+
 My buddy [Ed](http://www.xanga.com/home.aspx?user=mushustyles) posted
 some pics from Burning Man this year. This pedal powered Ferris wheel
 particularly caught my eye. How cool is that!

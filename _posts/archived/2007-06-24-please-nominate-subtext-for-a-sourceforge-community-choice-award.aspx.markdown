@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Please Nominate Subtext For A SourceForge Community Choice Award"
+title: Please Nominate Subtext For A SourceForge Community Choice Award
 date: 2007-06-24 -0800
 comments: true
 disqus_identifier: 18359
 categories: []
+redirect_from: "/archive/2007/06/23/please-nominate-subtext-for-a-sourceforge-community-choice-award.aspx/"
 ---
+
 [Steve Harman](http://stevenharman.net/blog/ "Steve Harman") posts [a
 request to nominate
 Subtext](http://stevenharman.net/blog/archive/2007/06/24/nominate-subtext-for-a-2007-community-choice-award.aspx "Nominate Subtext for a 2007 Community Choice Award")

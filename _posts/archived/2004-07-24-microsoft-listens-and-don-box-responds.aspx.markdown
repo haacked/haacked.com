@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Microsoft Listens and Don Box Responds"
+title: Microsoft Listens and Don Box Responds
 date: 2004-07-24 -0800
 comments: true
 disqus_identifier: 853
 categories: []
+redirect_from: "/archive/2004/07/23/microsoft-listens-and-don-box-responds.aspx/"
 ---
+
 I have to hand it to Microsoft, they really do listen to their
 customers. And I don't mean in that head nodding "I hear you but I don't
 know what you're saying" kind of way so common with people who really

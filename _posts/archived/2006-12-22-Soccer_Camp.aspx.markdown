@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Soccer Camp"
+title: Soccer Camp
 date: 2006-12-22 -0800
 comments: true
 disqus_identifier: 18178
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2006/12/21/Soccer_Camp.aspx/"
 ---
+
 No, this was definitely not a good sight for me. With my team pressing
 the attack, an unfortunate turnover left our defense out of position to
 help as the opposing team quickly capitalized.[![Ezra and

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Collaborative Filtering For Your Musical Tastes That Works"
+title: Collaborative Filtering For Your Musical Tastes That Works
 date: 2006-02-19 -0800
 comments: true
 disqus_identifier: 11839
 categories: []
+redirect_from: "/archive/2006/02/18/CollaborativeFilteringForYourMusicalTastesThatWorks.aspx/"
 ---
+
 ![Last FM plugin](http://haacked.com/images/psplugin.png)
 
 Way back in the day I worked on a website called MyLaunch which later

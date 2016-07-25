@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Which Logging framework do you use and why?"
+title: Which Logging framework do you use and why?
 date: 2004-02-11 -0800
 comments: true
 disqus_identifier: 190
 categories: []
+redirect_from: "/archive/2004/02/10/which-logging-framework-do-you-use-and-why.aspx/"
 ---
+
 ![Logs](/images/logging.jpg) Scott Hanselman asks the question [Should
 one go to Production with a Debug
 build?](http://www.hanselman.com/blog/PermaLink.aspx?guid=495312ae-08a1-4712-b654-e392bf34bfd2 "Going to production")

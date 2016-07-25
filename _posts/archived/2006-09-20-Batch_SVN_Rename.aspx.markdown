@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Batch SVN Rename"
+title: Batch SVN Rename
 date: 2006-09-20 -0800
 comments: true
 disqus_identifier: 16929
 categories: []
+redirect_from: "/archive/2006/09/19/Batch_SVN_Rename.aspx/"
 ---
+
 [Jon Galloway](http://weblogs.asp.net/jgalloway/) is my batch file
 hero.  He’s the one who introduced me to the `FOR %%A in ...` syntax.
 

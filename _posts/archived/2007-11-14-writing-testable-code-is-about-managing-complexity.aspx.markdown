@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Writing Testable Code Is About Managing Complexity"
+title: Writing Testable Code Is About Managing Complexity
 date: 2007-11-14 -0800
 comments: true
 disqus_identifier: 18423
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2007/11/13/writing-testable-code-is-about-managing-complexity.aspx/"
 ---
+
 When discussing the upcoming [ASP.NET MVC
 framework](http://weblogs.asp.net/scottgu/archive/2007/11/13/asp-net-mvc-framework-part-1.aspx "ASP.NET MVC Framework Part 1"),
 one of the key benefits I like to tout is how this framework will

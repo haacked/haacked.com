@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Thread Naming and Asynchronous Method Calls"
+title: Thread Naming and Asynchronous Method Calls
 date: 2004-06-07 -0800
 comments: true
 disqus_identifier: 546
 categories: []
+redirect_from: "/archive/2004/06/06/thread-naming-and-asynchronous-method-calls.aspx/"
 ---
+
 ![Thread](/images/Thread.jpg)Typically when you spawn a new thread, you
 want to give it a name to facilitate debugging. For example:
 

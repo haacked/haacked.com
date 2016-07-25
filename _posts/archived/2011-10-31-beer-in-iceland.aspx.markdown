@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Beer-Up in Reykjavik, Iceland"
+title: Beer-Up in Reykjavik, Iceland
 date: 2011-10-31 -0800
 comments: true
 disqus_identifier: 18823
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2011/10/30/beer-in-iceland.aspx/"
 ---
+
 If you’re in the Reykjavik area on November 7th, come join me for a
 beer-up. A Beer-Up is basically a meet-up, but with lots of beer!
 

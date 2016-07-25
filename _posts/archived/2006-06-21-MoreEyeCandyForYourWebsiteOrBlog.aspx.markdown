@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "More Eye Candy For Your Website or Blog"
+title: More Eye Candy For Your Website or Blog
 date: 2006-06-21 -0800
 comments: true
 disqus_identifier: 13441
-categories: [blogging]
+categories:
+- blogging
+redirect_from: "/archive/2006/06/20/MoreEyeCandyForYourWebsiteOrBlog.aspx/"
 ---
+
 Via a reader, I [learned about
 iBox](http://www.ibegin.com/blog/p_ibox.html "IBox") which is similar to
 [Lightbox

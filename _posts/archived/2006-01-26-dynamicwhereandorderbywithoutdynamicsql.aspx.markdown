@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Dynamic WHERE and ORDER BY Without Dynamic SQL"
+title: Dynamic WHERE and ORDER BY Without Dynamic SQL
 date: 2006-01-26 -0800
 comments: true
 disqus_identifier: 11598
-categories: [sql]
+categories:
+- sql
+redirect_from: "/archive/2006/01/25/dynamicwhereandorderbywithoutdynamicsql.aspx/"
 ---
+
 My friend Jeremy (no blog) pointed me to these two useful articles on
 how to perform dynamic WHERE clauses and ORDER BY clauses without using
 dynamic SQL. These were written long ago, but I had never thought to use

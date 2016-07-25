@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tag Your Database - A Data Dictionary Tool"
+title: Tag Your Database - A Data Dictionary Tool
 date: 2006-09-28 -0800
 comments: true
 disqus_identifier: 17343
 categories: []
+redirect_from: "/archive/2006/09/27/database_dictionary_tool.aspx/"
 ---
+
 A few days back [Jon
 Galloway](http://weblogs.asp.net/jgalloway/ "Jon Galloway") and I were
 discussing a task he was working on to document a database for a

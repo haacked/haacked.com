@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "More On Fahrenheit 9/11"
+title: More On Fahrenheit 9/11
 date: 2004-06-23 -0800
 comments: true
 disqus_identifier: 673
 categories: []
+redirect_from: "/archive/2004/06/22/more-on-fahrenheit-911.aspx/"
 ---
+
 So I'm definitely going to see this movie this Friday. Regarding the
 reviews I posted on Saturday,
 [Koba](http://koba.europe.webmatrixhosting.com/) makes the following

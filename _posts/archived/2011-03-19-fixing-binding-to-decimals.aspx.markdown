@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Model Binding Decimal Values"
+title: Model Binding Decimal Values
 date: 2011-03-19 -0800
 comments: true
 disqus_identifier: 18768
-categories: [asp.net mvc,asp.net,code]
+categories:
+- asp.net mvc
+- asp.net
+- code
+redirect_from: "/archive/2011/03/18/fixing-binding-to-decimals.aspx/"
 ---
+
 I’m in the beautiful country of Brazil right now (I’ll hopefully blog
 more about that later) proctoring for the hands-on labs that’s part of
 the Web Camps agenda.

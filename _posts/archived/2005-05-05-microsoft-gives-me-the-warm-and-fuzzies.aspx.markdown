@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Microsoft Gives Me the Warm and Fuzzies"
+title: Microsoft Gives Me the Warm and Fuzzies
 date: 2005-05-05 -0800
 comments: true
 disqus_identifier: 3058
 categories: []
+redirect_from: "/archive/2005/05/04/microsoft-gives-me-the-warm-and-fuzzies.aspx/"
 ---
+
 [Scoble](http://radio.weblogs.com/0001011/) has posted [Steve Ballmer's
 email](http://channel9.msdn.com/ShowPost.aspx?PostID=65966#65966) on
 public policy engagement and outlines the thought process [behind the

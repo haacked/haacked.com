@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Email To Weblog"
+title: Email To Weblog
 date: 2006-11-07 -0800
 comments: true
 disqus_identifier: 18132
 categories: []
+redirect_from: "/archive/2006/11/06/Email_To_Weblog.aspx/"
 ---
+
 [Telligent](http://telligent.com/ "Telligent"), the hyper-caffeinated
 people behind [Community
 Server](http://communityserver.org/ "Community Server"), have just

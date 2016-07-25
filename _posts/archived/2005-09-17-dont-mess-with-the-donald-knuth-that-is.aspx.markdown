@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Don't Mess With The Donald... Knuth That Is"
+title: Don't Mess With The Donald... Knuth That Is
 date: 2005-09-17 -0800
 comments: true
 disqus_identifier: 10180
 categories: []
+redirect_from: "/archive/2005/09/16/dont-mess-with-the-donald-knuth-that-is.aspx/"
 ---
+
 Mathematicians and Computer Scientists know that the Donald that has had
 real impact in our world is Donald Knuth, not Mr. Trump. He is a giant
 in the industry and very well respected.

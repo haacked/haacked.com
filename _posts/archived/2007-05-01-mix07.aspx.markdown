@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Mix07 And The Italian Jersey"
+title: Mix07 And The Italian Jersey
 date: 2007-05-01 -0800
 comments: true
 disqus_identifier: 18300
 categories: []
+redirect_from: "/archive/2007/04/30/mix07.aspx/"
 ---
+
 Just a couple of notes while I have a break during the conference. I’ll
 try to find some time to write about my impressions of the technologies
 when I’ve had time to reflect.

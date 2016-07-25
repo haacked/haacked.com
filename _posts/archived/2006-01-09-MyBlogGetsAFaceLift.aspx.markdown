@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "My Blog Gets A Facelift"
+title: My Blog Gets A Facelift
 date: 2006-01-09 -0800
 comments: true
 disqus_identifier: 11456
 categories: []
+redirect_from: "/archive/2006/01/08/MyBlogGetsAFaceLift.aspx/"
 ---
+
 After completing [two of the three
 books](http://haacked.com/archive/2005/12/26/11370.aspx "2006 Reading List")
 I said I would be reading in 2006, I decided to apply some of the

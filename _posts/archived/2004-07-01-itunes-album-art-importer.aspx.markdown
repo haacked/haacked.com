@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The iTunes Album Art Importer for Windows, written in .NET 1.1"
+title: The iTunes Album Art Importer for Windows, written in .NET 1.1
 date: 2004-07-01 -0800
 comments: true
 disqus_identifier: 753
 categories: []
+redirect_from: "/archive/2004/06/30/itunes-album-art-importer.aspx/"
 ---
+
 ![iTunes Art Importer](/images/iTunesArtImporter.jpg)Found this on
 [Scott Hanselman's](http://www.hanselman.com/) blog. [The iTunes Art
 Importer](http://www.yvg.com/itunesartimporter.shtml).

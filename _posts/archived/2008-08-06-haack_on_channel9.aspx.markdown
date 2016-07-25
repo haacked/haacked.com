@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Hey Ma, I&rsquo;m On TV!"
+title: Hey Ma, I&rsquo;m On TV!
 date: 2008-08-06 -0800
 comments: true
 disqus_identifier: 18515
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2008/08/05/haack_on_channel9.aspx/"
 ---
+
 ![phil-in-office](http://haacked.com/images/haacked_com/WindowsLiveWriter/HeyMaImOnTV_8D16/phil-in-office_3.jpg "phil-in-office")
 
 Recently, Adam Kinney came by my office to [interview me for a Channel

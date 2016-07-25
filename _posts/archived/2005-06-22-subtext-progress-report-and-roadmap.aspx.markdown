@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Subtext Progress Report."
+title: Subtext Progress Report.
 date: 2005-06-22 -0800
 comments: true
 disqus_identifier: 7125
-categories: [subtext]
+categories:
+- subtext
+redirect_from: "/archive/2005/06/21/subtext-progress-report-and-roadmap.aspx/"
 ---
+
 ![Subtext Logo](http://subtextproject.com/images/SubtextLogo.png) I’ve
 been intentionally quiet about how Subtext is progressing (apart from a
 couple [minor posts](http://haacked.com/archive/2005/06/22/7116.aspx) on

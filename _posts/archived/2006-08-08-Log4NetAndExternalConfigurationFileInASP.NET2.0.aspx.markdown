@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Log4Net And External Configuration File In ASP.NET 2.0"
+title: Log4Net And External Configuration File In ASP.NET 2.0
 date: 2006-08-08 -0800
 comments: true
 disqus_identifier: 14774
 categories: []
+redirect_from: "/archive/2006/08/07/Log4NetAndExternalConfigurationFileInASP.NET2.0.aspx/"
 ---
+
 Recently I wrote that I could not seem to get Log4Net to [work with an
 external configuration
 file](http://haacked.com/archive/2006/07/09/ConfiguringLog4NetWithASP.NET2.0InMediumTrust.aspx "Problem Configuring Log4Net")

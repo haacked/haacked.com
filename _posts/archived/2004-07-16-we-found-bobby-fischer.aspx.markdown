@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "We Found Bobby Fischer!"
+title: We Found Bobby Fischer!
 date: 2004-07-16 -0800
 comments: true
 disqus_identifier: 823
 categories: []
+redirect_from: "/archive/2004/07/15/we-found-bobby-fischer.aspx/"
 ---
+
 ![Bobby Fischer](/images/Bobby.jpg)We can't find Waldo, we can't find
 Osama, but we found Bobby. Hooray!
 

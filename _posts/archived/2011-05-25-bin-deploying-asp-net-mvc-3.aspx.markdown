@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Bin Deploying ASP.NET MVC 3"
+title: Bin Deploying ASP.NET MVC 3
 date: 2011-05-25 -0800
 comments: true
 disqus_identifier: 18791
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2011/05/24/bin-deploying-asp-net-mvc-3.aspx/"
 ---
+
 When you build an ASP.NET MVC 3 application and are ready to deploy it
 to your hosting provider, there are a set of assemblies you’ll need to
 include with your application for it to run properly, unless they are

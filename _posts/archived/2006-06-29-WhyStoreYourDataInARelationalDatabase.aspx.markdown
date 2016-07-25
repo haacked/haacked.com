@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Why Store Your Data In A Relational Database?"
+title: Why Store Your Data In A Relational Database?
 date: 2006-06-29 -0800
 comments: true
 disqus_identifier: 13579
-categories: [sql]
+categories:
+- sql
+redirect_from: "/archive/2006/06/28/WhyStoreYourDataInARelationalDatabase.aspx/"
 ---
+
 With Ted Neward’s recent post on the [morass that is Object-Relational
 mapping](http://blogs.tedneward.com/2006/06/26/The+Vietnam+Of+Computer+Science.aspx "The Vietnam of Computer Science"),
 there has been a lot of discussion going around on the topic. In the

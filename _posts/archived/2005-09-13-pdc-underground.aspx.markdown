@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "PDC Underground"
+title: PDC Underground
 date: 2005-09-13 -0800
 comments: true
 disqus_identifier: 10106
 categories: []
+redirect_from: "/archive/2005/09/12/pdc-underground.aspx/"
 ---
+
 Just got back from the PDC Underground at the Westin Bonaventure which
 had its fair share of great and not so great grok talks. I went with
 Micah and [Jon](http://weblogs.asp.net/jgalloway/) and met a few people

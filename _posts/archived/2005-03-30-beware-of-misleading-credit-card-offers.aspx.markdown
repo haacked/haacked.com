@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Rant: Beware of Misleading Credit Card Offers"
+title: 'Rant: Beware of Misleading Credit Card Offers'
 date: 2005-03-30 -0800
 comments: true
 disqus_identifier: 2505
 categories: []
+redirect_from: "/archive/2005/03/29/beware-of-misleading-credit-card-offers.aspx/"
 ---
+
 Forgive me, but I really need to rant about shitty customer service.
 I've been burned bad by misinformation from ignorant and/or misleading
 reps. This time however, it involves our credit card company, Bank of

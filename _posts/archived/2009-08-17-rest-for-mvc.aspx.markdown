@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Rest For ASP.NET MVC SDK and Sample"
+title: Rest For ASP.NET MVC SDK and Sample
 date: 2009-08-17 -0800
 comments: true
 disqus_identifier: 18637
 categories: []
+redirect_from: "/archive/2009/08/16/rest-for-mvc.aspx/"
 ---
+
 When building a web application, it’s a common desire to want to expose
 a simple Web API along with the HTML user interface to enable various
 mash-up scenarios or to simply make accessing structured data easy from

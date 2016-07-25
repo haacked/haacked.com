@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "NuGet 1.2 Released"
+title: NuGet 1.2 Released
 date: 2011-03-30 -0800
 comments: true
 disqus_identifier: 18770
-categories: [nuget,code,open source]
+categories:
+- nuget
+- code
+- open source
+redirect_from: "/archive/2011/03/29/nuget-1-2-released.aspx/"
 ---
+
 I’m happy to announce the release of NuGet 1.2. It took us a bit longer
 than we expected to get this release out there, and I’ll explain why
 later, but for now, go install it!

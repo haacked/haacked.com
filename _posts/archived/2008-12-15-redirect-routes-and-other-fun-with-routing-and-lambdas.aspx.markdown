@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Redirect Routes and other Fun With Routing And Lambdas"
+title: Redirect Routes and other Fun With Routing And Lambdas
 date: 2008-12-15 -0800
 comments: true
 disqus_identifier: 18565
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2008/12/14/redirect-routes-and-other-fun-with-routing-and-lambdas.aspx/"
 ---
+
 ASP.NET Routing is useful in many situations beyond [ASP.NET
 MVC](http://asp.net/mvc "ASP.NET MVC Website"). For example, I often
 need to run a tiny bit of custom code in response to a specific request

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Integrate Your Custom Search Engine With The Browser"
+title: Integrate Your Custom Search Engine With The Browser
 date: 2006-10-24 -0800
 comments: true
 disqus_identifier: 18106
 categories: []
+redirect_from: "/archive/2006/10/23/Integrate_Your_Custom_Search_Engine_With_The_Browser.aspx/"
 ---
+
 In response to question about integrating my [custom search
 engine](http://haacked.com/archive/2006/10/23/My_Very_Own_Search_Engine.aspx "Custom Search Engine")
 with the browser, [Oran](http://orand.blogspot.com/ "Oran's Blog") left

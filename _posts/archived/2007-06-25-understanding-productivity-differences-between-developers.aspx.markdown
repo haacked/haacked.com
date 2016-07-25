@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "10 Developers For The Price Of One"
+title: 10 Developers For The Price Of One
 date: 2007-06-25 -0800
 comments: true
 disqus_identifier: 18360
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2007/06/24/understanding-productivity-differences-between-developers.aspx/"
 ---
+
 Update: For an interesting counterpoint to the myth of the 10x engineer,
 check out this [blog post by
 Shanley](https://medium.com/about-work/6aedba30ecfe). My post is more

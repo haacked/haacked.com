@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "So There Was a Real Hattori Hanzo"
+title: So There Was a Real Hattori Hanzo
 date: 2005-04-21 -0800
 comments: true
 disqus_identifier: 2772
 categories: []
+redirect_from: "/archive/2005/04/20/so-there-was-a-real-hattori-hanzo.aspx/"
 ---
+
 ![Hattori Hanzo](/images/hattoriHanzo.jpg) A while ago I wrote about
 [Seppuku, Katanas, and
 Samurai](http://haacked.com/archive/2005/01/04/1813.aspx) and made a

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "ASP.NET MVC 2 Preview 2"
+title: ASP.NET MVC 2 Preview 2
 date: 2009-10-01 -0800
 comments: true
 disqus_identifier: 18646
 categories: []
+redirect_from: "/archive/2009/09/30/asp.net-mvc-preview-2-released.aspx/"
 ---
+
 Today we just released ASP.NET MVC 2 Preview 2 for Visual Studio 2008
 SP1 (and ASP.NET 3.5 SP1), which builds on top of the work we did in
 [Preview 1 released two months

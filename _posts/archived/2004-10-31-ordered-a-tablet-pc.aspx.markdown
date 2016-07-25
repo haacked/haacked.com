@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ordered a Tablet PC"
+title: Ordered a Tablet PC
 date: 2004-10-31 -0800
 comments: true
 disqus_identifier: 1537
 categories: []
+redirect_from: "/archive/2004/10/30/ordered-a-tablet-pc.aspx/"
 ---
+
 So after much deliberation, I've decided on the M205 with a 60GB
 hard-drive, 512MB Ram, and a DVD-CD ROM drive etc... etc..
 

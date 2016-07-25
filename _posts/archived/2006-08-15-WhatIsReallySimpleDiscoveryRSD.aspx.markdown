@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "What Is Really Simple Discovery (RSD)?"
+title: What Is Really Simple Discovery (RSD)?
 date: 2006-08-15 -0800
 comments: true
 disqus_identifier: 14972
 categories: []
+redirect_from: "/archive/2006/08/14/WhatIsReallySimpleDiscoveryRSD.aspx/"
 ---
+
 That is a fine question in need of a good answer.  The answer for
 implementors is easily found in [the
 spec](http://http//archipelago.phrasewise.com/display?page=oldsite/1330.html/ "RFC: Really Simple Discovery 1.0"). 

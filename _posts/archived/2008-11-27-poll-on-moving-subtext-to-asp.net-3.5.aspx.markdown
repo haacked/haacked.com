@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Poll on Moving Subtext To ASP.NET 3.5"
+title: Poll on Moving Subtext To ASP.NET 3.5
 date: 2008-11-27 -0800
 comments: true
 disqus_identifier: 18561
-categories: [subtext]
+categories:
+- subtext
+redirect_from: "/archive/2008/11/26/poll-on-moving-subtext-to-asp.net-3.5.aspx/"
 ---
+
 How many of you out there who use Subtext host it on a hosting provider
 who does not have ASP.NET 3.5 available? I’d like to make the next
 version of Subtext 2 take a dependency on 3.5. Note that it wouldn’t

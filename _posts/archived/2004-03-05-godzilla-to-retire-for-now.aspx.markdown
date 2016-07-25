@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Godzilla To Retire (for now)"
+title: Godzilla To Retire (for now)
 date: 2004-03-05 -0800
 comments: true
 disqus_identifier: 237
 categories: []
+redirect_from: "/archive/2004/03/04/godzilla-to-retire-for-now.aspx/"
 ---
+
 Will they be giving him a gold watch?
 
 > ackthpt writes "CNN is reporting that Toho, after 50 years and 28

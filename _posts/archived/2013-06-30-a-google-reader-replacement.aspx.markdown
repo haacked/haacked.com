@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "A Google Reader Replacement"
+title: A Google Reader Replacement
 date: 2013-06-30 -0800
 comments: true
 disqus_identifier: 18894
-categories: [blogging,open source]
+categories:
+- blogging
+- open source
+redirect_from: "/archive/2013/06/29/a-google-reader-replacement.aspx/"
 ---
+
 Google is [shuttering Google
 Reader](http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html "Google to shut down Google Reader")
 in a little over a day (on July 1st, 2013) as I write this. If you use

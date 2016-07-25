@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Blogging and Rebuilding Baghdad"
+title: Blogging and Rebuilding Baghdad
 date: 2004-11-30 -0800
 comments: true
 disqus_identifier: 1689
 categories: []
+redirect_from: "/archive/2004/11/29/blogging-and-rebuilding-baghdad.aspx/"
 ---
+
 My neighbor Chris is in Iraq as the \#2 guy overseeing rebuilding
 projects as part of the Army Corp of Engineer. He'll be over there for
 several months helping to rebuild the facilities necessary for providing

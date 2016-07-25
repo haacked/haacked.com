@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Great Review on GameSpot"
+title: Great Review on GameSpot
 date: 2005-09-06 -0800
 comments: true
 disqus_identifier: 9933
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2005/09/05/great-review-on-gamespot.aspx/"
 ---
+
 My former coworker who wrote that 2600 article [I mentioned
 recently](http://haacked.com/archive/2005/08/29/9748.aspx) sent me this
 link to a [GameSpot

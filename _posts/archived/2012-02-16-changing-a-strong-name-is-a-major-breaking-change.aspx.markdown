@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Changing A Strong Name Is A Major Breaking Change"
+title: Changing A Strong Name Is A Major Breaking Change
 date: 2012-02-16 -0800
 comments: true
 disqus_identifier: 18846
-categories: [open source,nuget,code]
+categories:
+- open source
+- nuget
+- code
+redirect_from: "/archive/2012/02/15/changing-a-strong-name-is-a-major-breaking-change.aspx/"
 ---
+
 Recently, the Log4Net team released log4net 1.2.11 (*congrats by the
 way!*). The previous version of log4Net was 1.2.10.
 

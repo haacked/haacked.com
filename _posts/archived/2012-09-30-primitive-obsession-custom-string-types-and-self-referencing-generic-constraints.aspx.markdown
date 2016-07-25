@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Primitive Obsession, Custom String Types, and Self Referencing Generic Constraints"
+title: Primitive Obsession, Custom String Types, and Self Referencing Generic Constraints
 date: 2012-09-30 -0800
 comments: true
 disqus_identifier: 18869
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2012/09/29/primitive-obsession-custom-string-types-and-self-referencing-generic-constraints.aspx/"
 ---
+
 I was once accused of [primitive
 obsession](http://grabbagoft.blogspot.com/2007/12/dealing-with-primitive-obsession.html "Dealing with primitive obsession").
 Especially when it comes to strings. Guilty as charged!

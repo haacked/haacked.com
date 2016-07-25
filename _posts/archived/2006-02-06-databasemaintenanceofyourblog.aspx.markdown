@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Database Maintenance Of Your Blog"
+title: Database Maintenance Of Your Blog
 date: 2006-02-06 -0800
 comments: true
 disqus_identifier: 11713
 categories: []
+redirect_from: "/archive/2006/02/05/databasemaintenanceofyourblog.aspx/"
 ---
+
 Lately I have been spending a little bit of time performing maintenance
 tasks on my blog’s SQL Server. I noticed that OdeToCode’s [Scott
 Allen](http://odetocode.com/Blogs/scott/ "Scott Allen's Blog") was in

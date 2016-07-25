@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Dealing with Comment Threads"
+title: Dealing with Comment Threads
 date: 2006-05-17 -0800
 comments: true
 disqus_identifier: 12837
 categories: []
+redirect_from: "/archive/2006/05/16/DealingWithCommentThreads.aspx/"
 ---
+
 Seems like everyone and their mother has an opinion on the “right” way
 to have comment threads. Currently
 [Subtext](http://subtextproject.com/ "Subtext project website") supports

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Should Subtext Move To CodePlex"
+title: Should Subtext Move To CodePlex
 date: 2006-06-30 -0800
 comments: true
 disqus_identifier: 13616
-categories: [subtext]
+categories:
+- subtext
+redirect_from: "/archive/2006/06/29/ShouldSubtextMoveToCodePlex.aspx/"
 ---
+
 Seems like every day now someone asks me if I plan on moving
 [Subtext](http://subtextproject.com/ "Subtext") over to
 [CodePlex](http://www.codeplex.com/ "CodePlex - Microsoft's Community Development Website").

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Interviewing"
+title: Interviewing
 date: 2004-09-24 -0800
 comments: true
 disqus_identifier: 1268
 categories: []
+redirect_from: "/archive/2004/09/23/interviewing.aspx/"
 ---
+
 I’m conducting some phone interviews today for a C++
 contractor/employee. Man it’s been a long time since I’ve conducted
 interviews. I wish I kept a list of my favorite questions to ask.

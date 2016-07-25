@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "SQL TIP: Prefixing Stored Procedure With &quot;sp_&quot; Gives Your SP a Bad Name"
+title: 'SQL TIP: Prefixing Stored Procedure With &quot;sp_&quot; Gives Your SP a Bad
+  Name'
 date: 2005-01-25 -0800
 comments: true
 disqus_identifier: 2013
-categories: [sql]
+categories:
+- sql
+redirect_from: "/archive/2005/01/24/sql-tip-prefixing-stored-procedure-with-sp_-gives-your-sp-a-bad-name.aspx/"
 ---
+
 Found this [interesting
 article](http://www.winnetmag.com/Article/ArticleID/23011/23011.html "article on stored proc naming")
 via [Hassan

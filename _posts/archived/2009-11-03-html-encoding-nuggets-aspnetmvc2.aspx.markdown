@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Html Encoding Nuggets With ASP.NET MVC 2"
+title: Html Encoding Nuggets With ASP.NET MVC 2
 date: 2009-11-03 -0800
 comments: true
 disqus_identifier: 18655
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from: "/archive/2009/11/02/html-encoding-nuggets-aspnetmvc2.aspx/"
 ---
+
 This is the second in a three part series related to HTML encoding
 blocks, aka the `<%: ... %>` syntax.
 

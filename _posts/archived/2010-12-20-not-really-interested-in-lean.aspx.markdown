@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Not Really Interested In Lean"
+title: Not Really Interested In Lean
 date: 2010-12-20 -0800
 comments: true
 disqus_identifier: 18748
-categories: [code,nuget]
+categories:
+- code
+- nuget
+redirect_from: "/archive/2010/12/19/not-really-interested-in-lean.aspx/"
 ---
+
 *We could have done better.* That’s the thought that goes through my
 mind when looking back on this past year and reflecting on NuGet.
 

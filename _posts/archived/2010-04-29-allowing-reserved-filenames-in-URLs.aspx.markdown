@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Putting the Con (COM1, LPT1, NUL, etc.) Back in your URLs"
+title: Putting the Con (COM1, LPT1, NUL, etc.) Back in your URLs
 date: 2010-04-29 -0800
 comments: true
 disqus_identifier: 18697
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2010/04/28/allowing-reserved-filenames-in-URLs.aspx/"
 ---
+
 One annoyance that some developers have run into with ASP.NET MVC is
 that certain reserved filenames are not allowed in URLs. Often, this is
 manifested as a Bad Request error or a File Not Found (404) error.

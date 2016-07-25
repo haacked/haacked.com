@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Apple's Unintended Compliment To PCs"
+title: Apple's Unintended Compliment To PCs
 date: 2006-06-30 -0800
 comments: true
 disqus_identifier: 13594
 categories: []
+redirect_from: "/archive/2006/06/29/ApplesUnintendedComplimentToWindows.aspx/"
 ---
+
 You’ve probably seen the recent Apple commercials with the two guys
 holding hands. One introduces himself as a PC and the other introduces
 himself as an Apple Macintosh. They hold hands because they speak each

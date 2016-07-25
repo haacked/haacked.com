@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "How the IIS SEO Toolkit Saved My Butt"
+title: How the IIS SEO Toolkit Saved My Butt
 date: 2009-12-14 -0800
 comments: true
 disqus_identifier: 18666
-categories: [personal,code]
+categories:
+- personal
+- code
+redirect_from: "/archive/2009/12/13/seo-toolkit-saves-the-day.aspx/"
 ---
+
 Ok, it wasn’t necessarily my ass that was saved, but it was years worth
 of images which were important to me!
 

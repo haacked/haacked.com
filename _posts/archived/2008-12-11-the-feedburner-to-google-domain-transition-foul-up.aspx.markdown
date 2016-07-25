@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Feedburner to Google Domain Transition Foul Up"
+title: The Feedburner to Google Domain Transition Foul Up
 date: 2008-12-11 -0800
 comments: true
 disqus_identifier: 18564
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2008/12/10/the-feedburner-to-google-domain-transition-foul-up.aspx/"
 ---
+
 UPDATE: There’s a [workaround mentioned in the Google
 Groups](http://groups.google.com/group/feedburner/web/known-issues-workarounds "Workaround for MyBrand issue").
 It’s finally resolved.

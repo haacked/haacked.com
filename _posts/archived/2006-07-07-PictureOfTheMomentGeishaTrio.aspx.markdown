@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Picture of the Moment - Geisha Trio"
+title: Picture of the Moment - Geisha Trio
 date: 2006-07-07 -0800
 comments: true
 disqus_identifier: 13739
 categories: []
+redirect_from: "/archive/2006/07/06/PictureOfTheMomentGeishaTrio.aspx/"
 ---
+
 A while ago I had the idea of posting a [picture of the
 day](http://haacked.com/archive/2005/12/13/11334.aspx "Bilbao Metro Entrance").
 Of course I didn’t mean *every* day, but the title might lead one to

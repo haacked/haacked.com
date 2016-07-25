@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Is Community Server Open Source?"
+title: Is Community Server Open Source?
 date: 2006-07-25 -0800
 comments: true
 disqus_identifier: 14192
-categories: [code,blogging]
+categories:
+- code
+- blogging
+redirect_from: "/archive/2006/07/24/IsCommunityServerOpenSource.aspx/"
 ---
+
 [Dave Burke](http://dbvt.com/blog/ "Dave Burke") makes the interesting
 claim that [Community Server is an open source
 application](http://dbvt.com/blog/archive/2006/07/25/4963.aspx "Community Server and Open Source").

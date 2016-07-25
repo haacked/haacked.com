@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Talk About Getting Sidetracked"
+title: Talk About Getting Sidetracked
 date: 2005-05-02 -0800
 comments: true
 disqus_identifier: 2930
 categories: []
+redirect_from: "/archive/2005/05/01/talk-about-getting-sidetracked.aspx/"
 ---
+
 I started off planning to write a quick installer for a little something
 I'm working on. Unhappy with the limited abilities of Visual Studio's
 Setup and Deployment project, I finally started playing with

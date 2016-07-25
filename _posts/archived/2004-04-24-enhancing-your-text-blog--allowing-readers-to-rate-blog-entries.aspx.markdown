@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Enhancing Your .Text Blog - Allowing Readers to Rate Blog Entries"
+title: Enhancing Your .Text Blog - Allowing Readers to Rate Blog Entries
 date: 2004-04-24 -0800
 comments: true
 disqus_identifier: 356
 categories: []
+redirect_from: "/archive/2004/04/23/enhancing-your-text-blog--allowing-readers-to-rate-blog-entries.aspx/"
 ---
+
 ![Rate This Content Screen Shot](/images/RateThisItem.gif)\
 Scott Mitchell writes about a neat feature he created for .TEXT in [this
 article](http://scottonwriting.net/sowblog/posts/1028.aspx) and [this

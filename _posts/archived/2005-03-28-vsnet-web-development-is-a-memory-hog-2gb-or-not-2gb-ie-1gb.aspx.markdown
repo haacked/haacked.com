@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "VS.NET Web Development Is a Memory Hog. 2GB or Not 2GB (i.e. 1GB)?"
+title: VS.NET Web Development Is a Memory Hog. 2GB or Not 2GB (i.e. 1GB)?
 date: 2005-03-28 -0800
 comments: true
 disqus_identifier: 2483
 categories: []
+redirect_from: "/archive/2005/03/27/vsnet-web-development-is-a-memory-hog-2gb-or-not-2gb-ie-1gb.aspx/"
 ---
+
 I've been playing with DotNetNuke at home and after an hour or two,
 VS.NET 2003 is typically using up around 150 to 200 MB of RAM as well as
 200 MB of virtual memory. Web development on VS.NET is a big memory hog

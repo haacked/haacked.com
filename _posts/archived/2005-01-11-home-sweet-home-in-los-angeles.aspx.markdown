@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Home Sweet Home in Los Angeles"
+title: Home Sweet Home in Los Angeles
 date: 2005-01-11 -0800
 comments: true
 disqus_identifier: 1853
 categories: []
+redirect_from: "/archive/2005/01/10/home-sweet-home-in-los-angeles.aspx/"
 ---
+
 We have perfect timining. We arrived in Los Angeles this morning to
 beautiful blue skies. Rumor has it that it's been raining for the past
 four days or so, but I don't believe it.

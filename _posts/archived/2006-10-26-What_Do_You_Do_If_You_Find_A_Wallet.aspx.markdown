@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "What Do You Do If You Find A Wallet?"
+title: What Do You Do If You Find A Wallet?
 date: 2006-10-26 -0800
 comments: true
 disqus_identifier: 18112
 categories: []
+redirect_from: "/archive/2006/10/25/What_Do_You_Do_If_You_Find_A_Wallet.aspx/"
 ---
+
 ![Wallet](http://haacked.com/images/haacked_com/WindowsLiveWriter/WhatDoYouDoIfYouFindAWallet_8BD6/618061_wallet%5B6%5D.jpg)
 Well if you’re the punk malcontent who found my wallet yesterday, you go
 on a shopping spree...at Rite Aid, Vons, and Ralphs (a convenience store

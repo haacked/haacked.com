@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "On Seppuku, Katanas, and Samurai"
+title: On Seppuku, Katanas, and Samurai
 date: 2005-01-04 -0800
 comments: true
 disqus_identifier: 1813
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2005/01/03/on-seppuku-katanas-samurai.aspx/"
 ---
+
 Yesterday, along with Akumi's uncle Tadashi, we visited her grandmother
 at a rest home. She's a spunky 90 year old woman and gives me great
 insight into where Akumi gets her rebellious nature from. We took her

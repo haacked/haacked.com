@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Practice safe DateTime manipulation"
+title: Practice safe DateTime manipulation
 date: 2004-02-18 -0800
 comments: true
 disqus_identifier: 198
-categories: [csharp code datetime]
+categories:
+- csharp code datetime
+redirect_from: "/archive/2004/02/17/practice-safe-datetime-manipulation.aspx/"
 ---
+
 What is the proper way to add three hours to a `DateTime` for the PST timezone? Is it this?
 
 ```csharp

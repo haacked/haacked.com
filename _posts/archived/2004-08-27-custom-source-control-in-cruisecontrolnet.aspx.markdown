@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Custom Source Control In CruiseControl.NET?"
+title: Custom Source Control In CruiseControl.NET?
 date: 2004-08-27 -0800
 comments: true
 disqus_identifier: 984
 categories: []
+redirect_from: "/archive/2004/08/26/custom-source-control-in-cruisecontrolnet.aspx/"
 ---
+
 I'm in the unlucky position that CruiseControl.NET doesn't support the
 source control provider (Seapine Surround SCM) we use here at work.
 Briefly looking at the source code for CCNET, I noticed that I could

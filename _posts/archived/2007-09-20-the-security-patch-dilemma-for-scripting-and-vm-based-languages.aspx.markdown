@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Security Patch Dilemma For Scripting And VM Based Languages"
+title: The Security Patch Dilemma For Scripting And VM Based Languages
 date: 2007-09-20 -0800
 comments: true
 disqus_identifier: 18397
 categories: []
+redirect_from: "/archive/2007/09/19/the-security-patch-dilemma-for-scripting-and-vm-based-languages.aspx/"
 ---
+
 In his book, *[Producing Open Source
 Software](http://producingoss.com/ "Producing Open source Software - How to run a successful free software project")*,
 Karl Fogel gives sage advice on running an open source project. The

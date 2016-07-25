@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Catch Me On Univision"
+title: Catch Me On Univision
 date: 2007-02-14 -0800
 comments: true
 disqus_identifier: 18213
 categories: []
+redirect_from: "/archive/2007/02/13/Catch_Me_On_Univision.aspx/"
 ---
+
 ![Univision
 Logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/CatchMeOnUnivision_137AF/univision_logo%5B12%5D.gif)
 In Decemember I wrote about a great [soccer

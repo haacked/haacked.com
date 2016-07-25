@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A Tech-Ed Confession"
+title: A Tech-Ed Confession
 date: 2004-06-02 -0800
 comments: true
 disqus_identifier: 502
 categories: []
+redirect_from: "/archive/2004/06/01/a-tech-ed-confession.aspx/"
 ---
+
 ![Unreal Tournament 2004 Cover](/images/UT2004.jpg) I have a confession
 to make. While at Tech-Ed, I did some bad things. Please look upon me
 not with a judging eye, but try to have a forgiving stance.

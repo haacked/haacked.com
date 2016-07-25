@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Poor Management Epidemic"
+title: The Poor Management Epidemic
 date: 2005-10-09 -0800
 comments: true
 disqus_identifier: 10657
 categories: []
+redirect_from: "/archive/2005/10/08/ThePoorManagementEpidemic.aspx/"
 ---
+
 I’ve noticed a bit of talk lately about poor management such as [this
 piece](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=3dddf724-6a1a-4991-9486-b76564d19280)
 from [Dare](http://www.25hoursaday.com/weblog/) and [this

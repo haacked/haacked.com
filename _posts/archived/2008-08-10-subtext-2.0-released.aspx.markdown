@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Subtext 2.0 Released"
+title: Subtext 2.0 Released
 date: 2008-08-10 -0800
 comments: true
 disqus_identifier: 18518
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2008/08/09/subtext-2.0-released.aspx/"
 ---
+
 It’s been a long time coming, but we are finally ready to release
 Subtext 2.0. As I [mentioned in
 April](http://haacked.com/archive/2008/04/08/subtext-awakens-from-its-slumber.aspx "Subtext Awakens From Its Slumber")

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Misunderstanding Agile Design"
+title: Misunderstanding Agile Design
 date: 2005-08-17 -0800
 comments: true
 disqus_identifier: 9536
 categories: []
+redirect_from: "/archive/2005/08/16/misunderstanding-agile-design.aspx/"
 ---
+
 Now I like to take shots at myself for producing drivel now and then,
 but today, I’m going to take a shot at someone else’s drivel. I really
 should be working right now, but I really need to stop a moment to

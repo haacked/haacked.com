@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Cluster F*ck. When Good Hard Drives Go Bad."
+title: Cluster F*ck. When Good Hard Drives Go Bad.
 date: 2004-09-27 -0800
 comments: true
 disqus_identifier: 1281
-categories: [tech]
+categories:
+- tech
+redirect_from: "/archive/2004/09/26/cluster-fuck-when-good-hard-drives-go-bad.aspx/"
 ---
+
 Yesterday was a crazy day. Our production site runs on an older Dell
 disk array with three logical volumes each set up in a RAID 1+0
 configuration. For you non geeks out there, RAID stands for

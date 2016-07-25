@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Advice on making a condo offer"
+title: Advice on making a condo offer
 date: 2004-03-11 -0800
 comments: true
 disqus_identifier: 247
 categories: []
+redirect_from: "/archive/2004/03/10/advice-on-making-a-condo-offer.aspx/"
 ---
+
 At least this advice worked for us.
 
 In this housing market, it may help to write a personal letter with the

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "New Plants for the Office"
+title: New Plants for the Office
 date: 2005-04-27 -0800
 comments: true
 disqus_identifier: 2843
 categories: []
+redirect_from: "/archive/2005/04/26/new-plants-for-the-office.aspx/"
 ---
+
 This past weekend Akumi and I headed over to the downtown flower mart to
 purchase some plants. We came home with a couple money trees and some
 bamboo for my office.

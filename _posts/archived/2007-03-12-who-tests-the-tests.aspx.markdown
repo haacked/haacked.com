@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Who Tests The Tests?"
+title: Who Tests The Tests?
 date: 2007-03-12 -0800
 comments: true
 disqus_identifier: 18237
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2007/03/11/who-tests-the-tests.aspx/"
 ---
+
 [Leon Bambrick](http://secretgeek.net/ "Secret Geek") (aka SecretGeek)
 has started a series on [Agile methodologies and Test Driven Development
 (TDD)](http://secretgeek.net/agile_v_tdd.asp "Agile and Test Driven: A Marriage Made In Hell?")

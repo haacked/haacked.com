@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Housing Prices in Los Angeles"
+title: Housing Prices in Los Angeles
 date: 2005-09-26 -0800
 comments: true
 disqus_identifier: 10413
 categories: []
+redirect_from: "/archive/2005/09/25/housing-prices-in-los-angeles.aspx/"
 ---
+
 Just to put housing prices in Los Angeles in perspective, we bought our
 small 1000 sq foot town house condo a year and a half ago. I just found
 out this week that our neighbors sold their comparable unit for 30% more

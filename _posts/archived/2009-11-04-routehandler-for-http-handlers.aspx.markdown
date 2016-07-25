@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "A RouteHandler for IHttpHandlers"
+title: A RouteHandler for IHttpHandlers
 date: 2009-11-04 -0800
 comments: true
 disqus_identifier: 18656
-categories: [asp.net,code]
+categories:
+- asp.net
+- code
+redirect_from: "/archive/2009/11/03/routehandler-for-http-handlers.aspx/"
 ---
+
 This code has been incorporated into a new
 [RouteMagic](http://haacked.com/archive/2011/01/30/introducing-routemagic.aspx)
 library I wrote which includes Source Code on CodePlex.com as well as a

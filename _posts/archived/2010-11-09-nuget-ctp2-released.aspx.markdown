@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "NuGet CTP 2 Released!"
+title: NuGet CTP 2 Released!
 date: 2010-11-09 -0800
 comments: true
 disqus_identifier: 18735
-categories: [nuget,code]
+categories:
+- nuget
+- code
+redirect_from: "/archive/2010/11/08/nuget-ctp2-released.aspx/"
 ---
+
 My team has been hard at work the past few weeks cranking out code and
 today we are releasing the second preview of
 [NuGet](http://nuget.codeplex.com/ "NuGet on CodePlex.com") (which you

@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "DotNetKicks IBlogExtension Plugin For RSS Bandit (And Others)"
+title: DotNetKicks IBlogExtension Plugin For RSS Bandit (And Others)
 date: 2006-06-05 -0800
 comments: true
 disqus_identifier: 13153
-categories: [open source,blogging]
+categories:
+- open source
+- blogging
+redirect_from: "/archive/2006/06/04/DotNetKicksIBlogExtensionPluginForRSSBanditAndOthers.aspx/"
 ---
+
 Recently [I
 highlighted](http://haacked.com/archive/2006/06/02/KickItToEarnPayola.aspx "DotNetKicks")
 a site named

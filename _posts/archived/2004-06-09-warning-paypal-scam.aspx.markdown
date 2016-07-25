@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "WARNING: PayPal Scam."
+title: 'WARNING: PayPal Scam.'
 date: 2004-06-09 -0800
 comments: true
 disqus_identifier: 567
 categories: []
+redirect_from: "/archive/2004/06/08/warning-paypal-scam.aspx/"
 ---
+
 Be aware that there is a PayPal scam going around. I received the
 following email which had a forged from address of
 "DoNotReply@PayPal.com". There's a reason they don't want you to reply,

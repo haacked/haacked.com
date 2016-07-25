@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Burning Man"
+title: Burning Man
 date: 2004-03-14 -0800
 comments: true
 disqus_identifier: 257
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2004/03/13/burning-man.aspx/"
 ---
+
 ![](/images/burningman.jpg)I can almost smell the smoky embers. Burning
 Man tickets have already gone on sale. I tried to buy them in the mad
 rush when they first came online at a discounted price to no avail.

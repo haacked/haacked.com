@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Geek Slap Fight - Get Rid of WWW"
+title: Geek Slap Fight - Get Rid of WWW
 date: 2007-02-27 -0800
 comments: true
 disqus_identifier: 18220
-categories: [code,tech]
+categories:
+- code
+- tech
+redirect_from: "/archive/2007/02/26/Geek_Slap_Fight_-_Get_Rid_of_WWW.aspx/"
 ---
+
 Forget flame wars. They’re so USENET. The new way of geek fighting is
 much more subtle.
 

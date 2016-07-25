@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "It Came From the Blue Lagoon"
+title: It Came From the Blue Lagoon
 date: 2011-11-07 -0800
 comments: true
 disqus_identifier: 18824
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2011/11/06/it-came-from-the-blue-lagoon.aspx/"
 ---
 
 As I mentioned in [my last post](http://haacked.com/archive/2011/10/31/beer-in-iceland.aspx "Beer in Iceland"), I have an overnight stopover in Reykjavik Iceland. After checking into my hotel at an ungodly early hour (which ended up being really late for me Seattle time), my first order of business was to head over to [the Blue Lagoon](http://www.bluelagoon.com/ "The Blue Lagoon").

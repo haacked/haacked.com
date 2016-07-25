@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "SQL TIP: Auto Increment in an UPDATE statement."
+title: 'SQL TIP: Auto Increment in an UPDATE statement.'
 date: 2004-02-28 -0800
 comments: true
 disqus_identifier: 215
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2004/02/27/sql-auto-increment.aspx/"
 ---
+
 I needed to create a temp table in SQL with a column that contained an incrementing integer, without making that column an identity.
 
 For example, suppose I want to select record from a table of users, but add a column that contains an incrementing counter. The data in the table should look like so:

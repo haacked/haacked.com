@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Running An Open Source Project"
+title: Running An Open Source Project
 date: 2006-01-16 -0800
 comments: true
 disqus_identifier: 11517
-categories: [code,open source]
+categories:
+- code
+- open source
+redirect_from: "/archive/2006/01/15/runninganopensourceproject.aspx/"
 ---
+
 [![Producing Open Source Software
 Cover](http://haacked.com/images/producingoss-cover-small.gif)](http://www.amazon.com/gp/product/0596007590?ie=UTF8&tag=youvebeenhaac-20&link_code=as3&camp=211189&creative=373489&creativeASIN=0596007590 "Producing Open Source Software")
 I just finished reading the book "[Producing Open Source Software - How

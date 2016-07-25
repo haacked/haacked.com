@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Browser Choice and Voting Online"
+title: Browser Choice and Voting Online
 date: 2008-10-31 -0800
 comments: true
 disqus_identifier: 18544
-categories: [personal,code]
+categories:
+- personal
+- code
+redirect_from: "/archive/2008/10/30/browser-choice-and-voting-online.aspx/"
 ---
+
 In [my last
 post](http://haacked.com/archive/2008/10/28/hot-new-presentation-tip.aspx "Hot New Presentation Tip"),
 I joked that the reason that someone gave me all 1s in my talk was a

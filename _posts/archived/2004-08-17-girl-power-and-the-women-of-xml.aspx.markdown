@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Girl Power! (And the women of XML)"
+title: Girl Power! (And the women of XML)
 date: 2004-08-17 -0800
 comments: true
 disqus_identifier: 935
 categories: []
+redirect_from: "/archive/2004/08/16/girl-power-and-the-women-of-xml.aspx/"
 ---
+
 ![Kill Bill Vol2](/images/killbillvol2.jpg)**Kill Bill**\
  We finished Kill Bill Vol 2 last night and absolutely loved the entire
 movie. By entire movie, I mean part 1 & 2 combined. Part 1 was a more

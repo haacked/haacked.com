@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Getting A Jump on Web 2.1 aka Web 2007"
+title: Getting A Jump on Web 2.1 aka Web 2007
 date: 2006-04-01 -0800
 comments: true
 disqus_identifier: 12220
 categories: []
+redirect_from: "/archive/2006/03/31/GettingAJumpOnWeb2.1AkaWeb2007.aspx/"
 ---
+
 ![Web 2.11](http://haacked.com/images/Web211.jpg)Despite the apparent
 hype factor of “Web 2.0”, I am really starting to get into the whole Web
 2.0 phenomena. I think it really clicked when hearing about it in

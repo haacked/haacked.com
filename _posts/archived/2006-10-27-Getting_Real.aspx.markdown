@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Getting Real"
+title: Getting Real
 date: 2006-10-27 -0800
 comments: true
 disqus_identifier: 18116
 categories: []
+redirect_from: "/archive/2006/10/26/Getting_Real.aspx/"
 ---
+
 ![Getting
 Real](http://haacked.com/images/haacked_com/WindowsLiveWriter/GettingReal_9AD6/GettingRealblackbook%5B4%5D.gif)
 Now that [37signals](http://37signals.com/ "37signals") have put their

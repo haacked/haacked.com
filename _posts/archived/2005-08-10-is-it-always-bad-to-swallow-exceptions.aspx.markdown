@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Is It Always Bad To Swallow Exceptions?"
+title: Is It Always Bad To Swallow Exceptions?
 date: 2005-08-10 -0800
 comments: true
 disqus_identifier: 9293
 categories: []
+redirect_from: "/archive/2005/08/09/is-it-always-bad-to-swallow-exceptions.aspx/"
 ---
+
 Reading [this
 post](http://jaysonknight.com/blog/archive/2005/08/10/1736.aspx) from
 Jayson’s blog caught my attention for two reasons. First, his very

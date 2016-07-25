@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Departures"
+title: Departures
 date: 2011-11-28 -0800
 comments: true
 disqus_identifier: 18828
-categories: [personal,nuget]
+categories:
+- personal
+- nuget
+redirect_from: "/archive/2011/11/27/departing-microsoft.aspx/"
 ---
+
 It’s not every day you write this sort of blog post. And you hope it’s
 not something you do so often that you ever get good at it. I’m
 certainly sucking up a storm here.

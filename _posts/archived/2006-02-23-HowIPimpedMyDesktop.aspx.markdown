@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "How I Pimped My Desktop"
+title: How I Pimped My Desktop
 date: 2006-02-23 -0800
 comments: true
 disqus_identifier: 11865
 categories: []
+redirect_from: "/archive/2006/02/22/HowIPimpedMyDesktop.aspx/"
 ---
+
 So I spend my time writing up a hopefully useful guide to Subversion on
 SourceForge and all this one reader from Spain (¡hola!) wants to know is
 where I got my theme from?

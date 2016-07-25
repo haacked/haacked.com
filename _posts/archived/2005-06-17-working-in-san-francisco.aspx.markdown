@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Working in San Francisco"
+title: Working in San Francisco
 date: 2005-06-17 -0800
 comments: true
 disqus_identifier: 5082
 categories: []
+redirect_from: "/archive/2005/06/16/working-in-san-francisco.aspx/"
 ---
+
 I’m in San Francisco for a working meeting for a client. We’re doing a
 bit of project planning and working through the specs and schematics.
 The thing I love about San Francisco is I never have a bad time, even if

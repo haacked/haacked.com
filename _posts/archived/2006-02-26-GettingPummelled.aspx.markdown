@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Getting Pummelled"
+title: Getting Pummelled
 date: 2006-02-26 -0800
 comments: true
 disqus_identifier: 11893
 categories: []
+redirect_from: "/archive/2006/02/25/GettingPummelled.aspx/"
 ---
+
 ![Soccer Ball](http://haacked.com/images/SoccerBallBW.jpg)This week,
 I’ve had the pleasure of being pummelled in soccer not once, but twice.
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Crosswalk Design"
+title: Crosswalk Design
 date: 2005-11-29 -0800
 comments: true
 disqus_identifier: 11268
 categories: []
+redirect_from: "/archive/2005/11/28/crosswalk-design.aspx/"
 ---
+
 This [post about crosswalk
 countdowns](http://37signals.com/svn/archives2/crosswalk_countdowns_and_icons.php)
 and icons reminds me of the crosswalk icon in Bilbao.

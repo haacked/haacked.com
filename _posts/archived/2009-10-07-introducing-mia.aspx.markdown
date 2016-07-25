@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Introducing Mia Yokoyama Haack"
+title: Introducing Mia Yokoyama Haack
 date: 2009-10-07 -0800
 comments: true
 disqus_identifier: 18647
 categories: []
+redirect_from: "/archive/2009/10/06/introducing-mia.aspx/"
 ---
+
 This morning at 3:17 AM, Mia Yokoyama Haack was born weighing in at 7lb
 8.5 oz. Now my [world domination
 crew](http://haacked.com/archive/2009/04/07/my-little-world-domination-backup.aspx "World Domination Backup")

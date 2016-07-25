@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Beware of @@Identity Theft in SQL Server"
+title: Beware of @@Identity Theft in SQL Server
 date: 2005-04-10 -0800
 comments: true
 disqus_identifier: 2627
-categories: [sql]
+categories:
+- sql
+redirect_from: "/archive/2005/04/09/beware-of-identity-theft-in-sql-server.aspx/"
 ---
+
 In T-SQL, you can use the `@@IDENTITY` keyword to obtain the value of the
 identity column when you insert a new record. For example, the following
 query inserts a record into an imaginary table and returns a result set

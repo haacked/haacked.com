@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "ASP.NET MVP Haacked"
+title: ASP.NET MVP Haacked
 date: 2006-04-30 -0800
 comments: true
 disqus_identifier: 12610
 categories: []
+redirect_from: "/archive/2006/04/29/ASP.NETMVPHaacked.aspx/"
 ---
+
 ![ASP.NET 2.0 MVP Hacks and
 Tips](http://haacked.com/images/ASP.NET_Hacks.jpg) [Scott Hanselman
 mentions a new

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Back from Puerto Vallarta"
+title: Back from Puerto Vallarta
 date: 2006-03-29 -0800
 comments: true
 disqus_identifier: 12214
 categories: []
+redirect_from: "/archive/2006/03/28/BackFromPuertoVallarta.aspx/"
 ---
+
 [![View from
 Pool](http://haacked.com/images/ViewFromPool_small.jpg)](http://haacked.com/images/ViewFromPool.jpg)
 In case you were wondering how such a loudmouth as myself could be so

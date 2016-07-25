@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "What Is The Spirit of Open Source?"
+title: What Is The Spirit of Open Source?
 date: 2012-02-22 -0800
 comments: true
 disqus_identifier: 18848
-categories: [code,open source]
+categories:
+- code
+- open source
+redirect_from: "/archive/2012/02/21/spirit-of-open-source.aspx/"
 ---
+
 [In my previous
 post](http://haacked.com/archive/2012/02/16/open-source-and-open-source-software-are-not-the-same.aspx "My Previous Post"),
 I attempted to make a distinction between Open Source and Open Source

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hotel Minibar Keys Open Diebold Voting Machines"
+title: Hotel Minibar Keys Open Diebold Voting Machines
 date: 2006-09-18 -0800
 comments: true
 disqus_identifier: 16793
 categories: []
+redirect_from: "/archive/2006/09/17/Hotel_Minibar_Keys_Open_Diebold_Voting_Machines.aspx/"
 ---
+
 [![Thermometer](http://haacked.com/images/haacked_com/WindowsLiveWriter/HotelMinibarKeysOpenDieboldVotingMachine_AA6F/423004_thermometer_thumb%5B2%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/HotelMinibarKeysOpenDieboldVotingMachine_AA6F/423004_thermometer%5B4%5D.jpg)
 Interesting post on how easy it is to [open up a Diebold voting
 machine](http://www.freedom-to-tinker.com/?p=1064).  Security is not

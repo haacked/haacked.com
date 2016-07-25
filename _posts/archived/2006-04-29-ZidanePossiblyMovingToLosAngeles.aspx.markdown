@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Zidane Possibly Moving To Los Angeles"
+title: Zidane Possibly Moving To Los Angeles
 date: 2006-04-29 -0800
 comments: true
 disqus_identifier: 12602
 categories: []
+redirect_from: "/archive/2006/04/28/ZidanePossiblyMovingToLosAngeles.aspx/"
 ---
+
 ![Zinedine Zidane](http://haacked.com/images/ZinedineZidane.jpg) I hear
 from a fairly reliable source that after the World Cup, Zinedine Zidane
 plans to move to Los Angeles to get into some kind of entertainment.

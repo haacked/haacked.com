@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Argue Well By Losing"
+title: Argue Well By Losing
 date: 2013-10-21 -0800
 comments: true
 disqus_identifier: 18901
-categories: [community,personal]
+categories:
+- community
+- personal
+redirect_from: "/archive/2013/10/20/argue-well-by-losing.aspx/"
 ---
+
 I love a good argument. No really! Even ones online.
 
 The problem is, so few of them are any good. They tend to go nowhere and

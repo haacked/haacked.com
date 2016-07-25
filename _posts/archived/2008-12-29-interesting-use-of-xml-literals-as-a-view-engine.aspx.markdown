@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Interesting use of XML Literals as a View Engine"
+title: Interesting use of XML Literals as a View Engine
 date: 2008-12-29 -0800
 comments: true
 disqus_identifier: 18568
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2008/12/28/interesting-use-of-xml-literals-as-a-view-engine.aspx/"
 ---
+
 [Dmitry](http://blogs.msdn.com/dmitryr/ "Dmitry"), who’s the PUM for
 ASP.NET, recently wrote a blog post about an interesting approach he
 took [using VB.NET XML Literals as a view

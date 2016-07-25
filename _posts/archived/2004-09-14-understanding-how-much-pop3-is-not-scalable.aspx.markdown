@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Understanding How Much POP3 Is Not Scalable"
+title: Understanding How Much POP3 Is Not Scalable
 date: 2004-09-14 -0800
 comments: true
 disqus_identifier: 1207
 categories: []
+redirect_from: "/archive/2004/09/13/understanding-how-much-pop3-is-not-scalable.aspx/"
 ---
+
 I have the lovely task of importing a POP3 mailbox with 144524 messages
 into our database. I'm using a 3rd party component, but am quickly
 learning more than I ever wanted to know about POP3. For example,

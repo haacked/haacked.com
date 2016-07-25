@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Default Templated Views"
+title: Default Templated Views
 date: 2009-08-04 -0800
 comments: true
 disqus_identifier: 18633
 categories: []
+redirect_from: "/archive/2009/08/03/default-templated-views.aspx/"
 ---
+
 *Note, this blog post is based on Preview 1 of ASP.NET MVC 2 and details
 are subject to change. I’ll try to get back to normal ASP.NET MVC 1.0
 content soon. :)*

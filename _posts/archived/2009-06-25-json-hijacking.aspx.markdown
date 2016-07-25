@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "JSON Hijacking"
+title: JSON Hijacking
 date: 2009-06-25 -0800
 comments: true
 disqus_identifier: 18624
 categories: []
+redirect_from:
+- "/archive/0001/01/01/json-hijacking.aspx/"
+- "/archive/2009/06/24/json-hijacking.aspx/"
 ---
+
 A while back I wrote about [a subtle JSON
 vulnerability](http://haacked.com/archive/2008/11/20/anatomy-of-a-subtle-json-vulnerability.aspx "Anatomy of a Subtle JSON Vulnerability")
 which could result in the disclosure of sensitive information. That

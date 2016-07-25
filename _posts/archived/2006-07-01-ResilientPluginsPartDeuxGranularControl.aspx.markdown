@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Resilient Plugins Part Deux - Granular Control"
+title: Resilient Plugins Part Deux - Granular Control
 date: 2006-07-01 -0800
 comments: true
 disqus_identifier: 13635
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2006/06/30/ResilientPluginsPartDeuxGranularControl.aspx/"
 ---
+
 ![Plug](http://haacked.com/images/plug2.jpg) I got a lot of great
 feedback from my post on [Building Plugins Resilient to
 Versioning](http://haacked.com/archive/2006/06/26/BuildingPluginsResilientToVersioning.aspx "Building Resilient Plugins"),

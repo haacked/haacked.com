@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Templated Razor Delegates"
+title: Templated Razor Delegates
 date: 2011-02-27 -0800
 comments: true
 disqus_identifier: 18766
-categories: [asp.net mvc,code,razor]
+categories:
+- asp.net mvc
+- code
+- razor
+redirect_from: "/archive/2011/02/26/templated-razor-delegates.aspx/"
 ---
+
 [David Fowler](http://weblogs.asp.net/davidfowler/ "Fowler's Blog") turned me on to a really cool feature of Razor I hadn’t realized made it into 1.0, Templated Razor Delegates. What’s that? I’ll let the code do the speaking.
 
 <pre class="csharpcode"><code>

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Asakusa"
+title: Asakusa
 date: 2005-07-31 -0800
 comments: true
 disqus_identifier: 9188
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2005/07/30/asakusa.aspx/"
 ---
+
 [![Asakusa
 Pagoda](http://photos21.flickr.com/29892020_a6b42ab963_m.jpg)](http://www.flickr.com/photos/haacked/29892020/ "Photo Sharing")
 Yesterday we were given a tour of Asakusa from an old family friend who

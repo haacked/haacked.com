@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "19 Eponymous Laws Of Software Development"
+title: 19 Eponymous Laws Of Software Development
 date: 2007-07-17 -0800
 comments: true
 disqus_identifier: 18367
 categories: []
+redirect_from: "/archive/2007/07/16/the-eponymous-laws-of-software-development.aspx/"
 ---
+
 One surefire way to sound really really smart is to invoke a law or
 principle named after some long dead guy (an alive guy is acceptable
 too, but lacks slightly in smart points).

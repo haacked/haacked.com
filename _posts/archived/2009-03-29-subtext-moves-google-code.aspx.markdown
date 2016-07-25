@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Subtext Is On The Move"
+title: Subtext Is On The Move
 date: 2009-03-29 -0800
 comments: true
 disqus_identifier: 18602
-categories: [subtext]
+categories:
+- subtext
+redirect_from: "/archive/2009/03/28/subtext-moves-google-code.aspx/"
 ---
+
 Simo [beat me to the
 punch](http://codeclimber.net.nz/archive/2009/03/29/subtext-goes-to-google-code.aspx "Subtext Switches")
 in writing about this, After many long years being hosted on

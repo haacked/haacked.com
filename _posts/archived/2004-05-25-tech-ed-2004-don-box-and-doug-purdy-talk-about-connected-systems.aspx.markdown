@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tech-Ed 2004: Don Box and Doug Purdy talk about Connected Systems."
+title: 'Tech-Ed 2004: Don Box and Doug Purdy talk about Connected Systems.'
 date: 2004-05-25 -0800
 comments: true
 disqus_identifier: 484
 categories: []
+redirect_from: "/archive/2004/05/24/tech-ed-2004-don-box-and-doug-purdy-talk-about-connected-systems.aspx/"
 ---
+
 It's probably too early to tell, but [Don
 Box](http://www.gotdotnet.com/team/dbox) and [Doug
 Purdy](http://www.douglasp.com/default.aspx) gave what I bet will be the

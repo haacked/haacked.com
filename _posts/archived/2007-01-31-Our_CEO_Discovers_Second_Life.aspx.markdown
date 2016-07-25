@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Our CEO Discovers Second Life"
+title: Our CEO Discovers Second Life
 date: 2007-01-31 -0800
 comments: true
 disqus_identifier: 18204
 categories: []
+redirect_from: "/archive/2007/01/30/Our_CEO_Discovers_Second_Life.aspx/"
 ---
+
 [![IBM Second Life Offices - From
 http://www.sutor.com/newsite/blog-open/?p=1382](http://haacked.com/images/haacked_com/WindowsLiveWriter/OurCEODiscoversSecondLife_149F9/sl-oss-offices_thumb%5B1%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/OurCEODiscoversSecondLife_149F9/sl-oss-offices%5B5%5D.jpg)[Micah
 Dylan](http://haacked.com/images/haacked_com/WindowsLiveWriter/OurCEODiscoversSecondLife_149F9/sl-oss-offices%5B2%5D.jpg "Micah Dylan’s Blog"),

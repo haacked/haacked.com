@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Two Words That Always Put a Smile On My Face..."
+title: Two Words That Always Put a Smile On My Face...
 date: 2005-10-18 -0800
 comments: true
 disqus_identifier: 10868
 categories: []
+redirect_from: "/archive/2005/10/17/two-words-that-always-put-a-smile-on-my-face.aspx/"
 ---
+
 > **Open Bar**
 
 Last night the missus and I attended the launch party for [American Idol

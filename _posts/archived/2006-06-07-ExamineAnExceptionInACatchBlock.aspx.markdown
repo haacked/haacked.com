@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Examine an Exception in a Catch() Block"
+title: Examine an Exception in a Catch() Block
 date: 2006-06-07 -0800
 comments: true
 disqus_identifier: 13179
 categories: []
+redirect_from: "/archive/2006/06/06/ExamineAnExceptionInACatchBlock.aspx/"
 ---
+
 Found a useful nugget in Richter’s recent [*CLR via
 C\#*](http://www.microsoft.com/MSPress/books/6522.asp "CLR via C# Second Edition")
 book I want to share with you. But first some background.

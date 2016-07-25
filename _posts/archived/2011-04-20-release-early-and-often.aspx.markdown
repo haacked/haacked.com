@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Release Early, Release Often"
+title: Release Early, Release Often
 date: 2011-04-20 -0800
 comments: true
 disqus_identifier: 18779
-categories: [code,open source]
+categories:
+- code
+- open source
+redirect_from: "/archive/2011/04/19/release-early-and-often.aspx/"
 ---
+
 Eric S. Raymond in the famous essay, [The Cathedral and the
 Bazaar](http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar "The Cathedral and the Bazaar"),
 states,

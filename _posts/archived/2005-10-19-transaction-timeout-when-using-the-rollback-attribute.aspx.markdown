@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Transaction Timeout When Using the RollBack Attribute"
+title: Transaction Timeout When Using the RollBack Attribute
 date: 2005-10-19 -0800
 comments: true
 disqus_identifier: 10879
 categories: []
+redirect_from: "/archive/2005/10/18/transaction-timeout-when-using-the-rollback-attribute.aspx/"
 ---
+
 I noticed a recent check-in has added a `TimeOut` property to the
 `RollBack` attribute in MbUnit. Woohoo!
 

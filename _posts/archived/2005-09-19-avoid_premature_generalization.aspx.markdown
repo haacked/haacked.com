@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Avoid Premature Generalization"
+title: Avoid Premature Generalization
 date: 2005-09-19 -0800
 comments: true
 disqus_identifier: 10231
 categories: []
+redirect_from: "/archive/2005/09/18/avoid_premature_generalization.aspx/"
 ---
+
 You’ve no doubt heard me rant against premature optimization in the
 past, but [Eric Gunnerson](http://blogs.msdn.com/ericgu/) points out
 another “Premature” action to be avoided, “[Premature

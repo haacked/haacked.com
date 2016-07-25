@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Change The Display Of A Type In The Debugger"
+title: Change The Display Of A Type In The Debugger
 date: 2006-10-04 -0800
 comments: true
 disqus_identifier: 17634
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2006/10/03/change_the_display_of_a_type_in_the_debugger.aspx/"
 ---
+
 [Keyvan Nayyeri](http://keyvan.io/ "Keyvan Nayyeri's Blog") has [a great
 tip](http://keyvan.io/simpler-debugger-with-debuggertypeproxy "Simpler Debugger With DebuggerTypeProxy")
 for how to control the display of a type in the various debugger windows

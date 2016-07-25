@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Building a Continuous Integration Process In An Hour On DNRTV"
+title: Building a Continuous Integration Process In An Hour On DNRTV
 date: 2007-04-29 -0800
 comments: true
 disqus_identifier: 18297
 categories: []
+redirect_from: "/archive/2007/04/28/building-a-continuous-integration-process-in-an-hour-on-dnrtv.aspx/"
 ---
+
 If you’ve read my blog at all, you know I’m a big proponent of
 [Continuous
 Integration](http://www.martinfowler.com/articles/continuousIntegration.html "Continuous Integration")

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Checking For Empty Enumerations"
+title: Checking For Empty Enumerations
 date: 2010-06-10 -0800
 comments: true
 disqus_identifier: 18708
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2010/06/09/checking-for-empty-enumerations.aspx/"
 ---
+
 While spelunking in some code recently I saw a method that looked
 something like this:
 

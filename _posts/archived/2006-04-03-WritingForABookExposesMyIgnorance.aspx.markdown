@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Writing For A Book Exposes My Ignorance"
+title: Writing For A Book Exposes My Ignorance
 date: 2006-04-03 -0800
 comments: true
 disqus_identifier: 12253
 categories: []
+redirect_from: "/archive/2006/04/02/WritingForABookExposesMyIgnorance.aspx/"
 ---
+
 I was recently approached by some people I know purely through blogging
 and IM conversations to write on a topic for a book they are putting
 together. Of course I was honored and appreciative that they thought of

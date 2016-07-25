@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Blogging: 3 questions"
+title: 'Blogging: 3 questions'
 date: 2005-05-17 -0800
 comments: true
 disqus_identifier: 3287
 categories: []
+redirect_from: "/archive/2005/05/16/Blogging-Three-Questions.aspx/"
 ---
+
 I swear I never do [these stupid
 quizzes](http://www.intertwingly.net/blog/2005/05/18/Blogging-3-questions)
 or memes or whatever you call it, but this is only three questions. If

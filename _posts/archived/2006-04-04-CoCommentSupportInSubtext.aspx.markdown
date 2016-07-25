@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "CoComment Support in Subtext"
+title: CoComment Support in Subtext
 date: 2006-04-04 -0800
 comments: true
 disqus_identifier: 12261
-categories: [subtext]
+categories:
+- subtext
+redirect_from: "/archive/2006/04/03/CoCommentSupportInSubtext.aspx/"
 ---
+
 ![CoComment Logo](http://haacked.com/images/cocommentlogo.gif) Since I
 was [called
 out](http://jaysonknight.com/blog/archive/2006/04/04/8001.aspx "CoComment Enable Your .TEXT Blog"),

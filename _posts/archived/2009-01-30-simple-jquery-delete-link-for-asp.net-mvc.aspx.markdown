@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Simple jQuery Delete Link For ASP.NET MVC"
+title: Simple jQuery Delete Link For ASP.NET MVC
 date: 2009-01-30 -0800
 comments: true
 disqus_identifier: 18582
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2009/01/29/simple-jquery-delete-link-for-asp.net-mvc.aspx/"
 ---
+
 **UPDATE**: I have [a followup to this
 post](http://haacked.com/archive/2009/01/30/delete-link-with-downlevel-support.aspx "Delete Link with Downlevel Support")
 that works for down-level browsers.

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Making Microformats More Visible - Announcing The XFN Highlighter Script"
+title: Making Microformats More Visible - Announcing The XFN Highlighter Script
 date: 2006-04-05 -0800
 comments: true
 disqus_identifier: 12276
 categories: []
+redirect_from: "/archive/2006/04/04/MakingMicroformatsMoreVisibleAnnouncingTheXFNHighlighterScript.aspx/"
 ---
+
 UPDATE: The script now uses regular expressions. This fixes the problem
 where it translated *met* to *me*.
 

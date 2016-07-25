@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A Day Without Immigrants"
+title: A Day Without Immigrants
 date: 2006-05-01 -0800
 comments: true
 disqus_identifier: 12614
 categories: []
+redirect_from: "/archive/2006/04/30/ADayWithoutImmigrants.aspx/"
 ---
+
 Downtown Los Angeles experienced a huge march today to protest bill [HR
 4437](http://en.wikipedia.org/wiki/HR_4437 "Bill HR 4437") and support
 immigrant rights and immigration reforms. I had been waffling about

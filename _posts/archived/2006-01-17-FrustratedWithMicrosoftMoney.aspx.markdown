@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Frustrated With Microsoft Money"
+title: Frustrated With Microsoft Money
 date: 2006-01-17 -0800
 comments: true
 disqus_identifier: 11533
 categories: []
+redirect_from: "/archive/2006/01/16/FrustratedWithMicrosoftMoney.aspx/"
 ---
+
 I really appreciate how Microsoft has really opened up many of its
 internal developer groups. I only wish this also applied to more of
 their consumer products.

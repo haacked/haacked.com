@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Deals Well With Ambiguity"
+title: Deals Well With Ambiguity
 date: 2010-05-26 -0800
 comments: true
 disqus_identifier: 18703
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2010/05/25/deals-well-with-ambiguity.aspx/"
 ---
+
 A while ago I was talking with my manager at the time about traits that
 we value in a Program Manager. He related an anecdote about an interview
 he gave where it became clear that the candidate did not deal well with

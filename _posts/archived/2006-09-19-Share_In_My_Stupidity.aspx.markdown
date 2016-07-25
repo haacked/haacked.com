@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Share In My Stupidity"
+title: Share In My Stupidity
 date: 2006-09-19 -0800
 comments: true
 disqus_identifier: 16848
 categories: []
+redirect_from: "/archive/2006/09/18/Share_In_My_Stupidity.aspx/"
 ---
+
 [![Dumb and
 Dumber](http://haacked.com/images/haacked_com/WindowsLiveWriter/ShareInMyStupidity_9F1F/dumb-and-dumber-001-1_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/ShareInMyStupidity_9F1F/dumb-and-dumber-001-1%5B2%5D.jpg)
 In general I like to regale my readers with stories of my brave

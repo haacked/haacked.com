@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "ASP.NET MVC 1.0 Release Candidate 2"
+title: ASP.NET MVC 1.0 Release Candidate 2
 date: 2009-03-02 -0800
 comments: true
 disqus_identifier: 18593
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2009/03/01/aspnetmvc-changes-for-rc2.aspx/"
 ---
+
 UPDATE: This post is outdated. ASP.NET MVC 1.0 [has been released
 already](http://haacked.com/archive/2009/03/18/aspnet-mvc-rtw.aspx "ASP.NET MVC 1.0 Release")!
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Year of the Golden Pig"
+title: Year of the Golden Pig
 date: 2007-01-03 -0800
 comments: true
 disqus_identifier: 18184
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2007/01/02/year_of_the_golden_pig.aspx/"
 ---
+
 Not too long ago I announced that my wife and I are [expecting a
 baby](http://haacked.com/archive/2006/11/05/World_Domination_Phase_1_Commenced.aspx "World Domination Plans")
 this year as part of our world domination plans. Adding fuel to our

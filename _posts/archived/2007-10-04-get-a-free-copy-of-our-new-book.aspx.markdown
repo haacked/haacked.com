@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Get A Free Copy Of Our New Book"
+title: Get A Free Copy Of Our New Book
 date: 2007-10-04 -0800
 comments: true
 disqus_identifier: 18402
 categories: []
+redirect_from: "/archive/2007/10/03/get-a-free-copy-of-our-new-book.aspx/"
 ---
+
 ![ASP.NET 2.0
 Anthology](http://haacked.com/images/haacked_com/WindowsLiveWriter/BuyOurBookAndBecomeAnASP.NETBadAss_12E22/41XDcuGaQrL._AA240_.jpg)I
 just received a few advanced copies of our new book and am giving away

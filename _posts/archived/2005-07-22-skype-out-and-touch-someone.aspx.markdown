@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Skype Out and Touch Someone"
+title: Skype Out and Touch Someone
 date: 2005-07-22 -0800
 comments: true
 disqus_identifier: 8961
 categories: []
+redirect_from: "/archive/2005/07/21/skype-out-and-touch-someone.aspx/"
 ---
+
 ![Skype](http://haacked.com/images/skype.png) My wife usually uses a
 cheap calling card to call her mother in Japan. Unfortunately, for the
 last month, every time she would try to call, there would be problems.

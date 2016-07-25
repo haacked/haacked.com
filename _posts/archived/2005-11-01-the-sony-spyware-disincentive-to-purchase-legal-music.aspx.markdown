@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Sony Spyware Disincentive to Purchase Legal Music"
+title: The Sony Spyware Disincentive to Purchase Legal Music
 date: 2005-11-01 -0800
 comments: true
 disqus_identifier: 11068
 categories: []
+redirect_from: "/archive/2005/10/31/the-sony-spyware-disincentive-to-purchase-legal-music.aspx/"
 ---
+
 It seems Sony has [overstepped the
 line](http://www.sysinternals.com/blog/2005/10/sony-rootkits-and-digital-rights.html)
 with some DRM it used to protect its music CDs.

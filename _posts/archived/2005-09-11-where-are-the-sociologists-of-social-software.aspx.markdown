@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Where are the Sociologists of Social Software"
+title: Where are the Sociologists of Social Software
 date: 2005-09-11 -0800
 comments: true
 disqus_identifier: 10045
 categories: []
+redirect_from: "/archive/2005/09/10/where-are-the-sociologists-of-social-software.aspx/"
 ---
+
 Perhaps I have a skewed view of reality, but I get the impression that
 software geeks are leading the charge into building the next generation
 of social software. Does it strike anyone else as odd that nerds are the

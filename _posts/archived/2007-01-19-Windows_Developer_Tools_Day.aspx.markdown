@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Windows Developer Tools Day"
+title: Windows Developer Tools Day
 date: 2007-01-19 -0800
 comments: true
 disqus_identifier: 18195
 categories: []
+redirect_from: "/archive/2007/01/18/Windows_Developer_Tools_Day.aspx/"
 ---
+
 [![Windows Developer Power Tools Cover From
 Amazon.com](http://haacked.com/images/haacked_com/WindowsLiveWriter/WindowsDeveloperToolsDay_EF1E/WindowsDeveloperPowerTools_thumb5.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/WindowsDeveloperToolsDay_EF1E/WindowsDeveloperPowerTools7.jpg)
 In order to promote the book [Windows Developer Power Tools:

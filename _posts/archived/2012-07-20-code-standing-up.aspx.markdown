@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Sitting is Making You Fat and Killing You"
+title: Sitting is Making You Fat and Killing You
 date: 2012-07-20 -0800
 comments: true
 disqus_identifier: 18862
-categories: [code,personal,tech]
+categories:
+- code
+- personal
+- tech
+redirect_from: "/archive/2012/07/19/code-standing-up.aspx/"
 ---
+
 As a kid, I was an impatient little brat. On any occasion that required
 waiting, I became Squirmy Wormy until I pushed my dad to make the demand
 parents so often make of fidgety kids, “*Sit still!*”

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Is Backward Compatibility Holding Microsoft Back"
+title: Is Backward Compatibility Holding Microsoft Back
 date: 2006-10-01 -0800
 comments: true
 disqus_identifier: 17495
 categories: []
+redirect_from: "/archive/2006/09/30/Is_Backward_Compatibility_Holding_Microsoft_Back.aspx/"
 ---
+
 [![Atlas With The Weight Of The
 Codebase](http://haacked.com/images/haacked_com/WindowsLiveWriter/IsBackwardCompatibilityHoldingMicrosoftB_ECEC/602762_a_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/IsBackwardCompatibilityHoldingMicrosoftB_ECEC/602762_a2.jpg)
 I read [this article

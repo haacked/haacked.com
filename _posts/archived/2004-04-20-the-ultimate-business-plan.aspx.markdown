@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Ultimate Business Plan."
+title: The Ultimate Business Plan.
 date: 2004-04-20 -0800
 comments: true
 disqus_identifier: 338
 categories: []
+redirect_from: "/archive/2004/04/19/the-ultimate-business-plan.aspx/"
 ---
+
 A friend of mine told me about a deal his company is working on in which
 an dot com internet company which was valued at around a couple million
 dollars a few years ago has now reached an agreement to be sold for a

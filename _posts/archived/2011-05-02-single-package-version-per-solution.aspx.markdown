@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Single Package Version per Solution"
+title: Single Package Version per Solution
 date: 2011-05-02 -0800
 comments: true
 disqus_identifier: 18783
-categories: [nuget,code,open source]
+categories:
+- nuget
+- code
+- open source
+redirect_from: "/archive/2011/05/01/single-package-version-per-solution.aspx/"
 ---
+
 Not too long ago, I posted [a survey on my
 blog](http://haacked.com/archive/2011/04/06/nuget-needs-your-input.aspx "Survey on my blog")
 asking a set of questions meant to gather information that would help

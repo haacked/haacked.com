@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The meaning of &quot;Impedance Mismatch&quot;."
+title: The meaning of &quot;Impedance Mismatch&quot;.
 date: 2004-06-15 -0800
 comments: true
 disqus_identifier: 629
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2004/06/14/impedance-mismatch.aspx/"
 ---
+
 You've probably heard the term *Impedance Mismatch* thrown around when
 discussing object relational mapping. I'm sure it comes up every morning
 at the water cooler. Maybe you've even thrown it around yoursef a few

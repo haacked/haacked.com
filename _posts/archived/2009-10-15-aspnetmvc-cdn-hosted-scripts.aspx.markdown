@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "ASP.NET MVC 1.0 Scripts Available on Microsoft CDN"
+title: ASP.NET MVC 1.0 Scripts Available on Microsoft CDN
 date: 2009-10-15 -0800
 comments: true
 disqus_identifier: 18649
 categories: []
+redirect_from: "/archive/2009/10/14/aspnetmvc-cdn-hosted-scripts.aspx/"
 ---
+
 A little while ago, Scott Guthrie announced [the launch of the Microsoft
 Ajax
 CDN](http://weblogs.asp.net/scottgu/archive/2009/09/15/announcing-the-microsoft-ajax-cdn.aspx "Microsoft Ajax CDN").

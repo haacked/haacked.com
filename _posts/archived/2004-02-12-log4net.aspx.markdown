@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Log4Net"
+title: Log4Net
 date: 2004-02-12 -0800
 comments: true
 disqus_identifier: 192
 categories: []
+redirect_from: "/archive/2004/02/11/log4net.aspx/"
 ---
+
 I just finished reading the [Log4Net
 Introduction](http://log4net.sourceforge.net/release/1.2.0.30507/doc/manual/introduction.html "Log4Net Introduction")
 and

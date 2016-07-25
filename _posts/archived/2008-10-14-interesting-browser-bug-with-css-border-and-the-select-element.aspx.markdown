@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Interesting Browser Bug with CSS border and the Select element"
+title: Interesting Browser Bug with CSS border and the Select element
 date: 2008-10-14 -0800
 comments: true
 disqus_identifier: 18537
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2008/10/13/interesting-browser-bug-with-css-border-and-the-select-element.aspx/"
 ---
+
 UPDATE: Pretty much disregard this entire post, except as a reminder
 that it’s easy to make a mistake with DOCTYPEs and markup. As many
 people have told me, I had an error I didn’t notice in the original

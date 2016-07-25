@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Long Computer Use May Be Linked to Eye Disease (Reuters)"
+title: Long Computer Use May Be Linked to Eye Disease (Reuters)
 date: 2004-11-15 -0800
 comments: true
 disqus_identifier: 1622
 categories: []
+redirect_from: "/archive/2004/11/14/long-computer-use-may-be-linked-to-eye-disease-reuters.aspx/"
 ---
+
 Sobering news for the "short-sighted" computer geeks among us.
 
 > Reuters - Hours in front of a computer screen may increase the risk of

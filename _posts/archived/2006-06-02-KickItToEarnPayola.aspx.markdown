@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Kick It To Earn Payola"
+title: Kick It To Earn Payola
 date: 2006-06-02 -0800
 comments: true
 disqus_identifier: 13102
-categories: [blogging]
+categories:
+- blogging
+redirect_from: "/archive/2006/06/01/KickItToEarnPayola.aspx/"
 ---
+
 I recently learned about
 [DotNetKicks](http://www.dotnetkicks.com/ "DotNetKicks") due to a
 referral in my referrer logs. It is essentially a

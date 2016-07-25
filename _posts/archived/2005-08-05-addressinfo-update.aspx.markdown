@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "AddressInfo Update"
+title: AddressInfo Update
 date: 2005-08-05 -0800
 comments: true
 disqus_identifier: 9228
 categories: []
+redirect_from: "/archive/2005/08/04/addressinfo-update.aspx/"
 ---
+
 A long time ago, in a galaxy far away, I wrote a really simple little
 class for converting [State Codes to State Names and Vice
 Versa](http://haacked.com/archive/2005/04/08/2599.aspx).

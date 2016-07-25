@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Absolutely Nothing. Say It Again! (Configuration Section Handlers)"
+title: Absolutely Nothing. Say It Again! (Configuration Section Handlers)
 date: 2004-06-27 -0800
 comments: true
 disqus_identifier: 699
 categories: []
+redirect_from: "/archive/2004/06/26/absolutely-nothing-say-it-again-configuration-section-handlers.aspx/"
 ---
+
 [Ian
 Griffiths](http://www.interact-sw.co.uk/iangblog/2004/06/28/configsections)
 points out why he doesn't like configuration section handlers much, and

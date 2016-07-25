@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Structuring Unit Tests"
+title: Structuring Unit Tests
 date: 2012-01-02 -0800
 comments: true
 disqus_identifier: 18838
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2012/01/01/structuring-unit-tests.aspx/"
 ---
+
 In the past, I’ve [tried various schemes to structure my unit
 tests](http://haacked.com/archive/2006/10/10/Structuring_Unit_Test_Code.aspx "Structuring Unit Test Code")
 but never fell into a consistent approach. Pretty much the only rule I

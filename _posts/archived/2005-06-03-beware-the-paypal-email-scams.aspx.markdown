@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Beware the PayPal Email Scams!"
+title: Beware the PayPal Email Scams!
 date: 2005-06-03 -0800
 comments: true
 disqus_identifier: 4004
 categories: []
+redirect_from: "/archive/2005/06/02/beware-the-paypal-email-scams.aspx/"
 ---
+
 Looking at my SPAM filter, I notice that nearly a quarter of my emails
 appear to be from PayPal. Of course, these are all spoofed to appear
 that way.

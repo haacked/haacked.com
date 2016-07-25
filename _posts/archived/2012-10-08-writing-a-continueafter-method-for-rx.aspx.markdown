@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Writing a ContinueAfter method for Rx"
+title: Writing a ContinueAfter method for Rx
 date: 2012-10-08 -0800
 comments: true
 disqus_identifier: 18871
-categories: [code,rx]
+categories:
+- code
+- rx
+redirect_from: "/archive/2012/10/07/writing-a-continueafter-method-for-rx.aspx/"
 ---
+
 With Reactive Extensions you sometimes need one observable sequence to
 run after another observable sequence completes. Perhaps the first one
 has side effects the second one depends on. Egads! I know, side effects

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "What Does Protected Internal Mean?"
+title: What Does Protected Internal Mean?
 date: 2007-10-29 -0800
 comments: true
 disqus_identifier: 18413
 categories: []
+redirect_from: "/archive/2007/10/28/what-does-protected-internal-mean.aspx/"
 ---
+
 Pop quiz for you C\# developers out there. Will the following code
 compile?
 

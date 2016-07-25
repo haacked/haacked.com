@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "ALT.NET Seattle Day Three"
+title: ALT.NET Seattle Day Three
 date: 2009-03-01 -0800
 comments: true
 disqus_identifier: 18591
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2009/02/28/altnetseattle-day-three.aspx/"
 ---
+
 The third and last day of ALT.NET Seattle was a short one for me. My
 poor extremely patient wife was not feeling well today so I had to leave
 right at lunch time. But before I left, I did manage to attend a great

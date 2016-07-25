@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Overlooked Problem With Web Based Applications"
+title: Overlooked Problem With Web Based Applications
 date: 2005-11-01 -0800
 comments: true
 disqus_identifier: 11075
 categories: []
+redirect_from: "/archive/2005/10/31/overlooked-problem-with-web-based-applications.aspx/"
 ---
+
 While it may be exciting to see Microsoft jumping aboard the web-based
 application bandwagon, something that I am experiencing right now
 reminds me why I think there is still a strong place for rich “smart”

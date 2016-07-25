@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The On10 Pregnant Photo"
+title: The On10 Pregnant Photo
 date: 2006-03-23 -0800
 comments: true
 disqus_identifier: 12142
 categories: []
+redirect_from: "/archive/2006/03/22/TheOn10PregnantPhoto.aspx/"
 ---
+
 Ok, so I accidentally ran into that [pregnant woman
 photo](http://haacked.com/archive/2006/03/06/BeyondChannel9.aspx "Beyond Channel 9")
 that the on10 team used to hint at what was coming next. It is in the

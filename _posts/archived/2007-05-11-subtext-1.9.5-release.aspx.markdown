@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Subtext 1.9.5 Release"
+title: Subtext 1.9.5 Release
 date: 2007-05-11 -0800
 comments: true
 disqus_identifier: 18307
 categories: []
+redirect_from: "/archive/2007/05/10/subtext-1.9.5-release.aspx/"
 ---
+
 ![Subtext Submarine
 Logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext1.9.5Release_EEA4/subtextsubmarinelogo6.png)
 It is with great pleasure and relief that I announce the release of

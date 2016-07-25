@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Federal Funding Cuts to Public Broadcasting
-"
+title: 'Federal Funding Cuts to Public Broadcasting '
 date: 2005-06-27 -0800
 comments: true
 disqus_identifier: 7318
 categories: []
+redirect_from: "/archive/2005/06/26/federal-funding-cuts-to-public-broadcasting.aspx/"
 ---
+
 If you’re a fan of NPR and KCRW, make sure your voice is heard. The
 House will soon vote on budget cuts for public broadcasting and the
 issue is being painted as a liberal vs conservative battle.

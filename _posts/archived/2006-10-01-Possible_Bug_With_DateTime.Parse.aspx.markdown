@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Possible Bug With DateTime.Parse?"
+title: Possible Bug With DateTime.Parse?
 date: 2006-10-01 -0800
 comments: true
 disqus_identifier: 17489
 categories: []
+redirect_from: "/archive/2006/09/30/Possible_Bug_With_DateTime.Parse.aspx/"
 ---
+
 UPDATE: I think a good measure of a blog is the intelligence and quality
 of the comments. This comments in response to this post makes my blog
 look good (not [all

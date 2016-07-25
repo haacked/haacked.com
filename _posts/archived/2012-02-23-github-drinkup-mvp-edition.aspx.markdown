@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "GitHub Drinkup MVP Edition"
+title: GitHub Drinkup MVP Edition
 date: 2012-02-23 -0800
 comments: true
 disqus_identifier: 18849
-categories: [personal,community,github]
+categories:
+- personal
+- community
+- github
+redirect_from: "/archive/2012/02/22/github-drinkup-mvp-edition.aspx/"
 ---
+
 Next week Microsoft hosts its annual [MVP
 Summit](http://www.2012mvpsummit.com/ "MVP Summit"). So what better time
 for me to host [my first GitHub Drinkup – MVP Edition at the Tap House

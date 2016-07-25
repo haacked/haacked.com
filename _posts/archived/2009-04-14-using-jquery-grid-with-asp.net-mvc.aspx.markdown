@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Using jQuery Grid With ASP.NET MVC"
+title: Using jQuery Grid With ASP.NET MVC
 date: 2009-04-14 -0800
 comments: true
 disqus_identifier: 18609
-categories: [code,asp.net mvc]
+categories:
+- code
+- asp.net mvc
+redirect_from: "/archive/2009/04/13/using-jquery-grid-with-asp.net-mvc.aspx/"
 ---
+
 Tim Davis [posted an updated version of this
 solution](http://www.timdavis.com.au/code/jquery-grid-with-asp-net-mvc/)
 on his blog. His includes the following:

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Doubling Down At Mix 07"
+title: Doubling Down At Mix 07
 date: 2007-03-27 -0800
 comments: true
 disqus_identifier: 18265
 categories: []
+redirect_from: "/archive/2007/03/26/doubling-down-at-mix-07.aspx/"
 ---
+
 You’ve been
 H![AAA](http://haacked.com/images/haacked_com/WindowsLiveWriter/DoublingDownAtMix07_10E98/fun_cards%5B5%5D.jpg)
 CKED will be well represented at [Mix

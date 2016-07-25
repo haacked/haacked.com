@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ishkur's Guide To Electronic Music v2.5"
+title: Ishkur's Guide To Electronic Music v2.5
 date: 2004-09-17 -0800
 comments: true
 disqus_identifier: 1228
 categories: []
+redirect_from: "/archive/2004/09/16/ishkurs-guide-to-electronic-music-v25.aspx/"
 ---
+
 Someday when I have a kid, the young squirt will sit upon my knee and
 ask:
 

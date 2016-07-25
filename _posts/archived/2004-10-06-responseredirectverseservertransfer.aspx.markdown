@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Response.Redirect vs Server.Transfer"
+title: Response.Redirect vs Server.Transfer
 date: 2004-10-06 -0800
 comments: true
 disqus_identifier: 1308
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2004/10/05/responseredirectverseservertransfer.aspx/"
 ---
+
 When conducting phone interviews, I like to ask a few technical
 questions just to make sure that a candidate isn’t trying to blow smoke
 up my... well we don’t need to be overly illustrative do we?

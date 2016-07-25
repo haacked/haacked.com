@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Making Heads or Tails of Microformats"
+title: Making Heads or Tails of Microformats
 date: 2005-07-28 -0800
 comments: true
 disqus_identifier: 9085
 categories: []
+redirect_from: "/archive/2005/07/27/making-heads-or-tails-of-microformats.aspx/"
 ---
+
 I had an email discussion with [Dimitri](http://glazkov.com/blog/) about
 [Microformats](http://microformats.org/about/) a little while back,
 trying to understand the purpose of Microformats and what they intend to

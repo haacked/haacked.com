@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Joel On Ruby Performance"
+title: Joel On Ruby Performance
 date: 2006-09-12 -0800
 comments: true
 disqus_identifier: 16492
 categories: []
+redirect_from: "/archive/2006/09/11/Joel_On_Ruby_Performance.aspx/"
 ---
+
 ![Ruby](http://haacked.com/images/haacked_com/WindowsLiveWriter/JoelOnRubyPerformance_B8DA/ruby6.jpg)
 Joel Spolsky follows up on his [earlier
 remarks](http://www.joelonsoftware.com/items/2006/09/01.html) about

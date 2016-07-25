@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Knee-Jerk Rant On Education in America"
+title: Knee-Jerk Rant On Education in America
 date: 2005-05-10 -0800
 comments: true
 disqus_identifier: 3149
 categories: []
+redirect_from: "/archive/2005/05/09/knee-jerk-rant-on-education-in-america.aspx/"
 ---
+
 Alright, it’s time for me to pull this ratty old thing out of the
 closet, dust it off a bit, and step onto it. Yes, my pedestal.
 

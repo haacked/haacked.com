@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "ASP.NET MVC 3 Preview 1 Released"
+title: ASP.NET MVC 3 Preview 1 Released
 date: 2010-07-27 -0800
 comments: true
 disqus_identifier: 18713
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from: "/archive/2010/07/26/aspnetmvc3-preview1-released.aspx/"
 ---
+
 UPDATE: This post is a out of date. We recently released the [Release
 Candidate for ASP.NET MVC
 3](http://haacked.com/archive/2010/11/09/asp-net-mvc-3-release-candidate.aspx "ASP.NET MVC 3 RC Released").

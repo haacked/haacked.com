@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Coder's Bill of Rights"
+title: Coder's Bill of Rights
 date: 2006-08-25 -0800
 comments: true
 disqus_identifier: 16067
 categories: []
+redirect_from: "/archive/2006/08/24/coders_bill_of_rights.aspx/"
 ---
+
 ![Gratuitious nature pic for no good reason other than I love Windows
 Live
 Writer](http://haacked.com/images/CodersBillofRights_131B6/16827040_64687a1bb23.jpg)Just

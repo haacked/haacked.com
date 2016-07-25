@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Razor View Syntax"
+title: Razor View Syntax
 date: 2010-07-03 -0800
 comments: true
 disqus_identifier: 18711
-categories: [asp.net,asp.net mvc,razor]
+categories:
+- asp.net
+- asp.net mvc
+- razor
+redirect_from: "/archive/2010/07/02/razor-view-syntax.aspx/"
 ---
+
 UPDATE: Check out my [Razor View Syntax Quick
 Reference](http://haacked.com/archive/2011/01/06/razor-syntax-quick-reference.aspx "Razor Quick Reference")
 for a nice quick reference to Razor.

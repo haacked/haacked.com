@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trying Out A New Site Design"
+title: Trying Out A New Site Design
 date: 2007-03-06 -0800
 comments: true
 disqus_identifier: 18225
 categories: []
+redirect_from: "/archive/2007/03/05/Trying_Out_A_New_Site_Design.aspx/"
 ---
+
 Thought I should take advantage of my latest bout of insomnia and do a
 slight redesign of my website. My goal was to clean it up a bit so it
 looks less crowded and cluttered.

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Drinking From an RSS Fire Hose"
+title: Drinking From an RSS Fire Hose
 date: 2005-03-23 -0800
 comments: true
 disqus_identifier: 2450
 categories: []
+redirect_from: "/archive/2005/03/22/Drinking_From_An_Rss_Firehose.aspx/"
 ---
+
 ![Firehose](/images/firehose.jpg) So now that you’ve subscribed to your
 4000 feeds, how do you keep on top of the flood of incoming items? Dare
 [talks about

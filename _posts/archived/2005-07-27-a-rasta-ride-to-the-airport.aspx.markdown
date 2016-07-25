@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "A Rasta Ride to the Airport"
+title: A Rasta Ride to the Airport
 date: 2005-07-27 -0800
 comments: true
 disqus_identifier: 9054
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2005/07/26/a-rasta-ride-to-the-airport.aspx/"
 ---
+
 ![Rastafarian Flag](http://haacked.com/images/RastafariFlag.jpg)For
 those of you who give a damn, we made it safely to Japan. The trip
 itself had quite an interesting start in the form of a cab ride to the

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Neat VS10 Feature: Pinning A Debugger Watch"
+title: 'Neat VS10 Feature: Pinning A Debugger Watch'
 date: 2009-11-06 -0800
 comments: true
 disqus_identifier: 18657
 categories: []
+redirect_from: "/archive/2009/11/05/pinning-a-debugger-watch.aspx/"
 ---
+
 I was stepping through some code in a debugger today and noticed a neat
 little feature of Visual Studio 2010 that I hadn’t noticed before.
 

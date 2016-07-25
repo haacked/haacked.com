@@ -5,7 +5,9 @@ date: 2004-09-03 -0800
 comments: true
 disqus_identifier: 1134
 categories: []
+redirect_from: "/archive/2004/09/02/net-sp1-can-break-httpwebrequest-and-certain-rss-feeds.aspx/"
 ---
+
 If you installed SP1 for the .NET framework, you may notice that certain
 feeds are broken and return an HTTP Protocol Error.
 [Dare](http://www.25hoursaday.com/weblog/) looked into this and [posted

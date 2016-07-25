@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Meeting the Lender Today"
+title: Meeting the Lender Today
 date: 2004-03-14 -0800
 comments: true
 disqus_identifier: 256
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2004/03/13/meeting-the-lender-today.aspx/"
 ---
+
 We’re meeting the lender today to make the final preparations for the
 big loan. I thought college was expensive, but this is on a whole
 'nother level. For you out there who don’t live in California, I’m

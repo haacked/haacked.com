@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Writing For Magazines. Suggestions?"
+title: Writing For Magazines. Suggestions?
 date: 2005-04-04 -0800
 comments: true
 disqus_identifier: 2566
 categories: []
+redirect_from: "/archive/2005/04/03/writing-for-magazines-suggestions.aspx/"
 ---
+
 For some reason, I've always wanted to write a book. It started off as a
 desire to write the next *Lord of the Rings* classic, but has morphed
 into writing a reasonably useful technical book.

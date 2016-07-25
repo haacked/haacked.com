@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "DotNetNuke CSharp Web Application Project"
+title: DotNetNuke CSharp Web Application Project
 date: 2006-05-18 -0800
 comments: true
 disqus_identifier: 12848
 categories: []
+redirect_from: "/archive/2006/05/17/DotNetNukeCSharpWebApplicationProject.aspx/"
 ---
+
 Better grab this before they take away my DNN license. But first, let me
 give you a bit of background.
 

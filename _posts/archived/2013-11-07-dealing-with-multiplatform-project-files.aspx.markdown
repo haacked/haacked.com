@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Dealing with Multiplatform Project Files"
+title: Dealing with Multiplatform Project Files
 date: 2013-11-07 -0800
 comments: true
 disqus_identifier: 18905
-categories: [open source,code]
+categories:
+- open source
+- code
+redirect_from: "/archive/2013/11/06/dealing-with-multiplatform-project-files.aspx/"
 ---
+
 [Octokit.net](https://github.com/octokit/octokit.net "Octokit.net on GitHub")
 targets multiple platforms. This involves a large risk to my sanity. You
 can see the general approach here in the [Octokit

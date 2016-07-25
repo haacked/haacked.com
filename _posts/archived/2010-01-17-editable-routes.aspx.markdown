@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Editable Routes"
+title: Editable Routes
 date: 2010-01-17 -0800
 comments: true
 disqus_identifier: 18679
-categories: [asp.net mvc,asp.net,code,nuget]
+categories:
+- asp.net mvc
+- asp.net
+- code
+- nuget
+redirect_from: "/archive/2010/01/16/editable-routes.aspx/"
 ---
+
 UPDATE: 2011/02/13: This code is now included in the
 [RouteMagic](http://haacked.com/archive/2011/01/30/introducing-routemagic.aspx "Introducing RouteMagic")
 NuGet package! To use this code, simply run `Install-Package RouteMagic`

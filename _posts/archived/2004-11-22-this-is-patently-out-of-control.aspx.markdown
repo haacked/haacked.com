@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "This Is Patently Out Of Control!"
+title: This Is Patently Out Of Control!
 date: 2004-11-22 -0800
 comments: true
 disqus_identifier: 1663
 categories: []
+redirect_from: "/archive/2004/11/21/this-is-patently-out-of-control.aspx/"
 ---
+
 From the Wintellect blog.
 
 > Today, I discovered that Microsoft was filing a patent for “an

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Burning Man 2004 Starts Today!"
+title: Burning Man 2004 Starts Today!
 date: 2004-08-30 -0800
 comments: true
 disqus_identifier: 986
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2004/08/29/burning-man-2004-starts-today.aspx/"
 ---
+
 So today, loads of clean people will be driving through the small town
 of Gerlach into the temporary city of Black Rock City. Trust me, they
 won't stay clean for long, and will definitely bring home a souvenir of

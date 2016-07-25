@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "PageRank in Decline.  Is it Nofollow's Fault?"
+title: PageRank in Decline.  Is it Nofollow's Fault?
 date: 2005-08-24 -0800
 comments: true
 disqus_identifier: 9646
 categories: []
+redirect_from: "/archive/2005/08/23/pagerank-in-decline-is-it-nofollows-fault.aspx/"
 ---
+
 My PageRank has been in decline lately. I was as high as a five, but
 just checked and am now down to three. Was it something I said? Or is
 this the result of `rel="nofollow"`?

@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Do Not Adjust Your Browser"
+title: Do Not Adjust Your Browser
 date: 2010-01-12 -0800
 comments: true
 disqus_identifier: 18676
-categories: [subtext,code]
+categories:
+- subtext
+- code
+redirect_from: "/archive/2010/01/11/do-not-adjust-your-browser.aspx/"
 ---
+
 This blog is experiencing technical difficulties. Do not adjust your
 browser.
 

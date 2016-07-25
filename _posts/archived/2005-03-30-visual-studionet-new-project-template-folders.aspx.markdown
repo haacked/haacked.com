@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Visual Studio.NET New Project Template Folders"
+title: Visual Studio.NET New Project Template Folders
 date: 2005-03-30 -0800
 comments: true
 disqus_identifier: 2496
 categories: []
+redirect_from: "/archive/2005/03/29/visual-studionet-new-project-template-folders.aspx/"
 ---
+
 I'm sure you're constantly asking yourself this, because I certainly
 wake up every morning in a cold sweat wondering. When you add a new
 project in Visual Studio.NET 2003 (friends call her VS.NET), you get the

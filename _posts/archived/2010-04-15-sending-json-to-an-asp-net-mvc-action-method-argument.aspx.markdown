@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Sending JSON to an ASP.NET MVC Action Method Argument"
+title: Sending JSON to an ASP.NET MVC Action Method Argument
 date: 2010-04-15 -0800
 comments: true
 disqus_identifier: 18695
-categories: [asp.net mvc,asp.net,code]
+categories:
+- asp.net mvc
+- asp.net
+- code
+redirect_from: "/archive/2010/04/14/sending-json-to-an-asp-net-mvc-action-method-argument.aspx/"
 ---
+
 UPDATE: The `JsonValueProviderFactory` is now registered by default in
 ASP.NET MVC 3. So if you’re using ASP.NET MVC 3, you can ignore that
 part of this blog post.

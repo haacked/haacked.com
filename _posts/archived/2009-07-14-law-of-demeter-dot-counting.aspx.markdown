@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Law of Demeter Is Not A Dot Counting Exercise"
+title: The Law of Demeter Is Not A Dot Counting Exercise
 date: 2009-07-14 -0800
 comments: true
 disqus_identifier: 18628
 categories: []
+redirect_from: "/archive/2009/07/13/law-of-demeter-dot-counting.aspx/"
 ---
+
 Recently I read a discussion on an internal mailing list on whether or
 not it would be worthwhile to add a null dereferencing operator to C\#.
 

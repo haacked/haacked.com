@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Make Sure Your Cache Takes Into Localization"
+title: Make Sure Your Cache Takes Into Localization
 date: 2006-02-07 -0800
 comments: true
 disqus_identifier: 11741
 categories: []
+redirect_from: "/archive/2006/02/06/MakeSureYourCacheTakesIntoLocalization.aspx/"
 ---
+
 Recently I added some seemingly innocent code to
 [Subtext](http://subtextproject.com/ "Subtext Project Website") within
 the `Application_BeginRequest` method of Global.asax.cs that I adapted

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Organizing VS.NET projects and Solutions"
+title: Organizing VS.NET projects and Solutions
 date: 2004-11-22 -0800
 comments: true
 disqus_identifier: 1661
 categories: []
+redirect_from: "/archive/2004/11/21/organizing-vsnet-projects-and-solutions.aspx/"
 ---
+
 Colin asks the question "[How do you organize your
 code](http://www.jtleigh.com/people/colin/blog/archives/2004/11/how_do_you_orga_1.html)?"
 and then goes on to describe the system in use at his shop.

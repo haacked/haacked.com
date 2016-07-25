@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Learn About ASP.NET MVC Via NerdDinner"
+title: Learn About ASP.NET MVC Via NerdDinner
 date: 2009-03-10 -0800
 comments: true
 disqus_identifier: 18597
-categories: [code,asp.net mvc]
+categories:
+- code
+- asp.net mvc
+redirect_from: "/archive/2009/03/09/chapter-one-pro-aspnetmvc.aspx/"
 ---
+
 I don’t know about you, but a great way to learn a new technology is to
 start using it. But to even start using it, it helps to be able to look
 at a real-world running application built on that technology. Combine

@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Implementing an Authorization Attribute for WCF Web API"
+title: Implementing an Authorization Attribute for WCF Web API
 date: 2011-10-19 -0800
 comments: true
 disqus_identifier: 18820
-categories: [code,asp.net]
+categories:
+- code
+- asp.net
+redirect_from: "/archive/2011/10/18/implementing-an-authorization-attribute-for-wcf-web-api.aspx/"
 ---
+
 If you’re not familiar with [WCF Web
 API](http://wcf.codeplex.com/wikipage?title=WCF%20HTTP "WCF Web API"),
 it’s a framework with nice HTTP abstractions used to expose simple HTTP

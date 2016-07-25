@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "How Constant Are Your Constants in .NET"
+title: How Constant Are Your Constants in .NET
 date: 2005-01-01 -0800
 comments: true
 disqus_identifier: 1796
 categories: []
+redirect_from: "/archive/2004/12/31/HowConstantAreYourConstants.aspx/"
 ---
+
 ![Code Complete 2](/images/codecomplete2.gif) Back in the day when I was
 a wet behind the ears developer a coworker gave me some sage advice. He
 told me that if I wanted to become a good developer, I need to read the

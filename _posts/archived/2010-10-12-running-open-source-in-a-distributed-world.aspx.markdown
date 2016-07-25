@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Running Open Source In A Distributed World"
+title: Running Open Source In A Distributed World
 date: 2010-10-12 -0800
 comments: true
 disqus_identifier: 18725
-categories: [nuget,code,open source]
+categories:
+- nuget
+- code
+- open source
+redirect_from: "/archive/2010/10/11/running-open-source-in-a-distributed-world.aspx/"
 ---
+
 When it comes to running an open source project, the book [Producing
 Open Source Software - How to Run a Successful Free Software
 Project](http://www.amazon.com/gp/product/0596007590?ie=UTF8&tag=youvebeenhaac-20&link_code=as3&camp=211189&creative=373489&creativeASIN=0596007590)

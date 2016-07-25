@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "How To Talk To Employees"
+title: How To Talk To Employees
 date: 2012-08-03 -0800
 comments: true
 disqus_identifier: 18865
-categories: [company culture]
+categories:
+- company culture
+redirect_from: "/archive/2012/08/02/how-to-talk-to-employees.aspx/"
 ---
+
 Today on Twitter, I noticed this tweet from [Dare
 Obasanjo](http://www.25hoursaday.com/weblog/ "Dare Obasanjo") (aka
 [@carnage4life](https://twitter.com/Carnage4Life "Carnage4Life on Twitter")

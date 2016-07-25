@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Comment Spam Relief In Subtext Coming Soon"
+title: Comment Spam Relief In Subtext Coming Soon
 date: 2006-10-09 -0800
 comments: true
 disqus_identifier: 17913
 categories: []
+redirect_from: "/archive/2006/10/08/Comment_Spam_Relief_In_Subtext_Coming_Soon.aspx/"
 ---
+
 Personal matters (good stuff) and work has been keeping me really busy
 lately, but every free moment I get I plod along, coding a bit here and
 there, getting Subtext 1.9.1 “Shields Up” ready for action.

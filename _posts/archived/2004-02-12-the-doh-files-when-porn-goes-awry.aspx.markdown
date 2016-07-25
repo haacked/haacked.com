@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Doh! Files: When Porn goes awry."
+title: 'The Doh! Files: When Porn goes awry.'
 date: 2004-02-12 -0800
 comments: true
 disqus_identifier: 191
 categories: []
+redirect_from: "/archive/2004/02/11/the-doh-files-when-porn-goes-awry.aspx/"
 ---
+
 Interesting news item I found
 
 ![Man with a look of shock](/images/shock.jpg)

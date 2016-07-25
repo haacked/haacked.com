@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "The Funniest Father&#8217;s Day Ad Yet"
+title: The Funniest Father&#8217;s Day Ad Yet
 date: 2005-06-13 -0800
 comments: true
 disqus_identifier: 4681
-categories: [humor]
+categories:
+- humor
+redirect_from: "/archive/2005/06/12/funny-fathers-day-ad.aspx/"
 ---
+
 ![Father’s day ad](http://haacked.com/images/durex.jpg)
 
 For those of you not from the U.S. or England, Durex is a English brand

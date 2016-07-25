@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Flickr Does Search Well With Clustering"
+title: Flickr Does Search Well With Clustering
 date: 2005-11-15 -0800
 comments: true
 disqus_identifier: 11201
 categories: []
+redirect_from: "/archive/2005/11/14/flickr-does-search-well-with-clustering.aspx/"
 ---
+
 ![Rock](http://haacked.com/images/rock.jpg) Recently, two posts have
 given me an increased appreciation for what [Flickr](http://flickr.com/)
 has accomplished with their clustering feature.

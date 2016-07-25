@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "An Improved Plugin for Using w.bloggar with RSS Bandit"
+title: An Improved Plugin for Using w.bloggar with RSS Bandit
 date: 2004-12-04 -0800
 comments: true
 disqus_identifier: 1697
 categories: []
+redirect_from: "/archive/2004/12/03/an-improved-plugin-for-using-wbloggar-with-rss-bandit.aspx/"
 ---
+
 Recently I received some [kind words from Scott
 Reynolds](http://www.scottcreynolds.com/PermaLink.aspx?guid=a5cfb397-c353-4b50-a68c-5617a1bc7bdb)
 regarding my "[excellent

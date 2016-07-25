@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "LazyCoder Last Minute Geek Dinner This Wednesday"
+title: LazyCoder Last Minute Geek Dinner This Wednesday
 date: 2008-03-23 -0800
 comments: true
 disqus_identifier: 18468
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2008/03/22/lazycoder-last-minute-geek-dinner-this-weekend.aspx/"
 ---
+
 [LazyCoder](http://www.lazycoder.com/weblog/ "LazyCoder") (aka Scott
 Koon) is organizing a little drinky drink this Wednesday around 6:00
 PM-ish at [The Three Lions

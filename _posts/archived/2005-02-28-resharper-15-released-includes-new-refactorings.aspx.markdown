@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "ReSharper 1.5 Released!  Includes New Refactorings"
+title: ReSharper 1.5 Released!  Includes New Refactorings
 date: 2005-02-28 -0800
 comments: true
 disqus_identifier: 2217
 categories: []
+redirect_from: "/archive/2005/02/27/resharper-15-released-includes-new-refactorings.aspx/"
 ---
+
 ![Evolution of Development](/images/evolution.jpg)[Jet
 Brains](http://www.jetbrains.com/) released a [free
 upgrade](http://www.jetbrains.com/resharper/download/whatsnew.html) to

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Google Ads as Blog Decoration"
+title: Google Ads as Blog Decoration
 date: 2005-04-18 -0800
 comments: true
 disqus_identifier: 2739
 categories: []
+redirect_from: "/archive/2005/04/17/google-ads-as-blog-decoration.aspx/"
 ---
+
 Since I [mentioned that the Family
 Guy](http://haacked.com/archive/2005/04/08/2602.aspx) was no longer
 cancelled on my blog, I've noticed that Google Ad Sense has been

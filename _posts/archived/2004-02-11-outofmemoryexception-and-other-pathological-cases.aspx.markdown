@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "OutOfMemoryException and other pathological cases"
+title: OutOfMemoryException and other pathological cases
 date: 2004-02-11 -0800
 comments: true
 disqus_identifier: 189
-categories: [csharp dotnet]
+categories:
+- csharp dotnet
+redirect_from: "/archive/2004/02/10/outofmemoryexception-and-other-pathological-cases.aspx/"
 ---
+
 Ok, I admit it. I’m a unit-tester-aholic. I’m compulsive about it.
 Sometimes going overboard:
 

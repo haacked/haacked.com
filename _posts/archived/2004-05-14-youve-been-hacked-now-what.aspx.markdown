@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "You've been hacked: now what?"
+title: 'You''ve been hacked: now what?'
 date: 2004-05-14 -0800
 comments: true
 disqus_identifier: 447
 categories: []
+redirect_from: "/archive/2004/05/13/youve-been-hacked-now-what.aspx/"
 ---
+
 And I thought he was talking about my site...
 
 > Interesting Technet article: [Help, I got hacked, now what do I

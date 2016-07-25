@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Enabling Distributed Rollbacks With NUnit and MbUnit"
+title: Enabling Distributed Rollbacks With NUnit and MbUnit
 date: 2005-12-28 -0800
 comments: true
 disqus_identifier: 11377
 categories: []
+redirect_from: "/archive/2005/12/27/enabling-distributed-rollbacks-with-nunit-and-mbunit.aspx/"
 ---
+
 In some of my projects, I take a less purist approach to unit testing in
 that I allow [unit tests to touch the
 database](http://haacked.com/archive/2005/10/21/10941.aspx). In order to

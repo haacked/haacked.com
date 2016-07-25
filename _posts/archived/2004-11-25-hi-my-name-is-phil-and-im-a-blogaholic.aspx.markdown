@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hi My Name Is Phil And I'm A Blogaholic"
+title: Hi My Name Is Phil And I'm A Blogaholic
 date: 2004-11-25 -0800
 comments: true
 disqus_identifier: 1671
 categories: []
+redirect_from: "/archive/2004/11/24/hi-my-name-is-phil-and-im-a-blogaholic.aspx/"
 ---
+
 I think it's about time to found a group devoted to helping blogging
 addicts deal with a new and pervasive addiction. This occurred to me the
 other day when my wife needed help putting away the dishes and I mumbled

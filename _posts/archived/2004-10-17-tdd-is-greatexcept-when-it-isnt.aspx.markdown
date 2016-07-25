@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "TDD Is Great...Except When It Isn't"
+title: TDD Is Great...Except When It Isn't
 date: 2004-10-17 -0800
 comments: true
 disqus_identifier: 1382
 categories: []
+redirect_from: "/archive/2004/10/16/tdd-is-greatexcept-when-it-isnt.aspx/"
 ---
+
 Saw this
 [post](http://pluralsight.com/blogs/craig/archive/2004/10/17/2852.aspx)
 by Craig Andera about Test Driven Development and I have to say I

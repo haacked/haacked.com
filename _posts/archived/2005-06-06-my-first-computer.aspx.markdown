@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "This Was My First Computer"
+title: This Was My First Computer
 date: 2005-06-06 -0800
 comments: true
 disqus_identifier: 4430
-categories: [personal,tech]
+categories:
+- personal
+- tech
+redirect_from: "/archive/2005/06/05/my-first-computer.aspx/"
 ---
+
 ![TRS 80 Color Computer](/images/Trs80ColorComputer.jpg) Via [Rory’s
 post here](http://neopoleon.com/blog/posts/14587.aspx), I’ve discovered
 the [Obsolete Technology Website](http://oldcomputers.net/index.html).

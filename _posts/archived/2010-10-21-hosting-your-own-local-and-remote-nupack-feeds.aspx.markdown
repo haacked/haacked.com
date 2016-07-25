@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Hosting Your Own Local and Remote NuGet Feeds"
+title: Hosting Your Own Local and Remote NuGet Feeds
 date: 2010-10-21 -0800
 comments: true
 disqus_identifier: 18728
-categories: [nuget,code,open source]
+categories:
+- nuget
+- code
+- open source
+redirect_from: "/archive/2010/10/20/hosting-your-own-local-and-remote-nupack-feeds.aspx/"
 ---
+
 *Note: Everything I write here is based on a very early pre-release
 version of NuGet ([formerly known as
 NuPack](http://haacked.com/archive/2010/10/29/nupack-is-now-nuget.aspx "NuPack is now NuGet"))

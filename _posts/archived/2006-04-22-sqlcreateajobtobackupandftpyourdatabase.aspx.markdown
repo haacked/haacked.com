@@ -5,7 +5,9 @@ date: 2006-04-22 -0800
 comments: true
 disqus_identifier: 12515
 categories: []
+redirect_from: "/archive/2006/04/21/sqlcreateajobtobackupandftpyourdatabase.aspx/"
 ---
+
 In two earlier posts I presented a couple of SQL stored procedures that
 I promised to tie together. The [first
 procedure](http://haacked.com/archive/2006/04/21/SQLFunctionToGenerateRandomTimeOfDay.aspx "Generate a Random Time Of Day")

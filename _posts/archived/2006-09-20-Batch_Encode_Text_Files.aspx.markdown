@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Batch Encode Text Files"
+title: Batch Encode Text Files
 date: 2006-09-20 -0800
 comments: true
 disqus_identifier: 16937
 categories: []
+redirect_from: "/archive/2006/09/19/Batch_Encode_Text_Files.aspx/"
 ---
+
 I hesitate to blog this because this tool is really really really really
 rough, quick, and dirty.  As in it needs a big ol’ box of Tide.  
 

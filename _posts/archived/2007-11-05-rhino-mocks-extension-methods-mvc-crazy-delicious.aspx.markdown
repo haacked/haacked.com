@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Rhino Mocks + Extension Methods + MVC == Crazy Delicious"
+title: Rhino Mocks + Extension Methods + MVC == Crazy Delicious
 date: 2007-11-05 -0800
 comments: true
 disqus_identifier: 18418
-categories: [asp.net,code,asp.net mvc,tdd]
+categories:
+- asp.net
+- code
+- asp.net mvc
+- tdd
+redirect_from: "/archive/2007/11/04/rhino-mocks-extension-methods-mvc-crazy-delicious.aspx/"
 ---
+
 UPDATE: This content is a bit outdated as these interfaces have changed
 in ASP.NET MVC since the writing of this post.
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "XEarth For Windows"
+title: XEarth For Windows
 date: 2004-04-22 -0800
 comments: true
 disqus_identifier: 350
 categories: []
+redirect_from: "/archive/2004/04/21/xearth-for-windows.aspx/"
 ---
+
 ![XEarth](/images/xearth.gif) For you grizzled Unix hacks out there,
 this might be old news, but I just learned of a really neat tool that
 I'm sure will appeal to the geophysicist in each of us (or at least

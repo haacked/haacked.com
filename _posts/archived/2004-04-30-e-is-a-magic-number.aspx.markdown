@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "e is a magic number"
+title: e is a magic number
 date: 2004-04-30 -0800
 comments: true
 disqus_identifier: 396
 categories: []
+redirect_from: "/archive/2004/04/29/e-is-a-magic-number.aspx/"
 ---
+
 ![e](/images/e.gif)
 
 Google's IPO is valued at $2,718,281,828. This is the value of the mathematical constant e (2.718281828...). Apparently

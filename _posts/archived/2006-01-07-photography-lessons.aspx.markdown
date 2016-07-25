@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Photography Lessons"
+title: Photography Lessons
 date: 2006-01-07 -0800
 comments: true
 disqus_identifier: 11432
 categories: []
+redirect_from: "/archive/2006/01/06/photography-lessons.aspx/"
 ---
+
 I have a really old Kodak photography book laying around that delivers
 various tips for how to advance from your typical crapola™ snapshots
 into something worth boring your friends with on

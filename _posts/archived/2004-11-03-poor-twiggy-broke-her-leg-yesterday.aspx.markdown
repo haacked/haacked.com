@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Poor Twiggy Broke Her Leg Yesterday"
+title: Poor Twiggy Broke Her Leg Yesterday
 date: 2004-11-03 -0800
 comments: true
 disqus_identifier: 1567
 categories: []
+redirect_from: "/archive/2004/11/02/poor-twiggy-broke-her-leg-yesterday.aspx/"
 ---
+
 ![Twiggy](/images/LittleTwiggy.jpg) Twiggy was at a newly opened small
 dog park when a group of other small dogs suddenly ganged up on her. Of
 course they couldn't catch her because she's a speed demon, but she must

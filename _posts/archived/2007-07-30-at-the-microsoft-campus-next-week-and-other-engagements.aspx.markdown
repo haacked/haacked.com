@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "At The Microsoft Campus Next Week And Other Engagements"
+title: At The Microsoft Campus Next Week And Other Engagements
 date: 2007-07-30 -0800
 comments: true
 disqus_identifier: 18375
 categories: []
+redirect_from: "/archive/2007/07/29/at-the-microsoft-campus-next-week-and-other-engagements.aspx/"
 ---
+
 [![Image from This is Broken:
 http://www.goodexperience.com/tib/archives/2004/03/microsoft\_campu.html](http://haacked.com/images/haacked_com/WindowsLiveWriter/AtTheMicrosoftCampusNextWeekAndOtherTrav_141F7/microsoft_campus-s_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/AtTheMicrosoftCampusNextWeekAndOtherTrav_141F7/microsoft_campus-s.jpg "Image from This is Broken: http://www.goodexperience.com/tib/archives/2004/03/microsoft_campu.html")
 Working at a [VSIP partner](http://koders.com/ "Koders.com") has its

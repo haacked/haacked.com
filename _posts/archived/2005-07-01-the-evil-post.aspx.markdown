@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Evil Post"
+title: The Evil Post
 date: 2005-07-01 -0800
 comments: true
 disqus_identifier: 7462
 categories: []
+redirect_from: "/archive/2005/06/30/the-evil-post.aspx/"
 ---
+
 ![Dr. Evil](http://haacked.com/images/DrEvil.jpg) It’s an odd quirk of
 our taste for “round” numbers that we tend to celebrate milestones that
 are multiples of a power of ten. For example, a 10th anniversary is

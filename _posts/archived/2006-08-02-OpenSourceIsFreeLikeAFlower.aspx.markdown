@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Open Source Is Free Like A Flower"
+title: Open Source Is Free Like A Flower
 date: 2006-08-02 -0800
 comments: true
 disqus_identifier: 14554
-categories: [code,open source]
+categories:
+- code
+- open source
+redirect_from: "/archive/2006/08/01/OpenSourceIsFreeLikeAFlower.aspx/"
 ---
+
 ![Orchid](http://haacked.com/images/orchid.jpg) [Jeff “The CodingHorror”
 Atwood](http://www.codinghorror.com/blog/ "Coding Horror") takes [issue
 with the

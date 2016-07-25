@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "You Know You Work Too Much"
+title: You Know You Work Too Much
 date: 2006-05-06 -0800
 comments: true
 disqus_identifier: 12695
 categories: []
+redirect_from: "/archive/2006/05/05/YouKnowYouWorkTooMuch.aspx/"
 ---
+
 When your company installs one of these babies for you.
 
 ![A Desk that converts into a

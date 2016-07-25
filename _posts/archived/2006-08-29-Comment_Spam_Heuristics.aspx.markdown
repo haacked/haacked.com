@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Comment Spam Heuristics"
+title: Comment Spam Heuristics
 date: 2006-08-29 -0800
 comments: true
 disqus_identifier: 16134
 categories: []
+redirect_from: "/archive/2006/08/28/Comment_Spam_Heuristics.aspx/"
 ---
+
 ![Spam](http://haacked.com/images/spam.jpg)Lately my blog has been hit
 with a torrential downpour of comment spam.  I’ve been able to fight
 much of it off with some creative regular

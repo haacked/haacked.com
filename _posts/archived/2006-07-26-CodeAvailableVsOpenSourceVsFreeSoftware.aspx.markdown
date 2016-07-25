@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Source Available vs Open Source vs Free Software"
+title: Source Available vs Open Source vs Free Software
 date: 2006-07-26 -0800
 comments: true
 disqus_identifier: 14224
 categories: []
+redirect_from: "/archive/2006/07/25/CodeAvailableVsOpenSourceVsFreeSoftware.aspx/"
 ---
+
 It is a common notion that there is a lot of ambiguity and disagreement
 around the term *Open Source*. While that has been true in the past, I
 believe that there is much more consensus now because the term has been

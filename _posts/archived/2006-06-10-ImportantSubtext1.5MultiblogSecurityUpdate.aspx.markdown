@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Important Subtext 1.5 Multiblog Security Update"
+title: Important Subtext 1.5 Multiblog Security Update
 date: 2006-06-10 -0800
 comments: true
 disqus_identifier: 13214
-categories: [subtext]
+categories:
+- subtext
+redirect_from: "/archive/2006/06/09/ImportantSubtext1.5MultiblogSecurityUpdate.aspx/"
 ---
+
 If you are hosting multiple blogs on a single installation of Subtext,
 the recent Subtext 1.5 release unfortunately introduces a security bug
 that will allow an admin of one blog to login to another blog. The fix

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Must We Put Code In Our Blog Titles and Subtitles?"
+title: Must We Put Code In Our Blog Titles and Subtitles?
 date: 2005-09-23 -0800
 comments: true
 disqus_identifier: 10324
 categories: []
+redirect_from: "/archive/2005/09/22/must-we-put-code-in-our-blog-titles-and-subtitles.aspx/"
 ---
+
 Perhaps it’s a rather innocuous practice, but after seeing one too many
 I am compelled to rant a bit, if only to be a total jerk. What do I
 speak of? I was going through the blogs in my blog reader the other day

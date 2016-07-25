@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "I&rsquo;m Speaking at //BUILD!"
+title: I&rsquo;m Speaking at //BUILD!
 date: 2011-09-13 -0800
 comments: true
 disqus_identifier: 18813
-categories: [asp.net,asp.net mvc]
+categories:
+- asp.net
+- asp.net mvc
+redirect_from: "/archive/2011/09/12/speaking-at-build.aspx/"
 ---
+
 [![BUILD-speaker-bling](http://haacked.com/images/haacked_com/WindowsLiveWriter/Im-Speaking-at-BUILD_BE99/BUILD-speaker-bling_thumb.png "BUILD-speaker-bling")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Im-Speaking-at-BUILD_BE99/BUILD-speaker-bling_2.png)If
 you’re at the BUILD conference in Anaheim, I’ll be speaking in two
 sessions on Thursday.

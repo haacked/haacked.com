@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "U2 to Release 'Atomic Bomb' New Album in November (Reuters)"
+title: U2 to Release 'Atomic Bomb' New Album in November (Reuters)
 date: 2004-09-14 -0800
 comments: true
 disqus_identifier: 1205
 categories: []
+redirect_from: "/archive/2004/09/13/u2-to-release-atomic-bomb-new-album-in-november-reuters.aspx/"
 ---
+
 Best. Band. Ever.
 
 > Reuters - Irish rock band U2 Tuesday disclosed the title and set the

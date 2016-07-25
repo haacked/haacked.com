@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Securely Implement ELMAH For Plug And Play Error Logging"
+title: Securely Implement ELMAH For Plug And Play Error Logging
 date: 2007-07-24 -0800
 comments: true
 disqus_identifier: 18369
-categories: [asp.net]
+categories:
+- asp.net
+redirect_from: "/archive/2007/07/23/securely-implement-elmah-for-plug-and-play-error-logging.aspx/"
 ---
+
 ELMAH, *which stands for Error Logging Modules and Handlers for
 ASP.NET*, is an open source project which makes it easy to log and view
 unhandled exceptions via its pluggable architecture.

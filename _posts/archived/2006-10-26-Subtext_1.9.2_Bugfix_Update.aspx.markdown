@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Subtext 1.9.2 Bugfix Update"
+title: Subtext 1.9.2 Bugfix Update
 date: 2006-10-26 -0800
 comments: true
 disqus_identifier: 18115
 categories: []
+redirect_from: "/archive/2006/10/25/Subtext_1.9.2_Bugfix_Update.aspx/"
 ---
+
 As I mentioned in [my last
 post](http://haacked.com/archive/2006/10/26/PATCH_Cannot_Delete_Posts_In_Subtext_1.9.2.aspx "Cannot Delete Posts"),
 someone reported a bug with deleting posts in the admin tool.  That

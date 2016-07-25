@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Community Server Fix for Posting Comments from Feed Readers and a Rant for Good Measure"
+title: Community Server Fix for Posting Comments from Feed Readers and a Rant for
+  Good Measure
 date: 2005-04-18 -0800
 comments: true
 disqus_identifier: 2730
 categories: []
+redirect_from: "/archive/2005/04/17/community-server-fix-for-posting-comments-from-feed-readers-and-a-rant-for-good-measure.aspx/"
 ---
+
 [Jayson Knight](http://jaysonknight.com/blog/) has been cutting his
 teeth on the latest version of .TEXT now called [Community
 Server](http://communityserver.org/) trying to get it's RSS and

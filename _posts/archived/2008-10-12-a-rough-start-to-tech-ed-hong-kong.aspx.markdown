@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A Rough Start To Tech-Ed Hong Kong"
+title: A Rough Start To Tech-Ed Hong Kong
 date: 2008-10-12 -0800
 comments: true
 disqus_identifier: 18536
 categories: []
+redirect_from: "/archive/2008/10/11/a-rough-start-to-tech-ed-hong-kong.aspx/"
 ---
+
 I had a bit of a rough start to my first Tech-Ed Hong Kong last week.
 Pretty much every day while [I was in
 Japan](http://haacked.com/archive/2008/10/12/japan-trip-2008.aspx "Japan Trip 2008"),

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Voting is a Sham! Mathematically Speaking."
+title: Voting is a Sham! Mathematically Speaking.
 date: 2012-11-27 -0800
 comments: true
 disqus_identifier: 18874
-categories: [math]
+categories:
+- math
+redirect_from: "/archive/2012/11/26/condorcet-paradox.aspx/"
 ---
+
 The recent elections remind me of interesting paradoxes when you study
 the mathematics of voting. I first learned of this class of paradoxes as
 an undergraduate at [Occidental

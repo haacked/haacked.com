@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Travels"
+title: Travels
 date: 2006-09-04 -0800
 comments: true
 disqus_identifier: 16308
 categories: []
+redirect_from: "/archive/2006/09/03/Travels.aspx/"
 ---
+
 [![Scenery](http://haacked.com/images/haacked_com/WindowsLiveWriter/Travels_14EF5/dsc01431_edited_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/Travels_14EF5/dsc01431_edited6.jpg)This
 past weekend my wife and I drove up to San Francisco to attend a
 friend’s wedding, which ended up being a lot of fun.  We always like

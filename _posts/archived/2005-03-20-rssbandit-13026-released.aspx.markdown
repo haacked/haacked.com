@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "RSS Bandit 1.3.0.26 Released!"
+title: RSS Bandit 1.3.0.26 Released!
 date: 2005-03-20 -0800
 comments: true
 disqus_identifier: 2411
-categories: [open source]
+categories:
+- open source
+redirect_from: "/archive/2005/03/19/rssbandit-13026-released.aspx/"
 ---
+
 ![RSS Bandit Logo](/images/RssBanditLogo.jpg) After much hard work by
 [Dare](http://www.25hoursaday.com/weblog/) and
 [Torsten](http://www.rendelmann.info/blog/) (and a little bit of hard

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Geek Shopping"
+title: Geek Shopping
 date: 2004-04-06 -0800
 comments: true
 disqus_identifier: 305
 categories: []
+redirect_from: "/archive/2004/04/05/geek-shopping.aspx/"
 ---
+
 ![](/images/dellultrasharp.jpg)If you haven't tried it yet, you should
 really give [Froogle](http://froogle.com/) a look. I'm currently looking
 to buy an LCD monitor and I checked the usual suspects,

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "How Not To Please Your Clients"
+title: How Not To Please Your Clients
 date: 2005-11-03 -0800
 comments: true
 disqus_identifier: 11126
 categories: []
+redirect_from: "/archive/2005/11/02/how-not-to-please-your-clients.aspx/"
 ---
+
 ![Toilet](http://haacked.com/images/toilet.jpg) A while ago I [wrote
 that](http://haacked.com/archive/2005/08/18/9536.aspx) a client often
 often does not know what he wants until he sees it. I was referring to

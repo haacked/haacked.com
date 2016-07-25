@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Notes on ASP.NET MVC CodePlex Preview 4"
+title: Notes on ASP.NET MVC CodePlex Preview 4
 date: 2008-07-16 -0800
 comments: true
 disqus_identifier: 18504
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2008/07/15/aspnetmvc-codeplex-preview4.aspx/"
 ---
+
 (If you want to skip all the blah blah blah, [**go straight to the
 release**](http://www.codeplex.com/aspnet/Release/ProjectReleases.aspx?ReleaseId=15389 "ASP.NET MVC CodePlex Preview 4"))
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Why Not Convert HTML to XML?"
+title: Why Not Convert HTML to XML?
 date: 2004-10-25 -0800
 comments: true
 disqus_identifier: 1488
 categories: []
+redirect_from: "/archive/2004/10/24/why-not-convert-html-to-xml.aspx/"
 ---
+
 Pat Gannon (no blog) makes a great
 [point](http://haacked.com/archive/2004/10/25/1471.aspx#1486) in the
 comments on my post about [using regular expressions to parse

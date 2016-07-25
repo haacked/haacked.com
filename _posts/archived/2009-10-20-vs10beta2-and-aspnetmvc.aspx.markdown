@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "VS10 Beta 2 From an ASP.NET MVC Perspective"
+title: VS10 Beta 2 From an ASP.NET MVC Perspective
 date: 2009-10-20 -0800
 comments: true
 disqus_identifier: 18651
-categories: [asp.net]
+categories:
+- asp.net
+redirect_from: "/archive/2009/10/19/vs10beta2-and-aspnetmvc.aspx/"
 ---
+
 You probably don’t need me to tell you that [Visual Studio 2010 Beta 2
 has been
 released](http://weblogs.asp.net/scottgu/archive/2009/10/19/vs-2010-and-net-4-0-beta-2.aspx "VS 2010 and .NET 4.0 Beta 2")

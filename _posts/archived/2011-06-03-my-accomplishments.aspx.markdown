@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Random Friday: My Accomplishments"
+title: 'Random Friday: My Accomplishments'
 date: 2011-06-03 -0800
 comments: true
 disqus_identifier: 18794
-categories: [humor,personal]
+categories:
+- humor
+- personal
+redirect_from: "/archive/2011/06/02/my-accomplishments.aspx/"
 ---
+
 It’s that time of year at Microsoft when managers are busily preparing
 reviews of their reports and preparing for the big [stack
 ranking](http://minimsft.blogspot.com/2005/06/microsofts-30-or-how-i-learned-to-stop.html "Stack Ranking").

@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Community Naming"
+title: Community Naming
 date: 2010-10-23 -0800
 comments: true
 disqus_identifier: 18731
-categories: [nuget,code,open source]
+categories:
+- nuget
+- code
+- open source
+redirect_from: "/archive/2010/10/22/community-naming.aspx/"
 ---
+
 Just a quick [follow-up to my last
 posts](http://haacked.com/archive/2010/10/22/naming-is-hard.aspx "Naming is hard")
 about naming NuPack. Looks like the community is not content to sit back

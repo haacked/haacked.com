@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Introducing GitHub For Windows"
+title: Introducing GitHub For Windows
 date: 2012-05-21 -0800
 comments: true
 disqus_identifier: 18858
-categories: [github,git,code]
+categories:
+- github
+- git
+- code
+redirect_from: "/archive/2012/05/20/introducing-github-for-windows.aspx/"
 ---
+
 For the past several months I’ve been working on a project with my
 amazing cohorts, [Paul](http://blog.paulbetts.org/ "Paul Betts's Blog"),
 [Tim](http://timclem.wordpress.com/ "Tim Clem's Blog"), and

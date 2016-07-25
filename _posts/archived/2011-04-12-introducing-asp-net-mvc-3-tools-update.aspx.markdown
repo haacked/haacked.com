@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Introducing ASP.NET MVC 3 Tools Update"
+title: Introducing ASP.NET MVC 3 Tools Update
 date: 2011-04-12 -0800
 comments: true
 disqus_identifier: 18773
 categories: []
+redirect_from: "/archive/2011/04/11/introducing-asp-net-mvc-3-tools-update.aspx/"
 ---
+
 Today at Mix, Scott Guthrie announced an update to the ASP.NET MVC 3
 we’re calling the **ASP.NET MVC 3 Tools Update**. You can **[install it
 via Web

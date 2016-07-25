@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ali G Translator"
+title: Ali G Translator
 date: 2004-10-30 -0800
 comments: true
 disqus_identifier: 1534
 categories: []
+redirect_from: "/archive/2004/10/29/AliGTranslator.aspx/"
 ---
+
 ![Ali G](/images/AliG.jpg)if you've watched da show yous probably ave
 wondered, ow can i attract da wicked bitches dig dat awesome omeboy? da
 secret is to learn to bang dig im? well in da house's your chance to

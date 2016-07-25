@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Why Can't Spec Writers Write...Specs?"
+title: Why Can't Spec Writers Write...Specs?
 date: 2007-03-07 -0800
 comments: true
 disqus_identifier: 18228
 categories: []
+redirect_from: "/archive/2007/03/06/Why_Cant_Spec_Writers_Write.Specs.aspx/"
 ---
+
 I know, I know, you’d like to see the [FizzBuzz](http://www.codinghorror.com/blog/archives/000781.html "Why Can’t Programmers...Program") discussion die a quick death, but trust me, this is an interesting point, or at least mildly amusing.
 
 Sorry to revive the dead horse, but a comment in my blog brought up a very good point. In fact, I’m kicking myself for not noticing this myself, having been a math major and I love pointing out this type of minutiae.

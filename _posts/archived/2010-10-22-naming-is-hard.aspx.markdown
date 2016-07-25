@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Naming is Hard, Let&rsquo;s Go Shopping"
+title: Naming is Hard, Let&rsquo;s Go Shopping
 date: 2010-10-22 -0800
 comments: true
 disqus_identifier: 18730
-categories: [open source,nuget]
+categories:
+- open source
+- nuget
+redirect_from: "/archive/2010/10/21/naming-is-hard.aspx/"
 ---
+
 > There are only 2 hard problems in Computer Science. Naming things,
 > cache invalidation and off-by-one errors.
 

@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Speaking At Mix10"
+title: Speaking At Mix10
 date: 2010-01-28 -0800
 comments: true
 disqus_identifier: 18681
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2010/01/27/speaking-at-mix10.aspx/"
 ---
+
 It’s that time of year again when a young man’s thoughts turn to Las
 Vegas! Yep, it’s another year and another [Mix
 conference](http://live.visitmix.com/ "Mix Website") (March 15-17,

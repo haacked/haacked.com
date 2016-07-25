@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Creating Copies of Attributes"
+title: Creating Copies of Attributes
 date: 2010-08-05 -0800
 comments: true
 disqus_identifier: 18715
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2010/08/04/copying-attributes.aspx/"
 ---
+
 UPDATE: A reader named Matthias pointed out there is a flaw in my code.
 Thanks Matthias! I’ve [corrected it in my GitHub
 Repository](https://github.com/Haacked/CodeHaacks/blob/master/src/MiscUtils/AttributeExtensions.cs).

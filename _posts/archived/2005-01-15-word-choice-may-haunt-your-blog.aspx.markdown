@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Word Choice May Haunt Your Blog"
+title: Word Choice May Haunt Your Blog
 date: 2005-01-15 -0800
 comments: true
 disqus_identifier: 1869
 categories: []
+redirect_from: "/archive/2005/01/14/word-choice-may-haunt-your-blog.aspx/"
 ---
+
 Saw this on Scoble's link blog.
 
 > [http://www.molly.com/2005/01/15/the-accidental-blogger/](http://www.molly.com/2005/01/15/the-accidental-blogger/) 

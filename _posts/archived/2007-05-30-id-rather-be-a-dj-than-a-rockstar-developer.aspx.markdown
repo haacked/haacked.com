@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "I'd Rather Be a DJ Than A Rockstar Developer"
+title: I'd Rather Be a DJ Than A Rockstar Developer
 date: 2007-05-30 -0800
 comments: true
 disqus_identifier: 18334
 categories: []
+redirect_from: "/archive/2007/05/29/id-rather-be-a-dj-than-a-rockstar-developer.aspx/"
 ---
+
 With all this talk of rockstar programmers, I like [Ron
 Evan’s](http://deadprogrammersociety.blogspot.com/ "Ron Even’s Blog")
 take when he says, “[I Would Rather Be A Jazz

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "More On The CodePlex Foundation"
+title: More On The CodePlex Foundation
 date: 2009-09-13 -0800
 comments: true
 disqus_identifier: 18643
 categories: []
+redirect_from: "/archive/2009/09/12/more-on-the-codeplex-foundation.aspx/"
 ---
+
 In my last post, I presented [a general overview of the CodePlex
 foundation](http://haacked.com/archive/2009/09/11/codeplex-foundation.aspx "What the CodePlex Foundation Means to the .NET OSS Developer")
 and talked a bit about what it means to the .NET OSS developer,

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Service Unavailable Errors in IIS 7 Are Killing Me"
+title: Service Unavailable Errors in IIS 7 Are Killing Me
 date: 2007-05-18 -0800
 comments: true
 disqus_identifier: 18318
 categories: []
+redirect_from: "/archive/2007/05/17/service-unavailable-errors-in-iis-7-are-killing-me.aspx/"
 ---
+
 UPDATE: [Problem
 solved](http://haacked.com/archive/2007/05/21/the-iis-7-team-rocks.aspx "The IIS 7 Team Rocks")
 thanks to some members of the IIS 7 team!

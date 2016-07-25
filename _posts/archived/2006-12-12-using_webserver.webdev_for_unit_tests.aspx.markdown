@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Using WebServer.WebDev For Unit Tests"
+title: Using WebServer.WebDev For Unit Tests
 date: 2006-12-12 -0800
 comments: true
 disqus_identifier: 18164
-categories: [code,tdd]
+categories:
+- code
+- tdd
+redirect_from: "/archive/2006/12/11/using_webserver.webdev_for_unit_tests.aspx/"
 ---
+
 [![A Scanning Test - From
 http://www.sxc.hu/photo/517386](http://haacked.com/images/haacked_com/WindowsLiveWriter/UsingWebServer.WebDevForUnitTests_7370/517386_scanning_test_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/UsingWebServer.WebDevForUnitTests_7370/517386_scanning_test2.jpg)
 

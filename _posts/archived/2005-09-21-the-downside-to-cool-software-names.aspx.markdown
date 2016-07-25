@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Downside to Cool Software Names"
+title: The Downside to Cool Software Names
 date: 2005-09-21 -0800
 comments: true
 disqus_identifier: 10259
 categories: []
+redirect_from: "/archive/2005/09/20/the-downside-to-cool-software-names.aspx/"
 ---
+
 Certainly there’s been a [bit
 of](http://blogs.msdn.com/adam_nathan/archive/2005/08/02/446869.aspx) a
 [bad](http://weblogs.asp.net/cazzu/archive/2005/08/04/WxF.aspx)

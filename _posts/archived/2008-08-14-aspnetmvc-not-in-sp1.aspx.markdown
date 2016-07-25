@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "ASP.NET MVC Is Not Part of ASP.NET 3.5 SP1"
+title: ASP.NET MVC Is Not Part of ASP.NET 3.5 SP1
 date: 2008-08-14 -0800
 comments: true
 disqus_identifier: 18523
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2008/08/13/aspnetmvc-not-in-sp1.aspx/"
 ---
+
 I wanted to clear up a bit of confusion I’ve seen around the web about
 ASP.NET MVC and the .NET Framework 3.5 Service Pack 1. ASP.NET MVC was
 *not* released as part of SP1. I repeat, ASP.NET 3.5 SP1 does not

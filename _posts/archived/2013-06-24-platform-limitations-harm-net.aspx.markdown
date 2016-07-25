@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Platform Limitations Harm .NET"
+title: Platform Limitations Harm .NET
 date: 2013-06-24 -0800
 comments: true
 disqus_identifier: 18893
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2013/06/23/platform-limitations-harm-net.aspx/"
 ---
+
 UPDATE: The .NET team [removed the platform
 limitations](http://blogs.msdn.com/b/dotnet/archive/2013/11/13/pcl-and-net-nuget-libraries-are-now-enabled-for-xamarin.aspx).
 

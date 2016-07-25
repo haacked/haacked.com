@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ready To Fire My QA Department"
+title: Ready To Fire My QA Department
 date: 2006-03-14 -0800
 comments: true
 disqus_identifier: 12087
 categories: []
+redirect_from: "/archive/2006/03/13/ReadyToFireMyQADepartment.aspx/"
 ---
+
 ![Fire](http://haacked.com/images/FireBurn.jpg) I have had it up to here
 (imagine my hand on my head) and I am ready to fire the damn QA
 department for my blog. Unfortunately I *am* the QA department, so

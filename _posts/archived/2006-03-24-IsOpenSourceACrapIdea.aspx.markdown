@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Is Open Source A Crap Idea?"
+title: Is Open Source A Crap Idea?
 date: 2006-03-24 -0800
 comments: true
 disqus_identifier: 12180
 categories: []
+redirect_from: "/archive/2006/03/23/IsOpenSourceACrapIdea.aspx/"
 ---
+
 [Scott Hanselman](http://www.hanselman.com/blog/ "Scott Hanselman") asks
 the question, [Is Open Source a Crap
 Idea](http://www.hanselman.com/blog/IsOpenSourceACrapIdea.aspx "Is Open Source A Crap Idea").

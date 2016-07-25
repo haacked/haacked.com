@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Workspace Pictures: Work and Home Offices"
+title: 'Workspace Pictures: Work and Home Offices'
 date: 2004-10-19 -0800
 comments: true
 disqus_identifier: 1423
 categories: []
+redirect_from: "/archive/2004/10/18/workspace-pictures-work-and-home-offices.aspx/"
 ---
+
 I know a lot of
 [people](http://weblogs.asp.net/pleloup/archive/2003/11/18/38243.aspx)
 [like](http://binarybonsai.com/archives/2004/05/06/my-cubicle/) to

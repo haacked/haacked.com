@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Null Or Empty Coalescing"
+title: Null Or Empty Coalescing
 date: 2010-06-16 -0800
 comments: true
 disqus_identifier: 18709
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2010/06/15/null-or-empty-coalescing.aspx/"
 ---
+
 In my last blog post, I wrote about the proper way to [check for empty
 enumerations](http://haacked.com/archive/2010/06/10/checking-for-empty-enumerations.aspx "Checking For Empty Enumerations")
 and proposed an `IsNullOrEmpty` method for collections which sparked a

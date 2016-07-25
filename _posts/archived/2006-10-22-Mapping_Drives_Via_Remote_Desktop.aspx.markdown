@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Mapping Drives Via Remote Desktop"
+title: Mapping Drives Via Remote Desktop
 date: 2006-10-22 -0800
 comments: true
 disqus_identifier: 18101
 categories: []
+redirect_from: "/archive/2006/10/21/Mapping_Drives_Via_Remote_Desktop.aspx/"
 ---
+
 Here’s a little trick that I didn't know about till
 [Steve](http://stevenharman.net/blog/ "Steve's Blog") told me about it. 
 So that’s what those other tabs in the Remote Destkop dialog are for!

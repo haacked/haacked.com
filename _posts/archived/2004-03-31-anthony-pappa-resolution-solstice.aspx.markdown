@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Anthony Pappa Resolution (Solstice)"
+title: Anthony Pappa Resolution (Solstice)
 date: 2004-03-31 -0800
 comments: true
 disqus_identifier: 287
 categories: []
+redirect_from: "/archive/2004/03/30/anthony-pappa-resolution-solstice.aspx/"
 ---
+
 ![](/images/AnthonyPappaResolution.jpg)I've been on a real Anthony Pappa
 kick lately. Right now I'm listening to Resolution CD 2 Track 12,
 "Solstice" at home and am blown away at how rich and full it sounds on

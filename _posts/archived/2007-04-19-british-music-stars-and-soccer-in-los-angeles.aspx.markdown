@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "British Music Stars and Soccer In Los Angeles"
+title: British Music Stars and Soccer In Los Angeles
 date: 2007-04-19 -0800
 comments: true
 disqus_identifier: 18289
 categories: []
+redirect_from: "/archive/2007/04/18/british-music-stars-and-soccer-in-los-angeles.aspx/"
 ---
+
 According to FeedBurner, many of my readers are from London, so I
 thought you might enjoy this little tale.
 

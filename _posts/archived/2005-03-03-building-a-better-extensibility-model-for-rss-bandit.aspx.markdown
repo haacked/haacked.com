@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Building a Better Extensibility Model For RSS Bandit"
+title: Building a Better Extensibility Model For RSS Bandit
 date: 2005-03-03 -0800
 comments: true
 disqus_identifier: 2259
 categories: []
+redirect_from: "/archive/2005/03/02/building-a-better-extensibility-model-for-rss-bandit.aspx/"
 ---
+
 Currently, the only plug-in model supported by RSS Bandit is the
 [IBlogExtension](http://www.pocketsoap.com/weblog/stories/2003/04/0023.html)
 interface. This is a very limited interface that allows developers to

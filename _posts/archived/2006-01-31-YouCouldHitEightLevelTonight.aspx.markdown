@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "You Could Hit Eight Level Tonight"
+title: You Could Hit Eight Level Tonight
 date: 2006-01-31 -0800
 comments: true
 disqus_identifier: 11631
 categories: []
+redirect_from: "/archive/2006/01/30/YouCouldHitEightLevelTonight.aspx/"
 ---
+
 ![Basement Gamers Video
 Screenshot](http://haacked.com/images/BasementGamers.jpg) Make some time
 for this one. This is an eleven minute mockumentary of two hardcore

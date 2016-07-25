@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Photos From Burning Man"
+title: Photos From Burning Man
 date: 2005-09-09 -0800
 comments: true
 disqus_identifier: 10019
-categories: [burningman]
+categories:
+- burningman
+redirect_from: "/archive/2005/09/08/PhotosFromBurningMan.aspx/"
 ---
 
 I caught a brutal cold on my return from Black Rock City, so I haven’t been much in the blogging mood. But I’m starting to feel better (or the glass of Sake is really working its magic) and thought I’d post a quick blurb about the trip.

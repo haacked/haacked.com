@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Open Source Programming Language Zeitgeist"
+title: Open Source Programming Language Zeitgeist
 date: 2007-03-22 -0800
 comments: true
 disqus_identifier: 18257
 categories: []
+redirect_from: "/archive/2007/03/21/open-source-programming-language-zeitgeist.aspx/"
 ---
+
 When searching for source code in a particular language, what do the
 words being searched on tell you about that language?
 

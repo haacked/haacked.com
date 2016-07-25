@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Register Custom Controls In Web.config"
+title: Register Custom Controls In Web.config
 date: 2006-11-14 -0800
 comments: true
 disqus_identifier: 18137
 categories: []
+redirect_from: "/archive/2006/11/13/register_custom_controls_in_web.config.aspx/"
 ---
+
 This one is probably old news to many of you, but I just recently ran
 across it. Every time I want to add a new control to a new page, I get
 annoyed because I have to remember that annoying syntax for registering

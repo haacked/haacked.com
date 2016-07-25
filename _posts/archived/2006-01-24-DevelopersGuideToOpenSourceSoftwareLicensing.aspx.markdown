@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Developers Guide To Open Source Software Licensing"
+title: Developers Guide To Open Source Software Licensing
 date: 2006-01-24 -0800
 comments: true
 disqus_identifier: 11580
-categories: [open source]
+categories:
+- open source
+redirect_from: "/archive/2006/01/23/DevelopersGuideToOpenSourceSoftwareLicensing.aspx/"
 ---
+
 This is part 2 in my three-part series on copyright law and software
 licensing. [Part 1
 covered](http://haacked.com/archive/2006/01/24/TheDevelopersGuideToCopyrightLaw-Part1.aspx)

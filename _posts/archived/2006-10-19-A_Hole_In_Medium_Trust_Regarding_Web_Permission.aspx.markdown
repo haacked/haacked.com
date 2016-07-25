@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "OriginUrl Supports Regular Expressions"
+title: OriginUrl Supports Regular Expressions
 date: 2006-10-19 -0800
 comments: true
 disqus_identifier: 18095
 categories: []
+redirect_from: "/archive/2006/10/18/A_Hole_In_Medium_Trust_Regarding_Web_Permission.aspx/"
 ---
+
 In a [recent post I
 ranted](http://haacked.com/archive/2006/10/17/Why_Oh_Why_Couldnt_WebPermission_Be_Part_Of_Medium_Trust.aspx "Why Can’t WebPermission Be Part Of Medium Trust")
 about how ASP.NET denies `WebPermission` in Medium Trust. I also

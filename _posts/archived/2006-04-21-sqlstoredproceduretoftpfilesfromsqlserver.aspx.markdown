@@ -4,8 +4,11 @@ title: "[SQL] Stored Procedure To FTP Files From SQL Server"
 date: 2006-04-21 -0800
 comments: true
 disqus_identifier: 12496
-categories: [sql]
+categories:
+- sql
+redirect_from: "/archive/2006/04/20/sqlstoredproceduretoftpfilesfromsqlserver.aspx/"
 ---
+
 [This
 is](http://www.nigelrivett.net/FTP/s_ftp_PutFile.html "Ftp Stored Proc")
 another useful Sql Server Stored Procedure I found on the net written by

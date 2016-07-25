@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Sidlined by injury and illness"
+title: Sidlined by injury and illness
 date: 2004-02-10 -0800
 comments: true
 disqus_identifier: 185
 categories: []
+redirect_from: "/archive/2004/02/09/sidlined-by-injury-and-illness.aspx/"
 ---
+
 So I was off to a running start with my ambitious new goals of
 contributing to several open source projects and creating a blog worth
 reading. But as my wife so keenly pointed out, as soon as I get an inch

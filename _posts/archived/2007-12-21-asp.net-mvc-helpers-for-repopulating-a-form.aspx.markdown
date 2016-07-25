@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "ASP.NET MVC Helpers For Repopulating A Form"
+title: ASP.NET MVC Helpers For Repopulating A Form
 date: 2007-12-21 -0800
 comments: true
 disqus_identifier: 18442
-categories: [code,asp.net mvc]
+categories:
+- code
+- asp.net mvc
+redirect_from: "/archive/2007/12/20/asp.net-mvc-helpers-for-repopulating-a-form.aspx/"
 ---
+
 A common pattern when submitting a form in ASP.NET MVC is to post the
 form data to an action which performs some operation and then redirects
 to another action afterwards. The only problem is, the form data is not

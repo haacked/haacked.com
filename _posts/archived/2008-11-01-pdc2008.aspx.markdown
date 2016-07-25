@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Hazy Recollections of PDC 2008"
+title: Hazy Recollections of PDC 2008
 date: 2008-11-01 -0800
 comments: true
 disqus_identifier: 18545
-categories: [code,personal]
+categories:
+- code
+- personal
+redirect_from: "/archive/2008/10/31/pdc2008.aspx/"
 ---
+
 Whew! I’ve finally found a bit of time to write about my impressions of
 the PDC 2008 conference. If you’re looking for insightful commentary and
 a “What does this all mean” post, you’ve come to the wrong place. There

@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Better String Input Handling"
+title: Better String Input Handling
 date: 2009-04-01 -0800
 comments: true
 disqus_identifier: 18603
-categories: [code,humor]
+categories:
+- code
+- humor
+redirect_from: "/archive/2009/03/31/introducing-stringor.aspx/"
 ---
+
 I’ve been relatively quiet on my blog lately in part because of all the
 work on [ASP.NET MVC](http://asp.net/mvc "ASP.NET Website"). However,
 the ASP.NET team is a relatively small team so we often are required to

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "An Even EASIER Way To Obtain the Subtext Source Code"
+title: An Even EASIER Way To Obtain the Subtext Source Code
 date: 2005-06-21 -0800
 comments: true
 disqus_identifier: 7116
 categories: []
+redirect_from: "/archive/2005/06/20/an-even-easier-way-to-obtain-the-subtext-source-code.aspx/"
 ---
+
 In a [recent post](http://haacked.com/archive/2005/06/18/5155.aspx) I
 outlined step by step how to obtain the source code for
 [Subtext](https://sourceforge.net/projects/subtext/) as a non-developer.

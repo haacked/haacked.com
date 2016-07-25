@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Post a Secret"
+title: Post a Secret
 date: 2005-08-18 -0800
 comments: true
 disqus_identifier: 9551
 categories: []
+redirect_from: "/archive/2005/08/17/post-a-secret.aspx/"
 ---
+
 UPDATE: They now have a book on Amazon.com!
 
 [This site](http://postsecret.blogspot.com/) (postsecret.com) is one of

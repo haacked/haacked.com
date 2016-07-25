@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "EXIF, RDF and Flickr Metadata Management"
+title: EXIF, RDF and Flickr Metadata Management
 date: 2005-06-01 -0800
 comments: true
 disqus_identifier: 3983
 categories: []
+redirect_from: "/archive/2005/05/31/exif-rdf-and-flickr-metadata-management.aspx/"
 ---
+
 I’ve been following with interest
 [Shelley’s](http://weblog.burningbird.net/) progress with WordForm, a
 blogging engine. I hadn’t realized that WordForm was a fork in WordPress

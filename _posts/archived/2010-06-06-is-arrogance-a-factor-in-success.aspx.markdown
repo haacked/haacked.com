@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Is Arrogance a Factor in Success?"
+title: Is Arrogance a Factor in Success?
 date: 2010-06-06 -0800
 comments: true
 disqus_identifier: 18705
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2010/06/05/is-arrogance-a-factor-in-success.aspx/"
 ---
+
 I saw a recent Twitter thread discussing the arrogance of Steve Jobs.
 One person (ok, it was my buddy
 [Rob](http://blog.wekeroad.com/ "Rob Conery")) postulated that it was

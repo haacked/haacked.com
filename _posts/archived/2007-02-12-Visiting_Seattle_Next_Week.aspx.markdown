@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Visiting Seattle Next Week"
+title: Visiting Seattle Next Week
 date: 2007-02-12 -0800
 comments: true
 disqus_identifier: 18211
 categories: []
+redirect_from: "/archive/2007/02/11/Visiting_Seattle_Next_Week.aspx/"
 ---
+
 ![Seattle](http://haacked.com/images/seattle.jpg)The wife and I are
 headed up to Seattle for President’s day weekend to visit some friends.
 

@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Blocking Direct Access To Views in ASP.NET MVC"
+title: Blocking Direct Access To Views in ASP.NET MVC
 date: 2008-02-12 -0800
 comments: true
 disqus_identifier: 18455
-categories: [asp.net,code,asp.net mvc]
+categories:
+- asp.net
+- code
+- asp.net mvc
+redirect_from: "/archive/2008/02/11/asp.net-mvc-blocking-direct-access-to-views.aspx/"
 ---
+
 UPDATE: I improved this based on some feedback in my comments.
 
 With ASP.NET MVC it is possible for someone to try and navigate directly

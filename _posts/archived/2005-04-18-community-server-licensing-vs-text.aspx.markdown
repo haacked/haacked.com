@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Community Server Licensing vs .TEXT"
+title: Community Server Licensing vs .TEXT
 date: 2005-04-18 -0800
 comments: true
 disqus_identifier: 2731
 categories: []
+redirect_from: "/archive/2005/04/17/community-server-licensing-vs-text.aspx/"
 ---
+
 Before you upgrade to Community Server, be aware that they've turned it
 into [a commercial
 product](https://store.telligentsystems.com/FamilyProducts.aspx?id=1).

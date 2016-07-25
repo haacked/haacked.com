@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Dealing with singular plural phrasing"
+title: Dealing with singular plural phrasing
 date: 2011-08-16 -0800
 comments: true
 disqus_identifier: 18808
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2011/08/15/dealing-with-singular-plural-phrasing.aspx/"
 ---
+
 This is an age old problem and one that’s probably been solved countless
 times before, but I’m going to write about it anyways.
 

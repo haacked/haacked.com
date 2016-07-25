@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "ASP.NET MVC Northwind Demo Using the Spark View Engine"
+title: ASP.NET MVC Northwind Demo Using the Spark View Engine
 date: 2008-12-08 -0800
 comments: true
 disqus_identifier: 18563
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2008/12/07/asp.net-mvc-northwind-demo-using-the-spark-view-engine.aspx/"
 ---
+
 While at PDC, I met [Louis
 DeJardin](http://whereslou.com/ "Where's Lou") and we had some lively
 discussions on various topics around ASP.NET MVC. He kept bugging me

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Problem: Can't Access Anything on LocalHost?"
+title: 'Problem: Can''t Access Anything on LocalHost?'
 date: 2005-07-11 -0800
 comments: true
 disqus_identifier: 8583
 categories: []
+redirect_from: "/archive/2005/07/10/trouble-accessing-localhost.aspx/"
 ---
+
 Just the other day, I tried viewing a web application I’m developing on
 my local machine. After navigating to http://localhost/MyWebApp/ I got a
 blank browser screen. Nada. Zippo. Nothing. Not even the benefit of an

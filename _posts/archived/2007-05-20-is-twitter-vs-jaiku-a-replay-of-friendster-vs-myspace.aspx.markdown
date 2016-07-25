@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Is Twitter vs Jaiku a Replay of Friendster vs MySpace"
+title: Is Twitter vs Jaiku a Replay of Friendster vs MySpace
 date: 2007-05-20 -0800
 comments: true
 disqus_identifier: 18320
 categories: []
+redirect_from: "/archive/2007/05/19/is-twitter-vs-jaiku-a-replay-of-friendster-vs-myspace.aspx/"
 ---
+
 [Jeff Atwood](http://codinghorror.com/blog/ "CodingHorror") tells me
 he’s thinking of leaving [Twitter](http://twitter.com/ "Twitter") for
 Jaiku. Scoble wrote about how [Leo Laporte already

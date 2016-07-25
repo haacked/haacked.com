@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Viewing the Raw Xml for RSS Bandit Newspaper Views Using an Identity Transformation"
+title: Viewing the Raw Xml for RSS Bandit Newspaper Views Using an Identity Transformation
 date: 2004-12-28 -0800
 comments: true
 disqus_identifier: 1777
 categories: []
+redirect_from: "/archive/2004/12/27/viewing-the-raw-xml-for-rss-bandit-newspaper-views-using-an-identity-transformation.aspx/"
 ---
+
 Ok, the title is a mouthful, but it addresses a concern with the new
 [alpha version of RSS
 Bandit](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=a0007553-f42b-430c-beb5-39a82ebc7560).

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ruby-Like Expressiveness in C# 3.0"
+title: Ruby-Like Expressiveness in C# 3.0
 date: 2007-05-24 -0800
 comments: true
 disqus_identifier: 18330
 categories: []
+redirect_from: "/archive/2007/05/23/ruby-like-syntax-in-c-3.0.aspx/"
 ---
+
 UPDATE: Looks like [Ian
 Cooper](http://iancooper.spaces.live.com/ "Ian Cooper") had posted
 pretty much the same code [in the

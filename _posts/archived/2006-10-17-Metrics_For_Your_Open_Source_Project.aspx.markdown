@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Metrics For Your Open Source Project"
+title: Metrics For Your Open Source Project
 date: 2006-10-17 -0800
 comments: true
 disqus_identifier: 18091
 categories: []
+redirect_from: "/archive/2006/10/16/Metrics_For_Your_Open_Source_Project.aspx/"
 ---
+
 [Steve Harman](http://stevenharman.net/blog/ "Steve Harman") finds this
 [gem of a
 site](http://stevenharman.net/blog/archive/2006/10/17/ohloh.net__Metrics_for_Your_Open_Source_Project.aspx "Metrics for Open Source")

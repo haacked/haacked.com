@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Should Corporations Act Purely on Self Interest?"
+title: Should Corporations Act Purely on Self Interest?
 date: 2005-04-24 -0800
 comments: true
 disqus_identifier: 2818
-categories: [company culture]
+categories:
+- company culture
+redirect_from: "/archive/2005/04/23/should-corporations-act-purely-on-self-interest.aspx/"
 ---
+
 I saw [this
 post](http://www.docuverse.com/blog/donpark/EntryViewPage.aspx?guid=d9fa4326-6ba0-4871-bac0-b3184643f665)
 on Don Park's blog...

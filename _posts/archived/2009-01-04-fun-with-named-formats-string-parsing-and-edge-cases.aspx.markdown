@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Fun With Named Formats, String Parsing, and Edge Cases"
+title: Fun With Named Formats, String Parsing, and Edge Cases
 date: 2009-01-04 -0800
 comments: true
 disqus_identifier: 18570
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2009/01/03/fun-with-named-formats-string-parsing-and-edge-cases.aspx/"
 ---
+
 DOUBLE UPDATE! Be sure to [read Peli’s
 post](http://blog.dotnetwiki.org/2009/01/16/NamedFormatsPexTestimonium.aspx "Named Formats Pex")
 in which he explores all of these implementations using PEX. Apparently

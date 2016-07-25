@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Live Preview jQuery Plugin"
+title: Live Preview jQuery Plugin
 date: 2009-12-15 -0800
 comments: true
 disqus_identifier: 18667
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2009/12/14/live-preview-jquery-plugin.aspx/"
 ---
+
 Many web applications (such as this blog) allow users to enter HTML as a
 comment. For security reasons, the set of allowed tags is tightly
 constrained by logic running on the server. Because of this, it’s

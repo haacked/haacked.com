@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Lightweight Invisible CAPTCHA Validator Control"
+title: Lightweight Invisible CAPTCHA Validator Control
 date: 2006-09-26 -0800
 comments: true
 disqus_identifier: 17202
-categories: [personal,asp.net]
+categories:
+- personal
+- asp.net
+redirect_from:
+- "/archive/2006/09/25/lightweight_invisible_captcha_validator_control.aspx/"
+- "/archive/2006/09/26/Lightweight_Invisible_CAPTCHA_Validator_Control.aspx/"
 ---
+
 UPDATE: This code is now hosted in the Subkismet project on CodePlex.
 
 [![Source:

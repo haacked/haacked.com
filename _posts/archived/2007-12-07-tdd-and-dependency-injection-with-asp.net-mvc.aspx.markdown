@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "TDD and Dependency Injection with ASP.NET MVC"
+title: TDD and Dependency Injection with ASP.NET MVC
 date: 2007-12-07 -0800
 comments: true
 disqus_identifier: 18432
-categories: [asp.net,code,asp.net mvc,tdd]
+categories:
+- asp.net
+- code
+- asp.net mvc
+- tdd
+redirect_from: "/archive/2007/12/06/tdd-and-dependency-injection-with-asp.net-mvc.aspx/"
 ---
+
 One of the guiding principles in the design of the new [ASP.NET MVC
 Framework](http://asp.net/mvc "ASP.NET MVC Page") is enabling TDD (Test
 Driven Development) when building a web application. If you want to

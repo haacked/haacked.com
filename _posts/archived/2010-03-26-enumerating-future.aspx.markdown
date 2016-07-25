@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Querying the Future With Reactive Extensions"
+title: Querying the Future With Reactive Extensions
 date: 2010-03-26 -0800
 comments: true
 disqus_identifier: 18692
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2010/03/25/enumerating-future.aspx/"
 ---
+
 UPDATE: After an email exchange with Eric Meijer, I learned that I was a
 bit *imprecise* in this treatment. Or, as the colloquial term goes,
 “wrong”. :) I’ve changed the title to reflect more accurately what

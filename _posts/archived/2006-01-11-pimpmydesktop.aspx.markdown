@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Pimp My Desktop"
+title: Pimp My Desktop
 date: 2006-01-11 -0800
 comments: true
 disqus_identifier: 11475
-categories: [personal]
+categories:
+- personal
+redirect_from: "/archive/2006/01/10/pimpmydesktop.aspx/"
 ---
+
 ![Pimped Desktop](http://haacked.com/images/pimpeddesktop.jpg) Ryan
 Farley [gives the
 lowdown](http://ryanfarley.com/blog/archive/2006/01/11/14992.aspx?Pending=true)

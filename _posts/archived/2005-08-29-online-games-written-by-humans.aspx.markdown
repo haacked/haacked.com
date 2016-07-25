@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Online Games Are Written By Humans"
+title: Online Games Are Written By Humans
 date: 2005-08-29 -0800
 comments: true
 disqus_identifier: 9748
 categories: []
+redirect_from: "/archive/2005/08/28/online-games-written-by-humans.aspx/"
 ---
+
 Remember that online games are written by humans and thus are subject to
 the bugs and flaws that humans are so good at introducing.
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Roof Sex"
+title: Roof Sex
 date: 2005-07-11 -0800
 comments: true
 disqus_identifier: 8602
 categories: []
+redirect_from: "/archive/2005/07/10/roof-sex.aspx/"
 ---
+
 ![Chairs Having
 Sex](http://haacked.com/images/ChairsHavingSex.jpg)**Warning!** This
 video contains graphic scenes of home furniture having sex. Although the

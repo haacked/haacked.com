@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Anyone Need A .NET Open Source Rss Library"
+title: Anyone Need A .NET Open Source Rss Library
 date: 2006-07-10 -0800
 comments: true
 disqus_identifier: 13786
 categories: []
+redirect_from: "/archive/2006/07/09/AnyoneNeedA.NETOpenSourceRssLibrary.aspx/"
 ---
+
 I have been considering using a separate library for generating the RSS
 and Atom feeds in Subtext. My first thought was to use
 [RSS.NET](http://sourceforge.net/projects/rss-net "RSS.NET on SourceForge")

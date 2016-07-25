@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ugly Basketball"
+title: Ugly Basketball
 date: 2004-08-10 -0800
 comments: true
 disqus_identifier: 914
 categories: []
+redirect_from: "/archive/2004/08/09/ugly-basketball.aspx/"
 ---
+
 ![Basketball](/images/basketball.jpg)Basketball was ugly this morning.
 Lots of bickering and fouling. Dan, you didn't miss much man. Sometimes
 you just want to slap everyone upside the head and tell them to grow up

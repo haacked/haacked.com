@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Is The Null Coalescing Operator Thread Safe?"
+title: Is The Null Coalescing Operator Thread Safe?
 date: 2006-08-08 -0800
 comments: true
 disqus_identifier: 14770
 categories: []
+redirect_from: "/archive/2006/08/07/IsTheNullCoalescingOperatorThreadSafe.aspx/"
 ---
+
 In response to [my blog
 post](http://haacked.com/archive/2006/08/07/TinyTrickForViewStateBackedProperties.aspx "Tiny Trick")
 on ViewState backed properties and the Null Coalescing operator, [Scott

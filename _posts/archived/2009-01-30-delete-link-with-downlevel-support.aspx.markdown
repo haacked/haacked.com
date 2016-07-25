@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "jQuery Delete Link With Downlevel Support"
+title: jQuery Delete Link With Downlevel Support
 date: 2009-01-30 -0800
 comments: true
 disqus_identifier: 18583
-categories: [asp.net mvc,asp.net]
+categories:
+- asp.net mvc
+- asp.net
+redirect_from: "/archive/2009/01/29/delete-link-with-downlevel-support.aspx/"
 ---
+
 Earlier this morning, I posted on making a [simple jQuery delete
 link](http://haacked.com/archive/2009/01/30/simple-jquery-delete-link-for-asp.net-mvc.aspx#feedback "Simple jQuery Delete Link")
 which makes it easy to create a delete link that does a form post to a

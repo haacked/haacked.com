@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Shoe Cobblers Kids"
+title: The Shoe Cobblers Kids
 date: 2006-03-02 -0800
 comments: true
 disqus_identifier: 11940
 categories: []
+redirect_from: "/archive/2006/03/01/TheShoeCobblersKids.aspx/"
 ---
+
 ![Shoeless](http://haacked.com/images/shoeless.jpg) An old saying I’ve
 been using a lot lately is the old saw “A shoe cobbler’s kids go
 shoeless”. Basically, it points out how difficult it is to keep one’s

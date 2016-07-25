@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Going Into Design Debt"
+title: Going Into Design Debt
 date: 2005-09-24 -0800
 comments: true
 disqus_identifier: 10336
 categories: []
+redirect_from: "/archive/2005/09/23/GoingIntoDesignDebt.aspx/"
 ---
+
 Found [this
 post](http://epudd.blogspot.com/2005/09/mentally-sweating.html) in the
 trackbacks section of my post on [Mental

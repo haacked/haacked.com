@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "An Even Better TimedLock"
+title: An Even Better TimedLock
 date: 2004-05-13 -0800
 comments: true
 disqus_identifier: 436
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2004/05/12/an-even-better-timedlock.aspx/"
 ---
+
 Wow! After posting my update to the TimedLock class entitled [TimedLock
 Yet Again
 Revisited...](/archive/2004/05/12/timedlock_yet_again_revisited.aspx),

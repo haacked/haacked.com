@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Overriding a .svc Request With Routing"
+title: Overriding a .svc Request With Routing
 date: 2010-09-07 -0800
 comments: true
 disqus_identifier: 18720
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2010/09/06/routing-and-build-providers.aspx/"
 ---
+
 I was drawn to an [interesting question on
 StackOverflow](http://stackoverflow.com/questions/3662555/how-can-i-override-a-svc-file-in-my-routing-table "Override .svc file")
 recently about how to override a request for a non-existent .svc request

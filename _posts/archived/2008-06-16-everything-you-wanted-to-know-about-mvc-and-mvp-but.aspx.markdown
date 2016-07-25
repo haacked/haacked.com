@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Everything You Wanted To Know About MVC and MVP But Were Afraid To Ask"
+title: Everything You Wanted To Know About MVC and MVP But Were Afraid To Ask
 date: 2008-06-16 -0800
 comments: true
 disqus_identifier: 18494
-categories: [aspnet, aspnetmvc, code, patterns]
+categories:
+- aspnet
+- aspnetmvc
+- code
+- patterns
+redirect_from: "/archive/2008/06/15/everything-you-wanted-to-know-about-mvc-and-mvp-but.aspx/"
 ---
+
 Or, as my recent inbox tells me, you’re *not afraid* to ask. ;)
 
 A coworker recently asked for some good resources on getting up to speed on the Model View Controller (MVC) pattern. Around the same time, I received another email talking about how people are confused around the difference between MVC and the Model View Presenter (MVP) pattern.

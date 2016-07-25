@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "IronRuby With ASP.NET MVC Working Prototype"
+title: IronRuby With ASP.NET MVC Working Prototype
 date: 2008-07-20 -0800
 comments: true
 disqus_identifier: 18505
-categories: [asp.net mvc,code,dlr]
+categories:
+- asp.net mvc
+- code
+- dlr
+redirect_from: "/archive/2008/07/19/ironruby-aspnetmvc-prototype.aspx/"
 ---
+
 UPDATE 02.17.2009: I [posted about a newer version of this
 prototype](http://haacked.com/archive/2009/02/17/aspnetmvc-ironruby-with-filters.aspx "ASP.NET MVC with IronRuby and Filters")
 for ASP.NET MVC RC

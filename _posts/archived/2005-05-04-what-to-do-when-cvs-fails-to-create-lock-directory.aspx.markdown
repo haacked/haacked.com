@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "What To Do When CVS Fails to Create Lock Directory"
+title: What To Do When CVS Fails to Create Lock Directory
 date: 2005-05-04 -0800
 comments: true
 disqus_identifier: 2949
-categories: [code]
+categories:
+- code
+redirect_from: "/archive/2005/05/03/what-to-do-when-cvs-fails-to-create-lock-directory.aspx/"
 ---
+
 I'm posting this in the hopes that it helps someone out there with the
 same problem because I just KNOW how often you're adding files using
 CVS. It's the little spark that gets your juices flowing while sitting

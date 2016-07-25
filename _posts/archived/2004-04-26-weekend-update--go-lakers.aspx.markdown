@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Weekend Update - Go Lakers!"
+title: Weekend Update - Go Lakers!
 date: 2004-04-26 -0800
 comments: true
 disqus_identifier: 368
 categories: []
+redirect_from: "/archive/2004/04/25/weekend-update--go-lakers.aspx/"
 ---
+
 ![Geek Life](/images/Nerd.jpg) During our internet access drought after
 moving into our new place, I would check my wife's email for her at
 work. Since I had access to her account, I thought I would add my RSS

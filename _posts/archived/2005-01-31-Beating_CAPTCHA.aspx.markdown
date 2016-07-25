@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Beating CAPTCHA With A Neural Network"
+title: Beating CAPTCHA With A Neural Network
 date: 2005-01-31 -0800
 comments: true
 disqus_identifier: 2060
 categories: []
+redirect_from: "/archive/2005/01/30/Beating_CAPTCHA.aspx/"
 ---
+
 ![CAPTCHA](/images/captcha2.jpg)As if to punctuate my post entitled
 *[Image Based CAPTCHA is Fast Losing it’s
 Appeal](http://haacked.com/archive/2005/01/20/1967.aspx)*, [Casey

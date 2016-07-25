@@ -1,11 +1,18 @@
 ---
 layout: post
-title: "A Look Back at Mix 11"
+title: A Look Back at Mix 11
 date: 2011-04-16 -0800
 comments: true
 disqus_identifier: 18776
-categories: [code,open source,asp.net mvc,asp.net,nuget]
+categories:
+- code
+- open source
+- asp.net mvc
+- asp.net
+- nuget
+redirect_from: "/archive/2011/04/15/a-look-back-at-mix-11.aspx/"
 ---
+
 Another Spring approaches and once again, another Mix is over. This year
 at Mix, my team announced the release of the ASP.NET MVC 3 Tools Update
 at Mix, which I blogged about recently.

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Resharper Pet Peeve"
+title: Resharper Pet Peeve
 date: 2004-08-10 -0800
 comments: true
 disqus_identifier: 913
 categories: []
+redirect_from: "/archive/2004/08/09/resharper-pet-peeve.aspx/"
 ---
+
 One pet peeve I have is how the auto completion works regarding methods.
 I know this is nitpicky, but I'm wondering how other IDE's that try to
 help you handle this. Suppose I type out the following and am about to

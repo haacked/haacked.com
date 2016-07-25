@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "On Hiring Bloggers and Open Source Developers"
+title: On Hiring Bloggers and Open Source Developers
 date: 2007-01-27 -0800
 comments: true
 disqus_identifier: 18202
-categories: [blogging]
+categories:
+- blogging
+redirect_from: "/archive/2007/01/26/On_Hiring_Bloggers_and_Open_Source_Developers.aspx/"
 ---
+
 [![Thumbs
 Down](http://haacked.com/images/haacked_com/WindowsLiveWriter/OnHiringBloggersandOpenSourceDevelopers_1135/605479_thumbs_down_with_clipping_path_thumb%5B5%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/OnHiringBloggersandOpenSourceDevelopers_1135/605479_thumbs_down_with_clipping_path%5B7%5D.jpg)If
 you’ve read my blog for any length of time, you know I tend to go on and

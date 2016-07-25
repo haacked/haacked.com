@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "New Ajax Grid Scaffolding NuGet Package for MVC 3"
+title: New Ajax Grid Scaffolding NuGet Package for MVC 3
 date: 2011-08-17 -0800
 comments: true
 disqus_identifier: 18809
-categories: [asp.net mvc,asp.net,code]
+categories:
+- asp.net mvc
+- asp.net
+- code
+redirect_from: "/archive/2011/08/16/new-ajax-grid-scaffolding-nuget-package-for-mvc-3.aspx/"
 ---
+
 ***EDITOR’S NOTE:**Microsoft has an [amazing intern
 program](http://careers.microsoft.com/careers/en/us/collegeinternships.aspx).
 For a summer, these bright college students work with a feature crew

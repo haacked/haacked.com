@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Trillian Wikipedia Integration"
+title: Trillian Wikipedia Integration
 date: 2005-04-21 -0800
 comments: true
 disqus_identifier: 2764
-categories: [tech]
+categories:
+- tech
+redirect_from: "/archive/2005/04/20/trillian-wikipedia-integration.aspx/"
 ---
+
 I'm chatting with my buddy Micah who will ask me a question and then
 annoyingly answer it himself immediately after. For example, he asked me
 how FireFox picks up an icon from web pages. I replied that there's a

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Think I'm Just Too White And Nerdy"
+title: Think I'm Just Too White And Nerdy
 date: 2006-09-18 -0800
 comments: true
 disqus_identifier: 16798
 categories: []
+redirect_from: "/archive/2006/09/17/Think_Im_Just_Too_White_And_Nerdy.aspx/"
 ---
+
 UPDATE: [Via
 Dare](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=6d0d7279-44c6-4231-abad-240b34d6f8f0)
 I learned that the video was leaked to YouTube prior to its world

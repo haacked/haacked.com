@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Uploading a File (Or Files) With ASP.NET MVC"
+title: Uploading a File (Or Files) With ASP.NET MVC
 date: 2010-07-16 -0800
 comments: true
 disqus_identifier: 18712
-categories: [asp.net mvc,asp.net,code]
+categories:
+- asp.net mvc
+- asp.net
+- code
+redirect_from: "/archive/2010/07/15/uploading-files-with-aspnetmvc.aspx/"
 ---
+
 I wanted to confirm something about how to upload a file or set of files
 with ASP.NET MVC and the first search result for the phrase “uploading a
 file with asp.net mvc” is [Scott Hanselman’s blog

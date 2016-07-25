@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Take Control of Web Service Exceptions"
+title: Take Control of Web Service Exceptions
 date: 2005-11-02 -0800
 comments: true
 disqus_identifier: 11084
 categories: []
+redirect_from: "/archive/2005/11/01/TakeControlofWebServiceExceptions.aspx/"
 ---
+
 [Craig Andera posts a
 technique](http://pluralsight.com/blogs/craig/archive/2005/11/02/16155.aspx?Pending=true)
 for handling exceptions thrown by a webservice. He takes the approach of

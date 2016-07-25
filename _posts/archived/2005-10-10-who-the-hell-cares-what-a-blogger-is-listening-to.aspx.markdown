@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Who The Hell Cares What a Blogger Is Listening To?"
+title: Who The Hell Cares What a Blogger Is Listening To?
 date: 2005-10-10 -0800
 comments: true
 disqus_identifier: 10663
 categories: []
+redirect_from: "/archive/2005/10/09/who-the-hell-cares-what-a-blogger-is-listening-to.aspx/"
 ---
+
 Every now and then on various blogs (including mine), you’ll notice a
 little snippet at the bottom of a post that looks something like...
 

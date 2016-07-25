@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Upcoming Changes In Routing"
+title: Upcoming Changes In Routing
 date: 2008-04-10 -0800
 comments: true
 disqus_identifier: 18474
-categories: [asp.net,asp.net mvc,code]
+categories:
+- asp.net
+- asp.net mvc
+- code
+redirect_from: "/archive/2008/04/09/upcoming-changes-in-routing.aspx/"
 ---
+
 Made a few corrections on having default.aspx in the root due to a minor
 bug we just found. Isn’t preview code so much fun?
 
