@@ -6,7 +6,11 @@ comments: true
 categories: [personal management]
 ---
 
-I'm often amazed at the Sisyphean lengths people will go to try and prevent failure, yet prepare so little for its inevitability.
+I'm often amazed at the Sisyphean lengths people will go to try and prevent failure, yet prepare so little for its inevitability. Ed Catmull, president of Pixar, noted the following in his book Creativity Inc.
+
+> Do not fall for the illusion that by preventing errors you won't have errors to fix.  
+>  
+> The truth is the cost of preventing errors is often greater than the cost of fixing errors later.
 
 There's nothing wrong with attempting to prevent failures that are easily preventable. But such preventative measures have to be weighed against the friction and cost the measure introduces. Lost in this calculation is the consideration that much of the energy and effort that goes into prevention might be better spent in preparing to respond to failure and the repair process.
 
