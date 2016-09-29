@@ -6,7 +6,7 @@ comments: true
 categories: [github csharp dotnet scientist]
 ---
 
-In the beginning of the year, I [announced a .NET Port](http://haacked.com/archive/2016/01/20/scientist/) of GitHub's [Scientist library](http://githubengineering.com/scientist/). Since then I and several [contributors from the community](https://github.com/github/scientist.net/graphs/contributors) (kudos to them all!) have been hard at work getting this library to 1.0 status.
+In the beginning of the year I [announced a .NET Port](http://haacked.com/archive/2016/01/20/scientist/) of GitHub's [Scientist library](http://githubengineering.com/scientist/). Since then I and several [contributors from the community](https://github.com/github/scientist.net/graphs/contributors) (kudos to them all!) have been hard at work getting this library to 1.0 status.
 
 Today I released an official 1.0 version of Scientist.NET with a snazzy new logo from the GitHub creative team.
 
