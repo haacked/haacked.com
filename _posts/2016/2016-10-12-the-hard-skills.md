@@ -10,8 +10,8 @@ On Tuesday, November 8, 2016 I'll be [giving a talk entitled "Social Coding for 
 
 In anticipation of this talk, I [recorded a podcast for InfoQ](https://www.infoq.com/articles/engineering-culture-phil-haak) where I pointed out the irony of using the term "soft skills" to describe the track as these are often the most challenging skills we deal with day to day. They are indeed the hard skills of being a software developer.
 
-In the podcast, we also cover what it was like in the early days of ASP.NET MVC as we went from closed source to open source and how far Microsoft has come since then in terms of developing software in the open.
+In the podcast, we also cover what it was like in the early days of ASP.NET MVC as we went from closed source to open source and how far Microsoft has come since then in the open source space.
 
-We also talk about Atom and Electron and my transition into management at GitHub, which [is something I wrote about recently](http://haacked.com/archive/2016/09/06/work-at-github/) and the impetus for me to talk more about the hard skills of software engineering.
+Afterwards, we talked a bit about Atom and Electron and the community around those products. And to finish the podcast, we gabbed about my transition into management at GitHub, which [is something I wrote about recently](http://haacked.com/archive/2016/09/06/work-at-github/).
 
 So if you don't mind hearing my nasally voice, take a listen and let me know what you thought here.
