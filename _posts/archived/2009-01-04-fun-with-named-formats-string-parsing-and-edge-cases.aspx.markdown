@@ -6,8 +6,11 @@ comments: true
 disqus_identifier: 18570
 categories:
 - code
+- format
 redirect_from: "/archive/2009/01/03/fun-with-named-formats-string-parsing-and-edge-cases.aspx/"
 ---
+
+TRIPLE UPDATE! [C# now has string interpolation](https://msdn.microsoft.com/en-us/library/dn961160.aspx) which pretty much makes this post unnecessary and only interesting as a fun coding exercise.
 
 DOUBLE UPDATE! Be sure to [read Peli’s
 post](http://blog.dotnetwiki.org/2009/01/16/NamedFormatsPexTestimonium.aspx "Named Formats Pex")
@@ -362,9 +365,3 @@ Let me know if you find any situations or edge cases in which my version
 fails. I’ll probably be adding more test cases as I integrate this into
 Subtext. As far as I can tell, it handles normal formatting and brace
 escaping correctly.
-
-Tags: [format
-strings](http://technorati.com/tags/format+strings/ "format strings tag")
-, [named
-formats](http://technorati.com/tags/named+formats/ "named formats tag")
-
