@@ -7,7 +7,9 @@ disqus_identifier: 18526
 categories:
 - tdd
 - code
-redirect_from: "/archive/2008/08/22/introducing-subspec.aspx/"
+redirect_from:
+  - "/archive/2008/08/22/introducing-subspec.aspx/"
+  - "/archive/2008/08/24/introducing-subspec.aspx/"
 ---
 
 I admit, up until now I’ve largely ignored the
