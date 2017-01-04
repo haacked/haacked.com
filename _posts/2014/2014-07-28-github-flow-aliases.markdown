@@ -6,7 +6,7 @@ comments: true
 categories: [git github]
 ---
 
-_BONUS! I've added a [useful 14th Git Alias](http://haacked.com/archive/2015/06/29/git-migrate/): `git migrate`_
+_BONUS! I've added a [useful 14th Git Alias](http://haacked.com/archive/2015/06/29/git-migrate/): `git migrate` and now a 15th useful alias to [open the repository in the browser](http://haacked.com/archive/2017/01/04/git-alias-open-url/)_
 
 [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html) is a Git work flow with a simple branching model. The following diagram of this flow is from Zach Holman's talk on [How GitHub uses GitHub to build GitHub](http://zachholman.com/talk/how-github-uses-github-to-build-github/).
 
