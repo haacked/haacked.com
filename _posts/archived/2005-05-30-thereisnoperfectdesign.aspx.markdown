@@ -7,8 +7,8 @@ disqus_identifier: 3934
 categories:
 - code
 redirect_from:
-  - "/archive/2005/05/29/thereisnoperfectdesign.aspx/"
-  - "/archive/2005/05/30/thereisnoperfectdesign.aspx/"
+  - /archive/2005/05/29/thereisnoperfectdesign.aspx/
+  - /archive/2005/05/30/thereisnoperfectdesign.aspx/
 ---
 
 Many developers, especially those fresh out of college (though older developers are just as prone), fall into the trap of believing in an absolute concept of “the perfect design”. I hate to break such youthful idealism, but there’s just no such thing.
