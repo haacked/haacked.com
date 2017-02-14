@@ -45,14 +45,15 @@ character. Quoting can be done via the backslash character (what is commonly kno
 
 **These are all valid email addresses!**
 
--   \"Abc\\@def\"@example.com
--   \"Fred Bloggs\"@example.com
--   \"Joe\\\\Blow\"@example.com
--   \"Abc@def\"@example.com
--   customer/department=shipping@example.com
--   \$A12345@example.com
--   !def!xyz%abc@example.com
--   \_somename@example.com
+-   `Abc\@def@example.com`
+-   `Fred\ Bloggs@example.com`
+-   `Joe.\\Blow@example.com`
+-   `"Abc@def"@example.com`
+-   `"Fred Bloggs"@example.com`
+-   `customer/department=shipping@example.com`
+-   `$A12345@example.com`
+-   `!def!xyz%abc@example.com`
+-   `_somename@example.com`
 
 *Note: Gotta love the author for using my favorite example person, Joe Blow*.
 
