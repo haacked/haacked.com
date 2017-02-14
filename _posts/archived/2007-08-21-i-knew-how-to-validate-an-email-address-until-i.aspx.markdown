@@ -106,7 +106,7 @@ public void EmailTests(string email, bool expected)
 
 Before you call me a completely anal nitpicky numnut (you might be right, but wait anyways), I don’t think this level of detail in email validation is absolutely necessary. Most email providers have stricter rules than are required for email addresses. For example, Yahoo requires that an email start with a letter. There seems to be a standard stricter set of rules most email providers follow, but as far as I can tell it is undocumented.
 
-I think I’ll sign up for an email address like *phil.h\\@\\@ck@haacked.com* and start bitching at sites that require emails but don’t let me create an account with this new email address. Ooooooh I’m such a troublemaker.
+I think I’ll sign up for an email address like `phil.h\@\@ck@haacked.com` and start bitching at sites that require emails but don’t let me create an account with this new email address. Ooooooh I’m such a troublemaker.
 
 The lesson here is that it is healthy to challenge your preconceptions and assumptions once in a while and to never let me near an RFC.
 
