@@ -8,7 +8,6 @@ categories:
 - code
 redirect_from:
   - /archive/2005/05/29/thereisnoperfectdesign.aspx
-  - /archive/2005/05/30/thereisnoperfectdesign.aspx
   - /archive/2005/05/31/ThereIsNoPerfectDesign.aspx
 ---
 

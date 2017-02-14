@@ -5,7 +5,6 @@ title: ASP.NET Supervising Controller (Model View Presenter) From Schematic To U
 date: 2006-08-09 -0800
 comments: true
 redirect_from:
-- "/archive/2006/08/09/ASP.NETSupervisingControllerModelViewPresenterFromSchematicToUnitTestsToCode.aspx"
 - "/archive/2006/08/08/asp.netsupervisingcontrollermodelviewpresenterfromschematictounitteststocode.aspx/"
 disqus_identifier: 14779
 categories:
