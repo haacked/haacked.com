@@ -8,21 +8,16 @@ categories:
 - asp.net mvc
 - asp.net
 redirect_from:
-  - /archive/2009/03/01/aspnetmvc-changes-for-rc2.aspx
-  - /archive/2009/03/03/aspnetmvc-changes-for-rc2.aspx
+  - /archive/2009/03/01/aspnetmvc-changes-for-rc2.aspx/
+  - /archive/2009/03/03/aspnetmvc-changes-for-rc2.aspx/
 ---
 
-UPDATE: This post is outdated. ASP.NET MVC 1.0 [has been released
-already](http://haacked.com/archive/2009/03/18/aspnet-mvc-rtw.aspx "ASP.NET MVC 1.0 Release")!
+UPDATE: This post is outdated. ASP.NET MVC 1.0 [has been released already](http://haacked.com/archive/2009/03/18/aspnet-mvc-rtw.aspx "ASP.NET MVC 1.0 Release")!
 
-Today we’ve made the [**Release Candidate 2 for ASP.NET
-MVC**](http://go.microsoft.com/fwlink/?LinkId=144443 "ASP.NET MVC RC 2 Download Page")** **available
+Today we’ve made the [**Release Candidate 2 for ASP.NET MVC**](http://go.microsoft.com/fwlink/?LinkId=144443 "ASP.NET MVC RC 2 Download Page")** **available
 for download.
 
-This post will cover some of the changes with [ASP.NET
-MVC](http://asp.net/mvc "ASP.NET MVC Website") we made in response to
-internal and external feedback since our last [Release
-Candidate](http://haacked.com/archive/2009/01/27/aspnetmvc-release-candidate.aspx "ASP.NET MVC Release Candidate").
+This post will cover some of the changes with [ASP.NET MVC](http://asp.net/mvc "ASP.NET MVC Website") we made in response to internal and external feedback since our last [Release Candidate](http://haacked.com/archive/2009/01/27/aspnetmvc-release-candidate.aspx "ASP.NET MVC Release Candidate").
 
 Let me provide the quick and dirty summary, and then fill in the
 details.
@@ -98,12 +93,9 @@ Based on all *your* feedback from the first Release Candidate, as well
 as our own investigations and testing, we are confident that the Release
 Candidate 2 will be solid and lead to a strong RTM.
 
-In case you missed it above, here’s the **[link to the download
-page](http://go.microsoft.com/fwlink/?LinkId=144443 "Download Link")**.
+In case you missed it above, here’s the **[link to the download page](http://go.microsoft.com/fwlink/?LinkId=144443 "Download Link")**.
 You can find out what else has changed [in the RC 2 release
 notes](http://go.microsoft.com/fwlink/?LinkId=137662 "ASP.NET MVC RC 2 Release Notes").
 
-And before I forget, as usual, we published the **[source code and our
-MvcFutures assembly on
-CodePlex](http://aspnet.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=24142#ReleaseFiles "ASP.NET MVC CodePlex")**.
+And before I forget, as usual, we published the **[source code and our MvcFutures assembly on CodePlex](http://aspnet.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=24142#ReleaseFiles "ASP.NET MVC CodePlex")**.
 
