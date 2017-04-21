@@ -4,12 +4,11 @@ title: Custom Configuration Sections in 3 Easy Steps
 date: 2007-03-12 -0800
 comments: true
 disqus_identifier: 18236
-categories: []
+categories: [aspnet configuration]
 redirect_from: "/archive/2007/03/11/custom-configuration-sections-in-3-easy-steps.aspx/"
 ---
 
-Are you tired of seeing your configuration settings as an endless list
-of key value pairs?
+Are you tired of seeing your configuration settings as an endless list of key value pairs?
 
 ```xml
 <add key="key0" value="value0" />
@@ -27,16 +26,12 @@ Would you rather see something more like this?
   someOtherSetting="value" />
 ```
 
-Join the club. Not only is the first approach prone to typos
-(`AppSettings["tire"]` or `AppSettings["tier] `anyone?), too many of
-these things all bunched together can cause your eyes to glaze over. It
-is a lot easier to manage when settings are grouped in logical bunches.
+Join the club. Not only is the first approach prone to typos (`AppSettings["tire"]` or `AppSettings["tier] `anyone?), too many of
+these things all bunched together can cause your eyes to glaze over. It is a lot easier to manage when settings are grouped in logical bunches.
 
-A while back [Craig Andera](https://sites.google.com/site/craigandera/ "Craig Andera") solved this problem with the [Last Configuration Section Handler](https://sites.google.com/site/craigandera/craigs-stuff/clr-workings/the-last-configuration-section-handler-i-ll-ever-need "Last Configuration Section Handler") he’d ever need. This basically made it easy to specify a custom strongly
-typed class to represent a logical group of settings using XML Serialization. It led to a much cleaner configuration file.
+A while back [Craig Andera](https://sites.google.com/site/craigandera/ "Craig Andera") solved this problem with the [Last Configuration Section Handler](https://sites.google.com/site/craigandera/craigs-stuff/clr-workings/the-last-configuration-section-handler-i-ll-ever-need "Last Configuration Section Handler") he’d ever need. This basically made it easy to specify a custom strongly typed class to represent a logical group of settings using XML Serialization. It led to a much cleaner configuration file.
 
-But that was then and this is now. With ASP.NET 2.0, **there’s an even easier way** which I didn’t know about until [Jeff
-Atwood](http://codinghorror.com/blog/ "Jeff Atwood") recently turned me on to it.
+But that was then and this is now. With ASP.NET 2.0, **there’s an even easier way** which I didn’t know about until [Jeff Atwood](http://codinghorror.com/blog/ "Jeff Atwood") recently turned me on to it.
 
 So here is a quick run through in three easy steps.
 
@@ -114,6 +109,5 @@ Response.Write(title); //it works!!!
 
 What I covered is just a very brief overview to get you a taste of what is available in the Configuration API. I wrote more about configuration in the book I’m cowriting with [Jeff Atwood](http://codinghorror.com/blog/ "Jeff Atwood"), [Jon Galloway](http://weblogs.asp.net/jgalloway/ "Jon Galloway"), and [K. Scott Allen](http://odetocode.com/blogs/scott/default.aspx "K. Scott Allen").
 
-If you want to get a more comprehensive overview and the nitty gritty, I
-recommend reading [Unraveling the Mysteries of .NET 2.0
-Configuration](http://www.codeproject.com/dotnet/mysteriesofconfiguration.asp# ".NET 2.0 Configuration article on CodeProject") by Jon Rista.
+If you want to get a more comprehensive overview and the nitty gritty, I recommend reading [Unraveling the Mysteries of .NET 2.0
+Configuration](https://www.codeproject.com/articles/16466/unraveling-the-mysteries-of-net-2-0-configuration) by Jon Rista.
