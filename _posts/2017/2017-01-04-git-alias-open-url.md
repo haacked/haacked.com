@@ -14,7 +14,7 @@ But I digress. Typing in all those characters is a lot of work and I'm lazy and 
 
 ```
 [alias]
-  open = !explorer `git config remote.origin.url`
+  open = "!f() { REPO_URL=$(git config remote.origin.url); explorer ${REPO_URL%%.git}; }; f"
   browse = !git open
 ```
 
@@ -30,3 +30,5 @@ This alias makes a couple of assumptions.
 In the first case, if you're running a Mac, you probably want to use `open` instead of `explorer`. For Linux, I have no idea, but I assume the same will work.
 
 In the second case, if you're not using https, I can't help you. You might [try this approach](https://gist.github.com/igrigorik/6666860) instead.
+
+_Update 2017-05-09_ I updated the alias to truncate `.git` at the end.
