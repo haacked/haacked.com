@@ -10,7 +10,7 @@ One of my goals at GitHub is to make GitHub more approachable to developers. If 
 
 Today, we took one step towards that goal with the release of two major releases: [Git and GitHub integration in Atom and the new Desktop Beta](https://github.com/blog/2362-announcing-git-integration-for-atom-and-github-desktop-beta) rebuilt on Electron.
 
-<img src="https://cloud.githubusercontent.com/assets/19977/26121249/7e0607ba-3a28-11e7-838b-a5407e2ac222.png" width="600" title="Desktop sign-in page" />
+<img src="https://cloud.githubusercontent.com/assets/19977/26121249/7e0607ba-3a28-11e7-838b-a5407e2ac222.png" width="600" title="Desktop sign-in page" style="border: solid 1px" />
 
 For Desktop, our plan is to eventually replace the existing platform-specific clients with the new Electron based client. For now, you can run them side-by-side.
 
@@ -21,8 +21,8 @@ If you're interested in more details about our efforts, we wrote a pair of posts
 
 And before I forget, all of this is open source.
 
-* https://github.com/desktop/desktop
-* https://github.com/github/atom
+* [https://github.com/desktop/desktop](https://github.com/desktop/desktop)
+* [https://github.com/github/atom](https://github.com/github/atom)
 
 I hope you get involved!
 
