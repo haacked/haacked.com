@@ -10,6 +10,8 @@ One of my goals at GitHub is to make GitHub more approachable to developers. If 
 
 Today, we took one step towards that goal with the release of two major releases: [Git and GitHub integration in Atom and the new Desktop Beta](https://github.com/blog/2362-announcing-git-integration-for-atom-and-github-desktop-beta) rebuilt on Electron.
 
+For Desktop, our plan is to eventually replace the existing platform-specific clients with the new Electron based client. For now, you can run them side-by-side.
+
 If you're interested in more details about our efforts, we wrote a pair of posts in the GitHub Engineering blog.
 
 * [How Four Native Developers Wrote an Electron App](https://githubengineering.com/how-four-native-developers-wrote-an-electron-app/) - describes the benefits and pitfalls of taking native developers and having them build a desktop app using web technologies.
