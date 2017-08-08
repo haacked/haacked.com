@@ -23,9 +23,7 @@ One solution (and the one I use) is set up each virtual server to run Terminal S
 
 The setting for the Terminal Services port lives in the following registry key:
 
-`HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TerminalServer\WinStations\RDP-Tcp`{.registry
-.smallnote}
-
+`HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TerminalServer\WinStations\RDP-Tcp`
 Open up Regedit, find this key, and look for the the **PortNumber** value.
 
 ![PortNumber Setting](http://haacked.com/images/haacked_com/WindowsLiveWriter/RemoteDesktopOnANonStandardPort_1438D/TerminalServicesPortRegistrySetting8.png)
