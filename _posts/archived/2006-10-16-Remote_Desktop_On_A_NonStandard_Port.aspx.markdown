@@ -9,7 +9,7 @@ categories:
 redirect_from: "/archive/2006/10/15/Remote_Desktop_On_A_NonStandard_Port.aspx/"
 ---
 
-For a project I’m working on, we have an automated build server running
+For a project I worked on, we had an automated build server running
 [CruiseControl.NET](http://confluence.public.thoughtworks.org/display/CCNET/Welcome+to+CruiseControl.NET "CruiseControl.NET Continuous Integration Server") hosted in a virtual machine.  We did the same thing for Subtext (project [is dead](http://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/)). 
 
 Some of you may have multiple virtual servers running on the same machine.  Typically in such a setup (at least typically for me), each
