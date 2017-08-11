@@ -54,6 +54,8 @@ All you have to do is copy and paste [this `SystemController.cs` file](https://r
 
 Next, make sure there's a route that'll hit the `Index` action of the `SystemController`. If you have the default route that ASP.NET MVC project templates include present, you would visit this at _/system/index_.
 
+Be aware that if you accidentally deploy `SiteController`, it will only responds to local requests (requests from the hosting server itself) and not to public requests. You really don't want to expose this information to the public. That would be an open invitation to be hacked. You may like being Haacked, it's no fun to be hacked.
+
 And that's it.
 
 ### How's it work?
