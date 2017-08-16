@@ -18,7 +18,7 @@ Ah, the bad old days of the internet.
 
 Back then I could probably count the number of folks who read my blog with the fingers of one hand. Perhaps not even counting the thumb. It was just an outlet for me to share inside jokes with other friends who had their own blogs.
 
-I started this before I knew what a weblog or blog was. I wrote this with a bespoke artisanal classic ASP (Active Server Pages without the ".NET" part. We lived like savages back then.) site I built. It was terrible. No database. Just me writing HTML for every post. I let that blog die due to neglect and didn't start blogging again [until around 2004](http://haacked.com/archive/2004/02/03/the-new-digs.aspx/) with the very blog you're reading here.
+I started this before I knew what a weblog or blog was. I wrote this with a bespoke artisanal classic ASP (Active Server Pages without the ".NET" part. We lived like savages back then.) site I built. It was terrible. No database. Just me writing HTML for every post. I let that blog die due to neglect and didn't start blogging again [until around 2004](http://haacked.com/archive/2004/02/03/the-new-digs.aspx/).
 
 The new blog ran on Subtext, an open source ASP.NET blog engine I ported from an older .TEXT platform. It was a real labor of love. Four years ago, I switched to hosting by blog on [GitHub Pages with Jekyll](http://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/).
 
