@@ -3,7 +3,7 @@ layout: post
 title: "A Very Haacked 2013"
 date: 2013-12-31 -0800
 comments: true
-categories: [blogging,personal]
+categories: [blogging personal]
 ---
 
 Another year comes to an end and tradition demands that I write a recap for the year. But it doesn't require that I write a very good one.
@@ -30,7 +30,7 @@ Contribution graphs are not a great way to determine the impact you've had in a 
 
 Even so, I find them interesting to look at for some historical perspective. The gaps in a contribution graph tell as much a story as the areas that are filled in. For example, you can see when I go on vacation based on my graphs, though I'm not very good at staying away from the computer when I do.
 
-Here's two of my contribution graphs. The first one is what I see as it shows contributions to both public and private repositories. 
+Here's two of my contribution graphs. The first one is what I see as it shows contributions to both public and private repositories.
 
 ![Haacked Contribution Graph](https://f.cloud.github.com/assets/19977/1845464/4cac0688-758c-11e3-804c-5db77905ca39.png)
 
