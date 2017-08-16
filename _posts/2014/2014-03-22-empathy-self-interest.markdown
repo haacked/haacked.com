@@ -9,7 +9,7 @@ categories: [personal, empathy]
 If I had to pick only one trait I hope to instill in my children, it's empathy. It's on my mind because of [this beautiful post by Reg Braythwayt](http://braythwayt.com/2014/03/17/empathy.html).
 
 > Empathy is not seeing the world with your eyes from where someone else is standing, it’s seeing the world with their eyes, from their perspective, coloured with their hopes and fears, their life experience.
-
+> 
 > Empathy is putting yourself in someone else’s shoes and then overcoming your own thoughts of what you would do in their shoes and imagining what it feels like to be them in their shoes.
 
 You'll note the unnecessary "u" in "coloured". Reg is Canadian, but don't let that stop you from reading the whole post. It's brief but wonderful.
