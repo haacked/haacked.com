@@ -3,13 +3,13 @@ layout: post
 title: "Empathy In Your Best Interest"
 date: 2014-03-22 10:18 -0700
 comments: true
-categories: [personal, empathy]
+categories: [personal empathy]
 ---
 
 If I had to pick only one trait I hope to instill in my children, it's empathy. It's on my mind because of [this beautiful post by Reg Braythwayt](http://braythwayt.com/2014/03/17/empathy.html).
 
 > Empathy is not seeing the world with your eyes from where someone else is standing, it’s seeing the world with their eyes, from their perspective, coloured with their hopes and fears, their life experience.
-> 
+>
 > Empathy is putting yourself in someone else’s shoes and then overcoming your own thoughts of what you would do in their shoes and imagining what it feels like to be them in their shoes.
 
 You'll note the unnecessary "u" in "coloured". Reg is Canadian, but don't let that stop you from reading the whole post. It's brief but wonderful.
@@ -27,7 +27,7 @@ His mom, Lois, and dad then attempt to teach him about empathy.
 <dialog>
 <dt>Lois:</dt><dd>How would you feel if you were that poor woman whose quiche you salted?</dd>
 <dt>Reese:</dt><dd>…Fat?</dd>
-<dt>Hal:</dt><dd>Reese, do you know what empathy is?</dd> 
+<dt>Hal:</dt><dd>Reese, do you know what empathy is?</dd>
 <dt>Reese:</dt><dd>No.</dd>
 <dt>Hal:</dt><dd>Well, empathy is putting yourself in other people's shoes so you can feel what they do. If you hurt someone, empathy makes you hurt as well.</dd>
 <dt>Reese:</dt><dd>Then why would you want empathy?</dd>
@@ -55,7 +55,7 @@ Sometimes it's more subtle. For example, when a marginalized person speaks out a
 
 I ascribe this to a lack of empathy. People jump to a conclusion that ascribes the worst motives and demonize others who don't share the same worldview.
 
-Empathy makes you realize that everybody has their struggles in life and are just trying to get by. People spend their time concerned about their own well-being, not on negatively affecting yours. As a friend once told me, we're all just squirrels trying to get a nut in this world. 
+Empathy makes you realize that everybody has their struggles in life and are just trying to get by. People spend their time concerned about their own well-being, not on negatively affecting yours. As a friend once told me, we're all just squirrels trying to get a nut in this world.
 
 Spending a lot of time demonizing others who don't conform to your world view leads to a pretty unhealthy existence. This isn't to say that you must _agree_ with everyone. But that you recognize that the lives of others is not so black and white, much as yours isn't.
 
