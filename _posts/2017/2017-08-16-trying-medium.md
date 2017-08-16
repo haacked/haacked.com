@@ -44,7 +44,9 @@ That lead me to learn that if you import a blog post into Medium, it sets the or
 <link rel="canonical" href="http://haacked.com/archive/2017/08/16/the-moment/">
 ```
 
-The nice thing for me is that importing into Medium is really easy. Just visit https://medium.com/p/import and paste in the URL to the post you want to import. That's it!
+This alleviates my concerns about being in control of my blog. The canonical source is still haacked.com which is in a Git repository that is hosted on GitHub, but is cloned to my machine. If Medium and GitHub were to go down, I'd be sad and unemployed, but I'd have the free time available to move my blog to another host and keep it up at haacked.com.
+
+Importing into Medium is quick and easy. Visit https://medium.com/p/import and paste in the URL to the post you want to import. That's it!
 
 It plucks the contents of my post without of all the extra navigation and header/footer material like magic.
 
