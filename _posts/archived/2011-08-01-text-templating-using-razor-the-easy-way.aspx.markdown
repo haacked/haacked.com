@@ -24,7 +24,7 @@ For example, the [help documentation for
 NuGet.exe](http://docs.nuget.org/docs/reference/command-line-reference)
 is written using the [Markdown
 format](http://daringfireball.net/projects/markdown/) that is produced
-by NuGet.exe. NuGet.exe reflects over its own commands and and uses a
+by NuGet.exe. NuGet.exe reflects over its own commands and uses a
 Razor template to generate the properly formatted output.
 
 The check-in that enabled this caught my eye and prompted me to write
