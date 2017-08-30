@@ -58,5 +58,5 @@ That’s pretty easy, no?  Now you should have no problem managing your legions
 
 **Related Posts:**
 
--   [Connecting to Terminal Services When All Active Sessions are Used](http://haacked.com/archive/2005/10/13/Remote_Desktop_To_Console_Session.aspx "How to connect to the console session.")
--   [Mapping Drives via Remote Desktop](http://stevenharman.net/blog/archive/2006/10/22/Mapping_Drives_via_Remote_Desktop.aspx "Mapping Drives")
+-   [Connecting to Terminal Services When All Active Sessions are Used](http://haacked.com/archive/2005/10/13/remote_desktop_to_console_session.aspx/ "How to connect to the console session.")
+-   [Mapping Drives via Remote Desktop](https://blogs.msdn.microsoft.com/brendangrant/2009/02/17/the-most-useful-feature-of-remote-desktop-i-never-knew-about/ "Useful features of remote deskotp")
