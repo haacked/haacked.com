@@ -41,7 +41,7 @@ The Valve handbook addresses entertainment companies, but the ideas apply to any
 
 Even the handbook makes the mistake of mischaracterizing the nature of the work our military does. It assumes that the military gets the best results when folks just do what they're told.
 
-[Leaders such as David Marquet](https://www.youtube.com/watch?v=DLRH5J_93LQ), a former nuclear submarine commander, challenge this idea. He notes that when he stopped giving orders, his crew performed better.
+Leaders such as David Marquet, a former nuclear submarine commander, challenge this idea. He notes that when he stopped giving orders, [his crew performed better](https://www.youtube.com/watch?v=DLRH5J_93LQ).
 
 This is not a polemic against managers or management. Rather, this is an encouragement for a style of management that fosters intrinsic motivation.
 
