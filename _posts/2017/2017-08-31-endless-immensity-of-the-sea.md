@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Endless Immensity of the Sea"
-date: 2017-08-30 -0800 3:55 PM PDT
+date: 2017-08-30 -0800 11:22 AM PDT
 comments: true
 categories: [leadership management]
 ---
@@ -16,7 +16,7 @@ This English quote appears to be one of the rare cases [where a paraphrase has m
 
 ![Obligatory image of the sea](https://user-images.githubusercontent.com/19977/29899178-c2771a0a-8d9e-11e7-9168-52682a4b3e93.png)
 
-The quote encourages leaders to cultivate intrinsic motivation as a means of leading people rather than an approach built on authority and command.
+The quote encourages leaders to cultivate intrinsic motivation as a means of leading people rather than an approach built on authority and command. Surprisingly, Cartman, with his incessant [requests to respect his authority](https://www.youtube.com/watch?v=PaKjRMMU9HI), is not an exemplar of good leadership.
 
 It's easy to read this as a laud to leadership and a rejection of  management by contrast. As if management by necessity must be built on command and control. But I reject that line of thinking. Management and leadership address different needs and can be complementary.
 
@@ -43,4 +43,6 @@ This is not a polemic against managers or management. Rather, this is an encoura
 
 It's not easy. There's a lot of factors that hinder attempts at this style of leadership. All too often companies conflate hierarchy with structure and management with leadership. It's important to separate and understand these concepts and how to apply them. Especially when you're a small company reaching the point where you feel the need for more structure and management.
 
-In a follow-up post, I'll write more about this last point. In the meanwhile, as you build your next ship, I encourage you to focus on the longing that leads you to build it. What is endless immense sea in your work? Now share that with those around you.
+In a follow-up post, I'll write more about some of these points. I plan to cover what I mean when I say that leadership and management are complementary. I'll also cover what it means to conflate all these distinct concepts.
+
+In the meanwhile, as you build your next ship, I encourage you to focus on the longing that leads you to build it. What is endless immense sea in your work?
