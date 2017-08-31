@@ -31,7 +31,7 @@ control a large group of people from the top down, which is why military organiz
 intelligent, innovative, talented people on Earth, telling them to sit at a desk and do what they’re told obliterates
 99 percent of their value. We want innovators, and that means maintaining an environment where they’ll flourish.
 
-I anticipate some commenters will point out that in practice, Valve [might not live up to this ideal](http://www.develop-online.net/news/valve-s-perfect-hiring-hierarchy-has-hidden-management-clique-like-high-school/0115316). I don't know anything about the inner workings of Valve. With any human endeavor, there will be failures and successes even within a single company. Perhaps they do not live up to these ideals, but that doesn't change the value of the ideals themselves.
+I anticipate some commenters will point out that, in practice, Valve [might not live up to this ideal](http://www.develop-online.net/news/valve-s-perfect-hiring-hierarchy-has-hidden-management-clique-like-high-school/0115316). I don't know anything about the inner workings of Valve. With any human endeavor, there will be failures and successes even within a single company. Perhaps they do not live up to these ideals, but that doesn't change the value of the ideals themselves.
 
 The Valve handbook specifically addresses entertainment companies, but what they write applies to any company where the nature of the work is creative and intellectual in nature. Or put another way, it applies to any environment where you want your workers to be creative and intellectual.
 
