@@ -12,9 +12,7 @@ There's this quote about leadership that resonates with me.
 
 Most attribute it to the French author Antoine de Saint-Exupéry, but it's doubtful that he wrote these exact words. For one, he's French, so the words he wrote probably had a lot of àccênts and "le", "la", and "et" words in them.
 
-This English quote appears to be one of the rare cases [where a paraphrase has more impact than the original](https://quoteinvestigator.com/2015/08/25/sea/).
-
-But none of that diminishes the power of the quote.
+This English quote appears to be one of the rare cases [where a paraphrase has more impact than the original](https://quoteinvestigator.com/2015/08/25/sea/). None of that diminishes the power of the quote.
 
 ![Obligatory image of the sea](https://user-images.githubusercontent.com/19977/29899178-c2771a0a-8d9e-11e7-9168-52682a4b3e93.png)
 
@@ -40,3 +38,9 @@ The Valve handbook specifically addresses entertainment companies, but what they
 Even the handbook makes the mistake of mischaracterizing the nature of the work our military does. It assumes that the military gets the best results when folks just do what they're told.
 
 [Leaders such as David Marquet](https://www.youtube.com/watch?v=DLRH5J_93LQ), a former nuclear submarine commander, challenge this idea. He notes that when he stopped giving orders, his crew performed better.
+
+This is not a polemic against managers or management. Rather, this is an encouragement for a style of management that fosters intrinsic motivation.
+
+It's not easy. There's a lot of factors that hinder attempts at this style of leadership. All too often companies conflate hierarchy with structure and management with leadership. It's important to separate and understand these concepts and how to apply them. Especially when you're a small company reaching the point where you feel the need for more structure and management.
+
+In a follow-up post, I'll write more about this last point. In the meanwhile, as you build your next ship, I encourage you to focus on the longing that leads you to build it. What is endless immense sea in your work? Now share that with those around you.
