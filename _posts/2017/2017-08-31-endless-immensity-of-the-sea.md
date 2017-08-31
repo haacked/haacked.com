@@ -18,7 +18,11 @@ This English quote appears to be one of the rare cases [where a paraphrase has m
 
 The quote encourages leaders to cultivate intrinsic motivation as a means of leading people rather than an approach built on authority and command. Surprisingly, Cartman, with his incessant [requests to respect his authority](https://www.youtube.com/watch?v=PaKjRMMU9HI), is not an exemplar of good leadership.
 
-It's easy to read this as a laud to leadership and a rejection of  management by contrast. As if management by necessity must be built on command and control. But I reject that line of thinking. Management and leadership address different needs and can be complementary.
+If you question the value of intrinsic motivation, take a moment to watch this Dan Pink video. I've referenced it in the past, and I'll keep referencing it until every single one of you (or perhaps more than one of you) watch it!
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/u6XAPnuFjJc" frameborder="0" allowfullscreen></iframe>
+
+It's easy to read this quote as a laud to leadership and a rejection of  management by contrast. As if management by necessity must be built on command and control. But I reject that line of thinking. Management and leadership address different needs and can be complementary.
 
 To me, the quote contrasts leadership with a particular _style_ of management built on hierarchy and control. This is a style that is antithetical to both building ships and shipping software.
 
