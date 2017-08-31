@@ -41,7 +41,8 @@ But not too long ago, my wife [started a Medium blog](https://medium.com/@akumi)
 That lead me to learn that if you import a blog post into Medium, it sets the original post as [the canonical source](https://help.medium.com/hc/en-us/articles/217991468-SEO-and-duplicate-content) via a `link` tag. Here's an example of the `link` tag for a post I imported into Medium from haacked.com. This ensures that search engines aren't confused by multiple sources of content and sees your original blog as the ultimate authority.
 
 ```html
-<link rel="canonical" href="http://haacked.com/archive/2017/08/16/the-moment/">
+<link rel="canonical"
+  href="http://haacked.com/archive/2017/08/16/the-moment/">
 ```
 
 This alleviates my concerns about being in control of my blog. The canonical source is still haacked.com which is in a Git repository that is hosted on GitHub, but is cloned to my machine. If Medium and GitHub were to go down, I'd be sad and unemployed, but I'd have the free time available to move my blog to another host and keep it up at haacked.com.
