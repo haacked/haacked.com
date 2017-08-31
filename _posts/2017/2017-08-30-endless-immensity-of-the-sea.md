@@ -6,13 +6,42 @@ comments: true
 categories: [leadership management]
 ---
 
-One of my favorite quotes about leadership is attributed to the French author Antoine de Saint-Exupéry. One variation goes like this:
+There's this quote about leadership that resonates with me.
 
 > If you want to build a ship, don’t drum up people together to collect wood and don’t assign them tasks and work, but rather teach them to long for the endless immensity of the sea.
 
-It doesn't bother me that he probably never wrote this. It's most likely a [reformulation of a theme he wrote about](https://quoteinvestigator.com/2015/08/25/sea/). But that doesn't diminish the truth in the quote.
+Most attribute it to the French author Antoine de Saint-Exupéry, but it's doubtful that he wrote these exact words. For one, he's French, so the words he wrote probably had a lot of àccênts and "le", "la", and "et" words in them.
+
+This English quote appears to be one of the rare cases [where a paraphrase has more impact than the original](https://quoteinvestigator.com/2015/08/25/sea/).
+
+But none of that diminishes the power of the quote.
 
 ![Obligatory image of the sea](https://user-images.githubusercontent.com/19977/29899178-c2771a0a-8d9e-11e7-9168-52682a4b3e93.png)
+
+The quote encourages leaders to cultivate intrinsic motivation as a means of leading people rather than an approach built on authority and command.
+
+It's easy to read this as a laud to leadership and a rejection of  management by contrast. As if management by necessity must be built on command and control. But I reject that line of thinking. Management and leadership address different needs and can be complementary.
+
+To me, the quote contrasts leadership with a particular _style_ of management built on hierarchy and control. This is a style that is antithetical to both building ships and shipping software.
+
+The [Valve handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) covers this well.
+
+> Hierarchy is great for maintaining predictability and repeatability. It simplifies planning and makes it easier to
+control a large group of people from the top down, which is why military organizations rely on it so heavily.
+>
+> But when you’re an entertainment company that’s spent the last decade going out of its way to recruit the most
+intelligent, innovative, talented people on Earth, telling them to sit at a desk and do what they’re told obliterates
+99 percent of their value. We want innovators, and that means maintaining an environment where they’ll flourish.
+
+In anticipation of the commenters who will point out that in practice, Valve [might not live up to this ideal](http://www.develop-online.net/news/valve-s-perfect-hiring-hierarchy-has-hidden-management-clique-like-high-school/0115316), I will say in advance that I don't know anything about the inner workings of Valve. With any human endeavor, there will be failures and successes. Perhaps they do not live up to these ideals, but that doesn't change the value of the ideals themselves.
+
+The Valve handbook specifically addresses entertainment companies, but what they write applies to any company where the nature of the work is creative and intellectual in nature. Or put another way, it applies to any environment where you want your workers to be creative and intellectual.
+
+Even the handbook makes the mistake of mischaracterizing the nature of the work our military does. It assumes that the military gets the best results when folks just do what they're told.
+
+[Leaders such as David Marquet](https://www.youtube.com/watch?v=DLRH5J_93LQ), a former nuclear submarine commander, challenge this idea. He notes that when he stopped giving orders, his crew performed better.
+
+
 
 When I joined GitHub almost six years ago, we were the closest thing I've seen to the embodiment of this idea. The endless sea for us was the software community. We longed to make super-fans. To build a software tool and community that delighted our users. We still do. We didn't have managers to tell us what to do. We didn't think we needed them. And at fifty employees, we probably didn't.
 
@@ -20,17 +49,9 @@ But as we grew, we ran into many challenges. We reached the point where we decid
 
 This is not to say that small companies should avoid adding managers. Managers can be a solution. But add them with care. And do not conflate managers with management and leadership. A company that adds managers hasn't necessarily solved its management problems. Done poorly, it's exacerbated them. Too often management is introduced as if throwing a wrench at a broken machine and hope by chance it gets fixed. It requires careful attention and focus on the problems managers are meant to solve.
 
-Another trap is to conflate leadership and structure with hierarchy. That's at the heart of this quote. The [Valve handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) covers this well.
+Another trap is to conflate leadership and structure with hierarchy. That's at the heart of this quote.
 
-> Hierarchy is great for maintaining predictability and repeatability. It simplifies planning and makes it easier to
-control a large group of people from the top down, which is why military organizations rely on it so heavily.
-> But when you’re an entertainment company that’s spent the last decade going out of its way to recruit the most
-intelligent, innovative, talented people on Earth, telling them to sit at a desk and do what they’re told obliterates
-99 percent of their value. We want innovators, and that means maintaining an environment where they’ll flourish.
 
-The quote refers to "entertainment company" but I think it equally applies to any company where you have work that's primarily intellectual in nature. And the part about how hierarchy serves the military is itself [challenged by leaders such as David Marquet](https://www.youtube.com/watch?v=DLRH5J_93LQ), a former nuclear submarine commander, who notes that when he stopped giving orders his crew performed better.
-
-I've heard that perhaps Valve doesn't live up to the ideals put forth in their handbook. If so, that's a shame. Regardless, there's a lot of gold in the handbook.
 
 It's unfortunate, but I believe it's rare to see this kind of leadership. Successful managers are often lionized and then grow to believe the hype. Too much credit is given to the singular leaders and not the team that made it possible. We focus too much on individual performance despite all the evidence that [high functioning _teams_ matter more](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?mcubz=0).
 
