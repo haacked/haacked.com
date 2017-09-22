@@ -17,7 +17,7 @@ information](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=14d0413e-d0dc
 due to subscribing to multiple RSS feeds.
 
 ![Bronx Summer. Photographer,
-unknown.](http://haacked.com/images/haacked_com/WindowsLiveWriter/DrinkingfromtheFireHose_4FA/bronx-summer-open-fire-hydrant%5B1%5D_3.jpg)
+unknown.](https://haacked.com/images/haacked_com/WindowsLiveWriter/DrinkingfromtheFireHose_4FA/bronx-summer-open-fire-hydrant%5B1%5D_3.jpg)
 
 It’s entirely apropos (*just love that word ever since The Matrix*) as a
 description of starting as a new employee at Microsoft. My buddy Walter

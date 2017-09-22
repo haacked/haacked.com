@@ -16,12 +16,12 @@ have my MSDN subscription, I say this whole VPC licensing thing is a
 non-issue and quit whining about it. (*I joke, I joke!*).
 
 In a [recent
-post](http://haacked.com/archive/2006/10/01/Is_Backward_Compatibility_Holding_Microsoft_Back.aspx "Is Backwards Compatibility Holding MS Back?")
+post](https://haacked.com/archive/2006/10/01/Is_Backward_Compatibility_Holding_Microsoft_Back.aspx "Is Backwards Compatibility Holding MS Back?")
 I declared that Virtual PC is a suitable answer to the lack of backwards
 compatibility support for Visual Studio.NET 2003.  In the comments to
 that post [Ryan Smith](http://www.dynamicajax.com/ "Dynamic Ajax") asks
 [a
-great question](http://haacked.com/archive/2006/10/01/Is_Backward_Compatibility_Holding_Microsoft_Back.aspx#17551 "Licensing?") surrounding
+great question](https://haacked.com/archive/2006/10/01/Is_Backward_Compatibility_Holding_Microsoft_Back.aspx#17551 "Licensing?") surrounding
 the licensing issues involved.
 
 > Is Microsoft going to let me use my OEM license key from an ancient

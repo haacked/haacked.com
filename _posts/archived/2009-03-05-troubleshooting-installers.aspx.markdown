@@ -31,7 +31,7 @@ problems we’ve run into fall into those two buckets. I did not intend to
 give the impression that we saved installation testing for the last
 moment, because that’s just not true. We merely had a [last minute
 requirement
-change](http://haacked.com/archive/2009/03/03/aspnetmvc-changes-for-rc2.aspx "Changes for RC 2")
+change](https://haacked.com/archive/2009/03/03/aspnetmvc-changes-for-rc2.aspx "Changes for RC 2")
 for our installer. RC 2 was a response to that change, not to a bug
 found. Now back to the post. :)
 
@@ -104,7 +104,7 @@ the steps executed by the installer. When you open the MSI you will see
 all the tables used by the installer. The feature table is probably the
 most interesting since it shows everything that will be installed.
 
-[![clip\_image002](http://haacked.com/images/haacked_com/WindowsLiveWriter/TroubleshootingInstallations_1283F/clip_image002_thumb.jpg "clip_image002")](http://haacked.com/images/haacked_com/WindowsLiveWriter/TroubleshootingInstallations_1283F/clip_image002_2.jpg)
+[![clip\_image002](https://haacked.com/images/haacked_com/WindowsLiveWriter/TroubleshootingInstallations_1283F/clip_image002_thumb.jpg "clip_image002")](https://haacked.com/images/haacked_com/WindowsLiveWriter/TroubleshootingInstallations_1283F/clip_image002_2.jpg)
 
 Notice that by default, the Level attribute of all the features are set
 to 1. This means that the feature is enabled to be installed. We have
@@ -174,7 +174,7 @@ are a few things you can try:
     operation to fail when NGEN attempts to update invalid native
     images.
 -   Make sure that the .NET Runtime Optimization service is running
-    ![clip\_image004](http://haacked.com/images/haacked_com/WindowsLiveWriter/TroubleshootingInstallations_1283F/clip_image004_3.jpg "clip_image004")
+    ![clip\_image004](https://haacked.com/images/haacked_com/WindowsLiveWriter/TroubleshootingInstallations_1283F/clip_image004_3.jpg "clip_image004")
 
 Windows Event Viewer
 --------------------
@@ -199,12 +199,12 @@ below. Visual Studio will log warning events for unknown attributes it
 encounters in templates and usually just moves past them. These warnings
 can be safely ignored.
 
-[![clip\_image006](http://haacked.com/images/haacked_com/WindowsLiveWriter/TroubleshootingInstallations_1283F/clip_image006_thumb.jpg "clip_image006")](http://haacked.com/images/haacked_com/WindowsLiveWriter/TroubleshootingInstallations_1283F/clip_image006_2.jpg)
+[![clip\_image006](https://haacked.com/images/haacked_com/WindowsLiveWriter/TroubleshootingInstallations_1283F/clip_image006_thumb.jpg "clip_image006")](https://haacked.com/images/haacked_com/WindowsLiveWriter/TroubleshootingInstallations_1283F/clip_image006_2.jpg)
 
 But you may see other events that may cause the install to fail such as
 the example below:
 
-[![clip\_image008](http://haacked.com/images/haacked_com/WindowsLiveWriter/TroubleshootingInstallations_1283F/clip_image008_thumb.jpg "clip_image008")](http://haacked.com/images/haacked_com/WindowsLiveWriter/TroubleshootingInstallations_1283F/clip_image008_2.jpg)
+[![clip\_image008](https://haacked.com/images/haacked_com/WindowsLiveWriter/TroubleshootingInstallations_1283F/clip_image008_thumb.jpg "clip_image008")](https://haacked.com/images/haacked_com/WindowsLiveWriter/TroubleshootingInstallations_1283F/clip_image008_2.jpg)
 
 Solving this problem is easy enough; restart the Cryptographic Service
 and run the installer again.

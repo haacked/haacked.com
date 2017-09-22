@@ -14,7 +14,7 @@ OpenForce conference. After that, I will be up in Redmond for the next
 week.
 
 I wrote before that I would be speaking on a couple panels at [OpenForce
-conference](http://haacked.com/archive/2007/05/22/ill-be-speaking-about-open-source-at-openforce.aspx "Panels on OSS")
+conference](https://haacked.com/archive/2007/05/22/ill-be-speaking-about-open-source-at-openforce.aspx "Panels on OSS")
 talking about open source and .NET.
 
 If you're interested, the panels will be:

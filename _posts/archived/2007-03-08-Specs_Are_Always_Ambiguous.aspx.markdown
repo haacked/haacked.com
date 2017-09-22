@@ -16,7 +16,7 @@ the code is the spec.
 
 One last point, then I’m done with this topic of FizzBuzz and spec
 writing. In a [recent
-post](http://haacked.com/archive/2007/03/07/Why_Cant_Spec_Writers_Write.Specs.aspx "Why Can't Spec Writers Write Specs"),
+post](https://haacked.com/archive/2007/03/07/Why_Cant_Spec_Writers_Write.Specs.aspx "Why Can't Spec Writers Write Specs"),
 I mentioned *tongue firmly in cheek*that the [FizzBuzz
 “spec”](http://www.codinghorror.com/blog/archives/000781.html "Why Can't Programmers Program")
 has certain flaws. Now I admit I’m taking this out of context a bit to
@@ -95,6 +95,6 @@ was trying to say.
 
 Thanks to [Rob Conery](http://blog.wekeroad.com/ "Rob Conery") who was
 trying to make this [point in my
-comments](http://haacked.com/archive/2007/02/27/Why_Cant_Programmers._Read.aspx#35330 "Rob's Point"),
+comments](https://haacked.com/archive/2007/02/27/Why_Cant_Programmers._Read.aspx#35330 "Rob's Point"),
 but it was lost on everybody. ;)
 

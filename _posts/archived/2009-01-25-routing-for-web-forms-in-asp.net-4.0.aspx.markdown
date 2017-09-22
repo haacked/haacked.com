@@ -11,7 +11,7 @@ redirect_from: "/archive/2009/01/24/routing-for-web-forms-in-asp.net-4.0.aspx/"
 
 A while back on a lark, I posted a prototype demonstrating how one could
 use [Routing within Web
-Forms](http://haacked.com/archive/2008/03/11/using-routing-with-webforms.aspx "Routing for Web Forms").
+Forms](https://haacked.com/archive/2008/03/11/using-routing-with-webforms.aspx "Routing for Web Forms").
 This is something you can do today with ASP.NET 3.5 SP1, because of the
 work we did to separate Routing from ASP.NET MVC. I would have liked to
 include Web Form Routing as part of the Routing feature when we were

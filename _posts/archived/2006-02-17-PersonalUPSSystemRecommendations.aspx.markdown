@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/02/16/PersonalUPSSystemRecommendations.aspx/"
 ---
 
-![Power mast](http://haacked.com/images/PowerMast.jpg) Just had a short
+![Power mast](https://haacked.com/images/PowerMast.jpg) Just had a short
 power outtage at home, which sucks because I work here. I was taking a
 short break downstairs reading when the lights suddenly turned off. I
 had that feeling that must go through the head of the lone security guy

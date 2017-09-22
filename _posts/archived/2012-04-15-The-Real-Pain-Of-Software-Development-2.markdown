@@ -12,7 +12,7 @@ categories: [personal,tech,code]
 Around eight years ago I wrote a blog post about [Repetitive Strain
 Injury](http://en.wikipedia.org/wiki/Repetitive_strain_injury "Repetive Strain Injury on Wkipedia")
 entitled [The Real Pain of Software Development [part
-1]](http://haacked.com/archive/2004/06/09/The-Real-Pain-Of-Software-Development-1.aspx).
+1]](https://haacked.com/archive/2004/06/09/The-Real-Pain-Of-Software-Development-1.aspx).
 I soon learned the lesson that it’s a bad idea to have “Part 1” in any
 blog post unless you’ve already written part 2. But here I am, eight
 years later, finally getting around to part 2.
@@ -70,7 +70,7 @@ hands. Notice how heavy that is? A human head (without hair) [weighs
 around 8 to 12
 pounds](http://danny.oz.au/anthropology/notes/human-head-weight.html "Human Head Weight").
 And I’ve been told, some noggins are larger [than
-others](http://haacked.com/archive/2006/09/18/My_Sandwich_Compartment_ForeheadAgain.aspx).
+others](https://haacked.com/archive/2006/09/18/My_Sandwich_Compartment_ForeheadAgain.aspx).
 
 Ok, you can put it down now. Gently! A head is a pretty heavy thing,
 even when engaging your arms to lift it. Now consider the fact that you
@@ -80,7 +80,7 @@ So unless you’re built by this guy (photo from [The NFL’s Widest Necks
 article on
 Slate](http://www.slate.com/slideshows/sports/the-nfls-widest-necks.html "NFL's Widest Neck"))
 
-[![big-neck](http://haacked.com/images/haacked_com/WindowsLiveWriter/0f290b5866d0_11DF0/big-neck_thumb.png "big-neck")](http://haacked.com/images/haacked_com/WindowsLiveWriter/0f290b5866d0_11DF0/big-neck_2.png)
+[![big-neck](https://haacked.com/images/haacked_com/WindowsLiveWriter/0f290b5866d0_11DF0/big-neck_thumb.png "big-neck")](https://haacked.com/images/haacked_com/WindowsLiveWriter/0f290b5866d0_11DF0/big-neck_2.png)
 
 Holding your head up all day can be a literal pain in the neck. The
 trick, of course, is to balance the head well so you’re neck isn’t

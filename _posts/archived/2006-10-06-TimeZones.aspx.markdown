@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/10/05/TimeZones.aspx/"
 ---
 
-[![TimeZones](http://haacked.com/images/haacked_com/WindowsLiveWriter/TimeZones_105BD/timezone_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/TimeZones_105BD/timezone2.jpg)
+[![TimeZones](https://haacked.com/images/haacked_com/WindowsLiveWriter/TimeZones_105BD/timezone_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/TimeZones_105BD/timezone2.jpg)
 Right now, there is no easy way to convert a time from one arbitrary
 timezone to another arbitrary timezone in .NET.  Certainly you can
 convert from UTC to the local system time, or from the local system time

@@ -31,18 +31,18 @@ Features dialog with ASP.NET MVC 3 RTM installed.
 
 **BEFORE**
 
-[![mvc3-installed](http://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-installed_thumb_1.png "mvc3-installed")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-installed_4.png)
+[![mvc3-installed](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-installed_thumb_1.png "mvc3-installed")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-installed_4.png)
 
 And here’s one with the Tools Update installed.
 
 **AFTER**
 
-[![mvc3-update-installed](http://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-update-installed_thumb.png "mvc3-update-installed")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-update-installed_2.png)
+[![mvc3-update-installed](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-update-installed_thumb.png "mvc3-update-installed")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-update-installed_2.png)
 
 Did you see what changed? If not, I’ll help you.
-![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/wlEmoticon-smile_2.png)
 
-[![mvc3-update-installed-highlighted](http://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-update-installed-highlighted_thumb_1.png "mvc3-update-installed-highlighted")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-update-installed-highlighted_4.png)
+[![mvc3-update-installed-highlighted](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-update-installed-highlighted_thumb_1.png "mvc3-update-installed-highlighted")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-update-installed-highlighted_4.png)
 
 What’s new in this release?
 ---------------------------
@@ -83,7 +83,7 @@ NuGet 1.2 Included
 ------------------
 
 Around 12 days ago, we [released NuGet
-1.2](http://haacked.com/archive/2011/03/30/nuget-1-2-released.aspx "NuGet 1.2").
+1.2](https://haacked.com/archive/2011/03/30/nuget-1-2-released.aspx "NuGet 1.2").
 If you don’t already have NuGet 1.2 installed, ASP.NET MVC 3 Tools
 Update will install it for you. In fact, it requires it because of the
 pre-installed NuGet packages feature I mentioned earlier. When you

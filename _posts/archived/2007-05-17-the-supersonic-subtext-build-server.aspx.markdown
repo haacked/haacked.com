@@ -18,7 +18,7 @@ crap hits the fan, make lemonade”? Or something like that.
 
 So in this *tragedy becomes triumph* story, the bricking of my tiny
 little home [built build
-server](http://haacked.com/archive/2007/04/24/the-death-of-the-subtext-build-server.aspx "Death of the Subtext Build Server")
+server](https://haacked.com/archive/2007/04/24/the-death-of-the-subtext-build-server.aspx "Death of the Subtext Build Server")
 caused me to start thinking of a more permanent solution. In steps [Eric
 Kemp](http://monk.thelonio.us/Default.aspx "monk.thelonio.us"), [Rob
 Conery’s](http://blog.wekeroad.com/ "Rob Conery’s Blog") right hand man

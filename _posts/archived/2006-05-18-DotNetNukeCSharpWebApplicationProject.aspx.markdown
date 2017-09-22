@@ -67,7 +67,7 @@ a challenge (and since I may decide to add a custom page for some reason
 later), I chose to create a C\# project as shown in the screenshot.
 
 ![New Web Application Project
-Dialog](http://haacked.com/images/NewWebApplicationProject.gif)
+Dialog](https://haacked.com/images/NewWebApplicationProject.gif)
 
 As per my usual process, I created a folder named *ExternalDependencies*
 in the project and copied all the DNN assemblies from the Installation
@@ -76,14 +76,14 @@ just the way I roll). To add those assemblies as assembly references, I
 right-clicked the project, selected *Add Reference*, and then selected
 all the assemblies in that folder.
 
-![Add Reference Dialog](http://haacked.com/images/AddDnnReferences.gif)
+![Add Reference Dialog](https://haacked.com/images/AddDnnReferences.gif)
 
 The next step was to add the special `App_GlobalResources` folder to the
 project by simply right clicking on the project and selecting *Add* |
 *Add ASP.NET Folder* | *App\_GlobalResources*.
 
 ![Adding Global Resources Context
-Menu](http://haacked.com/images/AddGlobalResourcesFolder.gif)
+Menu](https://haacked.com/images/AddGlobalResourcesFolder.gif)
 
 After copying the contents of *App\_GlobalResources* from the
 installation distribution into that folder, I copied all the other
@@ -127,7 +127,7 @@ have a *BuildSupport* project with this approach.
 ### Download
 
 To save you some time I am including the barebone solution and project
-[here](http://haacked.com.nyud.net:8080/code/DNN_WebApplicationProject.zip "Download a barebone solution")
+[here](https://haacked.com.nyud.net:8080/code/DNN_WebApplicationProject.zip "Download a barebone solution")
 based on the DNN 4.0.3 distribution.
 
 Keep in mind that this is a “pre-install” project meaning that after you

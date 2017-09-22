@@ -12,7 +12,7 @@ redirect_from: "/archive/2011/01/08/grouping-routes-part-2.aspx/"
 ---
 
 In [part 1 of this
-series](http://haacked.com/archive/2010/12/02/grouping-routes-part-1.aspx "Grouping Routes"),
+series](https://haacked.com/archive/2010/12/02/grouping-routes-part-1.aspx "Grouping Routes"),
 we looked at the scenario for grouping routes and how we can implement
 matching incoming requests with a grouped set of routes.
 
@@ -32,7 +32,7 @@ URL.
 Interestingly enough, in this case, if you don’t use named routes when
 using URL generation, everything works just fine. However, since I
 [heartily recommend using named routes all the
-time](http://haacked.com/archive/2010/11/21/named-routes-to-the-rescue.aspx "Named Routes to the rescue"),
+time](https://haacked.com/archive/2010/11/21/named-routes-to-the-rescue.aspx "Named Routes to the rescue"),
 I should cover that situation.
 
 So what we need to do here is supply two route names during URL
@@ -74,7 +74,7 @@ public override VirtualPathData GetVirtualPath(RequestContext
 The code grabs the route name for the child route from the supplied
 route values. Notice that I’m using an extension method I wrote in my
 [last blog
-post](http://haacked.com/archive/2010/11/28/getting-the-route-name-for-a-route.aspx "Get the route name for a route").
+post](https://haacked.com/archive/2010/11/28/getting-the-route-name-for-a-route.aspx "Get the route name for a route").
 
 The block of code after the highlighted portion rewrites the virtual
 path back to the *full* virtual path for the parent *GroupRoute*. This

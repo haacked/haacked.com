@@ -15,15 +15,15 @@ This is the third post in my series ASP.NET MVC 2 Beta and its new
 features.
 
 1.  [ASP.NET MVC 2 Beta
-    Released](http://haacked.com/archive/2009/11/17/asp.net-mvc-2-beta-released.aspx "Release Announcement")
+    Released](https://haacked.com/archive/2009/11/17/asp.net-mvc-2-beta-released.aspx "Release Announcement")
     (Release Announcement)
 2.  [Html.RenderAction and
-    Html.Action](http://haacked.com/archive/2009/11/18/aspnetmvc2-render-action.aspx "Html.RenderAction and Html.Action")
+    Html.Action](https://haacked.com/archive/2009/11/18/aspnetmvc2-render-action.aspx "Html.RenderAction and Html.Action")
 3.  **ASP.NET MVC 2 Custom Validation**
 
 In this post I will cover validation.
 
-[![storage.canoe](http://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2CustomValidationAttributeWith_13136/storage.canoe_3.jpg "storage.canoe")](http://en.wikipedia.org/wiki/Stuart_Smalley "Stuart Smalley on Wikipedia")
+[![storage.canoe](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2CustomValidationAttributeWith_13136/storage.canoe_3.jpg "storage.canoe")](http://en.wikipedia.org/wiki/Stuart_Smalley "Stuart Smalley on Wikipedia")
 No, not that kind of validation, though I do think you’re good enough,
 you’re smart enough, and doggone it, people like you.
 
@@ -130,7 +130,7 @@ public class HomeController : Controller {
 We haven’t enabled client validation yet, but let’s see what happens
 when we view this page and try to submit some values.
 
-![price-invalid](http://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2CustomValidationAttributeWith_13136/price-invalid_3.png "price-invalid")
+![price-invalid](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2CustomValidationAttributeWith_13136/price-invalid_3.png "price-invalid")
 
 As expected, it posts the form to the server and we see the error
 messages.
@@ -345,8 +345,8 @@ And before I forget, here’s a [**demo
 application**](http://code.haacked.com/mvc-2/CustomValidationAttributeDemo.zip "Custom Validation Demo")
 demonstrating the attribute described in this post.
 
-Tags: [aspnetmvc](http://haacked.com/tags/aspnetmvc/default.aspx),
-[validation](http://haacked.com/tags/validation/default.aspx), [client
-validation](http://haacked.com/tags/client+validation/default.aspx),
-[asp.net](http://haacked.com/tags/asp.net/default.aspx)
+Tags: [aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
+[validation](https://haacked.com/tags/validation/default.aspx), [client
+validation](https://haacked.com/tags/client+validation/default.aspx),
+[asp.net](https://haacked.com/tags/asp.net/default.aspx)
 

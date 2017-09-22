@@ -53,7 +53,7 @@ generating interest and contributions from the community at large.
 In general, I try to contribute to Open Source projects when I can. I
 have contributed a tiny bit of money and some documentation and code to
 [RSS Bandit](http://www.rssbandit.org/ "RSS Bandit"), I [bought a domain
-name](http://haacked.com/archive/2006/06/05/IntroducingMBUnit.com.aspx "Introducing MbUnit.com")
+name](https://haacked.com/archive/2006/06/05/IntroducingMBUnit.com.aspx "Introducing MbUnit.com")
 for [MbUnit](http://mbunit.com/ "MbUnit"), and of course I contribute to
 [Subtext](http://subtextproject.com/ "Subtext"). But I realized today
 that I am quite haphazard in how I contribute to useful open source

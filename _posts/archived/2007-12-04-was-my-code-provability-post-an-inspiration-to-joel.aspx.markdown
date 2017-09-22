@@ -11,7 +11,7 @@ redirect_from: "/archive/2007/12/03/was-my-code-provability-post-an-inspiration-
 ---
 
 *![Brazil
-Jersey](http://haacked.com/images/haacked_com/WindowsLiveWriter/DidJoelReadMyPostOnCodeProvability_211/BrazilJersey_3.jpg)
+Jersey](https://haacked.com/images/haacked_com/WindowsLiveWriter/DidJoelReadMyPostOnCodeProvability_211/BrazilJersey_3.jpg)
 Note that in the same vein as Pele, Ronaldinho and Ronaldo, Joel has
 reach that Brazillian Soccer player level of stardom in the geek
 community and can pretty much go by just his first name. Admit it, you
@@ -33,7 +33,7 @@ provability...
 > information necessary to generate the program!
 
 Hey, that sounds familiar! By coincidence, [I wrote the
-following](http://haacked.com/archive/2007/11/16/what-exactly-are-you-trying-to-prove.aspx "What exactly are you trying to prove")
+following](https://haacked.com/archive/2007/11/16/what-exactly-are-you-trying-to-prove.aspx "What exactly are you trying to prove")
 on November 16^th^,12 days prior to Joel’s talk...
 
 > The key here is that the postulate is an unambiguous specification of

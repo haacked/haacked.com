@@ -9,7 +9,7 @@ redirect_from: "/archive/2004/11/17/watch-out-for-the-evil-thread-abort.aspx/"
 ---
 
 Yesterday I posted a little
-[quiz](http://haacked.com/archive/2004/11/17/quiz-what-is-wrong-with-this-code.aspx "What is wrong with this code?")
+[quiz](https://haacked.com/archive/2004/11/17/quiz-what-is-wrong-with-this-code.aspx "What is wrong with this code?")
 with an example of an `HttpHandler` implemented as an `ASHX` file.
 
 [Brad Wilson](http://www.dotnetdevs.com/ "Brad's Blog") obviously knew
@@ -24,8 +24,8 @@ will make a call to `HttpResponse.End()`.
 
 That method in turn calls `Thread.CurrentThread.Abort()`. Oh the
 depravity! [Once
-again](http://haacked.com/archive/2004/11/13/the-depravity-of-thread-abort.aspx "The Depravity of Thread.Abort"),
-[Thread.Abort](http://haacked.com/archive/2004/11/12/how-to-stop-a-thread.aspx "How to Stop a Thread in .NET")
+again](https://haacked.com/archive/2004/11/13/the-depravity-of-thread-abort.aspx "The Depravity of Thread.Abort"),
+[Thread.Abort](https://haacked.com/archive/2004/11/12/how-to-stop-a-thread.aspx "How to Stop a Thread in .NET")
 [rears](http://www.interact-sw.co.uk/iangblog/2004/11/12/cancellation "How to stop a Thread in .NET")
 its ugly head.
 

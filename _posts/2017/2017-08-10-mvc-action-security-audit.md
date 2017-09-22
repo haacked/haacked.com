@@ -20,7 +20,7 @@ I'm not ready to share the full code for that project, but I plan to share some 
 
 ### The Problem
 
-You care about your users. If not, at least pretend to do so. With that in mind, you want to protect them from potential [Cross Site Request Forgery attacks](http://haacked.com/archive/2009/04/02/anatomy-of-csrf-attack.aspx/). ASP.NET MVC includes helpers for this purpose, but it's up to you to apply them.
+You care about your users. If not, at least pretend to do so. With that in mind, you want to protect them from potential [Cross Site Request Forgery attacks](https://haacked.com/archive/2009/04/02/anatomy-of-csrf-attack.aspx/). ASP.NET MVC includes helpers for this purpose, but it's up to you to apply them.
 
 By way of review, there are two steps to this. The first step is to update the view and add the anti-forgery hidden input to your HTML form via the `Html.AntiForgeryToken()` method. The second step is to validate that token in the action that receives the form post. Do this by decorating that action method with the   [`[ValidateAntiForgeryToken]`](https://msdn.microsoft.com/en-us/library/system.web.mvc.validateantiforgerytokenattribute.aspx) attribute.
 

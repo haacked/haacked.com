@@ -7,7 +7,7 @@ comments: true
 categories: [aspnet]
 ---
 
-This post is sort of a continuation of my post on [Microsoft's New Running Shoes](http://haacked.com/archive/2014/05/17/microsofts-new-running-shoes/).
+This post is sort of a continuation of my post on [Microsoft's New Running Shoes](https://haacked.com/archive/2014/05/17/microsofts-new-running-shoes/).
 
 ## The Importance of Backwards Compatibility
 
@@ -21,7 +21,7 @@ I've been there. I've written applications for friends that I hope I never have 
 
 ## Backwards Compatibility is a Tax
 
-But there's another side to the backwards compatibility story. All of those benefits I mentioned have a cost. Backwards compatibility is a tax that creates significant drag on a team's agility and its ability to innovate. A long time ago I wrote a post that suggested this [blind adherence to backwards compatibility was holding Microsoft back](http://haacked.com/archive/2006/10/01/Is_Backward_Compatibility_Holding_Microsoft_Back.aspx/).
+But there's another side to the backwards compatibility story. All of those benefits I mentioned have a cost. Backwards compatibility is a tax that creates significant drag on a team's agility and its ability to innovate. A long time ago I wrote a post that suggested this [blind adherence to backwards compatibility was holding Microsoft back](https://haacked.com/archive/2006/10/01/Is_Backward_Compatibility_Holding_Microsoft_Back.aspx/).
 
 Wait, so now I've argued both for and against backwards compatibility. Does it sound like I want to have it both ways? Well of course I do! But good design is a series of trade-offs and good execution is knowing when to make one trade-off vs the other. Nobody said it would be easy and straightforward to compete in the software industry and give users what they need.
 
@@ -41,7 +41,7 @@ Around this time, my manager, [Scott Hunter](https://twitter.com/coolcsh) (heret
 
 ![Don Quixote charging the windmills by Dave Winer CC BY-SA 2.0](https://cloud.githubusercontent.com/assets/19977/3078128/f3f0f02c-e45c-11e3-9802-10f188c63934.jpg)
 
-But the world changed around Microsoft. Node.js and many other modern web frameworks, unencumbered by years of compatibility drag, exploded on the scene. These frameworks felt fresh and lightweight. Meanwhile, as I [mentioned in my last post](http://haacked.com/archive/2014/05/17/microsofts-new-running-shoes/), Azure's business model created new incentives.
+But the world changed around Microsoft. Node.js and many other modern web frameworks, unencumbered by years of compatibility drag, exploded on the scene. These frameworks felt fresh and lightweight. Meanwhile, as I [mentioned in my last post](https://haacked.com/archive/2014/05/17/microsofts-new-running-shoes/), Azure's business model created new incentives.
 
 > Azure provides an environment that is not limited to hosting .NET web applications. Azure makes money whether you host ASP.NET, NodeJs, or whatever. This is analogous to how the release of Office for iPad is a sign that Office will no longer help prop up Windows. Windows must live or die on its own merits.
 

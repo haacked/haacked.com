@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/09/30/Is_Backward_Compatibility_Holding_Microsoft_
 ---
 
 [![Atlas With The Weight Of The
-Codebase](http://haacked.com/images/haacked_com/WindowsLiveWriter/IsBackwardCompatibilityHoldingMicrosoftB_ECEC/602762_a_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/IsBackwardCompatibilityHoldingMicrosoftB_ECEC/602762_a2.jpg)
+Codebase](https://haacked.com/images/haacked_com/WindowsLiveWriter/IsBackwardCompatibilityHoldingMicrosoftB_ECEC/602762_a_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/IsBackwardCompatibilityHoldingMicrosoftB_ECEC/602762_a2.jpg)
 I read [this article
 recently](http://www.informationweek.com/news/showArticle.jhtml?articleID=192501131&pgno=1&queryText= "Windows After Vista Demands Radical Rethinking")
 that describes the mind frying complexity of the Windows development
@@ -105,6 +105,6 @@ operating system may not be the best answer we could hope for, but I
 think it’s good enough and should hopefully free Microsoft up to really
 take Windows to the next level.  **It may cause some difficulties, but
 there’s no easy path to paying off the immense [design
-debt](http://haacked.com/archive/2005/09/24/GoingIntoDesignDebt.aspx "Going Into Design Debt")
+debt](https://haacked.com/archive/2005/09/24/GoingIntoDesignDebt.aspx "Going Into Design Debt")
 that Microsoft has accrued with Windows.**
 

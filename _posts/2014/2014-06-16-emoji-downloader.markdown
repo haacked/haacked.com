@@ -6,7 +6,7 @@ comments: true
 categories: [github emoji octokit]
 ---
 
-I ![love](https://github.global.ssl.fastly.net/images/icons/emoji/heart.png) emojis. Recently, I had the fun task to add emoji auto completion to the [latest GitHub for Windows release](http://haacked.com/archive/2014/06/09/ghfw-2/), among other contributions.
+I ![love](https://github.global.ssl.fastly.net/images/icons/emoji/heart.png) emojis. Recently, I had the fun task to add emoji auto completion to the [latest GitHub for Windows release](https://haacked.com/archive/2014/06/09/ghfw-2/), among other contributions.
 
 In this post, I want to walk through how to use [Octokit.NET](http://octokit.github.io/) to download all the emojis that GitHub supports.
 
@@ -146,5 +146,5 @@ And with that, you'll have 887 (as of right now) emoji png files downloaded to d
 
 ## Other Octokit.NET blog posts
 
-* [Introducing Octokit.NET](http://haacked.com/archive/2013/10/30/introducing-octokit-net.aspx/)
-* [Use Octokit.net to authenticate your app with GitHub](http://haacked.com/archive/2014/04/24/octokit-oauth/)
+* [Introducing Octokit.NET](https://haacked.com/archive/2013/10/30/introducing-octokit-net.aspx/)
+* [Use Octokit.net to authenticate your app with GitHub](https://haacked.com/archive/2014/04/24/octokit-oauth/)

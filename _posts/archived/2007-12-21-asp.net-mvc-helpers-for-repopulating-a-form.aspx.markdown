@@ -241,7 +241,7 @@ versions of the framework, I hope we can make some of these common
 scenarios more streamlined.
 
 And before I forget, I have a **[simple solution for
-download](http://haacked.com/code/TempDataDemo.zip "TempData Demo Solution")**
+download](https://haacked.com/code/TempDataDemo.zip "TempData Demo Solution")**
 that includes full source code for the extension methods I wrote as well
 as a trivially simple application that demonstrates using this code.
 

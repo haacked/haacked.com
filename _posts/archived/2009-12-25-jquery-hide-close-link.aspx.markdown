@@ -17,7 +17,7 @@ as watching Basketball, hanging out with the family and eating our
 traditional Alaskan king crab Christmas dinner. But of course it
 wouldn’t be a complete day without writing a tiny bit of code!
 
-[![code](http://haacked.com/images/haacked_com/WindowsLiveWriter/jQueryHideCloseButton_C334/code_3.jpg "code")](http://www.sxc.hu/photo/58511 "the source by befresh on sxc.hu")
+[![code](https://haacked.com/images/haacked_com/WindowsLiveWriter/jQueryHideCloseButton_C334/code_3.jpg "code")](http://www.sxc.hu/photo/58511 "the source by befresh on sxc.hu")
 
 Today I’ve been working on improving the UI here and there in Subtext.
 One common task I run into over and over is using an anchor tag to
@@ -56,7 +56,7 @@ attribute is supposed to define the relationship of the current document
 to the document referenced by the anchor tag. Browsers don’t do anything
 with this attribute, but search engines do as in the case with
 the~~[~~`rel` value of
-“no-follow”~~](http://haacked.com/archive/2005/01/20/rel-no-follow-important.aspx "Why Rel="no-follow" is important")~~.~~
+“no-follow”~~](https://haacked.com/archive/2005/01/20/rel-no-follow-important.aspx "Why Rel="no-follow" is important")~~.~~
 
 ~~However in this case, I feel my usage is in the spirit of this
 attribute as I’m defining the relationship of the anchor tag to another
@@ -86,6 +86,6 @@ want to see it in action.
 I’m just curious how others handle this sort of thing. If you have a
 better way, do let me know. :)
 
-Tags: [jQuery](http://haacked.com/tags/jQuery/default.aspx),
-[JavaScript](http://haacked.com/tags/JavaScript/default.aspx)
+Tags: [jQuery](https://haacked.com/tags/jQuery/default.aspx),
+[JavaScript](https://haacked.com/tags/JavaScript/default.aspx)
 

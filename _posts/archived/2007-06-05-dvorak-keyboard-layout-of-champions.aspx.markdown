@@ -9,7 +9,7 @@ redirect_from: "/archive/2007/06/04/dvorak-keyboard-layout-of-champions.aspx/"
 ---
 
 [![Underwood
-Keyboard](http://haacked.com/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/UnderwoodKeyboard_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/UnderwoodKeyboard.jpg "Underwood Keyboard")One
+Keyboard](https://haacked.com/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/UnderwoodKeyboard_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/UnderwoodKeyboard.jpg "Underwood Keyboard")One
 thing that never gets old is when someone visits me and asks to
 check some email on my computer.
 
@@ -23,7 +23,7 @@ wrong keys, but see the right words show up on the screen.
 **It’s my dirty little secret—I type in Dvorak**.
 
 ![dvorak
-layout](http://haacked.com/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/dvorak_1.png)
+layout](https://haacked.com/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/dvorak_1.png)
 
 What keeps it interesting is that I type on a physical QWERTY keyboard,
 but use the Dvorak keyboard layout by switching my *Input Language*
@@ -31,13 +31,13 @@ setting within the *Regional and Language* Control Panel applet. This
 explains why it looks like I tap the wrong keys if you watch me type.
 
 [![Text Services and Input
-Languages](http://haacked.com/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/Text%20Services%20and%20Input%20Languages_thumb.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/Text%20Services%20and%20Input%20Languages.png)
+Languages](https://haacked.com/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/Text%20Services%20and%20Input%20Languages_thumb.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/Text%20Services%20and%20Input%20Languages.png)
 
 I switched to Dvorak over five years ago as one of several desperate
 measures I took to attempt to reduce [the pain of
-coding](http://haacked.com/archive/2004/06/10/The-Real-Pain-Of-Software-Development-1.aspx "The Real Pain of Software Development").
+coding](https://haacked.com/archive/2004/06/10/The-Real-Pain-Of-Software-Development-1.aspx "The Real Pain of Software Development").
 As [I wrote
-recently](http://haacked.com/archive/2007/05/15/sabatoge-due-to-pain.-developers-take-ergonomics-seriously.aspx "Sabotage Due To Pain. Developers, Take Ergonomics Seriously"),
+recently](https://haacked.com/archive/2007/05/15/sabatoge-due-to-pain.-developers-take-ergonomics-seriously.aspx "Sabotage Due To Pain. Developers, Take Ergonomics Seriously"),
 your fingers travel roughly 16 miles in an average eight-hour workday.
 
 At the time, I believed the prevailing idea that the QWERTY layout was

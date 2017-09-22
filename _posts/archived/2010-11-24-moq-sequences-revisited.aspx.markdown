@@ -11,7 +11,7 @@ redirect_from: "/archive/2010/11/23/moq-sequences-revisited.aspx/"
 ---
 
 A while back I wrote about [mocking successive
-calls](http://haacked.com/archive/2009/09/29/moq-sequences.aspx "Successive Method Calls With Moq")
+calls](https://haacked.com/archive/2009/09/29/moq-sequences.aspx "Successive Method Calls With Moq")
 to the same method which returns a sequence of objects. Read that post
 for more context.
 

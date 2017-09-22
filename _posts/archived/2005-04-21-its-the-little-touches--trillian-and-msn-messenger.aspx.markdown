@@ -9,7 +9,7 @@ redirect_from: "/archive/2005/04/20/its-the-little-touches--trillian-and-msn-mes
 ---
 
 Yesterday I [wrote
-about](http://haacked.com/archive/2005/04/21/2764.aspx) a neat
+about](https://haacked.com/archive/2005/04/21/2764.aspx) a neat
 [Trillian](http://www.ceruleanstudios.com/)feature that highlights words
 with their [Wikipedia](http://www.wikipedia.org/) definition.
 

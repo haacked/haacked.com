@@ -11,7 +11,7 @@ redirect_from: "/archive/2007/08/25/dont-be-a-validation-nazi.aspx/"
 ---
 
 In my [last
-post](http://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx "I Knew How To Validate an Email Address Until I Read The RFC"),
+post](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx "I Knew How To Validate an Email Address Until I Read The RFC"),
 I wrote about how most email validation routines are too strict when
 compared against what is allowed by the RFC. Initially I dismissed this
 phenomena as the result of ignorance of the RFC or inability to
@@ -34,7 +34,7 @@ exactitude on their users.
 
 Dare I say it, but developers can tend to be validation nazis.
 
-[![Seinfeld\_s7e6](http://haacked.com/images/haacked_com/WindowsLiveWriter/WhyDoMostWebValidationIgnorePostelsLaw_1135B/Seinfeld_s7e6_1.jpg)](http://en.wikipedia.org/wiki/Image:Seinfeld_s7e6.jpg "Soup Nazi from Seinfeld on Wikipedia")
+[![Seinfeld\_s7e6](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhyDoMostWebValidationIgnorePostelsLaw_1135B/Seinfeld_s7e6_1.jpg)](http://en.wikipedia.org/wiki/Image:Seinfeld_s7e6.jpg "Soup Nazi from Seinfeld on Wikipedia")
 
 > **User:** (filling out form)
 > [user+nospam@example.com](mailto:user+nospam@example.com)

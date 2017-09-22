@@ -11,11 +11,11 @@ redirect_from: "/archive/2006/01/23/DevelopersGuideToOpenSourceSoftwareLicensing
 
 This is part 2 in my three-part series on copyright law and software
 licensing. [Part 1
-covered](http://haacked.com/archive/2006/01/24/TheDevelopersGuideToCopyrightLaw-Part1.aspx)
+covered](https://haacked.com/archive/2006/01/24/TheDevelopersGuideToCopyrightLaw-Part1.aspx)
 the basics of copyright law. With the background knowledge from that
 post, we are ready to tackle software licensing in more depth. After
 this, continue onto [Part
-3](http://haacked.com/archive/2006/01/25/WhoOwnstheCopyrightforAnOpenSourceProject.aspx)
+3](https://haacked.com/archive/2006/01/25/WhoOwnstheCopyrightforAnOpenSourceProject.aspx)
 of the series.
 
 ### Licensing In General
@@ -26,7 +26,7 @@ some rights when it comes to using a work without assigning the
 copyright to others.
 
 For example, although I own exclusive copyright to this very blog post,
-at the bottom of every page in my [blog](http://haacked.com/) I provide
+at the bottom of every page in my [blog](https://haacked.com/) I provide
 a license to freely copy, distribute, display, and perform the work. I
 also allow making derivative works and commercial use of the work under
 a [Creative Commons
@@ -123,5 +123,5 @@ unfamiliar with licensing make an informed choice. It’s called
 checking out.
 
 Stay Tuned for [Part
-3](http://haacked.com/archive/2006/01/26/WhoOwnstheCopyrightforAnOpenSourceProject.aspx "Part 3").
+3](https://haacked.com/archive/2006/01/26/WhoOwnstheCopyrightforAnOpenSourceProject.aspx "Part 3").
 

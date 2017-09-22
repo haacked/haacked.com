@@ -16,8 +16,8 @@ Google is flattering itself by thinking that the primary motivation for
 comment spam is Google juice.
 
 I do not believe that rel="nofollow" will stop comment spam as I've
-[stated before](http://haacked.com/archive/2005/01/20/1939.aspx) (though
-I've [applied it](http://haacked.com/archive/2005/01/19/1933.aspx)
+[stated before](https://haacked.com/archive/2005/01/20/1939.aspx) (though
+I've [applied it](https://haacked.com/archive/2005/01/19/1933.aspx)
 myself). Getting their links out there may be motivation enough. However
 I think it will have a bigger impact than some people think.
 

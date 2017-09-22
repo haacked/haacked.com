@@ -42,7 +42,7 @@ YSlow provides a nice report card for your site. Here you can see the
 unfortunate grade my blog gets at the time of this writing.
 
 ![Haacked.com YSlow
-Score](http://haacked.com/images/haacked_com/WindowsLiveWriter/CoralDistributionNetworkPlugin_FAA8/Firebug%20-%20youve%20been%20HAACKED_2.png)
+Score](https://haacked.com/images/haacked_com/WindowsLiveWriter/CoralDistributionNetworkPlugin_FAA8/Firebug%20-%20youve%20been%20HAACKED_2.png)
 
 Naturally I couldn’t just sit there while some unknown Yahoo
 disdainfully gives my blog an F. I decided to start digging into it and
@@ -114,7 +114,7 @@ Here’s a screenshot of the domains I added to YSlow. I’m sure I’ll think
 of more to add later.
 
 ![YSlow CDN
-Configuration](http://haacked.com/images/haacked_com/WindowsLiveWriter/CoralDistributionNetworkPlugin_FAA8/Enter%20string%20value_1.png)
+Configuration](https://haacked.com/images/haacked_com/WindowsLiveWriter/CoralDistributionNetworkPlugin_FAA8/Enter%20string%20value_1.png)
 
 How can I automate this?
 ------------------------
@@ -140,7 +140,7 @@ can impair performance on a large page.
 I decided to go with option \#1 for now for performance reasons, though
 option \#2 would be quite easy to implement. I wrote an HttpModule in
 the same style as my [Windows Live Writer crap
-cleaner](http://haacked.com/archive/2007/07/29/cleanup-the-crap-that-windows-live-writer-injects-with-this.aspx "Cleanup the crap that WLW injects") which
+cleaner](https://haacked.com/archive/2007/07/29/cleanup-the-crap-that-windows-live-writer-injects-with-this.aspx "Cleanup the crap that WLW injects") which
 rewrites an incoming MetaWeblog API post to append **nyud.net** to the
 domain.
 
@@ -161,7 +161,7 @@ Download and Use It
 -------------------
 
 You can [download the code
-here](http://haacked.com/code/HtmlScrubber.zip "HtmlScrubber Source and Binaries") (*binaries
+here](https://haacked.com/code/HtmlScrubber.zip "HtmlScrubber Source and Binaries") (*binaries
 are included in the bin dir*) in a project called `HtmlScrubber`. I
 simply added this `HttpModule` to the same code as the WLW Crap Cleaner
 module mentioned earlier. To use it simply add the following to your

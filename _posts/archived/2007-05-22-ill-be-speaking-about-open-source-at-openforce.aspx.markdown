@@ -40,6 +40,6 @@ conference, so I’ll be able to attend sessions at both. So if you’re
 going to be at either conference, leave me a comment!
 
 And I’ll do my best to keep the "[You
-Knows](http://haacked.com/archive/2007/05/01/mix07-i-am-a-terrible-at-being-interviewed.aspx "You Knows")"
+Knows](https://haacked.com/archive/2007/05/01/mix07-i-am-a-terrible-at-being-interviewed.aspx "You Knows")"
 to a minimum. If you’re there, feel free to keep a scorecard.
 

@@ -11,7 +11,7 @@ redirect_from: "/archive/2004/08/05/timedlock-success-story.aspx/"
 This seems to be my favorite geek subject, but I have to tell you a
 success story using [Ian Griffith's Timed
 Lock](http://www.interact-sw.co.uk/iangblog/2004/03/23/locking) struct
-with my [enhancement](http://haacked.com/archive/2004/05/12/timedlock_yet_again_revisited.aspx/).
+with my [enhancement](https://haacked.com/archive/2004/05/12/timedlock_yet_again_revisited.aspx/).
 
 To recap, when you fail to acquire a lock on an object because another
 thread already has one, my enhancement allows you to see the stack trace

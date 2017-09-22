@@ -17,7 +17,7 @@ uncomfortable.
 Testing.
 
 I’m not talking about drug testing, unit testing, or any form of automated testing. After all, while there are still some holdouts, at
-least these types of tests involve *writing code*. And we know how much developers love to write code ([_even though that’s not what we’re really paid to do_](http://haacked.com/archive/2010/08/26/not-paid-to-write-code.aspx/ "We're not paid to write code")).
+least these types of tests involve *writing code*. And we know how much developers love to write code ([_even though that’s not what we’re really paid to do_](https://haacked.com/archive/2010/08/26/not-paid-to-write-code.aspx/ "We're not paid to write code")).
 
 No, I’m talking about the kind of testing where you get your hands dirty *actually trying the application*. Where you attempt to break the beautifully factored code you may have just written. At the end of this post, I’ll provide a tip using GitHub that’s helped me with this.
 
@@ -34,9 +34,9 @@ And I agree! TDD is primarily about the design of your code. But notice that Bob
 
 In my mind it’s like wrapping a steak in bacon. The steak is the primary focus of the meal, but I sure as hell am not going to throw away the bacon! *I know, half of you are hitting the reply button to suggest you prefer the bacon. Me too but allow me this analogy.*
 
-[![bacon-wrapped-steak](http://haacked.com/images/haacked_com/WindowsLiveWriter/Test-Better_9083/bacon-wrapped-steak_thumb.jpg "bacon-wrapped-steak")](http://www.flickr.com/photos/mesohungry/4267332997/)*MMMM, gimme dat! Credit: Jason Lam [CC-BY-SA-2.0](http://creativecommons.org/licenses/by-sa/2.0/)*
+[![bacon-wrapped-steak](https://haacked.com/images/haacked_com/WindowsLiveWriter/Test-Better_9083/bacon-wrapped-steak_thumb.jpg "bacon-wrapped-steak")](http://www.flickr.com/photos/mesohungry/4267332997/)*MMMM, gimme dat! Credit: Jason Lam [CC-BY-SA-2.0](http://creativecommons.org/licenses/by-sa/2.0/)*
 
-The problem I’ve found myself running into, despite my [own advice](http://haacked.com/archive/2004/06/09/test-first-development-doesnt-mean-you-dont-walk-through-your-code.aspx/ "Walkthrough your code") to [the contrary](http://haacked.com/archive/2004/11/03/codecoverageisnotenough.aspx "Code Coverage is not enough"),
+The problem I’ve found myself running into, despite my [own advice](https://haacked.com/archive/2004/06/09/test-first-development-doesnt-mean-you-dont-walk-through-your-code.aspx/ "Walkthrough your code") to [the contrary](https://haacked.com/archive/2004/11/03/codecoverageisnotenough.aspx "Code Coverage is not enough"),
 is that I start to trust too much in my unit tests. Several times I’ve made changes to my code, crafted beautiful unit tests that provide 100% assurance that the code is correct, only to have customers run into bugs with the code. Apparently my 100% correct code has a margin of error. Perhaps [Donald Knuth](http://en.wikipedia.org/wiki/Donald_Knuth "Donald Knuth") [said it
 best](http://www-cs-faculty.stanford.edu/~knuth/faq.html "Knuth FAQ"),
 
@@ -52,7 +52,7 @@ Getting Serious about Testing
 
 When I joined the GitHub for Windows (GHfW) team, we were still in the spiking phase, constantly experimenting with the UI and code. We had very little in the way of proper unit tests. Which worked fine for two people working in the same code in the same room in San Francisco. But here I was, the new guy hundreds of miles away in Bellevue, WA without any of the context they had. So I started to institute more rigor in our unit and integration tests as the product transitioned to a focus on engineering.
 
-But we still lacked rigor in regular non-automated testing. Then along comes my compatriot, [Drew Miller](https://twitter.com/halfogre "AnglicanGeek on Twitter"). If you recall, he’s the one I cribbed my approach [structuring unit tests](http://haacked.com/archive/2012/01/02/structuring-unit-tests.aspx/ "Structuring Unit Tests") from.
+But we still lacked rigor in regular non-automated testing. Then along comes my compatriot, [Drew Miller](https://twitter.com/halfogre "AnglicanGeek on Twitter"). If you recall, he’s the one I cribbed my approach [structuring unit tests](https://haacked.com/archive/2012/01/02/structuring-unit-tests.aspx/ "Structuring Unit Tests") from.
 
 Drew really gets testing in all its forms. I first started working with him on the ASP.NET MVC team when he joined as a test lead. He switched disciplines from a developer to become a QA person because he wanted a venue to test this theories on testing and eventually show the world that we don’t need separate QA person. Yes, he became a tester so he could destroy the role, in order to save the practice.
 
@@ -100,7 +100,7 @@ This puts me in a mindset to think about all the possible ways to break the code
 
 Here’s an example of a portion of a recent test plan for a major bug fix I worked on (click on it to see it larger).
 
-[![test-plan-in-pr](http://haacked.com/images/haacked_com/WindowsLiveWriter/Test-Better_9083/test-plan-in-pr_thumb.png "test-plan-in-pr")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Test-Better_9083/test-plan-in-pr_2.png)
+[![test-plan-in-pr](https://haacked.com/images/haacked_com/WindowsLiveWriter/Test-Better_9083/test-plan-in-pr_thumb.png "test-plan-in-pr")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Test-Better_9083/test-plan-in-pr_2.png)
 
 The act of writing the test plan really helps me think hard about what could go wrong with the code. Then running through it just requires following the plan and checking off boxes. Sometimes as I’m testing, I’ll think of new cases and I’ll just edit the plan accordingly.
 
@@ -120,9 +120,9 @@ I’m still of the mind that many teams can benefit from a dedicated tester. But
 **Related Posts**
 
 -   [Test First Development Doesn’t Mean You Don’t Walk Through Your
-    Code](http://haacked.com/archive/2004/06/09/test-first-development-doesnt-mean-you-dont-walk-through-your-code.aspx/ "Walk through your code")
+    Code](https://haacked.com/archive/2004/06/09/test-first-development-doesnt-mean-you-dont-walk-through-your-code.aspx/ "Walk through your code")
 -   [Why Code Coverage is not
-    Enough](http://haacked.com/archive/2004/11/03/codecoverageisnotenough.aspx/ "Why Code Coverage is not Enough")
+    Enough](https://haacked.com/archive/2004/11/03/codecoverageisnotenough.aspx/ "Why Code Coverage is not Enough")
 -   Structuring Unit Tests
 -   [How we use Pull Requests to build
     GitHub](https://github.com/blog/1124-how-we-use-pull-requests-to-build-github "Pull Requests at GitHub")

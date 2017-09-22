@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2005/11/14/flickr-does-search-well-with-clustering.aspx/"
 ---
 
-![Rock](http://haacked.com/images/rock.jpg) Recently, two posts have
+![Rock](https://haacked.com/images/rock.jpg) Recently, two posts have
 given me an increased appreciation for what [Flickr](http://flickr.com/)
 has accomplished with their clustering feature.
 

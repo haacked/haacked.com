@@ -13,7 +13,7 @@ redirect_from: "/archive/2009/01/29/aspnetmvc-refresh.aspx/"
 Hello there. :)
 
 On Tuesday, we [announced the release
-candidate](http://haacked.com/archive/2009/01/27/aspnetmvc-release-candidate.aspx "ASP.NET MVC RC")
+candidate](https://haacked.com/archive/2009/01/27/aspnetmvc-release-candidate.aspx "ASP.NET MVC RC")
 for [ASP.NET MVC](http://asp.net/mvc "ASP.NET MVC Website"). While there
 is much new in there to be excited about and many many bug fixes, there
 were two changes introduced in the RC that broke some scenarios which
@@ -41,14 +41,14 @@ way to fully ensure you have the refresh is to right click on the
 downloaded file, select the Digital Signatures tab, and make sure the
 Time Stamp says Wednesday, January 28 and not Friday, January 23.
 
-![msi-props](http://haacked.com/images/haacked_com/WindowsLiveWriter/RegressionsinASP.NETMVCRC_CB6C/msi-props_5.png "msi-props")
+![msi-props](https://haacked.com/images/haacked_com/WindowsLiveWriter/RegressionsinASP.NETMVCRC_CB6C/msi-props_5.png "msi-props")
 
 **Don’t forget to fully uninstall the previous RC before installing this
 one.**
 
 Also note that this refresh does not address the [Controls Collection
 Cannot Be Modified
-issue](http://haacked.com/archive/2009/01/27/controls-collection-cannot-be-modified-issue-with-asp.net-mvc-rc1.aspx "Controls Collection Cannot Be Modified")
+issue](https://haacked.com/archive/2009/01/27/controls-collection-cannot-be-modified-issue-with-asp.net-mvc-rc1.aspx "Controls Collection Cannot Be Modified")
 I reported recently. We will address that soon. The following describes
 the issues that this refresh does fix.
 

@@ -29,7 +29,7 @@ enough of a reason for me!
 
 Of course, when I’m done un-bunching my knickers, I realize that despite
 all the [benefits of unit testable
-code](http://haacked.com/archive/2004/12/06/unit-testing-benefits.aspx "Unit Testing Benefits"),
+code](https://haacked.com/archive/2004/12/06/unit-testing-benefits.aspx "Unit Testing Benefits"),
 **the *real* benefit of testable code is how it helps handle the
 software development’s biggest problem since time immemorial, *managing
 complexity***.

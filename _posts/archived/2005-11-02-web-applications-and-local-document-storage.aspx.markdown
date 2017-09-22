@@ -12,7 +12,7 @@ Rob Howard asks the question *[Is “Smart Client” a “Dumb
 Idea”](http://weblogs.asp.net/rhoward/archive/2005/11/03/429355.aspx)*.
 Obviously I don’t necessarily think so as I pointed out in my post
 *[Overlooked Problem With Web Based
-Applications](http://haacked.com/archive/2005/11/01/11075.aspx)*.
+Applications](https://haacked.com/archive/2005/11/01/11075.aspx)*.
 
 However, as I thought about it more, I realized that part of the
 excitement over web applications is that they are starting to really

@@ -15,11 +15,11 @@ rendering. Allocating large strings can put them on the [Large Object
 Heap](http://msdn.microsoft.com/en-us/magazine/cc534993.aspx "Large Object Heap")
 which means they’ll be sticking around for a while.
 
-[![string](http://haacked.com/images/haacked_com/WindowsLiveWriter/RenderingaPageToAStringWithoutUsingAResp_7EC8/string_3.jpg "string")](http://www.sxc.hu/photo/979650 "Photo by crisderaud on stock.xchng")
+[![string](https://haacked.com/images/haacked_com/WindowsLiveWriter/RenderingaPageToAStringWithoutUsingAResp_7EC8/string_3.jpg "string")](http://www.sxc.hu/photo/979650 "Photo by crisderaud on stock.xchng")
 However, there are many cases in which you really want to render a page
 to a string so you can perform some post processing. I wrote about one
 means [using a Response filter eons
-ago](http://haacked.com/archive/2007/07/29/cleanup-the-crap-that-windows-live-writer-injects-with-this.aspx "Using Response Filter").
+ago](https://haacked.com/archive/2007/07/29/cleanup-the-crap-that-windows-live-writer-injects-with-this.aspx "Using Response Filter").
 
 However, recently, I learned about a method of the Page class I never
 noticed which allows me to use a much lighter weight approach to this

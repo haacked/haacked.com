@@ -43,7 +43,7 @@ not bring himself to hack together a less than perfect solution.
 Now, despite my last name, I chafe at the thought of hacking together a
 solution rather than executing something cleanly and elegantly designed.
 But as I pointed out in the past, there is [no perfect
-design](http://haacked.com/archive/2005/05/31/ThereIsNoPerfectDesign.aspx).
+design](https://haacked.com/archive/2005/05/31/ThereIsNoPerfectDesign.aspx).
 You have to make do with what you have. The perfect design in any
 situation is one that works within the confines. It may be flawed from
 software development standards, but if it meets the needs of the client

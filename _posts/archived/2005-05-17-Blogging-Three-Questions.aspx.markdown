@@ -19,7 +19,7 @@ it’s good enough for Sam Ruby, it’s good enough for me.
     friends to keep tabs on me. I was basically rubbing it in that I was
     in sunny Los Angeles while my family and friends suffered the bitter
     cold of an Alaskan winter. What motivates me today is [fame, fortune
-    and vanity](http://haacked.com/archive/2004/10/08/1322.aspx)! Though
+    and vanity](https://haacked.com/archive/2004/10/08/1322.aspx)! Though
     the first two still elude me, what really motivates me are these
     great relationships and conversations I’ve had online. Blogging
     spurred me to get involved in open source software and provides a

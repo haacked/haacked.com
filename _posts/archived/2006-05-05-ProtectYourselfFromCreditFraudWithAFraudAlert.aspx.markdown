@@ -9,9 +9,9 @@ categories:
 redirect_from: "/archive/2006/05/04/ProtectYourselfFromCreditFraudWithAFraudAlert.aspx/"
 ---
 
-![Stop Fraud!](http://haacked.com/images/stop_sign.jpg) So after getting
+![Stop Fraud!](https://haacked.com/images/stop_sign.jpg) So after getting
 my [Yahoo password
-phished](http://haacked.com/archive/2006/05/04/VictimOfAYahooMessengerPhishingAttack.aspx "Stupid Mistake"),
+phished](https://haacked.com/archive/2006/05/04/VictimOfAYahooMessengerPhishingAttack.aspx "Stupid Mistake"),
 my wife reminded me that we should put a fraud alert on our credit file.
 I first heard about this from my friend Walter a while ago, but we never
 got around to it.

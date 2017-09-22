@@ -105,7 +105,7 @@ Fact of the matter is, Microsoft has a lot of influence.
 So can we really fault Microsoft for duplicating efforts? Or only for
 doing a half-assed job of it sometimes? As I wrote before when I asked
 the question [Should Microsoft **Really** Bundle Open Source
-Software](http://haacked.com/archive/2007/09/04/should-microsoft-really-bundle-open-source-software.aspx "Really?")?,
+Software](https://haacked.com/archive/2007/09/04/should-microsoft-really-bundle-open-source-software.aspx "Really?")?,
 I’d like to see some balance that both recognizes business realities
 that push Microsoft to duplicating community efforts, but at the same
 time support the community.

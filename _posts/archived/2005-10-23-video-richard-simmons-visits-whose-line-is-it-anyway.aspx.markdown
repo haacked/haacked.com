@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2005/10/22/video-richard-simmons-visits-whose-line-is-it-anyway.aspx/"
 ---
 
-![Whose Line](http://haacked.com/images/WhoseLineIsIt.jpg) Ok, I may
+![Whose Line](https://haacked.com/images/WhoseLineIsIt.jpg) Ok, I may
 have misfired with the last video, but this is truly hilarious. It
 passed the “Wife Test” (the last one didn’t).
 

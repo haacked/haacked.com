@@ -11,7 +11,7 @@ redirect_from: "/archive/2008/05/04/routeevaluator-for-unit-testing-routes.aspx/
 ---
 
 A while back I wrote a [routing
-debugger](http://haacked.com/archive/2008/03/13/url-routing-debugger.aspx "URL Routing Debugger")
+debugger](https://haacked.com/archive/2008/03/13/url-routing-debugger.aspx "URL Routing Debugger")
 which is useful for testing your routes and seeing which routes would
 match a given URL. [Rob](http://blog.wekeroad.com/ "Rob Conery")
 suggested we have something like this for unit tests, so I whipped

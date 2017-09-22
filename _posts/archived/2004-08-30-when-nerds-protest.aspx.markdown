@@ -33,5 +33,5 @@ My I think I'll start posting everything as HTML.
 UPDATE \#3: So we may have identified the mysterious sign holder. Her
 name is Shalott. Of course, I have no way of confirming, but like
 Mulder, I believe! She got the idea from her friend Tzikeh who [saw it
-online on a t-shirt](http://haacked.com/archive/2004/08/31/1031.aspx).
+online on a t-shirt](https://haacked.com/archive/2004/08/31/1031.aspx).
 

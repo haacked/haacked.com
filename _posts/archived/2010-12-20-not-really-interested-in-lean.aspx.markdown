@@ -24,7 +24,7 @@ attention and you weren’t learning. For example, why stop at [double
 rainbows](http://www.youtube.com/watch?v=OQSNhk5ICTI "Double Rainbow (All the Way)")
 when we could have gone for triple?
 
-[![leaning](http://haacked.com/images/haacked_com/WindowsLiveWriter/Not-Really-Interested-In-Lean_10556/leaning_f2e193c8-335d-4239-8725-a03596790c3c.jpg "leaning")](http://www.flickr.com/photos/hern42/4606409286/ "Leaning Tower of Pisa by hem42 (http://creativecommons.org/licenses/by-sa/2.0/deed.en)")
+[![leaning](https://haacked.com/images/haacked_com/WindowsLiveWriter/Not-Really-Interested-In-Lean_10556/leaning_f2e193c8-335d-4239-8725-a03596790c3c.jpg "leaning")](http://www.flickr.com/photos/hern42/4606409286/ "Leaning Tower of Pisa by hem42 (http://creativecommons.org/licenses/by-sa/2.0/deed.en)")
 
 When starting out on NuGet, we hoped to accomplish even more in our
 first full release. Like many projects, we have iteration milestones
@@ -72,7 +72,7 @@ words, everyone on the team is responsible for QA.
 So as we were discussing these concepts recently, something clicked in
 my thick skull. They echoed some of the concepts I learned [attending a
 fantastic
-presentation](http://haacked.com/archive/2009/06/28/ndc2009-trip-report.aspx "NDC 2009 Trip report")
+presentation](https://haacked.com/archive/2009/06/28/ndc2009-trip-report.aspx "NDC 2009 Trip report")
 back in 2009 at the Norwegian Developer’s Conference by [Mary
 Poppendieck](http://www.poppendieck.com/ "Mary Poppendieck's Website").
 Her set of talks focused on the concept of a problem solving

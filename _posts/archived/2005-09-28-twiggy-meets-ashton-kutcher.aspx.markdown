@@ -9,7 +9,7 @@ redirect_from: "/archive/2005/09/27/twiggy-meets-ashton-kutcher.aspx/"
 ---
 
 My wife can be a real bookworm at times. She took
-[Twiggy](http://haacked.com/archive/2005/03/23/2432.aspx) to the local
+[Twiggy](https://haacked.com/archive/2005/03/23/2432.aspx) to the local
 Starbucks in the downtown area of Culver City to have a drink and read
 her Spanish book outside in the beautiful weather. As she studied, she
 could overhear two guys behind her loudly engaged in annoying guy talk

@@ -10,9 +10,9 @@ redirect_from: "/archive/2006/08/25/Developing_Custom_Skins.aspx/"
 
 This is my third post about Skinning in Subtext. Previously I talked
 about some [breaking
-changes](http://haacked.com/archive/2006/08/26/Subtext_Skinning_Changes.aspx). 
+changes](https://haacked.com/archive/2006/08/26/Subtext_Skinning_Changes.aspx). 
 Then I gave a high level overview of [skinning in
-Subtext](http://haacked.com/archive/2006/08/26/Mile_High_Overview_Of_Subtext_Skinning.aspx). 
+Subtext](https://haacked.com/archive/2006/08/26/Mile_High_Overview_Of_Subtext_Skinning.aspx). 
 In this post I want to mention one new feature for those who use custom
 skins.
 
@@ -28,7 +28,7 @@ majority of Subtext users deploy a custom skin typically based on one of
 the out-of-the-box skins. 
 
 As I described in [the
-overview](http://haacked.com/archive/2006/08/26/Mile_High_Overview_Of_Subtext_Skinning.aspx),
+overview](https://haacked.com/archive/2006/08/26/Mile_High_Overview_Of_Subtext_Skinning.aspx),
 skins are configured via a file named **`Skins.config`**.  One problem
 with having all the skin definitions in this file is that any
 customizations a user might make are overwritten when upgrading to a new

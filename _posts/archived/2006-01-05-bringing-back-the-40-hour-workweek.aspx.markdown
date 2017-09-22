@@ -38,7 +38,7 @@ back the 40-hour workweek -- and let us take a long
 vacation](http://www.latimes.com/news/opinion/sunday/editorials/la-op-robinson1jan01,0,1744623.story?coll=la-home-sunday-opinion)”
 
 I’ve [written about work-life balance
-before](http://haacked.com/archive/2004/10/16/1376.aspx), but I should
+before](https://haacked.com/archive/2004/10/16/1376.aspx), but I should
 make clear before anyone gets the wrong idea that desiring work-life
 balance does not make one a slacker. Unfortunately I have been having
 trouble personally applying this philosophy since I started a company,

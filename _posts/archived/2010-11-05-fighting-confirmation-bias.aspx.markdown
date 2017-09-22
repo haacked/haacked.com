@@ -42,7 +42,7 @@ contribute to confirmation bias in the sciences.
 Obviously this doesn’t just apply to scientists. I’m sure we all know
 developers who are equally prone to confirmation bias, present company
 excluded of course. ![Winking
-smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/Fighting-Confirmation-Bias_12B38/wlEmoticon-winkingsmile_2.png)
+smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Fighting-Confirmation-Bias_12B38/wlEmoticon-winkingsmile_2.png)
 Pretty much everybody is succeptbile. We all probably witnessed an
 impressive (in magnitude) display of confirmation bias in the recent
 elections.

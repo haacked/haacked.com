@@ -44,7 +44,7 @@ light. So many congrats to the team for this release!
 Some Small Things
 -----------------
 
-[![small-things](http://haacked.com/images/haacked_com/WindowsLiveWriter/Its-The-Little-Things-about-AS.NET-MVC-4_A996/small-things_thumb.jpg "small-things")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Its-The-Little-Things-about-AS.NET-MVC-4_A996/small-things_2.jpg)
+[![small-things](https://haacked.com/images/haacked_com/WindowsLiveWriter/Its-The-Little-Things-about-AS.NET-MVC-4_A996/small-things_thumb.jpg "small-things")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Its-The-Little-Things-about-AS.NET-MVC-4_A996/small-things_2.jpg)
 
 If you take a look at [Jon
 Galloway’s](http://weblogs.asp.net/jgalloway/archive/2012/02/16/asp-net-4-beta-released.aspx "Jon Galloway's Blog Post")
@@ -60,11 +60,11 @@ I’ve written several posts that add interesting cross cutting behavior
 when calling actions via the `IActionInvoker` interface.
 
 -   [Handling Formats Based on Url
-    Extension](http://haacked.com/archive/2009/01/06/handling-formats-based-on-url-extension.aspx "Handling formats")
+    Extension](https://haacked.com/archive/2009/01/06/handling-formats-based-on-url-extension.aspx "Handling formats")
 -   [Calling ASP.NET MVC Action Methods from
-    JavaScript](http://haacked.com/archive/2011/08/18/calling-asp-net-mvc-action-methods-from-javascript.aspx "Calling MVC Actions from JavaScript")
+    JavaScript](https://haacked.com/archive/2011/08/18/calling-asp-net-mvc-action-methods-from-javascript.aspx "Calling MVC Actions from JavaScript")
 -   [How a method becomes an
-    action](http://haacked.com/archive/2008/08/29/how-a-method-becomes-an-action.aspx "How a method becomes an action")
+    action](https://haacked.com/archive/2008/08/29/how-a-method-becomes-an-action.aspx "How a method becomes an action")
 
 Ironically, the first two posts are made mostly irrelevant now that
 ASP.NET MVC 4 includes ASP.NET Web API.
@@ -85,7 +85,7 @@ Two DependencyResolvers
 I’ve been a big fan of using the Ninject.Mvc3 package to inject
 dependencies into my ASP.NET MVC controllers.
 
-[![ninject.mvc3](http://haacked.com/images/haacked_com/WindowsLiveWriter/Its-The-Little-Things-about-AS.NET-MVC-4_A996/ninject.mvc3_thumb.png "ninject.mvc3")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Its-The-Little-Things-about-AS.NET-MVC-4_A996/ninject.mvc3_2.png)
+[![ninject.mvc3](https://haacked.com/images/haacked_com/WindowsLiveWriter/Its-The-Little-Things-about-AS.NET-MVC-4_A996/ninject.mvc3_thumb.png "ninject.mvc3")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Its-The-Little-Things-about-AS.NET-MVC-4_A996/ninject.mvc3_2.png)
 
 However, your Ninject bindings do not apply to `ApiController`
 instances. For example, suppose you have the following binding in the

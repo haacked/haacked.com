@@ -12,11 +12,11 @@ redirect_from: "/archive/2005/05/04/correcting-inaccuracies-getting-involved-in-
 Robertson](http://www.qgyen.net/blog/) points out some [minor
 inaccuracies](http://www.qgyen.net/blog/archive/2005/05/05/1024.aspx)
 (none intentional) in [my
-announcement](http://haacked.com/archive/2005/05/04/2953.aspx) about
+announcement](https://haacked.com/archive/2005/05/04/2953.aspx) about
 Subtext concerning Community Server.
 
 I went ahead and made some [corrections in the
-announcement](http://haacked.com/archive/2005/05/04/2953.aspx), though I
+announcement](https://haacked.com/archive/2005/05/04/2953.aspx), though I
 defended my point about targeting different markets which I will repeat
 here.
 

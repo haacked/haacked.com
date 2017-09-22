@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/10/18/Art_of_the_Job_Post.aspx/"
 ---
 
 [![Mona
-Lisa](http://haacked.com/images/haacked_com/WindowsLiveWriter/ArtoftheJobPost_CBAE/monalisa_thumb%5B1%5D.gif)](http://haacked.com/images/haacked_com/WindowsLiveWriter/ArtoftheJobPost_CBAE/monalisa%5B3%5D.gif)
+Lisa](https://haacked.com/images/haacked_com/WindowsLiveWriter/ArtoftheJobPost_CBAE/monalisa_thumb%5B1%5D.gif)](https://haacked.com/images/haacked_com/WindowsLiveWriter/ArtoftheJobPost_CBAE/monalisa%5B3%5D.gif)
 When I was a bright eyed bushy tailed senior in
 [college](http://www.oxy.edu/ "Go Tigers!"), I remember wading through
 pages and pages of job ads in Jobtrak (which has since been absorbed
@@ -130,7 +130,7 @@ candidates they had been struggling to fill.
 A well written job posting makes a difference.
 
 I [mentioned
-before](http://haacked.com/archive/2006/10/04/Better_Recruiting_Through_Blogistry.aspx "Better Recruiting through Blogistry")
+before](https://haacked.com/archive/2006/10/04/Better_Recruiting_Through_Blogistry.aspx "Better Recruiting through Blogistry")
 that I am participating in the
 [HiddenNetwork](http://hiddennetwork.com/ "Hidden Network Job Boards")
 job board network because I really believe in the power of blogs to

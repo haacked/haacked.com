@@ -9,7 +9,7 @@ redirect_from: "/archive/2005/03/21/CustomizingKeyboardSettingsPart2.aspx/"
 ---
 
 [In part
-1](http://haacked.com/archive/2005/03/22/CustomizingKeyboardSettingsPart1.aspx),
+1](https://haacked.com/archive/2005/03/22/CustomizingKeyboardSettingsPart1.aspx),
 I bored you with excrutiating detail about how we keyboard shortcuts are
 implemented in RSS Bandit. In this second more exciting part, I'll
 outline how to use a tool I wrote for editing shortcut settings. You can
@@ -19,7 +19,7 @@ configuration dialog within RSS Bandit. But for now, this is an
 experimental utility, use at your own risk.
 
 To get started with the utility, download a [debug version
-here](http://haacked.com/images/ShortcutsEditor.zip).
+here](https://haacked.com/images/ShortcutsEditor.zip).
 
 **First Time Usage**\
  Figure 1 shows a screenshot of the editor as it looks when you first

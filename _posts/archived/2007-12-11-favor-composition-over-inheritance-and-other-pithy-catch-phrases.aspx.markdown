@@ -39,7 +39,7 @@ represents pretty well what I think.
 >
 > I’m against the blind application of these pithy catch phrases.
 > **Blindly applying a “best practice” is just as irresponsible as never
-> applying a “best practice”**. [There is no perfect design](http://haacked.com/archive/2005/05/30/thereisnoperfectdesign.aspx/ "No Perfect Design").
+> applying a “best practice”**. [There is no perfect design](https://haacked.com/archive/2005/05/30/thereisnoperfectdesign.aspx/ "No Perfect Design").
 > There is no one true way. There is no one size fits all.
 >
 > Why favor composition over inheritance? What trade-offs are you making

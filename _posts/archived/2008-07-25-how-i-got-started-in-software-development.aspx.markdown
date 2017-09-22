@@ -22,9 +22,9 @@ and others.
 
 Have I even started really programming yet? I guess I got my first taste
 when I was around eight with my first computer, a [TRS-80 **Color**
-Computer](http://haacked.com/archive/2005/06/06/my-first-computer.aspx "My First Computer").
+Computer](https://haacked.com/archive/2005/06/06/my-first-computer.aspx "My First Computer").
 
-[![phil-with-trs-80](http://haacked.com/images/haacked_com/WindowsLiveWriter/HowIGotStartedInSoftwareDevelopment_761A/phil-with-trs-80_thumb.jpg "phil-with-trs-80")](http://haacked.com/images/haacked_com/WindowsLiveWriter/HowIGotStartedInSoftwareDevelopment_761A/phil-with-trs-80_2.jpg)
+[![phil-with-trs-80](https://haacked.com/images/haacked_com/WindowsLiveWriter/HowIGotStartedInSoftwareDevelopment_761A/phil-with-trs-80_thumb.jpg "phil-with-trs-80")](https://haacked.com/images/haacked_com/WindowsLiveWriter/HowIGotStartedInSoftwareDevelopment_761A/phil-with-trs-80_2.jpg)
 
 That sucker could display 9 colors, all at once, believe it or not. My
 programming experience back then was pretty minimal. My dad and I mostly
@@ -63,7 +63,7 @@ Around that time, I started working on a website for a company called
 MyLaunch.com which later became Launch.com which later got bought by
 [Yahoo](http://launch.com/). That was the first large website I worked
 on and the place I had [my first and worse major production bug
-ever](http://haacked.com/archive/2005/11/08/worse-software-bugs.aspx "Worse Bug").
+ever](https://haacked.com/archive/2005/11/08/worse-software-bugs.aspx "Worse Bug").
 It was a lot of fun because I also signed up on the site and would
 interact with the other members, since it was a community music site.
 
@@ -100,7 +100,7 @@ might not be so sure about tomorrow.
 Hacking on Open Source projects such as
 [Subtext](http://subtextproject.com/). Recently, working on my [IronRuby
 + MVC
-prototype](http://haacked.com/archive/2008/07/20/ironruby-aspnetmvc-prototype.aspx "IronRuby and MVC")
+prototype](https://haacked.com/archive/2008/07/20/ironruby-aspnetmvc-prototype.aspx "IronRuby and MVC")
 has been a lot of fun. I find it fun to try out new things as well as
 making old things better.
 

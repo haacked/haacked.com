@@ -12,7 +12,7 @@ redirect_from: "/archive/2008/03/20/a-few-notes-about-the-mvc-codeplex-source-co
 ---
 
 Whew! I’ve held off writing about MVC until I could write [a non-MVC
-post](http://haacked.com/archive/2008/03/21/is-pizza-brain-food.aspx "Is Pizza Brain Food?")
+post](https://haacked.com/archive/2008/03/21/is-pizza-brain-food.aspx "Is Pizza Brain Food?")
 in response to some [constructive
 criticism](http://lostechies.com/blogs/sean_chambers/archive/2008/02/26/what-happened-to-you-ve-been-haacked.aspx "What happened to my blog?")
 (It’s not just
@@ -61,7 +61,7 @@ something worth putting out there.
 **Where is the source for Routing?**
 
 As I [mentioned
-before](http://haacked.com/archive/2008/03/10/thoughts-on-asp.net-mvc-preview-2-and-beyond.aspx "Thoughts on Preview 2"),
+before](https://haacked.com/archive/2008/03/10/thoughts-on-asp.net-mvc-preview-2-and-beyond.aspx "Thoughts on Preview 2"),
 routing is not actually a feature of MVC which is why it is not
 included. It will be part of the .NET Framework and thus its source will
 eventually be available much like the rest of the [.NET Framework

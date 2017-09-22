@@ -18,9 +18,9 @@ Playa](http://static.flickr.com/50/128781819_a6ffdef0c2.jpg)](http://www.flickr.
 
 I must be an addict for pain, discomfort, and Playa dust to return a
 third time. But I had such a great time [last
-time](http://haacked.com/archive/2005/09/10/PhotosFromBurningMan.aspx "Last Time At BurningMan"),
+time](https://haacked.com/archive/2005/09/10/PhotosFromBurningMan.aspx "Last Time At BurningMan"),
 and the [time
-before](http://haacked.com/archive/2004/07/18/BurningManPhotopedia.aspx "Burning Man 2005"),
+before](https://haacked.com/archive/2004/07/18/BurningManPhotopedia.aspx "Burning Man 2005"),
 that I just couldn’t hold back. And this time, I am dragging my [buddy
 (and business partner) Micah](http://micahdylan.com/ "Micah Dylan")
 along. Still working on getting Kyle to come again.

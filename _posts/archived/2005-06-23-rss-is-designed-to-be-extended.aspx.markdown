@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2005/06/22/rss-is-designed-to-be-extended.aspx/"
 ---
 
-![RSS](http://haacked.com/images/RSSLOGO.jpg) Now repeat after me, “RSS
+![RSS](https://haacked.com/images/RSSLOGO.jpg) Now repeat after me, “RSS
 is designed to be extended.”
 
 Good. Now repeat it again. It’s old hat that Microsoft has engaged in
@@ -41,7 +41,7 @@ extension does not change or make proprietary the original [RSS
 specification](http://blogs.law.harvard.edu/tech/rss). As I said before,
 RSS is designed to be extended. Anyone can extend RSS. Heck, even I
 [proposed an RSS
-extension](http://haacked.com/archive/2004/04/24/359.aspx), albeit one
+extension](https://haacked.com/archive/2004/04/24/359.aspx), albeit one
 that gained just about zero traction (although I may sneak it into
 Subtext just to satisfy my megalomaniacal urges).
 

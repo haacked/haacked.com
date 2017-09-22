@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2008/03/02/the-cost-of-breaking-changes.aspx/"
 ---
 
-[![broken-glass](http://haacked.com/images/haacked_com/WindowsLiveWriter/TheCostOfBreakingChanges_A4A1/broken-glass_3.jpg)](http://www.sxc.hu/photo/296133 "Broken Glass on Stock Xchng")
+[![broken-glass](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheCostOfBreakingChanges_A4A1/broken-glass_3.jpg)](http://www.sxc.hu/photo/296133 "Broken Glass on Stock Xchng")
 One interesting response to my series on versioning of interfaces and
 abstract base classes is the one in which someone suggested that we
 should go ahead and break their code from version to version. They’re
@@ -53,7 +53,7 @@ there implementing that interface.
 
 This is why there tends to be an emphasis on Abstract Base Classes as I
 [mentioned
-before](http://haacked.com/archive/2008/02/21/versioning-issues-with-abstract-base-classes-and-interfaces.aspx "Abstract Base Class")
+before](https://haacked.com/archive/2008/02/21/versioning-issues-with-abstract-base-classes-and-interfaces.aspx "Abstract Base Class")
 within the .NET Framework. Fortunately, when the ABC keeps most, if not
 all, methods abstract or virtual, then testability is not affected. It’s
 quite trivial to mock or fake an abstract base class written in such a

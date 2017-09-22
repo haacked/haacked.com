@@ -12,7 +12,7 @@ redirect_from: "/archive/2008/03/12/url-routing-debugger.aspx/"
 ---
 
 *UPDATE: I’ve added a [NuGet
-package](http://haacked.com/archive/2010/10/06/introducing-nupack-package-manager.aspx)
+package](https://haacked.com/archive/2010/10/06/introducing-nupack-package-manager.aspx)
 named "routedebugger" to the NuGet feed, which will make it much easier
 to install.*
 
@@ -24,7 +24,7 @@ Mix](http://sessions.visitmix.com/?selectedSearch=T22 "Developing ASP.NET MVC Ap
 he demonstrated a simple little route tester I quickly put together.
 
 [![Route Debugger
-Screenshot](http://haacked.com/images/haacked_com/WindowsLiveWriter/UrlRoutingDebugger_EEBA/route-debugger-screenshot.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/UrlRoutingDebugger_EEBA/route-debugger-screenshot.png)
+Screenshot](https://haacked.com/images/haacked_com/WindowsLiveWriter/UrlRoutingDebugger_EEBA/route-debugger-screenshot.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/UrlRoutingDebugger_EEBA/route-debugger-screenshot.png)
 
 This utility displays the route data pulled from the request of the
 current request in the address bar. So you can type in various URLs in

@@ -8,9 +8,9 @@ categories: []
 redirect_from: "/archive/2006/07/07/MaybeTheAppleAdIsNotSoWrongAfterAll.aspx/"
 ---
 
-![Apple Ad](http://haacked.com/images/AppleAd.jpg) Recently I poked
+![Apple Ad](https://haacked.com/images/AppleAd.jpg) Recently I poked
 lighthearted fun at one of the [recent Apple
-commercials](http://haacked.com/archive/2006/06/30/ApplesUnintendedComplimentToWindows.aspx "Apple Commercial")
+commercials](https://haacked.com/archive/2006/06/30/ApplesUnintendedComplimentToWindows.aspx "Apple Commercial")
 called “Network”
 
 There are many who dislike the ads and claim that the ad is blatantly

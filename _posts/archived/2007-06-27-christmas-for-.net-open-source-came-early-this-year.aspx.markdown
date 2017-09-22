@@ -9,7 +9,7 @@ redirect_from: "/archive/2007/06/26/christmas-for-.net-open-source-came-early-th
 ---
 
 Last year when all the [hubbub surrounding
-NDoc](http://haacked.com/archive/2006/07/26/TheDemiseOfNDocAndAChallengeForUsersOfOpenSourceSoftware.aspx "The Demise to NDoc and a challenge for OSS")
+NDoc](https://haacked.com/archive/2006/07/26/TheDemiseOfNDocAndAChallengeForUsersOfOpenSourceSoftware.aspx "The Demise to NDoc and a challenge for OSS")
 was happening, I tried to rally people around the idea of a **Contribute
 to Open Source** day on July 26^th^.
 
@@ -17,7 +17,7 @@ Why July 26?
 
 Because I happened to write that post on that day.
 
-[![coding-horror-official-logo-small](http://haacked.com/images/haacked_com/WindowsLiveWriter/Christmas.NETOpenSourceCameEarlyThisYear_FE3/coding-horror-official-logo-small_thumb.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/Christmas.NETOpenSourceCameEarlyThisYear_FE3/coding-horror-official-logo-small.png)In
+[![coding-horror-official-logo-small](https://haacked.com/images/haacked_com/WindowsLiveWriter/Christmas.NETOpenSourceCameEarlyThisYear_FE3/coding-horror-official-logo-small_thumb.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/Christmas.NETOpenSourceCameEarlyThisYear_FE3/coding-horror-official-logo-small.png)In
 any case, it looks like Christmas will come early for some lucky open
 source projects. Jeff Atwood of
 [CodingHorror](http://www.codinghorror.com/ "CodingHorror - programming and human factors")
@@ -45,7 +45,7 @@ to wait around and do nothing in the meantime. We can take the lead like
 these other initiatives.
 
 -   [Incubator for .NET Open Source
-    Projects](http://haacked.com/archive/2007/05/23/beta-incubator-for-.net-open-source-projects.aspx "Incubator for .NET Open Source Projects")
+    Projects](https://haacked.com/archive/2007/05/23/beta-incubator-for-.net-open-source-projects.aspx "Incubator for .NET Open Source Projects")
 -   [DotNetNuke OpenForce
     Conference](http://www.dotnetnuke.com/News/MediaReleases/DotNetNukeLeadsWayWithOpenForce07Conference/tabid/1087/Default.aspx "OpenForce Conference")
 

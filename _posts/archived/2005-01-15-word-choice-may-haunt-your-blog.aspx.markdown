@@ -24,7 +24,7 @@ Saw this on Scoble's link blog.
 
 A while back I blogged about a hilarious Dave Chappelle skit called (and
 if you tend to read aloud, I recommend reading the next words silently)
-"[The Niggar Family](http://haacked.com/archive/2004/02/06/169.aspx)"
+"[The Niggar Family](https://haacked.com/archive/2004/02/06/169.aspx)"
 (and please note that the derogatory N-word is spelled differently lest
 you flame me miserably).
 
@@ -38,10 +38,10 @@ As you might guess, the search phrase that brings the most visitors is
 "Niggar Family". That post has seen 7881 web views according to .Text's
 reporting. In second place is the phrase "German Car Video" (25,981 web
 views). You'll just have to [watch
-it](http://haacked.com/archive/2004/05/22/465.aspx) to see why.
+it](https://haacked.com/archive/2004/05/22/465.aspx) to see why.
 
 My most popular post of all time is "[Nerds Protest The
-RNC](http://haacked.com/archive/2004/08/30/987.)" (41,635 web views).
+RNC](https://haacked.com/archive/2004/08/30/987.)" (41,635 web views).
 It's the photo of the sign with the html tag "\</bush\>.
 
 So like Molly, I've had my share of being an Accidental Blogger. The day

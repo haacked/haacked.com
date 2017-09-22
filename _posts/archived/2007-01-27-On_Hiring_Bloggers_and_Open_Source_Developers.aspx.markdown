@@ -10,7 +10,7 @@ redirect_from: "/archive/2007/01/26/On_Hiring_Bloggers_and_Open_Source_Developer
 ---
 
 [![Thumbs
-Down](http://haacked.com/images/haacked_com/WindowsLiveWriter/OnHiringBloggersandOpenSourceDevelopers_1135/605479_thumbs_down_with_clipping_path_thumb%5B5%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/OnHiringBloggersandOpenSourceDevelopers_1135/605479_thumbs_down_with_clipping_path%5B7%5D.jpg)If
+Down](https://haacked.com/images/haacked_com/WindowsLiveWriter/OnHiringBloggersandOpenSourceDevelopers_1135/605479_thumbs_down_with_clipping_path_thumb%5B5%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/OnHiringBloggersandOpenSourceDevelopers_1135/605479_thumbs_down_with_clipping_path%5B7%5D.jpg)If
 you’ve read my blog for any length of time, you know I tend to go on and
 on about the virtues of blogging and participating in Open Source
 projects.
@@ -25,11 +25,11 @@ sing around the campfire.
 All kidding aside, **I really have put my money where my mouth is.**
 
 [![Thumbs
-Up](http://haacked.com/images/haacked_com/WindowsLiveWriter/OnHiringBloggersandOpenSourceDevelopers_1135/605480_thumbs_up_with_clipping_path_thumb%5B5%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/OnHiringBloggersandOpenSourceDevelopers_1135/605480_thumbs_up_with_clipping_path%5B9%5D.jpg)In
+Up](https://haacked.com/images/haacked_com/WindowsLiveWriter/OnHiringBloggersandOpenSourceDevelopers_1135/605480_thumbs_up_with_clipping_path_thumb%5B5%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/OnHiringBloggersandOpenSourceDevelopers_1135/605480_thumbs_up_with_clipping_path%5B9%5D.jpg)In
 the past, I’ve talked about the [challenges of
-hiring](http://haacked.com/archive/2005/12/16/Hiring_Is_Challenging.aspx "Hiring is Challenging"),
+hiring](https://haacked.com/archive/2005/12/16/Hiring_Is_Challenging.aspx "Hiring is Challenging"),
 as well as my belief that [blogs are a great means to connect with good
-developers](http://haacked.com/archive/2006/10/04/Better_Recruiting_Through_Blogistry.aspx "Better Recruiting Through Blogistry").
+developers](https://haacked.com/archive/2006/10/04/Better_Recruiting_Through_Blogistry.aspx "Better Recruiting Through Blogistry").
 
 That’s how I met and hired [Jon
 Galloway](http://weblogs.asp.net/jgalloway/ "Jon Galloway") who is a

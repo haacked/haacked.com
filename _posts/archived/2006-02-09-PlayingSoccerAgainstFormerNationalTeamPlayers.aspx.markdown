@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/02/08/PlayingSoccerAgainstFormerNationalTeamPlayers.aspx/"
 ---
 
-![Soccer Ball](http://haacked.com/images/SoccerBallBW.jpg) I’ve joined a
+![Soccer Ball](https://haacked.com/images/SoccerBallBW.jpg) I’ve joined a
 group of soccer players attempting to form a team to get into a 30 and
 over league that hosts games on much nicer fields. These are the fields
 with that really nice high quality artificial turf, a huge difference
@@ -41,6 +41,6 @@ field.
 
 In any case, we just got the word that we have been accepted into the
 league. Woohoo! Hopefully we won’t run [into any
-brawls](http://haacked.com/archive/2006/02/04/BeerandSoccer.aspx "Beer and Soccer story")
+brawls](https://haacked.com/archive/2006/02/04/BeerandSoccer.aspx "Beer and Soccer story")
 in this league.
 

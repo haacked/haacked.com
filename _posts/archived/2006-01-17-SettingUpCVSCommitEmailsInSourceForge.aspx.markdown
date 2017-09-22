@@ -43,7 +43,7 @@ documentation](https://sourceforge.net/docman/display_doc.php?docid=29894&group_
 The only thing I have to add is that to checkout the CVSROOT module,
 follow the same instructions for checking out the project’s main module
 [as I wrote in the
-past](http://haacked.com/archive/2005/05/12/3178.aspx) , but enter
+past](https://haacked.com/archive/2005/05/12/3178.aspx) , but enter
 "CVSROOT" for the Module name at the bottom of the TortoiseCVS dialog.
 
 This is currently set up for Subtext (click [here if you wish to

@@ -20,7 +20,7 @@ Have any of you heard of [Robbie
 Williams](http://en.wikipedia.org/wiki/Robbie_Williams "Robbie Williams")?
 
 [![Robbie
-Williams](http://haacked.com/images/haacked_com/WindowsLiveWriter/BritishMusicStarsandSoccerInLosAngeles_14AFB/Comeundonemusicvideo.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/BritishMusicStarsandSoccerInLosAngeles_14AFB/Comeundonemusicvideo1.jpg "Robbie Williams")
+Williams](https://haacked.com/images/haacked_com/WindowsLiveWriter/BritishMusicStarsandSoccerInLosAngeles_14AFB/Comeundonemusicvideo.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/BritishMusicStarsandSoccerInLosAngeles_14AFB/Comeundonemusicvideo1.jpg "Robbie Williams")
 
 My wife knew who he was immediately. Must be the fact that she’s a
 British citizen (she has dual Japanese citizenship as well). She played
@@ -40,7 +40,7 @@ doing so.
 As I’ve written before, [Steve
 Jones](http://en.wikipedia.org/wiki/Steve_Jones_(musician) "Steve Jones")
 of the Sex Pistols runs a [team in my
-league](http://haacked.com/archive/2006/12/16/Played_Soccer_Against_The_Juggernaut.aspx "Playing against the juggernaut").
+league](https://haacked.com/archive/2006/12/16/Played_Soccer_Against_The_Juggernaut.aspx "Playing against the juggernaut").
 I have heard that [Rod
 Stewart](http://en.wikipedia.org/wiki/Rod_Stewart "Rod Stewart") has a
 team in Los Angeles as well. I suppose if the day comes when I can’t run
@@ -48,7 +48,7 @@ on the pitch, and if I had that sort of money, I could see running a
 soccer club (sorry, Footbal Club) as a fantastic hobby.
 
 [![Santiago
-Cabrera](http://haacked.com/images/haacked_com/WindowsLiveWriter/BritishMusicStarsandSoccerInLosAngeles_14AFB/SantiagoCabrera_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/BritishMusicStarsandSoccerInLosAngeles_14AFB/SantiagoCabrera2.jpg "Santiago Cabrera")
+Cabrera](https://haacked.com/images/haacked_com/WindowsLiveWriter/BritishMusicStarsandSoccerInLosAngeles_14AFB/SantiagoCabrera_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/BritishMusicStarsandSoccerInLosAngeles_14AFB/SantiagoCabrera2.jpg "Santiago Cabrera")
 
 Not to be outdone, my team now has its own celebrity member. Santiago
 Cabrera from the TV show Heroes is now a member of our team.

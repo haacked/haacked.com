@@ -39,7 +39,7 @@ download the plugin and to unzip the contents to my scripts directory
 per the [Installation
 instructions](http://www.secondpersonplural.ca/jqgriddocs/_2eb0enwgd.htm "Installation").
 
-![jquery-grid-scripts](http://haacked.com/images/haacked_com/WindowsLiveWriter/UsingjQueryGridWithASP.NETMVC_B6D6/jquery-grid-scripts_3.png "jquery-grid-scripts")
+![jquery-grid-scripts](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingjQueryGridWithASP.NETMVC_B6D6/jquery-grid-scripts_3.png "jquery-grid-scripts")
 
 For the purposes of this demo, I’ll just implement this using the
 `Index` controller action and view within the `HomeController`.
@@ -174,17 +174,17 @@ By naming the arguments to the action method exactly the same as what is
 in the query string, we have a very convenient way to retrieve these
 values. **Remember, arguments passed to an action method should be
 treated with care.**[**Never trust user
-input**](http://haacked.com/archive/2008/07/08/user-input-in-sheep-clothing.aspx "User Input in Sheep's Clothing")**!**
+input**](https://haacked.com/archive/2008/07/08/user-input-in-sheep-clothing.aspx "User Input in Sheep's Clothing")**!**
 
 In this example, we statically create some JSON data and use the `Json`
 helper method to return the data back to the grid and Voila! It works!
 
-![jquery-grid-demo](http://haacked.com/images/haacked_com/WindowsLiveWriter/UsingjQueryGridWithASP.NETMVC_B6D6/jquery-grid-demo_3.png "jquery-grid-demo")
+![jquery-grid-demo](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingjQueryGridWithASP.NETMVC_B6D6/jquery-grid-demo_3.png "jquery-grid-demo")
 
 *Yeah, this is great for a simple demo, but I use a real database to
 store my data!* Understood. It’s time to hook this up to a real
 database. As you might guess, I’ll use the [HaackOverflow
-database](http://haacked.com/archive/2008/11/07/haackoverflow-vs-stackoverflow.aspx "HaackOverflow")
+database](https://haacked.com/archive/2008/11/07/haackoverflow-vs-stackoverflow.aspx "HaackOverflow")
 for this demo as well as LinqToSql.
 
 I’ll assume you know how to add a database and create a LinqToSql model

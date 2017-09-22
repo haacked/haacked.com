@@ -28,11 +28,11 @@ I’ll show you the results first, and then talk about how I made it.
 After installing my project template, every time you create a new
 ASP.NET MVC 3 project, you’ll see a new entry named “Really Empty”
 
-[![mvc3-empty-proj-template](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Really-Empt.NET-MVC-3-Project-Template_E2FF/mvc3-empty-proj-template_thumb_4.png "mvc3-empty-proj-template")](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Really-Empt.NET-MVC-3-Project-Template_E2FF/mvc3-empty-proj-template_10.png)
+[![mvc3-empty-proj-template](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Really-Empt.NET-MVC-3-Project-Template_E2FF/mvc3-empty-proj-template_thumb_4.png "mvc3-empty-proj-template")](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Really-Empt.NET-MVC-3-Project-Template_E2FF/mvc3-empty-proj-template_10.png)
 
 Select that and you end up with the following directory structure.
 
-![mvc3-proj-template-expanded](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Really-Empt.NET-MVC-3-Project-Template_E2FF/mvc3-proj-template-expanded_3.png "mvc3-proj-template-expanded")
+![mvc3-proj-template-expanded](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Really-Empt.NET-MVC-3-Project-Template_E2FF/mvc3-proj-template-expanded_3.png "mvc3-proj-template-expanded")
 
 I removed just about everything. I kept the *Views* directory because
 the *Web.config* file that’s required is not obvious and there’s special
@@ -49,7 +49,7 @@ Building Custom Project Templates
 
 I wrote about building a custom ASP.NET MVC 3 project template [a long
 time
-ago](http://haacked.com/archive/2011/06/05/creating-a-custom-asp-net-mvc-project-template.aspx "Building a custom ASP.NET MVC 3 project template").
+ago](https://haacked.com/archive/2011/06/05/creating-a-custom-asp-net-mvc-project-template.aspx "Building a custom ASP.NET MVC 3 project template").
 However, I’ve improved on what I did quite a bit. Now, I have a single
 *install.cmd* file you can run and it’ll determine whether you’re on x64
 or x86 and run the correct registry script. The *install.cmd* and

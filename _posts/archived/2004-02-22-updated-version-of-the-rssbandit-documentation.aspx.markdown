@@ -15,13 +15,13 @@ In the meantime, email me and I will send you the documents referenced
 below.
 
 This is a work in progress. Pick up the Word doc
-[here](http://haacked.com/docs/GettingStartedWithRssBandit.zip "Getting Started With RSSBandit").
+[here](https://haacked.com/docs/GettingStartedWithRssBandit.zip "Getting Started With RSSBandit").
 Please make updates and changes with change tracking on and I’ll be sure
 to incorporate them into the master document.
 
 Also, just for kicks, I generated MSDN style documentation of the
 RssBandit class library using NDoc. You can pick that up
-[here](http://haacked.europe.webmatrixhosting.net/docs/RssBandit%20Class%20Library%20Documentation.zip)
+[here](https://haacked.com/docs/RssBandit%20Class%20Library%20Documentation.zip)
 
 If the files are unavailable, let me know. Sometimes files get deleted
 if I go over my quota.

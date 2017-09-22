@@ -10,7 +10,7 @@ redirect_from: "/archive/2004/11/03/ws-security-and-the-reason-behind-hashed-pas
 
 I received an email in response to my post [How To Avoid ClearText
 Passwords With
-UsernameToken](http://haacked.com/archive/2004/09/09/1177.aspx) that
+UsernameToken](https://haacked.com/archive/2004/09/09/1177.aspx) that
 asks the following question:
 
 > ...Thus if a hacker steals the hashed password from your database, he

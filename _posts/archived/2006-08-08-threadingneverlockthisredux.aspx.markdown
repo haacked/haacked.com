@@ -10,7 +10,7 @@ redirect_from: "/archive/2006/08/07/threadingneverlockthisredux.aspx/"
 
 A while ago I wrote that you [should never lock a value type and never
 lock
-`this`](http://haacked.com/archive/2005/04/12/NeverLockThis.aspx "Threading Tips").
+`this`](https://haacked.com/archive/2005/04/12/NeverLockThis.aspx "Threading Tips").
 I presented a code snippet to illustrate the point but I violated the
 cardinal rule for code examples: compile and test it in context. Mea
 Culpa! Today in my comments, someone named Jack rightly pointed out that

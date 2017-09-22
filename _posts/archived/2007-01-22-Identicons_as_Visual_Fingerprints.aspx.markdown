@@ -13,7 +13,7 @@ redirect_from:
 ---
 
 **[![Fingerprint via public domain
-clipart](http://haacked.com/images/haacked_com/WindowsLiveWriter/IdenticonsasVisualFingerprints_CB0/fingerprint_thumb1.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/IdenticonsasVisualFingerprints_CB0/fingerprint3.png)
+clipart](https://haacked.com/images/haacked_com/WindowsLiveWriter/IdenticonsasVisualFingerprints_CB0/fingerprint_thumb1.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/IdenticonsasVisualFingerprints_CB0/fingerprint3.png)
 How do you uniquely identify a person, without divulging the identity of
 that person?**For example, given a set of personal artifacts, how would
 I arrange the set of artifacts grouped by the person to which they
@@ -53,7 +53,7 @@ divulging their actual IP address, which could be a privacy concern. The
 following image are some examples of identicons.
 
 ![Some Identicon
-Glyphs](http://haacked.com/images/haacked_com/WindowsLiveWriter/IdenticonsasVisualFingerprints_CB0/identiconsamples_thumb1.png)
+Glyphs](https://haacked.com/images/haacked_com/WindowsLiveWriter/IdenticonsasVisualFingerprints_CB0/identiconsamples_thumb1.png)
 
 What’s interesting to me about identicons is that they have wider uses
 beyond representing IP addresses. As Don states,
@@ -73,12 +73,12 @@ this from the [PuTTY download
 page](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html "PuTTY Download Page").
 
 [![Putty Download Page. Shows links to MD5
-Checksums](http://haacked.com/images/haacked_com/WindowsLiveWriter/IdenticonsasVisualFingerprints_CB0/image0_thumb5.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/IdenticonsasVisualFingerprints_CB0/image07.png) 
+Checksums](https://haacked.com/images/haacked_com/WindowsLiveWriter/IdenticonsasVisualFingerprints_CB0/image0_thumb5.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/IdenticonsasVisualFingerprints_CB0/image07.png) 
 
 The next screenshot shows some actual hash values of exes.
 
 [![Hash
-Values](http://haacked.com/images/haacked_com/WindowsLiveWriter/IdenticonsasVisualFingerprints_CB0/image0_thumb9.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/IdenticonsasVisualFingerprints_CB0/image013.png)
+Values](https://haacked.com/images/haacked_com/WindowsLiveWriter/IdenticonsasVisualFingerprints_CB0/image0_thumb9.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/IdenticonsasVisualFingerprints_CB0/image013.png)
 
 Looking at the first listing, we can see that for *pageant.exe*, the
 hash value is *01d89c3cbf5a9fd2606ba5fe3b59a982*, kind of a mouthful,

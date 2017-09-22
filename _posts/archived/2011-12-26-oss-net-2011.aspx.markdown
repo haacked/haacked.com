@@ -13,9 +13,9 @@ redirect_from: "/archive/2011/12/25/oss-net-2011.aspx/"
 T’is the season for “Year in Review” and “Best of” blog posts. It’s a
 vain practice, to be sure. This is exactly why I’ve done [it almost
 every
-year](http://haacked.com/tags/Year-in-review/default.aspx "Year in review")!
+year](https://haacked.com/tags/Year-in-review/default.aspx "Year in review")!
 After all, isn’t all [blogging pure
-vanity](http://haacked.com/archive/2004/10/08/bloggingispurevanity.aspx "Blogging is pure vanity")?
+vanity](https://haacked.com/archive/2004/10/08/bloggingispurevanity.aspx "Blogging is pure vanity")?
 Sadly, I did miss a few years when my vanity could not overcome my
 laziness.
 
@@ -25,10 +25,10 @@ This year I am changing it up a bit to look at some of the highlights,
 .NET/Microsoft, and I think it’s only going to get better in 2012.
 
 ![NuGet
-Logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-Open-Source-and-.NET-2011_CBF9/nugetlogo_3.png "NuGet")
+Logo](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-Open-Source-and-.NET-2011_CBF9/nugetlogo_3.png "NuGet")
 
 We released NuGet 1.0 in the [beginning of this
-year](http://haacked.com/archive/2011/01/13/aspnetmvc3-released.aspx "ASP.NET MVC 3")
+year](https://haacked.com/archive/2011/01/13/aspnetmvc3-released.aspx "ASP.NET MVC 3")
 and it had a big impact on the amount of sleep I got last year. Insomnia
 aside, it’s also had a significant impact on the .NET community and been
 [very well
@@ -155,7 +155,7 @@ This project was started as a completely grass roots project in 2011 but
 has seen amazing pick-up from the community and I believe will have a
 big impact in 2012.
 
-![mp-mono-logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-Open-Source-and-.NET-2011_CBF9/mp-mono-logo_3.png "mp-mono-logo")
+![mp-mono-logo](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-Open-Source-and-.NET-2011_CBF9/mp-mono-logo_3.png "mp-mono-logo")
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Miguel de Icaza](http://tirania.org/blog/ "Miguel De Icaza's Blog")
@@ -170,7 +170,7 @@ In the following image, you can see me teaching Miguel everything he
 knows about software development and open source while Scott acts
 surprised?
 
-![](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/trouble-inc_2.jpg)
+![](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/trouble-inc_2.jpg)
 
 What really caught my interest in his post was the note about Microsoft
 using Mono and Unity3D to build [Kinectimals for
@@ -181,7 +181,7 @@ Microsoft.
 Xamarin is doing a great job of bringing Mono, and consequently C\# and
 open source to just about every device imaginable!
 
-Open Source Fest at ![Mix 11](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-Open-Source-and-.NET-2011_CBF9/mix11-logo_3.jpg "Mix 11")
+Open Source Fest at ![Mix 11](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-Open-Source-and-.NET-2011_CBF9/mix11-logo_3.jpg "Mix 11")
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Mix is one of my favorite conferences and I’ve attended every single
@@ -216,14 +216,14 @@ All of these libraries are Apache v2 licensed and actively being
 developed in GitHub.
 
 ![screenshot of the azure sdk
-homepage](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-Open-Source-and-.NET-2011_CBF9/Source-code-on-github_3.png "Azure SDK source code on GitHub")
+homepage](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-Open-Source-and-.NET-2011_CBF9/Source-code-on-github_3.png "Azure SDK source code on GitHub")
 
 It’s great to see Microsoft not only releasing source code under an open
 source license, but actively developing it in the open and ostensibly
 accepting contributions from the public. I look forward to seeing more
 of this in the future.
 
-[![GitHub\_PixelOptimizedLogo](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-Open-Source-and-.NET-2011_CBF9/github-logo_thumb_1.png "GitHub_PixelOptimizedLogo")](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-Open-Source-and-.NET-2011_CBF9/github-logo_4.png)
+[![GitHub\_PixelOptimizedLogo](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-Open-Source-and-.NET-2011_CBF9/github-logo_thumb_1.png "GitHub_PixelOptimizedLogo")](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-Open-Source-and-.NET-2011_CBF9/github-logo_4.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Last but not least, there’s GitHub. Full disclaimer: [I’m an employee of

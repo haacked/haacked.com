@@ -32,7 +32,7 @@ what duck typing is about.
 
 ### Duck Typing Explained
 
-[![duck-rabbit-phil](http://haacked.com/images/haacked_com/WindowsLiveWriter/WhyDuckTypingMattersInC_919F/duckrabbitphil_thumb.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/WhyDuckTypingMattersInC_919F/duckrabbitphil.png "Rabbit or Duck?")Duck
+[![duck-rabbit-phil](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhyDuckTypingMattersInC_919F/duckrabbitphil_thumb.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhyDuckTypingMattersInC_919F/duckrabbitphil.png "Rabbit or Duck?")Duck
 typing allows an object to be passed in to a method that expects a
 certain type even if it doesn’t inherit from that type. All it has to do
 is support the methods and properties of the expected type *in use by
@@ -124,7 +124,7 @@ via the `foreach` operator.
 If you’ve followed my blog at all, you know that I’ve gone through all
 sorts of contortions to try and mock the `HttpContext` object via [the
 `HttpSimulator`
-class](http://haacked.com/archive/2007/06/19/unit-tests-web-code-without-a-web-server-using-httpsimulator.aspx "Unit Test Web Code").
+class](https://haacked.com/archive/2007/06/19/unit-tests-web-code-without-a-web-server-using-httpsimulator.aspx "Unit Test Web Code").
 The problem is that I can’t use a mock framework because `HttpContext`
 is a sealed class and it doesn’t implement an interface that is useful
 to me.
@@ -209,7 +209,7 @@ using (mocks.Record())
   mockContext = mocks.DynamicMock<IHttpContext>();
   IHttpRequest request = mocks.DynamicMock<IHttpRequest>();
   SetupResult.For(mockContext.Request).Return(request);
-  SetupResult.For(request.Url).Return(new Uri("http://haacked.com/"));
+  SetupResult.For(request.Url).Return(new Uri("https://haacked.com/"));
 }
 using (mocks.Playback())
 {

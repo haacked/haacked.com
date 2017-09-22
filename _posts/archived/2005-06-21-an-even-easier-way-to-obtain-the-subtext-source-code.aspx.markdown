@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2005/06/20/an-even-easier-way-to-obtain-the-subtext-source-code.aspx/"
 ---
 
-In a [recent post](http://haacked.com/archive/2005/06/18/5155.aspx) I
+In a [recent post](https://haacked.com/archive/2005/06/18/5155.aspx) I
 outlined step by step how to obtain the source code for
 [Subtext](https://sourceforge.net/projects/subtext/) as a non-developer.
 Well I was a bit sloppy and made a couple of mistakes in the post (now

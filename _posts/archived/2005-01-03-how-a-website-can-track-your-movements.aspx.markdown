@@ -51,7 +51,7 @@ noticed that the ads were in Japanese.
 When I saw those ads, it occurred to me that any website I visited via
 my laptop using cookies could corroborate the fact that I'm in Japan. Of
 course, it might be easier to discover that fact by just reading [my
-blog](http://haacked.com/archive/2005/01/01/1791.aspx).
+blog](https://haacked.com/archive/2005/01/01/1791.aspx).
 
 As far as I know, this isn't a perfect means to obtain your whereabouts.
 There are anonymizer services out there that can hide your true IP,

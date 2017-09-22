@@ -13,7 +13,7 @@ redirect_from: "/archive/2011/01/20/sprechen-sie-asp-net-mvc.aspx/"
 Ni hao ma!
 
 Hot on the heels of [the RTM release of ASP.NET MVC
-3](http://haacked.com/archive/2011/01/13/aspnetmvc3-released.aspx "ASP.NET MVC 3"),
+3](https://haacked.com/archive/2011/01/13/aspnetmvc3-released.aspx "ASP.NET MVC 3"),
 we now have localized versions of ASP.NET MVC in 9 languages! The
 installation links within the Web Platform Installer was updated. If you
 want to download the installer yourself, you can go to the [English

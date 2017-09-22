@@ -56,4 +56,4 @@ The good news is, there are a lot of people and companies thinking about this. T
 
 Even with all this data, we'll never perfect hiring. Studying human behavior is a tricky affair. If we could predict it well, the stock market would be completely predictable.
 
-Companies should embrace the fact that they will often be wrong. They will make mistakes in hiring. As much time as a company spends attempting to make their hiring process rock solid, they should also spend a similar amount of time building humane systems for correcting hiring mistakes. This is a theme I've touched upon before - the [inevitability of failure](http://haacked.com/archive/2015/02/07/failure-and-repair/).
+Companies should embrace the fact that they will often be wrong. They will make mistakes in hiring. As much time as a company spends attempting to make their hiring process rock solid, they should also spend a similar amount of time building humane systems for correcting hiring mistakes. This is a theme I've touched upon before - the [inevitability of failure](https://haacked.com/archive/2015/02/07/failure-and-repair/).

@@ -13,7 +13,7 @@ redirect_from: "/archive/2010/10/13/updating-nupack-contributor-guidelines.aspx/
 
 A couple days ago I wrote a blog post entitled, [Running Open Source In
 A Distributed
-World](http://haacked.com/archive/2010/10/12/running-open-source-in-a-distributed-world.aspx "Running OSS in a Distributed World")
+World](https://haacked.com/archive/2010/10/12/running-open-source-in-a-distributed-world.aspx "Running OSS in a Distributed World")
 which outlined some thoughts I had about how managing core contributors
 to an open source project changes when you move from a centralized
 version control repository to distributed version control.
@@ -44,7 +44,7 @@ great answer,
 
 So simple I’ll smack myself every hour for a week for not thinking of
 it.
-![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/NuPack-Issues-Up-For-Grabs_7BB8/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/NuPack-Issues-Up-For-Grabs_7BB8/wlEmoticon-smile_2.png)
 
 Unfortunately, the process for accepting a contributor agreement is not
 yet fully automated (the [Outercurve

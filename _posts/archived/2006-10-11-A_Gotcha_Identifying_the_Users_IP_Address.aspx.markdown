@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/10/10/A_Gotcha_Identifying_the_Users_IP_Address.as
 ---
 
 Recently I wrote a .NET based [Akismet API
-component](http://haacked.com/archive/2006/09/26/Subtext_Akismet_API.aspx "Subtext Akismet API")
+component](https://haacked.com/archive/2006/09/26/Subtext_Akismet_API.aspx "Subtext Akismet API")
 for [Subtext](http://subtextproject.com/ "Subtext Project Website").  In
 attempting to make as clean as interface as possible, I made the the
 type of the property to store the commenter’s IP address of type

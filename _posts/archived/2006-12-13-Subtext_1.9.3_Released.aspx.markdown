@@ -20,7 +20,7 @@ here](https://sourceforge.net/project/showfiles.php?group_id=137896&package_id=1
 Many thanks to Steve and the rest of the Subtext crew for all the hard
 work in getting this release together. Ever since I wrote that [Subtext
 Job Posting blog
-post](http://haacked.com/archive/2006/11/03/Seriously_Cool_Jobs_Available.aspx "Seriously Cool Jobs Available"),
+post](https://haacked.com/archive/2006/11/03/Seriously_Cool_Jobs_Available.aspx "Seriously Cool Jobs Available"),
 we've had a lot more active contributors lending a hand, which has been
 a big help. Your participation is very much appreciated!
 

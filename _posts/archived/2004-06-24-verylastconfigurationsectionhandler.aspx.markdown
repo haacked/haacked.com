@@ -10,7 +10,7 @@ redirect_from: "/archive/2004/06/23/verylastconfigurationsectionhandler.aspx/"
 
 UPDATE: In ASP.NET 2.0, there’s an even easier approach that supercedes
 this one. I wrote [about it
-here](http://haacked.com/archive/2007/03/12/custom-configuration-sections-in-3-easy-steps.aspx "configuration in asp.net 2.0").
+here](https://haacked.com/archive/2007/03/12/custom-configuration-sections-in-3-easy-steps.aspx "configuration in asp.net 2.0").
 
 A while back [Craig
 Andera](http://pluralsight.com/blogs/craig/default.aspx "Craig Andera’s Blog")

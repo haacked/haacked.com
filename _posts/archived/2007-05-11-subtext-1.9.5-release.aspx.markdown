@@ -9,11 +9,11 @@ redirect_from: "/archive/2007/05/10/subtext-1.9.5-release.aspx/"
 ---
 
 ![Subtext Submarine
-Logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext1.9.5Release_EEA4/subtextsubmarinelogo6.png)
+Logo](https://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext1.9.5Release_EEA4/subtextsubmarinelogo6.png)
 It is with great pleasure and relief that I announce the release of
 Subtext 1.9.5. Between you and me, I’m just happy to get this release
 out before [the kid is
-born](http://haacked.com/archive/2006/11/05/World_Domination_Phase_1_Commenced.aspx "World Domination Plans").
+born](https://haacked.com/archive/2006/11/05/World_Domination_Phase_1_Commenced.aspx "World Domination Plans").
 
 As with most point releases, this is primarily a bug fix release, but we
 found time to introduce a few nice new features - most notably support
@@ -24,9 +24,9 @@ for tagging and
 
 -   **Content Tagging and Tag Cloud -** for more details, refere to
     [this
-    post](http://haacked.com/archive/2007/05/11/tagging-in-subtext.aspx "Tagging In Subtext"). 
+    post](https://haacked.com/archive/2007/05/11/tagging-in-subtext.aspx "Tagging In Subtext"). 
 -   **Identicon Support** - Uses the [Identicon Handler
-    project](http://haacked.com/archive/2007/03/19/identicon-handler-for-.net-on-codeplex.aspx "Identicon Handler on CodePlex")
+    project](https://haacked.com/archive/2007/03/19/identicon-handler-for-.net-on-codeplex.aspx "Identicon Handler on CodePlex")
     on CodePlex.
 -   **MyBrand Feedburner Support** - Updated our FeedBurner
     implementation to support custom feedburner URLs
@@ -105,7 +105,7 @@ Server](http://build.subtextproject.com/ccnet/) as an example.
 
 If you’d like to contribute, we’re always looking for help. [Great
 positions are
-open](http://haacked.com/archive/2006/11/03/Seriously_Cool_Jobs_Available.aspx "Cool Jobs Available")!
+open](https://haacked.com/archive/2006/11/03/Seriously_Cool_Jobs_Available.aspx "Cool Jobs Available")!
 
 **What’s Next?**
 

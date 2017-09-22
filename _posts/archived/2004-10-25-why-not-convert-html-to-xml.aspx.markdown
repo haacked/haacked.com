@@ -9,9 +9,9 @@ redirect_from: "/archive/2004/10/24/why-not-convert-html-to-xml.aspx/"
 ---
 
 Pat Gannon (no blog) makes a great
-[point](http://haacked.com/archive/2004/10/25/1471.aspx#1486) in the
+[point](https://haacked.com/archive/2004/10/25/1471.aspx#1486) in the
 comments on my post about [using regular expressions to parse
-HTML](http://haacked.com/archive/2004/10/25/1471.aspx). He says:
+HTML](https://haacked.com/archive/2004/10/25/1471.aspx). He says:
 
 > Just to play devil's advocate for a minute, it seems like HTML is just
 > too darned close to XML to have to parse this way. Isn't there a

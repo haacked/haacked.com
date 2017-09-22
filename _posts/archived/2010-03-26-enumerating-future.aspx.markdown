@@ -22,7 +22,7 @@ I didn’t until watching [Elmo Potty
 Time](http://www.amazon.com/gp/product/B000G0O5F0?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000G0O5F0 "Elmo Potty Time on Amazon.com")
 with my son. Now I think about it all the time, but I digress.
 
-[![the-future](http://haacked.com/images/haacked_com/WindowsLiveWriter/EnumeratingtheFutureWithTheReactiveFrame_1263C/the-future_3.jpg "the-future")](http://www.sxc.hu/photo/1194467 "Shimmering lights 1 - by e-Eva-a")Historically,
+[![the-future](https://haacked.com/images/haacked_com/WindowsLiveWriter/EnumeratingtheFutureWithTheReactiveFrame_1263C/the-future_3.jpg "the-future")](http://www.sxc.hu/photo/1194467 "Shimmering lights 1 - by e-Eva-a")Historically,
 I’ve always thought of iteration as an action over a static set of
 items. You have this collection of elements, perhaps a snapshot of data,
 and you then proceed to grab a reference to each one in order and do
@@ -85,7 +85,7 @@ running over already populated collections.
 
 Speaking of keyboard presses, Matt Podwysocki took my [Live Preview
 jQuery
-Plugin](http://haacked.com/archive/2009/12/15/live-preview-jquery-plugin.aspx "Live Preview jQuery Plugin")
+Plugin](https://haacked.com/archive/2009/12/15/live-preview-jquery-plugin.aspx "Live Preview jQuery Plugin")
 and ported it to use the Reactive Extensions for JavaScript. You can see
 [a demo of it in action
 here](http://demo.haacked.com/livepreview-rx/ "Live Preview with Rx")
@@ -108,5 +108,5 @@ As Matt told me, if you squint hard enough, it looks like you’re writing
 a LINQ query in JavaScript. :)
 
 Tags: [reactive
-extensions](http://haacked.com/tags/reactive+extensions/default.aspx),[javascript](http://haacked.com/tags/javascript/default.aspx)
+extensions](https://haacked.com/tags/reactive+extensions/default.aspx),[javascript](https://haacked.com/tags/javascript/default.aspx)
 

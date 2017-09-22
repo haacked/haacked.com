@@ -10,9 +10,9 @@ redirect_from: "/archive/2006/09/20/My_Third_Blog.aspx/"
 ---
 
 [![Soccer
-Game](http://haacked.com/images/haacked_com/WindowsLiveWriter/MyThirdBlog_A1F6/soccer_defense_thumb1.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MyThirdBlog_A1F6/soccer_defense3.jpg)
+Game](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyThirdBlog_A1F6/soccer_defense_thumb1.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyThirdBlog_A1F6/soccer_defense3.jpg)
 Way back when I announced the [first Roadmap for
-Subtext](http://haacked.com/archive/2005/05/05/2983.aspx), I stated that
+Subtext](https://haacked.com/archive/2005/05/05/2983.aspx), I stated that
 Subtext would remove the multiple blogs feature and only support a
 single blog.  Fortunately I was persuaded by many commenters to abandon
 that change and continue to support multiple blogs.  Instead, I set out
@@ -21,7 +21,7 @@ to simplify the process of configuring multiple blogs.
 Now I am really glad that I did so.  I currently have three blogs
 running off of a single installation of Subtext.
 
-1.  This one [http://haacked.com/](http://haacked.com/)
+1.  This one [https://haacked.com/](https://haacked.com/)
 2.  My non-techie blog
     [http://phil.haacked.com/](http://phil.haacked.com/)
 3.  My soccer team

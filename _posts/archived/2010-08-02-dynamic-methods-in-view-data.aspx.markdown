@@ -12,11 +12,11 @@ redirect_from: "/archive/2010/08/01/dynamic-methods-in-view-data.aspx/"
 ---
 
 In [ASP.NET MVC 3 Preview
-1](http://haacked.com/archive/2010/07/27/aspnetmvc3-preview1-released.aspx "ASP.NET MVC 3 Preview 1 Released"),
+1](https://haacked.com/archive/2010/07/27/aspnetmvc3-preview1-released.aspx "ASP.NET MVC 3 Preview 1 Released"),
 we introduced some syntactic sugar for creating and accessing view data
 using new dynamic properties.
 
-[![sugar](http://haacked.com/images/haacked_com/WindowsLiveWriter/DynamicViewDataIsNotJustForProperties_9E33/sugar_thumb.jpg "sugar")](http://haacked.com/images/haacked_com/WindowsLiveWriter/DynamicViewDataIsNotJustForProperties_9E33/sugar_2.jpg)*Sugar,
+[![sugar](https://haacked.com/images/haacked_com/WindowsLiveWriter/DynamicViewDataIsNotJustForProperties_9E33/sugar_thumb.jpg "sugar")](https://haacked.com/images/haacked_com/WindowsLiveWriter/DynamicViewDataIsNotJustForProperties_9E33/sugar_2.jpg)*Sugar,
 it’s not just for breakfast.*
 
 Within a controller action, the `ViewModel` property of `Controller`
@@ -173,7 +173,7 @@ public void CanCallCycle() {
 }
 ```
 
-Tags: [aspnetmvc](http://haacked.com/tags/aspnetmvc/default.aspx),
-[dynamic](http://haacked.com/tags/dynamic/default.aspx),
-[viewdata](http://haacked.com/tags/viewdata/default.aspx)
+Tags: [aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
+[dynamic](https://haacked.com/tags/dynamic/default.aspx),
+[viewdata](https://haacked.com/tags/viewdata/default.aspx)
 

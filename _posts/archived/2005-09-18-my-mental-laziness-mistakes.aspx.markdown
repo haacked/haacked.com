@@ -9,12 +9,12 @@ redirect_from: "/archive/2005/09/17/my-mental-laziness-mistakes.aspx/"
 ---
 
 It wouldn’t be fair to point out the [mistakes of other developers being
-lazy](http://haacked.com/archive/2005/09/18/10204.aspx) without pointing
+lazy](https://haacked.com/archive/2005/09/18/10204.aspx) without pointing
 out that I have been very guilty of this myself. The point of the post
 is not to trash another person’s coding habits, but to present an ideal
 to work towards. Sometimes, intellectual “laziness” is absolutely
 necessary as in the example presented in the [comments of that
-post](http://haacked.com/archive/2005/09/18/10204.aspx#10223).
+post](https://haacked.com/archive/2005/09/18/10204.aspx#10223).
 
 When I started off as an ASP developer (remember VBScript?) I needed to
 store name value pairs within a cookie. So I started off storing a

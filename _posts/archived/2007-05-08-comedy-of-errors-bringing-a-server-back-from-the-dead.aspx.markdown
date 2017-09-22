@@ -10,7 +10,7 @@ redirect_from: "/archive/2007/05/07/comedy-of-errors-bringing-a-server-back-from
 
 Not too long ago I mentioned that a power surge [bricked the Subtext
 Build
-Server](http://haacked.com/archive/2007/04/24/the-death-of-the-subtext-build-server.aspx "The Death of the Subtext Build Server").
+Server](https://haacked.com/archive/2007/04/24/the-death-of-the-subtext-build-server.aspx "The Death of the Subtext Build Server").
 What followed was a comedy of errors on my part in trying to get this
 sucker back to life. Let my sleep deprived misadventures be a cautionary
 tale for you.
@@ -34,7 +34,7 @@ installed Ubuntu. Sweet! But when I rebooted, the server not find the
 drive. Huh?
 
 **[![The Scream - Edvard
-Munch](http://haacked.com/images/haacked_com/WindowsLiveWriter/ComedyOfErrorsBringingAServerBackFromThe_781/300pxThe_Scream_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/ComedyOfErrorsBringingAServerBackFromThe_781/300pxThe_Scream2.jpg "The Scream - Edvard Munch")
+Munch](https://haacked.com/images/haacked_com/WindowsLiveWriter/ComedyOfErrorsBringingAServerBackFromThe_781/300pxThe_Scream_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/ComedyOfErrorsBringingAServerBackFromThe_781/300pxThe_Scream2.jpg "The Scream - Edvard Munch")
 Lesson \#2:** *When installing an Operating System on a machine, make
 sure to unplug any external USB or Firewire drives.*
 

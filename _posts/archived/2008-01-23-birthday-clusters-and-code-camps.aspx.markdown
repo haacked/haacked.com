@@ -16,7 +16,7 @@ old. It seems I’m always following in that guy’s footsteps doesn’t it?
 > Oh look, [Hanselman gets a blue
 > badge](http://www.hanselman.com/blog/BlueBadge.aspx "Hanselman hired by MS")
 > so Phil has to go and [get a blue
-> badge](http://haacked.com/archive/2007/09/17/why-is-microsoft-removing-my-mvp-status.aspx "Microsoft hires me").
+> badge](https://haacked.com/archive/2007/09/17/why-is-microsoft-removing-my-mvp-status.aspx "Microsoft hires me").
 > Hanselman [has a
 > birthday](http://www.hanselman.com/blog/StandingOnTheirShouldersAndPayingItForward.aspx "Scott's Birthday")
 > and Phil has to go and have a birthday on the next day. What a
@@ -57,5 +57,5 @@ wasn’t looking. It was a brief moment, but that’s all he needed to
 change his look.
 
 ![Cody Pen
-Moustache](http://haacked.com/images/haacked_com/WindowsLiveWriter/BirthdayClustersandCodeCamps_1EF5/Cody-Pen-Moustache_3.jpg)
+Moustache](https://haacked.com/images/haacked_com/WindowsLiveWriter/BirthdayClustersandCodeCamps_1EF5/Cody-Pen-Moustache_3.jpg)
 

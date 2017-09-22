@@ -43,13 +43,13 @@ using [MoQ](http://code.google.com/p/moq/ "Moq") as a mock framework
 within our tests. Note that this is not some official endorsement of any
 particular mock framework. Originally we started out trying to port our
 tests to Rhino Mocks (which I’ve [written a lot
-about](http://haacked.com/tags/rhino+mocks/default.aspx "Rhino Mocks on Haacked.com")).
+about](https://haacked.com/tags/rhino+mocks/default.aspx "Rhino Mocks on Haacked.com")).
 MoQ just happened to have a programming model that was closer to the way
 our internal mock framework works, so we switched over to MoQ.
 
 I will write more about this release later. But for now, I will leave
 you with an **[updated Northwind
-Demo](http://haacked.com/code/NorthwindDemo.zip "Northwind")** based on
+Demo](https://haacked.com/code/NorthwindDemo.zip "Northwind")** based on
 this release because *there ain’t no party like a Northwind party*.
 
 Technorati Tags: [aspnetmvc](http://technorati.com/tags/aspnetmvc)

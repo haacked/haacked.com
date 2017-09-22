@@ -13,7 +13,7 @@ writeup](http://www.hanselman.com/blog/PermaLink,guid,b6603ac5-3464-490f-a557-62
 of how to use GNU Patch.exe with CVS and DIFF files. This is very
 helpful as it is the one (of perhaps many) thing missing from my
 [Quickstart Guide to CVS and
-SourceForge](http://haacked.com/archive/2005/05/12/3178.aspx) for
+SourceForge](https://haacked.com/archive/2005/05/12/3178.aspx) for
 Windows developers.
 
 When I get a free moment, I will update my Quickstart.

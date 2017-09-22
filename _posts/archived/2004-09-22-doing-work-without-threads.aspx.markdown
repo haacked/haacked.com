@@ -9,10 +9,10 @@ redirect_from: "/archive/2004/09/21/doing-work-without-threads.aspx/"
 ---
 
 A while ago I wrote up a [post on Asynchronous
-Sockets](http://haacked.com/archive/2004/08/06/882.aspx).
+Sockets](https://haacked.com/archive/2004/08/06/882.aspx).
 [Ian](http://www.interact-sw.co.uk/iangblog/) was kind enough to send me
 an email correcting a few [niggles with
-it](http://haacked.com/archive/0001/01/01/895.aspx) and in an email
+it](https://haacked.com/archive/0001/01/01/895.aspx) and in an email
 exchange, cleared up a few other misconceptions about how sockets (and
 other IO operations for that matter) really work.
 

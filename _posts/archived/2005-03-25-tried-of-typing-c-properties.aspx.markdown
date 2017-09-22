@@ -45,7 +45,7 @@ Also, I have a nice little code expansion template in
 
 and I get a full expansion of the property, allowing me to fill in the
 type and private member name. You can see a [description
-here](http://haacked.com/archive/2004/08/20/954.aspx).
+here](https://haacked.com/archive/2004/08/20/954.aspx).
 
 Resharper also has an ALT+INSERT shortcut for generating code snippets,
 but I find my little expansion to be faster for me.

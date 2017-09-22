@@ -11,12 +11,12 @@ redirect_from: "/archive/2013/11/19/declare-dont-tell.aspx/"
 ---
 
 Judging by the reaction to my [Death to the If
-statement](http://haacked.com/archive/2013/11/08/death-to-the-if-statement.aspx "Death to the If statement")
+statement](https://haacked.com/archive/2013/11/08/death-to-the-if-statement.aspx "Death to the If statement")
 where I talked about the benefits of declarative code and reducing
 control statements, not everyone is on board with this concept. That’s
 fine, I don’t lose sleep over people being wrong.
 
-[![Photo by Grégoire Lannoy CC BY 2.0](http://haacked.com/images/haacked_com/WindowsLiveWriter/DeclareDontTell_8BB0/megaphone_thumb.jpg "megaphone")](http://haacked.com/images/haacked_com/WindowsLiveWriter/DeclareDontTell_8BB0/megaphone_2.jpg)
+[![Photo by Grégoire Lannoy CC BY 2.0](https://haacked.com/images/haacked_com/WindowsLiveWriter/DeclareDontTell_8BB0/megaphone_thumb.jpg "megaphone")](https://haacked.com/images/haacked_com/WindowsLiveWriter/DeclareDontTell_8BB0/megaphone_2.jpg)
 
 My suspicion is that the reason people don’t have the “aha! moment” is
 because examples of “declarative” code are too simple. This is
@@ -49,7 +49,7 @@ methods*). And declarations are much easier to compose together.
 
 This example is one I wrote about in my post [Make Async Your Buddy with
 Reactive
-Extensions](http://haacked.com/archive/2012/04/08/reactive-extensions-sample.aspx "Make Async Your Buddy").
+Extensions](https://haacked.com/archive/2012/04/08/reactive-extensions-sample.aspx "Make Async Your Buddy").
 But I made a mistake in the post. Here’s the code I showed as the end
 result:
 

@@ -13,7 +13,7 @@ keep categories to a minimum across very strict dividing lines. I was
 going for a Zen approach. The thought process I had is that each
 category should be a worthwhile feed to subscribe. So that if you're one
 of my friends who doesn't know .NET from a fishing net, you could
-subscribe to my [Day To Day](http://haacked.com/category/1.aspx) feed.
+subscribe to my [Day To Day](https://haacked.com/category/1.aspx) feed.
 
 But that doesn't exactly work as I don't cross-post often. Today I
 realized, I needed to break the ascetism and become a "Category
@@ -26,11 +26,11 @@ you.
 
 -   So if you're interested in my ideas on reducing comment spam, check
     out [Putting A Fork In Comment
-    Spam](http://haacked.com/category/15.aspx).
+    Spam](https://haacked.com/category/15.aspx).
 -   For tips and ideas about threading, check out [Threads and Threading
-    (But Not For Sewing)](http://haacked.com/category/16.aspx).
+    (But Not For Sewing)](https://haacked.com/category/16.aspx).
 -   There's not much here, but I hope to add more to [Sql Tips Part
-    Deux](http://haacked.com/category/14.aspx).
+    Deux](https://haacked.com/category/14.aspx).
 
 
 

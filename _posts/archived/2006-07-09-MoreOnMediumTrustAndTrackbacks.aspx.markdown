@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/07/08/MoreOnMediumTrustAndTrackbacks.aspx/"
 ---
 
 In [my last
-post](http://haacked.com/archive/2006/07/09/ConfiguringLog4NetWithASP.NET2.0InMediumTrust.aspx "Medium Trust and Log4Net"),
+post](https://haacked.com/archive/2006/07/09/ConfiguringLog4NetWithASP.NET2.0InMediumTrust.aspx "Medium Trust and Log4Net"),
 one of the restrictions listed when running in medium trust is that HTTP
 access is only allowed to the same domain. It is possible in web.config
 to add a single domain via the `originUrl` attribute of the `<trust>`

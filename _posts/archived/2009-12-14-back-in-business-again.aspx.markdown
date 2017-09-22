@@ -17,12 +17,12 @@ the managed dedicated server which hosts my blog among other sites.
 actual hard drive*)
 
 [![Crufty
-Hard-Drive](http://haacked.com/images/haacked_com/WindowsLiveWriter/BackinBusiness_B3B/bad-harddrive_3.jpg "Crufty Hard-Drive")](http://www.sxc.hu/photo/291741 "Lost Data by pawel 231 from stock.xchng")This
+Hard-Drive](https://haacked.com/images/haacked_com/WindowsLiveWriter/BackinBusiness_B3B/bad-harddrive_3.jpg "Crufty Hard-Drive")](http://www.sxc.hu/photo/291741 "Lost Data by pawel 231 from stock.xchng")This
 is a server that Jeff Atwood and I share (we each host a Virtual Server
 on the machine), thus all of the following sites were brought down by
 the hardware malfunction:
 
--   [http://haacked.com/](http://haacked.com/ "My Blog")
+-   [https://haacked.com/](https://haacked.com/ "My Blog")
 -   [http://codinghorror.com/](http://codinghorror.com/ "Jeff's Blog")
 -   [http://subtextproject.com/](http://subtextproject.com/ "Subtext Project Website")
 -   [http://blog.stackoverflow.com/](http://blog.stackoverflow.com/ "Stack Overflow Blog")
@@ -133,7 +133,7 @@ and how he sucks. Yes, I must share in that suck too.
 
 UPDATE 12/14/2009 10:19 PMI was able to recover most of my images
 through a lucky break. I wrote about how the [IIS SEO Toolkit saves the
-day](http://haacked.com/archive/2009/12/14/back-in-business-again.aspx "IIS SEO Toolkit Saves the day").
+day](https://haacked.com/archive/2009/12/14/back-in-business-again.aspx "IIS SEO Toolkit Saves the day").
 
 Technorati Tags:
 [hosting](http://technorati.com/tags/hosting),[backups](http://technorati.com/tags/backups),[crystaltech](http://technorati.com/tags/crystaltech),[blog](http://technorati.com/tags/blog)
