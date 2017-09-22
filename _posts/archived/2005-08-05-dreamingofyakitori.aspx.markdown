@@ -10,7 +10,7 @@ redirect_from: "/archive/2005/08/04/dreamingofyakitori.aspx/"
 ---
 
 [![Yakitori
-Time](http://photos22.flickr.com/30882934_de3ca3fd61_m.jpg)](http://www.flickr.com/photos/haacked/30882934/ "Photo Sharing")
+Time](https://photos22.flickr.com/30882934_de3ca3fd61_m.jpg)](http://www.flickr.com/photos/haacked/30882934/ "Photo Sharing")
 
 Well I am back home in the good ol’ U.S. of A and strongly feeling the
 effects of jet lag despite the few coffees I’ve had in a pathetic
@@ -23,7 +23,7 @@ district. As you can see in the photo to the right, the place is tucked
 against the curving wall of the tunnel.
 
 [![Protect the
-Patrons](http://photos21.flickr.com/30882926_19d6903574_m.jpg)](http://www.flickr.com/photos/haacked/30882926/ "Photo Sharing")
+Patrons](https://photos21.flickr.com/30882926_19d6903574_m.jpg)](http://www.flickr.com/photos/haacked/30882926/ "Photo Sharing")
 
 This was my father-in-law’s favorite Yakitori place, so we brought along
 a picture of him taken at this place and sat down to enjoy some beer,

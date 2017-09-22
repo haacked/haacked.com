@@ -26,11 +26,10 @@ the pulse of electronica and world music.
 It’s on this show that I first heard the song Galvanize, which contains
 the catchy hook that is the subject of this post, "My finger is on the
 button". I purchased it on
-[![Galvanize](http://ax.phobos.apple.com.edgesuite.net/images/badgeitunes61x15dark.gif)](http://click.linksynergy.com/fs-bin/stat?id=Ety/Ew7*IZs&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fphobos.apple.com%252FWebObjects%252FMZStore.woa%252Fwa%252FviewAlbum%253FselectedItemId%253D41499299%2526playListId%253D41499321%2526originStoreFront%253D143441%26partnerId%3D30)
+[![Galvanize](https://ax.phobos.apple.com.edgesuite.net/images/badgeitunes61x15dark.gif)](http://click.linksynergy.com/fs-bin/stat?id=Ety/Ew7*IZs&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fphobos.apple.com%252FWebObjects%252FMZStore.woa%252Fwa%252FviewAlbum%253FselectedItemId%253D41499299%2526playListId%253D41499321%2526originStoreFront%253D143441%26partnerId%3D30)
 today and am totally digging the violin action mixed in with the funky
 beats. The image on the left is a deep link into the iTunes music store.
 If you’re not an iTunes user, you can click on the Amazon.com link.
 
 [Listening to: Galvanize - The Chemical Brothers - Push the Button
 (6:33)]
-
