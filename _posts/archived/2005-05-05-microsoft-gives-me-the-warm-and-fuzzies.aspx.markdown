@@ -11,7 +11,7 @@ redirect_from: "/archive/2005/05/04/microsoft-gives-me-the-warm-and-fuzzies.aspx
 [Scoble](http://radio.weblogs.com/0001011/) has posted [Steve Ballmer's
 email](http://channel9.msdn.com/ShowPost.aspx?PostID=65966#65966) on
 public policy engagement and outlines the thought process [behind the
-reversal](http://haacked.com/archive/2005/05/06/3040.aspx).
+reversal](https://haacked.com/archive/2005/05/06/3040.aspx).
 
 After reading the email, I just have to say, much props and kudos to you
 Steve and Microsoft! One of the key points Steve makes is...

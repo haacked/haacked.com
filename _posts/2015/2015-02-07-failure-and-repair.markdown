@@ -36,7 +36,7 @@ It's a sane approach and it works. Locking an addict up in jail doesn't help the
 
 ## Parenting
 
-A while back I wrote about the practice of [Reflective Parenting](http://haacked.com/archive/2013/05/27/reflective-parenting.aspx/). In that post, I wrote about the concept of repairing.
+A while back I wrote about the practice of [Reflective Parenting](https://haacked.com/archive/2013/05/27/reflective-parenting.aspx/). In that post, I wrote about the concept of repairing.
 
 > Now this last point is the most important lesson. Parents, we are going to fuck up. We’re going to do it royally. Accept it. Forgive yourself. And then repair the situation.
 

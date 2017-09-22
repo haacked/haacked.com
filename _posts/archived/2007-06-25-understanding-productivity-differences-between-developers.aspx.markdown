@@ -29,7 +29,7 @@ good and poor programmers (*emphasis mine*).
 > space measurements!**
 
 [![Tortoise and Hare:
-http://users.cwnet.com/xephyr/rich/dzone/hoozoo/toby.html](http://haacked.com/images/haacked_com/WindowsLiveWriter/GoodDevelopers10xProductivityOverAverage_A82B/toby2_thumb.gif)](http://haacked.com/images/haacked_com/WindowsLiveWriter/GoodDevelopers10xProductivityOverAverage_A82B/toby2.gif)
+http://users.cwnet.com/xephyr/rich/dzone/hoozoo/toby.html](https://haacked.com/images/haacked_com/WindowsLiveWriter/GoodDevelopers10xProductivityOverAverage_A82B/toby2_thumb.gif)](https://haacked.com/images/haacked_com/WindowsLiveWriter/GoodDevelopers10xProductivityOverAverage_A82B/toby2.gif)
 
 Robert Glass cites research that puts this disparity even higher in his
 book *[Facts and Fallacies of Software
@@ -74,7 +74,7 @@ industry*), TCO.
 ### TCO - Total Cost Of Ownership.
 
 In general, I’ve tried to always [hire the best developers I can
-find](http://haacked.com/archive/2007/01/27/On_Hiring_Bloggers_and_Open_Source_Developers.aspx "Hiring Bloggers and open Source Developers").
+find](https://haacked.com/archive/2007/01/27/On_Hiring_Bloggers_and_Open_Source_Developers.aspx "Hiring Bloggers and open Source Developers").
 But I’ve made mistakes before. Yes, even me.
 
 One situation that comes to mind was with a developer I had hired (under

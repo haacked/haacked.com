@@ -12,7 +12,7 @@ redirect_from: "/archive/2011/08/17/calling-asp-net-mvc-action-methods-from-java
 ---
 
 In a recent blog post, I wrote a [a controller
-inspector](http://haacked.com/archive/2011/08/10/writing-an-asp-net-mvc-controller-inspector.aspx "Controller Inspector")
+inspector](https://haacked.com/archive/2011/08/10/writing-an-asp-net-mvc-controller-inspector.aspx "Controller Inspector")
 to demonstrate Controller and Action Descriptors. In this blog post, I
 apply that knowledge to build something more useful.
 
@@ -121,7 +121,7 @@ action of the controller), but passes in a query string value. This
 value indicates that the controller descriptor should short circuit the
 request and generate a JavaScript with methods to call each action of
 the controller using the same technique I [wrote about
-before](http://haacked.com/archive/2011/08/10/writing-an-asp-net-mvc-controller-inspector.aspx "ASP.NET MVC Controller Inspector").
+before](https://haacked.com/archive/2011/08/10/writing-an-asp-net-mvc-controller-inspector.aspx "ASP.NET MVC Controller Inspector").
 
 Here’s an example of the generated script. It’s very short. In fact,
 most of it is pretty statick. The generated part is the array of actions
@@ -214,7 +214,7 @@ The code results in the alert pop up. This proves I posted a comic book
 to the server from JavaScript.
 
 ![Message from webpage
-(2)](http://haacked.com/images/haacked_com/WindowsLiveWriter/Calling-Action-Methods-Using-Icing.Ajax_95C2/Message%20from%20webpage%20(2)_3.png "Message from webpage (2)")
+(2)](https://haacked.com/images/haacked_com/WindowsLiveWriter/Calling-Action-Methods-Using-Icing.Ajax_95C2/Message%20from%20webpage%20(2)_3.png "Message from webpage (2)")
 
 Get the codez!
 --------------

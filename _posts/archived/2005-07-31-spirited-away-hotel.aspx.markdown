@@ -30,7 +30,7 @@ by not being quite as trigger happy as one would expect.
 Bathroom](http://photos21.flickr.com/29891973_d7a5fc7b09_m.jpg)](http://www.flickr.com/photos/haacked/29891973/ "Photo Sharing")
 One of the highlights so far was our one night stay at the [Meguro
 Gajoen](http://www.megurogajoen.co.jp/) ![Spirited Away
-Bridge](http://haacked.com/images/SpiritedAwayBridge.jpg)a luxury hotel
+Bridge](https://haacked.com/images/SpiritedAwayBridge.jpg)a luxury hotel
 that served as the inspiration for the location of the movie *Sen to
 Chihiro no kamikakushi*, otherwise known as *[Spirited
 Away](http://www.imdb.com/title/tt0245429/)*. This place was one large

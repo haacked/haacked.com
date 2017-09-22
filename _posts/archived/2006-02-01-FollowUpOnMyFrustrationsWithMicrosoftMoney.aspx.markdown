@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/01/31/FollowUpOnMyFrustrationsWithMicrosoftMoney.a
 ---
 
 Last month, I wrote about some frustrations I had with [Microsoft
-Money](http://haacked.com/archive/2006/01/17/FrustratedWithMicrosoftMoney.aspx "Article on frustrations with Microsoft Money").
+Money](https://haacked.com/archive/2006/01/17/FrustratedWithMicrosoftMoney.aspx "Article on frustrations with Microsoft Money").
 I am pleased to report that everything has been resolved and I want to
 take the time to thank members of the Microsoft Money team.
 
@@ -45,7 +45,7 @@ So now Money is happily integrated with my online broker. Money rules!
 
 P.S. I probably shouldn’t have made that crack about switching back to
 Quicken. Word on the street (and [in my
-comments](http://haacked.com/archive/2006/01/17/FrustratedWithMicrosoftMoney.aspx#feedback))
+comments](https://haacked.com/archive/2006/01/17/FrustratedWithMicrosoftMoney.aspx#feedback))
 is that Intuit engages in some underhanded practices with their software
 and that Money is much better than Quicken. I can’t corroborate the
 underhanded practices, but I did switch to Money from Quicken many years

@@ -27,10 +27,10 @@ report](http://pc.gamespy.com/pc/dungeons-dragons-online/537989p1.html).
 ### Related Posts:
 
 -   [How Dungeons Changed The
-    World](http://haacked.com/archive/2004/11/15/1614.aspx "Op-Ed in Boston Globe")
+    World](https://haacked.com/archive/2004/11/15/1614.aspx "Op-Ed in Boston Globe")
 -   [Role Playing Via
-    Skype](http://haacked.com/archive/2006/05/17/RolePlayingViaSkype.aspx "Skype Role Playing")
+    Skype](https://haacked.com/archive/2006/05/17/RolePlayingViaSkype.aspx "Skype Role Playing")
 -   [MORPG Come of
-    Age](http://haacked.com/archive/2005/03/16/2380.aspx "Wow on NPR")
+    Age](https://haacked.com/archive/2005/03/16/2380.aspx "Wow on NPR")
 
 

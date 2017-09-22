@@ -9,7 +9,7 @@ redirect_from: "/archive/2007/03/03/Replacing_Recursion_With_a_Stack.aspx/"
 ---
 
 ![Stack of
-Paper](http://haacked.com/images/haacked_com/WindowsLiveWriter/ReplacingRecursionWithaStack_124F7/251979_paper_stack10.jpg)In
+Paper](https://haacked.com/images/haacked_com/WindowsLiveWriter/ReplacingRecursionWithaStack_124F7/251979_paper_stack10.jpg)In
 [Jeff Atwood’s](http://codinghorror.com/blog/ "Jeff Atwood") infamous
 [FizzBuzz
 post](http://www.codinghorror.com/blog/archives/000781.html "Why Can’t Programmers Program?"),
@@ -45,7 +45,7 @@ at any level of the control hierarchy?**
 
 Well the recursive version is pretty straightforward and similar to
 other methods [I've written
-before](http://haacked.com/archive/2006/06/13/ProperWayToFindTheForm.aspx "Proper Way To Find The Form").
+before](https://haacked.com/archive/2006/06/13/ProperWayToFindTheForm.aspx "Proper Way To Find The Form").
 
 ```csharp
 public Control FindControlRecursively(Control root, string id)

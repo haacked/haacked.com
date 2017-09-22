@@ -11,7 +11,7 @@ redirect_from: "/archive/2007/05/10/my-last-day-before-starting-a-new-career.asp
 Today is my last day of work as a
 [VelocIT](http://veloc-it.com/ "VelocIT") employee, a company I helped
 start and had (and still have) high hopes for as [employee
-\#1](http://haacked.com/archive/2005/09/13/My-New-Job.aspx "New Job").
+\#1](https://haacked.com/archive/2005/09/13/My-New-Job.aspx "New Job").
 
 No, I’m not being [fired for blogging too
 much](http://engtech.wordpress.com/2007/05/11/why-you-could-be-fired-for-blogging/ "5 Reasons Blogging Leads to the Unemployment Line")
@@ -78,11 +78,11 @@ Manager of the
 [Koders.com](http://koders.com/ "Koders code search engine") website, an
 Open Source code search engine. I think this will be a good fit for me
 due to my passion for [open source
-software](http://haacked.com/Tags/Open%20Source/default.aspx "Open Source").
+software](https://haacked.com/Tags/Open%20Source/default.aspx "Open Source").
 
 My goal is to as much as possible help developers become more productive
 via [search driven
-development](http://haacked.com/archive/2007/03/16/increase-productivity-with-search-driven-development.aspx "search driven development")
+development](https://haacked.com/archive/2007/03/16/increase-productivity-with-search-driven-development.aspx "search driven development")
 and the services that naturally extend from that.
 
 Naturally, the best way to do that is to provide relevant search

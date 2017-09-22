@@ -31,7 +31,7 @@ walk through the scenario.
 
 First, we need a model.
 
-![zoolander](http://haacked.com/images/haacked_com/WindowsLiveWriter/TabularDisplayTemplate_12625/zoolander_3.jpg "zoolander")
+![zoolander](https://haacked.com/images/haacked_com/WindowsLiveWriter/TabularDisplayTemplate_12625/zoolander_3.jpg "zoolander")
 
 No, not that kind of model. Something more along the lines of a C\#
 variety.
@@ -115,13 +115,13 @@ make sure check *Create a partial view*. Also, check *Create a
 strongly-typed view* and type in `IList` as the *View Data Class.*
 
 ![Add View
-Dialog](http://haacked.com/images/haacked_com/WindowsLiveWriter/TabularDisplayTemplate_12625/Add%20View_3.png "Add View Dialog")
+Dialog](https://haacked.com/images/haacked_com/WindowsLiveWriter/TabularDisplayTemplate_12625/Add%20View_3.png "Add View Dialog")
 
 When you click *Add*, you should see the new template in the
 *DisplayTemplates* folder like so.
 
 ![solution
-explorer](http://haacked.com/images/haacked_com/WindowsLiveWriter/TabularDisplayTemplate_12625/solution-explorer_5.png "solution explorer")
+explorer](https://haacked.com/images/haacked_com/WindowsLiveWriter/TabularDisplayTemplate_12625/solution-explorer_5.png "solution explorer")
 
 Here’s the code for the template. Note that there’s some code in here
 that I could refactor into a helper class in order to clean up the
@@ -216,7 +216,7 @@ case you run into problems getting this to work. Note this sample was
 built for Visual Studio 2010 targetting ASP.NET 4. If you are running
 ASP.NET MVC 2 on Visual Studio 2008 SP1, just copy the *Table.ascx* into
 your own project but replace the [Html encoding code
-nuggets](http://haacked.com/archive/2009/09/25/html-encoding-code-nuggets.aspx "Html Encoding Code Blocks with ASP.NET 4") `<%: … %>`
+nuggets](https://haacked.com/archive/2009/09/25/html-encoding-code-nuggets.aspx "Html Encoding Code Blocks with ASP.NET 4") `<%: … %>`
 to `<%= Html.Encode(…) %>`.
 
 Here’s the [**link to the

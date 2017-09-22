@@ -16,7 +16,7 @@ February 2004
 
 **Summary:** Outlines the basic steps to getting started with RSSBandit.
 Also downloadable as a [Word
-document](http://haacked.europe.webmatrixhosting.net/GettingStartedWithRssBandit.zip).
+document](https://haacked.com/GettingStartedWithRssBandit.zip).
 
 Introduction
 ============
@@ -152,7 +152,7 @@ feeds.
 **![](/images/RssBanditImages/image004.jpg)**
 
 Step 2: Paste the text
-[http://haacked.europe.webmatrixhosting.net/Rss.aspx](http://haacked.europe.webmatrixhosting.net/Rss.aspx)
+[https://haacked.com/Rss.aspx](https://haacked.com/Rss.aspx)
 into the box labelled with “Url”.  Afterwards, click the button “Get
 Title From Feed.”  Rss Bandit will look up the title via the web. 
 Finally, select a category and then click “Ok”.  You’ve successfully

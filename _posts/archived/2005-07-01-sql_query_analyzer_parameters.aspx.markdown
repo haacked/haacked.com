@@ -25,7 +25,7 @@ Paste that into SQL Query Analyzer and hit `CTRL+SHIFT+M`. A dialog to
 replace the template parameters will pop up like so
 
 ![Replace Template Parameters
-Dialog](http://haacked.com/images/ReplaceTemplateParameters.jpg)
+Dialog](https://haacked.com/images/ReplaceTemplateParameters.jpg)
 
 Just fill in the values and hit return and you’re ready to run the
 script.

@@ -24,7 +24,7 @@ regular backups and they had a backup from four days ago. Once the
 backup was restored, I went in and carefully recreated four days worth
 of blog posts with help from my [RSS Bandit](http://www.rssbandit.org/)
 cache. You see, it's [more than
-vanity](http://haacked.com/archive/2004/10/08/1322.aspx) that I
+vanity](https://haacked.com/archive/2004/10/08/1322.aspx) that I
 subscribe to my own feed.
 
 In case your curious, I used Query Analyzer to reconstruct the posts

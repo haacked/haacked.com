@@ -9,7 +9,7 @@ redirect_from: "/archive/2009/06/25/too-late-to-change-json.aspx/"
 ---
 
 In my last post, I wrote about the [hijacking of JSON
-arrays](http://haacked.com/archive/2009/06/25/json-hijacking.aspx "JSON Hijacking").
+arrays](https://haacked.com/archive/2009/06/25/json-hijacking.aspx "JSON Hijacking").
 Near the end of the post, I mentioned a comment whereby someone suggests
 that what really should happen is that browsers should be more strict
 about honoring content types and not execute code with the content type
@@ -23,7 +23,7 @@ potentially breaking the web in the process.
 Another potential solution that came to mind was this: Can we simply
 change JSON? Is it too late to do that or has that boat left the harbor?
 
-[![boat-left-harbor](http://haacked.com/images/haacked_com/WindowsLiveWriter/IsItTooLateToChangeJSON_117AE/boat-left-harbor_thumb.jpg "boat-left-harbor")](http://haacked.com/images/haacked_com/WindowsLiveWriter/IsItTooLateToChangeJSON_117AE/boat-left-harbor_2.jpg)
+[![boat-left-harbor](https://haacked.com/images/haacked_com/WindowsLiveWriter/IsItTooLateToChangeJSON_117AE/boat-left-harbor_thumb.jpg "boat-left-harbor")](https://haacked.com/images/haacked_com/WindowsLiveWriter/IsItTooLateToChangeJSON_117AE/boat-left-harbor_2.jpg)
 
 Let me run an idea by you. What if everyone got together and decided to
 version the JSON standard and change it in such a way that when the

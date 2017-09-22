@@ -38,7 +38,7 @@ of progress**.
     Serack](http://blogs.msdn.com/garretts/ "Garret Serack - Open Source Community Lead") who
     holds the title *Open Source Community Lead* at Microsoft.
 -   And
-    [various](http://haacked.com/archive/2007/05/23/beta-incubator-for-.net-open-source-projects.aspx "Open Source Incubator Idea")
+    [various](https://haacked.com/archive/2007/05/23/beta-incubator-for-.net-open-source-projects.aspx "Open Source Incubator Idea")
     informal [shows of
     support](http://www.codinghorror.com/blog/archives/000894.html "Contributing to Open Source").
 

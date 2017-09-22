@@ -20,12 +20,12 @@ sidebar or two, and the main fixed-width content being truncated off to
 one side.
 
 If you click through to an [individual blog
-post](http://haacked.com/archive/2005/09/24/10336.aspx "Going Into Design Debt")
+post](https://haacked.com/archive/2005/09/24/10336.aspx "Going Into Design Debt")
 from my blog using a browser, you will notice that I now have a
 **Print** button. Go ahead and click it. It should bring up the
 following dialog.
 
-![Print Dialog](http://haacked.com/images/PrintDialog.png)
+![Print Dialog](https://haacked.com/images/PrintDialog.png)
 
 Getting that dialog to display is quite simple. Here is the HTML.
 
@@ -45,7 +45,7 @@ such as Firefox). The image below is a screenshot from my poor quality
 print preview.
 
 ![Print Preview
-Snippet](http://haacked.com/images/PrintPreviewSnippet.png)
+Snippet](https://haacked.com/images/PrintPreviewSnippet.png)
 
 So the obvious conceit here is that I expect to someday write something
 worth printing. In the meanwhile, I have the print icon there to give
@@ -53,7 +53,7 @@ people the *impression* that my content is worth printing.
 
 And setting this up is quite simple using media specific CSS. My blog
 has a separate [css
-stylesheet](http://haacked.com/skins/Haacked/print.css "Print Stylesheet")
+stylesheet](https://haacked.com/skins/Haacked/print.css "Print Stylesheet")
 for printing. The changes the stylesheet makes to the layout include
 changing from a fixed-width layout to a 100% width layout as well as
 setting the `display` of certain elements to none. Note that this print

@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/09/11/Joel_On_Ruby_Performance.aspx/"
 ---
 
-![Ruby](http://haacked.com/images/haacked_com/WindowsLiveWriter/JoelOnRubyPerformance_B8DA/ruby6.jpg)
+![Ruby](https://haacked.com/images/haacked_com/WindowsLiveWriter/JoelOnRubyPerformance_B8DA/ruby6.jpg)
 Joel Spolsky follows up on his [earlier
 remarks](http://www.joelonsoftware.com/items/2006/09/01.html) about
 scaling out a Ruby on Rails site with this post on [Ruby

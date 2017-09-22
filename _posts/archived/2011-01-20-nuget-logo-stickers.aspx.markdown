@@ -15,12 +15,12 @@ how they [support open source
 projects](http://lozanotek.com/blog/archive/2010/08/05/open_source_support_is_not_just_code.aspx "Open Source support is not just code")
 with such great stickers.
 
-![NuGet-Stickers-550x365](http://haacked.com/images/haacked_com/WindowsLiveWriter/NuGet-Logo-Stickers_8914/NuGet-Stickers-550x365_2a301498-8cb6-469f-8104-d92a654789cd.jpg "NuGet-Stickers-550x365")
+![NuGet-Stickers-550x365](https://haacked.com/images/haacked_com/WindowsLiveWriter/NuGet-Logo-Stickers_8914/NuGet-Stickers-550x365_2a301498-8cb6-469f-8104-d92a654789cd.jpg "NuGet-Stickers-550x365")
 *Look at all those little NuGets!*
 
 Just in time as I have a few events I’ll be going to where I can hand
 some out such as [Web Camps
-Argentina/Brazil](http://haacked.com/archive/2010/12/21/see-me-in-brazil-and-argentina-in-march.aspx "Web Camps Argentina/Brazil"),
+Argentina/Brazil](https://haacked.com/archive/2010/12/21/see-me-in-brazil-and-argentina-in-march.aspx "Web Camps Argentina/Brazil"),
 the MVP Summit, and if I’m selected, Mix 2011.
 
 After that, I need to figure out the best way to give the rest out since

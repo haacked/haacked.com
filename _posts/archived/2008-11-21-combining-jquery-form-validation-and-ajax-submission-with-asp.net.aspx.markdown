@@ -10,7 +10,7 @@ redirect_from: "/archive/2008/11/20/combining-jquery-form-validation-and-ajax-su
 ---
 
 As I [mentioned
-before](http://haacked.com/archive/2008/09/30/jquery-and-asp.net-mvc.aspx "jQuery"),
+before](https://haacked.com/archive/2008/09/30/jquery-and-asp.net-mvc.aspx "jQuery"),
 I’m really excited that we’re shipping jQuery with [ASP.NET
 MVC](http://asp.net/mvc "ASP.NET MVC Website") and with [Visual Studio
 moving
@@ -40,12 +40,12 @@ Here are some screenshots of it in action. When I click the submit
 button, it validates all the fields. The email field is validated after
 the input loses focus.
 
-![validation](http://haacked.com/images/haacked_com/WindowsLiveWriter/CombiningJQueryFormValidationandAjaxSubm_C96D/validation_3.png "validation")
+![validation](https://haacked.com/images/haacked_com/WindowsLiveWriter/CombiningJQueryFormValidationandAjaxSubm_C96D/validation_3.png "validation")
 
 When I correct the data and click “Send Comment”, it will asynchronously
 display the posted comment.
 
-![async-comment-response](http://haacked.com/images/haacked_com/WindowsLiveWriter/CombiningJQueryFormValidationandAjaxSubm_C96D/async-comment-response_3.png "async-comment-response")
+![async-comment-response](https://haacked.com/images/haacked_com/WindowsLiveWriter/CombiningJQueryFormValidationandAjaxSubm_C96D/async-comment-response_3.png "async-comment-response")
 
 Let’s look at the code to make this happen. Here’s the relevant HTML
 markup in my Default.aspx page:

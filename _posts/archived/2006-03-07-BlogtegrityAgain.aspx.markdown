@@ -33,7 +33,7 @@ the government or large corporate interests (ooooh, I went there).
 I love this and it gave me an idea to take it to the next step. For a
 while now on the top navigation of my blog I have had a link to my
 [privacy
-statement](http://haacked.com/articles/PrivacyPolicy.aspx "Privacy Statement").
+statement](https://haacked.com/articles/PrivacyPolicy.aspx "Privacy Statement").
 I have now added a [link to my blogtegrity
 statement](/articles/blogtegrity "Blogtegrity"). It is a promise
 similar to Scott’s that I will maintain my Blogtegrity to the best of my
@@ -53,7 +53,7 @@ In a follow-up I mentioned
 > Ha ha. Oh ye of little faith.
 >
 > Scott, after writing this post ([Better Developers Through
-> Diversity](http://haacked.com/archive/2006/02/16/BetterDevelopersThroughDiversity.aspx "Diversity Post"))
+> Diversity](https://haacked.com/archive/2006/02/16/BetterDevelopersThroughDiversity.aspx "Diversity Post"))
 > critical of "Microsoft-Think" you'd still think I might be a Microsoft
 > Shill? ;)
 

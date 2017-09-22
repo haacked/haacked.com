@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/03/12/CSSBasedPrintingTip.aspx/"
 ---
 
 This is a follow up tip to my post on [Implementing CSS Based
-Printing](http://haacked.com/archive/2006/03/09/ImplementingCSSBasedPrinting.aspx "Printing Article").
+Printing](https://haacked.com/archive/2006/03/09/ImplementingCSSBasedPrinting.aspx "Printing Article").
 
 One technique that served me well on a project recently was to implement
 a very simple `print.css` for the print stylesheet. In fact, it looks

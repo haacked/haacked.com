@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/11/12/Good_Design_Minimizes_The_Impact_Of_Changes.
 ---
 
 [![Blue Skies from
-Stock.xchng](http://haacked.com/images/haacked_com/WindowsLiveWriter/GoodDesignMinimizesTheImpactOfChanges_1198/blue_skies_thumb1.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/GoodDesignMinimizesTheImpactOfChanges_1198/blue_skies3.jpg)
+Stock.xchng](https://haacked.com/images/haacked_com/WindowsLiveWriter/GoodDesignMinimizesTheImpactOfChanges_1198/blue_skies_thumb1.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/GoodDesignMinimizesTheImpactOfChanges_1198/blue_skies3.jpg)
 We’ve all been there.  Your project stakeholder stands in your doorway
 with a coffee mug in hand and asks for one more teeny tiny change.
 
@@ -82,5 +82,5 @@ a win-win situation for us.  Well in these contrived examples it sure
 does, but not in every situation.  When used improperly, a pattern in
 one scenario can actually increase the impact of change in another. 
 [Stay
-tuned](http://haacked.com/archive/2006/11/16/Tradeoffs_When_Minimizing_The_Impact_Of_Changes.aspx "Tradeoffs When Minimizing the Impact of Changes").
+tuned](https://haacked.com/archive/2006/11/16/Tradeoffs_When_Minimizing_The_Impact_Of_Changes.aspx "Tradeoffs When Minimizing the Impact of Changes").
 

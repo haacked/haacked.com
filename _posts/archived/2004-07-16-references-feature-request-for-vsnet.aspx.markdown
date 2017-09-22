@@ -17,5 +17,5 @@ C-Sharp compiler supports it, but VS.NET strangely does not.
 
 The main reason I want this is it will help me keep my unit tests
 separate from the exe I'm testing as I talk about in this [earlier
-post](http://haacked.com/archive/2004/04/28/374.aspx).
+post](https://haacked.com/archive/2004/04/28/374.aspx).
 

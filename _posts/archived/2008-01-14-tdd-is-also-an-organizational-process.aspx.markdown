@@ -9,9 +9,9 @@ redirect_from: "/archive/2008/01/13/tdd-is-also-an-organizational-process.aspx/"
 ---
 
 After [joining
-Microsoft](http://haacked.com/archive/2007/09/17/why-is-microsoft-removing-my-mvp-status.aspx "Why Am I Losing My MVP status?")
+Microsoft](https://haacked.com/archive/2007/09/17/why-is-microsoft-removing-my-mvp-status.aspx "Why Am I Losing My MVP status?")
 and [drinking from the
-firehose](http://haacked.com/archive/2007/10/26/drinking-from-the-firehose.aspx "Drinking from the Firehose at Microsoft")
+firehose](https://haacked.com/archive/2007/10/26/drinking-from-the-firehose.aspx "Drinking from the Firehose at Microsoft")
 a bit, I’m happy to report that I am still alive and well and now
 residing in the Seattle area along with my family. In meeting with
 various groups, I’ve been very excited by how much various teams here
@@ -21,7 +21,7 @@ looked at a design from a TDD perspective and discussed ways to make it
 more testable. Teams are also starting to really apply TDD in their
 development process as a team effort, and not just sporadic individuals.
 
-![Bugs](http://haacked.com/images/haacked_com/WindowsLiveWriter/BugDrivenDevelopment_851F/1364145387_b8cf994488_4.jpg)TDD
+![Bugs](https://haacked.com/images/haacked_com/WindowsLiveWriter/BugDrivenDevelopment_851F/1364145387_b8cf994488_4.jpg)TDD
 doesn’t work well in a vacuum. I mean, it *can* work to adopt TDD as an
 individual developer, but the effectiveness of TDD is lessened if you
 don’t consider the organizational changes that should occur in tandem
@@ -85,7 +85,7 @@ be a good guideline for QA in a TDD environment:
 Again, it is a mistake to assume that TDD should be done in a vacuum or
 that it negates the need for QA. TDD is only [one small part of the
 testing
-story](http://haacked.com/archive/2005/10/18/UnitTestingLovesBetaTestingAndViceVersa.aspx "Unit Testing Loves Beta Testing")
+story](https://haacked.com/archive/2005/10/18/UnitTestingLovesBetaTestingAndViceVersa.aspx "Unit Testing Loves Beta Testing")
 and if you don't have testers, [shame on
 you](http://www.joelonsoftware.com/articles/fog0000000067.html "Top Five (Wrong) Reason You Don't Have Testers")
 ;) . One anecdote a QA tester shared with me was a case where the

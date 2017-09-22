@@ -13,7 +13,7 @@ redirect_from: "/archive/2012/10/22/the-truth-about-nuget-and-its-future.aspx/"
 ---
 
 In [my last
-post](http://haacked.com/archive/2012/10/21/monkeyspace-dotnet-oss.aspx "MonkeySpace shines a light on .NET open source"),
+post](https://haacked.com/archive/2012/10/21/monkeyspace-dotnet-oss.aspx "MonkeySpace shines a light on .NET open source"),
 I talked about the [MonkeySpace
 conference](http://monkeyspace.org/ "MonkeySpace Conference") conference
 and how it reflects positive trends in the future of open source in
@@ -104,7 +104,7 @@ Well if you look at the entry in the Visual Studio Extension Manager (or
 gallery](http://visualstudiogallery.msdn.microsoft.com/27077b70-9dad-4c64-adcf-c7cf6bc9970c?SRC=Home "NuGet in VS Extension Gallery")),
 you’ll see this:
 
-[![NuGet-Package-Manager](http://haacked.com/images/haacked_com/WindowsLiveWriter/The-Truth-about-NuGet_B15C/NuGet-Package-Manager_thumb.png "NuGet-Package-Manager")](http://haacked.com/images/haacked_com/WindowsLiveWriter/The-Truth-about-NuGet_B15C/NuGet-Package-Manager_2.png)
+[![NuGet-Package-Manager](https://haacked.com/images/haacked_com/WindowsLiveWriter/The-Truth-about-NuGet_B15C/NuGet-Package-Manager_thumb.png "NuGet-Package-Manager")](https://haacked.com/images/haacked_com/WindowsLiveWriter/The-Truth-about-NuGet_B15C/NuGet-Package-Manager_2.png)
 
 Huh? What gives? Well, it’s time for some REAL TALK™.
 

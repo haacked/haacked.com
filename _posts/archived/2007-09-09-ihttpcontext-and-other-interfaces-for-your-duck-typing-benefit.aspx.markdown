@@ -9,13 +9,13 @@ redirect_from: "/archive/2007/09/08/ihttpcontext-and-other-interfaces-for-your-d
 ---
 
 Not too long ago I wrote a blog post on some of the [benefits of Duck
-Typing](http://haacked.com/archive/2007/08/19/why-duck-typing-matters-to-c-developers.aspx "How Duck Typing Benefits C# Developers")
+Typing](https://haacked.com/archive/2007/08/19/why-duck-typing-matters-to-c-developers.aspx "How Duck Typing Benefits C# Developers")
 for C\# developers. In that post I wrote up a simplified code sample
 demonstrating how you can cast the `HttpContext` to an interface you
 create called `IHttpContext`, for lack of a better name.
 
 ![Is it a duck or a
-rabbit?](http://haacked.com/images/haacked_com/WindowsLiveWriter/WhyDuckTypingMattersInC_919F/duckrabbitphil_thumb.png)Well
+rabbit?](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhyDuckTypingMattersInC_919F/duckrabbitphil_thumb.png)Well
 I couldn’t just sit still on that one so I used Reflector and a lot of
 patience and created a set of interfaces to match the Http intrinsic
 classes. Here is a full list of interfaces I created along with the
@@ -134,7 +134,7 @@ public class IFoo
 
 In any case, I hope some of you find this useful. Let me know if you
 find any bugs or mistakes. No warranties are implied. [Download the
-code](http://haacked.com.nyud.net/code/HttpInterfaces.zip "Http Interfaces Code")
+code](https://haacked.com.nyud.net/code/HttpInterfaces.zip "Http Interfaces Code")
 from here which includes the `HttpInterfaces` class library with all the
 interfaces, a Web Project with a couple of tests, and a unit test
 library with more unit tests.

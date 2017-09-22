@@ -21,7 +21,7 @@ face value, the claim is a bit vague.  **What exactly is it that is
 being optimized?**
 
 [![Image From
-http://www.galcit.caltech.edu/awt/](http://haacked.com/images/haacked_com/WindowsLiveWriter/PrematureOptimizationConsideredHealthy_2A49/WindTunnel_thumb%5B2%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/PrematureOptimizationConsideredHealthy_2A49/WindTunnel%5B4%5D.jpg)
+http://www.galcit.caltech.edu/awt/](https://haacked.com/images/haacked_com/WindowsLiveWriter/PrematureOptimizationConsideredHealthy_2A49/WindTunnel_thumb%5B2%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/PrematureOptimizationConsideredHealthy_2A49/WindTunnel%5B4%5D.jpg)
 
 Well **speed** of course! At least that is the optimization that Knuth
 refers to and it is what developers typically mean when they use the
@@ -59,7 +59,7 @@ measure](http://blogs.msdn.com/ricom/archive/2003/12/02/40779.aspx).
 The danger to avoid is diverting too much optimization attention to
 areas that provide too little gain, as discussed in my [last post on
 Ruby
-Performance](http://haacked.com/archive/2006/09/12/Joel_On_Ruby_Performance.aspx).
+Performance](https://haacked.com/archive/2006/09/12/Joel_On_Ruby_Performance.aspx).
 
 tags: [Performance](http://technorati.com/tag/Performance),
 [Optimization](http://technorati.com/tag/Optimization),

@@ -16,7 +16,7 @@ be speaking at a couple of **free** [Web
 Camps](http://www.webcamps.ms "Web Camps") events in South America in
 March 2011.
 
-![argentina\_flag](http://haacked.com/images/haacked_com/WindowsLiveWriter/a8ddb61d84b8_9923/argentina_flag_3.gif "argentina_flag")![Brazil\_flag](http://haacked.com/images/haacked_com/WindowsLiveWriter/a8ddb61d84b8_9923/Brazil_flag_3.gif "Brazil_flag")
+![argentina\_flag](https://haacked.com/images/haacked_com/WindowsLiveWriter/a8ddb61d84b8_9923/argentina_flag_3.gif "argentina_flag")![Brazil\_flag](https://haacked.com/images/haacked_com/WindowsLiveWriter/a8ddb61d84b8_9923/Brazil_flag_3.gif "Brazil_flag")
 
 **Buenos Aires, Argentina –**March 14-15, 2011
 
@@ -43,7 +43,7 @@ following description, emphasis mine:
 Did I mention that these events are free? The description neglects to
 mention [NuGet](http://nuget.codeplex.com/ "NuGet Package Manager"), but
 you can bet I’ll talk about that as well.
-![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/a8ddb61d84b8_9923/wlEmoticon-smile_2.png) 
+![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/a8ddb61d84b8_9923/wlEmoticon-smile_2.png) 
 
 I’m really excited to visit South America (this will be my first time)
 and I hope that schedules align in a way that I can catch a
@@ -61,9 +61,9 @@ Good thing I’m getting started on this early. Hey Brazil, I promise not
 to trash your country. So feel free to make my application go through
 more quickly.
 
-Tags: [webcamps](http://haacked.com/tags/webcamps/default.aspx),
-[aspnetmvc](http://haacked.com/tags/aspnetmvc/default.aspx),
-[asp.net](http://haacked.com/tags/asp.net/default.aspx),
-[brazil](http://haacked.com/tags/brazil/default.aspx),
-[argentina](http://haacked.com/tags/argentina/default.aspx)
+Tags: [webcamps](https://haacked.com/tags/webcamps/default.aspx),
+[aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
+[asp.net](https://haacked.com/tags/asp.net/default.aspx),
+[brazil](https://haacked.com/tags/brazil/default.aspx),
+[argentina](https://haacked.com/tags/argentina/default.aspx)
 

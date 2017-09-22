@@ -10,7 +10,7 @@ redirect_from: "/archive/2006/11/27/Get_A_Job.aspx/"
 
 No, this is not a bait and switch post where I try to recruit you to
 work on [Subtext](http://subtextproject.com/ "Subtext").  A while ago [I
-mentioned](http://haacked.com/archive/2006/10/04/Better_Recruiting_Through_Blogistry.aspx "Hidden Network")
+mentioned](https://haacked.com/archive/2006/10/04/Better_Recruiting_Through_Blogistry.aspx "Hidden Network")
 that I was participating in [The Hidden
 Network](https://hiddennetwork.com/ "The Hidden Network").  So far, I
 really like it, though I think there is still room for improvement.
@@ -29,7 +29,7 @@ Being bored, I figured I’d take a look through the list to see what kind
 of job opportunities are available.  **Frankly, I am a little bit
 disappointed.  Many of the jobs sound like yaaaawners.**  Perhaps more
 employers should read my guide, [The Art Of The Job
-Post](http://haacked.com/archive/2006/10/20/Art_of_the_Job_Post.aspx "Art of the Job Post") (*If
+Post](https://haacked.com/archive/2006/10/20/Art_of_the_Job_Post.aspx "Art of the Job Post") (*If
 that came across as arrogant, whoops)*. 
 
 The Hidden Network is still pretty young, but over time I’d like to see

@@ -23,7 +23,7 @@ the script and turn it into a [Markup Based Javascript Effect
 Library](http://weblogs.asp.net/jgalloway/archive/2006/01/18/435857.aspx "Using Markup Base Javascript Effect Libraries").
 
 Now, by simply [referencing this
-script](http://haacked.com/code/LiveCommentPreview.zip "Live Comment Preview Script"),
+script](https://haacked.com/code/LiveCommentPreview.zip "Live Comment Preview Script"),
 you can add live comment preview to any blog in three easy steps.
 
 1.  Reference the script.

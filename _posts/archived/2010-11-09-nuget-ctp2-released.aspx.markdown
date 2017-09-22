@@ -15,10 +15,10 @@ today we are releasing the second preview of
 [NuGet](http://nuget.codeplex.com/ "NuGet on CodePlex.com") (which you
 may have heard referred to as NuPack in the past, but was [renamed for
 CTP
-2](http://haacked.com/archive/2010/10/29/nupack-is-now-nuget.aspx "NuPack is now NuGet")
+2](https://haacked.com/archive/2010/10/29/nupack-is-now-nuget.aspx "NuPack is now NuGet")
 by the community). If you’re not familiar with what NuGet is, please
 read my [introductory blog post on the
-topic](http://haacked.com/archive/2010/10/06/introducing-nupack-package-manager.aspx "Introduction to NuGet").
+topic](https://haacked.com/archive/2010/10/06/introducing-nupack-package-manager.aspx "Introduction to NuGet").
 
 For a detailed list of what changed, check out the [**NuGet Release
 Notes**](http://nuget.codeplex.com/wikipage?title=NuGet%201.0%20Release%20Notes "NuGet Release Notes").
@@ -105,7 +105,7 @@ I mentioned in the past, this is truly an Open Source project and we’ve
 had quite a few community code contributions.
 
 Of course, we still have plenty of items [up for
-grabs](http://haacked.com/archive/2010/10/14/nupack-up-for-grabs-items.aspx "NuGet Up For Grabs")
+grabs](https://haacked.com/archive/2010/10/14/nupack-up-for-grabs-items.aspx "NuGet Up For Grabs")
 if you’re looking for something to work on.
 
 ### ReviewBoard
@@ -126,7 +126,7 @@ based Continuous Integration (CI) server hosted at
 daily builds compiled directly from our source tree. So for those of you
 who knew about the build server, you would have been playing with the
 CTP 2 for a while now. ![Winking
-smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/NuGet-CTP-2-Released_9810/wlEmoticon-winkingsmile_2.png)
+smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/NuGet-CTP-2-Released_9810/wlEmoticon-winkingsmile_2.png)
 
 What’s next?
 ------------
@@ -150,5 +150,5 @@ at.
 At this point, if you haven’t tried NuGet, give it a try. If you have
 tried it, let us know what you think. I hope you enjoy using it, I know
 I do.
-![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/NuGet-CTP-2-Released_9810/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/NuGet-CTP-2-Released_9810/wlEmoticon-smile_2.png)
 

@@ -33,7 +33,7 @@ their intellisense listed all overloads when I just want a method list
 > \> Code completion and uncheck "Show signatures" checkbox.
 
 Excellent! Much better! Finally there's the [pet
-peeve](http://haacked.com/archive/2004/08/11/913.aspx) I mentioned
+peeve](https://haacked.com/archive/2004/08/11/913.aspx) I mentioned
 earlier. Valentin points out an option that partially helps the
 situation:
 

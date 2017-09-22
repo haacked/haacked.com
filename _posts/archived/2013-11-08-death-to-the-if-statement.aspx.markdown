@@ -32,7 +32,7 @@ code,
 We don’t need to try and kill every `if` statement, but perhaps the more
 we do, the better our code becomes.
 
-[![Msi\_if\_cover](http://haacked.com/images/haacked_com/WindowsLiveWriter/UnconditionalProgrammingInC_BD84/Msi_if_cover_thumb.jpg "Msi_if_cover")](http://haacked.com/images/haacked_com/WindowsLiveWriter/UnconditionalProgrammingInC_BD84/Msi_if_cover_2.jpg)*Photo
+[![Msi\_if\_cover](https://haacked.com/images/haacked_com/WindowsLiveWriter/UnconditionalProgrammingInC_BD84/Msi_if_cover_thumb.jpg "Msi_if_cover")](https://haacked.com/images/haacked_com/WindowsLiveWriter/UnconditionalProgrammingInC_BD84/Msi_if_cover_2.jpg)*Photo
 from [wikimedia](http://en.wikipedia.org/wiki/File:Msi_if_cover.jpg):
 Cover of If by the artist Mindless Self Indulgence*
 

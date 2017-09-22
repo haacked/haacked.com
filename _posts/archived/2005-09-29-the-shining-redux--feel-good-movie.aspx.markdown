@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2005/09/28/the-shining-redux--feel-good-movie.aspx/"
 ---
 
-![The Shining](http://haacked.com/images/TheShining.jpg) Since when was
+![The Shining](https://haacked.com/images/TheShining.jpg) Since when was
 *The Shining* a feel good movie? Since somebody creatively edited
 footage to make [this
 promo](http://waxy.org/random/video/shining_redux.mov).

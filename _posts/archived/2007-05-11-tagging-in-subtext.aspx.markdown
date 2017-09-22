@@ -9,14 +9,14 @@ redirect_from: "/archive/2007/05/10/tagging-in-subtext.aspx/"
 ---
 
 With the [announcement of the 1.9.5
-release](http://haacked.com/archive/2007/05/11/subtext-1.9.5-release.aspx "Subtext 1.9.5 release announcement")
+release](https://haacked.com/archive/2007/05/11/subtext-1.9.5-release.aspx "Subtext 1.9.5 release announcement")
 of Subtext, I thought I should talk about the new tagging and tag cloud
 feature. You can see it in action in the sidebar of my site.
 
 ![A
-Tag](http://haacked.com/images/haacked_com/WindowsLiveWriter/TaggingInSubtext_C85/atag4.jpg)
+Tag](https://haacked.com/images/haacked_com/WindowsLiveWriter/TaggingInSubtext_C85/atag4.jpg)
 To implement tagging, we followed the model I [wrote about
-before](http://haacked.com/archive/2006/09/27/Categories_vs_Tags.aspx "Categories vs Tags").
+before](https://haacked.com/archive/2006/09/27/Categories_vs_Tags.aspx "Categories vs Tags").
 Tags do not replace categories in Subtext. Instead, we adopted an
 approach using Microformats.
 

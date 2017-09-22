@@ -64,11 +64,11 @@ And finally, here’s one that’s a real doozy.
 Check out how FireFox, IE, and Google Chrome render this same piece of
 markup.
 
-![weird-markup-chrome](http://haacked.com/images/haacked_com/WindowsLiveWriter/HTMLStrippingChallenge_12C01/weird-markup-chrome_3.png "weird-markup-chrome")
+![weird-markup-chrome](https://haacked.com/images/haacked_com/WindowsLiveWriter/HTMLStrippingChallenge_12C01/weird-markup-chrome_3.png "weird-markup-chrome")
 
-![weird-markup-ff](http://haacked.com/images/haacked_com/WindowsLiveWriter/HTMLStrippingChallenge_12C01/weird-markup-ff_3.png "weird-markup-ff")
+![weird-markup-ff](https://haacked.com/images/haacked_com/WindowsLiveWriter/HTMLStrippingChallenge_12C01/weird-markup-ff_3.png "weird-markup-ff")
 
-![weird-markup-ie](http://haacked.com/images/haacked_com/WindowsLiveWriter/HTMLStrippingChallenge_12C01/weird-markup-ie_3.png "weird-markup-ie")
+![weird-markup-ie](https://haacked.com/images/haacked_com/WindowsLiveWriter/HTMLStrippingChallenge_12C01/weird-markup-ie_3.png "weird-markup-ie")
 
 *One of these kids is doing his own thing!* ;) For my unit test, I
 decided to go with majority rules here (I did not test with Opera) and

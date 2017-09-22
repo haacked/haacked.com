@@ -22,7 +22,7 @@ contain teams of marketers who drool at the personal information they
 are gathering and the opportunities of marketing. Why share?
 
 I've tried to [flesh out some ideas
-before](http://haacked.com/archive/2004/02/18/201.aspx) on how I see
+before](https://haacked.com/archive/2004/02/18/201.aspx) on how I see
 social software evolving, but it occurred to me that there's two
 possible solutions. The first is to create a profit motive for sharing.
 Once you give Google an incentive to allow users networks to be exposed

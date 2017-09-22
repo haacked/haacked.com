@@ -77,7 +77,7 @@ So far, I haven’t been able to get our system administrator to enable
 TIP so I haven’t fully tested this last bit of chicanery.
 
 In any case, make sure to read Roy’s articles noted above before
-[downloading this code](http://haacked.com/code/RollbackAttribute.zip).
+[downloading this code](https://haacked.com/code/RollbackAttribute.zip).
 I’ve made some slight modifications to his base class to reflect
 personal preferences. Let me know if you find this useful.
 

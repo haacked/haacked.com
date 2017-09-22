@@ -11,7 +11,7 @@ redirect_from: "/archive/2006/10/24/SearchDotNet.com.aspx/"
 [Dan
 Appleman](http://www.danappleman.com/ "Dan Appleman, author and developer")
 takes the [.NET focused custom search
-engine](http://haacked.com/archive/2006/10/23/My_Very_Own_Search_Engine.aspx ".NET Search Engine")
+engine](https://haacked.com/archive/2006/10/23/My_Very_Own_Search_Engine.aspx ".NET Search Engine")
 idea [one step
 further](http://www.danappleman.com/?p=49 "Dan Appleman's Search Site")
 by grabbing a [great domain

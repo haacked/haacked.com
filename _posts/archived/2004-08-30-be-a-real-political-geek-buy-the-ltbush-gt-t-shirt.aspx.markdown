@@ -9,7 +9,7 @@ redirect_from: "/archive/2004/08/29/be-a-real-political-geek-buy-the-ltbush-gt-t
 ---
 
 In the comments section of the post about [the geekiest protest
-sign](http://haacked.com/archive/2004/08/30/987.aspx),
+sign](https://haacked.com/archive/2004/08/30/987.aspx),
 [Clara](http://www.mismatched.net.nz/clara/index.html) points out that
 [tshirthell.com](http://www.tshirthell.com/) sells a [t-shirt with the
 end Bush tag](http://www.tshirthell.com/shirts/tshirt.php?sku=a335)

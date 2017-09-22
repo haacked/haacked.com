@@ -10,7 +10,7 @@ redirect_from: "/archive/2005/09/05/great-review-on-gamespot.aspx/"
 ---
 
 My former coworker who wrote that 2600 article [I mentioned
-recently](http://haacked.com/archive/2005/08/29/9748.aspx) sent me this
+recently](https://haacked.com/archive/2005/08/29/9748.aspx) sent me this
 link to a [GameSpot
 review](http://www.gamespot.com/mobile/puzzle/skilljam/review.html?part=rss&tag=gs_reviews&subj=6132633)
 of SkillJam Arcade.

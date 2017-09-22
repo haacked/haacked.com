@@ -32,7 +32,7 @@ way*](http://weblogs.asp.net/jgalloway/archive/2006/11/07/Handling-_2200_GO_2200
 that tackled the subject of executing SQL Scripts that contain GO
 separators using SQL Server Management Objects (SMO). SMO handles GO
 separators, but it doesn’t (AFAIK) handle [SQL template
-parameters](http://haacked.com/archive/2005/07/01/sql_query_analyzer_parameters.aspx "SQL Template Parameters").
+parameters](https://haacked.com/archive/2005/07/01/sql_query_analyzer_parameters.aspx "SQL Template Parameters").
 
 So rather than go the easy way, we went the hard way and wrote our own
 library for parsing and executing SQL scripts that contain GO separators
@@ -72,7 +72,7 @@ we needed for Subtext.
 When I started writing this post, I thought about making some overrides
 that would make this class even easier to use, but instead, I will
 [provide a copy of the
-assembly](http://haacked.com/code/Subtext.Scripting.zip "The Subtext Scripting Assembly")
+assembly](https://haacked.com/code/Subtext.Scripting.zip "The Subtext Scripting Assembly")
 and point people to our Subversion repository and hope that someone out
 there will find this useful and have enough incentive to submit
 improvements!

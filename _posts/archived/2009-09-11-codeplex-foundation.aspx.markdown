@@ -9,7 +9,7 @@ redirect_from: "/archive/2009/09/10/codeplex-foundation.aspx/"
 ---
 
 UPDATE: Be sure to read my [follow-up post on this
-topic](http://haacked.com/archive/2009/09/13/more-on-the-codeplex-foundation.aspx "More on the CodePlex Foundation")
+topic](https://haacked.com/archive/2009/09/13/more-on-the-codeplex-foundation.aspx "More on the CodePlex Foundation")
 as well.
 
 Yesterday, Microsoft announced some exciting news about the formation of
@@ -20,7 +20,7 @@ hosting website despite the unfortunately confusing same name) whose
 mission is to “***enable the exchange of code and understanding among
 software companies and open source communities***”.
 
-![codeplex-foundation-logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/IsTheCodePlexFoundationAGoodThing_7E7D/codeplex-foundation-logo_3.gif "codeplex-foundation-logo")
+![codeplex-foundation-logo](https://haacked.com/images/haacked_com/WindowsLiveWriter/IsTheCodePlexFoundationAGoodThing_7E7D/codeplex-foundation-logo_3.gif "codeplex-foundation-logo")
 
 This is an 501(c)(6) organization completely independent of Microsoft.
 For example, search the
@@ -47,7 +47,7 @@ main website states (emphasis mine):
 I’m personally excited about this as I’ve been a proponent of open
 source on the Microsoft stack for a long time and [have called for
 Microsoft to get more involved in the
-past](http://haacked.com/archive/2006/09/16/Should_Microsoft_Financially_Support_Open_Source_Projects.aspx "Should Microsoft Financially Support Open Source Projects").
+past](https://haacked.com/archive/2006/09/16/Should_Microsoft_Financially_Support_Open_Source_Projects.aspx "Should Microsoft Financially Support Open Source Projects").
 I remember way back then, [Scott
 Hanselman](http://hanselman.com/blog/ "Scott Hanselman") suggested
 Microsoft form an INETA like organization for open source as an
@@ -110,7 +110,7 @@ sure it continues in the right direction.**
 -   DotNetNuke Blog: [CodePlex Foundation Announced
     Today](http://www.dotnetnuke.com/Community/Blogs/tabid/825/EntryId/2355/CodePlex-Foundation-Announced-Today.aspx "CodePlex Foundation Announced")
 -   Me: [More on the CodePlex
-    Foundation](http://haacked.com/archive/2009/09/13/more-on-the-codeplex-foundation.aspx "More details on the CodePlex Foundation")
+    Foundation](https://haacked.com/archive/2009/09/13/more-on-the-codeplex-foundation.aspx "More details on the CodePlex Foundation")
 -   Scott Bellware: [Analysis: CodePlex Foundation – The Terms of Mutual
     Surrender](http://blog.scottbellware.com/2009/09/analysis-codeplex-foundation-terms-of.html "Scott Bellware's Analysis")
 -   John V. Petersen [Thoughts on CodePlex Foundation for

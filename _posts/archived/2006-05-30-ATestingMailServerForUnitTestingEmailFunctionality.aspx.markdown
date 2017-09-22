@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/05/29/ATestingMailServerForUnitTestingEmailFunctionality.aspx/"
 ---
 
-![Mail](http://haacked.com/images/Mail.jpg)So you are coding along
+![Mail](https://haacked.com/images/Mail.jpg)So you are coding along
 riding that TDD high when you reach the point at which your code needs
 to send an email. What do you do now?
 
@@ -110,7 +110,7 @@ instructions](http://subtextproject.com/Home/About/ViewTheCode/tabid/116/Default
 for downloading the latest Subtext code using Subversion.
 
 Or you can simply download this [one project
-here](http://haacked.com/code/Subtext.TestMailServer.zip "Subtext.TestMailServer"),
+here](https://haacked.com/code/Subtext.TestMailServer.zip "Subtext.TestMailServer"),
 though keep in mind that I will be updating this project, but not
 necessarily this link to the project.
 

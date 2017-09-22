@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/10/23/Integrate_Your_Custom_Search_Engine_With_The
 ---
 
 In response to question about integrating my [custom search
-engine](http://haacked.com/archive/2006/10/23/My_Very_Own_Search_Engine.aspx "Custom Search Engine")
+engine](https://haacked.com/archive/2006/10/23/My_Very_Own_Search_Engine.aspx "Custom Search Engine")
 with the browser, [Oran](http://orand.blogspot.com/ "Oran's Blog") left
 a comment with a [link to a
 post](http://orand.blogspot.com/2006/02/fogbugz-browser-search-integration.html "Intgrate Search")
@@ -18,20 +18,20 @@ the [OpenSearch provider](http://opensearch.a9.com/ "A9 OpenSearch"),
 which is supported by Firefox 2.0 and IE7.
 
 So I went ahead and used this as a guide to implementing OpenSearch for
-my custom search engine on [my blog](http://haacked.com/ "My Blog"). 
+my custom search engine on [my blog](https://haacked.com/ "My Blog"). 
 When you visit my blog, you should notice that the the search icon in
 the top left corner of your browser is highlighted (screenshot from
 Firefox 2).
 
 ![Open search
-box.](http://haacked.com/images/haacked_com/WindowsLiveWriter/IntegrateYourCustomSearchEngineWithTheBr_CE08/OpenSearchBox4.png)
+box.](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntegrateYourCustomSearchEngineWithTheBr_CE08/OpenSearchBox4.png)
 
 Click on the down arrow and you will see my own search engine *[Haack
-Attack](http://haacked.com/archive/2006/10/23/My_Very_Own_Search_Engine.aspx "My Very Own Search Engine")*
+Attack](https://haacked.com/archive/2006/10/23/My_Very_Own_Search_Engine.aspx "My Very Own Search Engine")*
 in the list of search providers.
 
 ![Haack
-Attack](http://haacked.com/images/haacked_com/WindowsLiveWriter/IntegrateYourCustomSearchEngineWithTheBr_CE08/HaackSearchProviderInList4.png)
+Attack](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntegrateYourCustomSearchEngineWithTheBr_CE08/HaackSearchProviderInList4.png)
 
 Now you can search using Haack Attack via your browser.  Implementing
 this required two easy steps.  First I created an `OpenSearch.xml` file
@@ -77,7 +77,7 @@ customize for your own needs.
 <link title="Haack Attack" 
   type="application/opensearchdescription+xml" 
   rel="search" 
-  href="http://haacked.com/OpenSearch.xml">
+  href="https://haacked.com/OpenSearch.xml">
 </link>
 ```
 

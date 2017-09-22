@@ -12,7 +12,7 @@ In his book, *[Producing Open Source
 Software](http://producingoss.com/ "Producing Open source Software - How to run a successful free software project")*,
 Karl Fogel gives sage advice on running an open source project. The
 section on how to deal with a security vulnerability was [particularly
-interesting](http://haacked.com/archive/2007/09/20/urgent-subtext-security-patch.aspx "Subtext Security Patch")
+interesting](https://haacked.com/archive/2007/09/20/urgent-subtext-security-patch.aspx "Subtext Security Patch")
 to me last night.
 
 Upon learning of a potential security hole, Karl recommends the

@@ -9,7 +9,7 @@ categories:
 redirect_from: "/archive/2006/01/10/pimpmydesktop.aspx/"
 ---
 
-![Pimped Desktop](http://haacked.com/images/pimpeddesktop.jpg) Ryan
+![Pimped Desktop](https://haacked.com/images/pimpeddesktop.jpg) Ryan
 Farley [gives the
 lowdown](http://ryanfarley.com/blog/archive/2006/01/11/14992.aspx?Pending=true)
 on his tricked out desktop.

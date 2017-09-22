@@ -35,7 +35,7 @@ so you can assume that any code snippets I post are licensed in the same
 way unless I specifically state otherwise.
 
 I wrote on this topic in my [Developer’s Guide to Open Source Software
-Licensing](http://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Licensing for Dummies"),
+Licensing](https://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Licensing for Dummies"),
 which I know you read because developers just love reading up on legal
 topics.
 

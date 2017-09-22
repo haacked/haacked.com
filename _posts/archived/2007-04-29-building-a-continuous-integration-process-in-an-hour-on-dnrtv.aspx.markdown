@@ -15,12 +15,12 @@ Integration](http://www.martinfowler.com/articles/continuousIntegration.html "Co
 project](http://subtextproject.com/ "Subtext Project Website"), we use
 [CruiseControl.NET](http://confluence.public.thoughtworks.org/display/CCNET/Welcome+to+CruiseControl.NET "CruiseControl.NET").
 I’ve [written about our build
-process](http://haacked.com/archive/2006/05/03/SubtextCruisingInCruiseControl.NET.aspx "Subtext Cruising in CruiseControl.NET")
+process](https://haacked.com/archive/2006/05/03/SubtextCruisingInCruiseControl.NET.aspx "Subtext Cruising in CruiseControl.NET")
 in the past.
 
 Given the usefulness of having a build server, you can understand my
 frustration and sadness when our build server recently [took a
-dive](http://haacked.com/archive/2007/04/24/the-death-of-the-subtext-build-server.aspx "Death of the subtext build server").
+dive](https://haacked.com/archive/2007/04/24/the-death-of-the-subtext-build-server.aspx "Death of the subtext build server").
 I bought a replacement hard drive, but it was the wrong kind (a rookie
 mistake on my part, accidentally getting an IDE drive rather than SATA).
 

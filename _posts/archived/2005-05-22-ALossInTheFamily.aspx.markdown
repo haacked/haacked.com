@@ -18,7 +18,7 @@ Hideo Yokoyama, pulled over to the side of the road with his windows
 down. While driving, he suffered a heart attack and died from cardiac
 arrest.
 
-Only [last weekend](http://haacked.com/archive/2005/05/15/3228.aspx) we
+Only [last weekend](https://haacked.com/archive/2005/05/15/3228.aspx) we
 had a great time with him down in San Diego. The fact that we saw him so
 recently has been good for Akumi. Though stunned and saddened, we both
 remember how happy he was, throwing back a beer together over fantastic

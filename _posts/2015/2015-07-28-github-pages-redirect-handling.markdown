@@ -6,11 +6,11 @@ comments: true
 categories: [github jekyll pages]
 ---
 
-A while back I migrated my blog to [Jekyll and GitHub Pages](http://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/). I worked hard to [preserve my existing URLs](http://haacked.com/archive/2013/12/03/jekyll-url-extensions/).
+A while back I migrated my blog to [Jekyll and GitHub Pages](https://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/). I worked hard to [preserve my existing URLs](https://haacked.com/archive/2013/12/03/jekyll-url-extensions/).
 
 But the process wasn't perfect. My old blog engine was a bit forgiving about URLs. As long as the URL "slug" was correct, the URL could have _any_ date in it. So there happened to be quite a few non-canonical URLs out in the wild.
 
-So what I did was [create a 404 page](https://github.com/Haacked/haacked.com/blob/gh-pages/404.html) that had a link to log an issue against my blog. GitHub Pages will serve up this page for any file not found errors. Here's an example of [the rendered 404 page](http://haacked.com/file-not-found).
+So what I did was [create a 404 page](https://github.com/Haacked/haacked.com/blob/gh-pages/404.html) that had a link to log an issue against my blog. GitHub Pages will serve up this page for any file not found errors. Here's an example of [the rendered 404 page](https://haacked.com/file-not-found).
 
 And the 404 issues started to roll in. Great! So what do I do with those issues now? How do I fix them?
 
@@ -41,7 +41,7 @@ Thus, I fixed the redirect like so:
 redirect_from: "/archive/2009/12/12/localizing-aspnetmvc-validation.aspx.html"
 ```
 
-By doing so, a request for `http://haacked.com/archive/2009/12/12/localizing-aspnetmvc-validation.aspx` is properly redirected. This is especially useful to know for those of you migrating from old blog engines that appended a file extension other than ``.html` to all post URLs.
+By doing so, a request for `https://haacked.com/archive/2009/12/12/localizing-aspnetmvc-validation.aspx` is properly redirected. This is especially useful to know for those of you migrating from old blog engines that appended a file extension other than ``.html` to all post URLs.
 
 Also, if you need to redirect multiple URLs, you can use a Jekyll array like so:
 

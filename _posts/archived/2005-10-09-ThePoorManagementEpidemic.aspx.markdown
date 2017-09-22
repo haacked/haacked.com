@@ -32,7 +32,7 @@ software project and ask their tech team (or consultants), “Hey, how
 long will it take to build this?” A reasonable question, but
 surprisingly difficult to answer because as we know, [business types
 often don’t really know what they
-want](http://haacked.com/archive/2004/08/04/878.aspx).
+want](https://haacked.com/archive/2004/08/04/878.aspx).
 
 After spending some time gathering requirements, the whole time being
 pressured by the business team, the tech team delivers a rushed
@@ -68,7 +68,7 @@ success of the project, they manage to make the project progress even
 slower than had they allocated the correct amount of time. Certainly it
 is possible they will get a deliverable on time. But a deliverable that
 is very much a [house of
-cards](http://haacked.com/archive/2005/09/24/10336.aspx).
+cards](https://haacked.com/archive/2005/09/24/10336.aspx).
 
 To see the epidemic nature of this scenario, you only need to read the
 paper. The recent classic example is the [Virtual Case File

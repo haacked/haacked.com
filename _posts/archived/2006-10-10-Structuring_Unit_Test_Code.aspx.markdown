@@ -11,7 +11,7 @@ redirect_from: "/archive/2006/10/09/Structuring_Unit_Test_Code.aspx/"
 ---
 
 UPDATE: I’ve since supplemented this [with another
-approach](http://haacked.com/archive/2012/01/01/structuring-unit-tests.aspx "Structuring unit tests").
+approach](https://haacked.com/archive/2012/01/01/structuring-unit-tests.aspx "Structuring unit tests").
 
 [Jeremy
 Miller](http://codebetter.com/blogs/jeremy.miller/ "The Shade Tree Developer")

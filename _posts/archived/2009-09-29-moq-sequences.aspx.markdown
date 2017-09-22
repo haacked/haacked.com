@@ -11,7 +11,7 @@ redirect_from: "/archive/2009/09/28/moq-sequences.aspx/"
 ---
 
 *UPDATE: For a better approach, check out [MoQ Sequences
-Revisited](http://haacked.com/archive/2010/11/24/moq-sequences-revisited.aspx "A better MoQ sequences post").*
+Revisited](https://haacked.com/archive/2010/11/24/moq-sequences-revisited.aspx "A better MoQ sequences post").*
 
 One area where using MoQ is confusing is when mocking successive calls
 to the same method of an object.
@@ -108,7 +108,7 @@ reader.Setup(r => r.Read()).ReturnsInOrder(true, true, false);
 
 In the words of Borat, Very Nice!
 
-Tags: [TDD](http://haacked.com/tags/TDD/default.aspx), [unit
-testing](http://haacked.com/tags/unit+testing/default.aspx),
-[MoQ](http://haacked.com/tags/MoQ/default.aspx)
+Tags: [TDD](https://haacked.com/tags/TDD/default.aspx), [unit
+testing](https://haacked.com/tags/unit+testing/default.aspx),
+[MoQ](https://haacked.com/tags/MoQ/default.aspx)
 

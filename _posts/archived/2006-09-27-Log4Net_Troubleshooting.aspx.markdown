@@ -80,13 +80,13 @@ Hopefully this helps you with your log4net issues.
 ### Related Posts {.clear}
 
 -   [Quick and Dirty Guide to Configuring Log4Net for Web
-    Applications](http://haacked.com/archive/2005/03/07/ConfiguringLog4NetForWebApplications.aspx)
+    Applications](https://haacked.com/archive/2005/03/07/ConfiguringLog4NetForWebApplications.aspx)
 -   [Setting Up Log4Net For Multi Layered
-    Applications](http://haacked.com/archive/2006/01/13/SettingUpLog4NetForMultiLayeredApplications.aspx)
+    Applications](https://haacked.com/archive/2006/01/13/SettingUpLog4NetForMultiLayeredApplications.aspx)
 -   [Log4Net and External Configuration File In ASP.NET
-    2.0](http://haacked.com/archive/2006/08/08/Log4NetAndExternalConfigurationFileInASP.NET2.0.aspx)
+    2.0](https://haacked.com/archive/2006/08/08/Log4NetAndExternalConfigurationFileInASP.NET2.0.aspx)
 -   [Log4Net Breaking Change in
-    1.2.9](http://haacked.com/archive/2006/08/07/Log4NetBreakingChangeIn1.2.9.aspx)
+    1.2.9](https://haacked.com/archive/2006/08/07/Log4NetBreakingChangeIn1.2.9.aspx)
 
 tags: [Log4Net](http://technorati.com/tag/Log4Net)
 

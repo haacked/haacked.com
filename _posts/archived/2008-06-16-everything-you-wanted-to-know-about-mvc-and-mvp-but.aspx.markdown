@@ -16,7 +16,7 @@ Or, as my recent inbox tells me, you’re *not afraid* to ask. ;)
 
 A coworker recently asked for some good resources on getting up to speed on the Model View Controller (MVC) pattern. Around the same time, I received another email talking about how people are confused around the difference between MVC and the Model View Presenter (MVP) pattern.
 
-![mvc](http://haacked.com/images/haacked_com/WindowsLiveWriter/MVCandMVPPatternResources_71CE/mvc_3.png "mvc")No
+![mvc](https://haacked.com/images/haacked_com/WindowsLiveWriter/MVCandMVPPatternResources_71CE/mvc_3.png "mvc")No
 better opportunity to apply the [DRY
 principle](http://en.wikipedia.org/wiki/Don't_repeat_yourself "Don't Repeat Yourself")
 by answering some of these questions with a blog post.
@@ -34,7 +34,7 @@ The first place to start digging into the MVC pattern is to look at the [Wikiped
 > keystrokes and
 > [mouse](http://en.wikipedia.org/wiki/Mouse_%28computing%29) movements.
 
-![trygve](http://haacked.com/images/haacked_com/WindowsLiveWriter/MVCandMVPPatternResources_71CE/trygve_3.jpg "trygve")
+![trygve](https://haacked.com/images/haacked_com/WindowsLiveWriter/MVCandMVPPatternResources_71CE/trygve_3.jpg "trygve")
 If you’re really into it, you can go [directly to the source](http://heim.ifi.uio.no/~trygver/themes/mvc/mvc-index.html "MVC Index")
 and read the original papers from [Trygve Reenskaug](http://heim.ifi.uio.no/~trygver/ "Trygve M. H. Reenkaug"),
 the inventor of the pattern.
@@ -71,7 +71,7 @@ What About The Web?
 If you were playing close attention, most of these articles focus on rich client applications. Applying these patterns to the web is a very different beast because of the stateless nature of the web.
 
 ASP.NET WebForms, for example, attempts to emulate the rich client development paradigm via the use of `ViewState`. This is why many
-attempts to apply patterns to ASP.NET focus on the MVP pattern because the MVP pattern is more appropriate for a rich client application with GUI components. A while back I even tossed [my Supervising Controller sample](http://haacked.com/archive/2006/08/09/ASP.NETSupervisingControllerModelViewPresenterFromSchematicToUnitTestsToCode.aspx "Supervising Controller") into the ring. The Patterns and Practices group at Microsoft ship an
+attempts to apply patterns to ASP.NET focus on the MVP pattern because the MVP pattern is more appropriate for a rich client application with GUI components. A while back I even tossed [my Supervising Controller sample](https://haacked.com/archive/2006/08/09/ASP.NETSupervisingControllerModelViewPresenterFromSchematicToUnitTestsToCode.aspx "Supervising Controller") into the ring. The Patterns and Practices group at Microsoft ship an
 [MVP Bundle for ASP.NET](http://www.pnpguidance.net/Tag/MVPBundle.aspx "MVP Bundle").
 
 However, many web platforms embrace the stateless nature of the web and forego attempting to simulate a state-full rich client development environment. In such systems, a tweaked MVC pattern is more applicable.

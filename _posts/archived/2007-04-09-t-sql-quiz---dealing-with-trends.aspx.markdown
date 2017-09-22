@@ -17,9 +17,9 @@ may create altruistic reasons for posting quizzes such as:
     problem](http://weblogs.asp.net/jgalloway/archive/2006/11/08/Code-Puzzle-_2300_1-_2D00_-What-numbers-under-one-million-are-divisible-by-their-reverse_3F00_.aspx "What numbers under one million are divisible by their reverse’")
     I thought up
 2.  It’s an [interesting
-    bug](http://haacked.com/archive/2004/11/17/quiz-what-is-wrong-with-this-code.aspx "What is wrong with this code’")
+    bug](https://haacked.com/archive/2004/11/17/quiz-what-is-wrong-with-this-code.aspx "What is wrong with this code’")
     I [ran
-    into](http://haacked.com/archive/2005/01/21/difference-between-isnull-and-coalesce.aspx "Bug I Ran Into")
+    into](https://haacked.com/archive/2005/01/21/difference-between-isnull-and-coalesce.aspx "Bug I Ran Into")
 
 we all know the *real* reasons for posting a quiz.
 
@@ -40,12 +40,12 @@ each of the statistics.
 The following screenshot shows the data model.
 
 ![Statistic table and Measurement
-Table](http://haacked.com/images/haacked_com/WindowsLiveWriter/c994658a199e_148AD/image018.png)
+Table](https://haacked.com/images/haacked_com/WindowsLiveWriter/c994658a199e_148AD/image018.png)
 
 The following screenshot shows the list of contrived statistics.
 
 ![Statistic Table
-Data](http://haacked.com/images/haacked_com/WindowsLiveWriter/c994658a199e_148AD/image022.png)
+Data](https://haacked.com/images/haacked_com/WindowsLiveWriter/c994658a199e_148AD/image022.png)
 
 What we see above are the following:
 
@@ -59,7 +59,7 @@ For each of these statistics, the larger, the better.
 The following is a view of the Measurement table.
 
 ![Measurement Table
-Data](http://haacked.com/images/haacked_com/WindowsLiveWriter/c994658a199e_148AD/image041.png)
+Data](https://haacked.com/images/haacked_com/WindowsLiveWriter/c994658a199e_148AD/image041.png)
 
 Each measurement has the previous score and current score (this is a
 denormalized version of the actual tables for the purposes of
@@ -71,7 +71,7 @@ or not the statistic is trending positive or negative, where positive is
 better and negative is worse.
 
 ![Result of the
-query](http://haacked.com/images/haacked_com/WindowsLiveWriter/c994658a199e_148AD/image036.png)
+query](https://haacked.com/images/haacked_com/WindowsLiveWriter/c994658a199e_148AD/image036.png)
 
 Here is my first cut at the stored procedure. It’s pretty
 straightforward. In order to make the important part of the query as
@@ -138,7 +138,7 @@ you make to fulfill the requirements?**
 statement in the stored procedure?**
 
 Here is a [SQL
-script](http://haacked.com/code/Sql-Quiz-001.zip "The SQL Script") that
+script](https://haacked.com/code/Sql-Quiz-001.zip "The SQL Script") that
 willl setup the tables and initial stab at the stored procedure for you.
 The script requires SQL Server 2005 or SQL Server Express 2005.
 

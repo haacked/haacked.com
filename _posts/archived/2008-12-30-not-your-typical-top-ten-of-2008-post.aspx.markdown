@@ -64,22 +64,22 @@ determine the top posts. I updated it to only include mine published in
 2008. Here are the top 5.
 
 -   [Is Pizza Brain
-    Food?](http://haacked.com/archive/2008/03/21/is-pizza-brain-food.aspx "Is Pizza Brain Food")
+    Food?](https://haacked.com/archive/2008/03/21/is-pizza-brain-food.aspx "Is Pizza Brain Food")
     A musing on whether Pizza was the source of my ability to absorb new
     information in college.
 -   [Everything You Wanted To Know About MVC and MVP But Were Afraid To
-    Ask](http://haacked.com/archive/2008/06/16/everything-you-wanted-to-know-about-mvc-and-mvp-but.aspx)
+    Ask](https://haacked.com/archive/2008/06/16/everything-you-wanted-to-know-about-mvc-and-mvp-but.aspx)
     Title says it all.
 -   [Back From Mix Back To
-    Reality](http://haacked.com/archive/2008/03/08/back-from-mix-back-to-reality.aspx)
+    Reality](https://haacked.com/archive/2008/03/08/back-from-mix-back-to-reality.aspx)
     Surprisingly, my post on the Mix conference was in the top three. I
     think this means the quality of my blog has declined.
 -   [Updated Northwind Demo For ASP.NET MVC
-    Beta](http://haacked.com/archive/2008/05/23/updated-northwind-demo.aspx)
+    Beta](https://haacked.com/archive/2008/05/23/updated-northwind-demo.aspx)
     Seems like a lot of people want to see simple samples for [ASP.NET
     MVC](http://asp.net/mvc "ASP.NET MVC Website").
 -   [Thoughts on ASP.NET MVC Preview 2 and
-    Beyond](http://haacked.com/archive/2008/03/10/thoughts-on-asp.net-mvc-preview-2-and-beyond.aspx)
+    Beyond](https://haacked.com/archive/2008/03/10/thoughts-on-asp.net-mvc-preview-2-and-beyond.aspx)
 
 Milestones Moments
 ------------------
@@ -88,7 +88,7 @@ There are some posts that I personally liked because they represent
 important events that happened to me in 2008.
 
 -   [So Long L.A. And Thanks For All The
-    Fish](http://haacked.com/archive/2008/01/04/so-long-l.a.-and-thanks-for-all-the-fish.aspx)
+    Fish](https://haacked.com/archive/2008/01/04/so-long-l.a.-and-thanks-for-all-the-fish.aspx)
     It was in January of this year that my family and I left Los
     Angeles. This post was my homage to Los Angeles, with plenty of
     photos.
@@ -98,19 +98,19 @@ important events that happened to me in 2008.
     out for the declining quality of my blog. My god, he was right! It
     was a wake up call and I hope to improve in 2009.
 -   [ASP.NET MVC: A New Framework for Building Web
-    Applications](http://haacked.com/archive/2008/09/15/stackoverflow-at-pdc.aspx "PDC Talk")
+    Applications](https://haacked.com/archive/2008/09/15/stackoverflow-at-pdc.aspx "PDC Talk")
     I gave my first PDC talk ever with [Jeff
     Atwood](http://codinghorror.com/ "Jeff Atwood's Blog") who talked
     briefly about
     [StackOverflow](http://stackoverflow.com/ "StackOverflow"). It was
     great fun! While at PDC, I discovered a [new presentation
-    tip](http://haacked.com/archive/2008/09/15/stackoverflow-at-pdc.aspx "Hot New Presentation Tip").
+    tip](https://haacked.com/archive/2008/09/15/stackoverflow-at-pdc.aspx "Hot New Presentation Tip").
 -   [Subtext 2.1 Released! Contains Security
-    Update](http://haacked.com/archive/2008/11/27/subtext-2.1-security-update.aspx)
+    Update](https://haacked.com/archive/2008/11/27/subtext-2.1-security-update.aspx)
     After a long hiatus, we finally produced two more releases of
     Subtext one after the other.
 -   [ASP.NET MVC Beta
-    Released!](http://haacked.com/archive/2008/10/16/aspnetmvc-beta-release.aspx "ASP.NET MVC Beta")
+    Released!](https://haacked.com/archive/2008/10/16/aspnetmvc-beta-release.aspx "ASP.NET MVC Beta")
     We finally got the first Beta for ASP.NET MVC.
 
 Ok, so maybe this post is pretty typical and doesn’t live up to the
@@ -126,5 +126,5 @@ And with that, I leave you with this moment of zen, a photo taken near
 my house.
 
 [![giant
-snowman](http://haacked.com/images/haacked_com/WindowsLiveWriter/2c92454cf565_85B9/giant-snowman_thumb.jpg "giant snowman")](http://haacked.com/images/haacked_com/WindowsLiveWriter/2c92454cf565_85B9/giant-snowman_2.jpg)
+snowman](https://haacked.com/images/haacked_com/WindowsLiveWriter/2c92454cf565_85B9/giant-snowman_thumb.jpg "giant snowman")](https://haacked.com/images/haacked_com/WindowsLiveWriter/2c92454cf565_85B9/giant-snowman_2.jpg)
 

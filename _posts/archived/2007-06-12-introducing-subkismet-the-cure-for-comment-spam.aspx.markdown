@@ -9,12 +9,12 @@ redirect_from: "/archive/2007/06/11/introducing-subkismet-the-cure-for-comment-s
 ---
 
 *Update: I’ve created a new [NuGet
-Package](http://haacked.com/archive/2010/10/06/introducing-nupack-package-manager.aspx "NuGet Package")
+Package](https://haacked.com/archive/2010/10/06/introducing-nupack-package-manager.aspx "NuGet Package")
 for Subkismet (Package Id is “subkismet”) which will make it much easier
 to include this in your own projects.*
 
 *Been a short break from blogging, but I’m ready to get back to writing
-about*[*Cody*](http://haacked.com/archive/2007/06/06/introducing-cody-yokoyama-haack.aspx "Introducing Cody Yokoyama Haack")*,
+about*[*Cody*](https://haacked.com/archive/2007/06/06/introducing-cody-yokoyama-haack.aspx "Introducing Cody Yokoyama Haack")*,
 I mean code!*
 
 My philosophy towards Open Source Software is that the more sharing that
@@ -26,7 +26,7 @@ Towards that end, I’ve tried to structure
 [Subtext](http://subtextproject.com/) as much as possible into distinct
 reusable libraries. The danger in that, of course, is the specter of
 [premature
-generalization](http://haacked.com/archive/2005/09/19/avoid_premature_generalization.aspx "Avoid Premature Generalization").
+generalization](https://haacked.com/archive/2005/09/19/avoid_premature_generalization.aspx "Avoid Premature Generalization").
 
 I haven’t always been successful at avoiding premature generalization
 which has led me to focus on consolidating code into less assemblies
@@ -38,12 +38,12 @@ in use by many others in the wild. This is code included in Subtext as
 part of its defense system against comment spam. For example:
 
 -   [Subtext Akismet
-    API](http://haacked.com/archive/2006/09/26/Subtext_Akismet_API.aspx "Akismet Client for C#")
+    API](https://haacked.com/archive/2006/09/26/Subtext_Akismet_API.aspx "Akismet Client for C#")
     - A .NET client for the
     [Akismet](http://akismet.com/ "Akismet by WordPress") comment spam
     service.
 -   [Lightweight Invisible CAPTCHA Validator
-    Control](http://haacked.com/archive/2006/09/26/Lightweight_Invisible_CAPTCHA_Validator_Control.aspx "Invisible CAPTCHA")
+    Control](https://haacked.com/archive/2006/09/26/Lightweight_Invisible_CAPTCHA_Validator_Control.aspx "Invisible CAPTCHA")
     - An invisible CAPTCHA.
 -   Visible CAPTCHA - Your standard CAPTCHA control.
 
@@ -54,7 +54,7 @@ face now is how do I get any improvements they may have made back into
 my own implementation?**
 
 ![a can of
-no-spam](http://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingSubkismetTheCureForCommentSpa_13B94/no-spam_1.jpg)
+no-spam](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingSubkismetTheCureForCommentSpa_13B94/no-spam_1.jpg)
 To answer that, I created the [Subkismet
 project](http://www.codeplex.com/subkismet/ "Subkismet Project"). It’s
 more than just an Akismet client for .NET, it’s a library of SPAM
@@ -91,12 +91,12 @@ Fortunately I had the source code on my machine so I was not terribly
 affected, but this is a serious blow to my confidence in their service.
 However, I do believe that CodePlex is great for small open source
 projects (though [not yet convinced for large
-ones](http://haacked.com/archive/2007/03/02/A_Comparison_of_TFS_vs_Subversion_for_Open_Source_Projects.aspx "A Comparison of TFS vs Subversion for Open Source Projects")
+ones](https://haacked.com/archive/2007/03/02/A_Comparison_of_TFS_vs_Subversion_for_Open_Source_Projects.aspx "A Comparison of TFS vs Subversion for Open Source Projects")
 like Subtext) and I like their issue voting and wiki.
 
 I’ll give them one more chance to impress me. Besides, this allow me to
 really try out their [Subversion
-bridge](http://haacked.com/archive/2007/05/21/codeplex-to-roll-out-tortoisesvn-support.aspx "CodePlex to roll out TortoiseSVN Support")
+bridge](https://haacked.com/archive/2007/05/21/codeplex-to-roll-out-tortoisesvn-support.aspx "CodePlex to roll out TortoiseSVN Support")
 when they release it.
 
 ### Release Schedule

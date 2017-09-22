@@ -31,7 +31,7 @@ I like so far.
 Feedly
 ------
 
-[![feedly](http://haacked.com/images/haacked_com/WindowsLiveWriter/AGoogleReaderReplacement_1514B/feedly_thumb.png "feedly")](http://haacked.com/images/haacked_com/WindowsLiveWriter/AGoogleReaderReplacement_1514B/feedly_2.png)
+[![feedly](https://haacked.com/images/haacked_com/WindowsLiveWriter/AGoogleReaderReplacement_1514B/feedly_thumb.png "feedly")](https://haacked.com/images/haacked_com/WindowsLiveWriter/AGoogleReaderReplacement_1514B/feedly_2.png)
 
 [Feedly](http://feedly.com "Feedly.com") is gorgeous. There are apps for
 many platforms, but the browser works pretty well. Also, you can use
@@ -51,7 +51,7 @@ This leads me to…
 Go Read
 -------
 
-[![go-read](http://haacked.com/images/haacked_com/WindowsLiveWriter/AGoogleReaderReplacement_1514B/go-read_thumb.png "go-read")](http://haacked.com/images/haacked_com/WindowsLiveWriter/AGoogleReaderReplacement_1514B/go-read_2.png)
+[![go-read](https://haacked.com/images/haacked_com/WindowsLiveWriter/AGoogleReaderReplacement_1514B/go-read_thumb.png "go-read")](https://haacked.com/images/haacked_com/WindowsLiveWriter/AGoogleReaderReplacement_1514B/go-read_2.png)
 
 [Go Read](http://www.goread.io/ "Go Read") is a late entry into the
 list, but there are three important things I really like about it:

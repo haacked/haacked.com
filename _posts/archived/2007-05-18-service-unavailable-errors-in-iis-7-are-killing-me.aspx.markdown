@@ -9,7 +9,7 @@ redirect_from: "/archive/2007/05/17/service-unavailable-errors-in-iis-7-are-kill
 ---
 
 UPDATE: [Problem
-solved](http://haacked.com/archive/2007/05/21/the-iis-7-team-rocks.aspx "The IIS 7 Team Rocks")
+solved](https://haacked.com/archive/2007/05/21/the-iis-7-team-rocks.aspx "The IIS 7 Team Rocks")
 thanks to some members of the IIS 7 team!
 
 I am at my wits end trying to get IIS 7 to work on my Vista Ultimate box
@@ -41,7 +41,7 @@ HTTP Error 503 Service Unavailable message.
 ### What I’ve Tried
 
 Confirmed that [Skype is not listening to port
-80](http://haacked.com/archive/2005/07/11/trouble-accessing-localhost.aspx "Can’t Access Anything on Localhost?")
+80](https://haacked.com/archive/2005/07/11/trouble-accessing-localhost.aspx "Can’t Access Anything on Localhost?")
 (Skype tries to listen on port 80 by default).
 
 ​1. Confirmed that App Pools were configured correctly and started.

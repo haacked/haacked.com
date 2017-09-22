@@ -101,7 +101,7 @@ State state = AddressInfo.Convert(stateCode);
 Console.WriteLine(state.ToString()); // Prints "California"
 
 Let me know if you actually find this useful. The class itself can be
-downloaded [here](http://haacked.com/code/AddressInfo.zip).
+downloaded [here](https://haacked.com/code/AddressInfo.zip).
 
 [Listening to: Psychedeliasmith / Give Me My Auger Back - Fat Boy Slim -
 On The Floor At The Boutique (4:21)]

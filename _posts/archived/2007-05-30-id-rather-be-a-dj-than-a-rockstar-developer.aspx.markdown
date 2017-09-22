@@ -43,7 +43,7 @@ Electro, Jungle and Downtempo.
 It occurred to me that I would rather be a DJ programmer than any of
 these.
 
-[![phil-the-dj](http://haacked.com/images/haacked_com/WindowsLiveWriter/IdRatherBeaDJThanARockstarDeveloper_14654/phil-the-dj_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/IdRatherBeaDJThanARockstarDeveloper_14654/phil-the-dj.jpg) 
+[![phil-the-dj](https://haacked.com/images/haacked_com/WindowsLiveWriter/IdRatherBeaDJThanARockstarDeveloper_14654/phil-the-dj_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/IdRatherBeaDJThanARockstarDeveloper_14654/phil-the-dj.jpg) 
 
 Here are some reasons why:
 

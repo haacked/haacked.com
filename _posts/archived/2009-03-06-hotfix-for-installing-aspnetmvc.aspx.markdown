@@ -10,7 +10,7 @@ redirect_from: "/archive/2009/03/05/hotfix-for-installing-aspnetmvc.aspx/"
 ---
 
 Yesterday, I wrote about troubleshooting [Windows MSI
-Installers](http://haacked.com/archive/2009/03/05/troubleshooting-installers.aspx "Installer Troubleshooting")
+Installers](https://haacked.com/archive/2009/03/05/troubleshooting-installers.aspx "Installer Troubleshooting")
 and talked about the pain we here feel when an installation fails. Turns
 out, it’s not *always* our fault. ;) It appears there’s a hotfix
 released for Visual Studio which addresses a problem with installing

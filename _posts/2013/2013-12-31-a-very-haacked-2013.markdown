@@ -44,9 +44,9 @@ As you can see, after shipping a major release of GitHub for Windows, I shifted 
 
 My three most popular posts written in 2013 according to Google Analytics are:
 
-1. [Death to the if statement](http://haacked.com/archive/2013/11/08/death-to-the-if-statement.aspx) - more robust code with less control structures with `25,987` page views.
-2. [Argue well by losing](http://haacked.com/archive/2013/10/21/argue-well-by-losing.aspx/) - You only learn something when you lose an argument with `21,264` views.
-3. [Test Better](http://haacked.com/archive/2013/03/04/test-better.aspx/) - How developers should become better testers with 15,618 views
+1. [Death to the if statement](https://haacked.com/archive/2013/11/08/death-to-the-if-statement.aspx) - more robust code with less control structures with `25,987` page views.
+2. [Argue well by losing](https://haacked.com/archive/2013/10/21/argue-well-by-losing.aspx/) - You only learn something when you lose an argument with `21,264` views.
+3. [Test Better](https://haacked.com/archive/2013/03/04/test-better.aspx/) - How developers should become better testers with 15,618 views
 
 By the way, does anyone know how to easily do a report in Google Analytics for content _created_ in a year? I'd find that useful.
 
@@ -57,7 +57,7 @@ This past year, I've had the pleasure to be involved in shipping the following:
 1. [GitHub Enterprise support in GitHub for Windows](https://github.com/blog/1628-enterprise-support-in-github-for-windows)
 2. [Octokit.net](https://github.com/blog/1676-introducing-octokit-net)
 3. [ChooseALicense.com](https://github.com/blog/1530-choosing-an-open-source-license)
-4. [RestSharp](http://haacked.com/archive/2013/09/18/restsharp-104-2-0-released.aspx/) - a few releases actually.
+4. [RestSharp](https://haacked.com/archive/2013/09/18/restsharp-104-2-0-released.aspx/) - a few releases actually.
 5. According to FitBit, I had `4,577,481` steps this year. That's approximately `2,099 `miles. Compare this to the 3.1 million steps I took the year before. That's a huge improvement!
 
 ## You People

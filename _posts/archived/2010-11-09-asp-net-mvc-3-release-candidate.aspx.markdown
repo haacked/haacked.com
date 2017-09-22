@@ -49,7 +49,7 @@ NuGet
 -----
 
 As [I wrote
-earlier](http://haacked.com/archive/2010/11/09/nuget-ctp2-released.aspx "NuGet CTP 2 released"),
+earlier](https://haacked.com/archive/2010/11/09/nuget-ctp2-released.aspx "NuGet CTP 2 released"),
 this release of ASP.NET MVC includes an updated version of NuGet, a free
 and open source Package Manager that integrates nicely into Visual
 Studio.
@@ -67,7 +67,7 @@ Well, since I’m lazy, I’ll probably be asking you very soon for your
 thoughts on what you’d like to see us focus on for the next version of
 ASP.NET MVC. Then I can present your best ideas as my own in the next
 executive review. You don’t mind that at all, do you? ![Winking
-smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NET-MVC-3-Release-Candidate_955/wlEmoticon-winkingsmile_2.png)
+smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NET-MVC-3-Release-Candidate_955/wlEmoticon-winkingsmile_2.png)
 
 Seriously though, please do provide feedback and I’ll keep you posted on
 our planning.

@@ -9,7 +9,7 @@ redirect_from: "/archive/2004/07/15/56-deceits-in-fahrenheit-911.aspx/"
 ---
 
 Earlier I posted the [factual
-backup](http://haacked.com/archive/2004/07/12/806.aspx) from [Michael
+backup](https://haacked.com/archive/2004/07/12/806.aspx) from [Michael
 Moore's website](http://www.michaelmoore.com/) concerning Fahrenheit
 9/11.
 

@@ -25,10 +25,10 @@ One piece of feedback I’ve already heard from several people is that
 they don’t want to manage multiple projects and simply want areas
 within  single project as a means of organizing controllers and views
 much [like I had it in my
-prototype](http://haacked.com/archive/2008/11/04/areas-in-aspnetmvc.aspx "Grouping Controllers")
+prototype](https://haacked.com/archive/2008/11/04/areas-in-aspnetmvc.aspx "Grouping Controllers")
 for ASP.NET MVC 1.0.
 
-![areas-folder-structure](http://haacked.com/images/haacked_com/WindowsLiveWriter/36ef165d4ea4_ED92/areas-folder-structure_6.png "areas-folder-structure")
+![areas-folder-structure](https://haacked.com/images/haacked_com/WindowsLiveWriter/36ef165d4ea4_ED92/areas-folder-structure_6.png "areas-folder-structure")
 
 Well the bad news is that the areas layout I had in that prototype
 doesn’t work right out of the box. The good news is that it is very easy
@@ -79,7 +79,7 @@ public class SingleProjectAreasViewEngine : WebFormViewEngine {
 The constructor of this view engine simply specifies different format
 strings. Here’s a case where I wish the Framework had a `String.Format`
 method that efficiently worked with [named
-formats](http://haacked.com/archive/2009/01/04/fun-with-named-formats-string-parsing-and-edge-cases.aspx "Named Formats").
+formats](https://haacked.com/archive/2009/01/04/fun-with-named-formats-string-parsing-and-edge-cases.aspx "Named Formats").
 
 This sample is made slightly more complicated by the fact that I have
 another constructor that accepts all these formats. That makes it
@@ -135,5 +135,5 @@ supported, let me know. We are looking at having the single project
 approach supported out of the box as a possibility for Preview 2.
 
 If you want to see this in action, download the **[following
-sample](http://haacked.com/code/SingleProjectAreas.zip "Single Project Areas Demo")**.
+sample](https://haacked.com/code/SingleProjectAreas.zip "Single Project Areas Demo")**.
 

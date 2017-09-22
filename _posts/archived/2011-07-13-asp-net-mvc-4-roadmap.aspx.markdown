@@ -11,9 +11,9 @@ redirect_from: "/archive/2011/07/12/asp-net-mvc-4-roadmap.aspx/"
 ---
 
 It only feels like yesterday that [we shipped ASP.NET MVC
-3](http://haacked.com/archive/2011/01/13/aspnetmvc3-released.aspx "ASP.NET MVC 3 and NuGet 1.0 released")
+3](https://haacked.com/archive/2011/01/13/aspnetmvc3-released.aspx "ASP.NET MVC 3 and NuGet 1.0 released")
 followed by a release of [updated Visual Studio
-tooling](http://haacked.com/archive/2011/04/12/introducing-asp-net-mvc-3-tools-update.aspx "ASP.NET MVC 3 Tools Update")
+tooling](https://haacked.com/archive/2011/04/12/introducing-asp-net-mvc-3-tools-update.aspx "ASP.NET MVC 3 Tools Update")
 for ASP.NET MVC 3. But we’re not ones to sit on our hands for long and
 are busy at work on ASP.NET MVC 4.
 

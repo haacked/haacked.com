@@ -11,7 +11,7 @@ redirect_from: "/archive/2006/08/25/Mile_High_Overview_Of_Subtext_Skinning.aspx/
 ---
 
 In my [previous
-post](http://haacked.com/archive/2006/08/26/Subtext_Skinning_Changes.aspx "Subtext Skinning Changes"),
+post](https://haacked.com/archive/2006/08/26/Subtext_Skinning_Changes.aspx "Subtext Skinning Changes"),
 I outlined some minor changes to the skinning model for Subtext. In this
 post, I will give a high level overview of how skinning works in
 Subtext.
@@ -22,7 +22,7 @@ in the *Skins* directory for example, you might see a set of folders
 like this.
 
 ![Subtext Skin
-Folders.](http://haacked.com/images/haacked_com/WindowsLiveWriter/790894a9b369_B541/SubtextSkinFolders4.png)
+Folders.](https://haacked.com/images/haacked_com/WindowsLiveWriter/790894a9b369_B541/SubtextSkinFolders4.png)
 
 Skin Template
 -------------
@@ -44,7 +44,7 @@ define three different skins while the other stylesheets in this folder
 do not?
 
 ![Redbook
-Folder](http://haacked.com/images/haacked_com/WindowsLiveWriter/790894a9b369_B541/redbook.png)
+Folder](https://haacked.com/images/haacked_com/WindowsLiveWriter/790894a9b369_B541/redbook.png)
 
 The answer is that this is defined within the `Skins.config` file.
 
@@ -115,7 +115,7 @@ render a specific skin.  There was also a control named
 *PageTemplate.ascx* in the parent directory.
 
 ![The
-Controls](http://haacked.com/images/haacked_com/WindowsLiveWriter/790894a9b369_B541/SNAG00234.png)
+Controls](https://haacked.com/images/haacked_com/WindowsLiveWriter/790894a9b369_B541/SNAG00234.png)
 
 Each skin in a family of skins is rendered by the same set of
 `UserControl` instances.  The only difference between two skins within

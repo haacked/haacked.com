@@ -41,7 +41,7 @@ My guess is that the developer who wrote this didn’t realize that you
 don’t need a catch block in order to use a finally block. The finally
 block will ALWAYS fire whether or not there is an exception block. Also,
 this code is resetting the callstack on the exception as I’ve [written
-about before](http://haacked.com/archive/2005/11/17/DevSourceArticleOnExceptions.aspx).
+about before](https://haacked.com/archive/2005/11/17/DevSourceArticleOnExceptions.aspx).
 
 This really just should be.
 

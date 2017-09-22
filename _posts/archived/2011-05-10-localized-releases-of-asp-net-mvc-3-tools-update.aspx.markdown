@@ -11,7 +11,7 @@ redirect_from: "/archive/2011/05/09/localized-releases-of-asp-net-mvc-3-tools-up
 ---
 
 In April we announced the [release of ASP.NET MVC 3 Tools
-Update](http://haacked.com/archive/2011/04/12/introducing-asp-net-mvc-3-tools-update.aspx "Tools Update")
+Update](https://haacked.com/archive/2011/04/12/introducing-asp-net-mvc-3-tools-update.aspx "Tools Update")
 which added Scaffolding, HTML 5 project templates, Modernizr, and [EF
 Code First Magic Unicorn
 Edition](http://www.hanselman.com/blog/SimpleCodeFirstWithEntityFramework4MagicUnicornFeatureCTP4.aspx "Magic Unicorn").

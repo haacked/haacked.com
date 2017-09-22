@@ -17,7 +17,7 @@ Project](http://www.amazon.com/gp/product/0596007590?ie=UTF8&tag=youvebeenhaac-2
 by Karl Fogel (free [pdf
 available](http://producingoss.com/producingoss.pdf)) is my bible (see
 my [review and summary of the
-book](http://haacked.com/archive/2006/01/16/RunningAnOpenSourceProject.aspx "Running an Open Source Project")).
+book](https://haacked.com/archive/2006/01/16/RunningAnOpenSourceProject.aspx "Running an Open Source Project")).
 
 The book is based on Karl Fogel’s experiences as the leader of the
 Subversion project and has heavily influenced how I run the projects I’m

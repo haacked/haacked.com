@@ -11,7 +11,7 @@ redirect_from: "/archive/2005/06/21/subtext-progress-report-and-roadmap.aspx/"
 
 ![Subtext Logo](http://subtextproject.com/images/SubtextLogo.png) I’ve
 been intentionally quiet about how Subtext is progressing (apart from a
-couple [minor posts](http://haacked.com/archive/2005/06/22/7116.aspx) on
+couple [minor posts](https://haacked.com/archive/2005/06/22/7116.aspx) on
 how to obtain the code via CVS). My reticense is certainly not from lack
 of excitement or enjoyment of the project. Working on Subtext has been
 about the most enjoyable software development project I’ve ever had the
@@ -38,7 +38,7 @@ code must really be nice. ;)
 
 Subtext is progressing nicely in other areas too. So much so that I
 upgraded my blog to Subtext after a [particularly withering comment spam
-attack](http://haacked.com/archive/2005/06/20/7047.aspx). Subtext hasn’t
+attack](https://haacked.com/archive/2005/06/20/7047.aspx). Subtext hasn’t
 yet completely eradicated comment spam, but it definitely has made a
 difference already.
 

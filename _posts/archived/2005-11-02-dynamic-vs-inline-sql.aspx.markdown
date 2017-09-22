@@ -12,7 +12,7 @@ redirect_from: "/archive/2005/11/01/dynamic-vs-inline-sql.aspx/"
 
 Perhaps there is a better term I could be using when I referred to
 “dynamic SQL” [in my last
-post](http://haacked.com/archive/2005/11/01/WhereTheProviderModelFallsShort.aspx).
+post](https://haacked.com/archive/2005/11/01/WhereTheProviderModelFallsShort.aspx).
 To my defense, I did mention using [Prepared
 Statements](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/adosql/adoprg02_97qr.asp).
 

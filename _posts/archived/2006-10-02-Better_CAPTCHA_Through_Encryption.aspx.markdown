@@ -11,7 +11,7 @@ redirect_from: "/archive/2006/10/01/Better_CAPTCHA_Through_Encryption.aspx/"
 ---
 
 I recently wrote about a [lightweight invisible CAPTCHA validator
-control](http://haacked.com/archive/2006/09/26/Lightweight_Invisible_CAPTCHA_Validator_Control.aspx "Lightweight Invisible CAPTCHA")
+control](https://haacked.com/archive/2006/09/26/Lightweight_Invisible_CAPTCHA_Validator_Control.aspx "Lightweight Invisible CAPTCHA")
 I built as a defensive measure against comment spam.  I wanted the
 control to work in as many situations as possible, so it doesn’t rely on
 `ViewState` nor `Session` since some users of the control may want to

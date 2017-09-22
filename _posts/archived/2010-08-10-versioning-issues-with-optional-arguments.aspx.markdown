@@ -29,12 +29,12 @@ parameters, a required `string url` and an optional `string protocol`.
 The following shows the six possible ways this method can be called.
 
 ```csharp
-HttpHelpers.Redirect("http://haacked.com/");
-HttpHelpers.Redirect(url: "http://haacked.com/");
-HttpHelpers.Redirect("http://haacked.com/", "https");
-HttpHelpers.Redirect("http://haacked.com/", protocol: "https");
-HttpHelpers.Redirect(url: "http://haacked.com/", protocol: "https");
-HttpHelpers.Redirect(protocol: "https", url: "http://haacked.com/");
+HttpHelpers.Redirect("https://haacked.com/");
+HttpHelpers.Redirect(url: "https://haacked.com/");
+HttpHelpers.Redirect("https://haacked.com/", "https");
+HttpHelpers.Redirect("https://haacked.com/", protocol: "https");
+HttpHelpers.Redirect(url: "https://haacked.com/", protocol: "https");
+HttpHelpers.Redirect(protocol: "https", url: "https://haacked.com/");
 ```
 
 Notice that whether or not a parameter is optional, you can choose to
@@ -181,5 +181,5 @@ So be aware of this if you plan to use optional arguments in your APIs.
 **required** parameters. So in this way, you are in the same boat as
 before. However, this can lead to other subtle versioning issues as my
 [follow-up post
-describes](http://haacked.com/archive/2010/08/12/more-optional-versioning-fun.aspx "More versioning fun with optional arguments").
+describes](https://haacked.com/archive/2010/08/12/more-optional-versioning-fun.aspx "More versioning fun with optional arguments").
 

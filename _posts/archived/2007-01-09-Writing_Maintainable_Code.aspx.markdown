@@ -10,7 +10,7 @@ redirect_from: "/archive/2007/01/08/Writing_Maintainable_Code.aspx/"
 ---
 
 [![A big
-wrenche](http://haacked.com/images/haacked_com/WindowsLiveWriter/WritingMaintainableCode_8727/496099_monkey_wrench_thumb%5B1%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/WritingMaintainableCode_8727/496099_monkey_wrench%5B3%5D.jpg)
+wrenche](https://haacked.com/images/haacked_com/WindowsLiveWriter/WritingMaintainableCode_8727/496099_monkey_wrench_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/WritingMaintainableCode_8727/496099_monkey_wrench%5B3%5D.jpg)
 [Jeremy
 Miller](http://codebetter.com/blogs/jeremy.miller/ "Jeremy Miller's Blog on CodeBetter Blogs")
 believes that among the various beneficial and important qualities a

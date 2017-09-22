@@ -189,5 +189,5 @@ grumbling to a minimum. Either that or point out how full of it I am and
 convince me to change my mind.
 
 See also: [Where the Provider Model Falls
-Short](http://haacked.com/archive/2005/11/01/wheretheprovidermodelfallsshort.aspx "Another post on the Provider Pattern").
+Short](https://haacked.com/archive/2005/11/01/wheretheprovidermodelfallsshort.aspx "Another post on the Provider Pattern").
 

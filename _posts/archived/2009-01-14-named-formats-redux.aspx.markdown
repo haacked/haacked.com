@@ -18,7 +18,7 @@ behavior of the code.
 I recently wrote a post in which I examined some existing
 implementations of named format methods and then described the fun I had
 writing a [routine for implementing named
-formats](http://haacked.com/archive/2009/01/04/fun-with-named-formats-string-parsing-and-edge-cases.aspx "Fun with Named Formats").
+formats](https://haacked.com/archive/2009/01/04/fun-with-named-formats-string-parsing-and-edge-cases.aspx "Fun with Named Formats").
 
 In response to that post, I received two new implementations of the
 method that are worth calling out.
@@ -234,7 +234,7 @@ again. I also made the format string slightly longer. Here are the new
 results.
 
 [![named format perf take
-2](http://haacked.com/images/haacked_com/WindowsLiveWriter/NamedFormatsRedux_112F4/named-format-perf_thumb.png "named format perf take 2")](http://haacked.com/images/haacked_com/WindowsLiveWriter/NamedFormatsRedux_112F4/named-format-perf_2.png)As
+2](https://haacked.com/images/haacked_com/WindowsLiveWriter/NamedFormatsRedux_112F4/named-format-perf_thumb.png "named format perf take 2")](https://haacked.com/images/haacked_com/WindowsLiveWriter/NamedFormatsRedux_112F4/named-format-perf_2.png)As
 you can see, they are all very close, though Henri’s method is the
 fastest.
 

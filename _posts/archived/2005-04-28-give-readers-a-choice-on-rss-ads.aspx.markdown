@@ -9,7 +9,7 @@ redirect_from: "/archive/2005/04/27/give-readers-a-choice-on-rss-ads.aspx/"
 ---
 
 Well I didn't get much of an on topic response [to my
-question](http://haacked.com/archive/2005/04/26/2839.aspx) of whether
+question](https://haacked.com/archive/2005/04/26/2839.aspx) of whether
 readers would be bothered by ads in an RSS feed, but I did get into a
 nice chat about hosting at home verse with a service. Apparently [Robb
 Allen](http://sharpmarbles.stufftoread.com/) has enough computers at

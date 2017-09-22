@@ -10,7 +10,7 @@ redirect_from: "/archive/2007/10/27/subtext-powers-myspace-china-blogs.aspx/"
 ---
 
 ![MySpace China
-Logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/NihaoMySpaceChinaHowisSubtextWorkingOutF_6BA/logo_3.png)An
+Logo](https://haacked.com/images/haacked_com/WindowsLiveWriter/NihaoMySpaceChinaHowisSubtextWorkingOutF_6BA/logo_3.png)An
 undisclosed source informed me that [MySpace
 China](http://myspace.cn/ "MySpace China") is using a modified version
 of [Subtext](http://subtextproject.com/ "Subtext Project Website") for

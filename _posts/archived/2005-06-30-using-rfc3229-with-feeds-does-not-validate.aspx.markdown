@@ -14,7 +14,7 @@ feeds](http://bobwyman.pubsub.com/main/2004/09/using_rfc3229_w.html) as
 proposed by [Bob Wyman](http://bobwyman.pubsub.com/).
 
 Unfortunately, [FeedValidator.org](http://feedvalidator.org/) now says
-[my feed](http://haacked.com/Rss.aspx) is not valid. The reason is that
+[my feed](https://haacked.com/Rss.aspx) is not valid. The reason is that
 Feed Validator assumes that the HTTP Status code of `226 IM Used` is an
 error. Perhaps it does not yet recognize RFC3229.
 

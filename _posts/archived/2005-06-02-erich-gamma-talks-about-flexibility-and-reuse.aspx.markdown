@@ -12,7 +12,7 @@ I just finished [reading part
 2](http://www.artima.com/lejava/articles/reuse.html) of the Bill Venners
 interview with Erich Gamma and Erich so eloquently distills some of what
 I was trying to say [in a recent
-post](http://haacked.com/archive/2005/05/31/3935.aspx).
+post](https://haacked.com/archive/2005/05/31/3935.aspx).
 
 It’s interesting to note how thinking about building systems has changed
 in the ten years since Design Patterns was published. Bill Venners

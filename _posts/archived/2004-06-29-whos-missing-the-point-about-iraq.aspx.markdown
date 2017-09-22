@@ -9,7 +9,7 @@ redirect_from: "/archive/2004/06/28/whos-missing-the-point-about-iraq.aspx/"
 ---
 
 ![Iraq](/images/Iraq.jpg)[My
-response](http://haacked.com/archive/2004/06/30/711.aspx) to [Dave
+response](https://haacked.com/archive/2004/06/30/711.aspx) to [Dave
 Winer's](http://www.scripting.com/) [post about Michael Moore's new
 movie](http://archive.scripting.com/2004/06/30#mooresTactics) has
 generated a lot (for me) comments. I appreciate the comments whether
@@ -26,7 +26,7 @@ else](http://www.classroomtools.com/voltaire.htm)). I feel the same way
 about Rush, but if he were to make a movie, I'd at least see it before
 speaking out against it. ;) And, I'd also like to point out that I am
 NOT making the claim (and I said this
-[before](http://haacked.com/archive/2004/06/21/656.aspx)) that
+[before](https://haacked.com/archive/2004/06/21/656.aspx)) that
 Fahrenheit 9/11 is unbiased journalism. I don't think even Mr. Moore
 himself is that audacious. So with that, let me jump in.
 

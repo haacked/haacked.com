@@ -138,7 +138,7 @@ cache if it’s part of a child request.
 
 If you want to output cache the portion of the page rendered by the call
 to `RenderAction`, you can use a technique [I mentioned
-here](http://haacked.com/archive/2009/05/12/donut-hole-caching.aspx "Donut Hole Caching")
+here](https://haacked.com/archive/2009/05/12/donut-hole-caching.aspx "Donut Hole Caching")
 where you place the call to `RenderAction` in a `ViewUserControl` which
 has its `OutputCache` directive set.
 

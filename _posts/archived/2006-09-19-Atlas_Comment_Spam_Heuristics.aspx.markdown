@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/09/18/Atlas_Comment_Spam_Heuristics.aspx/"
 ---
 
 Remember my [recent
-post](http://haacked.com/archive/2006/08/29/Comment_Spam_Heuristics.aspx)
+post](https://haacked.com/archive/2006/08/29/Comment_Spam_Heuristics.aspx)
 in which I suggested that we need more heuristic approaches to the
 comment spam problem?
 

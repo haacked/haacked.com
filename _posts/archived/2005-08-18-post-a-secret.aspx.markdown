@@ -22,5 +22,5 @@ This is a site where people anonymously send a postcard with a secret.
 Some are sad, others are anger inducing, and then there are the humorous
 ones like this one.
 
-![](http://haacked.com/images/SecretTicket.jpg)
+![](https://haacked.com/images/SecretTicket.jpg)
 

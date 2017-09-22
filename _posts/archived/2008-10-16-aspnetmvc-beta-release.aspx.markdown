@@ -29,7 +29,7 @@ post](http://www.hanselman.com/blog/ASPNETMVCBetaReleasedCoolnessEnsues.aspx "AS
 with good coverage as well.
 
 [As I warned
-before](http://haacked.com/archive/2008/09/05/mvcfutures-and-asp.net-mvc-beta.aspx "MvcFutures and ASP.NET MVC Beta"),
+before](https://haacked.com/archive/2008/09/05/mvcfutures-and-asp.net-mvc-beta.aspx "MvcFutures and ASP.NET MVC Beta"),
 we no longer bundle the Mvc Futures assembly (`Microsoft.Web.Mvc.dll`).
 However, we did just [publish a release of this assembly updated for
 Beta on
@@ -40,7 +40,7 @@ shortly. Sorry about the delay but there’s so much work to be done here.
 
 One very exciting element to this release is that we’ve included JQuery
 ([as I mentioned
-before](http://haacked.com/archive/2008/09/30/jquery-and-asp.net-mvc.aspx "JQuery and ASP.NET MVC"))
+before](https://haacked.com/archive/2008/09/30/jquery-and-asp.net-mvc.aspx "JQuery and ASP.NET MVC"))
 and are indeed the first Microsoft product to include it. One of the
 first Microsoft products (AFAIK) to bundle a third-party open source
 component.

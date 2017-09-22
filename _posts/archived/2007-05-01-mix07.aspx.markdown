@@ -26,7 +26,7 @@ jersey. The guy at the door took one look at me and told me, in a deeply
 French accent, "No no no. You cannot come in here."
 
 [![Eric Kemp, Miguel De Icaza, Jon Galloway, John Osborn,
-Me](http://haacked.com/images/haacked_com/WindowsLiveWriter/Mix07_D47D/478568316_ce54b8bcce_o_thumb%5B1%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/Mix07_D47D/478568316_ce54b8bcce_o%5B3%5D.jpg "Eric Kemp, Miguel De Icaza, Jon Galloway, John Osborn, Me")
+Me](https://haacked.com/images/haacked_com/WindowsLiveWriter/Mix07_D47D/478568316_ce54b8bcce_o_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/Mix07_D47D/478568316_ce54b8bcce_o%5B3%5D.jpg "Eric Kemp, Miguel De Icaza, Jon Galloway, John Osborn, Me")
 
 I figured he was joking, but it took me a moment to realize why this guy
 I had never met was joking with me, as he pointed to my shirt. Silly me.

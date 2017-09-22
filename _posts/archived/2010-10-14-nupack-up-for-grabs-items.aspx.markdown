@@ -12,7 +12,7 @@ redirect_from: "/archive/2010/10/13/nupack-up-for-grabs-items.aspx/"
 
 In my last post, I described how we’re trying to improve and [streamline
 contributor
-guidelines](http://haacked.com/archive/2010/10/14/updating-nupack-contributor-guidelines.aspx "Updating NuPack Contributor Guidelines")
+guidelines](https://haacked.com/archive/2010/10/14/updating-nupack-contributor-guidelines.aspx "Updating NuPack Contributor Guidelines")
 to make it easy for others to contribute to NuGet.
 
 Like all product cycles anywhere, we’re always running on tight time

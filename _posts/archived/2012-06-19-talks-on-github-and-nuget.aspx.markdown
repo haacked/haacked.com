@@ -15,7 +15,7 @@ redirect_from: "/archive/2012/06/18/talks-on-github-and-nuget.aspx/"
 A couple weeks ago I had the great pleasure to speak at the Norwegian
 Developer’s Conference (NDC). This is my second time speaking at NDC.
 The first time was back in 2009 and [it was a
-blast!](http://haacked.com/archive/2009/06/27/ndc2009-trip-report.aspx "NDC 2009")
+blast!](https://haacked.com/archive/2009/06/27/ndc2009-trip-report.aspx "NDC 2009")
 
 I gave two talks this year. My slides and a video of each presentation
 are available as well.
@@ -75,12 +75,12 @@ Oslo, Norway
 As always, Norway is beautiful in June. The speakers were treated to a
 boat ride on the Fjords.
 
-[![ndc-boat-ride](http://haacked.com/images/haacked_com/WindowsLiveWriter/Talks-on-GitHub-and-NuGet_89CE/ndc-boat-ride_thumb.jpg "ndc-boat-ride")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Talks-on-GitHub-and-NuGet_89CE/ndc-boat-ride_2.jpg)
+[![ndc-boat-ride](https://haacked.com/images/haacked_com/WindowsLiveWriter/Talks-on-GitHub-and-NuGet_89CE/ndc-boat-ride_thumb.jpg "ndc-boat-ride")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Talks-on-GitHub-and-NuGet_89CE/ndc-boat-ride_2.jpg)
 
 At the conference, I was flattered by some folks who created some swag
 based on my blog!
 
-[![ndc-swag](http://haacked.com/images/haacked_com/WindowsLiveWriter/Talks-on-GitHub-and-NuGet_89CE/ndc-swag_thumb.jpg "ndc-swag")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Talks-on-GitHub-and-NuGet_89CE/ndc-swag_2.jpg)
+[![ndc-swag](https://haacked.com/images/haacked_com/WindowsLiveWriter/Talks-on-GitHub-and-NuGet_89CE/ndc-swag_thumb.jpg "ndc-swag")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Talks-on-GitHub-and-NuGet_89CE/ndc-swag_2.jpg)
 
 Collect them all!
 
@@ -88,7 +88,7 @@ And of course, the best part of any conference is the people. Here a
 large group of us spontaneously gathered at a Jazz bar. The mixture of
 accents from around the world was music to my ears.
 
-[![ndc-jazz-bar](http://haacked.com/images/haacked_com/WindowsLiveWriter/Talks-on-GitHub-and-NuGet_89CE/ndc-jazz-bar_thumb.jpg "ndc-jazz-bar")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Talks-on-GitHub-and-NuGet_89CE/ndc-jazz-bar_2.jpg)
+[![ndc-jazz-bar](https://haacked.com/images/haacked_com/WindowsLiveWriter/Talks-on-GitHub-and-NuGet_89CE/ndc-jazz-bar_thumb.jpg "ndc-jazz-bar")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Talks-on-GitHub-and-NuGet_89CE/ndc-jazz-bar_2.jpg)
 
 Once again, NDC does not disappoint.
 

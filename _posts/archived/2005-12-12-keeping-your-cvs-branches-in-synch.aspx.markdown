@@ -9,7 +9,7 @@ redirect_from: "/archive/2005/12/11/keeping-your-cvs-branches-in-synch.aspx/"
 ---
 
 [![Branching
-Diagram](http://haacked.com/images/CVS_HowTo_SyncBranches.png)](http://stevenharman.net/blog/archive/2005/11/01/keepCVSBranchInSync.aspx)
+Diagram](https://haacked.com/images/CVS_HowTo_SyncBranches.png)](http://stevenharman.net/blog/archive/2005/11/01/keepCVSBranchInSync.aspx)
 I can’t believe I didn’t notice this when he first published it (I only
 saw an internal email on it), but [Steve
 Harman](http://stevenharman.net/blog/) wrote [this excellent guide to
@@ -28,6 +28,6 @@ continue repeating steps B through E.
 If anybody out there has some constructive feedback, I am sure Steve
 would love to hear it. Afterwards, I will try and incorporate this into
 my [Quickstart Guide to Open Source Development With CVS and
-SourceForge](http://haacked.com/archive/2005/05/12/3178.aspx). Happy
+SourceForge](https://haacked.com/archive/2005/05/12/3178.aspx). Happy
 branching!
 

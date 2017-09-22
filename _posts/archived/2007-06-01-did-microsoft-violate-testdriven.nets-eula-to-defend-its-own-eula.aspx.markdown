@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2007/05/31/did-microsoft-violate-testdriven.nets-eula-to-defend-its-own-eula.aspx/"
 ---
 
-![r\_takeoff](http://haacked.com/images/haacked_com/WindowsLiveWriter/ATechnicalEvaluationofMicrosoftsCase.NET_13543/r_takeoff_1.gif)
+![r\_takeoff](https://haacked.com/images/haacked_com/WindowsLiveWriter/ATechnicalEvaluationofMicrosoftsCase.NET_13543/r_takeoff_1.gif)
 Jamie Cansdale recently wrote about [some legal
 troubles](http://weblogs.asp.net/nunitaddin/archive/2007/05/30/microsoft-vs-testdriven-net-express.aspx "Microsoft vs TestDrivien.NET Express")
 he has with Microsoft. We were in the middle of an email correspondence
@@ -145,7 +145,7 @@ to exercise that right is a true sign of wisdom. Is this the time to
 exercise that right?
 
 You’ve recently given [yourself one black
-eye](http://haacked.com/archive/2007/05/13/is-fighting-open-source-with-patents-a-smart-move-by.aspx "Is Fighting Open Source With Patents a Smart Move by Microsoft?")
+eye](https://haacked.com/archive/2007/05/13/is-fighting-open-source-with-patents-a-smart-move-by.aspx "Is Fighting Open Source With Patents a Smart Move by Microsoft?")
 in the developer community. Are you prepared to give yourself yet
 another and continue [to erode your
 reputation](http://www.hanselman.com/blog/IsMicrosoftLosingTheAlphaGeeks.aspx "Is Microsoft losing the Alpha Geeks?")?

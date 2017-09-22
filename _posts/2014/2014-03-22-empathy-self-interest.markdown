@@ -71,6 +71,6 @@ Someone truly concerned about their own well being in the long run would see the
 
 This isn't the first time I've written about empathy and won't be the last. You might find my other posts that talk about empathy in various contexts helpful.
 
-* [Building an Open Source Community requires empathy](http://haacked.com/archive/2007/03/26/building-a-strong-open-source-community-requires-empathy.aspx/) where I talk about having empathy for your users as well as a thick skin.
-* [You don't need a thick skin](http://haacked.com/archive/2012/12/17/you-do-not-need-a-thick-skin.aspx/) where I contradict myself and suggest maybe you don't need a thick skin.
-* [Reflective Parenting](http://haacked.com/archive/2013/05/27/reflective-parenting.aspx/) where I talk about empathy's role in parenting.
+* [Building an Open Source Community requires empathy](https://haacked.com/archive/2007/03/26/building-a-strong-open-source-community-requires-empathy.aspx/) where I talk about having empathy for your users as well as a thick skin.
+* [You don't need a thick skin](https://haacked.com/archive/2012/12/17/you-do-not-need-a-thick-skin.aspx/) where I contradict myself and suggest maybe you don't need a thick skin.
+* [Reflective Parenting](https://haacked.com/archive/2013/05/27/reflective-parenting.aspx/) where I talk about empathy's role in parenting.

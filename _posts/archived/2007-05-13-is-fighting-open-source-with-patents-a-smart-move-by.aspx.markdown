@@ -121,7 +121,7 @@ hurt Microsoft’s ongoing competition with Google in retaining the best
 and the brightest?*It remains to be seen.
 
 As I said in a [recent
-interview](http://haacked.com/archive/2007/05/01/mix07-i-am-a-terrible-at-being-interviewed.aspx "I am terrible at being interviewed"),
+interview](https://haacked.com/archive/2007/05/01/mix07-i-am-a-terrible-at-being-interviewed.aspx "I am terrible at being interviewed"),
 I firmly believe that the .NET platform is a fantastic environment for
 developing open source software. I also believe that these myriad of
 open source projects built with .NET benefits Microsoft immensely. So

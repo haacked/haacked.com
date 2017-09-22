@@ -10,7 +10,7 @@ redirect_from: "/archive/2006/10/25/PATCH_Cannot_Delete_Posts_In_Subtext_1.9.2.a
 
 Someone reported that they cannot delete posts in the just [released
 Subtext
-1.9.2](http://haacked.com/archive/2006/10/25/Subtext_1.9.2_quotShields_Upquot_Edition_Released.aspx "Subtext 1.9.2 released!").
+1.9.2](https://haacked.com/archive/2006/10/25/Subtext_1.9.2_quotShields_Upquot_Edition_Released.aspx "Subtext 1.9.2 released!").
 I am mortified that we do do not have a unit test for this function!  To
 our defense, we did start with 0% code coverage in unit tests and have
 now reached 37.9% and rising!

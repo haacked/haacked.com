@@ -11,7 +11,7 @@ redirect_from: "/archive/2008/02/04/tell-me-your-unit-testing-pains.aspx/"
 ---
 
 If you know me, you know I go through
-[great](http://haacked.com/archive/2007/06/19/unit-tests-web-code-without-a-web-server-using-httpsimulator.aspx "HttpSimulator") [pains](http://haacked.com/archive/2006/05/30/ATestingMailServerForUnitTestingEmailFunctionality.aspx "A Testing Mail Server")
+[great](https://haacked.com/archive/2007/06/19/unit-tests-web-code-without-a-web-server-using-httpsimulator.aspx "HttpSimulator") [pains](https://haacked.com/archive/2006/05/30/ATestingMailServerForUnitTestingEmailFunctionality.aspx "A Testing Mail Server")
 to write automated unit tests for my code. Some might even call me anal
 about it. Those people know me too well.
 
@@ -21,7 +21,7 @@ of which I estimate I wrote around 800 of those. Yep, if you’re browsing
 the Subtext unit test code and something smells bad, chances are I
 probably dealt it.
 
-![IMG\_1117](http://haacked.com/images/haacked_com/WindowsLiveWriter/TellMeYourUnitTestingPains_13FCD/IMG_1117_1.jpg)
+![IMG\_1117](https://haacked.com/images/haacked_com/WindowsLiveWriter/TellMeYourUnitTestingPains_13FCD/IMG_1117_1.jpg)
 Unfortunately, by most definitions of *Unit Test,* most of these tests
 are really *integration tests*. Partly because I was testing legacy code
 that and partly because I was blocked by the framework, not every method

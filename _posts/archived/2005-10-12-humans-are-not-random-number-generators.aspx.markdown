@@ -22,7 +22,7 @@ And I definitely agree assuming a **couple constraints**...
 -   You enforce pass-phrases rather than passwords.
 
 A while ago [I
-referenced](http://haacked.com/archive/2004/12/07/1711.aspx) an [article
+referenced](https://haacked.com/archive/2004/12/07/1711.aspx) an [article
 on the insecurity of passwords as compared to
 pass-phrases](http://weblogs.asp.net/robert_hensing/archive/2004/07/28/199610.aspx).
 The article discusses how dictionary attacks and their ilk (brute-force,

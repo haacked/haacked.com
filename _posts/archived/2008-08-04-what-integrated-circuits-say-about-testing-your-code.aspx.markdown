@@ -11,16 +11,16 @@ redirect_from: "/archive/2008/08/03/what-integrated-circuits-say-about-testing-y
 ---
 
 A while back I talked about how [testable code helps manage
-complexity](http://haacked.com/archive/2007/11/14/writing-testable-code-is-about-managing-complexity.aspx "Testable code manages complexity").
+complexity](https://haacked.com/archive/2007/11/14/writing-testable-code-is-about-managing-complexity.aspx "Testable code manages complexity").
 In that post, I mentioned one common rebuttal to certain design
 decisions made in code in order to make it more testable.
 
 > Why would I want to do XYZ just do improve testability?
 
-![integrated-circuit](http://haacked.com/images/haacked_com/WindowsLiveWriter/DesignForTestability_12B08/integrated-circuit_3.png "integrated-circuit")
+![integrated-circuit](https://haacked.com/images/haacked_com/WindowsLiveWriter/DesignForTestability_12B08/integrated-circuit_3.png "integrated-circuit")
 Recently, I heard one variation of this comment in the comments to my
 post on [unit test
-boundaries](http://haacked.com/archive/2008/07/22/unit-test-boundaries.aspx "Unit Test Boundaries").
+boundaries](https://haacked.com/archive/2008/07/22/unit-test-boundaries.aspx "Unit Test Boundaries").
 Several people suggested that it’s fine to have unit tests access the
 database, after all, the code relies on data from the database, it
 should be tested.

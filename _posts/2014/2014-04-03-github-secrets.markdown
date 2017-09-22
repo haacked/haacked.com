@@ -23,7 +23,7 @@ It's really an opportunity to talk to developers and students about topics that 
 
 ## Share your knowledge when you travel
 
-This is the second time I'm giving a talk while on vacation in Hawaii. The first time was a [couple of years ago](http://haacked.com/archive/2012/09/05/git-and-github-talk-in-hawaii.aspx/). When I went back home to Alaska, I also gave [a talk there](http://haacked.com/archive/2013/08/25/alaska-software-community.aspx/).
+This is the second time I'm giving a talk while on vacation in Hawaii. The first time was a [couple of years ago](https://haacked.com/archive/2012/09/05/git-and-github-talk-in-hawaii.aspx/). When I went back home to Alaska, I also gave [a talk there](https://haacked.com/archive/2013/08/25/alaska-software-community.aspx/).
 
 I've found that places that are outside of the usual tech-hubs tend to be very welcoming to outside speakers. It can be hard to maintain a software user group when you don't have a large pool of speakers to draw from as you would in Seattle or San Francisco.
 
