@@ -15,7 +15,7 @@ In this particular video, they seem to play a bit fast and loose with the math. 
 
 ## But first, a joke
 
-There's another one later if you stick with it. 
+There's another one later if you stick with it.
 
 > A mathematician will call an infinite series convergent if its terms go to zero. A physicist will call it convergent if the first term is finite.
 
@@ -185,15 +185,15 @@ private static IEnumerable<DataPoint> GetGrandiCesaroPartialSum(int n)
 
 That's kind of neat.
 
-But here's the thing, a Cesàro summation is not the same thing as a normal additive summation. You can think of its result as a different property of a series from the normal summation. 
+But here's the thing, a Cesàro summation is not the same thing as a normal additive summation. You can think of its result as a different property of a series from the normal summation.
 
 As an analogy, imagine that I show you two flat shapes and then provide a proof that the shapes cancel each other out by subtracting the perimeter of one from the area of the other. You'd probably call foul on that.
 
 While not a perfect analogy, that's pretty close to what the video shows because they treat the Cesàro sum of the series as if it were a convergent series while they perform various operations that only apply to convergent series to get to their result.
 
-In particular, the way they shift the series and start adding them triggered my Spidey sense. That might work for a convergent series, but not for divergent. 
+In particular, the way they shift the series and start adding them triggered my Spidey sense. That might work for a convergent series, but not for divergent.
 
-Here's a simple proof from [Quora](http://www.quora.com/Mathematics/Theoretically-speaking-how-can-the-sum-of-all-positive-integers-be-1-12) that shows how this leads to a contradiction. We'll let `S` represent the sum of the natural numbers. Now, let's subtract `S` from itself, but we'll shift things over by one like they did in the video. 
+Here's a simple proof from [Quora](http://www.quora.com/Mathematics/Theoretically-speaking-how-can-the-sum-of-all-positive-integers-be-1-12) that shows how this leads to a contradiction. We'll let `S` represent the sum of the natural numbers. Now, let's subtract `S` from itself, but we'll shift things over by one like they did in the video.
 
 ```
  S =   1 + 2 + 3 + 4 + 5...
@@ -245,7 +245,7 @@ In the original formulation of this function, Euler allowed for the exponents to
 
 Graphing the Zeta function in this way produces some beautiful 3-D graphs as [seen on Wolfram Alpha](http://mathworld.wolfram.com/RiemannZetaFunction.html) and immortalized by XKCD.
 
-![XKCD on Riemann Zeta - Creative Commons BY-NC 2.5](http://imgs.xkcd.com/comics/riemann-zeta.jpg)
+![XKCD on Riemann Zeta - Creative Commons BY-NC 2.5](https://imgs.xkcd.com/comics/riemann-zeta.jpg)
 
 Incomprehensible indeed! When you deal with infinite series, it's near impossible to have an intuitive handle on it. Our minds don't deal with infinity very well, but our math does.
 

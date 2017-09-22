@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2005/08/08/video-aswesome-rock-balancing-video.aspx/"
 ---
 
-![Picture 1-15](http://www.boingboing.net/Picture%201-15.jpg) This is
+![Picture 1-15](https://www.boingboing.net/Picture%201-15.jpg) This is
 the must see video of the month. I would love to see this video in
 reverse.
 
@@ -20,4 +20,3 @@ segments](http://www.rock-on-rock-on.com/un-balancing.html)
 
 *[Via [Boing
 Boing](http://www.boingboing.net/2005/08/10/amazing_rock_balanci.html)]*
-

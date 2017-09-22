@@ -9,8 +9,7 @@ categories:
 redirect_from: "/archive/2005/06/21/subtext-progress-report-and-roadmap.aspx/"
 ---
 
-![Subtext Logo](http://subtextproject.com/images/SubtextLogo.png) I’ve
-been intentionally quiet about how Subtext is progressing (apart from a
+I’ve been intentionally quiet about how Subtext is progressing (apart from a
 couple [minor posts](https://haacked.com/archive/2005/06/22/7116.aspx) on
 how to obtain the code via CVS). My reticense is certainly not from lack
 of excitement or enjoyment of the project. Working on Subtext has been
@@ -70,4 +69,3 @@ clear the way for others to make some nice progress. I’ll probably be
 much more quite for a few months, though I will respond to emails and
 such and continue to try and guide the process. It’s been and continues
 to be fun sailing.
-
