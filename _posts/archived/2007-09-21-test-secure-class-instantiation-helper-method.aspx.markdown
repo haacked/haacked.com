@@ -11,7 +11,7 @@ redirect_from: "/archive/2007/09/20/test-secure-class-instantiation-helper-metho
 ---
 
 This is a quick follow-up [to my last
-post](http://haacked.com/archive/2007/09/21/unit-testing-security-example.aspx "Unit Testing Security Example").
+post](https://haacked.com/archive/2007/09/21/unit-testing-security-example.aspx "Unit Testing Security Example").
 That seemed like such a common test situation I figured I’d write a
 quick generic method for encapsulating those two tests.
 

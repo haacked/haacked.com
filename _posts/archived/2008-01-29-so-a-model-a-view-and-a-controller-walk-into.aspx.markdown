@@ -11,7 +11,7 @@ redirect_from: "/archive/2008/01/28/so-a-model-a-view-and-a-controller-walk-into
 
 At the risk of embarrassing myself and eliciting more groans, I am going
 to share a joke I made up for my [Code Camp
-talk](http://haacked.com/archive/2008/01/28/seattle-code-camp-wrapup.aspx "Seattle Code Camp").
+talk](https://haacked.com/archive/2008/01/28/seattle-code-camp-wrapup.aspx "Seattle Code Camp").
 I was inspired to come up with some humor based on Jeff’s [Sesame Street
 Presentation
 Rule](http://www.codinghorror.com/blog/archives/001040.html "Sesame Street Presentation")

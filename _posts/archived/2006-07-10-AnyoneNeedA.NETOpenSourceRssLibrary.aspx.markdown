@@ -20,7 +20,7 @@ will be released as a product. Very cool!
 In the meanwhile, I still need an open source RSS library to package up
 with Subtext. Fortunately, RSS.NET was developed under the MIT license
 which, as I mentioned before, is [very compatible
-with](http://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Guide to open source licenses")
+with](https://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Guide to open source licenses")
 our BSD license.
 
 So one option is to simply copy the code into our Subtext code base. My

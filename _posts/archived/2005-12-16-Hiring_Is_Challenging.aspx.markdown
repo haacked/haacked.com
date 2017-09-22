@@ -10,7 +10,7 @@ redirect_from: "/archive/2005/12/15/Hiring_Is_Challenging.aspx/"
 
 Hiring good developers is challenging. There’s a small bit of science
 and a lot of art. Even when a hire is brilliant, [he or she might not
-work out](http://haacked.com/archive/2005/12/16/11350.aspx). When
+work out](https://haacked.com/archive/2005/12/16/11350.aspx). When
 hiring, you don’t just want a list of experiences, technologies and
 languages... You want a person who exemplifies being a self-starter
 (rather than just listing it as a buzzword on the resumé) who is also

@@ -11,7 +11,7 @@ redirect_from: "/archive/2005/09/23/GoingIntoDesignDebt.aspx/"
 Found [this
 post](http://epudd.blogspot.com/2005/09/mentally-sweating.html) in the
 trackbacks section of my post on [Mental
-Laziness](http://haacked.com/archive/2005/09/18/10204.aspx). It’s a
+Laziness](https://haacked.com/archive/2005/09/18/10204.aspx). It’s a
 classic example of where management pressure often leads to mental
 laziness.
 

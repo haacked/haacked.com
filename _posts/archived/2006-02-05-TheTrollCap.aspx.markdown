@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/02/04/TheTrollCap.aspx/"
 ---
 
-![Troll Cap](http://haacked.com/images/TrollCap.gif) I love this idea
+![Troll Cap](https://haacked.com/images/TrollCap.gif) I love this idea
 from [37 Signals](http://37signals.com/ "37 Signals Website") in
 handling abusive comments. Rather than simply deleting them, they will
 take the approach of [shaming the abusers with a Troll

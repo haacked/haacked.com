@@ -11,12 +11,12 @@ redirect_from: "/archive/2009/04/06/my-little-world-domination-backup.aspx/"
 
 Every good developer knows to always have a backup. For example, over
 two years ago, I announced my [world domination
-plans](http://haacked.com/archive/2006/11/05/World_Domination_Phase_1_Commenced.aspx "World Domination Plans").
+plans](https://haacked.com/archive/2006/11/05/World_Domination_Phase_1_Commenced.aspx "World Domination Plans").
 But there was a single point of failure in me putting all my world
 domination plans on the tiny shoulders of just one progeny. My boy needs
 a partner in crime.
 
-[![mia](http://haacked.com/images/haacked_com/WindowsLiveWriter/MyLittleWorldDominationBackup_11528/mia_thumb.jpg "mia")](http://haacked.com/images/haacked_com/WindowsLiveWriter/MyLittleWorldDominationBackup_11528/mia_2.jpg)
+[![mia](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyLittleWorldDominationBackup_11528/mia_thumb.jpg "mia")](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyLittleWorldDominationBackup_11528/mia_2.jpg)
 So my wife and I conspired together and we’re happy to announce that
 baby \#2 is on the way. Together, the two of them will be unstoppable!
 

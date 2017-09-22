@@ -12,11 +12,11 @@ redirect_from: "/archive/2008/11/09/the-landmine-of-parsing-html-and-stripping-h
 
 A while ago I wrote a blog post about how painful it is to [properly
 parse an email
-address](http://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx "Validating an email addres").
+address](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx "Validating an email addres").
 This post is kind of like that, except that this time, I take on HTML.
 
 I’ve written about [parsing HTML with a regular
-expression](http://haacked.com/archive/2005/04/22/Matching_HTML_With_Regex.aspx "Matching HTML with regular expressions")
+expression](https://haacked.com/archive/2005/04/22/Matching_HTML_With_Regex.aspx "Matching HTML with regular expressions")
 in the past and pointed out that it’s extremely tricky and probably not
 a good idea to use regular expressions in this case. In this post, I
 want to strip out HTML comments. Why?
@@ -42,7 +42,7 @@ checked (IE 8, FF3, Google Chrome) all honor this markup and render the
 following.
 
 ![funky
-comment](http://haacked.com/images/haacked_com/WindowsLiveWriter/TheLandmineofParsingHTMLandStrippingHTML_E73B/funky-comment_3.png "funky comment")
+comment](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheLandmineofParsingHTMLandStrippingHTML_E73B/funky-comment_3.png "funky comment")
 
 Notice that when I put the mouse over “Test 1” and the browser rendered
 the value of the *title* attribute as a tooltip. That’s not even the
@@ -55,7 +55,7 @@ attribute value. Ugly!
 
 Still, the browsers dutifully render it:
 
-![funkier-comment](http://haacked.com/images/haacked_com/WindowsLiveWriter/TheLandmineofParsingHTMLandStrippingHTML_E73B/funkier-comment_3.png "funkier-comment") 
+![funkier-comment](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheLandmineofParsingHTMLandStrippingHTML_E73B/funkier-comment_3.png "funkier-comment") 
 
 At this point, It might seem like I’m spending too much time worrying
 about crazy edge cases, which is probably true. Should I simply strip

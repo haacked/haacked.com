@@ -14,7 +14,7 @@ into less space, web designers will create a form in which the text
 inputs double as labels. For example, this is a login control I wrote
 for a recent project.
 
-![Login Control](http://haacked.com/images/LoginControl.png)
+![Login Control](https://haacked.com/images/LoginControl.png)
 
 **Usability Issues:**\
  In my mind, this idea making the standard text box perform the double
@@ -78,7 +78,7 @@ start typing in there.
 because my web controls can’t be encapsulated in a single .cs file.
 That’s primarily because I make use of embedded resources for my client
 javascript (see [Using Embedded Resources for Client Script Blocks in
-ASP.NET](http://haacked.com/archive/2005/04/29/2879.aspx).
+ASP.NET](https://haacked.com/archive/2005/04/29/2879.aspx).
 
 So instead, I created a simple web project that contains the controls
 and all supporting code files. Since I was at it, I added a few other
@@ -89,11 +89,11 @@ can publish more of it in this project. Here’s a listing of what you
 will find in this project (in addition to the `TextBoxLabel` control):
 
 -   [An Abstract Boilerplate
-    HttpHandler](http://haacked.com/archive/2005/03/17/2394.aspx)
+    HttpHandler](https://haacked.com/archive/2005/03/17/2394.aspx)
 -   The `PairedDropDownList` control ([see
     demo](/Demos/PairedDropDownDemo.aspx)).
 -   `ScriptHelper` used to [embed client
-    scripts](http://haacked.com/archive/2005/04/29/2879.aspx).
+    scripts](https://haacked.com/archive/2005/04/29/2879.aspx).
 
 It’s not a lot, but it is a start. As these are controls we use
 internally, they aren’t necessarily the most polished and won’t work in

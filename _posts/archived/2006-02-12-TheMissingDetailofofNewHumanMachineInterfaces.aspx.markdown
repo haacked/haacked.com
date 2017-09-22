@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/02/11/TheMissingDetailofofNewHumanMachineInterfaces.aspx/"
 ---
 
-![Multi-Touch UI](http://haacked.com/images/MultiTouchUI.jpg) By now
+![Multi-Touch UI](https://haacked.com/images/MultiTouchUI.jpg) By now
 just about everybody is ooh-ing and aww-ing over [this demonstration
 video](http://mrl.nyu.edu/~jhan/ftirtouch/ "Amazing new Graphical Interface")
 showing multiple users on a single touch and pressure sensitive

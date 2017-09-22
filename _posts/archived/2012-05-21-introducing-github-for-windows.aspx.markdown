@@ -29,7 +29,7 @@ Blog](https://github.com/blog/1127-github-for-windows "GitHub For Windows Blog P
 **GitHub for Windows is the easiest and best way to get Git on your
 Windows box.**
 
-[![gh4w-app](http://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing-GitHub-For-Windows_1293C/gh4w-app_thumb.png "gh4w-app")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing-GitHub-For-Windows_1293C/gh4w-app_2.png)
+[![gh4w-app](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing-GitHub-For-Windows_1293C/gh4w-app_thumb.png "gh4w-app")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing-GitHub-For-Windows_1293C/gh4w-app_2.png)
 
 If you’re not familiar with Git, it’s a distributed version control
 system created by Linus Torvalds and his merry Linux hacking crew. If
@@ -89,7 +89,7 @@ The Git Shell shortcut launches the shell of your choice as configured
 within the GH4W application’s options menu. You can also launch the
 shell from within the application for any given repository.
 
-[![gh4w-default-shells](http://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing-GitHub-For-Windows_1293C/gh4w-default-shells_thumb.png "gh4w-default-shells")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing-GitHub-For-Windows_1293C/gh4w-default-shells_2.png)
+[![gh4w-default-shells](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing-GitHub-For-Windows_1293C/gh4w-default-shells_thumb.png "gh4w-default-shells")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing-GitHub-For-Windows_1293C/gh4w-default-shells_2.png)
 
 By default, this is PowerShell but you can change it to Bash, Cmd, or
 even a custom option, which I’ll cover in a second.
@@ -100,7 +100,7 @@ Posh-Git and PowerShell
 When you launch the shell, you’ll notice that the PowerShell option
 includes [Posh-Git](https://github.com/dahlbyk/posh-git "Posh-Git") by
 Keith Dahlby. I’ve [written about Posh-Git
-before](http://haacked.com/archive/2011/12/13/better-git-with-powershell.aspx "Posh-Git")
+before](https://haacked.com/archive/2011/12/13/better-git-with-powershell.aspx "Posh-Git")
 and we love it so much we included it in the box. This is an even easier
 way to get Posh-Git on your machine and stay up to date with the latest
 version.

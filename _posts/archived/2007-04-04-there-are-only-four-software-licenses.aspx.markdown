@@ -57,7 +57,7 @@ where you got the code from, but it is not required.
 you choose to license your code using an Open Source License or license
 your content using a Creative Commons license, it does not mean you give
 up your copyright to the material.** [You still own the
-copyright](http://haacked.com/archive/2006/01/26/WhoOwnstheCopyrightforAnOpenSourceProject.aspx "Who Owns The Copyright").
+copyright](https://haacked.com/archive/2006/01/26/WhoOwnstheCopyrightforAnOpenSourceProject.aspx "Who Owns The Copyright").
 The license just lets people know that they may make use of your content
 and what restrictions are in place. That is where the *Some Rights
 Reserved* phrase commonly associated with Creative Commons content comes
@@ -73,10 +73,10 @@ multi-part series on copyright law and software licensing for
 developers:
 
 -   [Developer’s Guide to Copyright
-    Law](http://haacked.com/archive/2006/01/24/TheDevelopersGuideToCopyrightLaw-Part1.aspx "Developer’s Guide to Copyright Law")
+    Law](https://haacked.com/archive/2006/01/24/TheDevelopersGuideToCopyrightLaw-Part1.aspx "Developer’s Guide to Copyright Law")
 -   [Developer’s Guide to Open Source Software
-    Licensing](http://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Developer’s Guide to Software Licensing")
+    Licensing](https://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Developer’s Guide to Software Licensing")
 -   [Who Owns the Copyright for an Open Source
-    Project?](http://haacked.com/archive/2006/01/26/WhoOwnstheCopyrightforAnOpenSourceProject.aspx "Who Owns The Copyright")
+    Project?](https://haacked.com/archive/2006/01/26/WhoOwnstheCopyrightforAnOpenSourceProject.aspx "Who Owns The Copyright")
 
 

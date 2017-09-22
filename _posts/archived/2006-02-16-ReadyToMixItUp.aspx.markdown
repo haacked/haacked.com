@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/02/15/ReadyToMixItUp.aspx/"
 ---
 
-![Mix 06](http://haacked.com/images/MixLogo.jpg) Well I am ready to mix
+![Mix 06](https://haacked.com/images/MixLogo.jpg) Well I am ready to mix
 it up at the [Mix 06 conference](http://mix06.com/ "Mix 06 Conference").
 This will be my first conference of the year and my coworker [Jon
 Galloway](http://weblogs.asp.net/jgalloway/ "Jon Galloway's Blog") will

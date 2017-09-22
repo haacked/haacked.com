@@ -9,10 +9,10 @@ redirect_from: "/archive/2006/08/29/Subtext_1.9_quotDaedelusquot_Released.aspx/"
 ---
 
 ![Subtext
-Logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext1.9DaedelusReleased_10CAF/SubtextLogo5.png)
+Logo](https://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext1.9DaedelusReleased_10CAF/SubtextLogo5.png)
 Well my friends, it took a bit longer than expected to get Subtext 1.9
 out the door, but we did it.  When we [released Subtext
-1.5](http://haacked.com/archive/2006/06/07/Subtext1.5NautilusRAndREditionReleased.aspx "Subtext 1.5 announcement") back
+1.5](https://haacked.com/archive/2006/06/07/Subtext1.5NautilusRAndREditionReleased.aspx "Subtext 1.5 announcement") back
 in June I said,
 
 > The next version of Subtext is code named **Daedelus**. It will simply
@@ -31,7 +31,7 @@ offers.  A lot of the changes are under the hood, but there are still a
 few surface level treats for everybody.
 
 Before you upgrade to 1.9, please check out my [notes on
-upgrading](http://haacked.com/archive/2006/08/31/Important_Note_On_Upgrading_to_Subtext_1.9.aspx "important note on upgrading Subtext").
+upgrading](https://haacked.com/archive/2006/08/31/Important_Note_On_Upgrading_to_Subtext_1.9.aspx "important note on upgrading Subtext").
 
 So what is new in Subtext 1.9 besides that it is now an ASP.NET 2.0
 application?
@@ -49,18 +49,18 @@ geeks and we want to pop open the hood and take a look around.
     a nail.  We tried to avoid that temptation and make judicious use of
     Generics.  I think we did a bang up job.  Most of our collection
     classes are now generic collections and there’s
-    that [`CollectionBook`](http://haacked.com/archive/2006/08/14/FunIteratingPagedCollectionsWithGenericsAndIterators.aspx "Fun iterating PagedCollections")
+    that [`CollectionBook`](https://haacked.com/archive/2006/08/14/FunIteratingPagedCollectionsWithGenericsAndIterators.aspx "Fun iterating PagedCollections")
     class I wrote about recently.
 3.  Improved our Continuous Integration and build process using
     CruiseControl.NET.  We now have a [nice
     dashboard](http://haacked.dyndns.org/ccnet/ "CCNET Dashboard") that
     provides a lot of visibility into our development progress.
 4.  Improved our unit test [code
-    coverage](http://haacked.com/archive/2004/11/03/CodeCoverageIsNotEnough.aspx "Code Coverage is not enough")
+    coverage](https://haacked.com/archive/2004/11/03/CodeCoverageIsNotEnough.aspx "Code Coverage is not enough")
     to 36.4% and counting. (When I started it was pretty much 0)
 5.  Subtext now runs under Medium Trust without problems except for the
     [Trackback/Pingback
-    issue](http://haacked.com/archive/2006/07/10/MoreOnMediumTrustAndTrackbacks.aspx "Trackbacks in Medium Trust").
+    issue](https://haacked.com/archive/2006/07/10/MoreOnMediumTrustAndTrackbacks.aspx "Trackbacks in Medium Trust").
 6.  Converted the Subtext.Web project into a [Web Application
     Project](http://msdn.microsoft.com/asp.net/reference/infrastructure/wap/default.aspx "Web Application Project").
 7.  Added a *\_System* folder to the Skins directory. This contains some
@@ -79,7 +79,7 @@ Some new features we added.
 
 1.  Sometimes removing code is as much a feature as adding code.  As I
     [announced
-    earlier](http://haacked.com/archive/2006/08/26/Developing_Custom_Skins.aspx "Developing Custom Skins"),
+    earlier](https://haacked.com/archive/2006/08/26/Developing_Custom_Skins.aspx "Developing Custom Skins"),
     we removed some old skins and added some snazzy new ones.  We also
     implemented a way for custom skin definitions to not get overwritten
     when upgrading code.
@@ -137,7 +137,7 @@ blog and a new skinning framework. I will update the
 soon to reflect our current plans for 2.0.
 
 Also, with the [recent
-deluge](http://haacked.com/archive/2006/08/29/Comment_Spam_Heuristics.aspx "Comment Spam Heuristics")
+deluge](https://haacked.com/archive/2006/08/29/Comment_Spam_Heuristics.aspx "Comment Spam Heuristics")
 in comment spam, I am considering having an interim release (1.9.1) that
 would include [Akismet](http://akismet.com/ "Akismet") as well as
 semi-moderation (1.9 does include full moderation now). Ideally we would

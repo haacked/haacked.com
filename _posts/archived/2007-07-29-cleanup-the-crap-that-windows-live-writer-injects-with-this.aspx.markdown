@@ -39,11 +39,11 @@ The purpose of the special class and the *contenteditable* attribute is
 to inform WLW that the html tag is editable. In the *Web Layout* view
 (F11), you can see a hashed box around the tags like so.
 
-![image](http://haacked.com/images/haacked_com/WindowsLiveWriter/CleanupAfterWindowsLiveWriterWithThisHtt_1348B/image_2.png)
+![image](https://haacked.com/images/haacked_com/WindowsLiveWriter/CleanupAfterWindowsLiveWriterWithThisHtt_1348B/image_2.png)
 
 Clicking on the box changes the right menu to let you enter tags.
 
-![image](http://haacked.com/images/haacked_com/WindowsLiveWriter/CleanupAfterWindowsLiveWriterWithThisHtt_1348B/image1.png)
+![image](https://haacked.com/images/haacked_com/WindowsLiveWriter/CleanupAfterWindowsLiveWriterWithThisHtt_1348B/image1.png)
 
 Because I actually care about web standards and being XHTML compliant
 and I’m totally anal, I’ve always gone in and manually changed the HTML
@@ -118,9 +118,9 @@ If you have any "cleanups" I should include, please let me know. If
 you’re reading this post, then you know the module worked.
 
 [[Download
-Binaries](http://haacked.com/code/Haacked-Html-Scrubber.zip "Download Binaries")]
+Binaries](https://haacked.com/code/Haacked-Html-Scrubber.zip "Download Binaries")]
 [[Download
-Source](http://haacked.com/code/Haacked-HtmlScrubber-SOURCE.zip "Html Scrubber Source Code")]
+Source](https://haacked.com/code/Haacked-HtmlScrubber-SOURCE.zip "Html Scrubber Source Code")]
 
 I thought about adding this to CodePlex, but I’m hoping that the next
 version of Windows Live Writer makes this module irrelevant. I’m not

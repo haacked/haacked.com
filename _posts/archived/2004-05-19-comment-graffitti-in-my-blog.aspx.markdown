@@ -23,7 +23,7 @@ named "d". "d":
 See, one letter vocabulary.
 
 In [another
-post](http://haacked.europe.webmatrixhosting.net/archive/2004/04/28/380.aspx#453)
+post](https://haacked.com/archive/2004/04/28/380.aspx#453)
 about how my wife spent time clicking on my AdSense ads, "slut"
 commented "lmao u idiots its tracked by ips NOT cookies". Thanks Slut!
 That was soooo kewl of you to reply. However, I imagine that Google uses
@@ -31,7 +31,7 @@ some combination of both since each request coming from America Online
 might come from a different IP.
 
 [This
-post](http://haacked.europe.webmatrixhosting.net/archive/2004/03/11/244.aspx)
+post](https://haacked.com/archive/2004/03/11/244.aspx)
 which is just a link to Rory's guide to Hollywood Aliens received this
 comment "this is gay about aliens because i know what we are like
 ???????????????".

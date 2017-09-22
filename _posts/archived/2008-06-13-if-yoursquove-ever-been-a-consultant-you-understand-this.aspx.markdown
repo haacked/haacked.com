@@ -22,7 +22,7 @@ Click the image to see the full size strip at
 [Dilbert.com](http://www.dilbert.com/ "Dilbert Strip").
 
 [![Interest Free
-Loan](http://haacked.com/images/haacked_com/WindowsLiveWriter/IfYouveEverBeenAConsultantYouUnderstandT_853A/dilbert-consultant_3.gif "Interest Free Loan")](http://www.dilbert.com/2008-06-13/ "Life of a small consultant")
+Loan](https://haacked.com/images/haacked_com/WindowsLiveWriter/IfYouveEverBeenAConsultantYouUnderstandT_853A/dilbert-consultant_3.gif "Interest Free Loan")](http://www.dilbert.com/2008-06-13/ "Life of a small consultant")
 
 Technorati Tags:
 [dilbert](http://technorati.com/tags/dilbert),[funny](http://technorati.com/tags/funny),[humor](http://technorati.com/tags/humor),[consulting](http://technorati.com/tags/consulting)

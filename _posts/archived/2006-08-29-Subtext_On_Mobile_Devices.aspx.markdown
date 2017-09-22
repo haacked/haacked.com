@@ -43,7 +43,7 @@ like so (note this feature is available in Subtext 1.5).
 ```
 
 Refer to my recent [overview of Subtext
-skinning](http://haacked.com/archive/2006/08/26/Mile_High_Overview_Of_Subtext_Skinning.aspx) to
+skinning](https://haacked.com/archive/2006/08/26/Mile_High_Overview_Of_Subtext_Skinning.aspx) to
 see the media attribute in play for printable views, which *does* seem
 to work for IE and Firefox.
 

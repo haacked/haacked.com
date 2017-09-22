@@ -32,7 +32,7 @@ assumptions are documented via asserts.
 Such devious code is often the most innocuous looking code. Let me give
 one example I ran into the other day. I was fortunate to defuse this
 mine [while
-testing](http://haacked.com/archive/2013/03/04/test-better.aspx "Test Better").
+testing](https://haacked.com/archive/2013/03/04/test-better.aspx "Test Better").
 
 This example makes use of the `Enumerable.ToDictionary` method that
 turns a sequence into a dictionary. You supply an expression to produce
@@ -108,7 +108,7 @@ items.GroupBy(item => item.Id)
 In this case, we end up with a dictionary of arrays.
 
 ***UPDATE:** Or, as Matt Ellis points out [in the
-comments](http://haacked.com/archive/2013/06/17/hidden-code-mines.aspx#comment-933184518 "Comment on ToLookup"),
+comments](https://haacked.com/archive/2013/06/17/hidden-code-mines.aspx#comment-933184518 "Comment on ToLookup"),
 you could use
 the*[*Enumerable.ToLookup*](http://msdn.microsoft.com/en-us/library/bb460184.aspx "Enumerable.ToLookup on MSDN")*method.
 I should have known such a thing would exist. It’s exactly what I need

@@ -18,7 +18,7 @@ ability to export code to the clipboard (and to a file) as HTML.
 Snippet Compiler has a lot of nice features and is a welcome addition to
 my toolbox, but purely for syntax highlighting, it has a few
 disadvantages compared to the manoli.net website I [mentioned
-previously](http://haacked.com/archive/2004/06/16/636.aspx). First of
+previously](https://haacked.com/archive/2004/06/16/636.aspx). First of
 all, although you can view snippets with line numbers, the line numbers
 aren't exported to HTML like Manoli does. Secondly, Manoli handles
 XML/HTML along with C\# and VB, while SnippetCompiler seems to do well

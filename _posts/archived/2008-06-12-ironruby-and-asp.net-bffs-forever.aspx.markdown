@@ -11,13 +11,13 @@ redirect_from: "/archive/2008/06/11/ironruby-and-asp.net-bffs-forever.aspx/"
 ---
 
 UPDATE: I just posted the [working demo
-here](http://haacked.com/archive/2008/07/20/ironruby-aspnetmvc-prototype.aspx "IronRuby ASP.NET MVC Prototype").
+here](https://haacked.com/archive/2008/07/20/ironruby-aspnetmvc-prototype.aspx "IronRuby ASP.NET MVC Prototype").
 
 I wish I could have been there, but I was celebrating my son’s first
 birthday (which gives me an opening to gratuitously post a picture of
 the kid here).
 
-[![cody-birthday](http://haacked.com/images/haacked_com/WindowsLiveWriter/IronRubyandASP.NETBFFsForever_836B/cody-birthday_thumb.jpg "cody-birthday")](http://haacked.com/images/haacked_com/WindowsLiveWriter/IronRubyandASP.NETBFFsForever_836B/cody-birthday_2.jpg "Cody's birthday")
+[![cody-birthday](https://haacked.com/images/haacked_com/WindowsLiveWriter/IronRubyandASP.NETBFFsForever_836B/cody-birthday_thumb.jpg "cody-birthday")](https://haacked.com/images/haacked_com/WindowsLiveWriter/IronRubyandASP.NETBFFsForever_836B/cody-birthday_2.jpg "Cody's birthday")
 
 I’m talking about Tech-Ed 2008 Orlando of course where [John
 Lam](http://www.iunknown.com/ "John Lam's IUnknown blog") presented a
@@ -26,7 +26,7 @@ MVC](http://www.iunknown.com/2008/06/ironruby-and-aspnet-mvc.html "IronRuby and 
 
 This demo builds on prototype work I’ve done with [defining ASP.NET MVC
 routes and views using
-IronRuby](http://haacked.com/archive/2008/04/22/defining-asp.net-mvc-routes-and-views-in-ironruby.aspx "Defining MVC Routes").
+IronRuby](https://haacked.com/archive/2008/04/22/defining-asp.net-mvc-routes-and-views-in-ironruby.aspx "Defining MVC Routes").
 
 The final missing piece was defining controllers using IronRuby. Working
 with members of John’s team, Levi (a dev on the ASP.NET MVC team) made

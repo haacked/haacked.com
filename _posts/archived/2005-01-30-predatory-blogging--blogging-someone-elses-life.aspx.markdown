@@ -9,7 +9,7 @@ redirect_from: "/archive/2005/01/29/predatory-blogging--blogging-someone-elses-l
 ---
 
 Received this comment on my "[Blogging Is Pure
-Vanity](http://haacked.com/archive/2004/10/08/1322.aspx)" Post.
+Vanity](https://haacked.com/archive/2004/10/08/1322.aspx)" Post.
 
 > I've always thought blogging was the product of excessive
 > self-indulgence. When one of my particularly vain coworkers started a

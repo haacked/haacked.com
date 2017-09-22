@@ -15,7 +15,7 @@ not something you do so often that you ever get good at it. I’m
 certainly sucking up a storm here.
 
 Just last month I hit my [four year mark at
-Microsoft](http://haacked.com/archive/2011/10/15/four-years-at-microsoft.aspx "Four Years at Microsoft").
+Microsoft](https://haacked.com/archive/2011/10/15/four-years-at-microsoft.aspx "Four Years at Microsoft").
 I reflected on the sheer joy I experienced working with such smart
 people on cool projects. I’ve been very lucky and fortunate to be able
 to speak about these projects at many conferences, meeting so many
@@ -52,7 +52,7 @@ interesting on December 7. Well, most of you at least.
 
 Rather, I like to think that I will focus more on being a member of a
 larger software community, as [I wrote about
-recently](http://haacked.com/archive/2011/11/25/musings-on-software-community.aspx "Musings On Software Community").
+recently](https://haacked.com/archive/2011/11/25/musings-on-software-community.aspx "Musings On Software Community").
 It’s one thing to write about it, but I hope to better live it in the
 future.
 

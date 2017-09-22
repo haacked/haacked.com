@@ -9,7 +9,7 @@ redirect_from: "/archive/2007/07/29/at-the-microsoft-campus-next-week-and-other-
 ---
 
 [![Image from This is Broken:
-http://www.goodexperience.com/tib/archives/2004/03/microsoft\_campu.html](http://haacked.com/images/haacked_com/WindowsLiveWriter/AtTheMicrosoftCampusNextWeekAndOtherTrav_141F7/microsoft_campus-s_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/AtTheMicrosoftCampusNextWeekAndOtherTrav_141F7/microsoft_campus-s.jpg "Image from This is Broken: http://www.goodexperience.com/tib/archives/2004/03/microsoft_campu.html")
+http://www.goodexperience.com/tib/archives/2004/03/microsoft\_campu.html](https://haacked.com/images/haacked_com/WindowsLiveWriter/AtTheMicrosoftCampusNextWeekAndOtherTrav_141F7/microsoft_campus-s_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/AtTheMicrosoftCampusNextWeekAndOtherTrav_141F7/microsoft_campus-s.jpg "Image from This is Broken: http://www.goodexperience.com/tib/archives/2004/03/microsoft_campu.html")
 Working at a [VSIP partner](http://koders.com/ "Koders.com") has its
 privileges. I’ll be up in Redmond at the Microsoft Campus for a two day
 VSIP Partner Meeting on **August 5^th^ and August 6^th^**. We’ll be
@@ -40,7 +40,7 @@ decided to take it easy for my first time.
 
 I’ll be in attendance and on two panels at the DotNetNuke OpenForce
 conference. I’ve mentioned [this one
-already](http://haacked.com/archive/2007/05/22/ill-be-speaking-about-open-source-at-openforce.aspx "Open Force") in
+already](https://haacked.com/archive/2007/05/22/ill-be-speaking-about-open-source-at-openforce.aspx "Open Force") in
 my blog. I’m pretty excited about this one.
 
 Technorati tags: [Open

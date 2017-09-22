@@ -16,7 +16,7 @@ Then I noticed that the return type of the method was `async void`. On a hunch I
 
 If you write unit tests using XUnit.NET and accidentally mark them as `async void` instead of `async Task`, the tests are effectively ignored. I furiously looked for other cases where we did this and fixed them.
 
-Pretty much the only valid reason to use `async void` methods is in the case where you need an asynchronous event handler. But if you use Reactive Extensions, there's an even better approach that I've [written about before, `Observable.FromEventPattern`](http://haacked.com/archive/2012/04/09/reactive-extensions-sample.aspx/).
+Pretty much the only valid reason to use `async void` methods is in the case where you need an asynchronous event handler. But if you use Reactive Extensions, there's an even better approach that I've [written about before, `Observable.FromEventPattern`](https://haacked.com/archive/2012/04/09/reactive-extensions-sample.aspx/).
 
 Because there are valid reasons for `async void` methods, Code analysis won't flag them. For example, Code Analysis doesn't flag the following method.
 
@@ -41,7 +41,7 @@ If you look at all the overloads of `Subscribe` you'll see that we're calling on
 
 Clearly I should tighten up code reviews to keep an eye out for this problem, right? Hell nah! Let a computer do this crap for you. I wrote some code I'll share here to look out for this problem.
 
-These tests make use of this method [I wrote a while back to grab all loadable types](http://haacked.com/archive/2012/07/23/get-all-types-in-an-assembly.aspx/) from an assembly.
+These tests make use of this method [I wrote a while back to grab all loadable types](https://haacked.com/archive/2012/07/23/get-all-types-in-an-assembly.aspx/) from an assembly.
 
 
 ```csharp

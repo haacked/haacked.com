@@ -27,7 +27,7 @@ Beta. It helps that with five or so of these interim releases, we’ve
 become pretty efficient producing these releases.
 
 We plan to have our next release be our official
-[Beta](http://haacked.com/archive/2008/08/15/understanding-beta.aspx "understanding beta"),
+[Beta](https://haacked.com/archive/2008/08/15/understanding-beta.aspx "understanding beta"),
 which means we’ll have a lot more test passes to produce and run before
 we release the next one.
 
@@ -46,7 +46,7 @@ of your own.
 If you’re interested in more details about how our action method
 selection works, be sure to read my post entitled [How a Method Becomes
 an
-Action](http://haacked.com/archive/2008/08/29/how-a-method-becomes-an-action.aspx "How a Method Becomes An Action").
+Action](https://haacked.com/archive/2008/08/29/how-a-method-becomes-an-action.aspx "How a Method Becomes An Action").
 Be sure to keep an eye on [Brad Wilson’s
 blog](http://bradwilson.typepad.com/ "Brad Wilson") too, as he put in
 some work on this feature and will describe the view engine changes.

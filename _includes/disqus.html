@@ -10,17 +10,17 @@
         var disqus_script = 'embed.js';
       {% endif %}
     (function () {
-    {% if page.comments == true %}      
+    {% if page.comments == true %}
       var embedScript = document.createElement('script');
       embedScript.type = 'text/javascript';
       embedScript.async = true;
-      embedScript.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+      embedScript.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(embedScript);
     {% endif %}
       var countScript = document.createElement('script');
       countScript.type = 'text/javascript';
       countScript.async = true;
-      countScript.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+      countScript.src = 'https://' + disqus_shortname + '.disqus.com/count.js';
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(countScript);
     }());
 </script>

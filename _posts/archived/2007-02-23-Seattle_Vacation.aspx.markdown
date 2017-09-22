@@ -15,7 +15,7 @@ weather. We took a nice boat ride on Lake Washington and skipped by
 BillG᾿s immense house.
 
 [![Bill Gate᾿s
-House](http://haacked.com/images/haacked_com/WindowsLiveWriter/SeattleVacation_BC9/400478101_8076d19f06_thumb%5B2%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/SeattleVacation_BC9/400478101_8076d19f06%5B4%5D.jpg)
+House](https://haacked.com/images/haacked_com/WindowsLiveWriter/SeattleVacation_BC9/400478101_8076d19f06_thumb%5B2%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SeattleVacation_BC9/400478101_8076d19f06%5B4%5D.jpg)
 
 The pic does not do it justice. There are a [few more
 here](http://www.flickr.com/photos/haacked/tags/billgateshouse/ "Bill Gate᾿s House").
@@ -29,7 +29,7 @@ thought it was quite interesting. One of my favorite sculptures was this
 chrome tree, seen here behind a real tree.
 
 [![Chrome
-Tree](http://haacked.com/images/haacked_com/WindowsLiveWriter/SeattleVacation_BC9/400485021_7bf9063f3e_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/SeattleVacation_BC9/400485021_7bf9063f3e%5B2%5D.jpg)
+Tree](https://haacked.com/images/haacked_com/WindowsLiveWriter/SeattleVacation_BC9/400485021_7bf9063f3e_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SeattleVacation_BC9/400485021_7bf9063f3e%5B2%5D.jpg)
 
 I also had the opportunity to visit some friends at Microsoft.
 Apparently Microsoft is experiencing explosive growth. My friend Julie
@@ -39,5 +39,5 @@ freeway exit away off campus.
 Our friends worked hard to convince us that we should move to Seattle.
 But I think it may take more convincing, as we᾿ve both contracted a cold
 and blame the damn Seattle weather.
-![Wink](http://haacked.com/Images/emotions/smiley-wink.gif)
+![Wink](https://haacked.com/Images/emotions/smiley-wink.gif)
 

@@ -9,10 +9,10 @@ redirect_from: "/archive/2006/11/15/Tradeoffs_When_Minimizing_The_Impact_Of_Chan
 ---
 
 [![Silver Bullet: From
-http://www.tejasthumpcycles.com/Parts/LeversGripsctrls/Silver\_Bullet/Silver\_Bullet\_Shift\_Brake.jpg](http://haacked.com/images/haacked_com/WindowsLiveWriter/TradeoffsWhenMinimizingTheImpactOfChange_1D54/Silver_Bullet_thumb%5B1%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/TradeoffsWhenMinimizingTheImpactOfChange_1D54/Silver_Bullet%5B3%5D.jpg)
+http://www.tejasthumpcycles.com/Parts/LeversGripsctrls/Silver\_Bullet/Silver\_Bullet\_Shift\_Brake.jpg](https://haacked.com/images/haacked_com/WindowsLiveWriter/TradeoffsWhenMinimizingTheImpactOfChange_1D54/Silver_Bullet_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/TradeoffsWhenMinimizingTheImpactOfChange_1D54/Silver_Bullet%5B3%5D.jpg)
 In a recent post I talked about how [good design attempts to minimize
 the impact of
-changes](http://haacked.com/archive/2006/11/13/Good_Design_Minimizes_The_Impact_Of_Changes.aspx "Good Design Minimizes Changes")
+changes](https://haacked.com/archive/2006/11/13/Good_Design_Minimizes_The_Impact_Of_Changes.aspx "Good Design Minimizes Changes")
 to a system, often through Design Patterns.
 
 When used appropriately, Design Patterns are a great tool for building a
@@ -63,7 +63,7 @@ Everytime we add a new column to a table to support a feature, the
 impact of that change is multiplied by the number of providers we
 support. I discussed this in the past in my post entitled [Where the
 Provider Model Falls
-Short](http://haacked.com/archive/2005/11/01/WhereTheProviderModelFallsShort.aspx).
+Short](https://haacked.com/archive/2005/11/01/WhereTheProviderModelFallsShort.aspx).
 
 Every **Design Pattern comes with inherent tradeoffs that we must be
 aware of**. There is no silver bullet.

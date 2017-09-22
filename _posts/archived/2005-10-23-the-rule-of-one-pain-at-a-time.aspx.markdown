@@ -9,7 +9,7 @@ redirect_from: "/archive/2005/10/22/the-rule-of-one-pain-at-a-time.aspx/"
 ---
 
 I’ve [talked before
-about](http://haacked.com/archive/2004/06/10/590.aspx) the various
+about](https://haacked.com/archive/2004/06/10/590.aspx) the various
 physical pains that software developers face on the job. For me, it
 seems that my pain likes to migrate around my body. If I have pain, it
 almost always seems to be one at a time.

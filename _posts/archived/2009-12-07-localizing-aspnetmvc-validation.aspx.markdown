@@ -16,20 +16,20 @@ This is the fourth post in my series on ASP.NET MVC 2 and its new
 features.
 
 1.  [ASP.NET MVC 2 Beta
-    Released](http://haacked.com/archive/2009/11/17/asp.net-mvc-2-beta-released.aspx "Release Announcement")
+    Released](https://haacked.com/archive/2009/11/17/asp.net-mvc-2-beta-released.aspx "Release Announcement")
     (Release Announcement)
 2.  [Html.RenderAction and
-    Html.Action](http://haacked.com/archive/2009/11/18/aspnetmvc2-render-action.aspx "Html.RenderAction and Html.Action")
+    Html.Action](https://haacked.com/archive/2009/11/18/aspnetmvc2-render-action.aspx "Html.RenderAction and Html.Action")
 3.  [ASP.NET MVC 2 Custom
-    Validation](http://haacked.com/archive/2009/11/19/aspnetmvc2-custom-validation.aspx "ASP.NET MVC 2 Custom Validation")
+    Validation](https://haacked.com/archive/2009/11/19/aspnetmvc2-custom-validation.aspx "ASP.NET MVC 2 Custom Validation")
 4.  **Localizing ASP.NET MVC Validation**
 
 In my recent post on [custom validation with ASP.NET MVC
-2](http://haacked.com/archive/2009/11/19/aspnetmvc2-custom-validation.aspx "Custom Validation with ASP.NET MVC 2"),
+2](https://haacked.com/archive/2009/11/19/aspnetmvc2-custom-validation.aspx "Custom Validation with ASP.NET MVC 2"),
 several people asked about how to localize validation messages. They
 didn’t want their error messages hard-coded as an attribute value.
 
-[![world-in-hands](http://haacked.com/images/haacked_com/WindowsLiveWriter/LocalizingASP.NETMVCValidation_C004/world-in-hands_3.jpg "world-in-hands")](http://www.sxc.hu/browse.phtml?f=view&id=1035531 "Holding Earth 1 by flaivoloka on stock.xchng")It
+[![world-in-hands](https://haacked.com/images/haacked_com/WindowsLiveWriter/LocalizingASP.NETMVCValidation_C004/world-in-hands_3.jpg "world-in-hands")](http://www.sxc.hu/browse.phtml?f=view&id=1035531 "Holding Earth 1 by flaivoloka on stock.xchng")It
 turns out that it’s pretty easy to do this. Localizing error messages is
 not specific to ASP.NET MVC, but is a feature of Data Annotations and
 ASP.NET. And everything I cover here works for ASP.NET MVC 1.0 (except
@@ -115,7 +115,7 @@ Explorer](/images/haacked_com/WindowsLiveWriter/LocalizingASP.NETMVCValidation_1
 Note that these localized error messages continue to work even if you
 enable client validation. However, if you were to try it with the
 original code I posted in my [last validation
-example](http://haacked.com/archive/2009/11/19/aspnetmvc2-custom-validation.aspx "ASP.NET MVC 2 Custom Validation"),
+example](https://haacked.com/archive/2009/11/19/aspnetmvc2-custom-validation.aspx "ASP.NET MVC 2 Custom Validation"),
 the error message would not work for the custom price validation
 attribute.
 
@@ -125,10 +125,10 @@ post with a note describing the fix. Just scroll down to the
 
 As always, I have a code sample you can look at. It’s the same example
 as before, just updated. **[Download the
-sample](http://haacked.com/code/CustomValidationAttributeDemo.zip "Validation Sample App")!**
+sample](https://haacked.com/code/CustomValidationAttributeDemo.zip "Validation Sample App")!**
 
-Tags: [aspnetmvc](http://haacked.com/tags/aspnetmvc/default.aspx),
-[asp.net](http://haacked.com/tags/asp.net/default.aspx),
-[validation](http://haacked.com/tags/validation/default.aspx),
-[localization](http://haacked.com/tags/localization/default.aspx), [data
-annotations](http://haacked.com/tags/data+annotations/default.aspx)
+Tags: [aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
+[asp.net](https://haacked.com/tags/asp.net/default.aspx),
+[validation](https://haacked.com/tags/validation/default.aspx),
+[localization](https://haacked.com/tags/localization/default.aspx), [data
+annotations](https://haacked.com/tags/data+annotations/default.aspx)

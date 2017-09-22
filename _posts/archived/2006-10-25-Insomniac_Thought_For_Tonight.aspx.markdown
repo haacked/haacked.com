@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/10/24/Insomniac_Thought_For_Tonight.aspx/"
 ---
 
-[![Chameleon](http://haacked.com/images/haacked_com/WindowsLiveWriter/InsomniacThoughtForTonight_FBE/Chameleon_thumb%5B1%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/InsomniacThoughtForTonight_FBE/Chameleon%5B3%5D.jpg)
+[![Chameleon](https://haacked.com/images/haacked_com/WindowsLiveWriter/InsomniacThoughtForTonight_FBE/Chameleon_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/InsomniacThoughtForTonight_FBE/Chameleon%5B3%5D.jpg)
 Having trouble sleeping lately. Thought I'd start an intermittent blog
 series about the questions that keep me up at night.
 

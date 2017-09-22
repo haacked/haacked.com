@@ -14,7 +14,7 @@ and dump that toxic waste into the river and pollute the heck out of the
 air with your smoke stacks. These options are much cheaper than
 installing smoke scrubbers or trucking waste to proper disposal sites.
 
-![pollutions](http://haacked.com/images/haacked_com/WindowsLiveWriter/SoftwareExternalities_80FB/pollutions_3.jpg "pollutions")
+![pollutions](https://haacked.com/images/haacked_com/WindowsLiveWriter/SoftwareExternalities_80FB/pollutions_3.jpg "pollutions")
 
 Of course, economists have long known that this does not paint the
 entire picture. Taking these shortcuts incur other costs, it’s just that
@@ -128,7 +128,7 @@ Engineering](http://www.amazon.com/gp/product/0321117425?ie=UTF8&tag=youvebeenha
 research shows that **maintenance typically consumes from 40 to 80
 percent of software costs**, typically making it [the dominant life
 cycle phase of a software
-project](http://haacked.com/archive/2007/01/09/writing_maintainable_code.aspx "Writing Maintainable Code").
+project](https://haacked.com/archive/2007/01/09/writing_maintainable_code.aspx "Writing Maintainable Code").
 Thus these so called “simple” solutions need to factor that in, or the
 customers will continually be left with the clean-up duty while the
 polluters have long since moved on.

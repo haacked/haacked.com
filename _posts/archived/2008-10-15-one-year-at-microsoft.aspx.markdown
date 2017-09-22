@@ -9,7 +9,7 @@ categories:
 redirect_from: "/archive/2008/10/14/one-year-at-microsoft.aspx/"
 ---
 
-[![bowl-mm](http://haacked.com/images/haacked_com/WindowsLiveWriter/OneYearAtMicrosoft_6728/bowl-mm_3.jpg "bowl-mm")](http://www.flickr.com/photos/jono_rotten/80751090/ "M&M by Jono Rotten - CC by attribution")
+[![bowl-mm](https://haacked.com/images/haacked_com/WindowsLiveWriter/OneYearAtMicrosoft_6728/bowl-mm_3.jpg "bowl-mm")](http://www.flickr.com/photos/jono_rotten/80751090/ "M&M by Jono Rotten - CC by attribution")
 Today marks my one year anniversary at Microsoft. Tradition dictates
 that I bring in a pound of M&Ms for each year that I’ve been an
 employee. I’m going to buck that trend (because I like bucking things)
@@ -20,9 +20,9 @@ place to apply the [DRY
 principle](http://en.wikipedia.org/wiki/DRY_code "Don't Repeat Yourself").
 
 Looking back at when I [first was
-hired](http://haacked.com/archive/2007/09/17/why-is-microsoft-removing-my-mvp-status.aspx "Losing my MVP status")
+hired](https://haacked.com/archive/2007/09/17/why-is-microsoft-removing-my-mvp-status.aspx "Losing my MVP status")
 and later at my first days when I [drank from the
-firehose](http://haacked.com/archive/2007/10/26/drinking-from-the-firehose.aspx "Drinking from the firehose"),
+firehose](https://haacked.com/archive/2007/10/26/drinking-from-the-firehose.aspx "Drinking from the firehose"),
 working here feels a lot different now than it did then. I finally feel
 a lot more settled at Microsoft, though there are still many days when I
 feel like a new hire, or even as a bit of an outsider.
@@ -61,7 +61,7 @@ Amidst all this, I even found some time to get Subtext 2.0 out the door.
 Open source software remains a passion for me and I’m very excited about
 all the progressive changes that have happened here in the past year
 from [us including
-JQuery](http://haacked.com/archive/2008/09/30/jquery-and-asp.net-mvc.aspx "JQuery and ASP.NET MVC")
+JQuery](https://haacked.com/archive/2008/09/30/jquery-and-asp.net-mvc.aspx "JQuery and ASP.NET MVC")
 in our offering to the opening up of licensing in various products [such
 as
 MEF](http://blogs.msdn.com/gblock/archive/2008/10/02/mef-going-ms-pl-the-little-engine-that-could.aspx "MEF MS-PL").
@@ -84,7 +84,7 @@ project management side of things. Understandable, I’m doing great at
 the fun stuff, but not so good at the part that I don’t find so fun. :)
 
 In any case, [as I did
-before](http://haacked.com/archive/2007/12/13/thank-you-for-helping-me-with-my-job-with-asp.net.aspx "Thank you"),
+before](https://haacked.com/archive/2007/12/13/thank-you-for-helping-me-with-my-job-with-asp.net.aspx "Thank you"),
 I want to thank many of you for helping me with my job. There have been
 many large design improvements to ASP.NET MVC that quite possibly
 wouldn’t have happened were it not for your constant feedback. It really

@@ -18,7 +18,7 @@ passionate and persistent, change does happen.
 Three years ago, the ASP.NET MVC source code was released under an open
 source license. But at the time, the team could not accept any code
 contributions. In [my blog
-post](http://haacked.com/archive/2009/04/01/aspnetmvc-open-source.aspx "ASP.NET MVC released as OSS")
+post](https://haacked.com/archive/2009/04/01/aspnetmvc-open-source.aspx "ASP.NET MVC released as OSS")
 talking about that release, I said the following (emphasis added):
 
 > Personally (and this is totally my own opinion), I’d like to reach the

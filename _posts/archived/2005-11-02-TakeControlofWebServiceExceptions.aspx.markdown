@@ -21,7 +21,7 @@ rather than modify my code.
 
 What I came up with is my [Exception Injection Technique Using a Custom
 Soap
-Extension](http://haacked.com/archive/2005/06/29/ExceptionInjectionUsingCustomSoapExtension.aspx).
+Extension](https://haacked.com/archive/2005/06/29/ExceptionInjectionUsingCustomSoapExtension.aspx).
 This allows you to simply add an additional attribute to each web method
 as in the sample below and have full control over how exceptions are
 handled and sent over the wire.
@@ -38,6 +38,6 @@ public string ThrowNormalException()
 }
 
 [Read about the technique
-here](http://haacked.com/archive/2005/06/29/ExceptionInjectionUsingCustomSoapExtension.aspx)
+here](https://haacked.com/archive/2005/06/29/ExceptionInjectionUsingCustomSoapExtension.aspx)
 and feel free to adapt it to your purposes.
 

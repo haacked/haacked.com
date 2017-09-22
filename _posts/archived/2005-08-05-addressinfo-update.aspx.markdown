@@ -10,7 +10,7 @@ redirect_from: "/archive/2005/08/04/addressinfo-update.aspx/"
 
 A long time ago, in a galaxy far away, I wrote a really simple little
 class for converting [State Codes to State Names and Vice
-Versa](http://haacked.com/archive/2005/04/08/2599.aspx).
+Versa](https://haacked.com/archive/2005/04/08/2599.aspx).
 
 Essentially, this class contained two enums, one for state codes such as
 `AK` and `CA`. Another enum contained state names such as `Alaska` and
@@ -47,5 +47,5 @@ public enum StateCode
 }
 
 Download the [revised code
-here](http://haacked.com/code/AddressInfo.zip). Thanks Omer!
+here](https://haacked.com/code/AddressInfo.zip). Thanks Omer!
 

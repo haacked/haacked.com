@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/08/29/MakeMeAdmin_And_Console_MatchMaker.aspx/"
 ---
 
 I am still continuing [my
-experiment](http://haacked.com/archive/2006/04/28/YouveBeenHaacked1KTimes.aspx "My 1000th post")
+experiment](https://haacked.com/archive/2006/04/28/YouveBeenHaacked1KTimes.aspx "My 1000th post")
 in running as a LUA (aka Non-Admin).  Let me tell you, it has been a
 total pain in the ass and now I totally understand why more developers
 do not do this, which feeds into the vicious cycle in which apps are
@@ -22,7 +22,7 @@ batch file used to temporarily elevate your privilegs in a command
 window.  This has worked nicely for me for a while.
 
 ![Console
-Screenshot](http://haacked.com/images/haacked_com/WindowsLiveWriter/MakeMeAdminAndConsole_A6BC/MakeMeAdminConsole4.gif)
+Screenshot](https://haacked.com/images/haacked_com/WindowsLiveWriter/MakeMeAdminAndConsole_A6BC/MakeMeAdminConsole4.gif)
 
 Then [Scott Hanselman](http://computerzen.com/blog/) points out
 [Console](http://www.hanselman.com/blog/ABetterPROMPTForCMDEXEOrCoolPromptEnvironmentVariablesAndANiceTransparentMultiprompt.aspx "A Better Prompt")

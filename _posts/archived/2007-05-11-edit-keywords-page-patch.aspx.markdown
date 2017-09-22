@@ -9,7 +9,7 @@ redirect_from: "/archive/2007/05/10/edit-keywords-page-patch.aspx/"
 ---
 
 If you downloaded [Subtext last
-night](http://haacked.com/archive/2007/05/11/subtext-1.9.5-release.aspx "Subtext Last Night")
+night](https://haacked.com/archive/2007/05/11/subtext-1.9.5-release.aspx "Subtext Last Night")
 and try to edit keywords in the admin section, you might run into a
 syntax error. I fixed the download so if the file you download is named
 
@@ -23,7 +23,7 @@ If you downloaded
 
 Then you might want to replace the *EditKeywords.aspx* file in the
 *Admin* folder [with this
-one](http://haacked.com/code/EditKeyWords.zip "EditKeyWords.aspx file").
+one](https://haacked.com/code/EditKeyWords.zip "EditKeyWords.aspx file").
 
 My apologies. I thought I had tested every page in the admin before
 releasing, but it was late and I must have missed this one. I never use

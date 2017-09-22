@@ -17,7 +17,7 @@ when you need a web server.
 As you may know (assuming you've read this blog for a while, which is a
 BIG assumption), I'm a big fan of self contained Unit Tests. It's a key
 component to having a [self contained location independent build
-process](http://haacked.com/archive/2004/08/26/creating-a-sane-build-process.aspx).
+process](https://haacked.com/archive/2004/08/26/creating-a-sane-build-process.aspx).
 
 I have an approach similar to Scott's in unit testing some of the
 functionality of [RSS Bandit](http://www.rssbandit.org/). For example, I

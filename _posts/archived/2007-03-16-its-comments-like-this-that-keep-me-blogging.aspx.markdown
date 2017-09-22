@@ -19,10 +19,10 @@ It’s comments like this that remind me why I enjoy blogging.
 
 Not to mention that it serves to validate my previous point about
 [Search Driven
-Development](http://haacked.com/archive/2007/03/16/increase-productivity-with-search-driven-development.aspx "Search Driven Development").
+Development](https://haacked.com/archive/2007/03/16/increase-productivity-with-search-driven-development.aspx "Search Driven Development").
 It worked for this guy.
 
 The comment [is
-here](http://haacked.com/archive/2004/05/15/http-web-request-expect-100-continue.aspx#37166 "Comment")
+here](https://haacked.com/archive/2004/05/15/http-web-request-expect-100-continue.aspx#37166 "Comment")
 in its original context.
 

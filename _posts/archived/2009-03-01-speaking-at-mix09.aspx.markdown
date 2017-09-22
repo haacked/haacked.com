@@ -10,7 +10,7 @@ categories:
 redirect_from: "/archive/2009/02/28/speaking-at-mix09.aspx/"
 ---
 
-![MIX09\_SpeakerBling\_VegasStrip\_136x186](http://haacked.com/images/haacked_com/WindowsLiveWriter/ad105f84305f_1361F/MIX09_SpeakerBling_VegasStrip_136x186_3.jpg "MIX09_SpeakerBling_VegasStrip_136x186")
+![MIX09\_SpeakerBling\_VegasStrip\_136x186](https://haacked.com/images/haacked_com/WindowsLiveWriter/ad105f84305f_1361F/MIX09_SpeakerBling_VegasStrip_136x186_3.jpg "MIX09_SpeakerBling_VegasStrip_136x186")
 I finally have my registration worked out and I’m officially going to
 Mix09 this year! Woohoo! Not only am I going, but I’ll be speaking at
 Mix for the first time, so be sure to come by and say hi.
@@ -33,17 +33,17 @@ Atwood](http://codinghorror.com/ "CodingHorror") said it well:
 I’ve been to every one so far:
 
 -   [Mix
-    06](http://haacked.com/archive/2006/02/16/ReadyToMixItUp.aspx "Mix 06")
+    06](https://haacked.com/archive/2006/02/16/ReadyToMixItUp.aspx "Mix 06")
     The first one ever where Atwood,
     [Galloway](http://weblogs.asp.net/jgalloway/ "Jon Galloway"), and I
     tore things up.
 -   [Mix
-    07](http://haacked.com/archive/2007/05/02/mix07-pics-from-mix.aspx "Mix 07")
+    07](https://haacked.com/archive/2007/05/02/mix07-pics-from-mix.aspx "Mix 07")
     The one where I met
     [Miguel](http://tirania.org/blog/ "Miguel de Icaza"), saw the
     genesis of Moonlight, and decided I wanted to join Microsoft.
 -   [Mix
-    08](http://haacked.com/archive/2008/03/08/back-from-mix-back-to-reality.aspx "Mix 08")
+    08](https://haacked.com/archive/2008/03/08/back-from-mix-back-to-reality.aspx "Mix 08")
     The first to have a talk on [ASP.NET
     MVC](http://asp.net/mvc "ASP.NET Website") given by [Scott
     Hanselman](http://hanselman.com/blog/ "Scott Hanselman").

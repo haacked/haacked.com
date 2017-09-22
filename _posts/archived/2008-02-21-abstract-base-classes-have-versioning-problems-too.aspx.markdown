@@ -12,7 +12,7 @@ redirect_from: "/archive/2008/02/20/abstract-base-classes-have-versioning-proble
 This is part 2 in an ongoing series in which I talk about various design
 and versioning issues as they relate to Abstract Base Classes (ABC),
 Interfaces, and Framework design. In [part
-1](http://haacked.com/archive/2008/02/21/versioning-issues-with-abstract-base-classes-and-interfaces.aspx#66512 "Versioning Issues With Abstract Base Classes and Interfaces")
+1](https://haacked.com/archive/2008/02/21/versioning-issues-with-abstract-base-classes-and-interfaces.aspx#66512 "Versioning Issues With Abstract Base Classes and Interfaces")
 I discussed some ways in which ABCs are more resilient to versioning
 than interfaces. I haven’t covered the full story yet and will address
 some great points raised in the comments.

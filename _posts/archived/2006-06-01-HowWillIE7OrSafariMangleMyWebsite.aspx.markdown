@@ -23,8 +23,8 @@ I also want to commend Dan for such clean design. Each site is like a
 well written function. It does one thing and it does it well. A joy to
 use really.
 
-[![ieCapture](http://haacked.com/images/iecapture.png)](http://www.danvine.com/iecapture/ "Capture Screenshots using IE7")
-[![iCapture](http://haacked.com/images/icapture.gif)](http://www.danvine.com/icapture/ "Capture screenshots using Safari")
+[![ieCapture](https://haacked.com/images/iecapture.png)](http://www.danvine.com/iecapture/ "Capture Screenshots using IE7")
+[![iCapture](https://haacked.com/images/icapture.gif)](http://www.danvine.com/icapture/ "Capture screenshots using Safari")
 
 One thing to note, iCapture produces a screenshot of the entire page,
 potentially producing a tall image. At the time of this writing,

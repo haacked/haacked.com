@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/08/05/SeeTheMonkeysAreTryingToTakeOver.ButLuckilyT
 ---
 
 ![The Evil Monkey In Chris's
-Closet](http://haacked.com/images/evilmonkeyinchriscloset.jpg) This
+Closet](https://haacked.com/images/evilmonkeyinchriscloset.jpg) This
 [story from Boing
 Boing](http://www.boingboing.net/2006/08/06/delhi_hires_monkey_t.htm "Delhi Hires Monkey Thugs")
 just cracks me up. Apparently monkeys have been harassing passengers of

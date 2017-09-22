@@ -10,7 +10,7 @@ redirect_from: "/archive/2011/12/04/last-day-at-microsoft.aspx/"
 ---
 
 Well, as I [wrote
-before](http://haacked.com/archive/2011/11/28/departing-microsoft.aspx "Departures"),
+before](https://haacked.com/archive/2011/11/28/departing-microsoft.aspx "Departures"),
 today is my last day at Microsoft. Last night we had our office Holiday
 party in the observation deck and lounge of the Space Needle. The party
 was just fantastic and we were lucky to have a nice clear evening with
@@ -23,7 +23,7 @@ working to deploy the new [NuGet.org](http://nuget.org/ "NuGet.org")
 gallery tonight if all goes well. Once that’s been up for a few days and
 we’re comfortable with it being stable, we’ll release NuGet 1.6.
 
-[![last-day](http://haacked.com/images/haacked_com/WindowsLiveWriter/Last-Day_D8B3/last-day_thumb.jpg "last-day")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Last-Day_D8B3/last-day_2.jpg)
+[![last-day](https://haacked.com/images/haacked_com/WindowsLiveWriter/Last-Day_D8B3/last-day_thumb.jpg "last-day")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Last-Day_D8B3/last-day_2.jpg)
 
 In the meanwhile, my office has been razed of all the good equipment
 including my crossbows that I bequeath to my co-workers that remain,
@@ -33,7 +33,7 @@ Fowler](http://weblogs.asp.net/davidfowler/ "David Fowler") of
 [SignalR](https://github.com/SignalR/SignalR "SignalR") and
 [JabbR](http://jabbr.net "JabbR") fame, and [Scott
 Hanselman](http://hanselman.com), of the
-[fivehead](http://haacked.com/archive/2006/09/18/My_Sandwich_Compartment_ForeheadAgain.aspx "Fivehead")
+[fivehead](https://haacked.com/archive/2006/09/18/My_Sandwich_Compartment_ForeheadAgain.aspx "Fivehead")
 fame who needs no introduction.
 
 I will miss working with all of my friends at Microsoft dearly, but
@@ -44,7 +44,7 @@ blog, tweets on Twitter, and other encouraging means. Thank you!
 But just because I’m leaving, that doesn’t mean you have to leave too.
 I’ll still be blogging here and tweeting on Twitter so do stick around
 as I begin my new journey at **~~REDACTED~~**
-[GitHub](http://haacked.com/archive/2011/12/07/hello-github.aspx "Hello GitHub")!
+[GitHub](https://haacked.com/archive/2011/12/07/hello-github.aspx "Hello GitHub")!
 
-Tags: [microsoft](http://haacked.com/tags/microsoft/default.aspx)
+Tags: [microsoft](https://haacked.com/tags/microsoft/default.aspx)
 

@@ -15,7 +15,7 @@ this case, it is his newly open sourced blog engine, SingleUserBlog or
 SUB, which is now [hosted on
 CodePlex](http://codeplex.com/Wiki/View.aspx?ProjectName=SUB).  Darren
 has been on a roll lately with the recent [release of BlogML
-2.0](http://haacked.com/archive/2006/09/06/BlogML_2.0_Released.aspx). 
+2.0](https://haacked.com/archive/2006/09/06/BlogML_2.0_Released.aspx). 
 Now SUB enters the scene with torpedoes blazing!
 
 But Darren must know he is not dealing with a complete novice in

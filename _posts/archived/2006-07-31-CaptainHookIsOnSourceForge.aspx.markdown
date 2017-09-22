@@ -11,9 +11,9 @@ redirect_from: "/archive/2006/07/30/CaptainHookIsOnSourceForge.aspx/"
 UPDATE: I long ago stopped supporting Captain Hook. This is a dead
 project.
 
-![CaptainHook](http://haacked.com/images/captainhook.gif) I recently
+![CaptainHook](https://haacked.com/images/captainhook.gif) I recently
 introduced an [internal tool for writing Subversion
-Hooks](http://haacked.com/archive/2006/07/27/IntroducingCaptainHookASubversionHookFrameworkFor.NET.aspx "Introducing CaptainHook")
+Hooks](https://haacked.com/archive/2006/07/27/IntroducingCaptainHookASubversionHookFrameworkFor.NET.aspx "Introducing CaptainHook")
 that we developed for internal use at
 [VelocIT](http://veloc-it.com/ "VelocIT"). We made the source code and
 binaries available to the general public and there was enough interest
@@ -51,7 +51,7 @@ BSD](http://www.opensource.org/licenses/bsd-license.php "BSD License").
 Any code contributions should have their copyright for the contribution
 assigned to VelocIT, the maintainer of the project (an informal email
 ackowledgement is sufficient). As I [mentioned
-before](http://haacked.com/archive/2006/01/26/WhoOwnstheCopyrightforAnOpenSourceProject.aspx "Who Owns The Copyright"),
+before](https://haacked.com/archive/2006/01/26/WhoOwnstheCopyrightforAnOpenSourceProject.aspx "Who Owns The Copyright"),
 assigning copyright when contributing is a standard operating procedure
 and nothing insidious. You do not lose your own rights to use the code
 elsewhere since the code is licensed as BSD.

@@ -13,13 +13,13 @@ redirect_from: "/archive/2010/07/26/aspnetmvc3-preview1-released.aspx/"
 
 UPDATE: This post is a out of date. We recently released the [Release
 Candidate for ASP.NET MVC
-3](http://haacked.com/archive/2010/11/09/asp-net-mvc-3-release-candidate.aspx "ASP.NET MVC 3 RC Released").
+3](https://haacked.com/archive/2010/11/09/asp-net-mvc-3-release-candidate.aspx "ASP.NET MVC 3 RC Released").
 
 Feels like just yesterday that we released ASP.NET MVC 2 to the world
 and here I am already talking about an early preview. In a way, we’re
 right on schedule. It was almost exactly a year ago that we released
 [Preview 1 of ASP.NET MVC
-2](http://haacked.com/archive/2009/07/30/asp.net-mvc-released.aspx "ASP.NET MVC 2 Preview 1").
+2](https://haacked.com/archive/2009/07/30/asp.net-mvc-released.aspx "ASP.NET MVC 2 Preview 1").
 
 Today I’m happy to announce that **[ASP.NET MVC 3 Preview 1 is available
 for

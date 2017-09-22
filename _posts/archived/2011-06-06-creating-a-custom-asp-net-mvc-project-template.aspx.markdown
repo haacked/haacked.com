@@ -11,7 +11,7 @@ redirect_from: "/archive/2011/06/05/creating-a-custom-asp-net-mvc-project-templa
 ---
 
 UPDATE: I have an example [Really Empty project
-template](http://haacked.com/archive/2012/01/11/a-really-empty-asp-net-mvc-3-project-template.aspx)
+template](https://haacked.com/archive/2012/01/11/a-really-empty-asp-net-mvc-3-project-template.aspx)
 up on GitHub you can look at. I improved on this technique a bit in that
 one.
 
@@ -21,7 +21,7 @@ dialog contains several options for different MVC project templates:
 -   Empty
 -   Internet Application
 -   Intranet Application (new in the [April 2011 Tools
-    update](http://haacked.com/archive/2011/04/12/introducing-asp-net-mvc-3-tools-update.aspx "ASP.NET MVC 3 Tools Update"))
+    update](https://haacked.com/archive/2011/04/12/introducing-asp-net-mvc-3-tools-update.aspx "ASP.NET MVC 3 Tools Update"))
 
 There’s a lot of white space in that dialog. To many of you, all that
 unsullied territory smells like opportunity. When I talk about this
@@ -59,7 +59,7 @@ I then renamed it to *MyProjectTemplate.cshtml.zip* and extracted the
 contents into a folder so I could make some modifications to its
 contents.
 
-[![MyProjectTemplate.cshtml](http://haacked.com/images/haacked_com/WindowsLiveWriter/Creating-a-Cust.NET-MVC-Project-Template_12902/MyProjectTemplate.cshtml_thumb.png "MyProjectTemplate.cshtml")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Creating-a-Cust.NET-MVC-Project-Template_12902/MyProjectTemplate.cshtml_2.png)
+[![MyProjectTemplate.cshtml](https://haacked.com/images/haacked_com/WindowsLiveWriter/Creating-a-Cust.NET-MVC-Project-Template_12902/MyProjectTemplate.cshtml_thumb.png "MyProjectTemplate.cshtml")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Creating-a-Cust.NET-MVC-Project-Template_12902/MyProjectTemplate.cshtml_2.png)
 
 When you extract the contents, you’ll want to rename the .vstemplate
 file to match the name of the template you chose. In my case, I renamed
@@ -145,7 +145,7 @@ previously, *C:\\Program Files (x86)\\Microsoft Visual Studio
 Once the template is there, you’ll need to setup the correct registry
 settings.
 
-![registry-editor](http://haacked.com/images/haacked_com/WindowsLiveWriter/Creating-a-Cust.NET-MVC-Project-Template_12902/registry-editor_2d901532-cb56-4a6b-aa8d-a128cb9a8ad0.png "registry-editor")
+![registry-editor](https://haacked.com/images/haacked_com/WindowsLiveWriter/Creating-a-Cust.NET-MVC-Project-Template_12902/registry-editor_2d901532-cb56-4a6b-aa8d-a128cb9a8ad0.png "registry-editor")
 
 Since I’m lazy, I put these registry settings in a .reg file to make it
 easy to install. You’ll just need to modify the settings within the .reg
@@ -221,7 +221,7 @@ Unzip the file, and run *install.bat* and you’ll see a new project
 template when you create a new ASP.NET MVC 3 project.
 
 ![New ASP.NET MVC 3
-Project](http://haacked.com/images/haacked_com/WindowsLiveWriter/Creating-a-Cust.NET-MVC-Project-Template_12902/New%20ASP.NET%20MVC%203%20Project_cbf1a187-1e7e-4cb4-84b2-32fb91fa212a.png "New ASP.NET MVC 3 Project")
+Project](https://haacked.com/images/haacked_com/WindowsLiveWriter/Creating-a-Cust.NET-MVC-Project-Template_12902/New%20ASP.NET%20MVC%203%20Project_cbf1a187-1e7e-4cb4-84b2-32fb91fa212a.png "New ASP.NET MVC 3 Project")
 
 Pretty cool, eh?
 

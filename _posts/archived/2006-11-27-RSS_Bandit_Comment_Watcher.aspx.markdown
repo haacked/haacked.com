@@ -32,10 +32,10 @@ select the *Watch Comments* option.  The following screenshot
 demonstrates.
 
 ![Watch
-Comments](http://haacked.com/images/haacked_com/WindowsLiveWriter/RSSBanditCommentWatcher_C82D/RSSBanditWatchComments4.png)
+Comments](https://haacked.com/images/haacked_com/WindowsLiveWriter/RSSBanditCommentWatcher_C82D/RSSBanditWatchComments4.png)
 
 In a stroke of [pure
-vanity](http://haacked.com/archive/2004/10/08/BloggingIsPureVanity.aspx "Blogging Is Pure Vanity"),
+vanity](https://haacked.com/archive/2004/10/08/BloggingIsPureVanity.aspx "Blogging Is Pure Vanity"),
 I will select a blog post in [Andrew
 Stopford’s](http://weblogs.asp.net/astopford/ "Andrew Stopford, head of MbUnit")
 blog that makes a reference to me and click *Watch Comments*.
@@ -48,13 +48,13 @@ When RSS Bandit updates, it shows me that someone left a comment in my
 *Developers* category by turning that category green.
 
 ![New
-Comment!](http://haacked.com/images/haacked_com/WindowsLiveWriter/RSSBanditCommentWatcher_C82D/RssBanditNewComments4.png)
+Comment!](https://haacked.com/images/haacked_com/WindowsLiveWriter/RSSBanditCommentWatcher_C82D/RssBanditNewComments4.png)
 
 Expanding that node, I can dig down to the post and read the new
 comment.
 
 ![New
-Comment!](http://haacked.com/images/haacked_com/WindowsLiveWriter/RSSBanditCommentWatcher_C82D/RssBanditNewComment4.png)
+Comment!](https://haacked.com/images/haacked_com/WindowsLiveWriter/RSSBanditCommentWatcher_C82D/RssBanditNewComment4.png)
 
 Of course, this only works for blogs that support
 [wfw:commentRss](http://wellformedweb.org/news/wfw_namespace_elements/ "CommentRSS"). 

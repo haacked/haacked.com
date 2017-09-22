@@ -18,9 +18,9 @@ there is already a perfectly fine delegate for this purpose, the
 Kevin!  Just shows you the size and depth of the Framework libraries.
 
 My [recent post on
-concatenating](http://haacked.com/archive/2006/11/21/Tip_Jar_Concatenating_A_Delimited_String.aspx "Delimited String Concatenation")
+concatenating](https://haacked.com/archive/2006/11/21/Tip_Jar_Concatenating_A_Delimited_String.aspx "Delimited String Concatenation")
 a delimited string sparked [quite a bit of
-commentary](http://haacked.com/archive/2006/11/21/Tip_Jar_Concatenating_A_Delimited_String.aspx#feedback "Comments"). 
+commentary](https://haacked.com/archive/2006/11/21/Tip_Jar_Concatenating_A_Delimited_String.aspx#feedback "Comments"). 
 The inspiration for that post was some code I had to write for a
 project.  One constraint that I neglected to mention was that I was
 restricted to .NET 1.1.  Today, I revisit this topic, but with the power

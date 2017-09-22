@@ -12,7 +12,7 @@ I have a really old Kodak photography book laying around that delivers
 various tips for how to advance from your typical crapola™ snapshots
 into something worth boring your friends with on
 [Flickr](http://flickr.com/) after your [last
-vacation](http://haacked.com/archive/2005/11/29/11266.aspx).
+vacation](https://haacked.com/archive/2005/11/29/11266.aspx).
 
 It is really too bad that I’ve forgotten everything the book had to say.
 Fortunately Robb Allen is starting a series of Photography lessons for

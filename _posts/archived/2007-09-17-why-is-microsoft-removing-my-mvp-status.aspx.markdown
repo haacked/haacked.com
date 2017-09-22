@@ -12,11 +12,11 @@ redirect_from: "/archive/2007/09/16/why-is-microsoft-removing-my-mvp-status.aspx
 ---
 
 It was only two and a half months ago when I [wrote about
-receiving](http://haacked.com/archive/2007/07/01/bank-error-in-my-favor.-im-a-microsoft-mvp.aspx "Bank Error In My Favor")
+receiving](https://haacked.com/archive/2007/07/01/bank-error-in-my-favor.-im-a-microsoft-mvp.aspx "Bank Error In My Favor")
 my Microsoft MVP award. I was quite honored to receive this award.
 
 In [a follow-up
-comment](http://haacked.com/archive/2007/07/01/bank-error-in-my-favor.-im-a-microsoft-mvp.aspx#45560 "Comment on my mvp status")
+comment](https://haacked.com/archive/2007/07/01/bank-error-in-my-favor.-im-a-microsoft-mvp.aspx#45560 "Comment on my mvp status")
 to that post, rich with unintentional foreshadowing, I mentioned the
 following...
 

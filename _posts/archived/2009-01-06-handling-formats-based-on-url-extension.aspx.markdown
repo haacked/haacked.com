@@ -248,6 +248,6 @@ whatever they want and you can implement your own conventions by
 overriding that method.
 
 [**Download the hacky experiment
-here**](http://haacked.com/code/handlesformat.zip "Handles Format Demo")****and
+here**](https://haacked.com/code/handlesformat.zip "Handles Format Demo")****and
 play with it at your own risk. :)
 

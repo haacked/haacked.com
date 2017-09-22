@@ -10,8 +10,8 @@ redirect_from: "/archive/2007/06/01/twitter-solves-the-chat-usability-problem.as
 ---
 
 Ok, this will be my last post on Twitter for the time being. My last
-[two](http://haacked.com/archive/2007/05/20/is-twitter-vs-jaiku-a-replay-of-friendster-vs-myspace.aspx "Is Twitter vs Jaiku")
-[posts](http://haacked.com/archive/2007/05/20/how-to-build-twitter-in-one-line-of-code.aspx "Twitter in one line of code")
+[two](https://haacked.com/archive/2007/05/20/is-twitter-vs-jaiku-a-replay-of-friendster-vs-myspace.aspx "Is Twitter vs Jaiku")
+[posts](https://haacked.com/archive/2007/05/20/how-to-build-twitter-in-one-line-of-code.aspx "Twitter in one line of code")
 on the subject pointed out flaws with it, so I thought I’d follow up
 with something positive.
 

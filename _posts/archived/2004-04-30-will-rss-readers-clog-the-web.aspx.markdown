@@ -19,7 +19,7 @@ News](http://www.wired.com/news/infostructure/0,1377,63264,00.html)]*
 
 There's a corresponding essay in the latest Wired magazine about RSS too
 which I wrote about
-[here](http://haacked.europe.webmatrixhosting.net/archive/2004/04/30/387.aspx).
+[here](https://haacked.com/archive/2004/04/30/387.aspx).
 Dave Winer points out the same point I made which is propely written RSS
 Aggregators should not cause a large increase in network traffic.
 

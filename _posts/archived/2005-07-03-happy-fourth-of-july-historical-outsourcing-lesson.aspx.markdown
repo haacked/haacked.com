@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2005/07/02/happy-fourth-of-july-historical-outsourcing-lesson.aspx/"
 ---
 
-![Flag](http://haacked.com/images/UsFlag.jpg) The United States is like
+![Flag](https://haacked.com/images/UsFlag.jpg) The United States is like
 your family, it’s got its problems and can seem dysfunctional at times,
 but you gotta love it, and it sure beats being in some of them other
 countries.

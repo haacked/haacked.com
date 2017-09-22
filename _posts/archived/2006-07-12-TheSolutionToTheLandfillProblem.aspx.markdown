@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/07/11/TheSolutionToTheLandfillProblem.aspx/"
 ---
 
-![Arizona Tea](http://haacked.com/images/ArizonaTea.jpg) You probably
+![Arizona Tea](https://haacked.com/images/ArizonaTea.jpg) You probably
 didn’t know this, but this blog is more than a technical blog. It is
 also your source for solving all the world’s problems. For example,
 there is the age old question, “Where did the matching sock go?” Did you

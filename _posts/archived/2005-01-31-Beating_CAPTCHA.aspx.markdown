@@ -10,7 +10,7 @@ redirect_from: "/archive/2005/01/30/Beating_CAPTCHA.aspx/"
 
 ![CAPTCHA](/images/captcha2.jpg)As if to punctuate my post entitled
 *[Image Based CAPTCHA is Fast Losing it’s
-Appeal](http://haacked.com/archive/2005/01/20/1967.aspx)*, [Casey
+Appeal](https://haacked.com/archive/2005/01/20/1967.aspx)*, [Casey
 outlines his .NET
 code](http://www.brains-n-brawn.com/default.aspx?vDir=aicaptcha) used to
 beat the CAPTCHA employed by many blogs using a Neural Network approach.

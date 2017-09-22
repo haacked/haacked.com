@@ -9,7 +9,7 @@ categories:
 redirect_from: "/archive/2006/04/10/SubtextReachesAThousand.aspx/"
 ---
 
-![Subtext Logo](http://haacked.com/images/SubtextLogo.png) [Steve
+![Subtext Logo](https://haacked.com/images/SubtextLogo.png) [Steve
 Harman](http://stevenharman.net/blog/ "Steve's Blog") reports that
 [Subtext reached 1000
 downloads](http://stevenharman.net/blog/archive/2006/04/10/SubTextReaches1000DownloadsAndCounting.aspx "Subtext reaches 1000")
@@ -24,5 +24,5 @@ We are getting close to a bug fix release that contains some extra
 goodies. I will set a release date soon. I have just been overwhelmed
 with work and other events.
 
-Tags: [Subtext](http://haacked.com/tags/subtext/default.aspx)
+Tags: [Subtext](https://haacked.com/tags/subtext/default.aspx)
 

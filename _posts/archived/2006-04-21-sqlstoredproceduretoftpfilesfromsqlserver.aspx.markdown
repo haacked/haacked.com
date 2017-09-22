@@ -51,6 +51,6 @@ exec FtpPutFile
     @workdir = n'c:\temp\'
 ```
 
-I will soon combine this and my [random time of day generator sql](http://haacked.com/archive/2006/04/21/SQLFunctionToGenerateRandomTimeOfDay.aspx "Generate Random Time Of Day")
+I will soon combine this and my [random time of day generator sql](https://haacked.com/archive/2006/04/21/SQLFunctionToGenerateRandomTimeOfDay.aspx "Generate Random Time Of Day")
 into a very useful stored procedure for you.
 

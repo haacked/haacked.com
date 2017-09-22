@@ -14,7 +14,7 @@ Forget flame wars. They’re so USENET. The new way of geek fighting is
 much more subtle.
 
 ![Subtlety of a blow
-torch](http://haacked.com/images/haacked_com/WindowsLiveWriter/GeekSlapFightGetRidofWWW_8875/321549_blowtorch_1%5B2%5D.jpg)
+torch](https://haacked.com/images/haacked_com/WindowsLiveWriter/GeekSlapFightGetRidofWWW_8875/321549_blowtorch_1%5B2%5D.jpg)
 
 Recently [Scott Hanselman](http://www.hanselman.com/blog/ "friend")
 wrote a post on the [SEO implications of URL
@@ -38,7 +38,7 @@ A modern browser is pretty handy for that with that newfangled auto
 complete.
 
 Anyways, in this [recent
-post](http://haacked.com/archive/2007/02/27/Why_Cant_Programmers._Read.aspx "Why Programmer’s Can’t Read")
+post](https://haacked.com/archive/2007/02/27/Why_Cant_Programmers._Read.aspx "Why Programmer’s Can’t Read")
 on the reading habits of programmers, I linked to a post of Jeff’s
 without the “www.”, which did not go unnoticed by Jeff nor [LazyCoder
 Scott](http://www.lazycoder.com/ "LazyCoder") (thanks for pointing out

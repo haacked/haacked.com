@@ -8,14 +8,14 @@ categories: []
 redirect_from: "/archive/2004/04/22/c64-formatter-for-rssbandit.aspx/"
 ---
 
-![C64](http://haacked.com/images/C64.gif)I was fooling around with
+![C64](https://haacked.com/images/C64.gif)I was fooling around with
 building a custom stylesheet for formatting RSS items within RSS Bandit
 and I created one that tries to emulate the Commodore 64 look and feel.
 While it is possible to download the exact font used by the 64, I chose
 not to require a font download and instead chose *Terminal*. It is close
 enough and exists on most machines. If you want this style for yourself,
 [download the template
-here](http://haacked.com/xslt/C64.xslt "XSLT for C64") and save it to
+here](https://haacked.com/xslt/C64.xslt "XSLT for C64") and save it to
 the following directory (assuming a default installation):
 
 `C:\Program Files\RssBandit\templates`

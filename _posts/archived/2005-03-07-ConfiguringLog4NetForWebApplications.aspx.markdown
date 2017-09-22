@@ -12,7 +12,7 @@ categories:
 ---
 
 UPDATE: I [wrote a
-post](http://haacked.com/archive/2006/07/09/ConfiguringLog4NetWithASP.NET2.0InMediumTrust.aspx "Configuring Log4Net in Medium Trust")
+post](https://haacked.com/archive/2006/07/09/ConfiguringLog4NetWithASP.NET2.0InMediumTrust.aspx "Configuring Log4Net in Medium Trust")
 with notes on getting this to work with ASP.NET 2.0.
 
 Looking around, I noticed a lot of people struggling with getting [Log4Net](http://logging.apache.org/log4net/ "Log4Net website") to work with their web applications (ASP.NET 1.1). I’m not going to spend a lot of time digging into Log4Net here, as you can do a [Google search](http://www.google.com/search?sourceid=navclient&ie=UTF-8&rls=GGLB,GGLB:1969-53,GGLB:en&q=log4net "Google Search Results for Log4Net") for that. But I will give you a quick and dirty guide to quickly getting it set up for a website. Bar of soap not included.

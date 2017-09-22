@@ -18,7 +18,7 @@ The ability to interact with the application from such a plug-in is very
 limited as the interface doesn't define an interface to the application
 other than a handle. (For info on how to write an IBlogExtension
 plug-in, see [this
-article](http://haacked.com/archive/2004/06/19/651.aspx).)
+article](https://haacked.com/archive/2004/06/19/651.aspx).)
 
 So last night I was thinking about an email that a user sent me. He
 wants to know how to add an intelligent module for filtering and

@@ -10,7 +10,7 @@ redirect_from: "/archive/2013/11/13/cross-platform-net-just-a-lot-got-better.asp
 ---
 
 Not long ago I wrote a blog post about how [platform restrictions harm
-.NET](http://haacked.com/archive/2013/06/24/platform-limitations-harm-net.aspx "Platform Restrictions harm .NET").
+.NET](https://haacked.com/archive/2013/06/24/platform-limitations-harm-net.aspx "Platform Restrictions harm .NET").
 This led to a lot of discussion online and on Twitter. At some point
 David Kean [suggested a more productive
 approach](https://twitter.com/davkean/status/383280597566648320 "Suggested on Twitter")
@@ -42,5 +42,5 @@ I’m also excited about the partnership between Microsoft and Xamarin
 this represents. I do believe C\# is a great language for cross-platform
 development and it’s good to see Microsoft jumping back on board with
 this. This is a marked change from the situation I [wrote about in
-2012](http://haacked.com/archive/2012/10/21/monkeyspace-dotnet-oss.aspx "MonkeySpace").
+2012](https://haacked.com/archive/2012/10/21/monkeyspace-dotnet-oss.aspx "MonkeySpace").
 

@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2005/06/29/Potential_For_A_Subtle_Bug_in_RFC3229_Implementations.aspx/"
 ---
 
-In a [previous post](http://haacked.com/archive/2005/06/30/7415.aspx) I
+In a [previous post](https://haacked.com/archive/2005/06/30/7415.aspx) I
 mentioned a problem I was having with implementing
 [RFC3229](http://bobwyman.pubsub.com/main/2004/09/using_rfc3229_w.html).
 Well I got that one fixed, but realized that I had another very subtle

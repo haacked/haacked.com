@@ -39,7 +39,7 @@ It provides a mean to change the look and style of a row when you mouse
 over it, and then change it back when you mouse out.
 
 All you need to do is to reference the
-[tableEffects.js](http://haacked.com/Skins/Haacked/Scripts/tableEffects.js "The table effects js file")
+[tableEffects.js](https://haacked.com/Skins/Haacked/Scripts/tableEffects.js "The table effects js file")
 javascript file and add the “highlightTable” css class to a table. At
 that point, each row of the table will have its CSS class changed to
 “highlight” or “highlightAlt” when moused over. Its CSS class will be
@@ -110,7 +110,7 @@ the same.
 ### Get the file
 
 Download the file [from
-here](http://haacked.com/Skins/Haacked/Scripts/tableEffects.js "The table effects js file")
+here](https://haacked.com/Skins/Haacked/Scripts/tableEffects.js "The table effects js file")
 (Right click and save as).
 
 If you have any improvements (as I am sure there will be some), please

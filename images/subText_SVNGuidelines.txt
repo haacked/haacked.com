@@ -107,4 +107,4 @@ http://noc.postnuke.com/docman/view.php/6/41/TortoiseCVS.htm
 
 ================================================================================
 For more information on how to use CVS with SourceForge projects, 
-please read http://haacked.com/archive/2005/05/12/3178.aspx
+please read https://haacked.com/archive/2005/05/12/3178.aspx

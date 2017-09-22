@@ -10,7 +10,7 @@ redirect_from: "/archive/2006/08/30/What_About_CAPTCHA.aspx/"
 
 I mentioned several heuristic approachs to blocking spam in my recent
 post on [blocking comment
-spam](http://haacked.com/archive/2006/08/29/Comment_Spam_Heuristics.aspx),
+spam](https://haacked.com/archive/2006/08/29/Comment_Spam_Heuristics.aspx),
 but commenters note that I failed to mention CAPTCHA (**C**ompletely
 **A**utomated **P**ublic **T**uring test to tell **C**omputers and
 **H**umans **A**part).  At the moment,
@@ -20,11 +20,11 @@ is quite effective, both at blocking spam and annoying users.
 But I don’t have any real beef with CAPTCHA, apart from the
 accessibility issues.  If I met CAPTCHA in a bar, I’d buy it a beer! *No
 hard feelings despite the*[*trash
-talking*](http://haacked.com/archive/2005/01/20/Image_Based_CAPTCHA_Losing_Appeal.aspx)*in
+talking*](https://haacked.com/archive/2005/01/20/Image_Based_CAPTCHA_Losing_Appeal.aspx)*in
 the past, right?*
 
 There is successful code out there that can [break
-CAPTCHA](http://haacked.com/archive/2005/01/31/Beating_CAPTCHA.aspx),
+CAPTCHA](https://haacked.com/archive/2005/01/31/Beating_CAPTCHA.aspx),
 but that is pretty much true of every other method of blocking spam I’ve
 mentioned.
 

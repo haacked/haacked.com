@@ -16,21 +16,21 @@ meta-blogging introduction).
 But this year for me was quite significant and full of big changes. On a
 personal level, this was the year the agent of my little world
 domination plan [was
-hatched](http://haacked.com/archive/2007/06/06/introducing-cody-yokoyama-haack.aspx "Introducing Cody Yokoyama Haack").
+hatched](https://haacked.com/archive/2007/06/06/introducing-cody-yokoyama-haack.aspx "Introducing Cody Yokoyama Haack").
 
 ![Newborn Cody With
-Glasses](http://haacked.com/images/haacked_com/WindowsLiveWriter/Haacking-2007_CF90/newborn-cody-with-glasses_3.jpg "Newborn Cody With Glasses")
+Glasses](https://haacked.com/images/haacked_com/WindowsLiveWriter/Haacking-2007_CF90/newborn-cody-with-glasses_3.jpg "Newborn Cody With Glasses")
 
 He was tiny then, but six months later, he’s gotten quite big. He’s
 remained in the 95^th^ percentile in height for a baby his age.
 
 ![Cody in a shark
-costume](http://haacked.com/images/haacked_com/WindowsLiveWriter/Haacking-2007_CF90/shark-cody_3.jpg "Eating like a shark leads to rapid growth")
+costume](https://haacked.com/images/haacked_com/WindowsLiveWriter/Haacking-2007_CF90/shark-cody_3.jpg "Eating like a shark leads to rapid growth")
 
 As much fun as it has been with Cody, he’s never taken his devious eye
 off the prize in keeping with the master plan.
 
-![cody-plotting](http://haacked.com/images/haacked_com/WindowsLiveWriter/Haacking-2007_CF90/cody-plotting_3.jpg "cody-plotting")
+![cody-plotting](https://haacked.com/images/haacked_com/WindowsLiveWriter/Haacking-2007_CF90/cody-plotting_3.jpg "cody-plotting")
 
 He is not going to be a kid one wants to mess with. I kid you not, he
 laughs out loud with glee when I whack him with a pillow or pound on his
@@ -41,13 +41,13 @@ In terms of my professional life, it’s been quite a whirlwind year. All
 in the same year, I:
 
 -   [left a consulting
-    company](http://haacked.com/archive/2007/05/11/my-last-day-before-starting-a-new-career.aspx "New Career")
+    company](https://haacked.com/archive/2007/05/11/my-last-day-before-starting-a-new-career.aspx "New Career")
     I co-founded to join
     [Koders](http://koders.com/ "Open Source Search").
--   [cowrote](http://haacked.com/archive/2007/09/19/buy-our-book-and-become-an-asp.net-bad-ass.aspx "Buy our book")
+-   [cowrote](https://haacked.com/archive/2007/09/19/buy-our-book-and-become-an-asp.net-bad-ass.aspx "Buy our book")
     a book.
 -   left Koders to [join
-    Microsoft](http://haacked.com/archive/2007/09/17/why-is-microsoft-removing-my-mvp-status.aspx "Why is Microsoft removing my MVP Status").
+    Microsoft](https://haacked.com/archive/2007/09/17/why-is-microsoft-removing-my-mvp-status.aspx "Why is Microsoft removing my MVP Status").
 -   Beat Scott Hanselman in a [Developer
     Faceoff](http://www.codesqueeze.com/developer-faceoff-scott-hanselman-vs-phil-haack "Developer Faceoff")
     ;)
@@ -76,14 +76,14 @@ if it were a bad thing.
 
 Something else we’ll miss is the great diverse food here. Many regard
 the [Korean food in
-L.A.](http://haacked.com/archive/2005/03/17/Good_Korean_Food_In_Los_Angeles.aspx "Good Korean Food")
+L.A.](https://haacked.com/archive/2005/03/17/Good_Korean_Food_In_Los_Angeles.aspx "Good Korean Food")
 as the best in the world. And the Japanese market and restaurants on
 Sawtelle have been a staple for us.
 
 I’ll particularly miss my [pickup soccer
-crew](http://haacked.com/archive/2005/05/16/ForTheLoveOfSoccer.aspx "For the love of soccer")
+crew](https://haacked.com/archive/2005/05/16/ForTheLoveOfSoccer.aspx "For the love of soccer")
 as well as the [league of
-ex-pros](http://haacked.com/archive/2006/08/23/Soccer_Beat_Down.aspx "Soccer Beatdown").
+ex-pros](https://haacked.com/archive/2006/08/23/Soccer_Beat_Down.aspx "Soccer Beatdown").
 Lots to love about L.A., but at the same time, we’re quite excited about
 our new adventures and opportunities up in the Seattle area. For
 example, the opportunity to breathe clean air!

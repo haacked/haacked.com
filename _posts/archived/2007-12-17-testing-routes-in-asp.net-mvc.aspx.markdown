@@ -102,7 +102,7 @@ using a mock framework.
 
 However, we can shorten a lot of this code by using an extension method
 I wrote in a [previous
-post](http://haacked.com/archive/2007/11/05/rhino-mocks-extension-methods-mvc-crazy-delicious.aspx "Rhino Mock + Extension Methods + MVC = Crazy Delicious").
+post](https://haacked.com/archive/2007/11/05/rhino-mocks-extension-methods-mvc-crazy-delicious.aspx "Rhino Mock + Extension Methods + MVC = Crazy Delicious").
 I actually wrote an overload that makes it easier to mock a request for
 a specific URL.
 

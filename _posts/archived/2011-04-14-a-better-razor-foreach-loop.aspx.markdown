@@ -15,7 +15,7 @@ Yesterday, during my [ASP.NET MVC 3 talk at Mix
 11](http://channel9.msdn.com/events/MIX/MIX11/FRM03 "ASP.NET MVC 3 The Time Is Now"),
 I wrote a useful helper method demonstrating an advanced feature of
 Razor, [Razor Templated
-Delegates](http://haacked.com/archive/2011/02/27/templated-razor-delegates.aspx "Templated Razor Templates").
+Delegates](https://haacked.com/archive/2011/02/27/templated-razor-delegates.aspx "Templated Razor Templates").
 
 There are many situations where I want to quickly iterate through a
 bunch of items in a view, and I prefer using the `foreach` statement.

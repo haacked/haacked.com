@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 A while back I wrote about [a subtle JSON
-vulnerability](http://haacked.com/archive/2008/11/20/anatomy-of-a-subtle-json-vulnerability.aspx "Anatomy of a Subtle JSON Vulnerability")
+vulnerability](https://haacked.com/archive/2008/11/20/anatomy-of-a-subtle-json-vulnerability.aspx "Anatomy of a Subtle JSON Vulnerability")
 which could result in the disclosure of sensitive information. That
 particular exploit involved overriding the JavaScript `Array`
 constructor to disclose the payload of a JSON array, something which
@@ -25,7 +25,7 @@ demonstrated it at the Norwegian Developers Conference last week, though
 it has been [demonstrated against Twitter in the
 past](http://hackademix.net/2009/01/13/you-dont-know-what-my-twitter-leaks/ "You don't know what my twitter leaks").
 
-[![hijack](http://haacked.com/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/hijack_3.jpg "hijack")](http://www.sxc.hu/photo/676972 "Car Theft by alicja_M on stock.xchng")
+[![hijack](https://haacked.com/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/hijack_3.jpg "hijack")](http://www.sxc.hu/photo/676972 "Car Theft by alicja_M on stock.xchng")
 
 Before I go further, let me give you the punch line first in terms of
 what this vulnerability affects.
@@ -51,26 +51,26 @@ the unwitting victim logging into the vulnerable site, and the
 vulnerable site issues an authentication cookie, which the browser holds
 onto.
 
-![Json-Hijack-1](http://haacked.com/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/Json-Hijack-1_3.png "Json-Hijack-1")
+![Json-Hijack-1](https://haacked.com/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/Json-Hijack-1_3.png "Json-Hijack-1")
 
 At some point, either in the past, or the near future, the bad guy spams
 the victim with an email promising a hilariously funny video of a
 hamster on a piano.
 
-![Json-Hijack-2](http://haacked.com/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/Json-Hijack-2_3.png "Json-Hijack-2")
+![Json-Hijack-2](https://haacked.com/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/Json-Hijack-2_3.png "Json-Hijack-2")
 
 But the link actually points to the bad guy’s website. When the victim
 clicks on the link, the next two steps happen in quick succession.
 First, the victim’s browser makes a request for the bad guy’s website.
 
-![Json-Hijack-3](http://haacked.com/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/Json-Hijack-3_6.png "Json-Hijack-3")
+![Json-Hijack-3](https://haacked.com/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/Json-Hijack-3_6.png "Json-Hijack-3")
 
 The website responds with some HTML containing some JavaScript along
 with a `script` tag. When the browser sees the script tag, it makes
 *another GET request* back to the vulnerable site to load the script,
 *sending the auth cookie along*.
 
-![Json-Hijack-4](http://haacked.com/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/Json-Hijack-4_3.png "Json-Hijack-4")
+![Json-Hijack-4](https://haacked.com/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/Json-Hijack-4_3.png "Json-Hijack-4")
 
 The bad guy has tricked the victim’s *browser* to issue a request for
 the JSON containing sensitive information using the browser’s
@@ -161,7 +161,7 @@ tag. As far as the original site is concerned, you’re making a valid
 authenticated request for the JSON data and it responds with the data,
 which now gets executed in your browser. This may sound familiar as it
 is really a variant of a [Cross Site Request Forgery (CSRF)
-attack](http://haacked.com/archive/2009/04/02/anatomy-of-csrf-attack.aspx "Anatomy of a CSRF attack")
+attack](https://haacked.com/archive/2009/04/02/anatomy-of-csrf-attack.aspx "Anatomy of a CSRF attack")
 which I wrote about before.
 
 If you want to see it for yourself, you can grab the [**CodeHaacks
@@ -204,7 +204,7 @@ with your client library.
 
 ASP.NET and WCF JSON service endpoints actually wrap their JSON in an
 object with the “d” property as I [wrote about a while
-back](http://haacked.com/archive/2008/11/20/anatomy-of-a-subtle-json-vulnerability.aspx "Json Vulnerability").
+back](https://haacked.com/archive/2008/11/20/anatomy-of-a-subtle-json-vulnerability.aspx "Json Vulnerability").
 While it might seem odd to have to go through this property to get
 access to your data, this awkwardness is eased by the fact that the
 generated client proxies for these services strip the “d” property so
@@ -271,12 +271,12 @@ as [Firefox
 3.0.11](http://www.oldapps.com/firefox.php?old_firefox=59 "Download FireFox 3.0.11").
 
 I followed up this post with [a proposal to fix
-JSON](http://haacked.com/archive/2009/06/26/too-late-to-change-json.aspx "Too late to change JSON?")
+JSON](https://haacked.com/archive/2009/06/26/too-late-to-change-json.aspx "Too late to change JSON?")
 to prevent this particular issue.
 
-Tags: [aspnetmvc](http://haacked.com/tags/aspnetmvc/default.aspx),
-[json](http://haacked.com/tags/json/default.aspx),
-[javascript](http://haacked.com/tags/javascript/default.aspx),
-[security](http://haacked.com/tags/security/default.aspx),
-[browsers](http://haacked.com/tags/browsers/default.aspx)
+Tags: [aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
+[json](https://haacked.com/tags/json/default.aspx),
+[javascript](https://haacked.com/tags/javascript/default.aspx),
+[security](https://haacked.com/tags/security/default.aspx),
+[browsers](https://haacked.com/tags/browsers/default.aspx)
 

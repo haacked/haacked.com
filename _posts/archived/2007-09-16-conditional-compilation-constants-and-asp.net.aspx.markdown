@@ -78,7 +78,7 @@ At heart, Web Application Projects are no different from Class Library
 projects so you can set conditional compilation constants from the
 project properties dialog in Visual Studio.[![ConditionalCompilation -
 Microsoft Visual
-Studio](http://haacked.com/images/haacked_com/WindowsLiveWriter/ConditionalConstantsandASP.NET_12C5D/ConditionalCompilation%20-%20Microsoft%20Visual%20Studio_thumb_1.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/ConditionalConstantsandASP.NET_12C5D/ConditionalCompilation%20-%20Microsoft%20Visual%20Studio_1.png "Conditional Compilation Constants")
+Studio](https://haacked.com/images/haacked_com/WindowsLiveWriter/ConditionalConstantsandASP.NET_12C5D/ConditionalCompilation%20-%20Microsoft%20Visual%20Studio_thumb_1.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/ConditionalConstantsandASP.NET_12C5D/ConditionalCompilation%20-%20Microsoft%20Visual%20Studio_1.png "Conditional Compilation Constants")
 
 Unfortunately, these only seem to work in the code behind and not within
 ASPX files.
@@ -116,7 +116,7 @@ conditional compilation constants seem to work in ASP.NET.
 In order to create this grid, I created a solution that includes both a
 Web Application project and a Website project and ran through all nine
 permutations. You can [download the solution
-here](http://haacked.com.nyud.net/code/conditionalcompilation.zip "Conditional Compilation Demo")
+here](https://haacked.com.nyud.net/code/conditionalcompilation.zip "Conditional Compilation Demo")
 if you’re interested.
 
 It’s a bit confusing, but hopefully the above table clears things up

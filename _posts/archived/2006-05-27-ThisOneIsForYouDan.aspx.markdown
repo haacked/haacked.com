@@ -26,7 +26,7 @@ a client so I need to get head down into coding.
 
 In the meanwhile, for all my friends who don’t care for my technical
 gibberish, you can subscribe to my *[Day to
-Day](http://haacked.com/category/1.aspx "Non-Tech Category")
-([rss](http://haacked.com/category/1.aspx/rss/ "Category RSS feed"))*
+Day](https://haacked.com/category/1.aspx "Non-Tech Category")
+([rss](https://haacked.com/category/1.aspx/rss/ "Category RSS feed"))*
 category. This contains all my non-technical posts 100% free of code.
 

@@ -10,7 +10,7 @@ redirect_from: "/archive/2006/08/07/Log4NetAndExternalConfigurationFileInASP.NET
 
 Recently I wrote that I could not seem to get Log4Net to [work with an
 external configuration
-file](http://haacked.com/archive/2006/07/09/ConfiguringLog4NetWithASP.NET2.0InMediumTrust.aspx "Problem Configuring Log4Net")
+file](https://haacked.com/archive/2006/07/09/ConfiguringLog4NetWithASP.NET2.0InMediumTrust.aspx "Problem Configuring Log4Net")
 while running ASP.NET 2.0 in Medium Trust. It turns out that I should
 have been more explicit. I could not get *Subtext* to work with Log4Net
 in Medium Trust, but it had **nothing to do with Medium Trust**. Mea

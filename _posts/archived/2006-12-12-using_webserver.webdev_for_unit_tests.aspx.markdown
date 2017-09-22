@@ -11,7 +11,7 @@ redirect_from: "/archive/2006/12/11/using_webserver.webdev_for_unit_tests.aspx/"
 ---
 
 [![A Scanning Test - From
-http://www.sxc.hu/photo/517386](http://haacked.com/images/haacked_com/WindowsLiveWriter/UsingWebServer.WebDevForUnitTests_7370/517386_scanning_test_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/UsingWebServer.WebDevForUnitTests_7370/517386_scanning_test2.jpg)
+http://www.sxc.hu/photo/517386](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingWebServer.WebDevForUnitTests_7370/517386_scanning_test_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingWebServer.WebDevForUnitTests_7370/517386_scanning_test2.jpg)
 
 Last night a unit test saved my life (*[with
 apologies](http://en.wikipedia.org/wiki/Last_Night_a_DJ_Saved_My_Life_(song) "Last Night A DJ Saved My Life"))*.
@@ -21,7 +21,7 @@ expected it.  It is cases like this that made me into such a big fan of
 writing automated unit tests.
 
 Not too long ago I wrote a C\# [Akismet
-API](http://haacked.com/archive/2006/09/26/Subtext_Akismet_API.aspx "Subtext Akismet API")
+API](https://haacked.com/archive/2006/09/26/Subtext_Akismet_API.aspx "Subtext Akismet API")
 for Subtext. In writing the code, I followed design principles focused
 on making the API as testable as possible. For example, I applied
 [Inversion of
@@ -136,13 +136,13 @@ In the past, I have gone to great lengths to not using a web server to
 unit test my code, as that takes us more into the realm of Integration
 testing. A while ago I wrote a post on how to [simulate the HttpContext
 for unit
-tests](http://haacked.com/archive/2005/06/11/Simulating_HttpContext.aspx "Simulating HttpContext")
+tests](https://haacked.com/archive/2005/06/11/Simulating_HttpContext.aspx "Simulating HttpContext")
 without using a web server. This approach has been improved upon in the
 Subtext unit test codebase and has served me well.
 
 But even that approach can only go so far. As I pointed out in my post
 on a [Testing Mail
-Server](http://haacked.com/archive/2006/05/30/ATestingMailServerForUnitTestingEmailFunctionality.aspx "Testing Mail Server"),
+Server](https://haacked.com/archive/2006/05/30/ATestingMailServerForUnitTestingEmailFunctionality.aspx "Testing Mail Server"),
 it’s a good thing to abstract out these extensibility points using an
 interface or a provider. But at some point, you have to test the
 concrete implementation. I can’t keep delegating functionality endlessly

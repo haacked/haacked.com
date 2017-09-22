@@ -17,7 +17,7 @@ with WCF (code named Indigo).
 
 They pointed out (as I mentioned in a tongue-in-cheek context in [my
 last
-post](http://haacked.com/archive/2006/03/23/AndTheAwardToTheFunniestCommenterOnThisBlogGoesTo.aspx "Funniest Commenter"))
+post](https://haacked.com/archive/2006/03/23/AndTheAwardToTheFunniestCommenterOnThisBlogGoesTo.aspx "Funniest Commenter"))
 that with streaming content such as streaming videos, the consumer of
 the media is really concerned about headers and start tags, because they
 plan on using the content as it flows over the wire.

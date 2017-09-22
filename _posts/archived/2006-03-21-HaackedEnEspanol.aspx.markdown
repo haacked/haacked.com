@@ -11,7 +11,7 @@ redirect_from: "/archive/2006/03/20/HaackedEnEspanol.aspx/"
 [Luciano Spiguel](http://huapi.blogspot.com/ "Blog of Luciano Spiguel")
 just posted a partial translation of my post entitled [Does Mort Know
 We’re Talking Smack About Him Behind His
-Back](http://haacked.com/archive/2005/08/03/9210.aspx "Discussing Mort")
+Back](https://haacked.com/archive/2005/08/03/9210.aspx "Discussing Mort")
 in Spanish. I’m actually quite honored that someone saw that as being
 worth a translation.
 

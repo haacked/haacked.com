@@ -71,7 +71,7 @@ thread](http://nuget.codeplex.com/Thread/View.aspx?ThreadId=236592 "The disucssi
 Also, do keep in mind that this next release is our first iteration to
 address this scenario. We think we’ll hit the primary use cases, but we
 may not get everything. But don’t worry, we’ll continue to [release
-often](http://haacked.com/archive/2011/04/20/release-early-and-often.aspx "Release early, Release often")
+often](https://haacked.com/archive/2011/04/20/release-early-and-often.aspx "Release early, Release often")
 and address scenarios that we didn’t anticipate.
 
 Thanks for your support!

@@ -11,7 +11,7 @@ redirect_from: "/archive/2006/09/30/Possible_Bug_With_DateTime.Parse.aspx/"
 UPDATE: I think a good measure of a blog is the intelligence and quality
 of the comments. This comments in response to this post makes my blog
 look good (not [all
-do](http://haacked.com/archive/2005/02/20/GetYourPimpName.aspx "Get Your Pimp Name")).
+do](https://haacked.com/archive/2005/02/20/GetYourPimpName.aspx "Get Your Pimp Name")).
 
 As several commenters pointed out, the function returns a local DateTime
 adjusted from the specified UTC date. By calling `ToUniversalTime()` on

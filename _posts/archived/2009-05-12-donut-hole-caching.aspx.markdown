@@ -12,7 +12,7 @@ redirect_from: "/archive/2009/05/11/donut-hole-caching.aspx/"
 ---
 
 A while back, I wrote about [Donut Caching in ASP.NET
-MVC](http://haacked.com/archive/2008/11/05/donut-caching-in-asp.net-mvc.aspx "Donut Caching")
+MVC](https://haacked.com/archive/2008/11/05/donut-caching-in-asp.net-mvc.aspx "Donut Caching")
 for the scenario where you want to cache an entire view except for a
 small bit of it. The more technical term for this technique is probably
 “cache substitution” as it makes use of the `Response.WriteSubstitution`
@@ -23,7 +23,7 @@ However, what happens when you want to do the inverse. Suppose you want
 to cache the donut hole, instead of the donut?
 
 [![House of Sims
-Photostream](http://haacked.com/images/haacked_com/WindowsLiveWriter/PartialCachinginASP.NETMVC_131B3/2534011147_283339d6c1_3.jpg "House of Sims Photostream")](http://www.flickr.com/photos/houseofsims/2534011147/ "Creative Commons By Attribution")
+Photostream](https://haacked.com/images/haacked_com/WindowsLiveWriter/PartialCachinginASP.NETMVC_131B3/2534011147_283339d6c1_3.jpg "House of Sims Photostream")](http://www.flickr.com/photos/houseofsims/2534011147/ "Creative Commons By Attribution")
 
 I think we should nickname all of our software concepts after tasty food
 items, don’t you agree?

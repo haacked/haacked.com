@@ -14,16 +14,16 @@ gibberish to them.  Apparently not everyone is fascinated by topics such
 as how many [CPU cycles it takes to make a method
 call](http://smallthought.com/avi/?p=16) in a dynamic language?  Neither
 are they enthralled by matching [HTML with Regular
-Expressions](http://haacked.com/archive/2005/04/22/2784.aspx).  Go
+Expressions](https://haacked.com/archive/2005/04/22/2784.aspx).  Go
 figure.
 
 [![Soccer
-Injury](http://haacked.com/images/haacked_com/WindowsLiveWriter/MyNewPersonalBlog_11846/dsc01408_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MyNewPersonalBlog_11846/dsc014082.jpg)And
+Injury](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyNewPersonalBlog_11846/dsc01408_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyNewPersonalBlog_11846/dsc014082.jpg)And
 yes, I have tried in the past to explain that my blog has categories and
 by going to the **[Day to Day
-category](http://haacked.com/category/1.aspx), you can filter out my
+category](https://haacked.com/category/1.aspx), you can filter out my
 geekery.  But many of my friends simply bookmark
-[http://haacked.com/](http://haacked.com/) and simply can’t be
+[https://haacked.com/](https://haacked.com/) and simply can’t be
 bothered. 
 
 So I am starting a new blog just for them where I can post such personal

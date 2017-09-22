@@ -12,9 +12,9 @@ redirect_from: "/archive/2007/06/18/unit-tests-web-code-without-a-web-server-usi
 
 Testing code written for the web is challenging. Especially code that makes use of the ASP.NET intrinsic objects such as the `HttpRequest` object. **My goal is to make testing such code easier**.
 
-[![Spider Web (c) FreeFoto.com](http://haacked.com/images/haacked_com/WindowsLiveWriter/WriteUnitTestsForTheWebWithoutAWebServer_13D45/01_17_8---Spiders-Web_web_1.jpg)](http://www.freefoto.com/preview/01-17-8?ffid=01-17-8 "Spider Web (c) FreeFoto.com")
+[![Spider Web (c) FreeFoto.com](https://haacked.com/images/haacked_com/WindowsLiveWriter/WriteUnitTestsForTheWebWithoutAWebServer_13D45/01_17_8---Spiders-Web_web_1.jpg)](http://www.freefoto.com/preview/01-17-8?ffid=01-17-8 "Spider Web (c) FreeFoto.com")
 
-A while ago, I wrote some code to [simulate the `HttpContext`](http://haacked.com/archive/2005/06/11/simulating_httpcontext.aspx/ "Simulate HttpContext for Unit Tests Without Using Cassini nor IIS") in order to make writing such unit tests easier. My goal wasn’t to replace web testing frameworks such as [Selenium](http://www.openqa.org/selenium/ "Selenium Web Testing Tool"), [Watin](http://watin.sourceforge.net/ "Watin"), or [AspUnit](http://aspunit.sourceforge.net/ "AspUnit"). Instead, I’m a fan of the [Pareto principle](http://en.wikipedia.org/wiki/Pareto_principle "Pareto Principle on Wikipedia")
+A while ago, I wrote some code to [simulate the `HttpContext`](https://haacked.com/archive/2005/06/11/simulating_httpcontext.aspx/ "Simulate HttpContext for Unit Tests Without Using Cassini nor IIS") in order to make writing such unit tests easier. My goal wasn’t to replace web testing frameworks such as [Selenium](http://www.openqa.org/selenium/ "Selenium Web Testing Tool"), [Watin](http://watin.sourceforge.net/ "Watin"), or [AspUnit](http://aspunit.sourceforge.net/ "AspUnit"). Instead, I’m a fan of the [Pareto principle](http://en.wikipedia.org/wiki/Pareto_principle "Pareto Principle on Wikipedia")
 and I hoped to help people easily reach the 80 of the 80/20 rule before reaching out to one of these tools to cover the last mile.
 
 I’ve spent some time since then refactoring the code and improving the API. I also implemented some features that were lacking such as being able to call MapPath and setting and getting Session and Application
@@ -70,9 +70,9 @@ The `SimulateRequest` method is always called last once you’ve set your form o
 One area I’ve had a lot of success with this class is in unit testing custom `HttpHandlers`. I’ve also use it to test custom control rendering code and helper methods for ASP.NET.
 
 This code can be found in the `Subtext.TestLibrary` project in our Subversion repository. This project contains code I’ve found useful within my unit tests such as a [test SMTP
-server](http://haacked.com/archive/2006/05/30/ATestingMailServerForUnitTestingEmailFunctionality.aspx "A Testing Mail Server for Unit Testing Email Functionality") and a [test Web Server using WebServer.WebDev](http://haacked.com/archive/2006/12/12/Using_WebServer.WebDev_For_Unit_Tests.aspx "Using WebServer.WebDev for Unit Tests").
+server](https://haacked.com/archive/2006/05/30/ATestingMailServerForUnitTestingEmailFunctionality.aspx "A Testing Mail Server for Unit Testing Email Functionality") and a [test Web Server using WebServer.WebDev](https://haacked.com/archive/2006/12/12/Using_WebServer.WebDev_For_Unit_Tests.aspx "Using WebServer.WebDev for Unit Tests").
 
-**To make it easy for you to start using the `HttpSimulator`, I’ve packaged the [relevant files in a zip file](http://haacked.com/code/HttpSimulator.zip "HttpSimulator Code") including the unit tests.**
+**To make it easy for you to start using the `HttpSimulator`, I’ve packaged the [relevant files in a zip file](https://haacked.com/code/HttpSimulator.zip "HttpSimulator Code") including the unit tests.**
 
 I must make one confession. I originally tried to do all this by using the public APIs. Unfortunately, so many classes are internal or sealed that I had to get my hands dirty and resort to using reflection. Doing so freed me up to finally get certain features working that I could not before.
 

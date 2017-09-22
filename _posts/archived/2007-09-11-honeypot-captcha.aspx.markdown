@@ -14,7 +14,7 @@ redirect_from: "/archive/2007/09/10/honeypot-captcha.aspx/"
 I was thinking about alternative ways to block comment spam the other
 day and it occurred to me that there’s potentially a simpler solution
 than the [Invisible
-Captcha](http://haacked.com/archive/2006/09/26/Lightweight_Invisible_CAPTCHA_Validator_Control.aspx "Lightweight Invisible CAPTCHA Validator Control")
+Captcha](https://haacked.com/archive/2006/09/26/Lightweight_Invisible_CAPTCHA_Validator_Control.aspx "Lightweight Invisible CAPTCHA Validator Control")
 approach I wrote about.
 
 The Invisible Captcha control plays upon the fact that most comment spam
@@ -23,7 +23,7 @@ behavioral trait that bots have that can be exploited due to the bots
 inability to support another browser facility.
 
 ![honeypot image from
-http://www.cs.vu.nl/\~herbertb/misc/shelia/](http://haacked.com/images/haacked_com/WindowsLiveWriter/HoneypotCaptcha_14E35/honeypot_1.gif)
+http://www.cs.vu.nl/\~herbertb/misc/shelia/](https://haacked.com/images/haacked_com/WindowsLiveWriter/HoneypotCaptcha_14E35/honeypot_1.gif)
 You see, comment spam bots love form fields. When they encounter a form
 field, they go into a berserker frenzy (+2 to strength, +2 hp per level,
 etc...) trying to fill out each and every field. It’s like watching

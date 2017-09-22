@@ -19,9 +19,9 @@ This excellent post in the Harvard Business Review Blog, [Stop Basing Pay on Per
 
 > Performance reviews that are tied to compensation create a blame-oriented culture. It’s well known that they reinforce hierarchy, undermine collegiality, work against cooperative problem solving, discourage straight talk, and too easily become politicized. They’re self-defeating and demoralizing for all concerned. Even high performers suffer, because when their pay bumps up against the top of the salary range, their supervisors have to stop giving them raises, regardless of achievement.
 
-The idea that more pay decreases intrinsic motivation is supported by a lot of science. In [my one year at GitHub post](http://haacked.com/archive/2012/12/07/one-year-at-github.aspx/) I highlighted a talk that referred to a set of such studies: 
+The idea that more pay decreases intrinsic motivation is supported by a lot of science. In [my one year at GitHub post](https://haacked.com/archive/2012/12/07/one-year-at-github.aspx/) I highlighted a talk that referred to a set of such studies: 
 
-> I can pinpoint the moment that was the start of this journey to GitHub, I didn’t know it at the time. It was when I watched the RSA Animate video of Dan Pink’s talk on [The surprising truth about what really motivates us](http://haacked.com/archive/2012/12/07/one-year-at-github.aspx/).
+> I can pinpoint the moment that was the start of this journey to GitHub, I didn’t know it at the time. It was when I watched the RSA Animate video of Dan Pink’s talk on [The surprising truth about what really motivates us](https://haacked.com/archive/2012/12/07/one-year-at-github.aspx/).
 > 
 > Hint: It’s not more money.
 

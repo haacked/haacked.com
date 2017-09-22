@@ -9,7 +9,7 @@ categories:
 redirect_from: "/archive/2013/04/21/better-testers.aspx/"
 ---
 
-In a recent post, [Test Better](http://haacked.com/archive/2013/03/04/test-better.aspx), I suggested that developers can and ought do a better job of testing their own code. *If you haven’t read it, I recommend you read that post first. I’m totally not biased in saying this at all. GO DO IT ALREADY!*
+In a recent post, [Test Better](https://haacked.com/archive/2013/03/04/test-better.aspx), I suggested that developers can and ought do a better job of testing their own code. *If you haven’t read it, I recommend you read that post first. I’m totally not biased in saying this at all. GO DO IT ALREADY!*
 
 There was some interesting pushback in the comments. Some took it to mean that we should get rid of all the testers. Whoa whoa whoa there! Slow down folks.
 
@@ -27,7 +27,7 @@ At almost every position I’ve been at, developers treated testers like second 
 Not every tester mind you. There were always standouts. But I can’t tell you how many times developers would joke that testers are just wannabe developers who didn’t make the cut. The general attitude was that you could replace these folks with [Amazon’s Mechanical
 Turk](https://www.mturk.com/mturk/welcome) and not know the difference.
 
-[![mechanical turk](http://haacked.com/images/haacked_com/WindowsLiveWriter/BetterTesters_105E3/mechanical-turk_thumb.jpg "mechanical turk")](http://haacked.com/images/haacked_com/WindowsLiveWriter/BetterTesters_105E3/mechanical-turk_2.jpg)*[Mechanical Turk](http://en.wikipedia.org/wiki/File:Tuerkischer_schachspieler_racknitz3.jpg "Mechanical Turk")
+[![mechanical turk](https://haacked.com/images/haacked_com/WindowsLiveWriter/BetterTesters_105E3/mechanical-turk_thumb.jpg "mechanical turk")](https://haacked.com/images/haacked_com/WindowsLiveWriter/BetterTesters_105E3/mechanical-turk_2.jpg)*[Mechanical Turk](http://en.wikipedia.org/wiki/File:Tuerkischer_schachspieler_racknitz3.jpg "Mechanical Turk")
 from Wikimedia Commons. Public Domain image.*
 
 And in some cases, it was true. At Microsoft, for example, it’s easier to be hired as a tester than as a developer. And once your foot is in the door, you can eventually make that transition to developer if you’re half way decent.
@@ -73,6 +73,6 @@ This idea of testers as a service is not mine. It’s something Drew told me (he
 
 I love working with someone who knows way more about testing software and building in quality from the start than I do.
 
-This is one of the motivations for me to [test my own code better](http://haacked.com/archive/2013/03/04/test-better.aspx). If I’m going to leverage the skills of a great tester, it’s a matter of pride not to embarrass myself with stupid bugs I should have caught in my own testing. I want to impress these folks with crazy hard bugs I have no idea how to test.
+This is one of the motivations for me to [test my own code better](https://haacked.com/archive/2013/03/04/test-better.aspx). If I’m going to leverage the skills of a great tester, it’s a matter of pride not to embarrass myself with stupid bugs I should have caught in my own testing. I want to impress these folks with crazy hard bugs I have no idea how to test.
 
 Ok, maybe that last bit didn’t come out the way I intended. The point is when you work with experts, you don’t want them spending all their time with softballs. You want their help with the meaty stuff.

@@ -12,7 +12,7 @@ redirect_from: "/archive/2006/06/20/MoreEyeCandyForYourWebsiteOrBlog.aspx/"
 Via a reader, I [learned about
 iBox](http://www.ibegin.com/blog/p_ibox.html "IBox") which is similar to
 [Lightbox
-JS](http://haacked.com/archive/2006/04/05/LightboxJS2.0Released.aspx "Lightbox JS")
+JS](https://haacked.com/archive/2006/04/05/LightboxJS2.0Released.aspx "Lightbox JS")
 but with more features. It boasts the following benefits:
 
 -   Small size. Total javascript is under 11kb.

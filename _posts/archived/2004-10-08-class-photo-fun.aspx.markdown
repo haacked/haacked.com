@@ -13,7 +13,7 @@ Boing](http://www.boingboing.net/2004/10/08/class_photo_fun.html).
 School photos will never be the same. I always thought the point was to
 look miserable.
 
-[![](/images/asianclasssmall.jpg)](http://haacked.com/images/asianclass.jpg)
+[![](/images/asianclasssmall.jpg)](https://haacked.com/images/asianclass.jpg)
 \
 Mrs. Xiang sex-ed class demonstrate a keen knowledge of their studies.
 

@@ -58,7 +58,7 @@ to contribute as much code as I have been.
 ### Why Accept No Pay For Work?
 
 I’ve written on [this a bit
-before](http://haacked.com/archive/2006/01/16/MisperceptionsofOpenSource.aspx "Misperceptions of Open Source").
+before](https://haacked.com/archive/2006/01/16/MisperceptionsofOpenSource.aspx "Misperceptions of Open Source").
 
 > In truth, there are many reasons people work on open source software,
 > and they are not all the same. Many just find it fun to work on

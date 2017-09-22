@@ -12,7 +12,7 @@ redirect_from: "/archive/2007/11/15/what-exactly-are-you-trying-to-prove.aspx/"
 
 Frans Bouma wrote an *interesting* response to my last post, [Writing
 Testable Code Is About Managing
-Complexity](http://haacked.com/archive/2007/11/14/writing-testable-code-is-about-managing-complexity.aspx "My Last Post")
+Complexity](https://haacked.com/archive/2007/11/14/writing-testable-code-is-about-managing-complexity.aspx "My Last Post")
 entitled [Correctness Provability should be the goal, not
 Testability](http://weblogs.asp.net/fbouma/archive/2007/11/14/correctness-provability-should-be-the-goal-not-testability.aspx "Frans talks about code correctness provability").
 
@@ -33,12 +33,12 @@ Certainly no major TDD proponent has ever stated that testing provides
 
 Instead, what you often hear testing proponents talk about is
 *confidence*. For example, in my post [Unit Tests cost More To
-Write](http://haacked.com/archive/2005/12/06/unit-tests-cost-more-to-write.aspx "Unit tests do cost more to write")
+Write](https://haacked.com/archive/2005/12/06/unit-tests-cost-more-to-write.aspx "Unit tests do cost more to write")
 I make the following point (emphasis added):
 
 > They reduce the true cost of software development by [promoting
 > cleaner code with less
-> bugs](http://haacked.com/archive/2004/12/06/unit-testing-benefits.aspx "Benefits of TDD").
+> bugs](https://haacked.com/archive/2004/12/06/unit-testing-benefits.aspx "Benefits of TDD").
 > They reduce the TCO by documenting how code works and by serving as
 > regression tests, giving maintainers **more confidence** to make
 > changes to the system.
@@ -136,7 +136,7 @@ and then check that the program spits out the correct value. How do you
 know your tests are correct? You apply the
 [red-green-refactor](http://codebetter.com/blogs/scott.bellware/archive/2005/11/22/134954.aspx "Red-Green-Refactor")
 cycle along with the [principle of
-triangulation](http://haacked.com/archive/2007/03/12/who-tests-the-tests.aspx "Who Tests the tests").
+triangulation](https://haacked.com/archive/2007/03/12/who-tests-the-tests.aspx "Who Tests the tests").
 ;)
 
 As we see, testing is easy. So how do you *prove* its correctness? Is it
