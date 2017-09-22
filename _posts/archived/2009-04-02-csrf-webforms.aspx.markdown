@@ -10,7 +10,7 @@ redirect_from: "/archive/2009/04/01/csrf-webforms.aspx/"
 ---
 
 In [my last blog
-post](http://haacked.com/archive/2009/04/02/anatomy-of-csrf-attack.aspx "Anatomy of a CSRF attack"),
+post](https://haacked.com/archive/2009/04/02/anatomy-of-csrf-attack.aspx "Anatomy of a CSRF attack"),
 I walked step by step through a [Cross-site request
 forgery](http://en.wikipedia.org/wiki/CSRF "CSRF on Wikipedia") (CSRF)
 attack against an ASP.NET MVC web application. This attack is the result
@@ -33,7 +33,7 @@ version.
 
 To simulate the attack, make sure you are running the sample application
 locally and make sure you are logged in and then click on
-[http://haacked.com/demos/csrf-webform.html](http://demo.haacked.com/security/csrf-webform.html "CSRF for Web Form Demo").
+[https://haacked.com/demos/csrf-webform.html](http://demo.haacked.com/security/csrf-webform.html "CSRF for Web Form Demo").
 
 Here’s the code for that page:
 

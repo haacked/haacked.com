@@ -16,9 +16,9 @@ Tim Heuer already [introspected for
 me](http://timheuer.com/blog/archive/2011/08/24/working-at-microsoft-instrospection.aspx "Working at Microsoft").
 Much of what he writes echoes my own experience, thus leaving me with
 less to write about.
-![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/Four-Years-At-Microsoft_E91A/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Four-Years-At-Microsoft_E91A/wlEmoticon-smile_2.png)
 
-[![microsoft-way](http://haacked.com/images/haacked_com/WindowsLiveWriter/Four-Years-At-Microsoft_E91A/microsoft-way_thumb.jpg "microsoft-way")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Four-Years-At-Microsoft_E91A/microsoft-way_2.jpg)
+[![microsoft-way](https://haacked.com/images/haacked_com/WindowsLiveWriter/Four-Years-At-Microsoft_E91A/microsoft-way_thumb.jpg "microsoft-way")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Four-Years-At-Microsoft_E91A/microsoft-way_2.jpg)
 *It’s the Microsoft way, or the highway. Which is conveniently located
 near Microsoft Way. - [Photo by Todd
 Bishop](http://www.flickr.com/photos/36182550@N08/3347465868/), [CC BY
@@ -28,13 +28,13 @@ Looking back in my archives, I realized I haven’t written a whole lot
 about what it’s like to work here. I do have a few posts such as…
 
 -   My [announcement about being
-    hired](http://haacked.com/archive/2007/09/17/why-is-microsoft-removing-my-mvp-status.aspx "Why Is Microsoft Removing My MVP Status?").
+    hired](https://haacked.com/archive/2007/09/17/why-is-microsoft-removing-my-mvp-status.aspx "Why Is Microsoft Removing My MVP Status?").
     I was really floored by the number of folks who commented (112) to
     wish  me well. Thank you!
 -   Not long after, I blogged about [drinking from the
-    firehose](http://haacked.com/archive/2007/10/26/drinking-from-the-firehose.aspx "Drinking from the firehose").
+    firehose](https://haacked.com/archive/2007/10/26/drinking-from-the-firehose.aspx "Drinking from the firehose").
 -   I blogged again [at the one year
-    mark](http://haacked.com/archive/2008/10/15/one-year-at-microsoft.aspx "One Year at Microsoft").
+    mark](https://haacked.com/archive/2008/10/15/one-year-at-microsoft.aspx "One Year at Microsoft").
 
 Regarding the second post, the funny thing is you never stop drinking
 from the fire hose here. At least I haven’t yet. And that’s both a good
@@ -52,7 +52,7 @@ opportunity to help drive the process to get ASP.NET MVC licensed under
 the [Ms-PL](http://www.opensource.org/licenses/MS-PL "Ms-PL"), a liberal
 OSI certified open source license. Announcing that release [was a happy
 day for
-me](http://haacked.com/archive/2009/04/01/aspnetmvc-open-source.aspx "ASP.NET MVC 1.0 under the Ms-PL").
+me](https://haacked.com/archive/2009/04/01/aspnetmvc-open-source.aspx "ASP.NET MVC 1.0 under the Ms-PL").
 
 Since that time, we’ve shipped four RTM releases of ASP.NET MVC (recall
 that we released ASP.NET MVC 3 twice), each incorporating more and more

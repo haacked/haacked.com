@@ -9,7 +9,7 @@ redirect_from: "/archive/2009/09/12/more-on-the-codeplex-foundation.aspx/"
 ---
 
 In my last post, I presented [a general overview of the CodePlex
-foundation](http://haacked.com/archive/2009/09/11/codeplex-foundation.aspx "What the CodePlex Foundation Means to the .NET OSS Developer")
+foundation](https://haacked.com/archive/2009/09/11/codeplex-foundation.aspx "What the CodePlex Foundation Means to the .NET OSS Developer")
 and talked a bit about what it means to the .NET OSS developer,
 admittedly without much in the way of details. I plan to fix some of
 that in this post.
@@ -86,9 +86,9 @@ Subtext copyright notice! ;)
 And if you’re wondering, “*am I losing control over my project by
 assigning copyright over”*you are not. As I wrote in my post [Who Owns
 The Copyright For An Open Source
-Project](http://haacked.com/archive/2006/01/26/WhoOwnstheCopyrightforAnOpenSourceProject.aspx "Who Owns The Copyright on an Open Source Project")
+Project](https://haacked.com/archive/2006/01/26/WhoOwnstheCopyrightforAnOpenSourceProject.aspx "Who Owns The Copyright on an Open Source Project")
 (part of my series called the [Developer’s Guide To Copyright
-Law](http://haacked.com/archive/2006/01/24/TheDevelopersGuideToCopyrightLaw-Part1.aspx "Developer's Guide To Copyright Law"))
+Law](https://haacked.com/archive/2006/01/24/TheDevelopersGuideToCopyrightLaw-Part1.aspx "Developer's Guide To Copyright Law"))
 you’d be assigning it under the **open source license of your choice**
 (*yes, the CodePlex Foundation is more or less license agnostic. It
 doesn’t require a specific license to join*), which always gives you the

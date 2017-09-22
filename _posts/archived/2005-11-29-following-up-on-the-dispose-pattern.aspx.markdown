@@ -10,7 +10,7 @@ redirect_from: "/archive/2005/11/28/following-up-on-the-dispose-pattern.aspx/"
 
 Alright. Enough about vacations, it’s time to get back to work, so let’s
 dig our teeth into the dispose pattern again. In [a recent
-post](http://haacked.com/archive/2005//11/18/ACloserLookAtDisposePattern.aspx),
+post](https://haacked.com/archive/2005//11/18/ACloserLookAtDisposePattern.aspx),
 I wrote up a potential error I saw in the [Framework Design
 Guidelines](http://www.amazon.com/gp/product/0321246756/103-9411210-6787060?v=glance&n=283155&n=507846&s=books&v=glance).
 

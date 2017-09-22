@@ -124,4 +124,4 @@ This required me to do a bit of hacking so that the HeaderStyle gets
 removed from the render stack and then gets added back later when
 rendering the Header row. If that makes no sense, you'll see what I
 mean. I've put the code for the control
-[here](http://haacked.com/code/TitledDataGrid.zip).
+[here](https://haacked.com/code/TitledDataGrid.zip).

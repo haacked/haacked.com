@@ -43,5 +43,5 @@ So please, if you’re looking for a low commitment easy way to get a toe
 in the waters with open source in general or with NuGet, consider
 helping us with our docs. It’s a great way to get started with OSS. It’s
 how I got my start a long time ago by [contributing docs to RSS
-Bandit](http://haacked.com/archive/2005/03/20/rssbandit-13026-released.aspx "RSS Bandit Released").
+Bandit](https://haacked.com/archive/2005/03/20/rssbandit-13026-released.aspx "RSS Bandit Released").
 

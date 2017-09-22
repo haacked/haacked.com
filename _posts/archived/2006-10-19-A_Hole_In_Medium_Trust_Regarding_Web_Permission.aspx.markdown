@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/10/18/A_Hole_In_Medium_Trust_Regarding_Web_Permiss
 ---
 
 In a [recent post I
-ranted](http://haacked.com/archive/2006/10/17/Why_Oh_Why_Couldnt_WebPermission_Be_Part_Of_Medium_Trust.aspx "Why Can’t WebPermission Be Part Of Medium Trust")
+ranted](https://haacked.com/archive/2006/10/17/Why_Oh_Why_Couldnt_WebPermission_Be_Part_Of_Medium_Trust.aspx "Why Can’t WebPermission Be Part Of Medium Trust")
 about how ASP.NET denies `WebPermission` in Medium Trust. I also
 mentioned that there may be some legitimate reasons to deny this
 permission based on [this hosting

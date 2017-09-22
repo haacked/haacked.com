@@ -12,7 +12,7 @@ categories:
 redirect_from: "/archive/2011/10/03/prevent-forms-authentication-login-page-redirect-when-you-donrsquot-want.aspx/"
 ---
 
-[![redirect](http://haacked.com/images/haacked_com/WindowsLiveWriter/Prevent-Forms-Authentication-Login-Page-_C968/redirect_3.jpg "redirect")](http://www.flickr.com/photos/notjake13/2574028447/ "Construction signs in NY")
+[![redirect](https://haacked.com/images/haacked_com/WindowsLiveWriter/Prevent-Forms-Authentication-Login-Page-_C968/redirect_3.jpg "redirect")](http://www.flickr.com/photos/notjake13/2574028447/ "Construction signs in NY")
 *Go that way instead - Photo by JacobEnos [CC some rights
 reserved](http://creativecommons.org/licenses/by/2.0/deed.en "Creative Commons by Attribution")*
 
@@ -239,8 +239,8 @@ Framework.
 Update: As I stated at the beginning, a new property added in ASP.NET
 4.5 supports doing this.
 
-Tags: [asp.net](http://haacked.com/tags/asp.net/default.aspx),
-[aspnetmvc](http://haacked.com/tags/aspnetmvc/default.aspx),
-[formsauth](http://haacked.com/tags/formsauth/default.aspx),
-[membership](http://haacked.com/tags/membership/default.aspx)
+Tags: [asp.net](https://haacked.com/tags/asp.net/default.aspx),
+[aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
+[formsauth](https://haacked.com/tags/formsauth/default.aspx),
+[membership](https://haacked.com/tags/membership/default.aspx)
 

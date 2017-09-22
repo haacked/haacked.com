@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/05/02/subtextcruisingincruisecontrol.net.aspx/"
 ---
 
-![Cruise Control Logo](http://haacked.com/images/ccnet_logo.gif) With
+![Cruise Control Logo](https://haacked.com/images/ccnet_logo.gif) With
 many thanks to [Simone
 Chiaretta](http://blogs.ugidotnet.org/piyo/ "FoxyBlog") (blog in
 Italian) for his effort, we now have a working

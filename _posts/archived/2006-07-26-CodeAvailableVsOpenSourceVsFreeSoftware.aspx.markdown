@@ -57,12 +57,12 @@ I have written on the topic of Open Source software before if you are
 interested.
 
 -   [Developer’s Guide To Copyright
-    Law](http://haacked.com/archive/2006/01/24/TheDevelopersGuideToCopyrightLaw-Part1.aspx "Copyright Law")
+    Law](https://haacked.com/archive/2006/01/24/TheDevelopersGuideToCopyrightLaw-Part1.aspx "Copyright Law")
 -   [Developer’s Guide To Open Source
-    Licensing](http://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Licensing")
+    Licensing](https://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Licensing")
 -   [Who owns the copyright for open source
-    software](http://haacked.com/archive/2006/01/26/WhoOwnstheCopyrightforAnOpenSourceProject.aspx "Who Owns The Copyright")
+    software](https://haacked.com/archive/2006/01/26/WhoOwnstheCopyrightforAnOpenSourceProject.aspx "Who Owns The Copyright")
 -   [Public Does Not Equal Open
-    Source](http://haacked.com/archive/2006/04/25/OpenSourceDistinctionAndSearch.aspx "Open Source Distinction")
+    Source](https://haacked.com/archive/2006/04/25/OpenSourceDistinctionAndSearch.aspx "Open Source Distinction")
 
 

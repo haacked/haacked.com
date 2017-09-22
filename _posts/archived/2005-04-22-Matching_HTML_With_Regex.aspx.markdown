@@ -14,7 +14,7 @@ needed the RegexOptions.SingleLine option. I didn't need to add the
 (\\s|\\n) everywhere. Here's a corrected post. Thanks Maurice!
 
 Last time I [talked about matching
-HTML](http://haacked.com/archive/2004/10/25/1471.aspx) with regular
+HTML](https://haacked.com/archive/2004/10/25/1471.aspx) with regular
 expressions, I published a regular expression with a couple small bugs.
 The first bug was not my fault, but rather the fault of the rich text
 editor that comes with .TEXT. It was being overly “helpful” when I tried

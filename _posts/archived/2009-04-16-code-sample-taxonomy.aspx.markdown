@@ -15,7 +15,7 @@ I don’t have a clear cut answer in my mind, but maybe you can help me
 formulate one. :)
 
 For example, I recently posted [a sample on my
-blog](http://haacked.com/archive/2009/04/14/using-jquery-grid-with-asp.net-mvc.aspx "Using jQuery Grid with ASP.NET MVC")
+blog](https://haacked.com/archive/2009/04/14/using-jquery-grid-with-asp.net-mvc.aspx "Using jQuery Grid with ASP.NET MVC")
 intended to show how to use jQuery Grid with ASP.NET MVC.
 
 The point of the sample was to demonstrate shaping a JSON result for the

@@ -10,7 +10,7 @@ redirect_from: "/archive/2004/06/02/should-language-changes-break-existing-code.
 
 I received a lot of comments (a lot for me) on my post entitled ["The
 Difficulties of Language
-Design"](http://haacked.europe.webmatrixhosting.net/archive/2004/05/27/492.aspx).
+Design"](https://haacked.com/archive/2004/05/27/492.aspx).
 
 I wanted to follow up on one interesting comment by a reader named
 Jocelyn:

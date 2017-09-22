@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/05/30/UnitTestingDataAccessCodeWithTheStubDataRead
 ---
 
 In spirit, this is a follow-up to my recent post on [unit-testing email
-functionality](http://haacked.com/archive/2006/05/30/ATestingMailServerForUnitTestingEmailFunctionality.aspx "Testing Mail Server").
+functionality](https://haacked.com/archive/2006/05/30/ATestingMailServerForUnitTestingEmailFunctionality.aspx "Testing Mail Server").
 
 This probably doesn’t apply to those of you who have reached O/RM
 nirvana with such tools as NHibernate etc... ADO is probably just a
@@ -111,7 +111,7 @@ code makes sure to test that the `NextResult` functions properly.
 
 The above code snippets above are excerpts from the unit tests I wrote
 for this code. Although this code is more complete than the [mail server
-example](http://haacked.com/archive/2006/05/30/ATestingMailServerForUnitTestingEmailFunctionality.aspx "Testing Mail Server"),
+example](https://haacked.com/archive/2006/05/30/ATestingMailServerForUnitTestingEmailFunctionality.aspx "Testing Mail Server"),
 there are a couple methods that haven’t been well tested because I have
 never run into a situation in which I needed them. I put in various
 comments so feel free to improve this and let me know about it. This
@@ -120,7 +120,7 @@ in our [Subversion
 repository](http://subtextproject.com/Home/About/ViewTheCode/tabid/116/Default.aspx "View the Code").
 
 You can [download the
-code](http://haacked.com/code/StubDataReader.zip "StubDataReader code")
+code](https://haacked.com/code/StubDataReader.zip "StubDataReader code")
 here , but as before, I do not guarantee I will update the link to have
 the latest code. You can access our Subversion repository for the
 latest.

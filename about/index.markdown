@@ -16,12 +16,12 @@ case you were wondering, not that I have any reason to believe you were,
 *Haacked* is *not* my real name.
 
 In the offline world, *(which some prefer to call the “real world”)*,
-people tend to call me [Phil Haack](http://haacked.com/ "home page")
+people tend to call me [Phil Haack](https://haacked.com/ "home page")
 *(pronounced, you guessed it, “hack”)* — unless of course they are
 calling me more colorful names as is sometimes deserved.
 
 *Haacked* is simply my [blogger
-handle](http://haacked.com/archive/2005/03/12/what-is-your-blogger-handle.aspx "What’s your blogger handle?")
+handle](https://haacked.com/archive/2005/03/12/what-is-your-blogger-handle.aspx "What’s your blogger handle?")
 *(creative, eh?)*. I also go by [@haacked](http://twitter.com/haacked)
 on Twitter
 
@@ -33,7 +33,7 @@ make it even more awesome.
 ## Why I do it
 
 Ever since I first laid my hands on [my first
-computer](http://haacked.com/archive/2005/06/06/my-first-computer.aspx "This was my first computer"),
+computer](https://haacked.com/archive/2005/06/06/my-first-computer.aspx "This was my first computer"),
 a TRS-80, *aka Trash 80*, I’ve loved computers and all the wonderful
 things you can make them do such as printing `Care to play a game?` in
 an infinite loop.
@@ -54,7 +54,7 @@ Oh well. Read my blog for a while and you’ll find I’m fanatical about
 playing soccer.
 
 Living in beautiful Bellevue, WA, I take every occasion to go hiking and
-camping. I’ve also been to [Burning Man](http://haacked.com/archive/2004/07/18/burningmanphotopedia.aspx/ "Burningman Photos")
+camping. I’ve also been to [Burning Man](https://haacked.com/archive/2004/07/18/burningmanphotopedia.aspx/ "Burningman Photos")
 three times, and would love to make it a habit if I could.
 
 The picture above is from my first time at Burning Man, paddling away

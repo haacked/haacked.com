@@ -10,7 +10,7 @@ redirect_from: "/archive/2006/08/14/PicturesOfTheDay.aspx/"
 
 Since my blog has been getting a bit geek heavy for my wife’s taste
 ([see
-comment](http://haacked.com/archive/2006/08/12/ISwearIDidn8217tCommissionThis.aspx#feedback "Haackfiti")
+comment](https://haacked.com/archive/2006/08/12/ISwearIDidn8217tCommissionThis.aspx#feedback "Haackfiti")
 - though she now has some greek cred for having a
 [gravatar](http://gravatar.com/ "gravatar")) I thought I would try out
 [Tim Heuer’s](http://www.timheuer.com/blog/ "Method ~ of ~ failed")

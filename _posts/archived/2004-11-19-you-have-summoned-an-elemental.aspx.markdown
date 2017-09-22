@@ -15,7 +15,7 @@ topic (some blather about Jury duty bla bla bla). *For 50 bonus points,
 the question was what game featured the quote “You have summoned an
 elemental”?*
 
-![](http://haacked.com/images/haacked_com/archon.jpg)My winning answer
+![](https://haacked.com/images/haacked_com/archon.jpg)My winning answer
 was *Archon*, thus securing the 50 pts redeemable for fame, fortune, and
 street cred. Interestingly enough, the question summoned a swarm of
 geeks reminiscing about the *good ol’ days* of gaming on the Commodore
@@ -36,7 +36,7 @@ to support the cause.
 As can be seen by such communities, the C64 inspired huge loyalty among
 its fans back in the day which is still going strong. Heck even I joined
 in the computer worship with my [C64 formatter for Rss
-Bandit](http://haacked.com/archive/2004/04/23/c64-formatter-for-rssbandit.aspx "C64 Formatter").
+Bandit](https://haacked.com/archive/2004/04/23/c64-formatter-for-rssbandit.aspx "C64 Formatter").
 Of course once I upgraded to the Amiga 500, my Commodore 128 turned into
 a large paperweight. At that point I was a slave to Speedball, Pirates!,
 and the Bard’s Tale. Not to mention the Ultima and Phantasie series.

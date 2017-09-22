@@ -15,13 +15,13 @@ As of today, I’ve been a GitHub employee for one year and I gotta tell
 you…
 
 ![Feels
-Goodman](http://haacked.com/images/haacked_com/WindowsLiveWriter/cde4ace51f3b_117EC/feels-goodman_3.jpg "Actor John Goodman has fun during an interview on the field at Busch Stadium before a game between the Cincinnati Reds and the St. Louis Cardinals in St. Louis on  June 7, 2006. (UPI Photo/Bill Greenblatt)")
+Goodman](https://haacked.com/images/haacked_com/WindowsLiveWriter/cde4ace51f3b_117EC/feels-goodman_3.jpg "Actor John Goodman has fun during an interview on the field at Busch Stadium before a game between the Cincinnati Reds and the St. Louis Cardinals in St. Louis on  June 7, 2006. (UPI Photo/Bill Greenblatt)")
 
 Please forgive me a brief moment to gush, but I really love this
 company. I  work with a lot of great people. Crazy people for sure, but
 great. I love them all. Just look at these crazy folks!
 
-[![github-summit-late-2012](http://haacked.com/images/haacked_com/WindowsLiveWriter/cde4ace51f3b_117EC/github-summit-late-2012_thumb.jpg "github-summit-late-2012")](http://haacked.com/images/haacked_com/WindowsLiveWriter/cde4ace51f3b_117EC/github-summit-late-2012_2.jpg)
+[![github-summit-late-2012](https://haacked.com/images/haacked_com/WindowsLiveWriter/cde4ace51f3b_117EC/github-summit-late-2012_thumb.jpg "github-summit-late-2012")](https://haacked.com/images/haacked_com/WindowsLiveWriter/cde4ace51f3b_117EC/github-summit-late-2012_2.jpg)
 
 I once told a friend that I’ve long had the idea to start a company that
 would be my ideal work environment.
@@ -155,9 +155,9 @@ and realized that GitHub embodies the key principles that Dan Pink
 mentioned. That inspired me to try and figure out a way I could add
 value to GitHub. Before long, I started growing these tentacles and
 [joined
-GitHub](http://haacked.com/archive/2011/12/07/hello-github.aspx "Hello GitHub").
+GitHub](https://haacked.com/archive/2011/12/07/hello-github.aspx "Hello GitHub").
 
-[![octohaack](http://haacked.com/images/haacked_com/WindowsLiveWriter/cde4ace51f3b_117EC/octohaack_thumb.jpg "octohaack")](http://haacked.com/images/haacked_com/WindowsLiveWriter/cde4ace51f3b_117EC/octohaack_2.jpg)
+[![octohaack](https://haacked.com/images/haacked_com/WindowsLiveWriter/cde4ace51f3b_117EC/octohaack_thumb.jpg "octohaack")](https://haacked.com/images/haacked_com/WindowsLiveWriter/cde4ace51f3b_117EC/octohaack_2.jpg)
 
 After a year at GitHub, I’ve noticed is that I’m much less stressed out
 now, much healthier, and spend a lot more time with the wife and kids
@@ -167,7 +167,7 @@ A big part of this is due to the [family
 friendly](https://github.com/blog/1242-octokittens-everywhere "Octokittens everywhere")
 and balanced work environment that GitHub’s approach results in. I still
 work a lot. After all, [I love to
-code](http://haacked.com/archive/2008/12/29/i-love-to-code.aspx "I love to code").
+code](https://haacked.com/archive/2008/12/29/i-love-to-code.aspx "I love to code").
 But I also spend more of my work time actually, you know, working rather
 than paying “work tax.” Jason Fried of 37 signals has a great TEDx talk
 entitled [Why work doesn’t happen at

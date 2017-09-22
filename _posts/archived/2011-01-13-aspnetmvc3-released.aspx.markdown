@@ -20,7 +20,7 @@ what’s to come in the year ahead.
 Today, there’s one less thing to anticipate as we announce the final
 release of ASP.NET MVC 3 and NuGet 1.0!
 
-[![double-rainbow](http://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NET-MVC-3-RTM_11308/double-rainbow_3.jpg "double-rainbow")](http://www.flickr.com/photos/nicholas_t/281820290/ "Double Rainbow: CC by attribution")
+[![double-rainbow](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NET-MVC-3-RTM_11308/double-rainbow_3.jpg "double-rainbow")](http://www.flickr.com/photos/nicholas_t/281820290/ "Double Rainbow: CC by attribution")
 \
 *Oh yeah, this never gets old.*
 
@@ -92,11 +92,11 @@ packages, so what are you waiting for!?
 -   [Introducing the NuGet
     Gallery](http://blog.davidebbo.com/2011/01/introducing-nuget-gallery.html "Introducing the NuGet Gallery")
 -   [Uploading Packages to the NuGet
-    Gallery](http://haacked.com/archive/2011/01/12/uploading-packages-to-the-nuget-gallery.aspx "Uploading Packages")
+    Gallery](https://haacked.com/archive/2011/01/12/uploading-packages-to-the-nuget-gallery.aspx "Uploading Packages")
 
 At this point I’m obligated to point out that everything about NuGet is
 open source and we’re [always looking for
-contributors](http://haacked.com/archive/2010/10/14/nupack-up-for-grabs-items.aspx "NuGet UpForGrabs Items").
+contributors](https://haacked.com/archive/2010/10/14/nupack-up-for-grabs-items.aspx "NuGet UpForGrabs Items").
 If you’re interested in contributing, but are finding impediments to it,
 let us know what we can improve to make it easier to get involved.
 Here’s the full list of OSS projects that make up the NuGet client and

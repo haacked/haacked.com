@@ -21,7 +21,7 @@ However, I do follow a few rules to make sure that this is as pure as possible.
 
 First, I always try and test against a local database. Ideally, I will script the schema and lookup data so that my unit tests will create the database. MbUnit has an attribute that allows you to perform a setup operation on assembly load and teardown when the tested assembly unloads. That would be a good place to set up the database so you don’t have to do it for every test. However, often, I set up the database by hand once and let my tests just assume a clean database is already there.
 
-Except for lookup data, my tests create all the data they will use using whichever API and objects I am testing. Each test runs within a COM+ 1.5 transaction using a [RollBack attribute](http://haacked.com/archive/2005/06/10/4580.aspx) so that no changes are stored after each test. This ensures that each test is testing against the same exact database.
+Except for lookup data, my tests create all the data they will use using whichever API and objects I am testing. Each test runs within a COM+ 1.5 transaction using a [RollBack attribute](https://haacked.com/archive/2005/06/10/4580.aspx) so that no changes are stored after each test. This ensures that each test is testing against the same exact database.
 
 This is the reason I can be a bit lazy and set up the database by hand, since the none of the tests will change the data in the database. Although I would prefer to have a no-touch approach where the unit tests set up the database. For that, there is
 [TestFu](http://www.testdriven.com/modules/mylinks/visit.php?cid=4&lid=499&PHPSESSID=868711b3b596c3eeed313b5d7a2cbac7) which is now part of [TestDriven.Net](http://www.testdriven.com/).

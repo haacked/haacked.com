@@ -12,11 +12,11 @@ redirect_from: "/archive/2008/04/21/defining-asp.net-mvc-routes-and-views-in-iro
 ---
 
 In a [recent
-post](http://haacked.com/archive/2008/04/18/dynamic-language-dsl-vs-xml-configuration.aspx "Dynamic Language DSL vs XML Config")
+post](https://haacked.com/archive/2008/04/18/dynamic-language-dsl-vs-xml-configuration.aspx "Dynamic Language DSL vs XML Config")
 I expressed a few thoughts on using a DSL instead of an XML config file.
 I followed that up with a technical look at [monkey patching CLR objects
 using
-IronRuby](http://haacked.com/archive/2008/04/18/monkey-patching-clr-objects.aspx "Monkey Patching"),
+IronRuby](https://haacked.com/archive/2008/04/18/monkey-patching-clr-objects.aspx "Monkey Patching"),
 which explores a tiny bit of interop.
 
 These posts were precursors to this post in which I apply these ideas to
@@ -25,7 +25,7 @@ IronRuby. Also included in this download is an incomplete implementation
 of an IronRuby view engine. I haven't yet implemented layouts.
 
 [**IronRubyMvcDemo.zip Download (4.93
-MB)**](http://haacked.com/code/IronRubyMvcDemo.zip "IronRubyMvcDemo.zip")
+MB)**](https://haacked.com/code/IronRubyMvcDemo.zip "IronRubyMvcDemo.zip")
 
 This implementation works with the latest [CodePlex drop of
 MVC](http://www.codeplex.com/aspnet/Release/ProjectReleases.aspx?ReleaseId=12640 "CodePlex release").

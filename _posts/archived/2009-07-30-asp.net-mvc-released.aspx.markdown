@@ -12,10 +12,10 @@ redirect_from: "/archive/2009/07/29/asp.net-mvc-released.aspx/"
 ---
 
 UPDATE: This post is outdated. ASP.NET MVC 2 RTM was [released in
-March](http://haacked.com/archive/2010/03/11/aspnet-mvc2-released.aspx "ASP.NET MVC 2 RTM").
+March](https://haacked.com/archive/2010/03/11/aspnet-mvc2-released.aspx "ASP.NET MVC 2 RTM").
 
 Four and a half months after my team [released ASP.NET MVC
-1.0](http://haacked.com/archive/2009/03/18/aspnet-mvc-rtw.aspx "ASP.NET MVC 1.0"),
+1.0](https://haacked.com/archive/2009/03/18/aspnet-mvc-rtw.aspx "ASP.NET MVC 1.0"),
 I am very happy to announce that the release of our first Preview of
 version 2 of ASP.NET MVC is now [**available for
 download**](http://go.microsoft.com/fwlink/?LinkID=154409 "ASP.NET MVC 2 Preview 1").
@@ -98,6 +98,6 @@ forums](http://forums.asp.net/1146.aspx "ASP.NET MVC Forums")**!
 MVC 2 and not ASP.NET MVC 2.0 as some might expect. Maybe it’s part of a
 new marketing initiative to get rid of dots in product names. I guess
 they didn’t read my [Law of Demeter
-post](http://haacked.com/archive/2009/07/14/law-of-demeter-dot-counting.aspx "Law of Demeter")
+post](https://haacked.com/archive/2009/07/14/law-of-demeter-dot-counting.aspx "Law of Demeter")
 to understand it’s not about reducing dots ;).
 

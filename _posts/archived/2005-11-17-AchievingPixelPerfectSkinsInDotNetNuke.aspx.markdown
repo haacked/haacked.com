@@ -27,10 +27,10 @@ The examples below present a Semantic Link Module I wrote (it uses an
 unordered list instead of a table to render the link list) while in
 normal content mode and while logged in as an administrator.
 
-![](http://haacked.com/images/BeforeLinkModule.Png) \
+![](https://haacked.com/images/BeforeLinkModule.Png) \
  Figure 1: Normal View
 
-![](http://haacked.com/images/ActionOptions.Png) \
+![](https://haacked.com/images/ActionOptions.Png) \
  Figure 2: Editable View
 
 The container that wraps this module has to have a placeholder for the
@@ -102,5 +102,5 @@ did not go to the extra trouble to apply this technique to a skin
 object. It is simply a custom control.
 
 The source for this is very small and can be [downloaded
-here](http://haacked.com/images/ContainerOptions.zip).
+here](https://haacked.com/images/ContainerOptions.zip).
 

@@ -10,7 +10,7 @@ categories:
 redirect_from: "/archive/2009/03/17/aspnet-mvc-rtw.aspx/"
 ---
 
-![newdotnetlogo\_2\_thumb](http://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC1.0Released_D6B8/newdotnetlogo_2_thumb_3.png "newdotnetlogo_2_thumb")
+![newdotnetlogo\_2\_thumb](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC1.0Released_D6B8/newdotnetlogo_2_thumb_3.png "newdotnetlogo_2_thumb")
 Today I’m happy to write that ASP.NET MVC 1.0 RTW (Release To Web) is
 [**now officially
 released**](http://go.microsoft.com/fwlink/?LinkId=144444 "ASP.NET MVC 1.0 Download Details Page").
@@ -24,16 +24,16 @@ everything was in order for the release.
 Woohoo!
 
 It’s been nearly a year and a half since I [joined
-Microsoft](http://haacked.com/archive/2007/09/17/why-is-microsoft-removing-my-mvp-status.aspx "Joining Microsoft")
+Microsoft](https://haacked.com/archive/2007/09/17/why-is-microsoft-removing-my-mvp-status.aspx "Joining Microsoft")
 and started working on it and what a ride it’s been.
 
 Some highlights during that time:
 
 -   We [shipped our unit
-    tests](http://haacked.com/archive/2008/04/17/asp.net-mvc-preview-of-a-preview.aspx "Preview of a preview")
+    tests](https://haacked.com/archive/2008/04/17/asp.net-mvc-preview-of-a-preview.aspx "Preview of a preview")
     using a third party OSS mock framework on CodePlex.
 -   We [bundled
-    jQuery](http://haacked.com/archive/2008/09/30/jquery-and-asp.net-mvc.aspx "jQuery and ASP.NET MVC"),
+    jQuery](https://haacked.com/archive/2008/09/30/jquery-and-asp.net-mvc.aspx "jQuery and ASP.NET MVC"),
     a third party OSS JavaScript framework, with ASP.NET MVC itself.
 -   I gave my [first PDC
     talk](http://channel9.msdn.com/pdc2008/PC21/ "My first PDC talk")
@@ -47,20 +47,20 @@ on user feedback. All in all, I counted **10 releases**:
 1.  [December 2007
     CTP](http://weblogs.asp.net/scottgu/archive/2007/12/09/asp-net-3-5-extensions-ctp-preview-released.aspx "ScottGu announces December CTP")
 2.  [Preview
-    2](http://haacked.com/archive/2008/03/10/thoughts-on-asp.net-mvc-preview-2-and-beyond.aspx "Thoughts on Preview 2")
+    2](https://haacked.com/archive/2008/03/10/thoughts-on-asp.net-mvc-preview-2-and-beyond.aspx "Thoughts on Preview 2")
 3.  [Preview 2.5 (April CodePlex
-    release)](http://haacked.com/archive/2008/04/17/asp.net-mvc-preview-of-a-preview.aspx "Preview of a Preview")
+    release)](https://haacked.com/archive/2008/04/17/asp.net-mvc-preview-of-a-preview.aspx "Preview of a Preview")
 4.  [Preview
-    3](http://haacked.com/archive/2008/05/12/sp1-beta-and-its-effect-on-mvc.aspx "Preview 3")
+    3](https://haacked.com/archive/2008/05/12/sp1-beta-and-its-effect-on-mvc.aspx "Preview 3")
 5.  [CodePlex Preview
-    4](http://haacked.com/archive/2008/07/16/aspnetmvc-codeplex-preview4.aspx "CodePlex Preview 4")
+    4](https://haacked.com/archive/2008/07/16/aspnetmvc-codeplex-preview4.aspx "CodePlex Preview 4")
 6.  [Preview
-    5](http://haacked.com/archive/2008/08/29/asp.net-mvc-codeplex-preview-5-released.aspx "Preview 5")
-7.  [Beta](http://haacked.com/archive/2008/10/16/aspnetmvc-beta-release.aspx "Beta")
+    5](https://haacked.com/archive/2008/08/29/asp.net-mvc-codeplex-preview-5-released.aspx "Preview 5")
+7.  [Beta](https://haacked.com/archive/2008/10/16/aspnetmvc-beta-release.aspx "Beta")
 8.  [RC
-    1](http://haacked.com/archive/2009/01/27/aspnetmvc-release-candidate.aspx "Release Candidate")
+    1](https://haacked.com/archive/2009/01/27/aspnetmvc-release-candidate.aspx "Release Candidate")
 9.  [RC
-    2](http://haacked.com/archive/2009/03/03/aspnetmvc-changes-for-rc2.aspx "Release Candidate 2")
+    2](https://haacked.com/archive/2009/03/03/aspnetmvc-changes-for-rc2.aspx "Release Candidate 2")
 10. RTM!
 
 A great way to learn about ASP.NET MVC is to go to the website,

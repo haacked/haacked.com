@@ -10,11 +10,11 @@ Today Jeff Atwood commemorates [10 years of CodingHorror.com](http://blog.coding
 
 But as I read that a thought occurred to me. Haven't I been blogging as long as Jeff, albeit much less successfully? I mean, just look at the intro to his post and compare it to the intro to this post. His is way better. WAY BETTER!
 
-And sure enough, I started this very blog you are reading (thank you for your patronage!) one day after [CodingHorror posted his first blog post](http://blog.codinghorror.com/recommended-reading-for-developers/). I started on February 3, 2004 with this exciting post about, [well, the blog itself](http://haacked.com/archive/2004/02/03/the-new-digs.aspx/).
+And sure enough, I started this very blog you are reading (thank you for your patronage!) one day after [CodingHorror posted his first blog post](http://blog.codinghorror.com/recommended-reading-for-developers/). I started on February 3, 2004 with this exciting post about, [well, the blog itself](https://haacked.com/archive/2004/02/03/the-new-digs.aspx/).
 
-Jeff and I didn't know each other back then but we became friends through blogging and at one point I tried to hire him to a company I co-founded but he wisely said no and went on to great things. __This is why [I love blogging](http://haacked.com/archive/2004/08/18/man-i-love-blogging.aspx/). The community and serendipitous interactions that result have been a big part of my growth in the last decade__.
+Jeff and I didn't know each other back then but we became friends through blogging and at one point I tried to hire him to a company I co-founded but he wisely said no and went on to great things. __This is why [I love blogging](https://haacked.com/archive/2004/08/18/man-i-love-blogging.aspx/). The community and serendipitous interactions that result have been a big part of my growth in the last decade__.
 
-Yes, there's nothing more boring than blogging about blogging (other than [blogging about blogging about blogging](http://haacked.com/archive/2005/03/13/Blogging-About-Blogging-AboutBlogging.aspx/)). As I'm doing right now.
+Yes, there's nothing more boring than blogging about blogging (other than [blogging about blogging about blogging](https://haacked.com/archive/2005/03/13/Blogging-About-Blogging-AboutBlogging.aspx/)). As I'm doing right now.
 
 But this blog doesn't contain the full extent of my blogging history. I had a blog long before this one. I was reminded about it when Zach Holman wrote a great post entitled [Only 90s Web Developers Remember This](http://zachholman.com/posts/only-90s-developers/). I'm not yet 90 years old, but I do remember the practices he highlights. In fact, my previous blog perpetrated some of them.
 

@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/11/20/tip_jar_concatenating_a_delimited_string.asp
 ---
 
 Update: I also wrote [a more generic
-version](http://haacked.com/archive/2006/11/24/Concatenating_Delimited_Strings_With_Generic_Delegates.aspx "Concatenating Delimited Strings")
+version](https://haacked.com/archive/2006/11/24/Concatenating_Delimited_Strings_With_Generic_Delegates.aspx "Concatenating Delimited Strings")
 using anonymous delegates for .NET 2.0 as a followup to this post.
 
 Here’s one for the tip jar. Every now and then I find myself concatening

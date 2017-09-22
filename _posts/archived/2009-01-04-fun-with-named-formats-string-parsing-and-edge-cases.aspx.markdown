@@ -20,7 +20,7 @@ behavior of the code.
 
 UPDATE: By the way, after you read this post, check out [the post in
 which I revisit this
-topic](http://haacked.com/archive/2009/01/14/named-formats-redux.aspx "Named Formats Redux")
+topic](https://haacked.com/archive/2009/01/14/named-formats-redux.aspx "Named Formats Redux")
 and add two more implementations to check out.
 
 Recently I found myself in a situation where I wanted to format a string
@@ -133,7 +133,7 @@ iterations, and then divides by 1000 to get the number of milliseconds
 each method takes. Here’s the result:
 
 ![format
-perf](http://haacked.com/images/haacked_com/WindowsLiveWriter/FunWithNamedFormatsStringParsingandEdgeC_B4E3/format-perf_3.png "format perf")
+perf](https://haacked.com/images/haacked_com/WindowsLiveWriter/FunWithNamedFormatsStringParsingandEdgeC_B4E3/format-perf_3.png "format perf")
 
 Notice that James’s method is 43 times slower than Hanselman’s. Even so,
 it only takes 4.4 milliseconds. So if you don’t use it in a tight loop
@@ -149,7 +149,7 @@ before. After implementing my own version, I ran the performance test
 and saw the following result.
 
 ![haackformat
-perf](http://haacked.com/images/haacked_com/WindowsLiveWriter/FunWithNamedFormatsStringParsingandEdgeC_B4E3/haackformat-perf_3.png "haackformat perf")
+perf](https://haacked.com/images/haacked_com/WindowsLiveWriter/FunWithNamedFormatsStringParsingandEdgeC_B4E3/haackformat-perf_3.png "haackformat perf")
 
 Nice! by removing the overhead of using a regular expression in this
 particular case, my implementation is faster than the other
@@ -160,7 +160,7 @@ slow and right.
 One drawback to not using regular expressions is that the code for my
 implementation is a bit long. I include the entire source here. I’ve
 also **[zipped up the code for this
-solution](http://haacked.com/code/NamedStringFormatSolution.zip "Named String Format Solution")**
+solution](https://haacked.com/code/NamedStringFormatSolution.zip "Named String Format Solution")**
 which includes unit tests as well as the implementations of the other
 methods I tested, so you can see which tests they pass and which they
 don’t pass.

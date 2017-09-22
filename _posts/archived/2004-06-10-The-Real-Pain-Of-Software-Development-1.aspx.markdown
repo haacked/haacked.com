@@ -11,7 +11,7 @@ categories:
 redirect_from: "/archive/2004/06/09/The-Real-Pain-Of-Software-Development-1.aspx/"
 ---
 
-UPDATE: I finally followed up with [part 2](http://haacked.com/archive/2012/04/15/The-Real-Pain-Of-Software-Development-2/),
+UPDATE: I finally followed up with [part 2](https://haacked.com/archive/2012/04/15/The-Real-Pain-Of-Software-Development-2/),
 only 8 years later.
 
 ![Typist In Pain](/images/TypingPain.jpg)When you ask the average programmer what problems plague the practice of building software,
@@ -54,4 +54,4 @@ Some references of note:
 
 - [Keymileage](http://www.integrity.com/homes/tomandkaren/Keymileage/) calculates how far your fingers must travel to type something.
 - [The Typing Injury FAQ](http://www.tifaq.com/) has comprehensive     information about RSI and typing injuries.
-- [Part 2](http://haacked.com/archive/2012/04/15/The-Real-Pain-Of-Software-Development-2.aspx/)
+- [Part 2](https://haacked.com/archive/2012/04/15/The-Real-Pain-Of-Software-Development-2.aspx/)

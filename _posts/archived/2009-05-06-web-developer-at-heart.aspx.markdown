@@ -14,7 +14,7 @@ takes to become a successful developer. I started to respond,
 > I don’t know. Why don’t you go ask a successful developer?
 
 [![web - credits:
-http://www.sxc.hu/photo/885310](http://haacked.com/images/haacked_com/WindowsLiveWriter/ImaWebDeveloperAtHeart_1287B/web_thumb.jpg "web - credits: http://www.sxc.hu/photo/885310")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ImaWebDeveloperAtHeart_1287B/web_2.jpg)
+http://www.sxc.hu/photo/885310](https://haacked.com/images/haacked_com/WindowsLiveWriter/ImaWebDeveloperAtHeart_1287B/web_thumb.jpg "web - credits: http://www.sxc.hu/photo/885310")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ImaWebDeveloperAtHeart_1287B/web_2.jpg)
 But then I thought, that’s kind of snarky, isn’t it? And who am I
 kidding with all that false modesty? After all, the concept of a “clever
 hack” was named after me, but the person who came up with it didn’t have
@@ -80,7 +80,7 @@ documentation.
 
 That’s where I started. I wrote an article for the docs, [getting
 started with RSS
-Bandit](http://haacked.com/articles/getting-started-with-rss-bandit.aspx "Getting Started With RSS Bandit").
+Bandit](https://haacked.com/articles/getting-started-with-rss-bandit.aspx "Getting Started With RSS Bandit").
 Dare took a notice and asked if I would contribute to the documentation,
 which I gladly agreed to do. He gave me commit access (I believe I was
 the third after Dare and Torsten to get commit rights) and started
@@ -123,7 +123,7 @@ I realized then, that I’m just a web developer at heart and I’d rather
 [make web, not
 war](http://www.youtube.com/watch?v=cCApcSq1ke0 "Make Web, not war"). It
 was around that time that [I started the Subtext
-project](http://haacked.com/archive/2005/05/04/announcing-subtext.aspx "Announcing Subtext")
+project](https://haacked.com/archive/2005/05/04/announcing-subtext.aspx "Announcing Subtext")
 where I felt more in my element working on a web application.
 Eventually, I stopped using RSS Bandit preferring a web based solution
 in Google Reader, ironically, because the state of my feeds is always

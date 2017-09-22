@@ -40,7 +40,7 @@ a maze consisting of two parallel lines.
 But recent research points out that the belief in innate talent is
 “lacking in hard evidence to substantiate it” as well. I wrote about
 this topic recently in my post, [The Question Of Innate
-Talent](http://haacked.com/archive/2006/12/05/The_Question_Of_Innate_Talent.aspx "Question of Innate Talent").
+Talent](https://haacked.com/archive/2006/12/05/The_Question_Of_Innate_Talent.aspx "Question of Innate Talent").
 
 **So how do I reconcile these seemingly contradictory statements?**
 
@@ -64,7 +64,7 @@ to a person’s performance**. Exactly what the studies cited by Atwood
 support. **However, what does have an impact is effortful study**.
 
 [![Effortful
-study](http://haacked.com/images/haacked_com/WindowsLiveWriter/BetterProgrammingByProgrammingBetter_AD7E/Effortfulstudying_thumb2.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/BetterProgrammingByProgrammingBetter_AD7E/Effortfulstudying4.jpg)
+study](https://haacked.com/images/haacked_com/WindowsLiveWriter/BetterProgrammingByProgrammingBetter_AD7E/Effortfulstudying_thumb2.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/BetterProgrammingByProgrammingBetter_AD7E/Effortfulstudying4.jpg)
 
 This makes a ton of sense to me. Typically, *experience* in any field,
 especially software development, often means solving similar problems

@@ -14,7 +14,7 @@ Groups](http://groups.google.com/group/feedburner/web/known-issues-workarounds "
 It’s finally resolved.
 
 Ever since I first [started using
-FeedBurner](http://haacked.com/archive/2007/03/08/Burning_My_Feeds.aspx "Burning My Feeds"),
+FeedBurner](https://haacked.com/archive/2007/03/08/Burning_My_Feeds.aspx "Burning My Feeds"),
 I was very happy with the service. It was exactly the type of service I
 like, fire and forget and it just worked. My bandwidth usage went down
 and I gained access to a lot of interesting stats about my feed.

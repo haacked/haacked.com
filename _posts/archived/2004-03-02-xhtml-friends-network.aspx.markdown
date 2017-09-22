@@ -9,7 +9,7 @@ redirect_from: "/archive/2004/03/01/xhtml-friends-network.aspx/"
 ---
 
 A while ago, I posted an
-[entry](http://haacked.europe.webmatrixhosting.net/archive/2004/02/18/201.aspx "Better Social Networking through Blogistry")
+[entry](https://haacked.com/archive/2004/02/18/201.aspx "Better Social Networking through Blogistry")
 imagining the next generation of Rss Aggregators and blogging engines
 that would in effect, create a better social network than Frienster,
 Tribe, etc...

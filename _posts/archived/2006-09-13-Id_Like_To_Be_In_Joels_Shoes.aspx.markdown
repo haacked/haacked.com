@@ -10,12 +10,12 @@ redirect_from: "/archive/2006/09/12/Id_Like_To_Be_In_Joels_Shoes.aspx/"
 
 Of course that assumes that Joel wears a size 9 and a half.
 
-![Shoes](http://haacked.com/images/haacked_com/WindowsLiveWriter/IdLikeToBeInJoelsShoes_F874/BlackBoots6.jpg)
+![Shoes](https://haacked.com/images/haacked_com/WindowsLiveWriter/IdLikeToBeInJoelsShoes_F874/BlackBoots6.jpg)
 
 Once again the ***Joel Cycle*** takes another turn. The cycle goes something like this:
 
 -   Joel [critiques something or other](http://www.joelonsoftware.com/items/2006/09/12.html).
--   Bloggers counter Joel’s claims, many with [thoughtful counter  arguments](http://haacked.com/archive/2006/09/12/Joel_On_Ruby_Performance.aspx).
+-   Bloggers counter Joel’s claims, many with [thoughtful counter  arguments](https://haacked.com/archive/2006/09/12/Joel_On_Ruby_Performance.aspx).
 -   Soon a flood of comments and posts start to turn a bit ugly and form around two camps: The *Joel is an idiot why do you even read him?* camp and the *Joel is successful, what have you ever done that you can disagree with him?* camp.
 -   Rinse and Repeat
 
@@ -33,7 +33,7 @@ If I were to blog something stupid (and I’m not saying he did, but just for th
 The other reaction Joel commonly gets is the *I don’t know why y’all are reading him, I gave that shit up a long time ago* reaction. I also don’t understand this reaction. For the most part, I think Joel’s signal to noise ratio is very high, and he’s written some really top notch articles on his blog. Just because he says a few things from time to
 time that you disagree with doesn’t mean you should throw the baby out with the bath water. Sure he comes across as a bit arrogant, but he’s that good.
 
-The last question I often see is *Why is everyone paying Joel so much attention?* I addressed this very question before in my post, [What Is It About Joel?](http://haacked.com/archive/2005/08/18/9543.aspx).
+The last question I often see is *Why is everyone paying Joel so much attention?* I addressed this very question before in my post, [What Is It About Joel?](https://haacked.com/archive/2005/08/18/9543.aspx).
 
 ![Rock Star](http://www.chicagoist.com/attachments/chicagoist_julene/2006_03_rockstar.jpg)
 
@@ -53,5 +53,5 @@ In any case, this will be my last post on the subject of Joel. At least until th
 -   [Language Wars](http://www.joelonsoftware.com/items/2006/09/01.html)
 -   [Wasabi](http://www.joelonsoftware.com/items/2006/09/01b.html)
 -   [Ruby Performance Revisited](http://www.joelonsoftware.com/items/2006/09/12.html)
--   [Joel on Ruby Performance](http://haacked.com/archive/2006/09/12/Joel_On_Ruby_Performance.aspx)
+-   [Joel on Ruby Performance](https://haacked.com/archive/2006/09/12/Joel_On_Ruby_Performance.aspx)
 -   [Spolsky Questions Ruby; Gets Angry Mob](http://voxpopdesign.com/bloomburst/1/2006/09/spolsky-questions-ruby-gets-angry-mob.cfm)

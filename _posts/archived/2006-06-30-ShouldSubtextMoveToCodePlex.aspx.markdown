@@ -77,7 +77,7 @@ MbUnit
 
 As you might also know, I love me some
 [MbUnit](http://mbunit.com/ "MbUnit"). I made the switch [from
-NUnit](http://haacked.com/archive/2005/10/18/SwitchingToMbUnit.aspx "Switching to MbUnit")
+NUnit](https://haacked.com/archive/2005/10/18/SwitchingToMbUnit.aspx "Switching to MbUnit")
 a while ago and have never looked back. If CodePlex has a CCNet
 replacement, will it integrate with MbUnit. I know Team System has its
 own unit test framework, but does it have the `Rollback` and `RowTest`

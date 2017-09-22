@@ -10,7 +10,7 @@ redirect_from: "/archive/2006/01/12/SettingUpLog4NetForMultiLayeredApplications.
 
 A while ago I wrote up a [Quick and Dirty Guide to Configuring Log4Net
 for Web
-Applications](http://haacked.com/archive/2005/03/07/ConfiguringLog4NetForWebApplications.aspx/ "Guide to Log4Net").
+Applications](https://haacked.com/archive/2005/03/07/ConfiguringLog4NetForWebApplications.aspx/ "Guide to Log4Net").
 Today I received an email asking how to set up logging for a web
 application that also consists of a business layer and a data access
 layer.
@@ -90,12 +90,12 @@ to the Log4Net assembly and make calls to its logging methods in your
 code just as you would in the web application layer.
 
 Then configure your web application as mentioned in my [dirty
-guide](http://haacked.com/archive/2005/03/07/ConfiguringLog4NetForWebApplications.aspx/ "Guide to Log4Net")
+guide](https://haacked.com/archive/2005/03/07/ConfiguringLog4NetForWebApplications.aspx/ "Guide to Log4Net")
 and you are all set. Log messages from all three assemblies should
 funnel nicely to your log file.
 
 To demonstrate this, I set up [another sample VS.NET 2003
-solution](http://haacked.com/images/Log4NetSampleSolution2.zip "Sample Log4Net Solution").
+solution](https://haacked.com/images/Log4NetSampleSolution2.zip "Sample Log4Net Solution").
 It is based on the same project that I included in my previous article
 on the subject, but includes a business layer class library. The web
 application references the class library and makes a method call that

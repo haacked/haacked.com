@@ -22,7 +22,7 @@ in that any program named with a “\$sys\$” is cloaked from the operating
 system. This is most likely in violation of a variety of laws against
 this sort of thing (like the SPY act).
 
-The [shortsighted](http://haacked.com/archive/2005/10/10/10657.aspx)
+The [shortsighted](https://haacked.com/archive/2005/10/10/10657.aspx)
 outcome of this approach is that Sony is effectively planting malware on
 those who choose to LEGALLY purchase their music. So from Sony’s
 perspective, they are infecting the systems of the good guys and

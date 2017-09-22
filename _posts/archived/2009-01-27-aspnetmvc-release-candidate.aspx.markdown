@@ -33,11 +33,11 @@ team
 blog](http://blogs.msdn.com/webdevtools/archive/2009/01/27/overview-of-mvc-tools-features.aspx "Web Tools Team Blog")
 covering tooling aspects of this release in detail. As I mentioned when
 [we released the
-Beta](http://haacked.com/archive/2008/10/16/aspnetmvc-beta-release.aspx "ASP.NET MVC Beta Released"),
+Beta](https://haacked.com/archive/2008/10/16/aspnetmvc-beta-release.aspx "ASP.NET MVC Beta Released"),
 we didn’t have plans for many new features in the runtime, but we did
 have a lot of tooling improvements to add. I’ve already described some
 of these changes in a [previous blog
-post](http://haacked.com/archive/2008/12/19/a-little-holiday-love-from-the-asp.net-mvc-team.aspx "Holiday Love"),
+post](https://haacked.com/archive/2008/12/19/a-little-holiday-love-from-the-asp.net-mvc-team.aspx "Holiday Love"),
 as did ScottGu in his [detailed
 look](http://weblogs.asp.net/scottgu/archive/2008/12/19/asp-net-mvc-design-gallery-and-upcoming-view-improvements-with-the-asp-net-mvc-release-candidate.aspx "Upcoming View Improvements").
 
@@ -49,7 +49,7 @@ Unfortunately, a few minor bugs did crop up at the last second, but we
 decided we could continue with this RC and fix the bugs afterwards as
 the impact appear to be relatively small and they all have workarounds.
 I wrote about [one particular
-bug](http://haacked.com/archive/2009/01/27/controls-collection-cannot-be-modified-issue-with-asp.net-mvc-rc1.aspx "Controls Collection Modified")
+bug](https://haacked.com/archive/2009/01/27/controls-collection-cannot-be-modified-issue-with-asp.net-mvc-rc1.aspx "Controls Collection Modified")
 so that you’re aware of it.
 
 For now, I want to share a few highlights. This is not an exhaustive

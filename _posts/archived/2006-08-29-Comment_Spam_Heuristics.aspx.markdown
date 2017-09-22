@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/08/28/Comment_Spam_Heuristics.aspx/"
 ---
 
-![Spam](http://haacked.com/images/spam.jpg)Lately my blog has been hit
+![Spam](https://haacked.com/images/spam.jpg)Lately my blog has been hit
 with a torrential downpour of comment spam.  I’ve been able to fight
 much of it off with some creative regular
 

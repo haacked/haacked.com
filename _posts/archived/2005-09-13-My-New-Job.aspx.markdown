@@ -44,7 +44,7 @@ and you start to get the picture.
 He also talks a lot about trusting your employees. For a long time I
 have seen many companies [make the mistake of not trusting and
 empowering their employees to make
-decisions](http://haacked.com/archive/2005/05/31/3952.aspx). Now I have
+decisions](https://haacked.com/archive/2005/05/31/3952.aspx). Now I have
 a chance to really put my money where my mouth is and attempt to push
 responsibility and trust down and see what happens. Obviously this
 requires that we make a great effort to hire people deserving of trust

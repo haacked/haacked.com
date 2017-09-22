@@ -38,5 +38,5 @@ saying that.
 
 My contribution to this book is much more significant and original than
 my pseudo-contribution to [another book this
-year](http://haacked.com/archive/2006/04/30/ASP.NETMVPHaacked.aspx "ASP.NET MVP Hacks").
+year](https://haacked.com/archive/2006/04/30/ASP.NETMVPHaacked.aspx "ASP.NET MVP Hacks").
 

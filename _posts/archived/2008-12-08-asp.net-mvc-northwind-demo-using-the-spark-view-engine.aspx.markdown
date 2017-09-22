@@ -52,7 +52,7 @@ block, so I used the code nuggets.
 Just for fun, I redid the views of my Northwind sample to replace all
 the ASPX views with Spark as a demonstartion of using an alternative
 view engine. **[Try it
-out](http://haacked.com/code/Northwind-spark.zip "Northwind Demo with Spark")**.
+out](https://haacked.com/code/Northwind-spark.zip "Northwind Demo with Spark")**.
 
 UPDATE: Updated to the latest version of ASP.NET MVC and Spark as of
 ASP.NET MVC 1.0 RC 2.

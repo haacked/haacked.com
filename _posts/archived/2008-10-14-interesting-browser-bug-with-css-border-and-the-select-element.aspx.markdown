@@ -24,7 +24,7 @@ bug is in the HTML, not the browser.
 
 Here’s an [example of the HTML with the SELECT tag properly closed and
 the proper
-DOCTYPE](http://haacked.com/code/samples/select-with-doctype-css-border.html "Select with proper HTML").
+DOCTYPE](https://haacked.com/code/samples/select-with-doctype-css-border.html "Select with proper HTML").
 It renders correctly in FireFox 3 and IE 8.
 
 In testing our helper methods for rendering a \<select /\> element which
@@ -57,17 +57,17 @@ Here’s how IE 8 renders it. Notice there’s no border. UPDATE: According
 to people on twitter, this is because I left out the doctype, so IE8
 rendered it in old quirks mode, not standards mode.
 
- ![ie8-select](http://haacked.com/images/haacked_com/WindowsLiveWriter/InterestingQuirkwithCSSstylesandtheSelec_D992/ie8-select_3.png "ie8-select")
+ ![ie8-select](https://haacked.com/images/haacked_com/WindowsLiveWriter/InterestingQuirkwithCSSstylesandtheSelec_D992/ie8-select_3.png "ie8-select")
 
 Here’s Firefox 3. There’s a border, but there’s two drop-down arrows.
 
-![select-ff](http://haacked.com/images/haacked_com/WindowsLiveWriter/InterestingQuirkwithCSSstylesandtheSelec_D992/select-ff_3.png "select-ff")
+![select-ff](https://haacked.com/images/haacked_com/WindowsLiveWriter/InterestingQuirkwithCSSstylesandtheSelec_D992/select-ff_3.png "select-ff")
 
 Here’s Google Chrome, which gets it right. Since Google Chrome uses the
 Safari Webkit rendering engine, I believe Safari gets it right as well.
 I didn’t test it personally, but Opera gets it right too.
 
-![select-chrome](http://haacked.com/images/haacked_com/WindowsLiveWriter/InterestingQuirkwithCSSstylesandtheSelec_D992/select-chrome_5.png "select-chrome")
+![select-chrome](https://haacked.com/images/haacked_com/WindowsLiveWriter/InterestingQuirkwithCSSstylesandtheSelec_D992/select-chrome_5.png "select-chrome")
 
 Now if you add the following meta tag to the \<head /\> section of the
 HTML.
@@ -78,11 +78,11 @@ HTML.
 
 IE 8 now renders correctly.
 
-![select-ie8-meta](http://haacked.com/images/haacked_com/WindowsLiveWriter/InterestingQuirkwithCSSstylesandtheSelec_D992/select-ie8-meta_3.png "select-ie8-meta")
+![select-ie8-meta](https://haacked.com/images/haacked_com/WindowsLiveWriter/InterestingQuirkwithCSSstylesandtheSelec_D992/select-ie8-meta_3.png "select-ie8-meta")
 
 You can see for yourself by pointing your browser to an example with
 [the meta
-tag](http://haacked.com/code/samples/select-with-css-border-and-meta-tag.html "Select Tag with CSS styling")
+tag](https://haacked.com/code/samples/select-with-css-border-and-meta-tag.html "Select Tag with CSS styling")
 and [without
-it](http://haacked.com/code/samples/select-with-css-border.html "Select Tag with CSS styling").
+it](https://haacked.com/code/samples/select-with-css-border.html "Select Tag with CSS styling").
 

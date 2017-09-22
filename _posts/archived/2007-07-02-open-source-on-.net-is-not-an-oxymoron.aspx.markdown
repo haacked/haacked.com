@@ -29,7 +29,7 @@ One rationale given is that ***it ain’t really Open Source unless the
 entire stack is Open Source***. I call this the *all or nothing* view of
 Open Source.
 
-[![the-stack](http://haacked.com/images/haacked_com/WindowsLiveWriter/OpenSourceOn.NETIsNotAnOxymoron_12D9B/the-stack_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/OpenSourceOn.NETIsNotAnOxymoron_12D9B/the-stack.jpg "The Stack")
+[![the-stack](https://haacked.com/images/haacked_com/WindowsLiveWriter/OpenSourceOn.NETIsNotAnOxymoron_12D9B/the-stack_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/OpenSourceOn.NETIsNotAnOxymoron_12D9B/the-stack.jpg "The Stack")
 
 For example, one popular stack is the
 [LAMP](http://en.wikipedia.org/wiki/LAMP_%28software_bundle%29 "Wikipedia on LAMP (software bundle)")
@@ -64,7 +64,7 @@ Freedom. In general, the freedom to view and change the code.
 
 The only difference is really in the level of freedom and how that
 freedom should apply. I [wrote before in my guide to Open Source
-Licensing](http://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Developer’s Guide to Open Source Software Licensing")
+Licensing](https://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Developer’s Guide to Open Source Software Licensing")
 that with some licenses such as the GPL, the freedom of access to the
 code is paramount. Any code that makes use of the GPL must itself be
 Open Source and licensed in a compatible fashion as the GPL.

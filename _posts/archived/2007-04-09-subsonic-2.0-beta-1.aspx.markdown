@@ -9,7 +9,7 @@ redirect_from: "/archive/2007/04/08/subsonic-2.0-beta-1.aspx/"
 ---
 
 ![Subsonic
-Logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/Subsonic2.0Beta1_D1CC/subsoniclogo4.png)[Rob
+Logo](https://haacked.com/images/haacked_com/WindowsLiveWriter/Subsonic2.0Beta1_D1CC/subsoniclogo4.png)[Rob
 Conery](http://blog.wekeroad.com/ "Rob Conery") just announced that
 [Beta 1 of SubSonic
 2.0](http://blog.wekeroad.com/archive/2007/04/09/SubSonic-2.0-Beta-1-is-Ready.aspx "Subsonic 2.0 Beta 1")
@@ -33,8 +33,8 @@ progress on 2.0 while working on the 1.9 branch, so hopefully it will
 follow 1.9 shortly.
 
 My cohorts and I finished our first draft of the book [we’re working
-on](http://haacked.com/archive/2006/11/19/writing_a_book.aspx "Writing a Book"),
+on](https://haacked.com/archive/2006/11/19/writing_a_book.aspx "Writing a Book"),
 so I should hopefully have more time to work on Subtext. That is, till
 the [kid
-arrives](http://haacked.com/archive/2006/11/05/World_Domination_Phase_1_Commenced.aspx "World Domination Phase 1").
+arrives](https://haacked.com/archive/2006/11/05/World_Domination_Phase_1_Commenced.aspx "World Domination Phase 1").
 

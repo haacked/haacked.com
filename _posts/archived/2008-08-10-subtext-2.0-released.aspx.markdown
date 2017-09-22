@@ -11,7 +11,7 @@ redirect_from: "/archive/2008/08/09/subtext-2.0-released.aspx/"
 
 It’s been a long time coming, but we are finally ready to release
 Subtext 2.0. As I [mentioned in
-April](http://haacked.com/archive/2008/04/08/subtext-awakens-from-its-slumber.aspx "Subtext Awakens From Its Slumber")
+April](https://haacked.com/archive/2008/04/08/subtext-awakens-from-its-slumber.aspx "Subtext Awakens From Its Slumber")
 (was it that long ago!?), this is scaled down a bit from our original
 2.0 plans. But even so, we have a lot of new goodness in here. It’s not
 just a bug fix release, though there are plenty of those too.

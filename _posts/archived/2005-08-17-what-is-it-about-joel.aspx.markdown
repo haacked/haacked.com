@@ -9,7 +9,7 @@ redirect_from: "/archive/2005/08/16/what-is-it-about-joel.aspx/"
 ---
 
 After reading over my [last blog
-post](http://haacked.com/archive/2005/08/18/9536.aspx), I wondered why
+post](https://haacked.com/archive/2005/08/18/9536.aspx), I wondered why
 my posts take such a virulent tone towards Joel Spolsky when I think
 he’s wrong. Looking around the web, I noticed I am not [the only
 one](http://www.lazycoder.com/weblog/index.php/archives/2005/08/18/why-are-people-still-listening-to-joel/).
@@ -19,7 +19,7 @@ of, nor has he insulted my mother. In fact, I am pretty sure he doesn’t
 even know my mother.
 
 Then I read this snippet of a [great
-comment](http://haacked.com/archive/2005/08/18/9536.aspx#9538) from
+comment](https://haacked.com/archive/2005/08/18/9536.aspx#9538) from
 [Melissa](http://blogginmynoggin.blogspot.com/) in my blog...
 
 > Joel just likes to write with conviction, irrespective of the matter
@@ -47,7 +47,7 @@ there*).
 
 So that explains my harsh attitude. Well... that and the arrogant tone
 he takes. That seems to get my dire up. Especially when [he put down
-corporate developers](http://haacked.com/archive/2005/07/26/9027.aspx).
+corporate developers](https://haacked.com/archive/2005/07/26/9027.aspx).
 
 In any case, one post mentioned why anyone is still reading Joel. Well
 as much as I like to get my panties in a bunch when he says something

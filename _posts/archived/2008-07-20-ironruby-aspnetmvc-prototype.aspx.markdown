@@ -12,7 +12,7 @@ redirect_from: "/archive/2008/07/19/ironruby-aspnetmvc-prototype.aspx/"
 ---
 
 UPDATE 02.17.2009: I [posted about a newer version of this
-prototype](http://haacked.com/archive/2009/02/17/aspnetmvc-ironruby-with-filters.aspx "ASP.NET MVC with IronRuby and Filters")
+prototype](https://haacked.com/archive/2009/02/17/aspnetmvc-ironruby-with-filters.aspx "ASP.NET MVC with IronRuby and Filters")
 for ASP.NET MVC RC
 
 Update: I updated the source today. It now has minimal support for
@@ -26,7 +26,7 @@ the demo online, but it relied on an unreleased version of MVC, so the
 code didn’t actually work.
 
 ![IronRuby on ASP.NET MVC
-Demo](http://haacked.com/images/haacked_com/WindowsLiveWriter/IronRubyWithASP.NETMVCWorkingPrototype_BDF3/IronRuby%20on%20ASP.NET%20MVC%20Demo%20-%20Windows%20Internet%20Explorer_3.png "IronRuby on ASP.NET MVC Demo")
+Demo](https://haacked.com/images/haacked_com/WindowsLiveWriter/IronRubyWithASP.NETMVCWorkingPrototype_BDF3/IronRuby%20on%20ASP.NET%20MVC%20Demo%20-%20Windows%20Internet%20Explorer_3.png "IronRuby on ASP.NET MVC Demo")
 Now that Preview 4 is out, I revisited the prototype and got it working
 again. I use the term *working* loosely here. Yeah, it works, but it is
 really rough around the edges. As in, get a bunch of splinters rough. At
@@ -72,7 +72,7 @@ working with IronRuby.
 
 As I mentioned in my previous post on this topic, [IronRuby and ASP.NET
 MVC BFFs
-Forever](http://haacked.com/archive/2008/06/12/ironruby-and-asp.net-bffs-forever.aspx "IronRuby and MVC"):
+Forever](https://haacked.com/archive/2008/06/12/ironruby-and-asp.net-bffs-forever.aspx "IronRuby and MVC"):
 
 > **Disclaimer:** This is all a very rough prototype that we’ve been
 > doing in our spare time for fun. We just wanted to prove this could
@@ -85,7 +85,7 @@ extensibility layer. I believe ASP.NET MVC will be better overall
 because we spent the time to do this.
 
 And before I forget, here’s the **[DOWNLOAD
-LINK](http://haacked.com/code/IronRubyMvcDemo.zip "IronRubyMVC Demo")**.
+LINK](https://haacked.com/code/IronRubyMvcDemo.zip "IronRubyMVC Demo")**.
 
 Attributions: The CSS layout and ruby logo are both licensed under the
 [Creative Creative Commons Attribution-ShareAlike

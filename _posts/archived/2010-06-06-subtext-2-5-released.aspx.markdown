@@ -9,7 +9,7 @@ redirect_from: "/archive/2010/06/05/subtext-2-5-released.aspx/"
 ---
 
 Wow, has it already been over a year since the [last major version of
-Subtext](http://haacked.com/archive/2008/11/27/subtext-2.1-security-update.aspx "Subtext 2.1.2 released")?
+Subtext](https://haacked.com/archive/2008/11/27/subtext-2.1-security-update.aspx "Subtext 2.1.2 released")?
 Apparently so.
 
 Today I’m excited to announce the release of Subtext 2.5. Most of the
@@ -21,7 +21,7 @@ new features you’ll enjoy outside of the hood.
 -   **New Admin Dashboard:** When you login to the admin section of your
     blog after upgrading, you’ll notice a fancy schmancy new dashboard
     that summarizes the information you care about in a single
-    page.[![subtext-dashboard](http://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext2.5Released_13148/subtext-dashboard_thumb.png "subtext-dashboard")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext2.5Released_13148/subtext-dashboard_2.png)The
+    page.[![subtext-dashboard](https://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext2.5Released_13148/subtext-dashboard_thumb.png "subtext-dashboard")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext2.5Released_13148/subtext-dashboard_2.png)The
     other thing you’ll notice in the screenshot is the admin section
     received a face lift with a new more polished look and feel and
     ***many usability improvements***.
@@ -60,7 +60,7 @@ a sampling of some of the larger changes.
     performance improvements as well as caching improvements to reduce
     the number of SQL queries per request.
 -   **Skinning Improvements:**This topic **[deserves its own blog
-    post](http://haacked.com/archive/2010/06/06/subtext-skin-improvements.aspx "Subtext Skin Improvements")**,
+    post](https://haacked.com/archive/2010/06/06/subtext-skin-improvements.aspx "Subtext Skin Improvements")**,
     but to summarize, skins are now fully self contained within a
     folder. Prior to this version, adding a new skin required adding a
     skin folder to the */Skins* directory and then modifying a central

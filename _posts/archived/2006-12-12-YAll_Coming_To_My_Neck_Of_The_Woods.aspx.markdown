@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/12/11/YAll_Coming_To_My_Neck_Of_The_Woods.aspx/"
 ---
 
 ![PDC 2007 Developer
-Powered](http://haacked.com/images/haacked_com/WindowsLiveWriter/YAllComingToMyNeckOfTheWoods_1478D/image001_revised%5B1%5D%5B4%5D.gif)
+Powered](https://haacked.com/images/haacked_com/WindowsLiveWriter/YAllComingToMyNeckOfTheWoods_1478D/image001_revised%5B1%5D%5B4%5D.gif)
 According to Brad Abrams, it looks like we’re going to have us another
 PDC [in 2007](http://msdn.microsoft.com/events/pdc/ "PDC 2007"). For
 those of you not in the know, PDC stands for Professional Developer
@@ -28,5 +28,5 @@ neighborhood (*Westside!*). It’s too early for a roll call, but be sure
 that I hear about it when you decide to attend.
 
 I do know where to get the best [Korean
-food](http://haacked.com/archive/2005/03/17/Good_Korean_Food_In_Los_Angeles.aspx "Best Korean Food In Los Angeles").
+food](https://haacked.com/archive/2005/03/17/Good_Korean_Food_In_Los_Angeles.aspx "Best Korean Food In Los Angeles").
 

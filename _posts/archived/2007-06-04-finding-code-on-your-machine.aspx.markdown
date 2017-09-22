@@ -9,14 +9,14 @@ redirect_from: "/archive/2007/06/03/finding-code-on-your-machine.aspx/"
 ---
 
 As I [mentioned
-before](http://haacked.com/archive/2007/05/11/my-last-day-before-starting-a-new-career.aspx "Starting a new career"),
+before](https://haacked.com/archive/2007/05/11/my-last-day-before-starting-a-new-career.aspx "Starting a new career"),
 I am the Product Manager for the [Koders.com
 website](http://www.koders.com/ "Koders Code Search Engine"). I am
 responsible for the search engine, the source code index, the forums,
 the blog and the Content Management System.
 
 ![magnifying
-glass](http://haacked.com/images/haacked_com/WindowsLiveWriter/SearchingForCodeOnYourMachine_EC44/magnifying-glass_1.jpg)
+glass](https://haacked.com/images/haacked_com/WindowsLiveWriter/SearchingForCodeOnYourMachine_EC44/magnifying-glass_1.jpg)
 My counterpart at Koders, [Ben
 McDonald](http://beebe4.blogspot.com/ "Ben McDonald’s blog"), is
 responsible for our client editions of the search engine which include

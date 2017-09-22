@@ -10,7 +10,7 @@ redirect_from: "/archive/2007/06/11/subkismet-demo-website.aspx/"
 
 In my last post I mentioned that [Subkismet is ready to put a thumping
 on comment
-SPAM](http://haacked.com/archive/2007/06/12/introducing-subkismet-the-cure-for-comment-spam.aspx "Subkismet - The Cure For Comment Spam")
+SPAM](https://haacked.com/archive/2007/06/12/introducing-subkismet-the-cure-for-comment-spam.aspx "Subkismet - The Cure For Comment Spam")
 for your web applications. Unfortunately I didn’t have much in the way
 of demo code.
 

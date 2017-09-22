@@ -9,7 +9,7 @@ redirect_from: "/archive/2007/09/28/bulk-tagging-and-category-management-for-blo
 ---
 
 One weakness with many blog engines,
-[Subtext](http://haacked.com/ "Subtext Project") included, is that it is
+[Subtext](https://haacked.com/ "Subtext Project") included, is that it is
 difficult to change the tags and categories for multiple entries at a
 time. In general, most blog engines streamline the workflow for tagging
 and categorizing a single blog post.
@@ -25,7 +25,7 @@ it using Subtext as a test-bed so it handles the fact that we use the
 microformat](http://microformats.org/wiki/rel-tag "rel-tag microformat") within
 the content as our tagging mechanism. Sweeeeet!
 
-![blogmanager\_image](http://haacked.com/images/haacked_com/WindowsLiveWriter/BulkTaggingandCategoryManagementForBlogs_EE84/blogmanager_image_1.jpg)
+![blogmanager\_image](https://haacked.com/images/haacked_com/WindowsLiveWriter/BulkTaggingandCategoryManagementForBlogs_EE84/blogmanager_image_1.jpg)
 
 Many thanks to Simo for [blogging about
 this](http://codeclimber.net.nz/archive/2007/09/29/Manage-categories-and-tags-of-your-blog.aspx "Managing categories and tags") and

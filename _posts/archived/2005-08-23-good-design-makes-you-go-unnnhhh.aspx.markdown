@@ -30,5 +30,5 @@ resolution above 800x600, a lot of space is opened up to present more
 information in a much cleaner fashion.
 
 If I didn’t have so much work to do right now, I’d redesign [my
-blog](http://haacked.com/) right now.
+blog](https://haacked.com/) right now.
 

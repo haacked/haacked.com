@@ -12,6 +12,6 @@ In anticipation of this talk, I [recorded a podcast for InfoQ](https://www.infoq
 
 In the podcast, we also cover what it was like in the early days of ASP.NET MVC as we went from closed source to open source and how far Microsoft has come since then in the open source space.
 
-Afterwards, we talked a bit about Atom and Electron and the community around those products. And to finish the podcast, we gabbed about my transition into management at GitHub, which [is something I wrote about recently](http://haacked.com/archive/2016/09/06/work-at-github/).
+Afterwards, we talked a bit about Atom and Electron and the community around those products. And to finish the podcast, we gabbed about my transition into management at GitHub, which [is something I wrote about recently](https://haacked.com/archive/2016/09/06/work-at-github/).
 
 So if you don't mind hearing my nasally voice, take a listen and let me know what you thought here.

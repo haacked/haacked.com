@@ -16,7 +16,7 @@ the details that you need.
 
 There you have it.
 
-[![trs-80](http://haacked.com/images/haacked_com/WindowsLiveWriter/Hardware-Specs-for-Haacked.com_8473/trs-80_3.jpg "trs-80")](http://www.flickr.com/photos/37796451@N00/4820596557/ "By EasterBilby - Creative Commons Some Rights Reserved")
+[![trs-80](https://haacked.com/images/haacked_com/WindowsLiveWriter/Hardware-Specs-for-Haacked.com_8473/trs-80_3.jpg "trs-80")](http://www.flickr.com/photos/37796451@N00/4820596557/ "By EasterBilby - Creative Commons Some Rights Reserved")
 
 [Well
 actually^TM^](http://tirania.org/blog/archive/2011/Feb-17.html "Well, Actually"),
@@ -24,7 +24,7 @@ my blog runs on a bit more hardware than that these days. Especially
 after the Great Hard-Drive Failure of 2009. As longtime readers of my
 blog might remember, nearly two years ago, this blog went down in flames
 due [to a faulty
-hard-drive](http://haacked.com/archive/2009/12/14/back-in-business-again.aspx "Back in Business")
+hard-drive](https://haacked.com/archive/2009/12/14/back-in-business-again.aspx "Back in Business")
 on the hosting server.
 
 My hosting provider, CrystalTech (now rebranded to be the Web Services
@@ -49,7 +49,7 @@ ensure that the data customers care about are backed up and verified.
 
 Not only that, they hooked me up with a pretty nice new dedicated
 server.
-![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/Hardware-Specs-for-Haacked.com_8473/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Hardware-Specs-for-Haacked.com_8473/wlEmoticon-smile_2.png)
 
 Even though they now are prepared to ensure VMs are backed up, I now
 host on bare metal, in part because [my other
@@ -80,7 +80,7 @@ Software
 
 This server hosts the following sites:
 
--   [http://haacked.com/](http://haacked.com/) of course!
+-   [https://haacked.com/](https://haacked.com/) of course!
 -   [http://code.haacked.com/](http://code.haacked.com/) Zip files
     containing code
 -   [http://demo.haacked.com/](http://demo.haacked.com/) Working
@@ -95,13 +95,13 @@ For some of these sites, I plan to migrate them to other cloud based
 solutions. For example, rather than have my own NuGet feed, I’ll just
 use a [http://myget.org/](http://myget.org/) feed.
 
-Even so, I plan to keep [http://haacked.com/](http://haacked.com/) on
+Even so, I plan to keep [https://haacked.com/](https://haacked.com/) on
 this hardware for as long as The Small Business Authority lets me. It’s
 a great way for me to keep my system administration skills from
 completely atrophying and I like having a server at my disposal.
 
 So thanks again to The Small Business Authority (though I admit, I liked
 CrystalTech as a name better![Smile with tongue
-out](http://haacked.com/images/haacked_com/WindowsLiveWriter/Hardware-Specs-for-Haacked.com_8473/wlEmoticon-smilewithtongueout_2.png))
+out](https://haacked.com/images/haacked_com/WindowsLiveWriter/Hardware-Specs-for-Haacked.com_8473/wlEmoticon-smilewithtongueout_2.png))
 for hosting this blog! And thank you for reading!
 

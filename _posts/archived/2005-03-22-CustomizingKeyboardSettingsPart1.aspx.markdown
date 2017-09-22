@@ -13,7 +13,7 @@ Bandit supports customizing keyboard shortcuts via an XML configuration
 file. The reason you might not know this is because it is an
 undocumented feature. Since I implemented adding customizability to
 keyboard shortcuts, I thought I might as well document how it works as
-of [version 1.3.02.26](http://haacked.com/archive/2005/03/20/2411.aspx).
+of [version 1.3.02.26](https://haacked.com/archive/2005/03/20/2411.aspx).
 
 First, I'm going to delve a bit into how Keyboard shortcuts are
 implemented in RSS Bandit before I highlight a tool I wrote for
@@ -187,6 +187,6 @@ With XML?**\
  Well now that I've given you this background, which probably contains
 more than you'll ever want to know about how keyboard shortcuts are
 implemented in RSS Bandit, I must defer to [part 2 of this
-series](http://haacked.com/archive/2005/03/22/CustomizingKeyboardSettingsPart2.aspx)
+series](https://haacked.com/archive/2005/03/22/CustomizingKeyboardSettingsPart2.aspx)
 where I describe a simple utility I wrote for setting up shortcuts.
 

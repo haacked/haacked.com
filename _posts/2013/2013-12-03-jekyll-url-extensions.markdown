@@ -6,7 +6,7 @@ comments: true
 categories: [jekyll]
 ---
 
-In [my last post](http://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/) I wrote about migrating my blog to Jekyll and GitHub Pages. Travis Illig, a long time Subtext user asked me the following question:
+In [my last post](/archive/2013/12/02/dr-jekyll-and-mr-haack/) I wrote about migrating my blog to Jekyll and GitHub Pages. Travis Illig, a long time Subtext user asked me the following question:
 
 > The only thing I haven't really figured out is how to nicely handle the redirect from old URLs (/archive/blah/something.aspx) to the new ones without extensions (/archive/blah/something/). I've seen some meta redirect stuff combined with JavaScript but... UGH.
 
@@ -20,6 +20,6 @@ Jekyll takes the part after the date and before the `.markdown` extension and us
 
 The way it handles extensionless URLs is to create a folder with the slug name (in this case a folder named `declare-dont-tell.aspx`) and creates the blog post as a file named `index.html` in that folder. Simple.
 
-Thus the URL for that blog post is [http://haacked.com/archive/2013/11/20/declare-dont-tell.aspx/](http://haacked.com/archive/2013/11/20/declare-dont-tell.aspx/). But here's the beautiful part. GitHub Pages doesn't require that trailing slash. So if you make a request for [http://haacked.com/archive/2013/11/20/declare-dont-tell.aspx](http://haacked.com/archive/2013/11/20/declare-dont-tell.aspx), everything still works! GitHub simply redirects you to the version with the trailing slash.
+Thus the URL for that blog post is [https://haacked.com/archive/2013/11/20/declare-dont-tell.aspx/](/archive/2013/11/20/declare-dont-tell.aspx/). But here's the beautiful part. GitHub Pages doesn't require that trailing slash. So if you make a request for [https://haacked.com/archive/2013/11/20/declare-dont-tell.aspx](/archive/2013/11/20/declare-dont-tell.aspx), everything still works! GitHub simply redirects you to the version with the trailing slash.
 
 Meanwhile, all my new posts from this point on will have a nice clean extensionless slug without breaking any permalinks for my old posts.

@@ -14,13 +14,13 @@ redirect_from: "/archive/2007/05/14/sabatoge-due-to-pain.-developers-take-ergono
 > *[DataHand](http://www.datahand.com/overview/dhsolution.htm "Datahand Overview")*
 
 [![Ergonomic
-Diagram](http://haacked.com/images/haacked_com/WindowsLiveWriter/TakeErgonomicsSeriously_27E9/ergonomics_thumb%5B2%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/TakeErgonomicsSeriously_27E9/ergonomics%5B6%5D.jpg "ergonomic diagram")
+Diagram](https://haacked.com/images/haacked_com/WindowsLiveWriter/TakeErgonomicsSeriously_27E9/ergonomics_thumb%5B2%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/TakeErgonomicsSeriously_27E9/ergonomics%5B6%5D.jpg "ergonomic diagram")
 And that’s just for a piddly eight hour workday! What about developers
 who go home and write more code for fun?
 
 Around three years ago I wrote a post titled [The Real Pain of Software
 Development Part
-1](http://haacked.com/archive/2004/06/10/The-Real-Pain-Of-Software-Development-1.aspx "The Real Pain of Software Development")
+1](https://haacked.com/archive/2004/06/10/The-Real-Pain-Of-Software-Development-1.aspx "The Real Pain of Software Development")
 in which I talked about my experience with Repetitive Stress Injury
 (RSI). Because of the pain of typing at that time, I never really got
 around to writing part 2 until now.
@@ -97,7 +97,7 @@ In my case, I will never fully be free from pain while working. But
 through therapy, I learned techniques to reduce the pain as well as deal
 with it better.
 
-[![](http://haacked.com/images/haacked_com/WindowsLiveWriter/TakeErgonomicsSeriously_27E9/FOAMrollerFullRound_thumb%5B1%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/TakeErgonomicsSeriously_27E9/FOAMrollerFullRound%5B3%5D.jpg)As
+[![](https://haacked.com/images/haacked_com/WindowsLiveWriter/TakeErgonomicsSeriously_27E9/FOAMrollerFullRound_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/TakeErgonomicsSeriously_27E9/FOAMrollerFullRound%5B3%5D.jpg)As
 fortune would have it, this was around the time I received a private
 office, so it was less of a spectacle when I would get on the floor with
 a foam roller and do my stretches every couple of hours.

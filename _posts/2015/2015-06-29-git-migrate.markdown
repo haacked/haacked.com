@@ -121,7 +121,7 @@ When you see the set of commands I ran, I hope you're thinking "Hey, that looks 
 
 Automating a series of git commands sounds like a job for a Git Alias! Aliases are a powerful way of automating or extending Git with your own Git commands.
 
-In a blog post I wrote last year, [GitHub Flow Like a Pro with these 13 Git aliases](http://haacked.com/archive/2014/07/28/github-flow-aliases/), I wrote about some aliases I use to support my workflow.
+In a blog post I wrote last year, [GitHub Flow Like a Pro with these 13 Git aliases](https://haacked.com/archive/2014/07/28/github-flow-aliases/), I wrote about some aliases I use to support my workflow.
 
 Well now I have one more to add to this list. I decided to call this alias, `migrate`. Here's the definition for the alias. Notice that it uses `git rebase --onto` which we used for the second scenario I described. It turns out that this happens to work for the first scenario too.
 

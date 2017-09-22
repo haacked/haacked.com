@@ -65,7 +65,7 @@ Suppose our resident `shiftkey` imposter returns again.
 Regex.IsMatch("ShİftKey", "^[a-z0-9]+$", RegexOptions.IgnoreCase); // true, DOH!
 ```
 
-Foiled! Well that was entirely unexpected! What is going on here? It's the Turkish İ problem all over again, but in a unique form. I wrote about this problem in 2012 in the post [The Turkish İ Problem and Why You Should Care](http://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/). That post focused on issues with Turkish İ and string comparisons.
+Foiled! Well that was entirely unexpected! What is going on here? It's the Turkish İ problem all over again, but in a unique form. I wrote about this problem in 2012 in the post [The Turkish İ Problem and Why You Should Care](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/). That post focused on issues with Turkish İ and string comparisons.
 
 > The tl;dr summary is that the uppercase for i in English is I (note the lack of a dot) but in Turkish it’s dotted, İ. So while we have two i’s (upper and lower), they have four.
 

@@ -14,7 +14,7 @@ redirect_from: "/archive/2010/10/05/introducing-nupack-package-manager.aspx/"
 
 [NuGet](http://nuget.codeplex.com/ "NuGet Project on CodePlex")
 ([recently renamed from
-NuPack](http://haacked.com/archive/2010/10/29/nupack-is-now-nuget.aspx "NuPack Renamed to NuGet"))
+NuPack](https://haacked.com/archive/2010/10/29/nupack-is-now-nuget.aspx "NuPack Renamed to NuGet"))
 is a free open source developer focused package manager intent on
 simplifying the process of incorporating third party libraries into a
 .NET application during development.
@@ -33,7 +33,7 @@ There’s also a [video interview with
 me](http://channel9.msdn.com/Shows/Web+Camps+TV/Web-Camps-TV-8-NuPack-with-Phil-Haack "Video Interview With Me on NuPack")
 on Web Camps TV where I talk about NuGet.
 
-![nuget-229x64](http://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingNuPackPackageManager_8229/nuget-229x64_556266e8-afb7-4f84-912b-c99a3f9bf742.png "nuget-229x64")Just
+![nuget-229x64](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingNuPackPackageManager_8229/nuget-229x64_556266e8-afb7-4f84-912b-c99a3f9bf742.png "nuget-229x64")Just
 to warn you, the rest of this blog post is full of blah blah blah about
 NuGet so if you’re a person of action, feel free to go:
 
@@ -195,7 +195,7 @@ With your help, I hope that NuGet becomes a wildly successful example of
 how building products in collaboration with the open source community
 benefits our business and the community.
 
-Tags: [NuGet](http://haacked.com/tags/NuGet/default.aspx), [Package
-Manager](http://haacked.com/tags/Package%20Manager/default.aspx), [Open
-Source](http://haacked.com/tags/Open+Source/default.aspx)
+Tags: [NuGet](https://haacked.com/tags/NuGet/default.aspx), [Package
+Manager](https://haacked.com/tags/Package%20Manager/default.aspx), [Open
+Source](https://haacked.com/tags/Open+Source/default.aspx)
 

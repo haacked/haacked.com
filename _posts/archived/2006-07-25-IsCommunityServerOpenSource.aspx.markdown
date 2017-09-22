@@ -82,7 +82,7 @@ source projects to be well run.
 
 Not every open source license is created equal as I pointed out in my
 guide to [Open Source Software
-Licensing](http://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "OSS Licensing").
+Licensing](https://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "OSS Licensing").
 For example, under the [BSD
 license](http://www.opensource.org/licenses/bsd-license.php "BSD") in
 which Subtext is licensed, you and I are free to create a commercial

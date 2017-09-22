@@ -6,7 +6,7 @@ comments: true
 categories: [code]
 ---
 
-From the topic of this and [my last post](http://haacked.com/archive/2014/01/04/duck-typing/), you would be excused if you think I have some weird fascination with ducks. In fact, I'm starting to question it myself.
+From the topic of this and [my last post](https://haacked.com/archive/2014/01/04/duck-typing/), you would be excused if you think I have some weird fascination with ducks. In fact, I'm starting to question it myself.
 
 ![Is it a duck? - CC BY-ND 2.0 from http://www.flickr.com/photos/77043400@N00/224131630/](https://f.cloud.github.com/assets/19977/1845502/4d494752-758e-11e3-9c66-8fd6080662fe.jpg)
 

@@ -10,7 +10,7 @@ redirect_from: "/archive/2007/06/05/introducing-cody-yokoyama-haack.aspx/"
 
 A while back I mentioned the beginning of phase 1 of my [total world
 domination
-plans](http://haacked.com/archive/2006/11/05/World_Domination_Phase_1_Commenced.aspx "World Domination Phase 1").
+plans](https://haacked.com/archive/2006/11/05/World_Domination_Phase_1_Commenced.aspx "World Domination Phase 1").
 This morning at 3:55 AM, phase 1 is officially complete with the birth
 of our son, Cody Yokoyama Haack, all seven pounds and fourteen ounces of
 him.
@@ -19,25 +19,25 @@ First, the little dictator is ready to rule our household. Later, the
 world! (*click to see larger*)
 
 [![Cody
-062](http://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingCodyYokoyamaHaack_13663/Cody%20062_thumb.jpg)![Cody
-059](http://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingCodyYokoyamaHaack_13663/Cody%20059_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingCodyYokoyamaHaack_13663/Cody%20059.jpg "cody")
+062](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingCodyYokoyamaHaack_13663/Cody%20062_thumb.jpg)![Cody
+059](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingCodyYokoyamaHaack_13663/Cody%20059_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingCodyYokoyamaHaack_13663/Cody%20059.jpg "cody")
 
 Actually, our affectionate nickname for Cody is “Little Thug” because of
 the skull cap they gave him and for the way he likes to [mad
 dog](http://www.urbandictionary.com/define.php?term=mad+dog "Mad Dog Definition on Urban Dictionary")
 us. Here’s a [short little
-video](http://haacked.com/images/Cody_064.MPG "Video of Cody’s, the Little Thug")
+video](https://haacked.com/images/Cody_064.MPG "Video of Cody’s, the Little Thug")
 to demonstrate.
 
 Of course, he may have good reason to look upset at us, given these
 incriminating photos.
 
 [![Cody
-074](http://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingCodyYokoyamaHaack_13663/Cody%20074_thumb_2.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingCodyYokoyamaHaack_13663/Cody%20074_2.jpg "cody")
+074](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingCodyYokoyamaHaack_13663/Cody%20074_thumb_2.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingCodyYokoyamaHaack_13663/Cody%20074_2.jpg "cody")
 [![Cody
-077](http://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingCodyYokoyamaHaack_13663/Cody%20077_thumb_1.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingCodyYokoyamaHaack_13663/Cody%20077_1.jpg "cody")
+077](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingCodyYokoyamaHaack_13663/Cody%20077_thumb_1.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingCodyYokoyamaHaack_13663/Cody%20077_1.jpg "cody")
 [![Cody
-075](http://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingCodyYokoyamaHaack_13663/Cody%20075_thumb_1.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingCodyYokoyamaHaack_13663/Cody%20075_1.jpg "cody")
+075](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingCodyYokoyamaHaack_13663/Cody%20075_thumb_1.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingCodyYokoyamaHaack_13663/Cody%20075_1.jpg "cody")
 
 We brought Cody home the same day that he was born. Cody’s momma is
 doing just fine. From start to finish, the whole process took around 9

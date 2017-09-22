@@ -11,7 +11,7 @@ categories:
 redirect_from: "/archive/2008/05/30/the-design-is-never-right-the-first-time.aspx/"
 ---
 
-![tacoma\_narrows](http://haacked.com/images/haacked_com/WindowsLiveWriter/TheDesignIsNeverRightTheFirstTime_CC01/tacoma_narrows_3.jpg)
+![tacoma\_narrows](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheDesignIsNeverRightTheFirstTime_CC01/tacoma_narrows_3.jpg)
 The design is never right the first time. Nor is it usually right the
 second time. This is one of those key lessons you learn over time
 building real software, and is the source of one of the chief complaints
@@ -21,7 +21,7 @@ heavy emphasis on getting the design right up front.
 We have to define “right” in this case. If by “right” you mean
 *perfect*, then I don’t think the design is ever right, as I’ve argued
 in the past that [there is no perfect
-design](http://haacked.com/archive/2005/05/31/ThereIsNoPerfectDesign.aspx "Blog post on perfect design").
+design](https://haacked.com/archive/2005/05/31/ThereIsNoPerfectDesign.aspx "Blog post on perfect design").
 
 Recently, this lesson was driven home as my feature team (ASP.NET MVC)
 were hashing out some tricky design issues. Many times, we find

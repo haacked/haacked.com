@@ -178,7 +178,7 @@ void CallService()
 
 If you’d like to try this technique out yourself and provide a critique,
 download the
-[ExceptionInjectionWithSoapExtension.zip](http://haacked.com/code/ExceptionInjectionWithSoapExtension.zip)
+[ExceptionInjectionWithSoapExtension.zip](https://haacked.com/code/ExceptionInjectionWithSoapExtension.zip)
 source files here. There are certainly some enhancements that could be
 made to the code to make it even more useful. Let me know if you make
 improvements.

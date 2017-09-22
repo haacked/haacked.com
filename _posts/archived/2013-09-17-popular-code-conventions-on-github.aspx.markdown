@@ -35,13 +35,13 @@ place](https://github.com/blog/1544-data-challenge-ii-results "GitHub Data Chall
 It analyzes GitHub and provides interesting graphs on which coding
 conventions are more popular among GitHub users based on analyzing the
 code. This lets you fight your [ever present software religious
-wars](http://haacked.com/archive/2006/02/08/OnReligiousWarsinSoftware.aspx "Religious wars in software")
+wars](https://haacked.com/archive/2006/02/08/OnReligiousWarsinSoftware.aspx "Religious wars in software")
 with some data.
 
 For example, here’s how the Tabs vs Spaces debate lands among Java
 developers on GitHub.
 
-[![java-tabs-vs-spaces](http://haacked.com/images/haacked_com/WindowsLiveWriter/PopularCodeConventionsonGitHub_D177/java-tabs-vs-spaces_thumb.png "java-tabs-vs-spaces")](http://haacked.com/images/haacked_com/WindowsLiveWriter/PopularCodeConventionsonGitHub_D177/java-tabs-vs-spaces_2.png)
+[![java-tabs-vs-spaces](https://haacked.com/images/haacked_com/WindowsLiveWriter/PopularCodeConventionsonGitHub_D177/java-tabs-vs-spaces_thumb.png "java-tabs-vs-spaces")](https://haacked.com/images/haacked_com/WindowsLiveWriter/PopularCodeConventionsonGitHub_D177/java-tabs-vs-spaces_2.png)
 
 With that, I’m sure nobody ever will argue tabs over spaces again right?
 RIGHT?!

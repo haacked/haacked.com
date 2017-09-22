@@ -9,12 +9,12 @@ redirect_from: "/archive/2006/08/27/Removing_The_Comment_Spam_Incentive.aspx/"
 ---
 
 The other tactic I neglected to mention in my [previous
-post](http://haacked.com/archive/2006/08/29/Comment_Spam_Heuristics.aspx) on
+post](https://haacked.com/archive/2006/08/29/Comment_Spam_Heuristics.aspx) on
 combatting comment spam is more big picture.  **How do we remove the
 incentive for spammers to comment spam in the first place?**
 
 Apparently the [rel="nofollow"
-approach](http://haacked.com/archive/2005/01/20/1944.aspx) has done
+approach](https://haacked.com/archive/2005/01/20/1944.aspx) has done
 little to curb comment spammers despite many predictions (including my
 own).  I still think it is an important step in removing one incentive,
 but what else can be done to remove this incentive?

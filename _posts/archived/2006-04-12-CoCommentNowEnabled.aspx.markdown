@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/04/11/CoCommentNowEnabled.aspx/"
 ---
 
-![CoComment Logo](http://haacked.com/images/cocommentlogo.gif) My blog
+![CoComment Logo](https://haacked.com/images/cocommentlogo.gif) My blog
 now supports
 [CoComment](http://cocomment.com/ "Comment Tracking System") tracking.
 Let me know if you run into any problems with posting comments.

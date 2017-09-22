@@ -10,7 +10,7 @@ redirect_from: "/archive/2007/01/02/year_of_the_golden_pig.aspx/"
 ---
 
 Not too long ago I announced that my wife and I are [expecting a
-baby](http://haacked.com/archive/2006/11/05/World_Domination_Phase_1_Commenced.aspx "World Domination Plans")
+baby](https://haacked.com/archive/2006/11/05/World_Domination_Phase_1_Commenced.aspx "World Domination Plans")
 this year as part of our world domination plans. Adding fuel to our
 plans is the discovery that this year is a special year according to the
 Chinese Zodiac.

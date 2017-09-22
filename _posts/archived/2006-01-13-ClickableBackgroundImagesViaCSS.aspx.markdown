@@ -42,7 +42,7 @@ div.
 Which produces something that might look like this (*Trust me, the real
 thing looks a lot better*)...
 
-![](http://haacked.com/images/PageExample.jpg)
+![](https://haacked.com/images/PageExample.jpg)
 
 So everything is fine and dandy till we place the site on a staging
 server and the client asks that the header logo link back to the main

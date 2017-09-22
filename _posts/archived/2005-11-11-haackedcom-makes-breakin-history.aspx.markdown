@@ -10,7 +10,7 @@ redirect_from: "/archive/2005/11/10/haackedcom-makes-breakin-history.aspx/"
 
 I would like to take this moment to point out that as far as I know (and
 the judges are still confirming this), I may have made history with [my
-last blog post](http://haacked.com/archive/2005/11/12/11184.aspx) as the
+last blog post](https://haacked.com/archive/2005/11/12/11184.aspx) as the
 first geek blogger in history to mention
 [Breakin'](http://imdb.com/title/tt0086998/), [Electric
 Boogaloo](http://imdb.com/title/tt0086999/) and [Beat

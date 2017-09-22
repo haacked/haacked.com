@@ -9,7 +9,7 @@ redirect_from: "/archive/2007/05/27/the-only-universal-language-in-software-is-e
 ---
 
 In a [recent
-post](http://haacked.com/archive/2007/05/24/ruby-like-syntax-in-c-3.0.aspx "Ruby Like syntaxt in C# 3.0"),
+post](https://haacked.com/archive/2007/05/24/ruby-like-syntax-in-c-3.0.aspx "Ruby Like syntaxt in C# 3.0"),
 I compared the expressiveness of the Ruby style of writing code to the
 current C\# style of writing code. I then went on and demonstrated one
 approach to achieving something close to Ruby’s expressiveness using

@@ -12,7 +12,7 @@ UPDATE: This post was meant to be mostly tongue in cheek. I love
 programmers. Some of my best friends are programmers. Also, to be fair
 to the FizzBuzzers, the spec for this question is flawed, as are all
 specs as I point out in [Why Can’t Spec Writers Write
-Specs](http://haacked.com/archive/2007/03/07/Why_Cant_Spec_Writers_Write.Specs.aspx "blog post on spec writing").
+Specs](https://haacked.com/archive/2007/03/07/Why_Cant_Spec_Writers_Write.Specs.aspx "blog post on spec writing").
 
 You gotta love
 [CodingHorror.com](http://codinghorror.com/ "Jeff Atwood’s Blog"). Once

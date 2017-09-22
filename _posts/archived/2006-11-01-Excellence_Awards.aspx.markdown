@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/10/31/Excellence_Awards.aspx/"
 ---
 
 A while ago [I
-mentioned](http://haacked.com/archive/2006/09/21/Subtext_Success_Story.aspx "Subtext Success Stories")
+mentioned](https://haacked.com/archive/2006/09/21/Subtext_Success_Story.aspx "Subtext Success Stories")
 that [my company](http://veloc-it.com/ "VelocIT"), in collaboration with
 [Shepard
 Associates](http://www.shepardassociates.com/ "Shepard Associates") built

@@ -9,7 +9,7 @@ redirect_from: "/archive/2004/07/22/tranforming-xml-over-http-to-soap-with-a-soa
 ---
 
 ![Soap](/images/soap.jpg) In my last
-[post](http://haacked.com/archive/2004/07/23/842.aspx) I discussed a
+[post](https://haacked.com/archive/2004/07/23/842.aspx) I discussed a
 client who requires that we build a web service using a proprietary XML
 format (lets call it MyXML) so his mobile devices can interact with our
 platform.

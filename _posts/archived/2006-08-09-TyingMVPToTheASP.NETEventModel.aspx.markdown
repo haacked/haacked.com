@@ -11,7 +11,7 @@ redirect_from: "/archive/2006/08/08/TyingMVPToTheASP.NETEventModel.aspx/"
 I knew this question would come up, so I figure I would address it in
 its own blog post. [Mike](http://geekswithblogs.net/opiesblog "Mike")
 asks a great question about my [MVP
-implementation](http://haacked.com/archive/2006/08/09/ASP.NETSupervisingControllerModelViewPresenterFromSchematicToUnitTestsToCode.aspx "Model View Presenter")
+implementation](https://haacked.com/archive/2006/08/09/ASP.NETSupervisingControllerModelViewPresenterFromSchematicToUnitTestsToCode.aspx "Model View Presenter")
 (actually he asks two).
 
 > One observation...don't you seem to be tying the presenter to the

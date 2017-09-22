@@ -19,10 +19,10 @@ skins and allow others to download the skins. The other part of the site
 displays the default skins in Subtext.
 
 [![Glossy
-Blue](http://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/glossyblue.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/glossyblue1.jpg "Glossy Blue")
-[![Terrafirma](http://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/terrafirma.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/terrafirma1.jpg "Terra Firma")
-[![Dirtylicious](http://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/dirtylicious.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/dirtylicious1.jpg "Dirtylicious")
-[![Informatif](http://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/informatif.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/informatif1.jpg "Informatif")
+Blue](https://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/glossyblue.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/glossyblue1.jpg "Glossy Blue")
+[![Terrafirma](https://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/terrafirma.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/terrafirma1.jpg "Terra Firma")
+[![Dirtylicious](https://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/dirtylicious.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/dirtylicious1.jpg "Dirtylicious")
+[![Informatif](https://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/informatif.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/informatif1.jpg "Informatif")
 
 It appears that Tim has been porting some of the nicer designs in the
 [Open Designs](http://opendesigns.org/ "Open Source Website Designers")

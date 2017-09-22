@@ -22,7 +22,7 @@ In a [recent Octotale video](https://www.youtube.com/watch?v=LreQfx5x740), Deser
 
 Several months ago, I took a new position as an Engineering Director at GitHub. It's not clear to a lot of people that GitHub has managers much less directors now. When I started, we had around fifty employees and a flat corporate structure. Two years ago, [we introduced management](http://www.bloomberg.com/news/articles/2016-09-06/why-github-finally-abandoned-its-bossless-workplace).
 
-Several months ago, we introduced directors, a position that's also new to me. What this means is that I now manage managers. I guess this is what happens to people who like to [blog about blogging](http://haacked.com/archive/2005/03/13/Blogging-About-Blogging-AboutBlogging.aspx/), they end up managing managers. I enjoy the meta.
+Several months ago, we introduced directors, a position that's also new to me. What this means is that I now manage managers. I guess this is what happens to people who like to [blog about blogging](https://haacked.com/archive/2005/03/13/Blogging-About-Blogging-AboutBlogging.aspx/), they end up managing managers. I enjoy the meta.
 
 At GitHub, engineering managers are very hands on technically. They are technical leaders who help coach teams to greater success. Kind of like Pete Rose who was a player-manager when he broke the all-time hit record set by the irascible Ty Cobb.
 
@@ -42,7 +42,7 @@ So that leads me to the topic at hand. Several of these teams are hiring. Here a
 
 If building tools for this and the next generation of developers inspires you, take a look. We're looking for software engineers who thrive as part of a team in a supportive environment. The New York Times recently [published an article about what Google learned in its quest to build a perfect team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0). The lessons they learned about what people think makes a great team and what actually works are very interesting. We want to be a place that embodies that sort of team.
 
-As our [Jobs page mentions](https://github.com/about/jobs), we're focused on building a diverse and inclusive workplace. We have a nice benefits package that includes a generous parental leave policy. We have flexible work schedules and [a generous vacation policy](http://haacked.com/archive/2016/02/18/unlimited-vaction-pitfalls/).
+As our [Jobs page mentions](https://github.com/about/jobs), we're focused on building a diverse and inclusive workplace. We have a nice benefits package that includes a generous parental leave policy. We have flexible work schedules and [a generous vacation policy](https://haacked.com/archive/2016/02/18/unlimited-vaction-pitfalls/).
 
 I believe the reason we provide all this is because we're focused on building a sustainable environment for people to do great work. We don't want to bring a person in just to wring out as much code as possible from them because people bring so much more than just the code they can write to the table.
 

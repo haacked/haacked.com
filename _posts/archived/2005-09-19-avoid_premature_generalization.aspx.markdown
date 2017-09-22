@@ -20,7 +20,7 @@ accessible via property nor direct access.
 
 The place you’ll often see premature generalization is when
 inexperienced developers start applying [Design Patterns
-everywhere](http://haacked.com/archive/2005/05/31/3935.aspx). If you
+everywhere](https://haacked.com/archive/2005/05/31/3935.aspx). If you
 need to instantiate a factory, implement an adapter class and use a
 bridge to the toilet just to take a dump, then you probably live with a
 developer with a premature generalization problem.

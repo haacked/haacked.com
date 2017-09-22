@@ -14,7 +14,7 @@ No, I’m not talking about my mental age.
 
 My son turned four this past week which means I’m four years into [my
 world domination
-plan](http://haacked.com/archive/2006/11/05/World_Domination_Phase_1_Commenced.aspx "World domination plan").
+plan](https://haacked.com/archive/2006/11/05/World_Domination_Phase_1_Commenced.aspx "World domination plan").
 One of the gifts we gave my son was a toolbox with plastic toys so we
 can train him on building the mega-lasers and fortresses needed to take
 over the world. Turns out that before you start dominating the world,
@@ -73,5 +73,5 @@ tales of old men playing Soccer.
 I’m on vacation next week so things should be quiet for me here. Unless
 past behavior is any indication in which case I’ll blog a thousand
 technical posts. Thanks for reading.
-![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/c5dc3038ce0e_7B99/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/c5dc3038ce0e_7B99/wlEmoticon-smile_2.png)
 

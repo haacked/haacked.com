@@ -12,7 +12,7 @@ redirect_from: "/archive/2010/07/02/razor-view-syntax.aspx/"
 ---
 
 UPDATE: Check out my [Razor View Syntax Quick
-Reference](http://haacked.com/archive/2011/01/06/razor-syntax-quick-reference.aspx "Razor Quick Reference")
+Reference](https://haacked.com/archive/2011/01/06/razor-syntax-quick-reference.aspx "Razor Quick Reference")
 for a nice quick reference to Razor.
 
 There’s an old saying, “Good things come to those who wait.” I remember
@@ -27,7 +27,7 @@ in [this very detailed blog
 post](http://weblogs.asp.net/scottgu/archive/2010/07/02/introducing-razor.aspx "Introducing Razor").
 
 [![Photo by "clix"
-http://www.sxc.hu/photo/955098](http://haacked.com/images/haacked_com/WindowsLiveWriter/RazorViewEngineSyntax_7125/razor_thumb.jpg "Photo by "clix" http://www.sxc.hu/photo/955098")](http://haacked.com/images/haacked_com/WindowsLiveWriter/RazorViewEngineSyntax_7125/razor_2.jpg)
+http://www.sxc.hu/photo/955098](https://haacked.com/images/haacked_com/WindowsLiveWriter/RazorViewEngineSyntax_7125/razor_thumb.jpg "Photo by "clix" http://www.sxc.hu/photo/955098")](https://haacked.com/images/haacked_com/WindowsLiveWriter/RazorViewEngineSyntax_7125/razor_2.jpg)
 
 While I’m very excited about the new streamlined syntax, there’s a lot
 under the hood I’m also excited about.

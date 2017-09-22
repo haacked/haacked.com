@@ -31,7 +31,7 @@ choosing an abstract base class in this one instance.
 
 All engineering problems are about optimizing for constraints. As I’ve
 written before, there is [no perfect
-design](http://haacked.com/archive/2005/05/31/ThereIsNoPerfectDesign.aspx "There is no perfect design"),
+design](https://haacked.com/archive/2005/05/31/ThereIsNoPerfectDesign.aspx "There is no perfect design"),
 partly because we’re all optimizing for different constraints. The
 constraints you have in your job are probably different than the
 constraints that I have in my job.
@@ -220,7 +220,7 @@ My gut feeling is that most disagreements will focus on the premise, the
 constraint, of avoiding breaking changes at all costs. This is where you
 might find me in some agreement. After all, before I joined Microsoft, I
 wrote a blog post asking, [Is Backward Compatibility Holding Microsoft
-Back?](http://haacked.com/archive/2006/10/01/Is_Backward_Compatibility_Holding_Microsoft_Back.aspx "Backwards Compatibility and Microsoft")
+Back?](https://haacked.com/archive/2006/10/01/Is_Backward_Compatibility_Holding_Microsoft_Back.aspx "Backwards Compatibility and Microsoft")
 Now that I am on the inside, I realize the answer requires more nuance
 than a simple yes or no answer. So I will touch on this topic in an
 upcoming post.

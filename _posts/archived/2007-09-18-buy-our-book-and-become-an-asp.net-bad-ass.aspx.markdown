@@ -8,9 +8,9 @@ categories: []
 redirect_from: "/archive/2007/09/17/buy-our-book-and-become-an-asp.net-bad-ass.aspx/"
 ---
 
-[![41XDcuGaQrL.\_AA240\_](http://haacked.com/images/haacked_com/WindowsLiveWriter/BuyOurBookAndBecomeAnASP.NETBadAss_12E22/41XDcuGaQrL._AA240_.jpg)](http://www.amazon.com/gp/product/098028581X?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=098028581X "ASP.NET 2.0 Anthology")
+[![41XDcuGaQrL.\_AA240\_](https://haacked.com/images/haacked_com/WindowsLiveWriter/BuyOurBookAndBecomeAnASP.NETBadAss_12E22/41XDcuGaQrL._AA240_.jpg)](http://www.amazon.com/gp/product/098028581X?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=098028581X "ASP.NET 2.0 Anthology")
 Remember the book I mentioned that [I was
-writing](http://haacked.com/archive/2006/11/19/Writing_A_Book.aspx "Writing a Book")
+writing](https://haacked.com/archive/2006/11/19/Writing_A_Book.aspx "Writing a Book")
 along with a few colleagues? Well it is finally [available for
 pre-order](http://www.amazon.com/gp/product/098028581X?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=098028581X "The ASP.NET 2.0 Anthology")
 on Amazon.com!

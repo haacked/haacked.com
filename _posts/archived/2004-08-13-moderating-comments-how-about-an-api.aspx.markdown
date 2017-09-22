@@ -22,6 +22,6 @@ it.
 
 The API would probably be similar to the
 [CommentAPI](http://wellformedweb.org/story/9) or my
-[RatingAPI](http://haacked.com/archive/2004/04/24/359.aspx), but with a
+[RatingAPI](https://haacked.com/archive/2004/04/24/359.aspx), but with a
 few modifications specific to comments. I'll propose one later.
 

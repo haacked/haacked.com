@@ -33,5 +33,5 @@ To fix this issue, I went to the *Tools* | *Options* menu in Skype and
 selected the *Connection* and unchecked the box next to “Use port 80 and
 443 as alternatives for incoming connections.”
 
-![](http://haacked.com/images/SkypeOptions.jpg)
+![](https://haacked.com/images/SkypeOptions.jpg)
 

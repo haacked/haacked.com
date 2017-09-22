@@ -6,7 +6,7 @@ comments: true
 categories: [csharp style code]
 ---
 
-Like many developers, I have many strong opinions about things that really do not matter. Even worse, I [have the vanity](http://haacked.com/archive/2004/10/08/bloggingispurevanity.aspx/) to believe other developers want to read about it.
+Like many developers, I have many strong opinions about things that really do not matter. Even worse, I [have the vanity](https://haacked.com/archive/2004/10/08/bloggingispurevanity.aspx/) to believe other developers want to read about it.
 
 For example, a recent [Octokit.net pull request](https://github.com/octokit/octokit.net/pull/1012) changed all instances of `String` to `string`. As a reminder, `String` actually represents the type `System.String` and `string` is the nice C# alias for `System.String`. To the compiler, these are the _exact same thing_. So ultimately, it doesn't really matter.
 

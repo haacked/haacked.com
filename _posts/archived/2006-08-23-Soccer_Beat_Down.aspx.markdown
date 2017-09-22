@@ -12,7 +12,7 @@ Tonight we had our first game of the new season against Hollywood United
 who now feature [Alexi
 Lalas](http://en.wikipedia.org/wiki/Alexi_Lalas "Alexi on Wikipedia")
 and [Frank Le
-Boeuf](http://haacked.com/archive/2006/03/24/PlayingAgainstAWorldCupWinner.aspx "Former Chelsea player"),
+Boeuf](https://haacked.com/archive/2006/03/24/PlayingAgainstAWorldCupWinner.aspx "Former Chelsea player"),
 among several other former pro and national team players.  Let’s just
 say the result wasn’t pretty.  At least not pretty for us as they
 dismantled us 12 to 0.
@@ -26,7 +26,7 @@ game, none of them turned out too well.  Here is the best I got showing
 both these players.
 
 ![Frank and Alexi on the
-Pitch](http://haacked.com/images/SoccerBeatDown_13B67/AlexiAndFrank_thumb.jpg)
+Pitch](https://haacked.com/images/SoccerBeatDown_13B67/AlexiAndFrank_thumb.jpg)
 
 I had one good play in which I dummied the ball, faking Alexi and taking
 him out of the play as he was hot on my back (I know, I’m reaching

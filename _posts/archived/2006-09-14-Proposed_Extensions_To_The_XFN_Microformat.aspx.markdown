@@ -9,11 +9,11 @@ redirect_from: "/archive/2006/09/13/Proposed_Extensions_To_The_XFN_Microformat.a
 ---
 
 [![Source:
-http://www.hollywoodjesus.com/movie/friends/20.jpg](http://haacked.com/images/haacked_com/WindowsLiveWriter/ProposedExtensionsToTheXFNMicroformat_121EE/CastOfFriends_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/ProposedExtensionsToTheXFNMicroformat_121EE/CastOfFriends2.jpg)
+http://www.hollywoodjesus.com/movie/friends/20.jpg](https://haacked.com/images/haacked_com/WindowsLiveWriter/ProposedExtensionsToTheXFNMicroformat_121EE/CastOfFriends_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/ProposedExtensionsToTheXFNMicroformat_121EE/CastOfFriends2.jpg)
 If you’ve read my blog you know I have a bit of a [thing for
-Microformats](http://haacked.com/archive/2006/05/11/IntroductionToMicroformatsArticle.aspx). 
+Microformats](https://haacked.com/archive/2006/05/11/IntroductionToMicroformatsArticle.aspx). 
 I once wrote a little [special effect
-script](http://haacked.com/archive/2006/04/05/MakingMicroformatsMoreVisibleAnnouncingTheXFNHighlighterScript.aspx)
+script](https://haacked.com/archive/2006/04/05/MakingMicroformatsMoreVisibleAnnouncingTheXFNHighlighterScript.aspx)
 to highlight links to your friends when marked up using the [XFN (XHTML
 Friends Network) Microformat](http://gmpg.org/xfn/) used to denote
 relationships to people you link to.
@@ -32,7 +32,7 @@ could be hurt!***
 By now you probably think I have some serious issues (very true) and am
 being overly paranoid.  But check out [Scott
 Hanselman’s](http://computerzen.com/)
-[response](http://haacked.com/archive/2006/04/05/MakingMicroformatsMoreVisibleAnnouncingTheXFNHighlighterScript.aspx#12277)
+[response](https://haacked.com/archive/2006/04/05/MakingMicroformatsMoreVisibleAnnouncingTheXFNHighlighterScript.aspx#12277)
 when I metadata’d him as an acquaintance. He called me a
 dick!  \*sniff\* \*sniff\* Ouch!  Well technically he used well formed
 markup (no namespace declared) to make that point, which softened the
@@ -54,7 +54,7 @@ homie
     would be *buddy*. Often Symmetric.
 friend-with-benefits 
 :   As a [very happily married
-    man](http://haacked.com/archive/2006/09/12/Four_Good_Years_And_The_Prospect_Of_Forty_More.aspx),
+    man](https://haacked.com/archive/2006/09/12/Four_Good_Years_And_The_Prospect_Of_Forty_More.aspx),
     I have no use for this, but maybe you do, tiger. Hopefully
     Symmetric.
 frend-4-evers 

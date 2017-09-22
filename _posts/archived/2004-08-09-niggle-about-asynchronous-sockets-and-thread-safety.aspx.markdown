@@ -11,7 +11,7 @@ redirect_from: "/archive/2004/08/08/niggle-about-asynchronous-sockets-and-thread
 
 [Ian Griffiths](http://www.interact-sw.co.uk/iangblog/) finds a
 [niggle](http://dictionary.reference.com/search?q=niggle) about my
-[post](http://haacked.com/archive/2004/08/06/882.aspx) on sockets.
+[post](https://haacked.com/archive/2004/08/06/882.aspx) on sockets.
 
 This may surprise a few friends of mine who regard me as a "human
 dictionary", but I had to look up the word "niggle". Apparently only the

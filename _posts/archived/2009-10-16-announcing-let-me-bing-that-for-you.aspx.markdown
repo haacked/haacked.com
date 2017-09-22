@@ -22,7 +22,7 @@ little annoyance by providing a passive aggressive means to tell
 annoying question askers to bugger off while at the same time teaching
 them the power of using a search engine to help themselves.
 
-[![lmbtfy](http://haacked.com/images/haacked_com/WindowsLiveWriter/AnnouncingLetMeBingThatForYou_D717/lmbtfy_thumb.png "lmbtfy")](http://haacked.com/images/haacked_com/WindowsLiveWriter/AnnouncingLetMeBingThatForYou_D717/lmbtfy_2.png)When
+[![lmbtfy](https://haacked.com/images/haacked_com/WindowsLiveWriter/AnnouncingLetMeBingThatForYou_D717/lmbtfy_thumb.png "lmbtfy")](https://haacked.com/images/haacked_com/WindowsLiveWriter/AnnouncingLetMeBingThatForYou_D717/lmbtfy_2.png)When
 I first heard about the Microsoft’s new search engine,
 [Bing](http://bing.com/ "Bing"), I jumped at purchasing the domain name
 [http://letmebingthatforyou.com/](http://letmebingthatforyou.com/ "Let Me Bing That For You")

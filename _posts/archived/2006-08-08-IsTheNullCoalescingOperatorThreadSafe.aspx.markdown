@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/08/07/IsTheNullCoalescingOperatorThreadSafe.aspx/"
 ---
 
 In response to [my blog
-post](http://haacked.com/archive/2006/08/07/TinyTrickForViewStateBackedProperties.aspx "Tiny Trick")
+post](https://haacked.com/archive/2006/08/07/TinyTrickForViewStateBackedProperties.aspx "Tiny Trick")
 on ViewState backed properties and the Null Coalescing operator, [Scott
 Watermasysk](http://scottwater.com/blog/ "Scott Watermasysk") expresses
 a worry that the null coalescing operator opens one up to a race

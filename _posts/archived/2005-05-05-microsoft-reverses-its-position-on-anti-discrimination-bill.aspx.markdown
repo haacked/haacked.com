@@ -15,7 +15,7 @@ From Scoble's blog we hear that...
 > anti-discrimination bill.
 
 You know, it would be petty to say it, but I will. I [Told You
-So](http://haacked.com/archive/2005/04/24/2818.aspx)! ;) All kidding
+So](https://haacked.com/archive/2005/04/24/2818.aspx)! ;) All kidding
 aside, I'm heartened to see Microsoft change its positions. It just
 shows that corporations can look solely past the bottom line and
 consider the common good. In doing so, I believe it will support the

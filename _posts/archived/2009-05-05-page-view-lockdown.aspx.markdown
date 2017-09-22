@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2009/05/04/page-view-lockdown.aspx/"
 ---
 
-[![lockdown](http://haacked.com/images/haacked_com/WindowsLiveWriter/PutYourViewsonLockdown_DB88/lockdown_3.jpg "lockdown")](http://www.sxc.hu/photo/1135166 "Lock on stock.xchng")As
+[![lockdown](https://haacked.com/images/haacked_com/WindowsLiveWriter/PutYourViewsonLockdown_DB88/lockdown_3.jpg "lockdown")](http://www.sxc.hu/photo/1135166 "Lock on stock.xchng")As
 I’m sure you know, we developers are very particular people and we like
 to have things exactly our way. How else can you explain long winded
 impassioned debates over [curly brace
@@ -107,7 +107,7 @@ MVC](http://asp.net/mvc "ASP.NET MVC Website") is a bit trickier because
 it already has a parse filter registered, `ViewTypeParserFilter`, which
 handles part of the voodoo black magic in order to remove the need for
 [code-behind in views when using a generic model
-type](http://haacked.com/archive/2008/12/19/a-little-holiday-love-from-the-asp.net-mvc-team.aspx "Holiday Love").
+type](https://haacked.com/archive/2008/12/19/a-little-holiday-love-from-the-asp.net-mvc-team.aspx "Holiday Love").
 Remember those particular developers I was talking about?
 
 Suppose we want to prevent developers from using server controls which
@@ -120,7 +120,7 @@ we can do is simply grab the ASP.NET MVC source code for that type,
 rename the type and namespace, and then change it to meet our needs.
 Once we’re done, we can even share those changes with others. This is
 one of the benefits of having an [open source license for ASP.NET
-MVC](http://haacked.com/archive/2009/04/01/aspnetmvc-open-source.aspx "Open Source License for System.Web.Mvc").
+MVC](https://haacked.com/archive/2009/04/01/aspnetmvc-open-source.aspx "Open Source License for System.Web.Mvc").
 
 **WARNING:** The fact that we implement a `ViewTypeParserFilter` is an
 implementation detail. The goal is that in the future, we wouldn’t need
@@ -159,5 +159,5 @@ within the Views directory to set the parser filter to this one.
 This is a powerful tool for hooking into the parsing of a web page, so
 do be careful with it. As you might expect, I have a **[very simple demo
 of this feature
-here](http://haacked.com/code/PageParseFilterDemo.zip "PageParserFilter Demo")**.
+here](https://haacked.com/code/PageParseFilterDemo.zip "PageParserFilter Demo")**.
 
