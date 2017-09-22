@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2005/06/21/geolocation-recommendations.aspx/"
 ---
 
-![Geolocation](http://haacked.com/images/geolocation.jpg) Anybody out
+![Geolocation](https://haacked.com/images/geolocation.jpg) Anybody out
 there use a geolocation service they are happy with?
 
 In case you’re unfamiliar with the term (and thus unlikely to be able to

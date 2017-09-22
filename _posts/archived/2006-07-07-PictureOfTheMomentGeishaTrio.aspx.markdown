@@ -9,13 +9,13 @@ redirect_from: "/archive/2006/07/06/PictureOfTheMomentGeishaTrio.aspx/"
 ---
 
 A while ago I had the idea of posting a [picture of the
-day](http://haacked.com/archive/2005/12/13/11334.aspx "Bilbao Metro Entrance").
+day](https://haacked.com/archive/2005/12/13/11334.aspx "Bilbao Metro Entrance").
 Of course I didn’t mean *every* day, but the title might lead one to
 believe so. Therefore in order to reduce confusion, here is the next
 photo in my Picture of the Moment series.
 
 [![Geisha
-Trio](http://haacked.com/images/GeishaTrio.jpg)](http://flickr.com/photos/haacked/17432593/ "This pic on Flickr")
+Trio](https://haacked.com/images/GeishaTrio.jpg)](http://flickr.com/photos/haacked/17432593/ "This pic on Flickr")
 
 This is the most favorited and interesting picture according to Flickr
 in my Flickr account. So naturally that tells you that it wasn’t me who

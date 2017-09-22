@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/10/08/tivo_for_your_registry.aspx/"
 ---
 
 ![Tivo
-Icon](http://haacked.com/images/haacked_com/WindowsLiveWriter/TivoForYourRegistry_A88C/tivo%5B6%5D.jpg)
+Icon](https://haacked.com/images/haacked_com/WindowsLiveWriter/TivoForYourRegistry_A88C/tivo%5B6%5D.jpg)
 Ever prolific [Jon
 Galloway](http://weblogs.asp.net/jgalloway/ "Jon Galloway Blog") has
 released another tool on our [tools
@@ -30,7 +30,7 @@ managing and spelunking your system.
 So great, in fact, that
 [Robb](http://blog.robballen.com/ "Robb Allen Blog") feels he [owes them
 his
-child](http://haacked.com/archive/2006/10/08/Power_Tools_For_Disk_Defragmenting.aspx#17917 "Gratitude Comment")
+child](https://haacked.com/archive/2006/10/08/Power_Tools_For_Disk_Defragmenting.aspx#17917 "Gratitude Comment")
 in gratitude.
 
 Kudos to Microsoft for [snatching up Mark Russinovich and Winternals

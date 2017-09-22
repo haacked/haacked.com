@@ -72,7 +72,7 @@ What I Liked In 2010
     I found a read a much wider variety of blog posts due to Twitter and
     unfortunately didn’t remember to bookmark my favorite of the year.
     I’ll try better next year.
-    ![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/wlEmoticon-smile_2.png)
+    ![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/wlEmoticon-smile_2.png)
 -   **Gadgets:** This is a tie between my iPhone 4 and my
     [Kinect](http://www.amazon.com/gp/product/B002BSA298?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002BSA298 "Kinect on Amazon.com").
     I am on my phone all the time. Perhaps too much. Ok, definitely too
@@ -86,7 +86,7 @@ What I Liked In 2010
 -   **My Kids:**Seriously, they’re cool! (I like my wife too, but she
     doesn’t like her picture plastered on the web. My kids get no
     choice.) ![Winking
-    smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/wlEmoticon-winkingsmile_2.png)[![Me-and-the-kids](http://haacked.com/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/Me-and-the-kids_thumb_1.jpg "Me-and-the-kids")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/Me-and-the-kids_4.jpg)
+    smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/wlEmoticon-winkingsmile_2.png)[![Me-and-the-kids](https://haacked.com/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/Me-and-the-kids_thumb_1.jpg "Me-and-the-kids")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/Me-and-the-kids_4.jpg)
 
 Memorable Moments/Trips of 2010
 -------------------------------
@@ -95,19 +95,19 @@ Here are some memorable moments from 2010 that I happened to blog about.
 I’m sure there are many others memorable moments I forgot to blog about.
 
 -   **February** I [visited Austin Texas for the first
-    time](http://haacked.com/archive/2010/02/28/austin-texas-great-for-geeks.aspx "Visiting Austin").
+    time](https://haacked.com/archive/2010/02/28/austin-texas-great-for-geeks.aspx "Visiting Austin").
     I spoke at the Austin .NET User Group as well as at Dell and enjoyed
     the fine taste of Rudy’s BBQ. I spent every moment reminding Texans
     that if Alaska were split in half to make two states, Texas would be
     the third largest state in the union.
 -   **March** We [released ASP.NET MVC
-    2](http://haacked.com/archive/2010/03/11/aspnet-mvc2-released.aspx "ASP.NET MVC 2 RTM")
+    2](https://haacked.com/archive/2010/03/11/aspnet-mvc2-released.aspx "ASP.NET MVC 2 RTM")
     which was shortly followed with the [source code release of
-    System.Web.Mvc.dll](http://haacked.com/archive/2010/03/12/ms-pl-source-release-for-system-web-mvc-2.aspx "ASP.NET MVC 2 Source Code")
+    System.Web.Mvc.dll](https://haacked.com/archive/2010/03/12/ms-pl-source-release-for-system-web-mvc-2.aspx "ASP.NET MVC 2 Source Code")
     under the Ms-PL license. I was allowed exactly two breaths of relief
     before getting started on ASP.NET MVC 3. In the same month, I
     [attended the Mix 10
-    conference](http://haacked.com/archive/2010/03/22/good-times-and-vibes-at-mix-10.aspx "Good times at Mix 10")
+    conference](https://haacked.com/archive/2010/03/22/good-times-and-vibes-at-mix-10.aspx "Good times at Mix 10")
     in Las Vegas and met [John
     Resig](http://ejohn.org/ "John Resig's Blog") and [Douglas
     Crockford](http://www.crockford.com/ "Douglas Crockford's Website")
@@ -115,23 +115,23 @@ I’m sure there are many others memorable moments I forgot to blog about.
     [Scott Hanselman](http://hanselman.com/ "Scott Hanselman's Blog")
     which is always a good time.
 -   **April** I [attempted an April Fool’s
-    joke](http://haacked.com/archive/2010/03/31/a-new-closed-source-viral-license.aspx "Closed Source Viral License").
+    joke](https://haacked.com/archive/2010/03/31/a-new-closed-source-viral-license.aspx "Closed Source Viral License").
     I’ve been told many times I should leave comedy to the experts, but
     I don’t see the fun in that.
 -   **June** The Subtext team and I [released version 2.5 of
-    Subtext](http://haacked.com/archive/2010/06/06/subtext-2-5-released.aspx "Subtext 2.5 released!").
+    Subtext](https://haacked.com/archive/2010/06/06/subtext-2-5-released.aspx "Subtext 2.5 released!").
     The pace of work on Subtext has really slowed down as work has kept
     me busier and busier, but we’re still improving it and getting
     closer to another release. Also in June, I [took my son to
-    Alaska](http://haacked.com/archive/2010/06/27/back-from-alaska.aspx "Alaska Trip")
+    Alaska](https://haacked.com/archive/2010/06/27/back-from-alaska.aspx "Alaska Trip")
     to visit his grandparents as a little vacation. While there, I spoke
     at the Alaska .NET User Group. No moose were in attendance.
 -   **July** We released the [first preview of ASP.NET MVC
-    3](http://haacked.com/archive/2010/07/27/aspnetmvc3-preview1-released.aspx "ASP.NET MVC 3 Preview 1 Released").
+    3](https://haacked.com/archive/2010/07/27/aspnetmvc3-preview1-released.aspx "ASP.NET MVC 3 Preview 1 Released").
     This was the first public disclosure of the new streamlined Razor
     syntax for views. Nobody was cut in the process.
 -   **August** After a five year absence, I [returned to Black Rock
-    City](http://haacked.com/archive/2010/08/29/attention-denizens-of-black-rock-city.aspx "Attention Denizens of Black Rock City")
+    City](https://haacked.com/archive/2010/08/29/attention-denizens-of-black-rock-city.aspx "Attention Denizens of Black Rock City")
     for the Burning Man festival. As best as I can tell, I did not die
     while there.
 -   **September**I [presented at Web Camp
@@ -139,14 +139,14 @@ I’m sure there are many others memorable moments I forgot to blog about.
     In the evening, I visited my old friends and we went curling. Yeah,
     seriously.
 -   **October** We publicly [announced the NuGet package
-    manager](http://haacked.com/archive/2010/10/06/introducing-nupack-package-manager.aspx "Introducing NuGet")
+    manager](https://haacked.com/archive/2010/10/06/introducing-nupack-package-manager.aspx "Introducing NuGet")
     project (it was initially called NuPack). This was a project I had
     been working on at the same time as ASP.NET MVC 3. To me, this
     project was very significant as it’s an open source project that
     accepts external contributions! But don’t worry, we also reject some
     too.
 -   **December** We [released the second release
-    candidate](http://haacked.com/archive/2010/12/10/asp-net-mvc-3-release-candidate-2.aspx "ASP.NET MVC 3 RC 2")
+    candidate](https://haacked.com/archive/2010/12/10/asp-net-mvc-3-release-candidate-2.aspx "ASP.NET MVC 3 RC 2")
     for ASP.NET MVC 3.
 
 My Top 3 Posts (Using the [Ayende Formula](http://ayende.com/Blog/archive/2007/03/09/Calculating-most-popular-posts-with-SubText.aspx "Ayende Formula"))
@@ -162,17 +162,17 @@ think are most interesting. But that’s typically the case. I have bad
 taste.
 
 -   [ASP.NET MVC 2 Optional URL
-    Parameters](http://haacked.com/archive/2010/02/12/asp-net-mvc-2-optional-url-parameters.aspx "ASP.NET MVC 2 Optional URL Parameters")
+    Parameters](https://haacked.com/archive/2010/02/12/asp-net-mvc-2-optional-url-parameters.aspx "ASP.NET MVC 2 Optional URL Parameters")
     Covers using `UrlParameter.Optional` for optional Routing
     paramreters in ASP.NET MVC 2 (*36 comments, 40,542 Web views, 23,818
     aggregator views*).
 -   [Sending JSON to an ASP.NET MVC Action Method
-    Argument](http://haacked.com/archive/2010/04/15/sending-json-to-an-asp-net-mvc-action-method-argument.aspx "Sending JSON")
+    Argument](https://haacked.com/archive/2010/04/15/sending-json-to-an-asp-net-mvc-action-method-argument.aspx "Sending JSON")
     This post covers posting JSON to an action method in ASP.NET MVC 2.
     Some of the code presented in this post is now built-in with ASP.NET
     MVC 3. (*39 comments, 37,668 web views, 21,899 aggregator views*)
 -   [Razor View
-    Syntax](http://haacked.com/archive/2010/07/03/razor-view-syntax.aspx "Razor View Syntax")
+    Syntax](https://haacked.com/archive/2010/07/03/razor-view-syntax.aspx "Razor View Syntax")
     This post gave a little bit of the backstory about the new Razor
     syntax our team built for ASP.NET MVC as well as a new product,
     ASP.NET Web Pages. (*43 comments, 27640 web views, 23234 aggregator
@@ -185,15 +185,15 @@ The Haack Formula just involves me arbitrarily picking my personal
 favorites.
 
 -   [We’re Not Paid To Write
-    Code](http://haacked.com/archive/2010/08/26/not-paid-to-write-code.aspx "Not Paid To Write Code")
+    Code](https://haacked.com/archive/2010/08/26/not-paid-to-write-code.aspx "Not Paid To Write Code")
     I argue that there’s something else that we’re really being paid to
     do, and it’s not Solitaire.
 -   [Not Really Interested in
-    Lean](http://haacked.com/archive/2010/12/20/not-really-interested-in-lean.aspx "Not Really Interested in Lean")
+    Lean](https://haacked.com/archive/2010/12/20/not-really-interested-in-lean.aspx "Not Really Interested in Lean")
     There’s something else I’m really interested in, lean is just a
     means to get there.
 -   [Is Arrogance a Factor in
-    Success](http://haacked.com/archive/2010/06/06/is-arrogance-a-factor-in-success.aspx "Arrogance")
+    Success](https://haacked.com/archive/2010/06/06/is-arrogance-a-factor-in-success.aspx "Arrogance")
     I argue that Joy is more important.
 
 Enough About Me, What about You?
@@ -217,12 +217,12 @@ According to Google Analytics:
     year.
 -   **What you read:** The blog post most visited in 2010 was written in
     2009, [Using jQuery Grid with ASP.NET
-    MVC](http://haacked.com/archive/2009/04/14/using-jquery-grid-with-asp.net-mvc.aspx "Using jQuery Grid with MVC")
+    MVC](https://haacked.com/archive/2009/04/14/using-jquery-grid-with-asp.net-mvc.aspx "Using jQuery Grid with MVC")
     with 93,715 page views.
 -   **How’d you get here:** As usual, most of you came here via Google
     search results (1,120,983), which probably means most of you aren’t
     reading this. ![Winking
-    smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/wlEmoticon-winkingsmile_2.png)
+    smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/wlEmoticon-winkingsmile_2.png)
     In second place, many of you came here directly (254,533) via typing
     the URL to this blog in an address bar (or clicking on a bookmark,
     etc.).

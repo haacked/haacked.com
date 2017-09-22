@@ -17,7 +17,7 @@ Strangely enough, I’m having a [sense of deja
 vu](http://friendster.com/ "Friendster").
 
 ![twitter
-logo](http://haacked.com/images/haacked_com/WindowsLiveWriter/IsTwittervsJaikuaReplayofFriendstervsMyS_129E3/twitter_thumb.png)
+logo](https://haacked.com/images/haacked_com/WindowsLiveWriter/IsTwittervsJaikuaReplayofFriendstervsMyS_129E3/twitter_thumb.png)
 Twitter would do well to study the lessons learned in the history of
 Friendster vs MySpace. Building a Twitter clone is not rocket science.
 There is no huge barrier to entry. The only thing that keeps twitter on
@@ -32,7 +32,7 @@ hesitant to switch, because everyone I know is on Twitter, not on some
 other platform.
 
 However, too many days of showing users [this damn
-cat](http://haacked.com/archive/2007/05/20/how-to-build-twitter-in-one-line-of-code.aspx "My Post On Twitter")
+cat](https://haacked.com/archive/2007/05/20/how-to-build-twitter-in-one-line-of-code.aspx "My Post On Twitter")
 (yes, I’m a dog person) instead of their friends and it won’t be long
 before they leave in droves.
 

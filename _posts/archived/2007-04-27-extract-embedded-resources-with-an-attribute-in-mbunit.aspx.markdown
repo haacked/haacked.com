@@ -18,7 +18,7 @@ files](http://www.cauldwell.net/patrick/blog/PermaLink,guid,e9a1451b-108c-4da7-8
 within unit tests by embedding them as resources and unpacking the
 resources during the unit test. This is a powerful technique for making
 unit tests [self
-contained](http://haacked.com/archive/2004/08/26/creating-a-sane-build-process.aspx "Creating a Sane Build Process").
+contained](https://haacked.com/archive/2004/08/26/creating-a-sane-build-process.aspx "Creating a Sane Build Process").
 
 If you look in our unit tests for
 [Subtext](http://subtextproject.com/ "Subtext Project Website"), I took
@@ -117,7 +117,7 @@ A big Thank You goes to [Jay
 Flowers](http://jayflowers.com/joomla/ "Jay Flowers") for his help with
 this code. **And before I forget, you can download the code for
 this**[**custom test decorator
-here**](http://haacked.com/code/ExtractResourceAttribute.zip "ExtractResourceAttribute for MbUnit")**.**
+here**](https://haacked.com/code/ExtractResourceAttribute.zip "ExtractResourceAttribute for MbUnit")**.**
 
 *Please note that I left in my unit tests for the attribute which will
 fail unless you change the embedded resource name to match an embedded

@@ -24,7 +24,7 @@ and
 (*you all will be there, won’t you?*)
 
 This is perhaps another item to add to [the list I
-made](http://haacked.com/archive/2007/07/26/microsoft-and-open-source.aspx "Microsoft and Open Source")
+made](https://haacked.com/archive/2007/07/26/microsoft-and-open-source.aspx "Microsoft and Open Source")
 of signs of progress in regards to how Microsoft is approaching Open
 Source.
 

@@ -12,7 +12,7 @@ redirect_from: "/archive/2004/10/07/bloggingispurevanity.aspx/"
 
 PubSub is no longer around, so those links will be broken. I’ve written
 [a new
-post](http://haacked.com/archive/2007/04/06/state-of-the-blog-report.aspx "State of the Blog")
+post](https://haacked.com/archive/2007/04/06/state-of-the-blog-report.aspx "State of the Blog")
 that provides fresh opportunities for being a vain blogger.
 
 ![Vanity](/images/vanitysmurf.jpg) I'm not the [first to say
@@ -21,7 +21,7 @@ and I probably won't be the last. But blogging is pure vanity, and new
 services out there just make it easier and easier to inflate one's head.
 
 For starters, the vain blogger will subscribe to his own
-[RSS](http://haacked.com/Rss.aspx) feed (or ATOM feed) in his favorite
+[RSS](https://haacked.com/Rss.aspx) feed (or ATOM feed) in his favorite
 [RSS reader](http://www.rssbandit.org/). The vain blogger will assure
 you that this is for quality assurance purposes, but the astute reader
 can see right through that smokescreen. Obviously this is just the
@@ -78,6 +78,6 @@ UPDATE: One tool on the vain blogger's utility belt I forgot to mention
 is blatant self promotion. Got that one from [Brian Bailey's tips for a better blog](http://www.leaveitbehind.com/home/2005/01/building_a_bett.html),
 but it applies just as well to vanity.
 
-Tags: [blogging](http://haacked.com/tags/blogging/default.aspx), [Meta
-blogging](http://haacked.com/tags/meta%20blogging/default.aspx)
+Tags: [blogging](https://haacked.com/tags/blogging/default.aspx), [Meta
+blogging](https://haacked.com/tags/meta%20blogging/default.aspx)
 

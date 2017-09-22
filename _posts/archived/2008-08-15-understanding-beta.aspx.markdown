@@ -12,7 +12,7 @@ redirect_from: "/archive/2008/08/14/understanding-beta.aspx/"
 ---
 
 A commenter to [my last
-post](http://haacked.com/archive/2008/08/14/aspnetmvc-not-in-sp1.aspx)
+post](https://haacked.com/archive/2008/08/14/aspnetmvc-not-in-sp1.aspx)
 asks the following question,
 
 > What is the difference between a beta, a CTP, a fully-supported out of

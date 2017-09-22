@@ -46,5 +46,5 @@ Ahhh memories...
 
 *UPDATE 2013-06-24: Turns out I still have that TRS-80!*
 
-[![phil-with-trs-80](http://haacked.com/images/haacked_com/WindowsLiveWriter/HowIGotStartedInSoftwareDevelopment_761A/phil-with-trs-80_thumb.jpg "phil-with-trs-80")](http://haacked.com/images/haacked_com/WindowsLiveWriter/HowIGotStartedInSoftwareDevelopment_761A/phil-with-trs-80_2.jpg)
+[![phil-with-trs-80](https://haacked.com/images/haacked_com/WindowsLiveWriter/HowIGotStartedInSoftwareDevelopment_761A/phil-with-trs-80_thumb.jpg "phil-with-trs-80")](https://haacked.com/images/haacked_com/WindowsLiveWriter/HowIGotStartedInSoftwareDevelopment_761A/phil-with-trs-80_2.jpg)
 

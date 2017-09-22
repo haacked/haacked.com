@@ -10,7 +10,7 @@ redirect_from: "/archive/2006/01/14/QuickstartGuideToShellServicesInSourceForge.
 
 Consider this a more advanced followup to my [Quickstart Guide to Open
 Source Development With CVS and
-SourceForge](http://haacked.com/archive/2005/05/12/3178.aspx).
+SourceForge](https://haacked.com/archive/2005/05/12/3178.aspx).
 
 ### Intro
 
@@ -85,13 +85,13 @@ dialog box:
 -   Password: *leave this field blank*
 -   Private key file: **Click on the "..." button to browse for the
     PuTTY private key you created previously [following the instructions
-    here](http://haacked.com/archive/2005/05/12/3178.aspx). Load the
+    here](https://haacked.com/archive/2005/05/12/3178.aspx). Load the
     desired key.**
 -   Protocol: **SFTP (allow SCP fallback)**
 
 Below is a screenshot of this dialog and how I entered the fields.
 
-![](http://haacked.com/images/WinSCPSessionCreation.gif)
+![](https://haacked.com/images/WinSCPSessionCreation.gif)
 
 Click **Save** and choose the default for the session name which should
 matche the hostname you entered previously
@@ -116,7 +116,7 @@ Once you are logged in, you can browse your project directories. Browse
 to your project root and if you choose the Explorer view as I did, it
 should look like the screenshot below.
 
-![WinSCP ScreenShot](http://haacked.com/images/WinSCPScreenshot.gif)
+![WinSCP ScreenShot](https://haacked.com/images/WinSCPScreenshot.gif)
 
 Place your web files within the hcp directory. Unfortunately at the time
 of this writing, SourceForge won’t run .NET code, but it does support

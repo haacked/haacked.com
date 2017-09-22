@@ -71,7 +71,7 @@ the only software development that really matters**.
 Alright then, with the understanding that we are not talking about 3-D
 gaming developers (you guys and girls do matter much to me no matter
 what anyone says. [Thank you for
-Oblivion](http://haacked.com/archive/2006/05/11/AdmittingYourAddictionIsTheFirstStep.aspx "Admitting your addiction is the first step")!)
+Oblivion](https://haacked.com/archive/2006/05/11/AdmittingYourAddictionIsTheFirstStep.aspx "Admitting your addiction is the first step")!)
 let’s get back to the original question. Are developers leaving
 Microsoft in droves for Ruby on Rails?
 
@@ -88,7 +88,7 @@ and [Subsonic](http://subsonicproject.com/ "Subsonic") have sprung up
 and gained many admirers.
 
 Not to mention how [recent blunders by
-Microsoft](http://haacked.com/archive/2007/05/13/is-fighting-open-source-with-patents-a-smart-move-by.aspx "Is Fighting Open Source With Patents a Smart Move?")
+Microsoft](https://haacked.com/archive/2007/05/13/is-fighting-open-source-with-patents-a-smart-move-by.aspx "Is Fighting Open Source With Patents a Smart Move?")
 have disenfranchised many developers, it’s no wonder Scott and others
 are asking this question.
 

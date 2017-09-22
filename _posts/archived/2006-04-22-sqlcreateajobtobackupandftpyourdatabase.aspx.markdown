@@ -10,9 +10,9 @@ redirect_from: "/archive/2006/04/21/sqlcreateajobtobackupandftpyourdatabase.aspx
 
 In two earlier posts I presented a couple of SQL stored procedures that
 I promised to tie together. The [first
-procedure](http://haacked.com/archive/2006/04/21/SQLFunctionToGenerateRandomTimeOfDay.aspx "Generate a Random Time Of Day")
+procedure](https://haacked.com/archive/2006/04/21/SQLFunctionToGenerateRandomTimeOfDay.aspx "Generate a Random Time Of Day")
 generates a random time of day and [the
-second](http://haacked.com/archive/2006/04/21/SQLStoredProcedureToFTPFilesFromSQLServer.aspx "Ftp Files From SQL Server")
+second](https://haacked.com/archive/2006/04/21/SQLStoredProcedureToFTPFilesFromSQLServer.aspx "Ftp Files From SQL Server")
 can be used to FTP a file from within SQL Server.
 
 Well in this post I put these two together to create a stored procedure

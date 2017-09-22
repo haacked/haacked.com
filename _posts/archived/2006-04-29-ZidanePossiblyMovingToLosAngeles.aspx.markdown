@@ -8,14 +8,14 @@ categories: []
 redirect_from: "/archive/2006/04/28/ZidanePossiblyMovingToLosAngeles.aspx/"
 ---
 
-![Zinedine Zidane](http://haacked.com/images/ZinedineZidane.jpg) I hear
+![Zinedine Zidane](https://haacked.com/images/ZinedineZidane.jpg) I hear
 from a fairly reliable source that after the World Cup, Zinedine Zidane
 plans to move to Los Angeles to get into some kind of entertainment.
 That in and of itself is not exceedingly interesting. However, this
 source also tells me that Zidane has been offered a spot on the
 Hollywood United roster thanks to the other ex-French [national team
 player, Frank
-LeBeouf](http://haacked.com/archive/2006/03/24/PlayingAgainstAWorldCupWinner.aspx "Playing Against A World Cup Winner").
+LeBeouf](https://haacked.com/archive/2006/03/24/PlayingAgainstAWorldCupWinner.aspx "Playing Against A World Cup Winner").
 
 That means that sometime in the near future, there is a small chance
 (you know how plans can change) that I may play in a soccer game against

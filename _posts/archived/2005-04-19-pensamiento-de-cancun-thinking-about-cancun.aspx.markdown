@@ -17,7 +17,7 @@ Trafford).
 With my project ramping up, I just don't think we can do two weeks of
 vacation in a row. Of course, this isn't really fair to my wife as I'm
 still [going to Burning
-Man](http://haacked.com/archive/2005/02/02/2075.aspx) at the end of
+Man](https://haacked.com/archive/2005/02/02/2075.aspx) at the end of
 August. We need a shorter vacation for the two of us, so I thought of
 our good neighbors next door. Mexico!
 

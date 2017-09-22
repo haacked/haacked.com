@@ -9,7 +9,7 @@ redirect_from: "/archive/2007/08/01/any-recommendations-for-a-good-place-to-get-
 ---
 
 I mentioned I’ll be at the [Microsoft campus next
-week](http://haacked.com/archive/2007/07/30/at-the-microsoft-campus-next-week-and-other-engagements.aspx "At the Microsoft Campus").
+week](https://haacked.com/archive/2007/07/30/at-the-microsoft-campus-next-week-and-other-engagements.aspx "At the Microsoft Campus").
 Scott Koon (aka
 [LazyCoder](http://www.lazycoder.com/weblog/ "LazyCoder Blog")) pinged
 me about meeting up for a drinky drink and geeky geek conversation and

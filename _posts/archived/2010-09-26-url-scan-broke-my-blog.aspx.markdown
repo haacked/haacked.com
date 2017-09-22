@@ -31,7 +31,7 @@ In the follow-up post, Scott recommends installing the handy dandy
 [UrlScan IIS Module](http://www.iis.net/download/UrlScan "URL Scan") and
 applying a specific configuration setting. I’ve used UrlScan in the past
 and have found it extremely useful in [dealing with DOS
-attacks](http://haacked.com/archive/2008/08/22/dealing-with-denial-of-service-attacks.aspx "Dealing with DOS").
+attacks](https://haacked.com/archive/2008/08/22/dealing-with-denial-of-service-attacks.aspx "Dealing with DOS").
 
 However, when I installed UrlScan, my blog broke. Specifically, all the
 styles were gone and many images were broken. It took me a while to
@@ -61,7 +61,7 @@ That’s when I had a hunch. I started digging around and remembered that
 I have a custom skin in my blog named “haacked-3.0”. I viewed source and
 noticed my CSS files and many images were in a URL that looked like:
 
-`http://haacked.com/skins/haacked-3.0/style/foo.css`
+`https://haacked.com/skins/haacked-3.0/style/foo.css`
 
 Aha! Notice the dot in the URL segment there?
 

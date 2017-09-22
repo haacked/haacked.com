@@ -11,15 +11,15 @@ redirect_from: "/archive/2007/11/29/internationalized-urls.aspx/"
 Despite an international team of committers to
 [Subtext](http://subtextproject.com/ "SubtextProject.com") and the fact
 that [MySpace China
-uses](http://haacked.com/archive/2007/10/29/subtext-powers-myspace-china-blogs.aspx "MySpace China Blogs Powered By Subtext")
+uses](https://haacked.com/archive/2007/10/29/subtext-powers-myspace-china-blogs.aspx "MySpace China Blogs Powered By Subtext")
 a customized version of Subtext for its blog, I am ashamed to say that
 Subtext’s support for internationalization has been quite weak.
 
 ![world
-map](http://haacked.com/images/haacked_com/WindowsLiveWriter/InternationalizedURLs_604/world-map_3.jpg)
+map](https://haacked.com/images/haacked_com/WindowsLiveWriter/InternationalizedURLs_604/world-map_3.jpg)
 
 True, I did once write that [The Only Universal Language in Software is
-English](http://haacked.com/archive/2007/05/28/the-only-universal-language-in-software-is-english.aspx "English is lingua franca of software development"),
+English](https://haacked.com/archive/2007/05/28/the-only-universal-language-in-software-is-english.aspx "English is lingua franca of software development"),
 but I didn’t mean that English is the only language that *matters*,
 especially on the web.
 
@@ -85,9 +85,9 @@ becomes *(empty string)*. Well that totally sucks!
 
 The thing is, the simple solution in this case is to just allow the
 Unicode Korean word as the slug. Browsers will apply the correct URL
-encoding to the URL. Thus **http://haacked.com/안녕하십니까/** would
+encoding to the URL. Thus **https://haacked.com/안녕하십니까/** would
 become a request for
-**http://haacked.com/%EC%95%88%EB%85%95%ED%95%98%EC%8B%AD%EB%8B%88%EA%B9%8C/**and
+**https://haacked.com/%EC%95%88%EB%85%95%ED%95%98%EC%8B%AD%EB%8B%88%EA%B9%8C/**and
 everything works just fine as far as I can tell. Please note that
 Firefox 2.0 actually replaces the Unicode string in the address bar with
 the encoded string while IE7 displays the Unicode as-is, but makes the

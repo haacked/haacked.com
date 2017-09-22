@@ -14,7 +14,7 @@ redirect_from:
 ---
 
 At the end of last year, I [wrote a
-blurb](http://haacked.com/archive/2011/12/26/oss-net-2011.aspx "OSS and .NET Year in Review")
+blurb](https://haacked.com/archive/2011/12/26/oss-net-2011.aspx "OSS and .NET Year in Review")
 about the Open Source Fest event at Mix 2011. Imagine the typical
 exhibition hall, but filled with around 50 open source projects. Each
 project had a station in a large room where project members presented
@@ -29,7 +29,7 @@ sharing of ideas, some of which I’ll talk about in subsequent blog
 posts. One such idea is I hope we add something like the open source
 exhibition hall in a future MonkeySpace.
 
-[![monkeyspace-spaker-dinner](http://haacked.com/images/haacked_com/WindowsLiveWriter/MonkeySpace-and-the-Futu.NET-Open-Source_121F1/monkeyspace-spaker-dinner_thumb.jpg "monkeyspace-spaker-dinner")](http://haacked.com/images/haacked_com/WindowsLiveWriter/MonkeySpace-and-the-Futu.NET-Open-Source_121F1/monkeyspace-spaker-dinner_2.jpg)*MonkeySpace
+[![monkeyspace-spaker-dinner](https://haacked.com/images/haacked_com/WindowsLiveWriter/MonkeySpace-and-the-Futu.NET-Open-Source_121F1/monkeyspace-spaker-dinner_thumb.jpg "monkeyspace-spaker-dinner")](https://haacked.com/images/haacked_com/WindowsLiveWriter/MonkeySpace-and-the-Futu.NET-Open-Source_121F1/monkeyspace-spaker-dinner_2.jpg)*MonkeySpace
 speakers dinner. Lots of idea sharing going on.*
 
 MonkeySpace is a rebranded and refocused Monospace conference. While

@@ -197,7 +197,7 @@ multiline comment
 <span class="asp">@</span>b("Bold this")</pre>
       </td>
 
-      <td valign="top">Generates a <code>Func&lt;T, HelperResult&gt;</code> that you can call from within Razor. See <a title="Templated Razor Delegates" href="http://haacked.com/archive/2011/02/27/templated-razor-delegates.aspx">this blog post</a> for more details.</td>
+      <td valign="top">Generates a <code>Func&lt;T, HelperResult&gt;</code> that you can call from within Razor. See <a title="Templated Razor Delegates" href="https://haacked.com/archive/2011/02/27/templated-razor-delegates.aspx">this blog post</a> for more details.</td>
     </tr>
 
     <tr>

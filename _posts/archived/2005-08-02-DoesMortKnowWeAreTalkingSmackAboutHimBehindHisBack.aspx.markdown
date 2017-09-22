@@ -201,7 +201,7 @@ Mort archetype really useful for this discussion?
 
 Perhaps my experiences have been with a sub-Mort, and not with you. I
 really would like to think the average developer [deserves more
-credit](http://haacked.com/archive/2005/07/26/9027.aspx). But from some
+credit](https://haacked.com/archive/2005/07/26/9027.aspx). But from some
 of my experiences, there are large numbers of just plain bad developers
 out there. For you, I’d like you to know we’re thinking of you, and we
 know best. If you’re not willing to step up, then the best thing you can

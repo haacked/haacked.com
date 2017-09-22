@@ -8,9 +8,9 @@ categories: []
 redirect_from: "/archive/2006/03/11/ArtificialDeadlinesAreTheDevilsWork.aspx/"
 ---
 
-![Artificial Teeth](http://haacked.com/images/artificialTeeth.jpg) In
+![Artificial Teeth](https://haacked.com/images/artificialTeeth.jpg) In
 [my last
-post](http://haacked.com/archive/2006/03/10/DevelopersAreNotPlugandPlay.aspx "Developers are not plug and play"),
+post](https://haacked.com/archive/2006/03/10/DevelopersAreNotPlugandPlay.aspx "Developers are not plug and play"),
 I mentioned that even in high pressure situations, I would take my time
 and follow certain practices I believe lead to better code, even if it
 meant taking longer to complete the code.
@@ -28,7 +28,7 @@ artificial, and I was tired of that bullshit.
 
 “Tell me how you really feel Phil.”
 
-![Linus](http://haacked.com/images/LinusWithBlanket.jpg) Oh don’t get me
+![Linus](https://haacked.com/images/LinusWithBlanket.jpg) Oh don’t get me
 started.
 
 An artificial deadline is nothing more than a comfort blanket to satiate

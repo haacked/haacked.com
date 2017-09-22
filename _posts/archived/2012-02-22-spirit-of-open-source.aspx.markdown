@@ -11,7 +11,7 @@ redirect_from: "/archive/2012/02/21/spirit-of-open-source.aspx/"
 ---
 
 [In my previous
-post](http://haacked.com/archive/2012/02/16/open-source-and-open-source-software-are-not-the-same.aspx "My Previous Post"),
+post](https://haacked.com/archive/2012/02/16/open-source-and-open-source-software-are-not-the-same.aspx "My Previous Post"),
 I attempted to make a distinction between Open Source and Open Source Software. Some folks took issue with the post and that’s great! I love a healthy debate. It’s an opportunity to learn. One minor request though. If you disagree with me, I do humbly ask that you read the whole post first before you go and rip me a new one.
 
 It was interesting to me that critics fell into two opposing camps. There were those who felt that it was was disingenuous for me to use the term “open source software” to describe a Microsoft project that doesn’t accept contributions and is developed under a closed model, even if it is licensed under an open source license. Many of them accepted that, yes, ASP.NET MVC is OSS, but I still shouldn’t use the term.

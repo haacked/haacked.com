@@ -16,7 +16,7 @@ Here's a snippet from a post Scott wrote five years ago when we [first released 
 
 > These are all baby steps, but more and more folks at The Company are starting to "get it." We won't rest until we've changed the way we do business.
 
-Here's my use of the phrase in my [notes about the release a year prior](http://haacked.com/archive/2008/03/21/a-few-notes-about-the-mvc-codeplex-source-code-release.aspx/).
+Here's my use of the phrase in my [notes about the release a year prior](https://haacked.com/archive/2008/03/21/a-few-notes-about-the-mvc-codeplex-source-code-release.aspx/).
 
 > As I mentioned before, routing is not actually a feature of MVC which is why it is not included. It will be part of the .NET Framework and thus its source will eventually be available much like the rest of the .NET Framework source. It’d be nice to include it in CodePlex, but as I like to say, baby steps.
 

@@ -15,7 +15,7 @@ features they want added to a product.  They rarely ask what features
 they want removed.
 
 I have in the past [asked users for permission to remove
-features](http://haacked.com/archive/2006/09/16/A_Few_Questions_For_Subtext_Users.aspx "A Few Questions"),
+features](https://haacked.com/archive/2006/09/16/A_Few_Questions_For_Subtext_Users.aspx "A Few Questions"),
 but I've never taken the extra step of asking users, which features
 would they like removed.  So here I go. 
 
@@ -74,7 +74,7 @@ that sticks out above the water.  However, the real effort is in the
 part under water that supports the whole thing.
 
 [![Iceberg Photo from
-http://shiftingbaselines.org/blog/archives/2005\_02.html](http://haacked.com/images/haacked_com/WindowsLiveWriter/WhatFeatureShouldBeRemoved_9E30/BigIceberg_thumb%5B1%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/WhatFeatureShouldBeRemoved_9E30/BigIceberg%5B5%5D.jpg)
+http://shiftingbaselines.org/blog/archives/2005\_02.html](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatFeatureShouldBeRemoved_9E30/BigIceberg_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatFeatureShouldBeRemoved_9E30/BigIceberg%5B5%5D.jpg)
 
 So if there is a feature in your product that provides very little bang
 for the support buck, consider getting rid of it.

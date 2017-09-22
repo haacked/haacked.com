@@ -14,7 +14,7 @@ redirect_from: "/archive/2011/01/29/introducing-routemagic.aspx/"
 
 Over the past couple of years, I’ve written [several blog posts on
 ASP.NET
-Routing](http://haacked.com/tags/Routing/default.aspx "Blog Posts Tagged with 'Routing'")
+Routing](https://haacked.com/tags/Routing/default.aspx "Blog Posts Tagged with 'Routing'")
 where I provided various extensions to routing. Typically such blog
 posts included a zip download of the binaries and source code to allow
 readers to easily try out the code.
@@ -40,13 +40,13 @@ After installing the *RouteMagic.Mvc* package, you’ll have the
 following  features available to you.
 
 -   [HttpHandler
-    Routing](http://haacked.com/archive/2009/11/04/routehandler-for-http-handlers.aspx "Route Handler for IHttpHandler")
+    Routing](https://haacked.com/archive/2009/11/04/routehandler-for-http-handlers.aspx "Route Handler for IHttpHandler")
 -   [Delegate
-    routing](http://haacked.com/archive/2008/12/15/redirect-routes-and-other-fun-with-routing-and-lambdas.aspx "Delegate Routing")
+    routing](https://haacked.com/archive/2008/12/15/redirect-routes-and-other-fun-with-routing-and-lambdas.aspx "Delegate Routing")
 -   [Group
-    Routing](http://haacked.com/archive/2010/12/02/grouping-routes-part-1.aspx "Group Routing")
+    Routing](https://haacked.com/archive/2010/12/02/grouping-routes-part-1.aspx "Group Routing")
 -   [Editable
-    Routes](http://haacked.com/archive/2010/01/17/editable-routes.aspx "Editable Routes")
+    Routes](https://haacked.com/archive/2010/01/17/editable-routes.aspx "Editable Routes")
 
 The source code for the solution contains the following projects:
 

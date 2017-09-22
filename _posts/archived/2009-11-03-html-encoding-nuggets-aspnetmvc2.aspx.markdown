@@ -15,20 +15,20 @@ This is the second in a three part series related to HTML encoding
 blocks, aka the `<%: ... %>` syntax.
 
 -   [Html Encoding Code Blocks With ASP.NET
-    4](http://haacked.com/archive/2009/09/25/html-encoding-code-nuggets.aspx "Html Encoding Blocks")
+    4](https://haacked.com/archive/2009/09/25/html-encoding-code-nuggets.aspx "Html Encoding Blocks")
 -   **Html Encoding Nuggets With ASP.NET MVC 2**
 -   [Using AntiXss as the default encoder for
-    ASP.NET](http://haacked.com/archive/2010/04/06/using-antixss-as-the-default-encoder-for-asp-net.aspx "Using AntiXSS")
+    ASP.NET](https://haacked.com/archive/2010/04/06/using-antixss-as-the-default-encoder-for-asp-net.aspx "Using AntiXSS")
 
 In a recent blog post, I introduced [ASP.NET 4’s new HTML Encoding code
 block
-syntax](http://haacked.com/archive/2009/09/25/html-encoding-code-nuggets.aspx "Html Encoding Code Blocks")
+syntax](https://haacked.com/archive/2009/09/25/html-encoding-code-nuggets.aspx "Html Encoding Code Blocks")
 as well as the corresponding `IHtmlString` interface and `HtmlString`
 class. I also mentioned that ASP.NET MVC 2 would support this new syntax
 ***when running on ASP.NET 4***.
 
 In fact, you can [try it out
-now](http://haacked.com/archive/2009/10/20/vs10beta2-and-aspnetmvc.aspx "VS10 Beta 2 from an ASP.NET MVC perspective")
+now](https://haacked.com/archive/2009/10/20/vs10beta2-and-aspnetmvc.aspx "VS10 Beta 2 from an ASP.NET MVC perspective")
 by downloading and installing Visual Studio 2010 Beta 2.
 
 I’ve also mentioned in the past that we are not conditionally compiling
@@ -45,7 +45,7 @@ interface introduced in ASP.NET 4?**
 
 The answer involves a tiny bit of voodoo black magic we’re doing in
 ASP.NET MVC
-2.[![voodoo](http://haacked.com/images/haacked_com/WindowsLiveWriter/HtmlEncodingNuggetsWithASP.NETMVC2_13929/voodoo_3.jpg "voodoo")](http://www.sxc.hu/photo/1196752 "Voodoo by sloopjohnb")
+2.[![voodoo](https://haacked.com/images/haacked_com/WindowsLiveWriter/HtmlEncodingNuggetsWithASP.NETMVC2_13929/voodoo_3.jpg "voodoo")](http://www.sxc.hu/photo/1196752 "Voodoo by sloopjohnb")
 
 We introduced a new type `MvcHtmlString` which is created via a factory
 method, `MvcHtmlString.Create`. When this method determines that it is

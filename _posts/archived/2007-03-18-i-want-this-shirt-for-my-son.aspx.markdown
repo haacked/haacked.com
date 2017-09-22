@@ -11,7 +11,7 @@ redirect_from: "/archive/2007/03/17/i-want-this-shirt-for-my-son.aspx/"
 ---
 
 ![Baby Character Sheet for Level 1
-Human](http://haacked.com/images/haacked_com/WindowsLiveWriter/INeedToFindThisShirtForMySon_97A2/d_and_d_baby_shirt13.jpg)
+Human](https://haacked.com/images/haacked_com/WindowsLiveWriter/INeedToFindThisShirtForMySon_97A2/d_and_d_baby_shirt13.jpg)
 
 The shirt forgets to list a couple spells. *Charm Person* and *Stinking
 Cloud*.

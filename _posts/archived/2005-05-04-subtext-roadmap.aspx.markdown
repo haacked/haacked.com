@@ -75,10 +75,10 @@ feedback on this decision.
 
 -   **Friendly Urls**: Currently, Subtext creates permalinks that look
     like
-    [http://haacked.com/archive/2005/05/04/2953.aspx](http://haacked.com/archive/2005/05/04/2953.aspx).
+    [https://haacked.com/archive/2005/05/04/2953.aspx](https://haacked.com/archive/2005/05/04/2953.aspx).
     In a future version, we want the permalink to have a more human
     readable URL. For example, this might be converted to
-    http://haacked.com/archive/2005/05/04/AnnouncingSubtext.aspx.
+    https://haacked.com/archive/2005/05/04/AnnouncingSubtext.aspx.
 -   **Improved Usability**: One of my pet peeves about .TEXT is how hard
     it is to edit a really old post. You have to page through the data
     grid of posts till you find it. Instead, a simple option is to
@@ -134,5 +134,5 @@ feedback on this decision.
     or some other means, but a more autonomous method of spam filtering
     is called for.
 
-Tags: [Subtext](http://haacked.com/tags/subtext/default.aspx)
+Tags: [Subtext](https://haacked.com/tags/subtext/default.aspx)
 

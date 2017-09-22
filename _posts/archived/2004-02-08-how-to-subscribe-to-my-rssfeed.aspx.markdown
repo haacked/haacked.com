@@ -13,7 +13,7 @@ you to get an RSS aggregator and subscribe to my feed. What the hell am
 I talking about?!
 
 Well to clear things up, I wrote [an
-article](http://haacked.europe.webmatrixhosting.net/articles/182.aspx)
+article](https://haacked.com/articles/182.aspx)
 about how to get started with [RssBandit](http://www.rssbandit.org), a
 very nice RSS Aggregator created by [Dare
 Obasanjo](http://www.25hoursaday.com/weblog/SyndicationService.asmx/GetRss)
@@ -22,5 +22,4 @@ Especially you Dad. If I've done well, the article will clear thing up
 and you will have a subscription to my blog.
 
 You can also [download it as a word
-doc](http://haacked.europe.webmatrixhosting.net/GettingStartedWithRssBandit.zip)
-
+doc](https://haacked.com/GettingStartedWithRssBandit.zip)

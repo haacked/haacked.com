@@ -9,8 +9,8 @@ redirect_from: "/archive/2007/01/30/Our_CEO_Discovers_Second_Life.aspx/"
 ---
 
 [![IBM Second Life Offices - From
-http://www.sutor.com/newsite/blog-open/?p=1382](http://haacked.com/images/haacked_com/WindowsLiveWriter/OurCEODiscoversSecondLife_149F9/sl-oss-offices_thumb%5B1%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/OurCEODiscoversSecondLife_149F9/sl-oss-offices%5B5%5D.jpg)[Micah
-Dylan](http://haacked.com/images/haacked_com/WindowsLiveWriter/OurCEODiscoversSecondLife_149F9/sl-oss-offices%5B2%5D.jpg "Micah Dylan’s Blog"),
+http://www.sutor.com/newsite/blog-open/?p=1382](https://haacked.com/images/haacked_com/WindowsLiveWriter/OurCEODiscoversSecondLife_149F9/sl-oss-offices_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/OurCEODiscoversSecondLife_149F9/sl-oss-offices%5B5%5D.jpg)[Micah
+Dylan](https://haacked.com/images/haacked_com/WindowsLiveWriter/OurCEODiscoversSecondLife_149F9/sl-oss-offices%5B2%5D.jpg "Micah Dylan’s Blog"),
 co-founder and CEO of [VelocIT](http://veloc-it.com/ "VelocIT") (you
 know, the place I work for my day job), has recently [discovered Second
 ~~Crack~~
@@ -19,7 +19,7 @@ He’s been hanging out with some [big
 wig](http://www.sutor.com/newsite/blog-open/index.php "Bob Sutor") at
 IBM in charge of open source and open standards. And you know how I
 [loves me that open
-source](http://haacked.com/category/32.aspx "Open Source Category").
+source](https://haacked.com/category/32.aspx "Open Source Category").
 
 Apparently IBM is looking at ways to build internal community among a
 distributed workforce and exploring whether or not Second Life fits into

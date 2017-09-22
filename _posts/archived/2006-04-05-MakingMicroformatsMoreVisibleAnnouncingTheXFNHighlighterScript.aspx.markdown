@@ -42,7 +42,7 @@ a friend’s blog or website, for example, you might add the following
 `rel` attribute.
 
 ```csharp
-<a href="http://haacked.com/" rel="friend met">...
+<a href="https://haacked.com/" rel="friend met">...
 ```
 
 This incidentally creates a network that is indexed by XFN crawler. But

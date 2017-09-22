@@ -12,7 +12,7 @@ Thought I’d post a few pics from mix with some notes. Click on any for a
 larger view.
 
 [![Phil Jeff and
-Jon](http://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/phil-jeff-john_thumb%5B1%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/phil-jeff-john%5B7%5D.jpg "Me, Jeff Atwood, and Jon Galloway")
+Jon](https://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/phil-jeff-john_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/phil-jeff-john%5B7%5D.jpg "Me, Jeff Atwood, and Jon Galloway")
 
 This first one is of the three amigos, not to mention coauthors. That is
 me on the left sporting a Subtext shirt, [Jeff
@@ -22,7 +22,7 @@ Galloway](http://weblogs.asp.net/jgalloway/ "Jon Galloway") on the
 right.
 
 [![Scott Hanselman and Rob
-Conery](http://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/scott-rob_thumb%5B1%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/scott-rob%5B5%5D.jpg "Scott and Rob")
+Conery](https://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/scott-rob_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/scott-rob%5B5%5D.jpg "Scott and Rob")
 
 That’s [Scott
 Hanselman](http://hanselman.com/blog/ "Scott Hanselman's Blog") (who
@@ -31,10 +31,10 @@ engine](http://www.dasblog.net/ "DasBlog")) on the left and [Rob
 Conery](http://blog.wekeroad.com/ "Rob Conery") (of Subsonic fame) on
 the right. The joke here is that Scott is standing on some stairs
 because [Rob Conery is a
-giant](http://haacked.com/archive/2007/02/01/Night_At_The_Roxbury_With_Mr._Subsonic.aspx "Night at the Roxbury with Mr. Subsonic").
+giant](https://haacked.com/archive/2007/02/01/Night_At_The_Roxbury_With_Mr._Subsonic.aspx "Night at the Roxbury with Mr. Subsonic").
 
 [![ScottGu Miguel and
-Me](http://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/scott-miguel-phil_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/scott-miguel-phil%5B4%5D.jpg "ScottGu, Miguel, and Me")
+Me](https://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/scott-miguel-phil_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/scott-miguel-phil%5B4%5D.jpg "ScottGu, Miguel, and Me")
 
 Sometimes, the best parts of conferences are outside of the sessions. A
 few of us were sitting around having drinks when we spotted [Scott
@@ -48,7 +48,7 @@ ScottGu, as he is known, is a total class act and I was happy to finally
 meet him in person.
 
 [![Sam
-Phil](http://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/phil-and-sam_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/phil-and-sam%5B2%5D.jpg "Sam Ramji and me")
+Phil](https://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/phil-and-sam_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/phil-and-sam%5B2%5D.jpg "Sam Ramji and me")
 
 Here I am regaling [Sam Ramji](http://samus.typepad.com/ "Sam Ramji")
 with an obviously hilarious joke. The picture is not, you know, staged
@@ -61,7 +61,7 @@ Neither did I until meeting him. A few of us had his ear during a
 dinner. Hopefully we’ll see some interesting things come out of it.
 
 [![Tantek and
-Phil](http://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/tantek-me_thumb%5B5%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/tantek-me%5B9%5D.jpg "Technorati Tantek and me")
+Phil](https://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/tantek-me_thumb%5B5%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/tantek-me%5B9%5D.jpg "Technorati Tantek and me")
 
 [Tantek Çelik](http://tantek.com/ "Tantek’s Blog") was walking by and
 noticed my [XKCD t-shirt](http://xkcd.com/c149.html "Funny Comic") which
@@ -69,7 +69,7 @@ sports a unix joke and had to take a picture. Not many people got the
 joke.
 
 [![John
-Lam](http://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/john-lam_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/john-lam%5B2%5D.jpg "John Lam preparing for a talk")
+Lam](https://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/john-lam_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/john-lam%5B2%5D.jpg "John Lam preparing for a talk")
 
 [John Lam](http://www.iunknown.com/ "friend met") prepares for the
 Dynamic Language Runtime session with [Jim
@@ -84,18 +84,18 @@ I got a chance to hang out more with John more at Pure and really
 enjoyed his perspective on Microsoft and child rearing.
 
 [![Jeff Phil Miguel
-Jon](http://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/mono-demo_thumb%5B1%5D.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/mono-demo%5B5%5D.jpg "Jeff, me, Miguel, and Jon")
+Jon](https://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/mono-demo_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/mono-demo%5B5%5D.jpg "Jeff, me, Miguel, and Jon")
 
 Jeff, Jon, and I intently watch as Miguel de Icaza gives us a demo of
 Mono. The rotating cube desktop is pretty sweet.
 
 [![Miguel
-Jeff](http://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/jeff-man-crush-miguel_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/jeff-man-crush-miguel%5B2%5D.jpg "Miguel and Jeff")
+Jeff](https://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/jeff-man-crush-miguel_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/jeff-man-crush-miguel%5B2%5D.jpg "Miguel and Jeff")
 
 Jeff cannot conceal his *Man Crush* on Miguel.
 
 [![Scott
-Stansfield](http://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/scott-guital_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/scott-guital%5B2%5D.jpg "Scott Stansfield")
+Stansfield](https://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/scott-guital_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MIX07PicsFromMix_2F86/scott-guital%5B2%5D.jpg "Scott Stansfield")
 
 Scott Stanfield, CEO of Vertigo, on the right playing Guitar Hero, the
 addict. Tonight he and I cleaned up at Spanish 21, winning over \$300

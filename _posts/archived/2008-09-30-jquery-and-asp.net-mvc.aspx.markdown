@@ -20,6 +20,6 @@ tired of stifling my mouth everytime someone suggested we just include
 JQuery. :)
 
 As you can see from [demos I've done in the
-past](http://haacked.com/archive/2008/07/29/super-simple-mvc-ajax-with-jquery-demo.aspx),
+past](https://haacked.com/archive/2008/07/29/super-simple-mvc-ajax-with-jquery-demo.aspx),
 JQuery will fit nicely with the ASP.NET MVC style of development.
 

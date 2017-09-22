@@ -98,7 +98,7 @@ to serialize an object into a JSON encoded string. Here’s the updated
 client script code.
 
 UPDATE: Per [Dave Ward’s comment
-here](http://haacked.com/archive/2010/04/15/sending-json-to-an-asp-net-mvc-action-method-argument.aspx#77068 "Useful comment")
+here](https://haacked.com/archive/2010/04/15/sending-json-to-an-asp-net-mvc-action-method-argument.aspx#77068 "Useful comment")
 I should be using [json2.js](http://www.json.org/js.html) and its
 `JSON.stringify(...)` method instead because it matches an API that some
 browsers implement and will use the native implementation if it exists.
@@ -147,7 +147,7 @@ the JSON content type for the request.
 A quick check in Fiddler confirms that the data in the POST request is
 properly JSON encoded.
 
-![json-request-fiddler](http://haacked.com/images/haacked_com/WindowsLiveWriter/SendingJSONtoanASP.NETMVCActionMethod_7E01/json-request-fiddler_3.png "json-request-fiddler")
+![json-request-fiddler](https://haacked.com/images/haacked_com/WindowsLiveWriter/SendingJSONtoanASP.NETMVCActionMethod_7E01/json-request-fiddler_3.png "json-request-fiddler")
 
 Now, within my action method, I can actually check to see if the model
 state is valid and if not, return an error message.
@@ -180,7 +180,7 @@ public ActionResult Save(PersonInputModel inputModel) {
 And as you can see in the Fiddler screenshot, I sent an invalid Age to
 the server and yet, it all still works.
 
-![validation-with-json](http://haacked.com/images/haacked_com/WindowsLiveWriter/SendingJSONtoanASP.NETMVCActionMethod_7E01/validation-with-json_3.png "validation-with-json")
+![validation-with-json](https://haacked.com/images/haacked_com/WindowsLiveWriter/SendingJSONtoanASP.NETMVCActionMethod_7E01/validation-with-json_3.png "validation-with-json")
 
 Whew! I can finally cross this off of my immense blog backlog. :)
 Hopefully soon, I’ll blog a more detailed write-up of value providers.

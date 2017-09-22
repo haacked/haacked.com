@@ -13,7 +13,7 @@ weekend it has been! Every now and then I like to buy a Super Lotto
 ticket just for the fun of it. I have a solid understanding of math (I
 did major in it) and I know that the odds are pretty much zilch, but it
 is fun to [think about what I would do should I
-win](http://haacked.com/archive/2004/03/09/242.aspx).
+win](https://haacked.com/archive/2004/03/09/242.aspx).
 
 Well I can stop thinking and start doing because I did win! I matched
 three number and the MEGA for the Jan 18 drawing winning me a [grand

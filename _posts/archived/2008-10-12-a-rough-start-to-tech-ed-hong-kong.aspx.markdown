@@ -10,7 +10,7 @@ redirect_from: "/archive/2008/10/11/a-rough-start-to-tech-ed-hong-kong.aspx/"
 
 I had a bit of a rough start to my first Tech-Ed Hong Kong last week.
 Pretty much every day while [I was in
-Japan](http://haacked.com/archive/2008/10/12/japan-trip-2008.aspx "Japan Trip 2008"),
+Japan](https://haacked.com/archive/2008/10/12/japan-trip-2008.aspx "Japan Trip 2008"),
 I dutifully pulled out the laptop (despite my lack of internet
 connection) and made sure it still worked fine.
 
@@ -23,7 +23,7 @@ Hoping it was some weird hibernation issue, I put my laptop away and
 decided to wait till I was in HK.
 
 [![Japan Trip
-883](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20883_thumb.jpg "Japan Trip 883")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20883.jpg)
+883](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20883_thumb.jpg "Japan Trip 883")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20883.jpg)
 Sure enough, the screen still didn’t work. Fortunately, I follow [rule
 \#1 of the Joel
 Test](http://www.joelonsoftware.com/articles/fog0000000043.html "The Joel Test")
@@ -38,13 +38,13 @@ a few hitches in demos where I wasn’t sure how to change various display
 modes quickly on the laptop.
 
 Since my talks were [all in the
-morning](http://haacked.com/archive/2008/09/15/tech-ed-2008-hk.aspx "Speaking Schedule"),
+morning](https://haacked.com/archive/2008/09/15/tech-ed-2008-hk.aspx "Speaking Schedule"),
 it gave me time to travel around a bit.
 
 [![Japan Trip
-889](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20889_thumb.jpg "Japan Trip 889")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20889.jpg)
+889](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20889_thumb.jpg "Japan Trip 889")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20889.jpg)
 [![Japan Trip
-892](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20892_thumb.jpg "Japan Trip 892")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20892.jpg)
+892](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20892_thumb.jpg "Japan Trip 892")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20892.jpg)
 
 I took a tram up to Victoria Peak to get an eye catching panoramic view
 of the city, though the day I chose to go was not as beautiful as the
@@ -60,9 +60,9 @@ Seems like a lot of cool places are hidden away up high in these
 buildings.
 
 [![Japan Trip
-918](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20918_thumb.jpg "Japan Trip 918")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20918.jpg)
+918](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20918_thumb.jpg "Japan Trip 918")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20918.jpg)
 [![Japan Trip
-919](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20919_thumb.jpg "Japan Trip 919")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20919.jpg)
+919](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20919_thumb.jpg "Japan Trip 919")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20919.jpg)
 
 I really enjoyed the opportunity to have some great conversations with
 various Chinese people, as many of the attendees were from mainland
@@ -72,14 +72,14 @@ this is usually the case, but it often takes engaging in very
 interesting conversations for that to really hit home.
 
 [![Japan Trip
-926](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20926_thumb.jpg "Japan Trip 926")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20926.jpg)  
+926](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20926_thumb.jpg "Japan Trip 926")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20926.jpg)  
 [![Japan Trip
-921](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20921_thumb.jpg "Japan Trip 921")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20921.jpg)
+921](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20921_thumb.jpg "Japan Trip 921")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20921.jpg)
 
 [![Japan Trip
-928](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20928_thumb.jpg "Japan Trip 928")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20928.jpg)
+928](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20928_thumb.jpg "Japan Trip 928")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20928.jpg)
 [![Japan Trip
-929](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20929_thumb_1.jpg "Japan Trip 929")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20929_1.jpg)
+929](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20929_thumb_1.jpg "Japan Trip 929")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20929_1.jpg)
 
 Afterwards, a small group of us went shopping. There is no sales tax on
 most items in Hong Kong, so it’s a popular place for Chinese shoppers. I
@@ -90,28 +90,28 @@ Ferry across to Kowloon and then walking around the Central and Wan-Chai
 districts afterwards.
 
 [![Japan Trip
-937](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20937_thumb.jpg "Japan Trip 937")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20937.jpg) 
+937](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20937_thumb.jpg "Japan Trip 937")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20937.jpg) 
 [![Japan Trip
-947](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20947_thumb.jpg "Japan Trip 947")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20947.jpg)
+947](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20947_thumb.jpg "Japan Trip 947")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20947.jpg)
 
  [![Japan Trip
-952](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20952_thumb.jpg "Japan Trip 952")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20952.jpg)
+952](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20952_thumb.jpg "Japan Trip 952")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20952.jpg)
 [![Japan Trip
-957](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20957_thumb.jpg "Japan Trip 957")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20957.jpg)
+957](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20957_thumb.jpg "Japan Trip 957")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20957.jpg)
 
 On the last evening, I met up with an old friend from college from Hong
 Kong for a night on the town in which we mixed and mingled with the
 local denizens.
 
 [![Japan Trip
-962](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20962_thumb.jpg "Japan Trip 962")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20962.jpg)
+962](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20962_thumb.jpg "Japan Trip 962")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20962.jpg)
 [![Japan Trip
-972](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20972_thumb.jpg "Japan Trip 972")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20972.jpg)
+972](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20972_thumb.jpg "Japan Trip 972")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20972.jpg)
 
 [![Japan Trip
-974](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20974_thumb.jpg "Japan Trip 974")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20974.jpg)
+974](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20974_thumb.jpg "Japan Trip 974")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20974.jpg)
 [![Japan Trip
-978](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20978_thumb.jpg "Japan Trip 978")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20978.jpg)
+978](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20978_thumb.jpg "Japan Trip 978")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ARoughStartToTechEdHongKong_12463/Japan%20Trip%20978.jpg)
 
 Notice that Microsoft’s LINQ technology is so popular that there’s a bar
 named after it. I believe another bar called “to SQL” was just around

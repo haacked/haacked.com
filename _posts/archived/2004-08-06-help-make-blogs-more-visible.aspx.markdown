@@ -46,7 +46,7 @@ redirect_from: "/archive/2004/08/05/help-make-blogs-more-visible.aspx/"
 > 2. [Luke Hutteman's public virtual
 > MemoryStream](http://www.hutteman.com/weblog/)\
 > 3. [JayBaz\_MS blog](http://blogs.msdn.com/jaybaz_MS)\
-> 4. [You've Been Haacked! and you like it.](http://haacked.com/)\
+> 4. [You've Been Haacked! and you like it.](https://haacked.com/)\
 > 5. (your URL goes here! But first, please copy this line and move it
 > down to the next line for the next person).
 >

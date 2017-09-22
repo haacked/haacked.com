@@ -12,7 +12,7 @@ redirect_from: "/archive/2011/05/01/single-package-version-per-solution.aspx/"
 ---
 
 Not too long ago, I posted [a survey on my
-blog](http://haacked.com/archive/2011/04/06/nuget-needs-your-input.aspx "Survey on my blog")
+blog](https://haacked.com/archive/2011/04/06/nuget-needs-your-input.aspx "Survey on my blog")
 asking a set of questions meant to gather information that would help
 the NuGet team make a decision about a rather deep change.
 
@@ -22,7 +22,7 @@ here](http://survey.haacked.com/survey/1/results "Survey results").
 If there’s one question that got to the heart of the matter, it’s this
 one.
 
-![survey-question-result](http://haacked.com/images/haacked_com/WindowsLiveWriter/668154f532ae_7D5C/survey-question-result_0c4f17d9-93f0-4a5a-8cd6-43ed22abcedd.png "survey-question-result")
+![survey-question-result](https://haacked.com/images/haacked_com/WindowsLiveWriter/668154f532ae_7D5C/survey-question-result_0c4f17d9-93f0-4a5a-8cd6-43ed22abcedd.png "survey-question-result")
 
 We’re considering a feature that would only allow a single package
 version per solution. As you can see by the response to the question,

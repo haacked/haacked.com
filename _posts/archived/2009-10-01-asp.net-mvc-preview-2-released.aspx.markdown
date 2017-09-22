@@ -11,7 +11,7 @@ redirect_from: "/archive/2009/09/30/asp.net-mvc-preview-2-released.aspx/"
 Today we just released ASP.NET MVC 2 Preview 2 for Visual Studio 2008
 SP1 (and ASP.NET 3.5 SP1), which builds on top of the work we did in
 [Preview 1 released two months
-ago](http://haacked.com/archive/2009/07/30/asp.net-mvc-released.aspx "ASP.NET MVC 2 Preview 1 Released").
+ago](https://haacked.com/archive/2009/07/30/asp.net-mvc-released.aspx "ASP.NET MVC 2 Preview 1 Released").
 
 -   [Download
     Page](http://go.microsoft.com/fwlink/?LinkID=154414 "Download ASP.NET MVC 2 Preview 2")
@@ -63,7 +63,7 @@ go anywhere else, it’ll just be there waiting for you. Likewise, the RTM
 of ASP.NET MVC 2 will be included with the RTM of Visual Studio 2010.
 
 Therefore, if you want to try out the new [HTML encoding code
-blocks](http://haacked.com/archive/2009/09/25/html-encoding-code-nuggets.aspx "HTML Encoding Code Blocks")
+blocks](https://haacked.com/archive/2009/09/25/html-encoding-code-nuggets.aspx "HTML Encoding Code Blocks")
 with ASP.NET MVC 2 Preview 2, you’ll have to wait till Visual Studio
 2010 Beta 2 is released. But for now, you can try out Preview 2 on VS
 2008 and start [providing

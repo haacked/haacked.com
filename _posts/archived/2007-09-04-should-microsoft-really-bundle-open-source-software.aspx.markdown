@@ -41,7 +41,7 @@ Ayende or myself. But as soon a big fry like Microsoft starts bundling
 open source code, watch out for the armies of patent trolls, lawyers in
 tow, coming out of the woodwork.
 
-[![notld1](http://haacked.com/images/haacked_com/WindowsLiveWriter/ShouldMicrosoftReallyBundleOpenSourceSof_807C/notld1_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/ShouldMicrosoftReallyBundleOpenSourceSof_807C/notld1.jpg)
+[![notld1](https://haacked.com/images/haacked_com/WindowsLiveWriter/ShouldMicrosoftReallyBundleOpenSourceSof_807C/notld1_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/ShouldMicrosoftReallyBundleOpenSourceSof_807C/notld1.jpg)
 
 As an aside, some commenters mention the “commercial friendliness” of
 the licenses of the projects they would like bundled such as
@@ -83,7 +83,7 @@ they choose *which* software to bundle?
 For mock object frameworks, Scott Bellware mentions [Rhino
 Mocks](http://ayende.com/projects/rhino-mocks.aspx "Rhino Mocks"), a
 mock framework I’ve [written about a few
-times](http://haacked.com/Tags/Rhino%20Mocks/default.aspx "Rhino Mocks Tags on Haacked.com") and
+times](https://haacked.com/Tags/Rhino%20Mocks/default.aspx "Rhino Mocks Tags on Haacked.com") and
 would agree with this choice. But what
 about [NMock](http://nmock.org/ "NMock") which has been around longer as
 far as I know. I think Scott and Ayende would both agree that popularity

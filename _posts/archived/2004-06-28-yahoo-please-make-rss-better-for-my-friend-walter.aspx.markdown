@@ -33,19 +33,19 @@ blog items.
 However, if you don't mind the clutter, here are links to the RSS feeds
 for each of my categories (thus far).
 
--   [Day To Day](http://haacked.com/category/1.aspx/rss): Basically a
+-   [Day To Day](https://haacked.com/category/1.aspx/rss): Basically a
     diary.
 -   [Ha ha...ha...ha..that's so
-    wrong!](http://haacked.com/category/4.aspx/rss): Funny stuff.
--   [In the News](http://haacked.com/category/10.aspx/rss): notable news
+    wrong!](https://haacked.com/category/4.aspx/rss): Funny stuff.
+-   [In the News](https://haacked.com/category/10.aspx/rss): notable news
     items.
--   [Play That Funky Music](http://haacked.com/category/7.aspx/rss): the
+-   [Play That Funky Music](https://haacked.com/category/7.aspx/rss): the
     rare music review.
--   [Politics as Usual](http://haacked.com/category/9.aspx/rss): the
+-   [Politics as Usual](https://haacked.com/category/9.aspx/rss): the
     occasional political rant.
--   [Geeked Out](http://haacked.com/category/3.aspx/rss): Gadjets,
+-   [Geeked Out](https://haacked.com/category/3.aspx/rss): Gadjets,
     non-software tech.
--   [Software Dev and .NET](http://haacked.com/category/2.aspx/rss): the
+-   [Software Dev and .NET](https://haacked.com/category/2.aspx/rss): the
     one Walt should skip.
 
 [Listening to: Star 69 - Fatboy Slim - Halfway Between The Gutter And

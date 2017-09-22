@@ -16,7 +16,7 @@ developers, my peers, and give presentations on the technologies that my
 team and I build. I’m very fortunate to be able to do so, especially
 given the intense stage fright I used to have.
 
-![phil-mvc-talk](http://haacked.com/images/haacked_com/WindowsLiveWriter/Presentation-Tips-Learned-From-My-Mistak_D766/phil-mvc-talk_3.png "phil-mvc-talk")
+![phil-mvc-talk](https://haacked.com/images/haacked_com/WindowsLiveWriter/Presentation-Tips-Learned-From-My-Mistak_D766/phil-mvc-talk_3.png "phil-mvc-talk")
 
 But over time, through giving multiple presentations, the stage fright
 has subsided to mere abject horror levels. Even so, I’m still nowhere
@@ -32,7 +32,7 @@ Pulsifer says, every mistake is a an “opportunity to learn”, which means
 I’m still cramming for that final exam.
 
 At this [past Mix
-11](http://haacked.com/archive/2011/04/16/a-look-back-at-mix-11.aspx "A look back at Mix 11"),
+11](https://haacked.com/archive/2011/04/16/a-look-back-at-mix-11.aspx "A look back at Mix 11"),
 I made several ~~mistakes~~learning opportunities in [my first
 talk](http://channel9.msdn.com/events/MIX/MIX11/FRM03 "ASP.NET MVC 3 @:The Time Is Now")
 that I was able to capitalize on by the time [my second talk came
@@ -172,7 +172,7 @@ The following screenshot depicts a page of chicken scratch from Scott
 Hanselman’s notebook where we planned out the general outline of our
 talk.
 
-[![IMG\_1165](http://haacked.com/images/haacked_com/WindowsLiveWriter/Presentation-Tips-Learned-From-My-Mistak_D766/IMG_1165_thumb.jpg "IMG_1165")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Presentation-Tips-Learned-From-My-Mistak_D766/IMG_1165.jpg)
+[![IMG\_1165](https://haacked.com/images/haacked_com/WindowsLiveWriter/Presentation-Tips-Learned-From-My-Mistak_D766/IMG_1165_thumb.jpg "IMG_1165")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Presentation-Tips-Learned-From-My-Mistak_D766/IMG_1165.jpg)
 
 I took these notes, typed them up into an orderly outline, and printed
 out a simple script that we referred to during the talk to make sure we
@@ -231,5 +231,5 @@ and Venkatarangan’s [Tips for doing effective
 Presentations](http://www.venkatarangan.com/blog/PermaLink.aspx?guid=dab57735-2976-40d7-a5d0-2e641ddea515 "Tips for doing effective presentations").
 
 Tags:
-[mix11](http://haacked.com/tags/mix11/default.aspx),[mix](http://haacked.com/tags/mix/default.aspx),[presentations](http://haacked.com/tags/presentations/default.aspx),[tips](http://haacked.com/tags/tips/default.aspx)
+[mix11](https://haacked.com/tags/mix11/default.aspx),[mix](https://haacked.com/tags/mix/default.aspx),[presentations](https://haacked.com/tags/presentations/default.aspx),[tips](https://haacked.com/tags/tips/default.aspx)
 

@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2005/11/08/i-aint-chickeni-will-deploy-20.aspx/"
 ---
 
-![Chicken](http://haacked.com/images/chicken.jpg) An IM conversation I
+![Chicken](https://haacked.com/images/chicken.jpg) An IM conversation I
 had with a teammate on a project today...
 
 > haacked: Hey, let's just switch the whole proj to VS.NET 2005 while

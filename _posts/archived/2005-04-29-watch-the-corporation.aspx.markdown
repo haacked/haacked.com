@@ -21,7 +21,7 @@ define wealth and corporate responsibility among other things.
 
 It certainly provides insight into the question of whether [corporations
 should act purely on self
-interest](http://haacked.com/archive/2005/04/24/2818.aspx). Corporations
+interest](https://haacked.com/archive/2005/04/24/2818.aspx). Corporations
 should definitely be responsible to their shareholders, but perhaps also
 to their stake holders. If a corporation is owned by people in the U.S.,
 but pollutes the air in Chile, it's being responsible to its share

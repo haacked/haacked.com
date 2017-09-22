@@ -48,7 +48,7 @@ beer. Though get in line as [Paul
 Betts](https://twitter.com/paulcbetts "Paul Betts") owes him at least
 five beers.
 
-[![-359](http://haacked.com/images/haacked_com/WindowsLiveWriter/RestSharp104.2Released_F7DA/-359_thumb.png "-359")](http://haacked.com/images/haacked_com/WindowsLiveWriter/RestSharp104.2Released_F7DA/-359_2.png)John
+[![-359](https://haacked.com/images/haacked_com/WindowsLiveWriter/RestSharp104.2Released_F7DA/-359_thumb.png "-359")](https://haacked.com/images/haacked_com/WindowsLiveWriter/RestSharp104.2Released_F7DA/-359_2.png)John
 started RestSharp [four years
 ago](https://github.com/restsharp/RestSharp/commit/c6fa63e14208cde3243d1176f038da2342a175ab "Initial commit")
 and has shepherded it well for a very long time. But a while back he
@@ -79,7 +79,7 @@ is only available for .NET 4.5. There’s the [Portable Class Library
 version](http://blogs.msdn.com/b/bclteam/archive/2013/02/18/portable-httpclient-for-net-framework-and-windows-phone.aspx "Portable HttpClient"),
 but that is encumbered by silly platform restrictions. I’ve written
 before that [this is harms
-.NET](http://haacked.com/archive/2013/06/24/platform-limitations-harm-net.aspx "Platform Limitations harm .NET").
+.NET](https://haacked.com/archive/2013/06/24/platform-limitations-harm-net.aspx "Platform Limitations harm .NET").
 I am hopeful they will eventually change it.
 
 RestSharp is unencumbered by platform restrictions - another beautiful

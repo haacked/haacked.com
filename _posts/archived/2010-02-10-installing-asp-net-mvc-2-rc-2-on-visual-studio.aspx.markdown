@@ -16,7 +16,7 @@ containing immense performance improvements and tons of bug fixes.
 Another thing that release contains is the release candidate for ASP.NET
 MVC 2. However, that release is not the latest release of ASP.NET MVC 2
 as we recently [released a second release candidate for ASP.NET MVC
-2](http://haacked.com/archive/2010/02/04/aspnetmvc2-rc2.aspx "ASP.NET MVC 2 RC 2 Released")
+2](https://haacked.com/archive/2010/02/04/aspnetmvc2-rc2.aspx "ASP.NET MVC 2 RC 2 Released")
 in response to customer feedback.
 
 I apologize for the confusion this may have caused, but we really felt
@@ -60,7 +60,7 @@ Studio 2008 installed (named “*Microsoft ASP.NET MVC 2 – Visual Studio
 2008 Tools*”), you’ll also need to uninstall that, but do not uninstall
 the MVC tooling for VS 2010.
 
-[![add-remove-dialog](http://haacked.com/images/haacked_com/WindowsLiveWriter/GettingAS.NETMVC2RC2onVisualStudio2010RC_13EBF/add-remove-dialog_thumb_1.png "add-remove-dialog")](http://haacked.com/images/haacked_com/WindowsLiveWriter/GettingAS.NETMVC2RC2onVisualStudio2010RC_13EBF/add-remove-dialog_4.png) 
+[![add-remove-dialog](https://haacked.com/images/haacked_com/WindowsLiveWriter/GettingAS.NETMVC2RC2onVisualStudio2010RC_13EBF/add-remove-dialog_thumb_1.png "add-remove-dialog")](https://haacked.com/images/haacked_com/WindowsLiveWriter/GettingAS.NETMVC2RC2onVisualStudio2010RC_13EBF/add-remove-dialog_4.png) 
 
 At this point, you should only have *Microsoft ASP.NET MVC 2 – Visual
 Studio Tools for VS 2010* installed. You may now run the installer for

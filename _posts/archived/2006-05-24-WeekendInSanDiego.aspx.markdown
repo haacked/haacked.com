@@ -25,7 +25,7 @@ banality of my life.
 However this weekend is a bit special as my wife’s family (mom, brother,
 and brother’s wife) are in town from Japan to observer the one year
 anniversary of her [otosan (dad) passing
-away](http://haacked.com/archive/2005/05/22/ALossInTheFamily.aspx "A Loss In The Family").
+away](https://haacked.com/archive/2005/05/22/ALossInTheFamily.aspx "A Loss In The Family").
 
 While last year was an understandably somber affair, this year has been
 very light and fun. We drove down to Chula Vista to visit the location
@@ -43,13 +43,13 @@ We also took a boat ride in Oceanside to the point at which we spread
 Otosan’s ashes. My brother-in-law took some great photos, such as the
 sea lions basking on a buoy.
 
-![Sea Lions](http://haacked.com/images/SeaLions.jpg)
+![Sea Lions](https://haacked.com/images/SeaLions.jpg)
 
 Everytime I ride the boat I start to wonder what it would be like to
 sell our place and live on a boat. But I realize they have the same
 parking congestion that we have.
 
-![](http://haacked.com/images/BoatsInARow.jpg)
+![](https://haacked.com/images/BoatsInARow.jpg)
 
 Today I am back in Los Angeles and back to work while they are out
 shopping. It is interesting to see their shopping choices. They were so

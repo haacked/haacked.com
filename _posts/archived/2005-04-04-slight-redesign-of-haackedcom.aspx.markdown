@@ -12,7 +12,7 @@ So I spent a bit of time today to "refresh" the look of my site. On the
 face of it, it's not a dramatic change, but under the hood, I tore out
 the table driven layout and replaced it with a CSS driven layout.
 
-For you aggregator readers, [take a look](http://haacked.com/) and let
+For you aggregator readers, [take a look](https://haacked.com/) and let
 me know what you think?
 
 And if it looks really wack, try a hard refresh (CTRL+F5) because the

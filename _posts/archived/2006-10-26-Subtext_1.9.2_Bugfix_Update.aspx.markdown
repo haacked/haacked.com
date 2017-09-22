@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/10/25/Subtext_1.9.2_Bugfix_Update.aspx/"
 ---
 
 As I mentioned in [my last
-post](http://haacked.com/archive/2006/10/26/PATCH_Cannot_Delete_Posts_In_Subtext_1.9.2.aspx "Cannot Delete Posts"),
+post](https://haacked.com/archive/2006/10/26/PATCH_Cannot_Delete_Posts_In_Subtext_1.9.2.aspx "Cannot Delete Posts"),
 someone reported a bug with deleting posts in the admin tool.  That
 posts also describes a quick and dirty workaround.
 
@@ -24,13 +24,13 @@ admin and look in the bottom left corner.  You should see the version
 there.
 
 ![Subtext
-Version](http://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext1.9.2BugfixUpdate_1064E/Subtext-VersionInfo%5B4%5D.png)
+Version](https://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext1.9.2BugfixUpdate_1064E/Subtext-VersionInfo%5B4%5D.png)
 
 If you downloaded Subtext 1.9.2 before I applied the update, then you
 will probably see version 1.9.2.19 in there.  If so, you have two
 options.  You can either apply the [quick and dirty patch mentioned in
 my last
-post](http://haacked.com/archive/2006/10/26/PATCH_Cannot_Delete_Posts_In_Subtext_1.9.2.aspx "Quick and dirty patch"),
+post](https://haacked.com/archive/2006/10/26/PATCH_Cannot_Delete_Posts_In_Subtext_1.9.2.aspx "Quick and dirty patch"),
 or you can download the latest build and update the
 `Subtext.Framework.dll` file in the `bin` directory.
 

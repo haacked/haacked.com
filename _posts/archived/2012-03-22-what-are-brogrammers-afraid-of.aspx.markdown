@@ -59,7 +59,7 @@ Magazine archive
 photo](http://thecomputerboys.com/?p=351 "Life Magazine Archive photo of IBM")
 of IBM computer operators.
 
-[![ibm-60s](http://haacked.com/images/haacked_com/WindowsLiveWriter/What-are-Brogrammers-Afraid-Of_C1D4/ibm-60s_thumb.jpg "ibm-60s")](http://haacked.com/images/haacked_com/WindowsLiveWriter/What-are-Brogrammers-Afraid-Of_C1D4/ibm-60s_2.jpg)
+[![ibm-60s](https://haacked.com/images/haacked_com/WindowsLiveWriter/What-are-Brogrammers-Afraid-Of_C1D4/ibm-60s_thumb.jpg "ibm-60s")](https://haacked.com/images/haacked_com/WindowsLiveWriter/What-are-Brogrammers-Afraid-Of_C1D4/ibm-60s_2.jpg)
 
 But the percentage of women declined steadily from that point. According
 to this [Girls Go

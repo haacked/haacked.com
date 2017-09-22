@@ -9,7 +9,7 @@ redirect_from: "/archive/2009/08/30/7-stages-of-language-keyword-grief.aspx/"
 ---
 
 My [last
-post](http://haacked.com/archive/2009/08/26/method-missing-csharp-4.aspx "Fun with method missing in C# 4")
+post](https://haacked.com/archive/2009/08/26/method-missing-csharp-4.aspx "Fun with method missing in C# 4")
 on the new `dynamic` keyword sparked a range of reactions which are not
 uncommon when discussing a new language keyword or feature. Many are
 excited by it, but there are those who feel a sense of…well…grief when

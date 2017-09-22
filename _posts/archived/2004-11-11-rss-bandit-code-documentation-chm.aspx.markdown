@@ -10,7 +10,7 @@ redirect_from: "/archive/2004/11/10/rss-bandit-code-documentation-chm.aspx/"
 
 Using [NDoc](http://ndoc.sourceforge.net/) I've generated an update
 version of the [CHM code documentation for RSS
-Bandit](http://haacked.com/code/RSSBanditCodeDocumentation.chm). As
+Bandit](https://haacked.com/code/RSSBanditCodeDocumentation.chm). As
 you'll see (if you take a look) this documentation is by no means
 complete. Many of the public methods need better documentation. Also,
 there are no Namespace summaries yet. I plan to spend some time adding

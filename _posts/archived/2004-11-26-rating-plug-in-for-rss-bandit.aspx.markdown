@@ -9,12 +9,12 @@ redirect_from: "/archive/2004/11/25/rating-plug-in-for-rss-bandit.aspx/"
 ---
 
 A while ago I [wrote about
-AmphetaRate](http://haacked.com/archive/2004/05/07/412.aspx), a blog
+AmphetaRate](https://haacked.com/archive/2004/05/07/412.aspx), a blog
 recommendation engine that takes user ratings of blog entries and serves
 an RSS feed of recommended blog entries.
 
 Later on I wrote an article about how to [build an IBlogExtension
-plugin](http://haacked.com/archive/2004/06/19/651.aspx) which was added
+plugin](https://haacked.com/archive/2004/06/19/651.aspx) which was added
 the the [RSS Bandit documentation site](http://www.rssbandit.org/docs/).
 
 As a warmup to writing that article I wrote an AmphetaRate plugin to
@@ -35,11 +35,11 @@ This would certainly help solve the "Chicken Egg" problem.
 
 In the meantime, I am releasing my plug-in with no warranties. Just copy
 the
-[AmphetaRatePlugin.dll](http://haacked.com/code/AmphetaRatePlugin.zip)
+[AmphetaRatePlugin.dll](https://haacked.com/code/AmphetaRatePlugin.zip)
 to the "plugins" subfolder of the RSS Bandit installation (on my
 computer that's at "C:\\Program Files\\RssBandit\\plugins"). The VS.NET
 2003 solution can be [downloaded
-here](http://haacked.com/code/AmphetaRatePluginSolution.zip).
+here](https://haacked.com/code/AmphetaRatePluginSolution.zip).
 
 Note that although this plug-in implements the IBlogExtension interface,
 the configuration form implements a feature specific to RSS Bandit. When

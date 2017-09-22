@@ -17,7 +17,7 @@ MVC. We long sinced removed the `ControllerAction` attribute.
 *Note: If you hate reading and just want the code, it is at the bottom.*
 
 Eons ago, I was a youngster living in
-[Spain](http://haacked.com/archive/2005/11/29/highlights-from-spain.aspx "Highlights from Spain")
+[Spain](https://haacked.com/archive/2005/11/29/highlights-from-spain.aspx "Highlights from Spain")
 watching my Saturday morning cartoons when my dad walked in bearing
 freshly made taquitos and a small cup of green stuff. The taquitos
 looked delicious, but I was appalled at the green stuff.
@@ -27,7 +27,7 @@ but I refused because I absolutely knew it would suck just by looking at
 it. The green stuff, of course, was guacamole, which I love by the
 truckload now.
 
-![Guacamole](http://haacked.com/images/haacked_com/WindowsLiveWriter/235087d3d642_11FF7/Guacamole_3.jpg)
+![Guacamole](https://haacked.com/images/haacked_com/WindowsLiveWriter/235087d3d642_11FF7/Guacamole_3.jpg)
 
 With all the code samples and blog posts published about the ASP.NET MVC
 Framework, there’s been some debate about the big picture stuff.
@@ -47,7 +47,7 @@ the point of absurdity and pointlessness. At the end of the day,
 however, the framework developer has to make a decision and move forward
 so he or she can go home. These choices will never make *everyone* happy
 because [there is no such thing as a perfect
-design](http://haacked.com/archive/2005/05/31/ThereIsNoPerfectDesign.aspx "There is no perfect design")
+design](https://haacked.com/archive/2005/05/31/ThereIsNoPerfectDesign.aspx "There is no perfect design")
 that satisfies everyone.
 
 **That doesn’t mean we give up trying though!**
@@ -155,7 +155,7 @@ style of building controllers, you can either add the
 separate assembly and drop it into your own projects.
 
 To get to this class, [**download the *example*
-code**](http://haacked.com/code/ConventionControllerDemo.zip "ConventionController Demo").
+code**](https://haacked.com/code/ConventionControllerDemo.zip "ConventionController Demo").
 
 Tags: [ASP.NET
 MVC](http://technorati.com/tags/aspnetmvc/ "ASP.NET MVC tag") ,

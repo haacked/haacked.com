@@ -17,7 +17,7 @@ Galloway](http://weblogs.asp.net/jgalloway/ "Jon -the gallows- Galloway")
 has been on a spree of unleashing useful
 [tools](http://weblogs.asp.net/jgalloway/archive/2006/07/26/IE7-Standalone-_2800_Updated-for-IE7-Beta-3_2900_.aspx "IE7 Standalone")
 lately. I released a few of my own as
-[well](http://haacked.com/archive/2006/07/27/IntroducingCaptainHookASubversionHookFrameworkFor.NET.aspx "Subversion Hooks").
+[well](https://haacked.com/archive/2006/07/27/IntroducingCaptainHookASubversionHookFrameworkFor.NET.aspx "Subversion Hooks").
 
 One thing in common with these little tools and utilities is that we are
 hosting them on our new company tools site,

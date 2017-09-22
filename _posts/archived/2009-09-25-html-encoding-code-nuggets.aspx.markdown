@@ -16,9 +16,9 @@ blocks, aka the `<%: ... %>` syntax.
 
 -   **Html Encoding Code Blocks With ASP.NET 4**
 -   [Html Encoding Nuggets With ASP.NET MVC
-    2](http://haacked.com/archive/2009/11/03/html-encoding-nuggets-aspnetmvc2.aspx "Html Encoding Nuggets with ASP.NET MVC 2")
+    2](https://haacked.com/archive/2009/11/03/html-encoding-nuggets-aspnetmvc2.aspx "Html Encoding Nuggets with ASP.NET MVC 2")
 -   [Using AntiXss as the default encoder for
-    ASP.NET](http://haacked.com/archive/2010/04/06/using-antixss-as-the-default-encoder-for-asp-net.aspx "Using AntiXSS")
+    ASP.NET](https://haacked.com/archive/2010/04/06/using-antixss-as-the-default-encoder-for-asp-net.aspx "Using AntiXSS")
 
 One great new feature being introduced in ASP.NET 4 is a new code block
 (*often called a Code Nugget by members of the Visual Web Developer

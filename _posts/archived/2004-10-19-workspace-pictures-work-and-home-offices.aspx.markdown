@@ -16,7 +16,7 @@ I know a lot of
 their
 [workspace](http://glazkov.com/Resources/Images/Office/quadraplex-large.jpg)
 online. Not sure why
-([vanity](http://haacked.com/archive/2004/10/08/1322.aspx)!), but they
+([vanity](https://haacked.com/archive/2004/10/08/1322.aspx)!), but they
 just do. So I thought I'd jump on that bandwagon and do the same.
 
 This first picture shows my work office with it's nice 17th floor view.

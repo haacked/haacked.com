@@ -72,7 +72,7 @@ In the case of ASP.NET MVC, I opened up the *Web.config* file hiding
 away in the *Views* directory, not to be confused with the *Web.config*
 in your application root.
 
-![views-webconfig](http://haacked.com/images/haacked_com/WindowsLiveWriter/PutYourViewsandPagesOnaDiet_F0BD/views-webconfig_3.png "views-webconfig")
+![views-webconfig](https://haacked.com/images/haacked_com/WindowsLiveWriter/PutYourViewsandPagesOnaDiet_F0BD/views-webconfig_3.png "views-webconfig")
 
 This *Web.config* is placed here because it is the default for all
 Views. I then made the following changes:
@@ -110,7 +110,7 @@ directive to specify the `ViewPage` type, but that’s it.
 
 Also, don’t forget that you can get rid of all them ugly `Register`
 declarations by [registering custom controls in
-Web.config](http://haacked.com/archive/2006/11/14/Register_Custom_Controls_In_Web.config.aspx "Register custom controls").
+Web.config](https://haacked.com/archive/2006/11/14/Register_Custom_Controls_In_Web.config.aspx "Register custom controls").
 
 You can also get rid of those ugly Import directives by importing
 namespaces in *Web.config*.
@@ -137,7 +137,7 @@ it](http://blog.wekeroad.com/blog/asp-net-mvc-avoiding-tag-soup/ "Avoiding Tag S
 
 Sadly, there is no getting rid of `runat="server"` yet short of
 switching [another view
-engine](http://haacked.com/archive/2008/12/08/asp.net-mvc-northwind-demo-using-the-spark-view-engine.aspx "Northwind on Spark").
+engine](https://haacked.com/archive/2008/12/08/asp.net-mvc-northwind-demo-using-the-spark-view-engine.aspx "Northwind on Spark").
 But at this point, I like to think of him as that obnoxious friend from
 high school your wife hates but you still keep around to remind you of
 your roots. ;)
@@ -146,5 +146,5 @@ Hope you enjoy these tips and use them to put your views on a diet.
 After all, isn’t it the view’s job to look good for the beach?
 
 Tags:
-[asp.net](http://haacked.com/tags/asp.net/default.aspx),[aspnetmvc](http://haacked.com/tags/aspnetmvc/default.aspx),[views](http://haacked.com/tags/views/default.aspx)
+[asp.net](https://haacked.com/tags/asp.net/default.aspx),[aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),[views](https://haacked.com/tags/views/default.aspx)
 

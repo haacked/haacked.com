@@ -15,9 +15,9 @@ This is the third in a three part series related to HTML encoding
 blocks, aka the `<%: ... %>` syntax.
 
 -   [Html Encoding Code Blocks With ASP.NET
-    4](http://haacked.com/archive/2009/09/25/html-encoding-code-nuggets.aspx "Html Encoding Blocks")
+    4](https://haacked.com/archive/2009/09/25/html-encoding-code-nuggets.aspx "Html Encoding Blocks")
 -   [Html Encoding Nuggets With ASP.NET MVC
-    2](http://haacked.com/archive/2009/11/03/html-encoding-nuggets-aspnetmvc2.aspx "Html Encoding Nuggets with ASP.NET MVC 2")
+    2](https://haacked.com/archive/2009/11/03/html-encoding-nuggets-aspnetmvc2.aspx "Html Encoding Nuggets with ASP.NET MVC 2")
 -   **Using AntiXss as the default encoder for ASP.NET**
 
 [Scott Guthrie](http://weblogs.asp.net/scottgu/ "Scott Guthrie's blog")
@@ -25,7 +25,7 @@ recently wrote about [the new \<%: %\> syntax for HTML encoding output
 in ASP.NET
 4](http://weblogs.asp.net/scottgu/archive/2010/04/06/new-lt-gt-syntax-for-html-encoding-output-in-asp-net-4-and-asp-net-mvc-2.aspx "New syntax for HTML encoding").
 I also covered the topic of [HTML encoding code
-nuggets](http://haacked.com/archive/2009/09/25/html-encoding-code-nuggets.aspx "HTML Encoding Code Nuggets")
+nuggets](https://haacked.com/archive/2009/09/25/html-encoding-code-nuggets.aspx "HTML Encoding Code Nuggets")
 in the past as well providing some insight into our design choices for
 the approach we took.
 
@@ -60,8 +60,8 @@ somewhere where you’ll be able to find it. I typically have a “lib”
 folder or a “Dependencies” folder for this purpose. Right clicke on the
 *References* node of the project to add a reference to the assembly.
 
-![add-reference](http://haacked.com/images/haacked_com/WindowsLiveWriter/UsingAntiXssAsTheDefaultEncoderForAS.NET_75E3/add-reference_3.png "add-reference")
-![Add-Reference-dialog](http://haacked.com/images/haacked_com/WindowsLiveWriter/UsingAntiXssAsTheDefaultEncoderForAS.NET_75E3/Add-Reference-dialog_3.png "Add-Reference-dialog")The
+![add-reference](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingAntiXssAsTheDefaultEncoderForAS.NET_75E3/add-reference_3.png "add-reference")
+![Add-Reference-dialog](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingAntiXssAsTheDefaultEncoderForAS.NET_75E3/Add-Reference-dialog_3.png "Add-Reference-dialog")The
 next step is to write a class that derives from `HttpEncoder`. Note that
 in the following listing, some methods were excluded which are included
 in the project.
@@ -116,7 +116,7 @@ name.
 To prove that this is working, run the project in the debugger and set a
 breakpoint in the encoding method.
 
-![debugger-breakpoint](http://haacked.com/images/haacked_com/WindowsLiveWriter/UsingAntiXssAsTheDefaultEncoderForAS.NET_75E3/debugger-breakpoint_3.png "debugger-breakpoint")
+![debugger-breakpoint](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingAntiXssAsTheDefaultEncoderForAS.NET_75E3/debugger-breakpoint_3.png "debugger-breakpoint")
 
 With that, you are all set to take full control over how strings are
 encoded in your application.

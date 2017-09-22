@@ -51,7 +51,7 @@ for this sample and follow along.
 Here’s a simple banking website I wrote. If your banking site looks like
 this one, I recommend running away.
 
-[![banking-login-page](http://haacked.com/images/haacked_com/WindowsLiveWriter/AnatomyofaCrosssiteRequestForgeryAttack_B092/banking-login-page_thumb.png "banking-login-page")](http://haacked.com/images/haacked_com/WindowsLiveWriter/AnatomyofaCrosssiteRequestForgeryAttack_B092/banking-login-page_2.png)The
+[![banking-login-page](https://haacked.com/images/haacked_com/WindowsLiveWriter/AnatomyofaCrosssiteRequestForgeryAttack_B092/banking-login-page_thumb.png "banking-login-page")](https://haacked.com/images/haacked_com/WindowsLiveWriter/AnatomyofaCrosssiteRequestForgeryAttack_B092/banking-login-page_2.png)The
 site properly blocks anonymous users from taking any action. You can see
 that in the code for the controller:
 
@@ -72,7 +72,7 @@ to another account in the bank. Note that for the sake of the demo, I’ve
 included an information disclosure vulnerability by allowing you to see
 the balance for other bank members. ;)
 
-![bank-transfer-screen](http://haacked.com/images/haacked_com/WindowsLiveWriter/AnatomyofaCSRFAttack_E525/bank-transfer-screen_5.png "bank-transfer-screen")
+![bank-transfer-screen](https://haacked.com/images/haacked_com/WindowsLiveWriter/AnatomyofaCSRFAttack_E525/bank-transfer-screen_5.png "bank-transfer-screen")
 
 To transfer money to my Bookie, for example, I can enter an amount of
 \$1000, select the Bookie account, and then click Transfer. The
@@ -159,7 +159,7 @@ before you click that link to see it working.
 Let’s look at the contents of that form post.
 
 >     POST /Home/Transfer HTTP/1.1
->     Referer: http://haacked.com/demos/csrf-mvc.html
+>     Referer: https://haacked.com/demos/csrf-mvc.html
 >     User-Agent: ...
 >     Content-Type: application/x-www-form-urlencoded
 >     Host: 127.0.0.1:54607
@@ -263,7 +263,7 @@ popular link aggregator site like Digg.
 One point I would like to stress is that it is very important to never
 allow any changes to data via GET requests. To understand why, [check
 out this
-post](http://haacked.com/archive/2009/01/30/simple-jquery-delete-link-for-asp.net-mvc.aspx "Delete Link")
+post](https://haacked.com/archive/2009/01/30/simple-jquery-delete-link-for-asp.net-mvc.aspx "Delete Link")
 as well as this story about the [Google Web
 Accelerator](http://radar.oreilly.com/archives/2005/05/google-web-acce-1.html "Google Web Accelerator").
 
@@ -271,7 +271,7 @@ Accelerator](http://radar.oreilly.com/archives/2005/05/google-web-acce-1.html "G
 
 It turns out Web Forms are not immune to this attack by default. I have
 a [follow-up
-post](http://haacked.com/archive/2009/04/02/csrf-webforms.aspx "CSRF and Web Forms")
+post](https://haacked.com/archive/2009/04/02/csrf-webforms.aspx "CSRF and Web Forms")
 that talks about this and the mitigation.
 
 If you missed the link to the sample code before, you can [download the

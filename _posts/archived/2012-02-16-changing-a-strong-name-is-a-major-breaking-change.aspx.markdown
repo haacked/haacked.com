@@ -15,14 +15,14 @@ Recently, the Log4Net team released log4net 1.2.11 (*congrats by the
 way!*). The previous version of log4Net was 1.2.10.
 
 Despite which [version of
-*version*](http://haacked.com/archive/2006/09/27/Which_Version_of_Version.aspx "Which version of version")
+*version*](https://haacked.com/archive/2006/09/27/Which_Version_of_Version.aspx "Which version of version")
 you subscribe to, we can all agree that only incrementing the third part
 of a version indicates that the new release is a minor update and one
 that hopefully has no breaking changes. Perhaps a bug fix release.
 
 This is especially true if you subscribe to [Semantic Versioning
 (SemVer)](http://semver.org/ "SemVer") as NuGet does. As [I wrote
-previously](http://haacked.com/archive/2011/10/24/semver-nuget-nightly-builds.aspx "SemVer"),
+previously](https://haacked.com/archive/2011/10/24/semver-nuget-nightly-builds.aspx "SemVer"),
 
 > SemVer is a convention for versioning your public APIs that gives
 > meaning to the version number. Each version has three parts,

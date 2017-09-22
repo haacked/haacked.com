@@ -10,7 +10,7 @@ redirect_from: "/archive/2006/05/30/WhatDoesMyTestingMailServerTestThatAMockWoul
 
 [Greg Young](http://geekswithblogs.net/gyoung/ "Greg Young's Blog")
 takes my [Testing Mail
-Server](http://haacked.com/archive/2006/05/30/ATestingMailServerForUnitTestingEmailFunctionality.aspx "Testing Mail Server")
+Server](https://haacked.com/archive/2006/05/30/ATestingMailServerForUnitTestingEmailFunctionality.aspx "Testing Mail Server")
 to task and asks the question, [what does it test that a mock provider
 doesn’t](http://geekswithblogs.net/gyoung/archive/2006/05/31/80292.aspx "Unit Test???")?
 

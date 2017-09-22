@@ -10,15 +10,15 @@ redirect_from: "/archive/2008/05/18/updated-routing-with-webforms.aspx/"
 ---
 
 A while back I wrote a sample that demonstrated how to [use Routing with
-WebForms](http://haacked.com/archive/2008/03/11/using-routing-with-webforms.aspx "Using Routing with WebForms").
+WebForms](https://haacked.com/archive/2008/03/11/using-routing-with-webforms.aspx "Using Routing with WebForms").
 
 *If you missed it, you can **[download the
-code](http://haacked.com/code/WebFormRoutingDemo.zip "Download the code")**
+code](https://haacked.com/code/WebFormRoutingDemo.zip "Download the code")**
 here*
 
 With the recent announcement that [Routing will be included with .NET
 3.5
-SP1](http://haacked.com/archive/2008/05/12/sp1-beta-and-its-effect-on-mvc.aspx "Routing in SP1"),
+SP1](https://haacked.com/archive/2008/05/12/sp1-beta-and-its-effect-on-mvc.aspx "Routing in SP1"),
 you can see why I wanted to put that demo together.
 
 I have since updated that sample to work with the versions of Routing
@@ -62,7 +62,7 @@ right isn’t valid. The path needs to specify a page we can instantiate,
 not a request for an URL.
 
 To save you from having to visit the previous post, here is a link to
-**[download the code](http://haacked.com/code/WebFormRoutingDemo.zip)**
+**[download the code](https://haacked.com/code/WebFormRoutingDemo.zip)**
 
 Technorati Tags:
 [routing](http://technorati.com/tags/routing),[aspnetmvc](http://technorati.com/tags/aspnetmvc)

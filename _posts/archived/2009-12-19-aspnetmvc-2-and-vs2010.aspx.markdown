@@ -12,7 +12,7 @@ redirect_from: "/archive/2009/12/18/aspnetmvc-2-and-vs2010.aspx/"
 ---
 
 When we [released ASP.NET MVC 2
-Beta](http://haacked.com/archive/2009/11/17/asp.net-mvc-2-beta-released.aspx "ASP.NET MVC 2 Beta Released")
+Beta](https://haacked.com/archive/2009/11/17/asp.net-mvc-2-beta-released.aspx "ASP.NET MVC 2 Beta Released")
 back in November, I addressed the issue of support for Visual Studio
 2010 Beta 2.
 
@@ -21,13 +21,13 @@ back in November, I addressed the issue of support for Visual Studio
 > MVC 2 Beta on VS10 Beta 2 is not supported.
 
 The [release candidate for ASP.NET MVC
-2](http://haacked.com/archive/2009/12/16/aspnetmvc-2-rc.aspx "ASP.NET MVC 2 RC")
+2](https://haacked.com/archive/2009/12/16/aspnetmvc-2-rc.aspx "ASP.NET MVC 2 RC")
 does not change the situation, but I wasn’t as clear as I could have
 been about what the situation is exactly. In this post, I hope to clear
 up the confusion (and hopefully not add any more new confusion) and
 explain what is and isn’t supported and why that’s the case.
 
-[![why](http://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2andVisualStudio2010_113C5/why_3.jpg "why")](http://www.flickr.com/photos/emagic/56206868/ "Good Question, by e-magic: CC license by attribution some rights reserved")
+[![why](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2andVisualStudio2010_113C5/why_3.jpg "why")](http://www.flickr.com/photos/emagic/56206868/ "Good Question, by e-magic: CC license by attribution some rights reserved")
 
 Part of the confusion may lie in the fact that ASP.NET MVC 2 consists of
 two components, the runtime and what we call “Tooling”. The runtime is
@@ -46,7 +46,7 @@ I’m really referring to the *tooling*.
 
 **The ASP.NET MVC 2 RC runtime is fully supported with the ASP.NET 4
 runtime.** As I [mentioned
-before](http://haacked.com/archive/2009/11/03/html-encoding-nuggets-aspnetmvc2.aspx "Html Encoding Nuggets with ASP.NET MVC 2"),
+before](https://haacked.com/archive/2009/11/03/html-encoding-nuggets-aspnetmvc2.aspx "Html Encoding Nuggets with ASP.NET MVC 2"),
 we are not compiling a different version of the runtime for ASP.NET 4.
 It’s the same runtime. So you can create an ASP.NET empty web
 application project, for example, add in the RC of `System.Web.Mvc.dll`
@@ -70,7 +70,7 @@ Why would this add overhead? [Eilon
 Lipton](http://weblogs.asp.net/leftslipper/ "Eilon Lipton's Blog"), lead
 developer on the ASP.NET MVC feature team, covers this well in [his
 comment on my last
-post](http://haacked.com/archive/2009/12/16/aspnetmvc-2-rc.aspx#75341 "Eilon's Comment").
+post](https://haacked.com/archive/2009/12/16/aspnetmvc-2-rc.aspx#75341 "Eilon's Comment").
 
 > Regarding Visual Studio 2010 and .NET 4 support, that is unfortunately
 > not a feasible option. The most recent public release of VS2010 and

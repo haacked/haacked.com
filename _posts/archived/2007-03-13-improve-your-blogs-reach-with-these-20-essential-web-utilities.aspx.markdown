@@ -16,7 +16,7 @@ It turns out, there are a large number of free web utilities useful for
 improving your blog’s effectiveness outside of your blog engine.
 
 [![Image of hammer, ruler, and other tools. CC
-licensed.](http://haacked.com/images/haacked_com/WindowsLiveWriter/TheEssentialBlogUtilitiesList_FFFB/181152792_ecb4bc1b523.jpg)](http://www.flickr.com/photos/johannrela/181152792/ "johannrela on Flickr")
+licensed.](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheEssentialBlogUtilitiesList_FFFB/181152792_ecb4bc1b523.jpg)](http://www.flickr.com/photos/johannrela/181152792/ "johannrela on Flickr")
 *Tools 4 Argentina - [Some Rights
 Reserved](http://creativecommons.org/licenses/by/2.0/ "Creative Commons License")*
 
@@ -108,7 +108,7 @@ Get a handle on your web traffic with these sites.
     blog that displays how many other posts link to yours.
 6.  [**Alexa.com**](http://alexa.com/ "Alexa web stats") - The beauty of
     this site is that you can easily [compare your website’s
-    reach](http://www.alexa.com/data/details/traffic_details?site0=haacked.com/&site1=codinghorror.com&site2=&site3=&site4=&y=r&z=1&h=300&w=500&range=6m&size=Medium&url=http://haacked.com/ "Compare Reach")
+    reach](http://www.alexa.com/data/details/traffic_details?site0=haacked.com/&site1=codinghorror.com&site2=&site3=&site4=&y=r&z=1&h=300&w=500&range=6m&size=Medium&url=https://haacked.com/ "Compare Reach")
     with several other websites on a single graph, thus starting a huge
     pissing contest.
 

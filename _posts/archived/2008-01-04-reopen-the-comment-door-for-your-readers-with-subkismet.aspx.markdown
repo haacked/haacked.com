@@ -11,7 +11,7 @@ redirect_from: "/archive/2008/01/03/reopen-the-comment-door-for-your-readers-wit
 
 Six months ago and six days after the birth of my son, [Subkismet was
 also
-born](http://haacked.com/archive/2007/06/12/introducing-subkismet-the-cure-for-comment-spam.aspx "Introducing Subkismet")
+born](https://haacked.com/archive/2007/06/12/introducing-subkismet-the-cure-for-comment-spam.aspx "Introducing Subkismet")
 which I introduced as the cure for comment spam. The point of the
 project was to be a useful class library containing multiple spam
 fighting classes that could be easily integrated into a blog platform or
@@ -46,13 +46,13 @@ items that are new since the first release of Subkismet.
 > -   Invisible CAPTCHA control: A clever CAPTHCA control that hides
 >     from real human but appears to spammers. This control is done by
 >     Phil and you can read more about it
->     [here](http://haacked.com/archive/2006/09/26/Lightweight_Invisible_CAPTCHA_Validator_Control.aspx).
+>     [here](https://haacked.com/archive/2006/09/26/Lightweight_Invisible_CAPTCHA_Validator_Control.aspx).
 > -   CAPTCHA control: An excellent implementation of traditional image
 >     CAPTCHA control for ASP.NET applications.
 > -   **Honeypot CAPTCHA**: Another clever CAPTCHA control that hides
 >     form fields from spam bots to stop them. This control is done by
 >     Phil and you can read more about it
->     [here](http://haacked.com/archive/2007/09/11/honeypot-captcha.aspx).
+>     [here](https://haacked.com/archive/2007/09/11/honeypot-captcha.aspx).
 > -   **Trackback HTTP Module**: An ASP.NET Http Module that blocks
 >     trackback spam. This module is done by [Mads
 >     Kristensen](http://blog.madskristensen.dk/) and he has explained

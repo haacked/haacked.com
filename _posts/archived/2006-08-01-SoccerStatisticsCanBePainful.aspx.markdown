@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/07/31/SoccerStatisticsCanBePainful.aspx/"
 ---
 
-![Soccer Ball](http://haacked.com/images/SoccerBallBW.jpg)One thing I
+![Soccer Ball](https://haacked.com/images/SoccerBallBW.jpg)One thing I
 love about my soccer league is that they have a [kick butt
 website](http://eteamz.com/olympicsl/ "Olympic Soccer League"). The
 design isn’t much to look at, but the site is chock full of useful

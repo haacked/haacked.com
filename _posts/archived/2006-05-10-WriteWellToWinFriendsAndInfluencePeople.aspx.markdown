@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/05/09/WriteWellToWinFriendsAndInfluencePeople.aspx/"
 ---
 
-![Pen](http://haacked.com/images/FountainPen.jpg) I write this blog post
+![Pen](https://haacked.com/images/FountainPen.jpg) I write this blog post
 with apologies to [Dale
 Carnegie](http://en.wikipedia.org/wiki/Dale_Carnegie "Dale Carnegie")
 for the play on the title of his book.

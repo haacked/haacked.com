@@ -13,7 +13,7 @@ redirect_from: "/archive/2008/07/13/make-routing-ignore-requests-for-a-file-exte
 By default, ASP.NET Routing ignores requests for files that do ~~not~~
 exist on disk. I explained the reason for this in a [previous post on
 upcoming routing
-changes](http://haacked.com/archive/2008/04/10/upcoming-changes-in-routing.aspx "Upcoming Routing Changes").
+changes](https://haacked.com/archive/2008/04/10/upcoming-changes-in-routing.aspx "Upcoming Routing Changes").
 
 Long story short, we didn’t want routing to attempt to route requests
 for static files such as images. Unfortunately, this caused us a

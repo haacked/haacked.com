@@ -20,7 +20,7 @@ But I had this sudden epiphany. What if I were the villain in this story? It did
 
 In this alternative narrative, I was the aggressor. I sped along and did not allow this innocent person make it over to the turn lane. It made me realize that I've been in his shoes before. And many times I label the driver who approaches too fast as the bad guy when I try to change lanes. I couldn't have been in the right in every situation, could I?
 
-This thought experiment mirrors the ideas I wrote about in my post [Argue Well By Losing](http://haacked.com/archive/2013/10/21/argue-well-by-losing.aspx/). The difference is the techniques I wrote about in that post apply when you're in the midst of a debate. This technique is for more contemplative moments.
+This thought experiment mirrors the ideas I wrote about in my post [Argue Well By Losing](https://haacked.com/archive/2013/10/21/argue-well-by-losing.aspx/). The difference is the techniques I wrote about in that post apply when you're in the midst of a debate. This technique is for more contemplative moments.
 
 When you change your narrative, you challenge your long held beliefs, biases, and prejudices. You realize that someone who holds a deep belief that's antithetical to your own, is a "good person" in their own mind. And in their narrative, you, who attempts to refute their belief, is "the bad guy."
 

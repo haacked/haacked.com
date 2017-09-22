@@ -9,14 +9,14 @@ redirect_from: "/archive/2007/03/26/doubling-down-at-mix-07.aspx/"
 ---
 
 You’ve been
-H![AAA](http://haacked.com/images/haacked_com/WindowsLiveWriter/DoublingDownAtMix07_10E98/fun_cards%5B5%5D.jpg)
+H![AAA](https://haacked.com/images/haacked_com/WindowsLiveWriter/DoublingDownAtMix07_10E98/fun_cards%5B5%5D.jpg)
 CKED will be well represented at [Mix
 07](http://visitmix.com/ "Mix 07 website") this year. I thoroughly
 enjoyed Mix 06 last year and think 07 has the potential to be even
 better.
 
 **Do not worry, I’m leaving the retina scorching**[**orange aloha
-shirt**](http://haacked.com/archive/2006/03/15/SeeYouAtMix06.aspx "See You At Mix 06")**at
+shirt**](https://haacked.com/archive/2006/03/15/SeeYouAtMix06.aspx "See You At Mix 06")**at
 home this time.**
 
 My only disappointment with Mix 07 so far is it doesn’t have quite the

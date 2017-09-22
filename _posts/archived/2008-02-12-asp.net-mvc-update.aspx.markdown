@@ -34,11 +34,11 @@ Here’s a screenshot that shows a tooling feature I’m particularly
 excited about.
 
 ![Unit Testing
-Frameworks](http://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVCUpdate_C69C/UnitTestingFrameworks_3.png)
+Frameworks](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVCUpdate_C69C/UnitTestingFrameworks_3.png)
 
 I’ve written about the challenges Microsoft faces with bundling [Open
 Source
-software](http://haacked.com/archive/2007/09/04/should-microsoft-really-bundle-open-source-software.aspx "Should Microsoft Bundle Open Source Software")
+software](https://haacked.com/archive/2007/09/04/should-microsoft-really-bundle-open-source-software.aspx "Should Microsoft Bundle Open Source Software")
 in the past and what I thought they should do about it...
 
 > What I would have liked to have seen is for Team System to provide

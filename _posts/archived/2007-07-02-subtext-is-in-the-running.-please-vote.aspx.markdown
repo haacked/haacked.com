@@ -8,10 +8,10 @@ categories: []
 redirect_from: "/archive/2007/07/01/subtext-is-in-the-running.-please-vote.aspx/"
 ---
 
-[![sf-cca-vote](http://haacked.com/images/haacked_com/WindowsLiveWriter/SubtextIsInTheRunning.PleaseVote_1416C/sf-cca-vote_1.png)](http://sourceforge.net/awards/cca/vote.php?from=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fsubtext%252 "Vote for Subtext")
+[![sf-cca-vote](https://haacked.com/images/haacked_com/WindowsLiveWriter/SubtextIsInTheRunning.PleaseVote_1416C/sf-cca-vote_1.png)](http://sourceforge.net/awards/cca/vote.php?from=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fsubtext%252 "Vote for Subtext")
 A little while ago I pleaded with my readers to [nominate Subtext for a
 SourceForge Community Choice
-Award](http://haacked.com/archive/2007/06/24/please-nominate-subtext-for-a-sourceforge-community-choice-award.aspx "Please Nominate Subtext").
+Award](https://haacked.com/archive/2007/06/24/please-nominate-subtext-for-a-sourceforge-community-choice-award.aspx "Please Nominate Subtext").
 
 The good news is that it worked! **Subtext is one of the finalists for a
 Community Choice Award in two categories**:
@@ -44,7 +44,7 @@ because I know for a fact that it has the *Best Technical Design (it
 probably does)*.
 
 As [I just
-wrote](http://haacked.com/archive/2007/07/02/open-source-on-.net-is-not-an-oxymoron.aspx "Open Source on .NET Is Not An OxyMoron"),
+wrote](https://haacked.com/archive/2007/07/02/open-source-on-.net-is-not-an-oxymoron.aspx "Open Source on .NET Is Not An OxyMoron"),
 I think that despite the short rift that .NET gets in the broader Open
 Source Community, it is a great platform for Open Source development.
 

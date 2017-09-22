@@ -7,7 +7,7 @@ categories: [jekyll]
 ---
 Well this is a bit embarrassing.
 
-I recently [migrated my blog to Jekyll](http://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/) and subsequently wrote about my painstaking work to [preserve my URLs](http://haacked.com/archive/2013/12/03/jekyll-url-extensions/).
+I recently [migrated my blog to Jekyll](https://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/) and subsequently wrote about my painstaking work to [preserve my URLs](https://haacked.com/archive/2013/12/03/jekyll-url-extensions/).
 
 But after the migration, despite all my efforts, I faced an onslaught of reports of broken URLs. So what happened?
 
@@ -19,8 +19,8 @@ This was how I verified that the Jekyll URL would be correct. The problem is tha
 
 Thus requests for the following two URLs would receive the same content:
 
-* `http://haacked.com/archive/0001/01/01/some-post.aspx`
-* `http://haacked.com/archive/2013/11/21/some-post.aspx`
+* `https://haacked.com/archive/0001/01/01/some-post.aspx`
+* `https://haacked.com/archive/2013/11/21/some-post.aspx`
 
 ![Picard Face Palm](https://f.cloud.github.com/assets/19977/1738673/ebae7ec0-6388-11e3-8736-a4243298a963.jpg)
 

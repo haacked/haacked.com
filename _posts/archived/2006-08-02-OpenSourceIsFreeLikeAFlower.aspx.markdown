@@ -10,7 +10,7 @@ categories:
 redirect_from: "/archive/2006/08/01/OpenSourceIsFreeLikeAFlower.aspx/"
 ---
 
-![Orchid](http://haacked.com/images/orchid.jpg) [Jeff “The CodingHorror”
+![Orchid](https://haacked.com/images/orchid.jpg) [Jeff “The CodingHorror”
 Atwood](http://www.codinghorror.com/blog/ "Coding Horror") takes [issue
 with the
 idea](http://www.codinghorror.com/blog/archives/000649.html "Open Source: Free as in *Free*")
@@ -143,7 +143,7 @@ page](http://subtextproject.com/Home/About/Contribute/tabid/153/Default.aspx "Co
     tails of the death of
     NDOC](http://www.hanselman.com/blog/SandcastleMicrosoftCTPOfAHelpCHMFileGeneratorOnTheTailsOfTheDeathOfNDoc.aspx "MS Sandcastle and the death of NDoc")
 -   [The Demise of NDoc and a Challenge For Users of Open Source
-    Software](http://haacked.com/archive/2006/07/26/TheDemiseOfNDocAndAChallengeForUsersOfOpenSourceSoftware.aspx "Challenge for users")
+    Software](https://haacked.com/archive/2006/07/26/TheDemiseOfNDocAndAChallengeForUsersOfOpenSourceSoftware.aspx "Challenge for users")
 -   [Free as in
     “Free”](http://www.codinghorror.com/blog/archives/000649.html "Free")
 -   [Free as in Slave

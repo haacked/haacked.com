@@ -21,7 +21,7 @@ checkin notifications).
     Log Message:
     -----------
     The link to Phil Haack blog was wrong 
-    (http://haacked.com/blog) Fixed it.
+    (https://haacked.com/blog) Fixed it.
 
     -- SNIP--
 
@@ -30,5 +30,5 @@ my own blog originally. It took someone else to notice the mistake and
 fix it. An inability to link to oneself correctly. Is that a recognized
 form of dementia?
 
-Tags: [Subtext](http://haacked.com/tags/subtext/default.aspx)
+Tags: [Subtext](https://haacked.com/tags/subtext/default.aspx)
 

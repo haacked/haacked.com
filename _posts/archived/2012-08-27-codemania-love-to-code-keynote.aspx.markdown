@@ -23,13 +23,13 @@ mean, just look at their beautiful [lucha
 libre](http://en.wikipedia.org/wiki/Lucha_libre "Lucha Libre on Wikipedia")
 inspired site design.
 
-[![codemania](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeMania-Love-To-Code-Keynote_E9B6/codemania_thumb.png "codemania")](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeMania-Love-To-Code-Keynote_E9B6/codemania_2.png)
+[![codemania](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeMania-Love-To-Code-Keynote_E9B6/codemania_thumb.png "codemania")](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeMania-Love-To-Code-Keynote_E9B6/codemania_2.png)
 
 Although inexplicably, they switched to a pirate theme when it came to
 my profile image. Even so, it’s fun and the Twitter integration is a
 nice touch. It’s time for me to tweet something very inappropriate.
 
-[![phil-at-codemania](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeMania-Love-To-Code-Keynote_E9B6/phil-at-codemania_thumb_1.png "phil-at-codemania")](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodeMania-Love-To-Code-Keynote_E9B6/phil-at-codemania_4.png)
+[![phil-at-codemania](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeMania-Love-To-Code-Keynote_E9B6/phil-at-codemania_thumb_1.png "phil-at-codemania")](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeMania-Love-To-Code-Keynote_E9B6/phil-at-codemania_4.png)
 
 On a personal level, this was a particularly special conference for me
 as it was the first time I’ve been asked to deliver a keynote. The topic
@@ -38,10 +38,10 @@ dampen that love.
 
 I touched upon some themes that I’ve written about here such as why we
 should care [lack of
-women](http://haacked.com/archive/2012/03/22/what-are-brogrammers-afraid-of.aspx "What are brogrammers afraid of?")
+women](https://haacked.com/archive/2012/03/22/what-are-brogrammers-afraid-of.aspx "What are brogrammers afraid of?")
 in our industry as well as the benefits of a work environment where
 [employees feel trusted and
-fulfilled](http://haacked.com/archive/2012/08/03/how-to-talk-to-employees.aspx "How to talk to employees").
+fulfilled](https://haacked.com/archive/2012/08/03/how-to-talk-to-employees.aspx "How to talk to employees").
 I also riffed a bit about the GitHub work environment based on my brief
 experience there as well as the blog posts by [Zach
 Holman](http://zachholman.com/ "Zach's Blog") on [How GitHub
@@ -65,7 +65,7 @@ You can view my [**“slides” here on
 GitHub**](http://talks.haacked.com/presentations/2012/CodeMania/Keynote/#/title "CodeMania keynote slides").
 The slides is actually a web page using Impress.js. You’ll probably need
 to use Safari or Chrome to view them. As I [mentioned
-before](http://haacked.com/archive/2012/06/19/talks-on-github-and-nuget.aspx "Talks up on GitHub"),
+before](https://haacked.com/archive/2012/06/19/talks-on-github-and-nuget.aspx "Talks up on GitHub"),
 I’ve been posting my recent talks on Github. The GitHub project page for
 my [talks are here](https://github.com/haacked/talks "Talks on GitHub")
 if you want to clone them locally.

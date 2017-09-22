@@ -13,16 +13,16 @@ redirect_from: "/archive/2010/10/05/asp-net-mvc-3-beta-released.aspx/"
 
 UPDATE: This post is a out of date. We recently released the [Release
 Candidate for ASP.NET MVC
-3](http://haacked.com/archive/2010/11/09/asp-net-mvc-3-release-candidate.aspx "ASP.NET MVC 3 RC Released").
+3](https://haacked.com/archive/2010/11/09/asp-net-mvc-3-release-candidate.aspx "ASP.NET MVC 3 RC Released").
 
 Wow! It’s been a busy two months and change since we released [Preview
-1](http://haacked.com/archive/2010/07/27/aspnetmvc3-preview1-released.aspx "ASP.NET MVC 3 Preview 1")
+1](https://haacked.com/archive/2010/07/27/aspnetmvc3-preview1-released.aspx "ASP.NET MVC 3 Preview 1")
 of ASP.NET MVC 3. Today I’m happy (and frankly, relieved) to announce
 **the Beta release of ASP.NET MVC 3**. Be sure to read [Scott Guthrie’s
 announcement as
 well](http://weblogs.asp.net/scottgu/archive/2010/10/06/announcing-nupack-asp-net-mvc-3-beta-and-webmatrix-beta-2.aspx "Announcing MVC 3").
 
-[![onward](http://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC3BetaReleased_12A2D/Onward_thumb_1.jpg "onward")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC3BetaReleased_12A2D/Onward_4.jpg)
+[![onward](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC3BetaReleased_12A2D/Onward_thumb_1.jpg "onward")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC3BetaReleased_12A2D/Onward_4.jpg)
 *Credits: Image from ICanHazCheezburger
 http://icanhascheezburger.com/tag/onward/*
 

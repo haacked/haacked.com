@@ -22,7 +22,7 @@ no comic art skills (nor comic writing skills), so please forgive me for
 my lack of talent (click for full size)...
 
 [![Microsoft opens the
-code](http://haacked.com/images/haacked_com/WindowsLiveWriter/PerceptionVsReali.NETFrameworkSourceCode_13213/Microsoft%20opens%20the%20code_thumb_2.png)](http://haacked.com/images/Microsoft-opens-the-code.png "Reality vs Perception")
+code](https://haacked.com/images/haacked_com/WindowsLiveWriter/PerceptionVsReali.NETFrameworkSourceCode_13213/Microsoft%20opens%20the%20code_thumb_2.png)](https://haacked.com/images/Microsoft-opens-the-code.png "Reality vs Perception")
 
 I know some of the people involved who made this happen and I find it
 hard to believe that there were nefarious intentions involved. You have
@@ -58,9 +58,9 @@ the Open Source community for a very long time.
 
 So yes, it’s not open source. But it’s a step in the right direction. As
 I’ve written before, we’re [seeing steady
-progression](http://haacked.com/archive/2007/07/26/microsoft-and-open-source.aspx "Microsoft and Open Source")
+progression](https://haacked.com/archive/2007/07/26/microsoft-and-open-source.aspx "Microsoft and Open Source")
 within Microsoft regarding Open Source, albeit with the [occasional
-setback](http://haacked.com/archive/2007/05/13/is-fighting-open-source-with-patents-a-smart-move-by.aspx "Is Fighting Open Source with Patents a Smart Move By Microsoft?").
+setback](https://haacked.com/archive/2007/05/13/is-fighting-open-source-with-patents-a-smart-move-by.aspx "Is Fighting Open Source with Patents a Smart Move By Microsoft?").
 
 My hope, when I start at Microsoft, is to be involved with that progress
 in one form or another as I see it as essential and beneficial to

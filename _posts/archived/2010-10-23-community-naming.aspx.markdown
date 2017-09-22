@@ -12,7 +12,7 @@ redirect_from: "/archive/2010/10/22/community-naming.aspx/"
 ---
 
 Just a quick [follow-up to my last
-posts](http://haacked.com/archive/2010/10/22/naming-is-hard.aspx "Naming is hard")
+posts](https://haacked.com/archive/2010/10/22/naming-is-hard.aspx "Naming is hard")
 about naming NuPack. Looks like the community is not content to sit back
 and let the project be labelled with a lame name. I’ve seen a couple of
 community inspired names created as new issues in the CodePlex issue
@@ -30,5 +30,5 @@ here**](http://nupack.codeplex.com/workitem/282 "Vote for NuGet"))
 As before, **voting still closes on Tuesday 10/26 at 11:59 PM PDT**. If
 you feel strongly enough around a name, rally your friends to vote for
 one.
-![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/Community-Naming_BF2C/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Community-Naming_BF2C/wlEmoticon-smile_2.png)
 

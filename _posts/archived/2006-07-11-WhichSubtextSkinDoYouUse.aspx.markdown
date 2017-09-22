@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/07/10/WhichSubtextSkinDoYouUse.aspx/"
 ---
 
-![Subtext Logo](http://haacked.com/images/SubtextLogo.png) Okay, it is
+![Subtext Logo](https://haacked.com/images/SubtextLogo.png) Okay, it is
 survey time for all you Subtext users! I would like to know which
 Subtext skin you use for your blog. Please leave a comment with the skin
 that you use. If you use a custom skin, then just say *Custom*.

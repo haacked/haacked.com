@@ -17,7 +17,7 @@ Built](http://howsoftwareisbuilt.com/ "How Software is Built") blog with
 in Microsoft’s OfficeLabs team, but probably better known for his work
 on xUnit.net, CodePlex, and ObjectBuilder.
 
-![brad](http://haacked.com/images/haacked_com/WindowsLiveWriter/InterviewWithBradWilsonOnMicrosoftAndOpe_B4F0/brad_3.png)
+![brad](https://haacked.com/images/haacked_com/WindowsLiveWriter/InterviewWithBradWilsonOnMicrosoftAndOpe_B4F0/brad_3.png)
 What I particularly liked about this post was the insight Brad provides
 on the diverse views of open source outside and inside of Microsoft as
 well as his own personal experience contributing to many OSS projects.
@@ -29,7 +29,7 @@ Newkirk](http://blogs.msdn.com/jamesnewkirk/ "Jim's Blog")) is that
 [xUnit.net recently updated their
 installer](http://bradwilson.typepad.com/blog/2008/04/xunitnet-rc2--1.html "xUnit.net RC2 Refresh")
 to include [test project
-integration](http://haacked.com/archive/2008/02/12/asp.net-mvc-update.aspx "Test project integration with ASP.NET MVC")
+integration](https://haacked.com/archive/2008/02/12/asp.net-mvc-update.aspx "Test project integration with ASP.NET MVC")
 with ASP.NET MVC Preview 2.
 
 Technorati Tags: [Open

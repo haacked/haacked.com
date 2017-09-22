@@ -11,7 +11,7 @@ redirect_from: "/archive/2004/02/23/more-on-exceptions-and-serialization.aspx/"
 I just left to do some thinking where I get my best thinking done. While
 washing my hands, I realized I should mention a few issues with my
 [previous
-recommendation](http://haacked.com/archive/2004/02/24/decorate-custom-exceptions-with-serializable-attribute.aspx "Decorate custom exceptions with serializable attribute").
+recommendation](https://haacked.com/archive/2004/02/24/decorate-custom-exceptions-with-serializable-attribute.aspx "Decorate custom exceptions with serializable attribute").
 
 Adding the `SerializableAttribute` to a class indicates to .NET that the
 class may be automatically serialized via reflection. When the class is

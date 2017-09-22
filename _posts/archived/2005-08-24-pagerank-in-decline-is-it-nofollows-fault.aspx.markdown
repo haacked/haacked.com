@@ -30,5 +30,5 @@ spread the Google Juice around.
 If that doesn’t help, then I’ll start link whoring. Hello? Link to me!
 
 UPDATE: My blog’s homepage is ranked three, but [my
-archives](http://haacked.com/Archives.aspx) are ranked five. Odd.
+archives](https://haacked.com/Archives.aspx) are ranked five. Odd.
 

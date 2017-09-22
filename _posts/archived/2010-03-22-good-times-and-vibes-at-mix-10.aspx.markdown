@@ -22,7 +22,7 @@ and web standards. But this year, it seemed that the scope for Mix was
 expanded to be about, well, a *Mix* of technologies as the Windows Phone
 7 series figured prominently at the conference.
 
-[![shanselman-haacked-jeresig](http://haacked.com/images/haacked_com/WindowsLiveWriter/Mix10_E26B/shanselman-haacked-jeresig_thumb.jpg "shanselman-haacked-jeresig")](http://haacked.com/images/haacked_com/WindowsLiveWriter/Mix10_E26B/shanselman-haacked-jeresig.jpg)
+[![shanselman-haacked-jeresig](https://haacked.com/images/haacked_com/WindowsLiveWriter/Mix10_E26B/shanselman-haacked-jeresig_thumb.jpg "shanselman-haacked-jeresig")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Mix10_E26B/shanselman-haacked-jeresig.jpg)
 *Scott Hanselman and I are seen here attempting to tutor this young man
 about a language called “JavaScript”*
 
@@ -48,7 +48,7 @@ JSON) who had the best slide of the show with the words…
 
 Preach it brother Crockford! Since I was able to chat with him in
 person, I confirmed it was really Douglas who left [this
-comment](http://haacked.com/archive/2009/06/26/too-late-to-change-json.aspx#72568 "Is it too late to change JSON")
+comment](https://haacked.com/archive/2009/06/26/too-late-to-change-json.aspx#72568 "Is it too late to change JSON")
 on my JSON post suggesting that requiring POST was a good change to the
 JsonResult in ASP.NET MVC 2. I really enjoyed having the opportunity to
 chat with him about security and JSON.

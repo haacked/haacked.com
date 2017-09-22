@@ -59,7 +59,7 @@ I’ll save you the suspense of having to actually try it out, and just
 show you what happens when run this page.
 
 ![Message from
-webpage](http://haacked.com/images/haacked_com/WindowsLiveWriter/TakeChargeofYourSecurity_E67F/Message%20from%20webpage_3.png "Message from webpage")
+webpage](https://haacked.com/images/haacked_com/WindowsLiveWriter/TakeChargeofYourSecurity_E67F/Message%20from%20webpage_3.png "Message from webpage")
 
 Contrary to popular belief, these controls do not automatically HTML
 encode their output. I don’t see this as some gaping security flaw
@@ -94,7 +94,7 @@ a text input and a button, and type that script tag into text box and
 click the button, you’d be greeted by the following yellow screen of
 death.
 
-![request-validation](http://haacked.com/images/haacked_com/WindowsLiveWriter/TakeChargeofYourSecurity_E67F/request-validation_thumb.png "request-validation")
+![request-validation](https://haacked.com/images/haacked_com/WindowsLiveWriter/TakeChargeofYourSecurity_E67F/request-validation_thumb.png "request-validation")
 
 By default, [ASP.NET has Request
 Validation](http://www.asp.net/learn/whitepapers/request-validation/ "Request Validation")
