@@ -33,5 +33,5 @@ start a controversy or two to drum up traffic so that people will click
 on my ads (oops, I'm not supposed to promote the ads, there's
 controversy \#1) and this blog can pay for itself. And you can be sure
 I'll continue to be one [vain
-motherblogger](http://haacked.com/archive/2004/10/08/1322.aspx).
+motherblogger](https://haacked.com/archive/2004/10/08/1322.aspx).
 

@@ -13,7 +13,7 @@ redirect_from: "/archive/2010/12/09/asp-net-mvc-3-release-candidate-2.aspx/"
 ---
 
 Almost [exactly one month
-ago](http://haacked.com/archive/2010/11/09/asp-net-mvc-3-release-candidate.aspx "ASP.NET MVC 3 RC"),
+ago](https://haacked.com/archive/2010/11/09/asp-net-mvc-3-release-candidate.aspx "ASP.NET MVC 3 RC"),
 we released the Release Candidate for ASP.NET MVC 3. And today we learn
 why we use the term “Candidate”.
 
@@ -23,7 +23,7 @@ just this week and as we were testing it we found a few
 incompatibilities with it and the ASP.NET MVC 3 RC that we had just
 released.
 
-![newdotnetlogo\_2](http://haacked.com/images/haacked_com/WindowsLiveWriter/e8a61f0bb792_82AE/newdotnetlogo_2_c9dd42e8-7ef8-4ec3-ba52-ec5615b32fe6.png "newdotnetlogo_2")That’s
+![newdotnetlogo\_2](https://haacked.com/images/haacked_com/WindowsLiveWriter/e8a61f0bb792_82AE/newdotnetlogo_2_c9dd42e8-7ef8-4ec3-ba52-ec5615b32fe6.png "newdotnetlogo_2")That’s
 when we, in the parlance of the military, scrambled the jets to get
 another release candidate prepared.
 
@@ -46,7 +46,7 @@ Breaking Change Alert!
 
 The first is a breaking change. Remember way back when I wrote about
 [Dynamic Methods in
-ViewData](http://haacked.com/archive/2010/08/02/dynamic-methods-in-view-data.aspx "Dynamic Methods in ViewData")?
+ViewData](https://haacked.com/archive/2010/08/02/dynamic-methods-in-view-data.aspx "Dynamic Methods in ViewData")?
 Near the end of that post I wrote an Addendum about the property name
 mismatch between `ViewModel` and `View`.
 
@@ -64,7 +64,7 @@ Instead, you need to go to the Visual Studio Extension Manager dialog
 tab. You should see NuGet listed there (click on image for larger
 image):
 
-[![extension-manager](http://haacked.com/images/haacked_com/WindowsLiveWriter/e8a61f0bb792_82AE/extension-manager_thumb.png "extension-manager")](http://haacked.com/images/haacked_com/WindowsLiveWriter/e8a61f0bb792_82AE/extension-manager_2.png)
+[![extension-manager](https://haacked.com/images/haacked_com/WindowsLiveWriter/e8a61f0bb792_82AE/extension-manager_thumb.png "extension-manager")](https://haacked.com/images/haacked_com/WindowsLiveWriter/e8a61f0bb792_82AE/extension-manager_2.png)
 
 The NuGet.exe command line tool for creating packages is [available on
 CodePlex](http://nuget.codeplex.com/releases/view/52018 "NuGet 1.0 Release Candidate Download").

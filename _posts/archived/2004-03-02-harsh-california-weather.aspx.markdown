@@ -19,5 +19,5 @@ doesn't it?
 > reminds us not to take life for granted!!!
 
 Warning: This photo is graphic and not for the faint of heart. [Click
-Here.](http://haacked.europe.webmatrixhosting.net/images/damage.jpg)
+Here.](https://haacked.com/images/damage.jpg)
 

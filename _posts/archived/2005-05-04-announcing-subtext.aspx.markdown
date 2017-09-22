@@ -78,7 +78,7 @@ engine. If you've ever caught yourself throwing your hands in the air
 and declaring that you're going to write your own blogging engine from
 scratch, Subtext is going to be for you. My first and primary task is to
 streamline the installation and configuration process (hence [my recent
-fascination with WiX](http://haacked.com/archive/2005/05/03/2930.aspx)).
+fascination with WiX](https://haacked.com/archive/2005/05/03/2930.aspx)).
 
 What are the Subtext Guiding Principles
 ---------------------------------------
@@ -144,5 +144,5 @@ the perceived hastiness in which CS 1.0 was released and hopefully turn
 into a compelling product in its own right. We're carving out a niche
 here.
 
-Tags: [Subtext](http://haacked.com/tags/subtext/default.aspx)
+Tags: [Subtext](https://haacked.com/tags/subtext/default.aspx)
 

@@ -87,7 +87,7 @@ confusing and hard to read. But this is a situation in which I think
 using an anonymous delegate is particularly elegant.
 
 Contrast this approach to the [approach using Rhino Mocks I wrote
-about](http://haacked.com/archive/2006/06/23/UsingRhinoMocksToUnitTestEventsOnInterfaces.aspx "Using Rhino Mocks To Unit Test Events")
+about](https://haacked.com/archive/2006/06/23/UsingRhinoMocksToUnitTestEventsOnInterfaces.aspx "Using Rhino Mocks To Unit Test Events")
 a while ago. In that scenario, I was testing that a subscriber to an
 event handles it properly. In this case, I am testing the event source.
 

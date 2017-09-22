@@ -10,7 +10,7 @@ redirect_from: "/archive/2007/03/13/year-of-the-starving-pig.aspx/"
 
 In January, I wrote that according to the Chinese Zodiac, this is the
 [Year of the Golden
-Pig](http://haacked.com/archive/2007/01/03/Year_of_the_Golden_Pig.aspx "Year of the golden pig").
+Pig](https://haacked.com/archive/2007/01/03/Year_of_the_Golden_Pig.aspx "Year of the golden pig").
 According to foklore, this is a special event that occurs once every 600
 years and brings great fortune to babies born during the year.
 
@@ -29,7 +29,7 @@ Historical fact will not stop the masses from having their golden
 piglet.
 
 [![Many
-piglets](http://haacked.com/images/haacked_com/WindowsLiveWriter/YearoftheStarvingPig_8C1A/737075_piglets_1%5B5%5D.jpg)](http://www.sxc.hu/photo/737075)
+piglets](https://haacked.com/images/haacked_com/WindowsLiveWriter/YearoftheStarvingPig_8C1A/737075_piglets_1%5B5%5D.jpg)](http://www.sxc.hu/photo/737075)
 However, my friend Walter had an interesting observation. **All of these
 extra children that will be born as part of this boom are competing for
 the same scarce resources.** As they grow up, they’ll all be competing

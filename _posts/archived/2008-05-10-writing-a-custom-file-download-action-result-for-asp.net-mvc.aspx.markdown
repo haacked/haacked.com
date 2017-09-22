@@ -14,7 +14,7 @@ NEW UPDATE: There is no longer need for this custom ActionResult because
 ASP.NET MVC now includes one in the box.
 
 UPDATE: I’ve updated the sample to include a new [lambda based action
-result](http://haacked.com/archive/2008/05/11/delegating-action-result.aspx "Delegating Action Result").
+result](https://haacked.com/archive/2008/05/11/delegating-action-result.aspx "Delegating Action Result").
 This also fixes an issue with the original download in which I included
 the wrong assembly.
 
@@ -36,13 +36,13 @@ Here's a page that contains a link to an action method named
 result.
 
 ![File Download
-HomePage](http://haacked.com/images/haacked_com/WindowsLiveWriter/WritingACustomFileDownloadActionR.NETMVC_E009/FileDownloadHome_3.png)
+HomePage](https://haacked.com/images/haacked_com/WindowsLiveWriter/WritingACustomFileDownloadActionR.NETMVC_E009/FileDownloadHome_3.png)
 
 Clicking on the link then pops up this dialog, prompting you to download
 and save the file.
 
 ![File
-Download](http://haacked.com/images/haacked_com/WindowsLiveWriter/WritingACustomFileDownloadActionR.NETMVC_E009/File%20Download_3.png)
+Download](https://haacked.com/images/haacked_com/WindowsLiveWriter/WritingACustomFileDownloadActionR.NETMVC_E009/File%20Download_3.png)
 
 The code for this action is pretty simple.
 

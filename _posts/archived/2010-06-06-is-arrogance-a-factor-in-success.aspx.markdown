@@ -31,7 +31,7 @@ much success.
 Joy.
 
 ![pele
-pic](http://haacked.com/images/haacked_com/WindowsLiveWriter/IsArroganceaFactorinSuccess_7D49/pele%20pic_3.jpg "pele pic")
+pic](https://haacked.com/images/haacked_com/WindowsLiveWriter/IsArroganceaFactorinSuccess_7D49/pele%20pic_3.jpg "pele pic")
 
 My example here is the most successful national soccer team ever,
 Brazil. They’ve won the most world cups of any team and yet the one word

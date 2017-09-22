@@ -26,7 +26,7 @@ If you attempt to mock these objects, you sometimes also have to mock
 their dependencies and their dependencies' dependencies and so on,
 depending on what you are trying to test. This is why I wrote my post on
 [Test Specific
-Subclasses](http://haacked.com/archive/2007/12/06/test-specific-subclasses-vs-partial-mocks.aspx "Test Specific Subclasses").
+Subclasses](https://haacked.com/archive/2007/12/06/test-specific-subclasses-vs-partial-mocks.aspx "Test Specific Subclasses").
 It provides an easier way to test some of these cases.
 
 Some of these challenges are the nature of mocking and some of them are
@@ -93,7 +93,7 @@ internal class HomeControllerTester : HomeController
 
 In this test I inherited from the controller I am testing, following the
 [Test Specific Subclass
-pattern](http://haacked.com/archive/2007/12/06/test-specific-subclasses-vs-partial-mocks.aspx "Test Specific Subclass")
+pattern](https://haacked.com/archive/2007/12/06/test-specific-subclasses-vs-partial-mocks.aspx "Test Specific Subclass")
 (*Note: This pattern leaves a bad taste in some TDDers mouths. I am
 aware of that. I still like it. But I already know some of you don’t*).
 
@@ -218,7 +218,7 @@ effectively create a DSL (Domain Specific Language) for testing my
 controllers.
 
 I’ve already [started on this a
-bit](http://haacked.com/archive/2007/11/05/rhino-mocks-extension-methods-mvc-crazy-delicious.aspx "Rhino Mocks + Extension Methods").
+bit](https://haacked.com/archive/2007/11/05/rhino-mocks-extension-methods-mvc-crazy-delicious.aspx "Rhino Mocks + Extension Methods").
 Hopefully together, we can build up a really nice library to make
 testing controllers much more fluid.
 

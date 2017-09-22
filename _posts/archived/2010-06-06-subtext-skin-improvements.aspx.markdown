@@ -15,7 +15,7 @@ simply copy a skin folder into the Skins directory and just have it work
 because the configuration for a given skin is centrally located in the
 *Skins.config* file.
 
-[![elephant-skin](http://haacked.com/images/haacked_com/WindowsLiveWriter/UpcomingSubtextSkinImprovements_C779/elephant-skin_3.jpg "elephant-skin")](http://www.sxc.hu/photo/1229077 "Skin on sxc.hu by Nick Bradsworth")In
+[![elephant-skin](https://haacked.com/images/haacked_com/WindowsLiveWriter/UpcomingSubtextSkinImprovements_C779/elephant-skin_3.jpg "elephant-skin")](http://www.sxc.hu/photo/1229077 "Skin on sxc.hu by Nick Bradsworth")In
 other words, a skin wasn’t self contained in a single folder. With
 Subtext 2.5, this has changed. Skins are fully self contained and there
 is no longer a need for a central configuration file for skins.
@@ -45,7 +45,7 @@ merge these files together at runtime using the `StyleMergeMode` and
 
 Also, in some cases, a skin can have multiple *themes* differentiated by
 stylesheet [as described in this blog
-post](http://haacked.com/archive/2006/08/26/Mile_High_Overview_Of_Subtext_Skinning.aspx "Mile High Overview of Subtext Skinning").
+post](https://haacked.com/archive/2006/08/26/Mile_High_Overview_Of_Subtext_Skinning.aspx "Mile High Overview of Subtext Skinning").
 A *skin.config* file can be used to specify these skin themes and their
 associated CSS file.
 

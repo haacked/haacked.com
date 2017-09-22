@@ -12,7 +12,7 @@ redirect_from: "/archive/2010/12/01/grouping-routes-part-1.aspx/"
 ---
 
 UPDATE: 2011/02/13: This code is now included in the
-[RouteMagic](http://haacked.com/archive/2011/01/30/introducing-routemagic.aspx "Introducing RouteMagic")
+[RouteMagic](https://haacked.com/archive/2011/01/30/introducing-routemagic.aspx "Introducing RouteMagic")
 NuGet package! To use this code, simply run `Install-Package RouteMagic`
 within the NuGet Package Manager Console.
 
@@ -209,7 +209,7 @@ internal route collection to see if any child route matches. If so, we
 return the route data from that match and we’re done.
 
 In [Part 2 of this
-series](http://haacked.com/archive/2011/01/09/grouping-routes-part-2.aspx "Grouping Routes part 2"),
+series](https://haacked.com/archive/2011/01/09/grouping-routes-part-2.aspx "Grouping Routes part 2"),
 we’ll look at implementing URL generation. That’s where things get
 really tricky.
 

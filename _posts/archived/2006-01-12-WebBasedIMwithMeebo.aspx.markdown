@@ -18,11 +18,11 @@ So if your worksite allows you to browse the web, you can also chat.
 
 Here’s a screenshot of a section of the login page.
 
-![Login Screen](http://haacked.com/images/meeboHome.gif)
+![Login Screen](https://haacked.com/images/meeboHome.gif)
 
 According to the site, passwords are encrypted with 1024-bit RSA keys.
 Below is a screenshot of a Yahoo Messenger session. Notice the nice
 transparent effects when highlighting a profile.
 
-![Meebo in action](http://haacked.com/images/Meebo.gif)
+![Meebo in action](https://haacked.com/images/Meebo.gif)
 

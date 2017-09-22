@@ -13,7 +13,7 @@ redirect_from: "/archive/2008/04/08/unit-test-project-structure-poll.aspx/"
 When I build applications, I personally like to have my unit tests in a
 separate class library project than the application I am testing.
 [That’s just how I
-roll](http://haacked.com/archive/2006/10/10/Structuring_Unit_Test_Code.aspx "Structuring Unit Test Code").
+roll](https://haacked.com/archive/2006/10/10/Structuring_Unit_Test_Code.aspx "Structuring Unit Test Code").
 
 I just assumed this is how everyone structures their unit tests, but
 I’ve talked with some people who have a deep history in TDD who put

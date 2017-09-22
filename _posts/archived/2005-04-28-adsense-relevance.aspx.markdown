@@ -9,14 +9,14 @@ redirect_from: "/archive/2005/04/27/adsense-relevance.aspx/"
 ---
 
 ![Orange Chicken](/images/OrangeChicken.jpg) In [my
-comments](http://haacked.com/archive/2005/04/29/2874.aspx#2876),
+comments](https://haacked.com/archive/2005/04/29/2874.aspx#2876),
 [Barry](http://idunno.org/)winces at the relevance of some Ad Sense ads
 he sees.
 
 For the most part, I've been quite impressed by AdSense relevancy. For a
 while now, I've had nice colorful Family Guy ads on my [home
-page](http://haacked.com/). When I wrote about my [Orange Chicken
-incident](http://haacked.com/archive/2005/01/27/2038.aspx), a commenter
+page](https://haacked.com/). When I wrote about my [Orange Chicken
+incident](https://haacked.com/archive/2005/01/27/2038.aspx), a commenter
 pointed out that I hilariously had ads for Orange Chicken on my blog.
 
 But ad-sense can backfire as well. I had one post where I was critical

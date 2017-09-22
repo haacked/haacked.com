@@ -22,7 +22,7 @@ in a beige case, I bought every issue of the Commodore magazines of the
 day.
 
 [![Amiga
-500](http://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/amiga500_thumb1.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/amiga5003.jpg)These
+500](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/amiga500_thumb1.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/amiga5003.jpg)These
 magazines started showing off these lush advertisements of the Commodore
 Amiga, boasting of its 4096 colors and 4-channel stereo sound.
 
@@ -60,25 +60,25 @@ which probably was responsible for the pile of broken joysticks I
 accumulated.
 
 [![Defender of the Crown Catapult
-Scene](http://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/doccatapult.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/doccatapult1.png)
+Scene](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/doccatapult.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/doccatapult1.png)
 [![Speedball 2
-Screenshot](http://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/Speedball2_s52.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/Speedball2_s53.png)
+Screenshot](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/Speedball2_s52.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/Speedball2_s53.png)
 
 Personally though, I thought [Lords of the Rising
 Sun](http://www.cinemaware.com/clsgame_lords.asp "Lords of the Rising Sun")
 (also made by Cinemaware) was even better than Defender of the Crown.
 
 [![Lords of the Rising Sun
-Screenshot](http://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/lorscastle_thumb2.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/lorscastle4.jpg)
+Screenshot](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/lorscastle_thumb2.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/lorscastle4.jpg)
 [![Lord of the rising sun screenshot with a
-ninja](http://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/lorsninja.gif)](http://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/lorsninja1.gif)
+ninja](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/lorsninja.gif)](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/lorsninja1.gif)
 
 The game sequence in which you could snipe advancing siegers using a
 first-person bow and arrow with a little red laser point dot was
 exhilarating (sadly, I could not find a screenshot).
 
 [![Speedball 1
-Screeshot](http://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/Speedball_thumb1.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/Speedball3.png)
+Screeshot](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/Speedball_thumb1.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/Speedball3.png)
 
 I also liked Speedball 1 (shown here) slightly better than 2 because the
 side scrolling in 2 always threw me off.
@@ -98,7 +98,7 @@ port called, not surprisingly,
 for full size).
 
 [![WinUAE
-screenshot](http://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/WinUAEProperties_thumb3.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/WinUAEProperties5.png)
+screenshot](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/WinUAEProperties_thumb3.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlayTheMostInfluentialAmigaGames_10096/WinUAEProperties5.png)
 
 Unfortunately, these projects cannot distribute the Amiga ROM nor its
 operating system due to copyright issues. However they do provide
@@ -135,7 +135,7 @@ Crown](http://www.cinemaware.com/play_dotc.asp "Defender of the Crown").
 Now about that time sink...
 
 Though I [owned a couple
-computers](http://haacked.com/archive/2005/03/12/what-is-your-blogger-handle.aspx "My computers")
+computers](https://haacked.com/archive/2005/03/12/what-is-your-blogger-handle.aspx "My computers")
 prior to the Amiga, the Amiga is truly the computer that fueled my fire
 for computing.
 

@@ -19,7 +19,7 @@ file from the installation package. Sorry for the the inconvenience.
 [Download Subtext
 1.5.1](http://sourceforge.net/project/showfiles.php?group_id=137896 "Subtext Downloads").
 
-![Subtext Logo](http://haacked.com/images/SubtextLogo.png) After much
+![Subtext Logo](https://haacked.com/images/SubtextLogo.png) After much
 hard work, the Subtext team is proud to announce the release of [Subtext
 1.5](http://sourceforge.net/project/showfiles.php?group_id=137896 "Download it"),
 dubbed the Nautilus R&R Edition. This is primarily a bugfix release with
@@ -103,7 +103,7 @@ add a stylesheet to a skin specifically for printing.
 ### New Skins and Skin Controls
 
 Checkout the new
-*[Submarine](http://haacked.com/archive/2006/06/07/SubmarineSkin.aspx "Submarine")*
+*[Submarine](https://haacked.com/archive/2006/06/07/SubmarineSkin.aspx "Submarine")*
 skin designed by our friends at
 [TurboMilk](http://turbomilk.com/ "TurboMilk"). We have also added
 several new skin controls such as the Previous Next control which
@@ -114,7 +114,7 @@ to the skin of your choice.
 ### CSS Based Printing
 
 Nearly every skin in Subtext now implements CSS [based
-printing](http://haacked.com/archive/2006/03/09/ImplementingCSSBasedPrinting.aspx "CSS Based Printing").
+printing](https://haacked.com/archive/2006/03/09/ImplementingCSSBasedPrinting.aspx "CSS Based Printing").
 
 ### Upgrading from Subtext 1.0
 

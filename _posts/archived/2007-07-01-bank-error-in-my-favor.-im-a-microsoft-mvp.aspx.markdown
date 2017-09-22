@@ -8,11 +8,11 @@ categories: []
 redirect_from: "/archive/2007/06/30/bank-error-in-my-favor.-im-a-microsoft-mvp.aspx/"
 ---
 
-![microsoft-mvp](http://haacked.com/images/haacked_com/WindowsLiveWriter/MicrosoftsRegretIsMyGainImanMVP_122F9/microsoft-mvp_thumb.png)I
+![microsoft-mvp](https://haacked.com/images/haacked_com/WindowsLiveWriter/MicrosoftsRegretIsMyGainImanMVP_122F9/microsoft-mvp_thumb.png)I
 received an email today informing me that I’ve been awarded the status
 of Microsoft MVP in the *Visual Developer - ASP/ASP.NET* category. I was
 aiming for an MVP for non-visual developers, but my [57
-Lynx readers](http://haacked.com/archive/2005/11/18/to-the-57-lynx-users.aspx "To the 57 Lynx Users Last Month")
+Lynx readers](https://haacked.com/archive/2005/11/18/to-the-57-lynx-users.aspx "To the 57 Lynx Users Last Month")
 didn’t have enough clout to make that happen.
 
 What does it mean to be a Microsoft MVP? I’m not really fully sure yet.

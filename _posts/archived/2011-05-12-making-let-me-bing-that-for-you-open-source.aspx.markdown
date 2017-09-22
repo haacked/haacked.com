@@ -11,7 +11,7 @@ redirect_from: "/archive/2011/05/11/making-let-me-bing-that-for-you-open-source.
 ---
 
 Almost two years ago, I [announced the
-launch](http://haacked.com/archive/2009/10/16/announcing-let-me-bing-that-for-you.aspx "Announcing LetMeBingThatForYou.com")
+launch](https://haacked.com/archive/2009/10/16/announcing-let-me-bing-that-for-you.aspx "Announcing LetMeBingThatForYou.com")
 of [http://letmebingthatforyou.com/](http://letmebingthatforyou.com/), a
 blatant and obvious rip-off of the [Let me Google that for
 you](http://lmgtfy.com/) website.

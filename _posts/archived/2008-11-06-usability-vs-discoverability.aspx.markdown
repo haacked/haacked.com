@@ -26,7 +26,7 @@ Programmers](http://www.amazon.com/gp/product/1893115941?ie=UTF8&tag=youvebeenha
 > that they are simply unusable.
 
 [![Scary
-Driver](http://haacked.com/images/haacked_com/WindowsLiveWriter/ACaseStudyInDesignTradeoffsUsabilityvsDi_11DB9/learning-to-drive_thumb.jpg "Scary Driver")](http://haacked.com/images/haacked_com/WindowsLiveWriter/ACaseStudyInDesignTradeoffsUsabilityvsDi_11DB9/learning-to-drive_2.jpg)
+Driver](https://haacked.com/images/haacked_com/WindowsLiveWriter/ACaseStudyInDesignTradeoffsUsabilityvsDi_11DB9/learning-to-drive_thumb.jpg "Scary Driver")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ACaseStudyInDesignTradeoffsUsabilityvsDi_11DB9/learning-to-drive_2.jpg)
 
 > This is a crucial distinction. When you sit somebody down in a typical
 > usability test, you’re really testing how learnable your interface is,
@@ -52,7 +52,7 @@ that you can’t have everything be discoverable.
 
 These are all exmaples of the principle that there is [no such thing as
 a perfect
-design](http://haacked.com/archive/2005/05/31/ThereIsNoPerfectDesign.aspx "There is no perfect design").
+design](https://haacked.com/archive/2005/05/31/ThereIsNoPerfectDesign.aspx "There is no perfect design").
 Design *always* consists of trade-offs.
 
 Let’s look at an example using a specific feature of ASP.NET Routing
@@ -136,7 +136,7 @@ users to always specify that for every route. Not only that, but once
 you got used to routing, you’d like a shorthand for defining defaults
 and constraints without having to go through the full [collection
 initializer
-syntax](http://haacked.com/archive/2008/01/06/collection-initializers.aspx "Collection Initializers")
+syntax](https://haacked.com/archive/2008/01/06/collection-initializers.aspx "Collection Initializers")
 for `RouteValueDictionary`.
 
 This is when we created the set of `MapRoute` extension methods specific

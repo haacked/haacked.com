@@ -10,10 +10,10 @@ redirect_from: "/archive/2007/05/20/codeplex-to-roll-out-tortoisesvn-support.asp
 
 This just in. CodePlex is planning to roll out TortoiseSVN support!
 
-[![](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodePlexToRollOutTortoiseSVNSupport_CD86/codeplexworkitemdetails_thumb1.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/CodePlexToRollOutTortoiseSVNSupport_CD86/codeplexworkitemdetails3.png "Codeplex SVN Work Item Detail")
+[![](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodePlexToRollOutTortoiseSVNSupport_CD86/codeplexworkitemdetails_thumb1.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodePlexToRollOutTortoiseSVNSupport_CD86/codeplexworkitemdetails3.png "Codeplex SVN Work Item Detail")
 A little while ago I wrote a [comparison of TFS vs Subversion for Open
 Source
-projects](http://haacked.com/archive/2007/03/02/A_Comparison_of_TFS_vs_Subversion_for_Open_Source_Projects.aspx "TFS vs Subversion").
+projects](https://haacked.com/archive/2007/03/02/A_Comparison_of_TFS_vs_Subversion_for_Open_Source_Projects.aspx "TFS vs Subversion").
 I’ll spare you the suspense by telling you that Subversion wins hands
 down, primarily because it itself is open source and is designed with
 open source in mind.
@@ -31,7 +31,7 @@ he meant Subversion support. Unless they are building some sort of
 Subversion bridge to TFS.
 
 As I wrote in a [recent
-post](http://haacked.com/archive/2007/05/13/is-fighting-open-source-with-patents-a-smart-move-by.aspx "Fighting Open Source With Patents"),
+post](https://haacked.com/archive/2007/05/13/is-fighting-open-source-with-patents-a-smart-move-by.aspx "Fighting Open Source With Patents"),
 there appears to be two camps at Microsoft in regards to Open Source
 - the old guard who are threatened by it, and the new guard who are
 embracing it as the opportunity it really is for Microsoft. CodePlex is

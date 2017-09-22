@@ -10,7 +10,7 @@ categories:
 redirect_from: "/archive/2008/08/05/haack_on_channel9.aspx/"
 ---
 
-![phil-in-office](http://haacked.com/images/haacked_com/WindowsLiveWriter/HeyMaImOnTV_8D16/phil-in-office_3.jpg "phil-in-office")
+![phil-in-office](https://haacked.com/images/haacked_com/WindowsLiveWriter/HeyMaImOnTV_8D16/phil-in-office_3.jpg "phil-in-office")
 
 Recently, Adam Kinney came by my office to [interview me for a Channel
 9](http://channel9.msdn.com/shows/Continuum/MVCPreview4/ "MVC Preview 4")
@@ -31,9 +31,9 @@ In the interview, I mentioned that I used to work at a skill gaming
 company called SkillJam which is no longer around. We had a tournament
 engine that allowed users to play games of skill for money. I worked on
 the back-end technologies such as our [mobile gaming
-infrastructure](http://haacked.com/archive/2005/06/08/mobile-phone-gaming.aspx "Mobile Phone Gaming")
+infrastructure](https://haacked.com/archive/2005/06/08/mobile-phone-gaming.aspx "Mobile Phone Gaming")
 which was well reviewed by
-[GameSpot](http://haacked.com/archive/2005/09/06/great-review-on-gamespot.aspx "GameSpot Review").
+[GameSpot](https://haacked.com/archive/2005/09/06/great-review-on-gamespot.aspx "GameSpot Review").
 
 SkillJam is no longer around as it was bought by [FUN
 Technologies](http://www.funtechnologies.com/ "Fun Technologies") (yes,

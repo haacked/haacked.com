@@ -12,7 +12,7 @@ redirect_from: "/archive/2008/05/10/delegating-action-result.aspx/"
 ---
 
 In [my last
-post](http://haacked.com/archive/2008/05/10/writing-a-custom-file-download-action-result-for-asp.net-mvc.aspx "Download Action Result"),
+post](https://haacked.com/archive/2008/05/10/writing-a-custom-file-download-action-result-for-asp.net-mvc.aspx "Download Action Result"),
 I walked through a simple example of an `ActionResult` that you can use
 to transmit a file to the user’s browser along with a download prompt.
 
@@ -62,7 +62,7 @@ public class DelegatingResult : ActionResult {
 
 I updated the sample I wrote in my last post to include this demo.
 [**Download the
-source**](http://haacked.com/code/CustomActionResultDemo.zip "Custom Action Result Demo").
+source**](https://haacked.com/code/CustomActionResultDemo.zip "Custom Action Result Demo").
 
 Technorati Tags:
 [aspnetmvc](http://technorati.com/tags/aspnetmvc),[actionresult](http://technorati.com/tags/actionresult),[lambda](http://technorati.com/tags/lambda)

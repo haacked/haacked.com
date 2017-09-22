@@ -9,7 +9,7 @@ redirect_from: "/archive/2004/09/01/nant-build-file-for-rss-bandit.aspx/"
 ---
 
 Recently I blabbed on and on about how to [create a sane build
-process](http://haacked.com/archive/2004/08/26/978.aspx). One question
+process](https://haacked.com/archive/2004/08/26/978.aspx). One question
 I've heard in the past is what's the point of a setting up a big formal
 build process when you have a very small project, perhaps with a team of
 one or two?
@@ -32,12 +32,12 @@ increment version numbers. However, I need to discuss version numbering
 with Torsten and Dare first. Eventually, I hope to add CruiseControl.NET
 integration. The purpose of this is to gain some experience with CCNET
 since I [can't yet use it at
-work](http://haacked.com/archive/2004/08/27/984.aspx).
+work](https://haacked.com/archive/2004/08/27/984.aspx).
 
 **Please Help!**\
 So this is all great and dandy, but the build file doesn't work. I'm not
 terribly familiar with CVS, so if anybody can help me get this working,
 I'll check it in to the CVS repository for RSS Bandit.
 
-Get the [BUILD FILE HERE](http://haacked.com/code/default.build.zip).
+Get the [BUILD FILE HERE](https://haacked.com/code/default.build.zip).
 

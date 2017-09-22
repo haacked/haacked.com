@@ -14,7 +14,7 @@ testing](http://wilshipley.com/blog/2005/09/unit-testing-is-teh-suck-urr.html).
 You knew I had to chime in on this... ;)
 
 I won’t rehash what [I’ve already written on the
-subject](http://haacked.com/archive/2004/12/06/1704.aspx), but will
+subject](https://haacked.com/archive/2004/12/06/1704.aspx), but will
 merely try to add a couple key points.
 
 There are a couple of misconceptions I want to clear up.

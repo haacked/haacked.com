@@ -21,7 +21,7 @@ I also want to thank
 SemVer in the first place and trusting me to help move it along.
 
 I’ve mentioned [SemVer in the past as it relates to
-NuGet](http://haacked.com/archive/2011/10/24/semver-nuget-nightly-builds.aspx "SemVer, NuGet, and Nightly builds").
+NuGet](https://haacked.com/archive/2011/10/24/semver-nuget-nightly-builds.aspx "SemVer, NuGet, and Nightly builds").
 The 2.0.0 release of SemVer addresses some of the issues I raised.
 
 What’s Changed?

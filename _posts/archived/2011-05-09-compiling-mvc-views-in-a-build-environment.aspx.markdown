@@ -20,7 +20,7 @@ feature.
 -   Right click on your ASP.NET MVC project in the Solution Explorer
 -   Select *Unload Project* in the context menu. Your project will show
     up as
-    unavailable![unavailable-project](http://haacked.com/images/haacked_com/WindowsLiveWriter/MvcBuildViews-and_799B/unavailable-project_c749a0c0-18ef-4691-9937-2ab42753eecf.png "unavailable-project")
+    unavailable![unavailable-project](https://haacked.com/images/haacked_com/WindowsLiveWriter/MvcBuildViews-and_799B/unavailable-project_c749a0c0-18ef-4691-9937-2ab42753eecf.png "unavailable-project")
 -   Right click on the project again and select *Edit
     ProjectName.csproj*.
 
@@ -42,7 +42,7 @@ when trying to deploy an ASP.NET MVC 3 application to AppHarbor.
 
 It turns out we had a bug in our project templates in earlier versions
 of ASP.NET MVC that **[we fixed in ASP.NET MVC 3 Tools
-Update](http://haacked.com/archive/2011/04/12/introducing-asp-net-mvc-3-tools-update.aspx "ASP.NET MVC 3 Tools Update")**.
+Update](https://haacked.com/archive/2011/04/12/introducing-asp-net-mvc-3-tools-update.aspx "ASP.NET MVC 3 Tools Update")**.
 
 But if you created your project using an older version of ASP.NET MVC
 *including ASP.NET MVC 3 RTM* (the one before the Tools Update), your

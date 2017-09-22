@@ -21,11 +21,11 @@ makes the following point:
 Absolutely. 
 [Subtext](http://subtextproject.com/ "Subtext Project Website") employs
 several measures against comment spam, mostly of a
-[heuristic](http://haacked.com/archive/2006/08/29/Comment_Spam_Heuristics.aspx "Comment Spam Heuristics")
+[heuristic](https://haacked.com/archive/2006/08/29/Comment_Spam_Heuristics.aspx "Comment Spam Heuristics")
 nature.  The [latest
-release](http://haacked.com/archive/2006/10/25/Subtext_1.9.2_quotShields_Upquot_Edition_Released.aspx "Subtext Shields Up Release")
+release](https://haacked.com/archive/2006/10/25/Subtext_1.9.2_quotShields_Upquot_Edition_Released.aspx "Subtext Shields Up Release")
 adds Akismet support as well as Visible and [Invisible
-CAPTCHA](http://haacked.com/archive/2006/09/26/Lightweight_Invisible_CAPTCHA_Validator_Control.aspx "Invisible CAPTCHA").
+CAPTCHA](https://haacked.com/archive/2006/09/26/Lightweight_Invisible_CAPTCHA_Validator_Control.aspx "Invisible CAPTCHA").
 
 The funny thing about CAPTCHA and especially Invisible CAPTCHA is the
 number of people who claim it won’t work and is broken. As [Jeff points
@@ -48,7 +48,7 @@ comment spam, we need to deal with its critical weakness.
 **The real problem is how do we enable CAPTCHA for trackbacks?**
 
 I wrote about [this problem
-before](http://haacked.com/archive/2006/08/31/What_About_CAPTCHA.aspx "What about CAPTCHA") when
+before](https://haacked.com/archive/2006/08/31/What_About_CAPTCHA.aspx "What about CAPTCHA") when
 I discussed my qualms about CAPTCHA.
 
 > The reason I didn’t mention CAPTCHA is that it would be ineffective

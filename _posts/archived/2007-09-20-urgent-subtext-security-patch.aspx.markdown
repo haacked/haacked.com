@@ -10,7 +10,7 @@ redirect_from: "/archive/2007/09/19/urgent-subtext-security-patch.aspx/"
 ---
 
 UPDATE: We [released Subtext
-2.0](http://haacked.com/archive/2008/08/10/subtext-2.0-released.aspx "Subtext 2.0")
+2.0](https://haacked.com/archive/2008/08/10/subtext-2.0-released.aspx "Subtext 2.0")
 which also includes the fix for this vulnerability among many other bug
 fixes.
 
@@ -59,7 +59,7 @@ and what we plan to do to mitigate such risks in the future. I’ll also
 write a post outlining general guidelines for reporting and handling
 security issues in an open source project based on guidance provided by
 the Karl Fogel book, *[Producing Open Source
-Software](http://haacked.com/archive/2006/01/16/RunningAnOpenSourceProject.aspx "Running an open source project")*.
+Software](https://haacked.com/archive/2006/01/16/RunningAnOpenSourceProject.aspx "Running an open source project")*.
 
 Again, I am sorry for any troubles and inconvenience this may have
 caused. If you know any Subtext users, please let them know. I’ll be

@@ -25,7 +25,7 @@ enabled.](http://weblogs.asp.net/scottgu/archive/2006/04/11/442448.aspx "Scott G
 
 However, this affected Subtext in an unusual manner. Subtext employs an
 URL rewriting mechanism I [wrote about
-before](http://haacked.com/archive/2006/02/23/TheSubtextAlternativeToUrlRewriting.aspx "Subtext Alternative to URL Rewriting").
+before](https://haacked.com/archive/2006/02/23/TheSubtextAlternativeToUrlRewriting.aspx "Subtext Alternative to URL Rewriting").
 It relies on the using an `IHttpHandler` that is created by calling
 `PageParser.GetCompiledPageInstance`.
 

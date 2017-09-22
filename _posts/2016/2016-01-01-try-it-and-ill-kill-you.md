@@ -30,4 +30,4 @@ Of course, this is the wrong reaction for so many reasons. For one, it could enc
 
 And this is my problem. This isn't the first time she let out her outsized rage that spurred uncontrollable laughter on my part. Of course I struggle to take a serious tone and talk through her feelings with her, but I can't help to take an outside view of the situation and see how funny it is.
 
-Fortunately, we apply the principle of [failure and repair](http://haacked.com/archive/2015/02/07/failure-and-repair/) and talked it through after my laughter subsided. She recognized her words were hurtful and apologized. We then had lunch and she's back to her sweet full of joy self. Until next time.
+Fortunately, we apply the principle of [failure and repair](https://haacked.com/archive/2015/02/07/failure-and-repair/) and talked it through after my laughter subsided. She recognized her words were hurtful and apologized. We then had lunch and she's back to her sweet full of joy self. Until next time.

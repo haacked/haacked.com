@@ -18,7 +18,7 @@ the heart of Texas**!
 Hold onto your ten gallon hats, I’m visiting Texas for the first time!
 I’m very excited to visit the *second* largest state in the union. ;)
 
-[![austin](http://haacked.com/images/haacked_com/WindowsLiveWriter/HeadedToAustinandSpeakinga.NETUsersGroup_12E13/austin_3.jpg "austin")](http://www.flickr.com/photos/shanepope/2661195611/ "Austin, Texas from Lady Bird Lake by Shane Pope - CC licensed")
+[![austin](https://haacked.com/images/haacked_com/WindowsLiveWriter/HeadedToAustinandSpeakinga.NETUsersGroup_12E13/austin_3.jpg "austin")](http://www.flickr.com/photos/shanepope/2661195611/ "Austin, Texas from Lady Bird Lake by Shane Pope - CC licensed")
 The purpose of my trip is to meet with some developers at Dell doing
 interesting things and to give a talk there as well.
 
@@ -48,7 +48,7 @@ on the town with
 [Bellware](http://blog.scottbellware.com/ "Scott Bellware"). I expect
 chaos. ;)
 
-Tags: [austin](http://haacked.com/tags/austin/default.aspx),
-[texas](http://haacked.com/tags/texas/default.aspx), [.net user
-group](http://haacked.com/tags/.net+user+group/default.aspx)
+Tags: [austin](https://haacked.com/tags/austin/default.aspx),
+[texas](https://haacked.com/tags/texas/default.aspx), [.net user
+group](https://haacked.com/tags/.net+user+group/default.aspx)
 

@@ -12,7 +12,7 @@ I noticed a recent check-in has added a `TimeOut` property to the
 `RollBack` attribute in MbUnit. Woohoo!
 
 A while ago I [presented the source
-code](http://haacked.com/archive/2005/06/10/4580.aspx) for a `RollBack`
+code](https://haacked.com/archive/2005/06/10/4580.aspx) for a `RollBack`
 attribute for NUnit based on [Roy
 Osherove’s](http://weblogs.asp.net/rosherove/) work in the area. Well I
 found a little problem with using the RollBack attribute that affects
@@ -105,7 +105,7 @@ public void MyTest()
 }
 
 You can [download the new version of the attribute for NUnit
-here](http://haacked.com/code/RollbackAttribute.zip).
+here](https://haacked.com/code/RollbackAttribute.zip).
 
 As for MbUnit, I’ll mention this to the maintainers and we’ll hopefully
 see a fix soon.

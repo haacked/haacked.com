@@ -9,7 +9,7 @@ redirect_from: "/archive/2004/08/17/a-response-to-shelley.aspx/"
 ---
 
 Regarding my [post on Women in
-XML](http://haacked.com/archive/2004/08/18/935.aspx) which is really a
+XML](https://haacked.com/archive/2004/08/18/935.aspx) which is really a
 post about women in software industry,
 [Shelley](http://weblog.burningbird.net/) writes:
 

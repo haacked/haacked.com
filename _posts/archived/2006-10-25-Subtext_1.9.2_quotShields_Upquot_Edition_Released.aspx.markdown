@@ -12,15 +12,15 @@ redirect_from: "/archive/2006/10/24/Subtext_1.9.2_quotShields_Upquot_Edition_Rel
 
 UPDATE: A bug was reported that blog posts could not be deleted. We
 have updated the release files [with a fixed
-version](http://haacked.com/archive/2006/10/26/Subtext_1.9.2_Bugfix_Update.aspx "Subtext 1.9.2 Bugfix Update"). There’s
+version](https://haacked.com/archive/2006/10/26/Subtext_1.9.2_Bugfix_Update.aspx "Subtext 1.9.2 Bugfix Update"). There’s
 also a [quick and dirty
-workaround](http://haacked.com/archive/2006/10/26/PATCH_Cannot_Delete_Posts_In_Subtext_1.9.2.aspx "Quick and Dirty Workaround"). 
+workaround](https://haacked.com/archive/2006/10/26/PATCH_Cannot_Delete_Posts_In_Subtext_1.9.2.aspx "Quick and Dirty Workaround"). 
 You only need to apply the fix if you downloaded and installed Subtext
 before this update message was posted.  See [here for
-details](http://haacked.com/archive/2006/10/26/Subtext_1.9.2_Bugfix_Update.aspx "Bugfix Update").
+details](https://haacked.com/archive/2006/10/26/Subtext_1.9.2_Bugfix_Update.aspx "Bugfix Update").
 
 Well it took me a little longer [than
-anticipated](http://haacked.com/archive/2006/10/09/Comment_Spam_Relief_In_Subtext_Coming_Soon.aspx "Comment Spam Relief in Subtext"),
+anticipated](https://haacked.com/archive/2006/10/09/Comment_Spam_Relief_In_Subtext_Coming_Soon.aspx "Comment Spam Relief in Subtext"),
 but I finally teased out the remaining show stopper bugs and put the
 finishing touches on Subtext 1.9.2. If you plan on upgrading to Subtext
 1.9.2, please consider reading this entire post carefully. If not, at
@@ -89,7 +89,7 @@ whether or not you plan to use a Wordpress blog.
 you host your site with a hosting provider such as GoDaddy,
 WebHost4Life, etc... who run their sites in Medium trust, Akismet might
 not work for you. I wrote about the [problem
-here](http://haacked.com/archive/2006/10/17/Why_Oh_Why_Couldnt_WebPermission_Be_Part_Of_Medium_Trust.aspx "Medium Trust and WebPermission").
+here](https://haacked.com/archive/2006/10/17/Why_Oh_Why_Couldnt_WebPermission_Be_Part_Of_Medium_Trust.aspx "Medium Trust and WebPermission").
 
 In the comments to the aforementioned post, [Scott
 Watermasysk](http://scottwater.com/blog/ "Scott Watermasysk") points out
@@ -103,7 +103,7 @@ If specified, all web requests for subtext will use this proxy.
 #### Invisible Captcha
 
 Not too long ago, I released a [lightweight invisible CAPTCHA validator
-control](http://haacked.com/archive/2006/09/26/Lightweight_Invisible_CAPTCHA_Validator_Control.aspx "Invisible CAPTCHA").
+control](https://haacked.com/archive/2006/09/26/Lightweight_Invisible_CAPTCHA_Validator_Control.aspx "Invisible CAPTCHA").
 As far as I can tell, it has worked pretty well at keeping out automated
 comment spam. But as I also warned, it did nothing to stop
 Trackback/Pingback spam. Hence the need for Akismet support.
@@ -126,7 +126,7 @@ CAPTCHA you know and love.
 
 This topic gets its own special treatment because it is both a bug fix
 and a new feature. Not too long ago I mentioned [some work I did for
-DasBlog](http://haacked.com/archive/2006/10/06/TimeZones.aspx "TimeZones")
+DasBlog](https://haacked.com/archive/2006/10/06/TimeZones.aspx "TimeZones")
 regarding daylight savings time.
 
 Long story short, there was no way in the .NET framework to convert from
@@ -171,7 +171,7 @@ if we chose unwisely**.
 
 If you are upgrading from Subtext 1.5 or below, then please read this
 [important note on
-upgrading](http://haacked.com/archive/2006/08/31/Important_Note_On_Upgrading_to_Subtext_1.9.aspx "Important Note on Upgrading to Subtext 1.9").
+upgrading](https://haacked.com/archive/2006/08/31/Important_Note_On_Upgrading_to_Subtext_1.9.aspx "Important Note on Upgrading to Subtext 1.9").
 Subtext 1.9.2 runs on ASP.NET 2.0, so upgrading from 1.5 and below(which
 ran on ASP.NET 1.1) takes a few additional steps than normal.  As
 always, don’t forget to merge your `web.config` customizations into the

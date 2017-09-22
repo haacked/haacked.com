@@ -61,7 +61,7 @@ behavior.
 ### ActionNameAttribute
 
 Introduced in [ASP.NET MVC CodePlex Preview 5 which we just
-released](http://haacked.com/archive/2008/08/29/asp.net-mvc-codeplex-preview-5-released.aspx "ASP.NET MVC CodePlex Preview 5"),
+released](https://haacked.com/archive/2008/08/29/asp.net-mvc-codeplex-preview-5-released.aspx "ASP.NET MVC CodePlex Preview 5"),
 applying this attribute to a method allows you to specify the action
 that the method handles.
 

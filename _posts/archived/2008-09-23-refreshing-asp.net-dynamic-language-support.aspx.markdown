@@ -41,7 +41,7 @@ I have the pleasure of taking over as the PM for this feature (in MS
 parlance we’d say I “own” this feature now) which nicely complements my
 duties as the PM for ASP.NET MVC. If you’ve followed my blog, you know I
 have an [interest in dynamic
-languages](http://haacked.com/archive/2008/07/20/ironruby-aspnetmvc-prototype.aspx "IronRuby ASP.NET MVC Prototype")
+languages](https://haacked.com/archive/2008/07/20/ironruby-aspnetmvc-prototype.aspx "IronRuby ASP.NET MVC Prototype")
 and now I can channel that interest into work time, rather than on my
 own time. :)
 

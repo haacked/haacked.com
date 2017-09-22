@@ -39,7 +39,7 @@ top of Lucene.NET. As I said in the post, those are probably topics I
 can’t get write about in too much detail.
 
 [![Screenshot of project
-browser](http://haacked.com/images/haacked_com/WindowsLiveWriter/SearchingOpenSourceWithOpenSource_C02C/image%7B0%7D_thumb.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/SearchingOpenSourceWithOpenSource_C02C/image%7B0%7D%5B2%5D.png "Subtext Code Browser on Koders")One
+browser](https://haacked.com/images/haacked_com/WindowsLiveWriter/SearchingOpenSourceWithOpenSource_C02C/image%7B0%7D_thumb.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SearchingOpenSourceWithOpenSource_C02C/image%7B0%7D%5B2%5D.png "Subtext Code Browser on Koders")One
 thing I should point out is that code search is only part of the
 picture. Koders also has a pretty sweet code repository browser (click
 on thumbnail for larger view).
@@ -48,7 +48,7 @@ My favorite open source project is now in the index and can be [viewed
 here](http://www.koders.com/info.aspx?c=ProjectInfo&pid=DFV7667WQ72FL9EV6BL8TGSE3G "Subtext Project on Koders").
 
 On a side note, I recently talked about [Search Driven
-Development](http://haacked.com/archive/2007/03/16/increase-productivity-with-search-driven-development.aspx "Increase Productivity with Search Driven Development")
+Development](https://haacked.com/archive/2007/03/16/increase-productivity-with-search-driven-development.aspx "Increase Productivity with Search Driven Development")
 in the theoretical sense, but have been able to put it to good use
 already at Koders.com. In the great developer tradition of
 [dogfooding](http://en.wikipedia.org/wiki/Eat_one's_own_dog_food "Dogfooding on Wikipedia"),

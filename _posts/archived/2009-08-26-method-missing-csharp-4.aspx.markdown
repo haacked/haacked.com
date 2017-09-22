@@ -23,7 +23,7 @@ which the method is not defined. In such cases, Ruby will call a method
 on your class named `method_missing`. I showed an example of this using
 [IronRuby](http://www.ironruby.net/ "IronRuby") a while back when I
 wrote about [monkey patching CLR
-objects](http://haacked.com/archive/2008/04/18/monkey-patching-clr-objects.aspx "Monkey Patching CLR objects with IronRuby").
+objects](https://haacked.com/archive/2008/04/18/monkey-patching-clr-objects.aspx "Monkey Patching CLR objects with IronRuby").
 
 Typically, this sort of wild chicanery is safely contained within the
 world of those wild and crazy dynamic language aficionados, far away
@@ -149,7 +149,7 @@ Keep in mind that `Data.Message` here is equivalent to
 
 Here’s a screenshot of the end result.
 
-![dynamic-mvc](http://haacked.com/images/haacked_com/WindowsLiveWriter/FindThatMissingMethodWithC4_129E9/dynamic-mvc_3.png "dynamic-mvc")
+![dynamic-mvc](https://haacked.com/images/haacked_com/WindowsLiveWriter/FindThatMissingMethodWithC4_129E9/dynamic-mvc_3.png "dynamic-mvc")
 
 Here’s how I did it. I started by writing a new `DynamicViewData `class.
 
@@ -221,15 +221,15 @@ In the *Views* directory, I updated the *web.config* file to make
 `ViewPage`. You can make this change by setting the `pageBaseType`
 attribute of the `<pages>` element (I talked about this a bit in my post
 on [putting your views on a
-diet](http://haacked.com/archive/2009/08/04/views-on-a-diet.aspx "Put your pages and views on a diet")).
+diet](https://haacked.com/archive/2009/08/04/views-on-a-diet.aspx "Put your pages and views on a diet")).
 
 I hope you found this to be a fun romp through a new language feature of
 C\#. I imagine many will find this to be an abuse of the language
 (language abuser!) while others might see other potential uses in this
 technique. Happy coding!
 
-Tags: [dynamic](http://haacked.com/tags/dynamic/default.aspx),
-[aspnetmvc](http://haacked.com/tags/aspnetmvc/default.aspx),
-[C\#](http://haacked.com/tags/C%23/default.aspx),
-[DLR](http://haacked.com/tags/DLR/default.aspx)
+Tags: [dynamic](https://haacked.com/tags/dynamic/default.aspx),
+[aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
+[C\#](https://haacked.com/tags/C%23/default.aspx),
+[DLR](https://haacked.com/tags/DLR/default.aspx)
 

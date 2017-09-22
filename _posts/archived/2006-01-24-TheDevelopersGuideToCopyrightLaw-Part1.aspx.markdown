@@ -11,15 +11,15 @@ redirect_from: "/archive/2006/01/23/TheDevelopersGuideToCopyrightLaw-Part1.aspx/
 
 This is part 1 in a three-part series on copyright law and open source
 licensing. After this, continue onto [Part
-2](http://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Part 2 of the series")
+2](https://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Part 2 of the series")
 and [Part
-3](http://haacked.com/archive/2006/01/25/WhoOwnstheCopyrightforAnOpenSourceProject.aspx)
+3](https://haacked.com/archive/2006/01/25/WhoOwnstheCopyrightforAnOpenSourceProject.aspx)
 of the series.
 
 ### Disclaimer
 
 ![Book
-Cover](http://haacked.com/images/UnderstandingOpenSourceLicensing.gif)
+Cover](https://haacked.com/images/UnderstandingOpenSourceLicensing.gif)
 As is customary when a non-lawyer attempts to discuss the finer points
 of the law, I must start with a disclaimer. I know some fine lawyers,
 but I, sir, am not a lawyer. So please do not consider this to be legal
@@ -100,7 +100,7 @@ license to the code.
 ### Next Time: Licensing
 
 In the [next post in this
-series](http://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx),
+series](https://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx),
 I will discuss licensing and get into the nitty gritty as it pertains to
 open source software. Many thanks to my friend Walter Impert for his
 legal editing.

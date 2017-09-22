@@ -26,18 +26,18 @@ These abstractions make it possible to implement completely different
 underlying implementations of a controller and action. For example, one
 could implement a version of ASP.NET MVC on top of a dynamic language
 using the DLR such as the [IronRuby ASP.NET
-MVC](http://haacked.com/archive/2009/02/17/aspnetmvc-ironruby-with-filters.aspx "IronRuby ASP.NET MVC")
+MVC](https://haacked.com/archive/2009/02/17/aspnetmvc-ironruby-with-filters.aspx "IronRuby ASP.NET MVC")
 I wrote about a long time ago.
 
 Using these abstractions, we can implement something useful like a
 **Controller Inspector**, a nice complement to the **[Route
-Debugger](http://haacked.com/archive/2008/03/13/url-routing-debugger.aspx)**
+Debugger](https://haacked.com/archive/2008/03/13/url-routing-debugger.aspx)**
 I wrote a while back.
 
 Installing the Controller Inspector
 -----------------------------------
 
-![Inspector-120x120](http://haacked.com/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/Inspector-120x120_3.png "Inspector-120x120")The
+![Inspector-120x120](https://haacked.com/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/Inspector-120x120_3.png "Inspector-120x120")The
 Controller Inspector is available as a NuGet package with the package id
 *MvcHaack.ControllerInspector* (my Paint.net skills are top notch!).
 
@@ -49,14 +49,14 @@ After installing the package, visit any URL in your application rendered
 by a controller action. For example, here’s a standard request for a
 boring action.
 
-![index-action](http://haacked.com/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/index-action_5.png "index-action")
+![index-action](https://haacked.com/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/index-action_5.png "index-action")
 
 With the package installed and while running the site on localhost (it
 won’t work when the site is deployed), append the query string parameter
 **?inspect**. For example, in my sample, I just visit:
 *http://localhost:38249/?inspect* and voila!
 
-[![controller-inspector](http://haacked.com/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/controller-inspector_thumb.png "controller-inspector")](http://haacked.com/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/controller-inspector_2.png)
+[![controller-inspector](https://haacked.com/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/controller-inspector_thumb.png "controller-inspector")](https://haacked.com/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/controller-inspector_2.png)
 
 I nicely formatted page that displays information about the controller
 and each of its actions. *If you’re wondering, “hey, isn’t this like
@@ -65,14 +65,14 @@ that.*
 
 Here’s a look at an action method.
 
-![contorller-inspector-action-view](http://haacked.com/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/contorller-inspector-action-view_3.png "contorller-inspector-action-view")
+![contorller-inspector-action-view](https://haacked.com/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/contorller-inspector-action-view_3.png "contorller-inspector-action-view")
 
 Notice that it conveniently shows the HTTP verbs next to the name to
 differentiate action methods of the same name. If an action method
 accepts a complex type as a parameter, the inspector displays details
 about that type (though not recursively yet).
 
-![action-with-model](http://haacked.com/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/action-with-model_3.png "action-with-model")
+![action-with-model](https://haacked.com/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/action-with-model_3.png "action-with-model")
 
 Accessing controller metadata
 -----------------------------
@@ -176,7 +176,7 @@ What the `InspectorActionInvoker` does is build up a model of all the
 information we want to display and passes it to a precompiled Razor
 template using the approach I wrote about recently in [Text Templating
 using Razor the easy
-way](http://haacked.com/archive/2011/08/01/text-templating-using-razor-the-easy-way.aspx "Text Templating with Razor blog post").
+way](https://haacked.com/archive/2011/08/01/text-templating-using-razor-the-easy-way.aspx "Text Templating with Razor blog post").
 I simply build up a huge anonymous class and pass it to a dynamic model
 in the template. Note that this probably won’t work in medium trust, but
 I can easily fix that later by either using an
@@ -207,7 +207,7 @@ UPDATE: The code is [available on
 Github!](https://github.com/Haacked/CodeHaacks "CodeHaacks")
 
 In the third part, I blog about [what originally lead me down this
-path](http://haacked.com/archive/2011/08/18/calling-asp-net-mvc-action-methods-from-javascript.aspx)
+path](https://haacked.com/archive/2011/08/18/calling-asp-net-mvc-action-methods-from-javascript.aspx)
 to write about the descriptors, which in turn lead me down the path to
 write about the Razor Generator. Yes, I’m easily sidetracked!
 

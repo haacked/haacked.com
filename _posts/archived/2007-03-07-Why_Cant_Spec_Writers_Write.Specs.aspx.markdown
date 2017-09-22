@@ -14,14 +14,14 @@ Sorry to revive the dead horse, but a comment in my blog brought up a very good 
 
 In the original Fizz Buzz test, the functional spec asks the programmer ***to print the numbers from 1 to 100***.
 
-But as a [commenter points out](http://haacked.com/archive/2007/02/27/Why_Cant_Programmers._Read.aspx/#comment-747518745 "Comment")...
+But as a [commenter points out](https://haacked.com/archive/2007/02/27/Why_Cant_Programmers._Read.aspx/#comment-747518745 "Comment")...
 
 > **Why can’t spec writers write? Unless you mean integers, there are an
 > infinite number of real numbers ’from 1 to 100’**
 
 Exactly! There *are* an infinite range of numbers between 1 and 100. The specification is technically not clear enough. Writing a program to spec exactly would... well be impossible.
 
-This is exactly why I said the following in a [another comment](http://haacked.com/archive/2007/02/27/Why_Cant_Programmers._Read.aspx/#comment-747518745 "Comment")...
+This is exactly why I said the following in a [another comment](https://haacked.com/archive/2007/02/27/Why_Cant_Programmers._Read.aspx/#comment-747518745 "Comment")...
 
 > I still need to gather requirements! What platform must this FizzBuzz
 > program support? Any performance requirements? Does the output need to

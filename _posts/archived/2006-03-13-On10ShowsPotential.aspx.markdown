@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/03/12/On10ShowsPotential.aspx/"
 ---
 
 So a little while ago I [mentioned a new
-site](http://haacked.com/archive/2006/03/06/BeyondChannel9.aspx "On10")
+site](https://haacked.com/archive/2006/03/06/BeyondChannel9.aspx "On10")
 named [On10](http://on10.net/ "On10"). I didn’t know what it was at the
 time, but I was assured by
 [Erik](http://weblogs.asp.net/eporter/ "Erik Porter Blog") and

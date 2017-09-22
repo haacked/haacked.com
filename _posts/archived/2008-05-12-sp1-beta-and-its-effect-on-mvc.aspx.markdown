@@ -21,7 +21,7 @@ important points to notice about the SP1 release:
 -   URL Routing *is* included
 
 Now you can see why there’s been so much [focus on
-Routing](http://haacked.com/archive/2008/04/10/upcoming-changes-in-routing.aspx "Upcoming changes in Routing")
+Routing](https://haacked.com/archive/2008/04/10/upcoming-changes-in-routing.aspx "Upcoming changes in Routing")
 from the MVC team, as Routing is now part of the Framework and is not
 out-of-band. This meant that we had to put a lot more effort into
 Routing to make sure it was production ready.

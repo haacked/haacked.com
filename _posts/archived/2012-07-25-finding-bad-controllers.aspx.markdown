@@ -22,7 +22,7 @@ This is usually where I tell folks to run the following NuGet command:
 Install-Package RouteDebugger
 ```
 
-[RouteDebugger](http://haacked.com/archive/2011/04/13/routedebugger-2.aspx "RouteDebugger")
+[RouteDebugger](https://haacked.com/archive/2011/04/13/routedebugger-2.aspx "RouteDebugger")
 is a great way to find out why a route isn’t matching a controller.
 
 In this particular case, the culprit was that the person renamed the
@@ -132,7 +132,7 @@ class with some methods for finding all controllers that match one of
 these conditions.
 
 It builds on the [extension method to retrieve all
-types](http://haacked.com/archive/2012/07/23/get-all-types-in-an-assembly.aspx "Get all types in an assembly")
+types](https://haacked.com/archive/2012/07/23/get-all-types-in-an-assembly.aspx "Get all types in an assembly")
 I blogged about the other day. First, I wrote extension methods for the
 various controller conditions:
 
@@ -176,7 +176,7 @@ Source code and Demo
 --------------------
 
 I added these methods as part of the [ControllerInspector
-library](http://haacked.com/archive/2011/08/10/writing-an-asp-net-mvc-controller-inspector.aspx "ControllerInspector")
+library](https://haacked.com/archive/2011/08/10/writing-an-asp-net-mvc-controller-inspector.aspx "ControllerInspector")
 which is available on NuGet. You can also grab the source code from my
 [CodeHaacks repository on
 GitHub](https://github.com/Haacked/CodeHaacks "CodeHaacks") (*click the
@@ -194,7 +194,7 @@ If you get the source code, check out the following projects:
 The demo website’s homepage uses these methods to show a list of bad
 controllers.
 
-[![bad-controllers](http://haacked.com/images/haacked_com/WindowsLiveWriter/b185f9b53b5b_11FC8/bad-controllers_thumb.png "bad-controllers")](http://haacked.com/images/haacked_com/WindowsLiveWriter/b185f9b53b5b_11FC8/bad-controllers_2.png)
+[![bad-controllers](https://haacked.com/images/haacked_com/WindowsLiveWriter/b185f9b53b5b_11FC8/bad-controllers_thumb.png "bad-controllers")](https://haacked.com/images/haacked_com/WindowsLiveWriter/b185f9b53b5b_11FC8/bad-controllers_2.png)
 
 The code I wrote is based on looking at how ASP.NET MVC locates and
 determines controllers. It turns out, because of the performance

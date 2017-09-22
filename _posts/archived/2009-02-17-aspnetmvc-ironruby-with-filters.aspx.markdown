@@ -12,14 +12,14 @@ redirect_from: "/archive/2009/02/16/aspnetmvc-ironruby-with-filters.aspx/"
 ---
 
 Last July, I blogged about an [IronRuby ASP.NET MVC
-prototype](http://haacked.com/archive/2008/07/20/ironruby-aspnetmvc-prototype.aspx "IronRuby with ASP.NET MVC Working Prototype")
+prototype](https://haacked.com/archive/2008/07/20/ironruby-aspnetmvc-prototype.aspx "IronRuby with ASP.NET MVC Working Prototype")
 Levi and I put together with [John
 Lam](http://www.iunknown.com/ "John Lam") and [Jimmy
 Schementi](http://blog.jimmy.schementi.com/ "Jimmy Schementi") of the
 DLR team. It was really rough around the edges (and still is!)
 
 ![IronRuby on ASP.NET MVC
-Demo](http://haacked.com/images/haacked_com/WindowsLiveWriter/IronRubyWithASP.NETMVCWorkingPrototype_BDF3/IronRuby%20on%20ASP.NET%20MVC%20Demo%20-%20Windows%20Internet%20Explorer_3.png "IronRuby on ASP.NET MVC Demo")One
+Demo](https://haacked.com/images/haacked_com/WindowsLiveWriter/IronRubyWithASP.NETMVCWorkingPrototype_BDF3/IronRuby%20on%20ASP.NET%20MVC%20Demo%20-%20Windows%20Internet%20Explorer_3.png "IronRuby on ASP.NET MVC Demo")One
 of the benefits of doing that prototype was that it inspired all the
 work around action and controller descriptors in [ASP.NET
 MVC](http://asp.net/mvc "ASP.NET MVC Website") (something I need to
@@ -29,7 +29,7 @@ This had the nice side-effect of making the implementation of IronRuby
 on top of ASP.NET MVC much cleaner.
 
 In this [updated
-prototype](http://haacked.com/code/IronRuby-for-aspnetmvc-rc.zip "IronRuby prototype"),
+prototype](https://haacked.com/code/IronRuby-for-aspnetmvc-rc.zip "IronRuby prototype"),
 I’ve now implemented support for ASP.NET MVC filters. You can define
 action filters and authentication filters (I need to test the other
 filter types). Keep in mind, this is a very rough prototype code still.
@@ -92,7 +92,7 @@ I have to do before I put code up on CodePlex, which is why I haven’t
 done it already because I’ve been busy.
 
 ~~And before I forget, here’s the **[download location for the
-sample](http://haacked.com/code/IronRuby-for-aspnetmvc-rc.zip "IronRuby for ASP.NET MVC")**.~~
+sample](https://haacked.com/code/IronRuby-for-aspnetmvc-rc.zip "IronRuby for ASP.NET MVC")**.~~
 
 Ivan Porto Carerra has taken this prototype and is running with it. To
 download the latest, check out his [IronRubyMVC GitHub

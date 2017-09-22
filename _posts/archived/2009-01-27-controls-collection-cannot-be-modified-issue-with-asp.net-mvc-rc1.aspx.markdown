@@ -12,7 +12,7 @@ redirect_from: "/archive/2009/01/26/controls-collection-cannot-be-modified-issue
 
 In my last post, I announced the happy news that the [Release Candidate
 for ASP.NET MVC is
-available](http://haacked.com/archive/2009/01/27/aspnetmvc-release-candidate.aspx "ASP.NET MVC Release Candidate").
+available](https://haacked.com/archive/2009/01/27/aspnetmvc-release-candidate.aspx "ASP.NET MVC Release Candidate").
 In this post, I say mea culpa for a known bug within this release.
 
 This bug is a consequence of a change we made in our default template.

@@ -15,7 +15,7 @@ As of the current build, the feature to view the raw XML before it is
 rendered by the stylesheet is no longer there.
 
 However, here is an [identity
-transformation](http://haacked.com/xslt/identity.zip) you may use. Just
+transformation](https://haacked.com/xslt/identity.zip) you may use. Just
 copy this to the **templates** sub folder of your RSS Bandit
 installation. You can then go to the **Display** menu (via Tools |
 Options) and select the Identity.fdxsl for your stylesheet. Afterwards,

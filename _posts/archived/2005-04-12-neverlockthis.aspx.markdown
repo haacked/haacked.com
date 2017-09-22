@@ -12,7 +12,7 @@ UPDATE: As a commenter pointed out, the original code example did not
 properly demonstrate the problem with locking on the `this` keyword
 within a normal method. I have corrected this example and [wrote a
 better
-example](http://haacked.com/archive/2006/08/08/ThreadingNeverLockThisRedux.aspx "Never Lock This")
+example](https://haacked.com/archive/2006/08/08/ThreadingNeverLockThisRedux.aspx "Never Lock This")
 that demonstrates that this problem still exists even in a “normal”
 method.
 

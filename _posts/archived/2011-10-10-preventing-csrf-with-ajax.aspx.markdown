@@ -13,12 +13,12 @@ redirect_from: "/archive/2011/10/09/preventing-csrf-with-ajax.aspx/"
 
 A long while ago I wrote about the potential [dangers of Cross-site
 Request
-Forgery](http://haacked.com/archive/2009/04/02/anatomy-of-csrf-attack.aspx "Anatomy of a CSRF attack")
+Forgery](https://haacked.com/archive/2009/04/02/anatomy-of-csrf-attack.aspx "Anatomy of a CSRF attack")
 attacks, also known as CSRF or XSRF. These exploits are a form of
 [confused deputy
 attack](http://en.wikipedia.org/wiki/Confused_Deputy "Confused Deputy Attack").
 
-[![police-academy](http://haacked.com/images/haacked_com/WindowsLiveWriter/45c6ec1c5059_11263/police-academy_thumb.jpg "police-academy")](http://haacked.com/images/haacked_com/WindowsLiveWriter/45c6ec1c5059_11263/police-academy_2.jpg)*Screen
+[![police-academy](https://haacked.com/images/haacked_com/WindowsLiveWriter/45c6ec1c5059_11263/police-academy_thumb.jpg "police-academy")](https://haacked.com/images/haacked_com/WindowsLiveWriter/45c6ec1c5059_11263/police-academy_2.jpg)*Screen
 grab from The Police Academy movie.*In that post, I covered how ASP.NET
 MVC includes a set of anti-forgery helpers to help mitigate such
 exploits. The helpers include an HTML helper meant to be called in the
@@ -44,7 +44,7 @@ we’re stuck with this.
 
 This problem became evident to me after I wrote a proof-of-concept
 library to  [ASP.NET MVC action methods from
-JavaScript](http://haacked.com/archive/2011/08/18/calling-asp-net-mvc-action-methods-from-javascript.aspx "Calling ASP.NET MVC action methods from JavaScript")
+JavaScript](https://haacked.com/archive/2011/08/18/calling-asp-net-mvc-action-methods-from-javascript.aspx "Calling ASP.NET MVC action methods from JavaScript")
 in an easy manner. The JavaScript helpers I wrote post JSON to action
 methods in order to call the actions. So I set out to fix this in my
 [CodeHaacks

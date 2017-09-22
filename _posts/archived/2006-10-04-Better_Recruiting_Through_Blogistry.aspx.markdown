@@ -25,7 +25,7 @@ ad.  In the interest of full disclosure, I will be taking part as a
 blogger hosting these job postings.
 
 I’ve written before about how [hiring is
-challenging](http://haacked.com/archive/2005/12/16/Hiring_Is_Challenging.aspx "Hiring is Challenging") and
+challenging](https://haacked.com/archive/2005/12/16/Hiring_Is_Challenging.aspx "Hiring is Challenging") and
 that blogs are a great means to connecting with and hiring good
 developers.  In fact, that’s how I recruited [Jon
 Galloway](http://weblogs.asp.net/jgalloway/ "Jon Galloway") to join my

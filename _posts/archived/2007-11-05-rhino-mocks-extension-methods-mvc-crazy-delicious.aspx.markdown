@@ -111,13 +111,13 @@ takes a lot of the drudgery out of setting up a mocked object.
 Oh, and if you’re lamenting the fact that you’re writing ASP.NET 2.0
 apps that don’t have interfaces for the HTTP intrinsics, you should read
 my post on [IHttpContext and Duck
-Typing](http://haacked.com/archive/2007/09/09/ihttpcontext-and-other-interfaces-for-your-duck-typing-benefit.aspx "IHttpContext and other interfaces for your Duck Typing Benefit")
+Typing](https://haacked.com/archive/2007/09/09/ihttpcontext-and-other-interfaces-for-your-duck-typing-benefit.aspx "IHttpContext and other interfaces for your Duck Typing Benefit")
 in which I provide such interfaces.
 
 Happy testing to you!
 
 I have a [follow-up post on testing
-routes](http://haacked.com/archive/2007/12/17/testing-routes-in-asp.net-mvc.aspx "unit testing routes").
+routes](https://haacked.com/archive/2007/12/17/testing-routes-in-asp.net-mvc.aspx "unit testing routes").
 The project includes a slightly more full featured version of the
 `MvcMockHelpers class. `
 

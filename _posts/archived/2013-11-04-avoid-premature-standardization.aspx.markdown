@@ -13,7 +13,7 @@ redirect_from: "/archive/2013/11/03/avoid-premature-standardization.aspx/"
 
 Most developers are aware of the potential pitfalls of premature
 optimization and [premature
-generalization](http://haacked.com/archive/2005/09/18/avoid_premature_generalization.aspx "Avoid Premature Generalization").
+generalization](https://haacked.com/archive/2005/09/18/avoid_premature_generalization.aspx "Avoid Premature Generalization").
 At least I hope they are. But what about premature standardization, a
 close cousin to premature generalization?
 
@@ -111,7 +111,7 @@ project is using the “YOU TAKE IT” label [to accomplish the same
 thing](https://github.com/scriptcs/scriptcs/issues/79 "YOU TAKE IT").
 
 [About two and a half years
-earlier](http://haacked.com/archive/2010/10/14/nupack-up-for-grabs-items.aspx "Up for grabs"),
+earlier](https://haacked.com/archive/2010/10/14/nupack-up-for-grabs-items.aspx "Up for grabs"),
 I blogged about the “UpForGrabs” label the NuGet team was using for the
 same reason.
 

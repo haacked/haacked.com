@@ -78,11 +78,11 @@ The results show that the performance difference is negligible. However,
 even before seeing the performance results, I would agree with the
 article to choose the second approach, but for different reasons. It
 results in a lot less code. As I have [said
-before](http://haacked.com/archive/2006/08/09/ASP.NETSupervisingControllerModelViewPresenterFromSchematicToUnitTestsToCode.aspx "Model-View-Presenter"),
+before](https://haacked.com/archive/2006/08/09/ASP.NETSupervisingControllerModelViewPresenterFromSchematicToUnitTestsToCode.aspx "Model-View-Presenter"),
 **Less code is better code**.
 
 I tend to prefer [optimizing for
-productivity](http://haacked.com/archive/2006/09/13/Premature_Optimization_Considered_Healthy.aspx "Premature Optimization Healthy")
+productivity](https://haacked.com/archive/2006/09/13/Premature_Optimization_Considered_Healthy.aspx "Premature Optimization Healthy")
 all the time, but only optimizing for performance after carefully
 measuring for bottlenecks.
 

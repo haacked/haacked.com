@@ -9,7 +9,7 @@ redirect_from: "/archive/2007/07/25/second-annual-contribute-to-open-source-day.
 ---
 
 A year ago on this day, I wrote a blog post about the [demise of
-NDoc](http://haacked.com/archive/2006/07/26/TheDemiseOfNDocAndAChallengeForUsersOfOpenSourceSoftware.aspx "A challenge for users of open source software")
+NDoc](https://haacked.com/archive/2006/07/26/TheDemiseOfNDocAndAChallengeForUsersOfOpenSourceSoftware.aspx "A challenge for users of open source software")
 and issued a challenge for users of Open Source Software to contribute
 to their favorite projects.
 

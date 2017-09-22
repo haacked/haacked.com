@@ -52,7 +52,7 @@ reduce the **Total Cost of Ownership** (or TCO) of a codebase.
 
 They reduce the true cost of software development by [promoting cleaner
 code with less
-bugs](http://haacked.com/archive/2004/12/06/unit-testing-benefits.aspx "Unit Testing Benefits").
+bugs](https://haacked.com/archive/2004/12/06/unit-testing-benefits.aspx "Unit Testing Benefits").
 They reduce the TCO by documenting how code works and by serving as
 regression tests, giving maintainers more confidence to make changes to
 the system.
@@ -66,5 +66,5 @@ you profusely if the system has sufficient unit tests.
 And before I’m misquoted, I want to remind the reader that my
 predilection for unit tests does not mean that it is a [substitute for
 other forms of
-testing](http://haacked.com/archive/2005/10/18/UnitTestingLovesBetaTestingAndViceVersa.aspx).
+testing](https://haacked.com/archive/2005/10/18/UnitTestingLovesBetaTestingAndViceVersa.aspx).
 

@@ -24,13 +24,13 @@ packages. So if you write packages that depend on the ASP.NET MVC 4
 runtime, you can have them depend on our packages.
 
 Also included in this release is NuGet 1.5 which was [released just
-recently](http://haacked.com/archive/2011/08/30/nuget-1-5-released.aspx "NuGet 1.5 released").
+recently](https://haacked.com/archive/2011/08/30/nuget-1-5-released.aspx "NuGet 1.5 released").
 If you already have NuGet 1.5 installed, you may notice there’s a new
 update available.  This new version includes support for Visual Studio
 11 Developer Preview. There are no other changes in it.
 
 I’m also giving a [couple of talks at
-BUILD](http://haacked.com/archive/2011/09/13/speaking-at-build.aspx "Speaking at BUILD")
+BUILD](https://haacked.com/archive/2011/09/13/speaking-at-build.aspx "Speaking at BUILD")
 that you’ll be able to watch online that cover some of the features
 within ASP.NET MVC 4. To find out more about the release, visit our
 [ASP.NET MVC 4 information
@@ -63,10 +63,10 @@ feedback. I also want to recognize the heroic efforts of the ASP.NET MVC
 team (and NuGet and ASP.NET Web Pages) to get this release ready in time
 with all the features that it contains. I’m privileged to work with such
 great folks.
-![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NET-MVC-4-Developer_823E/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NET-MVC-4-Developer_823E/wlEmoticon-smile_2.png)
 
-Tags: [aspnetmvc](http://haacked.com/tags/aspnetmvc/default.aspx),
-[asp.net](http://haacked.com/tags/asp.net/default.aspx),
-[preview](http://haacked.com/tags/preview/default.aspx),
-[nuget](http://haacked.com/tags/nuget/default.aspx)
+Tags: [aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
+[asp.net](https://haacked.com/tags/asp.net/default.aspx),
+[preview](https://haacked.com/tags/preview/default.aspx),
+[nuget](https://haacked.com/tags/nuget/default.aspx)
 

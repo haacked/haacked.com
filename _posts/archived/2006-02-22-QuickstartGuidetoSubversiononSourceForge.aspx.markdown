@@ -18,7 +18,7 @@ for source control!
 
 One complaint I received from developers who read my [Quickstart Guide
 To Open Source Development With CVS and
-SourceForge](http://haacked.com/archive/2005/05/12/QuickstartGuideToOpenSourceDevelopmentWithCVSAndSourceForge.aspx "Guide to using CVS with SourceForge (new window)")
+SourceForge](https://haacked.com/archive/2005/05/12/QuickstartGuideToOpenSourceDevelopmentWithCVSAndSourceForge.aspx "Guide to using CVS with SourceForge (new window)")
 is the sheer amount of complexity just to get started (not that it was
 my fault, I was just the messenger). With Subversion, contributing to a
 project on SourceForge is now much simpler.
@@ -80,7 +80,7 @@ folders within a repository.
     into.
 3.  Right click and select the **SVN Checkout** command:
     ![Subversion Checkout context
-    menu](http://haacked.com/images/TortoiseSvnCheckoutContext.png)
+    menu](https://haacked.com/images/TortoiseSvnCheckoutContext.png)
 4.  This will bring up the following checkout dialog. You will need to
     know the url of the project’s repository. This should simply be
     **https://{project unix name}.svn.sourceforge.net/svnroot/{project
@@ -100,7 +100,7 @@ folders within a repository.
     **https://subtext.svn.sourceforge.net/svnroot/subtext/trunk**
 
     ![TortoiseSVN Checkout
-    Dialog](http://haacked.com/images/TortoiseSVNCheckout.png)
+    Dialog](https://haacked.com/images/TortoiseSVNCheckout.png)
 
 5.  TortoiseSVN will prompt you for your SourceForge username and
     password. You can optionally check a box to have it save your
@@ -109,7 +109,7 @@ folders within a repository.
     this will be fixed soon as it is not generally a good habit to
     accept an invalid certificate.
     ![Invalid Certificate
-    Dialog](http://haacked.com/images/InvalidCertificateDialog.png)
+    Dialog](https://haacked.com/images/InvalidCertificateDialog.png)
 7.  Wait patiently as files are retrieved from the repository and copied
     to your local machine.
 
@@ -121,7 +121,7 @@ can run the update command to get changes committed by other developers.
 It's a good idea to do this before and after you make any changes.
 
 ![TortoiseSVN Update Context
-Menu](http://haacked.com/images/TortoiseSVNUpdateContextMenu.png)
+Menu](https://haacked.com/images/TortoiseSVNUpdateContextMenu.png)
 
 Commiting Changes {.clear}
 -----------------
@@ -131,7 +131,7 @@ arrow. To commit your changes, right click and select the Commit
 command. Please make sure to enter an informative comment.
 
 ![TortoiseSVN Commit Context
-Menu](http://haacked.com/images/TortoiseSVNCommitContextMenu.png)
+Menu](https://haacked.com/images/TortoiseSVNCommitContextMenu.png)
 
 To commit multiple changes, right click on the root folder and select
 Commit. You'llget a list of all changed files. You can check the ones
@@ -145,7 +145,7 @@ Subversion and *then* commit it. To add a file, simply right click on it
 and select "TortoiseSVN | Add".
 
 ![TortoiseSVN Add File Context
-Menu](http://haacked.com/images/TortoiseSVNAddFileContextMenu.png)
+Menu](https://haacked.com/images/TortoiseSVNAddFileContextMenu.png)
 
 Know when to ignore {.clear}
 -------------------
@@ -165,7 +165,7 @@ list for a folder is to right click on the file and select **TortoiseSVN
 | Add To Ignore List**.
 
 ![TortoiseSVN Add To Ignore List Context
-Menu](http://haacked.com/images/TortoiseSVNAddToIgnoreListContextMenu.png)
+Menu](https://haacked.com/images/TortoiseSVNAddToIgnoreListContextMenu.png)
 
 Since this ignore list only applies to the specific folder (and not to
 subdirectories), another approach is to setting an ignore list for the
@@ -174,7 +174,7 @@ project is to right click the root folder and select the normal Windows
 dialog.
 
 ![Subversion Property
-Dialog](http://haacked.com/images/SubversionFolderPropertyDialog.png)
+Dialog](https://haacked.com/images/SubversionFolderPropertyDialog.png)
 
 This dialog allows you to specify various Subversion properties
 (meta-data) including one called **svn:ignore**. Select the svn:ignore

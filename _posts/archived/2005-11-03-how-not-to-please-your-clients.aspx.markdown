@@ -8,8 +8,8 @@ categories: []
 redirect_from: "/archive/2005/11/02/how-not-to-please-your-clients.aspx/"
 ---
 
-![Toilet](http://haacked.com/images/toilet.jpg) A while ago I [wrote
-that](http://haacked.com/archive/2005/08/18/9536.aspx) a client often
+![Toilet](https://haacked.com/images/toilet.jpg) A while ago I [wrote
+that](https://haacked.com/archive/2005/08/18/9536.aspx) a client often
 often does not know what he wants until he sees it. I was referring to
 software development, but this is common across many professional
 services organization, such as plumbing for example.

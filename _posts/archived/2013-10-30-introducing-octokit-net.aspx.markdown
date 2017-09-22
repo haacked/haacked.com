@@ -21,7 +21,7 @@ Octokit.net](https://github.com/blog/1676-introducing-octokit-net "Introducing O
 > [Octokit.net](https://github.com/octokit/octokit.net), the GitHub API
 > toolkit for .NET developers.
 
-[![octokit-dotnet](http://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingOctokit.NET_D8EF/octokit-dotnet_thumb.png "octokit-dotnet")](http://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingOctokit.NET_D8EF/octokit-dotnet_2.png)
+[![octokit-dotnet](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingOctokit.NET_D8EF/octokit-dotnet_thumb.png "octokit-dotnet")](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingOctokit.NET_D8EF/octokit-dotnet_2.png)
 
 GitHub provides a powerful set of tools for developers who build amazing
 software together. But these tools extend way beyond the website and Git
@@ -74,7 +74,7 @@ it has platform limitations that are incompatible with our license.
 I had hoped that its platform limitations would have been removed by
 now, but that sadly is not the case. If you’re wondering why that
 matters, read [my post
-here](http://haacked.com/archive/2013/06/24/platform-limitations-harm-net.aspx "Platform limitations harm .net").
+here](https://haacked.com/archive/2013/06/24/platform-limitations-harm-net.aspx "Platform limitations harm .net").
 
 However, if you check the repository out, you’ll notice that there’s a
 branch named *haacked/portable-httpclient*. If you only plan to deploy

@@ -10,11 +10,11 @@ redirect_from: "/archive/2005/12/27/enabling-distributed-rollbacks-with-nunit-an
 
 In some of my projects, I take a less purist approach to unit testing in
 that I allow [unit tests to touch the
-database](http://haacked.com/archive/2005/10/21/10941.aspx). In order to
+database](https://haacked.com/archive/2005/10/21/10941.aspx). In order to
 “reset” the database to the state it was in prior to the test, the code
 enlists COM+ 1.5 transactions via the [RollBack] attribute in MbUnit
 ([there’s also one for
-NUnit](http://haacked.com/archive/2005/06/10/4580.aspx)).
+NUnit](https://haacked.com/archive/2005/06/10/4580.aspx)).
 
 My preference is to have a local copy of the database when developing,
 but there have been times when this was not possible and I needed to run

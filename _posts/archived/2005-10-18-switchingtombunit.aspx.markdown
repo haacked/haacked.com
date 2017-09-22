@@ -94,7 +94,7 @@ you simply add another provider method. Pretty sweet, eh?
 
 **Row Based Testing**\
  I already [wrote a
-post](http://haacked.com/archive/0001/01/01/1421.aspx) on the `RowTest`
+post](https://haacked.com/archive/0001/01/01/1421.aspx) on the `RowTest`
 attribute for MbUnit. It supports a very common test paradigm of using
 the same method to test a wide variety of inputs.
 
@@ -107,7 +107,7 @@ run all your unit tests.
  Attach this attribute to a test method and MbUnit makes sure that any
 database transactions are rolled back at the end of the test. There is
 an implementation of a [`RollBack` attribute for
-NUnit](http://haacked.com/archive/2005/06/10/4580.aspx) out there, but
+NUnit](https://haacked.com/archive/2005/06/10/4580.aspx) out there, but
 the extensibility model is tricky, as I found I couldn’t get the
 RollBack attribute to work with an `ExpectedException` attribute.
 

@@ -15,11 +15,11 @@ redirect_from:
 UPDATE: This code is now hosted in the Subkismet project on CodePlex.
 
 [![Source:
-http://www.dpchallenge.com/image.php?IMAGE\_ID=138743](http://haacked.com/images/haacked_com/WindowsLiveWriter/LightweightInvisibleCAPTCHAControl_281C/138743_thumb.jpg)](http://haacked.com/images/haacked_com/WindowsLiveWriter/LightweightInvisibleCAPTCHAControl_281C/1387432.jpg)
+http://www.dpchallenge.com/image.php?IMAGE\_ID=138743](https://haacked.com/images/haacked_com/WindowsLiveWriter/LightweightInvisibleCAPTCHAControl_281C/138743_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/LightweightInvisibleCAPTCHAControl_281C/1387432.jpg)
 Not too long ago I wrote about [using
-heuristics](http://haacked.com/archive/2006/08/29/Comment_Spam_Heuristics.aspx)
+heuristics](https://haacked.com/archive/2006/08/29/Comment_Spam_Heuristics.aspx)
 to fight comment spam.  A little later I [pointed to the NoBot
-control](http://haacked.com/archive/2006/09/19/Atlas_Comment_Spam_Heuristics.aspx)
+control](https://haacked.com/archive/2006/09/19/Atlas_Comment_Spam_Heuristics.aspx)
 as an independent implementation of the ideas I mentioned using Atlas.
 
 I think that control is a great start, but it does suffer from a few
@@ -28,7 +28,7 @@ minor issues that prevent me from using it immediately.
 1.  It requires Atlas and Atlas is pretty heavyweight.
 2.  Atlas is pre-release right now.
 3.  We’re waiting on [a bug
-    fix](http://haacked.com/archive/2006/09/19/Please_Vote_On_This_Atlas_Javascript_Bug.aspx)
+    fix](https://haacked.com/archive/2006/09/19/Please_Vote_On_This_Atlas_Javascript_Bug.aspx)
     in Atlas to be implemented.
 4.  It is not accessible as it doesn’t work if javascript is enabled.
 
@@ -73,7 +73,7 @@ non-javascript browsers (think Lynx or those text-to-speech browsers for
 the blind) a chance to comment.
 
 ![Accessible version of the Invisible CAPTCHA
-control](http://haacked.com/images/haacked_com/WindowsLiveWriter/LightweightInvisibleCAPTCHAControl_281C/AccessibleInvisibleCaptcha4.png)
+control](https://haacked.com/images/haacked_com/WindowsLiveWriter/LightweightInvisibleCAPTCHAControl_281C/AccessibleInvisibleCaptcha4.png)
 
 This should be sufficient to block a lot of comment spam.
 

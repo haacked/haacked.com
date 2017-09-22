@@ -199,7 +199,7 @@ public IHttpHandler GetHttpHandler(RequestContext requestContext) {
 
 Notice that we make use of the `DelegateHttpHandler` which is something
 [I wrote about a while
-ago](http://haacked.com/archive/2008/12/15/redirect-routes-and-other-fun-with-routing-and-lambdas.aspx "Redirect Routes and Lambda").
+ago](https://haacked.com/archive/2008/12/15/redirect-routes-and-other-fun-with-routing-and-lambdas.aspx "Redirect Routes and Lambda").
 
 Where to get it?
 ----------------
@@ -207,7 +207,7 @@ Where to get it?
 All the code I showed here is now part of the
 *[RouteMagic](https://github.com/haacked/routemagic "RouteMagic")*
 library [I blogged about
-recently](http://haacked.com/archive/2011/01/30/introducing-routemagic.aspx "Introducing Route Magic").
+recently](https://haacked.com/archive/2011/01/30/introducing-routemagic.aspx "Introducing Route Magic").
 I’ve updated the package so all you need to do is *Install-Package
 RouteMagic*within [NuGet](http://nuget.codeplex.com/ "NuGet").
 

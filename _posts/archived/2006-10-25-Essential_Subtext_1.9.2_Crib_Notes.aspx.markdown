@@ -10,17 +10,17 @@ redirect_from: "/archive/2006/10/24/Essential_Subtext_1.9.2_Crib_Notes.aspx/"
 
 UPDATE: A bug was reported that blog posts could not be deleted. We
 have updated the release files [with a fixed
-version](http://haacked.com/archive/2006/10/26/Subtext_1.9.2_Bugfix_Update.aspx "Subtext 1.9.2 Bugfix Update"). 
+version](https://haacked.com/archive/2006/10/26/Subtext_1.9.2_Bugfix_Update.aspx "Subtext 1.9.2 Bugfix Update"). 
 There’s also a [quick and dirty
-workaround](http://haacked.com/archive/2006/10/26/PATCH_Cannot_Delete_Posts_In_Subtext_1.9.2.aspx "Quick and Dirty Workaround").
+workaround](https://haacked.com/archive/2006/10/26/PATCH_Cannot_Delete_Posts_In_Subtext_1.9.2.aspx "Quick and Dirty Workaround").
 
 Reading over my [last blog
-post](http://haacked.com/archive/2006/10/25/Subtext_1.9.2_quotShields_Upquot_Edition_Released.aspx "Subtext Shields Up Released!"),
+post](https://haacked.com/archive/2006/10/25/Subtext_1.9.2_quotShields_Upquot_Edition_Released.aspx "Subtext Shields Up Released!"),
 I realized I can be a bit long winded when describing the latest release
 of Subtext. Can you blame me? I pour my blood, sweat, and tears (minus
 the blood) into this project.  Doesn’t that give me some leeway to be a
 total blowhard?
-![Wink](http://haacked.com/Images/emotions/smiley-wink.gif)
+![Wink](https://haacked.com/Images/emotions/smiley-wink.gif)
 
 This post is for those who just want the meat. Subtext 1.9.2 has the
 goal of making the world safe for trackbacks and comments.  It adds
@@ -31,7 +31,7 @@ for upgrading.
     implemented a major schema change which requires that the upgrade
     process move some data to a new table.
 -   If you are upgrading from Subtext 1.5 or earlier, [read
-    this](http://haacked.com/archive/2006/08/31/Important_Note_On_Upgrading_to_Subtext_1.9.aspx "Important note on upgrading to 1.9").
+    this](https://haacked.com/archive/2006/08/31/Important_Note_On_Upgrading_to_Subtext_1.9.aspx "Important note on upgrading to 1.9").
 -   [Instructions for
     upgrading](http://subtextproject.com/Home/Docs/Upgrading/tabid/147/Default.aspx "Upgrading Subtext").
 -   [Instructions for a clean

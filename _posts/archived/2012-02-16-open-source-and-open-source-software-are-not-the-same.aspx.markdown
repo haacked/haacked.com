@@ -13,7 +13,7 @@ redirect_from: "/archive/2012/02/15/open-source-and-open-source-software-are-not
 ---
 
 UPDATE: I have a [follow-up
-post](http://haacked.com/archive/2012/02/22/spirit-of-open-source.aspx "Spirit of OS")
+post](https://haacked.com/archive/2012/02/22/spirit-of-open-source.aspx "Spirit of OS")
 that addresses a few criticisms of this post.
 
 It all started with an innocent tweet asking whether ASP.NET MVC 3 is
@@ -177,7 +177,7 @@ At least not yet anyways.
 
 UPDATE: After some discussion, I’m not so sure even this last statement
 is correct. Read my follow-up post, [What is the spirit of open
-source?](http://haacked.com/archive/2012/02/22/spirit-of-open-source.aspx "Spirit of OS")
+source?](https://haacked.com/archive/2012/02/22/spirit-of-open-source.aspx "Spirit of OS")
 
 *^1^Although the Free Software Foundation*[*recognizes the MS-PL (and
 MS-RL) as a free software

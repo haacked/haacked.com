@@ -9,11 +9,11 @@ redirect_from: "/archive/2007/06/02/windows-live-writer-manifest-for-subtext.asp
 ---
 
 ![Panel
-View](http://haacked.com/images/haacked_com/WindowsLiveWriter/WindowsLiveWriterManifestForSubtext_DE77/wlmPanel_1_1.png)
+View](https://haacked.com/images/haacked_com/WindowsLiveWriter/WindowsLiveWriterManifestForSubtext_DE77/wlmPanel_1_1.png)
 Microsoft recently released [Windows Live Writer Beta
 2](http://writer.live.com/ "Windows Live Writer"), the long awaited next
 version of their blog editing tool. Although there are a *[few
-quirks](http://haacked.com/archive/2006/08/14/WindowsLiveWriterFirstImpression.aspx "First Impression of Windows Live Writer")*
+quirks](https://haacked.com/archive/2006/08/14/WindowsLiveWriterFirstImpression.aspx "First Impression of Windows Live Writer")*
 with WLW, I find the user interface and usability to be really nice.
 They make great use of the right sidebar panel.
 
@@ -41,7 +41,7 @@ Subtext.
 Subtext remains committed to providing a great experience when using
 Windows Live Writer with a Subtext blog. We were quick to support
 [Really Simple Discovery
-(RSD)](http://haacked.com/archive/2006/08/15/WhatIsReallySimpleDiscoveryRSD.aspx "What is Really Simple Discovery?")
+(RSD)](https://haacked.com/archive/2006/08/15/WhatIsReallySimpleDiscoveryRSD.aspx "What is Really Simple Discovery?")
 and the
 [newMediaObject](http://www.xmlrpc.com/metaWeblogApi#metaweblognewmediaobject "newMediaObject method")
 method of the [MetaWeblog

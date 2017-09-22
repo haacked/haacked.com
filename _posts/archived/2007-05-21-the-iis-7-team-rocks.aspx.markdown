@@ -9,7 +9,7 @@ redirect_from: "/archive/2007/05/20/the-iis-7-team-rocks.aspx/"
 ---
 
 I recently wrote about some [503 Service Unavailable
-Errors](http://haacked.com/archive/2007/05/18/service-unavailable-errors-in-iis-7-are-killing-me.aspx "Service Unavailable in IIS 7")
+Errors](https://haacked.com/archive/2007/05/18/service-unavailable-errors-in-iis-7-are-killing-me.aspx "Service Unavailable in IIS 7")
 with IIS 7 that had me completely stumped. I tried everything I could
 think of to no avail.
 

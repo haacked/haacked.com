@@ -29,17 +29,17 @@ advance the timetable on such a feature, in theory.
 
 I tried to run the analyzer on every assembly in the bin directory of
 Subtext, but the analyzer threw an exception, doh!  That’s my “[Gift
-Finger](http://haacked.com/archive/2005/07/11/Debugging-Detective-Stories.aspx "Debugging Detective Stories")”
+Finger](https://haacked.com/archive/2005/07/11/Debugging-Detective-Stories.aspx "Debugging Detective Stories")”
 at work (*I could not find where to submit error reports so I sent an
 email to Mr. Pobst. I hope he doesn’t mind*).
 
 [![Moma
-Exception](http://haacked.com/images/haacked_com/WindowsLiveWriter/MonoMigrationAnalyzer_9B03/MonoAnalyzerException_thumb%5B1%5D.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MonoMigrationAnalyzer_9B03/MonoAnalyzerException%5B5%5D.png)
+Exception](https://haacked.com/images/haacked_com/WindowsLiveWriter/MonoMigrationAnalyzer_9B03/MonoAnalyzerException_thumb%5B1%5D.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MonoMigrationAnalyzer_9B03/MonoAnalyzerException%5B5%5D.png)
 
 I then re-ran the analyzer selecting only the Subtext.\* assemblies.
 
 [![Subtext Moma
-Results](http://haacked.com/images/haacked_com/WindowsLiveWriter/MonoMigrationAnalyzer_9B03/Moma-Results_thumb%5B6%5D.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MonoMigrationAnalyzer_9B03/Moma-Results%5B12%5D.png)
+Results](https://haacked.com/images/haacked_com/WindowsLiveWriter/MonoMigrationAnalyzer_9B03/Moma-Results_thumb%5B6%5D.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MonoMigrationAnalyzer_9B03/Moma-Results%5B12%5D.png)
 
 As you can see, we call 12 methods that are still missing in Mono, 23
 methods that are not yet implemented, and 13 on their to do list. 
@@ -50,13 +50,13 @@ In a really smart move, Moma also makes it quite easy to submit results
 to the Mono team.
 
 [![Submit
-Results](http://haacked.com/images/haacked_com/WindowsLiveWriter/MonoMigrationAnalyzer_9B03/Moma-Submit-Results_thumb%5B1%5D.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MonoMigrationAnalyzer_9B03/Moma-Submit-Results%5B3%5D.png)
+Results](https://haacked.com/images/haacked_com/WindowsLiveWriter/MonoMigrationAnalyzer_9B03/Moma-Submit-Results_thumb%5B1%5D.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MonoMigrationAnalyzer_9B03/Moma-Submit-Results%5B3%5D.png)
 
 This is a great way to help them plan ahead and prioritize their
 efforts.  Just for fun, I ran Moma against the [BlogML
 2.0](http://codeplex.com/Wiki/View.aspx?ProjectName=BlogML "BlogML on CodePlex")
 assembly and it passed with flying colors.   [![Moma Blogml
-results](http://haacked.com/images/haacked_com/WindowsLiveWriter/MonoMigrationAnalyzer_9B03/Moma-BlogMl-Results_thumb%5B3%5D.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/MonoMigrationAnalyzer_9B03/Moma-BlogMl-Results%5B7%5D.png)
+results](https://haacked.com/images/haacked_com/WindowsLiveWriter/MonoMigrationAnalyzer_9B03/Moma-BlogMl-Results_thumb%5B3%5D.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MonoMigrationAnalyzer_9B03/Moma-BlogMl-Results%5B7%5D.png)
 
 Nice!
 

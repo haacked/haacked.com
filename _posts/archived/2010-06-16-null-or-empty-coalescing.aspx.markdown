@@ -10,13 +10,13 @@ redirect_from: "/archive/2010/06/15/null-or-empty-coalescing.aspx/"
 ---
 
 In my last blog post, I wrote about the proper way to [check for empty
-enumerations](http://haacked.com/archive/2010/06/10/checking-for-empty-enumerations.aspx "Checking For Empty Enumerations")
+enumerations](https://haacked.com/archive/2010/06/10/checking-for-empty-enumerations.aspx "Checking For Empty Enumerations")
 and proposed an `IsNullOrEmpty` method for collections which sparked a
 lot of discussion.
 
 This post covers a similar issue, but from a different angle. A very
 long time ago, I wrote about my [love for the null coalescing
-operator](http://haacked.com/archive/2006/08/07/tinytrickforviewstatebackedproperties.aspx/ "Null Coalescing Operator").
+operator](https://haacked.com/archive/2006/08/07/tinytrickforviewstatebackedproperties.aspx/ "Null Coalescing Operator").
 However, over time, I’ve found it to be not quite as useful as it could
 be when dealing with strings. For example, here’s the code I might want
 to write:

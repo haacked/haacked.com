@@ -11,7 +11,7 @@ redirect_from: "/archive/2007/06/19/what-a-difference-a-revision-makes---iconfig
 
 A few people mentioned that they had the following compiler error when
 trying to compile
-[HttpSimulator](http://haacked.com/archive/2007/06/19/unit-tests-web-code-without-a-web-server-using-httpsimulator.aspx "Unit Test Web Code Without A Web Server Using HttpSimulator"):
+[HttpSimulator](https://haacked.com/archive/2007/06/19/unit-tests-web-code-without-a-web-server-using-httpsimulator.aspx "Unit Test Web Code Without A Web Server Using HttpSimulator"):
 
 > HttpSimulator.cs(722,38): error CS0122:
 > ’System.Web.Configuration.IConfigMapPath’ is inaccessible due to its
@@ -24,7 +24,7 @@ something that doesn’t even compile, I’d like to point out that it
 [works on my
 machine](http://www.codinghorror.com/blog/archives/000818.html "Works on my machine certification").
 
-[![works-on-my-machine-starburst](http://haacked.com/images/haacked_com/WindowsLiveWriter/IConfigMapPathIsInaccessibleDueToItsProt_1446B/works-on-my-machine-starburst_thumb.png)](http://haacked.com/images/haacked_com/WindowsLiveWriter/IConfigMapPathIsInaccessibleDueToItsProt_1446B/works-on-my-machine-starburst.png)Fortunately,
+[![works-on-my-machine-starburst](https://haacked.com/images/haacked_com/WindowsLiveWriter/IConfigMapPathIsInaccessibleDueToItsProt_1446B/works-on-my-machine-starburst_thumb.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/IConfigMapPathIsInaccessibleDueToItsProt_1446B/works-on-my-machine-starburst.png)Fortunately,
 we have our expert build problem solver, [Simone
 Chiaretta](http://codeclimber.net.nz/ "Simone Chiaretta"), to look into
 it.

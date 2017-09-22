@@ -29,7 +29,7 @@ with the incomparable [Scott Hanselman](http://hanselman.com/). Usually
 that means him taking potshots at me for your enjoyment. ARE YOU NOT
 ENTERTAINED?!
 
-[![are\_you\_not\_entertained-135569](http://haacked.com/images/haacked_com/WindowsLiveWriter/UpcomingSpeakingGigs_899A/are_you_not_entertained-135569_thumb.jpg "are_you_not_entertained-135569")](http://haacked.com/images/haacked_com/WindowsLiveWriter/UpcomingSpeakingGigs_899A/are_you_not_entertained-135569_2.jpg)
+[![are\_you\_not\_entertained-135569](https://haacked.com/images/haacked_com/WindowsLiveWriter/UpcomingSpeakingGigs_899A/are_you_not_entertained-135569_thumb.jpg "are_you_not_entertained-135569")](https://haacked.com/images/haacked_com/WindowsLiveWriter/UpcomingSpeakingGigs_899A/are_you_not_entertained-135569_2.jpg)
 
 You will be!
 
@@ -94,8 +94,7 @@ to keep us down. FIGHT THE POWER!
 
 Check it out.
 
-Tags: [speaking](http://haacked/tags/speaking/default.aspx),
-[talks](http://haacked/tags/talks/default.aspx),
-[opensource](http://haacked/tags/opensource/default.aspx),
-[podcast](http://haacked/tags/podcast/default.aspx)
-
+Tags: [speaking](https://haacked.com/tags/speaking/default.aspx),
+[talks](https://haacked.com/tags/talks/default.aspx),
+[opensource](https://haacked.com/tags/opensource/default.aspx),
+[podcast](https://haacked.com/tags/podcast/default.aspx)

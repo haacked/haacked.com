@@ -201,5 +201,5 @@ Install-Package HttpModuleMagic
 
 Note that this requires that you install it into an application with the
 [ASP.NET MVC 3
-assemblies](http://haacked.com/archive/2011/05/25/bin-deploying-asp-net-mvc-3.aspx "Bin deploying ASP.NET MVC 3").
+assemblies](https://haacked.com/archive/2011/05/25/bin-deploying-asp-net-mvc-3.aspx "Bin deploying ASP.NET MVC 3").
 

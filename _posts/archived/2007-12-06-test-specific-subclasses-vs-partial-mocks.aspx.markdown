@@ -154,8 +154,8 @@ don’t like to subscribe to *arbitrary* rules that only make writing
 tests harder and don’t seem to provide any measurable benefit based on
 some vague *feeling*of dirtiness.
 
-Tags: [TDD](http://haacked.com/tags/tdd/default.aspx "TDD tag") , [Unit
-Testing](http://haacked.com/tags/Unit%20Testing/default.aspx "Unit Testing tag")
+Tags: [TDD](https://haacked.com/tags/tdd/default.aspx "TDD tag") , [Unit
+Testing](https://haacked.com/tags/Unit%20Testing/default.aspx "Unit Testing tag")
 , [Test Specific
-Subclass](http://haacked.com/tags/Test%20Specific%20Subclass/default.aspx "Test Specific Subclass tag")
+Subclass](https://haacked.com/tags/Test%20Specific%20Subclass/default.aspx "Test Specific Subclass tag")
 

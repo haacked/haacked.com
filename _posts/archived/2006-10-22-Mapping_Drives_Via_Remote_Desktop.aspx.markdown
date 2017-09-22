@@ -18,8 +18,8 @@ connection](http://stevenharman.net/blog/archive/2006/10/22/Mapping_Drives_via_R
 This is a handy tip to go with these others:
 
 -   [Remote Desktop on a Non-Standard
-    Port](http://haacked.com/archive/2006/10/17/Remote_Desktop_On_A_NonStandard_Port.aspx "Using alternate ports")
+    Port](https://haacked.com/archive/2006/10/17/Remote_Desktop_On_A_NonStandard_Port.aspx "Using alternate ports")
 -   [Connecting To Remote Server When Active Sessions Are
-    Used](http://haacked.com/archive/2005/10/13/Remote_Desktop_To_Console_Session.aspx "How to remote into the console")
+    Used](https://haacked.com/archive/2005/10/13/Remote_Desktop_To_Console_Session.aspx "How to remote into the console")
 
 

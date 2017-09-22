@@ -24,7 +24,7 @@ are both licensed under
 the [GPL](http://www.gnu.org/copyleft/gpl.html) which I won’t allow near
 [Subtext](http://subtextproject.com/) (for more on open source licenses,
 see [my series on the
-topic](http://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx)).
+topic](https://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx)).
 
 So I recently implemented an API for Akismet in C\# to share with the
 [DasBlog](http://www.dasblog.net/) (*despite the bitter public

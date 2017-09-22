@@ -11,7 +11,7 @@ redirect_from: "/archive/2004/12/03/an-improved-plugin-for-using-wbloggar-with-r
 Recently I received some [kind words from Scott
 Reynolds](http://www.scottcreynolds.com/PermaLink.aspx?guid=a5cfb397-c353-4b50-a68c-5617a1bc7bdb)
 regarding my "[excellent
-tutorial](http://haacked.com/archive/2004/06/19/651.aspx)" on writing
+tutorial](https://haacked.com/archive/2004/06/19/651.aspx)" on writing
 IBlogExtensions for RSS Bandit. Using my tutorial, he wrote a plug-in to
 send items in RSS Bandit to One Note. (There's another plug-in that does
 the same thing
@@ -38,14 +38,14 @@ is a link to the main blog. If some of this information is not available
 in the feed, the text is even more generic.
 
 You can grab the [plug-in dll
-here](http://haacked.com/code/BlogThisUsingWBloggarPlugin.zip). Just
+here](https://haacked.com/code/BlogThisUsingWBloggarPlugin.zip). Just
 copy it to the plugins directory within the RSS Bandit installation
 directory. For me, that's in "c:\\Program Files\\RssBandit\\plugins".
 You might want to back up the old plug-in before overwriting it with
 this new one.
 
 The Visual Studio.NET 2003 C\# project file is also [available
-here](http://haacked.com/code/BlogThisUsingWBloggarPluginProject.zip).
+here](https://haacked.com/code/BlogThisUsingWBloggarPluginProject.zip).
 
 The plug-in makes use of embedded XSLT files for each type of post. In
 the future, it would be quite easy to allow user defined XSLT files that

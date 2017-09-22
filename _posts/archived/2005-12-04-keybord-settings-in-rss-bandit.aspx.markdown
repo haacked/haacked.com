@@ -20,7 +20,7 @@ tool for RSS Bandit.
 
 I wrote up a two-part article about how keyboard settings are
 implemented, but the only [part you really need is part
-2](http://haacked.com/archive/2005/03/22/2427.aspx) in which I describe
+2](https://haacked.com/archive/2005/03/22/2427.aspx) in which I describe
 a quick and dirty tool for modifying keyboard settings.
 
 This tool simply provides a GUI for modifying the ShortcutSettings.xml

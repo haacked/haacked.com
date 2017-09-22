@@ -15,7 +15,7 @@ Freudenberg](http://thomasfreudenberg.com/ "Thomas Freudenberg") and
 out the discrepancy.
 
 In a recent post I warned against needlessly using [double check
-locking](http://haacked.com/archive/2007/03/19/double-check-locking-and-other-premature-optimizations-can-shoot-you.aspx "Double Check Locking")
+locking](https://haacked.com/archive/2007/03/19/double-check-locking-and-other-premature-optimizations-can-shoot-you.aspx "Double Check Locking")
 for static members such as a Singleton. By using a static initializer,
 the creation of your Singleton member is thread safe. However the story
 does not end there.

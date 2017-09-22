@@ -10,7 +10,7 @@ redirect_from: "/archive/2007/01/21/Easy_To_Deploy_Identicon_Handler.aspx/"
 ---
 
 Yesterday [I
-mentioned](http://haacked.com/archive/2007/01/22/Identicons_as_Visual_Fingerprints.aspx "Identicons as Visual Fingerprints")
+mentioned](https://haacked.com/archive/2007/01/22/Identicons_as_Visual_Fingerprints.aspx "Identicons as Visual Fingerprints")
 that [Jeff
 Atwood](http://codinghorror.com/blog/ "CodingHorror, Jeff Atwood's Blog")
 and [Jon
@@ -32,12 +32,12 @@ handler.
 `<img src="IdenticonHandler.ashx?hash=hash-of-ip-address" />`
 
 [[Download
-Binaries](http://haacked.com/code/IdenticonHandler.zip "Identicon Binaries")]
+Binaries](https://haacked.com/code/IdenticonHandler.zip "Identicon Binaries")]
 
 You can also grab the Solution I used to prepare the binaries.
 
 [[Download
-Source](http://haacked.com/code/IdenticonHandler_SOURCE.zip "Identicon Handler Source")]
+Source](https://haacked.com/code/IdenticonHandler_SOURCE.zip "Identicon Handler Source")]
 
 **Gravatar Tip!**
 

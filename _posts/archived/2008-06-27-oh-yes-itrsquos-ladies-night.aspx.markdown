@@ -12,10 +12,10 @@ redirect_from: "/archive/2008/06/26/oh-yes-itrsquos-ladies-night.aspx/"
 
 …and the feeling’s right.
 
-![phil-and-akumi](http://haacked.com/images/haacked_com/WindowsLiveWriter/OhYesItsLadiesNight_C6C2/phil-and-akumi_3.jpg "phil-and-akumi")
+![phil-and-akumi](https://haacked.com/images/haacked_com/WindowsLiveWriter/OhYesItsLadiesNight_C6C2/phil-and-akumi_3.jpg "phil-and-akumi")
 If I can muster up the time and motivation, I like to try and post
 lighter more humorous fare on Fridays such as my [recent RAS Syndrome
-post](http://haacked.com/archive/2008/06/13/ras-syndrome.aspx "RAS Syndrome").
+post](https://haacked.com/archive/2008/06/13/ras-syndrome.aspx "RAS Syndrome").
 
 On this beautiful Friday day (is that redundant too?), I started off
 fresh out of ideas (and motivation) so I wasn’t planning on writing a
@@ -54,7 +54,7 @@ and then there’s me, the short end of the stick.
 Now Jeff might have over 10 times the subscribers I have, Joel may be
 the most famous and respected of the bunch, and Scott may have the edge
 on me [in terms of
-~~fore~~fivehead](http://haacked.com/archive/2006/09/18/My_Sandwich_Compartment_ForeheadAgain.aspx "My Sandwhich Compartment Forhead"),
+~~fore~~fivehead](https://haacked.com/archive/2006/09/18/My_Sandwich_Compartment_ForeheadAgain.aspx "My Sandwhich Compartment Forhead"),
 but guess who wins the only metric that matters?
 
 That’s right, **me suckas**!

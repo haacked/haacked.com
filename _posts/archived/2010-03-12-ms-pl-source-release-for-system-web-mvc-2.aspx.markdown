@@ -13,7 +13,7 @@ redirect_from: "/archive/2010/03/11/ms-pl-source-release-for-system-web-mvc-2.as
 ---
 
 Hot on the heels of the [release of ASP.NET MVC 2
-yesterday](http://haacked.com/archive/2010/03/11/aspnet-mvc2-released.aspx "ASP.NET MVC 2 Released!"),
+yesterday](https://haacked.com/archive/2010/03/11/aspnet-mvc2-released.aspx "ASP.NET MVC 2 Released!"),
 I’m happy to announce that we are **releasing the source code to ASP.NET
 MVC 2 under the**[**Ms-PL
 license**](http://www.opensource.org/licenses/ms-pl.html "Ms-PL License text"),
@@ -21,7 +21,7 @@ an OSI approved Open Source license.
 
 This continues the trend from nearly a year ago when we released ASP.NET
 MVC 1.0 under the Ms-PL. You can [read my blog post
-there](http://haacked.com/archive/2009/04/01/aspnetmvc-open-source.aspx "Open Source License for System.Web.Mvc")
+there](https://haacked.com/archive/2009/04/01/aspnetmvc-open-source.aspx "Open Source License for System.Web.Mvc")
 to learn more about the hard work that goes into such releases.
 
 While I’m one who loves lawyer jokes, I do appreciate the work that they

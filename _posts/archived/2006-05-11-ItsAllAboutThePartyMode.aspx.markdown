@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/05/10/ItsAllAboutThePartyMode.aspx/"
 ---
 
-![Party Mode Button](http://haacked.com/images/PartyModeButton.jpg) It
+![Party Mode Button](https://haacked.com/images/PartyModeButton.jpg) It
 is so easy to get caught up in your day to day work and home duties and
 forget to take a break to really cut loose. The answer, my friends, is
 that big red button in the image to the left there. That there initiates

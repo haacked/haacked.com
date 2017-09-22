@@ -22,7 +22,7 @@ course, but I cannot spend as much time writing code as I have been in
 the past.
 
 However, my [Subtext recruiting
-post](http://haacked.com/archive/2006/11/03/Seriously_Cool_Jobs_Available.aspx "Cool Jobs Available")
+post](https://haacked.com/archive/2006/11/03/Seriously_Cool_Jobs_Available.aspx "Cool Jobs Available")
 was quite successful and many new developers have joined in to keep
 Subtext humming along. Not only that, developers who have long been
 involved with Subtext have also picked up the slack with major
@@ -38,7 +38,7 @@ three of us have long talked about writing a book together, and this
 opportunity from [SitePoint](http://www.sitepoint.com/ "SitePoint") came
 along at the right time.  We just signed the contract recently and
 already I am panicking about the various deadlines.
-![Wink](http://haacked.com/Images/emotions/smiley-wink.gif)
+![Wink](https://haacked.com/Images/emotions/smiley-wink.gif)
 
 It’s good to get the panic and self-doubts over with early (*everyone
 will hate the book...no worse, they'll be indifferent to the book and

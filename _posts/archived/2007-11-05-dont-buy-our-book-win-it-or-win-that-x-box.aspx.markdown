@@ -9,7 +9,7 @@ redirect_from: "/archive/2007/11/04/dont-buy-our-book-win-it-or-win-that-x-box.a
 ---
 
 Recently I [gave out a few free
-copies](http://haacked.com/archive/2007/10/04/get-a-free-copy-of-our-new-book.aspx "Get a Free Copy of our new book")
+copies](https://haacked.com/archive/2007/10/04/get-a-free-copy-of-our-new-book.aspx "Get a Free Copy of our new book")
 of a book I co-wrote, but ran out quickly. This is the same book that
 [Jeff Atwood](http://codinghorror.com/ "Jeff Atwood") (a co-author) told
 everyone, [*Do Not Buy This
@@ -22,14 +22,14 @@ forums (ooh, that could get...interesting. *First Post!*or*I
 Agree!*Count it up.) with great prizes.
 
 ![ASP.NET 2.0
-Anthology](http://haacked.com/images/haacked_com/WindowsLiveWriter/DontBuyOurBookWinItOrWinthatXBoxYourChoi_8699/aspnetAnthology_5.gif)
+Anthology](https://haacked.com/images/haacked_com/WindowsLiveWriter/DontBuyOurBookWinItOrWinthatXBoxYourChoi_8699/aspnetAnthology_5.gif)
 Unfortunately, our book is part of a second prize package which includes
 ANTS Profiler Pro. Our book is also the third-prize.
 
 Why is that unfortunate?
 
 ![XBox 360
-Elite](http://haacked.com/images/haacked_com/WindowsLiveWriter/DontBuyOurBookWinItOrWinthatXBoxYourChoi_8699/xboxelite_3.jpg)
+Elite](https://haacked.com/images/haacked_com/WindowsLiveWriter/DontBuyOurBookWinItOrWinthatXBoxYourChoi_8699/xboxelite_3.jpg)
 Because if you want a free copy of our book, you have to try real hard
 not to do too well that you win first prize, which is an XBox 360 Elite
 along with Telerik RadControls. Once you got your hands on Halo 3 or

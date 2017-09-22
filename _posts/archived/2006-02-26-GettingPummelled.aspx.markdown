@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/02/25/GettingPummelled.aspx/"
 ---
 
-![Soccer Ball](http://haacked.com/images/SoccerBallBW.jpg)This week,
+![Soccer Ball](https://haacked.com/images/SoccerBallBW.jpg)This week,
 I’ve had the pleasure of being pummelled in soccer not once, but twice.
 
 As I mentioned in [a previous

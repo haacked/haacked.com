@@ -10,15 +10,15 @@ redirect_from: "/archive/2009/04/21/next-stop-norway.aspx/"
 
 Because of all the travel I did last year as well as the [impending new
 addition to the
-family](http://haacked.com/archive/2009/04/07/my-little-world-domination-backup.aspx "World Domination Plan")
+family](https://haacked.com/archive/2009/04/07/my-little-world-domination-backup.aspx "World Domination Plan")
 this year, I drastically cut down on my travel this year. There are only
 two conferences outside of Redmond I planned to speak at, one was Mix
 ([see the links to videos of my
-talks](http://haacked.com/archive/2009/03/24/aspnetmvc-sessions-mix.aspx "ASP.NET MVC Sessions at Mix"))
+talks](https://haacked.com/archive/2009/03/24/aspnetmvc-sessions-mix.aspx "ASP.NET MVC Sessions at Mix"))
 and the next one is the [Norwegian Developer
 Conference](http://ndc2009.no/en/ "NDC") also known as the NDC.
 
-![NDC\_logo-2009](http://haacked.com/images/haacked_com/WindowsLiveWriter/NextStopNorway_8254/NDC_logo-2009_3.png "NDC_logo-2009")[Hanselman](http://hanselman.com/ "Scott Hanselman's Blog")
+![NDC\_logo-2009](https://haacked.com/images/haacked_com/WindowsLiveWriter/NextStopNorway_8254/NDC_logo-2009_3.png "NDC_logo-2009")[Hanselman](http://hanselman.com/ "Scott Hanselman's Blog")
 spoke at this conference last year and tells me it’s a good one.
 Besides, it’s in Norway! I’ve travelled through Norway once during
 college, taking a train from Oslo to Bergen, riding a boat on the

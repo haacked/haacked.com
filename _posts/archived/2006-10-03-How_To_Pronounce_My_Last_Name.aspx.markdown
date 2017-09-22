@@ -27,5 +27,5 @@ in,
 
 On the show Rob pronounced it *Hock* which is only okay if you are
 British, which Rob is not.  I already gave Rob crap about it, so we’re
-cool. ![Wink](http://haacked.com/Images/emotions/smiley-wink.gif)
+cool. ![Wink](https://haacked.com/Images/emotions/smiley-wink.gif)
 

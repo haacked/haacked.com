@@ -34,7 +34,7 @@ file calling `COPY` once per file. Instead it lets `COPY` handle that
 internally and more efficiently. How did I not know about this?
 
 ~~So I wrote a one minute app by simply scavenging the code from
-[BatchEncode](http://haacked.com/archive/2006/09/20/Batch_Encode_Text_Files.aspx)
+[BatchEncode](https://haacked.com/archive/2006/09/20/Batch_Encode_Text_Files.aspx)
 and concatenating text files instead.~~
 
     USAGE: batchconcat EXTENSION ENCODING OUTPUT

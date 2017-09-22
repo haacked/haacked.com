@@ -83,10 +83,10 @@ projects, just not daily.
 
 In a recent post, I highlighted some of the work we’re doing around
 [integrating third party unit testing
-frameworks](http://haacked.com/archive/2008/02/12/asp.net-mvc-update.aspx "ASP.NET MVC Update").
+frameworks](https://haacked.com/archive/2008/02/12/asp.net-mvc-update.aspx "ASP.NET MVC Update").
 
 ![Unit Testing
-Frameworks](http://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVCUpdate_C69C/UnitTestingFrameworks_3.png)
+Frameworks](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVCUpdate_C69C/UnitTestingFrameworks_3.png)
 
 I’ve been in contact with various unit testing framework developers
 about integrating their frameworks with the MVC project template. I’m

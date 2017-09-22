@@ -15,7 +15,7 @@ and made a dumb error. I should have a unit test for our NAnt script. ;)
 I’ll write up a post later describing the issue.
 
 So I guess [my fears of the
-release](http://haacked.com/archive/2006/03/03/ReflectionsOnTheRelease.aspx "Reflections on the Release")
+release](https://haacked.com/archive/2006/03/03/ReflectionsOnTheRelease.aspx "Reflections on the Release")
 weren’t totally out of order. The first major bug report has come in.
 Fortunately it is an extremely easy fix.
 
@@ -28,12 +28,12 @@ this.
 
 In the meanwhile, I just updated the distribution in SourceForge. For
 those of you who already downloaded Subtext, please download and [unzip
-this file](http://haacked.com/images/emoticons.zip "emoticons file")
+this file](https://haacked.com/images/emoticons.zip "emoticons file")
 into the root directory of your Subtext site.
 
 For those of you about to download Subtext, [SourceForge has the
 corrected
 version](http://prdownloads.sourceforge.net/subtext/Subtext_1.0.0.2_INSTALL.zip?download "Download Subtext").
 
-Tags: [Subtext](http://haacked.com/tags/subtext/default.aspx)
+Tags: [Subtext](https://haacked.com/tags/subtext/default.aspx)
 

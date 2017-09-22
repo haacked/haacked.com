@@ -36,7 +36,7 @@ placement.
 > to evaluate how usable it is.
 
 ![Eye Tracking
-Map](http://haacked.com/images/haacked_com/WindowsLiveWriter/WhereShouldYouPlaceYourLabelsInYourForm_11304/test36.jpg)
+Map](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhereShouldYouPlaceYourLabelsInYourForm_11304/test36.jpg)
 
 Based on these articles, James decides that non-bold labels above input
 fields are the best for usability. Interestingly enough, a non-bold

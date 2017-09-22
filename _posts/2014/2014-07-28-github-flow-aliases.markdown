@@ -6,7 +6,7 @@ comments: true
 categories: [git github]
 ---
 
-_BONUS! I've added a [useful 14th Git Alias](http://haacked.com/archive/2015/06/29/git-migrate/): `git migrate` and now a 15th useful alias to [open the repository in the browser](http://haacked.com/archive/2017/01/04/git-alias-open-url/)_
+_BONUS! I've added a [useful 14th Git Alias](https://haacked.com/archive/2015/06/29/git-migrate/): `git migrate` and now a 15th useful alias to [open the repository in the browser](https://haacked.com/archive/2017/01/04/git-alias-open-url/)_
 
 [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html) is a Git work flow with a simple branching model. The following diagram of this flow is from Zach Holman's talk on [How GitHub uses GitHub to build GitHub](http://zachholman.com/talk/how-github-uses-github-to-build-github/).
 
@@ -90,7 +90,7 @@ Sometimes, I just want to save my work in a commit without having to think of a 
 
 ```ini
     save = !git add -A && git commit -m 'SAVEPOINT'
-    wip = commit -am "WIP" 
+    wip = commit -am "WIP"
 ```
 
 When I return to work, I'll just use `git undo` which resets the previous commit, but keeps all the changes from that commit in the working directory.
@@ -173,7 +173,7 @@ Here's a list of all the aliases together for your convenience.
     cob = checkout -b
     cm = !git add -A && git commit -m
     save = !git add -A && git commit -m 'SAVEPOINT'
-    wip = !git add -u && git commit -m "WIP" 
+    wip = !git add -u && git commit -m "WIP"
 	undo = reset HEAD~1 --mixed
     amend = commit -a --amend
     wipe = !git add -A && git commit -qm 'WIPE SAVEPOINT' && git reset HEAD~1 --hard

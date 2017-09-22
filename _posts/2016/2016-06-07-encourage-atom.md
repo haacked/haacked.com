@@ -10,7 +10,7 @@ The tagline for the [Atom text editor](https://atom.io/) is "A hackable text edi
 
 It accomplishes this hackability by building on [Electron](http://electron.atom.io/), a platform for building cross-platform desktop applications with web technology (HTML, CSS, and JavaScript). The ability to leverage these skills in order to extend your text editor is really powerful.
 
-I thought I'd put this to the test by building a simple extension for Atom. I decided to port the [Encourage extension for Visual Studio](http://haacked.com/archive/2014/06/20/encourage-vs/) I wrote a while back. For a lot of developers, this image rings true every day.
+I thought I'd put this to the test by building a simple extension for Atom. I decided to port the [Encourage extension for Visual Studio](https://haacked.com/archive/2014/06/20/encourage-vs/) I wrote a while back. For a lot of developers, this image rings true every day.
 
 ![How to program](https://cloud.githubusercontent.com/assets/19977/15877072/585bd80c-2cc6-11e6-8b6c-1daa39bfaa2c.png)
 
@@ -60,7 +60,7 @@ Publishing an Atom package is super easy. Push your code to a public GitHub repo
 
 I don't plan on investing a huge amount of time in this extension. It was more an exercise for me to learn about the Atom packaging system. If you're interested in helping out, I've already [started logging issues](https://github.com/haacked/encourage-atom/issues) such as being able to set the list of encouragements. I'd welcome the help!
 
-For example, I want to add the ability for those who use the package to set up their own encouragements. Or perhaps, discouragements. I actually find it really [funny when my editor shits on my code](http://haacked.com/archive/2014/07/30/visual-studios-extensions-settings/). In fact, it causes me to think harder about my code because I want to prove it wrong. I should probably stop with all this editor anthropomorphism, huh? Tell me what you think in the comments.
+For example, I want to add the ability for those who use the package to set up their own encouragements. Or perhaps, discouragements. I actually find it really [funny when my editor shits on my code](https://haacked.com/archive/2014/07/30/visual-studios-extensions-settings/). In fact, it causes me to think harder about my code because I want to prove it wrong. I should probably stop with all this editor anthropomorphism, huh? Tell me what you think in the comments.
 
 UPDATE: A couple days after publishing this package, [Nathan Armstrong (aka armstnp on GitHub)](https://github.com/armstnp) sent me a [pull request that implemented](https://github.com/Haacked/encourage-atom/pull/8) the ability to configure the list of encouragements via the `Package Settings` (Thanks!). This has been published in Encourage v0.2.0. To set this, go to the `Settings` view, select the `Packages` tab, and find "encourage" under the `Installed Packages` section. Then can click the `Settings` button for the package and update the comma separated list of encouragements.
 

@@ -11,7 +11,7 @@ redirect_from: "/archive/2009/01/29/delete-link-with-downlevel-support.aspx/"
 ---
 
 Earlier this morning, I posted on making a [simple jQuery delete
-link](http://haacked.com/archive/2009/01/30/simple-jquery-delete-link-for-asp.net-mvc.aspx#feedback "Simple jQuery Delete Link")
+link](https://haacked.com/archive/2009/01/30/simple-jquery-delete-link-for-asp.net-mvc.aspx#feedback "Simple jQuery Delete Link")
 which makes it easy to create a delete link that does a form post to a
 delete action. Commenters pointed out that my solution won’t work for
 down-level browsers such as some mobile phones, and they were right. I

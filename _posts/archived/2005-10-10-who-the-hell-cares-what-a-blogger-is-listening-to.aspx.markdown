@@ -18,7 +18,7 @@ iTunes) that allows the blogger to easily insert information about what
 is currently playing.
 
 So in the comments of [my last
-post](http://haacked.com/archive/2005/10/10/10657.aspx), [Jeff
+post](https://haacked.com/archive/2005/10/10/10657.aspx), [Jeff
 Atwood](http://www.codinghorror.com/blog/) asks the pertinent question
 (and I’m paraphrasing here).
 

@@ -78,7 +78,7 @@ That’s some ugly code. If only there were a way to write a version of
 `RenderSection` that could accept some Razor markup as a parameter to
 the method.
 
-[Templated Razor Delegates](http://haacked.com/archive/2011/02/27/templated-razor-delegates.aspx "Templated Razor Delegates") to the rescue! See, I told you these things would come in handy.
+[Templated Razor Delegates](https://haacked.com/archive/2011/02/27/templated-razor-delegates.aspx "Templated Razor Delegates") to the rescue! See, I told you these things would come in handy.
 
 We can write an extension method on `WebPageBase` that encapsulates this
 bit of ugly boilerplate code. Here’s the implementation.
@@ -108,7 +108,7 @@ extension method on the current class, you have to call it using the
 `this` kewyord.
 
 Remember when I wrote about [how to change the base type of a Razor
-view](http://haacked.com/archive/2011/02/21/changing-base-type-of-a-razor-view.aspx "Changing the base type of a Razor view")?
+view](https://haacked.com/archive/2011/02/21/changing-base-type-of-a-razor-view.aspx "Changing the base type of a Razor view")?
 Here’s a case where that really comes in handy.
 
 What we can do is write our own custom base page type (such as the

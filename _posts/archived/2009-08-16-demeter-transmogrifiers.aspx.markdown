@@ -9,7 +9,7 @@ redirect_from: "/archive/2009/08/15/demeter-transmogrifiers.aspx/"
 ---
 
 In a recent post, [The Law of Demeter Is Not A Dot Counting
-Exercise](http://haacked.com/archive/2009/07/14/law-of-demeter-dot-counting.aspx "Law of Demeter Dot Counting"),
+Exercise](https://haacked.com/archive/2009/07/14/law-of-demeter-dot-counting.aspx "Law of Demeter Dot Counting"),
 I wanted to peer into the dark depths of the Law of Demeter to
 understand it’s real purpose. In the end I concluded that the real goal
 of the guideline is to reduce coupling, not dots, which was a relief
@@ -45,7 +45,7 @@ propagate a property or method to the caller. In fact, this is so common
 there’s a term for such a wrapper. It’s called a [Demeter
 Transmogrifier](http://en.wikipedia.org/wiki/Transmogrifier_(computer_science) "Transmogrifier on Wikipedia")!
 
-![transmogrifier\_small](http://haacked.com/images/haacked_com/WindowsLiveWriter/DemeterTransmogrifiersToTheRescue_9721/transmogrifier_small_3.jpg "transmogrifier_small")
+![transmogrifier\_small](https://haacked.com/images/haacked_com/WindowsLiveWriter/DemeterTransmogrifiersToTheRescue_9721/transmogrifier_small_3.jpg "transmogrifier_small")
 
 Who knew that Calvin was such a rock star software developer?
 

@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2006/08/13/funiteratingpagedcollectionswithgenericsanditerators.aspx/"
 ---
 
-![Book](http://haacked.com/images/IteratingABookofPagedCollectionsUsingIte_55B/BlankBook_thumb.jpg)
+![Book](https://haacked.com/images/IteratingABookofPagedCollectionsUsingIte_55B/BlankBook_thumb.jpg)
 Oh boy are you in for a roller coaster ride now!
 
 Let me start with a question, *How do you iterate through a large

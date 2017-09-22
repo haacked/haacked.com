@@ -12,7 +12,7 @@ redirect_from: "/archive/2006/01/18/GrantingCommitAccesstoOpenSourceProjects.asp
 Every open source project has its own procedures for granting the
 all-important commit access to developers. Some require a set number of
 submitted patches (which Fogel, author of [Producing Open Source
-Software](http://haacked.com/archive/2006/01/16/RunningAnOpenSourceProject.aspx "Previous Blog Post About This Book"),
+Software](https://haacked.com/archive/2006/01/16/RunningAnOpenSourceProject.aspx "Previous Blog Post About This Book"),
 warns against). Others do not have any clear process and rely on the
 whims of those with the ability to add other committers. Whichever
 procedure your project chooses, it is important make sure make sure it

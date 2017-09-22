@@ -12,7 +12,7 @@ redirect_from: "/archive/2004/07/22/im-going-on-vacation.aspx/"
 work. Wohoo! Well actually, I'm only on vacation from my day job. Monday
 and Tuesday I'll be working on some contracts I've got going on the
 side. Then on Wednesday, the little lady and I are [heading out to
-Seattle](http://haacked.com/archive/2004/06/29/707.aspx) to visit her
+Seattle](https://haacked.com/archive/2004/06/29/707.aspx) to visit her
 best friend. Hopefully I'll have some time to work on RSS Bandit too.
 
 Tonight I'll be going out for a few drinks with my buddy Micah. He quit
@@ -23,6 +23,6 @@ cost.
 
 Saturday night, I have a big soccer game. Sunday I have an acupuncture
 appointment and we're going to the [Hollywood
-Bowl](http://haacked.com/archive/2004/07/23/838.aspx) concert. Whew!
+Bowl](https://haacked.com/archive/2004/07/23/838.aspx) concert. Whew!
 We're pretty busy this weekend.
 

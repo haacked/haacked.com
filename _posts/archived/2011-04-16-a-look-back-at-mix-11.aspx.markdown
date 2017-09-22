@@ -23,17 +23,17 @@ now, my team and I can take a moment to breath as we start making big
 plans for ASP.NET MVC 4. It’s interesting to me to think that the
 version number for ASP.NET MVC is quickly catching up to the version of
 ASP.NET proper.
-![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/wlEmoticon-smile_2.png)
 
 Once again, Mix has continued to be one of my favorite conferences due
 to the eclectic mix of folks who attend.
 
-[![trouble-inc](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/trouble-inc_thumb.jpg "trouble-inc")](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/trouble-inc_2.jpg)
+[![trouble-inc](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/trouble-inc_thumb.jpg "trouble-inc")](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/trouble-inc_2.jpg)
 
 The previous photo was taken from [Joey De Villa’s Blog
 post](http://www.globalnerdy.com/2011/04/13/trouble-inc/ "Trouble, Inc").
 
-[![Me-and-elvis](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/Me-and-elvis_thumb.jpg "Me-and-elvis")](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/Me-and-elvis_2.jpg)
+[![Me-and-elvis](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/Me-and-elvis_thumb.jpg "Me-and-elvis")](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/Me-and-elvis_2.jpg)
 
 It’s not just a conference where you’ll run into Scott Guthrie and
 Hanselman, but you’ll also run into [Douglas
@@ -53,7 +53,7 @@ the audience survey questions. The application is hosted at
 
 **Errata:** I ran into a few problems during this talk, which I will
 cover [in a follow-up blog post about speaking
-tips](http://haacked.com/archive/2011/04/18/presentation-tips.aspx "Presentation Tips From My Mistakes")
+tips](https://haacked.com/archive/2011/04/18/presentation-tips.aspx "Presentation Tips From My Mistakes")
 I learned due to mistakes I’ve made.
 
 If you attended the talk (or watched it), I learned at the end that the
@@ -64,7 +64,7 @@ I plan to follow up on various topics I covered in the talk with blog
 posts. For example, I wrote a helper method during the talk that allows
 you to pass in a Razor snippet as a template for a loop. That’s now
 covered in this blog post, [A Better Razor Foreach
-Loop](http://haacked.com/archive/2011/04/14/a-better-razor-foreach-loop.aspx).
+Loop](https://haacked.com/archive/2011/04/14/a-better-razor-foreach-loop.aspx).
 
 [**NuGet in Depth: Empowering Open Source on the .NET
 Platform**](http://channel9.msdn.com/events/MIX/MIX11/FRM09 "NuGet In Depth")
@@ -105,7 +105,7 @@ twenty-sided polyhedron.
 During the talk, we randomly start talking about a ringtone. That was
 due to someone’s phone going off in the audience. You can’t hear it in
 the recording.
-![Smile](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/wlEmoticon-smile_2.png)
 
 Oh, I just pushed *MoodSwings* to the main feed so you can try it out.
 
@@ -120,11 +120,11 @@ after my last talk. A few of us went to ride the rollercoaster at NY NY,
 walk around the strip, and take in a show
 [JabbaWockeez](http://en.wikipedia.org/wiki/JabbaWockeeZ "JabbaWockeez").
 
-[![IMG\_1183](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/IMG_1183_thumb.jpg "IMG_1183")](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/IMG_1183.jpg)[![IMG\_1188](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/IMG_1188_thumb.jpg "IMG_1188")](http://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/IMG_1188.jpg)
+[![IMG\_1183](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/IMG_1183_thumb.jpg "IMG_1183")](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/IMG_1183.jpg)[![IMG\_1188](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/IMG_1188_thumb.jpg "IMG_1188")](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/IMG_1188.jpg)
 
-Tags: [aspnetmvc](http://haacked.com/tags/aspnetmvc/default.aspx),
-[nuget-gallery](http://haacked.com/tags/nuget-gallery/default.aspx),
-[mix11](http://haacked.com/tags/mix11/default.aspx),
-[mix](http://haacked.com/tags/mix/default.aspx),
-[nuget](http://haacked.com/tags/nuget/default.aspx)
+Tags: [aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
+[nuget-gallery](https://haacked.com/tags/nuget-gallery/default.aspx),
+[mix11](https://haacked.com/tags/mix11/default.aspx),
+[mix](https://haacked.com/tags/mix/default.aspx),
+[nuget](https://haacked.com/tags/nuget/default.aspx)
 

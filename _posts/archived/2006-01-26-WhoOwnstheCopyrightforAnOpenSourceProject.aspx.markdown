@@ -11,9 +11,9 @@ redirect_from: "/archive/2006/01/25/WhoOwnstheCopyrightforAnOpenSourceProject.as
 
 This is part 3 in this series on copyright law and open source
 licensing. If you haven’t already, consider reading [Part
-1](http://haacked.com/archive/2006/01/24/TheDevelopersGuideToCopyrightLaw-Part1.aspx "Part 1 of the series")
+1](https://haacked.com/archive/2006/01/24/TheDevelopersGuideToCopyrightLaw-Part1.aspx "Part 1 of the series")
 and [Part
-2](http://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Part 2 of the series")
+2](https://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Part 2 of the series")
 of this series for background before tackling this topic.
 
 To properly license open source source code, the license agreement must

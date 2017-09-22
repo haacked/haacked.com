@@ -58,7 +58,7 @@ public ActionResult Index(HttpPostedFileBase file) {
 Notice that the argument to the action method is an instance of
 `HttpPostedFileBase`. ASP.NET MVC 2 introduces a new value providers
 feature which [I’ve covered
-before](http://haacked.com/archive/2010/04/15/sending-json-to-an-asp-net-mvc-action-method-argument.aspx "Sending Json").
+before](https://haacked.com/archive/2010/04/15/sending-json-to-an-asp-net-mvc-action-method-argument.aspx "Sending Json").
 
 > Whereas model binders are used to bind incoming data to an object
 > model, value providers provide an abstraction for the incoming data
@@ -109,6 +109,6 @@ public ActionResult Index(IEnumerable<HttpPostedFileBase> files) {
 
 Yes, it’s that easy. :)
 
-Tags: [aspnetmvc](http://haacked.com/tags/aspnetmvc/default.aspx),
-[upload](http://haacked.com/tags/upload/default.aspx)
+Tags: [aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
+[upload](https://haacked.com/tags/upload/default.aspx)
 

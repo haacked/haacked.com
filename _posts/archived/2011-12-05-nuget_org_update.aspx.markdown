@@ -11,7 +11,7 @@ redirect_from: "/archive/2011/12/04/nuget_org_update.aspx/"
 ---
 
 So my [last day at
-Microsoft](http://haacked.com/archive/2011/12/05/last-day-at-microsoft.aspx "Last day at Microsoft")
+Microsoft](https://haacked.com/archive/2011/12/05/last-day-at-microsoft.aspx "Last day at Microsoft")
 ended up being a very long one as the
 [NuGet](http://nuget.org/ "NuGet Gallery") team worked late into the
 evening to deployan updated version of NuGet.org. I’m very happy to be a

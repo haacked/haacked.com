@@ -17,7 +17,7 @@ Here’s the code
 And the result
 
 ![Can working on the
-server](http://haacked.com/Images/haacked_com/WindowsLiveWriter/twitter-maintenance.gif)
+server](https://haacked.com/Images/haacked_com/WindowsLiveWriter/twitter-maintenance.gif)
 
 At least this seems to be my experience with Twitter lately.
 
