@@ -17,7 +17,7 @@ This past Saturday we went to the Decompression LA party. Decompression
 is a big party held by various Burning Man regional groups. I hear the
 best (and biggest) one is the one held in San Francisco.
 
-[![dsc00715](http://static.flickr.com/33/53414111_0159258581_m.jpg)](http://www.flickr.com/photos/haacked/53414111/ "Photo Sharing")
+[![dsc00715](https://static.flickr.com/33/53414111_0159258581_m.jpg)](http://www.flickr.com/photos/haacked/53414111/ "Photo Sharing")
 
 The idea behind it is that it serves as decompression from returning to
 our normal pressure filled lives after the bliss that is Burning Man.

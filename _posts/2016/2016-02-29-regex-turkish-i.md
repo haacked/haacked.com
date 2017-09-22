@@ -14,7 +14,7 @@ It's the go to quote about regular expressions, but it's probably no surprise th
 
 As XKCD noted, regular expressions used in the right context can save the day!
 
-![XKCD - CC BY-NC 2.5 by Randall Munroe](http://imgs.xkcd.com/comics/regular_expressions.png)
+![XKCD - CC BY-NC 2.5 by Randall Munroe](https://imgs.xkcd.com/comics/regular_expressions.png)
 
 If Jeffrey Friedl's name sounds familiar to you, it's probably because he's the author of the definitive book on regular expressions, [Mastering Regular Expressions](http://www.amazon.com/gp/product/0596528124?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596528124).
 After reading this book, I felt like the hero in the XKCD comic, ready to save the day with regular expressions.

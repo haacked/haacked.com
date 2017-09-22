@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2005/09/16/dining-in-san-francisco.aspx/"
 ---
 
-[![dsc00694](http://static.flickr.com/25/44224652_40777395e6_m.jpg)](http://www.flickr.com/photos/haacked/44224652/ "Photo Sharing")
+[![dsc00694](https://static.flickr.com/25/44224652_40777395e6_m.jpg)](http://www.flickr.com/photos/haacked/44224652/ "Photo Sharing")
 Akumi and I decided to turn the business trip into a short weekend
 getaway. After the meeting, we all went out to Espetus, a brazilian
 [churrasco](http://en.wikipedia.org/wiki/Churrasco) place. Each table

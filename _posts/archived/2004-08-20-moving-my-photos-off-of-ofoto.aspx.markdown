@@ -21,7 +21,7 @@ Fair enough, I can respect that the company wants to monetize its users.
 It's a nice service and they have every right to enforce such a policy.
 But it makes me wonder if this is a sound business practice or if it is
 a short sighted policy. For me, it just means that I'll move my photos
-to [http://photos.yahoo.com/](http://photos.yahoo.com/).
+to [https://photos.yahoo.com/](https://photos.yahoo.com/).
 
 Up until right now, I was a fairly active user of Ofoto and often shared
 my album with others (those who did and didn't have ofoto accounts. It

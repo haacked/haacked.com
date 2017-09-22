@@ -15,7 +15,6 @@ ready for the ninth grade.
 
 **You Passed 8th Grade Math**
 
-![Congratulations, you got 10/10 correct!](http://images.blogthings.com/couldyoupasseighthgrademathquiz/passed.jpg)
-  
-[Could You Pass 8th Grade Math?](http://www.blogthings.com/couldyoupasseighthgrademathquiz/)
+![Congratulations, you got 10/10 correct!](https://images.blogthings.com/couldyoupasseighthgrademathquiz/passed.jpg)
 
+[Could You Pass 8th Grade Math?](http://www.blogthings.com/couldyoupasseighthgrademathquiz/)

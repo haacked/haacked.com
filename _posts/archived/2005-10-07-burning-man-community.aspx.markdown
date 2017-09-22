@@ -8,7 +8,7 @@ categories: []
 redirect_from: "/archive/2005/10/06/burning-man-community.aspx/"
 ---
 
-[![](http://static.flickr.com/29/50347517_110d2918a9_m.jpg)](http://www.flickr.com/photos/mlk/50347517/ "photo sharing")
+[![](https://static.flickr.com/29/50347517_110d2918a9_m.jpg)](http://www.flickr.com/photos/mlk/50347517/ "photo sharing")
 \
  [sherriffs.jpg](http://www.flickr.com/photos/mlk/50347517/) \
  Originally uploaded by [soymlk](http://www.flickr.com/people/mlk/).

@@ -17,7 +17,7 @@ According [to this
 site](http://www.business-opportunities.biz/projects/how-much-is-your-blog-worth/),
 my blog is worth...
 
-![](http://static.flickr.com/23/25822676_789bf55448_t.jpg)\
+![](https://static.flickr.com/23/25822676_789bf55448_t.jpg)\
  My [blog](haacked.com) is worth **\$92,020.02**.\
 [How much is your blog
 worth?](http://www.business-opportunities.biz/projects/how-much-is-your-blog-worth/)

@@ -14,7 +14,7 @@ August 28 through September 4, 2006. And you better believe I am
 bringing the *prep* back!
 
 [![Bringing Prep To The
-Playa](http://static.flickr.com/50/128781819_a6ffdef0c2.jpg)](http://www.flickr.com/photos/haacked/128781819/ "Photo Sharing")
+Playa](https://static.flickr.com/50/128781819_a6ffdef0c2.jpg)](http://www.flickr.com/photos/haacked/128781819/ "Photo Sharing")
 
 I must be an addict for pain, discomfort, and Playa dust to return a
 third time. But I had such a great time [last

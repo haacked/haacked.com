@@ -11,7 +11,7 @@ sharing: false
 
 ## Who I am
 
-[![Me and Cody](http://farm2.static.flickr.com/1166/720440046_7bec55b6f0_m.jpg)](http://www.flickr.com/photos/haacked/720440046/ "Photo Sharing")In
+[![Me and Cody](https://farm2.static.flickr.com/1166/720440046_7bec55b6f0_m.jpg)](http://www.flickr.com/photos/haacked/720440046/ "Photo Sharing")In
 case you were wondering, not that I have any reason to believe you were,
 *Haacked* is *not* my real name.
 
@@ -20,8 +20,7 @@ people tend to call me [Phil Haack](https://haacked.com/ "home page")
 *(pronounced, you guessed it, “hack”)* — unless of course they are
 calling me more colorful names as is sometimes deserved.
 
-*Haacked* is simply my [blogger
-handle](https://haacked.com/archive/2005/03/12/what-is-your-blogger-handle.aspx "What’s your blogger handle?")
+*Haacked* is simply my [blogger handle](https://haacked.com/archive/2005/03/12/what-is-your-blogger-handle.aspx "What’s your blogger handle?")
 *(creative, eh?)*. I also go by [@haacked](http://twitter.com/haacked)
 on Twitter
 
