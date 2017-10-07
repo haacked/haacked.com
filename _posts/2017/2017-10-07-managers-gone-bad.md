@@ -22,7 +22,7 @@ There's also a [Theory Z style of management](https://en.wikipedia.org/wiki/Theo
 
 > One of the most important pieces of this theory is that management must have a high degree of confidence in its workers in order for this type of participative management to work. This theory assumes that workers will be participating in the decisions of the company to a great degree.
 
-It's pretty clear that in the tech industry, most companies aspire to hav ea management style that encourages intrinsic motivation and personal autonomy. [As Dan Pink notes](https://www.youtube.com/watch?v=u6XAPnuFjJc), there's a lot of evidence that it's more motivating and effective for the type of creative work we do than Theory X.
+It's pretty clear that in the tech industry, most companies aspire to have a management style that encourages intrinsic motivation and personal autonomy. [As Dan Pink notes](https://www.youtube.com/watch?v=u6XAPnuFjJc), there's a lot of evidence that it's more motivating and effective for the type of creative work we do than Theory X.
 
 However, I have a theory that despite all this evidence and aspirations to be Theory Y or Z, many managers in the tech industry are really closet Theory X practitioners.
 
