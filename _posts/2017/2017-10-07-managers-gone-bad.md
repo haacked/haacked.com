@@ -6,7 +6,7 @@ comments: true
 categories: [leadership management]
 ---
 
-In  [Endless Immensity of the Sea](http://haacked.com/archive/2017/08/30/endless-immensity-of-the-sea) I wrote about a leadership style that encourages intrinsic motivation. Many people I talk to don't work in such an environment. Even those who work in places that promote the ideals of autonomy and intrinsic motivation often find that over time, things change for the worse. Why does this happen?
+In [Endless Immensity of the Sea](http://haacked.com/archive/2017/08/30/endless-immensity-of-the-sea) I wrote about a leadership style that encourages intrinsic motivation. Many people I talk to don't work in such an environment. Even those who work in places that promote the ideals of autonomy and intrinsic motivation often find that over time, things change for the worse. Why does this happen?
 
 I believe it's the result of management entropy. Over time, if an organization doesn't actively work to fight it, their leaders start to lose touch with what really motivates people. 
 
