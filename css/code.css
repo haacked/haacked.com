@@ -33,7 +33,7 @@ pre code {
   margin: 10px 0 8px 0;
   padding: 5px 15px;
   overflow-x: auto;
-  word-wrap: break-word;
+  white-space: normal;
 }
 
 .highlight .m { color: #009999 } /* Literal Number */
