@@ -138,7 +138,7 @@ This alias does the following.
 It's quite powerful and useful and demonstrates some advanced concepts of git aliases. But first, let me show `git bclean`. This alias is meant to be run from your master (or default) branch and does the cleanup of merged branches.
 
 ```ini
-bclean = "!f() { git branch --merged ${1-master} | grep -v " ${1-master}$" | xargs git branch -d; }; f"
+bclean = "!f() { git checkout ${1-master} && git branch --merged ${1-master} | grep -v " ${1-master}$" | xargs git branch -d; }; f"
 ```
 
 If you're not used to shell scripts, this looks a bit odd. What it's doing is defining a function and then calling that function. The general format is `!f() { /* git operations */; }; f` We define a function named `f` that encapsulates some git operations, and then we invoke the function at the very end.
