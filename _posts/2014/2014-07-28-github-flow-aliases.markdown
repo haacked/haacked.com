@@ -34,13 +34,13 @@ This sets `co` as an alias for `checkout`. If you open up your `.gitconfig` file
 
 ```ini
 [alias]
-    co = checkout
+co = checkout
 ```
 
 With this alias, you can checkout a branch by using `git co some-branch` instead of `git checkout some-branch`. Since I often edit aliases by hand, I have one that opens the `gitconfig` file with my default editor.
 
 ```ini
-    ec = config --global -e
+ec = config --global -e
 ```
 
 These sort of simple aliases only begin to scratch the surface.
@@ -61,7 +61,7 @@ The first command pulls changes from the remote. If I have any local commits, it
 This combination is so common, I've created an alias `up` for this.
 
 ```ini
-    up = !git pull --rebase --prune $@ && git submodule update --init --recursive
+up = !git pull --rebase --prune $@ && git submodule update --init --recursive
 ```
 
 Note that I'm combining two git commands together. I can use the `!` prefix to execute everything after it in the shell. This is why I needed to use the full git commands. Using the `!` prefix allows me to use _any_ command and not just git commands in the alias.
@@ -71,7 +71,7 @@ Note that I'm combining two git commands together. I can use the `!` prefix to e
 At this point, I can start some new work. All new work starts in a branch so I would typically use `git checkout -b new-branch`. However I alias this to `cob` to build upon `co`.
 
 ```ini
-    cob = checkout -b
+cob = checkout -b
 ```
 
 Note that this simple alias is expanded in place. So to create a branch named "emoji-completion" I simply type `git cob emoji-completion` which expands to `git checkout -b emoji-completion`.
@@ -79,7 +79,7 @@ Note that this simple alias is expanded in place. So to create a branch named "e
 With this new branch, I can start writing the crazy codes. As I go along, I try and commit regularly with my `cm` alias.
 
 ```ini
-    cm = !git add -A && git commit -m
+cm = !git add -A && git commit -m
 ```
 
 For example, `git cm "Making stuff work"`. This adds all changes including untracked files to the index and then creates a commit with the message "Making Stuff Work".
@@ -89,20 +89,20 @@ Sometimes, I just want to save my work in a commit without having to think of a 
 `git save` or `git wip`.  The first one adds all changes including untracked files and creates a commit. The second one only commits tracked changes. I generally use the first one.
 
 ```ini
-    save = !git add -A && git commit -m 'SAVEPOINT'
-    wip = commit -am "WIP"
+save = !git add -A && git commit -m 'SAVEPOINT'
+wip = commit -am "WIP"
 ```
 
 When I return to work, I'll just use `git undo` which resets the previous commit, but keeps all the changes from that commit in the working directory.
 
 ```ini
-    undo = reset HEAD~1 --mixed
+undo = reset HEAD~1 --mixed
 ```
 
 Or, if I merely need to modify the previous commit, I'll use `git amend`
 
 ```ini
-    amend = commit -a --amend
+amend = commit -a --amend
 ```
 
 The `-a` adds any modifications and deletions of existing files to the commit but ignores brand new files. The `--amend` launches your default commit editor (Notepad in my case) and lets you change the commit message of the most recent commit.
@@ -120,7 +120,7 @@ That's basically a delete of your current changes without any undo. As soon as y
 Too bad. If you reset work that you _never committed_ it is gone for good. Hence, the `wipe` alias.
 
 ```ini
-    wipe = !git add -A && git commit -qm 'WIPE SAVEPOINT' && git reset HEAD~1 --hard
+wipe = !git add -A && git commit -qm 'WIPE SAVEPOINT' && git reset HEAD~1 --hard
 ```
 
 This commits everything in my working directory and then does a hard reset to remove that commit. The nice thing is, the commit is still there, but it's just unreachable. Unreachable commits are a bit inconvenient to restore, but at least they are still there. You can run the `git reflog` command and find the SHA of the commit if you realize later that you made a mistake with the reset. The commit message will be "WIPE SAVEPOINT" in this case.
@@ -156,7 +156,7 @@ In other words, it deletes every branch that's been merged into `master` except 
 With `bclean` in place, I can compose my git aliases together and write `git bdone`.
 
 ```ini
-    bdone = "!f() { git checkout ${1-master} && git up && git bclean ${1-master}; }; f"
+bdone = "!f() { git checkout ${1-master} && git up && git bclean ${1-master}; }; f"
 ```
 
 I use this one all the time when I'm deep in the GitHub flow. And now, you too can be a GitHub flow master.
@@ -167,18 +167,18 @@ Here's a list of all the aliases together for your convenience.
 
 ```ini
 [alias]
-    co = checkout
-    ec = config --global -e
-    up = !git pull --rebase --prune $@ && git submodule update --init --recursive
-    cob = checkout -b
-    cm = !git add -A && git commit -m
-    save = !git add -A && git commit -m 'SAVEPOINT'
-    wip = !git add -u && git commit -m "WIP"
-	undo = reset HEAD~1 --mixed
-    amend = commit -a --amend
-    wipe = !git add -A && git commit -qm 'WIPE SAVEPOINT' && git reset HEAD~1 --hard
-    bclean = "!f() { git branch --merged ${1-master} | grep -v " ${1-master}$" | xargs git branch -d; }; f"
-    bdone = "!f() { git checkout ${1-master} && git up && git bclean ${1-master}; }; f"
+  co = checkout
+  ec = config --global -e
+  up = !git pull --rebase --prune $@ && git submodule update --init --recursive
+  cob = checkout -b
+  cm = !git add -A && git commit -m
+  save = !git add -A && git commit -m 'SAVEPOINT'
+  wip = !git add -u && git commit -m "WIP"
+  undo = reset HEAD~1 --mixed
+  amend = commit -a --amend
+  wipe = !git add -A && git commit -qm 'WIPE SAVEPOINT' && git reset HEAD~1 --hard
+  bclean = "!f() { git branch --merged ${1-master} | grep -v " ${1-master}$" | xargs git branch -d; }; f"
+  bdone = "!f() { git checkout ${1-master} && git up && git bclean ${1-master}; }; f"
 ```
 
 ## Credits and more reading
