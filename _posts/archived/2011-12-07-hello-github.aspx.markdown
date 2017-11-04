@@ -9,38 +9,22 @@ categories:
 redirect_from: "/archive/2011/12/06/hello-github.aspx/"
 ---
 
-*[Hubot](http://hubot.github.com/ "HuBot") stache me*.
+`[.hubot](http://hubot.github.com/ "HuBot") stache me`
 
-Well the poll results are in and [you guys were very
-close](http://haacked.uservoice.com/forums/141433-companies "Where will Phil go next?")!
-I was taken aback at the intensity of the interest in where I would end
-up. Seriously, I’m honored. But then I thought about it for a moment and
-figured, *there must be a betting pool on this. These folks don’t care
-that much*.
+Well the poll results are in and [you all were very close](http://haacked.uservoice.com/forums/141433-companies "Where will Phil go next?")! I was taken aback at the intensity of the interest in where I would end up. Seriously, I’m honored. But then I thought about it for a moment and figured, *there must be a betting pool on this. These folks don’t care that much*.
 
-Today is my [first day as a GitHub
-employee](https://github.com/blog/1002-phil-haack-is-a-githubber "Phil Haack is a GitHubber")!
-In other words, I am now a *GitHubber*, a *Hubbernaut, a GitHubberati*.
-Ok, I made that last one up.
+Today is my [first day as a GitHub employee](https://github.com/blog/1002-phil-haack-is-a-githubber "Phil Haack is a GitHubber")!
+In other words, I am now a *GitHubber*, a *Hubbernaut, a GitHubberati*. Ok, I made that last one up.
 
-If you haven’t heard of GitHub, it’s a site that makes it frictionless
-to collaborate on code. Some would call it a source code hosting site,
-or a forge, but it goes way beyond that. Their motto is “Social Coding”,
-and they mean it. They’ve turned shipping software into a fun social
-activity. It’s great!
+If you haven’t heard of GitHub, it’s a site that makes it frictionless to collaborate on code. Some would call it a source code hosting site, or a forge, but it goes way beyond that. Their motto is “Social Coding”, and they mean it. They’ve turned shipping software into a fun social activity. It’s great!
 
-Beyond a great product, they’ve built a great company culture. From
-everything I’ve seen and read, GitHub has figured out how to make a
-great work environment. They [optimize for
-happiness](http://tom.preston-werner.com/2010/10/18/optimize-for-happiness.html "Optimize for happiness")
-and I believe that’s resulted in a great product and a lot of success.
-I’ll talk about that some more another time. For now, let’s talk about…
+Beyond a great product, they’ve built a great company culture. From everything I’ve seen and read, GitHub has figured out how to make a
+great work environment. They [optimize for happiness](http://tom.preston-werner.com/2010/10/18/optimize-for-happiness.html "Optimize for happiness") and I believe that’s resulted in a great product and a lot of success. I’ll talk about that some more another time. For now, let’s talk about…
 
 What will I be doing at GitHub?
 -------------------------------
 
-According to my offer letter, my title is “Windows Badass”, but the way I see it, I will do whatever I can to help GitHub be even more awesome. It’s going to take some creative thinking because it’s already pretty damn cool, but I’ll figure something out.  My first idea for adding [more cowbell](https://screen.yahoo.com/more-cowbell-174128899.html "More Cowbell, on SNL") was
-rejected, but I’m just finding my footing. I’ll get the hang of it.
+According to my offer letter, my title is “Windows Badass”, but the way I see it, I will do whatever I can to help GitHub be even more awesome. It’s going to take some creative thinking because it’s already pretty damn cool, but I’ll figure something out.  My first idea for adding [more cowbell](https://screen.yahoo.com/more-cowbell-174128899.html "More Cowbell, on SNL") was rejected, but I’m just finding my footing. I’ll get the hang of it.
 
 More specifically, I plan to help GitHub appeal to more developers who code for Windows and the .NET platform. For example, take a look at the TIOBE language index.
 
@@ -50,8 +34,7 @@ Now take a look at this chart from the GitHub languages page (no longer around).
 
 [![github languages](https://haacked.com/images/haacked_com/WindowsLiveWriter/Hello-GitHub_129E2/github%20languages_thumb.png "github languages")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Hello-GitHub_129E2/github%20languages_2.png)
 
-See something missing? Yes, oh mah gawd!
-[LOLCODE](http://lolcode.org/ "Lolcode") is not there!!!
+See something missing? Yes, oh mah gawd! [LOLCODE](http://lolcode.org/ "Lolcode") is not there!!!
 
 Ok, besides that. See something else missing? Despite the fact that TIOBE ranks it as the fourth most popular language, C# doesn’t make it into the top ten at GitHub. I’d like to change that!
 
