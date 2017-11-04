@@ -62,7 +62,7 @@ His response was something along the lines of bla bla bla bla. But there was one
 
 When I first read that, I thought he wrote “tilde” and I was really confused what a rising tilde had to do with anything.
 
-But it makes sense to me now. As I wrote in a recent post talking about software communities,
+But it makes sense to me now. As I wrote in a [recent post talking about software communities](https://haacked.com/archive/2011/11/25/musings-on-software-community.aspx/),
 
 > The interchange of ideas between these disparate technology
 > communities can only result in good things for everyone.
