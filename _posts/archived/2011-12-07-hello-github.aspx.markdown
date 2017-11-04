@@ -9,7 +9,7 @@ categories:
 redirect_from: "/archive/2011/12/06/hello-github.aspx/"
 ---
 
-`[.hubot](http://hubot.github.com/ "HuBot") stache me`
+[`.hubot stach me`](http://hubot.github.com/ "HuBot")
 
 Well the poll results are in and [you all were very close](http://haacked.uservoice.com/forums/141433-companies "Where will Phil go next?")! I was taken aback at the intensity of the interest in where I would end up. Seriously, I’m honored. But then I thought about it for a moment and figured, *there must be a betting pool on this. These folks don’t care that much*.
 
