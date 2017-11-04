@@ -74,7 +74,7 @@ The nice thing here is I think a healthy .NET OSS ecosystem is a good thing for 
 Am I moving?
 ------------
 
-GitHub is located in an amazing space in San Francisco. When I visited, Hubot pumped in Daft Punk via overhead speakers as people coded away. That alone nearly sealed the deal for me. The fine scotch we sipped as we talked about software didn’t hurt either.
+GitHub is located in an amazing space in San Francisco. When I visited, [Hubot](https://hubot.github.com/) pumped in Daft Punk via overhead speakers as people coded away. That alone nearly sealed the deal for me. The fine scotch we sipped as we talked about software didn’t hurt either.
 
 But alas, as much as San Francisco is a great city, my family and I love it here in the Washington, so I will work as a remote employee. Fortunately, GitHub is well suited for remote employees. And this gives me a great excuse to visit SF often!
 
