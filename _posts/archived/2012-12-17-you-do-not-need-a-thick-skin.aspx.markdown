@@ -77,7 +77,7 @@ we ever meet in a dark alley.
 I certainly didn’t mean those words (*except in the case of* [*bundled
 software written by hardware
 companies*](http://www.codinghorror.com/blog/2009/07/nobody-hates-software-more-than-software-developers.html "Nobody hates software more than software developers")*.
-That shit makes me crazy!*). I was simply lashing out due to my
+That shit makes me cray!*). I was simply lashing out due to my
 frustrations.
 
 And it hit me.
