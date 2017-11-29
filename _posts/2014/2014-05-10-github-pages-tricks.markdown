@@ -26,7 +26,7 @@ I really appreciate when folks send me corrections. So much so that I just added
 
 If you want to understand how this works, I set up a minimal [GitHub Pages Demo repository here](https://github.com/Haacked/gh-pages-demo). It includes a bare minimum Jekyll site with a page that shows how to display GitHub metadata. The goal of this page is to help you get started with your own content.
 
-You can visit the [actual rendered page here](https://haacked.github.io/gh-pages-demo/). It's pretty butt ugly right now. Why not help make it pretty and get your name on the page?!
+You can visit the [actual rendered page here](https://haacked.github.io/gh-pages-demo/). It uses one of the built-in GitHub Pages themes by externally referencing it. That keeps all that theme code out of my repository. Nice!
 
 The [Repository metadata on GitHub Pages](https://help.github.com/articles/repository-metadata-on-github-pages) page provides more information about what GitHub metadata is available to your blog.
 
