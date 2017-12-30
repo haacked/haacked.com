@@ -82,7 +82,7 @@ I know, they're meant to be funny, but they do reflect in some tiny way the cult
 
 Contrast that to Impact's motto on one of my most cherished hoodies:
 
-> Work hard and be nice to people.
+<img src="https://user-images.githubusercontent.com/19977/34450368-0bc38e42-ecbc-11e7-8ea7-fbadcad4c229.JPG" width="400" title="Work hard and be nice to people" alt="Work hard and be nice to people" />
 
 Their newest hoodies tweak the slogan.
 
@@ -114,7 +114,11 @@ And don't worry, Drew doesn't wear a costume to every workout. I just happened t
 
 ### They Give back
 
+![Hapy faces at a go-giver](https://user-images.githubusercontent.com/19977/34450335-48a025b0-ecbb-11e7-9986-c0fecad99d4e.JPG)
+
 One of my favorite things about the gym is they contribute back to the local community. Every Saturday they have a "Go-Giver" workout that members and non-members can attend for $10. All proceeds go to a local charity chosen by the members of the month.
+
+I even got my [skinny friend Noah](https://twitter.com/uxnoah) to come out one time.
 
 ### Give it a try
 
