@@ -74,10 +74,6 @@ And
 
 > If I pass out, please note my time
 
-And
-
-> You can rest when you're dead.
-
 I know, they're meant to be funny, but they do reflect in some tiny way the culture around Crossfit. It's great for a lot of people, just not me.
 
 Contrast that to Impact's motto on one of my most cherished hoodies:
