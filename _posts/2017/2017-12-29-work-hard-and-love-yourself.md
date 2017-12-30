@@ -96,7 +96,7 @@ This just fits my own personal style very well.
 
 ### The Coaches
 
-In the show Cheers, the patrons show up every day because they love being in a place where everyone knows their name.
+In the show [Cheers](https://en.wikipedia.org/wiki/Cheers), the patrons show up every day because they love being in a place where everyone knows their name.
 
 I feel a lot like this at Impact. I love going because I know I'm going to not only get a good workout, but I'll see people I genuinely like and have great conversations.
 
