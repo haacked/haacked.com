@@ -46,7 +46,7 @@ Having a clear objective for working out and setting specific goals towards that
 
 At the beginning of the year, I set three specific and measurable fitness goals for myself to accomplish by the end of the year.
 
-1. Do a push-up with my son laying on my back.
+1. Do a push-up with my son on my back.
 2. Do an unassisted pull-up.
 3. Touch my toes without bending my knees.
 
