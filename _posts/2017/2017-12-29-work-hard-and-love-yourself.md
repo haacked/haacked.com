@@ -122,4 +122,6 @@ If you don't live in the area, I encourage you to find a gym like Impact. If you
 
 They're located at: [1508 128th Pl NE, Bellevue, WA 98007](https://goo.gl/maps/9RBc9j6Pat12)
 
-If you want to go when I'm there, [DM me on Twitter](https://twitter.com/haacked) and I'll tell you when I'll be there next. You won't regret it!
+If you want to go when I'm there, [DM me on Twitter](https://twitter.com/haacked) and I'll tell you when I'll be there next.
+
+This is a great way to start the new year on the right foot. You won't regret it!
