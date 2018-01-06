@@ -18,7 +18,7 @@ But first, let me make the case by sharing my experiences for the past two years
 
 You're a high achiever. You're busy hustling to make a dent in the world. And the tiny morsels of time left over after work go to your family. I get it.
 
-For me, it wasn't just an issue of not having time. It was really hard to simply overcome inertia. This is where the motivational words of the leading philosopher of our time, Shia LeBeouf, resonates - [Just do it](https://www.youtube.com/watch?v=ZXsQAXx_ao0)!
+For me, it wasn't just an issue of not having time. It was really hard to simply overcome inertia. This is where the motivational words of the leading philosopher of our time, Shia LeBeouf, really resonate - [Just do it](https://www.youtube.com/watch?v=ZXsQAXx_ao0)!
 
 In my case, my wife signed us up for a painfully early fitness class (it really helps to have a partner!) two years ago. Rather than hem and haw, we just forced ourselves to show up. That's often the hardest part. Get out of bed, and go. Once you're there, it gets better.
 
