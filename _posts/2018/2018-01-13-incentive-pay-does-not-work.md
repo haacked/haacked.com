@@ -18,7 +18,9 @@ Another reason people continue to believe in them is they seem to work, temporar
 
 > Rewards buy temporary compliance, so it looks like the problems are solved. It’s harder to spot the harm they cause over the long term.
 
-Many folks counter that they don't work because they're often implemented improperly. I contend that they _cannot_ work. Alfie Kohn backs me up (emphasis mine)...
+And yet another potential reason they persist is perhaps they are propagated by those who benefit most from them, whether overtly or unconsciously. We know that [racial and gender wage gaps persist in the U.S.](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/). We also know that [performance appraisals suffer from bias](https://hbr.org/2017/04/how-gender-bias-corrupts-performance-reviews-and-what-to-do-about-it). This leads to a set of conditions where at least one group benefits from maintaining the status quo at the expense of others.
+
+Many folks counter that they don't work because they're simply implemented improperly. I contend that they _cannot_ work. Alfie Kohn backs me up (emphasis mine)...
 
 > According to numerous studies in laboratories, workplaces, classrooms, and other settings, rewards typically undermine the very processes they are intended to enhance.
 > The findings suggest that the failure of any given incentive program is __due less to a glitch in that program than to the inadequacy of the psychological assumptions that ground all such plans.__
@@ -91,3 +93,4 @@ And yet, despite all that, he _still_ could make significantly more at another t
 * [The Research Is Clear: Long Hours Backfire for People and for Companies](https://hbr.org/2015/08/the-research-is-clear-long-hours-backfire-for-people-and-for-companies)
 * ["Football Freakonomics": Incentives](http://freakonomics.com/2012/01/01/football-freakonomics-incentives/)
 * [RSA ANIMATE: Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
+* [Racial, gender wage gaps persist in U.S. despite some progress](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/)
