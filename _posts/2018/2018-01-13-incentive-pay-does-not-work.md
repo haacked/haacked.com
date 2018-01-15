@@ -6,19 +6,21 @@ comments: true
 categories: [personal career management]
 ---
 
-A while back, I wrote [The Case Against Pay for Performance](https://haacked.com/archive/2014/08/14/pay-for-performance/). Checkmate. Case closed. Or so I thought. Like many bloggers, I suffer from delusions of grandeur that millions of people ponder every word I write, are enlightened by insight, and then compelled to action.
+In [The Case Against Pay for Performance](https://haacked.com/archive/2014/08/14/pay-for-performance/), I argued against increasing pay based on performance reviews. Checkmate. Case closed. Or so I thought. Like many bloggers, I suffer from delusions of grandeur that millions ponder every word I write, are enlightened by insight, and then compelled to action.
 
-Alas, it's not to be. Instead, I find that the belief in the power of rewards to spur higher performance persists despite all the evidence to the contrary.
+Alas, it's not to be. Instead, I find that belief in the power of rewards to spur higher performance persists despite the ample evidence to the contrary.
 
-I believe one reason people persist in believing that paying for performance works is rooted in [Theory X thinking](https://haacked.com/archive/2017/10/07/managers-gone-bad/).
+I suspect that one reason people continue to believe that pay for performance works is rooted in [Theory X thinking](https://haacked.com/archive/2017/10/07/managers-gone-bad/).
 
 > [it] reflects an underlying belief that management must counteract an inherent human tendency to avoid work”
 
-Another reason people continue to believe in them is they seem to work, temporarily. As Alfie Kohn notes in [Why Incentive Plans Cannot Work](https://hbr.org/1993/09/why-incentive-plans-cannot-work)...
+Offers of bonuses and raises are one lever to do that.
+
+Another reason is that they seem to be effective, temporarily. As Alfie Kohn notes in [Why Incentive Plans Cannot Work](https://hbr.org/1993/09/why-incentive-plans-cannot-work)...
 
 > Rewards buy temporary compliance, so it looks like the problems are solved. It’s harder to spot the harm they cause over the long term.
 
-And yet another potential reason they persist is perhaps they are propagated by those who benefit most from them, whether overtly or unconsciously. We know that [racial and gender wage gaps persist in the U.S.](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/). We also know that [performance appraisals suffer from bias](https://hbr.org/2017/04/how-gender-bias-corrupts-performance-reviews-and-what-to-do-about-it). This leads to a set of conditions where at least one group benefits from maintaining the status quo at the expense of others.
+And yet another potential reason they persist is perhaps they are propagated (unconsciously or overtly) by those who benefit most from them. We know that [racial and gender wage gaps persist in the U.S.](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/). We also know that [performance appraisals suffer from bias](https://hbr.org/2017/04/how-gender-bias-corrupts-performance-reviews-and-what-to-do-about-it). This leads to a set of conditions where at least certain groups benefit from the status quo at the expense of others.
 
 Many folks counter that they don't work because they're simply implemented improperly. I contend that they _cannot_ work. Alfie Kohn backs me up (emphasis mine)...
 
@@ -37,21 +39,21 @@ Not only that, rewards often have an outcome that seems positive but is overall 
 
 ![Image of Leo Messi by Luis Salas via Wikimedia Commons cc-by-2.0 ](https://user-images.githubusercontent.com/19977/34910008-948a956c-f861-11e7-9ed9-b33a991509df.png)
 
-[Lionel Messi](https://en.wikipedia.org/wiki/Lionel_Messi) is the best soccer player in the world today, if not all time (I know I'm inviting argument here, feel free to write your rebuttal on your own blog, but for now, bear with me). He is the leading scorer in La Liga (the top Spanish soccer league where he plays for FC Barcelona) with 16 goals this season so far. The player in second place is far behind with 11.
+[Lionel Messi](https://en.wikipedia.org/wiki/Lionel_Messi) is the best soccer player in the world today, if not all time (I know I'm inviting argument here, feel free to write your rebuttal on your own blog, but for now, bear with me). He is the leading scorer in La Liga (the top Spanish soccer league where he plays for FC Barcelona) with 17 goals this season so far. In fact, because I've sat upon this draft, I've had to change this figure already. The player in second place is far behind with 13 and happens to be his teammate.
 
-Suppose his team offers him $100 Million for every goal he scores. That would certainly have an effect. He would score more goals. So it works! Right?
+Suppose Barcelona offers him $10 Million for every goal he scores. That would certainly have an effect. He would score more goals. Success! Right?
 
-Not so fast. In order for Lionel to score more goals, he'd need to take more chances. And this means taking more ill advised shots when he should have passed to a teammate. In order to score more goals, he'd have less assists. And Messi is currently in second place in La Liga in assists. That's how good he is. In this example, rewarding him for goals would have a negative overall effect on his team's outcomes.
+Not so fast Usain Bolt. In order for Lionel to score more goals, he'd need to take more chances. And this means taking more ill advised shots when he should have passed to a teammate. The incentive would lead to more goals but less assists. And Messi is currently in second place in La Liga in assists (he trails the leader by one). That's how good he is. In this example, a reward for goals would have a negative overall effect on his team's outcomes.
 
-This is a classic case of an unexpected externality (aka be careful what you wish for).
+This is a classic case of an unintended consequence (aka be careful what you wish for).
 
-Perhaps we can fix the rewards program. Imagine if his team changes the incentive to $100 Million per game his team wins. Would his team's performance increase? Likely not! After all, he and his team are _already_ doing everything in their power to win every game. Offering more pay won't somehow magically make the team better. At best, that kind of money might incentivize them to cheat by bribing refs.
+Perhaps we can fix the rewards program. Imagine if his team changes the incentive to $10 Million per game his team wins. Would his team's performance increase? Likely not! After all, he and his team are _already_ doing everything in their power to win every game. Offering more pay won't somehow magically make the team better.
 
 Freakonomics seems to bear this out in [a study on another professional sport](http://freakonomics.com/2012/01/01/football-freakonomics-incentives/), American Football...
 
 > That’s what Brian Burke of Advanced NFL Stats did for us, analyzing all multi-million-dollar contracts for NFL running backs since the 2000 season, a sample of 28 contracts. He found that in the year after signing their big deals, these running backs averaged .3 yards less per carry. That’s a pretty startling drop.
 
-Chances are, these players were already playing as well as possible. There's no way to eke out more performance by simply giving them money.
+Chances are, these players already give their best effort. They play as well as possible. There's no way to eke out more performance by showering them with more money.
 
 The Kohn article lists other unexpected outcomes of rewards (really, just read the whole thing)...
 
@@ -66,11 +68,11 @@ The Kohn article lists other unexpected outcomes of rewards (really, just read t
 
 Ok, this won't be a surprise, but most programmers are not elite athletes. What's this got to do with us?
 
-In practice, we're not all that different. We have a unique skill that is very valuable. We try and make the most of our skill day in and day out at work. When solving a problem, we think our hardest. It's really hard to half-ass problem solving. For the most part, we're motivated by intrinsic incentives such as [purpose, mastery, and autonomy](https://www.youtube.com/watch?v=u6XAPnuFjJc).
+In practice, we're not all that different. We have a unique skill that is very valuable. We try and make the most of our skill day in and day out at work. When we solve a problem, we think our hardest. It's really hard to half-ass problem solving. For the most part, we're motivated by intrinsic incentives such as [purpose, mastery, and autonomy](https://www.youtube.com/watch?v=u6XAPnuFjJc).
 
-Waving more money in front of me won't help me solve a problem or code up a solution any better. It won't increase my output.
+Waving more money in front of me won't help me solve a problem or code up a solution any better. It won't increase my performance.
 
-At best, like in the first Messi example, you might be able to coerce more hours out of a person. But that's not a sustainable approach. The research is clear that [long hours backfire for people and companies](https://hbr.org/2015/08/the-research-is-clear-long-hours-backfire-for-people-and-for-companies). This is such a Theory X manager move.
+At best, more money might coerce more hours out of a person. There might be a temporary increase in _output_. But that's not a sustainable approach. The research is clear that [long hours backfire for people and companies](https://hbr.org/2015/08/the-research-is-clear-long-hours-backfire-for-people-and-for-companies). This is such a Theory X manager move.
 
 Instead, when you consider employees as intrinsically motivated to do their best work, you realize the way to improve their performance is through feedback and providing opportunities to learn and grow. In other words, help them work smarter, not harder.
 
@@ -78,13 +80,13 @@ Instead, when you consider employees as intrinsically motivated to do their best
 
 I anticipate some will point out that Messi is one of the highest paid players in La Liga. So isn't that a form of incentive pay? Doesn't it show that incentive pay does work?
 
-__Consider this, the incentives Messi earns today are effectively available to all other players in the league. If they could consistently perform at the level he does, they'd receive a lot more pay. So why don't they do so? Are they not as motivated as much as he is?__
+__Consider this, the incentives Messi earns today are available to all other players in the league. All they have to do is perform at the level he does day in and day out. Then, they'd receive a lot more pay. So why don't they do so? Are they not as motivated as much as he is?__
 
 His team, Barcelona, is not paying him for performance. They're paying him for his _value_. This is an important distinction. Because he performs as well as he does, he brings in a lot of value to Barcelona.
 
-Not only that, many other teams are willing to pay a lot of money to have him join their team instead. So Barcelona has to pay him something close to his market value. This high pay isn't to incentivize him to perform well, but to incentivize him to stay at Barcelona.
+Not only that, many other teams are willing to pay a lot of money to have him join their team instead. So Barcelona has to pay him something close to his market value. This high pay isn't to incentivize him to perform well, but to incentivize him to stay at Barcelona. The same is true for any creative employee. Any system of bonuses and merit increases are doomed to fail if they fall too far behind the pay the employee could get elsewhere, all other factors being equal.
 
-And yet, despite all that, he _still_ could make significantly more at another team. This makes it clear that pay isn't the only motivation for him to continue to play at Barcelona.
+And yet, despite all that, Messi _still_ could make significantly more at another team. This makes it clear that pay isn't the only motivation for him to continue to play at Barcelona.
 
 ### Resources
 
