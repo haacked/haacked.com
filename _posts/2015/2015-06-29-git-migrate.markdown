@@ -85,7 +85,7 @@ Note that `git rebase --onto` works on the _current branch (HEAD)_. So `git reba
 
 ![Final result](https://cloud.githubusercontent.com/assets/19977/8382092/06f71640-1be5-11e5-9f90-2b433bd6ffd8.png)
 
-The `git rebase` command is a great way to move (well, actually you replay commits, but that's a story for another day) commits onto other branches. The handy `--onto` flag makes it possible to specify a range of commits to move elsewhere. [Pivotal Labs has a helpful post](http://pivotallabs.com/git-rebase-onto/) that describes this option in more detail.
+The `git rebase` command is a great way to move (well, actually you replay commits, but that's a story for another day) commits onto other branches. The handy `--onto` flag makes it possible to specify a range of commits to move elsewhere. [Pivotal Labs has a helpful post](https://content.pivotal.io/blog/git-rebase-onto) that describes this option in more detail.
 
 So in this case, I moved commits `E` and `F` because they are the ones since `wrong-branch` on the current branch, `new-branch`.
 
