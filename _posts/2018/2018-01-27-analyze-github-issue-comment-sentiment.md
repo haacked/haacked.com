@@ -49,7 +49,7 @@ All I really want to do is write a tiny bit of code to respond to a Webhook call
 
 [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) and AWS Lambda are the two most well known examples of Serverless services. I decided to play around with Azure Functions because they have specific support for GitHub Webhooks. GitHub Webhooks and Azure Functions go together like Bitters and Bourbon. Mmmm, I'll be right back.
 
-Follow [these instructions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-github-webhook-triggered-function) to set up an Azure Function that responds to a GitHub webhook in no time. The result is a method with a signature like this.
+Follow [these instructions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-github-webhook-triggered-function) to set up an Azure Function inside of the [Azure Portal](hthtps://portal.azure.com) that responds to a GitHub webhook in no time. The result is a method with a signature like this.
 
 ```csharp
 public static async Task<object> Run(
@@ -150,5 +150,13 @@ The possibilities here are legion. With this approach, you can build all sorts o
 But before you get too wild with this, note that there are a lot of GitHub integrations out there that might already do what you need. For example, [the Probot project](https://github.com/probot/probot) has a [showcase of interesting apps](https://probot.github.io/apps/) that range from managing stale issues to enforcing GPG signatures on pull requests. There's even a sentiment bot in there!
 
 Probot apps are NodeJS apps that can respond to webhooks. I believe they require you host an application, but I haven't tried to see if they're easy to run in a Serverless environment yet. That could be fun to try.
+
+### Resources
+
+* [GitHub Webhooks Documentation](https://developer.github.com/webhooks/)
+* [Create a GitHub Webhook triggered function in Azure](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-github-webhook-triggered-function)
+* [Continuous Deployment to Azure Functions from GitHub](https://docs.microsoft.com/en-us/azure/azure-functions/functions-continuous-deployment)
+* [Microsoft Cognitive Services Text Analytics API](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
+* [Octokit.net documentation](http://octokitnet.readthedocs.io/en/latest/)
 
 <sup>1</sup> _I admit, I have to look up the spelling of this word every time, but it's so perfect in this context._
