@@ -137,6 +137,8 @@ I set up the https://github.com/haacked-demos/azure-sentiment-analysis/ reposito
 
 ### Try it!
 
+The source code is available in my [haacked-demos/azure-sentiment-analysis repository](https://github.com/haacked-demos/azure-sentiment-analysis/)
+
 If you want to try out the end result, I created [a test issue in the repository](https://github.com/haacked-demos/azure-sentiment-analysis/issues/1). I know you're testing out a sentiment bot, but you can still be negative and civil to each other. Please abide by the [code of conduct](https://github.com/haacked-demos/azure-sentiment-analysis/blob/master/CODE_OF_CONDUCT.md).
 
 Also, I don't want to pay a lot of money for this demo, so it might fail in the future if my trial of the text analysis service runs out.
@@ -158,5 +160,6 @@ Probot apps are NodeJS apps that can respond to webhooks. I believe they require
 * [Continuous Deployment to Azure Functions from GitHub](https://docs.microsoft.com/en-us/azure/azure-functions/functions-continuous-deployment)
 * [Microsoft Cognitive Services Text Analytics API](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
 * [Octokit.net documentation](http://octokitnet.readthedocs.io/en/latest/)
+* [The haacked-demos/azure-sentiment-analysis with my code](https://github.com/haacked-demos/azure-sentiment-analysis/)
 
 <sup>1</sup> _I admit, I have to look up the spelling of this word every time, but it's so perfect in this context._
