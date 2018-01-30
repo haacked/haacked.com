@@ -106,7 +106,7 @@ I will also update positive comments with a nice thank you for keeping it positi
 
 In order to update the comment, I'll [use Octokit.net](https://haacked.com/archive/2013/10/30/introducing-octokit-net.aspx/)! Once again, NuGet to the rescue.
 
-`Install-Package nuget`
+`Install-Package octokit`
 
 The code is pretty straightforward. We use Octokit to post an edit to a comment [using the issue comment API](https://developer.github.com/v3/issues/comments/#edit-a-comment).
 
