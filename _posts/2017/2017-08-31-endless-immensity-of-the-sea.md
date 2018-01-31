@@ -20,7 +20,7 @@ The quote encourages leaders to cultivate intrinsic motivation as a means of lea
 
 If you question the value of intrinsic motivation, take a moment to watch this Dan Pink video. I've referenced it in the past, and I'll keep referencing it until every single one of you (or perhaps more than one of you) watch it!
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/u6XAPnuFjJc" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/u6XAPnuFjJc" allowfullscreen></iframe>
 
 It's easy to read this quote as a laud to leadership and a rejection of  management by contrast. As if management by necessity must be built on command and control. But I reject that line of thinking. Management and leadership address different needs and can be complementary.
 
