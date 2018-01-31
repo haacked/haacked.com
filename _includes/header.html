@@ -3,12 +3,10 @@
 	<img src="{{ site.gravatar_url }}?s=160" alt="Profile Picture" style="width: 160px;" />
 	{% endif %}
 </div>
-<hgroup>
-  <h1><a href="/">{{ site.title }}</a></h1>
-  {% if site.subtitle %}
-    <h2>{{ site.subtitle }}</h2>
-  {% endif %}
-</hgroup>
+<h1><a href="/">{{ site.title }}</a></h1>
+{% if site.subtitle %}
+  <h2>{{ site.subtitle }}</h2>
+{% endif %}
 <nav id="main-nav">{% include navigation.html %}</nav>
 <nav id="sub-nav">
 	<div class="social">
