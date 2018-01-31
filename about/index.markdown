@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About Haacked"
+description: "A bit about Phil Haack"
 date: 2005-10-15 -0800
 comments: false
 disqus_identifier: 10811
