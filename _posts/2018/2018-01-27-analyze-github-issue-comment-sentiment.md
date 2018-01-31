@@ -133,7 +133,7 @@ static async Task UpdateComment(
 
 It's possible to build an Azure Function entirely in the Azure Portal via a web browser. But then you're pasting code into a text box. I like to write code with my [favorite editor](https://atom.io). Fortunately, Azure Functions supports [continuous deployment integration with GitHub](https://docs.microsoft.com/en-us/azure/azure-functions/functions-continuous-deployment). It's quick and easy to set up.
 
-I set up the https://github.com/haacked-demos/azure-sentiment-analysis/ repository as my deployment source. Every time I merge a change into the `master` branch, my changes are deployed.
+I set up [my repo](https://github.com/haacked-demos/azure-sentiment-analysis/) as my deployment source. Every time I merge a change into the `master` branch, my changes are deployed.
 
 ### Try it!
 
