@@ -2,7 +2,7 @@
 # Blog Settings
 #
 author: Phil Haack
-description: You've been Haacked and you like it
+description: You've been Haacked and you like it is a blog about Technology, Software, Management, and Open Source. It's full of good stuff.
 url: https://haacked.com
 title: You've Been Haacked
 subtitle: ...and you like it
@@ -26,6 +26,14 @@ disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id: UA-177588-1
+
+social:
+  name: Phil Haack
+  links:
+    - https://twitter.com/haacked
+    - https://www.facebook.com/haacked
+    - https://www.linkedin.com/in/haacked
+    - https://github.com/haacked
 
 kramdown:
   hard_wrap: false
