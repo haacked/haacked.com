@@ -37,14 +37,19 @@ paginate: 20
 paginate_path: "page/:num"
 category_dir: categories
 
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-paginate
 
 feed:
   path: atom.xml
 
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
 sass:
-  style: compressed
+  sass_dir:          _scss
+  style:            :compressed
