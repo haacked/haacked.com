@@ -23,6 +23,7 @@ GEM
     faraday (0.14.0)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.18)
+    ffi (1.9.18-x64-mingw32)
     ffi (1.9.18-x86-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
@@ -209,6 +210,8 @@ GEM
     net-dns (0.8.0)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
+    nokogiri (1.8.2-x64-mingw32)
+      mini_portile2 (~> 2.3.0)
     nokogiri (1.8.2-x86-mingw32)
       mini_portile2 (~> 2.3.0)
     octokit (4.8.0)
@@ -246,6 +249,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
   x86-mingw32
 
 DEPENDENCIES
@@ -254,4 +258,4 @@ DEPENDENCIES
   rake
 
 BUNDLED WITH
-   1.16.0
+   1.16.1
