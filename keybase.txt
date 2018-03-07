@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/haacked
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://haacked.com
+  * I am haacked (https://keybase.io/haacked) on keybase.
+  * I have a public key with fingerprint BF14 9135 A9BB DB1E DF3B  0F27 51AC AFF3 A55E 8DE3
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101a9d813ea128cb4543a8971aaef293c0ade77e8dccd53fe1ef422127fdc15648d0a",
+      "fingerprint": "bf149135a9bbdb1edf3b0f2751acaff3a55e8de3",
+      "host": "keybase.io",
+      "key_id": "51acaff3a55e8de3",
+      "kid": "0101a9d813ea128cb4543a8971aaef293c0ade77e8dccd53fe1ef422127fdc15648d0a",
+      "uid": "a1fe3780e452add4190b6e9fb7f78e00",
+      "username": "haacked"
+    },
+    "service": {
+      "hostname": "haacked.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1520457239,
+  "expire_in": 157680000,
+  "prev": "b0a054e6033c15cba3fff8aad2818e69e78949c8bdde6368fbbdf67a07f13358",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJbbA1BGD5V2ijqEtdUiEVfNDWzs3tm9jzQuIRQohUNQo7ZnZlj03b3
+OHvOoWlI+6TiEh5IGpxqBBGh0UgQqUtTGkrVPUGKVIu0UkEiiDDb8CDxaF4m88/3
+ffN9//wtI9IDWWmpNevMXbtv3k9ru7Y/EVh7pGRCpWK6rEIJVSqlfGDjZYx78XCp
+zZSQAiCA1GAEIk6hSixT0zVEiYEhpVyoBrIAZRxjTphlMR0JDrnQVBWqWDAL6kGN
+MECVPEXYToTHojHbiUtZU0DNgEinhmkyE3ImkAmEinVILSoEorouFTmSxI2u5zOk
+OZN6PN92ZU0ewgP2/oH/z74TA3IUCo4wAVzTVcqYBg1gBrkhTCww4QD4QI/HHFrO
+JXojpVYpZ8rWPEUWk7bF/b76Qf4G5FtuuWRGY27ctdwy/yIej3ohnxiviPrIzdwM
+/9YIm7bDZBclI8ljnu06SghKpBW3fVGoq0DTsYqMPIVvidoxHrZ9hI6DBMjlv8OT
+fu8BBbrGgwAhGdQyKRJCEEqZSiDhQYNjYmiGRUzGeBAFiZBfJIKYAiwgQjpR/FSb
+HFcJadImjUhJz444NJ6IcWVr89V1gwNpWYGMIYP86QpkDR31Z+a+dmb+LF2+t+XM
+sQOLKj4WTiErVmY/qn595fI4Vle+NLxnSWjSzOSz1psnqt8eyu+e3Hml9c2SRend
+12ePPz5+Hj748MCL1a1N37LP9TelrWhCOffwvmHbas9e/LLjXQee21iytvcW/nG6
+jMwpLBreO6uy9gmdVVIQmlywbFrx5SM7i8KfUp3JfR+SN1I5Szf0dX0oXj9abDjY
+O6bxZ8/0nvamcdur3j+26y8Vzkh1R9rPPyvqu9bf0dzfNbVm8/ORbf2ZJxeerOFg
+/vYG8/vE+blV++tr7jgNGXUv2W3QcqG2vTLs9P54uir1vuvUiAR6FVk9b0FXLkDw
+sJfZsrju6OfmtuwHYxN3vV+bBEyT
+=i+Gu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/haacked
+
+==================================================================
