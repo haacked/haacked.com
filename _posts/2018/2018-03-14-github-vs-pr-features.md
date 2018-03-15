@@ -33,11 +33,13 @@ Previously, there was no indication that submodules had changed apart from rando
 #### Show current PR on status bar
 
 Prior to this release, you would have to go to the PR list and take an educated guess based on the current branch name to find the active PR:
+
 ![Which PR is active?](https://github-team.s3.amazonaws.com/uploads/general/23093919-b465-4fa8-9871-7f55d61dcf4f.png)
 
 ![Oh it's this one!](https://github-team.s3.amazonaws.com/uploads/general/b3cc9ca1-24c5-4fc4-863d-a85fd38cc2ff.png)
 
 With this release, you can see which PR you are on directly from the status bar, and navigate to its details by clicking the PR number!
+
 ![PR at your fingertips](https://github-team.s3.amazonaws.com/uploads/general/5d5bd62e-68f4-46d0-aaa9-e1950b1b1bff.png)
 
 ### Enable navigation from diff view to editor
