@@ -18,7 +18,7 @@ This creates an environment where developers who use Visual Studio __love__ to s
 
 ### GitHub For Visual Studio
 
-This week, the Editor Tools team at GitHub (the team who brought you the [GitHub Extension for Visual Studio](https://visualstudio.github.cmo/)) released a [new version](https://github.com/github/VisualStudio/releases/tag/v2.4.3.1737) that contributes to this vision by bringing Pull Requests closer to your fingertips!
+This week, the Editor Tools team at GitHub (the team who brought you the [GitHub Extension for Visual Studio](https://visualstudio.github.com/)) released a [new version](https://github.com/github/VisualStudio/releases/tag/v2.4.3.1737) that contributes to this vision by bringing Pull Requests closer to your fingertips!
 
 The three main features included in this release are:
 
