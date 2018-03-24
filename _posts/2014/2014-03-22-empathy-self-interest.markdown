@@ -39,13 +39,13 @@ Why would you want it indeed? It sounds kind of, well, painful. Why would anyone
 
 I don't mean this in some vague karmic fashion, but in a concrete sense.
 
-### It makes for better relationships with others.
+## It makes for better relationships with others.
 
 It's hard to carry on meaningful relationships with others when you constantly misunderstand the intentions and motivations of those around you. This applies to your friends, family, and work relationships. You can imagine that being around someone who constantly misinterprets your intentions would lead to unnecessary conflict.
 
 Empathy helps people better understand the mindset of those around them. This helps people address the real issues rather than talking past each other or working towards cross purposes.
 
-### It helps you make better choices for your own well being.
+## It helps you make better choices for your own well being.
 
 Everyone views the world through a lens of their own experience. In effect, our own biases are feeding ourselves misinformation which affects our ability to make decisions. Empathy helps one see the truth of a situation and act accordingly.
 
@@ -59,7 +59,7 @@ Empathy makes you realize that everybody has their struggles in life and are jus
 
 Spending a lot of time demonizing others who don't conform to your world view leads to a pretty unhealthy existence. This isn't to say that you must _agree_ with everyone. But that you recognize that the lives of others is not so black and white, much as yours isn't.
 
-### It makes you a more effective person
+## It makes you a more effective person
 
 All too often I see leaders who flip a bozo bit on an employee. Or color their experiences through their own lens. This makes the leader extremely ineffective at motivating people to do their best work. It creates an environment where those who don't see things the same way as the leader are demoralized, even though they may be doing great work otherwise.
 
