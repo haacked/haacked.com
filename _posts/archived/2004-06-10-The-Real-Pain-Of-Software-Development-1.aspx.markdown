@@ -54,4 +54,4 @@ Some references of note:
 
 - [Keymileage](http://www.integrity.com/homes/tomandkaren/Keymileage/) calculates how far your fingers must travel to type something.
 - [The Typing Injury FAQ](http://www.tifaq.com/) has comprehensive     information about RSI and typing injuries.
-- [Part 2](https://haacked.com/archive/2012/04/15/The-Real-Pain-Of-Software-Development-2.aspx/)
+- [Part 2](https://haacked.com/archive/2012/04/15/The-Real-Pain-Of-Software-Development-2/)
