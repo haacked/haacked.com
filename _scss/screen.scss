@@ -601,3 +601,16 @@ dd {
 }
 
 div.suggest-edit-message {padding: 4px 8px 20px 8px;}
+
+.info-circle:after {
+  content: "\f05a";
+  display: inline-block;
+  font: 1.3em FontAwesome;
+  color: #777;
+}
+
+input + .info-circle:after {
+  position: relative;
+  left: -20px;
+  margin-right: -15px;
+}
