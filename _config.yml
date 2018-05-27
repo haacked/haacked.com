@@ -17,10 +17,6 @@ github_repo_url: https://github.com/Haacked/haacked.com/
 # Twitter
 twitter_user: haacked
 
-# Disqus Comments
-disqus_short_name: haacked
-disqus_show_comment_count: true
-
 # Google Analytics
 google_analytics_tracking_id: UA-177588-1
 
@@ -59,3 +55,30 @@ feed:
 sass:
   sass_dir:          _scss
   style:            :compressed
+
+emptyArray: []
+
+comments:
+  receiver: https://haacked-blog.azurewebsites.net/api/PostComment
+
+authors:
+  haacked:
+    name: haacked
+    email: haacked@gmail.com
+    url: https://haacked.com
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: pages
+    values:
+      layout: page
+      author: haacked
+  -
+    scope:
+      path: '_posts'
+      type: posts
+    values:
+      layout: post
+      author: haacked
