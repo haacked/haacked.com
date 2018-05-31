@@ -34,12 +34,12 @@ exactitude on their users.
 
 Dare I say it, but developers can tend to be validation nazis.
 
-[![Seinfeld\_s7e6](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhyDoMostWebValidationIgnorePostelsLaw_1135B/Seinfeld_s7e6_1.jpg)](http://en.wikipedia.org/wiki/Image:Seinfeld_s7e6.jpg "Soup Nazi from Seinfeld on Wikipedia")
+[![Seinfeld_s7e6](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhyDoMostWebValidationIgnorePostelsLaw_1135B/Seinfeld_s7e6_1.jpg)](http://en.wikipedia.org/wiki/Image:Seinfeld_s7e6.jpg "Soup Nazi from Seinfeld on Wikipedia")
 
 > **User:** (filling out form)
 > [user+nospam@example.com](mailto:user+nospam@example.com)
 >
-> **Validation Nazi:** Entering a plus sign is \$2.00 extra.
+> **Validation Nazi:** Entering a plus sign is $2.00 extra.
 >
 > **User:** But the RFC allows for a plus sign.
 >
@@ -47,7 +47,7 @@ Dare I say it, but developers can tend to be validation nazis.
 >
 > **User:** Yes please.
 >
-> **Validation Nazi:** \$3.00!
+> **Validation Nazi:** $3.00!
 >
 > **User:** What?
 >
@@ -71,15 +71,15 @@ Here’s a snippet about dealing with phone numbers (emphasis mine).
 > like telephone number fields are particularly common. There are many
 > ways these numbers can be represented:
 >
->     \* (800) 555-1212\
->     \* 800-555-1212\
->     \* 800.555.1212\
->     \* 800 555 1212
+>     * (800) 555-1212
+>     * 800-555-1212
+>     * 800.555.1212
+>     * 800 555 1212
 >
 > Ultimately, the format we likely need is the one that only contains
 > numbers:
 >
->     \* 8005551212
+>     * 8005551212
 >
 > There are three ways to handle this. The first method tells the user
 > that a specific format of input is required and returns them to the
