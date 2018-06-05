@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Scientist.NET 2.0 Release"
-date: 2018-06-01 -0800
+date: 2018-06-05 -0800
 comments: true
 categories: [github csharp dotnet scientist]
 ---
 
-Scientist.NET 2.0 is now available on NuGet.
+I have some big news! Scientist.NET 2.0 is now available on NuGet.
 
 `Install-Package Scientist`
 
@@ -33,4 +33,4 @@ The old static approach should still work if you're just playing around with Sci
 
 ## Thanks!
 
-Once again, thank you to those who have contributed to Scientist! Without you, this release would not be possible.
+Once again, thank you to all those who have contributed to Scientist! Without you, this release would not be possible.
