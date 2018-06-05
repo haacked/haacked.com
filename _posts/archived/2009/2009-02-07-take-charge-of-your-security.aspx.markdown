@@ -59,7 +59,7 @@ I’ll save you the suspense of having to actually try it out, and just
 show you what happens when run this page.
 
 ![Message from
-webpage](https://haacked.com/images/haacked_com/WindowsLiveWriter/TakeChargeofYourSecurity_E67F/Message%20from%20webpage_3.png "Message from webpage")
+webpage](https://haacked.com/images/haacked_com/WindowsLiveWriter/TakeChargeofYourSecurity_E67F/message-from-webpage-3.png "Message from webpage")
 
 Contrary to popular belief, these controls do not automatically HTML
 encode their output. I don’t see this as some gaping security flaw
@@ -137,4 +137,3 @@ his or her site. I’ve heard of many developers who had to turn off
 Request and Event Validation for various reasons. In those cases, they
 examined the attack vectors opened up by these changes and provided
 alternate protections to replace the ones they turned off.
-
