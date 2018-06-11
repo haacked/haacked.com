@@ -5,9 +5,10 @@ single: true
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">{% include article.html %}</article>
 
-{% unless page.sharing == false %}
-	{% include post/sharing.html %}
-{% endunless %}
+<div class="suggest-edit-message">
+  <em>Found a typo or error? <a href="{{ site.github_repo_url }}edit/gh-pages/{{ path }}">Suggest an edit</a>!
+If accepted, your contribution is listed <a href="/contributors">automatically here</a>.</em>
+</div>
 
 <div id="page-navigation">
         <div class="previous">
