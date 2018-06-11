@@ -16,9 +16,6 @@ github_repo_url: https://github.com/Haacked/haacked.com/
 
 # Twitter
 twitter_user: haacked
-twitter:
-  username: haacked
-twitter_tweet_button: true
 
 # Disqus Comments
 disqus_short_name: haacked
