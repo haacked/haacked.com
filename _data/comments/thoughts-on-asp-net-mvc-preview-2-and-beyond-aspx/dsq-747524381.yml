@@ -1,0 +1,5 @@
+id: dsq-747524381
+date: 2008-03-18T08:13:53.0000000-07:00
+name: Matt Lavallee
+avatar: https://disqus.com/api/users/avatars/Matt Lavallee.jpg
+message: <p>I'm definitely in the camp favoring a signal when we've crossed the churn curve versus a definite RTM.  Late, breaking changes should only be in the case of critical flaws and not to refactor for kicks... we know there will be a 2.0 and it's okay that it's more refined... just make sure 0.8 -&gt; 1.0 are as consistent as possible.<br>-Matt</p>

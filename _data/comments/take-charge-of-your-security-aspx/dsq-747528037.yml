@@ -1,0 +1,5 @@
+id: dsq-747528037
+date: 2009-02-08T17:59:13.0000000-08:00
+name: Filini
+avatar: https://disqus.com/api/users/avatars/Filini.jpg
+message: <p>Starting from Steve's question, I think there are two very different scenarios for letting the user input some markup:<br>1. The user wants to format what he's writing. I would solve this problem avoiding HTML at all, and using an alternate markup (BBCode, or else)<br>2. The user wants to show some Code, specifically, HTML or Javascript. This is the scenario that should be deeply covered in guidelines and patterns.</p>

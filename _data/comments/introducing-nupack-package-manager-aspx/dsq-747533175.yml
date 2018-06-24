@@ -1,0 +1,5 @@
+id: dsq-747533175
+date: 2010-10-06T06:45:08.0000000-07:00
+name: Chris
+avatar: https://disqus.com/api/users/avatars/Chris.jpg
+message: <p>Does it put the packages folder in the same directory as the sln file regardless of where that is, or next to the project files?<br>What if I don't want them in 'packagee'? Can you alter the default location, like a folder directory above the solution directory (think a libs folder shared by many related project directories.</p>

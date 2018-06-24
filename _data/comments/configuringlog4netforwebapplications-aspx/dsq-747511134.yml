@@ -1,0 +1,5 @@
+id: dsq-747511134
+date: 2005-03-16T21:07:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>That's the beauty of it.  If your classes are declaring a logger, they will log to wherever the executing application is configured to log to.<br><br><br><br>If you think of your application as an assembly graph, you need to configure your assembly and all the rest pick up that setting.<br><br><br><br>Typically your root assembly is your website or your EXE.<br><br><br><br>Hope that helps.</p>

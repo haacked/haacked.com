@@ -1,0 +1,5 @@
+id: dsq-747512560
+date: 2005-06-30T03:40:00.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>Thanks for the reply Bob.  I was confused a bit because of this line in the spec:<br><br><br><br>---<br><br>(Note: It is not strictly necessary for the client to request the \"feed\" IM method in all cases since some servers may actually apply this method by default. Nonetheless, it is good form to request it since some servers may not use the method unless it is requested.)<br><br>---<br><br><br><br>Since the client isn't required to send the \"feed\" IM method, I thought it would be OK to return HTTP Status 226.  However, it looks like I really should (as a server) only send that status if I see that the client is specifically requesting \"A-IM: feed\".<br><br><br><br>Is that correct?</p>"

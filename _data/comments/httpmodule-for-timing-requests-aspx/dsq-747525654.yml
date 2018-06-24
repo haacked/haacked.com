@@ -1,0 +1,5 @@
+id: dsq-747525654
+date: 2008-07-02T05:17:34.0000000-07:00
+name: Meisinger
+avatar: https://disqus.com/api/users/avatars/Meisinger.jpg
+message: <p>@defeated...<br>By putting the StopWatch in the Items collection in becomes available to every piece of code that is executed during the Request<br>I actually like this idea<br>What you could do then is call "Stop()" on the StopWatch when in your Data Access or Repository layer code so that the times you are getting back excludes database work. <br>If the StopWatch is local to the module then you are stuck...<br>(I have no idea if that was his intent but... it really sounds good)</p>

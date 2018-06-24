@@ -1,0 +1,6 @@
+id: dsq-2413126474
+replyToId: dsq-2413092679
+date: 2015-12-16T12:42:26.0000000-08:00
+name: Brad Westness
+avatar: https://disqus.com/api/users/avatars/bradwestness.jpg
+message: <p>I actually think the SQL thing is a feature, because then it's extra explicit when you're doing interop between C# "primitives" and some other interop type (even if it's int vs. Int32 or whatever).</p>

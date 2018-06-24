@@ -1,0 +1,5 @@
+id: dsq-747535117
+date: 2012-03-18T19:34:37.0000000-07:00
+name: Diego
+avatar: https://disqus.com/api/users/avatars/Diego.jpg
+message: <p>Great article! I used this to automatically attach a special Ajax error handling filter for all actions tagged with [AjaxOnly] ...<br><code><br>if (pActionDescriptor.GetCustomAttributes(_ajaxAttributeType, true).Length &gt; 0)<br>            {<br>                yield return new Filter(new JsonErrorHandlerAttribute(), FilterScope.Global, null);<br>            }<br></code></p>

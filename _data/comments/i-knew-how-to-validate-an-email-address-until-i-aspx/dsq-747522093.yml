@@ -1,0 +1,5 @@
+id: dsq-747522093
+date: 2008-12-11T20:39:52.0000000-08:00
+name: gjel1
+avatar: https://disqus.com/api/users/avatars/gjel1.jpg
+message: <p>We have a "customer" database that they want us to spin through and validate the email addresses for.  We have a tool that performs a DNS lookup on the email domain and then an SMTP session to the list of returned mail servers from the DNS lookup.  The SMTP session does a VRFY and if that does not work, it will do a MAIL FROM and RCPT TO.  The process would stop on the first mail server if it is a success. the database contains thousends of emails for "hotmail", "yahoo" and "aol", do you think that we would be listed as spammers on "hotmail", "yahoo" or "aol" for doing this?<br> <br>Now for the big one ... the list contains almost 3 million emails.  What would you suggest we do as far as throttling and batching?  We certainly do not want to get us on a SPAM list</p>

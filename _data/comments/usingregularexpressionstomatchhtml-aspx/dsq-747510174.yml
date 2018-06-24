@@ -1,0 +1,5 @@
+id: dsq-747510174
+date: 2006-05-11T23:00:00.0000000-07:00
+name: Vadym
+avatar: https://disqus.com/api/users/avatars/Vadym.jpg
+message: '<p>Brilliant! But how about case like this:<br>&lt;td&gt; Some weird &lt;text&gt; goes here &lt;/td&gt; ?  Expression above will treat &lt;text&gt; like tag and replace with "". To prevent this from happening I loop through the string and get anything that is not a tag but looks like tag (I have to match &lt;text&gt; to collection of valid tags). Save all occurrences in temp variables (something like #0001=’&lt;text&gt;’, #002=’&lt;text 2&gt;’ etc…). After I run regexp above to strip all HTML tags. And then loop again and replace all temp variables with corresponding values. Pain a bit ;-)  So my output looks like:<br>Some weird &lt;text&gt; goes here. Any better ideas?<br></p>'

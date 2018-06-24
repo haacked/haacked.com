@@ -1,0 +1,5 @@
+id: dsq-747522019
+date: 2007-08-21T02:55:25.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Rik I'm not sure making a user enter that twice is exactly being nice. I would find it annoying. Especially if you also make them enter their password twice.<br>I think some simple validation is helpful to the user as long as the validation is liberal.<br>As I mentioned in an earlier comment, I think validation on the client should be more liberal than the RFC. It's fine to have false negatives (emails that are invalid, but you let through) but it's not fine to have false positives (emails that are valid, but you flag as wrong).</p>

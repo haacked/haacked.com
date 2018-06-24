@@ -1,0 +1,5 @@
+id: dsq-747520328
+date: 2007-05-19T02:18:37.0000000-07:00
+name: Rick Strahl
+avatar: https://disqus.com/api/users/avatars/Rick Strahl.jpg
+message: <p>Phil... Makes sure your AppPool that you have assigned to the app is actually running. In IIS 7 the AppPools can be stopped explicitly and that may get you the 503 error - I had that pop up on me a while back when the AppPool was shut down due too many failures.<br><a href="http://west-wind.com/WebLog/posts/9436.aspx" rel="nofollow noopener" title="http://west-wind.com/WebLog/posts/9436.aspx">http://west-wind.com/WebLog...</a><br></p>

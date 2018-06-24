@@ -1,0 +1,6 @@
+id: dsq-1124499931
+replyToId: dsq-1114862834
+date: 2013-11-15T06:12:00.0000000-08:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>This is exactly the kind of bug that not using a conditional would help avoid. Your solution has 2 behaviors whereas the Concat solution only has one.</p>

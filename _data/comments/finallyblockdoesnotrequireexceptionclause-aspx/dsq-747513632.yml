@@ -1,0 +1,5 @@
+id: dsq-747513632
+date: 2006-01-09T12:28:00.0000000-08:00
+name: jayson knight
+avatar: https://disqus.com/api/users/avatars/jayson knight.jpg
+message: <p>Disregard the "using" portion of my post above, reflecting on FileSystem.Dispose shows that it only flushes the stream, and doesn't close it...I should do my homework first.</p>

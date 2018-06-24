@@ -1,0 +1,5 @@
+id: dsq-2282855897
+date: 2015-09-30T15:23:35.0000000-07:00
+name: Daniel Vieira Costa
+avatar: https://disqus.com/api/users/avatars/danieleritavieiracosta.jpg
+message: <p>Hi haacked! How could I use this in the "Fire and Forget" situation? I'm facing something like:</p><p>public async Task&lt;partialviewresult&gt; SaveBudget(PostOrcamentoServicoProposta proposta)<br>{<br>  // persist the budget<br>  SaveData(proposta);</p><p>  // get all companies...<br>  var companies = getCompanies(proposta);</p><p>  foreach (var company in companies)<br>    await EmailFactory.SendBudget(proposta, company).SendAsync();</p><p>  return PartialView(proposta);<br>}</p><p>In this situation, the await condition will cause a temporary lock in the return of the View, so, few guys told me to use Task.Factory.StartNew, however, we know about the tears down, and bla bla bla... but, Could I mix your solution with Task?</p>

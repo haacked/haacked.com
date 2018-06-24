@@ -1,0 +1,5 @@
+id: dsq-747530749
+date: 2010-05-25T00:31:45.0000000-07:00
+name: Mohammad
+avatar: https://disqus.com/api/users/avatars/Mohammad.jpg
+message: <p>I've created a Custom Validation at the Class Level since I need to do regex validation for Postal Code based on the selected Country. <br>The wiring up works fine, however ModelState error dictionary has key as "" (i.e. empty string) for error associated with Class Level Custom Validation. <br>I wonder am I missing setting an attribute or something , in order to this feature work and have a key other than empty string in the Error collection of ModelState?<br>Thanks,<br>Mohammad</p>

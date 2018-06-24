@@ -1,0 +1,5 @@
+id: dsq-747517215
+date: 2006-10-11T18:39:08.0000000-07:00
+name: Igor Brejc
+avatar: https://disqus.com/api/users/avatars/Igor Brejc.jpg
+message: "<p>About merging coverage results: you can use NCoverExplorer cmd line tool to do that, here's an example of NAnt command:<br>&lt;exec <br>program=\"lib\\NCoverExplorer\\NCoverExplorer.Console.exe\"<br>workingdir=\".\"&gt;<br>&lt;arg value=\"${NUnitTestResultsDir}\\*-coverage.xml\"/&gt;<br>&lt;arg value=\"/x:${CruiseControlDir}\\CoverMerge.xml\"/&gt;<br>&lt;arg value=\"/r:5\"/&gt;<br>&lt;arg value=\"/p:${ProjectId}\"/&gt;<br>&lt;/exec&gt;<br>You should change the names of NCover coverage XML reports to something like '&lt;assembly name&gt;-coverage.xml' and store them into a single directory. I hope this helps ;)</p>"

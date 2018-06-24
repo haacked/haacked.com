@@ -1,0 +1,5 @@
+id: dsq-747538145
+date: 2012-06-20T20:36:57.0000000-07:00
+name: Ryan Whitmire
+avatar: https://disqus.com/api/users/avatars/rwhitmire.jpg
+message: <p>Hi Phil, I just started testing out gh4w on our network repositories at work and I absolutely love it.  The UX is simple and intuitive.  It really reduces the learning curve of git which is great for new hires.  So far, I have only one request.<br>Being a large team, we pull/merge/push 10-20 times per day and deal with merge conflicts regularly.  This makes it difficult for us to ween ourselves off of git extensions with kdiff.  With a built-in tool to help us resolve conflicts, I could see our team going all in with gh4w.<br>Thanks for the hard work!  As a .NET developer, I was very excited when you were hired at GitHub and I am certainly not disappointed with this product.<br>-Ryan</p>

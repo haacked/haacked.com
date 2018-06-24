@@ -1,0 +1,5 @@
+id: dsq-1954499047
+date: 2015-04-08T21:03:10.0000000-07:00
+name: Marty
+avatar: https://disqus.com/api/users/avatars/martyweel.jpg
+message: <p>You shouldn't pass data over the wire that shouldn't be viewed by the client.  A simple packet sniffer will pick this up in second.</p>

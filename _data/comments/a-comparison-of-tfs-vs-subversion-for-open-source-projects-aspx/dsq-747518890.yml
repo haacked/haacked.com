@@ -1,0 +1,5 @@
+id: dsq-747518890
+date: 2007-03-03T05:23:33.0000000-08:00
+name: Jeff Atwood
+avatar: https://disqus.com/api/users/avatars/Jeff Atwood.jpg
+message: <p>&gt; Creative solutions are always possible.<br>In this case that creative solution is to not use codeplex..<br>On the other hand, you absolutely should be able to add users as read-only on a project. This is totally possible in TFS; no idea why they haven't exposed it yet. They could even emulate anonymous access by providing a generic read-only login for people to use (there is no concept of truly anonymous access in TFS, everyone is a named user in Active Directory).<br>That's what you guys need to be voting up, not tilting at this subversion windmill.</p>

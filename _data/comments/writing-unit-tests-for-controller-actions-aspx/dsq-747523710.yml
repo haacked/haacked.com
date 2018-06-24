@@ -1,0 +1,5 @@
+id: dsq-747523710
+date: 2007-12-22T20:57:49.0000000-08:00
+name: Rubinator
+avatar: https://disqus.com/api/users/avatars/Rubinator.jpg
+message: <p>I've tried to reproduce some of your Unit Tests. Especially this one.<br>public void VerifyIndexSelectsCorrectViewUsingTestSpecificSubclass()<br>{<br>  HomeControllerTester controller = new HomeControllerTester();<br>  controller.Index();<br>  Assert.AreEqual("Index", controller.SelectedViewName<br>    , "Should have selected 'Index'.");<br>}<br>This works fine as long as I don`t instantiate a DataContext out of my Modell the test fails with an NullReferenceexception.<br>Is this behaviour useful and if so how can i mock my DataContext objects?</p>

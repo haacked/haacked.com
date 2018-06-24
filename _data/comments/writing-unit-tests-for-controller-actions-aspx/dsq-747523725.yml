@@ -1,0 +1,5 @@
+id: dsq-747523725
+date: 2008-04-09T11:55:01.0000000-07:00
+name: Nolan
+avatar: https://disqus.com/api/users/avatars/Nolan.jpg
+message: <p>Typically if you need to mock several layers of dependencies to test one class it is because the law of demeter has been heavily violated.  Some schools of thoughts may try to tell you this isn't such a bad thing, however other schools would disagree.  I personally think that smelly tests are a sign of smelly code, and that inheriting each and every controller to test it is very smelly.<br>Jay Fields has a good post on the topic of law of demeter violations and testability:<br><a href="http://blog.jayfields.com/2007/05/law-of-demeter-canary-in-coal-mine.html" rel="nofollow noopener" title="http://blog.jayfields.com/2007/05/law-of-demeter-canary-in-coal-mine.html">http://blog.jayfields.com/2...</a><br></p>

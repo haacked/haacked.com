@@ -1,0 +1,5 @@
+id: dsq-747521231
+date: 2007-06-20T08:01:11.0000000-07:00
+name: Sean
+avatar: https://disqus.com/api/users/avatars/Sean.jpg
+message: <p>I get an error with IConfigMapPath:<br>'System.Web.Configuration.IConfigMapPath' is inaccessible due to its protection level. Have FW 2 &amp; 3 installed and System.Web.dll included. Any ideas?</p>

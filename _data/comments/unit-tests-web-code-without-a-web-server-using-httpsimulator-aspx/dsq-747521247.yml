@@ -1,0 +1,5 @@
+id: dsq-747521247
+date: 2007-06-21T23:30:45.0000000-07:00
+name: Travis Illig
+avatar: https://disqus.com/api/users/avatars/tillig.jpg
+message: <p>Mocking MapPath is no problem with TypeMock.  (Again, maybe not your cup of tea, but it does mock pretty much anything with the exception of a few of the System objects.)</p>

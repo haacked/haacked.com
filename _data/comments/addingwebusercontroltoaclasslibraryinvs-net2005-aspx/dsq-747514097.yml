@@ -1,0 +1,5 @@
+id: dsq-747514097
+date: 2008-01-02T19:12:26.0000000-08:00
+name: Doug
+avatar: https://disqus.com/api/users/avatars/Doug.jpg
+message: "<p>Neat solution, but it does not meet my needs.  So others don't waste their time, what Wessam means is the ascx file gets one of these:<br><code><br>&lt;%@ Control Language=\"C#\" ClassName=\"WebUserControl1\" %&gt;<br>&lt;script runat=\"server\"&gt;<br>  put c# code here<br>&lt;/script&gt;<br></code><br>Where the C# code is embedded in the ascx. <br>Also, Wessam's solution did not work well for me.  The designer adds events to the .cs file, but the associated partial control.ascx.designer.cs does not get managed by VS.<br>There seems to be some promising information here: <a href=\"http://geekswithblogs.net/dotnetrodent/archive/2006/06/16/82136.aspx\" rel=\"nofollow noopener\" title=\"http://geekswithblogs.net/dotnetrodent/archive/2006/06/16/82136.aspx\">http://geekswithblogs.net/d...</a><br></p>"

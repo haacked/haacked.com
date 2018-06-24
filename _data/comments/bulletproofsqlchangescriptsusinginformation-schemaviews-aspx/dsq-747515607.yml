@@ -1,0 +1,5 @@
+id: dsq-747515607
+date: 2011-04-28T03:46:16.0000000-07:00
+name: Joel
+avatar: https://disqus.com/api/users/avatars/Joel.jpg
+message: <p>There is an important limitation to using information_schema.routines. The routine_definition column is limited to 4000 characters. So if you have a proc longer than that (and many of mine are) you can't use information_schema to search your proc code. Instead, you need to use sys.sql_modules. I don't know if there are similar gotchas in other information_schema views, but this is enough to make me think twice before relying on them.</p>

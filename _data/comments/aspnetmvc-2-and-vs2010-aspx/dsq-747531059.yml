@@ -1,0 +1,5 @@
+id: dsq-747531059
+date: 2009-12-19T12:38:49.0000000-08:00
+name: Colin Bowern
+avatar: https://disqus.com/api/users/avatars/Colin Bowern.jpg
+message: <p>Is the tooling GAC'd?  I'm curious why the tooling doesn't go into the VS2008 folder and leave the VS2010 stuff alone so at least we can run it side-by-side (VS2010 with beta bits, VS2008 with RC bits).</p>

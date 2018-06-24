@@ -1,0 +1,5 @@
+id: dsq-747530680
+date: 2009-11-19T23:37:00.0000000-08:00
+name: Zachary Scott
+avatar: https://disqus.com/api/users/avatars/Zachary Scott.jpg
+message: <p>This is the meat and potatoes that drives us to your blog (as well as your humor.)  :)<br>This is really good stuff.  I am really interested in how you validate a price when a customer changes the rules dynamically, i.e., exactly what andrei ignat asked the very first feedback.<br>I would think that rules beyond validating primitive values and hard wired uniqueness would need to persist outside of code.  Obviously relational integrity would work well this way, but I wouldn't want to keep a sale price ending in .99 rule embedded in code.<br>I am eager to see examples of this dynamic validation at the client side and how it fits in a repository.</p>

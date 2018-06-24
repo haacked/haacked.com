@@ -1,0 +1,5 @@
+id: dsq-747534882
+date: 2011-11-29T14:37:03.0000000-08:00
+name: TJ
+avatar: https://disqus.com/api/users/avatars/TJ.jpg
+message: <p>Tried to install the Tools update recently as I have forgotten to do so after getting a new machine. Having NuGet 1.5 installed, the tools update failed and I ran into the errors mentioned above.<br>Uninstalling NuGet 1.5, then installing MVC 3 Tools Update worked for me.</p>

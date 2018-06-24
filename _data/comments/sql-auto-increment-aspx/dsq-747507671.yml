@@ -1,0 +1,5 @@
+id: dsq-747507671
+date: 2010-01-11T20:56:06.0000000-08:00
+name: Thomas
+avatar: https://disqus.com/api/users/avatars/Thomas.jpg
+message: '<p>Nice statements :)<br>What index does the SQL Server follow doing these updates?<br>I have a customer database that I want a counter to be implemented but I want the customer with lowest number become #1 and so on.<br>Can I give a hint to the update statement which index to use?<br>Or does SQL Server always use the primary key?</p>'

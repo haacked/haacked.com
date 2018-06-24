@@ -1,0 +1,5 @@
+id: dsq-747534470
+date: 2011-02-20T10:38:16.0000000-08:00
+name: prokofyev
+avatar: https://disqus.com/api/users/avatars/prokofyev.jpg
+message: <p>Last Friday I was also investigating the reason of this regression. Reflector shows what .NET 3.5 and .NET 4 versions of Bind method of  System.Web.Routing.ParsedRoute class has a subtle difference. Because of these extra lines of code<br>if ((builder2.Length &gt; 0) &amp;&amp; (builder2[builder2.Length - 1] == '/'))<br>{<br>    return null;<br>}<br>two UrlParameter.Optional or even String.Empty parameters in row inside a route in .NET 4 give wrong virtual path.<br>So I believe the reason not in ASP.NET MVC 3 itself.</p>

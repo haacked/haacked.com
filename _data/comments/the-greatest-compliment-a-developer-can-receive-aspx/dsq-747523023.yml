@@ -1,0 +1,5 @@
+id: dsq-747523023
+date: 2007-10-08T10:16:56.0000000-07:00
+name: Brian LeRoux
+avatar: https://disqus.com/api/users/avatars/Brian LeRoux.jpg
+message: <p>Great post! Happens all the time.<br>Anyone who takes the time to criticize should probably have the time to fix the issue and, if possible, let the originating developer know they found a trivial issue and thought they might be interested in a slightly better way. There's nothing wrong with *constructive* criticism. A good developer will appreciate it! Its all about being professional and treating others with the respect you'd like to recieve. <br>And hey, Bob, I've always found stringbuilder less clean. I see your remarks as classic truisms and lacking in substance. Honestly, the hundredths of milliseconds StringBuilder shaves in performance is a very poor reason for extra characters. Using operators for concatenation *is* easier to read and therefore 'clean'. I really hope you guys have bigger fish to fry than performance optimizations from string concatenation!<br></p>

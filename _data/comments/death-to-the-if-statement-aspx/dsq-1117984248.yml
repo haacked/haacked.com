@@ -1,0 +1,6 @@
+id: dsq-1117984248
+replyToId: dsq-1117976850
+date: 2013-11-11T05:17:34.0000000-08:00
+name: Marcel Popescu
+avatar: https://disqus.com/api/users/avatars/marcelpopescu.jpg
+message: "<p>I think this is a subset of a more general rule: prefer abstractions. The \"if\"s and \"for\"s are details of implementation; just as</p><p>var list = new List&lt;int&gt;();<br>for (var i = 0; i &lt; 5; i++)<br>  list.Add(i);</p><p>can be simplified to</p><p>var list = Enumerable.Range(0, 5).ToList();</p><p>(thus removing the \"for\" statement as an implementation detail - it's still there, but hidden behind abstractions), so can the \"if\" in the original problem be abstracted away. The result is that you're expressing the so-called business logic, the actual problem you're interested in (pad an array with zeroes) instead of the concrete details of how to accomplish that.</p>"

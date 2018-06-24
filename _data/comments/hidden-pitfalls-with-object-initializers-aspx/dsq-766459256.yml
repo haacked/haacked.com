@@ -1,0 +1,6 @@
+id: dsq-766459256
+replyToId: dsq-764993556
+date: 2013-01-13T14:05:12.0000000-08:00
+name: Daniel Marbach
+avatar: https://disqus.com/api/users/avatars/Daniel Marbach.jpg
+message: <p>It's a stream. You have to dispose them. Even if it is a memory stream. FxCop also enforces this. Without you would leak memory.</p>

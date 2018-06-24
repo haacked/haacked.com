@@ -1,0 +1,5 @@
+id: dsq-1895013315
+date: 2015-03-08T08:13:40.0000000-07:00
+name: cristal
+avatar: https://disqus.com/api/users/avatars/cristal.jpg
+message: <p>It would be great if we had a way for ASP.NET apps to register scheduled tasks outside of the web app domain but <a href="http://www.filmrally.com/" rel="nofollow noopener" title="http://www.filmrally.com/">sandboxed</a> to only access their parent application. Kind of a safe way to allow a medium trust web app to add a windows scheduled task. Just brainstorming...</p>

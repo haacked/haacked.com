@@ -1,0 +1,5 @@
+id: dsq-747510135
+date: 2008-07-25T23:17:38.0000000-07:00
+name: ology
+avatar: https://disqus.com/api/users/avatars/ology.jpg
+message: <p>I would hardly call this a "library."  It just looks at HTML.  Also, parsing HTML with regular expressions is a known no-no.</p>

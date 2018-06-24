@@ -1,0 +1,5 @@
+id: dsq-747512625
+date: 2005-07-19T00:46:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Interesting.  See that's exactly the scenario where I think this app block could be useful. It's those cases where you have multi-step scenarios where each step is based on the current state of the app.<br><br><br><br>I have a lot of code that does a switch statement saying if the state is this, do that.  I'd essentially like that switch statement to be in an XML file so it's more declarative.</p>

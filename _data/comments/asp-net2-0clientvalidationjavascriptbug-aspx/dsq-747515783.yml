@@ -1,0 +1,5 @@
+id: dsq-747515783
+date: 2008-08-08T18:16:53.0000000-07:00
+name: jayaseelan
+avatar: https://disqus.com/api/users/avatars/jayaseelan.jpg
+message: <p>function Report_validation()<br>    {<br>      <br>   var doc=document.forms[0].value;<br>    if(doc.ddlReportType=="--Select--")<br>    {<br>    alert("Wrong");<br>    }<br>     <br>    }</p>

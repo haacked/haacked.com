@@ -1,0 +1,5 @@
+id: dsq-747535567
+date: 2011-07-13T05:27:01.0000000-07:00
+name: Brian Vallelunga
+avatar: https://disqus.com/api/users/avatars/Brian Vallelunga.jpg
+message: <p>The changes look good, but I'd like to see MVC add less VS tooling and more support to help with common scenarios like bootstrapping tasks when an application starts. Additionally, how about built-in support for portable areas and modules. What about helping encourage best practices by providing a mechanism for unit of work implementations built in? There are a bunch of helpers/layers on top of MVC that do this, but why not provide it out of the box?</p>

@@ -1,0 +1,5 @@
+id: dsq-747534756
+date: 2011-04-07T11:30:02.0000000-07:00
+name: marisks
+avatar: https://disqus.com/api/users/avatars/marisks.jpg
+message: <p>With current NuGet version it is hard to manage packages in projects in solution. <br>For example, I need NHibernate 2.1 and install it to my Core library, but I also need it in my Web project. Now I cannot add already installed library, but have to install it again. And if I will not provide version it will install me 3d version of NHibernate. Removing it and installing right version is quite hard. <br>So installing packages to solution would be nice feature. But then we need also some action how to add these packages to particular projects.</p>

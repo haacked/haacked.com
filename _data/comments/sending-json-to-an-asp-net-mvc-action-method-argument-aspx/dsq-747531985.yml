@@ -1,0 +1,5 @@
+id: dsq-747531985
+date: 2010-04-28T10:11:54.0000000-07:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>What is the json value provider using on the back end? Is it fully capable of binding json to complex object types (objects that have properties that are lists or that are other objects)?</p>

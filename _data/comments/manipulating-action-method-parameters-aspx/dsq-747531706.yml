@@ -1,0 +1,5 @@
+id: dsq-747531706
+date: 2010-02-21T13:44:06.0000000-08:00
+name: Koistya `Navin
+avatar: https://disqus.com/api/users/avatars/Koistya `Navin.jpg
+message: <p>I prefer not to use this approach but instead create methods in a service / data layer which work with titles, names etc. - non IDs values. This way there won't be any problems with generating links later on and it's pretty simple. Splitting parameters in ActionFilters might be confusing for those folks who look at the code first time.</p>

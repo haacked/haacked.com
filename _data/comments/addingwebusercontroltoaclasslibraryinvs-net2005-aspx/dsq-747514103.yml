@@ -1,0 +1,5 @@
+id: dsq-747514103
+date: 2008-07-05T17:49:21.0000000-07:00
+name: Daniel
+avatar: https://disqus.com/api/users/avatars/Daniel.jpg
+message: "<p>Take a look at this:<br><a href=\"http://msdn.microsoft.com/en-us/library/aa479318.aspx\" rel=\"nofollow noopener\" title=\"http://msdn.microsoft.com/en-us/library/aa479318.aspx\">msdn.microsoft.com/en-us/library/aa479318.aspx</a><br>I've tried this solution and its worked for me.<br>basically<br>-create web user control with code embedded in script tag ie. no code behind<br>-define classname attribute with a namespace prefix ie. &lt;%@ Control Language=\"C#\" ClassName=\"DKCS.FileUploadManager\"%&gt;<br>-publish your site (with certain settings) this will generate individual dlls for each of your controls<br>-add reference to dlls in your website<br>-register with these attributes: &lt;%@ Register TagPrefix=\"DKCS\" Namespace=\"DKCS\" Assembly=\"App_Web_fileuploadmanager.ascx.cdcab7d2\" %&gt;<br><br></p>"

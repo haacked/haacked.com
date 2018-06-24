@@ -1,0 +1,5 @@
+id: dsq-747524861
+date: 2008-06-04T06:16:08.0000000-07:00
+name: mario
+avatar: https://disqus.com/api/users/avatars/mario.jpg
+message: <p>why not regex? it would make the default mvc so much more flexible. more importantly, we don't have to worry about 'valid' cahracers. only developers will be using MVC and if they can't figure out regular expressions they should seek another profession. maybe use named captures <br>(?&lt;controller&gt;[^/]+)/(?&lt;action&gt;[^/]+)/(?&lt;id&gt;.*)</p>

@@ -1,0 +1,5 @@
+id: dsq-747521047
+date: 2007-06-13T14:07:49.0000000-07:00
+name: M
+avatar: https://disqus.com/api/users/avatars/M.jpg
+message: <p>Another thing I keep running into is programmers wrestling with Ststem.Random to generate file names for temporary files instead of just using<br><code>Path.GetTempFileName()</code><br></p>

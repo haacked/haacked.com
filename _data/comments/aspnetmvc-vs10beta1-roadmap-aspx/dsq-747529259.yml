@@ -1,0 +1,5 @@
+id: dsq-747529259
+date: 2009-06-09T22:10:00.0000000-07:00
+name: Derek
+avatar: https://disqus.com/api/users/avatars/Derek.jpg
+message: <p>@Haacked<br>Great news! I've found the problem - though I still don't know how to fix it.<br>I 'extend' most of my Linq to SQL models by using partial classes. I simply removed all of the extensions and the runtime worked. I've never had to implement anything special in the partial class files based on my LINQ to SQL models - so I think something is still different. Any ideas?<br>I tried to mimic the structure of the original Linq to SQL markup (implementing INotifyPropertyChanging, INotifyPropertyChanged) but I still got the errors. Is there some specific interface I need to add into my partial class to make this work properly?</p>

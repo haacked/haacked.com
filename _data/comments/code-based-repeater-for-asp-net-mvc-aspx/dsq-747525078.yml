@@ -1,0 +1,5 @@
+id: dsq-747525078
+date: 2010-03-05T00:35:41.0000000-08:00
+name: Mikem
+avatar: https://disqus.com/api/users/avatars/Mikem.jpg
+message: <p>I must say I'm somewhat shocked that someone as respected as Scott Hansalman would suggest that alternating row styles should be handled in client side javascript.<br>Alternating row styles are very much the concern of the view, by definition, which is exactly where it is going (the ASPX file).  What about all the other classes you set in the view? Do you have a giant block of javascript that gets every individual element by id and puts a class on it? Of course not! It is perfectly acceptable to have the VIEW set what css classes each element should have.</p>

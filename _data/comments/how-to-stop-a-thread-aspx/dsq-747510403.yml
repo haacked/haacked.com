@@ -1,0 +1,5 @@
+id: dsq-747510403
+date: 2009-12-21T14:39:30.0000000-08:00
+name: tqnga
+avatar: https://disqus.com/api/users/avatars/tqnga.jpg
+message: "<p>Hello. I'm using multi thread in <a href=\"http://vb.net\" rel=\"nofollow noopener\" title=\"vb.net\">vb.net</a>. But when I abort thread by this code:<br>If Not m_ThreadList(tableKey) Is Nothing Then<br>                If m_ThreadList(tableKey).IsAlive Then<br>                    CType(m_ThreadList(tableKey), Thread).Abort()<br>                End If<br>End If<br>But it throw exception: \"property evaluation failed\". I'm coming to a deadlock. Pls help me. Thanks a lot<br></p>"

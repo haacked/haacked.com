@@ -1,0 +1,5 @@
+id: dsq-747517002
+date: 2006-09-27T19:15:20.0000000-07:00
+name: Grim
+avatar: https://disqus.com/api/users/avatars/Grim.jpg
+message: <p>My understanding is that if multiple versions of a library are in the GAC, any .Net application that uses that library will "auto-upgrade" to the highest version _with the same major.minor combination_<br>So I would say that if you're ever going to break backwards compatibility, you should always change either major or minor (or both.)<br>Lately I've gotten to where I do major.minor.* for the assembly version, and major.minor.yymmdd.sequence for the file version when building for release into QA and/or production.</p>

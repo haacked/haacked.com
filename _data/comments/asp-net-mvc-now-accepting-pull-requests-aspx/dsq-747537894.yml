@@ -1,0 +1,5 @@
+id: dsq-747537894
+date: 2012-03-29T02:15:28.0000000-07:00
+name: James Manning
+avatar: https://disqus.com/api/users/avatars/James Manning.jpg
+message: <p>yeah, i have to admit that using git as your DVCS but *not* using github doesn't make much sense from a technical perspective (at least in my experience).  Other than appeasing other teams or NIH, it doesn't make much sense.<br>Of course, if codeplex can let teams opt-in to (automated, not requiring setting up your own hooks) having bidirectional syncing with github, then it won't matter *quite* as much, but I really don't 'git' it (har har).<br>Phil, thoughts?  Oh, and has someone already forked it over to a project on github by now? :)</p>

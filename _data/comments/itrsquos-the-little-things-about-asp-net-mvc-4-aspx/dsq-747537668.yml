@@ -1,0 +1,5 @@
+id: dsq-747537668
+date: 2012-03-11T20:01:41.0000000-07:00
+name: Bilal
+avatar: https://disqus.com/api/users/avatars/Bilal.jpg
+message: '<p>Hi Phil,<br>Many thanks for shedding light on Ninject problem. I have been struggling with this for weeks now and have posted my problem here <br><a href="http://forums.asp.net/t/1776518.aspx/1?WebAPI+DI+with+Ninject+throws+error+for+ILogger" rel="nofollow noopener" title="http://forums.asp.net/t/1776518.aspx/1?WebAPI+DI+with+Ninject+throws+error+for+ILogger">forums.asp.net/.../1</a><br>But now I try with your way and it tells me this "does not appear to implement Microsoft.Practices.ServiceLocation.IServiceLocator.<br>Parameter name: commonServiceLocator"... Any pointers where I am wrong.<br>Regards<br>Bilal</p>'

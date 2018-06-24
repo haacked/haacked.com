@@ -1,0 +1,5 @@
+id: dsq-747524135
+date: 2008-02-11T00:14:19.0000000-08:00
+name: Will Shaver
+avatar: https://disqus.com/api/users/avatars/Will Shaver.jpg
+message: <p>Still trying to mock the session... this time by hand. Turns out that one of the interface members is:<br>public NameObjectCollectionBase.KeysCollection Keys { get; }<br>Doesn't look so bad at first, but it turns out that while the KeysCollection is public, the constructor is marked as internal. This makes it practically impossible to mock this interface. <br>I think a general practice for framework design is to either:<br>a) Create a test-specific side of the framework that has members mocked out for users.<br>or<br>b) All interface members should return either interfaces or classes that are not defined as internal.</p>

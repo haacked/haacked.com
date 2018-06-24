@@ -1,0 +1,5 @@
+id: dsq-747512214
+date: 2012-03-23T16:01:40.0000000-07:00
+name: asdf
+avatar: https://disqus.com/api/users/avatars/asdf.jpg
+message: '<p>Sorry that might have been confusing. The code I would want to write ideally would acutally look like this:<br></p><blockquote><br>TextBox myTextBox = new ....<br>CrapTool p =new new CrapTool();<br>p.Form.Controls.Add(myTextBox);<br>p.PreLoad()<br>string ValueIWant = p.FindControl("myTextBox").Text<br></blockquote><p><br>Where CrapTool looks like this:<br></p><blockquote><br>public class CrapTool : Page<br>{<br>   void Derp(Deeeerrrpp x)<br>   {<br>     this.PreLoad += MyPreLoad()<br>   }<br>   void MyPreLoad()<br>   {<br>     foreach(TextBox t in this.Controls)<br>     {<br>        t.Text = //Parse some XML garbage instead of using database<br>     }<br>   }<br>   //snip 10,000 lines of pure garbage<br>}<br></blockquote>'

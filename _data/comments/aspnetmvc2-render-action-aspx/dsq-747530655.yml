@@ -1,0 +1,5 @@
+id: dsq-747530655
+date: 2012-09-12T03:55:51.0000000-07:00
+name: shivkumar
+avatar: https://disqus.com/api/users/avatars/shivkumar.jpg
+message: <p>Hello,<br>I have use @Html.Action, so how should i load javascript while rendering action each time means while loading action ?</p>

@@ -1,0 +1,5 @@
+id: dsq-747513261
+date: 2005-10-24T00:53:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hey Robb,<br><br><br><br>I also added an email provider that doesn't rely on CDO. It just uses SMTP.  You should try that first.  If that doesn't work, you can disable email and have comments routed to the feedback list.<br><br><br><br>Phil</p>

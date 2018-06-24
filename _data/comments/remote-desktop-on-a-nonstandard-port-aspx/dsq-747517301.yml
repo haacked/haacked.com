@@ -1,0 +1,5 @@
+id: dsq-747517301
+date: 2010-08-09T17:45:47.0000000-07:00
+name: Vidir T
+avatar: https://disqus.com/api/users/avatars/Vidir T.jpg
+message: <p>Hey Jon! <br>this was brilliant!<br>ExternalIP:5900 &gt; 192.138.0.5:3389<br>ExternalIP:5901 &gt; 192.138.0.6:3389<br>ExternalIP:5902 &gt; 192.138.0.7:3389<br>etc.<br> I did this in my Dlink Dir 655 in virtual server by giving public port 5900 and private port 3389 and use dlinkddns services to my dynamic ip.<br>now i can administrate all computers at work by remote.<br>/// thanks!!!!</p>

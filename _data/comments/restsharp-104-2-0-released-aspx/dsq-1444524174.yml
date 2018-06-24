@@ -1,0 +1,5 @@
+id: dsq-1444524174
+date: 2014-06-19T13:02:30.0000000-07:00
+name: todd
+avatar: https://disqus.com/api/users/avatars/tmenier.jpg
+message: <p>If you're looking for an alternative to RestSharp, check out Flurl.Http <a href="http://tmenier.github.io/Flurl" rel="nofollow noopener" title="http://tmenier.github.io/Flurl">http://tmenier.github.io/Flurl</a>. Slightly different take on the problem, centered around the idea of fluently building then calling a URL. Portable, async, HttpClient under the hood. Still very new and I'm wide open to suggestions. @haacked:disqus , @johnsheehan:disqus  would LOVE your thoughts/opinions!</p>

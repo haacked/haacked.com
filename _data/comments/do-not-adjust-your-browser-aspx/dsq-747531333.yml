@@ -1,0 +1,5 @@
+id: dsq-747531333
+date: 2010-01-12T03:01:24.0000000-08:00
+name: Brian
+avatar: https://disqus.com/api/users/avatars/Brian.jpg
+message: <p>Like Paco said, the ThreadPool threads in your asp.NET application are used by the asp.NET worker process threads. I believe you have 32 on a default configuration.  The more you use to run 'background work' the less simultaneous requests you can handle, right up to 0 requests if you queue up too much background work.</p>

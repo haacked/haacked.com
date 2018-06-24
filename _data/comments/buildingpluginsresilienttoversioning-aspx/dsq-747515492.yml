@@ -1,0 +1,5 @@
+id: dsq-747515492
+date: 2006-06-26T20:53:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Simone, HttpModules also use this approach, which was my original inspiration in thinking about why this approach works nicely.</p>

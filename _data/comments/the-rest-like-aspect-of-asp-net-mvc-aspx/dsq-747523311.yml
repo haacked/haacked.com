@@ -1,0 +1,5 @@
+id: dsq-747523311
+date: 2007-11-12T04:05:43.0000000-08:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>Jeff,<br>I haven't seen the actual bits Phil et al... is working on. But from what I've seen in demos, they've built the MVC framework on the same basic System.Web framework that WebForms is based on, but it doesn't interfere with WebForms at all. <br>ObfuscatedNerd,   ;)<br>I think Astoria is an excellent fit for this MVC framework. I'd also like to see how the Dream REST server from Mindtouch could be used in the MVC model. It could provide some interesting uses in distributed, high-scaling applications.</p>

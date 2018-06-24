@@ -1,0 +1,5 @@
+id: dsq-747531412
+date: 2010-01-18T20:55:53.0000000-08:00
+name: Travis Illig
+avatar: https://disqus.com/api/users/avatars/tillig.jpg
+message: <p>Correct me if I'm wrong, but I think you may have a tiny memory leak doing it this way.<br>Assemblies loaded into an AppDomain can't be unloaded without tearing down the whole AppDomain. If you're rebuilding a new tiny temporary assembly each time the code changes, the old tiny temporary assembly with the old code still exists in the AppDomain.<br>I think I'd go with the App_Code for specifying in code. You eat the restart but there's no memory leak. (I suppose you could craft your solution to build the temporary assembly into a separate AppDomain and marshal the object over, but that sounds like so much work.)<br>For XML config you could use a CacheDependency with a file dependency and set up a callback to let you know when the config changes. I think CacheDependencies work correctly in medium trust and will correctly monitor the file just like a FileSystemWatcher would. (I haven't tested, though...)</p>

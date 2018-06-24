@@ -1,0 +1,5 @@
+id: dsq-747532544
+date: 2010-06-16T11:09:41.0000000-07:00
+name: Dino Viehland
+avatar: https://disqus.com/api/users/avatars/Dino Viehland.jpg
+message: <p>This makes me think of Python rather than Perl and there's no need to be so cryptic.  In Python you can do "a or b" where these get checked to see if they're "true" and then yield the 1st value which is true (and lazily evaluates, etc...).  In Python "true" is defined as something like:<br>    None (null) is false<br>    Collections &gt; 0 length are true, otherwise false (including strings)<br>    Primitives (int, float, etc...) are true if non-zero<br>    <br>So you can always do "a or b" and get pretty reasonable results - and of course there's an "a and b" which yields the RHS if both are true as well.<br></p>

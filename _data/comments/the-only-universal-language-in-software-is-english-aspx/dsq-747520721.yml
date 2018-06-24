@@ -1,0 +1,5 @@
+id: dsq-747520721
+date: 2007-05-30T11:45:20.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Joe - I'm not yet convinced.<br>Should the "foreach" operator be abandoned because for some native speakers, "eachfor" would make more sense?<br>Should we name our variables CountMax instead of MaxCount, because in spanish, the adjective typically comes after the noun?<br>No, we shouldn't because we have a reasonable expectation  of some degree of English competency for developers working on most code.<br>I don't want to get too stuck on the 20.Minutes.Ago example. The general point is that we're still trying to write code expressive in english.<br>For example, instead of this:<br>while(flag)<br>{<br>  DoSomething();<br>}<br>I'd prefer:<br>while(moreItemsInQueue)<br>{<br>  DoSomething();<br>}<br>The second is expressive in English and shows the user's intent better.<br>Instead of:<br>if("Is it in here?".IndexOf("it in") &gt; 0)<br>  DoSomething();<br>I'd prefer<br>if("Is it in here?".Contains("it in"))<br>  DoSomething();<br>Or<br>if("it in".IsIn("Is it in here?"))<br>  DoSomething();<br></p>

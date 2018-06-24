@@ -1,0 +1,5 @@
+id: dsq-747531964
+date: 2011-01-28T15:53:29.0000000-08:00
+name: Gustafson
+avatar: https://disqus.com/api/users/avatars/Gustafson.jpg
+message: <p>Is Encoder.HtmlEncode instead of AntiXss.HtmlEncode the new standard?  the intellisense suggests that the latter is deprecated.<br>Found the AntiXss dll in NuGet. Still need to write up the custom code though.  fortunately it was a simple adjustment.</p>

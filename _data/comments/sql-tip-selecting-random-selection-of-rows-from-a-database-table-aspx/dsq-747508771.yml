@@ -1,0 +1,5 @@
+id: dsq-747508771
+date: 2006-12-04T01:20:36.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Just add a where clause to exclude those 50 records.  For example, suppose your table has a primary key of ID, and you want to exclude the first 50 ids:<br>ELECT TOP 10 * FROM someTable ORDER By NEWID() WHERE ID NOT IN (SELECT TOP 50 ID FROM SomeTable ORDER BY Id ASC)</p>

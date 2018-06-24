@@ -1,0 +1,5 @@
+id: dsq-3556814551
+date: 2017-10-08T01:52:07.0000000-07:00
+name: Jakub Jankiewicz
+avatar: https://disqus.com/api/users/avatars/jcubic.jpg
+message: <p>it don't work for git@ urls for those you can use this:</p><p>open = "!f() { URL=$(git config remote.origin.url | sed -e 's%^git@[^:]\\+:%<a href="https://github.com/%'" rel="nofollow noopener" title="https://github.com/%'">https://github.com/%'</a> -e 's/.git$//'); xdg-open $URL; }; f"</p>

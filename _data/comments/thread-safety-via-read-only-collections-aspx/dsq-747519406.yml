@@ -1,0 +1,5 @@
+id: dsq-747519406
+date: 2007-03-25T13:25:29.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Actually, ReadOnlyCollection&lt;T&gt; does <em>not</em> contain the <code>Add</code> method.<br>Check out the MSDN documentation. Here's a list of <a href="http://msdn2.microsoft.com/en-us/library/ms132475.aspx" rel="nofollow noopener" title="ReadOnlyCollection members">all members of ReadOnlyCollection&lt;T&gt;</a>.<br>Not to mention that <a href="http://msdn2.microsoft.com/en-us/library/s16t9z9d.aspx" rel="nofollow noopener" title="IList members">IList&lt;T&gt;</a> does not contain the <code>Add</code> method either.<br>It does implement the <code>Insert</code> method though, which throws a runtime exception, which is a point I overlooked since I rarely use Insert when populating a collection.<br>I still think it's a fine example of a decorator in that it added a responsibility that I didn't already have with my IList implementation. It made it read-only.<br>In this context, since that's a feature I want, and I already committed to the IList&lt;T&gt; interface, I think it's still fine to call it a decorator.</p>

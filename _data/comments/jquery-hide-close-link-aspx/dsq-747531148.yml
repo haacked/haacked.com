@@ -1,0 +1,5 @@
+id: dsq-747531148
+date: 2009-12-25T21:37:43.0000000-08:00
+name: willvv
+avatar: https://disqus.com/api/users/avatars/willvv.jpg
+message: <p>Nice job Phil, although as some of the comments say, maybe you can avoid the "bastardization" of the rel attribute by specifying a class on the container div that must be hidden and use the closest() function.<br>I think this approach is better than using a custom attribute (at least you have valid markup).<br>Thanks for the tips :P especially on x-mas :P</p>

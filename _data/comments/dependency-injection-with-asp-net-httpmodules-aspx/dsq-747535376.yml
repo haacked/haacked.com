@@ -1,0 +1,5 @@
+id: dsq-747535376
+date: 2011-06-05T19:53:52.0000000-07:00
+name: dotnetchris
+avatar: https://disqus.com/api/users/avatars/dotnetchris.jpg
+message: <p>Shouldn't we all use WebActivator and never use PreApplicationStartMethod?<br>Isn't PreApplicationStartMethod limited to 1 single usage in your entire application?</p>

@@ -1,0 +1,5 @@
+id: dsq-747522817
+date: 2007-09-24T13:20:59.0000000-07:00
+name: Chris Moorhouse
+avatar: https://disqus.com/api/users/avatars/Chris Moorhouse.jpg
+message: <blockquote>Even if TDD eliminates 75% of the bugs – and how likely is that – the situation is qualitatively the same. You still need to expose the product to testers and field users – “Bug-Driven Development.”</blockquote><p><br>So, when the user types in X, Y information should be displayed. Oh, heck, did I just write a test? Geez, I thought we weren't going to use that useless Test Driven stuff on this project.</p>

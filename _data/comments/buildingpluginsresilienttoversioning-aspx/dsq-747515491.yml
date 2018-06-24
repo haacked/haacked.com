@@ -1,0 +1,5 @@
+id: dsq-747515491
+date: 2006-06-26T20:51:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>Dimitry: I agree with Arian on this point.  Only the plugins that subscribe to the specific event will be involved.  We wouldn't examine every plugin for every operation. This approach simply inverts the decision making to the plugin and not the application concerning who will fulfill which operation.<br>This decouples the application from the plugin and couples the plugin to the application.  I think this is the better direction of knowledge.  Personal opinion of course.<br>Craig:  Good point.  But in order not to break your existing plugin when you add a new operation to your plugin abstract base class, you can't mark it as abstract, or you run into the same problem as an interface. Right? So your base class might end up with several virtual methods with no implementation.  How does the application know NOT to call those method on an old plugin that didn't implement the method?<br>With the event based approach, the plugin has to specifically subscribe to the event.</p>"

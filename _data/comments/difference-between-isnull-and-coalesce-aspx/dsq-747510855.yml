@@ -1,0 +1,5 @@
+id: dsq-747510855
+date: 2007-01-16T12:15:20.0000000-08:00
+name: Aparichit
+avatar: https://disqus.com/api/users/avatars/Aparichit.jpg
+message: <p>To bobby,<br>The difference between Coalesce and Isnull is that Coalesce can take multiple values (2 or more).... it'll check each value until it finds one that is not null... once it does, it'll return that value... <br>IsNull, on the other hand, has 2 arguments and will only check the first value to see if it's null, if it is null, it'll return the 2nd arguement.<br><br>As you mentioned that Coalesce can take multiple values (2 or more).... it'll check each value until it finds one that is not null... once it does, it'll return that value... <br>My question is that, if we dont have any not null value in the multiple values in coalesce then what will be value returned?</p>

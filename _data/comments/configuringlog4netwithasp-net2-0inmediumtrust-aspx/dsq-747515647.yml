@@ -1,0 +1,5 @@
+id: dsq-747515647
+date: 2011-08-30T21:29:40.0000000-07:00
+name: Ashish Kumar
+avatar: https://disqus.com/api/users/avatars/Ashish Kumar.jpg
+message: "<p>I am still having trouble having log4net to work on GoDaddy.  I followed all the steps.  The log file does get created with no contents.  I get the following error:<br>ystem.Web.Services.Protocols.SoapException: Request for the permission of type 'System.Security.Permissions.SecurityPermission, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' failed.<br><br><br></p>"

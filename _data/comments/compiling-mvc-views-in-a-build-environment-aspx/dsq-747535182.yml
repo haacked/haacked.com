@@ -1,0 +1,5 @@
+id: dsq-747535182
+date: 2011-05-09T20:22:08.0000000-07:00
+name: Eric Amodio
+avatar: https://disqus.com/api/users/avatars/Eric Amodio.jpg
+message: <p>Thanks for the post! Now that I've enabled this, is there any way to limit building to files included in the .csproj file? Or is there at least a way to exclude certain folders from being built?<br>For example in our project folder structure we have a \Mocks folder which contains lots of mocked up .aspx and .cshtml files, and while the \Mocks folder isn't included in the .csproj file, it seems that all the files in that tree are getting built. This of course generates LOTS of build errors.<br>Any help would be greatly appreciated.</p>

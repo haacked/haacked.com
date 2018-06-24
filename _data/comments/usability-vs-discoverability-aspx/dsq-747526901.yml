@@ -1,0 +1,5 @@
+id: dsq-747526901
+date: 2008-11-06T04:55:55.0000000-08:00
+name: Ayende Rahien
+avatar: https://disqus.com/api/users/avatars/Ayende Rahien.jpg
+message: <p>I didn't get the joke, I am afraid.<br>As for the API discoverability issue.<br>Change IRouteConstraint to AbstractRouteConstraint (you like to do that anyway) and define an implicit convertion operator from string to AbstractRouteConstraint.<br>That will let you define constraints as an enumerable AbstractRouteConstraint. so you can write it like:<br>new AbstractConstraint[] { @"\d4", new MyCustomConstraint()}</p>

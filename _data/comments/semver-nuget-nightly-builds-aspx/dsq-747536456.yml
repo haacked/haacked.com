@@ -1,0 +1,5 @@
+id: dsq-747536456
+date: 2011-10-25T04:14:17.0000000-07:00
+name: Betty
+avatar: https://disqus.com/api/users/avatars/Betty.jpg
+message: <p>I don't like the idea of separate versioning schemes, unless you can upgrade from a nightly to a stable with little effort.<br>I would drop the ability to have arbitrary pre-release names and stick with the understood stable, RC, beta, alpha, and nightly. Allowing users to pick the min quality they allow in the packages.config.<br>Along with Major.Minor.Patch.Build where patch can be the date in any mangled form you like (eg 20111026 or days since 2000) as long as it's an incremented integer.<br><code><br>nuspec:<br>&lt;version quality="stable|rc|alpha|beta|nightly"&gt;4.1.10715.0&lt;/version&gt;<br>packages.config<br>&lt;package id="blah" version="4.1.10715.0" quality="alpha" /&gt;<br></code></p>

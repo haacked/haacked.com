@@ -1,0 +1,5 @@
+id: dsq-747535188
+date: 2011-06-26T08:42:18.0000000-07:00
+name: Josh
+avatar: https://disqus.com/api/users/avatars/Josh.jpg
+message: <p>This did not work for us when switching back and forth between web deploys and VS builds.  The easiest solution was simply to delete the obj\ folder whenever we needed to switch back and forth.</p>

@@ -1,0 +1,5 @@
+id: dsq-747524136
+date: 2008-02-13T20:53:08.0000000-08:00
+name: Alex Gorbatchev
+avatar: https://disqus.com/api/users/avatars/alexgorbatchev.jpg
+message: <p>Testing ASP.NET pipe line is somewhat similiar in experience to using a sandpaper for whiping oneself. It's doable, but the process is mildly pleasing.<br>Half of the public classes have internal constructors and half of the overloads are internal as well. The novelty of things like AppDomain.CurrentDomain.SetData(".appDomain", "*") never wears off.<br></p>

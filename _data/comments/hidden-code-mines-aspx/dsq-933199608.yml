@@ -1,0 +1,5 @@
+id: dsq-933199608
+date: 2013-06-17T08:55:37.0000000-07:00
+name: Robert Schroeder
+avatar: https://disqus.com/api/users/avatars/Robert Schroeder.jpg
+message: <p>mutability -- is it necessary, how to limit it, how to ensure it is valid.<br>unintended state - can the stateful variables be set to invalid combinations (if a == true, b SHOULD be x, y , or x, but in some cases could be NULL).</p>

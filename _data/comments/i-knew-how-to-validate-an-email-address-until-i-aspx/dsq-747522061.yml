@@ -1,0 +1,5 @@
+id: dsq-747522061
+date: 2007-09-17T03:05:37.0000000-07:00
+name: Simon Slick
+avatar: https://disqus.com/api/users/avatars/Simon Slick.jpg
+message: "<p>To those of you who say things like &lt;space&gt;@domain.tld are valid email addresses.  There is a difference between an address being valid (existing) and the format conforming to RFC spec.  Existence does not constitute RFC conformance and non-existence does not constitute RFC non-conformance.  RFC conformance and actual existence are two different things and validation of each is useful in their own right.<br>For example: if running a mail system and wish to allow customers to create an email addresses in accordance to the full range of RFC spec (or as close as can reasonably get), just how is it supposed to verify when it doesn’t exist yet?  Can't be done by checking for existence now can it.  Sometimes it is necessary to know a non-existent (before it is created) email address meets the RFC spec.<br><a href=\"http://SimonSlick.com/VEAF/ValidateEmailAddressFormat.html\" rel=\"nofollow noopener\" title=\"http://SimonSlick.com/VEAF/ValidateEmailAddressFormat.html\">http://SimonSlick.com/VEAF/...</a><br></p>"

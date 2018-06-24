@@ -1,0 +1,5 @@
+id: dsq-747515528
+date: 2006-06-30T03:14:00.0000000-07:00
+name: Daniel
+avatar: https://disqus.com/api/users/avatars/Daniel.jpg
+message: <p>I've tinkered with db4o, and I'm pretty sure it addresses some of those.  For example, you can share stored objects between java and .NET, given they have similar schema.  Granted another language could come along, and you'd be in trouble, but in theory they could add support.  <br>Also, it doesn't just serialize the data- there's indexing, etc. built in. It also has some LINQ-like features for querying, etc. which apply set theory to the data.    <br>I'm not 100% there yet, but I think we should definitely re-think the problem some.<br></p>

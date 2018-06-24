@@ -1,0 +1,5 @@
+id: dsq-747524410
+date: 2008-05-07T22:03:39.0000000-07:00
+name: Anthony Main
+avatar: https://disqus.com/api/users/avatars/Anthony Main.jpg
+message: <p>Hey, nice implementation I've implemented it in my latest development framework, only issue Im having is that whist running on VS Dev Server the root url works (i.e http://localhost:1234/) but when using localhost with a wildcard mapping (iis5.1) root url (i.e. http://localhost/) 404's. Event when I have a default.aspx route.<br>Any ideas?!</p>

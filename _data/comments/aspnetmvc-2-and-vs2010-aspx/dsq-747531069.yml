@@ -1,0 +1,5 @@
+id: dsq-747531069
+date: 2009-12-19T22:14:17.0000000-08:00
+name: Colin Bowern
+avatar: https://disqus.com/api/users/avatars/Colin Bowern.jpg
+message: <p>@Brad - ah, okay.  I was thinking that if it wasn't GAC'd (i.e. in the PrivateAssemblies folder in the VS folder) that you could surgically replace only the VS2008 instance of the tooling rather than both.  That way you could support VS2008 running a newer build.  I guess as they say "good things come to those who wait" or rather "install VS2010 in a VM for now". :)</p>

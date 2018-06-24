@@ -1,0 +1,5 @@
+id: dsq-747527791
+date: 2009-01-27T14:03:57.0000000-08:00
+name: Colin Newell
+avatar: https://disqus.com/api/users/avatars/Colin Newell.jpg
+message: <p>Awesome.  Thanks.  I've upgraded and it was reasonably painless.  <br>Moving the AntiForgery token into the release was especially cool.  I do have one question though, will you add a way to set the path of the cookie that it sets?  If I have a live and test site in two separate virtual directories the cookies look like they will clash.</p>

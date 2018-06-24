@@ -1,0 +1,5 @@
+id: dsq-747526826
+date: 2009-04-03T22:52:06.0000000-07:00
+name: Jeremy Caney
+avatar: https://disqus.com/api/users/avatars/Jeremy Caney.jpg
+message: <p>Hey Phil - I'm very happy to see this.  This has been one of my primary concerns with the MVC approach from the beginning since my firm tends to work on large websites which often contain multiple applications.  I also appreciate that your approach solves this at a relatively fundamental level thus hiding the implementation details from (most of) the application; I had come up with a work around for this problem but it was implemented at a higher level and, therefore, was more invasive in terms of the actual application code.</p>

@@ -1,0 +1,5 @@
+id: dsq-747523935
+date: 2008-01-21T19:23:25.0000000-08:00
+name: Tom Opgenorth
+avatar: https://disqus.com/api/users/avatars/Tom Opgenorth.jpg
+message: <p>I don't know how to implement it, but I think it would be good to do a study of TDD vs.  no form of automated testing (as opposed to the test last approach used in the study).  Quite often you run into this scenario too, and it gets tiresome have to explain/argue that it really *isn't* a waste of time to write the extra code via TDD.</p>

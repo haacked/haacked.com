@@ -1,0 +1,5 @@
+id: dsq-747514982
+date: 2006-08-17T09:13:48.0000000-07:00
+name: Joe Hanink
+avatar: https://disqus.com/api/users/avatars/Joe Hanink.jpg
+message: <p>This happened to me today.  I reported the url to US-CERT.GOV for good measure.  I also reported it to google at <a href="http://www.google.com/safebrowsing/report_phish/" rel="nofollow noopener" title="http://www.google.com/safebrowsing/report_phish/">http://www.google.com/safeb...</a><br>Anyway, i found that my yahoo userid and password got sent to staff.yahoo.mail.admin@gmail.com<br>via <a href="http://www2.fiberbit.net/form/mailto.cgi" rel="nofollow noopener" title="http://www2.fiberbit.net/form/mailto.cgi">http://www2.fiberbit.net/fo...</a>  <br>I did whois on this domain and it's registered to someone in Japan.<br>I realized that this might be phishing and confirmed it using a network tcp packet sniffer to watch the http traffic.  I changed my password immediately, so I should be ok.<br>Note that IE7 and Firefox 2 will have anti-phishing measures.<br>Joe Hanink</p>

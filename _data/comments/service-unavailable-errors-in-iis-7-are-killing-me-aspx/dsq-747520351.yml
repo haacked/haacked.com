@@ -1,0 +1,5 @@
+id: dsq-747520351
+date: 2007-05-20T21:29:48.0000000-07:00
+name: Mike Volodarsky
+avatar: https://disqus.com/api/users/avatars/Mike Volodarsky.jpg
+message: <p>Phil,<br>The steps may still be applicable assuming the problem is with IIS.<br>I would try the following:<br>1) Look in %systemdrive%\WINDOWS\system32\LogFiles\HTTPERR httperrX.log file to see if http.sys is rejecting the requests for some reason<br>See if requests are causing entries to be written here, and if so, post them.<br>If not:<br>2) Follow the steps in the startup-debugging post.<br>The basic thing we need to confirm is whether the request is getting into the worker process (even if its crashing and going away) - depending on this, the subsequent diagnostics will be much different.<br>Thanks,<br>Mike</p>

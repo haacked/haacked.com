@@ -1,0 +1,6 @@
+id: dsq-1108991408
+replyToId: dsq-1108909728
+date: 2013-11-04T16:01:59.0000000-08:00
+name: Omid K. Rad
+avatar: https://disqus.com/api/users/avatars/omidkrad.jpg
+message: <p>OK, I think I found the problem. It works when I don't run the app as Administrator. I have a custom console and I have an alias there for running GHFW. The alias is set like:</p><p>doskey github="%APPDATA%\Microsoft\Windows\Start Menu\Programs\GitHub, Inc\GitHub.appref-ms"</p><p>When running GHFW from the console that is running as Administrator then the drag-and-drop feature on GHFW app is disabled, with no informative message or anything other than changing mouse cursor to "forbidden" icon.</p>

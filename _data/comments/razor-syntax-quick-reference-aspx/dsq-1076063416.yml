@@ -1,0 +1,5 @@
+id: dsq-1076063416
+date: 2013-10-09T02:52:42.0000000-07:00
+name: Dannster
+avatar: https://disqus.com/api/users/avatars/dannster.jpg
+message: <p>Hi Phil the below code is causing an error in my views since moving to MVC 4<br></p><pre><code><br><br>@foreach (KeyValuePair&lt;string, string&gt; s in subDomains)<br>{<br>   var suburl = @url.Replace("://" + sub, "://" + s.Key);<br> <br>   var lang = s.Value.Split('-')[0];<br> <br>   suburl = Html.TranslateUrl(suburl, lang, sub, (IList&lt;Location&gt;)ViewBag.Locations, (IList&lt;CMSPageTranslation&gt;)ViewBag.CMSPageTranslations);<br><br>   &lt;link rel="alternate" hreflang="@s.Value" href="@suburl"/&gt;<br>}<br><br></code><br></pre><p></p><p>The problem I am having is that Razor is snapping back into HTML when it gets to the point where it should be casting the ViewBag.Locations to an IList&lt;Location&gt;</p><p>Do you think this could be a parser error in the new version of Razor?</p><p>I did find a solution however which seems a bit hackish. The solution was to wrap the offending line in a &lt;text&gt;@{  //code here }&lt;/text&gt; block</p><p></p>

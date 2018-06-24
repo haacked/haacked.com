@@ -1,0 +1,5 @@
+id: dsq-2082017495
+date: 2015-06-16T08:08:30.0000000-07:00
+name: Christos Matskas
+avatar: https://disqus.com/api/users/avatars/cmatskas.jpg
+message: <p>Thanks for sharing Phil! Fresh out of university and straight into my first proper dev role, I was working in a small dev team littered with bad practices (not their fault). Unfortunately, since I was as green as can be, I didn't know better and my tenure there was filled with many "Oh sh&amp;t" moments. An epic one that I'll always remember is doing development and testing against the live, yes the LIVE, database. It wasn't long before i run my first DELETE command without a WHERE clause, wiping out over 45,000 records from the DB. Needless to say that this was the moment that made me realize that a small action can have a massive impact. We were able to restore most of the data using a backup lying on another dev's machine (yes, no backup process or infrastructure) and I decided to get my act together. 11 years on, I still remember that moment that almost cost me my job and made me think hard on how to become a better developer.</p>

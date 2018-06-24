@@ -1,0 +1,5 @@
+id: dsq-747526076
+date: 2008-08-14T01:53:35.0000000-07:00
+name: Steve Sanderson
+avatar: https://disqus.com/api/users/avatars/Steve Sanderson.jpg
+message: <p>&gt; "You don't have to implement FilterAttribute. You can simply inherit from Attribute and one of the filter interfaces in CodePlex Preview 4"<br>@haacked, are you sure? I thought that at first, too (<a href="http://www.codeplex.com/aspnet/WorkItem/View.aspx?WorkItemId=2044" rel="nofollow noopener" title="http://www.codeplex.com/aspnet/WorkItem/View.aspx?WorkItemId=2044">www.codeplex.com/.../View.aspx?WorkItemId=2044</a>) but Levi corrected me. Looking at the source for ControllerActionInvoker (in GetFiltersForActionMethod()) suggests that it only picks up attributes that derive from FilterAttribute.</p>

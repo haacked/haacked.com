@@ -1,0 +1,5 @@
+id: dsq-747526013
+date: 2008-09-01T02:37:25.0000000-07:00
+name: MHale
+avatar: https://disqus.com/api/users/avatars/MHale.jpg
+message: <p>Wicked nice! I did notice a few issues when using the source code and doing a "Publish"... a lot of the ascx files don't get copied to the server. I still haven't figured out the why, but it results in the behavior Dave reported above (404 errors on any subdir without the default.aspx) The homepage.ascx files don't get published, which the default handler relies on. Very small issue on an otherwise smooth transition. Love it!</p>

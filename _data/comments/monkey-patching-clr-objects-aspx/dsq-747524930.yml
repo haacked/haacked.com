@@ -1,0 +1,5 @@
+id: dsq-747524930
+date: 2008-04-18T19:42:18.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Paul ah, but I didn't want to use an indexer in Ruby in this particular case. I just wanted to do <a href="http://indexer.foo" rel="nofollow noopener" title="indexer.foo">indexer.foo</a> or <a href="http://indexer.bar" rel="nofollow noopener" title="indexer.bar">indexer.bar</a> where foo and bar are the keys to the dictionary.<br>I understand the qualms about method_missing, but in this case, I wrote the class I'm monkey patching in C#. So I have control over both sides.</p>

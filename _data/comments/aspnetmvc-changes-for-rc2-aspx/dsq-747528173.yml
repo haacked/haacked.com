@@ -1,0 +1,5 @@
+id: dsq-747528173
+date: 2009-03-03T19:43:00.0000000-08:00
+name: Craig Stuntz
+avatar: https://disqus.com/api/users/avatars/Craig Stuntz.jpg
+message: <p>Thanks for the new release!<br>From the release notes, I see that "jQuery 1.2.6 was replaced with jQuery 1.3.1 in this release." My first thought was, "We're using jQuery 1.3.2; I wonder what that means?"<br>So I searched our project and the MVC (RC1) source code for references to the older version, and didn't find any. My initial take is that I don't have to do anything.<br>This might be a good thing to spell out in the release notes. What do we need to do when we upgrade jQuery?</p>

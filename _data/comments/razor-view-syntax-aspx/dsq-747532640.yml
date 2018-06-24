@@ -1,0 +1,5 @@
+id: dsq-747532640
+date: 2010-08-14T21:36:26.0000000-07:00
+name: Adam
+avatar: https://disqus.com/api/users/avatars/Adam.jpg
+message: <p>Good work, really liking Razor... Except...<br>I think outside of @{ } if statements should expect tags between the scopes..<br>Say I have a variable called @test<br>// The following<br>@if (true) {<br>   @test<br>}<br>// would return my variable to the screen...<br>@if (true) (<br>   test<br>}<br>// would return the text test to the screen...<br>I really don't like the &lt;text&gt;&lt;/text&gt; syntax, and it's impeding if your mixing XML in, say for an AJAX or RSS service and you have a &lt;text&gt; element.<br>I know Razor is for HTML... It's also for XHTML, and mixing XML is a valid thing to do. If it could do XML too (even XML with &lt;text&gt; elements,) that'd be really cool.</p>

@@ -1,0 +1,5 @@
+id: dsq-747528536
+date: 2011-10-11T02:10:37.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Pat, well if the blackhat can get an untrusted client out there, why even bother with CSRF? CSRF is the least of your worries. If you've compromized the client, go to town directly. Scan the hard-drive. Etc.</p>

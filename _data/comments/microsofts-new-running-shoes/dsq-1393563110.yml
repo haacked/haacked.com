@@ -1,0 +1,5 @@
+id: dsq-1393563110
+date: 2014-05-19T10:19:44.0000000-07:00
+name: David Driscoll
+avatar: https://disqus.com/api/users/avatars/daviddotnet.jpg
+message: <p>I would love to hear more about your thoughts on the changes, I looked at them briefly, and I think that they are a leaps and bounds more advanced than what is there currently.  There are certianly areas in ASP.NET that I've abused in the past such as VirutalPathProviders, and copious amounts of IHttpContext, but those will all have replacements in some shape or form.</p>

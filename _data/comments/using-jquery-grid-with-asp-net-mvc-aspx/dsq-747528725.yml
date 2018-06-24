@@ -1,0 +1,5 @@
+id: dsq-747528725
+date: 2010-06-07T19:51:53.0000000-07:00
+name: Robin van der Knaap
+avatar: https://disqus.com/api/users/avatars/Robin van der Knaap.jpg
+message: <p>I created a HtmlHelper for jqGrid with a fluent interface. The helper implements most base properties, methods and events from jqGrid, including paging, sorting and toolbar searching.<br>You can read about it at <a href="http://webpirates.nl/webpirates/robin-van-der-knaap/47-fluent-jqgrid-html-helper-for-aspnet-mvc" rel="nofollow noopener" title="http://webpirates.nl/webpirates/robin-van-der-knaap/47-fluent-jqgrid-html-helper-for-aspnet-mvc">here</a>. Sample app <a href="http://www.playground.webpirates.nl/mvcjqgrid" rel="nofollow noopener" title="http://www.playground.webpirates.nl/mvcjqgrid">here</a>. Source code is hosted on <a href="http://github.com/robinvanderknaap/MvcJqGrid" rel="nofollow noopener" title="http://github.com/robinvanderknaap/MvcJqGrid">github</a><br>Hope somebody will find it useful.</p>

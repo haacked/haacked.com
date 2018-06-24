@@ -1,0 +1,5 @@
+id: dsq-747526960
+date: 2008-11-11T02:42:13.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Filini Yes, I am assuming XHTML. But you're right about HTML 4.01 Transitional. I tried it out and it indeed validates.<br>Thanks for the note. For those that are interested, here's the HTML I tried in the <a href="http://validator.w3.org/check" rel="nofollow noopener" title="W3C validator">W3C validator:</a><br></p><pre>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" <br>  "<a href="http://www.w3.org/TR/html4/loose.dtd" rel="nofollow noopener" title="http://www.w3.org/TR/html4/loose.dtd">http://www.w3.org/TR/html4/loose.dtd</a>"&gt;<br>&lt;html&gt;<br>&lt;head&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;<br>&lt;body&gt;<br>&lt;p title="&lt;p /&gt;"&gt;&lt;/p&gt;<br>&lt;/body&gt;<br>&lt;/html&gt;</pre><p><br><br></p>

@@ -1,0 +1,5 @@
+id: dsq-747525089
+date: 2011-12-07T12:03:28.0000000-08:00
+name: Saeed Neamati
+avatar: https://disqus.com/api/users/avatars/saeedneamati.jpg
+message: <p>Wow! I love what Scott has proposed. This way, we only loop over items (without bothering to find alternating rows and adding a different class to them), then in client-side, we find those rows easily using jQuery. That rocks man! I love you Haccked. This post saved me from hours of vain search.</p>

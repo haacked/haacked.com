@@ -1,0 +1,5 @@
+id: dsq-747517782
+date: 2006-11-24T21:13:36.0000000-08:00
+name: Kevin Dente
+avatar: https://disqus.com/api/users/avatars/Kevin Dente.jpg
+message: <p>Since Code Lives Forever on the net, I'll make one more niggly suggestion (boy, everyone's a critic, aren't they). Having the delimiter passed in as a string rather than a char (as it is in String.Join) would make the function a little more flexible. <br>For example, I've had need in the past to specify ",&lt;space&gt;" as the delimiter for a list of things presented in a UI.<br></p>

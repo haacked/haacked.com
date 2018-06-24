@@ -1,0 +1,5 @@
+id: dsq-747532534
+date: 2010-06-16T15:13:18.0000000-07:00
+name: Martin R-L
+avatar: https://disqus.com/api/users/avatars/Martin R-L.jpg
+message: "<p><br>An exception to go with that?<br>/// &amp;lt;summary&amp;gt;<br>/// Throw when the pre-condition stipulates that a sequence param, e.g. a string or<br>/// enumerable, mustn't be null nor empty (e.g. Length == 0, Count/Count() == 0,<br>/// or Any() == false).<br>/// &amp;lt;/summary&amp;gt;<br>public class ArgumentNullOrEmptyException : ArgumentNullException<br>{<br>    public ArgumentNullOrEmptyException(string paramName) : base(paramName)<br>    {}<br>    public override string Message<br>    {<br>        get<br>        {<br>            return \"Value cannot be null nor empty.{0}Parameter name: {1}\".FormatWith(Environment.NewLine, ParamName);<br>        }<br>    }<br>}<br>... where FormatWith is a simple extension method wrapping String.Format defaulting to use the invariant culture.</p>"

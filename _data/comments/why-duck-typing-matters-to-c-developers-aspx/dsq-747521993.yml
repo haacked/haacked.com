@@ -1,0 +1,5 @@
+id: dsq-747521993
+date: 2010-06-10T08:29:51.0000000-07:00
+name: Myster
+avatar: https://disqus.com/api/users/avatars/Myster.jpg
+message: <p>Hi<br>Say I have a 'Duck' object and I have a 'DeformedDuck' object, the DeformedDuck, does not implement Quack() but does imlement MakeSound() ... I control neither.... is there some way I can treat them the same?</p>

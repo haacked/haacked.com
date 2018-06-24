@@ -1,0 +1,5 @@
+id: dsq-747534826
+date: 2011-04-12T16:11:25.0000000-07:00
+name: Kristof Claes
+avatar: https://disqus.com/api/users/avatars/Kristof Claes.jpg
+message: <p>Ok, I finally managed to get VS2010 working again. Here's what I did:<br> - Uninstall VS2010<br> - Uninstall everything that might have anything to do with VS2010 (MVC, SQL CE4.0, ...)<br> - Remove all VS2010 directories (eg. C:\Program Files (x86)\Microsoft Visual Studio 10.0)<br> - Remove all VS2010 items in the registry<br> - Reboot<br> - Install VS2010<br> - Run VS2010<br> - Install SP1<br> - Run VS2010<br> - Install everything that's needed using Web Platform installer<br>I still get "The 'VSTS for Database Professionals Sql Server Data-tier Application' package did not load correctly", "The 'RadLangSvc.Package, RadLangSvc.VS, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91' package did not load correctly" and "The 'Language Package' package did not load correctlty" errors, but I don't know what they mean.</p>

@@ -1,0 +1,5 @@
+id: dsq-747524787
+date: 2008-04-09T11:11:47.0000000-07:00
+name: Rasmus Grouleff
+avatar: https://disqus.com/api/users/avatars/Rasmus Grouleff.jpg
+message: <p>I don't know if my comment belong here, since you're all talking about .Net.<br>I'm a Java developer, and Eclipse is my IDE of choice - Eclipse has in my eyes an excellent middleway with the possibility to create several source folders in a single project.<br>The brilliant thing about source folders is that they map to different paths on the disk. It's therefore really easy to filter unit tests away in the build tool, when releasing a new version, but you still get the advantages of having unit tests within the same project.</p>

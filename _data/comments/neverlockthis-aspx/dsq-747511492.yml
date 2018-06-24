@@ -1,0 +1,5 @@
+id: dsq-747511492
+date: 2006-08-08T00:28:20.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Jack: Whoops, you are right. That should be the finalizer method, not dispose.  My code example is not illustrating the point correctly.<br>However, the point remains. Locking on \"this\" in an ordinary method can still cause contention with some external thread locking on the object since they will both lock on the same synch block.<br>Read Richter's article on the subject. I'll post a correction to this post.</p>"

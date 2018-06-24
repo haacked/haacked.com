@@ -1,0 +1,5 @@
+id: dsq-747534747
+date: 2011-07-14T17:54:40.0000000-07:00
+name: Kevin Wilson
+avatar: https://disqus.com/api/users/avatars/kwilson81.jpg
+message: <p>Also added this to config as suggested online but just changes the error to tell me that it can't reference v1.4.20615.9012.<br>&lt;runtime&gt;<br>    &lt;assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1"&gt;<br>      &lt;dependentAssembly&gt;<br>        &lt;assemblyIdentity name="NuGet.Core" publicKeyToken="31bf3856ad364e35" culture="neutral"/&gt;<br>        &lt;bindingRedirect oldVersion="0.0.0.0-1.4.0.0" newVersion="1.4.20615.9012"/&gt;<br>      &lt;/dependentAssembly&gt;<br>    &lt;/assemblyBinding&gt;<br>  &lt;/runtime&gt;</p>

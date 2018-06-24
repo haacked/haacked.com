@@ -1,0 +1,5 @@
+id: dsq-2083799478
+date: 2015-06-17T06:50:34.0000000-07:00
+name: Georgi Vajarov
+avatar: https://disqus.com/api/users/avatars/georgivajarov.jpg
+message: "<p>Phil - thank you for sharing. And, here is my Getting Better Moment. <br>While working at a customer's site (a bank) I had the simple task of fixing a mismatched ID so the appropriate loan can be assigned to a specific customer. Well, I wrote my fancy TSQL statement and (without wrapping it in a transaction) hit the \"run\" button. A small problem: I forgot to include a \"where\" clause. As a result, ALL loans were assigned to this one customer. Yeah, it was that bad. What made matters worse is that they did not have a backup. So I spend a good portion of the week importing data from their mainframe system. <br>Another way to look at it - the bank had only one very pissed customer, but many were very happy. Call me Robin Hood if you'd like :).</p>"

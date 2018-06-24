@@ -1,0 +1,5 @@
+id: dsq-747516743
+date: 2006-09-20T05:35:37.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>There is a checkbox when adding a feed to syndicate the description only.  That should do part of what you want. There's no support for it in the Metablog API so we'd have to figure something out for that.</p>

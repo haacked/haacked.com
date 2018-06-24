@@ -1,0 +1,6 @@
+id: dsq-761206911
+replyToId: dsq-758142759
+date: 2013-01-09T05:45:41.0000000-08:00
+name: Eamon Nerbonne
+avatar: https://disqus.com/api/users/avatars/eamonnerbonne.jpg
+message: <p> That doesn't work reliably since structs' members are default initialized - and for references that means null.  So an uninitialized member or explicit default value will bypass your null check.</p>

@@ -1,0 +1,5 @@
+id: dsq-747536303
+date: 2011-10-11T06:30:30.0000000-07:00
+name: counsellorben
+avatar: https://disqus.com/api/users/avatars/counsellorben.jpg
+message: <p>Phil,<br>I disagree with those folks on Twitter.  It is correct that the XmlHttpRequest object does not allow cross-domain posting, but the analysis cannot end at this point.<br>MVC is agnostic as to how it receives a request.  A malicious user can submit a x-www-form-urlencoded request masquerading as a JSON request, and it will be accepted by MVC and processed as if it were a JSON request, unless a developer inspects the request to confirm it truly is a JSON request.<br>Until such time as MVC includes built-in methods to inspect and confirm that an AJAX or JSON request is not really a x-www-form-urlencoded in masquerade, I will use inspectors <strong>and</strong> AntiForgeryTokens whenever possible.<br>Thanks again for this code, since it provides defense in depth.</p>

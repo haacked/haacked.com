@@ -1,0 +1,5 @@
+id: dsq-747510156
+date: 2005-04-13T22:48:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I'm not too familiar with SQL full text query syntax.  How do you escape a double quote within the text?<br><br><br><br>The naive approach is something like:<br><br><br><br>"[^"]*?"(\s*(and|or)\s*"[^"]*?")*<br><br><br><br>This is basically matching an expression like:<br><br><br><br>"some text"<br><br><br><br>or<br><br><br><br>"some text" and "some more text"<br><br><br><br>or<br><br><br><br>"some text" and "some more" or "even more"<br><br><br><br>and so on.<br><br><br><br>This expression doesn't handle escaped double quotes within the text.</p>

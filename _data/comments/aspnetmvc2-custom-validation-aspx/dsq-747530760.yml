@@ -1,0 +1,5 @@
+id: dsq-747530760
+date: 2011-02-22T15:23:09.0000000-08:00
+name: Sven
+avatar: https://disqus.com/api/users/avatars/Sven.jpg
+message: <p>This is now quite an old post about MVC 2 from 2009, and I am wondering if there is now with MVC 3 (or other validation frameworks) a better solution for avoiding the duplication that above was commented by "Ali Nov 20, 2009 12:19 AM" ?<br>(BTW, the readers of this blog that is also interested in this question can also watch out the new thread I crated at <a href="http://stackoverflow.com/questions/5089493/asp-net-mvc-avoiding-duplicated-validation-code-in-javascript-and-c-and-with" rel="nofollow noopener" title="http://stackoverflow.com/questions/5089493/asp-net-mvc-avoiding-duplicated-validation-code-in-javascript-and-c-and-with">stackoverflow.com/...</a> <br>)</p>

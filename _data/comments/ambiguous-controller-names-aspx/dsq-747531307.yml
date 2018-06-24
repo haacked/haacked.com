@@ -1,0 +1,5 @@
+id: dsq-747531307
+date: 2010-01-12T21:47:25.0000000-08:00
+name: Nick Kirkes
+avatar: https://disqus.com/api/users/avatars/Nick Kirkes.jpg
+message: "<p>On a related note, I've been having trouble getting an area to recognize a default controller.  For example, if I have an Admin area defined and want the default controller for that area to be a DashboardController, specifying the controller in the base route doesn't send the url \"~/Admin/\" to the correct resource (it doesn't find any resource to display).  If I try \"~/Admin/Dashboard\", then it works just fine.  I have a post on StackOverflow and would really appreciate some input.  Perhaps this is a bug?<br>SO post: <a href=\"http://stackoverflow.com/questions/2045761/trouble-setting-a-default-controller-in-mvc-2-rc-area\" rel=\"nofollow noopener\" title=\"http://stackoverflow.com/questions/2045761/trouble-setting-a-default-controller-in-mvc-2-rc-area\">stackoverflow.com/...</a><br>P.S. Sorry to hijack the comment thread, but at least there's some relationship to the main topic.</p>"

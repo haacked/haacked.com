@@ -1,0 +1,5 @@
+id: dsq-747516731
+date: 2006-09-18T07:54:04.0000000-07:00
+name: Arian Kulp
+avatar: https://disqus.com/api/users/avatars/Arian Kulp.jpg
+message: <p>At the time, I was under the impression that it was based on the ADO.NET provider model so would be pretty portable.  I'm not 100% sure how to achieve that portability though as all of my content was using SQL Server 2005 (of course!).  Microsoft pitches it as relevant to "SQL Server, Oracle, or MySQL as well as LDAP, WMI, or another data store for which specialized logic may be needed."  It is supposed to be pretty open-ended.  The downside here, of course, is not all ISP's will support it immediately when it goes gold, but I always shy away from 3rd party solutions when the built-in one works.  Considering that it isn't available yet could affect the decision, but is it critical enough that it can't wait for a more informed decision?  I'm not pushing one way or another -- just food for thought.</p>

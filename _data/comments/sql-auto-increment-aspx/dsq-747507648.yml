@@ -1,0 +1,5 @@
+id: dsq-747507648
+date: 2008-06-24T14:01:30.0000000-07:00
+name: Phil
+avatar: https://disqus.com/api/users/avatars/Phil.jpg
+message: <p>WOW, what a great help! With you help I found how to Update the target field with the sum of the updated value the orignal.<br><code><br>UPDATE      Cart<br>SET         CartQnty = CartQnty + @CartQnty<br>WHERE       (OrderNo = @OrderNO) AND (ProdID = @ProdID)<br></code><br>MANY THANKS</p>

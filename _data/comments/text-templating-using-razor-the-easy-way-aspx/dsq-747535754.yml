@@ -1,0 +1,5 @@
+id: dsq-747535754
+date: 2011-08-04T06:42:53.0000000-07:00
+name: Josh Carroll
+avatar: https://disqus.com/api/users/avatars/technofattie.jpg
+message: <p>So what about T4?<br>I know this isn't a fair analogy, but it reminds me of the <strong>Linq2Sql vs Entity Framework</strong> issue.<br>We now have two competing technologies within the MS stack that overlap a bit. Razor has a nicer syntax, is lighter weight, and more specialized. Whereas T4 is more general purpose, but the learning curb is a bit steeper...<br>Personally... I think it would be awesome if T4 adopted a more razor like syntax. Are the two sides talking, or is this just wishful thinking on my part :)</p>

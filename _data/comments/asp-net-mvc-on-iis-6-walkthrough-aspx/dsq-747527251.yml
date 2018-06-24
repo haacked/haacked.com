@@ -1,0 +1,5 @@
+id: dsq-747527251
+date: 2010-02-05T05:02:51.0000000-08:00
+name: Tim
+avatar: https://disqus.com/api/users/avatars/Tim.jpg
+message: <p>In MVC 2 RC2 I found the following changes needed to be made relative to this article if you go with the wildcard strategy.<br>* Remove the .mvc Extension handler<br>* Remove the .mvc from your Default Route ({controller}.mvc)<br>The web.config in the new version already registers for the .mvc it seems and does the right thing.</p>

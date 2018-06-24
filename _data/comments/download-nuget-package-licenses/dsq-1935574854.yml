@@ -1,0 +1,5 @@
+id: dsq-1935574854
+date: 2015-03-30T00:43:06.0000000-07:00
+name: Graham Clark
+avatar: https://disqus.com/api/users/avatars/GrahamClarkVC.jpg
+message: <p>In the "Catch" block, the $_ variable will refer to the exception, not the current package. I'm no powershell expert, but you could assign $_ to another variable before the Try.... like </p><pre><code>ForEach-Object { $p = $_; Try { (New-Object System.Net.WebClient).DownloadFile($p.LicenseUrl, 'c:\dev\licenses\' + $p.Id + ".txt") } Catch [system.exception] { Write-Host "Could not download license for $p.Id, $_" } }</code></pre>

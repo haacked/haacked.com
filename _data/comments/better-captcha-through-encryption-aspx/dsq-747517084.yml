@@ -1,0 +1,5 @@
+id: dsq-747517084
+date: 2006-10-09T12:25:09.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Thanks for the heads up. I looked at the source in <a href="http://www.aisto.com/roeder/dotnet/" rel="nofollow noopener" title="">Reflector</a> and didn't notice anything untoward.  However no harm in being safe about it now and trying to create some tests to see if any race conditions happen.<br>Like I said, unless CreateEncryptor() changes the state of the encryption algorithm, I can't imagine any problems.  But then again, that is no assurance.</p>

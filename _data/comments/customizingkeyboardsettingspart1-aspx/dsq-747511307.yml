@@ -1,0 +1,5 @@
+id: dsq-747511307
+date: 2007-03-21T22:16:38.0000000-07:00
+name: Tull
+avatar: https://disqus.com/api/users/avatars/Tull.jpg
+message: <p>I'm not a C person, but I understand the code.  I'm trying to implement an auto timeout into my application, the IMessageFilter is definately the way to go.  I've managed to trap keyboard and mouse events, but mouse clicks on menus aren't being logged.  Does anyone know the message numbers for menu events?<br>Cheers,<br>Tull.</p>

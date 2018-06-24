@@ -1,0 +1,5 @@
+id: dsq-747525732
+date: 2008-07-23T00:04:20.0000000-07:00
+name: Tim Hardy
+avatar: https://disqus.com/api/users/avatars/Tim Hardy.jpg
+message: <p>I'm having a lot of problems with Application_BeginRequest getting called many times on a single request.  I'm using Preview 4, IIS7, and I've even added your route ignores from above.  From watching in Fiddler or Firebug, it seems like every js, css, and even some gif files are triggering BeginRequest.  No one else seems to be seeing this behavior, except a co-worker, who is just as stuck as I am.  Any insight into how we can stop ASP.NET from handling static files would be much appreciated.</p>

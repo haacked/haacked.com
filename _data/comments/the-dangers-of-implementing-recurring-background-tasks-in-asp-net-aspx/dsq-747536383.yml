@@ -1,0 +1,5 @@
+id: dsq-747536383
+date: 2011-10-25T22:44:01.0000000-07:00
+name: Leonardo Campos
+avatar: https://disqus.com/api/users/avatars/Leonardo Campos.jpg
+message: <p>Should I use HostingEnvironment.IncrementBusyCount() on this case?<br>"If the busy count is greater than zero, the hosting application will not time out even if there are no pending requests."</p>

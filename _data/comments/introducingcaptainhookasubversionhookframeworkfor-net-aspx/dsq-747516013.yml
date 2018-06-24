@@ -1,0 +1,5 @@
+id: dsq-747516013
+date: 2008-01-02T18:54:38.0000000-08:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>I've written a Subversion hook tool that allow the SVN administrator to configure, at a folder level, how to handle pre and post-commit hooks. These include of course sending out a nicely formatted commit e-mail, but also enforcing any number of commit comment regular expression requirements and locking down repro paths and file types. <br>You can check out the highlights at <a href="http://mckechney.com/SubversionNotifyForWindows" rel="nofollow noopener" title="http://mckechney.com/SubversionNotifyForWindows">http://mckechney.com/Subver...</a> and it's also hosted on <a href="http://SourceForge.net" rel="nofollow noopener" title="SourceForge.net">SourceForge.net</a>.</p>

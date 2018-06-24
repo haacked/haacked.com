@@ -1,0 +1,5 @@
+id: dsq-747520329
+date: 2007-05-19T04:12:41.0000000-07:00
+name: Eric Kemp
+avatar: https://disqus.com/api/users/avatars/Eric Kemp.jpg
+message: <p>Phil,<br>You might want to take a look in:<br><strong>C:\Windows\System32\inetsrv\config</strong><br>In that folder, you'll find <strong>applicationHost.config</strong> and <strong>applicationHost.config.clean.install</strong><br>These effectively represent the replacement for the MetaBase in IIS 6 and earlier. It might be worth doing a diff on the two files, or simply replacing the existing applicationHost.config with a copy of applicationHost.config.clean.install.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747538533
+date: 2012-10-24T13:12:11.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Steffen: You only need that if you want to build the Visual Studio plugin. You don't need it to build NuGet.Core.dll and NuGet.exe.</p>"

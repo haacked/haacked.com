@@ -1,0 +1,5 @@
+id: dsq-747526356
+date: 2008-09-13T13:27:23.0000000-07:00
+name: eniac
+avatar: https://disqus.com/api/users/avatars/eniac.jpg
+message: <p>In response to Simone. I found the same VS crash problem. It possibly originates with the Power Commands plugin. Try uninstalling power commands or starting visual studio in safe mode, i.e. devenv.exe /SafeMode</p>

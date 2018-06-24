@@ -1,0 +1,5 @@
+id: dsq-747530141
+date: 2009-10-11T07:49:00.0000000-07:00
+name: dabai
+avatar: https://disqus.com/api/users/avatars/dabai.jpg
+message: <p>How can i used the generic view on areas project ?<br>when i create a view like :<br>&lt;%@ Page Title="" Language="C#" MasterPageFile="~/Areas/Admin/Views/Shared/Admin.Master" Inherits="System.Web.Mvc.ViewPage&lt;NetShop.Models.TModelList&lt;NetShop.Entities.RoleEnt&gt;&gt;" %&gt;<br>can't running , and the view page helper can't tooltip again.<br>bug ,i can used generic view on main project that not areas project.<br>wait for your online reply anxiously!<br>thank you !</p>

@@ -1,0 +1,5 @@
+id: dsq-747531134
+date: 2009-12-25T08:58:48.0000000-08:00
+name: Aaron Robinson
+avatar: https://disqus.com/api/users/avatars/Aaron Robinson.jpg
+message: <p>Phil,<br>Why not just have the element that you want to adorn with a [hide] link have the special class and then have jQuery inject the appropriate link? (with the added benefit of not having to worry about putting in those links, or bastardizing the rel attribute...)<br>[code]<br>&lt;div class="closable"&gt;<br>we should get a link at the end to hide this...<br>&lt;/div&gt;<br>&lt;div&gt;<br>this one doesn't get a link<br>&lt;/div&gt;<br>&lt;div class="closable"&gt;<br>this one gets a link too...<br>&lt;/div&gt;<br>[/code]<br>[code]<br>$(function() {<br>$('.closable').each(function() {<br>var closable = this;<br>$('<a>')<br>.attr('href', '#')<br>.html('[click to hide]')<br>.click(function() {<br>$(closable).hide();<br>return false;<br>})<br>.appendTo(closable)<br>;<br>});<br>});<br>[/code]<br>- Aaron</a></p>

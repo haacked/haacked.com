@@ -1,0 +1,5 @@
+id: dsq-747527952
+date: 2009-01-31T03:15:10.0000000-08:00
+name: simon
+avatar: https://disqus.com/api/users/avatars/simon.jpg
+message: <p>@haacked how can we best ensure we sync the futures DLL with new versions of the core MVC framework that this tool downloads. won't there always be a new version of futures? for now the old one at least appears to work</p>

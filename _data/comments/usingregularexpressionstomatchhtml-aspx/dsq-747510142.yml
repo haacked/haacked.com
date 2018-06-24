@@ -1,0 +1,5 @@
+id: dsq-747510142
+date: 2004-10-26T02:43:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Funny you mention this. I was just talking about this with a friend and on a newsgroup.  <br><br><br><br>Regular expressions just aren't well suited for nested matching.  The balanced groupings is a Microsoft innovation to regular expressions, so it's not something I've played around with much.<br><br><br><br>Since the info I needed was inside a tag, my regular expression works fine for that type of processing.  You could also use it to strip all tags from a document.<br><br><br><br>If I was using it to actually parse an HTML doc (which I have some code that does), I keep track of indices and everytime I match a tag, I record the beginning and end index.  Then I compare that with the previous matched tag indices and I grab the content between.</p>

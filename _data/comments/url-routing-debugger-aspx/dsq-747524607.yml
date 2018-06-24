@@ -1,0 +1,5 @@
+id: dsq-747524607
+date: 2012-11-29T03:47:02.0000000-08:00
+name: Desmond
+avatar: https://disqus.com/api/users/avatars/Desmond.jpg
+message: <p>Hi, I did install your package from nuget. i can see the reference to the dll is also added correctlyt and in the web.config   &lt;add key="RouteDebugger:Enabled" value="true" /&gt; is also added. Still im getting The Type or namespace name 'RouteDubug.RouteDebugger' does not exist in the namespace RouteDebug (Are you missing any reference?). I am using mvc4 in visual studio 2010. Thanks.</p>

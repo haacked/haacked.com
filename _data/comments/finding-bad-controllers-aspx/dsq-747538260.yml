@@ -1,0 +1,5 @@
+id: dsq-747538260
+date: 2012-07-25T09:49:35.0000000-07:00
+name: James Culbertson
+avatar: https://disqus.com/api/users/avatars/James Culbertson.jpg
+message: <p>Another case for bad controllers is when the controller root name matches the name of a folder on the website, for example "ContentController".  This will also fail silently and is frustrating to troubleshoot.<br><a href="http://stackoverflow.com/questions/7586060/why-in-asp-net-mvc-3-the-default-route-is-not-working-for-a-controller-called-c" rel="nofollow noopener" title="http://stackoverflow.com/questions/7586060/why-in-asp-net-mvc-3-the-default-route-is-not-working-for-a-controller-called-c">Why in ASP.NET MVC 3 the default route is not working for a controller called ContentController?</a></p>

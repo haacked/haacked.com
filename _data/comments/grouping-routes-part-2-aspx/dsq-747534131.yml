@@ -1,0 +1,5 @@
+id: dsq-747534131
+date: 2011-01-09T07:45:46.0000000-08:00
+name: simon
+avatar: https://disqus.com/api/users/avatars/simon.jpg
+message: <p>I really wish you'd address the problem of inheriting route values sometime in a blog post :-) Even when using RouteUrl(...) with an explicit named route route parameters such as 'gender', 'id' and even 'controller' and 'action' are inherited if they're not explicitly specified. It's tripped me up many times. Thanks!<br><a href="http://stackoverflow.com/questions/1148443" rel="nofollow noopener" title="http://stackoverflow.com/questions/1148443">http://stackoverflow.com/questions/1148443</a></p>

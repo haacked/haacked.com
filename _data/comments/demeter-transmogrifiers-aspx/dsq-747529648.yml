@@ -1,0 +1,5 @@
+id: dsq-747529648
+date: 2009-08-17T21:51:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Jon In my last post on LoD I <a href="http://www.cs.umd.edu/users/basili/publications/journals/J62.pdf" rel="nofollow noopener" title="http://www.cs.umd.edu/users/basili/publications/journals/J62.pdf">pointed to a study</a> that provide evidence to suggest The Law of Demeter reduces the probability of software faults.<br>So it's not merely anecdotal evidence. One study does not make a proof, but I think it's more than we typically have for many of the axioms and best practices that we take for granted. So I wouldn't be so quick to dismiss it.</p>

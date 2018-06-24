@@ -1,0 +1,5 @@
+id: dsq-747521905
+date: 2007-08-13T22:47:42.0000000-07:00
+name: Jon Galloway
+avatar: https://disqus.com/api/users/avatars/Jon Galloway.jpg
+message: <p>The information on the Coral CDN page seems to indicate that their goal isn't to speed up your site, but to safeguard against traffic spikes (a.k.a the Slashdot or Digg effect).<br>I'd say this is handy to have configured and in use on larger media files (avi, mpeg, zip), and to have the option of adding image filetypes if you get a traffic spike.</p>

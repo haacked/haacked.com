@@ -1,0 +1,5 @@
+id: dsq-747524454
+date: 2009-04-05T04:57:27.0000000-07:00
+name: Josh Lewis
+avatar: https://disqus.com/api/users/avatars/Josh Lewis.jpg
+message: <p>Just wanted to follow up and say that I got it working with AJAX after finding your comment on Stack Overflow here <a href="http://stackoverflow.com/questions/273447/how-to-ignore-route-in-asp-net-forms-url-routing" rel="nofollow noopener" title="http://stackoverflow.com/questions/273447/how-to-ignore-route-in-asp-net-forms-url-routing">stackoverflow.com/.../how-to-ignore-route-in-as...</a> <br>The one comment that I want to make is that it is important to keep the order of your routes in mind else this fix doesn't work.<br>Thanks for a great post.<br>Josh</p>

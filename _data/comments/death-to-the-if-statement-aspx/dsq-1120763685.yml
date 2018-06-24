@@ -1,0 +1,5 @@
+id: dsq-1120763685
+date: 2013-11-12T22:37:13.0000000-08:00
+name: Matteo Ferrando
+avatar: https://disqus.com/api/users/avatars/chamini2.jpg
+message: <p>in Haskell:</p><p></p><pre><code>padded i ls = take i (ls ++ repeat 0)</code></pre><p></p><p>Now there is no doubt of what's happening</p>

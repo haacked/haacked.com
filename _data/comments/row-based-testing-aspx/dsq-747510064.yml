@@ -1,0 +1,5 @@
+id: dsq-747510064
+date: 2008-08-28T12:33:47.0000000-07:00
+name: Allen
+avatar: https://disqus.com/api/users/avatars/Allen.jpg
+message: <p>RowTest is cool, but how I can generate a Rowtest set by code and attach it to my test funciton's attributes? In my case I need to fetching test data from database and generate a dynamic test case to a rowtest set collection, and then attach it to the test function, is it possible to do it?</p>

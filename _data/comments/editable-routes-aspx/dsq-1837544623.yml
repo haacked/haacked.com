@@ -1,0 +1,5 @@
+id: dsq-1837544623
+date: 2015-02-05T16:41:06.0000000-08:00
+name: Abhijeet
+avatar: https://disqus.com/api/users/avatars/disqus_p3jO0gZa7v.jpg
+message: "<p>@haacked: I'm doing something similar to generate an assembly on the fly and add it to the BuildManager by calling AddReferencedAssembly but am running into issues.<br>I've posted this on SO but haven't received any proper responses and was wondering if you could take a look.</p><p><a href=\"http://stackoverflow.com/questions/28231162/adding-assemblies-to-buildmanager-using-codedom-causing-intermittent-errors\" rel=\"nofollow noopener\" title=\"http://stackoverflow.com/questions/28231162/adding-assemblies-to-buildmanager-using-codedom-causing-intermittent-errors\">http://stackoverflow.com/qu...</a><br></p>"

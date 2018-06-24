@@ -1,0 +1,5 @@
+id: dsq-747519782
+date: 2007-04-25T20:40:57.0000000-07:00
+name: daniel
+avatar: https://disqus.com/api/users/avatars/daniel.jpg
+message: <p>Some people have hinted at this, but it seems to me that custom MembershipProviders should not be the domain of application developers, but rather the developers implementing a solution.  The main attraction of the provider model is that if an application uses it, and my organization uses it, then I can be pretty sure that I can use it within my organization's security infrastructure.  I can drop in Active Directory or a custom provider against a legacy security database, and it just works.<br>If the application developers start rolling their own "new improved SqlMembershipProvider", that effectively  prohibits that level integration.<br>Maybe I'm missing something, but I think the "Standard Membership Provider" is the one that the organization or individual says it is.<br></p>

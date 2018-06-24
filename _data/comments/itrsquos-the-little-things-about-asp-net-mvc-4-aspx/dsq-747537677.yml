@@ -1,0 +1,5 @@
+id: dsq-747537677
+date: 2012-03-12T02:41:13.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Dmitry, they *do* support that. You can pass in an instance of <code>IServiceLocator</code>. In fact, if you pass in <code>new Object()</code> to <code>SetResolver</code> you'll get an exception message stating such. I just didn't have an instance handy so I wrote a simple adapter.</p>

@@ -1,0 +1,6 @@
+id: dsq-3510070049
+replyToId: dsq-3509177830
+date: 2017-09-09T15:12:51.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>The article is about both RenderAction and Action. They're effectively the same method. The difference is RenderAction returns void and writes directly to the response. Whereas Action returns an HtmlString with the output. That makes Action easier to use than RenderAction. The syntax is much cleaner, hence I used that for my examples.</p>

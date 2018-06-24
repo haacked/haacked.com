@@ -1,0 +1,5 @@
+id: dsq-747537241
+date: 2012-06-06T08:40:45.0000000-07:00
+name: Jonas
+avatar: https://disqus.com/api/users/avatars/Jonas.jpg
+message: <p>I'm having problems entering my password when PowerShell asks for it:<br>Enter passphrase for C:\Users\jonas\.ssh\id_rsa:<br>I tried entering it manually, and I also tried copying it to the clipboard and then choosing 'Edit' --&gt; 'Paste' in Powershell. It always responds with<br>Bad passphrase, try again ...<br>The password I'm entering is correct, it is the one I noted when I created the SSH key, and it works great with Pageant/Putty and TortoiseGit.<br>Thanks for any hints.</p>

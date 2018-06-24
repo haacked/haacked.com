@@ -1,0 +1,5 @@
+id: dsq-747537672
+date: 2012-03-11T21:31:07.0000000-07:00
+name: Bilal
+avatar: https://disqus.com/api/users/avatars/Bilal.jpg
+message: <p>And it worked. I was using the MVC namespace for IDependencyResolver, realised the mistake and used Http.Service namespace to make it work. <br>Really appreciate you taking out time to respond back.<br>Cheers<br>Bilal</p>

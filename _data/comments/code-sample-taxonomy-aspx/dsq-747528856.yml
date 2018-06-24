@@ -1,0 +1,5 @@
+id: dsq-747528856
+date: 2009-04-17T00:04:00.0000000-07:00
+name: meisinger
+avatar: https://disqus.com/api/users/avatars/meisinger.jpg
+message: <p>@Karl - that is just nieve. to think that if someone didn't know IoC that they couldn't lead a customer facing team is just... well... wrong. what's next? if they don't know repository pattern they can't lead? if they don't know parallel computing they can't lead?<br>the solution needs to transcend buzz (MVC being one of them)<br>i hate to break it to you but not every project needs IoC or should use MVC<br>i think the solution should be to stop the sample apps and reference apps<br>i think focusing more on what the framework can do and how to use it is more important. the prototypes and walk throughs about the MVC framework have been good. no need to go any further than that. <br>look at the walk throughs for PowerShell and WCF<br>those are give enough to explain what the bits do and how to start using them but the rest is up to you<br>then the communitiy can go off and educate others on how to use the newest bits in their every day life</p>

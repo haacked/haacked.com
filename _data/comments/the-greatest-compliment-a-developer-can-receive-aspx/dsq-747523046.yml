@@ -1,0 +1,5 @@
+id: dsq-747523046
+date: 2007-10-09T16:11:22.0000000-07:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>Ok, I can forgive the concatenation. But your code uses String.Empty instead of "" which is clearly the way Buddha meant it to be!</p>

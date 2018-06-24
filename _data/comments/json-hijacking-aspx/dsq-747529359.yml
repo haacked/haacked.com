@@ -1,0 +1,5 @@
+id: dsq-747529359
+date: 2009-06-25T13:52:00.0000000-07:00
+name: Asbj&#248;rn Ulsberg
+avatar: https://disqus.com/api/users/avatars/Asbj&#248;rn Ulsberg.jpg
+message: "<p>I have a fairly simple solution to mitigate this problem without requiring POST or some other obscure (and wrong) HTTP method to access the JSON data. Most Ajax libraries, when accessing JSON, request it with 'Accept: appliaction/json'. They also append the HTTP header 'X-Requested-With: XMLHttpRequest'.<br>If both of these headers were added up as requirements to access the JSON data (on top of Authorize), a simple HTML script reference to the AdminBalances JsonResult Action wouldn't work. My humble opinion is that promoting POST as a solution to problem this is misguided and is like forcing a screw in with a hammer.</p>"

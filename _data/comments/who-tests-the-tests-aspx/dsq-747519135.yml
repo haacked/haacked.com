@@ -1,0 +1,5 @@
+id: dsq-747519135
+date: 2007-03-13T20:00:55.0000000-07:00
+name: michaud
+avatar: https://disqus.com/api/users/avatars/michaud.jpg
+message: <p>The test you write in TDD should (mostly) be based on the information you get from the information analist. of course you extrapolate atomic values and states within the implementation but in the end the tests that are based on that information is the test for the test.</p>

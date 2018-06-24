@@ -1,0 +1,5 @@
+id: dsq-747508250
+date: 2005-03-30T23:10:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>That's a static property, so place the call somewhere that you know will execute before your http request code does.  For example you could set it just before your http request.  Or you could put it in a static constructor.</p>

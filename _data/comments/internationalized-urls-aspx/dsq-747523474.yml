@@ -1,0 +1,5 @@
+id: dsq-747523474
+date: 2007-11-29T20:16:57.0000000-08:00
+name: Nathan
+avatar: https://disqus.com/api/users/avatars/Nathan.jpg
+message: <p>What about phoneticizing the word? You mention above that 하ㅋㄷ has a phonetic equivalent which can be expressed in ASCII-range characters. I believe that most (all?) east-Asian languages have a fairly standard glyph/ideogram-to-phonetic-spelling mapping that could be applied. This would probably be more useful than a big nasty urlencoded string.</p>

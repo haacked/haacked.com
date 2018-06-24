@@ -1,0 +1,5 @@
+id: dsq-747517746
+date: 2006-11-22T06:09:24.0000000-08:00
+name: Marc C. Brooks
+avatar: https://disqus.com/api/users/avatars/Marc C. Brooks.jpg
+message: <p>Ahem... StringBuilder's .Length parameters is NOT readonly... You can set the value or adjust as desired. So, the correct way (when Join doesn't really apply) is:<br><code>Fake[] fakes = Fake.GetFakes();<br>StringBuilder builder = new StringBuilder();<br>foreach(Fake fake in fakes)<br>{<br>   builder.Append(fake.SomeProp);<br>   builder.Append("|");<br>}<br>if (builder.Length  &gt; 0) builder.Length--;<br>string delimited = builder.ToString();<br>Console.WriteLine(delimited);<br></code><br></p>

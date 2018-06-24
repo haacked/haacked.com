@@ -1,0 +1,6 @@
+id: dsq-1529960292
+replyToId: dsq-1529754333
+date: 2014-08-06T05:18:10.0000000-07:00
+name: Max Battcher
+avatar: https://disqus.com/api/users/avatars/WorldMaker.jpg
+message: <p>"Production branches" aren't github flow, and are a bit of a pet peeve of mine when I see then in git repos. Your deployment tooling should either be able to tell you the last commit hash it deployed and/or create a git tag for the deployed release. No reason to keep merged branch pointers around to "mirror" Production. (It also sounds dangerous to me that you imply there may be times that your "production" branch isn't fully merged to master. Seems to me to indicate that you might be on a hybrid flow that you should reconsider.)</p>

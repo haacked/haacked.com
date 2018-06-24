@@ -1,0 +1,5 @@
+id: dsq-747525720
+date: 2008-07-14T11:20:34.0000000-07:00
+name: Sean Lynch
+avatar: https://disqus.com/api/users/avatars/Sean Lynch.jpg
+message: <p>The regex in this case isn't so much defining the route as it is limiting which routes are valid for a specific URL.<br>So while it has generally the same effect, you do not get the catch all parsed nicely into the route values collection, or passed in as parameters to the action, just the single catchall.<br>Though I could be wrong.</p>

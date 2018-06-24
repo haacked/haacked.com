@@ -1,0 +1,5 @@
+id: dsq-747515666
+date: 2006-07-10T21:38:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>Jiho: Initially yes.  If you are looking for something to generate <em>and</em> parse feeds, check out the <a href=\"http://www.asp.net/downloads/teamprojects/default.aspx?tabid=62#rss\" rel=\"nofollow noopener\" title=\"rss toolkit\">RSS</a> toolkit.<br>Ryan: Right now, Subtext's RSS Feeds support E-Tags, If-Modified-Since, Delta-Encoding, and Gzip compression.  I would want something that supported all that.</p>"

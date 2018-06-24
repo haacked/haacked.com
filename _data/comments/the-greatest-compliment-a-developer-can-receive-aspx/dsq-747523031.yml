@@ -1,0 +1,5 @@
+id: dsq-747523031
+date: 2007-10-08T22:54:50.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Joe - Totally agree.<br>@Mike - I'm not a Java programmer. My personal tastes is bracket on its own line except in the case of code within a view template file. That seems to be the general C# convention, though I'm sure many will disagree. My point is neither choice is the "Right" one, but developers have a tendency to let what is really a trivial decision lower their esteem for another developer.</p>

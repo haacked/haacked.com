@@ -1,0 +1,5 @@
+id: dsq-747530768
+date: 2012-03-14T18:30:23.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Tom That interface didn't exist until ASP.NET 4, but MVC 2 was released prior to that. I think Brad Wilson wrote some adapters for running MVC 2 on ASP.NET 4 that make that work.</p>

@@ -1,0 +1,5 @@
+id: dsq-747523313
+date: 2007-11-12T12:53:16.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@f baldoni - I assure you, no backward bending required. I'm sorry you got no value from my post. I got the same amount of value from your comment.<br>@Jeff - ASP.NET MVC will *not* replace WebForms + PostBack. It's an alternative means of building a web app.<br>@Scott - I'm still getting more familiar with Astoria to better understand how it fits with MVC. My understanding is that it provides a fast way to get data via RESTful queries.</p>

@@ -1,0 +1,5 @@
+id: dsq-747511638
+date: 2006-08-03T18:19:00.0000000-07:00
+name: Michael Freidgeim
+avatar: https://disqus.com/api/users/avatars/Michael Freidgeim.jpg
+message: <p>Your UnpackScript(string scriptName, string scriptLanguage) doesn't use scriptLanguage,but hardcoded it to Javascript</p>

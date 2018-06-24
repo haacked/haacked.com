@@ -1,0 +1,5 @@
+id: dsq-747535488
+date: 2011-07-06T09:32:33.0000000-07:00
+name: GONeale
+avatar: https://disqus.com/api/users/avatars/GONeale.jpg
+message: <p>Hi Phil, I am not sure how much say you have over the direction of Nuget, but something I would love to see in future versions is the ability for me to specify which target framework version I would like of the package, eg. a command like 'install-package Ninject 4' for the .net 4 version, or better yet, based on the project I am installing the package to, it detects the target framework of the application.  For instance when I install ninject I get all these folders:<br>net35-Client<br>net35-Full<br>net40-Client<br>net40-Full<br>sl2<br>sl3<br>sl3-wp<br>sl4<br>Which is mostly redundant as I only use one of those assemblies, moreover this takes up a bunch of extra space (which then goes into TFS and downloaded to other developers).<br>Has this been raised already? Let me know your thoughts,<br>Graham</p>

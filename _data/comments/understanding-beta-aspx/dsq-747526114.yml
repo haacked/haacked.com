@@ -1,0 +1,5 @@
+id: dsq-747526114
+date: 2008-08-16T04:42:55.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Jonathan yeah, I didn't include RC which stands for "Release Candidate". RC's are pretty much like less buggy BETA releases. These are candidates to become the actual release and there is a very small chance of adding new features between the RC and the RTM. Any changes from an RC to an RTM are usually just bug fixes.</p>

@@ -1,0 +1,5 @@
+id: dsq-747538141
+date: 2012-06-06T02:45:57.0000000-07:00
+name: David Staab
+avatar: https://disqus.com/api/users/avatars/david_staab.jpg
+message: "<p>Regarding a view of the DAG: one of the primary reasons to use a DVCS is to have a non-linear rev history. I don't know how I'll be able to use GHFW to manage the branches I create for every public release of my product that coexist simultaneously.<br>GHFW seems like a big step forward, but it still needs to provide interfaces for all the features of Git, including a DAG viewer, a log viewer, SSH keygen from the UI, etc. It needs to be competitive with TortoiseSVN in terms of usability and full-featuredness if you want to pull users over to it.</p>"

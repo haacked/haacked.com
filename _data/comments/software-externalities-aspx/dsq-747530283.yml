@@ -1,0 +1,5 @@
+id: dsq-747530283
+date: 2009-10-13T01:05:00.0000000-07:00
+name: Eric Duncan
+avatar: https://disqus.com/api/users/avatars/Eric Duncan.jpg
+message: <p>Exactly Phil.  This is why me and my team have learned the ways of IoC w/D.I. even to the point of writing stub interfaces to 'reserve that possibility in the future'.  Something that agile gurus would cringe at.  <br>Taking the existing client I am working with, about 20% of the specs are left "undefined", dependant on whichever 3rd party he gets to sign a partner deal with.  So far, I have about 9 stub interfaces for things like IAlertService with a single method.  It does not do anything yet, but BDD is being used (MSpec actually), software is getting written against the tests, and we have the stub for when the client signs the deal with the 3rd party.<br></p>

@@ -1,0 +1,6 @@
+id: dsq-2756144123
+replyToId: dsq-2755701550
+date: 2016-06-28T21:23:31.0000000-07:00
+name: Nyerguds
+avatar: https://disqus.com/api/users/avatars/maartenmeuris.jpg
+message: <p>I dunno. The whole distinction of "primitives" seems rather useless to me. There's really no such thing in C#; it's all artificial. There's just structs and classes, and that doesn't even have a correlation with these aliases; String is a class, and DateTime is a struct, and I'm fairly sure you can simply make your own structs just like you can make your own classes anyway. Not even going into the confusing historical mess of the changing meanings of such types as "int", "short" and "long". Seems safer and a lot more clear to simply use "Int32" when you mean "Int32", then you'll always know in a single look that it's a 32-bit integer.</p><p>Prevailing use is just up to education, in the end. People use it how they're taught to use it. MS just included these aliases for the programmers used to using such things from C++ I guess, but in my opinion it might've been better to simply not include them at all, and making camelcase the rule for all types, simple as that.</p><p>And yes, I use "Int32" when writing my 'for' loops :p</p>

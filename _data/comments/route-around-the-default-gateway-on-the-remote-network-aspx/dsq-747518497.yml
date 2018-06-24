@@ -1,0 +1,5 @@
+id: dsq-747518497
+date: 2007-01-26T21:11:03.0000000-08:00
+name: Michael K. Campbell
+avatar: https://disqus.com/api/users/avatars/Michael K. Campbell.jpg
+message: <p>Interesting. I've seen this approach before back when I worked at Altiris... but it always seemed a bit kludge-y.<br>My solution has just been to fire up a VM on either VMware WorkStation or VMware Server (MS VPC or Virtual Server would work equally well), and put all of my VPN connections/needs on that box (or copies of it - sometimes VPN software doesn't play nicely with others). <br>I find that that gives me a near seamless way of interacting with clients while allowing me to check email, google for answers, etc...  Plus it provides an extra layer/level of protection should my box get compromised... as thieves would then have to log in to my VM as well to be able to attempt to fire up a connection into one of my client's networks. (Not sure how much of a hinderance that would be... but it's a nice bonus).</p>

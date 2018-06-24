@@ -1,0 +1,5 @@
+id: dsq-747511717
+date: 2005-05-08T05:12:00.0000000-07:00
+name: Victor Boctor
+avatar: https://disqus.com/api/users/avatars/Victor Boctor.jpg
+message: <p>In .NET 2.0 there is the DbConnectionStringBuilder base class which allows you to generate/parse/modify connection strings.  It is not a control however.<br><br><br><br>The following db specific classes are derived from DbConnectionStringBuilder:<br><br>- System.Data.Odbc.OdbcConnectionStringBuilder<br><br>- System.Data.OleDb.OleDbConnectionStringBuilder<br><br>- System.Data.OracleClient.OracleConnectionStringBuilder<br><br>- System.Data.SqlClient.SqlConnectionStringBuilder<br><br><br><br>Regards,<br><br>Victor.</p>

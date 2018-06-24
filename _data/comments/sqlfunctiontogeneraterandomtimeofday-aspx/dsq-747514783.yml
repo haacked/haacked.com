@@ -1,0 +1,5 @@
+id: dsq-747514783
+date: 2012-08-30T10:37:37.0000000-07:00
+name: Mike Emo
+avatar: https://disqus.com/api/users/avatars/Mike Emo.jpg
+message: <p>Here was an approach I took.  I need to be able to specify the range (a random time between 5 am and 7 pm for example).<br>-- I want to get a randome time of day between 12 am and 1:30 am<br>DECLARE @startTime Time = '00:00:00'<br>DECLARE @endTime TIME = '01:30:00'<br>-- Get the number of seconds between these two times<br>-- (eg. there are 3600 seconds between 12 AM and 1 AM)<br>DECLARE @maxSeconds int = DATEDIFF(ss, @startTime, @endTime)<br>-- Get a random number of seconds between 0 and the number of <br>-- seconds between @startTime and @endTime (@maxSeconds)<br>DECLARE @randomSeconds int = (@maxSeconds + 1) * RAND(convert(varbinary, newId() )) <br>-- Add the random number of seconds to @startTime and return that random time of day<br>SELECT (convert(Time, DateAdd(second, @randomSeconds, @startTime))) AS RandomTime</p>

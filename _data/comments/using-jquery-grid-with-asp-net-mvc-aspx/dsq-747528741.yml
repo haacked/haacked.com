@@ -1,0 +1,5 @@
+id: dsq-747528741
+date: 2010-09-27T22:02:18.0000000-07:00
+name: Paul Speranza
+avatar: https://disqus.com/api/users/avatars/Paul Speranza.jpg
+message: <p>Phil,<br>I also ran into the issue with the grid not displaying the rows with MVC 2 and VS 2010.<br>Looking at what Nader wrote<br>    Return Json(jsonData, JsonRequestBehavior.AllowGet)<br>    this will allow the data to return and get populated, BUT      <br>    THERE IS A COST. NOW, you can possible be JSON Hijacked.<br>What is the correct way of getting around this problem?<br>Regards,<br>Paul</p>

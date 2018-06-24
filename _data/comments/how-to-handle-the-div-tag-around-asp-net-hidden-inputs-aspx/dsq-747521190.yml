@@ -1,0 +1,5 @@
+id: dsq-747521190
+date: 2008-02-24T23:55:43.0000000-08:00
+name: John
+avatar: https://disqus.com/api/users/avatars/John.jpg
+message: <p>Got a question about form tag and css layout for div ...whenever I place a form tag in my aspx page the tag takes the upper half page of my aspx page and I cannot place center div properly from top of the page that div only appears where the form tag ends in the page so bacically the top half page is empty white space in the center... any solution to this??</p>

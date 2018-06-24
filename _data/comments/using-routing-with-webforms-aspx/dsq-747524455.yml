@@ -1,0 +1,5 @@
+id: dsq-747524455
+date: 2010-01-14T21:49:41.0000000-08:00
+name: Eric
+avatar: https://disqus.com/api/users/avatars/Eric.jpg
+message: "<p>I have implemented your solution and find that it works great, with one exception. I load up a RouteCollection using some data from a database to act as a VirtualPathProvider. When the user hits my domain: domain/abc, the abc part is transalted into a querystring value to pull some data.<br>My issue, is that when the abc becomes a value that wasn't loaded into the RouteCollection, I obviously get errors. How is this handled?<br>Great post,<br>Eric</p>"

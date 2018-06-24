@@ -1,0 +1,5 @@
+id: dsq-747519404
+date: 2007-03-25T12:50:54.0000000-07:00
+name: Damien Guard
+avatar: https://disqus.com/api/users/avatars/Damien Guard.jpg
+message: <p><em>"If this was a brand new class, I would probably make the return type of the States property ReadOnlyCollection&lt;State&gt; which does not contain an Add method."</em><br>ReadOnlyCollection&lt;T&gt; does contain an Add method - if it didn't then it couldn't be a decorator to IList&lt;T&gt; which defines the Add method.<br>It is a bad example of the Decorator design pattern in that it does not "Attach additional responsibilities to an object dynamically" but instead removes responsibility by failing to implement the majority of the IList/ICollection interface - something which should be ringing alarm bells.<br>Personally I'd go with defining a StateList class that just implemented IEnumerable&lt;State&gt; and provided Count, Contains, IndexOf and Item[] members.<br>[)amien</p>

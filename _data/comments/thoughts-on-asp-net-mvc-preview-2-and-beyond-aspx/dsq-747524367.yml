@@ -1,0 +1,5 @@
+id: dsq-747524367
+date: 2008-03-12T05:13:13.0000000-07:00
+name: Ken Robertson
+avatar: https://disqus.com/api/users/avatars/Ken Robertson.jpg
+message: <p>For me, the RTM question has a few views:<br>1) For development purposes, I'd want to know where the churn/instability is.  Having source definitely helps with checking for instability, I could debug into it if I have issues.  Knowning where churn will help with knowing what things to avoid heavy investment in for now.<br>2) For launching a site using MVC,  stability is the biggest factor.  If the site is live, want it to work.  Churn is a second, since want to know where change will happen for future updates.<br>3) For a development on a product, the actual RTM is most important.  If I'm working on something I plan on releasing to the general public, and want people other than those who know how to build from source to use it, knowing when the RTM was coming would be most important.  It likely wouldn't be on many hosting providers until RTM, or if before then, you can get inconsistencies with versions.</p>

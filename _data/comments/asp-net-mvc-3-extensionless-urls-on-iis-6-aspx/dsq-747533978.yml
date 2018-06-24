@@ -1,0 +1,5 @@
+id: dsq-747533978
+date: 2012-08-16T08:13:54.0000000-07:00
+name: Rick
+avatar: https://disqus.com/api/users/avatars/Rick.jpg
+message: '<p>Yesterday I discover an issue with our development server. All sites that are hosted on that box suddenly stopped working correctly. Pages such as default.aspx would not open unless the exact url was put in- I was getting a 404 error referencing this url: /eurl.axd/ae8672d77d1e42428c96660118d2ccd1/<br>After some research, I identifed  disabling Extensionless URLs as a workable fix. The question is, why did it sudenly break in the first place? Have any recent Microsoft patches broken this feature?</p>'

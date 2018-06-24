@@ -1,0 +1,5 @@
+id: dsq-1845764911
+date: 2015-02-10T08:12:06.0000000-08:00
+name: Faisal
+avatar: https://disqus.com/api/users/avatars/Faisal.jpg
+message: "<p>///</p><p> &lt;summary&gt;</p><p>/// Validates the email if it follows the valid email format</p><p>/// &lt;/summary&gt;</p><p>/// &lt;param name=\"emailAddress\"&gt;&lt;/param&gt;</p><p>/// &lt;returns&gt;&lt;/returns&gt;</p><p>public static bool EmailIsValid(string emailAddress)</p><p>        {</p><p>        {</p><p>//if string is not null and empty then check for email follow the format</p><p>return string.IsNullOrEmpty(emailAddress)?false : new Regex(@\"^(?!\\.)(\"\"([^\"\"\\r\\\\]|\\\\[\"\"\\r\\\\])*\"\"|([-a-z0-9!#$%&amp;'*+/=?^_`{|}~]|(?</p>"

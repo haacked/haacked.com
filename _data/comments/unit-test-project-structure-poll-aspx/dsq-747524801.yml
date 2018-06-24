@@ -1,0 +1,5 @@
+id: dsq-747524801
+date: 2008-04-09T23:47:10.0000000-07:00
+name: Bil Simser
+avatar: https://disqus.com/api/users/avatars/Bil Simser.jpg
+message: <p>Thanks to Phil for yet another great discussion. We were actually having this discussion on our day jobs and are trying the experiment of keeping test assemblies in our domain code (check out my blog for a long description and comments from others on the approach).<br>I'm leaning on the side of:<br>physical structure != domain structure != test structure != deployment<br>We'll see how far I fall from the horse.</p>

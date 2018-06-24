@@ -1,0 +1,5 @@
+id: dsq-747522201
+date: 2007-08-26T12:17:04.0000000-07:00
+name: Dave Ward
+avatar: https://disqus.com/api/users/avatars/Encosia.jpg
+message: <p>I think that's a great point.  It's so easy to miss the forest for the trees, writing overly complex routines that shave the rough edges off the hurdles, when the hurdles themselves should have never been there.<br>For phone numbers, I find that a masked entry field works well.  The one in the AJAX Toolkit is great.<br>When you allow <em>too</em> much freedom, you inevitably get a database full of garbage like "Same as home" and "555-1212 or 555-1234".</p>

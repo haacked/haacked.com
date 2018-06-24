@@ -1,0 +1,5 @@
+id: dsq-747521188
+date: 2008-01-23T22:48:58.0000000-08:00
+name: Alexander
+avatar: https://disqus.com/api/users/avatars/Alexander.jpg
+message: "<p>You may put js function into body onload: it will scan html for div, containing asp hidden fields and set style.display = 'none' for them :)<br>So all your elements will be aligned after page loading...<br>Cumbersome! hahaha</p>"

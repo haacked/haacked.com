@@ -1,0 +1,5 @@
+id: dsq-747511669
+date: 2008-07-08T14:33:12.0000000-07:00
+name: Vinay
+avatar: https://disqus.com/api/users/avatars/Vinay.jpg
+message: '<p><br>I am getting below error during the tagging. I tried changing the permission to 0777 for the directory in the repository. Any solution.<br>cvs tag: failed to create lock directory for cvs.lock_old/#cvs.lock): No such file or directory<br>cvs [tag aborted]: read lock failed - giving up<br></p>'

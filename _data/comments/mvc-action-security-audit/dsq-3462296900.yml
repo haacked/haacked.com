@@ -1,0 +1,5 @@
+id: dsq-3462296900
+date: 2017-08-10T21:32:10.0000000-07:00
+name: johnkors
+avatar: https://disqus.com/api/users/avatars/johnkors.jpg
+message: <p>Another option is a global Auth filter + a "NoAuthorize"-attribute on the logon-action. So auth by default, then opt out explicitly on the few that don't need it.</p>

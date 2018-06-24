@@ -1,0 +1,5 @@
+id: dsq-827816924
+date: 2013-03-13T04:10:29.0000000-07:00
+name: John Penney
+avatar: https://disqus.com/api/users/avatars/google-6bae11ef65a4a796c3c7393259c2eee1.jpg
+message: "<p>I've been using this splendid utility for a while now - thanks, Phil!</p><p>I have encountered a problem attempting to do a Redirect: I'm getting a NullReferenceException.  Has anyone managed to exercise a Redirect under HttpSimulator?  I've copied this question to <a href=\"http://stackoverflow.com/questions/15383180/redirect-using-httpsimulator-gives-nullreferenceexception\" rel=\"nofollow noopener\" title=\"http://stackoverflow.com/questions/15383180/redirect-using-httpsimulator-gives-nullreferenceexception\">http://stackoverflow.com/qu...</a> too.</p>"

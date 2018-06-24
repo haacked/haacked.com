@@ -1,0 +1,5 @@
+id: dsq-747534504
+date: 2011-02-21T03:58:16.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Martin they could have been normal methods. It's just an example of how I can add more methods later without changing the <code>Html5Helper</code> class.</p>

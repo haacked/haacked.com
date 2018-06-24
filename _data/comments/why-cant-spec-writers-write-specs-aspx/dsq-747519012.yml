@@ -1,0 +1,5 @@
+id: dsq-747519012
+date: 2007-03-07T19:13:51.0000000-08:00
+name: SLW
+avatar: https://disqus.com/api/users/avatars/SLW.jpg
+message: "<p>Rob: How would I write the loop? Lazy lists that give BFS order of the recursive subdivision, so you'd get 50 25 75 12.5 37.5 62.5 87.5 etc. Fairly easy to do with streams in scheme, and you'd get all the numbers if you waited long enough.<br>PS: Live preview is laggy.</p>"

@@ -1,0 +1,5 @@
+id: dsq-2412975337
+date: 2015-12-16T11:11:50.0000000-08:00
+name: Miguel Lira
+avatar: https://disqus.com/api/users/avatars/MiguelALira.jpg
+message: "<p>This may have simply fallen through some check but the corefx repo violates #11:</p><p><a href=\"https://github.com/dotnet/corefx/blob/c02d33b18398199f6acc17d375dab154e9a1df66/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonObjectDataContract.cs#L71\" rel=\"nofollow noopener\" title=\"https://github.com/dotnet/corefx/blob/c02d33b18398199f6acc17d375dab154e9a1df66/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonObjectDataContract.cs#L71\">https://github.com/dotnet/c...</a></p><p>I've always held the same view expressed by @haacked:disqus but lately have avoided fighting the defaults.</p>"

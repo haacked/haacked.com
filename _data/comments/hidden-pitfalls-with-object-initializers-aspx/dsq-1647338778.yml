@@ -1,0 +1,6 @@
+id: dsq-1647338778
+replyToId: dsq-1647260102
+date: 2014-10-21T16:40:57.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>There is no performance benefit of using object initializers. Try it yourself, you'll see that the IL that's generated is _exactly_ the same.</p>

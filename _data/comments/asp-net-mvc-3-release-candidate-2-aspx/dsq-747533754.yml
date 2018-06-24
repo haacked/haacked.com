@@ -1,0 +1,5 @@
+id: dsq-747533754
+date: 2011-01-05T20:30:39.0000000-08:00
+name: Dave
+avatar: https://disqus.com/api/users/avatars/Dave.jpg
+message: "<p>ViewBag is in fact a very good name for it.  Collections can be stored in terms of sets, bags or lists. Each collection type has it's own usage.<br>Bag: Unordered list of entities, duplicates allowed.<br>Set: Unordered list of unique entities, duplicates not allowed<br>List: Ordered collection of entities, duplicates allowed<br><br></p>"

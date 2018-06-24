@@ -1,0 +1,5 @@
+id: dsq-747510602
+date: 2007-11-20T01:33:58.0000000-08:00
+name: Marco Magdy
+avatar: https://disqus.com/api/users/avatars/Marco Magdy.jpg
+message: <p>unfortunately, looks like enums suffer from the same problem as constants.<br>That kinda sucks.<br>here is what the IL looks like of const:<br>.field public static literal <br>here is what it looks like for enums (per field):<br>.field public static literal valuetype <br><a href="http://blogs.msdn.com/brada/archive/2003/07/01/50101.aspx" rel="nofollow noopener" title="http://blogs.msdn.com/brada/archive/2003/07/01/50101.aspx">http://blogs.msdn.com/brada...</a><br></p>

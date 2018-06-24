@@ -1,0 +1,5 @@
+id: dsq-747535759
+date: 2011-09-19T01:48:44.0000000-07:00
+name: simon weaver
+avatar: https://disqus.com/api/users/avatars/simon weaver.jpg
+message: <p>@haacked can you add a note explaining where to find <br>System.Web.WebPages.dll<br>System.Web.Helpers.dll<br>System.Web.Razor.dll<br>I had a WPF project that i had to change from .NET Framework 4 Client Profile &gt; .NET Framework 4 to be able to see these DLLS under 'Add Reference'. I think that's the correct way right?</p>

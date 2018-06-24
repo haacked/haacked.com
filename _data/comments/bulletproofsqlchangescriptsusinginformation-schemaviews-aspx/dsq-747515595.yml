@@ -1,0 +1,5 @@
+id: dsq-747515595
+date: 2008-02-05T07:42:52.0000000-08:00
+name: Chi Hoang
+avatar: https://disqus.com/api/users/avatars/Chi Hoang.jpg
+message: <p><code><br>-- Here's the Oracle version<br>declare<br>    v_table_name   varchar2(30) := 'CUSTOMERS';<br>    v_table_exists number(1) := 0;<br>begin<br>    begin<br>        select 1<br>        into v_table_exists<br>        from user_tables<br>        where table_name = v_table_name;<br>    exception<br>        when NO_DATA_FOUND THEN<br>            dbms_output.put_line ('Creating table ' || v_table_name);<br>            execute immediate 'create table customers (cust_id number, first_name varchar2(100), last_name varchar2(100))';<br>            -- you can insert into version table here<br>    end;<br>end;<br>/<br></code></p>

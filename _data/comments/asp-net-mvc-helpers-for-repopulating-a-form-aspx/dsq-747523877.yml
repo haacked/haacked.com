@@ -1,0 +1,5 @@
+id: dsq-747523877
+date: 2008-01-07T17:57:51.0000000-08:00
+name: mike
+avatar: https://disqus.com/api/users/avatars/mike.jpg
+message: <p>One more thing. Since the TempData seems to store objects, you'd have to do some casting if you store more than a simple string in it. I like to have a message object with a messagetype enum (error, warning, confirmation) and the actual message. In TempData I would liek to store more than 1 message under one key (like an array). Id always have to cast that when I get it out right?<br>Thanks!</p>

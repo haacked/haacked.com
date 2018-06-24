@@ -1,0 +1,5 @@
+id: dsq-747525264
+date: 2008-10-31T17:08:51.0000000-07:00
+name: prabhjot singh
+avatar: https://disqus.com/api/users/avatars/prabhjot singh.jpg
+message: <p>respected sir,<br>I am new to ASP.NET. I am working on URL routing for last couple of weeks, although i have implemented routing on the static pages in my site, but i get stuck when i have to implement it on dynamic URL's. <br>eg <br>If i have to generate url's for the each user profile in my site, then the relative URL which needs to be generated should not contain the query string values such as the user id. <br>secondly<br>if i have two pages( home.aspx and profile.aspx) in my site in the same folder eg "logged". The actual Url is mysite/logged/home.aspx.<br>i want the relative url to be mysite/index, which i have achieved using your code but now when i click on some other page and then when again i hit in the home tab the url displayed is mysite/logged/index which is wrong. The folders name is shown again   in the url. <br>what should i do? hope you understand what i want to achieve.<br>regards <br>prabhjot  <br></p>

@@ -1,0 +1,5 @@
+id: dsq-747521343
+date: 2007-08-27T10:36:49.0000000-07:00
+name: Steven Burman
+avatar: https://disqus.com/api/users/avatars/Steven Burman.jpg
+message: <p>Hi all,<br>I am getting this problem on my build server also. However, locally it works and I am running XP. The revision number for System.Web on my development machine is v2.0.50727.1378.<br>My build machine is running 2003 Server R2 and the revision for the System.Web.dll is v2.0.50727.42.<br>I am currently running the updates to see if this will perhaps sufficiently upgrade the revision of the dll so that the HttpSimulator can work. I will reply here with my findings.<br>&lt;fingers crossed&gt;<br>Steve.</p>

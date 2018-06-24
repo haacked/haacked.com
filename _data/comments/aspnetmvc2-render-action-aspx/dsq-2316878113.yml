@@ -1,0 +1,6 @@
+id: dsq-2316878113
+replyToId: dsq-1647965695
+date: 2015-10-20T08:11:38.0000000-07:00
+name: Carlo Ostia
+avatar: https://disqus.com/api/users/avatars/carloostia.jpg
+message: <p>Hello,<br>RenderAction Render also the tag body. Can I avoid this? I want to render only the html of the control called with RenderControl</p>

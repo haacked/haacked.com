@@ -1,0 +1,5 @@
+id: dsq-3221240142
+date: 2017-03-24T07:05:02.0000000-07:00
+name: mithun chopda
+avatar: https://disqus.com/api/users/avatars/mithunchopda.jpg
+message: '<p>Code needs correction.</p><p>The CustomWebViewPage&lt;tmodel&gt; should derive from System.Web.Mvc.WebViewPage&lt;tmodel&gt;</p><p>and not</p><p>public abstract class CustomWebViewPage&lt;tmodel&gt; : CustomWebViewPage {<br>  public new Html5Helper&lt;tmodel&gt; Html5 { get; set; }</p><p>  public override void InitHelpers() {<br>    base.InitHelpers();<br>    Html5 = new Html5Helper&lt;tmodel&gt;(base.ViewContext, this);<br>  }<br>}</p>'

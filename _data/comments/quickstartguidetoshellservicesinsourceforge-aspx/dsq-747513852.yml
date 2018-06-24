@@ -1,0 +1,5 @@
+id: dsq-747513852
+date: 2006-05-30T05:05:00.0000000-07:00
+name: Andy
+avatar: https://disqus.com/api/users/avatars/Andy.jpg
+message: <p>And what if the dialog asking to compare the SSH host key fingerprint does not appear? It states "Server unexpectedly closed network connection." Firewall says that it allows everything. Disabling doesn't change anything. Command like "telnet <a href="http://shell.sourceforge.net" rel="nofollow noopener" title="shell.sourceforge.net">shell.sourceforge.net</a> 22" does not work. How do I know when it's my fault?</p>

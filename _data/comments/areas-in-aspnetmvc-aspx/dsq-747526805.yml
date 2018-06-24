@@ -1,0 +1,5 @@
+id: dsq-747526805
+date: 2008-12-19T02:17:31.0000000-08:00
+name: Kosmo
+avatar: https://disqus.com/api/users/avatars/Kosmo.jpg
+message: <p>Any idea why my areas work when running from Visual Studio by pressing F5? The site comes up as <a href="http://localhost:1134" rel="nofollow noopener" title="http://localhost:1134">http://localhost:1134</a>. The root area shows and my link to my areas work also.<br>However, if I go directly to <a href="http://localhost/mysite" rel="nofollow noopener" title="http://localhost/mysite">http://localhost/mysite</a>, the root area comes up but I am unable able to pull up my other areas under the Areas folder.<br>Kosmo</p>

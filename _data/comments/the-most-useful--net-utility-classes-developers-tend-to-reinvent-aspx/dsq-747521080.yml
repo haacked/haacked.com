@@ -1,0 +1,5 @@
+id: dsq-747521080
+date: 2007-06-14T03:31:10.0000000-07:00
+name: Travis Illig
+avatar: https://disqus.com/api/users/avatars/tillig.jpg
+message: "<p>XML reserved character encoding on a string:<br>string System.Security.SecurityElement.Escape(string)<br>System.CodeDom.Compiler.TempFileCollection is the bomb when you have to extract a bunch of temporary files and want to clean everything up automatically when you're done.<br>And I'm still working on the goodness of \"yield,\" which rocks but takes some getting used to: <a href=\"http://msdn2.microsoft.com/en-us/vcsharp/bb264519.aspx\" rel=\"nofollow noopener\" title=\"http://msdn2.microsoft.com/en-us/vcsharp/bb264519.aspx\">http://msdn2.microsoft.com/...</a><br>Along the lines of HTML/URL encoding... is there any \"ScriptEncode\" sort of thing?  Something that escapes quotes for you?  I always end up with String.Replace for that.</p>"

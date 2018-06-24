@@ -1,0 +1,5 @@
+id: dsq-747533747
+date: 2010-12-19T19:44:03.0000000-08:00
+name: Bharat Patel
+avatar: https://disqus.com/api/users/avatars/Bharat Patel.jpg
+message: '<p>I migrated my test app from MVC2 to MVC3 and seeing some wierd issues with the TryUpdateModel. It was working fine but after upgrading it is not updating the collection of objects.<br>Following is the sequence:<br>TryUpdateModel for Order and it successfully updates the model and return false.<br>2nd TryUpdateModel for the collection of order items and it works fine and returns false.<br>3rd TryUpdateModel for collection of payment items and it does not update the model. <br>What is the issue here? It used to work fine in MVC2. Do I have to reconsider this using different approach in MVC3?<br>Here is Question on StackOverflow: <a href="http://stackoverflow.com/questions/4484709/asp-net-mvc3-rc2-does-not-update-the-model-2nd-time" rel="nofollow noopener" title="http://stackoverflow.com/questions/4484709/asp-net-mvc3-rc2-does-not-update-the-model-2nd-time">stackoverflow.com/...</a><br>THANKS</p>'

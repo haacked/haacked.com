@@ -1,0 +1,5 @@
+id: dsq-941057662
+date: 2013-06-24T21:22:00.0000000-07:00
+name: Andrew Nurse
+avatar: https://disqus.com/api/users/avatars/andrewnurse.jpg
+message: "<p>Just FYI Phil, MVC still has this restrictions on it's BINARY distributions (and to my knowledge has always had it): <a href=\"http://www.microsoft.com/web/webpi/eula/mvc_4_eula_enu.htm\" rel=\"nofollow noopener\" title=\"http://www.microsoft.com/web/webpi/eula/mvc_4_eula_enu.htm\">http://www.microsoft.com/we...</a> - It's almost universal on all Microsoft EULAs for Binaries. The _source_ is totally open and you can do what you want with it, but the MVC binaries Microsoft builds and signs are Windows-only.</p>"

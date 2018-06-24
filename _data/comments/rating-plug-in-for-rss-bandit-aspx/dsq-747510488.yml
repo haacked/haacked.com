@@ -1,0 +1,5 @@
+id: dsq-747510488
+date: 2005-03-21T11:14:00.0000000-08:00
+name: Jon Galloway
+avatar: https://disqus.com/api/users/avatars/Jon Galloway.jpg
+message: <p>I think there's a bug in AmphetaRateThisPlugin.cs, line 67.<br><br><br><br>Is:<br><br>string Encode(string s)<br><br>{<br><br>    return HttpUtility.UrlEncodeUnicode(s).Replace("+", "&amp;20");<br><br>}<br><br><br><br>should be:<br><br>string Encode(string s)<br><br>{<br><br>    return HttpUtility.UrlEncodeUnicode(s).Replace("+", "%20");<br><br>}<br><br><br><br>They're also running on a different server now:<br><br><a href="http://spoon.lunarpages.com/amphetarate_api/dinka-add-rating.php" rel="nofollow noopener" title="http://spoon.lunarpages.com/amphetarate_api/dinka-add-rating.php">http://spoon.lunarpages.com/amphetarate_api/dinka-add-rating.php</a></p>

@@ -1,0 +1,5 @@
+id: dsq-747530748
+date: 2010-05-06T00:02:49.0000000-07:00
+name: Tar
+avatar: https://disqus.com/api/users/avatars/Tar.jpg
+message: <p>Hi Phil, is there any way to add or remove the custom validator attribute dynamically?? Using your model as example:<br>public class ProductViewModel {<br>  [Price(MinPrice = 1.99)]<br>  public double Price { get; set; }<br>  [Required]<br>  public string Title { get; set; }<br>}<br>Lets say you have two strongly-typed Views A and B, and both Views are going to use the ProductViewModel to fill a form, but View B doesnt need the [Price(MinPrice = 1.99)] validation for the Price property, is any way to remove or add  custom validation attributes to the model dynamically??</p>

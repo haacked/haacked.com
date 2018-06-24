@@ -1,0 +1,5 @@
+id: dsq-747507572
+date: 2010-06-22T15:18:12.0000000-07:00
+name: Prashant Kalmodiya
+avatar: https://disqus.com/api/users/avatars/Prashant Kalmodiya.jpg
+message: <p>Debug build<br>1. Basically this for developer<br>2. Complier code optimization is OFF<br>Release build<br>1. Basically this for Client to whom you want to distribute the application<br>2. Complier code optimization is ON<br></p>

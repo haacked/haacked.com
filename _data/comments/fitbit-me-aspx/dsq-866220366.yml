@@ -1,0 +1,5 @@
+id: dsq-866220366
+date: 2013-04-17T11:03:32.0000000-07:00
+name: Stephen Y.
+avatar: https://disqus.com/api/users/avatars/stephenyeargin.jpg
+message: <p>Howdy! I came across this looking for a Hubot script to integrate with FitBit. A few things that are so far a bit disappointing:</p><p>1) Only looks like a handful of folks use the FitBit API on Github, which isn't too surprising as it is a bit of a niche product<br>2) The FitBit API supports getting a leaderboard of your friends, but not of the groups you've joined.<br>3) I haven't seen a great example of how to seamlessly integrate an OAuth process with a Hubot script given that they are typically provided their credentials as ENV variables. I'm almost tempted to write something in one of their other libraries and just provide endpoints to my Hubot that way.</p><p>Big objectives (for fun) were to have</p><p>`hubot fitbit` - returns a leaderboard for connected users (top 5)<br>`hubot fitbit user &lt;user&gt;` - return stats for a specific username<br>`hubot fitbit group &lt;group&gt;` - return leaderboard for a specific group (top 5)</p>

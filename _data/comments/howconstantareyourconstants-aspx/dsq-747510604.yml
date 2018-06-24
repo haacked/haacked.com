@@ -1,0 +1,5 @@
+id: dsq-747510604
+date: 2011-09-19T01:24:20.0000000-07:00
+name: Imran Amjad
+avatar: https://disqus.com/api/users/avatars/Imran Amjad.jpg
+message: <p>Well, If constants are to be changed ever, I'll make them configurable through App.Config. Don't need to recompile and redeploy anything in this case.</p>

@@ -1,0 +1,5 @@
+id: dsq-747525300
+date: 2008-06-01T07:31:23.0000000-07:00
+name: Dale
+avatar: https://disqus.com/api/users/avatars/Dale.jpg
+message: "<p>Server Error in '/' Application.<br>--------------------------------------------------------------------------------<br>Could not load file or assembly 'System.Web.Mvc' or one of its dependencies. Strong name signature could not be verified.  The assembly may have been tampered with, or it was delay signed but not fully signed with the correct private key. (Exception from HRESULT: 0x80131045) <br></p>"

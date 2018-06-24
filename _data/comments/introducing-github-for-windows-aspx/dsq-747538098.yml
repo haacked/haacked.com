@@ -1,0 +1,5 @@
+id: dsq-747538098
+date: 2012-07-26T13:54:35.0000000-07:00
+name: Arno Richter
+avatar: https://disqus.com/api/users/avatars/Arno Richter.jpg
+message: <p>Is it possible to add a context menu entry to folders, so I can open the git powershell from every folder in windows and be in the correct directory already? I tried to do it myself, but I could not figure out whether "GitHub.exe --open-shell" had a parameter I could simply set to select the desired folder. Would be great if this was possible.</p>

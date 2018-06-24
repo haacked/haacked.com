@@ -1,0 +1,5 @@
+id: dsq-747534143
+date: 2011-01-12T05:12:13.0000000-08:00
+name: Andrey Shchekin
+avatar: https://disqus.com/api/users/avatars/Andrey Shchekin.jpg
+message: <p>@haacked I suggest you require it. Obviously, I can hunt authors (though it is much more inconvenient for me to find ways to contact author than for author to provide a license).<br>However this is step backwards from most places I got binaries before (Google Code/CodePlex/SourceForge), since in *all* of them license is mandatory.<br>Also, there are ton of developers who will not do the hunt and either ignore the package out of fear for unknown licensing or just use without caring about a license (which in the case of GPL in commercial project may be a critical problem later on, if unnoticed in time).<br>Final point is that if license is mandatory, it is possible to automatically prove licensing correctness for a used set of packages, which nicely solves the unnoticed GPL problem.</p>

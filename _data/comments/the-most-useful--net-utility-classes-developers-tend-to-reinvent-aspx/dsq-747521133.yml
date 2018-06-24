@@ -1,0 +1,5 @@
+id: dsq-747521133
+date: 2010-08-07T21:27:56.0000000-07:00
+name: Chris
+avatar: https://disqus.com/api/users/avatars/Chris.jpg
+message: '<p>Okay I tend to agree BUT.<br>What do I do in this case?<br>Situation: I have a css file for which I know the path, I need to find the full path for the urls in this css file. A url could be:<br>../images/somefile.jpg<br>../../../somefile.jpg<br>/Images/somefile.jpg<br>Do you know how to handle this with the built in utilities?<br>Thanks.</p>'

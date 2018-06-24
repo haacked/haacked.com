@@ -1,0 +1,5 @@
+id: dsq-747535307
+date: 2011-05-26T07:46:51.0000000-07:00
+name: Adrian Lanning
+avatar: https://disqus.com/api/users/avatars/Adrian Lanning.jpg
+message: "<p>Thanks Phil.  I don't know all of the intricacies involved but have you considered making this on-by-default?  In terms of impact it seems like the following breakdown would apply: <br>* Need fix, not on-by-default = broken app and a potentially bad experience with MVC3<br>* Need fix, on-by-default = works<br>* Don't need fix, not on-by-default = no impact<br>* Don't need fix, on-by-default = some wasted disk space (DLL's already in GAC)<br></p>"

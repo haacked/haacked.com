@@ -1,0 +1,5 @@
+id: dsq-747536349
+date: 2011-10-16T07:37:45.0000000-07:00
+name: David Crowell
+avatar: https://disqus.com/api/users/avatars/David Crowell.jpg
+message: <p>A proper hosting environment should have a way for you to run scheduled tasks... Dedicated or virtual servers come to mind.<br>Shared hosting often has a feature to call a specific url at a specified interval, therefore you can do your background task within a ASP.NET request and avoid all the silliness.  :)<br>I don't like my code to live on the edge.  I'd rather do an unsupported 100-kilometer bicycle race on gravel roads - doing that next month.<br>Having your clever ASP.NET hack cause an outage while on said bike race (and not being around to support it) would be bad.  :)</p>

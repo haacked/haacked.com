@@ -1,0 +1,5 @@
+id: dsq-747527870
+date: 2009-01-30T02:30:24.0000000-08:00
+name: Chris Hardy
+avatar: https://disqus.com/api/users/avatars/Chris Hardy.jpg
+message: <p>Phil,<br>On the subject of AcceptVerbs - is there ever going to be the option to put the AcceptVerbs attribute on a Controller so all actions on the controller will adhere to this unless overwritten on the action attribute? This will be useful when 80% of the methods on a API might be need to be post for reasons mentioned above (as they are Create/Edit and Delete actions).<br>ChrisNTR</p>

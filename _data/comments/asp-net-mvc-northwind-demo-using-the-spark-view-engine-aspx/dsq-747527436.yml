@@ -1,0 +1,5 @@
+id: dsq-747527436
+date: 2008-12-09T02:22:42.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Ben Scheirman I think the NVelocity example has a bit more syntactic noise, though not much. For example, you have to have the #end in just the right place. <br>With Spark, the \"end\" is the closing &amp;lt;/li&amp;gt; tag. Talk about DRY!<br>@cowGaR I'm not trying to push Spark on anybody. I just thought it was an interesting approach. I have a feeling that most people will stick with the defaults, and they'll be good enough for them. But for those who have a personal preference for a different style of view template, I'd like them to be aware of alternatives, that's all.</p>"

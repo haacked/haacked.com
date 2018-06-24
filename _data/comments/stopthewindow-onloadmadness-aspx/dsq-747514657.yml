@@ -1,0 +1,5 @@
+id: dsq-747514657
+date: 2006-04-06T01:56:00.0000000-07:00
+name: Marcelo Calbucci
+avatar: https://disqus.com/api/users/avatars/Marcelo Calbucci.jpg
+message: <p>Yes, there is a better way than that:<br>function AddOnload(myfunc)<br>{<br>   if(window.addEventListener)<br>      window.addEventListener('load', myfunc, false);<br>   else if(window.attachEvent)<br>      window.attachEvent('onload', myfunc);<br>}<br></p>

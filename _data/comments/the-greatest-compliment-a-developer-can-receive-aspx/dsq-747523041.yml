@@ -1,0 +1,5 @@
+id: dsq-747523041
+date: 2007-10-09T01:50:47.0000000-07:00
+name: James Grenning
+avatar: https://disqus.com/api/users/avatars/James Grenning.jpg
+message: <p>Pete:<br>I think that developers are trained to ignore comments. They often don't get maintained like code does.  But method names are another story. It is hard to ignore function names. You have to read them while navigating the code.  Tge same is not true of comments.  A wrong method name is hard to ignore.  <br>My goal is that functions should be be able to fit in your head within 30 seconds.  Maybe not in detail, but enough to know if i have gotten to the place I wanted to get to.  <br>Getting code to work is one thing, making it understandable is another is the greater skill.<br>I think the IDE writers have it right as comments seem to be fading into the background so we can focus on the code.<br><br></p>

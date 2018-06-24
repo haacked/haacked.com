@@ -1,0 +1,5 @@
+id: dsq-747522018
+date: 2007-08-21T02:54:47.0000000-07:00
+name: Gabe Krabbe
+avatar: https://disqus.com/api/users/avatars/Gabe Krabbe.jpg
+message: <p>Of course, this is assuming that you're not trying to parse an actual e-mail. See RFC 2822, section A.5, and think "arbitrary nesting" - it is not technically possible to use a regex and be fully compliant with the standard when trying to figure out the address, but if you want to use it for SMTP (where the comments aren't allowed), you may have to give it a go.<br>Yes, this has been a long-time favourite of mine to point out that regular expressions are sometimes not the best choice.</p>

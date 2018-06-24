@@ -1,0 +1,5 @@
+id: dsq-747523571
+date: 2007-12-08T11:34:39.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Aaron Ah! I see what you're saying. So it seems to me that you're suggesting we put another service in between Controller and IViewFactory. Is that right?<br>Yes, I could have mocked IViewFactory, but after the IView is returned from the factory, the RenderView method also creates a ViewContext which is passed to the view when rendering which requires other dependencies I need to mock.<br>It ends up being seriously less code than just overriding RenderView. Perhaps that's a code smell. Perhaps it's saying I should just override RenderView and go home. ;)<br>Once the bits are out, I'd love to hear about your TDD experience and see how we can improve it.</p>

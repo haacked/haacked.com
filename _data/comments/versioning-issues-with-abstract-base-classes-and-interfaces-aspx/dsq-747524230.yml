@@ -1,0 +1,5 @@
+id: dsq-747524230
+date: 2008-02-21T01:14:08.0000000-08:00
+name: Shawn Oster
+avatar: https://disqus.com/api/users/avatars/shawnoster.jpg
+message: <p>So far in all of this back and forth I've only heard theory on why people are so passionate about having an interface vs. an ABC.  This reminds me *exactly* of design meetings where someone argues up and down for abstracting out the data access layer even farther so they can easily swap DB's down the road and in all those times the backend is never switched, never touched and instead developers trip over that worthless layer.<br>I completely agree HttpContext is a 35-year old fat guy trying to pass himself off as baby in a buggy and no one is buying the rattle and bonnet but what are the real, solid, concrete, make my development life better reasons for going IHttpContext vs. HttpContextBase?  The only one I can think of is IoC/DI which I'm not sold on as being enough of a reason.  Someone enlighten me on exactly what they'd do if they had IHttpContext, not "I could..." but "I would, a week after it was released, do X, Y and Z and I'd put money on it."<br></p>

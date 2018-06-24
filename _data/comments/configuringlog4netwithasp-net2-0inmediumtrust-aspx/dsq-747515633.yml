@@ -1,0 +1,5 @@
+id: dsq-747515633
+date: 2006-07-11T02:52:00.0000000-07:00
+name: Griff Townsend
+avatar: https://disqus.com/api/users/avatars/Griff Townsend.jpg
+message: '<p>This is not a direct answer for the multiple config file issue, but a workaround for log4net that may help. <br>log4net has a method: <br>log4net.Config.DOMConfigurator.Configure(XmlElement element) that would allow you to access configuration from any text file that is compatible with the log4net xml structure. <br>We actually use this method to read from a resource file (.resx) that we include with our base framework (which is platform independent) and use this method to add the settings. Since log4net is cumulative on appenders, it works pretty well, even in ASP.NET 2.0.</p>'

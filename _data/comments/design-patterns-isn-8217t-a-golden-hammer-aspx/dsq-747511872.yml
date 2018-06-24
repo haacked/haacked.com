@@ -1,0 +1,5 @@
+id: dsq-747511872
+date: 2005-05-30T20:02:00.0000000-07:00
+name: Jason
+avatar: https://disqus.com/api/users/avatars/Jason.jpg
+message: <p>I agree completely!<br><br><br><br>Another abuse of interfaces I've seen is defining an interface and then have one and only one implementor of the interface ever. For instance, an interface that defines a data class that is completely defined by properties.<br><br><br><br>They do reference IUselessInterface elsewhere, but they could have just as easily referenced UselessInterface.<br><br><br><br>I think that's why I tend to use abstract base classes if given the choice. Usually, I go about solving the problem at end with whatever is simplest, then wait for duplication and commonality to jump out at me before doing some "refactoring." :)</p>

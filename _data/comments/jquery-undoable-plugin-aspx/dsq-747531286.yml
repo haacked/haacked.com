@@ -1,0 +1,5 @@
+id: dsq-747531286
+date: 2010-01-06T00:22:33.0000000-08:00
+name: Glen
+avatar: https://disqus.com/api/users/avatars/Glen.jpg
+message: <p>It would be nice if it didn't cause the headers/cells to shift around.  If you look at your sample, and click the first item to delete, stuff moves to the right.  Not much movement on the third item.  Not sure if you have any cotrol over that, but the shifting is noticeable(in IE 7 anyways).<br>Good job otherwise, I also like not having a confirmation dialog.</p>

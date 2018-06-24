@@ -1,0 +1,6 @@
+id: dsq-3505034295
+replyToId: dsq-3504837747
+date: 2017-09-06T10:18:44.0000000-07:00
+name: Daniel Burnett
+avatar: https://disqus.com/api/users/avatars/disqus_Dfqsm9oSjl.jpg
+message: <p>Now that I'm back at my computer, I can document them here :)</p><p>Keep in mind I use Windows PowerShell, so these need to be changed a little if you're using Bash or another terminal (mostly replacing null with /dev/null and changing the parameter numbers, and perhaps Bash may be more lenient about command grouping so you don't need to use sh first), but they are as follows:</p><p>    desc = !sh -c 'git checkout $1 &gt; null 2&gt;&amp;1 &amp;&amp; echo  &amp;&amp; cat <a href="http://BranchDesc.md" rel="nofollow noopener" title="BranchDesc.md">BranchDesc.md</a> &amp;&amp; echo  &amp;&amp; echo  &amp;&amp; git checkout - &gt; null 2&gt;&amp;1' -</p><p>    new-branch = !sh -c 'git checkout -b $0 &amp;&amp; echo $1 &gt; <a href="http://BranchDesc.md" rel="nofollow noopener" title="BranchDesc.md">BranchDesc.md</a> &amp;&amp; git add -A &amp;&amp; git commit -m \"Initial BranchDesc commit.\" &amp;&amp; git push -u origin $0'</p><p>And of course the echos don't need to be there; I just like having some new line padding around my output, for aesthetics :)</p>

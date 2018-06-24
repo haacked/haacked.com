@@ -1,0 +1,5 @@
+id: dsq-747529198
+date: 2009-06-02T02:33:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Rob Build providers will work in Medium trust in ASP 4 AFAIK (but not in 3.5 SP1). I'm sure we can find a way to do this that does work in medium. This was just a proof-of-concept after all.<br>@Andrew BuildProviders work in Web Applications too. The proof-of-concept David built used a WAP.<br></p>

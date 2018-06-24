@@ -1,0 +1,5 @@
+id: dsq-747526761
+date: 2008-11-04T05:14:31.0000000-08:00
+name: Justice~!
+avatar: https://disqus.com/api/users/avatars/Justice~!.jpg
+message: '<p>We did something similar to this on my current contract re: overridable views and areas, as our application essentially needs to "reinvent" parts itself each year (different set of business rules, different potential flow, different additions/subtractions to or from the form elements).  <br>To Steve Mason: I have it working with the strongly typed Actions so if you want to chat further about it just drop me a twitter or something.</p>'

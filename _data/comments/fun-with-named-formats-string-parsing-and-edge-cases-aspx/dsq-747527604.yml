@@ -1,0 +1,5 @@
+id: dsq-747527604
+date: 2009-01-04T13:58:36.0000000-08:00
+name: Paulo Morgado
+avatar: https://disqus.com/api/users/avatars/Paulo Morgado.jpg
+message: '<p>Have you thought of using a mix of named and place holder?<br>   string.NamedFormat("First Name: {0.FirstName}\nLast Name: {0.LastName}", person)<br>It would be nice (also for string.Format) to generate an executable template. Something to be used like this:<br>   var executableTemplate = new ExecutableTemplate("First Name: {0.FirstName}\nLast Name: {0.LastName}");<br>   var text = executableTemplate.ToString(person);</p>'

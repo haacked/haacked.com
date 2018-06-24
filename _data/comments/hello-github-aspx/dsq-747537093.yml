@@ -1,0 +1,5 @@
+id: dsq-747537093
+date: 2011-12-10T14:31:46.0000000-08:00
+name: Sugendran Ganess
+avatar: https://disqus.com/api/users/avatars/Sugendran Ganess.jpg
+message: <p>hubot image congratulations banner<br>Having been a senior .NET engineer for a while I've recently moved into the nodejs world and there are two things that I think are the reason why those communities work and why they work for github.<br>1) The package manager, out of the box all open source dependancies can be gotten from github and updated when the package owners release new bits of code. This is rare in the .NET world - I agree nuget is on the way to sorting that out, but it's going to be tough battle since most of these other language platforms have it from the get go.<br>2) Git is not a second class citizen. For ages I didn't take the plunge into git simply because it was too hard to use it in my normal workflow. I have to use a separate shell for source control. Really!?!? Using git on a mac is worlds better - even their GUIs are simple to understand.<br>If you can fix point 2 then point 1 should fix itself I think :D</p>

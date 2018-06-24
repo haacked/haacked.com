@@ -1,0 +1,5 @@
+id: dsq-747513064
+date: 2005-09-24T11:33:00.0000000-07:00
+name: Jon Galloway
+avatar: https://disqus.com/api/users/avatars/Jon Galloway.jpg
+message: "<p>You can do this with a regex replace, too: (?&lt;=[a-z])(?=[A-Z])<br><br><br><br>Here's a post about PHP code snip that uses it. A lot less code and I'd bet it's faster:<br><br><br><br><a href=\"http://ad.hominem.org/log/2004/12/camelcase.php\" rel=\"nofollow noopener\" title=\"http://ad.hominem.org/log/2004/12/camelcase.php\">http://ad.hominem.org/log/2004/12/camelcase.php</a></p>"

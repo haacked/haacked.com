@@ -1,0 +1,5 @@
+id: dsq-747523483
+date: 2007-11-30T04:11:36.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Lance - exactly. After all, it's the hoster of the site who has to *own* the domain name and set it up in IIS. Subtext does require you configure that domain name (since we allow multiple blog hosting in a single blog). The only thing we can do is help you with converting a unicode host name to the Punycode.</p>

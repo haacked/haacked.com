@@ -1,0 +1,5 @@
+id: dsq-747515601
+date: 2010-11-18T12:34:52.0000000-08:00
+name: KC Lee
+avatar: https://disqus.com/api/users/avatars/KC Lee.jpg
+message: '<p>Great Articles - simple and yet very manageable way to maintain database changes. This worked for me and my team for many years too.<br>However, we are going into a SAAS application design, and we will be doing multi-tenant database design: having multiple databases, schemas, services, and scripts for each customer instance, I am not entirely sure if this method would last us long.</p>'

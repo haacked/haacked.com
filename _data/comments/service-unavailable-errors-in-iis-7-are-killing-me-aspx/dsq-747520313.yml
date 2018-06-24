@@ -1,0 +1,5 @@
+id: dsq-747520313
+date: 2007-05-18T20:16:44.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>Have you tried Spy++ or the equivalent Sysinternals process spy program to see what's really going on in process 4?<br>You could also try writing a small program that will attempt to listen to port 80 and rule out any freaky firewall problems or port conflicts. Or download Apache or some small web server and see if it can bind to port 80.<br>Also you didn't mention looking at the event logs or IIS logs. I assume that you did, but what did they say? Did the IIS logs record the GET attempts? Does the system event log show anything funny? Isn't there some kind of "verbose" logging mode for IIS? Here's a module for IIS 7 logging<br><a href="http://blogs.iis.net/tobintitus/archive/2007/01/30/logging-ui-for-iis-7-0-on-vista.aspx" rel="nofollow noopener" title="http://blogs.iis.net/tobintitus/archive/2007/01/30/logging-ui-for-iis-7-0-on-vista.aspx">http://blogs.iis.net/tobint...</a><br></p>

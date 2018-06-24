@@ -1,0 +1,5 @@
+id: dsq-1113155581
+date: 2013-11-07T14:30:50.0000000-08:00
+name: Nik Molnar
+avatar: https://disqus.com/api/users/avatars/nik_molnar.jpg
+message: <p>Couldn't you just use wild card includes in the .csproj file?</p><p>Thats what Glimpse does with XML that looks like this:</p><p>&lt;compile include="..\**\*.cs" exclude="Properties\AssemblyInfo.cs;"&gt;<br>      &lt;link/&gt;<br>    &lt;/compile&gt;<br>    &lt;compile include="Properties\AssemblyInfo.cs"/&gt;</p><p>New files are automatically picked up no problem.</p><p>(We also have project specific AssemblyInfo.cs files so we don't include those...)</p>

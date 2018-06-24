@@ -1,0 +1,5 @@
+id: dsq-747533486
+date: 2010-11-08T22:53:20.0000000-08:00
+name: Terrence
+avatar: https://disqus.com/api/users/avatars/Terrence.jpg
+message: <p>Phil, great work.  <br>I am amazed that you are not blowing the "SimpleMembership" horn.  If more devs knew it was so easy to add additional User data to membership without using the old "blob" storage for profiles, or even worse have to implement a MembershipProvider class, they would be jumping on the band wagon.<br>I see Websecurity has moved to the WebMatrix.Webdata.dll.<br>I wonder if you could get some more documentation out about it as Matt's blog is very outdated by now.  <br>Thanks for all the great work.<br>Terrence</p>

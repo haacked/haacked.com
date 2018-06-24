@@ -1,0 +1,5 @@
+id: dsq-747534489
+date: 2011-04-20T20:17:55.0000000-07:00
+name: Chris
+avatar: https://disqus.com/api/users/avatars/Chris.jpg
+message: <p>I have found another bug which may or may not be caused by this.<br>When you access an MVC app on a virutal folder in IIS so that the route ends up as /Virtual/Home/Test rather than just /Home/Test with the /Home/Test action taking multiple nullable parameters only the first nullable variable binds properly and all others do not.<br>See <a href="http://stackoverflow.com/questions/5743282/asp-net-mvc3-model-binding-bug" rel="nofollow noopener" title="http://stackoverflow.com/questions/5743282/asp-net-mvc3-model-binding-bug">stackoverflow.com/...</a> for more details.</p>

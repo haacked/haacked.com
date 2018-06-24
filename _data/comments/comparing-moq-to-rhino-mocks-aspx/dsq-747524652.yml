@@ -1,0 +1,5 @@
+id: dsq-747524652
+date: 2008-03-23T12:01:23.0000000-07:00
+name: tgmdbm
+avatar: https://disqus.com/api/users/avatars/tgmdbm.jpg
+message: <p>I'm a true convert to Moq. I love it. I agree the lambdas aren't the most natural syntax to work with. It's just the simplicity of it.<br>To highlight another difference, you might want to use It.IsAny&lt;int&gt;() in place of IgnoreArguments().</p>

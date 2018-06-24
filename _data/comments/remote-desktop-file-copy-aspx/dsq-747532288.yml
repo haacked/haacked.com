@@ -1,0 +1,5 @@
+id: dsq-747532288
+date: 2010-05-25T09:43:49.0000000-07:00
+name: Doug Rathbone
+avatar: https://disqus.com/api/users/avatars/Doug Rathbone.jpg
+message: <p>I thought this was a very well known feature.<br>It is the same as \\tsclient being the hostname mapping for the clients pc in explorer etc.<br>The problem you'll have with the automatically mapped drives is that a lot of installers and programs etc check to see if they are loaded from this "drive" over RDP and will complain<br>you can get around this by surfing to the shares on \\tsclient in explorer and mapping a drive. This is also how the local printers get mapped when you connect via RDP so that you can still print locally.<br>basically anything that relies on network traffic gets sent back to the client using the network sharing over \\tsclient hostname<br></p>

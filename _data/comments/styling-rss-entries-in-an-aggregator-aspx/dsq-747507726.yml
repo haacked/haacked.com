@@ -1,0 +1,5 @@
+id: dsq-747507726
+date: 2004-03-04T11:23:00.0000000-08:00
+name: nospamplease75@yahoo.com (haac
+avatar: https://disqus.com/api/users/avatars/nospamplease75@yahoo.com (haac.jpg
+message: <p>I'm actually not behind the idea of embedding a CSS stylesheet into the Rss Format.  The problem with that in my mind is that CSS is very geared to Html whereas the XML in RSS can be transformed into a presentation other than HTML (for example XAML).  <br><br><br><br>I think it would be better for a blog to "suggest" an XSLT style.  The XSLT could transform the Rss feed item into Html with Css, or anything else.</p>

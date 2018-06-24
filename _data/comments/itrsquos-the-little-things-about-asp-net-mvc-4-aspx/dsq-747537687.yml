@@ -1,0 +1,5 @@
+id: dsq-747537687
+date: 2012-03-16T10:57:28.0000000-07:00
+name: Jme
+avatar: https://disqus.com/api/users/avatars/Jme.jpg
+message: '<p>Even when using your adapter, I still get the error that bilal was stating:<br>does not appear to implement <br>Microsoft.Practices.ServiceLocation.IServiceLocator.<br>Parameter name: commonServiceLocator"... Any pointers where I am wrong.<br>What could I be doing wrong - all I did was copy your service adapter class and static extension class into my project and added the line to the NinjectMVC3 Start() method to set the resolver, same way you did, and I still get this problem...thanks!</p>'

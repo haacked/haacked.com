@@ -1,0 +1,5 @@
+id: dsq-747532478
+date: 2010-06-09T14:08:06.0000000-07:00
+name: NC
+avatar: https://disqus.com/api/users/avatars/NC.jpg
+message: <p>This is completely wrong. The answer was posted on the daily wtf.<br>public bool IsListconntSmalleThaOne(IList&lt;IContact&gt; listOfResults) {<br>  if (listOfResults.Count &gt;= 1)<br>  {<br>    return false;<br>  }<br>  else<br>  {<br>    return true;<br>  }<br>}<br><a href="http://thedailywtf.com/Articles/IsListconntSmalleThaOne.aspx" rel="nofollow noopener" title="http://thedailywtf.com/Articles/IsListconntSmalleThaOne.aspx">thedailywtf.com/.../IsListconntSmalleThaOne.aspx</a></p>

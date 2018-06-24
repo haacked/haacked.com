@@ -1,0 +1,5 @@
+id: dsq-747523258
+date: 2007-11-04T21:38:27.0000000-08:00
+name: Scott Stocker
+avatar: https://disqus.com/api/users/avatars/Scott Stocker.jpg
+message: <p>Do you know if there is an equivalent to "GO" in MySql, Oracle, and other DBMS? It would be really cool to include that in the library and might make it easier to convert your SQL scripts for Subtext to work with MySql for example.</p>

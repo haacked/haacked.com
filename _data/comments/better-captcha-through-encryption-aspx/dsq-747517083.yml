@@ -1,0 +1,5 @@
+id: dsq-747517083
+date: 2006-10-09T09:50:01.0000000-07:00
+name: Jeferson Hultmann
+avatar: https://disqus.com/api/users/avatars/Jeferson Hultmann.jpg
+message: <p>I asked it because I remember <a href="http://blogs.msdn.com/brada/archive/2003/08/14/50226.aspx" rel="nofollow noopener" title="http://blogs.msdn.com/brada/archive/2003/08/14/50226.aspx">an issue I had</a>.<br>As RijndaelManaged internals are unknown, it would be safer to lock encryptionAlgorithm before using it. :/</p>

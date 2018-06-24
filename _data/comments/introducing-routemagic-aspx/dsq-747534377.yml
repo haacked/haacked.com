@@ -1,0 +1,5 @@
+id: dsq-747534377
+date: 2011-08-11T13:49:23.0000000-07:00
+name: Thomas Tai
+avatar: https://disqus.com/api/users/avatars/Thomas Tai.jpg
+message: <p>Hi Phil, thanks for the library.<br>However it only works on the ASP.NET Development Server. Once I deployed it to IIS7 on my production Windows Server 08 R2 box, routing function just doesn't work any more. What's going on?<br>I have already added the follow to my web.config but still doesn't work.<br>&lt;system.webServer&gt;<br>    &lt;modules runAllManagedModulesForAllRequests="true" /&gt;<br>&lt;/system.webServer&gt;<br></p>

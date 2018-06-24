@@ -1,0 +1,5 @@
+id: dsq-747525659
+date: 2008-07-03T02:17:13.0000000-07:00
+name: aspcode.net
+avatar: https://disqus.com/api/users/avatars/aspcode.net.jpg
+message: <p>[blockquote]System.Diagnostics.Stopwatch[/blockquote]<br>lol...I didn't know that. I have my own StopWatch class using QueryPerformanceCounter for frequency etc in a helper dll. Guess I can remove that now.</p>

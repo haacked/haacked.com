@@ -1,0 +1,5 @@
+id: dsq-747520731
+date: 2007-05-29T17:14:28.0000000-07:00
+name: Dan Maharry
+avatar: https://disqus.com/api/users/avatars/Dan Maharry.jpg
+message: <p>Wow, that's really cool but now I'm stumped. I can't decide which ActiveRecord implementation I should go with for my Apps and Websites. Subsonic for instance just mentions websites but there's nothing to say that I couldn't use the sprocs and table wrappers it generates for a windows service or app is there? Or maybe NHibernate \ ActiveRecord from the Castle Project or even the EDF coming post-Orcas with a bit of blinq to fill in the gap. The major problem is not having the time to try them all out. Any thoughts or suggestions?</p>

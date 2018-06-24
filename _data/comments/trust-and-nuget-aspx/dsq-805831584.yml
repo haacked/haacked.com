@@ -1,0 +1,6 @@
+id: dsq-805831584
+replyToId: dsq-805752817
+date: 2013-02-20T08:47:30.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>You don't need to sign a package to determine it hasn't changed. A strong HASH will be just as effective.</p>

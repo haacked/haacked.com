@@ -1,0 +1,5 @@
+id: dsq-747508245
+date: 2005-02-23T02:14:00.0000000-08:00
+name: tonyg
+avatar: https://disqus.com/api/users/avatars/tonyg.jpg
+message: <p>Sadly, setting a global variable is a real non-solution if you're writing library code. What if the library's client application needs to use 100-continue for something? They're basically completely out of luck. (The situation gets worse if the client is multithreaded.)<br><br><br><br>So of the two possible options, (1) set a global variable and (2) downgrade to HTTP/1.0, neither are really very clever ways of doing things.<br><br><br><br>Clearly the correct thing is for the .NET libraries to allow setting Expect100Continue for *each* *request* in a thread-safe and library-writer-friendly manner, not using a global variable.</p>

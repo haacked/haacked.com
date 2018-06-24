@@ -1,0 +1,5 @@
+id: dsq-747525176
+date: 2011-12-09T07:15:19.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@geo the current helpers don't support that. You could return a custom <code>FileResult</code> and override <code>ExecuteResult</code> to do what you want.</p>

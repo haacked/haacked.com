@@ -1,0 +1,5 @@
+id: dsq-747527759
+date: 2010-08-04T10:20:43.0000000-07:00
+name: Cria&#231;&#227;o de Site
+avatar: https://disqus.com/api/users/avatars/Cria&#231;&#227;o de Site.jpg
+message: '<p>is possible to mix 2 applications in same domain using routing ?<br>like this: <a href="http://www.site.com/app2/" rel="nofollow noopener" title="www.site.com/app2/">www.site.com/app2/</a>* points to application 2<br>and: <a href="http://www.site.com/" rel="nofollow noopener" title="www.site.com/">www.site.com/</a>* points to other application</p>'

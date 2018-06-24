@@ -1,0 +1,5 @@
+id: dsq-747525943
+date: 2008-08-07T04:54:36.0000000-07:00
+name: Lance Fisher
+avatar: https://disqus.com/api/users/avatars/Lance Fisher.jpg
+message: <p>This is cool, but there are a few problems with the cheat.<br>1. If you have two cyclers on the page, you cannot control the starting string in cycles after the first cycle.  Suppose I want two tables with bands, and the first row of each should get the "odd" class.<br>2. If you have two cyclers in the same loop, they will increment each other.  Suppose I want a row in a table to have alternating classes, and I also want each cell to me marked with the alternating class.<br>3. You cannot have nested cyclers - they won't work right.  This is probably more of an edge case.<br>Ideally, the context for the cycle would be the loop its operating in, and not the request.  I can't really think of a great solution other than passing the index to the Cycle() method, but that complicates the api and excludes foreach loops.</p>

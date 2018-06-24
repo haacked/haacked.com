@@ -1,0 +1,5 @@
+id: dsq-747518828
+date: 2011-12-06T14:00:15.0000000-08:00
+name: nme
+avatar: https://disqus.com/api/users/avatars/nme.jpg
+message: "<p>Python, version A:<br><br>for i in range(1,100+1):<br>    if not i % 3:<br>        if not i % 5:<br>            print 'FizzBuzz'<br>        else:<br>            print 'Fizz'<br>    else:<br>        if not i % 5:<br>            print 'Buzz'<br>        else:<br>            print i<br><br>python, version B:<br><br>for i in map(lambda x: (x,['Fizz',''][bool(x % 3)]+['Buzz',''][bool(x % 5)]), range(1,100+1)):<br>    print i[bool(i[1])]<br></p>"

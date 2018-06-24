@@ -1,0 +1,5 @@
+id: dsq-747526295
+date: 2008-08-29T19:32:00.0000000-07:00
+name: Andy
+avatar: https://disqus.com/api/users/avatars/Andy.jpg
+message: <p>Phil,<br>I am really keen to use MVC but my hesitation revolves around the native integration with jQuery ?<br>i.e. MS Ajax is integrated heavily with ASP.NET but it seems that jQuery is not. This is something that I find really frustrating as native integration should really exist for a lib as popular as jQuery ?<br>Is there plans to integrate this natively or ? As currently, the benefits combining MS Ajax and MVC far outweigh the benefits of using jQuery and MVC.<br>Thoughts? Love a post or some further indication from you in this regard.<br>Cheers,<br>Andy</p>

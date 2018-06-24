@@ -1,0 +1,5 @@
+id: dsq-747512547
+date: 2011-11-30T22:15:04.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Saeed, unfortunately, I'm not a WCF expert. However, if you're planning to use JSON, I'd take a look at WCF Web API. They may have better mechanisms.</p>

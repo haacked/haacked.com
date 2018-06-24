@@ -1,0 +1,5 @@
+id: dsq-747532353
+date: 2010-05-25T18:17:46.0000000-07:00
+name: Andy Mortimer
+avatar: https://disqus.com/api/users/avatars/Andy Mortimer.jpg
+message: "<p>There is a flip side to having systems that can cope with ambiguity: <i>we</i> have to cope with the fact that the system's output is no longer deterministic.<br>To go back to your original example of the project manager, given an ambiguous situation, a good project manager will resolve it and move the project forward somehow, but a different good project manager might resolve the situation in a different way.  Even the same project manager, on a different day or in a different mood, might take different approaches.<br>Until we, as programmers and as users, are prepared to deal with the software making it's best guess and sometimes doing something other than what we expected, we will remain stuck in this fragile world where the tiniest change throws the whole system off.<br>We thought the transition to controlled indeterminacy in multi-threaded code was difficult. This change to total non-determinacy will hit us even harder, I suspect.<br>- Andy</p>"

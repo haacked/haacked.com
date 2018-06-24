@@ -1,0 +1,6 @@
+id: dsq-1113049100
+replyToId: dsq-1112992874
+date: 2013-11-07T13:06:35.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>That's probably the next step. I just learned about gyp (<a href="https://code.google.com/p/gyp/)" rel="nofollow noopener" title="https://code.google.com/p/gyp/)">https://code.google.com/p/g...</a> and may try that out. The key thing is, I need to make it easy for contributors and they're going to want to add a file using VS. I don't want them having to bother with manifests etc.</p>

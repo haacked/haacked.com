@@ -1,0 +1,5 @@
+id: dsq-747519027
+date: 2007-03-08T06:30:50.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Case in point, doesn't the following output meet the letter of the spec?<br>1<br>2<br>Fizz<br>4<br>5Buzz<br>Fizz<br>7<br>8<br>Fizz<br>10Buzz<br>11<br>Fizz<br>13<br>14<br>FizzBuzz<br>My point being, the spec is explicit about <strong>replacing</strong> numbers divisible by three with "Fizz", but it doesn't say to <strong>replace</strong> numbers divisible by five.</p>

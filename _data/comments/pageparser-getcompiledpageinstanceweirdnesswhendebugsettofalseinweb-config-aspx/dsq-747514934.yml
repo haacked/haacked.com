@@ -1,0 +1,5 @@
+id: dsq-747514934
+date: 2007-08-07T22:17:34.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Innocent Not necessarily. We're doing URL rewriting here, so the requested URL (and the one that should be represented when testing for the virtual URL) is /default.aspx, but the actual file that handles that URL is DTP.aspx.</p>

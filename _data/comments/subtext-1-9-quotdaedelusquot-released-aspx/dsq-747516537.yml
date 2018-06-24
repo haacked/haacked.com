@@ -1,0 +1,5 @@
+id: dsq-747516537
+date: 2006-09-30T19:58:43.0000000-07:00
+name: Michele
+avatar: https://disqus.com/api/users/avatars/Michele.jpg
+message: "<p>I had sme problems with links section in subTEXT 1.9 and today I fixed them out:<br>In the admin site I couldn't manage the first 10 links for a mismatch between the paging logic of the admin site and the one used in the stored procedure \"subtext_GetPageableLinks\".<br>It's enough to put this line: <br>SET @PageIndex = @PageIndex -1<br>just after the delclaration of the SP and the admin site will work fine.<br>On the other hand there's a bug in the stored procedure \"subtext_GetActiveCategoriesWithLinkCollection\" used to get the links for the home page; in fact the categoryType used in the WHERE clauses should be equal to 5 not to 0.<br></p>"

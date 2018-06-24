@@ -1,0 +1,5 @@
+id: dsq-747532603
+date: 2010-07-02T23:41:48.0000000-07:00
+name: Andrew Nurse
+avatar: https://disqus.com/api/users/avatars/Andrew Nurse.jpg
+message: <p>@Jimmy <br>Like ASPX, Razor pages are compiled to DLLs, so once you've hit the page once, it's just as fast as any other page.  Razor pages also fully support Precompilation.  The Razor parser is not quite as performant as the ASPX parser, at least in the beta we'll be releasing soon. After all, ASPX is a very simple language to parse.  Having said that, the perf difference between Razor and ASPX is very reasonable at the moment and we haven't really done any performance tuning yet, so I'd expect the first-hit performance to be very comparable to ASPX. <br>@Steve Gentile - Yep, Razor can easily co-exist with ASPX.</p>

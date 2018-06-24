@@ -1,0 +1,5 @@
+id: dsq-747510193
+date: 2006-12-28T20:36:48.0000000-08:00
+name: SteveLionbird
+avatar: https://disqus.com/api/users/avatars/SteveLionbird.jpg
+message: <p>Kjeks..<br></p><blockquote>.*? provides non-greedy matching. Use single line option for good karma :-)</blockquote><p><br>Excellent tip .. I'm a CF developer and could not find that documented. CF does not support lookbehinds so I was pulling my hair out trying to grab content between matching opening and closing tags accurately.<br>Thanks,<br>Steve</p>

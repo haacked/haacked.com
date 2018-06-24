@@ -1,0 +1,5 @@
+id: dsq-747517799
+date: 2006-11-27T01:55:11.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yes, but my point is that for cases in which XHTML compliance is important, I don't want to add arbitrary attributes to the rendered markup. Instead, I add them to the element's representation in the DOM.</p>

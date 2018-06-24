@@ -1,0 +1,5 @@
+id: dsq-1101119181
+date: 2013-10-29T10:48:56.0000000-07:00
+name: Stephen Hammond
+avatar: https://disqus.com/api/users/avatars/stephenhammond.jpg
+message: <p>Concerning tools for code reviews you mention ReSharper. A lot of the devs I'm working with have been opposed to using certain code features (such as lambdas or async keywords). I think it's important to note that ReSharper is a good best practices tool but not necessarily a followed practice tool.</p><p>While I believe strongly in the methods that ReSharper uses are great and it teaches me to define good programming practices, FxCop and StyleCop are the tools I fall back on for code reviews (so to avoid friction). BUT tools like NRefactory and Project Roslyn are making in roads. How do you think these tools will impact Code Review and peoples adoption of "what is a feature I should learn" and "a feature that's a nice suggestion"?</p>

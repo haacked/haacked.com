@@ -1,0 +1,5 @@
+id: dsq-747537523
+date: 2012-01-30T06:00:14.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Michiel notice that in my round trip example, I didn't use <code>Encoding.Default</code>. I explicitly created a Windows-1252 encoding. So that would mitigate the risk of different values for different machines. But I agree with you that the consumer of text encoded as such might use Default and screw things up.<br>As for the encoded/decoded, I took the name from the original problem domain which was encrypting data into a string. I changed the variable names completely to avoid confusion. Thanks for pointing that out!</p>

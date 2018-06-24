@@ -1,0 +1,5 @@
+id: dsq-747509389
+date: 2005-03-07T20:34:00.0000000-08:00
+name: Rick
+avatar: https://disqus.com/api/users/avatars/Rick.jpg
+message: <p>Im having similar issues with SQL reports.  I have an assembly which originally gets its config info from web.config.  I see two options, but I dont really like either of them.  <br><br>   If I use resource files, they have to be compiled into another assembly, right? So then I would need to recompile every time I want to change config settings.  I could write a custom class to go out and get the config info like the appsettingsreader does, but how to resolve the file location?  Not every possible client keeps them in bin  Ex. SQL reports.<br><br>    Am I right in assuming that microsoft has nothing in place for shared components in the GAC???</p>

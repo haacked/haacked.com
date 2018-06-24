@@ -1,0 +1,5 @@
+id: dsq-747533550
+date: 2010-12-01T01:14:14.0000000-08:00
+name: Matt S.
+avatar: https://disqus.com/api/users/avatars/Matt S..jpg
+message: <p>Hi Phil,<br>This is great news! I do have a general question about Razor and its output.<br>If the only bits on a line in my source is Razor code or a comment, will that be emitted as a blank line?<br>For example, consider this snippet:<br>  &lt;ul&gt;<br>    @foreach var foo in bar {<br>      &lt;li&gt;@foo.Title&lt;/li&gt;<br>    }<br>  &lt;/ul&gt;<br>Will my output be the following:<br>  &lt;ul&gt;<br>    &lt;li&gt;Stuff&lt;/li&gt;<br>    &lt;li&gt;Stuff 2&lt;/li&gt;<br>    &lt;li&gt;Stuff 3&lt;/li&gt;<br>  &lt;/ul&gt;<br><br>or:<br>  &lt;ul&gt;<br>    &lt;li&gt;Stuff&lt;/li&gt;<br>    &lt;li&gt;Stuff 2&lt;/li&gt;<br>    &lt;li&gt;Stuff 3&lt;/li&gt;<br>  &lt;/ul&gt;</p>

@@ -1,0 +1,5 @@
+id: dsq-747521265
+date: 2007-10-02T18:58:03.0000000-07:00
+name: Dirc
+avatar: https://disqus.com/api/users/avatars/Dirc.jpg
+message: <p>Excellent work!!<br>Now... I have a problem trying to use Sessions between calls that I need to simulate. I need to make one call, which saves data to the Session. I then need to make another call using the same session to check stuff that happens if a session already exists.<br>Is there an existing way to do this or would I need to customise the HttpSimulator?</p>

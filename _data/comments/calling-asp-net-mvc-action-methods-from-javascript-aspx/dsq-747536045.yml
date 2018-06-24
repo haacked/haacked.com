@@ -1,0 +1,5 @@
+id: dsq-747536045
+date: 2011-10-30T07:23:09.0000000-07:00
+name: joel kurtz
+avatar: https://disqus.com/api/users/avatars/joel kurtz.jpg
+message: <p>I know I'm a little late on this one. But while I like the javascript it's emitting and if we only had to support one format, json, it may look pretty "cool". But how do we handle different formats, make multiple controller that do work on the same object type? Maybe you have ideas on how to handle multiple formats? WCF Web Api has a formatter solution that seems to be on the right track. Anyways, just thinking.</p>

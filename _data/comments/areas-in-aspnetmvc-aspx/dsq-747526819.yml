@@ -1,0 +1,5 @@
+id: dsq-747526819
+date: 2009-02-19T01:42:02.0000000-08:00
+name: Todd
+avatar: https://disqus.com/api/users/avatars/Todd.jpg
+message: <p>One of the first things I wanted to do with my MVC project was add sub-folders to the controllers and views folders!<br>I modified your approach a bit so that I could have subdirs without the Areas top-level dir - I think it is a cleaner approach for most people. The Areas approach prob. should be handled with external modules.<br>Thanks for the great article!<br></p>

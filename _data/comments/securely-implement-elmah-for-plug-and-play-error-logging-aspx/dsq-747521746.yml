@@ -1,0 +1,5 @@
+id: dsq-747521746
+date: 2010-02-16T08:58:33.0000000-08:00
+name: Phil Haselden
+avatar: https://disqus.com/api/users/avatars/Phil Haselden.jpg
+message: "<p>If you remove the leading slash from your path you might find people are able to bypass your security by using a path such as http://&lt;site&gt;/xxxx/admin/elmah.axd. <br>Check out the question and answer from Alan to this question: <a href=\"http://stackoverflow.com/questions/1245364/securing-elmah-in-asp-net-website\" rel=\"nofollow noopener\" title=\"http://stackoverflow.com/questions/1245364/securing-elmah-in-asp-net-website\">stackoverflow.com/...</a>.<br>I think this would address Philip Lippard's issue too.<br>For my site I did this:<br><code><br>  &lt;location path=\"admin\"&gt;<br>    &lt;system.web&gt;<br>      &lt;httpHandlers&gt;<br>        &lt;add path=\"elmah.axd\" verb=\"POST,GET,HEAD\" type=\"Elmah.ErrorLogPageFactory, Elmah\"/&gt;<br>      &lt;/httpHandlers&gt;<br>      &lt;authorization&gt;<br>        &lt;allow roles=\"Administrator\"/&gt;<br>        &lt;deny users=\"*\"/&gt;        <br>      &lt;/authorization&gt;<br>    &lt;/system.web&gt;<br>  &lt;/location&gt;<br></code></p>"

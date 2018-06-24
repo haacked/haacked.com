@@ -1,0 +1,5 @@
+id: dsq-747524550
+date: 2010-05-26T07:09:08.0000000-07:00
+name: rn
+avatar: https://disqus.com/api/users/avatars/rn.jpg
+message: <p>I am a bit frustrated, because when I user the Route debugger to check the routes, I get the green ticks at the right routes, but the moment I test it for real, I get a The resource cannot be found error. Using RTM .NEt 4 and MVC 2 with the spark view engine.</p>

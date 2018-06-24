@@ -1,0 +1,5 @@
+id: dsq-747535581
+date: 2011-07-13T10:47:39.0000000-07:00
+name: Mikael Koskinen
+avatar: https://disqus.com/api/users/avatars/Mikael Koskinen.jpg
+message: <p>Looking good.<br>What I'm personally hoping to see in a future release is an official way of splitting you ASP.NET MVC application into multiple projects. Something like the portable areas, but more friction-free. This would help when creating larger sites where different teams are responsible for the different parts of the site.<br>I think the FubuMVC people have done something in this area with the Bottles project.</p>

@@ -1,0 +1,5 @@
+id: dsq-747524362
+date: 2008-03-11T04:56:24.0000000-07:00
+name: Nick Acevse
+avatar: https://disqus.com/api/users/avatars/Nick Acevse.jpg
+message: <p>Miguel,<br>MVC _almost_ runs on Mono 1.9 without any modification, straight from the MS provided assemblies.  I've been having some trouble getting the routing working using XSP2, but it appears that all of the neccessary dependencies have been implemented in Mono.</p>

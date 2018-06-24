@@ -1,0 +1,5 @@
+id: dsq-747536268
+date: 2011-10-12T14:32:19.0000000-07:00
+name: Konstantin
+avatar: https://disqus.com/api/users/avatars/Konstantin.jpg
+message: <p>This solution didn't work for me, since UrlAuthorizationModule just ended the request, so PostReleaseRequestState event was not raised.</p>

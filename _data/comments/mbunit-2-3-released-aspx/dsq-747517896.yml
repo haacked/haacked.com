@@ -1,0 +1,5 @@
+id: dsq-747517896
+date: 2006-12-08T03:52:54.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Well that didn't save you a line of code.  You hade to write TestFunctionHelper. Also, what if you needed the SetUp and TearDown function to run between each call to TestMyFunctionHelper?<br>Now imagine your next test that takes in three parameters or four? You'll have to write more test function helpers.  You could certainly write one that takes in a delegate, but why when MbUnit offers all that to you for free?<br>Also, you should install TestDriven.NET and test right from your IDE. I almost never use the MbUnit GUI.</p>

@@ -1,0 +1,5 @@
+id: dsq-747537305
+date: 2012-01-02T05:17:23.0000000-08:00
+name: Roger Lipscombe
+avatar: https://disqus.com/api/users/avatars/Roger Lipscombe.jpg
+message: <p>This is something we've been thinking about for our unit tests. In particular, we're using MSpec, which calls for a class for each test.<br></p><p><br></p><p>Obeying the one-class-per-file guideline quickly makes the project hard to navigate (though arguably still easier than finding all of those classes in the same file).<br></p><p><br></p><p>Nesting them like this -- and with MSpec, it'll probably be nested 3 deep (class -- method -- test) -- might be what we need.<br></p><p><br></p>

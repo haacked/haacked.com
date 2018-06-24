@@ -1,0 +1,5 @@
+id: dsq-747527227
+date: 2008-12-14T14:33:32.0000000-08:00
+name: Rey
+avatar: https://disqus.com/api/users/avatars/Rey.jpg
+message: '<p>Hi ,<br>I just deployed the sample MVC project into my website <a href="http://classifieds.arabeastern.com/" rel="nofollow noopener" title="http://classifieds.arabeastern.com/">http://classifieds.arabeastern.com/</a> , The home page is working fine. All the links other than home page throw a page not found error. I had added the .mvc to the application configuration and unchecked "Verify the file exist" option.<br>Anyone please help me to get rid of this error<br>Home page url : <a href="http://classifieds.arabeastern.com/" rel="nofollow noopener" title="http://classifieds.arabeastern.com/">http://classifieds.arabeastern.com/</a><br>Thank you.<br><br></p>'

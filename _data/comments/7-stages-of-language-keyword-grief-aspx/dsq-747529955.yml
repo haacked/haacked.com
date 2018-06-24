@@ -1,0 +1,5 @@
+id: dsq-747529955
+date: 2009-09-03T04:01:00.0000000-07:00
+name: Rob Conery
+avatar: https://disqus.com/api/users/avatars/Rob Conery.jpg
+message: <p>@Phil - I don't think that you can use a dynamic approach like you would a hammer or a screw. Reflection - sure. But then why are you using Reflection in the first place?<br>I'm not telling you to rewrite the app - because you're a smart dude and would have tested all this first no doubt :) and realized "hey maybe ramping Reflection through the roof with C# is a bit messy. Maybe I should just use [language X] instead".<br>It doesn't side-step the question as I think you need to think about the app before you write it. Let's take a blog for the masses :) - at some point you might want a pluggable system where you can override functionality on the fly, adding admin pages etc. <br>Sure - you could do this with .NET. But a language like PHP or Ruby is much better for the task because that's how it's built. Bertrand and I had this exact conversation (before we built anything).<br>Make sense?</p>

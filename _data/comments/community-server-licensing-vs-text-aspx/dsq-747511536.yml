@@ -1,0 +1,5 @@
+id: dsq-747511536
+date: 2005-04-19T05:07:00.0000000-07:00
+name: Sharp as a Marble
+avatar: https://disqus.com/api/users/avatars/Sharp as a Marble.jpg
+message: <p>Heck, I've already extended the poop out of it.<br><br><br><br>There are quite a few things I don't like about it, but don't complain about 'cuz it's free. The main gripe I have is that everything falls under the blog_content table. I prefer other methods, but that's just me.<br><br><br><br>Architecturally, I like .Text although I've had to do quite a bit of reverse engineering to figure it out. But since the design was decent, it never took too much time to do so with the exception of a few items like the caching blocks.<br><br><br><br>Since I'm running XP 64, maybe I should do a 64 bit app for people who like to blog about numbers like 18,446,744,073,709,551,616</p>

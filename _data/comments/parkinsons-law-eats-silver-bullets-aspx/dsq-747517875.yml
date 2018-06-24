@@ -1,0 +1,5 @@
+id: dsq-747517875
+date: 2006-12-05T05:19:55.0000000-08:00
+name: Willie Tilton
+avatar: https://disqus.com/api/users/avatars/Willie Tilton.jpg
+message: <p>I think it's relational to the skill of the developer and the tools he or she is using.  I like VS2k5's code completion and it certainly feels a bit faster.  It's the same with code generators.  In the past I dealt with agonizing data access code, and now I chunk it out.  So I agree with Wesner.<br>You could put it to an easy test.  Have two developers of equal skill use two different applications.  Have one use InterDev and ASP to create a complex form, and allow the other to use VS 2k5 and ASP.NET.  See who completes it faster.  My bet is on the latter simply because of the lego blocks.  The latter app could fill more development time because it would be a more rebust framework.</p>

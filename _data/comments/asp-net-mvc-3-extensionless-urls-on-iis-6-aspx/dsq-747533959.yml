@@ -1,0 +1,5 @@
+id: dsq-747533959
+date: 2011-05-10T00:18:43.0000000-07:00
+name: Schnoz
+avatar: https://disqus.com/api/users/avatars/Schnoz.jpg
+message: <p>Well, I just got off the phone with support. It turns out that if you still have .NET 2.0 on the root, you still need to configure the Wildcard mapping on the MVC 3 directory. I feel silly now :) Thanks!</p>

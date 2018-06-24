@@ -1,0 +1,5 @@
+id: dsq-2545235494
+date: 2016-03-01T04:34:38.0000000-08:00
+name: Neil MacMullen
+avatar: https://disqus.com/api/users/avatars/neilmacmullen.jpg
+message: <p>Hi Phil, you might be interested in my regex tool <a href="http://www.textdistil.com" rel="nofollow noopener" title="www.textdistil.com">www.textdistil.com</a>.  I often use it for same kind of scenario you're describing.  You can enter a whole document of test input and then get a real-time set of matches as you tweak the regex.   Obviously it's not a substitute for proper unit tests but is very helpful when trying to explore the problem space.</p>

@@ -1,0 +1,5 @@
+id: dsq-747526542
+date: 2008-10-23T18:11:44.0000000-07:00
+name: Jonathon Wilson
+avatar: https://disqus.com/api/users/avatars/Jonathon Wilson.jpg
+message: <p>Thanks for posting this -- I've been searching for various solutions to this (List of complex objects) for a while. In one case, I ended up doing something very similar to what you described, indexes on the fields, but using a custom model binder to recompose the list. In a second case, I kept a backing javascript object model in the browser, and simply provided a single field with the JSON of my serialized list, and deserialized in a model binder. That was definitely less code, but has the dependency on javascript (which was fine in my particular case). I'll take a look at the way you've described.</p>

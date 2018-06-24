@@ -1,0 +1,5 @@
+id: dsq-747525836
+date: 2008-07-24T19:31:15.0000000-07:00
+name: Chris Smith
+avatar: https://disqus.com/api/users/avatars/Chris Smith.jpg
+message: <p>Great post. <br>The presented ideas and principals as related to this article should be follows as much as possible in my opinion. Although, I do have some fundamental problems with the principals of unit tests in general.<br>Depending on the context and scope of your “test script”, “unit test”, issues such as crossing boundaries become acceptable or even a requirement.<br>For example;<br>1.Developing a database driver<br>2.QA engineer’s “test script” is to qa a store locator portion of a web site<br>We do see applications such as nunit targeting developers, also other testing frameworks geared toward QA engineers. So I question if a QA’s “test script” is actually no different than a developer unit test. After all the goal is the same, and if the done well, the developer and QA worked to write their respective tests from the same requirements document.<br>Just thoughts,<br>Chris Smith<br></p>

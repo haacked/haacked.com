@@ -1,0 +1,5 @@
+id: dsq-1168491009
+date: 2013-12-18T00:36:01.0000000-08:00
+name: Rüdiger Plantiko
+avatar: https://disqus.com/api/users/avatars/rdigerplantiko.jpg
+message: <p>In the Ruby example, the "if" statement disappeared from the source code, but is still executed behind the scenes, as part of the "max" function.</p><p>It is a good idea, when you are about to write an "if" statement, to look out for a more baisc function in which this particular condition is already implemented. More special and complex conditions can at least be designed as functions with Boolean return value, and chained by functional idioms like "Array.every()", "Array.some()".</p>

@@ -1,0 +1,5 @@
+id: dsq-747520486
+date: 2008-02-26T00:53:31.0000000-08:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: '<p>I am not sure if I would say that the IIS 7 team rocks.  If they rocked there would have been an error in the event log explaining exactly what was going on.  However *you* rock for posting this, because I had a very similar problem and you helped me to fix it.  I was converting from a WCF Service hosted in an NT Service (which needs the namespace reservation) to hosting it in IIS which apparently barfs with a 503 and no event log error if there is a namespace reservation.  What was a little wierd was that the app pool was running under Network Service (NS), and that was the account the namespace reservation was under:<br>    Reserved URL            : http://+:80/Echo/<br>        User: NT AUTHORITY\NETWORK SERVICE<br>            Listen: Yes<br>            Delegate: No<br>            SDDL: D:(A;;GX;;;NS)<br>I even considered that the namespace reservation could be causing it, but for some reason I dismissed the thought.<br>Anyway thanks a ton for your help, if only I had read this 3 hours ago...<br></p>'

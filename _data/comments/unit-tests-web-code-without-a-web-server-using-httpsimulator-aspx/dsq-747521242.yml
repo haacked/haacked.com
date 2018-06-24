@@ -1,0 +1,5 @@
+id: dsq-747521242
+date: 2007-06-20T21:22:04.0000000-07:00
+name: Don Demsak
+avatar: https://disqus.com/api/users/avatars/Don Demsak.jpg
+message: "<p>Have you tried to mock MapPath?  I couldn't get that to work.  Jason Bock found out the same thing when he tries to mock HttpContext: <a href=\"http://www.jasonbock.net/JB/Default.aspx?blog=entry.b89f5611046d4555be2e39af9dd1448a\" rel=\"nofollow noopener\" title=\"http://www.jasonbock.net/JB/Default.aspx?blog=entry.b89f5611046d4555be2e39af9dd1448a\">http://www.jasonbock.net/JB...</a><br></p>"

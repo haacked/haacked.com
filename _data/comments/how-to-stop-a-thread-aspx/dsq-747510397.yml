@@ -1,0 +1,5 @@
+id: dsq-747510397
+date: 2007-12-13T16:08:46.0000000-08:00
+name: chathuranga
+avatar: https://disqus.com/api/users/avatars/chathuranga.jpg
+message: <p>I have an array of threads working on some task... and I wan to end any thread if it's taking time to execute... so what I did was using a Timer and it's event.. called Thread.Abort() on threads taking more time..but as u mention, with the Abort()..s  unexpected behavior.. it's hard to expect what I want to succeed. Works most of the time.. can't rely this. Any ideas.<br>the way proposed here seems not applicable here for me bcoz the specific thread is working on a time taking method call and no way to repeatedly check a variable to end the thread itself</p>

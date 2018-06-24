@@ -1,0 +1,5 @@
+id: dsq-747508812
+date: 2011-07-07T23:43:21.0000000-07:00
+name: Javier Callico
+avatar: https://disqus.com/api/users/avatars/Javier Callico.jpg
+message: <p>Since SQL 2005, TOP can be used as a function a variable can be used as argument.<br>DECLARE @Count INT<br>SET @Count = 10<br>SELECT TOP(@Count) * FROM someTable ORDER By NEWID()</p>

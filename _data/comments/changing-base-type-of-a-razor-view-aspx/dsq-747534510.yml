@@ -1,0 +1,5 @@
+id: dsq-747534510
+date: 2011-02-21T21:48:17.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@xgluxv No, I don't believe so.<br>@Jimmy I believe it goes by name because I didn't need to make any additional web.config changes. But I'll follow up to find out for sure.<br><br>I confirmed, it is indeed by name. In C#, you actually always need the generic type because even without a model, the view is typed as dynamic by default.</p>

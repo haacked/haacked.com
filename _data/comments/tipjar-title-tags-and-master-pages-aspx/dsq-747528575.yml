@@ -1,0 +1,5 @@
+id: dsq-747528575
+date: 2009-04-03T03:23:26.0000000-07:00
+name: Nebbercracker
+avatar: https://disqus.com/api/users/avatars/Nebbercracker.jpg
+message: <p>Another option is to use a global resource for the title of the website and then refer to the page name.  so, in the master page:<br>&lt;title&gt;&lt;%#Resources:Site,Title%&gt; - &lt;%=Page.Title%&gt;&lt;/title&gt;<br>Simple.<br></p>

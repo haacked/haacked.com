@@ -1,0 +1,5 @@
+id: dsq-747524114
+date: 2008-02-06T21:20:19.0000000-08:00
+name: jbogard
+avatar: https://disqus.com/api/users/avatars/jbogard.jpg
+message: <p>@Anand<br>My suggestion is to check out Michael Feather's Legacy Code book for suggestions.  Singletons are notoriously difficult to test, and you'll usually find that you want to move away from them.<br>If we want singletons, we configure our IoC container to only construct one object when asked.<br>@Vish<br>All I can say is I hope I never inherit a codebase from you.  Code without tests is legacy code, period.  Instead of saying "Joe Developer can't grasp this or gets bored", let's raise the bar.  MVC is doing just that.<br>What you're asking for is the IDE to read your mind on the intentions of you WANT the code to be, not even it what it is in reality.<br>What's more cumbersome than unit tests?  Fielding support calls for months after a release because the software doesn't do what you wanted it to do.</p>

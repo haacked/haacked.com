@@ -1,0 +1,5 @@
+id: dsq-747528928
+date: 2009-05-13T20:43:00.0000000-07:00
+name: Eric Sims
+avatar: https://disqus.com/api/users/avatars/Eric Sims.jpg
+message: <p>Phil, did you ever get the caching bug figured out? It seems that you have to override the CacheDependency methond (like Dody said) (at least in the standard VPP implementation). <br>I think the default is that it creates a cache in the 'Temporary ASP.NET Files' folder and keeps it there for a default of 20 minutes. <br>My problem is that I'm having difficulty invalidating that cache based on a trigger of some sort (file dependency, etc). <br>I can, of course, delete those files manually, but that's no use in the real world.<br>Please let me know once you have this figured out. <br></p>

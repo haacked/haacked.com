@@ -1,0 +1,5 @@
+id: dsq-747528531
+date: 2010-12-04T07:42:24.0000000-08:00
+name: BlueRaja
+avatar: https://disqus.com/api/users/avatars/BlueRaja.jpg
+message: <p>Phil,<br> Just out of curiosity, is there a reason this isn't done <em>by default</em>, as it is in many other frameworks?<br>It seems like the small cost in performance would be worth it for the increase in security - most security holes are caused by someone not knowing or not remembering to do something like this, so the less they have to know/remember to do, the better.</p>

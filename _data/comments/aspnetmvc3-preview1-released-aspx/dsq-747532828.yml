@@ -1,0 +1,5 @@
+id: dsq-747532828
+date: 2010-08-10T23:47:43.0000000-07:00
+name: Felipe Lima
+avatar: https://disqus.com/api/users/avatars/Felipe Lima.jpg
+message: <p>Phil,<br>I tried upgrading my MVC 2 project to MVC 3 preview 1 and ran into problems with my typed views. The ViewPage&lt;T&gt;.Model property stopped working and my project stopped running. It seems like the ViewPage&lt;T&gt; views were being treated as regular ViewPage classes and, thus, the Model property had a type = object. Maybe that is a issue you guys could take a look.<br>Thanks for the good work!<br>Felipe</p>

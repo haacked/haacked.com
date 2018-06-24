@@ -1,0 +1,5 @@
+id: dsq-747538395
+date: 2012-09-29T23:00:43.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@smartcaveman I think it would be in a type like <code>Uri</code> which is meant to be a URI and never allow invalid values. But the whole point of these types is to represent user input which might be invalid. So invalid input is not an exceptional case. It's quite common! So I have an <code>IsValid</code> property on these types.<br>Note that these types are just counterparts to strict types like a <code>DirectoryInfo</code>, <code>FileInfo</code>, or <code>Uri</code>.</p>

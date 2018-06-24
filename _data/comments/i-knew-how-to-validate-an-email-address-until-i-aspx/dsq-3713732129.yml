@@ -1,0 +1,5 @@
+id: dsq-3713732129
+date: 2018-01-18T00:07:15.0000000-08:00
+name: Todd O'Bryan
+avatar: https://disqus.com/api/users/avatars/toddobryan.jpg
+message: <p>Note that RFC5322 obsoleted RFC2822 and makes this a little less problematic. In particular, backslashes aren't allowed in the local part anymore. There's a nice list of valid and invalid addresses in the Wikipedia article on Email Address.</p>

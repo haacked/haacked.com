@@ -1,0 +1,5 @@
+id: dsq-2236447273
+date: 2015-09-04T12:20:20.0000000-07:00
+name: Daniel Faure
+avatar: https://disqus.com/api/users/avatars/Daniel Faure.jpg
+message: <p>Very useful!</p><p>I need to consider rgba on regex, and some spaces after the comma, so I used</p><p>var digits = /(.*?)rgba?\((\d+),\s?(\d+),\s?(\d+),\s?(\d+)\)/.exec(color);</p>

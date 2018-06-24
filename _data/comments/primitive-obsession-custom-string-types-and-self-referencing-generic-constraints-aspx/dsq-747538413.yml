@@ -1,0 +1,5 @@
+id: dsq-747538413
+date: 2012-09-30T21:13:09.0000000-07:00
+name: distantcam
+avatar: https://disqus.com/api/users/avatars/distantcam.jpg
+message: <p>As @Diego said, if these classes are to be used in the UI they should be called ViewModels.<br>If you're using these classes to then bind to a property off them, be aware there's a memory issue in WPF if they don't implement INotifyPropertyChanged or the property isn't a DependencyProperty.<br><a href="http://support.microsoft.com/kb/938416" rel="nofollow noopener" title="http://support.microsoft.com/kb/938416">http://support.microsoft.com/kb/938416</a><br>And you shouldn't be implementing INotifyPropertyChanged on things that aren't ViewModels. ;)</p>

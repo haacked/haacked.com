@@ -1,0 +1,5 @@
+id: dsq-747525486
+date: 2008-06-19T08:05:26.0000000-07:00
+name: Andrei Rînea
+avatar: https://disqus.com/api/users/avatars/Andrei_Rinea.jpg
+message: <p>Just like gb said above ("suppose you have both a webApp and WinApp and you wanted both to share some...") I must ask too:<br>Using ASP.NET MVC can you share your controllers and models in a Windows Forms application? Can you swap your models ala provider pattern?<br>Thanks.</p>

@@ -1,0 +1,5 @@
+id: dsq-747524222
+date: 2008-02-20T23:05:56.0000000-08:00
+name: Justin Rudd
+avatar: https://disqus.com/api/users/avatars/Justin Rudd.jpg
+message: <p>My only concern in the interface vs. abstract base class war is C# only allows for a single base class.  Now in this case, maybe it isn't a big deal because really how often are we (users of ASP.NET MVC) going to be deriving from HttpContextBase?  Unit tests only?  Are you guys really implementing IHttpContext in your applications?<br>Which brings up, if I'm using IHttpContext and not implementing, if a new method is added, aren't I insulated from the change?  It would seem the design advice about interface vs. abc is really only applicable if the interface is meant to be implemented by an end user.</p>

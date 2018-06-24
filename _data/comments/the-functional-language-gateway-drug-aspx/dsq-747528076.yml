@@ -1,0 +1,5 @@
+id: dsq-747528076
+date: 2009-02-17T20:19:03.0000000-08:00
+name: meisinger
+avatar: https://disqus.com/api/users/avatars/meisinger.jpg
+message: <p>wouldn't it be easier to return a count from a StartsWith() (or a like '{0}%') with the title and if the count is greater than n throw an error other wise look for a string in a dictionary where the key is (count+1)?<br>e.g.<br>// this dictionary could be loaded from<br>// an xml file or csv file from a static class<br>Dictionary&lt;int, string&gt; slugMap = new Dictionary&lt;int, string&gt;();<br>slugMap.Add(2, "{0}{1}again");<br>slugMap.Add(3, "{0}{1}yet{1}again");<br>...<br>string EnsureUniqueSlug(string slug, string separator) {<br> var entryCount = (from e in context.Entries<br>   where e.Slug.StartsWith(slug)<br>   select e.EntryId).Count();<br> if (entryCount &gt; slugMap.Count)<br>   throw new InvalidOperationException("Ouch...");<br> if (entryCount &gt; 0) {<br>  var slugFormat = slugMap[entryCount+1];<br>  return string.Format(slugFormat, slug, separator);<br> }<br> return slug;<br>}<br>i'm sure there are several ways to skin that cat<br>or you could leverage the yield return to iterate</p>

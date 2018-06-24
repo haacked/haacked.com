@@ -1,0 +1,5 @@
+id: dsq-747517093
+date: 2006-10-26T16:00:42.0000000-07:00
+name: nstlgc
+avatar: https://disqus.com/api/users/avatars/nstlgc.jpg
+message: <p>Doesn't this open a window of opportunity for a spammer? By solving a CAPTCHA challenge once, he has a certain window (in your case 30 minutes) in which he can spam your site as much as he wants by reusing the same CAPTCHA hidden value.<br>The workaround? Don't ask the client to actually remember the solution for you. Keep it stored serverside in a database, send an identification value back to the client so you know what entry to check, and remove the entry once the CAPTCHA has been approved. This way a correct solution can only be entered once.</p>

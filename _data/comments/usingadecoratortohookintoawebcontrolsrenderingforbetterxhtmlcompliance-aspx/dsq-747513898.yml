@@ -1,0 +1,5 @@
+id: dsq-747513898
+date: 2006-08-12T15:42:17.0000000-07:00
+name: James Chen
+avatar: https://disqus.com/api/users/avatars/James Chen.jpg
+message: "<p>I've copied your code and pasted on my code behind of a user control. And then I ran the debug mode and found: Render() was called and CompliantHtmlTextWriter() was instantiated, but AddAttribute() was never called.<br>Eventually I still got: &lt;input language=\"javascript\"... on my site <a href=\"http://www.realtorstown.com/\" rel=\"nofollow noopener\" title=\"http://www.realtorstown.com/\">http://www.realtorstown.com/</a><br></p>"

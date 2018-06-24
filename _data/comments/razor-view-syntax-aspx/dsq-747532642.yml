@@ -1,0 +1,5 @@
+id: dsq-747532642
+date: 2010-08-29T00:31:18.0000000-07:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>I am getting the same thing as Camiel with this:<br>@inherits System.Web.Mvc.WebViewPage&lt;DateTime?&gt;<br>Expected '&gt;' after generic type argument<br>This works fine in the webforms engine. Is this a bug? Any way around it?</p>

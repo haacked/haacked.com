@@ -1,0 +1,6 @@
+id: dsq-896137041
+replyToId: dsq-747531184
+date: 2013-05-13T11:31:42.0000000-07:00
+name: jarvis
+avatar: https://disqus.com/api/users/avatars/1stbench.jpg
+message: "<p>i am facing a problem here : i am using php while loop to display the boxes ... now the problem is that all of them hav a same id \"post\" which i want to toggle now can u help me with that</p><p>while($row = mysql_fetch_assoc($result))<br>{<br>echo'&lt;div id=\"con_1\"&gt;<br>&lt;div id=\"h1\"&gt;'. $row['cat_name'] .':&lt;cl&gt;<a href=\"#post\" rel=\"nofollow noopener\" title=\"#post\">Hide</a>&lt;/cl&gt;&lt;/div&gt;<br>                &lt;div id=\"box\"&gt;<br>                &lt;div id=\"post\"&gt;<br>                &lt;div id=\"post_left\"&gt;<br>                    <b>'. $row['post_sub'] .'</b><br>                    &lt;/div&gt;<br>                    &lt;div id=\"post_right\"&gt;<br>                    '. $row['user_name'] .'::::::::::::<br><br>'. $row['post_date'] .'::::::::::   '. $row['post_time'] .'::::::::::::<br>&lt;/div&gt;<br>&lt;/div&gt;<br>&lt;/div&gt;<br>&lt;/div&gt;';<br>}</p>"

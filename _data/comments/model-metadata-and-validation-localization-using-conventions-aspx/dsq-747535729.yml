@@ -1,0 +1,5 @@
+id: dsq-747535729
+date: 2011-11-23T08:41:40.0000000-08:00
+name: Hardy Wang
+avatar: https://disqus.com/api/users/avatars/Hardy Wang.jpg
+message: <p>How about nested models? How do I compose resource key?<br>For example<br>class A {<br>[Required]<br>public string PropertyA1 { get; set; }<br>}<br>class B {<br>public A PropertyB_A { get; set; }<br>}</p>

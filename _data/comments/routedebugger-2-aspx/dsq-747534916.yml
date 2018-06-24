@@ -1,0 +1,5 @@
+id: dsq-747534916
+date: 2011-04-19T22:33:08.0000000-07:00
+name: Eric Clark
+avatar: https://disqus.com/api/users/avatars/Eric Clark.jpg
+message: <p>Great update, but I noticed that Nuget placed your license.txt at the top of my project, with no indication that it only covers RouteDebugger.dll.  People could forget to remove the file and give users the impression their project is covered by your MS-PL license.</p>

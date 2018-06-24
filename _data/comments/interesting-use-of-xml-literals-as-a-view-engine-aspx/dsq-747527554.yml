@@ -1,0 +1,5 @@
+id: dsq-747527554
+date: 2008-12-29T02:53:29.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Javier I can see DbConnections being created in a .aspx view too. But just because it can doesn't mean it will.<br>As an added discipline, you could create these view classes in a separate project that doesn't reference any of the data classes.</p>

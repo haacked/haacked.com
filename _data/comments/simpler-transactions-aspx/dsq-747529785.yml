@@ -1,0 +1,5 @@
+id: dsq-747529785
+date: 2009-08-20T03:32:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@sean Several reasons.<br>1. You're not using stored procs but using some sort of OR/M.<br>2. You're doing a distributed transaction across multiple databases or data stores.<br>3. You're writing code that needs to be database agnostic (like a product which runs against different databases).</p>

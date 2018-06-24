@@ -1,0 +1,5 @@
+id: dsq-747529709
+date: 2009-09-01T14:38:00.0000000-07:00
+name: ranamauro
+avatar: https://disqus.com/api/users/avatars/ranamauro.jpg
+message: <p>Just a quick note, Phil has refreshed the drop in place, so you can download it from the exact same location. It contains the fix above and a couple additional tests to cover the scenario that was fixed (there's a also a minor fix to one of the test's csproj so its references resolve correclty on a 64 bit machine).<br>If folks would like to see another blog post covering some specific aspects of this SDK, please let me know, I'll be happy to do more :)</p>

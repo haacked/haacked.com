@@ -1,0 +1,5 @@
+id: dsq-747530739
+date: 2010-04-06T00:16:55.0000000-07:00
+name: Josh W.
+avatar: https://disqus.com/api/users/avatars/Josh W..jpg
+message: "<p>Any update for the Sys.Mvc not being defined or null? Im using the most recent version of MVC and would like to get this going. The inline script that you put in your view doesn't work with error:<br>Microsoft JScript runtime error: 'Sys.Mvc.ValidatorRegistry.validators' is null or not an object<br>I dug around to find that Sys.Mvc is registered in MicrosoftAjax.js - included this file - but still no go. Unsure how to proceed.</p>"

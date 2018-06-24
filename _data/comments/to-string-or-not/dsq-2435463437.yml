@@ -1,0 +1,5 @@
+id: dsq-2435463437
+date: 2016-01-01T19:12:34.0000000-08:00
+name: Lucas Byers
+avatar: https://disqus.com/api/users/avatars/lucasbyers.jpg
+message: <p>I also expect a convention but the exact opposite of yours. I expect to see string and int and it is more readable to me that way. If people use String or Int32 it takes me some additional processing and reading time.</p>

@@ -1,0 +1,5 @@
+id: dsq-747527260
+date: 2010-05-10T01:01:30.0000000-07:00
+name: Phuoc Doan
+avatar: https://disqus.com/api/users/avatars/Phuoc Doan.jpg
+message: <p>Hi Everyone,<br>* I have IIS 6 installed on my x64 windows server 2003<br>* With my website host in IIS 6:<br>   + I've setup Application Extension Mapping for .mvc is "C:\WINDOWS\<a href="http://microsoft.net" rel="nofollow noopener" title="microsoft.net">microsoft.net</a>\Framework64\v2.0.50727\aspnet_isapi.dll" and uncheck Verify that file exists<br>   + I've also setup Wildcard App Map used above path and uncheck Verify that file exists too<br>* and below is my route:<br>routes.IgnoreRoute("{resource}.axd/{*pathInfo}");<br>routes.MapRoute(<br>   "Default", // Route name<br>   "{controller}/{action}/{id}", // URL with parameters<br>   new { controller = "Home", action = "Index", id = UrlParameter.Optional } // Parameter defaults<br>);<br>When I browse my website, it return the blankpage.<br>Please help me what's wrong with my works.<br>Many thanks</p>

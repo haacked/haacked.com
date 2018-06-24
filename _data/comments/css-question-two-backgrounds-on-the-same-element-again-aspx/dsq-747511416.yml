@@ -1,0 +1,5 @@
+id: dsq-747511416
+date: 2007-09-25T15:46:48.0000000-07:00
+name: Gasper Markic
+avatar: https://disqus.com/api/users/avatars/Gasper Markic.jpg
+message: "<p>Hi<br>I think nesting DIVs is the best way it can be done in CSS1.<br>Example bellow is dealing with top and bottom background of a dynamic height cell.<br>&lt;div style=\"height:60px; background: url(top.jpg') no-repeat top;\"&gt;<br>  &lt;div style=\"height:60px;background: url(bott.jpg') no-repeat bottom; padding:4px 0px 4px 0px;\"&gt;<br>    CONTENT<br>  &lt;/div&gt;             <br>&lt;/div&gt;</p>"

@@ -1,0 +1,5 @@
+id: dsq-1774455958
+date: 2015-01-06T04:22:55.0000000-08:00
+name: Hector Figueroa
+avatar: https://disqus.com/api/users/avatars/disqus_q9TnVQun03.jpg
+message: <p>Hi Haacked,</p><p>in your example how I could use to give a star in a repository ? I tried something like this:</p><p> var repositoriesStar = await client.Activity.Starring.StarRepo(ownerRepository,nameRepository);</p><p>but did not work... what's wrong?</p>

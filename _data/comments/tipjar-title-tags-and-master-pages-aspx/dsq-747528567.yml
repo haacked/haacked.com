@@ -1,0 +1,5 @@
+id: dsq-747528567
+date: 2009-04-02T22:59:42.0000000-07:00
+name: Erik Porter
+avatar: https://disqus.com/api/users/avatars/Erik Porter.jpg
+message: <p>Or you could just remove runat="server" on the head tag.  Found that to get rid of all the quirks.  Didn't really find it necessary to be able to set the title in code with MVC anyway.</p>

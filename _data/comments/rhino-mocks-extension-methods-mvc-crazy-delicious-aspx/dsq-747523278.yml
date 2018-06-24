@@ -1,0 +1,5 @@
+id: dsq-747523278
+date: 2007-11-05T04:34:46.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Tim - But extension methods apply to instances. How do you get an instance of IHttpContext for which to mock?</p>

@@ -1,0 +1,5 @@
+id: dsq-747531958
+date: 2010-06-16T00:31:56.0000000-07:00
+name: Michael Hallock
+avatar: https://disqus.com/api/users/avatars/Michael Hallock.jpg
+message: <p>What about HtmlHelpers? The Html Helpers in MVC2 explicitly call to HttpUtility.HtmlEncode() and HttpUtiliy.HtmlAttributeEncode(). I'm assuming this doesn't fix that little hole?<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747517848
+date: 2009-03-05T01:45:52.0000000-08:00
+name: Shanku Niyogi
+avatar: https://disqus.com/api/users/avatars/Shanku Niyogi.jpg
+message: <p>And, just to be complete, you can't actually support the non-compile scenario unless you also override EvaluateExpression. In the non-compile scenario, this method gets called to evaluate the expression without having to generate code.</p>

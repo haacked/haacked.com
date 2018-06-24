@@ -1,0 +1,5 @@
+id: dsq-747537714
+date: 2012-06-06T16:04:23.0000000-07:00
+name: StarTrekRedneck
+avatar: https://disqus.com/api/users/avatars/StarTrekRedneck.jpg
+message: <p>As an alternative,<br><code><br>public class MyDependencyResolver :<br>                  System.Web.Http.Services.IDependencyResolver,<br>                  System.Web.Mvc.IDependencyResolver<br></code></p>

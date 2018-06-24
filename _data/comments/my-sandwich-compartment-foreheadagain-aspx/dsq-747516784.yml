@@ -1,0 +1,5 @@
+id: dsq-747516784
+date: 2011-12-27T12:21:31.0000000-08:00
+name: BSu
+avatar: https://disqus.com/api/users/avatars/BSu.jpg
+message: <p>Hi All,<br>I am using ASP.Net 4.0 with c# and when I tried to empty all textbox by using for each loop but it didn't work. Will u please share this information with me why it is happening. Is there any new thing or process to do it in 4.0. I am using code..<br>private void ClearControls()<br>{<br>    foreach(Control c in Page.Controls)<br>    {<br>        foreach (Control ctrl in c.Controls)<br>        {<br>            if (ctrl is TextBox)<br>            {<br>                ((TextBox)ctrl).Text = string.Empty;<br>            }<br>        }<br>    }<br>}</p>

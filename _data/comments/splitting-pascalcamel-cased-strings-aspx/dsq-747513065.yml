@@ -1,0 +1,5 @@
+id: dsq-747513065
+date: 2005-09-25T10:04:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I'm not so sure it's going to be faster. At least, if we compare the methods that split camel case into an array (not the one that joins it back).<br><br><br><br>Consider that char by char parsing is almost always faster than a generalized regex engine.<br><br><br><br>Also consider that the use case for this method will on average at most split something into three words.<br><br><br><br>But of course, I'd like to see some measurements. Measure, measure, measure.</p>

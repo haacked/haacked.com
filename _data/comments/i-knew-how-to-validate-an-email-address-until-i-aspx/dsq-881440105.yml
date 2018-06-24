@@ -1,0 +1,5 @@
+id: dsq-881440105
+date: 2013-05-01T10:36:20.0000000-07:00
+name: lawrencehutson
+avatar: https://disqus.com/api/users/avatars/lawrencehutson.jpg
+message: <p>the absolute sure way to validate the email address is just talk to the smtp server - and ask it if the email exist with whatever the user inputs.</p>

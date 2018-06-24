@@ -1,0 +1,5 @@
+id: dsq-747520396
+date: 2010-02-02T00:34:19.0000000-08:00
+name: nishant
+avatar: https://disqus.com/api/users/avatars/nishant.jpg
+message: <p>I am on a shared hosting service. These days I am getting 503 error quite frequently. I am not able to know the exact reason. how could I Know the exact reason why it is happening?<br>I know about rapid fail protection which cause application pool to shut down for a particular number of error in a fixed time. but what type of error these can be for example these are not html errors obviously, not complilation error, then what type of errors/failures can cause application pool shutdown.<br>I have installed blog on my site and generaly when i view blog oages I get 503 error so what type of error/failure we could think of which can cause application pool to shutdown....</p>

@@ -1,0 +1,5 @@
+id: dsq-747522438
+date: 2010-07-16T12:26:52.0000000-07:00
+name: Kris
+avatar: https://disqus.com/api/users/avatars/Kris.jpg
+message: <p>I noticed a few people having trouble checking if the form field was set, Couldn't you just do a simple post check? <br>if (!isset($_POST['fieldname'])) { IgnoreComment(); }</p>

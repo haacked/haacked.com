@@ -1,0 +1,5 @@
+id: dsq-747512843
+date: 2005-08-14T11:56:00.0000000-07:00
+name: Jon Galloway
+avatar: https://disqus.com/api/users/avatars/Jon Galloway.jpg
+message: <p>I think the approach depends on the expected liklihood of the input value passing validation. If it's expected that most of the time the value will pass, I'd just handle the exception to avoid the unnecessary validation operations each time a we verify an integer is really an integer. If the input is unknown (library or component code) or likely to fail, I'd hit <a href="http://regexlib.com" rel="nofollow noopener" title="regexlib.com">regexlib.com</a> and at least use a regex that's likely had some testing.<br><br><br><br>I just made a data change on an app that does millions of casts on nullable database columns, and converting to a simple null check with an exception check yielded the best performance.</p>

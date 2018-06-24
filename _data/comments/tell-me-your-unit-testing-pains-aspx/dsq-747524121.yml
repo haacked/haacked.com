@@ -1,0 +1,5 @@
+id: dsq-747524121
+date: 2008-02-07T03:36:09.0000000-08:00
+name: Bradley Landis
+avatar: https://disqus.com/api/users/avatars/Bradley Landis.jpg
+message: <p>To "The Other Steve":<br>I believe I read that a typical TDD application has a 2-1 ratio of lines of test code to lines of system code.  I believe that is accurate in my experience.  <br>Think of it like this, if you were to write a document and then write a document about how your wrote the first document, the second document would certainly be twice as long as the first.<br>As for your issue with the layers of abstraction; if you have to add the layers of abstraction to test, those layers almost certainly should have been there in the first place.  Your tests just forced you to write better code.</p>

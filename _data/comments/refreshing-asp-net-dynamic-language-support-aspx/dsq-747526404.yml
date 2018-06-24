@@ -1,0 +1,5 @@
+id: dsq-747526404
+date: 2008-09-24T20:59:04.0000000-07:00
+name: Andrew Csontos
+avatar: https://disqus.com/api/users/avatars/Andrew Csontos.jpg
+message: <p>Phil,<br>When we hear about dynamic languages, IronPython and IronRuby seem to get the most love (or at least the most discussion).<br>What about Managed JScript?  <br>We haven't heard much about Managed JScript since the May 2007 ASP.NET Futures.<br>Our team is a huge fan of JScript and have been using it for the past 10 years since the days of WScript files and Classic ASP (and of course inside the browser).<br>Ever since May 2007 we've been DYING to use it in ASP.NET -- specifically with ASP.NET MVC, and also want to use it for ASP.NET MVC unit tests and batch jobs too.<br>Do you have a plan for Managed JScript that you can share?<br>Many Thanks!<br></p>

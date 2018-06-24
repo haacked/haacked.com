@@ -1,0 +1,5 @@
+id: dsq-747530684
+date: 2009-11-20T03:39:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Peter Does the downloadable solution I linked to not compile? Are you running ASP.NET MVC 2 Beta?<br>@Andrei, @Zachary, @Austin, @Evan Thanks for the suggestion. I'll describe that in my follow-up. <br>However, for the time being, note that the <code>IsValid</code> method of your validation attribute could dynamically get the min value by querying the database rather than using the attribute value. Nothing stopping it from doing that.</p>

@@ -1,0 +1,5 @@
+id: dsq-747527185
+date: 2008-11-21T17:35:36.0000000-08:00
+name: Kyle Baley
+avatar: https://disqus.com/api/users/avatars/Kyle Baley.jpg
+message: <p>I can see this being useful to convert existing web pages to use AJAX form submission. But what are your thoughts on using this method vs. collecting the data you need and using $.ajax or $.post to send it to, say, an MVC action? I've been doing the latter because if feels more task-based. You collect the data you need, call a URL, and handle the callback all for a specific task, not an entire form. Plus then you don't actually need a form.</p>

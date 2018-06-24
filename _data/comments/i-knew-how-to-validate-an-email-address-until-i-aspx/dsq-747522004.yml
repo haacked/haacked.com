@@ -1,0 +1,5 @@
+id: dsq-747522004
+date: 2007-08-21T00:24:16.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Jeff  I agree with your points, but would point out that these are not mutually exclusive points of validation. I think in general there are several levels of validation.<br>I don't want to try and send you a verification link (as is common) if I already know your email is a fake. Hence when collecting emails, I would do a fairly liberal email validation (for example, make sure there is an @ character). As you point out, this can be beneficial to the user experience to help prevent typos.<br>What would be really bad for user experience is too strict validation where you reject a perfectly valid email that really does belong to the user.<br><br></p>

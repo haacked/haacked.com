@@ -1,0 +1,6 @@
+id: dsq-1280090183
+replyToId: dsq-1279247873
+date: 2014-03-11T08:31:03.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Thanks! I'll try to post more in the future.</p><p>Also, there's no need to wait as slugart points out. You can use it with .NET 3.5 SP1. No need for the await keyword when you use Rx.</p>

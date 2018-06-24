@@ -1,0 +1,5 @@
+id: dsq-762110299
+date: 2013-01-10T00:09:30.0000000-08:00
+name: Dom Crossley
+avatar: https://disqus.com/api/users/avatars/flashcurd.jpg
+message: <p>I coincidentally had a similar idea to this a few weeks ago.  I had some prototype code kicking around that used the Roslyn API to do method rewriting to automatically add guard clauses. </p><p>I've tidied the code up a bit and put it on github if you're interested.</p><p><a href="https://github.com/flashcurd/AutoGuards" rel="nofollow noopener" title="https://github.com/flashcurd/AutoGuards">https://github.com/flashcur...</a></p><p></p>

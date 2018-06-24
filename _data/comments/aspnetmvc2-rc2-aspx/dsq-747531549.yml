@@ -1,0 +1,5 @@
+id: dsq-747531549
+date: 2010-02-04T15:32:14.0000000-08:00
+name: Michael
+avatar: https://disqus.com/api/users/avatars/Michael.jpg
+message: <p>gr8 work,<br>i'm working on something at the moment that needs to serialize the results of an mvc request, would there be any overhead problems associated with making ActionResult, ViewResult serializable?<br></p>

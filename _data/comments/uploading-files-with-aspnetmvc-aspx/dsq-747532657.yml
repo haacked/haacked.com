@@ -1,0 +1,5 @@
+id: dsq-747532657
+date: 2010-07-17T00:31:17.0000000-07:00
+name: Brian
+avatar: https://disqus.com/api/users/avatars/Brian.jpg
+message: <p>Awesome, thanks! <br>Perhaps you (or somebody else) has an answer to this problem. In IIS6 it seems that if you recycle the app pool any uploads occurring at the time will fail. Is this a known problem? Is there a known work-around? Is this fixed in IIS7 (it seems like it is, but I haven't fully tested it yet)?</p>

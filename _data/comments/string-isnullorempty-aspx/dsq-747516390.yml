@@ -1,0 +1,5 @@
+id: dsq-747516390
+date: 2011-03-07T21:03:22.0000000-08:00
+name: Rachna
+avatar: https://disqus.com/api/users/avatars/Rachna.jpg
+message: <p>Thanks, that was very helpful.<br>I have made <a href="http://vb.net" rel="nofollow noopener" title="vb.net">vb.net</a> version from this.<br><code><br>    Public Shared Function IsNullOrEmpty(ByVal value As String) As Object<br>        If value &lt;&gt; Nothing Then<br>            IsNullOrEmpty = (value.Length == 0)<br>        Else<br>            IsNullOrEmpty = True<br>        End If<br>    End Function<br></code></p>

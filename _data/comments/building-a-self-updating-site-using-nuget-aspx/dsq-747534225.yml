@@ -1,0 +1,5 @@
+id: dsq-747534225
+date: 2011-01-15T08:30:00.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Chris heh, so did I. Took me a while to get around to blogging around it.<br>No, the install.ps1 scripts will not run in this environment because it's running as part of your website, which doesn't have a PS environment like VS does.</p>

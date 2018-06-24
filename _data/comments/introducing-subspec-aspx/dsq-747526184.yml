@@ -1,0 +1,5 @@
+id: dsq-747526184
+date: 2008-08-25T04:08:50.0000000-07:00
+name: Brad Wilson
+avatar: https://disqus.com/api/users/avatars/Brad Wilson.jpg
+message: <p>@tgmdbm, I find:<br>x.ShouldBeEqualTo(y);<br>to be preferable to:<br>Assert.That(x, Is.EqualTo(y));</p>

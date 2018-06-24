@@ -1,0 +1,5 @@
+id: dsq-1463052761
+date: 2014-07-01T02:16:51.0000000-07:00
+name: 'Akio '
+avatar: https://disqus.com/api/users/avatars/Akio .jpg
+message: <p>I found the bug frozencolumns of jqGrid. <br>Then reload of frozen multiple columns [&lt;div&gt;] is generated after you have specified the frozen column. <br>I have inserted two lines to 4727 lines as a countermeasure. <br>             if (maxfrozen&gt; = 0 &amp;&amp; frozen) {<br>                 . $ ("# gview_" + $ tpid + '. frozen-div') remove (); / / Added this line <br>                 . $ ("# gview_" + $ tpid + '. frozen-bdiv') remove (); / / <br>                 var top = $ tpcaption $ ($ t.grid.cDiv) outerHeight ():?. 0, <br>                 . hth = $ (. ". ui-jqgrid-htable", "# gview_" + $ jgrid.jqID ($ tpid)) height (); <br>                 / / headers <br>                 if ($ t.p.toppager) {</p>

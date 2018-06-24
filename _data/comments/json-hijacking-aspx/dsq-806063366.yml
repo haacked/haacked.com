@@ -1,0 +1,5 @@
+id: dsq-806063366
+date: 2013-02-20T12:53:43.0000000-08:00
+name: balpha
+avatar: https://disqus.com/api/users/avatars/balpha.jpg
+message: <p>I've found an exploit that's made possible by modern JavaScript magic that doesn't even require the response to be JSON: <a href="http://balpha.de/2013/02/plain-text-considered-harmful-a-cross-domain-exploit/" rel="nofollow noopener" title="http://balpha.de/2013/02/plain-text-considered-harmful-a-cross-domain-exploit/">http://balpha.de/2013/02/pl...</a></p><p>It's a fairly narrow case -- not as high-profile as the Array problem -- but it's somewhat similar.</p>

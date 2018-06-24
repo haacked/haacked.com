@@ -1,0 +1,5 @@
+id: dsq-747525578
+date: 2008-06-25T02:44:19.0000000-07:00
+name: Tuna Toksoz
+avatar: https://disqus.com/api/users/avatars/Tuna Toksoz.jpg
+message: <p>cmd /c start  /D"C:\Program Files (x86)\Common Files\microsoft shared\DevServer\9.0\" Webdev.WebServer.exe /port:%%random%% /path:"%1"<br>It assigns a random port for the webserver. The only drawback so far is you see command prompt momenratily when you click "ASPNET WebServer here" extension.</p>

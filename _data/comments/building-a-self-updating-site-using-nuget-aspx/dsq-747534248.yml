@@ -1,0 +1,5 @@
+id: dsq-747534248
+date: 2011-01-16T02:25:15.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Mikael Medium trust should be no problem. It's really an issue of whether you allow write permissions to the web directory.<br>@Ben yes, look at what the ASP.NET Web Pages + Web Matrix does. They use this to add features/plugins via a web admin.<br>@VDMT in theory, yes you could revert. But I probably wouldn't trust it. ;)<br>@Mike Updating databases is tricky. What we do in Subtext is have an embedded resource with SQL scripts and we run the scripts when we do an update. You'd have to handle that in the code of your package somehow.<br>@Corey good point. It would only update a single instance. For a Web Farm, you'd have to have some way of syncing such changes across the farm.</p>

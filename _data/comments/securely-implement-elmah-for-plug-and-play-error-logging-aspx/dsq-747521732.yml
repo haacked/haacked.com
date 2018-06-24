@@ -1,0 +1,5 @@
+id: dsq-747521732
+date: 2007-11-23T06:27:15.0000000-08:00
+name: Rick
+avatar: https://disqus.com/api/users/avatars/Rick.jpg
+message: <p>The demo works for me, but when I try to add it to my application, I'm having a problem.  When I try to display /admin/elmah.axd, I get an System.Web.HttpException.  This error is written to the SQL database, so the logging part is working.  The error is "Path '/&lt;my app&gt;/admin/elmah.axd' was not found."  I presume it is something in web.config, but I can't see what.  I copied and pasted from the demo the sections 'configSections' and 'elmah' into the main body of the 'configuration' section, 'httpModules' and 'httpHandlers' in to the 'system.web' section, and the 'location' section containing the 'admin' restriction into the end of the 'configuration' section.<br>I'm at the stage of understanding this where I could make a pretty simple mistake and not know why, so hints are appreciated.</p>

@@ -1,0 +1,5 @@
+id: dsq-747537429
+date: 2012-01-11T10:51:58.0000000-08:00
+name: Joshua McKinney
+avatar: https://disqus.com/api/users/avatars/Joshua McKinney.jpg
+message: <p>While we're on the topic is there a way of updating the normal empty template with the latest versions of Nuget packages so that I don't have to update them on each new project? Are there any cons to just updating the template verse creating a new template with these updates (like ability to install template hotfixes etc.)</p>

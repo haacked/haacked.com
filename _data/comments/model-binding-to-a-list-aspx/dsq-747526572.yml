@@ -1,0 +1,5 @@
+id: dsq-747526572
+date: 2009-01-01T13:39:34.0000000-08:00
+name: Max
+avatar: https://disqus.com/api/users/avatars/Max.jpg
+message: <p>Very interesting feature, however it has its flaws. <br>Be sure not to use the Html.Hidden Method to generate the hidden inputs for the Index, as it will cause a NullReferenceException if the form is resubmitted after validation. See <a href="http://forums.asp.net/t/1344517.aspx" rel="nofollow noopener" title="http://forums.asp.net/t/1344517.aspx">http://forums.asp.net/t/1344517.aspx</a> for more details. <br>Has anyone a working example of the question that Joshua asked? Is this actually possible at this moment or will it be possible in future versions of ASP.NET MVC?</p>

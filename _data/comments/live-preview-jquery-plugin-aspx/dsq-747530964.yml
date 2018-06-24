@@ -1,0 +1,5 @@
+id: dsq-747530964
+date: 2009-12-15T14:46:03.0000000-08:00
+name: Simon
+avatar: https://disqus.com/api/users/avatars/Simon.jpg
+message: <p>That's really nice.<br>It bears repeating that this javascript can easily be tampered with to "extend" the allowed tags, so if there was no server side validation, the usual script injection vulnerabilities could be exploited trivially.</p>

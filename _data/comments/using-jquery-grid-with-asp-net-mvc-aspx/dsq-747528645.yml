@@ -1,0 +1,5 @@
+id: dsq-747528645
+date: 2009-04-15T20:59:00.0000000-07:00
+name: Craig Stuntz
+avatar: https://disqus.com/api/users/avatars/Craig Stuntz.jpg
+message: <p>JqGrid actually does have a feature which takes a regular HTML table and turns it into a jqGrid, data and all. However, this means that you are now supplying data to the grid in two very different ways. First, via an aspx/ascx and secondly via JSON. That makes the code to do this somewhat odd, although with enough work it could probably be rolled together so that the two bits of code used the same model.<br><a href="http://www.secondpersonplural.ca/jqgriddocs/_2h30t8wte.htm" rel="nofollow noopener" title="http://www.secondpersonplural.ca/jqgriddocs/_2h30t8wte.htm">www.secondpersonplural.ca/.../_2h30t8wte.htm</a></p>

@@ -1,0 +1,5 @@
+id: dsq-2108100944
+date: 2015-06-30T00:41:04.0000000-07:00
+name: Graham Clark
+avatar: https://disqus.com/api/users/avatars/GrahamClarkVC.jpg
+message: <p>Cool. So what is the difference (if any) between "git rebase --onto master wrong-branch" and "git checkout wrong-branch; git rebase master"?</p>

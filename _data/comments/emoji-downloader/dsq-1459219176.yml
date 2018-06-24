@@ -1,0 +1,5 @@
+id: dsq-1459219176
+date: 2014-06-28T08:59:28.0000000-07:00
+name: zshift
+avatar: https://disqus.com/api/users/avatars/zshift.jpg
+message: "<p>For anyone using Mono (I'm on 3.4) on OS X (I'm on 10.9.3), replace the property CodeBase with Location. CodeBase returns a uri prefixed with \"file:///\", which leads to a file not found exception when creating the write stream.</p><p>//Non-OSX/Mono</p><p>string outputDirectory = args.Any()<br>        ? String.Join(\"\", args)<br>        : Path.GetDirectoryName(Assembly.GetExecutingAssembly().CodeBase);</p><p>//OSX/Mono</p><p>string outputDirectory = args.Any()<br>? String.Join(\"\", args)<br>: Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);</p>"

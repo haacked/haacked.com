@@ -1,0 +1,5 @@
+id: dsq-747515450
+date: 2007-12-02T21:13:10.0000000-08:00
+name: Julian Birch
+avatar: https://disqus.com/api/users/avatars/Julian Birch.jpg
+message: <p>I could be wrong, but I imagine your problem is that you need:<br>using Rhino.Mocks.Interfaces;</p>

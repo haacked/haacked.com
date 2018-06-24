@@ -1,0 +1,5 @@
+id: dsq-747536423
+date: 2012-08-30T14:10:25.0000000-07:00
+name: Ramasamy
+avatar: https://disqus.com/api/users/avatars/Ramasamy.jpg
+message: <p>i m developing mvc3 web application which is using javascript,jquery..my request is starts from javascript(it is taking datas from HTML 5 websql database) to C# code.i sending request using jquery ajax..and this process should happen in background will it possible with WebBackgrounder..and in the response i m sending datas that should insert to HTML 5 websql DB..Please help me out from this...<br></p>

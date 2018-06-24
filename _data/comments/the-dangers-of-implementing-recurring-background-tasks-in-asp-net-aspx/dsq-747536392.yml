@@ -1,0 +1,5 @@
+id: dsq-747536392
+date: 2011-12-07T06:31:29.0000000-08:00
+name: Konstantin Tarkus
+avatar: https://disqus.com/api/users/avatars/Konstantin Tarkus.jpg
+message: <p>It would be great to have a "background tasks" functionality right within ASP.NET (MVC). So, that switching between different background tasks execution mechanisms would be easier (Azure Worker, Console App, Windows Service, Web App..)</p>

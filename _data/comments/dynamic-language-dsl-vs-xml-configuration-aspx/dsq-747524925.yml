@@ -1,0 +1,5 @@
+id: dsq-747524925
+date: 2008-04-23T11:23:01.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Joe but where do you draw the line? Would you let your sysadmin use a GUI to change the actual code of a running app? <br>It reminds me of a story about a rules engine used by a major credit card company. They had a very nice GUI interface for changing rules. One day an "analyst" changes some minor rule for calculating interest based on various conditions and the next day realizes he just lost the company millions of dollars via a mistake. There were no tests!<br>Although routing <em>seems</em> like config, I'm not so sure it should be treated as such.</p>

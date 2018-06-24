@@ -1,0 +1,5 @@
+id: dsq-747511429
+date: 2008-11-09T08:49:39.0000000-08:00
+name: Gremlette
+avatar: https://disqus.com/api/users/avatars/Gremlette.jpg
+message: <p>This seems the ONLY relevant thing on the web when I was trying to sort out a similar issue.<br>What I have is a Pure CSS XHTML tableless layout. <br>The main body is Centred.<br>What I wanted was a different repeating background to the right and  different to the left.<br>Essentially just a different block colour / image was made to cover up part of the background on one side.<br>I ended up positioning the image on the left to expand over the left background. All browsers turn out to NOT give horizontal bars appearing IF the overflow goes left - including IE7. This also allows you to be CSS 2.1 compliant without trying to use CSS3 only overflow-x:hidden and trying to futile hack it for IE.</p>

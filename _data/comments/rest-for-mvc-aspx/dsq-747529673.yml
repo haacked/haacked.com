@@ -1,0 +1,5 @@
+id: dsq-747529673
+date: 2009-08-17T22:15:00.0000000-07:00
+name: ranamauro
+avatar: https://disqus.com/api/users/avatars/ranamauro.jpg
+message: "<p>@The Jay Mann: good to hear you'll give it another look, we definitely look forward to receiving more feedback.<br>if Windows RSS Platform insists in sending Accept: */* you should stil be able to use mechanism #1 to select the appropriate format (?format=application/atom+xml), at least with this release. for the future we will probably look into adding extensibility into the mechanism that determines the format to send back (EG: I imagine you could do this based on the User-Agent or other request metadata).</p>"

@@ -1,0 +1,5 @@
+id: dsq-747537696
+date: 2012-03-26T01:47:41.0000000-07:00
+name: John Jelinek
+avatar: https://disqus.com/api/users/avatars/John Jelinek.jpg
+message: <p>When I use the namespace System.Web.Http.Services.DependencyResolver on Phil's class, I get the following error from Start:<br>"Unable to cast object of type 'Ninject.Web.Mvc.NinjectDependencyResolver' to type 'System.Web.Http.Services.IDependencyResolver'."<br>It seems that if I try to make it use System.Web.Http.Services, there is no "Current" property available in this line:<br>GlobalConfiguration.Configuration.ServiceResolver.SetResolver(DependencyResolver.Current.ToServiceResolver())<br>Has anyone else run into this?</p>

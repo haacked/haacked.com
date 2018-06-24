@@ -1,0 +1,5 @@
+id: dsq-747536308
+date: 2011-10-15T07:46:48.0000000-07:00
+name: Riza
+avatar: https://disqus.com/api/users/avatars/Riza.jpg
+message: <p>Yep. I've use in my website since MVC2 and it works great. Passing RequestVerificationToken data to $.ajax() will surely (hopefully) prevent CSRF.</p>

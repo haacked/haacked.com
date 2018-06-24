@@ -1,0 +1,5 @@
+id: dsq-747537918
+date: 2012-04-09T12:26:13.0000000-07:00
+name: Ben Reich
+avatar: https://disqus.com/api/users/avatars/Ben Reich.jpg
+message: <p>After the first time my head stopped asploding from Rx, I combined it with the much underappreciated Sql Server QueryNotifications to build Observables, and whaddya know, yet more asploding!<br>Building a cloud app becomes so much easier when each component can be built as an Observable.</p>

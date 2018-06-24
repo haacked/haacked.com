@@ -1,0 +1,5 @@
+id: dsq-747529431
+date: 2009-06-25T23:24:00.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>I am a little confused with some thing.  Reading you last post and this post it seems like the problems only exist when the response is only a json array.  Why not just make it a general requirement that a response must always be a json object.  It seems like that is what this post is kind of doing by giving a json arroy the same type of syntax as an object.  If that the case just return an object every time.<br>I am sure there is some sort of negative to this because no one seems to talk about it, but no one seemed to point out that negative that I was able to see.</p>

@@ -1,0 +1,5 @@
+id: dsq-747534443
+date: 2011-02-13T08:42:21.0000000-08:00
+name: Tim McCall
+avatar: https://disqus.com/api/users/avatars/Tim McCall.jpg
+message: <p>Hi Phil,<br>Thanks for the hard work on NuGet. Quick question -- I have seen there is an open issue for being able to add c#/<a href="http://vb.net" rel="nofollow noopener" title="vb.net">vb.net</a> code files to a project that is dependent on the project type. I have a project, AttributeRouting, that uses web activator to register routes using a c# _AppStart file. I'd love to be able to add a <a href="http://vb.net" rel="nofollow noopener" title="vb.net">vb.net</a> version of the _AppStart file for <a href="http://vb.net" rel="nofollow noopener" title="vb.net">vb.net</a> projects. Any plans to support this scenario, or have I missed something in the recent releases?<br>Thanks!</p>

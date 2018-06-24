@@ -1,0 +1,5 @@
+id: dsq-747526850
+date: 2008-11-05T14:36:49.0000000-08:00
+name: Ken Egozi
+avatar: https://disqus.com/api/users/avatars/kenegozi.jpg
+message: <p>I still can't see the merit in the whole Partial caching thing.<br>Server side caching should be about putting results of expensive logic in a cache. Views are supposed to be just a bunch of Write() calls into the response stream.  this writing-to-the-stream thing will still happen even if the rendered view is cached, as it's needed to be, er, written.<br>I think that there's no performance gain here. If anything, the memory overhead will only cause more damage than good.<br>and if one finds out that view renderings start to get expensive, then perhaps there's too much responsibility in the wrong place</p>

@@ -1,0 +1,5 @@
+id: dsq-747535641
+date: 2011-07-14T22:39:14.0000000-07:00
+name: Brian Vallelunga
+avatar: https://disqus.com/api/users/avatars/Brian Vallelunga.jpg
+message: <p>Phil, I've looked at WebActivator, but it seems to require source code being copied into a specific folder and it lacks any integration with an IoC container.<br>I'm worried that MVC seems to be headed towards a more "Wizard" future instead of one that encourages better application design and testing.</p>

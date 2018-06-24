@@ -1,0 +1,5 @@
+id: dsq-747525996
+date: 2008-08-16T07:58:24.0000000-07:00
+name: raffaeu
+avatar: https://disqus.com/api/users/avatars/raffaeu.jpg
+message: <p>I have been updated tonight but some troubles.<br>You can read in my blog a detailed post about.<br>I'm not able to use the new section in the web config <br>&lt;enclosuremimetypes&gt;<br>&lt;add key=".mp3" value="audio/mpeg"/&gt;<br>&lt;add key=".mp4" value="video/mp4"/&gt;<br>&lt;add key=".zip" value="application/octetstream"/&gt;<br>&lt;add key=".pdf" value="application/octetstream"/&gt;<br>&lt;add key=".wmv" value="video/wmv"/&gt;<br>&lt;add key=".wma" value="audio/wma"/&gt;<br>&lt;/enclosuremimetypes&gt;<br>And I'm running SubText with NET 3.5<br>Do you know what?</p>

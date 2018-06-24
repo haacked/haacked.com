@@ -1,0 +1,5 @@
+id: dsq-747523836
+date: 2007-12-20T23:57:25.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Ryan - it felt pretty bad at the time. I may have deleted a bunch of records in a production database once for a fortune 100 company during a merge replication migration, but my memory is hazy on that one and we had backups. :)</p>

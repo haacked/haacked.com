@@ -1,0 +1,5 @@
+id: dsq-747528052
+date: 2009-02-15T08:48:11.0000000-08:00
+name: Derek
+avatar: https://disqus.com/api/users/avatars/Derek.jpg
+message: <p>F# doesn't save you too much here ...<br><code>let EnsureUniqueness originalSlug separator =<br>    let suffixFormats =<br>        [ String.Empty; "{0}Again"; "{0}Yet{0}Again"; "{0}And{0}Again";<br>          "{0}Once{0}Again"; "{0}Once{0}More"; "{0}To{0}Beat{0}A{0}Dead{0}Horse" ] in<br>    let format s = String.Format(s, (separator:string)) in<br>        Seq.map ((+) originalSlug &lt;&lt; format) suffixFormats<br>        |&gt; Seq.find ((=) null &lt;&lt; Repository.GetEntry)</code></p>

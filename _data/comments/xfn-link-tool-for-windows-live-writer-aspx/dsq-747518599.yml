@@ -1,0 +1,5 @@
+id: dsq-747518599
+date: 2007-02-08T19:46:47.0000000-08:00
+name: Steven Harman
+avatar: https://disqus.com/api/users/avatars/stevenharman.jpg
+message: <p>Phil... This post has the "Again" appended to it due to the Subtext bug you mentioned in your previous post. :)<br>btw - Simo fixed the bug in the 1.9.4 branch, so if you pull the latest binaries off the build server and push them out to your live blog, you should be good to go.</p>

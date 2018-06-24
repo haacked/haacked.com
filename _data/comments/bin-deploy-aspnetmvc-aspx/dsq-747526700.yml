@@ -1,0 +1,5 @@
+id: dsq-747526700
+date: 2008-11-05T04:59:23.0000000-08:00
+name: Lance Fisher
+avatar: https://disqus.com/api/users/avatars/Lance Fisher.jpg
+message: <p>Thanks for the tips.  I was just doing this stuff yesterday, and I was annoyed that I couldn't remove the dlls from the GAC.  I didn't want to uninstall MVC because I didn't want to lose the project templates, etc.  <br>What I would like is to be able to test the app in IE6 from a VM, but since I had the dlls in the bin directory, I was getting some conflicts with the GAC when I ran the site in IIS.<br>That "copy local" is a good tip.  I had created a post-build step to copy the dlls, but I'm going to do it the right way instead now.</p>

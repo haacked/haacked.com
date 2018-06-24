@@ -1,0 +1,5 @@
+id: dsq-747533183
+date: 2010-10-09T05:19:17.0000000-07:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>I grabbed MvcTurbine and Windsor - and it was fine, except MvcTurbine uses a prior version of the Windsor included.<br>Anything to be done for this - because these types of mismatches are the real problem with OSS imo - not the delivery system (although a delivery system is nice to have).<br></p>

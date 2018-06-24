@@ -1,0 +1,5 @@
+id: dsq-2069680387
+date: 2015-06-09T04:20:26.0000000-07:00
+name: T.J. Crowder
+avatar: https://disqus.com/api/users/avatars/tjcrowder.jpg
+message: "<p>Very useful. That said, it would be REALLY HANDY if people would stop leaving off the imports they're relying on when posting code. The code above uses imports from several different namespaces, showing them would save people time there's zero reason to waste.</p><p>So far, here are the ones it relies on: System.Security, System.Web, System.Web.Compilation, System.Web.UI, System.Web.Routing, System.Web.Security.</p><p>Don't go looking for where IRoutablePage is; you won't find it. You're meant to define it yourself, with that RequestContext property, and the implement that on your page if you want.</p>"

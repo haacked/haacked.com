@@ -1,0 +1,5 @@
+id: dsq-747523872
+date: 2007-12-31T02:10:52.0000000-08:00
+name: Eric
+avatar: https://disqus.com/api/users/avatars/Eric.jpg
+message: <p>Won't there be an awful lot of duplicated code between the Create/Update actions?  Back in the pre-ASP.NET days (classic ASP and Perl/CGI), we used to have a single form/page for Create/Update which shared a lot of the request-loading and validation logic.  I guess I should dig in and see how that changes with the MVC architecture...<br></p>

@@ -1,0 +1,5 @@
+id: dsq-1935626688
+date: 2015-03-30T01:51:15.0000000-07:00
+name: Stephen Yeadon
+avatar: https://disqus.com/api/users/avatars/stephenyeadon.jpg
+message: <p>That is a sweat one liner, but Graham is correct the variable $_ holds the error value when in the catch block not the package. The below code fixes that.</p><p></p><pre><code><br>@( Get-Project -All |  <br>   ? { $_.ProjectName } | <br>   % { Get-Package -ProjectName $_.ProjectName } ) | <br>   Sort -Unique | <br>   % { $pkg = $_ ; Try { (New-Object System.Net.WebClient).DownloadFile($pkg.LicenseUrl, 'c:\dev\licenses\' + $pkg.Id + ".txt") } Catch [system.exception] { Write-Host "Could not download license for $pkg.Id" } }<br></code></pre>

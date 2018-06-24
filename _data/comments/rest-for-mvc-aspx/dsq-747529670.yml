@@ -1,0 +1,5 @@
+id: dsq-747529670
+date: 2009-08-17T21:18:00.0000000-07:00
+name: tvish
+avatar: https://disqus.com/api/users/avatars/tvish.jpg
+message: '<p>@LukeSampson, @AsbjornUlsberg<br>  The format support is as follows: Just like in MVC you can return specific ActionResults for specific formats from you controller method if you so desire. The SDK includes specific action results for Atom, RSS, XML, JSON etc for this case.<br>  However often times one wants the controller method to not contain switch statements about the format. Instead, the SDK allows you to register format handlers (for request and response) and allow the controller method to work in terms  of CLR  types.<br>  Declaratively specifying the formats a controller method handles seems like a good feature to consider for the next drop. Thanks for the feedback.</p>'

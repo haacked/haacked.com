@@ -1,0 +1,5 @@
+id: dsq-747527741
+date: 2012-03-23T13:22:34.0000000-07:00
+name: dotnetchris
+avatar: https://disqus.com/api/users/avatars/dotnetchris.jpg
+message: "<p>I created a fork of Atif Aziz's version of the Henriformatter: <a href=\"https://gist.github.com/2170953\" rel=\"nofollow noopener\" title=\"https://gist.github.com/2170953\">https://gist.github.com/2170953</a> <br>This adds that you can use anonymous object, IDictionary&lt;string,object&gt;, and RouteData as all valid sources for the Heniformat source.<br>Hmmm I'm thinking maybe this should be uploaded as a nuget package.</p>"

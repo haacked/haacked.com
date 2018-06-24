@@ -1,0 +1,5 @@
+id: dsq-747536446
+date: 2012-01-13T10:45:58.0000000-08:00
+name: BB
+avatar: https://disqus.com/api/users/avatars/BB.jpg
+message: <p>@Cory<br>Bloody good question!<br>I notice nobody's provided an answer, no surprise there.<br>In essence we just want to check that HttpContext.Current.User is authorised to call our WCF service/methods.<br>Can't have been overlooked, surely....</p>

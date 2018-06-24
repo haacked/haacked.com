@@ -1,0 +1,5 @@
+id: dsq-747508778
+date: 2006-12-04T21:50:06.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Well that was a rough sketch of the query. Also, I forgot to move the ORDER BY NEWID() to the end.  The actual query depends on the columns involved in your table.<br>SELECT TOP 10 <em>column1name</em>, <em>column2ame</em><br>FROM <em>YourTable</em><br>WHERE <em>YourIdColumnName<em> NOT IN (SELECT TOP 50 <em>YourIdColumnName<em> FROM <em>YourTable</em> ORDER BY <em>YourIdColumnName<em> ASC)<br>ORDER By NEWID()<br><em>YourColumnName</em> is the column you used to figure out which records to skip.</em></em></em></em></em></em></p>

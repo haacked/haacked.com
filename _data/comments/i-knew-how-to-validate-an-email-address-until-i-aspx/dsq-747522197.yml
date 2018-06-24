@@ -1,0 +1,5 @@
+id: dsq-747522197
+date: 2012-08-28T20:23:24.0000000-07:00
+name: Dan M
+avatar: https://disqus.com/api/users/avatars/Dan M.jpg
+message: <p>Even the domain part can be difficult to validate. A TLD could have an e-mail address (e.g., support@com), and you can now get a vanity TLD if you have enough money (me@examplecom could be valid). Plus, you can specify an IP address (e.g., me@[1.2.3.4] or me@[1::3F]). Finally, a domain doesn't NEED an MX record. If one doesn't exist, the CNAME or A record will be used instead.<br>So, it's not easily possible to <em>validate</em> an address without just trying it, though you could try to weed out the most unlikely ones if you want to.</p>

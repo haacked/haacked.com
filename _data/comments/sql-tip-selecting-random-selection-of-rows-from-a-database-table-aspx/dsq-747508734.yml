@@ -1,0 +1,5 @@
+id: dsq-747508734
+date: 2004-06-21T22:33:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>True. This isn't designed to be high performant for large data sets.  I'm using it to select a set of random questions from a set of a few thousand. In that situation it performs quite handily.<br><br><br><br>For really large tables, selecting a random result set becomes a bit tricky.  The challenge is that you don't want to generate a random number (or a guid) for every row just to select a subset.  So you have to generate a subset of random numbers and then somehow map those numbers to the table and select just those records.<br><br><br><br>This is easier said than done.</p>

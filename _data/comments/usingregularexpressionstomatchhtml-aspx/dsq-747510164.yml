@@ -1,0 +1,5 @@
+id: dsq-747510164
+date: 2005-04-22T04:18:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Ah, I see the problem. Commas aren't allowed in valid HTML, so my expression won't match it. However I have a code snippet that will. I haven't tested it super thoroughly, but it worked on some samples I threw at it. It won't remove commas within an attribute value. <br><br><br><br>public string RemoveCommas(string html)<br><br>{<br><br>Regex regex = new Regex(@"&lt;/?\w+(((\s|\n|,)+\w+((\s|\n|,)*=(\s|\n|,)*(?:"".*?""|'.*?'|[^'""&gt;\s]+))?)+(\s|\n|,)*|(\s|\n|,)*)/?&gt;", RegexOptions.Singleline);<br><br><br><br>int lastIndex = 0;<br><br>StringBuilder result = new StringBuilder();<br><br>MatchCollection matches = regex.Matches(html);<br><br>foreach(Match match in matches)<br><br>{<br><br>result.Append(html.Substring(lastIndex, match.Index - lastIndex));<br><br>result.Append(match.Value.Replace(",", ""));<br><br>lastIndex = match.Index + match.Value.Length;<br><br>}<br><br>result.Append(html.Substring(lastIndex));<br><br>return result.ToString();<br><br>}</p>

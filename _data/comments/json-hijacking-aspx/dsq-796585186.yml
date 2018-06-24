@@ -1,0 +1,5 @@
+id: dsq-796585186
+date: 2013-02-12T07:07:07.0000000-08:00
+name: Amol Joshi
+avatar: https://disqus.com/api/users/avatars/Amol Joshi.jpg
+message: <p>That's gr8..Thanks for this astounding article.It expains Json Hijacking concept very well.<br>I have one question here in above scenario.</p><p>I understand  the script referenced in in src tag gets executed with Json Array from server on the Victims browser, but can you please exaplain how the Bad guy will get access to this sensitive Json array ?<br>Thanks in Advance.</p>

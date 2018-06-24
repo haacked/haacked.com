@@ -1,0 +1,5 @@
+id: dsq-747527902
+date: 2009-01-30T05:17:53.0000000-08:00
+name: Ricky
+avatar: https://disqus.com/api/users/avatars/Ricky.jpg
+message: <p>crap, the link rendered... meant this:<br><code><br>&amp;lt;form id="delete-form" method="post" action="/go/delete/1" class="delete-link"&amp;gt;<br>&amp;lt;input type="submit" value="delete" /&amp;gt;<br>&amp;lt;/form&amp;gt;<br>&amp;lt;a rel="delete-form" class="delete-link" href="/go/delete/1" <br>  style="display:none;"&amp;gt;delete&amp;lt;/a&amp;gt;<br></code></p>

@@ -1,0 +1,5 @@
+id: dsq-747529855
+date: 2009-09-03T13:58:00.0000000-07:00
+name: Joe Chung
+avatar: https://disqus.com/api/users/avatars/Joe Chung.jpg
+message: <p>It's weird how if you use dynamic to implement something like this, the static type police will cry foul, but if someone were to use T4 code templates or some other code-gen to do the same thing, it's all copacetic.</p>

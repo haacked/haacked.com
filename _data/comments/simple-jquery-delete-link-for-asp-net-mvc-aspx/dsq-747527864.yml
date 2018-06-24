@@ -1,0 +1,5 @@
+id: dsq-747527864
+date: 2009-01-30T00:54:51.0000000-08:00
+name: Richard Spiller
+avatar: https://disqus.com/api/users/avatars/Richard Spiller.jpg
+message: <p>@Kevin, if you look at the <a href="http://stephenwalther.com/blog/archive/2009/01/21/asp.net-mvc-tip-46-ndash-donrsquot-use-delete-links-because.aspx" rel="nofollow noopener" title="http://stephenwalther.com/blog/archive/2009/01/21/asp.net-mvc-tip-46-ndash-donrsquot-use-delete-links-because.aspx">post</a> by Stephen Walther that Phil mentions, he demonstrates a couple of other ways to provide safe delete links. One of which specifically addresses the issue of working well without Javascript. -HTH</p>

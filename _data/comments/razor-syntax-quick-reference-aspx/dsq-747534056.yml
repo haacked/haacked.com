@@ -1,0 +1,5 @@
+id: dsq-747534056
+date: 2011-01-06T13:47:32.0000000-08:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>"Notice in the last example that Razor is smart enough to know that the ending period is a literal text punctuation and not meant to indicate that it’s trying to call a method or property of the expression."<br>Then teach it.</p>

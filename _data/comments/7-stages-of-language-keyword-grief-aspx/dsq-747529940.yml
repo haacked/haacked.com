@@ -1,0 +1,5 @@
+id: dsq-747529940
+date: 2009-09-02T22:54:00.0000000-07:00
+name: Scott Koon
+avatar: https://disqus.com/api/users/avatars/Scott Koon.jpg
+message: <blockquote>Design Patterns, for example, are common patterns of solutions to common problems. </blockquote><p><br>Design Patterns are, more often than not, a language smell. What is missing from your language that requires you to set up a lot of pomp and circumstance to make the hard possible?<br>Why do we really need a Dynamic keyword and optional parameters in C#? Because the poor schmucks doing Office interop are tired of typing "null,null,null,true,null,null,null,null,null,null,null,null,null" and the IronPython/IronRuby folks are tired of banging their head against the CLR. So what we have here is a case of the business need driving a language feature. The Office division screwed up so we'll change C#?</p>

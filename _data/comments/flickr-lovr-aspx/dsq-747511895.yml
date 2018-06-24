@@ -1,0 +1,5 @@
+id: dsq-747511895
+date: 2005-06-03T08:39:00.0000000-07:00
+name: Anton Olsen
+avatar: https://disqus.com/api/users/avatars/Anton Olsen.jpg
+message: <p>I've been playing with the flickr API fo a couple months now, using both PHP and BASH.  The API has plenty of features, but there is some room for improvement.  I haven't found anything I wanted to do but couldn't, although in a few cases it's taken multiple api calls when I think one should suffice.</p>

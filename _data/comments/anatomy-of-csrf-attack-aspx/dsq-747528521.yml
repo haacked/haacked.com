@@ -1,0 +1,5 @@
+id: dsq-747528521
+date: 2009-04-03T05:58:39.0000000-07:00
+name: James
+avatar: https://disqus.com/api/users/avatars/James.jpg
+message: <p>Actually having just thought about it some more, I suppose you could use an IFrame to load the remote page and then parse the DOM.</p>

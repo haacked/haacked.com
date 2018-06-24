@@ -1,0 +1,5 @@
+id: dsq-747520026
+date: 2007-05-08T17:29:18.0000000-07:00
+name: Krenn
+avatar: https://disqus.com/api/users/avatars/Krenn.jpg
+message: <p>Another option - depending on your motherboard, you may actually have two SATA controllers on the board. Gigabyte does this commonly, with one set (the south bridge) yellow and one set (their controller) purple. <br>If you do have two controllers, it's unlikely that both of them are dead. But if it's the south bridge controller that's bad, then you may have more problems than just the SATA failing.</p>

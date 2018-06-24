@@ -1,0 +1,5 @@
+id: dsq-747528074
+date: 2009-02-16T20:40:36.0000000-08:00
+name: Matt Ellis
+avatar: https://disqus.com/api/users/avatars/Matt Ellis.jpg
+message: <p>var results = from slug in GetAllSlugs(originalSlug)<br>    where Repository.GetEntry(slug) == null<br>    select slug;<br>return results.FirstOrDefault();<br>Even easier, and very easy to read.</p>

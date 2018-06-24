@@ -1,0 +1,5 @@
+id: dsq-747522385
+date: 2007-10-25T20:23:37.0000000-07:00
+name: JMG
+avatar: https://disqus.com/api/users/avatars/JMG.jpg
+message: <p>Il call the blank field to be hidden with some css, the 'stupid captcha for stupid spam bots'. There are others simple ideas:<br>  * name can't be an URL (you ain't an URL, are you?);<br>  * email must be an email (not a URL or anything else);<br>  * comment can't contain bbcode links [url];<br>  * comment can't have more links than words.<br>These are very easy to develop solutions, they're invisible to end-users (I don't want to bother them), they don't require javascript enabled browsers and... all spam bots just fell for it. They're just plain stupid bots.</p>

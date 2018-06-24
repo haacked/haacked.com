@@ -1,0 +1,5 @@
+id: dsq-747517731
+date: 2006-11-22T00:03:19.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Because the Fake class is probably an existing class. It doesn't know that sometime in the future I'll want to concatenate it with the "|" character.  It would be a mistake to put that in the logic of the Fake class.<br>What if I later want to concatenate it using the "," character. Or concatenate another property of that class?</p>

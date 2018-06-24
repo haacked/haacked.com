@@ -1,0 +1,5 @@
+id: dsq-747530064
+date: 2009-09-30T04:24:00.0000000-07:00
+name: Roy Osherove
+avatar: https://disqus.com/api/users/avatars/Roy Osherove.jpg
+message: <p>wow.<br>that would have worked out of the box with typemock isolator:<br>var reader  = Isolate.Fake.Instance&lt;IDataReader&gt;();<br>Isolate.WhenCalled(()=&gt; reader.Read()).WillReturn(true);<br>Isolate.WhenCalled(()=&gt; reader.Read()).WillReturn(true);<br>Isolate.WhenCalled(()=&gt; reader.Read()).WillReturn(false);<br>Isolator supports sequencing by default, and once the sequance is over, the last action in the sequence remains permanent.</p>

@@ -1,0 +1,5 @@
+id: dsq-747520610
+date: 2007-05-24T05:37:57.0000000-07:00
+name: crimar
+avatar: https://disqus.com/api/users/avatars/crimar.jpg
+message: <p>Big deal, so we can turn a good object oriented language where it is clear where all the code is located into a difficult to understands scripting language syntax. Whats the value in that. And if something is wrong with the code, how much running aroundtrying to find where the modified code is.<br>I seem to remember one of the qualities of good object oriented design was encapsulating the functionality applicable to an object.<br>The code doesn't seem to make it clear, but can this extension be used anywhere? Like "Hello World!".Minutes.Ago()? If so, how can I ever tell where it is valid, what errors might be thrown, how to handle it?</p>

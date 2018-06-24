@@ -1,0 +1,5 @@
+id: dsq-747513148
+date: 2005-10-12T03:15:00.0000000-07:00
+name: Jeff Atwood
+avatar: https://disqus.com/api/users/avatars/Jeff Atwood.jpg
+message: <p>&gt; You just know one or two people are going to choose the phrase “Who let the dogs out?<br><br><br><br>In the case of collisions, one poster had a good idea-- in the event of a password collision, invalidate the collided user and prompt them for some other bit of unique information the next time they attempt to log on.<br><br><br><br>Kinda like that "what question should we ask you in the event you forget your password?" thing websites are always asking me. The fallback password.</p>

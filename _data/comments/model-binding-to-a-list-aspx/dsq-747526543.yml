@@ -1,0 +1,5 @@
+id: dsq-747526543
+date: 2008-10-23T18:23:12.0000000-07:00
+name: Vladan Strigo
+avatar: https://disqus.com/api/users/avatars/Vladan Strigo.jpg
+message: '<p>Phil,<br>Could you tell me for extensibility of binding in beta... I made my own FetchAndBindAttribute in P5, and now want to convert it to beta. Because of this function:<br>        private static Predicate&lt;string&gt; GetPropertyFilter(ParameterInfo parameterInfo) {<br>            BindAttribute attr = (BindAttribute)Attribute.GetCustomAttribute(parameterInfo, typeof(BindAttribute));<br>            return (attr != null) ? (Predicate&lt;string&gt;)attr.IsPropertyAllowed : null;<br>        }<br>My natural idea was that my attribute should inherit from BindAttribute. However... BindAttribute is sealed?!?!?!!?!?<br><br>Any ideas?<br>Thnx!<br>Vladan</p>'

@@ -1,0 +1,5 @@
+id: dsq-747533953
+date: 2011-03-25T03:34:26.0000000-07:00
+name: Bret Ferrier
+avatar: https://disqus.com/api/users/avatars/runxc1.jpg
+message: <p>It looks like this doesn't work with IIS6 if you you are using a Virtual Directory and the Default website is not .Net 4.  Is there anyway around this?</p>

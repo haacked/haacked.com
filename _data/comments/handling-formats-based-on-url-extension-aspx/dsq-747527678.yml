@@ -1,0 +1,5 @@
+id: dsq-747527678
+date: 2009-01-07T20:05:03.0000000-08:00
+name: Billy
+avatar: https://disqus.com/api/users/avatars/Billy.jpg
+message: <p>This may be a stupid question, but if using the Accept header, how do you SET that?  All of my requests (regardless of extension) return "*/*".  Is there a way to map extensions to Accept headers built in to IIS or do I need a custom module to intercept and set the headers?<br></p>

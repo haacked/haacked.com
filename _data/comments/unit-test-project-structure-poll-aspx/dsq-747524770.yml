@@ -1,0 +1,5 @@
+id: dsq-747524770
+date: 2008-04-09T05:00:44.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Jon Limjab true, but it's possible to have a build step that strips the tests from your application code when building a production build, for example.<br>Currently, VS doesn't have an easy way to do that. But if it did, would it change your mind about where you put your tests?</p>

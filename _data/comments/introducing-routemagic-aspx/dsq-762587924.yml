@@ -1,0 +1,6 @@
+id: dsq-762587924
+replyToId: dsq-759294791
+date: 2013-01-10T08:33:58.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Please log an issue against the repository <a href="https://github.com/Haacked/RouteMagic/issues?direction=desc&amp;sort=created&amp;state=open" rel="nofollow noopener" title="https://github.com/Haacked/RouteMagic/issues?direction=desc&amp;sort=created&amp;state=open">https://github.com/Haacked/...</a> and I'll try and find time to look into it. Does it work for you if you create a brand new ASP.NET MVC 3 project? It could be an incompatibility with MVC 4.</p>

@@ -1,0 +1,5 @@
+id: dsq-747521094
+date: 2007-06-14T20:41:23.0000000-07:00
+name: lb
+avatar: https://disqus.com/api/users/avatars/lb.jpg
+message: <p>As soon as I saw the title of this article I thought "Path" -- and in particular Path.Combine.<br>Html/Url en/de code are great ones too.<br>What's missing? tough one...<br>StringBuilder.AppendFormat ... maybe? (People either forget to use stringbuilders at all, or use StringBuilder.Append(String.Format(...<br>Anyway Phil -- Hope little thugy is going well ;-)</p>

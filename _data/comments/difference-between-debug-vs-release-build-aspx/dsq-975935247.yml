@@ -1,0 +1,5 @@
+id: dsq-975935247
+date: 2013-07-25T08:34:33.0000000-07:00
+name: Sugu
+avatar: https://disqus.com/api/users/avatars/Sugu.jpg
+message: <p>Hey Mr Mcdeeiis,</p><p>Please recheck the comment before posting..</p><p>Difference between Debug Vs Release Build  from MSDN is below..</p><p>The Debug configuration of your program is <br>compiled with full symbolic debug information and no optimization. <br>Optimization complicates debugging, because the relationship between <br>source code and generated instructions is more complex.</p><p>The<br> Release configuration of your program contains no symbolic debug <br>information and is fully optimized. Debug information can be generated <br>in PDB files, depending on the compiler options that are used. Creating <br>PDB files can be very useful if you later have to debug your release <br>version. See Specify Symbol (.pdb) and Source Files in the Visual Studio Debugger</p>

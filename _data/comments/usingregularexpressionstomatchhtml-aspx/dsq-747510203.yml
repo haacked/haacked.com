@@ -1,0 +1,5 @@
+id: dsq-747510203
+date: 2007-04-24T07:27:37.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>The easiest way to do this is to download the <a href="http://downloads.sourceforge.net/subtext/Subtext-1.9.4.78_source.zip?use_mirror=internap" rel="nofollow noopener" title="Subtext 1.9.4 source">Subtext Source Code</a> and do a search for the method <code>ConvertHtmlToXHtml</code>.<br>You'll need to add a reference to SgmlReaderDll.dll which is included in the source.</p>

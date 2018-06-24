@@ -1,0 +1,5 @@
+id: dsq-747531203
+date: 2009-12-29T20:50:04.0000000-08:00
+name: '"Cowboy" Ben Alman'
+avatar: https://disqus.com/api/users/avatars/ben_alman.jpg
+message: "<p><code><br>function hex( c ) {<br>  var m = /rgba?\\((\\d+), (\\d+), (\\d+)/.exec( c );<br>  return m<br>    ? '#' + ( m[1] &lt;&lt; 16 | m[2] &lt;&lt; 8 | m[3] ).toString(16)<br>    : c;<br>};<br>hex( 'rgba(255, 136, 17, 0.5)' ); // '#ff8811'<br>hex( 'rgb(255, 136, 17)' );       // '#ff8811'<br>hex( '#ff8811' );                 // '#ff8811'<br>hex( '#f81' );                    // '#f81'<br></code></p>"

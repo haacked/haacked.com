@@ -1,0 +1,5 @@
+id: dsq-747516902
+date: 2007-09-05T05:57:29.0000000-07:00
+name: James Shaw
+avatar: https://disqus.com/api/users/avatars/jamesrshaw.jpg
+message: '<p>It works great, thanks...except that when i refresh the form (by hitting &lt;back&gt; then saying yes, re-submit) i get the error below. Any ideas?<br><br>[CryptographicException: Padding is invalid and cannot be removed.]<br>   System.Security.Cryptography.RijndaelManagedTransform.DecryptData(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount, Byte[]&amp; outputBuffer, Int32 outputOffset, PaddingMode paddingMode, Boolean fLast) +1455156<br>   System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount) +179<br>   Classes.InvisibleCaptcha.DecryptString(String encryptedEncodedText) in C:\Documents and Settings\James\My Documents\_Repository\Components\Utils\InvisibleCaptcha.cs:72<br>   Classes.InvisibleCaptcha.EvaluateIsValid() in C:\Documents and Settings\James\My Documents\_Repository\Components\Utils\InvisibleCaptcha.cs:219<br>   System.Web.UI.WebControls.BaseValidator.Validate() +86<br> <br></p>'

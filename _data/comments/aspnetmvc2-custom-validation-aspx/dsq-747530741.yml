@@ -1,0 +1,5 @@
+id: dsq-747530741
+date: 2010-04-19T14:32:52.0000000-07:00
+name: Jimmy
+avatar: https://disqus.com/api/users/avatars/Jimmy.jpg
+message: <blockquote>Do you have an example of how I would go about saying one of two fields (a valid e-mail address and/ or a phone number) have to be filled in correctly on both the server and client side?</blockquote><p><br>I'm also interested in this. If I follow the "PropertiesMustMatchAttribute" example (from VS2010 MVC2 default project), I can't get client side to work. If I follow this example, I can't get server side to work cos IsValid only gives you the particular item and nothing else.<br></p>

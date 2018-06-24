@@ -1,0 +1,5 @@
+id: dsq-747529764
+date: 2009-08-19T13:33:00.0000000-07:00
+name: Anders Lybecker
+avatar: https://disqus.com/api/users/avatars/Anders Lybecker.jpg
+message: <p>The Transaction.Do is similar to what Microsoft Research came up with when transactional memory - STM.NET (<a href="http://msdn.microsoft.com/en-us/devlabs/ee334183.aspx" rel="nofollow noopener" title="http://msdn.microsoft.com/en-us/devlabs/ee334183.aspx">msdn.microsoft.com/en-us/devlabs/ee334183.aspx</a>)<br>They use:<br>   Atomic.Do(()=&gt; <br>   { <br>       i = 1; <br>   }); <br>:-)<br>Anders</p>

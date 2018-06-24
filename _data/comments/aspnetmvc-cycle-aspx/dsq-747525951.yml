@@ -1,0 +1,5 @@
+id: dsq-747525951
+date: 2008-09-02T22:26:19.0000000-07:00
+name: George Tsiokos
+avatar: https://disqus.com/api/users/avatars/George Tsiokos.jpg
+message: <p>public static string Cycle(this HtmlHelper html, params string[] strings) {<br>if (null == strings)<br>throw new ArgumentNullException("strings");<br>int index = CycleIndex;<br>CycleIndex = 1 + index;<br>return strings[index % strings.Length];<br>}<br>private static int CycleIndex {<br>get {<br>return Convert.ToInt32(html.ViewContext.HttpContext.Items["cycleIndex"]);<br>}<br>set {<br>html.ViewContext.HttpContext.Items["cycleIndex"] = value;<br>}<br>}</p>

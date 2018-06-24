@@ -1,0 +1,5 @@
+id: dsq-747529075
+date: 2010-11-04T01:37:11.0000000-07:00
+name: John Clayton
+avatar: https://disqus.com/api/users/avatars/John Clayton.jpg
+message: <p>Any word if this will work as expected in MVC 3 and Razor? As of the beta calling Action() or RenderAction() on an action with the output cache attribute still does not cache it.</p>

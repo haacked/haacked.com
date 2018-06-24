@@ -1,0 +1,5 @@
+id: dsq-747529250
+date: 2009-06-09T08:25:00.0000000-07:00
+name: Derek
+avatar: https://disqus.com/api/users/avatars/Derek.jpg
+message: <p>@Haacked<br>Forgive me, I didn't answer your question properly. <br>To reproduce this problem, create an ASP.NET MVC project in Visual Studio 2010. <br>Create a simple database with at least one table. Create an identity column, and one other column. Populate the table with a few entries.<br>Create a DataContext using Linq to SQL designer from the SQL database.<br>Create a controller.<br>Create a view that inherits ViewPage&lt;T&gt; where T is the object backed by the LINQ to SQL DataContext and the View is a scaffolded "List" type from the View designer 'wizard' dialog.<br>In the Controller, query the entire table and pass it through the ActionResult into the view.<br>Compile Project.<br>????<br>Error.</p>

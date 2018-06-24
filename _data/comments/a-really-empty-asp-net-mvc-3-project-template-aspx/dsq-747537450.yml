@@ -1,0 +1,5 @@
+id: dsq-747537450
+date: 2012-01-17T05:32:18.0000000-08:00
+name: Jason
+avatar: https://disqus.com/api/users/avatars/Jason.jpg
+message: '<p>Upon installing the vsix-file, I encounter a System.IO.PathTooLongException on XP SP3. The path causing the error: <br>C:\Documents and Settings\jason\Local Settings\Application Data\Microsoft\VisualStudio\10.0\Extensions\Phil Haack\ReallyEmptyMvc3ProjectTemplate\3.1\ProjectTemplates\CSharp\Web\<a href="http://ReallyEmptyMvc3ProjectTemplate.zip" rel="nofollow noopener" title="ReallyEmptyMvc3ProjectTemplate.zip">ReallyEmptyMvc3ProjectTempl...</a>: ReallyEmptyMvcWebApplicationProjectTemplate.cshtml.vstemplate</p>'

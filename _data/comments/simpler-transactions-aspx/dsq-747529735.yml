@@ -1,0 +1,5 @@
+id: dsq-747529735
+date: 2009-08-19T01:02:00.0000000-07:00
+name: Michael Monteleone
+avatar: https://disqus.com/api/users/avatars/Michael Monteleone.jpg
+message: <p>I have been using this technique for years, though never blogged about it.  When anonymous delegates (and later lambdas) were released, database transactions seemed a textbook use-case.  <br>Another great use is memoization, backed by what-have-you.  (Cache, Session, HttpContext items)<br>SomeType someMemoizedItem = LazyCache.Fetch&lt;SomeType&gt;("cacheKey", ()=&gt; {<br>  // perform expensive action here<br>  return new SomeType();<br>});<br>Wherein Fetch() does the lifting of checking if the item is cached, and if not creating it and caching it.<br></p>

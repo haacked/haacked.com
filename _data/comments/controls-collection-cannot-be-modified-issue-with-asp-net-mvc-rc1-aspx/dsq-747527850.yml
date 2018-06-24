@@ -1,0 +1,5 @@
+id: dsq-747527850
+date: 2009-01-28T21:41:45.0000000-08:00
+name: Andre
+avatar: https://disqus.com/api/users/avatars/Andre.jpg
+message: <p>Hi all,<br>I've found the solution to the "UpdateModel" problem at Scott Gu's blog:<br>"UpdateModel accepts a ValueProvider, and there is a ToValueProvider() method on FormCollection that you can use to create one from a FormCollection. However - in general you shouldn't need to-do this.  Instead I'd recommend not specifying a ValueProvider within your Controller action and have it update using the default Request.Forms collection. For unit testing purposes, you can then set the Controller.ValueProvider property within your unit test and populate it using the ValueProvider collection class that is built into ASP.NET MVC.  You can then invoke the action method within the test and the UpdateModel() call will use the ValueProvider you've populated to set the values."<br></p>

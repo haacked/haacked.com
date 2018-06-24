@@ -1,0 +1,5 @@
+id: dsq-747534567
+date: 2011-03-21T18:03:26.0000000-07:00
+name: Shannon Deminick
+avatar: https://disqus.com/api/users/avatars/Shannon Deminick.jpg
+message: <p>It seems as though the razor parser only converts anything to a templated razor delegate by finding "@&lt;" together so you can't actually use a Helper method itself as the template (such as @Html.TextBoxFor...).<br>So if you want to include Helper methods in the razor template that you are passing to another Helper method (even if all you want to render is the output of your Helper) you have to wrap it in some html such as:<br>@&lt;span&gt;Html.TextBoxFor(x =&gt; item.Name)&lt;/span&gt;<br>Is there any nice way around this?</p>

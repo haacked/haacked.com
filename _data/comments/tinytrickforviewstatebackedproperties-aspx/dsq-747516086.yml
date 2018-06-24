@@ -1,0 +1,5 @@
+id: dsq-747516086
+date: 2006-08-07T00:47:39.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Jeff: no that wouldn't work.  If ViewState[\"WillSucceed\"] was null, then that would throw a NullReferenceException.<br>Also, we are storing a bool in ViewState[\"WillSucceed\"] not a string.  ViewState is of type <a href=\"http://msdn2.microsoft.com/en-us/library/system.web.ui.statebag.aspx\" rel=\"nofollow noopener\" title=\"StateBag on MSDN2\">StateBag</a> which holds a collection of serializable objects.<br>@Nick: Yes, I believe so. Any dictionary type collection of objects really.<br>@Scott: Trinay, of course. I hardly ever use it, but have been lately. I always found it confusing to read, but I guess I'm more accustomed to seeing it now.</p>"

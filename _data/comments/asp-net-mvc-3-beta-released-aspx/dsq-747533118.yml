@@ -1,0 +1,5 @@
+id: dsq-747533118
+date: 2010-10-06T20:15:57.0000000-07:00
+name: Danny Fafach
+avatar: https://disqus.com/api/users/avatars/Danny Fafach.jpg
+message: <p>I'm thrilled! Great work!<br>BTW, it looks like this is a typo in the release notes under the section "Upgrading an ASP.NET MVC 2 Project to ASP.NET MVC 3". Step 5 reads, "...add a reference to System.WebPages.dll and System.Web.Helpers.dll." <br>This should reference "System.Web.WebPages.dll". <br>Thanks,<br>-Danny</p>

@@ -1,0 +1,5 @@
+id: dsq-747524110
+date: 2008-02-06T11:50:55.0000000-08:00
+name: seerox
+avatar: https://disqus.com/api/users/avatars/seerox.jpg
+message: <p>Database for sure. I can't find any good examples of how to do it. People talk about distributed transactions etc but noone has an end to end. There is a ton of info out there and many pitfalls. I used datafresh a bit and I liked that but you have to have xp_cmdshell privileges etc. I don't mind an integration tests either for the db layer. <br>How about a team with many products and source control...How do you version the db? My situation here may be somewhat unique since we have hundreds of apps that hit the same db structure but keeping unit tests synced with db structure etc is a real killer.</p>

@@ -1,0 +1,5 @@
+id: dsq-747529442
+date: 2009-06-26T00:57:00.0000000-07:00
+name: McKamey
+avatar: https://disqus.com/api/users/avatars/McKamey.jpg
+message: <p>I think the cleanest solution is to simply require POST for JSON requests.  This avoids the hijacking scenario from script tags and allows the syntax to remain unchanged.  The silly { d:[] } wrapper can go as well and we are back to the original, easy to read, flexible JSON syntax.<br>This is just one potential vulnerability yet the proposed solutions all impose a significant change.  Browsers will catch up and fix Arrays but in the mean time, requiring sensitive JSON service calls to be POST is not a big deal.  Brain-dead simple to check on the server side.  Make it the default and then make the developer explicitly choose to enable GET.</p>

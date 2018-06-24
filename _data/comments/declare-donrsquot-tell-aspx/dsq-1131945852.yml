@@ -1,0 +1,5 @@
+id: dsq-1131945852
+date: 2013-11-20T15:47:30.0000000-08:00
+name: Minnesota Steve
+avatar: https://disqus.com/api/users/avatars/sodablue.jpg
+message: <p>I'm with you on the if statement stuff.  I've really been trying hard to eliminate nested if statements.  It isn't always easy, especially if you have to interact with someone else's code.</p><p>Most of the Rx stuff I've seen looks like your first example, and it reminds me of Regular Expressions.  Yeah it's clever, and it's a lot less code... but I hope I don't have to maintain that the day after writing it.</p><p>Now if more of it looks like your last example, I'm ok with that.</p>

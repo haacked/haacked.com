@@ -1,0 +1,5 @@
+id: dsq-747527810
+date: 2009-01-28T00:25:49.0000000-08:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>Hey Phil, I love the new RC1.<br>Question:<br>I separate my controllers out into their own assembly.  <br>This renders some of the cool features, apparently unusable for me.<br>Is there a way to tell the project where my controllers are so I can take advantage of the new features (like goto controller)</p>

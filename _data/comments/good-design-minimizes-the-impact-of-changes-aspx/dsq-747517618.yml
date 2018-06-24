@@ -1,0 +1,5 @@
+id: dsq-747517618
+date: 2006-11-13T18:52:23.0000000-08:00
+name: Daniel
+avatar: https://disqus.com/api/users/avatars/Daniel.jpg
+message: "<p>I'm ready for the solution to the first example!  For all the ORMs and DataSet, this is still my biggest time-consumer: new field in db -&gt; change DataSet (entity code, orm, etc) -&gt; change UI.  One \"solution\" would be untyped datasets, so your code would be new field in db -&gt; change UI.  But then you're introducing all sorts of code smells.  (Though I guess this is more or less the approach of a SqlDataSource &amp; GridView/FormView, which for cases not requiring much business logic, is pretty powerful...)</p>"

@@ -1,0 +1,6 @@
+id: dsq-857632875
+replyToId: dsq-747524611
+date: 2013-04-09T07:55:08.0000000-07:00
+name: Luke Puplett
+avatar: https://disqus.com/api/users/avatars/lukepuplett.jpg
+message: <p>It now uses web.config instead of this class.</p><p>&lt;add key="RouteDebugger:Enabled" value="true"/&gt;</p>

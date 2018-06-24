@@ -1,0 +1,5 @@
+id: dsq-747531018
+date: 2009-12-16T23:15:24.0000000-08:00
+name: Eilon Lipton
+avatar: https://disqus.com/api/users/avatars/Eilon Lipton.jpg
+message: <p>Regarding Visual Studio 2010 and .NET 4 support, that is unfortunately not a feasible option. The most recent public release of VS2010 and .NET 4 is Beta 2. However, our internal builds of MVC 2 for VS2010 and .NET 4 depend on features that were available only after Beta 2. In other words, if we released what we have right now for VS2010 and .NET 4 then it wouldn't even run.<br>The alternative would be for us to keep building a version of MVC 2 for VS2010 and .NET 4 Beta 2, but that was too much extra effort for a very small ASP.NET MVC team :(<br></p>

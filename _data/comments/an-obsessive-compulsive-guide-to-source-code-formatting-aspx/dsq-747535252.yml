@@ -1,0 +1,5 @@
+id: dsq-747535252
+date: 2011-05-22T13:56:39.0000000-07:00
+name: SondreB
+avatar: https://disqus.com/api/users/avatars/SondreB.jpg
+message: <p>How can you forget to mention anything about moving the using keywords inside the namespace declaration and oppose to having them outside the namespace? Some class templates in Visual Studio, at least some of the extensions such as Windows Phone 7, actually have the using inside the namespace.<br>There are some differences in the actual loading of the assemblies when this is done, but either case, the namespace makes more sense and value as the top first element in a source file.<br>What are your thoughts and preferences on namespace/using placement?</p>

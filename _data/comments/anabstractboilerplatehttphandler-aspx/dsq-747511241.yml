@@ -1,0 +1,5 @@
+id: dsq-747511241
+date: 2010-02-09T18:39:18.0000000-08:00
+name: Richard
+avatar: https://disqus.com/api/users/avatars/Richard.jpg
+message: <p>IsReusable does need to be virtual in order to override it. The only other approach is to re-implement the interface and use an explicit implementation of the property.<br>Also, since the class is abstract, the constructor should be protected.</p>

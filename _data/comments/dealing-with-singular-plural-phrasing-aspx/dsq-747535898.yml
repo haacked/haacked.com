@@ -1,0 +1,5 @@
+id: dsq-747535898
+date: 2011-08-16T13:10:12.0000000-07:00
+name: Shawn Miller
+avatar: https://disqus.com/api/users/avatars/Shawn Miller.jpg
+message: '<p>I wrote it this way:<br><code><br>public static string ToPlural(this string @this, int count = 0)<br>{<br>   return count == 1 ? @this : System.Data.Entity.Design.PluralizationServices.PluralizationService.CreateService(new System.Globalization.CultureInfo("en-US")).Pluralize(@this);<br>}<br></code><br>Which allows me to do things like:<br><code><br>"goose".ToPlural();<br>String.Format("{0} {1}", commentCount, "comment".ToPlural(commentCount));<br></code></p>'

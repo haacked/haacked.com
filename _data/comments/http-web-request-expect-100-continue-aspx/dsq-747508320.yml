@@ -1,0 +1,5 @@
+id: dsq-747508320
+date: 2011-04-25T00:06:26.0000000-07:00
+name: DeWayne Lane
+avatar: https://disqus.com/api/users/avatars/DeWayne Lane.jpg
+message: <p>Using .Net 4.0 <br>added the following before my request fixed the issue through a reverse proxy.<br>  System.Net.ServicePointManager.Expect100Continue = false;<br>  //make the request <br>  myClient.createPayment(myOperation);<br>Thanks a ton for the post!!!<br></p>

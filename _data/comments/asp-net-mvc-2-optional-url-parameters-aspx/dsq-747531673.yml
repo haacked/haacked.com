@@ -1,0 +1,5 @@
+id: dsq-747531673
+date: 2010-02-12T01:52:57.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@tomas that would be bad because you didn't specify "Id" in the set of defaults, so how can we know that you didn't mean for it to be REQUIRED?<br>If it's not in the Defaults dictionary, it means it is required.</p>

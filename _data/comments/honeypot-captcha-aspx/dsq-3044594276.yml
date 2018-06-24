@@ -1,0 +1,5 @@
+id: dsq-3044594276
+date: 2016-12-09T12:46:29.0000000-08:00
+name: SparK
+avatar: https://disqus.com/api/users/avatars/disqus_kqlcNRPdCp.jpg
+message: <p>Maybe overkill, but store random names for fields and random location of honeypot in session, so every get request would have unique honeypot name and location in form... definitely overkill...</p>

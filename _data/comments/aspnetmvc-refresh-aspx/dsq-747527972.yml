@@ -1,0 +1,5 @@
+id: dsq-747527972
+date: 2009-02-03T12:40:41.0000000-08:00
+name: Saurabh
+avatar: https://disqus.com/api/users/avatars/Saurabh.jpg
+message: <p>Well ......i got the Answer.......<br>it should be <br>&lt;% Html.RenderPartial("~/Views/Home/TestUC.ascx", m); %&gt; <br>thanx for the RC Refresh<br>Kind Regards<br>Saurabh</p>

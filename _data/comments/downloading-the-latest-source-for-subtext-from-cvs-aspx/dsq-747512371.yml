@@ -1,0 +1,5 @@
+id: dsq-747512371
+date: 2005-06-21T10:45:00.0000000-07:00
+name: Drew Marsh
+avatar: https://disqus.com/api/users/avatars/Drew Marsh.jpg
+message: '<p>I followed the steps, but am getting the following:<br><br><br><br>In D:\SubText: "C:\Program Files\TortoiseCVS\cvs.exe" "-q" "checkout" "-P" "source"<br><br>CVSROOT=:<a href="pserver:anonymous@cvs.sourceforge.net" rel="nofollow noopener" title="pserver:anonymous@cvs.sourceforge.net">pserver:anonymous@cvs.sourc...</a>:/cvsroot/SubtextSystem<br><br><br><br>cvs.exe [checkout aborted]: unrecognized auth response from <a href="http://cvs.sourceforge.net" rel="nofollow noopener" title="cvs.sourceforge.net">cvs.sourceforge.net</a>: M -!- Project map lookup failed ()<br><br><br><br>Any clues?</p>'

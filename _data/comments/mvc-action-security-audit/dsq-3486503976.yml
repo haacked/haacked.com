@@ -1,0 +1,6 @@
+id: dsq-3486503976
+replyToId: dsq-3486259589
+date: 2017-08-25T09:15:35.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Ha! Well if you read the post carefully, you'll see I addressed that.</p><p>&gt; Be aware that if you accidentally deploy SiteController, it will only responds to local requests (requests from the hosting server itself) and not to public requests. You really don’t want to expose this information to the public. That would be an open invitation to be hacked. You may like being Haacked, it’s no fun to be hacked.</p>

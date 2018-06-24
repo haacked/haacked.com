@@ -1,0 +1,5 @@
+id: dsq-819063328
+date: 2013-03-04T10:35:57.0000000-08:00
+name: Grahame SD
+avatar: https://disqus.com/api/users/avatars/openid-122181.jpg
+message: <p>I agree with much of what you say, Phil, but I can't agree that a developer who tests is a workable replacement for a dedicated tester (or QA or whatever you want to call it).  <br>Sure, I hate having bugs found in my software, and I am capable of testing and I test the heck out of my code before I hand it over to QA, but they still find stuff.<br>Over the years I have always seen quality decrease (and therefore always seen confidence decrease) when the team has lost a dedicated QA.<br>So, what you say is nice in theory, and maybe it can work with exceptional individuals on a small team such as you have, but I've just never seen it work in practice and especially not with average developers.</p>

@@ -1,0 +1,5 @@
+id: dsq-747524483
+date: 2011-08-31T15:32:38.0000000-07:00
+name: victoryans
+avatar: https://disqus.com/api/users/avatars/victoryans.jpg
+message: <p>I just want to asked if there's a workaround in routing using masterpage. I put the links in masterpage (i.e. first link has a href of /products/list and the other link has a href of category/name) if i click the first link it redirect me to the correct url which is <a href="http://mysite/products/list" rel="nofollow noopener" title="http://mysite/products/list">http://mysite/products/list</a> but if i click the next link it will redirect me to <a href="http://mysite/products/category/name" rel="nofollow noopener" title="http://mysite/products/category/name">http://mysite/products/category/name</a> but the link should be <a href="http://mysite/category/name" rel="nofollow noopener" title="http://mysite/category/name">http://mysite/category/name</a></p>

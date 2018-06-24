@@ -1,0 +1,5 @@
+id: dsq-747525532
+date: 2008-06-18T10:59:33.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Steven yeah, probably true the first time. But the next time when I'm just getting setup, this is just one simple method call. I can always swap it out later with a container approach, but this is nice scaffolding while I prototype my app.</p>

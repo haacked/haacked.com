@@ -1,0 +1,5 @@
+id: dsq-747532556
+date: 2010-06-16T17:21:14.0000000-07:00
+name: George Chakhidze
+avatar: https://disqus.com/api/users/avatars/George Chakhidze.jpg
+message: '<p>as extension method:<br><code><br>public static T Coalesce&lt;T&gt;(this IEnumerable&lt;T&gt; items) where T : class<br>{<br>    return items != null ? items.FirstOrDefault(item =&gt; item != null) : null;<br>}<br>public static Nullable&lt;T&gt; Coalesce&lt;T&gt;(this IEnumerable&lt;Nullable&lt;T&gt;&gt; items) where T : struct<br>{<br>    return items != null ? items.FirstOrDefault(item =&gt; item.HasValue) : null;<br>}<br></code></p>'

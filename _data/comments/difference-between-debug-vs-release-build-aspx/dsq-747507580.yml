@@ -1,0 +1,5 @@
+id: dsq-747507580
+date: 2012-02-22T01:49:30.0000000-08:00
+name: Gary
+avatar: https://disqus.com/api/users/avatars/Gary.jpg
+message: <p>By configuration:<br>  Debug version will include debug info, and no optimization;<br>  Release version will not include debug info and has optimization;<br>By resulted .exe or .dll:<br>  Debug version has a bigger size, and runs slower;<br>  Release version has a smaller size and runs faster in general.<br>Look at them in a higher level:<br>  They are just the compiled results from two sets of values for compiler/linker parameters.</p>

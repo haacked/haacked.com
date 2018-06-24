@@ -1,0 +1,5 @@
+id: dsq-747529452
+date: 2009-06-26T23:49:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yeah, I agree with Brad. Sometimes you can get too cute with these things and just end up confusing everybody.<br>My hope is that we can seed the net ahead of time with the "fix" being to use POST in your client library, which is not that hard, so that people who encounter the problem are more likely to use that solution rather than turning off the option.<br>At least that's the hope. :)</p>

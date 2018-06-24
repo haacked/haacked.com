@@ -1,0 +1,5 @@
+id: dsq-747538039
+date: 2012-05-22T18:37:23.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Borek, regarding your Oauth question, yes GitHub supports OAuth but git does not. We need your credentials so that GitHub for Windows can act as your HTTPS Credential Provider.</p>

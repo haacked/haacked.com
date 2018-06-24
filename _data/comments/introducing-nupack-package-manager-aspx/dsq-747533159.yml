@@ -1,0 +1,5 @@
+id: dsq-747533159
+date: 2010-10-05T22:16:06.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Rob, it puts the assemblies in a subfolder of the "packages" folder which is place inside your solution folder. So if you add your entire solution folder to source control, you're all set.<br>@Will Thanks! I corrected it.<br>@Philip you don't have to install MVC 3 to get it. Just grab the VSIX from <a href="http://nupack.codeplex.com/" rel="nofollow noopener" title="http://nupack.codeplex.com/">http://nupack.codeplex.com/</a></p>

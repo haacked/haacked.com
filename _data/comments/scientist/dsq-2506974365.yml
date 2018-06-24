@@ -1,0 +1,6 @@
+id: dsq-2506974365
+replyToId: dsq-2504398769
+date: 2016-02-10T13:08:00.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>That was a typo! I fixed it. The method always returns the original answer. But it publishes an object that contains both answers and timing information. However, I don't have any publishers written...yet. I'm looking for contributions to do that.</p>

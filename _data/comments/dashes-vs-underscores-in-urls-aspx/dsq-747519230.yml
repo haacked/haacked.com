@@ -1,0 +1,5 @@
+id: dsq-747519230
+date: 2007-03-15T22:34:40.0000000-07:00
+name: Ryan Smith
+avatar: https://disqus.com/api/users/avatars/Ryan Smith.jpg
+message: <p>It's funny that Atwood brings up the point that the regular expressions are easier to write in order to parse the URLs with dashes.  <br>I had the exact opposite problem.  I would run a regular expression on my friendly URLs to make sure that there were only valid alphanumeric characters.  The dash would break this so I had to rewrite my regexp.<br>Not that this was difficult, but I never looked at from the other point of view.</p>

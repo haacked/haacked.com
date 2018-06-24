@@ -1,0 +1,5 @@
+id: dsq-1165589522
+date: 2013-12-16T04:37:11.0000000-08:00
+name: Alistair Lattimore
+avatar: https://disqus.com/api/users/avatars/alistairlattimore.jpg
+message: <p>Phil,</p><p>There is a really easy to way do this with Google Analytics:</p><p>1) Drill into Behaviour-&gt;Site Content-&gt;All Pages<br>2) Switch to table's Primary Dimension to Page Title (above the table)<br>3) Filter the table rows by searching for '404' (which is in your 404 error handler title tag)<br>4) Drill into the 404 error filtered result<br>5) Celebrate as you've just found every URL on your site generating a 404 error</p><p>Al.</p>

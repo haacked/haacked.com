@@ -1,0 +1,5 @@
+id: dsq-747523644
+date: 2007-12-08T15:12:57.0000000-08:00
+name: Aaron Jensen
+avatar: https://disqus.com/api/users/avatars/Aaron Jensen.jpg
+message: <p>&gt; I have to say though, since we don't ship with a DI framework <br>&gt; (choose your own), using inheritance certainly is a lot easier. I <br>&gt; don't have to know what your DI container is, I just post a <br>&gt; subclass. Also, he DI approach is a lot more configuration.<br>You can provide the classes and a new implementation of ControllerFactory. No container needed. <br>&gt; This is not a ding against composition over inheritance nor a <br>&gt; ding against your idea, only to say inheritance is a valid choice<br>&gt; sometimes. :)<br>Define valid. If by valid you mean it works, then yes, of course. You can do plenty with inheritance. That doesn't mean its the best way. I'm not going to beat a dead horse on the value of composition vs. inheritance, but maybe someone should as it seems a lot of people still don't get it. Putting out a framework that requires per-controller subclassing to make things easily testable... well, is just a bad idea and certainly doesn't show off good practices.</p>

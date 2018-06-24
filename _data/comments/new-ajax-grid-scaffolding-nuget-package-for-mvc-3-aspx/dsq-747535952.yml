@@ -1,0 +1,5 @@
+id: dsq-747535952
+date: 2011-08-17T11:28:42.0000000-07:00
+name: Kazi Manzur Rashid
+avatar: https://disqus.com/api/users/avatars/Kazi Manzur Rashid.jpg
+message: <p>Looks neat, the first thing MS should address the proper use of Http verbs and status codes. No more POST for update, instead use PUT, same goes to delete, 201 when a resource is created, currently none of the action result takes extra http status codes. Add some kind of helper methods which adds the CRUD routes in route table. example:<br>/products      - GET  - returns list of products<br>/products      - POST - creates new product<br>/products/{id} - PUT - updates existing product<br>/products/{id} - DELETE - deletes product<br>The default controller which the scaffolder generates does not at all friendly when you use framework like backbone/spine.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747526159
+date: 2008-08-24T07:18:34.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>I think the grammar of your first "SubSpec" example is interesting, to be sure, and it certainly shows that Brad has some skills (not that it was ever in doubt), but to me it feels like the specification gets a little more obfuscated in the cleverness, or at least much less scannable.<br>When we practice context/specification slash BDD test construction one of the primary concerns is that the test code is scannable and that we have an easily understandable code representation of the English (or your language here) sentences on the story cards. In particular, the double-assert syntax you have here seems to me to hinder that scannability.<br>The second grammar is better in that regard.</p>

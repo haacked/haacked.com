@@ -1,0 +1,5 @@
+id: dsq-747529947
+date: 2009-09-03T02:05:00.0000000-07:00
+name: commenter
+avatar: https://disqus.com/api/users/avatars/commenter.jpg
+message: <p>Yes we could have different languages for different paradigms - if for some reason it was decided that paradigms shouldn't be mixed.<br>But I can't understand why a new paradigm requires a new language.<br>Do I need one car to drive to the supermarket and one to drive to work? The requirements are different - wouldnt it be more elegant to have two cars?<br>But then, what if I want to drive to the supermarket on the way home from work? What if I dont want to spend twice as much on cars?<br>In the real world programmers don't have free reign to grab and use the latest shiny language, and mixing languages in one project is awkward and has a cost.<br>Extending C# to support different paradigms is useful to people who can't just pick and choose.</p>

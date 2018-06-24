@@ -1,0 +1,5 @@
+id: dsq-747527681
+date: 2009-01-08T07:33:03.0000000-08:00
+name: Daniel Chow
+avatar: https://disqus.com/api/users/avatars/Daniel Chow.jpg
+message: <p>Hi Haaked , have you try this :<br>routes.MapRoute(<br>    "Default",<br>    "{controller}/test.html",<br>    new { controller = "Home", action = "Test" }<br>);<br>i mean the routing treat extesion as a common string .  so ,Haccked, how do you think about this ?</p>

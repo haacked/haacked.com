@@ -1,0 +1,5 @@
+id: dsq-747523285
+date: 2007-12-09T10:26:11.0000000-08:00
+name: Community Blogs
+avatar: https://disqus.com/api/users/avatars/Community Blogs.jpg
+message: <p>Just a brief note on writing unit tests for controller actions. When your action has a call to RedirectToAction</p>

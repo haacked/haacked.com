@@ -1,0 +1,5 @@
+id: dsq-747529101
+date: 2009-05-20T03:20:00.0000000-07:00
+name: BB
+avatar: https://disqus.com/api/users/avatars/BB.jpg
+message: <p>@Haacked<br>Thanks, one follow-up regarding using VS 2010 and the removal of the GUID. If the project type is removed, will code behinds not get added to new pages? Will the intellisense still work then for manually created aspx pages with no codebehind, and manually adding the model type? i.e. Inherits="System.Web.Mvc.ViewPage&lt;SomeStrongType&gt;"<br>thanks</p>

@@ -1,0 +1,5 @@
+id: dsq-747532984
+date: 2010-08-12T04:20:13.0000000-07:00
+name: Macario F. Pedraza
+avatar: https://disqus.com/api/users/avatars/Macario F. Pedraza.jpg
+message: <p>Interesting. I tried reproducing this in VB where I have a long history of using Optional (before it was cool ;):<br><code>Public Sub Foo(ByVal s1 As String, ByVal s2 As String, Optional ByVal s3 As String = "v1")<br>Console.WriteLine("Version 1")<br>End Sub<br>Public Sub Foo(ByVal s1 As String, Optional ByVal s3 As String = "v2")<br>Console.WriteLine("Version 2")<br>End Sub</code><br>This code won't compile and brings up the message "[Foo1] and [Foo2] cannot overload each other because they differ only by optional parameters."<br>This seems to me like a C# compiler design <strike>bug</strike> issue. They should probably consult with the VB guys.<br>Thanks for pointing this out.</p>

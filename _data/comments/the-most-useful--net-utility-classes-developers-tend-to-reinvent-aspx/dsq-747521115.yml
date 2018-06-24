@@ -1,0 +1,5 @@
+id: dsq-747521115
+date: 2007-06-18T17:08:17.0000000-07:00
+name: Vlad Iliescu
+avatar: https://disqus.com/api/users/avatars/Vlad Iliescu.jpg
+message: <p>Unfortunately, VirtualPathUtility doesn't handle query string parameters, making it useless for us. Back to using a private Control and calling its ResolveUrl method.</p>

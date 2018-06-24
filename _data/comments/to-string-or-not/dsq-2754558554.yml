@@ -1,0 +1,6 @@
+id: dsq-2754558554
+replyToId: dsq-2413130847
+date: 2016-06-28T02:59:46.0000000-07:00
+name: Nyerguds
+avatar: https://disqus.com/api/users/avatars/maartenmeuris.jpg
+message: <p>These properties are all actually just functions that convert the internal value of the DateTime and return a piece of it. It is no different from calling Substring(...) on a string, besides the fact they have a predefined piece they cut out and return. It's the same as if you'd have properties like "FirstLetter" and "LastLetter" on a string.</p>

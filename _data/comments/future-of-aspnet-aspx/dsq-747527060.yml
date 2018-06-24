@@ -1,0 +1,5 @@
+id: dsq-747527060
+date: 2008-11-29T05:16:09.0000000-08:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>I'm waiting for a good 'web-based xaml view engine'.  Write xaml anywhere  :)  We have our WPF, Silverlight, now we need <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> xaml view engine  :)<br>What I'm seeing with templating is just the wrong direction imo.  If your going to go the declarative route in all of this, why not pursue a common view engine for developers across your platform.<br>Obviously mvc makes for the easiest choice since we've already seen how view engines can be put together.<br></p>

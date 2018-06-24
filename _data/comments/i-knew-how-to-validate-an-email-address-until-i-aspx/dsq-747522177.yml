@@ -1,0 +1,5 @@
+id: dsq-747522177
+date: 2011-08-19T03:27:22.0000000-07:00
+name: Not Haacked
+avatar: https://disqus.com/api/users/avatars/Not Haacked.jpg
+message: <p>@haacked - Running a Google search turns up a recent article mentioning ICANN approving a process whereby they are opening up gTLDs for 500 applicants.  Startup cost is something like $200,000 (total) and requires a $20,000 annual fee to keep it.<br>On a side note, regular expressions are not the answer to e-mail address validation.  I've found that regular expressions are good for filtering but they are not good for validation.  The correct way to validate e-mail addresses is to use a state engine.  A quick Google search turns up:<br><a href="http://barebonescms.com/documentation/ultimate_email_toolkit/" rel="nofollow noopener" title="http://barebonescms.com/documentation/ultimate_email_toolkit/">barebonescms.com/.../ultimate_email_toolkit/</a><br>Which supposedly contains a state engine to validate e-mails.  So at least one person out there knows what they are doing.</p>

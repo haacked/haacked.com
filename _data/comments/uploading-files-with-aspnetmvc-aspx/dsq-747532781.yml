@@ -1,0 +1,5 @@
+id: dsq-747532781
+date: 2012-11-16T18:08:29.0000000-08:00
+name: Keith Yanachik
+avatar: https://disqus.com/api/users/avatars/Keith Yanachik.jpg
+message: <p>Thank you, this worked perfect.  I put the HttpPostedFileBase as a public property called File in my model.  Was able to then take put the IO stream into a Mail attachment and email the file.<br>System.Net.Mail.Attachment mailAttachment = new System.Net.Mail.Attachment(formVals.File.InputStream, formVals.File.FileName);</p>

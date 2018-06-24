@@ -1,0 +1,5 @@
+id: dsq-747532018
+date: 2010-11-30T04:49:48.0000000-08:00
+name: Ryan
+avatar: https://disqus.com/api/users/avatars/Ryan.jpg
+message: <p>Is there anything similar for XML?  At first glance, it seemed like it wouldn't be that hard to implement since we would just need to deserialize from XML instead of JSON, but I can't find a method that's comparable to JavaScriptSerializer.DeserializeObject(string input) - does one exist?</p>

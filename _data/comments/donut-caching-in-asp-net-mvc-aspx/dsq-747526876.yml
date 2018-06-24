@@ -1,0 +1,5 @@
+id: dsq-747526876
+date: 2010-01-19T20:17:04.0000000-08:00
+name: headache
+avatar: https://disqus.com/api/users/avatars/headache.jpg
+message: <p>How would you substitute an partial view ?<br>Most of the times obtaining that Html is not that easy as calling DateTime.Now so it would be nice to do something like <br>&lt;%= Html.SubstituteAction("SomeAction", "SomeController") %&gt;<br>Right now there is no easy/fun way to render a view on the controller:<br><a href="http://stackoverflow.com/questions/483091/render-a-view-as-a-string" rel="nofollow noopener" title="http://stackoverflow.com/questions/483091/render-a-view-as-a-string">stackoverflow.com/.../render-a-view-as-a-string</a></p>

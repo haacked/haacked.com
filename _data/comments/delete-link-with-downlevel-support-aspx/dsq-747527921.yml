@@ -1,0 +1,5 @@
+id: dsq-747527921
+date: 2009-02-10T04:50:22.0000000-08:00
+name: Erik van Brakel
+avatar: https://disqus.com/api/users/avatars/Erik van Brakel.jpg
+message: "<p>@SelArom: No, you can't have the same method signature twice, regardless of the attributes. Normal C# rules still apply in MVC, there's no magic going on in the code as far as that's concerned.<br>I actually implemented what you suggested on my pet project this week, seeing how you mention it, I think I'll blog about it (might attract some people :P)</p>"

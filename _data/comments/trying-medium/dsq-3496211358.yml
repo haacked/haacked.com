@@ -1,0 +1,6 @@
+id: dsq-3496211358
+replyToId: dsq-3493567234
+date: 2017-08-31T11:41:50.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hmm, what happens? It just works for me. It could be that your HTML mark-up is hard to parse. For example, if you look at the markup for my blog posts, the title has something like:</p><p>&lt;h1 class="title"&gt;Trying Medium&lt;/h1&gt;</p><p>And the body has</p><p>&lt;div class="entry-content"&gt;...&lt;/div&gt;</p><p>I think those classes might help Medium parse the contents. Otherwise contact Medium.</p>

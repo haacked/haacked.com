@@ -1,0 +1,5 @@
+id: dsq-747524549
+date: 2010-05-14T03:45:16.0000000-07:00
+name: fschwiet
+avatar: https://disqus.com/api/users/avatars/fschwiet.jpg
+message: <p>Just a note for those who thought they'd need to download the code and upgrade it for VS2010 / MVC2.  RouteDebugger was added to MvcContrib.dll, which you may have already.  For me, VS2010 added MvcContrib.dll to the project when I upgraded it from vs2008 to vs2010.</p>

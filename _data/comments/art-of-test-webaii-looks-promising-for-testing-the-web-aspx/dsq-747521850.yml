@@ -1,0 +1,5 @@
+id: dsq-747521850
+date: 2007-08-03T18:06:31.0000000-07:00
+name: Jeroen van Menen
+avatar: https://disqus.com/api/users/avatars/Jeroen van Menen.jpg
+message: <p>Phil,<br>Thanks for the info. The keycode issue is fixed in the current developement source and will be part of the next release. I will have a look at the other issues you mentioned. <br>Regarding the document.write issue. There must be something that has changed on your page after this statement has been executed. The simplest check you could do is IE.ContainsText(""). <br>Supporting other browsers is on my TODO list but very near to the end of it.<br>Regards, Jeroen</p>

@@ -1,0 +1,5 @@
+id: dsq-747535542
+date: 2011-07-03T21:22:34.0000000-07:00
+name: Roatin Marth
+avatar: https://disqus.com/api/users/avatars/Roatin Marth.jpg
+message: <p>One problem with shoe-horning JSON request bodies into IValueProvider is that incoming enum values (given as ints) do not get bound to the target property. JSON requests get a <code>DictionaryValueProvider&amp;lt;object&amp;gt;</code>. The model binder asks the value provider to convert it's value to the enum type via <code>valueProviderResult.ConvertTo(enumType)</code>).<br>The value provider gets an <code>EnumConverter</code> for the TypeConverter, but alas, when given an int object the EnumConverter doesn't know what to do with it. No other ValueProvider has this behaviour since they all store their raw values as string objects.<br></p>

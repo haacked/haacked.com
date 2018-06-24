@@ -1,0 +1,5 @@
+id: dsq-747535302
+date: 2011-05-26T04:22:52.0000000-07:00
+name: Nacho
+avatar: https://disqus.com/api/users/avatars/Nacho.jpg
+message: <p>Anyone have some tips on deploying to appharbor with sql ce?. I have checked sql ce to bin deployable dependencies but i still cant get it to work... layout is shown but content just displays error message... the app dashboard shows no errors in the error log.<br></p>

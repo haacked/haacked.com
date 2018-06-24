@@ -1,0 +1,5 @@
+id: dsq-747517099
+date: 2008-10-06T01:30:08.0000000-07:00
+name: Spambot
+avatar: https://disqus.com/api/users/avatars/Spambot.jpg
+message: <p>Small comment on the reaction of nstlgc:<br>What happens if a user keeps refreshing the web browser? create new database records? <br>Maybe it's better to keep a "blacklist" of answered security keys in the passed 30min? That way you won't be able to reuse the same security key over and over again and it won't kill your db server. If you combine this with the embedded time stamp in the security key you've got a solution that's pretty good!</p>

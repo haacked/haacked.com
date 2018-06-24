@@ -1,0 +1,5 @@
+id: dsq-2410845111
+date: 2015-12-15T07:02:09.0000000-08:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>This breaks if it is called by two different sprocs at the same time, since it uses a work file to build the ftp commands.  Just a word of caution.</p>

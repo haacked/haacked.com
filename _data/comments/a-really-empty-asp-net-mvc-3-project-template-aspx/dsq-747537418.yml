@@ -1,0 +1,5 @@
+id: dsq-747537418
+date: 2012-01-10T23:16:43.0000000-08:00
+name: Ameer
+avatar: https://disqus.com/api/users/avatars/Ameer.jpg
+message: <p>Love steve's comment :). Nancyfx has a very cool strategy based on nuget where they've componentized their solution into smaller pieces. People can add basic authentication, for instance, by adding Nancy.Authentication.Basic etc. The WindowsAzure.Storage nugets do something similar and even provides samples. I wonder if coupling this "really empty" template with Nuget add-ins could be useful?</p>

@@ -1,0 +1,5 @@
+id: dsq-747507658
+date: 2008-10-20T14:51:49.0000000-07:00
+name: trisith
+avatar: https://disqus.com/api/users/avatars/trisith.jpg
+message: '<p>Thanks for your sharing.<br>I want to share somethings.<br>Select IDENTITY(smallint, 1, 1) as counter, username<br>from #user;<br>OR <br>Select IDENTITY(smallint, 100, 1) as counter, username<br>from #user;<br>OR <br>Select IDENTITY(smallint, 1, 5) as counter, username<br>from #user;<br>have a nice day.<br>cheer.<br></p>'

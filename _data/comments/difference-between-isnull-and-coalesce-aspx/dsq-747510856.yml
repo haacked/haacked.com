@@ -1,0 +1,5 @@
+id: dsq-747510856
+date: 2007-04-24T17:32:23.0000000-07:00
+name: Sagar Chavan
+avatar: https://disqus.com/api/users/avatars/Sagar Chavan.jpg
+message: <p>Isnull(@test,'test')<br>replaces all the null values with 'test'<br>whereas Coalesce returns first non null record</p>

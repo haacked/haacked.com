@@ -1,0 +1,5 @@
+id: dsq-747522170
+date: 2011-05-03T19:39:39.0000000-07:00
+name: Bear
+avatar: https://disqus.com/api/users/avatars/Bear.jpg
+message: <p>Updated expression to take into account 5322/5321 and associated errata while adding in length checks (although I've omitted the IP-domain-literal forms for clarity, they remain unchanged from above)<br>[code]^(?=.{1,64}@[^@]{4,}$)(?=.{6,254}$)(?:[^()&lt;&gt;@,;:\\".[\]\x00-\x20\u007F-\uFFFF]+(?:\.[^()&lt;&gt;@,;:\\".[\]\x00-\x20\u007F-\uFFFF]+)*|\"(?:(?:(?:[\t ]*\r\n)?[\t ]+)?(?:[\x21\x23-\x5B\x5D-\x7E]|\\[\x09\x20-\x7E]))*(?:(?:[\t ]*\r\n)?[\t ]+)?\")@(?:[a-zA-Z](?:[a-zA-Z\d-]{0,61}[a-zA-Z\d])?\.)+[a-zA-Z]{2,}$[/code]</p>

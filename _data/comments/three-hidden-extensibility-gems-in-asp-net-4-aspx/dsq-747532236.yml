@@ -1,0 +1,5 @@
+id: dsq-747532236
+date: 2012-06-05T07:21:09.0000000-07:00
+name: Saeed Neamati
+avatar: https://disqus.com/api/users/avatars/saeedneamati.jpg
+message: <p>Hell yeah, I love you Haacked. I was developing a plugin architecture for ASP.NET MVC, and I had no idea how to move my plugin DLL files into bin folder dynamically. This solved it. <br>Thanks man.</p>

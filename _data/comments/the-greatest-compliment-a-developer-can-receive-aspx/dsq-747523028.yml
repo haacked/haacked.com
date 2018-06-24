@@ -1,0 +1,5 @@
+id: dsq-747523028
+date: 2007-10-08T20:21:02.0000000-07:00
+name: mike
+avatar: https://disqus.com/api/users/avatars/mike.jpg
+message: <p>You lost me at <br></p><blockquote><br>You put your curly braces on the same line rather than its own line as God intended.<br></blockquote><p><br>Obviously, you were picking sides here and wanted everyone to know it.<br>There is this little document published by Sun called <a href="http://java.sun.com/docs/codeconv/html/CodeConvTOC.doc.html" rel="nofollow noopener" title="http://java.sun.com/docs/codeconv/html/CodeConvTOC.doc.html">Code Conventions for the Java Programming Language</a> and it clearly places the bracket on the same line as the method signature.<br>Recall that <strong>industry standards &gt; organization standards &gt; team standards &gt; personal standards &gt; no standards</strong>.</p>

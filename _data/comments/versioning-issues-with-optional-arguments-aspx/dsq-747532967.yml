@@ -1,0 +1,5 @@
+id: dsq-747532967
+date: 2010-08-10T02:56:45.0000000-07:00
+name: Seth
+avatar: https://disqus.com/api/users/avatars/Seth.jpg
+message: '<p>I have always concluded that default parameter values are evil in an OO/Interface based world. In C++, this has always been ambiguous or at least surprising to the user, equivalent snippet in C# (uncompiled :)):<br>&lt;pre&gt;<br>class A<br>{<br>   public virtual int test(int i=3);<br>};<br>class B : class A<br>{<br>   public override int test(int i=5);<br>}<br>class App<br>{<br>static int main(int argc, string[] argv)<br>{<br>B t = new A();<br>return t.test();<br>}<br>}<br>&lt;/pre&gt;<br>PS no preview, so excuse the mess if it happens</p>'

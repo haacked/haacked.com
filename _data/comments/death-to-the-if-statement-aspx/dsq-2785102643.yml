@@ -1,0 +1,6 @@
+id: dsq-2785102643
+replyToId: dsq-2784198110
+date: 2016-07-15T09:58:27.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>&gt; *false if the enumerator has passed the end of the collection*</p><p>I think his point refers to that "if" in that statement. For example, it does not say "false _WHEN_ the enumerator has passed the end of the collection".</p><p>It says "if". There's no requirement that an IEnumerable ever terminate.</p>

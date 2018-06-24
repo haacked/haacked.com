@@ -1,0 +1,5 @@
+id: dsq-747524811
+date: 2008-04-23T01:18:04.0000000-07:00
+name: evan
+avatar: https://disqus.com/api/users/avatars/evan.jpg
+message: <p>I remember before all these xunit programs were well known having a static void main in each java class that tested that class and were executed in batch from the command line.<br>Things sure have changed though and these xunit frameworks are great. Putting all that test code in the main project has a bad smell to me.  Looks like lots of people smell that too :)</p>

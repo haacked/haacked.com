@@ -1,0 +1,5 @@
+id: dsq-747508286
+date: 2008-11-09T22:47:33.0000000-08:00
+name: amrhassan
+avatar: https://disqus.com/api/users/avatars/amrhassan.jpg
+message: <p>i just spent a whole day trying to figure out the problem with my code. after firing up wireshark and sniffing the calls, comparing them with the same requests made in python successfully, i found out about this stupid expect header value. after googling the words "httpwebrequest expect continue", i found this blog post. thank you for sharing your rant, you saved my work.</p>

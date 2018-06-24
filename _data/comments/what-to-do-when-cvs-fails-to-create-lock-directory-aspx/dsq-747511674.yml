@@ -1,0 +1,5 @@
+id: dsq-747511674
+date: 2010-02-07T21:03:11.0000000-08:00
+name: Michael James
+avatar: https://disqus.com/api/users/avatars/Michael James.jpg
+message: <p>Just ran into this problem when trying to use git cvsexportcommit to commit changes from my local git repository to a central CVS repository.  It turns out that there's enough of a difference between the version of CVS that TortoiseCVS uses (cvsnt, I think) and the version of CVS I installed through Cygwin, that you get this error.<br>Running the CVS checkout and git cvsexportcommit from Cygwin (thus using the same CVS on both commands) fixed the problem.</p>

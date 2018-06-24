@@ -1,0 +1,5 @@
+id: dsq-747534058
+date: 2011-01-06T17:34:04.0000000-08:00
+name: terryterry's-chicken
+avatar: https://disqus.com/api/users/avatars/terryterry's-chicken.jpg
+message: <p>I'm really impressed that you can use AddModelError on normal razor pages now. Well done Haack!<br>One old nuGet of a question. ViewBag? I've always thought you gave ViewData the wrong name. Call it ControlData or FormData, because it does indeed store information used by input controls. Then call ViewBag, ViewData.</p>

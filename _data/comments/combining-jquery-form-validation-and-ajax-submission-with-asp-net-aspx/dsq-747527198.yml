@@ -1,0 +1,5 @@
+id: dsq-747527198
+date: 2011-02-09T05:14:20.0000000-08:00
+name: Timur
+avatar: https://disqus.com/api/users/avatars/Timur.jpg
+message: <p>@Tommy <br>there is an issue not only with masterpages but in every complex case where input placed inside container so that id contains "_". Such id's in pure <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> are returning with %24 and in haack's example with "_"... and no event fires.  <br>haack, can you assist in those cases?</p>

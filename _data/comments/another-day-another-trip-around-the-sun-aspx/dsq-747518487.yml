@@ -1,0 +1,5 @@
+id: dsq-747518487
+date: 2010-06-29T18:10:29.0000000-07:00
+name: downloadable files
+avatar: https://disqus.com/api/users/avatars/downloadable files.jpg
+message: <p>For those of us who prefer Web Application projects, I repackaged their code as compiled DLL and a handler file. This distribution will work for both Web Application Projects as well as Website Projects.<br>Just download the binaries, copy the DLL to your bin directory, copy the IdenticonHandler.ashx file to your website directory, and you are good to go. You can simply add an image tag that references your identicon handler.</p>

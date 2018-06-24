@@ -1,0 +1,5 @@
+id: dsq-747507642
+date: 2008-01-31T20:25:06.0000000-08:00
+name: Sitra A.
+avatar: https://disqus.com/api/users/avatars/Sitra A..jpg
+message: '<p>This is the coolest tip ever!! Thank you.<br>I would like to make a correction through. On the first example<br>SELECT counter = 0, * FROM Users INTO #tmp_Users<br>Should really be<br>SELECT counter = 0, * INTO #tmp_Users FROM Users</p>'

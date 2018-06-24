@@ -1,0 +1,5 @@
+id: dsq-747526646
+date: 2012-07-23T09:54:02.0000000-07:00
+name: Hampus Bengtsson
+avatar: https://disqus.com/api/users/avatars/Hampus Bengtsson.jpg
+message: <p>I too wonder how to get the validation messages displaying next to each item. The validation summary shows property errors, but I can't get them to show with something like [code]@Html.ValidationMessageFor(m =&gt; m.fooItems[i])[/code]</p>

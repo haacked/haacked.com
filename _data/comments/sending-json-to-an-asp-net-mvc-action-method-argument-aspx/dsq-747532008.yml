@@ -1,0 +1,5 @@
+id: dsq-747532008
+date: 2010-09-10T08:05:39.0000000-07:00
+name: PT
+avatar: https://disqus.com/api/users/avatars/PT.jpg
+message: "<p>Another question: When I add the value provider in global.asax.cs, this bit of code fails to return the JSON embedded in the Request's body:<br>public ActionResult Update(PatientDirectoryRecord record)<br>{<br>  ...<br>  var sr = new StreamReader(Request.InputStream);<br>  var requestBody = sr.ReadToEnd();<br>  ...<br>}<br>If I comment out the Add(new JsonValueProviderFactory()) line, then my JSON in the request is avalable to the StreamReader in the controller method.<br>Why?</p>"

@@ -1,0 +1,5 @@
+id: dsq-747533741
+date: 2010-12-16T22:43:04.0000000-08:00
+name: Vlad
+avatar: https://disqus.com/api/users/avatars/Vlad.jpg
+message: "<p>Html.EditorFor doesn't consider RequiredAttribute inherited classes for client side validation<br>I want to localize the error message for the Required attribute and store it in the database. For this purpose I created a custom class LocalizedDisplayNameAttribute the inherits DisplayNameAttribute and overrides the DisplayName property. Everything is ok server side where the Model.IsValid returns what it should and the Html.ValidationSummary correctly displays the localized text from the class LocalizedDisplayNameAttribute, however the method Html.EditorFor doesn't generate the needed items for client side validation.<br>This seems to be a big bug!<br>I opened a bug in Codeplex: <a href=\"http://aspnet.codeplex.com/workitem/7782\" rel=\"nofollow noopener\" title=\"http://aspnet.codeplex.com/workitem/7782\">http://aspnet.codeplex.com/workitem/7782</a></p>"

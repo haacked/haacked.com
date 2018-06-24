@@ -1,0 +1,5 @@
+id: dsq-747511650
+date: 2006-06-05T12:39:00.0000000-07:00
+name: Craig Turner
+avatar: https://disqus.com/api/users/avatars/Craig Turner.jpg
+message: <p>In my instance I think this was caused because I'd copied a directory including the CVS directory for it and the repository got confused because the CVS data in the subdirectory was wrong. Thanks for pointing me in the right direction.</p>

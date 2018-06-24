@@ -1,0 +1,5 @@
+id: dsq-747523472
+date: 2007-11-29T17:46:26.0000000-08:00
+name: Julian
+avatar: https://disqus.com/api/users/avatars/Julian.jpg
+message: <p>You say that when a user types the URL in the address bar, Browsers automatically apply the correct URL encoding. But as far as I have observed, they dont apply Unicode encoding, rather latin-1, so it doesnt work if you type ü for example, which becomes %FC instead of %C3%BC. Any ideas?<br>Wikepedia seems to convert it somehow and redirects you to the right page.</p>

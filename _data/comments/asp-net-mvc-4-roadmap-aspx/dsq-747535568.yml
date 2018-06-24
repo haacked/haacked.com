@@ -1,0 +1,5 @@
+id: dsq-747535568
+date: 2011-07-13T05:42:31.0000000-07:00
+name: Andrew
+avatar: https://disqus.com/api/users/avatars/Andrew.jpg
+message: <p>Hmm...<br>u know, partial stuff ?<br>partial view = .cshtml + .js + .css<br>view = partial view + partial view + so on...<br>if possible, is the .js and .css is combined, minified, obfuscated automatically and separated from its .cshtml (if any)</p>

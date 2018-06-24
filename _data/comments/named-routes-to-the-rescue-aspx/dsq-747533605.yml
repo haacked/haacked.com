@@ -1,0 +1,5 @@
+id: dsq-747533605
+date: 2010-11-27T09:50:48.0000000-08:00
+name: Joe Reynolds
+avatar: https://disqus.com/api/users/avatars/Joe Reynolds.jpg
+message: <p>What are the advantages of using Route Links or even Action Links over a plain old a href=<br>I have a lot of working code where I have used Action Links and href links almost interchangeably. Sloppy perhaps, but it looks like the advantage of Route Link is to avoid route confusion such as your piece suggests.<br>From a plain amount-of-typing standpoint, the href wins hands down.</p>

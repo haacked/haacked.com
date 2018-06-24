@@ -1,0 +1,5 @@
+id: dsq-747526081
+date: 2008-08-16T14:22:52.0000000-07:00
+name: Joe Chung
+avatar: https://disqus.com/api/users/avatars/Joe Chung.jpg
+message: <p>I was looking at the AuthorizeAttribute implementation in Preview 4, which looked good, but I didn't see a DeauthorizeAttribute implementation which would enable developers to deny access to ASP.NET MVC content based on their credentials, analogous to deny elements in the Web.config system.web/authorization element.  Maybe there's something like that post-Preview 4; I haven't checked yet.<br>Anyways, keep up the great work!  I'm looking forward to ASP.NET MVC RTW! :)</p>

@@ -1,0 +1,5 @@
+id: dsq-747521046
+date: 2007-06-13T12:58:43.0000000-07:00
+name: Damien Guard
+avatar: https://disqus.com/api/users/avatars/Damien Guard.jpg
+message: <p>IsNumeric(string something)<br>A vague name that doesn't signify whether it considers decimal places or numeric formatting valid. If it does it likely doesn't check for more than one decimal place indicator nor handle European number formats.<br>Once IsNumeric'ed caller probably wants to turn it into a number type resulting in a whole second, and likely different, check.<br>Just use Double.TryParse and Int.TryParse. <br>[)amien</p>

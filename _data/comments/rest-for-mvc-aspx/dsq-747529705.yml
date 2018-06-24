@@ -1,0 +1,5 @@
+id: dsq-747529705
+date: 2009-08-27T06:02:00.0000000-07:00
+name: PK
+avatar: https://disqus.com/api/users/avatars/PK.jpg
+message: "<p>@Ranamauro: Sure does! that's great :) :) Also, with conditional compilation constants, we could maybe get the best of both worlds :)<br>eg.<br>#if DEBUG<br>string json = JsonConvert.SerializeObject(this.Data, Formatting.Indented);<br>#else<br>string json = JsonConvert.SerializeObject(this.Data); // Assuming this is a legit method signature.<br>#endif<br>:P<br>(or even use IoC for the Json type, for those who are really hardcore).<br>thanks heaps Ranamauro! good stuff :)</p>"

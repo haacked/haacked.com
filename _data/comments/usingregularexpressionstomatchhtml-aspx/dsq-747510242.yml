@@ -1,0 +1,5 @@
+id: dsq-747510242
+date: 2008-07-22T13:00:35.0000000-07:00
+name: yuree
+avatar: https://disqus.com/api/users/avatars/yuree.jpg
+message: <p>I want to strip non digits and first digit, any one can help?<br><br>I use "/[^\d]/g" to remove non digits, but I want to remove first digit too, e.g.<br><br>23,185<br><br><br><br>by using "/[^\d]/g", i see 823185, but i want to trim first digit.<br><br><br><br>I just want to display "23185", any clue?</p>

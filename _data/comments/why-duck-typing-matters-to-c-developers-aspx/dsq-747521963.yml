@@ -1,0 +1,5 @@
+id: dsq-747521963
+date: 2007-09-24T08:22:41.0000000-07:00
+name: Ricardo Stuven
+avatar: https://disqus.com/api/users/avatars/Ricardo Stuven.jpg
+message: <p>While duck typing doesn't exactly match the concept of <a href="http://en.wikipedia.org/wiki/Structural_type_system" rel="nofollow noopener" title="http://en.wikipedia.org/wiki/Structural_type_system">structural subtyping</a>, I think they help to solve the same problems, as well summarized in the presentation "<a href="http://www.cs.cmu.edu/~donna/public/sssg_presentation_3.5.07.ppt" rel="nofollow noopener" title="http://www.cs.cmu.edu/~donna/public/sssg_presentation_3.5.07.ppt">Combining Structural and Nominal Subtyping</a>" by Donna Malayeri:<br>- Don't need to name [under different interfaces] all possible combinations of interesting methods.<br>- Don't need to specify that a class implements a particular interface ahead of time.<br>- Easy to later define new subsets of methods that are interesting.</p>

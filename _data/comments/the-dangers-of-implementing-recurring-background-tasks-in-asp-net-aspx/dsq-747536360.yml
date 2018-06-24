@@ -1,0 +1,5 @@
+id: dsq-747536360
+date: 2011-10-16T20:42:45.0000000-07:00
+name: kamranayub
+avatar: https://disqus.com/api/users/avatars/kamranayub.jpg
+message: <p>Currently this is what I do, but without the fancy app domain handling. I do exactly what David Crowell said, my hosting provider lets me schedule a "hit a URL and report back" task and I pass in a very long token (yah yah, security by obscurity) to help prevent people from just hitting the URL directly. Unfortunately, their username/password method just won't work with all the ways I tried so it has to be open for now. It works pretty good! I get a nightly email with the output of my tasks so I can see quickly if it failed or not.<br>Maybe if there was a cheap way to do start a background job (i.e. $1/month or something), I'd do that. My task runs between 20s-1min depending on the response time of the 3rd party service I use.</p>

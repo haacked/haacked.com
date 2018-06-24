@@ -1,0 +1,5 @@
+id: dsq-747510211
+date: 2007-10-10T18:01:19.0000000-07:00
+name: cioman
+avatar: https://disqus.com/api/users/avatars/cioman.jpg
+message: <p>&lt;/?[a-z][a-z0-9]*[^&lt;&gt;]*&gt;<br>can strip an html file off all tags.<br>Can we prevent it from searching the following tags:<br><a> <i> <b> <p> &lt;sup&gt;<br>The application of such a regex would be to preserve all the tags that make a structure of the text, with minimal formatting.<br>What would be better if one could replace 'i' with 'em' and 'b' with 'strong' (&lt;&gt; removed and '' placed instead, as the post was being messed up when I posted).<br>Any ideas??<br>Thanks, in advance.</p></b></i></a></p>

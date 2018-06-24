@@ -1,0 +1,5 @@
+id: dsq-747532003
+date: 2010-09-03T11:04:00.0000000-07:00
+name: Randy Roesler
+avatar: https://disqus.com/api/users/avatars/Randy Roesler.jpg
+message: "<p>Daniel, Chris: I also can not send Date(times) (formatted as)<br>\\/Date(ticks)\\/ in AJAX requests <br>The server always seem to receive '\"\\\\/Date(' rather than '\"\\/Date(' <br>I can not seem to get the extra (quoting) back-slash out of my javascript.</p>"

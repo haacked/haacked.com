@@ -1,0 +1,5 @@
+id: dsq-747528529
+date: 2010-07-15T14:01:05.0000000-07:00
+name: Ingo Lundberg
+avatar: https://disqus.com/api/users/avatars/Ingo Lundberg.jpg
+message: <p>The 2nd time you show post payload, it says<br>Amount=1000&amp;destinationAccountId=3<br>I thought it should say<br>Amount=1000&amp;destinationAccountId=2<br>2 == id of BadGuy<br>/ingo</p>

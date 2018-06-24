@@ -1,0 +1,5 @@
+id: dsq-747523379
+date: 2007-11-16T02:46:24.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>More complexity isn't always a bad thing if some of that complexity is automatically handled for you and helps you manage the complexity better.<br>Consider that MVC is more complicated that simply throwing a bunch of code together into a single component in the simplest way that works.<br>But MVC helps decompose and manage complexity at the cost of adding a slight bit of complexity.</p>

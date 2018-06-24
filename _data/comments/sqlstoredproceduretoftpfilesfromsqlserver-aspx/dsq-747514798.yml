@@ -1,0 +1,5 @@
+id: dsq-747514798
+date: 2007-03-30T00:39:53.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>Weird. If you look at the query, there's the following snippet.<br><code><br>create table #a (id int identity(1,1), s varchar(1000))<br>insert #a exec master..xp_cmdshell @cmd<br></code><br>The first line creates the temp table, the second line inserts into it. Not sure why that wouldn't work as part of a DTS package.</p>"

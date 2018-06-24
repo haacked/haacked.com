@@ -1,0 +1,5 @@
+id: dsq-747527382
+date: 2008-12-01T00:18:48.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Roy we are planning to start from scratch, but I still want to release incremental updates in the meanwhile. Some of the new work can be ported over to the rewrite. Doing a rewrite is a non-trivial task for an OSS project in which everybody has a day job and has to devote their free time to work on it. The point being that it will take a long time to get a rewrite release out.</p>

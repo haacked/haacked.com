@@ -1,0 +1,5 @@
+id: dsq-747536291
+date: 2011-10-10T16:58:43.0000000-07:00
+name: Kazi Manzur Rashid
+avatar: https://disqus.com/api/users/avatars/Kazi Manzur Rashid.jpg
+message: <p>Two Questions:?<br>1. Why not put the token in the html meta like rails and use the jQuery ajaxSetup/Send to auto inject the value instead of doing the same for each form?<br>2. How does it would work when you need to support both adaptive rendering or more specifically ajax will be used when js is turned on and regular from post when off?</p>

@@ -1,0 +1,5 @@
+id: dsq-747517328
+date: 2006-10-18T19:52:18.0000000-07:00
+name: AsbjornM
+avatar: https://disqus.com/api/users/avatars/AsbjornM.jpg
+message: <p>I don't care about which is faster, especially then the difference is so low. <br>However, I DO care about readability and maintanability, and I cannot say that your last query is more readable than the former one. (I think you made an typo there though :) )<br>Anyway, If you are concerned about "getting the parameter names correct", then, why are you not concerned about getting them in right order?, What if you have optional parameters?<br>Other takes on this could be interresting, like, using SubSonic or equal tools to generate sp wrapper code, so you could instead use strongly typed parameters when calling an given sp, that I think would be even better, and then I don't care about how things are done within that method, since it should always be in sync with the sp in the database (given that no-one is changing the database without notifying the developer)<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747510145
+date: 2004-11-04T23:28:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I found a mistake. For some reason my blogging engine capitalized some characters. Also, if a tag is on multiple lines, the expression above is broken. Here's my updated one. <br><br><br><br>&lt;/?\w+((\s+\w+(\s*=\s*(?:"(.|\n)*?"|'(.|\n)*?'|[^'"&gt;\s]+))?)+\s*|\s*)/?&gt;</p>

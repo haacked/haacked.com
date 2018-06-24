@@ -1,0 +1,5 @@
+id: dsq-747527905
+date: 2009-01-30T05:34:52.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Ricky I updated the post since you last commented. Note that I'm now submitting the original form (yes, I tested this). That allows me to use the anti-forgery helpers, like you suggested. Thanks for the feedback!</p>

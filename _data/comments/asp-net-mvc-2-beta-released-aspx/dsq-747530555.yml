@@ -1,0 +1,5 @@
+id: dsq-747530555
+date: 2009-11-18T09:06:00.0000000-08:00
+name: Chris
+avatar: https://disqus.com/api/users/avatars/Chris.jpg
+message: <p><br>@Soe, It seems the MSI install doesn't include MicrosoftMvcJQueryValidation.js, I had to grab it from the source code download. <br>@Phil, In regards to the "Areas", the right click "Add Area" command is super awesome - only problem I had was that I immediately ran into the "The controller name 'Home' is ambiguous between the following types" when I made the second home controller.  <br>I knew the solution (add the namespace parameter to the route configs in case anybody else is wondering), but I'm just wondering if there is any plan to have the automatically generated "RegisterRoutes" templates include the namespace parameter by default? This might just make it a more usable feature for people just getting started. <br></p>

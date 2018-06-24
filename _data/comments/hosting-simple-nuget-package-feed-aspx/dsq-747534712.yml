@@ -1,0 +1,5 @@
+id: dsq-747534712
+date: 2011-04-02T04:50:08.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Betty Just have multiple sites. It's pretty easy.<br>@Daniel I don't think we support authenticated feeds. One way you could do it is to use Basic authentication with HTTPS and supply the authentication information in the URL. Hacky and ugly, I know. Just haven't had a large number of requests for it.<br>There is a bug in our backlog on this: <a href=\"http://nuget.codeplex.com/workitem/366\" rel=\"nofollow noopener\" title=\"http://nuget.codeplex.com/workitem/366\">http://nuget.codeplex.com/workitem/366</a></p>"

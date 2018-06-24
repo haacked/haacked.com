@@ -1,0 +1,5 @@
+id: dsq-747524857
+date: 2008-04-30T20:22:38.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: '<p>Is there a way to tell routes to ignore period as a separator in a certain part of a url?  For instance:<br><a href="http://whatever.com/files/" rel="nofollow noopener" title="http://whatever.com/files/">http://whatever.com/files/</a>{filename}<br>method: DELETE<br>to delete a certain file?</p>'

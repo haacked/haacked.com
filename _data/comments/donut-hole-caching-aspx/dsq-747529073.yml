@@ -1,0 +1,5 @@
+id: dsq-747529073
+date: 2010-05-17T16:10:03.0000000-07:00
+name: Ciaran
+avatar: https://disqus.com/api/users/avatars/Ciaran.jpg
+message: <p>I downloaded and ran the sample but I'm a little confused. If I click refresh the cached date doesn't change as expected but yet a call is made to the Controller Action. Does this mean that a call is still made to the repository to retrieve the data?</p>

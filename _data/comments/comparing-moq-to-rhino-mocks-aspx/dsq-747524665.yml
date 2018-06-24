@@ -1,0 +1,5 @@
+id: dsq-747524665
+date: 2008-03-24T00:19:45.0000000-07:00
+name: Jeremy Gray
+avatar: https://disqus.com/api/users/avatars/Jeremy Gray.jpg
+message: "<p>@tgmbdm - Just to weigh in alongside Oran so it is clear that he is not alone in his feelings, re: \"In Moq, there really is no record/replay, you can setup some expectations, use mock.Object, setup more expectations, and use mock.Object again.\" that's not a feature, that is a code smell.<br>While I'm not a hardline \"one assertion per test\" type of person (I tend to think that one _group_ of logically-associated assertions per test is a good aim), the only time you're going to switch back into record mode is in a test that makes multiple sets of logically-associated assertions. Mocking frameworks should, if anything, make the switch back into record mode require even more effort and result in even more visible code smells.</p>"

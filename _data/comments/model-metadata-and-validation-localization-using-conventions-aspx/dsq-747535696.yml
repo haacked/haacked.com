@@ -1,0 +1,5 @@
+id: dsq-747535696
+date: 2011-07-15T03:18:12.0000000-07:00
+name: John Teague
+avatar: https://disqus.com/api/users/avatars/John Teague.jpg
+message: <p>OR<br>You could just use FluentValidation which is far more appropriate for MVC apps than dataannotations anyway.</p>

@@ -1,0 +1,6 @@
+id: dsq-2754574137
+replyToId: dsq-2414851445
+date: 2016-06-28T03:16:31.0000000-07:00
+name: Nyerguds
+avatar: https://disqus.com/api/users/avatars/maartenmeuris.jpg
+message: <p>These "primitive type" shortcuts have nothing to do with immutability (or nullability, as I've seen in some other comments around here too), though.</p><p>Besides the special case of using "ref", immutability is the only factor that really determines whether a called function gets copies or references to originals.</p><p>Plain fact is, there's not a single type in C# that doesn't have functions to call on it, making them <i>all</i> classes. The very concept of "primitive types" is simply obsolete, and code would be a lot cleaner if they were never used at all.</p>

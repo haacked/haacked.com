@@ -1,0 +1,5 @@
+id: dsq-747512191
+date: 2007-10-15T09:52:36.0000000-07:00
+name: Glenn Belardo
+avatar: https://disqus.com/api/users/avatars/Glenn Belardo.jpg
+message: <p>Hi Haacked,<br>I was actually trying this with the code below:<br>Thread.GetDomain().SetData(".appPath", "C:\\testfolder\\Codes\\")<br>            Thread.GetDomain().SetData(".hostingVirtualPath", "http://localhost")<br>            Thread.GetDomain().SetData(".hostingInstallDir", HttpRuntime.AspInstallDirectory)<br>            Dim tw As TextWriter = New StringWriter()<br>            Dim wr As HttpWorkerRequest = New SimpleWorkerRequest("default.aspx", "", tw)<br>            HttpContext.Current = New HttpContext(wr)<br>But it seems that it give me a build error that says HttpContext.Current property is a read-only. So I thought that it is not possible. I'll appreciate if you could tell me how come I got this error. Is there something that I am missing here?</p>

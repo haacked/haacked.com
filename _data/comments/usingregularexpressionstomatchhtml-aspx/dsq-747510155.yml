@@ -1,0 +1,5 @@
+id: dsq-747510155
+date: 2005-04-13T22:30:00.0000000-07:00
+name: Adrian
+avatar: https://disqus.com/api/users/avatars/Adrian.jpg
+message: <p>Can anyone help me out? I'm trying to build a regular expression to validate an SQL full text query. So something like:<br><br><br><br>"cable television" and "wireless bluetooth" OR "3G"<br><br><br><br>to ensure all booleans operators are outside quotes, and all text is in quotes. <br><br><br><br>Is this possible with a regular expression? or the wrong approach?<br><br><br><br>Cheers!<br><br>adrian</p>

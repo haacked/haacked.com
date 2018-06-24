@@ -1,0 +1,5 @@
+id: dsq-747532980
+date: 2012-08-14T11:20:14.0000000-07:00
+name: dotnetchris
+avatar: https://disqus.com/api/users/avatars/dotnetchris.jpg
+message: <p>This is such a gigantic failure on the part of the C# compiler / JIT team.<br>These changes should be non breaking. It should just pick the closest method unless it really has no choice at all.</p>

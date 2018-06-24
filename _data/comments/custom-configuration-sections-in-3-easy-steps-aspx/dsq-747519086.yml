@@ -1,0 +1,5 @@
+id: dsq-747519086
+date: 2007-10-11T01:52:36.0000000-07:00
+name: Ben
+avatar: https://disqus.com/api/users/avatars/Ben.jpg
+message: <p>In my case, this always returns NULL.  private static BlogSettings settings <br>= ConfigurationManager.GetSection("BlogSettings") as BlogSettings;<br>I do not know why and havn't a clue how to troubleshoot it.  <br></p>

@@ -1,0 +1,5 @@
+id: dsq-747519129
+date: 2007-03-12T22:27:47.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@rams: Good point. The alternative to TDD was that developers were supposed to write up a spec and manually unit test every method. <strong>supposed to</strong> but never did.<br>@J. Irvine - good point. TDD is not a panacea as rams says, and no respectable TDD person claims that. I can't stress this enough. There are 2 primary benefits of TDD.<br>1. Improve the design and quality of your code<br>2. Repeatable automated regression tests of your code.<br>That doesn't mean #2 will catch everything. But believe me, if you find a bug, you write a test that should pass but fails because of the bug, and then fix the bug. You'll pretty much never encounter that bug again.</p>"

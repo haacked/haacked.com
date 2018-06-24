@@ -1,0 +1,5 @@
+id: dsq-747534668
+date: 2011-11-29T16:58:23.0000000-08:00
+name: Thiago Lang
+avatar: https://disqus.com/api/users/avatars/Thiago Lang.jpg
+message: <p>Hi,<br>Great post! But still, I don't know if I'm the only one that is having some problem with this but I just wanted for the Decimal model binder to accept both Comma and Dot as a decimal separator. Depending only of the user's input. If the User inputs a decimal value like this "1.1" or like this "1,1" the app would understand both standards. How can I do that?<br>Thanks in advance.</p>

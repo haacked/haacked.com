@@ -1,0 +1,5 @@
+id: dsq-2415199287
+date: 2015-12-17T18:21:39.0000000-08:00
+name: Ian Yates
+avatar: https://disqus.com/api/users/avatars/MrIanYates.jpg
+message: <p>I completely agree.  I've never even thought of doing string.isNullOrEmpty() - it just feels wrong.  It shouldn't matter but IMHO it does :D<br>I also tend to have a stringExtensions.cs which turns many of these <a href="http://string.xxx" rel="nofollow noopener" title="string.xxx">string.xxx</a> calls into "<a href="http://myString.xxx" rel="nofollow noopener" title="myString.xxx">myString.xxx</a>() extension methods anyway so I don't run into it too much in practice.</p><p>There are always fun exceptions though.  I'd do Dictionary&lt;string, string=""&gt; rather than Dictionary&lt;string, string=""&gt; I *think*.  Return types from a method are always string, not String.  Same goes for parameters.</p>

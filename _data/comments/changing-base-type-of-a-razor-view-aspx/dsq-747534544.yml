@@ -1,0 +1,5 @@
+id: dsq-747534544
+date: 2012-02-10T16:14:28.0000000-08:00
+name: Evan Larsen
+avatar: https://disqus.com/api/users/avatars/Evan Larsen.jpg
+message: <p>Thanks a lot Phil! I was looking everywhere on how to do this. I ended up using ILSpy on the RazorViewEngine to figure out that its initializing the helpers in the WebViewPage.  After finding the correct terminology and using Bing. I found this page. Exactly what I was looking for.  Thanks again.</p>

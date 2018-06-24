@@ -1,0 +1,5 @@
+id: dsq-747536029
+date: 2011-08-21T09:08:58.0000000-07:00
+name: Sam
+avatar: https://disqus.com/api/users/avatars/Sam.jpg
+message: "<p>I really like this. I don't see that it \"reinvents\" backbone or whatever. This is bridging the gap between client and server in nice, zero effort way.<br>FYI<br>Deprecation Notice: The jqXHR.success(), jqXHR.error(), and jqXHR.complete() callbacks will be deprecated in jQuery 1.8. To prepare your code for their eventual removal, use jqXHR.done(), <br><a href=\"http://jqXHR.fail\" rel=\"nofollow noopener\" title=\"jqXHR.fail\">jqXHR.fail</a>(), and jqXHR.always() instead.</p>"

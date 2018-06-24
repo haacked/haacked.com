@@ -1,0 +1,5 @@
+id: dsq-747520363
+date: 2007-12-02T19:23:02.0000000-08:00
+name: AliM
+avatar: https://disqus.com/api/users/avatars/AliM.jpg
+message: <p>I was frustrated by the same problem and the following solution worked for me... <br>Can you check if you have leftover directory for pe-release version of framework in %windir%\Microsoft.Net\Framework (anything like v2.0.* other than v2.0.50727) - if so, delete those directories and restart the app-pool. <br><br>Thanks</p>

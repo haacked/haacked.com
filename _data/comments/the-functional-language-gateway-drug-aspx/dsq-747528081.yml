@@ -1,0 +1,5 @@
+id: dsq-747528081
+date: 2009-03-01T17:03:48.0000000-08:00
+name: Rob
+avatar: https://disqus.com/api/users/avatars/Rob.jpg
+message: "<p>I looked at the comments to say the same as Chris Hynes; the problem isn't that you're programming imperatively, the problem is you're using a switch where you don't need to: inside a while loop when you know that options will gradually be eliminated. <br>You could do it in 4 lines (IRL you'd add 4 for formatting, though, and 1 more to pull out \"slug + String.Format(s, separator)\" into a temp var). But here it is (half of this is Mr Hynes' - I take no credit!):<br><code><br>string EnsureUniqueSlug(string slug, string separator) {<br>string[] suffixFormats = new[] { string.Empty, \"{0}Again\", \"{0}Yet{0}Again\", \"{0}And{0}Again\", \"{0}Once{0}Again\", \"{0}Once{0}More\", \"{0}To{0}Beat{0}A{0}Dead{0}Horse\" };<br>foreach (string s in suffixFormats) if (Repository.GetEntry(slug + String.Format(s, separator)) == null) return slug + String.Format(s, separator);<br>}<br></code></p>"

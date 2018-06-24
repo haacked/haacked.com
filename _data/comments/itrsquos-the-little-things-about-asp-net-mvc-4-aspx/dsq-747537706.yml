@@ -1,0 +1,5 @@
+id: dsq-747537706
+date: 2012-05-02T12:16:51.0000000-07:00
+name: Tom McKearney
+avatar: https://disqus.com/api/users/avatars/Tom McKearney.jpg
+message: <p>Though WCF Web Api has eliminated most of the need for your McvHaack.Ajax library, there is still the need to get the "root" url of the application into your Javascript modules, unless I'm missing something.<br>I guess this could be done with some "global" property though</p>

@@ -1,0 +1,5 @@
+id: dsq-747534986
+date: 2011-04-16T23:16:41.0000000-07:00
+name: Paul
+avatar: https://disqus.com/api/users/avatars/valmont33.jpg
+message: '<p>Does this solution preform better then just doing:<br>&lt;ul&gt;<br>@foreach(var item in Model) {<br> &lt;li&gt;@Model.IndexOf(item) index of @(Model.Count() - 1) : @item.title&lt;/li&gt;<br>}<br>&lt;/ul&gt;<br>Thanks.</p>'

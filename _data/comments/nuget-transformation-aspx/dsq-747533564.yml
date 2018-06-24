@@ -1,0 +1,5 @@
+id: dsq-747533564
+date: 2010-11-19T05:59:28.0000000-08:00
+name: Martin
+avatar: https://disqus.com/api/users/avatars/Martin.jpg
+message: <p>I really find the Transformations annoying.<br>Mostly because its reformats the entire config file.<br>Also I already had Elmah added so it added double registrations everywhere.<br>Could you please rename the package.config file to be named with a capital P (in "Package") ?<br>All other files created (Web.Config, Global.asax ...) are starting with a capital letter.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747519241
+date: 2008-07-29T22:27:36.0000000-07:00
+name: Nariman Haghighi
+avatar: https://disqus.com/api/users/avatars/Nariman Haghighi.jpg
+message: <p>I'm finding it difficult to see the rational behind not allowing control state to be selectively disabled on the ListControl suite. Take a CheckBoxList that has a 100+ elements. <br>Why should the control state be pushed to the client if you're not interested in eventing? With the composite naming convention, we’re looking at 40K per trip for no reason…<br>The control should be able to re-apply post data without issue so long as we're binding it before LoadPostData is invoked?<br>More curiously, I'm finding that neither LoadControlState or SaveControlState are even called on a CheckBoxList override that includes no events! What a waste!!<br></p>

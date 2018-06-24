@@ -1,0 +1,5 @@
+id: dsq-747534556
+date: 2011-02-27T03:59:36.0000000-08:00
+name: Skywalker
+avatar: https://disqus.com/api/users/avatars/Skywalker.jpg
+message: <p>Cool!! That's actually really poweful and helps creating reusable b("Templated") helpers! What's even more fun is that with this we can write HTML helpers that accept multiple delegates, where each delegate represents user-controlled rendering of certain parts of some widget being rendered. I have been waiting for this since MVC 1.0. Now it's easy. Way to go, Razor!</p>

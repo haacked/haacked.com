@@ -1,0 +1,6 @@
+id: dsq-1118512323
+replyToId: dsq-1118388196
+date: 2013-11-11T12:04:40.0000000-08:00
+name: Frank Quednau
+avatar: https://disqus.com/api/users/avatars/fquednau.jpg
+message: <p>the count on repeat is unnatural in the context of IEnumerables - indeed an IEnumerable has no notion of count or finiteness. Any ToArray, executed on some Entity Query or whatever underlying expression interpreter is running, can wreak havoc in your AppDomain. It is good to shield your fellow devs from harm, but in my opinion this should not come at the cost of expressiveness.</p>

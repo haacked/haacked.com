@@ -1,0 +1,5 @@
+id: dsq-747526870
+date: 2008-12-23T14:14:37.0000000-08:00
+name: BorisCallens
+avatar: https://disqus.com/api/users/avatars/BorisCallens.jpg
+message: <p>I must be missing something.<br>I have an action method with the same [OutputCache(Duration = 60, VaryByParam = "None")] attribute.<br>Then in my master there is a "Welcome[Username]" string that obviously should vary if a new user logged in, so I put &lt;%= Html.Substitute(c =&gt; String.Format(ViewData.Model.T9nProvider.TranslateById("CommonWeb.Welcome"), Context.User.Identity.Name)) %&gt;<br>And then put a breakpoint there.<br>First time everything runs smoothly. Second time round, it never even hits the method (because it is fetched from cache I presume.<br>What am I missing?<br></p>

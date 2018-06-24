@@ -1,0 +1,5 @@
+id: dsq-747537922
+date: 2012-04-09T14:29:39.0000000-07:00
+name: Dave
+avatar: https://disqus.com/api/users/avatars/Dave.jpg
+message: '<p>Correction: <br>"This way introduces concurrency by executing SavePlacement on a pooled thread, but it ensures that no older data will ever overwrite previous data."<br>- should have been -<br>"This way introduces concurrency by executing SavePlacement on a pooled thread, but it ensures that no older data will overwrite newer data."</p>'

@@ -1,0 +1,5 @@
+id: dsq-747524797
+date: 2008-04-09T17:09:09.0000000-07:00
+name: Freek Leemhuis
+avatar: https://disqus.com/api/users/avatars/Freek Leemhuis.jpg
+message: <p>I'm assuming most of you use NUnit or some alternative, but if you're using the build-in test framework in Visual Studio, you are actually required to place your unit test in a separate assembly ('test project'), so there's no way you'd mix in your unit tests with your code.</p>

@@ -1,0 +1,5 @@
+id: dsq-747531560
+date: 2010-02-04T21:40:59.0000000-08:00
+name: Brian Chance
+avatar: https://disqus.com/api/users/avatars/Brian Chance.jpg
+message: <p>Not sure where we are supposed to leave feedback, I posted an issue on the forums a few days ago regarding ModelBinding and ConvertEmptyStringToNull being true by default which changes the current 1.0 behavior without any mention. It would be great to be able to override it (see comments on forum).<br><a href="http://forums.asp.net/p/1522119/3663022.aspx" rel="nofollow noopener" title="http://forums.asp.net/p/1522119/3663022.aspx">http://forums.asp.net/p/1522119/3663022.aspx</a></p>

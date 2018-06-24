@@ -1,0 +1,5 @@
+id: dsq-747527114
+date: 2008-11-18T04:15:45.0000000-08:00
+name: mike kidder
+avatar: https://disqus.com/api/users/avatars/mike kidder.jpg
+message: <p>Phil, <br>Question on the subject of helpers and markup. I just noticed yesterday that in passing a string like "<span>Home</span>" into html.actionLink it gets encoded.<br>Any alternatives other than using straight html. A CSS template I am trying to use need "li,a,span" (not sure if angle brackets work in your comments) in that order.</p>

@@ -1,0 +1,5 @@
+id: dsq-747536371
+date: 2011-10-17T15:51:43.0000000-07:00
+name: Rob Kent
+avatar: https://disqus.com/api/users/avatars/Rob Kent.jpg
+message: <p>I've used a background thread in the past and am about to do it again :) purely because I cannot install a Windows service on my ASP hosting site. <br>I might just link the process-check to normal user activity, because if nobody is using the site, why should I care that the scheduler has not run?<br>Thanks for the good tips for making it more resilient though.</p>

@@ -1,0 +1,5 @@
+id: dsq-747535674
+date: 2012-01-08T22:13:44.0000000-08:00
+name: Smith
+avatar: https://disqus.com/api/users/avatars/Smith.jpg
+message: <p>I always consider performance one of the most important factor of a good website, so I want mvc4 can improve on that, for example, it can provide simple option to choose aspx or cshtml <br>file to find when render the view instead of trying to find them all if one cannot be found, after all, no one would use the two on the same project. BTW, I found the simple use register process is too slow!</p>

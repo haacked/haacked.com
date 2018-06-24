@@ -1,0 +1,5 @@
+id: dsq-747508145
+date: 2005-04-06T13:28:00.0000000-07:00
+name: John Lanpheer
+avatar: https://disqus.com/api/users/avatars/John Lanpheer.jpg
+message: "<p>I realize this is an old thread, but maybe someone will see it.  <br><br><br><br>One alternative for some special cases: If your classes implement an interface defined in a separate DLL, you can create the class via remoting, and call the methods through the interface.  I haven't tried it, but it should work...<br><br><br><br>Ian, if you see this, my best to Glyn.</p>"

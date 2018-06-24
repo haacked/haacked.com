@@ -1,0 +1,5 @@
+id: dsq-747533617
+date: 2010-11-25T11:29:42.0000000-08:00
+name: Alxandr
+avatar: https://disqus.com/api/users/avatars/Alxandr.jpg
+message: "<p>Intresting post. Just thought I'dd point out that I do think you have a typo: \"mock.Setup(r =&gt; r.GetNext()\" should probably be \"mock.Setup(r =&gt; r.GetNext())\"</p>"

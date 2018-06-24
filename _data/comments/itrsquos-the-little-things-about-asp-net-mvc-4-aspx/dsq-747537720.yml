@@ -1,0 +1,5 @@
+id: dsq-747537720
+date: 2012-08-23T12:20:39.0000000-07:00
+name: Josh
+avatar: https://disqus.com/api/users/avatars/Josh.jpg
+message: <p>Brian, Tiendng, all,<br>I found this similar issue being asked on Stackoverflow (<a href="http://stackoverflow.com/a/10855037" rel="nofollow noopener" title="http://stackoverflow.com/a/10855037">http://stackoverflow.com/a/10855037</a>)<br>Brad Wilson's sample code (<a href="https://gist.github.com/2417226" rel="nofollow noopener" title="https://gist.github.com/2417226">https://gist.github.com/2417226</a>) helps with the resolving. Inside the <code>CreateKernel()</code> and after the <code>var kernel</code> has been instantiated, you can call the following:<br><code><br>System.Web.Http.GlobalConfiguration.Configuration.DependencyResolver = new NinjectDependencyResolver(kernel);<br></code><br>Hope this helps!</p>

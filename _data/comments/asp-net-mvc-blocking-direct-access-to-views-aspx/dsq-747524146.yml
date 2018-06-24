@@ -1,0 +1,5 @@
+id: dsq-747524146
+date: 2008-02-11T21:59:42.0000000-08:00
+name: Chris Ortman
+avatar: https://disqus.com/api/users/avatars/Chris Ortman.jpg
+message: <p>I think you will also need to be using an IIS wildcard mapping or make sure that whatever extension your views use is mapped to the ASP.Net ISAPI dll.</p>

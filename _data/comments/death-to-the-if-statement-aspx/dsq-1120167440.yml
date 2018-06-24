@@ -1,0 +1,6 @@
+id: dsq-1120167440
+replyToId: dsq-1118199236
+date: 2013-11-12T12:50:46.0000000-08:00
+name: Bopdji Shah
+avatar: https://disqus.com/api/users/avatars/bopdjishah.jpg
+message: <p>You forgot the DJNZ, which tells the CPU to continue doing something in a loop while a count is being decremented.</p>

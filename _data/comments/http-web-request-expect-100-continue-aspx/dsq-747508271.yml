@@ -1,0 +1,5 @@
+id: dsq-747508271
+date: 2007-05-16T19:44:52.0000000-07:00
+name: coollil7
+avatar: https://disqus.com/api/users/avatars/coollil7.jpg
+message: "<p>Hi all, <br>Thanks for this helpful forum. I've been facing the problem of POST for a long time. Now i have tried disabling the Expect100Continue.  But I'm having another error now. It says :<br>Server error in '/melatWSite' application: the state information is invalid for this page and might be corrupted.<br>melatWSite is my ASP.NET Web application.<br>I have a Proxy build in C# and i'm trying to access my own created web application from this developed proxy. When it receives GET messages it works but with POST it does.<br>Can anyone help me in this please, cause i'm really stuck.<br>Tnks in advance</p>"

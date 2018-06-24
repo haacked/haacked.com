@@ -1,0 +1,5 @@
+id: dsq-747530623
+date: 2009-11-19T00:15:00.0000000-08:00
+name: born2code
+avatar: https://disqus.com/api/users/avatars/born2code.jpg
+message: <p>so i have been doing this for a while now by simply using jquery to call my PartialResult controller method and setting the html with the PartialView that comes back.<br>does the exact same thing with the added benefit of async loading the partial view, without having to rely on a separate RenderAction method.<br></p>

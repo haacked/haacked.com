@@ -1,0 +1,5 @@
+id: dsq-747525335
+date: 2009-03-24T21:55:43.0000000-07:00
+name: Brad
+avatar: https://disqus.com/api/users/avatars/Brad.jpg
+message: <p>I am getting the following:<br>'System.Web.HttpRequestBase' does not contain a definition for 'IsMvcAjaxRequest'.........<br><br>Is this a known issue?  Fix?<br></p>

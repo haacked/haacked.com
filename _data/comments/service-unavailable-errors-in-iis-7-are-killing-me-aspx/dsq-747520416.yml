@@ -1,0 +1,5 @@
+id: dsq-747520416
+date: 2012-11-19T12:23:55.0000000-08:00
+name: Erzsebet
+avatar: https://disqus.com/api/users/avatars/Erzsebet.jpg
+message: '<p>Replacing for the web application in IIS<br>  Enabled protocols: net.tcp;http;https<br>with<br>  Enabled protocols: http<br>helped  me, Service Unavailable 503 disappeared<br></p>'

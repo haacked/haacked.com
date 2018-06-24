@@ -1,0 +1,5 @@
+id: dsq-747525030
+date: 2008-05-05T01:13:17.0000000-07:00
+name: Jason Simone
+avatar: https://disqus.com/api/users/avatars/Jason Simone.jpg
+message: <p>Scott,<br>Why would you want your view to be dependent on client-side script - especially when it doesn't need to be? You say it's widely agreed that this is best practice so I'm really curious to see why. To me that defeats the whole idea of keeping your View nice and straightforward.<br>Working for government, our paranoid techs distribute a lot of PCs with JavaScript turned off so it is of particular concern to me to choose where I use it wisely. I would never mix the initial presentation state of my page with client-script if I can easily avoid it. But perhaps I also just have a fear of mixing too much into client-script because I still find it much more difficult to organize than views in a nice MVC site.</p>

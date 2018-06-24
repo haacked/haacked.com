@@ -1,0 +1,5 @@
+id: dsq-747510526
+date: 2004-12-08T05:46:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Well I haven't implemented this process, I'm merely blogging about it.  Granted that will be a problem if two RSS users subscribe to the same feed from the same office.  <br><br><br><br>However, the point of the article is that many aggregators are not honoring TTL headers etc...<br><br><br><br>Perhaps the best solution is to only throttle on users using those aggregators.  This will force the aggregators to fix the problem.</p>

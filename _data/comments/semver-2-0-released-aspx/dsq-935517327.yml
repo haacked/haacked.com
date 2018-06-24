@@ -1,0 +1,6 @@
+id: dsq-935517327
+replyToId: dsq-935502979
+date: 2013-06-19T09:24:46.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>&gt; In SemVer 1.0, "1.0.0+a" &lt; "1.0.0+b". Now they're<br>&gt; equivalent. Another breaking change.</p><p>Actually, these are invalid according to SemVer 1.0.0. The build metadata wasn't added until after 1.0.0.</p><p>But yeah, I agree with everything you said here.</p>

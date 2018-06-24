@@ -1,0 +1,5 @@
+id: dsq-747530716
+date: 2010-01-15T18:03:33.0000000-08:00
+name: Miguel Madero
+avatar: https://disqus.com/api/users/avatars/Miguel Madero.jpg
+message: <p>@John, <br>I think that to do the DataDriven validation you can expose the metadata based on it. As you can see, we're getting the ControllerContext as a constrcutor parameter. This makes me thing (you might have to test it), that we'll have a new instance of the DataAnnotationsModelValidator per controller (or per attribute, which would still be good for your scenario) and the GetValidationRules methods will get called for each attribute it finds in the model. <br>Being that case, you can check the user role and return the metadata that applies for them instead of from some values defined at compile time in the attribute from somewhere in the Database (or cached) from any configuration source you define.</p>

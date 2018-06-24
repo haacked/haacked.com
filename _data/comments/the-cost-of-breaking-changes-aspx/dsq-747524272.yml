@@ -1,0 +1,5 @@
+id: dsq-747524272
+date: 2008-03-03T18:39:38.0000000-08:00
+name: Karthik Hariharan
+avatar: https://disqus.com/api/users/avatars/Karthik Hariharan.jpg
+message: <p>The issue you brought up with third party libraries breaking is valid, but ultimately I think such issues need to be addressed by the third party vendor and they should stay on top of any framework changes to make sure their customers aren't stuck in a bind.<br>If testability is the number one reason for MVC, then I think it is reasonable to expect vendors to make their libraries more testable and hence expose any breaking changes sooner so they can get the fixes out to their customers more quickly.<br>Thats the whole point of TDD, right? Quickly pinpoint failures and fix them with the confidence that you have test coverage to back you up :)</p>

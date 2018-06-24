@@ -1,0 +1,5 @@
+id: dsq-747515529
+date: 2006-07-04T23:09:00.0000000-07:00
+name: Cold Chilli
+avatar: https://disqus.com/api/users/avatars/Cold Chilli.jpg
+message: <p>Once you allow objects into your data, you now need proprietary application to translate(Import/Export) the data. Rather than SQL.<br>Every time I've had XML or serialized objects in the database or simplify the storage; I've been later burned by the need to query the data.</p>

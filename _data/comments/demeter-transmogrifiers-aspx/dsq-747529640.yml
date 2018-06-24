@@ -1,0 +1,5 @@
+id: dsq-747529640
+date: 2009-08-16T08:03:00.0000000-07:00
+name: Justin Pitts
+avatar: https://disqus.com/api/users/avatars/Justin Pitts.jpg
+message: <blockquote>It seems it’s fair to say that for a statically typed language, an object has knowledge of the inner workings of another object of the same type.</blockquote><p><br>Except, of course, for subtypes. Then that knowledge is somewhat less perfect.</p>

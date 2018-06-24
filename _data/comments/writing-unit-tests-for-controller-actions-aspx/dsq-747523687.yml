@@ -1,0 +1,5 @@
+id: dsq-747523687
+date: 2007-12-09T19:05:35.0000000-08:00
+name: Bill Barry
+avatar: https://disqus.com/api/users/avatars/Bill Barry.jpg
+message: <p>I have been testing with that pattern for some time now; it is often shorter and easier to use than mocking. As a general rule, if you have to mock more than one object a test specific class is easier to follow and usually shorter.<br>I wouldn't recommend to use this class instead of mocking, rather I would say to use it alongside mocking to further enhance your tests. Even in classes which are designed as elegantly testable, sometimes the necessary logic gets complex enough (for example because of <a href="http://www.codinghorror.com/blog/archives/001015.html" rel="nofollow noopener" title="http://www.codinghorror.com/blog/archives/001015.html">correct algorithms instead of naive ones like Jeff Atwood has been talking about</a>) where you would be required to mock 2 or 3 of the dependencies in order to adequately test the function. Always use the right tool for the job. Sometimes mocks are; sometimes subclasses are.</p>

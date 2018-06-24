@@ -1,0 +1,5 @@
+id: dsq-747531971
+date: 2010-04-15T01:12:38.0000000-07:00
+name: Sergejus
+avatar: https://disqus.com/api/users/avatars/Sergejus.jpg
+message: <p>Phill,<br>I would also suggest for the getPage() function to use jQuery serialize method (<a href="http://api.jquery.com/serialize" rel="nofollow noopener" title="http://api.jquery.com/serialize">http://api.jquery.com/serialize</a>) instead of doing .val() manually.</p>

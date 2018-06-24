@@ -1,0 +1,5 @@
+id: dsq-747523541
+date: 2007-12-04T14:53:42.0000000-08:00
+name: commenter
+avatar: https://disqus.com/api/users/avatars/commenter.jpg
+message: <p>"If you are defining the spec down to the function level you have already lost the battle."<br>Why are arrogant programmers so keen on this kind of irrelevant nit picking? <br><br>"And, yes, if you completely spec what the function will return (and what it will NOT return) you will have basically written that function."<br>So if I write 'this function will take a public key and calculate the corresponding private key in &lt;1 second on yer average PC', I've 'basically written the function'?<br>Obviously I've missed the language that'll implement that for me - sounds like a real silver bullet for productivity.<br>The point is that you could exhaustively spec out the behaviour you wanted from a program and:<br>1) It might even be impossible to implement.<br>2) There wouldn't necessarily be a way to automatically transform that spec into executable code (unless you count having humans write the code as being an automated process)<br>I await your glib, point-missing response. :)</p>

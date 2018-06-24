@@ -1,0 +1,5 @@
+id: dsq-747532869
+date: 2010-08-02T07:43:31.0000000-07:00
+name: Brian Donahue
+avatar: https://disqus.com/api/users/avatars/Brian Donahue.jpg
+message: <p>This seems like a pretty bad violation of SoC to me... even though you don't execute your lambda in your controller, you are defining it there, which is making the code more complex/harder to read.<br>I know it's just sample code, but I think it's an example of "dynamic abuse" here.  That rendering logic should live in the view, probably in a view helper class.   I can't think of a good reason to add dynamic methods to a view model, not that means there isn't one - but it seems to me controller logic belongs in the controller, and view logic belongs in the view, and the ViewModel should just be a dumb model.</p>

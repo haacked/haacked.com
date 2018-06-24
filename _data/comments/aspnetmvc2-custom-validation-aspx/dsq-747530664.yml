@@ -1,0 +1,5 @@
+id: dsq-747530664
+date: 2009-11-19T15:01:00.0000000-08:00
+name: Alper Ozcetin
+avatar: https://disqus.com/api/users/avatars/Alper Ozcetin.jpg
+message: '<p>@Phil;<br>    public class UniqueNameAttribute : ValidationAttribute<br>    {<br>        public override bool IsValid(object value)<br>        {<br>            string str = (string)value;<br>            if (String.IsNullOrEmpty(str))<br>                return true;<br>            using (XDataContext vt = new XDataContext())<br>            {<br>                return !(vt.Users.Where(x =&gt; x.Username.Equals(str)).Any());<br>            }<br>        }<br>    }<br></p>'

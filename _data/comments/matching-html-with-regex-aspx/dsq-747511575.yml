@@ -1,0 +1,5 @@
+id: dsq-747511575
+date: 2005-04-29T23:11:00.0000000-07:00
+name: Maurice
+avatar: https://disqus.com/api/users/avatars/Maurice.jpg
+message: <p>I'm not quite sure why you had to add \n as an alternation value.  If you set the SingleLine option, newlines are picked up appropriately without having to futher complicate the expression itself.  Or am I misunderstanding your fix here?</p>

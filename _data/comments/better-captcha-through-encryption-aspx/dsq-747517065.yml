@@ -1,0 +1,5 @@
+id: dsq-747517065
+date: 2006-10-03T06:58:08.0000000-07:00
+name: Simeon Pilgrim
+avatar: https://disqus.com/api/users/avatars/Simeon.jpg
+message: <p>As RijndaelManaged is a symmetric algorithm this will fail, when the comment spammer knows your encryption/decryption method. They can decrypt the answer and send it straight back, or they can insert there own answer into the message.<br>What you wan to use is PKI. Encrypt the answer with your public key A, so only you with your private key A can unlock the answer. Then to stop insertion of "new" answers, sign the answer with your private key B, so you can check that your answer is not altered, by unlocking it with public key B.</p>

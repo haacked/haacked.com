@@ -1,0 +1,5 @@
+id: dsq-747533597
+date: 2010-11-22T00:13:32.0000000-08:00
+name: Matt Tester
+avatar: https://disqus.com/api/users/avatars/Matt Tester.jpg
+message: <p>I use named routes so that I don't have to define the "controller" and "action" parameters when using it (in your final example, these can be removed from the routeValues). This helps when you end up refactoring the action name or even the controller!</p>

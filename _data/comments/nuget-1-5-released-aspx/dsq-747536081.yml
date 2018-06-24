@@ -1,0 +1,5 @@
+id: dsq-747536081
+date: 2011-09-01T09:10:22.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Chris, are you running Windows XP or Windows Server 2003? If so, this is a <a href="http://docs.nuget.org/docs/reference/known-issues" rel="nofollow noopener" title="http://docs.nuget.org/docs/reference/known-issues">known issue</a> with those operating systems and there's not much we can do about it. The vast majority of folks aren't having signing issues with NuGet.</p>

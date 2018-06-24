@@ -1,0 +1,5 @@
+id: dsq-747531132
+date: 2009-12-25T08:17:52.0000000-08:00
+name: Bobby
+avatar: https://disqus.com/api/users/avatars/Bobby.jpg
+message: <p>Just curious, seen code b4 that had unknown attributes in image tags that jQuery and even javascript can pickup. For instance:<br><code><br>&lt;img src="someimage.jpg" hoverimg="somehoverimg.jpg" customattrib="sometext"&gt;<br></code><br>Just curious does this not work with Hrefs? Right now to busy/lazy to try but Its what i was thinking when you were saying you were misusing the rel attrib. <br>Either way nice article<br>Thanks<br></p>

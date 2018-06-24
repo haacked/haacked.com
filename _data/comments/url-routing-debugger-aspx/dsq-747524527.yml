@@ -1,0 +1,5 @@
+id: dsq-747524527
+date: 2008-10-06T14:28:31.0000000-07:00
+name: balaji
+avatar: https://disqus.com/api/users/avatars/balaji.jpg
+message: "<p>Hi,<br>I have downloaded the source and built the debugger using the MVC preview 5 and used it but still i am getting error. <br>MvcHttpHandler does not work with the handler of type RouteDebug.DebugHttpHandler' since it does not derive from MvcHandler.<br>Parameter name: httpHandler]<br>please help</p>"

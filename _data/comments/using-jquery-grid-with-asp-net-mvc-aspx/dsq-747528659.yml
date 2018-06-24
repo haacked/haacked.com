@@ -1,0 +1,5 @@
+id: dsq-747528659
+date: 2009-04-19T10:18:00.0000000-07:00
+name: Paresh
+avatar: https://disqus.com/api/users/avatars/Paresh.jpg
+message: <p>Hi,<br>    Yeah i too had got the same issue that Mike and Rob are facing currently.In firebug it shows the error as "jQuery("#list").jqGrid is not a function." I verified the path of all the js files included.<br>please let me know if there is any solution to fix this issue.</p>

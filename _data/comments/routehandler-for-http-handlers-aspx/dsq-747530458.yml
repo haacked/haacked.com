@@ -1,0 +1,5 @@
+id: dsq-747530458
+date: 2010-04-18T01:10:06.0000000-07:00
+name: Zac Avery
+avatar: https://disqus.com/api/users/avatars/Zac Avery.jpg
+message: <p>I had been using a ASPX page with no content just to send some basic output to the response stream (for a simple variables within CSS files parser system that used the MapPageRoute method) but now I have this streaming the output directly. This is so much cleaner and seems to be miles faster. I would have never thought of this solution - thank you!</p>

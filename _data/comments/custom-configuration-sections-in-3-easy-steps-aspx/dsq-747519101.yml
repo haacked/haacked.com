@@ -1,0 +1,5 @@
+id: dsq-747519101
+date: 2008-12-30T04:08:50.0000000-08:00
+name: Paul Juenger
+avatar: https://disqus.com/api/users/avatars/Paul Juenger.jpg
+message: <p>I'm working on an ASP.NET MVC (beta) application where one of my controllers pulls a domain value from a custom configuration section.  This works fine when I run the application, but when I run a unit test to against the controller it throws an exception because ConfigurationManager.GetSection("foo") is null.  I also noticed that the appSettings collection is null, but the connectionString collection is initialized.  Might this be a bug or am I missing something with MSTest?</p>

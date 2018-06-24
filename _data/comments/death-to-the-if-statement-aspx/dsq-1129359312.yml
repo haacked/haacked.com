@@ -1,0 +1,6 @@
+id: dsq-1129359312
+replyToId: dsq-1117876550
+date: 2013-11-19T01:57:06.0000000-08:00
+name: lazilier
+avatar: https://disqus.com/api/users/avatars/lazilier.jpg
+message: <p>You're sure there are no extra entries because you Take only as many from the Concat result as you originally asked for. And you don't bother calculating exactly how many padding elements to add because 1) it's lazily done, and 2) determining the length of your source IEnumerable would mean you iterate it twice instead of once.</p>

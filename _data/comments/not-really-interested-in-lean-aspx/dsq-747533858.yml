@@ -1,0 +1,5 @@
+id: dsq-747533858
+date: 2010-12-20T21:01:55.0000000-08:00
+name: Ryan Cromwell
+avatar: https://disqus.com/api/users/avatars/Ryan Cromwell.jpg
+message: "<p>It's going to hurt at first.  It will feel like your velocity fell through the floor and people will be frustrated with the feature \"completion\" rate.  I quote that, because a buggy feature isn't complete for the person experiencing the bug or the person who's feature isn't being developed while buggy feature is being triaged and fixed.<br>In the end having automated regression tests is the key to raising and maintaining your velocity over time.  Nuget is lacking that in many areas, especially around the packages themselves.<br>My #1 recommendation on this particular project would be to optimize the mechanism test packages.  A-la, Ayende's NHProf <a href=\"http://ayende.com/Blog/archive/2010/12/01/the-most-amazing-demo-ever.aspx\" rel=\"nofollow noopener\" title=\"http://ayende.com/Blog/archive/2010/12/01/the-most-amazing-demo-ever.aspx\">ayende.com/.../the-most-amazing-demo-ever.aspx</a><br></p>"

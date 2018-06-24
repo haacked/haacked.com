@@ -1,0 +1,5 @@
+id: dsq-747526868
+date: 2008-11-13T21:23:19.0000000-08:00
+name: labilbe
+avatar: https://disqus.com/api/users/avatars/labilbe.jpg
+message: <p>How to substitute something like an Html.ActionLink?<br>Maybe something like should be helpful<br>using (Html.Substiture()) {<br>     Html.ActionLink...;<br>}</p>

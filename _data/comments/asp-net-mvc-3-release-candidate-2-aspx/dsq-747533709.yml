@@ -1,0 +1,5 @@
+id: dsq-747533709
+date: 2010-12-12T07:48:23.0000000-08:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: '<p>Installation failed with a nondescript error message:<br>Exe (d:\temp\ext6142\VS10-KB2465236-x86.exe) failed with 0x80070643 - Fatal error during installation.<br>.<br>PerformOperation on exe returned exit code 1603 (translates to HRESULT = 0x80070643)<br>Error 1603 is mapped to Custom Error: <br>OnFailureBehavior for this item is to Rollback.<br>Final Result: Installation failed with error code: (0x80070643), "Fatal error during installation.<br>" (Elapsed time: 0 00:00:16).</p>'

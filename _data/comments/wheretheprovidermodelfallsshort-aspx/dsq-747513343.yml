@@ -1,0 +1,5 @@
+id: dsq-747513343
+date: 2005-11-02T01:10:00.0000000-08:00
+name: chid
+avatar: https://disqus.com/api/users/avatars/chid.jpg
+message: <p>also, with dynamic SQL, you can set updates to only update the changed fields, especially good with tables with a fair amount of fields. <br><br><br><br></p>

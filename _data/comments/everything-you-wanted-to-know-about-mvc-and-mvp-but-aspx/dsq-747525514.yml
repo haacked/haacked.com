@@ -1,0 +1,5 @@
+id: dsq-747525514
+date: 2010-02-21T20:11:53.0000000-08:00
+name: Novice
+avatar: https://disqus.com/api/users/avatars/Novice.jpg
+message: <p>I am a but surprised with the fact that nobody mentioned about refactoring. Let's assume I have <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> Webform application and I want to restructure it with better UI pattern. I heard good things about <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> mvc but I don't think it can handle web-form very well. So at this point, the only way to restructure the UI seems to be MVP. Am I getting it right?</p>

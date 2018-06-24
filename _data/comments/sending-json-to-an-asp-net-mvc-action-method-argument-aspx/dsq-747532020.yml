@@ -1,0 +1,5 @@
+id: dsq-747532020
+date: 2010-12-27T19:26:19.0000000-08:00
+name: Robert Koritnik
+avatar: https://disqus.com/api/users/avatars/Robert Koritnik.jpg
+message: <p>This technique is smart but requires changes <strong>on both the client and server</strong>. I've used a different approach that's MVC any version compatible. <strong>And</strong> it only requires client change by using a custom jQuery plugin that transforms your Javascript objects into something that's easily and correctly posted back to server.<br>Check <a href="http://erraticdev.blogspot.com/2010/12/sending-complex-json-objects-to-aspnet.html" rel="nofollow noopener" title="http://erraticdev.blogspot.com/2010/12/sending-complex-json-objects-to-aspnet.html">my blog post</a> about it with extensive explanation how it works.<br><a href="http://erraticdev.blogspot.com/2010/12/sending-complex-json-objects-to-aspnet.html" rel="nofollow noopener" title="http://erraticdev.blogspot.com/2010/12/sending-complex-json-objects-to-aspnet.html">erraticdev.blogspot.com/...</a></p>

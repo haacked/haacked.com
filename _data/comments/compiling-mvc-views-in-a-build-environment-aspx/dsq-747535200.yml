@@ -1,0 +1,5 @@
+id: dsq-747535200
+date: 2011-11-04T01:19:01.0000000-07:00
+name: Greg B
+avatar: https://disqus.com/api/users/avatars/Greg B.jpg
+message: '<p>I have a simple file named Error.aspx in the Views/Shared folder. <br>When I do the steps in the blog post, I get errors such as: Circular file references are not allowed.  C:\temp\Views\Shared\Error.aspx<br>My project source is NOT stored in C:\temp.</p>'

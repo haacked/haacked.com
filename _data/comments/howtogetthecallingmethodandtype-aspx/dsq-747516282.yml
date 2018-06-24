@@ -1,0 +1,5 @@
+id: dsq-747516282
+date: 2006-08-13T03:42:13.0000000-07:00
+name: Dimitri Glazkov
+avatar: https://disqus.com/api/users/avatars/Dimitri Glazkov.jpg
+message: <p>I think that's the code I wrote for the logging piece in Subtext, to determine where the logging call was made. Not sure if it's still there...</p>

@@ -1,0 +1,5 @@
+id: dsq-1051551470
+date: 2013-09-19T07:46:20.0000000-07:00
+name: dotnetchris
+avatar: https://disqus.com/api/users/avatars/dotnetchris.jpg
+message: <p>I don't know about other people but I absolutely loathe  System.Net.HttpClient</p><p>The api/dsl of it is atrocious, nothing is obvious, everything is hard. it wants to throw so many exceptions. Even doing the most basic things like getting the raw http response content or status code&amp; descriptions is monstrous. Everything is a minefield, you have no idea what methods will explode vs what will actually give you results.</p><p>It seems like HttpClient was built in the vein of webforms + <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> custom errors + IIS custom errors, aka the platform fights everything about you from actually running a real http server and using status codes for what they're meant for. That everything you do that is not 200 or 302 you're fought tooth and nail on.</p>

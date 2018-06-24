@@ -1,0 +1,5 @@
+id: dsq-747525602
+date: 2008-06-25T14:46:01.0000000-07:00
+name: Daniel Draper
+avatar: https://disqus.com/api/users/avatars/Daniel Draper.jpg
+message: <p>I think the view folder should contain just that "Views" any assets such as images, movies, audio, etc should be placed in the content folder. The content folder however should be broken into appropriate sub folders.<br>If you are worried about a relative path Boersnoes then just use the base tag or a custom funtion to acheive a similar outcome.<br>I think Al has a good point by making it optional but by default the programmer uses the content directory.</p>

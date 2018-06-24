@@ -1,0 +1,5 @@
+id: dsq-747508542
+date: 2004-06-16T01:47:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>I actually talked to some of the C# guys about this: adding static analysis to the IDE or compiler to give warnings about exceptions that can be thrown when calling a method.<br><br><br><br>I'd like it if the intellisense gave a list of exceptions that are thrown by a method along with the method's information.<br><br><br><br>However, be aware that when calling a virtual method, you might not know in advance what exceptions can be thrown by the class that actually implements the method (think of a plug-in architecture for example).</p>"

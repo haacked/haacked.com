@@ -1,0 +1,5 @@
+id: dsq-747510284
+date: 2012-02-01T16:23:34.0000000-08:00
+name: Manu
+avatar: https://disqus.com/api/users/avatars/Manu.jpg
+message: <p>ex:INPUT FILE<br> &lt;html&gt;<br>&lt;head&gt;<br>    &lt;body&gt;Do it<br>     </p><p>this is information retrieval </p><p><br>    &lt;meta name="abcd"<br>          content ="ebeg"<br>/meta&gt;<br>      <br>&lt;/body&gt;<br>&lt;/html&gt;<br>OUTPUT FILE SHOULD BE :(WHAT I NEED TO WRITE REGULAR EXPRESSION FOR THIS???????)<br>Do it<br>     this is information retrieval <br>    "abcd"<br>      "ebeg"<br></p>

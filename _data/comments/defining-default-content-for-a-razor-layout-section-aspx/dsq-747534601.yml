@@ -1,0 +1,5 @@
+id: dsq-747534601
+date: 2011-08-09T17:42:30.0000000-07:00
+name: Fabian
+avatar: https://disqus.com/api/users/avatars/Fabian.jpg
+message: <p>You could add this signature to the help in the case you want to use Html.Partial() has the default content:<br><code>public static HelperResult RenderSection(this WebPageBase webPage, string name, IHtmlString defaultContents)<br>{<br>if (webPage.IsSectionDefined(name))<br>{<br>return webPage.RenderSection(name);<br>}<br>var result = new HelperResult((x) =&gt; x.Write(defaultContents.ToString()));<br>return webPage.RenderSection(name, (x) =&gt; result);<br>}</code></p>

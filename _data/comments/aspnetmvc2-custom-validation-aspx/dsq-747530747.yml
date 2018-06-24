@@ -1,0 +1,5 @@
+id: dsq-747530747
+date: 2010-05-04T01:37:32.0000000-07:00
+name: Tom DuPont
+avatar: https://disqus.com/api/users/avatars/Tom DuPont.jpg
+message: "<p>Great feature and great article, thanks Phil!<br>However, I do have one minor complaint regarding the MVC 2 client side validation: Out of the box, it only uses the Microsoft AJAX libraries. I love MVC, but for client side my current project is using ExtJS, and I really didn't want to include two complete JavaScript frameworks in one website.<br>For anyone who is interested, there is a way to use the MVC client side validation with ExtJS: <a href=\"http://community.codesmithtools.com/blogs/tdupont/archive/2010/05/03/mvc-2-client-side-model-validation-with-extjs.aspx\" rel=\"nofollow noopener\" title=\"http://community.codesmithtools.com/blogs/tdupont/archive/2010/05/03/mvc-2-client-side-model-validation-with-extjs.aspx\">Ext.ux.MvcFormValidator</a>.<br>Enjoy! ~Tom</p>"

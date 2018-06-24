@@ -1,0 +1,5 @@
+id: dsq-747523445
+date: 2007-11-26T19:02:45.0000000-08:00
+name: Joe
+avatar: https://disqus.com/api/users/avatars/Joe.jpg
+message: <p>Don't know how to do it with StructureMap, but using Windsor, Hammett recently posted article showing how to inject a SiteMapProvider into a MR ViewComponent. <br>I think you could follow the same technique for a MembershipProvider.<br><a href="http://hammett.castleproject.org/?p=220" rel="nofollow noopener" title="http://hammett.castleproject.org/?p=220">http://hammett.castleprojec...</a><br></p>

@@ -1,0 +1,5 @@
+id: dsq-747517243
+date: 2012-08-25T09:48:25.0000000-07:00
+name: Kalai
+avatar: https://disqus.com/api/users/avatars/Kalai.jpg
+message: <p>Hi,<br> HttpContext.Current.Request.Url is Returning myLocalIP  when i execute my Project in Local.<br>But when I  Execute  same Project in Server  HttpContext.Current.Request.Url Returning myLocalIP.<br>How can i get Server IP ? Any Solution ?<br><br></p>

@@ -1,0 +1,5 @@
+id: dsq-747529362
+date: 2009-06-25T15:44:00.0000000-07:00
+name: zihotki
+avatar: https://disqus.com/api/users/avatars/zihotki.jpg
+message: <p>What about to check referrer on the json request and send json data only to referrers in white list? It seems to me that this should work - as far as I remember there are no way to modify referrer for urls in script html element.</p>

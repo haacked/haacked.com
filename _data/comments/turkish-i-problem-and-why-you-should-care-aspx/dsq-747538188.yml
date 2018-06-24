@@ -1,0 +1,5 @@
+id: dsq-747538188
+date: 2012-07-06T12:19:43.0000000-07:00
+name: Mattias Larsson
+avatar: https://disqus.com/api/users/avatars/Mattias Larsson.jpg
+message: <p>We ran in to this problem some years ago when deploying our product in Turkey. The problem occurred in our database queries. All tables/fields started with a capital letter, and of course some of those happened to start with an "I". But then some lazy programmers knew that the query parser (SQL in this case) wasn't case-sensitive, so a lot of queries were typed in lower-case only. These queries failed miserably and it was quite hard to find them all...</p>

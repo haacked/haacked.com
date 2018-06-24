@@ -1,0 +1,5 @@
+id: dsq-747530695
+date: 2009-11-22T10:36:00.0000000-08:00
+name: born2code
+avatar: https://disqus.com/api/users/avatars/born2code.jpg
+message: <p>Trying to follow the code by starting with Brad's post and latest MVC 2 does not work.<br>basically the "Data Annotations Model Binder Sample" on Codeplex does not work with MVC 2. Stackflow shows that i am not the only one having problems. I am working my way through the errors one at a time but would be nice to either update the project on codeplex or just give me the new bits to reference.<br>here is one of the issues i am having (though the fix on stackoverflow did not fix for me):<br><a href="http://stackoverflow.com/questions/1531776/this-property-setter-is-obsolete-because-its-value-is-derived-from-modelmetadat" rel="nofollow noopener" title="http://stackoverflow.com/questions/1531776/this-property-setter-is-obsolete-because-its-value-is-derived-from-modelmetadat">stackoverflow.com/.../this-property-setter-is-o...</a><br>thanks.<br></p>

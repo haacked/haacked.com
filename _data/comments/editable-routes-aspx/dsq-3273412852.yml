@@ -1,0 +1,5 @@
+id: dsq-3273412852
+date: 2017-04-25T06:46:58.0000000-07:00
+name: ozzy
+avatar: https://disqus.com/api/users/avatars/ozzy432836.jpg
+message: <p>Anyone still using this? Using VS2015 now with ASP.NET MVC 5. I downloaded the Nugets, etc but <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> doesnt like this //RouteTable.Routes.RegisterRoutes("~/Config/Routes.cs"); in global.asax.cs  I assume its just something to do with the fact im using a newer version. This topic has been quiet for a while. Is there now an accepted solution to this problem in <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> MVC?</p>

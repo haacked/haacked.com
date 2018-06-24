@@ -1,0 +1,5 @@
+id: dsq-747524137
+date: 2008-02-21T03:30:19.0000000-08:00
+name: Justice~!
+avatar: https://disqus.com/api/users/avatars/Justice~!.jpg
+message: <p>Hey Phil, while still on this discussion it would be nice to have IHttpContext (sorry, HttpContextBase) implement either an interface or wrapper around Cache, so that I don't have to write my own wrapper to test some of those implementations...<br></p>

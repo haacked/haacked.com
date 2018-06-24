@@ -1,0 +1,5 @@
+id: dsq-747508761
+date: 2005-06-16T10:42:00.0000000-07:00
+name: Patty
+avatar: https://disqus.com/api/users/avatars/Patty.jpg
+message: '<p>Why does this even work at all?<br><br>&gt; SELECT TOP 1 FROM MyTable ORDER BY Rand()<br><br><br><br>I thought "ORDER BY" had to mention either a "valid sort number column"... or<br><br>the actual column name?<br><br><br><br>How does it "sort" on column # 0.34898131415 or column # 983 at all ?????<br><br><br><br><br><br><br><br><br><br></p>'

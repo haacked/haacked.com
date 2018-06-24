@@ -1,0 +1,5 @@
+id: dsq-747535360
+date: 2011-06-02T16:23:23.0000000-07:00
+name: Darren Cauthon
+avatar: https://disqus.com/api/users/avatars/Darren Cauthon.jpg
+message: <p>Have you tried MVC Turbine?  It has been doing this since MVC V1, magically behind-the-scenes and for all ioc containers.  If you have a HTTP module, it resolves it out of your ioc container of choice without you having to do one additional line of code.<br>Cases like these are the main reason I use MVC Turbine, and why I wish its features would g we adopted by ASP.Net MVC.  Many devs, if not most, need this functionality.  When its not provided by the framework, it leaves EVERY dev to write or copy-paste huge chunks of code that do exactly the same thing.  Aren't these the types of problems</p>

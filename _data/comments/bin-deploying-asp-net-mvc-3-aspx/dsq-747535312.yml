@@ -1,0 +1,5 @@
+id: dsq-747535312
+date: 2011-05-27T19:14:39.0000000-07:00
+name: Keith Dahlby
+avatar: https://disqus.com/api/users/avatars/Keith Dahlby.jpg
+message: <p>Since bin deployment is important enough to justify special tooling in VS, could you explain the decision process that pushed these assemblies into the GAC in the first place?</p>

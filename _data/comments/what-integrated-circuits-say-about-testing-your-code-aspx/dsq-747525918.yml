@@ -1,0 +1,5 @@
+id: dsq-747525918
+date: 2008-08-08T00:05:01.0000000-07:00
+name: Seth Petry-Johnson
+avatar: https://disqus.com/api/users/avatars/Seth Petry-Johnson.jpg
+message: "<blockquote> Ideally, someone else down the road, new to the project, should be able to get the latest code from source control and run the unit tests immediately without having to go through the pains of setting up an environment with the correct database.<br></blockquote><p><br>IMHO, you shouldn't write integration tests unless you also automate the DB creation or initialization. It's no good if your tests rely on data that is maintained somewhere OUTSIDE of the test project: this creates friction when running the tests, which usually means they don't get run. And if they don't get run the test DB starts to lag behind production, and eventually the tests get junked. Keeping a test DB in sync with production is kind of painful, but I think it's a necessary evil.<br></p>"

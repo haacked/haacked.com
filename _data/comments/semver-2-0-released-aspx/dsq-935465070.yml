@@ -1,0 +1,6 @@
+id: dsq-935465070
+replyToId: dsq-935453944
+date: 2013-06-19T08:36:04.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Well the clarifications we made could be considered breaking changes. Whereas 01.01.01 was ambiguous before and thus potentially allowed, SemVer 2.0 states that it is not.</p><p>Also, fundamentally, SemVer versioning applies to libraries and packages. It doesn't have to apply to how you market products. :)</p>

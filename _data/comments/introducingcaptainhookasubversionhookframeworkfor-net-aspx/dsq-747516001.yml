@@ -1,0 +1,5 @@
+id: dsq-747516001
+date: 2007-04-28T20:25:57.0000000-07:00
+name: nagsen
+avatar: https://disqus.com/api/users/avatars/nagsen.jpg
+message: <p>hi all,<br>   I want to format java code after every commit in svn...it seems best option is do in post commit hook..but I dont know how to do this.<br>thanks in advance.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747535925
+date: 2011-08-16T18:53:54.0000000-07:00
+name: kamranayub
+avatar: https://disqus.com/api/users/avatars/kamranayub.jpg
+message: "<p>I recently created a Plural Razor helper to do this for me. Mine does an extra step and will treat your inputs as format strings so if you want, you can embed the number. Sometimes I do, sometimes I don't (i.e. wrap the number in a tag).<br><code><br>@helper Plural(int count, string singular, string plural) {<br>    @String.Format(count == 1 ? singular : plural, count)        <br>}<br></code><br>Works very nicely! I like Neil's function in that you can pass any kind of numeric (decimal, double, etc.) but I haven't run into that yet. Keeping it simple!<br>For localization, since I haven't dealt with that yet, I like Yuri's suggestion of having separate implementations. So you can do:<br><code><br>Culture.Plural(count, singular, plural)<br></code><br>Assuming you've implemented an architecture that will support that. That should work if you have a defined set of locales you support. Or like others have suggested, perhaps an existing library takes care of that.</p>"

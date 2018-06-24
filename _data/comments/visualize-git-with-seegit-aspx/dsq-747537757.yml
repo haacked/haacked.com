@@ -1,0 +1,5 @@
+id: dsq-747537757
+date: 2012-03-16T13:03:25.0000000-07:00
+name: Mark Heath
+avatar: https://disqus.com/api/users/avatars/Mark Heath.jpg
+message: <p>Typical, I've been building the exact same app myself for a talk I'm giving on DVCS next month :). Yours looks much nicer than min though, and I'll have to check out GraphSharp's layout algorihms, as my own layout algorithm is very poor. I might even contribute Mercurial support as my app can do that.<br>There does seem to be a performance issue with the latest version. The graph for Code52/carnac took forever to load, and was impossible to zoom.<br>Still, very excited by this project</p>

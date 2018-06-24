@@ -1,0 +1,5 @@
+id: dsq-747517729
+date: 2006-11-22T00:01:22.0000000-08:00
+name: Brandon
+avatar: https://disqus.com/api/users/avatars/Brandon.jpg
+message: <p>Stupid question, and I apologize but why not check what the final string size is.  Something like below, btw sorry if my syntax are off extremely use to writing VB code.<br>    public Fake(string propValue)<br>    {<br>        if this.somProp = ""<br>        {<br>           this.someProp = propValue;<br>        }<br>        else<br>        {<br>           this.SomeProp = "|" &amp; propValue;<br>        }<br>    }<br></p>

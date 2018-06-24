@@ -1,0 +1,5 @@
+id: dsq-747528783
+date: 2011-03-28T01:10:23.0000000-07:00
+name: Sue
+avatar: https://disqus.com/api/users/avatars/Sue.jpg
+message: '<p>Hi I tried implementing this example but i am recieving error on the $.ajax({url:ts.p.url,type:ts.p.mtype,datatype:"json",data: gdata, complete:function(JSON) { addJSONData(eval("("+JSON.responseText+")"),ts.grid.bDiv); if(loadComplete) loadComplete();}});<br>I thought this might be because of special characters in one of my columns but does not see to be the isuue on the other hand alerts = context.Alerts.<br>                                OrderBy(sidx + " " + sord).<br>                                Skip(pageIndex * pageSize).<br>                                Take(pageSize);<br>the orderby method above does not have an overload that accepts as parameter string only so I am wondering maybe I am not downloading hte right version of the Dynamic version ... any advise is appreciated</p>'

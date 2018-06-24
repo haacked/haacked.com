@@ -1,0 +1,5 @@
+id: dsq-747536472
+date: 2011-11-03T02:29:16.0000000-07:00
+name: Stoyan
+avatar: https://disqus.com/api/users/avatars/Stoyan.jpg
+message: <p>Looks like a lot of effort will be put into making NuGet something closer to <a href="http://maven.apache.org" rel="nofollow noopener" title="http://maven.apache.org">http://maven.apache.org</a>.<br>Why couldn't you guys just put your effort into <a href="http://incubator.apache.org/npanday/" rel="nofollow noopener" title="http://incubator.apache.org/npanday/">http://incubator.apache.org/npanday/</a> instead of trying to re-invent the wheel every time :(<br>Our team was struggling with NuGet (was NuPack at the time), just as your colleagues would be - it's simply good enough for LOB web devs and single lib writers and for no one else. We're now in the process of moving to NPanday (too late with the semantic versioning + too far from Maven).</p>

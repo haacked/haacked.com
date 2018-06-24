@@ -1,0 +1,5 @@
+id: dsq-747530597
+date: 2009-11-18T01:57:00.0000000-08:00
+name: ParseInt
+avatar: https://disqus.com/api/users/avatars/ParseInt.jpg
+message: "<p>@Will Green, I totally agree with you, in all our projects we're using a base ViewModel that all ViewModels inherits from, and if there's something we need (eg a menu) to be displayed on all pages we just create an actionfilter that fills that menu in the baseview. You get the same power as the Html.Action and you get the separation you're used too. And you dont get the performance hit you get with Html.RenderAction (which was pretty significant the last time i checked in MVC Futures using JetBrains DotTrace).<br>@Phil: Is the performance problem fixed in this version?<br>My two cents..</p>"

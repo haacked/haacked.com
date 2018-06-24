@@ -1,0 +1,5 @@
+id: dsq-747529682
+date: 2009-08-18T12:14:00.0000000-07:00
+name: Sebastien Lambla
+avatar: https://disqus.com/api/users/avatars/Sebastien Lambla.jpg
+message: <p>@phil I dont think routing to different methods for different media types is a good idea. That's exactly the kind of horrible things WCF REST does.<br>There's also an issue with putting the media type in the querystring, as this prevents caching from being done on those URIs.<br>And I suppose someone should mention it, so I may, if you want something built from the ground-up for ReST,  you can have a look at <a href="http://www.openrasta.com" rel="nofollow noopener" title="http://www.openrasta.com">http://www.openrasta.com</a><br>Nice to see more interest in REST.</p>

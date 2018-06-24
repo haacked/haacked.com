@@ -1,0 +1,5 @@
+id: dsq-747534365
+date: 2011-01-30T01:59:40.0000000-08:00
+name: Nick Berardi
+avatar: https://disqus.com/api/users/avatars/nberardi.jpg
+message: <p>Wow I really like the delegate handler and the groups.  <br>Do you mind if I use these concepts with my Apache mod_rewrite style overlay for setting up ASP.NET routes?<br><a href="https://github.com/managedfusion/managedfusion-rewriter-contrib/blob/master/src/RoutingApacheRuleSet.cs" rel="nofollow noopener" title="https://github.com/managedfusion/managedfusion-rewriter-contrib/blob/master/src/RoutingApacheRuleSet.cs">github.com/.../RoutingApacheRuleSet.cs</a><br>The delegates would be a great way to allow plugin routes.  And the grouping is very easy already, so it would be a natural extension.</p>

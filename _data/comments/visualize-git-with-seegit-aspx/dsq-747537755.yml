@@ -1,0 +1,5 @@
+id: dsq-747537755
+date: 2012-03-15T19:29:56.0000000-07:00
+name: Eirik M
+avatar: https://disqus.com/api/users/avatars/Eirik M.jpg
+message: <p>Phil, is this a WPF or a Silverlight application. After pulling the source from github, opening it in VS2010 and trying to compile I get the (dreaded) <br>"Error2Unknown build error, 'Cannot resolve dependency to assembly 'System.Windows, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e' because it has not been preloaded. When using the ReflectionOnly APIs, dependent assemblies must be pre-loaded or loaded on demand through the ReflectionOnlyAssemblyResolve event.' SeeGitApp"<br>compiler error. <br>System.Windows.dll is a SL assembly while your SeeGit project refers to the PresentationCore and PresentationFramework assemblies used by WPF. In the code however, there's lots of references to System.Windows.<br>So which is it; SL or WPF? :-)<br>/Eirik<br></p>

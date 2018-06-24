@@ -1,0 +1,5 @@
+id: dsq-747534116
+date: 2012-07-23T04:22:09.0000000-07:00
+name: I am wondering how can I conve
+avatar: https://disqus.com/api/users/avatars/I am wondering how can I conve.jpg
+message: '<p>&lt;% Html.AjaxForm(s =&gt;<br> { %&gt;<br>&lt;div class="form2"&gt;<br>    &lt;br /&gt;<br>    &lt;label class="smallLabel" for="Name" &gt;<br>        Name : &lt;span id="s_Name"&gt;*&lt;/span&gt;&lt;/label&gt;<br>    &lt;%=Html.TextBox("Name", ViewData.Model.Name, new { @class = "smallTextBox" })%&gt;<br>&lt;/div&gt;<br>&lt;% });%&gt;</p>'

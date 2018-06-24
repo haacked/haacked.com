@@ -1,0 +1,5 @@
+id: dsq-2680171136
+date: 2016-05-17T07:35:43.0000000-07:00
+name: Divyesh Kinariwala
+avatar: https://disqus.com/api/users/avatars/divyeshkinariwala.jpg
+message: <p>your suggestion is good. but how you can render that view when you use Html.RenderAction("Index","Home") in your layout page. because i have issue with this and i also added namespace in both cs file i.e Routeconfig.cs and other one is my area</p>

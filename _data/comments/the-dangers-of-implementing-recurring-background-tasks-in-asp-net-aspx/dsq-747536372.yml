@@ -1,0 +1,5 @@
+id: dsq-747536372
+date: 2011-10-17T17:09:16.0000000-07:00
+name: Khalid Abuhakmeh
+avatar: https://disqus.com/api/users/avatars/AquaBirdConsult.jpg
+message: <p>So this might sound foolish, but why doesn't the ASP.Net team just develop a feature in web apps that allows people to access some sort of safe scheduler? Seems like everyone wants to do it, and there is good rationale which you make yourself above.<br>Not sure how they would do it, but I'm sure there are a lot of smart people at Microsoft. Maybe a worker process that starts when the app pool starts and sits outside of ASP.Net and is always running unless explicitly stopped by your app or IIS Manager?<br>It would be a killer feature for the next ASP.Net release. Start working your political charm Haack, I believe you can do it.</p>

@@ -1,0 +1,5 @@
+id: dsq-747534237
+date: 2011-01-15T14:23:50.0000000-08:00
+name: Ben Foster
+avatar: https://disqus.com/api/users/avatars/Ben Foster.jpg
+message: <p>Phil, this looks great. It would good to extend this concept further to create a way of deploying and maintaining features/plugins within an application. There are so many OSS projects that would benefit from a standardised way of doing this.<br>Orchard already has something like this - are they using Nuget.Core too?</p>

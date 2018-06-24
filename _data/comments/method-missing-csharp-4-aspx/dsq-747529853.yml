@@ -1,0 +1,5 @@
+id: dsq-747529853
+date: 2009-09-03T02:52:00.0000000-07:00
+name: Daniel
+avatar: https://disqus.com/api/users/avatars/Daniel.jpg
+message: <p>I think I come down on rob's side on this.  I've had some doubts ever since I first heard about the dynamic keyword.  Static typing made sense, var was cool, and then dynamic comes along, and says maybe static typing isn't as big a deal.  In my mind, this breaks some pretty ingrained concepts in development like 'fail fast' and preferring compile-time errors over runtime. In the example you give, it gets rid of 'magic strings', but not really - your app will still compile and run if you misspell 'data.Massage'.  But I kind of assumed other people smarter than me knew better. I still somewhat assume that, but it will be interesting to watch play out. <br></p>

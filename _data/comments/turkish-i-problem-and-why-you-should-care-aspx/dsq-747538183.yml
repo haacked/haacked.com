@@ -1,0 +1,5 @@
+id: dsq-747538183
+date: 2012-07-06T11:04:11.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Doeke: I think the right approach is to use <code>input.Equals(\"interesting\", StringComparison.OrdinalIgnoreCase);</code><br>@Nando: Well my ruleset turns off some rules I actually want turned on because we have too many warnings. I'll see if I can create one that's my ideal case. Also, it really depends on whether you're writing a library vs an app.</p>"

@@ -1,0 +1,5 @@
+id: dsq-1100146401
+date: 2013-10-28T16:09:09.0000000-07:00
+name: bcs
+avatar: https://disqus.com/api/users/avatars/bcs.jpg
+message: <p>When reviewing code, I often bring up the before and after in a diff tool and try to convert the one to the other. This works very well with re-factor heavy changes, as it allows me to deposes of "semantically null" changes first and then look at only the "real" changes later.</p>

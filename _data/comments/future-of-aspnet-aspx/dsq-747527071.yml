@@ -1,0 +1,5 @@
+id: dsq-747527071
+date: 2010-12-12T18:06:26.0000000-08:00
+name: jason@Work
+avatar: https://disqus.com/api/users/avatars/jason@Work.jpg
+message: <p>One thing that I often hear is that MVC is inherently suited to TDD/more testable code/greater code coverage, whereas WebForms isn't.<br>What it often overlooked is that you can realise these testability benefits with the Patterns &amp; Practices WCSF.  If used properly you get all the richness of ASP Web Forms controls with testability enforced through MVP/Dependency Injection.  This framework is worth considering if you are not quite ready to jump ship to MVC and you have a workforce skilled in ASP.NET.  The WCSF/CWAB is only a thin layer on top of ASP.NET WebForms and isn't quite such a paradigm shift.</p>

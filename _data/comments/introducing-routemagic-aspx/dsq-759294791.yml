@@ -1,0 +1,5 @@
+id: dsq-759294791
+date: 2013-01-07T12:35:00.0000000-08:00
+name: Umbyersw
+avatar: https://disqus.com/api/users/avatars/Umbyersw.jpg
+message: <p>Hi Phil I'm trying to use this however it's not showing up for me and not sure what else to try... I'm starting a new MVC 4 project, Razor view engine, with the Internet Application template chosen. Then, adding the RouteMagic.MVC package, and running - I don't see anything extra on the page. I've tried with both .NET 4 and 4.5 and in both IIS/IIS Express. Hopefully you can spot my mistake or perhaps there is some key setting that I am missing? Thanks!</p>

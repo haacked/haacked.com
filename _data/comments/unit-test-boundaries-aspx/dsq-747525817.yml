@@ -1,0 +1,5 @@
+id: dsq-747525817
+date: 2008-07-22T18:04:40.0000000-07:00
+name: Lou
+avatar: https://disqus.com/api/users/avatars/Lou.jpg
+message: <p>Agreed and I bumped into this the other day on a source of data component. <br>It sourceofdata is mocked for other testing on other components, but to test the source itself (ftp pull of zip/csv) a unit test invoked the component. It's non destructive after all. But we quickly added an Ignore on that test for continuous-integration purposes after one or two false-red builds when someone had pulled or reworked.<br>And yes, I know. ftp? csv? What year is it? Whatcha gonna do.</p>

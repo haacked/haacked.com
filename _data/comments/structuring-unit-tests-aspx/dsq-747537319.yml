@@ -1,0 +1,5 @@
+id: dsq-747537319
+date: 2012-01-02T20:50:37.0000000-08:00
+name: Jim Cooper
+avatar: https://disqus.com/api/users/avatars/Jim Cooper.jpg
+message: "<p>\"Prepends\", not \"appends\"!<br>I'm a bit surprised you're using <a href=\"http://xunit.net\" rel=\"nofollow noopener\" title=\"xunit.net\">xunit.net</a> - I've used both it and NUnit, and XUnit is much clumsier and old fashioned. And it bugs me they appropriated the generic term for unit testing frameworks.<br>I used to name my tests like that, but I've moved in a more BDD direction in recent years, and have much more descriptive names. <br>Something to consider: suppose the test \"ReturnDefaultTitleForNullName\" fails for someone in a year's time. Is the problem in the code under test, or is the test no longer correct? This is a trivial example, but sometimes it isn't so clear.<br><br></p>"

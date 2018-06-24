@@ -1,0 +1,5 @@
+id: dsq-747530831
+date: 2010-05-30T19:18:20.0000000-07:00
+name: Gregor Suttie
+avatar: https://disqus.com/api/users/avatars/Gregor Suttie.jpg
+message: <p>How do I go about this problem - I have 2 date time values in my model and when I go to insert a new project the start date and end date validation error messages say that the format is incorrect. Im in the UK and add them as 30/05/2010 but the error message says its invalid and the format 05/30/2010 is invalid.</p>

@@ -1,0 +1,5 @@
+id: dsq-747532496
+date: 2010-06-09T20:30:29.0000000-07:00
+name: Felipe Fujiy
+avatar: https://disqus.com/api/users/avatars/Felipe Fujiy.jpg
+message: <p>Carl Hörberg, I think not in this case.<br>Because parameter is IEnumerable&lt;T&gt;, will LazyLoad all table and execute Any() at this collection(in memory)</p>

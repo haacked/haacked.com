@@ -1,0 +1,5 @@
+id: dsq-747529714
+date: 2009-09-21T22:18:00.0000000-07:00
+name: Greg Beech
+avatar: https://disqus.com/api/users/avatars/Greg Beech.jpg
+message: <p>The sample seems fairly solid from a basic architectural point of view, however as it stands it can't be used with our API because we have a requirement to support multiple concurrent versions of resource representations.<br>We have a very similar format handler implementation, but we also allow transformation of the request/response from a version-specific resource representation to/from a version-agnostic model based on the media type.<br>To do this we use a custom media type with a "version" parameter, and then have pluggable request/response model transform interfaces following the CanTransform/Transform pattern.<br>This type of multiple concurrent version scenario is very important to many API builders, as few of us are big enough to demand that consumers upgrade when we do, so I think it's critical that it is built into any serious API framework.<br>If you want to contact me regarding this, I'm happy to provide more information.</p>

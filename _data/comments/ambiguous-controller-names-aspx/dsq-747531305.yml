@@ -1,0 +1,5 @@
+id: dsq-747531305
+date: 2010-01-12T04:44:25.0000000-08:00
+name: Simon W
+avatar: https://disqus.com/api/users/avatars/Simon W.jpg
+message: <p>I also found this same problem and the namespace fix early on.<br>What I think though is an outstanding issue (which I nearly reported) is if one namespace is a descendent namespace of the other you still get the error.<br>For instance I had<br>SimonsWebsite.Controllers<br>and<br>SimonsWebsite.Controllers.FunStuff<br>and would still receive an 'ambigious controller' error if those two namespaces contained the same controller.<br>Of course I fixed this by making the namespaces completely unique.<br>PS. I forget the *exact* details if I had Controllers.FunStuff or FunStuff.Controllers, and I wan't going to mention this anyway but since you did I thought it might be of use (especially if a change is made for RTM).</p>

@@ -1,0 +1,5 @@
+id: dsq-747521250
+date: 2007-06-23T07:46:21.0000000-07:00
+name: Joshua Flanagan
+avatar: https://disqus.com/api/users/avatars/Joshua Flanagan.jpg
+message: <p>Does it work with System.Web.HostingEnvironment? It was introduced in ASP.NET 2.0 and is supposed to replace a lot of the old uses of HttpContext. Apparently it is a better idea to use this class where you can, so your code is less HTTP specific (keeping in mind the new hosting models available in Vista/Server 2008/WAS).<br><a href="http://sourceforge.net/mailarchive/message.php?msg_id=859ECF21D8F9EB40A9703A8F66763D580D976BF1A9%40NA-EXMSG-C107.redmond.corp.microsoft.com" rel="nofollow noopener" title="http://sourceforge.net/mailarchive/message.php?msg_id=859ECF21D8F9EB40A9703A8F66763D580D976BF1A9%40NA-EXMSG-C107.redmond.corp.microsoft.com">Clemens Vasters gave us a heads up about it</a> on the Dasblog mailing list.<br></p>

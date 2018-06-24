@@ -1,0 +1,5 @@
+id: dsq-747527613
+date: 2009-01-04T16:29:51.0000000-08:00
+name: Peli
+avatar: https://disqus.com/api/users/avatars/Peli.jpg
+message: <p>Hi Haacked, <br>Nice to package your solution for us. I could not resist to run Pex on your little formatter :). Try this format string (without the quotes), you'll be surprised:<br>    "{(\')}" -&gt; ArgumentOutOfRangeException<br>Jokes aside, I don't think it is a good advice to advocate this kind of solution. If you don't know how to use String.Format, use StringBuilder instead. IMO, using Regex for parsing is a smell (unless you are a regex expert) as it hides a lot of complexity behind it.<br>In Pex, we had to implemented the same kind of feature to render objects using the DebuggerDisplayAttribute format string. Since that format string never changes, we can agressively compile it into a dynamic method that calls into a StringBuilder.<br></p>

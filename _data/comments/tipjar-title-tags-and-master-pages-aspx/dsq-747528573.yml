@@ -1,0 +1,5 @@
+id: dsq-747528573
+date: 2009-04-03T01:52:51.0000000-07:00
+name: Chris Porter
+avatar: https://disqus.com/api/users/avatars/Chris Porter.jpg
+message: <p>If you remove runat="server" from the head tag, it will cause ~ path resolution in the head block to stop working.<br>This same problem (or one very close to it) existed and drove me nuts in Web Forms.  What always drove me nuts was that the title tag in Web Forms renders the opening title tag, the content, and the closing title tag all on separate lines.  This can cause issues with some SEO and while it might be "valid" it isn't desired.  I really hoped MVC would be more flexible but it sounds like we still have to jump through hoops.</p>

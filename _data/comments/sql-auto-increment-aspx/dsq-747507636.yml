@@ -1,0 +1,5 @@
+id: dsq-747507636
+date: 2007-09-13T00:06:17.0000000-07:00
+name: Similar issue but ...
+avatar: https://disqus.com/api/users/avatars/Similar issue but ....jpg
+message: "<p>I am trying to do something similar, but my two fields are of different types.  Note @Cnt is of type decimal and the field \"ItemNumber\" from table @myTable is decimal(18,)... The field type cannot be changed so...<br>DECLARE @Cnt DECIMAL<br>UPDATE [myTable]<br>   SET @Cnt = ItemNumber = @Cnt + 1<br>   WHERE ( OrderNumber = &lt;some order #&gt; )<br>I get the following error: \"Data type numeric of receiving variable is not equal to the data type decimal of column 'ItemNumber' \"... even though @Cnt is a decimal field!<br>Help!</p>"

@@ -1,0 +1,5 @@
+id: dsq-747534796
+date: 2011-04-12T00:31:44.0000000-07:00
+name: JM
+avatar: https://disqus.com/api/users/avatars/JM.jpg
+message: "<p>We are really looking for better team development support.  For example:  If I use nuGet to add a package to my project, and then check it in, when the guy down the hall from me gets latest, he doesn't get the binaries that I added to the project (unless I put them in source control, and I don't want to do that).<br>Getting the dev environment configured properly when joining an existing project has always been a real headache -- we use internal wiki, word of mouth, documents (install this, install that, etc).  <br>What I would really love is a solution where a I can open the project from source control, and it \"just works\" -- no dependency setup.</p>"

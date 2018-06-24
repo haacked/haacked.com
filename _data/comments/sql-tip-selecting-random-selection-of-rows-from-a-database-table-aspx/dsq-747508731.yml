@@ -1,0 +1,5 @@
+id: dsq-747508731
+date: 2004-06-21T20:53:00.0000000-07:00
+name: Adam Miller
+avatar: https://disqus.com/api/users/avatars/Adam Miller.jpg
+message: <p>I believe the downside to this is the NEWID generates a unique identifier for every row in the table and then the result is returned.  Therefore you may not want to use this option for tables that have a large amount of rows.</p>

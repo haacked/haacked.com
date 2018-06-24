@@ -1,0 +1,5 @@
+id: dsq-747534768
+date: 2011-04-07T12:50:00.0000000-07:00
+name: Maarten Mensink
+avatar: https://disqus.com/api/users/avatars/Maarten Mensink.jpg
+message: <p>I think you should be able to use different of a package within on solution but i also think you should get a notice if you add a newer version of a package that you are using a older package within the same solution.<br>Two situation i can think of:<br>1. If you have a application which uses a website frontend and a winforms backend you would most likely want to use the same dll so you are sure you will get the same results.<br>2. If you run a Azure Cloud and you add multiple website under one role you would like to be able to have one running jquery 1.5.1 and the other 1.5.2 enforcing the same package version may force the developer to change his code if he wishes to host 2 website under one webrole.</p>

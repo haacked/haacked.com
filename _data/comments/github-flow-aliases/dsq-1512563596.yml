@@ -1,0 +1,6 @@
+id: dsq-1512563596
+replyToId: dsq-1511116580
+date: 2014-07-30T10:24:57.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Ah, before I switch I push to a "private" branch. It's public on <a href="http://GitHub.com" rel="nofollow noopener" title="GitHub.com">GitHub.com</a>, but "private" by convention. I prefix my branches with my username and a slash.</p><p>For example, `git push -u origin haacked/branch-name`</p>

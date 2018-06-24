@@ -1,0 +1,5 @@
+id: dsq-747519463
+date: 2007-04-02T12:49:25.0000000-07:00
+name: Damien Guard
+avatar: https://disqus.com/api/users/avatars/Damien Guard.jpg
+message: <p>I wouldn't say this encoding helps that much as it is easily decoded  random or not - by just running it through HtmlUtility.HtmlDecode.<br>string decodedPage = HtmlUtility.HtmlDecode(encodedPage);<br>[)amien</p>

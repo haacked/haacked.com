@@ -1,0 +1,5 @@
+id: dsq-747526980
+date: 2008-11-11T13:05:21.0000000-08:00
+name: Colin
+avatar: https://disqus.com/api/users/avatars/Colin.jpg
+message: <p>Won't you need to be careful about the code page that is being read in and ultimately the page it will be written out as otherwise you could miss the utf-7 xss attacks?</p>

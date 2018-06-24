@@ -1,0 +1,5 @@
+id: dsq-747525851
+date: 2008-12-24T23:07:04.0000000-08:00
+name: VS
+avatar: https://disqus.com/api/users/avatars/VS.jpg
+message: <p>VS already has support for database unit tests. By setting the datasource and the table name, unit tests can be made data driven. To retrieve the data, use TestContext object along with DataRow support. The unit test runs for every row in the resultset that is returned. I think unit test that has support for database should not be over-used but at the same time, it is a required feature.</p>

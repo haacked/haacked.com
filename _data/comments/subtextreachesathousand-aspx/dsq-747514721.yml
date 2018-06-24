@@ -1,0 +1,5 @@
+id: dsq-747514721
+date: 2006-04-12T23:03:00.0000000-07:00
+name: Ben Jones
+avatar: https://disqus.com/api/users/avatars/Ben Jones.jpg
+message: <p>I just started using it today with SQL 2005 and ASP.NET v1.1. I tried using ASP.NET 2.0, but got an error message. When I searched I figured out that .Text needs v1.1.  The other two problems were because I couldn't follow directions... 1) put my connection string at the first spot I saw a connection string in web.config and 2) ran the intall from the server instead of a remote machine.. that caused the links to show the local ip address instead of the domain name. I'm learning C# and ASP.NET after time with PHP and find I need a place to organize my thoughts and what I'm learning.  Since other peoples blog's help so much, I figure that maybe in the process of helping myself, I could help others.<br>Thanks a lot for making this available.</p>

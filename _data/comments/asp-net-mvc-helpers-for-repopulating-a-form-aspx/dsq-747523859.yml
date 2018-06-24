@@ -1,0 +1,5 @@
+id: dsq-747523859
+date: 2007-12-21T22:06:35.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Rick For the simple cases, this is a nice approach. I don't think having your field names match the property names is such a bad convention. Hungarian is so played! ;) Where it really breaks down is when you need 3 inputs for one property. We're working on ways to do that. For now, this is a nice way for the simple case.<br>@Sergio - So you you're saying you want "postbacks" in MVC? ;) It's an interesting approach, but I think the URL representing the resource you're looking at (ala REST) is kind of an important detail that I'd hate to simply give up.<br>If we did this, we really have 2 URLs that represent the same thing, the input form. Why even have the original URL then? <br>Perhaps /article/create renders the form when it's a GET request, but is also the action that does the creation when it is a POST.<br>It's certainly an approach one could take, but even so I think we still need to figure out ways to better deal with the original case because some developers will want to keep things more REST-like.</p>

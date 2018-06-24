@@ -1,0 +1,5 @@
+id: dsq-747537137
+date: 2011-12-15T01:37:11.0000000-08:00
+name: Rune
+avatar: https://disqus.com/api/users/avatars/Rune.jpg
+message: <p>Great blogpost... I am eager to get started working test driven on javascript code. Really want to have the same benefits on my client side code as I experience with my c# code. I've seen a couple of different approaches to get to the point when running the test suites from within visual studio. However to gain the true value of the tests I need to be able to get fast feedback from the system and not rely on manual execution. Therefore my real problem arises when I want to build it into the feedback loop using continuous integration. Our biild and ci platform is TFS and i am looking for a way to get the failed tests reported in TFS. Any expience in how to integrate for this purpose?</p>

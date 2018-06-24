@@ -1,0 +1,5 @@
+id: dsq-747531279
+date: 2010-01-04T00:56:48.0000000-08:00
+name: Sean Grimes
+avatar: https://disqus.com/api/users/avatars/Sean Grimes.jpg
+message: <p>@Andy <br>The problem with your approach is what happens if the user ends up closing out the browser or browser tab before the event gets a chance to fire. You then have a disconnect between what the user expected to happen when the user clicked the delete button and what the software actually did. I generally consider that kind of situation to be a bug, even if the software is working exactly as intended.</p>

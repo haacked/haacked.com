@@ -1,0 +1,5 @@
+id: dsq-825778629
+date: 2013-03-11T10:29:42.0000000-07:00
+name: Juscelino Tanaka
+avatar: https://disqus.com/api/users/avatars/Juscelino Tanaka.jpg
+message: "<p>Hi! I'm searching a function to \"plot\" a image like these on your post. Anything where I can give r,g,b . i.e: printDot(r,g,b [, x, y]); and it plots a image like these. I need a function because I'll plot these here, but after I'll need take the color based on screen position click. Could you help me?</p>"

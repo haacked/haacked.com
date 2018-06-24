@@ -1,0 +1,5 @@
+id: dsq-747525245
+date: 2008-05-19T20:47:15.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Betty in that case, routing wouldn't probably work for you. It's a programmatic technique for responding to requests with a resource. It's like URL rewriting, in a sense, but it's bidirectional and doesn't rewrite. If you don't have access to the source, I'd think you'd want to use a URL rewriting solution at the web server level.</p>

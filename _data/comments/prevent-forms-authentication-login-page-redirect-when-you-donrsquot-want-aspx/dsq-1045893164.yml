@@ -1,0 +1,5 @@
+id: dsq-1045893164
+date: 2013-09-15T14:50:41.0000000-07:00
+name: Mario
+avatar: https://disqus.com/api/users/avatars/Mario.jpg
+message: <p>Thank you. Used this solution and it worked. My 401 returns don't get redirected. Did not use the entire package. Just the source code listed here. Registration of the module was done by including:</p><p>  &lt;system.web&gt;<br>&lt;httpmodules&gt;<br>&lt;add name="SuppressFormsAuthenticationRedirectModule" type="AssemblyNameAndWorkspace.SuppressFormsAuthenticationRedirectModule"/&gt;<br>&lt;/httpmodules&gt;<br>&lt;/system.web&gt;</p><p>in the Web.config. Therefore the Register method is not required in this situation.</p>

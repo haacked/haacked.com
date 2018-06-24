@@ -1,0 +1,5 @@
+id: dsq-1185260362
+date: 2014-01-03T03:08:59.0000000-08:00
+name: Noel
+avatar: https://disqus.com/api/users/avatars/Noel.jpg
+message: <p>Phil,</p><p>I believe there is a bug in this code based on the original problem :</p><p>"If the number of elements I needed was larger than the number of elements in the array, I needed to pad the remaining space in the resulting array with zeros"</p><p>So if we take the values from you example and look at the result of  the "result" variable below</p><p>var result = source.Concat(Enumerable.Repeat(default(T), count))</p><p>we will see that the collection now has 7 elements in it!</p><p>I know that the .Take method will still always work, however this solution does not what the problem defined. <br>Maybe the if statement was the better way to go, as it solved the problem correctly</p>

@@ -1,0 +1,5 @@
+id: dsq-747520140
+date: 2007-05-10T23:50:07.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Karthik - Yeah, surprising eh? I started a Watin project to test UI. I think the first step will be to create tests that simply load each page in the admin and make sure they don't break.</p>

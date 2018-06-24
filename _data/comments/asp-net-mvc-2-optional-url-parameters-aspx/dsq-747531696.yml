@@ -1,0 +1,5 @@
+id: dsq-747531696
+date: 2010-02-21T12:07:11.0000000-08:00
+name: santhosh
+avatar: https://disqus.com/api/users/avatars/santhosh.jpg
+message: <p>Hi,<br>I have been using "UrlHelper.GenerateUrl()" to get the URL. But it gets only with RouteData as per my previous query.<br>Is there any way to get the URL without RouteData value.<br>Thanks,<br>Santhosh.</p>

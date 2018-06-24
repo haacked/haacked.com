@@ -1,0 +1,5 @@
+id: dsq-747534849
+date: 2011-04-15T21:55:54.0000000-07:00
+name: Lonnie
+avatar: https://disqus.com/api/users/avatars/Lonnie.jpg
+message: <p>In case anyone else has the problem I described in my earlier posts, I resolved it by uninstalling all Web Dev and MVC3 programs and reinstalling from the WebPI again.  <br>Just select Visual Web Developer Express 2010 SP1 alone.  It still fails to load SP1, but everything else installed and the issue no longer exists.</p>

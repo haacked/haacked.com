@@ -1,0 +1,5 @@
+id: dsq-747530724
+date: 2010-01-24T22:43:33.0000000-08:00
+name: DannyB
+avatar: https://disqus.com/api/users/avatars/DannyB.jpg
+message: <p>I've been looking around for a solution to a validation problem and have been unable find one. We have a Phone model that has three fields for area code, prefix, and line. Each one has a StringLength and RegularExpression attributes.  I don't want to have three different error messages when validating the phone. Is there a way to create a validator for both server- and client-side validation that just checks that the existing validators are valid? For example, if any of the existing DataAnnotation validators has an error for any of the fields then the custom validator fails and shows its message.</p>

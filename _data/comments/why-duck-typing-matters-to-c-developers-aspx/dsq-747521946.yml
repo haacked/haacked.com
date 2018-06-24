@@ -1,0 +1,5 @@
+id: dsq-747521946
+date: 2007-08-19T22:50:40.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: '<p>"The key here is that the burden is ultimately on the developer to be aware of what she is doing"<br>Which is completely antithetical to static typing. Usually the argument against dynamic typing, which is very different from dynamic dispatch (Ruby, Smalltalk, and Objective C are really dynamic dispatch, message based systems rather than dynamically typed), goes like this: "But what if some other programmer passes in the wrong object? I want the compiler to make sure that this type and only this type can be passed to my code.". <br>At which point I say, "Boy, you need to hire some smarter programmers. Who are these other programmers anyway?"<br>The duck typing class looked interesting, but it also seems like a giant reflection macro. ;)</p>'

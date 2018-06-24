@@ -1,0 +1,5 @@
+id: dsq-747522071
+date: 2007-10-17T18:20:43.0000000-07:00
+name: Bear
+avatar: https://disqus.com/api/users/avatars/Bear.jpg
+message: <p>oops... starting to look like spam but in the first post the quoted-pair rule should read:<br><code>\\[\x01-\x09\x0B\x0C\x0E-\x7F</code><br>instead of<br><code>\\[\x01-\x09\x0B\x0C\x0D-\x7F</code><br>Just a simple change from \x0D to \x0E to discount the CR.</p>

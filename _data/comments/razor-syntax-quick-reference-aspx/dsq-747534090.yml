@@ -1,0 +1,5 @@
+id: dsq-747534090
+date: 2011-04-10T02:34:10.0000000-07:00
+name: sandeep
+avatar: https://disqus.com/api/users/avatars/sandeep.jpg
+message: '<p>hi,<br>i am working on mvc3 project using Razor view engine.<br>i have to apply dynamically classes on div.<br>my syntax is given below:<br> <br>@{<br>    View.Title = "About Us";<br>}<br> <br>&lt;h2&gt;About&lt;/h2&gt;<br>@using(Html.BeginForm("About","HomeController")){<br>    int section = 0;<br>    if (section == 0)<br>    {<br>    &lt;div class="student"&gt;<br>    }<br>    else<br>    {<br>    &lt;div class="teacher"&gt;<br>    }<br>   &lt;/div&gt;<br> <br>   <br>    }<br> <br>At runtime it gives below error:<br>Parser Error Message: The using block is missing a closing "}" character.  Make sure you have a matching "}" character for all the "{" characters within this block, and that none of the "}" characters are being interpreted as markup.<br>how we can handle such dynamic design conditions<br></p>'

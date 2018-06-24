@@ -1,0 +1,5 @@
+id: dsq-747521142
+date: 2007-06-14T14:11:55.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>It's not that I want to use strings for the dates, I have to because attributes are compile time and I can't put in a runtime value such as a datetime as a value to the row attribute.</p>

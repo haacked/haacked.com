@@ -1,0 +1,5 @@
+id: dsq-747521717
+date: 2007-07-24T04:33:38.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Eric - I mentioned that you need to compile the app first. That will copy the Elmah dll into the bin folder.</p>

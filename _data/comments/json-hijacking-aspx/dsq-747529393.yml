@@ -1,0 +1,5 @@
+id: dsq-747529393
+date: 2009-12-20T08:20:42.0000000-08:00
+name: James Wheare
+avatar: https://disqus.com/api/users/avatars/James Wheare.jpg
+message: <p>JSONP has this exact same vulnerability and is the reason why you should NEVER expose sensitive information via a valid JavaScript statement. Much has already been written on this subject.<br>The ONLY safe way to return sensitive data is as an object literal on it's own. A JSONP callback is a valid JavaScript statement, just as an array literal sometimes is in some browsers.<br>An assignment statement is also valid, you could have written a blog post about how it's a bad idea to return sensitive data like this:<br><code>var pinNumber = "1234";</code><br>This is the first I've seen anything returning JSON as an array, but maybe it's more common than I thought, I suppose it's technically valid JSON.<br>For what it's worth, it looks like __defineSetter__ no longer works in the latest version of Firefox.</p>

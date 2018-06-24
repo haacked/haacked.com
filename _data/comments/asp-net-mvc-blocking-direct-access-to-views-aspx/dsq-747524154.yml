@@ -1,0 +1,5 @@
+id: dsq-747524154
+date: 2008-02-12T01:27:45.0000000-08:00
+name: Damien Guard
+avatar: https://disqus.com/api/users/avatars/Damien Guard.jpg
+message: <p>You might also want to consider:<br><code><br>&lt;httpHandlers&gt;<br>&lt;remove verb="*" path="*.asmx"/&gt;<br>&lt;add path="*.aspx" verb="*" type="System.Web.HttpForbiddenHandler"/&gt;<br>&lt;/httpHandlers&gt;<br></code></p>

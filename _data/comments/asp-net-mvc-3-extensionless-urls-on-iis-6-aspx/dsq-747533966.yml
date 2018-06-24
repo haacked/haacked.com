@@ -1,0 +1,5 @@
+id: dsq-747533966
+date: 2011-08-16T20:54:38.0000000-07:00
+name: IraIsBack
+avatar: https://disqus.com/api/users/avatars/IraIsBack.jpg
+message: <p>I run on a curious issue with my MVC3 app on a web site virtual directory of IIS 6. I published it from VS2010 (MSDEPLOY) with a virtual directory path on the destination website(wich i assumed will we created on publish). The folder was created on the iis machine but the app didnt work, i got the http 403 (Forbidden), so i tried everything on the previous and current post with no success, the forbidden page still remained.<br>The solution that worked for me was to clear and recreate de virtual directory on the IIS to an existing folder on then machine, then i published my mvc3 app and it "just worked". Seems VS2010 publish created the virtual directory path with a wrong configuration. ENSURE YOUR DESTINATION PUBLISH PATH EXISTS ON IIS BEFORE PUBLISHING FROM VS2010. RECREATE IT IF NECESSARY.</p>

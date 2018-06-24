@@ -1,0 +1,5 @@
+id: dsq-3072291402
+date: 2016-12-28T06:01:46.0000000-08:00
+name: Wolfgang
+avatar: https://disqus.com/api/users/avatars/Wolfgang.jpg
+message: <p>A simple alias that helps me to keep track of the aliases:<br>aliases = config --get-regexp '^alias\\.'</p>

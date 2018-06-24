@@ -1,0 +1,5 @@
+id: dsq-747533518
+date: 2010-11-10T00:05:36.0000000-08:00
+name: Johnny
+avatar: https://disqus.com/api/users/avatars/Johnny.jpg
+message: "<p>I'm getting a Parser Error when trying to view a WebForms (aspx) page after I upgraded to MVC3.  I followed all the steps in the release notes to do the upgrade and I've double checked that I don't have any references to MVC 2 anywhere in my solution.  But it looks like it's finding MVC2 in GAC, and it's causing a conflict.  Note that I've got another MVC project in the same solution and it doesn't seem to be having this problem.  Here's the error message:<br>Parser Error Message: The type 'System.Web.Mvc.ViewPage' is ambiguous: it could come from assembly 'C:\\Windows\\Microsoft.Net\\assembly\\GAC_MSIL\\System.Web.Mvc\\v4.0_3.0.0.0__31bf3856ad364e35\\System.Web.Mvc.dll' or from assembly 'C:\\Windows\\assembly\\GAC_MSIL\\System.Web.Mvc\\2.0.0.0__31bf3856ad364e35\\System.Web.Mvc.dll'. Please specify the assembly explicitly in the type name.<br>Source Error:<br>Line 1:  &lt;%@ Page Language=\"C#\" Inherits=\"System.Web.Mvc.ViewPage&lt;dynamic&gt;\" %&gt;<br>Anyone else having this problem?<br></p>"

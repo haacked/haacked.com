@@ -1,0 +1,5 @@
+id: dsq-747519381
+date: 2007-03-23T23:26:24.0000000-07:00
+name: orcmid
+avatar: https://disqus.com/api/users/avatars/orcmid.jpg
+message: <p>I am having the same problem with BlogJet together with Blogger.  (BlogJet does smart quotes, but the problem is for other characters, like &amp;amp;Lambda in <a href="http://orcmid.com/blog/2007/03/john-backus-december-3-1924-march-17.asp" rel="nofollow noopener" title="http://orcmid.com/blog/2007/03/john-backus-december-3-1924-march-17.asp">"&amp;Lambda; the Ultimate"</a>.<br>[Now we can also wonder about comment forms too, aye?]<br>I don't know where the character entities are being lost, but it can lead to the character not rendering properly when I bring a recent post back into BlogJet to update something. <br>They do render on the browser view of the blog page of the original post, but they break in the returned recent post from Blogger, and I have to fix them each time to avoid corrupting the post.</p>

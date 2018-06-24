@@ -1,0 +1,5 @@
+id: dsq-747537178
+date: 2011-12-13T16:06:59.0000000-08:00
+name: George
+avatar: https://disqus.com/api/users/avatars/George.jpg
+message: <p>That's very nice, unfortunately many .NET developers are afraid to use command-line tools (including Powershell), so won't use a new source control system like Git unless it has a very good Visual Studio integration like TFS has...<br>That's the unfortunate reality, and that's why many didn't use even SVN, which had some VS integration, but was quite broken 5 years ago (AnkhSVN), while VisuaSVN was not free, so was out of reach for many.</p>

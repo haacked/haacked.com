@@ -1,0 +1,5 @@
+id: dsq-747524327
+date: 2008-03-07T21:17:52.0000000-08:00
+name: Morten Mertner
+avatar: https://disqus.com/api/users/avatars/Morten Mertner.jpg
+message: <p>I can't see the logic behind choosing an ABC over interfaces at all.<br>With interfaces it's much easier to do versioning because you can extend the old interface with whatever new functionality you need by creating a new inherited interface. If need be, deprecate methods on classes that implement the old interface and direct users to the newer methods, but don't change the existing interface definitions.<br>It should be safe to update implementations to return the newer interface, as it is type compatible with the old interface from which it inherits.<br>The only drawback to this approach is that you might end up having an IHttpContext2 interface, if you run out of appropriate names to use for the newer version. But this is primarily a cosmetic issue that has little impact on functionality.</p>

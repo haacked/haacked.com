@@ -1,0 +1,5 @@
+id: dsq-747533520
+date: 2010-11-10T00:10:53.0000000-08:00
+name: Johnny
+avatar: https://disqus.com/api/users/avatars/Johnny.jpg
+message: <p>In case anyone else is having this same problem, I fixed the Parser Error issue by changing the &lt;runtime&gt; instructions in the Release Notes to 2.0.0.0 for the oldVersion.  Here's my runtime after the change.<br>  &lt;runtime&gt;<br>    &lt;assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1"&gt;<br>      &lt;dependentAssembly&gt;<br>        &lt;assemblyIdentity name="System.Web.Mvc" publicKeyToken="31bf3856ad364e35"/&gt;<br>        &lt;bindingRedirect oldVersion="2.0.0.0" newVersion="3.0.0.0"/&gt;<br>      &lt;/dependentAssembly&gt;<br>    &lt;/assemblyBinding&gt;<br>  &lt;/runtime&gt;</p>

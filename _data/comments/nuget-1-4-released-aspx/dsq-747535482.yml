@@ -1,0 +1,5 @@
+id: dsq-747535482
+date: 2011-06-20T17:37:52.0000000-07:00
+name: chris
+avatar: https://disqus.com/api/users/avatars/chris.jpg
+message: "<p>Managing Packages at the Solution Level is exactly what we need! Good step forward. <br>Pity about the problems with signing though: <br>21/06/2011 12:36:00 - VSIXInstaller.SignatureMismatchException: The installed version of 'NuGet Package Manager' is signed, but the update version has an invalid signature. Therefore, Extension Manager cannot install the update.<br>   at VSIXInstaller.Common.VerifyMatchingExtensionSignatures(IInstalledExtension installedExtension, IInstallableExtension updateExtension)<br>   at VSIXInstaller.InstallProgressPage.BeginInstallVSIX(SupportedVSSKU targetAppID)<br></p>"

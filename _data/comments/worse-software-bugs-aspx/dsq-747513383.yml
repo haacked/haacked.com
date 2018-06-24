@@ -1,0 +1,5 @@
+id: dsq-747513383
+date: 2005-11-08T02:48:00.0000000-08:00
+name: Scott Williams
+avatar: https://disqus.com/api/users/avatars/Scott Williams.jpg
+message: <p>I think my first bug was when I quickly "fixed" an update query in an application and forgot to include a WHERE clause. Fortunately the table was recently backed up and we only lost a couple of rows.</p>

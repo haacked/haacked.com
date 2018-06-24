@@ -1,0 +1,5 @@
+id: dsq-747522384
+date: 2007-10-25T19:07:58.0000000-07:00
+name: Mathieu 'p01' Henri
+avatar: https://disqus.com/api/users/avatars/Mathieu 'p01' Henri.jpg
+message: <p>A while ago I was spam comments on a site. I added a honeypot plus a hashed timestamp in an input hidden. If the form is submitted less than 3 seconds after the generation of the page, chances are pretty high that it is a bot. I also check for the number of URLs in the comment and if a domain's URL is already in my blacklist.<br>The amount of spam dropped drastically.</p>

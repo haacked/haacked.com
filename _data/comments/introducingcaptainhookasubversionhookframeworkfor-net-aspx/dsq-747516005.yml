@@ -1,0 +1,5 @@
+id: dsq-747516005
+date: 2007-07-26T06:50:00.0000000-07:00
+name: Sandeep Giri
+avatar: https://disqus.com/api/users/avatars/Sandeep Giri.jpg
+message: <p>It seems that the code that sends email has been commented out.<br>I found it strange that the whole purpose the project is defeated because the idea was to have a way to send commit mails on windows.<br>Urgh! After two hours of checking-out, digging and compiling the code and finding how to get things done. I realized that the code does compile if u uncomment the mail-sender. <br>If you cant handle an open source why do you start. By this time I might have done writing my own email sender. <br>It is strange to find hardly any good open source .net projects.<br></p>

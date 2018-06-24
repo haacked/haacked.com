@@ -1,0 +1,5 @@
+id: dsq-747517723
+date: 2006-11-21T12:23:37.0000000-08:00
+name: Michal Chaniewski
+avatar: https://disqus.com/api/users/avatars/Michal Chaniewski.jpg
+message: <p>I use this technique almost every time I have to create a delimited string.<br>Also, if I don't know the size of the array so I can't initialize it beforehand, I use a List&lt;string&gt; collection to add items to, then:<br>string.Join("|", myList.ToArray());<br>It's a small performance hit, but in most cases it can be ignored, and I always prefer code readability and maintainability over premature optimization.</p>

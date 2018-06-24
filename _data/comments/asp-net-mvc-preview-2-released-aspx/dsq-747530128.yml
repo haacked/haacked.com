@@ -1,0 +1,5 @@
+id: dsq-747530128
+date: 2009-10-03T14:16:00.0000000-07:00
+name: sawik
+avatar: https://disqus.com/api/users/avatars/sawik.jpg
+message: <p>I try to use ValidationMessageFor in my simple demo using ASP.NET MVC 2 Release 2 and got error. System.Web.Mvc installed doesn't contain this Html extenssion method. I see in the source code from codeplex, that it is in MvcFutures project but not in the System.Web.Mvc.<br> I would like to take advantage of using lamda expression with Html.EditorFor and Html.ValidationMessageFor because my ViewModel is complex and is subject to future refactoring, so having Strongly Typed UI Helpers would be nice.<br> Is the installer missing ValidationMessageFor functionality?</p>

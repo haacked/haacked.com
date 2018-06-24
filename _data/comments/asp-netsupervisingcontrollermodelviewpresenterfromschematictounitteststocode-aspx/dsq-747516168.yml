@@ -1,0 +1,5 @@
+id: dsq-747516168
+date: 2006-10-26T15:06:03.0000000-07:00
+name: Ian Cooper
+avatar: https://disqus.com/api/users/avatars/Ian Cooper.jpg
+message: <p>Great post, but our usage of the pattern is far simpler. We create a presenter reference in the view and pass it the view it is in along with the model.<br>Our tests then tend to represent actions on the UI for example DisplayLogs and we use the mocks the check for the interaction with the model and the view.<br>We still achieve the same goal, a thin UI, and testing of our UI logic, but I would say that we are more UI independent because we make no assumptions about whether the view is  Webform or Winform.<br>Render unto Ceaser the things that are Ceasers.<br>The other point to be aware of is that anything you can do with a delegate you can do with an interface i.e. the observer pattern. In many cases its more testable.<br></p>

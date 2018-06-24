@@ -1,0 +1,5 @@
+id: dsq-1175755306
+date: 2013-12-24T07:09:31.0000000-08:00
+name: Guest
+avatar: https://disqus.com/api/users/avatars/Guest.jpg
+message: '<p>Haack to the rescue again. I just came across this, but my requirements are slightly different. I wanted to return a "null" as the last instance.</p><p>Took your code and added support for null - here you go!</p><p>public static void ReturnsInOrder&lt;t, tresult=""&gt;(this ISetup&lt;t, tresult=""&gt; setup,</p><p>params object[] results) where T: class {</p><p>var queue = new Queue(results);</p><p>setup.Returns(() =&gt; {</p><p>var result = queue.Dequeue();</p><p>if (result is Exception) {</p><p>throw result as Exception;</p><p>}</p><p>if (result == null) {</p><p>return default(TResult);</p><p>}</p><p>return (TResult)result;</p><p>});</p><p>}</p><p>And its use:</p><p>mockQueue</p><p>.Setup(x =&gt; x.GetNextMessage())</p><p>.ReturnsInOrder(new InputMessage(), new InputMessage(), new InputMessage(), null);</p>'

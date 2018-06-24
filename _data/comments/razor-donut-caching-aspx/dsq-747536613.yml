@@ -1,0 +1,5 @@
+id: dsq-747536613
+date: 2011-11-27T02:45:42.0000000-08:00
+name: Matt
+avatar: https://disqus.com/api/users/avatars/Matt.jpg
+message: <p>I like @nocache, and reckon @cachefor should be the other option. It's a little more obvious what it's used for, without being substantially longer.<br>Is there the option to support 'caching until method X tells you to bust the cache'? For example, having a code block that is cached until a file is updated, or some other custom method that busts a cache that is more complicated than just a time span. @cacheuntil could be a good name for that - although I do prefer to keep then together rather than having different names to use for built-in vs. self-made functionality.</p>

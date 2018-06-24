@@ -1,0 +1,5 @@
+id: dsq-747534431
+date: 2011-02-12T05:39:26.0000000-08:00
+name: Gene
+avatar: https://disqus.com/api/users/avatars/Gene.jpg
+message: <p>Got the VS 2010 Ultimate error you mention above. Uninstalled Nuget via the control panel. Now when I reopen VS it still says Updates (1), but nothing is listed.<br>If I attempt to reinstall Nuget from extension manager it says it is already installed.</p>

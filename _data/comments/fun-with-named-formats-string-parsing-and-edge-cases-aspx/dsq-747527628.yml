@@ -1,0 +1,5 @@
+id: dsq-747527628
+date: 2009-01-05T00:01:05.0000000-08:00
+name: Brannon
+avatar: https://disqus.com/api/users/avatars/Brannon.jpg
+message: <p>I've used a similar method for formatting emails as well, but ended up converting to NVelocity because I needed conditional and iteration support.  NVelocity also handles simple expressions.  FWIW, I used the NVelocity included with MonoRail (<a href="http://svn.castleproject.org:8080/svn/castle/trunk/Tools/NVelocity" rel="nofollow noopener" title="http://svn.castleproject.org:8080/svn/castle/trunk/Tools/NVelocity">svn.castleproject.org:8080/.../NVelocity</a>), since the main NVelocity project looks dead.</p>

@@ -1,0 +1,5 @@
+id: dsq-747525200
+date: 2008-05-20T17:05:23.0000000-07:00
+name: Kasper Pedersen
+avatar: https://disqus.com/api/users/avatars/Kasper Pedersen.jpg
+message: "<p>Hi Phil!<br>Am I missing something? I still get the following error:<br>\"Could not load file or assembly 'System.Web.Mvc' or one of its dependencies. Strong name signature could not be verified.  The assembly may have been tampered with, or it was delay signed but not fully signed with the correct private key. (Exception from HRESULT: 0x80131045)\"<br></p>"

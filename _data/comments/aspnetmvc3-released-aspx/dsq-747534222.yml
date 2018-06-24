@@ -1,0 +1,5 @@
+id: dsq-747534222
+date: 2011-03-04T09:25:50.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Hilton we look for all public types in the current project and in referenced assemblies. We filter out types in certain System and Microsoft namespaces, etc.</p>

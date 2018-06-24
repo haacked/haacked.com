@@ -1,0 +1,5 @@
+id: dsq-747512129
+date: 2005-06-10T15:44:00.0000000-07:00
+name: Roy Osherove
+avatar: https://disqus.com/api/users/avatars/Roy Osherove.jpg
+message: <p>Interesting implementation!<br><br>Have you looked at XtUnit? :<br><br><a href="http://weblogs.asp.net/rosherove/archive/2004/10/05/238201.aspx" rel="nofollow noopener" title="http://weblogs.asp.net/rosherove/archive/2004/10/05/238201.aspx">http://weblogs.asp.net/rosherove/archive/2004/10/05/238201.aspx</a><br><br><br><br>It uses interception on the test fixture level which allows you to put an attribute on practucally any class of any unit test framework.<br><br><br><br>I wasn't aware of the TipUrl thing, thanks for that.</p>

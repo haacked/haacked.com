@@ -1,0 +1,5 @@
+id: dsq-747533739
+date: 2010-12-16T18:48:48.0000000-08:00
+name: ashic
+avatar: https://disqus.com/api/users/avatars/ashic.jpg
+message: <p>Erm...why aren't we calling it simply "Data" in both the controller and the view again? What's the "View" prefix doing? If it's not a viewresult and we wished to pass dynamic data to a different type of "ActionResult", would we still call it "ViewBag"? Simply calling it "Data" would result in:<br>1. Less typing.<br>2. Be applicable to any ActionResult.<br>3. Convey all intent necessary.<br>4. Won't sound as silly as Bag or Purse...<br>Erm...why aren't we calling it simply "Data" in both the controller and the view again?</p>

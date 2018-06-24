@@ -1,0 +1,5 @@
+id: dsq-747525326
+date: 2008-12-10T02:47:12.0000000-08:00
+name: q
+avatar: https://disqus.com/api/users/avatars/q.jpg
+message: <p>Hello,<br>I can't get the demo to work on the latest version of the framework. I'm getting a "StackOverflowException" when saving on the "Edit Product" screen.<br>I was trying to implement an edit in my own app and followed the example here, but in both projects I get the same unhandled exception error.<br>Any ideas?</p>

@@ -1,0 +1,5 @@
+id: dsq-1118564727
+date: 2013-11-11T12:47:37.0000000-08:00
+name: Dan Sutton
+avatar: https://disqus.com/api/users/avatars/Opwernby.jpg
+message: "<p>The main problem with this sort of thing (apart from it making the code mostly write-only) is that removing the If and replacing it with a generalized routine will, in most cases, slow down the code abominably. Whereas the default case for the If is a simple thing which requires only a few machine cycles, the superposition of a Linq-style query over it will create a bottleneck that's absolutely unnecessary. Sometimes, elegance is doing the obvious: I can't see a real programmer arguing that this type of thing makes anything better. Sorry...</p>"

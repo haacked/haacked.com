@@ -1,0 +1,5 @@
+id: dsq-747532961
+date: 2010-08-10T00:42:49.0000000-07:00
+name: Bret Ferrier
+avatar: https://disqus.com/api/users/avatars/runxc1.jpg
+message: "<p>I don't know the whole thing felt a little bit too much like VB for me.  I do however like when people use named parameters as it is often less clear to read.<br>Email.SendMail(\"this is is\",\"what is it\",\"email@email.com\")<br>as opposed to <br>Email.SendMail(Body: \"this is is\", Subject: \"what is it\", Email: \"email@email.com\")</p>"

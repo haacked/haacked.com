@@ -1,0 +1,5 @@
+id: dsq-1058218228
+date: 2013-09-25T00:23:34.0000000-07:00
+name: David De Sloovere
+avatar: https://disqus.com/api/users/avatars/DavidDeSloovere.jpg
+message: <p>For C#, StyleCop was the first thing that came to mind. My team uses it and I couldn't code without it anymore. It takes some time to get everybody on board, but it pays off. I think it also follows the 'Framework Design Guidelines'.</p><p>So we've got this great tool, but I don't know why not everyone is using it.<br>Maybe because it's a plugin (and only for Visual Studio) and most people don't know about it? (Although I can be added to the build process easily.)</p>

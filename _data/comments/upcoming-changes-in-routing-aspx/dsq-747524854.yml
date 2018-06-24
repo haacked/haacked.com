@@ -1,0 +1,5 @@
+id: dsq-747524854
+date: 2008-04-10T23:04:44.0000000-07:00
+name: davidalpert
+avatar: https://disqus.com/api/users/avatars/davidalpert.jpg
+message: <p>Does this mean that i can suddenly drop MVC-style code (using the System.Web.Routing mechanism) into an existing Web Forms application and the routing mechanism will default to Web Forms for <em> files that exist on disk</em> such as my existing pages, yet route into my models and controllers if a URL would otherwise return a 404?</p>

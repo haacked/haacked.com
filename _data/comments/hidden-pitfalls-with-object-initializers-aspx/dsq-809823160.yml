@@ -1,0 +1,6 @@
+id: dsq-809823160
+replyToId: dsq-809633199
+date: 2013-02-23T09:50:25.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>We only use R# and FxCop for analysis. I'm not to keen on StyleCop as I understand you can't customize the styles.</p><p>I am interested in trying out other analysis tools if I think they'd help.</p>

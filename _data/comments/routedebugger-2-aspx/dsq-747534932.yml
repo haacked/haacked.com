@@ -1,0 +1,5 @@
+id: dsq-747534932
+date: 2011-08-23T08:20:03.0000000-07:00
+name: joj
+avatar: https://disqus.com/api/users/avatars/joj.jpg
+message: "<p>I wanted the debugger mainly for debugging routes that don't work (meaning, error results: 404 or \"I couldn't find the view, and I searched everywhere\" type results). Routes that work are of little interest to me. The old debugger did this. The new one doesn't, or I have to configure stuff I don't know how to configure. I have gone back to the old debugger because of this.</p>"

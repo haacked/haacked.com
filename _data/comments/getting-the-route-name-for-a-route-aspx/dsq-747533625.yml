@@ -1,0 +1,5 @@
+id: dsq-747533625
+date: 2010-11-28T19:34:53.0000000-08:00
+name: tvanfosson
+avatar: https://disqus.com/api/users/avatars/tvanfosson.jpg
+message: <p>Your example of the new extension methods doesn't use it; it uses the old extension method.<br>&gt;&gt;&gt; var route = routes.MapRoute("rName", "url");<br>should be<br>&gt;&gt;&gt; var route = routes.Map("rName", "url");</p>

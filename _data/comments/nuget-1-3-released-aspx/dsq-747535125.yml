@@ -1,0 +1,5 @@
+id: dsq-747535125
+date: 2011-04-26T19:45:22.0000000-07:00
+name: Dave
+avatar: https://disqus.com/api/users/avatars/Dave.jpg
+message: <p>It appears that NuGet was installed with elevated rights in VS2010 and was never updated when I installed the MVC tools update. I just uninstalled and reinstalled without the elevation and believe it will work fine next time.</p>

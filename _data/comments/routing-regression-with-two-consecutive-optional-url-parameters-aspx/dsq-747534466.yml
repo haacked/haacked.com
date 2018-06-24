@@ -1,0 +1,5 @@
+id: dsq-747534466
+date: 2011-02-20T03:17:51.0000000-08:00
+name: Johannes Hansen
+avatar: https://disqus.com/api/users/avatars/Johannes Hansen.jpg
+message: <p>Hi Phil, thanks for writing this post. I've asked about this "change" between MVC2 and MVC3 on Connect and StackOverflow (<a href="http://stackoverflow.com/questions/4846022/" rel="nofollow noopener" title="http://stackoverflow.com/questions/4846022/">http://stackoverflow.com/questions/4846022/</a>), and the responses have been few and far apart. So its nice to hear whats actually going on.<br>I was wondering what the fix will be? Will it be like MVC2 but throw an exception for the "@Url.RouteUrl("by-day", new { day = 23 })" case, or will there be another kind of resolution to the problem?</p>

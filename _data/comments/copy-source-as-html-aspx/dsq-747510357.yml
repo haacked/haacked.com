@@ -1,0 +1,5 @@
+id: dsq-747510357
+date: 2004-11-03T00:30:00.0000000-08:00
+name: Colin
+avatar: https://disqus.com/api/users/avatars/Colin.jpg
+message: <p>Phil,<br><br><br><br>CopySourceAsHtml only adds commands to the "Code Window" context menu.  If you want to copy ASP.NET, HTML, CSS, XML, etc, you have to add the commands to your menus or toolbars through Tools &gt; Customize... &gt; Commands &gt; Addins.  See<br><br><br><br><a href="http://www.jtleigh.com/people/colin/blog/archives/2004/10/copysourceashtm_1.html" rel="nofollow noopener" title="http://www.jtleigh.com/people/colin/blog/archives/2004/10/copysourceashtm_1.html">http://www.jtleigh.com/people/colin/blog/archives/2004/10/copysourceashtm_1.html</a><br><br><br><br>The next version will add commands to all relevant context menus.  I just need to decide which context menus are relevant, and what their names are.<br><br><br><br>Colin</p>

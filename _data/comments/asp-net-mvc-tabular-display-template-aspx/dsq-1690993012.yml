@@ -1,0 +1,5 @@
+id: dsq-1690993012
+date: 2014-11-13T02:40:13.0000000-08:00
+name: nikolai
+avatar: https://disqus.com/api/users/avatars/nikolai.jpg
+message: '<p>Very useful article!<br>I see only one issue: If the list with books is empty you get an exception. <br>Better alternative to get all model metadata properties:</p><p>ModelMetadataProviders.Current.GetMetadataForType(null, typeof(Book)).Properties</p><p>This works for empty lists too!</p>'

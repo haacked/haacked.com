@@ -1,0 +1,5 @@
+id: dsq-747531963
+date: 2011-01-28T03:19:14.0000000-08:00
+name: Ashwani Kumar
+avatar: https://disqus.com/api/users/avatars/Ashwani Kumar.jpg
+message: <p>Hello Phil,<br>I tried using the code given for creating AntiXss encoder. It works fine for my most of the pages. But, on some of my pages I am using Google recaptcha, after using AntiXss encoder, the captcha is not working. Can u tell teh reason for that?<br>Is there any way to know if a string is already encoded, so as to avoid double encoding?<br>Thanks<br>Ashwani<br></p>

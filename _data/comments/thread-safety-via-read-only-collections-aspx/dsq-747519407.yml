@@ -1,0 +1,5 @@
+id: dsq-747519407
+date: 2007-03-25T16:03:11.0000000-07:00
+name: Thomas Freudenberg
+avatar: https://disqus.com/api/users/avatars/Thomas Freudenberg.jpg
+message: <p>ReadOnlyCollection&lt;T&gt; inherits ICollection&lt;T&gt;, so it has to implement ICollection&lt;T&gt;.Add. However, ReadOnlyCollection&lt;T&gt; hides the method by implementing it  explicitly and throwing a NotSupportedException.</p>

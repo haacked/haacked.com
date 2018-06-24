@@ -1,0 +1,5 @@
+id: dsq-747521894
+date: 2007-08-13T19:38:13.0000000-07:00
+name: Rush
+avatar: https://disqus.com/api/users/avatars/Rush.jpg
+message: <p>Playing around with Coral CDN it seems to have slowed my site down. I also am finding that for external css and js files that it would be better to host it from my site since Coral does not gzip these files and my site can. This pulls down my YSlow score considerably but my site loads faster. They should take this into account when grading :(  I am guessing the bigger CDN's can gzip files and are faster.</p>

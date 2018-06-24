@@ -1,0 +1,5 @@
+id: dsq-747530843
+date: 2010-11-24T14:23:05.0000000-08:00
+name: Ryan
+avatar: https://disqus.com/api/users/avatars/Ryan.jpg
+message: "<p>I've got a stupid question: is it possible to replace all of the english text around the validation errors with errors in a different language. WITHOUT using data annotations?<br>We've built a web application which currently only supports one language (dutch).  It will eventually be globalized, but the immediate problem is that the error messages are all (US) English.<br>It's not really efficient use of time to add several thousand attributes to view models just to change a dozen string constants..</p>"

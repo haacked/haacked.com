@@ -1,0 +1,5 @@
+id: dsq-747526281
+date: 2008-09-28T12:36:47.0000000-07:00
+name: Samiq
+avatar: https://disqus.com/api/users/avatars/Samiq.jpg
+message: <p>There are also breaking changes in Html.DropDownList which now request for a optionLabel which inserts a non-value option at the top of the combo box, I think this should be optional. There are times where I don't like this to be generated.</p>

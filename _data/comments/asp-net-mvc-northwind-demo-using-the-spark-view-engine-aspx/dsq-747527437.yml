@@ -1,0 +1,5 @@
+id: dsq-747527437
+date: 2008-12-09T22:15:49.0000000-08:00
+name: Steve Wagner
+avatar: https://disqus.com/api/users/avatars/Steve Wagner.jpg
+message: <p>I dont like on Spark that it is really hard to find the template code between the html attributes. I think it must be more clear what is template and what is html.<br>But here is the NHaml example :-)<br>%ul.products<br>  - foreach( var product in ViewData.Model )<br>%li=product.ProductName</p>

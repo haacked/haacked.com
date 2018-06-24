@@ -1,0 +1,5 @@
+id: dsq-747528519
+date: 2009-04-03T05:53:06.0000000-07:00
+name: James
+avatar: https://disqus.com/api/users/avatars/James.jpg
+message: <p>@ANaimi<br>Are you sure that's possible with javascript? As Phil points out, XMLHttpRequest will only work for the current domain.</p>

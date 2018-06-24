@@ -1,0 +1,5 @@
+id: dsq-747520532
+date: 2007-05-22T21:34:03.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I have to be honest, I agree with everyone that WHERE should be Where. It follows naming guidelines and when you're writing code, the WHERE is not special in any way. It's just another method. Why should it violate casing rules. <br>Why not apply the same thing to QUERY?</p>

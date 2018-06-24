@@ -1,0 +1,5 @@
+id: dsq-747534700
+date: 2011-04-15T23:46:21.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Did you try putting a Web.config.transform in the Content\Views\ directory of your package?</p>

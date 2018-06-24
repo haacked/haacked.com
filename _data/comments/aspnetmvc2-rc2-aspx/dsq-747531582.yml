@@ -1,0 +1,5 @@
+id: dsq-747531582
+date: 2010-02-10T19:15:39.0000000-08:00
+name: Dan A
+avatar: https://disqus.com/api/users/avatars/Dan A.jpg
+message: <p>Phil,<br>I just swapped out RC1 for RC2 in my application and now the model binding to a collection does not work. Can someone look into this?</p>

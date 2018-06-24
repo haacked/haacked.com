@@ -1,0 +1,5 @@
+id: dsq-747522435
+date: 2010-07-04T04:21:04.0000000-07:00
+name: Paul
+avatar: https://disqus.com/api/users/avatars/Paul.jpg
+message: <p>Why not generate the honeypot using the users session id <br>That way it changes the field name for every user, you can validate on the session Id submitted and also validate that it is blank<br>combine this with a check between when the page was generated and when it was submitted (server side) and you can stop the bot</p>

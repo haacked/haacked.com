@@ -1,0 +1,5 @@
+id: dsq-747517959
+date: 2008-10-30T04:17:16.0000000-07:00
+name: Karl Burndorfer
+avatar: https://disqus.com/api/users/avatars/Karl Burndorfer.jpg
+message: <p>Hi Phil, I'm trying to use NUnit with msBuild to automate the build and testing of our webservices. We can test them fine inside Visual Studio (2008) if we first get the VS Dev server up for the websites. I am hoping your code will help with this, but I do not have the needed id/pw to access it. If you think this will work for my situation, could you please sent the .cs files or provide the access?<br>Thanks</p>

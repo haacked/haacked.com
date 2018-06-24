@@ -1,0 +1,5 @@
+id: dsq-747508294
+date: 2009-01-22T10:27:21.0000000-08:00
+name: MT from SD
+avatar: https://disqus.com/api/users/avatars/MT from SD.jpg
+message: '<p>I just spent 8 hours on this error.  After comparing the Fiddler2 sniffer requests of the headers when accessing the site using I.E. vs. those headers when accessing the site via my code, I saw that "Expect: 100-continue" header.  After doing a Google search, I stumbled accross your blog, implemented "myHttpWebRequest.ServicePoint.Expect100Continue = false;" in my code, and bingo... it now works!  Thanks for saving me from another 8 hours of frustration!!!</p>'

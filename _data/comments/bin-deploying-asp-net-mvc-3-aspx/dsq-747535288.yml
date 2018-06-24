@@ -1,0 +1,5 @@
+id: dsq-747535288
+date: 2011-05-25T13:35:08.0000000-07:00
+name: Stefan Kip
+avatar: https://disqus.com/api/users/avatars/stefankip.jpg
+message: <p>I just tried this with a ASP.NET 4.0 Web Project:<br>- Added folder called "_bin_deployableAssemblies"<br>- Added two assemblies to the folder<br>- Cleared the bin folder<br>- Built with VS2010 SP1<br>It works great! Last weeks I've really been looking for something like this, thanks!</p>

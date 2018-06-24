@@ -1,0 +1,5 @@
+id: dsq-747534758
+date: 2011-04-07T11:38:50.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@marisks when you install a package into a project, it does install it into a solution. If you then "install" it into another project, it just "applies" it to that project. It doesn't re-download the project. That's how it works today.</p>

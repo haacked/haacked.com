@@ -1,0 +1,5 @@
+id: dsq-747523712
+date: 2007-12-23T19:00:31.0000000-08:00
+name: Alexey
+avatar: https://disqus.com/api/users/avatars/Alexey.jpg
+message: "<p>Hi Phil,<br>I have the same problem as the one that Ben Hall has (VerifyIndexSelectsCorrectViewUsingMockViewFactory fails): same exception, same stack trace. Reflector shows me that the only place where TempData setter is called is Controller.Execute method, which, in its turn, is called by MvcHandler.ProcessRequest method but none of the methods used in your test.<br>The test passes when I insert the following line:<br>controller.GetType().GetProperty(\"TempData\").SetValue(controller, new TempDataDictionary(httpContextMock), null);<br>But sorry, I can't stand it.<br>Am I still going the wrong way?<br>Thanks.</p>"

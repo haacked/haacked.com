@@ -1,0 +1,5 @@
+id: dsq-747535131
+date: 2011-04-27T02:23:38.0000000-07:00
+name: Donnie Hale
+avatar: https://disqus.com/api/users/avatars/Donnie Hale.jpg
+message: <p>I had the same problem as David and Michael. Here's what I did to get 1.3 installed:<br>- Download .vsix to local file system<br>- Uninstall Nuget from Control Panel<br>- Uninstall Nuget within VS 2010 (it still showed up there even after Control Panel uninstall)<br>- Double-click the .vsix to install it<br>Success!<br>Thanks for everything, Phil.<br></p>

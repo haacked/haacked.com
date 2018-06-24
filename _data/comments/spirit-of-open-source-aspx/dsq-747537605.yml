@@ -1,0 +1,5 @@
+id: dsq-747537605
+date: 2012-02-22T22:07:24.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@CMike I think you're confusing Free Software with Open Source, which is another discussion entirely! RMS is not a fan of the term "open source" and rejects it. So while RMS is against intellectual property, open source licenses are not necessarily against that. <br>For example, permissive licenses such as BSD, MIT, and MS-PL allow you to take their code, change it, and keep your *changes* proprietary. How's that for business friendly?<br>And giving away software freely doesn't preclude one from having a business model. Red Hat seems to be doing well (last I heard) building a business on Linux.<br>So in all the discussions here, I don't think anyone is telling you you can't produce proprietary code, except for maybe RMS. :)</p>

@@ -1,0 +1,5 @@
+id: dsq-747517322
+date: 2006-10-18T18:57:00.0000000-07:00
+name: Eric Appel
+avatar: https://disqus.com/api/users/avatars/Eric Appel.jpg
+message: <p>If you do this:<br></p><blockquote><br>public void GetWithSqlParams(SystemUser aUser)<br>{<br>  SqlHelper.ExecuteNonQuery(Settings.ConnectionString<br>    , CommandType.StoredProcedure<br>    , "User_Update"<br>    , aUser.Id<br>    , aUser.Name<br>    , aUser.Email<br>    , aUser.LastLogin<br>    , aUser.LastLogout);<br>}<br></blockquote><p><br>then you aren't actually creating SqlParameter objects, correct?  I wasn't sure if SqlHelper.ExecuteNonQuery() parameter list actually created SqlParameter objects for you when passing in what looks to be string types.  Maybe I am missing something.</p>

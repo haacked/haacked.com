@@ -1,0 +1,5 @@
+id: dsq-747523390
+date: 2007-11-15T20:39:51.0000000-08:00
+name: norapinephrine
+avatar: https://disqus.com/api/users/avatars/norapinephrine.jpg
+message: <p>Unit tests cannot validate the correctness of an application, however, they can definitely be used to validate the algorithmic correctness , reliability, and robustness of a small "chunk" of code.  It is system tests that verify the correctness of an application as a whole by exposing weaknesses in everything from the requirements definitions through to software performance.  <br>In response to the comments above, I personally have not met any developers who think that unit tests validate correctness.  Rather, I have had the misfortune of working with developers that are so focussed on application correctness that they skip unit testing entirely and rely on system testers to validate their code.  This allows some spurious bugs such as memory leaks, address space violations, and interruption handler errors to slip by undetected until the product has landed in the customers' hands.</p>

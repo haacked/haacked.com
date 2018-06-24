@@ -1,0 +1,5 @@
+id: dsq-747518765
+date: 2007-02-27T04:11:03.0000000-08:00
+name: Ray Villalobos
+avatar: https://disqus.com/api/users/avatars/Ray Villalobos.jpg
+message: <p>This is PHP, but I didn't time myself so I don't know if I'd make it. I kind of lose track of time when I'm thinking about a problem. No more than 3-5 mins. I thought it was an obvious modulus operator problem soon as I saw it. If someone didn't know about the modulus operator, it'd be much harder.<br>I keep on thinking the last part is kind of messy and there's probably a better way of doing it.<br>&lt;? for ($x=1; $x&lt;=100; $x++) {<br>if ($x%3==0) {<br>print "Fizz";<br>} <br><br>if ($x%5==0) {<br>print "Buzz";<br>} <br><br><br>if ((!($x%3==0)) &amp;&amp; (!($x%5==0))){<br>print $x;<br>}<br>print "&lt;br /&gt;";<br>}<br>?&gt;</p>

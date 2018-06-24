@@ -1,0 +1,5 @@
+id: dsq-747526614
+date: 2011-03-08T22:48:32.0000000-08:00
+name: Ignacio Fuentes
+avatar: https://disqus.com/api/users/avatars/Ignacio Fuentes.jpg
+message: <p>Is this working in mvc 3?<br>Im getting an error when I add the <br>@Html.HiddenIndexerInputForModel() to my editorTemplate<br><br>even though i do get Intellisense for the Helper its telling me that the method is undefined.</p>

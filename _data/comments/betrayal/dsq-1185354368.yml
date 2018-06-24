@@ -1,0 +1,6 @@
+id: dsq-1185354368
+replyToId: dsq-1185207082
+date: 2014-01-03T05:42:13.0000000-08:00
+name: Brad Westness
+avatar: https://disqus.com/api/users/avatars/bradwestness.jpg
+message: <p>Yeah I don't understand the fear of abandonment with Open Source. I mean, sure it's a risk when including any third-party library in your application, but at least with Open Source you can continue to build and run your library even if the original maintainers stop actively contributing.</p><p>With closed-source software, you run into situations where the company completely disappears or discontinues the project and at that point you're basically hosed since the source is nowhere. Worse yet, I've seen situations where a commercial third-party library has code to phone home and verify it's license key is valid every so often, and once the company shuts down the licensing server you're basically SOL.</p><p>So even though limping along with an unsupported Open Source library is not an optimal situation, it's better than suddenly having to rewrite huge portions of your application because FlyByNight Corp suddenly disappeared.</p>

@@ -1,0 +1,5 @@
+id: dsq-747520340
+date: 2007-05-19T11:14:03.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Mike <br>1. I don't see w3wp.exe in my task manager. That's interesting.<br>2. There's nothing in my application log related to this.<br>3. I haven't tried downloading the windows debug symbol. I did share my desktop via GoToMeeting with a member of the IIS7 team who was as stymied as I was. We'll open a trouble ticket. <br>If I have time tomorrow, I can run through all the steps in your post. I just wasn't sure if it was applicable given that there were no event log messages and the appPools are all started and never die. <br>When I run <code>appcmd list apppools</code> I always get the same result, showing them started.</p>

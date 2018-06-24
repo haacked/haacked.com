@@ -1,0 +1,5 @@
+id: dsq-747522359
+date: 2007-09-10T22:33:40.0000000-07:00
+name: Carl
+avatar: https://disqus.com/api/users/avatars/Carl.jpg
+message: <p>I like this idea.  On a site of mine that attracts spam submits, upon detecting spam I delay responding for 30 seconds before returning a "successful" submit and ignore the input.  I'm not sure if the bots actually wait for a response, but I throw in a delay for good measure.<br><br></p>

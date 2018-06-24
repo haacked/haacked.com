@@ -1,0 +1,6 @@
+id: dsq-1118390835
+replyToId: dsq-1118350805
+date: 2013-11-11T10:41:46.0000000-08:00
+name: martijnhoekstra
+avatar: https://disqus.com/api/users/avatars/martijnhoekstra.jpg
+message: <p>I agree that there are algorithms (like one you propose, where you might want to step through two collections in lock step) that are easier solved with two collections with the same amount of elements in them, but the central issue here is that apparently you don't have those here. It reminds me somewhat of the joke with the chemist, physicist and economist on the deserted island. The chemist proposes to use the local plants to make a fire that will produce a lot of black smoke, hopefully attracting the attention of a passing ship. The phycicist proposes a system of mirrors to signal for help. The economist begins "well, if we assume we have a boat...". If you need to pad your list, your actual problem to be solved is up the stack, and padding it is probably not the cleanest solution. If you are using the padded elements as a signal function, you are pushing an if statement up the stack. If you are padding with an identity element for some operation, you need to know which operation to know which element is identity, and that too is probably better solved up the stack close to the actual operation.</p>

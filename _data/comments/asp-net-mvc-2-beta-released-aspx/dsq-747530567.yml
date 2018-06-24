@@ -1,0 +1,5 @@
+id: dsq-747530567
+date: 2009-11-22T11:57:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Kieron yes, you can simply reference the beta from VS10. The MVC Tooling experience will be out of sync with the runtime, but most of it would work just fine.</p>

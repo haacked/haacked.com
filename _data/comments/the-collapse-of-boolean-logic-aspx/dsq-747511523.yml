@@ -1,0 +1,5 @@
+id: dsq-747511523
+date: 2005-04-18T14:11:00.0000000-07:00
+name: Bender
+avatar: https://disqus.com/api/users/avatars/Bender.jpg
+message: <p>You should never use a 'Null' in Boolean Logic, use IsNull. The SqlInt32.Null should be used as a Type specifier not a value.</p>

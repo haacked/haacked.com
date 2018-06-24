@@ -1,0 +1,5 @@
+id: dsq-747537681
+date: 2012-03-12T11:26:06.0000000-07:00
+name: Josh Carroll
+avatar: https://disqus.com/api/users/avatars/technofattie.jpg
+message: <p>@James - Using a Service Locator is <em>not</em> an anti-pattern, and the question on SO incorrectly represents the arguments made in the book <strong>"Dependency Injection in .NET"</strong><br>Mark Seemann never says that using a container or service locator is an anit-pattern. He simply states what we should all already know. Mainly that your objects should be composed at the composition root, and the service locator should be used there.<br>If you would take the time to look over the code you would find that the MVC use of the DependencyResolver is pretty minimal, and as close to the composition root as you can get in ASP.Net. i.e. Called from an IHttpHandler.<br>Please do a little research first before chiding Phil over something you don't understand.</p>

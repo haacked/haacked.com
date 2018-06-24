@@ -1,0 +1,6 @@
+id: dsq-1108457435
+replyToId: dsq-1107898736
+date: 2013-11-04T09:02:03.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yes! When you instantiate the GitHubClient (or ObservableGitHubClient depending on your taste) pass in the base URL to your Enterprise instance.</p>

@@ -1,0 +1,5 @@
+id: dsq-747519755
+date: 2007-04-20T04:38:14.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>"If you never use x, does it matter when it is GC'd?"<br>Only if x is a reference type that contains some references to resources (db connections, other ref types, etc...) that could tie up system resources. Maybe the called method always expected you to manually close a .connection object on x, or commit a transaction.<br>I've seen some executeSQL type statements that would return objects with properties that the calling method was expected to verify. If they verified, then the calling method had to call a "commit" method on the "x" type object.<br>That was some bad code.</p>

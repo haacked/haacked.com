@@ -1,0 +1,5 @@
+id: dsq-747527304
+date: 2012-03-30T15:42:57.0000000-07:00
+name: Lukyw
+avatar: https://disqus.com/api/users/avatars/Lukyw.jpg
+message: "<p>Good post! <br>but i run into another problem, i used mvc 2 developed on windows xp access the LDAP server for anthentication, it's ok,<br>finally when i deployed on IIS5.1 server on xp, throw an exception: DirectoryServicesCOMException (0x8007052e): Logon failure: unknown user name or bad password.<br>why is that? any help<br></p>"

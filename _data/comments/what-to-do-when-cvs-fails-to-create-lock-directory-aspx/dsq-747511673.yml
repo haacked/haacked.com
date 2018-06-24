@@ -1,0 +1,5 @@
+id: dsq-747511673
+date: 2009-03-19T18:41:43.0000000-07:00
+name: Deepak
+avatar: https://disqus.com/api/users/avatars/Deepak.jpg
+message: '<p>I checked a file as myself. But while checking out as anonymous is giving error.<br> cvs server: failed to create lock directory for #cvs.lock): Permission denied<br>: cvs server: lock failed - giving up<br></p>'

@@ -1,0 +1,5 @@
+id: dsq-747525304
+date: 2008-06-09T16:06:33.0000000-07:00
+name: Katrien
+avatar: https://disqus.com/api/users/avatars/Katrien.jpg
+message: '<p>Same issue as most folks here: removing the three references and then re-adding them by pointing to the ASP.NET MVC install path in Program Files solves it. Everything is working fine at my end.<br></p>'

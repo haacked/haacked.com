@@ -1,0 +1,5 @@
+id: dsq-799848630
+date: 2013-02-14T18:51:15.0000000-08:00
+name: Josh
+avatar: https://disqus.com/api/users/avatars/Josh.jpg
+message: <p>This is great post. I have one question, I see the events are register using += notation, however I don't see them being unregistered. Would that lead to memory leak ? If yes, does the class need to follow Dispose Pattern and then you can unregister the events. Let me know.</p>

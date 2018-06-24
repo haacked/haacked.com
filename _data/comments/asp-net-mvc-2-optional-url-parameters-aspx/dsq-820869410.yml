@@ -1,0 +1,5 @@
+id: dsq-820869410
+date: 2013-03-06T01:53:23.0000000-08:00
+name: Raj
+avatar: https://disqus.com/api/users/avatars/Raj.jpg
+message: <p>Hi sir ,How can get empty texbox value in MVC2 application,I explain my problem<br>One registration form  some fields are non required so that fields are not validated.At the value taken time(for inserting  to db)If the non required fields are null when error occured,How can solve that problem ?</p>

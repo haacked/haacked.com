@@ -1,0 +1,5 @@
+id: dsq-747524828
+date: 2008-04-10T00:49:41.0000000-07:00
+name: Kurt
+avatar: https://disqus.com/api/users/avatars/Kurt.jpg
+message: <p>Sweet.<br>Given the "any character as a route separator" thing, are you considering making greedy parameters possible in the future?  I might want something like this, for instance:<br>/{path*}.{extension}<br>Also, why's the / still considered a separator, rather than treating it like the .?</p>

@@ -1,0 +1,5 @@
+id: dsq-747517003
+date: 2006-09-27T21:16:01.0000000-07:00
+name: Brandon
+avatar: https://disqus.com/api/users/avatars/Brandon.jpg
+message: <p>Personally I like incrementing the Major by 1 on any Production Release that was due to a full Project timeline.  Then increment the Minor for each version between the Majors that fixed minor bugs not packaged in the Major Production release.  Finally using the Revision increment with every time that the application has been compiled.  This seems to help us a lot in marking the code within our code repository.<br>Major.Minor.Revision (i.e. 5.1.13)<br>Brandon</p>

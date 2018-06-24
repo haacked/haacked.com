@@ -1,0 +1,5 @@
+id: dsq-747526967
+date: 2008-11-11T04:47:55.0000000-08:00
+name: J.D Pihl
+avatar: https://disqus.com/api/users/avatars/J.D Pihl.jpg
+message: <p>Ask and you shall receive..<br>(As a disclaimer, I just threw some regex at it to pass your little test, I wouldn't trust it as far as I can throw it or vouch for it in any way.)<br><code><br>        public static string StripHtml(string html)<br>        {<br>            if (html == null) throw new ArgumentNullException("html");<br>            var re = new Regex(@"&lt;[\/!A-z]+(?:.*?(?:=\s?(?:(""|')[^\1]*\1|[^\s&gt;]*))?)+(?:&gt;|(&lt;))");<br>            return re.Replace(html, @"${2}");<br>        }<br></code></p>

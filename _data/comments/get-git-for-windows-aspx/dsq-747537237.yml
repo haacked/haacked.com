@@ -1,0 +1,5 @@
+id: dsq-747537237
+date: 2012-01-05T13:19:23.0000000-08:00
+name: Barry
+avatar: https://disqus.com/api/users/avatars/Barry.jpg
+message: "<p>Footnote for anyone that is interested:  for reasons I haven't bothered delving into yet, if your profile loads posh-git AND posh-hg, setting the PATH somehow fails and your powershell might not start.</p>"

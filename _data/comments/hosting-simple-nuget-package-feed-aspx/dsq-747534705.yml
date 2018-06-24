@@ -1,0 +1,5 @@
+id: dsq-747534705
+date: 2011-03-31T14:09:06.0000000-07:00
+name: Flash
+avatar: https://disqus.com/api/users/avatars/Flash.jpg
+message: <p>I had the same problem as Troy when I deployed to IIS 7.5 (i.e. error code 404 on package feed). Once I added the magic  runAllManagedModulesForAllRequests="true" attribute to the system.webServer/modules element in the web.config it worked.</p>

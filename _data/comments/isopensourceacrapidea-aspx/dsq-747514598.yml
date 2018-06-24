@@ -1,0 +1,5 @@
+id: dsq-747514598
+date: 2006-03-24T03:45:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I disagree to some degree.  I think most projects could use a large number of contributors who actually contribute more than ideas.<br>Certainly for new features, it helps to have a small number of gate keepers.  But think of all the surrounding tasks that need to be done.<br>For example, on the subtext team, we have one person setting up a virtual machine with a CruiseControl.NET and NAnt setup for our automated builds.<br>There's room for more people to contribute documentation.  There's also a nice list of bugs that I'd be happy if anyone stepped in and started working on them.<br>Lastly, we would be happy to have anybody and everyone help contribute skins or freshen up existing ones.<br>The Subversion leader talks about his main criteria for commit access.  "Makes good choices".  That's what we need.  If someone's a novice, but simply commits simple fixes and tweaks, and uses good judgement, that's a great contributor to have.</p>

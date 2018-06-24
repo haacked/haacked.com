@@ -1,0 +1,5 @@
+id: dsq-827130616
+date: 2013-03-12T13:33:44.0000000-07:00
+name: Patrick Morrison
+avatar: https://disqus.com/api/users/avatars/twitter-2678041.jpg
+message: "<p>I just read the original study Brooks (and probably Glass) is quoting, 'Exploratory Experimental Studies Comparing Online and Offline Programming Performance'. In the 'Experienced Programmer' study, two programming problems were given to 12 participants, and measures of Coding Time, Debug Time, Size of Program, CPU Time, and Run Time were taken.   Here are the results (lifted from here: <a href=\"http://dustyvolumes.com/archives/497):\" rel=\"nofollow noopener\" title=\"http://dustyvolumes.com/archives/497):\">http://dustyvolumes.com/arc...</a></p><p>AlgebraMazeCoding Time16:125:1Debug Time28:126:1Size of Program6:15:1CPU Time8:111:1Run Time5:113:1 <br>Brooks' description is fair, but I think Glass is taking 28x out of context, based on the Debug Time measure for the Algebra program... note that the same individuals didn't get that performance boost on their coding time, or other measures. </p>"

@@ -1,0 +1,5 @@
+id: dsq-747528682
+date: 2009-06-02T21:34:00.0000000-07:00
+name: Vladimir Kelman
+avatar: https://disqus.com/api/users/avatars/Vladimir Kelman.jpg
+message: <p>In "Dynamic Linq Query library" article ScottGu said, "In a future blog post I'll delve further into building dynamic LINQ queries, and discuss other approaches you can use to structure your code using type-safe predicate methods". He never did it, but those type-safe methods are described here <a href="http://www.albahari.com/nutshell/predicatebuilder.aspx" rel="nofollow noopener" title="http://www.albahari.com/nutshell/predicatebuilder.aspx">www.albahari.com/nutshell/predicatebuilder.aspx</a> and here <a href="http://tomasp.net/blog/dynamic-linq-queries.aspx" rel="nofollow noopener" title="http://tomasp.net/blog/dynamic-linq-queries.aspx">http://tomasp.net/blog/dynamic-linq-queries.aspx</a>. I hope we can use them instead of Dynamic Linq Query library to avoid using strings.</p>

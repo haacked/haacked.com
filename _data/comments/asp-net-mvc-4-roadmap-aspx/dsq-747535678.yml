@@ -1,0 +1,5 @@
+id: dsq-747535678
+date: 2012-04-11T11:01:45.0000000-07:00
+name: Tom
+avatar: https://disqus.com/api/users/avatars/Tom.jpg
+message: <p>Agree with Vidar. <br>1. The default scaffolding options are only good for impressing year one uni students with a CURD HelloWorldModel. Also making the ef/data context options useless. I don't know anyone uses it for real projects.<br>2.Models and view models Redux. Again, only year one students will return one View(HelloWorldModel). Multiple models strongly-typed ViewBag for real please? Just hack some dirty workaround at the back to make it happen. <br>3. Can't edit any code while running the debug is also a pain. Old ASP.NET can do it, no excuse for MVC not to be able to do it. Only year one students.... :P<br>Please don't deliver us half baked features. It ruins the good stuff.<br></p>

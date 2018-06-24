@@ -1,0 +1,5 @@
+id: dsq-747530616
+date: 2009-11-18T09:37:00.0000000-08:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>Not sure you understood my point; I realize you can wrap it in an anonymous class rather than putting it in an explicitly declared one, which is a good start.  But is there a way to hook in to the request parsing you've built for actions, when delegating to another action?  There are all sorts of reasons that's useful - mainly, being able to pass through URL values without having to understand them.  Otherwise you're stuck with:<br>&lt;%= Html.Action("Menu", new { width = int32.Parse(Request.Param["width"]), etc...</p>

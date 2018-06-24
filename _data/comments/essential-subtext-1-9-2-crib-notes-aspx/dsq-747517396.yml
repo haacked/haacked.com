@@ -1,0 +1,5 @@
+id: dsq-747517396
+date: 2006-10-25T21:02:19.0000000-07:00
+name: David
+avatar: https://disqus.com/api/users/avatars/David.jpg
+message: <p>Hello,<br>I have a "little" probleme during the installation...<br>my (sqlserver 2000) database is case sensitive so it don't know [information_schema].[columns] but it know [INFORMATION_SCHEMA].[COLUMNS]... <br>I download the source version of subtext 1.9.2 but no source found only binary :/ <br>So I can't install subtext<br>may be you have a solution (no i can't change my database sorry :/)<br>thanks<br>David<br></p>

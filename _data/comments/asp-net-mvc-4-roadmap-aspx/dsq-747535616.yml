@@ -1,0 +1,5 @@
+id: dsq-747535616
+date: 2011-07-13T22:46:22.0000000-07:00
+name: Stephen Burns
+avatar: https://disqus.com/api/users/avatars/Stephen Burns.jpg
+message: <p>Phil, sorry about that.  What I should have said is that the current convention in using types defined in the App_Start folder with the explicit registration of the "Start" method with WebActivator.PreApplicationStartMethod seems a bit afterthought-ish.<br>Also, while I'm at it, another cool feature would be to allow Razor partials to access Sections defined in their parent views.  For example, maybe a partial wants to define some javascript or css yet not have it rendered inline with its markup.</p>

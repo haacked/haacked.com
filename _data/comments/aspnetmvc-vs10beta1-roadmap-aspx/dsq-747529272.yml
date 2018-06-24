@@ -1,0 +1,5 @@
+id: dsq-747529272
+date: 2009-06-14T10:09:00.0000000-07:00
+name: Vladimir Kelman
+avatar: https://disqus.com/api/users/avatars/Vladimir Kelman.jpg
+message: "<p>I had VS 2008 and ASP.NET MVC 1.0 working on my machine. Then I installed VS 2010 Beta 1 and ASP.NET MVC 1.1.<br>Now, when I try to compile a simple application which includes the following in a View:<br><code><br>&lt;% using (Html.BeginForm(MyAction, MyController, FormMethod.Post)) { %&gt;<br>. . . <br>&lt;% } %&gt;<br></code><br> I'm getting the following error when trying to see a page:<br>Compiler Error Message: CS0433: The type 'System.Web.Mvc.FormMethod' exists in both 'c:\\WINDOWS\\assembly\\GAC_MSIL\\System.Web.Mvc\\1.0.0.0__31bf3856ad364e35\\System.Web.Mvc.dll' and 'c:\\WINDOWS\\assembly\\GAC_MSIL\\System.Web.Mvc\\1.1.0.0__31bf3856ad364e35\\System.Web.Mvc.dll' using (Html.BeginForm(MyAction, MyController, FormMethod.Post))<br>Obviously, a first DLL came with ASP.NET MVC 1.0, while a second came with ASP.NET MVC 1.1. Am I supposed to uninstall ASP.NET MVC 1.0? Will Visual Studio 2008 continue to work with MVC applications after uninstallation of MVC 1.0 and will it pick MVC 1.1?<br> Thanks</p>"

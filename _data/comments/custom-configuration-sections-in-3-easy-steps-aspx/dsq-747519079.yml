@@ -1,0 +1,5 @@
+id: dsq-747519079
+date: 2007-03-14T16:04:34.0000000-07:00
+name: mawi
+avatar: https://disqus.com/api/users/avatars/mawi.jpg
+message: <p>This is still not what I want, and it is not what "the last configuration handler" does. <br>I think this is most readable:<br>&lt;MyStuff type="SomeNamespace.MyStuff"&gt;<br>  <i>1234</i><br>  &lt;s&gt;A bunch of information&lt;/s&gt;<br>&lt;/MyStuff&gt;<br>I dont like this as much:<br>&lt;MyStuff <br> i="1234" <br> s="A bunch of information" /&gt;<br><br>Using the 2.0 config API to get elements is not nearly as nice, AFAIK. Ideas?</p>

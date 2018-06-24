@@ -1,0 +1,5 @@
+id: dsq-747535374
+date: 2011-06-04T08:16:07.0000000-07:00
+name: Javier Lozano
+avatar: https://disqus.com/api/users/avatars/Javier Lozano.jpg
+message: "<p>@Phil - Sorry the delay on the response, as you know, I've been a little busy. :)<br>Unfortunately it doesn't since that was one of the pieces that I left un-touched for the MVC3 migration. However, it doesn't mean it can't use it.  I'm actually in the process of making this change in the v3.3 release along with adding support for removing modules from the pipeline. <br>At times having things to be auto-wired can be somewhat of a pain since they're not 'developed' with IoC principles in mind.<br>Once these pieces are done, they will be available through #nuget :)</p>"

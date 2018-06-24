@@ -1,0 +1,5 @@
+id: dsq-747524680
+date: 2008-12-13T02:07:07.0000000-08:00
+name: Andrew
+avatar: https://disqus.com/api/users/avatars/Andrew.jpg
+message: "<p>Just a short note for someone who may have googled this page.<br>Yeah NMock2 uses strings but you can write an extension for it:<br><code><br>internal static IMatchSyntax On&lt;T&gt;(this IReceiverSyntax syntax, object x, Expression&lt;Action&lt;T&gt;&gt; func, params object[] args)<br>{<br>    string name = ((MethodCallExpression)func.Body).Method.Name;<br>    return syntax.On(x).Method(name).With(args);<br>}<br></code><br>And the expectations would be typesafe and refactoring friendly: <br><code><br>Expect.Once.<br>    On&lt;IHand&gt;(hand, h =&gt; h.TouchIron(null), Is.Anything).<br>    Will(Throw.Exception(new BurnException()));<br></code><br>(However, I'm not sure yet how to make it more readable by passing parameters into the <em>actual methods</em> instead of having that \"params object[] args\" in the extension.)<br><br>Happy mocking,<br>Andrew</p>"

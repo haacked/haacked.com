@@ -1,0 +1,5 @@
+id: dsq-747522050
+date: 2007-08-22T20:32:04.0000000-07:00
+name: Charles Curran
+avatar: https://disqus.com/api/users/avatars/Charles Curran.jpg
+message: "<p>hot air!<br>Why haven't you updated your comment form to accept any valid e'mail addresses.<br>--<br>We need to root out all the off-the-shelf modules that fail to recognize<br>the local-part of an e'mail address can contain:<br>digits, letters [a-zA-Z] (yes, you have to preserve case!),<br>! # $ % &amp; ' * + - / = ? ^ _ ` { | } ~, and _internal_ \".\"s.<br>--<br>Later  we can deal with  utf8-local-part \"@\" utf8-domain.</p>"

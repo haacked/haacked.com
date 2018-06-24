@@ -1,0 +1,5 @@
+id: dsq-747530489
+date: 2009-11-10T02:50:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Brian note that I'm iterating over the properties of a type. So there is no concrete implementation at that point.<br>If I actually had an instance that implemented ISuperHero and called <code>instance.GetType().GetProperties();</code><br>I would then get both properties.</p>

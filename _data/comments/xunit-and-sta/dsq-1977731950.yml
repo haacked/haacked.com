@@ -1,0 +1,6 @@
+id: dsq-1977731950
+replyToId: dsq-1977701973
+date: 2015-04-20T10:07:16.0000000-07:00
+name: bdaniel7
+avatar: https://disqus.com/api/users/avatars/bdaniel7.jpg
+message: "<p>Well, I tried to add those classes in my project but I couldn't run the tests. The R# runner simply ignored them with this message \"Inconclusive: Test not run\". And the xunit.console.runner also didn't run any test.</p>"

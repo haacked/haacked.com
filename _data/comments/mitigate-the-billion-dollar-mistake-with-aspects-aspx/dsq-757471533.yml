@@ -1,0 +1,6 @@
+id: dsq-757471533
+replyToId: dsq-757301911
+date: 2013-01-05T20:55:33.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>As I mentioned, I allow conditional parameters to be null.</p><p>Null checking isn't the only parameter checking, but its certainly the most common and rote. It's the source of a lot of bugs for me. In this case, I must invoke the 80/20 rule as the target of my solution. :)</p>

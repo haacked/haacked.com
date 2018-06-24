@@ -1,0 +1,5 @@
+id: dsq-747527649
+date: 2011-08-22T21:27:13.0000000-07:00
+name: Patrick Caldwell
+avatar: https://disqus.com/api/users/avatars/Patrick Caldwell.jpg
+message: <p>Phil, <br>I know this is an old post and has probably been put to bed, but I recently posted something similar on my blog (<a href="http://dpatrickcaldwell.blogspot.com/2011/07/net-objectformatter-using-tokens-in.html" rel="nofollow noopener" title="http://dpatrickcaldwell.blogspot.com/2011/07/net-objectformatter-using-tokens-in.html">.Net Object Formatter</a>).  I haven't benchmarked it compared to yours, but I followed the concept of String.Format in the manual parsing approach you took as well.<br>I'm writing here because I also put the <a href="https://github.com/tncbbthositg/ObjectFormatter" rel="nofollow noopener" title="https://github.com/tncbbthositg/ObjectFormatter">ObjectFormatter</a> on github and was hoping you'd be interested in contributing.<br>I know it's a common problem and would love to see something robust come of a collaborative effort.<br>Thanks,<br>Patrick Caldwell</p>
