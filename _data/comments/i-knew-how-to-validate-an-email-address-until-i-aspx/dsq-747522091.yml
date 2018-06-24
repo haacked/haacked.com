@@ -1,0 +1,5 @@
+id: dsq-747522091
+date: 2008-11-10T13:25:13.0000000-08:00
+name: Mark
+avatar: https://disqus.com/api/users/avatars/Mark.jpg
+message: <p>one more correction:<br><code>$pat = "/^(([\w!#$%&amp;'*+\-\/=?^`{|}~]+\.)*([\w!#$%&amp;'*+\-\/=?^`{|}~]|\\.)+";<br>$pat .= "|\"([^\"]|\\.)*\")";</code><br>should be [supposing "johndoe@machine3\"@domain.com is not valid]<br><code>$pat = "/^(([\w!#$%&amp;'*+\-\/=?^`{|}~]+\.)*([\w!#$%&amp;'*+\-\/=?^`{|}~])+";<br>$pat .= "|\"([^\"\\]|\\.)*\")";</code><br>then it'll need full utf-8 support..<br></p>

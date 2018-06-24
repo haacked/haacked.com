@@ -1,0 +1,5 @@
+id: dsq-747537132
+date: 2011-12-11T23:25:53.0000000-08:00
+name: Tom Janssens
+avatar: https://disqus.com/api/users/avatars/tom_janssens.jpg
+message: '<p>Hey Phil,<br>I have actually gone a step further with Razor files, and used them to describe stories for BDD as well with vanilla .NET, so there is no longer a need for a BDD framework; there is an example here: <a href="https://github.com/ToJans/RazorDrivenDevelopment/blob/master/Specs/BankAccount.cshtml" rel="nofollow noopener" title="https://github.com/ToJans/RazorDrivenDevelopment/blob/master/Specs/BankAccount.cshtml">github.com/.../BankAccount.cshtml</a></p>'

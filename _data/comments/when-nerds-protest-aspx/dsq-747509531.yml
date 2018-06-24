@@ -1,0 +1,5 @@
+id: dsq-747509531
+date: 2004-09-06T04:11:00.0000000-07:00
+name: machekku
+avatar: https://disqus.com/api/users/avatars/machekku.jpg
+message: <p>&gt; But according to the W3C spec, lowercase is required for XHTML.<br><br><br><br>It's not like this. XHTML is case-sensitive. So, if in W3C specification you have &lt;li&gt;, you have to write it like this to mean list-item-tag. If W3C put &lt;Li&gt; in their specification, we'd have to write &lt;Li&gt; to be correct, etc.<br><br>But - for some reason - they define all the tags in lowercase.<br><br><br><br><br><br>&gt; As far as I'm aware, the tag needs to be written as &lt;SALUTE /&gt; with a space before the / for it to be correct. <br><br><br><br>This space is only to help existing browsers to read the tags with an unexpected /.</p>

@@ -1,0 +1,5 @@
+id: dsq-747510598
+date: 2005-01-02T13:53:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Good point.  A constant variable is an oxymoron, which is fitting as I'm a moron who went to Oxy (Occidental College).<br><br><br><br>In any case, I think using the const keyword to hold configuration like values will be a hard habit to break.</p>

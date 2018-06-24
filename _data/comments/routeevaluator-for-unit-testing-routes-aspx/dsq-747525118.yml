@@ -1,0 +1,5 @@
+id: dsq-747525118
+date: 2011-04-21T21:01:23.0000000-07:00
+name: jasa backlink
+avatar: https://disqus.com/api/users/avatars/jasa backlink.jpg
+message: <p>I have registered in my RouteCollection, and they're always excatly the same routes! It looks like the foreach in GetMatches is redundant, but then I can't see how it can find multiple routes that match the same rule?</p>

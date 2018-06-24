@@ -1,0 +1,5 @@
+id: dsq-747514674
+date: 2008-09-01T07:45:26.0000000-07:00
+name: danny
+avatar: https://disqus.com/api/users/avatars/danny.jpg
+message: <p>i wrote something similar as well on <a href="http://www.dannytalk.com/2008/08/31/how-to-handle-multiple-window-events-in-javascript/" rel="nofollow noopener" title="http://www.dannytalk.com/2008/08/31/how-to-handle-multiple-window-events-in-javascript/">how to handle multiple window events in javascript</a>.<br>however, i've received similar feedback to use window.addEventListener and window.attachEvent but as far as i know, they're browser dependant functions and not part of the core javascript language.<br>if my assumption is true, wouldn't it be better to use non-browser dependant functions?</p>

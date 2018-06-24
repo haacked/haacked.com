@@ -1,0 +1,5 @@
+id: dsq-747528860
+date: 2009-04-17T00:31:00.0000000-07:00
+name: Kyle Szklenski
+avatar: https://disqus.com/api/users/avatars/Kyle Szklenski.jpg
+message: <p>@meisinger, I'd thought of that one, too, but it kinda shows a lack of enthusiasm for the product, don't you think?<br>Back to the topic at hand, I'm of the opinion that code quality should not be left by the wayside in all but the prototype code, or what I tend to call PoC code. PoC code can be total garbage, and is just a way of finding out if something is even possible to be done the way you were intending. Everything else should have a minimum of code quality - it doesn't always have to be all design patterns and principles, but it should all certainly follow the same naming conventions, show relatively good design, etc. As I said on Ayende's blog, I think anyone who writes a 60+ function interface doesn't really understand the basic design principles (such as the interface segregation principle). I agree with whomever said that the problems with Kobe and Oxite were not strictly MVC-related.</p>

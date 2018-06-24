@@ -1,0 +1,5 @@
+id: dsq-747534562
+date: 2011-02-27T12:53:56.0000000-08:00
+name: Yngve Bakken Nilsen
+avatar: https://disqus.com/api/users/avatars/Yngve Bakken Nilsen.jpg
+message: "<p>This could potentially be a great feature in terms of making HTML5 views with a nice fallback to older versions:<br><code><br>@{<br>    bool html5 = false;<br>    Func&lt;dynamic, object&gt; html5article = @&lt;article&gt;@item&lt;/article&gt;;<br>    Func&lt;dynamic, object&gt; html4article = @&lt;div class='article'&gt;@item&lt;/div class='article'&gt;;<br>    Func&lt;dynamic, object&gt; article = html5 ? html5article : html4article;<br>}<br>@article(\"Here's some article for you!\");<br></code><br>Now just fix the <code>bool html5 = false;</code> to actually check for html5 support, and we're done :)</p>"

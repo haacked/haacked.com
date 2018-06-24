@@ -1,0 +1,5 @@
+id: dsq-747527979
+date: 2009-02-05T20:04:40.0000000-08:00
+name: Mike Thomas
+avatar: https://disqus.com/api/users/avatars/Mike Thomas.jpg
+message: <p>Not sure if this is the right venue - but do you think it would be possible to make the class System.Web.Mvc.ViewTypeParserFilter public rather than internal (as it is now)?<br>Thanks, Mike<br></p>

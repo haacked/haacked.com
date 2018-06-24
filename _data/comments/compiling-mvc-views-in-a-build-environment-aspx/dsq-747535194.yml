@@ -1,0 +1,5 @@
+id: dsq-747535194
+date: 2011-09-16T13:03:16.0000000-07:00
+name: Dan M
+avatar: https://disqus.com/api/users/avatars/devuxer.jpg
+message: "<p>Followup: I was able to solve the problem by using this modified Target block:<br><br>  &lt;Target Name=\"MvcBuildViews\" AfterTargets=\"AfterBuild\" Condition=\"'$(MvcBuildViews)'=='true'\" DependsOnTargets=\"CleanWebsitesPackage;CleanWebsitesPackageTempDir;CleanWebsitesTransformParametersFiles;\"&gt;<br>     &lt;AspNetCompiler VirtualPath=\"temp\" PhysicalPath=\"$(MSBuildProjectDirectory)\" /&gt;<br>  &lt;/Target&gt;</p>"

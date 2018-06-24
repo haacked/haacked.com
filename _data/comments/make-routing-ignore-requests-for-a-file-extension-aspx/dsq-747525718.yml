@@ -1,0 +1,5 @@
+id: dsq-747525718
+date: 2008-07-14T06:45:03.0000000-07:00
+name: Steve Smith
+avatar: https://disqus.com/api/users/avatars/Steve Smith.jpg
+message: <p>Hey Phil,<br>  I know previously routes didn't involve regular expressions, though many people get that impression upon first seeing them.  I have to say that your IgnoreRoute syntax looks an awful lot like a regex.  When did the use of regular expressions combine with routes (or has it, in any holistic fashion)?  Perhaps you could comment on where regular expressions are supported and where not, to clear up any confusion (or at least mine).  Thanks!</p>

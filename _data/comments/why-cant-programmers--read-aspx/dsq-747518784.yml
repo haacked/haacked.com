@@ -1,0 +1,5 @@
+id: dsq-747518784
+date: 2007-03-01T01:17:06.0000000-08:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: "<p>Tap: <br>Read the problem again.<br></p><blockquote>Write a program that prints the numbers from 1 to 100. But for multiples of three print \"Fizz\" instead of the number and for the multiples of five print \"Buzz\". For numbers which are multiples of both three and five print \"FizzBuzz\".</blockquote><p><br>Ray's solution doesn't print out \"FizzBuzz\" if the number is a multiple of both 3 and 5. It just prints the number.</p>"

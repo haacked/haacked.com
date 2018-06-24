@@ -1,0 +1,5 @@
+id: dsq-747536616
+date: 2011-11-27T09:26:14.0000000-08:00
+name: Sean
+avatar: https://disqus.com/api/users/avatars/Sean.jpg
+message: <p>Instead of @nocache, would it not make more sense to add an overload for @cache so you could just express it as @cache(false)?</p>

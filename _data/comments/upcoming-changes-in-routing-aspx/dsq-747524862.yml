@@ -1,0 +1,5 @@
+id: dsq-747524862
+date: 2008-06-17T14:51:07.0000000-07:00
+name: Rodj
+avatar: https://disqus.com/api/users/avatars/Rodj.jpg
+message: "<p>I have an issue with an url encoded '/' (ie. %2f) being parsed by the routing engine.<br>for example: simple route \"{category}/{product}\" however a category is \"3/5 door\" so after encoding the url returns \"3%2f5+door/a-product\". The request goes through as \"3/5 door/a-product\" which will not match any routes. <br>Is there a way round this?</p>"

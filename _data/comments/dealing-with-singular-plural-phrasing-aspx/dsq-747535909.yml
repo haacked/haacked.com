@@ -1,0 +1,5 @@
+id: dsq-747535909
+date: 2011-08-16T14:12:14.0000000-07:00
+name: Marcin Floryan
+avatar: https://disqus.com/api/users/avatars/mfloryan.jpg
+message: '<p>Perhaps consider approach long used by the gettext project, mostly the ngettext method as described here: <a href="http://www.gnu.org/software/gettext/manual/gettext.html#Plural-forms" rel="nofollow noopener" title="http://www.gnu.org/software/gettext/manual/gettext.html#Plural-forms">www.gnu.org/.../gettext.html#Plural-forms</a><br>If you want to pluralise and localise you open a world of very interesting rules in various languages.</p>'

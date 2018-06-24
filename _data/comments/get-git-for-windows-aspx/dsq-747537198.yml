@@ -1,0 +1,5 @@
+id: dsq-747537198
+date: 2011-12-19T05:45:10.0000000-08:00
+name: John Weldon
+avatar: https://disqus.com/api/users/avatars/John Weldon.jpg
+message: <p>I had this in my profile for a while, but I ran into issues with poorly written third party scripts that tried to run my profile in non-interactive sessions, and they would hang on the prompt.<br>I didn't find an easy way to detect a non-interactive session, so I just made a function in my profile that makes it easy to start ssh-agent, and add keys to it.<br><a href="https://gist.github.com/1499642" rel="nofollow noopener" title="https://gist.github.com/1499642">https://gist.github.com/1499642</a> start-sshagent, addkey-sshagent, and helper functions<br></p>

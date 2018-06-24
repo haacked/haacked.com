@@ -1,0 +1,5 @@
+id: dsq-747534711
+date: 2011-04-01T06:16:58.0000000-07:00
+name: Troy
+avatar: https://disqus.com/api/users/avatars/Troy.jpg
+message: <p>Solved!<br>I was using 'http://myserver:8080/nuget/packages' as the feed url.  Turns out that NuGet automagically appends '/Packages' to the feed url for you.  Once I changed it to 'http://myserver:8080/nuget' everything was right in the world again.</p>

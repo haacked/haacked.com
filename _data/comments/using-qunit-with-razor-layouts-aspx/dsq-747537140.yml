@@ -1,0 +1,5 @@
+id: dsq-747537140
+date: 2011-12-20T10:04:45.0000000-08:00
+name: Matthew Manela
+avatar: https://disqus.com/api/users/avatars/Matthew Manela.jpg
+message: <p>I am a developer at Microsoft and my team does a lot of JavaScript unit testing. We work on an MVC 3 website and it definitely helps a lot. For a long time we were able to convince ourselves that "it's just view code", but eventually it became impossible to ignore the amount of untested logic. <br>My team uses a tool/open source project I created called <a>Chutzpah</a> which executes QUnit or Jasmine unit tests directly from the JS file. It generates the test harness for you when you point it at a js test file. What is nice is that it integrates inside of <a href="http://visualstudiogallery.msdn.microsoft.com/71a4e9bd-f660-448f-bd92-f5a65d39b7f0" rel="nofollow noopener" title="http://visualstudiogallery.msdn.microsoft.com/71a4e9bd-f660-448f-bd92-f5a65d39b7f0">Visual Studio</a> and can be run from the command line (this lets us make it part of our CI build).</p>

@@ -1,0 +1,6 @@
+id: dsq-1118353386
+replyToId: dsq-1117876550
+date: 2013-11-11T10:15:40.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>&gt; but how are you sure there are no extra entries added?</p><p>That's the definition of lazy. Under the hood, the Enumerate and Concat methods use the iterator pattern. They only yield the values pulled. <a href="http://msdn.microsoft.com/en-us/library/vstudio/9k7k7cf0.aspx" rel="nofollow noopener" title="http://msdn.microsoft.com/en-us/library/vstudio/9k7k7cf0.aspx">http://msdn.microsoft.com/e...</a></p>

@@ -1,0 +1,5 @@
+id: dsq-747519744
+date: 2007-04-20T00:11:42.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>Anytime I see a method with a void return type and a ref or out argument I wonder "why not just return the value you want from the method?" My second thought is, "Is that out arg a global variable? What's its scope? Why is it getting passed around like a hot potato?"<br>With bool x = doSomething(); I wonder "when does whatever is being returned by doSomething() fall out of scope and get GC'ed?" That's an easy example though because it's easily refactored to "if(doSomething()) { ... rest of code ... }. A more insidious one is MyStatusCodeEnum x = doSomething(); ( I see some old C/C++ folks returning status codes from their methods sometimes) or MyStruct x = doSomething(); where x is never used.</p>

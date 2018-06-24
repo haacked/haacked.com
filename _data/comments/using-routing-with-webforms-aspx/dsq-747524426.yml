@@ -1,0 +1,5 @@
+id: dsq-747524426
+date: 2008-09-14T22:53:55.0000000-07:00
+name: Andrew Feldman
+avatar: https://disqus.com/api/users/avatars/Andrew Feldman.jpg
+message: <p>Hi Phil, great blog!  I have implemented a routing handler for web forms using the approach you outline here.  One problem I am having is that HttpContext.Current.Session is null in the page I construct and route to in the WebFormRouteHandler.  Session is not null on ordinary, non routed, pages in my application.  I am using .NET 3.5 sp1, I have not used any of the MVC previews.  Any insight is appreciated.  Thank you!</p>

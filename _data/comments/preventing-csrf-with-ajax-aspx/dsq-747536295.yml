@@ -1,0 +1,5 @@
+id: dsq-747536295
+date: 2011-10-10T20:58:45.0000000-07:00
+name: Saeed Neamati
+avatar: https://disqus.com/api/users/avatars/saeedneamati.jpg
+message: <p>"__RequestVerificationToken"? What a long ugly id it is. Still one of  those hardcoded id and names of ASP.NET generated HTML. The more I use ASP.NET's generated code, the more I find myself stuck at customizing a project furthermore. I'd rather prefer to write the anti-forgery system on my own (just like membership, SSO, etc.). <br>Your article helps me in finding where I need to implement my own framework. Thanks.</p>

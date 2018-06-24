@@ -1,0 +1,5 @@
+id: dsq-747538491
+date: 2012-11-05T11:38:11.0000000-08:00
+name: Dave
+avatar: https://disqus.com/api/users/avatars/Dave.jpg
+message: "<p>It seems to me that you could simplify your code using the IsEmpty operator.<br>Admittedly, I haven't read the comments, so sorry if I'm duplicating something here or if I'm missing some requirements, though the following implementations pass your unit tests.<br>Note: Defer isn't necessary, but perhaps it's more aligned with user expectations since continuation is a Func&lt;&gt;.<br>public static IObservable&lt;TResult&gt; ContinueAfter&lt;TSource, TResult&gt;(<br>  this IObservable&lt;TSource&gt; source,<br>  Func&lt;IObservable&lt;TResult&gt;&gt; continuation)<br>{<br>  return source.IsEmpty().SelectMany(Observable.Defer(continuation));<br>}<br>public static IObservable&lt;Unit&gt; AsCompletion&lt;TSource&gt;(this IObservable&lt;TSource&gt; source)<br>{<br>  return source.IsEmpty().Select(_ =&gt; Unit.Default);<br>}</p>"

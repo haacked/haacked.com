@@ -1,0 +1,5 @@
+id: dsq-747533636
+date: 2010-12-15T01:20:59.0000000-08:00
+name: Matt
+avatar: https://disqus.com/api/users/avatars/Matt.jpg
+message: <p>What I am curious about as a new ASP.NET MVC user coming from Rails, is will ASP.NET MVC support named routes in the way Rails does? Rails provides a method for all your named routes that resolves to the route so routing throughout the app is less brittle. Just call the method instead of hard coding routes, and any changes to your routes are automatically captured. Does ASP.NET MVC already support this somehow and I've just missed it?</p>

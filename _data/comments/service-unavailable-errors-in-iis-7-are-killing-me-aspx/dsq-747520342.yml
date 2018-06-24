@@ -1,0 +1,5 @@
+id: dsq-747520342
+date: 2007-05-19T12:26:28.0000000-07:00
+name: Jayson Knight
+avatar: https://disqus.com/api/users/avatars/jaysonknight.jpg
+message: <p>I can't be of much help other than to say that if you can't even get an HTML page to render then something is seriously wrong w/ the core of IIS. Did you check all your mappings/verb handlers at the root of IIS (above the web apps)? What about the IP inclusion list (blocking all IP addresses somehow)? Also, a more verbose reason should be listed in the http.sys error logs.</p>

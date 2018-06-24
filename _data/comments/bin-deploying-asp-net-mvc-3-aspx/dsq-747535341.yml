@@ -1,0 +1,5 @@
+id: dsq-747535341
+date: 2012-08-20T13:53:52.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hi Edi,<br>Use the Package Manager Console and run the following command:<br></p><pre>Install-Package Microsoft.AspNet.Mvc -Version 3.0.20105.1<br></pre><p><br>That should reference all the assemblies in a manner that will make it bin deployable.</p>

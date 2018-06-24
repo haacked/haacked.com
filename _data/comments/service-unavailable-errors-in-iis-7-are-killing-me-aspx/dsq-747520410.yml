@@ -1,0 +1,5 @@
+id: dsq-747520410
+date: 2012-07-17T16:04:01.0000000-07:00
+name: simon noyola
+avatar: https://disqus.com/api/users/avatars/simon noyola.jpg
+message: <p>Opening IIS and Application Pools ensure "DefaultAppPool", and any other Application Pools your websites use. Click advanced settings for each of these. Ensure the "Load User Profile" is set to 'False'<br> <br>Also ensure that the "Set Application Pool Defaults" has the Load User Profile set to False.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747532575
+date: 2010-06-20T23:10:05.0000000-07:00
+name: patridge
+avatar: https://disqus.com/api/users/avatars/patridge.jpg
+message: "<p>@jrnail23,<br>It may not be as pretty to call, but if your fallback value is too painful to evaluate every time, you can use an additional extension method taking a Func&lt;string&gt; (with a lambda calling syntax) so that your \"otherwise\" is not evaluated unless it is returned. I tweaked it with a hint of @neronotte's naming because it improved readability for me drastically.<br><code>public static string IfEmptyUse(this string input, Func&lt;string&gt; otherwise) {<br>    return string.IsNullOrEmpty(input) ? otherwise() : input;<br>}</code><br>called this way<br><code>var theArgument = argument.IfEmptyUse(_ =&gt; return \"defaultValue\");</code></p>"

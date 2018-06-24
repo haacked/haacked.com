@@ -1,0 +1,5 @@
+id: dsq-747524360
+date: 2008-03-10T23:14:40.0000000-07:00
+name: Miguel de Icaza
+avatar: https://disqus.com/api/users/avatars/Miguel de Icaza.jpg
+message: '<p>Speaking for the Mono purposes, we would like to know how stable is each component of MVC, so we can start our own implementation based on that.<br>We rather not invest time on pieces that will be heavily rewritten or refactored.   from your blog post it seems that Abstractions and Routing are probably the safest places to start with (as in: chances are that since another group is using it, those are likely more mature).<br>Miguel.</p>'

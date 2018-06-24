@@ -1,0 +1,6 @@
+id: dsq-1188823316
+replyToId: dsq-1188474045
+date: 2014-01-06T00:36:50.0000000-08:00
+name: Brad Westness
+avatar: https://disqus.com/api/users/avatars/bradwestness.jpg
+message: <p>Well, yeah using <code>dynamic</code> is a little cleaner, but achieves effectively the same thing from the vantage point of anyone calling your <code>.DoSomething()</code> method. I guess mainly I was thinking that the reflection approach would enable you to check if the method exists without resorting to nested exception trapping, which would get ugly fast if you have more than one or two types to check for.</p><p>I'd personally still stick with the interface approach when using C# as doing the duck typing thing feels like it's going against the entire point of using a statically typed language, but it's nice to know there are ways to achieve it if you have the mind to.</p>

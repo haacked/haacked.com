@@ -1,0 +1,5 @@
+id: dsq-3615964102
+date: 2017-11-14T10:36:32.0000000-08:00
+name: Gerald Burkholder
+avatar: https://disqus.com/api/users/avatars/geraldburkholder.jpg
+message: <p>The current expression in this post wont detect the following tag:<br>&lt;meta http-equiv="X-UA-Compatible" content="ie=edge"&gt;</p><p>I added a check for dashes in attribute names (\w|-)+</p><p>This gives the resulting expression:<br>&lt;\/?\w+((\s+(\w|-)+(\s*=\s*(?:".*?"|'.*?'|[\^'"&gt;\s]+))?)+\s*|\s*)\/?&gt;</p>

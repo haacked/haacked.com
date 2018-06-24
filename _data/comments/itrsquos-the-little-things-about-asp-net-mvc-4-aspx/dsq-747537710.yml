@@ -1,0 +1,5 @@
+id: dsq-747537710
+date: 2012-05-29T10:59:16.0000000-07:00
+name: Nicolas Van Hoorde
+avatar: https://disqus.com/api/users/avatars/Nicolas Van Hoorde.jpg
+message: <p>Hero! Finally got rid of that 'db is in use' in MVC4 thanks to this!<br>Now I'm stuck on something for a while (totally different though). I use Entity Framework and I want my Portfolio class to have a required User attached to it. I can map this, problem is that I can't define a key for ASP Users in my context.<br>I know there is a possibilty to extend the default Members and providers that work with those members, but I'm just getting started with ASP.NET MVC3/4 and the articles I find on the internet really don't give any CLEAR information on how to implement this.<br>Thanks anyway!</p>

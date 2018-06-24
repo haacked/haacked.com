@@ -1,0 +1,5 @@
+id: dsq-747534658
+date: 2011-06-16T05:23:27.0000000-07:00
+name: Travis Illig
+avatar: https://disqus.com/api/users/avatars/tillig.jpg
+message: <p>Oh, wait, no, I was right - there is a problem with the querystring. You can solve it by using valueResult.Culture instead of CultureInfo.CurrentCulture when you parse the decimal.<br>valueResult.Culture will be CultureInfo.CurrentCulture for values posted by the Form (which will be from user input, ostensibly the culture-specific input) but will be CultureInfo.InvariantCulture for values present in the querystring (which get put there by that Bind() method I mentioned).</p>

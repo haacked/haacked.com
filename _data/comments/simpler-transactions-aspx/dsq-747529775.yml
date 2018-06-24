@@ -1,0 +1,5 @@
+id: dsq-747529775
+date: 2009-08-19T17:24:00.0000000-07:00
+name: RichB
+avatar: https://disqus.com/api/users/avatars/RichB.jpg
+message: "<p>I wrote the same thing recently for an enterprise system I work on. The prototypes are:<br>public static T ExecuteInTransaction&lt;T&gt;(this ISession session, Func&lt;T&gt; lambda)<br>and<br>public static void ExecuteInTransaction(this ISession session, Action lambda)<br>Note:<br>1) They are extension methods on NHibernate's ISession<br>2) There are 2 methods: one allows you to return the result of the lambda, the other is a void result.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747531227
+date: 2010-04-12T03:47:41.0000000-07:00
+name: Chris Hefley
+avatar: https://disqus.com/api/users/avatars/Chris Hefley.jpg
+message: "<p>Maybe I'm missing something, but it appears that none of these solutions work with RGB values where the first value is 0. Hex numbers that should be rendered as #00ff00 come back as #ff00<br>Am I missing something? Please tell me I am, cause I'm tired of messing with this on my own. :)<br></p>"

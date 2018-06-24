@@ -1,0 +1,5 @@
+id: dsq-747536281
+date: 2012-04-20T09:07:37.0000000-07:00
+name: Shrike
+avatar: https://disqus.com/api/users/avatars/Shrike.jpg
+message: "<p>I'm trying to use the SuppressFormsAuthenticationRedirectModule in my ASP.NET MVC&amp;WebAPI application.<br>The module is being called (I can debug it). But after I leave its OnEndRequest I get an exception on the client:<br>HttpException: Cannot redirect after HTTP headers have been sent.<br>   System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)<br>   System.Web.Security.FormsAuthenticationModule.OnLeave(Object source, EventArgs eventArgs)<br>   System.Web.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()<br>   System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean&amp;amp; completedSynchronously)<br>So it seems that FormsAuthenticationModule manages to enject after your SuppressFormsAuthenticationRedirectModule.OnEndRequest.<br>The same error happens when there's no SuppressFormsAuthenticationRedirectModule at all. So it just can't change things.<br>So I still need a solution for disabling FormsAuthModule' redirection.</p>"

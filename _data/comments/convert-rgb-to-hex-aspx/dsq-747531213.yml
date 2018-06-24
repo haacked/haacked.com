@@ -1,0 +1,5 @@
+id: dsq-747531213
+date: 2009-12-30T08:07:25.0000000-08:00
+name: Adam
+avatar: https://disqus.com/api/users/avatars/Adam.jpg
+message: <p>Be careful with parseInt. It will return the wrong result for '01' so either use a + or parseInt("01",10)</p>

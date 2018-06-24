@@ -1,0 +1,5 @@
+id: dsq-747526337
+date: 2008-09-06T23:57:24.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Steve if only it were that easy. :) We have a high quality and compatibility bar for RTM releases. We don't have the time or resources to get the MvcFutures to that quality bar for our 1.0 release. Many of those features will make it into the next version though.<br>I can put this disclaimer in the installer, but it probably wouldn't help. I think it would cause more angst and confusion if someone calls support for a problem they have with the MVC framework only to find out that it was in the unsupported assembly and not the supported assembly. If the unsupported assembly is a separate download, then there's a clearer separation of what is considered supported and what is not.</p>

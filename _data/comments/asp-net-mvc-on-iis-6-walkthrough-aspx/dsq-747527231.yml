@@ -1,0 +1,5 @@
+id: dsq-747527231
+date: 2009-01-04T20:23:59.0000000-08:00
+name: Dan
+avatar: https://disqus.com/api/users/avatars/Dan.jpg
+message: <p>Hi,<br>Great walk through! I have one issue though. All is currently working well on my localhost server but when I attempt to view the page from another computer on my network, I receive the connect to computer pop up asking me to login as a guest and if I hit ok or cancel the webpage looks as if no style sheet has been applied (just like in the Uh oh, Houston! We have a problem screenshot)<br>Do you have any ideas how to remove this authorisation popup and allow the site to display as intended?<br>Kind regards,<br>Dan<br></p>

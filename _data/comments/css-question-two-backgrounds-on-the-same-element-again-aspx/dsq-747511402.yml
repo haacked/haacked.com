@@ -1,0 +1,5 @@
+id: dsq-747511402
+date: 2005-04-04T19:39:00.0000000-07:00
+name: Dimitri Glazkov
+avatar: https://disqus.com/api/users/avatars/Dimitri Glazkov.jpg
+message: "<p>Phil, you can not avoid using nested elements in this case. However, you don't need to add anything extra to your existing markup. You already have a form element, which hold the div#main element. That's all you need to get this working:<br><br><br><br>form<br><br>{<br><br>margin: 0 auto 0 auto;<br><br>width: 799px;<br><br>text-align: left;<br><br>padding: 0px 11px 0px 11px;<br><br>background: url(leftBorder.gif) repeat-y left;<br><br>}<br><br><br><br>div#main<br><br>{<br><br>background: url(rightBorder.gif) repeat-y right;<br><br>padding: 10px;<br><br>}</p>"

@@ -1,0 +1,5 @@
+id: dsq-747521135
+date: 2011-06-22T16:49:39.0000000-07:00
+name: GDS
+avatar: https://disqus.com/api/users/avatars/GDS.jpg
+message: <p>New feature in 4.0 which checks Null, empty as well as White space which can be used if blank spaces also needs to be validated by String.IsNullOrWhiteSpace(string) inplace of String.IsNullOrEmpty(string).</p>

@@ -1,0 +1,5 @@
+id: dsq-1878423571
+date: 2015-02-27T03:42:43.0000000-08:00
+name: Tridip
+avatar: https://disqus.com/api/users/avatars/Tridip.jpg
+message: <p>nice article but one question that a script may download from hacker side which will have jquery ajax function that use post mechanism to call mvc post action method which would return json array and i guess in that case auth cookie also will be transfer. so why you suggest to return json data for post action. how post can make it secure. it will be helpful if you write few lines to wipe out my confusion. thanks</p>

@@ -1,0 +1,5 @@
+id: dsq-747523855
+date: 2007-12-21T12:50:24.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Sergio I remember now why I didn't put the object in TempData. TempData uses the Session to store values temporarily. If you're using a State Server or database as the session store, you need to mark your object as <code>Serializable</code>.<br>Easy enough to do with <code>Article</code>. I think I just have a tendency to not put objects in session as a holdover from my VB6 days. ;) I like putting primitives and loading from primitives.</p>

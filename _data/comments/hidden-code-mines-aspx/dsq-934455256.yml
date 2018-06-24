@@ -1,0 +1,6 @@
+id: dsq-934455256
+replyToId: dsq-934453719
+date: 2013-06-18T10:26:14.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yeah, I hinted at that, but I don't find it satisfying. If you drop values, chances are you are hiding a bug.</p><p>I'd prefer an exception, or the ToLookup approach that makes it clear there could be more than one value.</p>

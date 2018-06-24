@@ -1,0 +1,5 @@
+id: dsq-1024295872
+date: 2013-08-31T04:53:56.0000000-07:00
+name: Er Jyot Bhavnagarwala
+avatar: https://disqus.com/api/users/avatars/erjyotbhavnagarwala.jpg
+message: '<p>Hi,</p><p>I have implemented your approach. Its very good.... Its is live at <a href="http://www.ashika.com" rel="nofollow noopener" title="http://www.ashika.com">http://www.ashika.com</a></p><p>Here i have used the word: "buy" instead of "pages"</p><p>But my problem is, What if I remove "pages" from the below code</p><p>routes.MapRoute(<br>  "Slug", // Route name<br>  "pages/{slug}", // URL with parameters<br>  new { controller = "Home", action = "Content" } // Parameter defaults<br>);</p><p>The problem is other default urls will not work. Also Html.ActionLink will not work..... So I must have to use the word "buy" or anything else according to SEO..</p><p>Can you please suggest??</p><p>Please reply me fast...</p>'

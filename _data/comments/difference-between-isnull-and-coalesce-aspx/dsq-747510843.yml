@@ -1,0 +1,5 @@
+id: dsq-747510843
+date: 2005-03-09T15:05:00.0000000-08:00
+name: Sheetal
+avatar: https://disqus.com/api/users/avatars/Sheetal.jpg
+message: <p>the difference between isnull and coalesce is that<br><br>coalesce COALESCE(@test, 'test')<br><br>  can be interpreted as<br><br>    case<br><br>        when @test not null then @test<br><br>         else<br><br>            'test'<br><br>    end</p>

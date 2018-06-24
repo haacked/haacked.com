@@ -1,0 +1,5 @@
+id: dsq-747532545
+date: 2010-06-16T11:15:14.0000000-07:00
+name: Claus
+avatar: https://disqus.com/api/users/avatars/Claus.jpg
+message: "<p>Cool! Ironic thought that you didn't use the null coalescing operator? :)<br>public static string AsNullIfWhiteSpace(this string item) {<br>    return String.IsNullOrWhiteSpace(item) ? null : item;<br>}<br>public static IEnumerable&lt;T&gt; AsNullIfEmpty&lt;T&gt;(this IEnumerable&lt;T&gt; items) {<br>return (items == null || items.Any()) ? null : items;<br>}</p>"

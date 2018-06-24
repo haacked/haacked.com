@@ -1,0 +1,5 @@
+id: dsq-747515886
+date: 2008-12-07T09:29:13.0000000-08:00
+name: Jack
+avatar: https://disqus.com/api/users/avatars/Jack.jpg
+message: <p>I would strongly recommend against Sitefinity if you want to do any sort of customization, or anything thats not straight out of the box.<br>(Ironic considering its meant to be 'for' developers).<br>- The whole architecture is a bit of a mess (inspite of their admiration for their own product).<br>- The ORM is horrid (Nolics)<br>- The standard answer to "can I extend this" is "yes, by rewriting the entire thing". If you look in Reflector you can see that Sitefinity use an aweful lot of copy &amp; paste in their own code.<br>- Documentation is very poor (it reads more like a marketing pamphlet).<br>- Events are very hard to use<br>- Basically a .NET 1.0 product - many APIs still return IList<br>- All round, the whole thing is not easily extensible<br>I think we are going to try Umbraco next...</p>

@@ -1,0 +1,5 @@
+id: dsq-833600771
+date: 2013-03-18T06:58:24.0000000-07:00
+name: Paul
+avatar: https://disqus.com/api/users/avatars/stokedout.jpg
+message: <p>Hi @Phil, you mention this works with complex objects but its not for me. The break point I set on the custom binder is only hit when I have a decimal as a route value directly e.g. RandomController(decimal someNumber) and not inside a complex binding RandomController(ComplexObj obj). Can anyone help?</p>

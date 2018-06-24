@@ -1,0 +1,5 @@
+id: dsq-747513235
+date: 2005-10-20T15:15:00.0000000-07:00
+name: Keyvan Nayyeri
+avatar: https://disqus.com/api/users/avatars/Keyvan Nayyeri.jpg
+message: <p>Ok<br><br>But a problem:<br><br>You've supposed K is true and proved it's true for K+2 but what will happen for K+1?<br><br>As you used induction proof I think that it's necessary to prove it for K+1.<br><br>It means this:<br><br>You're pattern is true for 9 and also proved that it's true for 13 but how about 11?</p>

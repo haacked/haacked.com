@@ -1,0 +1,5 @@
+id: dsq-747514431
+date: 2006-03-07T23:53:00.0000000-08:00
+name: John Meyer
+avatar: https://disqus.com/api/users/avatars/John Meyer.jpg
+message: <p>Looks like a great solution for multi-blogs.  Do you know if it works with MSSQL 2005 or does it have to be 2000?  I received error "The WebResource.axd handler must be registered in the configuration to process this request." at the point where the DB is initialized (and couldn't find anywhere more appropriate to ask).  I'd like to convert if I can get SubText working.<br>Thanks!</p>

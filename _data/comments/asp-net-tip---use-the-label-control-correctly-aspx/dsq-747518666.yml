@@ -1,0 +1,5 @@
+id: dsq-747518666
+date: 2007-02-15T20:27:47.0000000-08:00
+name: Wyatt Barnett
+avatar: https://disqus.com/api/users/avatars/Wyatt Barnett.jpg
+message: <p>Damnit Phil, you beat me to my pro-label rant!<br></p><blockquote>With the ASP.NET 1.1 Label control, there was no AssociatedControlId property - it really was just a brain dead Literal that just rendered a span tag.</blockquote><p><br>Not quite--I used it all the time in 1.1 apps. Now, the issue was Visual Studio 2003 did not recognize it as a legitimate property and complained. But we all learned to ignore VS 2003's complaints, right?<br></p>

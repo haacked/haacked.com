@@ -1,0 +1,5 @@
+id: dsq-747524868
+date: 2008-09-23T19:34:38.0000000-07:00
+name: Mohan
+avatar: https://disqus.com/api/users/avatars/Mohan.jpg
+message: <p>Am having the same problem as "Dirk", certain routes interfere with the /WebResource.axd and /ScriptResource.axd handlers. This leads to Ajax not working correctly or failing completely. Is thre any solution for the same...?<br>Even i tried with Routes.IgnoreRoute option also, but no use.</p>

@@ -1,0 +1,5 @@
+id: dsq-747527880
+date: 2009-01-31T19:20:27.0000000-08:00
+name: configurator
+avatar: https://disqus.com/api/users/avatars/configurator.jpg
+message: <p>Phil, you could easily render a form with nothing but a submit button:<br>&lt;form method="post"&gt;&lt;input type="submit" value="Confirm delete" /&gt;&lt;/form&gt;<br>This would render in the delete action when accessed with GET - i.e. browsers without javascript. So there would be no need to use javascript to submit the form; nobody with javascript would see it.</p>

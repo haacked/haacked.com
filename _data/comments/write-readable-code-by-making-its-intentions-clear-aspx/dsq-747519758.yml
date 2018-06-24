@@ -1,0 +1,5 @@
+id: dsq-747519758
+date: 2007-04-21T04:04:26.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I assume you mean passing in a value that is not a defined enum value. For example:<br><code><br>enum MyEnum<br>{<br>  Yes = 1<br>  ,No = 2<br>}<br>void SomeMethod(MyEnum arg)<br>{<br>}<br>//This is legal<br>SomeMethod((MyEnum)3);<br></code><br><br>Well the recommended guideline (and I subscribe to this) is that if at the time you define <code>SomeMethod</code> and it expects an enum with 2 possible values, but someone passes avalue that is out of range, throw an argument exception.<br>For example:<br><code><br>void SomeMethod(MyEnum arg)<br>{<br>  if(MyEnum.Yes &gt; arg || arg &gt; MyEnum.No)<br>    throw new ArgumentException("arg", "Message");<br>}</code></p>

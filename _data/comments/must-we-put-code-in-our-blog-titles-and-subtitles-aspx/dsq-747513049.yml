@@ -1,0 +1,5 @@
+id: dsq-747513049
+date: 2005-09-27T23:44:00.0000000-07:00
+name: Yex
+avatar: https://disqus.com/api/users/avatars/Yex.jpg
+message: '<p>Yeah, I was wondering if I should have been more explicit with my sarcasm in that statement. I know it was MSIL. My little PHIL comment was meant to be a joke.<br><br><br><br>string languageName = "MSIL";<br><br>languageName.Replace("MS", "PH");<br><br>console.WriteLine( "Language name: " + languageName );<br><br><br><br>OUTPUT: Language name: PHIL<br><br><br><br>(Phillip Haack Intermediate Language)<br><br><br><br>;)</p>'

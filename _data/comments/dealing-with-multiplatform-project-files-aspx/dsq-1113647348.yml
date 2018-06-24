@@ -1,0 +1,6 @@
+id: dsq-1113647348
+replyToId: dsq-1113155581
+date: 2013-11-08T01:25:16.0000000-08:00
+name: Matt Davey
+avatar: https://disqus.com/api/users/avatars/disqus_asZ0mfCnmj.jpg
+message: <p>This is the approach that I take in my projects, I've never noticed any particular performance degradation.</p><p>Adding files manually in visual studio does cause issues - seems like VS only has half-hearted support for this scenario, definitely room for improvement!</p>

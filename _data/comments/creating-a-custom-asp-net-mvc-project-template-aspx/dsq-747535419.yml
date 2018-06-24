@@ -1,0 +1,5 @@
+id: dsq-747535419
+date: 2011-06-07T00:10:49.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hi all, I fixed the 404. Many apologies for that!<br>@Mike, @Chris. I was speaking in the present tense. I would love to be able to do it via NuGet, but it's sort of out of scope of what NuGet + VS can do today. Yes, it might be possible to hack it with an Install.ps1 script, but I cannot condone such behavior and you didn't hear that from me. ;)<br>Another approach you <strong>can</strong> do today is have a nuget package contain everything you want in the project template. Our NuGet.Server package is a good example of this. Create an empty ASP.NET application, install NuGet.Server.<br>Given the approach I show here, you could have a completely empty MVC project template and have it pre-install a NuGet package that has everything you want.<br>@Chris today, the project template won't go online to install the package. We're looking into enabling more such scenarios in the future.</p>

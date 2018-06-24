@@ -1,0 +1,5 @@
+id: dsq-747521845
+date: 2007-08-03T08:00:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Jeroen Thanks for commenting. Here's the list of issues:<br>Details of WatiN issues<br>- WatiN doesn't focus control (control.focus() doesn't work)<br>- WatiN doesn't send events for typetext <br>- Watin doesn't set keyCode event parameter when keyDown/keyPress/keyUp are sent<br>The problem I had was I couldn't figure out how to verify a document.write statement. For example, I wanted to make sure that a document.write statement was executed.</p>

@@ -1,0 +1,5 @@
+id: dsq-747532233
+date: 2011-08-09T16:06:29.0000000-07:00
+name: Per Samuelsson
+avatar: https://disqus.com/api/users/avatars/Per Samuelsson.jpg
+message: <p>@Phil,<br>Thanks for sharing your insight.<br>@all,<br>FWIW, I was hoping this could be a big help for a problem we have, relating to assembly reference resolving in ASP.NET, but unfortunally, we were not able to use it since (as it seems) the initializer you register using the PreApplicationStartMethodAttribute is never fired if applied on an assembly residing in the GAC. Which is the case in our design.<br>Just thought I'd share this.</p>

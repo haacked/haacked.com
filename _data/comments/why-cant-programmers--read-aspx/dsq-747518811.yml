@@ -1,0 +1,5 @@
+id: dsq-747518811
+date: 2007-03-10T23:07:25.0000000-08:00
+name: Wishknew
+avatar: https://disqus.com/api/users/avatars/Wishknew.jpg
+message: <p>This is turbo prolog:<br>predicates<br>  fizzbuzz(integer)<br>  solution(integer)<br>clauses<br>  fizzbuzz(I) :- I mod 15 = 0, write("fizzbuzz", "\n"), !.<br>  fizzbuzz(I) :- I mod 3 = 0, write("fizz", "\n"), !.<br>  fizzbuzz(I) :- I mod 5 = 0, write("buzz","\n"), !.<br>  fizzbuzz(I) :- write(I, "\n"), !.<br>  solution(X) :-<br>     X &lt;= 100, fizzbuzz(X), Y = X + 1, solution(Y).<br>goal<br>  solution(1).</p>

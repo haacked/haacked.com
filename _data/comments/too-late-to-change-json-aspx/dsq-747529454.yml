@@ -1,0 +1,5 @@
+id: dsq-747529454
+date: 2009-06-27T03:18:00.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>I don't really know how requireing post makes sense.  I have to look at some api's that I have been currently playing with to see how vunerable all these things are.  Since they don't require post for everything and I don't now if it is an array or if it is wrapped in an ogject or what.<br>I would think that it would be easier that if you are dealing with truly sensitive information either don't use json or wrap it into an object.<br>It actually seems to me just as harsh to say.  I am going to require POST to get data as it would to docuent my api and say my respose is an object.<br>I don't really see how either is that harsh.  But, the POST just doesn't seem to make sense to me.  Post,Push,Delete,Get all seem to carry meaning in the restful api's that I have seen and just saying everything is goingt to be a post seems to take away from that.<br>Anyway, this is very interesting to me. And I am sure that everyone posting here knows alot more than I do about the subject.</p>

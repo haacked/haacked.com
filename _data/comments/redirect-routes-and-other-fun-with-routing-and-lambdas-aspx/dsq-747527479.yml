@@ -1,0 +1,5 @@
+id: dsq-747527479
+date: 2008-12-28T02:26:03.0000000-08:00
+name: Rodrigo
+avatar: https://disqus.com/api/users/avatars/Rodrigo.jpg
+message: <p>Phil,<br>I've seen that in the next release there will be no code-behind, which is great, but how to handle strongly typed view data?<br>Following Scott Gu, I could use ViewData&lt;T&gt; in the code-behind and then have something like this in my views...<br>Product.Name <br>How will that be handled in this new scenario?</p>

@@ -1,0 +1,5 @@
+id: dsq-747524101
+date: 2008-02-05T23:43:30.0000000-08:00
+name: mike h
+avatar: https://disqus.com/api/users/avatars/mike h.jpg
+message: <p>On the SharePoint Search Bench project (<a href="http://codeplex.com/spsearchbench)" rel="nofollow noopener" title="http://codeplex.com/spsearchbench)">http://codeplex.com/spsearc...</a>, I'm specifically struggling with unit testing methods that execute searches with the SharePoint API.  Like HttpContext, The SharePoint search API classes are sealed and do not implement an interface.  Mocking isn't an option and multiple times I've decided that creating a bridge or adapter is too much work for the value that my wrapper API provides.  I've settled for at least creating a "test" context that can be swapped in/out with the "real" context that uses the real SharePoint API.  The test context is great for unit testing the UI, but not the API itself.  This is the kind of stuff that really makes unit testing a turn off for me.  In the end, I just have to keep writing layer upon layer of buffer code that adds little value to the <em>real</em> functionality I'm trying to develop.</p>

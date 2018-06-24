@@ -1,0 +1,6 @@
+id: dsq-2754548168
+replyToId: dsq-2414387264
+date: 2016-06-28T02:48:30.0000000-07:00
+name: Nyerguds
+avatar: https://disqus.com/api/users/avatars/maartenmeuris.jpg
+message: <p>Nope. It's an immutable type. It has nothing to do with the string-String duality; DateTime is the same and has no "primitive type".</p>

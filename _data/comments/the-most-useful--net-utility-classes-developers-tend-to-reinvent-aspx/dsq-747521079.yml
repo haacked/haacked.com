@@ -1,0 +1,5 @@
+id: dsq-747521079
+date: 2007-06-14T03:07:19.0000000-07:00
+name: Richard P
+avatar: https://disqus.com/api/users/avatars/Richard P.jpg
+message: "<p>\"You should ask yourself a second question about it: If the provided cause for this suspected bug is that big, why doesn't it happen more often then?\"<br>Because 99% of the time, people will not put String.IsNullOrEmpty *inside* the loop.<br>The first line of the function would be<br>if (String.IsNullOrEmpty(someArgument)) throw new ArgumentException(\"someArgument cannot be null or empty.\");<br>The bug exists, but it's rare because most developers just don't test well enough to expose a bug that only exists when run outside the IDE with optimizations on.  Of those that do, very few situations call for putting the String.IsNullOrEmpty() test inside the loop.<br></p>"

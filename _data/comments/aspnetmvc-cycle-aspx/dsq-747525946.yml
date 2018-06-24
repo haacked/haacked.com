@@ -1,0 +1,5 @@
+id: dsq-747525946
+date: 2008-08-07T07:42:09.0000000-07:00
+name: Keith
+avatar: https://disqus.com/api/users/avatars/Keith.jpg
+message: <p>If you want to support multiple cycles within one page, you can instead create a delegate that will return a new string each time:<br></p><p><br><code><br>public static Func&lt;string&gt; Cycler(this HtmlHelper html, params string[] strings) {<br>    List&lt;string&gt; stringList = new List&lt;string&gt;(strings);<br>    Func&lt;string&gt; cycler = null;<br>    cycler = () =&gt;<br>    {<br>        // Move the first item to the back of the list<br>        string value = stringList[0];<br>        stringList.RemoveAt(0);<br>        stringList.Add(value);<br>        // Modify the generator so that it uses the new list next time<br>        cycler = html.Cycler(stringList.ToArray());<br>        // return the first value this time<br>        return value;<br>    };<br>    return cycler;<br>}<br></code><br></p><p><br>Of course, this means that you'll have to create an instance outside the loop, but it might be considered less of a "cheat".</p>

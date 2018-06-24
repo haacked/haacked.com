@@ -1,0 +1,5 @@
+id: dsq-1656362173
+date: 2014-10-27T13:13:06.0000000-07:00
+name: Raphaël Thouin
+avatar: https://disqus.com/api/users/avatars/raphlo.jpg
+message: <p>I've been using your solution for a project and it works great! But now moving to the Attribute Routing with MVC5, I'm wondering how I could apply your solution to that? Route attribute is a sealed class and cannot be extend, so how would you translate your logic in an attribute routing context?</p>

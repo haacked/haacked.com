@@ -1,0 +1,5 @@
+id: dsq-747529194
+date: 2009-06-02T00:48:00.0000000-07:00
+name: Elad Ossadon
+avatar: https://disqus.com/api/users/avatars/Elad Ossadon.jpg
+message: <p>I couldn't see this overload (with generic controller type and an expression) on Url, but only on Html. Will it be available?<br>Sometimes I need the URL itself without <a href="..." rel="nofollow noopener" title="...">...</a> (e.g. for JS).<br>Of course I can work around and make a method that takes the output string and extracts the URL but this should be more elegant.<br>Thanks</p>

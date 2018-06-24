@@ -1,0 +1,5 @@
+id: dsq-747520369
+date: 2008-07-16T22:11:24.0000000-07:00
+name: Mark McLaughlin
+avatar: https://disqus.com/api/users/avatars/Mark McLaughlin.jpg
+message: <p>My Service Unavailable error was fixed when I restarted my Application pool.  I believe a programming error (trying to add a control to itself!) shut down my application pool.</p>

@@ -1,0 +1,5 @@
+id: dsq-747522096
+date: 2008-12-16T17:05:34.0000000-08:00
+name: Mark
+avatar: https://disqus.com/api/users/avatars/Mark.jpg
+message: <p>Incidentally, it looks as though the code possibly got mangled there; this is a paste direct from the code that is definitely working, so unless the webpage modifies it, should work:<br>$pat = "/^";<br>$pat .= "(";<br>$pat .= "([\w!#$%&amp;'*+\-\/=?^`{|}~]+\.)*([\w!#$%&amp;'*+\-\/=?^`{|}~]|\\.)+";<br>$pat .= "|";<br>$pat .= "\"([^\"]|\\.)*\"";<br>$pat .= ")";<br>$pat .= "@";<br>$pat .= "(";<br>$pat .= "(((\w+\-)*\w)+\.)+\w{2,6}";<br>$pat .= "|";<br>$pat .= "\[(([1-9]\d?|1\d{2}|2([0-4]\d|5[0-5]))\.){3}([1-9]\d?|1\d{2}|2([0-4]\d|5[0-5]))\]";<br>$pat .= ")";<br>$pat .= "$/";</p>

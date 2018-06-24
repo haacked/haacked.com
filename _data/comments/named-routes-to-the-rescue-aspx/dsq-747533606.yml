@@ -1,0 +1,5 @@
+id: dsq-747533606
+date: 2010-11-28T15:23:15.0000000-08:00
+name: '&#216;yvind Valland'
+avatar: https://disqus.com/api/users/avatars/&#216;yvind Valland.jpg
+message: "<p>I can see the benefits of named routes - but <em>not</em> using named routes gives you separation of concerns: When I put a link or a redirection in place I don't want to think about the URL itself, I just want to think about where that URL takes me, i.e. the action I end up on. Using named routes makes me have to think about which route entry I should use for any particular link, and that takes away a lot of the beauty of the routing engine in my opinion.<br>Having said this I have banged my head against the wall many times when it comes to routes (mainly because I'm a bit thick) - and a named route would have fixed my problem. Still, I really do prefer <em>not</em> naming routes.</p>"

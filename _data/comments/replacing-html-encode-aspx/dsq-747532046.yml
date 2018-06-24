@@ -1,0 +1,5 @@
+id: dsq-747532046
+date: 2010-04-28T15:18:49.0000000-07:00
+name: tobi
+avatar: https://disqus.com/api/users/avatars/tobi.jpg
+message: <p>Also remember that you can replace Server.HtmlEncode and HttpUtility.HtmlEncode with this. Actually I think you should scan your app for &lt;%= and eradicate all usages of this dangerous construct. Replace it with &lt;:</p>

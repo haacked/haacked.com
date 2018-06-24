@@ -1,0 +1,5 @@
+id: dsq-747534687
+date: 2011-03-30T13:31:01.0000000-07:00
+name: James L
+avatar: https://disqus.com/api/users/avatars/James L.jpg
+message: "<p>I spoke to soon...<br>VSIXInstaller.SignatureMismatchException: The installed version of 'NuGet Package Manager' is signed, but the update version has an invalid signature. Therefore, Extension Manager cannot install the update.</p>"

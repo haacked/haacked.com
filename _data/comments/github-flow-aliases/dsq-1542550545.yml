@@ -1,0 +1,5 @@
+id: dsq-1542550545
+date: 2014-08-14T07:53:11.0000000-07:00
+name: blueyed
+avatar: https://disqus.com/api/users/avatars/blueyed.jpg
+message: <p>The `wipe` alias is great. I have made a function out of it (using your pattern), which allows to reset to something else than `HEAD`:</p><p>  wipe = "!f() { rev=$(git rev-parse ${1-HEAD}); \<br>    git add -A &amp;&amp; git commit --allow-empty -qm 'WIPE SAVEPOINT' \<br>    &amp;&amp; git reset $rev --hard; }; f"</p><p>It gets the rev before committing, and uses `--allow-empty` for the commit, to make it work with an unchanged worktree, where nothing would be committed, but the `reset` should get done always.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-1275027451
+date: 2014-03-07T06:30:24.0000000-08:00
+name: Carlos J López
+avatar: https://disqus.com/api/users/avatars/carlosjlpez.jpg
+message: <p>I've spent about 3 hours working with this regex and when i thought it matched everything, one more html was missed, so far this does the matching I need, hope it helps anyone as well :)</p><p><a href="https://www.debuggex.com/r/y_RYlTqkNT1iPJBO" rel="nofollow noopener" title="https://www.debuggex.com/r/y_RYlTqkNT1iPJBO">https://www.debuggex.com/r/...</a></p><p><a href="http://www.regexper.com/#%5E(%3F%3A%5Cs*(%3C%5B%5Cw%5CW%5D%2B%3E)%5B%5E%3E%5D*%7C%23(%5B%5Cw-%5D*))%24" rel="nofollow noopener" title="http://www.regexper.com/#%5E(%3F%3A%5Cs*(%3C%5B%5Cw%5CW%5D%2B%3E)%5B%5E%3E%5D*%7C%23(%5B%5Cw-%5D*))%24">http://www.regexper.com/#%5...</a></p>

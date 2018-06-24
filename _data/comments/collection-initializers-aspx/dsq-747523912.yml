@@ -1,0 +1,5 @@
+id: dsq-747523912
+date: 2008-01-06T08:05:45.0000000-08:00
+name: Thibaut Barr&#232;re
+avatar: https://disqus.com/api/users/avatars/Thibaut Barr&#232;re.jpg
+message: "<p>I'd vote for type inference as well (maybe because I like the Ruby syntax too!).<br>FWIW: for unit tests at least and when the generics are not available, I tend to use a little helper (static function for instance with params object arg) to allow calls like:<br>IDictionary order = Hash(\"price\",200.0,\"quantity\",24);<br>Not as neat but saves a lot of typing already.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747510852
+date: 2006-09-08T00:15:55.0000000-07:00
+name: Dolan
+avatar: https://disqus.com/api/users/avatars/Dolan.jpg
+message: <p>I am trying to create a formula for a table that will concatenate the first , middle, and last name columns and append the suffix if not null with the comma. <br>(coalesce([first_name],'') + ' ' + coalesce([middle_name],'') + ' ' + coalesce([last_name],'') + coalesce([suffix],''))<br>The problem is getting the comma only when the suffix is not null.</p>

@@ -1,0 +1,5 @@
+id: dsq-747517784
+date: 2006-11-25T00:00:17.0000000-08:00
+name: Kevin Dente
+avatar: https://disqus.com/api/users/avatars/Kevin Dente.jpg
+message: <p>Er..you need to adjust the trailing delimiter stripping code to account for the fact that it could be more than one character now.</p>

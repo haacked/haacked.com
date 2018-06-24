@@ -1,0 +1,5 @@
+id: dsq-747531669
+date: 2010-02-12T01:32:06.0000000-08:00
+name: tomas
+avatar: https://disqus.com/api/users/avatars/tomas.jpg
+message: <p>Nice! This does take care of a lot of ugly binding attributes like the ones Felipe uses (I do too...) in a much cleaner way.<br>On the other hand, it could be even better - why not make the framework <em>assume</em> that value by convention, if no value at all is provided?<br>Let me illustrate what I mean with an example:<br><code>routes.MapRoute(<br>    "Default",<br>    "{controller}/{action}/{id}",<br>    new { controller = "Home", action = "Index" }<br>);</code><br>When the route is parsed, it produces the same results as using UrlParameter.Optional for id, since there is an {id} in the route that isn't referenced in the default values object.</p>

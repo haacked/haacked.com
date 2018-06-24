@@ -1,0 +1,5 @@
+id: dsq-747522057
+date: 2007-09-01T12:51:15.0000000-07:00
+name: J&#225;nos P&#225;sztor
+avatar: https://disqus.com/api/users/avatars/J&#225;nos P&#225;sztor.jpg
+message: "<p>One small side thought here: what's an e-mail address good for if you can't type it on a common keyboard?<br>Anyway, you are validating e-mail addresses for <strong>use</strong> not for the RFC. So if the e-mail you got is perfectly valid but your MTA rejects it because of whatsoever spam filtering and stuff, your validation isn't worth the bytes it takes up.<br>The domain part is interesting, because accented characters are allowed, however most people register the domain names unaccented version as well, so it is safe to say that US-ASCII does the job.<br>In short, you have to test against your mail delivery system and your target audience's common mail domains, <strong>not</strong> the RFC.</p>"

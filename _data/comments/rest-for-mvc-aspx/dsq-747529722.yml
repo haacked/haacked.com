@@ -1,0 +1,5 @@
+id: dsq-747529722
+date: 2009-10-09T00:31:00.0000000-07:00
+name: Kiran
+avatar: https://disqus.com/api/users/avatars/Kiran.jpg
+message: <p>The SDK is returning 'Not Found' error in google chrome browser. This is because of the AcceptTypes in google are different.  The first item in the ordered list is 'application/xml' instead of text/html.</p>

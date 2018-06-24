@@ -1,0 +1,5 @@
+id: dsq-747534968
+date: 2011-04-14T21:00:10.0000000-07:00
+name: Alberto Chvaicer
+avatar: https://disqus.com/api/users/avatars/Alberto Chvaicer.jpg
+message: <p>Set items.Count() into a variable.<br>It's a tiny thing, but why not reduce the number of calls of something that never changes?</p>

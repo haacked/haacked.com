@@ -1,0 +1,5 @@
+id: dsq-747519778
+date: 2007-04-24T18:13:18.0000000-07:00
+name: BigJimInDC
+avatar: https://disqus.com/api/users/avatars/BigJimInDC.jpg
+message: <p>Just some food for thought, but is this kind of integration not what a VIEW with an INSTEAD OF trigger is supposed to be able to support.  In other words, if you were hell bent on sticking with the SqlMembershipProvider and its data model, but didn't want to create a "hack" like the one described above that copied data, you could "mimic" the SqlMembershipProvider's data model with a series of VIEWs that even supported updating via INSTEAD OF triggers.  And you could even accomplish a sense of "loose coupling" by placing these views in a separate SQL DB on the same MS SQL server that did cross DB querying.  IMHO, for as much as I completely believe properly OO coded solutions are ideal, when it comes to "integration" tasks as this one, leveraging the RDBMS is your best bet.</p>

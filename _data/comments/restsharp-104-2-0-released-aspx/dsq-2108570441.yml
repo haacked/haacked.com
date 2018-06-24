@@ -1,0 +1,6 @@
+id: dsq-2108570441
+replyToId: dsq-1051551470
+date: 2015-06-30T07:28:51.0000000-07:00
+name: Bill Sorensen
+avatar: https://disqus.com/api/users/avatars/disqus_yIZLefQEtL.jpg
+message: "<p>I have to agree. I've spent hours (and scoured Stack Overflow) trying to call a third-party API that expects a Content-Type header on GET requests. HttpClient considers this a protocol violation and will NOT let you do it. I plan to try RestSharp.</p><p>Edit: RestSharp worked great, and was significantly easier to use than HttpClient.</p>"

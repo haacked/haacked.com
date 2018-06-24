@@ -1,0 +1,5 @@
+id: dsq-3548768818
+date: 2017-10-03T11:09:58.0000000-07:00
+name: Robolize
+avatar: https://disqus.com/api/users/avatars/Robolize.jpg
+message: <p>I like this, but I have a question.  What about the cases when an async void is valid?  I want to setup the unit tests as you have shown, but I think I'm going to have cases where I can't change to async Task.  I'm thinking I could maintain a white-list in the unit test of approved usages.  Is there a better way?</p>

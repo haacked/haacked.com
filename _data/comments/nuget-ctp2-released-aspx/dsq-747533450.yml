@@ -1,0 +1,5 @@
+id: dsq-747533450
+date: 2010-11-08T22:02:04.0000000-08:00
+name: Paul Cox
+avatar: https://disqus.com/api/users/avatars/Paul Cox.jpg
+message: <p>Can NuGet be used to manage project dependencies other than .NET libraries? For instance, in MVC projects it's hard to keep track of jQuery plugins.</p>

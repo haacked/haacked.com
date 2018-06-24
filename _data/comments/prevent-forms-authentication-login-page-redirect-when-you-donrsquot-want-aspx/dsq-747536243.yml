@@ -1,0 +1,5 @@
+id: dsq-747536243
+date: 2011-10-04T05:35:31.0000000-07:00
+name: Fujiy
+avatar: https://disqus.com/api/users/avatars/Fujiy.jpg
+message: <p>Recently I needed something similar. When user don´t have permission, returns a 401, and show a custom Html(custom error don´t work for 401 errors)<br>Additionally I needed to personalize assigned Roles for Anonymous users too. I wrote a custom AuthorizeAttribute that do this 3 things<br>ASP.NET vNext could have this 3 features by default....<br>-Authorize attribute(or web.config declarative way for webforms) return a 401 error<br>-Custom errors that works with 401 errors(maybe when fixing the first bug, this will automatically fixed)<br>-Roles for anonymous users</p>

@@ -1,0 +1,5 @@
+id: dsq-747508141
+date: 2004-04-28T01:39:00.0000000-07:00
+name: Ian Griffiths
+avatar: https://disqus.com/api/users/avatars/Ian Griffiths.jpg
+message: <p>It is possible to fool VS.NET in to referencing an EXE by editing the .csproj file by hand. However, it's not a technique likely to inspire confidence... I don't tend to use it.<br><br><br><br>Instead I usually structure my projects specifically to allow for testing. I build all code into DLLs so that they can be referenced from test projects.<br><br><br><br>You use VS.NET's ability to 'link' files into a project to make a file appear in more than one project, so you can build both EXEs and DLLs from the same source if you want to.</p>

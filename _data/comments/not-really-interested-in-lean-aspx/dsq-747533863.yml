@@ -1,0 +1,5 @@
+id: dsq-747533863
+date: 2010-12-21T02:07:33.0000000-08:00
+name: John Stovin
+avatar: https://disqus.com/api/users/avatars/John Stovin.jpg
+message: <p>I was working on a project a couple of years ago where we tried exactly this approach.  We were a Scrum team with a perpetual problem of 'not enough QA', so we agreed that developers would not start a new feature while any user stories were still waiting for testing, but should test instead.  It actually increased our velocity because we got all our stories finished every sprint. <br>Having one QA person as a fallback/oracle/adviser was vital though - they always have a different take from developers.</p>

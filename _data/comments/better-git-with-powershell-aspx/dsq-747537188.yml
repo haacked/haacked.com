@@ -1,0 +1,5 @@
+id: dsq-747537188
+date: 2011-12-18T08:07:00.0000000-08:00
+name: Sam
+avatar: https://disqus.com/api/users/avatars/Sam.jpg
+message: "<p>Tried it with msysgit 1.7.5. Got a warning:<br>\"WARNING: posh-git required msysgit version 1.7. You have .\"<br>Great error message. Doesn't seem to have done anything, prompt isn't branch aware etc. Maybe you could share what git distro u are using Phil?</p>"

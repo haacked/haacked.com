@@ -1,0 +1,5 @@
+id: dsq-747533129
+date: 2010-10-08T02:39:35.0000000-07:00
+name: Justin
+avatar: https://disqus.com/api/users/avatars/Justin.jpg
+message: <p>Hi Phil,<br>   I'm having a difficult time getting the razor view to look clean while simultaneously generate the HTML I want.  The problem, for me, is in the way the white space is handled.  Is there a way to stop razor from capturing white space to use in the generated output?  Like @{ WhiteSpace.Ignore(); } then later turn back on white space capturing @{ WhiteSpce.Capture(); }<br>Thanks,<br>Justin<br></p>

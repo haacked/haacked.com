@@ -1,0 +1,5 @@
+id: dsq-747527723
+date: 2009-01-15T20:13:13.0000000-08:00
+name: Henri
+avatar: https://disqus.com/api/users/avatars/Henri.jpg
+message: <blockquote><br>I'm not sure if the number of states and complexity of the problem warrants modeling it in terms of an explicit state machine. A simpler implementation with the usual control suspects of the language will do. I think you'll find the following version shorter, simpler and easier to read, follow and debug:<br></blockquote><p><br>To me, a simple state machine is easier to understand than a mishmash of loops and branching. These things are subjective, so I encourage people to compare them and decide for themselves.</p>

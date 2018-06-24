@@ -1,0 +1,5 @@
+id: dsq-747519719
+date: 2007-04-19T14:46:39.0000000-07:00
+name: Andy
+avatar: https://disqus.com/api/users/avatars/Andy.jpg
+message: <p>Which is best for readability?<br>Option a)<br>if (value)<br>{<br>  x=true;<br>  y=true;<br>  z=true;<br>}<br>else<br>  x=false;<br>  y=false;<br>  z=false;<br>}<br><br>Option b)<br>x = y= z = value;</p>

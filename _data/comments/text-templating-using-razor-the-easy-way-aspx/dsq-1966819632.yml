@@ -1,0 +1,5 @@
+id: dsq-1966819632
+date: 2015-04-14T07:05:52.0000000-07:00
+name: dvc1201
+avatar: https://disqus.com/api/users/avatars/dobospter.jpg
+message: "<p>Brilliant idea. Could you help me please how can I get the rendered HTML as a string from a <br>System.Web.WebPages.WebPage object.<br>I've modified<br>@* Template : Template TypeVisibility : Public *@ to<br>@* Generator : WebPage TypeVisibility : Public *@<br>(because I would like to use @RenderPage as well)<br>so is there a method or process for a WebPage which shows the same effect as template.TransformText()); in the original example?<br>Thanks</p>"

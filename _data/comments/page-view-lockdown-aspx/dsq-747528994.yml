@@ -1,0 +1,5 @@
+id: dsq-747528994
+date: 2012-07-16T17:37:01.0000000-07:00
+name: Michael F.
+avatar: https://disqus.com/api/users/avatars/Michael F..jpg
+message: <p>Hi Phil,<br>This looks very promising but when I try it, I get a System.Web.HttpException saying my master page allows a limit of 1 dependencies (direct or indirect) and that limit has been exceeded.<br>I can't seem to find any documentation that will help me resolve this. Can you point me in the right direction?<br>Thanks,<br>Michael</p>

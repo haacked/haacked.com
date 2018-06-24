@@ -1,0 +1,5 @@
+id: dsq-2258473479
+date: 2015-09-17T06:29:38.0000000-07:00
+name: Tridip Bhattacharjee
+avatar: https://disqus.com/api/users/avatars/tridipbhattacharjee.jpg
+message: <p>by attribute routing we can handle this</p><p>[HttpGet]<br>[Route("View")]<br>// Returns/View<br>public ActionResult View()<br>{<br>    // I wouldn't really do this but it proves the concept.<br>    int id = 7026;<br>    return View(id);<br>}</p><p>[HttpGet]<br>[Route("View/{id:int}")]<br>// Returns/View/7003<br>public ActionResult View(int id)<br>{<br>    //.....<br>}</p><p>[HttpGet]<br>[Route("View/{id:Guid}")]<br>// Returns/View/99300046-0ba4-47db-81bf-ba6e3ac3cf01<br>public ActionResult View(Guid id)<br>{<br>    //.....<br>}</p>

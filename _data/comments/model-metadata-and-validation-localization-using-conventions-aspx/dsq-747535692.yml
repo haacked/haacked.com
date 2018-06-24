@@ -1,0 +1,5 @@
+id: dsq-747535692
+date: 2011-07-14T13:57:05.0000000-07:00
+name: Nick Schonning
+avatar: https://disqus.com/api/users/avatars/Nick Schonning.jpg
+message: <p>What about using the namespace prepended to the property name to avoid conflicts. Something like {Namespace}_{ClassName}_{PropertyName}_{AttributeName}. This might get a little bit noisy if you have complex namespaces.</p>

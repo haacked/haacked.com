@@ -1,0 +1,5 @@
+id: dsq-747515149
+date: 2006-05-30T04:48:00.0000000-07:00
+name: Aaron Prenot
+avatar: https://disqus.com/api/users/avatars/Aaron Prenot.jpg
+message: <p>I was wondering if you ever managed to get the web deployment projects to work correctly with the WAP model.  I made some attemps, but it seems that it is having issues with namespaces not being imported.  I have considered adding the necessary "Imports", but I am trying to not modify the code.</p>

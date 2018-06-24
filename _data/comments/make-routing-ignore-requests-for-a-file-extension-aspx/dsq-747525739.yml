@@ -1,0 +1,5 @@
+id: dsq-747525739
+date: 2008-07-23T23:21:21.0000000-07:00
+name: Tim Hardy
+avatar: https://disqus.com/api/users/avatars/Tim Hardy.jpg
+message: <p>Thanks for the response. I think the reason why few people have posted problems with this is because they probably have used the "out of the box" MVC app.  We're having these problems because we're trying to integrate some new MVC pages into an existing webforms app.  Turning off auth for the content folder is a brilliant idea :)  Don't know why I didn't think of that earlier.  I think I was assuming having all files go through the runtime was the root problem for so long I forgot to shift my thinking.</p>

@@ -1,0 +1,5 @@
+id: dsq-747535430
+date: 2011-06-18T07:53:32.0000000-07:00
+name: Felix
+avatar: https://disqus.com/api/users/avatars/Felix.jpg
+message: <p>So, I removed Microsoft js files from both Scripts folder and from vstemplate file. However, when I create a new project, I am getting an error popup "Unable to copy the file 'MicrosoftAjax.debug.js' from the project template to the project. Cannot find file c:\[temp directory]\MicrosoftAjax.debug.js"<br>Why would it try to pull MicrosoftAjax.debug.js?</p>

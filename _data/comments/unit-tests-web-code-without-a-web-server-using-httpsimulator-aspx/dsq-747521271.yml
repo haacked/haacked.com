@@ -1,0 +1,5 @@
+id: dsq-747521271
+date: 2007-11-09T01:06:11.0000000-08:00
+name: Kevin G
+avatar: https://disqus.com/api/users/avatars/Kevin G.jpg
+message: "<p>So is there no way to solve this without using Vista?<br>..works on my machine, which is XP, not the build server, so something is being done correctly on my machine  (with VS 2005 installed....) <br>HttpSimulator.cs(722,38): error CS0122: 'System.Web.Configuration.IConfigMapPath' is inaccessible due to its protection level</p>"

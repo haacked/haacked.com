@@ -1,0 +1,5 @@
+id: dsq-747528912
+date: 2009-04-22T21:51:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yep, in .NET 4.0, VirtualPathProvider will run in medium trust. Once that happens, I may be able to swap out my approach to use VPP combined with DLR support for ASP.NET. Or I could use Spark in that case, which also supports IronRuby and IronPython.<br>As for performance, it's probably not faster than a fully compiled view, but with proper caching, it should hopefully not be a problem on a real site.</p>

@@ -1,0 +1,5 @@
+id: dsq-747533128
+date: 2010-10-07T22:57:01.0000000-07:00
+name: Germ&#195;&#161;n
+avatar: https://disqus.com/api/users/avatars/Germ&#195;&#161;n.jpg
+message: "<p>Hi Phil,<br>I can't access WebViewPage.Html property from within a declarative helper (@helper) in the same cshtml file, because razor generates a static HelperResult member for the helper section. So the wrapped delegate can't access the instance members of the WebViewPage.<br><br>Example: This gives a nice compilation error CS0120 :-) <br>@helper MyPopulatedTextBox(string name) {    <br>    </p><p>Hi @name!</p><p><br>    </p><p><br>        Is this your name? @Html.TextBox(\"theName\", name)<br>    </p><p><br>}<br>&lt;h2&gt;@View.Message&lt;/h2&gt;<br></p><p><br>    To learn more about...<br>    MyPopulatedTextBox(\"John Doe\");<br></p><p><br>Anyway, is there a central place to report all this issues for the Beta so your blog doesn't get bloated of boring comments like this one?<br>Thanks!<br>Germán</p>"

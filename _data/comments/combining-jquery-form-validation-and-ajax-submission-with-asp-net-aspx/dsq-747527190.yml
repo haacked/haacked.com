@@ -1,0 +1,5 @@
+id: dsq-747527190
+date: 2008-11-22T18:38:45.0000000-08:00
+name: Gabriel Bog&#233;a
+avatar: https://disqus.com/api/users/avatars/Gabriel Bog&#233;a.jpg
+message: <p>Hi Phil, I've been doing tests along these lines lately. I know you just wanted to demonstrate the plugins but I've been seeing a lot of people using jQuery to submit their forms instead of using the MVC Ajax.BeginFom helper. I usually prefer to use the helper methods when they are available instead of using jQuery.<br>Is the jQuery form submit just another option or is the MVC team leaning towards leaving the ajax to jQuery and not focusing so much on the MVC ajax helpers?<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747516281
+date: 2006-08-12T12:30:54.0000000-07:00
+name: Ron Grabowski
+avatar: https://disqus.com/api/users/avatars/Ron Grabowski.jpg
+message: <p>I wonder how important it is to mark the methods with this attribute so the compiler doesn't optimize the stack somehow:<br> [MethodImpl(MethodImplOptions.NoInlining)]</p>

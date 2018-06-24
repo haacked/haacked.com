@@ -1,0 +1,5 @@
+id: dsq-747510207
+date: 2007-06-14T22:08:57.0000000-07:00
+name: Shail
+avatar: https://disqus.com/api/users/avatars/Shail.jpg
+message: <p>I am not strong in regular express.  I am stuck while validation one string.  Actually I want <a>test</a> or <b>test</b> or <i>test</i> or any string.  Can you help me to generate regex for this validation.  Thaxs</p>

@@ -1,0 +1,5 @@
+id: dsq-1529958565
+date: 2014-08-06T05:16:23.0000000-07:00
+name: Markus Prokott
+avatar: https://disqus.com/api/users/avatars/Markus Prokott.jpg
+message: <p>Nice code. First I was going to use this. But considering the possible performance drawbacks mentioned here and the missing leading zero support, I produced this:</p><p>if (match) {<br>  // match[1], match[2], match[3] contain strings of integers between 0 and 255<br>  var<br>    r = ("0" + parseInt(match[1]).toString(16)).slice(-2),<br>    g = ("0" + parseInt(match[2]).toString(16)).slice(-2),<br>    b = ("0" + parseInt(match[3]).toString(16)).slice(-2);</p><p>  return "#" + r + g + b;<br>}</p><p>This doesn't need any explicit arithmetic, neither bit-wise nor numeric.</p>

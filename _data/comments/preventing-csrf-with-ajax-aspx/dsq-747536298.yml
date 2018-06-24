@@ -1,0 +1,5 @@
+id: dsq-747536298
+date: 2011-10-10T22:17:38.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Paul because then I'd need to deserialize the JSON payload twice, once in the authorization filter and again for the action method. I didn't want to do that.<br>@Kazi 1. We could consider that. 2. Should work fine.<br>@Saeed a long name reduced the chance of conflict with fields developers might be using in their apps. :)<br>@Enrique, the attribute I wrote would work in both scenarios.</p>

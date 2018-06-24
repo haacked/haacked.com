@@ -1,0 +1,5 @@
+id: dsq-747521251
+date: 2007-06-23T09:42:11.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Joshua - How do you do this with the HostingEnvironment? <br>HttpContext.Current.Request.RawUrl</p>

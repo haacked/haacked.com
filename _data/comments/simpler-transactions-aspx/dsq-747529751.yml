@@ -1,0 +1,5 @@
+id: dsq-747529751
+date: 2009-08-19T05:32:00.0000000-07:00
+name: Tobin Harris
+avatar: https://disqus.com/api/users/avatars/Tobin Harris.jpg
+message: <p>Actually, I concluded badly there. I think the <code>using</code> block should throw an exception if the transaction is neither committed or rolled back.</p>

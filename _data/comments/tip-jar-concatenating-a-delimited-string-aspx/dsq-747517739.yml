@@ -1,0 +1,5 @@
+id: dsq-747517739
+date: 2006-11-22T01:41:20.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Stylistically, I didn't like that check for the length on every pass.  It's like you're checking it a bunch of times for that one time it's needed.  I'd prefer priming the pump.<br>Also, you mentioned performance, have you tested it?</p>

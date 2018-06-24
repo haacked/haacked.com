@@ -1,0 +1,5 @@
+id: dsq-747528736
+date: 2010-08-18T03:30:49.0000000-07:00
+name: nader hamzei
+avatar: https://disqus.com/api/users/avatars/nader hamzei.jpg
+message: <p>here is the <a href="http://VB.net" rel="nofollow noopener" title="VB.net">VB.net</a> code for the controller that some have been asking for. While I hit the controller method for MVC, and I do return a valid JSONified package, I cant get the datagrid to show any values.<br>any ideas?<br> Dim jsonData = New With { _<br>             Key .total = 1, _<br>             Key .page = 1, _<br>             Key .records = 3, _<br>             Key .rows = New Object() {New With { _<br>              Key .id = 1, _<br>              Key .cell = New Object() {"1", "-7", "Is this a good question?"} _<br>             }, New With { _<br>              Key .id = 2, _<br>              Key .cell = New Object() {"2", "15", "Is this a blatant ripoff?"} _<br>             }, New With { _<br>              Key .id = 3, _<br>              Key .cell = New Object() {"3", "23", "Why is the sky blue?"} _<br>             }} _<br>            }<br>        Return Json(jsonData)<br></p>

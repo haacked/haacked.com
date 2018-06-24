@@ -1,0 +1,5 @@
+id: dsq-805752817
+date: 2013-02-20T07:41:07.0000000-08:00
+name: wwahammy
+avatar: https://disqus.com/api/users/avatars/wwahammy.jpg
+message: <p>I don't see how signing gives a false sense of security. Even if a package is signed using an untrusted root (self-signed or the like), signing guarantees the package hasn't been modified after creation. In my book, that's pretty important. The big problem with signing is how freakin' difficult it is to do right now.</p>

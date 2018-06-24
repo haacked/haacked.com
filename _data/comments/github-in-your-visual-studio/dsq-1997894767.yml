@@ -1,0 +1,5 @@
+id: dsq-1997894767
+date: 2015-05-01T09:10:32.0000000-07:00
+name: miguel delgado
+avatar: https://disqus.com/api/users/avatars/disqus_uCCNuouTyp.jpg
+message: <p>Hi Phil, great post and kudos for this, your video on C9 and your .Net rocks cast. <br>All is great, the integration rocks, but I have a bit of a problem.</p><p>If I clone a non VS solution project (like Angular or Angular Material) there is no VS .sln file or .cproj project in which case I can clone but I can't use.<br>I can force my way by opening it as a web site and then creating an sln file pointing there but seems to me it defeats the purpose.<br>What's to do in such case? How can I keep them integrated and in flow? Is even a way to do it?</p><p>Thanks in advance.</p>

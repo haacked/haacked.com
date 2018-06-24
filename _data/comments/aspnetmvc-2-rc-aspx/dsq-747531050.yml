@@ -1,0 +1,5 @@
+id: dsq-747531050
+date: 2009-12-27T14:43:53.0000000-08:00
+name: Deep
+avatar: https://disqus.com/api/users/avatars/Deep.jpg
+message: <p>Dear Phill,<br>We just started [one month back] one new project using MVC 2 RC [using VS2008 SP1], but are facing lot of problems in doing the basic stuff which earlier was pieces of cake. Some of the issues we are facing:<br>Handling Session [though we are doing but not sure the best way]<br>Validation of controls while Updating records [its fine while insert]<br>Validation [in Insert] for Optional Integer data type<br>Multilingual [we were quite happy with simple resource files, but now not sure how to do]<br>There are many sample projects on MVC 1 are available for learning, but nothing that we saw is for MVC 2.  Will be great if you give some pointers to the one doing all basic stuff in MVC 2.<br>Thanx &amp; Regards,<br>Deep</p>

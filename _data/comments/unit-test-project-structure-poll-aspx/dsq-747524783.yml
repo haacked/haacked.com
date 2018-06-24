@@ -1,0 +1,5 @@
+id: dsq-747524783
+date: 2008-04-09T07:06:59.0000000-07:00
+name: Steve Campbell
+avatar: https://disqus.com/api/users/avatars/Steve Campbell.jpg
+message: <p>The reason I put tests in a different assembly is that they can have different dependencies (references) than the project being tested.  If I were to mingle in the same project then I could easily become confused as to the real dependencies.</p>

@@ -1,0 +1,5 @@
+id: dsq-747520398
+date: 2010-12-12T15:49:21.0000000-08:00
+name: Nikita G.
+avatar: https://disqus.com/api/users/avatars/Nikita G..jpg
+message: <p>This can happen after you changed your account password.<br>In this case, do the following:<br>1. Go to services, sort them by log on account and set new password for the ones that are run using your account (not built-in one)<br>2. Go to app pool properties and re-set your account name and password.</p>

@@ -1,0 +1,5 @@
+id: dsq-1913768317
+date: 2015-03-18T06:28:05.0000000-07:00
+name: Me
+avatar: https://disqus.com/api/users/avatars/Me.jpg
+message: <p>MS should add a built-in page to each ASP MVC app, when it is configured for debug, that provides utilities like this one or better ones to help developers.<br>I would like a dynamic page at /routecheck/?url=&lt;relative url="" here=""&gt;<br>..that would generate a table like the one shown in the article.</p>

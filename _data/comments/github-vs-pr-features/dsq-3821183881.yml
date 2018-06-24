@@ -1,0 +1,6 @@
+id: dsq-3821183881
+replyToId: dsq-3813597184
+date: 2018-03-23T15:45:45.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yeah, it's a bit confusing. The normal Git functionality is all built-in to Visual Studio. GitHub just adds the GitHub specific components like authentication, Clone repos, inline comments, etc.</p>

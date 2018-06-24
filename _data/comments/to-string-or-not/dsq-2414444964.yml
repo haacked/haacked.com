@@ -1,0 +1,5 @@
+id: dsq-2414444964
+date: 2015-12-17T09:12:10.0000000-08:00
+name: Chris Nielsen
+avatar: https://disqus.com/api/users/avatars/disqus_4eACU6Y9FI.jpg
+message: <p>Yes, yes, and yes again! I've been mandating or pushing for this exact same convention at every job I've worked at since. NET came out (~15 years). Lowercase int is a primitive type, use it as such. Int32 is a class, use it as such. Method calls on a lowercase word that has syntax highlighting make me stop reading the code and switch into analysis mode to see how far the Java/Javascript syntax "infestation" has spread. I hate it. </p>

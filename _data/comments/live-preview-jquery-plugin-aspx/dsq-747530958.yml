@@ -1,0 +1,5 @@
+id: dsq-747530958
+date: 2009-12-15T12:46:46.0000000-08:00
+name: Heine
+avatar: https://disqus.com/api/users/avatars/Heine.jpg
+message: <p>I'd recommend stripping certain attributes as well:<br>&amp;lt;p onmouseover="javascript:alert(0)"&amp;gt;Foobar&amp;lt;/p&amp;gt;<br>Such attributes are very easy to exploit when &amp;lt;img&amp;gt; is allowed:<br>&amp;ltimg src="<a href='http://example.com/nofilehere.jpg"' rel="nofollow noopener" title='http://example.com/nofilehere.jpg"'>http://example.com/nofilehere.jpg"</a> onerror="javascript:exploit()" /&amp;gt;</p>

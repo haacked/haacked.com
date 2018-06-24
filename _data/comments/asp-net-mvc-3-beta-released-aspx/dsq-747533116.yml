@@ -1,0 +1,5 @@
+id: dsq-747533116
+date: 2010-10-06T19:17:19.0000000-07:00
+name: Sean Paul
+avatar: https://disqus.com/api/users/avatars/Sean Paul.jpg
+message: <p>My question above is answered on Scott Guthrie's blog in one of his comments.  Here is what he said.<br> Wednesday, October 06, 2010 6:03 PM by ScottGu<br>You found a bug!  To work around it, add the following entry into your web.config file:<br>&lt;appSettings&gt;<br>  &lt;add key="autoFormsAuthentication" value="false" /&gt;<br>&lt;/appSettings&gt;<br>(&lt;appSettings&gt; is a child element of &lt;configuration&gt;, not of &lt;system.web&gt;.)<br>This should fix it.<br>Thanks,<br>Scott</p>

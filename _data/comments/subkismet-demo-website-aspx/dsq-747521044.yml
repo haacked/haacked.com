@@ -1,0 +1,5 @@
+id: dsq-747521044
+date: 2007-06-12T22:38:57.0000000-07:00
+name: opello
+avatar: https://disqus.com/api/users/avatars/opello.jpg
+message: <p>As a follow up post, it seems that you wouldn't need:<br><code>if (isValid)<br>{<br>    //We don't want the CAPTCHA to change if the<br>    //user specifies a correct answer but some other<br>    //field is not valid.<br>    this.captcha.Text = GetClientSpecifiedAnswer();<br>}</code><br>Especially when you check it later, before generating a new one:<br><code>protected override void OnPreRender(EventArgs e)<br>{<br>   // We store the answer encrypted so it can't be tampered with.<br>   if (!Page.IsPostBack || !this.IsValid)<br>   {<br>       this.GenerateNewCaptcha();<br>   }<br>   base.OnPreRender(e);<br>}</code><br>Just a thought I guess ... then I would think the behavior I noticed would disappear.</p>

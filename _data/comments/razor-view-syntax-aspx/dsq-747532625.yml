@@ -1,0 +1,5 @@
+id: dsq-747532625
+date: 2010-07-05T23:23:26.0000000-07:00
+name: Andrew Nurse
+avatar: https://disqus.com/api/users/avatars/Andrew Nurse.jpg
+message: <p>@Chris Airey - We made a conscious decision NOT to provide a non-encoding version of "@" in order to reduce scripting and other HTML-encoding-related issues.  You can still avoid encoding by passing an object implementing IHtmlString to the "@" operator.  All of our helpers do this, and we're looking at providing a helper to take a regular string and wrap it in an IHtmlString.</p>

@@ -1,0 +1,5 @@
+id: dsq-747535084
+date: 2011-04-25T01:41:06.0000000-07:00
+name: Gene
+avatar: https://disqus.com/api/users/avatars/Gene.jpg
+message: "<p>I ask, as, when I remove [Authorize] attribute from controllers, and add it in via a conditionalfilterprovider:<br>= new Func&lt;ControllerContext, ActionDescriptor, object&gt;[] { <br>                        (c, a) =&gt; c.Controller.GetType() != typeof(HomeController) <br>                            ? new AuthorizeAttribute() <br>                            : null };<br>With Glimpse installed, if I attempt to navigate to a page that would require the authorize attribute, instead of being redirected to a login page, it throws an error:<br>System.NullReferenceException: Object reference not set to an instance of an object.<br>   at Glimpse.Net.Plumbing.GlimpseFilterCallMetadata..ctor(String category, Guid guid, String method, Filter innerFilter, Boolean isChild)<br>Set Glimpse to on=\"false\" and the login redirect works as expected. I wasn't certain if this is a Glimpse problem or if I should be passing in something instead of / in addition to a new AuthorizeAttribute(). <br></p>"

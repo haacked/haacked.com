@@ -1,0 +1,5 @@
+id: dsq-747533140
+date: 2010-10-10T21:49:54.0000000-07:00
+name: Harlan Vossos
+avatar: https://disqus.com/api/users/avatars/Harlan Vossos.jpg
+message: <p>How do you add global namespace imports for razor views?  with aspx views namespaces added in the web config via the pages/namespaces setting were available.  With MVC 3 preview 1, razor views could see namespaces added programitically using Microsoft.WebPages.Compilation.CodeGeneratorSettings.AddGlobalImport("") -- It appears this method no longer is available.</p>

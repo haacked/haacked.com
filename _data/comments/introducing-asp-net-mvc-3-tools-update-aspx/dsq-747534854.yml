@@ -1,0 +1,5 @@
+id: dsq-747534854
+date: 2011-04-18T19:51:20.0000000-07:00
+name: Zote
+avatar: https://disqus.com/api/users/avatars/Zote.jpg
+message: <p>Phil, creating a new ASP.NET MVC 3 Web Application usign template = Internet Application and Razor and Use HTML5 semantic markup, I'm getting error above.<br>---------------------------<br>Error adding packages to project<br>---------------------------<br>Could not add all required packages to the project. Please reinstall the ASP.NET MVC 3 Tools Update release. The following packages failed to install from C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET MVC 3\Packages:<br><br>jQuery.vsdoc.1.5.1<br>jQuery.Validation.1.8.0<br>jQuery.UI.Combined.1.8.11<br><br>---------------------------<br>OK   <br>---------------------------<br><br>I tried to reinstall and error persists. I'm using stand alone install.</p>

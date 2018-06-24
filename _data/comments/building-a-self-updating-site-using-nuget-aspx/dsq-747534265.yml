@@ -1,0 +1,5 @@
+id: dsq-747534265
+date: 2011-01-19T01:03:34.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Robert I suppose it depends. Let's say you set up a blog for your mom. Do you expect her to use Web Deploy to deploy an updated version of that blog? I'm guessing no. It'd be nice if the blog could let her click a button in the website and upgrade itself.<br>Let's say you're at work and ready to deploy version 2 of your flagship website. Are you going to use this AutoUpdate NuGet package? Of course not. You'd use web deploy or something similar.<br>Every tool has its place.<br>@BobM I doubt this would work for Windows Services as a service needs to be stopped to be updated AFAIK. That's out of scope of NuGet.<br>@Ben WebMatrix is not open source. WebMatrix refers to the simple IDE we released.<br>@Jeff true. I probably wouldn't do enterprise deployments this way. But for web apps that are distributed, it's a neat idea.</p>

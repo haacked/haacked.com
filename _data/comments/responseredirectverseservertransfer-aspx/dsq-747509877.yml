@@ -1,0 +1,5 @@
+id: dsq-747509877
+date: 2006-06-27T04:35:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Well it sounds like what you want is Server.Execute() rather than Server.Transfer.</p>

@@ -1,0 +1,5 @@
+id: dsq-747529189
+date: 2009-06-01T23:34:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Josh the problem there is you'd have to write your HomeController as a partial class. We don't want to require that.<br>@Scott Unfortunately, we can't generate extension properties. If we generate those as extension methods of HtmlHelper, it would look like:<br>  <code>Html.Home().About(123)</code><br>Or maybe we could add a new top level property to ViewPage.<br>  <code>Link.Home().About(123)</code><br>Or we could generate something more clever like enums<br>  <code>Html.HomeLink(Action.Index, 123)</code><br>Phil</p>

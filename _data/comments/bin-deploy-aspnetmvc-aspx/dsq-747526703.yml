@@ -1,0 +1,5 @@
+id: dsq-747526703
+date: 2008-11-07T21:24:03.0000000-08:00
+name: Dylan Beattie
+avatar: https://disqus.com/api/users/avatars/Dylan Beattie.jpg
+message: <p>It's possible, with a little registry hacking, to remove System.Web.Mvc from the GAC after installing the beta, which lets you both test your bin deployment scenario locally, and run code that's using the preview releases alongside the beta if you need to. More details are <a href="http://dylanbeattie.blogspot.com/2008/11/working-on-aspnet-mvc-beta-and-preview.html" rel="nofollow noopener" title="http://dylanbeattie.blogspot.com/2008/11/working-on-aspnet-mvc-beta-and-preview.html">here</a> if you're interested. (Usual caveats about the dangers of registry hacking apply!)<br></p>

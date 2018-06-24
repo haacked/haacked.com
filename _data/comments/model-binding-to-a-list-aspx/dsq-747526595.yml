@@ -1,0 +1,5 @@
+id: dsq-747526595
+date: 2010-03-20T12:45:26.0000000-07:00
+name: Tyler
+avatar: https://disqus.com/api/users/avatars/Tyler.jpg
+message: <p>I upgraded to MVC RC2, and it looks like binding using arbitrary indexes is broken (your example above being "products[cold].Name").  You now HAVE to bind in sequential order, starting from 0.  Was that an intentional change?  It broke several of my forms.</p>

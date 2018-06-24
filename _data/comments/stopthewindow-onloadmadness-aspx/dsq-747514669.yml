@@ -1,0 +1,5 @@
+id: dsq-747514669
+date: 2007-08-22T04:07:53.0000000-07:00
+name: TAD_UK
+avatar: https://disqus.com/api/users/avatars/TAD_UK.jpg
+message: <p>function MultiOnLoad(f){var o=window.onload;window.onload=function(){o?o():o;f()}}<br><br>//the old way ;)<br>window.onload = function() {alert("onload!");}<br>//example :)<br>new MultiOnLoad(function() {alert('second');});<br>new MultiOnLoad(function() {alert('three');});</p>

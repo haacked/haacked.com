@@ -1,0 +1,5 @@
+id: dsq-1408033278
+date: 2014-05-28T03:37:17.0000000-07:00
+name: Havitoosh
+avatar: https://disqus.com/api/users/avatars/Havitoosh.jpg
+message: <p>Unfortunately it will not match tags with enter inside an attribute, such as</p><p>&lt;div title="y<br>yy"&gt;xxx&lt;/div&gt;</p>

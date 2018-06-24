@@ -1,0 +1,5 @@
+id: dsq-747508297
+date: 2010-01-10T22:18:40.0000000-08:00
+name: Chris Parsons
+avatar: https://disqus.com/api/users/avatars/Chris Parsons.jpg
+message: <p>Reverse proxying via Apache and a client installation (that is proprietary) to an IIS 6.0 server that is also managed and am  getting this problem - I have tried to strip the 'Expect' header with Apache config (using 'RequestHeader unset Expect' to no avail and even tried the IIS config changes but still can't get any joy.<br>This was caused by an upgrade to the latest version of Apache, but I don't really want to roll it back...</p>

@@ -1,0 +1,5 @@
+id: dsq-747531387
+date: 2010-01-17T13:29:00.0000000-08:00
+name: Aleš Roub&#237;ček
+avatar: https://disqus.com/api/users/avatars/Aleš Roub&#237;ček.jpg
+message: <p>I have on my project routes in Global Resource file, so they are editable after deployment and are localizable (one language per web instance). I also use Binsor and <a href="http://rarous.net/weblog/338-dsl-pro-konfiguraci-url-routingu-v-asp-net-mvc.aspx" rel="nofollow noopener" title="http://rarous.net/weblog/338-dsl-pro-konfiguraci-url-routingu-v-asp-net-mvc.aspx">my own Routes DSL</a>.</p>

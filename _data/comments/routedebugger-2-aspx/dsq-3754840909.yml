@@ -1,0 +1,5 @@
+id: dsq-3754840909
+date: 2018-02-12T10:46:26.0000000-08:00
+name: larrybud
+avatar: https://disqus.com/api/users/avatars/larrybud.jpg
+message: <p>This is an old utility, but a good one.  One thing I ran across was the routeDebugger info just disappeared... well, turns out you need to have CustomErrors OFF when trying to find your bad route, otherwise my custom error page just displays.</p>

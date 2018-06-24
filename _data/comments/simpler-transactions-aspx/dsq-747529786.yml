@@ -1,0 +1,5 @@
+id: dsq-747529786
+date: 2009-08-20T12:07:00.0000000-07:00
+name: Hemanshu Bhojak
+avatar: https://disqus.com/api/users/avatars/Hemanshu Bhojak.jpg
+message: <p>If I am returning true or false I will rather use transaction.complete().<br>In case I want to swap a function in and out of a transaction I find your solution useful as it is transaction independent.<br>So I simply do <a href="http://Transaction.do" rel="nofollow noopener" title="Transaction.do">Transaction.do</a>(myfunc) if I want it to run in a transaction.<br>It does make it simple in some cases. :)</p>

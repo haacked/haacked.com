@@ -1,0 +1,5 @@
+id: dsq-747510863
+date: 2008-02-13T13:59:55.0000000-08:00
+name: Gelder
+avatar: https://disqus.com/api/users/avatars/Gelder.jpg
+message: <p>It is correct to say that coalesce will take a multiple value test for nullability for example say that you have a three column in a table and there will only ever be one value in any of the three that is when it will become useful for examle <br>Table<br>Col1 – Col2 – Col3<br>Null – Null – 10<br>9 – Null – Null<br>and you ran the query <br>Select coalesce(col1,col2,col3) as price from table <br>Then it would just display the column with values entered, where as isnull has a limit of just checking one column <br></p>

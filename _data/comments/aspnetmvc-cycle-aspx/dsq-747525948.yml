@@ -1,0 +1,5 @@
+id: dsq-747525948
+date: 2008-08-13T20:04:11.0000000-07:00
+name: AndrewK
+avatar: https://disqus.com/api/users/avatars/AndrewK.jpg
+message: <p>I agree with Keith. It seems using delegate and closure  technique is the most natural solution to the "Cycle" issue. <br>Here is my variation:<br>   <br>public static Func&lt;string&gt; Cycle(this HtmlHelper htmlHelper, params string[] cssClasses)<br>        {<br>            int l = cssClasses.Length;<br>            int i = l-1;<br>            return () =&gt;<br>                {<br>                    i = (i+1) % l;<br>                    return cssClasses[i];<br>                };<br>        }<br>But there is a drawback though. We need to use extra variable in View to get our cycle function.</p>

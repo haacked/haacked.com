@@ -1,0 +1,5 @@
+id: dsq-747531277
+date: 2010-01-03T10:11:44.0000000-08:00
+name: Andy Edinborough
+avatar: https://disqus.com/api/users/avatars/Andy Edinborough.jpg
+message: <p>What about making the action delayed?  When then user clicks delete, it gives them something like 3 seconds before actually sending the ajax post to delete?  That way, if they click 'undo', we didn't have to communicate with the server at all?  <br>I really like this idea, and agree that confirmation dialogs are evil, but I don't like the delete-first-then-re-insert-later-if-it-was-a-mistake model.</p>

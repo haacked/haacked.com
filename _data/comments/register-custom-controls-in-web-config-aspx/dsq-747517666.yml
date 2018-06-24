@@ -1,0 +1,5 @@
+id: dsq-747517666
+date: 2011-02-10T17:32:11.0000000-08:00
+name: deepak
+avatar: https://disqus.com/api/users/avatars/deepak.jpg
+message: <p>this is correct when u are adding user controls to a web page , but when i tried  to add one user control inside another i got some error as shown<br>The page '/BgsV1.2/UserControls/askguru.ascx' cannot use the user control '/BgsV1.2/UserControls/Capchacontrol.ascx', because it is registered in web.config and lives in the same directory as the page.<br>do u have any solution?</p>

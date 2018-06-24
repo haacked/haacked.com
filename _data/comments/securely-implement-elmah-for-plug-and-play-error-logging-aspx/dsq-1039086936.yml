@@ -1,0 +1,6 @@
+id: dsq-1039086936
+replyToId: dsq-747521722
+date: 2013-09-11T15:18:42.0000000-07:00
+name: Optimus Most Prime
+avatar: https://disqus.com/api/users/avatars/optimus_primus.jpg
+message: <p>I would like to point out that code changes are SOMETIMES required to make ELMAH work. For example, the GlobalErrorHandler class was not logging my exceptions in ELMAH. I had to explicitly write one line of code in my GlobalErrorHandler.cs to make it work:</p><p>Elmah.ErrorSignal.FromCurrentContext().Raise(ex);</p>

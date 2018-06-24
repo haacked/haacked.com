@@ -1,0 +1,5 @@
+id: dsq-747534772
+date: 2011-04-07T13:54:15.0000000-07:00
+name: Paul Cowan
+avatar: https://disqus.com/api/users/avatars/Paul Cowan.jpg
+message: <p>I was the main developer on horn or hornget which you may have heard of.<br>I think we at least tried to fix the dependency issue albeit in a way that required buy in from all the OSS that I can muster.<br>I think openwrap is also trying to solve the dependency problem programatically but I am not sure how nuget tries to approach the problem apart from pretending it is not the package manager's problem.<br>This is the main problem with package management in .NET.  Dependencies, dependencies and dependencies.<br>Signed assemblies are a great evil in this area.</p>

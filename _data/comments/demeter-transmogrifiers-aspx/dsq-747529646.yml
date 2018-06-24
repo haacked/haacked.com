@@ -1,0 +1,5 @@
+id: dsq-747529646
+date: 2009-08-17T18:38:00.0000000-07:00
+name: Jon
+avatar: https://disqus.com/api/users/avatars/Jon.jpg
+message: <p>I hate the 'Law of Demeter' with a passion. It is a 'law' coined on the basis of anecdotal evidence, which serves only to make developers hesitant and confused, and leads to them wasting time and brainpower considering its consequences in the fashion of this blog, or simply feeling vaguely guilty for not following its edicts through to their illogical conclusion.<br>If it has any basis in real best practice, it is only as a cargo-cultish approximation of how experienced developers may sometimes reduce coupling. As Justin said, it focuses too much attention on the form of the code, and not enough on the purpose. Getting the architecture of a software system right is an important task, but the idea that it can be done, or even helped, by applying this sort of rule is dangerous nonsense. <br>I hereby propose that we improve discussion of OO development immeasurably by all agreeing henceforth to forget the 'Law of Demeter' completely, thus freeing us from its idiotic tyranny.</p>

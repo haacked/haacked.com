@@ -1,0 +1,5 @@
+id: dsq-747512839
+date: 2005-08-10T03:23:00.0000000-07:00
+name: jayson knight
+avatar: https://disqus.com/api/users/avatars/jayson knight.jpg
+message: <p>*puts away the wet noodle...for now*<br><br><br><br>That was indeed (what I tried to make) the main point of my post...exceptions are very expensive to generate, and in the case of a utility method like this that could potentially be called quite a bit, most definitely performance would suffer.  I won't argue with swallowing exceptions occasionally (i.e. if it's a benign exception and won't bring an app to its knees), or very rarely using an exception to dicate control of flow...but most definitely not a combination of both, and very much most definitely not in a method like the first one where potentially thousands of exceptions could be generated per second.<br><br><br><br>I really need to start digging into 2.0, I didn't realize that TryParse had been extended to more datatypes (which should have shipped in 1.x...but who knows what the collective's motivations where behind that).</p>

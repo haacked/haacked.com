@@ -1,0 +1,5 @@
+id: dsq-747536458
+date: 2011-10-25T04:51:38.0000000-07:00
+name: Brad Wilson
+avatar: https://disqus.com/api/users/avatars/Brad Wilson.jpg
+message: <p>By the way, my vote is for "Stick with the previous version number and change labels just before release" because it follows SemVer's semantics. Going against the grain seems like a bad idea. Either support SemVer properly, or don't support it at all.</p>

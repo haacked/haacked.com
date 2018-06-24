@@ -1,0 +1,5 @@
+id: dsq-2241046899
+date: 2015-09-07T10:52:49.0000000-07:00
+name: Matthew Krieger
+avatar: https://disqus.com/api/users/avatars/matthewkrieger.jpg
+message: <p>Phil - &lt;&lt; Also, the generated code is a bit verbose. Here’s an example of the generated code of a previously one line method. &gt;&gt;</p><p>Its the IL that's more verbose but IL is rarely viewed, and on top of that the extra compute cycles due to the addl code won't be material in the vast majority of use cases, is this really a downside?</p>

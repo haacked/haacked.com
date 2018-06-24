@@ -1,0 +1,5 @@
+id: dsq-747527992
+date: 2009-02-22T14:22:26.0000000-08:00
+name: Andrew Gunn
+avatar: https://disqus.com/api/users/avatars/Andrew Gunn.jpg
+message: <p>Is the Refresh source code avaialbe online? I ask because I want to know more about the changes that fixed the problems with Html.RouteLink. I've created my own ASP.NET MVC control library (<a href="http://www.codeproject.com/KB/custom-controls/MVCCustomControls.aspx" rel="nofollow noopener" title="http://www.codeproject.com/KB/custom-controls/MVCCustomControls.aspx">www.codeproject.com/.../MVCCustomControls.aspx</a>) which uses some functionaility that was marked as internal or private - methods like GenerateUrl. My only reason for copying (thus making them public) is because I couldn't see any other way of utilising things like protocol, host and fragment to create a URL along with route name or action/controller names. Thanks.</p>

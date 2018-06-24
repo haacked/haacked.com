@@ -1,0 +1,5 @@
+id: dsq-747512196
+date: 2008-06-08T20:25:45.0000000-07:00
+name: Golf Shot Tips
+avatar: https://disqus.com/api/users/avatars/Golf Shot Tips.jpg
+message: <p>Thanks Phil,<br>I have been fighting with my unit tests for a while now trying to simulate a FormsAuthentication session and kept running into the HttpContext for storing the cookie. This is a big help.</p>

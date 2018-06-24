@@ -1,0 +1,5 @@
+id: dsq-747524852
+date: 2008-04-10T21:35:28.0000000-07:00
+name: Chance
+avatar: https://disqus.com/api/users/avatars/Chance.jpg
+message: '<p>Phil,<br>Have you guys considered expanding the routing to encompass full URL routing? For example:  "{controller}.[domain]/{action}/{id}" which would be great for instances such as <a href="http://forums.website.com" rel="nofollow noopener" title="forums.website.com">forums.website.com</a> or <a href="http://manage.website.com/page/edit/3998" rel="nofollow noopener" title="manage.website.com/page/edit/3998">manage.website.com/page/edi...</a><br>I realize that I could write my own custom routing for this - (which I plan to do) but I think it could potentially benefit the routing system as a whole. <br></p>'

@@ -1,0 +1,5 @@
+id: dsq-747524960
+date: 2008-04-24T10:57:54.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Lou the idea is that [NonAction] makes it so that the action doesn't even exist. Whereas what you proposed would mean that the action does exist, but returns a 405 "Method not allowed". They are semantically different.<br>I suppose, could remove the NonAction attribute and you could make a public method "not an action" by simply calling <code>HandleUnknownAction</code>.</p>

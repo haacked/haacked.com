@@ -1,0 +1,5 @@
+id: dsq-747523271
+date: 2007-11-05T02:29:39.0000000-08:00
+name: Sergio Pereira
+avatar: https://disqus.com/api/users/avatars/Sergio Pereira.jpg
+message: <p>I think you meant:<br>SetupResult.For(request.HttpMethod).Return(httpMethod);<br></p>

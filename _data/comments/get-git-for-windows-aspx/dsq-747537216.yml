@@ -1,0 +1,5 @@
+id: dsq-747537216
+date: 2011-12-19T20:53:10.0000000-08:00
+name: Bradley T. Landis
+avatar: https://disqus.com/api/users/avatars/Bradley T. Landis.jpg
+message: <p>I tried it on another machine that has ssh set up with only a single key pair and I got the same results.  When I start powershell (while watching task manager's processes tab) I see ssh-agent start and I see ssh-add start and stop.  I still get prompted for my passphrase on every git command though.  If I run Start-sshagent myself, I get "ssh-agent is already started".<br></p>

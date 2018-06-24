@@ -1,0 +1,5 @@
+id: dsq-747517740
+date: 2006-11-22T02:17:47.0000000-08:00
+name: Tom
+avatar: https://disqus.com/api/users/avatars/Tom.jpg
+message: <p>Yes, I tested the performance.  They both run in about the same amount of time, up to a certain number of items where the join approach starts to take significantly longer to execute.  Memory usage is about 2x on the join because of the intermediate string[] (just based on inspection of the code, not from the performance testing).</p>

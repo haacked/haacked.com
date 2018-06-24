@@ -1,0 +1,5 @@
+id: dsq-747518786
+date: 2007-03-01T05:54:37.0000000-08:00
+name: Tap
+avatar: https://disqus.com/api/users/avatars/Tap.jpg
+message: <p>It does print out FizzBuzz if the number is a multiple of 15; there just isn't a separate test for it. As proof, I present the first 15 lines of output:<br>   1<br>   2<br>   Fizz<br>   4<br>   Buzz<br>   Fizz<br>   7<br>   8<br>   Fizz<br>   Buzz<br>   11<br>   Fizz<br>   13<br>   14<br>   FizzBuzz<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747536437
+date: 2011-10-20T12:20:15.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Pedro, yeah, good point.<br>@Luke, I'll talk to the Web API guys for more guidance. I think for now, if you run on ASP.NET, FormsAuth is always an option. Howard Dierking wrote a bit about using OAuth.<br>@Cecil, Ah! I didn't know about that method. I'll take a look. :)</p>

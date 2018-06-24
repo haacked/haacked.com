@@ -1,0 +1,5 @@
+id: dsq-747515785
+date: 2009-01-30T18:09:11.0000000-08:00
+name: The_Assimilator
+avatar: https://disqus.com/api/users/avatars/The_Assimilator.jpg
+message: "<p>@Joe: the HTML spec explicitly allows <a href=\"http://www.w3.org/TR/REC-html40/types.html#type-name\" rel=\"nofollow noopener\" title=\"http://www.w3.org/TR/REC-html40/types.html#type-name\">almost any character</a> to be used in identifier names, although I think the pipe character \"|\" is invalid.<br>The problem is that Microsoft's code should strip out/replace JavaScript identifiers (., -, etc.) when converting element IDs to variable names, but it doesn't. This is a bug.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747525737
+date: 2008-07-23T22:37:44.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Tim I'll dig into this some more. <br><br><br><br>As you pointed out, having a separate web app or site for static images would work. In fact, this is how many of the large high performance sites do it. Flickr, for example, hosts the actual images on something like farm4.<strong>static</strong>.flickr.com.<br><br>At the very least, put your static content in the "content" folder and make sure you don't authenticate requests for that folder. I think our default configuration does that. If not, we'll make sure it does.<br><br><br>Another approach for best performance is to use a file extension for your MVC URLs and set runAllManagedModulesForAllRequests to false. You'll have to map your extension (perhaps ".mvc").</p>

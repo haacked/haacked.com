@@ -1,0 +1,5 @@
+id: dsq-747524341
+date: 2008-03-10T09:40:01.0000000-07:00
+name: Luiz Oliveira
+avatar: https://disqus.com/api/users/avatars/Luiz Oliveira.jpg
+message: "<p>About RTM question: One important think about RTM it's a guarantee that we don't have great changes in the future releases that make our actual implementation using the framework brake when a new release is availability.<br>One question, are the MVC team thinking about change de reouter to make possible to use MVC Framework in a shared host without necessary to use .mvc in my controller name inside URL?<br>Thanks, and congratulations, the Asp.NET MVC is great!<br>Sorry by english, I'm learning.</p>"

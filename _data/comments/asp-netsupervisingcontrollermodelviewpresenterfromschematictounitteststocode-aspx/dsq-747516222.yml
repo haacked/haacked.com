@@ -1,0 +1,5 @@
+id: dsq-747516222
+date: 2008-04-12T11:33:40.0000000-07:00
+name: Roberto Lopes
+avatar: https://disqus.com/api/users/avatars/Roberto Lopes.jpg
+message: <p>Hi,<br>Great article. I am just wondering how should ajax methods work using MVP. Ajax brings the ability to avoid browser roundtrips, therefore some logic are usually embedded in the presentation layer to change the page behaviour, like depending on the selection in the dropdown list, you populate a second dropdown list or something like that. <br>How it would work when using a MVP (supervising controller)? Not always the code is pure C#. Sometimes we need some JavaScript.<br>Thanks,<br>Roberto Lopes</p>

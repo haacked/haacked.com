@@ -1,0 +1,5 @@
+id: dsq-747515444
+date: 2007-05-29T00:15:07.0000000-07:00
+name: Brian Donahue
+avatar: https://disqus.com/api/users/avatars/Brian Donahue.jpg
+message: <p>Hey Phil.<br>I've been playing with this, and read yours and Boodhoo's articles.  He does not show an example of the concrete view code, and I was wondering if there any way around the awkward event wiring code in the concrete view?  It seems confusing and redundant to have to wire up a "dummy" event in the codebehind that then checks to see if the Handler has subscribers, and if so, evokes the Handler.</p>

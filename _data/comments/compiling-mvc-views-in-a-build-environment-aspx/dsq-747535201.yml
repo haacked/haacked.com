@@ -1,0 +1,5 @@
+id: dsq-747535201
+date: 2012-06-27T02:08:07.0000000-07:00
+name: ameet
+avatar: https://disqus.com/api/users/avatars/ameet.jpg
+message: <p>Marnix's and Paul's suggestion worked for me as it automates the clean solution. <br>I am still not able to find a way to put complied views while deploying..when you are deploying asp .net mvc, is it possible that we don't have the .cshtml files present only dll's having compiled views? if yes is it possible via simple step in VS ? or custom build script has to be written?</p>

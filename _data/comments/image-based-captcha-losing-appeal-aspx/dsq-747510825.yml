@@ -1,0 +1,5 @@
+id: dsq-747510825
+date: 2008-01-29T00:11:24.0000000-08:00
+name: Anthony
+avatar: https://disqus.com/api/users/avatars/Anthony.jpg
+message: <p>I have been reading up on several ways to prevent spambots from spamming your form.  I came up with a simple technique that doesn't use image validation but simple number validation.  Each time a user enters my form, I generate a unique ID and a 5-7 digit number code.  I save this unique ID to a database and its associated number code.  when form is submitted, if hidden field unique ID is the same and number code you typed is correct it submits the info and deletes the record, otherwise it will assume spam and not submit info.  Again, it can be broken but that come into how complex I display the 5-7 digit code.  <a href="http://www.atksolutions.com/contact.php" rel="nofollow noopener" title="http://www.atksolutions.com/contact.php">ATK Contact Form</a> is an example. So far it has worked!<br><a href="http://www.atksolutions.com" rel="nofollow noopener" title="http://www.atksolutions.com">ATK Solutions</a></p>

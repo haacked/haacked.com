@@ -1,0 +1,6 @@
+id: dsq-1110246301
+replyToId: dsq-1110241524
+date: 2013-11-05T14:18:56.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Once we implement those endpoints, commit can work. To push, you'll need to use something like LibGit2Sharp. This library is focused on the GitHub API. It's not a general Git client.</p>

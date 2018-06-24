@@ -1,0 +1,5 @@
+id: dsq-747529369
+date: 2009-06-25T19:46:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@zihotki see my response to Asbjørn. Any solution that requires checking headers etc... is still vulnerable because you're allowing the browser to cache this sensitive data.<br>At some point, the user will visit the site, and make a legitimate request and cache the data, after all, that's the whole point of the JSON service.<br>Once the data is in the browser cache, it's vulnerable to this attack. You can't force the browser check for these headers in the same way that your server does.<br>Keep in mind, it might not even be your browser that serves up the content. Maybe it's an intermediate proxy server. Relying on checking for headers is not safe in this case.</p>

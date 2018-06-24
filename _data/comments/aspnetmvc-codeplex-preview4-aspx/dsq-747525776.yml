@@ -1,0 +1,5 @@
+id: dsq-747525776
+date: 2008-07-16T20:11:20.0000000-07:00
+name: Jamie
+avatar: https://disqus.com/api/users/avatars/Jamie.jpg
+message: <p>Is there any chance you guys will ramp up efforts on sub-controllers and try to get them into the official release?  All of this AJAX stuff is nice, but kind of unnecessary.  Most of the AJAX libraries out there do just great on their own and it would be easy as pie to write our own helpers.<br>Sub-controller support on the other hand is something that seems sorely lacking in the current MVC framework and have the most chance of causing a lot of pain to rework things when it is finally released.  If we start using RenderComponent now, then something totally different is released later, that's much more of a change than just reworking a few helpers for AJAX.  I know that AJAX is one of the silver hammers everyone's all hyped about right now, but why is it superceding good componet support?<br>At the very least, maybe we could get more visibility into what you're doing with sub-controllers so if we roll our own in the meantime we won't have as much to change later?<br></p>

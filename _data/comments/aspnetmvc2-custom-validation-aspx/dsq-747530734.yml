@@ -1,0 +1,5 @@
+id: dsq-747530734
+date: 2010-03-01T08:54:46.0000000-08:00
+name: El Guapo
+avatar: https://disqus.com/api/users/avatars/El Guapo.jpg
+message: <p>This works nicely for "Html.BeginForm" but I found this doesnt work completely with "Ajax.BeginForm". The validation messages appear, but the form can still be submitted anyway (at which point the server blows chunks due to validation error). Am I missing something? Anybody get this to work?<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747525704
+date: 2008-07-10T21:59:36.0000000-07:00
+name: GuyIncognito
+avatar: https://disqus.com/api/users/avatars/GuyIncognito.jpg
+message: <p>Wait a second... how exactly can REMOTE_ADDR be tampered with?<br>I understand that anything that is submitted via an HTTP header during a GET/POST/PUT/DELETE/HEAD request could be set to whatever the 'bad guy' wanted (for example HTTP_USER_AGENT or HTTP_COOKIE).  <br>Why on earth would a web server (IIS, Apache, etc) allow the requesting client to specify it's own IP address at will?  <br>A malicious user could "forge" an IP packet with whatever IP address she wanted, but as far as I know the response (and any "secret" information) would go back unsolicited to that spoofed IP (if it existed).  While IP spoofing is fun and profitable for DOS attacks, it's not like in the movies or those silly crime TV shows.  Unless I'm wrong... then we're all doomed and putting ecommerce, patient data, and financial information on the web is incredibly stupid on all of our parts.  I've been both wrong and stupid before so please correct me... :)</p>

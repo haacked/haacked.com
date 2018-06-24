@@ -1,0 +1,5 @@
+id: dsq-747528121
+date: 2009-03-01T04:35:36.0000000-08:00
+name: Kevin Pang
+avatar: https://disqus.com/api/users/avatars/Kevin Pang.jpg
+message: <p>Lol.  America's Next Top Model View Controller Framework.  Cute title. :-)<br>I'd like to see discussion on how to structure more complex ASP.NET MVC projects.  There's a lot of debate over whether controllers should speak to repositories or service layers with DTOs, where server-side validation should be put, and other common scenarios that occur in most apps but just don't seem to have a very satisfactory solution yet in the ASP.NET MVC framework.</p>

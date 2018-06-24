@@ -1,0 +1,5 @@
+id: dsq-747510231
+date: 2008-06-16T14:39:58.0000000-07:00
+name: Alexander Thorell
+avatar: https://disqus.com/api/users/avatars/Alexander Thorell.jpg
+message: <p>Hi and thanks Haack, but your expression \s]+))?)+\s*|\s*)/?&gt;  do not seem to match tags with attrubutenames containing hyphen (-) in it, like &lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt; <br></p>

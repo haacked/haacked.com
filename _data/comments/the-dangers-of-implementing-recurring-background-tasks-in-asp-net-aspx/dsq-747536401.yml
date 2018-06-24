@@ -1,0 +1,5 @@
+id: dsq-747536401
+date: 2011-12-20T11:50:51.0000000-08:00
+name: Chris M
+avatar: https://disqus.com/api/users/avatars/Chris M.jpg
+message: <p>Thanks for looking into this. When you posted this, I had existing code that did all of the above (handled long-running tasks inside an ASP.Net app with no additional install burden like a Windows Service) - but it did not implement IRegisterObject because frankly, with that documentation, how could it?<br>I've abstracted the code to a library:<br><a href="https://github.com/b9chris/ASP.Net-Long-Running-Interval-Task" rel="nofollow noopener" title="https://github.com/b9chris/ASP.Net-Long-Running-Interval-Task">github.com/.../ASP.Net-Long-Running-Interval-Task</a><br>Feedback welcome.</p>

@@ -1,0 +1,5 @@
+id: dsq-747528921
+date: 2009-04-24T04:30:00.0000000-07:00
+name: Daniel Plaisted
+avatar: https://disqus.com/api/users/avatars/Daniel Plaisted.jpg
+message: <p>"Mono already has a tool for dynamically compiling C# code passed in as a string which I could try and incorporate."<br>So does vanilla .NET. See <a href="http://support.microsoft.com/kb/304655" rel="nofollow noopener" title="http://support.microsoft.com/kb/304655">http://support.microsoft.com/kb/304655</a>, or the <a href="http://msdn.microsoft.com/en-us/library/microsoft.csharp.csharpcodeprovider.aspx" rel="nofollow noopener" title="http://msdn.microsoft.com/en-us/library/microsoft.csharp.csharpcodeprovider.aspx">CSharpCodeProvider</a> class.</p>

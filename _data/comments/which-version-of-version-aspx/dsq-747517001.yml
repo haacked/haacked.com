@@ -1,0 +1,5 @@
+id: dsq-747517001
+date: 2006-09-27T18:24:17.0000000-07:00
+name: Eric D. Burdo
+avatar: https://disqus.com/api/users/avatars/Eric D. Burdo.jpg
+message: <p>One place I worked used to use:<br>5.3.&lt;auto-increment&gt;<br>Where 5 was the year, 3 was the version, and the third was the auto-increment value.  <br>Yet another project used:<br>1.2.3.&lt;auto-number&gt;<br>And we had a custom launcher for the app.  If Minor changed, we just copied over a new version of the app (for updating).  If Major changed, we re-ran the setup.  This was before ClickOnce, and was for in-house use.<br>Right now, I usually use Major.Minor.Build</p>

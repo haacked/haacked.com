@@ -1,0 +1,5 @@
+id: dsq-747535728
+date: 2011-10-07T17:26:16.0000000-07:00
+name: Scott Xu
+avatar: https://disqus.com/api/users/avatars/Scott Xu.jpg
+message: <p>Thanks for that Phil.<br>Just like Brett said, there might be a small change needed to the ApplyConventionsToValidationAttributes method to get the validation messages showing, change this:<br>if (!resourceType.PropertyExists(resourceKey)) {<br>resourceKey = "Error_" + attributeShortName;<br>if (!resourceType.PropertyExists(resourceKey)) {<br>continue;<br>} <br>validationAttribute.ErrorMessageResourceType = resourceType;<br>validationAttribute.ErrorMessageResourceName = resourceKey;<br>}<br>to this<br>if (!resourceType.PropertyExists(resourceKey)) {<br>resourceKey = "Error_" + attributeShortName;<br>if (!resourceType.PropertyExists(resourceKey)) {<br>continue;<br>} <br>}<br>validationAttribute.ErrorMessageResourceType = resourceType;<br>validationAttribute.ErrorMessageResourceName = resourceKey;</p>

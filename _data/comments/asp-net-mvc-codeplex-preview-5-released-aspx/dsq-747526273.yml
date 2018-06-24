@@ -1,0 +1,5 @@
+id: dsq-747526273
+date: 2008-09-01T22:53:05.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Steve The Microsoft namespace represent bits that might not make it into the core, but we might include in the future.<br>@Steve Sanderson Cool! We didn't put it into the core because we don't yet have a full security review of it. We don't want to make any claims with it until we know it'll be somewhat effective. Glad to see you writing it up though.</p>

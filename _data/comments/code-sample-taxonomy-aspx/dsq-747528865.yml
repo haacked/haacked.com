@@ -1,0 +1,5 @@
+id: dsq-747528865
+date: 2009-04-17T10:02:00.0000000-07:00
+name: Louis DeJardin
+avatar: https://disqus.com/api/users/avatars/Louis DeJardin.jpg
+message: "<p>Maybe include a non-intrusive call to action?<br>public ActionResult Foo(string bar)<br>{<br>  //TODO: <a href=\"http://asp.net/mvc/bestpractices/controlleractions\" rel=\"nofollow noopener\" title=\"http://asp.net/mvc/bestpractices/controlleractions\">http://asp.net/mvc/bestpractices/controlleractions</a><br>  var blah = Yadda.Yadda();<br>  return View(blah);<br>}<br>Keeps code clean, highlights the absence of some practices, but also tells you what to do if you do cut and paste. And as recommendations evolve it's not leaving an archeological trail of the progression in the sample code.<br></p>"

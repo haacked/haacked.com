@@ -1,0 +1,6 @@
+id: dsq-1228550608
+replyToId: dsq-1019090353
+date: 2014-02-02T22:30:20.0000000-08:00
+name: Avinash
+avatar: https://disqus.com/api/users/avatars/Avinash.jpg
+message: <p>Having an attribute ActionName("") is similar to writing action with string specified in ActionName attribute. Look at the following example still there is still ambiguity</p><p>[ActionName("OverideAction")]<br>public ActionResult MyAction(string s)</p><p>        {</p><p>            ViewBag.Message = "Only String Parameter:" + s;</p><p>            return View();</p><p>        }</p><p>        [ActionName("OverideAction")]</p><p>        public ActionResult MyAction(string s , int i)</p><p>        {</p><p>            ViewBag.Message = "One String Parameter:" + s + "One integer :" + i.ToString();</p><p>            return View();</p><p>        }</p>

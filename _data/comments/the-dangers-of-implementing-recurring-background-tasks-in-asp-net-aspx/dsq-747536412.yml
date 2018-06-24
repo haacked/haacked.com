@@ -1,0 +1,5 @@
+id: dsq-747536412
+date: 2012-07-18T01:17:55.0000000-07:00
+name: Ari
+avatar: https://disqus.com/api/users/avatars/Ari.jpg
+message: <p>Hi,<br>I am trying to implement this. My issue is that the timer doesn't start until there is a page request. In other words, if the application is restarted, the timer won't tick off unless a user hits the site.<br>Am I missing something? Is there a way around this? <br>startMode="AlwaysRunning" is not an option for me as this is being run in a hosted environment.</p>

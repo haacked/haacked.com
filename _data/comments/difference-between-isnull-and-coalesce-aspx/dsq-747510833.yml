@@ -1,0 +1,5 @@
+id: dsq-747510833
+date: 2005-01-21T01:18:00.0000000-08:00
+name: Hassan Voyeau
+avatar: https://disqus.com/api/users/avatars/Hassan Voyeau.jpg
+message: <p>Same, here ... I had to test it myself. ISNULL doesn't truncate the value to the size being checked, that is just a side effect of isnull returning using the same type as the first parameter. Had we used DECLARE @test VARCHAR(4) then the result would have been 'test' and 'test'</p>

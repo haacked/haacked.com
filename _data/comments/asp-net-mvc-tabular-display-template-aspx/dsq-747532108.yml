@@ -1,0 +1,5 @@
+id: dsq-747532108
+date: 2010-05-05T19:06:50.0000000-07:00
+name: Ron Krauter
+avatar: https://disqus.com/api/users/avatars/Ron Krauter.jpg
+message: <p>Nick,<br>You could check for the following types:<br>System.Data.Objects.DataClasses.EntityReference<br>System.Data.Objects.DataClasses.EntityObject<br>System.Data.Objects.DataClasses.RelatedEnd<br>Although your approach of scaffolding is much better.<br>Raj,<br>Is the MVC contrib Grid in Beta?<br>Regards,<br>Ron<br></p>

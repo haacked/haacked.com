@@ -1,0 +1,6 @@
+id: dsq-2623618388
+replyToId: dsq-2622834382
+date: 2016-04-14T09:55:26.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Ah, we don't have SAML support yet for the extension. You'll have to go to your Enterprise instance and create a Personal Token (https://YOUR-GHE-ADDRESS/settings/tokens). Then use that token as your password.</p>

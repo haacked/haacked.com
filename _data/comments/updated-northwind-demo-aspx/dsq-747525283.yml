@@ -1,0 +1,5 @@
+id: dsq-747525283
+date: 2008-05-28T04:05:10.0000000-07:00
+name: Vishal Bharakhda
+avatar: https://disqus.com/api/users/avatars/Vishal Bharakhda.jpg
+message: "<p>Please could someone help me on how to get rid of the error message that has been mentioned above. <br>The error is: Could not load file or assembly 'System.Web.Mvc' or one of its dependencies. Strong name signature could not be verified.  The assembly may have been tampered with, or it was delay signed but not fully signed with the correct private key. (Exception from HRESULT: 0x80131045) <br>I have no idea how to fix this please could someone explain it in clear steps. (as in how do i rereference the assemblies?)<br>Much appreciated<br>Vishal</p>"

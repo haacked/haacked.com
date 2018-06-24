@@ -1,0 +1,5 @@
+id: dsq-1047034283
+date: 2013-09-16T12:14:24.0000000-07:00
+name: Fabiana
+avatar: https://disqus.com/api/users/avatars/disqus_fBguIabghH.jpg
+message: <p>Hi, first of all, sorry for my english.</p><p>I would like to use Regular Expression for comments in multiline in C#. I have    @"/[*][\w\d\s]+[*]/"     but with that expression only comments the text that appears between /* */ in singleline not in multiline.</p><p>Singleline:</p><p>                                                   /* xxxxxxxx */</p><p> Multiline:</p><p>                                                                       /*<br>                              xxxxxxx<br>                              /*</p><p>I don't know if I could explain well, but any questions or if you can refer to somewhere that provides this information I would appreciate it.</p><p>Thank you very much.<br>Fabiana.</p>

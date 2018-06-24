@@ -1,0 +1,5 @@
+id: dsq-747522527
+date: 2007-09-17T04:59:19.0000000-07:00
+name: Justin M. Keyes
+avatar: https://disqus.com/api/users/avatars/Justin M. Keyes.jpg
+message: <p>maybe the DEBUG symbol in ASPX/ASCX files depends on &lt;compilation debug="true/false"&gt; in the Web.config? (I can't test it at the moment)</p>

@@ -1,0 +1,5 @@
+id: dsq-1842606574
+date: 2015-02-08T14:04:46.0000000-08:00
+name: Rasmus Bækgaard
+avatar: https://disqus.com/api/users/avatars/rasmusbkgaard.jpg
+message: <p>"  Once you run the commands, you’ll need to close and re-open the PowerShell console for the changes to take effect." <br>Call '.$PROFILE'. that will do it for you.</p>

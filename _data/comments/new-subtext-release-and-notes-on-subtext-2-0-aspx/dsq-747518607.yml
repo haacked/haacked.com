@@ -1,0 +1,5 @@
+id: dsq-747518607
+date: 2007-03-13T03:37:09.0000000-07:00
+name: Eric Ramseur
+avatar: https://disqus.com/api/users/avatars/Eric Ramseur.jpg
+message: <p>Looks like you guys need a custom ASPNETDB implementation.  This way you could have a user as anything with a GUID attached on multiple blogs on multiple sites.  You could then connect to other APPs that support ASPNETDB like Rainbow 2.0 :).  We are solving this issue for our Multiportal solution with ASPNETDB.  A custom ASPNETDB assembly will manage users to portals to modules/applications and could in turn pass this info to different trusted Applications ( SubText).  I plan to offer SubText 1.9.x with our release either way; ASPNETDB would just be an added integration bonus.<br>ciao,<br>ramseur</p>

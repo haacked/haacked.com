@@ -1,0 +1,5 @@
+id: dsq-1876433807
+date: 2015-02-26T03:22:26.0000000-08:00
+name: Mark Powell
+avatar: https://disqus.com/api/users/avatars/disqus_wRWSkWcF60.jpg
+message: <p>A little late to the party, but I believe Moq now supports this out of the box with SetupSequence!</p><p>Usage:</p><p>mock.SetupSequence(r =&gt; r.GetNext()).Returns(1).Return(2).Returns(new InvalidOperationException());</p>

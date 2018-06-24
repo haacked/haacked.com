@@ -1,0 +1,5 @@
+id: dsq-747531627
+date: 2010-02-11T08:06:12.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Dragan, no it is not necessary to remove VS 2008. That step is only for those about to install ASP.NET MVC 2 RC 2 since that installer will install the tools for VS 2008.</p>

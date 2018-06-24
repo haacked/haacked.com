@@ -1,0 +1,5 @@
+id: dsq-747525682
+date: 2012-06-08T13:10:10.0000000-07:00
+name: Bob Mills
+avatar: https://disqus.com/api/users/avatars/Bob Mills.jpg
+message: "<p>I write a hidden input with class name \"requestTimeElapsed\". I can then easily get the value via jQuery: $(\".requestTimeElapsed\").val() .<br><a href=\"http://VB.net\" rel=\"nofollow noopener\" title=\"VB.net\">VB.net</a>:<br></p><blockquote><br>Sub OnEndRequest(ByVal sender As Object, ByVal e As System.EventArgs)<br>If (HttpContext.Current.Request.IsLocal AndAlso HttpContext.Current.IsDebuggingEnabled) Then<br>Dim stopwatch As Stopwatch = HttpContext.Current.Items(\"Stopwatch\")<br>stopwatch.Stop()<br>Dim ts As TimeSpan = stopwatch.Elapsed<br>Dim elapsedTime As Double = ts.TotalSeconds<br>If HttpContext.Current.Response.ContentType = \"text/html\" Then<br>HttpContext.Current.Response.Write(String.Format(\"&lt;input class='requestTimeElapsed' name='requestTimeElapsed' type='hidden' value='{0}'&gt;\", Math.Round(elapsedTime, 2)))<br>End If<br>End If<br>End Sub<br></blockquote>"

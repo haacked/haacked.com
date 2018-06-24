@@ -1,0 +1,5 @@
+id: dsq-747518895
+date: 2007-03-03T13:53:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>&gt;&gt; I just don't have the time to DIFF on the fly`<br>&gt; Really? Diff and patch generation is a one click <br>&gt; operation in Beyond Compare.<br>Really? So somehow Beyond Compare will know about the file and folder renames and deletions and apply that in the patch?</p>

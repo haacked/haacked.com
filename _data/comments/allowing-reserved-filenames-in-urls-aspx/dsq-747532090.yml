@@ -1,0 +1,5 @@
+id: dsq-747532090
+date: 2012-02-06T12:08:54.0000000-08:00
+name: Rakesh
+avatar: https://disqus.com/api/users/avatars/Rakesh.jpg
+message: <p>Hello Phil - I guess I may be replying to an old phantom post here, but just in case you read it at some point in time.<br>Even with this setting in .Net 4.0 this does not work for me. It works in localhost (via VS2010) even without this setting &lt;httpRuntime relaxedUrlToFileSystemMapping="true" /&gt; , but when deployed on a Test server fails.</p>

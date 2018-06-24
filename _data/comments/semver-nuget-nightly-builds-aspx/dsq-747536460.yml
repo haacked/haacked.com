@@ -1,0 +1,5 @@
+id: dsq-747536460
+date: 2011-10-25T14:49:19.0000000-07:00
+name: Damian Powell
+avatar: https://disqus.com/api/users/avatars/Damian Powell.jpg
+message: "<p>At our company we have 'extended' SemVer with a fourth digit which is a psuedo build-number. It's actually the number of revisions since the last SemVer tag in our repository. It's a shame that our approach doesn't fit with either SemVer or any of your propsoed changes. It's even more of a shame that the current SemVer strategy can't be used with [assembly: AssemblyVersion(...)] attributes.<br>If you want to officially extend the spec, then you need to contact Tom Preston Warner (his details are at the bottom of the <a href=\"http://SemVer.org\" rel=\"nofollow noopener\" title=\"SemVer.org\">SemVer.org</a> page).<br></p>"

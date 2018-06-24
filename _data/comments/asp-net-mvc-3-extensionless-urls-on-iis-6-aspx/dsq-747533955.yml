@@ -1,0 +1,5 @@
+id: dsq-747533955
+date: 2011-04-11T20:57:43.0000000-07:00
+name: Rui Zhang
+avatar: https://disqus.com/api/users/avatars/Rui Zhang.jpg
+message: '<p>I am doing some tests regarding ASP.NET MVC 3, IIS6, and the results are:<br>Default website .Net 2, virtual directory, MVC 3 app: fails, error code: 403<br>Default website .Net 4, virtual directory, MVC3 app: passes<br>Default website .Net 2, existing .Net 2 app; new website.Net 4, MVC3 app: pass</p>'

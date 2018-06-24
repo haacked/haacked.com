@@ -1,0 +1,5 @@
+id: dsq-747525814
+date: 2008-07-22T01:50:54.0000000-07:00
+name: Francois Ward
+avatar: https://disqus.com/api/users/avatars/Francois Ward.jpg
+message: <p>Having tests that hit the database isn't a bad thing, so tests to check the stored procedures aren't an issue.<br>I feel the important part is that these tests should conceptually be held in a separate category, and not mixed with the "real" unit tests.<br>They require different consideration to be run (for example, you can use VS Team for Database developer, but thats a far cry from NUnit running with TestDriven.Net, every check-in, or through the Resharper test runner), they may need significant setup data, etc. When you start testing the database, you need to make new test data and whatsnot, things you won't have to do to run a unit test (it will be built in the test).<br>I feel simply having a team that makes the distinction between a unit test (following the above rules is almost perfect), and an integration test (more or less...everything else...) solves 90% of the problem right there.<br>This is definately a case where the terminology makes a difference.</p>

@@ -1,0 +1,5 @@
+id: dsq-747526613
+date: 2011-02-04T11:15:04.0000000-08:00
+name: Terry
+avatar: https://disqus.com/api/users/avatars/Terry.jpg
+message: <p>If we had to do some custom validation in the Action, is there a proper way of determining the input id when using ModelState.AddModelError?  I'm currently hard coding it after looking at the HTML source outputted on the form rendering, but assuming there has to be a better/proper way?</p>

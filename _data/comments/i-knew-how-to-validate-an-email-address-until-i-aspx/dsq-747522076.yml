@@ -1,0 +1,5 @@
+id: dsq-747522076
+date: 2008-05-01T06:09:32.0000000-07:00
+name: ken
+avatar: https://disqus.com/api/users/avatars/ken.jpg
+message: "<p>Reading these RFCs has only made me more confused.  RFC 822 says: \"... a specification such as:<br>                            Full\\ Name@Domain<br>               is not legal and must be specified as:<br>                            \"Full Name\"@Domain<br>...\" but RFC 3696 says \"Blank spaces may also appear, as in<br>      Fred\\ Bloggs@example.com<br>...\"<br>Who's right?  :%</p>"

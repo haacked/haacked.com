@@ -1,0 +1,5 @@
+id: dsq-747531434
+date: 2010-01-18T01:02:19.0000000-08:00
+name: Pita.O
+avatar: https://disqus.com/api/users/avatars/Pita.O.jpg
+message: <p>Hi Phil,<br>This sounds great, especially for the use case you describe. One key problem is that the cloud is here! We no longer have those luxuries of change without compiling. We will always have to repackage even to change web.config. So if the route cannot be configured in .cscfg then it won't save you much of the roundtrip (cloudwise). Just for perspective.</p>

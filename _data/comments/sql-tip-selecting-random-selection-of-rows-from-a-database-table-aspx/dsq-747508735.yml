@@ -1,0 +1,5 @@
+id: dsq-747508735
+date: 2004-06-21T22:57:00.0000000-07:00
+name: HumanCompiler
+avatar: https://disqus.com/api/users/avatars/HumanCompiler.jpg
+message: <p>I know everyone says that cursors are the devil, but I've done it before where you get a random number (between 1 and COUNT(*)) and open a cursor on the result set of a select statement and call FETCH ABSOLUTE and give it the random number.  Seemed to work fine, just that you have to actually select every row, so the more rows, the more it will slow down (just like your example, except that you're not creating a new guid for every row, so i'd think it would be faster, but maybe not)</p>

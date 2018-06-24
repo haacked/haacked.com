@@ -1,0 +1,5 @@
+id: dsq-747531729
+date: 2010-02-25T21:19:35.0000000-08:00
+name: Lee C.
+avatar: https://disqus.com/api/users/avatars/Lee C..jpg
+message: <p>The <a href="http://learn.iis.net/page.aspx/734/url-rewrite-module/" rel="nofollow noopener" title="http://learn.iis.net/page.aspx/734/url-rewrite-module/">IIS.Net URL Rewrite Module</a> seems perfectly suited to this task.  Set up your simple rewrite RegEx rewrite rule and programattically set the form action.<br>Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load <br>    If Not String.IsNullOrEmpty(Request.ServerVariables("HTTP_X_ORIGINAL_URL")) Then <br>        form1.Action = Request.ServerVariables("HTTP_X_ORIGINAL_URL") <br>    End If <br>End Sub <br></p>

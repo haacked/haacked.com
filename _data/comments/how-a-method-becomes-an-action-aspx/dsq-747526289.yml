@@ -1,0 +1,5 @@
+id: dsq-747526289
+date: 2008-08-29T00:50:15.0000000-07:00
+name: davidalpert
+avatar: https://disqus.com/api/users/avatars/davidalpert.jpg
+message: <p>I have to agree with Simone, initially i liked the "ActionName" attribute.  <br>In the end, however, if that means that i cannot find a way to do this:<br><code><br>foreach (int productID in (List&lt;int&gt;)listOfProductIDs) {<br>    string route = Html.ResolveRoute&lt;productscontroller&gt;(h =&gt; h.ShowProduct(productID);<br>}<br></code><br>then i'd drop the attribute like a hot potato in favor of a lambda-based method to resolve routes in my views.</p>

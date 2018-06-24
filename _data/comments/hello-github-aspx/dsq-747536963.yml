@@ -1,0 +1,5 @@
+id: dsq-747536963
+date: 2011-12-06T23:07:08.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Thanks everyone! I'm floored by the show of support and honored to be at GitHub.<br>@Tom Jannsens, GitHub uses <a href="https://github.com/github/linguist" rel="nofollow noopener" title="https://github.com/github/linguist">linguist</a> to do its code parsing. It's an open source ruby gem. When I have some time, I'd love to look into it too, but if you or anyone you know want to chip in, I bet they'd love a pull request. :)</p>

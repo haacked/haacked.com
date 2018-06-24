@@ -1,0 +1,5 @@
+id: dsq-747526457
+date: 2008-10-14T20:32:25.0000000-07:00
+name: RichB
+avatar: https://disqus.com/api/users/avatars/RichB.jpg
+message: <p>Firefox's Html Validator add-on is invaluable when building sites. It's amazing how a small mistake in your markup causes strange bugs you find difficult to spot. A quick run through with Html Validator and you spot them immediately.<br>I use it as yet another Lint alongside the browser's error console (usually firebug nowadays) and JavaScriptLint for checking my AJAX.</p>

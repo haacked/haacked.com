@@ -1,0 +1,5 @@
+id: dsq-747507571
+date: 2010-06-20T11:41:10.0000000-07:00
+name: Akshat sharma
+avatar: https://disqus.com/api/users/avatars/Akshat sharma.jpg
+message: <p>When you compile your application in release mode debug information is not generated and this is the option normally used when you want to deploy your application to client.debug mode is heavy since debugging info gets generated and is used while development to find out error in your code.<br>When we are moving code to production then we make the mode as Release. Because there no debug is required and the execution also very fast in this mode due to the .pdb file formation will not happens.</p>

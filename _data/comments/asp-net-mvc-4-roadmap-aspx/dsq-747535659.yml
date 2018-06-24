@@ -1,0 +1,5 @@
+id: dsq-747535659
+date: 2011-07-21T00:02:19.0000000-07:00
+name: Ruben
+avatar: https://disqus.com/api/users/avatars/Ruben.jpg
+message: "<p>Localization, localization, localization. <br>In your previous mail you already noted the incredibly cumbersome way of annotating model classes with localization in mind. Your proof of concept would really be awesome if it could be integrated into MVC4 *and* the caveats are fixed as well. There's way too much fanfare to do something relatively simple.<br>Also, MVC provides some automatic validation, which either uses hard coded validation messages (shame on you), and if it doesn't, there's no clear, central mechanism you can use to hook up your resources: each class has its own ResourceClassKey, and there's no obvious naming of the resource keys you can override (nor which class you should set the ResourceClassKey on).<br>It's not just painful for non-English locales, but it's also painful if you don't agree with the wording of the messages and want to change them to something of your liking.</p>"

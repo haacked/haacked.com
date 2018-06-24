@@ -1,0 +1,5 @@
+id: dsq-747529812
+date: 2009-08-26T16:35:00.0000000-07:00
+name: Adam
+avatar: https://disqus.com/api/users/avatars/Adam.jpg
+message: <p>Very cool Haackage there! I like. However, now <strong>my</strong> convention that the View to be rendered is determined by the name of the strongly typed viewmodel class passed to the view will not work. <br>eg. return View(new IndexHomeViewModel {}); will render the IndexHome view.<br>Kudos for extending the boundaries though!</p>

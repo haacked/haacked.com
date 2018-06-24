@@ -1,0 +1,5 @@
+id: dsq-2599486858
+date: 2016-03-31T14:21:45.0000000-07:00
+name: Nam Le
+avatar: https://disqus.com/api/users/avatars/naml3i.jpg
+message: "<p>One thing I don't like about it, is the way it installed itself in %APPDATA% (together with git.exe is set in %APPDATA% as well (why not Program Files as other legitimate software?) Recently, in an attempt to prevent CryptoLocker and other ransomware in the wild, the sysadmin enforced a new Group Policy Object with a rule to block any binary file to run from %APPDATA%. That caused a lot of problem (even the way GitHub install as a OneClick application should be frown upon: it doesn't leaving any configuration to user).</p>"

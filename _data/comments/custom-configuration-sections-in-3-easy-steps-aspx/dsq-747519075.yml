@@ -1,0 +1,5 @@
+id: dsq-747519075
+date: 2007-03-12T10:27:36.0000000-07:00
+name: Chris
+avatar: https://disqus.com/api/users/avatars/Chris.jpg
+message: '<p>Here is an even easier solution SCDL: <a href="http://blogs.msdn.com/dmitryr/archive/2005/12/07/501365.aspx" rel="nofollow noopener" title="http://blogs.msdn.com/dmitryr/archive/2005/12/07/501365.aspx">http://blogs.msdn.com/dmitr...</a>. You write the sample custom configuration section to a txt file. You pass it into the SCDL.exe and tell it what you what the file output as (VB or C#) and the code file and the xsd file is auto generated.</p>'

@@ -1,0 +1,5 @@
+id: dsq-747530800
+date: 2010-10-20T23:31:05.0000000-07:00
+name: Hernan
+avatar: https://disqus.com/api/users/avatars/Hernan.jpg
+message: <p>.css files with @import directive are not correctly parsed, since the imported files are being looked in a completely different directory. It should be looking for files relative to the file being parsed. Any solutions to this? Thanks!<br>Hernan</p>

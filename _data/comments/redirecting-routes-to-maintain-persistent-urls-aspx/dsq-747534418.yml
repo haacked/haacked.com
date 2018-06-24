@@ -1,0 +1,5 @@
+id: dsq-747534418
+date: 2012-04-26T15:05:51.0000000-07:00
+name: Paul
+avatar: https://disqus.com/api/users/avatars/Paul.jpg
+message: <p>Hey Phil - i cant get the 301 redirect to work - i simply want to redirect to the same controller but with a lower case starting letter ie from "MyControllerName/" to "myControllerName" so that the url in the user's browser changes - can you advise a simple example? Thanks</p>

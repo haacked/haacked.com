@@ -1,0 +1,5 @@
+id: dsq-747523850
+date: 2007-12-21T07:14:52.0000000-08:00
+name: Jeremy Gray
+avatar: https://disqus.com/api/users/avatars/Jeremy Gray.jpg
+message: <p>You guys really need to back off on the whole generation of dictionaries from anonymous types routine. A large number of people are going to read all of these posts and start to head down a path towards death by reflection overhead. Use dictionaries as dictionaries. If you really find constructing them to be a chore, it is incredibly easy to create a very nice-looking fluent interface that builds dictionaries of lists and/or objects and/or other dictionaries, ripe for use in semi-structured data scenarios, and all with minimal syntactic and mental complexity as well as with none of the perf issues.</p>

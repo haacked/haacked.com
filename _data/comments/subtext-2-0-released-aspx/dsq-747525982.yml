@@ -1,0 +1,5 @@
+id: dsq-747525982
+date: 2008-08-11T03:00:52.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Braden I *think* you should still be able to run this on SQL 2000, but, I did not test on SQL 2000.<br>@Sameer I fixed a couple of bugs with our export. Try it out. However, I do know there are a few remaining. We've filed a few bugs at the BlogML site. However, BlogML development has stalled in the past couple of years. It may pick up again, but I think we may have to fix those bugs ourselves and contribute them to BlogML. BlogML is open source after all.</p>

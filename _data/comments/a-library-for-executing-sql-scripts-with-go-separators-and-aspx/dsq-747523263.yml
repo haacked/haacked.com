@@ -1,0 +1,5 @@
+id: dsq-747523263
+date: 2007-11-06T00:48:49.0000000-08:00
+name: Parker
+avatar: https://disqus.com/api/users/avatars/Parker.jpg
+message: <p>I'm happy I stumbled across your blog.  I've been working on a SQL deployment tool that wrestles with this very issue.  I am definitely going to take a look and see if it fits the bill.  I have a question though.  Under what circumstances will you run into a problem because action B, requires action A to be commit to the database?  The chats I've had with a DBA have steered me away from trying to build a big transaction because of that issue.  Thoughts?</p>

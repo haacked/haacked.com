@@ -1,0 +1,5 @@
+id: dsq-747520679
+date: 2007-05-28T18:33:27.0000000-07:00
+name: Courtney V. Bearse
+avatar: https://disqus.com/api/users/avatars/laptopheaven.jpg
+message: "<p>Isn't this just about the semantics of a language.  What do you call the sugar-laced, food-colored, carbonated beverage: soda? pop? Coke? soft-drink?<br>In C# I would use <code>DateTime.Now.AddMinutes(-20);</code> instead of the previous examples.   This would accomplish the same task, but it doesn't do it with much meaning.</p>"

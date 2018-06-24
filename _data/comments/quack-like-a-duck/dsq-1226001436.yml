@@ -1,0 +1,5 @@
+id: dsq-1226001436
+date: 2014-01-31T14:55:13.0000000-08:00
+name: Aaron Shumaker
+avatar: https://disqus.com/api/users/avatars/aaronshumaker.jpg
+message: <p>How is this strict type of ducktyping different from the technique of checking for an interface? if(someThing is IDuckQuackable) { someThing.Quack() }<br>This gives you the assurance that the Quack you are calling is semantically what you want.  If interfaces are properly used(minimal, separation of concerns, i.e. no IDuck, but instead IBirdFlyable, IDuckQuackable, etc.) then you can do this kind of thing without the risks you describe and seemingly the same advantages.<br>I ask more out of trying to understand what scenarios might lend themselves more to ducktyping than judicious use of interfaces?</p>

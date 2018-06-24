@@ -1,0 +1,5 @@
+id: dsq-747519533
+date: 2007-04-09T14:57:13.0000000-07:00
+name: Damien Guard
+avatar: https://disqus.com/api/users/avatars/Damien Guard.jpg
+message: <p>Oh it's probably worth noting that as well as letting you flip the scores from negative to positive this solution  lets you perform overall weighting on the metrics.<br>You may decide for example that "LOC per bug" isn't quite as important as "Deaths per LOC" and this lets you tweak the weighting as you go along without affecting the recording of the statistics.<br>[)amien</p>

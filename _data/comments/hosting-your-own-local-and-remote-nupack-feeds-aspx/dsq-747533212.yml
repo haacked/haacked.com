@@ -1,0 +1,5 @@
+id: dsq-747533212
+date: 2010-10-25T21:46:10.0000000-07:00
+name: Bullgod
+avatar: https://disqus.com/api/users/avatars/Bullgod.jpg
+message: <p>I have 2 questions:<br>1. How does NuPack handle transitive dependencies? I.e, I have a.dll that depends on a b.all which in turn has infragistics references. Let's assume I create a package for project a, that produces a.dll, so it will have b.all as a reference. Now, will Nupack resolve the transitive infragistics dependency from b.dll ? will it include it as part of the package? Or do we have to manually add all transitive dependencies?<br>I am sure handling transitive dependencies is a common problem and currently i am looking to address that. Does NuPack provide a better solution for this? Or will it copy down all transitive dependencies and build the package?<br>2. If i create a package for 10 commonlibraries that are to be used and publish it. If a user wants to use a package, will he ahve to add all the 10 as reference. Can he choose to add the 1 or 2 he woudl like to use from the entire package? If so, hwo is this supported in Nupack</p>

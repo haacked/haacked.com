@@ -1,0 +1,5 @@
+id: dsq-747537688
+date: 2012-03-17T20:37:11.0000000-07:00
+name: Brian Chandley
+avatar: https://disqus.com/api/users/avatars/Brian Chandley.jpg
+message: <p>Jme,<br>I ran into the same problem the problem here namespaces. In my case,  System.Web.Http.Services.IDependencyResolver and  System.Web.Mvc.IDependencyResolver were swapped.<br>In Phil's wrapper class on git hub, apply the following using statements:<br>using System;<br>using System.Collections.Generic;<br>using System.Linq;<br>using System.Web;<br>using System.Web.Http.Services;<br>HTH!</p>

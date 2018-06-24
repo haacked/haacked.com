@@ -1,0 +1,5 @@
+id: dsq-747532007
+date: 2010-09-09T09:24:08.0000000-07:00
+name: PT
+avatar: https://disqus.com/api/users/avatars/PT.jpg
+message: <p>So, I downloaded the MVC Futures package, extracted the DLL, referenced it gingerly in my project, added the global.asax.cs line, and joyfully proceed to send JSON messages to a method on my PatientController, craefully named public ActionResult Update(PatientDirectoryRecord record)<br>However, when I debug the method, the this.Binders dictionary makes no mention of any JSON binder/value provider. I see the DefaultModelBinder, HttpPostedFileBaseModelBinder, ByteArrayModelBinder and LinqBinaryModelBinder. And, the JSON message is not being bound to record. Actually, the "id" field seems to get in there, but all others are null.<br>Any ideas?</p>

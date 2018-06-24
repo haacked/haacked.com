@@ -1,0 +1,5 @@
+id: dsq-747527955
+date: 2009-01-31T15:07:59.0000000-08:00
+name: Chad Moran
+avatar: https://disqus.com/api/users/avatars/Chad Moran.jpg
+message: "<p>Phil, you sure that, the MVC futures you linked to works with the new refresh?  I'm getting an exception when I use try to click on links generated from the generic ActionLink&lt;T&gt; from MVCFutures.<br>...<br>The RouteData must contain an item named 'controller' with a non-empty string value.<br>... stack trace ...<br>[InvalidOperationException: The RouteData must contain an item named 'controller' with a non-empty string value.]<br>   System.Web.Routing.RouteData.GetRequiredString(String valueName) +18280<br>   System.Web.Mvc.MvcHandler.ProcessRequest(HttpContextBase httpContext) +57<br>   System.Web.Mvc.MvcHandler.ProcessRequest(HttpContext httpContext) +39</p>"

@@ -1,0 +1,5 @@
+id: dsq-747508765
+date: 2006-07-07T00:46:00.0000000-07:00
+name: Brett
+avatar: https://disqus.com/api/users/avatars/Brett.jpg
+message: <p>The earlier examples have the benefit of running. Can you explain the "AutoID" function as used above in T-SQL? If you're referring to an IDENTITY column in the table in question ("TableName" in your example), (a) it doesn't return random records and (b) considering the potential size of someone's identity value, multiplying by 1000 can overflow the field type in question (especially if it's an INT). If there is an undocumented "AutoID" function it's not running on my SQL2k box.<br>I've had good results with sorting by NEWID() myself, also given the constraints of a moderate data set.<br>Happy Coding Yourself!</p>

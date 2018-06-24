@@ -1,0 +1,5 @@
+id: dsq-747514440
+date: 2006-03-26T08:53:00.0000000-08:00
+name: Erik
+avatar: https://disqus.com/api/users/avatars/Erik.jpg
+message: "<p>I 'bout went mad with anticipation as I waited until after finals to test and deploy - I anticipated a rocky upgrade. I shouldn't have waited! Kudos to you guys for the amazing release! I love the new features, but best of all... The instalation/upgrade just worked. Including time to download the release, it took me only about ten minutes to completely upgrade my blog. A far cry from the install hell of .Text 0.95 which took me days to get working properly.<br>Oh, FYI: SubText 1.0.0.2 works beautifully with SQL Server 2005 as it's database! I've only tested it in the single-blog configuration, but it works great on both 2005 Express Edition and Standard - assuming you can feed the beast, SQL 2005 is quite the RAM hog! It *should* wolrk nicely under <a href=\"http://asp.net\" rel=\"nofollow noopener\" title=\"asp.net\">asp.net</a> 2.0 as it is supposed to be backwards compatable, but I haven't tested that yet. That's on the list right after finding a replacement for the long-in-the-tooth nGallery. Any suggestions?</p>"

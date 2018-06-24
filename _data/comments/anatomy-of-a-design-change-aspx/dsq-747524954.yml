@@ -1,0 +1,5 @@
+id: dsq-747524954
+date: 2008-04-24T10:20:37.0000000-07:00
+name: Lou D
+avatar: https://disqus.com/api/users/avatars/Lou D.jpg
+message: <p>I feel your pain and it sounds like there's a good handle on what's come up. In the end you get to think about these issues so the rest of the world doesn't have to. So thanks for that. :)<br>I know it wasn't really the point of your post, but I have to say I agree with the decision to omit the ControllerAction attribute from a DRY standpoint. I've made a controller, I've declared a method public, and 99% of the time an explicit attribute would be an "Are you sure?" prompt.<br>Maybe the [NonAction] could be blended away into a restful-allowed-method attribute... As in [Accept(Get|Post|None)]?<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747517037
+date: 2006-10-01T21:37:10.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Thanks everyone.  You are indeed correct. It returns a DateTime with the correct local time. By converting it back to UniversalTime, I get what I would expect.<br>That's why I ask you smart people before making an ass of myself. ;)</p>

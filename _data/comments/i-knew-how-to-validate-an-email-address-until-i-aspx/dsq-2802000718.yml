@@ -1,0 +1,5 @@
+id: dsq-2802000718
+date: 2016-07-25T04:35:50.0000000-07:00
+name: BJ
+avatar: https://disqus.com/api/users/avatars/BJ.jpg
+message: <p>Found a small bug. The email address a@b.com does not match. The error is in the domain name:</p><p>   @[a-z0-9][\w\.-]*[a-z0-9]\.</p><p>requires a least 2 letters or digits. It should be</p><p>   @([a-z0-9]|[a-z0-9][\w\.-]*[a-z0-9])\.</p><p>allowing a 1 letter/digit domain name.</p>

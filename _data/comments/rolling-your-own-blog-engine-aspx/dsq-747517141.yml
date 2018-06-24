@@ -1,0 +1,5 @@
+id: dsq-747517141
+date: 2006-10-08T02:35:44.0000000-07:00
+name: Henrik
+avatar: https://disqus.com/api/users/avatars/Henrik.jpg
+message: <p>Is there a possibility to port it to MySQL? Do you have a data-access layer that uses IDbConnection-s, or are you using SqlConnection as a part of the business logic?</p>

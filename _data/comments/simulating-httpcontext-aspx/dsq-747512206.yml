@@ -1,0 +1,5 @@
+id: dsq-747512206
+date: 2011-07-20T06:23:16.0000000-07:00
+name: Matthew
+avatar: https://disqus.com/api/users/avatars/Matthew.jpg
+message: <p>Amazing! Just what I was hoping to find. <br>However... I can't seem to get query strings to work. Can this even work? The method looks straight forward, but I can't get it working. I pass "param=val&amp;anotherparam=val" to the query parameter, but when I look at the HttpContext.Current.Request.QueryString, I get an empty value.<br>Any thoughts?</p>

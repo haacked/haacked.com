@@ -1,0 +1,5 @@
+id: dsq-747523272
+date: 2007-11-05T02:35:50.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yeah, but there's a problem with that I just realized. I'm updating the post. You can't access context.Request until you call mocks.ReplayAll(). But then you can't set any more expectations.</p>

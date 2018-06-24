@@ -1,0 +1,5 @@
+id: dsq-747537330
+date: 2012-01-03T15:53:03.0000000-08:00
+name: Scott Koon
+avatar: https://disqus.com/api/users/avatars/Scott Koon.jpg
+message: <p>This is a very neat approach and I'd think it makes refactoring methods a bit easier. I've been kind of bastardizing BDD style syntax by just naming my classes and facts in a BDD style manner.<br><a href="https://github.com/skoon/ProjectStarter/blob/master/tests/unittests/when_executing_the_NewProject_command.cs" rel="nofollow noopener" title="https://github.com/skoon/ProjectStarter/blob/master/tests/unittests/when_executing_the_NewProject_command.cs">github.com/...</a><br></p>

@@ -1,0 +1,5 @@
+id: dsq-747507626
+date: 2006-11-01T00:17:08.0000000-08:00
+name: Alex Zach
+avatar: https://disqus.com/api/users/avatars/Alex Zach.jpg
+message: <p>You dont need to create a temp table<br>DECLARE @i As int<br>SET @i = 1<br> UPDATE    USERS<br> SET       @i= Counter = @i+1<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747518683
+date: 2008-04-14T19:25:31.0000000-07:00
+name: R. Schreurs
+avatar: https://disqus.com/api/users/avatars/R. Schreurs.jpg
+message: <p>ASP.Net will allow me to choose an instance of a web user control as the associated control of an asp:label control. Does anybody have suggestions for a proper way to associate a label with a control inside the web user contol instance (other then the option to put the label inside the webusercontrol)?</p>

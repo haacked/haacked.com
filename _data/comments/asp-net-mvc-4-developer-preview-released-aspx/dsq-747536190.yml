@@ -1,0 +1,5 @@
+id: dsq-747536190
+date: 2011-09-21T09:04:38.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hi Harry, this is a known issue when installing MVC 3 after MVC 4. Go to Add Remove Programs and uninstall NuGet. This doesn't actually remove NuGet from VS (the installer is a bootstrapper to install the Visual Studio extension). After you do that, install MVC 3.<br></p>

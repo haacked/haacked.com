@@ -1,0 +1,5 @@
+id: dsq-2509646780
+date: 2016-02-12T02:45:36.0000000-08:00
+name: Zignd
+avatar: https://disqus.com/api/users/avatars/zignd.jpg
+message: <p>I have found a better solution, it's a library called Hangfire, it's available on Nugget and will help you easily write those tasks and even schedule them to run periodically. <a href="http://hangfire.io/" rel="nofollow noopener" title="http://hangfire.io/">http://hangfire.io/</a></p>

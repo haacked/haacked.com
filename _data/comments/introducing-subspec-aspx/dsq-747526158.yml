@@ -1,0 +1,5 @@
+id: dsq-747526158
+date: 2008-08-24T07:17:03.0000000-07:00
+name: Matthew Otto
+avatar: https://disqus.com/api/users/avatars/Matthew Otto.jpg
+message: <p>It may be because I'm used to reading specs written using SpecUnit and RSpec, but in the SubSpec example I find it more difficult to quickly pick up the behavior being tested. There is less noise from not having underscores in the method names, but I think once you had a project with a large number of specs you'd lose the the benefits of having the specification defined as strings due to the reduced scanability of the specs.</p>

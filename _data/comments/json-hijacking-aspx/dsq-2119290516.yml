@@ -1,0 +1,5 @@
+id: dsq-2119290516
+date: 2015-07-06T05:16:58.0000000-07:00
+name: Behi
+avatar: https://disqus.com/api/users/avatars/behrangsa.jpg
+message: '<p>This was a great read, but in short this looks like the CSRF attack and other, and IMHO, better solutions are available for it: <a href="https://en.m.wikipedia.org/wiki/Csrf" rel="nofollow noopener" title="https://en.m.wikipedia.org/wiki/Csrf">https://en.m.wikipedia.org/...</a>.</p><p>Using POST for GETTING data is against REST principles.</p><p>Rails provides a very easy way to protect against these attacks. I am new to .NET, but I prefer declaring that a controller or action requires CSRF protection rather than making it respond to POST requests.</p>'

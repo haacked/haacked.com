@@ -1,0 +1,5 @@
+id: dsq-747511414
+date: 2007-07-08T09:07:12.0000000-07:00
+name: Vi
+avatar: https://disqus.com/api/users/avatars/Vi.jpg
+message: <p>Too bad there is no pure CSS solution. My problem was/is very similar to the one described by Phil. As a part of a CSS-text button design I wanted to have two backgrounds for a link tag. One x-repeated (the width of the element is not known in advance)  and one not repeated on either left or right. After several tries I had to resort to an embedded div (floated left) tag within the link for the non repeated image.  <br>With Firefox it didn't work until I added a nbsp to the previously empty div (to please Dimitri).</p>

@@ -1,0 +1,5 @@
+id: dsq-747518664
+date: 2007-02-15T05:14:54.0000000-08:00
+name: Willie Tilton
+avatar: https://disqus.com/api/users/avatars/Willie Tilton.jpg
+message: <p>I believe the biggest use out of using the label tag is for check boxes and radio buttons.  Instead of clicking the small box or rounded dot, I (and others I'm sure) like clicking the associated text.<br>In fact you can associate a label with any other form type of control, not just the text box.  Drop downs and text areas will work too.<br>Two other important attributes that you can add with a label are the AccessKey and Tooltip, mainly for accessibility.</p>

@@ -1,0 +1,5 @@
+id: dsq-747518950
+date: 2007-10-18T13:02:10.0000000-07:00
+name: Chris
+avatar: https://disqus.com/api/users/avatars/Chris.jpg
+message: <p>Hi,<br>Just to say that at least for modern compiled language, recursion is optmised at compile or runtime (just-in-time) and you will not see any difference between use of recursion and use of stack/loop.<br>I believe recursion is usually easier to write, to read, hence to maintain. You do not have to manipulate the stack by yourself, the written code is more compact.<br>As for Javascript, maybe you can get a difference in execution time though, Javascript optimizers are surely less efficient than Java or C#'s.<br>Cheers,<br>Christian</p>

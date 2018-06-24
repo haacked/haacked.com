@@ -1,0 +1,5 @@
+id: dsq-747518636
+date: 2007-02-15T02:20:39.0000000-08:00
+name: Scott Watermasysk
+avatar: https://disqus.com/api/users/avatars/Scott Watermasysk.jpg
+message: <p>BTW, you could also do:<br>&lt;label for ="&lt;%= TextBox.ClientID %&gt;"&gt;Description:&lt;/label&gt;<br>&lt;asp:TextBox id = "TextBox" runat = "Server" /&gt;</p>

@@ -1,0 +1,5 @@
+id: dsq-747536350
+date: 2011-10-16T08:50:34.0000000-07:00
+name: Peter
+avatar: https://disqus.com/api/users/avatars/Peter.jpg
+message: <p>Had to work on something similar, but ended up using "low" level threads and managing the queue manually. The main reason, from what I remember, was to be able to use Monitor.Pulse and Monitor.Wait to allow the threads to sleep and for throttling. <br>Too bad RegisterObject requires full trust. A workaround is to ping yourself every so often to make sure the pool doesn't shut down.</p>

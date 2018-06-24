@@ -1,0 +1,5 @@
+id: dsq-1130646496
+date: 2013-11-19T20:51:18.0000000-08:00
+name: Vasili Syrakis
+avatar: https://disqus.com/api/users/avatars/Vasili Syrakis.jpg
+message: <p>Couldn't you just accept tcp on some non-standard port, and redirect traffic from that port to the server running the remote desktop host?</p><p>You can do this on a router... even within windows using netsh.</p><p>netsh interface portproxy add v4tov4 listenport=3991 connectport=3389 connectaddress=127.0.0.1</p>

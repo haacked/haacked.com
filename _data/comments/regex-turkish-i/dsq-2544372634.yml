@@ -1,0 +1,6 @@
+id: dsq-2544372634
+replyToId: dsq-2544233837
+date: 2016-02-29T15:12:24.0000000-08:00
+name: Rick Dailey
+avatar: https://disqus.com/api/users/avatars/disqus_W3Dfj2G5aI.jpg
+message: <p>And to further clarify what I'm driving at, even in the default culture this works:</p><p>Regex.IsMatch("İ", "^[A-Za-z0-9]+$") // false</p><p>It's just that pesky IgnoreCase that screws stuff up, not [a-z] character class in and of itself.</p>

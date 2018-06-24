@@ -1,0 +1,5 @@
+id: dsq-747538120
+date: 2012-10-12T11:05:18.0000000-07:00
+name: Florin
+avatar: https://disqus.com/api/users/avatars/Florin.jpg
+message: <p>Update, I've just tried to open GitShell with Ctrl+Shift (Admin Mode). Now PS ISE starts in Admin mode as the profile loads, and Git seemed to be working, but it's not, git status works for example, but not git pull. So that sucks basically. Also Posh doesn't load. So no eyecandy git..<br></p>

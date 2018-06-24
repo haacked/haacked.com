@@ -1,0 +1,5 @@
+id: dsq-747517229
+date: 2006-10-18T12:21:58.0000000-07:00
+name: TAG
+avatar: https://disqus.com/api/users/avatars/TAG.jpg
+message: <p>Beware - using those headers for security without using others values can lead to trouble. <br>Anybody can set values for those headers to any value they wish while connecting. <br>So - you have to check all values - not only one. And block users if ANY of them will be in your blacklist. <br></p>

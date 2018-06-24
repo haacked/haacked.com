@@ -1,0 +1,5 @@
+id: dsq-747523501
+date: 2007-12-02T21:29:27.0000000-08:00
+name: jbogard
+avatar: https://disqus.com/api/users/avatars/jbogard.jpg
+message: <p>I'd have to agree with Josh.  Our managers go to Team System presentations from MS and come back thinking that unit testing is "right click -&gt; generate unit tests".  Additionally, the feedback they push back into the VSTS teams are "make the wizards do X, Y, and Z".<br>When these managers get back, gung-ho on unit tests, I have to work twice as hard to undo the bad practices that have been presented to them.<br>What I was encouraged the most from ScottGu's ALT.NET MVC presentation were:<br> - MS is looking at other existing frameworks to improve on them<br> - MS is <em>telling</em> us they are looking<br>Neither of these things seemed to happen with MSTest, MSBuild, Team Build, etc.  I think we're all hoping that the path that the MVC framework team took is not the exception, and it becomes the rule.</p>

@@ -1,0 +1,5 @@
+id: dsq-747536387
+date: 2011-11-02T22:39:27.0000000-07:00
+name: John Haigh
+avatar: https://disqus.com/api/users/avatars/John Haigh.jpg
+message: '<p>I would ask the question: What are you running in the background task i.e. what is the function being performed at a specified interval?<br>Is there a better way to solve the problem at hand with a solution other than background tasks? Is it possible that using a Service Bus with Workflow might better solve the problem domain?<br></p>'

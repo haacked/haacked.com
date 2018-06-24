@@ -1,0 +1,5 @@
+id: dsq-747536623
+date: 2011-11-27T22:21:34.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hey all, remember that the discussion is about a syntax for ASP.NET Output Caching declarable within Razor. So things like using AppFabric for the cache would be covered by <em>existing</em> extensibility points for output caching.<br>I'll have to check with Andrew Nurse to see if a directive can be "layered" on so that the core Razor doesn't have it, but Razor for Web does.</p>

@@ -1,0 +1,5 @@
+id: dsq-747526600
+date: 2010-07-22T12:16:16.0000000-07:00
+name: helal
+avatar: https://disqus.com/api/users/avatars/helal.jpg
+message: <p>Can we use a 2 dimensional array to bind it in our form?<br> In my model i have this:<br>public class EmailDetails<br>    {<br>        public string[] emailTo { get; set; }<br>        public string[,] emailFieldValues { get; set; }<br>    }<br>so in my form to bind the emailTo is simple and it works:<br> &lt;input type="text" id="Text1" title=" " name="emailTo" maxlength="100" class="required email txt userInput" /&gt;<br>                                             <br>I need a 2 dimensional array so that i can match the value with something.<br>Is that possible?</p>

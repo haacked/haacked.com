@@ -1,0 +1,5 @@
+id: dsq-747517233
+date: 2008-12-11T19:23:46.0000000-08:00
+name: Sandip Rohokale
+avatar: https://disqus.com/api/users/avatars/Sandip Rohokale.jpg
+message: '<p>I am using <br>HttpContext.Current.Request.ServerVariables["HTTP_X_FORWARDED_FOR"] to get the IP Address of device connected in network but getting error <br>System.NullReferenceException: Object reference not set to an instance of an object<br>Will you please tell me the solution. <br></p>'

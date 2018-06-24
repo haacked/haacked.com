@@ -1,0 +1,5 @@
+id: dsq-747532193
+date: 2011-02-09T16:12:35.0000000-08:00
+name: Ole Frederiksen
+avatar: https://disqus.com/api/users/avatars/Ole Frederiksen.jpg
+message: <p>Am also curious to know when this will work in MVC 3. Especially when having partial classes, as I am using the Entity Framework.<br>Everything seems to work like a charm (building the pages, getting data from the database etc) and it is really easy to create a new ADO.NET Entity Data Model when changes occurs in the database. But my site is useless, as I cannot validate my data correct :-(</p>

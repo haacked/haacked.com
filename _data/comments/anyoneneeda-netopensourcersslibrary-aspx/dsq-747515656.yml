@@ -1,0 +1,5 @@
+id: dsq-747515656
+date: 2006-07-10T00:11:00.0000000-07:00
+name: Jon Galloway
+avatar: https://disqus.com/api/users/avatars/Jon Galloway.jpg
+message: <p>I've been through this a bit, too. See my post here:<br><a href="http://weblogs.asp.net/jgalloway/archive/2005/08/08/421862.aspx" rel="nofollow noopener" title="http://weblogs.asp.net/jgalloway/archive/2005/08/08/421862.aspx">http://weblogs.asp.net/jgal...</a><br>I've been thinking the best approach for this kind of thing is an open source feed layer that implements the interfaces supported by the Windows RSS Platform, but uses a provider based system for persistence. That's a bit more complex than just branching the RSS.NET project, but it seems like it would be a good direction to head in.</p>

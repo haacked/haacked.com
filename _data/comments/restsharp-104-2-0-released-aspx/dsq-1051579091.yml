@@ -1,0 +1,6 @@
+id: dsq-1051579091
+replyToId: dsq-1051551470
+date: 2013-09-19T08:11:50.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Interesting. I haven't used it a huge amount. I wonder if it would make sense to someday rebuild RestSharp as a nice API on top of HttpClient. Not sure if that makes sense or not at all. :)</p>

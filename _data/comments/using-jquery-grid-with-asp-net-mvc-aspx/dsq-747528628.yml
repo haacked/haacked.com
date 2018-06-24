@@ -1,0 +1,5 @@
+id: dsq-747528628
+date: 2009-04-14T18:35:00.0000000-07:00
+name: tawani
+avatar: https://disqus.com/api/users/avatars/tawani.jpg
+message: <p>@born2code<br>Ling2Sql uses something like this in SQL 2005:<br>DECLARE @PageNum AS INT;<br>DECLARE @PageSize AS INT;<br>SET @PageNum = 2;<br>SET @PageSize = 10;<br>WITH OrdersRN AS<br>(<br>    SELECT ROW_NUMBER() OVER(ORDER BY OrderDate, OrderID) AS RowNum<br>          ,OrderID<br>          ,OrderDate<br>          ,CustomerID<br>          ,EmployeeID<br>      FROM dbo.Orders<br>)<br>SELECT * <br>  FROM OrdersRN<br> WHERE RowNum BETWEEN (@PageNum - 1) * @PageSize + 1 <br>                  AND @PageNum * @PageSize<br> ORDER BY OrderDate, OrderID;<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747528676
+date: 2009-05-03T02:47:00.0000000-07:00
+name: Zachary Scott
+avatar: https://disqus.com/api/users/avatars/Zachary Scott.jpg
+message: <p>Two huge benefits this article brings:<br>1.) The C# class encoded as Json is fantastic.  I was wondering how you could serialize Linq to SQL Classes.  This provides one very nice way to do it.<br>2.) The disclaimers help understand where these techniques fit in the Agile and DDD realms.  They hint where they fit.<br>What would be good would be to tie these articles in to a big map of all the technology.  For example, a dot that would explain "sanatize your inputs", a dot that explains a repository, and a dot that says "you are here".<br>These blog posts like this are extremely helpful.</p>

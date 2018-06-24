@@ -1,0 +1,6 @@
+id: dsq-1118288844
+replyToId: dsq-1118218970
+date: 2013-11-11T09:28:58.0000000-08:00
+name: Alanna Muir
+avatar: https://disqus.com/api/users/avatars/alannamuir.jpg
+message: <p>Long live unit testing!</p><p>But the case of buggy frameworks comes down to this; do you write it yourself and hope to do better than the designers, or take their word for it that all is well. I think either way, you're bound to be revisiting the code down the road, and either you're fixing your own code (or worse, someone else's), or you're replacing the library. I think generally the latter is preferable and a little homework beforehand can help minimize these risks.</p><p>With the branch prediction thing; I might have over specified my position. The slowest action the CPU has to take is to fetch data from DRAM. Compared to the CPU this can be hundreds of cycles. Branches and random data fetches are both prone to cache misses, and modern CPUs try to mitigate this as mush as possible, but if the developer has a good strategy for minimizing this risk, then all the better.</p>

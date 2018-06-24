@@ -1,0 +1,5 @@
+id: dsq-747532536
+date: 2010-06-17T12:26:22.0000000-07:00
+name: Martin R-L
+avatar: https://disqus.com/api/users/avatars/Martin R-L.jpg
+message: "<p>Oh, so the blog does html encoding?<br>/// &lt;summary&gt;<br>/// Throw when the pre-condition stipulates that a sequence, e.g. a string or<br>/// enumerable, mustn't be null nor empty (e.g. Length == 0, Count/Count() == 0,<br>/// or Any() == false).<br>/// &lt;/summary&gt;<br>public class ArgumentNullOrEmptyException : ArgumentNullException<br>{<br>    public ArgumentNullOrEmptyException( string paramName ) : base( paramName )<br>    {}<br>    public ArgumentNullOrEmptyException( string paramName, string message ) : base( paramName, message )<br>    {}<br>    public override string Message<br>    {<br>        get<br>        {<br>            return \"Value cannot be null nor empty.{0}Parameter name: {1}\".FormatWith( Environment.NewLine, ParamName );<br>        }<br>    }<br>}</p>"

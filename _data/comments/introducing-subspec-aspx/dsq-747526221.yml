@@ -1,0 +1,5 @@
+id: dsq-747526221
+date: 2009-12-16T17:29:16.0000000-08:00
+name: kazim
+avatar: https://disqus.com/api/users/avatars/kazim.jpg
+message: <p><br> "Given a new stack".Context(() =&gt; stack = new Stack&lt;string&gt;());<br>the above syntax generate stylecop warning SA0102. What i did to resolve it put "Given a new stack" in a varible like <br>var given="Given a new stack"; <br>given.Context(() =&gt; stack = new Stack&lt;string&gt;()); anyother idea to resolve it ?</p>

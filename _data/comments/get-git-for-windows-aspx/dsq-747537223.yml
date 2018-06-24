@@ -1,0 +1,5 @@
+id: dsq-747537223
+date: 2011-12-19T22:21:43.0000000-08:00
+name: Bradley T. Landis
+avatar: https://disqus.com/api/users/avatars/Bradley T. Landis.jpg
+message: <p>Perry,<br>Do you have spaces in the path to your ssh keys?<br>If so you can use the following command:<br>ssh-agent ssh-add "&lt;FULL PATH TO KEY&gt;"<br>Thanks,<br>Bradley</p>

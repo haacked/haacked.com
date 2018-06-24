@@ -1,0 +1,6 @@
+id: dsq-2109327119
+replyToId: dsq-2108570441
+date: 2015-06-30T13:54:53.0000000-07:00
+name: dotnetchris
+avatar: https://disqus.com/api/users/avatars/dotnetchris.jpg
+message: <p>I've also had good success with <a href="https://github.com/hhariri/EasyHttp" rel="nofollow noopener" title="https://github.com/hhariri/EasyHttp">https://github.com/hhariri/...</a> one thing that really separates EasyHttp from others is that it does not depend on JSON.NET. This can be either a pro or a con depending on your needs. The JSONFX serializer is ridiculously slow compared to things like JIL and others out there. Not that i've found too many people to actually ever have a real concern about serialization performance being a bottleneck in their system</p>

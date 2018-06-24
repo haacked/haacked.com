@@ -1,0 +1,5 @@
+id: dsq-747535601
+date: 2011-07-13T20:37:31.0000000-07:00
+name: Michael A. Volz
+avatar: https://disqus.com/api/users/avatars/Michael A. Volz.jpg
+message: <p>Awesome news!<br>What i would like is a big performance upgrade for NuGet commands. The MVC Scaffolding for example is so slow, it's no fun to use. If the commands are not fast enough, people won't use them that much.<br>But maybe this is possible just by updating NuGet alone.<br>For Debug builds i would love that every RazorView and -Part will be indented correctly in HTML source view. To get a better overview of the hierarchy.<br>Thanks!<br></p>

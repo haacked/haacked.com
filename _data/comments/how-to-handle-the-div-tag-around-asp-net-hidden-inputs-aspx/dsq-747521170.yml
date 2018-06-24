@@ -1,0 +1,5 @@
+id: dsq-747521170
+date: 2007-06-15T23:18:25.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Craig - Are you referring to the PageAdapter property? I looked into it and that could be a blog post in and of itself. Long story short, it wouldn't be easy because alot of the handling for this sort of thing happens in internal methods. So you'd have to rewrite all of page rendering just to handle this one little thing.<br>@Ben - Whether we agree with Scott or not is beside the point. I'm not being prescriptive here. I'm being descriptive. It's a common practice I've seen in the wild, for example, when downloading free CSS templates.</p>

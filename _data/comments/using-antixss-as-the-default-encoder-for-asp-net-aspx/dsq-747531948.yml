@@ -1,0 +1,5 @@
+id: dsq-747531948
+date: 2010-04-06T21:27:03.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hi all, regarding why AntiXss isn't the default encoding. This may be something that may happen in the future, but there are several issues that need to be addressed first such as the Medium Trust issue.<br>Our team and there team do communicate with each other. It's obviously too late for ASP.NET 4, but could perhaps make it in a future version, which gives us time to make sure it's ready to be included if we choose that route.</p>

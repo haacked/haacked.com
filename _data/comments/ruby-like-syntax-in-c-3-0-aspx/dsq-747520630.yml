@@ -1,0 +1,5 @@
+id: dsq-747520630
+date: 2007-05-24T18:21:11.0000000-07:00
+name: J. Irvine
+avatar: https://disqus.com/api/users/avatars/J. Irvine.jpg
+message: <p><code>20.minutes.Ago</code> might seems more readable than <code>DateTime.Now.Subtract(TimeSpan.FromMinutes(20));</code> at first glance, but only if you have a good working knowledge of English. What happens when the developer maintaining your code two years from now only speaks, say, German? The "hard to read" code is part of the framework, so the German guy will have learned how to use it. The "easy to read" code just become a major impediment to his understanding of what your code it trying to do.<br></p>

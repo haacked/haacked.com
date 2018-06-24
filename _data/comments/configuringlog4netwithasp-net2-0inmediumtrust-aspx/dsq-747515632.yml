@@ -1,0 +1,5 @@
+id: dsq-747515632
+date: 2006-07-09T21:45:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>Joe, thanks for the feedback.  We actually do have an FCK Editor provider which I will talk about. I just haven't personally tested it so I couldn't be sure it works in Medium trust.<br>Regarding #4, do you access those config files via the new Configuration APIs?  How do you get around the need for ConfigurationPermission?</p>"

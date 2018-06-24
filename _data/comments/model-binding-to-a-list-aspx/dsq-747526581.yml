@@ -1,0 +1,5 @@
+id: dsq-747526581
+date: 2009-02-08T20:06:18.0000000-08:00
+name: Bal
+avatar: https://disqus.com/api/users/avatars/Bal.jpg
+message: <p>yes, for anybody else thats comes accross this, your indexing should start from zero and be sequential in RC1. In beta the only requirement was that the index was consistent between related elements.</p>

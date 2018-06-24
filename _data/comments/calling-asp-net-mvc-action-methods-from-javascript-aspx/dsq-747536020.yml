@@ -1,0 +1,5 @@
+id: dsq-747536020
+date: 2011-08-18T19:00:51.0000000-07:00
+name: Lee Smith
+avatar: https://disqus.com/api/users/avatars/Lee Smith.jpg
+message: <p>Fantastic! Defiantly worth adding it to version 4.<br>I would make this change to the JsonActionInvoker to fall back to default functionality if needed.<br>    <br> protected override ActionResult CreateActionResult(ControllerContext controllerContext, ActionDescriptor actionDescriptor, object actionReturnValue) <br>        {<br>            if (actionDescriptor.ActionName == "Internal::Proxy" || actionDescriptor.ActionName == "Internal::ProxyDefinition")<br>            {<br>                return new JsonResult { Data = actionReturnValue, JsonRequestBehavior = JsonRequestBehavior.AllowGet };<br>            }<br>            return base.CreateActionResult(controllerContext, actionDescriptor, actionReturnValue);<br>           <br>        }<br></p>

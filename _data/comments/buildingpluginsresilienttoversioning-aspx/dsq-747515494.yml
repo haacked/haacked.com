@@ -1,0 +1,5 @@
+id: dsq-747515494
+date: 2006-06-26T21:39:00.0000000-07:00
+name: Dimitri Glazkov
+avatar: https://disqus.com/api/users/avatars/Dimitri Glazkov.jpg
+message: <p>I'll continue being the dissenting voice for a bit. Not to say, that self-subscription is a bad idea -- it may be exactly what Subtext needs. However ...<br>When you go with self-subscription, you actually have tighter coupling than advertised-interface strategy. Now, the plug in is free to do whatever they want, which offers little granularity of control to the hosting application. With advertised-interface, the host decides what's allowed to run, and what is not. With self-subscription, the binding logic is hard-coded into the plugin itself.<br>I am just saying.</p>

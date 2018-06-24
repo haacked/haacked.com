@@ -1,0 +1,5 @@
+id: dsq-747523970
+date: 2008-01-23T22:52:21.0000000-08:00
+name: Kevin G.
+avatar: https://disqus.com/api/users/avatars/Kevin G..jpg
+message: "<p>What I find interesting about the NCR study is at the very end, where it says that \"Test-First programmers did not achieve better quality on average, although they achieved more consistent quality results.\"<br>Personally, I had been under the impression that better consistency *was* better quality.  So what this it is really saying to me is that TDD won't make you a better programmer, just a more organized one.<br>You have to admit, a lot of developers lack organization.  <br>As a programmer, I'd rather work on a well organized piece of code with clear divisions (knows what its talking about!) than a phenomenally clever piece of code that looks like a jungle. <br>I always think of [jungle code]:  \"This code is so cool, but I could *use it* if it was organized\"</p>"

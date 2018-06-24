@@ -1,0 +1,5 @@
+id: dsq-747531980
+date: 2010-04-17T19:59:15.0000000-07:00
+name: Justin
+avatar: https://disqus.com/api/users/avatars/Justin.jpg
+message: <p>Thanks Phil,<br>Until now I have been binding the input as a string then using a JavaScript Serializer to transform it to my input model. This is so much easier.</p>

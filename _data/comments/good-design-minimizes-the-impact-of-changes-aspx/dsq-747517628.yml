@@ -1,0 +1,5 @@
+id: dsq-747517628
+date: 2006-11-25T02:49:46.0000000-08:00
+name: Evan
+avatar: https://disqus.com/api/users/avatars/Evan.jpg
+message: <p>Rob,<br>Yes, I generally agree that the amount of code it produces is a bit crazy.  There's definitely something to be said for avoiding the smell of Needless Complexity.<br>I'll have to play with SubSonic some more in the near future and get a better feel for it.  SubSonic is definitely a top-notch solution.  I probably just need some more exposure to it.<br>Oh, and I definitely agree with your point on traditional O/R mappers and their complexity.  The reflection that .netTiers and SubSonic do with the database is both simpler and more elegant than having to maintain a large, ugly set of tool-specific map files for all your tables, views, columns, SPs, constraints, relationships, etc.<br>Evan</p>

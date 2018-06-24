@@ -1,0 +1,5 @@
+id: dsq-747524213
+date: 2008-02-20T21:41:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@ChadLee<br>When .NET 3.5 SP1 comes out, you're fine with recompiling all your apps and all the components/libraries that your app uses? Seems like a reasonable thing to expect that you won't have to. Assembly redirects are very useful in this case.<br>And the remark about Kool-Aid, seriously. Please point out the flaws in my argument given the premises. I'm happy to listen. You mentioned you disagree with the premises. Great! I said I'll address that in an upcoming post, and I even posted a link in which I questioned those premises. Let's leave flippant attacks on my character out of this. I'm not peddling kool-aid.</p>

@@ -1,0 +1,5 @@
+id: dsq-747529915
+date: 2009-09-01T02:39:00.0000000-07:00
+name: Howard van Rooijen
+avatar: https://disqus.com/api/users/avatars/Howard van Rooijen.jpg
+message: <p>The only real problem with var is the name of the keyword itself. The Gu himself posted the following:<br>"A common misperception that people often have when first seeing the new var keyword is to think that it is a late-bound or un-typed variable reference"<br>This is a common misconception because "var" has so many other connotations in dynamic languages. If only the keyword was called "infer" instead it would make so much more sense and make the code so much more readable.</p>

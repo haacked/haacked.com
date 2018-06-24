@@ -1,0 +1,5 @@
+id: dsq-1189655998
+date: 2014-01-06T14:11:30.0000000-08:00
+name: James Hart
+avatar: https://disqus.com/api/users/avatars/disqus_xMknDipi4L.jpg
+message: <p>Of course, in JavaScript, whether it's a duck or not, regardless of whether it knows how to quack at all, you can try to make it quack like one anyway:</p><p>Duck.prototype.quack.apply(dog);</p>

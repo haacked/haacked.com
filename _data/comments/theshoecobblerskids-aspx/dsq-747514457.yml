@@ -1,0 +1,5 @@
+id: dsq-747514457
+date: 2006-03-02T16:54:00.0000000-08:00
+name: Joe Brinkman
+avatar: https://disqus.com/api/users/avatars/Joe Brinkman.jpg
+message: <p>Actually, on the DotNetNuke team we have found that dogfooding the release on our own site before releasing it to the public helps to improve quality. There is nothing like a live site with all its legacy data to tell you if you missed something.  And when you have a site that is popular it also gives a nice little stress test along the way.  So I say, use it for yourself first and if the shoe fits ok, then release it to the world.</p>

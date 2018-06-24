@@ -1,0 +1,5 @@
+id: dsq-747524152
+date: 2008-02-12T01:15:27.0000000-08:00
+name: Chris Ortman
+avatar: https://disqus.com/api/users/avatars/Chris Ortman.jpg
+message: "<p>Probably the better way to do this is to map these files to the ASP.Net forbidden handler.<br>@Scott: I have no problem with the out of the box behaviour being that requests to those resources are denied, but I think you'd be giving responsibilities to the RoutingEngine that it ought not to have. The RoutingEngine's job is to turn a URL into :controller, :action, :params not authorize access to resources.</p>"

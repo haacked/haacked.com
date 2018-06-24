@@ -1,0 +1,5 @@
+id: dsq-797410173
+date: 2013-02-12T22:43:23.0000000-08:00
+name: Wm
+avatar: https://disqus.com/api/users/avatars/Wm.jpg
+message: <p>just my 2 cent...</p><p>a) keep it simple is important, avoid external dependencies (outside the BCL) in code deployed on this way<br>b) classes deployed in this way should be declared as internal =&gt; no conflicts if used in multiiple assembies</p><p>for more complicated scenarios (with dependencies) i think ILMerge can be a alternative...</p>

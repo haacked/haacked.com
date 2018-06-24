@@ -1,0 +1,5 @@
+id: dsq-747535841
+date: 2011-08-23T05:47:49.0000000-07:00
+name: Felix
+avatar: https://disqus.com/api/users/avatars/Felix.jpg
+message: <p>It seems that just adding the package breaks Intranet applications. For some reason it redirects to Account/Login?ReturnUrl=%2f and, obviously, I am getting "resource not found" (MVC404) error.<br>Internet works fine - and it *doesn't* go to Account controller!</p>

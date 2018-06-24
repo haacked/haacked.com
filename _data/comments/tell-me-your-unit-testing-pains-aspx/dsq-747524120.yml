@@ -1,0 +1,5 @@
+id: dsq-747524120
+date: 2008-02-07T03:25:10.0000000-08:00
+name: Bradley Landis
+avatar: https://disqus.com/api/users/avatars/Bradley Landis.jpg
+message: <p>I don't mean to sound harsh or disrespect anyone, but to the people are stating that unit testing is hard:<br>The difficulty associated with testing your code is usually directly proportional to the design and quality of your code.<br>In other words, poorly designed, poorly written code IS hard test.  That is the reasoning for Test Driven Development.  If you write your code so that it is testable, you will almost certainly write better designed, better written code.</p>

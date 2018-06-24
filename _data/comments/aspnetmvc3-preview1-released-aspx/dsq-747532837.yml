@@ -1,0 +1,5 @@
+id: dsq-747532837
+date: 2010-08-31T03:06:59.0000000-07:00
+name: Deke
+avatar: https://disqus.com/api/users/avatars/Deke.jpg
+message: <p>I am running into the same problem as Felipe. Whenever I add a &lt;%@ Import Namespace=... %&gt; to an apsx page the Model loses whatever it's type was and reverts back to being a plain old object.  Any work arounds for this other than the obvious (don't use import) or am I doing something wrong here?</p>

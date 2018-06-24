@@ -1,0 +1,5 @@
+id: dsq-2038964799
+date: 2015-05-22T00:37:39.0000000-07:00
+name: WINDFISH
+avatar: https://disqus.com/api/users/avatars/windfishhung.jpg
+message: <p>Due to legacy reason, my website has WebAPI attribute routes, MVC routes and many customized routes (Added on app_start). The customized routes should be updated periodically based on a list provided outside this system. Therefore I cannot do RouteTable.Routes.Clear() to clear all the routes. Do you have any suggestion if I only want to update partial of my routing tables?</p>

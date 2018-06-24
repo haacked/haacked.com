@@ -1,0 +1,5 @@
+id: dsq-747517288
+date: 2007-09-18T18:33:02.0000000-07:00
+name: Jon
+avatar: https://disqus.com/api/users/avatars/Jon.jpg
+message: <p>Or you could just assign differnt ports in your firewall to the IP of the computer with Remote Desktop that you want to access and leave port 3389 at that computer. Works great for me, because I have multiple computers to access via RD, so I assign different ports in my firewall routing to 3389 on the computers IP I want to access. That way I can still access the RD from my main computer at home to all machines normally, and never have to touch the registry.<br>IE:<br>ExternalIP:5900 &gt; 192.138.0.5:3389<br>ExternalIP:5901 &gt; 192.138.0.6:3389<br>ExternalIP:5902 &gt; 192.138.0.7:3389<br>etc.<br>Providing Your firewall is capable of this task, which I think most are.<br>I tried the other way at frist, and it worked aswell, but this just makes more sense and is alot easier ;)</p>

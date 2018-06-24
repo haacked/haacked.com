@@ -1,0 +1,5 @@
+id: dsq-747529688
+date: 2009-08-20T09:03:00.0000000-07:00
+name: tvish
+avatar: https://disqus.com/api/users/avatars/tvish.jpg
+message: '<p>@Piers<br>  Thanks for trying out the SDK.<br>WRT PUT to /Home/5 instead of POST to /Home/Edit/5: Actually the SDK enables 2 different styles of MVC websites - POX APIs and REST APIs. The MovieApp_POXSample shows you the former, where the "action" is part of the URL (in line with traditional ASP.NET MVC). On the other hand it is also possible to create very RESTful APIs where there is no action in the URL - the MovieApp_ResourceSample shows how that can be done. <br>We do support method overloading. You can specify the actual method using the XHttpMethodOverride HTTP header or using a hidden form field with the same name. The MovieApp_ResourceSample should illustrate that.<br>The post-processing step where the links are inserted is interesting. We did play around with some ideas along those lines and were planning to get feedback in a subsequent drop.<br> <br>Feedback on the blog is good. Codeplex issue tracker is also another way to give the feedback.<br></p>'

@@ -1,0 +1,5 @@
+id: dsq-747522090
+date: 2008-11-10T09:24:01.0000000-08:00
+name: Mark
+avatar: https://disqus.com/api/users/avatars/Mark.jpg
+message: <p>that first preg_match should be a match with $Email, not $number, incidentally..<br>:)</p>

@@ -1,0 +1,5 @@
+id: dsq-747526619
+date: 2011-04-19T22:51:20.0000000-07:00
+name: alexandros
+avatar: https://disqus.com/api/users/avatars/alexandros.jpg
+message: <p>I have tried  this example in the past (MVC2) and it worked fine.<br>Now with MVC3 and Razor engine I get a "Index was out of range. Must be non-negative and less than the size of the collection."<br>Has anyone seen/tackled this?</p>

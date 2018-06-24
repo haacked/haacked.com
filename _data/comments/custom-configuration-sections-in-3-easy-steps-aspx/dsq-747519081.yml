@@ -1,0 +1,5 @@
+id: dsq-747519081
+date: 2007-05-13T21:57:57.0000000-07:00
+name: Stephan P.
+avatar: https://disqus.com/api/users/avatars/Stephan P..jpg
+message: <p>What about a example for everyone interested about collections of elements as in:<br>&lt;MyCustom&gt;<br>   &lt;Persons&gt;<br>      &lt;Person name="John" age="21" /&gt;<br>      &lt;Person name="Bill" age="34" /&gt;<br>      &lt;Person name="Dany" age="55" /&gt;<br>   &lt;/Persons&gt;<br>   &lt;AnotherCollectionOfItems&gt;<br>      &lt;Item id="Item1" /&gt;<br>      &lt;Item id="Item2" /&gt;<br>      &lt;Item id="Item3" /&gt;<br>   &lt;/AnotherCollectionOfItems&gt;<br>&lt;/MyCustom&gt;</p>

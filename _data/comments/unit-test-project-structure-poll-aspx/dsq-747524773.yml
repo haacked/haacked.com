@@ -1,0 +1,5 @@
+id: dsq-747524773
+date: 2008-04-09T05:13:31.0000000-07:00
+name: Jeff Gonzalez
+avatar: https://disqus.com/api/users/avatars/Jeff Gonzalez.jpg
+message: <p>I think I started out putting them in a seperate project just to help me get my head around testing.  I think an upside is that there is some physical seperation and it keeps me from doing too many clever things in my tests.  I mean, it is possible, I, uh, hear, to have an app that won't run without the presence of the tests.  You'd be a bad programmer to do that, but, I, uh, hear it could happen.<br><br></p>

@@ -1,0 +1,5 @@
+id: dsq-2366093303
+date: 2015-11-18T04:34:42.0000000-08:00
+name: Jakub Suchý
+avatar: https://disqus.com/api/users/avatars/jakubsuchybio.jpg
+message: <p>Nice thing! I have my TestSolution where I am adding all these interesting mini projects that I read online. And to cover all those projects with this EnsureNoAsyncVoidTest first I typed all Assemblies by hand, but then found better way with:</p><p>Assembly[] assemblies = AppDomain.CurrentDomain.GetAssemblies();<br>foreach( var assembly in assemblies )<br>AssertExtensions.AssertNoAsyncVoidMethods( assembly );</p><p>Turns out, that my assemblies are fine, but got this interesting Fail on added Reference:<br>Assert.IsFalse failed. Async void methods found!<br>'WebSocketBase.OnKeepAlive' is an async void method.</p><p></p>

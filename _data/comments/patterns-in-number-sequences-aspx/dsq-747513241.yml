@@ -1,0 +1,5 @@
+id: dsq-747513241
+date: 2006-05-20T08:06:00.0000000-07:00
+name: Leick Robinson
+avatar: https://disqus.com/api/users/avatars/Leick Robinson.jpg
+message: <p>Proof by induction is a powerful tool, but after thinking about it for a few minutes, I realized that there is a more direct proof:<br>As you stated, we want to prove that<br>(x^2 - 1) mod 8 = 0 for all x &gt;= 1 where x is an odd integer.<br>If x is an odd integer, then we can express it as x = 2n+1 where n is an integer.<br>Substituting into the expression above, we get<br>(x^2 - 1) = ((2n+1)^2 - 1) = ((4n^2 + 4n + 1) - 1)<br> = (4n^2 + 4n) = 4n(n+1).<br>Now, n must be either even or odd.<br>If n is even, then (by definition) n is divisible by 2, and so n(n+1) is divisible by 2.<br>If n is odd, then (n+1) is even, and so n(n+1) is divisible by 2.<br>Either way, n(n+1) is divisible by 2, and so 4n(n+1) must be divisible by 8.<br>[Or, more formally, if n(n+1) is divisible by 2, then there must be some integer m such that n(n+1) = 2m.  Substituting, we get<br>(x^2 - 1) = 8m and so<br>(x^2 - 1) mod 8 = 8m mod 8 = 0.]<br></p>

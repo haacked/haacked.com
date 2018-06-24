@@ -1,0 +1,6 @@
+id: dsq-2413154803
+replyToId: dsq-2413130847
+date: 2015-12-16T12:59:00.0000000-08:00
+name: Caio Proiete
+avatar: https://disqus.com/api/users/avatars/caioproiete.jpg
+message: <p>Really? Not sure I agree with that. String has properties too, has more public methods than DateTime (String = 132 vs DateTime = 93) and String implementation has almost twice as much code as DateTime - I think String is clearly more complex than DateTime if looking at API surface or implementation</p>

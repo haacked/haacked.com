@@ -1,0 +1,5 @@
+id: dsq-747527008
+date: 2008-11-20T00:27:56.0000000-08:00
+name: Steve C
+avatar: https://disqus.com/api/users/avatars/Steve C.jpg
+message: <p>Anyone care to extend this regex to include support for excluding tags from being stripped?<br><code><br>public static string StripHtml(string html, params string[] exclusions)<br></code><br>...would be the signature. This would return the string with all tags stripped <strong>except</strong> those defined in the exclusions array.<br>Been trying to work on this one and it's giving me a bit of trouble.</p>

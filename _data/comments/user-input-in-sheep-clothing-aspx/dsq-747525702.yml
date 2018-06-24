@@ -1,0 +1,5 @@
+id: dsq-747525702
+date: 2008-07-09T09:18:37.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@HB REMOTE_HOST can be spoofed as far as I know. I'm not sure if there's an authoritative list.<br>@Scott Yeah, we've had something like that in mind for a while, but not sure if we'll do it for v1.<br>@Troy - Step one is to dissuade devs from that line of thinking in the first place. ;) Step one prime (in parallel) is for us to remove the possibility of this line of thinking in this case.<br>The larger point still stands, we can make this change (after discussing it, we probably will), but that doesn't mean that it's suddenly safe to trust action method parameters.<br></p>

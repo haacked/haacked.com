@@ -1,0 +1,5 @@
+id: dsq-747534212
+date: 2011-01-16T01:14:22.0000000-08:00
+name: Janos
+avatar: https://disqus.com/api/users/avatars/Janos.jpg
+message: <p>Hi Phil,<br>Do you know if MVC3 debug symbols are available on MS Symbol server?<br>I am trying to step into the source following this article <a href="http://weblogs.asp.net/gunnarpeipman/archive/2010/07/04/stepping-into-asp-net-mvc-source-code-with-visual-studio-debugger.aspx" rel="nofollow noopener" title="http://weblogs.asp.net/gunnarpeipman/archive/2010/07/04/stepping-into-asp-net-mvc-source-code-with-visual-studio-debugger.aspx">weblogs.asp.net/...</a>, but I managed to make it work only with MVC2 but not with MVC3.<br>I suppose the debug symbols are not yet available on the server, because if I check FailedLoads folder in SymbolCache I can see System.Web.Mvc_v4.0_3.0.0.0 file containing a "PDB Not Found" text.<br>Thanks<br>Janos</p>

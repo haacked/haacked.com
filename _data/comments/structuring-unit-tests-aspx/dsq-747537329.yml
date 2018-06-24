@@ -1,0 +1,5 @@
+id: dsq-747537329
+date: 2012-01-03T14:59:11.0000000-08:00
+name: Matthew Manela
+avatar: https://disqus.com/api/users/avatars/Matthew Manela.jpg
+message: <p>@Drew and @Matt,<br>Method argument injection sounds really interesting. In one sense I can see it makes a lot of sense in a large class where methods are using different dependencies. But I wonder how often the public methods in a class really have very different dependencies. If two methods in one class depends on many different interfaces maybe they don't belong in the same class?<br>Thoughts?</p>

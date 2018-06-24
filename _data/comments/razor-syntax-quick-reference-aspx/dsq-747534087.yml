@@ -1,0 +1,5 @@
+id: dsq-747534087
+date: 2011-04-06T15:24:13.0000000-07:00
+name: Gareth Elms
+avatar: https://disqus.com/api/users/avatars/Gareth Elms.jpg
+message: "<p>I should have read this last night before twanting (Twitter ranting) about Razor, I'd regard having to use @: as a gotcha. I started using Razor last night, and I've heard a lot about how Razor means you don't need to think about the code/markup separation, but it's not strictly true and I hit this gotcha immediately<br><code><br>@if( Request.IsAuthenticated){<br>    Hello <strong>@Page.User.Identity.Name</strong><br>}else{<br>    @Html.ActionLink( \"Log On\", \"LogOn\", \"Account\")<br>}<br></code></p>"

@@ -1,0 +1,5 @@
+id: dsq-747526936
+date: 2009-02-03T21:34:59.0000000-08:00
+name: Matthew
+avatar: https://disqus.com/api/users/avatars/Matthew.jpg
+message: <p>Awesome demo! Glad to see the Northwind DB is going away.<br>I've tried downloading your code and running it against the latest MVC RC and it doesn't seem to work as advertised. Instead of the new Question showing up in the list, the entire question form appears in it's place. Did something go bad with the AJAX helpers and code during the move to RC? Or has your demo code just not been updated? I can't seem to find anything regarding the MVC and the AJAX work and this is the most intriguing part of it, for me.<br>Thanks!</p>

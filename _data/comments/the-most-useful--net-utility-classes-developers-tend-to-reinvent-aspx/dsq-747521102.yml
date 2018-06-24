@@ -1,0 +1,5 @@
+id: dsq-747521102
+date: 2007-06-16T05:24:36.0000000-07:00
+name: Kyralessa
+avatar: https://disqus.com/api/users/avatars/Kyralessa.jpg
+message: <p>I don't agree as far as Path.Combine.  Have a look at the documentation for it:<br><a href="http://msdn2.microsoft.com/en-us/library/system.io.path.combine.aspx" rel="nofollow noopener" title="http://msdn2.microsoft.com/en-us/library/system.io.path.combine.aspx">http://msdn2.microsoft.com/...</a><br>If the second argument starts with a root (i.e. backslash), Path.Combine returns just the second argument and ignores the first completely.  Personally, that's not the behavior I'd expect; I'd expect it to combine the two paths in all cases, making sure there aren't too many or too few backslashes.</p>

@@ -1,0 +1,5 @@
+id: dsq-747521334
+date: 2007-06-20T17:16:30.0000000-07:00
+name: Tomas Restrepo
+avatar: https://disqus.com/api/users/avatars/Tomas Restrepo.jpg
+message: "<p>This actually hilights something I noticed a couple of months ago and still can't understand: why the heck is the vista build of .NET FX 2.0/3.0 different from the XP/2003 build at such fundamental levels? (for example mscorlib has extra types/methods not found in the other builds).</p>"

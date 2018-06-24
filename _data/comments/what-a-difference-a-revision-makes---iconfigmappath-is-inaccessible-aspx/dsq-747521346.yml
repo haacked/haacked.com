@@ -1,0 +1,5 @@
+id: dsq-747521346
+date: 2007-08-27T11:32:32.0000000-07:00
+name: Steven Burman
+avatar: https://disqus.com/api/users/avatars/Steven Burman.jpg
+message: '<p>Good news people. <br>Updating my build server (2003 Server R2) with the latest updates has updated the System.Web revision to be v2.0.50727.832. This appears to be sufficient to solve the IConfigMapPath inaccessibility issue.<br>In summary : <br>XP is working with v2.0.50727.1378<br>Windows Server 2003 R2 is working with v2.0.50727.832</p>'

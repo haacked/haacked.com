@@ -1,0 +1,5 @@
+id: dsq-747536604
+date: 2011-11-26T01:07:58.0000000-08:00
+name: Brian Vallelunga
+avatar: https://disqus.com/api/users/avatars/Brian Vallelunga.jpg
+message: <p>This looks very nice. Would we see support for any sort of vary by param/custom caching in the hole? I'm imagining a scenario where you might want the hole to contain cached default content for anonymous users and custom data for authenticated users.</p>

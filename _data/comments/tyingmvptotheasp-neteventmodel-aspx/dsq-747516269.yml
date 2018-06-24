@@ -1,0 +1,5 @@
+id: dsq-747516269
+date: 2006-08-10T01:28:07.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Brian, not at all. I use the view in two places. In the actual ASP.NET page and in my unit tests.  The view increases the testability of the code.</p>

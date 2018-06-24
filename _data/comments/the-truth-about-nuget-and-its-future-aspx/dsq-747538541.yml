@@ -1,0 +1,5 @@
+id: dsq-747538541
+date: 2012-10-31T11:10:07.0000000-07:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>Lots of popularity in the java community...<br>- <a href="http://zeroturnaround.com/liverebel/new-liverebel-2-5-config-scripts-intelligently-manage-java-apps/" rel="nofollow noopener" title="http://zeroturnaround.com/liverebel/new-liverebel-2-5-config-scripts-intelligently-manage-java-apps/">zeroturnaround.com/...</a><br>I've been working on an event sourcing system. Maybe a tie in with server deployment (including roll backs). Anyone have ideas what type of scripting environment would be a good match for a mono environment?</p>

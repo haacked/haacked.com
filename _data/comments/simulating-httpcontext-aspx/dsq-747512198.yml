@@ -1,0 +1,5 @@
+id: dsq-747512198
+date: 2008-10-22T17:42:07.0000000-07:00
+name: Raphael
+avatar: https://disqus.com/api/users/avatars/Raphael.jpg
+message: <p>//Fix HttpContext.Current.Request.ApplicationPath<br>        FieldInfo field = typeof( HttpRuntime ).GetField( "_theRuntime", BindingFlags.NonPublic | BindingFlags.Static );<br>        FieldInfo appVPath = field.GetValue( null ).GetType().GetField( "_appDomainAppVPath", BindingFlags.NonPublic | BindingFlags.Instance );<br>        ConstructorInfo info = appVPath.FieldType.GetConstructor(BindingFlags.NonPublic | BindingFlags.Public | BindingFlags.Instance, null, new[]{typeof(string)}, null);<br>        object vPath = info.Invoke( new object[] { appVirtualDir } );<br>        appVPath.SetValue( field.GetValue( null ), vPath );<br></p>

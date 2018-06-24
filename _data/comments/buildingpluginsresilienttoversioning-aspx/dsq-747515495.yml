@@ -1,0 +1,5 @@
+id: dsq-747515495
+date: 2006-06-26T21:56:00.0000000-07:00
+name: Simone
+avatar: https://disqus.com/api/users/avatars/Simone.jpg
+message: "<p>Another option could be have a mraker interface (without methods) and an abstract base class to inherit from.<br>It should solve both the problem of identiying a plugin correctly, and it should also solve the versioning problem: if you don't override a method nobody will complain, and thing will go fine.</p>"

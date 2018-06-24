@@ -1,0 +1,5 @@
+id: dsq-747523406
+date: 2007-11-16T18:49:21.0000000-08:00
+name: Marc
+avatar: https://disqus.com/api/users/avatars/Marc.jpg
+message: "<p>There have been great strides in proving code correctness and major advances in <a href=\"http://www.praxis-his.com/sparkada/technical.asp\" rel=\"nofollow noopener\" title=\"http://www.praxis-his.com/sparkada/technical.asp\">tools</a> to support doing that. So much so that it's become feasible to prove the correctness of <a href=\"http://www.praxis-his.com/pdfs/issse2006tokeneer.pdf\" rel=\"nofollow noopener\" title=\"http://www.praxis-his.com/pdfs/issse2006tokeneer.pdf\">not-so-trivial programs</a>, <strong>and</strong> still be productive when developing it. Here are some final project stats from the aforementioned link:<br>\"The TIS system’s key statistics are:<br> - lines of code: 9939<br> - total effort (days): 260<br> - productivity (lines of code per day, overall): 38<br> - defects found post delivery per 1000 lines of code:   zero\"</p>"

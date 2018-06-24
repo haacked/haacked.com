@@ -1,0 +1,5 @@
+id: dsq-747537193
+date: 2011-12-19T03:42:23.0000000-08:00
+name: CarrierIQ-Lover
+avatar: https://disqus.com/api/users/avatars/CarrierIQ-Lover.jpg
+message: <p>I just wanted to point out that both this article and the install directions at github for the posh-git project both leave out the dependency you need to get any of this running in the first place. <br>To those already familiar with using git on windows this might be implicit but to those frustrated others, this is a glaring omission. I suggest that your article be updated with the required git dependency.<br>As always, thanks for you insight, dedication and hard work, myself and the community at large appreciate it!</p>

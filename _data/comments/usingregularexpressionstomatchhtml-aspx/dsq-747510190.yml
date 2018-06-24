@@ -1,0 +1,5 @@
+id: dsq-747510190
+date: 2006-12-19T16:46:52.0000000-08:00
+name: Ashly
+avatar: https://disqus.com/api/users/avatars/Ashly.jpg
+message: <p>Hi,<br>I am working with PHP 5.0<br>I have a string like this:<br><br>[code]<br>function getSize($userIDArr)<br>{<br>   $arrSize = sizeof($userIDArr);<br>}<br>[code]<br>function getUserNames($userIDArr)<br>{<br>  for($i=0; $i &lt; sizeof($userIDArr); ++$i)<br>  {<br>     $userNamesArr[$i] = $userIDArr[$i];   <br>  }<br>  return $userNamesArr;<br>}<br>[/code]<br>[/code]<br><br>I need to replace the outer tag [code] [/code] pair with &lt;abc&gt; &lt;/abc&gt;<br><br>The result should look like:<br><br>&lt;abc&gt;<br>function getSize($userIDArr)<br>{<br>   $arrSize = sizeof($userIDArr);<br>}<br>[code]<br>function getUserNames($userIDArr)<br>{<br>  for($i=0; $i &lt; sizeof($userIDArr); ++$i)<br>  {<br>     $userNamesArr[$i] = $userIDArr[$i];   <br>  }<br>  return $userNamesArr;<br>}<br>[/code]<br>&lt;/abc&gt;<br><br>If anyone have any idea, please help me..<br>Thanks in advance<br>Ashly</p>

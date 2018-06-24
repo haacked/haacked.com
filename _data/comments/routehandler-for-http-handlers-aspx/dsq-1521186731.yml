@@ -1,0 +1,6 @@
+id: dsq-1521186731
+replyToId: dsq-747530449
+date: 2014-08-01T17:10:45.0000000-07:00
+name: Jone Polvora
+avatar: https://disqus.com/api/users/avatars/jpolvora.jpg
+message: '<p>If you are writing some framework and you want to register some custom IHttpHandlers without touching web.config, this is the best approach: Register an IHttpHandler through a route in some startup code of your framework. Very useful.</p>'

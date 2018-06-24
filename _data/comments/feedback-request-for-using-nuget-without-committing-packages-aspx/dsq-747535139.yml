@@ -1,0 +1,5 @@
+id: dsq-747535139
+date: 2011-04-27T00:50:08.0000000-07:00
+name: Michael McGuire
+avatar: https://disqus.com/api/users/avatars/Michael McGuire.jpg
+message: <p>I like David's suggestion also.  Obviously , because the scenario of handling the packages being checked-into source control is already handled, you would want to work on this new scenario first.  But it would be nice to be able to choose where the packages are stored, instead of always having to default to the "packages" folder under the solution.</p>

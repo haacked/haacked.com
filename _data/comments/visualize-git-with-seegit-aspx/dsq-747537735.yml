@@ -1,0 +1,5 @@
+id: dsq-747537735
+date: 2012-03-15T04:22:58.0000000-07:00
+name: Bernhard
+avatar: https://disqus.com/api/users/avatars/Bernhard.jpg
+message: <p>@Markus That is freakishly similar. I think I prefer your display of comments inside the commit and I prefer Phil's display of labels. A collaboration here would be nice to see. Can you fork Phil's repo and make those changes then submit a pull request?<br>This is a great resource for explaining (and understanding) Git repos.<br>Just ran the exe from the zip on WindowsXP and it threw because:<br>    {"Could not load file or assembly 'GraphSharp.Controls, Version=1.0.4115.29430, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified.":"GraphSharp.Controls, Version=1.0.4115.29430, Culture=neutral, PublicKeyToken=null"}<br>Damned corporate WinXP operating system. ;)</p>

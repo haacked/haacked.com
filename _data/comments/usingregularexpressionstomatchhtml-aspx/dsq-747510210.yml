@@ -1,0 +1,5 @@
+id: dsq-747510210
+date: 2007-09-06T04:56:08.0000000-07:00
+name: Luke-Jr
+avatar: https://disqus.com/api/users/avatars/Luke-Jr.jpg
+message: <p>I realize I'm a bit late seeing this post, but....<br>&amp;lt;img title="displays &amp;gt;" src="big.gif"&amp;gt;<br>happens to be INVALID HTML in the first place. &amp;gt; is not allowed even in attributes!<br>The correct code, which does NOT break your original regex is:<br>&amp;lt;img title="displays &amp;amp;gt;" src="big.gif"&amp;gt;</p>

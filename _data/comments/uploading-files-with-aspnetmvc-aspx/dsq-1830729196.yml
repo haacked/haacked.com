@@ -1,0 +1,6 @@
+id: dsq-1830729196
+replyToId: dsq-1830639858
+date: 2015-02-02T08:40:27.0000000-08:00
+name: CaRDiaK
+avatar: https://disqus.com/api/users/avatars/disqus_2SpFkYu5Zd.jpg
+message: <p>OK I found out that to transfer files you must have enctype = "multipart/form-data".</p><p>So to access the file including the FormCollection use the following in the view (then your signature is valid on the controller and you won't get a null file);</p><p>@using (Html.BeginForm("ActionName", "ControllerName", FormMethod.Post, new { enctype = "multipart/form-data" }))</p>

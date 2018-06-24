@@ -1,0 +1,5 @@
+id: dsq-747535672
+date: 2011-09-13T01:08:45.0000000-07:00
+name: Dan M
+avatar: https://disqus.com/api/users/avatars/devuxer.jpg
+message: <p>I'd just like to add my voice to those calling for solutions to the "magic strings" problem that has plagued ASP.NET MVC since the beginning. I would also like to see improvements to the Razor editor, including better refactoring support (I should never have to use find/replace when renaming something) and more intelligent auto-formatting (the auto-formatter should indent code and markup in a logical/hierarchical manner).</p>

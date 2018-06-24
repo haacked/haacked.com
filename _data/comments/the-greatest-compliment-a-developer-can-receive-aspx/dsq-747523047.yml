@@ -1,0 +1,5 @@
+id: dsq-747523047
+date: 2007-10-09T23:46:59.0000000-07:00
+name: James Grenning
+avatar: https://disqus.com/api/users/avatars/James Grenning.jpg
+message: <p>Pete:<br>I do maintain my comments.  I just write very few.  Well factored code, written, or at least reviewed, in pair programming sessions does not need much in the way of comments.<br>Comments are generally viewed as a weakness unless 1) they are describing some weird thing that can't be made better through refactoring and meaningful names. 2) The comment describes the responsibility of a class.<br>The code within a method should not need comments.  Where you find a comment you can still tell the code's story by extracting the method, and naming it so the comment's tale is told.<br>Comments can be a form of duplication.  Why write in a comment what is already in the code.  One reason is if the code is not obvious.  So instead of adding comments, I would 'code' my comments into the names of methods.<br>I guess this is the crux of Phil's post, people have differing opinions of good code.</p>

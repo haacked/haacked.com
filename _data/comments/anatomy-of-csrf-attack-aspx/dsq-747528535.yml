@@ -1,0 +1,5 @@
+id: dsq-747528535
+date: 2011-10-11T00:43:07.0000000-07:00
+name: Pat James
+avatar: https://disqus.com/api/users/avatars/Pat James.jpg
+message: <p>Given the caveat that this method protects you only in scenarios where the client is a "trusted browser", I would suggest that the presence of a RequestVerificationToken hidden form field is a bright burning beacon announcing to any motivated blackhat "here I am, I have something of value I thought was worth trying to protect".  Any motivated hacker will be aware of the flaw in this protection, and certainly won't need to rely on trusted browsers as tools for his attack.</p>

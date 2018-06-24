@@ -1,0 +1,5 @@
+id: dsq-747515502
+date: 2006-06-27T22:27:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hmmm, I need to tune the preview code.  I am actually not opposed to the abstract base class. It could still work with an event based approach.<br>One good point you mention is that there may be some events in which you only want a single plugin hooking up to it.  <br>How would you handle the case where two plugins implement a method that only one should handle?  Do you just call the first one?</p>

@@ -1,0 +1,5 @@
+id: dsq-747527111
+date: 2010-06-10T19:00:49.0000000-07:00
+name: Anoop
+avatar: https://disqus.com/api/users/avatars/Anoop.jpg
+message: '<p>Following the thought process, I just created a CompositeViewEngine that can render both aspx/ascx (by using the WebFormViewEngine) and *.view.tt files (using a custom T4View I wrote). <br>Details: Creating a custom View Engine for ASP.NET MVC leveraging Text Template (T4) engine for rendering the view <br><a href="http://amazedsaint.blogspot.com/2010/06/creating-custom-view-engine-for-aspnet.html" rel="nofollow noopener" title="http://amazedsaint.blogspot.com/2010/06/creating-custom-view-engine-for-aspnet.html">amazedsaint.blogspot.com/...</a></p>'

@@ -1,0 +1,5 @@
+id: dsq-747509874
+date: 2006-06-27T04:14:00.0000000-07:00
+name: Ingo-Stefan Schilling
+avatar: https://disqus.com/api/users/avatars/Ingo-Stefan Schilling.jpg
+message: <p>Mujjammil,<br>the round trip I was wanting to realize wasn't a round trip in the 'usual' meaning, more a round trip between one or more aspx- pages...<br>Even though this idea does look 'stupid' the first glance, it can make sense in at least some scenarios.<br>In mine, I wanted to overcome the limitation of some WAP- devices in terms of redirection. Therefore the base idea in my mind was to transfer on server- side and transfer- back after the job was done... well, since my mentioned problems, I 'simply' redesigned my architecture (and made it better - of course ;) and now I do not have this problem anymore.<br>I hope Microsoft is going to change this issue anyways, since it would have saved me some days of work since I planned the rearchitecturing for optimization processes later on...<br>I hope I was able to answer your question more detailed.</p>

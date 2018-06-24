@@ -1,0 +1,5 @@
+id: dsq-747525280
+date: 2008-05-28T00:25:44.0000000-07:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: '<p>I think have a reason now:  Resharper.  I suspect that is the problem.  One step I did that I later recalled while troubleshooting was that I turned off the add-in.<br>When Resharper starts, it loads the assemblies.  I have a feeling it was still using the older version (My guess)</p>'

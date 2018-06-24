@@ -1,0 +1,5 @@
+id: dsq-747537551
+date: 2012-02-22T16:11:51.0000000-08:00
+name: Scott Koon
+avatar: https://disqus.com/api/users/avatars/Scott Koon.jpg
+message: <p>Having been through some pain with NPM, your package should never AUTOMATICALLY depend on version X OR HIGHER. It seems irresponsible to me to claim that you are compatible with ANY POSSIBLE CHANGE that a new version could contain.</p>

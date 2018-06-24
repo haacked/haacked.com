@@ -1,0 +1,5 @@
+id: dsq-747533096
+date: 2010-10-05T22:15:26.0000000-07:00
+name: shawn
+avatar: https://disqus.com/api/users/avatars/shawn.jpg
+message: <p>Wow, you're iterating public releases quickly!<br>Any chance ASP.NET MVC 3 will have better support for binding to hierarchical model graphs, where the model contains sub-collections of other models?  Right now the default model binder will clear out and re-create any existing collections rather than updating them.<br>Rudi Breedenraedt came up with a nice workaround, it would be great to see something like that baked into MVC 3.  Search for "<a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> mvc binding model graphs" for the example/workaround (which you commented on).</p>

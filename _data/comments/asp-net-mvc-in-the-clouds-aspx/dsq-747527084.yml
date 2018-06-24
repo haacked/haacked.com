@@ -1,0 +1,5 @@
+id: dsq-747527084
+date: 2008-11-16T19:32:08.0000000-08:00
+name: DanDax
+avatar: https://disqus.com/api/users/avatars/DanDax.jpg
+message: '<p>Phil, You are the best! I was working on this problem last night and decided to give up and wait for another day (today actually). Quick question: what was the change you made to MVC for registration/login to work? Can we go back to using Html.BeginForm() or do we have to use the workaround that you gave Jim?<br></p>'

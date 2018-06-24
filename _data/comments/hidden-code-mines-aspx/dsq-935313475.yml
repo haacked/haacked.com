@@ -1,0 +1,6 @@
+id: dsq-935313475
+replyToId: dsq-935273003
+date: 2013-06-19T06:00:33.0000000-07:00
+name: FennNaten
+avatar: https://disqus.com/api/users/avatars/FennNaten.jpg
+message: "<p>I completely understand your point, and I agree, null checks all over the place are a real pain. <br>An option my team took in a previous job where we were client of a lot of external libraries was to use unit-test like asserting. <br>For example it would go like that:</p><p>IEnumerable test = vendorCode.GetElements();<br>Require(test).NotNull(\"optional message\"); //this throws if condition not met</p><p>/*do stuff with test*/</p><p>I find it to be the less painful option: code stays readable and your intend is clear. Plus it forces you to always weight your options while coding. \"ok, what values can this method return and what are the requirement for me to be able to use a value? Should I do something if the value's not a usable one? Let's state it.\"<br>But that doesn't prevent from annoying responsibles with bug reports though ;)</p>"

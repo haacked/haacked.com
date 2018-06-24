@@ -1,0 +1,5 @@
+id: dsq-747529348
+date: 2009-06-25T02:07:00.0000000-07:00
+name: Louis DeJardin
+avatar: https://disqus.com/api/users/avatars/Louis DeJardin.jpg
+message: <p>I have some actions which return Json(...) if IsAjaxRequest() otherwise they return a view or redirect. So an unconditional POST-only on those actions would be too restrictive.<br>Would you agree something like an [AjaxRequiresPost] attribute avoids the vulnerability?<br>public class AjaxRequiresPostAttribute :<br>    ActionMethodSelectorAttribute<br>{<br>    public override bool IsValidForRequest(<br>        ControllerContext controllerContext,<br>        MethodInfo methodInfo)<br>    {<br>        var request = controllerContext.HttpContext.Request;<br>        if (request.IsAjaxRequest() &amp;&amp;<br>            string.Equals(request.HttpMethod, "POST") == false)<br>        {<br>            return false;<br>        }<br>        return true;<br>    }<br>}<br></p>

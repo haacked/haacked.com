@@ -1,0 +1,5 @@
+id: dsq-747531166
+date: 2009-12-26T23:21:01.0000000-08:00
+name: Paul
+avatar: https://disqus.com/api/users/avatars/valmont33.jpg
+message: <p>One fix in the code example:<br>//Slide up and down on click<br>$('a.close').click(function(){<br>    $($(this).attr('href')).slideToggle();<br>});</p>

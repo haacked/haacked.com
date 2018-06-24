@@ -1,0 +1,5 @@
+id: dsq-747537314
+date: 2012-01-02T15:16:29.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Thomas  I do name the classes after the method. I use unit tests to drive the design of my code (ala TDD). In most cases, when I needed to rename something, it's due to a change in the design of my code. I rarely rename in pure isolation. In those cases, I use tests to drive the change in code.<br>Even in cases where I really am just renaming, I just rename the tests first, then rename the code. The tests always lead the code. Except when I get sloppy. :)<br>@Fabian I think we've written helper methods for that setup in <a href="http://nuget.org" rel="nofollow noopener" title="nuget.org">nuget.org</a>. In many cases, each method is isolated and doesn't have the same setup code anyways.</p>

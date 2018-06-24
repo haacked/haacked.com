@@ -1,0 +1,6 @@
+id: dsq-1114708503
+replyToId: dsq-1114636516
+date: 2013-11-08T17:11:50.0000000-08:00
+name: distantcam
+avatar: https://disqus.com/api/users/avatars/distantcam.jpg
+message: <p>I disagree. In C# land take is part of the LINQ ecosystem. When creating a similar method I would reach for LINQ methods before writing one by hand. Otherwise you'll miss out on things like lazy evaluation. I would fail the first code with the if and say that it has to be lazy.</p>

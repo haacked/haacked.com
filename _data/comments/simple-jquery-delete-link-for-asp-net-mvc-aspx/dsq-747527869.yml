@@ -1,0 +1,5 @@
+id: dsq-747527869
+date: 2009-01-30T01:03:57.0000000-08:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>(Chad's comment above is correct, but won't work with AJAX content that's loaded later.  That's the nice thing about jq 1.3's "live" events)</p>

@@ -1,0 +1,5 @@
+id: dsq-747516591
+date: 2006-09-06T04:30:02.0000000-07:00
+name: xingwei liang
+avatar: https://disqus.com/api/users/avatars/xingwei liang.jpg
+message: <p>I am using .TEXT 0.95. There is an issue with it when I am working. The PageParser.GetCompiledPageInstance is supposed to return a IHttpHander. Then the master page init() gets called. However, the code does not behave correctly. Sometimes it calls, once it calls init, the page (homepage.ascx) displayed correctly. Once it does not call, the site returns a blank page. <br>I am wondering if you know something about it? <br></p>

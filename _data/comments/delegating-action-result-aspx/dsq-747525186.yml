@@ -1,0 +1,5 @@
+id: dsq-747525186
+date: 2008-05-10T22:50:21.0000000-07:00
+name: Andrew Davey
+avatar: https://disqus.com/api/users/avatars/Andrew Davey.jpg
+message: <p>How about having a ComposedActionResult as well?<br>return new ComposedActionResult(<br>  RenderCookie("uid","123")<br>  RenderHeader("foo","bar"),<br>  RenderView("Index")<br>)</p>

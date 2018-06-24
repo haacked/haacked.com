@@ -1,0 +1,5 @@
+id: dsq-747527699
+date: 2009-01-11T04:17:29.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@JDConley one thing we do is use a custom threadpool which doesn't take a thread from the ASP.NET ThreadPool (which is the same threadpool used when using the async programming model AFAIK).</p>

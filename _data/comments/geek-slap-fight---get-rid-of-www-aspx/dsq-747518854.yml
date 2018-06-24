@@ -1,0 +1,5 @@
+id: dsq-747518854
+date: 2007-02-28T04:44:06.0000000-08:00
+name: Jeff Atwood
+avatar: https://disqus.com/api/users/avatars/Jeff Atwood.jpg
+message: <p>&gt; If you change "http://" to "ftp://" you get a different protocol<br>Yeah, cause people use their browsers as FTP clients all the time.<br>99.9999 (imagine me typing 50 more nines here)% of the time, it's http://. So why have it at all?</p>

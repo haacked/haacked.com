@@ -1,0 +1,5 @@
+id: dsq-747521034
+date: 2008-08-25T18:20:49.0000000-07:00
+name: slobi
+avatar: https://disqus.com/api/users/avatars/slobi.jpg
+message: <p>Can anybody tell me how i integrate the assembly in my web pages? I tried both:<br>&lt;%@ Register Assembly="Subkismet" TagPrefix="sbk" namespace="Subkismet.InvisibleCaptcha" %&gt;<br>and in web.config<br>&lt;controls&gt;<br>  &lt;add tagprefix="sbk" namespace="Subkismet.Captcha" aassembly="Subkismet"/&gt;<br>&lt;/controls&gt;<br>but i don't get it to work...<br>Thanks for help in advance.</p>

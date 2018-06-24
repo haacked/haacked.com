@@ -1,0 +1,5 @@
+id: dsq-747537413
+date: 2012-01-10T21:51:10.0000000-08:00
+name: Steve Sanderson
+avatar: https://disqus.com/api/users/avatars/Steve Sanderson.jpg
+message: <p>Very cool! I've been asking for this for ages :)<br>All it needs is a few hints to give the developer an idea about how to get started. Could you consider adding the following?<br>- A controller for handling login, registration, etc<br>- An example model schema, perhaps based on EF<br>- Sample unit tests<br>- A folder structure for organising images<br>- An abstraction over common design patterns, such as those listed in Fowler's PoEAA<br>I think that's all that's really needed in the most basic cases.</p>

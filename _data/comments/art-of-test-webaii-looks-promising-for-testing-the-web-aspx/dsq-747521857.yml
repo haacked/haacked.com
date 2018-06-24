@@ -1,0 +1,5 @@
+id: dsq-747521857
+date: 2011-07-05T23:10:51.0000000-07:00
+name: Justin Collum
+avatar: https://disqus.com/api/users/avatars/Justin Collum.jpg
+message: <p>So WebAii doesn't have a test recorder out of the box? Looks like Selenium is still better -- a working test recorder is what sets Selenium apart from every other func tester I've seen. Also, getting Selenium to kick out tests in your test tool of choice is just a matter of altering the formatter. I've got one around for C# / VStest if you need it (I may have posted it on the Selenium newsgroup).</p>

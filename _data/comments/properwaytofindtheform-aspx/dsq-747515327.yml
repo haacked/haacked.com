@@ -1,0 +1,5 @@
+id: dsq-747515327
+date: 2006-06-13T19:26:00.0000000-07:00
+name: Daniel
+avatar: https://disqus.com/api/users/avatars/Daniel.jpg
+message: <p>We ran into a similar issue, but the problem was with multiple forms.  A designer had sent us a dreamweaver page we used as a master page.  Postbacks didn't work until we realized he'd put a second form for a little side-bar search. .NET was finding the wrong form to attach it's handlers. We were able to remove it in that case, but I could imagine some where it may not be possible...</p>

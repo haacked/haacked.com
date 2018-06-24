@@ -1,0 +1,6 @@
+id: dsq-2413337407
+replyToId: dsq-2413170396
+date: 2015-12-16T14:57:50.0000000-08:00
+name: Caio Proiete
+avatar: https://disqus.com/api/users/avatars/caioproiete.jpg
+message: <p>Alright. Fair point on DateTime dependencies - it may end up being more complex after all (didn't measure but I can see it would be possible). Still, I don't think is a valid argument for not having a `datetime` alias... All other structs do, String is a class... And yet it deserves an alias? Not buying.</p>

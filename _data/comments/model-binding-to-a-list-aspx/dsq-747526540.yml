@@ -1,0 +1,5 @@
+id: dsq-747526540
+date: 2008-10-23T16:33:02.0000000-07:00
+name: Melvyn Harbour
+avatar: https://disqus.com/api/users/avatars/Melvyn Harbour.jpg
+message: <p>Phil,<br>There's one potential problem with the suggested way of using the name attribute in that way surely. In the HTML 4.0 spec, the '[' and ']' characters are not part of the accepted list of characters for the name attribute. See <a href="http://www.w3.org/TR/html401/types.html#type-name" rel="nofollow noopener" title="http://www.w3.org/TR/html401/types.html#type-name">the specification</a>. If you're in XHTML, it shouldn't be a problem as the name attribute is specified as CDATA, but it is an important difference between the two. It means that we are now restricted to using XHTML, not necessarily a bad thing, but worth remembering since MVC does allow us fine grained control over the (X)HTML.</p>

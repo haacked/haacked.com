@@ -1,0 +1,5 @@
+id: dsq-747526172
+date: 2008-08-24T18:21:03.0000000-07:00
+name: Sean Chambers
+avatar: https://disqus.com/api/users/avatars/Sean Chambers.jpg
+message: <p>I have to agree with Scott Reynolds here and say that the second option is alot more descriptive than the first.<br>Although, I feel that the BDD type stuff is still evolving and finding its way. I don't really have enough experience with it to have a rock solid opinion, but I still find the SpecUnit stuff still seems to be more indicative of my assertion intent than grouping them under one "Specification" and letting xUnit sort them out. It seems kind of messy to me.<br>Like I said, I don't have enough experience yet with BDD to really have an opinion so just ignore me =)</p>

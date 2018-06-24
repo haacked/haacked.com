@@ -1,0 +1,6 @@
+id: dsq-825836538
+replyToId: dsq-747522020
+date: 2013-03-11T11:41:47.0000000-07:00
+name: plus-user
+avatar: https://disqus.com/api/users/avatars/plus-user.jpg
+message: <p>I agree 1000% with the question "why validate?" It's a waste of time. If it bounces, it wasn't valid. Validation does not prevent the problem of someone's email going to someone else because that wrong address will ALSO pass validation tests.</p><p>You will also find that most of the sites that validate incorrectly send a validation link to that email address. So, not only do they incorrectly validate email addresses by a regex, they do the right thing in the end by sending an email to see if it gets through. Why validate by regex when you do it the right way in the end anyway? </p>

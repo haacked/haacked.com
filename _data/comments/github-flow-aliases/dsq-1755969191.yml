@@ -1,0 +1,5 @@
+id: dsq-1755969191
+date: 2014-12-23T04:23:34.0000000-08:00
+name: Avi Haiat
+avatar: https://disqus.com/api/users/avatars/thaiat.jpg
+message: <p>Great aliases, i use them all the time, and the workflow is a breeze.<br>But the git bclean command is giving an error (illegal --r options) on macos. Do you have a compatible alias, it is a pain to delete manually the local branches after a PR merge....</p>

@@ -1,0 +1,5 @@
+id: dsq-747511802
+date: 2005-05-12T12:28:00.0000000-07:00
+name: Jason
+avatar: https://disqus.com/api/users/avatars/Jason.jpg
+message: <p>If you're not setup as a dev sourceforge user, you can just login with anonymous@cvs.sourceforge.net and get the sources.<br><br><br><br>We use CVS at work, and most of us use WinCVS. Lately I've been dissatisfied with what WinCVS gives me, and I've moved over to TortoiseCVS because it abstracts away a lot of the bullshit that WinCVS throws at you with tagging and updating.<br><br><br><br>I've never used sourcesafe, so whenever I hear about what one has to do to dev with it, I shudder with fear. "Please don't make use SourceSafe. Anything but that!"<br><br><br><br>If you're more the book type rather than the screen type, there's Essential CVS by Jennifer Vesperman, published by O'Reilly. It's pretty decent. It'll give you what's really going on under the covers with all the CLI commands.</p>

@@ -1,0 +1,5 @@
+id: dsq-747525909
+date: 2008-08-04T00:36:21.0000000-07:00
+name: Mike Swaim
+avatar: https://disqus.com/api/users/avatars/Mike Swaim.jpg
+message: <p>Thus pointing out that unit tests aren't a silver bullet. You also need integration tests. (I had code break when we went from SQL Server 2000 to 2005. Fortunately, I had test code that caught it.)</p>

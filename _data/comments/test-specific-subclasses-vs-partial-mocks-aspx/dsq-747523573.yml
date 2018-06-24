@@ -1,0 +1,5 @@
+id: dsq-747523573
+date: 2007-12-12T13:54:52.0000000-08:00
+name: Alex McMahon
+avatar: https://disqus.com/api/users/avatars/Alex McMahon.jpg
+message: <p>Very interesting, I recently wrote a blog post about how to test private methods on abstract classes using a combination of Partial Mocks, and the dubious MS Private accessors.<br><a href="http://icoder.wordpress.com/2007/11/29/using-rhino-mocks-to-test-private-methods-on-an-abstract-class/" rel="nofollow noopener" title="http://icoder.wordpress.com/2007/11/29/using-rhino-mocks-to-test-private-methods-on-an-abstract-class/">http://icoder.wordpress.com...</a><br>Where possible I avoid doing "test specific subclass" as I just find it really unreadable, and I find it hard to concentrate on which methods I am testing and which ones I'm overriding etc. Partial mocks (in general) lead to better readability IMO.</p>

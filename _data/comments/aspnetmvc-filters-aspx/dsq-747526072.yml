@@ -1,0 +1,5 @@
+id: dsq-747526072
+date: 2008-08-14T01:07:23.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@tgmdbm that's not true. You don't have to implement FilterAttribute. You can simply inherit from Attribute <strong>and</strong> one of the filter interfaces in CodePlex Preview 4.</p>

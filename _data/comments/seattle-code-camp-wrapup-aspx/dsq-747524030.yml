@@ -1,0 +1,5 @@
+id: dsq-747524030
+date: 2008-02-01T12:30:05.0000000-08:00
+name: Mike Bosch
+avatar: https://disqus.com/api/users/avatars/Mike Bosch.jpg
+message: <p>So I was taking a look at some of your samples.  I see your PostRepository has reads and creates, how would an update be handled in this case?  Let's say a post had comments as well.  I would suspect that, following the same pattern, I might implement a post update like so:<br>UpdatePost(Post post)<br>{<br>            using (BlogDataContext db = CreateDataContext())<br>            {<br>                db.Posts.Attach(post, true);<br>                db.SubmitChanges();<br>            }<br>}<br>But this throws all sorts of nasties...  I would imagine the IPostRepository would have an update method as well - how would that look?</p>

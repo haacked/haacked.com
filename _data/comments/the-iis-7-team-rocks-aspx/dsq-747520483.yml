@@ -1,0 +1,5 @@
+id: dsq-747520483
+date: 2007-08-21T18:13:22.0000000-07:00
+name: RBertora
+avatar: https://disqus.com/api/users/avatars/RBertora.jpg
+message: '<p>Help Please!<br><br>I followed the above suggestions and ran:<br>netsh http show urlacl<br>and found I had:<br>Reserved URL : http://+:80/wsman/<br>and<br>Reserved URL : http://+:80/Temporary_Listen_Address/<br>trying to remove these I get the error:<br>URL reservation delete failed, Error: 5<br>The requested operation requires elevation.<br>Any ideas?<br>Also I have created a new website on Port 8001 (not reserved), and get the same damn error in the browser:<br>Service Unavailable<br>--------------------------------------------------------------------------------<br>HTTP Error 503. The service is unavailable<br>Any ideas?<br>Rob<br><br></p>'

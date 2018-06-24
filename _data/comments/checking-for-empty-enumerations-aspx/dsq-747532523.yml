@@ -1,0 +1,5 @@
+id: dsq-747532523
+date: 2010-06-13T20:14:32.0000000-07:00
+name: Conor
+avatar: https://disqus.com/api/users/avatars/Conor.jpg
+message: <p>I don't think Any() will always return immediately. What if the argument is the result of a Where() call? If it results in an empty list, it will have to iterate all infinite elements...no?</p>

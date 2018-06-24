@@ -1,0 +1,5 @@
+id: dsq-747513334
+date: 2005-11-02T22:05:00.0000000-08:00
+name: Matt Elli
+avatar: https://disqus.com/api/users/avatars/Matt Elli.jpg
+message: <p>Just a thought - you could put all of the code in the .aspx page, rather than using code behinds and stuff. Messy, but it should work without write access...</p>

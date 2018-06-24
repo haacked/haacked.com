@@ -1,0 +1,5 @@
+id: dsq-747513997
+date: 2007-03-31T08:00:30.0000000-07:00
+name: luke
+avatar: https://disqus.com/api/users/avatars/luke.jpg
+message: <p>A slight twist on the tactic could be to encourage authors of complex and/or critical code to add their own review-request comments. It REQUIRES no time on reviewer(s), and it adds only a couple extra seconds for the author (who is already spending time writing the code anyway).<br>Then other engineers see a change notification email with the following:<br>// ****REVIEW****<br>// Please check to see if the following can be simplified<br>They can look it over, and either simplify/fix the code themselves, or send an email, or whatever action time allows.<br>This does rely on having "humble" authors and attentive groups, but it seems those are the best engineers in projects anyway.</p>

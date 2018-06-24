@@ -1,0 +1,5 @@
+id: dsq-747527622
+date: 2009-01-04T20:36:13.0000000-08:00
+name: Mark Cidade
+avatar: https://disqus.com/api/users/avatars/Mark Cidade.jpg
+message: "<p>This version uses parameters of lambda expressions for named arguments:<br><code><br>    static string Format(  this string str<br>                         , params Expression&lt;Func&lt;string,object&gt;[] args)<br>     { var parameters=args.ToDictionary<br>                            ( e=&gt;string.Format(\"{{{0}}}\",e.Parameters[0].Name)<br>                             ,e=&gt;e.Compile()(e.Parameters[0].Name));<br>       var sb = new StringBuilder(str);<br>       foreach(var kv in parameters) <br>        { sb.Replace( kv.Key<br>                     ,kv.Value != null ? kv.Value.ToString() : \"\");   <br>        }       <br>       return sb.ToString();<br>     }<br></code><br>With the above extension you can write this:<br>    <code>var str = \"{foo} {bar} {baz}\".Format(foo=&gt;foo, bar=&gt;2, baz=&gt;new object());</code><br>and you'll get `\"foo 2 System.Object`\".</p>"

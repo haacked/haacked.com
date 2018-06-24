@@ -1,0 +1,5 @@
+id: dsq-747524771
+date: 2008-04-09T05:01:12.0000000-07:00
+name: Owen Evans
+avatar: https://disqus.com/api/users/avatars/Owen Evans.jpg
+message: <p>I post in a separate assembly for one reason, to remove reliance on Nunit/mbunit/nspecify assemblies, which has bitten me before when it came to deployment.<br>Also i will generally add an assembly:InternalsVisibleTo so that i can test internal methods, which is one of the reasons I used to have tests in the same assembly.<br>Cheers<br>O</p>

@@ -1,0 +1,5 @@
+id: dsq-747534207
+date: 2011-01-15T00:44:52.0000000-08:00
+name: Matthew Hintzen
+avatar: https://disqus.com/api/users/avatars/Matthew Hintzen.jpg
+message: "<p>More information on the <a href=\"http://T4MVC.tt\" rel=\"nofollow noopener\" title=\"T4MVC.tt\">T4MVC.tt</a> error during build: Error 12 The type 'System.Web.WebPages.Razor.WebRazorHostFactory' is defined in an assembly that is not referenced.<br>This seems to only show up when you have set &lt;MvcBuildViews&gt;true&lt;/MvcBuildViews&gt; in the project file.  Either set the value to false (or delete it) from the csproj file or add a reference to the .dll (depending on which work around seems \"correct\" to you)</p>"

@@ -1,0 +1,5 @@
+id: dsq-747536442
+date: 2011-10-25T00:03:11.0000000-07:00
+name: Joshua Shannon
+avatar: https://disqus.com/api/users/avatars/Joshua Shannon.jpg
+message: <p>I always thought you could stack delegates the same way you stack events (Events are a just a specialized delegate form as I recall with some syntactic sugar). I'm almost certain I've done this in the past.<br><a href="http://msdn.microsoft.com/en-us/library/ms173175(v=vs.80).aspx" rel="nofollow noopener" title="http://msdn.microsoft.com/en-us/library/ms173175(v=vs.80).aspx">Combining delegates on MSDN</a><br>so you could just do <code>config.RequestHandlers += ...</code>???</p>

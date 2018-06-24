@@ -1,0 +1,5 @@
+id: dsq-747535606
+date: 2011-07-13T22:07:57.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@ChrisC we are considering making Recipes part of NuGet instead of MVC so it can be exposed to more than just ASP.NET MVC.<br>I saw a comment that described recipes as "Wrapping a UI around a command line.". That's not the goal nor purpose of recipes.<br>Think of it more as the modularization of our tooling. For example, when you install ASP.NET MVC, we install one big tool for ASP.NET MVC which includes:<br>* Add Controller<br>* Add View<br>* Scaffolding<br>* etc.<br>Instead, each of these things could have been implemented as Recipes. That would allow you to pick the ones you care about. Or even better, allow you to swap out our built-in ones for better implementations.</p>

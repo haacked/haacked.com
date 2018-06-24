@@ -1,0 +1,5 @@
+id: dsq-747515553
+date: 2006-06-30T19:11:00.0000000-07:00
+name: Craig
+avatar: https://disqus.com/api/users/avatars/Craig.jpg
+message: "<p>Phil: Don't do it! I put msdnman there, and while it's a nice site, it's not ready for big projects. You'll find the command-line SCC painful to work with, as it requires authentication at every operation. You can automate this for yourself, but then what do anonymous users do? Plus, as you point out, the lack of anything like Tortoise (yet) means you get to choose between VSS integration (which works nicely, but screws anyone who wants to fire up the project) or command-line, which ain't great. <br>Add to that the fact that there's no email support in the site (no lists, no emailing when bugs are submitted) and you're left with the fact that SF is just better right now. Sure, CodePlex has RSS, but it's really not the same thing, IMO. <br>I have friends on the CodePlex team, so I'd really like to recommend it, but they need to do at least one more major release (or a bunch of small ones) before it's ready for prime time. <br>Anyway, that's my two cents.</p>"

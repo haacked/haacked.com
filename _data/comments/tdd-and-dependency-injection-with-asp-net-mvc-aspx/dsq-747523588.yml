@@ -1,0 +1,5 @@
+id: dsq-747523588
+date: 2007-12-08T03:31:36.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Sean - thanks for the feedback. Yep, I've heard a lot about the [ControllerAction] attribute from some people. Rather than attempt to address it everytime it comes up, I'll write a blog post that addresses that single item. <br>Keep in mind though, we'd love to hear feedback on other areas of the framework. It seems that one thing gets a disproportionate amount of attention. I have to say, if that's the only thing we get "wrong", then I'm happy. But I would bet there are bigger things we missed and I hope to hear feedback on them when the CTP is released.</p>

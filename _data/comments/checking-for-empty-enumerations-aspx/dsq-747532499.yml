@@ -1,0 +1,5 @@
+id: dsq-747532499
+date: 2010-06-09T21:02:47.0000000-07:00
+name: chublogga
+avatar: https://disqus.com/api/users/avatars/chublogga.jpg
+message: <p>I came up with some other extension methods to circumvent having to count the entire enumeration when comparing numbers:<br><code><br>public static bool CountGreaterThanOrEqualTo&lt;T&gt; (this IEnumerable&lt;T&gt; items, int numItems)<br>{<br>if (numItems &lt; 0) throw new ArgumentOutOfRangeException ("numItems must be &gt;= 0");<br>if (numItems == 0) return true;<br>int count = 0;<br>foreach (var item in items)<br>{<br>count++;<br>if (count &gt;= numItems) return true;<br>}<br>return false;<br>}<br></code></p>

@@ -1,0 +1,5 @@
+id: dsq-747508128
+date: 2004-04-24T01:59:00.0000000-07:00
+name: nospamplease75@yahoo.com (Haac
+avatar: https://disqus.com/api/users/avatars/nospamplease75@yahoo.com (Haac.jpg
+message: <p>I have a few ideas on how to limit a ratings flood. It would be difficult to fully stop a ratings flood by a determined attacker.<br><br><br><br>For instance, someone could write an app to just screen scrape your blog and post ratings indiscriminately, ignoring cookies your site drops.<br><br><br><br>The main recourse I can think of is to throttle the number of ratings from an IP Address within a specific time period.  We all know that AOL re-uses IP addresses, but the likelihood that two separate ratings will come from the same IP address within, say, an hour is low enough.<br><br><br><br>If you want to get extreme, there could be an option to require a valid e-mail address or a blog engine that supports the RatingAPI.  So if user rates my blog entry, the rating doesn't show up until the user confirms the rating via email, or my blog confirms his blogs support of the ratingAPI.  Most people won't need this kinda paranoia.</p>

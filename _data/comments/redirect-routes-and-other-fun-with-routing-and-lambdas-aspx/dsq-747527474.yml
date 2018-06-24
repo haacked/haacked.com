@@ -1,0 +1,5 @@
+id: dsq-747527474
+date: 2008-12-16T00:01:09.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Bryan you can actually use it that way. The reason I chose to implement another class was to use the DelegateRouteHandler directly, you need to pass a lambda, which itself takes in a lambda.<br>Nested lambdas are hard to format in such a way that your head doesn't spin in circles. :)</p>

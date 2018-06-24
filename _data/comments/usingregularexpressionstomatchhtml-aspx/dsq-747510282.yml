@@ -1,0 +1,5 @@
+id: dsq-747510282
+date: 2011-10-09T20:40:10.0000000-07:00
+name: Norman
+avatar: https://disqus.com/api/users/avatars/Norman.jpg
+message: <p>New adjustment, for first attr with ":" (xmlns:html=".....")<br>&lt;/?\w+((\s+[\w-:]+(\s*=\s*(?:".*?"|'.*?'|[^'"&gt;\s]+))?)+\s*|\s*)/?&gt;<br>In java (only open tags):<br>String pattern = "&lt;(\\w+)((\\s+[\\w-:]+(\\s*=\\s*(?:\".*?\"|'.*?'|[^'\"&gt;\\s]+))?)+\\s*|\\s*)/?&gt;";<br>In java (all tags):<br>String pattern = "&lt;/?(\\w+)((\\s+[\\w-:]+(\\s*=\\s*(?:\".*?\"|'.*?'|[^'\"&gt;\\s]+))?)+\\s*|\\s*)/?&gt;";<br></p>

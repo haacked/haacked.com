@@ -1,0 +1,5 @@
+id: dsq-747532562
+date: 2010-06-16T21:54:32.0000000-07:00
+name: James Hare
+avatar: https://disqus.com/api/users/avatars/James Hare.jpg
+message: "<p>@Colin: I used to feel the same way about var, but now I love it.  It's just way to redundant to always have to write stuff like:<br>SomeBigClassName myVar = new SomeBigClassName();<br></p>"

@@ -1,0 +1,5 @@
+id: dsq-747532487
+date: 2010-06-09T17:11:19.0000000-07:00
+name: Michael Meadows
+avatar: https://disqus.com/api/users/avatars/Michael Meadows.jpg
+message: <p>You might consider flipping the extension method. Instead of IsNullOrEmpty, use HasValues. This creates less double negatives in your code.</p>

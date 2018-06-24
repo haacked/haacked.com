@@ -1,0 +1,5 @@
+id: dsq-747531260
+date: 2010-01-01T14:02:28.0000000-08:00
+name: Adam
+avatar: https://disqus.com/api/users/avatars/Adam.jpg
+message: <p>Looks cool but this means you have to wire the insert up as well when they click undo doesn't it?<br>And you would have store retrieve all data, even stuff that doesn't get displayed like created_date etc.<br></p>

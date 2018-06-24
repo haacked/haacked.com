@@ -1,0 +1,5 @@
+id: dsq-747522808
+date: 2007-09-24T00:09:59.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Howard, well making sure the code is well factored also takes time. And no matter what, I guarantee you that when you need to make a small change to a codebase, it's a *lot* faster to be able to make that change when you have a decent suite of automated regression tests. Even in "well factored" code.<br>How many times have you approached a codebase that was so well factored that you could make a change and have a high degree of confidence you didn't affect other code bases. Unit tests are no panacea, but they do provide confidence.</p>

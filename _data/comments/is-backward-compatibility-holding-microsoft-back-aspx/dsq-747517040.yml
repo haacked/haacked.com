@@ -1,0 +1,5 @@
+id: dsq-747517040
+date: 2006-10-01T09:40:06.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>The primary complaint I'm hearing about using a VM is from mobile device developers and people doing low-level, driver development. Virtual PC/VMWare do not do a very good job virtualizing USB and other device ports apparently and it means they have to try and migrate all of their projects to VS 2005. <br>My only option for the single VS 2003 web site I have to support is a re-write. It was badly architected and porting it to ASP.NET 2.0 will require about as much time as a full re-write.</p>

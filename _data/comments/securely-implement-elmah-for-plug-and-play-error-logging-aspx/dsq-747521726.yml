@@ -1,0 +1,5 @@
+id: dsq-747521726
+date: 2007-07-24T21:56:27.0000000-07:00
+name: Joe
+avatar: https://disqus.com/api/users/avatars/Joe.jpg
+message: <p>We're using a similar (although home grown) technique on my current project, but expose the errors as a (locked down) rss feed that all the developers subscribe to. This has the benefit of letting us know pretty quickly if bad code makes it past our tests and actually gets into production.</p>

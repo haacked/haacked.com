@@ -1,0 +1,5 @@
+id: dsq-747524879
+date: 2011-09-12T16:32:42.0000000-07:00
+name: Tridip
+avatar: https://disqus.com/api/users/avatars/Tridip.jpg
+message: <p>regarding Upcoming Changes In Routing will be possible from which version. i am working with <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> 4.0 but when i try to implement the routing pattern like <br>1) {param1}.{ext}/{param3}-{param4}<br>2) /{path*}.{extension}<br>but i got error. page not found. so please guide me from which version i we can use the above pattern. thanks<br></p>

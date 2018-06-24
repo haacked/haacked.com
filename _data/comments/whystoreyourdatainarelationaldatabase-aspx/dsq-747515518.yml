@@ -1,0 +1,5 @@
+id: dsq-747515518
+date: 2006-06-29T14:07:00.0000000-07:00
+name: Simone Chiaretta
+avatar: https://disqus.com/api/users/avatars/Simone Chiaretta.jpg
+message: "<p>Phil: I think moving to an ORM will make SubText compatible \"out-of-the-box\" with many DB engine.<br>And will simplify the current ObjectProvider + DbProvider implementation.<br>BTW: I've quite a good knowledge of NHiberanate, and a friend of mine (in the ugi group) is a sort of NHibernate MVP.</p>"

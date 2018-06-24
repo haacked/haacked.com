@@ -1,0 +1,5 @@
+id: dsq-747520715
+date: 2007-05-29T21:48:09.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Barry,Carl - But constructs like ++ make up a small percentage of the actual code.<br>Go over the best OO code you've written. Is it chock full of "++", "+=" or is it full of things like:<br>customer.PlaceOrder(); (or order.Place(customer);)<br>SpamFilter.Filter(comment);<br>Approve(message);<br>shape.Rotate(20, -1).Shear(1.5, 1);<br>More than you "think in the language", you "think in the abstraction".</p>

@@ -1,0 +1,5 @@
+id: dsq-747522060
+date: 2007-09-05T01:57:33.0000000-07:00
+name: Joe Cheng [MSFT]
+avatar: https://disqus.com/api/users/avatars/Joe Cheng [MSFT].jpg
+message: <p>Don't forget comments (which can nest). RFC2822 section A.5 has this lovely (valid) example:<br>Pete(A wonderful \) chap) &amp;lt;pete(his account)@silly.test(his host)&amp;gt;<br>I don't think it's possible to fully parse RFC2822 addresses with regex (at least not without some nesting mechanism, like [only?] .NET has). I personally had to use JavaCC/jjtree.<br><a href="http://svn.apache.org/viewvc/james/mime4j/trunk/src/main/jjtree/org/apache/james/mime4j/field/address/AddressListParser.jjt?view=markup" rel="nofollow noopener" title="http://svn.apache.org/viewvc/james/mime4j/trunk/src/main/jjtree/org/apache/james/mime4j/field/address/AddressListParser.jjt?view=markup">http://svn.apache.org/viewv...</a></p>

@@ -1,0 +1,5 @@
+id: dsq-747521169
+date: 2007-06-15T23:07:54.0000000-07:00
+name: Ben Rogers
+avatar: https://disqus.com/api/users/avatars/Ben Rogers.jpg
+message: <p>I have to agree with Scott. The div tag is semantically neutral. That's the whole reason it exists. It really seems counter intuitive to me to say "I want all the generic block level elements on my page to have a padding of five pixels". Such tags are generic, so how could I possibly know what padding to apply to them? Only once I identify an element by assigning it a specific ID or set of classes will I be able to communicate how I want to display it. It takes that explicit association.<br>Applying styles to all div (or span) tags seems awfully fragile to me. HTML injected into a page via JavaScript libraries such as mapping or ad serving providers could inadvertently affect the layout of your page at runtime. From the library designer's standpoint, they are injecting semantically neutral elements, but you've applied a style to such elements, thereby eliminating their neutrality.</p>

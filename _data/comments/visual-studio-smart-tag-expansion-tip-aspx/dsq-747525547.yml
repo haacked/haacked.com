@@ -1,0 +1,5 @@
+id: dsq-747525547
+date: 2008-06-23T03:16:07.0000000-07:00
+name: mark
+avatar: https://disqus.com/api/users/avatars/mark.jpg
+message: <p>cool, one shortcut i always wonder about is how to auto-populate the list of event handlers in a <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> control tag.<br>ie:<br>&lt;asp:button onclick="{auto-populate this}"/&gt;<br></p>

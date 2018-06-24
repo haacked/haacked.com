@@ -1,0 +1,5 @@
+id: dsq-747526238
+date: 2008-08-29T01:05:30.0000000-07:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>I think RenderPartial deserves a big write up from you or ScottGu or whoever is best qualified. The reason is because it is the third version of 'user controls' that you tried. Of course, we see more because you release more, so we see early builds. But I want to know if this is the way it's going to be in the future, or will it change again. Also, a really detailed explanation of how you got there. I never quite understood why the previous versions were dropped, I couldn't get my head around the cons that I saw posted on the forums.<br>I also gor interested in Ruby on Rails and noticed that they had a similar 'problem'. They have dropped support for one way of doing partials even after v1. So, is this problem just not well understood in web MVC type 2 frameworks? I mean, if the Rails guys and even Microsoft struggles with it, is it that big of a challenge?<br>Thanks!</p>

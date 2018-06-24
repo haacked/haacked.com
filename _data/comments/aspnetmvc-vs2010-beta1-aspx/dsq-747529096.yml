@@ -1,0 +1,5 @@
+id: dsq-747529096
+date: 2009-05-18T21:27:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@BB If you remove the ProjectTypeGuid, you will lose the tooling support. When we add the tooling support back in, you can add the GUID back in and the tooling support will work.<br>If you work on a current MVC project (aka MVC 1.0) using VS10, make sure you're targetting the 3.5 framework and you should be fine.</p>

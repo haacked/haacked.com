@@ -1,0 +1,5 @@
+id: dsq-747516816
+date: 2006-09-20T07:40:19.0000000-07:00
+name: aaron
+avatar: https://disqus.com/api/users/avatars/aaron.jpg
+message: <p>or you could just type this in the shell and save some HD space/time:<br>FOR %A in (*.prc) do svn rename %~nA.prc %~nA.sql</p>

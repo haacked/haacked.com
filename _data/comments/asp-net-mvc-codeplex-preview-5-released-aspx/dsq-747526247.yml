@@ -1,0 +1,5 @@
+id: dsq-747526247
+date: 2008-08-29T19:20:05.0000000-07:00
+name: shawn
+avatar: https://disqus.com/api/users/avatars/shawn.jpg
+message: <p>@Derik<br>Replace &lt;%=Html.RenderUserControl("foo.aspx",model)<br>with<br>&lt;%Html.RenderParital("Foo")</p>

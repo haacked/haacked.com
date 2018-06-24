@@ -1,0 +1,5 @@
+id: dsq-747527919
+date: 2009-02-02T06:23:45.0000000-08:00
+name: Mark
+avatar: https://disqus.com/api/users/avatars/Mark.jpg
+message: '<p>Still think css is the way to go...<br><code><br>&lt;form method="post" action="/go/delete/1" <br>  class="delete-link"&gt;<br>  &lt;input type="submit" class="delete" value="delete" /&gt;<br>  &lt;input name="__RequestVerificationToken" type="hidden" <br>  value="Jrcn83M7T...8Z6RkdIfMZIJ5mVb" /&gt;<br>&lt;/form&gt;<br>&lt;style &gt;<br>   input.delete {  border: none; background: none; color: Blue; padding: 0; margin: 0; cursor: pointer; }<br>&lt;/style&gt;<br></code><br></p>'

@@ -1,0 +1,5 @@
+id: dsq-975715278
+date: 2013-07-25T04:37:19.0000000-07:00
+name: thomen
+avatar: https://disqus.com/api/users/avatars/thomen.jpg
+message: <p>Hi I was just wondering if you had a suggested approach for the scenario where a user can pick a subdomain name and then do some theming based on that subdomain in mvc4? would RouteMagic route based on subdomain or would it more be an issue of selecting a theme based on the user's subdomain via some kind of routing of the incoming request?</p><p>Cheers,<br>Tom</p>

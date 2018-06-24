@@ -1,0 +1,5 @@
+id: dsq-747507650
+date: 2008-06-26T07:09:14.0000000-07:00
+name: Shin
+avatar: https://disqus.com/api/users/avatars/Shin.jpg
+message: <p>This is great!!<br>I have an answer for PJ's question to count each phone number.  I needed to do the same and I modified a little. It worked.<br>Make sure the records are sorted by Phone Number.<br>Then declare Phone Number variable.<br>Delcare @intCounter<br>Declare @strPhone varchar(12)<br>Update X<br>Set @intCounter = counter = Case When @strPhone &lt;&gt; Phone Then 0 Else @intCounter End + 1, @strPhone = Phone<br>From MyTable X<br>Updating the Phone field is redundant but it allows to store the value in the memory.</p>

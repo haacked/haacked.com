@@ -1,0 +1,5 @@
+id: dsq-747510260
+date: 2009-03-27T11:43:01.0000000-07:00
+name: Black
+avatar: https://disqus.com/api/users/avatars/Black.jpg
+message: <p>I want to get content between this text, but I don't know how to get it by regular<br>&lt;helloworld&gt;<br>thifkdslaj<br>fdskjaflksdj<br>fasjlk&amp;8*()*$)#(<br>$*())(#<br>&lt;/helloworld&gt;<br>So, how can I get content between helloworld tag by Regular Expression?Because between them, there are a lot of line break<br>and the text which I have is too big+long,so I cann't use replace function<br>thanks<br>thanks</p>

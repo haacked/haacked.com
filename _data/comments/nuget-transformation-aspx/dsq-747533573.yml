@@ -1,0 +1,5 @@
+id: dsq-747533573
+date: 2010-11-22T00:44:53.0000000-08:00
+name: Jeroen Trappers
+avatar: https://disqus.com/api/users/avatars/Jeroen Trappers.jpg
+message: <p>Hi Phil,<br>I saw a presentation about this at Tech-Ed Berlin. I really like it, however something is missing concerning source-control. The linked external libraries should be put in a solution folder for them to be checked in. Otherwise other team members wouldn't get the new references, and run into compilation issues.<br>It this the responsibility of the framework, the nuget-package creators or that of the users?<br>Kind regards,<br>Jeroen</p>

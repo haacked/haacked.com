@@ -1,0 +1,5 @@
+id: dsq-747537665
+date: 2012-03-11T17:49:33.0000000-07:00
+name: Josh Carroll
+avatar: https://disqus.com/api/users/avatars/technofattie.jpg
+message: <p>Nice! Big kudos to you and others on a job well done.<br>I did something similar to this for Structure map so I could use the same container for the Dependency Resolvers used in WebApi, MVC, and SignalR.<br>It's nice to see this kind of pattern start to make it's way into more and more libraries by default. I'm wondering if we are starting to see the beginnings of "standard" interfaces in software development. It's an interesting idea anyway...</p>

@@ -1,0 +1,5 @@
+id: dsq-1285575011
+date: 2014-03-15T02:10:05.0000000-07:00
+name: Sudharsan
+avatar: https://disqus.com/api/users/avatars/Sudharsan.jpg
+message: <p>I am getting error in this line " Account account = _context.Accounts.First(a =&gt; a.Username == username); "  The error is:InvalidOperationException was unhandled by use code. Could you please let me know how to rectify it.</p>

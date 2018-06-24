@@ -1,0 +1,5 @@
+id: dsq-747530703
+date: 2009-12-19T00:51:59.0000000-08:00
+name: John C
+avatar: https://disqus.com/api/users/avatars/John C.jpg
+message: <p>Thanks for the great post!  Just one question - how do I make the custom validation javascript work with the Jquery validator?  It says the Sys object is not found (I assume its part of the MicrosoftMvcValidation.js?</p>

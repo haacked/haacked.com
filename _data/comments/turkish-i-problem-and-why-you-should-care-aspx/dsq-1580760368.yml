@@ -1,0 +1,5 @@
+id: dsq-1580760368
+date: 2014-09-09T05:06:28.0000000-07:00
+name: Kresten Birkegaard Gregersen
+avatar: https://disqus.com/api/users/avatars/krestenbirkegaardgregersen.jpg
+message: <p>Hi and thanks for the article. <br>I stumbled on it while investigating an issue with our <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> web application, and thought I would share my findings.<br>The issue only occurred when the language was set to tr-TR.<br>The issue is in regards to accessing data in a DataRowView in a DataView. Here is a simple version of the code:<br>DB:<br>select 1 as index --note the lower case i</p><p>c#<br>foreach (DataRowView r in dv)<br>{<br>return r.Row["Index"]; //note the capital I<br>}</p><p>The above works for en-GB and others, but not for tr-TR. Changing the i/I in the DB or c# so the case matches resolves the issue.<br>Unfortunately there does not seem to be a way to control the way the .Row["xxxx"] does its string compression, which I guess it must do, otherwise it should not work for en-GB either...</p>

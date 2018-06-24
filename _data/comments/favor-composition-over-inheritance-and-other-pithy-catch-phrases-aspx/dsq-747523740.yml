@@ -1,0 +1,5 @@
+id: dsq-747523740
+date: 2007-12-10T16:19:34.0000000-08:00
+name: Damien Guard
+avatar: https://disqus.com/api/users/avatars/Damien Guard.jpg
+message: '<p>I wish .NET better supported composition by letting you wire up your interface declaration to a private instance variable for all non-defined methods/properties of that interface.<br>I <a href="http://damieng.com/blog/2007/08/06/multiple-inheritance-composition-and-single-responsibility-principle-in-net" rel="nofollow noopener" title="http://damieng.com/blog/2007/08/06/multiple-inheritance-composition-and-single-responsibility-principle-in-net">wrote a post about it (right at the end)</a>.<br>The jist of the syntax would be something like:<br><code><br>public class CustomerPriceList : IList&lt;ProductPrice&gt; goto productPrice<br>{<br>    private IList&lt;ProductPrice&gt; productPrice = new IList&lt;ProductPrice)();<br>    public Customer Customer;<br>}<br></code><br>[)amien</p>'

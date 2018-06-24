@@ -1,0 +1,5 @@
+id: dsq-747524913
+date: 2008-04-19T03:09:16.0000000-07:00
+name: Dan Finch
+avatar: https://disqus.com/api/users/avatars/Dan Finch.jpg
+message: <p>I agree - this has been on my mind alot. I recently tried to bake my own <strike>angle-bracket generator</strike> end-all distributed web application framework and full-featured content management system, and I started with configuration. After failing hard and I came to the conclusion that I should use "startup scripts" during major development and then write configuration after and only after everything which can be done with configuration can also be done in code. This is where WCF wins my heart - configuration, as prevalent as it is in WCF, is little more than a startup script.</p>

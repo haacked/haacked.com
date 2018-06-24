@@ -1,0 +1,5 @@
+id: dsq-747523394
+date: 2007-11-16T01:52:38.0000000-08:00
+name: Troy DeMonbreun
+avatar: https://disqus.com/api/users/avatars/Troy DeMonbreun.jpg
+message: <p>I, for one, have met and read (via blogs, mostly) of many silver-bullet seeking developers who think that unit tests validate "code correctness".  That may not be true in your particular developer microcosm, but for the multitudes of developers not closely or semi-closely networked with MS, ALT.NET, MVPs, and other high-profile/top-10% talent, I see them mistakenly groking TDD and 100% code coverage as strong proof of a correct application, <em>regardless</em> of the major TDD proponents' intentions or even direct statements to the contrary.</p>

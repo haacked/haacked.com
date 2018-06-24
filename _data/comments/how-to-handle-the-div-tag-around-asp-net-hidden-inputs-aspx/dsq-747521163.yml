@@ -1,0 +1,5 @@
+id: dsq-747521163
+date: 2007-06-15T15:14:30.0000000-07:00
+name: Aaron
+avatar: https://disqus.com/api/users/avatars/Aaron.jpg
+message: "<p>Hi Phil,<br>I've been caught by this before I'm sure - although I generally use a similar markup to the #main example anyway.<br>I also have a rule in my core css file which is:<br><br>-<br>#__VIEWSTATE, #__EVENTVALIDATION<br>{<br>display: none;<br>margin: 0; // not sure why I need this<br>padding: 0; // not sure why I need this<br>}<br>I do have some other css targetting input tags which may have meant I required this, but I can't remember exactly what it fixed [I suspect it was related to this: <a href=\"http://p2p.wrox.com/topic.asp?TOPIC_ID=39527\" rel=\"nofollow noopener\" title=\"http://p2p.wrox.com/topic.asp?TOPIC_ID=39527\">http://p2p.wrox.com/topic.a...</a>].<br>Incidentally, would it be worth sticking a display:none in your rule for the divs ?</p>"

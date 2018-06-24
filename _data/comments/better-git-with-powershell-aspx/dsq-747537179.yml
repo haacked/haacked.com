@@ -1,0 +1,5 @@
+id: dsq-747537179
+date: 2011-12-13T18:04:31.0000000-08:00
+name: Barry
+avatar: https://disqus.com/api/users/avatars/Barry.jpg
+message: <p>Nice.  If you add posh-hg and posh-svn you have to repeat the psget command and then manually add them to your profile, which is just a case of 'notepad $PROFILE'.</p>

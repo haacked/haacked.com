@@ -1,0 +1,5 @@
+id: dsq-747532891
+date: 2010-08-02T20:55:00.0000000-07:00
+name: Andy West
+avatar: https://disqus.com/api/users/avatars/Andy West.jpg
+message: <p>I have to agree with Brian Donahue on this - the first thing that crossed my mind was that this must violate SoC.  If it's view logic, why are you defining it in the controller?  If it's controller logic, then why are you calling it from the view?<br>Some developers want to keep code out of the view at all costs, but I think that's a misguided approach.  There are times when you need it.</p>

@@ -1,0 +1,5 @@
+id: dsq-747525726
+date: 2008-07-14T23:52:59.0000000-07:00
+name: mark
+avatar: https://disqus.com/api/users/avatars/mark.jpg
+message: "<p>Hi, whats the difference from adding and not adding: <br>routes.IgnoreRoute(\"{*allaspx}\", new {allaspx=@\".*\\.aspx(/.*)?\"});<br>when i didn't have that, my .aspx pages still works.<br></p>"

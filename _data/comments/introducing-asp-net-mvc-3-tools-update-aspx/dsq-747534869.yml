@@ -1,0 +1,5 @@
+id: dsq-747534869
+date: 2011-05-18T18:56:43.0000000-07:00
+name: daniel glenn
+avatar: https://disqus.com/api/users/avatars/daniel glenn.jpg
+message: <p>Thanks ? but CDN for Modernizr on <a href="http://ajax.aspnetcdn.com" rel="nofollow noopener" title="ajax.aspnetcdn.com">ajax.aspnetcdn.com</a> is not available?<br>why? special reason ?<br>if (Modernizr != "<a href="http://ajax.aspnetcdn.com" rel="nofollow noopener" title="ajax.aspnetcdn.com">ajax.aspnetcdn.com</a>")<br>{<br>   Console.WriteLine("fail");<br>} else<br>{<br>   Console.WriteLine("sweeeet");<br>}<br>thx man, for your nice work...mvc 3 is sweet.</p>

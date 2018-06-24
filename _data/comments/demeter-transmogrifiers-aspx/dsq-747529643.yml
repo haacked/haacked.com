@@ -1,0 +1,5 @@
+id: dsq-747529643
+date: 2009-08-16T12:29:00.0000000-07:00
+name: Prajwal Tuladhar
+avatar: https://disqus.com/api/users/avatars/Prajwal Tuladhar.jpg
+message: <p>I would rathergive more priority to <a href="http://www.c2.com/cgi/wiki?DoTheSimplestThingThatCouldPossiblyWork" rel="nofollow noopener" title="http://www.c2.com/cgi/wiki?DoTheSimplestThingThatCouldPossiblyWork">www.c2.com/.../wiki</a> than Law of Demeter. <br>And in the above examples, you are using getters. Do getters and setters really expose behavior of any object?  If they would have exposed, why do most unit test experts don't bother testing them?<br>I think, counting dots matter regarding LoD only when you are using methods that are exposing real behavior of any object rather than getters/setters.</p>

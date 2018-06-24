@@ -1,0 +1,5 @@
+id: dsq-1895630861
+date: 2015-03-08T14:34:59.0000000-07:00
+name: Googy
+avatar: https://disqus.com/api/users/avatars/hoosierwranglers.jpg
+message: <p>Too bad, the code in the samples above no longer match the NuGet package and wont compile, there is no RouteTable.Routes.RegisterRoutes() method anymore, not sure what to do now, really needed this too</p>

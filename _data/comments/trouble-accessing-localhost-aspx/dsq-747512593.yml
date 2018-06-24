@@ -1,0 +1,5 @@
+id: dsq-747512593
+date: 2007-05-30T03:33:53.0000000-07:00
+name: Alex Lee
+avatar: https://disqus.com/api/users/avatars/Alex Lee.jpg
+message: <p>I was able to get IIS 7 to work on my Vista by going to Services Under Computer Management and enabling World Wide Web Publishing Service. (It was disabled by default)</p>

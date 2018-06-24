@@ -1,0 +1,5 @@
+id: dsq-747532475
+date: 2010-06-09T13:57:26.0000000-07:00
+name: Michael Stum
+avatar: https://disqus.com/api/users/avatars/Michael Stum.jpg
+message: "<p>Any should definitely be a must-know for every .net Developer, but there is one caveat to add: Iterating over a \"volatile\" collection (A collection that can only ever move forward, never backward, for example an IEnumerable on top of a network stream) means that you \"lose\" the first element after the call to any. Arguably, those cases are really rare and devs who are working with it will likely know about it, but it might be helpful to keep in mind.<br>Unless I'm completely wrong of course, in which case it's even more important to point out :)</p>"

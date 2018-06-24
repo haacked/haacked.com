@@ -1,0 +1,5 @@
+id: dsq-747513347
+date: 2006-10-17T19:51:13.0000000-07:00
+name: Dust
+avatar: https://disqus.com/api/users/avatars/Dust.jpg
+message: <p>I've found that developers who are weaker in SQL, or have grown up in modern forerunner entry level databases (like MS SQL) often gravitate towards doing everything in SPs because they simply don't understand / aren't comfortable with SQL.<br>Comments like a dynamic statement might not get optimized? Oh please tell me that you don't actually get paid for your technical input on such issues!! lol<br>The fact of the matter is that there is almost no difference between using "dynamic" parameterized SQL and using SQL in a SP. Furthmore, shoddy SP scripting by shoddy developers often ends up in SPs that do more parser context switching than actual work. <br>My two cents... if you know what you're doing, and you're not just spewing up tired edict from some best practices magizine you read once but never questions, you should have all the tools you need in your head to understand which method will server you best in whatever situation.<br></p>

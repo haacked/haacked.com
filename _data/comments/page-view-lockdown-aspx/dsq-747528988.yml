@@ -1,0 +1,5 @@
+id: dsq-747528988
+date: 2009-05-06T15:03:00.0000000-07:00
+name: Sean
+avatar: https://disqus.com/api/users/avatars/Sean.jpg
+message: <p>I can't help thinking when I read this that the type should never have been internal to start with. I get that you say it's an implementation detail, but it's one that takes an extensibility point from ASP.NET and breaks it.<br>Given that the major selling point is that ASP.NET MVC doesn't try to hide the implementation details of how the web works, why would you try to tuck these little corners out of view from the type of person who wants full control in the first place?</p>

@@ -1,0 +1,5 @@
+id: dsq-747526130
+date: 2008-08-22T04:36:09.0000000-07:00
+name: Andrei Rînea
+avatar: https://disqus.com/api/users/avatars/Andrei_Rinea.jpg
+message: <p>I am not very educated in the (D)DoS area but I guess you could very well study the behavior of a site and learn which requests take the longest time. These might be requests that take a lot of CPU and/or RAM and/or other resources (Network I/O, Disk I/O etc.)<br>Then you might pound the site from multiple IPs for these certain requests and peg the CPU for a while (until your IPs get banned or sth...)<br>Phil, maybe you could delight us with a post regarding how (D)DoS's work and how we can efficiently protect against them.<br>Thanks,<br>Andrei.</p>

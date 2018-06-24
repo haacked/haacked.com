@@ -1,0 +1,5 @@
+id: dsq-747535470
+date: 2011-06-17T05:59:54.0000000-07:00
+name: Mike Brown
+avatar: https://disqus.com/api/users/avatars/Mike Brown.jpg
+message: <p>Really excited about this. Nuget makes going from zero to fully working web app a breeze.<br>install-package entityframework<br>install-package MVCScaffolding<br>install-package SqlCompactEdition<br>Define my domain model and my secret sauce Scaffolding templates and boom boom boom. Add in some appharbor love with bitbucket and you've got a deployed app with continuous deployment in 10 minutes.</p>

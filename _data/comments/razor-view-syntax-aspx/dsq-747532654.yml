@@ -1,0 +1,5 @@
+id: dsq-747532654
+date: 2010-10-04T22:31:00.0000000-07:00
+name: marius
+avatar: https://disqus.com/api/users/avatars/marius.jpg
+message: <p>hi phil,<br>is there a way to specify the &amp;lt;% Assembly Name="xxx" &amp;gt; declaration in razor?!<br>something like this...<br>@assembly.Name="Sample" <br>@assembly.Name "Sample"<br>@assembly.Name Sample<br>@assembly Sample <br>@assembly "Sample" <br>note! i don't mean the &amp;lt;% import aka @using declaration<br>(assembly not the namespace)</p>

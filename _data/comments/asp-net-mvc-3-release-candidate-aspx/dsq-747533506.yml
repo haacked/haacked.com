@@ -1,0 +1,5 @@
+id: dsq-747533506
+date: 2010-11-09T13:05:58.0000000-08:00
+name: Erx
+avatar: https://disqus.com/api/users/avatars/Erx.jpg
+message: <p>Just to be clear, the problem I described is an issue when making ajax requests from client and wanting to update several different areas/divs of a web page, say, one div on the top of the page and one on the bottom. You could of course return it in one update and return the two areas and everything in between, but this would just defeat the purpose of Ajax and having partials - I just wanted to clarify the problem I was describing better, I hope I have, thanks.<br>Will this be happening for mvc3 at some stage?<br></p>

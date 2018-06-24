@@ -1,0 +1,5 @@
+id: dsq-747508239
+date: 2004-06-01T23:57:00.0000000-07:00
+name: Lance Olson
+avatar: https://disqus.com/api/users/avatars/Lance Olson.jpg
+message: <p>You can turn off the HttpWebRequest 100 continue behavior using the System.Net.ServicePointManager.Expect100Continue property.<br><br><br><br>-Lance</p>

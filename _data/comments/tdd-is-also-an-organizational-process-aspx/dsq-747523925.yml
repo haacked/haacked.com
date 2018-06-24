@@ -1,0 +1,5 @@
+id: dsq-747523925
+date: 2008-01-15T03:52:55.0000000-08:00
+name: Troy DeMonbreun
+avatar: https://disqus.com/api/users/avatars/Troy DeMonbreun.jpg
+message: <p>I would also propose the moniker of "Test-Supported Development", a.k.a. "TSD" to indicate the use of tests during development, that is, when most tests are not necessarily created first, but also not necessarily created as an afterthought, either.<br>So far what I have personally adopted as a testing strategy looks more like Test-Supported Development (TSD).  <br>I find that full-on TDD, especially when coupled with 100% code coverage, can be sluggish and awkward.  I feel something in the spirit of the 80/20 rule is more apt to produce a better ROI if time to market is limited (given available resources).  For instance, hit the most complex/critical code the hardest, with _some_ tests driving/exploring the interface design, but with other interfaces just following good design idioms.<br>Unless, of course, that's what you meant by Test After Development, which, at face value sounds like testing after development is completed.</p>

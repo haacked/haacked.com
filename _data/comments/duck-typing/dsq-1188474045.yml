@@ -1,0 +1,6 @@
+id: dsq-1188474045
+replyToId: dsq-1187921934
+date: 2014-01-05T16:22:07.0000000-08:00
+name: Glenn Block
+avatar: https://disqus.com/api/users/avatars/gblock.jpg
+message: <p>When people talk about Duck Typing it's used in the context of the language making it easy. Using reflection is possible but it is not as intuitive / easy and requires more heavy lifting, it works around the language through runtime calls. Wheras in a dynamic language or using dynamic in C#, it just works and the code is very simple i.e.</p><p>public void DoSomething(dynamic instance) {<br>  instance.DoIt();<br>}</p><p>is a lot more natural then</p><p>public DoSomething(object instance) {<br>  instance.GetType().GetMethod("DoIt", BindingFlags.Instance | BindingFlags.Public).Invoke(instance);<br>}</p><p>don't you think?</p><p>The one thing about interfaces is it forces the object that is being passed to the method to explicitly implement the interface. That's the main significant difference imo between that and Duck Typing. In Duck Typing member presence alone is enough.<br>That is except in Go which actually allows an object to implement an interface simply by having the members on that interface present.</p>

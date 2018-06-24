@@ -1,0 +1,5 @@
+id: dsq-747516055
+date: 2006-08-06T06:49:13.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Jayson, it actually does work when you're on the home page.  But when you're viewing an individual post, it doesn't work because hitting return causes the comment button to fire.</p>

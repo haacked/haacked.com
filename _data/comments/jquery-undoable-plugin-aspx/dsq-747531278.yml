@@ -1,0 +1,5 @@
+id: dsq-747531278
+date: 2010-01-03T21:46:58.0000000-08:00
+name: Bob Armour
+avatar: https://disqus.com/api/users/avatars/Bob Armour.jpg
+message: <p>Phil,<br>While I fully agree with the sentiment of this post, I don't really see how the jquery plugin has anything to do with 'undo' - it just seems like a wrapper around the AJAX calls to the server side actions that actually handle the delete/undo operations. Th implementations of the operations still need to be implemented by the user.<br>Or am I missing something?</p>

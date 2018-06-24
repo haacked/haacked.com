@@ -1,0 +1,5 @@
+id: dsq-747516840
+date: 2006-09-21T00:43:48.0000000-07:00
+name: Steven Harman
+avatar: https://disqus.com/api/users/avatars/stevenharman.jpg
+message: <p>@szeryf, AFAIK that approach suffers from the same problem that Phil mentioned in the original post... namely it's "<strong>sloooooow</strong>". <br>While speed has no real impact on the build being successful, it is annoying when a developer has to wait an extra <strong><em>x</em></strong> seconds each time he/she hits CTRL+SHIFT+B. And I think that's what Phil was trying to get around with this rough-and-dirty app.<br>I would bet that the biggest bottleneck with the "copy" approach is that <strong>each</strong> "copy" command has to write to the disk, but in Phil's custom app, he can use a TextWriter and only have to flush to disk once.</p>

@@ -1,0 +1,5 @@
+id: dsq-952766855
+date: 2013-07-05T05:55:33.0000000-07:00
+name: Romi Sharma
+avatar: https://disqus.com/api/users/avatars/romisharma.jpg
+message: <p>Best way is to put</p><p>document.getElementById('print_button_id').style.visibility = 'hidden'</p><p>before print event</p>

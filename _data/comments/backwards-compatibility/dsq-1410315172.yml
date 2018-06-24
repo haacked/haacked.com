@@ -1,0 +1,6 @@
+id: dsq-1410315172
+replyToId: dsq-1410302614
+date: 2014-05-29T09:36:44.0000000-07:00
+name: Eric J. Smith
+avatar: https://disqus.com/api/users/avatars/ericjsmith12.jpg
+message: <p>Yes, there will be work migrating from MVC as well.</p><p>Don't get me wrong though. I am extremely excited about vNext and the new lightweight core runtime. I have been doing a lot of digging through the code and the system is very well designed and it looks like it will actually be a lot easier to implement a lot of the custom things that we have in vNext. The system has DI built in at the core and everything is very modular and easy to plug things in.</p><p>I think they had to make these changes or they would have become irrelevant for new development.</p>

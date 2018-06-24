@@ -1,0 +1,5 @@
+id: dsq-747530711
+date: 2010-01-04T01:59:04.0000000-08:00
+name: Bart
+avatar: https://disqus.com/api/users/avatars/Bart.jpg
+message: "<p>Hi,<br>I'm currently facing following issue using data annotations:<br>Structure of the project:<br>SampleApp.UI<br>&gt; Model<br>&gt; Controllers<br>&gt; Views<br>SampleApp.Business<br>&gt; Domain &gt; Classes with data annotation attributes<br>&gt; Data<br>Question: <br>- How to have a shared resource files for both UI &amp; Business  layer which I can use with the data annotation attribute: <br>Sample: [Required(ErrorMessageResourceType = typeof(GlobalResources.ModelValidation), ErrorMessageResourceName = \"NameRequired\")]<br>Thanks in advance!<br>Bart</p>"

@@ -1,0 +1,6 @@
+id: dsq-2546393731
+replyToId: dsq-2543384543
+date: 2016-03-01T15:41:13.0000000-08:00
+name: Wayne
+avatar: https://disqus.com/api/users/avatars/Wayne.jpg
+message: <p>a-z doesn't include turkish İ but it includes regular i which is also the lower-case form of the turkish capital İ.  So when you ask for case-insensitive match of i you will successfully match İ.</p>

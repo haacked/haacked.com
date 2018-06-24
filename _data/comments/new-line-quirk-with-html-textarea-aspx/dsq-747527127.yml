@@ -1,0 +1,5 @@
+id: dsq-747527127
+date: 2008-11-19T03:19:54.0000000-08:00
+name: Jeff
+avatar: https://disqus.com/api/users/avatars/Jeff.jpg
+message: <p>Actually, what you see in the browser is exactly what I would expect you to see. Simply put When you have &lt;textarea&gt;Foo&lt;/textarea&gt;<br> and <br>&lt;textarea&gt;<br>Foo&lt;/textarea&gt;<br>In this case Foo is always on the first line. In the first example the fact that youput Foo online witht he opening tag more or less told the browser to render this on line 1, then in the second example you had Foo hardcoded on line 1 of the textarea.<br>So the behavior isn't that surprising at all really.</p>

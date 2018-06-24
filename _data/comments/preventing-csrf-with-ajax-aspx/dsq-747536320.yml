@@ -1,0 +1,5 @@
+id: dsq-747536320
+date: 2012-05-17T18:09:47.0000000-07:00
+name: Jme
+avatar: https://disqus.com/api/users/avatars/Jme.jpg
+message: <p>This doesn't seem to work.  I render the token in the form as usual, grab and sent it in the ajax post (which appears to work fine - I can see it in the header in the request, and the attribute successfully moves it to the form collection, but it dies on the AntiForgery.Validate method).  I copied everything just as you have it.  Any ideas??</p>

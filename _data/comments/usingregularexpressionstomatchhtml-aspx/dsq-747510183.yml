@@ -1,0 +1,5 @@
+id: dsq-747510183
+date: 2006-08-08T14:53:02.0000000-07:00
+name: Shawn
+avatar: https://disqus.com/api/users/avatars/Shawn.jpg
+message: <p>^(?:(?!(!|%)[\s\S]*?--[ %\t\n\r]*&gt;).)*$<br>*should* also find the CDATA used in XML to escape HTML characters. This is untested, but it builds off <br>&lt;![\s\S]*?--[ \t\n\r]*&gt;<br>which is what I use (fully tested on thousands of pages, but I'm not looking for JSP comments)</p>

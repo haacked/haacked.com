@@ -1,0 +1,5 @@
+id: dsq-747519467
+date: 2007-04-02T14:18:27.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Damien - Sure, that'll work to decode a single page. But the point of this post was to point out how easy it is to search the entire internet for an email pattern.<br>It would be a pain to call HtmlUtility.HtmlDecode on every page of the internet.<br>You still need to narrow down the billion web pages out there with a Google (or some other) search, and <strong>then</strong> call HtmlDecode on the page. The point of the entity encoding is to make it more difficult to narrow the search using Google.<br>Spammers would have to build their own spider and HtmlDecode all the contents of every page and then run a regex on each page. This would be bandwidth heavy and computationally heavy, I imagine.<br>So this method isn't foolproof, but it'll be interesting to see if it works well enough.</p>

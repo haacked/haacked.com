@@ -1,0 +1,5 @@
+id: dsq-747511148
+date: 2006-06-25T21:20:00.0000000-07:00
+name: Daniel
+avatar: https://disqus.com/api/users/avatars/Daniel.jpg
+message: '<p>Evan,<br>It may be the config file is not being detected (assuming you use a separate log file, as Haaked illustrates above).<br>Make sure you have an AssemblyInfo.cs file in your App_Code folder with the required [assembly: log4net.Config.XmlConfigurator...] bit adjusted for your application.<br>Hope this helps...<br>Daniel</p>'

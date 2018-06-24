@@ -1,0 +1,5 @@
+id: dsq-747523690
+date: 2007-12-09T19:54:34.0000000-08:00
+name: Steven Harman
+avatar: https://disqus.com/api/users/avatars/stevenharman.jpg
+message: <blockquote>If you attempt to mock these objects, you sometimes also have to mock their dependencies and their dependencies' dependencies and so on, depending on what you are trying to test.</blockquote><p><br>*sniff, sniff...* smells like a good opportunity for an Auto-Mocking (IoC) Container, yes? :)</p>

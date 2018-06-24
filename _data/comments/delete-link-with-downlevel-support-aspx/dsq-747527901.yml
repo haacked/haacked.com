@@ -1,0 +1,5 @@
+id: dsq-747527901
+date: 2009-01-30T05:14:29.0000000-08:00
+name: Ricky
+avatar: https://disqus.com/api/users/avatars/Ricky.jpg
+message: <p>Does this really work? From what I can tell $.post(this.href); is just going to do an AJAX Post and the user will think nothing has happened (the page will not reload). What I would do here is make the form submit on click of the link. So something like this.<br>HTML:<br><code><br>&lt;form id="delete-form" method="post" action="/go/delete/1" class="delete-link"&gt;<br>  &lt;input type="submit" value="delete" /&gt;<br>&lt;/form&gt;<br>&lt;a href="/go/delete/1"&gt;delete<br></code><br>JavaScript:<br><code><br>$("a.delete-link").live('click', function(ev) { <br>    ev.preventDefault();<br>    $('form#' + $(this).attr('rel')).submit(); <br>});<br></code><br><br>Make sense? Sorry to keep bugging you :)</p>

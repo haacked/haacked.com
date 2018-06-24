@@ -1,0 +1,5 @@
+id: dsq-1892758870
+date: 2015-03-06T15:29:31.0000000-08:00
+name: sally
+avatar: https://disqus.com/api/users/avatars/$147203841.jpg
+message: "<p>tried this using php and preg_replace, comes up with error:</p><p>Warning: Unknown modifier '\\' in /var/www/html.php on line 20</p><p>line 19: $reg = '\\s]+))?)+\\s*|\\s*)/?&gt;';</p><p>line 20: preg_match_all($reg, $html, $matches);</p><p>Having problems installing on <a href=\"http://www.filmrally.com/\" rel=\"nofollow noopener\" title=\"http://www.filmrally.com/\">http://www.filmrally.com/</a></p>"

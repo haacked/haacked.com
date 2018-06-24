@@ -1,0 +1,5 @@
+id: dsq-747518915
+date: 2007-03-05T01:11:27.0000000-08:00
+name: Kevin Dente
+avatar: https://disqus.com/api/users/avatars/Kevin Dente.jpg
+message: <p>&gt;Not only that, why would Microsoft try <br>&gt;and make TFS a good source control <br>&gt;system for OSS development? <br>In this day of distributed development teams, virtual offices, telecommuting, and outsourcing, there's actually some pretty good reasons for them to do just that. One of the reasons we recently selected Subversion over TFS was its superior handling of disconnected workers.</p>

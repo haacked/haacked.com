@@ -1,0 +1,5 @@
+id: dsq-747531165
+date: 2009-12-26T23:17:31.0000000-08:00
+name: Paul
+avatar: https://disqus.com/api/users/avatars/valmont33.jpg
+message: <p>Your code looks good, but I would use slideToggle() apposed to slideDown(). This way the user can also show the content after it is hidden.<br>$(function() {<br>    $('a.close').click(function() {<br>        $($(this).attr('href')).slideToggle();<br>        return false;<br>    });<br>});<br>You can also add a couple CSS classes to give the user some graphical element and idea visual that the links can be used to show and hide text. Create a class for .close and one for .show with images like + and - then do something like this:<br>//Switch the "Open" and "Close" state per click<br>$('a.close').toggle(function(){<br>    $(this).addClass("show");<br>    }, function () {<br>    $(this).removeClass("show");<br>});<br>//Slide up and down on click<br>$('a.close').click(function(){<br>    $(this).next(".toggle_container").slideToggle();<br>});<br></p>

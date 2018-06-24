@@ -1,0 +1,6 @@
+id: dsq-2544303489
+replyToId: dsq-2544233837
+date: 2016-02-29T14:53:00.0000000-08:00
+name: Rick Dailey
+avatar: https://disqus.com/api/users/avatars/disqus_W3Dfj2G5aI.jpg
+message: <p>Ah, I understand.  You're saying it should be Invariant because people who have been slinging Regex for a long time would expect it to do so, rather than sticking to the global .NET convention everything else uses CurrentCulture (such as ToLower() and StartsWith()). Seems like Regex should take in a CultureInfo as an overload, just like those methods do instead of that silly enum flag.</p><p>&gt; Also, consider that my current culture is en-US in which case `İ` is not the capital of i so why is it matching?</p><p>("İ".ToLower(new CultureInfo("en-US")) == "i") // true</p><p>Unfortunately, I could not find a reference source, but perhaps because in US English a dotted İ is meaningless so the most useful behavior for English speakers would be to just treat it as a regular capital-I?  I got nothing on that one.</p>

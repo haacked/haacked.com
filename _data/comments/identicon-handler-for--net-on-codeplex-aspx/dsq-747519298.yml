@@ -1,0 +1,5 @@
+id: dsq-747519298
+date: 2011-05-25T15:44:14.0000000-07:00
+name: jeroenk-tritac
+avatar: https://disqus.com/api/users/avatars/jeroenk-tritac.jpg
+message: "<p><a href=\"http://www.codinghorror.com/blog/2007/01/identicons-for-net.html\" rel=\"nofollow noopener\" title=\"http://www.codinghorror.com/blog/2007/01/identicons-for-net.html\">www.codinghorror.com/.../identicons-for-net.html</a> Has a comment by David that solves this:<br>\"I couldn't get this working on Win7/VS2008. It seems CloseFigure() works a bit differently in that it if you have more than one PathPointType of CloseSubPath it throws a \"Parameter is not valid\" exception. I managed to fix this by removing the gp.ClosePath() from AddPointToGraphicsPath() and putting in patch.ClosePath() in PatchSize set{} after the for loop has completed.\"<br>Where ClosePath should be: CloseFigure.</p>"

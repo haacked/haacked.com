@@ -1,0 +1,5 @@
+id: dsq-747535233
+date: 2011-11-10T07:49:30.0000000-08:00
+name: Trey
+avatar: https://disqus.com/api/users/avatars/Trey.jpg
+message: <p>I love AppHarbor thus far... my issue is deploying my site to it, it does not like your Subkismet library that I've been using for a while. Any ideas on why it doesn't like the assembly and fails to build?<br>-T</p>

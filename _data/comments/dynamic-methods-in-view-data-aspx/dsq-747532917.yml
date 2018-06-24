@@ -1,0 +1,5 @@
+id: dsq-747532917
+date: 2010-08-12T09:13:42.0000000-07:00
+name: Jessica
+avatar: https://disqus.com/api/users/avatars/Jessica.jpg
+message: <p>I don't think it's a bad feature. I don't like having to type <code>ViewData["Message"]</code>. For me, <code>View.Message</code> works in the view page code, but <code>ViewModel</code> in the controller code doesn't; primarily because I don't use the ViewData dictionary for model state; just for passing extra useful data from the controller to the view (titles, messages, things like that).<br>It really is a shame <code>ViewData</code> is taken, and won't be chosen because of backwards compatibility. I think it is the best fit here.<br>I vote for a breaking change.</p>

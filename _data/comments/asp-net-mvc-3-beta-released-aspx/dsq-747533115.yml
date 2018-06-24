@@ -1,0 +1,5 @@
+id: dsq-747533115
+date: 2010-10-06T18:12:37.0000000-07:00
+name: Bm
+avatar: https://disqus.com/api/users/avatars/Bm.jpg
+message: <p>Phil, we need multiple views support in mvc, or a way to update multiple divs in one request like erx mentioned. This should have been in since v1 :).   Anyone else think this is important?<br>At the moment I am queuing my requests, div one updates and sends js request to update div2 so user sees delay... Still better than the js hack option.</p>

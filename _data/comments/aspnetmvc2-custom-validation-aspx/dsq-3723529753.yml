@@ -1,0 +1,5 @@
+id: dsq-3723529753
+date: 2018-01-24T00:38:15.0000000-08:00
+name: itdev
+avatar: https://disqus.com/api/users/avatars/itdev.jpg
+message: <p>hi I am using DataAnnotationsModelValidatorProvider.RegisterAdapter(typeof(RegexByKeyAttribute), typeof(RegularExpressionAttributeAdapter));</p><p>in my RegexByKeyAttribute class, i am getting the loading value using this:<br>private static string LoadRegex(string key)<br>        {</p><p>            return GlobalUtilities.GetCurrentMarket().ReturnRegexKey(key);<br>        }<br>now for different countries I have different regular expression,</p><p>The issue I am facing is suppose I visit US country then it shows correct regular expression, but if i change the country to be FR, then it still shows regular expression of US, somewhere it is getting cached, so how should I clear this. if I restart my application it shows FR regex if we visit the FR first</p>

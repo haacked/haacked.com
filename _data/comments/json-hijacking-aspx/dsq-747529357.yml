@@ -1,0 +1,5 @@
+id: dsq-747529357
+date: 2009-06-25T09:29:00.0000000-07:00
+name: David Meyer
+avatar: https://disqus.com/api/users/avatars/David Meyer.jpg
+message: <p>Another thing to think about, which probably isn't an issue in this case, is that POST is by definition non-deterministic, meaning that it is never cached.  This might affect performance, but it seems like these types of GET requests would probably be non-deterministic anyway.  Just a thought.<br>The best solution would be, of course, to make everyone smart enough not to click on the bad guy's link. :P<br>Don't you hate how security and permissions issues eat up our valuable time???  Thanks for the heads up, though!</p>

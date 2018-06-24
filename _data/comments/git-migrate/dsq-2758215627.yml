@@ -1,0 +1,6 @@
+id: dsq-2758215627
+replyToId: dsq-2298940780
+date: 2016-06-30T02:41:59.0000000-07:00
+name: Martin Opdam
+avatar: https://disqus.com/api/users/avatars/martinopdam.jpg
+message: <p>Removing the quotes around '$CURRENT@{u}' helped for me. So my alias now looks like this:</p><p>migrate = "!f(){ CURRENT=$(git symbolic-ref --short HEAD); git checkout -b $1 &amp;&amp; git branch --force $CURRENT ${3-$CURRENT@{u}} &amp;&amp; git rebase --onto ${2-develop} $CURRENT; }; f"</p>

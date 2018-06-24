@@ -1,0 +1,5 @@
+id: dsq-747532903
+date: 2010-08-04T23:29:00.0000000-07:00
+name: cowgaR
+avatar: https://disqus.com/api/users/avatars/cowgaR.jpg
+message: <p>-1 for Bag (reminds me of ORMs)<br>+1 for Transporter<br>+2 for Data (although it crosses name with the recent MS.Data project...)<br>+100 that you are "replacing a magic string with magic property" problem, or as Mr Abraham said, it is a very bad masked dictionary.<br><br>-1000 for me is "View.Something" in the View code, as "View" identifier/name should stay only (and only only) for a method in controllers code for calling Views.<br>Eventhough I'm reading HTML, C# and HTML can sometimes mix so good (with a help of razor syntax) that readability suffers (say for newcommer), as I need to realize it is the VIEW code I'm reading now, thus View != View().<br>in this way, ViewData was 10 times better and descriptive name...(so why not to change both of them to ModelData? make sense even when called from View)</p>

@@ -1,0 +1,5 @@
+id: dsq-747517511
+date: 2006-11-04T03:53:45.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>The Roadmap only covers the major features.  Our upcoming <a href="https://sourceforge.net/tracker/?group_id=137896&amp;atid=739982" rel="nofollow noopener" title="feature requests">feature requests</a> are grouped by version we plan to implement them.<br>If you have a feature you would like to implement, add it as a feature request and ping the mailing list to let me know you'd like to implement it.<br>For the most part, if I think it fits well in the Subtext model, then I'll reprioritize it and you should go ahead.  <br>Or, we might consider it as something that would be better served as a plugin, in which case you could implement it as a plugin that is distributed with Subtext.<br>For the most part, we rarely turn down feature ideas that others are willing to implement.</p>

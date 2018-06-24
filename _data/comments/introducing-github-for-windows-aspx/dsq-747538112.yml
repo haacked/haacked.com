@@ -1,0 +1,5 @@
+id: dsq-747538112
+date: 2012-10-09T10:55:11.0000000-07:00
+name: Shaine
+avatar: https://disqus.com/api/users/avatars/Shaine.jpg
+message: <p>nice article.<br>I still cant however seem to work out how to configure Console2 so it loads the github profile script, and posh-git.<br>I have my Console2 configured to default use Powershell.<br>there is mention of placing a GitHub.PowerShell_profile.ps1 file where your $profile script is located.<br>I found shell.ps1 in C:\Users\MyUser\AppData\Local\GitHub<br>is this the profile script?<br></p>

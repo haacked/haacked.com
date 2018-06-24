@@ -1,0 +1,5 @@
+id: dsq-747525315
+date: 2008-08-24T13:47:02.0000000-07:00
+name: Bruce Sinner
+avatar: https://disqus.com/api/users/avatars/Bruce Sinner.jpg
+message: "<p>Hi,<br>I downloaded the demo and when I try to access the controller method \"/Products/New\" its giving me the following error:<br>CS1061: 'System.Web.Mvc.ViewDataDictionary&lt;northwindmodel.productsnewviewdata&gt;' does not contain a definition for 'Categories' and no extension method 'Categories' accepting a first argument of type 'System.Web.Mvc.ViewDataDictionary&lt;northwindmodel.productsnewviewdata&gt;' could be found (are you missing a using directive or an assembly reference?)<br>I'm using ASP.NET MVC Preview 4, does anyone have an idea what it may be ?<br>thanks</p>"

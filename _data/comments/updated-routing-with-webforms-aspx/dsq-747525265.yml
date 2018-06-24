@@ -1,0 +1,5 @@
+id: dsq-747525265
+date: 2008-11-11T18:10:32.0000000-08:00
+name: Stefan
+avatar: https://disqus.com/api/users/avatars/Stefan.jpg
+message: <p>Has anyone tried output caching with routing on webforms? I have page Test.aspx with a user control on it the user control is set to use fragment caching varybyparam="id" now I have a route /test/{id}.<br>/test/1 and /test/2 do not give me different versions of the control, am I missing something MVC seems to handle varybyparam fine for action parameters and I see that is using nothing special for caching or am I blind :P??</p>

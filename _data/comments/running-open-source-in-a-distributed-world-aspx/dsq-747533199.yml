@@ -1,0 +1,5 @@
+id: dsq-747533199
+date: 2010-10-12T20:42:25.0000000-07:00
+name: Joe Brinkman
+avatar: https://disqus.com/api/users/avatars/Joe Brinkman.jpg
+message: <p>@Phil - I touched on many of the committer issues including the CLA in my post a few years back. <a href="http://blog.theaccidentalgeek.com/post/2007/07/11/Re-defining-Open-Source.aspx" rel="nofollow noopener" title="http://blog.theaccidentalgeek.com/post/2007/07/11/Re-defining-Open-Source.aspx">blog.theaccidentalgeek.com/...</a>  DotNetNuke has followed the same rules that Karl notes above, whenever someone has some non-trivial, tangible change that is ready to commit, we ask them for a CLA if we don't already have one on record.  We don't ask for CLAs for one or two line bug fixes, but when you start submitting whole functions and classes, you can be sure that we will ask for the CLA before anything gets into the central repository.<br>Ultimately, most of the issues around Open Source governance have little to do with the tools you use or your development methodology.</p>

@@ -1,0 +1,5 @@
+id: dsq-747536614
+date: 2011-11-27T04:17:52.0000000-08:00
+name: Malcolm Sheridan
+avatar: https://disqus.com/api/users/avatars/Malcolm Sheridan.jpg
+message: <p>I like the @cache directive.  <br>Keep it part of Razor and not a method as it sits on the page.  Also keep it simple.  Default the timeout to seconds or milliseconds so you can remove the need to add TimeSpan.  So like this:<br>@cache(10) {<br>}<br>Less is more.</p>

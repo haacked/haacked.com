@@ -1,0 +1,5 @@
+id: dsq-747532093
+date: 2012-09-22T01:52:51.0000000-07:00
+name: Nasser
+avatar: https://disqus.com/api/users/avatars/Nasser.jpg
+message: <p>Using relaxedUrlToFileSystemMapping = 'true' works like magic. I've had issues passing doubles (like 3.45) to a service via the url. It has always failed due to the fact that ASP.Net thinks that the .45 is a file extension. now that's fixed. this addition the web.config fixed it. Thanks for the hint man... <br>Now I need to find out what security rules is this "relaxation" going to break/undermine. <br>Regards<br>Nasser</p>

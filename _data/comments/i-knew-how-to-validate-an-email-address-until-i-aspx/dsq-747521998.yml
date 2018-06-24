@@ -1,0 +1,5 @@
+id: dsq-747521998
+date: 2007-08-20T23:39:35.0000000-07:00
+name: David Leadbeater
+avatar: https://disqus.com/api/users/avatars/David Leadbeater.jpg
+message: "<p>Actually you've interpreted the RFC slightly wrong ;)<br>The RFC says \\ for escaping is only valid inside a qcontent, so in order to enter characters that need escaping (i.e. other than dot-atom) they need to be inside double quotes (last paragraph of section 3.2.2).<br>e.g.: Abc\\@def@example.com becomes \"Abc@def\"@example.com<br>I don't know about .net but if you look at the source code to the Perl module Email::Valid, you'll see a huge regex near the end. This actually validates according to the RFC.<br>(Code at<br><a href=\"http://search.cpan.org/src/RJBS/Email-Valid-0.179/lib/Email/Valid.pm)\" rel=\"nofollow noopener\" title=\"http://search.cpan.org/src/RJBS/Email-Valid-0.179/lib/Email/Valid.pm)\">http://search.cpan.org/src/...</a>.</p>"

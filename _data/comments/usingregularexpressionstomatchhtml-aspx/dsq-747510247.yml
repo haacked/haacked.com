@@ -1,0 +1,5 @@
+id: dsq-747510247
+date: 2008-10-09T19:06:17.0000000-07:00
+name: Pencheff
+avatar: https://disqus.com/api/users/avatars/Pencheff.jpg
+message: <p>For those also working with Delphi and TRegExpr library, here's my Regex for parsing HTML tags (it's based on Phil's one):<br>RegexParser.Expression := '(?i)&lt;(/?\w+)((\s+(\w+)(\s*=\s*("(.*?)"|[^''"&gt;\s]+))?)+\s*|\s*)/?&gt;';<br>It does return the tag (b, /b, font, /font, etc) in Match[1]<br>the parameter (size, color, etc) in Match[4] and<br>the parameter value in Match[7]</p>

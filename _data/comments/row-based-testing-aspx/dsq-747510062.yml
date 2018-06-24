@@ -1,0 +1,5 @@
+id: dsq-747510062
+date: 2004-10-19T23:00:00.0000000-07:00
+name: Jonathan de Halleux
+avatar: https://disqus.com/api/users/avatars/Jonathan de Halleux.jpg
+message: <p>Thanks!<br><br><br><br>In fact, this new feature is not mind blowing but it is handy and usefull in any situation where you end up with a table description of the tests.<br><br><br><br>Btw, it would be nice to update your sample to show that you can also do "negative" testing by specifying the expected exception in the Row constructor...<br><br><br><br>    [RowTest]<br><br>    [Row(1000,10,100.0000)]<br><br>    ...<br><br>    [Row(1,0,0, ExpectedException = typeof(ArithmeticException))]<br><br>    public void DivTest(double num, double den, double res)<br><br>    {...}<br><br></p>

@@ -1,0 +1,5 @@
+id: dsq-747535536
+date: 2011-06-30T05:35:23.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Jim TL;DR stands for <a href="http://knowyourmeme.com/memes/tldr" rel="nofollow noopener" title="http://knowyourmeme.com/memes/tldr">Too Long, Didn't Read</a><br>@Gurdeep You should probably use the json2.js library as described <a href="http://www.json.org/js.html" rel="nofollow noopener" title="http://www.json.org/js.html">here</a>. I was just being lazy in my blog post and demonstrating the principle, not the code I would use in production.</p>

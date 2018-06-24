@@ -1,0 +1,5 @@
+id: dsq-747536989
+date: 2011-12-06T23:58:52.0000000-08:00
+name: Marcus McConnell
+avatar: https://disqus.com/api/users/avatars/Marcus McConnell.jpg
+message: <p>Congrats Phil! Sounds like a cool new gig. I've been a big fan of GitHub and released my open-source C#, MVC shopping cart their. <br>To me, the biggest hurdle to github adoption for Windows devs is the perception that Git on Windows is hacky and difficult to setup. If GitHub made sure that Git was a first-class citizen on windows (Maybe a C# port?) then GitHub adoption would certainly go up!<br>Also, how about some default .gitignore files for Windows devs that correctly ignore all the generated stuff, testing stuff, etc.?<br>Good luck in your new position!<br></p>

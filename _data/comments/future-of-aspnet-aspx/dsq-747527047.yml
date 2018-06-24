@@ -1,0 +1,5 @@
+id: dsq-747527047
+date: 2008-11-14T04:58:56.0000000-08:00
+name: Andy Stopford
+avatar: https://disqus.com/api/users/avatars/Andy Stopford.jpg
+message: <p>I find it interesting that folks are starting to get angry that consider webforms to be going away when very clearly it is not the case. I guess some of the anger may be concerns over existing investments in web forms rather any than the ability of the developer (as some folks seem to think to use webforms is an indication of your ability). Webforms has a lot of pain points and it is great that the team is addressing some of those points. TDD in webforms is still like pulling teeth, MVP in webforms works well but is still a little clumsy, but if you want testability and SOC then you have MVC ;-) trouble is with all the investment in webforms your a little stuck. In the webforms\mvc cross over can we have a clean SOC in the webforms code behind and the ability to use the MVC view engine.</p>

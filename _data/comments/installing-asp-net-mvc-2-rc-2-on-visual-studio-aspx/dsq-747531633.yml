@@ -1,0 +1,5 @@
+id: dsq-747531633
+date: 2010-02-11T11:57:03.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Gene Yes, MVC 2 RC 2 will work with VS 2010 RC. The caveat is that VS2010 won't magically have the latest project templates for MVC 2 RC 2. So when creating a project in VS2010, you'll have the MVC 2 RC project templates, but using the MVC 2 RC 2 runtime assembly.</p>

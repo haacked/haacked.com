@@ -1,0 +1,5 @@
+id: dsq-747509329
+date: 2004-08-17T06:44:00.0000000-07:00
+name: Craig
+avatar: https://disqus.com/api/users/avatars/Craig.jpg
+message: <p>I responded to your comment somewhat on my blog, but realize I didn't answer your question directly. <br><br><br><br>Either Project1 is evolving with one system, the other, neither, or everything evolves together. <br><br><br><br>If it evolves with one or the other system, then build it with that system and periodically update the *binary* into the other system, so its interface stays relatively stable. <br><br><br><br>If it evovles independently, build it separately, and manually update it periodically into both the other systems. <br><br><br><br>If everything evolves together, then you can either build both systems separately, or build everything all together at once. <br><br><br><br>The thing you don't want to do is to link systems closely together where minute-to-minute changes can break systems where the teams building the two pieces don't have a shared strategy. That just leads to you showing up in the morning and finding out that the interface of Project1 is now completely different.</p>

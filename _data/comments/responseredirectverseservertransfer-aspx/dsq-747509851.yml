@@ -1,0 +1,5 @@
+id: dsq-747509851
+date: 2005-04-28T01:45:00.0000000-07:00
+name: Matthew
+avatar: https://disqus.com/api/users/avatars/Matthew.jpg
+message: <p>Nice little bit.  In response to Nikunj, the second parameter of Response.Redirect controls if the current thread will be killed or not.  By default it is killed.  While debugging this can throw some threading exceptions.  To avoid the exceptions, pass false for the second parameter.</p>

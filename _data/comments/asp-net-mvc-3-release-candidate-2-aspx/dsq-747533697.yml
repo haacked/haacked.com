@@ -1,0 +1,5 @@
+id: dsq-747533697
+date: 2010-12-10T04:55:25.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hi All, You do not need to uninstall ASP.NET MVC 3 RC before installing RC 2. VS 2010 SP 1 Beta is not required for MVC 3 RC 2. You can install it on VS 2010 without SP1 Beta.<br>@James You'll have to talk to the NHibernate owners.</p>

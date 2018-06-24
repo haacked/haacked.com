@@ -1,0 +1,5 @@
+id: dsq-747531040
+date: 2009-12-18T02:19:45.0000000-08:00
+name: Soe Tun
+avatar: https://disqus.com/api/users/avatars/Soe Tun.jpg
+message: <p>What is now broken is the JSON metadata generated is treating &lt;input type="checkbox" /&gt; as required because the *Database Column* is a not-nullable [bit] column.<br>So, for all CheckBox input controls with a not-nullable Boolean property, we cannot submit the FORM unless we check the CheckBox.</p>

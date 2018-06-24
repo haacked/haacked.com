@@ -1,0 +1,5 @@
+id: dsq-2050475316
+date: 2015-05-28T13:57:44.0000000-07:00
+name: demisx
+avatar: https://disqus.com/api/users/avatars/demisx.jpg
+message: <p>Nice article. We can't block everything inside an MVC project because we use feature based organization where are views, controllers, models, CSS, Javascript etc. may live in one feature folder, e.g. 'Dashboard/' or 'Profile/'.</p>

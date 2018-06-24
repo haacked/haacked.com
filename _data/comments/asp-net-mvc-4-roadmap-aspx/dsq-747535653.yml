@@ -1,0 +1,5 @@
+id: dsq-747535653
+date: 2011-07-20T21:27:19.0000000-07:00
+name: Jenda
+avatar: https://disqus.com/api/users/avatars/Jenda.jpg
+message: <p>I can't check it at the moment, but in case this insane bug is not fixed in MVC 3 is there any chance UpdateModel(whatever) will stop throwing exceptions after a perfectly fine update just because the ModelState had some errors BEFORE the UpdateModel()?<br>Yes, if you happened to be lucky enough you may not know, but once there is any error whatsoever in ModelState any call to UpdateModel() will do it's job and then throw an exception. Lovely indeed.</p>

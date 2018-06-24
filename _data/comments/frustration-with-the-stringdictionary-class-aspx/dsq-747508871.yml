@@ -1,0 +1,5 @@
+id: dsq-747508871
+date: 2011-12-07T00:44:03.0000000-08:00
+name: Peter
+avatar: https://disqus.com/api/users/avatars/Peter.jpg
+message: <p>On a somewhat related note, I also found that the StringDictionary resorted the entries that I added into it.  It didn't do it alphabetically or anything, but the entries were in a somewhat random order when I looped through them afterwards.<br>Changing the code to use a Dictionary&lt;string,string&gt; solved that problem as well.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747534707
+date: 2011-04-01T01:06:47.0000000-07:00
+name: Troy
+avatar: https://disqus.com/api/users/avatars/Troy.jpg
+message: "<p>I'm a NuGet noob so be patient with me :)<br>The fix that @Flash suggested worked great.  Now my NuGet feed is working fine, and I can view it via a web browser.  The issue is in Visual Studio.  I get the following:<br>get-package -remote<br>Get-Package : There was an error while processing the request. Please verify that '<a href=\"http://myserver:8080/nuget/Packages\" rel=\"nofollow noopener\" title=\"http://myserver:8080/nuget/Packages\">http://myserver:8080/nuget/Packages</a>' is a valid feed.<br>At line:1 char:12<br>+ get-package &lt;&lt;&lt;&lt;  -remote<br>    + CategoryInfo          : NotSpecified: (:) [Get-Package], InvalidOperationException<br>    + FullyQualifiedErrorId : NuGetCmdletUnhandledException,NuGet.PowerShell.Commands.GetPackageCommand<br><br>Am I still missing something?<br></p>"

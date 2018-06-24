@@ -1,0 +1,5 @@
+id: dsq-747519137
+date: 2007-03-21T00:49:02.0000000-07:00
+name: Joshua Flanagan
+avatar: https://disqus.com/api/users/avatars/Joshua Flanagan.jpg
+message: '<p>The TDD process "red, green, refactor" includes calibration steps to specifically address this problem.<br>1) Red: Write a test that checks for the desired functionality. Run it against code that does not yet implement that functionality. The test should fail, verifying that the test can recognize an invalid state.<br>2) Green: Implement just enough code so that the test passes - "green". This can mean something as simple as returning a hardcoded value. This step is to ensure your test will correctly recognize a valid state.<br>3) Refactor: Modify the implementation of the code to be more flexible. Continue re-running the test as you change the implementation, making sure that you always stay "green".<br>It is important to note that you are only changing your implementation code in these steps - not your test code. If you change your test code, you will need to re-calibrate.</p>'

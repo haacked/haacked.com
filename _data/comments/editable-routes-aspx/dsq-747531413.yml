@@ -1,0 +1,5 @@
+id: dsq-747531413
+date: 2010-01-19T00:02:09.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Harry, this is still based on code being deployed to your web server. I wouldn't let random people deploy code to my webserver. :)<br>@Travis that's a good point. I think in general, the number of times someone changes routes in the lifetime of the app will be very small.</p>

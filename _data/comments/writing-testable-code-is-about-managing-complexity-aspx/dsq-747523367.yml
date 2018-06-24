@@ -1,0 +1,5 @@
+id: dsq-747523367
+date: 2007-11-14T07:36:05.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Travis: Manage can also mean:<br></p><blockquote><br><p>cope: come to terms or deal successfully with</p><br></blockquote><p><br>Note that I didn't say that TDD reduces complexity. I only meant that it helps cope with complexity. The side-effect of writing testable code, namely separation of concerns, breaks a large complex application into less complex components.<br>Perhaps a better choice of words is to say that TDD helps deal with complexity.</p>"

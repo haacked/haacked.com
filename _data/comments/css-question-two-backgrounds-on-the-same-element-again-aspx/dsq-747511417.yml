@@ -1,0 +1,5 @@
+id: dsq-747511417
+date: 2007-12-12T16:36:29.0000000-08:00
+name: CorgaN
+avatar: https://disqus.com/api/users/avatars/CorgaN.jpg
+message: <p>Using an empty div without any content is a mistake. I suggest using background in the outer div and apply another in the inner element:<br>&lt;div class='borderLeft'&gt;<br>   <a>link</a><br>&lt;/div&gt;<br>You may change tag "a" with any other tag (span, p, etc).<br></p>

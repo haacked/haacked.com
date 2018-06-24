@@ -1,0 +1,5 @@
+id: dsq-747510590
+date: 2004-12-29T21:00:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>The difference is that "View Source" for the feed shows the original xml from the feed.  RSS Bandit converts that xml into its own format (I think it's RSS 2.0).  Also, the newspaper view renders unread items, so the xml will be slightly different.</p>

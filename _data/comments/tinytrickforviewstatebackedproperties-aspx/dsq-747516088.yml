@@ -1,0 +1,5 @@
+id: dsq-747516088
+date: 2006-08-07T02:03:50.0000000-07:00
+name: Steven Harman
+avatar: https://disqus.com/api/users/avatars/stevenharman.jpg
+message: <p>Phil,<br>I think you need a small CSS tweak... need to <b>clear:both</b> the <b>H3</b> element of each comment so that they title wraps correctly following a short comment.</p>

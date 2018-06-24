@@ -1,0 +1,5 @@
+id: dsq-747515280
+date: 2006-06-11T18:20:00.0000000-07:00
+name: drew
+avatar: https://disqus.com/api/users/avatars/drew.jpg
+message: <p>not sure I get it.. I tried your<br>catch(System.Exception) {<br>  String foo = ""; //[1]<br>}<br>and at the [2] click SHift+F9 and paste "$exception" in the quick watch. It says <br>"identifier '$exception' out of scope".<br>I'm using VS2002 - could it matter?</p>

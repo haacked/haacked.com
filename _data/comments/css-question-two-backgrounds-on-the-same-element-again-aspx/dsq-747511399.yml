@@ -1,0 +1,5 @@
+id: dsq-747511399
+date: 2005-04-04T07:42:00.0000000-07:00
+name: Scott Elkin
+avatar: https://disqus.com/api/users/avatars/Scott Elkin.jpg
+message: '<p><br>If you make them one image, it wont do what you want.  It would stretch the left and right border and make them too thick.<br><br><br><br>Funny enough I just had to conquer this same thing yesterday and came up with the same conclusion: nested divs.</p>'

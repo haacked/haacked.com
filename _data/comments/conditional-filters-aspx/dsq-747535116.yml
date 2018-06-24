@@ -1,0 +1,5 @@
+id: dsq-747535116
+date: 2011-11-22T10:17:10.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>The <code>AuthorizeAttribute</code> is not the thing that causes the forms login redirect. It's the FormsAuthenticationModule. The authorize attribute just sets a status of being unauthorized.<br>You could replace the FormsAuthenticationModule with a custome one. Or perhaps even easire, just use the same login page, but have it change its behavior depending on the status of the current user.</p>

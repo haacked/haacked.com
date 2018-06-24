@@ -1,0 +1,5 @@
+id: dsq-747517005
+date: 2006-09-28T04:37:01.0000000-07:00
+name: Joshua Flanagan
+avatar: https://disqus.com/api/users/avatars/Joshua Flanagan.jpg
+message: '<p>Ken and anyone else using a 6 digit date build number: keep in mind, if you are using this scheme with .NET assembly versions, you WILL get caught by a "Y2K7" issue. Meaning, in about 3 months, your builds will break ;)<br>Each component of a .NET version is an unsigned 16 bit integer, which means it will max out at 65535. As soon as the "6" flips to "7", you will get a compiler error.<br></p>'

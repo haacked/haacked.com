@@ -1,0 +1,5 @@
+id: dsq-747538399
+date: 2012-09-29T23:29:29.0000000-07:00
+name: Dusty Burwell
+avatar: https://disqus.com/api/users/avatars/Dusty Burwell.jpg
+message: <p>I like what you end up with here. I won't pass judgement on the means it took the get there considering I've committed my fair share of sins in the name of WPF and MVVM. <br>That said, I do find it frustrating that so much of the burden is placed on you and I to solve these problems. Don't get me wrong. I think WPF is an amazing tool that can produce beautiful user interfaces, but I don't think enough time or attention was paid to advanced scenarios beyond Autonomous View.  I mean, MVVM was adapted from MVP as a pattern to take particular advantage of features of WPF and it's great, but it was created outside the walls of MS. I guess what I'm saying is that some developer support for decent patterns in WPF from Redmond would be appreciated.<br>Rant aside, it would be interesting to see a library of these "StringEquivalents", perhaps as an inclusion to Caliburn.Micro or similar.</p>

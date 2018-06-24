@@ -1,0 +1,5 @@
+id: dsq-747530740
+date: 2010-04-14T01:40:26.0000000-07:00
+name: Walter Johnson
+avatar: https://disqus.com/api/users/avatars/Walter Johnson.jpg
+message: <p>I've recently come across the idea of validating the data using data annotations within the model and I'm looking forward to reducing the amount of code in my controllers/libraries that deal with just validation alone.  <br>However, I am concerned about testing these attributes and making sure that they're doing the right things.  I see in a previous comment that you reference one of Brad Wilson's posts in which he suggests that the proper way of testing that your attributes work is by running a series of Integration tests.  However, I'd much rather run a series of Unit tests (i.e. test whether or not the validation attribute can handle itself) rather than attempt to simulate several posts to the rendered form.<br>Do you have any suggestions or resources I could look into?<br>Thank you for your time.  Your information on MVC has been invaluable to getting up and running with this excellent framework for ASP.NET.</p>

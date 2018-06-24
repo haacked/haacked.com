@@ -1,0 +1,5 @@
+id: dsq-2226150398
+date: 2015-08-30T07:06:42.0000000-07:00
+name: Alexander
+avatar: https://disqus.com/api/users/avatars/disqus_nghOJ9kPdq.jpg
+message: <p>I use set of filters for grid, each filter control is like the thing in the article. I use javascript to disable/enable specific controls (so they are not included into input parameter's collection). However, for some reason not all types are properly parsed. I have "System.Type" type and it's null...</p>

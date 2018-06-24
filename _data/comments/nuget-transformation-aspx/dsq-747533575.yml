@@ -1,0 +1,5 @@
+id: dsq-747533575
+date: 2010-11-22T11:42:15.0000000-08:00
+name: Andreas Knuden
+avatar: https://disqus.com/api/users/avatars/Andreas Knuden.jpg
+message: '<p>Hi Phil, the simplicity and readability of the config transformations is great!<br>Just a thought, instead of introducing a somewhat cumbersome transformation language to the files, you could achieve the same if you only added support for defining one magic word like "DELETEME" for instance. <br>you would be able to delete attributes by setting their value to that magic word like this someattributevalue="DELETEME", you would also be able to delete whole nodes by setting DELETEME="true" as per this implementation of n-tier web.config transformations using T4: <a href="http://ilearnable.net/2010/08/02/t4-for-complex-configuration/" rel="nofollow noopener" title="http://ilearnable.net/2010/08/02/t4-for-complex-configuration/">ilearnable.net/.../t4-for-complex-configuration/</a><br>just a thought</p>'

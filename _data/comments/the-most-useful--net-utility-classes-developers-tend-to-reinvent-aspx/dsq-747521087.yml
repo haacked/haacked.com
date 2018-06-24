@@ -1,0 +1,5 @@
+id: dsq-747521087
+date: 2007-06-14T10:11:13.0000000-07:00
+name: Brennan Stehling
+avatar: https://disqus.com/api/users/avatars/Brennan Stehling.jpg
+message: <p>One feature in C# that I did not know about until 1 year into working in .NET was the "as" operator. Normally to cast an object from a collection safely I would do this...<br>if (obj is SomeClass) {<br>  SomeClass sc = (SomeClass) obj;<br>}<br>A more efficient way that I like better is...<br>SomeClass sc = obj as SomeClass;<br>if (sc != null) {<br>  // use sc<br>}<br>The second one is just a smidge more efficient. I like to use this in ASP.NET code-behind classes with the FindControl method.<br>Label lbl = FindControl("Label1") as Label;<br>if (lbl != null) {<br>  lbl.Text = "Set the text property";<br>}<br>I think it keeps the code fairly compact but I often see many developers just blindly cast controls with the FindControl method and it normally works but it is easy to break.<br>This is the a great post and group of comments. I hope you do a summary in a few days.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747524069
+date: 2008-01-29T15:06:07.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yeah, it's a deliberate change. If you think of "talking to" as a "dependency on", then the View can talk to the Model, but can't talk directly to the controller.<br>This diagram <a href="http://en.wikipedia.org/wiki/Image:ModelViewControllerDiagram.svg" rel="nofollow noopener" title="MVC Diagram">illustrates the point.</a><br>I guess the View could ask the controller indirectly, but that level of detail makes the joke even less funny than it already is, if that were possible.</p>

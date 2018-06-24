@@ -1,0 +1,5 @@
+id: dsq-747519306
+date: 2007-03-20T15:30:05.0000000-07:00
+name: Martin
+avatar: https://disqus.com/api/users/avatars/Martin.jpg
+message: <p>Very nice article and clean examples. <br>I think the reason I like double-check-locking is the true lazy construction, the class construction is only done when a calling client makes it happen. <br>Static loading of a class can happen in many ways. For example, take a class, add some static work, remote that class on a server and reference it on the client. <br>The activation on the client to the server object, will also construct the objects static work *ON* the client. <br>easy fix, remote interfaces but hay, not everyone does it<br><br></p>

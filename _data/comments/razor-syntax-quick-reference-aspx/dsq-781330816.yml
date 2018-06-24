@@ -1,0 +1,5 @@
+id: dsq-781330816
+date: 2013-01-28T17:09:11.0000000-08:00
+name: Geo News
+avatar: https://disqus.com/api/users/avatars/Geo News.jpg
+message: <p>Generate Span tags in Viewfile like this</p><p>@Html.DisplayFor(model =&gt; model.Reading, "Reading")</p>

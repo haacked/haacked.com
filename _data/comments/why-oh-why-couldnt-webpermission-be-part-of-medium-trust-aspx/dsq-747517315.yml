@@ -1,0 +1,5 @@
+id: dsq-747517315
+date: 2006-10-19T04:37:21.0000000-07:00
+name: cathal
+avatar: https://disqus.com/api/users/avatars/cathal.jpg
+message: <p>Phil,<br>the originUrl change should work fine. One thing to be careful of is that it's actually a regular expression, so needs to be correctly formed i.e.this should work (note the period):<br>&lt;trust level="Medium" originUrl="<a href="http://akismet.com/.*" rel="nofollow noopener" title="http://akismet.com/.*">http://akismet.com/.*</a>" /&gt; <br>but this will not :<br>&lt;trust level="Medium" originUrl="<a href="http://akismet.com/*" rel="nofollow noopener" title="http://akismet.com/*">http://akismet.com/*</a>" /&gt;</p>

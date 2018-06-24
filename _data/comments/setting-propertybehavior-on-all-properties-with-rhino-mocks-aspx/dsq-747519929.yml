@@ -1,0 +1,5 @@
+id: dsq-747519929
+date: 2010-02-17T15:27:43.0000000-08:00
+name: Amit Kumar
+avatar: https://disqus.com/api/users/avatars/Amit Kumar.jpg
+message: <p>I got the solution myself,<br>Some how, If I change the above code to following it works:<br>object key = null;<br>SetupResult.For(mde[key]).IgnoreArguments().Return(_mds);</p>

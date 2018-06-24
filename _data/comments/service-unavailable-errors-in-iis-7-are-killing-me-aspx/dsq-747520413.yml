@@ -1,0 +1,5 @@
+id: dsq-747520413
+date: 2012-10-08T22:47:20.0000000-07:00
+name: hlaprade
+avatar: https://disqus.com/api/users/avatars/hlaprade.jpg
+message: <p>Hi Guys, like a lot of you guys I being having this same issue, I saw my worker process was empty, off course since app pool was stopped inmediatly. The thing is that I am new with this shared configuration so probably I look in odd places, I saw an error at the System Level log that cought my attention <br>Application pool "XXXXX" is being automatically disable...<br>and also<br>At the application level log<br>The Module DLL C:\Windows\System32\inetsrv\webdav.dll failled to load. The Data is error.<br>I noticed that it was not install so I installed. Not sure why, if I ran into the reasson why that fixed my problem I will let you guys know!<br>Henri<br></p>

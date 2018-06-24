@@ -1,0 +1,5 @@
+id: dsq-747530661
+date: 2009-11-19T13:19:00.0000000-08:00
+name: Ali
+avatar: https://disqus.com/api/users/avatars/Ali.jpg
+message: <p>wish we could pass validation logic through parameter (like min value) and don't duplicate  this codes in client JS . <br>if there was a converter to convert validation logic we wrote in Attribute ( double cents = price - Math.Truncate(price);<br>    if(cents &lt; 0.99 || cents &gt;= 0.995) {<br>      return false;<br>    }<br>) and covert it to client JS (  if (value &gt; minValue) {<br>          var cents = value - Math.floor(value);<br>          if (cents &gt;= 0.99 &amp;&amp; cents &lt; 0.995) {<br>            return null;<br>          }<br>may be this was possible</p>

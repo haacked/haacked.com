@@ -1,0 +1,5 @@
+id: dsq-747525076
+date: 2008-11-22T21:55:22.0000000-08:00
+name: StackOverflow
+avatar: https://disqus.com/api/users/avatars/StackOverflow.jpg
+message: <p>I am thinking, howto implement the same thing, in control! Like this:<br></p><blockquote><br>Page.aspx<br>&lt;Content&gt;<br>// some where in the body<br>&lt;% Html.PartialView("Tpl.ascx") <br>&lt;/Content&gt;<br>Tpl.ascx<br>&lt;div&gt;Some tags&lt;/div&gt;<br>&lt;% Head(() =&gt; { %&gt;<br>   and this part goes to head tag<br>&lt;% } %&gt;<br></blockquote><p><br></p>

@@ -1,0 +1,5 @@
+id: dsq-747531283
+date: 2010-01-04T03:23:31.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Andy I don't think you should delete and re-insert. I think you should do a soft-delete in this case. For example, in Subtext, we have the ability to flag something as spam. The record isn't deleted, it gets moved to a "spam folder". But now, when you flag something as spam, you can easily undo it without having to navigate to the spam folder.<br>@Bob the point of my plug-in is to make building the UI around undoable operations much easier. I couldn't find anything existing that provided the same effect. You are right, you still need to implement the underlying server action yourself. That'd be out of scope for a jQuery plugin.</p>

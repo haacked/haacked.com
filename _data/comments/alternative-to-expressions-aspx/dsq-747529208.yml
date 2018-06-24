@@ -1,0 +1,5 @@
+id: dsq-747529208
+date: 2009-06-02T09:55:00.0000000-07:00
+name: Vijay Santhanam
+avatar: https://disqus.com/api/users/avatars/Vijay Santhanam.jpg
+message: <p>I like where this is going!<br>But how do you handle optional parameters?<br>For example, I often have<br>public ActionResult List(Paging paging) {return View(model);}<br>where Paging class is custom bound. It's entirely optional and the model binder knows about default values.</p>

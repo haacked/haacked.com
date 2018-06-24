@@ -1,0 +1,5 @@
+id: dsq-747526900
+date: 2008-11-06T04:47:57.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Torkel looking at that page, I see this:<br><code>.WithConstraints(new { id="^[0-9]+$" })</code><br>Isn't the argument to "WithConstraints" an object? That's exactly the discoverability problem that Ayende talked about in his blog post, which I addressed in this post.<br></p>

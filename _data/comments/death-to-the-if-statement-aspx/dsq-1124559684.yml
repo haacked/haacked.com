@@ -1,0 +1,6 @@
+id: dsq-1124559684
+replyToId: dsq-1124499931
+date: 2013-11-15T07:06:07.0000000-08:00
+name: Chris Hynes
+avatar: https://disqus.com/api/users/avatars/disqus_SIyNIcyQlQ.jpg
+message: <p>Not sure how you see that. Mine and the Concat solution are exactly identical semantically. Mine's just written out instead of using LINQ magic.</p><p>And there are no conditionals in either.</p>

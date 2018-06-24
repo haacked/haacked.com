@@ -1,0 +1,5 @@
+id: dsq-747519748
+date: 2007-04-20T00:59:56.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Scott: I redid my code samples to clarify my point. <br>Regarding: bool x = doSomething();<br>If you never use x, does it matter when it is GC'd? Usually, you care about the value of x. But there are cases where doSomething() performs the action you are interested in, and you don't care about x.</p>"

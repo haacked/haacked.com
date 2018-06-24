@@ -1,0 +1,6 @@
+id: dsq-805827185
+replyToId: dsq-805225627
+date: 2013-02-20T08:43:48.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Did you submit an issue? Having a way to see what changes will be made is interesting. Though honestly, aren't you using source control like Git? The only sure way to know what will change is to see it change and then just revert the changes you don't want. :)</p>

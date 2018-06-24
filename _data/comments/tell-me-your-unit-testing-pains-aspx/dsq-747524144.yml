@@ -1,0 +1,5 @@
+id: dsq-747524144
+date: 2012-10-10T04:00:14.0000000-07:00
+name: Reuben Helms
+avatar: https://disqus.com/api/users/avatars/Reuben Helms.jpg
+message: <p>It's 2012, but the ASP.NET application I've been working on recently has been in development since 2004.  For the last few years I've been using PHP, so I don't even know what the code I have is called.  <br>There's a .aspx, and a .aspx.cs and it's definitely not done with the newer, spankier ASP.NET MVC.  Somewhere, deep behind a custom UI library, there's a reference to a System.Web.UI.Page.<br>I'd love to write tests that just deal with the backing class.  No browser, just mocked http contexts and away we go. But this is 2012.  NUnitASP might have come close, but it's defunct.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747525765
+date: 2008-07-16T09:21:49.0000000-07:00
+name: Adam Webber
+avatar: https://disqus.com/api/users/avatars/Adam Webber.jpg
+message: <p>Hi,<br>I'm looking forward to learning about your alternative approaches to the 'dirty' RenderComponent technique.  There is certainly a need to incorporate a mechanism to separate out chunks of V-C so that composable pages do not end up with a mega controller.<br>Note also that moving this to Futures contradicts your earlier statement that 'If we implement something we are pretty sure we have no intention of including in the framework, we’ll typically post it as a blog sample or something to that effect.' (as opposed to putting it in Futures)<br>Best wishes,<br>Adam.</p>

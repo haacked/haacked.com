@@ -1,0 +1,5 @@
+id: dsq-747524964
+date: 2008-04-24T14:03:57.0000000-07:00
+name: Benny Thomas
+avatar: https://disqus.com/api/users/avatars/Benny Thomas.jpg
+message: <p>This sounds like a stupid idè, but shouldn't ControllerActions return a <em>ActionResult</em>. So only methods that return ActionResult would be accepted as ControllerActions. Inheritance on Controllers requires the Class to implement the Actions it want's to expose from it's base.<br>The implementation only needs to redirect the action to the base. This seems like a troublesome solution, but the gain is that it is easy to see which Actions a Controller exposes to the world.<br>My 2 cents.</p>

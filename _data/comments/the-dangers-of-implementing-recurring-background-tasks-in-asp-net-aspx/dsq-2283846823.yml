@@ -1,0 +1,6 @@
+id: dsq-2283846823
+replyToId: dsq-2282864996
+date: 2015-10-01T07:49:08.0000000-07:00
+name: Daniel Vieira Costa
+avatar: https://disqus.com/api/users/avatars/danieleritavieiracosta.jpg
+message: <p>It create a lock unfortunately, asynchronous controller actions does not help in this scenario, because they do not yield response to the user while waiting for the asynchronous operation to complete. They only solve internal issues related to thread pooling and application capacity.</p><p>How could we use your example with Async?</p>

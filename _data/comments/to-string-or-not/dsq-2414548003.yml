@@ -1,0 +1,6 @@
+id: dsq-2414548003
+replyToId: dsq-2413092679
+date: 2015-12-17T10:15:01.0000000-08:00
+name: Ignacio Calvo
+avatar: https://disqus.com/api/users/avatars/ignaciocalvo.jpg
+message: <p>I think that Phil has really more problem with calling static methods (such as Empty and Format) on a thing that doesn't look like a class because it's lower case. 'this' and 'base' represent an instance, not a class, so they look nice being lower case.</p>

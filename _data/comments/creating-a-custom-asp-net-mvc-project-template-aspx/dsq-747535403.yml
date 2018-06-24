@@ -1,0 +1,5 @@
+id: dsq-747535403
+date: 2011-06-06T00:18:07.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Colin I think the "right" way to add custom MVC project templates is to package it up in an MSI.<br>The point of this blog post is to point those out there who want to write such an MSI in the right direction so they know what registry settings to add etc.<br>The MVC team is investigating more loosely coupled tooling. I'll have more details in the future.</p>

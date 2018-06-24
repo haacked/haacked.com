@@ -1,0 +1,5 @@
+id: dsq-747511408
+date: 2006-08-18T01:19:01.0000000-07:00
+name: Henry Felton
+avatar: https://disqus.com/api/users/avatars/Henry Felton.jpg
+message: <p>Having just come across this problem myself I've also had to resort to nested divs, which seems a bit messy and wasteful but there's no real alternative. CSS3 will bring <i>border-image</i> but don't see how would do what you suggest now Jonas?</p>

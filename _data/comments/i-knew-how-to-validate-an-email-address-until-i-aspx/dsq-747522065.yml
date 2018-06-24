@@ -1,0 +1,5 @@
+id: dsq-747522065
+date: 2007-09-25T07:59:38.0000000-07:00
+name: GMW
+avatar: https://disqus.com/api/users/avatars/GMW.jpg
+message: <p>So many here seem to forget that there is more to email validation that just wanting to correct user input... there is also the issue or parsing a list of emails (as just one example).  If I cannot reliably recognise/validate a single email address (including all special characters and quoting rules) how can I possibly parse a string that contains a list of addresses?</p>

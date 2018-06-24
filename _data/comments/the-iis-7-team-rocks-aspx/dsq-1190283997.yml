@@ -1,0 +1,5 @@
+id: dsq-1190283997
+date: 2014-01-07T01:09:18.0000000-08:00
+name: davesters81
+avatar: https://disqus.com/api/users/avatars/davesters81.jpg
+message: <p>WOW, this actually worked! I have been messing with this stupid thing for days and stumbled upon this post. Even though I am using port 8080 instead of port 80 and am on IIS 8.5.</p><p>I had a reservation in my urlacl for this same port 8080. I was running these commands telling myself "This probably won't even do anything". but then it Worked! Amazing that this still works almost 7 years later.</p><p>Thanks for posting this and props to the IIS team!</p>

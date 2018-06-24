@@ -1,0 +1,5 @@
+id: dsq-747528728
+date: 2010-07-25T23:10:40.0000000-07:00
+name: James
+avatar: https://disqus.com/api/users/avatars/James.jpg
+message: <p>I am running into error when I tried to run the sample project. It says "A project with an output type of class library cannot be started directly. In order to debug this add an executable project which references the library project. Set the executable project as the start up project. "<br>What am I doing wrong? Please help. <br>Thanks in advance.</p>

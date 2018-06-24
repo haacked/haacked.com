@@ -1,0 +1,5 @@
+id: dsq-747529273
+date: 2009-06-15T09:18:00.0000000-07:00
+name: Fixer
+avatar: https://disqus.com/api/users/avatars/Fixer.jpg
+message: '<p>Re Roadmap: I think a full end to end validation framework is critical for the enterprise. We need to have a validation framework thats can be defined once and can be re-used throughout the layers, UI, Controllers and Models.<br>This will also touch on the productivity areas...NO repetition of validation code which is so common in development.<br></p>'

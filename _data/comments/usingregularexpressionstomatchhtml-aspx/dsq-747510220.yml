@@ -1,0 +1,5 @@
+id: dsq-747510220
+date: 2007-11-15T20:51:43.0000000-08:00
+name: sums
+avatar: https://disqus.com/api/users/avatars/sums.jpg
+message: '<p>Hi,<br>I was reading through your posts.<br>Can you please help me with this problem:(Which is pretty simple but I do not know regular expressions)<br>I need to define a rule where anypage.aspx converts to anypage (to define in web.config)<br>ex: <a href="http://www.xyz.com/page1.aspx" rel="nofollow noopener" title="www.xyz.com/page1.aspx">www.xyz.com/page1.aspx</a>  or <a href="http://www.xyz.com/page2.aspx" rel="nofollow noopener" title="www.xyz.com/page2.aspx">www.xyz.com/page2.aspx</a> etc. beocomes<br><a href="http://www.xyz.com/page1" rel="nofollow noopener" title="www.xyz.com/page1">www.xyz.com/page1</a>  and <a href="http://www.xyz.com/page2" rel="nofollow noopener" title="www.xyz.com/page2">www.xyz.com/page2</a> respectively.<br><br>Looking forward to hearing from you soon.<br>Thanks..</p>'

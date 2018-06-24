@@ -1,0 +1,5 @@
+id: dsq-747518754
+date: 2007-02-27T01:00:54.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>...and I might add the risk that there's something you forgot to add to your list of risks. ;) <br>There always seems to be something you couldn't anticipate. I had a similar incident where I flew to Chicago to install an Intranet for a HUGE company. And their database on-site is ORACLE. I developed the site for SQL Server. Somehow, this little detail slipped everyone's radar.<br>Luckily, it took a bit of feverish on-site coding to get things working. THis was in the ASP days, so I only needed notepad.</p>

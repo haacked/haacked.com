@@ -1,0 +1,6 @@
+id: dsq-1915917751
+replyToId: dsq-1864105357
+date: 2015-03-19T06:12:08.0000000-07:00
+name: Jim Schubert
+avatar: https://disqus.com/api/users/avatars/jimschubert.jpg
+message: <p>XXE injection would be one of my main concerns (regarding Hanselman's article). <a href="https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Processing" rel="nofollow noopener" title="https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Processing">https://www.owasp.org/index...</a></p><p>I think the only real concern with common files allowed in the URL would be if you're loading a file according to URL parameters and not properly ignoring relative paths. I think you'd need to have improper permissions on your app, and a slew of other things, though.</p>

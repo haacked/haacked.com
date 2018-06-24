@@ -1,0 +1,5 @@
+id: dsq-747524158
+date: 2008-02-12T04:43:01.0000000-08:00
+name: Scott Bellware
+avatar: https://disqus.com/api/users/avatars/Scott Bellware.jpg
+message: <p>Chris,<br>I'm really not talking about authorization, I'm talking about what makes sense for requests processed by the MVC framework, or the request handlers in ASP.<br>The routing engine exposes a meaningful, higher-level API for configuring request handling.  That means that it has the ability to treat requests for internal, framework-specific resources as requests for resources that don't exist.<br>So, if you've got the MVC framework in-play in your app, then the framework's code should be responsible for default behaviors for request routing for resources that are its concern.</p>

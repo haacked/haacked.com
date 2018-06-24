@@ -1,0 +1,5 @@
+id: dsq-747515270
+date: 2006-06-06T06:28:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I used Dare's code because I figured posting to Delicious was more similar than posting to w.Bloggar since I have to save the user's username and password and actually post information over the web.<br>In the end, there were enough differences that I still ended up having to write alot of code.  But at least I didn't have to write the encryption/decryption stuff.</p>

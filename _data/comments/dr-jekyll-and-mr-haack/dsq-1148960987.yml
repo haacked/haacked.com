@@ -1,0 +1,6 @@
+id: dsq-1148960987
+replyToId: dsq-1148954215
+date: 2013-12-03T09:42:33.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I have 1840 posts. GitHub is constantly improving it's infrastructure so it may be faster now than it was in the past.</p><p>Running Jekyll is a little slow on my machine, but now that I have it set up, I just do a lot of my blogging in the browser.</p><p>&gt; Also, when including images in your posts, you cannot use github to upload them, correct? In other words, you're forced to use a local git repo to add images.</p><p>So what I do is create and edit my posts in the browser (<a href="https://github.com/blog/1327-creating-files-on-github)" rel="nofollow noopener" title="https://github.com/blog/1327-creating-files-on-github)">https://github.com/blog/132...</a>. The editor lets you drag and drop images and they're hosted on GitHub's CDN.</p>

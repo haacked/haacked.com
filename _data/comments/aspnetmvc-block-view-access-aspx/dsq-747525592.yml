@@ -1,0 +1,5 @@
+id: dsq-747525592
+date: 2008-06-25T02:47:52.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Steven my concern is that while developing a custom view engine is a very advanced scenario, using one is not necessarily. And there's no way we can create an "affordance" that would indicate that if you're choosing to use this alternate view engine, you also need to remember to update web.config. That'll be something a LOT of people will forget.</p>

@@ -1,0 +1,5 @@
+id: dsq-747536435
+date: 2011-10-20T03:43:05.0000000-07:00
+name: Luke
+avatar: https://disqus.com/api/users/avatars/Luke.jpg
+message: <p>Do you have any insight into recommended auth methods using WebAPI when it will be consumed programmatically?  I was playing with it a couple months back and I felt like I was stuck between forcing the client to use a weird forms based hack where they auth, store the cookie, and include the cookie with every request, and implementing a complicated OAuth-style token mechanism.  Is there any hope for a simple standard api authentication mechanism to make its way into WebAPI (besides using windows authentication :-)?</p>

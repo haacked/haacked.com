@@ -1,0 +1,5 @@
+id: dsq-747517736
+date: 2006-11-22T01:26:38.0000000-08:00
+name: Tom
+avatar: https://disqus.com/api/users/avatars/Tom.jpg
+message: <p>I don't like the approach, using join.  I prefer the following which I feel is simpler and will perform better (uses less memory), especially with more items:<br>Fake[] fakes = Fake.GetFakes();<br>StringBuilder builder = new StringBuilder();<br>foreach(Fake fake in fakes)<br>{<br>if (builder.length &gt; 0)<br>builder.Append('|'); // char, not string!<br>builder.Append(fake.SomeProp);<br>}<br>This doesn't require allocation of the string[] and also eliminates having to remember the fixup code at the end to remove the extra delimiter.  It is also easy to look at code like this and be pretty confident that it is correct.<br>I would only use the join method if I already had a string[] around for another reason - I don't see any performance advantage possible in allocating this intermediate representation just for the purpose of passing it into join.</p>

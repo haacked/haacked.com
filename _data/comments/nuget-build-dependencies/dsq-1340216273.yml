@@ -1,0 +1,5 @@
+id: dsq-1340216273
+date: 2014-04-16T03:09:43.0000000-07:00
+name: Paul Cox
+avatar: https://disqus.com/api/users/avatars/disqus_RloRflgbx8.jpg
+message: <p>You also have to consider the MSBuild dependency which unfortunately then implies an OS dependency as we found out to our detriment recently.</p><p>We found we could no longer build the product on our build server after upgrading to MVC 5 as our build server runs Windows Server 2008 and MSBuild now requires at least 2008 R2.</p><p>Maybe MS could open source MSBuild now that it is separate from the VS release cycle. Then you could have a cross platform build tool specified as a NuGet dependency on your project that is automatically restored during the build.<br></p>

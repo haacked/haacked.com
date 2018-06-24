@@ -1,0 +1,5 @@
+id: dsq-747523555
+date: 2007-12-06T07:52:33.0000000-08:00
+name: jbogard
+avatar: https://disqus.com/api/users/avatars/jbogard.jpg
+message: <p>Feathers calls this technique "subclass and override" in his Legacy Code book, but it's the same thing.  This is a very common technique when dealing with legacy code, and I have to do this a lot with non-virtual members too (<a href="http://grabbagoft.blogspot.com/2007/08/legacy-code-testing-techniques-subclass.html)" rel="nofollow noopener" title="http://grabbagoft.blogspot.com/2007/08/legacy-code-testing-techniques-subclass.html)">http://grabbagoft.blogspot....</a>.<br>I don't feel dirty if I'm already swimming in mud.</p>

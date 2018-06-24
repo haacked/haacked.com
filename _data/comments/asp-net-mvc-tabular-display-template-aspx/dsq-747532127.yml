@@ -1,0 +1,5 @@
+id: dsq-747532127
+date: 2010-05-06T10:03:36.0000000-07:00
+name: Sam
+avatar: https://disqus.com/api/users/avatars/Sam.jpg
+message: <p>If the IList is empty does this code fail with an out of bounds exception?<br>&lt;%<br>  var properties = ModelMetadata.FromLambdaExpression(m =&gt; m[0], ViewData)<br>    .Properties<br>    .Where(pm =&gt; ShouldShow(pm, ViewData));<br>%&gt;</p>

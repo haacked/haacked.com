@@ -1,0 +1,5 @@
+id: dsq-2458474077
+date: 2016-01-14T14:10:15.0000000-08:00
+name: David Robles
+avatar: https://disqus.com/api/users/avatars/disqus_nKtWB9KDH3.jpg
+message: <p>Hi, thanks for this article, it has helped me a lot in some apps I've developed, since this article is from 2008 I just want to know if there is a simpler way to do this, since I've been using a lot of javascript to concatenate the elements names so they can be ready for the submit, also I've added delete items functionality but when you delete some item in the middle you have to rearrange indexes and do a lot of dirty work through javascript, maybe there is a new js framework that can help to simplify this process, any help will be appreciated. Thanks again for this well explained article.</p><p>UPDATE</p><p>Never mind, you're great I didn't read the --- Non-Sequential Indices --- Section of this.. again.. Legendary article.</p>

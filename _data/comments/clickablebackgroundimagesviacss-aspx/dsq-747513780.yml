@@ -1,0 +1,5 @@
+id: dsq-747513780
+date: 2007-02-26T05:24:13.0000000-08:00
+name: John Andrews
+avatar: https://disqus.com/api/users/avatars/John Andrews.jpg
+message: <p>You really don't want to put that H1 in there. The h1 tag signals topical heirarchy information, and search engines use it to help interpret the semantic meaning of the page content. No big deal to not be helpful, except because you have an H1 hidden behind an image, it suggests you might be hiding a content signal behind an image because it doesn't actually match your user content. That's one way to spam the search engines. Google at least watches for it. This happened to TypePad when they had h1 tags behind the masthead logo image. Google sent warnings to people who had wordy titles in the hidden h1 tag, even when they were relevant.<br>As an experienced SEO I am pretty sure the h1 gave Google a reason to impart spammy intent. It clearly doesn't belong. <br>I like the post otherwise. Helpful for sure.</p>

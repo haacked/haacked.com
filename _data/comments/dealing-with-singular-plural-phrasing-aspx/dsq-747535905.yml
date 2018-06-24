@@ -1,0 +1,5 @@
+id: dsq-747535905
+date: 2011-08-16T13:52:40.0000000-07:00
+name: Remy
+avatar: https://disqus.com/api/users/avatars/Remy.jpg
+message: <p>We actually store the whole sentence in the resx files.E.g. A sentence for zero, 1 and more results. If you mingle individual words like in your example it gets difficult to translate afterwards. And yes, don't forget the 0 case as Karel pointed out. Maybe we need something where you can add as many different plural phrasing as you want, so it works for all languages.</p>

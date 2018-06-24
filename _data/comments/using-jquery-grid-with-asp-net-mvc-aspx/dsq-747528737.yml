@@ -1,0 +1,5 @@
+id: dsq-747528737
+date: 2010-08-18T03:56:40.0000000-07:00
+name: nader hamzei
+avatar: https://disqus.com/api/users/avatars/nader hamzei.jpg
+message: <p>OK, I seemed to have figured out why the data isnt coming back but it is hardly a good fix. here is the issue, If this code worked for you in MVC 1 and doesnt in VS2010 and MVC 2 that is because of changes in Json, in particular the "Get" method. this has been disallowed by default. The reason is Get can open you up to JSON Hijacking. To get the code to work, look at my previous post and change the last line to :<br>Return Json(jsonData, JsonRequestBehavior.AllowGet)<br>this will allow the data to return and get populated, BUT THERE IS A COST. NOW, you can possible be JSON Hijacked.<br>Phil, can u wiegh in on this? Should this be depricated?</p>

@@ -1,0 +1,5 @@
+id: dsq-747526821
+date: 2009-02-23T04:47:49.0000000-08:00
+name: Todd
+avatar: https://disqus.com/api/users/avatars/Todd.jpg
+message: <p>Further to my last post:<br>Since I believe that eventually (VS2010) we will see ASP.NET MVC, Unity and CAB (Prism for ASP.NET MVC) come together, I took the code bits and put them together myself.<br>This allows me to xcopy modules (MVC applications) to a specific area in the host MVC application (Modules subdir). The Prism modularity code then allows the modules to be loaded at start-up.<br>With a bit of tweaking to Phil's code (module initialization), I now have a great composite application platform for my web designs.<br></p>

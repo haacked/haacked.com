@@ -1,0 +1,5 @@
+id: dsq-747516900
+date: 2007-05-06T13:59:55.0000000-07:00
+name: Stefan Holmberg
+avatar: https://disqus.com/api/users/avatars/Stefan Holmberg.jpg
+message: '<p>Paul,<br>you have some great ideas here which might not be too obvious to spot right away : the use of a static SymmetricAlgorithm - and therefore generating a new key and IV at each app restart. I used a hardcoded key which is not so clever:) "No javascript" is not an issue in my particular project so I am using a sort of JQuery driven invisible captcha where I add hidden fields to the form by using javascript. I also stuff a lot of things inside a cookie such as the hidden field name (I generate a new hidden field control name for each request/response) since my app is useless without cookies anyway.</p>'

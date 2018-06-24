@@ -1,0 +1,5 @@
+id: dsq-747530699
+date: 2009-12-16T15:37:53.0000000-08:00
+name: ace
+avatar: https://disqus.com/api/users/avatars/ace.jpg
+message: <p>Great article, is it possible to use EnableClientValidation with a html form tag e.g &lt;form name="test" action="asd"&gt; instead of Html.BeginForm.  I found that the Client validation stops working when i try to use the html form tag.</p>

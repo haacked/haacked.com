@@ -1,0 +1,5 @@
+id: dsq-747511874
+date: 2005-05-31T00:32:00.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>hehehe, I can only think of a couple of instances where I've conciously implemented a pattern. Most of the time I just write code willy nilly, then I look back and say "oh look, there's a decorator pattern." The only design pattern I think about before hand is usually the object factory pattern.</p>

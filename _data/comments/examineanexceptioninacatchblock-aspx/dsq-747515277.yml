@@ -1,0 +1,5 @@
+id: dsq-747515277
+date: 2006-06-07T06:39:00.0000000-07:00
+name: Luke
+avatar: https://disqus.com/api/users/avatars/Luke.jpg
+message: <p>Cool, thanks for the tip :)<br>I'm mainly a Java programmer, and I habitually use e.printStackTrace() in all my catch blocks. Sometimes this helps me to see what is going on without even launching debugger.<br>Once the code is tested and ready for production, I do a quick search and replace to comment out all the printStackTrace calls.<br></p>

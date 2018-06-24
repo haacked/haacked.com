@@ -1,0 +1,5 @@
+id: dsq-747532494
+date: 2010-06-09T20:11:31.0000000-07:00
+name: Carl H&#246;rberg
+avatar: https://disqus.com/api/users/avatars/Carl H&#246;rberg.jpg
+message: '<p>In Linq to SQL:<br>.Any(): select case when exists (select null [your query]) then 1 else 0 <br>.Count(): select count(*) where [your query]<br></p>'

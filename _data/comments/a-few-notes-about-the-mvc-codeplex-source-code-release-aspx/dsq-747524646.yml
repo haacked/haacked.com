@@ -1,0 +1,5 @@
+id: dsq-747524646
+date: 2008-03-21T19:51:06.0000000-07:00
+name: tgmdbm
+avatar: https://disqus.com/api/users/avatars/tgmdbm.jpg
+message: <p>It's nice to have the source, to see how you guys write, to read your comments.<br>But because I can't redistribute it I can't really publicize/externalize/virtualize certain methods just to make my life easier. As soon as I get the next version, those methods may still be marked with private, internal, or not marked virtual.<br>If I do, I'll be creating my own breaking changes nightmare.<br>I would need some way of knowing the changes I was making would eventually show up in the next version...<br>?</p>

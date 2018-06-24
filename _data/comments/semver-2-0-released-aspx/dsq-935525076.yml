@@ -1,0 +1,6 @@
+id: dsq-935525076
+replyToId: dsq-935502979
+date: 2013-06-19T09:31:03.0000000-07:00
+name: dominictarr
+avatar: https://disqus.com/api/users/avatars/dominictarr.jpg
+message: <p>Thanks Isaac Schlueter, that is much more clear than before - but there is one thing I must beg to differ on. SemVer is a specification. it is not a description of how people use semver, but a precise description of what semver is, so that you can judge whether any particular instance of a version number is valid semver or not.</p><p>If anything, a spec is more like legislation than a dictionary.</p>

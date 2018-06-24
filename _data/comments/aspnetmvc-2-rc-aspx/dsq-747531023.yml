@@ -1,0 +1,5 @@
+id: dsq-747531023
+date: 2009-12-17T00:07:06.0000000-08:00
+name: BuzzBox
+avatar: https://disqus.com/api/users/avatars/BuzzBox.jpg
+message: <p>@Eilon Lipton<br>What is, please, a version number of the RC DLL?<br>Also, as far as I know, I can still develop an application in VS10Beta2 and manually reference the new RC DLL? Or it will not compile within .NET 4 at all?<br>If I already have VS2010Beta 2 installed, I have to remove it to install MVC2 RC?</p>

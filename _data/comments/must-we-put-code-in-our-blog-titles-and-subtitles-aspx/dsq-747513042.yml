@@ -1,0 +1,5 @@
+id: dsq-747513042
+date: 2005-09-25T13:14:00.0000000-07:00
+name: jayson knight
+avatar: https://disqus.com/api/users/avatars/jayson knight.jpg
+message: <p>how about:<br><br><br><br>class myClass<br><br>{<br><br>     protected virtual void jaysonBlog (params string[] title)<br><br>     {<br><br>          foreach (string s in title)<br><br>          {<br><br>               Console.Write(s);<br><br>               Console.ReadLine();<br><br>          }<br><br>     }<br><br>}<br><br><br><br>class writeBlogTitle<br><br>{<br><br>     myClass m = new myClass()<br><br>     m.jaysonBlog(new string[] {string.Format("{0} {1} {2} {3} {4} {5} {6} {7} {8}", "A", "conduit", "to", "the", "voices", "in", "my", "head", ".")});<br><br>}<br><br><br><br>ok that's a terrible example, but the best I can come up w/ at 3am :-).<br><br><br><br>Good post.</p>

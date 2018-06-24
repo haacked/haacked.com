@@ -1,0 +1,6 @@
+id: dsq-1924071874
+replyToId: dsq-1724525303
+date: 2015-03-23T14:18:02.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>The short answer is that git stash is global. I tend to work on a lot of branches in parallel and what I usually want is a per-branch stash.</p><p>I use stash when I want to bring a set of changes across to another branch.</p><p>Also, I sometimes push my work in progress to a one-off branch as a backup of my local work. The git stash is local.</p>

@@ -1,0 +1,5 @@
+id: dsq-747527091
+date: 2008-11-16T03:39:39.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Mike Not sure how this helps in migrating from WebForms to MVC. The view engine I referred to is the <code>WebFormViewEngine</code> which is part of ASP.NET MVC.<br>This view engine makes use of WebForms only to render views. You still don't get PostBack or ViewState etc... with this view engine. At least not in any supported fashion. :)</p>

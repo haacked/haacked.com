@@ -1,0 +1,5 @@
+id: dsq-747511853
+date: 2005-06-02T00:37:00.0000000-07:00
+name: Rocky Moroe
+avatar: https://disqus.com/api/users/avatars/Rocky Moroe.jpg
+message: <p>This is one of the hardest lessons learned as a developer.  Even for my own projects, it is hard to strip the "goal" project to a more simplistic model in order to get the core functional and add continue to develop in phases.<br><br><br><br>However, in this instance, I am not sure it would have taken much extra tiem to have a database layer and not tie the database to the UI.  I personally, always at a minimum, build a simple database layer that consists of a "Data Manager" class that handles all communication with the database and  use strong typed datasets as dataobjects for the UI.  This little time, but still keeps the UI/Database seperated.<br><br><br><br>In VS2003, I would create a component class (as the manager class) and drop all my DataAdapters, Commands, Connection(s) on the component designer, and build that as a dll.  That allows me to pull the strong typed datasets in as components in my ui and bind to them easily with the wizards and at the same time leaves my data layer modular.<br><br></p>

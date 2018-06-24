@@ -1,0 +1,5 @@
+id: dsq-747525595
+date: 2008-06-25T03:06:35.0000000-07:00
+name: Neal Blomfield
+avatar: https://disqus.com/api/users/avatars/Neal Blomfield.jpg
+message: <p>My thinking may be a little backwards wrt ASP.NET MVC (I still use monorail), but isn't the views directory really a directory of templates through which the views are rendered and therefore shouldn't containing anything but templates?<br>IMHO use a content directory to separate stuff that the browser will request directly from the stuff that the browser will receive indirectly (the views).</p>

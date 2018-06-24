@@ -1,0 +1,5 @@
+id: dsq-747527890
+date: 2010-02-19T22:56:31.0000000-08:00
+name: ASM
+avatar: https://disqus.com/api/users/avatars/ASM.jpg
+message: <p>It's still very dangerous no matter what you as long as there is an action to delete records from the DB. I can simply type in the address bar of the browser after the document is loaded<br>Javascript:$.post('/Home/Delete/1'); and it will delete.<br>Mind you every thing you put in the page is exposed wheather it's a hidden field or whatever. Javascripst is not good if you allow it to handle operations that should be made on the server side.<br>You should not use Ajax or Javascript to delete anything from the DB. it's very risky and it is EXPOSED</p>

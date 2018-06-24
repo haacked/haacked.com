@@ -1,0 +1,5 @@
+id: dsq-747524402
+date: 2008-03-12T06:08:20.0000000-07:00
+name: Dragan Panjkov
+avatar: https://disqus.com/api/users/avatars/Dragan Panjkov.jpg
+message: <p>Phil,<br>there is a typo in code snippet posted in this post, inside GetHttpHandler should be CheckUrlAccessForPrincipal instead of CheckUrlAccessForPrincipa. Inside posted source code everything is OK.</p>

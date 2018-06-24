@@ -1,0 +1,5 @@
+id: dsq-747524194
+date: 2008-02-20T18:09:10.0000000-08:00
+name: Chad Lee
+avatar: https://disqus.com/api/users/avatars/Chad Lee.jpg
+message: <p>"Suppose we wish to add a new method or property to IHttpContext. We’ve effectively created a new interface and now all clients need to recompile."<br>Who doesn't expect to have to recompile their application with a new version of the .Net Framework?  The whole premise of that argument seems ridiculous to me.<br>Fight the man, Phil - instead of explaining to us why the koolaid tastes so good...<br>:)</p>

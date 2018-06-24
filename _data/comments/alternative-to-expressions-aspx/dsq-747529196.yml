@@ -1,0 +1,5 @@
+id: dsq-747529196
+date: 2009-06-02T01:45:00.0000000-07:00
+name: configurator
+avatar: https://disqus.com/api/users/avatars/configurator.jpg
+message: <p>Phil, how about generating a class for the links?<br>For instance, if you have a controller in Controllers.HomeController, you could generate a class in the same namespace Controllers.HomeLinks or Controllers.HomeControllerLinks, which would be used like this:<br>HomeLinks.About(122)</p>

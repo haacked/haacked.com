@@ -1,0 +1,5 @@
+id: dsq-1168389168
+date: 2013-12-17T21:44:45.0000000-08:00
+name: Li Chen
+avatar: https://disqus.com/api/users/avatars/disqus_Hopkf3WYax.jpg
+message: <p>Phil, I am not sure if there is anyway to simply nested if. If the logic dictates the number of branches, whether you use Linq or use Rx, you still have that many branches. That said, some times we have code before reaching the next branch. If I call the code leaves, too much leave would hide the branches. If you refactor the leaves into separate functions, the branches would become clean and visible. <br>Your example demonstrated some coolest extras of Rx, buffer and scheduler, that allows you to play magic with events in time. Cool stuff!</p>

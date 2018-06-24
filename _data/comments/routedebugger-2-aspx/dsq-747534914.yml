@@ -1,0 +1,5 @@
+id: dsq-747534914
+date: 2011-04-19T01:03:04.0000000-07:00
+name: Chris Sebok
+avatar: https://disqus.com/api/users/avatars/Chris Sebok.jpg
+message: <p>Brilliant little tool, just used it to sort out a n00b issue I was having, will keep it around...<br>However... it seemed to break my unobtrusive validation (using JQuery 1.5.1) - mainly my RemoteAttribute, though some of my RequiredAttribute model fields were breaking too... I disabled RouteDebugger and it all worked fine... just a heads up! Hit me up if you want some code examples :)</p>

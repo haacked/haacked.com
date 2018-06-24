@@ -1,0 +1,5 @@
+id: dsq-747532167
+date: 2010-05-17T19:12:54.0000000-07:00
+name: Thanigainathan
+avatar: https://disqus.com/api/users/avatars/Thanigainathan.jpg
+message: <p>Hi Phil,<br>I have one general doubt. In our application we saw that 1.10 is converted as 1,10 for spain culture. So we used invariant culture to format these type of strings. Is that correct or we should adjust our scripts accordingly ?<br>Thanks,<br>Thanigainathan.S</p>

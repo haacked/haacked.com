@@ -1,0 +1,5 @@
+id: dsq-747525077
+date: 2008-12-06T21:55:56.0000000-08:00
+name: Todd Smith
+avatar: https://disqus.com/api/users/avatars/Todd Smith.jpg
+message: <p>@Barry these type of helper methods are only used by the view engine. The model and controller are oblivious to them.</p>

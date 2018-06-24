@@ -1,0 +1,5 @@
+id: dsq-747534795
+date: 2011-04-10T09:26:38.0000000-07:00
+name: Rush
+avatar: https://disqus.com/api/users/avatars/Rush.jpg
+message: <p>I would like packages updated across all projects in a solution. It's a pain to go through each project and update all packages individually. For some solutions we are doing continuous integration and during the build process it pushes nuget package(s). These packages could get updated quite a bit and are used in many projects in many solutions. I wish there was an easier way to update.</p>

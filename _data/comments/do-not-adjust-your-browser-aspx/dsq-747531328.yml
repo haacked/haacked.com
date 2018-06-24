@@ -1,0 +1,5 @@
+id: dsq-747531328
+date: 2010-01-12T00:38:05.0000000-08:00
+name: Paco
+avatar: https://disqus.com/api/users/avatars/Paco.jpg
+message: <p>Another issue of using the threadpool is that it's possible to exhaust all the threads. When this technique is used to send an email, and the mailserver is down, and the timeout is 60 seconds, the whole webserver is down (or sleeping for a too long time) when a all threads are waiting for the timeout to send an email.</p>

@@ -1,0 +1,5 @@
+id: dsq-747523442
+date: 2007-11-26T15:30:18.0000000-08:00
+name: Chris Martin
+avatar: https://disqus.com/api/users/avatars/Chris Martin.jpg
+message: <p>If you are just totally against letting IoC do it's thing, you just do it yourself at runtime.<br>Not sure about StructureMap...<br>I usually have a class for resolving objects from Windsor.<br>public IController HomeController{<br>get{ <br>MembershipProvider provider = Membership.Provider;<br>return IoC.Resolve&lt;IController&gt;("home-controller", new object[]{provider});<br>}<br>}</p>

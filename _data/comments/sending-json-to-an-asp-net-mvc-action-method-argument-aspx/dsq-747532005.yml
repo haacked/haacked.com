@@ -1,0 +1,5 @@
+id: dsq-747532005
+date: 2010-09-05T14:22:47.0000000-07:00
+name: Johan van Heerden
+avatar: https://disqus.com/api/users/avatars/Johan van Heerden.jpg
+message: <p>Thanks for the post Phil,<br>Like Michael Reyeros I too have problems with the deserialization of the JSON response. The properties of the object I receive in my action method are not set. When I use my own model binder and leave out the value provider the properties are all set. I would like to have the validation, but it seems I can't use both the value provider and a custom model binder.<br>Any help/ideas would be greatly appreciated.</p>

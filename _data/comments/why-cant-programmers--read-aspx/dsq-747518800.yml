@@ -1,0 +1,5 @@
+id: dsq-747518800
+date: 2007-03-07T02:17:00.0000000-08:00
+name: Tony Morris
+avatar: https://disqus.com/api/users/avatars/Tony Morris.jpg
+message: <p>"Follow FIzzBuzz with a recursion problem"<br>Here is the clincher.<br>FizzBuzz *is* a recursion problem. The fact that people try to solve it in any other way (typically a loop) is what leads to the high defect rate.<br>It is simply a map over a list<br>&gt; map f [1..100] <br>Of course, I have omitted the definition of f, but I only wish to point out that loops (imperative programming for that matter) are a) leading to high defect rates b) nobody (in the general sense) knows it because they don't know anything superior exists (or they get on their high horse at the mention of one thing being superior to another - I've seen this before)<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747536425
+date: 2012-10-20T18:00:41.0000000-07:00
+name: Badcop666
+avatar: https://disqus.com/api/users/avatars/Badcop666.jpg
+message: <p>I dealt with a similar scenario in a windows service which spawned worker threads. Service stop request had to tell each thread that a stop was pending. Each thread, operating in a wait-do loop, simply checked a stopping flag prior to each loop. The unit of work was well within the service stop wait period, hence, allowing started tasks to complete was un-problematic.<br>I also like the simplicity of implementing this simple mechanism in an existing platform. In this case, IIS is the overall process controller rather than windows service host. Good discussion thanks to all.<br></p>

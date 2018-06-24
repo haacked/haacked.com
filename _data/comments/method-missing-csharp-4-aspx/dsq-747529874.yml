@@ -1,0 +1,5 @@
+id: dsq-747529874
+date: 2010-07-20T06:22:53.0000000-07:00
+name: Jacob
+avatar: https://disqus.com/api/users/avatars/Jacob.jpg
+message: <p>Hey, static morons, maybe you didn't notice, but this code a wrapper for an Object Dictionary that has string parameters. <br>Making it dynamic doesn't actually lose any type-safety or intellisense because it never had any.</p>

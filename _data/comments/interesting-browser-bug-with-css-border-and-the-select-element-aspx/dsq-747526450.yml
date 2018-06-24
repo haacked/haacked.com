@@ -1,0 +1,5 @@
+id: dsq-747526450
+date: 2008-10-14T05:04:20.0000000-07:00
+name: maudite
+avatar: https://disqus.com/api/users/avatars/maudite.jpg
+message: <p>didn't know select would render. <br><code> <br>&lt;select&gt;<br>  &lt;option&gt;A&lt;/option&gt;<br>&lt;/select&gt;&lt;select&gt;<br> <br>&lt;/select&gt;</code></p>

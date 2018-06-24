@@ -1,0 +1,5 @@
+id: dsq-747534427
+date: 2012-09-21T10:42:05.0000000-07:00
+name: Vedank Kulshrestha
+avatar: https://disqus.com/api/users/avatars/Vedank Kulshrestha.jpg
+message: <p>Currently i am using below code snippet during Application start<br><strong>routes.MapPageRoute("CategoryRoute", "{sCatName}/{sCatId}", "~/Category.aspx");<br>routes.MapPageRoute("SubCategoryRoute", "{CatName}/{CatId}", "~/SubCategory.aspx");<br></strong><br>On page i am using<br><strong><br>sCatId = Convert.ToInt32(RouteData.Values["sCatId"].ToString());<br></strong><br>Still facing problem when i redirecting from this page to another page. It stucks back on "RouteData.Values["sCatId"].ToString()" and gives error.<br></p>

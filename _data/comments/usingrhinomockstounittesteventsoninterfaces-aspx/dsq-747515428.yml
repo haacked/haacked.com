@@ -1,0 +1,5 @@
+id: dsq-747515428
+date: 2006-07-05T15:35:00.0000000-07:00
+name: Chris Hedgate
+avatar: https://disqus.com/api/users/avatars/Chris Hedgate.jpg
+message: <p>Nice writeup, wish I had this when we implemented the same kind of tests for verifying that our presenters attaches to the view's events. But the docs and Rhino Mocks mailing list provided enough for us to get it right (more or less exactly the way you describe here).<br>However, recently we have changed our code a bit. Instead of having our views raising events that the presenters react to, we just have our views call the "event handler" methods in the presenter directly. This simplified writing the tests (as well as the views of course) a lot, and since there is always a one-to-one relationship between a view and a presenter we saw no need to use events. If there where many presenters that should be notified then events are go, but we thought this change was correct here and simplified things.<br>Any comments on that? More or less every example of MVP (in .Net) that I have seen uses events, so maybe we are missing something.</p>

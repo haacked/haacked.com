@@ -1,0 +1,6 @@
+id: dsq-1053205756
+replyToId: dsq-747513680
+date: 2013-09-20T12:34:37.0000000-07:00
+name: David Legg
+avatar: https://disqus.com/api/users/avatars/David Legg.jpg
+message: '<p>there is an inelegant work around. <br>override the behavior attribute with a correct relative path if it differs from the base definition.<br>i.e. in my case, most pages are in the root of the web site with the PIE.htc files in a subfolder name PIE.<br>primary style sheet uses behavior: url(PIE/PIE.htc); where needed.<br>sheets in a subfolder will not be able to get the effects for the PIE package when they use features including the above definition, so add additional CSS that changes the definition to behavior:url(../PIE/PIE.htd);</p>'

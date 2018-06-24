@@ -1,0 +1,5 @@
+id: dsq-747525850
+date: 2008-08-14T15:36:18.0000000-07:00
+name: David
+avatar: https://disqus.com/api/users/avatars/David.jpg
+message: <p>@Rob,<br>A spade and shovel are two different tools in the gardening world :D (spade is for digging, a shovel is for scooping up stuff!).<br>Our team is a real world team and we implement the theory!  We have four levels of testing, unit testing at the lowest level, Unit testing.  Unit testing should be (in my opinion) isolated (does not hit any databases or requires any external influencing factors – including other logic and configuration files).  <br>Second we have an integration test that tests the application as a whole and how it integrates with the database, external configuration etc.  <br>Thirdly we have an end to end test that tests interaction between different applications ensuring they communicate with each other correctly.<br>Fourth test we perform is sending our applications off to a different team to install and then test the front end interaction (GUI) and ensure it all appears to work.<br></p>

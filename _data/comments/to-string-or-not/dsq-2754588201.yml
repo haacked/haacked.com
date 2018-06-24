@@ -1,0 +1,6 @@
+id: dsq-2754588201
+replyToId: dsq-2677201697
+date: 2016-06-28T03:33:59.0000000-07:00
+name: Nyerguds
+avatar: https://disqus.com/api/users/avatars/maartenmeuris.jpg
+message: <p>Fully agree on the alias ambiguity. In fact, nowadays I see no real reason to still call anything "primitive types". They're all classes on which functions can be called, after all. C# has no such thing as "primitive types".</p>

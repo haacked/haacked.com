@@ -1,0 +1,5 @@
+id: dsq-747526010
+date: 2008-08-30T06:10:28.0000000-07:00
+name: Gary Davis
+avatar: https://disqus.com/api/users/avatars/Gary Davis.jpg
+message: <p>Some text from above got lost due to brackets:<br><b>The specified schema name "&lt;dbUser,varchar,dbo&gt;" either does not exist or you do not have permission to use it.</b><br>I looked at some tables and the TABLE_SCHEMA column had 'dbo' and not '&lt;dbUser,varchar,dbo&gt;' as some of your statements are looking for. <br>Gary</p>

@@ -1,0 +1,5 @@
+id: dsq-747532525
+date: 2010-06-13T21:01:50.0000000-07:00
+name: James Hare
+avatar: https://disqus.com/api/users/avatars/James Hare.jpg
+message: "<p>@Conor: Not sure I understand what you're saying.  If the where clause reduces it to an empty set, then the MoveNext() in Any() returns false a Any() returns false.  Unless you're thinking of something specific?<br>Otherwise here's what I see in Reflector for Any():<br><code><br>public static bool Any&lt;TSource&gt;(this IEnumerable&lt;TSource&gt; source)<br>{<br>    if (source == null)<br>    {<br>        throw Error.ArgumentNull(\"source\");<br>    }<br>    using (IEnumerator&lt;TSource&gt; enumerator = source.GetEnumerator())<br>    {<br>        if (enumerator.MoveNext())<br>        {<br>            return true;<br>        }<br>    }<br>    return false;<br>}<br></code></p>"

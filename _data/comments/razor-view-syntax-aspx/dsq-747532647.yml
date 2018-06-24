@@ -1,0 +1,5 @@
+id: dsq-747532647
+date: 2010-09-12T00:18:52.0000000-07:00
+name: Kevin
+avatar: https://disqus.com/api/users/avatars/Kevin.jpg
+message: <p>:) That last example got encoded.  I'll restate, using '[' and ']' instead of greater-than, less-than signs.<br>I would expect the following to emit "[b]this should be bold[/b]", but instead I get "[b] } this should be bold if(true) { [/b]"<br>                <br>@if(true) { [b] }<br>this should be bold<br>if(true) { [/b] }<br></p>

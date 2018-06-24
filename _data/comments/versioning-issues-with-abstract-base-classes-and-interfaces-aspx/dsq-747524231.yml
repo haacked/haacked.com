@@ -1,0 +1,5 @@
+id: dsq-747524231
+date: 2008-02-21T07:18:03.0000000-08:00
+name: Francois Tanguay
+avatar: https://disqus.com/api/users/avatars/Francois Tanguay.jpg
+message: <p>The last thing I want to do after I've referenced an assembly and developed a whole application around it is to change the version of the assembly I'm running upon!<br>Would you really want to be able to just overwrite you're running app with a version 2.0 of a Grid Control when you're referencing version 1.0 and expect everything to work just fine?<br>The first rule of package dependency is to choose one version, test everything against it, run with it and stick to it.<br>If there is one thing you'll be sure to do when upgrading version, is recompile, run UTs, test plenty and test again!<br></p>

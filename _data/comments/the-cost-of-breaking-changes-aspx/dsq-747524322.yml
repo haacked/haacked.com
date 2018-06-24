@@ -1,0 +1,5 @@
+id: dsq-747524322
+date: 2008-03-06T03:07:42.0000000-08:00
+name: David Nelson
+avatar: https://disqus.com/api/users/avatars/David Nelson.jpg
+message: <p>@Joe,<br>"other than the last 4 or 5 comments, I don't seen anyone advocating balance. I see a bunch of comments on why Interfaces should be favored over ABCs and why breaking changes are acceptable."<br>Precisely. Interfaces should be <em>favored</em> over ABCs. Not used exclusively, favored. People are in fact advocating balance, and in particular are advocating interface over ABC in this particular circumstance. Saying that those of us who are in favor of <em>relaxing</em> the back-compat restrictions actually want Microsoft to "not take backwards compatability into account" is an exaggerated attempt to polarize the issue, and does nothing to further the actual discussion.<br>In response to your particular argument, I would argue that 15 years of dealing with Win32 should have taught Microsoft quite a bit about the perils of leaving broken and/or poorly designed implementations in a long-lived framework. Do you really want .NET to look like Win32 in another 5 years?</p>

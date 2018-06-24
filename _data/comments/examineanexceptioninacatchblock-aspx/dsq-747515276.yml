@@ -1,0 +1,5 @@
+id: dsq-747515276
+date: 2006-06-07T05:19:00.0000000-07:00
+name: Cullen Waters
+avatar: https://disqus.com/api/users/avatars/Cullen Waters.jpg
+message: <p>Another benefit of using $exception is that putting in the System.FormatException e, and then not using the e variable results in a compiler warning.<br>Good tip, thanks.</p>

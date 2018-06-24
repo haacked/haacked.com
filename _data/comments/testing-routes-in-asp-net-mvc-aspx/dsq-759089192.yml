@@ -1,0 +1,6 @@
+id: dsq-759089192
+replyToId: dsq-757764677
+date: 2013-01-07T09:09:39.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>There is a bit of white-box testing going on here for sure. While you might argue that this is really an integration test because of that, I felt like it's still fine to call it a unit test because it's fast, it doesn't require loading in any of the ASP.NET runtime, the specific implementation behavior I rely on is (as you point out) probably _NEVER_ going to change, and it provides value to have as part of your unit test suite.</p><p>A lot of projects I know don't bother with the automated Integration tests (egad!). If you do have integration tests, then feel free to move these into that suite. :)</p>

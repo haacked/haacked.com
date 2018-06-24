@@ -1,0 +1,5 @@
+id: dsq-747538068
+date: 2012-05-26T01:09:05.0000000-07:00
+name: davidacoder
+avatar: https://disqus.com/api/users/avatars/davidacoder.jpg
+message: <p>Can you say something about your choice of "pull --rebase" for sync? I've never used --rebase with a pull, the man pages say it is dangerous, so I am wondering a) why you go that way and b) whether there is something one needs to be careful about for that reason.</p>

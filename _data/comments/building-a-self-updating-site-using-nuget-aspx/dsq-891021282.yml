@@ -1,0 +1,5 @@
+id: dsq-891021282
+date: 2013-05-09T09:52:22.0000000-07:00
+name: India
+avatar: https://disqus.com/api/users/avatars/$102259574.jpg
+message: "<p>return new WebProjectManager(packageSource, siteRoot); is giving me error \"Method not found: 'NuGet.PackageSource NuGet.PackageSource.op_Implicit(System.String)'.\" Any help wil work</p><p>I am using AutoUpdate 0.2.1 and NuGet.Core 2.5.40416.9020</p><p>Thanks in Advance.</p>"

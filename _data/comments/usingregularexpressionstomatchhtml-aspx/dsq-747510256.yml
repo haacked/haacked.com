@@ -1,0 +1,5 @@
+id: dsq-747510256
+date: 2009-03-10T03:55:24.0000000-07:00
+name: Andrei
+avatar: https://disqus.com/api/users/avatars/Andrei.jpg
+message: <p>I am trying to match and replace links in anchor tags. It works with /&lt;a\s+href="([^&gt;]+?)"/ but i need to replace only what is in the href, the url, not all the anchor element..</p>

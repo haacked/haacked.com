@@ -1,0 +1,5 @@
+id: dsq-747514085
+date: 2006-02-13T02:55:00.0000000-08:00
+name: Wessam Zeidan
+avatar: https://disqus.com/api/users/avatars/Wessam Zeidan.jpg
+message: <p>Hello Phil,<br><br>I just tried your hack to add web usercontrols to a class library, it works fine, but there are a couple of things that don't work. First, when you add a web usercontrol to the class library, you can't tell it to place the code in a seperate file. So what I did was I created a temp website, created the usercontrol there, and then copied the files to the class library project. This places the ascx and ascx.cs files in the class library project, but they will not be linked, although double clicking on a button control in the ascx file for instance will generate the correct event handler in the ascx.cs file. The other thing is that you can't get a reference to the controls that are defined in the usercontrol from the codebehind file.</p>

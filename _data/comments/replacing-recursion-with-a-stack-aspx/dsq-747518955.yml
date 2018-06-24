@@ -1,0 +1,5 @@
+id: dsq-747518955
+date: 2011-02-20T23:01:03.0000000-08:00
+name: ys
+avatar: https://disqus.com/api/users/avatars/ys.jpg
+message: <p>Note that the order of traversal is different in each version.<br>the recursive function is depth-first and the stack version is breadth-first.</p>

@@ -1,0 +1,5 @@
+id: dsq-747526454
+date: 2008-10-14T05:27:41.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Thanks all! I updated the post with a big mea culpa. Yep, it's because the SELECT tag is not closed and the DOCTYPE wasn't specified. I included a link to an example with corrected HTML and it indeed does work correctly.<br>So consider this a bug with my HTML and not with the browsers. :)</p>

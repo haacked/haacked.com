@@ -1,0 +1,5 @@
+id: dsq-747533572
+date: 2010-11-21T04:17:43.0000000-08:00
+name: Jim Geurts
+avatar: https://disqus.com/api/users/avatars/jgeurts.jpg
+message: <p>Hey Phil,<br>Is there a way to modify certain parts of source files, similar to the web.config transforms?  For example, I have a package that requires initialization code to be added to the Application_Start method and tear down code added to the Application_End method in Global.asax.cs.  Additionally, it requires a static field variable to be added to that class.<br>I know I could move that logic to a http module and use a config transform to register the module, but I prefer to keep it in the global.asax.cs, in this case.<br>Thanks,<br>Jim</p>

@@ -1,0 +1,5 @@
+id: dsq-3688222484
+date: 2018-01-02T08:10:48.0000000-08:00
+name: James Robertson
+avatar: https://disqus.com/api/users/avatars/disqus_C99ZwVjFyb.jpg
+message: "<p>I realise this is an old post, but it's encountering these sorts of problems that forced me to write Oso XML Merge in the first place.  Plug it in to your favourite UI, train it up with the XML files you're dealing with, and it will resolve most \"conflicts\" for you automatically.</p><p>In the given example, if you told it to identify Page elements by the value of the Include attribute, it would give you both sides (BBB and CCC) as separate additions to the merged file.</p><p>Most of the time I tell SmartGit to open the conflict resolver, I hit save straight away (in Oso XML Merge), and get on with my life.  ;)</p><p>More info here:  <a href=\"https://osocorporation.com/xmlmerge/index.php\" rel=\"nofollow noopener\" title=\"https://osocorporation.com/xmlmerge/index.php\">https://osocorporation.com/...</a></p>"

@@ -1,0 +1,5 @@
+id: dsq-747521975
+date: 2007-12-13T22:45:28.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Perhaps I have. :)<br></p><blockquote>On the other hand, when you start using duck typing, all bets are off. There is no due diligence, there is no declarative implementation, and there is no way for a consumer to know whether a particular method or set of methods correctly fulfills a given set of requirements.</blockquote><p><br>This is the part I don't agree with. Why is there no due diligence? If I'm going to ducktype one type to another, I certainly will write tests, check my assumptions, etc... Perhaps even more so if I didn't write the class I'm attempting to cast to the interface.<br>You seem to suggest that duck typing will cause me to go crazy with its power, suddenly forgetting good software practices, just slapping things together willy nilly.</p>

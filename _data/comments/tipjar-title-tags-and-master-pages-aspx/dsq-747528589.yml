@@ -1,0 +1,5 @@
+id: dsq-747528589
+date: 2010-02-18T01:05:46.0000000-08:00
+name: Peter Lanoie
+avatar: https://disqus.com/api/users/avatars/Peter Lanoie.jpg
+message: <p>Using VS2008 and MVC 1, the tag Phil suggests:<br><code><br>   &lt;asp:LiteralControl runat="server" Text=" - MySite" /&gt;<br></code><br>Results in the error "Unknown server tag 'asp:LiteralControl'."<br>Instead use:<br><code><br>   &lt;asp:Literal runat="server" Text=" - MySite" /&gt;<br></code></p>

@@ -1,0 +1,5 @@
+id: dsq-747519087
+date: 2007-10-17T11:30:33.0000000-07:00
+name: Mikhail Diatchenko
+avatar: https://disqus.com/api/users/avatars/Mikhail Diatchenko.jpg
+message: '<p>There are times when writing a custom configuration provider is an overkill, but  working with AppSettings is not as elegant.<br>Solution? To write a wrapper class for app settings.<br>To speed things up I have written a simple tool to generate a wrapper class for app settings from Web.config or App.config - <a href="http://wiki.webgear.co.nz/ClassFromConfig.ashx" rel="nofollow noopener" title="http://wiki.webgear.co.nz/ClassFromConfig.ashx">ClassFromConfig</a>.<br>Check it out: <a href="http://wiki.webgear.co.nz/ClassFromConfig.ashx" rel="nofollow noopener" title="http://wiki.webgear.co.nz/ClassFromConfig.ashx">http://wiki.webgear.co.nz/C...</a></p>'

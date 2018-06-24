@@ -1,0 +1,5 @@
+id: dsq-747508303
+date: 2010-02-03T10:14:49.0000000-08:00
+name: Gang
+avatar: https://disqus.com/api/users/avatars/Gang.jpg
+message: <p>good discussion. I met the same question when our SOAP calling program meets Squid proxy. <br>I think the solution of disabling ServicePoint.Expect100Continue would done well.<br>Besides, I noticed that set  ServicePoint.Expect100Continue to false still affects following calls in .net programs, even if I restart debugging another inststance. Who has idea ?</p>

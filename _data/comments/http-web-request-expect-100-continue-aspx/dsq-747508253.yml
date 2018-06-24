@@ -1,0 +1,5 @@
+id: dsq-747508253
+date: 2006-04-02T10:10:00.0000000-07:00
+name: IvanX
+avatar: https://disqus.com/api/users/avatars/IvanX.jpg
+message: <p>Thanks for writing this. I thought it was just me! I was excited to see there was an easy solution. Frustratingly, however, the Expect100Continue property of WebRequest.ServicePoint is absent in .NET Compact Framework, which is what I am working with. I might just have to go with raw sockets for posting if I can't figure something else out...</p>

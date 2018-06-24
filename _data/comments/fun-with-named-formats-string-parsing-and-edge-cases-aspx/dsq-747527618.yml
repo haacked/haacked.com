@@ -1,0 +1,5 @@
+id: dsq-747527618
+date: 2009-01-04T16:43:37.0000000-08:00
+name: Peli
+avatar: https://disqus.com/api/users/avatars/Peli.jpg
+message: "<p>Previous got cut. Here's the second formatter:<br>            Func&lt;string&gt; stringformat = () =&gt; <br>            {<br>                return String.Format(\"{0} is a {1} is a {2} is a {3:#.#}\",<br>                    <a href=\"http://o.foo\" rel=\"nofollow noopener\" title=\"o.foo\">o.foo</a>, <a href=\"http://o.bar\" rel=\"nofollow noopener\" title=\"o.bar\">o.bar</a>, o.baz, o.qux);<br>            };<br>The number are pretty much self-explanatory (altough the StringBuilder time is too small and probably has a large error margin): all hand made implementation are significantly slower.</p>"

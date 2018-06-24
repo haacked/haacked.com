@@ -1,0 +1,5 @@
+id: dsq-747538029
+date: 2012-05-22T10:11:29.0000000-07:00
+name: Thomas Freudenberg
+avatar: https://disqus.com/api/users/avatars/Thomas Freudenberg.jpg
+message: <p>Artiom, <a href="http://windows.github.com/help.html" rel="nofollow noopener" title="http://windows.github.com/help.html">windows.github.com/help.html</a> states regarding remotes:<br></p><blockquote><br><strong>Multiple Git remotes &amp; non-GitHub remotes</strong><br>GitHub for Windows does not support multiple Git remotes and it will only work with the origin remote. If you wish to push &amp; pull to other remotes, we suggest you use the command line client that is included with the application.<br>GitHub for Windows is optimized to work with GitHub remotes — but if you wish to use a non-GitHub remote, it will work just fine. Set the remote manually in the settings tab and everything else should work as expected. You can also drag in repositories from the file system and GitHub for Windows will respect the configuration of the origin remote.<br></blockquote>

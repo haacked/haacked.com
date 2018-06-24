@@ -1,0 +1,5 @@
+id: dsq-792548547
+date: 2013-02-07T19:01:50.0000000-08:00
+name: IlyaGrebnov
+avatar: https://disqus.com/api/users/avatars/IlyaGrebnov.jpg
+message: <p>What you need 'await ' in this statment "ThrowsAsync&lt;someexception&gt;(async () =&gt; await obj.GetSomeAsync())". I think ThrowsAsync will take care about it?<br> </p>

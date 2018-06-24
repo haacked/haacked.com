@@ -1,0 +1,5 @@
+id: dsq-747533691
+date: 2010-12-10T01:34:33.0000000-08:00
+name: Asbj&#248;rn
+avatar: https://disqus.com/api/users/avatars/Asbj&#248;rn.jpg
+message: <p>Just a note on installation. I had it fail on vs10-kb2465236-x86.exe for no apparent reason. The log file didn't say anything more than a serious error occured. However, once I opened the update by itself, it became apparent that it wanted to access the VS2010 installation disc (or in my case, ISO image). On it did so, it installed with no issues. And so did the rest of MVC3.</p>

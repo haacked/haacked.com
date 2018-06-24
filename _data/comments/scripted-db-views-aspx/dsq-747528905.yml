@@ -1,0 +1,5 @@
+id: dsq-747528905
+date: 2009-04-22T18:09:00.0000000-07:00
+name: huey
+avatar: https://disqus.com/api/users/avatars/huey.jpg
+message: <p>I really hate having to make ViewModels (I try and just pass Business Object but it doesn't always fit).  It can become annoying when you start to get a ton of ViewModels that offer no benefit as far as I can tell -- just clutter.<br>I'm not really dynamic language smart, and maybe you can do this with C#, but passing an anonymous type to the View seems awesome.  No need to create a model just for the hand off from the controller to the view.<br>Is this only available with dynamic languages?  I wouldn't want to use a dynamic language for my business logic (I'm comfortable with C#) but for the view it seems to have benefits.</p>

@@ -1,0 +1,5 @@
+id: dsq-795304656
+date: 2013-02-11T01:27:50.0000000-08:00
+name: Matt Davey
+avatar: https://disqus.com/api/users/avatars/disqus_asZ0mfCnmj.jpg
+message: <p>Reminds me of the old svn externals days! This is a great idea in principle but I can see a couple of gotchas. If NuGet changes the namespace to match the project, isn't there always going to be an outstanding commit in the local repo? I think package authors would be forced to make a read-only repo url available (admittedly you get this for free on github). Secondly, I know Microsoft are backing git heavily, but I would be sad to see NuGet shun Mercurial.</p>

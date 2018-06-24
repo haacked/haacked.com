@@ -1,0 +1,5 @@
+id: dsq-747534779
+date: 2011-04-07T18:14:32.0000000-07:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: "<p>Questions #3 and #4 are tricky- although I'd like to have the exact same version of an assembly in all projects, this is not always possible.  In a larger development environment, core (company) framework code doesn't always move as fast as other projects, and upping versions of IoC containers, serialization libraries, or other libs is not always feasible.  <br>It will also be nice to add a reference to all projects and/or all test projects.  Usually I find having to add the service library twice, especially to the parent/test project.<br></p>"

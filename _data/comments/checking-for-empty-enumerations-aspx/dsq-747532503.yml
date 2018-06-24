@@ -1,0 +1,5 @@
+id: dsq-747532503
+date: 2010-06-09T23:53:23.0000000-07:00
+name: Seth Petry-Johnson
+avatar: https://disqus.com/api/users/avatars/Seth Petry-Johnson.jpg
+message: "<p>I use the very same .IsNullOrEmpty() extension all the time, and I also have defined its inverse .IsNotNullOrEmpty(). I like using this for strings as well as sequences because it provides a very consistent way of writing null handling code.<br>@Troels: I have to disagree a little bit. Helpers like \".IsNotNullOrEmpty()\"  are very useful in presentation code when we only want to output data if there is non-null, non-empty data to display. <br>In general I prefer the defensive programming approach of \"if you can deal with nulls gracefully, do so\". A decent library of extensions goes a long way to keeping the code clean and elegant and helps avoid regression issues when code changes and you suddenly start receiving null arguments.  (Of course, if you _can't_ deal gracefully with nulls then you should throw an explicit exception, but many times a null or empty check is fine)</p>"

@@ -1,0 +1,5 @@
+id: dsq-747525263
+date: 2008-10-15T00:25:35.0000000-07:00
+name: Bruce
+avatar: https://disqus.com/api/users/avatars/Bruce.jpg
+message: <p>I want to do something similar to:</p><p><br><code>routes.Map("forms/{whatever}/{somedata}").To("~/forms/{whatever}.aspx")</code><br></p><p> and get {somedata} as route data. But {somedata} is appended as a query string which as you stated above is invalid. Any suggestion? Thanks.</p>

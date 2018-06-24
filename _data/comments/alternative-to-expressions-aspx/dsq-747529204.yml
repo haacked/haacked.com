@@ -1,0 +1,5 @@
+id: dsq-747529204
+date: 2009-06-02T07:31:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Mike You've only addressed the action name. What about action methods that have parameters? Wouldn't you like a type safe mechanism for specifying those paramters?</p>

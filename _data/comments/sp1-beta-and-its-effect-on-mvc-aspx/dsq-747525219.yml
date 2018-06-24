@@ -1,0 +1,5 @@
+id: dsq-747525219
+date: 2008-05-16T02:10:06.0000000-07:00
+name: Thomas Danecker
+avatar: https://disqus.com/api/users/avatars/Thomas Danecker.jpg
+message: <p>I have problems getting the MVC Framework to work. Whenever I run a website (from Visual Studio's host or from IIS 7), it just shows me the empty Default.aspx. The framework's routing isn't triggered. I tried a fresh Project and also reinstalled the MVC Framework Preview 2. No change.<br>Do you have any ideas what may causing a problem?<br>I'm running Windows Server 2008...</p>

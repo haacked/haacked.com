@@ -1,0 +1,6 @@
+id: dsq-1187921934
+replyToId: dsq-1187435126
+date: 2014-01-05T06:48:15.0000000-08:00
+name: Brad Westness
+avatar: https://disqus.com/api/users/avatars/bradwestness.jpg
+message: <p>Another way to do a similar thing in C# would be to accept an <code>Object</code> parameter rather than a <code>Duck</code> parameter in your method signature, and then use reflection to check if it has a <code>.Quack()</code> method.</p><p>You can basically accomplish the same thing with interfaces, but I can see where some library author might prefer the stylistic choice of being able to say "just implement a <code>.Quack()</code> method" rather than "all objects must implement <code>IQuackable</code>."</p><p>Personally I like the interface approach better because I prefer compile-time exceptions to run-time exceptions, but in dynamic languages the duck-typing method is sometimes your only viable option.</p>

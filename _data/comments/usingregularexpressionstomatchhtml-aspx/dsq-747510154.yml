@@ -1,0 +1,5 @@
+id: dsq-747510154
+date: 2005-04-04T07:05:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hi Jim,<br><br><br><br>That's actually quite challenging.  You could attempt to use .NET's balanced matching mechanism, but it's pretty difficult to get the grasp of and it's not standard Regex.<br><br><br><br>It really depends what you're trying to accomplish.  One way I've done it is to use a regex that matches html tags and then strip all tags out.<br><br><br><br>Hope that helps.</p>

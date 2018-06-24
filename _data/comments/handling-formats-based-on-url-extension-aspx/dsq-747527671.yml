@@ -1,0 +1,5 @@
+id: dsq-747527671
+date: 2009-01-06T23:56:52.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@josh Yep, I have worked with Rails and am familiar with its method of respond_to. This was just experimentation with alternative approaches. I think Troy has a great point in that you really would want to specify which formats an action method accepts. I just haven't gotten to that yet.<br>I want to see what's more natural, using an attribute or doing it in code? For example, Hammet showed me a prototype of another method of doing this which involved lambdas a long time ago that looked pretty cool. I'll have to ping him about digging that up and updating it.</p>

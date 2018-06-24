@@ -1,0 +1,5 @@
+id: dsq-747525684
+date: 2008-07-08T19:19:25.0000000-07:00
+name: Troy Goode
+avatar: https://disqus.com/api/users/avatars/Troy Goode.jpg
+message: '<p>Hi Phil,<br>Great explanation. In my opinion this is a "security hole" because server variables that have been [b]historically safe[/b] from user input (such as SERVER_NAME &amp; LOGON_USER) [b]no longer are[/b] if accessed in this manner.<br>The other server variables (such as POST_METHOD) also become considerably easier to modify (e.g.: you could do it from your iPhone), but as you said, they were always user input in the end anyway.</p>'

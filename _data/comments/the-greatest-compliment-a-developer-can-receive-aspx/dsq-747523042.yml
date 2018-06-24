@@ -1,0 +1,5 @@
+id: dsq-747523042
+date: 2007-10-09T04:08:18.0000000-07:00
+name: Pete
+avatar: https://disqus.com/api/users/avatars/Pete.jpg
+message: <p>Ok... So you spend zero time maintaing the consistency of your own comments, and much time maintaing the consistency of your method names. <br>I think I kind of understand why you don't trust other people's comments either.<br>Personally I spend my time maintaing BOTH comments and method names. It takes a bit more time to write, but by doing it I'm able to grasp the meaning of my own functions in much less than 30 seconds, even when visiting them years after I first wrote them. I just browse through the comments in front of each code block, and I instantly can tell what the function does, without even looking at any of the code. <br>It's a better way.... ;)</p>

@@ -1,0 +1,5 @@
+id: dsq-747534792
+date: 2011-04-08T23:56:36.0000000-07:00
+name: Wesley Tansey
+avatar: https://disqus.com/api/users/avatars/Wesley Tansey.jpg
+message: "<p>When working at a hedge fund, I used to keep my trading models, utilities, and core libs all in one big project. It just made it easier to prototype things and go, since 90% of projects were dumped anyway. There were issues sometimes with the R COM interface libraries being buggy for some calls in newer versions, but older ones didn't have the features I needed in the other projects. Once the direction and process became more solidified, I cleaned everything up: separate solutions and actually removed the R COM dependencies -- I just write scripts and run R programmatically now.<br>I wouldn't mind if VS asked me to upgrade the older versions, though.</p>"

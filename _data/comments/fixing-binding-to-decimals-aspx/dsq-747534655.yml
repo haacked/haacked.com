@@ -1,0 +1,5 @@
+id: dsq-747534655
+date: 2011-06-16T02:34:10.0000000-07:00
+name: Travis Illig
+avatar: https://disqus.com/api/users/avatars/tillig.jpg
+message: <p>Was playing with this and ran into an issue.<br>If you do something in a controller like this...<br>return RedirectToAction("Success", new { Amount = decimalValue });<br>...then when the querystring gets generated, it comes out like this...<br><a href="http://server/Controller/Success?Amount=1234.56" rel="nofollow noopener" title="http://server/Controller/Success?Amount=1234.56">http://server/Controller/Success?Amount=1234.56</a><br>It's always formatted in InvariantCulture. I *think* I tracked this down to the System.Web.Routing.ParsedRoute.Bind() method.<br>The point is, if you use the culture-aware model binder and the culture uses the opposite decimal/thousands separator, you have a problem. 1234.56 is no more a valid format when dot is the thousands separator than 1234,56 is when comma is the separator. FormatException.<br>I'm not sure how to overcome this. It's not safe to do a try/catch on it because which would you try first? Invariant or Specific culture? What if you guess wrong?</p>

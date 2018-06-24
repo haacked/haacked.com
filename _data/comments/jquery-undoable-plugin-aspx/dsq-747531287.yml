@@ -1,0 +1,5 @@
+id: dsq-747531287
+date: 2010-01-06T05:18:16.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Glen Yeah. What I probably need to do is get the size of the target and explicitly set the width and height of the new row to be that of the original. I'm not sure how to do this yet as I didn't have time to look into it.</p>

@@ -1,0 +1,6 @@
+id: dsq-825838124
+replyToId: dsq-747522023
+date: 2013-03-11T11:43:46.0000000-07:00
+name: plus-user
+avatar: https://disqus.com/api/users/avatars/plus-user.jpg
+message: <p> There is no requirement for a domain to have an MX record. That's why you can't use looking up an MX record as a test of validity. By testing using MX, you're creating a dodgy interpretation of a reasonable standard.</p>

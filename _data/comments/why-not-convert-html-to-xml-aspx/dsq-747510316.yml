@@ -1,0 +1,5 @@
+id: dsq-747510316
+date: 2004-10-26T22:30:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Ha! No shit.  That was one tricky piece of code.  But address validation is a tough cookie to parse, even with regular expressions because of all the damn exceptions.</p>

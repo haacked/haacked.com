@@ -1,0 +1,5 @@
+id: dsq-747527756
+date: 2009-01-26T10:46:10.0000000-08:00
+name: Tyler Garlick
+avatar: https://disqus.com/api/users/avatars/Tyler Garlick.jpg
+message: <p>What about abstracting out the application_start routing data into web.config parameters--I'd like to see it go declarative.<br>I could totally see something like this:<br>&lt;web.routing&gt;<br>&lt;route pattern="{controller}{action}{id}" handler="WebFormRouteHandler" /&gt;<br>&lt;/web.routing&gt;</p>

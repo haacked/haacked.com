@@ -1,0 +1,5 @@
+id: dsq-747527693
+date: 2009-01-09T07:54:35.0000000-08:00
+name: Morgan Cheng
+avatar: https://disqus.com/api/users/avatars/Morgan Cheng.jpg
+message: <p>IMHO, If BeginInvoke throws a exception, then no need to call EndInvoke.</p>

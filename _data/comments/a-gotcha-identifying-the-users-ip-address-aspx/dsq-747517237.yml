@@ -1,0 +1,5 @@
+id: dsq-747517237
+date: 2010-11-08T17:59:19.0000000-08:00
+name: Bal
+avatar: https://disqus.com/api/users/avatars/Bal.jpg
+message: <p>HttpContext.Current.Request.ServerVariables["HTTP_X_FORWARDED_FOR"] is always returning null even though having the proxy for my LAN.<br>I deployed website in my own LAN.<br>HttpContext.Current.Request.ServerVariables["REMOTE_ADDR"] is working but always returning the Proxy ip.<br>How to get the exact IP of the system within the LAN. <br>Any ideas is greatly appreciated please leave the answer. <br>Thanks<br>Balu</p>

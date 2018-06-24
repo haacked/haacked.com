@@ -1,0 +1,5 @@
+id: dsq-747510268
+date: 2010-07-14T16:04:45.0000000-07:00
+name: Flavio Troja
+avatar: https://disqus.com/api/users/avatars/Flavio Troja.jpg
+message: <p>I need a regular expression that catch html code between the tags &lt;div class="result"&gt;<br> and &lt;br clear="all"&gt;<br>look like this:<br>    &lt;div class="result"&gt;<br>    ....   (I whant catch this)<br>    &lt;br clear="all"&gt;<br><br>can you help me?<br></p>

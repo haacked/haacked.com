@@ -1,0 +1,5 @@
+id: dsq-747507628
+date: 2006-11-01T00:23:58.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I didn't need the temp table to do the auto-increment, I needed the temp table for another reason.  That was the GOAL of that task.<br>My UPDATE statement is the same as yours, essentially. The only difference was that I was updating the temp table.</p>

@@ -1,0 +1,5 @@
+id: dsq-747518806
+date: 2007-03-08T23:43:17.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Thanks opello for pointing out the unclosed tags! I'm surprised that happened. Shouldn't happen in Subtext. Looks like I have a bug to open. I closed the tags myself and removed the closing tags from your comment.</p>

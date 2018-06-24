@@ -1,0 +1,5 @@
+id: dsq-747527736
+date: 2009-01-20T23:54:27.0000000-08:00
+name: Jon
+avatar: https://disqus.com/api/users/avatars/Jon.jpg
+message: "<p>&lt;p&gt;I think it's unfair to compare the implementations using DataBinder.Eval with those just doing basic reflection on a type's properties. Eval supports nested properties, indexers, etc, but will inevitably be somewhat slower.&lt;/p&gt;<br>&lt;p&gt;For what it's worth, here's my attempt at an implementation: <a href=\"http://www.amtiskaw.co.uk/JonFormatter.txt\" rel=\"nofollow noopener\" title=\"http://www.amtiskaw.co.uk/JonFormatter.txt\">http://www.amtiskaw.co.uk/JonFormatter.txt</a>&lt;/p&gt;<br>&lt;p&gt;I tried to do it like I would have in 1st year CompSci. I convert the string to a char array and step through with a for loop, building up a StringFormatter result as I go. Turned out a couple of hundredths of a second faster than Henri's.&lt;/p&gt;</p>"

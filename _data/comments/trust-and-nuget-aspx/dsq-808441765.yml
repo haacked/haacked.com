@@ -1,0 +1,5 @@
+id: dsq-808441765
+date: 2013-02-22T06:40:53.0000000-08:00
+name: bsimser
+avatar: https://disqus.com/api/users/avatars/bsimser.jpg
+message: <p>The verification problem is one that's bugged me for a few months now but it's more about "what is the official package" not trusting the package. I thought about "verified nuget" or something similar to verified twitter accounts. What I would like to see is some central source (<a href="http://nuget.org" rel="nofollow noopener" title="nuget.org">nuget.org</a> sounds right) where a user registers his package and is verified to be the "official" package for that thing. For example when I type in SignalR I get all kinds of packages. Some are Microsoft, some are not. How do I know what the official package I should get it? How do I know which Autofac package is the right one? That's more what I would like to see. If I see the one "official" twitter bootstrap package out of the dozen or so ones out there I know it's known, supported, etc. (hopefully).</p>

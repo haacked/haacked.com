@@ -1,0 +1,5 @@
+id: dsq-747522772
+date: 2007-09-20T12:20:13.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@jayson but I didn't spell out how to exploit it.<br>I said, "which allows someone to upload files into the images directory without being authenticated" but didn't say how one would go about doing that.</p>

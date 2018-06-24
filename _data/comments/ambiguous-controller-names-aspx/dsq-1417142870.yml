@@ -1,0 +1,6 @@
+id: dsq-1417142870
+replyToId: dsq-1392632154
+date: 2014-06-02T21:53:12.0000000-07:00
+name: ozbob
+avatar: https://disqus.com/api/users/avatars/ozbob.jpg
+message: '<p>@Html.ActionLink("AnchorContent","Portal","App", routeValues: new { area = "areaname" }, htmlAttributes:new { title = "actionlinktitle", alt = "link description"})</p>'

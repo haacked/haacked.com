@@ -1,0 +1,5 @@
+id: dsq-747531308
+date: 2010-01-14T01:45:01.0000000-08:00
+name: Becker
+avatar: https://disqus.com/api/users/avatars/Becker.jpg
+message: <p>On a somewhat related note, where has the Microsoft.Web.Mvc.Build.dll assembly gone from the MVC2 RC release.<br>It was present in the Preview 2 release (within VS2008 Tools installer) but is no longer present in RC. Is this no longer supported?</p>

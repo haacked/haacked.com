@@ -1,0 +1,5 @@
+id: dsq-747516203
+date: 2007-06-12T07:35:10.0000000-07:00
+name: Tyler Gannon
+avatar: https://disqus.com/api/users/avatars/Tyler Gannon.jpg
+message: <p>Phil,<br>     This post and subsequent conversations helped me a lot in writing well-tested and readable code.  Thanks!  The new question I have is - do you see any way to fit SubSonic's generated DAL into this pattern?  <br>I am feeling a little annoyed that, as far as I can tell, Subsonic's fetch methods are on constructors and static methods of the object.  This means that I have to write another Very Generic adaptor to those methods if I am going to create interfaces which can be passed around like you describe.<br>Is there another way to do this, that I have been missing thus far?<br>Tyler</p>

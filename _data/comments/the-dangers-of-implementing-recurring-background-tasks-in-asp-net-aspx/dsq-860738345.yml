@@ -1,0 +1,5 @@
+id: dsq-860738345
+date: 2013-04-12T03:30:57.0000000-07:00
+name: John K.
+avatar: https://disqus.com/api/users/avatars/johnkamau.jpg
+message: <p>I came across another method that requires very little code. In Application_start, add an item to the cache with the timeout you want, and add a callback function that will run your scheduled code. Then in the callback function, re-add the item back into the cache, with the same timeout and same callback function.</p><p>Simple scheduler with almost no code.</p>

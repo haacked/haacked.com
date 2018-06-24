@@ -1,0 +1,5 @@
+id: dsq-747527130
+date: 2008-11-20T18:56:52.0000000-08:00
+name: Filini
+avatar: https://disqus.com/api/users/avatars/Filini.jpg
+message: "<p>Another thing that I've always found funny in HTML is the behavior of breaking-rows inside table cells. <br>The new line after the BR is not rendered unless some content is written after the BR.<br>BTW: how do I post some HTML markup in the comments here? My samples (even with encoded tags) are always rejected by the blog.<br></p>"

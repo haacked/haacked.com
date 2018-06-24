@@ -1,0 +1,5 @@
+id: dsq-747529729
+date: 2009-08-18T23:26:00.0000000-07:00
+name: Ian Suttle
+avatar: https://disqus.com/api/users/avatars/Ian Suttle.jpg
+message: <p>Funny you bring this up.  I was working with TransactionScope the other day and had forgotten to Complete() it.  You'd have save'd me some headaches there :).<br>While I like the creative aspect of shortcutting the process I find the original implementation easier to read and therefore easier to maintain.</p>

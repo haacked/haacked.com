@@ -1,0 +1,5 @@
+id: dsq-747517657
+date: 2008-08-20T18:04:28.0000000-07:00
+name: Matt
+avatar: https://disqus.com/api/users/avatars/Matt.jpg
+message: <p>I have two web.config files. One in a subdirectory because i plan on deploying the entire subdirectory as a product on its own and one in the root of our corporate site.  When having these tags in the second web.config file in our subfolder this functionality is failing.  It just says "The control cannot be displayed because its tagprefix is not registered on this page" even though all controls are registered in the web.config</p>

@@ -1,0 +1,5 @@
+id: dsq-747531694
+date: 2010-02-20T11:50:50.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Santosh That is by design. It doesn't remove the value from route data when generating URLs.<br>UrlParameter.Optional is only used when matching incoming requests. It only removes the value if the url parameter is not included in the URL.</p>

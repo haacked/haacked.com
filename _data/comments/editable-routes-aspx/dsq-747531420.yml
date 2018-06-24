@@ -1,0 +1,5 @@
+id: dsq-747531420
+date: 2010-02-16T09:14:31.0000000-08:00
+name: Jon  Ranes
+avatar: https://disqus.com/api/users/avatars/Jon  Ranes.jpg
+message: <p>I see what you are doing, nice.  I was really hoping that I could just add a single route or edit a single route at runtime in MVC 2.  We are still tearing all the routes down and rebuilding them here.<br>Just out of interest what is the big drawback or holdup to editing or adding or removing a single route by reference at runtime?<br>In an average CMS there would probably be only one or two times a day that new routes needed to be introduced so for now I am sticking with popping the web.config to trigger app_restart.<br>I'll keep my eye on this method though.  I build most of my routes from the database and when I need to change one I pop the web.config.</p>

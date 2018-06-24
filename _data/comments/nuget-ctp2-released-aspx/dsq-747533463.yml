@@ -1,0 +1,5 @@
+id: dsq-747533463
+date: 2010-11-10T00:57:37.0000000-08:00
+name: Will
+avatar: https://disqus.com/api/users/avatars/Will.jpg
+message: <p>Well, I'm still having the issue where the vsix installer executable keeps recursively spawning a new instance of itself.  I can't install the update because of this.  Not sure what's going on.<br>As far as Intellisense is concerned, isn't it limited to hitting tab to get statement completion?</p>

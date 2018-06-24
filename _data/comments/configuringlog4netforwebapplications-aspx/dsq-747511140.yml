@@ -1,0 +1,5 @@
+id: dsq-747511140
+date: 2005-04-11T17:24:00.0000000-07:00
+name: Rohit
+avatar: https://disqus.com/api/users/avatars/Rohit.jpg
+message: <p>Thanks for the reply, we are using .Net framework version 1.1 and log4net version log4net-1.2.0-beta8. Please let me know where we are going wrong.<br><br>I also noticed that log.IsDebugEnabled(also any other IsxxxEnabled) function always returns false. I tried with the same configuration with other test projects i created it works but it doesn't work with my actual application. [It doesn't work with the Remoting application but same configuration works with web application]<br><br>Thanks again fro the reply...</p>

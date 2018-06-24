@@ -1,0 +1,6 @@
+id: dsq-1690548187
+replyToId: dsq-1689750606
+date: 2014-11-12T17:22:39.0000000-08:00
+name: Rex Ng
+avatar: https://disqus.com/api/users/avatars/rex_ng.jpg
+message: '<p>why not simply:</p><p>public static bool HasAttribute&lt;tattribute&gt;(this MethodInfo property) where TAttribute : Attribute<br>{<br>    return property.GetCustomAttribute&lt;tattribute&gt;() != null ;<br>}</p>'

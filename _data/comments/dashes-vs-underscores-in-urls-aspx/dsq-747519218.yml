@@ -1,0 +1,5 @@
+id: dsq-747519218
+date: 2007-03-15T08:55:19.0000000-07:00
+name: Jeff Atwood
+avatar: https://disqus.com/api/users/avatars/Jeff Atwood.jpg
+message: <p>That's right. It's all about regex. Try a \W (word character) match and see what happens.<br>This_is_one_word.<br>This-is-multiple-words.<br>I also agree with the earlier comments that underscore sucks for other reasons. It's less comprehensible.</p>

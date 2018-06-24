@@ -1,0 +1,5 @@
+id: dsq-747528254
+date: 2009-03-11T21:37:42.0000000-07:00
+name: RussellH
+avatar: https://disqus.com/api/users/avatars/RussellH.jpg
+message: <p>Thanks for the free download.  I plan to buy the book.  I had a question about exception handling in DinnersController.cs.  (Maybe I should be asking this at the CodePlex site?)  There is code like <br>try { ... }<br>catch <br>{<br>   ModelState.AddModelErrors(dinner.GetRuleViolations());<br>}<br>Shouldn't this code be catching specific exceptions?  Doesn't this run the risk of invoking validation code when the inputs are valid, but some other error is thrown (like SQL server unavailable)?</p>

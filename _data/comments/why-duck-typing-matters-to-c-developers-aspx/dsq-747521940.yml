@@ -1,0 +1,5 @@
+id: dsq-747521940
+date: 2007-08-19T19:28:51.0000000-07:00
+name: Steven Harman
+avatar: https://disqus.com/api/users/avatars/stevenharman.jpg
+message: <p>Just to be completely nit-picky and in spite of the fact that I realize the above code is contrived solely for this post... the implementation of <code>MyMethod</code> breaks the <a href="http://en.wikipedia.org/wiki/Law_of_Demeter" rel="nofollow noopener" title="Law of Demeter">Law of Demeter</a>.<br>Pretty sad for a guy who just wrote a whole blog post on the Laws of Software Development. :)</p>

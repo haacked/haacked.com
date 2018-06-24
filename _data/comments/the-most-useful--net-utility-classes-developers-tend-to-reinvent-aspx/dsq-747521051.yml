@@ -1,0 +1,5 @@
+id: dsq-747521051
+date: 2007-06-13T14:15:29.0000000-07:00
+name: Jon Rowett
+avatar: https://disqus.com/api/users/avatars/Jon Rowett.jpg
+message: <p>is this a typo?<br>&gt; string path = VirtualPathUtility.ToAbsolutePath("~/Controls/Test.ascx");<br>&gt; ~/MyApp/Controls/Test.ascx</p>

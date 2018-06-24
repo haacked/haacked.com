@@ -1,0 +1,5 @@
+id: dsq-747522171
+date: 2011-05-22T20:22:29.0000000-07:00
+name: Klaus Hott
+avatar: https://disqus.com/api/users/avatars/Klaus Hott.jpg
+message: <p>Have a look at the Zend_Validate_EmailAddress class it splits through the [at] sign first and handles the hostname and local parts separately.<br>The localpart is first checked against the dot-atom format and if it fails against the double-quotes format.<br>The hostname uses its own validator which checkes for TLD and IDN which have their rules according each TLD and also checkes for chinese and japanese characters.<br>Maybe it can be quite stressfull to understand it fully, but the simple parts are quite easy and can help build a powerfull validator which not only checks if the email is valid or invalid acording a regex but actually help the user pinpoint where he misspelled something.</p>

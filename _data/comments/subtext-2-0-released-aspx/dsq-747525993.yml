@@ -1,0 +1,5 @@
+id: dsq-747525993
+date: 2008-08-12T22:10:32.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Dragan can't you connect to your db from SQL Management Studio running locally? I'd check with your hosting provider. Usually they allow some means of running SQL Scripts. Perhaps through the web admin.</p>

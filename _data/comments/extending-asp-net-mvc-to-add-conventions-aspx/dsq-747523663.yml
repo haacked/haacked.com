@@ -1,0 +1,5 @@
+id: dsq-747523663
+date: 2007-12-09T12:39:59.0000000-08:00
+name: Mike Thomas
+avatar: https://disqus.com/api/users/avatars/Mike Thomas.jpg
+message: <p>One way that the framework could make changes like this easier would be to break up the execution flow into more virtual methods.  For example add a 'protected virtual GetActionMethod(string actionName)' to the Controller class :)</p>

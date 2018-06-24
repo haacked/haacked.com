@@ -1,0 +1,5 @@
+id: dsq-747531976
+date: 2010-04-16T07:44:36.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>Why do it this way? Well in this specific case, I probably wouldn't. This was a contrived example. The real point of this post is to demonstrate how to receive JSON encoded data as an argument to your action method. Why?<br>If you were using the ASP.NET Ajax client templating preview, it sends objects to an URL as JSON objects. This solution I showed would allow you to connect client templates to an MVC URL. Other client templating solutions might do that.<br>Also, you can imagine an action method with this in place could support multiple clients: an HTML form posting form encoded data, a silverlight widget posting JSON, etc...</p>"

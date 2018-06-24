@@ -1,0 +1,5 @@
+id: dsq-747526853
+date: 2008-11-05T16:08:25.0000000-08:00
+name: Gergely Orosz
+avatar: https://disqus.com/api/users/avatars/Gergely Orosz.jpg
+message: "<p>@Ken: I agree with most of what you say. Just one addon: I often see developers not separating their BL logic and mixing it with the code (take inline coding as the best example). I feel that this approach is yet another small hack which can be helpful in a _lot_ of scenarios but I would prefer designing the program in a way that there's no need in using this feature.</p>"

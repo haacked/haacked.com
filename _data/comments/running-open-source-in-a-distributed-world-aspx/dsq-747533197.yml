@@ -1,0 +1,5 @@
+id: dsq-747533197
+date: 2010-10-12T10:11:10.0000000-07:00
+name: Karl Fogel
+avatar: https://disqus.com/api/users/avatars/tpm-7cf0459814c7e3ae3a30bc32b4fd8298.jpg
+message: <p>(My other, longer comment says it got flagged as spam -- I hope you moderate it through! :-) )<br>To answer your question about collecting contributor license agreements:<br>One simple way is, just get the agreement from each contributor the first time any change of theirs is approved for incorporation into the code.  No matter whether it's a large feature or a small bugfix -- the contributor form is a small, one-time effort, so even for a tiny bugfix it's still worth it (on the theory that the person is likely to contribute again, and the cost of collecting the form is amortized over all the contributions that person ever makes anyway).<br>The trick is not to collect it when someone starts talking about making their first patch.  Wait until the patch is done &amp; approved, <em>then</em> collect the form.  No one who's gotten all the way to patch approval is going to balk at signing the form, unless they object to it in principle (but that's pretty rare).</p>

@@ -1,0 +1,5 @@
+id: dsq-747524218
+date: 2008-02-20T21:52:46.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@chadmyers I forgot to finish my thought... ;)<br>However, MVC itself does have its own context objects (ControllerContext) and I'm investigating some interesting refactorings (based on community feedback as well as my own unit testing problems) that I think will really improve the extensibility, composition, etc... story for MVC. Although you won't see those particular changes at Mix. Maybe the next release if this pans out.</p>

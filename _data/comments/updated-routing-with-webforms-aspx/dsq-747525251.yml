@@ -1,0 +1,5 @@
+id: dsq-747525251
+date: 2008-05-25T19:12:49.0000000-07:00
+name: Jon
+avatar: https://disqus.com/api/users/avatars/Jon.jpg
+message: '<p>As an update to the above: I managed to get it working in IIS 7, but only by setting <code>routes.RouteExistingFiles = true</code> in the Global.asax. It seems that if RouteExistingFiles is set to false (its default value), then any mapping on the root of the application will not be honoured. This will even hold if there is no default document available, as when I renamed Default.aspx to Home.aspx, it tried to list the contents of the folder instead of routing.</p>'

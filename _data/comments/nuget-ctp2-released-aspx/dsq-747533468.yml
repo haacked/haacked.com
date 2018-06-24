@@ -1,0 +1,5 @@
+id: dsq-747533468
+date: 2010-11-10T13:48:05.0000000-08:00
+name: Leonid
+avatar: https://disqus.com/api/users/avatars/Leonid.jpg
+message: <p>I'm getting Null reference exeption (object not set...) after updated to MVC 3 RC. On both command line ang GUI.<br>It was working on previous version (MVC 3 Beta) using add-package command.<br>Please help.</p>

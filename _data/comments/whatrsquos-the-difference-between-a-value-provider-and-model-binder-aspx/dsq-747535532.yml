@@ -1,0 +1,5 @@
+id: dsq-747535532
+date: 2011-06-30T02:51:05.0000000-07:00
+name: Gurdeep Singh
+avatar: https://disqus.com/api/users/avatars/Gurdeep Singh.jpg
+message: <p>Very well explained. Thanks for the write up! Still wondering what if the browser do not support json.stringify natively? Resort back to plugins? Though, I myself use very little json for post backs and that too without the need of any stringifiers.</p>

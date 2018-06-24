@@ -1,0 +1,5 @@
+id: dsq-747534642
+date: 2011-03-22T15:06:47.0000000-07:00
+name: Frank van Eykelen
+avatar: https://disqus.com/api/users/avatars/Frank van Eykelen.jpg
+message: <p>Sorry, I thought the problem concerned the decimal separator. I now see it's about the thousands separator. When I use those in a decimal field the validation indeed chokes.</p>

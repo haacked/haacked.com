@@ -1,0 +1,5 @@
+id: dsq-747529200
+date: 2009-06-02T04:21:00.0000000-07:00
+name: Zihotki
+avatar: https://disqus.com/api/users/avatars/Zihotki.jpg
+message: <p>This approach will help to increase performance. But what about refactoring? Due to the reason that these "magic action links" will be generated at build time we'll need to:<br>1. rename method of action link<br>2. run the site - "When the first request is made at runtime, ASP.NET tries to build the App_Code assembly"<br>3. stop debugging<br>4. fix all errors<br>5. run again to verify all<br>In my opinion this is very terrible. In my opinion it's better to use magic strings in this case and use a Resharper. When we trying to rename a method R# looks over the code for usages of this method and also it looks for strings equals to the name of the method and it ask to rename them too.<br>And what about routes? Is the generator is smart enough to generate links based on routes? And what about unit tests?<br>For me it's too much black magic at this moment with these generators. I prefer to store all these "magic strings" in some kind of Controllers and Views Managers and manage them manually.</p>

@@ -1,0 +1,5 @@
+id: dsq-747532024
+date: 2011-01-18T05:19:08.0000000-08:00
+name: W3Max
+avatar: https://disqus.com/api/users/avatars/W3Max.jpg
+message: "<p>The feature is great but I think there is some bugs.<br>I didn't try dates but arrays are always null.<br>Example: {Id:1,Children:[1,2,3]}<br>Anyone having the same problem?</p>"

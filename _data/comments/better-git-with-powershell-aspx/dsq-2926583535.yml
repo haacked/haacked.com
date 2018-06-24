@@ -1,0 +1,6 @@
+id: dsq-2926583535
+replyToId: dsq-2926569588
+date: 2016-09-30T08:23:58.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yeah. When you change the directory to a git repository, do you see extra information such as which branch you're on? If not, then Posh-Git is not loaded.</p>

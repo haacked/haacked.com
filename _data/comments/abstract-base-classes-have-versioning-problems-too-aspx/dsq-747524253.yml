@@ -1,0 +1,5 @@
+id: dsq-747524253
+date: 2008-02-21T16:45:21.0000000-08:00
+name: Mark Channing
+avatar: https://disqus.com/api/users/avatars/Mark Channing.jpg
+message: <p>Ayende Rahien says "It also means that instead of getting a pretty compiler error" pre-supposes you own all the code and can compile it.  <br>When developing a framework you try do to things which do not break client code.  Therefore adding a new method to an interface you will break client code, add a new non abstract method to an ABC class and you will not.  It is then the client who should decide when they wish to take advantage of the new method.  <br>It still leaves the original problem that some thing may pass in the original version of ABC but that is squarely in the domain of the client of the framework and not the framework developer. How that old version is still knocking about would seem a bit contrived.</p>

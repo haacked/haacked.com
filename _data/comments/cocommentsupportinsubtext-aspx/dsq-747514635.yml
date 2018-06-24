@@ -1,0 +1,5 @@
+id: dsq-747514635
+date: 2006-04-04T21:46:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>The general idea is that CoComments track your comments on any blog that supports CoComment.  If a blog doesn't support CoComment, you can use their bookmarklet in your browser to indicate you want your comment tracked.<br>THen you subscribe to a feed from CoComment that will show all your comments and any responses to your comments.  That way you don't have to keep returning to a site to see if someone responded to your comment.<br>I think there are better ways to implement this tracking, but this is the best we have now.</p>

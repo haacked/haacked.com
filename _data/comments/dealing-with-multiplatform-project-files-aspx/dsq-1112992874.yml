@@ -1,0 +1,5 @@
+id: dsq-1112992874
+date: 2013-11-07T12:23:36.0000000-08:00
+name: khalidabuhakmeh
+avatar: https://disqus.com/api/users/avatars/khalidabuhakmeh.jpg
+message: <p>Why not just generate the csproj files from a manifest or pattern file? That way you manage a parent manifest then just create a script file called "generate_projects". The cool thing is, you could do this using Ruby or ScriptCs quiet easily. You could also integrate this generation of csproj files into your build process so that on each check in you could have your build server generate them.</p><p>Just a thought, I could be totally off base here.</p>

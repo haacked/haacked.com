@@ -1,0 +1,5 @@
+id: dsq-747536399
+date: 2011-12-18T08:51:31.0000000-08:00
+name: Chris M
+avatar: https://disqus.com/api/users/avatars/Chris M.jpg
+message: <p>So then the documentation is incorrect? The app will be torn down as soon as you return from the Stop method, rather than only after UnregisterObject() is called as the docs state?</p>

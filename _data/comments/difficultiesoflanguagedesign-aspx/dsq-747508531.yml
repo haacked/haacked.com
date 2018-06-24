@@ -1,0 +1,5 @@
+id: dsq-747508531
+date: 2004-06-02T17:07:00.0000000-07:00
+name: Neil Mitchell
+avatar: https://disqus.com/api/users/avatars/Neil Mitchell.jpg
+message: <p>Actually the last of the DeleteFile statements is by far the most worrying. Just because FileLen returns 0 doesn't mean the file doesn't exist, it may just mean its empty.<br><br><br><br>Also the one using Dir is not good practice either, in VB all Dir functions use the same FindFiles buffer, so calling one overwrites any previous call state. I.e. if you call Dir in an outer loop and this in the inner, then it won't work. In addition, if you have a directory instead of a file, then Kill will crash.<br><br></p>

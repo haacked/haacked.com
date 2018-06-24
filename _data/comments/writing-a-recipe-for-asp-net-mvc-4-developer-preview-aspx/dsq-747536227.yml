@@ -1,0 +1,5 @@
+id: dsq-747536227
+date: 2011-09-22T18:08:54.0000000-07:00
+name: Paul Cowan
+avatar: https://disqus.com/api/users/avatars/Paul Cowan.jpg
+message: <p>The tedium is clicking your way through visual studio dialogue boxes.<br>Microsoft teaches its developers to ignore the command line.<br>This makes for lesser developers who are afraid of the command line.<br>You only have to look at the "Add Reference" and the hilarious "Add View" dialogue to see how these visual impediments can be created so horribly wrong when the command line is a much more fluid way of working with the opportunity to more easily extend and write reusable scripts for.<br>Every project command in rails is issued through the command line.  The exact opposit is true of MS.  EVery command is a clunky right click when you can be left with a "Visual Studio is waorking...." warning when you wish you were.<br>I don't expect this to ever change.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747532537
+date: 2011-09-04T08:33:10.0000000-07:00
+name: Jay
+avatar: https://disqus.com/api/users/avatars/Jay.jpg
+message: <p>Resurrecting an old discussion, I'll throw in another, doubtlessly controversial contender:<br>if (items == Null.OrEmpty)…<br>or<br>if ("foo bar" != Null.OrEmpty)…<br><a href="http://codequota.com/archive/2011/09/04/another-approach-to-checking-for-null-or-empty-in-c.aspx" rel="nofollow noopener" title="http://codequota.com/archive/2011/09/04/another-approach-to-checking-for-null-or-empty-in-c.aspx">codequota.com/...</a></p>

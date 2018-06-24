@@ -1,0 +1,5 @@
+id: dsq-747517091
+date: 2006-10-16T10:03:46.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Once you add a reference to your web project, you need to add the control to your web page.  It's a validator control, so make sure that when the user clicks yoru submit button, you check that Page.IsValid is true.</p>

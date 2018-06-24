@@ -1,0 +1,5 @@
+id: dsq-747525999
+date: 2008-08-18T04:26:41.0000000-07:00
+name: Michael Cook
+avatar: https://disqus.com/api/users/avatars/Michael Cook.jpg
+message: <p>I appreciate the hard work you guys put into this project, but I don't think this one was ready to be release just yet.<br>I'm upgrading my blog(s) from the previous version, on my Crystal Tech site (shared hosting). First, I got his with the infinite "click here to upgrade" (which I got last upgrade too).<br>So I resorted to the sql scripts, which weren't in a state to run and after editing still didn't catch all of the changes. So I attached to the new install db and sql diffed and worked back from there.<br>After all that, I fire it up and immediately hit a Security Exception and that's where I'm currently stuck.<br>I just have to wonder if anyone actually tested this on a medium trust site, which I'd imagine many of your users are trying to run it on.<br>I know I'm being harsh -and once these issues are ironed out, I'm sure it will be rock solid - but the out-of-box experience is just terrible right now.</p>

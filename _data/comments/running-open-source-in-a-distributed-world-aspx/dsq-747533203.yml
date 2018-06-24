@@ -1,0 +1,5 @@
+id: dsq-747533203
+date: 2010-10-13T21:51:13.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Jakub Thanks! Yeah, I pointed that out, though after reading what I said, it sounds like I was saying the opposite. My point was that the reason Linux scales is that they moved to this hierarchical model you described. I doubt having a completely flat model would scale, and I think Linux is perhaps evidence of that.</p>

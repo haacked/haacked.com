@@ -1,0 +1,5 @@
+id: dsq-747530714
+date: 2010-01-13T15:14:24.0000000-08:00
+name: Tom
+avatar: https://disqus.com/api/users/avatars/Tom.jpg
+message: <p>Phil,<br>I understand the post is talking about Beta 2, however since there isn't really any update for MVC 2 RC, users will likely follow this walkthrough when coding with the RC. <br>The client side validation will not work if you just reference the two Asp.Net Mvc Ajax libraries you have listed, you will also need to reference the MicrosoftMvcValidation.js file.<br>Lost some hair on that one,<br>Tom</p>

@@ -1,0 +1,5 @@
+id: dsq-747516798
+date: 2006-09-20T03:07:48.0000000-07:00
+name: David Anson
+avatar: https://disqus.com/api/users/avatars/David Anson.jpg
+message: <p>Ken, I'm not sure what the problem was for you. We test in IE6, IE7, Firefox, and Safari, and NoBot works fine for us in those environments. The only time restriction it imposes is on posting too *soon*, so I don't think that was the source of the problem in your case. I agree with your theory that the script didn't seem to run. Maybe try again when you're not seeding a torrent and/or check to see if you have JavaScript blockers in place somewhere? Thanks!</p>

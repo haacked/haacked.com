@@ -1,0 +1,5 @@
+id: dsq-747534417
+date: 2012-01-27T08:45:54.0000000-08:00
+name: Kenneth
+avatar: https://disqus.com/api/users/avatars/Kenneth.jpg
+message: <p>I'm having some trouble using the redirect route. I keep getting the error "A potentially dangerous Request.Path value was detected from the client (:)." and the redirect doesn't work :(<br>I think I'm doing everything correctly, but is the above error something that's easy to fix?</p>

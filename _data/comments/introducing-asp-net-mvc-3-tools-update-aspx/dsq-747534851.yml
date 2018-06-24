@@ -1,0 +1,5 @@
+id: dsq-747534851
+date: 2011-04-15T23:41:05.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hi all. Sorry for the installation problems. The installer attempts to patch VS 2010 to add Razor support, which is why it is very slow on some machines. If you have VS 2010 SP 1 installed, it shouldn't need to apply the patch. If you have VS 2010 SP 1 Beta, it may still attempt to apply the patch. I need to double check.<br>If you have the old Async CTP installed, you'll need to unistall that first.<br>If you have VS install logs, email me at philha@microsoft.com.</p>

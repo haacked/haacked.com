@@ -1,0 +1,5 @@
+id: dsq-747535058
+date: 2011-05-16T03:40:09.0000000-07:00
+name: Chris Ortman
+avatar: https://disqus.com/api/users/avatars/Chris Ortman.jpg
+message: <p>One thing I've noticed is that development / testing of your powershell scripts is easier if you just put them straight into the init.ps1 instead of going the module route.<br>The commands i am adding use the $installPath and $toolsPath variables so this lets them access it easier. Also i have a hard time getting it to pick up my changes when i use modules, even if i use Remove-Module i still sometimes need to completely restart VS to get them noticed.</p>

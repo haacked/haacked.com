@@ -1,0 +1,5 @@
+id: dsq-747528677
+date: 2009-05-10T21:18:00.0000000-07:00
+name: Fernando Soruco
+avatar: https://disqus.com/api/users/avatars/Fernando Soruco.jpg
+message: '<p>how do transform c# json to visual basic .net for example : thisvar jsonData = new {<br>                total = totalPages,<br>                page = page,<br>                records = totalRecords,<br>                rows = new[]{<br>                    new {id = 1, cell = new[] {"1", "-7", "Is this a good question?"}},<br>                    new {id = 2, cell = new[] {"2", "15", "Is this a blatant ripoff?"}},<br>                    new {id = 3, cell = new[] {"3", "23", "Why is the sky blue?"}}<br>                }<br>            };<br>how to pass it to visual basic .net , help plz</p>'

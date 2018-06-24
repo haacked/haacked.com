@@ -1,0 +1,5 @@
+id: dsq-747510228
+date: 2008-05-11T08:18:42.0000000-07:00
+name: tim
+avatar: https://disqus.com/api/users/avatars/tim.jpg
+message: <p>I'm lazy and had been using<br>&amp;lt;(/)?(b|i|u|sup|sub|small|big)([^&amp;gt;]*)&amp;gt;<br>to match tags. It works pretty well for me since I don't care what's in the tag itself like attributes, but fails on self closing tags. This is a problem for another day.<br>I thought that I could match everything <i>except</i> the list by adding a "not" operator (^) inside those brackets:<br>&amp;lt;(/)?(^b|i|u|sup|sub|small|big)([^&amp;gt;]*)&amp;gt;<br>but it doesn't work. Somebody has made off with my regular expression reference book and the "tutorials" I'm reading online are leaving me more confused than if I just brute force it myself.<br>Any assistance would be appreciated</p>

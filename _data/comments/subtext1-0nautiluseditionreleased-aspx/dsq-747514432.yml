@@ -1,0 +1,5 @@
+id: dsq-747514432
+date: 2006-03-08T00:14:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Unfortunately, we don't currently run on .NET 2.0 nor do we support SQL 2005.  That's something we're looking at for our next or next-next version.</p>

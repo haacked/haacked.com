@@ -1,0 +1,5 @@
+id: dsq-747534955
+date: 2011-04-14T05:11:41.0000000-07:00
+name: Alexander Zubkov
+avatar: https://disqus.com/api/users/avatars/Alexander Zubkov.jpg
+message: '<p>There is a best enumeration :)<br><code>foreach (SmartEnumerable&lt;string&gt;.Entry entry in<br>                 new SmartEnumerable&lt;string&gt;(list))<br>        {<br>            Console.WriteLine ("{0,-7} {1} ({2}) {3}",<br>                               entry.IsLast  ? "Last -&gt;" : "",<br>                               entry.Value,<br>                               entry.Index,<br>                               entry.IsFirst ? "&lt;- First" : "");<br>        }<br></code><br>More details here <a href="http://www.yoda.arachsys.com/csharp/miscutil/usage/smartenumerable.html" rel="nofollow noopener" title="http://www.yoda.arachsys.com/csharp/miscutil/usage/smartenumerable.html">http://www.yoda.arachsys.com/csharp/miscutil/usage/smartenumerable.html</a></p>'

@@ -1,0 +1,5 @@
+id: dsq-747512222
+date: 2005-06-14T00:03:00.0000000-07:00
+name: Ryan Farley
+avatar: https://disqus.com/api/users/avatars/Ryan Farley.jpg
+message: <p>I would prefer, instead of a CAPTCHA for validation, to have a blacklisted words list. So any comment posted, whether via the webpage for the post or via <a href="http://wellformedweb.org/story/9" rel="nofollow noopener" title="CommentAPI">CommentAPI</a> would throw back an exception or message if a post contained a disallowed word. Similar to how an e-mail spam filter might work, looking for any blacklisted words and rejecting the item if any are found. The user could maintain the list of blacklisted words in the Admin sections to add new words to the list at any time to add words to match the latest wave of comment spam. This way, the same blacklisted words list would be used no matter how the comment was posted. To me that seems like the most logical approach.<br><br><br><br>-Ryan</p>

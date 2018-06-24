@@ -1,0 +1,5 @@
+id: dsq-747534477
+date: 2011-02-20T14:05:52.0000000-08:00
+name: prokofyev
+avatar: https://disqus.com/api/users/avatars/prokofyev.jpg
+message: '<p>@haacked: Now we know were are two changes: first in MVC 3 and second in ASP.NET 4 Routing, but I believe the reason of the regression is only second change, because not using in a route definition of UrlParameter.Optional at all (using String.Empty instead) gives the same bug.</p>'

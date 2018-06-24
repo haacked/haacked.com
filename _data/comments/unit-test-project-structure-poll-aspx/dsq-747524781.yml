@@ -1,0 +1,5 @@
+id: dsq-747524781
+date: 2008-04-09T05:26:18.0000000-07:00
+name: Chris Brandsma
+avatar: https://disqus.com/api/users/avatars/Chris Brandsma.jpg
+message: <p>Further, my typical solution has multiple projects.  I like having a multiple test projects (sometimes one test project for each production project, but not always), plus I will have another test project if I have integration tests (which take longer to run).<br>What I find more interesting right now is the idea of turning your use cases into test names, and your test classes center around use case features.  I've seen Jean-Paul Boodhoo do that.</p>

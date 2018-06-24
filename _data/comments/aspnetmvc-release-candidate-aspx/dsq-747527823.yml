@@ -1,0 +1,5 @@
+id: dsq-747527823
+date: 2009-02-17T20:26:56.0000000-08:00
+name: Tombob
+avatar: https://disqus.com/api/users/avatars/Tombob.jpg
+message: "<p>Regarding below post, I had the same issue albeit I wqas using a jquery json call. I found if I used the javascript escape function on my input it solved the issue.<br><br>Great release, but I've immediately run into a problem while upgrading an application over from the beta.<br>This application has a WYSIWYG HTML editor, and I can't post the page anymore.<br>Error I get is: \"A potentially dangerous Request.Form value was detected from the client\"<br>And yes, Ive put validateRequest=\"false\" in the web.config like instructed in the release notes and even tried it in the Page declaration. It doesn't seem to turn off!<br>For me this is a showstopper :(</p>"

@@ -1,0 +1,5 @@
+id: dsq-747510162
+date: 2005-04-22T02:26:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Just to be clear, in my example above, you'd want the comma removed from the title attribute as well, right?<br><br><br><br>If so, I'd just use the html expression to match tags <br><br>&lt;/?\W+((\S+\W+(\S*=\S*(?:".*?"|'.*?'|[^'"&gt;\s]+))?)+\s*|\s*)/?&gt;<br><br><br><br>Once you have the tag, replace , with empty space.<br><br><br><br>Much easier to take a two-step approach on this one.<br><br></p>

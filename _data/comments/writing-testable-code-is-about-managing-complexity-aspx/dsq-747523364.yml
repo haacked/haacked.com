@@ -1,0 +1,5 @@
+id: dsq-747523364
+date: 2007-11-14T07:03:23.0000000-08:00
+name: Jay Flowers
+avatar: https://disqus.com/api/users/avatars/Jay Flowers.jpg
+message: <p>@Phil,<br>Hmm "managing complexity".  Do you mean that unit tests (as in the definition that includes isolation and working with very small portions of code) can expose issues of complexity that impair maintainability early?  Early = while the design is still fresh and malleable.  So that you are more likely to know that you are building a death trap?<br>Is that what you mean?<br>Smiles,<br>Jay</p>

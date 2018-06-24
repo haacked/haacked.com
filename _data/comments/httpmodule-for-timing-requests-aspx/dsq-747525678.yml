@@ -1,0 +1,5 @@
+id: dsq-747525678
+date: 2011-01-13T21:13:14.0000000-08:00
+name: DS
+avatar: https://disqus.com/api/users/avatars/DS.jpg
+message: <p>Good Post..!! Thanks..!!<br>I have a Question. Can we add ".ascx" file after first &lt;form&gt; tag and before last &lt;/form&gt; tag using HttpModule in MVC? Basically i want to add some dynamic content in each response but couldn't figure out.<br>Thanks for any help...!!</p>

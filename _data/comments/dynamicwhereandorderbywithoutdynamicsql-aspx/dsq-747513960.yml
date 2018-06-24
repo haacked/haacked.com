@@ -1,0 +1,5 @@
+id: dsq-747513960
+date: 2006-01-26T04:22:00.0000000-08:00
+name: Marty Thompson
+avatar: https://disqus.com/api/users/avatars/Marty Thompson.jpg
+message: <p>Yeah, sorry about that, I spoke incorrectly.  It was an index scan that we were having problems with as well, and it was enough of a performance hit for our purposes that we had to do away with it.<br><br><br><br>We did have a problem with full table scans, but that's because I'm an idiot with indexes.</p>

@@ -1,0 +1,5 @@
+id: dsq-747519092
+date: 2008-07-28T22:03:51.0000000-07:00
+name: Mike Gillson
+avatar: https://disqus.com/api/users/avatars/Mike Gillson.jpg
+message: <p>I build a different type than your Fully.Qualified.TypeName.BlogSettings<br>My custom type implements the interface IConfigurationSectionHandler.  <br>The interface defines one method.  public object Create(object parent, object configContext, XmlNode section)<br>In this method I XmlNode, XmlNodeList, XPath to find things.  I can do any XML processing I want.  I do not have to use ConfigurationProperty attributes.  The type is easy to extend whenever I need more configuration info.<br>I am just starting to build up my web site.  Within a week, I plan to have an example for this type of configuration.</p>

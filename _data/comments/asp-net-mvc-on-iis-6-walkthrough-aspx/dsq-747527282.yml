@@ -1,0 +1,5 @@
+id: dsq-747527282
+date: 2010-09-17T19:51:42.0000000-07:00
+name: muzammil ahmed
+avatar: https://disqus.com/api/users/avatars/muzammil ahmed.jpg
+message: <p>Hi,<br>Forget about my previous post. i got it working.<br>But now i have a problem with my website. After making the changes the site is coming up fine and the .mvc files are recognized alright. But it has thrown out of gear my .js script file path. I get object doesnt support this property for all my jquery. Kindly help.</p>

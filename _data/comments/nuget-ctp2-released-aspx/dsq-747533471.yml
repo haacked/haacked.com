@@ -1,0 +1,5 @@
+id: dsq-747533471
+date: 2010-11-17T18:47:14.0000000-08:00
+name: Angel &quot;Java&quot; Lopez
+avatar: https://disqus.com/api/users/avatars/Angel &quot;Java&quot; Lopez.jpg
+message: '<p>I have the same problem:<br>PM&gt; Install-Package elmah<br>Install-Package : Object reference not set to an instance of an object.<br>At line:1 char:16<br>+ Install-Package &lt;&lt;&lt;&lt;  elmah<br>    + CategoryInfo          : NotSpecified: (:) [Install-Package], NullReferenceException<br>    + FullyQualifiedErrorId : NuGet.VisualStudio.Cmdlets.InstallPackageCmdlet<br> <br>Any cue/info?<br>TIA</p>'

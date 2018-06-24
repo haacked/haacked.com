@@ -1,0 +1,5 @@
+id: dsq-747523824
+date: 2012-01-24T17:31:39.0000000-08:00
+name: Michael
+avatar: https://disqus.com/api/users/avatars/Michael.jpg
+message: <p>Thanks for the tip.  This worked well.  The only problem I ran into was I use <code>HttpMethodConstraint</code>.  To make this work with unit testings, I had to mock the <code>Request.HttpMethod</code> with this Moq line<br><code>httpContextMock.Setup(c =&gt; c.Request.HttpMethod).Returns("POST");</code></p>

@@ -1,0 +1,5 @@
+id: dsq-747525216
+date: 2008-05-12T17:44:25.0000000-07:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: "<p>Zed:<br>\"ASP.NET MVC will be a separate download for its first release.  It can use either the .NET 3.5 SP1 routing engine, or alternatively it also ships with a private copy of it - so that it can work on .NET 3.5 (non-SP1).  \" (ScottGu)<br>I read this as: doesn't say new version, same version but non-GAC'd</p>"

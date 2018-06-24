@@ -1,0 +1,5 @@
+id: dsq-747529960
+date: 2009-09-03T05:38:00.0000000-07:00
+name: Bryan Watts
+avatar: https://disqus.com/api/users/avatars/Bryan Watts.jpg
+message: <p>@Mark,<br>The pain points are inherently untyped systems that, for whatever reason, we have to work with from C#.<br>These include:<br>- COM interop<br>- Reflection<br>- XML<br>- Dynamic language interop (IronRuby, Javascript in Silverlight)<br>- HTML DOM manipulation in Silverlight<br>- Any scenario which otherwise requires a bunch of ugly code<br>Some percentage of people who use C# encounter these situations enough for the language team to pick this feature over the vast multitude from which they had to choose. OO, while useful, is not the only approach to solving problems. LINQ is functional in nature, and helps tremendously in otherwise-OO scenarios. Dynamic is the natural third of the triad.<br>The dynamic keyword is just mildly extensible syntactic sugar. The decision to use COM, reflection or XML to solve a problem is independent of how you express that solution. It boils down to people being uncomfortable with other people having sharp scissors.</p>

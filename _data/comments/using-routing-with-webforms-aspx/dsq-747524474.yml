@@ -1,0 +1,5 @@
+id: dsq-747524474
+date: 2010-09-09T20:59:13.0000000-07:00
+name: Richard Everett
+avatar: https://disqus.com/api/users/avatars/richev.jpg
+message: <p>Phil,<br>Thanks for the technique - it really helps us. However we've noticed that on occasion the first call to CreateInstanceFromVirtualPath can take a long while (tens of seconds) to return. During that time we can see a C# compiler process (csc.exe) chewing up 10%-50% of our CPU cycles.<br>Any thoughts on potential fixes for this issue?</p>

@@ -1,0 +1,5 @@
+id: dsq-3266560933
+date: 2017-04-21T02:30:21.0000000-07:00
+name: Jez
+avatar: https://disqus.com/api/users/avatars/disqus_mb4g9wJ5wZ.jpg
+message: <p>This doesn't work.  I installed the RouteDebugger package via NuGet and "RouteDebug.RouteDebugger" doesn't exist!  And adding the "RouteDebugger:Enabled" thing in web.config didn't work either.</p>

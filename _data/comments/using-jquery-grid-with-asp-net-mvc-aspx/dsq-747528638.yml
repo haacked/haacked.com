@@ -1,0 +1,5 @@
+id: dsq-747528638
+date: 2009-04-15T10:06:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@PK Yeah, this is just the approach that jQuery grid takes where it makes the extra request for data. I personally think it's fine in this case since you can render the full page quickly and the data just pops in when it's ready.<br>There are other Ajax grids that have different behaviors. I know there's an ExtJS one that "ajaxifies" an HTML table. That one might fit the approach you want better.<br></p>

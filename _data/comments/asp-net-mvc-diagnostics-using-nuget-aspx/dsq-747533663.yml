@@ -1,0 +1,5 @@
+id: dsq-747533663
+date: 2011-02-13T10:52:18.0000000-08:00
+name: Vishal Patwardhan
+avatar: https://disqus.com/api/users/avatars/Vishal Patwardhan.jpg
+message: '<p>Hi, i am using the follow routing in my <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> mvc2 <br>routes.MapRoute("Default", "{controller}/{action}/{id}", new {controller="Home",action="Index",id=UrlParameter.Optional});<br>still this is showing me directory listing but whenever i type the hardcoded url say : localhost:xxxx/Default this is showing the appropriate page. what should i Do?</p>'

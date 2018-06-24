@@ -1,0 +1,5 @@
+id: dsq-747535479
+date: 2011-06-20T00:38:03.0000000-07:00
+name: Rafael Teixeira
+avatar: https://disqus.com/api/users/avatars/Rafael Teixeira.jpg
+message: "<p>One thing I would love to see in 1.5/1.6: See a way to deploy p-invoked native libs alongside the dependent managed wrapper, currently that has to be added manually and fails on installation as the installer (the VS plugin) tries to scan the native lib like if it was managed. <br>Another facet to this problem: bitness. Today NuGet has folders for specific frameworks/profiles but doesn't support sending two versions differing on bitness but targetted for the same framework.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747526818
+date: 2009-02-12T22:10:27.0000000-08:00
+name: Ron
+avatar: https://disqus.com/api/users/avatars/Ron.jpg
+message: <p>Turns out my issue was only with strongly typed views.  I finally found the error, with a little hint from <a href="http://forums.asp.net/p/1378448/2906187.aspx" rel="nofollow noopener" title="http://forums.asp.net/p/1378448/2906187.aspx">here</a>.<br>With the RC release, there is some new settings in the web.config file under /Views.  If you copy that file under the /Areas/Area/Views folder, then the strongly typed views with no code behind works perfectly.<br>Good luck!</p>

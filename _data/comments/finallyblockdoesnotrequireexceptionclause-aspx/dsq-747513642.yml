@@ -1,0 +1,5 @@
+id: dsq-747513642
+date: 2011-11-23T14:50:46.0000000-08:00
+name: torzsmokus
+avatar: https://disqus.com/api/users/avatars/torzsmokus.jpg
+message: '<p>Re Abhay: see the StackOverflow question about <a href="http://stackoverflow.com/questions/481446/throws-exception-in-finally-blocks" rel="nofollow noopener" title="http://stackoverflow.com/questions/481446/throws-exception-in-finally-blocks">exceptions in <code>finally</code> blocks</a> and <a href="http://illegalargumentexception.blogspot.com/2008/10/java-how-not-to-make-mess-of-stream.html" rel="nofollow noopener" title="http://illegalargumentexception.blogspot.com/2008/10/java-how-not-to-make-mess-of-stream.html">this article about stream handling in java</a>.<br>In Java7, there is <a href="http://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html" rel="nofollow noopener" title="http://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html">try-with-resources</a> which is similar to C#’s <code>using</code>.</p>'

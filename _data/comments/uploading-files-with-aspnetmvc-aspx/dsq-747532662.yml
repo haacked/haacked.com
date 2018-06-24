@@ -1,0 +1,5 @@
+id: dsq-747532662
+date: 2010-07-18T20:48:03.0000000-07:00
+name: Mike Henry
+avatar: https://disqus.com/api/users/avatars/Mike Henry.jpg
+message: '<p>Nice, I was wondering how best to handle multiple files with MVC. <br>What is your preferred way to handle uploads that are too large (which cause System.Web.HttpException: Maximum request length exceeded)?<br>Thanks</p>'

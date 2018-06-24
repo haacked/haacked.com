@@ -1,0 +1,5 @@
+id: dsq-747530637
+date: 2010-01-22T00:02:28.0000000-08:00
+name: bill xie
+avatar: https://disqus.com/api/users/avatars/bill xie.jpg
+message: <p>Sometimes this would be useful like Server.Execute in WebForms. But from the standpoint of architecture this sounds not a good approach since action like Menu is only a portion of View and should stay with View only. Unfortunately it produces an opportunity to allow developers to put View into Controller and thus may be a nightmare for change and maintenence.<br>On the other hand, a Web Form can encompass lots of postback triggers which corresponds to action in the MVC framework. Looking at View, so many actions in a Web Form share the same view. I am afraid this is difficult in the MVC framework. User control can mitigate this job. However, it is still a question how to write less Views or have actions share the same view.</p>

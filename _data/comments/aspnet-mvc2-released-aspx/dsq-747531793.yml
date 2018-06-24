@@ -1,0 +1,5 @@
+id: dsq-747531793
+date: 2010-03-11T12:33:26.0000000-08:00
+name: lynn
+avatar: https://disqus.com/api/users/avatars/lynn.jpg
+message: "<p>Hello Phil, I have been enjoying the v2 work for quite a while. Love working on it with VS2010 RC.<br>Question: would it be possible to add strong type routed helpers that use func's for ActionLink, BeginForm etc. in v3?<br>I have worked up my own version of this )I even use the lambda caching from MVC Futures_ and find it very is work with and maintain.</p>"

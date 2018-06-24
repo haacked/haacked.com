@@ -1,0 +1,5 @@
+id: dsq-747527742
+date: 2012-09-21T16:03:01.0000000-07:00
+name: Zaus
+avatar: https://disqus.com/api/users/avatars/Zaus.jpg
+message: "<p>Yet another attempt: <a href=\"https://gist.github.com/3763138\" rel=\"nofollow noopener\" title=\"https://gist.github.com/3763138\">https://gist.github.com/3763138</a><br>I was curious, and set up my own tests using some randomly generated string-masks (<a href=\"https://gist.github.com/3763223\" rel=\"nofollow noopener\" title=\"https://gist.github.com/3763223\">https://gist.github.com/3763223</a>) and I get different test results.  Granted I'm using a homegrown benchmark framework (all it's doing is running the Action X times and using Stopwatch), but I thought the results were kinda surprising -- seems the performance somewhat depends on the size of the test set (tokens + string).</p>"

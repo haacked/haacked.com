@@ -1,0 +1,5 @@
+id: dsq-747529806
+date: 2009-08-26T16:07:00.0000000-07:00
+name: Dummy Customer
+avatar: https://disqus.com/api/users/avatars/Dummy Customer.jpg
+message: '<p>"Lord Gates, The Dark Force is strong in apprentice Haack. Soon he will annihilate all that is static in the force. The Jedi are Doomed!"<br>Good example on the use of dynamic. <br>BUT I am never ever going to use it. I have been bitten too much by dynamic languages to ever get back to using them. The problems are too many to count: Variables popping into existing from nowhere, methods that were missing, hard to track typos in methods/variables, shitty performance, hellish debugging.....the horror.....the horror!<br>I need something like: Option Strict in my code so to prevent a project from compiling if it has dynamic anywhere in it.</p>'

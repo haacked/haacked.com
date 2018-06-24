@@ -1,0 +1,5 @@
+id: dsq-747537911
+date: 2012-04-09T04:49:20.0000000-07:00
+name: Omer Mor
+avatar: https://disqus.com/api/users/avatars/Omer Mor.jpg
+message: "<p>Welcome aboard the Rx train Phil!<br>Personally I'd write your last query a bit differently (matter of taste):<br>I'd select a Unit.Default from the events (instead of EventArgs): Unit is an Rx type to indicate no information. Kinda like the equivalent of the System.Void type, but unlike void it can be passed as an argument. I'd use Unit because that's all the information I need at that point.<br></p>"

@@ -1,0 +1,5 @@
+id: dsq-747521128
+date: 2007-11-06T12:19:23.0000000-08:00
+name: Navdeep Bhardwaj
+avatar: https://disqus.com/api/users/avatars/Navdeep Bhardwaj.jpg
+message: <p>I like TryParse method introduced in .NET 2. Using it you can cast variable type and perform anything if the cast fails, without raising any type case error or relying on exceptions to handle situation.</p>

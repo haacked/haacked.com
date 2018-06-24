@@ -1,0 +1,5 @@
+id: dsq-747515516
+date: 2006-06-29T09:29:00.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>I did a commercial project with an OO database (ObjectStore, to be exact) in 1999. As we versioned the product, the data migrations became, and required more and more custom C++ code. We were on Oracle by the year 2000. :/ It's a good idea from an academic standpoint, but I just don't see it ever becoming mainstream.</p>

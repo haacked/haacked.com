@@ -1,0 +1,5 @@
+id: dsq-747527108
+date: 2008-11-17T05:24:37.0000000-08:00
+name: Gauthier Segay
+avatar: https://disqus.com/api/users/avatars/Gauthier Segay.jpg
+message: "<p>Brillant, that's the CLR of view rendering pipeline :)<br>@Ayende &amp; all: I agree that in most cases it will not be used, but I can see a common usage for this: when you would share some views/parts between projects that don't necessarily use the same view engine, then you can mixin all theses stuff without rewrite</p>"

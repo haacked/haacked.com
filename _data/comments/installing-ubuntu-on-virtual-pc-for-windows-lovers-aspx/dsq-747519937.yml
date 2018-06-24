@@ -1,0 +1,5 @@
+id: dsq-747519937
+date: 2007-05-06T09:18:46.0000000-07:00
+name: Steven Harman
+avatar: https://disqus.com/api/users/avatars/stevenharman.jpg
+message: <p>Phil, when you said<br></p><blockquote>Perhaps I should use VMWare 6 instead...</blockquote><p><br>Were you referring to VMware Workstation, or Server? I ask b/c Workstation is currently in version 5.x and 6.0 is still in beta - oh and Workstation runs about $200 per license. Whereas VMware Server is free (as in beer), and is somewhere around version 1.0.x.<br>I've loved VMware when I used it in the past, and I was really excited when the decided to make Server free. Unfortunately it's not an ideal virtualization system to run on a dev box as I don't like to have the extra [server] process running when I'm not using VMs. <br>However, VMware Workstation it runs more as a standalone application (like VPC 2007), so it's not using up system resources when it's not in use. The big downside is the 200 smacks it'll cost you to get the Workstation license. Maybe they'll give us a discount for being good OSS developers? :)</p>

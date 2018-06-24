@@ -1,0 +1,5 @@
+id: dsq-747525257
+date: 2008-07-18T16:25:16.0000000-07:00
+name: FTeR
+avatar: https://disqus.com/api/users/avatars/FTeR.jpg
+message: <p>Can I somehow use RouteLink or something similar inside a server tag, for ex. PostBackUrl=""?<br>The routes.Map("").To("~/Default.aspx"); not working for me.<br>I have sp1 and mvc prev4 installed. I'm using the built in VS dev server.<br>Setting routes.RouteExistingFiles = true not helped.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747531402
+date: 2010-01-17T22:28:48.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Aleš I could have used the App_Code folder and called <code>BuildManager.GetType("Routes")</code> and that would have worked too.<br>As Adam points out, that would cause a full AppDomain and Views recycle when you change a route. I wanted to avoid that. It does have the benefit that I don't have to manage my own file monitoring, which is a big benefit. :)</p>

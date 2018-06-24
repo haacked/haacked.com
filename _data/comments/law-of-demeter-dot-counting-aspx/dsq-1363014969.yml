@@ -1,0 +1,5 @@
+id: dsq-1363014969
+date: 2014-04-30T14:15:35.0000000-07:00
+name: Christian Tietze
+avatar: https://disqus.com/api/users/avatars/christiantietze.jpg
+message: "<p>I wonder:  what is your opinion on (1) \"presenter\" objects, and (2) \"data-transfer object\"-like representations of the `Order` model for rendering purposes?</p><p>In Rails-land, both approaches seem like over-engineering at first.</p><p>I think it's reasonable to give `Order` the ability to compile an `OrderRepresentation` or something similar which is just a value object containing all the data the view likes to have.  This way, the presentation layer can't access the model objects. Although we wouldn't do this intentionally of course, this way we can't even modify model objects by accident when we're writing view templates.</p><p>I think this separation has its benefits:  security and a buffering layer between model and presentation. But it adds complexity to the overall application because it introduces a presentation object for every aggregate (or every entity).</p>"

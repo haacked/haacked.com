@@ -1,0 +1,5 @@
+id: dsq-747527806
+date: 2009-01-27T21:37:25.0000000-08:00
+name: dario-g
+avatar: https://disqus.com/api/users/avatars/dario-g.jpg
+message: <p>There's more bugs :( Bugs for me and like I see for others too becouse with MVC Beta 'everything' work fine.<br>Eg:<br>- Url.Action("About") returns "About" not "Home/About"<br>- The same Html.BeginForm<br>- I have few methods in MasterPage code behind, compiles but in runtime throws exception MethodNotFound<br>- validateRequest=false not worked for me, too<br>- Url.RouteUrl not worked for me, too<br>- Where is Cancel property in AuthorizationContext?<br>- What happed with public virtual method GetListItems in SelectList?<br>Please, help :/</p>

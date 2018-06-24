@@ -1,0 +1,5 @@
+id: dsq-747525272
+date: 2008-05-27T19:17:31.0000000-07:00
+name: Johan Danforth
+avatar: https://disqus.com/api/users/avatars/Johan Danforth.jpg
+message: <p>Fixing the references makes the project run, but CanUpdateProduct and CanEditProduct tests fail with a NullReferenceException at this part:<br>        void SetInvalid(string key) {<br>            TempData["Error:" + key] = Request.Form[key];<br>        }<br></p>
