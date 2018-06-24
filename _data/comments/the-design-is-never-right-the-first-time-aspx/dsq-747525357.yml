@@ -1,0 +1,5 @@
+id: dsq-747525357
+date: 2008-06-02T09:11:13.0000000-07:00
+name: Peter
+avatar: https://disqus.com/api/users/avatars/Peter.jpg
+message: <p>I dove into MVC for a few days now, and my two main impressions are:<br>1) Strings = BAD, using generics / lambda fixes this, but it doesn't work in all places yet (generics ie).<br>2) Getting data out of form, responding to server side error, or validation is something that needs work.<br>Peter.</p>

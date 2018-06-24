@@ -1,0 +1,5 @@
+id: dsq-747535917
+date: 2011-08-16T15:53:25.0000000-07:00
+name: Tim Iles
+avatar: https://disqus.com/api/users/avatars/Tim Iles.jpg
+message: <p>Further to Andy's comment, Inflector also goes for "octopi". It also singularizes "loves" to "lofe" (but has explicit fix for the more common exception "moves"). Looks like this code would be fine for internal usage, e.g. convention-based pluralised table-name mapping from singular entity-name, but I wouldn't use it generically on a public facing front-end.</p>

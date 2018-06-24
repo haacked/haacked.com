@@ -1,0 +1,5 @@
+id: dsq-747525491
+date: 2008-06-24T16:52:08.0000000-07:00
+name: David Murphy
+avatar: https://disqus.com/api/users/avatars/David Murphy.jpg
+message: <p>We've been using an implementation of MVP in our ASP.NET production environment for over a year now and it is has proved to be a very easy to use methodology and resulted in a lot of re-usable code, one of our initial aims.<br>With the Model decoupled from the View entirely we are able to gradually migrate our Model code into our web services/WCF layer, which has resulted in a much more maintainable code base than we previously had as well as rationalising our systems to have a more unified data access layer, removing duplication and clearly defining our business objects.</p>

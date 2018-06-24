@@ -1,0 +1,5 @@
+id: dsq-747531204
+date: 2009-12-29T20:58:39.0000000-08:00
+name: Justin
+avatar: https://disqus.com/api/users/avatars/Justin.jpg
+message: <p>hehe, I ran into this same thing a few months back. Came up with a similar solution but for the rgb (0, 0, 0) route I ended up getting the sub-string of what's in the '()' and splitting on the commas for the parts.<br>Nice solution, thanks :)</p>

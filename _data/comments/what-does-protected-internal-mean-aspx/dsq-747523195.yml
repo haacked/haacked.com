@@ -1,0 +1,5 @@
+id: dsq-747523195
+date: 2007-10-29T22:29:31.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Anthony, I have no idea what you're talking about. The method is virtual and returns void.<br>;)<br>Ok, I admit it. I wrote that in WLW and just now fixed it.<br>@Scott - yep. That is the implication. Not altogether useful except for internal extensibility.</p>

@@ -1,0 +1,5 @@
+id: dsq-1438465494
+date: 2014-06-16T16:04:15.0000000-07:00
+name: xpaulbettsx
+avatar: https://disqus.com/api/users/avatars/xpaulbettsx.jpg
+message: <p>Hm, I'm not so sure about that last piece of code - I'd write it like this:</p><p>var results = await githubClient.Miscellaneous.GetEmojis()<br>    .Select(x =&gt; Observable.FromAsync(async () =&gt; {<br>        var path = Path.Combine(outputDirectory, emoji.Name + ".png");<br>        await DownloadImage(x.Url, path);<br>        return path;<br>    }))<br>    .Merge(4)<br>    .ToArray();</p><p><a href="https://gist.github.com/paulcbetts/90db75bbcbe701b784f9" rel="nofollow noopener" title="https://gist.github.com/paulcbetts/90db75bbcbe701b784f9">https://gist.github.com/pau...</a></p>

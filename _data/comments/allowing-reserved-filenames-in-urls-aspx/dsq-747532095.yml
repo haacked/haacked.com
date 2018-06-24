@@ -1,0 +1,5 @@
+id: dsq-747532095
+date: 2012-11-11T14:10:22.0000000-08:00
+name: Mikael Syska
+avatar: https://disqus.com/api/users/avatars/Mikael Syska.jpg
+message: <p>Hi,<br>While this is working for IIS ... its not working for IIS Express 8 ... havent tried other versions. Just as long I know its working in production I happy.<br>Were just about to make a crappy workaround for this problem when I though I just wanted to give it another try on google ... and my hero Phil showed up.<br>Odd that I havent seem this post last time I searched for a solution.</p>

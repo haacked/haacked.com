@@ -1,0 +1,5 @@
+id: dsq-747518821
+date: 2010-01-30T01:42:16.0000000-08:00
+name: Krane
+avatar: https://disqus.com/api/users/avatars/Krane.jpg
+message: <p>Why Can’t Spec Writers Write Specs. .....<br>I thought about the problem for couple mins and there's countless ways you could interpret the spec...  <br>Byte 1 to 100 vs. Ascii 1 to 100 vs. "12" vs. "1\n2" vs. "1\n\r2" vs. "...14FizzBuzz16..." vs. "...14FizzBuzzFizzBuzz16..."</p>

@@ -1,0 +1,5 @@
+id: dsq-747531405
+date: 2010-01-17T23:06:47.0000000-08:00
+name: Koistya `Navin
+avatar: https://disqus.com/api/users/avatars/Koistya `Navin.jpg
+message: <p>I would personally avoid this design, there are better ways to archieve the same end result with less trade-offs (like for example storing routes in .xml files or database and reloading routes if necessary without application restart).</p>

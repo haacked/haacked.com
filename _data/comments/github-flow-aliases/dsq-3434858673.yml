@@ -1,0 +1,5 @@
+id: dsq-3434858673
+date: 2017-07-25T09:05:25.0000000-07:00
+name: Jordan Bradford
+avatar: https://disqus.com/api/users/avatars/jordanbradford.jpg
+message: <p>I've been using your aliases and have created some of my own.</p><p>I use these to list local branches only, remote branches only, or both:</p><p>b = branch<br>br = branch -r<br>ba = branch -a</p><p>This one lists changed files (I got the command from some other site) -- it will be empty if there aren't any. For scripts this is easier to handle than trying to parse the output from "git status":</p><p>lsch = ls-files -dmo --exclude-standard</p>

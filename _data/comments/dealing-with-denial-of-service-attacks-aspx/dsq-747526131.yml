@@ -1,0 +1,5 @@
+id: dsq-747526131
+date: 2008-08-22T04:54:41.0000000-07:00
+name: Rod Mac
+avatar: https://disqus.com/api/users/avatars/Rod Mac.jpg
+message: <p>I am experiencing something very similar (lines and lines of declares then encoded characters) and it appears to be an append to a query string in the vain hope that a stored procedure is somehow going to accept a verbose string as a param instead of an integer. It is very weird and happens almost hourly. The site is not down though and I've thought about a redirect back to the mitigating IP address. Is someone trying to overwhelm SQL Server but to gain what? If anyone's got any light on this, would like to hear.</p>

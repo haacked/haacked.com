@@ -1,0 +1,5 @@
+id: dsq-747532656
+date: 2010-07-16T17:24:01.0000000-07:00
+name: Andrei Rînea
+avatar: https://disqus.com/api/users/avatars/Andrei_Rinea.jpg
+message: "<p>Two small comments :<br>1. I wouldn't say \"an enumeration of HttpPostedFileBase\" but \"an IEnumerable of HttpPostedFileBase\" to avoid confusion with the enum type<br>2. If the two files come from different client folders AND have the same file name the last file will win on the server (i.e.: it will overwrite the first)</p>"

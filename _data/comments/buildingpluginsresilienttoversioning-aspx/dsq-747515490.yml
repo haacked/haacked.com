@@ -1,0 +1,5 @@
+id: dsq-747515490
+date: 2006-06-26T19:50:00.0000000-07:00
+name: Arian
+avatar: https://disqus.com/api/users/avatars/Arian.jpg
+message: <p>Great post Phil!  I really like the idea.  I too have stuggled with compatibility issues when changing interfaces.  The event-based model makes a lot of sense.<br>Dimitri, I see what you are saying, but I think that it's a moot point.  If I have ten plugins installed, they would always be initialized -- I wouldn't initialize them per operation.  When something occurs, such as a comment needing to be spam checked, I invoke the event handler using the delegate model.  Of those ten plugins, maybe only one is registered for the event, but there is no additional overhead.  The beauty of this is how easy it is to handle a mixture of different functions.  I could implement more than one interface, but maybe I only really want to handle one sub-function of one of those interfaces.  This makes it easy.<br>Phil, thanks for the great post!</p>

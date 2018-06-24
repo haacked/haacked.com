@@ -1,0 +1,5 @@
+id: dsq-747526139
+date: 2008-08-22T10:06:57.0000000-07:00
+name: Steve Sheldon
+avatar: https://disqus.com/api/users/avatars/Steve Sheldon.jpg
+message: <blockquote>The attack appears to actually be an attempt at a SQL Injection attack</blockquote><p><br>Uhh, this stupid thing has been spreading across the Internet for about the last 4 months.  It's not DDoS, it's a worm.  It's really quite clever.  The SQL it's inserting tells it to look at all tables and append javascript to any of the varchar columns.<br>URLScan is a good way of stopping it.<br>The other thing, apparently the worm is searching google for .asp and .aspx extensions.</p>

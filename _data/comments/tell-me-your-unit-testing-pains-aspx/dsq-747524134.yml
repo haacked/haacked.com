@@ -1,0 +1,5 @@
+id: dsq-747524134
+date: 2008-02-09T00:59:40.0000000-08:00
+name: SeeR
+avatar: https://disqus.com/api/users/avatars/SeeR.jpg
+message: <p>Testing in WPF is hard for me because of following things:<br>1) There can be only one Application class instance<br>2) Window with XAML can't be inherited <br>3) Again (like in Windows.Forms) OpenFileDialog and SaveFileDialog are sealed<br>4) Microsoft should use interfaces instead of class dependencies in freamework or should remove from CLI keywords sealed and internal</p>

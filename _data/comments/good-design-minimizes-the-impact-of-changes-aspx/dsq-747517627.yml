@@ -1,0 +1,5 @@
+id: dsq-747517627
+date: 2006-11-24T05:14:09.0000000-08:00
+name: Rob Conery
+avatar: https://disqus.com/api/users/avatars/Rob Conery.jpg
+message: <p>What do you find compelling about .netTiers? While I firmly believe the quality of the code is excellent, the AMOUNT of it is utterly insane.<br>I hate to say SubSonic is an OR Mapper, but it sort of is and it uses Partials. And you can alter your code templates. And it produces about 1% of the code. And you never have to touch it. Change a field in your DB (or add a view/SP) and compile - done.<br>Anyway- I'm a big fan of avoiding complexity. OR/Mappers are notorious for creating this exact thing.</p>

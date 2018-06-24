@@ -1,0 +1,5 @@
+id: dsq-747516148
+date: 2006-08-17T09:32:42.0000000-07:00
+name: Scott Elkin
+avatar: https://disqus.com/api/users/avatars/Scott Elkin.jpg
+message: "<p>My services layer is generated for me using .netTiers, and there doesn't seem a way for me to reference an interface from my controller.  Each entity implements a generic interface, which prevents me using this.<br>For example, if each service entity inherits from:<br>interface IEntityProvider&lt;Entity, EntityKey&gt;<br>   where Entity: IEntityId&lt;EntityKey, new()<br>   where EntityKey : IEntityKey, new()<br>I can't write:<br>//IBlogDataService dataService;<br>IEntityProvider dataService  //compile error or<br>IEntityProvider&lt;T,T&gt;  // no no no<br>My only solution is to pass in the appropriate types.  Such as in one case:<br>IEntityProvider&lt;Customer, CustomerKey&gt; dataService;<br>Is there another way around this other than creating another tier or service interfaces/classes between the controller and my service layer?</p>"

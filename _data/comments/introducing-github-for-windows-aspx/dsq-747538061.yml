@@ -1,0 +1,5 @@
+id: dsq-747538061
+date: 2012-05-25T00:04:46.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@jittuu That's a neat idea. I'll think about it.<br>@Another Craig: The official support channel is support@github.com. We probably won't be putting up a UserVoice site.<br>@Craig: No, we don't support multiple select discard changes and I too feel the pain of that.<br>@James C: So right click on the file and launch Diff? Interesting idea.<br>@Vahid: Good to hear!<br>@Marc: Nope. We didn't make it themeable.<br>@David: please send email to support@github.com with your repro steps and your Log file. Go to options &gt; about github for windows and there's a button to grab the log at the bottom.<br>@Jesse: Select Custom Shell and enter the path to the Console2 exe. No need to pass in -d. We set the working directory when we launch the custom console.<br>@Jason: I never claimed *you* had a problem installing Git on Windows. I claimed a lot of people have, which is clear if you take a look around the net. Glad to hear you've had no trouble in the past.<br></p>"

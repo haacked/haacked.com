@@ -1,0 +1,5 @@
+id: dsq-747531717
+date: 2010-02-21T22:42:27.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Rik perhaps there is no data access to look up the ID for the slug, but instead it's looked up in a cached dictionary. Maybe there are other situations where you really do pass in the ID to get the content, and you simply want to normalize on that method.<br>The point of this blog post was to show how you can manipulate parameters to action methods, not to demonstrate the right way to build a CMS. I greatly simplified the example to make this point and it doesn't bear a big resemblance to the original problem.</p>

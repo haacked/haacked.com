@@ -1,0 +1,5 @@
+id: dsq-747534456
+date: 2011-02-15T22:58:09.0000000-08:00
+name: Zach
+avatar: https://disqus.com/api/users/avatars/Zach.jpg
+message: <p>I only played with the 1.0 a bit, but had a need to install a spell checker today so I updated to 1.1 and checked NuGet.  I found a ton more packages including "Spell Checker".  The only thing that was a bit confusing, was know what is FREE and what is Trial and/or Paid.  I would be nice if it showed this information on the right hand side of the Extension Manager, versus following the link to a web page.  I was also curious how to tell from browsing Extension Manager, what the requirements of each package are (e.g. .NET 4.0, VS 2008+, etc...).  This also seems like it would be nice info to put on the right hand information panel.  All in all, NuGet and the Extension Manager are great!</p>

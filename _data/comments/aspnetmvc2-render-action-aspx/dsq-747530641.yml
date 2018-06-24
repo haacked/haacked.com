@@ -1,0 +1,5 @@
+id: dsq-747530641
+date: 2010-12-16T11:59:07.0000000-08:00
+name: Igor
+avatar: https://disqus.com/api/users/avatars/Igor.jpg
+message: '<p>what if i want to display a sub menu? the scenario is like this: in an site master, i have a div where i render all the menu items (on top of the site) and a submenu, (somewhere on the left). i guess they have to be in a site master, as this is the only way to make the menus visible throughout the whole page. <br>when i call render action method, i have a problem of filtering the submenu items depending on the menu item selected currently, as every source of routevalue collection returns me values of the action executed currently, not the one that initiates that action.</p>'

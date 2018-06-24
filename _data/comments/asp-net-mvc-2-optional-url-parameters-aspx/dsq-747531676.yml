@@ -1,0 +1,5 @@
+id: dsq-747531676
+date: 2010-02-12T02:40:54.0000000-08:00
+name: Vijay Santhanam
+avatar: https://disqus.com/api/users/avatars/Vijay Santhanam.jpg
+message: <p>I use the [Bind(Exclude="id")] attribute too. Will that still work and not show up as a model binding error?<br><br></p>

@@ -1,0 +1,5 @@
+id: dsq-747512624
+date: 2005-07-18T23:52:00.0000000-07:00
+name: Steven Campbell
+avatar: https://disqus.com/api/users/avatars/Steven Campbell.jpg
+message: <p>You're better off without it.  Really.  ASP.NET (with code-behind) already separates controller and view.   Use a model in the form of additional classes, and you're set.  <br><br><br><br>I tried the UI Application Block for a moderately simple web app, because it had several multi-step processes that I thought could benefit.  The downside was that the UI block was overly complex, required inheriting from their own base Page class, and did not handle page-backs very well.  <br><br><br><br>In the end, all it really did for me was handle session state, and I can do that in other much simpler ways.  I won't use it again.</p>

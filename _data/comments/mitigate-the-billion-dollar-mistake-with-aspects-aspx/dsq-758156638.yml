@@ -1,0 +1,5 @@
+id: dsq-758156638
+date: 2013-01-06T14:24:44.0000000-08:00
+name: Harry McIntyre
+avatar: https://disqus.com/api/users/avatars/mcintyre321.jpg
+message: <p>There's a very interesting library/tool called Genuilder that intercepts your source during the msbuild process, and lets y ou modify it before it is compiled. It seems really clever but I think no-one has ever heard of it. What's really cool is that the VS intellisense engine picks up on code constructs you generate with it. I guess it's not too dissimilar to what Roslyn will offer.</p><p><a href="http://genuilder.codeplex.com/" rel="nofollow noopener" title="http://genuilder.codeplex.com/">http://genuilder.codeplex.com/</a><br><a href="https://github.com/andrewdavey/magic" rel="nofollow noopener" title="https://github.com/andrewdavey/magic">https://github.com/andrewda...</a> - an example that makes properties on a class virtual</p>

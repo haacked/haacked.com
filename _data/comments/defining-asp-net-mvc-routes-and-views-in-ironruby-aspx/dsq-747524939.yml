@@ -1,0 +1,5 @@
+id: dsq-747524939
+date: 2008-08-26T19:28:26.0000000-07:00
+name: Joe Fiorini
+avatar: https://disqus.com/api/users/avatars/Joe Fiorini.jpg
+message: <p>Hey Phil,<br>I love your IronRuby samples!  Thanks for spending the time to get these working for us!<br>One thing I noticed with your RubyRouteLoader is that I had to restart IIS7 every time I changed the routes file.  I moved the call into Application_BeginRequest and made some slight modifications to your code to make it work.  I posted the details on my blog at <a href="http://faithfulgeek.org/2008/8/27/an-improved-ironruby-route-loader-for-asp-net-mvc" rel="nofollow noopener" title="http://faithfulgeek.org/2008/8/27/an-improved-ironruby-route-loader-for-asp-net-mvc">faithfulgeek.org/.../an-improved-ironruby-route...</a>.  I hope you can find this useful!</p>

@@ -1,0 +1,5 @@
+id: dsq-747519457
+date: 2007-03-30T22:51:39.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Dave, in a way it's similar. With XP, you rate every user story with a business value score (usually 1 to 5) and a technical difficulty score (1 to 5 as well). Over time, you'll start to get a picture of how much "Business Value" your team can deliver per week.<br>That approach gives you a number that's called your <em>Velocity</em>.<br>This approach is slightly different in that we're not scoring features according some scale. Instead, we're looking at how accurate our past estimates have been. So rather than saying, "My team delivers 20 pts of business value a week", you can say, "My team's estimates are within their min/max ranges 90% of the time." You might also be able to say how wide that range is as well "1 standard deviation".<br>Either way, the key point is to use past performance to create more quantitative estimates rather than relying on pure subjectivity.</p>

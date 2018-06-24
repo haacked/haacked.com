@@ -1,0 +1,5 @@
+id: dsq-747522200
+date: 2012-11-19T18:46:15.0000000-08:00
+name: nrkn
+avatar: https://disqus.com/api/users/avatars/nrkn.jpg
+message: <p><em>If</em> you're in .NET <em>and</em> you're using System.Net.Mail to send:<br>/// &lt;summary&gt;<br>/// Returns true if the string appears to be a valid email address<br>/// &lt;/summary&gt;<br>public static Boolean IsValidEmail( this string input ) {<br>  try {<br>    new MailAddress( input );<br>  } catch( Exception ) {<br>    return false;<br>  }<br>  return true;<br>}<br>I was originally using something based on reading this and several other articles, but after a couple of mishaps I realised it's no use having a technically correct solution if the mailer still rejects it, and I'd be better off checking if the mailer is going to be happy with the address.</p>

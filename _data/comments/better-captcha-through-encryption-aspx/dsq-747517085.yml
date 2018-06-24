@@ -1,0 +1,5 @@
+id: dsq-747517085
+date: 2006-10-13T06:54:09.0000000-07:00
+name: CB
+avatar: https://disqus.com/api/users/avatars/CB.jpg
+message: <p>Excellent!<br>I am a little confused with this line:<br>Page.ClientScript.RegisterHiddenField<br>    (this.HiddenEncryptedAnswerFieldName<br>    , EncryptAnswer(answer));<br>How is this being done this.HiddenEncryptedAnswerFieldName?</p>

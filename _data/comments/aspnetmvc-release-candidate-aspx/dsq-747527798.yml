@@ -1,0 +1,5 @@
+id: dsq-747527798
+date: 2009-01-27T19:23:33.0000000-08:00
+name: Nicolas
+avatar: https://disqus.com/api/users/avatars/Nicolas.jpg
+message: <p>Url.RouteUrl is broken. It returns a blank string for routes that used to work before. It seems that this is the case when targetting routes from another controller than the one which triggered the view. A major issue... all my site is broken.</p>

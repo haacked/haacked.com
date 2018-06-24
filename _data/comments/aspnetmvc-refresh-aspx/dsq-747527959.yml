@@ -1,0 +1,5 @@
+id: dsq-747527959
+date: 2009-01-31T22:17:14.0000000-08:00
+name: Mauricio
+avatar: https://disqus.com/api/users/avatars/Mauricio.jpg
+message: <p>I just upgraded from RC to the refreshed RC and now VS crashes when I open any aspx or ascx view :-(<br>Event viewer doesn't say much:<br>.NET Runtime version 2.0.50727.1434 - Fatal Execution Engine Error (79FEC5F0) (80131506)<br>I did uninstall the previous RC before installing this one...</p>

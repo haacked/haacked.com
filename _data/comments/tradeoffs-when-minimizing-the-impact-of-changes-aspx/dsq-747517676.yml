@@ -1,0 +1,5 @@
+id: dsq-747517676
+date: 2006-11-16T09:12:45.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I'm not sure I totally understand yet.  Is your data access layer a dynamic query engine?  Given that some databases support stored procs and others don't, I'm not sure how a data access layer is completely insulated from the business layer unless it is a dynamic query engine or code generated inline sql (ala Subsonic, NHibernate, etc...).<br>For example, suppose I have the biz method<br><code>Person GetPersonById(int id);</code><br>And I have the abstract base class <code>DataAccessProviderBase</code> with the method:<br><code>IDataReader GetPersonById(int id);</code><br>That is more resilient to change than if the class returned a fully loaded Person object.  However, if I add a column to Person, then I have to update the stored procs for the database engines that support stored procs.  And update the inline SQL for those that don't.  That's still a lot of changes.<br>With a dynamic query engine, I make the change once.  To the code that generates the query.<br>Phil<br></p>

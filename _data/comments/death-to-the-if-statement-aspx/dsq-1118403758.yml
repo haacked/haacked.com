@@ -1,0 +1,6 @@
+id: dsq-1118403758
+replyToId: dsq-1118386055
+date: 2013-11-11T10:49:49.0000000-08:00
+name: martijnhoekstra
+avatar: https://disqus.com/api/users/avatars/martijnhoekstra.jpg
+message: "<p>unfortunately, the ternary operator is very difficult to use when their bodies are larger than a simple expression.</p><p>Action _true =  () =&gt; { some; logic; that; produces; a; return value;};<br>Action _false = () =&gt; { some; different; logic, that; produces; a; different; return value; };</p><p>var foo = someCondition ? _true() : _false();</p><p>is, I'm sure we can all agree, quite horrid.</p>"

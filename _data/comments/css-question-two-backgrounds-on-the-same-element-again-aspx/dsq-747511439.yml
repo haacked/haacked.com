@@ -1,0 +1,5 @@
+id: dsq-747511439
+date: 2010-07-16T18:23:43.0000000-07:00
+name: DePalmo
+avatar: https://disqus.com/api/users/avatars/DePalmo.jpg
+message: '<p>Sorry, I copied too quickly and some errors are showing. My bad :)<br>Everything in html code is the same, updated css is:<br>body {<br>    padding: 0px 50px 50px 50px; /* this helps div to be dynamical in width */<br>}<br>#container {<br>    position: relative;<br>    padding: 0px 30px 0px 30px; /* spacing for the borders... so the content will NOT overlap */<br>    background-color: #000000;<br>}<br>Everything else is the same.</p>'

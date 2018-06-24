@@ -1,0 +1,5 @@
+id: dsq-747535088
+date: 2011-04-25T04:18:06.0000000-07:00
+name: Koistya `Navin
+avatar: https://disqus.com/api/users/avatars/Koistya `Navin.jpg
+message: <p>Hey Phil, I have an idea for one your feature blog posts - Binding Aliases! Which can be used somewhat like that:<br>public ActionResult(..., [Alias("return")] returnUrl) { ... }<br><a href="http://example.com/?return=/hello_world" rel="nofollow noopener" title="http://example.com/?return=/hello_world">http://example.com/?return=/hello_world</a></p>

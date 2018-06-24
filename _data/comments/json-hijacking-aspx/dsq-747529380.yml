@@ -1,0 +1,5 @@
+id: dsq-747529380
+date: 2009-06-27T04:04:00.0000000-07:00
+name: Artiom
+avatar: https://disqus.com/api/users/avatars/Artiom.jpg
+message: <p>Another way to save your users is to use security tokens.<br>For example, in ASP.NET MVC there's a special class to prevent CSRF attacks. It creates a cookie with a security token when you load the form, and when you submit the form the value submitted in the form is checked against the cookie. If course that works only in POST but that's good, right? :P<br>See here for more details, and examples (not my blog btw)<br><a href="http://blog.codeville.net/2008/09/01/prevent-cross-site-request-forgery-csrf-using-aspnet-mvcs-antiforgerytoken-helper/" rel="nofollow noopener" title="http://blog.codeville.net/2008/09/01/prevent-cross-site-request-forgery-csrf-using-aspnet-mvcs-antiforgerytoken-helper/">blog.codeville.net/.../prevent-cross-site-reque...</a></p>

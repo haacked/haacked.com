@@ -1,0 +1,5 @@
+id: dsq-747536615
+date: 2011-11-27T09:21:23.0000000-08:00
+name: jbogard
+avatar: https://disqus.com/api/users/avatars/jbogard.jpg
+message: <p>Not sure if I like this approach - this would pretty much be the nail in the coffin that Razor is only used in the context of a web request, as opposed to an awesome stand-alone templating engine. I didn't think I would care about that, but Spark seems to keep popping up for us in the craziest of places - like WinForms apps, for example, to format HTML reports for users.<br>Unless this was an extension of Razor, instead of baked in, that is.</p>

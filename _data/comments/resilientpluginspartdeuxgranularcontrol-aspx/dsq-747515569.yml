@@ -1,0 +1,5 @@
+id: dsq-747515569
+date: 2006-07-02T17:04:00.0000000-07:00
+name: davidacoder
+avatar: https://disqus.com/api/users/avatars/davidacoder.jpg
+message: <p>I looked around a bit more and found this blog on the System add-in work Microsoft is doing:<br><a href="http://msdn.technetweb3.orcsweb.com/jackg/default.aspx" rel="nofollow noopener" title="http://msdn.technetweb3.orcsweb.com/jackg/default.aspx">http://msdn.technetweb3.orcsweb.com/jackg/default.aspx</a><br>Essentially they have a solution for managed add-ins that solves most of the difficult versioning, security, isolation etc problems. It ships with VSTA and will also be part of Orcas. You should certainly check this out if you are thinking about plug-ins!</p>

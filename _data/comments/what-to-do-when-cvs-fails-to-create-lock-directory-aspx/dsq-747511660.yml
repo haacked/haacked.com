@@ -1,0 +1,5 @@
+id: dsq-747511660
+date: 2008-03-03T02:08:28.0000000-08:00
+name: Leigh
+avatar: https://disqus.com/api/users/avatars/Leigh.jpg
+message: <p>I'm also using TortoiseCVS and this seemed to fix it.  I was doing an Add Contents on a folder that did NOT exist in the repository and I THINK this was the problem. <br>Plus I was doing a TON of files so it would take forever and then frustration would hit.  It looks like for me the problem was the directory creation in the repository failing when doing an Add Contents.  If I added the directory and THEN did add contents all was well.  <br>Thanks for the help!<br></p>

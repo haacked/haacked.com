@@ -1,0 +1,5 @@
+id: dsq-747513387
+date: 2008-07-25T14:00:07.0000000-07:00
+name: Bogdan Costea
+avatar: https://disqus.com/api/users/avatars/Bogdan Costea.jpg
+message: <p>I lost about half a million rows by running test code in production by mistake, everybody does this at least once.<br>Thank god for "select as of timestamp"!<br></p>

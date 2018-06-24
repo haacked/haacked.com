@@ -1,0 +1,5 @@
+id: dsq-747524841
+date: 2008-04-10T05:34:15.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Kurt, no they don't suck down slashes. Only catch-all parametres suck down slashes. The catch-all parameter must be at the end.<br>@spoottwo it should be /{path}.{extension}<br>No need for a *.<br>I think I'll try to write up a new blog post with a better explanation of routing. :)</p>

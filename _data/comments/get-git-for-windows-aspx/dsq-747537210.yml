@@ -1,0 +1,5 @@
+id: dsq-747537210
+date: 2011-12-19T18:44:55.0000000-08:00
+name: Perry
+avatar: https://disqus.com/api/users/avatars/Perry.jpg
+message: <p>Any help getting ssh-agent set up and installed?  I have posh-git all set up and I can pull down from my private repository on Github, but I am still being prompted for my "super-secret phrase" on every command.  And when I 'Start ssh-agent' a cmd prompt flashes but nothing really changes.</p>

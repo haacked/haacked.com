@@ -1,0 +1,5 @@
+id: dsq-1622502680
+date: 2014-10-06T16:13:01.0000000-07:00
+name: Tim Erwin
+avatar: https://disqus.com/api/users/avatars/timerwin.jpg
+message: "<p>this doesn't convert correctly: colorToHex('rgb(10, 0, 0)') results in #a0000</p>"

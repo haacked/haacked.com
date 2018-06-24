@@ -1,0 +1,5 @@
+id: dsq-747537473
+date: 2012-01-15T07:24:17.0000000-08:00
+name: Siderite
+avatar: https://disqus.com/api/users/avatars/Siderite.jpg
+message: <p>I've had a similar problem with comparing HTML (only there I had to ignore whitespace) and I've created a small class that receives a string in the constructor and has overridden Equals and ToString methods as well as an implicit cast to string. <br>All you have to do is change Assert.Equal(s1,s2) with Assert.Equal(new Stringer(s1),new Stringer(s2)), changing the code to a minimum level and achieving your desired result with an encapsulated class.<br>In your example you could transform tabs and carriage returns back into slash notation when outputing.</p>

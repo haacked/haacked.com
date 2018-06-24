@@ -1,0 +1,5 @@
+id: dsq-747531244
+date: 2011-11-08T01:04:56.0000000-08:00
+name: Kenji Yamamoto
+avatar: https://disqus.com/api/users/avatars/Kenji Yamamoto.jpg
+message: <p>I'm create a new function named "ZeroFill" to solve the problem with Hex starting by "0", take a look:<br>   zeroFill = function(number, limit) {<br>       for (var i = number.toString().length; i &lt; limit; i++) {<br>           number = '0' + number;<br>       }<br>       return number;<br>   };<br>   convertColors = function( colors ){<br>       var m = /rgba?\((\d+), (\d+), (\d+)/.exec( colors );<br>       if( m ){<br>           return "#" + zeroFill( ( m[1] &lt;&lt; 16 | m[2] &lt;&lt; 8 | m[3] ).toString(16), 6 );<br>       }else{<br>           return colors;<br>       }<br>   };</p>

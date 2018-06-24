@@ -1,0 +1,5 @@
+id: dsq-747522173
+date: 2011-06-22T16:16:39.0000000-07:00
+name: Phantom
+avatar: https://disqus.com/api/users/avatars/Phantom.jpg
+message: <p>Hi Phil<br>I used your regular expression and it worked like magic until our client decided to use IE6 and IE7 and it broke. The culprit is lookahead/lookbehind. Can you give me an equivalent regex without lookarounds ??<br>Thank you.</p>

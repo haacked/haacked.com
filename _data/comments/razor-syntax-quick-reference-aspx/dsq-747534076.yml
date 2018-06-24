@@ -1,0 +1,5 @@
+id: dsq-747534076
+date: 2011-02-24T09:29:56.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Make it an explicit expression.<br><code>@(MyStringMethod&lt;MyClass&gt;(params))</code></p>

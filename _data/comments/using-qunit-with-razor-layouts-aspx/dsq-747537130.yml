@@ -1,0 +1,5 @@
+id: dsq-747537130
+date: 2011-12-11T18:47:57.0000000-08:00
+name: Jos&#233; Romaniello
+avatar: https://disqus.com/api/users/avatars/Jos&#233; Romaniello.jpg
+message: <p>I do something like this but instead to run the project as a website.... I use random to build the html test harness (using razor from command line RazorCandle on my github).<br><a href="https://github.com/jfromaniello/razorcandle" rel="nofollow noopener" title="https://github.com/jfromaniello/razorcandle">https://github.com/jfromaniello/razorcandle</a><br><br>Then i run the file with phantomjs... or in the browser.<br>The best example of this, is in my Jmail example:<br><a href="http://github.com/jfromaniello/jmail" rel="nofollow noopener" title="http://github.com/jfromaniello/jmail">http://github.com/jfromaniello/jmail</a><br>Jmail is my example of Single Page Web Applicaiton, and the article is here:<br><a href="http://joseoncode.com/2011/11/14/test-driven-single-page-web-applications/" rel="nofollow noopener" title="http://joseoncode.com/2011/11/14/test-driven-single-page-web-applications/">joseoncode.com/...</a></p>

@@ -1,0 +1,5 @@
+id: dsq-747534695
+date: 2011-03-31T00:10:29.0000000-07:00
+name: NickS
+avatar: https://disqus.com/api/users/avatars/NickS.jpg
+message: <p>I also experienced the SignatureMismatchException while going from NuGet 1.1 -&gt; 1.2 (I had previously seen the same error when upgrading from 1.0 -&gt; 1.1).<br>Uninstalling and re-installing (with the 'protect my computer' checkbox unchecked) did work, and I now have NuGet 1.2.20325.9034 installed.</p>

@@ -1,0 +1,5 @@
+id: dsq-747517228
+date: 2006-10-13T02:37:24.0000000-07:00
+name: Joshua Flanagan
+avatar: https://disqus.com/api/users/avatars/Joshua Flanagan.jpg
+message: <p>♠As Keyvan's first post alluded to, I think it depends on how other Akismet implementations handle it. Since it makes its decision based on feedback from all of its users, it really depends on what that feedback contains. If everyone reports a spam using the proxy server of the user, then that becomes the identifying characteristic (in addition to others, I'm sure). So it really doesn't add any value if you provide the "real" ip address of the user, if every other Akismet user is providing the proxy IP address from HTTP_REMOTE_ADDR.</p>

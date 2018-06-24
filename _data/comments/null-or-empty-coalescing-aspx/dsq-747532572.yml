@@ -1,0 +1,5 @@
+id: dsq-747532572
+date: 2010-06-17T22:20:53.0000000-07:00
+name: James Nail
+avatar: https://disqus.com/api/users/avatars/jrnail23.jpg
+message: <p>Andy Edinborough's extension method (shown above in the comments) is pretty much exactly what I've been using... It's worked quite well for me.  <br>I've also used the same general approach (with generics) for handling null objects (if null, then use provided default value) -- although I'd like to figure a nice way to make it lazy (so that it doesn't evaluate my default value at all unless needed).</p>

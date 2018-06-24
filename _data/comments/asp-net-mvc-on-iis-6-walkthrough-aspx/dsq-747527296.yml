@@ -1,0 +1,5 @@
+id: dsq-747527296
+date: 2011-06-16T21:14:54.0000000-07:00
+name: Bahamut
+avatar: https://disqus.com/api/users/avatars/Bahamut.jpg
+message: <p>Hi,<br>I tried this on MVC 3 in IIS 6. I've installed .net 4 and mvc 3 RTM on the machine, set everything to use <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> 4 and tried the .mvc extensions but it gave me 404. I've even took out the .mvc in the global.asax.cs, built and published it but I ended up with the same result. <br>What am I missing? Is this applicable for MVC 3?</p>

@@ -1,0 +1,5 @@
+id: dsq-747528522
+date: 2009-04-03T10:07:38.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@James actually, modern browsers protect against that. <br>@ANaimi, what James said is correct. Browsers don't allow cross domain GET. If you don't believe it, you should create a sample that works against our helpers. We'd love to know about it.</p>

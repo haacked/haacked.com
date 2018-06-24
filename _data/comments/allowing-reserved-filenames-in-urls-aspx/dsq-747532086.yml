@@ -1,0 +1,5 @@
+id: dsq-747532086
+date: 2010-05-11T02:10:30.0000000-07:00
+name: Guy
+avatar: https://disqus.com/api/users/avatars/Guy.jpg
+message: <p>Correct me if I'm wrong, but couldn't you read in the contents of the web.config file and list it as the result of requesting the web.config route?<br>I don't suggest that you do that but you could "fake it" like that if you want people to think that you are directly listing the contents on the web.config.<br>This could also be a honey trap for hackers. i.e. list a fake web.config with a DB connection string that just logs and reports attempted hacking.</p>

@@ -1,0 +1,5 @@
+id: dsq-747526808
+date: 2009-01-03T15:23:50.0000000-08:00
+name: Jeroen Landheer
+avatar: https://disqus.com/api/users/avatars/Jeroen Landheer.jpg
+message: <p>Hi Phil.<br>I've used your sample, but what I noticed is that views and controllers in the "root" area can be used in any other area. For example, if the root area contains a "Document" controller, and I have a area "Customer", you can either navigate to /Document/SomeAction or /Customer/Document/SomeAction, while the Customer area does not have a DocumentController class. <br>I've trying to prevent this by adding some constraints to the root area, but I haven't found a way to prevent this behaviour. Any ideas?<br></p>

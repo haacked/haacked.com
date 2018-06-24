@@ -1,0 +1,5 @@
+id: dsq-747524257
+date: 2008-02-21T23:45:27.0000000-08:00
+name: Kevin
+avatar: https://disqus.com/api/users/avatars/Kevin.jpg
+message: <p>use ABC as if it's an interface for version compatibility is tricky in terms of common design/programming idiom and assembly upgrade practice.<br>IMHO, it's worse to check SupportMethod2 than checking if interface is implemented.<br>As Evan pointed out, using inheritance to extend framework is the strongest coupling between framework vendor and consumer. In this case, use interface and interface inheritance to support versioning is the proven way, when we recall COM world's QueryInterface method.<br>My $0.02.<br>Kevin</p>

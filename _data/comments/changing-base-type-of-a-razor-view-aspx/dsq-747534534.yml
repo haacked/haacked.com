@@ -1,0 +1,5 @@
+id: dsq-747534534
+date: 2011-12-02T19:04:23.0000000-08:00
+name: Andy Cohen
+avatar: https://disqus.com/api/users/avatars/andy_cohen.jpg
+message: <p>Phil,<br>At the beginning of this great article, you said:<br>"Html is a property of type HtmlHelper and there are a large number of useful extension methods that hang off this type, such as  TextBox."<br>Don't you mean that it is a property of type WebViewPage?</p>

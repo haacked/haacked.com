@@ -1,0 +1,5 @@
+id: dsq-747531422
+date: 2010-02-17T00:39:03.0000000-08:00
+name: Jon  Ranes
+avatar: https://disqus.com/api/users/avatars/Jon  Ranes.jpg
+message: <p>I have found with the code below I can edit or delete a route at runtime perfectly.  It is just adding new routes that won't work this way.  Sure would be nice to have.<br><code><br>        public static void TestChangeRouteRuntime(RouteCollection routes)<br>        {<br>            var routesToRemove = new List&lt;RouteBase&gt;();<br>            foreach (var routeBase in routes)<br>            {<br>                var route = routeBase as Route;<br>                if (route.Url == "cms/{*path}")<br>                {<br>                    route.Url = "cms2/{*path}";<br>                    routesToRemove.Add(routeBase);                    <br>                }<br>            }<br>            foreach (var routeToRemove in routesToRemove)<br>            {<br>                routes.Remove(routeToRemove);<br>            }<br>        }<br></code></p>

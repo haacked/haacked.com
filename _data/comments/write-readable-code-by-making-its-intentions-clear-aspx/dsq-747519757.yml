@@ -1,0 +1,5 @@
+id: dsq-747519757
+date: 2007-04-21T01:50:56.0000000-07:00
+name: Steven R
+avatar: https://disqus.com/api/users/avatars/Steven R.jpg
+message: <p>I agree that the enum does make the code more readable but  what happens when you are expecting a true (an enum with a value of 1) or false (an enum with a value of 2) value and someone sends your method a maybe (an enum with a value of 3)?<br>Wouldn't it make more sense if the variables fit together nicely to refactor it to a parameter object?</p>

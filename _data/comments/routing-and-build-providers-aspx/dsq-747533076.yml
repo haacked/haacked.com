@@ -1,0 +1,5 @@
+id: dsq-747533076
+date: 2010-09-07T19:05:07.0000000-07:00
+name: Slava
+avatar: https://disqus.com/api/users/avatars/Slava.jpg
+message: <p>&lt;system.webServer&gt;<br>    &lt;rewrite&gt;<br>      &lt;rules&gt;<br>        &lt;rule name="LegacyApiService" stopProcessing="true"&gt;<br>          &lt;match url="^Services/api.svc/(.*)$" /&gt;<br>          &lt;action type="Rewrite" url="LegacyApi/{R:1}" /&gt;<br>        &lt;/rule&gt;<br>      &lt;/rules&gt;<br>    &lt;/rewrite&gt;<br>  &lt;/system.webServer&gt;<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747510274
+date: 2011-01-06T22:51:33.0000000-08:00
+name: SuRGeoN
+avatar: https://disqus.com/api/users/avatars/SuRGeoN.jpg
+message: <p>just wrote a Regex in vb .net for following tags:<br>&lt;tag_name varZ* varX=valueY*&gt;<br>this regex will also include correctly tags as:<br>&lt;tag_name varX="value &gt;"&gt;<br>VB .NET Regex (HTML Tags)<br>Dim regex_tag As String = "(?&lt;extract&gt;&lt;[a-zA-Z]+\s*(.|\n)*?&gt;)([^&lt;&gt;]*(?=&lt;)|[^&lt;&gt;]*$)"<br>Hope you will find it useful<br>Cheers,<br>John</p>

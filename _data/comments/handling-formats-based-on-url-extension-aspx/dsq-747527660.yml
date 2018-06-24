@@ -1,0 +1,5 @@
+id: dsq-747527660
+date: 2009-01-06T12:55:08.0000000-08:00
+name: Aleš Roub&#237;ček
+avatar: https://disqus.com/api/users/avatars/Aleš Roub&#237;ček.jpg
+message: <p>IMO better solution is using <code>Accept-Type</code> header in you request to specify result format. :) It's less tricky and more HTTP way...</p>

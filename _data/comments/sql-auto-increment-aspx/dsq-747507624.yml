@@ -1,0 +1,5 @@
+id: dsq-747507624
+date: 2006-08-15T10:35:52.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I'm not sure what you mean. If you want to set the starting value, you'd change the following line:<br>  SET @counter = 0<br>to<br>  SELECT @counter = MAX(ID) FROM MyOtherTable<br>or something like that.</p>

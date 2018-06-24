@@ -1,0 +1,5 @@
+id: dsq-747515989
+date: 2006-07-30T22:30:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Cullen, that was actually my first impulse, but as you pointed out, the target users for this would be Subversion users and I didn't want to force them to use yet another source control system.<br>I figure, anybody interested in this is already using Subversion so might as well host it on a subversion server. ;)<br>Although the <em>Next</em> project I start will be on CodePlex. ;)</p>

@@ -1,0 +1,5 @@
+id: dsq-747520707
+date: 2007-05-29T06:23:25.0000000-07:00
+name: Marcos
+avatar: https://disqus.com/api/users/avatars/Marcos.jpg
+message: <p>I see some pretty cool things in Ruby and love how easy is to write code (more than any dynamic language)<br>But like others think I preffer<br>DateTime.Now.AddMinutes(-20); <br>Is much more easy to understand, if you are reading code, you expect something like the c# one, is easy to underdestand to all.<br>I dont think that the problems on software development are related to expressiveness, we have bigger problems that are addressed by Rails. But when c# 3.0 come out I will use a lot of extensions methods in my code, but not for that.<br>Why add a Minutes method to the interger type !! not is too much ?? I know that this is based on the example of Hanselman, but not good as example.<br>But I dont see simplicity in syntax so good =( in fact is more and more easy to no technical people to write code, and this maybe is not so good either :P<br>Best Regards<br>Marcos</p>

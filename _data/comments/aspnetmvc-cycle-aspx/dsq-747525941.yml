@@ -1,0 +1,5 @@
+id: dsq-747525941
+date: 2008-08-07T01:54:37.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>As Francois said, the "cheat" is storing that "private" variable in the HttpContext.Items. That variable value is available later on in the request. But then again, the chances of having a conflict with it is minimal. You could use a GUID for the key rather than "cytle_index"</p>

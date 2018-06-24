@@ -1,0 +1,5 @@
+id: dsq-747520822
+date: 2007-06-03T21:13:38.0000000-07:00
+name: Brandon
+avatar: https://disqus.com/api/users/avatars/Brandon.jpg
+message: <p>Phil,<br>I take it that you have never taken over applications that were developed and built by standard users?  I have the experience of dealing with both the Access applications and also VB applications that were written by a user who took a class.  The user is trying to do something to improve their work flow, but in turns makes it a living nightmare to maintain and support.<br>Jon mentions users using super-denormalized Excel spreadsheets.  I have had to deal with Access databases that reach up to 1GB in Office 2000 and 2GB in Office 2003 of super-denormalized data.  I guess there are just some cases, which people just want something that works to get the job done rather then something that improves their job.</p>

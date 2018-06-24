@@ -1,0 +1,5 @@
+id: dsq-747532693
+date: 2010-07-26T02:02:58.0000000-07:00
+name: bennyb
+avatar: https://disqus.com/api/users/avatars/bennyb.jpg
+message: <p>So how do you access other form fields e.g. TextBox, TextArea etc. added to this form? <br>Clearly they are not part of the HttpPostedFileBase.</p>

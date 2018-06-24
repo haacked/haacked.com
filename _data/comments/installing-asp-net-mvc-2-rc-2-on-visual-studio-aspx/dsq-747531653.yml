@@ -1,0 +1,5 @@
+id: dsq-747531653
+date: 2010-03-11T12:41:29.0000000-08:00
+name: Christian Metz
+avatar: https://disqus.com/api/users/avatars/Christian Metz.jpg
+message: <p>I just tryed to install MVC 2 Final onto my machine with Visual Studio 2010.<br>I follow the steps above to uninstall old versions of MVC 2.<br>During the installation of the final version i recieve an error "Please uninstall the MS VS Tools component for MVC before uninstalling MS ASP.NET MVC 1.1"<br>I do have MVC 1.0 and also MVC 1.1 runtime install on this machine.<br>To uninstall MVC 1.1 I would have to uninstall the Tools, too, what I didnt wanted.<br>Therefore I unpacked the AspNetMVC2_VS2008.exe installed the Tool with the installer and added the System.Web.Mvc.dll (which can be extracted with msiexec /a command) manually (better with gacutil) into the GAC.<br>Now everything look fine for the moment. I just do not have an entry in my programs and features for MS ASP.NET MVC 2.0, but I can work normally within VS.<br>Is there a better way to fix this or what should I do with old MVC 1.1 runtime?</p>

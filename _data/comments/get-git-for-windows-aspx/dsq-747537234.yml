@@ -1,0 +1,5 @@
+id: dsq-747537234
+date: 2011-12-29T12:20:55.0000000-08:00
+name: calenti
+avatar: https://disqus.com/api/users/avatars/calenti.jpg
+message: <p>This is a great tutorial and a good intro to PowerShell. I did notice that this works OK on initial start, but if I close the PowerShell the ssh-agent doesn't terminate, and when I start the PowerShell again it doesn't seem able to communicate with the ssh-agent.<br>For me, killing the old ssh-agent and running start-sshagent does the trick. Nice tip and it got me off the gate in getting into Powershell. Thanks.</p>

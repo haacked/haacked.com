@@ -1,0 +1,5 @@
+id: dsq-747525721
+date: 2008-07-14T11:35:08.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Steve What Sean said is exactly correct.  The route URL in the ignor routes happen to be "catch-all" routes, meaning they match everything. They are not regexes.<br>The part *after* the route URL is the Constraints dictionary used to constrain what URLs the route will match. That part does use regex by default for fine grained control over matching.</p>

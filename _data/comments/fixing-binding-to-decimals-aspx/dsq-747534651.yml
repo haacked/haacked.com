@@ -1,0 +1,5 @@
+id: dsq-747534651
+date: 2011-06-15T16:14:09.0000000-07:00
+name: Brinkie
+avatar: https://disqus.com/api/users/avatars/Brinkie.jpg
+message: <p>For me this 'kinda' solved posting decimals to and MVC ActionMethod using ajax. <br>Only thing I changed to the binder was the actual parsing of the value, because in javascript a decimal is always represented in en-US format (31.2), so:<br>actualValue = Convert.ToDecimal(valueResult.AttemptedValue, new CultureInfo("en-US"));<br>instead of:<br>actualValue = Convert.ToDecimal(valueResult.AttemptedValue, CultureInfo.CurrentCulture);<br>Please note this would introduce issues when both decimals from form fields (say form input is in the nl-NL format with a decimal comma) and you also want do some ajax posting of a decimal to an MVC ActionMethod (e.g. using $.post() jQuery function) forcing a decimal dot there!</p>

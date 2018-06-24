@@ -1,0 +1,5 @@
+id: dsq-747525673
+date: 2008-09-17T03:07:33.0000000-07:00
+name: John
+avatar: https://disqus.com/api/users/avatars/John.jpg
+message: '<p>You could also use:<br>void Application_EndRequest()<br>    {<br>        Response.Write("Time Elapsed: " + DateTime.Now.Subtract(HttpContext.Current.Timestamp).TotalMilliseconds);<br>    }</p>'

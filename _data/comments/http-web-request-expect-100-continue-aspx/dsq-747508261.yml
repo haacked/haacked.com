@@ -1,0 +1,5 @@
+id: dsq-747508261
+date: 2006-11-23T01:55:44.0000000-08:00
+name: Pavel
+avatar: https://disqus.com/api/users/avatars/Pavel.jpg
+message: <p>Very nice describtion, anyways, I've set the property (Expect100Continue) to false and I'm still getting the time out exception...<br>Could this be just because of the connection? I mean, that a simple time out occures due to the slow connection?<br>Increasing the time out property seems to help...<br>Any ideas?</p>

@@ -1,0 +1,5 @@
+id: dsq-747516154
+date: 2006-10-01T22:41:25.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: '<p>Not sure I understand? For example, the Load event is handled by: <br>void OnViewLoad(object sender, EventArgs e);<br>In that method I can handle any exceptions and update the view accordingly.</p>'

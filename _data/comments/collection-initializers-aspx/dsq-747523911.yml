@@ -1,0 +1,5 @@
+id: dsq-747523911
+date: 2008-01-06T04:36:11.0000000-08:00
+name: Sergio Pereira
+avatar: https://disqus.com/api/users/avatars/Sergio Pereira.jpg
+message: <p>Have you checked the<br><a href="http://blog.bittercoder.com/PermaLink,guid,d1831805-dbf7-4b74-a6fd-2e9ed437c3d9.aspx" rel="nofollow noopener" title="http://blog.bittercoder.com/PermaLink,guid,d1831805-dbf7-4b74-a6fd-2e9ed437c3d9.aspx">Hash trick</a> by Alex Henderson. Check the comments too.<br>Back to your question, I'd vote for a dual approach. If no type is specified, then infer from the keys and demand that they be of the same type. When the types are specified, well that requires no explanation really.<br></p>

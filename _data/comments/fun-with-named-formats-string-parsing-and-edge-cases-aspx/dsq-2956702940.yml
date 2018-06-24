@@ -1,0 +1,5 @@
+id: dsq-2956702940
+date: 2016-10-18T09:21:25.0000000-07:00
+name: Ivan Portugal
+avatar: https://disqus.com/api/users/avatars/ivanportugal.jpg
+message: "<p>Great work! I started using this but today I think it is not necessary due to an improvement in C# that probably happened after you wrote this article. Here's how you might do named parameters. Add the '$' :) Example:</p><p>var myObject = \"steak\";<br>var adjective = \"juicy\";<br>var myNamedParametersString = $\"My {myObject} is very very {adjective}\";<br>// myNamedParametersString would look like: \"My steak is very very juicy\"</p><p>This feature I believe is called \"string interpolation\":<br><a href=\"https://github.com/dotnet/roslyn/wiki/Languages-features-in-C%23-6-and-VB-14\" rel=\"nofollow noopener\" title=\"https://github.com/dotnet/roslyn/wiki/Languages-features-in-C%23-6-and-VB-14\">https://github.com/dotnet/r...</a></p>"

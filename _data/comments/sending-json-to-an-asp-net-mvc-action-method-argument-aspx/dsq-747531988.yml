@@ -1,0 +1,5 @@
+id: dsq-747531988
+date: 2010-05-11T20:37:24.0000000-07:00
+name: Richard Garside
+avatar: https://disqus.com/api/users/avatars/Richard Garside.jpg
+message: <p>Is there a similar way to send XML to an MVC action method?<br>I'm creating an API and I want the API user to be able to use either json or xml.</p>

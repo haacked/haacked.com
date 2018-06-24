@@ -1,0 +1,5 @@
+id: dsq-747532822
+date: 2010-07-30T03:22:39.0000000-07:00
+name: Terry
+avatar: https://disqus.com/api/users/avatars/Terry.jpg
+message: <p>Is it possible to mix ViewPage (aspx) and Razor (cshtml) within the same solution?  Think it is.  What about hooking Razor files up to existing master (.master) pages?  Any way/workaround to pull that off?  Or would I have to basically have a 'duplicate' of site.master (one ViewPage and one Razor layout file) if I wasn't ready to convert entire site to Razor view engine all at once?</p>

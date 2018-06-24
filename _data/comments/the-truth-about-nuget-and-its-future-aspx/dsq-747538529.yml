@@ -1,0 +1,5 @@
+id: dsq-747538529
+date: 2012-10-24T12:07:45.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Slavo: We should probably link to both. The VS plugin and the CodePlex page.<br>The official VS plugin is simply the best way to experience the product. Trying to run the OSS version is a headache. For example, now that the VS one is built into VS 2012, you'd have to uninstall it to install one you built yourself. Also, the one shipped by Microsoft works in Visual Studio Express SKUs. The open source one cannot do that.</p>"

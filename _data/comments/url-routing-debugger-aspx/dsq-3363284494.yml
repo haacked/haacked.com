@@ -1,0 +1,5 @@
+id: dsq-3363284494
+date: 2017-06-15T06:09:26.0000000-07:00
+name: Polyanskiy Daniil
+avatar: https://disqus.com/api/users/avatars/polyanskiydaniil.jpg
+message: "<p>Documentation update would be nice. Trying to get current version to work.</p><p>UPD: Did it. It requires calling RouteDebug.PreApplicationStart.Start via PreApplicationStartMethod with setting \"RouteDebugger:Enabled\" = true in Web.config's appSettings.</p>"

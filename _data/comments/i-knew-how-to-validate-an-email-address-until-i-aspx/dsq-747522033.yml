@@ -1,0 +1,5 @@
+id: dsq-747522033
+date: 2007-08-21T22:16:06.0000000-07:00
+name: Travis Illig
+avatar: https://disqus.com/api/users/avatars/tillig.jpg
+message: "<p>The comment re: the O'Reilly book is key - Mastering Regular Expressions by Jeffrey Friedl uses matching an email address as an example in chapter 7 (\"Perl Regular Expressions\") of how to craft complex regular expressions.  The Perl module that was mentioned, Mail::RFC822::Address includes the expression that is arrived at.<br>Email addresses aren't the only places you'll find out there containing ridiculous simplifications that lead to incorrect validations.<br>From a larger perspective, it also gets sort of interesting when you encounter someone from a non math/CS background who is a self-taught programmer that you try to explain regular languages to (so they understand why their regexes aren't working right).  Sometimes I feel like regular expressions are sort of a \"lost art.\"</p>"

@@ -1,0 +1,6 @@
+id: dsq-1108801790
+replyToId: dsq-1106542969
+date: 2013-11-04T13:38:03.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>&gt; copyright automatically being given to the project when you contribute</p><p>Copyright is never automatically given to the project when you contribute. That's not what I said. :)</p><p>What I said is that you are agreeing to license your code to everybody else under the terms of the project's license. Otherwise you wouldn't contribute to it.</p><p>However, under U.S. default copyright law, you still retain the copyright for that code unless you make it clear that you are assigning the copyright over to the project.</p><p>Some projects are very formal about this and would require you to sign a Contributor's license agreement. Others just ask you to send an email to them (or comment on your PR) that says you give them the copyright.</p><p>Still others are just fine with every contributor owning the copyright to their contribution. After all, the important part to them is that the contribution is licensed in such a way that everyone can use the code.</p>

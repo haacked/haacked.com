@@ -1,0 +1,5 @@
+id: dsq-747535702
+date: 2011-07-21T04:53:46.0000000-07:00
+name: Paul
+avatar: https://disqus.com/api/users/avatars/Paul.jpg
+message: '<p>Nice post. I really like the fluent validation that is in the MVC Extensions project. <a href="http://nuget.org/List/Packages/MvcExtensions" rel="nofollow noopener" title="http://nuget.org/List/Packages/MvcExtensions">http://nuget.org/List/Packages/MvcExtensions</a> Allows you to configure validation in a fluent manner while using Resource files the same way you are used to. Blog Post: <a href="http://weblogs.asp.net/rashid/archive/2010/06/14/localization-with-asp-net-mvc-modelmetadata.aspx" rel="nofollow noopener" title="http://weblogs.asp.net/rashid/archive/2010/06/14/localization-with-asp-net-mvc-modelmetadata.aspx">weblogs.asp.net/...</a><br>It would be nice to see something like this in MVC4. The MVC Extensions project also lets you register action filters to controllers and actions in a fluent manner!</p>'

@@ -1,0 +1,6 @@
+id: dsq-786864197
+replyToId: dsq-779344471
+date: 2013-02-02T11:13:11.0000000-08:00
+name: Knocte
+avatar: https://disqus.com/api/users/avatars/Knocte.jpg
+message: "<p> Just FYI: Gendarme is a good static analysis tool (like FxCop) which is open source (so you can write rules for it) and which already includes rules such as:<br>- Not disposing any IDisposable fields in the Dispose method of a class.<br>- Not disposing any IDisposable var created within a method.</p><p>And the latter, I think, is prepared to deal with cases in which you assign to a field the value of the IDisposable var, in which it doesn't complain about not disposing it (because it assumes that it's going to be used later by the class, and it should be the class the responsible one to dispose it).</p>"

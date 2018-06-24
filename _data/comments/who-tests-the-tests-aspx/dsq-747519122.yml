@@ -1,0 +1,5 @@
+id: dsq-747519122
+date: 2007-03-12T09:13:44.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>&gt; I don't think you can triangulate this kind of thing<br>Well that's the thing with all analogies. They only go so far. Still, the point of analogies is to look for the truth and ignore the noise.<br>It isn't exactly like triangulation, but it's very similar. Focus on my atomic clock example. If your unit tests fail, then you <em>know</em> something is wrong. If they both past, you have more <em>confidence</em> things are happening smoothly. But you don't <em>know</em>.<br>Also, another point I forgot to mention is that tests overlap somewhat too. For example, if you have method A that calls Method B, and you wrote unit tests for both methods, then in a manner of speaking, the test for method B sort of serves as a check for Method A. IE if method B's test fails and Method A's test doesn't you have something to double check.</p>

@@ -1,0 +1,5 @@
+id: dsq-747514670
+date: 2007-11-04T22:24:48.0000000-08:00
+name: bsgu_drew
+avatar: https://disqus.com/api/users/avatars/bsgu_drew.jpg
+message: <p>// Prototype version<br>Event.observe(window, "load", some_function);</p>

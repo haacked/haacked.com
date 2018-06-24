@@ -1,0 +1,5 @@
+id: dsq-747517670
+date: 2006-11-16T03:06:22.0000000-08:00
+name: Rick Strahl
+avatar: https://disqus.com/api/users/avatars/Rick Strahl.jpg
+message: <p>Phil, maybe a BlogProvider isn't the right point to abstract. Ultimately it should be the data layer that has to be abstracted not the business layer if you want to handle different data sources. <br>In the end it's the difference between application level and system level code. Patterns rarely make a lot of sense at the application level, but they are frequently useful at the system level.<br></p>

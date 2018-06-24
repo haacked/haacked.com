@@ -1,0 +1,6 @@
+id: dsq-806147923
+replyToId: dsq-806063366
+date: 2013-02-20T14:08:48.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hey Ben! That's pretty freaking interesting! I think the lesson there is don't do that! Sending sensitive data via a  GET in any form is asking for trouble. It requires too much trust in every browser's JavaScript implementation now and in the future.</p>

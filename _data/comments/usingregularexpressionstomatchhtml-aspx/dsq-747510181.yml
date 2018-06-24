@@ -1,0 +1,5 @@
+id: dsq-747510181
+date: 2006-06-14T15:09:00.0000000-07:00
+name: Kjeks
+avatar: https://disqus.com/api/users/avatars/Kjeks.jpg
+message: <p>Actually, &lt;!--.*?--&gt; works very well for the case you're describing.<br>The '?' in '.*?' makes the match non-greedy, meaning that as few characters as possible will be matched. This works in Perl and Python, at least. Other languages may have another syntax.<br></p>

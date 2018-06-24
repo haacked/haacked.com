@@ -1,0 +1,5 @@
+id: dsq-747522058
+date: 2007-09-03T03:31:14.0000000-07:00
+name: Stefan
+avatar: https://disqus.com/api/users/avatars/Stefan.jpg
+message: <p>I've been using a regex that basically checks for at least one non-whitespace char before the @ sign, another one after, a dot and then another two.<br>Looks like you haven't touched on the international UTF-8 symbols and accented characters that are recommended to be valid (a later RFC perhaps - I think I saw it in the IETF DRUMS 08 on SMTP)</p>

@@ -1,0 +1,5 @@
+id: dsq-747530638
+date: 2010-01-28T09:31:42.0000000-08:00
+name: Joe Future
+avatar: https://disqus.com/api/users/avatars/Joe Future.jpg
+message: <p>In my app, I have extensions that know how to render their own configuration forms.  I've been using RenderAction to call the "configure" action on each extension's controller, which renders the configuration form view.  I'd like to have the extensions' controllers handle the form submit as well and then redirect back to the "manage all extensions" admin page.  I was able to do this in MVC v1, but because of the same issue Roger Rogers mentioned above, the child controllers can't redirect now.  What should I return from the extension controller's action that handles the form submit?</p>

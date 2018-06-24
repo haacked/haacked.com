@@ -1,0 +1,5 @@
+id: dsq-747534802
+date: 2011-04-25T04:38:06.0000000-07:00
+name: Coward
+avatar: https://disqus.com/api/users/avatars/Coward.jpg
+message: <p>1. It would be nice to have a package shared across multiple projects in a single package ie. "Add Library Package Reference" at the solution level.<br>2. Nuget at the moment seems to have some network reliability issues. After doing a "Add Library Package Reference" the 2nd time if I try to "Add Library Package Reference" then I keep getting the error message<br>The package source named 'Nuget official package source [<a href="https://go.microsoft.com/fwlink/?LinkID=206669" rel="nofollow noopener" title="https://go.microsoft.com/fwlink/?LinkID=206669">https://go.microsoft.com/fwlink/?LinkID=206669</a>]' is either invalid or not available and thus is currently unreachable.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747521910
+date: 2007-08-14T12:21:54.0000000-07:00
+name: Jeff Atwood
+avatar: https://disqus.com/api/users/avatars/Jeff Atwood.jpg
+message: <p>&gt; Also, the principle works well if I replace Coral with Amazon S3. <br>Actually, it doesn't, because S3 now charges not only per megabyte but PER REQUEST. 10 resources per page, that's 10 requests.. the breakeven point is about 50 kilobytes according to one analysis I saw. Anything below that, you'll get some pretty outrageous charges on your S3 account.<br>Well, if you get a lot of pageviews.. but if you don't, none of this caching stuff matters anyhow.</p>

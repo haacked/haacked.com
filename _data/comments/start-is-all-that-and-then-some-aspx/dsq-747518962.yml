@@ -1,0 +1,5 @@
+id: dsq-747518962
+date: 2007-03-06T05:17:37.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: '<p>An even better startlet:<br><code><strong><br>Shortcut: start<br>Command: cmd<br>Arguments: /C "net start %*"</strong><br></code><br><code><strong><br>Shortcut: stop<br>Command: cmd<br>Arguments: /C "net stop %*"</strong><br></code><br>For starting and stopping services by name. That %* will be substituted with anything you type after "start" or "stop".<br>So you could start sql 2000 like so:<br><code>start mssqlserver</code></p>'

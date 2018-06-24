@@ -1,0 +1,5 @@
+id: dsq-756091885
+date: 2013-01-04T14:29:07.0000000-08:00
+name: Dark Penguin
+avatar: https://disqus.com/api/users/avatars/disqus_LLaWMhFNq3.jpg
+message: <p>ETA:  The project I'm trying to deploy was created as an empty MVC3 project.  FTR it's the SportsStore tutorial app.  So far, everything works fine if I use the internal Visual Studio web server.  I have had other MVC projects work fine in IIS, as well as some that don't, including this one.</p>

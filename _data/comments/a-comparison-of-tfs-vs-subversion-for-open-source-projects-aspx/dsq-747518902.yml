@@ -1,0 +1,5 @@
+id: dsq-747518902
+date: 2007-03-04T03:24:18.0000000-08:00
+name: Andy Stopford
+avatar: https://disqus.com/api/users/avatars/Andy Stopford.jpg
+message: <p>I'd like to address Jeff's question about patches etc. First off source code on all OSS projects is freely available to get from SVN\CVS. Nothing to hide there and everyone can take a look, fix a bug or add a feature etc. The reason why the process to submit that back needs to be a patch or file is pure QA. The project admins don't know a new commiter and (with respect to the commiter) cannot be sure of the quality of the commit or that it meets any quality standards of the project. As such new commiters build up a level of trust the more code they send in. I don't feel that this effects organic growth of write access, it's just a step to maintain quality in the code and most folks who commit code often quickly get write access.</p>

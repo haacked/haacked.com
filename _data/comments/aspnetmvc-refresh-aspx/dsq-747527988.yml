@@ -1,0 +1,5 @@
+id: dsq-747527988
+date: 2009-02-11T17:35:18.0000000-08:00
+name: Solo stay
+avatar: https://disqus.com/api/users/avatars/Solo stay.jpg
+message: <p>Hi, i just upgraded to the latest MVC RC. i am binding to datatable rows but i keep getting exceptions with the html helpers (textbox,dropdownlist) when page loading or reading dbnull values from the dataset...The beta threw no exceptions. what could be the possible thing i'm missing</p>

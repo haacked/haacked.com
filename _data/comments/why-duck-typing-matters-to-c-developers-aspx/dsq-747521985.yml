@@ -1,0 +1,5 @@
+id: dsq-747521985
+date: 2008-09-03T22:13:21.0000000-07:00
+name: Pete Hurst
+avatar: https://disqus.com/api/users/avatars/Pete Hurst.jpg
+message: <p>Nice to see some good cases for duck typing (a day or two after I had a rant on another blog, akin to "Duck typing? Sounds more like Duct Taping...")<br>Especially interesting how the foreach is actually implented in such a way.<br>I think a great number of times Reflection is used to achieve basically the same goal.<br>Unfortunately (a bit like Reflection) it's a dangerous tool unless wielded very carefully.<br>Really, if the main use case is a workaround for the initial poor architecture of .NET - and in fact the existence of "sealed" in the first which seems like the most backward keyword ever - then is this really a good thing to tout?<br></p>

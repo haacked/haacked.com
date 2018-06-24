@@ -1,0 +1,5 @@
+id: dsq-747521180
+date: 2007-07-01T17:10:06.0000000-07:00
+name: Steev
+avatar: https://disqus.com/api/users/avatars/Steev.jpg
+message: <p>Phil,<br>I've never really run into this problem, as I'd rather specifically include elements in my CSS rules than put in a generic rule and have to exclude many special cases - especially when it comes to such commonly and diversly used elements as divs.<br>In response to your comments about moving ViewState to the bottom of the page, I've posted an <a href="http://www.runat-sever.co.uk/archive/2007/03/13/Moving-ViewState-to-the-Bottom-of-the-page.aspx" rel="nofollow noopener" title="http://www.runat-sever.co.uk/archive/2007/03/13/Moving-ViewState-to-the-Bottom-of-the-page.aspx">updated Regex on my blog</a> which moves the div as well as the ViewState tag, works quite well for me so far.</p>

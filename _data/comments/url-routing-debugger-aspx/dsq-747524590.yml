@@ -1,0 +1,5 @@
+id: dsq-747524590
+date: 2012-06-19T05:26:29.0000000-07:00
+name: Rob
+avatar: https://disqus.com/api/users/avatars/Rob.jpg
+message: <p>Just tried this out in vs2012rc in <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> mvc3 project.<br>Installed from nuget in right project.<br>But RouteDebug.RouteDebugger  does not exist from the installed binary. I copied the content of RouteDebugger() from source into my own method and called that and it worked.<br>I dont know why i cant see the RouteDebugger class.<br></p>

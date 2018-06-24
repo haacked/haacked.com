@@ -1,0 +1,6 @@
+id: dsq-1118040740
+replyToId: dsq-1117973551
+date: 2013-11-11T06:19:10.0000000-08:00
+name: Alanna Muir
+avatar: https://disqus.com/api/users/avatars/alannamuir.jpg
+message: <p>In some cases, using higher level metaphors for programming can improve performance as you're utilizing the low-level preprogrammed implementation as apposed to your version that will run in CIL/LLVM/Java/etc. For example, the writer basically replaced the IF with MAX; we know in C/C++ that these are equivalent (and often IF will be faster than MAX when we only need a partial evaluation), but in C# et al, this may not be the case, as the implementation of MAX might be more optimized than your code running through the JIT compiler.</p><p>But I agree, that's beside the point. Not only does this fall into the category of micro optimization (perhaps it's not the best example), but I find the abstraction less clear than the original code. Maybe I'm used to booleans and relational operators, and have no love for LINQ and other "BASIC" and "SQL" like add-ons to C#/Java, but that MAX operator is rather buried at the end of the line. The most important aspect is at the end, and I think that's wrong. The most important aspect of this routine is to guard against a too-short list length, so that should be first and foremost. The IF clearly demonstrates this.</p>

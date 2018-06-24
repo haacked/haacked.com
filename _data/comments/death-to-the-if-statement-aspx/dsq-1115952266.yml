@@ -1,0 +1,6 @@
+id: dsq-1115952266
+replyToId: dsq-1115536083
+date: 2013-11-09T15:50:41.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>It's not quite the same. I'm thinking of the total # of ifs in a project. If I have one \"if\" per method, my cyclometric complexity will remain low, but I'll have a lot of ifs still. That's not as bad as having a bunch of methods with cyclometric complexity, but it still might indicate I need to try and be more declarative. :)</p>"

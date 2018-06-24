@@ -1,0 +1,5 @@
+id: dsq-747510794
+date: 2005-01-19T21:16:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>What version of .Text are you running?<br><br><br><br>If you're running version 0.96, Thomas Freudenberg has a nice solution here <a href="http://thomasfreudenberg.com/blog/archive/2005/01/19/486.aspx" rel="nofollow noopener" title="http://thomasfreudenberg.com/blog/archive/2005/01/19/486.aspx">http://thomasfreudenberg.com/blog/archive/2005/01/19/486.aspx</a>.<br><br><br><br>If you're running 0.95, I could try supplying you my DotText.Framework.dll binary, but that would only work if you never made any customizations and we're running the same exact version.  It would be worth a try.</p>

@@ -1,0 +1,5 @@
+id: dsq-747528505
+date: 2009-04-05T04:42:24.0000000-07:00
+name: Thomas
+avatar: https://disqus.com/api/users/avatars/Thomas.jpg
+message: <p>Phil, thanks for your engagement and thanks for the great MVC framework. My first thoughts were "hm, do we need that? no, I don't think so". That was a year ago. Now, after more than 6 months working with MVC in daily business since the Beta, I would say that MVC will be the more driven lane on the ASP.NET highway to future ;-).<br>But of course, there are some points I was annoyed to, for example the stupid simple ModelState bug I reported when RC1 was the latest release, and which has not been solved with the final release :-( (<a href="http://www.codeplex.com/aspnet/WorkItem/View.aspx?WorkItemId=3218" rel="nofollow noopener" title="http://www.codeplex.com/aspnet/WorkItem/View.aspx?WorkItemId=3218">www.codeplex.com/.../View.aspx?WorkItemId=3218</a>). A MVP colleague was just joking by saxing I should fix that by myself and contribute it ... I just smiled ;-).<br>But I see you're on a very good way. Keep on doing so!<br>Best regards from Germany,<br>Thomas</p>

@@ -1,0 +1,6 @@
+id: dsq-1114800920
+replyToId: dsq-1114708503
+date: 2013-11-08T19:18:33.0000000-08:00
+name: jbblanchet
+avatar: https://disqus.com/api/users/avatars/jbblanchet.jpg
+message: <p>"I would fail the first code [...] and say that it has to be lazy."</p><p>Why? Give me a single reason why "it has to be". It's slower, murkier code. "Lazy" here serves no purpose since the if would not create an object if it isn't needed.</p><p>By the way, I'm not advocating against the use of take or for reinventing the wheel. I'm not saying to put if everywhere either. I'm simply arguing that code should be kept simple instead of religious.</p>

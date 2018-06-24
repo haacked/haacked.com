@@ -1,0 +1,5 @@
+id: dsq-747521279
+date: 2007-12-28T21:51:22.0000000-08:00
+name: Daniel Gonzalez
+avatar: https://disqus.com/api/users/avatars/Daniel Gonzalez.jpg
+message: '<p>Hi Phil,<br>I am finding a VERY weird issue while using your code.<br>I am testing a piece of code that changes the handler once the request is simulated. But when I run my test alongside some other tests I get an Exception:<br>Test.Dgg.Utilities.Web.ClientScriptHelperTester.TryRegisterClientScriptIncludeInPage_NonPageHandler_ScriptNotRegistered : System.Web.HttpException : Invalid use of SimpleWorkerRequest constructor. Application path cannot be overridden in this context. Please use SimpleWorkerRequest constructor that does not override the application path.<br>But this exception does not show when I run my test in isolation (no other test running). It shows the same strange behavior both in NUnit runner (2.4.5) and TestDriven.Net (latest version).<br>Of course, when I change your code so that SimulateHttpRequest calls another base constructor, my tests run fine, but yours not.<br>Any clues?<br>Thanks a lot<br>Any clues?<br></p>'

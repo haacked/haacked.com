@@ -1,0 +1,5 @@
+id: dsq-747528502
+date: 2009-04-02T17:42:47.0000000-07:00
+name: '@W.Squire'
+avatar: https://disqus.com/api/users/avatars/@W.Squire.jpg
+message: <blockquote><br>It also means there will be no hard tie-ins to other MS products that might disclose IP. <br></blockquote><p><br>Why would this prohibit tie-ins? All it would need is that your tie-ins are separate assemblies with a different license, and they're to be called from within the MVC core. I think that's only a good thing, because I don't WANT to have to deploy all those nice extra features, I'll deploy that extra assembly when I need it ;-)<br>Don't forget, MVC has a lot of points where you can hook in your own implementation of the interface. Which means it won't be hard to hook one of your tie-ins to the right spot.<br>About the revenue streams... C# or .NET as such isn't making any direct money, is it? Making the .NET platform stronger is the key here, because whichever way you look at it, most .NET projects run on microsoft stacks. Which means revenue. So getting more adoption of the framework is good!</p>

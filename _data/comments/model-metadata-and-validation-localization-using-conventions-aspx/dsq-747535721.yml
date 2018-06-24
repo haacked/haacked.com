@@ -1,0 +1,5 @@
+id: dsq-747535721
+date: 2011-09-10T09:16:42.0000000-07:00
+name: Mustafa GULMEZ
+avatar: https://disqus.com/api/users/avatars/Mustafa GULMEZ.jpg
+message: <p>great post! but few questions.<br>my model like this:<br>    public class Application<br>    {<br>        public int ApplicationId { get; set; }<br>        public string ApplicationName { get; set; }<br>        public DateTime ApplicationCreateDate { get; set; }<br>        public DateTime? ApplicationEndDate { get; set; }<br>        public int ApplicationPackageId { get; set; }<br>    }<br>ApplicationCreateDate and ApplicationPackageId has not Required attribute. But client side validation says "The ApplicationPackageId field is required." how do i change this message by default? if i add Required attribute by manually i can change this message. But default??</p>

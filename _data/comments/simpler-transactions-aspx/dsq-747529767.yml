@@ -1,0 +1,5 @@
+id: dsq-747529767
+date: 2009-08-19T13:42:00.0000000-07:00
+name: Patrik H&#228;gne
+avatar: https://disqus.com/api/users/avatars/Patrik H&#228;gne.jpg
+message: <p>This is a technique I've been using for ages, coming from a functional background and it's great. I blogged about this pattern quite some time ago <a href="http://ondevelopment.blogspot.com/2008/01/template-functions.html" rel="nofollow noopener" title="http://ondevelopment.blogspot.com/2008/01/template-functions.html">ondevelopment.blogspot.com/.../...e-functions.html</a>, to me it's about composition, it's not about saving a line of code or two. The forgetting about closing the scope will be caught by your tests. Not only as Bellware says by functional tests but by unit tests as well as far as I'm concerned. <a href="http://legendtransactions.codeplex.com/" rel="nofollow noopener" title="http://legendtransactions.codeplex.com/">http://legendtransactions.codeplex.com/</a></p>

@@ -1,0 +1,5 @@
+id: dsq-747534408
+date: 2011-02-09T12:57:06.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Solmead I would create a specific route for /lmnew/contactus to redirect to the new url and put it *before* the default route.</p>

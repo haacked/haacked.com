@@ -1,0 +1,5 @@
+id: dsq-1556772567
+date: 2014-08-24T03:43:00.0000000-07:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>Myth:this blogpost dispells myths about NuGet</p><p>You need to think about a way to add subcommands to a project, and package that in a NuGet package, that is NOT dependent on Visual Studio to run init.ps1, and not dependent on PowerShell period.</p><p>I think *.ps1 thing that was added over time to NuGet should be migrated to scanning a .dll in a special package-internal folder (maybe /env) for interface-implementing classes, like IInstallCommand and IPackageCommand etc. Only then can we truly believe that NuGet is not tied to PowerShell, and hence not a Windows-only package manager.</p>

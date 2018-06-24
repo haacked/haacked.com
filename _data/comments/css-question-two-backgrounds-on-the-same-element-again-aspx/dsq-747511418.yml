@@ -1,0 +1,5 @@
+id: dsq-747511418
+date: 2008-03-18T19:57:27.0000000-07:00
+name: Christina
+avatar: https://disqus.com/api/users/avatars/Christina.jpg
+message: <p>To do what you're wanting you don't have to use css, or nested divs or anything... while this won't work in every situation... for the fades on either side of your body it works fine....<br>Do a background image like this one:<br><a href="http://zencart-demo-store2.littleolemedesigns.net/includes/templates/ZoeNorman_custom/images/wrapper_bg.jpg" rel="nofollow noopener" title="http://zencart-demo-store2.littleolemedesigns.net/includes/templates/ZoeNorman_custom/images/wrapper_bg.jpg">http://zencart-demo-store2....</a><br>and set it to repeat-y in the css...<br>Hope this helps!</p>

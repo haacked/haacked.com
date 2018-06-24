@@ -1,0 +1,5 @@
+id: dsq-747509848
+date: 2005-04-15T00:13:00.0000000-07:00
+name: T Mercer
+avatar: https://disqus.com/api/users/avatars/T Mercer.jpg
+message: <p>What you say is true, however, if you have to integrate with an existing application that is written in a different language classic ASP or PHP or whatever ... guess what ... Server.Transfer does not work!  You cannot mix application you will get an Error in child process.<br><br><br><br>Still working on this issue.</p>

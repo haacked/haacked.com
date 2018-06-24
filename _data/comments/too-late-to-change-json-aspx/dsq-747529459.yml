@@ -1,0 +1,5 @@
+id: dsq-747529459
+date: 2010-01-06T02:31:07.0000000-08:00
+name: Ryan
+avatar: https://disqus.com/api/users/avatars/Ryan.jpg
+message: "<p>@Douglas: Don't you have to trust the browser at some point? Even if the server doesn't release data unless a secret was posted, you still have to send the secret to the page. How can you deliver the secret in a way that is more secure than just sending the confidential data in a JSON object?</p>"

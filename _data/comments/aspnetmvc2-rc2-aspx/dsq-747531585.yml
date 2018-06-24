@@ -1,0 +1,5 @@
+id: dsq-747531585
+date: 2010-02-16T15:27:29.0000000-08:00
+name: santhosh
+avatar: https://disqus.com/api/users/avatars/santhosh.jpg
+message: <p><br>I have seen in RC 2 release notes says <br>"The new UrlParameter type allows default values in routes to be removed after URL routing runs."<br>But I still get the route values in the path.<br>Here what i get:<br> &lt;% using (Ajax.BeginForm("Partial", new { id = "test" }, new AjaxOptions() { UpdateTargetId = "PartialView" }))<br>       { %&gt;<br>    &lt;button type="submit"&gt;<br>        Submit&lt;/button&gt;<br>&lt;%} %&gt;<br>Output of the Ajax URL is:<br>/Home/Partial/test<br>Where the Route Values also included in the Ajax Path.<br>Is this default behavior or defect...?<br>Thanks,<br>Santhosh<br></p>

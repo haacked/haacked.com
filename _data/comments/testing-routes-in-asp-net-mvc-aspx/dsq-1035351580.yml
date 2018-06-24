@@ -1,0 +1,6 @@
+id: dsq-1035351580
+replyToId: dsq-747523827
+date: 2013-09-09T06:13:13.0000000-07:00
+name: HojjatK
+avatar: https://disqus.com/api/users/avatars/HojjatK.jpg
+message: <p>Awesome, this fixed my unit testing issue:) <br>I was registering area routes after MVCApplication.RegisterRoutes and Area's route was not working,</p><p>I figured out the order of registration is important and I don't know why!</p>

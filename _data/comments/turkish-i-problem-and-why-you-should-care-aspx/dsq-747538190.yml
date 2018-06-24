@@ -1,0 +1,5 @@
+id: dsq-747538190
+date: 2012-07-06T12:30:55.0000000-07:00
+name: Alexander Nyquist
+avatar: https://disqus.com/api/users/avatars/Alexander Nyquist.jpg
+message: "<p>Hmm, previous comment was marked as spam.<br>This is actually an important problem which can cause many un-obvious side effects. For instance, see this entry on PHPs bug tracker: <a href=\"https://bugs.php.net/bug.php?id=18556\" rel=\"nofollow noopener\" title=\"https://bugs.php.net/bug.php?id=18556\">https://bugs.php.net/bug.php?id=18556</a>. It will essentially break your whole codebase if you set the locale to tr_TR.<br>It's quite hard to find problems like this so raising the awareness of it is great.</p>"

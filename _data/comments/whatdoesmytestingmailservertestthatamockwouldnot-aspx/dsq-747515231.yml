@@ -1,0 +1,5 @@
+id: dsq-747515231
+date: 2006-05-31T23:55:00.0000000-07:00
+name: Greg Young
+avatar: https://disqus.com/api/users/avatars/Greg Young.jpg
+message: <p>I agree with 2, but this is a very slippery slope.<br>With 1, I would still pass a MIME encapsulation of some type (be it my own or another). You have already defined the contract as being an email (and are passing multiple email related fields its only a matter of time until these items balloon to need more fields (like attachments or headers)) <br>By implementing it by passing the a mime abstraction it allows you to have a single email sender for all cases.<br>As you have said, it is only at times that you need to worry about the header ... so the provider is probably not the right place to put it.<br>You could then have a message validation strategy (or as I would prefer to call it a specification) objects. This would be much easier to test and could be shared accross multiple providers if they needed the same validation.<br></p>

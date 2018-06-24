@@ -1,0 +1,5 @@
+id: dsq-747535673
+date: 2011-10-21T04:45:31.0000000-07:00
+name: Zaia Youkhanna
+avatar: https://disqus.com/api/users/avatars/Zaia Youkhanna.jpg
+message: <p>Phil, thanks for mvc4 mobile presentation. <br>Razor enhancements:<br>It would be convenient to declaratively add jQuery-Mobile attributes (data-theme, data-icon, and others) and HTML 5 attributes to razor statements (@HTML.TextBoxFor, @Html.CheckBoxFor and others), for example @Html.TextBoxFor(m =&gt; m.UserName, @{ data-theme=”e”, data-icon= "home"})<br>Knockout - Single page application:<br>While it is a neat idea it is not a standard.  Standardize it with JQuery-Mobile and let the world not just us Microsoft developers contribute to this neat implementation.<br>MVC4 Restful:<br>[HttpPut] and [HttpDelete]<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747536250
+date: 2011-10-04T15:36:24.0000000-07:00
+name: Andy McGoldrick
+avatar: https://disqus.com/api/users/avatars/Andy McGoldrick.jpg
+message: <p>Great post.<br>Do you need to create a HTTP module for this?  <br>As your MVC application implements System.Web.HttpApplication you could wire all this up on the application_start and add the event handlers for the events required in the application class.<br>This might not be as tidy or reusable but for a single web app its probably less scary for folk who want to avoid HTTP Handlers.</p>

@@ -1,0 +1,5 @@
+id: dsq-747531573
+date: 2010-02-06T03:35:08.0000000-08:00
+name: Fisher
+avatar: https://disqus.com/api/users/avatars/Fisher.jpg
+message: "<p>Thanks for answers!<br>Just got vsdoc for 1.4.1 from vs2008 new mvc project.<br>One problem. It seems it doesn't work in my VS2010. before 1.4.1. vsdoc for 1.3.2 works fine. I just updated them. and intellisense only shows function parameter without any description.<br>I also tried in a new mvc project on vs2008. and got error below:<br>Warning1Error updating JScript IntelliSense: D:\\Documents\\Visual Studio 2008\\Projects\\MvcApplication3\\MvcApplication3\\Scripts\\jquery-1.4.1-vsdoc.js: Object doesn't support this property or method @ 1108:1D:\\Documents\\Visual Studio 2008\\Projects\\MvcApplication3\\MvcApplication3\\Scripts\\JScript2.js11MvcApplication3</p>"

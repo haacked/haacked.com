@@ -1,0 +1,5 @@
+id: dsq-747534519
+date: 2011-03-04T09:32:04.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Kouroush Looks like you mispelled it. It should be <code>CustomWebViewPage</code> not <code>CustomWebVeiwPage</code>.<br>@Nathan, I'm not sure.<br>@Allan, the class is created and compiled very early in the pipeline once. The execute method is called much later.<br>@Refocus Yes, you can. Takes a bit of work though.<br>@Thanigainathan It's only a perf hit on the first request. After that, it's very fast because it's all compiled.</p>

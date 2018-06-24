@@ -1,0 +1,5 @@
+id: dsq-747525528
+date: 2008-06-18T09:48:40.0000000-07:00
+name: Steven Burman
+avatar: https://disqus.com/api/users/avatars/Steven Burman.jpg
+message: <p>I think implementing a container would have been less effort... and more readable ;)<br>But I guess this does separate you from an external dependency which is generally a good thing, where possible.</p>

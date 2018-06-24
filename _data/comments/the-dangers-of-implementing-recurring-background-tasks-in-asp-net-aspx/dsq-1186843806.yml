@@ -1,0 +1,6 @@
+id: dsq-1186843806
+replyToId: dsq-1185603077
+date: 2014-01-04T10:10:03.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I did not. I simply make sure background tasks don't throw exceptions by wrapping them in a try/catch and terminating the thread gracefully in the catch.</p>

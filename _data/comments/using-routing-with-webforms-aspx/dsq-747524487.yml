@@ -1,0 +1,5 @@
+id: dsq-747524487
+date: 2012-03-30T11:23:59.0000000-07:00
+name: Tina
+avatar: https://disqus.com/api/users/avatars/Tina.jpg
+message: <p>This seems to perform a 302 redirect.  Is there any way to explicitly set it to be a 301?</p>

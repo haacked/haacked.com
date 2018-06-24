@@ -1,0 +1,5 @@
+id: dsq-747528749
+date: 2010-11-02T12:16:06.0000000-07:00
+name: nahid
+avatar: https://disqus.com/api/users/avatars/nahid.jpg
+message: <p>I am using mvc2.Also included Return Json(jsonData, JsonRequestBehavior.AllowGet) in my code.It works fine when i published in a local machine or another server.but when i deployed another server it is (same code with changed url) not returning json data.Firebug says it is calling my action but returning 0 rows.<br>is it the problem with that specific server(IIS 7)...or firewall??? ....Please help.</p>

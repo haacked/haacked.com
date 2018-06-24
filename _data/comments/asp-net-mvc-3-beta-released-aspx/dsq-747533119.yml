@@ -1,0 +1,5 @@
+id: dsq-747533119
+date: 2010-10-06T22:21:32.0000000-07:00
+name: Danny Fafach
+avatar: https://disqus.com/api/users/avatars/Danny Fafach.jpg
+message: <p>Two thought:<br>1. In the Application_PostAuthenticateRequest() method of my Global.asax.cs file I am referencing Context.User.Identity. This install caused this identity to come back as null every time I hit a page. However, Sean's post about adding &lt;add key="autoFormsAuthentication" value="false" /&gt; to my Views\Web.config file fixed the problem. Thanks Sean/Scott!<br>2. I am getting the following runtime error on a @using directive on the top of a cshtml file:<br>    System.Web.HttpParseException was unhandled by user code Message=Expected ";"<br>If I add a semicolon to the @using directive the error goes away, but then I get a ";" on my page. Adding &lt;!-- @using namespace; --&gt; doesn't hide the semicolon either :( Any suggestions?<br>Thanks,<br>Danny</p>

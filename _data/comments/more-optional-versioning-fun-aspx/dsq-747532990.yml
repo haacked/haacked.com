@@ -1,0 +1,5 @@
+id: dsq-747532990
+date: 2010-09-13T18:58:17.0000000-07:00
+name: Alfred
+avatar: https://disqus.com/api/users/avatars/Alfred.jpg
+message: <p>From this post and your previous post, it appears that 2 design flaws are identified:<br>A) no compiler warning of conflicts between overloads and optional parameters (unlike VB)<br>B) optional parameters are compiled to and persisted with the callers; not adapter pattern.<br>Until enforcement can be built into the compiler, would you support the follow rules?<br>1) not to mix overloaded methods with methods that use optional parameters, use only one or the other. (workaround for flaw A)<br>2) if methods do use optional parameters, the caller must use named parameters in conjunction. (workaround for bug A)<br>3) don't use optional parameters in public or protected methods; only allow use for private or internal. (workaround for flaw B)</p>

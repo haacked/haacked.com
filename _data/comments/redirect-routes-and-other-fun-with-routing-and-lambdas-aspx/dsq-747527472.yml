@@ -1,0 +1,5 @@
+id: dsq-747527472
+date: 2008-12-15T22:50:42.0000000-08:00
+name: Bryan Watts
+avatar: https://disqus.com/api/users/avatars/Bryan Watts.jpg
+message: <p>I like DelegateRouteHandler, but I immediately assumed it would be used like this:<br>new DelegateRouteHandler(context =&gt; ...interesting things...);<br>This allows the dynamic bit of logic to be specified, instead of having to override an abstract method (and create a class in the process).<br>Deriving and passing in a function in the constructor seems like another way to say "abstract method", except you don't get the compiler-enforced existence of an implementation :-)</p>

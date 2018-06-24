@@ -1,0 +1,5 @@
+id: dsq-747530945
+date: 2009-12-15T09:23:21.0000000-08:00
+name: Pita.O
+avatar: https://disqus.com/api/users/avatars/Pita.O.jpg
+message: '<p>Hey Phil:<br>Nice piece. <br>Just found a bug, though:<br>br works when you use only the non-xhtml version or the html version with separating white-space (because of the residue of plain br, really); however &lt;br/&gt; (ie: xhtml br without spaces) does not work</p>'

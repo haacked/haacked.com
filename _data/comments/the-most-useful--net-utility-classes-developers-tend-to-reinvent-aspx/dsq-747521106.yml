@@ -1,0 +1,5 @@
+id: dsq-747521106
+date: 2007-06-17T12:59:53.0000000-07:00
+name: wwfDev
+avatar: https://disqus.com/api/users/avatars/wwfDev.jpg
+message: "<p>@Kyralessa: I totally agree - Path.Combine has way too much surprises up it's sleeve to be solid and clear about it's output. My advice - write your own library for this, document it well, throw in some samples (who knows, you may use it again...) and use it!<br></p>"

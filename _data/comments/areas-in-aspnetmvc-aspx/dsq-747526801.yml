@@ -1,0 +1,5 @@
+id: dsq-747526801
+date: 2008-12-05T02:27:51.0000000-08:00
+name: Dave
+avatar: https://disqus.com/api/users/avatars/Dave.jpg
+message: <p>Is there a reason that the Views namespace is like this:<br>namespace AreasDemo.Views.Forums.Home<br>But the controllers is like this:<br>namespace AreasDemo.Areas.Forums.Controllers<br>Shouldn't the views namespace be like this:<br>namespace AreasDemo.Areas.Forums.Views.Home<br></p>

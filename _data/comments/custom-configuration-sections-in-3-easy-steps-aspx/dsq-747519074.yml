@@ -1,0 +1,5 @@
+id: dsq-747519074
+date: 2007-03-12T00:26:45.0000000-07:00
+name: Rob Conery
+avatar: https://disqus.com/api/users/avatars/Rob Conery.jpg
+message: <p>You can also manipulate these settings from code, which provides a nice way for users to admin the config without editing yucky XML. <br>So given your example, you could do this:<br></p><blockquote><br>        // Get the current configuration file.<br>        System.Configuration.Configuration config = WebConfigurationManager.OpenWebConfiguration(Request.ApplicationPath);<br>        BlogSettings section = (BlogSettings )config.GetSection("BlogSettings ");<br>section.FrontPagePostCount=1000000;<br>config.Save();<br></blockquote><p><br>We do just this for the CSK for the PayPal settings section and it's really a nice way to go.</p>

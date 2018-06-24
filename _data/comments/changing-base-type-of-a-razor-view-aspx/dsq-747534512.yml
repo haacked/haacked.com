@@ -1,0 +1,5 @@
+id: dsq-747534512
+date: 2011-02-22T01:01:24.0000000-08:00
+name: Allan Ferreira
+avatar: https://disqus.com/api/users/avatars/Allan Ferreira.jpg
+message: <p>Great article! Any insights about how the Execute method works? I mean, when in the pipeline does the class gets created (inheriting from the class defined in the web.config) and when does the method Execute itself created/called?</p>

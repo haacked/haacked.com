@@ -1,0 +1,5 @@
+id: dsq-747511158
+date: 2006-11-14T23:33:42.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: '<p>The first is an assembly level Attribute declaration. I think the syntax is like this:<br>&lt;Assembly: log4net.Config.XmlConfigurator(<br>ConfigFile="Log4Net.config",Watch=true )&gt;<br>Just look up "Attributes" and VB.NET.<br>The second is probably something like:<br>Private Shared ReadOnly Log As ILog = LogManager.GetLogger(<br>MethodBase.GetCurrentMethod().DeclaringType)<br>Hope that helps.</p>'

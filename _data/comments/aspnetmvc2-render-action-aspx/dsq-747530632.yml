@@ -1,0 +1,5 @@
+id: dsq-747530632
+date: 2009-12-30T23:07:45.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>If JavaScript is turned off, then the form is fully posted to the login action and redirected back to the URL you were on. I believe this is how other MVC frameworks do it because they don't have the equivalent of RenderAction AFAIK.</p>

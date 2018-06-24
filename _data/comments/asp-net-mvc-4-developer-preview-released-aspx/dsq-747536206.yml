@@ -1,0 +1,5 @@
+id: dsq-747536206
+date: 2012-01-21T11:54:29.0000000-08:00
+name: Tadeusz
+avatar: https://disqus.com/api/users/avatars/Tadeusz.jpg
+message: '<p>What about native integrating knockout.js and partial views, (something like generating unobtrusive client validations from existing server site validations)?  Example: by using the return PartialView("_ViewName", ViewModel) first time, we’ll send view model json data and unobtrusive knockout code generated from the partial view, but any subsequent usage will send only  new json data and only the name of the partial view.  In most my scenarios,  it saves bandwidth and server resources.  The most important, it allows strongly typed html helpers in such partial views, so we remove many error sources just by simple compilation.  We save a lot of time during testing modifications in applications, also less TDD tests will be necessary to cover all important behaviors (comparing to classic manual typeless client solutions). We will be more productive and develop better applications.</p>'

@@ -1,0 +1,5 @@
+id: dsq-747511186
+date: 2009-01-12T14:58:20.0000000-08:00
+name: sandy
+avatar: https://disqus.com/api/users/avatars/sandy.jpg
+message: '<p>hello,<br>     i wanted to know whether log4net supports logging in the database apart from the specified columns like message,logdate,loglevel,thread,logger. <br>ex: i want to add a extra column as userID . is it possible ? and if yes how to do it.<br>please let me know.<br>thanks.</p>'

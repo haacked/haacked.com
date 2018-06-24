@@ -1,0 +1,5 @@
+id: dsq-747535297
+date: 2011-05-25T17:42:01.0000000-07:00
+name: Justin
+avatar: https://disqus.com/api/users/avatars/Justin.jpg
+message: <p>Thanks for the tips Phil. I have to do this regularly for components that are not installed with y provider. It also insulates the application against upgrades to the server allowing me to upgrade an application when I want to not when my provider updates a library and forgets to tell everyone.</p>

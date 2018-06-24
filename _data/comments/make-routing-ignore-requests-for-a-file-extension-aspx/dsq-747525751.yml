@@ -1,0 +1,5 @@
+id: dsq-747525751
+date: 2011-09-12T12:26:58.0000000-07:00
+name: abhi
+avatar: https://disqus.com/api/users/avatars/abhi.jpg
+message: <p>how do we give link for a web-form(report) in a mvc2 page as link; which is located in folder called Reports in Views folder. when i try to give a link for that page in Report, I finding it hard since the request is by default going to the controller. I tried to use href and actionlink but i guess I am missing something.</p>

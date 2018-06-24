@@ -1,0 +1,6 @@
+id: dsq-2412908903
+replyToId: dsq-2412853112
+date: 2015-12-16T10:31:58.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I actually think it does help readibility. I find that I unconsciously get stuck at things that don't look right to me. So `keyword.MethodCall` causes a tiny bit of extra processing in my brain. Your mileage may vary.</p>

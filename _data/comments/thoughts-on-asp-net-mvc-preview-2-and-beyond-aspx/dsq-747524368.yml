@@ -1,0 +1,5 @@
+id: dsq-747524368
+date: 2008-03-12T06:24:08.0000000-07:00
+name: David
+avatar: https://disqus.com/api/users/avatars/David.jpg
+message: "<p>As a custom web app builder I'd be wanting an RTM.<br>I've been torn between ASP.NET MVC and Monorail.  I'm desperate to move away from WebForms for my next project for a host of reasons, but as will most projects the timescale available will be tight.<br>This means moving to a new framework creates two extra risks: (i) how long it's going to take me to become fluent in the new framework, and (ii) what gaps/bugs/limitations I come across in new framework.<br>So the big influencers for me will probably be:<br>1) Source code availability (which makes it faster to learn, and means I can fix bugs or gaps in the framework), and <br>2) a version 1.0, which to most customers means bugs in the framework are MS's fault rather than may fault.<br></p>"

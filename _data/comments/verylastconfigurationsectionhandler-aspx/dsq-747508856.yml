@@ -1,0 +1,5 @@
+id: dsq-747508856
+date: 2005-06-10T00:31:00.0000000-07:00
+name: Ashish
+avatar: https://disqus.com/api/users/avatars/Ashish.jpg
+message: <p>You guys made me curious. So when the new values from the config file are loaded, what happens to the in-memory cached state? <br><br><br><br>I know if you just restart the .net application, that state is lost. Is there a way to retain the values?<br><br><br><br>Let me know.</p>

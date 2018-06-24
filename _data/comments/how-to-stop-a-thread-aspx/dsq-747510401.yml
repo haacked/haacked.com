@@ -1,0 +1,5 @@
+id: dsq-747510401
+date: 2009-03-03T00:07:02.0000000-08:00
+name: Brian
+avatar: https://disqus.com/api/users/avatars/Brian.jpg
+message: <p>This seems to be out of date as far as finally blocks are concerned ...<br><br>MSDN states ...<br>When a thread calls Abort on itself, the effect is similar to throwing an exception; the ThreadAbortException happens immediately, and the result is predictable. However, if one thread calls Abort on another thread, the abort interrupts whatever code is running. There is also a chance that a static constructor could be aborted. In rare cases, this might prevent instances of that class from being created in that application domain. In the .NET Framework versions 1.0 and 1.1, there is a chance the thread could abort while a finally block is running, in which case the finally block is aborted. <br><a href="http://msdn.microsoft.com/en-us/library/ty8d3wta.aspx" rel="nofollow noopener" title="http://msdn.microsoft.com/en-us/library/ty8d3wta.aspx">msdn.microsoft.com/en-us/library/ty8d3wta.aspx</a></p>

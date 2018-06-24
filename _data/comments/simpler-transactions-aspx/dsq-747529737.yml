@@ -1,0 +1,5 @@
+id: dsq-747529737
+date: 2009-08-19T01:03:00.0000000-07:00
+name: David Mohundro
+avatar: https://disqus.com/api/users/avatars/David Mohundro.jpg
+message: <p>I saw this technique used the first time by Venkat Subramanium at <a href="http://www.agiledeveloper.com/blog/PermaLink.aspx?guid=d0b63ad1-1cf5-4bab-8adc-d7d03b83529e" rel="nofollow noopener" title="http://www.agiledeveloper.com/blog/PermaLink.aspx?guid=d0b63ad1-1cf5-4bab-8adc-d7d03b83529e">www.agiledeveloper.com/.../PermaLink.aspx</a>. His code wasn't wrapping transactions, just IDisposable. Still, a nice technique that functional programming can provide.</p>

@@ -1,0 +1,5 @@
+id: dsq-747529769
+date: 2009-08-19T14:27:00.0000000-07:00
+name: Harry M
+avatar: https://disqus.com/api/users/avatars/Harry M.jpg
+message: <p>Reminds me of my "Try catch in a single line of code" post, which wasn't a great idea in retrospect, evn if people liked it. <a href="http://www.adverseconditionals.com/2008/06/try-catching-in-single-line-of-code.html" rel="nofollow noopener" title="http://www.adverseconditionals.com/2008/06/try-catching-in-single-line-of-code.html">www.adverseconditionals.com/.../...ne-of-code.html</a><br>The syntax already seems easy enough to use with TransactionScope. If your policy is to use this instead of TransactionScope, you now have a maintenance issue of making sure all your code can access. it. Another one for the .Commons library?</p>

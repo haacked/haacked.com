@@ -1,0 +1,5 @@
+id: dsq-747525597
+date: 2008-06-25T05:38:47.0000000-07:00
+name: Lance Fisher
+avatar: https://disqus.com/api/users/avatars/Lance Fisher.jpg
+message: <p>I think it makes sense to put all static content in the content directory or on a different domain, and not in the Views directory.  I didn't even realize you could put it there.  If you blocked the views directory by default, I think it would help out the problem with showing empty Views during a debug.  You know, F5, then you get an ASP.NET error because you're looking at a view page directly and not hitting the routing engine.  <br>Go with the convention of putting static content in the content folder, and if the developer wants to change it to the views folder, he can modify the web.config.  If he's using a different view engine, the new view engine should help him out with the configuration, or utilize the same convention.</p>

@@ -1,0 +1,5 @@
+id: dsq-747534381
+date: 2011-12-11T20:42:11.0000000-08:00
+name: Andrea
+avatar: https://disqus.com/api/users/avatars/Andrea.jpg
+message: <p>Hello.<br>How can I use RouteDebugger to get infos about a 404 error page?<br>It looks like my routing map is not properly configured, but I can't find where is the issue.<br>Can Route Debugger intercept a 404 error and shows some data?</p>

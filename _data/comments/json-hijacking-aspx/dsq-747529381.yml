@@ -1,0 +1,5 @@
+id: dsq-747529381
+date: 2009-07-01T03:25:00.0000000-07:00
+name: Burcu Dogan
+avatar: https://disqus.com/api/users/avatars/Burcu Dogan.jpg
+message: <p>Unfortunately a referrer check is not solving the problem since we cached the data once on the client. Once you let it to be cached it, it's not safe anymore. Re-authentication may work, but it is only possible on POST and POST's itself kills this headache. It'd absurd to create another subsystem to handle to do the rechecking. This sounds more like a problem of HTTP, rather than abused usage of cached material. Making JSON requests via POST by default is purely forcing the main design, so the decision should be left to developer such as trivial problems like SQL injections checks on other platforms.</p>

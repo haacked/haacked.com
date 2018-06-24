@@ -1,0 +1,5 @@
+id: dsq-747538380
+date: 2012-09-29T22:32:52.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Just to clarify, I only use these types on view models. I usually have an <code>IsValid</code> property on these types. All my API methods accept a strict type such as <code>Uri</code>. So if the value is valid, I just cast it to the strict type before passing it into the API.</p>

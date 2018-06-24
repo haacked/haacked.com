@@ -1,0 +1,5 @@
+id: dsq-2206870972
+date: 2015-08-21T07:32:29.0000000-07:00
+name: Rafeh Qazi
+avatar: https://disqus.com/api/users/avatars/rafeh01.jpg
+message: "<p>alias pushit='git add . &amp;&amp; echo \"Please enter github commit message: \" &amp;&amp; read input_variable &amp;&amp; git commit -m \"$input_variable\" &amp;&amp; git push'</p><p>This lets you add everything, commit it, and push it all at once. One neat thing about this is that it let's you input your own commit message without you going through any hassle!</p>"

@@ -1,0 +1,5 @@
+id: dsq-1704112691
+date: 2014-11-20T14:20:13.0000000-08:00
+name: xpaulbettsx
+avatar: https://disqus.com/api/users/avatars/xpaulbettsx.jpg
+message: <p>Hah! MTA objects are as if you wrapped every method in a class with "Dispatcher.Invoke(theRealObject.ThatMethod())" - calls are automatically sent to the correct thread, then the result is returned to the caller. At first, it seems like that'd be super convenient, but it's cruise-control for deadlocks and threading issues.</p>

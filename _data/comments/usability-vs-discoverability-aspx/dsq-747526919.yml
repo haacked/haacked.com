@@ -1,0 +1,5 @@
+id: dsq-747526919
+date: 2008-11-06T22:52:00.0000000-08:00
+name: glompix
+avatar: https://disqus.com/api/users/avatars/glompix.jpg
+message: <p>I think the implementation as-is is absolutely perfect.  It's terse and understandable.  You can just look at a route and understand "oh, this state/province parameter only accepts 2 letters."<br>I've built three MVC apps so far, (2 of them in production, one still in early development) and have maybe had to use 2 or 3 constraints, tops.  Even then, I think Hanselman's videos explained all of this a long, long time ago.  It seemed completely intuitive to me, given that anonymous objects are used to define default values as well.<br>Great job on this routing stuff, Haack.  The only qualm I have really is with IIS6, but that really has nothing to do with MVC itself.</p>

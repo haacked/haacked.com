@@ -1,0 +1,5 @@
+id: dsq-747529913
+date: 2009-09-01T00:37:00.0000000-07:00
+name: Sean Scally
+avatar: https://disqus.com/api/users/avatars/Sean Scally.jpg
+message: <p>Is it still true that anything declared as dynamic doesn't play nice with LINQ? The c# 4.0 spec seemed to indicate this, and I don't know if it's still true, but it somewhat limits the use of dynamic. <br>The reason you pick a particular tool for a particular job is that it is well suited for it. The syntax for some operations is just cleaner and more readable in one language than in others -- that is why some people prefer different languages for jobs that require those operations. <br>As Phil mentioned earlier in his post, it's widely considered a bad practice to take any particular golden hammer and see every problem as a nail. Isn't C# going this same route, then? Why not pick the right tool for the right job instead? I mean, I could work on my car with a Swiss Army Knife rather than a toolbox, but I think if I spent any non-trivial amount of time on such a task I'd be wanting more than just one tool. :)<br></p>

@@ -1,0 +1,5 @@
+id: dsq-808208846
+date: 2013-02-22T02:39:51.0000000-08:00
+name: Jason
+avatar: https://disqus.com/api/users/avatars/Jason.jpg
+message: <p>I would say both are needed so you can cause the whole page to cache except a certain section.  and the default is nocache on all </p>

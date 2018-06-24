@@ -1,0 +1,5 @@
+id: dsq-747524792
+date: 2008-04-09T14:28:14.0000000-07:00
+name: Ritchie Swann
+avatar: https://disqus.com/api/users/avatars/Ritchie Swann.jpg
+message: <p>I always put the tests in a separate assembly. My coding conventions dictate this will always be the name of the assembly it's testing with an addition "Test" wart. <br>At post-build time, it's then easy to not ship the unit test assemblies - simply don't publish anything that doesn't end in ".Test.dll".<br>"It would be nice if the CLR or C# provided a way complete expose private and protected classes and methods to a testing assembly."<br>You can do this using reflection, by using the GetMethod() method on a type, passing in the NonPublic flag. Google for "GetMethod method". I've got some sample code that does this if you want it.</p>

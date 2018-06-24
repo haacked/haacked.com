@@ -1,0 +1,5 @@
+id: dsq-747524515
+date: 2008-09-12T10:06:18.0000000-07:00
+name: Darryl
+avatar: https://disqus.com/api/users/avatars/Darryl.jpg
+message: <p>It still seems broken with Preview 5. It complains that DebugHttpHandler needs to be derived from MvcHandler. <br>I don't know enough about MVC internals right now to fix it up. Making DebugHttpHandler derive from MvcHandler was not enough, now I don't get a crash but I also don't get any route tracing.  <br>Or maybe I am doing something else incorrectly.</p>

@@ -1,0 +1,5 @@
+id: dsq-747521851
+date: 2007-08-03T22:34:44.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>It seemed to me that IE.ContainsText was finding the text every time because it found it in the original document.write statement. For example, with something like this:<br>&lt;script type="text/javascript"&gt;<br>  if(false) document.write('blah blah');<br>&lt;/script&gt;<br>It appeared I was getting true for IE.ContainsText. When I get a chance, I'll try out that scenario again to double check.</p>

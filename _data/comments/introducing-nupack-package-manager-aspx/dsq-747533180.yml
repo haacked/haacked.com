@@ -1,0 +1,5 @@
+id: dsq-747533180
+date: 2010-10-07T00:40:37.0000000-07:00
+name: Robert Standefer
+avatar: https://disqus.com/api/users/avatars/outintospace.jpg
+message: <p>In all the demos and videos, the person is installing elmah, but elmah isn't listed as an available package when I run NuPack. It also doesn't install from the command line (I get an error that says elmah can't be found).<br>What gives?</p>

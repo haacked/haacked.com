@@ -1,0 +1,5 @@
+id: dsq-747535830
+date: 2012-07-04T17:02:40.0000000-07:00
+name: Madan
+avatar: https://disqus.com/api/users/avatars/Madan.jpg
+message: <p>Hi,<br>I was trying to understand how the update the the DB would work with a view model. The text in Chapter 4 on the Edit view talks about the "essence" of the edit view and associated code. I was wondering if there could be a package available to show how that update would work. Is there a complete solution code available anywhere?</p>

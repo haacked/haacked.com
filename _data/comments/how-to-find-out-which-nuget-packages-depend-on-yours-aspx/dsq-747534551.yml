@@ -1,0 +1,5 @@
+id: dsq-747534551
+date: 2011-02-23T23:10:44.0000000-08:00
+name: Zhila
+avatar: https://disqus.com/api/users/avatars/Zhila.jpg
+message: <p>You could implement something similar to APT, where, in addition to listing dependencies, it can list conflicting packages and provided packages, e.g. package Mvc2Futures provides MicrosoftWebMvc, allowing packages that depend on MicrosoftWebMvc to actually depend on Mvc2Futures. This would also allow different packages which provide near equal functionality to all provide the same dependency, allowing a person to choose his favorite one (with said project also depending on a default package to limit requiring choice), and conflict system will prevent different packages with known incompatibilities from installing side by side. But, maybe in the end, this is just too much overkill.</p>

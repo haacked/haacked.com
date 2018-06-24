@@ -1,0 +1,5 @@
+id: dsq-747524108
+date: 2008-02-06T05:20:54.0000000-08:00
+name: Vijay Santhanam
+avatar: https://disqus.com/api/users/avatars/Vijay Santhanam.jpg
+message: <p>Howdy Phil, <br>Like Daniel, I'm having trouble mocking the System.Data.Linq.DataContext and all the LINQ-to-SQL ORM classes I've created.  <br>I wish there was an easy way to mock or set up a low-footprint in-assembly database that doesn't require installing a new SQL server instance. <br>Maybe embedding the desktop engine into the test assembly will work. Does that support LINQ ORM?<br>I don't think this testing scenario is easy enough, or at least I don't know a good solution yet.<br><br></p>

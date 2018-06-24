@@ -1,0 +1,5 @@
+id: dsq-747529762
+date: 2009-08-19T12:01:00.0000000-07:00
+name: Oskar
+avatar: https://disqus.com/api/users/avatars/Oskar.jpg
+message: "<p>I use this approach everywhere there's boilerplate resource handling involved: transactions, caching, http clients, as clients, etc. I'm not sure it qualifies as a pattern; It's only a callback parameter.</p>"

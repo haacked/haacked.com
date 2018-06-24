@@ -1,0 +1,5 @@
+id: dsq-747524171
+date: 2008-03-07T20:41:57.0000000-08:00
+name: Dan P
+avatar: https://disqus.com/api/users/avatars/Dan P.jpg
+message: <p>I tried this out, but it seems to ignore a 404 errorpage specified in web.config. All I get is the default <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> 404 page. Has anyone else run into this problem?</p>

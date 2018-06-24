@@ -1,0 +1,5 @@
+id: dsq-747529421
+date: 2012-12-21T10:43:24.0000000-08:00
+name: Andy
+avatar: https://disqus.com/api/users/avatars/Andy.jpg
+message: <p>The page at <a href="http://demo.haacked.com/security/JsonAttack.html" rel="nofollow noopener" title="http://demo.haacked.com/security/JsonAttack.html">http://demo.haacked.com/security/JsonAttack.html</a>. seems to not to be working anymore.<br>Because the page makes a request to<br>GET <a href="http://localhost:54607/Home/AdminBalances" rel="nofollow noopener" title="http://localhost:54607/Home/AdminBalances">http://localhost:54607/Home/AdminBalances</a> HTTP/1.1<br></p>

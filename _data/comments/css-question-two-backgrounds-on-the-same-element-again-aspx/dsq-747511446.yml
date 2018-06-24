@@ -1,0 +1,5 @@
+id: dsq-747511446
+date: 2011-04-11T12:30:10.0000000-07:00
+name: Nidhi Mangal
+avatar: https://disqus.com/api/users/avatars/Nidhi Mangal.jpg
+message: "<p>Hi Mike/Professor,<br>Thanks for posting your comments. I have got the same issue. I want to put tow backgounds for a link in the navigation <a href=\"index.html\" rel=\"nofollow noopener\" title=\"index.html\">Home</a>. I tried background-image: url(nav_leftBorder.gif), url(nav_rightBorder.gif); using comma to seperate two images. However, It doesn't work for me in any of the browsers. <br>My ccs as follow:<br>#topnav ul li a:hover{<br>background-image: url(../images/btn_nav_left.png), url(../images/btn_nav_right.png);<br>background-repeat: no-repeat;<br>background-position: left, right;<br>background-color: #02441d;}<br>Please suggest.<br>Nidhi</p>"

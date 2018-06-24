@@ -1,0 +1,5 @@
+id: dsq-747527668
+date: 2009-01-06T21:45:19.0000000-08:00
+name: Mike Amundsen
+avatar: https://disqus.com/api/users/avatars/Mike Amundsen.jpg
+message: <p>I agree w/ Aleš; Accept-Type is the best way to handle this. But supporting *both* is fine, too. I also second Robert's comment. Adding this kind of 'representation-awareness' to WCF is critical.</p>

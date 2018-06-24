@@ -1,0 +1,5 @@
+id: dsq-747535434
+date: 2011-06-25T07:38:14.0000000-07:00
+name: Felix
+avatar: https://disqus.com/api/users/avatars/Felix.jpg
+message: '<p>I realize I am running the risk of looking like an idiot <em>for the second time</em>... I cannot add a folder and a file in it (adding empty folder works fine - but who needs empty folders :)<br>so, I added to vstemplate<br><code><br>&lt;Folder Name="Content" TargetFolderName="Content"&gt;<br><strong>&lt;Folder Name="images" TargetFolderName="images" &gt;<br>&lt;ProjectItem ReplaceParameters="true" TargetFileName="picture.jpg"&gt;picture.jpg&lt;/ProjectItem&gt;<br>&lt;/Folder&gt;</strong><br>&lt;ProjectItem ReplaceParameters="true" TargetFileName="Site.css"&gt;Site.css&lt;/ProjectItem&gt;<br>&lt;/Folder&gt;</code><br>and to csproj:<br><code><strong>&lt;Folder Include="Content\images\" /&gt;</strong></code><br>and<br><code>&lt;Content Include="Content\images\picture.jpg" /&gt;</code><br>When I add a project, I get a friendly popup saying "Exception from HRESULT: 0x80041FEB<br> <br>Any advise?</p>'

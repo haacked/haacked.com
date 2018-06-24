@@ -1,0 +1,5 @@
+id: dsq-747528580
+date: 2009-04-03T20:45:39.0000000-07:00
+name: Stephen
+avatar: https://disqus.com/api/users/avatars/Stephen.jpg
+message: <p>Phil, in your final solution:<br>&lt;title&gt;&lt;asp:ContentPlaceHolder ID="titleContent" runat="server" /&gt;&lt;/title&gt;<br>How would that be tweaked so it will show a default title if none is specified in the content page?</p>

@@ -1,0 +1,5 @@
+id: dsq-747527106
+date: 2008-11-17T01:02:00.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>We give the view engines a view name, such as "Foo". The view engines are each responsible for figuring out whether or not they can render that view.<br>In our case, we will implement caching to try and ensure high performance.</p>

@@ -1,0 +1,5 @@
+id: dsq-747530674
+date: 2009-11-19T19:16:00.0000000-08:00
+name: Jamie
+avatar: https://disqus.com/api/users/avatars/Jamie.jpg
+message: <p>This is related to the "workaround" for installing this beta on a computer with VS2010 Beta 2.  Instead of a complete install, is there an easy way to get hold of just the MVC beta DLLs and do a straight-up "browse to file" type of reference to them?  I understand that method wouldn't have any spiffy tooling, but at least we could play with the real code.  Some of us don't use the spiffy tooling anyway.  <br></p>

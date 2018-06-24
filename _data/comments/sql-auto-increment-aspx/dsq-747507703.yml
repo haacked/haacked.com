@@ -1,0 +1,5 @@
+id: dsq-747507703
+date: 2011-02-17T19:18:24.0000000-08:00
+name: Trish
+avatar: https://disqus.com/api/users/avatars/Trish.jpg
+message: '<p>Can this be done using an formula in Excel??<br>I need to increment the last column of a set of numbers that <br>represent employee Job IDs.  I need the goal value to <br>begin at 00, and increment by one each time.  But also not incrementing when the last value is a duplicate.  <br>So, my increment column would need to look at the first column, second column, and third column.  If the rows share the same value in the first column, and unique numbers in the last column, then start at 00.  If the value in the last column is a duplicate of the previous row, give it the same value.  And when the value in the first column of a row changes, reset the goal value back to 00, and increment using the rules above.  <br>My columns are:          Goal value would be:<br>2222     12     8977     00<br>2222     12     8988     01<br>2222     12     8988     01<br>2222     12     8989     02<br>3333     04     8500     00<br>3333     04     8501     01<br>3333     04     8502     02<br>3333     04     8502     02<br>Thanks!!!</p>'

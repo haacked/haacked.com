@@ -1,0 +1,5 @@
+id: dsq-760546517
+date: 2013-01-08T15:40:42.0000000-08:00
+name: Minnesota Steve
+avatar: https://disqus.com/api/users/avatars/sodablue.jpg
+message: <p>I was not impressed with Code Contracts as it introduced a lot of noise and made the source practically unreadable.  It's quite likely we were using it wrong.  We started by basically eliminating the warnings it reported and found ourselves in a maze of twisty little passages, all alike.</p><p>What I don't particularly like about Aspects is that they aren't always clear to the developer who comes along after you and tries to read the code and wonders why it's behaving differently from the norm and has to dig through everything to find how it's working.</p><p>This is one of those areas I always start questioning how long can I shave a yak.   Sure I can check if something is null when it's called, but the bug is upstream.  How did I ever get a null object in the first place?</p><p></p>

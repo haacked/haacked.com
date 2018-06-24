@@ -1,0 +1,5 @@
+id: dsq-747516794
+date: 2006-09-19T10:57:39.0000000-07:00
+name: Mike Dimmick
+avatar: https://disqus.com/api/users/avatars/Mike Dimmick.jpg
+message: <p>Please, not more filtering based on IP addresses. Over here in Europe it's very common for many employees to be behind a single NAT as we have fewer public IP addresses available than companies in the US. This is a historical aspect of how the address space was assigned. There are universities in the US with Class A allocations, potentially 16 million addresses, of which they will only use a tiny fraction, a few thousand at most.<br>In the Far East, whole ISP user communities can be behind a single public IPv4 address. The problem is that bad.<br>Any assumption that one IP address from the server's perspective == one user is Bad.</p>

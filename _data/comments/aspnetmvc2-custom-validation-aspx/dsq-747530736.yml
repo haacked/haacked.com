@@ -1,0 +1,5 @@
+id: dsq-747530736
+date: 2010-03-01T23:36:23.0000000-08:00
+name: El Guapo
+avatar: https://disqus.com/api/users/avatars/El Guapo.jpg
+message: <p>I fixed the problem I noted above by using this code in the onBegin callback:<br>    function onBegin(ajaxContext) {<br>        var errs = Sys.Mvc.FormContext.getValidationForForm(this).validate('submit');<br>        if ((errs &amp;&amp; errs.length)) {<br>            return false;<br>        }<br>        return true;<br>    }</p>

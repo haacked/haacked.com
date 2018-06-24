@@ -1,0 +1,5 @@
+id: dsq-747513958
+date: 2006-01-26T03:38:00.0000000-08:00
+name: Jeremy
+avatar: https://disqus.com/api/users/avatars/Jeremy.jpg
+message: <p>I just ran a test of my own, and it *does* appear that there is a difference between a WHERE clause using the COALESCE function vs. one that does a straight equals comparison.<br><br><br><br>For example, the execution plan for the following code shows that it is doing an index seek:<br><br><br><br>declare @userid int<br><br>SET @userid = 100848<br><br><br><br>select * from media where userid = @userid<br><br><br><br>However, the plan for the following code block show that it is doing a clustered index *scan* on the primary key field (mediaid):<br><br><br><br>declare @userid int<br><br>SET @userid = 100848<br><br><br><br>select * from media where userid = coalesce(@userid,userid)<br><br><br><br>So I expect that it will be somewhat slower than a straight equals comparison on a very large table.  So I guess it won't be the ideal solution in all scenarios, but I think it's still quite handy for things like dynamic reporting on relatively small tables.</p>

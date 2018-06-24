@@ -1,0 +1,5 @@
+id: dsq-747523422
+date: 2007-11-18T19:53:53.0000000-08:00
+name: Frans Bouma
+avatar: https://disqus.com/api/users/avatars/Frans Bouma.jpg
+message: <p>"@pel This almost certainly an urban legend. And yes, it *may* be possible to prove something more than just a trivial piece of code, it would almost certainly not be a good use of your time. I could go through the pieces of my refrigerator to see if each part is working, but why not just open the door and see if it is cold?"<br>You declare it an 'urban legend' but you don't know for sure? <br>Ever WRITTEN a compiler, Justin? It's perfectly provable how for example the LR(n) parsers work, how you should generate the action/goto/shift/reduce tables with the transitive closures you can construct from the grammar. <br>Ugh, that must be hard, right, proving that a compiler is correct! No. It's not. Aho/Sehti/Ullman proved it in their book 'Compilers', a book every software engineer should have read. <br>What's left is proving your implementation of the algorithm is correct. If you can't do that, you can never find a single bug in a piece of code as that too requires interpreting code.</p>

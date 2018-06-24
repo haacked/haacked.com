@@ -1,0 +1,5 @@
+id: dsq-747528893
+date: 2009-04-22T13:27:00.0000000-07:00
+name: Andrea Balducci
+avatar: https://disqus.com/api/users/avatars/Andrea Balducci.jpg
+message: <p>Great! I'm currently using VirtualPathProvider to embed views and controllers in separate assemblies and dynamically load them at application startup (so i can can mix mvc apps in a portal web app just by xcopy deployment) and I was thinking about adding dynamic view creation in a future version of my framework. I'll try your prototype as soon as i can, just loving this approach!<br>Thanks for sharing!</p>

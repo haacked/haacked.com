@@ -1,0 +1,5 @@
+id: dsq-747522526
+date: 2007-09-17T02:39:24.0000000-07:00
+name: Nick
+avatar: https://disqus.com/api/users/avatars/Nick.jpg
+message: <p>I would think that setting the constants in the Web.config file would only work for the front-end files.  I've never played with those settings before, but I was always under the impression that the ASP.Net runtime used them when compiling the assemblies for the front-end files.</p>

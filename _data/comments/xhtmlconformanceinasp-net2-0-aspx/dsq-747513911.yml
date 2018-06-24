@@ -1,0 +1,5 @@
+id: dsq-747513911
+date: 2006-01-20T01:27:00.0000000-08:00
+name: Milan Negovan
+avatar: https://disqus.com/api/users/avatars/Milan Negovan.jpg
+message: "<p>In defense of the said Decorator *cough* I'd say it has more power for granular tweaking than the xhtmlConformance tag.<br><br><br><br>You set xhtmlConformance=\"Strict\" and you hope the markup will be nice and pretty. That just doesn't happen. This is where the decorator gives you the edge.<br><br><br><br>So the two can live side by side: xhtmlConformance for general conformants, and the decorator---for clean markup addicts.<br><br><br><br>The article klevo pointed out has some fun lines, such as \"Internet Explorer (the most popular Web browser in the history of the world)\".</p>"

@@ -1,0 +1,5 @@
+id: dsq-747527878
+date: 2009-01-30T04:45:06.0000000-08:00
+name: Ricky
+avatar: https://disqus.com/api/users/avatars/Ricky.jpg
+message: <p>And BTW, $.post(url) will do an XHR (AJAX) POST so you will not see anything happen if you don't add a callback to handle the response...</p>

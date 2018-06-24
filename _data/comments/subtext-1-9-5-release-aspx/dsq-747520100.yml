@@ -1,0 +1,5 @@
+id: dsq-747520100
+date: 2008-06-03T15:37:23.0000000-07:00
+name: JimS
+avatar: https://disqus.com/api/users/avatars/JimS.jpg
+message: "<p>Doing some codebrowsing and I'm just wondering: Is the CacheDuration of the ContentCache set correctly? As of now, with the default duration definitions, the cache duration time can only be set from 0 to 30 seconds (where 30 seconds is the \"Long\" duration). The duration is set in seconds (#102 in ContentCache.cs), and to be honest - 30 seconds is _not_ a Long cache duration in this context, is it?</p>"

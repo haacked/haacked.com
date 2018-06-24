@@ -1,0 +1,5 @@
+id: dsq-747516223
+date: 2008-04-22T11:40:00.0000000-07:00
+name: Hieu Nguyen
+avatar: https://disqus.com/api/users/avatars/Hieu Nguyen.jpg
+message: <p>Hi Phil,<br>Great post!, I came from Java world so the Event thing is a little hard for me to wrap my head around. Hope you can shed some light.<br>From your example in the method OnAddTagClick of the _Default class, why do you have a check if the tagCreated is null? I thought we don't have to check for that because in the PostEditController, we already subcribe a method to the event?<br></p>

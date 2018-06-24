@@ -1,0 +1,5 @@
+id: dsq-747525849
+date: 2008-08-11T05:54:49.0000000-07:00
+name: Sid Savara- Personal Developme
+avatar: https://disqus.com/api/users/avatars/Sid Savara- Personal Developme.jpg
+message: <p>A lot of the work I have done in the past involves heavy database processing, and while I agree to some extent a unit test shouldn't require database access, the tests that specifically test a DAO definitely should.  I like using DBUnit myself - it's not perfect, but it does make me more confident in my code.</p>

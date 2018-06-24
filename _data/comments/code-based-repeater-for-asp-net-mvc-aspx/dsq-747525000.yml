@@ -1,0 +1,5 @@
+id: dsq-747525000
+date: 2008-05-03T11:10:14.0000000-07:00
+name: Peli
+avatar: https://disqus.com/api/users/avatars/Peli.jpg
+message: "<p>2 more bytes: instead of putting logic to alternate the css class, you force the user to duplicate the entire row generation. that's a lot of duplication.</p>"

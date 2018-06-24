@@ -1,0 +1,5 @@
+id: dsq-747521285
+date: 2008-02-11T21:19:13.0000000-08:00
+name: Jai
+avatar: https://disqus.com/api/users/avatars/Jai.jpg
+message: <p>Hi,<br>I was successful creating a HttpContext but not HttpContext.Current.Profile since it is read-only. My application code makes use of Profile and the NUnit test fails because<br>"Property or indexer 'System.Web.HttpContext.Profile' cannot be assigned to -- it is read only". Any help here?<br>Thanks in advance.<br>Jai</p>

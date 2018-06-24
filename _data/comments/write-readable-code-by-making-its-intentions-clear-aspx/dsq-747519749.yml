@@ -1,0 +1,5 @@
+id: dsq-747519749
+date: 2007-04-20T01:03:37.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Dan, I agree. I like the fail fast and return early approach to software development. There's a good blog post on this topic. The author focuses on Java, but the same principles apply to C#.<br><a href="http://javathink.blogspot.com/2006/10/short-concise-and-readable-code-invert.html" rel="nofollow noopener" title="Concise Code"> Short, concise and readable code - invert your logic and stop nesting already!</a></p>

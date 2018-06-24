@@ -1,0 +1,5 @@
+id: dsq-747525680
+date: 2012-06-06T06:53:11.0000000-07:00
+name: Deirdre
+avatar: https://disqus.com/api/users/avatars/Deirdre.jpg
+message: <p>Hi<br>The code is great, exactly what I needed however, outputting to the screen is fine, but I want then take the result and pass it to the server as a variable, but I can't read the value, how do I access it?<br>I also tried using httpcontextsession to set the value to a variable and then access that variable, but the session is always null<br>Can anyone advise please?  Thanks<br>Deirdre</p>

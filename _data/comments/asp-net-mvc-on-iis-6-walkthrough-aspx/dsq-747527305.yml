@@ -1,0 +1,5 @@
+id: dsq-747527305
+date: 2012-04-03T07:24:01.0000000-07:00
+name: Andre Juliano
+avatar: https://disqus.com/api/users/avatars/Andre Juliano.jpg
+message: <p>In my case, I had to set ASP.NET to version 2.0 first and then set it back to 4.0. Only after it the application worked well and I stopped getting "Directory listing denyied" or "Resource can not be found".</p>

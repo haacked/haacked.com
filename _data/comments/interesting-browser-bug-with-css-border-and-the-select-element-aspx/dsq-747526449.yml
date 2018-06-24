@@ -1,0 +1,5 @@
+id: dsq-747526449
+date: 2008-10-14T05:04:15.0000000-07:00
+name: John Sheehan
+avatar: https://disqus.com/api/users/avatars/johnsheehan.jpg
+message: <p>You didn't show a proper doctype, which I believe would cause IE8 to display it correctly without the meta tag.</p>

@@ -1,0 +1,5 @@
+id: dsq-747528117
+date: 2009-03-02T05:35:32.0000000-08:00
+name: Andy Stopford
+avatar: https://disqus.com/api/users/avatars/Andy Stopford.jpg
+message: <p>As Euan points out during the demo the Me, Jeff and the MbUnit team worked with Euan and his team to integrate MbUnit via Gallio into VS08 and VS10 so one framework other than MSTest already has that support. As Euan also points out Gallio also supports MSTest and enables that framework to run in all of its other supported runners, ReSharper for example.<br>VS shipping XUnit would indicate that that framework is favoured in a market where stable and popular frameworks such as NUnit and MbUnit also have a considerable following. Such action would only cause further confusion, as I have said many times in the past what I would rather see is all the framework teams being engaged to see how and where we can help all our users collectively.</p>

@@ -1,0 +1,5 @@
+id: dsq-747523615
+date: 2008-01-20T12:09:42.0000000-08:00
+name: Basharat Hussain
+avatar: https://disqus.com/api/users/avatars/Basharat Hussain.jpg
+message: "<p>Hi,<br>I could not compile the sample. I have following errors in config files. Please help me in this regard.<br>In StructureMap.config file - &lt;StructureMap&gt; says element is not declared<br>In Web.Config file - &lt;dynamicData attribute gives following error \"the element 'system.web.extensions' has invalid child dynamicData, List of possible elements expected: 'Scripting'\"<br>Please guide me to solve these issues. thanks.<br>BR/Bash<br><br></p>"

@@ -1,0 +1,5 @@
+id: dsq-747533142
+date: 2010-10-11T18:47:10.0000000-07:00
+name: Germ&#225;n
+avatar: https://disqus.com/api/users/avatars/Germ&#225;n.jpg
+message: <p>@Harlan, you can configure the namespaces through a new configuration section in web.config . Have a look at the default MVC 3 project and find in ~/Views/Web.config the following section<br><code><br>  &lt;system.web.webPages.razor&gt;<br>    &lt;host factoryType="System.Web.Mvc.MvcWebRazorHostFactory, System.Web.Mvc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31BF3856AD364E35" /&gt;<br>    &lt;pages pageBaseType="System.Web.Mvc.WebViewPage"&gt;<br>      &lt;namespaces&gt;<br>        &lt;add namespace="System.Web.Mvc" /&gt;<br>        &lt;add namespace="System.Web.Mvc.Ajax" /&gt;<br>        &lt;add namespace="System.Web.Mvc.Html" /&gt;<br>        &lt;add namespace="System.Web.Routing" /&gt;<br>      &lt;/namespaces&gt;<br>    &lt;/pages&gt;<br>  &lt;/system.web.webPages.razor&gt;<br></code><br>Saludos!</p>

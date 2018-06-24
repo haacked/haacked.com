@@ -1,0 +1,5 @@
+id: dsq-747520831
+date: 2007-06-04T06:24:07.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>"I have had to deal with Access databases that reach up to 1GB in Office 2000 and 2GB in Office 2003 of super-denormalized data."<br>I can walk over to one of our analysis labs (I work for a cancer research center) and find a stack of 100GB firewire drives stacked 10 high filled with Excel spreadsheets and CSV files.<br>At the heart of EVERY organization there is either an Excel spreadsheet or a rinky-dink Access database that the entire company is in some way dependent on. Indie consultants call that the "cash cow".<br>I'm currently trying to talk our team OUT of the lego brick design phase now. I copied over ALL of our production databases and unzipped they were a whole 2GB in size.</p>

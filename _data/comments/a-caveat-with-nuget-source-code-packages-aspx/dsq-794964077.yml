@@ -1,0 +1,5 @@
+id: dsq-794964077
+date: 2013-02-10T14:54:28.0000000-08:00
+name: Joe Wood
+avatar: https://disqus.com/api/users/avatars/joe72.jpg
+message: <p>Yeah, sub-module approach is a great idea.  But would it also replace the namespace ? What about the issues with sub module dependency collisions (when two usable packages, use the same submodule but at different revisions?).</p><p>These are similar to the problems that the Boost people are looking at with the ryppl project, modularizing Boost in GitHub.  They ended up using cmake and 0install, with ryppl binding it all together.  It would be great if a good Nuget/GitHub solution could also solve the C++ package management problem in a more cleaner way.</p>

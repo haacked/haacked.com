@@ -1,0 +1,5 @@
+id: dsq-747519352
+date: 2007-03-22T19:24:27.0000000-07:00
+name: Mladen Mihajlovic
+avatar: https://disqus.com/api/users/avatars/mika76.jpg
+message: "<p>My thoughts on your findings: <br>1. The fact that each search has the name of the language in it (java searches with java term, ruby searches with ruby term) is most probably a left over from google as there you can't filter by language. Probably most people forget and enter the language they are searching for before they realise they can filter it using another box below the search box.<br>2. Rails, ActiveRecord and Controller terms are mostly there because Ruby on Rails has become such a buzzword and most people are trying to learn how it works or to use it, and are learning Ruby through Rails instead of the other way around. I doubt they are searching for them because Ruby is such a mature product.<br>3. None is probably there because people would like to browse the included projects instead of searching for a specific term? I dunno - strange one that.</p>"

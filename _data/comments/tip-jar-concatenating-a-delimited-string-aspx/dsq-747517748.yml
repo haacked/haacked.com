@@ -1,0 +1,5 @@
+id: dsq-747517748
+date: 2006-11-22T10:27:30.0000000-08:00
+name: Truong Hong Thi
+avatar: https://disqus.com/api/users/avatars/thith.jpg
+message: <p>In your StringBuilder version, you could use StringBuilder.ToString(startIndex, length) instead of String.SubString.<br>I also had to write similar stuff recently. If I had an array of strings, String.Join then is the natural choice. However, I also had to concatenate Fake.SomeProp, and my method is similar to this:<br>string delimited = String.Empty;<br>Fake[] fakes = Fake.GetFakes();<br>if (fakes.Length &gt; 0)<br>{<br>StringBuilder builder = new StringBuilder(fakes[0]);<br>for (int i = 1, n = fakes.Length; i &lt; n; i++)<br>{<br>builder.Append("|");<br>builder.Append(fakes[i].SomeProp);<br>}<br>delimited = builder.ToString();<br>}</p>

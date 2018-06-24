@@ -1,0 +1,5 @@
+id: dsq-747525131
+date: 2008-05-10T09:15:24.0000000-07:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>I haven't downloaded these bits yet, I'm using preview 2.<br>So I wonder - how is this 'return ActionResult' going to effect things where in several instances I use a response.write from an ajax call, or where I create an excel spreadsheet and push it back to the client with response.end, etc...<br>Will I have to write a unique actionresult for each of these?<br></p>

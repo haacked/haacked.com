@@ -1,0 +1,5 @@
+id: dsq-3523486767
+date: 2017-09-18T12:19:29.0000000-07:00
+name: Steven Stark
+avatar: https://disqus.com/api/users/avatars/disqus_9i6Q9nOcbX.jpg
+message: <p>I found an issue with this approach. When running ssh-agent it kicks me out of PowerShell ( I am assuming ). Look at this output, and notice the lack of 'PS' in the final terminal line.</p><p>Windows PowerShell<br>Copyright (C) 2016 Microsoft Corporation. All rights reserved.</p><p>PS H:\&gt; start-ssh-agent<br>Found ssh-agent at 1620<br>Found ssh-agent socket at /tmp/ssh-0uoLKZ4BFotl/agent.13264<br>Microsoft Windows [Version 10.0.14393]<br>(c) 2016 Microsoft Corporation. All rights reserved.</p><p>H:\&gt;</p>

@@ -1,0 +1,5 @@
+id: dsq-747525829
+date: 2008-07-24T16:21:02.0000000-07:00
+name: Jeroen Mineur
+avatar: https://disqus.com/api/users/avatars/Jeroen Mineur.jpg
+message: <p>Does this mean that the classic three (or n-) tier model should not be implemented having the business layer call the data layer, and the GUI/Process layer call the business layer? Having a process layer that first calls the data layer, and then call the business layer with any fetched data, would allow us to create true unit tests for the business layer. In the classic model, calling the business layer in a test would be an 'integration test', according to your definition. Right?</p>

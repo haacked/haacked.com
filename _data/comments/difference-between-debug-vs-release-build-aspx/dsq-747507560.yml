@@ -1,0 +1,5 @@
+id: dsq-747507560
+date: 2008-04-22T15:26:30.0000000-07:00
+name: adeel
+avatar: https://disqus.com/api/users/avatars/adeel.jpg
+message: <p>The debug build is created with some embedded information which allows the debugger to debug the application and exposed the runtime behavior of the application. On the down side, the debug build is a bit slower and inefficient in execution and larger in size.</p>

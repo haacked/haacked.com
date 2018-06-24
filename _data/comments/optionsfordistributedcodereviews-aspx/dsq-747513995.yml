@@ -1,0 +1,5 @@
+id: dsq-747513995
+date: 2006-02-05T16:34:00.0000000-08:00
+name: Paul
+avatar: https://disqus.com/api/users/avatars/Paul.jpg
+message: <p>Here we follow a lot of the XP practices, and I tend to just make changes. Especially when I find instances of people catching Exception and rethrowing (rather than just using the finally blocl), or when people comment out large blocks of code etc. I guess I'm relatively intolerant.<br><br><br><br>However, I'd say that it's important to make sure that you have good test coverage -- I read a paper over the weekend about a team at ThoughtWorks on a project, with a developer who committed some changes late on Friday that introduced a deadlock scenario to the system!<br><br><br><br>I'd be inclined to say that the XP way is to take total team ownership of the code -- fix where you see fit, improve/refactor where you can. Hopefully people will see an evolving design and follow the path that's created.</p>

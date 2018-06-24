@@ -1,0 +1,5 @@
+id: dsq-747516703
+date: 2006-09-16T02:39:38.0000000-07:00
+name: jayson knight
+avatar: https://disqus.com/api/users/avatars/jayson knight.jpg
+message: "<p>@Vern:<br>NHibernate is an ORM system for .Net (ported from Java's Hibernate)...conceptually it's similar to LLBLGEN.<br>More info here: <a href=\"http://en.wikipedia.org/wiki/NHibernate\" rel=\"nofollow noopener\" title=\"http://en.wikipedia.org/wiki/NHibernate\">http://en.wikipedia.org/wik...</a><br>Basically it allows applications (in theory at least) to be database agnostic. Personally I'm not a huge fan of ORM systems, but I'm slowly warming up to them.</p>"

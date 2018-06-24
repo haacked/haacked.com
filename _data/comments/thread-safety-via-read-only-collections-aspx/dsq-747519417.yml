@@ -1,0 +1,5 @@
+id: dsq-747519417
+date: 2007-03-25T22:56:11.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Heh heh. Point well taken Bill! You've exposed my hand.<br>In the implementation of GetAllStates above, I was intending to list the states in alphabetical order. For brevity, I only listed three. The first two, ellipses, the last one.<br>However all that was in my head. I didn't make that clear. Perhaps I should create a ReadOnlyAlphabeticalCollection. ;)<br><strong>Even if it <em>wasn't</em> a read only collection, you would want to copy it to a local collection/array and sort it.</strong> Otherwise you'd have to lock it before sorting since another thread might be sorting it at the same time in a different manner.</p>

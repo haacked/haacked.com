@@ -1,0 +1,5 @@
+id: dsq-747523827
+date: 2012-06-20T08:38:16.0000000-07:00
+name: Dan Schlossberg
+avatar: https://disqus.com/api/users/avatars/Dan Schlossberg.jpg
+message: <p>Hey Phil,<br>I'm impressed that you still keep up a 5 year old blog post, Thx!<br>Not sure what RTM of mvc4 routes will look like but I started a project on beta and am now on RC.  Plus I'm using WebApi and areas, so I had some challenges extending your example to my situation which registers a web api in an area.<br>Here is what worked for me.  (The "arrange" portion of test)<br></p><blockquote><br>      var importAreaContext = new AreaRegistrationContext("Import", RouteTable.Routes);<br>      var importAreaReg = new ImportAreaRegistration();<br>      importAreaReg.RegisterArea(importAreaContext);<br>      <br>      MvcApplication.RegisterRoutes(RouteTable.Routes);<br></blockquote><p><br></p>

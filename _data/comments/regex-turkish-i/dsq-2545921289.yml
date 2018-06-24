@@ -1,0 +1,6 @@
+id: dsq-2545921289
+replyToId: dsq-2543384543
+date: 2016-03-01T10:59:00.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>&gt; It is questionable, however, that a-z includes a turkish i as well.</p><p>But it doesn't include it. Check this out:</p><p>Console.WriteLine(Regex.IsMatch("shıftkey", "^[a-z]+$"));<br>Console.WriteLine(Regex.IsMatch("shıftkey", "^[a-z]+$", RegexOptions.CultureInvariant));<br>Console.WriteLine(Regex.IsMatch("shıftkey", "^[a-z]+$", RegexOptions.IgnoreCase));<br>Console.WriteLine(Regex.IsMatch("shıftkey", "^[a-z]+$", RegexOptions.IgnoreCase | RegexOptions.CultureInvariant));</p><p>All of those return false!</p><p>&gt; Loved Friedl's book! Recommended for every programmer!</p><p>:thumbsup:</p>

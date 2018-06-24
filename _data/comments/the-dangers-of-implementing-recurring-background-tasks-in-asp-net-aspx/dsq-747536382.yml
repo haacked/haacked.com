@@ -1,0 +1,5 @@
+id: dsq-747536382
+date: 2011-10-24T03:19:45.0000000-07:00
+name: Richard
+avatar: https://disqus.com/api/users/avatars/Richard.jpg
+message: <p>It is worth to take a look at FluentScheduler, I'm using this now for some time and it is really great (package is on NuGet). Can do things like<br>Schedule&lt;MyTask&gt;().ToRunNow().AndEvery(2).Seconds();<br>or<br>Schedule&lt;MyTask&gt;().ToRunNow().AndEvery(1).Months().OnTheFirst(DayOfWeek.Monday).At(3, 0);</p>

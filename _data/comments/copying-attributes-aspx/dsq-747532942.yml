@@ -1,0 +1,5 @@
+id: dsq-747532942
+date: 2010-08-05T04:21:31.0000000-07:00
+name: Michiel
+avatar: https://disqus.com/api/users/avatars/Michiel.jpg
+message: <p>For constructing attributes on the fly I have written a small library called <a href="http://attributebuilder.codeplex.com" rel="nofollow noopener" title="http://attributebuilder.codeplex.com">AttributeBuilder</a> (hosted on CodePlex). With it, you can use lamda expressions to build an attribute, which makes your code much easier to understand:<br><code><br>assembly.SetCustomAttribute( () =&gt; new Attribute("Hello worlds!", 42) { Property = "foo" , field = 21 } );<br></code><br></p>

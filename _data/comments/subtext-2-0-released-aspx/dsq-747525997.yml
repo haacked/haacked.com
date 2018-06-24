@@ -1,0 +1,5 @@
+id: dsq-747525997
+date: 2008-08-16T17:03:05.0000000-07:00
+name: Dave Sussman
+avatar: https://disqus.com/api/users/avatars/Dave Sussman.jpg
+message: <p>Phil<br>I've a few problems upgrading too, on IIS7. Most of it's working fine (although not yet live), but some of the admin links don't work. For example, <a href="http://blogs.ipona.com/davids/Admin/Posts" rel="nofollow noopener" title="blogs.ipona.com/davids/Admin/Posts">blogs.ipona.com/davids/Admi...</a> gives a 404, almost as though the default document isn't set up in IIS, but I've checked this and it definitely is. Typing in default.asx on the end of the url works. The same happens for the Articles and Feedback links.<br>Any ideas?<br>Thanks<br>Dave</p>

@@ -1,0 +1,5 @@
+id: dsq-747534628
+date: 2011-03-20T03:33:45.0000000-07:00
+name: Daniel Kolman
+avatar: https://disqus.com/api/users/avatars/Daniel Kolman.jpg
+message: "<p>Well, it is actually a bit more complicated. Culture you are using to convert the string into decimal (CultureInfo.CurrentCulture) can be different than culture in user's browser.<br>E.g. user has two keyboards and corresponding culture settings installed - german (with \",\" as decimal separator) and english (with \".\" as decimal separator). By switching the keyboard in browser (pressing alt+shift), character written by dot key in numeric keyboard changes. Regardless of your application's culture, browser sends either \"123.5\" or \"123,5\", depending on user's current keyboard. But both these values are perfectly valid from the user's point of view.<br>So then you have hard choice to make: either you accept both \",\" and \".\" as decimal separator (but then you do not allow thousands separator) or you are forcing user to input the number in culture expected by your application (but you are forcing the user to choose correct keyboard for your app).</p>"

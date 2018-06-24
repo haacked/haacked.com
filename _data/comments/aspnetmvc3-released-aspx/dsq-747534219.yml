@@ -1,0 +1,5 @@
+id: dsq-747534219
+date: 2011-02-22T16:18:04.0000000-08:00
+name: Sven
+avatar: https://disqus.com/api/users/avatars/Sven.jpg
+message: <p>Regarding the above question about whether MVC 3 supports conditional validation, it was above answered by "counsellorben Jan 17, 2011 9:08 AM" with the words "Yes, you can create your own client and server side conditional validators.".<br>My follow-up-question is then if you can define the validation logic once (into some kind of metadata validation model which can be used for geneating the javascript code) or you still need to duplicate it manually in C# code and in JavaScript code ?<br>If so, can somebody provide a link to a code example ?<br>(for the readers of this blog that is also interested in this question can also watch out the new thread I created today at <a href="http://stackoverflow.com/questions/5089493/asp-net-mvc-avoiding-duplicated-validation-code-in-javascript-and-c-and-with" rel="nofollow noopener" title="http://stackoverflow.com/questions/5089493/asp-net-mvc-avoiding-duplicated-validation-code-in-javascript-and-c-and-with">stackoverflow.com/...</a> <br>)<br></p>

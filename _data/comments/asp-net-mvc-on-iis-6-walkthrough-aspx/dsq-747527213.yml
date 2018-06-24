@@ -1,0 +1,5 @@
+id: dsq-747527213
+date: 2008-12-01T08:34:59.0000000-08:00
+name: Shaun Trennery
+avatar: https://disqus.com/api/users/avatars/shauntrennery.jpg
+message: <p>There is a problem with AntiForgeryToken in MVC Futures and running under a virtual directory in IIS6. I get the following error:<br>"The virtual path '/DummyUrl' maps to another application, which is not allowed"<br><br></p>

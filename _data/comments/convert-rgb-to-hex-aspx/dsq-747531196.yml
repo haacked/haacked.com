@@ -1,0 +1,5 @@
+id: dsq-747531196
+date: 2009-12-29T10:52:29.0000000-08:00
+name: Sergio Pereira
+avatar: https://disqus.com/api/users/avatars/Sergio Pereira.jpg
+message: <p>If you want to normalize colors beyond the specific IE vs Firefox problem, you'll need to consider a few other color representations, like "rgb(10%, 30%, 30%)", "#aaa", "rgba(12, 34, 56, 20)".<br>Also, my JavaScript scars make me call out the missing radix parameter in parseInt.<br>If you download jquery-ui (full) you'll find a function called getRGB that normalizes colors into RGB arrays. Too bad the function is private.</p>

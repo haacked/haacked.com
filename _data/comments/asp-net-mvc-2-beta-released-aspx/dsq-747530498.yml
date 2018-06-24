@@ -1,0 +1,5 @@
+id: dsq-747530498
+date: 2009-11-17T00:12:00.0000000-08:00
+name: Alun Harford
+avatar: https://disqus.com/api/users/avatars/Alun Harford.jpg
+message: <p>Eugh!<br>"To address these scenarios, the TempDataDictionary class was changed so that all the keys survive indefinitely until the key is read from the TempDataDictionary object. The Keep method was added to TempDataDictionary to let you indicate that the value should not be removed after reading. The RedirectToActionResult is an example where the Keep method is called in order to retain all the keys for the next request."<br>"Adding a debugger watch that shows a value from TempData will mark it for deletion. The side effect was introduced as part of the changes to TempDataDictionary."<br>That's seriously broken. Now you can forget to write out the contents of something in TempData ('you no longer have permission to delete that') and it'll get written out on some random page when you next check for that key. Unless you're debugging.<br>We're sticking with Preview 2 here.</p>

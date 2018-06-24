@@ -1,0 +1,5 @@
+id: dsq-747538157
+date: 2012-06-28T13:17:56.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@fde: nope. GHfW only works with git. You'd still need to use git-svn and I'm not even sure that really works well with GHfW as we haven't tried it and don't officially support that.</p>"

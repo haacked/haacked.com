@@ -1,0 +1,5 @@
+id: dsq-747533595
+date: 2010-11-22T00:04:11.0000000-08:00
+name: Ron Muth
+avatar: https://disqus.com/api/users/avatars/Ron Muth.jpg
+message: <p>Hi Phil,<br>We had the same issues with using the default routes in mvc, so we had started using simply named routes, but that added more magic string to MVC and we are trying to get away from magic strings in our code. So we put together some helpers to create route names that are stored as constants and thus are fully accessible to intellisense. You can see my write up about it @ <a href="http://www.isi-net.com/Blogs/Ron-Muth/MVC-Routes-and-Magic-Strings--No-Good" rel="nofollow noopener" title="http://www.isi-net.com/Blogs/Ron-Muth/MVC-Routes-and-Magic-Strings--No-Good">www.isi-net.com/...</a></p>

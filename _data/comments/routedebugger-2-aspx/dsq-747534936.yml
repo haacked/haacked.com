@@ -1,0 +1,5 @@
+id: dsq-747534936
+date: 2012-01-24T13:55:47.0000000-08:00
+name: Chadrick
+avatar: https://disqus.com/api/users/avatars/Chadrick.jpg
+message: <p>I've used this before the old Global.asax way. I've installed 2.1.2.0 using Nuget. No window is appended at the end of the page. I have the config app setting set to true. I noticed that I did not have Microsoft.Web.Infrastructure added to my MVC project refs and added that but it makes no diff. I'm debugging my app using ASP.NET Dev Server. Does this make a diff?</p>

@@ -1,0 +1,5 @@
+id: dsq-747528910
+date: 2009-04-22T19:28:00.0000000-07:00
+name: HB
+avatar: https://disqus.com/api/users/avatars/HB.jpg
+message: <p>@huey<br>I hear what you're saying - I've written a class called AnonymousType that hides all the complexities of Reflection and lets me use simpler methods like  <code>something.Get&lt;int&gt;("Total")</code>.<br>You could probably write your own pretty easily, or at least until the new <em>dynamic</em> comes out.</p>

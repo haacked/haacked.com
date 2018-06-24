@@ -1,0 +1,5 @@
+id: dsq-747527137
+date: 2008-12-17T20:17:43.0000000-08:00
+name: Michael Knopf
+avatar: https://disqus.com/api/users/avatars/Michael Knopf.jpg
+message: <p>Phil<br>I'm not trying to be harsh or anything, @developingchris is a little rougher on people when it comes to these things as he hates to muddy the waters when it comes to separations of concern (separating the HTML from the logic), but I do follow what your emphasizing here and it's good to know that we can modify the output to behave in a manner that meets our expectations, however I don't think the default outcome is really a quirk as this is what is to be expected when dealing with HTML. <br>I do agree with @developingchris that the expected output should be identical to what would render if in fact we had output the text via server-side code in a ASP.NET Web Forms project.</p>

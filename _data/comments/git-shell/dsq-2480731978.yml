@@ -1,0 +1,6 @@
+id: dsq-2480731978
+replyToId: dsq-2446308828
+date: 2016-01-27T06:13:26.0000000-08:00
+name: James World
+avatar: https://disqus.com/api/users/avatars/jamesworld.jpg
+message: <p>Good use of source control requires expertise. DVCS source control concepts are not trivial. For me, there hasn't been a GUI to date for Git that has been better than the command line - and I am not a shell zealot by any stretch. However, there's a learning curve to reach command line mastery - not *because* it's a command line and not a GUI - but because the underlying concepts aren't trivial. However, you have to start somewhere, and a friendly GUI like GHfW or SourceTree can be a handy crutch while you are transitioning from a simpler world. Tab-completion and a decent diff tool give me all the UI I need. I think a lot of people end up in the same place - my team did, I just straw polled my team to double check - they really did all thank me in the end for forcibly uninstalling all their Git GUIs and making them use the command line. And it's had a very positive impact on the quality of our source repositories. So maybe GHfW is just fine as training wheels.</p>

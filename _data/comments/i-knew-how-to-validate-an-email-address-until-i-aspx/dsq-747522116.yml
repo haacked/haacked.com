@@ -1,0 +1,5 @@
+id: dsq-747522116
+date: 2009-03-17T22:26:23.0000000-07:00
+name: Richard Smith
+avatar: https://disqus.com/api/users/avatars/Richard Smith.jpg
+message: <p>I wrote an email validation with grouping expression a while ago and i have never needed anything more than this:<br>/(\w+[\w-.]*)\@(\w+[\.]{1}(com$|gov$|mil$|edu$|arpa$|biz$|eu$|info$|int $|name$|nato$|net$|org$|co\.\w{2}))/i<br>It seems a little... simple and strict now that i have read this, but i doubt i will change this validation methed as it hasn't failed me yet... that i know of &lt;.&lt;</p>

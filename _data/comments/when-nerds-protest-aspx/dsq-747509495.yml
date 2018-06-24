@@ -1,0 +1,5 @@
+id: dsq-747509495
+date: 2004-09-01T04:32:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Booyah Kashak.  Allow me to refer you to Section 3.2.1 of the HTML 4.0 spec.  It discusses the differences between an element and a tag.  As you pointed out, XML is the infoset, therefore it is possible for elements within a document to exist without a tag.  <br><br><br><br>However, a tag is the textual representation within an HTML document of an HTML element.  Therefore, there's nothing wrong with discussing the html TAG on the protest sign.  If it was purely an XML tag, the sign might as well be blank as there's no canonical representation of an XML element node (i.e. it could be stored as binary, text, DOM, etc... ).</p>

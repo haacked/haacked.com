@@ -1,0 +1,5 @@
+id: dsq-747525591
+date: 2008-06-25T01:40:33.0000000-07:00
+name: mark
+avatar: https://disqus.com/api/users/avatars/mark.jpg
+message: <p>Any way we can programmatically  point to any view path in the controller? similar to the Page.LoadControl(string). <br>Or an attribute in the controller class that specify the location of the views for that controller.<br>I guess anything that is configurable and not static.<br>Thanks</p>

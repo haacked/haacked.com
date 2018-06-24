@@ -1,0 +1,5 @@
+id: dsq-747533177
+date: 2010-10-06T22:17:56.0000000-07:00
+name: Christopher Painter
+avatar: https://disqus.com/api/users/avatars/Christopher Painter.jpg
+message: <p>Here's my two concerns:<br>1) How does it handle the build environment?  Does this assume you'll check the package files into source control so the build will pull it down as part of the workspace?  Our current build proccesses avoid this intentionally.<br>2) While it's great to get some cool widget into the hands of a developer, I'm concerned it's an abstraction that many people will use to turn off their brain when it comes to dependency / integration analysis.   Just issue the get package command, rebuild the solution and publish.  Easy, right?<br>Still, if those concerns aren't a worry, it does seem like a really slick tool.</p>

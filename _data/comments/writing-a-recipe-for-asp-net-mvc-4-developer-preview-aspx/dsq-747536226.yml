@@ -1,0 +1,5 @@
+id: dsq-747536226
+date: 2011-09-22T11:17:47.0000000-07:00
+name: Jeff
+avatar: https://disqus.com/api/users/avatars/Jeff.jpg
+message: <p>What exactly is a "mobile versions of desktop views"? AFAIK views are simply markup...if you want to target desktop and mobile use media queries. This is getting kinda smelly...mvc is awesome, don't make it a webforms fail.</p>

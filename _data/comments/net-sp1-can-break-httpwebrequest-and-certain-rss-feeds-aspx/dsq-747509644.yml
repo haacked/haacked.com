@@ -1,0 +1,5 @@
+id: dsq-747509644
+date: 2005-03-01T01:35:00.0000000-08:00
+name: Guy S. Newell
+avatar: https://disqus.com/api/users/avatars/Guy S. Newell.jpg
+message: <p>I had code that was working just fine to retrieve parameter limit info from a video server on a Win2K development system. My boss bought me a new computer that came with XP and and a new install of the .NET runtime that included SP1. <br><br><br><br>All of a sudden, the code stopped working with a protocol violation at the HTTPWebRequest.GetResponse(). What's irritating to me is that the URLs still work just fine with IE 6.0 browser or the axWebBrowser control. <br><br><br><br>The video server is one that is made by a sister company, so I can't very well go to them and say "FIX YER SHIT". I hope your workaround works for me. -guy<br><br></p>

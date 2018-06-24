@@ -1,0 +1,5 @@
+id: dsq-747526054
+date: 2008-08-16T22:46:53.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Tim with Subtext, we've tried to keep deployment as simple as possible. Unfortunately, wildcard mappings is not something we can x-copy deploy. When such things are controlled via web.config (as it is with IIS 7), then we can rely on that within Subtext.<br>We didn't want to pile-up manual steps. But yes, you are correct in that we could do this now. But with the MVC version of Subtext, we're targetting a future in which IIS 7 is prevalent and our supported web server.</p>

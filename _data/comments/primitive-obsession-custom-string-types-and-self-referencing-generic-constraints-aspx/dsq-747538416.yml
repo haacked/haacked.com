@@ -1,0 +1,5 @@
+id: dsq-747538416
+date: 2012-09-30T23:23:00.0000000-07:00
+name: distantcam
+avatar: https://disqus.com/api/users/avatars/distantcam.jpg
+message: <p>@Diego given it's by design, and is how binding works when you don't implement INotifyProperyChanged or DependencyProperties I would have thought it would still be in later versions. But you might be right, they could have optimized the global table to not hold strong references anymore.<br>I still prefer to make sure anything I bind to has INPC or DependencyProperties though.</p>

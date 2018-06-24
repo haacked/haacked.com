@@ -1,0 +1,5 @@
+id: dsq-747526554
+date: 2008-11-12T04:38:12.0000000-08:00
+name: Brett
+avatar: https://disqus.com/api/users/avatars/Brett.jpg
+message: '<p>Can you add the Include / Exclude to the list? <br>Getting the stack overflow on my list. Assuming its because of nested objects of same type? So i want to restrict which properties it sets.<br>So in your example: <br>public ActionResult UpdateProducts(<br>[Bind(Include = "Name, Price")]IList&lt;product&gt; products) {<br>    return View(products);<br>}</p>'

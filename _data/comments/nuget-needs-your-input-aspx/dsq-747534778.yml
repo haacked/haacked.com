@@ -1,0 +1,5 @@
+id: dsq-747534778
+date: 2011-04-07T18:14:05.0000000-07:00
+name: John Ludlow
+avatar: https://disqus.com/api/users/avatars/johnludlow.jpg
+message: <p>Hi,<br>The situation I find myself in with regard to multiple versions of an assembly within a solution is with some of our extensions, companion tools and build tasks which work with WiX.  To build some of these we need to include a reference to the version of the WiX dll that the tool targets.  (Currently this does not have a NuGet package AFAIK, but in the future maybe)<br>But we're also in a migration from WiX v2 to v3.5 so we have some tools in both versions, and we need to build both sets of tools with the correct WiX references.<br>So while it's probably not a common scenario, it can happen that you get a solution with multiple projects with references to different versions of the same package.</p>

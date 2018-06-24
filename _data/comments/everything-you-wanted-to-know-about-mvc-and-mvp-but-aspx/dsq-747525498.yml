@@ -1,0 +1,5 @@
+id: dsq-747525498
+date: 2008-07-16T03:46:16.0000000-07:00
+name: Duarte Nunes
+avatar: https://disqus.com/api/users/avatars/Duarte Nunes.jpg
+message: '<p>Hi Phil,<br>Another great post! I have just one related question: is it sound to use ASP.NET MVC as a View belonging to an MVP implementation (as opposed to using plain old WebForms)? In that scenario, the MVP Presenter would communicate with the MVC View through the MVC Controller (and through the *Data class used by that controller). So, the Controller would in fact be implemented as the Presenter, leaving the MVC with just the V. Seems weird, but since the MVC is not the main feature in ASP.NET, it also seems right. I would appreciate some thoughts : )<br>Thanks,<br>Duarte</p>'

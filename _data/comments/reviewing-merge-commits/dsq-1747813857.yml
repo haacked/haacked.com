@@ -1,0 +1,5 @@
+id: dsq-1747813857
+date: 2014-12-17T18:45:54.0000000-08:00
+name: Brandon
+avatar: https://disqus.com/api/users/avatars/Brandon.jpg
+message: <p>Any chance that GitHub's Commit view could be the equivalent of `git show` instead of showing all the changes of the merged branch? Maybe with a toggle at the top when people want the full view?</p><p>Right now, GitHub's own docs say to merge in order to resolve conflicts, but then that resulting merge commit is pretty useless as far as code review is concerned.</p>

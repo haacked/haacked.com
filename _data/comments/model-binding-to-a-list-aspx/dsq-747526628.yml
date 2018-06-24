@@ -1,0 +1,5 @@
+id: dsq-747526628
+date: 2011-09-20T21:02:12.0000000-07:00
+name: Andy Menon
+avatar: https://disqus.com/api/users/avatars/Andy Menon.jpg
+message: <p>How do validations play out in this kind of a scenario?<br>I built something like this, with a class that inherited from an EF model class (which obviously had some properties marked "required").<br>The form rendered as expected, and the collection was bound successfully.<br>But it was a all or none kind of a situation. The form would not allow me to submit unless I filled out all the required fields across all the rows. This was unacceptable to me as only the first row was mandatory, and rest of the rows were optional. <br>How do we handle such cases? <br></p>

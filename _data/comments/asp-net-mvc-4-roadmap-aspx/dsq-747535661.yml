@@ -1,0 +1,5 @@
+id: dsq-747535661
+date: 2011-07-21T13:22:03.0000000-07:00
+name: Sean
+avatar: https://disqus.com/api/users/avatars/Sean.jpg
+message: <p>What about a proper handling for properties that are lists of other complex classes ? <br>I mean parsing, validation, easy marked up generation on client side so dynamic (client side) add, remove, reorder is not as painful as it is today. MVC lacks that functionality from day one. In each version it gets just a bit better. The only proper way to do it today is with json, and still the validation binding for inner fields must be done "manually".<br>It should work with a complex EF Model too.   <br></p>

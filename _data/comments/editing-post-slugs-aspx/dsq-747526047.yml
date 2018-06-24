@@ -1,0 +1,5 @@
+id: dsq-747526047
+date: 2008-08-13T10:18:02.0000000-07:00
+name: Scott Muc
+avatar: https://disqus.com/api/users/avatars/Scott Muc.jpg
+message: <p>For the site I work on we do the automatically urlize our blog entry titles. The biggest issue for us was when the title had to be changed days later. This caused some non permanent permalinks to go out in the wild. I firmly believe in readable urls and don't consider putting a GUID there to be a good solution.<br>How do you feel about a history of slugs per post being stored? When an old slug was hit and permanent redirect can be done to the url of the latest slug is done. Do you think this is a reasonable solution to this problem, or is there not enough benefit for the work?<br>Thanks,<br>Scott</p>

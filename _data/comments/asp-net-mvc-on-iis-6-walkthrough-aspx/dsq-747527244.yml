@@ -1,0 +1,5 @@
+id: dsq-747527244
+date: 2009-12-16T10:30:39.0000000-08:00
+name: Sid
+avatar: https://disqus.com/api/users/avatars/Sid.jpg
+message: <p>I have followed this set of instructions closely.  However, when I view my site in browser on the server as //localhost/domainname/ there's no styling, despite the fact that default.aspx.vb already has HttpContext.Current.RewritePath(Request.ApplicationPath, False).  Is there something else I need to change?<br>Thanks!</p>

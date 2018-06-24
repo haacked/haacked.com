@@ -1,0 +1,5 @@
+id: dsq-747518948
+date: 2007-03-09T21:28:47.0000000-08:00
+name: Evan
+avatar: https://disqus.com/api/users/avatars/Evan.jpg
+message: <p>I can't quite get my head around it to show you an implementation (too early on a saturday morning), but if you control the tree structure (ie..menu classes, etc, not control collections), you can skip both the stack and recursion by chaining parent/child iterators together..</p>

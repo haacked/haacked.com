@@ -1,0 +1,5 @@
+id: dsq-747537994
+date: 2012-05-21T13:37:12.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Timur, it works as a regular git client as well. There's no integration with other Git hosts, but you can drag a local clone into the app and push to those remotes.</p>

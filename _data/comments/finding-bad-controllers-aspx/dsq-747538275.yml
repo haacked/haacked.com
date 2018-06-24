@@ -1,0 +1,5 @@
+id: dsq-747538275
+date: 2012-08-16T22:22:52.0000000-07:00
+name: terry
+avatar: https://disqus.com/api/users/avatars/terry.jpg
+message: <p>Good stuff Phil this is truly useful stuff. There is one other failure mode that will cause a controller not to be found. If the namespace name in the controller source file doesn't derive from the root namespace it won't be found either unless namespace info is specifically attached to the route definition in the AreaRegistration class or the global.asax file. <br>For example, if the root namespace for the project is "hello" and the namespace declared in the controller file within the same project is somehow changed to "hahello" then it will return a 404 even if all the attributes of the controller look fine.</p>

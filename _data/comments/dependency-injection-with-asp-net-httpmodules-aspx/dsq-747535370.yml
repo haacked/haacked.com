@@ -1,0 +1,5 @@
+id: dsq-747535370
+date: 2011-06-02T23:23:58.0000000-07:00
+name: Javier Lozano
+avatar: https://disqus.com/api/users/avatars/Javier Lozano.jpg
+message: <p>@phil, @paul, @darren -<br>Prior to ASP.NET 4 this was not possible since PreApplicationStartMethod hook didn't exist in the runtime. The *only* clean way to do it was to provide your hooks into the class that inherited from HttpApplication (the type that Global.asax inherits from).<br>A while back, I blogged about how you could do this in ASP.NET 2 (with MVC or WebForms) - <a href="http://lozanotek.com/blog/archive/2009/08/19/Autowire_IHttpModules_with_IoC.aspx" rel="nofollow noopener" title="http://lozanotek.com/blog/archive/2009/08/19/Autowire_IHttpModules_with_IoC.aspx">lozanotek.com/...</a> ... this blog post outlines the same pieces that I wired into MVC Turbine.</p>

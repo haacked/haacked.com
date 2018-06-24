@@ -1,0 +1,5 @@
+id: dsq-2624998309
+date: 2016-04-15T04:58:22.0000000-07:00
+name: Ishit Parikh
+avatar: https://disqus.com/api/users/avatars/ishitparikh.jpg
+message: <p>Hey,</p><p>I'm newbie to unit testing. I tried your code but didn't work for our website.</p><p>I may have implemented it wrongly or it isn't fit for our situation.</p><p>I wrote a simple unit test for login functionality which uses WebSecurity object to validate user, session &amp; cookies to store data and return boolean value. Here we got return value false because of WebSecurity so we removed it and used direct DB call to validate user. Now, when storing userdata into session and cookies we got exception of null.</p><p>So, please help us for this situation and let me know for any addition information you want.</p><p>Thank you.</p>

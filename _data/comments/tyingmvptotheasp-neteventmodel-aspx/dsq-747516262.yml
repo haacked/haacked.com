@@ -1,0 +1,5 @@
+id: dsq-747516262
+date: 2006-08-09T06:44:59.0000000-07:00
+name: Thomas Eyde
+avatar: https://disqus.com/api/users/avatars/Thomas Eyde.jpg
+message: <p>Remember the User Interface Process Application Block, or UIP for short?<br>One of its missions was to enable us to write the same workflow code for both worlds. I can't say how it works for WinForms, but I had to abandone it for WebForms.<br>I hadn't used it for long before I ran into some severe bugs which clearly revealed poor or no testing, like a session lost due to timeout or a recompile. Also hitting the back button moved the UI into an invalid workflow state which was impossible to escape from.</p>

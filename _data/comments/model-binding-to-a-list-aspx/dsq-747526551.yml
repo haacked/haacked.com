@@ -1,0 +1,5 @@
+id: dsq-747526551
+date: 2008-10-24T08:18:20.0000000-07:00
+name: Ricky Supit
+avatar: https://disqus.com/api/users/avatars/Ricky Supit.jpg
+message: '<p>@Vladan: What I did is to create a new ModelBindingContext and pass property filter delegate like the following:<br>BindAttribute bindAttr = new BindAttribute() { Exclude = this.Exclude, Include = this.Include };<br>propFilter = (propName) =&gt; <br>bindAttr.IsPropertyAllowed(propName) &amp;&amp; bindingContext.ShouldUpdateProperty(propName);<br>It helps if at least the static version of IsPropertyAllowed be made public.<br>Here is my implementation of CslaBindAttribute: <a href="http://www.codeplex.com/CSLAcontrib/Release/ProjectReleases.aspx?ReleaseId=17759" rel="nofollow noopener" title="http://www.codeplex.com/CSLAcontrib/Release/ProjectReleases.aspx?ReleaseId=17759">www.codeplex.com/.../ProjectReleases.aspx</a><br>Ricky</p>'

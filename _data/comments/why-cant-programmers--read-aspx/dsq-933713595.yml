@@ -1,0 +1,5 @@
+id: dsq-933713595
+date: 2013-06-17T16:11:35.0000000-07:00
+name: Zaidi
+avatar: https://disqus.com/api/users/avatars/disqus_ONgwtZL1FP.jpg
+message: <p>#include &lt;iostream&gt;<br>using namespace std;<br>int main()<br>{ for(int i=1;i&lt;=100;i++) {  <br>if(i%3==0)                        {  cout&lt;&lt;"Fizz"; }<br>if(i%5==0)                        {  cout&lt;&lt;"Bizz"; }<br>if(i%3!=0&amp;&amp;i%5!=0)         {  cout&lt;&lt;i; }="" cout&lt;&lt;endl;="" }="" return="" 0;="" }=""&gt;</p>

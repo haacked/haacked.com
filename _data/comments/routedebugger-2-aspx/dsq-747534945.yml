@@ -1,0 +1,5 @@
+id: dsq-747534945
+date: 2012-04-13T05:24:26.0000000-07:00
+name: Erik
+avatar: https://disqus.com/api/users/avatars/Erik.jpg
+message: <p>I've installed the RouteDebugger, but can't see any route debugging? The web.config option is enabled &lt;add key="RouteDebugger:Enabled" value="true" /&gt; why?<br>No errors, just the site as before installing RouteDebugger?</p>

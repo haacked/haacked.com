@@ -1,0 +1,5 @@
+id: dsq-747518809
+date: 2007-03-10T22:56:09.0000000-08:00
+name: WishKnew
+avatar: https://disqus.com/api/users/avatars/WishKnew.jpg
+message: <p>I remember the old days using my turbo prolog:<br>predicates<br>  fizzbuzz(integer)<br>  solution(integer)<br>  <br>clauses<br>  fizzbuzz(I) :- I mod 3 = 0, write("fizz", "\n"), !.<br>  fizzbuzz(I) :- I mod 5 = 0, write("buzz","\n"), !.<br>  fizzbuzz(I) :- write(I, "\n"), !.<br>  <br>  solution(X) :-<br>     X &lt;= 100, fizzbuzz(X), Y = X + 1, solution(Y).<br> <br>goal<br>  solution(1).</p>

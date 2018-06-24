@@ -1,0 +1,5 @@
+id: dsq-747519773
+date: 2007-04-23T22:14:56.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Steve: No, it wasn't you. Not everything is about you Steve. ;)<br>And I disagree, I think the the SqlMembershipProvider using SqlExpress is actually a great contribution. We have to keep in mind that ASP.NET has a huge and diverse user base.<br>One of the ways to sell a platform is to make the \"Out of box\" experience\" sublime by making it incredibly easy to get it up and running immediately, without requiring 20,000 steps. SQL Server Express is actually not a bad database and capable of handling the needs of a wide range of developers.<br>However, there's also many developers who know immediately that Express won't meet their needs. It's incumbent on these developers to step beyond the defaults. I think Microsoft provides plenty of good documentation on the provider. The question is, is anyone reading them? Are they good enough?</p>"

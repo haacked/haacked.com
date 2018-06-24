@@ -1,0 +1,5 @@
+id: dsq-747527706
+date: 2009-01-14T03:06:13.0000000-08:00
+name: Jarrett
+avatar: https://disqus.com/api/users/avatars/Jarrett.jpg
+message: <p>Taking a look at the Oxite source code, they create background services which all fire periodically using a System.Threading.Timer.  So, as long as each background service doesn't fire off any additional threads, that will be only two threads for the SendMessages background service.  However, the downfall is that each timer eats up a thread from the pool.  If there are 10 background services, thats the potential for 20+ fewer threads in the pool at all times. So this sounds like a good solution as long as there are only a couple background services?</p>

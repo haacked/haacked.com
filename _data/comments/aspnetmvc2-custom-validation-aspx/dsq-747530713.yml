@@ -1,0 +1,5 @@
+id: dsq-747530713
+date: 2010-01-12T17:16:42.0000000-08:00
+name: Adrian Grigore
+avatar: https://disqus.com/api/users/avatars/Adrian Grigore.jpg
+message: <p>Hi Phil,<br>First thanks for the insightful article. <br>Right now I am still using ASP.NET MVC 1 and a mixture of xVal and some custom written code for validation. This allows me even to implement remote client-side validation rules as I have described at <a href="http://devermind.com/aspnet-mvc/asp-net-mvc-tip-3-how-to-cover-all-your-client-side-form-validation-needs-without-writing-any-javascript-part1/" rel="nofollow noopener" title="http://devermind.com/aspnet-mvc/asp-net-mvc-tip-3-how-to-cover-all-your-client-side-form-validation-needs-without-writing-any-javascript-part1/">devermind.com/...</a><br><br>I was wondering what would be the best way to implement remote client-side validation in ASP.NET MVC 2? Obviously I would have to use custom validation rules, but is there some equivalent to the remote validator that comes with jquery.validate in ASP.NET MVC 2's remote validation scripts? <br>Thanks,<br>Adrian</p>

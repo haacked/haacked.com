@@ -1,0 +1,5 @@
+id: dsq-747529387
+date: 2009-12-14T18:28:44.0000000-08:00
+name: Guest
+avatar: https://disqus.com/api/users/avatars/Guest.jpg
+message: <p>I'm sorry, but I have some issues with the content of this post.<br>1. You state that an object literal {id:"1", value:"foo"} is not valid JavaScript and if it's returned to a script tag will throw an error. This is completely false. 100%. Object literals are in fact the fundamental basis of JSON, which is perfectly valid JavaScript.<br>2. You make no real explanation of why POST is safe but GET is not. I can only guess it's because you're asserting that a malicious site can't make an automatic/background cross-domain POST (where clearly they can make GETs via script tags). <br>But sites certainly can make background POSTs, even cross domain, including iframe proxies, flash proxies (like flXHR), etc. So a POST seems just as vulnerable.<br>-----<br>I think the point of this article should be about the very familiar auth hijacking vulnerability. This really has nothing to do with JSON (in my opinion).<br></p>

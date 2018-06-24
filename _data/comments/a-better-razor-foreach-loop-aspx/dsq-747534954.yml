@@ -1,0 +1,5 @@
+id: dsq-747534954
+date: 2011-04-14T04:54:32.0000000-07:00
+name: Andrew Robinson
+avatar: https://disqus.com/api/users/avatars/Andrew Robinson.jpg
+message: <p>Maytbe a better approach? Sorry don't have MVC installed on this machine but I think you get the idea.<br>class Program<br>{<br>    static void Main(string[] args)<br>    {<br>        var fred = new[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, };<br>        foreach (var item in fred.ItemIndex())<br>            Console.WriteLine(item.Index.ToString() + ":" + item.Item.ToString());<br>    }<br>}<br>static class Ext<br>{<br>    public static IEnumerable&lt;ItemIndex&lt;T&gt;&gt; ItemIndex&lt;T&gt;(this IEnumerable&lt;T&gt; source)<br>    {<br>        return source.Select((item, index) =&gt; new ItemIndex&lt;T&gt; { Item = item, Index = index, });<br>    }<br>}<br>public class ItemIndex&lt;T&gt;<br>{<br>    public T Item { get; internal set; }<br>    public int Index { get; internal set; }<br>}<br></p>

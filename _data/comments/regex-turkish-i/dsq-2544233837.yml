@@ -1,0 +1,6 @@
+id: dsq-2544233837
+replyToId: dsq-2543773403
+date: 2016-02-29T14:13:15.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>&gt; So by not specifying any culture, you're basically saying "anything goes" is my guess</p><p>Well, by not specifying a culture, you're saying the current culture with .NET, and invariant culture for other platforms.</p><p>Both of these are well specified behaviors. I'm taking issue with the default. I think it should be invariant.</p><p>&gt; I suspect a Turkish developer might think this is perfectly sane default behavior.</p><p>I'm not so sure. I would imagine that they'd expect this to return true, but it returns false, no?</p><p>    Regex.IsMatch("shıftkey", "^[a-z0-9]+$"); // false</p><p>Also, consider that my current culture is en-US in which case `İ` is not the capital of i so why is it matching?</p>

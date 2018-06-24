@@ -1,0 +1,5 @@
+id: dsq-747525674
+date: 2008-11-03T03:52:13.0000000-08:00
+name: Peter Bucher
+avatar: https://disqus.com/api/users/avatars/Peter Bucher.jpg
+message: <p>I`ve a solution that doing render the executiontime anywhere at the page-output.<br>My approach uses a ResponseFilter, look at:<br>- <a href="http://www.aspnetzone.de/blogs/peterbucher/archive/2008/03/16/requestdauer-mit-einem-httpmodule-und-response-filter-ausgeben.aspx" rel="nofollow noopener" title="http://www.aspnetzone.de/blogs/peterbucher/archive/2008/03/16/requestdauer-mit-einem-httpmodule-und-response-filter-ausgeben.aspx">www.aspnetzone.de/.../...onse-filter-ausgeben.aspx</a><br>Regards, Peter</p>

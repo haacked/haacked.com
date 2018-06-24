@@ -1,0 +1,5 @@
+id: dsq-747527625
+date: 2009-01-04T22:13:06.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Peli interestingly enough, that <code>ArgumentException</code> is thrown by <code>DataBinder.Eval</code>, not my code. I updated the code to catch that and throw a <code>FormatException</code>.</p>

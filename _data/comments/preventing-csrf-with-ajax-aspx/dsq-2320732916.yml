@@ -1,0 +1,5 @@
+id: dsq-2320732916
+date: 2015-10-22T05:43:04.0000000-07:00
+name: 'Noor Rahman '
+avatar: https://disqus.com/api/users/avatars/noordeveloper.jpg
+message: "<p>I have one question please help me<br>I am working on a MVC application using repository pattern and entity<br> framework. i am writing  ajax call on most views for posting <br>data and getting data.</p><p>i am worried about the security , is this is the right way to use <br>ajax calls on my view or do i need some extra security to secure my ajax<br> call because if i open the source of html i can see all my ajax call .<br>---------------------example-------------</p><p> $.ajax({<br>                    url: '../User/AddGroup',<br>                    type: \"POST\",<br>                    data: {<br>                        GroupName: $(\"#txtGropuName\").val()<br>                    },<br>                    beforeSend: function () {<br>                        blockUI(\"body\");<br>                    },<br>                    success: function (data) {<br>}</p><p>any buddy can see the calls using view source.</p><p>please help me how to seure.</p><p>Thanks in advance.</p>"

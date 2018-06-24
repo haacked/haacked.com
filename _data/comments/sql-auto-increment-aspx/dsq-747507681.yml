@@ -1,0 +1,5 @@
+id: dsq-747507681
+date: 2010-04-26T05:03:53.0000000-07:00
+name: Dr Vet Cumpanasu Florin
+avatar: https://disqus.com/api/users/avatars/Dr Vet Cumpanasu Florin.jpg
+message: <p>I will pass the value to be incremented:<br>mysql_query("UPDATE sdig SET Pro = ".$_POST['dig_id']+1." WHERE ID = 1");<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747524160
+date: 2008-02-12T20:04:29.0000000-08:00
+name: Aaron Jensen
+avatar: https://disqus.com/api/users/avatars/Aaron Jensen.jpg
+message: <p>I'll revert again to my longstanding assertion that you should strongly consider changing the extension of the views. The views are *not* aspx pages and the proof is here and everywhere else you look. I've heard the argument that you want to reuse stuff from aspx, which I can understand, but I don't think that's a good thing either. It gives functionality to the aspx view engine that other view engines must emulate or be left behind. I'm excited to see the next release, but I really think a rename/refactor of the view needs to happen.</p>

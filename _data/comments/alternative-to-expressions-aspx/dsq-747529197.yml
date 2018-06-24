@@ -1,0 +1,5 @@
+id: dsq-747529197
+date: 2009-06-02T01:51:00.0000000-07:00
+name: Andrew Davey
+avatar: https://disqus.com/api/users/avatars/Andrew Davey.jpg
+message: '<p>What about web application projects? I thought build providers only work for web sites.<br>IMO a view should not be responsible for creating URLs anyway!<br>The controller should be deciding where user can go next (i.e. URLs) and passing the links to the view.<br>Check out: <a href="http://www.assembla.com/wiki/show/snooze" rel="nofollow noopener" title="http://www.assembla.com/wiki/show/snooze">http://www.assembla.com/wiki/show/snooze</a><br>for a REST/URL centric approach to <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> mvc.</p>'

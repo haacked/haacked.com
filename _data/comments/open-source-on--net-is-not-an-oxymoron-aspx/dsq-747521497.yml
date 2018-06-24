@@ -1,0 +1,5 @@
+id: dsq-747521497
+date: 2007-07-02T21:52:32.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <blockquote>It's not an oxymoron, it's just that the Windows programming environments are so *terrible*. Why would you want to do that to yourself?</blockquote><p><br>That's why so many OSS .NET projects use custom build files and structure their projects differently that standard .NET projects. It practically takes you back to command line programming. Most of the OSS .NET projects I've seen use a lot of code to work around limitations of the VS environment. Sometimes they call it "ALT.NET" or some variation. But really it's just a reaction to the gimp suit that is Visual Studio.</p>

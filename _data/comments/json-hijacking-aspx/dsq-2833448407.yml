@@ -1,0 +1,5 @@
+id: dsq-2833448407
+date: 2016-08-11T22:28:56.0000000-07:00
+name: Dima
+avatar: https://disqus.com/api/users/avatars/Dima.jpg
+message: <p>The root problem is cookie highjacking here and for this - rule of a thumb that all request producing data must have auth token on request header.</p>

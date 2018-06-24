@@ -1,0 +1,5 @@
+id: dsq-747527718
+date: 2009-01-14T15:40:32.0000000-08:00
+name: Peli
+avatar: https://disqus.com/api/users/avatars/Peli.jpg
+message: "<p>An interresting thing to do when you have multiple implementations that share the same specification is to compare their outcome. This is really a great scenario to apply tools such as Pex.<br>For example, in this case, I wrote this simple parameterized unit test:<br>        [PexMethod]<br>        public void HenriVsHaacked(string format, object o)<br>        {<br>            // checks that return value or exception caught match<br>            PexAssert.AreBehaviorsEqual(<br>                () =&gt; HenriFormatter.HenriFormat(format, o),<br>                () =&gt; HaackFormatter.HaackFormat(format, o)<br>                );<br>        }<br>The 5-th test case that Pex generates is very interresting: '}'. Sounds innocent enough but the two formatteres don't agree on the outcome for this format string and triggers the assert:<br>\"left threw a System.FormatException exception and right did not.\"<br>In fact, the Henri formatter throws a format exception while Phil's happily survives it.<br></p>"

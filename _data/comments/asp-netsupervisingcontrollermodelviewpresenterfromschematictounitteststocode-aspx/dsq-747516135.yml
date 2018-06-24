@@ -1,0 +1,5 @@
+id: dsq-747516135
+date: 2006-08-09T02:45:51.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Kevin: One problem with implementing events in the way you proposed is that I can no longer attach events in the constructor of the contrete view because the button hasn't been instantiated yet.</p>"

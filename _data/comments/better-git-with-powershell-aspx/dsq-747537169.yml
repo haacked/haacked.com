@@ -1,0 +1,5 @@
+id: dsq-747537169
+date: 2011-12-13T04:27:11.0000000-08:00
+name: Russ Cam
+avatar: https://disqus.com/api/users/avatars/Russ Cam.jpg
+message: '<p>@Rasmus - I was having similar issues. I have Mercurial and Git installed (but not posh-hg, as far as I know). In %userprofile%\Documents\WindowsPowerShell, create a profile.ps1 powershell file and add the code from <a href="http://joseoncode.com/2011/11/30/running-posh-git-and-posh-hg-in-the-same-machine/" rel="nofollow noopener" title="http://joseoncode.com/2011/11/30/running-posh-git-and-posh-hg-in-the-same-machine/">joseoncode.com/...</a><br>I just commented out the line beginning <br>. $Home\Documents\WindowsPowerShell\Modules\posh-hg\profile.example.ps1<br>by prefixing with a # and now all is working as expected.</p>'

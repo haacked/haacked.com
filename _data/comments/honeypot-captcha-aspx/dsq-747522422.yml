@@ -1,0 +1,5 @@
+id: dsq-747522422
+date: 2009-03-05T20:44:20.0000000-08:00
+name: Barnevern
+avatar: https://disqus.com/api/users/avatars/Barnevern.jpg
+message: '<p>This method is still working very well on most "low volume" sites, like personal blogs and pages.<br>On sites with more visitors and/or higher pagerank I would combine it with something else (like java, cookie, hashed hidden form fields, etc).<br>Most blogs and cms today come with some form of protection, like Akismet, Bad Behavior, Spam Karma, etc. Adding the honeypot trick would just make it more secure.<br>By the way: why aren’t screen readers updated to take this trick into account? Hidden fields in css should not be processed.</p>'

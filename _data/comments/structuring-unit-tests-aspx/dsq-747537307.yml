@@ -1,0 +1,5 @@
+id: dsq-747537307
+date: 2012-01-02T07:33:33.0000000-08:00
+name: Fabian Schmied
+avatar: https://disqus.com/api/users/avatars/Fabian Schmied.jpg
+message: <p>How do you work with variables initialized by SetUp methods in such a scenario?<br>AFAICS, you'd have to repeat the SetUp (ctor) initializations for every nested class (unless they only apply to a single tested method). Or is there another, better practice?</p>

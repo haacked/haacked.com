@@ -1,0 +1,5 @@
+id: dsq-747527704
+date: 2009-01-14T02:28:13.0000000-08:00
+name: Brian Chiasson
+avatar: https://disqus.com/api/users/avatars/Brian Chiasson.jpg
+message: <p>@Haacked - I believe JDConley is right, perhaps you can get to the bottom of this and get back to us. According to the ThreadPool documentation (link below) there is only one ThreadPool available per process. So, if you are in a web farm or web garden you probably won't see too much of a problem - multiple ASP.NET worker processes. But if you have a single IIS site, then you are consuming ASP.NET threads to send out e-mail. Someone correct me if I am wrong please.</p>

@@ -1,0 +1,5 @@
+id: dsq-747533647
+date: 2010-12-08T02:45:04.0000000-08:00
+name: Dr. Bunson Honeydew
+avatar: https://disqus.com/api/users/avatars/Dr. Bunson Honeydew.jpg
+message: <p>I've an issue that looks like your post may elude to. Say you create a second GroupRoute like "~/forum" that adds the BlogRoutes Collection. Is that possible? if a user hits <a href="http://website.com/r1" rel="nofollow noopener" title="website.com/r1">website.com/r1</a>, how would you send them to the right page? Could you include the GroupRoute as a filter? Am I way off here? I'm way off aren't I?</p>

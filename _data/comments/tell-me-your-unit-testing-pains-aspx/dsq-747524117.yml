@@ -1,0 +1,5 @@
+id: dsq-747524117
+date: 2008-02-07T00:38:55.0000000-08:00
+name: The Other Steve
+avatar: https://disqus.com/api/users/avatars/The Other Steve.jpg
+message: <p>Ok, my concern is it almost seems like I'm writing more code in tests and stubs and such, than actual logic.  The more code I write the more bugs I introduce.<br>So who will tests the tests?<br>This is the problem I have with writing layers of abstraction and such just to make my code easier.  By introducing all that other stuff, I risk crapifying my codebase.<br></p>

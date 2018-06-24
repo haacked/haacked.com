@@ -1,0 +1,5 @@
+id: dsq-747524204
+date: 2008-02-20T19:55:55.0000000-08:00
+name: Bill Pierce
+avatar: https://disqus.com/api/users/avatars/Bill Pierce.jpg
+message: <p>In what situation will I NOT have to re-compile my code when a new version of System.Web.Extensions is released?  Are you saying there is a way that my code will automatically start using 3.7.0.0 instead of 3.6.0.0?<br>How does adding a new virtual method that throws NotImplementedExcpetion not break my code?  If I do not recompile then anytime that new method is called I get an unhanded exception?<br>Your rationale has not convinced me that I am any better off with an abstract base class instead of an interface.  At least with an Interface I know right away that the contract has changed.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747518680
+date: 2007-09-30T18:38:50.0000000-07:00
+name: Roki
+avatar: https://disqus.com/api/users/avatars/Roki.jpg
+message: <p>Also, if you use the "text" attribute on an asp:checkbox it will generate an associated label:<br>&lt;asp:checkbox id="chkBox1" runat="server" text="Text for label control goes here"&gt;&lt;/asp:checkbox&gt;</p>

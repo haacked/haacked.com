@@ -1,0 +1,6 @@
+id: dsq-2802563609
+replyToId: dsq-747534658
+date: 2016-07-25T10:29:22.0000000-07:00
+name: Nelson Reis
+avatar: https://disqus.com/api/users/avatars/NelsonReis.jpg
+message: <p>That is spot on! I was having a very strange issue and all became solved by using valueResult.Culture instead of CultureInfo.CurrentCulture! Great find.</p>

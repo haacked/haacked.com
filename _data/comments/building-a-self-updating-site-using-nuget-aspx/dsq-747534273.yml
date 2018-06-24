@@ -1,0 +1,5 @@
+id: dsq-747534273
+date: 2011-01-27T15:31:24.0000000-08:00
+name: Cyriel
+avatar: https://disqus.com/api/users/avatars/Cyriel.jpg
+message: '<p>Hi Phil,<br>Let me start by saying: nice idea!<br>Anyway,<br>I was wondering what would happen in a scenario where multiple users have permission to update the application, and all of them get notified and click the upgrade link in the notification. Will the second (or third or whatever) request be terminated if the first one is in progress?</p>'

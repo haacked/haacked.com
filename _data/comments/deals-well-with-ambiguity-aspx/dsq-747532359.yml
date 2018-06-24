@@ -1,0 +1,5 @@
+id: dsq-747532359
+date: 2010-05-26T01:56:20.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@fschwiet unit testing is an orthogonal concern. Suppose my mom upgrades Windows and windows introduces a breaking changes. How are her *existing* apps going to continue working? What if they could adapt automatically.<br>Unit testing doesn't address this scenario. It only addresses those who write such apps to be able to update their apps to accommodate the change. But the end consumer is not necessarily going to update *every* app on their system.</p>

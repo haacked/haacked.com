@@ -1,0 +1,5 @@
+id: dsq-747535189
+date: 2011-06-26T09:41:52.0000000-07:00
+name: Josh
+avatar: https://disqus.com/api/users/avatars/Josh.jpg
+message: <p>Fixed ... we just added the following to our msbuild command-line:<br><code>/p:BaseIntermediateOutputPath=c:\temp\ourapp.web\</code></p>

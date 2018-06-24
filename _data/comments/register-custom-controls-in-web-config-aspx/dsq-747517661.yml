@@ -1,0 +1,5 @@
+id: dsq-747517661
+date: 2008-12-03T01:09:10.0000000-08:00
+name: Mark Kamoski
+avatar: https://disqus.com/api/users/avatars/Mark Kamoski.jpg
+message: <p>How can I register a custom server control in web config and use it both (1) declartively in the code-infront of an ASPX page as well as (2) use it as a class library in a .CS file in App_Code? I can do (1) but I cannot seem to do (2). Do you have any hints? Please advise. Thank you. -- Mark Kamoski</p>

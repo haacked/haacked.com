@@ -1,0 +1,5 @@
+id: dsq-747530404
+date: 2009-10-28T20:48:00.0000000-07:00
+name: Schmuli
+avatar: https://disqus.com/api/users/avatars/Schmuli.jpg
+message: <p>I haven't seen anybody mention it yet anywhere, but when I tried installing VS2010B2, the installer failed for MVC2, and now VS2010 doesn't recognize (find) the MVC2 dll. The MVC tools was installed, so I can create a project, but it can't compile because of the missing dll, which I can't add manually as VS2010 can't seem to find it (even MVC1(1.1) dlls). I tried reinstalling VS2010 but that didn't help at all, as it didn't even try to install MVC2 at all.<br>Another issue I noticed but which may not be an issue (I didn't test it yet), is that the MVC templates are installed under the "Visual Studio 2010" folder, but all the rest of VS2010's folders appear under the "Visual Studio 10" folder. Is this an issue?</p>

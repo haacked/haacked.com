@@ -1,0 +1,5 @@
+id: dsq-747528072
+date: 2009-02-16T12:25:54.0000000-08:00
+name: David Fowler
+avatar: https://disqus.com/api/users/avatars/David Fowler.jpg
+message: <p>How about using the query syntax to mash it into one big query.<br>(from format in suffixFormats<br>let slug = originalSlug + String.Format(format, separator)<br>let notExists = Repository.GetEntry(slug) == null<br>where notExists<br>select slug).First()</p>

@@ -1,0 +1,5 @@
+id: dsq-1379584700
+date: 2014-05-11T08:43:02.0000000-07:00
+name: Larry
+avatar: https://disqus.com/api/users/avatars/Larry.jpg
+message: <p>Good post.  There are many bad examples of encryption on the Net.  One (on Microsoft's site), effectively uses this sequence to generate an encryption key:</p><p>            var desCrypto = new DESCryptoServiceProvider();<br>desCrypto.GenerateKey();<br>string sKey = ASCIIEncoding.ASCII.GetString(desCrypto.Key);</p><p>byte[] actualKey = ASCIIEncoding.ASCII.GetBytes(sKey);</p><p>For any non-ascii byte in desCrypto.Key (&gt;= 0x80), the byte is replaced by a question mark in "actualKey".</p><p>It's then a coin toss as to whether you lose any given byte of the key, so for an 8-byte key you have 64% probably of losing at least 4 bytes of key material!</p>

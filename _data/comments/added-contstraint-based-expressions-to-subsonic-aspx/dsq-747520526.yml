@@ -1,0 +1,5 @@
+id: dsq-747520526
+date: 2007-05-22T19:35:05.0000000-07:00
+name: kevin
+avatar: https://disqus.com/api/users/avatars/kevin.jpg
+message: <p><br>I'd go even further and propose:<br>new Query("Products").WHERE("ProductId").IsLessThan(5);<br>or<br>new Query("Products").WHERE("ProductId").IsEqualTo(5);<br>And yes, strongly typed values would be ideal.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747530378
+date: 2009-10-20T11:12:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Now that ASP.NET MVC 2 is included in Visual Studio 2010, we will not ship any updated out-of-band previews for VS10. Your next look at MVC for VS10 will be whatever ends up being the next release of VS10.<br>We will have another preview version of ASP.NET MVC in between now and the next release of VS10, and that one will only support VS2008.</p>

@@ -1,0 +1,5 @@
+id: dsq-2439217475
+date: 2016-01-04T09:48:12.0000000-08:00
+name: Kevin Hollingshead
+avatar: https://disqus.com/api/users/avatars/kevinhollingshead.jpg
+message: <p>Did not know about the ".Any()" method until today. Note that you can use the overload that takes a lambda to ask "Are there any people named Mike?", e.g. "if (people.Any(x =&gt; x.first_name == "Mike")). Thanks for, uh, Haacking me? :)</p>

@@ -1,0 +1,5 @@
+id: dsq-747510160
+date: 2005-04-22T02:08:00.0000000-07:00
+name: Don
+avatar: https://disqus.com/api/users/avatars/Don.jpg
+message: <p>yes if there is a comma inside &lt; and &gt; tag or &lt; and /&gt; it should be removed.<br><br><br><br>thanks<br><br><br><br>right now i'm using [(),] which get rid of them even in the value tag.<br><br><br><br>&lt;p(,)&gt; this is the function, calculate() &lt;/p(,)&gt;<br><br><br><br><br><br>after replace it should look like:<br><br><br><br>&lt;p&gt; this is the function, calculate() &lt;/p&gt;<br><br></p>

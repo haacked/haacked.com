@@ -1,0 +1,5 @@
+id: dsq-747531675
+date: 2010-02-12T01:53:55.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@ali62b No, RC 2 is the second release candidate for MVC. I don't think the change to the default template was included in RC 2. But we will include it in the next release of MVC 2 which will be RTM.</p>

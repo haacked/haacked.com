@@ -1,0 +1,5 @@
+id: dsq-747530050
+date: 2009-09-29T15:28:00.0000000-07:00
+name: Dmitriy Nagirnyak
+avatar: https://disqus.com/api/users/avatars/Dmitriy Nagirnyak.jpg
+message: <p>The solution is interesting, but I often prefer to be explicit about order and write it in order. So I would probably just do this:<br>reader.Setup(r =&gt; r.Read()).Returns(true);<br>// Act<br>reader.Setup(r =&gt; r.Read()).Returns(true);<br>// Act<br>reader.Setup(r =&gt; r.Read()).Returns(false);<br>// Act &amp; Verify<br>This is IMO much easier syntax to read and eveybody who comes to the code can understand it after 2 seconds.<br>The code with Queue is not so obvious.<br>First, when I saw it I thought it would always return the element at the top (true). The callback in Return creates the instance of a Queue every time and thus top element is always true.<br>Is it not?<br>So it took me much more than 2 seconds to understand the Lambda syntax. I see it just often gets overused.</p>

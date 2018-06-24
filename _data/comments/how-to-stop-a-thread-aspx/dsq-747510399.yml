@@ -1,0 +1,5 @@
+id: dsq-747510399
+date: 2008-04-09T11:55:02.0000000-07:00
+name: mick
+avatar: https://disqus.com/api/users/avatars/mick.jpg
+message: <p>volatile bools are primative. Use ManualResetEvent instead.</p>

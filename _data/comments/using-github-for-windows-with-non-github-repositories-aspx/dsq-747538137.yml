@@ -1,0 +1,5 @@
+id: dsq-747538137
+date: 2012-05-31T05:28:51.0000000-07:00
+name: Scott Blomquist
+avatar: https://disqus.com/api/users/avatars/Scott Blomquist.jpg
+message: <blockquote>we also think GitHub for Windows is a great client for any Git host.</blockquote><p><br>Not quite _any_ host. I have a repo at work that doesn't support HTTPS access, and probably never will. Is there any chance that GHfW will someday support SSH? If so, then I'll be able to agree with you.<br>Otherwise, I'll have to hold out hope that someone else can bring all the goodness of GHfW _and_ SSH support in a single package that's as easy to dive into as your tool is. Keep up the good work!</p>

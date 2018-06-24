@@ -1,0 +1,5 @@
+id: dsq-747524855
+date: 2008-04-11T05:04:37.0000000-07:00
+name: Chance
+avatar: https://disqus.com/api/users/avatars/Chance.jpg
+message: <p>Thanks Phil, I figured that may have a showstopper for the idea but I had to throw it out there anyways. Subdomain seperation is clean and elegant in a lot of scenarios. I imagine though that if someone is willing to go through the hassle of getting the routing setup on the server, they certainly wouldn't mind writing a few lines of code to handle it in the code.</p>

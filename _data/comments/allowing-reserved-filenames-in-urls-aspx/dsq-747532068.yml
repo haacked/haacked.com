@@ -1,0 +1,5 @@
+id: dsq-747532068
+date: 2010-04-30T02:44:03.0000000-07:00
+name: Eric
+avatar: https://disqus.com/api/users/avatars/Eric.jpg
+message: <p>Does ASP.NET MVC allow for URLs like the following or will the trailing period trip it up?<br><a href="http://localhost/movies/view/E.T" rel="nofollow noopener" title="http://localhost/movies/view/E.T">http://localhost/movies/view/E.T</a>.<br></p>

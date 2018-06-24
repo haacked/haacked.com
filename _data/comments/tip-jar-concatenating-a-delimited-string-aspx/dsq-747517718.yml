@@ -1,0 +1,5 @@
+id: dsq-747517718
+date: 2006-11-21T11:18:49.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: '<p>Doh! I meant:<br><code>delimited += fakes[i].SomeProp + (i &lt; (fakes.Length - 1)) ? "|" : "");</code><br>Never code in a browser!</p>'

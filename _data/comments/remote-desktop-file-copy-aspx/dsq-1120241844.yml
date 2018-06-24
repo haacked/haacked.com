@@ -1,0 +1,5 @@
+id: dsq-1120241844
+date: 2013-11-12T13:55:39.0000000-08:00
+name: Michael Langford
+avatar: https://disqus.com/api/users/avatars/disqus_rxE0tsoPkX.jpg
+message: <p>the \\tsclient feature still works depending on what you're using.  My company has pretty strict security policies, so for me to access SSH connections for servers my team managed at a third-party location, they make me use a virtual workstation in our DMZ.  Workstations, even Win7 ones, can still use tsclient. With that, you can create a shortcut to a folder on your local machine from the remote machine to make transfer easier.  For example, I have a shortcut on the remote desktop that leads to my local machine desktop - the shortcut path is \\tsclient\C\Users\.... etc.  That way, when I need to pull a file down, I just use that shortcut as my download destination, and it dumps the file right onto my local desktop and I don't have to bother moving it around.</p>

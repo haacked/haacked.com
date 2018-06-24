@@ -1,0 +1,5 @@
+id: dsq-747533941
+date: 2011-01-28T14:37:07.0000000-08:00
+name: Mike He
+avatar: https://disqus.com/api/users/avatars/misaxi.jpg
+message: <p>I put a little bit attention on the stuff of MVC &amp; IIS 6. And I got a interesting result.<br>I deploy ASP.NET MVC 2 project (created in VS2010) to IIS 6 on a WIN2K3 server (only .NET Framework 3.5 installed). The only trick I need to do is set 'Copy Local' attribute of System.Web.Mvc assembly to true and no extra work (wildcard mapping, etc). Then the application runs smoothly.<br>Details on this post.<br><a href="http://www.cnblogs.com/misaxi/archive/2011/01/29/odd-things-of-aspnet-mvc-deployment-on-iis6.html" rel="nofollow noopener" title="http://www.cnblogs.com/misaxi/archive/2011/01/29/odd-things-of-aspnet-mvc-deployment-on-iis6.html">www.cnblogs.com/...</a></p>

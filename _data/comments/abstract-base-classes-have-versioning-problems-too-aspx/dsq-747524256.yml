@@ -1,0 +1,5 @@
+id: dsq-747524256
+date: 2008-02-21T21:08:56.0000000-08:00
+name: Evan
+avatar: https://disqus.com/api/users/avatars/Evan.jpg
+message: <p>Inheritance is also the strongest form of coupling between two implementations (classes)..you have to be able to look inside what you are inheriting from so you know what the invariants are and how the hook points should be used..although you did a good job of pointing this out in the post</p>

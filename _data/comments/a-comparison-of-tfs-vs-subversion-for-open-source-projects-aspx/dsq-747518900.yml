@@ -1,0 +1,5 @@
+id: dsq-747518900
+date: 2007-03-04T01:26:55.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>The book <em>Producing Open Source Software</em> has a <a href="http://producingoss.com/html-chunk/committers.html" rel="nofollow noopener" title="committ access">chapter</a> on this topic that probably does the topic more justice than I can.<br>I'll just add my two cents. Ideally, when you pull from the trunk or a branch of a project, it is as stable as can possibly be given that it's active development.<br>If you give committ access to developers who do not make good decisions, there's the potential that the code is left in a bad state until someone has time to review the code.<br>Look at it this way, you don't just give anyone at Vertigo commit access. You have to interview them and make them an employee first. Open Source projects aren't much different in that regard.</p>

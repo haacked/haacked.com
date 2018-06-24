@@ -1,0 +1,5 @@
+id: dsq-747524785
+date: 2008-04-09T09:18:38.0000000-07:00
+name: Bryan Watts
+avatar: https://disqus.com/api/users/avatars/Bryan Watts.jpg
+message: <p>Separation of tests from their target is essential for separation of responsibility - to employ a slippery slope, why not embed deployment code too?<br>I prefer a single test assembly per project assembly, with the same root namespace and structure, leading to natural scoping.</p>

@@ -1,0 +1,5 @@
+id: dsq-747526611
+date: 2011-01-05T13:04:31.0000000-08:00
+name: Mark
+avatar: https://disqus.com/api/users/avatars/Mark.jpg
+message: <p>I appreciate this is now a little old but I was just trying this and noticed something very odd happen on the editor template sample specifically.<br>When deleteing a record and hitting create the submitted values display correctly as to what books should be posted back but HTML form does not - the record after the one that is repeated displays twice and the last item is dropped off.<br>Seems very odd and I can see no reason for it. Everything else suggests the list of books was posted back correctly.</p>

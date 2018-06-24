@@ -1,0 +1,5 @@
+id: dsq-747536424
+date: 2012-09-21T19:38:28.0000000-07:00
+name: Benjamin Eidelman
+avatar: https://disqus.com/api/users/avatars/Benjamin Eidelman.jpg
+message: <p>It's an interesting idea.<br>I have taken an opposite way and turnned into a framework you might find interesting.<br><a href="https://github.com/cinchcast/Roque" rel="nofollow noopener" title="https://github.com/cinchcast/Roque">https://github.com/cinchcast/Roque</a><br>the idea is use common C# methods or events to send a job into a Redis list (used as a queue), and then have multiple windows services pulling jobs from each queue, each job ends up in calling the same method or event using reflection.<br>To get scheduling you can write a console app (called on schedule) and there call a method (or raise an event) to get the same effect.</p>

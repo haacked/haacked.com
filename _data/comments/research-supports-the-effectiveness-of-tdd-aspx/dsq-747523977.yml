@@ -1,0 +1,5 @@
+id: dsq-747523977
+date: 2008-01-24T06:26:02.0000000-08:00
+name: Jacob
+avatar: https://disqus.com/api/users/avatars/Jacob.jpg
+message: <blockquote>One question for you, I can understand if you don't feel that TDD is a practice that might provide you (or your team) personal benefit. But setting aside TDD, what are your thoughts on having developers writing automated unit tests iteratively throughout the development cycle? Can you see how that might be a good process?</blockquote><p><br>Good question. I'm personally a fan of unit tests and think they should be written as proximately in both time and place as possible with the functionality tested. I'm skeptical of writing the tests first as is required by TDD is all. Ideally both tests and functionality will be written in any given iteration, I think.<br>BTW, I'm also skeptical of striving for 100% code coverage, though I haven't fully fleshed out why yet. I think it's likely that the 80/20 rule applies though I'm not sure on what dimensions.</p>

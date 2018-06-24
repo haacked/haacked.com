@@ -1,0 +1,5 @@
+id: dsq-747517724
+date: 2006-11-21T16:15:42.0000000-08:00
+name: Simon
+avatar: https://disqus.com/api/users/avatars/Simon.jpg
+message: <p>I tend to add the first item to the final string, and then add the others:<br><code><br>string result = items[0];<br>for (int loop = 1; loop &lt; items.Count; items ++)<br>{<br>    result += "|" + items[loop];<br>}<br></code><br>Obviously with some validation.  I think I prefer your <code>Join()</code> though, thank you.</p>

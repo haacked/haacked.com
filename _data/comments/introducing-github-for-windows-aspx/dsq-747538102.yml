@@ -1,0 +1,5 @@
+id: dsq-747538102
+date: 2012-08-31T16:53:25.0000000-07:00
+name: Vivek Kaul
+avatar: https://disqus.com/api/users/avatars/Vivek Kaul.jpg
+message: <p>0 down vote favorite<br><br>I actually connect to a remote repository and can do so using git bash but not using gitextensions.<br>git bash asks me for my password but GIT extensions does not. Does anyone have an idea why this will be the case?<br>This is from GIT bash, which asks for my password whereas the GIT extensions does not ask for my password.<br>$ git pull <a href="http://vkaul@stash.int.linz.jumio.com/git/OCR/ocr.git" rel="nofollow noopener" title="http://vkaul@stash.int.linz.jumio.com/git/OCR/ocr.git">vkaul@stash.int.linz.jumio.com/git/OCR/ocr.git</a><br>Password for '<a href="http://vkaul@stash.int.linz.jumio.com'" rel="nofollow noopener" title="http://vkaul@stash.int.linz.jumio.com'">http://vkaul@stash.int.linz.jumio.com'</a>:<br></p>

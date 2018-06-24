@@ -1,0 +1,5 @@
+id: dsq-747529355
+date: 2009-06-25T08:57:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I personally like that approach, but the worry is that there may be other similar exploits we haven't discovered yet. The tendency over here is to try to avoid such heuristics when it comes to security. <br>Also, it can get confusing when the JSON in some cases works and others doesn't and the end user doesn't understand why.<br>Eilon has a phrase he likes to tell me. "Heuristic" is another word for "Bug". ;)</p>

@@ -1,0 +1,5 @@
+id: dsq-747530024
+date: 2009-09-25T13:59:00.0000000-07:00
+name: Igor
+avatar: https://disqus.com/api/users/avatars/Igor.jpg
+message: "<p>Does this mean we can safely use &lt;%= to output intentionally not-sanitized HTML? Guess so.<br>If we implement IHtmlString to our method, it will auto-sanitize and we will not be able to choose weather to sanitize or not, and &lt;%: won't be able to sanitize output of a method that implements IHtmlString?<br>Will this work in VS2008 MVC2 Preview 2 or we have to wait VS10 Beta 2?</p>"

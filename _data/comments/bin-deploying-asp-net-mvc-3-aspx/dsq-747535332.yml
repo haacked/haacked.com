@@ -1,0 +1,5 @@
+id: dsq-747535332
+date: 2012-04-03T10:08:14.0000000-07:00
+name: Tomi
+avatar: https://disqus.com/api/users/avatars/Tomi.jpg
+message: '<p>Hey we are using TFS and one of us add deployable dependencies on his version which didnt work correctly when we want to delete it and add it again on version which work than opened a window with error: That some dll which we want to add already exist or we do not have permission for access. How can we delete and add new deployable dependencies?</p>'

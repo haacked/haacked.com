@@ -1,0 +1,5 @@
+id: dsq-747519364
+date: 2007-03-23T01:05:34.0000000-07:00
+name: orcmid
+avatar: https://disqus.com/api/users/avatars/orcmid.jpg
+message: <p>I was wondering if the prevalence of "java" in Java and "system" in C# code searches is related to searches for class names and include/using statements.<br>Umm, as in java.security.MessageDigest.getInstance("MD5")</p>

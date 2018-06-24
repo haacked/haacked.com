@@ -1,0 +1,5 @@
+id: dsq-747508798
+date: 2008-12-01T05:48:08.0000000-08:00
+name: Doug
+avatar: https://disqus.com/api/users/avatars/Doug.jpg
+message: <p>The thing that most surprised me about this is that it works in subsonic:<br>SubSonic.SqlQuery qry = Select.AllColumnsFrom&lt;Gallery&gt;().<br>                Top("6").OrderAsc("NEWID()");</p>

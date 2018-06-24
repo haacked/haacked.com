@@ -1,0 +1,5 @@
+id: dsq-747535660
+date: 2011-07-21T03:00:59.0000000-07:00
+name: nick
+avatar: https://disqus.com/api/users/avatars/nick.jpg
+message: '<p>model types: text to speech, color blind, low bandwidth user, failure model(if db fails switch to xml constring)<br>controller is smart but its not AI smart. if my controller fails, it should have definitions to where else it should go. example is if my db connection fails, my controller fails by default, assuming i bind in my controller. when honestly all I really should need to do is insert a partial view of an xml bound object relating to the same query.<br>why does the prebuilt model use forms authentication while the rest of the world develops multi-login specific applications?<br><br>Last tid bit, make mvc xml, excel able to load data as a failover from slow db connections. bring ssis back into the equation but slim it down to conform to the model definitions of mvc.</p>'

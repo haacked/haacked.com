@@ -1,0 +1,5 @@
+id: dsq-747534286
+date: 2011-06-03T01:13:00.0000000-07:00
+name: Germ&#225;n
+avatar: https://disqus.com/api/users/avatars/Germ&#225;n.jpg
+message: "<p>Phil, great article.<br>By the way, i´m getting \"Access denied\" all the time because the selfupdater tries to delete a bin\\.dll file used by the website, more specifically when trying to delete with \"NuGet.PhysicalFileSystem.DeleteFile\"<br>i`m getting a big \"System.UnauthorizedAccessException: Access to the path 'D:\\MySite\\bin\\MySite.dll' is denied.\"<br>How can you get through this ?</p>"

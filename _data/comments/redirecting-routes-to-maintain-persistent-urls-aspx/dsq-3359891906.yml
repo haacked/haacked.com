@@ -1,0 +1,5 @@
+id: dsq-3359891906
+date: 2017-06-14T04:39:22.0000000-07:00
+name: Maneesh
+avatar: https://disqus.com/api/users/avatars/disqus_A2aAaSM1cF.jpg
+message: "<p>How do I permanent redirect to lowercase url's throughout the site.<br>Ex: <a href=\"http://xyz.com/Pages/Contact\" rel=\"nofollow noopener\" title=\"http://xyz.com/Pages/Contact\">http://xyz.com/Pages/Contact</a> to <a href=\"http://xyz.com/pages/contact\" rel=\"nofollow noopener\" title=\"http://xyz.com/pages/contact\">http://xyz.com/pages/contact</a><br>Can I use RouteMagic and do something in Route.Config where I setup my routing?</p>"

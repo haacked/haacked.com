@@ -1,0 +1,5 @@
+id: dsq-747524660
+date: 2008-03-23T21:26:27.0000000-07:00
+name: Steven Harman
+avatar: https://disqus.com/api/users/avatars/stevenharman.jpg
+message: <p>As Phil pointed out... counting the number of LOC does not an API make, but if you are interested in reducing the numbers for your Rhino.Mocks tests, then I'd recommend using something like the <a href="http://code.google.com/p/codeincubator/source/browse/Tools/trunk/CodeInc.Tools/CodeInc.Commons/Testing/Specification.cs" rel="nofollow noopener" title="http://code.google.com/p/codeincubator/source/browse/Tools/trunk/CodeInc.Tools/CodeInc.Commons/Testing/Specification.cs">Specification base class</a> (for Rhino.Mocks + MbUnit) or something similar depending on your testing and mocking toolsets.</p>

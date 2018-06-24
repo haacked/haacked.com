@@ -1,0 +1,5 @@
+id: dsq-747529734
+date: 2009-08-19T00:56:00.0000000-07:00
+name: Paco
+avatar: https://disqus.com/api/users/avatars/Paco.jpg
+message: <p>Personally, I would not use it. I wrap the transaction in a unit of work. For 99% of the cases, I start a transaction on the begin of a webrequest, and commit it at the end. <br>With the implementation you use, you have to manage the transaction all over the application, everywhere where data-access is used. In a typical application, just one (or two or three) places are enough.</p>

@@ -1,0 +1,6 @@
+id: dsq-2414101994
+replyToId: dsq-2414045207
+date: 2015-12-17T05:27:33.0000000-08:00
+name: Joseph N. Musser II
+avatar: https://disqus.com/api/users/avatars/josephmusser.jpg
+message: <p>Same here. `String.Format` or `String.Empty` looks confusing and a tiny bit disgusting; but so does using `Int16.MaxValue` instead of `short.MaxValue`. It feels more idiomatic to use the C# keyword.</p>

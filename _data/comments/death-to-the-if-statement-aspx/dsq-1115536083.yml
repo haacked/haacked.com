@@ -1,0 +1,5 @@
+id: dsq-1115536083
+date: 2013-11-09T08:16:27.0000000-08:00
+name: Cristóbal Galleguillos Katz
+avatar: https://disqus.com/api/users/avatars/cristbalgalleguilloskatz.jpg
+message: <p>The metric you propose to track in your last paragraph sounds like cyclomatic complexity. Visual Studio Code Metrics PowerTool calculates it, you can use it in your build task maybe.</p>

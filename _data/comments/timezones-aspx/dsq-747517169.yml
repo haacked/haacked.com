@@ -1,0 +1,5 @@
+id: dsq-747517169
+date: 2006-10-06T07:57:30.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>The Dasblog code does the same thing, but they also serialized the timezone info into XML and then embedded that XML doc, just in case permission is not granted.<br>That was a stroke of genius.</p>

@@ -1,0 +1,5 @@
+id: dsq-747531322
+date: 2011-03-13T18:27:07.0000000-07:00
+name: Long Le
+avatar: https://disqus.com/api/users/avatars/Long Le.jpg
+message: <p>Don't use any MVC...You will get stuck.  MVC can not handle any custom validation and hard to fix...For example...MVC do not has auto decimal and auto prevent letter or number input to EditorFor... It is nightmare to do MVC...</p>

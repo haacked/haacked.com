@@ -1,0 +1,5 @@
+id: dsq-747523194
+date: 2007-10-29T22:21:59.0000000-07:00
+name: Anthony
+avatar: https://disqus.com/api/users/avatars/Anthony.jpg
+message: <p>Base method is not virtual and neither method has a return type. Phil, you must have done that in notepad or the IDE would have complained! haha, great tidbit of knowledge, though. I would have never guessed that internal didnt actually mean internal to the assembly in this case!</p>

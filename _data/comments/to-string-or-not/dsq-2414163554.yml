@@ -1,0 +1,5 @@
+id: dsq-2414163554
+date: 2015-12-17T06:15:08.0000000-08:00
+name: Joshua Drake
+avatar: https://disqus.com/api/users/avatars/disqus_MlvMgPUbLz.jpg
+message: '<p>Another vote for String.METHOD_CALL and string type declaration.  I note that MSDN follows suit: <a href="https://msdn.microsoft.com/en-us/library/system.string.isnullorempty%28v=vs.110%29.aspx" rel="nofollow noopener" title="https://msdn.microsoft.com/en-us/library/system.string.isnullorempty%28v=vs.110%29.aspx">https://msdn.microsoft.com/...</a></p><p>public static String Test(string s)<br>    {<br>      if (String.IsNullOrEmpty(s)) <br>             return "is null or empty";<br>      else<br>             return String.Format("(\"{0}\") is neither null nor empty", s);<br>    }</p>'

@@ -1,0 +1,5 @@
+id: dsq-2586466763
+date: 2016-03-24T02:45:25.0000000-07:00
+name: Kevin Day
+avatar: https://disqus.com/api/users/avatars/disqus_vC4egZiAYJ.jpg
+message: '<p>if you change line:</p><p>if (char.IsUpper(letters[i]) &amp;&amp; !char.IsWhiteSpace(previousChar)) {</p><p>to: if ((char.IsUpper(letters[i]) || char.IsDigit(letters[i])) &amp;&amp; !char.IsWhiteSpace(previousChar)) {</p><p>you will also get a space before a numbers so that Phone1 will become Phone 1</p>'

@@ -1,0 +1,5 @@
+id: dsq-3828921273
+date: 2018-03-28T14:00:37.0000000-07:00
+name: navyjax2
+avatar: https://disqus.com/api/users/avatars/navyjax2.jpg
+message: <p>Need to check to see if "file" is null first, in that first example, or you'll get an unhandled exception when checking its ContentLength and the object is null.  Same with "files" in that second example, as you can't iterate something that is null.</p>

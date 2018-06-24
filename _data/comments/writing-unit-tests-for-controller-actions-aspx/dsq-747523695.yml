@@ -1,0 +1,5 @@
+id: dsq-747523695
+date: 2007-12-10T06:02:23.0000000-08:00
+name: Ben Hall
+avatar: https://disqus.com/api/users/avatars/Ben Hall.jpg
+message: "<p>Don't know if I'm missing something or not, but I can't seem to get VerifyIndexSelectsCorrectViewUsingMockViewFactory() to pass. <br>I also couldn't find it in your download code.  What am I missing?<br>Exception:<br>Error1TestCase 'HomeControllerTests.VerifyIndexSelectsCorrectViewUsingMockViewFactory'<br>failed: Value cannot be null.<br>Parameter name: tempData<br>System.ArgumentNullException<br>Message: Value cannot be null.<br>Parameter name: tempData<br>Source: System.Web.Extensions<br>StackTrace:<br>   at System.Web.Mvc.ViewContext..ctor(IHttpContext httpContext, RouteData routeData, IController controller, Object viewData, TempDataDictionary tempData)</p>"

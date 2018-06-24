@@ -1,0 +1,5 @@
+id: dsq-747527350
+date: 2008-11-27T15:27:03.0000000-08:00
+name: Tudor
+avatar: https://disqus.com/api/users/avatars/Tudor.jpg
+message: <p>Unfortunately, there are still many hosting providers which offer only .NET Framework 2.0 (mainly because Windows 2003 Server R2 comes with .NET 2.0 included, while 3.0 or 3.5 must be installed separately), so it's still early to move on to 3.5. <br>Maybe when most hosting providers will upgrade to Windows 2008 Server (which includes only .NET 3.0, maybe 2008 SP1 will include 3.5), but this won't happen too soon, I'm afraid..</p>

@@ -1,0 +1,5 @@
+id: dsq-747537548
+date: 2012-02-17T04:25:42.0000000-08:00
+name: adamralph
+avatar: https://disqus.com/api/users/avatars/adamralph.jpg
+message: <p>"the log4net 2.0 NuGet package contains the log4net 1.2.11 assembly" - hmmm... while understand the technical reasoning behind it (I also use SemVer for my products), I think this may get very confusing. We have got very used to the NuGet package version matching the product version.<br>What about those not using NuGet? I might be using 1.2.10 and I might wander over to the log4net site (or some other mirror hosting the binary), see 1.2.11 which (according to SemVer is a patch release) and grab the binaries, not realising that what I'm actually moving to is something which should be called 2.0.0.<br>I'm not sure how to resolve this, but I am rather worried about the confusion that may ensue if this kind of divergence continues. Ultimately, the correct technical solution would be to align all the version numbers involved in the product to 2.0.0 (I guess this would now have to be 2.0.1 if this were to happen).</p>

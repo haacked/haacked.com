@@ -1,0 +1,5 @@
+id: dsq-747535141
+date: 2011-04-27T06:49:11.0000000-07:00
+name: Mohamed Meligy
+avatar: https://disqus.com/api/users/avatars/Mohamed Meligy.jpg
+message: <p>I think at this very point in time it's so nice that you can get the Nuget solution and build and so even without having Nuget.<br>Also, the build server / CI tool regardless which one used keeps working seemlessly regardless whether somebody used NuGet or not.<br>Maybe later in .NET vNext when hopefully Nuget is integrated as part of VS and MSBuild, not having to check-in packages folder would make some sense, but for now, I think we should have it the way it is.</p>

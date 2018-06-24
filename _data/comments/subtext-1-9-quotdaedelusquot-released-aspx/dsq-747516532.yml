@@ -1,0 +1,5 @@
+id: dsq-747516532
+date: 2006-09-25T12:56:45.0000000-07:00
+name: marvz
+avatar: https://disqus.com/api/users/avatars/marvz.jpg
+message: <p>Hi,<br>I have problem instaling subtext.. Please help me. I followed the instrucntion and i can go up to step 02. but there is an error that need to register the below.<br>&lt;add verb="GET" path="WebResource.axd"  type="System.Web.Handlers.AssemblyResourceLoader" validate="True" /&gt;<br>i did this and add to web.config &lt;httphandlers&gt; but still doesnt work. Please help thanks.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-1119363348
+date: 2013-11-12T03:17:53.0000000-08:00
+name: Jason Judge
+avatar: https://disqus.com/api/users/avatars/disqus_CrBZ0hHoOj.jpg
+message: '<p>I tried this with BitBucket and could not get it to work (at first). BitBucket provides the full clone command in a form field, and that would not drag between windows. When I realised that selecting *just* the git: URL in the clone, and then dragging that selected text from the form field to GHfW, it all worked like magic. Very cool.</p><p>I think drag-and-drop is okay for a short-cut, but IMO it needs to back up more basic functionality such as copying a URL into a field. Without this post, I would NEVER have guessed that I could do this, and that feels like we are descending back into the mystery-meat days of the 90s.</p>'

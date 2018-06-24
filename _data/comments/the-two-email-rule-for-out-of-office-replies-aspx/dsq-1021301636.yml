@@ -1,0 +1,6 @@
+id: dsq-1021301636
+replyToId: dsq-1021287694
+date: 2013-08-28T16:44:05.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Well one part we could do right away is make sure you don't send auto-replies to emails not sent directly to you. I think they all support that today. That would probably solve 80% of the problem.</p><p>It's usually sending email to a mailing lists that is the real problem and there's no reason to send an out-of-office reply in response to a mailing list email.</p>

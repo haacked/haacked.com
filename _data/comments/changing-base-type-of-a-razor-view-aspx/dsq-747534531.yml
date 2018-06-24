@@ -1,0 +1,5 @@
+id: dsq-747534531
+date: 2011-07-05T01:03:47.0000000-07:00
+name: Sam Moore
+avatar: https://disqus.com/api/users/avatars/Sam Moore.jpg
+message: <p>Hey Phil,<br>I've been playing around with this recently and I ran into a bit of an issue. What do I do when I want to use this functionality across multiple ASP.NET "Areas"? Do I have to make this change in each web.config in each area? Or can I just make it in the root section and delete the other web.configs?</p>

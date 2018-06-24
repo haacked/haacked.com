@@ -1,0 +1,5 @@
+id: dsq-747535197
+date: 2011-09-28T05:14:51.0000000-07:00
+name: John Hughes
+avatar: https://disqus.com/api/users/avatars/John Hughes.jpg
+message: <p>Phil, the fix also does not work for me. The DependsOnTargets solution recommended above also did not work for me, nor did Jim Lamb's solution.<br>The error is:<br>Error193It is an error to use a section registered as allowDefinition='MachineToApplication' beyond application level.  This error can be caused by a virtual directory not being configured as an application in IIS.</p>

@@ -1,0 +1,5 @@
+id: dsq-747530782
+date: 2009-12-02T08:14:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Dan, copy the DLL into the root of your solution and *then* add it to the Solution folder. It can't just be anywhere on your drive. I think it has to be at the same level as the .sln file. <br>The Solution Items folder is a "virtual" folder. It doesn't represent where the actual assembly is on disk.</p>

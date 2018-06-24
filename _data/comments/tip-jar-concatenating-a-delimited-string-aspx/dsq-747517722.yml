@@ -1,0 +1,5 @@
+id: dsq-747517722
+date: 2006-11-21T12:10:45.0000000-08:00
+name: Jon Galloway
+avatar: https://disqus.com/api/users/avatars/Jon Galloway.jpg
+message: <p>When I'm not able to use the String.Join() trick, I've been using a minor variation of what you've got with TrimEnd():<br>foreach(Fake fake in fakes)<br>    delimited += fake.SomeProp + "|";<br>if (!string.IsNullOrEmpty(delimited))<br>delimited.TrimEnd('|');</p>

@@ -1,0 +1,5 @@
+id: dsq-747510851
+date: 2006-07-26T22:53:00.0000000-07:00
+name: Mark L
+avatar: https://disqus.com/api/users/avatars/Mark L.jpg
+message: <p>the difference is this:<br>ISNULL is a non standard Microsoft VB derived statement, where COALESCE is an ANSI standard function.<br>Use ISNULL and your code is likely useless on non MS platforms. Any developer with foresight skips vendor specific additions and sticks to industry standards.</p>

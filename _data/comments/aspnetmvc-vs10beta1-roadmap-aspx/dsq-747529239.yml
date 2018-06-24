@@ -1,0 +1,5 @@
+id: dsq-747529239
+date: 2009-06-09T02:01:00.0000000-07:00
+name: Derek
+avatar: https://disqus.com/api/users/avatars/Derek.jpg
+message: <p>Just to let you guys know, there's a pretty major goof in this installer. <br>The ASP.NET.MVC 1.1 'library', for some reason, is showing the Model helper as 'object' instead of IEnumerable. For this reason, it's not possible to iterate using the page scaffolding method - you have to REALLY leap through hoops.</p>

@@ -1,0 +1,5 @@
+id: dsq-747520547
+date: 2007-05-24T23:10:33.0000000-07:00
+name: Ayende Rahien
+avatar: https://disqus.com/api/users/avatars/Ayende Rahien.jpg
+message: <p>Why not code generating the whole thing?<br>In NHibernate / Active REcord, NHQG will give you:<br>Product.FindAll(<br> Where.Product.ProductId &lt; 5<br>);<br></p>

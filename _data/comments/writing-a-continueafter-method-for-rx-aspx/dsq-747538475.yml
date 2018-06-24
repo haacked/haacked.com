@@ -1,0 +1,5 @@
+id: dsq-747538475
+date: 2012-10-09T13:41:31.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Jerome I'm not too concerned about <code>Aggregate</code> calling a lambda. After all, in your solution you suggest calling <code>ToArray</code>. The implementation of that calls <code>ToList</code>. The implementation of <em>that</em> calls <code>Aggregate</code>. So we're back to square one! :)</p>

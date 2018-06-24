@@ -1,0 +1,5 @@
+id: dsq-747529666
+date: 2009-08-17T18:07:00.0000000-07:00
+name: Asbj&#248;rn Ulsberg
+avatar: https://disqus.com/api/users/avatars/Asbj&#248;rn Ulsberg.jpg
+message: <p>I agree with Luke Sampson. Perhaps a better approach would be to throttle and filter which control methods to call based on [AcceptFormat("application/atom+xml")] attributes or something similar? Being able to route the request to the correct control method based on the requested format would be nice to have handled on the same level as [AcceptVerbs].<br>The underlying logic would in most cases be very similar for both "text/html" and "application/atom+xml" return types, but as Luke mentions, you'd like to alter the output for Atom documents so the header is added and such (which obviously should be done once, perhaps through a response filter or something similar).</p>

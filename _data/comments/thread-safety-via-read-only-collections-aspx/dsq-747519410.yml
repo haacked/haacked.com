@@ -1,0 +1,5 @@
+id: dsq-747519410
+date: 2007-03-25T20:31:40.0000000-07:00
+name: Bill Pierce
+avatar: https://disqus.com/api/users/avatars/Bill Pierce.jpg
+message: <p>If you want to get really hard core read only uber-cool, just expose an IEnumerable.  You can still use it for databinding and enumeration, don't have to worry about people even trying to modify the contents.  If the user wants to, they can use it to instantiate their own collection and have their way with it.</p>

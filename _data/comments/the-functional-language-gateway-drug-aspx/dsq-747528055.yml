@@ -1,0 +1,5 @@
+id: dsq-747528055
+date: 2009-02-15T09:52:59.0000000-08:00
+name: Joe Chung
+avatar: https://disqus.com/api/users/avatars/Joe Chung.jpg
+message: <p>There's a bug in your imperative version.  What if currentEntry is null before it enters the while loop?  You should set newSlug to slug when you declare it in case this happens.</p>

@@ -1,0 +1,5 @@
+id: dsq-747524224
+date: 2008-02-20T23:11:05.0000000-08:00
+name: John Lopez
+avatar: https://disqus.com/api/users/avatars/John Lopez.jpg
+message: <p>Concealing a change behind smoke and mirrors really seems to miss the point of interfaces. Especially concealing the change with a potential for run time errors (and no "them's the breaks" really isn't reassuring). An interface is a promise; new features should really be a *new promise* and thus behind a new interface.<br>In our systems old interfaces remain in place but are obsoleted over time. Do we expect to recompile for 3.5 SP1? Of course not, but I am not surprised if a new interface for old functionality becomes available. Nor am I surprised if the old interface is marked obsolete and in the next major version we are expected to compile against the new interface and even make code changes over time.<br>I love static typing *because* it makes such things explicit at compile time and avoids the kinds of nonsense you see in DotNetNuke with "unable to load assembly" runtime errors being a favorite pastime. What am I missing here?</p>

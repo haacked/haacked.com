@@ -1,0 +1,5 @@
+id: dsq-747532909
+date: 2010-08-06T09:47:01.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@jmorris, why would calling a property be ok but a method not be ok? <br>I dispute the claim that this must be an SOC violation. SOC is about the direction of knowledge. For example, when you look at an MVC diagram (<a href="http://en.wikipedia.org/wiki/File:ModelViewControllerDiagram2.svg" rel="nofollow noopener" title="http://en.wikipedia.org/wiki/File:ModelViewControllerDiagram2.svg">en.wikipedia.org/...</a>), you can see that the controller has a direct association to the view. In other words, it has knowledge about the view. <br>But the view has an indirect association to the controller. In the example I blogged, the view is given a method and it's told to call it. It doesn't have internal knowledge of the controller.<br>Another way to think about it is to think of the method as a method of the model. Calling methods is allowed in a view.<br>I agree, this can be abused, but I don't think it's automatically an SOC violation.</p>

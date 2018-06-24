@@ -1,0 +1,5 @@
+id: dsq-747531574
+date: 2010-02-06T06:44:12.0000000-08:00
+name: Bill F
+avatar: https://disqus.com/api/users/avatars/Bill F.jpg
+message: <p>I 2nd Fisher's bug... I updated to the new vsdoc and 1.4.1 and get the @1108:1 warning, but it might as well be an error because you lose js intellisense because of it. Any updates to fix this yet?</p>

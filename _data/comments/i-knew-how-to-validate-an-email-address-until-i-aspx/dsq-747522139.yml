@@ -1,0 +1,5 @@
+id: dsq-747522139
+date: 2010-07-25T18:28:44.0000000-07:00
+name: tom
+avatar: https://disqus.com/api/users/avatars/tom.jpg
+message: "<p>I have this below issue in Perl.<br>I have a file which I get as an input. This file contains a list of<br>email addresses.<br>I would like to parse the name before '@' and store in an array.<br>For eg. in : abcdefgh@gmail.com, i would like to parse the name abcdefgh.<br>My intention is to get only the string before '@'.<br>But while I use regular expression : $mail =~ \"\\@\" in Perl, it's not giving me the result.<br>Also, how will I find that the character '@' in which index of the email ID? I appreciate if you can help me out.<br>#! usr/bin/perl<br>$mail = \"abcdefgh@gmail.com\";<br>if ($mail =~ \"\\@\" ) {<br>print(\"my name = good!\");<br>}<br>else<br>{<br>print(\"my name = bad!\");<br>}<br><br>if ($mail =~ \"@\" ) will work only if  $mail = \"abcdefgh\\@gmail.com\";<br>but in my case, i will be getting the input with email address as its.<br>Not with an escape character.<br>Waiting for a solution from you...<br>Thanks,<br>Tom</p>"

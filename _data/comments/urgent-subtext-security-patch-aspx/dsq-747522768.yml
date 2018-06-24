@@ -1,0 +1,5 @@
+id: dsq-747522768
+date: 2007-09-20T05:25:15.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Well all the information you need is in the patch itself using Reflector. However, I think the attack isn't trivial in that someone would have to dig around a bit to find out exactly how to exploit it.</p>

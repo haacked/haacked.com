@@ -1,0 +1,5 @@
+id: dsq-747516917
+date: 2008-01-20T16:54:07.0000000-08:00
+name: Patrick
+avatar: https://disqus.com/api/users/avatars/Patrick.jpg
+message: <p>Umm, you gotta be kidding me - this captcha is for real?  Regardless of what encryption is used, a simple script in just about any language could pass this captcha pretty easily. Hell, if it only requires a javascript engine to pass it, a bot coder could simply have a application use an embedded Firefox/IE control and just parse the page in that and then grab the final value for submition - they could even submit it using the Firefox/IE control!</p>

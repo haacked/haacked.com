@@ -1,0 +1,5 @@
+id: dsq-747518887
+date: 2007-03-03T04:20:07.0000000-08:00
+name: Ayende Rahien
+avatar: https://disqus.com/api/users/avatars/Ayende Rahien.jpg
+message: <p>&gt; Just ask Rob Conery what happens if you give commit access too freely.<br>I sense a story that I am not familiar here, what are the details?<br>@Jeff,<br>I want a _live_ source, which mean that I can do look at the history, move between revisions, etc.<br>Getting a code dump is something that isn't really useful.<br>Not having a way to send a patch is a killer, period.<br>It raises the bar for developers who wish to contribute to the project, and it raises the bar for the commiters on the project.<br>As Rob just said, if you get a 2Mb project, you have to do a lot more work to find out what have changed.<br>&gt;What's the alternative? Keeping the peons outside the castle walls and forcing them to send you patches?<br>Um, yes?<br>That is the way that 90% of the OSS projects are being run. You don't get commit rights just because you are want to.<br>You send a patch to the commiters, and if they like it, they commit it.<br></p>

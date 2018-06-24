@@ -1,0 +1,5 @@
+id: dsq-747525827
+date: 2008-07-24T03:58:14.0000000-07:00
+name: Daniel
+avatar: https://disqus.com/api/users/avatars/Daniel.jpg
+message: <p>I get the concept (I think), but I'm not sure I agree about the data-access part.  In my experience, the most fragile piece of a typical forms-on-data business app is the database.  In almost every company I've worked with, "The Database" is a) not in source control and b) not versioned or tested.  Developers routinely develop a fear of change to the point they would just as soon create a separate table/view/proc than touch existing schema because "we don't know what else uses that".<br>So, I think a better approach would be to develop, test, and in general "think" about data schema &amp; access code just like you do other code.  Sure, separate tests if you need, but in the end try to make it all tested...<br></p>

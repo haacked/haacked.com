@@ -1,0 +1,5 @@
+id: dsq-747524348
+date: 2008-03-10T15:30:02.0000000-07:00
+name: Andrew Davey
+avatar: https://disqus.com/api/users/avatars/Andrew Davey.jpg
+message: <p>Are you inventing something different from the UriTemplate and UriTemplateTable classes already found in .NET 3.5?<br>I have been using those classes in WCF and separately in my own web framework with great success. Has someone checked you are not re-inventing the wheel?</p>

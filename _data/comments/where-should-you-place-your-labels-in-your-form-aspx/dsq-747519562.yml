@@ -1,0 +1,5 @@
+id: dsq-747519562
+date: 2007-04-11T22:38:18.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Damian - In that situation, I'm not so sure why having the fields closer together would matter? In fact, it might even be problematic if it's a large form with lots of fields.<br>I've run into the situation where each form field is a one on top of each other and I sort of forget which field I'm on and have to look left for the label. <br>If you mean because mousing to the next field is faster, hopefully users are using the tab key for a form they see every day. :)</p>

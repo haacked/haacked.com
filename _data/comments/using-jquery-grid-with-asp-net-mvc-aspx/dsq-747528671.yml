@@ -1,0 +1,5 @@
+id: dsq-747528671
+date: 2009-04-22T19:54:00.0000000-07:00
+name: Will
+avatar: https://disqus.com/api/users/avatars/Will.jpg
+message: <blockquote><br>Hi Guys,<br>Does the solution suggested by Andrey solve the above error?<br>It doesn't worked for me.<br></blockquote><p><br>Worked for me. I changed:<br>    var pathtojsfiles = "js/";<br>to<br>    var pathtojsfiles = "/Scripts/js/"</p>

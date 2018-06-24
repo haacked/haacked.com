@@ -1,0 +1,5 @@
+id: dsq-747517807
+date: 2006-12-21T01:51:56.0000000-08:00
+name: Thomas S. Trias
+avatar: https://disqus.com/api/users/avatars/Thomas S. Trias.jpg
+message: <p>The only unfortunate drawback I have found with RegisterExpandoAttribute is that it is limited to string content that gets enclosed by double quotes by the RenderExpandoAttribute routine;  I would prefer the ability to be able to render either completely "un-sanitized" JavaScript or a JSON serialization as the value of the expando attribute.<br>In the example above, this would let you set the attribute "contenteditable" to an actual Boolean value instead of a string.  It may not mean much for a small number of controls or a small amount of JavaScript logic, but for larger data sets and complex logic appropriate typing makes a world of difference performance-wise.<br>-Tom<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747530830
+date: 2010-02-15T21:44:54.0000000-08:00
+name: trinity
+avatar: https://disqus.com/api/users/avatars/trinity.jpg
+message: "<p>even though this isn't really true localization, it does give you a good example of how to implement the localization strings in the models, with the <br>ErrorMessageResourceType = typeof(Resources), ErrorMessageResourceName = \"PriceIsNotRight\")<br>line. <br>this is a great example of localization: <a href=\"http://code.google.com/p/aspmvclocalization/\" rel=\"nofollow noopener\" title=\"http://code.google.com/p/aspmvclocalization/\">http://code.google.com/p/aspmvclocalization/</a> - but it leaves out what I said above.  enjoy...</p>"

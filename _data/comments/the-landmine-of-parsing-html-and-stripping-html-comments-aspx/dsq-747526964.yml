@@ -1,0 +1,5 @@
+id: dsq-747526964
+date: 2008-11-11T13:51:20.0000000-08:00
+name: Filini
+avatar: https://disqus.com/api/users/avatars/Filini.jpg
+message: <p>@Haaked, in this case, your problem is not removing the comments (as I said in my earlier comment, XmlDocument is an easy solution). <br>Your problem is getting a valid XHTML in the first place, and that is a road to hell... I mean, an interesting challenge :-)</p>

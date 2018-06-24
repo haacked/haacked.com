@@ -1,0 +1,5 @@
+id: dsq-747525117
+date: 2011-04-21T21:00:09.0000000-07:00
+name: susu kolostrum
+avatar: https://disqus.com/api/users/avatars/susu kolostrum.jpg
+message: "<p>My only problem with testing urls is I don't really care what my urls look like, read: \"I have no *good* reason to care\". As long as when i call ActionLink passing in whatever values, it generates a url such that requesting that url will pass those values to my controller action. If that is true then I'm happy.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747526135
+date: 2008-08-22T05:10:29.0000000-07:00
+name: George McKee
+avatar: https://disqus.com/api/users/avatars/George McKee.jpg
+message: <p>Wili asked what this SQL Injection attack will do.  This looks identical to an attack I saw on one of my classic ASP sites in late April and early May.  If sucessful the SQL script (which is binary encoded) injects an XSS script tag into every (n)varchar field of every table in your database.  The length of the varchar fields affected must be about 50 characters or larger to be affected.  Cleaning up this mess is a real PITA.  Besides validating the length and data type of anything collected off the query string other things you can do to protect yourself is to limit the length of an allowable query string and disallow SQL reserved words like DECLARE or CAST or EXEC.</p>

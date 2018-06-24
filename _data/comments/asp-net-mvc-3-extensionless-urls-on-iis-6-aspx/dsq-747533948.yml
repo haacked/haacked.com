@@ -1,0 +1,5 @@
+id: dsq-747533948
+date: 2011-03-09T22:04:45.0000000-08:00
+name: doug dexter
+avatar: https://disqus.com/api/users/avatars/doug dexter.jpg
+message: <p>I've been trying to get an MVC3 application to run on an XP Pro box with IIS6 for a week now, and haven't been able to do so..<br>I tried this as well, except for the section regarding Web Services Extension node and i still get the error:<br>HTTP 401.3 - Access denied by ACL on resource<br>Internet Information Services<br>I'm not sure what the security settings on the directory (c:\inetpub\wwwroot\mvc3App) is supposed to be though..<br>dd</p>

@@ -1,0 +1,5 @@
+id: dsq-2609245368
+date: 2016-04-06T06:29:50.0000000-07:00
+name: Chris Cinelli
+avatar: https://disqus.com/api/users/avatars/chris_cinelli.jpg
+message: '<p>“A clever person solves a problem. A wise person avoids it.” ― Albert Einstein</p><p>If you add the current branch to your prompt, you will never commit to the wrong branch: <a href="http://code-worrier.com/blog/git-branch-in-bash-prompt/" rel="nofollow noopener" title="http://code-worrier.com/blog/git-branch-in-bash-prompt/">http://code-worrier.com/blo...</a></p><p>You may also want to add to your ~/.bash_profile:</p><p>GIT_PS1_SHOWUPSTREAM="verbose"<br>GIT_PS1_SHOWDIRTYSTATE=true<br>GIT_PS1_DESCRIBE_STYLE="branch"<br></p>'

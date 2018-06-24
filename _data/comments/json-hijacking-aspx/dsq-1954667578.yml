@@ -1,0 +1,6 @@
+id: dsq-1954667578
+replyToId: dsq-1954499047
+date: 2015-04-08T22:39:41.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yeah, but with this specific attack, the attacker isn't between the client and the server. So a packet sniffer won't pick up the data. The JSON hijacking is what gets the data over to the attacker.</p>

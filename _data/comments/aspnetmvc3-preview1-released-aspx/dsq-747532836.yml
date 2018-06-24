@@ -1,0 +1,5 @@
+id: dsq-747532836
+date: 2010-08-26T10:48:01.0000000-07:00
+name: Scotteg
+avatar: https://disqus.com/api/users/avatars/Scotteg.jpg
+message: <p>Phil,<br>As for the name of the Dynamic View Object.  I don't understand why the ViewData object itself can't just be give Dynamic traits.  So people should be able to do this ViewData.Message = "Fred";.<br>Regards,<br>ScottEg</p>

@@ -1,0 +1,5 @@
+id: dsq-747532882
+date: 2010-08-02T13:48:58.0000000-07:00
+name: Robin Osborne
+avatar: https://disqus.com/api/users/avatars/Robin Osborne.jpg
+message: <p>Given that these are dynamic properties, presumably we won't get the helping hand of intellisense?  Just a little concerned that splitting work between developers working on the Controller and those on the View may bring in extra bugs related to typos on the property names.<br>Other than that, great little addition making for some very pretty code!</p>

@@ -1,0 +1,5 @@
+id: dsq-747511396
+date: 2005-04-09T22:09:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Thanks for the update.  The flickering is a problem with how Firefox lays out floating elements (the text floats to the left, the sidebar floats to the right).  The problem doesn't affect IE.<br><br><br><br>I put something in place to reduce the flickering, but apparently I haven't solved it yet.</p>

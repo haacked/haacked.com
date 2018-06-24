@@ -1,0 +1,5 @@
+id: dsq-747523574
+date: 2007-12-18T11:14:59.0000000-08:00
+name: Chris Moorhouse
+avatar: https://disqus.com/api/users/avatars/Chris Moorhouse.jpg
+message: "<p>I guess really it depends on how \"dirty\" one feels about the alternatives to Test Specific Subclasses in the protected method case. You could always leave it untested !;)<br>Being a novice and all, here's what I feel about this testable class creation right off the bat:<br>Partial mocks = <strong>automated</strong> = good<br>Test Specific Subclasses = <strong>manual</strong> = bad<br>Yes, it's an oversimplification, but put it this way: why do you prefer \"having my test fully self-contained\" if you're not having the same \"dirty\" feeling that these other devs are expressing? Maybe you're just less sensitive to the dirt?</p>"

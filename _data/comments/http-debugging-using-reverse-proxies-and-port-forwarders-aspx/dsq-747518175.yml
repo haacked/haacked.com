@@ -1,0 +1,5 @@
+id: dsq-747518175
+date: 2007-01-10T23:35:18.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I use Ethereal which also uses winpcap. But an all-purpose sniffer creates information overload. I like working with Fiddler because it's optimized for dealing with HTTP requests. Makes it easy to tweak and replay a request.</p>

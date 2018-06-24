@@ -1,0 +1,5 @@
+id: dsq-747532892
+date: 2010-08-02T21:07:07.0000000-07:00
+name: Shlomo Abraham
+avatar: https://disqus.com/api/users/avatars/Shlomo Abraham.jpg
+message: "<p>I don't understand the gain of this, and I instinctively dislike it. What's gained by changing from ViewData[\"Message\"] to ViewWhatever.Message? I keep hearing 'cleaner code', but to me it's not cleaner: The former makes it look like a dictionary (which it is), the latter makes it look like a strongly-typed, compile-checked property (which it isn't).<br>As for names, I would suggest ViewDynamo. ViewModel is too easily confused with the view model pattern.</p>"

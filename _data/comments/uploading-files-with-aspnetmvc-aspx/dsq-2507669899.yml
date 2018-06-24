@@ -1,0 +1,5 @@
+id: dsq-2507669899
+date: 2016-02-10T23:13:53.0000000-08:00
+name: Rajeev Jha
+avatar: https://disqus.com/api/users/avatars/Rajeev_786.jpg
+message: <p>[HttpPost]<br>public ActionResult Edit(int id, Product collection, HttpPostedFileBase[] MultipleFiles)<br>{<br>   if (MultipleFiles != null)<br>   {<br>       foreach (var fileBase in MultipleFiles)<br>       {<br>          //Code Goes Here<br>       }<br>   }<br>}</p>

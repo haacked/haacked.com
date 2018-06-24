@@ -1,0 +1,5 @@
+id: dsq-2543384543
+date: 2016-02-29T07:53:07.0000000-08:00
+name: D.R.
+avatar: https://disqus.com/api/users/avatars/disqus_S85TBlOi82.jpg
+message: <p>&gt; It may be that the other regular expression engines are culturally invariant by default when ignoring case. That seems like the correct default to me.</p><p>Why so? Unicode defines sets for uppercase/lowercase letters, and I'm glad that .NET has a regular expression engine which respects Unicode wherever it can.</p><p>It is questionable, however, that a-z includes a turkish i as well. I guess, a good way is to not use A-Z, a-z or 0-9 altogether, and instead use \p{Lu}, \p{Lt}, \d. Nobody would expect that a lowercase turkish i would not match here.</p><p>Loved Friedl's book! Recommended for every programmer!</p>

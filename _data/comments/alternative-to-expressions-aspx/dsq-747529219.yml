@@ -1,0 +1,5 @@
+id: dsq-747529219
+date: 2009-06-04T00:25:00.0000000-07:00
+name: Eric hexter
+avatar: https://disqus.com/api/users/avatars/Eric hexter.jpg
+message: <p>I pulled down the source code and implemented the UrlHelper version of this.  It is an interesting approach, although I kind of struggle with why have a runtime generation versus a build time code gen.<br>What is interesting.. is Resharp totally does not pick up the new methods created by the generation.. but Visual Studio understands the extensions and provides full intellisense with this approach. <br>I like the idea of using this for Url generation particularly for my Form markup. Since I just need the url with out the parameters for forms. since all of my parameters typically come from my form input elements..... love to see more on this and perhaps a version that does this with a postBuild step similar to the aspCompile... <br>keep up the experiements in alternative approaches, I love to see the little prototypes in areas of the framework that are not well documented.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747519576
+date: 2007-04-12T02:22:24.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Kevin: Well there's a fine line. For formatting stuff, especially stuff that changes a lot, I don't like to put it in code. For example, I don't unit test my CSS.  I don't consider this \"logic\" as much as formatting. Though it really straddles the line.<br>@Karthik: I wanted to avoid having to write a bunch of one-off methods that would require me to recompile the app just for a minor formatting change.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747530083
+date: 2012-05-01T22:53:35.0000000-07:00
+name: Ahmed Subhani
+avatar: https://disqus.com/api/users/avatars/kmasubhani.jpg
+message: <p>Will reader.SetupSequence(r =&gt; r.Read())<br>           .Returns(true)<br>           .Returns(true)<br>           .Returns(false);<br>not work?</p>

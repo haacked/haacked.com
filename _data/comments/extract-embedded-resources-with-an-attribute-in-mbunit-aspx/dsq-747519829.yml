@@ -1,0 +1,5 @@
+id: dsq-747519829
+date: 2007-05-17T03:34:26.0000000-07:00
+name: Rob Cecil
+avatar: https://disqus.com/api/users/avatars/Rob Cecil.jpg
+message: <p>I would also make this change, otherwise, WriteResourceToFile( Stream ) below blows up with a null stream.<br>      [System.Diagnostics.DebuggerNonUserCodeAttribute( )]<br>      public override object Execute( object o, IList args )<br>      {<br>        Assembly assembly = attribute.Type.Assembly;<br>        if ( !new List&lt;string&gt;( assembly.GetManifestResourceNames( ) ).Contains( attribute.ResourceName ) )<br>        {<br>          throw new Exception( String.Format( "Unable to find embedded resource '{0}' in assembly '{1}'.", <br>                  attribute.ResourceName, assembly.FullName ) );<br>        }</p>

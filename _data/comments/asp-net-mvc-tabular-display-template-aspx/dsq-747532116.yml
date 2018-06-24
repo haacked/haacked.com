@@ -1,0 +1,5 @@
+id: dsq-747532116
+date: 2010-05-05T23:17:34.0000000-07:00
+name: Felipe Lima
+avatar: https://disqus.com/api/users/avatars/Felipe Lima.jpg
+message: <p>Phil, I never understood why the method ShouldShow checks if the model is not a "complex type". I'm having problems today because of this check, so I'm workarounding by adding a fake string type converter to my model, so it is "masked as a simple type". However, this has caused me other side effects as well, so I'm a bit lost on this. Could you explain why EditorForModel() won't render the templates for "complex types"?<br>Thanks,<br>Felipe</p>

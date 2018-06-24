@@ -1,0 +1,5 @@
+id: dsq-747522538
+date: 2007-10-13T21:43:57.0000000-07:00
+name: Jammer
+avatar: https://disqus.com/api/users/avatars/Jammer.jpg
+message: "<p>Thanks, but I understand that I can do a global Web.config setting, but this is problematic for two reasons: 1)It doesn't compile out code that I don't want released and 2) Now I have to manage multiple Web.config files for the different envrionments that I need to deploy... <br>The alternative @page directive are a horrible solution b/c I'll need to changes multiple files ( and double check that I got them all correct)<br>For example: In one project, I was using the contitional compiler directive to store database connection strings (with user/pass) in code constants and building seperate releases to each environment.  Without the ability to specify compiler directives at the project level, I'm putting these in the Web.config file, but I'm leery of storing database user/pass credentials in a flat text file that sitting on a public web server.  Do you suggest a better alternative to this scenario?</p>"

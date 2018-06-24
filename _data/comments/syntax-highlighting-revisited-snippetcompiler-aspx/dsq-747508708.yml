@@ -1,0 +1,5 @@
+id: dsq-747508708
+date: 2004-06-17T18:45:00.0000000-07:00
+name: Jonathan de Halleux
+avatar: https://disqus.com/api/users/avatars/Jonathan de Halleux.jpg
+message: <p>Hi,<br><br><br><br>If you are interrested, I have written this syntax highlighter in jscript ( <a href="http://www.codeproject.com/jscript/highlight.asp" rel="nofollow noopener" title="http://www.codeproject.com/jscript/highlight.asp">http://www.codeproject.com/jscript/highlight.asp</a>) and ported it to C# (<a href="http://www.codeproject.com/csharp/highlightcs.asp" rel="nofollow noopener" title="http://www.codeproject.com/csharp/highlightcs.asp">http://www.codeproject.com/csharp/highlightcs.asp</a>). It can render C#, VB, xml, C, C++. <br><br><br><br>The grammars are entierly written in xml  and the rendering is done through xsl templates. This makes it very easy to edit and customize.<br><br><br><br>Jonathan</p>

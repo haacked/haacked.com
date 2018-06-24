@@ -1,0 +1,5 @@
+id: dsq-3239527398
+date: 2017-04-04T09:37:57.0000000-07:00
+name: raeesiqbal
+avatar: https://disqus.com/api/users/avatars/raeesiqbal.jpg
+message: "<p>I've created a tool called \"ssh-agent-helper\" that invokes `ssh-agent` and makes it available globally, so that, you can use `ssh-add`, `ssh` or `git` from any terminal e.g. CMD, Bash, PowerShell etc without any configuration.</p><p>You can find it here: <a href=\"https://github.com/raeesbhatti/ssh-agent-helper\" rel=\"nofollow noopener\" title=\"https://github.com/raeesbhatti/ssh-agent-helper\">https://github.com/raeesbha...</a></p>"

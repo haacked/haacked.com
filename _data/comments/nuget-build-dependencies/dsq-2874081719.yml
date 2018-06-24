@@ -1,0 +1,5 @@
+id: dsq-2874081719
+date: 2016-09-02T22:03:03.0000000-07:00
+name: Edwin Quai Hoi
+avatar: https://disqus.com/api/users/avatars/edwinquaihoi.jpg
+message: <p>Coming from a java world where build and dependency management is mature..it was a shock trying to implement devops/ continuous integration on a .net platform. In my opinion .net needs to follow the maven way where build and dependency management are first class citizens along with a bunch of conventions and archtetypes to build a typical .net artifact</p>

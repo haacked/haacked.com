@@ -1,0 +1,5 @@
+id: dsq-747522246
+date: 2007-09-05T03:56:43.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Joe That's definitely a good point. Extensibility, especially the kind I'm talking about is costly. But so is pissing off a lot of influencers with a poorly implemented implementation of a test framework.<br>Honestly, I think the cheapest solution would have been to bundle NUnit and take the risk. After all, if Apple can ship with an OSS Kernel, how threatening is a test framework within a development tool that really is only going to get used by a tiny % of the population.<br>Again, the point of this post is to spur some thinking and get some ideas on the table. I don't know what the best solution is. I just have my opinions.</p>

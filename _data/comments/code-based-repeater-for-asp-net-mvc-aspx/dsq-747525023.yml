@@ -1,0 +1,5 @@
+id: dsq-747525023
+date: 2008-05-04T16:33:36.0000000-07:00
+name: James Gregory
+avatar: https://disqus.com/api/users/avatars/James Gregory.jpg
+message: <p>Overkill? Obtuse certainly.<br>I agree with Scott H that it's probably all unnecessary, leave it to javascript; however, if you really want to do it, why is the mvc implementation better than simply using an if statement?<br>Why is this better than:<br>&lt;% foreach ... {<br>   if IsAlt { %&gt;<br>...<br>&lt;% } else { %&gt;<br>...<br>&lt;% }<br>} %&gt;<br>MVC seems to be forgetting to KISS...</p>

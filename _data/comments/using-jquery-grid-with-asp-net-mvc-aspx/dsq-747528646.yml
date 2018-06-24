@@ -1,0 +1,5 @@
+id: dsq-747528646
+date: 2009-04-15T22:21:00.0000000-07:00
+name: Peter.O
+avatar: https://disqus.com/api/users/avatars/Peter.O.jpg
+message: "<p>Hi Phil,<br>The post was easy to follow and worked the first time.<br>I don't know if it's an 'acquired taste' or just pain all the way. But when I finished, it left this sore feeling that there's too much 'string'iness around it. Table nesting really does feel cleaner than the jqGrid implementation. <br>In addition, table nesting and LINQ paging affords me easier server-side control over how much data actually gets fetched from the server per request ie: one page full.<br>Cool theming support there but it has a low priority.</p>"

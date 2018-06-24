@@ -1,0 +1,5 @@
+id: dsq-747508249
+date: 2005-03-30T22:58:00.0000000-08:00
+name: Miracle
+avatar: https://disqus.com/api/users/avatars/Miracle.jpg
+message: <p>We have the same issue also, glad to see this thread... however we don't know where should we place the code (ServicePointManager.Expect100Continue = false;) in our ASP.NET application. <br><br><br><br>Can someone help? Thanks.</p>

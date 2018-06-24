@@ -1,0 +1,5 @@
+id: dsq-747537737
+date: 2012-03-15T05:00:45.0000000-07:00
+name: Markus Olsson
+avatar: https://disqus.com/api/users/avatars/Markus Olsson.jpg
+message: <p>I pushed my raw TODO list up there as well, hopefully there's something of value there. <br>One of the more ambitious ideas I had was to keep a copy of every displayed graph (effectively every repo update) so that you could step back and forth whilst demoing. <br>Rebases seems to take a while to get a grasp of so with this you could do the rebase, at which point the viewer show the after-the-fact graph and then you could use arrow keys or a slider to toggle between the before- and after graph.<br>Oh, and PS. Very nicely done Phil! I yield :) DS</p>

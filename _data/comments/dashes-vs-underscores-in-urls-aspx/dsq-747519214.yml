@@ -1,0 +1,5 @@
+id: dsq-747519214
+date: 2007-03-15T07:59:22.0000000-07:00
+name: Steven Harman
+avatar: https://disqus.com/api/users/avatars/stevenharman.jpg
+message: <p>Good thing we made that totally configurable in Subtext. It took me all of 3 seconds to change the URL construction for my blog - and 2 of those seconds were spent navigating to my site's web.config file.<br>Also... when did you change Subtext to add the "author" class around the comment div for the Comments.ascx control?</p>

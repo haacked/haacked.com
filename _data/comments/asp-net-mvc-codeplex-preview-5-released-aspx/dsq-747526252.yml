@@ -1,0 +1,5 @@
+id: dsq-747526252
+date: 2008-08-31T06:20:41.0000000-07:00
+name: Throwspoop
+avatar: https://disqus.com/api/users/avatars/Throwspoop.jpg
+message: '<p>@throwspoop: Any idea why this error would occur: "The UrlRoutingHandler is not used to directly handle requests."<br>This was caused by the fact that I still have VS2008 SP1 installed on machine. Update to the RTM SP1 and all is good.</p>'

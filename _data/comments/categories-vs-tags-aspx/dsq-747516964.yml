@@ -1,0 +1,5 @@
+id: dsq-747516964
+date: 2006-09-27T05:02:59.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Ah! I see. That is a challenge. In my case, I like the format that the Windows Live Writer uses for tags.  So I wouldn't strip the tags at all, just leave them in the content as-is.<br>I would merely parse them for meta-data purposes, tag clouds, etc...</p>

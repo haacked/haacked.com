@@ -1,0 +1,6 @@
+id: dsq-1118380009
+replyToId: dsq-1117973551
+date: 2013-11-11T10:33:57.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I'm actually a big fan of the ternary operator. It's more declarative than an if statement. Typically, a ternary operator is used to return a value based on a condition. It doesn't branch lines of control.</p>

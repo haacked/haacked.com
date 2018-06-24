@@ -1,0 +1,5 @@
+id: dsq-747513037
+date: 2005-09-23T02:58:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Heh heh.. you're busting my chops.  <br><br><br><br>If you read the article, you'll notice that the var keyword is statically typed using type inference.  In otherwords, it's compile time evaluated.  In other words, there is no overhead.</p>

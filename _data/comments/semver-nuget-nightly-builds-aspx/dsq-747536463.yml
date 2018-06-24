@@ -1,0 +1,5 @@
+id: dsq-747536463
+date: 2011-10-25T18:13:06.0000000-07:00
+name: Rob
+avatar: https://disqus.com/api/users/avatars/Rob.jpg
+message: "<p>I'm totally digging the idea of <br><strong>1.0.1-alpha.###</strong><br>The dash separation is perfectly legal, improves readability a bit, and makes  a pretty nice separator between the version and the pre-release parts. It may even help in determining you have a prerelease because you can just scan the version for \"-\".<br>Showing an ordering: <br>1.0.0-alpha.001<br>1.0.0-apha<br>1.0.0-alpha1.001<br>1.0.0-alpha1.002<br>1.0.0-apha1<br>1.0.0-beta<br>1.0.0-rc<br>1.0.0<br><br>Thoughts?</p>"

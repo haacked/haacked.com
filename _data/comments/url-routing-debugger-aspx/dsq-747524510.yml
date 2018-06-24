@@ -1,0 +1,5 @@
+id: dsq-747524510
+date: 2008-07-25T09:02:01.0000000-07:00
+name: Martin From
+avatar: https://disqus.com/api/users/avatars/Martin From.jpg
+message: <p>Hey Phil and visitors,<br>i have created this VS Solution that includes both the RouteDebugger, the RouteEvaluator, Demo Web and Tests.<br>It is working with MVC Preview 4.<br>Havent really changed any code except for marking a few classes internal.<br>I have included a comment of what to do/remember, to make the Route Test work if implementing it in an existing solution.<br>It can be downloaded here <a href="http://dc60.2shared.com/download/3653384/dbfe1671/RouteHelper.zip?tsid=20080725-225604-36839cd6" rel="nofollow noopener" title="http://dc60.2shared.com/download/3653384/dbfe1671/RouteHelper.zip?tsid=20080725-225604-36839cd6">dc60.2shared.com/.../RouteHelper.zip</a><br><br>Hope it can be of any use for someone out there.<br><br>Martin From</p>

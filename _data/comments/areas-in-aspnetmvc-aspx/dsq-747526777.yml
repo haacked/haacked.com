@@ -1,0 +1,5 @@
+id: dsq-747526777
+date: 2008-11-04T20:43:38.0000000-08:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>Hi,<br>I prefer to have "areas" in the controllers and views folder, I think it's more beautiful instead of have a folder called areas with the tree?<br>Example there admin is the "area":<br>/Controllers/Admin/UsersController.cs<br>/Views/Admin/Users/Index.aspx<br>/Views/Admin/Users/*.aspx</p>

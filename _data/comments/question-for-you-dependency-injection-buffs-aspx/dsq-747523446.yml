@@ -1,0 +1,5 @@
+id: dsq-747523446
+date: 2007-11-26T19:31:53.0000000-08:00
+name: Jeremy D. Miller
+avatar: https://disqus.com/api/users/avatars/Jeremy D. Miller.jpg
+message: <p>Phil,<br>There isn't anyway in StructureMap 2.0 to do anything like that.  I suspect that it'll be in 2.1 shortly though.  It'll be in the programmatic Fluent Interface, not the configuration xml though.<br>I'd do it by going for the classic 2 constructor path and mark the no arg constructor like this:<br>[DefaultConstructor] // forces StructureMap to use this ctor instead of the greedier one below<br>public HomeController(){<br>   // set up the provider thingie<br>}<br>// Testing constructor<br>public HomeController(provider){<br>    _provider = provider;<br>}<br>As you might suspect, I never use the Provider stuff.</p>

@@ -1,0 +1,5 @@
+id: dsq-747525083
+date: 2010-12-30T06:05:06.0000000-08:00
+name: Webslinger
+avatar: https://disqus.com/api/users/avatars/Webslinger.jpg
+message: <p>I get 'System.Collections.Generic.IEnumerable&lt;T&gt;' does not contain a definition for 'ForEach'<br>My project was in 3.5, now upgraded to 4.0, but I get the same error.<br>Also, I had to change "items = new ViewData"<br>to "items = new ViewDataDictionary"</p>

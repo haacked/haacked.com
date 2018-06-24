@@ -1,0 +1,5 @@
+id: dsq-747516629
+date: 2008-10-30T10:22:17.0000000-07:00
+name: Joseph
+avatar: https://disqus.com/api/users/avatars/Joseph.jpg
+message: <p>Joel is wrong about one thing though - Duck typing is not the culprit. If it was, Javascript would have the same problem. (And it did; until <a href="http://code.google.com/apis/v8/design.html" rel="nofollow noopener" title="http://code.google.com/apis/v8/design.html">next gen javascript engines</a> appeared.<br>I'm looking forward to runtimes like the V8 javascript engine to be ported to Ruby. Then we'll really see some performance out it.</p>

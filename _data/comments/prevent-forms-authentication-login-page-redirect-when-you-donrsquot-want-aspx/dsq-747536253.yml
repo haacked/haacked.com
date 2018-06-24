@@ -1,0 +1,5 @@
+id: dsq-747536253
+date: 2011-10-04T17:43:25.0000000-07:00
+name: Joseph Daigle
+avatar: https://disqus.com/api/users/avatars/Joseph Daigle.jpg
+message: '<p>If you want a super-simple 5 line solution, just turn all AJAX requested 302 responses into 401s: <a href="https://gist.github.com/1264267" rel="nofollow noopener" title="https://gist.github.com/1264267">https://gist.github.com/1264267</a><br>At the end of the day, though, we ended up writing our own forms authentication module.</p>'

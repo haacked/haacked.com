@@ -1,0 +1,6 @@
+id: dsq-2458333040
+replyToId: dsq-2457054220
+date: 2016-01-14T12:45:54.0000000-08:00
+name: JaredPar
+avatar: https://disqus.com/api/users/avatars/jaredpar.jpg
+message: <p>Ambiguity implies that what name a type binds to is undefined.  That is not the case here.  The name binding occurs according to the language spec rules.  The only issue here is that String simply obeys those rules vs. being a predefined type.</p>

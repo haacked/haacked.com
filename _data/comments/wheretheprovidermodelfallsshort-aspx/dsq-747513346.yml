@@ -1,0 +1,5 @@
+id: dsq-747513346
+date: 2006-04-24T19:52:00.0000000-07:00
+name: Tom
+avatar: https://disqus.com/api/users/avatars/Tom.jpg
+message: <p>When you need run several sql statements that depends each other, you can very profit from stored procedures. There is sure less traffic bettwen app data layer and database and more place for query plan optimization. You are thinking only about simple sql query, that's your problem. Also securing each sp is better way than each table and view.<br>Sorry, but arguments, that you linked Jeff are,  "I feel it so and my mother and sister even so, so it's true."</p>

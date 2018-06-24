@@ -1,0 +1,5 @@
+id: dsq-747529108
+date: 2009-05-27T17:05:00.0000000-07:00
+name: DonSleza4e
+avatar: https://disqus.com/api/users/avatars/DonSleza4e.jpg
+message: '<p>Migrated to VS2010b1<br>IDE every time crashes when I trying to RedirectToAction("Index", "Message")<br>and this action <br>Inherits="System.Web.Mvc.ViewPage&lt;LRMUP.Models.MessageClass&gt;"<br>When I remove &lt;LRMUP.Models.MessageClass&gt; - everything work fine<br>Targeting: .Framework 4.0 (well, I migrated only because of new C# 4.0 cool features)</p>'

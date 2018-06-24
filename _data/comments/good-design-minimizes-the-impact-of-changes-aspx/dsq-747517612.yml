@@ -1,0 +1,5 @@
+id: dsq-747517612
+date: 2006-11-13T05:13:26.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>You've figured out my inspiration for this post. ;)  It's something we're working on. One thing we recently did was remove one layer of abstraction (ObjectProvider -&gt; DataProvider) by removing the DataProvider.</p>

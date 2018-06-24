@@ -1,0 +1,5 @@
+id: dsq-747525292
+date: 2008-05-30T03:55:36.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hi All, I updated the Northwind sample. Bart hit upon the solution. I just removed project references and then re-added them. THis is what happens when I re-use an older project and just copy new DLLs in there. Sorry about that.</p>

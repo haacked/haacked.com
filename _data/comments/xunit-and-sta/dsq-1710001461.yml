@@ -1,0 +1,5 @@
+id: dsq-1710001461
+date: 2014-11-24T08:11:46.0000000-08:00
+name: Daniel Rose
+avatar: https://disqus.com/api/users/avatars/disqus_BXTSS8P9u8.jpg
+message: <p>"In WPF... UI components must be created on the main application thread and only invoked on that thread."<br>Actually that is not quite true. WPF UI components can be created on any STA thread. However, they are then bound to that thread and will throw exceptions when accessed from other threads. You can have multiple UI threads with independent(!) objects. Note that this can cause problems due to bugs in third-party UI libraries or in your own code.</p>

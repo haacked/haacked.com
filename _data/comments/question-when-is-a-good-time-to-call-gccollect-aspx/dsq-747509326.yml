@@ -1,0 +1,5 @@
+id: dsq-747509326
+date: 2008-09-17T11:12:59.0000000-07:00
+name: Ali
+avatar: https://disqus.com/api/users/avatars/Ali.jpg
+message: <p>Dear sir i am working on <a href="http://vb.net" rel="nofollow noopener" title="vb.net">vb.net</a> application , when i close my application a thread is running in my task manager even when i close my application . i have builten close button for closing my application . i close my application with that cross button beside form maximize option. I have also fire form closing event and write me.dispose() and then me.close() even than my application thread keep running in my task manager . Kindly help to resolve this issue i need to break that running project thread from task manager.<br>reagards<br></p>

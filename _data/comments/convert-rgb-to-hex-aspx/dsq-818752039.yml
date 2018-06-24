@@ -1,0 +1,5 @@
+id: dsq-818752039
+date: 2013-03-04T02:42:39.0000000-08:00
+name: Carson Powers
+avatar: https://disqus.com/api/users/avatars/carsonpowers.jpg
+message: <p>function colorToHex(color) {<br>    if (color.substr(0, 1) === '#') {<br>        return color;<br>    }<br>    var digits = /(.*?)rgb\((\d+), (\d+), (\d+)\)/.exec(color);</p><p>    var red = parseInt(digits[2]);<br>    var green = parseInt(digits[3]);<br>    var blue = parseInt(digits[4]);</p><p>    var rgb = blue | (green &lt;&lt; 8) | (red &lt;&lt; 16);</p><p>    switch (rgb.toString(16).length) {<br>        case 2:<br>            rgb = "0000" + rgb.toString(16)<br>        break;<br>        case 4:<br>            rgb = "00" + rgb.toString(16)<br>            break;<br>        default:<br>            rgb = rgb.toString(16)<br>    }<br>    return digits[1] + '#' + rgb<br>};</p><p>Isn't pretty but this fixes the bug that causes what Chris Hefley found.</p>

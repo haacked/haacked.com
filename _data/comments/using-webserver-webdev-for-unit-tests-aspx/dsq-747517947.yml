@@ -1,0 +1,5 @@
+id: dsq-747517947
+date: 2006-12-12T21:50:24.0000000-08:00
+name: Craig
+avatar: https://disqus.com/api/users/avatars/Craig.jpg
+message: <p>One thing I would watch out for is the fact that WebDev.WebServer behaves significantly differently from ASP.NET running under IIS. I've hit all sorts of differences, among which are the fact that the managed pipeline handles *all* requests, not just the ones mapped to ASP.NET. I forget many of the others, but I do know that I don't trust webdev.webserver much. <br>Which isn't to say what you're using it for isn't useful.</p>

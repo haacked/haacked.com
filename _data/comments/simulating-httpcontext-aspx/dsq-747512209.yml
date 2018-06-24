@@ -1,0 +1,5 @@
+id: dsq-747512209
+date: 2012-02-28T05:44:31.0000000-08:00
+name: Saeed Neamati
+avatar: https://disqus.com/api/users/avatars/saeedneamati.jpg
+message: <p>It's really funny. After 7 years, I found this article so helpful. Thanks Haacked. My problem was that, I was using a DLL file, which in turn was using HttpContext.Current.User.Identity.Name to check something, and I had to fill a false HttpContext, so that I could use that DLL.<br></p>

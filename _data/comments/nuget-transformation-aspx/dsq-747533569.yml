@@ -1,0 +1,5 @@
+id: dsq-747533569
+date: 2010-11-20T16:51:44.0000000-08:00
+name: Harry McIntyre
+avatar: https://disqus.com/api/users/avatars/Harry McIntyre.jpg
+message: <p>Hi Phil,<br>I've been trying to get the author one of my favourite OS projects Genuilder (an AMAZING code pre-processor) to put it on NuGet, but the problem is that it needs to add a custom msbuild target into the project. Is there any way to alter the csproj file currently in NuGet?</p>

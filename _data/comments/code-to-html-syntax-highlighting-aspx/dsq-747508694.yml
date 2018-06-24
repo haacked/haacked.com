@@ -1,0 +1,5 @@
+id: dsq-747508694
+date: 2005-03-10T02:22:00.0000000-08:00
+name: pblah
+avatar: https://disqus.com/api/users/avatars/pblah.jpg
+message: <p>dim obj as object<br><br><br><br>with obj<br><br>.first = "xx"<br><br>.last = "yy"<br><br>.id =2<br><br>end with<br><br><br><br>obj = nothing<br><br></p>

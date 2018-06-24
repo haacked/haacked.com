@@ -1,0 +1,5 @@
+id: dsq-747532286
+date: 2010-05-24T10:56:02.0000000-07:00
+name: Parag
+avatar: https://disqus.com/api/users/avatars/Parag.jpg
+message: '<p>@gerleim : Slow speed is because of Encoding I believe. Probably BASE64 inflating size by 30% or so and probably coupled with a verify algorithm that checks files again!</p>'

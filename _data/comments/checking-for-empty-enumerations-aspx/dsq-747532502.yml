@@ -1,0 +1,5 @@
+id: dsq-747532502
+date: 2010-06-09T22:27:58.0000000-07:00
+name: Troels Thomsen
+avatar: https://disqus.com/api/users/avatars/Troels Thomsen.jpg
+message: <p>I really believe you shouldn't set up null-guards across your entire code base. Ensure that you don't call your methods with nulls instead... It's both simpler and prettier; null is a special value with a distinct semantic purpose, which entirely gets lost if we interpret a null value and an empty sequence as the same thing.</p>

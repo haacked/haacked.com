@@ -1,0 +1,6 @@
+id: dsq-2114048235
+replyToId: dsq-1876433807
+date: 2015-07-02T23:43:01.0000000-07:00
+name: Weston McNamee
+avatar: https://disqus.com/api/users/avatars/westonmcnamee.jpg
+message: <p>I think you missed the point of this extension. If you are given an array of values to return, you can't use the default "chaining" you described.</p><p>This helps most when writing Theories in XUnit. I can provide an array of return values in the TheoryData, then use this extension, because I don't know what the values are until runtime.</p>

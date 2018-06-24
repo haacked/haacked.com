@@ -1,0 +1,5 @@
+id: dsq-747525986
+date: 2008-08-11T10:52:33.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Dragan, you can download the manual install scripts from SourceForge and run Installation.2.0.sql and StoredProcedures.sql. You'll then need to add a row to the subtext_Version table with the version number (2.0.0). Sorry for the issues.</p>

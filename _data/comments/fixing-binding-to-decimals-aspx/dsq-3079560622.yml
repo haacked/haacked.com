@@ -1,0 +1,6 @@
+id: dsq-3079560622
+replyToId: dsq-3051734735
+date: 2017-01-02T10:00:36.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I think the advice still stands. In general, most people would write custom value providers, not model binders for their scenarios.</p>

@@ -1,0 +1,5 @@
+id: dsq-747513919
+date: 2007-07-21T19:51:08.0000000-07:00
+name: Michael
+avatar: https://disqus.com/api/users/avatars/Michael.jpg
+message: <p>Hi, I have a problem with mode="Legacy".<br>In this case AJAX Extentions 1.0 doesn't work:<br>some scripts are not rendered.<br>If you change mode to 'Transitional' it works.</p>

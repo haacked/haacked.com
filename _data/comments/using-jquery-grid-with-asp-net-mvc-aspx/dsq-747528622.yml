@@ -1,0 +1,5 @@
+id: dsq-747528622
+date: 2009-04-14T13:10:00.0000000-07:00
+name: Zachary Snow
+avatar: https://disqus.com/api/users/avatars/Zachary Snow.jpg
+message: <p>The line:<br>jQuery(document).ready(function(){<br>});<br>can be shortened to:<br>jQuery(function(){<br>});<br>and even further if you use the $:<br>$(function(){<br>});</p>

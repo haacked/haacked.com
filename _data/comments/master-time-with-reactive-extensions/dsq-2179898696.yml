@@ -1,0 +1,5 @@
+id: dsq-2179898696
+date: 2015-08-07T11:08:59.0000000-07:00
+name: Simon Gillbee
+avatar: https://disqus.com/api/users/avatars/simongillbee.jpg
+message: <p>Is there any way to set absolute time rather then relative time? For example, I have an event scheduled to fire at 9am every day. How can I use TestScheduler to verify that this works?</p>

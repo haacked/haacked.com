@@ -1,0 +1,5 @@
+id: dsq-747527598
+date: 2009-01-04T10:19:53.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Lance good point! I actually mentioned that approach in a Tweet a few minutes ago! :)<br>I also just updated the source code to refactor the perf tests to clean them up a bit. They weren't very DRY. ;)</p>

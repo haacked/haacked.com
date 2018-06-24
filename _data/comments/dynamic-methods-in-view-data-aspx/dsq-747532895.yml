@@ -1,0 +1,5 @@
+id: dsq-747532895
+date: 2010-08-03T02:41:55.0000000-07:00
+name: Aidan Boyle
+avatar: https://disqus.com/api/users/avatars/Aidan Boyle.jpg
+message: <p>Its been a while since I looked at the dynamic stuff and my understanding was that as long as a class implemented IDynamicMetaObjectProvider then C# would let you access dynamic members on it while still having Intellisense for the static members.<br>I've had a closer look now and I can see that even if a class implements the interface you have to cast the object to "dynamic" before it lets you access anything dynamically.<br>Maybe they could add that in C# 5? I'm used to interchanging obj["property"] and <a href="http://obj.property" rel="nofollow noopener" title="obj.property">obj.property</a> in JavaScript and its often quite useful.<br></p>

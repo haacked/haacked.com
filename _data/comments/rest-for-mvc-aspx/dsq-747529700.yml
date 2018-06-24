@@ -1,0 +1,5 @@
+id: dsq-747529700
+date: 2009-08-25T21:17:00.0000000-07:00
+name: Uzivatel
+avatar: https://disqus.com/api/users/avatars/Uzivatel.jpg
+message: <p>Hi Phil,<br>I was using JSON.NET for DTO serialization (JSON format) and was happy with it. Haven't look on the sample (will have time on weekend) but is there a possibility to exchange default serialization engine with JSON.NET somewhere?<br>Is there a source code avaiable?<br>Thanks for the answer!</p>

@@ -1,0 +1,5 @@
+id: dsq-747531622
+date: 2010-02-10T22:02:31.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Guillermo unfortunately no. However, VS 2010 RTM will include an automatic upgrader for MVC 1.0 apps. <br>For now, the lead dev for ASP.NET MVC <a href="http://weblogs.asp.net/leftslipper/archive/2009/11/23/migrating-asp-net-mvc-1-0-applications-to-asp-net-mvc-2-beta-updated.aspx" rel="nofollow noopener" title="Migrating MVC 1.0 to MVC 2">posted a tool</a> you can try out (at your own risk) that can upgrade an MVC 1.0 app to 2.0 so it can be opened in VS 2010.</p>

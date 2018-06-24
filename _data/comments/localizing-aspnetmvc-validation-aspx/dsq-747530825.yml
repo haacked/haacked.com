@@ -1,0 +1,5 @@
+id: dsq-747530825
+date: 2010-01-26T17:51:08.0000000-08:00
+name: Sharbel
+avatar: https://disqus.com/api/users/avatars/Sharbel.jpg
+message: <p>I think you should change the title of this post from 'Localizing' because honestly this is not localizing at all.  It's a great article to show how not to hard-code validation error messages in the model, but it doesn't at all touch on localizing the messages based on the client locale.</p>

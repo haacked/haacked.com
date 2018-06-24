@@ -1,0 +1,5 @@
+id: dsq-747513361
+date: 2005-11-01T22:00:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Doogal, exactly!  In a way, that is effectively what a "smart" client is supposed to be (as far as i understand).  It's a client that depends on web connectivity, but gives the user a rich client experience.<br><br><br><br>My ideal application would be a secure rich client that communicates to web services so that documents I am working on are stored both locally and on a remote server in a seamless experience.<br><br><br><br>I had outlook on my laptop which crashed recently, so I haven't bothered to reinstall it.  But if I had, I would have had the best of both worlds.  In fact, I had it. After outlook crashed, I still had all my mail on Gmail.</p>

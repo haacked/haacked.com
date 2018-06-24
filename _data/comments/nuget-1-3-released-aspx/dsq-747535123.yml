@@ -1,0 +1,5 @@
+id: dsq-747535123
+date: 2011-04-26T13:16:25.0000000-07:00
+name: David Cumps
+avatar: https://disqus.com/api/users/avatars/CumpsD.jpg
+message: "<p>Can't update from VS 2010, due to this error:<br>VSIXInstaller.SignatureMismatchException: The installed version of 'NuGet Package Manager' is signed, but the update version has an invalid signature. Therefore, Extension Manager cannot install the update.</p>"

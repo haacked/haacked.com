@@ -1,0 +1,5 @@
+id: dsq-747530676
+date: 2009-11-19T21:55:00.0000000-08:00
+name: Validation of Nested Types
+avatar: https://disqus.com/api/users/avatars/Validation of Nested Types.jpg
+message: <p>I have a viewmodel for Contact, which has a nested type Address.<br>Address type has required fields AddressLine1, ZipCode, City, State.<br>Is there any way to annotate Contact viewmodel, so that the address fields get validated as required only if Address property of Contact is marked required?<br></p>

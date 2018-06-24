@@ -1,0 +1,5 @@
+id: dsq-747507920
+date: 2009-02-24T20:31:55.0000000-08:00
+name: DW
+avatar: https://disqus.com/api/users/avatars/DW.jpg
+message: <p>Thanks for the post. I liked the solution. Although I ran into a problem. I tried to implement it with VARCHAR(8000) for the resulting string, and the result came out truncated. It seems that using the technique you suggested you can't get the string with more than 4000 characters. Whereas with the cursor I got maximum 8000 characters in the resulting string.<br>Please advise<br>Very much appreciated <br>DW</p>

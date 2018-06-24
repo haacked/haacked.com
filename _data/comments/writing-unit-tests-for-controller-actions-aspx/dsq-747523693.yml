@@ -1,0 +1,5 @@
+id: dsq-747523693
+date: 2007-12-09T22:55:08.0000000-08:00
+name: Aaron Jensen
+avatar: https://disqus.com/api/users/avatars/Aaron Jensen.jpg
+message: <blockquote><br>If you attempt to mock these objects, you sometimes also have to mock their dependencies and their dependencies' dependencies and so on, depending on what you are trying to test.</blockquote><p><br>Could you explain this? Once you mock something out their dependencies are irrelevant.</p>

@@ -1,0 +1,5 @@
+id: dsq-1175783996
+date: 2013-12-24T07:42:35.0000000-08:00
+name: Chris Sebok
+avatar: https://disqus.com/api/users/avatars/chris_sebok.jpg
+message: <p>Just tried to post this in your comments, but couldn't figure out how to format code properly, and it just looked a mess - so I created a blog post instead.</p><p>I wanted to return null from a recursive mocked method, so I added support for returning null for reference types, and defaults for value types.</p><p><a href="http://blog.shadowmoses.co.uk/2013/12/moqing-successive-calls-to-method.html" rel="nofollow noopener" title="http://blog.shadowmoses.co.uk/2013/12/moqing-successive-calls-to-method.html">http://blog.shadowmoses.co....</a></p><p>Hopefully someone else will find that useful!</p>

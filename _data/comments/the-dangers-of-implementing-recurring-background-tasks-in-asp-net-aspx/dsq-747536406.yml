@@ -1,0 +1,5 @@
+id: dsq-747536406
+date: 2012-02-21T08:04:55.0000000-08:00
+name: Anthony
+avatar: https://disqus.com/api/users/avatars/Anthony.jpg
+message: <p>In the code sample above, is there no need for the SampleAspNetTimer class to ever detect app shutdown? <br>If the JoBHost surfaced a "Stopped" property it could stop the timer at the right time, but the fact that you haven't done that suggests that it's not needed, and IIS will tear it down anyway.</p>

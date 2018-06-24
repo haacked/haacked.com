@@ -1,0 +1,5 @@
+id: dsq-747511772
+date: 2005-05-13T02:10:00.0000000-07:00
+name: Jeremy Brayton
+avatar: https://disqus.com/api/users/avatars/Jeremy Brayton.jpg
+message: <p>A suggestion:<br><br><br><br>Use WiX to install the binaries and source<br><br>Use a separate WinForms app as a "configurator" that is done after the fact. This keeps you from having to reinstall it just to get the database setup, or setup the initial cruft that was .Text.<br><br><br><br>I had planned on doing this but once I saw you started to go the WiX route I abandoned it. Personally I don't have the time, but it's a LOT easier to manage SQL and what you need to do from WinForms than it ever would be with WiX. Then again I only know enough of WiX to install stuff, not actually manipulate SQL or other things.<br><br><br><br>If it's still running slow I could try to bang something together. Wouldn't be pretty but it would solve the problem.</p>

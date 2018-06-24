@@ -1,0 +1,5 @@
+id: dsq-747511405
+date: 2005-04-05T08:00:00.0000000-07:00
+name: Scott Elkin
+avatar: https://disqus.com/api/users/avatars/Scott Elkin.jpg
+message: '<p>Sorry, my last one didnt work quite right in IE.  Here is a better one:<br><br><br><br>&lt;style&gt;<br><br>#sitemast {background: url(/images/top.jpg) top left repeat-x;}<br><br>#sitemast div {height: 88px;}<br><br>#sitemast .leftborder {<br><br>float: left; <br><br>background: url(/images/top_left.jpg) top left repeat-y; <br><br>width: 3px; <br><br>}<br><br>#sitemast .rightborder {<br><br>float: right; <br><br>background: url(/images/top_right.jpg) top right repeat-y; <br><br>width: 3px;<br><br>}<br><br>#sitemast .content {<br><br> text-align: center;<br><br>}<br><br>&lt;/style&gt;<br><br>&lt;div id="sitemast"&gt;<br><br>&lt;div class="leftborder"&gt;&lt;/div&gt;<br><br>&lt;div class="rightborder"&gt;&lt;/div&gt;<br><br>&lt;div class="content"&gt;blah&lt;/div&gt;<br><br>&lt;/div&gt;</p>'

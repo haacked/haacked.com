@@ -1,0 +1,5 @@
+id: dsq-747531302
+date: 2010-01-11T23:49:11.0000000-08:00
+name: Paco
+avatar: https://disqus.com/api/users/avatars/Paco.jpg
+message: <p>Today I noticed the controllerfactory and mvchandler do not allow to call a controller just "Controller". I could not find any reason for that. The controllerfactory can cache the right controllertype with string.empty. I think it's a good convention for simplicity to call controllers ...Controller, but I think the mvc framework should not enforce programmers to use a convention which has no technical reasons. I would really like to see the conventions that are not used by mvc to be removed.</p>

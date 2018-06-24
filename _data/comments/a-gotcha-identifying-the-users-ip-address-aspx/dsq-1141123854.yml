@@ -1,0 +1,5 @@
+id: dsq-1141123854
+date: 2013-11-27T05:57:24.0000000-08:00
+name: George Kosmidis
+avatar: https://disqus.com/api/users/avatars/georgekosmidis.jpg
+message: <p>HTTP_X_FORWARDED_FOR can return multiple IPs, so your code will fail sometimes.</p><p>Read this, if you want:<br><a href="http://mycodepad.wordpress.com/2013/04/26/c-getting-a-user-ip-behind-a-proxy-http_x_forwarded_for/" rel="nofollow noopener" title="http://mycodepad.wordpress.com/2013/04/26/c-getting-a-user-ip-behind-a-proxy-http_x_forwarded_for/">http://mycodepad.wordpress....</a></p>

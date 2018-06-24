@@ -1,0 +1,5 @@
+id: dsq-747534106
+date: 2012-04-17T18:10:17.0000000-07:00
+name: Alan G
+avatar: https://disqus.com/api/users/avatars/Alan G.jpg
+message: <p>This syntax should work:<br>&lt;li id='vc_@(Html.Raw(venue.code))'&gt;@Html.Raw(<a href="http://venue.name" rel="nofollow noopener" title="venue.name">venue.name</a>)&lt;/li&gt;</p>

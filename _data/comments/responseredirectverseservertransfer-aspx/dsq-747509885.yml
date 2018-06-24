@@ -1,0 +1,5 @@
+id: dsq-747509885
+date: 2006-10-13T09:34:32.0000000-07:00
+name: Bec
+avatar: https://disqus.com/api/users/avatars/Bec.jpg
+message: <p>This article was extremely helpful in helping reslove a few issues I was having with Response.Redirect.<br>Now that I have changed to Server.Transfer I am not experiencing the bugs I was with the Response.Redirect; however, I am unsure of how to clear the buffer to eliminate the html content being attached to the original Response buffer.<br>Any suggestions?<br></p>

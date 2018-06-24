@@ -1,0 +1,5 @@
+id: dsq-747535941
+date: 2011-08-17T05:39:10.0000000-07:00
+name: Dmytrii Nagirniak
+avatar: https://disqus.com/api/users/avatars/Dmytrii Nagirniak.jpg
+message: <p>I like how Rails does it with <a href="http://api.rubyonrails.org/classes/ActionView/Helpers/TextHelper.html#method-i-pluralize" rel="nofollow noopener" title="http://api.rubyonrails.org/classes/ActionView/Helpers/TextHelper.html#method-i-pluralize">pluralize</a> method that <strong>optinally</strong> allow you to pass plural and do its magic otherwise.<br>So ideally I would prefer usage similar to:<br><code><br>Model.Count.PluralizeFor("theme", "themes");<br>Model.Count.PluralizeFor("theme");<br></code><br>With the method definition of:<br><code><br>public static string PluralizeFor(this int number, string singular, string plural = null) {<br>  if (number == 1)<br>    return singular;<br>  return plural ?? Inflector.Pluralize(singular);<br>}<br>To me this seem pretty clear approach.<br></code></p>

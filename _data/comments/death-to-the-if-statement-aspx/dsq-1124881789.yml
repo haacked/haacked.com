@@ -1,0 +1,5 @@
+id: dsq-1124881789
+date: 2013-11-15T11:14:34.0000000-08:00
+name: puccup
+avatar: https://disqus.com/api/users/avatars/puccup.jpg
+message: "<p>Lack of if statements is nothing new.  IBM 360 JCL didn't have if statements, neither do SNOBOL (language from the 60s), WIX Windows Installer.  They have conditions, events and gotos: but no if statement as such.</p><p>The main difference is whether you want to read the code or think about what it is doing.  Lack of if statements may be elegant but it makes you think a lot more: not so good when the boss in on your back to get something out.</p><p>If you really want to see whether you are using if statements: check the generated code.  If you get any conditional branches, you have an if statement even though the code that generated it doesn't.</p>"

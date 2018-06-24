@@ -1,0 +1,5 @@
+id: dsq-747508267
+date: 2007-05-08T17:14:44.0000000-07:00
+name: Latest Newsgroup Posts
+avatar: https://disqus.com/api/users/avatars/Latest Newsgroup Posts.jpg
+message: '<p>At [link] , the suggested fix is: [System.Net.ServicePointManage r]::Expect100Continue = $false</p>'

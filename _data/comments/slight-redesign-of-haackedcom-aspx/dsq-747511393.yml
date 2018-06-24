@@ -1,0 +1,5 @@
+id: dsq-747511393
+date: 2005-04-04T21:17:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hey Chris, <br><br><br><br>Which version of FireFox are you using? I'm using 1.0.2. and I don't see the what you're seeing. I want to test it out.<br><br><br><br>As for the slow download, hopefully that only pertains to the first time you hit my site.  Let me know if it's slow every time.  The first time you hit the site your browser should download and cache my stylesheet (and images).  The next time it should be zippier.<br><br><br><br>But just in case, I reduced the number of items that show up on the main page to 10 (from 20).  That should make it a little faster.</p>

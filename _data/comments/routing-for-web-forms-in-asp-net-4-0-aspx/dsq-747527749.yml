@@ -1,0 +1,5 @@
+id: dsq-747527749
+date: 2009-01-25T20:12:51.0000000-08:00
+name: Alper
+avatar: https://disqus.com/api/users/avatars/Alper.jpg
+message: <p>Hi Phil,<br>I would like to get your opinion on moving from Web forms to MVC using a step by step strategy.<br>In an existing web form project<br>* Disable Viewstate<br>* Reduce or eliminate Postbacks<br>* Reduce or eliminate web controls with html controls<br>* Implement Routing<br>It's kinda like preparing your existing application or a writing a new ASP.NET <strong>2.0</strong> application for a smooth migration to MVC eventually.<br>What are some of the other factors that would make the move from Web form to MVC as smooth as possible?<br>Thanks.</p>

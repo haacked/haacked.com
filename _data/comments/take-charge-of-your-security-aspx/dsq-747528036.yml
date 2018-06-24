@@ -1,0 +1,5 @@
+id: dsq-747528036
+date: 2009-02-08T14:55:21.0000000-08:00
+name: Lee Timmins
+avatar: https://disqus.com/api/users/avatars/Lee Timmins.jpg
+message: <p>Here's a run down of <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> web forms encoding:<br><a href="http://msmvps.com/blogs/calinoiu/archive/2006/06/13/what-s-wrong-with-asp-net-html-encoding.aspx" rel="nofollow noopener" title="http://msmvps.com/blogs/calinoiu/archive/2006/06/13/what-s-wrong-with-asp-net-html-encoding.aspx">msmvps.com/.../...-with-asp-net-html-encoding.aspx</a><br>Also i believe it would be great if there was a setting to automatically encode.  Therefore &lt;%= would encode automatically but to allow html you would put &lt;%!= (or something similar).  While it would not solve every problem it would certainly help those that are unaware of a potential vulnerability or forget to encode to their data.</p>

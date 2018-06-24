@@ -1,0 +1,5 @@
+id: dsq-747517603
+date: 2006-11-09T14:18:48.0000000-08:00
+name: Simone Chiaretta
+avatar: https://disqus.com/api/users/avatars/codeclimber.jpg
+message: '<p>In Italy one of the most used hosting provider is Aruba. (<a href="http://www.aruba.it" rel="nofollow noopener" title="www.aruba.it">www.aruba.it</a>)<br>It has a problem: it only allow one fixed name user writable folder, so, SubText is not working on this hosting provider.<br>The same problem apply to DNN, and in fact some guys developed an "hacked" version of DNN that uses FTP to save user files on itself (since all the folder can be accessed via FTP)<br>Another option, easier in my opinion, is to make possible to change the name (as web.config settings) of the user folder in ST.</p>'

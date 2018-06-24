@@ -1,0 +1,5 @@
+id: dsq-747524778
+date: 2008-04-09T05:20:57.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>@Jon LimJap<br></p><blockquote>though I dunno if there's a way to split assemblies within a project. Point is your tests shouldn't be in the same assembly.</blockquote><p><br>Yeah, you can if you use the command line compiler or some kind of build tool with a compiler task. In a nutshell, you build modules, then combine the modules you want into a single assembly. So your makefile could pass a list of all the code files except the ones containing your tests, to the compiler, even across projects, and output a single assembly. AFAIK, there's no way to do this in the Visual Studio IDE.</p>

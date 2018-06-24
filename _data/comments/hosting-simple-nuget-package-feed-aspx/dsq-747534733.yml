@@ -1,0 +1,5 @@
+id: dsq-747534733
+date: 2011-04-16T01:48:37.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Actually, just right click on the Project Properties in VS and select "Add Deployable Assemblies" and select ASP.NET MVC" before deploying. It'll add the right dependencies.</p>

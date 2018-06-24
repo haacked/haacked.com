@@ -1,0 +1,5 @@
+id: dsq-1894983451
+date: 2015-03-08T07:46:39.0000000-07:00
+name: manny
+avatar: https://disqus.com/api/users/avatars/manny.jpg
+message: <p>Ruby has a small advantage with type inference. It can assume that a number</p><p>is of class <a href="http://www.filmrally.com/" rel="nofollow noopener" title="http://www.filmrally.com/">Fixnum</a> (if it fits into one) safe in the knowledge that it will</p><p>be automatically changed into a Bignum later, if it becomes necessary.</p>

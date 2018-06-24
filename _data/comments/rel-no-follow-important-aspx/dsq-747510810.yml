@@ -1,0 +1,5 @@
+id: dsq-747510810
+date: 2005-01-20T10:59:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I agree, it won't stop it. But I think what we'll see is that as they continue to post without the corresponding page rank increase, they will change course.  Either they'll pursue other avenues, or step up their comment spamming.<br><br><br><br>As to rewarding constructive links. I'd propose a feature for reverse comment moderation.   If you want to award links in your comments, remove the rel="nofollow".<br><br><br><br>Or just mention it in your next post.  I think it's a right start and should be considered as a complement to CAPTCHA.</p>

@@ -1,0 +1,5 @@
+id: dsq-747531061
+date: 2009-12-19T13:48:32.0000000-08:00
+name: Brad Wilson
+avatar: https://disqus.com/api/users/avatars/Brad Wilson.jpg
+message: <p>@TJB,<br>The tooling for MVC 2 Beta and RC are getting tested by users who are using VS 2008.<br>The actual content inside the templates are different for VS 2008 and VS 2010, because the project files have changed (as they do with every version of Visual Studio). The actual functionality of the tooling is identical in VS 2008 and VS 2010.</p>

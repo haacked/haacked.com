@@ -1,0 +1,5 @@
+id: dsq-747512370
+date: 2005-06-19T22:13:00.0000000-07:00
+name: Scott Williams
+avatar: https://disqus.com/api/users/avatars/Scott Williams.jpg
+message: <p>I'd also recommend that the SQL Server you try to connect to doesn't constantly time out whenever you try to run the update scripts. That has been the bane of my upgrading woes. :(</p>

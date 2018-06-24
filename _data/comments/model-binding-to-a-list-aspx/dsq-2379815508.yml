@@ -1,0 +1,5 @@
+id: dsq-2379815508
+date: 2015-11-26T06:37:31.0000000-08:00
+name: Carlos Pirela
+avatar: https://disqus.com/api/users/avatars/disqus_6qtIbXgyke.jpg
+message: <p>Great information, helped me solve an issue trying to post a model list with file input. Just had to add "multipart/form-data" to the &lt;form&gt; tag and HttpPostedFileBase file on the model class. Everything works!</p>

@@ -1,0 +1,5 @@
+id: dsq-747534401
+date: 2011-02-04T03:29:15.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Paul @Russ I think you misinterpreted the implementation. Notice that if the target route matches, it returns a <code>RedirectHttpHandler</code> which redirects to the target route. If it doesn't match, then we return a 404.<br>I think that's exactly what you want. After all, if the target page really isn't there, it should be a 404. If it is there, then you get redirected with the appropriate redirect status code.</p>

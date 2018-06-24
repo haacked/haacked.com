@@ -1,0 +1,5 @@
+id: dsq-747525100
+date: 2008-05-06T15:36:32.0000000-07:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>Has anyone managed to get the code to work correctly?<br>Besides the fact that it doesn't compile (Calls to GetMatchingRoutes should be changed to GetMatches, or vice-versa), it always returns as many routes as I have registered in my RouteCollection, and they're always excatly the same routes!  It looks like the foreach in GetMatches is redundant, but then I can't see how it can find multiple routes that match the same rule?<br>Also, is there any way to find out whether the Controller returned for a route exists?</p>

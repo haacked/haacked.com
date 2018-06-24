@@ -1,0 +1,5 @@
+id: dsq-747516977
+date: 2006-09-27T06:26:28.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Interesting. I use RollBack attribute on many tests in MbUnit which does the same thing.<br>However, I generally don't use the AdoNetAppender in my config file for my unit tests.  I use the ConsoleAppender there, so I've never noticed this issue.</p>

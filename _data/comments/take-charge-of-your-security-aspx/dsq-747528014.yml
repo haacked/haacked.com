@@ -1,0 +1,5 @@
+id: dsq-747528014
+date: 2009-02-07T06:34:57.0000000-08:00
+name: Paul
+avatar: https://disqus.com/api/users/avatars/Paul.jpg
+message: <p>In my experience, when request validation is disabled, it is at some point after the start of the project. If built-in control validation was the only form of security, you end up having to go back through your forms to tighten up the input.  This is obviously an error-prone exercise.</p>

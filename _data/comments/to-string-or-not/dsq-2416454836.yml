@@ -1,0 +1,5 @@
+id: dsq-2416454836
+date: 2015-12-18T13:34:58.0000000-08:00
+name: James Curran
+avatar: https://disqus.com/api/users/avatars/james_curran.jpg
+message: '<p>I generally follow your pattern of "string" vs "String" for pretty much the same reasons.</p><p>However, it should be noted that using "String" will fail unless you have "#using System;"   "string" does not have that requirement.  (Granted one very rarely writes C# code with #using System, but it technically not required)</p>'

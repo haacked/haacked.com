@@ -1,0 +1,5 @@
+id: dsq-747529777
+date: 2009-08-19T18:14:00.0000000-07:00
+name: sean
+avatar: https://disqus.com/api/users/avatars/sean.jpg
+message: <p>Why would you do this instead of writing a stored procedure that manages the transaction itself?<br>There is only one case in which I have found stored procedures to be... difficult... to use, and that is when one of my logical parameters is an array of values. Tag querying is such a problem, but there are definitely database-centric ways around it that do not require writing SQL in client code strings somewhere.</p>

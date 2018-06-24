@@ -1,0 +1,5 @@
+id: dsq-747526074
+date: 2008-08-14T01:08:36.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Kevin Miller - we don't have current plans for this in 1.0, but we do for 2.0. However, I'll see if we can get a quick prototype up in MvcFutures as I think it's possible with a little bit of extra work already. We just don't have an easy mechanism for doing it.</p>

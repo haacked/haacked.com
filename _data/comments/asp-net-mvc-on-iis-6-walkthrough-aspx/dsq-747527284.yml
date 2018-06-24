@@ -1,0 +1,5 @@
+id: dsq-747527284
+date: 2010-10-14T16:48:17.0000000-07:00
+name: kashif Jamil
+avatar: https://disqus.com/api/users/avatars/kashif Jamil.jpg
+message: <p>Hi,<br>I published my ASP.NET MVC 2 Web Application with "Only files needed to run this application". After that I create a Virtual Directory on Windows 2003 server (IIS 6) and copy, paste all files (also copied System.Web.Abstractions.dll, System.Web.Extensions.dll, System.Web.Mvc.dll and System.Web.Routing.dll into BIN).<br>My published web directory structure is as<br>Bin [Folder]<br>Content [Folder]<br>Models [Folder]<br>Scripts [Folder]<br>Views [Folder]<br>Global.asax<br>Web.config<br>I followed all the steps you mentioned but I could not run my application, kindly help me to figure out, why it is not working.<br><br>Regards,<br>Kashif Jamil</p>

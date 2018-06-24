@@ -1,0 +1,5 @@
+id: dsq-747534952
+date: 2012-06-15T12:51:17.0000000-07:00
+name: Umed Singh Bisht
+avatar: https://disqus.com/api/users/avatars/Umed Singh Bisht.jpg
+message: '<p>Thanks for such a useful tool.<br>Using it in ASP.NET 4.0 WebForms website.<br>RouteDebuger generated info:<br>Matched Route: trackjob<br>Generated URL: /error/404?sqs=Qyoi7TQYB927JGxc%2Be9BINlUYaNk8XiAZ2BpIdMWGZBKniVrzQ3g8RiH36y5dblx using the route "error/404"<br><br>Matches Current Request             Url<br>....                               ....<br>....                               ....<br>True                              trackjob<br>....                               ....<br>....                               ....<br><br>Current Request Info<br> AppRelativeCurrentExecutionFilePath is the portion of the request that Routing acts on. <br>AppRelativeCurrentExecutionFilePath: ~/trackjob<br>--------------<br>blockquoteGenerated URLblockquote should be blockquote/trackjob/?sqs=.....blockquote<br>OR<br>Is it OK or some issue with my order or way of creating Route Maps?<br></p>'

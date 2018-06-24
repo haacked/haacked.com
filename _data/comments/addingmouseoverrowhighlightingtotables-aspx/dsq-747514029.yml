@@ -1,0 +1,5 @@
+id: dsq-747514029
+date: 2006-06-22T16:20:00.0000000-07:00
+name: Ignatius
+avatar: https://disqus.com/api/users/avatars/Ignatius.jpg
+message: "<p>There are a mistake in the script. indexOf return -1 if no matches, or the position where the string is. This means that if we have only the 'highlightTable' class, indexOf('highlightTable') returns 0, because the string starts in the first character (0).<br>In your script appear [...]indexOf('highlightTable') &gt; 0 but should be .indexOf('highlightTable') &gt;= 0 (or != -1)<br>PD: my english sucks :)</p>"

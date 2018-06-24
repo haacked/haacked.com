@@ -1,0 +1,5 @@
+id: dsq-747532493
+date: 2010-06-09T20:10:01.0000000-07:00
+name: tj
+avatar: https://disqus.com/api/users/avatars/tj.jpg
+message: <p>Unfortunately, your IsNullOrEmpty extension method is useless if the item is null.  You'll get a null reference excption before it even makes it to the method.</p>

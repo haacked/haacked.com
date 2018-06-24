@@ -1,0 +1,5 @@
+id: dsq-747529713
+date: 2009-09-09T01:44:00.0000000-07:00
+name: T
+avatar: https://disqus.com/api/users/avatars/T.jpg
+message: <p>I used the ASP.NET MVC REST SDK for building atom feedS for our exception logging dashboard and it worked perfect. <br>When creating the syndication content, I used CreateHTMLContent and added a tag around my HTML content string. Now it shows in a nice formatted way on internet explorer. But when reading the feed through outlook 2007, I am losing the formatting. Do you have any idea how to format the feeds for outlook 2007.<br>Thanks,</p>

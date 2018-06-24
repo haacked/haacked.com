@@ -1,0 +1,5 @@
+id: dsq-747535731
+date: 2012-12-21T08:09:50.0000000-08:00
+name: Giorgi
+avatar: https://disqus.com/api/users/avatars/Giorgi.jpg
+message: <p>You should note in your article that these settings are important for this solution to work - properties for .resx file:<br>Build Action - Embedded Resource<br>Custom Tool - PublicResXFileCodeGenerator<br>Thanks</p>

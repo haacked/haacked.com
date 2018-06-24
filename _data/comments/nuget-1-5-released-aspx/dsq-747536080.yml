@@ -1,0 +1,5 @@
+id: dsq-747536080
+date: 2011-08-31T17:47:19.0000000-07:00
+name: Chris
+avatar: https://disqus.com/api/users/avatars/Chris.jpg
+message: "<p>Yet again: <br>01/09/2011 12:45:01 - VSIXInstaller.SignatureMismatchException: The installed version of 'NuGet Package Manager' is signed, but the update version has an invalid signature. Therefore, Extension Manager cannot install the update.<br>   at VSIXInstaller.Common.VerifyMatchingExtensionSignatures(IInstalledExtension installedExtension, IInstallableExtension updateExtension)<br>   at VSIXInstaller.InstallProgressPage.BeginInstallVSIX(SupportedVSSKU targetAppID)<br>01/09/2011 12:45:01 - Install Error : VSIXInstaller.SignatureMismatchException: The installed version of 'NuGet Package Manager' is signed, but the update version has an invalid signature. Therefore, Extension Manager cannot install the update.<br>   at VSIXInstaller.Common.VerifyMatchingExtensionSignatures(IInstalledExtension installedExtension, IInstallableExtension updateExtension)<br>   at VSIXInstaller.InstallProgressPage.BeginInstallVSIX(SupportedVSSKU targetAppID)<br><br>Is it me or the NuGet repo as this seems to happen with *every* update?!</p>"

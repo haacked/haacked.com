@@ -1,0 +1,5 @@
+id: dsq-747533452
+date: 2010-11-08T22:30:04.0000000-08:00
+name: Will
+avatar: https://disqus.com/api/users/avatars/Will.jpg
+message: <p>Dunno if this happened to anybody else, but when I installed via the extension manager the vsix installer executable started freaking out, recursively spawning another process.  Had to kill the process tree a few times until it actually killed the leading edge of the tree.  I'd guess it was a fluke, but it was definitely weird.</p>

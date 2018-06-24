@@ -1,0 +1,5 @@
+id: dsq-747524096
+date: 2008-02-05T22:59:09.0000000-08:00
+name: Thomas Eyde
+avatar: https://disqus.com/api/users/avatars/Thomas Eyde.jpg
+message: <p>Not entirely on topic, but the MailAddress object validates the email address in its constructor and fails with an exception when the address is not properly formatted. That caused a bug in my application, and I want to write a unit test to verify that. The test is easy to write, but the fix is not. I would like to use the very same validation code as the constructor, but I can't. It's internal.</p>

@@ -1,0 +1,5 @@
+id: dsq-747531441
+date: 2010-01-18T19:36:10.0000000-08:00
+name: John
+avatar: https://disqus.com/api/users/avatars/John.jpg
+message: <p>After some research App_Code is not supported in WAP ( <a href="http://msdn.microsoft.com/en-us/library/aa983464%28VS.80%29.aspx" rel="nofollow noopener" title="http://msdn.microsoft.com/en-us/library/aa983464%28VS.80%29.aspx">msdn.microsoft.com/.../aa983464%28VS.80%29.aspx</a>), you do not get the option to add it and if you add it manually it then publish the site compiles the files it into the main DLL and does not include the directory.<br>I guess the other method will be the best option in that case.<br>Thanks</p>

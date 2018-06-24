@@ -1,0 +1,6 @@
+id: dsq-804963545
+replyToId: dsq-747526548
+date: 2013-02-19T16:36:29.0000000-08:00
+name: AaronLS
+avatar: https://disqus.com/api/users/avatars/openid-163065.jpg
+message: <p>Phil, has anything changed in MVC to allow support for binding to form post values with square brackets like those named "something[]"?  Some jquery libraries like x-editable/select2 do this, (probably because PHP has the opposite problem, it didn't treat multiple form field names as an array, but added this support only if you named them something liked "something[]" so some javascript tools follow that convention).  I can't even get [Bind(Include="somename[]")]ICollection&lt;int&gt; somename, ... to map the values, even though Request.Form.GetValues("value[]") works fine.</p>

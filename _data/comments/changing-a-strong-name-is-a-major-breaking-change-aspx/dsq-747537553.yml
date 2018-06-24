@@ -1,0 +1,5 @@
+id: dsq-747537553
+date: 2012-03-09T15:11:28.0000000-08:00
+name: Dricks
+avatar: https://disqus.com/api/users/avatars/Dricks.jpg
+message: <p>They have done two breaking changes :<br>- They changed their strong name (which is definitively the baddest idea one can have).<br>-They changed the signature of log4net.Config.XmlConfigurator.Configure from 'returns void' to 'returns ICollection', which is backward compatibility breaker.<br>I now get some type loader exception saying it can't find method 'log4net.Config.XmlConfigurator.Configure' because another library uses 1.2.10 signature of the Configure method.<br>So please, definitively remove 1.2.11 version from your projects and stay with 1.2.10 or you will break any other using 1.2.10</p>

@@ -1,0 +1,5 @@
+id: dsq-747525730
+date: 2008-07-16T04:17:01.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@evan each of those methods contain overloads for passing in a proper RouteValueDictionary. So you can take the approach that you think is best.<br>We don't have any current plans on releasing a pure regex handler. If you want to use regex to simply match routes, then you can use catch-all routes + constraints (since constraints are regex by default). But URL generation won't work too well with that (which is the benefit of the tokenization).<br>Or write a custom implementation of RouteBase that uses regex. Just keep in mind, that an implementation of RouteBase should also implement URL generation, not just route matching.</p>

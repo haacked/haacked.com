@@ -1,0 +1,5 @@
+id: dsq-747532430
+date: 2010-06-09T03:31:09.0000000-07:00
+name: Johan Driessen
+avatar: https://disqus.com/api/users/avatars/nahojd.jpg
+message: "<p>I couldn't get the upgrader tool to work at all. Or rather, it ran, but it totally destroyed my blog in the process. I got (at least) 3 serious errors:<br>1. It added a &lt;httpErrors&gt; section in web.config under &lt;system.webServer&gt;, which got me the error message \"Config Error: This configuration section cannot be used at this path.\"<br>2. It removed my connectionstring. Yep, that's right, totally cleared out the connectionStrings section of web.config<br>3. Once I commented out the &lt;httpErrors&gt; section and put my connection string back, I got the \"upgrading\" page, but after that i couldn't log in. Not with my admin account, and not with OpenID.<br>So by then I just gave up on upgrading... If it helps, I'm currently running 2.1.2.2 on Win2K8 R2.<br>Is there some manual way to do the upgrade?</p>"

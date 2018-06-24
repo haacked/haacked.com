@@ -1,0 +1,5 @@
+id: dsq-747534422
+date: 2012-07-05T17:19:24.0000000-07:00
+name: Austin
+avatar: https://disqus.com/api/users/avatars/Austin.jpg
+message: <p>Does this work for areas to? In the RegisterArea method of the AreaRegistration class I call MapRoute on the AreaRegistrationContext instead of on the RouteCollection, but I don't see the Redirect extension methods from RouteMagic available on the AreaRegistrationContext.</p>

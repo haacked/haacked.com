@@ -1,0 +1,5 @@
+id: dsq-747517845
+date: 2006-12-03T21:23:14.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>&lt;%= translates to a Response.Write statement, which means it is not part of the control hierarchy.<br>Suppose you want to set a TextBox to the value of an AppSetting.  You couldn't do that with &lt;%=<br>Not only that, if you use Masterpages and dynamically loaded controls, &lt;%= can cause problems. For example, when placed in a user control dynamically loaded by a master page.</p>

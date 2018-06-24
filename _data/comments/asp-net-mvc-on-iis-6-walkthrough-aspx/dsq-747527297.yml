@@ -1,0 +1,5 @@
+id: dsq-747527297
+date: 2011-07-28T04:44:54.0000000-07:00
+name: Perry
+avatar: https://disqus.com/api/users/avatars/Perry.jpg
+message: <p>Hi Phil, thanks for this write up. It helped us take a 'hybrid' sln which contained a legacy WebForms app and a new MVC(2) app, and install it on IIS 6. Now I moved it to IIS 7 and since its still half webform and half MVC(2) I needed to to the *.mvc route and handler mapping to get it to work. Here was my surprise - the handler mapping I made in IIS 7.5 gets blasted away every time I deploy my code! I use msbuild and Web Deploy to automate all this and we just realized, POOF! The handler mapping for *.mvc is gone. Am I correct in assuming I need to write this mapping up in this hybrid apps web.config for it to stick in IIS 7.5 ? If so, do you have a sample of what that looks like? <br>Thanks!<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747518672
+date: 2007-02-18T03:38:54.0000000-08:00
+name: Joshua Flanagan
+avatar: https://disqus.com/api/users/avatars/Joshua Flanagan.jpg
+message: <p>Very interesting, Wyatt. I even double-checked by looking in the documentation before i posted. It also supports my claim that AssociatedControlId was not around until .NET 2.0:<br><a href="http://msdn2.microsoft.com/system.web.ui.webcontrols.label.associatedcontrolid.aspx" rel="nofollow noopener" title="http://msdn2.microsoft.com/system.web.ui.webcontrols.label.associatedcontrolid.aspx">http://msdn2.microsoft.com/...</a><br>(see the Version Information section)<br>But, alas, I opened up Reflector, and sure enough, its there in 1.1. IL always trumps intellisense and documentation.</p>

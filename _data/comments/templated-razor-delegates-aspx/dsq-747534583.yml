@@ -1,0 +1,5 @@
+id: dsq-747534583
+date: 2011-12-16T17:32:10.0000000-08:00
+name: David
+avatar: https://disqus.com/api/users/avatars/David.jpg
+message: <p>Nice feature. Is this also supported in <a href="http://vb.net?" rel="nofollow noopener" title="vb.net?">vb.net?</a> Because I'm not able to get it to work.<br>&lt;Extension()&gt;<br>Public Function List(Of T)(ByVal items As IEnumerable(Of T), ByVal template As Func(Of T, HelperResult)) As HelperResult<br>Return New HelperResult(Sub(writer)<br>         For Each item  In items<br>           template(item).WriteTo(writer)<br>         Next<br>     End Sub<br>     )<br>End Function<br>@Code<br>Dim items = {"one", "two"}<br>End Code<br>@items.List(Function(item) @&lt;li&gt;@item&lt;/li&gt; End Function)<br>Always results in Object reference not set to an instance of an object.</p>

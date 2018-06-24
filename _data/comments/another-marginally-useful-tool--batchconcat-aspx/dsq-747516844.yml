@@ -1,0 +1,5 @@
+id: dsq-747516844
+date: 2006-09-21T04:20:47.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>One issue with COPY *.SQL is that there's no easy way to tell it to insert a newline between files.<br>That could come to bite you.  Just make sure each file you concatenate ends with a newline.<br>I'm using COPY /b *.sql because it's UTF-8 and not ASCII.</p>

@@ -1,0 +1,5 @@
+id: dsq-1431466414
+date: 2014-06-11T20:14:57.0000000-07:00
+name: John
+avatar: https://disqus.com/api/users/avatars/disqus_tVUU4DcYOd.jpg
+message: <p>I am attempting to use this method for creating plugin templates. I would like to be able to gain access to the @Html.Helper helper library. I have attempted to pass the helper itself as a parameter to the model but the generated cs class complains about no access to the helper methods. Any thoughts?</p>

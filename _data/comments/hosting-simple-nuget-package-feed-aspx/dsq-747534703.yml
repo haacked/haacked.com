@@ -1,0 +1,5 @@
+id: dsq-747534703
+date: 2011-03-31T11:48:29.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>You need to map the <code>application/zip</code> mime type to <code>*.nupkg</code> in IIS. We're going to try and change our package do that for you. :)</p>

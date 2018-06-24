@@ -1,0 +1,5 @@
+id: dsq-747530627
+date: 2009-12-30T02:00:36.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Regarding forms in partial views, I generally don't put the form in the partial view. I'll do something like this:<br>&lt;% using(Html.BeginForm()) { %&gt;<br>&lt;% Html.RenderPartial("Comments"); %&gt;<br>&lt;% } %&gt;<br>Otherwise, you'll have to add something extra to the form to tell the controller what it should do.</p>

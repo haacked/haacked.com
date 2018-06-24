@@ -1,0 +1,5 @@
+id: dsq-747535725
+date: 2011-09-18T09:56:32.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hi all, the reason the validation message wasn't showing up in spanish was that I didn't set the culture early enough. I updated the site and code.</p>

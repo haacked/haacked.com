@@ -1,0 +1,5 @@
+id: dsq-747523411
+date: 2007-11-17T11:00:24.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <blockquote>I can easily make a program to pass every fixed test you can possibly write...</blockquote><p><br>But why would you do that? If you are trying to write correct code *and* you are writing tests for that code, what would be the point in doing that?<br>I get the point. You might somehow accidentally end up with tests and code that only passes those tests. And the Earth might fall into the sun tomorrow. The odds of that are miniscule when applying real red-green factor testing. That situation would only happen if you're trying to sabotage yourself.</p>

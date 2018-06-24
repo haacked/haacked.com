@@ -1,0 +1,5 @@
+id: dsq-747529613
+date: 2012-09-12T21:53:51.0000000-07:00
+name: Theodore R. Smith
+avatar: https://disqus.com/api/users/avatars/Theodore R. Smith.jpg
+message: <p>haacked, that could very well be it.<br>I looked again at the article you referenced. Its example looks to be in C# and both of your guys is in Python.<br>The thing that looked the weirdest was how you both have <br>&lt;%= @order.customer.name %&gt;<br>and then<br><br>&lt;%= @order.customer_name %&gt;<br>But that could very well be chance, and you're right, the other guy doesn't attribute at all, further muddying the waters.<br>I apologize.</p>

@@ -1,0 +1,5 @@
+id: dsq-747516478
+date: 2006-08-29T09:59:50.0000000-07:00
+name: vern
+avatar: https://disqus.com/api/users/avatars/vern.jpg
+message: <p>Actually, on subText, it's really as easy as adding this to DTP.aspx;<br>&lt;link id="MainStyle" type="text/css" rel="stylesheet" media="Screen" runat="Server" /&gt;<br>I realize I could (should?) have put it in some skin config, but I figured it should apply for the entire site.<br>That worked beautifully for me. I was trying to add a specific stylesheet for handhelds, but adding that made the difference for me on my Verizon XV6700, WM5.<br>Try viewing my site on your Rasbpberry and tell me how it looks...<br>I'm trying to pull yours up on my PPC <strike>but it ain't workin. When it does I'll let you know how it looks.</strike> and it looks ok, but your toolbar (home, archives, etc.) runs off the end. Specifically, Resume and Blogtegrity are the offenders. Oh, and the post about skinning; one of the graphics is a little too wide.</p>

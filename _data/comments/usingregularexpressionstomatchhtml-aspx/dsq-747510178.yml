@@ -1,0 +1,5 @@
+id: dsq-747510178
+date: 2006-06-05T15:57:00.0000000-07:00
+name: rubendj
+avatar: https://disqus.com/api/users/avatars/rubendj.jpg
+message: "<p>&lt;!--.*?--&gt; doesn't work in cases like:<br>&lt;!--comments1--&gt; visible text &lt;!--comments2--&gt;<br>because it matchs entire line.<br>This reg. exp. works better: &lt;!--[^(--&gt;)]*--&gt;</p>"

@@ -1,0 +1,5 @@
+id: dsq-747523754
+date: 2007-12-11T02:53:57.0000000-08:00
+name: Brennan Stehling
+avatar: https://disqus.com/api/users/avatars/Brennan Stehling.jpg
+message: <p>Sometimes you cannot use inheritance to address your current task. I use inheritance and composition all the time and it comes down to whether or not I can delegate functionality and if inheritance even makes sense. My favorite example of composition is the GridView which extends the CompositeDataBoundControl. It is made up of Buttons, TextBoxes, Labels and all kinds of other controls. It does not inherit them, but instead leverages the properties and events on the child controls to orchestration the actions that are taking place. Meanwhile it can be useful to extend the TextBox control to add new functionality or to override the rendering. I like having both approaches available to me.</p>

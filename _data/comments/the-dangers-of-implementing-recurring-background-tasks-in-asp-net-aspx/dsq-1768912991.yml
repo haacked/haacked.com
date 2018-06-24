@@ -1,0 +1,5 @@
+id: dsq-1768912991
+date: 2015-01-02T11:42:13.0000000-08:00
+name: kns98
+avatar: https://disqus.com/api/users/avatars/kns98.jpg
+message: <p>nice solution and good tip to reference the timer :) - to avoid garbage collection. I think you can also use HostingEnvironment.QueueBackgroundWorkItem and avoid needing the iregisterobject.</p>

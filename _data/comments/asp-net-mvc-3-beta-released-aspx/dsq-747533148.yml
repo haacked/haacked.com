@@ -1,0 +1,5 @@
+id: dsq-747533148
+date: 2010-10-28T19:40:27.0000000-07:00
+name: Maxild
+avatar: https://disqus.com/api/users/avatars/Maxild.jpg
+message: <p>Just browsed the source for MVC 3. A lot of new code! <br>I am going to investigate further but the dependencies and the duplication seems a bit weird for a start.<br>What is this new System.Web.WebPages and System.Web.WebPages.Razor that MVC needs to build and run? <br>Is it really necessary to understand for a guy using a 3rd party view engine? <br>And why can't Razor be brought in -- from my code -- without a reference to System.Web.Razor in System.Web.Mvc? I mean, if I like to try Razor my web app project will reference it and bootstrap the engine probably referencing System.Web.Razor and 'System.Web.Mvc.Razor' (an assembly name i made up for mvc specific 'adapter' code). <br>Maybe this is a subject for another blog post.<br>P.S. Thanks for always make a preview of the source available</p>

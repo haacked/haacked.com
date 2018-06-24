@@ -1,0 +1,5 @@
+id: dsq-747524589
+date: 2012-06-15T17:40:17.0000000-07:00
+name: Emil
+avatar: https://disqus.com/api/users/avatars/Emil.jpg
+message: <p>It doesn't take into consideration when an action is marked [HttpPost] because in that case if you issue a GET URL the Route Debugger will say it has a match when it actually doesn't because the Action in the controller is POST and the typed action is GET.</p>

@@ -1,0 +1,5 @@
+id: dsq-747529218
+date: 2009-06-03T03:06:00.0000000-07:00
+name: Elad Ossadon
+avatar: https://disqus.com/api/users/avatars/Elad Ossadon.jpg
+message: '<p>OK, answering myself: That method I looked for is Html.BuildUrlFromExpression&lt;T&gt;()<br>I would have expected it to be in UrlHelper and not in HtmlHelper, but at least it exists.</p>'

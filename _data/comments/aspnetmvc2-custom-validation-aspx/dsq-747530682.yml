@@ -1,0 +1,5 @@
+id: dsq-747530682
+date: 2009-11-20T01:23:00.0000000-08:00
+name: Austin
+avatar: https://disqus.com/api/users/avatars/Austin.jpg
+message: <p>Phil, thanks for the examples. I'm in the same boat with a lot of people and would prefer server-side validation only to having to duplicate efforts.<br>One thing I'd like to see in the future are some examples of Partial Views and with Data Annotations validation. I would think my scenario would be pretty common but I have not found many examples using it.<br>I have some common forms that may appear on many different pages, and I use partial views for them. If I'm not using Ajax, my controller has the issue of not knowing which View to return. So to get around this I feel like I'm forced to use ajax and return partial views. I was able to get the custom validators to work with Ajax.BeginForm() to a limited extent... but it'd be nice to see some working examples.<br>Thanks for the updates - loving MVC!</p>

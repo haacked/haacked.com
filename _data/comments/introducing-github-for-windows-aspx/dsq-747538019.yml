@@ -1,0 +1,5 @@
+id: dsq-747538019
+date: 2012-05-22T00:25:16.0000000-07:00
+name: davidacoder
+avatar: https://disqus.com/api/users/avatars/davidacoder.jpg
+message: <p>I think this is the best thing that could have happened to git on win, fantastic work!<br>I just wish github would (I guess in general) be more open to the distributed nature of git. I feel you guys are constraining git a lot by having hierarchies all over the place, where git doesn't. I have in mind that a) you can only create one fork per project per user, b) that forks have a parent-child relationship, c) in gh4w you now have a primary remote, d) gh4w doesn't even show the other remotes and it is unclear how that would work with the "sync" terminology.<br>I actually think it is good that novice users don't have to deal with this whole idea of a network of repos etc. But I wish you would allow power users to get away from these limitations that github imposes on git.<br>But then, I also I hope you will iterate fast and often and maybe these are things for an update :) Open sourcing it would obviously be the really cool thing to do.</p>

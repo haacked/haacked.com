@@ -1,0 +1,5 @@
+id: dsq-2082772778
+date: 2015-06-16T14:38:12.0000000-07:00
+name: Dan Moyer
+avatar: https://disqus.com/api/users/avatars/danmoyer.jpg
+message: <p>Late 90's before the dotcom bubble burst.  Luckily happened in days before much media coverage of hacking and security infiltration.    Was doing testing on a web site and using real email addresses from the database.   The test should never had caused a 'send'    But mistakes happen.  The mistake caused a test message email send to a couple thousand users.   Spent the next couple weeks replying to pissed off customers wandering what the bogus email was.    Quickly learned to never, ever, use live customer email addresses from the database for testing.</p>

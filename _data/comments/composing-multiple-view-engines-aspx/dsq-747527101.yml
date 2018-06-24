@@ -1,0 +1,5 @@
+id: dsq-747527101
+date: 2008-11-16T18:28:03.0000000-08:00
+name: Sergio Pereira
+avatar: https://disqus.com/api/users/avatars/Sergio Pereira.jpg
+message: "<p>From what I've seen, another problem is the different ways the view passes data to the partials or how/if the partials have visibility to the view's local variables.<br>I mean, it's very possible that you cannot just change the engine of the partial and leave the RenderPartial(\"partialname\") untouched.<br>Sidenote: Spark is interesting but, as @Jonathan said, above brings some cold-confusion with it. It's not spaghetti code, probably ravioli or tortelini code.</p>"

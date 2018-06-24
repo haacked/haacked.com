@@ -1,0 +1,5 @@
+id: dsq-747519072
+date: 2007-03-11T21:04:54.0000000-07:00
+name: engtech
+avatar: https://disqus.com/api/users/avatars/engtech.jpg
+message: <p>I've started getting into using YAML serialization for configuration files.<br>Reading/writing is as simple as LoadFile/DumpFile and the structure of the config file matches the data structure used for the settings in the program.<br><a href="http://www.yaml.org/" rel="nofollow noopener" title="http://www.yaml.org/">http://www.yaml.org/</a></p>

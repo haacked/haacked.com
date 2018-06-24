@@ -1,0 +1,5 @@
+id: dsq-747532519
+date: 2010-06-13T16:07:41.0000000-07:00
+name: Marcel Popescu
+avatar: https://disqus.com/api/users/avatars/Marcel Popescu.jpg
+message: "<p>@Troels - I agree with you in theory, but I still haven't been able to apply this to my situation: I write WCF services which can receive very complex objects (very wide AND deep - up to maybe 15 levels deep, if not worse). These objects can describe people, businesses, addresses, contact information... a lot of stuff. So... I find it easier to call a method with M(PersonInfo) and let that method check for possible nulls in the properties of the PersonInfo object rather than move the checks before the call to M()... call that can occur multiple times.<br>I would indeed prefer to only check the input once - I am regularly bitten by null reference exceptions - but I fear that it would complicate the code too much and create more problems than it solves.</p>"

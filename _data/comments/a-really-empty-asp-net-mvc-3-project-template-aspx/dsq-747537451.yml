@@ -1,0 +1,5 @@
+id: dsq-747537451
+date: 2012-01-22T06:04:35.0000000-08:00
+name: coolguy97
+avatar: https://disqus.com/api/users/avatars/coolguy97.jpg
+message: '<p>Me too go the Same error on Windows Xp SP3 2010 VWDExpress Edition<br>Log:<br>Install Error : System.IO.PathTooLongException: C:\Documents and Settings\coolguy97\Local Settings\Application Data\Microsoft\VWDExpress\10.0\Extensions\Phil Haack\ReallyEmptyMvc3ProjectTemplate\3.1\ProjectTemplates\CSharp\Web\<a href="http://ReallyEmptyMvc3ProjectTemplate.zip" rel="nofollow noopener" title="ReallyEmptyMvc3ProjectTemplate.zip">ReallyEmptyMvc3ProjectTempl...</a>: ReallyEmptyMvcWebApplicationProjectTemplate.cshtml.vstemplate<br>   at Microsoft.VisualStudio.ExtensionManager.ExtensionManagerService.BeginInstall(IInstallableExtension installableExtension, Boolean perMachine, AsyncOperation asyncOp)<br>   at Microsoft.VisualStudio.ExtensionManager.ExtensionManagerService.InstallWorker(IInstallableExtension extension, Boolean perMachine, AsyncOperation asyncOp)</p>'

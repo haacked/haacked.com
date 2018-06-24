@@ -1,0 +1,5 @@
+id: dsq-747515586
+date: 2006-08-08T03:58:53.0000000-07:00
+name: WannaKnow
+avatar: https://disqus.com/api/users/avatars/WannaKnow.jpg
+message: <p>How do we write something to guard against the column datatype changes, like in your example, if there was a need to change the 'FavoriteColorId' from 'int' to 'varchar(10)'.<br>I am sure those things happen quite a bit in the course of development.</p>

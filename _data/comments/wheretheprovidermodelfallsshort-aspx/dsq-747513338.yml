@@ -1,0 +1,5 @@
+id: dsq-747513338
+date: 2005-11-01T08:34:00.0000000-08:00
+name: Chad Humphries
+avatar: https://disqus.com/api/users/avatars/Chad Humphries.jpg
+message: <p>This is why all of our project on .net and java have used iBatis (<a href="http://ibatis.apache.org/" rel="nofollow noopener" title="http://ibatis.apache.org/">http://ibatis.apache.org/</a>) for the last year or so.<br><br><br><br>In practice only minimal changes to the sql maps are needed to move between data providers.  In some of our applications only a property addition and update of the result map were necessary.<br><br><br><br>After getting into NHibernate for a while I've not been satisified.  That's just me though, I much enjoy the simplicity of iBatis.  <br><br><br><br>Finally I would say that I enjoy NHibernate in the context of ActiveRecord.  When working with the Castle Project and ActiveRecord implementation is so simple and quick that it does make it a pleasure to work with.</p>

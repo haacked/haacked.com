@@ -1,0 +1,5 @@
+id: dsq-747527782
+date: 2009-01-27T09:18:25.0000000-08:00
+name: Adam Cooper
+avatar: https://disqus.com/api/users/avatars/Adam Cooper.jpg
+message: <p>Hi Phil,<br>Congratulations on the release candidate. The improvements look great.<br>For MVC Beta, I was using ModelState.AddModelError and ModelState.SetAttemptedValue, but the RC contains no SetAttemptedValue method. Instead, there is a similarly named method (I think it's SetModelValue or SetValue) that uses a ValueProviderResult in place of a simple string value. I thought the new RC API was pretty straightforward, but the method calls I ended up with seemed pretty wieldy and I wondered if perhaps I was missing something. Any guidance as to how to use the new RC API for adding errors and attempted values to model state?<br>Thanks much,<br>Adam</p>

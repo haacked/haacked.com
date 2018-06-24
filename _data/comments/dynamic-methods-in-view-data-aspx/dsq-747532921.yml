@@ -1,0 +1,5 @@
+id: dsq-747532921
+date: 2010-08-17T02:00:30.0000000-07:00
+name: '[ICR]'
+avatar: https://disqus.com/api/users/avatars/[ICR].jpg
+message: <p>"This is PHP-style programming, a mistyped letter and you'll never know why something is not shown in the view."<br>Why would mistyping the name of a dynamic property be anything different to mistyping the key in a dictionary? Just because dynamic objects and PHP are both dynamic doesn't mean they handle failures the same - a dynamic object can still give an exception if the object isn't found.<br>They're not replacing a strongly typed object with a dynamic object - they're replacing a dynamic object with a different dynamic object with more syntactic sugar. The consequences of the potentially misleading syntactic sugar are debatable, but this isn't going to lead to any less errors being found.</p>

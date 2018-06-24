@@ -1,0 +1,5 @@
+id: dsq-747524675
+date: 2008-03-26T02:12:31.0000000-07:00
+name: Colin Jack
+avatar: https://disqus.com/api/users/avatars/Colin Jack.jpg
+message: <p>From the look of this discussion and the blog entries it looks like Moq is moving towards being another mocking framework in the same vein as Rhino. <br>I must also admit, and maybe I need to play with Moq to get it, I'm not seeing the big difference in approaches. As Oran said you still have record/playback its just a little less explicit. If you actually want mocking then at the minute there is no other choice than record/playback (from what I've seen).<br>I personally find the more interesting distinction to be between TypeMock and other frameworks, and between real mockist (outside-in and role based) development and classicist development. Those choices have a real effect not just on how you test but potentially upon the resulting designs.</p>

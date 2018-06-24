@@ -1,0 +1,5 @@
+id: dsq-747523449
+date: 2007-11-26T22:22:33.0000000-08:00
+name: Jacques Philip
+avatar: https://disqus.com/api/users/avatars/Jacques Philip.jpg
+message: <p>Isn't the Membership provider a particular case as it already has a way of 'injecting' a different provider into an application with the provider pattern.<br>So if you configure a MockProvider in the app.config of the test assembly, it will automatically be used by the test controller without having to use DI.<br>It seems to me that using DI with a system designed for the provider pattern will get people confused. It is hard enough to understand DI with a system that has been designed for it.</p>

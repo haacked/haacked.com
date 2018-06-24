@@ -1,0 +1,5 @@
+id: dsq-747508318
+date: 2010-12-14T01:06:09.0000000-08:00
+name: Kris Krause
+avatar: https://disqus.com/api/users/avatars/Kris Krause.jpg
+message: <p>Thanks guys. The following code removed the header for me:<br>webRequest.ServicePoint.Expect100Continue = false;<br>One can verify the raw HTTP using Fiddler (if you want).</p>

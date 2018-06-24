@@ -1,0 +1,5 @@
+id: dsq-747533721
+date: 2010-12-13T17:06:41.0000000-08:00
+name: Adam
+avatar: https://disqus.com/api/users/avatars/Adam.jpg
+message: "<p>@philhaack: You're skirting the issue. Just make \"ViewData\" a dynamic dictionary. I'm sure it's painful, probably more for the MVC team than most of us, but it's the only way everybody will be happy. I've made some really big projects using MVC (ones I don't really want to have to change.) But everytime you release a new version of MVC, I have to make changes. dynamic ViewData. Just do it. You'll feel better afterwards.</p>"

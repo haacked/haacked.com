@@ -1,0 +1,5 @@
+id: dsq-997989730
+date: 2013-08-12T14:57:38.0000000-07:00
+name: Tarek
+avatar: https://disqus.com/api/users/avatars/Tarek.jpg
+message: <p>It seems that the developer does not need to care about XSS in MVC 4 since the url is already encoded by default!</p>

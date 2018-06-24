@@ -1,0 +1,5 @@
+id: dsq-747509677
+date: 2005-05-08T20:10:00.0000000-07:00
+name: Sean
+avatar: https://disqus.com/api/users/avatars/Sean.jpg
+message: <p>SALT needs to be random.  And never repeated.  If you happen to store to passwords, or send two encrypted texts using the same password/salt combination, you just gave an attacker a big head-start.  If the salt can be calculated each time, then it can't be random.<br><br><br><br>Sean<br><br></p>

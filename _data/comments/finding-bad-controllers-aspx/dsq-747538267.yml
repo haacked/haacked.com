@@ -1,0 +1,5 @@
+id: dsq-747538267
+date: 2012-07-25T18:41:08.0000000-07:00
+name: Ruben Bartelink
+avatar: https://disqus.com/api/users/avatars/Ruben Bartelink.jpg
+message: <p>For people that are interested in managing such things via tests instead of tools, the ControllerInspector concept is in the direction of Mark Seemann (@ploeh)'s AutoFixture's Idioms stuff, which I got introduced to via <a href="http://stackoverflow.com/a/11455580/11635" rel="nofollow noopener" title="http://stackoverflow.com/a/11455580/11635">http://stackoverflow.com/a/11455580/11635</a><br>Then engine for Idioms supports types so [some]one could easily add validation of conventions like this as an AF Idioms Contrib thing.<br>In the MVC space, the sort of thing this could also be employed for is verifying conventions on Models (e.g. must have default constructor).<br>The fun bit is figuring out a way of doing the APIs around this in a way that satisfies enough people (which is why Mark says he's yet to get to the stage where he's ready to publicise it).</p>

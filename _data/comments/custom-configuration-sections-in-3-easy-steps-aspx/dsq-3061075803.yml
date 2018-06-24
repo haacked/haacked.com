@@ -1,0 +1,5 @@
+id: dsq-3061075803
+date: 2016-12-20T08:13:35.0000000-08:00
+name: Fenil Desai
+avatar: https://disqus.com/api/users/avatars/fenildesai.jpg
+message: <p>Can we pass another config section as parameter to a config section. something like -</p><p>&lt;blogsettings frontpagepostcount="10" title="You’ve Been Haacked" customsection="mysectionName"/&gt;</p><p>where mysectionname is another section - <br>&lt;section name="mysectionName" type="Fully.Qualified.TypeName.mysectionName,   <br>      AssemblyName"/&gt;</p>

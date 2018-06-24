@@ -1,0 +1,5 @@
+id: dsq-2413800317
+date: 2015-12-16T23:15:54.0000000-08:00
+name: Matti Petrelius
+avatar: https://disqus.com/api/users/avatars/mattipetrelius.jpg
+message: <p>I always use the lower case string and int for consistency. Whether I am calling a static method or specifying a type. It makes it more clear that were dealing with the same types. Especially with int and Int32 it might not always be clear that they are the same thing. I think it is easier to read code with only string and int instead of both capitalized and lowercase version in various places. Once you get over the fact that even types that seem primitive can have methods there really is no reason to have two different ways of using string.</p>

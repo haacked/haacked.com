@@ -1,0 +1,5 @@
+id: dsq-747536384
+date: 2011-10-27T01:35:38.0000000-07:00
+name: mike johnson
+avatar: https://disqus.com/api/users/avatars/mike johnson.jpg
+message: <p>In Azure you could just queue this up to a web worker, but strange that there really is no batch queue service into which you can just plug in a blob of code to execute periodically. <br>Is there such a thing?</p>

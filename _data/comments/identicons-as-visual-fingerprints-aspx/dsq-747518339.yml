@@ -1,0 +1,5 @@
+id: dsq-747518339
+date: 2009-12-27T12:19:31.0000000-08:00
+name: Shay
+avatar: https://disqus.com/api/users/avatars/Shay.jpg
+message: <p>It's funny, I was reading some comments on a blog, and noticed interesting kaleidascopic icons next to each post. It was clear by the nature of the topic that the people replying weren't registered users, yet they each had unique icons (including the reply I made). I saw that it was useful for distinguishing users, and figured that they might be based on the hash of the user's name. Sure enough, one person who replied several times had the same icon (I suppose it could have been based on his IP address). In the URL for one of the images I saw the word "identicon", and confirmed my hunch. It's a great idea, and an enjoyable visual implementation as well.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747531718
+date: 2010-02-21T22:56:09.0000000-08:00
+name: BjartN
+avatar: https://disqus.com/api/users/avatars/BjartN.jpg
+message: <p>Isn't this exactly the problem route constraints are created to solve ? <br>   routes.MapRoute(<br>               "Id",                                            <br>               "pages/{id}",<br>                new { controller = "Home", action = "GetById" },<br>                new { id = new IntegerIdContraint()}<br>            );<br>            routes.MapRoute(<br>                "Slug",                                                 <br>                "pages/{slug}",                                               <br>                new { controller = "Home", action = "GetBySlug" }<br>                );</p>

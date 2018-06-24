@@ -1,0 +1,5 @@
+id: dsq-1201692202
+date: 2014-01-15T03:59:34.0000000-08:00
+name: Dale Waring
+avatar: https://disqus.com/api/users/avatars/dalewaring.jpg
+message: <p>Great article helped me a lot but my only issue with it is where you're storing the files, I'd recommend to anyone following the tutorial to create a folder in your solution for example images, then a sub folder called uploads and then replace App_Data with images in the path.</p><p>Just the App_Data folder is meant to be used for database files not images, documents etc.</p><p>All in all though spot on.</p><p>Cheers</p>

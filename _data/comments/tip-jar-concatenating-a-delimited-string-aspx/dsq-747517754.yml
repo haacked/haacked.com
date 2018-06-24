@@ -1,0 +1,5 @@
+id: dsq-747517754
+date: 2006-11-24T03:18:47.0000000-08:00
+name: Tom
+avatar: https://disqus.com/api/users/avatars/Tom.jpg
+message: <p>If Length was a complicated property accessor or function, that would be true.  But Length actually resolves to just a single read of a memory location.  So it takes just as long to access fakes.Length in the loop as it does to access your 'n' variable.</p>

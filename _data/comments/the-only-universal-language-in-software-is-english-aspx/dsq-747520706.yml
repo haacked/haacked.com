@@ -1,0 +1,5 @@
+id: dsq-747520706
+date: 2007-05-29T04:28:25.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@BarryD - I totally disagree. Ruby isn't meant to be a business language readable by non-programmers. And why this picking on COBOL? It's still in use productively by many developers. Wouldn't that make it a success?<br>Anyways, my point is why even bother trying to pick good names for your classes? Why even bother with object modeling, good variable naming, etc...?<br>Because, as much as you like your curly brackets and funky += syntax, you still want to work with good abstractions that express the intent of your code. It's why we don't work with Assembler all the time ("don't worry, you get used to it if you're a *real* programmer.")<br>Yes, we get used to our language constructs, but the more our code expresses our intent, the better for all developers, seasoned or otherwise.</p>

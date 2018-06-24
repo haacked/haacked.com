@@ -1,0 +1,5 @@
+id: dsq-747530035
+date: 2009-09-30T05:30:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Jim we've improved the HTML Encoding such that &lt;%: %&gt; will be save to use within quoted (single or double) attributes. We don't recommend unquoted attributes.<br>As for JavaScript, this does not the correct encoding for JavaScript. However, AFAIK, it does encode double quotes which should provide some mitigation if you accidentally use this encoding and meant to use JavaScript encoding.<br>I believe ASP.NET 4 does include a JavaScript encoding method (I'd have to dig around). We did not create a special syntax for it.</p>"

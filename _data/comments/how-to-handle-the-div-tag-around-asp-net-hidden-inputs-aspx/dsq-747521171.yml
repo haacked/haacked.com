@@ -1,0 +1,5 @@
+id: dsq-747521171
+date: 2007-06-16T02:55:05.0000000-07:00
+name: Mads Kristensen
+avatar: https://disqus.com/api/users/avatars/Mads Kristensen.jpg
+message: "<p>I can't see why this is a problem. In ASP.NET 1.x I always used a custom form control that added the div tag for XHTML conformance. It has never been an issue to be able to identify that particular div by a class name for one very simple reason: there is no need to reference all divs on a page or within a form from CSS. If you want to do it anyway, you can do it like so:<br>This will reference the auto-generated div in CSS:<br>form div {background:blue}<br>and this will reference the divs you inserted inside the form to create you page<br>form div div {background:white}</p>"

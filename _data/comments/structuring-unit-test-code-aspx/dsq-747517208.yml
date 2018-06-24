@@ -1,0 +1,5 @@
+id: dsq-747517208
+date: 2006-10-10T13:30:27.0000000-07:00
+name: Jamie Cansdale
+avatar: https://disqus.com/api/users/avatars/Jamie Cansdale.jpg
+message: <p>"Even when I do start separating tests, one issue with having unit tests in two separate assemblies is that I don’t know how to produce NCover reports that merge the results of coverage from two separate assemblies."<br>If you are using TD.NET you can select all of the test assemblies you wish to merge. You then 'Test With... Coverage' and all of the coverage results will be merged.<br>If you're using NCover in a build script, ask Grant Drake about using NCoverExplorer reporting to merge the coverage file. I think there's a way, but I couldn't find it after doing a quick search.</p>

@@ -1,0 +1,5 @@
+id: dsq-747533217
+date: 2010-10-27T05:48:23.0000000-07:00
+name: james Fleming
+avatar: https://disqus.com/api/users/avatars/james Fleming.jpg
+message: '<p>I discovered the route of my problem - was the latest changeset (and several before):<br>c6ee0f12c63f by dfowler Today at 2:48 AM 12 <br>Associated with Release: NuPack 10-26-2010 build.<br>Use GetResponse in GetResponseUri to remove code duplication. <br>This one worked:0599a8e0692c by Haacked <a href="http://nupack.codeplex.com/SourceControl/network/Forks/Haacked/HaackingNuPackServer" rel="nofollow noopener" title="http://nupack.codeplex.com/SourceControl/network/Forks/Haacked/HaackingNuPackServer">nupack.codeplex.com/.../HaackingNuPackServer</a></p>'

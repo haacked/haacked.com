@@ -1,0 +1,5 @@
+id: dsq-1725097183
+date: 2014-12-04T00:59:15.0000000-08:00
+name: Michael
+avatar: https://disqus.com/api/users/avatars/Michael.jpg
+message: "<p>Hello Phil!</p><p>I'm using the GitHub-for-Windows provided Posh-Git from <br>within the Visual Studio NuGet Package Manager. Unfortunately, I ran <br>into an issue with the standard Git output being shown as an error in <br>NuGet Package Manager. I've posted this on the NuGet issue tracker some weeks ago:<br><a href=\"https://nuget.codeplex.com/workitem/4335\" rel=\"nofollow noopener\" title=\"https://nuget.codeplex.com/workitem/4335\">https://nuget.codeplex.com/...</a></p><p>Since I didn't yet hear from the NuGet team about this and you just today posted this nice Git-link summary, I figured, maybe you got some pointers for me?</p><p>And just for fun sake: I'm working on setting up an entire GitFlow based on automation scripts that run directly from NuGet Package Manager and get installed via NuGet package. Combining these two makes for really great solutions :)</p><p>Best regards, Michael</p>"

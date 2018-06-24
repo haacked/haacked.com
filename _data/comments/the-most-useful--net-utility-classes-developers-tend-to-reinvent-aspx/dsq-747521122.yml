@@ -1,0 +1,5 @@
+id: dsq-747521122
+date: 2007-06-26T11:07:46.0000000-07:00
+name: ChrisMo
+avatar: https://disqus.com/api/users/avatars/ChrisMo.jpg
+message: <p>Woops, I meant :<br>Double d = 3.14 / 3;<br>NumberFormatInfo formatProvider = new CultureInfo("en-US", false).NumberFormat ;<br>formatProvider.NumberDecimalDigits = 2;<br>Console.WriteLine( d.ToString( "N", formatProvider ) );<br>formatProvider.NumberDecimalDigits = 3;<br>Console.WriteLine( d.ToString( "N", formatProvider ) );</p>

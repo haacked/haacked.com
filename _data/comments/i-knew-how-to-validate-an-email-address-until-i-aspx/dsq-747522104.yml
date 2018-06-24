@@ -1,0 +1,5 @@
+id: dsq-747522104
+date: 2009-01-19T07:38:55.0000000-08:00
+name: Shawn Martin
+avatar: https://disqus.com/api/users/avatars/Shawn Martin.jpg
+message: <p>Thanks for this post.  It's a topic of interest to me lately since I've been working on an SMTP server.<br>Here's my 2 cents...<br>I'd like to emphasize a point that made earlier - context is very important.  The exact format of an SMTP address is different in a message envelope than it is in a message header and it's yet again different in an HTML file.  What's allowed in a forward path is even different from what's allowed in a reverse path.<br>Also, there are new RFCs (&lt;a href"<a href='http://tools.ietf.org/html/rfc5321">5321' rel="nofollow noopener" title='http://tools.ietf.org/html/rfc5321">5321'>http://tools.ietf.org/html/rfc5321"&gt;5321</a> &lt;a href"<a href='http://tools.ietf.org/html/rfc5322">5322' rel="nofollow noopener" title='http://tools.ietf.org/html/rfc5322">5322'>http://tools.ietf.org/html/rfc5322"&gt;5322</a>) as of October 2008 that replace 2821 and 2822.  They're a bit cleaner.  For example the definition of quoted-string was a broken mess in 2821 and it's now fixed.</p>

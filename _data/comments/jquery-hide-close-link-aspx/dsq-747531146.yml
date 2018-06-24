@@ -1,0 +1,5 @@
+id: dsq-747531146
+date: 2009-12-25T16:09:51.0000000-08:00
+name: Martin S.
+avatar: https://disqus.com/api/users/avatars/Martin S..jpg
+message: "<p>The slideUp effect is great!<br>On a side note tho:<br>One should really know it sets the style of ALL matching elements to display: none - that's great to know when debugging.<br>I ended up using hide() instead, not as smooth but solved a problem for me.</p>"

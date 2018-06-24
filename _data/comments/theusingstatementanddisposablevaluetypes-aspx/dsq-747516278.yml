@@ -1,0 +1,5 @@
+id: dsq-747516278
+date: 2006-08-14T01:55:05.0000000-07:00
+name: Nicholas Paldino [.NET/C# MVP]
+avatar: https://disqus.com/api/users/avatars/Nicholas Paldino [.NET/C# MVP].jpg
+message: "<p>It's definitely a nice little thing that the .NET team did here.<br>However, you should be aware of one caveat.  If you implement IDisposable on your structure explicitly, then it will result in your structure being boxed.<br>Juval Lowy has a chapter in his book \"Programming .NET Components, 2nd Edition\" which describes it in detail (disclosure: I know Juval, and did the technical editing on this book).</p>"

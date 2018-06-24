@@ -1,0 +1,5 @@
+id: dsq-747536306
+date: 2011-10-13T23:37:01.0000000-07:00
+name: Peter W
+avatar: https://disqus.com/api/users/avatars/Peter W.jpg
+message: <p>Justin Etheredge encountered the same "Form" limitation back in Feb 2011 when he had to deal against CSRF in AJAX requests:<br><a href="http://www.codethinked.com/asp.net-mvc-ajax-csrf-protection-with-jquery-1.5" rel="nofollow noopener" title="http://www.codethinked.com/asp.net-mvc-ajax-csrf-protection-with-jquery-1.5">www.codethinked.com</a><br>We needed the same capability, and are eagerly awaiting an update or additional helpers that you referred to.<br></p>

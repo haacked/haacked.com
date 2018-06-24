@@ -1,0 +1,5 @@
+id: dsq-747529595
+date: 2010-09-29T02:30:52.0000000-07:00
+name: David V. Corbin
+avatar: https://disqus.com/api/users/avatars/David V. Corbin.jpg
+message: <p>Although you mention ASP.NET MVC...you completely miss the MVVM pattern used by WPF/Silverlight...<br>In this case a View Model exposes exactly what the view should interact with.<br>Using the specific example, exposting the Customer object (to get the name) also exposes the remainder of the customer object. This is dangerous. What if the view creator (often a graphic designer rather than a programmer) accidently binds a button to Order.Customer.DeleteAllInformation() !!!!<br>Why should a Order FORM (screen/report/etc) be dependent on a customer object at all? Sure it needs a name (probably address, phone, etc), but could that not be some entity that is not a "Customer" in the underlying system?</p>

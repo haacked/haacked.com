@@ -1,0 +1,5 @@
+id: dsq-747522822
+date: 2007-09-24T16:26:56.0000000-07:00
+name: Andy Stopford
+avatar: https://disqus.com/api/users/avatars/Andy Stopford.jpg
+message: <p>Frans, some good points and what you want to avoid is writing masses and masses of tests (which would be avoided by most manageemnt) or writing too little tests. Two things help here, frameworks that reduce this and do the work for you (MbUnits row and pairwise or XUnits theory attributes for example) coupled with a frameworks test input factories and random drivers.<br>Prehhaps this is where TDD had a big distiniction over just writing tests. TDD uses tests to map to the user stories so your tests will model the apps functionality so you are pinpointing areas that are suppose to work the way you require.<br>Tests coupled with requirements are the best deal and with tests you can adjust your tests to meet the need functionality and refactor with no fear of introducing regression bugs. Refactoring with no tests is like swimming with sharks with your leg hanging off.</p>

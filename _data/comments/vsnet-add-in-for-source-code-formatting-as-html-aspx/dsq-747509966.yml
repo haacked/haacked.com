@@ -1,0 +1,5 @@
+id: dsq-747509966
+date: 2004-10-16T05:53:00.0000000-07:00
+name: Needs Improvement
+avatar: https://disqus.com/api/users/avatars/Needs Improvement.jpg
+message: <p>I've updated CopySourceAsHtml based on suggestions from Phil Haack and Eric Means, and on something Jake Good said about polluting his IDE. :) CopySourceAsHtml Installer (271 KB) (built and tested on VS.NET 2003) CopySourceAsHtml Source (32 KB) After you...</p>

@@ -1,0 +1,5 @@
+id: dsq-747529109
+date: 2009-05-27T17:16:00.0000000-07:00
+name: DonSleza4e
+avatar: https://disqus.com/api/users/avatars/DonSleza4e.jpg
+message: <p>As temp solution I using next:<br>view is Inherits="System.Web.Mvc.ViewPage"<br>and accessing model values as<br>&lt;%=((MessageClass)Model).title %&gt;<br>this works fine for me. However need to be changes to 'good style' when crash will be resolved</p>

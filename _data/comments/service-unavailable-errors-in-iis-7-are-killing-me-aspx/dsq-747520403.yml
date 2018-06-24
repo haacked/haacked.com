@@ -1,0 +1,5 @@
+id: dsq-747520403
+date: 2011-08-25T13:15:09.0000000-07:00
+name: juju
+avatar: https://disqus.com/api/users/avatars/juju.jpg
+message: "<p>Server Error in '/' Application.<br>The current identity (IIS APPPOOL\\DefaultAppPool) does not have write access to 'C:\\inetpub'.<br>Description: An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code.<br>Exception Details: System.Web.HttpException: The current identity (IIS APPPOOL\\DefaultAppPool) does not have write access to 'C:\\inetpub'.<br>please help me solve this issue.</p>"

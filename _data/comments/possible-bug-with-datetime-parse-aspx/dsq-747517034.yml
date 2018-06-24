@@ -1,0 +1,5 @@
+id: dsq-747517034
+date: 2006-10-01T10:00:55.0000000-07:00
+name: Eric
+avatar: https://disqus.com/api/users/avatars/Eric.jpg
+message: <p>If you convert the date to a string (just using ToString()), does it give the value in local time equivalent to 10/01/2006 19:30 UTC (i.e. if you're in GMT-5, does it give 10/01/2006 14:30)?<br>If so, it's probably not a bug -- it just autoconverts to local time when you construct it (possibly to maintain a particular backcompat story).</p>

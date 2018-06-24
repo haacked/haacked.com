@@ -1,0 +1,5 @@
+id: dsq-747513213
+date: 2005-10-18T14:01:00.0000000-07:00
+name: Jeff Atwood
+avatar: https://disqus.com/api/users/avatars/Jeff Atwood.jpg
+message: "<p>I've read your posts on TDD and they seemed rational enough to me.<br><br><br><br>It's my fault for not highlighting this more, but Wil's post was very specificially referring to GUI-heavy applications. Not web apps, console apps, etc. Have you *seen* Delicious Monster? It's all GUI. Good luck TDD-ing that beast. <br><br><br><br>What I mainly object to is the hard-core religious test-only development folks.<br><br><br><br>I think spending time testing your app with real users is more important than pounding away on thousands of lines of testing code. You might be writing a stack of unit tests for a feature users end up never touching in your app.<br><br><br><br>That's also something Wil (and Spolsky) seems to be saying: at a small company, do you want 100% test code coverage, or five new features that users actually asked for? Because you can't have both. <br><br><br><br>I know which one will result in more sales...</p>"

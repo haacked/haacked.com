@@ -1,0 +1,5 @@
+id: dsq-747524815
+date: 2010-04-18T04:40:15.0000000-07:00
+name: sly
+avatar: https://disqus.com/api/users/avatars/sly.jpg
+message: <p>I 've tried successfully this idea:<br>1) package all your code-to-be-tested under a root package<br>2) Create a "Test solution" in which you create a " test project"<br>3) Add  the root package between under the  test solution  ("Add existing folder")<br>By this way, root package is shared between the actual solution and the test solution. <br>In the test solution, code-to-be-tested and test are in the SAME assembly.<br>There no deployment problem ,as tests even do no exist in the actual solution.<br>This is maybe a draback of this methodology. You have to deal with two solutions, and it is not as comfortable as to have only one with testing projects.</p>

@@ -1,0 +1,5 @@
+id: dsq-747517071
+date: 2006-10-03T08:34:55.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Ah, I see.  Yes, the key is the one piece of state I do need to keep around in the server, but that's easy enough to do, generating it once in a static constructor.  Each time the AppDomain recycles, that key would get regenerated, which is not a problem (and actually desirable).</p>

@@ -1,0 +1,5 @@
+id: dsq-747532358
+date: 2010-05-25T22:26:08.0000000-07:00
+name: fschwiet
+avatar: https://disqus.com/api/users/avatars/fschwiet.jpg
+message: <p>Aren't a lot of the issues of flexibility addressed with unit testing?  When you have good code coverage, you will see and be able to fix breaking changes from related components.  If you have a class and you want to change the semantics of the interface, while supporting users of the old one, you can just support a 2nd interface?  Assuming the consumers load the class via IoC they'll get the interface they know...<br>Maybe you want this type of adaptibility to be automatic?  Good luck with that.  I think more progress would be made getting more .Net developers up to speed on unit testing.</p>

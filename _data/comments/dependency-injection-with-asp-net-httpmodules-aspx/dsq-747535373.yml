@@ -1,0 +1,5 @@
+id: dsq-747535373
+date: 2011-06-04T03:04:54.0000000-07:00
+name: Chris
+avatar: https://disqus.com/api/users/avatars/Chris.jpg
+message: <p>so where do you register your module, i mean where is this method called? what class?<br>DynamicModuleUtility.RegisterModule(typeof(ContainerHttpModule&lt;MyHttpModule&gt;));<br>i'm a newbie by the way. in case this question sounds odd. nice post i must say. very clear and concise</p>

@@ -1,0 +1,5 @@
+id: dsq-747510197
+date: 2007-04-11T08:26:12.0000000-07:00
+name: lb
+avatar: https://disqus.com/api/users/avatars/lb.jpg
+message: "<p>&gt;You’ll have to use the SingleLine RegexOption for it to work<br>i had this same issue with a regex yesterday... how counter-intuitive is it that you use the singleline option to match a pattern that spans multiple lines?<br>i guess their thinking is that the singleline option means \"treat this input as a single line\" -- but that's not how we think when trying to get a regex to work. We think more along the lines of 'i want my pattern to match, even when it spans multiple-lines'<br>you know i wish i'd found this blog post yesterday... i had many of the same issues: the need for non-greedy matches, the need for the single line option... but my regex-fu is weak. i got there in the end.<br>lb</p>"

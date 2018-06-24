@@ -1,0 +1,6 @@
+id: dsq-2754563019
+replyToId: dsq-2415175511
+date: 2016-06-28T03:05:39.0000000-07:00
+name: Nyerguds
+avatar: https://disqus.com/api/users/avatars/maartenmeuris.jpg
+message: <p>Reference and value are unrelated to being nullable; String is nullable after all, and it is immutable just like DateTime.</p><p>You know there's this really simple shortcut for "Nullable&lt;datetime&gt;", right? Just use "DateTime?"</p>

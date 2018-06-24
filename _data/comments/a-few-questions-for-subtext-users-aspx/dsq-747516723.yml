@@ -1,0 +1,5 @@
+id: dsq-747516723
+date: 2006-09-17T18:29:18.0000000-07:00
+name: Mariuz
+avatar: https://disqus.com/api/users/avatars/Mariuz.jpg
+message: "<p>About nr3 question <br>I guess it would be nice for users to host the subtext on oss databases like mysq/fiebird . It can open an gate to host on <br>other platforms like macosx, linux, solaris ,*bsd (you name it)<br>and decrease the cost (no license fees)<br>ps: you can start coding over an DAL (database access layer)<br>to be independent of database bellow <br>I have seen something like this on php (<a href=\"http://adodb.sourceforge.net/)\" rel=\"nofollow noopener\" title=\"http://adodb.sourceforge.net/)\">http://adodb.sourceforge.net/)</a><br>Don't know if there is something like that in .net<br></p>"

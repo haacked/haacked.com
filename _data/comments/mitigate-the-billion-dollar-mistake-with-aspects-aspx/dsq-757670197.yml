@@ -1,0 +1,5 @@
+id: dsq-757670197
+date: 2013-01-06T02:17:57.0000000-08:00
+name: Chris Airey
+avatar: https://disqus.com/api/users/avatars/facebook-514938950.jpg
+message: <p>My suggested solution would only cover dependencies in an IoC scenario, not global code. You can use the interceptors that are provided by Castle as an example. This will give you access to before invoke and after invoke of the method, allowing you to check for method parameters for null. Many IoC support this and even MEF does too. This would give you runtime checking rather than at compile time however.</p>

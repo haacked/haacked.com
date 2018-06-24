@@ -1,0 +1,5 @@
+id: dsq-747519724
+date: 2007-04-19T20:10:42.0000000-07:00
+name: Christopher B. [christb@MSFT]
+avatar: https://disqus.com/api/users/avatars/bennage.jpg
+message: <p><br>I know that everyone in the blogosphere is saying this but...<br>* Explicitly naming variables, members, etc.<br>* Single Responsibility Principle<br>Of course, there are lots of little things, but those two are foremost in my mind lately.  <br>I've been writing a rather complex ActionScript (Flash) app the last few months and I keep asking myself, "How will a developer who comes after me understand this code?" Unfortunately, there's not a comparable ReSharper tool for ActionScript, as readability is often a product of refactoring.</p>

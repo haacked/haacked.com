@@ -1,0 +1,5 @@
+id: dsq-747529754
+date: 2009-08-19T05:45:00.0000000-07:00
+name: Michael Monteleone
+avatar: https://disqus.com/api/users/avatars/Michael Monteleone.jpg
+message: <p>I understand the concerns that this hides explicitness, but I think in this case it's OK, especially as the intent is still obvious and the hidden code is boilerplate.  For the record, Ruby on Rails also uses an identical approach:<br>ActiveRecord::Base.transaction do<br>    david.withdrawal(100)<br>    mary.deposit(100)<br>end<br>That being said, this discussion smells particularly bike-sheddy.</p>

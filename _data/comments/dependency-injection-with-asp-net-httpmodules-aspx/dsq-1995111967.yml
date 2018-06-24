@@ -1,0 +1,5 @@
+id: dsq-1995111967
+date: 2015-04-29T17:37:20.0000000-07:00
+name: justin mason
+avatar: https://disqus.com/api/users/avatars/disqus_SeikBR8xn2.jpg
+message: <p>return DependencyResolver.Current.GetService&lt;ihttpmodule&gt;();<br>Should be:</p><p> return DependencyResolver.Current.GetService&lt;tmodule&gt;();</p><p>At least I needed to make that change to get mine to work.</p>

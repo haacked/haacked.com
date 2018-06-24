@@ -1,0 +1,5 @@
+id: dsq-1186515857
+date: 2014-01-04T03:19:11.0000000-08:00
+name: vince
+avatar: https://disqus.com/api/users/avatars/vince.jpg
+message: <p>I'm not going to pretend I "know" what duck typing is, I thought I knew until I read Eric's post, but I think the example you gave in python where you have a try/catch block to determine "the type" is still late binding but determined in a structured way.</p><p>To me duck typing means defining a type which will become an object at some point in the future which may or may not be the same object thereafter...the type does not matter, that's the whole point to me. </p>

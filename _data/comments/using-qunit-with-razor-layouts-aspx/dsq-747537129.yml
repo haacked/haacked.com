@@ -1,0 +1,5 @@
+id: dsq-747537129
+date: 2011-12-11T15:34:18.0000000-08:00
+name: IC
+avatar: https://disqus.com/api/users/avatars/IC.jpg
+message: <p>It's pretty neat but seems to be more useful for testing library type code - i.e. code which provides some standalone functionality (like your Calculator class above). I don't normally write much library code in .js. The main class of code I could test like this is my client-side validators. Most of the .js I write is to affect some change on the DOM - I would still like to be able to unit test it though. What do you suggest for this type of behaviour testing? NB you'll need the real view to which the javascript applies not an isolated footest.cshtml like above.<br>@fschwiet I'd be interested to see an example if you can share one. Jasmine looks interesting.</p>

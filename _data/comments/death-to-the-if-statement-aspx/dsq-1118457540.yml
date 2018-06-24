@@ -1,0 +1,6 @@
+id: dsq-1118457540
+replyToId: dsq-1118435699
+date: 2013-11-11T11:22:50.0000000-08:00
+name: Guest
+avatar: https://disqus.com/api/users/avatars/Guest.jpg
+message: <p>an example...</p><p>string something (int number) {<br>   if (number &gt; 17) <br>       return "lala";<br>   else</p><p>       return "lolo";</p><p>}</p><p>i can't see where is the side effect here.</p>

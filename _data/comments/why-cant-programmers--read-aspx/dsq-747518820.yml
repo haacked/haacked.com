@@ -1,0 +1,5 @@
+id: dsq-747518820
+date: 2009-03-26T14:07:13.0000000-07:00
+name: Jeck Lamnent
+avatar: https://disqus.com/api/users/avatars/Jeck Lamnent.jpg
+message: "<p>That example spec is poorly written which is why such a large amount of programmers are failing at it.<br>1) It doesn't clearly state that multiples of 5 should not replace the number with buzz. <br>2) Through normal logic one would assume that 'FizzBuzz' is the result of 3 &amp; 5 having both passed, but the spec doesn't say that, it just says to print FizzBuzz again.<br>I've been programming my whole life and poorly worded/written specs are a big problem. Not all clients have the ability to communicate their needs logically. <br>At any rate, here is what those specs actually say:<br>for ($i = 1; $i &lt;= 100; $i++) {<br>    $is3 = !($i%3);<br>    $is5 = !($i%5);<br>    print $is3 ? 'fizz' : $i;<br>    print $is5 ? 'buzz' : null;<br>    print $is3 &amp;&amp; $is5 ? 'fizzbuzz' : null;<br>    print \"\\r\\n\";<br>}<br>-Jeck</p>"

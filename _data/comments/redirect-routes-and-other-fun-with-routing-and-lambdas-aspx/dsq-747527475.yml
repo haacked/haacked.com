@@ -1,0 +1,5 @@
+id: dsq-747527475
+date: 2008-12-16T01:17:09.0000000-08:00
+name: Bryan Watts
+avatar: https://disqus.com/api/users/avatars/Bryan Watts.jpg
+message: <p>I guess I didn't expect to see a specific derived class once you had a class which can handle all implementations (very functional of you!)<br>RedirectPermanently could use DelegateRouteHandler directly and wrap a private method which does the same work, avoiding the constructor codejitsu (and an artifact):<br><code><br>Route route = new Route(url, new DelegateRouteHandler(context =&gt; GetRedirectHandler(context, url, true)));<br>private static IHttpHandler GetRedirectHandler(RequestContext context, string targetUrl, bool permanently)<br>{<br>    // The body of the constructor function<br>}<br></code><br>&gt; Nested lambdas are hard to format in such a way that your head doesn't spin in circles. :)<br>We'll need an old priest and a young priest.</p>

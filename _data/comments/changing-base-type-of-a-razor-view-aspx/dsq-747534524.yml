@@ -1,0 +1,5 @@
+id: dsq-747534524
+date: 2011-03-31T20:01:29.0000000-07:00
+name: Mare
+avatar: https://disqus.com/api/users/avatars/Mare.jpg
+message: <p>Macu pointed out to the problems with intellisense when changing the web.config file in Views folder and I can confirm it. It makes everything to break (no other helpers are recognized/red underlined) and our custom helpers are not available though they do work when you run the site. It's just in the VS that they get broken.<br>Could you please investigate on that?</p>

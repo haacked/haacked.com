@@ -1,0 +1,5 @@
+id: dsq-747536620
+date: 2011-11-27T19:36:16.0000000-08:00
+name: Jesse
+avatar: https://disqus.com/api/users/avatars/Jesse.jpg
+message: <p>Two points on this. 1) having both @nocache and @cache seems like the best choice. They are very explicit and, while you can achieve the same nocache results using cache, it would be simpler to just say @nocache. As you said, that's the most likely scenario. 2) I'm with Jimmy and Jarrett. Razor is about templating. Baking cache directives into it means it's now concerned with more than just generating HTML. Jarrett's suggested extensions are pretty much spot on.</p>

@@ -1,0 +1,5 @@
+id: dsq-747535153
+date: 2011-05-02T19:03:49.0000000-07:00
+name: Alexander DiMauro
+avatar: https://disqus.com/api/users/avatars/Alexander DiMauro.jpg
+message: <p>One of the features of NuGet is that, if a package depends on another, it automatically downloads all the dependencies. But, an issue I ran into was when a package has a dependency on an older version of another package.<br>One example is NUnit.Should. I installed it, and it also installed NUnit, its dependency. But, it installed the latest version (2.5.10), not the version it depends on (2.5.9). I had to uninstall 2.5.10, then go back and install 2.5.9.10348 to get it to work.<br>Shouldn't there be a way to tag the correct version of a dependency so NuGet will get that one instead of the latest?</p>

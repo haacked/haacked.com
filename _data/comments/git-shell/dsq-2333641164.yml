@@ -1,0 +1,5 @@
+id: dsq-2333641164
+date: 2015-10-29T12:53:23.0000000-07:00
+name: Thomas Levesque
+avatar: https://disqus.com/api/users/avatars/thomaslevesque.jpg
+message: <p>&gt; We keep everything updated so you don't have to.</p><p>Everything except Git, it seems ;). GitHub Desktop still installs Git 1.9.5 (a custom build, it seems), even though Git for WIndows 2.6.2 is available. Why is that?</p><p>Regarding ConsoleZ, I'm not really convinced of the benefits if you're using Windows 10. The default console host has been greatly improved in WIndows 10, and now supports resizing, Ctrl-C/Ctrl-V for copy/paste, keyboard selection, transparency, etc</p>

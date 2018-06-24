@@ -1,0 +1,5 @@
+id: dsq-747535954
+date: 2011-08-17T12:41:46.0000000-07:00
+name: Carsten Petersen
+avatar: https://disqus.com/api/users/avatars/Carsten Petersen.jpg
+message: <p>Finally some great grid scaffolding =) But it seams like there is a bug when clicking Edit. The GET request uses parameters which isn't valid (imo).<br>Controller Action:<br>Edit(string id)<br>Request Parameter (in Firebug):<br>__ID__?_=XXXXXXXX<br>(My entity key is named "ID")</p>

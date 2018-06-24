@@ -1,0 +1,5 @@
+id: dsq-747533613
+date: 2010-11-24T08:42:24.0000000-08:00
+name: Josh Carroll
+avatar: https://disqus.com/api/users/avatars/technofattie.jpg
+message: <p>It's interesting that this is such a common situation for people. I <a href="http://technofattie.blogspot.com/2010/06/if-you-regularly-use-tdd-then-you-are.html" rel="nofollow noopener" title="http://technofattie.blogspot.com/2010/06/if-you-regularly-use-tdd-then-you-are.html">blogged about this</a> a few months ago, and didn't even realize you had previously written about it until someone left a comment.<br>Honestly, I like the Queue approach better than what I came up with.<br>You would think this would have been rolled into the framework by now. Also, watch out for multi-threaded code as you undoubtedly run into <em>"The Collection Was Modified"</em> exception.<br>Overall though I have been extremely happy with Moq. That is the kind of API design people should strive for.</p>

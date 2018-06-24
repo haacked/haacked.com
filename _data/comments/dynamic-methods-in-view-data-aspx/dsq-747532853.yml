@@ -1,0 +1,5 @@
+id: dsq-747532853
+date: 2010-08-02T04:58:36.0000000-07:00
+name: Kim
+avatar: https://disqus.com/api/users/avatars/Kim.jpg
+message: "<p>That's great.<br>I've a request: a default resource to data annotations<br>something like this<br>DataAnnotations.DefaultResource = typeof(CustomResource);<br>thanks!</p>"

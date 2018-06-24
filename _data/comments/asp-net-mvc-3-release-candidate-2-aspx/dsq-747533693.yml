@@ -1,0 +1,5 @@
+id: dsq-747533693
+date: 2010-12-10T03:48:03.0000000-08:00
+name: rekna
+avatar: https://disqus.com/api/users/avatars/rekna.jpg
+message: <p>I have a problem since MVC3 RC2...<br>The values that are posted to my controller method are <br>FormSearch=True&amp;van=1%2f01%2f2010&amp;soort=938&amp;_search=false&amp;nd=1292020754078&amp;rows=-1&amp;page=1&amp;sidx=&amp;sord=asc<br>My controller method accepts parameters (string van, int? soort, bool? FormSearch). van and FormSeach contain the expected values, but soort appears to be null...??? with RC1 this was working as expected.</p>

@@ -1,0 +1,5 @@
+id: dsq-747528547
+date: 2009-04-02T05:11:35.0000000-07:00
+name: Alex
+avatar: https://disqus.com/api/users/avatars/Alex.jpg
+message: <p>ViewStateUserKey doesn't always prevent CSRF in ASP.NET Web Forms - I wrote a blog post about the mechanism and when it doesn't apply:<br><a href="http://keepitlocked.net/archive/2008/05/29/viewstateuserkey-doesn-t-prevent-cross-site-request-forgery.aspx" rel="nofollow noopener" title="http://keepitlocked.net/archive/2008/05/29/viewstateuserkey-doesn-t-prevent-cross-site-request-forgery.aspx">keepitlocked.net/.../...-site-request-forgery.aspx</a><br>The two exceptions are:<br>1) If you aren't using the POSTBACK mechanism<br>2) If you disable ViewStateMac (or ViewState entirely)<br>Good series of posts, though, and I'm glad ASP.NET MVC builds in CSRF protection.</p>

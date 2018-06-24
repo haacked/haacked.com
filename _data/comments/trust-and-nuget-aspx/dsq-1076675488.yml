@@ -1,0 +1,5 @@
+id: dsq-1076675488
+date: 2013-10-09T12:04:25.0000000-07:00
+name: David Burg [daviburg@MSFT]
+avatar: https://disqus.com/api/users/avatars/fenouille.jpg
+message: <p>As my team started publishing nuGet packages I looked on how to sign them, as we have a corporate policy that anything you install on a corporate machine should be signed (by a trusted source, not a random self-signed certificate). I landed here and understand package signing is not supported at this time. To the point of "who would use this anyway?", well my team would. We are already signing all assemblies, msi, executables that we release.</p>

@@ -1,0 +1,5 @@
+id: dsq-747529192
+date: 2009-06-02T00:29:00.0000000-07:00
+name: Steve Willcock
+avatar: https://disqus.com/api/users/avatars/Steve Willcock.jpg
+message: <p>Having used the mvc futures lambda syntax for a while it seems really natural and the strong typing and refactoring support is a big plus for this way of doing things. If there was a *simple* way to cache parameterised expressions to avoid the recompilation cost on every call I feel that would be a great approach. The build provider idea is undoubtedly a very clever solution to the problem but somehow it seems rather 'clunky'.</p>

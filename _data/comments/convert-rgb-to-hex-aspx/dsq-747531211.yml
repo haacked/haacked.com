@@ -1,0 +1,5 @@
+id: dsq-747531211
+date: 2009-12-30T04:51:41.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Serves me right, testing against a color where the rgb values are all the <strong>same</strong> was stupid stupid stupid.<br>Thanks James for pointing out the error. Also, thanks to David fowler for pointing out the clever bit shifting approach.<br>I've corrected the function.</p>

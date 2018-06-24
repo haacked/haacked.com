@@ -1,0 +1,5 @@
+id: dsq-747534147
+date: 2011-01-12T18:48:38.0000000-08:00
+name: Doug Finke
+avatar: https://disqus.com/api/users/avatars/Doug Finke.jpg
+message: <p>PowerShell Pro Tip:<br>Here is the PowerShell version to run the nuget pack command on every subdirectory of the current directory. <br>dir . -r *.nuspec | % { nuget pack $_.fullname -o d:\packages\ }<br></p>

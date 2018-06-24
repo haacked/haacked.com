@@ -1,0 +1,5 @@
+id: dsq-747529436
+date: 2009-06-25T23:44:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Andrey the flexibility of JavaScript is one of the features that has earned it many fans. I think constraining the language could be problematic.<br>Also, you're relying on waiting for new browser versions to stop supporting this feature. Old browsers continue to remain vulnerable.<br>One nice benefit of the approach I outlined is that as soon as you update your JSON service to the new format, old browsers are no longer vulnerable.</p>

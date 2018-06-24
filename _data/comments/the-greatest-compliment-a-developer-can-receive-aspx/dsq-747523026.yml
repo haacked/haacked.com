@@ -1,0 +1,5 @@
+id: dsq-747523026
+date: 2007-10-08T14:17:34.0000000-07:00
+name: Pete
+avatar: https://disqus.com/api/users/avatars/Pete.jpg
+message: "<p>James: \"The blocks of code that Pete commented would be more expressive if they were extracted as methods, named to describe what is being done.\" <br>It's a balance....... I try to factor my code so that no function becomes larger than 30-40 lines of code. Also, I try to factor it so that each function performs only a small number of operations (5-6 operations).<br>Within those limits I think it's ok to keep multi-line operations as inline code blocks rather than breaking them out as separate functions.<br>Also... I don't think there's any big difference when it comes to code deterioration. Method names can start lying too, just like comments can. There's no real difference.</p>"

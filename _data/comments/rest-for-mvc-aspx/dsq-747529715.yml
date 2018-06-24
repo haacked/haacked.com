@@ -1,0 +1,5 @@
+id: dsq-747529715
+date: 2009-09-22T09:31:00.0000000-07:00
+name: PK
+avatar: https://disqus.com/api/users/avatars/PK.jpg
+message: "<p>@ranamauro : is it possible to have some json/xml response when there's an error?<br>eg. Imaging u're after some json data for the a list of all the movies. For some weird reason, an exception occured. As such, we want to reply with a custom json error message and an http status 500. Is this possible, with this SDK?</p>"

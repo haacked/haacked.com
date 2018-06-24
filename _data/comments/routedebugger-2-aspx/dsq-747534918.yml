@@ -1,0 +1,5 @@
+id: dsq-747534918
+date: 2011-04-27T17:15:00.0000000-07:00
+name: alexandros
+avatar: https://disqus.com/api/users/avatars/alexandros.jpg
+message: <p>With the old debugger I could see a trace in cases when my routes weren't working at all (an exception was thrown due to bad routes). is there a way to achieve this now?</p>

@@ -1,0 +1,5 @@
+id: dsq-747534769
+date: 2011-04-07T13:05:00.0000000-07:00
+name: Gael Fraiteur
+avatar: https://disqus.com/api/users/avatars/Gael Fraiteur.jpg
+message: <p>I with the post-install script (install.ps1) could work on the project XML file (for instance an XmlDocument) instead of the project DTE object. In order to integrate PostSharp in a project, the package must add a new import, define some properties and add some XML comments for documentation. It's not possible (or reasonably easy) to do it with the DTE, but quite easy using XmlDocument. However, when we use direct XML project modification, it triggers some dialogs "Project File Has Changed". The hooks should be possibly independent from Visual Studio DTE. <br>In my opinion, they should be based on XmlDocument and the NuGet library could add some utilities to do common operations.</p>

@@ -1,0 +1,5 @@
+id: dsq-758141750
+date: 2013-01-06T14:06:43.0000000-08:00
+name: Lee Smith
+avatar: https://disqus.com/api/users/avatars/facebook-609012682.jpg
+message: <p>You just wrap the nullable object in a struct. Then you only need to write the "s**t code" once:</p><p>class Program    {        public class NullableObject        {        }        public struct ParameterObject        {            private readonly NullableObject value;            public ParameterObject(NullableObject obj)            {                if (obj == null) throw new ArgumentNullException("obj");                value = obj;            }            public NullableObject Value            {                get { return value; }            }        }        public static NullableObject Method1(ParameterObject obj)        {            return obj.Value;        }        static void Main(string[] args)        {            Method1(null);  //does not compile        }    }</p>

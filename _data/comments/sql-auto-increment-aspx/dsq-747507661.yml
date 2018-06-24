@@ -1,0 +1,5 @@
+id: dsq-747507661
+date: 2008-12-03T15:07:45.0000000-08:00
+name: oadin
+avatar: https://disqus.com/api/users/avatars/oadin.jpg
+message: "<p>For the select where you want : <br>select {increment value} as Counter, strUsername from Users<br>Counter strUsername <br>----------------------<br>1 John<br>2 Mike<br>3 Laura<br>...<br>Why don't you just use : <br>select row_number() over (order by strUsername), strUsername from Users<br>It's sql server 2005-2008 limitations</p>"

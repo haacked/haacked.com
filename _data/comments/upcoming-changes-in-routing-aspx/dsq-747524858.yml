@@ -1,0 +1,5 @@
+id: dsq-747524858
+date: 2008-05-05T22:09:34.0000000-07:00
+name: Dirk
+avatar: https://disqus.com/api/users/avatars/Dirk.jpg
+message: <p>I'm trying to migrate a "legacy" ASP.NET webforms site bit-by-bit (not literally :/)and some of my "old" webforms pages use ASP.NET Ajax. It seems that certain routes interfere with the /WebResource.axd  and /ScriptResource.axd handlers. This leads to Ajax not working correctly or failing completely. I wonder if these handlers could be removed from routing by default, just like the static files.</p>

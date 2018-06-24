@@ -1,0 +1,5 @@
+id: dsq-2484790288
+date: 2016-01-29T05:43:35.0000000-08:00
+name: Lucas Teixeira
+avatar: https://disqus.com/api/users/avatars/disqus_CiuASn5hKq.jpg
+message: <p>I have 1 site (one AppDomain) running under 1 ApplicationPool.<br>When a request is made to an especific endpoint, it creates a new AppDomian (System.AppDomain.CreateDomain) and put its code to run under a Task.Run thread. The request awaits this Task to return after the new AppDomain get closed.</p><p>When I press the button STOP in IIS. Will this pool thread running my new AppDomain get killed?</p><p>When IIS Recycle or Stops it actually calls Thread.Abort()? (not good)</p><p>Suppose I've got 2 sites (two AppDomains) running under the same ApplicationPool. Then I press STOP in one of them. Will it kill the threads in under control of the TPL ?</p>

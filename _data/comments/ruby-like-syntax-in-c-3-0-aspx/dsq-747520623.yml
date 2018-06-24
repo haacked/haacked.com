@@ -1,0 +1,5 @@
+id: dsq-747520623
+date: 2007-05-24T09:52:41.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>"20.Minutes().Ago()"<br>THAT is still ugly. why does C# require parens on methods with no arguments?<br>" where it is clear where all the code is located "<br>That boat sailed with the introduction of partial classes in 2.0. Now if you want to, you can put every method that returns an int or a DateTime into a .cs file named "ReturnsDatetime.cs".<br>"DateTime.Now.Subtract(TimeSpan.FromMinutes(20));"<br>Yeah, that's great if Yoda you are. ;)<br></p>

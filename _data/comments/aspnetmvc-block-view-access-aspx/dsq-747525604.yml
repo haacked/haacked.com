@@ -1,0 +1,5 @@
+id: dsq-747525604
+date: 2008-06-25T21:31:25.0000000-07:00
+name: Ang3lFir3
+avatar: https://disqus.com/api/users/avatars/Ang3lFir3.jpg
+message: <p>I will have to agree with others that I strongly believe in keeping all my static content in the content folder or some other location. The Views folder to me is simply the location of the templates for rendering views. Also since many assets belong to many views its just easier for me to keep them organized in a single content location. <br>I am with Phil on the idea that using a custom view engine doesn't mean you will remember to take care of this step. The consiquences of not doing it make it dangerous. <br>+1 for restricting direct access to all files in the Views dir</p>

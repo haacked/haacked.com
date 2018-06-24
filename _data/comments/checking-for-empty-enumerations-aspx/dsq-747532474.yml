@@ -1,0 +1,5 @@
+id: dsq-747532474
+date: 2010-06-09T13:42:32.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Damian actually, it was my original sample that was incorrect. I should be checking for null. I just now fixed it. Thanks!</p>

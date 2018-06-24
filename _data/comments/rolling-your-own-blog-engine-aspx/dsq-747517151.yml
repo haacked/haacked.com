@@ -1,0 +1,5 @@
+id: dsq-747517151
+date: 2006-10-10T10:56:48.0000000-07:00
+name: wiennat
+avatar: https://disqus.com/api/users/avatars/wiennat.jpg
+message: "<p>Learning. The reason for me to use my own blogging software. I've learn many things for doing this. I studied the open source blogging software and create my own.<br>Henrik: SubText and Community Servers use SQL Server as data store but you can port to MySQL if you want, thank to Provider model. However, you have to develop the provider yourself since there's nobody developed it yet. If you want the alternative, consider useing SUB and DasBlog. SUB has an Access provider and DasBlog use flat file for storage.<br> <br></p>"

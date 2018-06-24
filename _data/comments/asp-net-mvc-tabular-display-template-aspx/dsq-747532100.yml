@@ -1,0 +1,5 @@
+id: dsq-747532100
+date: 2010-05-05T11:21:40.0000000-07:00
+name: Raj Kaimal
+avatar: https://disqus.com/api/users/avatars/Raj Kaimal.jpg
+message: <p>Phil,<br>The MVCContrib Grid makes it much easier to do this. <br>You add this (can be customized too):<br> &lt;%= Html.Grid(Model).AutoGenerateColumns()%&gt;<br>and add an attribute on the PublishDate property<br>[DisplayFormat(DataFormatString= "{0:dddd MMMM dd, yyyy}")]<br>Raj</p>

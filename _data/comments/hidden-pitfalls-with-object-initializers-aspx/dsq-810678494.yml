@@ -1,0 +1,6 @@
+id: dsq-810678494
+replyToId: dsq-809823160
+date: 2013-02-24T05:59:05.0000000-08:00
+name: Isantipov
+avatar: https://disqus.com/api/users/avatars/Isantipov.jpg
+message: <p>&gt;&gt;  I'm not to keen on StyleCop as I understand you can't customize the styles.</p><p>I think you can implement your own rules for StyleCop (see this reference on StyleCop Plus wiki <a href="http://stylecopplus.codeplex.com/wikipage?title=How%20to%20Create%20StyleCop%20Custom%20Rule&amp;referringTitle=Documentation" rel="nofollow noopener" title="http://stylecopplus.codeplex.com/wikipage?title=How%20to%20Create%20StyleCop%20Custom%20Rule&amp;referringTitle=Documentation">http://stylecopplus.codeple...</a> ) and you can also use the StyleCop+ plugin which extends original rules and gives more flexibility (as the website claims). Although, I never tried - we are just happy with the core rules at the moment.</p>

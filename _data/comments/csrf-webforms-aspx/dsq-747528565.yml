@@ -1,0 +1,5 @@
+id: dsq-747528565
+date: 2011-12-06T03:04:30.0000000-08:00
+name: Adam Tuliper
+avatar: https://disqus.com/api/users/avatars/Adam Tuliper.jpg
+message: <p>One thing to note, you MUST have already established a session for this to work. If not, the SessionId will change on every single request and your next request will fail itself because its signed with a session id that is no longer your session id. You must 'peg down' the session by setting a value in it. for instance, Session["Anything"] = <a href="http://DateTime.now" rel="nofollow noopener" title="DateTime.now">DateTime.now</a></p>

@@ -1,0 +1,5 @@
+id: dsq-747512216
+date: 2005-06-12T23:51:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yeah, I've been bombarded too.  I've not switched over yet because I've been too busy, but also as research.  :)<br><br><br><br>I've noticed that most of the bombardments are a result of automated scripts that simply post the same thing over and over.  Subtext will handle that well now.  <br><br><br><br>However, I haven't implemented turning off and on <a href="http://wellformedweb.org/story/9" rel="nofollow noopener" title="CommentAPI">CommentAPI</a>, trackbacks, and pingbacks on a granular level.<br><br><br><br>I did add a HostAdmin table to store the password, removing the stupid issue I left in there from before.</p>

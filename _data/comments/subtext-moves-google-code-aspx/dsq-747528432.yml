@@ -1,0 +1,5 @@
+id: dsq-747528432
+date: 2009-03-30T00:14:35.0000000-07:00
+name: michael herndon
+avatar: https://disqus.com/api/users/avatars/michael herndon.jpg
+message: <p>@Simone<br>that's partially true, you can use lighthouse (issue/project tracker) for free as long as its an opensource project and use git's hooks to do a mailing list if you really wanted to.  I think what git seems to lack unless i've missed something is a way to present downloads like for installers or builds.  <br>but you can also use git with google code by using git svn.</p>

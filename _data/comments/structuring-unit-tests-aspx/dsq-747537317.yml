@@ -1,0 +1,5 @@
+id: dsq-747537317
+date: 2012-01-02T19:04:50.0000000-08:00
+name: Karep
+avatar: https://disqus.com/api/users/avatars/Karep.jpg
+message: <p>Ok but instead of this you could do<br>        [Fact]<br>        public void TitleizerMethod_ReturnsDefaultTitleForNullName()<br>        {<br>            // Test code<br>        }<br>        [Fact]<br>        public void TitleizerMethod_AppendsTitleToName()<br>        {<br>            // Test code<br>        }<br>Not so much as in your solution and still you can use dropdowns to find tests for methods.<br>And how do you setup your tests? Duplicate code in constructors of each class? Create Helper class that is called from ctor of each class (XUnit uses ctor's for setup right?)</p>

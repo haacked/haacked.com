@@ -1,0 +1,5 @@
+id: dsq-747527639
+date: 2009-01-08T00:39:11.0000000-08:00
+name: Richard
+avatar: https://disqus.com/api/users/avatars/Richard.jpg
+message: <p>Atif,<br>Your rewritten version of the JamesFormatter fails with a format string of "{{{foo}" - the rewrittenFormat variable contains the same string, which then throws a FormatException. Calling string.Format("{{{0}", 123) returns "{123" as expected.<br>If you change line 41 from:<br>    return openings &gt; closings || openings % 2 == 0<br>to:<br>    return openings % 2 == 0<br>it seems to work.</p>

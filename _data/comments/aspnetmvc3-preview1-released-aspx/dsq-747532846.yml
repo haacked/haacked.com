@@ -1,0 +1,5 @@
+id: dsq-747532846
+date: 2010-10-02T13:40:45.0000000-07:00
+name: Shiv Kumar
+avatar: https://disqus.com/api/users/avatars/Shiv Kumar.jpg
+message: <p>@ScottEg,<br>Yes this is possible in Razor using the following in your Layout page:<br>@RednderSection("someSectionName" options:true).<br>What that says is the section is optional and Views can choose the render/implement the section.<br>In a view in which you wish to implement this section, simply do<br>@section someSetionName {<br>&lt;h2&gt;This is an optional section, but rendered in this view&lt;/h2&gt;<br>}</p>

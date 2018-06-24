@@ -1,0 +1,5 @@
+id: dsq-747527967
+date: 2009-02-01T21:40:06.0000000-08:00
+name: GeorgeK
+avatar: https://disqus.com/api/users/avatars/GeorgeK.jpg
+message: "<p>Phil, I'm confused.  Above you write \"The first change was that we changed our helper methods that generate URLs and links to now generate relative paths instead of absolute paths.\"  Then in the next paragraph you state: \"We will not use relative paths, and we have no intention of re-introducing the generation of relative paths.\"   To me, this reads like an apparent contradiction.  Can you clarify a bit?</p>"

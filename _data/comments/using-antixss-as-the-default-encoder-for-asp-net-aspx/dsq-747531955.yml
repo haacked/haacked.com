@@ -1,0 +1,5 @@
+id: dsq-747531955
+date: 2010-04-27T15:20:02.0000000-07:00
+name: handcode
+avatar: https://disqus.com/api/users/avatars/handcode.jpg
+message: <p>Hi Phil,<br>What is the difference between AntiXss.HtmlEncode and HttpUtility.HtmlEncode?</p>

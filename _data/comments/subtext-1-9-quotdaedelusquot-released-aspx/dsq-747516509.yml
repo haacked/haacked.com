@@ -1,0 +1,5 @@
+id: dsq-747516509
+date: 2006-08-31T00:37:20.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Mohamed: Yes, that was point #5 in the section \"Under the Hood\".  Just update your web.config to change the trust level to medium.  <br>However, as I pointed out, Trackbacks and PingBacks don't work under standard medium trust. You'll need to talk to your service provider about allowing web requestes.</p>"

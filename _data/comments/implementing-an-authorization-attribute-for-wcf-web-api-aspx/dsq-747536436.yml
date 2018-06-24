@@ -1,0 +1,5 @@
+id: dsq-747536436
+date: 2011-10-20T05:21:33.0000000-07:00
+name: Cecil
+avatar: https://disqus.com/api/users/avatars/Cecil.jpg
+message: <p>Instead of replacing the RequestHandlers property you could call AddRequestHandlers on the WebApiConfiguration instance and pass it your delegate. I believe that could remove the need for you if(requestHandlers != null) check</p>

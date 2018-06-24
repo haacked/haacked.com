@@ -1,0 +1,5 @@
+id: dsq-747537176
+date: 2011-12-13T13:44:04.0000000-08:00
+name: Christian Abilds&#248;
+avatar: https://disqus.com/api/users/avatars/Christian Abilds&#248;.jpg
+message: <p>Ah, I guess I needed to RTFM. Apparently posh-git suffers slowdowns with large repositories. Our project is around 700kloc and has 11-12 years of history that has been imported into git from SVN and SourceSafe. The git bash has no such delays, so I guess I'm back to using that. Appreciate the tip none-the-less though. :)</p>

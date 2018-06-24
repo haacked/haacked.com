@@ -1,0 +1,5 @@
+id: dsq-747528832
+date: 2009-04-16T19:27:00.0000000-07:00
+name: Sergio Pereira
+avatar: https://disqus.com/api/users/avatars/Sergio Pereira.jpg
+message: <p>I agree in general with your classification of the different levels of source code. Extra care should be taking in the wording that goes with the sample publication, though. <br>In the particular case of Oxite and Kobe, they were clearly announced (at least initially) as references or guides.<br>To make matters worse, a large part of people examining the published source code are developers that have probably been extolling the virtues of the MVC approach, and they get upset to see MVC code that has any sort of serious shortcomings (and even nits.)<br>I'd dare to say that many worse problems exist and have always existed in other samples or reference implementations published by MS. It just happens that were dealing with a loud crowd here and they have good feedback to give.<br>Keep the samples. Be zealous with the labeling of the code.</p>

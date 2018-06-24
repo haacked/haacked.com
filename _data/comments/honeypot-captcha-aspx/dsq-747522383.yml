@@ -1,0 +1,5 @@
+id: dsq-747522383
+date: 2007-10-12T10:13:39.0000000-07:00
+name: silchan
+avatar: https://disqus.com/api/users/avatars/silchan.jpg
+message: "<p>Instead of using Id's to label your for elements, why not use classes?  Then you could have, say, 2 comment elements, 2 title elements, 2 url elements, et cetera.  Once you have them, hide one of each and don't accept anything that fills in the display:non elements.  Then it wouldn't be able to distinguish between the real and fake ones.  <br>Since css allows for multiple classes per elements, you could have, say:  &lt;div class=\"sweet url\"&gt; and &lt;div class = \"sour url\"&gt;.  Then you could distinguish between the right and wrong one in your code.</p>"

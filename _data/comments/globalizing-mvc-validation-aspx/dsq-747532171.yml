@@ -1,0 +1,5 @@
+id: dsq-747532171
+date: 2010-05-21T23:29:36.0000000-07:00
+name: King Wilder
+avatar: https://disqus.com/api/users/avatars/King Wilder.jpg
+message: <p>Phil, I just need to make sure I'm understanding localization of applications correctly... if I build an app for a client that requires localization, then essentially I cannot create it in such a way as to allow them to update text on the pages, correct?  Because every new piece of text in the application should be localized for every included language, and that would be my responsibility.  Am I understanding this correctly?<br>Thanks,<br>King Wilder</p>

@@ -1,0 +1,5 @@
+id: dsq-747520365
+date: 2008-05-22T23:47:05.0000000-07:00
+name: Hondo
+avatar: https://disqus.com/api/users/avatars/Hondo.jpg
+message: '<p>Run these two commands to see if you have any URL reservations: <br>Netsh http show servicestate<br>and<br>Netsh http show urlacl<br>If so, you may have to run something *like*:<br>netsh http delete urlacl url=http://+:80/</p>'

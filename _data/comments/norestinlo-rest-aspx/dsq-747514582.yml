@@ -1,0 +1,5 @@
+id: dsq-747514582
+date: 2006-03-27T01:10:00.0000000-08:00
+name: pwb
+avatar: https://disqus.com/api/users/avatars/pwb.jpg
+message: <p>"What is not well defined is exactly how you build real world web services using this style."<br>This is 1000% the problem. It's astonishing that the documentation for REST remains a doctoral dissertation that is wholly intelligible to a normal human being.<br>This whole Hi vs. Lo debate is also quite lame. Are we simply arguing over whether PUT should be used (who DELETEs?)? Don's definition of Lo includes both GET and POST. I would be happy to use PUT if someone told me it was a good idea and where it should be used.</p>

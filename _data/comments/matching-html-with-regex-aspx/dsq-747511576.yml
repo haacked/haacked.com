@@ -1,0 +1,5 @@
+id: dsq-747511576
+date: 2005-05-01T07:00:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I'm adding it as an alternative value for \s (whitespace).  The SingeLine option changes the meaning of the . character so it includes \n, but doesn't change the meaning of the \s character as far as I know and according to MSDN.<br><br><br><br><a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpref/html/frlrfsystemtextregularexpressionsregexoptionsclasstopic.asp" rel="nofollow noopener" title="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpref/html/frlrfsystemtextregularexpressionsregexoptionsclasstopic.asp">http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpref/html/frlrfsystemtextregularexpressionsregexoptionsclasstopic.asp</a></p>

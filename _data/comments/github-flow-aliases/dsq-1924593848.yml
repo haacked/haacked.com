@@ -1,0 +1,5 @@
+id: dsq-1924593848
+date: 2015-03-23T19:55:12.0000000-07:00
+name: glandium
+avatar: https://disqus.com/api/users/avatars/mikehommey.jpg
+message: <p>For `up`, --rebase and --prune can both be set globally or per remote/branch with pull.rebase, fetch.prune, branch.$branch.rebase and remote.$remote.prune</p><p>`cob` seems a bit of a stretch, since it's the same as `co -b`, which is only 2 more characters (compared to `checkout -b` which is much longer).</p><p>`save` and `wip` could be replaced with proper use of stash (`save` is essentially `stash save -u`)</p><p>`stash save -u -k` could also be used in place of `wipe`</p>

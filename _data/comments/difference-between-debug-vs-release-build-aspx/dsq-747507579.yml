@@ -1,0 +1,5 @@
+id: dsq-747507579
+date: 2011-09-02T05:04:47.0000000-07:00
+name: AnilG
+avatar: https://disqus.com/api/users/avatars/AnilG.jpg
+message: <p>Debug Version is much different than Release.<br>Debug version contains the symbolic information which is used for debugging purpose only and code optimization is off. This inturn increase the size of the debug. Where as the Release version contains no symbolic information and code optimization is ON. However, both the debug and release versions use the same source files for generating the respective versions, its the symbolic information and optimization that changes the CRC of the output file.</p>

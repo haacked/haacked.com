@@ -1,0 +1,5 @@
+id: dsq-747534153
+date: 2011-04-28T22:21:26.0000000-07:00
+name: Sergi Gisbert
+avatar: https://disqus.com/api/users/avatars/sergigisbert.jpg
+message: "<p>Hi Phil,<br>great stuff!! We are changing all our local libraries to a new Nuget repository in our intranet. This will make our lives much easier...<br>I have one question for you: with the last nuget version, you can use metadata from AssemblyInfo.cs, so instead of doing \"nuget pack project.nuspec\", you can do \"nuget pack project.csproj\".<br>I've seen your batch file doing:<br>for /r %%x in (*.nuspec) do nuget pack \"%%x\" -o d:\\packages\\<br>but I would like to do something like<br>for /r %%x in (*.nuspec) do nuget pack \"%%x.csproj\" -o d:\\packages\\<br>I mean, foreach .nuspec file, pack the corresponding .csproj file.<br>I haven't achieved that. Instead, my batch file has one entry per project, which is not so cool and not reusable... Any ideas? I'm not really an expert with .cmd files...<br>Thanks again!<br>Sergi</p>"

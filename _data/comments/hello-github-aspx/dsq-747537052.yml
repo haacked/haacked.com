@@ -1,0 +1,5 @@
+id: dsq-747537052
+date: 2011-12-07T10:18:05.0000000-08:00
+name: Julien
+avatar: https://disqus.com/api/users/avatars/Julien.jpg
+message: <p>Having somebody with a Windows/Microsoft background at Github is a great thing! Congrats on the new job.<br>One thing I wish Github could do it provide a custom git build for Windows (by having people work on msysgit to fix the awful performance on Windows Vista and later for a start), providing support and more importantly shielding any Windows developer or company from ever interacting with the msysgit maintainers (for anybody interested, go to their mailing list and see how they treat people and what they think of "Windows programmers").<br>Being at least on the level of Mercurial for Windows integration and customer interaction would go a long way (whenever I recommend git to Windows users, I'm always afraid they might go to the msysgit mailing list, interact with the developers and be told to bisect the problem and send a patch or get lost - if they are lucky).</p>

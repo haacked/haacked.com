@@ -1,0 +1,5 @@
+id: dsq-747518947
+date: 2007-03-07T20:21:01.0000000-08:00
+name: Boris Yeltsin
+avatar: https://disqus.com/api/users/avatars/Boris Yeltsin.jpg
+message: <p>Very interesting. 25 years of coding and I've used recursion and stacks (especially in assembler) and I never thought about converting one to the other.<br>I've just used this technique now. I'm really deep in a heavy Javascript DOM-walk function and I didn't want to break out some code into a separate function - so I just used push/pop instead. Nice!</p>

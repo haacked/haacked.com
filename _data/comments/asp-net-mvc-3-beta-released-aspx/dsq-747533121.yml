@@ -1,0 +1,5 @@
+id: dsq-747533121
+date: 2010-10-07T02:41:00.0000000-07:00
+name: Lee
+avatar: https://disqus.com/api/users/avatars/Lee.jpg
+message: <p>Hi Phil, i'm loving the improvements.  I'm quite new to ASP.NET MVC but kind of jumped in at the deep end by starting a new project with MVC to learn it.  Coming from ASP.NET Web Forms i particularly found it easy working with javascript.  In ASP.NET v4 Web Forms we can now override the ClientID for any control but i believe this is not possible with the HTML helpers in MVC.  I tend to name all my client id's lower case and separated by a hyphon.  It would be great if there was a way to override the current naming conventions (preferably in one place).</p>

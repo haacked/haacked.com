@@ -1,0 +1,5 @@
+id: dsq-747516560
+date: 2006-09-13T22:58:08.0000000-07:00
+name: Braden
+avatar: https://disqus.com/api/users/avatars/Braden.jpg
+message: <p>I cannot get the upgrade to work.  It asks me for the site admin username and password, which does not work. I performed the password reset via SQL query analyzer and it still does not work. I am confident that I know what the username and password are, but they just do not work when I attempt to perform the upgrade to 1.9.  Any suggestions?<br>Also, since I am stuck using the previous version of subtext for now, I am getting spam via my comments in older blog entries, even though comments are disabled after 5 days.  Weird.</p>

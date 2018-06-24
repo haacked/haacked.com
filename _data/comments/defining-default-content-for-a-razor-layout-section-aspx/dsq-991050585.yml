@@ -1,0 +1,5 @@
+id: dsq-991050585
+date: 2013-08-06T20:37:38.0000000-07:00
+name: Funka!
+avatar: https://disqus.com/api/users/avatars/Funka!.jpg
+message: "<p>Hi Phil,<br>Big fan of yours! This lovely two and a half year old article seems to answer the frustration I'm having right now converting a webforms MVC 2 site into razor MVC 4. It was really easy to do this with good ol' ContentPlaceHolder in our MVC2 master pages, but seems very convoluted with Razor. You mentioned you hoped this would make it into Razor, so I'm wondering: did it ever make it in? Am I just not finding a better solution, or is this still the recommended approach?<br>Thank you!</p>"

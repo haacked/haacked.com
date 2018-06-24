@@ -1,0 +1,5 @@
+id: dsq-747535418
+date: 2011-06-06T20:58:56.0000000-07:00
+name: dotnetchris
+avatar: https://disqus.com/api/users/avatars/dotnetchris.jpg
+message: <p>@Phil I would completely disagree that a project template is best shared in a msi! The best way to share a project template would be nuget!<br>Even the whole "but be very careful to make sure that any additions or deletions of content are reflected in the .vstemplate file. That file is a manifest of all the files within the VSIX package that makes up the project template." This sounds like native nugget right there. /endrant<br>--Question--<br>For how poorly of a scenario the installed packages feature of project templates work, what about this scenario? Instead of using that metadata to define the package relationship what about directly installing the packages into the template and manually creating and linking the packages file? Such that when the template is activated as a new project, you can just run update on the installed packages.<br>Is it possible for a project template to be able to create/update the packages folder that would be at the root level?</p>

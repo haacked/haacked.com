@@ -1,0 +1,5 @@
+id: dsq-747535685
+date: 2011-07-14T04:26:33.0000000-07:00
+name: PadovaBoy
+avatar: https://disqus.com/api/users/avatars/PadovaBoy.jpg
+message: "<p>Really interesting!<br>I agree with the conventional way also in this kind of stuffs!<br>I personally implement a set of override methods for LabelFor/EditorFor to take localizated text by conventions without make a mess with attribute in the model.<br>I made in this way:<br> 1) check if there is a localization for classname_propertyname<br> 2) if not check for propertyname<br>bucause we can tell that FirstName is the same for Contact and Employer (et example)...<br>What about error messages with the point of view of the attribute? <br>Because i can have something like 'The field {0} is required' (by attribute: the common) but i can have something more personlized like 'The field 'bill' is required..if u want to be paied you should compile it' (by the field: the special).<br>So: the localization system should find by convention before by the field (for personalized message) and aftere by the attribute.<br>tnx for sharing!<br></p>"

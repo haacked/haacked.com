@@ -1,0 +1,5 @@
+id: dsq-747535293
+date: 2011-05-25T16:15:45.0000000-07:00
+name: Stefan Kip
+avatar: https://disqus.com/api/users/avatars/stefankip.jpg
+message: <p>Well I solved my own question by using this as post-build event:<br>rmdir "$(TargetDir).svn" /Q/S<br>Problem is, when you publish the web application, the .svn folder will still be included in the bin folder and I really can't find a solution for this issue.</p>

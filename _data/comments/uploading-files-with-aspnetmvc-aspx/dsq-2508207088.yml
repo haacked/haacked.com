@@ -1,0 +1,6 @@
+id: dsq-2508207088
+replyToId: dsq-747532657
+date: 2016-02-11T07:50:19.0000000-08:00
+name: Taz
+avatar: https://disqus.com/api/users/avatars/Taz.jpg
+message: <p>Recycling the app pool effectively restarts your site because the IIS worker process gets restarted. Do not restart the process while users are on the site</p>

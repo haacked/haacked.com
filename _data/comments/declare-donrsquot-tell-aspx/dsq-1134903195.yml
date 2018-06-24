@@ -1,0 +1,6 @@
+id: dsq-1134903195
+replyToId: dsq-1134644809
+date: 2013-11-22T12:16:15.0000000-08:00
+name: Al
+avatar: https://disqus.com/api/users/avatars/Al.jpg
+message: <p>This is another click moment for me. The first came when using iobservables as the basis of an event aggregator making filtering and dispatching simple and declarative. The second came when using two sequences, selecting, using first() and a behaviour subject (or buffer) to make a declarative property representing an 'isrunning' state without holding it in a separate variable.</p><p>The comment above about unfamiliarity I think is fair -  i think rx and other more functional concepts need 5 to 10 years to take hold amongst the masses (including myself :) )</p>

@@ -1,0 +1,5 @@
+id: dsq-747533706
+date: 2010-12-11T21:42:16.0000000-08:00
+name: rekna
+avatar: https://disqus.com/api/users/avatars/rekna.jpg
+message: <p>Concerning the bug I posted (ASP.NET forums (<a href="http://forums.asp.net/.../1632006.aspx))" rel="nofollow noopener" title="forums.asp.net/.../1632006.aspx))">forums.asp.net/.../1632006....</a> with the nullable int parameter, this has been confirmed to be a bug introduced in RC2 and in the same post is mentioned a workaround that solves the problem for now</p>

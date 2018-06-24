@@ -1,0 +1,5 @@
+id: dsq-747535735
+date: 2011-08-01T18:15:50.0000000-07:00
+name: pete w
+avatar: https://disqus.com/api/users/avatars/pete w.jpg
+message: '<p>Very handy, but I think you should add a caveat: for those of us building software in SharePoint, this will not currently work (as of 8/1/2011) because SharePoint runs on .NET3.5 and Razor requires the dynamic features of .NET 4.0<br>I once evaluated using Razor in a SharePoint solution and ended up using Castle NVelocity with works just as well for my needs</p>'

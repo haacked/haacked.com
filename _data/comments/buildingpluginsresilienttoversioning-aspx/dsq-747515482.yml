@@ -1,0 +1,5 @@
+id: dsq-747515482
+date: 2006-06-26T14:05:00.0000000-07:00
+name: Simone
+avatar: https://disqus.com/api/users/avatars/Simone.jpg
+message: <p>Phil, I totally agree with what you are saying...<br>Also this is the same approach used by CommunityServer and, even if PHP doesn't have "embedded" events, by WordPress (they call it hooks).</p>

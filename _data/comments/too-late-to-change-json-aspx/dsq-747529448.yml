@@ -1,0 +1,5 @@
+id: dsq-747529448
+date: 2009-06-26T11:05:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Scott no, the attacker doesn't. Browsers don't allow for that. If you don't believe me, prove your assertion. Demonstrate an attack that unwraps this JSON array.<br>This attack hinges on the fact that the response returned to the script tag is valid JavaScript. Starting a statement with a curly brace is not valid JavaScript, thus it doesn't execute. Instead, you get a script error, so the attacker's JavaScript is unable to continue to execute.<br></p>

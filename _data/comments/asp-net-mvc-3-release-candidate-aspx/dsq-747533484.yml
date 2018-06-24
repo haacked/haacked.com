@@ -1,0 +1,5 @@
+id: dsq-747533484
+date: 2010-11-08T22:41:35.0000000-08:00
+name: Levi
+avatar: https://disqus.com/api/users/avatars/Levi.jpg
+message: <p>Craig - yes, the attribute is limited to just controller classes for now.  Allowing it to be applied directly to actions would require a massive rearchitecture of the MVC pipeline, and that it something we didn't have time for this go around.</p>

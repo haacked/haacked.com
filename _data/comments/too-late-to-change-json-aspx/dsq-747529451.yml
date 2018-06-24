@@ -1,0 +1,5 @@
+id: dsq-747529451
+date: 2009-06-26T21:39:00.0000000-07:00
+name: Brad Wilson
+avatar: https://disqus.com/api/users/avatars/Brad Wilson.jpg
+message: <p>I think the problem with "only require POST for arrays" is that it becomes a "less obvious" point of failure... "some JSON thing was working just fine until we changed it to return an array of objects and now it stopped working!"</p>

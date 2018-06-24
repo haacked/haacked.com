@@ -1,0 +1,5 @@
+id: dsq-747532894
+date: 2010-08-02T21:57:32.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>The reason we probably won't make <code>ViewDataDictionary</code> implement <code>IDynamicMetaObjectProvider</code> is twofold:<br>1. Even if we did that, we'd still need to change the existing property type of the <code>ViewData</code> property to be dynamic. That's a breaking change, and a pretty bad one.<br>2. There are methods on <code>ViewDataDictionary</code> that might be important. Unfortunately, with Visual Studio, there's no Intellisense if you declare a variable as dynamic, even if that property implements other interfaces.<br>I'm guessing in the future, #2 won't be such a big issue. I think #1 will be. Thanks for the feedback!</p>"

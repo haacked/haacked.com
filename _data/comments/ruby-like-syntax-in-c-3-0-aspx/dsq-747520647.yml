@@ -1,0 +1,5 @@
+id: dsq-747520647
+date: 2007-05-25T01:58:08.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>"No, strings are not mutable."<br>Interesting. Something to take into account when writing extension methods that take strings.<br>If you use an extension method on a string, it HAS to return a new string. What happens to the reference to the old string? When does it fall out of scope?<br>I think the answer is, "it depends on the code and what references to  it are still being held"<br>Why's guide rocks. But compare<br>5.times do {print 'I love shrimp'}<br>with<br>print.5.times("I love shrimp")<br>Which really reads more like english?</p>

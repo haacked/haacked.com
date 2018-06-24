@@ -1,0 +1,5 @@
+id: dsq-747521777
+date: 2007-07-29T15:40:45.0000000-07:00
+name: Joe Cheng [MSFT]
+avatar: https://disqus.com/api/users/avatars/Joe Cheng [MSFT].jpg
+message: <blockquote>Replaces with an empty string. I don’t re-insert this attribute back into the content yet, as I’m not sure if it is even necessary.</blockquote><p><br></p><p>Replaces what with an empty string?</p><p><br></p><p>We've definitely heard the complaints about generating non-validating markup, and we're hoping to clean up a lot of that stuff in a future release.</p><p><br></p><p>Always cool to see a programmer taking matters into his own hands though!</p>

@@ -1,0 +1,5 @@
+id: dsq-747529445
+date: 2009-06-26T08:47:00.0000000-07:00
+name: Douglas Crockford
+avatar: https://disqus.com/api/users/avatars/Douglas Crockford.jpg
+message: <p>It is too late to change JSON. JSON is fixed forever. This gives it stability which is one of its most important features.<br>You are attempting to solve the wrong problems. There are two problems here. The first is that array literals can be intercepted. This is fixed in ES5. <br>The second problem is that you are depending on ambient authority and the Same Origin Policy to protect your data. That is a mistake. Your server should never put bits on the wire unless it intends that they be delivered. This should not be delegated to the browser. It is the server's responsibility. <br>Requiring POST is a good suggestion. Avoiding the use of top level arrays is also a good suggestion. Take responsibility for the security of your data.</p>

@@ -1,0 +1,5 @@
+id: dsq-747513817
+date: 2006-01-13T02:32:00.0000000-08:00
+name: Chad Humphries
+avatar: https://disqus.com/api/users/avatars/Chad Humphries.jpg
+message: <p>I'll be posting a guide on this very thing in the next few days, using Castle.Services.Logging on the CastleProject site.  With it you get exactly the same benefits, but you can switch out the logger independant of the app to Log4Net, NLog, TraceContext, or any custom implementation.<br><br><br><br>I've found it works wonders for keeping our apps a little less tightly coupled to log4net (we've had some requests here and then to switch to other loggers).</p>

@@ -1,0 +1,5 @@
+id: dsq-747530802
+date: 2011-03-09T13:22:10.0000000-08:00
+name: Alex Kwok
+avatar: https://disqus.com/api/users/avatars/Alex Kwok.jpg
+message: <p>for those encountered FileNotFound exception for .less files with @import inside. You can add the following line <br>System.IO.Directory.SetCurrentDirectory(currentDirectory);<br>above "foreach(var cssFile in cssFiles) " around line 58 of <a href="http://T4CSS.tt" rel="nofollow noopener" title="T4CSS.tt">T4CSS.tt</a> to fix it.</p>

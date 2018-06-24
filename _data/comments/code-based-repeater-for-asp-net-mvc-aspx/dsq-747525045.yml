@@ -1,0 +1,5 @@
+id: dsq-747525045
+date: 2008-05-05T14:04:51.0000000-07:00
+name: mario
+avatar: https://disqus.com/api/users/avatars/mario.jpg
+message: <p>@steven if a DESIGNER cannot figure out the presentation logic, even if it is acceptable to have it there, then there's too much logic in the UI. nvelocity and brail have for loops, thus i would rather stick with C#. <br>a neat approach would be templates + CSS3 selectors on the enumerator. from my previous example, the mvc:repeater would use the odd row template for the item like this:<br>&lt;mvc:render-template id="odd" when="nth-child(odd)" /&gt;<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747523625
+date: 2008-12-04T03:15:33.0000000-08:00
+name: Ben Norman
+avatar: https://disqus.com/api/users/avatars/Ben Norman.jpg
+message: <p>I have not been able to move your sample to StructureMap 2.5. The DataContext is not able to find the ConnectionString. What are the chances of another 20 minutes on StructureMap 2.5 and if possible without a config file.</p>

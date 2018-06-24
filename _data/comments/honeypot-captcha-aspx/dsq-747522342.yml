@@ -1,0 +1,5 @@
+id: dsq-747522342
+date: 2007-09-10T16:23:24.0000000-07:00
+name: Philippe LACHAISE
+avatar: https://disqus.com/api/users/avatars/Philippe LACHAISE.jpg
+message: <p>I would suggest NOT to use id="honeypot" (they might learn to spot that), rater something like id="userComment" or some other pest appetizer ;-)</p>

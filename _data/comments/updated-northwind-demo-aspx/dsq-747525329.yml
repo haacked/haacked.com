@@ -1,0 +1,5 @@
+id: dsq-747525329
+date: 2008-12-12T09:53:12.0000000-08:00
+name: Kevin Daly
+avatar: https://disqus.com/api/users/avatars/Kevin Daly.jpg
+message: <p>I've resolved by stack overflow problem - I changed<br>[AcceptVerbs("POST")]<br>        public ActionResult EditProduct(int id, Product product) <br>to:<br>[AcceptVerbs("POST")]<br>        public ActionResult EditProduct(int id, [Bind(Include="ProductName,UnitPrice")]Product product) <br>...which stopped the model from chasing its own tail (is the problem here with the EF the navigation properties for link tables? Whatever)<br>I also thought it didn't make sense to pass the ProductID when redirecting back to Products, so I added an <em>Include("Categories")</em> to the pre-update query and changed the parameter passed back to Products to dbProduct.Categories.CategoryID.<br>Now everything updates nicely and redisplays the Products list with the updated data.</p>

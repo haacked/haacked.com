@@ -1,0 +1,5 @@
+id: dsq-747533528
+date: 2010-11-14T00:58:35.0000000-08:00
+name: Chris van de Steeg
+avatar: https://disqus.com/api/users/avatars/Chris van de Steeg.jpg
+message: <p>I noticed you ship a dll System.web.webpages.administration.dll with the webpages package. I really wonder what that's for, but even more... I wonder how you managed to get those compiled cshtml pages in there?<br>Surely it could be done with aspnet_compiler and then add those cs files manually and add the PageVirtualPathAttribute by hand also, but I'm sure you guys have some tool that automates this process?</p>

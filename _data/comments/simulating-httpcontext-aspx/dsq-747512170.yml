@@ -1,0 +1,5 @@
+id: dsq-747512170
+date: 2006-06-06T23:37:00.0000000-07:00
+name: Ronny Ortega
+avatar: https://disqus.com/api/users/avatars/Ronny Ortega.jpg
+message: <p>Hi everybody!<br>I tried this solution, but my code access the method 'HttpContext.Current.Profile.GetProfileGroup' and the readonly property 'Profile' is null.<br>So, any ideas how can I simulate the 'Profile' object.  The problem is that this property is read-only.<br>Regards!<br>Ronny<br></p>

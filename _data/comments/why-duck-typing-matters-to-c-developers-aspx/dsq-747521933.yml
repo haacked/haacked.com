@@ -1,0 +1,5 @@
+id: dsq-747521933
+date: 2007-08-19T13:02:23.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Well if it quacks like a duck, and if it... you get the picture. I'm well aware of the stylistic differences between a dynamic language and a statically typed language like C#.<br>My point is that there are benefits to using duck typing, even if it's an impaired not quite complete version of it, within C#. <br>As I demonstrated, there is a real world use case for its use.</p>

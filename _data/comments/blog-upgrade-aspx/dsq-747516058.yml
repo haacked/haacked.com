@@ -1,0 +1,5 @@
+id: dsq-747516058
+date: 2006-08-06T07:19:02.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I don't like that squishing either. I think that's a <a href="http://gravatar.com" rel="nofollow noopener" title="gravatar.com">gravatar.com</a> problem.  Notice the image tags don't specify a width or height.  We send a "size=50" in the query string.  They must resize the photos to 50x50.  Need to look into that.</p>

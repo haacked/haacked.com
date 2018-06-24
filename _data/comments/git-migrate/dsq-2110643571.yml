@@ -1,0 +1,5 @@
+id: dsq-2110643571
+date: 2015-07-01T08:44:41.0000000-07:00
+name: greatgooglymoogly
+avatar: https://disqus.com/api/users/avatars/greatgooglymoogly.jpg
+message: <p>Hmm, in the first case I always did</p><p>git checkout -b new-branch<br>git checkout master<br>git reset --hard HEAD~&lt;number of="" commits="" i="" mistakenly="" added="" to="" master=""&gt;</p><p>Is that dangerous?</p>

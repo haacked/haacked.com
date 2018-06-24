@@ -1,0 +1,5 @@
+id: dsq-747510141
+date: 2004-10-26T01:13:00.0000000-07:00
+name: Jon Galloway
+avatar: https://disqus.com/api/users/avatars/Jon Galloway.jpg
+message: <p>Great info. I've never really understood the lazy / greedy match thing before. Thanks.<br><br><br><br>Using RegEx's on nested HTML gets more difficult. We messed with balancing groups, which are supposed to handle nested constructs, we never got it working. Every sample (MSDN, Dan Appleman's book, etc.) was the same nested perintheses thing, but didn't work for HTML. <br><br><br><br>Did you handle nesting in your HTML parsing?</p>

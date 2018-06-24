@@ -1,0 +1,5 @@
+id: dsq-747532550
+date: 2010-06-16T12:03:36.0000000-07:00
+name: Damien Guard
+avatar: https://disqus.com/api/users/avatars/Damien Guard.jpg
+message: <p>I tend to use the following LINQ pattern for choosing fallbacks/defaults:<br>var item = new string[] { item1, item2, "SomeDefault }.First(s =&gt; !String.IsNullOrEmpty(s));<br>[)amien</p>

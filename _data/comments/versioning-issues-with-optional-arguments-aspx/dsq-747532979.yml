@@ -1,0 +1,5 @@
+id: dsq-747532979
+date: 2010-10-07T18:27:25.0000000-07:00
+name: Bil Simser
+avatar: https://disqus.com/api/users/avatars/Bil Simser.jpg
+message: <p>Thanks for spelling this out. I'm with Chad and think this is the worst feature ever, and the fact it only exists for COM interop makes it even more bitter in my mouth. COM needs to die a horrible death in front of everyone. So what's the next big thing for the C# language? Multiple inheritance. Yikes. Optional arguments IMHO are just a bad design and I would throw up the code smell flag in a code review if someone brought them out. I would have to call into question why it's needed, and it better be a damn good reason and not "I want to use the new framework features".</p>

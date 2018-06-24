@@ -1,0 +1,5 @@
+id: dsq-747518690
+date: 2008-08-13T18:15:47.0000000-07:00
+name: The_Assimilator
+avatar: https://disqus.com/api/users/avatars/The_Assimilator.jpg
+message: <p>If you need to place HTML inside a label (for example, span or strong tags), then you should use the TextBox.ClientID workaround posted by Scott to associate that label with your control. There are probably other ways to achieve this, but his suggestion is the simplest I've found.</p>

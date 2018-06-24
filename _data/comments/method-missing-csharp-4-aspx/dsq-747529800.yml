@@ -1,0 +1,5 @@
+id: dsq-747529800
+date: 2009-08-26T12:03:00.0000000-07:00
+name: Nikhil Kothari
+avatar: https://disqus.com/api/users/avatars/Nikhil Kothari.jpg
+message: <p>Very cool... <br>I am a fan of using dynamic in c# 4 to clean up various common usage patterns, where you're anyway doing late-bound string-based programming, just with an unnatural syntax.<br>Of course, I am sure you'll have no shortage of finding people who will be quick to point to the perils and the abuse factor. I had the same experience when I did my c# 4 dynamic and making REST API calls post :-)</p>

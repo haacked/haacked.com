@@ -1,0 +1,5 @@
+id: dsq-747519577
+date: 2007-04-12T03:09:15.0000000-07:00
+name: Kevin Dente
+avatar: https://disqus.com/api/users/avatars/Kevin Dente.jpg
+message: <p>Phil,<br>I hear ya. For me, when I hear "if x then y else z", I think "logic", and I'd rather have it tested. Plus, I'd rather capture that requirement ("the second thing isn't displayed if the first thing isn't") somewhere - the natural place being a test.<br>But I agree, it's a fine line.</p>

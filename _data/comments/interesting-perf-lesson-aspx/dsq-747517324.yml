@@ -1,0 +1,5 @@
+id: dsq-747517324
+date: 2006-10-18T19:06:53.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>The article makes it clear what's happening under the hood is that the Microsoft Data Application Block is creating the <code>SqlParameter</code> instances based on the stored procedure.<br>So you aren't necessarily opening yourself up to SQL Injection attacks as long as you are using parameterized queries or stored procedures.</p>

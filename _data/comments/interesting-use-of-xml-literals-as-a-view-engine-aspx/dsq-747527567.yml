@@ -1,0 +1,5 @@
+id: dsq-747527567
+date: 2008-12-29T09:52:02.0000000-08:00
+name: Barry Kelly
+avatar: https://disqus.com/api/users/avatars/Barry Kelly.jpg
+message: <p>Raw HTML lacks simple abstraction tools like constants, functions and loops, and templating languages like ASPX never quite make working with them feel neat and clean. The "best" approaches use some combination of binding and abstractions encapsulated in components instantiated via a different namespace, but that is still very clunky compared to almost all programming languages.<br>I personally think the approach described herein is a solid way to go, and preferable to most templating languages. Keeping business logic etc. out of your view is a discipline you need to have no matter what language you are using; if one were programming a rich GUI, you'd still need it.<br>IMO, the templating language used should be a pure functional one - that should keep out most of those DB connections - but with loops and functions and nested scoping. Whether or not it uses XML/HTML literals would ideally be a layering choice.</p>

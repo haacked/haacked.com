@@ -1,0 +1,5 @@
+id: dsq-769050789
+date: 2013-01-15T11:53:36.0000000-08:00
+name: James
+avatar: https://disqus.com/api/users/avatars/James.jpg
+message: <p>If a property assignment throws an exception, you're in violation of the object property contract? IE, a property get/set should never fail. If it does, it's because of your codebase, not a failure of the language or compiler.</p><p>Run the same test code, but have it so that the setter for SomeProperty throws an exception (as you assumed at the outset). Then run the analysis again. You'll see what I mean.<br></p>

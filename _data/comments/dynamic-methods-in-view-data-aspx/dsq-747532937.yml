@@ -1,0 +1,5 @@
+id: dsq-747532937
+date: 2010-12-16T16:52:44.0000000-08:00
+name: Wilson
+avatar: https://disqus.com/api/users/avatars/Wilson.jpg
+message: <p>Hi guys,<br>So now we have to deal with the ViewBag name in the RC2!! It's done!! My question is:<br>WHY if it's so clear that it is the ViewModel in the controller context and the Model in the View context??? Isn't it?? It's just me?? Is ViewBag something meaningful to you?? Really?? ... hmmmmmmm :(</p>

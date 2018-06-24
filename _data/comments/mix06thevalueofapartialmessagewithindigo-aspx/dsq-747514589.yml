@@ -1,0 +1,5 @@
+id: dsq-747514589
+date: 2006-03-23T11:24:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>It might if you needed to load the message in a DOM and examine various nodes.  Also, without the end tags, are you sure you got the whole message?</p>

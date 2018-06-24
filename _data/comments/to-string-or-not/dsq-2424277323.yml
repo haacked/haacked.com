@@ -1,0 +1,5 @@
+id: dsq-2424277323
+date: 2015-12-23T23:17:05.0000000-08:00
+name: abatishchev
+avatar: https://disqus.com/api/users/avatars/abatishchev.jpg
+message: "<p>Unfortunately Resharper stil can't be configured to follow this convention: it easier suggest to upper-case `string foo` or lower-case `String.Format`. The same for using `this.` only for instance properties. Everything or nothing. And this is end late 2015!</p>"

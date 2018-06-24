@@ -1,0 +1,5 @@
+id: dsq-747531234
+date: 2010-07-07T15:37:25.0000000-07:00
+name: myEnemy
+avatar: https://disqus.com/api/users/avatars/myEnemy.jpg
+message: "<p>Hi, i've had the same problem comparing color terms like #00FFFF or #FF0FFF. My solution was to create leading zeros by brute force... Sorry for destroying your beautiful code :-)<br>function fillZero(myString) {<br>if (myString.length == 1) return \"0\" + myString;<br>else return myString;<br>}<br>function colorToHex(color) {<br>    var digits = /(.*?)rgb\\(\\s*(\\d+)\\s*,\\s*(\\d+)\\s*,\\s*(\\d+)\\s*\\)/.exec(color);<br>    if (digits == null) return \"\";<br>    var red = parseInt(digits[2]);<br>    var green = parseInt(digits[3]);<br>    var blue = parseInt(digits[4]);<br>var hexcode = fillZero(red.toString(16)) + fillZero(green.toString(16)) + fillZero(blue.toString(16));<br>return '#' + hexcode.toUpperCase();<br>}</p>"

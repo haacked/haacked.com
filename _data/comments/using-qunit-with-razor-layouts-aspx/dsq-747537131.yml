@@ -1,0 +1,5 @@
+id: dsq-747537131
+date: 2011-12-11T20:30:19.0000000-08:00
+name: magellings
+avatar: https://disqus.com/api/users/avatars/magellings.jpg
+message: <p>We use regular htm pages for QUnit tests.  Tests can then be executed via NUnit with NQUnit and integrated with the build.</p>

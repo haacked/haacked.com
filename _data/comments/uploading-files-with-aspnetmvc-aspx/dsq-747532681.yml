@@ -1,0 +1,5 @@
+id: dsq-747532681
+date: 2010-07-21T07:30:42.0000000-07:00
+name: Tim Hobbs
+avatar: https://disqus.com/api/users/avatars/Tim Hobbs.jpg
+message: "<p>@Nick K-<br>I am pretty sure that App_Data is a \"reserved\" folder and won't allow any execution of code or anything. I think that is one of the ideas with those folders (App_Code, Bin, etc.): IIS knows better than to allow outside access to the contents.</p>"

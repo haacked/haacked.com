@@ -1,0 +1,5 @@
+id: dsq-747526068
+date: 2008-08-13T22:22:21.0000000-07:00
+name: tgmdbm
+avatar: https://disqus.com/api/users/avatars/tgmdbm.jpg
+message: <p>Agreed, Filters in Preview 4 are awesome.<br>Paragraph 1 of <strong>Writing Custom Filters</strong> needs to change. You need to inherit from FilterAttribute, not just Attribute.</p>

@@ -1,0 +1,5 @@
+id: dsq-747525562
+date: 2008-06-23T21:47:27.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Ayende of course I've heard of Resharper. I've been a big proponent of it. ;)  Last I recall, it didn't have the contextual rename. You had to consciously decide to rename a var. I stopped using it when their C# 3 support lagged behind. Now that 4.0 is out, I need to try it out again.</p>

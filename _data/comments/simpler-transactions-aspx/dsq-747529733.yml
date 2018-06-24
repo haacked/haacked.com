@@ -1,0 +1,5 @@
+id: dsq-747529733
+date: 2009-08-19T00:12:00.0000000-07:00
+name: Colin Whitlatch
+avatar: https://disqus.com/api/users/avatars/Colin Whitlatch.jpg
+message: <p>I use the same technique ( passing actions around ) forgeneric  exception handling ( just logging! ) &amp; launching simple threads.  I hadn't thought about doing it with transactions, I like it!</p>

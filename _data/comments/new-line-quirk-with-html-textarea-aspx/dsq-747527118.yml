@@ -1,0 +1,5 @@
+id: dsq-747527118
+date: 2008-11-18T06:25:41.0000000-08:00
+name: Graeme Christie
+avatar: https://disqus.com/api/users/avatars/Graeme Christie.jpg
+message: <p>@Mike<br>Yeah the automatic Encoding can be incredibly annoying (Who decided you shouldn't have html in your html !). Phil's solution is fine in the case of Html.ActionLink, where it is trivial to implement the helpers functionality inline using Url... In the case of Helpers like Ajax.ActionLink, which render excessively complex html, implementing it by hand is not an option. <br>Currently I work around the problem using a dirty hack, I insert a token as the Actionlink argument and then use Replace("Token", "real html"<br>e.g. Ajax.ActionLink("XXXEDITXXX", "Edit", &lt;blah blah=""&gt;).Replace("XXXEDITXXX","<span>Edit<span>");<br>Works well enough. However it would be nice if MS could allow us to not encode Every Action Link. This looks hell ugly spattered around your code, and it is hardly obvious what you are doing unless you are aware of the limitation.</span></span></p>

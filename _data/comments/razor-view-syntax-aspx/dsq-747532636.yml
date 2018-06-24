@@ -1,0 +1,5 @@
+id: dsq-747532636
+date: 2010-07-16T22:46:20.0000000-07:00
+name: Daniel Crenna
+avatar: https://disqus.com/api/users/avatars/conatus.jpg
+message: <p>How suitable would Razor be for non-eval templates? We are still missing a way to surface markup to end-users without compromising servers. What I'm thinking is the ability to strip out scripting and other loopholes similar to Shopify's Liquid project (<a href="http://liquidmarkup.org" rel="nofollow noopener" title="liquidmarkup.org">liquidmarkup.org</a>).</p>

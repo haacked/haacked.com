@@ -1,0 +1,5 @@
+id: dsq-747533561
+date: 2010-11-19T04:44:29.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Ryan you could probably do this by adding an Install.ps1 file. We have a PowerShell method Get-Project which gives you access to the Project's DTE. From that, you could modify the project.</p>

@@ -1,0 +1,5 @@
+id: dsq-747522089
+date: 2008-11-10T09:21:23.0000000-08:00
+name: Mark
+avatar: https://disqus.com/api/users/avatars/Mark.jpg
+message: "<p>in php:<br><code>function verifyEmail($Email) { // returns 1 for valid, else 0<br>$domain = substr(strrchr($Email,'@'),1);<br>$normal = (preg_match('/^([^@]{1,64}|\\\".{0,62}\\\")@[^@]{1,255}$/',$number) == 1) ? true: false;<br>$normal = (preg_match('/^([^\\.]{1,63}\\.)*[^\\.]{2,6}$/',$domain) == 1) ? $normal : false;<br>$pat = \"/^(([\\w!#$%&amp;'*+\\-\\/=?^`{|}~]+\\.)*([\\w!#$%&amp;'*+\\-\\/=?^`{|}~]|\\\\.)+\";<br>$pat .= \"|\\\"([^\\\"]|\\\\.)*\\\")\";<br>$pat .= \"@\";<br>$pat .= \"((((\\w+\\-)*\\w)+\\.)+\\w{2,6}\";<br>$pat .= \"|\\[(([1-9]\\d?|1\\d{2}|2([0-4]\\d|5[0-5]))\\.){3}([1-9]\\d?|1\\d{2}|2([0-4]\\d|5[0-5]))\\])$/\";<br>return ($normal === true) ? preg_match($pat,$Email) : 0;<br>}<br></code><br>In this incarnation, no support for local or tld Email addresses [johndoe@com, johndoe@machine3] although it would be simple to add<br>does the rfc support johndoe@123.123.123.123 or must it be johndoe@[123.123.123.123] ?</p>"

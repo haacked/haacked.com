@@ -1,0 +1,5 @@
+id: dsq-1342467202
+date: 2014-04-16T23:46:38.0000000-07:00
+name: adamralph
+avatar: https://disqus.com/api/users/avatars/adamralph.jpg
+message: '<p>Good post Phil, some good advice there.</p><p>I have an extra snippet of info for package authors: if you are authoring a package which is likely to be installed as a development dependency in almost all cases, starting with NuGet 2.8 you can add &lt;developmentdependency&gt;true&lt;/developmentdependency&gt; to your nuspec metadata. This will inform NuGet to add developmentDependency="true" in packages.config when developers install your package.</p><p>Of course, a developer can still remove the attribute if they need to.</p>'

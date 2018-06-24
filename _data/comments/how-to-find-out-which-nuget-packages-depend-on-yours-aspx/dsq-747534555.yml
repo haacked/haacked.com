@@ -1,0 +1,5 @@
+id: dsq-747534555
+date: 2011-03-03T19:57:21.0000000-08:00
+name: Matt S.
+avatar: https://disqus.com/api/users/avatars/ventaur.jpg
+message: <p>I'm all for adding a new feature to NuGet that allows a package to "redirect" to another. Anyone trying to download the deprecated package would be redirected to the new one. Likewise, updates would pass from the new package down to subscribers of the old one following the redirect in reverse.</p>

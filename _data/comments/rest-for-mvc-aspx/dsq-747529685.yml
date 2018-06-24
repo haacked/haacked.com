@@ -1,0 +1,5 @@
+id: dsq-747529685
+date: 2009-08-19T02:02:00.0000000-07:00
+name: tvish
+avatar: https://disqus.com/api/users/avatars/tvish.jpg
+message: <p>@Sebastien<br>   To be clear, WCF REST does not do dispatch to different methods based on different media types. You can specify the format in the URL using WCF REST 3.5 (?format=xml for example) but the framework does not do dispatch based on media type. In .Net Framework 4.0 WCF automatically does request and response format selection based on AcceptHeader+ContentType.<br>   I would encourage you to look at the SDK samples and functional tests again. The primary model for format selection is based on content-type and accept header. Now we also support ?format=xml|json etc just because it eases the development experience - you can view the different formats in the browser without needing to use Fiddler or write a REST client.<br></p>

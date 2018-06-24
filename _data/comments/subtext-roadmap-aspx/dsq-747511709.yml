@@ -1,0 +1,5 @@
+id: dsq-747511709
+date: 2005-05-08T05:27:00.0000000-07:00
+name: Victor Boctor
+avatar: https://disqus.com/api/users/avatars/Victor Boctor.jpg
+message: "<p>Administrative Tasks:<br><br>- FxCop: fix FxCop violations.<br><br>- Unit Tests: Consider adding some unit tests, at least for the critical classes.<br><br>- Use Docbook and eDE for external documentation.<br><br>- I totally agree that there is almost no internal documentation and that it is a priority to improve this.<br><br><br><br>I think MySQL and Mono will widen the market of Subtext considerably.<br><br><br><br>I believe we should consider keeping the multi-blog support, but maybe have the initial installation installs a single blog, then the user can trigger further steps to add multiple blogs.  Since I am not yet familiar with the install, I can't judge, but I thought I would suggest this anyway.<br><br><br><br>Regards,<br><br>Victor.</p>"

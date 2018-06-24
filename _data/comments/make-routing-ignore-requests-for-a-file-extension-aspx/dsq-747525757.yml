@@ -1,0 +1,5 @@
+id: dsq-747525757
+date: 2012-12-11T13:27:20.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Jatin routing doesn't work with wildcards in the way you did it. That should be something like:<br><code><br>routes.IgnoreRoute("{*alljpg}", new {alljpg=@".*\.jpe?g"});<br></code><br></p>

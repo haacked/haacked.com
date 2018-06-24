@@ -1,0 +1,5 @@
+id: dsq-747520628
+date: 2007-05-24T16:58:37.0000000-07:00
+name: Joe Brinkman
+avatar: https://disqus.com/api/users/avatars/Joe Brinkman.jpg
+message: <p>@Stefan - You have to do the same work in Ruby.  Extensions are not free.  Someone has to write them.  In Ruby, the community has had time to create some "standard" libraries, and I suspect that the same will happen in the .Net space.<br>Also, re-read the original problem.  This cannot be solved in the existing framework.  20 is an integer and there is no way in C# 2.0 to add any methods or properties to the integer class.  In C# 3.0, you can add extension methods to ANY class, whether you have the source code or not.  So if I need an additional method that works on strings FileInfo objects, I am free to add it without creating a new subclass.</p>

@@ -1,0 +1,5 @@
+id: dsq-747526712
+date: 2009-02-02T19:03:57.0000000-08:00
+name: Chad Thiele
+avatar: https://disqus.com/api/users/avatars/Bikuri.jpg
+message: <p>My publish fails... doesn't give any good error message (it simply says "publish failed"). The build "builds" with no errors, just the publish fails.<br>This is in Visual Studio 2008 (not express dev tools).<br>Anyone else experience this? Any ideas?</p>

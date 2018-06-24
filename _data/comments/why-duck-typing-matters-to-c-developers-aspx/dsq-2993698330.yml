@@ -1,0 +1,6 @@
+id: dsq-2993698330
+replyToId: dsq-747521980
+date: 2016-11-09T11:04:45.0000000-08:00
+name: David Lewis
+avatar: https://disqus.com/api/users/avatars/disqus_v3Q5uFBCB4.jpg
+message: <p>How is this scenario significantly different for a manually written proxy class?  If you write a proxy to support unit testing and the class you are consuming with that proxy changes in a way that does not alter the portions of the interface your proxy interacts with the same problems exist.   Adding void Bar2() would not trigger compile time warnings or errors in a proxy that only uses void Bar1().</p>

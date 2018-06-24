@@ -1,0 +1,5 @@
+id: dsq-747531728
+date: 2010-02-25T20:54:47.0000000-08:00
+name: Pita.O
+avatar: https://disqus.com/api/users/avatars/Pita.O.jpg
+message: '<p>I am going with @BjartT: on this one. The use of Attributes for concerns that are not truly cross-cutting can be an issue here albeit a minor one.<br>The major issue is around simplicity and ownership of a concern. I would suggest that how one data element in a domain maps to another is a business problem.  I would do a slug-catching action method and pass the slug into a lower layer that resolves it to an appropriate id. A simple data access method overload would just clean this up and preserve the flexibility I could otherwise loose in the  View.<br></p>'

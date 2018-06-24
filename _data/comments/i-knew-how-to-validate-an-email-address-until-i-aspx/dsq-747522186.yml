@@ -1,0 +1,5 @@
+id: dsq-747522186
+date: 2012-02-17T21:03:21.0000000-08:00
+name: ashley
+avatar: https://disqus.com/api/users/avatars/ashley.jpg
+message: "<p>maybe it's been mentioned, but the host part at a minimum matches \"@aa.aa\", which excludes email to a TLD such as @ca, although \"user@ca\" is a valid email address (not that i've seen such an address). it will also match \"@a..._.-.a.a...a\" which is horrible for several reasons: multiple dots in a row, a label beginning or ending with a minus sign, and an underscore being anywhere.<br>i can't begin to parse the local part at it seems quite different from anything one would find in perl or java.</p>"
