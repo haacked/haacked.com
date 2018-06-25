@@ -1,0 +1,26 @@
+id: 4d351f45
+date: 2018-06-25T15:17:53.6527340Z
+name: haacked
+avatar: https://avatars.io/twitter/@haacked/medium
+message: >-
+  I realize now that if I have a popular blog post, I will have a lot of PRs to merge!
+
+
+
+  > I would think you can use the Content Moderator from Azure Cognitive Services to do the spam filtering for you! :)
+
+
+
+  Pedro, I may give that a try!
+
+
+
+  > A typical approach for poor man's comment filtering would be to include a Honeypot.
+
+
+
+  You mean, like this? https://haacked.com/archive/2007/09/11/honeypot-captcha.aspx/
+
+
+
+  I'll probably add something like that too.
