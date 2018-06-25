@@ -6,7 +6,7 @@ comments: true
 categories: [jekyll comments blogging]
 ---
 
-If you've been a long time reader of my blog, you might notice something different starting today. No, the content hasn't gotten any better. What's new is the comment system.
+If you are a long time reader of my blog, you might notice something different starting today. No, the content hasn't gotten any better. What's new is the comment system.
 
 ![The Graffiti Tunnel 38 by Greger Ravik - CC BY 2.0](https://user-images.githubusercontent.com/19977/41829489-e2745840-77ef-11e8-9ec5-f1d7385bb190.jpg)
 
