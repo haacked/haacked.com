@@ -2,7 +2,7 @@
 layout: post
 title: "Comments for Jekyll Blogs"
 date: 2018-06-24 -0800
-comments: false
+comments: true
 categories: [jekyll comments blogging]
 ---
 
