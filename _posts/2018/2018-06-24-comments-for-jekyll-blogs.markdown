@@ -30,11 +30,12 @@ This is what Damien built. He [wrote an Azure function](https://damieng.com/blog
 
 I wrote [an importer](https://github.com/haacked/disqus-importer) that takes the Disqus export file and creates all the Jekyll data files. In my case, that ended up creating 25,381 files since there are that many comments on my blog. Wow!
 
-You can see the work I did on haacked.com to implement Damien's comment system for my blog in [this Pull Request](https://github.com/Haacked/haacked.com/pull/316). It's hard to look at the changes because there are so many file changes, but this PR contains three commits:
+You can see the work I did on haacked.com to implement Damien's comment system for my blog in [this Pull Request](https://github.com/Haacked/haacked.com/pull/316). It's hard to look at the changes because there are so many file changes, but this PR contains four commits:
 
 1. The [changes to my Jekyll templates](https://github.com/Haacked/haacked.com/pull/316/commits/881fa955e08dd988fd34c60537084016359a7e58).
 2. [Import all of the comments](https://github.com/Haacked/haacked.com/pull/316/commits/ee3fe87cb43386b02ed2ed9cf4a6d1b63e0ef9d4).
-3. This blog post announcing the change.
+3. This [blog post announcing the change](https://github.com/Haacked/haacked.com/pull/316/commits/4b4085a1ba79e3f6ea2ca29f4122cafae353ec82).
+4. A commit where I update the post to link to the third commit. Obviously I can't link to this fourth commit without creating a fifth commit unless I can break SHA1 and guess the commit SHA of the blog post before I commit.
 
 The first commit is the most interesting for anyone looking to implement this system for their own blog.
 
