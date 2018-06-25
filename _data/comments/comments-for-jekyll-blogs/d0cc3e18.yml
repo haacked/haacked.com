@@ -1,0 +1,10 @@
+id: d0cc3e18
+date: 2018-06-25T15:40:29.8003909Z
+name: haacked
+avatar: https://avatars.io/twitter/@haacked/medium
+message: >-
+  > so, someone can increase their “open source contributor” rankings by commenting on your blog? nice! I’ve contributed to the Haacked Blog!
+
+
+
+  Unfortunately, no. The comments are made under my account. Someday I might allow folks to authenticate using their GitHub account to leave a comment, in which case I would create the commit as your user.
