@@ -1,0 +1,5 @@
+id: dsq-747526974
+date: 2008-11-11T09:19:08.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>In any case, after stripping the HTML, it should be safe to Html Encode it, since there's theoretically no HTML left. That will ensure that no HTML sneaks through.</p>

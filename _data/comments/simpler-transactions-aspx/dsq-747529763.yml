@@ -1,0 +1,5 @@
+id: dsq-747529763
+date: 2009-08-19T12:09:00.0000000-07:00
+name: Joe Chung
+avatar: https://disqus.com/api/users/avatars/Joe Chung.jpg
+message: <p>Nitpicking here but instead of<br>if(SaveWorkToDatabaseSuccessful()) {<br>    return true;<br>  }<br>  return false;<br>Why not<br>return SaveWorkToDatabaseSuccessful();</p>

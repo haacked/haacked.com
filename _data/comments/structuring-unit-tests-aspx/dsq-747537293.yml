@@ -1,0 +1,5 @@
+id: dsq-747537293
+date: 2012-01-02T03:31:23.0000000-08:00
+name: Matt Wrock
+avatar: https://disqus.com/api/users/avatars/Matt Wrock.jpg
+message: <p>I work with some of the folks that Drew, Brad and Jim Newkirk used to work with over at MSDN. We use this style of organizing tests and I really like it. It provides an organized way to quickly find a set of tests I'm looking for. Its far too easy for a single test class to fill up with a hundred tests and then lose track of any kind of order. This organization strategy goes a long way to solve this.<br>We have further refined the single "Testable" class using auto mocking. I have found that auto mocking makes the testable class pattern much more DRY. See my blog post <a href="http://www.mattwrock.com/post/2011/12/07/Unit-Testing-ASPNet-Http-Handlers-and-a-discussion-of-Auto-Mocking-and-the-Testable-pattern.aspx" rel="nofollow noopener" title="http://www.mattwrock.com/post/2011/12/07/Unit-Testing-ASPNet-Http-Handlers-and-a-discussion-of-Auto-Mocking-and-the-Testable-pattern.aspx">Unit Testing ASP.Net Http Handlers and a discussion of Auto Mocking and the Testable pattern</a> for details.</p>

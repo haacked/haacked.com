@@ -1,0 +1,5 @@
+id: dsq-747520128
+date: 2007-09-16T22:35:41.0000000-07:00
+name: Dorfer
+avatar: https://disqus.com/api/users/avatars/Dorfer.jpg
+message: <p>I know jphillip worked around the whole "/default.aspx" local url problem via javascript, but it seemed odd to me there was no way to handle directory default urls (eg <a href="http://myblog.com/tags/sometag/)" rel="nofollow noopener" title="myblog.com/tags/sometag/)">myblog.com/tags/sometag/)</a> more easily in <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a>.  I looked into it quick (or rather google looked into it for me) and it would appear you can do such a thing via a couple more http handlers in the web.config file.  See <a href="http://www.codeproject.com/useritems/handledirectory.asp" rel="nofollow noopener" title="http://www.codeproject.com/useritems/handledirectory.asp">http://www.codeproject.com/...</a><br>I haven't actually tested it, but it seems pretty straightforward to me.  Just thought I would pass it along.</p>

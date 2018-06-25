@@ -1,0 +1,5 @@
+id: dsq-747529242
+date: 2009-06-09T05:23:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Derek, could you clarify? You should be able to select "List" as the scaffold type and just select your object. What are the repro steps?</p>

@@ -1,0 +1,5 @@
+id: dsq-747528626
+date: 2009-04-14T18:30:00.0000000-07:00
+name: Joe Reynolds
+avatar: https://disqus.com/api/users/avatars/Joe Reynolds.jpg
+message: <p>Very nice stuff. However, is there any way to use this jquery plugin (or some other) to gain more control of the formatted output? I'm looking for something like this that allows data display/paging using MVC in a way similar to what can be done with the ASP.NET Repeater control.</p>

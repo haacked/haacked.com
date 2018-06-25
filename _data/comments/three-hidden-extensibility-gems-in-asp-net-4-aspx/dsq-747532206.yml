@@ -1,0 +1,5 @@
+id: dsq-747532206
+date: 2010-05-16T08:28:52.0000000-07:00
+name: Chris Cavanagh
+avatar: https://disqus.com/api/users/avatars/Chris Cavanagh.jpg
+message: <p>To clarify...  Meant to say "if there were weird side effects".  Currently seems to be behaving itself :) (note if debugging through IIS rather than Cassini it can look like the method isn't getting called (breakpoints don't get hit), but it does actually work fine).</p>

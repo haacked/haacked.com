@@ -1,0 +1,5 @@
+id: dsq-747526582
+date: 2009-02-14T03:10:54.0000000-08:00
+name: Carlos Sobrinho
+avatar: https://disqus.com/api/users/avatars/Carlos Sobrinho.jpg
+message: "<p>Hi there,<br>I'm currently writing a custom ModelBinder for ISet&lt;&gt; collections.<br>I would like to make UpdateModel update my ISet&lt;&gt; models.<br>When I pass a entity Id &lt; 0, it should create a new one.<br>My problem is, is it possible to access the string[] includeProperties, string[] excludeProperties passed in the UpdateModel inside the ModelBinder?<br>I need to insure that only some properties should be updated and I won't want to do: \"entity[2].Id\", \"entity[2].Code\", etc because I don't know if the index is 2 or some other value.<br>Rather, I think \"entity.Id\", \"entity.Code\" or even better \"entity[].Id\", \"entity[].Code\" would be great for specifying the include and exclude properties for collections.<br>What do you think? Any pointer on how to achieve this?<br></p>"

@@ -1,0 +1,5 @@
+id: dsq-878335158
+date: 2013-04-28T02:35:18.0000000-07:00
+name: SquadWuschel
+avatar: https://disqus.com/api/users/avatars/SquadWuschel.jpg
+message: <p>If You have <br>&lt;mvcbuildviews&gt;true&lt;/mvcbuildviews&gt;<br>this option in your csproj you also get the <br>allowDefinition='MachineToApplication' error<br>Just Remove the Entry, then it Works</p>

@@ -1,0 +1,5 @@
+id: dsq-747524226
+date: 2008-02-20T23:27:57.0000000-08:00
+name: Jay R. Wren
+avatar: https://disqus.com/api/users/avatars/Jay R. Wren.jpg
+message: <p>"You don’t get compile time checking with this approach when implementing this ABC, but hey, thems the breaks."<br>Yes, them is the breaks. If I wanted this situation I would write in Ruby or Python or some place which doesn't give me compile time checking.<br>Worse yet, your behavior is now dependent on the type of IHttpContext that I send the method. This STINKS(as in code smell). It sounds like a violation of SRP.<br>Please don't behave differently just because my implementation of IHttpConext isn't your Base impl. You are treat me like a jerk. I'm not a jerk. I swear. If you want HttpContextBase behavior, then put the behavior IN HttpContextBase!<br></p>

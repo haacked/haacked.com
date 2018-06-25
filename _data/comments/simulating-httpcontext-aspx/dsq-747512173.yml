@@ -1,0 +1,5 @@
+id: dsq-747512173
+date: 2006-08-23T04:35:53.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>In the comments of that post on MVP, a commenter mentions implementing your own IContext and then links to a full implementation.  <br>In principle, that would be the way to go, depending on your needs.  If Session is the only thing you need, then I would consider only abstracting out the session by creating your own session class that can either store in ASP.NET session or a test class of your choosing.<br>Or download my code to simulate the Http Context and use that. I think it handles session. If not, you could probably add it.<br></p>

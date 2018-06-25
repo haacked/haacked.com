@@ -1,0 +1,5 @@
+id: dsq-747529434
+date: 2009-06-25T23:42:00.0000000-07:00
+name: Andrey Shchekin
+avatar: https://disqus.com/api/users/avatars/Andrey Shchekin.jpg
+message: <p>I would say that the best solution lies on browser side. My understanding is that Array constructor is already blocked, so the browser vendors should just block property definitions on Object.prototype (it is a bad practice to extend it anyway).</p>

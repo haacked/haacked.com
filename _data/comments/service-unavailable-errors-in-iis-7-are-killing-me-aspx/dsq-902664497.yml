@@ -1,0 +1,5 @@
+id: dsq-902664497
+date: 2013-05-19T22:23:00.0000000-07:00
+name: Mehran Halimi Asl
+avatar: https://disqus.com/api/users/avatars/mehranhalimiasl.jpg
+message: <p>I had they same problem, it is solved by:</p><p>netsh<br>http<br>delete urlacl url=http://+:8080/</p><p>it seems that port 8080 had problem</p>

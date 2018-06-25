@@ -1,0 +1,6 @@
+id: dsq-757814973
+replyToId: dsq-757471533
+date: 2013-01-06T07:45:35.0000000-08:00
+name: Omer Raviv - BugAid Software
+avatar: https://disqus.com/api/users/avatars/Omer Raviv - BugAid Software.jpg
+message: <p>I think ultimately, begging the Code Contracts team to allow this<br>is the way to go, since you'll want to ensure we'll have good static code analysis tools that lets you know when your code is<br>broken before you even run it. I personally use Resharper's [NotNull] and [CanBeNull] attributes, and I've found that the static code analysis saves me from my own dumb mistakes countless times. (See: <a href="http://blogs.jetbrains.com/dotnet/2010/11/resharper-nullreferenceexception-analysis-and-its-contracts/" rel="nofollow noopener" title="http://blogs.jetbrains.com/dotnet/2010/11/resharper-nullreferenceexception-analysis-and-its-contracts/">http://blogs.jetbrains.com/...</a> )</p>

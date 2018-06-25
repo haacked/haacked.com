@@ -1,0 +1,5 @@
+id: dsq-747529895
+date: 2009-08-31T15:39:00.0000000-07:00
+name: David Markle
+avatar: https://disqus.com/api/users/avatars/David Markle.jpg
+message: "<p>Huh.  Nobody has yet mentioned how useful \"dynamic\" could be when writing unit tests.  I mean, if we're really writing our unit tests FIRST, that means we pretty much break the ability for our solutions to compile in a statically typed world, yes? <br>I'd love to write my tests with dynamic whored everywhere.  That way I would finally be able to live the dream of true TDD development in C# the way I could with, say Ruby.  Writing a test for a test for a class or method that does not exist should just be a failing test, not a monkeywrench which keeps everything from compiling.<br>On the other hand re: language enhancements, I think you do need to be careful, though.  C++ was once a fairly elegant language, and I can barely recognize it now.  It's now got most of the overhead of a modern language, and a ton of deprecated ways of doing things.  That's not really due to a lot of new keywords, though...</p>"

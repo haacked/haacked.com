@@ -1,0 +1,5 @@
+id: dsq-747538400
+date: 2012-09-30T01:13:36.0000000-07:00
+name: distantcam
+avatar: https://disqus.com/api/users/avatars/distantcam.jpg
+message: <p>This sounds like a display issue, rather than a back-end one. If the end result is to show a host name the moment one is available why not have a HostName property on your ViewModel, and when the URL string property changes, try to set the HostName property then?<br>I think of the ViewModel as a facilitator for the View, rather than a holder of the business logic for a screen. That way having properties like SelectedFoo etc also make sense as they are very View specific. Business logic gets put into other classes away from the INotifyPropertyChanged gunk that is only UI relevant. Then the ViewModel becomes a coordinator of a bunch of business-logic calls.<br>More and more I think the ViewModel is becoming the new code-behind.</p>

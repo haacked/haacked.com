@@ -1,0 +1,5 @@
+id: dsq-747525728
+date: 2008-07-15T12:06:00.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Steve Doh! Thanks for catching that. Fixed.<br>@Mark That's for the case where you map a .aspx URL to an HttpHandler. For example, when using ELMAH, you can map /Errors.aspx to the ELMAH handler. In that case, /Errors.aspx doesn't actually exist on disk, in which case Routing attempts to route the request for /Errors.aspx.<br>Take a look at the example project linked to in this post and you'll see what I mean.</p>

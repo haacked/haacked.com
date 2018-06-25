@@ -1,0 +1,5 @@
+id: dsq-747520607
+date: 2007-05-27T19:16:16.0000000-07:00
+name: Joe Brinkman
+avatar: https://disqus.com/api/users/avatars/Joe Brinkman.jpg
+message: <p>I believe that this list falls short as it just focuses on the testing side.  I also believe that code is not done until it is documented.  At a minimum this should probably include XML comments.  This does not need to be full blown end-user docs, but should be at least complete enough that other developers and the tech writing team can easily figure out your intent.  Too often as developers we think our job is just getting code to run, but if no one else is able to use the code, or the resulting system, then we really haven't achieved our objective at all.</p>

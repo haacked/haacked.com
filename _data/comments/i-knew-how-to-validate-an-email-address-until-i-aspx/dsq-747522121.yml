@@ -1,0 +1,5 @@
+id: dsq-747522121
+date: 2010-02-08T12:43:49.0000000-08:00
+name: chris
+avatar: https://disqus.com/api/users/avatars/chris.jpg
+message: <p>"I believe erratum ID 1003 is slightly wrong. RFC 2821 places a 256 character limit on the forward-path. But a path is defined as<br>Path = "&lt;" [ A-d-l ":" ] Mailbox "&gt;"<br>So the forward-path will contain at least a pair of angle brackets in addition to the Mailbox. This limits the Mailbox (i.e. the email address) to 254 characters."<br><a href="http://www.rfc-editor.org/errata_search.php?rfc=3696" rel="nofollow noopener" title="http://www.rfc-editor.org/errata_search.php?rfc=3696">www.rfc-editor.org/errata_search.php?rfc=3696</a></p>

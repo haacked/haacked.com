@@ -1,0 +1,5 @@
+id: dsq-747511160
+date: 2007-03-06T13:01:45.0000000-08:00
+name: Atiz
+avatar: https://disqus.com/api/users/avatars/Atiz.jpg
+message: "<p>Hi all,<br>when I try to use <br>[assembly: log4net.Config.XmlConfigurator(<br>ConfigFile=\"Log4Net.config\",Watch=true )]<br>in the assemblyinfo.cs, the compiler complained that it is not an attribute class. How can I make it work? I am using VS2005 to do my C#.net proj. I've already referenced to log4net.dll.<br>TIA<br>Atiz</p>"

@@ -1,0 +1,5 @@
+id: dsq-747508541
+date: 2004-06-15T14:40:00.0000000-07:00
+name: Gary Cornell
+avatar: https://disqus.com/api/users/avatars/Gary Cornell.jpg
+message: "<p>Re catching exception: Java's approach is too much one way, C# is too much the other way. What is needed is  a way of being told if you failed to catch an exception - whether from code you write or code you call. Not an easy task to develop this kind of compiler but worth it in the end. The developer should be allowed to say \"OK I won't catch that one but should be notified via a compiler warning if they didn't!</p>"

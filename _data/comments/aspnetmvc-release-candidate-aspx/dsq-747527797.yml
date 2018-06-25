@@ -1,0 +1,5 @@
+id: dsq-747527797
+date: 2009-01-27T18:42:11.0000000-08:00
+name: Bill Gerold
+avatar: https://disqus.com/api/users/avatars/Bill Gerold.jpg
+message: <p>Great Work, I feel production release can't be far behind.<br>I am having issues with the DropDownList now.<br>I Use dropdowns extensively through out my application adn made various helpers that return a SelectList with an Item selected.<br>I use the following call <br><code>&lt;%=Html.DropDownList("WellST",Html.StateSelectList(ViewData.Model.WellST),  New With {.class = "ddl_Class"})%&gt;</code><br>Which worked perfectly<br>With the new build however I get Overload resolution failed because no accessible 'DropDownList' can be called without narrowing conversion<br>Any ideas?</p>

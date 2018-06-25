@@ -1,0 +1,5 @@
+id: dsq-747519925
+date: 2007-06-14T01:38:25.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>You can use the normal way of setting up a result.<br>SetupResult.For(yourObj.PropertyName).Returns(someValue);</p>

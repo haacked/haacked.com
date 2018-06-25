@@ -1,0 +1,5 @@
+id: dsq-747520651
+date: 2007-05-25T02:22:25.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Scott, but you have the same issue with proper methods of the string class.<br>For example: <br><code><br>string s = \"upper\";<br>s.ToUpper();<br>Console.WriteLine(s);<br></code><br>Will print \"upper\" because strings are immutable. The proper thing to do is this:<br><code><br>string s = \"upper\";<br>s = s.ToUpper();<br>Console.WriteLine(s);<br></code><br>Extension methods are no different here and introduce nothing new with regards to strings. What happens to the old string? It gets garbage collected unless it happens to be interned, but that's another story. ;)<br>@count0 - Well some of us do! :) And with IronRuby on the horizon, it'll be easy to use it in a future .NET project.</p>"

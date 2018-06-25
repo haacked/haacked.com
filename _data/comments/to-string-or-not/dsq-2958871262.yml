@@ -1,0 +1,5 @@
+id: dsq-2958871262
+date: 2016-10-19T12:17:26.0000000-07:00
+name: William shepherd
+avatar: https://disqus.com/api/users/avatars/disqus_LJJmheNhbz.jpg
+message: <p>So glad I am not the only one who feels this away about things that really shouldn't matter! I hate when I see string.IsNullOrEmpty(...) instead of String.IsNullOrEmpty(...).One says this is a static method and the other is saying a primitive is not just a primitive. Great to see others see code as communication to others in addition to the compiler :-)</p>

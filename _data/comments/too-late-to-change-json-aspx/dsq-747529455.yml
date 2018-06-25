@@ -1,0 +1,5 @@
+id: dsq-747529455
+date: 2009-06-30T02:27:00.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>I thought you could still access the script nodes text even if the parser failed, it looks like you can't access it at all in the case where you are loading a script via the src attribute. My mistake. So it looks like wrapping the array with brackets and/or ensuring that the sensitive data is only retrieved via a POST request will work.<br>However, my prescriptive guidance would still be to not send sensitive data in a JSON message via a GET. In fact, I've always avoided sending any kind of sensitive information via JSON at all.<br>Good catch, this stuff often gets left to the wayside in the rush to sling JSON and JavaScript around.</p>

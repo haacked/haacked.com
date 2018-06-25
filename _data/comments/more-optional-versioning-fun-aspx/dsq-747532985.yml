@@ -1,0 +1,5 @@
+id: dsq-747532985
+date: 2010-08-12T12:58:27.0000000-07:00
+name: Jonathan van de Veen
+avatar: https://disqus.com/api/users/avatars/Jonathan van de Veen.jpg
+message: <p>Ok, so it can introduce bugs. <br>However I would consider two overloaded methods providing different functionality poor design / naming. You shouldn't overload a mehod with something that's very different because it's name should be different.</p>

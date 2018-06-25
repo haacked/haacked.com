@@ -1,0 +1,6 @@
+id: dsq-807256469
+replyToId: dsq-806236764
+date: 2013-02-21T09:38:09.0000000-08:00
+name: wwahammy
+avatar: https://disqus.com/api/users/avatars/wwahammy.jpg
+message: <p>The certs from a CA like Verisign are probably the highest level of trust because the identity is verified. On the lowest end you have a totally unsigned package. What about a middle choice like Android .apk's where people sign with user created keys or certs from an untrusted CA? That way you can verify that updates come from the same person that created the original package.</p><p>I think by supporting all choices and providing a view into that in the NuGet UI (have some sort of verification indicator or rating) you can improve trust using high quality, cryptographically secure mechanisms.</p>

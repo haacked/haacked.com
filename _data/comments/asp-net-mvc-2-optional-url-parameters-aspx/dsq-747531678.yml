@@ -1,0 +1,5 @@
+id: dsq-747531678
+date: 2010-02-12T08:35:20.0000000-08:00
+name: ChrisNTR
+avatar: https://disqus.com/api/users/avatars/ChrisNTR.jpg
+message: <p>As Ryan pointed out on Twitter, the line<br>"To refresh your memory, that’s a route with three URL parameters (home, action, id), each with a default value ("home", "index", "")."<br>should be <br>To refresh your memory, that’s a route with three URL parameters (url, action, id), each with a default value ("home", "index", "").<br>Cheers,<br>ChrisNTR</p>

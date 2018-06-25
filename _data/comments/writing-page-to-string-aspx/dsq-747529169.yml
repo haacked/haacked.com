@@ -1,0 +1,5 @@
+id: dsq-747529169
+date: 2009-05-28T23:26:00.0000000-07:00
+name: Gene
+avatar: https://disqus.com/api/users/avatars/Gene.jpg
+message: <p>With regard to <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> streaming a page, Steve Souders (YSlow) mentions using <a href="http://www.stevesouders.com/blog/2009/05/18/flushing-the-document-early/" rel="nofollow noopener" title="http://www.stevesouders.com/blog/2009/05/18/flushing-the-document-early/">www.stevesouders.com/.../flushing-the-document-...</a><br>(stackoverflow suggests Response.Flush() <a href="http://stackoverflow.com/questions/678811/can-i-flush-the-buffer-early-using-asp-net" rel="nofollow noopener" title="http://stackoverflow.com/questions/678811/can-i-flush-the-buffer-early-using-asp-net">stackoverflow.com/.../can-i-flush-the-buffer-ea...</a> )<br>to start the browser downloading other files rather than waiting for the html doc to finish downloading. <br>How/Does this work with MVC? <br></p>

@@ -1,0 +1,6 @@
+id: dsq-792179526
+replyToId: dsq-747522414
+date: 2013-02-07T11:42:07.0000000-08:00
+name: Zymara
+avatar: https://disqus.com/api/users/avatars/Zymara.jpg
+message: <p>I know this is really old, but I had to reply as I had a fun answer.  My site was getting hit 100s of times a day by the same spammer, so I took any incoming requests coming from that IP address and bounced them back to that same IP address.  So basically I spammed the spammer with his own spam.  :^)</p>

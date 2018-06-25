@@ -1,0 +1,5 @@
+id: dsq-747517881
+date: 2006-12-06T06:20:39.0000000-08:00
+name: DmitryR
+avatar: https://disqus.com/api/users/avatars/DmitryR.jpg
+message: <p>It is hard for me to say for sure without seeing the stack, but what it looks like is that calling Flush in restricted trust doesn’t work on Cassini – part of the Flush logic requires access to [internal] native response buffers and that fails with security exception under a not-full trust.  Under IIS the buffers goes directly to IIS as is (no manipulation is done in managed code) and thus the security demand is not triggered.<br>Thanks,<br>Dmitry</p>

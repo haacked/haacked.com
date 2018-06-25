@@ -1,0 +1,5 @@
+id: dsq-747536479
+date: 2012-01-15T21:31:49.0000000-08:00
+name: Jason
+avatar: https://disqus.com/api/users/avatars/Jason.jpg
+message: <p>So let's think about the patch versioning for a moment. 1.2.3beta is what will *become* 1.2.3. So why would you add build numbers to the previous patch version? Shouldn't you be adding them to what the build will become?<br>If you just released 1.2.3alpha, then the next build should be 1.2.3beta-{buildstamp}. In this manner, the buildstamps are still ordered lexicographically so they still function correctly as a patch number. Additionally, when the pre-release is ready for public consumption, the buildstamp is simply dropped. Now the pre-release version is still higher-order lexicographically so it's in the proper order. Also, the method of incrementing from pre-release to release is the same as nightly to public. Simply drop the buildstamp to go public; similarly drop the pre-release (alpha, beta, etc) to release the patch.</p>

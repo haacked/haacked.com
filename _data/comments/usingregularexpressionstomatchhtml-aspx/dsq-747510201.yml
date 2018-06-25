@@ -1,0 +1,5 @@
+id: dsq-747510201
+date: 2007-04-22T02:20:42.0000000-07:00
+name: Chris
+avatar: https://disqus.com/api/users/avatars/Chris.jpg
+message: <p>Hi Folks,<br>I'm trying to get plain text out of "any" html document, which seems to be quite difficult to do cause most of the regex I tried doesn't match scripts, styles and so on. Any suggestions to do it in a different way, I'm programming in C# .NET<br>Thanks in advance and sorry for my poor english<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747516279
+date: 2006-08-11T11:36:39.0000000-07:00
+name: Aaron Lerch
+avatar: https://disqus.com/api/users/avatars/Aaron Lerch.jpg
+message: "<p><b>Pop Quiz</b>: Because reusing the code in that way would modify the stack and give you the wrong return (it would return whatever type contains the GetCallingType() method).<br>In physics this would fall under the Heisenberg Uncertainty Principle where the act of measuring an electron's location actually modifies it's location.</p>"

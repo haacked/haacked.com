@@ -1,0 +1,5 @@
+id: dsq-747517757
+date: 2006-11-26T07:34:18.0000000-08:00
+name: Joe Cheng
+avatar: https://disqus.com/api/users/avatars/Joe Cheng.jpg
+message: <p>I do this when I'm feeling lazy and performance is not critical (which is the <em>vast</em> majority of the time).<br><code>Fake[] fakes = Fake.GetFakes();<br>string delimited = string.Empty;<br><strong>string delimiter = string.Empty;</strong><br>foreach(Fake fake in fakes)<br>{<br>delimited += <strong>delimiter +</strong> fake.SomeProp;<br>    <strong>delimiter = "|";</strong><br>}<br>Console.WriteLine(delimited);</code></p>

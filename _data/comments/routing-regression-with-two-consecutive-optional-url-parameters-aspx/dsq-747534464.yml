@@ -1,0 +1,5 @@
+id: dsq-747534464
+date: 2011-02-20T02:52:01.0000000-08:00
+name: S&#248;ren Gregersen
+avatar: https://disqus.com/api/users/avatars/S&#248;ren Gregersen.jpg
+message: <p>Hi Phil, You've been hacked!<br>Well, technicaly you've just inserted an empty H2-element before the "The Workaround"-heading, so IE9 makes the rest of the page look really akward. <br>Other browser render the "closed" H2 (&lt;h2 /&gt;) as an empty header, that is 0 (zero) pixel tall.</p>

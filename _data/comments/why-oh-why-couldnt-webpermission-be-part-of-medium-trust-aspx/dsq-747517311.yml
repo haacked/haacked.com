@@ -1,0 +1,5 @@
+id: dsq-747517311
+date: 2006-10-18T11:37:08.0000000-07:00
+name: Rob Conery
+avatar: https://disqus.com/api/users/avatars/Rob Conery.jpg
+message: <p>We ran into this exact issue with the Commerce Starter Kit. You can't make a call to PayPal (even by setting the originUrl) using Meduim Trust because the web service needs to package an SSL cert. In fact you can't really use the whole System.Net namespace because (as I was told by Stefan Shacktow at MS) you're executing a procedure outside the application's space. It's back to the Sandbox again.<br>In my opinion, this is a giant step backward. Coding an application for medium trust is akin to coding for Netscape :). Obviously security is a very high concern for ISPs but Medium trust is ridiculous.<br>Discount ASP, Re-Invent, and Webhost4Life all run modified full trust for those interested...</p>

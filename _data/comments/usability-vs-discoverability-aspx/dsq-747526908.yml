@@ -1,0 +1,5 @@
+id: dsq-747526908
+date: 2008-11-06T05:58:43.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Ayende I sent you a personal email regarding the joke.<br>After all the grief I've received for defending occasional uses of Abstract Base Classes, you're suggestion is to add one! :P <br>Kidding aside, we've already shipped <code>RouteValueDictionary</code> and <code>IRouteConstraint</code> as part of the Framework, so we obviously can't get rid of those or change them. However, I do like the idea of adding <code>AbstractRouteConstraint</code> and perhaps a strongly typed overload for <code>MapRoute</code>. <br>The only problem is that really belongs in the core framework and I can't touch that right now.<br>Let me noodle on this a bit.</p>

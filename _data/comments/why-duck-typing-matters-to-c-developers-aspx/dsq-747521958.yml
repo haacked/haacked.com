@@ -1,0 +1,5 @@
+id: dsq-747521958
+date: 2007-09-08T08:06:02.0000000-07:00
+name: wight
+avatar: https://disqus.com/api/users/avatars/wight.jpg
+message: <p>It seems that static typing is generally better for low-level code, as it is tied to low-level representations.<br>In contrast, duck typing generally seems better for high-level code because it is manipulating abstract objects rather than low-level representations.<br>I think there is already a form of duck-typing in C++ which is often overlooked.  Templates are essentially duck-typed, since they can accept any type which supports the methods needed by the template.  However, they would be better described as "static duck typed" as opposed to "dynamically duck typed".<br></p>

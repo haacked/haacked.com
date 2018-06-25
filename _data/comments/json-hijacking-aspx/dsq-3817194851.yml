@@ -1,0 +1,6 @@
+id: dsq-3817194851
+replyToId: dsq-3816699602
+date: 2018-03-21T08:52:14.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>The request referrer can be spoofed. It is NOT secure to rely on it.</p>

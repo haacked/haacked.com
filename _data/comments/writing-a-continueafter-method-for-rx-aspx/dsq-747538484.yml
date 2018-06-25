@@ -1,0 +1,5 @@
+id: dsq-747538484
+date: 2012-10-09T21:14:22.0000000-07:00
+name: Benjamin
+avatar: https://disqus.com/api/users/avatars/Benjamin.jpg
+message: <p>And what about this one?<br>public static IObservable&lt;TRet&gt; ContinueAfter&lt;T, TRet&gt;(this IObservable&lt;T&gt; observable, Func&lt;IObservable&lt;TRet&gt;&gt; selector)<br>{<br>    return Observable.Create&lt;Unit&gt;(observer =&gt;<br>                        {<br>                            Action onCompleted = () =&gt; <br>                            {<br>                                observer.OnNext(Unit.Default);<br>                                observer.OnCompleted();<br>                            };<br>                            return observable.Subscribe(_ =&gt; { }, err =&gt; observer.OnError(err), onCompleted);<br>                        })<br>                        .SelectMany(_ =&gt; selector());<br>}</p>

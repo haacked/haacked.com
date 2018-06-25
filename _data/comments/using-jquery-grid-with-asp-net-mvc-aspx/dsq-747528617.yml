@@ -1,0 +1,5 @@
+id: dsq-747528617
+date: 2009-04-14T09:56:00.0000000-07:00
+name: born2code
+avatar: https://disqus.com/api/users/avatars/born2code.jpg
+message: <p>cool. I am using the exact same thing, using jqGrid and MVC, in a production app except I use MySQL as the back end. I use a stored procedure to retrieve the data and then a little helper to convert the DataRows to json.<br>There is no real good way to use LINQ with MySQL while using stored procedures, so i had to roll out my own "poor man's ORM".<br>I have a question about the Skip() and Take(). How does that translate to actual SQL? does LINQ end up retrieving all the rows and then extracting the required ones? or does it leverage things like TOP to only retrieve the required subset?<br></p>

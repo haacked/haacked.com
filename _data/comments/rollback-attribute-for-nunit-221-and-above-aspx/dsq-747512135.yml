@@ -1,0 +1,5 @@
+id: dsq-747512135
+date: 2006-06-07T23:41:00.0000000-07:00
+name: Ronny Ortega
+avatar: https://disqus.com/api/users/avatars/Ronny Ortega.jpg
+message: <p>Hi Roy!!<br>I haven't tested it but what would happen if the code I'm testing in my unit test uses manual transactions?<br>Because this solution uses COM+, COM+ doesn't accept both enterprise transactions and manual transactions so I think an error would be raised.<br>What do you think?</p>

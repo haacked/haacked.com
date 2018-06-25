@@ -1,0 +1,5 @@
+id: dsq-747531062
+date: 2009-12-19T13:53:50.0000000-08:00
+name: Brad Wilson
+avatar: https://disqus.com/api/users/avatars/Brad Wilson.jpg
+message: <p>@Colin,<br>Yes, the tooling is GAC'd. That's not really the problem.<br>The problem is that the tooling is matched to a specific build of MVC. And you cannot support side-by-side MVC 2 builds (you can support SxS with 1.0 and 2, but not multiple builds of 2).<br>So, if you install 2008 and 2010, and then install MVC 2 Beta or RC, you may be breaking 2010's MVC tooling, because the DLLs won't be matched against each other any more. It may or may not work, but if it's broken, you're on your own.</p>

@@ -1,0 +1,5 @@
+id: dsq-3110129491
+date: 2017-01-20T11:23:03.0000000-08:00
+name: G. Sylvie Davies
+avatar: https://disqus.com/api/users/avatars/gsylviedavies.jpg
+message: "<p>-c and --cc only show conflict resolutions that touched the same file on both sides of the merge.   Many conflicts are resolved that way, but if the developers happened to use \"theirs\" or \"ours\" as the resolution for a particular file (e.g., \"let origin/master win for this file\"), then -c / --cc won't show those.</p><p>I'm working on a way to detect these.  For now this is what I've come up with:  <a href=\"http://stackoverflow.com/a/41356308/5819286\" rel=\"nofollow noopener\" title=\"http://stackoverflow.com/a/41356308/5819286\">http://stackoverflow.com/a/...</a></p>"

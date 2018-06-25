@@ -1,0 +1,5 @@
+id: dsq-747531965
+date: 2010-04-14T22:52:07.0000000-07:00
+name: Javier Lozano
+avatar: https://disqus.com/api/users/avatars/Javier Lozano.jpg
+message: <p>Haha, great minds think a like. Someone on my blog post commented "you're not sending JSON", which the commenter (as yourself) are completely right.<br>So I wrote a simple sample that does the _same_ thing you just did only without an IValueProvider, just a plain JSONModelBinder. It's here - <a href="http://github.com/jglozano/samples/tree/master/JSONModelBinder" rel="nofollow noopener" title="http://github.com/jglozano/samples/tree/master/JSONModelBinder">github.com/.../JSONModelBinder</a><br>However, your approach is much sexier and straight to the point.<br>-G out :)</p>

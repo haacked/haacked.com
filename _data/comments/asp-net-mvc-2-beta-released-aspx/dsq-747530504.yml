@@ -1,0 +1,5 @@
+id: dsq-747530504
+date: 2009-11-17T01:01:00.0000000-08:00
+name: lynn
+avatar: https://disqus.com/api/users/avatars/lynn.jpg
+message: <p>Phil, was the team able to improve output caching scenarios with RenderAction? I believe right now you need to call an intermediate partial view to get the correct caching.</p>

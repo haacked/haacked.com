@@ -1,0 +1,5 @@
+id: dsq-747525172
+date: 2011-08-29T22:11:07.0000000-07:00
+name: David
+avatar: https://disqus.com/api/users/avatars/David.jpg
+message: <p>Now it's integrated in <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> MVC.<br>Just use :<br>return File(FileStreamOrPath, ContentType, fileDownloadName);</p>

@@ -1,0 +1,5 @@
+id: dsq-747527220
+date: 2008-12-04T12:05:13.0000000-08:00
+name: Venu
+avatar: https://disqus.com/api/users/avatars/Venu.jpg
+message: <p><br>hi haacked,<br>Thanks for the Reply.<br>Now i'm using MVC Beta and i publish the application like<br><a href="http://localhost/MVCTest" rel="nofollow noopener" title="http://localhost/MVCTest">http://localhost/MVCTest</a><br>If i run the application from the solution then i can access all pages like Home ,About and <br>Login Page.<br>But when i access the link [<a href="http://localhost/MVCTest" rel="nofollow noopener" title="http://localhost/MVCTest">http://localhost/MVCTest</a>] from IIS or IE, i can access only Home <br>page.If I'm trying to access About page or Login page it shows "The page cannot be found".<br>What can i do to access the About and Login page from IIS or IE ?<br>Reply Immediately.<br>by,<br>Venu</p>

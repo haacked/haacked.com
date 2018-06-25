@@ -1,0 +1,5 @@
+id: dsq-747512132
+date: 2005-06-10T23:57:00.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hey Roy, I've taken a quick look at XtUnit, but I hoped to use something that worked within the extensibility model provided by NUnit.  However, having worked through some of the existing problems, I may have to take another look at XtUnit.  Thanks!</p>

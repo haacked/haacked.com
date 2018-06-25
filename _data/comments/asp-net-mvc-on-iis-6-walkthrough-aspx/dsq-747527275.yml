@@ -1,0 +1,5 @@
+id: dsq-747527275
+date: 2010-08-02T20:53:29.0000000-07:00
+name: Shilk
+avatar: https://disqus.com/api/users/avatars/Shilk.jpg
+message: <p>Hi,<br>I need help. I have a .NET 3.5 site hosted in IIS5. Its a ASP and ASP.NET site. When in configuration section while setting up IIS website I add wildcard entry for C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\aspnet_isapi.dll, and I go to browse my site it gives 404 error for Default.aspx. So if I type in <a href="http://localhost:8072/" rel="nofollow noopener" title="http://localhost:8072/">http://localhost:8072/</a> it doesnt work, but if I type in <a href="http://localhost:8072/" rel="nofollow noopener" title="http://localhost:8072/">http://localhost:8072/</a>Default.aspx then it works.<br>Any help really appreciated.<br>Thanks,<br>Shil</p>

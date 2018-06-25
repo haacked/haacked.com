@@ -1,0 +1,5 @@
+id: dsq-747525617
+date: 2008-08-15T01:49:54.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yeah, you could copy our Web.config file we place within the Views directory and move it to the specific directories you want to block. You'll also have to specify which roles can have access. Lookup information on the &lt;location&gt; element of web.config.</p>

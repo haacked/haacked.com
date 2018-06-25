@@ -1,0 +1,5 @@
+id: dsq-747527713
+date: 2009-01-14T09:53:31.0000000-08:00
+name: Joe Chung
+avatar: https://disqus.com/api/users/avatars/Joe Chung.jpg
+message: <p>I really like state machines, but it's one algorithm that is in desperate need of a cleaner syntax to capture its semantics.<br>Maybe one of these days, we'll get proper support for continuations in .NET.  There's already tail call optimization support in the CLR, but no CLR language seems to support it yet (except maybe F#?).</p>

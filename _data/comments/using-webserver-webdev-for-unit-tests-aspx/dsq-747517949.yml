@@ -1,0 +1,5 @@
+id: dsq-747517949
+date: 2006-12-12T23:45:37.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Good point. In fact, I've tried to make our web.config handle the differences.  For example, we map static file extensions to the <code>StaticFileHandler</code>.<br>I trust it enough to use it for day to day development. I then use IIS for testing before releasing.</p>

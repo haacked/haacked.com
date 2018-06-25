@@ -1,0 +1,5 @@
+id: dsq-747519726
+date: 2007-04-19T20:23:46.0000000-07:00
+name: Eric Lippert
+avatar: https://disqus.com/api/users/avatars/Eric Lippert.jpg
+message: <p>Good tips all.  <br>Normally C# warns on all variables and fields which are never read, never written, etc.  But in the case you mention -- local variable assigned a value but never read -- we suppress the warning on purpose.<br>This is because there is no good way in the Visual Studio debugger to say "show me the return value of the last function call".  Though I would agree were you to sensibly point out that the way to solve this is to fix the debugger, given that it is not fixed we need a solution in C#.<br>Therefore we allow this assignment without producing a warning, and you can then very easily step through the debugger and see what functions returned what values when.<br></p>

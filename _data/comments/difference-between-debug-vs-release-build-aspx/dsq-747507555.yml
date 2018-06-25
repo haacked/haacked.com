@@ -1,0 +1,5 @@
+id: dsq-747507555
+date: 2006-08-22T06:02:31.0000000-07:00
+name: Shirish Kulkarni
+avatar: https://disqus.com/api/users/avatars/Shirish Kulkarni.jpg
+message: <p>It's observed that some of the MSVC++ calls work find in the debug mode, but fail functionally in the release builds. <br>These are specifically referring to the FreeExtra call used in our application. <br>The debug mode shows a clear reducion in the private memory bytes, while release mode, does not show any changes. <br>Any help / pointers will be appreciatd ...<br> <br>Regards,<br>Shirish</p>

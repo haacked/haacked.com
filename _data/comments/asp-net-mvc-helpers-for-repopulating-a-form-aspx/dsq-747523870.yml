@@ -1,0 +1,5 @@
+id: dsq-747523870
+date: 2007-12-30T20:20:55.0000000-08:00
+name: Andy
+avatar: https://disqus.com/api/users/avatars/Andy.jpg
+message: <p>When might an extended RedirectToAction arrive to allow easier passing of a typed object to an action for this validation scenario?<br><code><br>[ControllerAction]<br>public void New(Article article) <br>{<br>  RenderView("New", article ?? new Article());<br>}<br>[ControllerAction]<br>public void Create([Deserialize] Article article)<br>{<br>  if(article.IsValid)<br>  {<br>    article.SubmitChanges();<br>    RedirectToAction("List");<br>  }<br>  else<br>  {<br>    TempData["Message"] = "Please check your submission."; <br>    RedirectToAction&lt;ArticleController&gt;(c =&gt; c.New(article));<br>  }<br>}<br></code></p>

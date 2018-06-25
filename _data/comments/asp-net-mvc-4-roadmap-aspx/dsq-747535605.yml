@@ -1,0 +1,5 @@
+id: dsq-747535605
+date: 2011-07-13T21:57:40.0000000-07:00
+name: Anthony Mills
+avatar: https://disqus.com/api/users/avatars/Anthony Mills.jpg
+message: <p>I would like to echo some of those things.<br>- Something T4MVC-like to get rid of magic strings in routes<br>- Subcontrollers to more easily encapsulate functionality for big controllers<br>- Pre-compiled views option, especially allowing deployment without .cshtml files (or at least better integration of MvcBuildViews)<br>I think some of the options mentioned by your document are really good ideas:<br>- Razor Helpers support<br>- Task&lt;ActionResult&gt; integration<br>- CSS/JS bundling</p>

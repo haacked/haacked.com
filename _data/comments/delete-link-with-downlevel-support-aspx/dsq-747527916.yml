@@ -1,0 +1,5 @@
+id: dsq-747527916
+date: 2009-01-30T15:12:53.0000000-08:00
+name: Patrik Akselsson
+avatar: https://disqus.com/api/users/avatars/Patrik Akselsson.jpg
+message: <p>Why do you want a link to perform a delete operation in the first place? Doesn't that go against the semantics of html? An alternative solution would be to make GET /go/delete/1 return a page with an "Are you sure"-form that POSTs to /go/delete/1. <br>Much simpler imho, and you won't have to try to add <a href="http://blog.objectmentor.com/articles/2008/12/31/fudge-anyone" rel="nofollow noopener" title="http://blog.objectmentor.com/articles/2008/12/31/fudge-anyone">fudge</a> to accomodate non-javascript browsers</p>

@@ -1,0 +1,5 @@
+id: dsq-747524655
+date: 2008-03-23T13:15:03.0000000-07:00
+name: Krzysztof Koźmic
+avatar: https://disqus.com/api/users/avatars/Krzysztof Koźmic.jpg
+message: "<p>To keep things straight:<br>1. With Rhino.Mocks You create MockRepository once per fixture, so it's not much overhead.<br>2. For this simple scenario you could use<br>var mock = mocks.CreateMock&lt;ISomethingUseful&gt;();<br>Expect.Call(mock.CalculateSomething(123))Return(1);<br>So actually you get only one additional line (mocks.ReplayAll();) and IMHO nicer syntax, that reads more like english, than lambdas. And ReplayAll/VrifyAll has its advantages too. Can MoQ verify that in call to useful.CalculateSomething(x) x was actually equal 123?<br>That said, I'm still resisting to convert ;)<br>And on the side-note: You can read MoQ as 'mock-You', which sounds kind of funny to me.</p>"

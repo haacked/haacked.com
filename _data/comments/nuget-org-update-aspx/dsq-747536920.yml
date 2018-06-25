@@ -1,0 +1,5 @@
+id: dsq-747536920
+date: 2011-12-06T03:08:08.0000000-08:00
+name: kamranayub
+avatar: https://disqus.com/api/users/avatars/kamranayub.jpg
+message: <p>Awesome. Will be exploring how to use Windows Auth so we can maybe use this on our intranet for our Nuget feed. It is sadly lacking in UI right now :(<br>Phil, how do you guys fill in the release branch/commit information you display in the footer? Does that happen in Azure? Pretty interested in how that works and I can't find it in a script or the source code (where it gets set).</p>

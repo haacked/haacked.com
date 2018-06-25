@@ -1,0 +1,5 @@
+id: dsq-747528019
+date: 2009-02-07T08:39:42.0000000-08:00
+name: Steve Sheldon
+avatar: https://disqus.com/api/users/avatars/Steve Sheldon.jpg
+message: <p>Ok...  So what is Microsoft's recommended solution when you wish to allow users to enter some selected HTML tags?<br>The AntiXSS library is helpful for a small subset of problems.  The reason why most XSS occurs though is because we want to allow users to enter some markup.  But what if a user wants to <b>bold</b> a word?  The AntiXSS library just encodes it.</p>

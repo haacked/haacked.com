@@ -1,0 +1,5 @@
+id: dsq-747537194
+date: 2012-04-10T11:10:59.0000000-07:00
+name: Duncan
+avatar: https://disqus.com/api/users/avatars/Duncan.jpg
+message: <p>I was having some trouble getting poshgit to actually run which I think may have been due to missing a dependency.<br>I reinstalled using chocolatey as suggested by Jason Jarrett and now it works fine.<br>Thanks!</p>

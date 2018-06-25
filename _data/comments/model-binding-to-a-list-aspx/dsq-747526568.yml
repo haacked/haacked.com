@@ -1,0 +1,5 @@
+id: dsq-747526568
+date: 2008-11-30T15:46:18.0000000-08:00
+name: KevinUK
+avatar: https://disqus.com/api/users/avatars/KevinUK.jpg
+message: <p>I have fixed my issue. This line needed correcting to:<br>&lt;%=Html.Hidden("product.Category.Index",i) %&gt;</p>

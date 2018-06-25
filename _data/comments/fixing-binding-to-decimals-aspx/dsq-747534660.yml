@@ -1,0 +1,5 @@
+id: dsq-747534660
+date: 2011-07-13T15:29:34.0000000-07:00
+name: Dean
+avatar: https://disqus.com/api/users/avatars/Dean.jpg
+message: <p>Thanks Travis, I will try that.<br>Can you include dates in this. The URL is generated with InvariantCulture, and this is not a good idea for dates, decimals, etc. There are perfectly good ISO standards for wire protocols.</p>

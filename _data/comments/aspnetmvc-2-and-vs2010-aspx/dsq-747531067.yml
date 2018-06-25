@@ -1,0 +1,5 @@
+id: dsq-747531067
+date: 2009-12-19T21:51:45.0000000-08:00
+name: Douglas Starnes
+avatar: https://disqus.com/api/users/avatars/Douglas Starnes.jpg
+message: <p>This clarified something that I thought was probably the case.  I assume that the source for ASP.NET MVC 2 RC does not contain the source for the tooling otherwise it would be released instead of having the user compile it.  Though it might be extra work, creating an empty MVC project and adding in the guts by hand would be a great educational exercise to learn the internals of the framework.</p>

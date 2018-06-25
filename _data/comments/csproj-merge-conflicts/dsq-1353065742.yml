@@ -1,0 +1,6 @@
+id: dsq-1353065742
+replyToId: dsq-1351922651
+date: 2014-04-24T00:18:50.0000000-07:00
+name: Asbjørn Ulsberg
+avatar: https://disqus.com/api/users/avatars/asbjornu.jpg
+message: <p>Yea, that would be even better. I do expect stuff to be checked in to git that Visual Studio doesn't need to know anything about, though, so the .vs file might extend the .gitignore with more exclusion rules. Either way, "include by default" would be so much better than the train-wreck we have now.</p>

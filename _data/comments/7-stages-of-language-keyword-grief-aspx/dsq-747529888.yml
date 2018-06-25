@@ -1,0 +1,5 @@
+id: dsq-747529888
+date: 2009-08-31T13:33:00.0000000-07:00
+name: Bertrand Le Roy
+avatar: https://disqus.com/api/users/avatars/Bertrand Le Roy.jpg
+message: "<p>@Rob: you know Latin, we get it :) I think like it was the case for Lambdas, it's our own initial lack of imagination that makes us miss the point.<br>I don't buy your argument that if you need something like dynamic you should just use a dynamic language: nobody switches languages in the middle of a project, let alone of a class. The places where you will really need dynamic are few and far apart, so you will use the language you know best, or the one your boss told you to use, and you're going to use it for the whole project. If it lets you do X or Y more easily that's bonus points (and dynamic qualifies for that).<br>@Andrey: dynamic languages by construction let you do that. Did the world end because of that? Of course not. Don't worry, everything will be fine. Well, let me rephrase that: everything will be just as fucked up as it used to be, no more, no less.</p>"

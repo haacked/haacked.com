@@ -1,0 +1,5 @@
+id: dsq-747508537
+date: 2004-06-04T23:49:00.0000000-07:00
+name: Thomas Eyde
+avatar: https://disqus.com/api/users/avatars/Thomas Eyde.jpg
+message: <p>Daniel, you are correct about On Error Goto 0. That's exactly why I use it. When I use On Error Resume Next to swallow an error, that's the thing to do. I have had even harder bugs to find, because of a missing On Error Goto 0. Errors can then leak out where they don't belong and make something else to fail.</p>

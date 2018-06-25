@@ -1,0 +1,5 @@
+id: dsq-747508269
+date: 2007-05-15T19:43:24.0000000-07:00
+name: AJB
+avatar: https://disqus.com/api/users/avatars/AJB.jpg
+message: <p>Has anyone been able to resolve this issue using this fix? I have the exact same problem and it appears as though the fix did nothing.<br>Before initializing my httpwebrequest objects, I did:<br>ServicePointManager.Expect100Continue = False;<br>Then, after my variable declaration, I did:<br>myRequest.ServicePoint.Expect100Continue = false;<br>Still, it times out on getresponse(). <br>Ideas?</p>

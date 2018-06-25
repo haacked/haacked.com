@@ -1,0 +1,5 @@
+id: dsq-933712767
+date: 2013-06-17T16:11:07.0000000-07:00
+name: Guest
+avatar: https://disqus.com/api/users/avatars/Guest.jpg
+message: <p>this is your solution and i code it  less than 1 minute :)</p><p>#include &lt;iostream&gt;<br>using namespace std;</p><p>int main()<br>{<br>    for(int i=1;i&lt;=100;i++){<br>   if(i%3==0){<br>       cout&lt;&lt;"Fizz";<br>   }<br>      if(i%5==0){<br>       cout&lt;&lt;"Bizz";<br>   }<br> if(i%3!=0&amp;&amp;i%5!=0){<br>   cout&lt;&lt;i; }="" cout&lt;&lt;endl;}="" return="" 0;="" }=""&gt;</p>

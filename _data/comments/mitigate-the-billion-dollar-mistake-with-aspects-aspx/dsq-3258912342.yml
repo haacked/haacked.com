@@ -1,0 +1,5 @@
+id: dsq-3258912342
+date: 2017-04-16T12:21:27.0000000-07:00
+name: Ulrich
+avatar: https://disqus.com/api/users/avatars/disqus_nrnYugjFXb.jpg
+message: <p>For ReSharper users, there exists the "Implicit Nullability" extension which brings "not null by default" semantics into ReSharper's static nullability analysis. It also brings the static analysis in sync with Fody NullGuard.</p><p>=&gt; <a href="https://github.com/ulrichb/ImplicitNullability#readme" rel="nofollow noopener" title="https://github.com/ulrichb/ImplicitNullability#readme">https://github.com/ulrichb/...</a></p>

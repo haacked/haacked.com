@@ -1,0 +1,5 @@
+id: dsq-747518752
+date: 2007-02-27T00:49:53.0000000-08:00
+name: Ryan Smith
+avatar: https://disqus.com/api/users/avatars/Ryan Smith.jpg
+message: <p>Risk management is a tricky thing with software.  In my years as a developer, I have learned that you ALWAYS need a well defined statement of work before you start a project.  You also have to set the expectation that anything outside the statement of work pushes out the schedule and budget.<br>But even with the solid statement of work, there's still risk involved due to the fact your always writing something you haven't created before.  Even if you have, you never know what types of new obstacles your going to run into.<br>I was putting up a site onto a new server that I had done a million times before.  Didn't expect to hit a single snag.  Turned out that the new OS was x64 and good ole Adobe hasn't updated IFilter to handle x64 operating systems.  What should have taken me under an hour burned an entire day coming up with a work around.<br>All that aside, I completely agree with you.  There is always going to be a balance between getting it done right and just getting it done.</p>

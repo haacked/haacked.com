@@ -1,0 +1,5 @@
+id: dsq-747511177
+date: 2008-08-17T18:44:21.0000000-07:00
+name: Abel
+avatar: https://disqus.com/api/users/avatars/Abel.jpg
+message: <p>Hi Phil,<br>In Visual Studio 2005 and 2008 you can create a Web Site (NOT meaning a Web Application!). A "Web Site" does not have an assemblyinfo.cs or assemplyinfo.vb. Apparently, somehow these assembly-related lines have to be added to web.config (unser system.web?) but I don't know how. I think it would make your explanation more worthwhile if you include these two situations (Web Site in VS2005/2008) and how to configure them in your text...<br>(Many thanks to Microsoft for deciding on having these subtle differences in configuration and compiling between Web Applications and Web Sites of which many people seem to be unaware, resulting in a lot of hair loss ;).<br>-- Abel --</p>

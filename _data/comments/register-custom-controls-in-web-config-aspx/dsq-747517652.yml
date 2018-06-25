@@ -1,0 +1,5 @@
+id: dsq-747517652
+date: 2007-11-25T08:55:54.0000000-08:00
+name: Rod Smith
+avatar: https://disqus.com/api/users/avatars/Rod Smith.jpg
+message: <p>Hi,<br>I've come across a problem with this. Basically, it doesn't work. User controls registered in the web.config are not being picked up by any of the pages. However, there are a few interesting factors. Firstly, I'm working in a development team, and only half of us are having this problem, even when working on the same project. Also, user controls that have been registered on a machine where it works are then fine on my machine, until I make a change to them.<br>I don't know if you've seen anything like this. I've trawled the internet and found a number of people who have had this problem, but no-one's provided a solution. Any ideas would be greatly appreciated.<br>Thanks,<br>Rod.<br></p>

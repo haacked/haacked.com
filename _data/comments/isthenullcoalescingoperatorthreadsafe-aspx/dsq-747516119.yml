@@ -1,0 +1,5 @@
+id: dsq-747516119
+date: 2006-08-08T21:06:03.0000000-07:00
+name: Ian Griffiths
+avatar: https://disqus.com/api/users/avatars/Ian Griffiths.jpg
+message: <p>The C# 2.0 specification says that the left hand side is evaluated, and if that's non-null, that becomes the result.<br>It's worded such that it says the left hand side is evaluated once, and the right hand side is either not evaluated at all, or it's evaluated once.<br>The race condition would only arise if the left hand side were evaluated more than once. Since it's only evaluated once, and the resulting value is only used if it's non-null, you'll only ever get a non-null value from the left hand side.<br>The IL is consistent with what the spec says. (Which is nice....)</p>

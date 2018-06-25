@@ -1,0 +1,5 @@
+id: dsq-747527692
+date: 2009-01-09T06:10:19.0000000-08:00
+name: Stuart
+avatar: https://disqus.com/api/users/avatars/Stuart.jpg
+message: <p>Great tip, I love lambdas too!<br>Just a small typo at the end I think<br>Thread.QueueUserWorkItem(callback =&gt; im.Send(to, from, subject, body));<br>Should be <br>Thread<strong>Pool</strong>.QueueUserWorkItem(callback =&gt; im.Send(to, from, subject, body));</p>

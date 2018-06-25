@@ -1,0 +1,5 @@
+id: dsq-747519762
+date: 2007-04-25T11:06:57.0000000-07:00
+name: Ian Griffiths
+avatar: https://disqus.com/api/users/avatars/Ian Griffiths.jpg
+message: <p>Of course your 'improved' TrySomething example would be more compelling if it actually compiled...<br>As it stands, it fails to compile, because there's a code path in which the function returns without ever assigning a value to 'y'. That's illegal for an 'out' parameter. (It's the case where SomeException gets thrown.)<br>Out parameters aren't really a good fit with methods that can fail but which don't throw exceptions when they do so.</p>

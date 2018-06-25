@@ -1,0 +1,5 @@
+id: dsq-747514797
+date: 2007-03-30T00:07:26.0000000-07:00
+name: colin
+avatar: https://disqus.com/api/users/avatars/colin.jpg
+message: "<p>Hello there,<br>I tried to execute this sp from a DTS package task and keep getting the error \"Invalid object name '#a'\".<br>Any clue as to what I can do t fix or why it doesn't see #a- its part of the sp as a temp table, right?<br>Thanks in advance</p>"

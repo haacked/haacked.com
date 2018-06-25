@@ -1,0 +1,5 @@
+id: dsq-747531399
+date: 2010-01-17T21:35:15.0000000-08:00
+name: Adam
+avatar: https://disqus.com/api/users/avatars/Adam.jpg
+message: <p>Depending on the size of your site and the amount of traffic you handle, you would want to avoid making your system rely on the App_Code automatic recompile. As confirmed in the MSDN article on <a href="http://msdn.microsoft.com/en-us/library/ms366723.aspx" rel="nofollow noopener" title="http://msdn.microsoft.com/en-us/library/ms366723.aspx">dynamic compilation</a>, you would cause a full-site recompile (assuming you haven't tweaked the config settings for it and don't mind those side-effects, ibid). If your site is under any sort of load, that would cause problems for your users while it happens. The approach Phil takes would have a much smaller impact on things.</p>

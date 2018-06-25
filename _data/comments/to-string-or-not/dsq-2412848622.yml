@@ -1,0 +1,5 @@
+id: dsq-2412848622
+date: 2015-12-16T09:56:15.0000000-08:00
+name: Bryan Livingston
+avatar: https://disqus.com/api/users/avatars/bryanlivingston.jpg
+message: <p>Use string when you're using it as a value type. Use String when you're using it as a class.</p>

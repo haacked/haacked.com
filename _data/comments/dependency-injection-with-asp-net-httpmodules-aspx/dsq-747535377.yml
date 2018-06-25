@@ -1,0 +1,5 @@
+id: dsq-747535377
+date: 2011-06-05T20:06:32.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@chris PreApplicationStartMethodAttribute is an assembly level single use attribute. It means it's single use per <em>assembly</em>, not <em>application</em>.<br>In this, the assembly would be the HttpMagic assembly that's using it, which only needed it once. Your app is in the clear to reference this assembly. :)</p>

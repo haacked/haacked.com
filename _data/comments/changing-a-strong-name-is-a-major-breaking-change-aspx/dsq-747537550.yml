@@ -1,0 +1,5 @@
+id: dsq-747537550
+date: 2012-02-21T01:16:02.0000000-08:00
+name: Egor Pavlikhin
+avatar: https://disqus.com/api/users/avatars/Egor Pavlikhin.jpg
+message: <p>Thank you for that!<br>This has been a major nuisance for several of our projects, and we were initially blaming NuGet, having to resort to manual package installation.<br>I think NuGet is putting to much trust into developers to correctly use version numbers to identify breaking changes. It wouldn't be unwise to specifically ask if a version upgrade is desired, rather than automatically upgrading packages with same major version.</p>

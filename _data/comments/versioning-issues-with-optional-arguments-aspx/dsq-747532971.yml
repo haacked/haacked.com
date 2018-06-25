@@ -1,0 +1,5 @@
+id: dsq-747532971
+date: 2010-08-10T20:54:37.0000000-07:00
+name: Craig
+avatar: https://disqus.com/api/users/avatars/Craig.jpg
+message: <p>I think Bertrand's comments are right on. If you're in a framework group at your employer or building a public API for resale the points made in the blog should absolutely be heeded. However, I believe most developers are building full applications (either in-house or for sale) and are compiling the entire application (libraries and all) when they do a build. At least that's what I've been doing for the ten years I've been using .NET. I know I'm not the whole world, but from my experience there are more shops like the ones I've worked in than not. In that case, it really doesn't matter, because you control both the API and the client consuming the API, and optional parameters make for a more readable API than dozens of overloads that try to capture all the different ways a method might need to be called.</p>

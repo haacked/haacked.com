@@ -1,0 +1,5 @@
+id: dsq-747523384
+date: 2007-11-15T17:05:23.0000000-08:00
+name: Frans Bouma
+avatar: https://disqus.com/api/users/avatars/Frans Bouma.jpg
+message: "<p>I said:<br>- prove your algorithms are correct. You as a Math major must know that this is doable<br>- check your implementation of the algoritms by proving you did that correctly. <br>The point of the article is that focusing on testability is actually not really what you should do: you should focus on provability, and therefore setup your architecture around that instead of making compromises to meet testability goals, simply because testability is a bonus when focusing on provability AND take separation of concerns as a given. <br>Also, if writing tests isn't meant to prove that your software is correct, why write them in the first place? To see if it FAILS, but even then: if you then fix it, it doesn't mean it's indeed not failing. <br>If you think a lot of people who write unit-tests have the firm believe that their tests don't prove their software works, you're wrong: a LOT of people think that. They also think that achieving 100% code coverage is actually something worth having.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747520347
+date: 2007-05-20T07:20:59.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@nitro - I understand the sentiment. But in this case, I have pretty much exactly the same setup at work. Vista running IIS7.  So the fact that it doesn't work at home doesn't seem to be a Vista issue (nor an IIS7 issue) per se.<br>It seems like somehow, my installation at home got corrupted. I could just reinstall IIS fully (someone told me I was missing a step in my previous attempt) but I'm working with a couple people on the IIS 7 team to see if we can't figure out *why* this is happening. Just in case it really is a problem in IIS 7 that they haven't seen before. I'm happy to help out.<br>As for switching to Apache, not really feasible right this second. I'm trying to get my machine setup at home so I can work from home or work. So I need to be able to run the same webservers we use at work.<br>However, I believe our product will work on Apache in theory. So it's definitely something I will setup in the future.</p>

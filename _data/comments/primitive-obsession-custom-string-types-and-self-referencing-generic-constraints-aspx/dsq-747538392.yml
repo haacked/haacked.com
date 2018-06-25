@@ -1,0 +1,5 @@
+id: dsq-747538392
+date: 2012-09-29T22:58:34.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Betrand, ah, I see your point. You may be right and the implicit conversion may come back to byte me. To be honest, it's an experiment because I've always heeded the advice to avoid implicit conversions. But I feel it's time to experience the supposed pain firsthand. Maybe there are cases where it doesn't backfire. :)<br>Also, I think I address the dynamic language issue in my previous comment. I don't think dynamic languages remove the need for what I'm doing, but they do remove a lot of the ceremony it takes to do it. That is definitely true. :)</p>

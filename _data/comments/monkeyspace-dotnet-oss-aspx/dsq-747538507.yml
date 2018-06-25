@@ -1,0 +1,5 @@
+id: dsq-747538507
+date: 2012-10-22T01:36:40.0000000-07:00
+name: codekaizen
+avatar: https://disqus.com/api/users/avatars/codekaizen.jpg
+message: <blockquote>It just feels like this fact hasn't been emphasized enough.</blockquote><p><br>@Scott, I think that the perception exists, too, and I think it exists for a good reason. From all the hype around HTML+JS to the re-emphasis on C++ for "native" apps (especially on Channel 9 which seems to even glorify it a bit) to the retirement of Silverlight and XNA (and with it, MS-supported managed DirectX) to the de-emphasis (and seeming retirement) of WPF - it's like the entire MS .Net platform has retreated into the cloud and surrounded itself with angle brackets. While I know the story from the developer side is a lot of C#+XAML love, there certainly doesn't appear to be much love from MS these days for client-side .Net development. I'd say the perception has some legitimate motivation, if, in fact, ultimately it is to be incorrect.</p>

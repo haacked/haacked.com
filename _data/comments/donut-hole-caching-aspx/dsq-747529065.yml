@@ -1,0 +1,5 @@
+id: dsq-747529065
+date: 2010-03-25T16:34:38.0000000-07:00
+name: Wes
+avatar: https://disqus.com/api/users/avatars/Wes.jpg
+message: <p>Name of software’s after food item, sounds good. Chocolate ASP.NET, NCache Cherry and Mango Velocity (so mouth watering)<br>More on a serious node, I think it’s a good idea but as far as my personal experience is concerned, ASP.NET cache is not very good when it comes to apply for large web farms. And the reason which I figured out behind this limitation of ASP.NET is that the cache in ASP.NET is a local cache which is stand alone in nature. So it unable to locate the distributed servers in the web farms which ends up in performance and scalability problems. To overcome these problems a third party distributed caching solution like <a href="http://www.alachisoft.com/ncache/index.html" rel="nofollow noopener" title="http://www.alachisoft.com/ncache/index.html">NCache</a> can be a good option</p>

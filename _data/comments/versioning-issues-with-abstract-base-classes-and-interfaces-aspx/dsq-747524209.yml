@@ -1,0 +1,5 @@
+id: dsq-747524209
+date: 2008-02-20T21:12:33.0000000-08:00
+name: Jacob
+avatar: https://disqus.com/api/users/avatars/Jacob.jpg
+message: <blockquote>One thing I'd love to hear more feedback from others is why, in .NET land, are we so tied to interfaces?</blockquote><p><br>I think a major driver of this is IoC and DI frameworks. Most of the DI frameworks utilize interfaces heavily. They could as easily use base classes, but <i>all</i> the examples and "best practice" assumptions I've seen are built around interfaces. This reinforces the impression that an interface is the way to go if you want a compiler-enforced contract that defers implementation.</p>

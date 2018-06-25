@@ -1,0 +1,5 @@
+id: dsq-747531140
+date: 2009-12-25T11:38:51.0000000-08:00
+name: Ali
+avatar: https://disqus.com/api/users/avatars/Ali.jpg
+message: <p>as @Bobby mentioned Y not just use a costume attribute :<br><code>&lt;div id="related-results"&gt;<br>        &lt;h2&gt;Blah blah blog&lt;/h2&gt;<br>        <a href="#" rel="nofollow noopener" title="#">[hide]</a><br>    &lt;/div&gt;</code> <br>and :<br><code>$(function() {<br>  $('a.close').click(function() {<br>  $('#' + $(this).attr('tergetID')).slideUp();<br>  });<br>});</code></p>

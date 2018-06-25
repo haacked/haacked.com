@@ -1,0 +1,5 @@
+id: dsq-747536368
+date: 2011-10-17T08:28:15.0000000-07:00
+name: Jeff Putz
+avatar: https://disqus.com/api/users/avatars/Jeff Putz.jpg
+message: <p>I have several background tasks running in POP Forums for MVC. The motivation is simply that it requires no expertise or access to install them, which is fairly important for the mass of people who run in shared environments and such. Maybe it's not ideal, but it "generally" works.<br>There is the issue that if no one pings the app, it may shut down. That might be true, but if no one is using the app, it won't need to reindex a thread for searching, send e-mail notifications or update the session table. :)</p>

@@ -1,0 +1,5 @@
+id: dsq-747533160
+date: 2010-10-05T22:43:14.0000000-07:00
+name: Jared Roberts
+avatar: https://disqus.com/api/users/avatars/Jared Roberts.jpg
+message: '<p>Is there something I am doing wrong?<br>PM&gt; List-Package<br>Exception calling "GetPackageManager" with "1" argument(s): "The path is not of a legal form."<br>At D:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\Extensions\CodePlex Foundation\NuPack Tools\0.1\Scripts\nupack<br>.ps1:524 char:80<br>+     $packageManager = [NuPack.VisualStudio.VsPackageManager]::GetPackageManager &lt;&lt;&lt;&lt; ([object]$dte)<br>    + CategoryInfo          : NotSpecified: (:) [], ParentContainsErrorRecordException<br>    + FullyQualifiedErrorId : DotNetMethodException</p>'

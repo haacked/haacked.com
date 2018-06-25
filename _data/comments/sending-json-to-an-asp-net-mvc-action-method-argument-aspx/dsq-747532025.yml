@@ -1,0 +1,5 @@
+id: dsq-747532025
+date: 2011-01-19T21:30:40.0000000-08:00
+name: Robert Koritnik
+avatar: https://disqus.com/api/users/avatars/Robert Koritnik.jpg
+message: "<p>@W3Max: I suggest you try my jQuery plugin that makes it possible to send complex JSON objects (not strings) to <a href=\"http://Asp.net\" rel=\"nofollow noopener\" title=\"Asp.net\">Asp.net</a> MVC without adding functionality on both the client and server side. This is just a rather <a href=\"http://erraticdev.blogspot.com/2010/12/sending-complex-json-objects-to-aspnet.html\" rel=\"nofollow noopener\" title=\"http://erraticdev.blogspot.com/2010/12/sending-complex-json-objects-to-aspnet.html\">simple client-side plugin</a> that converts a JSON object into a dictionary-like structure that jQuery Ajax functionaly can easily consume and <a href=\"http://Asp.net\" rel=\"nofollow noopener\" title=\"Asp.net\">Asp.net</a> MVC understands. Even <strong>nested objects, arrays and dates</strong>. Everything goes. And works.<br>(@everyone-else: In my previous comment I've accidentally linked to Phil Haack's blog post instead to mine. First link in that comment should be the same as this one above here.)</p>"

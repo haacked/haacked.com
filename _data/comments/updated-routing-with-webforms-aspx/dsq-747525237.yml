@@ -1,0 +1,5 @@
+id: dsq-747525237
+date: 2008-05-19T02:50:29.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>No, but you could make whatever data you wanted in the URL to be available to the page via RouteData. So there's no need for a query string.</p>

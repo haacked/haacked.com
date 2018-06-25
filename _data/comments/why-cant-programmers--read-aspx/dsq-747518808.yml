@@ -1,0 +1,5 @@
+id: dsq-747518808
+date: 2007-03-10T06:36:04.0000000-08:00
+name: clef
+avatar: https://disqus.com/api/users/avatars/clef.jpg
+message: <p>My attempt at this:<br>class Fixnum<br>  def divisble_by?(num)<br>    (self % num).zero?<br>  end<br>end<br>def fizzbuzz<br>  (1..100).each do |i|<br>    if i.divisble_by? 3 and i.divisble_by? 5<br>      puts 'FizzBuzz'<br>    elsif i.divisble_by? 3<br>      puts 'Fizz'<br>    elsif i.divisble_by? 5<br>      puts 'Buzz'<br>    else<br>      puts i<br>    end<br>  end<br>end<br>fizzbuzz</p>

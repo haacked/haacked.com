@@ -1,0 +1,5 @@
+id: dsq-747515150
+date: 2006-05-30T05:35:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I ended up not using the Web Deployment Projects because of a weird issue with Global.asax.  There is some discussion in the DNN forums about this issue.</p>

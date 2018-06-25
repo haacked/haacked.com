@@ -1,0 +1,5 @@
+id: dsq-747516556
+date: 2006-08-31T00:38:59.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Wyatt, but that would stop anyone from hitting the site, right?  We actually stop all requests when an upgrade is in progress and present users the message that an upgrade is in progress.</p>

@@ -1,0 +1,5 @@
+id: dsq-747521264
+date: 2007-08-28T13:38:01.0000000-07:00
+name: Bruce Chapman
+avatar: https://disqus.com/api/users/avatars/Bruce Chapman.jpg
+message: <p>I'm getting a strange error using your code and supplying an appPath value.  After calling the SimulateRequest, my system.web.httpContext.Current.Request.AppRelativeCurrentExecutionFilePath shows a value of '~h/page.aspx' where h = the last letter of the path (ie /mypath) and page.aspx is the page name.  <br>This causes my code to later on rewrite a url as mypathpage.aspx (the code works Ok when running in the website).  The value changes to this on the call of HttpContext.Current = new HttpContext(workerRequest).<br>Any ideas?  It works OK with a appPath value of "/".  I was looking for some string manipulation in the code that had a 1 instead of a -1 or something, but all searches == fruitless.<br>/hair torn out<br>-Bruce</p>

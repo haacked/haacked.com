@@ -1,0 +1,5 @@
+id: dsq-1131568197
+date: 2013-11-20T11:11:27.0000000-08:00
+name: Keith Dahlby
+avatar: https://disqus.com/api/users/avatars/dahlbyk.jpg
+message: <p>Another easy point of confusion is the `Select(e =&gt; Unit.Default)` or `Select(e =&gt; EventArgs.Empty)` pattern, which really just serves to ignore the values being observed (we only care that _something_ was observed).</p><p>Perhaps it would be useful to hide this behind an extension method (perhaps `Ignore()`) as well?</p>

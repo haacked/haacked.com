@@ -1,0 +1,5 @@
+id: dsq-747527920
+date: 2009-02-04T21:28:26.0000000-08:00
+name: selaromdotnet
+avatar: https://disqus.com/api/users/avatars/selaromdotnet.jpg
+message: <p>couldn't you make it a post for javascript-enabled browsers (using the technique in your previous entry) then also make a controller action for GET (that intercepts the standard link click non-javascript browsers) that displays a confirmation page with a standard form submit button, POSTing to the same page (this time invoking the POST method) to delete that object?<br>It will require an extra step sure, but only for browsers that don't use javascript. Seems like a clean, safe solution...<br>I don't know enought about mvc to know if this is a viable solution (can you have the same method name, overloaded for POST and GET?) but it seems logical to me!</p>

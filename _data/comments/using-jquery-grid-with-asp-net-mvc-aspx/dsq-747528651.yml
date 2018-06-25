@@ -1,0 +1,5 @@
+id: dsq-747528651
+date: 2009-04-18T11:25:00.0000000-07:00
+name: Tracker1
+avatar: https://disqus.com/api/users/avatars/Tracker1.jpg
+message: "<p>Where were you a month ago.. lol.  BTW the beta jqGrid ties in with the gQueryUI's skinning much better...  May have to do a followup article.  (note: I had to adjust jqGrid a bit, and added some additional love for attaching an external form's data to the jqGrid requests.  Nice article though, took me a bit of effort to figure out the returns needed for jqGrid based on the PHP code.  Also, there's a few othe jquery based grids out there, imho jqGrid offers the best usability.</p>"

@@ -1,0 +1,6 @@
+id: dsq-2166602159
+replyToId: dsq-1656362173
+date: 2015-07-30T22:10:28.0000000-07:00
+name: kamranayub
+avatar: https://disqus.com/api/users/avatars/kamranayub.jpg
+message: "<p>I'm also trying to figure this out. I would really like to get a JSON object with key/value for route name =&gt; url template for my client-side routing.</p><p>edit: Alright, easier to just scan the assembly for [Route] attributes and add to a static list at app_start. Then I just read that to render JSON.</p>"

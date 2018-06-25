@@ -1,0 +1,5 @@
+id: dsq-747529386
+date: 2009-07-19T22:07:00.0000000-07:00
+name: Drake
+avatar: https://disqus.com/api/users/avatars/Drake.jpg
+message: <p>I was reading the book Ajax Security and was wondering if the solution they offered would deter an attacker. They seem to imply that even enclosing in Object (instead of array) could be possibly hacked since you (may be?) able to override Object constructor as well ... and best solution was to add something to cause attackers page to go into an infinite loop (since javascript will be executed). That solution was to add something like for(;;); and strip that out on your site... but i was curiuos, can that also be used by the attacker aka not sure how this would work but ...<br>the attacker used a ajax/json library to get json data, treats it as a string, strips out that 'for(;;)' if its there and passes it to &lt;script&gt; as src param or eval()'s it. Just guessing, kinda new to this security stuff.</p>

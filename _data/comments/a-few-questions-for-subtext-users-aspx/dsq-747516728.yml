@@ -1,0 +1,5 @@
+id: dsq-747516728
+date: 2006-09-18T03:35:11.0000000-07:00
+name: Arian Kulp
+avatar: https://disqus.com/api/users/avatars/Arian Kulp.jpg
+message: "<p>ORM might also be served by switching to .NET 3.0's LINQ (Language InLine Queries).  Remember that 3.0 is really just 2.0 with some additions, so it wouldn't really be an overall porting effort.  DLINQ (the database integration) gives you ORM in code using attributes and typesafe classes.  Then you can embed object-based queries in the code (very slick).  Behind the scenes, the language code is translated into RDBMS-specific queries (code queries != DB queries) with no extra preprocessor step.  This gives a pretty clean separation between the two, and you can even use stored procs behind the scenes if you need to.  Once you try code integrated queries, you won't want to go back!<br>Disclaimer: I wrote the hands-on labs for LINQ/DLINQ/XLINQ for the last PDC.  Also, I haven't used NHibernate, though I know that it solves the same problem.</p>"

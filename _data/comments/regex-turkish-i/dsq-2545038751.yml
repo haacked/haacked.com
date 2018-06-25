@@ -1,0 +1,5 @@
+id: dsq-2545038751
+date: 2016-03-01T01:33:44.0000000-08:00
+name: Rob Head
+avatar: https://disqus.com/api/users/avatars/rob_head.jpg
+message: "<p>What do you expect this to return?</p><p>    char.ToLower('İ', new CultureInfo(\"en-us\"))</p><p>As 'İ' isn't part of the en-us alphabet I was assuming that it would return 'İ' (as the documentation implies) but it actually returns 'i'. That really doesn't seem expected or correct to me but cultures and time zones are basically the most confusing things in programming!</p><p>Edit: I should have mentioned that looking at Regex source the next char is returned using Char.ToLower when using the case insensitive option.</p>"

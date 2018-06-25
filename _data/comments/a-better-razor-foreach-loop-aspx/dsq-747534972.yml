@@ -1,0 +1,5 @@
+id: dsq-747534972
+date: 2011-04-15T03:31:30.0000000-07:00
+name: Jeff Owen
+avatar: https://disqus.com/api/users/avatars/Jeff Owen.jpg
+message: <p>Razor doesn't seem to allow nested inline markupblock.<br>"(@</p><p>Contenxt&lt;/p) cannot be nested.  Only one level of inline markup is allowed." as the error message says.<br>So it's not possible to use it on a list of items that themselves contain collections.</p>

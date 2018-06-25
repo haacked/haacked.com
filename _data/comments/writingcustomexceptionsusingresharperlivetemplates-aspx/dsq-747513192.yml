@@ -1,0 +1,5 @@
+id: dsq-747513192
+date: 2007-11-05T14:21:09.0000000-08:00
+name: Robert
+avatar: https://disqus.com/api/users/avatars/Robert.jpg
+message: '<p>I did download the zip file with the templates but the SimpleExceptionTemplate have an error in it. There are two constructors that take one string as an argument so I guess the last constructor should look like this:<br>protected $TYPE$Exception(SerializationInfo info, StreamingContext context) : base(info, context)<br>{}</p>'

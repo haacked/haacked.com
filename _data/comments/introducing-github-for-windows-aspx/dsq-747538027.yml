@@ -1,0 +1,5 @@
+id: dsq-747538027
+date: 2012-05-22T09:10:46.0000000-07:00
+name: Artiom
+avatar: https://disqus.com/api/users/avatars/ArtiomChi.jpg
+message: <p>I was wondering what Git functionality is supported?<br>I've got a repository on GitHub that uses git submodules, and it seems like most clients out there lack proper support for that, unfortunately.. Will this client have support for that?<br>Also I can see the interface shows the origin. Will it also show other remotes, or should that be better managed in the console?<br>For the sake of an example, my repository is at <a href="https://github.com/ArtiomChi/Dual-Battery-Widget" rel="nofollow noopener" title="https://github.com/ArtiomChi/Dual-Battery-Widget">https://github.com/ArtiomChi/Dual-Battery-Widget</a></p>

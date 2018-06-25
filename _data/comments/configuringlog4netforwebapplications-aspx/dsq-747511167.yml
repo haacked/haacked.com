@@ -1,0 +1,5 @@
+id: dsq-747511167
+date: 2007-08-28T04:14:08.0000000-07:00
+name: Hemanth
+avatar: https://disqus.com/api/users/avatars/Hemanth.jpg
+message: <p>We used Log4net.It was working fine for a long time.But suddenly it stopped writing the log file.can you let me know what may be the cause.<br>Also,we are using it for two applications.The same folder is configured for the log file.While the log is being created for one folder,the same is not created for the other application</p>

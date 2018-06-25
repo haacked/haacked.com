@@ -1,0 +1,5 @@
+id: dsq-747536462
+date: 2011-10-25T17:56:27.0000000-07:00
+name: Chris Chilvers
+avatar: https://disqus.com/api/users/avatars/Chris Chilvers.jpg
+message: <p>One thing I think is worth noting is that package version does not have to equal the assembly versions. This is important because I might release build 1.0.1.546 as a release candidate, that works perfectly so I promote that build to release.<br>If the version number of the assembly had to match the package then to promote to release I'd have to re-build, but if I do that I have a new, untested, assembly that should really have to go back through being a release candidate.<br>The only other option is to look at a tool for re-writing an assemblies version numbers (both win32 and .net) without re-compiling. Though said tool will also have to take in to account debugging symbols and be able to re-write them as well as update the appropriate GUIDs and checksums used for debugging symbols, so this could end up a bit of a mess.</p>

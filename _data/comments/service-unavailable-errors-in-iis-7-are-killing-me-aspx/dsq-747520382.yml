@@ -1,0 +1,5 @@
+id: dsq-747520382
+date: 2008-11-28T22:01:45.0000000-08:00
+name: CMZK
+avatar: https://disqus.com/api/users/avatars/CMZK.jpg
+message: <p>EASY SOLUTION:<br>IIS7 -&gt; APPLICATION POOLS -&gt; ASP.NET 1,1 -&gt; SET APPLICATION POOL DEFAULTS -&gt; ENABLE 32-BIT APPLICATIONS -&gt; TRUE.<br>THIS WILL WORK!!!!</p>

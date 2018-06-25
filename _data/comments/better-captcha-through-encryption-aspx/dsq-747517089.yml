@@ -1,0 +1,5 @@
+id: dsq-747517089
+date: 2006-10-16T09:52:17.0000000-07:00
+name: CB
+avatar: https://disqus.com/api/users/avatars/CB.jpg
+message: <p>Pardon my ignorance, but I am new to .net. I didn't examine the source code closely enough to see it was a property.<br>I don't think I understand how I should be using this. I add the dll as a reference to my web site, then I import Subtext.Web.Controls.InvisibleCaptcha, then I am at a loss. I was able to use the encrypt and decrypt methods, but I am missing a great deal of the functionality of this great tool.</p>

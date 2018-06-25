@@ -1,0 +1,5 @@
+id: dsq-747521781
+date: 2007-07-30T00:42:11.0000000-07:00
+name: Adam Kinney
+avatar: https://disqus.com/api/users/avatars/Adam Kinney.jpg
+message: <p>Funny I just wrote some filtering code as well.  Mine was focused around the img tag not being closed and ensuring there is an alt attribute even its empty.  Good idea using a module though, seems appropiate for the situation.</p>

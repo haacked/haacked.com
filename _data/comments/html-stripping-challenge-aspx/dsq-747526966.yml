@@ -1,0 +1,5 @@
+id: dsq-747526966
+date: 2008-11-11T04:23:50.0000000-08:00
+name: Martin Hyldahl
+avatar: https://disqus.com/api/users/avatars/Martin Hyldahl.jpg
+message: <p>This isn't that scalable either, but for HTML parsing needs you could use the HTML Agility Pack library by Simon Mourier.<br><a href="http://www.codeplex.com/htmlagilitypack" rel="nofollow noopener" title="http://www.codeplex.com/htmlagilitypack">http://www.codeplex.com/htmlagilitypack</a><br>From memory a html stripping method could look something like this:<br>public static class Html<br>{<br>public static StripHtml(string html)<br>{<br>HtmlDocument doc = new HtmlDocument();<br>doc.LoadFromText(html):<br>// Maybe a inner trim function is needed aswell<br>return System.Web.HttpUtility.HtmlDecode(doc.DocumentNode.InnerText.Trim());<br>}<br>}<br>Btw. when stripping html tags, you might also want to decode html encoded characters like ø, æ, å etc...</p>

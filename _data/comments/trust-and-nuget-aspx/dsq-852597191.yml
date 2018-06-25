@@ -1,0 +1,5 @@
+id: dsq-852597191
+date: 2013-04-04T20:14:45.0000000-07:00
+name: Kirk Wood
+avatar: https://disqus.com/api/users/avatars/kirk_wood.jpg
+message: "<p>What I want to know isn't that you compiled the NuGet package. I would rather know that GitHub compiled the package. Here is the thing: to the extent I trust GitHub, I can then trust that I have the same source available.</p><p>Do I trust you, sure. But I would have more trust knowing that your employer said that the package matched what I can get there. This is the real power of open source. I can look over the code and see what it does. If trouble arises I can compile and debug into the code. And I have a certain amount of trust that others have looked through said code.</p><p>Your suggestions might help. But I would like to know that the source matches the dll. And you could make some change before compiling. Sure, it is your code. But is it the code you placed out for me to see?</p>"

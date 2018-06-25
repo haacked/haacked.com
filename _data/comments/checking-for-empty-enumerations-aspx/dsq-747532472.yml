@@ -1,0 +1,5 @@
+id: dsq-747532472
+date: 2010-06-09T13:39:02.0000000-07:00
+name: Damian Powell
+avatar: https://disqus.com/api/users/avatars/Damian Powell.jpg
+message: <p>Shouldn't the simpler version be:<br><code><br>public void Foo&lt;T&gt;(IEnumerable&lt;T&gt; items) {<br>  if( ! items.IsNullOrEmpty()) {<br>    // Do something<br>  }<br>}<br></code></p>

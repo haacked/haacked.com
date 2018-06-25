@@ -1,0 +1,5 @@
+id: dsq-747532664
+date: 2010-07-18T20:56:43.0000000-07:00
+name: g
+avatar: https://disqus.com/api/users/avatars/g.jpg
+message: <p>This works, but unless the files are small, it will only frustrate the user.<br>I still consider <a href="http://swfupload.org/project" rel="nofollow noopener" title="http://swfupload.org/project">SWFUpload the gold standard.</a> Anytime you're uploading files, you need to communicate to the UI that something is happening. The only way to do that is with Flash unfortunately (HTML5 solves this, however).</p>

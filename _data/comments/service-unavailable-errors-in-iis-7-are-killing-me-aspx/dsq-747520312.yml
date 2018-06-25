@@ -1,0 +1,5 @@
+id: dsq-747520312
+date: 2007-05-18T20:08:40.0000000-07:00
+name: Geri Langlois
+avatar: https://disqus.com/api/users/avatars/Geri Langlois.jpg
+message: <p>I had a similar situation but no where near identical -- I only post this because it might give you some ideas of where to look.  <br>I was setting up an asp 1.1 site with an asp 2.0 app below it.  I created a 1.1 app pool for the main site and applied it. After that I started getting the service unavailable error.  <br>In the end, after much hair pulling, I installed 1.1 SP1 on my machine and applied the app pool that it automatically created.  It appears that the 1.1 framework installed with vista (ultimate) was out of sync with or unable to support IIS 7.  The point is this is that it was a bad (incorrect) app pool that was the source of this issue and I wonder if that is what you should look at next.  Hope this was helpful.<br></p>

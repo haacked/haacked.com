@@ -1,0 +1,5 @@
+id: dsq-747537707
+date: 2012-05-25T00:58:00.0000000-07:00
+name: Rei
+avatar: https://disqus.com/api/users/avatars/Rei.jpg
+message: "<p>Hi Phil! I'm not using ninject. I'm using nuget package structuremap.mvc4. <br>When debugging I am getting errors : <br>\"Activation error occured while trying to get instance of type <br>IActionValueBinder, key \"\".\" <br>After I hit several times ok, it finds the apicontroller and resolves and returns the data back no problem... Am I forgetting something?</p>"

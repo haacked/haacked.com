@@ -1,0 +1,5 @@
+id: dsq-747513945
+date: 2006-01-25T23:30:00.0000000-08:00
+name: Steve Harman
+avatar: https://disqus.com/api/users/avatars/Steve Harman.jpg
+message: "<p>I feel your pain! I am really looking forward to the _upgrades_ that Visual Studio 2005 has to offer in the debugging dept.<br><br><br><br>Being a JAVA guy by day (read: for my real J-O-B) I am *lucky* to have the Rational Software Development Platform [RAD] (a.k.a.- Eclipse + IBM) at my disposal and it has some SWEET debugging capabilities. My favorite is that while stepping through your code, you can step back to any point in the call stack, essentially going backwards in time. RAD calls this feature \"drop to frame,\" which makes sense as you are really dropping back to a previous frame of reference.<br><br><br><br>Anyhow, as I said... I hear what you're saying, and here's to hoping that VS 2005 makes debugging a whole lot easier than it is today.<br><br><br><br>“Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug It.” – Brian W. Kernighan</p>"

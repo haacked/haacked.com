@@ -1,0 +1,5 @@
+id: dsq-747532215
+date: 2010-05-17T02:21:05.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Chris there's nothing special about a web app as far as ASP.NET is concerned at runtime. It gets compiled as just another assembly. So I can't imagine there'd be any weird side effects.<br>@Bret One obvious one would be to register a custom build provider. For example, Subsonic used to ship with a build provider. With this approach, manual configuration in web.config would've been unnecessary.<br>You'll see more examples coming from our team in the future.</p>

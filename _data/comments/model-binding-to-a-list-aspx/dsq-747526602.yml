@@ -1,0 +1,5 @@
+id: dsq-747526602
+date: 2010-08-20T20:37:50.0000000-07:00
+name: James
+avatar: https://disqus.com/api/users/avatars/James.jpg
+message: "<p>Thanks for the tips Phil. I realise this is a very old post, but it still comes up in Google, so I thought I'd throw in some help for anyone who is maybe doing what I'm doing.<br>Here is a function that will serialize a javascript object or array to a form data representation so that it can be bound by MVC model binders as you describe:<br><code><br>function encodeData( data, prefix )<br>{<br>var ret = \"\";<br>var pre = prefix ? prefix : \"\";<br>if( data.constructor === Array )<br>{<br>for( index in data )<br>{<br>ret += encodeData(data[index], pre+'['+index+']');<br>}<br>}<br>else if( data.constructor === Object )<br>{<br>if( pre != \"\" ) pre += '.';<br><br>for( key in data )<br>{<br>ret += encodeData(data[key], pre+key);<br>}<br>}<br>else return encodeURIComponent(pre)+'='+encodeURIComponent(data)+'&amp;';<br><br>return ret;<br>}<br></code></p>"

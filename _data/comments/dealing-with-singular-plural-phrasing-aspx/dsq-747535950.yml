@@ -1,0 +1,5 @@
+id: dsq-747535950
+date: 2011-09-11T03:30:35.0000000-07:00
+name: Anonymous
+avatar: https://disqus.com/api/users/avatars/Anonymous.jpg
+message: <p>If you used proper Internet English, problem would be none:<br></p><p>All your theme:</p><p><br>&lt;ul&gt;<br>@foreach(var theme in Model) {<br>  &lt;li&gt;@theme.Id&lt;/li&gt;<br>}<br>&lt;/ul&gt;</p>

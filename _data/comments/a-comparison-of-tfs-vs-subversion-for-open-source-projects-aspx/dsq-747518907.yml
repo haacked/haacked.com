@@ -1,0 +1,5 @@
+id: dsq-747518907
+date: 2007-03-04T22:03:29.0000000-08:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>"there is no concept of truly anonymous access in TFS, everyone is a named user in Active Directory"<br>Jeez, talk about not being able to see the forest for the trees. That's a big AD forest.<br>"CodePlex was not intended to be a showcase for TFS. It's intended to be the home for Open Source projects. That's coming straight from the CodePlex team."<br>I have your bridge Mr. Haack. Did you order the Brooklyn or Golden Gate? ;)  <br>If CodePlex is meant to be the home for OSS, why use TFS at all? The project team setup and dynamics on OSS projects is completely different than the enterprise team dynamics that TFS is meant to work with. My opinion is that every public facing web site that Microsoft puts up is a showcase for their technology. Codeplex is no different. It's a little like saying you can have your Model-T car in any color you want, provided you want it in black.</p>

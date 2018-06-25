@@ -1,0 +1,6 @@
+id: dsq-1264530137
+replyToId: dsq-1264310203
+date: 2014-02-28T08:16:19.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>&gt; When do you merge back this separate branch?</p><p>I merge it as soon as it's been reviewed. Usually a teammate who signs off on it will merge it. We usually try to prioritize these because they can change a lot.</p><p>&gt; And how do you cope when at that moment a new merge occurs?</p><p>I assume you mean if someone ends up merging another branch into the mainline while this branch is under review? Depends on that other branch. It's often fine, git is great at merging. If it produces conflicts, I'll do another merge into this branch. At this point, this merge branch is like any other branch and the workflow doesn't really change.</p>

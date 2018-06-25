@@ -1,0 +1,6 @@
+id: dsq-2282864996
+replyToId: dsq-2282855897
+date: 2015-09-30T15:30:40.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>How does await create a lock? If SendAsync is truly async, what should happen is that the current thread is returned to the threadpool while SendAsync runs on an async thread (or IO Completion port depending on what it does). When it returns, a thread from the threadpool is revived and completes the method.</p>

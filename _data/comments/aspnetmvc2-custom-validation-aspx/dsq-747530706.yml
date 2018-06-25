@@ -1,0 +1,5 @@
+id: dsq-747530706
+date: 2009-12-21T12:23:07.0000000-08:00
+name: Quentin Sarafinchan
+avatar: https://disqus.com/api/users/avatars/Quentin Sarafinchan.jpg
+message: <p>If I understand this correctly, I could create say 4 custom attributes that I apply to each field.  Then as each attribute is called it could check a database of meta data and the validation could then be done in a dynami fashion.<br>for example I could create a CheckRequired attribute and that could check a meta data table to see if its required, and if it is and the field is empty then raise an exception.  <br>I don't think my approach would work well with client side validation though.</p>

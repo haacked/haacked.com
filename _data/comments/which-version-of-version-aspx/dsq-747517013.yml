@@ -1,0 +1,5 @@
+id: dsq-747517013
+date: 2006-10-03T13:35:46.0000000-07:00
+name: Trumpi
+avatar: https://disqus.com/api/users/avatars/Trumpi.jpg
+message: <p>If you use a source control tool like Subversion, it is a good idea to keep the revision number somewhere in the version. That way you are able to track and reproduce issues that occur outside of the development team because the version of your executables are unambiguously linked to a version of your source code.</p>

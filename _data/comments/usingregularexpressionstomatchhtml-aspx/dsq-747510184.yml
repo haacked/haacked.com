@@ -1,0 +1,5 @@
+id: dsq-747510184
+date: 2006-09-10T00:07:44.0000000-07:00
+name: John
+avatar: https://disqus.com/api/users/avatars/John.jpg
+message: <p>You are a RegEx genius!  <br>Is it possible to enhance the expression to get a reference to the inner html if present, something like (?&lt;innerHtml&gt;)<br>For example, for the value:<br>&lt;title&gt;My Title&lt;/title&gt;<br>I could retrieve the value "MyTitle"<br>Thanks!</p>

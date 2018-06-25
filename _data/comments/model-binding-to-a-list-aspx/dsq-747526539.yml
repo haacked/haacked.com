@@ -1,0 +1,5 @@
+id: dsq-747526539
+date: 2008-10-23T16:14:05.0000000-07:00
+name: Matt J
+avatar: https://disqus.com/api/users/avatars/Matt J.jpg
+message: <p>Hi Phil,<br>Great article, glad that someone finally documented this from M$ - but now that I'm using the DefaultModelBinder it's forced me to come away from using a few custom model binders I had that basically handled "Linq to SQL" objects, and I like the clean approach. Only problem is (this might be a tiny bit off-topic) that I don't think the DefaultModelBinder will handle Nullable properties on a Type that it's binding to - in my instance, it's a nullable foreign key reference (Guid) that always comes back as populated (default(Guid)) - leaving me with ForeignKeyReferenceAlreadyHasValueException's</p>

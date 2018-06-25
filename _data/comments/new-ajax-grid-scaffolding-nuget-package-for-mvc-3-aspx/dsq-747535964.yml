@@ -1,0 +1,5 @@
+id: dsq-747535964
+date: 2011-08-17T18:37:51.0000000-07:00
+name: Sam
+avatar: https://disqus.com/api/users/avatars/Sam.jpg
+message: <p>I like what you've done here. It mimics a fair amount of my own personal real-world data-grid-like MVC creations. However, I don't really think that this needs to be part of the MVC core. Doing that makes me think web forms (drag-n-drop) data grids, etc. (yuck!). I guess it's a fine and dandy thing to add to a scaffolding nuget package and include with a project template, I'm just weary about this giving way to "demo-able" features that are not very "real-world usable".</p>

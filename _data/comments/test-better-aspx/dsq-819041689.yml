@@ -1,0 +1,5 @@
+id: dsq-819041689
+date: 2013-03-04T10:07:53.0000000-08:00
+name: TristanIrwin
+avatar: https://disqus.com/api/users/avatars/TristanIrwin.jpg
+message: <p>I find myself having difficulty sometimes testing UI code, because I tend to do things "right" (as in, not in a way that would make it break). Because I wrote it, and know exactly what you are supposed to do to achieve a specific result, I often miss the "what if the end user is stupid?" bugs. In the business end of the code, I can imagine myriad possibilities where some dumb programmer misused my code and I need to defend myself from doing something wrong, but I can't always dream of the ways that end users have managed to mess things up.</p>

@@ -1,0 +1,5 @@
+id: dsq-747538493
+date: 2012-10-21T04:32:31.0000000-07:00
+name: dodgy_coder
+avatar: https://disqus.com/api/users/avatars/dodgy_coder.jpg
+message: <p>Agree totally with your post.<br>Having been a long time visual studio/windows only .net developer, a couple of months ago I tried mono development for the first time, initially on Ubuntu, then on a Raspberry Pi. I was astounded at how good both the mono compiler and general ecosystem is - it basically turned my view 180 degrees about the future of .NET.<br>Some of the pessimism was rooted initially 1 year ago around the time of the MS build conf, which seemed to be placing C++/native windows development above .NET.</p>

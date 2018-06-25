@@ -1,0 +1,5 @@
+id: dsq-747522038
+date: 2007-08-21T23:40:20.0000000-07:00
+name: Aaron Jensen
+avatar: https://disqus.com/api/users/avatars/Aaron Jensen.jpg
+message: "<p>I found this attempt at doing the same thing a month or so ago: <a href=\"http://www.iamcal.com/publish/articles/php/parsing_email/\" rel=\"nofollow noopener\" title=\"http://www.iamcal.com/publish/articles/php/parsing_email/\">http://www.iamcal.com/publi...</a> .  It is written in PHP, but the regular expression is easily converted to .NET.  I haven't tested it, but it looks pretty thorough.  <br>I repeat the comment I made on my web site: how come frameworks don't come with a common set of regular expressions?  How many times have developers had to write regular expressions to validate domains, e-mail addresses, phone numbers, zip codes, etc?</p>"

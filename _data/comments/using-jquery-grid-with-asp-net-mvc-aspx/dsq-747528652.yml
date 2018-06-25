@@ -1,0 +1,5 @@
+id: dsq-747528652
+date: 2009-04-18T18:29:00.0000000-07:00
+name: Tomas
+avatar: https://disqus.com/api/users/avatars/Tomas.jpg
+message: <p>First of all I must say it's a great blog that most certainly is great help to a lot of people out there.<br>The question I have is how can you make this unobtrusive? I know that almost everyone has javascript enabled today, but is there an easy way to help those that hasn’t? I guess that the solution is to make the check on the server and provide a different view if javascript is not enabled, or can it be made easier?<br></p>

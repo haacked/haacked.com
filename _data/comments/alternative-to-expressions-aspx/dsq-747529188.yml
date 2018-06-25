@@ -1,0 +1,5 @@
+id: dsq-747529188
+date: 2009-06-01T23:18:00.0000000-07:00
+name: Scott Allen
+avatar: https://disqus.com/api/users/avatars/Scott Allen.jpg
+message: <p>I think I'd prefer the controller name as a distinct property [.Home.About(123)]. Feels more discoverable and can be easier to auto-complete.</p>

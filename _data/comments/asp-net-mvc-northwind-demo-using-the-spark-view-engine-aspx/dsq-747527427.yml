@@ -1,0 +1,5 @@
+id: dsq-747527427
+date: 2008-12-08T05:29:00.0000000-08:00
+name: Ben Scheirman
+avatar: https://disqus.com/api/users/avatars/Ben Scheirman.jpg
+message: <p>Phil,<br>Both NVelocity and Brails support multiple content areas, and I bet NHaml does too.  It's just usually hard to find the right information on these view engines.<br>As for the sample you posted, I don't know... it looks clean I guess, but no cleaner than what you'd get with NVelocity.<br>&lt;ul&gt;<br>#foreach $p in $viewdata.model<br>  &lt;li&gt;$<a href="http://p.name" rel="nofollow noopener" title="p.name">p.name</a>&lt;/li&gt;<br>#end<br>&lt;/ul&gt;<br>Maybe it's just personal preference, but NVelocity seems a lot easier to read and write.  Also, you still don't get refactoring support or intellisense, so what's so great about it?<br></p>

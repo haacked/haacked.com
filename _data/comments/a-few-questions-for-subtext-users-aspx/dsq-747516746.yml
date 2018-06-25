@@ -1,0 +1,5 @@
+id: dsq-747516746
+date: 2006-09-22T23:48:08.0000000-07:00
+name: Wiennat
+avatar: https://disqus.com/api/users/avatars/Wiennat.jpg
+message: <p>1 No<br>2 No<br>3 Absolutely yes - I have a my own blogging software but I want to use Subtext instead. Unfortunately, my host's MSSQL cost is very expensive. But I can use MySQL for free. I think there're many people are in my situation.<br>Actually, I tried to create a MySQL provider for .Text. But I gave up when I saw a lot of stored procs. It's very complex to convert it all to raw SQL statement.<br>If there is anyone want to create a MySQl/Firebird/SQLite or MS Access provider for SubText, I can help.<br>PS. Sorry for poor English.</p>

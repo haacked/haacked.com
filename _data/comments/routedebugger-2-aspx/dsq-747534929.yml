@@ -1,0 +1,5 @@
+id: dsq-747534929
+date: 2011-07-19T07:07:00.0000000-07:00
+name: Tyson Benson
+avatar: https://disqus.com/api/users/avatars/Tyson Benson.jpg
+message: "<p>@Niel Knight: I found the same problem, my Javascript and CSS would have the route debugger html appended to the end of the response. I eventually found out it was the browser's cache persisting the route debugger as part of the response even after I disabled the route debugger, so I cleared my cache and everything was fine.</p>"

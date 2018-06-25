@@ -1,0 +1,5 @@
+id: dsq-747529759
+date: 2009-08-19T06:45:00.0000000-07:00
+name: Johnvpetersen
+avatar: https://disqus.com/api/users/avatars/Johnvpetersen.jpg
+message: "<p>Re: @haacked's comment about <br>having to invoke complete, completing a tx<br>should be an explicit, not an implicit act. The<br>using is just about what is on scope. <br>DB actions are a different thing altogether.<br>I like your approach.</p>"

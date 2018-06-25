@@ -1,0 +1,5 @@
+id: dsq-1187386543
+date: 2014-01-04T19:55:01.0000000-08:00
+name: Glenn Block
+avatar: https://disqus.com/api/users/avatars/gblock.jpg
+message: <p>I thought a lot about this and came to the conclusion that there are two key criteria  that define duck typing.</p><p>1. There is a structural contract defined for a function which is either explicit or implict.</p><p>2. The parameters being passed do nothing to comply with the contract other than having members present / or at least they can handle those members (i.e. method_missing)</p><p>These criteria stand up for both traditional duck typing and the newer stuctural typing which takes things even further.</p><p>I blogged a much longer version here :-) <a href="http://codebetter.com/glennblock/2014/01/05/on-duck-typing/" rel="nofollow noopener" title="http://codebetter.com/glennblock/2014/01/05/on-duck-typing/">http://codebetter.com/glenn...</a></p>

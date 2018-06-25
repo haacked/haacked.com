@@ -1,0 +1,5 @@
+id: dsq-1189530581
+date: 2014-01-06T12:37:22.0000000-08:00
+name: marcusswope
+avatar: https://disqus.com/api/users/avatars/marcusswope.jpg
+message: <p>"...another important aspect of a method is its return type. As far as I know, that's not something you can test in advance with Ruby or Python."</p><p>Since in these languages a single method can return different types based different parameters or application states, there would never be a way to determine this without running the method and checking the type (or its "quackery") :)</p>

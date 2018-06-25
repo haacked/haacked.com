@@ -1,0 +1,5 @@
+id: dsq-3789522847
+date: 2018-03-06T02:03:26.0000000-08:00
+name: twyg
+avatar: https://disqus.com/api/users/avatars/disqus_NuxPKTXSsU.jpg
+message: <p>My custom model binder is executed, but the default model binder always applies afterwards. Is there anything I am missing? Do I have to explicitly exclude the default binder somehow?</p>

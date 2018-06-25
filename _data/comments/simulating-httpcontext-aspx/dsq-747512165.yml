@@ -1,0 +1,5 @@
+id: dsq-747512165
+date: 2006-05-03T01:02:00.0000000-07:00
+name: Kara
+avatar: https://disqus.com/api/users/avatars/Kara.jpg
+message: <p>I don't see the SimpleWorkRequest which itself inherits from HttpWorkerRequest... The HttpWorkerRequest class does not take in parameters when creating the object...<br> No overload for method 'HttpWorkerRequest' takes '5' arguments<br></p>

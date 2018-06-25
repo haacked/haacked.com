@@ -1,0 +1,5 @@
+id: dsq-747519094
+date: 2008-09-23T01:52:25.0000000-07:00
+name: Abouzar Dastmalchi
+avatar: https://disqus.com/api/users/avatars/Abouzar Dastmalchi.jpg
+message: "<p>SOME ONE PLEAAAAAASE HELP ME with this simple project. <br>I've put this simple program into a Console Application. My App.config and BlogSettings.cs are copy paste of what Phil wrote but I get this frustrating exception all the time:<br>TypeInitializationException was unhandled: The type initializer for 'BlogSettings' threw an exception.<br>this happens when I run this line: <br>&gt;&gt;string title = BlogSettings.Settings.Title;<br>Any ideas?? Did anyone try this sample in a non-web-application environment?? <br>I need to do this for a Windows service and been stuck at this error no matter what I do. <br>Many thanks in advance. <br></p>"

@@ -1,0 +1,5 @@
+id: dsq-747538480
+date: 2012-10-09T18:26:24.0000000-07:00
+name: Jerome Laban
+avatar: https://disqus.com/api/users/avatars/Jerome Laban.jpg
+message: <p>@haacked Actually, the solution I suggested that calls ToArray() is more about *not* storing an intermediate external state between the two observable subscriptions. This means that the output of the first is really provided to the second, and you're more inclined to have a stable computation result, no matter how many subscriptions to the observable chain are active at the same time.<br>This looks to me as a similar debate to the reason why there is no IEnumerable.ForEach() in the BCL. It implicitly means that you introduce a side effect (an external state in this case), which I've found not to be a good idea in a query subscription/execution.</p>

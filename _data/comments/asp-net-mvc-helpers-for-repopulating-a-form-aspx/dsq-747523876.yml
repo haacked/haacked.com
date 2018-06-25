@@ -1,0 +1,5 @@
+id: dsq-747523876
+date: 2008-01-07T03:32:21.0000000-08:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>So how about the edit page. On first load it should get the field values from the ViewData, after submitting, if there was a validation error, it should not reload the field values from ViewData. I'd appreciate if that was also 'streamlined'.<br>kthx!</p>

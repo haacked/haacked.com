@@ -1,0 +1,5 @@
+id: dsq-747520827
+date: 2007-06-04T01:47:54.0000000-07:00
+name: Wesley Shephard
+avatar: https://disqus.com/api/users/avatars/Wesley Shephard.jpg
+message: <p>We use a lot of business driven DSLs. However, we never even *considered* making changes by the business unit "live" wihout the traditional QA process being applied.<br>There is something to be said about the versioning though. Each data driven DSL process has had to "reinvent" tagging and releasing versions. Usually via a "copy existing version" and then modifying and "releasing" the modified version... which doesn't support concurrent changes except insomuch as multiple unreleased copies can exist and we can difference data.<br></p>

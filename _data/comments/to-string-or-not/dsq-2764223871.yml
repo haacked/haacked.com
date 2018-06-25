@@ -1,0 +1,6 @@
+id: dsq-2764223871
+replyToId: dsq-2756249731
+date: 2016-07-03T21:59:51.0000000-07:00
+name: Chris Rogers
+avatar: https://disqus.com/api/users/avatars/disqus_4G7u8GIwT5.jpg
+message: <p>A developer's mind is more able to glide over an "int" inside a loop than when the width of the integer has been explicitly specified by the original coder.  Specifying Int32/64/128 causes a brief mental jarring to the developer reading the code, as they are required to ponder whether there is significance in the specified bit length.</p><p>A for-loop from 0-10 that uses "Int32" instead of "int" is not only more verbose, but is trying to communicate more than is required, which is just plain annoying.  When the size of the integer *really* doesn't matter (which is most of the time) - "Int32" provides no additional benefit - only additional noise.</p><p>By all means, if/when the exact meaning of int.Max is ever likely to be relevant - then specifying the width is not only important, but actually highlights and communicates something of value.  It draws the developers attention to something important.</p><p>But in 20-30 years, if you ever find yourself thinking 128 bit integers will be required in your for-loop, I think you'll have bigger problems to deal with than getting back to me. :-)</p>

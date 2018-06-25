@@ -1,0 +1,5 @@
+id: dsq-747524106
+date: 2008-02-06T03:37:24.0000000-08:00
+name: Pawel Pabich
+avatar: https://disqus.com/api/users/avatars/Pawel Pabich.jpg
+message: <p>A few examples from the back-end.<br>1. OperationContex in WCF is sealed and does not expose its functionality via interface(s).<br>2. WorkflowInstance in WF. The same as above.</p>

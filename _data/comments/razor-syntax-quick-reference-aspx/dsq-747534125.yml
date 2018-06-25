@@ -1,0 +1,5 @@
+id: dsq-747534125
+date: 2012-09-24T13:13:45.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Divvya It really depends on whether the HTML you're writing is static or includes server generated content. The HTML helpers in the later case can do some of the following:<br>* Make sure attribute values are properly HTML encoded for security.<br>* Render values based off of your model.<br>* Override rendered values with values submitted by the user.<br>etc. You're certainly free to use standard HTML, but you may find it's not so <em>clean</em> as you thought it would be as you start writing real applications.<br>Now, there's a few cases where I think the HTML helpers are uglier. For example, <code>Html.ActionLink</code> is a case where maybe you're better off writing a normal anchor tag and use <code>Url.Action</code> within the <code>href</code> attribute of that anchor tag.</p>

@@ -1,0 +1,5 @@
+id: dsq-747513846
+date: 2006-01-16T02:20:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Well it sure ain't GotDotNet.  I think SourceForge does a fine job for a FREE hosted CVS platform. You don't have to host your website files there (but if you wanted to, I showed you how).<br><br><br><br>However, if you can spend money on your own source control hosting, you might consider using trac (<a href="http://www.edgewall.com/trac/" rel="nofollow noopener" title="http://www.edgewall.com/trac/">http://www.edgewall.com/trac/</a>) and subversion.</p>

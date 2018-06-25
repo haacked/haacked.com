@@ -1,0 +1,5 @@
+id: dsq-747527133
+date: 2008-12-17T05:31:30.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@knopf and @developingchris I don't understand your antagonism here. What would you expect<br>&lt;%= Html.TextArea("name", "\r\nFoo") %&gt;<br>to render as opposed to what we actually render?</p>

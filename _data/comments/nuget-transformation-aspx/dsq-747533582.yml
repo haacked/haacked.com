@@ -1,0 +1,5 @@
+id: dsq-747533582
+date: 2011-02-28T15:05:03.0000000-08:00
+name: Tony
+avatar: https://disqus.com/api/users/avatars/Tony.jpg
+message: <p>Is there a way to combine the effects of pp and transform extensions? I am trying to apply a code transformation into a web.config (basically $assemblyname$ and $rootnamespace$) and then merge the resulting config file transform. I was hoping for naming my config file web.config.transform.pp would do the trick but no such luck.</p>

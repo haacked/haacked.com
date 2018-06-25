@@ -1,0 +1,5 @@
+id: dsq-747519834
+date: 2007-05-21T03:02:42.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>That avoids the issue of duplicate resources where the resource file name is the same, but the paths are different and the wrong one gets selected.<br>Then again, maybe that's such a small risk as to not be concerned.</p>

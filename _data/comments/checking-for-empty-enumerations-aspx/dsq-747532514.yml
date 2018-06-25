@@ -1,0 +1,5 @@
+id: dsq-747532514
+date: 2010-06-13T06:06:01.0000000-07:00
+name: Tom Anderson
+avatar: https://disqus.com/api/users/avatars/Tom Anderson.jpg
+message: <p>Something here looks a bit smell.<br>If you are dealing with IEnumerable and it is not null, then the Enumerator will take care of the logic (MoveNext returning false) if the underlying data is empty.<br>I don't think you should be levying your code at this level. If you are expecting results to not be empty, it sounds like something of an API issue where you require values back in a collection, which to me, should always be handled as "the IEnumerable could be empty".</p>

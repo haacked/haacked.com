@@ -1,0 +1,5 @@
+id: dsq-1190372678
+date: 2014-01-07T04:11:05.0000000-08:00
+name: martijnhoekstra
+avatar: https://disqus.com/api/users/avatars/martijnhoekstra.jpg
+message: <p>Structural types in Scala do just this; the entire signature must match. If structural typing counts as duck typing I'll leave up to religious war^H^H^H^H polite debate from others.</p>

@@ -1,0 +1,5 @@
+id: dsq-747531392
+date: 2010-01-17T17:52:19.0000000-08:00
+name: paul
+avatar: https://disqus.com/api/users/avatars/paul.jpg
+message: <p>Nice article, Phil.<br>My team ran into this use case a while back (iirc it was shortly before the 1.0 RTM) and we considered a number of approaches, including something similar to this one (though, like Alec commented above, we were looking at the App_Code directory to solve the file watching for us)<br>We didn't use XML because we felt it wasn't flexible enough to cover all the routing scenarios<br>We didn't use the code-generating approach (e.g. thsi one or the App_Code solution) because we felt like it would be too easy to break the app, and too hard to fix it once deployed if the app was so broken. <br>What we ended up going with was to create a route serializer class, which would actually serialize teh route values along with some metadata, and the logic that updated it would also save teh changes to the db and ensure that the two representations were kept in sync. <br>Paul</p>

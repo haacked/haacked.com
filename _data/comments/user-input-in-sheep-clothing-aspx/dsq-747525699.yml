@@ -1,0 +1,5 @@
+id: dsq-747525699
+date: 2008-07-08T23:58:45.0000000-07:00
+name: HB
+avatar: https://disqus.com/api/users/avatars/HB.jpg
+message: <p>Does that mean all data found in Server Variables can be modified by the user? Like for example REMOTE_HOST (or whichever one has the IP Address in it).<br>If they aren't all dangerous, is there a list somewhere that has those that can be trusted?</p>

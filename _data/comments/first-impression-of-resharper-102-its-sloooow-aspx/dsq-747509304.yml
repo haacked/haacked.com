@@ -1,0 +1,5 @@
+id: dsq-747509304
+date: 2004-08-10T17:34:00.0000000-07:00
+name: Daniel Turini
+avatar: https://disqus.com/api/users/avatars/Daniel Turini.jpg
+message: <p>I'm also using Resharper. The "." default delay time is 1000 ms, which I agree that is high and can be changed for something much lower. On my machine, I use 100ms, which is quick enough for me and AFAIK is the same that VS.NET uses.<br><br>But you're right, sometimes Resharper tries to reparse your sources, and it starts to eat too much CPU - I have a HT 3.4Ghz P4, 1GB RAM FSB 800, a SATA RAID 0 on 7200 RPM Seagate disks, so you can't blame my slow machine :)<br><br></p>

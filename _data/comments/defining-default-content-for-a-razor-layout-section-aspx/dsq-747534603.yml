@@ -1,0 +1,5 @@
+id: dsq-747534603
+date: 2011-09-22T21:10:18.0000000-07:00
+name: andrew boudreau
+avatar: https://disqus.com/api/users/avatars/andrew boudreau.jpg
+message: <p>It's important to note that if you do change the BasePageType and create a custom implementation of WebViewPage then you need to extend the generic and non-generic classes separately.  I had a pretty tricky time figuring out why my some of my expressions weren't able to do type-inference on the typed view&lt;viewmodel&gt;.  After adding RenderSection methods to both CustomWebViewPage and CustomWebViewPage&lt;TModel&gt; i was back in business, great article.</p>

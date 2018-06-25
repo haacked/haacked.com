@@ -1,0 +1,5 @@
+id: dsq-747516144
+date: 2006-08-15T10:23:27.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Because most UIs aren't this simple.  <br>I like to change the UI a lot too.  This doesn't prevent that. Most UI changes are in the layout and minor tweaks anyways which don't require a lot of code.<br>The point of this is to make it more testable in an automated fashion. And by testable, I don't mean where a button goes and such, I mean the important parts.  Like how the UI interacts with the user.<br>For example, I included unit tests in the source code to demonstrate how this ui is now testable.  When you make changes to the UI, you have more confidence that you didn't break another major interaction path if your other tests pass.</p>

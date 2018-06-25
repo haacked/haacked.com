@@ -1,0 +1,5 @@
+id: dsq-747529928
+date: 2009-09-02T01:24:00.0000000-07:00
+name: Bryan Watts
+avatar: https://disqus.com/api/users/avatars/Bryan Watts.jpg
+message: '<p>@Mark Hoffman,<br>There are very specific scenarios for which the dynamic feature is targeted, common pain points that all C# writers can have a good laugh about. That so many different scenarios are enabled from such a simple mechanism is a testament to the elegance of its integration into a static language. Framing the feature as simply jumping on the dynamic bandwagon is a strawman.<br>I wonder about the line of reasoning that says "static is static and dynamic is dynamic and never the twain shall meet". Developing well-implemented features that enable core scenarios is what language writers are paid to do. They are not paid to maintain anachronistic lines between obviously converging paradigms.<br>Step 8: Become apologist.</p>'

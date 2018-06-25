@@ -1,0 +1,5 @@
+id: dsq-747510846
+date: 2005-05-17T18:44:00.0000000-07:00
+name: Bobby
+avatar: https://disqus.com/api/users/avatars/Bobby.jpg
+message: <p>The difference between Coalesce and Isnull is that Coalesce can take multiple values (2 or more).... it'll check each value until it finds one that is not null... once it does, it'll return that value...<br><br><br><br>IsNull, on the other hand, has 2 arguments and will only check the first value to see if it's null, if it is null, it'll return the 2nd arguement.</p>

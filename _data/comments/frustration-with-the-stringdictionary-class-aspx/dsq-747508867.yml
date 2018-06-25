@@ -1,0 +1,5 @@
+id: dsq-747508867
+date: 2007-10-17T01:16:32.0000000-07:00
+name: Randy F
+avatar: https://disqus.com/api/users/avatars/Randy F.jpg
+message: <p>I was trying to do a similar operation with storing an XPath string in the DictionaryEntry.Key so I could query an XML document and set the DictionaryEntry.Value to the value of the node returned.  Thanks for doing all the research.<br>My simple fix was to refactor using the Dictionary&lt;String, String&gt; generic as advised by Pirmin.  This has had almost no impact on existing code.  Any foreach loops I simply changed DictionaryEntry to KeyValuePair&lt;String, String&gt;.  Now the key I inserted is the key retrieved.<br>I agree with you that this hidden mutation of the key on the Add method is unnecessary and frustrating.<br>Thanks Phil and Pirmin.</p>

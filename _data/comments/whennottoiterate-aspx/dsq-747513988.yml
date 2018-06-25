@@ -1,0 +1,5 @@
+id: dsq-747513988
+date: 2006-02-03T02:09:00.0000000-08:00
+name: Jeremy Brayton
+avatar: https://disqus.com/api/users/avatars/Jeremy Brayton.jpg
+message: "<p>Reports are almost always an after-thought in any software. You simply cannot iterate this kind of stuff with skeleton reports or mock ups because they'll just be words on a page with very little tie-in to the actual product. They do however closely tie in with data collection (as in this case the report was your dataset).<br><br><br><br>This means that in most instances there will be BDUF at least for the data side, which isn't a stretch. Keep putting report mock-ups using real data in front of their face until the client signs off on it. Then you can build a UI and framework around the data you're trying to capture in iterations. You have the end result: the report. You just now need to work backwards giving the customer a scheme they can actually use to put this data in. It's like solving a maze by starting from the end. Starting from the end has fewer paths of failure which strangely correlates to most development as well.</p>"

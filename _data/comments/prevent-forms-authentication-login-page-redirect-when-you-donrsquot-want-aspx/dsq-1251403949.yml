@@ -1,0 +1,5 @@
+id: dsq-1251403949
+date: 2014-02-19T04:50:04.0000000-08:00
+name: Frederik Nielsen
+avatar: https://disqus.com/api/users/avatars/Frederik Nielsen.jpg
+message: <p>Thanks for this great post. It now works excactly like i want.</p><p>Added this to global.asax:<br>protected void Application_BeginRequest(object sender, EventArgs e)<br>{<br>      HttpApplication context = (HttpApplication)sender;<br>      context.Response.SuppressFormsAuthenticationRedirect = true;<br>}</p>

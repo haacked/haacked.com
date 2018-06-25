@@ -1,0 +1,5 @@
+id: dsq-747526297
+date: 2008-08-29T21:02:45.0000000-07:00
+name: Timothy Khouri
+avatar: https://disqus.com/api/users/avatars/Timothy Khouri.jpg
+message: <p>Phil, I know I bug you a lot about what else I wish to see in MVC... but this feature is just another <br>one of those 100% solid and well done items.<br>Back in the Preview 4 starter template in the Register action of the AccountController... the whole <br></p><blockquote>if (Request.HttpMethod != "POST")<br>{<br>    return View();<br>}</blockquote><p> thing was really bugging me. It didn't seem like a natural way to handle the scenario <br>(oh, btw, that wasn't changed in the Preview 5 template).<br>Thanks for the awesome product,<br>-Timothy Khouri<br>P.S. I'm not just trying to butter you up because I've seen your <a href="http://weblogs.asp.net/stephenwalther/archive/2008/08/29/asp-net-mvc-tip-40-don-t-cache-pages-that-require-authorization.aspx#6577572" rel="nofollow noopener" title="http://weblogs.asp.net/stephenwalther/archive/2008/08/29/asp-net-mvc-tip-40-don-t-cache-pages-that-require-authorization.aspx#6577572">angry side</a>.</p>

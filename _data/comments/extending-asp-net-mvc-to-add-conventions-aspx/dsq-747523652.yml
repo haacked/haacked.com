@@ -1,0 +1,5 @@
+id: dsq-747523652
+date: 2007-12-09T00:21:45.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yes please, productive discussion is encouraged. :)<br>@David, for the CTP, Controller is in the assembly System.Web.Extensions but the namespace System.Web.Mvc.<br></p>

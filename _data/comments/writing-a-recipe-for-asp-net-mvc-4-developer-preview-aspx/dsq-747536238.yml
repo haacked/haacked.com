@@ -1,0 +1,5 @@
+id: dsq-747536238
+date: 2011-11-03T03:37:12.0000000-07:00
+name: Marc Gravell
+avatar: https://disqus.com/api/users/avatars/Marc Gravell.jpg
+message: "<p>Do you know what would be awesome? (IMO)<br>If this nuget mechanism could cater for some of the \"custom tool\" stuff for generating code from (for example) DSLs etc. At the moment, this is a: hard to do, and b: even harder to deploy - but if it could be done via a nuget-deployed \"recipe\"-type-thing...<br>Just sayin' - looks good, though.</p>"

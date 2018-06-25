@@ -1,0 +1,5 @@
+id: dsq-747533731
+date: 2010-12-14T21:17:53.0000000-08:00
+name: Adam
+avatar: https://disqus.com/api/users/avatars/Adam.jpg
+message: <p>@Phil:<br>Thanks for the reply. I didn't know there were extension methods for ViewDataDictionary (other than the LINQ ones.) What do these do?<br>(I'm still convinced you wont be fulfilled until ViewData is dynamic, despite the havock it will cause. But that is your call, and it isn't why I'm asking about the extension methods. I just wonder where they are and what they do so I can start using them.)</p>

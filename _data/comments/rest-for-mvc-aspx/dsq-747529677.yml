@@ -1,0 +1,5 @@
+id: dsq-747529677
+date: 2009-08-18T02:23:00.0000000-07:00
+name: Jarrett Vance
+avatar: https://disqus.com/api/users/avatars/Jarrett Vance.jpg
+message: <p>This topic is very interesting to me as I've worked on an AtomPub implementation in both WCF and MVC.  So I completely understand why people creating simple web APIs rather use MVC than WCF.<br>At first, I was very confused about the "hybrid" terminology as the solution does not use both MVC and WCF.  Just to be clear, there is no WCF in this solution.<br>I do think this is a neat way to quickly expose a web API in MVC as the web programming model does it in WCF.  However, in practice:<br>1) There is almost always a need to handle web form post differently than a straight resource post (xml, atom).<br>2) There is typically a service/business layer that doesn't care about the wire format.<br>So I also agree with Luke and Phil and think the plain old MVC is better.  I also like the idea of the [AcceptFormat("application/atom+xml")] attribute.<br><br></p>

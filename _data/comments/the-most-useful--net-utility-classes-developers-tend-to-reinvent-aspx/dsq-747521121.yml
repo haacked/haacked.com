@@ -1,0 +1,5 @@
+id: dsq-747521121
+date: 2007-06-26T10:50:14.0000000-07:00
+name: ChrisMo
+avatar: https://disqus.com/api/users/avatars/ChrisMo.jpg
+message: <p>Can't tell you how many times I've seen people format stats using subString to control the number of decimal places instead of the ToString(format,IFormatProvider) overload:<br>i.e.:<br>private NumberFormatInfo formatProvider;<br>formatProvider.NumberDecimalDigits = 2;<br>lblAvg2Decs.Text = avg.ToString("N", formatProvider);<br> formatProvider.NumberDecimalDigits = 1;<br>lblAvg1Decs.Text = avg.ToString("N", formatProvider);<br></p>

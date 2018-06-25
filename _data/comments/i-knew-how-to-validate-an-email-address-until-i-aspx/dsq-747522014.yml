@@ -1,0 +1,5 @@
+id: dsq-747522014
+date: 2007-08-21T02:32:33.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Ok, I finally corrected the post to fix my misinterpretation.<br>Regarding international characters, I know that IRI (International Resourec Identifier) can be mapped to URI by hex encoding using the %HH sequence of bytes. I'm not well versed in this though. And yes, my regex does not take that into consideration at all.<br>Check out the perl regex linked to by other commenters. I wonder if that does. ;)</p>

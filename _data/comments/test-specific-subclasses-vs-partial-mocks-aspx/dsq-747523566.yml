@@ -1,0 +1,5 @@
+id: dsq-747523566
+date: 2007-12-06T21:50:36.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Thomas Thanks for the suggestion. I've written a lot on the topic. I'll try to categorize what I've written and shore up areas that I haven't covered.<br>@Ted<br>&gt; What about View re-use? Nesting Views?<br>You can encapsulate views in user controls. Works great. You can call RenderView and specify a user control instead of a full page.<br>Master pages still work, which is one form of nesting views.<br>However, the thing you're probably referring to is how do we handle sub-controllers. That's not addressed in the upcoming CTP, but we are investigating multiple solutions.</p>

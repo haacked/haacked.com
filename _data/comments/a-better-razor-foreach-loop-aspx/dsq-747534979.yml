@@ -1,0 +1,5 @@
+id: dsq-747534979
+date: 2011-04-15T07:38:13.0000000-07:00
+name: Ian
+avatar: https://disqus.com/api/users/avatars/Ian.jpg
+message: <p>foreach (var item in Model.Select((value,i) =&gt; new {i, value}))<br>This gets you the item (item.value) and its index (item.i).<br></p>

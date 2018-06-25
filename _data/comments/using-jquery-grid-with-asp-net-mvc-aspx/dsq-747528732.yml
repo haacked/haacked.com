@@ -1,0 +1,5 @@
+id: dsq-747528732
+date: 2010-07-31T02:40:15.0000000-07:00
+name: Randy Kreisel
+avatar: https://disqus.com/api/users/avatars/Randy Kreisel.jpg
+message: "<p>getting the following error when opening the database.<br>Additional information: The database 'C:\\PROJECTS\\VS9\\JQGRID MVC SAMPLE\\JQUERYGRIDWEB\\APP_DATA\\HAACKOVERFLOW.MDF' cannot be opened because it is version 655. This server supports version 612 and earlier. A downgrade path is not supported.<br>Using VS 2008<br>Any suggestions??<br></p>"

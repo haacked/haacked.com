@@ -1,0 +1,5 @@
+id: dsq-747534921
+date: 2011-05-04T18:37:36.0000000-07:00
+name: Marc Simkin
+avatar: https://disqus.com/api/users/avatars/Marc Simkin.jpg
+message: <p>Got it to work in classic mode.  It seems that the issue is not routing but a 404/Page not Found.  Shouldn't the routing info be displayed even with a page not found?</p>

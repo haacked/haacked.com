@@ -1,0 +1,5 @@
+id: dsq-747510237
+date: 2008-07-01T23:08:34.0000000-07:00
+name: moo
+avatar: https://disqus.com/api/users/avatars/moo.jpg
+message: <p>While RegExs are good for a variety of purposes, people really need to think about using the HTML DOM for most of their processing needs.  If you're just trying to get elements from inside tags or information, using the DOM tends to be easier and more extensible.</p>

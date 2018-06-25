@@ -1,0 +1,5 @@
+id: dsq-747526816
+date: 2009-02-08T21:35:24.0000000-08:00
+name: Ron
+avatar: https://disqus.com/api/users/avatars/Ron.jpg
+message: <p>The controller grouping you came up with has certainly fit into the size of the project I'm working on.  There are distinct areas of concern that are best broken up this way, and it's been working great.<br>I managed fix the AreaViewEnging issues raised in the upgrade to the Release Candidate, but I would like to use the RC feature of no code-behind files. <br>If I run without a code-behind, the base.FindView method returns a null reference exception.<br>Here's the aspx delaration I'm using.  Any pointers would be appreciated.<br>&lt;%@ Page Title="" Language="C#" MasterPageFile="~/Areas/AdSales/Views/Shared/AdSales.Master" Inherits="System.Web.Mvc.ViewPage&lt;Media&gt;" %&gt;<br>Thanks in advance.<br>Ron<br></p>

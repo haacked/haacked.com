@@ -1,0 +1,5 @@
+id: dsq-747534108
+date: 2012-05-13T15:44:11.0000000-07:00
+name: Kevin Dietz
+avatar: https://disqus.com/api/users/avatars/Kevin Dietz.jpg
+message: '<p>Good resource.<br>Things to add: @using to reference namespaces, @model to declare the type of the model, @RenderSection to insert a section (content placeholder), and @section to declare section used by @RenderSection, and a full quick reference for all @Html calls.  Thanks.</p>'

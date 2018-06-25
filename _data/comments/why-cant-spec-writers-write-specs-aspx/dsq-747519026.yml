@@ -1,0 +1,5 @@
+id: dsq-747519026
+date: 2007-03-08T05:56:08.0000000-08:00
+name: Jon Limjap
+avatar: https://disqus.com/api/users/avatars/Jon Limjap.jpg
+message: <p>Well, off the top of my head:<br>When a user asks for a page with *a* drop down list of years and month (no date involved), a developer would almost instantly think:<br>a) one dropdown list for the year<br>b) one dropdown list for the month<br>Thing is when we presented this to the client, the client actually wanted to have a drop down list with values like:<br>2007/01, 2007/02, 2007/03... 2007/12<br>It wasn't intuitive to us developers, and it certainly made the final HTML output inefficient, but the users simply didn't want to have to click on two drop down lists for the filter.</p>

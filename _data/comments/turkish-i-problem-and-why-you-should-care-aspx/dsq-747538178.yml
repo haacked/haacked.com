@@ -1,0 +1,5 @@
+id: dsq-747538178
+date: 2012-07-06T06:43:18.0000000-07:00
+name: Doeke
+avatar: https://disqus.com/api/users/avatars/Doeke.jpg
+message: "<p>I thing the correct code would be to use \"interesting\".ToUpper () instead of \"INTERESTING\". But then again: your production example was probably a little different.<br>But it's all in the context. I once wrote an SMS-application for a Turkey's cell phone provider. Once we learned SMS messages with turkey's characters only can be like 40 characters (instead of 140), just used the ascii representation. To make sure we didn't run into ambiguities (like the one Rikki mentioned), we had the texts reviewed by some Turkey's speaking colleagues.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747521195
+date: 2010-02-26T02:47:03.0000000-08:00
+name: Jared
+avatar: https://disqus.com/api/users/avatars/Jared.jpg
+message: <p>Another fix could be to slap this jquery line on your page:<br> $("#__VIEWSTATE").parent().addClass("asp-generated");</p>

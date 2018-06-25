@@ -1,0 +1,5 @@
+id: dsq-747528867
+date: 2009-04-17T11:07:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>How about this Louis?<br><code><br>public void SomeSampleAction() {<br>  throw new CutAndPasteException("Hey, this is sample code! Don't copy it!");<br>  //... bunch of sample code.<br>  <br>}<br></code></p>

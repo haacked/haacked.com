@@ -1,0 +1,5 @@
+id: dsq-747537916
+date: 2012-04-09T07:22:02.0000000-07:00
+name: James Hughes
+avatar: https://disqus.com/api/users/avatars/James Hughes.jpg
+message: <p>I've been working on a Scala project recently in my job and there is a new thing in the Scala world called Iteratees which are essentially what Rx is all about.  Odd thing is the Scala world appear to be lapping them up - yet I feel the .NET world is still keeping Rx on the side lines.  Probably because of the more functional nature of Scala over C# they feel more natural to the developer.  That said Rx does appear to be gaining some steady momentum recently - hopefully it will continue.<br></p>

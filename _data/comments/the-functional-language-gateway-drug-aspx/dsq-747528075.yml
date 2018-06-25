@@ -1,0 +1,5 @@
+id: dsq-747528075
+date: 2009-02-17T02:50:36.0000000-08:00
+name: Pat Gannon
+avatar: https://disqus.com/api/users/avatars/Pat Gannon.jpg
+message: <p>If you were using Linq2Sql or Linq2NHibernate, I wonder if it would be possible to re-write your call to First() as a Linq query that hits the DB only once by joining your list of slugs with your data source.  Make sense?  That would be a pretty kick-ass implementation!<br>Alternatively, I wonder if you could specify your slugs in an XML file, and then write a query that joins that to the data source... perhaps that's going too far. ;-)<br>Take care,<br>Pat</p>

@@ -1,0 +1,6 @@
+id: dsq-1537612618
+replyToId: dsq-1537165305
+date: 2014-08-11T09:55:41.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Thanks Robert!</p><p>In the future, the best place to ask for feature requests or report bugs is to email support@github.com.</p><p>I'll respond to what I can here, but emailing support makes it tracked by our system.</p><p>1) We don't have that feature.</p><p>2) You can use the Gear looking menu to "Undo most recent commit". It'll keep the changes in the working directory, but reset the commit. If the last few commits are all heroku related, then you could invoke the menu a few times and then create one single commit.</p><p>3) Yeah, we're working on improving that!</p>

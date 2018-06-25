@@ -1,0 +1,5 @@
+id: dsq-747507689
+date: 2010-08-22T11:18:13.0000000-07:00
+name: Wasim
+avatar: https://disqus.com/api/users/avatars/Wasim.jpg
+message: '<p>mine is different case:<br>Please let me know what the results set will be in case we want incremental value with respect to the fields value:<br> For example: I am doing a data migration project and in the query trhe rule says that if Field A is having 3 repetitive values for policy say pola, pola, pola then the field B should display as 1 for pola, 2 for polb, and 3 for polc. similarly if there are 4 repetitive values for polb are there then the field B will display 1 for polb, 2 for polb ... and so on.. i have struck here please help..</p>'

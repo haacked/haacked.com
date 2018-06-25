@@ -1,0 +1,5 @@
+id: dsq-747507710
+date: 2011-09-15T20:29:45.0000000-07:00
+name: Ed
+avatar: https://disqus.com/api/users/avatars/Ed.jpg
+message: "<p>i have this data into my table: <br>1John<br>4Mike<br>7Laura<br>1John<br>4Mike<br>7Laura<br>1John<br>4Mike<br>7Laura<br>How do i make an UPDATE to remake the id's with the order of the row for example, or.. just incremental from 1 to last.?<br></p>"

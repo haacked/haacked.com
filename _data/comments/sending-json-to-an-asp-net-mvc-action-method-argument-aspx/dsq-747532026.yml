@@ -1,0 +1,5 @@
+id: dsq-747532026
+date: 2011-04-01T13:26:19.0000000-07:00
+name: Gautam Jain
+avatar: https://disqus.com/api/users/avatars/Gautam Jain.jpg
+message: <p>Please do help.<br>The JsonValueProviderFactory is not binding types such as Color, Position, Point. In short, all non-primitive objects. It is able to bind integer, string and also arrays of these types.<br>What am I doing wrong?<br>My json data is:<br>{<br>"Name":"Pen",<br>"Type":1,<br>"DeviceSize":{"Width":190,"Height":180}<br>}<br>DeviceSize is of type Size. Similarly I have other properties of type Color, Point etc. Name &amp; Type is correctly bound. But DeviceSize is not bound.<br>Thanks.<br>Regards,<br>Gautam Jain<br><br></p>

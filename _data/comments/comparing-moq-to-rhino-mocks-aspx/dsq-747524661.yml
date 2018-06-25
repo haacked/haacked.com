@@ -1,0 +1,5 @@
+id: dsq-747524661
+date: 2008-03-23T21:46:55.0000000-07:00
+name: tgmdbm
+avatar: https://disqus.com/api/users/avatars/tgmdbm.jpg
+message: "<p>@Krzysztof, BackToRecord DOES remove expectations. Even with BackToRecordOptions.None.<br>Here's an exerpt from MockRepository.cs:<br><code><br>524:public void BackToRecord(object obj, BackToRecordOptions options)<br>525:{<br>526:  IsMockObjectFromThisRepository(obj);<br>527:  foreach (IExpectation expectation in rootRecorder.GetAllExpectationsForProxy(obj))<br>528:  {<br>529:    rootRecorder.RemoveExpectation(expectation);<br>530:  }<br>...<br></code><br>I've suggested to Ayende to include a bool keepExpectations parameter to the BackToRecord methods but this hasn't been implemented yet.<br>With Moq tho, there is no need to know if the mock is in record or replay mode, or move the mock back to a record. It Just Works(tm).</p>"

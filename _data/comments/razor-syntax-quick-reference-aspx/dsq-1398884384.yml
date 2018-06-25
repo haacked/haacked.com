@@ -1,0 +1,6 @@
+id: dsq-1398884384
+replyToId: dsq-747534046
+date: 2014-05-21T21:24:13.0000000-07:00
+name: steven6
+avatar: https://disqus.com/api/users/avatars/steven6.jpg
+message: '<p>Agreed, useful reference!  Two more syntaxes I like to use are using blocks and closures.</p><p>using blocks: <a href="http://www.codeducky.org/razor-trick-using-block/" rel="nofollow noopener" title="http://www.codeducky.org/razor-trick-using-block/">http://www.codeducky.org/ra...</a></p><p>@using (Html.BeginForm())<br>{<br>    &lt;input type="text" value="input here"&gt;<br>}</p><p>closures: <a href="http://www.codeducky.org/razor-trick-pass-razor-code-into-methods/" rel="nofollow noopener" title="http://www.codeducky.org/razor-trick-pass-razor-code-into-methods/">http://www.codeducky.org/ra...</a></p><p>@{<br>    IHtmlString barSpan = Html.Content(@<span>@ViewBag.Bar</span>);<br>}<br><span>Bar 1: @barSpan</span><br><span>Bar 2: @barSpan</span></p><p>public static IHtmlString Content(<br>    this HtmlHelper self, <br>    Func&lt;object, helperresult=""&gt; razorContent)<br>{<br>    return razorContent(null);<br>}</p>'

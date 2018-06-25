@@ -1,0 +1,5 @@
+id: dsq-747531428
+date: 2011-02-13T07:56:47.0000000-08:00
+name: bigsan
+avatar: https://disqus.com/api/users/avatars/bigsan.jpg
+message: <p>calling RouteTable.Routes.RegisterRoutes("~/...") in Application_Start is not enough, because it won't call the ReloadRoutes() at the first time while the file is not changed.<br>ReloadRoutes() should be called after Listen() in RegisterRoutes(), doesn't it?<br>(sorry for the wrong post in "ASP.NET Route Debugger")</p>

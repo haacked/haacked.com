@@ -1,0 +1,5 @@
+id: dsq-747526814
+date: 2009-01-29T21:45:35.0000000-08:00
+name: Joe
+avatar: https://disqus.com/api/users/avatars/Joe.jpg
+message: <p>Hi Phil,<br>I got the new RC1 assemblies and applied them in my project adn updated the code to handle the extra "useCache" parameter in hte overrides of FindView and FindPartialView. <br>It seems however that the viewengine is not being utilized. I still have the ViewEngines.Engines.Clear and adding a new instance of AreaViewEngine in the Application_Start, but the methods FindView and FindPartialView are not getting called.<br>Any ideas on how to get areas working again with RC1?<br>Thanks,<br>Joe</p>

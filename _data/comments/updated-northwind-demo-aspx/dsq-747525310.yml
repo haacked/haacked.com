@@ -1,0 +1,5 @@
+id: dsq-747525310
+date: 2008-06-24T13:40:03.0000000-07:00
+name: wind~~
+avatar: https://disqus.com/api/users/avatars/wind~~.jpg
+message: <p>to indiekiduk:<br>Categories.aspx:<br>&lt;%= Html.ActionLink(category.CategoryName, "List", new { id=category.CategoryName.Replace("/", "@") })%&gt;<br>ProductsController.cs:<br>id = id.Replace("@", "/");</p>

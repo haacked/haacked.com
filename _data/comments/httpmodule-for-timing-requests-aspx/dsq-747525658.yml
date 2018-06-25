@@ -1,0 +1,5 @@
+id: dsq-747525658
+date: 2008-07-02T21:04:53.0000000-07:00
+name: Travis
+avatar: https://disqus.com/api/users/avatars/Travis.jpg
+message: <p>Thanks Meisinger,<br>That fixed it.<br>I added this:<br><code><br>If HttpContext.Current.Response.ContentType = "text/html" Then<br> HttpContext.Current.Response.Write("<p>" + ElapsedTime + "</p>")<br>End If<br></code><br>To the OnEndRequest method. It now allows partial page postbacks using an update panel. Although it does not time them.<br>I wonder if there is any way to pass it as a JSON format, so we could time the partial page postbacks.<br></p>

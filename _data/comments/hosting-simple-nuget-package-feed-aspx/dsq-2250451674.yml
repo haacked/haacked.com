@@ -1,0 +1,5 @@
+id: dsq-2250451674
+date: 2015-09-12T14:39:55.0000000-07:00
+name: Kevin Swanson
+avatar: https://disqus.com/api/users/avatars/disqus_SsTDOeyoNz.jpg
+message: <p>I had some of the same issues that a few others listed, and nothing I found online helped.  I did finally resolve it, and in my case it was related to new versions of either NuGet.Server or some dependency that requires .Net 4.5. It took me several hours to finally figure that out.</p><p>In your first screen print on step 1, if you change the drop-down to .Net Framework 4.5, everything works great.</p><p>In Visual Studio 2013, you also can't find the "ASP.Net Empty Web Application" template under "web". You have to drill down own more level to Web/Visual Studio 2012.</p>

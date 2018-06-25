@@ -1,0 +1,5 @@
+id: dsq-747529391
+date: 2009-12-15T04:34:43.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Kyle regarding #1, prove it. Show me a JavaScript that is a valid JSON object literal for which the browser continues to execute the scirpt and does not throw an error.<br>2. POST responses aren't cached by proxies or browsers. Do you have a demo of this? For the most part, POST is much safer than GET when you're using a trusted browser. If the browser is not trusted, then all bets are off. You have bigger problems then.</p>"

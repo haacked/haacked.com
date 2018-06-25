@@ -1,0 +1,5 @@
+id: dsq-747532977
+date: 2010-08-18T17:52:29.0000000-07:00
+name: AndyC
+avatar: https://disqus.com/api/users/avatars/AndyC.jpg
+message: <p>Isn't the example a bit contrived? If you're adding a new overload, you wouldn't need the new parameter to be optional since you already have an overload for what happens if it's omitted. You can always refactor the code behind the scenes so that the 'old' method signature calls into your new one with the new paramter forced to it's default value (i.e. do it the old way)</p>

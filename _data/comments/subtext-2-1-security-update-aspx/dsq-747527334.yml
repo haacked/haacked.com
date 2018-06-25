@@ -1,0 +1,5 @@
+id: dsq-747527334
+date: 2008-12-06T22:29:13.0000000-08:00
+name: Pierre Henri Kuate
+avatar: https://disqus.com/api/users/avatars/Pierre Henri Kuate.jpg
+message: "<p>Hi,<br>I just migrated from v2.0 to v2.1 and I noticed that, in Web.config, you removed the assemblyBinding to redirect System.Web.Extensions to .NET 3.5 which causes the error: \"The server tag 'asp:ScriptManager' is ambiguous.\"<br>So I had to add it back to make it work again.<br>Thanks for this great product!</p>"

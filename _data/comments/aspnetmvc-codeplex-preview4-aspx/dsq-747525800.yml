@@ -1,0 +1,5 @@
+id: dsq-747525800
+date: 2008-07-18T16:17:19.0000000-07:00
+name: Serge Van Meerbeeck
+avatar: https://disqus.com/api/users/avatars/Serge Van Meerbeeck.jpg
+message: '<p>I really like the momentum of ASP.NET MVC. <br>However, I was wondering: I just migrated to Preview 4, and I seem to miss a couple of extension methods on the HtmlHelper for Button, more specifically the ones that take an Expression&lt;action&lt;t&gt;&gt; as an argument. No harm done, it takes 2 minutes to add them myself, but nevertheless ... <br>Any reason why they were removed while moving the extensions to the Futures dll?</p>'

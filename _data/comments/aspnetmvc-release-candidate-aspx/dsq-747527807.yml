@@ -1,0 +1,5 @@
+id: dsq-747527807
+date: 2009-01-27T22:20:05.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@dario-g did you read the release notes about upgrading existing projects? The Action method now renders relative paths. When you click on the link rendered, does it not work?<br>@Dave, Could you post a repro to the <a href="http://forums.asp.net/1146.aspx" rel="nofollow noopener" title="ASP.NET MVC Forums">Forums</a>?<br></p>

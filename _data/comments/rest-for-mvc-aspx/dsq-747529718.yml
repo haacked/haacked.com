@@ -1,0 +1,5 @@
+id: dsq-747529718
+date: 2009-09-24T23:46:00.0000000-07:00
+name: ranamauro
+avatar: https://disqus.com/api/users/avatars/ranamauro.jpg
+message: "<p>@PK: yes it is possible. If you look at the controllers in any of the examples you will notice that the model is based on HttpException: in any action you can do throw one of those, EG:<br> throw new HttpException((int)HttpStatusCode.InternalServerError, \"There was an error processing your request\");<br>the exception will be handled by the SDK code and rendered in the appropriate format on the wire. What's in the SDK currently by default will just serialize a string on the wire, resulting from HttpException.ToString(), but you can override this, by setting HttpException.Data[\"details\"] to any object of your choice, and we will serialize that instead (this code is in ResourceErrorActionResult.cs BTW).</p>"

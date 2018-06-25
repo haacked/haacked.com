@@ -1,0 +1,5 @@
+id: dsq-747532092
+date: 2012-02-08T18:04:36.0000000-08:00
+name: Paintball Barrel
+avatar: https://disqus.com/api/users/avatars/paintballbarrel.jpg
+message: <p>does anyone know if this will allow the url rewrite module to receive urls that end with a period "." ? Currently this is being blocked from any processing, so external urls that accidently added a "." to the end of the url are getting error pages, instead of allowing me to redirect them to the page they actually wanted (and get the benefit of having another functioning inbound link)<br></p>

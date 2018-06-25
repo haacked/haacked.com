@@ -1,0 +1,5 @@
+id: dsq-747522370
+date: 2007-09-11T03:54:15.0000000-07:00
+name: engtech
+avatar: https://disqus.com/api/users/avatars/engtech.jpg
+message: <p>The id of the captcha should be random dictionary words so that the spambot can't ID it.<br>It should never be author, email, or url because genuine commenters with Comment Pre-fill forms will be hit with it.<br>(I hit Alt-C and fill in my name/email/url on all WordPress blogs, for example -- and would mark me as a spammer instead of the wonderful commenter that I am :) )</p>

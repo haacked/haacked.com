@@ -1,0 +1,5 @@
+id: dsq-747536302
+date: 2011-10-11T02:09:15.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>As some folks on Twitter pointed out, since the XmlHttpRequest object in browsers don't allow cross-domain posts, for most cases, what I've done here isn't necessary. <br>However, there have been plugins in the past that allowed cross-domain posts (but not GETs). So consider this a defense in depth approach. Most of the time, you probably don't need it.<br>I'll try and write a follow-up blog post that talks about the real risk of this attack and whether or not these protections are really needed. :)</p>

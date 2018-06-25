@@ -1,0 +1,5 @@
+id: dsq-747522804
+date: 2007-09-23T23:49:28.0000000-07:00
+name: Howard
+avatar: https://disqus.com/api/users/avatars/Howard.jpg
+message: <p>The “fair competition” should include the extra time that Group 2 took in the construction phase. The fact that TDD hasn’t been widely adopted proves to me that TDD adds substantially to the time to construct software. <br>Also we should include the time for Group 2 to get up to speed on the tests and maintain them. This would include the work to update the tests that are continually getting broken because of the weekly client change requests. If you are smart enough to design your tests so they are well factored and tend not to get broken, then you are smart enough to design you application itself so that its parts are equally well factored. Then most bugs will appear in new functions that are being beta tested, and not as regression errors.<br></p>

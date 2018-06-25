@@ -1,0 +1,5 @@
+id: dsq-747530481
+date: 2009-11-10T00:37:00.0000000-08:00
+name: Brian Chiasson
+avatar: https://disqus.com/api/users/avatars/Brian Chiasson.jpg
+message: <p>It says that, in order to abide by the ISuperHero contract, you have to implement the members of IPerson - that's not the same thing I said before. My beef is that the runtime should know that both of the interfaces' members are implemented.</p>

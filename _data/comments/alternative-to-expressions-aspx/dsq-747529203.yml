@@ -1,0 +1,5 @@
+id: dsq-747529203
+date: 2009-06-02T06:51:00.0000000-07:00
+name: Scott Allen
+avatar: https://disqus.com/api/users/avatars/Scott Allen.jpg
+message: <p>@Phil - I understand there are no extension properties, but since we already have a few helpers (Ajax, Html, Url, etc), it might be nice to have the provider generate a completely new class. RouteLink, perhaps. RouteLink.Home.About(123). <br>Either way, I like it better than the ActionLink extension.</p>

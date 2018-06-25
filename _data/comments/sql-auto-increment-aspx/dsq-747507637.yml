@@ -1,0 +1,5 @@
+id: dsq-747507637
+date: 2007-10-24T21:19:12.0000000-07:00
+name: Mei-Hsia Chen
+avatar: https://disqus.com/api/users/avatars/Mei-Hsia Chen.jpg
+message: <p>"Do you know any method for doing the same thing in a Select statement?<br>I would something like this:<br>select {increment value} as Counter, strUsername from Users<br>Counter strUsername <br>----------------------<br>1 John<br>2 Mike<br>3 Laura<br>...<br>"<br>   The above question was asked by Zazza on Jan 12, 2007. I am having the same creating counter problems.  It would be great if you have solutions for this case. This is a great site.<br>   <br>    Thanks.            Mei-Hsia<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747510262
+date: 2010-03-21T17:51:57.0000000-07:00
+name: Pete B
+avatar: https://disqus.com/api/users/avatars/Pete B.jpg
+message: "<p>Excellent.<br>Just spent the last hour trying to do this and failing: <br><code><br>/&lt;\\/?[a-z0-9-_]+(?:''|[^\"'&gt;]*([\"']?)[\\S\\s]*?\\1)\\/?&gt;/gi<br></code><br></p>"

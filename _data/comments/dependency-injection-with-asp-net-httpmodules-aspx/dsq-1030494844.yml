@@ -1,0 +1,5 @@
+id: dsq-1030494844
+date: 2013-09-04T20:14:17.0000000-07:00
+name: Kendall Bennett
+avatar: https://disqus.com/api/users/avatars/kendallbennett.jpg
+message: <p>Won't you have scoping issues if you inject dependencies that are request scoped into an HttpModule? Because as I understand it HttpModules exist one instance per application instance, not one per web request. So you can only really inject dependencies that are singleton scoped (and hence thread safe) and not request scoped? I already fixed a nasty bug in our code which I believe was caused by this.</p>

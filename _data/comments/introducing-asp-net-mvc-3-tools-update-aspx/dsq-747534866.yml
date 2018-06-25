@@ -1,0 +1,5 @@
+id: dsq-747534866
+date: 2011-05-01T20:22:06.0000000-07:00
+name: Shane Whittet
+avatar: https://disqus.com/api/users/avatars/Shane Whittet.jpg
+message: <p>Looks like the jQueryUI Combined package has base theme and many variations of NuGet Package.  <br>How would you work with this if your theme is not the base?<br>Alternately, could a package have a configuration that defines how it updates?  For example, I delete the base theme and replace it with a custom Redmond.  This configuration is stored as a url in the .css file.  How great would it be if the jqueryui builder config could be stored and the NuGet updater access this project information to update to the latest version.  This could avoid having 8 versions of jqueryui available for download on NuGet...<br>Regards, from snowy MN:)  <br>I saw flakes again today, I miss spring break!</p>

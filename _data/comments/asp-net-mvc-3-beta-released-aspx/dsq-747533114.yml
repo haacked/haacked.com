@@ -1,0 +1,5 @@
+id: dsq-747533114
+date: 2010-10-06T13:47:26.0000000-07:00
+name: Gorazd Breskvar
+avatar: https://disqus.com/api/users/avatars/Gorazd Breskvar.jpg
+message: <p>Will MVC3 support readonly concurrent session handling <br>using <br>[ControllerSessionState(ControllerSessionState.ReadOnly)] or will that part still be in MVC Futures?<br>Here are more details on this issue:<br><a href="http://blog.whiletrue.com/2010/09/asp-net-mvc-sessions-and-concurrent-requests-not-what-youd-expect/" rel="nofollow noopener" title="http://blog.whiletrue.com/2010/09/asp-net-mvc-sessions-and-concurrent-requests-not-what-youd-expect/">blog.whiletrue.com/...</a></p>

@@ -1,0 +1,5 @@
+id: dsq-747522415
+date: 2009-01-21T12:24:18.0000000-08:00
+name: matt
+avatar: https://disqus.com/api/users/avatars/matt.jpg
+message: "<p>I inserted the hidden form and php snippet with my class name but I get a php error on submission. <code>Parse error: syntax error, unexpected '[' in /var/www/includes/guestbook_input.php on line 4</code><br>The '[' that it's referring to is from your <code>if(!String.IsNullOrEmpty(Request.Form[\"body\"]))IgnoreComment();</code><br>What did I do wrong?</p>"

@@ -1,0 +1,5 @@
+id: dsq-747514458
+date: 2006-03-02T21:13:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yeah, I'm a firm believer of dogfooding.  I pretty much deployed every minor interim release to my personal blog.  But for the last push, I wanted to focus on getting it ready because there were a couple schema changes and I didn't feel like breaking my site at the moment.<br>But yes, dogfooding is good, ummkay?</p>

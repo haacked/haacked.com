@@ -1,0 +1,5 @@
+id: dsq-1113947939
+date: 2013-11-08T07:41:52.0000000-08:00
+name: Eric Falsken
+avatar: https://disqus.com/api/users/avatars/EricFalsken.jpg
+message: <p>you can also do this by editing the project file manually to include all of the files from another project file. MSBuild has the tools that you need. It's just Visual Studio that doesn't present all possible options. Creating a PS script to create an msbuild file listing of all of the CS files in your directory is simple simple simple.</p>

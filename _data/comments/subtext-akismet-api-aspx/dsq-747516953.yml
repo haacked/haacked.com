@@ -1,0 +1,5 @@
+id: dsq-747516953
+date: 2006-09-26T15:47:21.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Thanks Keyvan.  Those are both licensed under the GPL which is often called a "viral" license because code that uses GPL licensed code must itself be licensed under a license compatible with the GPL.<br>Again, I'm no lawyer and this is not legal advice.<br>In particular, look at section 2. b) of the GPL:<br></p><blockquote>b) You must cause any work that you distribute or publish, that in whole or in part contains or is derived from the Program or any part thereof, to be licensed as a whole at no charge to all third parties under the terms of this License.</blockquote><p><br>However, the GPL goes on to say:<br></p><blockquote>Thus, it is not the intent of this section to claim rights or contest your rights to work written entirely by you; rather, the intent is to exercise the right to control the distribution of derivative or collective works based on the Program.</blockquote><p><br>This is such an area of contention which is why the LGPL license was formed.<br>As for me, I prefer to play it safe.</p>

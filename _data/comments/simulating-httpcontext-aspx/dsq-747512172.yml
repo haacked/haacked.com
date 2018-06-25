@@ -1,0 +1,5 @@
+id: dsq-747512172
+date: 2006-08-23T04:19:36.0000000-07:00
+name: Florian Kr&#252;sch
+avatar: https://disqus.com/api/users/avatars/Florian Kr&#252;sch.jpg
+message: <p>Funny, encouraged by one of your last blog posts, I've just started what is going to be my first MVP style <a href="http://ASP.net" rel="nofollow noopener" title="ASP.net">ASP.net</a> Webapp and ran into exactly into the same problem .<br>I'm storing some temporary data in the session store and was wondering how I could deal with a dependecy on HttpContext when unittesting this piece of code.<br>Thanks for sharing, this looks like a good approach.</p>

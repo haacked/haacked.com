@@ -1,0 +1,5 @@
+id: dsq-747530034
+date: 2009-09-29T20:19:00.0000000-07:00
+name: paul
+avatar: https://disqus.com/api/users/avatars/paul.jpg
+message: <p>Looks very nice, Phil. I can see a path for implementing IHtmlString to pull 'safe tags' &amp; attributes from configuration and use that to emit things like blog content...</p>

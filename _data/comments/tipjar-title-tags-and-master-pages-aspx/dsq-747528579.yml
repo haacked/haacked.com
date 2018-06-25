@@ -1,0 +1,5 @@
+id: dsq-747528579
+date: 2009-04-03T18:48:47.0000000-07:00
+name: someone
+avatar: https://disqus.com/api/users/avatars/someone.jpg
+message: <p>I've been using the following for a long time now with a lot of sucess... is there any reason why this shouldn't be used?<br>&lt;head runat="server" visible="false" /&gt;<br>&lt;head&gt;<br>   &lt;title&gt;&lt;%=this.Page.Title ?? "Untitled Page"%&gt;&lt;/title&gt;<br>   &lt;!-- ... anything else here --&gt;<br>&lt;/head&gt;</p>

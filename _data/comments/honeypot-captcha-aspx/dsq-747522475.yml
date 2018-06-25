@@ -1,0 +1,5 @@
+id: dsq-747522475
+date: 2011-02-07T05:51:23.0000000-08:00
+name: Matt M
+avatar: https://disqus.com/api/users/avatars/Matt M.jpg
+message: <p>Do note - the code in the example is ASP code. If you try to enter it in your PHP script, of course you will get a parse error. Here is PHP code you can use:<br>if (!isset($_POST['fieldname'])) { IgnoreComment(); }<br>So if your site is in PHP (as most sites are) then use this code.</p>

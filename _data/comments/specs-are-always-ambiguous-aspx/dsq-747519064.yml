@@ -1,0 +1,5 @@
+id: dsq-747519064
+date: 2007-10-18T14:30:50.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Interesting point, but I still stand by my statement. Sure software can run in different contexts and platforms, but the software itself is rarely "managing" ambiguity.<br>Rather, the software was unambiguously written to be cross-platform and the the platform adheres to certain standards such that the code can wrong. But the software can't handle ambiguity well. For example, suppose the the platform deviates from the cross-platform standards. Most likely the software will fail at some point. Or imagine randomly flipping a few bits in the software. How well would it run?<br>Hewoevr, a haumn rdaneig the Eslngih luanagge has no pbloerm cpmoreendhing tihs snneetce. Now <strong>that</strong> is dealing with ambiguity. Catch my drift?</p>

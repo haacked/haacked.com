@@ -1,0 +1,5 @@
+id: dsq-747534791
+date: 2011-04-08T15:56:53.0000000-07:00
+name: troll
+avatar: https://disqus.com/api/users/avatars/troll.jpg
+message: '<p>:-)<br>[NullReferenceException: Object reference not set to an instance of an object.]<br>   ASP._Page_Views_Answer_Results_cshtml.Execute() in<br>d:\websites\<a href="http://survey.haacked.com" rel="nofollow noopener" title="survey.haacked.com">survey.haacked.com</a>\Views\Answer\Results.cshtml:22</p>'

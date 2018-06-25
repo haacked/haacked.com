@@ -1,0 +1,5 @@
+id: dsq-747523260
+date: 2007-11-05T00:09:59.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Rob, yeah, but does your code handle template parameters? Also, it'll be interesting to run your code through our unit test suites. There are a lot of edge cases that used to break our implementation.</p>

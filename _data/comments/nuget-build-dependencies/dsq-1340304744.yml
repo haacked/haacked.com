@@ -1,0 +1,5 @@
+id: dsq-1340304744
+date: 2014-04-16T05:09:41.0000000-07:00
+name: Xavier Decoster
+avatar: https://disqus.com/api/users/avatars/xavierdecoster.jpg
+message: <p>A big +1 on this topic!! Not sure about WinRT "apps", but for WinRT libs, you can copy the contents of C:\Program Files (x86)\MSBuild\Microsoft\WindowsXaml\v12.0 and  \v11.0 to your build server to resolve the missing references. The madness! :-)</p>

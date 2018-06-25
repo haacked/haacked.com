@@ -1,0 +1,5 @@
+id: dsq-747526300
+date: 2008-09-01T00:15:55.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Andy There’s nothing preventing anyone from using JQuery with MVC. I even did a screencast where I demonstrated its use. In P5, one of our motivations for refactoring all the Ajax helpers to be extension methods in their own namespace was to enable people to write their own helpers using JQuery.<br>I'd love to do it myself, but I imagine others out there will jump on this opportunity to supply the community with those helpers.</p>

@@ -1,0 +1,5 @@
+id: dsq-747527734
+date: 2009-01-18T16:14:58.0000000-08:00
+name: roboto
+avatar: https://disqus.com/api/users/avatars/roboto.jpg
+message: <p>As I had an implementation for this before, I adopted it to your StringLib to enter the 'competition' :)<br><a href="http://geekswithblogs.net/NotImpossible/archive/2009/01/19/named-format-strings.aspx" rel="nofollow noopener" title="http://geekswithblogs.net/NotImpossible/archive/2009/01/19/named-format-strings.aspx">http://geekswithblogs.net/NotImpossible/archive/2009/01/19/named-format-strings.aspx</a><br>What was interesting as well, is a comparison with old fashioned <code>string.Format("{0} {1}...")</code>.<br></p>

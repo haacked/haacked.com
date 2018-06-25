@@ -1,0 +1,5 @@
+id: dsq-747519772
+date: 2007-04-23T19:02:39.0000000-07:00
+name: Steven Harman
+avatar: https://disqus.com/api/users/avatars/stevenharman.jpg
+message: <p><strong>@Jon:</strong> I agree completely that a lot of the <em>sample code</em> has been heavily abused by many developers. And when it comes to the Membership providers being abused, I think it was a huge mistake on their part to build the SqlMembershipProvider in a way such that it automagically connects to, creates, and uses a SQL Server 2005 Express db.<br>IMO, this only leads to more abuse as it seems like <em>the standard way</em> to do things... I mean it works right out of the box. At least if the developer had set a connection string to get the SqlMembershipProvider to work they might realize that <br></p><blockquote>hey... there are other ways to do this!</blockquote><p><br><strong>@Phil:</strong> Just for the record... I wasn't <em>the member of the Subtext team</em> you were referring to, was I? And if I was, it's OK for you to call me out directly - peer pressure is a powerful motivator.<br>*prepares to hang head in shame... just in case*</p>

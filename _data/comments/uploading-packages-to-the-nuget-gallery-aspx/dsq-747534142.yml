@@ -1,0 +1,5 @@
+id: dsq-747534142
+date: 2011-01-11T22:48:38.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>For those of you having login problems, please read David's announcement. We currently are manually approving accounts during this pre-launch phase.<br>@Andrey we recommend package authors specify a license. I'm not sure if we require it. Is your suggestion that we require it? For now, you will need to hunt them down.<br>@Fernando port 80. It's all HTTP.<br>@Joel interesting. ;)</p>

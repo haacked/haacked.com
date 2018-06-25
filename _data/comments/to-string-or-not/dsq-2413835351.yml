@@ -1,0 +1,5 @@
+id: dsq-2413835351
+date: 2015-12-17T00:08:53.0000000-08:00
+name: Sotirios Mantziaris
+avatar: https://disqus.com/api/users/avatars/smantziaris.jpg
+message: <p>i could agree on String, but if we have a mix of int and Int32.Parse, Int32.MinValue in code, this i don't like. Obviously i would not write my int as Int32 in code to keep parity! Plus you have to add a using statement of System to your code. So for me it is string.Empty and int.MaxValue. My 2 cents</p>

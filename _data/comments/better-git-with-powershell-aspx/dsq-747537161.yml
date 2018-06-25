@@ -1,0 +1,5 @@
+id: dsq-747537161
+date: 2011-12-13T02:29:14.0000000-08:00
+name: Rasmus Christensen
+avatar: https://disqus.com/api/users/avatars/Rasmus Christensen.jpg
+message: <p>Well just ran both commands, but when I restart powershell and navigate to a GIT repository, there is no extra information. If I run a GIT status I get the information similar to using the GIT bash...any clue?</p>

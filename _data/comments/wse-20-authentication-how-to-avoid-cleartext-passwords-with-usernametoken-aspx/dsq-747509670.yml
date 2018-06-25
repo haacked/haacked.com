@@ -1,0 +1,5 @@
+id: dsq-747509670
+date: 2004-09-15T06:05:00.0000000-07:00
+name: Jagdeep
+avatar: https://disqus.com/api/users/avatars/Jagdeep.jpg
+message: <p>The downside to this approach is that the salt is sent across the wire in clear text. The slat is the missing link in the password puzzle, if this is guessed then games up. Does your approach need to compare the password with a value stored in the database? How will you compare the hash to a hash in the database? I may have missed something.<br><br><br><br>Regards<br><br>Jagdeep<br><br></p>

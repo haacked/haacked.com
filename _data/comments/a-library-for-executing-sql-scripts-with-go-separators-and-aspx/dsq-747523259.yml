@@ -1,0 +1,5 @@
+id: dsq-747523259
+date: 2007-11-04T23:13:59.0000000-08:00
+name: Rob Conery
+avatar: https://disqus.com/api/users/avatars/Rob Conery.jpg
+message: <p>Too funny - I just committed the code we use in the CSK to the SubSonic Query bits. There's a new static method that pulls in a .SQL file, and executes it by parsing out the GO statements (in a transaction no less). <br>Didn't I send you the memo? :).</p>

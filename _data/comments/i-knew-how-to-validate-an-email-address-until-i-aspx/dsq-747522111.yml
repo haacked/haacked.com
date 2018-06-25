@@ -1,0 +1,5 @@
+id: dsq-747522111
+date: 2009-02-19T11:34:14.0000000-08:00
+name: Alex Holland
+avatar: https://disqus.com/api/users/avatars/Alex Holland.jpg
+message: <p>I've been using your regex for sometime now to validate email addresses - it is the best I have encountered - thank you for putting<br>it out there.<br>However I just discovered that it seems to reject abc@q.com as invalid - is this intentional ?<br>I ask because there do appear to be email addresses in use where the<br>first part of the domain after the @ is a single letter.</p>

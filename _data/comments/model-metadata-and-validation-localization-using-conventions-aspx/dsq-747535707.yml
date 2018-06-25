@@ -1,0 +1,5 @@
+id: dsq-747535707
+date: 2011-07-28T13:07:56.0000000-07:00
+name: kvic
+avatar: https://disqus.com/api/users/avatars/kvic.jpg
+message: <p>I have been using data annotations and found you can group them to help with the noise they generate &lt;Required(),StringLength(50),Display(autogeneratefield:=False)&gt;</p>

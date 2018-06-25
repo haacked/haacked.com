@@ -1,0 +1,5 @@
+id: dsq-747537359
+date: 2012-10-30T11:09:32.0000000-07:00
+name: Chris F Carroll
+avatar: https://disqus.com/api/users/avatars/Chris F Carroll.jpg
+message: <p>Humbly disagree. <br>As at 2012, BDD and the Given When Then pattern looks like the better way forward for TDD.<br>That steers you towards aligning your tests not to classes and methods, but to requirements.<br>Given_a_male_knight_Titleizer_should_prefix_Sir_to_name<br>Given_a_female_knight_Titleizer_should_prefix_Dame_to_name<br>Which generates tests that can be shown to, and corrected by, and written in collaboration with, non-technical users. <br>And gives you traceability from requirements to code -- suddenly it's much easier to understand 2 years later why the code does X and not Y.<br>Which is not to disagree with the nested classes idea.</p>

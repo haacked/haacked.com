@@ -1,0 +1,5 @@
+id: dsq-747517102
+date: 2011-10-18T21:20:22.0000000-07:00
+name: Joshua Wright
+avatar: https://disqus.com/api/users/avatars/Joshua Wright.jpg
+message: <p>This method of remembering the CAPTCHA for validation can be susceptible to encryption oracle attacks, allowing an adversary to decrypt the CAPTCHA value without the key, and potentially create a page where the CAPTCHA value is crafted (CAPTCHA graffiti).</p>

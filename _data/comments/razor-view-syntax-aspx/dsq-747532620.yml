@@ -1,0 +1,5 @@
+id: dsq-747532620
+date: 2010-07-05T14:08:22.0000000-07:00
+name: Chris Airey
+avatar: https://disqus.com/api/users/avatars/Chris Airey.jpg
+message: "<p>Looks good. I have a question about HTML encoding, if @ automatically HTML encodes is there an alternative that won't encode? I think the # symbol would have been better as that's how you would do an automatic encode using &lt;%# %&gt;. None the less, I think Razor really simplifies writing code in views.</p>"

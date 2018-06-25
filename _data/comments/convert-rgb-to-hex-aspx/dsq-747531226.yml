@@ -1,0 +1,5 @@
+id: dsq-747531226
+date: 2010-02-11T00:59:46.0000000-08:00
+name: Gerbus
+avatar: https://disqus.com/api/users/avatars/Gerbus.jpg
+message: <p>"Cowboy" Ben's solution in original structure:<br><code>function RGBtoHex(rgb_color) {<br>    if (rgb_color.substr(0, 1) === '#') {<br>        return rgb_color;<br>    }<br>    var digits = /(.*?)rgb\((\d+), (\d+), (\d+)\)/.exec(rgb_color);<br>    <br>    var red = parseInt(digits[2]);<br>    var green = parseInt(digits[3]);<br>    var blue = parseInt(digits[4]);<br>    <br>    var hex = (red &lt;&lt; 16) | (green &lt;&lt; 8) | blue;<br>    return digits[1] + '#' + hex.toString(16);<br>}<br></code></p>

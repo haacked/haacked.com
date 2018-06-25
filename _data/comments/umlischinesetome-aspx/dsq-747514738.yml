@@ -1,0 +1,5 @@
+id: dsq-747514738
+date: 2006-04-15T00:08:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Right. UML seems divided into two paths. Either it is useful for high level architecture <em>sketches</em> in which case it needs to shed alot of weight.<br>Or it will become a language in and of itself (albeit a symbol based rather than text based), in which case it will grow immensely and become just another executable programming language.  <br>This would solve the round tripping problem, but introduce brand new issues.<br></p>

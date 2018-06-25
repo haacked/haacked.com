@@ -1,0 +1,5 @@
+id: dsq-747531015
+date: 2009-12-16T22:38:50.0000000-08:00
+name: Wayne Brantley
+avatar: https://disqus.com/api/users/avatars/Wayne Brantley.jpg
+message: <p>This code no longer compiles - so I guess no longer required.<br>&lt;% ViewContext.FormContext.ClientValidationFunction = "EnableClientValidation"; %&gt;<br>However, removing it makes client validation not work.  No source, no docs, not sure what to do.</p>

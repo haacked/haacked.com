@@ -1,0 +1,5 @@
+id: dsq-747525188
+date: 2008-05-11T02:29:14.0000000-07:00
+name: Andrew Davey
+avatar: https://disqus.com/api/users/avatars/Andrew Davey.jpg
+message: "<p>Thinking about composition led me to...<br>What about going back to having controller actions returning void? <br>The difference being that the RenderView method only queues on operation in the controller. This queue can be played back by the MVC framework to generate output later. It can still be tested easily as well. Just expose an ResultOperations property for example.<br>The controller methods will look cleaner without the \"ActionResult\" type and the \"return\". This is good! \"return RenderBlah(...);\" doesn't read very well IMO.<br>P.S. An extra piece of testing syntax magic. The above technique allows for: Assert.That(controller.DidRenderView(\"Index\"))<br>By using an extension method that looks at the ResultOperations queue. :D</p>"

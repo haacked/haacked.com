@@ -1,0 +1,5 @@
+id: dsq-747525710
+date: 2008-07-11T05:54:28.0000000-07:00
+name: Michael Morton
+avatar: https://disqus.com/api/users/avatars/Michael Morton.jpg
+message: "<p>@GuyIncognito: No, if someone coded a site with an authentication \"bypass\" based upon the IP, chances are (and I've seen this before) they did it so that users internal to the company can access the site without authentication.  Taking into account that there is a limited number of private IP ranges (10.x, 172.16.x, 192.168.x), and making a reasonable assumption that the developer of this site coded it to allow ranges of these private IPs, you would probably only have to try a handful of IPs before finding one that would work.<br>In any case, the best way to be secure is to not make any assumptions about the safety or validity of any input to your application, no matter where it comes from.  Trust no one.</p>"

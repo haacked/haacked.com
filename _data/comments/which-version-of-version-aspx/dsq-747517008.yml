@@ -1,0 +1,5 @@
+id: dsq-747517008
+date: 2006-09-28T20:56:16.0000000-07:00
+name: Mike Bouck
+avatar: https://disqus.com/api/users/avatars/Mike Bouck.jpg
+message: <p>Joshua, the way we get around that one is we use "0" to represent the project's "starting year".  You then increment your starting year in subsequent years by the first digit in the revision number.  So we might have:<br>1.0.0929.3 (3rd build of 1.0 built on 09/29/06).<br>1.0.10101.2 (2nd build of 1.0 built on 01/01/07).<br>Granted, this only buys you about 6 or so years worth of builds but that is a lifetime in most cases and hopefully Microsoft has fixed this issue by then!  The other thing this scheme buys you is an always increasing revision number which becomes important for things like ClickOnce.</p>

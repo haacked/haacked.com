@@ -1,0 +1,5 @@
+id: dsq-747534745
+date: 2011-05-10T22:18:45.0000000-07:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>You are missing a step to add the dependency on Microsoft.Web.Infrastructure, and that is not a NuGet package :(</p>

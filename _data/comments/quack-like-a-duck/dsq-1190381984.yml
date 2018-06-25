@@ -1,0 +1,5 @@
+id: dsq-1190381984
+date: 2014-01-07T04:26:27.0000000-08:00
+name: Richard Gibson
+avatar: https://disqus.com/api/users/avatars/Richard Gibson.jpg
+message: "<p>Typescript has my absolute favourite implementation of structural typing. Look at this example, it covers the same example you gave and is compile-safe:</p><p>function func(arg: { quack(): any })<br>{<br>  var sound = arg.quack()<br>  alert((/quack quack/).test(sound).toString())<br>}</p><p>class Duck<br>{<br>  quack()<br>  {<br>    return \"quacketty quack quack\"<br>  }<br>}</p><p>class Scientist<br>{<br>  quack()<br>  {<br>    return new PseudoScience()<br>  }<br>}</p><p>class PseudoScience { }</p><p>func(new Duck())</p><p>Not only that, but you can enforce the return type too, as you requested by changing the signature of the main method from <br>function func(arg: { quack(): any })<br>to <br>function func(arg: { quack(): string }).</p><p>I think it's beautiful.</p>"

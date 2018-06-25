@@ -1,0 +1,5 @@
+id: dsq-747525255
+date: 2008-06-04T03:03:16.0000000-07:00
+name: Oskar Austegard
+avatar: https://disqus.com/api/users/avatars/Oskar Austegard.jpg
+message: <p>Are you aware of any best practices/white paper/blog post about how to best integrate a webforms and mvc application - or how to migrate from webforms to mvc?  <br>Matt Hawley talks about his experiences with migrating CodePlex in his post <a href="http://blog.eworldui.net/post/2008/05/ASPNET-MVC---Living-in-a-Web-Forms-World.aspx" rel="nofollow noopener" title="http://blog.eworldui.net/post/2008/05/ASPNET-MVC---Living-in-a-Web-Forms-World.aspx">ASP.NET MVC - Living in a Web Forms World</a>, but the gyrations they go through strike me as overly complex - as he says himself:<br></p><blockquote><br>...if at all possible SPIKE! Yes, spike your master pages so that you can have a Web Forms master page AND a MVC master page. By doing this, you do not have to follow the single form pattern thus negating almost all this post.<br></blockquote><p><br>Is this indeed the recommended approach?</p>

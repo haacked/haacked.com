@@ -1,0 +1,5 @@
+id: dsq-747530656
+date: 2012-11-14T20:20:28.0000000-08:00
+name: safipeti
+avatar: https://disqus.com/api/users/avatars/safipeti.jpg
+message: <p>Hey, Nice post, that's exactly I was looking for!<br>Just one thing, in Razor, if you attempt to use like this:<br>@Html.RenderAction("SideCategories", "Category") <br>it throws an exception, stating that you have used inproper overload, however, (actionName, controllerName) overload is allowed.<br>But, if you compose like this:<br>@{Html.RenderAction("SideCategories", "Category");}<br>It works as expected!<br>Thanks again!<br></p>

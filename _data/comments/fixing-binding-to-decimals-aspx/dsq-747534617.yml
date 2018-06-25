@@ -1,0 +1,5 @@
+id: dsq-747534617
+date: 2011-03-19T02:53:01.0000000-07:00
+name: Guillaume
+avatar: https://disqus.com/api/users/avatars/Guillaume.jpg
+message: <p>Thank you for your sample !<br>This work great for server side binding but what about client side validation when typing format like "1 234 567,55" ? it just doesn't work out of the box and it is really painfull.<br>do you have a "state of the art" workaround for this too ? we implement something but I'm quite unhappy with it.</p>

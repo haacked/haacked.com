@@ -1,0 +1,5 @@
+id: dsq-747533481
+date: 2010-11-08T21:56:53.0000000-08:00
+name: Craig Stuntz
+avatar: https://disqus.com/api/users/avatars/Craig Stuntz.jpg
+message: <p><code>ControllerSessionStateAttribute</code> seems interesting/useful. Is it limited (as the name implies) only to the controller/class level, and not the action/request level? Would be nice to specify some actions as read-only and others as read-write.<br>Could have used <code>@Html.LabelFor(m =&gt; m.PropertyName,<br>"Label Text");</code> yesterday... :)</p>

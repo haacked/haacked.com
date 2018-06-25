@@ -1,0 +1,5 @@
+id: dsq-747525191
+date: 2008-05-11T06:39:05.0000000-07:00
+name: Dragan Panjkov
+avatar: https://disqus.com/api/users/avatars/Dragan Panjkov.jpg
+message: "<p>Even with this release I keep receiving error regarding assembly not signed or something like that...<br>Could not load file or assembly 'System.Web.Mvc' or one of its dependencies. Strong name signature could not be verified.  The assembly may have been tampered with, or it was delay signed but not fully signed with the correct private key. (Exception from HRESULT: 0x80131045)<br></p>"

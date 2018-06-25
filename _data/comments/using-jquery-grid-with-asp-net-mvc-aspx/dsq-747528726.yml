@@ -1,0 +1,5 @@
+id: dsq-747528726
+date: 2010-06-15T07:05:00.0000000-07:00
+name: Manuel Castro
+avatar: https://disqus.com/api/users/avatars/Manuel Castro.jpg
+message: "<p>You can create a link to your edit / delete actions with a custom formatter for the column, in you colModel define the name of the custom function:<br>[code]<br>{ name: 'EquiptmentID', index: 'EquiptmentID', width: 80, formatter: linkEdit },<br>[/code]<br>And later in your javascript code create the action link:<br>[code]<br>function linkEdit(cellvalue, options, rowObject) {<br>    return \"<a href=\"/Equipment/Edit/\" rel=\"nofollow noopener\" title=\"/Equipment/Edit/\">\" + cellvalue + \"</a>\";<br>}<br>[/code]<br></p>"

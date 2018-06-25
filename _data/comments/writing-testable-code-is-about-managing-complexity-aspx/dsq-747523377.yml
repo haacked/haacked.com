@@ -1,0 +1,5 @@
+id: dsq-747523377
+date: 2007-11-15T18:54:22.0000000-08:00
+name: Vitaly Gorn
+avatar: https://disqus.com/api/users/avatars/Vitaly Gorn.jpg
+message: <p>Good post, Phil! However, IMHO testability does not affects complexity. Complexity is solved by employing good OOD. In fact you are making things more complex yourself in this post. TDD is for testability and, thus, for finding mistakes in your code. OOD is for broad range of good things and managing complexity is one of them.<br>Also, in order to support TDD code sometimes becomes more complex. Sometimes. Isn't it?</p>

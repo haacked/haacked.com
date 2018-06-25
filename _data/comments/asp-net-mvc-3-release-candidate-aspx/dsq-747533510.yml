@@ -1,0 +1,5 @@
+id: dsq-747533510
+date: 2010-11-09T16:22:19.0000000-08:00
+name: Artiom Chi
+avatar: https://disqus.com/api/users/avatars/Artiom Chi.jpg
+message: <p>@CubanX, @BluCoder<br>Hey guys, I think I found the issue.. You have to uninstall the MVC 3 and Web Pages from your machine, but one thing I missed is the NuPack. The Beta 1 installer also installed it, and it has since been renamed to NuGet. Once I uninstalled NuPack, I managed to install the hotpatch without a hitch ^_^</p>

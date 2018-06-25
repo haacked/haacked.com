@@ -1,0 +1,6 @@
+id: dsq-1758204038
+replyToId: dsq-1757302190
+date: 2014-12-24T15:04:09.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>-r is a shorthand for --no-run-if-empty. Try that instead?</p>

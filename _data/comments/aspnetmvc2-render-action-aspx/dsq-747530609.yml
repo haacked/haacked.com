@@ -1,0 +1,5 @@
+id: dsq-747530609
+date: 2009-11-18T09:02:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@asper, we do have <code>Html.Partial</code> now. Use Render***(...) if you're rendering a large subview. It's more efficient.<br>Use Html.Action or Html.Partial if it's important to you to have a string returned (for unit test purpose or if your view engine doesn't support the Render*** methods.</p>

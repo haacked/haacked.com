@@ -1,0 +1,5 @@
+id: dsq-747525107
+date: 2008-09-27T07:34:28.0000000-07:00
+name: Agus Suhanto
+avatar: https://disqus.com/api/users/avatars/Agus Suhanto.jpg
+message: <p>Nick was right. Notice that in original code, route variable is not used within iteration block. And if we use this.routes instead of route local variable, the matching route count can be more than 1, but all are the same.</p>

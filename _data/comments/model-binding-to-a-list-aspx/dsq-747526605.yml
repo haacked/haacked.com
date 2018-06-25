@@ -1,0 +1,5 @@
+id: dsq-747526605
+date: 2010-08-31T21:14:32.0000000-07:00
+name: Cory Fowler
+avatar: https://disqus.com/api/users/avatars/Cory Fowler.jpg
+message: "<p>I'm trying to get this scenario to work using jQuery.</p><p><br></p><p>I'm using <em>$('#myForm').serialize();</em> to serialize the form which is formatting the values like this <em>'ints=1&amp;ints=4&amp;ints=2&amp;ints=8'</em>.</p><p><br></p><p>To perform the asynchronous action I am using jQuery.ajax ($.ajax) which looks like this:</p><p><br><code><br>$.ajax({<br>        type: 'GET', // I'm retrieving a list of values for update.<br>        cache: false,<br>        url: url,<br>        dataType: 'json',<br>        data: $('#myForm').serialize(),<br>        success: MarkSelectedCheckboxes(data)<br>    });<br></code><br></p><p>the signature for my controller action looks like this:</p><p><br><code><br>public ActionResult GetCurrentlyCheckedBoxes(ICollection&lt;string&gt; checkBoxesInView, ICollection&lt;string&gt; CheckedBoxesInView, string RecordIdentifier)<br></code><br></p><p>I don't seem to be getting the results back in an expected manner. Any thoughts? Thanks in Advance.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747535935
+date: 2011-08-16T21:03:39.0000000-07:00
+name: Quentin
+avatar: https://disqus.com/api/users/avatars/Quentin.jpg
+message: <p>A while ago I ran into a promising string formatting library for .Net, SmartFormat.  <br><a href="https://github.com/scottrippey/SmartFormat/wiki" rel="nofollow noopener" title="https://github.com/scottrippey/SmartFormat/wiki">https://github.com/scottrippey/SmartFormat/wiki</a>  <br>(originally <a href="http://www.codeproject.com/KB/string/Custom_Formatting.aspx" rel="nofollow noopener" title="http://www.codeproject.com/KB/string/Custom_Formatting.aspx">www.codeproject.com/.../Custom_Formatting.aspx</a>)<br>It has functionality built in for pluralizing, or rather conditionally formatting based on a count.<br>It also tests as one of the fastest string formatting libraries available for .Net.</p>

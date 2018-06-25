@@ -1,0 +1,5 @@
+id: dsq-747530799
+date: 2010-09-29T20:46:17.0000000-07:00
+name: Dirk Rombauts
+avatar: https://disqus.com/api/users/avatars/Dirk Rombauts.jpg
+message: "<p>Hi,</p><p><br></p><p>Thanks for this excellent template.  I've been busy \"upgrading\" my css files to less files.</p><p><br></p><p>When I try to import a file however, I get a FileNotFoundException: could not find file - and then follows the path to the VS IDE, followed by the name of the file I try to import. </p><p><br></p><p>Obviously, the template is looking in the wrong place for import files.  Is there a fast way of fixing this? Thanks!</p><p><br></p>"

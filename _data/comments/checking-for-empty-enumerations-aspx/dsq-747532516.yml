@@ -1,0 +1,5 @@
+id: dsq-747532516
+date: 2010-06-13T06:44:52.0000000-07:00
+name: James Michael Hare
+avatar: https://disqus.com/api/users/avatars/James Michael Hare.jpg
+message: "<p>@Paulo: An interesting point although you'd think if the designer were coding an extension method for a class under their control they would have just modified the original class.  <br>Like I said, 99% of the time, I agree that an extension behaving safely on a null creates some interesting design issues.  It is curious, though, that with MS recommending that extension methods should behave like real methods that they didn't put an implicit NullReferenceException if the target \"this\" instance was null.<br>It's like they allow for it syntactically but then say you shouldn't quite do it.  Kinda mixed signals.</p>"

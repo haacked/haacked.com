@@ -1,0 +1,5 @@
+id: dsq-747517727
+date: 2006-11-21T22:10:58.0000000-08:00
+name: Gabe
+avatar: https://disqus.com/api/users/avatars/Gabe.jpg
+message: <p>I suppose it depends on the implementation of <b>join</b>, but it's pretty much always going to be faster than StringBuilder and concatentation (at least for large arrays).<br>Concatenation is O(n^2) because it has to copy the whole string it's created thus far every time something is added to it. StringBuilder is O(n*lg(n)) because it has to copy the whole string every time its size doubles. However, String.Join should be O(n) because it can walk the array to determine the size of string it needs to create, allocate it once, and copy each string into its correct location exactly once.</p>

@@ -1,0 +1,5 @@
+id: dsq-747522215
+date: 2007-08-26T23:50:32.0000000-07:00
+name: Ryan Smith
+avatar: https://disqus.com/api/users/avatars/Ryan Smith.jpg
+message: <p>I have a lot of clients that want to make every field on the contact form required.  I always argue against this (and loose) because I feel you should make it as easy as possible for the customer to get in touch with you.  If they don't want to provide their phone number is that really a reason not to have them contact you at all?<br>Also, for US phone numbers, the validation logic is so simple to allow multiple formats, it's amazing this is almost always screwed up.<br><a href="http://www.dynamicajax.com/fr/Validating_Phone_Numbers_With_JavaScript-197_219_231_330.html" rel="nofollow noopener" title="http://www.dynamicajax.com/fr/Validating_Phone_Numbers_With_JavaScript-197_219_231_330.html">http://www.dynamicajax.com/...</a><br>Good post though.  I think JavaScript really needs to come back to  usability improvement rather than something you can do "Neat Things" with.</p>

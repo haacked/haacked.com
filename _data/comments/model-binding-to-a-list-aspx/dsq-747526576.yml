@@ -1,0 +1,5 @@
+id: dsq-747526576
+date: 2009-01-13T16:16:34.0000000-08:00
+name: Jonas
+avatar: https://disqus.com/api/users/avatars/Jonas.jpg
+message: <p>Hi,<br>Very nice but I can't get the Action to return the class I specified, even though the data is available in the Request.Form collection, and also accessible if I use following method signature:<br>   public ActionResult Edit(FormCollection items)<br>I would like it to look like this but then items returns null.<br>   public ActionResult Edit(IList&lt;MyItems&gt; items)<br>Any suggestions?<br>Brgds<br>Jonas<br></p>

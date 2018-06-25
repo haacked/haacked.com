@@ -1,0 +1,5 @@
+id: dsq-747517115
+date: 2006-10-03T22:48:37.0000000-07:00
+name: Alexander Gro&#223;
+avatar: https://disqus.com/api/users/avatars/Alexander Gro&#223;.jpg
+message: <p>I also found the <code><a href="http://msdn2.microsoft.com/en-us/library/x810d419.aspx" rel="nofollow noopener" title="http://msdn2.microsoft.com/en-us/library/x810d419.aspx">DebuggerDisplayAttribute</a> </code> very useful as one doesn't have to override the <code>ToString()</code> method to display summaries of the actual object being watched.</p>

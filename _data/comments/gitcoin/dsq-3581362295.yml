@@ -1,0 +1,6 @@
+id: dsq-3581362295
+replyToId: dsq-3581297615
+date: 2017-10-23T14:57:15.0000000-07:00
+name: Jean-Jacques Lafay
+avatar: https://disqus.com/api/users/avatars/jeanjacqueslafay.jpg
+message: <p>Well the first part is still correct (better even, the smallest sha1 is definitely the one with the most leading 0 bits), for the second I might replace the grep + sed with</p><p>perl -ne 's/(\S+)/sprintf("%0160b", hex $1)/e; print if s/^(0+)/$1\t$1/'</p><p>I never use awk or sed since I know a bit of perl, which is a strict superset of both, so I never bothered learning them...</p>

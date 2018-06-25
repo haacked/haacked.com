@@ -1,0 +1,5 @@
+id: dsq-1342881622
+date: 2014-04-17T08:00:21.0000000-07:00
+name: Max Battcher
+avatar: https://disqus.com/api/users/avatars/WorldMaker.jpg
+message: <p>Visual Studio itself seems to have a complicated *proj merge built-in. I've wondered about its heuristics before and how it mostly avoids this issue. I think it does have something like you ponder of some file-specific techniques. It is part of why I tend to only use VS for git merges of VS projects.<br>It's interesting too because I've seen (and battled) TFS repositories where those same file-specific merge tooling stopped working mysteriously and left these issues in TFS merges as well. That Team Project almost needed to be nuked from orbit given how bad merging was getting in it. (Lots of baseless merges super early in its history were I presume the origins of those issues, but I'm not sure.)</p>

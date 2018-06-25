@@ -1,0 +1,5 @@
+id: dsq-747527214
+date: 2008-12-02T13:29:33.0000000-08:00
+name: prabhjot singh
+avatar: https://disqus.com/api/users/avatars/prabhjot singh.jpg
+message: <p>Sir, i have used this method, but i am facing scalability problem, i want to use the 404 approach of extension less routing. i have implemented everything i.e. i have written the required code for 404 in the global file and changed the IIS6 settings at the time of deployment. but it is still throwing the " Resource cannot be found" error. <br>what should i do??<br>Regards <br>Prabhjot Singh</p>

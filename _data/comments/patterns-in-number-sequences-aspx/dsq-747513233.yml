@@ -1,0 +1,5 @@
+id: dsq-747513233
+date: 2005-10-20T11:48:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yeah, that's the Triangular number series. If you write the series like so...<br><br><br><br>f(0) = 0<br><br>f(1) = 1<br><br>f(2) = 1 + 2 = 3<br><br>f(3) = 1 + 2 + 3 = 6<br><br>f(4) = 1 + 2 + 3 + 4 = 10<br><br>.<br><br>.<br><br>.<br><br>f(n) = n + (n-1) + (n-2) + ... + 1 = n(n + 1)/2<br><br><br><br>You see the pattern more clearly<br><br><br><br>f(n) = the sum of all numbers n and below.<br><br><br><br>There's a story about Gauss when he was a child, he was told to add the numbers from 1 to 100 to keep him busy. But he found the answer in a very short time. He discovered that if you paired the numbers, you could simply multiply them together.<br><br><br><br>1 + 100<br><br>2 + 99<br><br>3 + 98<br><br>...<br><br>50 + 51<br><br>= 50 * 101<br><br>= 5050<br><br><br><br>The general formula is thus...<br><br>f(n) = n(n + 1)/2</p>

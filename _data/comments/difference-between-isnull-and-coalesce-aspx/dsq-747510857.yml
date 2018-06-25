@@ -1,0 +1,5 @@
+id: dsq-747510857
+date: 2007-06-12T14:37:47.0000000-07:00
+name: chis
+avatar: https://disqus.com/api/users/avatars/chis.jpg
+message: <p>what will happen if this is the case:<br>TABLE-1<br>BRANCH   CHAR(5)       - NOT NULL WITH DEFAULT<br>         AMOUNT   DECIMAL(15,2) - NOT NULL WITH DEFAULT<br>SELECT BRANCH, COALESCE (AMOUNT, 0)<br>FROM TABLE-1<br>What will be the output? when it is not null, it will show the value of the amount, right. But let us assume that the amount is null, will the value be 0 (zero)?</p>

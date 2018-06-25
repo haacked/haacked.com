@@ -1,0 +1,5 @@
+id: dsq-747511920
+date: 2005-06-06T03:46:00.0000000-07:00
+name: Shawn B.
+avatar: https://disqus.com/api/users/avatars/Shawn B..jpg
+message: <p>Recent I received one from PayPal of a similar (but slightly different nature).  Every link went to the correct place.  But something kept disturbing me about it.  Hover the link?  Correct PayPal URL (no spoofing).  Peek at the HTML... same thing.  Then it hit me, the action attribute of the Form tag in the email pointed to a non-PayPal domain and very sneaky.  There was a "Click Here" button to go to the login page if you wanted it.<br><br><br><br>Thanks,<br><br>Shawn B.</p>

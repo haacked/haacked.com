@@ -1,0 +1,5 @@
+id: dsq-747525600
+date: 2008-06-25T13:33:35.0000000-07:00
+name: Boersnoes
+avatar: https://disqus.com/api/users/avatars/Boersnoes.jpg
+message: <p>I vote Content folder. But at the same time, I feel some descent support should be provided out of the box to easely access this static content.<br>When you start using user controlls that don't know where they will be rendered in the file hierarchy on compile time, it is somewhat bothersome to reference the content folder (how many "../../" should I put?)<br>Currently I use a custom extention to the HTMLHelper I derived from a podcast (I think Rob's) that gives me a Html.CssUrl(cssName), a Html.PictureUrl(picName), a Html.JavaScriptUrl(jsUrl) etc.</p>

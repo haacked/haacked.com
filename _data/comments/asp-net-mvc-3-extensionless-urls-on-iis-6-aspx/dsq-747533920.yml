@@ -1,0 +1,5 @@
+id: dsq-747533920
+date: 2010-12-22T04:35:49.0000000-08:00
+name: Nicholas Piasecki
+avatar: https://disqus.com/api/users/avatars/Nicholas Piasecki.jpg
+message: <p>It is neat, to be sure, but I wish it had been better advertised -- I lost many hours figuring out why our sites were dishing our 404s after moving from .NET 2 to 4, and it was because that new filter functionality broke ISAPI-based URL rewriters like IIRF (because if installed at the site level, the rewriters would "see" the mangled /eurl.axd URL, which the rewrite rules were not written to expect). There's more discussion about it here:<br><a href="http://stackoverflow.com/questions/3086066/asp-net-mvc-eurl-axd-errors/3327031#3327031" rel="nofollow noopener" title="http://stackoverflow.com/questions/3086066/asp-net-mvc-eurl-axd-errors/3327031#3327031">stackoverflow.com/.../3327031#3327031</a><br>(Don't meant to a Debbie Downer -- I *love* the initiative to make things simpler, especially since a lot of us are stuck on 2K3 for the time being -- but it really did break a common use case!)</p>

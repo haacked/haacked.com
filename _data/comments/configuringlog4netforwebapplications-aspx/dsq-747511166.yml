@@ -1,0 +1,5 @@
+id: dsq-747511166
+date: 2007-07-05T18:14:47.0000000-07:00
+name: Imtiyaz
+avatar: https://disqus.com/api/users/avatars/Imtiyaz.jpg
+message: <p>I have a ASP.NET 2.0 project in which i have used Log4net 1.2.9.0 configured it through Log4Net.config Files, i have tried to debug, it works fine if i configured my project to use "ASP.NET Development Server", but it did not log any thing if i configured my project to use "IIS Web Server".<br>In Application_Start event of Global.ASAX <br>i had put below code.<br>log4net.Config.XmlConfigurator.Configure(new FileInfo(HttpContext.Current.Server.MapPath(Exact Path)));</p>

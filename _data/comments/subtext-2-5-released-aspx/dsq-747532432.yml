@@ -1,0 +1,5 @@
+id: dsq-747532432
+date: 2010-07-01T18:45:07.0000000-07:00
+name: HJ
+avatar: https://disqus.com/api/users/avatars/HJ.jpg
+message: <p>The upgrade to 2.5 causes the following problems:<br>- The connection string is deleted.<br>- The Hostadmin/Upgrade directory is inside a new 'aspx' subdirectory; and then the &lt;url&gt;/Hostadmin/Upgrade part for the database upgrade does not work.<br>So, how can I perform the upgrade?</p>

@@ -1,0 +1,5 @@
+id: dsq-747534775
+date: 2011-04-07T15:57:50.0000000-07:00
+name: Constantinos
+avatar: https://disqus.com/api/users/avatars/Constantinos.jpg
+message: <p>I have used NuGet recently in a MVC 3 solution and it seemed to work well with the latest TFS. When a new package was downloaded everything seemed fine.<br>The weird stuff happens when the solution already has a version of some bit or piece of a package shipped with the template. Say MVC 3 Web Application has jquery.Validate.js which don’t work well with jquery &gt; 1.5.x.<br>In this case the new package that supports jquery 1.5.1 downloads and seems to be installed but actually the old version remains in the solution.<br>Without manual intervention this cannot be fixed.<br>Maybe the default Template of MVC 3 should be altered to better support upgrades through NuGet<br></p>

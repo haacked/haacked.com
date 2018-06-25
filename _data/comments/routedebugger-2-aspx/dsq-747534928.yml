@@ -1,0 +1,5 @@
+id: dsq-747534928
+date: 2011-07-07T19:15:04.0000000-07:00
+name: Neil Knight
+avatar: https://disqus.com/api/users/avatars/Neil Knight.jpg
+message: <p>I have the same problem as Carlos.  I have disabled the RouteDebugger in the web.config file, but all of my Javascript files break because it is inserting the CSS for the RouteDebugger.  Any ideas on how to fix this?  I've tried to remove the RouteDebugger and all references to it, but I still get the CSS in the Javascript files.</p>

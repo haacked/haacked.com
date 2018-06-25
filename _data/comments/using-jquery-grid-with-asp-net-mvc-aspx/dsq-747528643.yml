@@ -1,0 +1,5 @@
+id: dsq-747528643
+date: 2009-04-15T19:27:00.0000000-07:00
+name: Chris
+avatar: https://disqus.com/api/users/avatars/Chris.jpg
+message: <p>Hey Phil,<br>Do you ever run into an issue where you add certain js files from jQuery and intellisense ($ &amp;&amp; jQuery) go away?  I've noticed this with sometimes the order of the js files or which ones I include, and in this case, included exactly the ones you have, but not getting intellisense for anything.<br>Ideas?</p>

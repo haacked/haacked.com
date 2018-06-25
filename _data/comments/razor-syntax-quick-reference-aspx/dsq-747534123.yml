@@ -1,0 +1,5 @@
+id: dsq-747534123
+date: 2012-09-24T12:39:08.0000000-07:00
+name: Divya
+avatar: https://disqus.com/api/users/avatars/Divya.jpg
+message: <p>Hello Phil,<br>Thanks for useful reference.  I am still confused with whether i should use Html Helper or Plain HTML.<br>My Question<br>------------<br>1) A lot of people (even novices) know how to read HTML. The HTML Helper syntax can confuse easily.<br>2) In many cases you need to do more typing writing an HTML 'helper', then you need to write the actual HTML.<br>3) The HTML Helper is going to spew real HTML anyway, so why not write HTML directly?<br>4) Writing HTML gives you more control over the syntax, and the standards. You can make it conform to whatever HTML standard you want.<br>5) Good way to use Razor syntax with Knockout.js and JQuery<br>Are there any special compelling reasons that I have not understood (since I am self-educated in MVC and there could be gaps) that should make me want to prefer HTML Helpers?<br>Or are they just code noise?</p>

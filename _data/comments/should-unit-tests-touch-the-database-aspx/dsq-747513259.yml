@@ -1,0 +1,5 @@
+id: dsq-747513259
+date: 2009-03-29T23:05:20.0000000-07:00
+name: Abhijeet P
+avatar: https://disqus.com/api/users/avatars/Abhijeet P.jpg
+message: <p>In the case of using the ADO.NET Entity Framework, it seems to me that you don't have much of a choice besides connecting to a real DB to unsure that your implementations sitting on top of the entity framework are working as expected. Entity Framework does not support POCO and its not trivial to have mock object working with using an ObjectContext which performs change tracking.<br>What I'd love to see(and Phil mentions this as well) is the no touch deployment where in the database is created as part of the test setup and  dropped as part of the test teardown.<br>I'm using the Microsoft test framework that ships as part of Visual Studio 2008. Is there a way to achieve this out of the box or would I need to call out to an external script for the DB creation and drop as part of setup and teardown?<br></p>

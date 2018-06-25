@@ -1,0 +1,5 @@
+id: dsq-747510896
+date: 2005-02-04T09:35:00.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Another benefit I might add is that unlike other methods for subscribing, this one doesn't require a subscription dialog popping up (an extra step) because it obtains the name of the feed automatically and it knows the category for the feed as it is the destination of the drop operation.</p>

@@ -1,0 +1,5 @@
+id: dsq-747537355
+date: 2012-03-30T00:45:48.0000000-07:00
+name: Ramsay
+avatar: https://disqus.com/api/users/avatars/Ramsay.jpg
+message: <p>I've always wondered how other c# programmers would structure their unit tests. I sorta structure mines like yours, but I rather not use keywords such as 'method' for the test method names - I know by your programming skills that you won't do that in RL applications -, althought I think it fits very well in your example.<br>Thanks for the tips, really insightful!</p>

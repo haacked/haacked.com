@@ -1,0 +1,6 @@
+id: dsq-1118386055
+replyToId: dsq-1117976850
+date: 2013-11-11T10:38:18.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>&gt; but to offer up the opinion that conditions make code inherently worse, and that they should be optimised away is surely not right?</p><p>I never said that. We're talking about branching control structures. Not conditionals.</p><p>For example, I have no problems with ternary operators.</p><p>```<br>var foo = someCondition ? value1 : value2;<br>```</p><p>That's a conditional, but it returns a value rather than creating a branch in the code execution.</p><p>Also, despite the sensationalistic title, I don't advocate for the death of all \"if\" statements. I'm just advocating more discretion in using \"if\" for branching control.</p>"

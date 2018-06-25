@@ -1,0 +1,5 @@
+id: dsq-747536443
+date: 2011-11-02T03:45:31.0000000-07:00
+name: Adam Anderly
+avatar: https://disqus.com/api/users/avatars/adamanderly.jpg
+message: <p>I've been fighting with both MessageHandlers (which Glenn mentions as a good tool for security) and OperationHandlers for authentication.<br>I'm really missing the simplicity of MVC Action Filters and how simple it is to create an Authorization action filter.<br>What I'd really like to see is the ability to do some sort of request intercepting/filtering as easily as I can add action filters to Mvc.<br>Then, be able to register them per operation (like I can per action) or per Api (like I can per Controller) or globally for all Apis Mvc Global Filters.<br>Please find a way! I'm debating between using Mvc3 and WebApi right now for creating a new web api and I really wish it was a slam-dunk decision to go with WebApi, but so far it's not.<br>Cheers,<br>Adam</p>

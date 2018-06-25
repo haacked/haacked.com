@@ -1,0 +1,5 @@
+id: dsq-1189444821
+date: 2014-01-06T11:36:29.0000000-08:00
+name: Rasmus Schultz
+avatar: https://disqus.com/api/users/avatars/rasmusschultz.jpg
+message: <p>You should have a look at interfaces in Go:</p><p><a href="http://golang.org/doc/effective_go.html#interfaces_and_types" rel="nofollow noopener" title="http://golang.org/doc/effective_go.html#interfaces_and_types">http://golang.org/doc/effec...</a></p><p>It's duck-typing, but (IMO) finally done right - other languages, as you pointed out, use something that should accurately be described as "duck-like behavior", but no actual "types", hence not really duck "typing" as such.</p><p>As you explained, they're doing assertions along the lines of "does it quack?", where "real" duck-typing ought to be asking "is it a duck?".</p><p>Go's type system does that.</p>

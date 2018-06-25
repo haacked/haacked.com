@@ -1,0 +1,5 @@
+id: dsq-747519387
+date: 2007-03-24T06:02:25.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Well Damien, since I'm already storing HTML in the database, what would be the problem with that?<br>For example, I'm not storing the image when I write a blog post, I store the &lt;img /&gt; tag.<br>As long as my blog posts are XHTML, it shouldn't be a problem as I'm already separating content with presentation. I can always perform a transformation on the content should I need to.</p>

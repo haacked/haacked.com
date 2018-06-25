@@ -1,0 +1,6 @@
+id: dsq-3005204159
+replyToId: dsq-2956808865
+date: 2016-11-16T09:13:24.0000000-08:00
+name: ZorgoZ
+avatar: https://disqus.com/api/users/avatars/zorgoz.jpg
+message: <p>I don't think that interpolation makes this approach obsolote as it is a compile time syntactic sugar as far as I know. You can not construct on the fly the string behing the $ sign. You can expand a string constant only, not one in a variable.</p><p>On the other hand it looks like some of the standard formatting elements can't be reproduced with the methods presented here. Fist of all, elignment.</p>

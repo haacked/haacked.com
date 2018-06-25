@@ -1,0 +1,5 @@
+id: dsq-747522135
+date: 2010-07-13T17:22:35.0000000-07:00
+name: Matthew Fedak
+avatar: https://disqus.com/api/users/avatars/Matthew Fedak.jpg
+message: <p>I never really rely on the RFC email standards that much, I set the field to varchar(255) in my mysql db and then just use a simple validate email regex i found for php on the web. If people have weird punctuation in their email thats their problem. Their probably arkward people in general who you wouldn't want as customers in your online shop anyhow. I guess having said that though, it does give them another reason to be arkward about there email being refused.</p>

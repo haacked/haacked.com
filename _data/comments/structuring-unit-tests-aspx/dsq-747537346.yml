@@ -1,0 +1,5 @@
+id: dsq-747537346
+date: 2012-01-15T15:42:11.0000000-08:00
+name: Zak David
+avatar: https://disqus.com/api/users/avatars/Zak David.jpg
+message: "<p>Interesting idea but I'm concerned that tying your tests and your code so closely will prove to be a pain when you refactor (e.g. rename a production method and you need to rename tests).<br>I prefer to be a bit looser with this: name my tests to describe what they test instead of tying them to a method name and use the test group feature offered by TestNG (Java) to group my tests logically:<br>    @Test(groups = { \"front-end\", \"slow\", \"servlet\" }<br>    public void loginShouldWork() { ... }<br>This method will be run if I run the group \"front-end\" but it will be skipped if I only want to run fast tests.<br>TestNG: <a href=\"http://testng.org\" rel=\"nofollow noopener\" title=\"http://testng.org\">http://testng.org</a><br></p>"

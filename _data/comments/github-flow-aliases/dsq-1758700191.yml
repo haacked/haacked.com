@@ -1,0 +1,6 @@
+id: dsq-1758700191
+replyToId: dsq-1758204038
+date: 2014-12-25T06:44:01.0000000-08:00
+name: Avi Haiat
+avatar: https://disqus.com/api/users/avatars/thaiat.jpg
+message: <p>not working either, this option is a GNU extension that does not exist on Mac, i removed it from the bclean alias, and that seems a good enough workaround, let me know what you think.</p>

@@ -1,0 +1,5 @@
+id: dsq-975699582
+date: 2013-07-25T04:13:51.0000000-07:00
+name: Mateusz
+avatar: https://disqus.com/api/users/avatars/Mateusz.jpg
+message: <p>If you change last two lines (except the parantheses) to:<br>    var rgb = blue | (green &lt;&lt; 8) | (red &lt;&lt; 16) | (1 &lt;&lt; 24);<br>    return digits[1] + '#' + rgb.toString(16).substring(1,8);<br>works much better. Otherwise it omits leading zeroes...</p>

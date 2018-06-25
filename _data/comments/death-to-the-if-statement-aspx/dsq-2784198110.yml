@@ -1,0 +1,6 @@
+id: dsq-2784198110
+replyToId: dsq-1118512323
+date: 2016-07-14T20:59:27.0000000-07:00
+name: MC
+avatar: https://disqus.com/api/users/avatars/MC.jpg
+message: <p>What?! That's crazy-talk. The framework comment on IEnumerator (returned by the single method on IEnumerable obviously), states the following on the return value from MoveNext():</p><p>Returns:<br>true if the enumerator was successfully advanced to the next element; *false if the enumerator has passed the end of the collection*.</p><p>To say it has no notion of count or finite-ness is flat out incorrect.</p>

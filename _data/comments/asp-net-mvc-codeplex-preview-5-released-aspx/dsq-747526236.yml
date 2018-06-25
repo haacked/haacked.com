@@ -1,0 +1,5 @@
+id: dsq-747526236
+date: 2008-08-29T00:11:13.0000000-07:00
+name: Derik Whittaker
+avatar: https://disqus.com/api/users/avatars/Derik Whittaker.jpg
+message: <p>Phil,<br>When i try to use RenderPartial I am getting the following <br>"The best overloaded method match for 'System.IO.TextWriter.Write(char)' has some invalid argument"<br>U got any examples on how to use this method correctly?<br></p>

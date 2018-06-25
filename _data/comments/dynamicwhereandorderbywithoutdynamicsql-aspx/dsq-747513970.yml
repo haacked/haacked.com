@@ -1,0 +1,5 @@
+id: dsq-747513970
+date: 2010-11-15T19:22:22.0000000-08:00
+name: Manuel
+avatar: https://disqus.com/api/users/avatars/Manuel.jpg
+message: <p>This other approach does dynamic order by very well, it's more flexible since it allows several fields combinations and sort orders and doesn't have casting issues:<br><a href="http://john-sheehan.com/blog/slightly-more-dynamic-order-by-in-sql-server-2005/" rel="nofollow noopener" title="http://john-sheehan.com/blog/slightly-more-dynamic-order-by-in-sql-server-2005/">john-sheehan.com/...</a></p>

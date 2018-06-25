@@ -1,0 +1,5 @@
+id: dsq-747526855
+date: 2008-11-05T16:59:30.0000000-08:00
+name: Dan Atkinson
+avatar: https://disqus.com/api/users/avatars/Dan Atkinson.jpg
+message: <p>This would be extremely useful, if only sub-controllers were part of the core (not just community projects like MVCContrib), which would then allow me to cache multiple actions rendered inside the master page.</p>

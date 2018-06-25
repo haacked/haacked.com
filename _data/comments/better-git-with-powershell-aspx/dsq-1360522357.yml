@@ -1,0 +1,5 @@
+id: dsq-1360522357
+date: 2014-04-29T04:02:37.0000000-07:00
+name: Rogue
+avatar: https://disqus.com/api/users/avatars/disqus_FxSxHb9QSI.jpg
+message: "<p>E:\\src&gt; install-module posh-git<br>E:\\src&gt; . $PROFILE<br>E:\\src&gt; git status<br>The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.At line:1 char:1<br>+ git status<br>+ ~~~<br>+ CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException<br>+ FullyQualifiedErrorId : CommandNotFoundException</p><p>PowerShell is *still* the poor man's bash.</p>"

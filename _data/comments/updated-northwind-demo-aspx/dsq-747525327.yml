@@ -1,0 +1,5 @@
+id: dsq-747525327
+date: 2008-12-10T02:51:39.0000000-08:00
+name: q
+avatar: https://disqus.com/api/users/avatars/q.jpg
+message: <p>Sorry, I should have added that it's the Product parameter in EditProduct (the POST version) that seems to blow up the app.<br>I was looking to implement this sort of automatic object inference in my own edit method, but again received the same error as mentioned above.<br>Basically I just want to find a good "edit" scenario example that works, with the simplest possible code, and this would seem to fit the bill.<br>Thanks for reading.</p>

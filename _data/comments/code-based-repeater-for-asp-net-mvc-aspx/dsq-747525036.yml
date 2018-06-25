@@ -1,0 +1,5 @@
+id: dsq-747525036
+date: 2008-05-05T03:01:53.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Stephen we do have intentions to look into MVC specific declarative controls, but not necessarily for MVC 1.0. I think we want to get the core framework done first and make sure code based approaches work first.</p>

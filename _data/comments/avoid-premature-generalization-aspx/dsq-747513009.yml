@@ -1,0 +1,5 @@
+id: dsq-747513009
+date: 2008-08-24T15:21:12.0000000-07:00
+name: Mike Seth
+avatar: https://disqus.com/api/users/avatars/mikeseth.jpg
+message: <p>To my experience, the kind of generalization you speak of works best in certain junction points of your software. For example, a factory pattern works well when applied to major replaceable components, but it's completely redundant to spawn instances of every class using a factory. In general, design patterns can't replace foresight, and foresight is achieved from experience.</p>

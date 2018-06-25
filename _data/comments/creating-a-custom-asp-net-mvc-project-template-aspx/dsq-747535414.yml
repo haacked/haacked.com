@@ -1,0 +1,5 @@
+id: dsq-747535414
+date: 2011-06-06T18:58:25.0000000-07:00
+name: JontyMC
+avatar: https://disqus.com/api/users/avatars/JontyMC.jpg
+message: <p>We investigated creating our own project template and wanted to have that in a build process, ie you check-in a change and you get and MSI out from the build. There was far too much friction and we dropped the idea. The tight coupling of the tools to visual studio was the main issue. Would love to see more loose coupling!</p>

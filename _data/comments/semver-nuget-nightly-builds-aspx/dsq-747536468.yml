@@ -1,0 +1,5 @@
+id: dsq-747536468
+date: 2011-10-26T02:42:29.0000000-07:00
+name: Rob
+avatar: https://disqus.com/api/users/avatars/Rob.jpg
+message: <p>More thinking about this, I like the idea of reserving the forth number for packages to a package fix version. Or allow us to fix the package. <br>So <br>1.0.0-alpha~001<br>1.0.0-alpha<br>1.0.0-alpha.1<br>1.0.0-alpha1~001<br>1.0.0-alpha1~002<br>1.0.0-apha1<br>1.0.0-beta<br>1.0.0-rc<br>1.0.0-rc.1<br>1.0.0-rc.2<br>1.0.0</p>

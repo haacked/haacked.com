@@ -1,0 +1,5 @@
+id: dsq-747518782
+date: 2007-03-01T00:53:23.0000000-08:00
+name: Sougent
+avatar: https://disqus.com/api/users/avatars/Sougent.jpg
+message: <p>I did the whole fizzbuzz thing myself, just to see where I stood.  It took me a while to do because I am one of the "What's a modulus operator?" kind of programmers and so I did it in Visual Basic without it (did the division and used INSTR to find the decimal on the answer, no decimal in the answer then it was evenly divided).<br>Of course, after reading some of the other responses, I promptly went and rewrote it "properly" using the MOD operator.  Even spiffied up the GUI, added a Clear button and all that.<br>Of course, both times I did a proper unit test and refrained from posting the code, though I'm tempted to compile it and make it available for download, it's so pretty.  Maybe I'll put the answers in a nice spreadsheet type grid...........<br></p>

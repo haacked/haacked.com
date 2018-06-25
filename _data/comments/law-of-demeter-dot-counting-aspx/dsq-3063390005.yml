@@ -1,0 +1,5 @@
+id: dsq-3063390005
+date: 2016-12-21T14:45:52.0000000-08:00
+name: Alex Perez
+avatar: https://disqus.com/api/users/avatars/disqus_JiPSGaEdw9.jpg
+message: <p>Regarding the example with the view, wouldn't using a Data Transfer Object (<a href="https://en.wikipedia.org/wiki/Data_transfer_object)" rel="nofollow noopener" title="https://en.wikipedia.org/wiki/Data_transfer_object)">https://en.wikipedia.org/wi...</a> be the better choice versus the existing two? In that case, there's no violation of LOD in the view itself since all the data used in the View are fields in the DTO, which becomes the only place where where the coupling should happen, AKA the only object that needs to talk to the View's dependencies is the DTO.</p>

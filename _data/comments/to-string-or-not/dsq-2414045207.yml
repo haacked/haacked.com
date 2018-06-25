@@ -1,0 +1,6 @@
+id: dsq-2414045207
+replyToId: dsq-2412908903
+date: 2015-12-17T04:34:43.0000000-08:00
+name: Luka Ranisavljevic
+avatar: https://disqus.com/api/users/avatars/lukaranisavljevic.jpg
+message: <p>For me it's the opposite that helps readability. I guess it's the same reasoning as yours, just that for me String.Format() causes that extra bit of processing in my head. I suppose it's a matter of what you are used to and what you expect when reading code.</p>

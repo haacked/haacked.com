@@ -1,0 +1,6 @@
+id: dsq-3363297510
+replyToId: dsq-3266560933
+date: 2017-06-15T06:19:10.0000000-07:00
+name: Polyanskiy Daniil
+avatar: https://disqus.com/api/users/avatars/polyanskiydaniil.jpg
+message: "<p>A copy from my comment with the same problem.<br>\"UPD: Did it. It requires calling RouteDebug.PreApplicationStart.Start via PreApplicationStartMethod with setting \"RouteDebugger:Enabled\" = true in Web.config's appSettings.\"</p>"

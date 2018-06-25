@@ -1,0 +1,5 @@
+id: dsq-1006294142
+date: 2013-08-19T00:26:09.0000000-07:00
+name: PMacklin
+avatar: https://disqus.com/api/users/avatars/pmacklin.jpg
+message: "<p>One thing that threw me for a loop recently was the syntax required for mixing razor statements inside of script tags. This stack overflow question straightened me out: <a href=\"http://stackoverflow.com/questions/7676851/c-sharp-if-key-word-inside-script-tag-in-razor-view\" rel=\"nofollow noopener\" title=\"http://stackoverflow.com/questions/7676851/c-sharp-if-key-word-inside-script-tag-in-razor-view\">http://stackoverflow.com/qu...</a></p><p>The syntax looks like this:</p><p>&lt;script type=\"text/javascript\"&gt;<br>    @if (ViewData.ModelState.IsValid)<br>    {<br>        &lt;text&gt;$('#ErrorMessage').text('Error');&lt;/text&gt;<br>    }<br>&lt;/script&gt;<br>Without the &lt;text&gt; tags, the view won't compile. The tag is mentioned in your markup guide, but it's very unclear what it is needed for. There are also a few comments which describe it incorrectly - one implies that it gets rendered in the generated markup on the page, but I don't see any cases where it does.</p>"

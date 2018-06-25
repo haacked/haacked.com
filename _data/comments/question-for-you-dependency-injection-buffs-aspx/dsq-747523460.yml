@@ -1,0 +1,5 @@
+id: dsq-747523460
+date: 2007-11-27T21:21:07.0000000-08:00
+name: Jesse Johnston
+avatar: https://disqus.com/api/users/avatars/Jesse Johnston.jpg
+message: "<p>I recently wrote a configuration-free service locator class that does just what you're asking: allow for registration of a factory method in code:<br>ServiceLocator locator = new ServiceLocator();<br>locator.Register&lt;ICat&gt;(delegate() {<br>  return kitty.IsSleeping ? buffy : kitty;<br>});<br>ICat cat = locator.Get&lt;ICat&gt;();  // returns either buffy or kitty.<br>Complete details at <a href=\"http://www.teamjohnston.net/cs/blogs/jesse/2007/11/28/ServiceLocatorInCode.aspx\" rel=\"nofollow noopener\" title=\"http://www.teamjohnston.net/cs/blogs/jesse/2007/11/28/ServiceLocatorInCode.aspx\">http://www.teamjohnston.net...</a>.<br>Cheers,<br>Jesse<br></p>"

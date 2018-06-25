@@ -1,0 +1,6 @@
+id: dsq-1690865548
+replyToId: dsq-1289305098
+date: 2014-11-12T23:31:31.0000000-08:00
+name: Matthew Wilton
+avatar: https://disqus.com/api/users/avatars/matthewwilton.jpg
+message: <p>In case people have the same question:</p><p>If the line Assert.Throws&lt;t&gt;(() =&gt; { }) is reached it means that testCode has executed without throwing any exceptions, which is a test failure (we are asserting that testCode throws an exception). The line Assert.Throws&lt;t&gt;(() =&gt; { }) is there to force the test to fail, the empty lamba will never throw the desired exception.</p>

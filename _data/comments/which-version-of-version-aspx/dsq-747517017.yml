@@ -1,0 +1,5 @@
+id: dsq-747517017
+date: 2008-04-17T08:44:16.0000000-07:00
+name: Seba
+avatar: https://disqus.com/api/users/avatars/Seba.jpg
+message: <p>Hi,<br>We use mayor.minor.edit.patch. The problem we have faced now is to implement or not a diferent versioning for the client and server. Sometimes we only update the server, so increment the server patch number, but not the client. everytime the client need to be updated, we also incrment the server, because the server serves the client installer.<br>Best wishes!</p>

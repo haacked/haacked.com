@@ -1,0 +1,5 @@
+id: dsq-747530810
+date: 2012-01-30T11:07:39.0000000-08:00
+name: Gregoire Daussin
+avatar: https://disqus.com/api/users/avatars/Gregoire Daussin.jpg
+message: '<p>For extend the Eric tips, (you save my day :), if you use Nuggets packages this path dependency should do the work<br>&lt;#@ assembly name="$(SolutionDir)packages\dotless.1.2.2.0\lib\dotless.Core.dll" #&gt;</p>'

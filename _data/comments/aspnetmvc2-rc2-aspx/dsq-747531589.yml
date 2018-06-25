@@ -1,0 +1,5 @@
+id: dsq-747531589
+date: 2010-02-16T16:54:47.0000000-08:00
+name: santhosh
+avatar: https://disqus.com/api/users/avatars/santhosh.jpg
+message: <p>I have seen in RC 2 release notes says<br>"The new UrlParameter type allows default values in routes to be removed after URL routing runs."<br>But I still get the route values in the path.<br>Here what i get:<br>&lt;div id="PartialView"&gt;<br>    &lt;%Html.RenderAction("Partial"); %&gt;<br>&lt;/div&gt;<br>&lt;% using (Ajax.BeginForm("Partial", new { name = "test" }, new AjaxOptions() { UpdateTargetId = "PartialView" }))<br>   { %&gt;<br>&lt;button type="submit"&gt;<br>    Submit&lt;/button&gt;<br>&lt;%} %&gt;<br>In Partial Page:<br>&lt;% using (Ajax.BeginForm("Partial", new AjaxOptions() { UpdateTargetId = "PartialView" }))<br>   { %&gt;<br>&lt;%=Html.TextBox("test") %&gt;<br>&lt;%} %&gt;<br>Output of the Partial View Ajax URL is:<br>/Home/Partial?name=test<br>Where the Route Values also included in the Ajax Path.<br>Is this default behavior or defect...?<br>Thanks, Santhosh</p>

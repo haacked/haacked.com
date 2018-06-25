@@ -1,0 +1,5 @@
+id: dsq-991320023
+date: 2013-08-07T04:50:51.0000000-07:00
+name: rarous
+avatar: https://disqus.com/api/users/avatars/rarous.jpg
+message: <p>IMO the sign-in page should behave correctly according to HTTP protocol. So there is easy fix <a href="https://gist.github.com/rarous/6173286" rel="nofollow noopener" title="https://gist.github.com/rarous/6173286">https://gist.github.com/rar...</a>. If ther is redirect to SignIn action there is also ReturnUrl parameter specified.</p>

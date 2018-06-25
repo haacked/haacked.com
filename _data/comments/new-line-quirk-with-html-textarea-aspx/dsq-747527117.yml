@@ -1,0 +1,5 @@
+id: dsq-747527117
+date: 2008-11-18T06:00:11.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Mike <br>You could use the <code>Url.Action</code> method instead of the <code>Url.ActionLink</code>. That method only generates the URL. In that case, you could use it within a normal anchor tag like so:<br><code>&lt;a href="&lt;%= Url.Action(...) %&gt;"&gt;Home&lt;/a&gt;</code></p>

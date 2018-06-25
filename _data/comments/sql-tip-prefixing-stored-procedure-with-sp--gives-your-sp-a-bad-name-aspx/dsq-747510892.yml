@@ -1,0 +1,5 @@
+id: dsq-747510892
+date: 2008-10-05T18:35:49.0000000-07:00
+name: Hannah
+avatar: https://disqus.com/api/users/avatars/Hannah.jpg
+message: <p>Most people name stored procedures with the prefix usp_ (user stored procedure) to differentiate from sp_ which is a system procedure (as system procs are stored in master in assumed that anything with sp_ is master and looks for it there).  But I don't think its necessary personally.</p>

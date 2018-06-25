@@ -1,0 +1,5 @@
+id: dsq-747515661
+date: 2006-07-10T02:05:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Sounds interesting.  Is there a way for others like myself to contribute to it?<br>Some of the features we have in our Subtext RSS feeds include Gzip compression, <a href="http://bobwyman.pubsub.com/main/2004/09/using_rfc3229_w.html" rel="nofollow noopener" title="Bob Wyman">RFC3229</a> for feeds support (aka delta encoding).  I didn't see mention of these two features.</p>

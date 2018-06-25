@@ -1,0 +1,5 @@
+id: dsq-747527011
+date: 2008-11-26T03:09:56.0000000-08:00
+name: Doug
+avatar: https://disqus.com/api/users/avatars/Doug.jpg
+message: <p>Here is a regex (with the 80/20 rule in mind)<br>/&lt;\/?[^&gt;]+&gt;/gi</p>

@@ -1,0 +1,5 @@
+id: dsq-747529701
+date: 2009-08-26T07:48:00.0000000-07:00
+name: ranamauro
+avatar: https://disqus.com/api/users/avatars/ranamauro.jpg
+message: "<p>@Uzivatel<br>It is definitely possible to do so. I did a proof of concept based on the EdmSample (the one in sdk\\MovieApp\\EdmSample I mentioned in my earlier post) and swapped the use of the JavaScriptSerializer with calls to the JsonConvert API and it worked fine. In fact I was able to get my JSON indented as follows by simply specifying Formatting.Indented:<br>[<br>  {<br>    \"Id\": 1,<br>    \"Title\": \"Star Wars\",<br>    \"Director\": \"Lucas\",<br>    \"DateReleased\": \"\\/Date(251884800000-0800)\\/\",<br>    \"EntityKey\": {<br>      \"EntitySetName\": \"MovieSet\",<br>      \"EntityContainerName\": \"MoviesDBEntities\",<br>...<br>If there's enough interest I could write up a small blog post illustrating the necessary steps and a zip of the code I wrote.<br>Hope this helps.</p>"

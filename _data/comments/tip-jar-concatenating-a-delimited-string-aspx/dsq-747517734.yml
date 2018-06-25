@@ -1,0 +1,5 @@
+id: dsq-747517734
+date: 2006-11-22T00:15:47.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Ok, forget "Fake". What if I gave you an array of <code>Systew.Web.HttpRequest</code>, and told you to get me a pipe delimited list of the "ContentLength" property.  Remember, ContentLength is an integer. Not to mention, you can't change the constructor of that class.</p>

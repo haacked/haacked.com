@@ -1,0 +1,5 @@
+id: dsq-747513264
+date: 2005-10-24T02:16:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Exactly, there are two email providers. One that uses the built in .NET Mail component (the wrapper to CDO) and one that doesn't use it, but goes to SMTP directly.</p>

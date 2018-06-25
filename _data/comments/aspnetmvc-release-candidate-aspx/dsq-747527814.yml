@@ -1,0 +1,5 @@
+id: dsq-747527814
+date: 2009-01-28T00:56:27.0000000-08:00
+name: Andy
+avatar: https://disqus.com/api/users/avatars/Andy.jpg
+message: <p>Can we can using patterns for actionlinks? &lt;% using (Html.ActionLink(null, "ViewProduct", "Products") { %&gt;&lt;img .... /&gt;&lt;% } %&gt;&lt;/div&gt;</p>

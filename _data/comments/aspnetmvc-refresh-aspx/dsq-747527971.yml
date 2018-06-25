@@ -1,0 +1,5 @@
+id: dsq-747527971
+date: 2009-02-03T12:26:28.0000000-08:00
+name: Saurabh
+avatar: https://disqus.com/api/users/avatars/Saurabh.jpg
+message: <p>Hi Phil.....<br>Can you please tell us how to load a UserControl in RC Refresh b'coz i have seen in last version of MVC, i loads UC like<br>&lt;%= RenderUserControl("~/Views/Home/TestUC.ascx")%&gt;<br>but in RC Refresh there is no option like "RenderUserControl".<br>plz help us out<br>Kind Regards,<br>Saurabh</p>

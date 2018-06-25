@@ -1,0 +1,5 @@
+id: dsq-747530463
+date: 2012-01-30T17:31:26.0000000-08:00
+name: syntax
+avatar: https://disqus.com/api/users/avatars/syntax.jpg
+message: <p>What i dont get is how the instance of the IHttpHandler can be reused (when IsReuseable returns true), when it is created for each request, by the IRouteHandler?</p>

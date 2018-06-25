@@ -1,0 +1,5 @@
+id: dsq-747529952
+date: 2009-09-03T03:00:00.0000000-07:00
+name: commenter
+avatar: https://disqus.com/api/users/avatars/commenter.jpg
+message: <p>If I have a large existing app that's written in C#, it's probably not sensible from a business point of view to integrate a whole new language into the dev process (or rewrite in the latest designed-from-scratch language), just to implement a small part of the system where dynamism would be useful. The mere act of adding this new language complicates the whole dev/maintenance process and 'plugging' in the new chunk with the C# chunk is work in itself. So there's a big cost to language purism. <br>That criticism doesn't cover starting a new project from scratch, but even there most programmers aren't free to commit their companies to supporting the latest language they've set their eyes upon.<br>Dynamism, functional programming, OO - these aren't really 'trades', they're tools in a single trade - programming. I don't think combining them in one language weakens the power of each.<br></p>

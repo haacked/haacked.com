@@ -1,0 +1,5 @@
+id: dsq-747531064
+date: 2009-12-19T16:19:42.0000000-08:00
+name: S
+avatar: https://disqus.com/api/users/avatars/S.jpg
+message: '<p>I just success to convert ASP.NET MVC 2 RC source code to .NET 4 and use it as referenced project in my project in VS 2010 Beta 2. However, you must add the following code to ignore security rule that always be fired.<br><br>[assembly: System.Security.SecurityRules(System.Security.SecurityRuleSet.Level1)]</p>'

@@ -1,0 +1,5 @@
+id: dsq-747535156
+date: 2011-05-03T11:05:32.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>A package can define an exact match. But typically they don't. By default, when you specify version="1.0", you're specifying a min version.</p>

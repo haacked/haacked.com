@@ -1,0 +1,5 @@
+id: dsq-747515780
+date: 2008-02-21T01:33:40.0000000-08:00
+name: rschiefer
+avatar: https://disqus.com/api/users/avatars/rschiefer.jpg
+message: <p>This problem is also caused by spaces in the id.  I used .Replace(' ', '_') to convert spaces to underscores and that fixed the issue for me.</p>

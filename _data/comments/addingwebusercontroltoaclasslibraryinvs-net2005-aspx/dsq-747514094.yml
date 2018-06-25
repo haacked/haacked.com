@@ -1,0 +1,5 @@
+id: dsq-747514094
+date: 2007-03-27T12:36:34.0000000-07:00
+name: Swathi
+avatar: https://disqus.com/api/users/avatars/Swathi.jpg
+message: <p>HI Daniel,<br>I tried the way you suggested but I could not overcome the problem of accessing the controls in the .cs file.<br>Actually I have a DotNetNuke website and a class library project in my solution. DotNetNuke accepts only usercontrols to be added in it. But I am unable to access my controls designed in the .ascx file in my .ascx.cs file. Please anyone provide me a better solution<br>Regards,<br>Swathi</p>

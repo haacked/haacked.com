@@ -1,0 +1,5 @@
+id: dsq-747527911
+date: 2009-01-30T08:52:40.0000000-08:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: "<p>It's a bit trickier than this, assuming you're using \".live()\" because of its AJAX-tolerant benefits.  (If not you could just use .click() like you did in previous example.) The script will run once and hide the form, but later AJAX updates might insert a form that doesn't get hidden.<br>Instead, you should use CSS to hide the form.  A one-time call to add a CSS class \"js-enabled\" to the body will let you put in styles like:<br>  a.delete-link { display: none; }<br>  .js-enabled a.delete-link { display:inline; }<br>and the benefit is that it's automatically applied to any DOM manipulations that happen later.<br>I'd also suggest putting this inside a $(document).ready() rather than just directly embedding as script (shortcut: $(function() { ... }); will do the same thing.)  But maybe that's what you intended and it's not a big deal.</p>"

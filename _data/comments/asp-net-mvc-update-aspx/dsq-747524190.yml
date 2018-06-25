@@ -1,0 +1,5 @@
+id: dsq-747524190
+date: 2008-02-16T23:38:55.0000000-08:00
+name: Marco
+avatar: https://disqus.com/api/users/avatars/Marco.jpg
+message: <p>Swapping out MSTest (and/or) making the test attributes compatible with NUnit / MBUnit would be great. <br>MSTest is good for quick load testing, but is rather slow at simple unit testing within the Visual Studio solution. (The <a href="http://testdriven.net" rel="nofollow noopener" title="testdriven.net">testdriven.net</a> plugin will speed things up a bit)</p>

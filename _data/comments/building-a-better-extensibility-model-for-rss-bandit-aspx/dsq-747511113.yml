@@ -1,0 +1,5 @@
+id: dsq-747511113
+date: 2005-03-04T02:26:00.0000000-08:00
+name: torsten.rendelmann@gmx.net (To
+avatar: https://disqus.com/api/users/avatars/torsten.rendelmann@gmx.net (To.jpg
+message: '<p>There was also a request from a research project lead/member mailed to Dare some time ago about such things. So the layer I prototyped matches exactly the needs you described on our abstracted newsitem and feed level no matter where the content comes from. And as I wrote it I tried to reduce the risk level tweaking Bandit the bad way by not offering too much of the internals (only some set properties on the newsitem/feeddetails level that makes sense to modify). Open the whole app as a programmable public exposed object model like Excel/Word is much harder than that simple plugin structure. So I think we now have a good starting point to try and go on for Nightcrawler. &lt;br /&gt;Overall: exactly the thoughts I had today as I started to wrote... &lt;br /&gt;BTW: all the new sources are checked in sou you can have a look, but they are disabled for the next release.&lt;br /&gt;&lt;br /&gt;TorstenR</p>'

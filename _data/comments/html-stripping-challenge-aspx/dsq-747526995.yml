@@ -1,0 +1,5 @@
+id: dsq-747526995
+date: 2008-11-12T21:48:21.0000000-08:00
+name: Greg
+avatar: https://disqus.com/api/users/avatars/Greg.jpg
+message: "<p>Use sed with a decent regular expression would be much easier and much much faster than .NET code.  <br>I've done this extensively to get, reformat and extract data html web pages for insertion into a SQL server database.  It's much easier and much less error prone than writing your own .NET code.<br>I used it to remove javascript and simplify formatting of html (e.g, replacing all &lt;table ...=\"\"&gt; that have lots of options set with &lt;table&gt;).<br>sed faq: <a href=\"http://www.grymoire.com/Unix/Sed.html\" rel=\"nofollow noopener\" title=\"http://www.grymoire.com/Unix/Sed.html\">http://www.grymoire.com/Unix/Sed.html</a><br></p>"

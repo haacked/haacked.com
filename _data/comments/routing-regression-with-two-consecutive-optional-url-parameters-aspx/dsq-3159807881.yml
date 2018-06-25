@@ -1,0 +1,5 @@
+id: dsq-3159807881
+date: 2017-02-16T22:32:30.0000000-08:00
+name: Matt Titchener
+avatar: https://disqus.com/api/users/avatars/matt_titchener.jpg
+message: <p>Believe it or not, this is *still* an issue with .NET Core. It's probably fair to say this issue either never got fixed, or regressed once again for Core. To be fair, there are similar (though different) workarounds using default values in the routing string templates.</p>

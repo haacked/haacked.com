@@ -1,0 +1,5 @@
+id: dsq-747533534
+date: 2010-11-16T03:52:38.0000000-08:00
+name: Adam
+avatar: https://disqus.com/api/users/avatars/Adam.jpg
+message: <p>Hi Phil!<br>A while ago it was mentioned making the ViewData dictionary dynamic (insted of having ViewModel.)<br>I can understand your concearns about compatability, but since my model binders and helpers had to be re-written from MVC1 to MVC2, and then I had to change the helpers and the data annotations again from MVC2 to MVC3. I'm still having to change stuff.<br>Please add that change...<br>Adam.</p>

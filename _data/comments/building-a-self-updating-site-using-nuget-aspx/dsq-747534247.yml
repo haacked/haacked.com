@@ -1,0 +1,5 @@
+id: dsq-747534247
+date: 2011-01-16T02:05:56.0000000-08:00
+name: Corey Coto
+avatar: https://disqus.com/api/users/avatars/Corey Coto.jpg
+message: <p>Fantastic post! <br>How would this work in a IIS Web Server farm? Would it only update a single instance or all of the nodes in the farm?</p>

@@ -1,0 +1,6 @@
+id: dsq-814737815
+replyToId: dsq-804705300
+date: 2013-02-27T17:47:38.0000000-08:00
+name: Wayne Brantley
+avatar: https://disqus.com/api/users/avatars/google-8028e06d1c649ef4a997e5f507466d57.jpg
+message: <p>I found a way to do it in .net 4.5 that is built in.  Additionally a hack way in 3.5.   What you guys are doing above destroys the response and that is not good - along with 401 there can and is often times a payload.  See code here.</p><p><a href="https://github.com/ServiceStack/ServiceStack/pull/499" rel="nofollow noopener" title="https://github.com/ServiceStack/ServiceStack/pull/499">https://github.com/ServiceS...</a></p>

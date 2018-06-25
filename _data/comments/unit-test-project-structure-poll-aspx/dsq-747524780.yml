@@ -1,0 +1,5 @@
+id: dsq-747524780
+date: 2008-04-09T05:24:45.0000000-07:00
+name: Mike Thomas
+avatar: https://disqus.com/api/users/avatars/Mike Thomas.jpg
+message: <p>I put tests in a separate console application project and use MbUnit so that I can run that project and execute my tests without needing a test runner.  I do use TestDriven.NET but it is also nice to be able to run the tests in an environment that doesn't have that installed.</p>

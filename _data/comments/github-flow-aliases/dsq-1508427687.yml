@@ -1,0 +1,5 @@
+id: dsq-1508427687
+date: 2014-07-28T10:08:26.0000000-07:00
+name: Scott Koon
+avatar: https://disqus.com/api/users/avatars/lazycodertweets.jpg
+message: <p>aa = add -A</p><p>I think I got this one from Paul. I use it all the time</p><p>pu=!git fetch origin;git fetch upstream;git merge upstream/master</p><p>This one is my all-in-one update my clone to the cloned repo command.</p><p>I still use<br>fu = reset --hard</p><p>Because I'm often using git-svn, which means my repo is often screwed up through no fault of my own and I just need to reset and get rid of all my merge conflicts.</p>

@@ -1,0 +1,5 @@
+id: dsq-747517076
+date: 2006-10-06T15:57:41.0000000-07:00
+name: Stefan Dobrev
+avatar: https://disqus.com/api/users/avatars/Stefan Dobrev.jpg
+message: <p>Hi.<br>It's good that your CAPTCHA is getting better and better.<br>One minor bug in the code that you posted, when you are checking if date is not too old:<br><code>if ((DateTime.Now - date).Minutes &gt; 30)</code><br>You should use <code>TimeSpan.TotalMinutes</code> not <code>TimeSpan.Minutes</code>, because Minutes returns the minutes of the TimeSpan and TotalMinutes returns the total number of minutes in the TimeSpan.</p>

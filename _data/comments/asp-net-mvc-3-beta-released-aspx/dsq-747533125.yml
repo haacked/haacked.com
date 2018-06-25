@@ -1,0 +1,5 @@
+id: dsq-747533125
+date: 2010-10-07T14:48:59.0000000-07:00
+name: Germ&#225;n
+avatar: https://disqus.com/api/users/avatars/Germ&#225;n.jpg
+message: <p>Hi!,<br>Great bits!! Anyway, following the _ViewStart.cshtml feature for centralizing the Layout setting is a litte bit tricky.<br>It broke my application as the _Layout.cshtml itself is making various @Html.Action helper calls. This calls return also view (which is intended to be partial, no layout)  but now with the layout globally defined they also execute the layout. So my application is making recursive calls to the @Html.Action helpers and it hangs.<br>I solved it by going to these views that are intended to be partial views and wrote.<br>@{<br>   Layout = null;<br>}<br>This solved my problem but I think there should be a clear mechanism for marking a view as a partial view that shouldn't get any layout, no matter what a site wide setting as the _ViewStart.cshtml Layout should have been defined.<br>Maybe a @nolayout directive? A view naming convention?<br>Great work, anyway. Regards.<br>Germán</p>

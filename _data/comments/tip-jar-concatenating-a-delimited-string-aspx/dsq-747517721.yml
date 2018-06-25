@@ -1,0 +1,5 @@
+id: dsq-747517721
+date: 2006-11-21T11:44:09.0000000-08:00
+name: Dave Frank
+avatar: https://disqus.com/api/users/avatars/Dave Frank.jpg
+message: <p>I've been doing += and &amp;=  to concat strings since the dawn of time.  Pretty coincidental that someone changed all my patch code to use stringbuilder and then the same day you blog about it.  Eh?  EH?? Lol, its all good.  I guess subconciously I've always felt that creating a new instance of something to join text together must naturally be slower than just manipulating a string variable with built in functions, but I know stringbuilder has been designed with performance in mind, especially for large strings.  Anyway you do bring up a good point that just because we're used to doing things one way doesn't mean that a different way isn't better (or at least equally valid), and it does help, especially when working with open source projects, to be familiar with different ways of doing things (or have an open mind to learn) :p.</p>

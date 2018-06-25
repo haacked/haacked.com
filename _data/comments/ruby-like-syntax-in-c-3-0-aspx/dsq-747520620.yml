@@ -1,0 +1,5 @@
+id: dsq-747520620
+date: 2007-05-24T07:50:19.0000000-07:00
+name: Don M
+avatar: https://disqus.com/api/users/avatars/Don M.jpg
+message: <p>I must be an old curmudgeon. I really don't think this is all that bad:<br>DateTime.Now.Subtract(TimeSpan.FromMinutes(20));<br></p>

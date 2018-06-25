@@ -1,0 +1,5 @@
+id: dsq-747529803
+date: 2009-08-26T12:32:00.0000000-07:00
+name: Daniel Wiedenhofer
+avatar: https://disqus.com/api/users/avatars/Daniel Wiedenhofer.jpg
+message: <p>hi,<br>that sounds great, but in my opinion in large mvc-appliactions there is no way of using neither viewdatadictionary nor viewdata as dynamic object - the only way are strongly typed viewdata objects for each view, so you can easily recocnize which data is available in views.<br></p>

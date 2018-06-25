@@ -1,0 +1,5 @@
+id: dsq-747538077
+date: 2012-05-31T23:07:54.0000000-07:00
+name: Darren
+avatar: https://disqus.com/api/users/avatars/Darren.jpg
+message: <p>The UI on this is almost enough to make me switch from Mercurial to Git... OK, I said almost.<br>Unfortunately I can't the thing to work!  When I click the 'Clone in Windows' button on a repository in GitHub (eg <a href="https://github.com/RobinHerbots/jquery.inputmask" rel="nofollow noopener" title="https://github.com/RobinHerbots/jquery.inputmask">https://github.com/RobinHerbots/jquery.inputmask</a>), the project loads in the app, begins to clone, gets to 9% and hangs there.  This happens on any GitHub repo I try to clone (and always at 9%). The folder for the project is created in Documents\GitHub, but that's as far as it goes. Anyone else had this?</p>

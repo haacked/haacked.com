@@ -1,0 +1,5 @@
+id: dsq-747515451
+date: 2008-01-23T06:33:03.0000000-08:00
+name: Luke
+avatar: https://disqus.com/api/users/avatars/Luke.jpg
+message: <p>@Brian - I think I'm running into the same problem here. Every single one of my tests that invokes the presenter has to do all the dummy event wiring. This means that if I down the road add a new event handler that will be wired in the presenter than I have to update all of my tests... really annoying. Anyone know a good work around on this?</p>

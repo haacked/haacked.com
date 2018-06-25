@@ -1,0 +1,5 @@
+id: dsq-747534764
+date: 2011-04-07T11:58:32.0000000-07:00
+name: RWHepburn
+avatar: https://disqus.com/api/users/avatars/RWHepburn.jpg
+message: <p>I'm all for installing packages at the Solution level! Mainly because I just when though the process of adding a large number of NuGet packages to a LOB Silverlight app that had over 20 Projects in the Solution! Although I haven't hit it yet, I can see the need to have different NuGet package versions across different projects.</p>

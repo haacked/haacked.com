@@ -1,0 +1,5 @@
+id: dsq-747527066
+date: 2010-06-10T16:36:55.0000000-07:00
+name: Roboblob
+avatar: https://disqus.com/api/users/avatars/Roboblob.jpg
+message: <p>I think that ASP.NET MVC and WebForms both have their purpose and reasons to live as technologies side by side.<br>MVC paradigm demands a shift in the way of thinking when developing applications and this could be the most important advantage over WebForms (where you can just drop controls on the design surface and double click them to setup events in code behind etc).<br>On the other hand, ASP.NET MVC lacks strong support in custom controls (built-in or 3rd party) and this is where its much weaker then WebForms.</p>

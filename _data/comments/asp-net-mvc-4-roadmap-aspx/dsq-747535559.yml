@@ -1,0 +1,5 @@
+id: dsq-747535559
+date: 2011-07-13T04:04:37.0000000-07:00
+name: Jason
+avatar: https://disqus.com/api/users/avatars/Jason.jpg
+message: <p>"Better support for functional and integration testing of application code."<br>Does that mean we'll finally be able to write real unit tests for our views?  <br>We’ve got a pretty robust system and we could really use the tuning we get from writing unit tests around our helper classes that output a Razor view. We've been compiling our views and hope that we can now just bind a model to them and check the output.<br></p>

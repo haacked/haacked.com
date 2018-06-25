@@ -1,0 +1,5 @@
+id: dsq-747513910
+date: 2006-01-19T05:09:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hmmm. I'd have to look into this later.  I think it should work, because eventually, under the hood, the methods of the control are going to call methods of the underlying HtmlTextWriter.<br><br><br><br>The thing is, you might have to dig under the hood using <a href="http://www.aisto.com/roeder/dotnet/" rel="nofollow noopener" title="">Reflector</a> to see exactly what RenderItem is doing.</p>

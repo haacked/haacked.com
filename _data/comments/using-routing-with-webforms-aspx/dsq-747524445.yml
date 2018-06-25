@@ -1,0 +1,5 @@
+id: dsq-747524445
+date: 2009-02-15T03:38:37.0000000-08:00
+name: Dmitry
+avatar: https://disqus.com/api/users/avatars/Dmitry.jpg
+message: <p>This is exactly what I needed. However, it works great in the Visual Studio built-in server but if I try to run it in II7 (integrated mode) the UriRoutingHandler throws an exception "Cannot create an abstract class."<br>Thanks,<br>Dmitry</p>

@@ -1,0 +1,5 @@
+id: dsq-747523862
+date: 2007-12-23T14:33:40.0000000-08:00
+name: Julian Birch
+avatar: https://disqus.com/api/users/avatars/Julian Birch.jpg
+message: <p>I'm not convinced I like this anonymous types as dictionaries thing either, to be honest.  It strikes me as a clever trick designed to get around the lack of a decent hashtable syntax in C#.  Even if you were convinced that this was the way forward, it would be significantly more elegant to have coded an implicit cast from an anonymous type to an IDictionary&lt;string, object&gt; into the compiler.  This implementation wouldn't require reflection.<br>What's particularly bad is that I think that the library implementation right now precludes fixing that up later...</p>

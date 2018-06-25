@@ -1,0 +1,5 @@
+id: dsq-747534294
+date: 2011-07-16T03:09:59.0000000-07:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>"This method returns an instance of WebProjectManager. This is a class that I had to copy from the System.Web.WebPages.Administration.dll assembly because it’s marked internal. I don’t know why it’s internal, so I’ll see if we can fix that. It’s not my fault so please direct your hate mail elsewhere. "<br>Sure, but I'm not sure where Microsoft will direct the lawyers when I use AutoUpdate with code from copyrighted code...</p>

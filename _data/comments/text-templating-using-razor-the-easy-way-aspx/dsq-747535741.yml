@@ -1,0 +1,5 @@
+id: dsq-747535741
+date: 2011-08-01T21:30:23.0000000-07:00
+name: Quentin
+avatar: https://disqus.com/api/users/avatars/Quentin.jpg
+message: <p>Is it possible to use a separate layout file when generating templates this way?  That always seemed to pose a hurdle with previous razor generating techniques, like the aforementioned codeplex project.</p>

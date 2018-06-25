@@ -1,0 +1,6 @@
+id: dsq-935228162
+replyToId: dsq-935216578
+date: 2013-06-19T03:58:58.0000000-07:00
+name: FennNaten
+avatar: https://disqus.com/api/users/avatars/FennNaten.jpg
+message: <p>Of course, returning null in GetRepositories is a problem, I don't deny that. My example is, on purpose, full of issues ;)<br>If GetRepositories is your own code, of course you should fix it.</p><p>But I was saying that the GetRepositories can be located in a vendor's dll (for which you don't have the source code or can't modify it).</p><p>If you're calling any vendor code to get an object reference, in my opinion null check an throwing of proper exception on null is mandatory before calling any property of returned object, otherwise you're making the assumption that "the dll code will always behave as expected". Which can be ok if code is from 100% trusted source, sure, but you can also (unfortunately) have people who write the kind of code I give as example ^^'</p>

@@ -1,0 +1,5 @@
+id: dsq-747526789
+date: 2008-11-12T12:20:01.0000000-08:00
+name: Andrea Balducci
+avatar: https://disqus.com/api/users/avatars/Andrea Balducci.jpg
+message: <p>I forgot to say that the whole app is compiled (static resources, scripts, views, controllers, masterpages) and deployed as embedded resources. By now i've implemented a virtualpathprovider to mix filesystem and embedded resources, so you can easily create a portal just mixing the apps you want to deploy from an application library (or in the future from an application store :)</p>

@@ -1,0 +1,5 @@
+id: dsq-747525490
+date: 2008-06-23T21:40:09.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Alex I should be more clear. We don't attempt to emulate the control statefulness of a rich client application by shuttling state back and forth within an opaque ViewState field.<br>You can still write rich client like apps by simply keeping the state for controls within the client, ala Ajax and Javascript.</p>

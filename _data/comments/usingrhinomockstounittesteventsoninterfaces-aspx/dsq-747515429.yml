@@ -1,0 +1,5 @@
+id: dsq-747515429
+date: 2006-07-05T21:18:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Chris, that's interesting since most examples I've seen don't use events.  The reason I started examining the event approach is that it decouples the view and presenter just a bit more.  For example, the view doesn't need to know which methods of the presenter to call, it just raises its events as it normally does.<br>Most examples I've seen take the approach that you take and I think it may well end up being more readable.  I'm still experimenting with different approaches.</p>

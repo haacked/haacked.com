@@ -1,0 +1,5 @@
+id: dsq-1293450062
+date: 2014-03-20T09:45:24.0000000-07:00
+name: Dario G
+avatar: https://disqus.com/api/users/avatars/Dario G.jpg
+message: '<p>Just wanted to personally thank you for this information. I was incurring the dreaded Error: 1054 due to my application calling settings out of a conf file. Little did I realize, my application was trying to fetch this file from within the system32 folder, not the folder local to the service executable itself! At any rate, this simple one-liner addressed my startup issue, thank you kindly!</p>'

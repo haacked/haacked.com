@@ -1,0 +1,6 @@
+id: dsq-1131583100
+replyToId: dsq-1131568197
+date: 2013-11-20T11:21:15.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Refresh the post. I cleaned it up a bit. I have my own method called `SelectUnit()` that I use, but I kind of like `Ignore`. But I'm not sure if that would cause confusion because you're not ignoring that the event occurred, you're just ignoring details about the event.</p>

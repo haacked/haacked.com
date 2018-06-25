@@ -1,0 +1,5 @@
+id: dsq-747532835
+date: 2010-08-24T03:35:17.0000000-07:00
+name: shawn
+avatar: https://disqus.com/api/users/avatars/shawn.jpg
+message: <p>I commented a little while back, but it looks like it might have been eaten because it had a link in it.  Are there any plans to add model binding support for updating objects with existing child collections?  Right now if you call UpdateModel(model) on a model that has an initialized ChildItems collection, the model.ChildItems collection doesn't get updated properly.  I'd be happy to submit a patch that is working for our scenarios.<br>I'd also love to see some sort of baked in support for using the [Key] data annotation (or equivalent unique/primary key in LinqToSql/EF) as an index key for items in collections to avoid concurrency errors.</p>

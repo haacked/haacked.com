@@ -1,0 +1,5 @@
+id: dsq-747511141
+date: 2005-04-13T21:28:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I'm using version 1.2.0.30714 and the only thing I noticed is that your configuration file was very different from mine in how you declared the appenders.</p>

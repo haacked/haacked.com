@@ -1,0 +1,5 @@
+id: dsq-747537308
+date: 2012-01-02T07:37:39.0000000-08:00
+name: Fabian Schmied
+avatar: https://disqus.com/api/users/avatars/Fabian Schmied.jpg
+message: <p>Hmm, of course, you could derive the nested classes from the outer class; that way, they'd inherit all initialization logic put into the outer class.<br>Any other good ideas for this?</p>

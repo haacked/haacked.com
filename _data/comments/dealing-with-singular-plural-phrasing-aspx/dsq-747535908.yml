@@ -1,0 +1,5 @@
+id: dsq-747535908
+date: 2011-08-16T14:06:43.0000000-07:00
+name: Neil Barnwell
+avatar: https://disqus.com/api/users/avatars/Neil Barnwell.jpg
+message: <p>I've done the exact same thing, but for the sake of I18n, I tend to use string.Format() with the usual placeholders:<br><br>public static string Pluralise(object value, string singularPattern, string pluralPattern)<br>{<br>    int number;<br>    if (int.TryParse(value.ToString(), out number))<br>    {<br>        if (number == 1)<br>            return string.Format(singularPattern, value);<br>        return string.Format(pluralPattern, value);<br>    }<br>    throw new ArgumentException("Value must be numeric", "value");<br>}<br></p>

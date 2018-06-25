@@ -1,0 +1,5 @@
+id: dsq-747538524
+date: 2012-10-23T18:28:48.0000000-07:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>I agree packages are crucial point for Mono to be what it can be.<br>I think a CI can be important to some but wanting to pull from Git more I'm going to be poking around for some additional tools for reducing the friction to getting a Mono runtime up and running. I mean there are a lot of Chef recipes for non-.Net solutions on Git and while NPM might not do everything expressJS is pretty easy to get going out of the box. I think projects more like Chocolaty can really help encourage people to pull .Net from Git and use Mono.</p>

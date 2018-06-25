@@ -1,0 +1,5 @@
+id: dsq-747528201
+date: 2009-03-08T20:14:23.0000000-07:00
+name: Syed Ahmed
+avatar: https://disqus.com/api/users/avatars/Syed Ahmed.jpg
+message: <p>Thanks for the RC2.<br>I have upgraded my MVC version form RC1 to RC2 and all looks file except the Add View template.<br>When I am trying to add a View from the context menu of the controller side it poping up a long list of empty template error list.<br>This happen also with the Add New Item window. I am not able to add a strong type or untype View into my solution because of this problem.<br><br>Thanks,<br>Syed<br></p>

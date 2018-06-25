@@ -1,0 +1,5 @@
+id: dsq-747532021
+date: 2011-01-06T09:50:46.0000000-08:00
+name: Sam
+avatar: https://disqus.com/api/users/avatars/Sam.jpg
+message: "<p>Loved this on paper. However, when trying to use it can't parse MS's own date literals. This should both ways... I return JSON to the browser using the Json view method which sent: \"PolicyStartDate\":\"/Date(1294318800000)/\"<br>However this only semi helpful value provider when receiving this fails and I just get DateTime.MinValue as the value of PolicyStartDate. Really really really sick of dates and ajax.</p>"

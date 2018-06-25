@@ -1,0 +1,5 @@
+id: dsq-747536389
+date: 2011-11-20T05:26:17.0000000-08:00
+name: Bruce Chapman
+avatar: https://disqus.com/api/users/avatars/Bruce Chapman.jpg
+message: <p>DotNetNuke has had a scheduler built in for many versions.  It can be configured to either request (piggybacks on some hapless users request) or timer modes.  Timer modes sounds suspiciously like what you are talking about here.  The DotNetNuke implementation has all sorts of smarts for running on only one server in a webfarm scenario, and smarts to pick up and resume dead requests, and provides a handy overridable Scheduler class to hook your work into, so you can build your own tasks. It's not perfect, but it does allow the extension builder a known scheduled service that even the most basic shared hosting implements.<br> <br>That said, it's still a path to living dangerously for the uninitiated developer for all the reasons listed in your post.  But if you're attempting an ASP.NET scheduled service, you could do worse than downloading the DNN source code and watching how the scheduler works.</p>

@@ -1,0 +1,5 @@
+id: dsq-747530781
+date: 2009-12-02T07:59:00.0000000-08:00
+name: Dan F
+avatar: https://disqus.com/api/users/avatars/Dan F.jpg
+message: "<p>You rock Phil! This looks to be awesome. Except, I'm having trouble getting it going in my project. It doesn't seem to matter where I put the dotless.core.dll, I keep getting \"Compiling transformation: Metadata file 'dotless.Core.dll' could not be found\". I've included it in a solution folder like your screenshot above, and your sample solution doesn't give me the same problem, so I'm kinda out of ideas. Anybody got any tips for me?</p>"

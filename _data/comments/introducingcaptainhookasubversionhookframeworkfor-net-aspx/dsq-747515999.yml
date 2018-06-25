@@ -1,0 +1,5 @@
+id: dsq-747515999
+date: 2007-03-19T22:56:25.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hi Eva, <br>I don't think you can pass in the email. You have to put a list of email addresses in a file named emails.lst in the same directory. Both CaptainHook.exe and this files should be in the "hooks" directory.<br>Also, create a batch file named post-commit.bat in the same directory. Here's mine.<br><code><br>@echo on<br>rem POST-COMMIT HOOK<br>set REPOS=%1<br>set REV=%2<br>c:\svn\hooks\captainhook.exe post-commit %REPOS% /r %REV% --debug &gt; c:\svn\hooks\Output.txt<br>set REPOS=<br>set REV=<br></code><br>Note that last part outputs debug info into the output.txt file.</p>

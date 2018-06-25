@@ -1,0 +1,5 @@
+id: dsq-747513771
+date: 2006-01-13T22:36:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>However, there are other reasons this technique is useful.  In a blogging engine, for example, you may want to have skins that differ ONLY in CSS and not in HTML.  <br><br><br><br>This technique might come useful then.<br><br><br><br>Also when creating tab interfaces, and you want your tabs to be able to stretch, but have a backround image, this is useful.</p>

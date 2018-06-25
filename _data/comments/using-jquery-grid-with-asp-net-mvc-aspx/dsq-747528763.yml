@@ -1,0 +1,5 @@
+id: dsq-747528763
+date: 2010-11-30T20:19:20.0000000-08:00
+name: Berry
+avatar: https://disqus.com/api/users/avatars/Berry.jpg
+message: "<p>Hi Great post and i'am trying to understand everything. Working with MVC was fine until the datagrid problem came up. My question is: I have to connect to a third party system which I can query with a specific language. The result is given back as a datatable with all the rows and columns. Can I connect/use this datatable as a datasource for the grid? And if so, please advise how to do this.</p>"

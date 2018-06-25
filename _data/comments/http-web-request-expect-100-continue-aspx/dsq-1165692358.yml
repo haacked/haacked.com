@@ -1,0 +1,6 @@
+id: dsq-1165692358
+replyToId: dsq-747508245
+date: 2013-12-16T05:43:07.0000000-08:00
+name: Rafael Nicoletti
+avatar: https://disqus.com/api/users/avatars/rafaelnicoletti.jpg
+message: <p>This is not needed. When you create a http request, you can use this:</p><p>var uri = new Uri("<a href="http://contoso.com" rel="nofollow noopener" title="http://contoso.com">http://contoso.com</a>");<br>            var p = ServicePointManager.FindServicePoint(uri);<br>            p.Expect100Continue = false;<br>            var r = HttpWebRequest.Create(uri) as HttpWebRequest;</p><p>// do whatever you want with this request.</p>

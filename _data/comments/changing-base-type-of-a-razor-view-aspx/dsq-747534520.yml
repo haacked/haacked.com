@@ -1,0 +1,5 @@
+id: dsq-747534520
+date: 2011-03-07T00:07:57.0000000-08:00
+name: Andrew Nurse
+avatar: https://disqus.com/api/users/avatars/Andrew Nurse.jpg
+message: "<p>@Thanigainathan - Just to follow up on Phil's answer: Razor uses exactly the same compilation model as ASPX, so the performance after the first request is very similar to ASPX. Razor does take a little more time to do that initial compilation due to it being a more complex language to parse, but that's only on the first request.</p>"

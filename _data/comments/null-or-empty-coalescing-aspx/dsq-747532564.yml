@@ -1,0 +1,5 @@
+id: dsq-747532564
+date: 2010-06-16T22:26:50.0000000-07:00
+name: tobi
+avatar: https://disqus.com/api/users/avatars/tobi.jpg
+message: <p>this is my favorite string function:<br><br>        public static string NullOrWhitespaceToNullAndTrim(this string str)<br>        {<br>            if (string.IsNullOrEmpty(str))<br>                return null;<br>            var trim = str.Trim();<br>            if (trim.Length == 0)<br>                return null;<br>            return trim;<br>        }<br></p>

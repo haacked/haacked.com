@@ -1,0 +1,5 @@
+id: dsq-1685355358
+date: 2014-11-09T20:46:55.0000000-08:00
+name: Jason Colter
+avatar: https://disqus.com/api/users/avatars/disqus_UJTX1wfziN.jpg
+message: <p>I tried using the code in this article and found that it only works with public classes and does not work with anonymous types. So I was inspired to create a similar component that works with anonymous types. <a href="https://github.com/jcbowers/ducktyping" rel="nofollow noopener" title="https://github.com/jcbowers/ducktyping">https://github.com/jcbowers...</a>. You can read the details on  my blog <a href="http://wblo.gs/feE" rel="nofollow noopener" title="http://wblo.gs/feE">http://wblo.gs/feE</a> but essentially it will allow you to do the following:</p><p>var developer = new { Name = "Jason Bowers" };<br>var foo = developer.DuckCast&lt;ideveloper&gt;();</p><p>Great article!</p><p>Thank you.</p>

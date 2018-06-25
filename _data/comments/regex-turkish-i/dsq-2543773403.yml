@@ -1,0 +1,5 @@
+id: dsq-2543773403
+date: 2016-02-29T10:45:57.0000000-08:00
+name: Rick Dailey
+avatar: https://disqus.com/api/users/avatars/disqus_W3Dfj2G5aI.jpg
+message: <p>To me, the very notion of case-sensitivity means you should specify a set of culture rules to evaluate that insensitivity.  In my opinion, the real WTF is that any of these languages allow you to do this without an exception if you specify case-insensitive without a culture. Remember, even the "Invariant" culture is just "en" without "-us" or "-uk" at the end.</p><p>So by not specifying any culture, you're basically saying "anything goes" is my guess and since Turkish İ in your example does not fit into your local rules, it's an unbounded search for conversion of that character in any culture.  I suspect a Turkish developer might think this is perfectly sane default behavior.</p>

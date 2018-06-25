@@ -1,0 +1,5 @@
+id: dsq-747518885
+date: 2007-03-02T15:24:39.0000000-08:00
+name: Jeff Atwood
+avatar: https://disqus.com/api/users/avatars/Jeff Atwood.jpg
+message: <p>&gt; Just ask Rob Conery what happens if you give commit access too freely.<br>I would like a more complete blog entry on this from Rob. What's the alternative? Keeping the peons outside the castle walls and forcing them to send you patches?<br>&gt; If Codeplex supported Subversion,<br>This will never, ever happen. It's an architectural impossibility. Seriously.<br>Source control is the heart of TFS, and once you ditch that, work items, build, and everything else lose the "glue" that was holding the system together.<br>&gt; Users who want to look at the code, view the change history of the code, and update their local code to the latest version can do so form the convenience of their favorite Subversion client.<br>Doesn't codeplex let users browse the source code repository from the browser?<br>&gt; I just don't have the time to DIFF on the fly<br>Really? Diff and patch generation is a one click operation in Beyond Compare.</p>

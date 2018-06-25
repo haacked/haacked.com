@@ -1,0 +1,5 @@
+id: dsq-747536031
+date: 2011-08-21T19:06:45.0000000-07:00
+name: Tom McKearney
+avatar: https://disqus.com/api/users/avatars/Tom McKearney.jpg
+message: <p>One thing I see as a potential problem here is that it doesn't filter out non-JsonResult Actions.  <br>So, if you have a Controller that serves up Views AND Json data, which, correct or not, I seem to have in abundance, it adds javascript capabilities for calling for Views, which seems like unintended consequences, no?<br>Tom</p>

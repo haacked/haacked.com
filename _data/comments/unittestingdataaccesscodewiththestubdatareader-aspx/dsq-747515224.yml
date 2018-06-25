@@ -1,0 +1,5 @@
+id: dsq-747515224
+date: 2010-10-18T22:44:01.0000000-07:00
+name: MiVa
+avatar: https://disqus.com/api/users/avatars/MiVa.jpg
+message: '<p>@Utkarsh: You can find the code here:<br><a href="http://www.koders.com/csharp/fidF24F8770B7D4A02933B8620B474DB5178F7593F0.aspx?s=login" rel="nofollow noopener" title="http://www.koders.com/csharp/fidF24F8770B7D4A02933B8620B474DB5178F7593F0.aspx?s=login">www.koders.com/...</a><br>The only issue I am having with this is I am using the StubDataReader to create my dataset, and then passing it into a method which takes an IDataReader.  It seems to not work unless in my unit test I create the IDataReader based off of the StubDataReader and then do a .Read() before I pass the object in.<br>Is this intended?</p>'

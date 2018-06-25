@@ -1,0 +1,5 @@
+id: dsq-747535314
+date: 2011-05-29T10:39:45.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Christian, why not add a pre-build step to copy the DLLs to this folder? ;)<br>@Keith I think it's old school policies not keeping up with what customers really want. We can't service assemblies that aren't in the GAC. However, my hope is we fix that problem, rather than continuing to put things it the GAC for no good reason.</p>

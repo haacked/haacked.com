@@ -1,0 +1,5 @@
+id: dsq-747531296
+date: 2011-10-13T11:20:30.0000000-07:00
+name: Erich
+avatar: https://disqus.com/api/users/avatars/Erich.jpg
+message: "<p>Sorry, I didn't realize that a tag is also allowed, re-posting:<br>Nice job!<br>Suggestion: instead of having the a tags as :<br><code>a href=\"#1\" class=\"delete\"</code><br>I would like to see something like:<br><code>a href=\"Controller/Action/1\" class=\"delete\"</code><br>This way we don't have to specify the url option and the links will still work if javascript is disabled/unsupported/etc. (not that we should have Delete actions happening from a GET request...but that's a different topic) :)</p>"

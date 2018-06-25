@@ -1,0 +1,5 @@
+id: dsq-747524440
+date: 2009-01-11T13:58:11.0000000-08:00
+name: Edmund
+avatar: https://disqus.com/api/users/avatars/Edmund.jpg
+message: <p>I tried implementing this with MasterPages, where the master page folds the links to other pages (used as a menu). However, Html.Routlink does not exsit on the master page as it is implemented at the page class level.<br>How to have the link on a master page?<br>Thanks</p>

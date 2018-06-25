@@ -1,0 +1,5 @@
+id: dsq-747529990
+date: 2009-09-13T03:24:00.0000000-07:00
+name: Ayende Rahien
+avatar: https://disqus.com/api/users/avatars/Ayende Rahien.jpg
+message: <p>Phil,<br>You most probably cannot transfer ownership to the CPF.<br>While you can transfer ownership for anything that _you_ wrote, you are based on the .Text code base, so you would need the author permission as well.<br>Then you would need permission from each and every one of the committers, everyone who ever committed a patch, etc.<br>In most real projects, ownership assignment just isn't possible.</p>

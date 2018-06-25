@@ -1,0 +1,5 @@
+id: dsq-3428608007
+date: 2017-07-21T09:19:03.0000000-07:00
+name: breccs
+avatar: https://disqus.com/api/users/avatars/breccs.jpg
+message: <p>Hey, that looks good but i still have no idea how I can use regex combined with powershell to delete all instances of h1 tags including the text between the tags for example if my script finds &lt;h1 id="This_must_go"&gt;This must go&lt;/h1&gt;, delete it. I want to delete all the strings with h1 tag from my site because I will move it to one that will generate replacements for all h1 tags based on the file name. I know I am 13 years behind but if you can help it will be great.</p>

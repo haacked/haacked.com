@@ -1,0 +1,5 @@
+id: dsq-747528678
+date: 2009-05-14T20:59:00.0000000-07:00
+name: Ian
+avatar: https://disqus.com/api/users/avatars/Ian.jpg
+message: <p>Has anyone had any problems with the pager not working with jqgrid<br>I set up jqgrid with a URL to fetch the data and it returns the first page fine I can page by typing a number in the page box which fires the ajax call to the server and returns the correct page but pressing the previous and text buttons does nothing. The ajax call doesn't even fire.<br></p>

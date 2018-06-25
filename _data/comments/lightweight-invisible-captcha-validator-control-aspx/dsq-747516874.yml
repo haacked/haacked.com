@@ -1,0 +1,5 @@
+id: dsq-747516874
+date: 2006-09-26T01:14:31.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>No, I keep the salt on the server.  I send the math problem to the client via javascript which in pseudo-code is this (using 3 + 4 as example):<br>  document.getElementById(hiddenFieldId).value = 3 + 4;<br>I also send the answer to the client via another hidden form field, but base 64 encoded.<br>  &lt;input type="hidden" name="someid" value="Nw==" /&gt;<br>To prevent tampering, I also send the answer hashed  in yet another hidden field.<br>When the user submits the form, I take both values (decoding the second) and compare them.  I then hash that value and compare it to the expected hash.<br>I finished this at around 4AM last night, so I accidentally took out that last hidden input field, so I need to put it back in.<br>So I do give the client the answer base64 encoded, but that's fine since it either needs to add the numbers, or base64 decode the answer. Either way, it takes javascript to do so.</p>

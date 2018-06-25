@@ -1,0 +1,5 @@
+id: dsq-747516733
+date: 2006-09-18T08:04:04.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Well I'm not in any rush based on the responses I've seen here.  However, if <strong>I am the one</strong> who has to write a provider for Firebird or MySql to get LINQ to work with those databases, then this is not a solution if portability becomes a higher priority.<br>My whole point is something like NHibernate already includes support for those databases, leaving me to focus on data access.  In any case, I plan to play around with LINQ for a bit anyways to get a feel for it.<br></p>

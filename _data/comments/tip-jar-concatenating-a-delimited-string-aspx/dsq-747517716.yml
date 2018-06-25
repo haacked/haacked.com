@@ -1,0 +1,5 @@
+id: dsq-747517716
+date: 2006-11-21T11:02:28.0000000-08:00
+name: Rob Conery
+avatar: https://disqus.com/api/users/avatars/Rob Conery.jpg
+message: <p>Another append method...<br>Fake[] fakes = Fake.GetFakes();<br>string delimited=string.empty;<br>string delimiter="|";<br>for(int i = 0; i &lt; fakes.Length; i++)<br>{<br>   i&lt;fakes.Length ? delimiter="|",delimiter="";<br>   delimited+=fakes[i]+delimiter;<br>       <br>}<br><br>...  but, since you're constructing the array in the first place, can't you just build a "GetPipedList()"?<br></p>

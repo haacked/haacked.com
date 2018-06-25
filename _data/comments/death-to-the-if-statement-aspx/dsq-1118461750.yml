@@ -1,0 +1,6 @@
+id: dsq-1118461750
+replyToId: dsq-1118435699
+date: 2013-11-11T11:25:18.0000000-08:00
+name: Alejandro Varela
+avatar: https://disqus.com/api/users/avatars/alejandrovarela.jpg
+message: <p>an example...</p><p>string something (int number) {<br>     if (number &gt; 17)<br>          return "lala";<br>     else<br>                 return "lolo";<br>}</p>

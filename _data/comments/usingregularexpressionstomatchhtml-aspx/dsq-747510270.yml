@@ -1,0 +1,5 @@
+id: dsq-747510270
+date: 2010-09-05T21:58:38.0000000-07:00
+name: Martin Radev
+avatar: https://disqus.com/api/users/avatars/Martin Radev.jpg
+message: <p>Here are some regular expression from me:<br>[code]<br>/&lt; *img[^&gt;]* src *= *["\']?([^"\']*)/is - img tag<br>/\&lt; *meta[^&gt;]*charset *= *["\']?([^"\']*)/i - encdoing<br>/\&lt;meta name="description" content *= *["\']?([^"\']*)/i - description<br>/&lt;title&gt; *(.*) *&lt;\/title&gt;/is - title<br>[/code]<br>If you see something wrong you could comment it here :) 10x</p>

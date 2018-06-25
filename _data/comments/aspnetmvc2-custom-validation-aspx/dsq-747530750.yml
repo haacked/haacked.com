@@ -1,0 +1,5 @@
+id: dsq-747530750
+date: 2010-05-31T08:16:54.0000000-07:00
+name: Gabe Sumner
+avatar: https://disqus.com/api/users/avatars/Gabe Sumner.jpg
+message: <p>From what I can see, there is absolutely no way to programmatically trigger client-side validation or do an isValid() check.  <br>See the following post:<br><a href="http://www.phpvs.net/2010/04/26/manually-validate-an-asp-net-mvc-form-on-the-client-side-with-microsoftmvcvalidation-js-and-jquery/" rel="nofollow noopener" title="http://www.phpvs.net/2010/04/26/manually-validate-an-asp-net-mvc-form-on-the-client-side-with-microsoftmvcvalidation-js-and-jquery/">www.phpvs.net/...</a><br>The usefulness of this client-side validation quickly broke down for me.  :(</p>

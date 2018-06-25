@@ -1,0 +1,5 @@
+id: dsq-747536379
+date: 2011-10-21T13:43:23.0000000-07:00
+name: Matt Wrock
+avatar: https://disqus.com/api/users/avatars/Matt Wrock.jpg
+message: <p>Dmitry,<br>While there is certainly a place for Windows Services, they are often overkill for alot of scenarios. For example, my OSS project, <a href="http://requestreduce.com" rel="nofollow noopener" title="http://requestreduce.com">RequestReduce</a>has a background thread that merges/minifies css and js as well as sprites and optimizes background images. This has to be done in the background in a web app obviously and I want the adoption/migration story to be as painless and friction free as possible. I want adopters to drop my dll in their bin (preferably via nuget) and be done with it. Can you imagine how adoption would plummet if this installed a windows service? Not just the extra overhead but it would also eliminate a large portion of my user base on hosted or cloud solutions. Its also just one more moving part that can break down and complicate troubleshooting.</p>

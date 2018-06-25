@@ -1,0 +1,5 @@
+id: dsq-747515635
+date: 2006-07-11T05:30:00.0000000-07:00
+name: Ron Grabowski
+avatar: https://disqus.com/api/users/avatars/Ron Grabowski.jpg
+message: <p>Log4net has detailed internal debugging messages that explain why things are not working. Most FileAppenders fail because the application is setup with incorrect permissions to create files.<br>This page exlpains how to enable log4net internal debugging:<br><a href="http://logging.apache.org/log4net/release/faq.html#internalDebug" rel="nofollow noopener" title="http://logging.apache.org/log4net/release/faq.html#internalDebug">http://logging.apache.org/l...</a><br>Join/search the mailing lists if you want more detailed help!<br><a href="http://logging.apache.org/log4net/support.html" rel="nofollow noopener" title="http://logging.apache.org/log4net/support.html">http://logging.apache.org/l...</a><br>Ron Grabowski<br>log4net developer</p>

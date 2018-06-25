@@ -1,0 +1,5 @@
+id: dsq-747535547
+date: 2011-07-06T22:19:26.0000000-07:00
+name: ZyZ
+avatar: https://disqus.com/api/users/avatars/ZyZ.jpg
+message: '<p>@chris: You can configure those error messages, however it is more complicated than it should be<br>1) When application starts register resource that will handle binding errors<br>DefaultModelBinder.ResourceClassKey = "ResourceNameHere";<br>2) Create "ResourceNameHere" resource in App_GlobalResources<br>3) Resource should provide values for 2 keys "PropertyValueInvalid"<br>and "PropertyValueRequired"</p>'

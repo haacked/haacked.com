@@ -1,0 +1,5 @@
+id: dsq-747529831
+date: 2009-08-27T01:30:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Thanks for the comments everyone. I corrected the spelling error. :)<br>@Steve, you could probably write your own method in the derived class, but keep in mind, Generics are statically typed at compile time, but this is a runtime feature and the value could be any type.</p>

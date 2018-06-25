@@ -1,0 +1,5 @@
+id: dsq-747526448
+date: 2008-10-14T05:02:57.0000000-07:00
+name: maudite
+avatar: https://disqus.com/api/users/avatars/maudite.jpg
+message: <p>Firefox does the double drop-down list b/c there are two select's being output.<br>Took this from the html on the demo page:<br>&lt;select&gt;<br>  &lt;option&gt;A&lt;/option&gt;<br>&lt;/select&gt;&lt;select&gt;<br> <br>&lt;/select&gt;</p>

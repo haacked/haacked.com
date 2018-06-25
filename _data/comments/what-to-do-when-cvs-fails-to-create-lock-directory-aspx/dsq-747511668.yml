@@ -1,0 +1,5 @@
+id: dsq-747511668
+date: 2008-07-02T18:42:13.0000000-07:00
+name: Mainak
+avatar: https://disqus.com/api/users/avatars/Mainak.jpg
+message: <p>reasons are the directory in CVS is deleted manually or has wrong permissions. <br>I solved it by creating a directory in the cvs by shell and doing a chmod 777 on it. <br>Hope this helps</p>

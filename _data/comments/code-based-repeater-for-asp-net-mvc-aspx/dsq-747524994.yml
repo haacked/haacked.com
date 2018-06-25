@@ -1,0 +1,5 @@
+id: dsq-747524994
+date: 2008-05-03T11:04:42.0000000-07:00
+name: Scott Watermasysk
+avatar: https://disqus.com/api/users/avatars/Scott Watermasysk.jpg
+message: <p>Or just use NVelocity which has really nice support for alternating rows (and much more) built in. <br><a href="http://www.castleproject.org/others/nvelocity/improvements.html" rel="nofollow noopener" title="http://www.castleproject.org/others/nvelocity/improvements.html">http://www.castleproject.or...</a> (see fancy foreach loops).<br>I have not used much NVelocity yet for MVC, but we use it through out Graffiti and it is a joy to use (especially if you hate the constant context jumping required for aspx's.</p>

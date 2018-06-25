@@ -1,0 +1,5 @@
+id: dsq-747533508
+date: 2010-11-09T14:49:37.0000000-08:00
+name: Andy
+avatar: https://disqus.com/api/users/avatars/Andy.jpg
+message: <p>My install on Visual Studio 2010 Ultimate on Windows 7 64bit is also blocking on install of vs10-kb2385361-x86.exe. I have successfully installed MVC3 RC on a machine with Visual Studio 2010 Express, and am aware that I need to uninstall MVC 3 Beta and WebPages components.</p>

@@ -1,0 +1,5 @@
+id: dsq-747534713
+date: 2011-04-02T12:55:47.0000000-07:00
+name: Betty
+avatar: https://disqus.com/api/users/avatars/Betty.jpg
+message: <p>@haacked, multiple sites works but it really wouldn't have been hard for the author to have fixed that minor issue. Single site would allow making migrating packages from the beta/ci feed to the production one a lot easier (cleaner) too.</p>

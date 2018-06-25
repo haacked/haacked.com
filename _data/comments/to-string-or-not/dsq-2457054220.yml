@@ -1,0 +1,6 @@
+id: dsq-2457054220
+replyToId: dsq-2429697319
+date: 2016-01-14T04:25:05.0000000-08:00
+name: Gabriel Garcia
+avatar: https://disqus.com/api/users/avatars/Garciat.jpg
+message: <p>All of your type declarations besides int, string, etc. are ambiguous, then. So this makes proper typing an impossible task for you. That is unfortunate.</p>

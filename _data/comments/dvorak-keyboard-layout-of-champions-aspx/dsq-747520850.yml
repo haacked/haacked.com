@@ -1,0 +1,5 @@
+id: dsq-747520850
+date: 2007-06-04T16:07:21.0000000-07:00
+name: Liam
+avatar: https://disqus.com/api/users/avatars/Liam.jpg
+message: <p>vi/vim usage is very easy with Dvorak.  Just put the following in your <code>.vimrc</code> file:</p><p><br><br></p><p><code>" Dvorak<br>noremap t j<br>noremap n k<br>noremap s l<br>noremap j n<br>noremap gn gk<br>noremap gt gj</code></p><p><br></p><p>This maps the home row (even better than the original vi layout, which was off-by-one) to the movement keys.  The only missing key is 'n'ext (run same search again), which I mnemonicced to 'j'ump.  And yes, I use this on the Kinesis Advantage.  (I also map Enter to 'b'ack in normal mode, since I find that more comfortable for the Kinesis specifically.)</p>

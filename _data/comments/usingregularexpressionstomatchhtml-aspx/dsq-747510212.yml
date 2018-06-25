@@ -1,0 +1,5 @@
+id: dsq-747510212
+date: 2007-10-10T18:14:11.0000000-07:00
+name: cioman
+avatar: https://disqus.com/api/users/avatars/cioman.jpg
+message: <p>Sorry! Re-posting, because the previous post didn't show up well:<br>---<br><br>&lt;/?[a-z][a-z0-9]*[^&lt;&gt;]*&gt;<br>can strip an html file off all tags.<br>Can we prevent it from searching the following tags:<br>a, i, b, p, sup and their closing tag equivalents (i have removed &lt;&gt; as the tags weren't displaying when I posted the query earlier)<br>The application of such a regex would be to preserve all the tags that make a structure of the text, with minimal formatting.<br>What would be better if one could replace 'i' with 'em' and 'b' with 'strong' (replace '' with &lt;&gt; please, I was having problems posting this query to the forum).<br>Any ideas??<br>Thanks, in advance.</p>

@@ -1,0 +1,5 @@
+id: dsq-747518973
+date: 2007-03-06T22:50:34.0000000-08:00
+name: Phil Scott
+avatar: https://disqus.com/api/users/avatars/Phil Scott.jpg
+message: "<p>For what it's worth, the left:60% on #searchWrapper is throwing things off.  I think it's keeping it's width and just shoving it 60% to the right.  Adding something like width:40% to the element should get rid of the horizontal scrollbar.</p>"

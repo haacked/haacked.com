@@ -1,0 +1,5 @@
+id: dsq-747536541
+date: 2011-11-26T00:23:03.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Mohammed I went with a physical server because when I first started hosting with them, Jeff Atwood and I were both hosting on the same box in separate VMs under our control. We had control of the physical machine and our individual VMs.<br>In exchange for blogging about them once a year (with no editorial control by them, they said I can bash them if that's how I feel), we got a good deal. :)<br>Jeff has since left to host on TypePad, but I've stuck around because having a server with these specs at my disposal is quite useful.</p>

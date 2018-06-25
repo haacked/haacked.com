@@ -1,0 +1,5 @@
+id: dsq-747516677
+date: 2006-09-14T18:10:23.0000000-07:00
+name: Ben Ward
+avatar: https://disqus.com/api/users/avatars/Ben Ward.jpg
+message: <p>Just to be an utter perdant, you don't need the ‘dumped-by’ value to be the reverse of ‘dumped’, you can instead use the HTML ‘rev’ attribute instead of ‘rel’ to represent reverse relationships.<br>Ahem.</p>

@@ -1,0 +1,5 @@
+id: dsq-2648801323
+date: 2016-04-29T01:13:36.0000000-07:00
+name: AlSki
+avatar: https://disqus.com/api/users/avatars/disqus_dDy6A2nwfq.jpg
+message: <p>I have to agree, and also say that any kind of feedback makes a huge difference. <br>I'm currently waiting on a pull request to be accepted, for a popular assertions library where I've added support for .NetCore45 and UWP. Nearly 4 months since pull-requested, and when I emailed the owner he said he would do it over the weekend.... back in March.</p><p>It does however have nothing to compare with a complete UI re-write to support high DPI for a certain code style enforcer, which got accepted after 2 years and 2 days with "Changes have been merged."</p><p>Oh, my efforts feel so validated! :-)</p>

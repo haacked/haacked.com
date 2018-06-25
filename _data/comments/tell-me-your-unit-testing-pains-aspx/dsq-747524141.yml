@@ -1,0 +1,5 @@
+id: dsq-747524141
+date: 2009-03-26T18:54:24.0000000-07:00
+name: Mudit Vajpayee
+avatar: https://disqus.com/api/users/avatars/Mudit Vajpayee.jpg
+message: <p>Hey..We have developed a portal where we kept our bussiness logic into .XSD File and for creating the Unit Test Case we placed the file in APP_Code Folder.But  while creating unit test case for any method defined in a class which in turn accesing that .XSD file an exception occured.So we place that file into APP_Data Folder but after that we can't access the logic written in that .XSD file while creating test cases.<br>Please suggest..</p>

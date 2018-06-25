@@ -1,0 +1,5 @@
+id: dsq-747524459
+date: 2010-02-06T20:41:19.0000000-08:00
+name: Sarp
+avatar: https://disqus.com/api/users/avatars/Sarp.jpg
+message: <p>I tried several very simple routing sentence tests in my VS 2008 3.5SP1. I could not achieve to run any. I also tested two other sample websites. Both did not worked in my VS.<br>I downloaded SimpleRoutingTest project from Codeplex, opened and run it in VS 2008 3.5 SP1. Great! it worked.<br>I have a website where I want to use it. I copied SimpleRoutingTest there. It did not worked in this VS.<br>I simplified the approach and created a new website in a new empty VS solution and opened SimpleRoutingTest in the solution also. I copied all files except bin, obj and properties from SimpleRoutingTest to website. I added references of Routing and Abstractions to website. Removed SimpleRoutingTest project from solution. (tried both moved / not moved helpers to App_Code). It does not run. What I am missing? What can be solution to run routing in my website?</p>

@@ -1,0 +1,5 @@
+id: dsq-747523416
+date: 2007-11-18T06:30:57.0000000-08:00
+name: Greg M
+avatar: https://disqus.com/api/users/avatars/Greg M.jpg
+message: <p>I assert that the properties that make your code conducive to correctness proving are the same properties that make it robust and maintainable. Type systems are correctness-provers, but their value (coverage?) depends on their expressiveness. Fortunately languages, type systems and programming practices are getting better and better.<br>For all these reasons, I'd say the code I write now can in general be _automatically_ proved correct to far more detailed and expressive specifications than I would have dreamed of proving by hand ten years ago.</p>

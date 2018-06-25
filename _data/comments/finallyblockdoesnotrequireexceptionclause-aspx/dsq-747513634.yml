@@ -1,0 +1,5 @@
+id: dsq-747513634
+date: 2006-01-09T12:36:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Jayson, no you were right the first time.  FileStream.Close simply calls FileStream.Dispose.  <br><br><br><br>Therefore the using construct would be appropriate and in my opinion even better here.  But I was just making the point about how to use try finally.<br><br><br><br>I should have probably used an example of a non-disposable type.</p>

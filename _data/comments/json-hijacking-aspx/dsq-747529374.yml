@@ -1,0 +1,5 @@
+id: dsq-747529374
+date: 2009-06-25T23:37:00.0000000-07:00
+name: zihotki
+avatar: https://disqus.com/api/users/avatars/zihotki.jpg
+message: "<p>@Asbjørn there are no way to force browser or proxies not to cache something with 100% guarantee, Phil is right here. There may be bugs in proxies and browsers or superb optimizations. We can't absolutely guarantee that using \"Pragma: No-cache;\" or other techniques nothing will be cached.<br>And I agree, the most easiest way to fix this is to use POST instead of GET.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747528853
+date: 2009-04-16T23:39:00.0000000-07:00
+name: Eddie Butt
+avatar: https://disqus.com/api/users/avatars/Eddie Butt.jpg
+message: <p>I like the list of code categories. I can't think of any others. I'm sure someone will, though.<br>Personally, I believe the onus is on the publisher to clarify the intent of the code. We do it internally at my company. We add disclaimers to a given document stating what is purposely not standard (no error handling, no application logging, business logic in wrong layer, fully qualified class names instead of Imports, etc.) for clarity in code samples.<br>Maybe one of the categories is Flame Code? The purpose being to generate "discussion" on the interwebs.</p>

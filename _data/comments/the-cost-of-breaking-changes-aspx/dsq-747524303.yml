@@ -1,0 +1,5 @@
+id: dsq-747524303
+date: 2008-03-04T18:57:18.0000000-08:00
+name: Joe Brinkman
+avatar: https://disqus.com/api/users/avatars/Joe Brinkman.jpg
+message: <p>One thing that is missed in this whole thread is that Phil is talking about a general design philosophy that extends beyond a single Interface or ABC.  It is easy to say that a specific feature should be implemented as an Interface and breaking change risk be damned - we'll just recompile.  But if the philosophy espoused by the TDD crowd were applied accross the board, as many here are suggesting, then the result would be complete instability.  When you multiply the risk posed by an interface times the number of interfaces that were implemented instead of ABCs, then the overall risk goes up dramatically and you almost guarantee that every release would break every existing application.  Not exactly a winning formula for platform adoption.</p>

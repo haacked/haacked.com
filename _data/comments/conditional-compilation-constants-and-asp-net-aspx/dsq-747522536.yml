@@ -1,0 +1,5 @@
+id: dsq-747522536
+date: 2007-10-12T04:07:26.0000000-07:00
+name: Jammer
+avatar: https://disqus.com/api/users/avatars/Jammer.jpg
+message: "<p>So there is no way to add a 'global' build option using the #if #endif directives?  What I'm reading here is that I have to modify:<br>1) the Web.config file <br>2) all the .ASPX files that need the @page directive.<br></p>"

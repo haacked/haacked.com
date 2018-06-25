@@ -1,0 +1,5 @@
+id: dsq-747530077
+date: 2010-05-06T15:06:14.0000000-07:00
+name: Nick Foster
+avatar: https://disqus.com/api/users/avatars/Nick Foster.jpg
+message: <p>Can anyone get this to work in VB?  I've translated it to:<br>&lt;Extension()&gt;<br>Public Sub ReturnsInOrder(Of T As Class, TResult)(ByVal setup As ISetup(Of T, TResult), ByVal ParamArray results As TResult())<br>  setup.Returns(New Queue(Of TResult)(results).Dequeue)<br>End Sub<br>but it always returns me the first item in the array.<br>I've used Dominic's method above but would like the readability that the extension method would provide.</p>

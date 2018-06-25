@@ -1,0 +1,5 @@
+id: dsq-747529420
+date: 2012-04-26T14:54:23.0000000-07:00
+name: Jason
+avatar: https://disqus.com/api/users/avatars/Jason.jpg
+message: <p>ok, so I've seen several methods - mostly unparseable crufts - <a href="http://sitepen.com/blog/2008/09/25/security-in-ajax" rel="nofollow noopener" title="sitepen.com/blog/2008/09/25/security-in-ajax">sitepen.com/blog/2008/09/25...</a> - to prevent this. However, I'm wondering if serving the json over SSL and always have a top level object prevents this issue. Most of the information surrounding this issue seems to be pre-2009. So for those of us that are wanting to keep our json secure, finding current methods and practices is challenging. Any insight you can offer would be great. Thanks.</p>

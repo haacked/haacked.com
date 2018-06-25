@@ -1,0 +1,5 @@
+id: dsq-747524480
+date: 2011-01-17T23:23:12.0000000-08:00
+name: Jayesh
+avatar: https://disqus.com/api/users/avatars/Jayesh.jpg
+message: <p>Hi,<br>I am using URL Routing for display user profiles. I am using master page and child pages. The profile page is a child page and the master page has a login status control. When I login (say user x) through the modal popup which is in the master page itself, i can browse the site with smoothly and reach the routed page. When I log out from the routed page using the login status i get redirected to my home page as required as my login status also is logged out. If i login from this homepage now with another username say y, i get logged in successfully.<br>The problem is that when I again use the routed to get to the routed page, I get the previous user x still logged in. When i come to homepage I see user y logged in. So I have two sessions working; one in the routed page, and other in the whole of the website.<br>I will be obliged if anyone can point out the session problem. :)</p>

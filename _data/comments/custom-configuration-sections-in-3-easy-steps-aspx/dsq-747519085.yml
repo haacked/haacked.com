@@ -1,0 +1,5 @@
+id: dsq-747519085
+date: 2007-09-12T22:07:34.0000000-07:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: '<p>This code is a potential problem:<br>private static BlogSettings settings <br>    = ConfigurationManager.GetSection("BlogSettings") as BlogSettings;<br>It is not certain what the name of the section will be. For example, here the name of the section is not what you expected: <br>&lt;configuration&gt;<br>  &lt;configSections&gt;<br>      &lt;section name="BlogSection" type="Fully.Qualified.TypeName.BlogSettings,   <br>      AssemblyName" /&gt;<br>  &lt;/configSections&gt;<br>  &lt;BlogSettings<br>    frontPagePostCount="10"<br>    title="You’ve Been Haacked" /&gt;<br>&lt;/configuration&gt;</p>'

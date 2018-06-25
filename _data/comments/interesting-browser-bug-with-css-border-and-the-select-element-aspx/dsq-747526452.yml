@@ -1,0 +1,5 @@
+id: dsq-747526452
+date: 2008-10-14T05:14:12.0000000-07:00
+name: Clint Rutkas
+avatar: https://disqus.com/api/users/avatars/Clint Rutkas.jpg
+message: <p>Phil, it is because your HTML isn't closed properly.<br>Your ending select doesn't terminate <b>/select</b> instead of just <b>select</b></p>

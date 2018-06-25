@@ -1,0 +1,5 @@
+id: dsq-747516690
+date: 2006-09-15T17:04:16.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Vern: Well if we wanted to support MySql or Firebird etc... THen we'd move away from Stored Procs and evaluate NHibernate etc...<br>So it's not exactly a moot point.</p>"

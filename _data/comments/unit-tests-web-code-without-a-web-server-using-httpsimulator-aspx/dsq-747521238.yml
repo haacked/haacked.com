@@ -1,0 +1,5 @@
+id: dsq-747521238
+date: 2007-06-20T21:02:22.0000000-07:00
+name: Mark
+avatar: https://disqus.com/api/users/avatars/Mark.jpg
+message: <p>You don't need to extract the interface. I had the same problem, what you do is compile a signed version of the HttpSimulator on your vista machine then reference the assembly in your unit test projects. This way, your build server does not compile the code itself. That was my work around.</p>

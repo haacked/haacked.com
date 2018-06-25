@@ -1,0 +1,5 @@
+id: dsq-747530989
+date: 2010-03-05T05:26:22.0000000-08:00
+name: 'Benjamin &quot;balupton&quot; '
+avatar: https://disqus.com/api/users/avatars/Benjamin &quot;balupton&quot; .jpg
+message: <p>Got to agree with Heine, came up with the following with my own independent testing:<br></p><p>asdasd</p><p><br>Should really have a bold disclaimer that server side validation is still required and that it can make basic XSS exploits possible if the developer allows for the text field to have a value inserted via say a URL or saved query. As such a bad short url could make use of this, have the website insert the bad text into the textfield, and the unwary user mouses over the page, and bang their cookie details are sent away or whatnot, and some user is wondering they they just bought a bunch of stuff they didn't want.</p>

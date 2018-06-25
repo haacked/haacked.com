@@ -1,0 +1,5 @@
+id: dsq-747533637
+date: 2012-09-13T22:03:31.0000000-07:00
+name: Pete Jaffe
+avatar: https://disqus.com/api/users/avatars/Pete Jaffe.jpg
+message: <p>This comment is coming late to this blog post, but I would say this was one of the best writeups I found that mitigated some of my frustrations around not being able to determine the route name of a matched route. I was just surprised that you didn't include "debugging route matching" as one of the potentially main motivations for this desire. I could have saved myself plenty of time trying to reason through which route was matched based on looking at the data available off the Route, and wishing that the cool RouteDebugger library did a better job highlighting matched routes in child actions.<br>Next time I find myself in the throws of route matching debugging, I might just implement that use of the DataTokens for storing it. Thanks for the idea, and GE entertaining post. It makes me want to run out and get a Turducken. <br>-Pete</p>

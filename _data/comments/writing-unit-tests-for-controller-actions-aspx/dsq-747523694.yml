@@ -1,0 +1,5 @@
+id: dsq-747523694
+date: 2007-12-10T00:14:30.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Method <code>Foo</code> takes in an <code>IHttpContext</code>. So I dutifully mock <code>IHttpContext</code>. However, Foo wants to call a method on <code>HttpContext.Request</code>. Now I need to mock out <code>IHttpRequest</code> so that my <code>IHttpContext</code> mock return an instance of <code>IHttpRequest</code> to my method Foo.<br>It's good to try to keep call trains short (aka avoid Foo.Bar.Baz.Quux), but even short ones require you mock each point in the chain.</p>

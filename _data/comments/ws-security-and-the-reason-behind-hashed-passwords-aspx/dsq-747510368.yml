@@ -1,0 +1,5 @@
+id: dsq-747510368
+date: 2004-11-04T01:28:00.0000000-08:00
+name: Sami Vaaraniemi
+avatar: https://disqus.com/api/users/avatars/Sami Vaaraniemi.jpg
+message: <p>I see what you are saying...<br><br><br><br>Yet, I raised the question because in my ASP.NET web app hashing the passwords actually works the way I want. If a hacker manages to steal the passwords (say for example he gets access to an old database backup tape), the hashed passwords are utterly useless for the hacker. He cannot use the hash to authenticate successfully (at that point I do have other problems, but at least the passwords were not leaked out).<br><br><br><br>The reason why it works with my ASP.NET app is that the user-provided password is hashed on the server side just before doing the comparison against the hash in the database. This of course requires I use SSL.<br><br><br><br>So as far as I see, the only way to store hashes in the database *and also* keep the passwords safe is for the client to give the password to WSE in clear text, and then encrypt the message.</p>

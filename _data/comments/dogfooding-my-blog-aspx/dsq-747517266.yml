@@ -1,0 +1,5 @@
+id: dsq-747517266
+date: 2006-10-13T04:50:43.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yes, we do have plans to support the tag microformat.  So any links with the attribute rel="tag" will be parsed and inserted as metadata for a post so users can browse posts for a tag.</p>

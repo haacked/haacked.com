@@ -1,0 +1,5 @@
+id: dsq-747519170
+date: 2007-05-06T03:18:31.0000000-07:00
+name: Atif Aziz
+avatar: https://disqus.com/api/users/avatars/Atif Aziz.jpg
+message: <p>If you like Javascript Minimizer, you may also want check out <a href="http://www.raboof.com/projects/jazmin/" rel="nofollow noopener" title="http://www.raboof.com/projects/jazmin/">Jazmin</a>. Both are based off the original C-based <a href="http://www.crockford.com/javascript/jsmin.html" rel="nofollow noopener" title="http://www.crockford.com/javascript/jsmin.html">JSMin</a> by Douglas Crockford. The difference is that Jazmin is a C# port and an executable that can be run locally for off-line processing. It is also available in the form of an MSBuild task so you can <em>minimize</em> JavaScript files as part of your build process. See the JSCompress task in <a href="http://msbuildtasks.tigris.org/" rel="nofollow noopener" title="http://msbuildtasks.tigris.org/">MSBuild Community Tasks Project</a>.</p>

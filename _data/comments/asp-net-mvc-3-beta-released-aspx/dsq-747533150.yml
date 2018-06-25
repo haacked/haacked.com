@@ -1,0 +1,5 @@
+id: dsq-747533150
+date: 2010-10-31T12:50:21.0000000-07:00
+name: Alexander Taran
+avatar: https://disqus.com/api/users/avatars/Alexander Taran.jpg
+message: <p>I know you will look into publishing scenarios later in  the cicle closer to release, but meanwhile I have to report that now "publish" from within vs2010 does not include most of cshtml files, even more it confused me with including some of them.<br>should be more consistent way to include all assemblies needed to run mvc3 razor website into bin directory.<br>Keep up the good work. MVC is awesome.</p>

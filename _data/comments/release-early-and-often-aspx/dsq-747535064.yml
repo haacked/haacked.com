@@ -1,0 +1,5 @@
+id: dsq-747535064
+date: 2011-04-22T00:05:48.0000000-07:00
+name: Tim VanFosson
+avatar: https://disqus.com/api/users/avatars/Tim VanFosson.jpg
+message: "<p>@raul - you can avoid the issue of early releases being poor quality by proper scoping of features to releases and by holding back features that aren't ready...and never releasing known crappy code!  You can also use internal releases for very early work where you know you don't have enough features to support real use of the application, but do want to get early feedback.  Separating QA/Production release cycles can also be used to good effect to get early feedback from QA while waiting to push out features into production until enough related features are finished to make it a useful addition.  Note: I'd use this to accelerate the feedback cycle, not lengthen the release cycle.<br>We typically try to get the initial release into customer hands within a month of starting to code,  often as little as 2 weeks.  We may not have the first production release ready for as long as 3 months -- and sometimes that production release doesn't do much -- but I want people exercising the app as soon as possible.</p>"

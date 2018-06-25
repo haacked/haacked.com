@@ -1,0 +1,6 @@
+id: dsq-1924042617
+replyToId: dsq-1923160346
+date: 2015-03-23T14:01:07.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yes, it could be! I think the reason I have it split up like that is because I actually want "wip" to be git add -A so it adds all my files and not just the ones already in the index.</p>

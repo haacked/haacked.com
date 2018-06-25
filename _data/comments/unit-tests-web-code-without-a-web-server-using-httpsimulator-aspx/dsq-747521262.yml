@@ -1,0 +1,5 @@
+id: dsq-747521262
+date: 2007-08-25T15:44:49.0000000-07:00
+name: Ulu
+avatar: https://disqus.com/api/users/avatars/Ulu.jpg
+message: "<p>My recipe is: Plasma + TypeMock. I use Plasma for in-process testing and TypeMock to get access to the HTTPContext and Page objects. So far, I haven't used it in any tests, but I've got a valid reference to my page and verified that its controls are there, and this is a big step. Finally I'm able to use the same level of abstraction that I use in my production code.<br>So, I'm able to write code like this:<br>   System.Web.UI.Page page = GetPage(\"~/Default.aspx\");<br>   System.Web.UI.WebControls.Label label = page.FindControl(\"Label1\");<br>   Assert.AreEqual(\"Hello World\", label.Text);<br>The details are here <a href=\"http://dotfresh.blogspot.com/2007/08/aspnet-tesability-finally-way-it-should.html\" rel=\"nofollow noopener\" title=\"http://dotfresh.blogspot.com/2007/08/aspnet-tesability-finally-way-it-should.html\">http://dotfresh.blogspot.co...</a><br>ulu</p>"

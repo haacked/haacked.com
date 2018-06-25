@@ -1,0 +1,5 @@
+id: dsq-747529756
+date: 2009-08-19T05:56:00.0000000-07:00
+name: Neal Blomfield
+avatar: https://disqus.com/api/users/avatars/Neal Blomfield.jpg
+message: <p>Tobin's idea sounds much more appealing.<br>public static void Enforce(Action[TransactionScope] action) <br>  {<br>    using (TransactionScope transaction = new TransactionScope())<br>   {<br>      action(transaction);<br>      var txStatus = Transaction.Current.TransactionInformation.Status;<br>      if( txStatus == TransactionStatus.InDoubt )<br>      {<br>         throw new InDoubtTransactionException();<br>      }<br>    }<br>  }<br></p>

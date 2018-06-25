@@ -1,0 +1,5 @@
+id: dsq-747525812
+date: 2008-07-22T01:00:23.0000000-07:00
+name: Jim
+avatar: https://disqus.com/api/users/avatars/Jim.jpg
+message: <p>Good post.  I find TDD interesting, though I still don't understand everything.  <br>For example, "tests shouldn't hit the database."  What if I have logic in my stored procedures?  That logic has to be tested.  In some of our systems, we prefer to keep substantial logic in the stored procedures, because if we find a bug, we can patch the stored procedure much quicker than redistributing a new executable to our clients.  So, when I read something like this, it sounds like TDD isn't possible (or at least easy to do) when logic is stored in the database.<br>Does TDD work if the database is used only for storage?</p>

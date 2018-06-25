@@ -1,0 +1,5 @@
+id: dsq-747534385
+date: 2012-12-11T21:45:31.0000000-08:00
+name: Pramod Fanda
+avatar: https://disqus.com/api/users/avatars/Pramod Fanda.jpg
+message: <p>Hi Phil,<br>I am getting this error when I try to install nuget.server package in VS 2010 to create a internal hosted nuget website to host internal packages.<br>Could not install package 'RouteMagic 1.2'. You are trying to install this package into a project that targets '.NETFramework,Version=v3.5', but the package does not contain any assembly references or content files that are compatible with that framework. For more information, contact the package author.<br>Any thoughts?</p>

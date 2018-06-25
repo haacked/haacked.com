@@ -1,0 +1,5 @@
+id: dsq-747514044
+date: 2006-02-05T22:27:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>Ok, after a little Googling, there's a big problem with both approaches.<br><br><br><br>#1 is not supported by many browsers.  #2 doesn't properly use a closure so the \"this\" keyword always refers to window and is totally useless.</p>"

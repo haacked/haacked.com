@@ -1,0 +1,5 @@
+id: dsq-747527638
+date: 2009-01-06T13:34:43.0000000-08:00
+name: Dave Reed
+avatar: https://disqus.com/api/users/avatars/Dave Reed.jpg
+message: "<p>We had a pretty sophisticated parser that did this at a previous company of mine. It too used manual parsing for the best performance. An interesting enhancement it had was that it supported an inline if style syntax so you could deal with null values and non-null values differently. For example, you wanted to format a contact's BirthDate field but Contact may be null, so {Contact.BirthDate} is going to cause problems. You did it something like this: {?Contact:{BirthDate:MM/dd/yyyy}}{!Contact:N/A}. Dealing with brace escaping with these nested expressions was just way too hairy for a regex. The whole thing was critical to operations -- administrators configured the site with the format string the client wanted, which the developers couldn't possibly know ahead of time.</p>"

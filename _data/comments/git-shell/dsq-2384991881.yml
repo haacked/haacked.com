@@ -1,0 +1,5 @@
+id: dsq-2384991881
+date: 2015-11-30T00:49:54.0000000-08:00
+name: Mads
+avatar: https://disqus.com/api/users/avatars/Laumania.jpg
+message: "<p>Hi Phil.</p><p>Now this article is about Windows and that's all fine. \"Sadly\" I'm doing a game in Unity3d currently for iPhone and is therefore on a Mac.</p><p>Of cause I use Github Desktop (great app!) and everything is fine and working with two-step auth and all.</p><p>The problem is, that yesterday I needed to go to the commandline, which is easy, to add and push some tags, as I have just created a release.</p><p>But, I cannot push my tags to Github...it keeps asking for credentials and even whenI provide that, it fails, telling me that it's wrong - which it's not.</p><p>Actually I cannot even do a pull or push, ask for credentials, which it wouldn't take.</p><p>Error:<br>remote: Invalid username or password.<br>fatal: Authentication failed for '<a href=\"https://github.com/Laumania/\" rel=\"nofollow noopener\" title=\"https://github.com/Laumania/\">https://github.com/Laumania/</a>[REPO.NAME]</p><p>So what am I doing wrong?</p>"

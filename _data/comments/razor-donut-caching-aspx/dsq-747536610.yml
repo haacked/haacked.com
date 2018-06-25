@@ -1,0 +1,5 @@
+id: dsq-747536610
+date: 2011-11-26T04:14:44.0000000-08:00
+name: Ignat Andrei
+avatar: https://disqus.com/api/users/avatars/Ignat Andrei.jpg
+message: <p>I like <br>@cache(TimeSpan.FromSeconds(10))<br>Then we can define<br>@nocache = @cache(TimeSpan.FromMilliSeconds(TimeSpan.MinValue.TotalMilliseconds+1))<br>And will be just accurate ...</p>

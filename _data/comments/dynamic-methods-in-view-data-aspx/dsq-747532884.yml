@@ -1,0 +1,5 @@
+id: dsq-747532884
+date: 2010-08-02T17:44:50.0000000-07:00
+name: Bob Cravens
+avatar: https://disqus.com/api/users/avatars/Bob Cravens.jpg
+message: <p>I am not understanding if this API change will break existing code. If so, then please rename. After upgrading a project to a new version of mvc, the first thing I like to see is that every thing still works.</p>

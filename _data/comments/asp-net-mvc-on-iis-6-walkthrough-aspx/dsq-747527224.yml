@@ -1,0 +1,5 @@
+id: dsq-747527224
+date: 2008-12-09T20:09:10.0000000-08:00
+name: Eric Polerecky
+avatar: https://disqus.com/api/users/avatars/Eric Polerecky.jpg
+message: <p>I do not have wildcard mappings available on this version of XP. <br>First, is there a service pack or otherwise update to IIS for XP?<br>Second, I added a * mapping under application mappings...with worked to remove the .mvc extension...but breaks my web services<br>The HTTP verb POST used to access path 'Web site name' is not allowed<br><br>Any hints?</p>

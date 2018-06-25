@@ -1,0 +1,5 @@
+id: dsq-747534384
+date: 2012-03-06T17:13:46.0000000-08:00
+name: Andrea
+avatar: https://disqus.com/api/users/avatars/Andrea.jpg
+message: <p>Well, I'm still facing issues with this.<br>I just want to debug 404 errors, but installing this NuGet package simply doesn't do the trick.<br>The old RouteDebugger also doesn't work when I get a 404 error page (it does work with matching routes).</p>

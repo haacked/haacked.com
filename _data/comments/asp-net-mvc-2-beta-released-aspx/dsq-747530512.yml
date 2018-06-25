@@ -1,0 +1,5 @@
+id: dsq-747530512
+date: 2009-11-17T01:59:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@lynn We basically disable outputcache on an action method called via a RenderAction call which is better behavior than the previous where the whole page would get called.<br>@LaptopHeaven Yes, it can be installed side-by-side.</p>

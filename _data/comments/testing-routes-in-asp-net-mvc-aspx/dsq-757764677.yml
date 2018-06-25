@@ -1,0 +1,5 @@
+id: dsq-757764677
+date: 2013-01-06T05:56:33.0000000-08:00
+name: Justin Holzer
+avatar: https://disqus.com/api/users/avatars/Justin Holzer.jpg
+message: <p>While I like the idea of being able to unit test routes, wouldn't the type of unit test described in this post be extremely brittle? The examples appear to have a dependency on the implementation of the RouteCollection class.</p><p>For instance, this code is assuming that the GetRouteData method of RouteCollection is calling Request.AppRelativeCurrentExecutionFilePath in HttpContextBase:</p><p>    var httpContextMock = new Mock&lt;httpcontextbase&gt;();<br>    httpContextMock.Setup(c =&gt; c.Request.AppRelativeCurrentExecutionFilePath)<br>        .Returns(url);</p><p>    RouteData routeData = routes.GetRouteData(httpContextMock.Object);Granted, the implementation of the MVC framework is not something that will be changing all that often. Even so, isn't this crossing unit test boundaries? Wouldn't this be better served with an integration test or is this just one of those cases where folks feel it's OK to bend the rules a bit because of the added value (being able to quickly validate your routes)?</p>

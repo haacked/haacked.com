@@ -1,0 +1,5 @@
+id: dsq-747536629
+date: 2011-12-07T06:00:26.0000000-08:00
+name: Konstantin Tarkus
+avatar: https://disqus.com/api/users/avatars/Konstantin Tarkus.jpg
+message: <p>Having "named" cache policies defined in web.config would also be useful.<br>@cache("SomeCachePolicy") {<br>    </p><p>This part is cached for @cahe.Duration seconds. @DateTime.Now</p><p><br>}</p>

@@ -1,0 +1,5 @@
+id: dsq-747516115
+date: 2006-08-08T14:37:25.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Ah, I see.  Well personally, I never use the lock statement as is because it does not specify a timeout.  Instead, I use the TimedLock because it provides the best of both worlds. <br>It has lock-like semantics (via a using block), but allows you to specify a timeout (like using a monitor).<br>The problem with using a monitor directly is you need to remember to always write the exit code properly by putting it in a try/finally block.<br>And "try/finally" always triggers "using!" in my head when applicable.</p>

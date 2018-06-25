@@ -1,0 +1,5 @@
+id: dsq-747513331
+date: 2005-11-01T06:41:00.0000000-08:00
+name: Steve Harman
+avatar: https://disqus.com/api/users/avatars/Steve Harman.jpg
+message: <p>I don't think that granting the ASPNET worker process *temporary* write access to the /bin/ directory for the purpose of a One-Touch-Upgrade to subText is too much to ask. <br><br><br><br>I guess my only question is, what happens to any old dotText files that aren't over written by the new subText files? i.e.- a file that used to be in dotText, but is renamed in (or no longer a part of) subText? Or a file that was added to a custom implementation of dotText?  Are these files simply abandoned?  I'm not sure if the _right thing to do_ is to 1) first delete all the files and folders (except the Images directory) and then unpack subText, or 2) just unpack over the existing dotText files.  There are pros and cons to either case I suppose, so just something to think about.<br><br></p>

@@ -1,0 +1,5 @@
+id: dsq-747528687
+date: 2009-12-21T01:56:13.0000000-08:00
+name: mike
+avatar: https://disqus.com/api/users/avatars/mike.jpg
+message: <p>Have been trying to get this to work with no success.  When debugging I am noticing that the url:'/Home/GridData/' is getting called.  There is no data in the grid however?  Could this be because I am using a masterpage.  I have also tried '../../home/griddata' with no success.</p>

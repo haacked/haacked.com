@@ -1,0 +1,5 @@
+id: dsq-747526290
+date: 2008-08-29T02:44:10.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Simone, thanks for the tip. I corrected my post. The thing is, an action has always been a string that just happened to map to a method on a controller. All along, you could have written action filters that change that string, thus destroying the tenuous connection between an action name and method.<br>For strongly typed checking, there are other techniques you can use, such as a static class of custom made route values so that all your strings are in one place. etc... Use your imagination, I think you'll figure out other ideas.<br>Remember, the request starts off as a string, even if we took away ActionName, that doesn't suddenly make the URL helpers work in all cases.</p>

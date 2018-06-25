@@ -1,0 +1,5 @@
+id: dsq-747523430
+date: 2007-11-19T21:44:41.0000000-08:00
+name: Troy DeMonbreun
+avatar: https://disqus.com/api/users/avatars/Troy DeMonbreun.jpg
+message: <p>Back to the argument on how Frans' quote:<br></p><blockquote>When focusing on testability, one can fall into the trap of believing that the tests prove that your code is correct.</blockquote><p><br>...is a "straw man" fallacy.<br>I noticed via the Wikipedia entry for TDD:<br></p><blockquote>Test-driven development can help to build software better and faster. It offers more than just simple <strong>validation of correctness</strong>...</blockquote><p><br>(Presumably, at least <em>one</em> of the "major TDD proponents" has recently reviewed the Wikipedia article.)<br>So, Phil, why do find it so hard to believe that there are a significant percentage of developers out there (uninterested in buying a cheap Bay-area bridge) that believe tests prove code correctness?</p>

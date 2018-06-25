@@ -1,0 +1,6 @@
+id: dsq-1118521224
+replyToId: dsq-1118461750
+date: 2013-11-11T12:12:14.0000000-08:00
+name: martijnhoekstra
+avatar: https://disqus.com/api/users/avatars/martijnhoekstra.jpg
+message: "<p>urgh, I replied to your logged out version, which is now gone.</p><p>EDIT: No I/you didn't. I just guess disqus is too complicated for me, which doesn't bode well for my argument ;)</p><p>Terminating a function with a return value is a side effect. The reason why that possibly introduces problems is that it gives you extra cognitive overhead on keeping track off what conditions need to be fulfilled for you are to be still inside your function body. In this case that obviously doesn't matter much, it's far too simple for that to be problematic. It is still expressed clearer with an if expression. For something as simple as the above, it can be done with the C# ternary operator, which is an if expression:</p><p>string something (int number) {<br>  return (number &gt; 17) ? \"lala\" : \"lolo\";<br>}</p>"

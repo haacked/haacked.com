@@ -1,0 +1,6 @@
+id: dsq-2499104243
+replyToId: dsq-747516974
+date: 2016-02-06T00:10:27.0000000-08:00
+name: Shaun Wilson
+avatar: https://disqus.com/api/users/avatars/mrshaunwilson.jpg
+message: <p>the appender would need to be rewritten to store messages to a queue, and then unload them in a dedicated thread which writes to DB (or, through some interlocked method, marshals each message if you need the writes guaranteed before continuing execution.)</p><p>the problem is a connection creates an ambient transaction on the "Logical" thread (in .NET this will span appdomain boundaries via marshalbyrefobject/remoting, for example.) The next time a connection is opened the existing ambient transaction is enlisted in a distributed transaction along with the new connection. Opening and interacting on a dedicated thread is one of the best ways to avoid this problem. Unfortunately this means the ado appender needs rewriting. ugh... good to know without finding out the hard way.</p>

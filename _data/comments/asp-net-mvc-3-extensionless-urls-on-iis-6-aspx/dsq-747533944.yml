@@ -1,0 +1,5 @@
+id: dsq-747533944
+date: 2011-02-15T11:23:03.0000000-08:00
+name: Kevin Jensen
+avatar: https://disqus.com/api/users/avatars/Kevin Jensen.jpg
+message: "<p>I was able to deploy properly but my app keeps trying to redirect on [Authorize] controllers to /Account/Login even though i'm using windows authentication as stated in my web.config<br>Here is my web.config: <a href=\"http://pastie.org/1568510\" rel=\"nofollow noopener\" title=\"http://pastie.org/1568510\">http://pastie.org/1568510</a></p>"

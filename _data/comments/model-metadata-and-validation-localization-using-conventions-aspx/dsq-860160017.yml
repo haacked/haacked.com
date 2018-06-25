@@ -1,0 +1,5 @@
+id: dsq-860160017
+date: 2013-04-11T16:05:49.0000000-07:00
+name: tek
+avatar: https://disqus.com/api/users/avatars/tek.jpg
+message: <p>Cool stuff, but does not build in .NET 4.0, I really need to use it but my project is 4.0. And if I force a build ( pass an additional param of NULL) it only works for the Display attribute and not for any Error Messages or Prompts..... A bit Urgent so any help is appreciated.</p>

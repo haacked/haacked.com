@@ -1,0 +1,5 @@
+id: dsq-747533714
+date: 2010-12-12T15:44:36.0000000-08:00
+name: Cassio R Eskelsen
+avatar: https://disqus.com/api/users/avatars/Cassio R Eskelsen.jpg
+message: <p>Hi Phil!<br>I had installed the Async Framework as soon as it was announced at the PDC. When installing the Asp.Net MVC 3 RC 1 I had the problem of lack of compatibility with the Async Framework and uninstalled it, thus installing the RC 1. Now when you install RC 2, I get the following message:<br>"Blocking Issues:<br>This product is Incompatible with the Microsoft Visual Studio CTP Async. Please uninstall the component, then try to install this product again.<br>"<br>You know what I could do to force the installation?<br>Thanks!<br>Cassio</p>

@@ -1,0 +1,5 @@
+id: dsq-747536021
+date: 2011-08-18T19:23:42.0000000-07:00
+name: Joey Robichaud
+avatar: https://disqus.com/api/users/avatars/Joey Robichaud.jpg
+message: <p>Instead of generating javascript when called. It should generate the javascript when the controller is saved. That way it can be referenced when writing the rest of your site's js.</p>

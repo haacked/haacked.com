@@ -1,0 +1,5 @@
+id: dsq-747532357
+date: 2010-05-25T22:07:09.0000000-07:00
+name: Mike Murray
+avatar: https://disqus.com/api/users/avatars/Mike Murray.jpg
+message: <p>I think EricH is on the right track.  What you are describing sounds like the original intention of "object-orientated" programming, as first by coined by Alan Kay.  Some of this could be done today in C#, but not very easily.  C# (along with Java, C++, and the other popular programming languages we somewhat misapply the term "objected-oriented" to) was not really built on top of the same goals and philosophical assumptions that would easily enable the flexibility you're looking for; but again, some of it can be done to a degree.  Having never used it myself, it seems Smalltalk was built on philosophies and goals more inline with what you seek.<br>I currently in the process of reading <a href="http://www.amazon.com/Object-Thinking-DV-Microsoft-Professional-David/dp/0735619654/" rel="nofollow noopener" title="http://www.amazon.com/Object-Thinking-DV-Microsoft-Professional-David/dp/0735619654/">Object Thinking by David West (published by Microsoft Press)</a>, where it discusses this in great detail.</p>

@@ -1,0 +1,5 @@
+id: dsq-747529665
+date: 2009-08-17T15:33:00.0000000-07:00
+name: Luke Sampson
+avatar: https://disqus.com/api/users/avatars/Luke Sampson.jpg
+message: <p>I've downloaded and run the samples... just wondering is there a way to define a view for a particular request type, e.g. if it's an Atom request, can you customise the XML output so it has something in the feed/entry/author elements?<br>So far, I'm not really convinced this would be a valuable feature - I've built REST services consumed by other applications using plain old MVC and it seems easier and gives you plenty of control. Not to say REST couldn't be better supported by the framework, but this approach seems unwieldy.</p>

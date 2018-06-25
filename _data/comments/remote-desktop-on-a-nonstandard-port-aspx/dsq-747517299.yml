@@ -1,0 +1,5 @@
+id: dsq-747517299
+date: 2010-05-13T19:21:56.0000000-07:00
+name: Tim Post
+avatar: https://disqus.com/api/users/avatars/Tim Post.jpg
+message: <p>I really don't see the need to change the port that terminal services listens on? If you have 8 virtual machines, each with its own internal IP address, you just have the NAT send requests on port 65501 to port 3389 on internal IP 1, 65502 to 3389 on internal IP 2, etc (or pick whatever range you want).<br>Either way, you still have to keep track of what external port leads to what virtual machine, but why change the listening port on the VM side?</p>

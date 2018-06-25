@@ -1,0 +1,5 @@
+id: dsq-1259624231
+date: 2014-02-25T04:00:51.0000000-08:00
+name: hg
+avatar: https://disqus.com/api/users/avatars/hg.jpg
+message: <p>Does anyone know of a Mercurial equivalent to git show --cc? I don't think any of the standard features can do it, but maybe an extension can.</p>

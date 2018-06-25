@@ -1,0 +1,5 @@
+id: dsq-747533107
+date: 2010-10-06T05:06:33.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@George @Stuhin. The Razor team simply inverted the parameter name. Here's what you need to do now. Turns out, it couldn't be named \"optional\" because VB.NET already uses that as a keyword. :)<br><code><br>@RenderSection(\"content\", required: false)<br></code></p>"

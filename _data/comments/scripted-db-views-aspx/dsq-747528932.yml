@@ -1,0 +1,5 @@
+id: dsq-747528932
+date: 2009-05-19T02:16:00.0000000-07:00
+name: Eric Sims
+avatar: https://disqus.com/api/users/avatars/Eric Sims.jpg
+message: "<p>i figured out in that edit_area editor how to make the syntax highlight. it's pretty easy actually.<br>you just create a new .js file (copy a similar existing one like html.js) and add your own highlight logic and instead of doing a 'color: #ff0000', you just do a 'background-color: #ff0000'.<br>hope this helps somebody.</p>"

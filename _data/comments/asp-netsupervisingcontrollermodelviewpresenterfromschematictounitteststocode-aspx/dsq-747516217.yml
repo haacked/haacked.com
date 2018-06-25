@@ -1,0 +1,5 @@
+id: dsq-747516217
+date: 2007-08-24T23:56:29.0000000-07:00
+name: Alexey Romanov
+avatar: https://disqus.com/api/users/avatars/Alexey Romanov.jpg
+message: <p>Can IPostEditView have reference to a BlogPost instead of BlogPostBody, Tags, and BlogPostId?<br>Or should this be avoided?</p>

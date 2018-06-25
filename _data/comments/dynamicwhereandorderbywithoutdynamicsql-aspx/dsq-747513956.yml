@@ -1,0 +1,5 @@
+id: dsq-747513956
+date: 2006-01-26T03:37:00.0000000-08:00
+name: Ryan Rinaldi
+avatar: https://disqus.com/api/users/avatars/Ryan Rinaldi.jpg
+message: <p>The COALESCE trick works wonders until a column supports NULLs and you didn't pass in a criteria for that column.  i.e. the following clause:<br><br><br><br>WHERE FirstName = COALESCE(@firstName,FirstName)<br><br><br><br>would become<br><br><br><br>WHERE FirstName = FirstName<br><br><br><br>and wherever FirstName is NULL would be filtered out of the result set.  Which may or may not be the behavior you want. 9 times out of 10 it isn't the behavior I want.  You could try wrapping the left side in a coalesce also and adding another option to the right side...<br><br><br><br>WHERE COALESCE(FirstName, '') = COALESCE(@firstName, FirstName, '')<br><br><br><br>Just goes to show you that every solution just creates more problems! :)</p>

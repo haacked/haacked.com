@@ -1,0 +1,5 @@
+id: dsq-747528574
+date: 2009-04-03T02:12:15.0000000-07:00
+name: Erik Porter
+avatar: https://disqus.com/api/users/avatars/Erik Porter.jpg
+message: <p>@Chris Porter<br>If you're building a medium to large site you'll probably want to control your urls anyway (and call a helper or something to make paths relative to your app or to your CDN or to a single crunched url for all your scripts or css or whatever is appropriate in your case) and then you'll have complete control over the markup in the head tag.  You can still use placeholders like Phil mentioned, which is definitely useful.<br>Nice last name, btw.  ;)</p>

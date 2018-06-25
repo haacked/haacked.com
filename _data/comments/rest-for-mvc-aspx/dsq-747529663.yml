@@ -1,0 +1,5 @@
+id: dsq-747529663
+date: 2009-08-17T13:43:00.0000000-07:00
+name: ranamauro
+avatar: https://disqus.com/api/users/avatars/ranamauro.jpg
+message: "<p>@The Jay Mann: Accept header is indeed supported in this sample. The docs for HttpHelper.GetResponseFormat state:<br>Returns the preferred content type to use for the response, based on the request, according to the following rules:<br>1. If the query string contains a key called \"format\", its value is returned as the content type<br>2. Otherwise, if the request has an Accepts header, the list of content types in order of preference is returned<br>3. Otherwise, if the request has a content type, its value is returned<br>The first option, the one you noted, is only enabled for browsers as a convenience for quick sanity checking (in fact it might make sense to have an option on WebApiEnabledAttribute to disable it), as most browsers won't let you specify an Accept header (fiddler does, but that's not really a browser). This option is checked first as it needs to override the Accept header that the browser normally sends.</p>"

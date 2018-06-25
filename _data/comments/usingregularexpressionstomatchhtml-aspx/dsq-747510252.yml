@@ -1,0 +1,5 @@
+id: dsq-747510252
+date: 2009-03-05T12:10:53.0000000-08:00
+name: Jamp Mark
+avatar: https://disqus.com/api/users/avatars/Jamp Mark.jpg
+message: <p>Here is a regex pattern to capture the URL in anchor tag HREF.<br>/&lt;a\s+href="([^&gt;]+?)"/</p>

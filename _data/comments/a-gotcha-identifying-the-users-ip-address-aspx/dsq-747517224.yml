@@ -1,0 +1,5 @@
+id: dsq-747517224
+date: 2006-10-11T20:00:20.0000000-07:00
+name: Nicholas Paldino [.NET/C# MVP]
+avatar: https://disqus.com/api/users/avatars/Nicholas Paldino [.NET/C# MVP].jpg
+message: <p>I don't understand why you would choose what to send and what not to send.  My impression of Akismet is that when you send a request, you send as much information as possible about the request that came in.<br>That's why in my implementation, I actually dump all the headers in the request to Akismet.  The more information they have, the better decision they can make, the better they can tweak their heuristics.</p>

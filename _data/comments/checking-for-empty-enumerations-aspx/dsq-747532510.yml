@@ -1,0 +1,5 @@
+id: dsq-747532510
+date: 2010-06-10T20:08:37.0000000-07:00
+name: James Hare
+avatar: https://disqus.com/api/users/avatars/James Hare.jpg
+message: <p>Personally, I like declaring both an IEnumerable IsNullOrEmpty and an ICollection IsNullOrEmpty.  With ICollection IsNullOrEmpty, you can take advantage of the Count PROPERTY which is const time and doesn't create an Enumerator. And then I also like creating the IsNotNullOrEmpty as well...<br>    public static bool IsNullOrEmpty&lt;T&gt;(this ICollection&lt;T&gt; input)<br>    {<br>        return (input == null) || (input.Count == 0);<br>    }<br>    public static bool IsNullOrEmpty&lt;T&gt;(this IEnumerable&lt;T&gt; source)<br>    {<br>        return (source == null) || (!source.Any());<br>    }</p>

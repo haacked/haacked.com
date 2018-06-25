@@ -1,0 +1,5 @@
+id: dsq-747528868
+date: 2009-04-17T11:20:00.0000000-07:00
+name: Louis DeJardin
+avatar: https://disqus.com/api/users/avatars/Louis DeJardin.jpg
+message: <p>I'm guessing you'll find a lot of<br>public void SomeSampleAction() <br>{<br>try <br>{<br>throw new CutAndPasteException("Hey, this is sample code! Don't copy it!"); <br>} catch {}<br>//... bunch of sample code.<br>}<br>in code reviews. ;)<br>Good ol' "catch {}". The "on error resume next" of csharp.<br></p>

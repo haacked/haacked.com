@@ -1,0 +1,5 @@
+id: dsq-747530698
+date: 2009-12-14T17:57:59.0000000-08:00
+name: Miha Markič
+avatar: https://disqus.com/api/users/avatars/Miha Markič.jpg
+message: <p>Someone already mentioned but there was no answer.<br>Method EnableClientValidation() works only on root model, not on "submodels" linked through properties.<br>Here is an example, if you have:<br>class RootModel {<br>  public Address MyAddress { get; set; }<br>}<br>class Address { <br>  public string StreetName { get; set; }<br>}<br>and you bind to MyAddress.StreetName in the view, like<br>TextBox("StreetName", Model.MyAddress.StreetName);<br>Then EnableClientValidation() won't pick validation rules. This means that all models have to be flat to work by default. And this is not very elegant IMO.<br>Perhaps one way would be to pass the proper object to EnableClientValidation() like:<br>EnableClientValidation(Model.MyAddress);<br>Any thoughts?</p>

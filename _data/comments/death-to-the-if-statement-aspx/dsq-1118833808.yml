@@ -1,0 +1,6 @@
+id: dsq-1118833808
+replyToId: dsq-1115126789
+date: 2013-11-11T17:11:22.0000000-08:00
+name: richardjking2000
+avatar: https://disqus.com/api/users/avatars/richardjking2000.jpg
+message: <p>Optimal execution is not about code execution, typically its about two other related things:</p><p>Proper data structure design/application<br>Knowing the issues with performance between:<br>-Memory<br>-Files on disk<br>-Network I/O<br>-Database I/O</p><p>Sometimes algorithms will cause performance issues.. but I find 90% of performance issues come down to some misunderstanding of the above.  How many times have I seen a linked-list implementation used when searching was important?</p><p>Assuming the above is understood well by the programmer, writing for maintainability first is generally a good choice.  There are edge cases where this isn't the case, but very few folks ever have to deal with them.. And in cases where performance becomes an issue, then code analysis is acceptable to fall back on.</p><p>These are common sense approaches that solve 97% of the problems facing most systems..</p>

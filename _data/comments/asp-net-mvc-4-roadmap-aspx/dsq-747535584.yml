@@ -1,0 +1,5 @@
+id: dsq-747535584
+date: 2011-07-13T12:40:37.0000000-07:00
+name: Adrian Grigore
+avatar: https://disqus.com/api/users/avatars/Adrian Grigore.jpg
+message: <p>Thanks for the roadmap! <br>You mention a backlog of bugfixes that have been applied to MVC. This this include the following? <br><a href="http://forums.asp.net/p/1699729/4506568.aspx/1?p=True&amp;t=634462078054767166" rel="nofollow noopener" title="http://forums.asp.net/p/1699729/4506568.aspx/1?p=True&amp;t=634462078054767166">forums.asp.net/.../1</a><br>I have a library which makes reusing modelmetadata (validation, scaffolding) a breeze and I'd like to distribute via Nuget, but I'm scared of releasing the library because it might not work anymore in MVC 4 if the bug is not fixed.</p>

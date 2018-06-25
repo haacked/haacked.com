@@ -1,0 +1,5 @@
+id: dsq-747531832
+date: 2010-04-25T17:43:30.0000000-07:00
+name: DalSoft
+avatar: https://disqus.com/api/users/avatars/DalSoft.jpg
+message: <p>MVC 2 <a href="http://stackoverflow.com/questions/2633504/is-asp-net-mvc2-included-in-net-4-0-framework" rel="nofollow noopener" title="http://stackoverflow.com/questions/2633504/is-asp-net-mvc2-included-in-net-4-0-framework">is not included</a> in the .NET 4 framework, but MVC is bin deployable.<br>I would like to see it in the framework, the only reason I can think of for not doing so is the MVC codebase moves too quickly to be GAC'ed.<br></p>

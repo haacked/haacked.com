@@ -1,0 +1,5 @@
+id: dsq-747526557
+date: 2008-11-12T19:36:44.0000000-08:00
+name: Trevor
+avatar: https://disqus.com/api/users/avatars/Trevor.jpg
+message: <p>No matter what I do, when I try this method I get a stack overflow exception.  Seems it finds an infinite loop somewhere.  Is there an update to this that I am perhaps missing?<br>Thanks,<br>Trevor</p>

@@ -1,0 +1,5 @@
+id: dsq-747508774
+date: 2006-12-04T15:41:55.0000000-08:00
+name: ED
+avatar: https://disqus.com/api/users/avatars/ED.jpg
+message: <p>When I run the following:<br>SELECT TOP 10 columnname, columname <br>FROM someTable ORDER By NEWID() <br>WHERE ID NOT IN (SELECT TOP 50 ID FROM SomeTable ORDER BY Id ASC)<br>I get the following errors:<br>msg 156, level 15 , state 1, line 3<br>incorrect syntax near the keyword 'where'<br>msg 156, level 15 , state 1, line 3<br>incorrect syntax near the keyword 'order'<br>Any ideas? Cheers, ED.</p>

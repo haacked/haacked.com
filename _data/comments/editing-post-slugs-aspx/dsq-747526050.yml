@@ -1,0 +1,5 @@
+id: dsq-747526050
+date: 2008-08-13T21:54:12.0000000-07:00
+name: Skip Hire
+avatar: https://disqus.com/api/users/avatars/Skip Hire.jpg
+message: <p>Nice. Do you have a way of getting rid of the .aspx though?<br>Personally I don't think it is good to give away anything about your server. Unfortunately I don't have a dedicated host, so I can't get rid of those tell tale server footprints. However, on my home box, I block the server and I forget what its called now, the one that tells you what programming language is being used headers. I also never have any file extensions on the URLs, all indexes are disabled, so people can't browse your files, anything that contains server-side code is totally blocked from direct access and if you try typing in index.php/asp/aspx/cfm ... you just get redirected.<br>Might sound extreme, but security is paramount in my opinion.</p>

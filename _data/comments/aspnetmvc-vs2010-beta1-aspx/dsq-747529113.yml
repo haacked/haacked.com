@@ -1,0 +1,5 @@
+id: dsq-747529113
+date: 2009-06-12T22:21:00.0000000-07:00
+name: Francesco
+avatar: https://disqus.com/api/users/avatars/Francesco.jpg
+message: <p>I am experiencing the same issue than DonSleza4e with strongly typed view pages.<br>I tried to add the pageParserFilterType attribute on pages node in web.config, but the problem is still there.<br>Is this a known bug?</p>

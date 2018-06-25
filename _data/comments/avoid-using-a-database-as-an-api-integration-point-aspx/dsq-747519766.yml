@@ -1,0 +1,5 @@
+id: dsq-747519766
+date: 2007-04-23T14:17:33.0000000-07:00
+name: Jon Limjap
+avatar: https://disqus.com/api/users/avatars/Jon Limjap.jpg
+message: <p>Indeed, a lot of the abuse that is done using Microsoft technologies happen because of the abuse of the *samples* provided by Microsoft. <br>I believe that the belief that there is such a thing as a "standard" membership provider comes with the fact that most examples are written using that standard -- usually the SqlMemberShip provider that connects, not to a SQL Server 2005 database, but a SQL Server Express 2005 database at that.<br>Perhaps there's really a need to not only educate the Microsoft developer masses beyond Microsoft samples, but make them aware that there are ways of doing things outside of that "sample space".</p>

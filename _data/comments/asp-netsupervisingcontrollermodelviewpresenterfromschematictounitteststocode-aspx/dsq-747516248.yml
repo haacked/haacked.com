@@ -1,0 +1,5 @@
+id: dsq-747516248
+date: 2009-12-17T11:52:56.0000000-08:00
+name: Todd Taylor
+avatar: https://disqus.com/api/users/avatars/Todd Taylor.jpg
+message: <p>For those of you who are using this supervising controller design pattern, what are you doing for CSS on your website... I.e., the ASP.NET Page.theme property doesn't seem to work using the supervising controller when a page theme is added to the code provided with this blog post.  Has anyone figured-out a way to use themes and the supervising control? :-S</p>

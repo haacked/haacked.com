@@ -1,0 +1,6 @@
+id: dsq-1118350805
+replyToId: dsq-1117237687
+date: 2013-11-11T10:13:44.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>You'd have to ask the author of the post I referred to for why. But I can think of scenarios. Perhaps he needs to do some operation on two arrays that's simpler if they're the same length.</p>

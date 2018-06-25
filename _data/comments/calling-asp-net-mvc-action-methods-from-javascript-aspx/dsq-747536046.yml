@@ -1,0 +1,5 @@
+id: dsq-747536046
+date: 2011-11-22T02:12:40.0000000-08:00
+name: Tom McKearney
+avatar: https://disqus.com/api/users/avatars/Tom McKearney.jpg
+message: <p>I think this is really nice, but I have run into a problem with it. <br>It does not seem to pass parameters through normal Model Binding.<br>I have yet to dig in, but if I call a method with a JSON object as its parameter, it does not seem to work unless I bypass the nice $mvc.Controller.Action methods.<br>I have no idea why, but I know it is rather disappointing :(</p>

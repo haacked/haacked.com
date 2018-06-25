@@ -1,0 +1,5 @@
+id: dsq-747511045
+date: 2005-02-23T21:05:00.0000000-08:00
+name: Yex
+avatar: https://disqus.com/api/users/avatars/Yex.jpg
+message: <p>Your problem is the fact that you're using the save icon. After a certain amount of time, when your mouse cursor moves close enough to the save icon, the icon raises the Proximity event, which causes the PromptSendErrorReportToMicrosoft dialog to be raised, which is followed by VS.NET shutting down.<br><br><br><br>The workaround is to "trick" VS.NET by using keyboard shortcuts instead. Use Ctrl + S, or (I can't remember this for sure, don't have VS.NET here at work) Ctrl + Shift + S to Save All. As long as you're careful with your mouse, using these keyboard shortcuts can help you to avoid raising the save icon's Proximity event.<br><br><br><br>;)</p>

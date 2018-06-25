@@ -1,0 +1,5 @@
+id: dsq-2446308828
+date: 2016-01-08T06:11:57.0000000-08:00
+name: Dustin Moris Gorski
+avatar: https://disqus.com/api/users/avatars/dustinmoris.jpg
+message: <p>I personally don't quite understand the use case of GitHub for Windows. It feels like there is a lot of development going into a tool which at the moment is a throw away application after 2 weeks.</p><p>What do I mean by this? It is a great tool, but it has almost no features which are relevant for someone who truly works with Git as their source control. I feel like GitHub for Windows is the first tool a TFS/SVN .NET developer installs to get a familiar experience with Git, but once the developer starts serious business and learns how git works he/she will quickly realize that GitHub for Windows doesn't offer any of the things you would expect and uninstalls it two weeks later to replace it with the git shell or another GUI like smartgit or SourceTree.</p><p>I personally think GitHub for Windows has so much potential and I would love to see it become more useful. Doesn't the team want to make the tool to something more than just a 5 minute toy?</p>

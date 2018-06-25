@@ -1,0 +1,5 @@
+id: dsq-1689082610
+date: 2014-11-11T22:09:54.0000000-08:00
+name: distantcam
+avatar: https://disqus.com/api/users/avatars/distantcam.jpg
+message: <p>Very nice! This should be pretty easy to turn into a VS14 diagnostic and have it turn up as a compiler error.</p><p>One thing though, when searching for the AsyncStateMachineAttribute instead of using GetType it's better to search by name, as the type may come from a different assembly. See <a href="https://github.com/nunit/nunit/issues/64" rel="nofollow noopener" title="https://github.com/nunit/nunit/issues/64">https://github.com/nunit/nu...</a></p>

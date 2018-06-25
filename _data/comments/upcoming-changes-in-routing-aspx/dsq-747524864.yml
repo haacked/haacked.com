@@ -1,0 +1,5 @@
+id: dsq-747524864
+date: 2008-06-22T23:03:15.0000000-07:00
+name: Eilon Lipton
+avatar: https://disqus.com/api/users/avatars/Eilon Lipton.jpg
+message: <p>@Rodj As Phil says you'll have to encode the "/" as some other character because it has a very special meaning.<br>@mario The problem with regexes is right there in your comment. Even the regex you've shown is not equivalent to the default MVC route. You have to wrap additional "(regex)?" clauses around each segment to make them optional. That makes the regex one huge cluster of punctuation that is incredibly hard for people to read.<br>I'd like to meet these "developers" who think they understand regexes. Most of the ones I know *think* they understand regexes but end up creating bad regexes that don't entirely solve the original problem.<br></p>

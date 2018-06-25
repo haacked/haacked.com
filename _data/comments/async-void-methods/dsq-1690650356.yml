@@ -1,0 +1,6 @@
+id: dsq-1690650356
+replyToId: dsq-1690405120
+date: 2014-11-12T18:58:22.0000000-08:00
+name: distantcam
+avatar: https://disqus.com/api/users/avatars/distantcam.jpg
+message: <p>It may also affect PCL and mono libraries. In general, when doing that sort of reflection tricks the framework may not be the same one that the unit test is running under.</p>

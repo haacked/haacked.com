@@ -1,0 +1,5 @@
+id: dsq-747516801
+date: 2006-09-20T06:30:22.0000000-07:00
+name: Ken
+avatar: https://disqus.com/api/users/avatars/Ken.jpg
+message: <p>After I tried it and it failed, it occurred to me I had the torrent running, so I closed it and then it started working.  I saw the too soon behavior, but that gave me a different message.  With the torrent open, it was the InvalidBadResponse.  My best guess (I'm assuming here) is that you do some sort of ajax request/challenege before the post submits and it might be possible that didn't complete before the page submitted due to the additional traffic on my upstream, causing a slow down.</p>

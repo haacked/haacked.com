@@ -1,0 +1,5 @@
+id: dsq-747531056
+date: 2010-01-10T02:13:10.0000000-08:00
+name: Ales Golli
+avatar: https://disqus.com/api/users/avatars/Ales Golli.jpg
+message: <p>Mark, Steve,<br>Does VS show the "Add Area..." option if you create a new MVC project? Is the "Add Area..." option missing only in your old projects?<br>...then maybe you didn't upgrade the old projects properly.<br>You have to "Open the project file (the file with the .csproj or .vbproj file extension) and locate the ProjectTypeGuid element. In the value of that element, replace the GUID {603c0e0b-db56-11dc-be95-000d561079b0} with {F85E285D-A4E0-4152-9332-AB1D724D3325}." (RTF-release-notes) :-)</p>

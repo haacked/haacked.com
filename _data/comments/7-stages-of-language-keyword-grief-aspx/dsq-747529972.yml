@@ -1,0 +1,5 @@
+id: dsq-747529972
+date: 2009-09-06T20:30:00.0000000-07:00
+name: Pop Catalin
+avatar: https://disqus.com/api/users/avatars/Pop Catalin.jpg
+message: <p>I don't like dynamic anymore than I like using weak typed hashtables. <br>However there are legit uses for dynamic like when you're interacting with a weak typed environment, like a Javascript object, other than that, I don't like the use of dynamic where strong typing could be used instead.<br>Let's try not to make "dynamic" be "Option Strict Off 2.0" ...<br></p>

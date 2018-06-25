@@ -1,0 +1,5 @@
+id: dsq-747527503
+date: 2009-01-12T02:35:14.0000000-08:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>@Dale, my controllers never generate HTML either. Maybe you are using controllers that way, but the framework is certainly capable of not generating html at the controller level.  As for the MVC team, I have been ignoring MS web development since classic ASP because I did not like webforms. I am now very excited about MVC and have a project just waiting for release ready to go. Any clue when we will see the RC so at least we know we are close to final feature set?</p>

@@ -1,0 +1,5 @@
+id: dsq-747529859
+date: 2009-09-03T23:09:00.0000000-07:00
+name: Daniel
+avatar: https://disqus.com/api/users/avatars/Daniel.jpg
+message: <p>@joe - the difference between using T4MVC to do similar and using dynamic in the way Phil suggests is that in the T4MVC approach, you get compile time errors telling you that you've misspelled something or a name has changed.  With this dynamic approach, you'll never notice until a customer calls and says "why do I never see a message", you dig through code, and find that you misspelled it.  Even Phil seems to acknowledge this with the warning at the top of this post.  So yeah, T4MVC is copacetic precisely because you get the benefit of this dynamic thing, you don't have to write code for it to work, and you get compile-time checking and intellisense.</p>

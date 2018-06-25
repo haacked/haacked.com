@@ -1,0 +1,5 @@
+id: dsq-747527295
+date: 2011-05-06T01:44:02.0000000-07:00
+name: Katrina
+avatar: https://disqus.com/api/users/avatars/Katrina.jpg
+message: <p>Hi Phil,<br>Thanks for that. Everything displays fine on my website except for one image. This image is dynamically created. So in the view it looks like:<br>        <br>&lt;img id="pieChartImage" src="/Comment/MoodPieChart" width="350" height="280" alt="" /&gt;<br>i.e. I expect it to go the CommentController and the method         <br>public FileContentResult MoodPieChart(string thingToExplode)<br>{ //generates the desired image<br>}<br>now when I host it locally on IIS 7.5 it all works fine but when I put it live on IIS6 it just wont display. <br>I have even put in a route for it in Global.asax as follows:<br>routes.MapRoute(<br>  "Default3", <br>  "{controller}/{action}/{id}",<br>  new { controller = "Comment",<br>        action = "MoodPieChart", <br>        id = UrlParameter.Optional } <br>);<br>If you have a solution for this I will be eternally graetful<br>best regards,<br>Katrina</p>

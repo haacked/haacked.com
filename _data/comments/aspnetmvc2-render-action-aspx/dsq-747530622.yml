@@ -1,0 +1,5 @@
+id: dsq-747530622
+date: 2009-11-18T13:13:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Gina we will investigate the performance hit and try to mitigate it as much as possible. Please consider what you're asking RenderAction to do. <br>Basically it's very similar to making another request since we need to run through routing to make sure we have the appropriate route data and context to call the action method. So each call to RenderAction is going to add up.</p>

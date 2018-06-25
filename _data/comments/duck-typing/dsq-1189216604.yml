@@ -1,0 +1,6 @@
+id: dsq-1189216604
+replyToId: dsq-1188823316
+date: 2014-01-06T08:47:42.0000000-08:00
+name: Glenn Block
+avatar: https://disqus.com/api/users/avatars/gblock.jpg
+message: <p>Brad</p><p>I agree the reflection approach works! My point was only that it is not using the language to do it / as easy, it's working around the language using APIs.</p><p>I agree with your second statement which is in general in a static language like C# I would choose to use interfaces.</p><p>It's nice in Go though that you can have your cake and eat it too. :-)</p>

@@ -1,0 +1,5 @@
+id: dsq-747516286
+date: 2006-08-13T12:00:28.0000000-07:00
+name: dhananjay singh (dhananjay123@
+avatar: https://disqus.com/api/users/avatars/dhananjay singh (dhananjay123@.jpg
+message: <p>Dear Haacked,<br>There is littile typo in your code [It must be typo only ;) I know :) ]<br>return type of method GetCallingMethod should be MethodBase insted of MethodInfo.<br>happy blogging<br>Dhananjay<br></p>

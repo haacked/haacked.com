@@ -1,0 +1,5 @@
+id: dsq-747528859
+date: 2009-04-17T00:24:00.0000000-07:00
+name: Karl
+avatar: https://disqus.com/api/users/avatars/Karl.jpg
+message: <p>@meisinger:<br>You're encompassing everything we generally say is wrong with Microsoft development division. 1.5 years ago, Jeremy Miller wisely warned that:<br>"For a little too long the .Net community has put too much focus on learning API and framework details and not enough emphasis on design and coding fundamentals"<br>SRP, DRY and IoC (note that I didn't say DI) are fundamental - they aren't flavor of the month. They transcend and predate  current languages and frameworks.<br>The only projects that ought-not use IoC, DRY and SRP are those that don't want to be maintained.<br></p>

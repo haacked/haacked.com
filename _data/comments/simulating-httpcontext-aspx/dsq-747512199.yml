@@ -1,0 +1,5 @@
+id: dsq-747512199
+date: 2009-02-18T10:28:31.0000000-08:00
+name: Ranjan Ojha
+avatar: https://disqus.com/api/users/avatars/Ranjan Ojha.jpg
+message: <p>Hi everybody,<br>Did anyone get work around for HttpContext.Current.Server.MapPath? Can we test method which contains HttpContext.Current.Request.UrlReferrer?</p>

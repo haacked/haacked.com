@@ -1,0 +1,5 @@
+id: dsq-747527871
+date: 2009-01-30T03:54:18.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Steve ah, good point. I should try updating my sample. For down-level browsers, I could render a form with a submit button for deletion. Then the javascript could simply hide the form and do the submit itself.</p>

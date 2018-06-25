@@ -1,0 +1,5 @@
+id: dsq-747534540
+date: 2011-12-30T17:00:52.0000000-08:00
+name: Ben
+avatar: https://disqus.com/api/users/avatars/Ben.jpg
+message: <p>I found the issue, actually. It appears the RazorEngine does not yet support these sorts of properties (Html, Url, etc). <br><a href="http://stackoverflow.com/questions/8561164/razorengine-issues-with-html" rel="nofollow noopener" title="http://stackoverflow.com/questions/8561164/razorengine-issues-with-html">stackoverflow.com/.../razorengine-issues-with-html</a><br>I hope this helps someone else.</p>

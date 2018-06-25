@@ -1,0 +1,5 @@
+id: dsq-747531957
+date: 2010-05-02T07:34:30.0000000-07:00
+name: SarahBrooks
+avatar: https://disqus.com/api/users/avatars/SarahBrooks.jpg
+message: <p>Hi Phil,<br>The SampleApp that comes with the AntiXSS download targets the .NET 2.0 framework.  The solution compiles in VS2008, but not in VS2010.<br><a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=051ee83c-5ccf-48ed-8463-02f56a6bfc09&amp;displaylang=en" rel="nofollow noopener" title="http://www.microsoft.com/downloads/details.aspx?FamilyId=051ee83c-5ccf-48ed-8463-02f56a6bfc09&amp;displaylang=en">www.microsoft.com/.../details.aspx</a><br>Is AntiXSS referenced in projects targeting .NET 2.0 supported in VS2010?</p>

@@ -1,0 +1,5 @@
+id: dsq-747523457
+date: 2007-11-27T15:50:36.0000000-08:00
+name: Trumpi
+avatar: https://disqus.com/api/users/avatars/Trumpi.jpg
+message: <p>This is possible with Spring.NET:<br>   &lt;object id="HomeController" <br>           type="Foo.HomeController, Assembly.Foo"&gt;<br>      &lt;constructor-arg index="0"&gt;<br>         &lt;object type="Foo.TypeWithDelegateMethod, Assembly.Foo" factory-method="CreateMembershipProvider" /&gt;<br>      &lt;/constructor-arg&gt;<br>   &lt;/object&gt;<br></p>

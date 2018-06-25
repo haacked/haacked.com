@@ -1,0 +1,5 @@
+id: dsq-747538404
+date: 2012-09-30T01:41:26.0000000-07:00
+name: distantcam
+avatar: https://disqus.com/api/users/avatars/distantcam.jpg
+message: <p>As an example of using property changed weaving to take away the grind of making ViewModels, here's an example I knocked up.<br><a href="https://gist.github.com/3805842" rel="nofollow noopener" title="https://gist.github.com/3805842">https://gist.github.com/3805842</a><br>I use Simon Cropp's Fody project for post-IL weaving. As you can see in the example it also finds the calculated properties so I don't have to worry about all the change notifications myself.<br><a href="https://github.com/SimonCropp/Fody" rel="nofollow noopener" title="https://github.com/SimonCropp/Fody">https://github.com/SimonCropp/Fody</a></p>

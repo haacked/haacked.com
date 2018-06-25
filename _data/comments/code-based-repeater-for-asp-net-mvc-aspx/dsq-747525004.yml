@@ -1,0 +1,5 @@
+id: dsq-747525004
+date: 2008-05-03T11:14:56.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@peli, @hanselman well this is a simple example. Suppose I wanted a totally different layout for alternating items.<br>I was going to write yet another overload that makes doing the alternate CSS class without repeating the template simpler too, but figured I'd leave that as an exercise to the reader.</p>

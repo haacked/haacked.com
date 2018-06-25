@@ -1,0 +1,5 @@
+id: dsq-747519745
+date: 2007-04-20T00:47:35.0000000-07:00
+name: Dan Monego
+avatar: https://disqus.com/api/users/avatars/Dan Monego.jpg
+message: <p>That's a really good example of why out is better than ref. <br>What I was trying to get across is how bad ass the try-catch form is in terms of readability. For example:<br><code><br>try<br>{<br>  x = int.parse(userInput);<br>  y = pretendFunctionThatAccessesADatabase(x);<br>}<br>catch(FormatException ex)<br>{<br>  user.scold();<br>}<br>catch(NotFoundInPretendDatabaseException ex)<br>{<br>  //Give the user a different error<br>}<br>catch(DataException ex)<br>{<br>  //oops!<br>}<br></code><br>This is another use that's too trivial to get a good feel for it, but the idea is that you have all of the straightforward logic in the try block and almost all weird outlying error checking is completely separate, hidden away where people don't have to see it unless it happens.</p>

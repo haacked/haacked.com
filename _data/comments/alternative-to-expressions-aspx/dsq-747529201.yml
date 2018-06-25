@@ -1,0 +1,5 @@
+id: dsq-747529201
+date: 2009-06-02T04:25:00.0000000-07:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: '<p>Seems like a lot of complexity just to generate a string. How about...<br>public class AccountController : Controller<br>{<br>  public const string NAME = "Account";<br>  public const string LOGIN_ACTION = "Login";<br>  public const string LOGOUT_ACTION = "Logout";<br>  ...<br>}<br>Then in your view,<br>Html.ActionLink(AccountController.LOGIN_ACTION, AccountController.NAME);<br>This approach is performant, type-safe, and easy to understand.</p>'

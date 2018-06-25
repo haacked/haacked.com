@@ -1,0 +1,5 @@
+id: dsq-747534183
+date: 2011-01-13T09:32:12.0000000-08:00
+name: Matthew Hintzen
+avatar: https://disqus.com/api/users/avatars/Matthew Hintzen.jpg
+message: '<p>For the record on the MV3 not working with T4MVC, here is the work around: all you have to do is add a reference to the Razor dll.  You will need to browse in the add reference dialog to find it.  You will find it at "%ProgramFiles%\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\Assemblies" add a reference to the System.Web.WebPages.Razor.dll to your project and things compile fine <br>(Note on x64 OS %ProgramFiles% in this case denotes Program Files (x86)</p>'

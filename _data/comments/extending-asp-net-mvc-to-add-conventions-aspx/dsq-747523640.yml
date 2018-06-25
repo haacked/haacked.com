@@ -1,0 +1,5 @@
+id: dsq-747523640
+date: 2007-12-08T13:36:32.0000000-08:00
+name: Aaron Jensen
+avatar: https://disqus.com/api/users/avatars/Aaron Jensen.jpg
+message: <p>Nice Phil. This is another example of why the controller should be broken up into separate services. Wouldn't it be nice if you could just add a different IActionInvoker and IViewRenderer to your container instead of having to use inheritance? :)</p>

@@ -1,0 +1,5 @@
+id: dsq-747534398
+date: 2011-02-03T23:29:36.0000000-08:00
+name: Paul
+avatar: https://disqus.com/api/users/avatars/Paul.jpg
+message: <p>Great article! I am 100% with Russ though, you really should be sending a 301 not a 404. This tell a search engine that the content from the old page is still pertinet/valid, just moved. A 404 is going to tell the search engine that the page is gone and that you want it to redirect to your NEW page. That is bad because NEW pages without 301's are just that, new and have no credit in the eyes of search engines. Just my opinion, but def going to use this code in a project I am working on.</p>

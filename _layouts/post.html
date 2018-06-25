@@ -26,9 +26,4 @@ If accepted, your contribution is listed <a href="/contributors">automatically h
         </div>
 </div>
 
-{% if site.disqus_short_name and page.comments == true %}
-<section id="comment">
-    <h1 class="title">Comments</h1>
-    <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
-</section>
-{% endif %}
+{% include comments.html %}

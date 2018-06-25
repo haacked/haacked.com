@@ -1,0 +1,5 @@
+id: dsq-935581309
+date: 2013-06-19T10:12:37.0000000-07:00
+name: HiTopp
+avatar: https://disqus.com/api/users/avatars/HiTopp.jpg
+message: <p>I am trying to implement my own custom base view page in MVC 3, but am having trouble.  I followed the instructions, but when I attempt to access a custom property from the view page in a view I receive an error via IntelliSense:</p><p>'Html is ambiguous, imported from the namespaces or types 'System.Web.Mvc, System.Web.WebPages'</p><p>I understand the error, but I don't quite know how to fix it.  My current application was built using Visual Basic (not sure if that is a factor).  However, I can implement the exact same setup just fine in a C# MVC application.  No errors.</p><p>Any ideas?</p>

@@ -1,0 +1,5 @@
+id: dsq-747525818
+date: 2008-07-22T19:23:03.0000000-07:00
+name: Gabriel
+avatar: https://disqus.com/api/users/avatars/Gabriel.jpg
+message: <p>I agree. The main problem is that if your unit tests take to long to execute the developers will soon skip one test here and there just to get things done faster and pretty soon you'll be doing no tests at all.<br>It's not that you can't run tests against the database, it's just that this tests will probably be too slow to run as often as unit tests should be run.</p>

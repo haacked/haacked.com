@@ -1,0 +1,5 @@
+id: dsq-1715869601
+date: 2014-11-27T14:35:13.0000000-08:00
+name: Carlos Konstanski
+avatar: https://disqus.com/api/users/avatars/carloskonstanski.jpg
+message: <p>To force Basic Auth, I had to make this modification:</p><p>        private void OnEndRequest(object sender, EventArgs args) {<br>            HttpApplication context = (HttpApplication)sender;<br>            HttpResponse response = context.Response;<br>            if (context.Context.Items.Contains(SuppressAuthenticationKey)) {<br>                response.TrySkipIisCustomErrors = true;<br>                response.ClearContent();<br>                response.StatusCode = 401;<br>                response.RedirectLocation = null;<br>                response.AddHeader("WWW-Authenticate", "Basic realm=\"My Realm\"");<br>                response.End();<br>            }<br>        }</p>

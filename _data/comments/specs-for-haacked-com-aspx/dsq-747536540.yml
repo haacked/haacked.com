@@ -1,0 +1,5 @@
+id: dsq-747536540
+date: 2011-11-25T14:16:35.0000000-08:00
+name: Mohamed Meligy
+avatar: https://disqus.com/api/users/avatars/Mohamed Meligy.jpg
+message: <p>Interesting the timing of your post since I have been doing intensive research around hosting companies in last couple of months.<br>Generally speaking, most of your specs are traditional ones for dedicated server, some of disk configuration might be a bit special / high end though.<br>A question I can't avoid though is why you didn't consider a VPS server considered by the company itself?<br>Not sure about your specific one, but many companies can give you a decent VPS with nice backup options for good amount of money. Windows guys are more lucky than Linux because we have a standard virtualization platform, Hyper-V, which makes it very hard to oversell virtual machines and hence to guarantee you get what you pay for. Some companies provide RAID 10 servers, and if things happen somewhere, they can very quickly move you to another physical server, etc..<br>Would be nice to know why you didn't go down this route though?</p>

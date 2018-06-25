@@ -1,0 +1,5 @@
+id: dsq-747523917
+date: 2008-01-13T14:43:18.0000000-08:00
+name: Filini
+avatar: https://disqus.com/api/users/avatars/Filini.jpg
+message: "<p>I think type inference might not always be the best choice.<br>Suppose you have:<br>Class1 : Class2 <br>and <br>Class2 : Class3<br>var foo = { {myClass1 = \"foo1\"}, {myClass2 = \"foo2\"} };<br>probably the inferred type for my dictionary would be &lt;Class2, String&gt;<br>and I wouldn't be able to do<br>foo.Add( { myClass3, \"foo3\"} );<br>So in this case I would probably stick with an explicit declaration of Dictionary&lt;Class3, String&gt; <br>PS: Do correct me if I'm wrong, I don't know how type inference exactly works in such a situation; lately I have been reading Eric Lippert's posts about immutability and inference, and I'm trying to get a grasp of it :P</p>"

@@ -1,0 +1,5 @@
+id: dsq-747521410
+date: 2008-01-12T05:38:17.0000000-08:00
+name: Mark
+avatar: https://disqus.com/api/users/avatars/Mark.jpg
+message: <p>"Along similar lines, I'm spending more and more time writing code to generate code, instead of writing the final code directly. It takes deeper thinking up front, but then I can hit a button and all the boring stuff happens instantly, and bug-free if I've written the generator right."<br>I've been on this path myself.  Compiler techniques lead to being able to perform static analysis on legacy code bases. I built a system that diagrams a legacy system and allows me to add my notes to the diagram as I go thru it.  Quick comprehension of systems is real 'force multiplier'.  May have commercial value.</p>

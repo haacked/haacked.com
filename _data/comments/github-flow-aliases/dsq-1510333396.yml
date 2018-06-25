@@ -1,0 +1,6 @@
+id: dsq-1510333396
+replyToId: dsq-1509850044
+date: 2014-07-29T09:26:59.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>If I've run git save, usually I'm leaving to do something else. When I get back, I run `git undo` and continue work. Or I'll do more work and amend the SAVEPOINT commit. I don't leave those in there.</p><p>When I'm ready to push a topic branch, I don't squash the commits, but I often do an interactive rebase to clean up any turds I've left in. :)</p><p> &gt; Their topic branches don't get automatically closed on the next pull, right?</p><p>True, but the next time they run `git bdone` it'll clean up their local branches as long as they don't have any commits in there that haven't been merged.</p>

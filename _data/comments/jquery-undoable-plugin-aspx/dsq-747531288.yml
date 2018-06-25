@@ -1,0 +1,5 @@
+id: dsq-747531288
+date: 2010-01-07T01:43:58.0000000-08:00
+name: Visual C# Kicks
+avatar: https://disqus.com/api/users/avatars/Visual C# Kicks.jpg
+message: "<p>This is very cool, never thought about it. Question though, what would be better approach: delete an entry, and if the user hits undo the data is reinserted OR delete simply sets the task to delete within a certain amount of time or something and undo cancels the task. I'm just curious</p>"

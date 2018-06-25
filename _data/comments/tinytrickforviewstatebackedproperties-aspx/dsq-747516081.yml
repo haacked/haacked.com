@@ -1,0 +1,5 @@
+id: dsq-747516081
+date: 2006-08-06T14:41:57.0000000-07:00
+name: Jeff Atwood
+avatar: https://disqus.com/api/users/avatars/Jeff Atwood.jpg
+message: <p>Wouldn't (!ViewState["WillSucceed"].IsNullOrEmpty()) work as well? Are we casting a string to a bool?</p>

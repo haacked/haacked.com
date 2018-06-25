@@ -1,0 +1,5 @@
+id: dsq-747524294
+date: 2008-03-04T10:23:23.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@David Nelson I guess I need to find out if the devs reading my blog are a "representative sample" or not.<br>Right now, even if I wanted to ship a breaking change, I don't think I could. So if I shipped an interface today, it would be frozen unless I can convince the powers that be that being free to break is in the best interest of our customers. <br>I don't have the data (other than comments on my blog) to make that claim over what others who have been here longer than me have experienced regarding breaking changes.<br>I'll dig into it a bit and see what I find out.</p>

@@ -1,0 +1,5 @@
+id: dsq-747535388
+date: 2011-09-21T21:45:21.0000000-07:00
+name: Ashwin
+avatar: https://disqus.com/api/users/avatars/Ashwin.jpg
+message: <p>Hi Phil,<br>        Thanks for your article. The one thing that we would lose by dynamically registering HttpModules is the ability to set preconditions for them without tinkering with IIS. Is there a way to programmatically set the preconditions for a HttpModule?<br>Thanks,<br>Ashwin</p>

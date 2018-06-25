@@ -1,0 +1,5 @@
+id: dsq-747515432
+date: 2006-10-02T11:59:12.0000000-07:00
+name: Tyler Gannon
+avatar: https://disqus.com/api/users/avatars/Tyler Gannon.jpg
+message: <p>I haven't tried what Chris suggests, for doing away with the events in this model, but IMO the events deliver the power of the model.<br>The thing is, there really shouldn't be a one-to-one relationship between model and presenter, if you're writing unit tests.  Finally, we started doing this in the first place because it's REALLY hard to unit test your view, so with each bit the view has to know about the model you take, IMO, one step backwards.<br>Thanks for the article Phil, always a sound read.</p>

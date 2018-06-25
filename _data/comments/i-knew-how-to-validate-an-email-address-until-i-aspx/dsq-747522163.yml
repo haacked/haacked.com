@@ -1,0 +1,5 @@
+id: dsq-747522163
+date: 2011-01-05T01:43:06.0000000-08:00
+name: Lodewijk Andre de la Porte
+avatar: https://disqus.com/api/users/avatars/Lodewijk Andre de la Porte.jpg
+message: <p>.*?@.*?./.*?<br>I never really quite see the problem with matching very exactly, it's only going to get you into trouble for getting it wrong. When used while entering a form this is accurate enough and even when it gets to the backend and the server can't mail to it there's no real problem. It should just treat it like any other not functional email adres (that was or was not valid).<br>Robust and simple. That should be everyones design philosophy.</p>

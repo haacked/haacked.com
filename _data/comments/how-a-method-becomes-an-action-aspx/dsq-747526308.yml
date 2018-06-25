@@ -1,0 +1,5 @@
+id: dsq-747526308
+date: 2008-09-02T01:32:13.0000000-07:00
+name: Justice~!
+avatar: https://disqus.com/api/users/avatars/Justice~!.jpg
+message: <p>@Steve - I agree with you but then again I'm not all that keen on the "ActionName" aspect.  I respect that my bias may be showing!  ;)<br>@Haacked - I do agree with you from the coupling standpoint (in fact, I've done some interesting stuff with routing that couldn't use the strongly typed stuff).  I think it's probably a case of the MVC team finding its footing because I remember presentations, etc. making a very big deal about strongly typed routing styles.<br>As a secondary concern, I noticed Image and ImageButton were moved to Futures as well in p4 (which I assume has to do with the weird REsolveUrl() in MVC vs. in WebForms).  The implication seems to be that the Extension methods are moved into futures because they're not going to be further supported.  Is that what is happening with Image and ImageButton?</p>

@@ -1,0 +1,5 @@
+id: dsq-747530051
+date: 2009-09-29T15:32:00.0000000-07:00
+name: Dmitriy Nagirnyak
+avatar: https://disqus.com/api/users/avatars/Dmitriy Nagirnyak.jpg
+message: <p>Additionally the lambda syntax requires reader to understand how Moq works, introduces unnecessary structure (Queue). This does decrease the readability of the test a lot.<br>But apart from that - very good idea :)</p>

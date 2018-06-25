@@ -1,0 +1,5 @@
+id: dsq-747530576
+date: 2009-11-24T12:27:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>You can use VS10 with ASP.NET MVC 2 Beta if you simply reference the beta assembly as just another bin dependency. That's supported just fine. However, the tooling for VS10 will be out of sync, as it thinks you have the Preview 2 runtime.<br>I should have been more clear, running the ASP.NET MVC 2 Beta <strong>installer</strong> is not supported on a machine with VS2010. However, you can grab a copy of the beta MVC 2 dll and reference it in a VS10 project, but the experience won't be as nice.</p>

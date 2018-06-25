@@ -1,0 +1,5 @@
+id: dsq-747527443
+date: 2008-12-14T21:41:28.0000000-08:00
+name: Ngoc
+avatar: https://disqus.com/api/users/avatars/Ngoc.jpg
+message: <p>Hi Haacked,<br>In a view, how can I get current action that return the view. The ViewContext property is only allow me to get the current controller but not current action. Can you help me?<br></p>

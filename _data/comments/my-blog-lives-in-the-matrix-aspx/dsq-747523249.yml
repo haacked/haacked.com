@@ -1,0 +1,5 @@
+id: dsq-747523249
+date: 2007-11-02T04:32:05.0000000-07:00
+name: Wyatt Barnett
+avatar: https://disqus.com/api/users/avatars/Wyatt Barnett.jpg
+message: <p>The big kicker for VMs seems to me to be disk I/O. They work great for web application servers which live in memory and are, more often than not, bandwidth constrained if anything. So long as you can dedicate NICs to machines, you can get adequate performance.<br>Now, I have seen a few attempts at putting database servers, which are disk IO constrained, on virtual hardware. That ain't pretty . . .</p>

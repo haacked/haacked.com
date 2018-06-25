@@ -1,0 +1,5 @@
+id: dsq-747532482
+date: 2010-06-09T15:18:39.0000000-07:00
+name: tobi
+avatar: https://disqus.com/api/users/avatars/tobi.jpg
+message: <p>I just checked that Any will always create an enumerator. It does not use ICollection. That might be worth improving.</p>

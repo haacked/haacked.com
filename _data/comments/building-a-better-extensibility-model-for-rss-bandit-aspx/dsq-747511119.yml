@@ -1,0 +1,5 @@
+id: dsq-747511119
+date: 2005-03-04T11:01:00.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>One thing we should consider (and I posted this in Torsten's blog) is creating a separate class-library specifically for plugin interfaces.  We wouldn't want to force developers to reference NewsComponents.dll just to create a plug-in.<br><br><br><br>As for abstracting the data storage, I think that is something Dare's thought about.  We should see him post his thoughts soon.</p>

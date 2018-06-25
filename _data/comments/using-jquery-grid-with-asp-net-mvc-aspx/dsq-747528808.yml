@@ -1,0 +1,5 @@
+id: dsq-747528808
+date: 2011-08-29T21:00:51.0000000-07:00
+name: Lijun
+avatar: https://disqus.com/api/users/avatars/Lijun.jpg
+message: <p>Hi, thanks for the wonderful post. The code is neat! I am having some problem here and wonder if anyone can help me out. It was fine to display data from a string array, but when I connect to my own database using .NET 4.0 Entity Data Model, and the data I got back has the columns' order messed up (alternate rows), like instead of getting [col1, col2, col3] array back, it got [col3, col2, col1] for alternate rows in the jSONData. <br>Any help would be really appreciated!</p>

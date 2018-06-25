@@ -1,0 +1,5 @@
+id: dsq-747532934
+date: 2010-09-15T15:35:57.0000000-07:00
+name: John Kyle
+avatar: https://disqus.com/api/users/avatars/John Kyle.jpg
+message: <p>ViewData is the only sensible place. Otherwise you have two  properties doing the same thing. That isn't tidy!<br>It isn't strong typing and it will have its issues if it isn't used right. But, I guess if you get the name wrong with a dictionary like ViewData["foo"] then it's the same.<br>I vote for a breaking change too.</p>

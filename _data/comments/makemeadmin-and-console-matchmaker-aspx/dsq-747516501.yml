@@ -1,0 +1,5 @@
+id: dsq-747516501
+date: 2006-09-01T07:07:44.0000000-07:00
+name: Alexander Gro&#223;
+avatar: https://disqus.com/api/users/avatars/Alexander Gro&#223;.jpg
+message: <p>Acknowledged, LUA can be a pain in the neck with lots of fine-tuning, especially if you want to use non-LUA-aware applications, and there are lots of them.<br>I'm running in a LUA environment for over a year now (yes, I'm satified with the experience) and have gotten rid of most problems using the excellent Microsoft Application Compatibility Toolkit. Sure, you have to create the appfixes yourself (sdb files), but these solved almost all application-specific problems I had. By now I have a whole stack of sdb files that I just need to deploy to new machines.</p>

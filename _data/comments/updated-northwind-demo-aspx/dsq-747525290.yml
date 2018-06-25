@@ -1,0 +1,5 @@
+id: dsq-747525290
+date: 2008-05-29T15:39:07.0000000-07:00
+name: Ahtesham
+avatar: https://disqus.com/api/users/avatars/Ahtesham.jpg
+message: <p>hey every one ,<br>its strange question but i think i should ask cuz it could help other , i am new in MVC and i am using VS 2008 and MVC3 <br>when i downloaded this code and when i build it after updating the refrence and when i start debugging the programe i get this error <br>that on default page ; is missing and there was only one line <br>&lt;%  Response.Redirect("~/Products/")%&gt;<br> so i put ; after this <br>&lt;%  Response.Redirect("~/Products/");%&gt;<br>and it start working <br>is this the error or did i do wrong thing i am lil confused , can some one explain me that</p>

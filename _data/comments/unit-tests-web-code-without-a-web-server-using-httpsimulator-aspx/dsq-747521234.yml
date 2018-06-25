@@ -1,0 +1,5 @@
+id: dsq-747521234
+date: 2007-06-20T10:58:20.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Sean - That's odd. It compiles on my machine, but it doesn't on our <a href="http://build.subtextproject.com/ccnet/" rel="nofollow noopener" title="Subtext CCNET Build Server">build server</a>. I'm looking into it. Any ideas?</p>

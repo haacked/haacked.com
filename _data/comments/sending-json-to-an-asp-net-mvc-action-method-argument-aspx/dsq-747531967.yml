@@ -1,0 +1,5 @@
+id: dsq-747531967
+date: 2010-04-14T23:11:55.0000000-07:00
+name: Dave Ward
+avatar: https://disqus.com/api/users/avatars/Encosia.jpg
+message: <p>Consider using json2.js instead of the $.toJSON() plugin.  Its JSON.stringify() does the same thing.<br>The benefit of going that way is that browsers have duplicated json2.js' API in their browser-native JSON handling, <em>and</em> json2.js only defines its functions if the JSON object doesn't already exist.  So in newer browsers, JSON.stringify() will automatically call the browser-native method.</p>

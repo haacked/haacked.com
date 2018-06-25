@@ -1,0 +1,5 @@
+id: dsq-747513217
+date: 2006-11-26T08:42:03.0000000-08:00
+name: Brian White
+avatar: https://disqus.com/api/users/avatars/Brian White.jpg
+message: <p>The benefits of <a href="http://blog.riverworth.com/index.php/2006/11/23/the-beauty-of-self-testing/" rel="nofollow noopener" title="http://blog.riverworth.com/index.php/2006/11/23/the-beauty-of-self-testing/">automated unit testing</a> are not limited to TDD.  I don't personally write my tests first, but I now write tests for all my code at some point during the development of it.  I find this "test during" approach works better for me.  Still, I can't say enough good stuff about writing built-in tests, no matter when they're written!</p>

@@ -1,0 +1,5 @@
+id: dsq-747524863
+date: 2008-06-22T21:51:27.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Rodj unfortunately, by the time ASP.NET Hands us the route, that %2f is already unencoded. So there's no way for us to see that as anything other than a "/". <br>The only workaround I can think of is to replace "/" within categories with a well-known character when generating URLs and after matching URLs. I'll dig into this some more to find out if there are other options.</p>

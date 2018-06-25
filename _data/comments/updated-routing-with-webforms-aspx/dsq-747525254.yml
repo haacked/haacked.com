@@ -1,0 +1,5 @@
+id: dsq-747525254
+date: 2008-05-30T07:53:32.0000000-07:00
+name: C0der
+avatar: https://disqus.com/api/users/avatars/C0der.jpg
+message: <p>im want to use mvc in my WebSite project but the word is that mvc is compatible only with Web Application project.  if i add the 3 mvc assemblies to my WebSite bin dir and merge my web.config with a mvc's, will this work? if not, what else do i need?  im using Visual Studio 2008 Express.<br>Thanks</p>

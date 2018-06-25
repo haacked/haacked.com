@@ -1,0 +1,5 @@
+id: dsq-747508679
+date: 2004-06-15T03:44:00.0000000-07:00
+name: Ian Griffiths
+avatar: https://disqus.com/api/users/avatars/Ian Griffiths.jpg
+message: <p>A DC situation like this isn't really where you normally talk about 'impedance mismatches'.<br><br><br><br>The situations where 'impedance mismatches' are usually used are in situations with changing signals. For example, if you have a digital signal, with the voltage changing suddenly from 0V to 3V, if the wire carrying that signal has a sudden change in impedance, you tend to get reflections bouncing back down the wire.<br><br><br><br>So if there's an impedance mismatch, signals get messed up as they cross the mismatched boundary. I think this situation is somewhat closer in spirit to the way that 'impedance mismatch' is used in O/R mapping examples.</p>

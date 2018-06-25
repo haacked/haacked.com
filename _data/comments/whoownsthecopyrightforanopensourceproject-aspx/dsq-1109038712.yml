@@ -1,0 +1,6 @@
+id: dsq-1109038712
+replyToId: dsq-1108971803
+date: 2013-11-04T16:42:22.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Ah, I see. That's an interesting question. I'd argue it's an implicit contract. Why else would you contribute your code to the project? As a poison pill?</p><p>Also, when you contribute to a project, it's assumed you've accepted its license agreement since you had to look at its code in order to contribute to it.</p><p>Of course, there have been cases where someone contributed code they weren't allowed to contribute. For example, they're employer owned their time even and thus claimed ownership of the code.</p><p>This is why some companies go through the trouble of not only getting a CLA from the contributor, but also from their employer.</p><p>I'll think about this some more.</p>

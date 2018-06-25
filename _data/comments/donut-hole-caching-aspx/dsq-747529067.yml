@@ -1,0 +1,5 @@
+id: dsq-747529067
+date: 2010-04-07T20:06:57.0000000-07:00
+name: Smashd
+avatar: https://disqus.com/api/users/avatars/Smashd.jpg
+message: <p>As a follow-up to my previous comment, I found a simple workaround for the situation I described.  Simply call Html.Partial() instead of Html.RenderPartial() (making sure to output the string from Html.Partial()) and everything caches correctly.<br>There's a performance hit for using Partial() instead of RenderPartial(), but I think that's less of an issue since the output is getting cached anyway.</p>

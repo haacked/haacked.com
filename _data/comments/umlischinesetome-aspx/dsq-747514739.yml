@@ -1,0 +1,5 @@
+id: dsq-747514739
+date: 2006-04-15T00:11:00.0000000-07:00
+name: Eric
+avatar: https://disqus.com/api/users/avatars/Eric.jpg
+message: <p>I should also add--C# is a modeling language for IL. IL is a modeling language for machine code. In both cases the mapping is relatively direct--certainly much more direct than the mapping from UML to C#.<br>The problem is not that UML is a modeling language, but that it's too general a modeling language; the distance from abstraction to concretization is too far. A less general modeling language (such as the kinds of DSLs Microsoft has been pushing) is much more likely to be truly useful and thus successful.</p>

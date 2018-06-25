@@ -1,0 +1,5 @@
+id: dsq-747533751
+date: 2010-12-25T13:22:48.0000000-08:00
+name: Igorbek
+avatar: https://disqus.com/api/users/avatars/Igorbek.jpg
+message: "<p>At the moment, Razor does not allow nesting inline templates. For, ex:<br>@list.RenderAll(@</p><p>Sites: @item.Sites.RenderList(@&lt; a href=\"@item\"&gt;@item, separator: \", \"))<br>Exception: Razor does not allow nested inline templates.<br>Of course, it is not possible, it makes an 'item' identifier conflict.<br>Are you planning to allow nested inline templates in the next versions of Razor?<br>May be possible to provide syntax like this:<br>@&lt;tag&gt;...&lt;/tag&gt; - one typeless parameter named 'item', by default<br>@[param]&lt;tag&gt;...&lt;/tag&gt; - one typeless parameter named 'param' (no conflict with item)<br>@[Type param]&lt;tag&gt;...&lt;/tag&gt; - one typed parameter named 'param'<br>@[Type param, ...]&lt;tag&gt;...&lt;/tag&gt; - multiple parameters<br>Thanks for a time!<br></p>"

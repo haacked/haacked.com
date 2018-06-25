@@ -1,0 +1,5 @@
+id: dsq-747534890
+date: 2012-06-13T15:35:18.0000000-07:00
+name: L. Willy
+avatar: https://disqus.com/api/users/avatars/L. Willy.jpg
+message: '<p>You never got to this part. <br>  "If your IIS 6 machine is on a different machine, you can skip<br>   this step. We can deploy the site to the machine later."<br>Please help me, this is my senerio: I have a Windows XP Machine (the Source Machine with my ASP.NET MVC 3 App. built on VS 2010 with Razor View engine ready to deploy).  I have a Test Server (the Destination Server)within our organization to which I have full Admin rights.  Also my ASP.NET MVC 3 App. is an internet App. as opposed to intranet App.  <br>The Destination Server is running IIS 6 on Entity Framework 4.x. So, how to I deploy my App? <br>Thanks in advance.<br>Leonard Williams<br>Now how do I go from point A <br></p>'

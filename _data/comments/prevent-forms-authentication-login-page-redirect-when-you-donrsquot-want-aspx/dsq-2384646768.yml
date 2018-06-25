@@ -1,0 +1,5 @@
+id: dsq-2384646768
+date: 2015-11-29T17:13:52.0000000-08:00
+name: david d
+avatar: https://disqus.com/api/users/avatars/disqus_3iwSqisESW.jpg
+message: <p>If you reside in the alternate reality called <a href="http://vb.net" rel="nofollow noopener" title="vb.net">vb.net</a>, you will need to do a little more work. The App_Start code in C#</p><p>Create a VB module under App_Start with the following code:</p><p>Public Module FormsAuthConfig</p><p>    Public Sub Register()</p><p>        DynamicModuleUtility.RegisterModule(GetType(AspNetHaack.SuppressFormsAuthenticationRedirectModule))</p><p>    End Sub</p><p>End Module</p><p>And add the following code to global.asax under the Application_Start method:</p><p>        FormsAuthConfig.Register()</p><p>You are now in business. Also need to send a 401 response from your auth filter you need the following code:</p><p>filterContext.Result = New HttpUnauthorizedResult</p><p>Have fun.</p>

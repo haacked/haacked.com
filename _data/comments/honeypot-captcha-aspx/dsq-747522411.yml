@@ -1,0 +1,5 @@
+id: dsq-747522411
+date: 2008-12-01T19:52:03.0000000-08:00
+name: Darren
+avatar: https://disqus.com/api/users/avatars/Darren.jpg
+message: '<p>My form is in an html page. This page calls on a seperate php page to process the form, and also uses a javascript to force mandatory fields. My question is, where do i put the following code: <br>if(!String.IsNullOrEmpty(Request.Form["body"]))IgnoreComment();<br>i have tried adding it into my php script, but its not working! please help!!<br></p>'

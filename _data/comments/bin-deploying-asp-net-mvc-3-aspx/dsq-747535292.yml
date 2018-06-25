@@ -1,0 +1,5 @@
+id: dsq-747535292
+date: 2011-05-25T14:17:17.0000000-07:00
+name: Stefan Kip
+avatar: https://disqus.com/api/users/avatars/stefankip.jpg
+message: <p>Oh Phil; just a question. We're using Subversion (*sigh* I know) and I've added "_bin_deployableAssemblies" to svn, but the "bin" folder is on the ignore list.<br>Though "_bin_deployableAssemblies" has a ".svn" folder inside, which gets copied to the bin folder as well, while it shouldn't be.<br>Any tip/trick/fix for this?</p>

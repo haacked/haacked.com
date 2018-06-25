@@ -1,0 +1,5 @@
+id: dsq-747511658
+date: 2007-08-13T02:55:07.0000000-07:00
+name: Eddie
+avatar: https://disqus.com/api/users/avatars/Eddie.jpg
+message: <p>Works like a charm thanks much!<br>In windows I copied the moved the problem directory to my desktop.<br>Did a search on this directory for the hidden CVS folders. (make sure to choose search for hidden folders and files in the windows search dialog) Then deleted all the cvs folders.<br>Checked out the lastest stuff and copied over it. Then cvs worked fine.<br>Thanks!!<br></p>

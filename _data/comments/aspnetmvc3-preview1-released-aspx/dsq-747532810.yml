@@ -1,0 +1,5 @@
+id: dsq-747532810
+date: 2010-07-27T18:31:46.0000000-07:00
+name: Marco P
+avatar: https://disqus.com/api/users/avatars/Marco P.jpg
+message: <p>awesome stuff, two requests!<br>1. Support for going in/out of HTTP in a DRY way.<br>2. RedirectToUrlResult which will either redirect to a specified url of look for a ReturnUrl (convention) in the params.</p>

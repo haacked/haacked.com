@@ -1,0 +1,5 @@
+id: dsq-747525647
+date: 2008-07-02T03:44:05.0000000-07:00
+name: BigJimInDC
+avatar: https://disqus.com/api/users/avatars/BigJimInDC.jpg
+message: <p>Is the testing of "HttpContext.Current.IsDebuggingEnabled" not redundant, when you can just as well "comment out" the HttpModule XML chunk when you don't want it running?  You have to edit the web.config either way.<br>And to not impact the actual HTML being returned, why not just do a Debug.WriteLine, or Trace.WriteLine with the DebugTraceListener configured, and fire up DebugView from SysInternals.  Those already using something like log4net could just as well configure a logger to filter and direct this output to wherever is desired.<br>Just my two cents based on having implemented a nearly identical solution a number of years back...</p>

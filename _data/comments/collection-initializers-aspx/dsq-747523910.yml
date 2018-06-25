@@ -1,0 +1,5 @@
+id: dsq-747523910
+date: 2008-01-06T02:38:33.0000000-08:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>The C# initializer is very close to how ObjectiveC initWithObjectsAndKeys initializer works. Pythons dictionary allows you to initialze them in a similar manner to Ruby.<br><a href="http://docs.python.org/tut/node7.html#SECTION007500000000000000000" rel="nofollow noopener" title="http://docs.python.org/tut/node7.html#SECTION007500000000000000000">http://docs.python.org/tut/...</a><br>The ability to create dictionaries using tuples is pretty cool though. Very LISPy.<br>Pythons syntax in this case is probably the cleanest. I wonder if we'll end up mixing and mashing language features once the DLR is out. building dictionaries and dealing with data in IronRuby/IronPython but building  business logic in C#?</p>

@@ -1,0 +1,5 @@
+id: dsq-747532858
+date: 2010-08-02T05:14:25.0000000-07:00
+name: Turnkey
+avatar: https://disqus.com/api/users/avatars/Turnkey.jpg
+message: <p>For the ViewData question I would steer clear of ViewModel as it is confusing as that term usually refers to custom classes for passing structured data to the view.  I think just sticking with the ViewData usage for both the controller and View is not that bad, it's just a few more characters and has some historical precedent that is familiar to the users.<br>Cheers,<br>Turnkey</p>

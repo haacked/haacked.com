@@ -1,0 +1,5 @@
+id: dsq-747517036
+date: 2006-10-01T19:42:44.0000000-07:00
+name: Joshua Flanagan
+avatar: https://disqus.com/api/users/avatars/Joshua Flanagan.jpg
+message: <p>I thought it was a bug from your description, too, until I ran it for myself. Your last sentence makes it sound like it didn't parse the datetime as universal - it DID - it just auto-converted it to a local time. Did you not notice that the time changed?<br>If it wasn't parsing universal times, the time component would always be exactly what you specified in the string, no matter what time zone you are in. That's not the case.</p>

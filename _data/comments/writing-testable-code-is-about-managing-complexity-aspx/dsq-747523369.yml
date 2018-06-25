@@ -1,0 +1,5 @@
+id: dsq-747523369
+date: 2007-11-14T10:26:55.0000000-08:00
+name: Evan
+avatar: https://disqus.com/api/users/avatars/Evan.jpg
+message: <p>"Perhaps a better choice of words is to say that TDD helps deal with complexity."<br>Ironically enough, I find this true for both real and imaginary complexity.<br>When walking into part of a codebase that doesn't have a safety net of unit tests, I find a little red mental flag goes up.  There's a slight bit of fear that if I don't fully grok the part of the app that I'm about to change, I'll write myself into a nice little hole (which usually shows up in Production).<br>The safety net of unit tests let me ignore the fact that there might be ungrokked complexity there (regardless if it really exists or not).  I can feel confident that if I break it, it will show up in the Unit Test Runner.</p>

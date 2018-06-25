@@ -1,0 +1,5 @@
+id: dsq-747522198
+date: 2012-09-16T01:37:09.0000000-07:00
+name: Lelala
+avatar: https://disqus.com/api/users/avatars/Lelala.jpg
+message: <p>I truly don't see the point of extremely detailed email validation. It just won't work, and you run the risk of refusing valid addresses. The only way to be really sure that the email belongs to the person filling in your web form, is by sending a conformation email. All you can do before that is just make sure there is an address in the first place, and it's not complete garbage.</p>

@@ -1,0 +1,5 @@
+id: dsq-1114636516
+date: 2013-11-08T16:00:04.0000000-08:00
+name: jbblanchet
+avatar: https://disqus.com/api/users/avatars/jbblanchet.jpg
+message: <p>The Ruby solution is elegant (heck I'm a c# guy and even I understand it). The c# one feels both contrived and unnecessarily obscure. There's no way to understand at a glance, which you would do with the if statement. There's no way I'd let such code pass review. Let's not fall into the trap of getting rid of keywords for the sake of it. This is, in my opinion, an inelegant solution to an unexisting problem.</p>

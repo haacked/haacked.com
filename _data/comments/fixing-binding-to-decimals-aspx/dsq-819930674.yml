@@ -1,0 +1,5 @@
+id: dsq-819930674
+date: 2013-03-05T04:33:13.0000000-08:00
+name: frankvaneykelen
+avatar: https://disqus.com/api/users/avatars/frankvaneykelen.jpg
+message: '<p>Please note that when your decimal property is nullable the following will not work:<br><code><br>ModelBinders.Binders.Add(typeof(decimal), new DecimalModelBinder());<br></code><br>I had to write my own DecimalNullableModelBinder that allows null/empty values, and register it like this:<br><code><br>ModelBinders.Binders.Add(typeof(decimal?), new DecimalNullableModelBinder());<br></code><br>Please note difference: typeof(decimal) vs typeof(decimal?). </p><p>My ModelBinder has these extra lines before the try/catch:<br><code><br>// Null is valid for a Nullable Decimal<br>if (string.IsNullOrEmpty(valueResult.AttemptedValue))<br>    return actualValue;<br></code></p>'

@@ -1,0 +1,5 @@
+id: dsq-747510169
+date: 2005-06-04T18:02:00.0000000-07:00
+name: Robin
+avatar: https://disqus.com/api/users/avatars/Robin.jpg
+message: "<p>tried this using php and preg_replace, comes up with error:<br><br><br><br>Warning: Unknown modifier '\\' in /var/www/html.php on line 20<br><br><br><br>line 19: $reg = '&lt;/?\\W+((\\S+\\W+(\\S*=\\S*(?:\".*?\"|'.\"'\".'.*?'.\"'\".'|[^'.\"'\".'\"&gt;\\s]+))?)+\\s*|\\s*)/?&gt;';<br><br><br><br>line 20: preg_match_all($reg, $html, $matches);</p>"

@@ -1,0 +1,5 @@
+id: dsq-747532507
+date: 2010-06-10T00:35:32.0000000-07:00
+name: George Tsiokos
+avatar: https://disqus.com/api/users/avatars/George Tsiokos.jpg
+message: <p>public static bool IsNullOrEmpty (this ICollection items) {<br>    if (null == items)<br>        return true;<br>    return items.Count &gt; 0;<br>}<br>public static bool IsNullOrEmpty (this IEnumerable items) {<br>    if (null == items)<br>        return true;<br>    ICollection collection = items as ICollection;<br>    if (null != collection)<br>        return collection.Count &gt; 0;<br>    return !items.Cast&lt;object&gt; ().Any ();<br>}</p>

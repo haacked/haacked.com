@@ -1,0 +1,5 @@
+id: dsq-747519470
+date: 2007-04-02T18:26:41.0000000-07:00
+name: Sergio
+avatar: https://disqus.com/api/users/avatars/Sergio.jpg
+message: <p>In a programmer's context, one could write something like:<br>my email is (script)document.write(eval("['com','.','ail', '@gm','myself'].reverse().join(''));(/script)<br></p>

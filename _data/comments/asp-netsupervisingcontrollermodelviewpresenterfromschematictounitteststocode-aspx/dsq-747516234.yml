@@ -1,0 +1,5 @@
+id: dsq-747516234
+date: 2008-09-10T21:32:51.0000000-07:00
+name: Jimit Ndiaye
+avatar: https://disqus.com/api/users/avatars/Jimit Ndiaye.jpg
+message: '<p>@Haacked:<br>This is an excellent post. I do believe, however, that the implementation sounds alot more like Passive View than Supervising Controller: no interaction between view and model, no knowledge of the presenter by the view, using events to communicate user interactions...<br></p>'

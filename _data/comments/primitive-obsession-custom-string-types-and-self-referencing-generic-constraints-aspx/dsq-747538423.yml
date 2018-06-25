@@ -1,0 +1,5 @@
+id: dsq-747538423
+date: 2012-10-05T01:14:48.0000000-07:00
+name: Metro
+avatar: https://disqus.com/api/users/avatars/Metro.jpg
+message: <p>Just a nit, but shouldn't your examples be:<br>// somePath == @"c:\fake\path\subfolder";<br>rather than<br>// somePath == @"c:\fake\path\somePath";<br></p>

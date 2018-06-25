@@ -1,0 +1,5 @@
+id: dsq-747520522
+date: 2007-05-22T17:44:00.0000000-07:00
+name: kevin
+avatar: https://disqus.com/api/users/avatars/kevin.jpg
+message: <p><br>If you're gonna go this route then I'd even propose:<br>new Query("Products").WHERE("ProductId").IsLessThan(5);<br></p>

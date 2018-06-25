@@ -1,0 +1,6 @@
+id: dsq-1113362549
+replyToId: dsq-1113155581
+date: 2013-11-07T17:44:10.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Ah, so I asked @paulcbetts about that and he notes:</p><p>So, Wildcards work, but VS gets really slow since it's scanning directories constantly, *and* any time someone adds a file in the normal way, it gets fucked</p><p>Or rather, "Add new File..." will break your csproj.</p><p>We want contributors to be able to add files to the solution using Visual Studio in the normal way. Does that work?</p>

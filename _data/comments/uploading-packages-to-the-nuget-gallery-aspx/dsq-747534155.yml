@@ -1,0 +1,5 @@
+id: dsq-747534155
+date: 2011-05-03T11:02:34.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Perhaps change it to:<br><code><br>for /r %%x in (*.csproj) do nuget pack "%%x" -o d:\packages\<br></code><br></p>

@@ -1,0 +1,5 @@
+id: dsq-747531986
+date: 2010-05-01T08:42:32.0000000-07:00
+name: Ben
+avatar: https://disqus.com/api/users/avatars/Ben.jpg
+message: <p>The JsonValueProviderFactory is great.<br>However (isn't is always a "however"), when I try to add an AntiForgeryToken to my data, I get a response back that my AntiForgeryToken was missing or invalid.<br>Even if I submit only the __RequestVerificationToken in the data, I still get this message using the JsonValueProviderFactory.<br>Has anyone else come across this?  Any suggestions?</p>

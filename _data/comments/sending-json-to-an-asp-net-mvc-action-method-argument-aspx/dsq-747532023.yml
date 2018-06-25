@@ -1,0 +1,5 @@
+id: dsq-747532023
+date: 2011-01-07T12:40:56.0000000-08:00
+name: Robert Koritnik
+avatar: https://disqus.com/api/users/avatars/Robert Koritnik.jpg
+message: "<p>@Sam: Check my aforementioned <a href=\"\" rel=\"nofollow noopener\" title=\"\">blog post</a> with a short jQuery plugin that simplifies sending complex JSON objects to <a href=\"http://Asp.net\" rel=\"nofollow noopener\" title=\"Asp.net\">Asp.net</a> MVC. <strong>Including</strong> dates. ;)<br>But regarding the other way around when receiving JSON data in the browser I've also written an extension for jQuery that makes it possible to automatically convert dates in JSON strings by simply using <code>$.parseJSON()</code>. Anyway. Head over to <a href=\"http://erraticdev.blogspot.com/2010/12/converting-dates-in-json-strings-using.html\" rel=\"nofollow noopener\" title=\"http://erraticdev.blogspot.com/2010/12/converting-dates-in-json-strings-using.html\">blog post</a> and read it.</p>"

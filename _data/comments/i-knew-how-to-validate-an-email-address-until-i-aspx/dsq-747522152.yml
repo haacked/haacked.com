@@ -1,0 +1,5 @@
+id: dsq-747522152
+date: 2010-10-31T21:10:06.0000000-07:00
+name: Brandon
+avatar: https://disqus.com/api/users/avatars/bc3tech.jpg
+message: <p>@Paul:<br>Modified regex that fixes this, I believe it's still sound:<br>^(?!\.)(""([^""\r\\]|\\[""\r\\])*""|([-a-z0-9!#$%&amp;'*+/=?^_`{|}~]|(?&lt;!\.)\.)*)(?&lt;!\.)@[a-z0-9][\w\.-]*[a-z0-9]*\.[a-z][a-z\.]*[a-z]$</p>

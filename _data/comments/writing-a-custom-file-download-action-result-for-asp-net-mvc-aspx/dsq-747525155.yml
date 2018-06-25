@@ -1,0 +1,5 @@
+id: dsq-747525155
+date: 2010-02-24T03:10:09.0000000-08:00
+name: WGAO
+avatar: https://disqus.com/api/users/avatars/WGAO.jpg
+message: <p>Does anyone know how to use httpcontext.response.transmitfile or any other httpcontext function to download a file from a network driver instead of local driver? When I tried to use context.Response.TransmitFile(DownloadPath) to download files, the DownloadPath has to be local driver. If it's a network driver, the download failed. Thanks in advance...</p>

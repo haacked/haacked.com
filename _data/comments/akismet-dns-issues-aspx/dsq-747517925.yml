@@ -1,0 +1,5 @@
+id: dsq-747517925
+date: 2006-12-07T23:20:55.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Correction, I can ping it from my home machine, but not the server my blog is hosted on. Last night, I couldn't ping it from either.  The DNS fix probably just needs time to propagate.</p>

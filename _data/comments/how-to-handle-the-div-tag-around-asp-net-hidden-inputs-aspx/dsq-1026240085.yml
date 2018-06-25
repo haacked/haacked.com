@@ -1,0 +1,5 @@
+id: dsq-1026240085
+date: 2013-09-02T04:33:01.0000000-07:00
+name: benny
+avatar: https://disqus.com/api/users/avatars/benny.jpg
+message: <p>get your ASP guy to add runat=server to the HEAD tag - viewstate gets dropped in there, not on the page</p>

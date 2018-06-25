@@ -1,0 +1,5 @@
+id: dsq-747523554
+date: 2007-12-06T07:30:43.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I mean I can't specify my own assert message. If the expectations are not met, VerifyAll throws an exception, which provides a lot of information, but for the sake of my unit test, I may want to specify a message like I would with Assert.</p>

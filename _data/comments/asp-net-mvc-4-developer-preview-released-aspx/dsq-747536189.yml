@@ -1,0 +1,5 @@
+id: dsq-747536189
+date: 2011-09-20T11:25:56.0000000-07:00
+name: Harry Pfleger
+avatar: https://disqus.com/api/users/avatars/Harry Pfleger.jpg
+message: <p>During the install of MVC3 tool upgrade I get the following error:<br>Returning IDOK. INSTALLMESSAGE_ERROR [A later version of NuGet is already installed. Setup will now exit.]<br>and the setup does not finish...<br>Any ideas... Thankx, Harry</p>

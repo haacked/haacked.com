@@ -1,0 +1,5 @@
+id: dsq-747523276
+date: 2007-11-05T03:34:54.0000000-08:00
+name: Karthik Hariharan
+avatar: https://disqus.com/api/users/avatars/Karthik Hariharan.jpg
+message: <p>Interesting solution.  I'm eager to play with the CTP of ASP.NET MVC.   Now I don't know whether to use it or Silverlight on a pet project at work :P<br>There's some logic to what Tim is saying in his comment above if you think about it.  But an interface that can fully mock itself just seems weird and my OO-compliant mind just can't get past it.  But it might be worth exploring.</p>

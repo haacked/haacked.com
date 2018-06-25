@@ -1,0 +1,5 @@
+id: dsq-747524435
+date: 2008-12-03T13:20:12.0000000-08:00
+name: Edmund
+avatar: https://disqus.com/api/users/avatars/Edmund.jpg
+message: <p>It worked fine, till I switched the web project to use the "Local IIS Web Server" instead of the "VS Development Server".<br>I am using a XP development machine with its local (oldish) IIS 5.1<br>Is there a way to develop against that IIS version?<br>What about IIS 6 on a production Windows Server 2003?<br>Thanks</p>

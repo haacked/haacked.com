@@ -1,0 +1,5 @@
+id: dsq-747517669
+date: 2006-11-15T23:01:16.0000000-08:00
+name: Damien Guard
+avatar: https://disqus.com/api/users/avatars/Damien Guard.jpg
+message: <p>There is a middle-ground between the two whereby you just don't put any db-specific code into your product unless absolutely necessary.<br>You can use the .NET DbProviderFactories, DbProviderFactory and the associated IDb interfaces to isolate your own code from the implementation details with some caveats and limitations (parameter naming, SQL syntax, etc).<br>These are more undelying problems with ADO.NET's failure to provide a true provider-independent API.<br>[)amien</p>

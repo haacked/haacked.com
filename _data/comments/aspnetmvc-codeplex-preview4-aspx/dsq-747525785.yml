@@ -1,0 +1,5 @@
+id: dsq-747525785
+date: 2008-07-17T01:38:42.0000000-07:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>"For those that have used this, you’ll notice that we removed the ComponentController class. Instead, we renamed RenderComponent to be RenderAction and re-implemented it so that it works against a normal controller. This code is was moved to the MVC Futures assembly since we’re not planning to include it in the RTM."<br>Can you explain this further and also explain the alternative, because I thought this was exactly what was needed and don't understand why it's bad.</p>

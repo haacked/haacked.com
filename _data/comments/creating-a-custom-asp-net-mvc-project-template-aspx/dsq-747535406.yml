@@ -1,0 +1,5 @@
+id: dsq-747535406
+date: 2011-06-06T01:28:25.0000000-07:00
+name: Anas Ghanem
+avatar: https://disqus.com/api/users/avatars/Anas Ghanem.jpg
+message: <p>BTW, I noticed that when I create a new MVC 3 project using the standard templates, I see that it has a reference to "System.Web.Entity" assembly which is not required for MVC projects because the mentioned assembly contains the web form controls for  entity framework (like the EntityDataSource control).<br></p>

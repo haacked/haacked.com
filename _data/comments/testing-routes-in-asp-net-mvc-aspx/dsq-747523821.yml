@@ -1,0 +1,5 @@
+id: dsq-747523821
+date: 2010-06-08T22:53:02.0000000-07:00
+name: Oleg D.
+avatar: https://disqus.com/api/users/avatars/Oleg D..jpg
+message: <p>In case somebody needs it, here is how GetProperties() can be implemented:<br>private static Dictionary&lt;string, object&gt; GetProperties(object values)<br>        {<br>            var result = new Dictionary&lt;string, object&gt;();<br>            if (values != null)<br>            {<br>                foreach (PropertyDescriptor descriptor in TypeDescriptor.GetProperties(values))<br>                {<br>                    object obj2 = descriptor.GetValue(values);<br>                    result.Add(descriptor.Name, obj2);<br>                }<br>            }<br>            return result;<br>        }</p>

@@ -1,0 +1,5 @@
+id: dsq-747513892
+date: 2006-01-18T23:24:00.0000000-08:00
+name: klevo
+avatar: https://disqus.com/api/users/avatars/klevo.jpg
+message: <p>That`s a very useful article. But I think that this problem can be solved by using xhtmlConformance mode="Strict" in web.config. Then you can use valid Transitional doctype as well as Strict (which should be prefered if possible).</p>

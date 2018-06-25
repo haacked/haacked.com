@@ -1,0 +1,5 @@
+id: dsq-747520370
+date: 2008-08-14T11:43:02.0000000-07:00
+name: Kami
+avatar: https://disqus.com/api/users/avatars/Kami.jpg
+message: <p>I am having this same problem... One thing I've noted is when I hit the URL of my deployed website the Application Pool in IIS7 automatically make a transition from Started to Stopped.</p>

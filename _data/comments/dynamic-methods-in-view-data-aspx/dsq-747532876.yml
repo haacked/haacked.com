@@ -1,0 +1,5 @@
+id: dsq-747532876
+date: 2010-08-02T11:27:28.0000000-07:00
+name: Andrey Shchekin
+avatar: https://disqus.com/api/users/avatars/Andrey Shchekin.jpg
+message: <p>I think ViewModel is not a good idea (as Turnkey says).<br>I would prefer it to be on top of ViewData, actually (as Aidan Boyle said), but if that is impossible for compatibility, then it could be:<br>ViewData.Dynamic<br>DynamicData<br>Dynamic</p>

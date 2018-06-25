@@ -1,0 +1,6 @@
+id: dsq-2545203433
+replyToId: dsq-2545038751
+date: 2016-03-01T04:06:04.0000000-08:00
+name: Rob Head
+avatar: https://disqus.com/api/users/avatars/rob_head.jpg
+message: "<p>Although this isn't about regular expressions, this does imply some extra rules: <a href=\"https://msdn.microsoft.com/en-us/library/ms404377(v=vs.110).aspx#BestFit\" rel=\"nofollow noopener\" title=\"https://msdn.microsoft.com/en-us/library/ms404377(v=vs.110).aspx#BestFit\">https://msdn.microsoft.com/...</a></p><p>If a best fit fallback is being used that would explain ToLower(\"İ\") being mapped to \"i\".</p>"

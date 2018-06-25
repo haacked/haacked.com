@@ -1,0 +1,5 @@
+id: dsq-747514050
+date: 2008-07-17T19:31:11.0000000-07:00
+name: freelancer
+avatar: https://disqus.com/api/users/avatars/freelancer.jpg
+message: <p>addLoadEvent is a great solution (which is still actual).<br>Irfan, such a simple solution is not good as it would override existing onload function.</p>

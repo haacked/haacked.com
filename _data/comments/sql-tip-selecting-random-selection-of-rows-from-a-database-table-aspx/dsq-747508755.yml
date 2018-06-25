@@ -1,0 +1,5 @@
+id: dsq-747508755
+date: 2005-05-11T03:47:00.0000000-07:00
+name: Homeslice
+avatar: https://disqus.com/api/users/avatars/Homeslice.jpg
+message: <p>Wow, this is exactly what I was looking for and it works perfectly for me. I created a user control in .NET for ad banners which are all stored in the database. I used the select statement "SELECT TOP 1 * from tbl_ad_banners ORDER BY NEWID()" to grab a random ad and display it in my footer control. You can see it at work at <a href="http://www.pimpify.name" rel="nofollow noopener" title="http://www.pimpify.name">http://www.pimpify.name</a>. Thanks for the code snippet!</p>

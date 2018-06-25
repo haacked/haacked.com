@@ -1,0 +1,5 @@
+id: dsq-747533530
+date: 2010-11-15T23:12:32.0000000-08:00
+name: rekna
+avatar: https://disqus.com/api/users/avatars/rekna.jpg
+message: <p>There is a problem with the HTML helpers when values contain international characters. Eg. @Html.TextBox("test","Kopiëren"); renders the wrong value for the input value,  ë is changed to Ã«.<br>Only when the value attribuut comes from a variable eg. @Html.TextBox("test", Model.TestValue ); the output is correct, however, it doesn't always makes sense to pass it from the view model, eg. value property of buttons...</p>

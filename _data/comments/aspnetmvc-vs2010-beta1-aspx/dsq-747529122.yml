@@ -1,0 +1,5 @@
+id: dsq-747529122
+date: 2010-11-09T23:18:03.0000000-08:00
+name: james wei
+avatar: https://disqus.com/api/users/avatars/james wei.jpg
+message: <p>I've spent 4 hours trying to remove Visual Studio 10 beta and .Net framework 4.0 from my system after upgrading to Win 7, all the microsoft installer/uninstaller processes where hanging in a loop ... but after 4 hours of tweaking reg keys, and killing installer processes to manage to uninstall VS 10, I can't really say how I've managed to do it ... Everything seems fine right now and everything else is working properly with no issues. Lucky me I guess, a full reinstall of everything would have taken me 2 days not 4 hours.</p>

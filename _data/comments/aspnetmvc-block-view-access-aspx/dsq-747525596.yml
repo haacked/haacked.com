@@ -1,0 +1,5 @@
+id: dsq-747525596
+date: 2008-06-25T05:19:24.0000000-07:00
+name: Al
+avatar: https://disqus.com/api/users/avatars/Al.jpg
+message: <p>I'd be reluctant to <em>require</em> people put files in a given place, if I want to put files under views - I thnk I should be able to. <br>I'd be more inclinded to make sure that sensible defaults are in place to stop accidents happening, ie by default it might be appropriate to block the views folder using a web.config option but if I <em>choose</em> to remove that, I'm doing so by my choice.</p>

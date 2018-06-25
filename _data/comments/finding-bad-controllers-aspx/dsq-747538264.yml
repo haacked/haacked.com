@@ -1,0 +1,5 @@
+id: dsq-747538264
+date: 2012-07-25T10:16:41.0000000-07:00
+name: David McClelland
+avatar: https://disqus.com/api/users/avatars/David McClelland.jpg
+message: <p>If you happen to use <a href="http://www.ndepend.com" rel="nofollow noopener" title="http://www.ndepend.com">NDepend</a> as part of a continuous integration process, you could automagically detect this with a CQL or CQLinq query and enforce it as a build policy.</p>

@@ -1,0 +1,5 @@
+id: dsq-747524548
+date: 2010-05-03T03:18:39.0000000-07:00
+name: W3bdev
+avatar: https://disqus.com/api/users/avatars/W3bdev.jpg
+message: <p>I got it working. Download the DLL, create a new mvc project (don't try the download!), insert a reference to the dll. Add in the map route information you want to test, sample data is:<br>routes.MapRoute("foo-route", "foo/{id}", new { controller = "Away", action = "Blah", id = (string)null });<br>            routes.MapRoute("bar-route", "bar/{id}", new { controller = "Home", action = "Index", id = (string)null });<br>            routes.MapRoute("token-route", "tokens/{id}", new { dataToken = "BlahBlahBlah" });<br>            routes.MapRoute("extension", "ext/{id}.mvc", new { controller = "Home", action = "Index", id = (string)null });<br>            routes.MapRoute("mvc-default", "{controller}/{action}/{id}"<br>                , new { controller = "Home", action = "Index", id = (string)null });<br>And you should be good to go.</p>

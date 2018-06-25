@@ -1,0 +1,5 @@
+id: dsq-747529723
+date: 2009-10-11T08:53:00.0000000-07:00
+name: ranamauro
+avatar: https://disqus.com/api/users/avatars/ranamauro.jpg
+message: <p>@Kiran:<br>this is a known behavior of Chrome and one that others also find incorrect. there's currently a bug filed for the issue, you can see it here:<br><a href="http://code.google.com/p/chromium/issues/detail?id=13137" rel="nofollow noopener" title="http://code.google.com/p/chromium/issues/detail?id=13137">code.google.com/p/chromium/issues/detail?id=13137</a><br>if this is blocking you I can probably get passed it by special casing the content-nego code for User-Agent "Chrome/*".</p>

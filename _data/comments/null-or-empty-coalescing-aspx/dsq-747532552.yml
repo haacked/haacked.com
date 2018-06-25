@@ -1,0 +1,5 @@
+id: dsq-747532552
+date: 2010-06-16T12:31:26.0000000-07:00
+name: RichB
+avatar: https://disqus.com/api/users/avatars/RichB.jpg
+message: <p>AsNullIfEmpty() reminds me of LINQ's DefaultIfEmpty(). Indeed, it may even be a better (homogeneous) name as the null coalescing operator only works on reference types and Default&lt;T&gt;(T) where T is a class will always be null anyway.</p>

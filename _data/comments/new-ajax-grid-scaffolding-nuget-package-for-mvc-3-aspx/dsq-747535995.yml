@@ -1,0 +1,5 @@
+id: dsq-747535995
+date: 2012-02-03T03:20:47.0000000-08:00
+name: Parihar
+avatar: https://disqus.com/api/users/avatars/Parihar.jpg
+message: <p>Its a webgrid problem in mvc3 from my side.<br>I made a shopping cart application. I want to get details of selected product from a product table in webgrid.<br>Can anyone help me to find the column value of a selected row in webgrid using javascript and send this to another page using session.<br></p>

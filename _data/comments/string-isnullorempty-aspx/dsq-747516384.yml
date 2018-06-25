@@ -1,0 +1,5 @@
+id: dsq-747516384
+date: 2006-08-23T15:31:42.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Umm that doesn't make sense.  Because if myString was null, how could you call a method on it?</p>

@@ -1,0 +1,5 @@
+id: dsq-747530107
+date: 2009-09-30T20:14:00.0000000-07:00
+name: Vijay Santhanam
+avatar: https://disqus.com/api/users/avatars/Vijay Santhanam.jpg
+message: <p>Whoops, I downloaded this and installed it with the mind to upgrade but several won't run because MS.MVC.Futures.dll isn't ready yet to match all the new MVCHtmlString helpers.<br>Also, if you're using the <a href="http://T4MVC.tt" rel="nofollow noopener" title="T4MVC.tt">T4MVC.tt</a> templates for strongly typed urls, you'll need to hack changes for that.<br>I'll try upgrading in a day or two.<br>I am eagerly awaiting client-side validation helpers.. that's gonna rock</p>

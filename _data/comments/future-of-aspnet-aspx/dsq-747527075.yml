@@ -1,0 +1,5 @@
+id: dsq-747527075
+date: 2011-12-21T02:28:43.0000000-08:00
+name: Erik
+avatar: https://disqus.com/api/users/avatars/Erik.jpg
+message: <p>If you are new to ASP.NET, MVC is probably the way to go (for now).<br>Because you will be pushed/forced in the right direction of web development.<br>But if you understand the do's and don'ts in web development and are familiar with webforms, there is no real need to switch.<br>I mean, it's not an obligation to use serverside events and viewstate if you use webforms.<br>In fact, many people have been building AJAX driven, mainly clientside rendered webapplications i.c. with <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> webforms for quite some time, including myself.<br>And it's rumored that some of the core features of MVC will be implemented in the next webforms version.<br>Like auto validation with data annotations and further separation of viewpage and "controller".<br>Whatever you choose, it really depends upon the developer how well a webapplication is build.<br><br></p>

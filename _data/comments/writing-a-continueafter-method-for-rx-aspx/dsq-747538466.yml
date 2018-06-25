@@ -1,0 +1,5 @@
+id: dsq-747538466
+date: 2012-10-09T00:58:37.0000000-07:00
+name: Jerome Laban
+avatar: https://disqus.com/api/users/avatars/Jerome Laban.jpg
+message: <p>Update for a little mistake, it is :<br>public static IObservable&lt;string[]&gt; Result()<br>{<br>Extract()<br>.ToArray()<br>.SelectMany(stuff =&gt; GetStuff(stuff).ToArray());<br>}<br>And not just Select. SelectMany is needed to unwrap the Observable.ToArray().</p>

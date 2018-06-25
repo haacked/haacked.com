@@ -1,0 +1,5 @@
+id: dsq-747528836
+date: 2009-04-16T21:22:00.0000000-07:00
+name: Jeff Craig
+avatar: https://disqus.com/api/users/avatars/Jeff Craig.jpg
+message: <p>I've tended toward using quick-and-dirty examples on my blog as well, since the thought of someone just copying-and-pasting my example generally bothers me, but I think it's right that, yes, many people will just c/p without any regard for code quality. It's the 90/10 problem that Atwood is always going on about.<br>To help mitigate this problem, I'm thinking about starting to use GitHub's <a href="http://gist.github.com/" rel="nofollow noopener" title="http://gist.github.com/">Gist</a> feature, which allows me to upload code-snippets I can host in my blog, but ones that can be forked and improved upon, all while being stored in source control. I think this sort of communal paste-bin idea can allow you to start quick-and-dirty, but improve the code over time, but still be able to show the evolution of the idea.</p>

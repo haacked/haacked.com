@@ -1,0 +1,5 @@
+id: dsq-747535755
+date: 2011-08-04T10:38:02.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Josh I think it's pretty extreme to compare this to the Linq2Sql and EF comparisons. <br>T4 is primarily a general purpose text transformation language. Razor is optimized for HTML generation. If you try and generate C# code with Razor, you'll find it's a bit painful. That's not it's sweet spot nor its design intention.<br></p>

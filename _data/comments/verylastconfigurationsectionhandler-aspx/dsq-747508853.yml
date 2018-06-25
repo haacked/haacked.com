@@ -1,0 +1,5 @@
+id: dsq-747508853
+date: 2004-07-08T23:30:00.0000000-07:00
+name: Craig
+avatar: https://disqus.com/api/users/avatars/Craig.jpg
+message: <p>I tend to just use XmlSerialization straight up against a different file. It means I can use the same approach for user settings (in Documents and Settings, where users actually have write permission) and for application settings (in Program Files).</p>

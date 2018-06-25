@@ -1,0 +1,6 @@
+id: dsq-1726873180
+replyToId: dsq-1725648097
+date: 2014-12-05T01:38:22.0000000-08:00
+name: Michael
+avatar: https://disqus.com/api/users/avatars/Michael.jpg
+message: <p>Hi Phil!<br>Yeah, I did look at the stuff in VSConsole and even tried to debug the VS Extension but got the impression that you really need to know about working with this kind of VS-Addin, the Powershell execution and error handling model, and possibly some other stuff. And to be honest, that looked like a whole bunch of stuff you'd have to first become afluent in before you could figure out the right spot where the error-output is redirected. Plus, start-with-debugger didn't work for me, either because I missed something or my setup is somehow not compatible so I benched my own exploration until a time when I actually have more than an hour or two to investigate deeper.</p><p>Many thanks for pinging this over!</p><p>Best regards, Michael</p>

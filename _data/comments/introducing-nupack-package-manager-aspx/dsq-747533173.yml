@@ -1,0 +1,5 @@
+id: dsq-747533173
+date: 2010-10-06T05:12:23.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Chris Upgrade your reflector to 6.5. See the <a href="http://nupack.codeplex.com/wikipage?title=Frequently%20Asked%20Questions" rel="nofollow noopener" title="NuPack FAQ">FAQ</a> and list of <a href="http://nupack.codeplex.com/documentation?title=Known%20Issues" rel="nofollow noopener" title="NuPack Known Issues">Known Issues</a>.<br>@Paul if someone adds a package for it, sure. We don't yet have a way to distinguish between stable and pre-release yet though.<br>@Jonas PowerShell is a thin wrapper over our core API. We *also* have a GUI. Check out this 1.5 minute intro video!<br>@Keith Yes, we plan to add it to the VS Extension Manager. No plans to support adding packages outside of a VS solution.<br>@Eric the current feed is a temporary measure. Read the FAQ and it'll walk you through how to get a package there.</p>

@@ -1,0 +1,5 @@
+id: dsq-747510318
+date: 2007-07-19T10:37:07.0000000-07:00
+name: Bruno D.
+avatar: https://disqus.com/api/users/avatars/Bruno D..jpg
+message: <p>Here's another take, which nobody seems to be taking. If regex is superior in speed and memory use, and XPath much simpler to query with, why don't people create a simple XPath -&gt; Regex converter? It's use would be so damn simple, create an XPath string, call this little convert script (or class or function or whatever) which writes for you the Regex equivalent and bam you just have to pass it to your favorite Regex handling function. IMHO, should be 10x simpler than converting a whole HTML page and hoping it'll pass through the parser. <br>I've been fiddling with trying to scrape pages in PHP for like 2 months now, tried a whole bunch of different solutions. I tried the same in Java (I'm mostly a java dev) and decided to give up on XPath because it tends to break too much on poorly designed web pages (which are, let's admit, a very occurance).  So far I wasn't able to find such a thing, sadly. <br></p>

@@ -1,0 +1,6 @@
+id: dsq-2647562346
+replyToId: dsq-2647088236
+date: 2016-04-28T09:26:09.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>&gt; I guess that this was why I asked about intention to combine the two. A single installation that provided a full GitHub for Desktop and full Git for Windows experience would (obviously) be ideal.</p><p>Ah, so there's some confusion here. We actually do provide the full "Git for Windows" experience, but we install it in a portable manner. The reason we do this is we support partial trust environments. So we lay down the same Git you get with Git for Windows, but we don't add it to the system path (as that would require elevation).</p><p>The point of this blog post is to show how you can add the right paths to your PowerShell profile so that Git is available to every PowerShell session on your machine. Let me know if that addresses your issue or if I maybe misunderstood something.</p>

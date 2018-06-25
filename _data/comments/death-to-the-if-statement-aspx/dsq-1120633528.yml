@@ -1,0 +1,6 @@
+id: dsq-1120633528
+replyToId: dsq-1119225011
+date: 2013-11-12T20:10:15.0000000-08:00
+name: Joey Guerra
+avatar: https://disqus.com/api/users/avatars/joeyguerra.jpg
+message: <p>I agree with what your saying. I wonder if the point in the article would be better highlighted if the example presented was more like:</p><p>if(){<br>}else{<br>}<br>foreach(){}<br>while(){}<br>while(){}<br>foreach(){}<br>switch(){<br>case:<br>default:<br>}</p><p>I've totally seen code like this which had tons of control structures and branching. In that particular case, it was obvious that a tactic to reducing the complexity would be to target removing if statements and loops. I think that's why the article's point really rings true with me. But as with many things, it's good practice to strive for balance, especially when modifying existing systems, which is how I interpreted your response.</p>

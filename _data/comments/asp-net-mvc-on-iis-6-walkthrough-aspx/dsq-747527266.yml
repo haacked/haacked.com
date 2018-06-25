@@ -1,0 +1,5 @@
+id: dsq-747527266
+date: 2010-05-27T00:31:03.0000000-07:00
+name: Randy
+avatar: https://disqus.com/api/users/avatars/Randy.jpg
+message: <p>What if I have an existing MVC site that I am migrating from another server box?  Do I have to set it up as a virtual application as well?  Right now, my Lead Designer has it as a website folder (with the little blue globe icon) underneath the Websites folder in IIS.  Can I turn this into a virtual application and do the steps in your walkthrough?  Thanks.</p>

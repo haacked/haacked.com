@@ -1,0 +1,5 @@
+id: dsq-747528581
+date: 2009-04-04T00:58:23.0000000-07:00
+name: Erik Porter
+avatar: https://disqus.com/api/users/avatars/Erik Porter.jpg
+message: <p>@Stephen<br>Just put something in the ContentPlaceHolder in your master.<br>&lt;title&gt;&lt;asp:ContentPlaceHolder ID="titleContent" runat="server"&gt;Default Title&lt;/asp:ContentPlaceHolder&gt;&lt;/title&gt;<br>If you specify a title in the content page, it's value will be the only one rendered.  If you don't specify anything in the content page, then "Default Title" will be used.</p>

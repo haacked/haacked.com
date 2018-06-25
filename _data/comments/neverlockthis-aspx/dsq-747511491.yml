@@ -1,0 +1,5 @@
+id: dsq-747511491
+date: 2006-08-07T23:09:20.0000000-07:00
+name: Jack
+avatar: https://disqus.com/api/users/avatars/Jack.jpg
+message: <p>A late comment, since this is still generating bad memes:<br>You seem to be implying that multiple locks on the same object from the same thread, will cause deadlock, which is just wrong.   Maybe its possible that your example can cause deadlock because it's called from Dispose and that's deadlocking with the GC thread, but I don't see quite how (if it were a destructor, I might believe you).  In any case, locking on "this" in an ordinary method is fine.<br></p>

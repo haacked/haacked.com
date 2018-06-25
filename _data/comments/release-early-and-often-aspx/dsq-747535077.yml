@@ -1,0 +1,5 @@
+id: dsq-747535077
+date: 2011-04-25T13:58:00.0000000-07:00
+name: Jonathan van de Veen
+avatar: https://disqus.com/api/users/avatars/Jonathan van de Veen.jpg
+message: <p>Good post. I agree with your arguments and I'd like to add another issue, blocking frequent releases.<br>I work on a Line Of Business application. In applications like that, often features are dependant on one another, so if Feature A is ready, but dependant on Feature B, C and D, and one of those features is not ready, you can't release. This requires a bit more planning.<br>Also, when working on a new application, you may have extensive technical requirements to support a feature. This can seriously impact the release frequenty as well.</p>

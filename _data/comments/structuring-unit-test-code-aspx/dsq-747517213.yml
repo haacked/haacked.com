@@ -1,0 +1,5 @@
+id: dsq-747517213
+date: 2006-10-11T07:59:08.0000000-07:00
+name: Ben Scheirman
+avatar: https://disqus.com/api/users/avatars/Ben Scheirman.jpg
+message: <blockquote>Hmm I have to respectfully disagree. The count of unit tests does not necessarily require a separate assembly. Even if I did separate them, the unit test assembly could still grow very large. Would I then separate my unit tests into multiple assemblies?</blockquote><p><br>What I mean is not just the sheer number of tests, just how long it takes to run the entire suite.  <br>Your solution of having developers test by namespace is perfectly fine, in fact I didn't think of that! :)<br></p><blockquote>The unit test assembly is never deployed and never referenced by another assembly.</blockquote><p><br>I would still suggest the other strategy, but it is just a matter of preference.<br></p><blockquote>to make it very easy to only run unit tests or only run integration tests via the namespace.</blockquote><p><br>Indeed.  I fully agree with you.</p>

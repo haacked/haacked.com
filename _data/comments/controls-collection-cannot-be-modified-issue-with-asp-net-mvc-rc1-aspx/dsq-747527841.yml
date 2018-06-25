@@ -1,0 +1,5 @@
+id: dsq-747527841
+date: 2009-01-27T09:52:27.0000000-08:00
+name: Simon
+avatar: https://disqus.com/api/users/avatars/Simon.jpg
+message: "<p>for anyone reading this confused about what runat=\"server\" even means in MVC here's a useful stackoverflow post about what the consequences are of runat=\"server\" for MVC. theres some notes in there about TITLE which may or may not be relevant anymore with the change to the template : <a href=\"http://stackoverflow.com/questions/446533/what-is-the-status-of-runatserver-tags-in-asp-net-mvc\" rel=\"nofollow noopener\" title=\"http://stackoverflow.com/questions/446533/what-is-the-status-of-runatserver-tags-in-asp-net-mvc\">stackoverflow.com/.../what-is-the-status-of-run...</a></p>"

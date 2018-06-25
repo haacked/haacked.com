@@ -1,0 +1,5 @@
+id: dsq-747525095
+date: 2008-05-05T17:49:34.0000000-07:00
+name: Pete
+avatar: https://disqus.com/api/users/avatars/Pete.jpg
+message: <p>What the heck was that "GlobalApplication"?! Design-disaster and naming disaster.<br>I've read somewhere "no global objects in OO". And the name GlobalApplication doesn't really describe anything. What is a NonGlobalApplication? Or LocalApplication.<br>Crazy stuff. Otherwise it's all good.</p>

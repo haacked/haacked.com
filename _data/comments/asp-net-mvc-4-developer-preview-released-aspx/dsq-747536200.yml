@@ -1,0 +1,5 @@
+id: dsq-747536200
+date: 2011-11-16T21:00:22.0000000-08:00
+name: dandreica
+avatar: https://disqus.com/api/users/avatars/dandreica.jpg
+message: '<p>Are there any plans for MVC 4 to resolve the OutputCacheAttribute issue which prevents it from using declarative cache profiles? <br>More details here: <a href="http://thenullreference.com/blog/fixing-the-asp-net-mvc-3-outputcacheattribute-for-partial-views-to-honor-some-web-config-settings/" rel="nofollow noopener" title="http://thenullreference.com/blog/fixing-the-asp-net-mvc-3-outputcacheattribute-for-partial-views-to-honor-some-web-config-settings/">thenullreference.com/...</a></p>'

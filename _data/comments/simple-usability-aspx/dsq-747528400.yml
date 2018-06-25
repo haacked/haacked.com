@@ -1,0 +1,5 @@
+id: dsq-747528400
+date: 2009-03-24T08:09:45.0000000-07:00
+name: Pete
+avatar: https://disqus.com/api/users/avatars/Pete.jpg
+message: <p>Speaking of usability, the gravatar algorithm is not supposed to be case sensitive. irritatedVowel and irritatedvowel should both resolve my gravatar, but they don't on this site.</p>

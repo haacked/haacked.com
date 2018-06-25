@@ -1,0 +1,5 @@
+id: dsq-747525755
+date: 2012-12-11T01:39:06.0000000-08:00
+name: Jatin
+avatar: https://disqus.com/api/users/avatars/Jatin.jpg
+message: <p>I have implemented the URL Routing using <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> 4.0, so its working fine, but whatever images having into that page is not displaying.<br>I have written below code to ignore .jpg files,but It never work<br>---<br>routes.RouteExistingFiles = false;<br>routes.Add(new Route("*.jpg", new StopRoutingHandler()));<br>---<br>Can anyone help me out to resolve this issue asap.<br><br>Thanks in advance.</p>

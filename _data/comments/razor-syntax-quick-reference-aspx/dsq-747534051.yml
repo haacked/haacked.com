@@ -1,0 +1,5 @@
+id: dsq-747534051
+date: 2011-01-06T13:05:58.0000000-08:00
+name: Dmitry Podrezov
+avatar: https://disqus.com/api/users/avatars/Dmitry Podrezov.jpg
+message: <p><strong>To <a href="#81227" rel="nofollow noopener" title="#81227">Eric Berens</a></strong><br>@{ var text = "don't unescape <em>me</em>"; }<br>@Html.Raw(text)<br><strong>Comments:</strong><br>Razor<br><code><br>@* comments are marked like this *@<br></code><br>ASP.NET<br><code><br>&lt;%-- comments are marked like this --%&gt;<br></code><br><strong>Another useful example:</strong><br><code><br>@foreach (var item in collection) {<br>@* something *@<br>}<br></code><br>is parsed as well as:<br><code>@foreach (var item in collection)<br>{<br>@* something *@<br>}<br></code><br>meaning that you can move opening curly brace to the next line.<br><strong>In the sample "Mixing code and plain text (alternate)"</strong> it can be mentioned that you can use razor syntax inside escaped plain text:<br><code><br>@if (foo) {<br>  @:Plain Text is @value<br>}<br></code></p>

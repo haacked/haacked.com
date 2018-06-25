@@ -1,0 +1,5 @@
+id: dsq-747512546
+date: 2011-11-30T13:22:09.0000000-08:00
+name: Saeed Neamati
+avatar: https://disqus.com/api/users/avatars/saeedneamati.jpg
+message: <p>Haacked, thanks for this great article. However, what we have to do if we want to change the communication protocol from SOAP, to JSON (like calling web services directly from jQuery, while providing a general exception handler, to return JSON data back, with 50X HTTP family code?)</p>

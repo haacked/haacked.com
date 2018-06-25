@@ -1,0 +1,5 @@
+id: dsq-747537345
+date: 2012-01-12T16:18:33.0000000-08:00
+name: Julien B&#233;rub&#233;
+avatar: https://disqus.com/api/users/avatars/Julien B&#233;rub&#233;.jpg
+message: "<p>@Karep : You'd lose one big advantage, which is maintainability. If you change the name of one of your method under test, you end up having to rename every test method manually.<br>Renaming one class name is faster than renaming 27 method names. Even by using replace all, that's risky.<br>Plus, if you do peer review, you have less lines of code to review, and if you use source control, less risk of conflict.</p>"

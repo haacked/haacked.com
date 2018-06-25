@@ -1,0 +1,5 @@
+id: dsq-747530601
+date: 2009-11-18T03:38:00.0000000-08:00
+name: Mohamed Meligy
+avatar: https://disqus.com/api/users/avatars/Mohamed Meligy.jpg
+message: <p>This is great, Haack :)<br>How about expression-based overloads of this?<br>Would love to be able to write something like:<br>&lt;%= Html.RenderAction( <br>    (MyController c) =&gt; <br>        c.Menu( new MenuOptions(){Width=400, Height=500} )<br> ) %&gt;<br>Is that expected to see sometime soon?</p>

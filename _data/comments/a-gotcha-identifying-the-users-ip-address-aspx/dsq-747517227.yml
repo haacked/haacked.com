@@ -1,0 +1,5 @@
+id: dsq-747517227
+date: 2006-10-11T22:45:50.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Nicolas: Good point, no good answer other than I made the IPAddress column where we store a comment to only be as wide as an IPAddress.<br>@Keyvan: Yes, that's why it took me so long.  I wanted Subtext users to be able to report false-positives and false-negatives.</p>"

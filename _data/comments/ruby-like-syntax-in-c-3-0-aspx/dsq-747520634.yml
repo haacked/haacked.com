@@ -1,0 +1,5 @@
+id: dsq-747520634
+date: 2007-05-24T19:15:36.0000000-07:00
+name: The Other Steve
+avatar: https://disqus.com/api/users/avatars/The Other Steve.jpg
+message: <p>Ok, someone explain to me what is wrong with wrapping "DateTime.Now.Subtract(TimeSpan.FromMinutes(20));" into a function which simply reads...<br>MinutesAgo(20);<br>You complain about how hard some line is to read, then toss together some special functions in Ruby to make it easier, but you don't do the same thing for the Java or C# functions.  Huh?<br>If I wanted a language that read like a english sentence I would have learned fracking COBOL.<br>And back in my day we used to write Assembler, and any of these is simpler than trying to add the date using that!  And we did it while walking up hill all the way!</p>

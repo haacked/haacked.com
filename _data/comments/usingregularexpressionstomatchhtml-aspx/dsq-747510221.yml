@@ -1,0 +1,5 @@
+id: dsq-747510221
+date: 2008-02-21T14:49:43.0000000-08:00
+name: Jinesh Shah
+avatar: https://disqus.com/api/users/avatars/Jinesh Shah.jpg
+message: '<p>Hi ALl...i got a nice script here...Bt stilli hv some problem..i m explaining here...<br>i hv string like : <br>string htmlstring ="&lt;form name="f1"&gt; &lt;input type="text" name="t1"&gt;&lt;input type="text" name="t2"&gt;&lt;input type="submit" name="submit"&gt;&lt;/form&gt;"<br>now Using Regular Expression i want value of name attribute not others...so can anybody give me dat regular expression..<br>ans must be : t1 t2<br>not f1 or submit ...<br>i hv tried lots of expression bt still cant find the final one....<br>Thank u<br>Jinesh<br></p>'

@@ -1,0 +1,5 @@
+id: dsq-747516201
+date: 2007-05-25T00:07:38.0000000-07:00
+name: Chris May
+avatar: https://disqus.com/api/users/avatars/Chris May.jpg
+message: <p>If you run <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> unit tests (the tests that are built into vs 2005), then doesn't that solve a lot of the issues of how to test things that rely on the <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> framework?<br>For example, you can test the objects in the view without creating a mock for it right?<br>Also, if you are doing an MVP setup and you want to databind a dataset to a gridview, would you pass the dataset from the Presenter to the View into a method like DatabindResults(dataSet) and the view would perform the databind?</p>

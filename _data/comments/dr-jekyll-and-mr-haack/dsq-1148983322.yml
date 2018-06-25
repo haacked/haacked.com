@@ -1,0 +1,6 @@
+id: dsq-1148983322
+replyToId: dsq-1148960987
+date: 2013-12-03T09:58:31.0000000-08:00
+name: Mike h
+avatar: https://disqus.com/api/users/avatars/Mike h.jpg
+message: <p>I'm not seeing how you can drag and drop images. Click New File icon -&gt; start typing in github editor -&gt; drag an image in -&gt; browser navigates to local copy of image instead of embedding it in the post.  I'm using Chrome. Anything special I need to enable or do? Does it have to be a markdown file? Does it have to be on a gh-pages branch (I just tested it on a test repo on master)?</p>

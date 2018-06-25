@@ -1,0 +1,5 @@
+id: dsq-747522352
+date: 2007-09-10T20:07:31.0000000-07:00
+name: Wyatt Barnett
+avatar: https://disqus.com/api/users/avatars/Wyatt Barnett.jpg
+message: "<p>@Mads: Yeah, people with a screen reader will see the input, but they should also see the label telling them not to fill it in. Spambots won't read labels, except maybe field ids/names, so if you name it something ingenious, like email2, they will fill 'er in.</p>"

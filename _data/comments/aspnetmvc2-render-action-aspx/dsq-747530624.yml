@@ -1,0 +1,5 @@
+id: dsq-747530624
+date: 2009-12-13T14:35:46.0000000-08:00
+name: J&#248;rn Schou-Rode
+avatar: https://disqus.com/api/users/avatars/J&#248;rn Schou-Rode.jpg
+message: <p>I am currently using the RenderAction helper method from the futures assembly, and one problem I have with it, is that it always creates a new instance of the controller class, even when rendering child actions from the controller already in action. If the controller has an expensive initialization (constructor or Initialize method), using RenderAction causes an unnecessary overhead.<br>Is the behavior the same in ASP.NET MVC 2? Couldn't RenderAction just invoke the child action on the already instantiated controller, in the case where the type of the parent and child controller is the same?</p>

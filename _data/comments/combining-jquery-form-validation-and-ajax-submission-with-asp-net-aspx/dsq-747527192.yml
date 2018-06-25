@@ -1,0 +1,5 @@
+id: dsq-747527192
+date: 2008-12-18T01:02:08.0000000-08:00
+name: Josh
+avatar: https://disqus.com/api/users/avatars/Josh.jpg
+message: <p>Are you sure about this line:<br>var control = Page.LoadControl("~/CommentResponse.ascx") <br>        as CommentResponse;<br>it looks like a vb to me. and it does not compile, of course. ('var' could not be found..."<br>Thanks.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747524207
+date: 2008-02-20T20:51:48.0000000-08:00
+name: Ian Rae
+avatar: https://disqus.com/api/users/avatars/Ian Rae.jpg
+message: <p>More of this please!  Versioning is an important and under-discussed problem.<br>I like the fact that interfaces ensure (at compile time) I've implemented all the methods.  Giving this up would be like going back to VB or Fortran where declaring variables was optional, so a mispelt var would be silently accepted.  Some sort of C# lint tool could detect unimplemented ABS methods.</p>

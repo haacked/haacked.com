@@ -1,0 +1,5 @@
+id: dsq-747510392
+date: 2005-06-07T02:23:00.0000000-07:00
+name: Mr. Something
+avatar: https://disqus.com/api/users/avatars/Mr. Something.jpg
+message: <p>Yes, you could be missing something. To use Java as an example, I believe the volatile keyword forces synchronization of the value between threads because each thread has it's own copy of all variables in CPU cache. There could be an issue if you have multiple physical processors and the thread you set the flag false in is on a different processor then the one you're signaling. In that case, (unless I'm off) it's possible there would be a sizeable delay or that the variable change might never make it to the other thread.</p>

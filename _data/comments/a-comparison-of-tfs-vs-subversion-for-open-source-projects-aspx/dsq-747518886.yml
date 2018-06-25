@@ -1,0 +1,5 @@
+id: dsq-747518886
+date: 2007-03-03T03:58:54.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>&gt; This will never, ever happen. It's an architectural <br>&gt; impossibility. Seriously.<br>Creative solutions are always possible.<br>&gt; Doesn't codeplex let users browse the source code <br>&gt; repository from the browser?<br>It's not the same. While in the midst of developing, I can't just right click on a file and get a history of its checkins to understand why it is the way it is. Working with SVN with anonymous access is just like working with commit access except for one feature, the ability to commit.</p>

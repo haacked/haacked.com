@@ -1,0 +1,6 @@
+id: dsq-864526448
+replyToId: dsq-857933951
+date: 2013-04-15T10:40:17.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>This is one reason I don't use MSTest. If you used XUnit you could use the [Theory] attribute with [PropertyData] and pass in each instance of your interface into your unit test. That way the test is written once.</p>

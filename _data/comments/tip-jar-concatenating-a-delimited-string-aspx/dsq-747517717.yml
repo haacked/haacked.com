@@ -1,0 +1,5 @@
+id: dsq-747517717
+date: 2006-11-21T11:13:59.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>The problem with your code is I'm concatenating a specific property of <code>Fake</code> instances together.<br>Also, I think you meant this:<br><code>delimited += (i &lt; (fakes.Length - 1)) ? \"|\" : \"\");</code><br>I'm not a fan of that because of the check to see if you're at index length - 1. Just rubs me the wrong way.<br></p>"

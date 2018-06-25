@@ -1,0 +1,5 @@
+id: dsq-747533517
+date: 2010-11-09T22:02:08.0000000-08:00
+name: Portman
+avatar: https://disqus.com/api/users/avatars/Portman.jpg
+message: <p>Phil,<br>Count this as +1 vote for Visual Studio Publish support before the RTM. <br>I had always assumed this would go hand-in-hand with syntax highlighting and IDE support for Razor, so was surprised to see that the RC is still not including .cshtml files when publishing.<br>I think a lot of smaller teams and individual developers rely on VS Publish + Web Deploy.</p>

@@ -1,0 +1,5 @@
+id: dsq-747533576
+date: 2010-12-01T17:18:05.0000000-08:00
+name: ashic
+avatar: https://disqus.com/api/users/avatars/ashic.jpg
+message: <p>Any reason why VS config transform syntax can't be used for the config transforms? I know there wouldn't be much use of all syntax options, but since we already have a syntax for config transforms in 2010, why not reuse that?</p>

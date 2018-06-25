@@ -1,0 +1,5 @@
+id: dsq-747522078
+date: 2008-05-28T16:55:41.0000000-07:00
+name: PG
+avatar: https://disqus.com/api/users/avatars/PG.jpg
+message: <p>Using Regex for email syntax/format validation is something that I think shouldn't be attempted.   It's the "holy grail" of regex writers and none have truly achieved it.   The other issue I see, even looking atthe examples above, is that the patterns very quickly become so convoluted as to become unmaintainable.<br>A few years ago I wrote a regex compare, and I've just updated it with your examples from the top - caused me to have to change my procedural code (so yes, I'm not perfect either :) but my point is fixing my procedure/function was done in seconds and 3rd party peer review is able to look at the code and say yes/no on the logic.<br><a href="http://www.pgregg.com/projects/php/code/showvalidemail.php" rel="nofollow noopener" title="http://www.pgregg.com/projects/php/code/showvalidemail.php">http://www.pgregg.com/projects/php/code/showvalidemail.php</a><br>IMHO, I think the search (and time) of email regex simply isn't worth it.<br></p>

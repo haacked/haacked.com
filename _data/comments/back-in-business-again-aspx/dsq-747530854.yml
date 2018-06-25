@@ -1,0 +1,5 @@
+id: dsq-747530854
+date: 2009-12-13T15:03:01.0000000-08:00
+name: Dario Solera
+avatar: https://disqus.com/api/users/avatars/Dario Solera.jpg
+message: "<p>I'm a bit surprised to find that two great software professionals have been bit by such a simple task like server backup. :)<br>I never trusted backups done by hosting service providers, that's why I always have my own backup strategy in place: every day a batch file backs up all the needed files (including database BAKs, generated daily too) and makes a ZIP file, which is then downloaded via FTP from another machine (running at the opposite side of the Atlantic Ocean). Of course this doesn't work with locked files such as VHD, but I have none so it's fine for me. Also, the ZIP files is relatively small (~450MB), so it easy to do a remote backup.</p>"

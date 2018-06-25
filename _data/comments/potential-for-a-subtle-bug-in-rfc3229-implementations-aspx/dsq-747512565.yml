@@ -1,0 +1,5 @@
+id: dsq-747512565
+date: 2005-06-30T23:48:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I think the majority of bloggers use a service like Blogspot, MSN Spaces, Movable Type, etc...  I think most of these services generate the feed.<br><br><br><br>Pubsub implements RFC3229.  They have a list of other implementations. I know RSS Bandit implements RFC3229.  I believe other aggregators will follow suit.<br><br><br><br>The benefit over a static xml file is that when the xml file changes, the typical web server sends the ENTIRE file.  With RFC3229, I can send only the content that has changed.  A bit more server work, but less bandwidth.  <br><br><br><br>For me, I'm actually not too concerned about my own bandwidth since WebHost4Life doesn't give me a limit.  But other hosting providers have caps.</p>

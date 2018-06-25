@@ -1,0 +1,5 @@
+id: dsq-747525012
+date: 2008-05-03T22:35:41.0000000-07:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: "<p>oh, you did come back and address what I was talking about  :)<br>sorry about that - on the bright side, maybe that quick example I cooked up will help someone else - lol<br>All I can say is this ASP.NET MVC has been incredible to work with, especially using jQuery.  I am using the ajax form, validation, other aspects and the best part: full control over everything  :)<br>I've bounced back and forth over using a foreach or a repeater.  The repeater handles null bindings better, I don't like needing to do &lt; % if(... == null) { % &gt;  etc... that is ugly stuff.<br></p>"

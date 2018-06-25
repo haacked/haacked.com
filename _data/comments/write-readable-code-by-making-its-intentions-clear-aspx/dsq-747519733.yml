@@ -1,0 +1,5 @@
+id: dsq-747519733
+date: 2007-04-19T22:36:46.0000000-07:00
+name: Aaron Davis
+avatar: https://disqus.com/api/users/avatars/Aaron Davis.jpg
+message: "<p>+1 for the null coalescing operator.  I had never heard of that, which I guess would make that code less readable for me.<br>I think that is the main problem with code readability where I work: many of the people here don't understand some of C#'s syntax, (even if it is standard in many languages) nor do they want to learn it.  In my first code review here, I was all but told not to use the ternary operator because apparently not everyone knew what it was.  If I came across some piece of syntax that I didn't recognize, I would try to look it up or ask a coworker about it, just like I would an API call.<br>The added readability of \"syntactic sugar\" is useless unless you know what the sugar does.</p>"

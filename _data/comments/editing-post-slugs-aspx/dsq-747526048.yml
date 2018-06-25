@@ -1,0 +1,5 @@
+id: dsq-747526048
+date: 2008-08-13T16:06:52.0000000-07:00
+name: Pete
+avatar: https://disqus.com/api/users/avatars/Pete.jpg
+message: <blockquote>Of course when we come out with our MVC version, we can get rid of that annoying .aspx at the end. :)</blockquote><p><br>You forgot the asterisk... * = if you have IIS7, which no web-hosts has, except for one or two beta-testing.<br>You or someone from your team really should write an article on making MVC useful on IIS6, which will unfortunately be the standard for at least a couple of years.</p>

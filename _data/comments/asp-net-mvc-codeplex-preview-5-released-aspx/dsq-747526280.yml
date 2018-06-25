@@ -1,0 +1,5 @@
+id: dsq-747526280
+date: 2008-09-24T15:20:37.0000000-07:00
+name: Radek
+avatar: https://disqus.com/api/users/avatars/Radek.jpg
+message: "<p>Hi Phil, I have one short question: Why don't you encode <strong>&amp;</strong> sign in querystring when generating URL?<br><code><br>Url.Action(\"Action\", \"Controller\", new {sad = true, happy = false}<br></code><br>will generate:<br><code><br>href=\"/app/Controller/Action?sad=True&amp;happy=False<br></code><br>which breaks XHTML rules. HtmlAttributeEncode can maybe do the magic.<br>Oh, there is one more more question: Where is the right place to put such question? =)</p>"

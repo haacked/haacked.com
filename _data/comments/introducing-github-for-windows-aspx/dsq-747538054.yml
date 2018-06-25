@@ -1,0 +1,5 @@
+id: dsq-747538054
+date: 2012-05-23T07:17:59.0000000-07:00
+name: David J&#248;rgensen
+avatar: https://disqus.com/api/users/avatars/David J&#248;rgensen.jpg
+message: '<p>Seems excellent..<br>I have been trying the app all morning, and so far it seems really really cool. I am, however, having trouble syncing to github.<br>I have dragged my local repositories into the app, and it has "connected" the local repository to the github repository, but when i try to sync it says: <br>"failed to sync this branch - you might need to open a shell and debug the state of this repo".<br>Opening the shell and just typing "git push" works just fine.<br>fyi: i am absolutely no git expert, so have no clue what to do next.</p>'

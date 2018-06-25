@@ -1,0 +1,5 @@
+id: dsq-747530557
+date: 2009-11-18T23:27:00.0000000-08:00
+name: Soe Tun
+avatar: https://disqus.com/api/users/avatars/Soe Tun.jpg
+message: <p>@Chris I got the MicrosoftMvcJQueryValidation.js from the source. The generated client-side validation function name used to be EnableClientValidation(validationContext, userState).<br>But, now it defaults to "Sys.Mvc.FormValidation.enableClientValidation" now as you can see in the System.Web.Mvc.FormContext class.<br><br>Looks like we have to manually set the "ClientValidationFuntion" name inside the Html.BeginForm() block like this.<br>&lt;% using(Html.BeginForm()) { %&gt;<br>&lt;% this.ViewContext.FormContext.ClientValidationFunction = "EnableClientValidation"; %&gt;<br>...<br>&lt;% } // using BeginForm() block ends %&gt;</p>

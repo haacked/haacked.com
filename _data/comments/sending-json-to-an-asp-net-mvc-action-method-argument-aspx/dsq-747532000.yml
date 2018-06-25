@@ -1,0 +1,5 @@
+id: dsq-747532000
+date: 2010-08-18T01:54:00.0000000-07:00
+name: Chris
+avatar: https://disqus.com/api/users/avatars/Chris.jpg
+message: <p>I've had a few problems when using this method. First. what data types do these value providers map and how do they work really?  I'm having problems mapping a return of a JSON Date to a DateTime field in my View Model.  Also decimals don't seem to map when sending a 1.0 or even a "1.0".  Lastly When sending over mildly large collections (200 entries 8 fields each)  It takes us about 5 minutes for the controller to hit it's first break point.  I am assuming this is because the data binding is taking forever (small collections work well).  Any idea or insight?</p>

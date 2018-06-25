@@ -1,0 +1,5 @@
+id: dsq-747530611
+date: 2009-11-18T09:07:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Qun you need to specify the area parameter just like you would if you were using Html.ActionLink.<br><code>&lt;%= Html.Action("Menu", new {area="MyArea"}) %&gt;</code></p>

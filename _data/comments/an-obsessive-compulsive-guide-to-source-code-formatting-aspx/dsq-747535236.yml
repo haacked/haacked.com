@@ -1,0 +1,5 @@
+id: dsq-747535236
+date: 2011-05-22T04:33:23.0000000-07:00
+name: Chris
+avatar: https://disqus.com/api/users/avatars/Chris.jpg
+message: <p>I've always been fond of the "perl way" when it comes to formatting source code.<br>Create a project .perltidyrc with the official formatting options, then apply that to the source during check-in. Then let the users use what formatting they like and stop worrying about formatting.<br>The real goal should be to always format the code the same way so scm changes are indeed code changes and not style changes. Worrying about formatting for any other reason is really waste of brain cycles imho.<br>That's not to say that I still don't obsess about formatting. :-)</p>

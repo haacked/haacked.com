@@ -1,0 +1,5 @@
+id: dsq-747531181
+date: 2009-12-28T16:55:29.0000000-08:00
+name: Rob Grant
+avatar: https://disqus.com/api/users/avatars/Rob Grant.jpg
+message: <p>2 ways:<br><code><br>&lt;div&gt;<br><a href="#" rel="nofollow noopener" title="#">hide</a><br><p>stuff stuff stuff</p><br>&lt;/div&gt;<br></code><br>1) if you can, traverse the document structure relatively. Definitely the best way:<br><code><br>$(".close").click(function(){<br>$(this).next().hide();<br>});<br></code><br>2) otherwise, use an id naming convention, so each area has a unique id, and each link has the same id with an appended salt (in my code example I've prepended "hides-").<br>When they click the hide link, strip the "hides-" from the id and hide the resulting text.<br><code><br>$(".close").click(function(){<br>  var tohide = $(this).attr("id");<br>  $("#" + tohide.substring(7)).hide();<br>});<br></code></p>

@@ -1,0 +1,5 @@
+id: dsq-747534407
+date: 2011-02-07T09:46:09.0000000-08:00
+name: Solmead
+avatar: https://disqus.com/api/users/avatars/Solmead.jpg
+message: <p>What if I have a url:<br>/ImNew/ContactUs<br>And it uses the default route. "{controller}/{acton}/{id}"<br>I want to redirect /ImNew/ContactUs to /ImNew/Locations<br>But if I put the redirect after the default rule the redirect never gets hit.<br>Is it possible to do this?</p>

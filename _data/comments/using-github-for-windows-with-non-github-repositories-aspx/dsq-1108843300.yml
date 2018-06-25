@@ -1,0 +1,5 @@
+id: dsq-1108843300
+date: 2013-11-04T14:13:07.0000000-08:00
+name: Omid K. Rad
+avatar: https://disqus.com/api/users/avatars/omidkrad.jpg
+message: <p>I had used this feature before on previous versions of GHFW but this does not work for me as of today. When I drag a repository onto GHFW window, I get the "forbidden" mouse cursor and nothing happens when I drop. I thought maybe that was because of it not running as Administrator. However, there's no place in GHFW properties to run it as Administrator. I tried running it from a console that is running as Admin to no avail. There doesn't seem to be any other option in GHFW for me to enter the path to an existing repository for tracking. Simply can't use this feature.</p>

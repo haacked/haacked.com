@@ -1,0 +1,5 @@
+id: dsq-747519128
+date: 2007-03-12T19:13:51.0000000-07:00
+name: J. Irvine
+avatar: https://disqus.com/api/users/avatars/J. Irvine.jpg
+message: <p>To extend the analogy to the point of breaking, checking a second atomic clock might be good enough in most cases, but sometimes weird things like, say, the Daylight Savings Time laws changing, will screw the whole thing up. Thanks to the recent change here in the US, I had to update all three of my atomic clocks by hand, and I'll have to change them again in three weeks when they try to jump ahead another hour.<br>(Of course, you could argue that the guys who did the firmware for the clocks are to blame for this, not the laws changing.)<br>The point being that you can't always account for weird edge cases your TDD tests. You might just get results that look good but that are actually wrong. In other words, just because the returns look like the proper values doesn't mean the code arrived at it in the right way. You still need to do system testing.</p>

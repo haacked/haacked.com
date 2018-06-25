@@ -1,0 +1,5 @@
+id: dsq-747516420
+date: 2007-01-24T04:34:00.0000000-08:00
+name: Chris Schiffhauer
+avatar: https://disqus.com/api/users/avatars/Chris Schiffhauer.jpg
+message: <p>I created a Skins.User.config file with a new custom skin, but the Display Skin list on my Options tab does not update to include the new custom skin.  Is there anything that needs to be done besides uploading the new Skins.User.config and new /Skins/ directory?</p>

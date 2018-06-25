@@ -1,0 +1,5 @@
+id: dsq-747523813
+date: 2008-07-16T22:45:49.0000000-07:00
+name: Travis
+avatar: https://disqus.com/api/users/avatars/Travis.jpg
+message: '<p>I hope someone reads this.. but where are these interfaces defined?  I cannot find them anywhere (well my project cant find them referenced anywhere):  <br>IHttpContext  <br>IHttpRequest  <br>IHttpResponse<br>Specifically when used here in MvcMockHelpers.cs:<br>IHttpContext context = mocks.DynamicMock&lt;ihttpcontext&gt;();<br>            IHttpRequest request = mocks.DynamicMock&lt;ihttprequest&gt;();<br>            IHttpResponse response = mocks.DynamicMock&lt;ihttpresponse&gt;();<br>I am using .NET 3.5, Asp.Net Preview 4.</p>'

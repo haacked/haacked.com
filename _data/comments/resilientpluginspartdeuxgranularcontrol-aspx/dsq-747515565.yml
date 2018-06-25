@@ -1,0 +1,5 @@
+id: dsq-747515565
+date: 2006-07-01T03:46:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Good points Joe.<br>As you pointed out, when implementing a plugin, an interface is a guide to the developer on what actions need to take place.  Of course, even implementing every interface member doesn't guarantee it is done correctly as we cannot (in C# anyways) specify a contract and invariants on an interface.  As you pointed out, a developer could stub out a stub method.<br>With an event based approach, the only guidance a developer is given is that the event handler receives a parameter of a type that inherits EventArgs.  This can also be a cohesive *interface*, but rather than implementing it, the plugin makes use of it to get its job done.<br>By examining that type, they will get some semblance of what they are supposed to do with it in order to extend functionality.<br>I think this works especially well when a plugin <em>extends</em> functionality and may be less suited for when it <em>replaces</em> functionality. In the latter case I may be more inclined to use a provider model.</p>

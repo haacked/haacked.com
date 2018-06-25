@@ -1,0 +1,5 @@
+id: dsq-747536272
+date: 2012-01-09T09:11:31.0000000-08:00
+name: Sheron Benedict
+avatar: https://disqus.com/api/users/avatars/Sheron Benedict.jpg
+message: <p>This does not seem to work with WCF REST. When I debugged the HTTP module, I could see that the PostReleaseRequestState event is not being triggered at all. So when the EndRequest event handler executes, it does not find the token in the context. And hence the HTTP status code in the response remains as a 302 redirect.<br>In the end, I decided on a approach where I check in EndRequest if the redirect is to the login page. If so, I override it and return 401. Like this:<br><br><code><br>if (context.Response.IsRequestBeingRedirected &amp;&amp; context.Response.RedirectLocation.Contains(FormsAuthentication.LoginUrl))<br>{<br>response.TrySkipIisCustomErrors = true;<br>response.ClearContent();<br>response.StatusCode = (int)HttpStatusCode.Unauthorized;<br>response.RedirectLocation = null;<br>}<br></code><br></p>

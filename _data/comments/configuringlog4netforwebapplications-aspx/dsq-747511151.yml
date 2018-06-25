@@ -1,0 +1,5 @@
+id: dsq-747511151
+date: 2006-07-14T00:40:00.0000000-07:00
+name: kode
+avatar: https://disqus.com/api/users/avatars/kode.jpg
+message: <p>If no log file is created, check your Log4net.config. There are three appenders in that. If your SMTP server info is not correct in the config file, log file might not be created. I advise you to remove the first two appenders if you dont need them. Atleast thats what happened in my case.<br>Hope it helps.</p>

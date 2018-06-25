@@ -1,0 +1,5 @@
+id: dsq-747524809
+date: 2008-04-13T22:23:48.0000000-07:00
+name: jeff jarrell
+avatar: https://disqus.com/api/users/avatars/jeff jarrell.jpg
+message: <p>Separate DLL. I started out with 1 test assembly per release assembly but that proved too tedious to maintain with the continuous integration build. Now I have 1 assembly for unit tests (across the solution) and 1 assembly for integration tests).<br>I do leave some types public that should really be internal but I try and hide these with a more detailed namespace.</p>

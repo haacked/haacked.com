@@ -1,0 +1,6 @@
+id: dsq-758628211
+replyToId: dsq-757281339
+date: 2013-01-07T00:10:50.0000000-08:00
+name: Chris
+avatar: https://disqus.com/api/users/avatars/Chris.jpg
+message: <p>We do something very similar - we adopted the Option&lt;t&gt; type from F# into our C# setup. If something can be "null", we force it to be an Option which forces the consumer to handle both cases.</p>

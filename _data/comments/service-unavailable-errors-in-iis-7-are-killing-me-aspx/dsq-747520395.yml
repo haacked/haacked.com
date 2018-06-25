@@ -1,0 +1,5 @@
+id: dsq-747520395
+date: 2010-01-26T10:06:55.0000000-08:00
+name: dazx
+avatar: https://disqus.com/api/users/avatars/dazx.jpg
+message: <p>Hi There,<br>Mike thanks. Im problem solved. <br>How i did.<br>Unckecked IIS in Turn on/off.<br>Restart PC.<br>Reinstall IIS.<br>Run cmd as administrator.<br>cd C:\Windows\System32\inetsrv&gt;<br>appcmd list apppools<br>go back to IIS manager restart DefaultAppPool.<br>Hope will help</p>

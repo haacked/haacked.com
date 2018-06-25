@@ -1,0 +1,5 @@
+id: dsq-747525974
+date: 2008-08-10T21:54:02.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@krzysztof I updated the release. Thanks for the heads up. It may take time to propagate.<br>@Mike, on the downloads page, there's a tiny icon for <a href="http://sourceforge.net/project/shownotes.php?group_id=137896&amp;release_id=618910" rel="nofollow noopener" title="Subtext 2.0">release notes</a> that's easy to miss.<br>@Dugald Sign up for our subtext-devs mailing list on SourceForge. that's step 1. We'll figure out the rest as we go along.<br>@bunmi The manual install scripts includes a script to import .TEXT data into a subtext 1.0 database. So on your db, run Installation.01.00.00.sql and then run the ImportDotText095.sql script.<br>@Willie I really like CodePlex, but we need a source control system designed for distributed OSS projects, and TFS is not it. Subversion support is key to us. I know they have the SVN bridge, but I'm not convinced it's 100% there yet.</p>

@@ -1,0 +1,5 @@
+id: dsq-747512383
+date: 2005-06-20T12:13:00.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yeah, these spammers are real motherf*****s.  I plan on implementing the MT blacklist, ip range blocking and keyword blocking soon as well as some other throttles.<br><br><br><br>Eventually I want to implement a Bayesian filter.  But I want to be real careful about the usability of such a filter because bayesian filters can be "poisoned".</p>

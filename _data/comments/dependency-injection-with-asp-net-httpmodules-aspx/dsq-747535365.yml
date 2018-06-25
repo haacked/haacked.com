@@ -1,0 +1,5 @@
+id: dsq-747535365
+date: 2011-06-02T17:59:01.0000000-07:00
+name: Paul Knopf
+avatar: https://disqus.com/api/users/avatars/Paul Knopf.jpg
+message: <p>Why have DI for httmodules though? Testability? Who tests httpmodules?</p>

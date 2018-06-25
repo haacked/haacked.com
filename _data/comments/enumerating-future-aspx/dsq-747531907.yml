@@ -1,0 +1,5 @@
+id: dsq-747531907
+date: 2010-08-24T17:32:11.0000000-07:00
+name: Lee Campbell
+avatar: https://disqus.com/api/users/avatars/Lee Campbell.jpg
+message: <p>I totally get where other are coming from when they ask "So what?". This was my take on Rx in Dec'09 but now I am converted. It is nothing fantastically revolutionary, but a nice evolution. I felt the same with LINQ, becasue at the time I could already query DB/XML and I had Anon Delgates. However I would hate to go back and not have extension methods, Action/Func or deffered execution.<br>Having worked with the Rx Library for a fair few months I have put together what I hope to be a path to unfolding the "Why" (because who cares that IObservable is the math dual of IEnumerable) :-)<br>This series will walk through what and how and lead you to why.<br><a href="http://leecampbell.blogspot.com/2010/08/reactive-extensions-for-net.html" rel="nofollow noopener" title="http://leecampbell.blogspot.com/2010/08/reactive-extensions-for-net.html">leecampbell.blogspot.com/...</a><br>HTH<br>Lee<br></p>

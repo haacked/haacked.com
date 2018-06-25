@@ -1,0 +1,5 @@
+id: dsq-747536246
+date: 2011-10-04T12:12:51.0000000-07:00
+name: Michel Grootjans
+avatar: https://disqus.com/api/users/avatars/Michel Grootjans.jpg
+message: <p>Wouldn't it make more sense to have this be handled by a different HttpModule based on the url's extension.<br>In Rails, if the URL has no extension, it's supposed to be a browser call, where you might respond with a redirect.<br>If the URL has a .json extension, you get a plain error, not a redirect.</p>

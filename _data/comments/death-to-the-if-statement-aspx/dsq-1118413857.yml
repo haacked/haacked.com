@@ -1,0 +1,6 @@
+id: dsq-1118413857
+replyToId: dsq-1118390835
+date: 2013-11-11T10:56:29.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Given I didn't have the full context of the original problem, I had to take it at face value that there's a good reason to pad the array.</p><p>And given that, I still think it's a good case for a more declarative approach than an imperative approach.</p><p>Rather than tell the computer how to pad a list, I focus more on telling it what I want and letting it figure it out.</p><p>This is a simplistic example to demonstrate the concept.</p>

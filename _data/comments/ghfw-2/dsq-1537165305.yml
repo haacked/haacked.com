@@ -1,0 +1,5 @@
+id: dsq-1537165305
+date: 2014-08-11T03:40:23.0000000-07:00
+name: robertlagrant
+avatar: https://disqus.com/api/users/avatars/robertlagrant.jpg
+message: <p>Hi!</p><p>Amazing client - thanks. Although supporting Windows 2.0 seems a bit of a step too far in backwards compatibility.</p><p>Three requests:<br>1) Can I right-click on an unsynced change and just sync up to that commit? Reason is I have some "normal" commits followed by a load of tiny, Heroku config-related commits that I'll probably roll up into one commit later.<br>2) Speaking of which - can I please select multiple consecutive local commits and roll them up into a new commit? In this case I'll do it when I've finally got my Heroku settings right, and I'll be able to see those settings easily in one commit.<br>3) Can the error messages be slightly more specific? Not specifying my proxy correctly just prompted me to open up the git shell.</p><p>Thanks for this product though; you made the choice vs Mercurial very easy.</p>

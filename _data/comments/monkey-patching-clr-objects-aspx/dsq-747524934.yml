@@ -1,0 +1,5 @@
+id: dsq-747524934
+date: 2008-04-20T20:21:42.0000000-07:00
+name: Christopher Bennage
+avatar: https://disqus.com/api/users/avatars/Christopher Bennage.jpg
+message: <p>I think there's some similiar stuff going on in Dynamic Silverlight (IronRuby integrated into SL). You can use the dot syntax to reference XAML elements, and it use missing_method to look them up.  Cool stuff.</p>

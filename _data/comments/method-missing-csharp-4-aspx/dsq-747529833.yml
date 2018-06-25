@@ -1,0 +1,5 @@
+id: dsq-747529833
+date: 2009-08-27T02:00:00.0000000-07:00
+name: Louis DeJardin
+avatar: https://disqus.com/api/users/avatars/Louis DeJardin.jpg
+message: <p>Wait! I must correct myself. I'm not sure if such a type could be used in a way that has the benefits of a dynamic object in addition to the actual properties and strong typing of a typed object.<br>In other words I'm assuming you can't have "ViewDataDictionary ViewData" and have the compiler fall back to using a DLR expression for a missing member because it knows the base class is DynamicObject? And you can't have "dynamic ViewData" without losing intellisense and direct compile-time member access and breaking lots of places where it's value is used as a known type.<br>Maybe for C# 4.5 parameterize the dynamic keyword if you want to use like "dynamic&amp;lt;ViewDataDictionary&amp;gt; ViewData" or "Dynamic&amp;lt;ViewDataDictionary&amp;gt; ViewData" to imply the use of DLR expressions above and beyond what is known to exist on the CLR type descended from DynamicObject?<br></p>

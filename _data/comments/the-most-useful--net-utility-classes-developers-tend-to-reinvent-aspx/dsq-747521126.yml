@@ -1,0 +1,5 @@
+id: dsq-747521126
+date: 2007-07-02T21:27:39.0000000-07:00
+name: CrashCodes
+avatar: https://disqus.com/api/users/avatars/CrashCodes.jpg
+message: <p>For the trailing path delimiter code, steal the idea from the Delphi libraries and create a function (something like):<br><code><br>void IncludeTrailingPathDelimiter(ref String path) {<br>if (!path.EndsWith(Path.DirectorySeparatorChar.ToString()))<br>                path += Path.DirectorySeparatorChar;<br>        }<br></code> <br>that concats the path delimiter if it is not the last character.<br>To avoid needless calls, it might also be a good idea to put whether or not the path delimiter is returned as part of the GetFullPath() function summary. I heart intellisense features. <br>Enjoy<br></p>

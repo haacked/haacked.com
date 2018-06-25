@@ -1,0 +1,5 @@
+id: dsq-747508709
+date: 2004-06-18T11:36:00.0000000-07:00
+name: Jeff Key
+avatar: https://disqus.com/api/users/avatars/Jeff Key.jpg
+message: "<p>The Export to HTML option is handled entirely by the syntax editor control, so I really don't have control of it. I'm trying to get my hands on a better one, but if that doesn't work out I'll add an extensibility point so people can write add-ins to use whatever highlighter they'd like.<br><br><br><br>Regarding the [X|HT]ML: I've already added pluggable languages, which include custom syntax highlighting, so you could add a [X|HT]ML \"language\" that would do do proper syntax highlighting. I haven't released this yet[1], so for it in the next version.<br><br><br><br>[1] While writing the language add-in model I lost my mind and started writing a Commodore 64 BASIC.NET compiler. Once I remove my head from my ass I'll release the new version.</p>"

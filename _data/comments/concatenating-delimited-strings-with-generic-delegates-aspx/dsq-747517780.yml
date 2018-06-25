@@ -1,0 +1,5 @@
+id: dsq-747517780
+date: 2006-11-24T18:05:24.0000000-08:00
+name: Grim
+avatar: https://disqus.com/api/users/avatars/Grim.jpg
+message: <p>Why not go back to your string.Join() method, but use the Generic List&lt;&gt;.ToArray() instead of a hard string[]?<br>public static string Join&lt;T&gt;(<br>char delimiter,<br>IEnumerable&lt;T&gt; items,<br>Converter&lt;T, string&gt; converter<br>)<br>{<br>List&lt;string&gt; stringList = new List&lt;string&gt;();<br>foreach (T item in items)<br>stringList.Add(converter(item));<br>return string.Join(<br>delimiter.ToString(),<br>stringList.ToArray()<br>);<br>}<br></p>

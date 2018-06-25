@@ -1,0 +1,5 @@
+id: dsq-747517778
+date: 2006-11-24T17:53:52.0000000-08:00
+name: Matt Lester
+avatar: https://disqus.com/api/users/avatars/Matt Lester.jpg
+message: <p>&lt;p&gt;Hey there,&lt;/p&gt;<br>&lt;p&gt;This is excellent stuff. I had a similar problem and took a slightly different appproach. I made a wholly inferior version of Map. And now I'm at home, and don't have the original code to refer to.&lt;/p&gt;<br>&lt;p&gt;First, I made a generic MapDelegate (should have looked for an existing delegate):&lt;/p&gt;<br>&lt;div class="code"&gt;public delegate TOut MapDelegate&amp;lt;TIn,TOut&amp;gt;(TIn Input)&lt;/div&gt;<br>&lt;p&gt;And added a generic Map function:&lt;/p&gt;<br>&lt;div class="code"&gt;<br>public IEnumerable&amp;lt;TOut&amp;gt;Map&amp;lt;TIn,TOut&amp;gt;(IEnumerable&amp;lt;TIn&amp;gt; inputs,MapDelegate&amp;lt;TIn,TOut&amp;gt; mapFunction)<br>{<br>  List&amp;lt;TOut&amp;gt; result = new List&amp;lt;TOut&amp;gt;();<br>  foreach (TIn input in inputs)<br>  {<br>    result.Add(mapFunction(input));<br>  }<br>  return result;<br>}<br>&lt;/div&gt;</p>

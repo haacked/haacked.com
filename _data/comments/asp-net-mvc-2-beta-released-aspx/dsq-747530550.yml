@@ -1,0 +1,5 @@
+id: dsq-747530550
+date: 2009-11-17T23:54:00.0000000-08:00
+name: Yitzhak
+avatar: https://disqus.com/api/users/avatars/Yitzhak.jpg
+message: <p>We currently have a VS2008 solution with multi-project areas. It was developed using the MVC 2 Preview 2. We are planning to migrate that solution to the recently released MVC 2 Beta.<br>ASP.NET MVC 2 Beta Release Notes document states the following:<br>•The build task for multi-project areas has been removed and placed in the ASP.NET MVC Futures project.<br>It sounds like that the support for multi-project areas was dropped in favor of single project with multiple areas organized as sub-folders on the file system.<br>The question is what is the recommended migration path to the MVC 2 Beta in our scenario?<br>Regards,<br>Yitzhak<br></p>

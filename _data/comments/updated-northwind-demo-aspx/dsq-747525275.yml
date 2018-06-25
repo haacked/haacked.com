@@ -1,0 +1,5 @@
+id: dsq-747525275
+date: 2008-05-27T22:07:39.0000000-07:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: "<p>I get this error<br>Could not load file or assembly 'System.Web.Routing, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)<br>even after referencing the new assemblies</p>"

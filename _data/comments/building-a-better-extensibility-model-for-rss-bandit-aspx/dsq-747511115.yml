@@ -1,0 +1,5 @@
+id: dsq-747511115
+date: 2005-03-04T04:13:00.0000000-08:00
+name: Jon Galloway
+avatar: https://disqus.com/api/users/avatars/Jon Galloway.jpg
+message: <p>Very interesting. I'm enjoying the recent trend from automation / scripting to interface driven plugins and provider models.<br><br><br><br>I'd love it if the plug-in data storage could completely replace the xml filebased storage system rather than just add to it. The filebased approach seems too slow and resource intensive with thousands of feeds and entries. I'd started writing my own RSS Aggregator that runs off a SQLLite database for just that reason.</p>

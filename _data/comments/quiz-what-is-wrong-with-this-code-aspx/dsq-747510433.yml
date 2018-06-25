@@ -1,0 +1,5 @@
+id: dsq-747510433
+date: 2004-11-17T15:47:00.0000000-08:00
+name: Daniel Turini
+avatar: https://disqus.com/api/users/avatars/Daniel Turini.jpg
+message: <p>My guesses:<br><br>1. The Class="SwitchHandler" is wrong, it should be MyHandler.<br><br>2. Never, never, catch (Exception) and don't log it. Actually, avoid catch (Exception), unless your only purpose it to log it.<br><br></p>

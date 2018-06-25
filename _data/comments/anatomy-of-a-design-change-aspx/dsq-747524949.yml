@@ -1,0 +1,5 @@
+id: dsq-747524949
+date: 2008-04-24T08:02:10.0000000-07:00
+name: Sean Chambers
+avatar: https://disqus.com/api/users/avatars/Sean Chambers.jpg
+message: <p>When it comes to Controllers this is something that MonoRail has struggled with very frequently. Once you start using inheritance in Controllers you expose all of said ugliness that you dont want in derived controllers.<br>What MonoRail has done to mitigate this problem is introduce DynamicActions. It is a lot easier to use associations over inheritance when it comes to Controllers and some form of reusable actions should be introduced that can be plugged in or not without having to add extra code to not use an action. When designing controllers I rarely use inheritance as it almost always doesn't fit well. Sometimes it does work, however this is the exception.<br>I dont think I like the idea of introducing attributes to simply hide actions however, this adds extra noise that isn't as much as [ControllerAction], but noise all the same.<br>You must really dislike people like me by now, but I respect honesty and I try to give the same to everyone =) Just my 2 cents!</p>

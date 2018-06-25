@@ -1,0 +1,5 @@
+id: dsq-747513955
+date: 2006-01-26T02:52:00.0000000-08:00
+name: Marty Thompson
+avatar: https://disqus.com/api/users/avatars/Marty Thompson.jpg
+message: <p>We have been doing that at my company until recently.  A problem we discovered is that using COALESCE or ISNULL will cause a full-table scan.</p>

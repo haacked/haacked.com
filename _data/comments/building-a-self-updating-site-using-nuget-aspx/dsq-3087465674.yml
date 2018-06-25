@@ -1,0 +1,5 @@
+id: dsq-3087465674
+date: 2017-01-07T04:49:34.0000000-08:00
+name: Ravi Rampariya
+avatar: https://disqus.com/api/users/avatars/ravirampariya.jpg
+message: <p>Hello,</p><p>i just take new project of <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> mvc and install package AutoUpdate, Package installed successfully. try to run project in browser with /Installation/Updates/Check</p><p>i am getting below error , pleaes help me to figure this out. i am getting rid of that.</p><p><a href="http://prntscr.com/dsl79y" rel="nofollow noopener" title="http://prntscr.com/dsl79y">http://prntscr.com/dsl79y</a></p><p>Could not load file or assembly 'System.Web.WebPages.Administration, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified.</p>

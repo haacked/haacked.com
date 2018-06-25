@@ -1,0 +1,5 @@
+id: dsq-747535279
+date: 2011-06-05T03:55:30.0000000-07:00
+name: Phil Fearon
+avatar: https://disqus.com/api/users/avatars/Phil Fearon.jpg
+message: "<p>Ever tried virtual-formatting for code? I've been studying this concept recently, specifically for XML/XSLT but the concept should be portable.<br>With this, the code is always indented perfectly by the editing environment, relying on a dynamic context-aware left-margin, no indent characters. Coding style is controlled through line-feeds alone. Drag-and-drop, copy/paste operations just work without the usual formatting clean-up afterwards.<br>Such auto-indentation provides strong visual clues where there are un-matched opening/closing characters/tags (comments are parsed and formatted if they contain code snippets). Downside: To prevent code jumping around the screen too much, a high degree of auto-completion is required, this works well with XML but won't suit all languages and developers' coding styles.</p>"

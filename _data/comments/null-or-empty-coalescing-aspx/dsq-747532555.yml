@@ -1,0 +1,5 @@
+id: dsq-747532555
+date: 2010-06-16T16:48:14.0000000-07:00
+name: George Chakhidze
+avatar: https://disqus.com/api/users/avatars/George Chakhidze.jpg
+message: '<p>Here is the Coalesce implementation:<br><code><br>public static T Coalesce&lt;T&gt;(params T[] args) where T : class<br>{<br>    return args != null ? args.FirstOrDefault(item =&gt; item != null) : null;<br>}<br>public static Nullable&lt;T&gt; Coalesce&lt;T&gt;(params Nullable&lt;T&gt;[] args) where T : struct<br>{<br>    return args != null ? args.FirstOrDefault(item =&gt; item.HasValue) : null;<br>}<br></code></p>'

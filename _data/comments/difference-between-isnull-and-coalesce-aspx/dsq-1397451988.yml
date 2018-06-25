@@ -1,0 +1,6 @@
+id: dsq-1397451988
+replyToId: dsq-747510865
+date: 2014-05-21T07:56:24.0000000-07:00
+name: Kevin
+avatar: https://disqus.com/api/users/avatars/Kevin.jpg
+message: <p>Not sure of the specifics, but the variables are of type varchar, whereas your 98988 value is an integer - so you are checking varchars but trying to return in integer in your coalesce statement.<br>If you instead enclose 98988 in single quotes ('98988') making it a string value, you results would be:<br>test<br>9898</p>

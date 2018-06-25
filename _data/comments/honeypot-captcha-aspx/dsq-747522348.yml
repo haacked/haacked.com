@@ -1,0 +1,5 @@
+id: dsq-747522348
+date: 2007-09-10T18:05:17.0000000-07:00
+name: Tim
+avatar: https://disqus.com/api/users/avatars/Tim.jpg
+message: <p>Pretty interesting.  I did some similar testing a while back against Googlebot, and surprisingly it will build everything up in and execute the CSS.  <br>We were doing some SEO testing to see how smart Googlebot was.   Turns it, it was pretty smart and you couldn't hide tags in CSS (like making the text white to blend in with background). <br>BTW, we weren't trying to fool Google, but rather put some debug information in a page and make sure the bot didn't think we were trying to do something against Google's ToS.<br>I wonder how long it will be (if it's not aready) until these spam bots fully render CSS.</p>

@@ -1,0 +1,6 @@
+id: dsq-935216578
+replyToId: dsq-934195391
+date: 2013-06-19T03:35:17.0000000-07:00
+name: Torleif Berger
+avatar: https://disqus.com/api/users/avatars/svish.jpg
+message: <p>I'd say the problem in your example here is returning null, not the skipping of the null check.</p>

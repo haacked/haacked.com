@@ -1,0 +1,5 @@
+id: dsq-747523701
+date: 2007-12-12T10:07:53.0000000-08:00
+name: Scott Bellware
+avatar: https://disqus.com/api/users/avatars/Scott Bellware.jpg
+message: <p>&gt; Method Foo takes in an IHttpContext. So I<br>&gt; dutifully mock IHttpContext. However, Foo<br>&gt; wants to call a method on HttpContext.Request.<br>&gt; Now I need to mock out IHttpRequest so that<br>&gt; my IHttpContext mock return an instance of<br>&gt; IHttpRequest to my method Foo.<br>That looks a bit like a dependency hub antipattern.  Aaron was saying that once you mock something, its dependencies aren't needed.  Applying this to the HttpContext.Request problem would suggest that either Foo() should take an IHttpRequest, or that IHttpContext should expose an API that does the stuff that you'd use IHttpRequest for (<a href="http://en.wikipedia.org/wiki/Law_of_Demeter)" rel="nofollow noopener" title="http://en.wikipedia.org/wiki/Law_of_Demeter)">http://en.wikipedia.org/wik...</a>.</p>

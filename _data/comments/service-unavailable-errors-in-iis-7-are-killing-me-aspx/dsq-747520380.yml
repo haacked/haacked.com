@@ -1,0 +1,5 @@
+id: dsq-747520380
+date: 2008-10-26T22:02:45.0000000-07:00
+name: Waffle247
+avatar: https://disqus.com/api/users/avatars/Waffle247.jpg
+message: <p>Have you checked the user account you are using for the application pool in question has the correct rights to the virtual directories &amp; other resources associated with your website?<br>I just had a similar issue which I fixed by changing the AppPool account from my user account (mydomain/myusername) to the "local system" account on the machine - I actually have no idea what, when or how the changes to my user account permissions got made; I didn't do it so the only other person to blame round my way would be Bill Gates. Thankfully it's just my local dev machine so I can get away with arbritrary account changes, for production environments I'd suggest creating a new account, assigning it permissions to the resources you need and making a new AppPool then use that for your website.... IIS is soooo not helpful for dev work - MS go away and stop telling lies about ease of use to my boss!</p>

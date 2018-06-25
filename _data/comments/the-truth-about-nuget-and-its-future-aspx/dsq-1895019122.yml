@@ -1,0 +1,5 @@
+id: dsq-1895019122
+date: 2015-03-08T08:18:47.0000000-07:00
+name: drew
+avatar: https://disqus.com/api/users/avatars/drew.jpg
+message: <p>I work with some of the folks that Drew, Brad and Jim Newkirk used to work with over at MSDN. We use this style of organizing tests and I really like it. It provides an organized way to quickly find a set of tests I'm looking for. Its far too easy for a single test class to fill up with a hundred tests and then lose track of any kind of <a href="http://www.filmrally.com/index.html" rel="nofollow noopener" title="http://www.filmrally.com/index.html">order</a>. This organization strategy goes a long way to solve this.</p>

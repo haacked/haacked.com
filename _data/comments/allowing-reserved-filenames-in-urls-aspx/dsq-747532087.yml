@@ -1,0 +1,5 @@
+id: dsq-747532087
+date: 2010-11-23T07:17:52.0000000-08:00
+name: Ted
+avatar: https://disqus.com/api/users/avatars/Ted.jpg
+message: <p>How can we allow this in .Net 2? Updating to 4.0 is not an option for us and we need to allow CON, NUL, AUX etc in our URLS?<br></p>

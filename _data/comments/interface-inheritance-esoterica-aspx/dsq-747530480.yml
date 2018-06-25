@@ -1,0 +1,5 @@
+id: dsq-747530480
+date: 2009-11-10T00:29:00.0000000-08:00
+name: Brian Chiasson
+avatar: https://disqus.com/api/users/avatars/Brian Chiasson.jpg
+message: <p>I understand the specification and the sample, however, I would still expect the output to include both Alias and Name. While implementing the interface, ISuperHero, does NOT indicate how your concrete class will gain its members (Alias or Name) it still requires both properties to be defined somewhere in the hierarchy in order to abide by the ISuperHero contract.</p>

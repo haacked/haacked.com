@@ -1,0 +1,5 @@
+id: dsq-776418007
+date: 2013-01-23T23:50:45.0000000-08:00
+name: Jonas
+avatar: https://disqus.com/api/users/avatars/Jonas.jpg
+message: <p>Another option would be to call:<br>Assert.Throws&lt;someexception&gt;(() =&gt; obj.GetSomeAsync().Result);But that will not execute it asynchronous but that may be ok in a testcase right?</p>

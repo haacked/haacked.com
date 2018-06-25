@@ -1,0 +1,5 @@
+id: dsq-747532076
+date: 2010-04-30T07:15:22.0000000-07:00
+name: Dan F
+avatar: https://disqus.com/api/users/avatars/Dan F.jpg
+message: <p>@Michael (or anyone else who googles this up in the future) You probably already know this, but that's a http.sys restriction, rather than an <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> restriction. You can do some registry hacking to turn it off - <a href="http://stackoverflow.com/questions/667429/using-a-colon-in-a-url-with-asp-net-iis" rel="nofollow noopener" title="http://stackoverflow.com/questions/667429/using-a-colon-in-a-url-with-asp-net-iis">SO 667429</a> links through to <a href="http://support.microsoft.com/?id=820129" rel="nofollow noopener" title="http://support.microsoft.com/?id=820129">KB 820129</a>. It's not really an option if you're not in control of the server though, so hopefully the relaxedUrlToFileSystemMapping helps out here.</p>

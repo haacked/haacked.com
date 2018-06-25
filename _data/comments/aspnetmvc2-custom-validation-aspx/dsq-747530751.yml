@@ -1,0 +1,5 @@
+id: dsq-747530751
+date: 2010-05-31T09:39:36.0000000-07:00
+name: Gabe Sumner
+avatar: https://disqus.com/api/users/avatars/Gabe Sumner.jpg
+message: <p>When using MicrosoftMvcJQueryValidation it looks like I can't interrupt form submission.  See the following code:<br>// When the form is submitted...<br>$("#MyForm").submit(function () {<br>    // The following line is completely ignored when using MicrosoftMvcJQueryValidation<br>    return false;<br>});<br></p>

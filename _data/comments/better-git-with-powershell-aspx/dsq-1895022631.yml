@@ -1,0 +1,5 @@
+id: dsq-1895022631
+date: 2015-03-08T08:21:59.0000000-07:00
+name: steve
+avatar: https://disqus.com/api/users/avatars/steve.jpg
+message: <p>Hi Phil. I'd look to see if there's any existing issues related to this in CodePlex to see if others have interest in this.</p><p>NuGet takes advantage of a lot of .NET 4 features and it'd be a lot of work to backport it and maintain both ports. So I don't anticipate the <a href="http://www.filmrally.com/index.php" rel="nofollow noopener" title="http://www.filmrally.com/index.php">NuGet</a> team wanting to pull that back into NuGet. But you can always maintain your own fork either on CodePlex or GitHub.</p>

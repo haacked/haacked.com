@@ -1,0 +1,5 @@
+id: dsq-747521058
+date: 2007-06-13T17:55:58.0000000-07:00
+name: JV
+avatar: https://disqus.com/api/users/avatars/JV.jpg
+message: <p>Great article. Nobody knows the whole .NET framework by hearth, but there are some very intresting classes already mentioned which I always tend to forget =).<br>Another nice one (2.0 only) is this:<br>string a = "test";<br>if(a == "") {<br>}<br>can be written into:<br>if(string.IsNullOrEmpty(a))<br>{<br>}<br></p>

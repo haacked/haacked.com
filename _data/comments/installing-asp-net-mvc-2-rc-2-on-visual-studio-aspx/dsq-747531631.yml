@@ -1,0 +1,5 @@
+id: dsq-747531631
+date: 2010-02-11T11:28:31.0000000-08:00
+name: Jeff Putz
+avatar: https://disqus.com/api/users/avatars/Jeff Putz.jpg
+message: <p>I've got a new problem. I opened an MVC RC2 project originally from VS2008 and for some reasons the basic HTML helpers are throwing an error because I don't have a reference to the v3.5 System.Web.Routing assembly. If I'm targeting v4, that's all broken. Is there a way to remedy that?</p>

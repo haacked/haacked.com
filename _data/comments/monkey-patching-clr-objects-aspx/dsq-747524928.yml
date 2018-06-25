@@ -1,0 +1,5 @@
+id: dsq-747524928
+date: 2008-04-18T16:18:38.0000000-07:00
+name: Paul Batum
+avatar: https://disqus.com/api/users/avatars/Paul Batum.jpg
+message: <p>I'm still fairly new to ruby and have no experience using IronRuby so please correct me if I'm wrong, but couldn't you have simply redefined the [] operator on the $indexer object? From what I have read so far, overriding method_missing is something you want to be pretty careful about doing.<br>  def $indexer.[](key)<br>    return get_Item(key)<br>  end<br>That would let you write:<br>value = $indexer["key"]<br>Wouldn't it?</p>

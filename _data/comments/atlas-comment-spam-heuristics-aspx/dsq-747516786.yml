@@ -1,0 +1,5 @@
+id: dsq-747516786
+date: 2006-09-19T03:08:21.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I'll probably add it and have an option to enable/disable it. The one problem with this approach is for those who don't use javascript.  Not sure if that's a large constituency. I'll probably disable it by default. We'll see.</p>

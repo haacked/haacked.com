@@ -1,0 +1,5 @@
+id: dsq-747525580
+date: 2008-06-25T03:00:25.0000000-07:00
+name: Tuna Toksoz
+avatar: https://disqus.com/api/users/avatars/Tuna Toksoz.jpg
+message: <p>Windows Registry Editor Version 5.00<br>[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\VS2008 WebServer]<br>@="ASP.NET Web Server Here"<br>[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\VS2008 WebServer\command]<br>@="cmd /c start  /D\"C:\\Program Files (x86)\\Common Files\\microsoft shared\\DevServer\\9.0\\\" Webdev.WebServer.exe /port:%%random%% /path:\"%1\""<br>and here is the registry changes for 64 bit</p>

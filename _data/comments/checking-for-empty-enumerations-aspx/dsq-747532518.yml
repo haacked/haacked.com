@@ -1,0 +1,5 @@
+id: dsq-747532518
+date: 2010-06-13T14:00:12.0000000-07:00
+name: Troels Thomsen
+avatar: https://disqus.com/api/users/avatars/Troels Thomsen.jpg
+message: "<p>@Seth Petry-Johnson: I don't like code for presentation. I'd prefer a templating language that abstracts these things away. I also can't see why you'd send a null collection to some presentation code. You can fix that issue at the source and always assign the collection instead.<br>Null guards will quickly polute your code base. By accepting it a single place, you'll have to deal with it everywhere. You don't start receiving null arguments unless you at some point accepted it in the first place. Fail fast.</p>"

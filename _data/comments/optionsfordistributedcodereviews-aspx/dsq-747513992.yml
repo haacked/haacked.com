@@ -1,0 +1,5 @@
+id: dsq-747513992
+date: 2006-02-03T14:14:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Well if the team subscribes to the commit emails, then everybody can learn from changes made in the code, whether we add the REVIEW tag or just fix the code.<br><br><br><br>In general, I'd like to keep out unnecessary comments in the code.  For example, comments in the code should only describe "why" and not "what".  So initials and a date do not belong in the code.  Instead, that should be in the check-in comments.  <br><br><br><br>Not every review change is fixing a bug.  Sometimes it's just changing code to conform to the project's established style.  Sometimes it is changing code to conform to FxCop rules.<br><br><br><br>For example, we should check for empty strings by comparing the length to zero.  If someone puts code that compares a string == "", I'll just change it to the FxCop rule.  This is a style guide for Subtext.<br><br><br><br>Perhaps the best rule is to just change it for style changes and minor bugs, but add a review tag for a major bug.  And every developer uses their judgment to distinguish.</p>

@@ -1,0 +1,5 @@
+id: dsq-747527935
+date: 2009-01-30T07:21:19.0000000-08:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>Thanks Phil.<br>One problem I'm having is that we, as well as most larger setups, separate out the controllers from the views.<br>It appears all the new GUI features like 'goto controller' do not work in this case ?<br>Is there a workaround for this?  If not, any chance it gets addressed before actual release ?<br>Thanks</p>

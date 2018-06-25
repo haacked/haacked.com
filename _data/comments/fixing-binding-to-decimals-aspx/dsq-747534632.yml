@@ -1,0 +1,5 @@
+id: dsq-747534632
+date: 2011-03-20T18:47:11.0000000-07:00
+name: Paul Hiles
+avatar: https://disqus.com/api/users/avatars/Paul Hiles.jpg
+message: <p>In situations which require users to enter numbers in text fields, I personally prefer to use strings for properties on my viewmodel together with a regex validator that checks if the value is valid. That way, I always have complete control over the error message even when someone enters an invalid number which would typically cause the model binder to return a default error message that I have no control over. If you are using resource files for your error messages / regex, there is no need to a custom model binder.</p>

@@ -1,0 +1,5 @@
+id: dsq-747517009
+date: 2006-09-29T08:10:11.0000000-07:00
+name: Joshua Flanagan
+avatar: https://disqus.com/api/users/avatars/Joshua Flanagan.jpg
+message: <p>Sure, that will work. There is also Clemens' BuildDay algorithm that uses the last digit of the year (6), and then a 3 digit number indicating the day of of the year (today is the 272nd day of the year) = 6272. I'm not saying all date-based builds will break, just this particular one.<br>Also - I'm not sure MSFT would consider it an "issue" to be fixed. The assembly version that is part of an assembly's identity is a 64 bit integer. It breaks up neatly into 4 groups of 16 bits for convenience. There is nothing necessarily wrong with that.</p>

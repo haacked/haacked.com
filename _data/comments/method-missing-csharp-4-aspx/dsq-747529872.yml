@@ -1,0 +1,5 @@
+id: dsq-747529872
+date: 2009-10-14T09:16:00.0000000-07:00
+name: Quiz
+avatar: https://disqus.com/api/users/avatars/Quiz.jpg
+message: <p>public dynamic Data {<br>    get {<br>      return _viewData ?? (_viewData = new DynamicViewData(ViewData));<br>    }<br>  }<br>:)</p>

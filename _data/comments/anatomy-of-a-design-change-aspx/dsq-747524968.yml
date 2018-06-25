@@ -1,0 +1,5 @@
+id: dsq-747524968
+date: 2008-04-24T16:09:16.0000000-07:00
+name: Richard
+avatar: https://disqus.com/api/users/avatars/Richard.jpg
+message: <p>I understand the "methods in a controller are implicitly actions" line of reasoning, but IMHO the potential for hard to spot problems related to interface inheritence (e.g. with your IDisposable example) mean a "safe by default" policy would require explicitly marking which methods are actions rather than which are not.</p>

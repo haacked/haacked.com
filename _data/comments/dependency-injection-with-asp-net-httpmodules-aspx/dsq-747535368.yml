@@ -1,0 +1,5 @@
+id: dsq-747535368
+date: 2011-06-02T23:03:29.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Paul, @Darren Do both of those approaches work without requiring changes to Web.config nor Global.asax.cs? In other words, does the mechanism for dynamic registration register itself?<br>I'm unaware how that could have been accomplished before ASP.NET 4 because there was no way to self register an HTTP Module <em>from outside of the application code</em> without changing the application's web.config or doing some trickery within an application's global.asax.</p>

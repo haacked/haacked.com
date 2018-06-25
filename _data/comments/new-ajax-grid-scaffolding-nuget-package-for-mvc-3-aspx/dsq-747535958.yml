@@ -1,0 +1,5 @@
+id: dsq-747535958
+date: 2011-08-17T15:17:37.0000000-07:00
+name: Al
+avatar: https://disqus.com/api/users/avatars/Al.jpg
+message: <p>Make the controller RESTful to make interaction with other stuff easy and you are on to a winner. If you added the option of a choice between returning JSON or PartialViews it would be very helpful. Even if we just had a scaffolder to implement RESTful json controller/repositories it would be extremely useful and encourage best practice!</p>

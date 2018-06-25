@@ -1,0 +1,5 @@
+id: dsq-747524843
+date: 2008-04-10T08:00:25.0000000-07:00
+name: VIjay Santhanam
+avatar: https://disqus.com/api/users/avatars/VIjay Santhanam.jpg
+message: <p>URL generation is really important to me, and being able to define routes with customised string formatting would be useful.<br>right now i think spaces are left as is -- and firefox seems to deal okay.<br>So for, <br>/Clients/Search/{query} with controller="Clients",action="Search"<br>public void Search(string query){/*action*/}<br>and,<br>ActionLink&lt;ClientsController&gt;(c=&gt; c.Search("John Citiz"), "Search")<br>returns "/Clients/Search/john citi".<br>is that url legal? If it is that's great! but otherwise it'd be nice to customize how query gets formatted. Maybe a static char replacement dictionary.<br><br><br><br></p>

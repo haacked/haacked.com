@@ -1,0 +1,5 @@
+id: dsq-747527786
+date: 2009-01-27T09:46:46.0000000-08:00
+name: Dave
+avatar: https://disqus.com/api/users/avatars/Dave.jpg
+message: <p>I'm having an issue with Ajax.BeginForm after upgrading a MVC Beta site to a RC1 site.  <br>&lt;% using (Ajax.BeginForm("Contact", "Home", new AjaxOptions { UpdateTargetId = "contact_modal", OnSuccess = "registerEvents", LoadingElementId = "contact_ajaxicon" }))<br>   { %&gt;<br>The form using this tag works on the first ajax submission, but not on the second - using the mvc ajax debug file, I've confirmed that it's getting a 404 error - the first time it's correctly pointing to "Home/Contact", but on the second it points to just "Contact".  This was working perfectly (and on many forms like this one) in the Beta version.<br>My eyes are glazing over looking at this - any ideas?<br>Thanks!</p>

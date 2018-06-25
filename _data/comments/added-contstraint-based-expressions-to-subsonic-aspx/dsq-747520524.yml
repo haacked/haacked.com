@@ -1,0 +1,5 @@
+id: dsq-747520524
+date: 2007-05-22T18:56:00.0000000-07:00
+name: Steve Owens
+avatar: https://disqus.com/api/users/avatars/Steve Owens.jpg
+message: <p>I agree with [)amien.  The d00dads framework in MyGeneration lets you specify an intellisensible name for just about everything.  <br>   Products.ProductName <br>is SO much better than doing <br>   dRdr["ProductName"].ToString()<br>We had a consultant begin building a web app for us and everything was using datareaders and literals for column names.  There were three errors I found (so far) in the spelling of some column names within the literal.<br>Life is too short to worry about literals blowing up your query at runtime.<br></p>

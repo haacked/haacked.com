@@ -1,0 +1,5 @@
+id: dsq-747516883
+date: 2006-09-27T07:41:46.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>An even better approach might be to use a symmetric encryption library to place the answer in a hidden input in the form.<br>I should also encrypt the date to prevent a replay attack.</p>

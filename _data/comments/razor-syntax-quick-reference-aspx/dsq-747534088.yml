@@ -1,0 +1,5 @@
+id: dsq-747534088
+date: 2011-04-06T17:13:03.0000000-07:00
+name: Gareth Elms
+avatar: https://disqus.com/api/users/avatars/Gareth Elms.jpg
+message: "<p>@wtg &lt;text&gt; is a fake html tag that helps Razor know to flip out of server code parsing and into markup parsing. The text tag is actually rendered but it is invalid html/xhtml. So it's not ideal. Use @: instead</p>"

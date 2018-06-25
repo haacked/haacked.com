@@ -1,0 +1,5 @@
+id: dsq-2081507257
+date: 2015-06-16T00:57:02.0000000-07:00
+name: nmerrigan
+avatar: https://disqus.com/api/users/avatars/nmerrigan.jpg
+message: <p>Mine came from a mistake where we sent out a URL with the admin session key in the URL and had a lot of admin log in at the same time. It was around 2002 and I learnt the hard way about session hijacking but it was my moment of right, I better learn how to secure these things. For some reason, we all have that oh crap, I am never making that sort of mistake again. .</p>

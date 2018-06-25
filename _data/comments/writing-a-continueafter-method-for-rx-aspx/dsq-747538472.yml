@@ -1,0 +1,5 @@
+id: dsq-747538472
+date: 2012-10-09T06:15:34.0000000-07:00
+name: Frank Quednau
+avatar: https://disqus.com/api/users/avatars/Frank Quednau.jpg
+message: <p>Wouldn't you need the two observables to be of the same type in the case of Concat?<br>Also, since you can push exceptions to Observer, I am sure you can write a version that will not start pushing out elements if the previous Observable failed.</p>

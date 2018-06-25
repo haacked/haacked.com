@@ -1,0 +1,5 @@
+id: dsq-747530634
+date: 2010-01-07T01:06:57.0000000-08:00
+name: Roger Rogers
+avatar: https://disqus.com/api/users/avatars/Roger Rogers.jpg
+message: <p>&gt; I'd argue your login form should post to a login action which redirects back to the original form<br>I try to use return Redirect("..."); in the RenderAction, but I get the error "Child actions are not allowed to perform redirect actions."<br>How can I make my RenderAction action return a redirect so that I can use the PRG pattern?<br>(MVC newbie, so forgive me if the answer is obvious)</p>

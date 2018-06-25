@@ -1,0 +1,5 @@
+id: dsq-747527963
+date: 2009-02-01T03:12:00.0000000-08:00
+name: simon
+avatar: https://disqus.com/api/users/avatars/simon.jpg
+message: <p>@haacked - thanks phil that was it. i hadn't updated the 'MicrosoftMvcAjax.js' file but only because the release notes didnt tell me to ;) They do say 'The ASP.NET AJAX helpers were updated to send this header in requests' but it didnt actually say i had to update the .js files :-) But then they do also say "The following list describes **some** of the changes that you must make." ;-)</p>

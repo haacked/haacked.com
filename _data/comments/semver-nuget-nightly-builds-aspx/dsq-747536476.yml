@@ -1,0 +1,5 @@
+id: dsq-747536476
+date: 2011-11-09T21:19:05.0000000-08:00
+name: Koen
+avatar: https://disqus.com/api/users/avatars/Koen.jpg
+message: <p>hmm first post seamed to have been lost so here attempt nr 2:<br>Besides SemVer I would like to add there are other "Semantic Versioning"-standards like:<br><a href="http://www.osgi.org/wiki/uploads/Links/SemanticVersioning.pdf" rel="nofollow noopener" title="http://www.osgi.org/wiki/uploads/Links/SemanticVersioning.pdf">www.osgi.org/.../SemanticVersioning.pdf</a><br>Which actually allow for a beta, rc2, ... etc. appendix.</p>

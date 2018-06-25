@@ -1,0 +1,5 @@
+id: dsq-747523913
+date: 2008-01-06T15:00:41.0000000-08:00
+name: Rik Hemsley
+avatar: https://disqus.com/api/users/avatars/Rik Hemsley.jpg
+message: <p>Ruby has a small advantage with type inference. It can assume that a number<br>is of class Fixnum (if it fits into one) safe in the knowledge that it will<br>be automatically changed into a Bignum later, if it becomes necessary.<br></p><p><br></p><p><br>C# doesn't have this luxury. It's not possible to guess at the correct<br>type to give a number.<br></p><p><br></p><p><br>Sergio said:<br></p><p><br></p><blockquote>If no type is specified, then infer from the keys and demand that they be of the same type.<br></blockquote><p><br></p><p>It's possible to infer from the keys in the above example that string should be used, but, given e.g. { "count", 42 }, what should be used for value? What if you pick something too small and I want to set 'count' to a larger number later?<br></p><p><br></p><p><br>I suppose it wouldn't be terrible to assume 'long' in the above example, but<br>there are bound to be complaints about that from people who need/want the<br>smallest possible storage.<br></p><p><br></p>

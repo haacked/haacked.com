@@ -1,0 +1,5 @@
+id: dsq-747536361
+date: 2011-10-16T22:07:26.0000000-07:00
+name: ms440
+avatar: https://disqus.com/api/users/avatars/ms440.jpg
+message: '<p>Hi Phil,<br>I’ve also been working on the very similar problem – I need a way to execute some code at pre-scheduled future time for MVC app without having an additional service running. <br>I’m using cache expiration event with absolute expiration time and <strong>the fact that IIS7.5 on x64</strong> does not wait for the first request but is firing Application_Start as soon as the thread pool is recycled or the server restarts.<br>In Application_Start I’m checking the database to find out the next absolute expiration time. The task itself is executed in the cache expiration event handler inside database transaction, and it also sets up the cache expiration for the next cycle.<br>This method has certain limitations (IIS7.5, x64, no farm) but it handles the major problem (web.config changed, server went down, etc.) well.<br>My question: <strong>am I missing some use case</strong> that makes my approach “dangerous” also?<br></p>'

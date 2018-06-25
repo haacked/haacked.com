@@ -1,0 +1,5 @@
+id: dsq-747512542
+date: 2006-10-06T03:24:44.0000000-07:00
+name: d
+avatar: https://disqus.com/api/users/avatars/d.jpg
+message: <p>Ok I have a web service and a web client which calls the service.<br>WHen the service throws SoapException, the message of the excpetion on the client says that exact message that got thrown.<br>When the service throws ApplicationExcpetion, the message of exception on client side says "Server Unavailable".<br>SO I used ur extension, hoping that when the ApplicationExcpetion gets thrown, ur soap extension will wrap it up in SoapException and error message on client side will be correct. But that does not happen, why?</p>

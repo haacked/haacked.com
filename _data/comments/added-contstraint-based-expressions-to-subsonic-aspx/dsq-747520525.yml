@@ -1,0 +1,5 @@
+id: dsq-747520525
+date: 2007-05-22T18:56:20.0000000-07:00
+name: Richard
+avatar: https://disqus.com/api/users/avatars/Richard.jpg
+message: <p>Cool.<br>Oren did something similar for NHibernate, but used generated classes and operator overloading so that you can write a query like:<br>Where.Post.Blog.Author.Name == "Ayende"<br><a href="http://www.ayende.com/Blog/archive/7186.aspx" rel="nofollow noopener" title="http://www.ayende.com/Blog/archive/7186.aspx">http://www.ayende.com/Blog/...</a></p>

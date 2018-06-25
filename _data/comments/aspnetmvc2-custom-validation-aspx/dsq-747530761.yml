@@ -1,0 +1,5 @@
+id: dsq-747530761
+date: 2011-05-11T22:38:51.0000000-07:00
+name: mjormy
+avatar: https://disqus.com/api/users/avatars/mjormy.jpg
+message: <p>I need to validate some fiels similar to the dni, which have some rules and the process of the validation is about the data itself not the format (can't use regular expressions).. <br>I used to do the process and send a boolean if the data is correct, how can i do that on mvc???</p>

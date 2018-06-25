@@ -1,0 +1,5 @@
+id: dsq-747525099
+date: 2008-05-06T09:23:10.0000000-07:00
+name: tgmdbm
+avatar: https://disqus.com/api/users/avatars/tgmdbm.jpg
+message: "<p>Love it. Nice one Phil.<br>@Troy, yeah, I think using a csv file with url,routeName,failureMessage is a nice idea. Then you can write one test to rule them all. But this is really down to your own preference, and might not be applicable in certain projects.<br>My only problem with testing urls is I don't really care what my urls look like, read: \"I have no *good* reason to care\". As long as when i call ActionLink passing in whatever values, it generates a url such that requesting that url will pass those values to my controller action. If that is true then I'm happy.<br>So what I do is exactly that. I get the url from GetVirtualPath, and pass it back through GetRouteData and Assert that what i get out is what i put in. I don't test the url directly.<br></p>"

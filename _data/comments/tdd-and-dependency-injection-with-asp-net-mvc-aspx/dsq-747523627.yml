@@ -1,0 +1,5 @@
+id: dsq-747523627
+date: 2009-02-09T11:57:14.0000000-08:00
+name: Jei
+avatar: https://disqus.com/api/users/avatars/Jei.jpg
+message: "<p>Hi Phil,<br>I have been keenly following the use of StructureMap as an IOC container for Dependency Injection. I have looked at illustrations by Jeremy Miller and Rob Connery among others and I get expect results when I do the injection from code but not when I try to use StructureMap.config. For instance, with your sample here, an exception is thrown at the line: <br>return ObjectFactory.GetNamedInstance&lt;IController&gt;(key);<br>in StructureMapControllerFactory class. The following are the exception details:<br>StructureMap configuration failures:<br>Error:  210<br>Source:  <br>The designated default instance 'InMemory' for PluginType MvcApplication.Models.IPostRepository, MvcExample1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null cannot be found.<br>am using StructureMap Version 2.5.3 (I don't know whether this might be the problem)<br>... Sorry for reviving this blog.<br>Best Regards,<br>Jei.<br></p>"

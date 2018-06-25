@@ -1,0 +1,5 @@
+id: dsq-747511161
+date: 2007-04-30T21:52:17.0000000-07:00
+name: PHANI NADIGADDA
+avatar: https://disqus.com/api/users/avatars/PHANI NADIGADDA.jpg
+message: <p>Log4Net for logging the messages is working fine for me. The thing is my sessions are getting expired when the I log the message using<br>log.Debug() or log.Info() or log.Error() or any thing.<br>Does any know how to overcome this. If, Please help me to get out this issue.<br>Thanks,<br>Phani<br>phani.nadigadda@gmail.com</p>

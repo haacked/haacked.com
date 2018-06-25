@@ -1,0 +1,5 @@
+id: dsq-747525742
+date: 2008-09-23T20:06:43.0000000-07:00
+name: Mohan
+avatar: https://disqus.com/api/users/avatars/Mohan.jpg
+message: <p>I implemented URL Routing without using MVC and Dynamic Data, still certain routes interfere with the /WebResource.axd and /ScriptResource.axd handlers. Causig failue of Ajax framework. Please provide me the suggestions.</p>

@@ -1,0 +1,5 @@
+id: dsq-747531427
+date: 2010-03-10T19:23:30.0000000-08:00
+name: Marcus
+avatar: https://disqus.com/api/users/avatars/Marcus.jpg
+message: <p>I am receiving 404 errors when I try to run the sample as well. I think the Routes.cs file is erroring out during the dynamic compile process. Any suggestions?</p>

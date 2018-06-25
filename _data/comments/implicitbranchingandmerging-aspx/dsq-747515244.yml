@@ -1,0 +1,5 @@
+id: dsq-747515244
+date: 2006-06-02T00:57:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>As I pointed out though, even with exclusive locks you are implicitly merging code when you check it in.<br>For example, you check out Foo.cs which has a class Foo that relies on class Bar. Another developer checks out Bar.cs which has class bar.<br>You change some code in Foo and test it and it works. Unknown to you, the other developer is changing Bar and checks it in. Now when you check in Foo, the code in the repository is broken.<br>The thing is, you still need to merge changes. One way is to get latest just before you checkin you get latest again and retest your code. Even then, you could both check in at approximately the same time, in which case one or the other of you must fix the build.</p>

@@ -1,0 +1,5 @@
+id: dsq-747523801
+date: 2007-12-17T07:01:43.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Actually, just found out that query string parameters are not part of routing. It's the Controller action invocation that matches query string parameters to the action method's parameters.<br>So the part that is the route is everything up to the query string question mark. Make sense?</p>

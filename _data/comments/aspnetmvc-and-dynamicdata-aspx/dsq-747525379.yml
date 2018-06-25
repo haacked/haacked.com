@@ -1,0 +1,5 @@
+id: dsq-747525379
+date: 2008-06-10T22:36:46.0000000-07:00
+name: Mike Hadlow
+avatar: https://disqus.com/api/users/avatars/Mike Hadlow.jpg
+message: <p>Hi Phil,<br>Dynamic Data is nice but it doesn't supply a nice replace-it-bit-by-bit path to custom controllers/views that would allow you to quickly knock up a prototype but then hand-code the bits you need. I'd really like to see Rails style scaffolding in the MVC Framework similar to the solution in Monorail. <br>I've built a scaffolding controller based on my own Repository&lt;t&gt; implementation, it doesn't supply the views yet, but at least it's saving me from coding simple repetative controllers.<br><a href="http://mikehadlow.blogspot.com/2008/05/mvc-framework-scaffolding.html" rel="nofollow noopener" title="http://mikehadlow.blogspot.com/2008/05/mvc-framework-scaffolding.html">mikehadlow.blogspot.com/.../...rk-scaffolding.html</a><br>Mike</p>

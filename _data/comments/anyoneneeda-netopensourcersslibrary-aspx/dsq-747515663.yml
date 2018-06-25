@@ -1,0 +1,5 @@
+id: dsq-747515663
+date: 2006-07-10T08:30:00.0000000-07:00
+name: Greg Young
+avatar: https://disqus.com/api/users/avatars/Greg Young.jpg
+message: <p>I like Jon's idea but I might take it one step further than the provider pattern and create a domain as there is also significant validation logic on creation of the items (which would also be nice to have abstracted in a nice way)</p>

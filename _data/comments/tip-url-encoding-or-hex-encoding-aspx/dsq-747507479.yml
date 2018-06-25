@@ -1,0 +1,5 @@
+id: dsq-747507479
+date: 2005-04-13T21:41:00.0000000-07:00
+name: Ben
+avatar: https://disqus.com/api/users/avatars/Ben.jpg
+message: <p>I agree with erik's first point.<br><br><br><br>Try to write å and search for it in Google. This returns:<br><br><a href="http://www.google.com/search?hl=en&amp;lr=&amp;q=%C3%A5" rel="nofollow noopener" title="http://www.google.com/search?hl=en&amp;lr=&amp;q=%C3%A5">http://www.google.com/search?hl=en&amp;lr=&amp;q=%C3%A5</a><br><br><br><br>So... å should be %C3%A5 in hex - right.<br><br><br><br>Well, it's not. It's %E5 in hex.<br><br><br><br>Bad luck, Haacked.</p>

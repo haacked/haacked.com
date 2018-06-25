@@ -1,0 +1,5 @@
+id: dsq-1331451537
+date: 2014-04-10T23:00:33.0000000-07:00
+name: Matt
+avatar: https://disqus.com/api/users/avatars/Matt.jpg
+message: <p>This is a little late, but things I'd love to hear about from you:<br> - Git workflows - how do you guys work with git on a day to day basis?  How do the pros work with branching on large systems with large teams?  I'm not looking at a tutorial, I'm looking at the way people work with git.<br>- Infrastructure issues - what do people do with the conflicting resource technologies these days.  Moderns apps tend to use a web server, a relational database, a background service e.g. workflow engine, Mongodb or document DB in the background....what's an optimal setup for these?  Clearly not one server as they're all greedy resource pigs - but what's a cost-effective balance?  Does github or any of the other projects you work on have these issues?<br>- What background processing techniques do you use at github?  Some kind of workflow engine?  Message queues?  Hamster in a wheel?<br>- If you had a third nipple, would you have it removed?</p>

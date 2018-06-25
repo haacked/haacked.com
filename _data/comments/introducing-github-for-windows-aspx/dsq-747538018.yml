@@ -1,0 +1,5 @@
+id: dsq-747538018
+date: 2012-05-22T00:18:08.0000000-07:00
+name: Craig
+avatar: https://disqus.com/api/users/avatars/Craig.jpg
+message: <p>Borek, I tend to agree with you. The most difficult part of Git for Windows users is all the Unix type configuration, ie installing the right bits in a language they know, creating SSH keys etc. Wrap this in a nice interface and all is good. Actually using the Bash command line and Git Extensions is then very easy.</p>
