@@ -1,3 +1,5 @@
 {% if post.comments or page.comments %}
-<span class="comments"><a href="{{ post.url }}#comments">comments</a></span>
+{% capture default_slug %}{{ post.slug | default: (page.title | slugify) }}{% endcapture %}
+{% capture slug %}{{ (post.slug | fallback: default_slug) | downcase }}{% endcapture %}
+<span class="comments"><a href="{{ post.url }}#comments">{{  site.data.comments[slug] | size }} comments</a></span>
 {% endif %}
