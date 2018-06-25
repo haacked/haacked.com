@@ -1,0 +1,5 @@
+id: dsq-1529754333
+date: 2014-08-06T00:53:42.0000000-07:00
+name: thejspr
+avatar: https://disqus.com/api/users/avatars/thejspr.jpg
+message: "<p>I tweaked the `bclean` alias a bit to also not remove a production branch is it's been merged:</p><p>bclean = \"!f() { git branch --merged ${1-master} | grep -vE '(master|production)' | xargs git branch -d; }; f\"</p><p>I also got `xargs: illegal option -- r` on osx</p>"

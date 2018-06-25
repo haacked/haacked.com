@@ -1,0 +1,5 @@
+id: dsq-747535644
+date: 2011-07-18T05:03:55.0000000-07:00
+name: MartinF
+avatar: https://disqus.com/api/users/avatars/MartinF.jpg
+message: <p>Make the core framework small, fast and extensible (you did some really nice thing for mvc 3).<br>Dont spend time creating all kind of fluff that has nothing to do with the core, it should go into a different project which people can install if they need it.<br>People seem to suggest all kind of different stuff that should have nothing to do with the mvc framework.<br>Please seperate the projects and dont mix all of it together.</p>

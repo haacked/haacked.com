@@ -1,0 +1,5 @@
+id: dsq-747535974
+date: 2011-08-17T22:32:52.0000000-07:00
+name: Thiago Custodio
+avatar: https://disqus.com/api/users/avatars/Thiago Custodio.jpg
+message: <p>How to do that if I'm using Dependency Injection to persist my entities? I won't have the data context class, this will be handled by my service layer that I'll inject on my controller.</p>

@@ -1,0 +1,5 @@
+id: dsq-747514667
+date: 2006-06-14T20:22:00.0000000-07:00
+name: Vincent Verbrugh
+avatar: https://disqus.com/api/users/avatars/Vincent Verbrugh.jpg
+message: <p>here is an other and shorter solution:<br>if (window.onload) {<br>  var func = window.onload;  <br>  window.onload = function() {<br>    func();<br>    startSlideShows();<br>  }<br>} else {<br>  window.onload = startSlideShows;<br>}</p>

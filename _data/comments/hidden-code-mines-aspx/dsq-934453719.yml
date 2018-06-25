@@ -1,0 +1,6 @@
+id: dsq-934453719
+replyToId: dsq-933740809
+date: 2013-06-18T10:24:42.0000000-07:00
+name: Mauricio Scheffer
+avatar: https://disqus.com/api/users/avatars/Mauricio Scheffer.jpg
+message: "<p>On second thought, it's not necessary to change the codomain to make it total: you could just keep the first of the duplicate keys. Of course, this would lead to data loss, which sometimes you'd want and sometimes not, but it's not as general as keeping all the data and then deciding whether to drop it or not.</p>"

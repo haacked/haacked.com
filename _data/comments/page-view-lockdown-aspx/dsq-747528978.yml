@@ -1,0 +1,5 @@
+id: dsq-747528978
+date: 2009-05-05T00:19:00.0000000-07:00
+name: Kelly Stuard
+avatar: https://disqus.com/api/users/avatars/Kelly Stuard.jpg
+message: <p>Stupid question... Why can't we specify multiple 'PageParseFilter's and have them co-operate with each other on the "Least permissive" set of results? Why can't 'MyPageParserFilter' co-exist with 'ViewTypeParserFilter'? It looks like if one returs NumberOfControlsAllowed of 5 and another 4 then the obvious result would be 4. AllowControl true and false would be false. Etc.</p>

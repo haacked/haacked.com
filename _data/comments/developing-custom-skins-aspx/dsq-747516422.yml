@@ -1,0 +1,5 @@
+id: dsq-747516422
+date: 2007-01-24T04:58:57.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yeah, restart the AppDomain. Easiest way is to make a tiny change to Web.config and save it. This happens because we cache the Skin settings.</p>

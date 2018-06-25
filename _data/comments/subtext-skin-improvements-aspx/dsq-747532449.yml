@@ -1,0 +1,5 @@
+id: dsq-747532449
+date: 2010-06-09T19:19:35.0000000-07:00
+name: Bradley Landis
+avatar: https://disqus.com/api/users/avatars/Bradley Landis.jpg
+message: <p>Phil,<br>Thanks.  It turned out to be something very simple.  The skin that I copied had files in its Control folder called _Header.ascx and Header.ascx.  I was editing the wrong the one.</p>

@@ -1,0 +1,5 @@
+id: dsq-747510903
+date: 2006-04-16T02:19:00.0000000-07:00
+name: OmegaMan
+avatar: https://disqus.com/api/users/avatars/OmegaMan.jpg
+message: <p>It doesn't answer your real goal, but to enumerate an alphabet without the overhead of a class try this<br>char ch;<br>for (int index = 0; index &lt; 26; index++)<br>   {<br>   char ch = Convert.ToChar((Convert.ToInt32('A') + index));<br>   System.Console.Writeline(ch.ToString());<br>   }<br>  <br>It harkens back to the old C days when one could simply add one to a character and get the next character in the sequence.</p>

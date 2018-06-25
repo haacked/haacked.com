@@ -1,0 +1,5 @@
+id: dsq-747535745
+date: 2011-08-02T21:30:44.0000000-07:00
+name: Buildstarted
+avatar: https://disqus.com/api/users/avatars/Buildstarted.jpg
+message: <p>Alexandre, the difference is that this is a precompiled method while the RazorEngine compiles on the fly. The RazorEngine allows you to pull views from alternate locations that can be modified if necessary. This particular method just compiles them ahead of time.</p>

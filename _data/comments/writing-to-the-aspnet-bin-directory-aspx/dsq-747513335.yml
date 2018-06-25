@@ -1,0 +1,5 @@
+id: dsq-747513335
+date: 2007-12-09T01:31:10.0000000-08:00
+name: David Gero
+avatar: https://disqus.com/api/users/avatars/David Gero.jpg
+message: <p>You don't need write access to /bin<br>Instead, put the source code to your upgrade assembly somewhere that's normally writable, like /Admin/Src/upgrade.cs<br>Then, in your /Admin/UpgradeToSubtext.aspx file, add the following to your @Page line:<br>src="/Admin/Src/upgrade.cs"<br>When UpgradeToSubtext.aspx is accessed, ASP.NET will automagically compile upgrade.cs and write upgrade.dll to the /bin directory.<br></p>

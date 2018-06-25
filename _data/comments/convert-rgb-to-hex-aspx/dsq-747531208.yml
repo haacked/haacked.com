@@ -1,0 +1,5 @@
+id: dsq-747531208
+date: 2009-12-30T03:41:47.0000000-08:00
+name: Pita.O
+avatar: https://disqus.com/api/users/avatars/Pita.O.jpg
+message: "<p>Hi Partha:<br>Please don't mind the sassiness.<br><strong>$('foo')</strong> is a j@uery capture expression for an arbitrary html element foo. An specific example would be #('div').<br>So, <strong>colorToHex()</strong> function converts the <strong>css.color</strong> of that capture to Hexadesimal.<br>Finally, the <strong>equals()</strong> function checks if that hex value is equal to the string '#e0e0e0'</p>"

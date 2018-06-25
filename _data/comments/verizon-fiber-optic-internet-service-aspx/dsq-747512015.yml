@@ -1,0 +1,5 @@
+id: dsq-747512015
+date: 2008-11-02T01:34:56.0000000-08:00
+name: Kyle
+avatar: https://disqus.com/api/users/avatars/Kyle.jpg
+message: <p>I'm almost positive it is mbps.  For the sake of anyone that doesn't know, mbps is megabits per second, as MBps is megabytes per second.  There are 8 bits in a byte, therefore 20mbps is 2.5MBps, which is the way your computer displays it.  Internet providers, from what I have seen, always refer to mbps.  I guess the larger number looks better and makes people that are unaware, feel they are getting more for their money.<br>Also, to answer the previous question, I have Comcast and as far as I know, the top package they provide is 9mbps, along side their burst of 12mbps.  The 100mbps that you're referring to is the top speed of your LAN.  I'm sure when you start your computer, the networking icon comes up and says that you are connected to your 100mbps network, am I right?  That is merely the maximum speed of your LAN card, not the speed of your internet.  Hope that helps.</p>

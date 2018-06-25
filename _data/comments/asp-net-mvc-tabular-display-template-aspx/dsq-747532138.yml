@@ -1,0 +1,5 @@
+id: dsq-747532138
+date: 2010-06-14T02:01:01.0000000-07:00
+name: Bret Ferrier
+avatar: https://disqus.com/api/users/avatars/runxc1.jpg
+message: <p>How is Model.GetType().GetGenericArguments()[0] used on an empty List?</p>

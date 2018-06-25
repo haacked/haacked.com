@@ -1,0 +1,5 @@
+id: dsq-747528680
+date: 2009-05-17T16:08:00.0000000-07:00
+name: Ian
+avatar: https://disqus.com/api/users/avatars/Ian.jpg
+message: <p>I solved my own problem obviously in Phils demo code he hadn't returned the total number of pages and therefore the paging in the jqGrid didn't work.</p>

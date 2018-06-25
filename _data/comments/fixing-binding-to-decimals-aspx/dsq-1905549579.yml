@@ -1,0 +1,5 @@
+id: dsq-1905549579
+date: 2015-03-13T10:22:45.0000000-07:00
+name: Peter Kula
+avatar: https://disqus.com/api/users/avatars/peter_kula.jpg
+message: <p>This still fails with the currency symbol so I tweaked it like this.</p><p>   decimal outValue;<br>   decimal.TryParse(valueResult.AttemptedValue, NumberStyles.Currency, CultureInfo.CurrentCulture, out outValue);<br>   actualValue = outValue;</p><p>and that works with the current culture currency symbol, and commas and dots even in the incorrect place. Now, in my next project I am going to forget how I did this :(</p>

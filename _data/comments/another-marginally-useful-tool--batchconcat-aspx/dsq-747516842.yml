@@ -1,0 +1,5 @@
+id: dsq-747516842
+date: 2006-09-21T01:19:15.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@szeryf Thanks! I didn't realize that syntax worked. Doh!<br>@Steve:  What I was doing was slow because I was iterating one file at a time. But passing in *.sql to copy is really fast.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747536439
+date: 2011-10-20T23:37:10.0000000-07:00
+name: Glenn Block
+avatar: https://disqus.com/api/users/avatars/Glenn Block.jpg
+message: '<p>On the subject of whether to use an operation handler vs message handler, I put together a post on which to use when here: <a href="http://codebetter.com/glennblock/2011/05/17/message-handlers-vs-operation-handlers-which-one-to-use-2/" rel="nofollow noopener" title="http://codebetter.com/glennblock/2011/05/17/message-handlers-vs-operation-handlers-which-one-to-use-2/">codebetter.com/...</a><br>There is some overlap but there are clear design goals for each.</p>'

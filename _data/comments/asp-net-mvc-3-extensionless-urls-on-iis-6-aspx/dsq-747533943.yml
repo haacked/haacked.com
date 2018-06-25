@@ -1,0 +1,5 @@
+id: dsq-747533943
+date: 2011-02-14T00:47:24.0000000-08:00
+name: Mart&#237;n Mutilva
+avatar: https://disqus.com/api/users/avatars/Mart&#237;n Mutilva.jpg
+message: "<p>I had the following problem: one ASP.Net MVC 2 worked fine in IIS 6 with .Net 4 installed and the another gave me the 403 error.<br>The difference was the application name (and the directory name): The one that didn't work has dots '.' in its name, e.g. Namespace1.ProjectName.WebMVC. <br>Changing it to Namespace1_ProjectName_WebMVC solved the problem</p>"

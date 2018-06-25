@@ -1,0 +1,5 @@
+id: dsq-747522355
+date: 2007-09-10T20:33:00.0000000-07:00
+name: Ryan Smith
+avatar: https://disqus.com/api/users/avatars/Ryan Smith.jpg
+message: <p>That's an interesting method. I found the simple JavaScript CAPTCHA handles all bots on one of my contact forms, but this seems like a better, cleaner solution than forcing the JavaScript issue.  <br>Probably much better from an accessibility point of view.</p>

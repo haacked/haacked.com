@@ -1,0 +1,6 @@
+id: dsq-1131606706
+replyToId: dsq-1131583100
+date: 2013-11-20T11:36:21.0000000-08:00
+name: Keith Dahlby
+avatar: https://disqus.com/api/users/avatars/dahlbyk.jpg
+message: <p>Insert quote about naming things being hard.</p><p>Between the two, Ignore feels perhaps more declarative, but in either case it seems like the sort of thing you just have to learn at some point. "To merge heterogeneous observables, use ___."</p><p>I like the cleanup, but I think ObserveResize needs to return IObservable&lt;EventPattern&lt;EventArgs&gt;&gt;.</p>

@@ -1,0 +1,5 @@
+id: dsq-747521849
+date: 2007-08-03T13:12:30.0000000-07:00
+name: Steve Trefethen
+avatar: https://disqus.com/api/users/avatars/Steve Trefethen.jpg
+message: <p>FWIW, Selenium does integrate with NUnit and in fact I just got done adding a bunch of Selenium/NUnit tests to our CI server. Check out Selenium RC and it's .NET support. I've written a blog post about it <a href="http://www.stevetrefethen.com/blog/AutomatedTestingOfASPNETWebApplicationsUsingSelenium.aspx" rel="nofollow noopener" title="http://www.stevetrefethen.com/blog/AutomatedTestingOfASPNETWebApplicationsUsingSelenium.aspx">here</a>.<br>I haven't tried WebAii so thanks for the pointer, I'll definitely take a look.</p>

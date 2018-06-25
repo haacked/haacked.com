@@ -1,0 +1,5 @@
+id: dsq-747513333
+date: 2005-11-01T08:18:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Depends how much time I have. ;)<br><br><br><br>Well for custom skins, I actually want to back up the .TEXT version and modify those so they work in Subtext by simply updating the namespaces we recognize as being .TEXT.  That should work in 99% of the cases.<br><br><br><br>As for other old .TEXT file, we can back them up and delete them.  But we don't want to delete custom files.  This could take a bit of bookkeeping.<br><br><br><br>Phil</p>

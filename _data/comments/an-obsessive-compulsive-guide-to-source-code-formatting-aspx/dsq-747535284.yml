@@ -1,0 +1,5 @@
+id: dsq-747535284
+date: 2011-06-09T19:34:30.0000000-07:00
+name: chrissie1
+avatar: https://disqus.com/api/users/avatars/chrissie1.jpg
+message: <p>Needs a little addition to work with vb files too.<br>if(!$item.ProjectItem.Name.EndsWith(".vb")) <br>                            {<br>                               $Item.ProjectItem.Document.DTE.ExecuteCommand('Edit.RemoveAndSort')<br>    }<br>                            <br>because Edit.RemoveAndSort will not work in vb files</p>

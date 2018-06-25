@@ -1,0 +1,5 @@
+id: dsq-1216258331
+date: 2014-01-25T07:05:08.0000000-08:00
+name: Mauricio
+avatar: https://disqus.com/api/users/avatars/Mauricio.jpg
+message: <p>Hi all,</p><p>I'd an issue, suddenly log4net stop working in a web application (with file logs to register events within it). I read this article but all was configured as its says, but there was no log file and neither trace file to check why log4net it wasn't working. After a while a partner suggested me to check the permissions folder from where log4net was saving the files, I realized that the "IIS_IUSRS" group was not in the permissions list so I added it and after that it works perfectly!</p><p>Hope this can help someone with the same problem.</p><p>Regards,</p>

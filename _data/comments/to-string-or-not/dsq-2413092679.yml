@@ -1,0 +1,5 @@
+id: dsq-2413092679
+date: 2015-12-16T12:22:01.0000000-08:00
+name: Mark Avenius
+avatar: https://disqus.com/api/users/avatars/markavenius.jpg
+message: "<p>Just as food for thought, some keywords do have members. 'base' and 'this' come to mind (I know what you're thinking, \"don't use them.\" But sometimes they are necessary: case in point, in an overridden method MyMethod, you may need to call base.MyMethod().)</p><p>Not saying that I disagree per se, but some of the argument doesn't quite hold water.</p><p>By the way, I happen to always use keywords, which throws me off when dealing with Sql types of Int32 and the like ☺</p>"

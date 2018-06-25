@@ -1,0 +1,6 @@
+id: dsq-841250039
+replyToId: dsq-747522167
+date: 2013-03-24T19:14:26.0000000-07:00
+name: Craig Pickering
+avatar: https://disqus.com/api/users/avatars/facebook-637761537.jpg
+message: <p>...but you're WRONG.  That's kind of the point of the article.<br>The fact that ^ this response was two years ago (2011) is no excuse either -- the ".museum" TLD was introduced TEN YEARS earlier in 2001.</p><p>If you want to know if the domain component of an email address is valid, there's only one way to do it and it's painfully obvious -- do a DNS lookup.  But don't reject it if you find no 'A' record, that's a broken approach too.  Search first for an MX record, failing that for an A record.</p><p>Or better still, trust the user to know their own damn email address better than you do.  If they don't get your emails, worse for them.  If they don't respond to a validation request, delete them.</p>

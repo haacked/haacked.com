@@ -1,0 +1,5 @@
+id: dsq-747524325
+date: 2008-03-06T04:12:36.0000000-08:00
+name: Reddy
+avatar: https://disqus.com/api/users/avatars/Reddy.jpg
+message: <p>NHibernate 1.2 release deprecated existing interface and introduced two new interfaces.<br><a href="http://www.hibernate.org/407.html" rel="nofollow noopener" title="http://www.hibernate.org/407.html">http://www.hibernate.org/40...</a><br>ILifecycle and IValidatable interfaces<br>The ILifecycle and IValidatable interfaces were deprecated in NHibernate 1.2 and moved to the NHibernate.Classic namespace. The Hibernate team does not consider it good practice to have domain model classes depend upon persistence-specific APIs. NHibernate 1.2 applications should use IInterceptor interface. Existing applications may continue to use ILifecycle and IValidatable.<br></p>

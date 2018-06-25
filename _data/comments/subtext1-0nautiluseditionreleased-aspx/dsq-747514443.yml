@@ -1,0 +1,5 @@
+id: dsq-747514443
+date: 2006-04-27T21:01:00.0000000-07:00
+name: Pedro Rainho
+avatar: https://disqus.com/api/users/avatars/Pedro Rainho.jpg
+message: "<p>Hello i have install subtext and i have a big problem and i don't know what to do... the problem is this. If i have configured only one blog the agregation page works great but if have multiple blogs the agregation page give some erros. when i click on rss or atom link the error is this : Ticks must be between DateTime.MinValue.Ticks and DateTime.MaxValue.Ticks. Parameter name: ticks. When i click to give me all entrys of a day it give me the error: Procedure 'subtext_GetSingleDay' expects parameter '@BlogId', which was not supplied... do i need to do any thing to support multiple blogs????? i realy need some help... one mor thing i have download de 1.0.0.2 install and source and both have the same problem.</p>"

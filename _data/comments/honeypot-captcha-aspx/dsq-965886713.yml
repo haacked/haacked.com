@@ -1,0 +1,6 @@
+id: dsq-965886713
+replyToId: dsq-965523778
+date: 2013-07-17T10:02:52.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Interesting! I hadn't considered that. But doesn't that sound like a bug in the autofill? I mean, what could they possibly be putting there? Maybe rename the field to something that wouldn't have an existing value.</p>

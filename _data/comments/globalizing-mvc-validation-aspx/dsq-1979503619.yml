@@ -1,0 +1,5 @@
+id: dsq-1979503619
+date: 2015-04-21T09:10:14.0000000-07:00
+name: Miguel
+avatar: https://disqus.com/api/users/avatars/Miguel.jpg
+message: <p>Well, I'm kinda suprised here. You say the tilde thinghy in the script tag src is a bug in MVC, and yet here I am 5 years later and that tilde is still there in MVC 5.2.</p><p>In fact I came to this blog post looking for the reason that very same tilde is there, I found the GlobalizationScriptPath property but I had figured there had to be something else behind it, maybe GlobalizationScript() was meant for me to follow some kind of pattern and I was trying to use it the wrong way...</p><p>Anyway, I just think it would be interesting to add a twist to that method, if it could create a script tag which also included some way to identify the page that created it... one could implement a controller Action which returns a JavaScriptResult, where in addition to culture info data with number formats et al, I could add my own localized strings specific for that page.<br>That way if my page includes a script poping up say... a jQueryUI dialog or anything like that, it could contain text from the localized string.</p>

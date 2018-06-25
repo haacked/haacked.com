@@ -1,0 +1,5 @@
+id: dsq-747523864
+date: 2007-12-24T05:29:11.0000000-08:00
+name: Sergio Pereira
+avatar: https://disqus.com/api/users/avatars/Sergio Pereira.jpg
+message: <p>I'm in the same boat regarding the anonymous types hackery. I'm sure I'll not be replicating that pattern in my own APIs. Tell those guys in the C# team to give us hash literals :)</p>

@@ -1,0 +1,5 @@
+id: dsq-747524897
+date: 2008-04-17T03:51:56.0000000-07:00
+name: Al Pascual
+avatar: https://disqus.com/api/users/avatars/Al Pascual.jpg
+message: "<p>Why is not finding my System.Web.Mvc.dll is just there and is referenced on my project. <br>What I am missing?<br>Could not load file or assembly 'System.Web.Mvc' or one of its dependencies. Strong name signature could not be verified.  The assembly may have been tampered with, or it was delay signed but not fully signed with the correct private key. (Exception from HRESULT: 0x80131045)<br>Cheers<br>Al<br></p>"

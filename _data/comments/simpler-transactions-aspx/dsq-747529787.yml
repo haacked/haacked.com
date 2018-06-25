@@ -1,0 +1,5 @@
+id: dsq-747529787
+date: 2009-08-20T14:54:00.0000000-07:00
+name: Vito Botta
+avatar: https://disqus.com/api/users/avatars/Vito Botta.jpg
+message: <p>@Steve<br>If you had actually read my "stupid" comment before adding your "clever" one, you would -hopefully- understood why I use TransactionScope, in some cases, also to retrieve data.<br>It's about avoid the locking when this is OK as this helps speed up your queries. <br>Which part of <br>"<strong>I use TransactionScope also to simply get data (not only to persist changes), BECAUSE this way I can set the IsolationLevel to ReadUncommitted and have a behaviour similar to NOLOCK. In many cases this Isolation Level is perfectly OK for me and by doing this I have seen ~20/25 FASTER queries</strong>" <br>wasn't clear enough?<br></p>

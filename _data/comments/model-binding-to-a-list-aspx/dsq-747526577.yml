@@ -1,0 +1,5 @@
+id: dsq-747526577
+date: 2009-01-24T20:07:53.0000000-08:00
+name: Rich Urwin
+avatar: https://disqus.com/api/users/avatars/Rich Urwin.jpg
+message: <p>Hi,<br>Is there any way of passing custom parameters / delegates to a ModelBinder?<br>The reason is, I'm using DevExpres's XPO ORM which (like most other ORMSs) uses sessions for object retrieval. If I want to set an XPO object as a property on another XPO object, I can create my custom binders to create the property/retrieve it from the DB, however, when doing this, I need to use the same ORM session as the parent object to avoid session mixing exceptions - but I can't obtain this session from anywhere because you can't (as far as I can tell) pass custom parameters into the ModelBinders.<br>The only way I can see to do this would be to either augment the binding mechanism to pass it through when calling UpdateModel from the controller, or better still, augment it to pass in a delegate to do the retrieval.<br>These are both rather messy and ideally any session-related code should stay in the data-access layer, but I can't see a better way.<br>Anyone got any ideas?<br>Rich</p>

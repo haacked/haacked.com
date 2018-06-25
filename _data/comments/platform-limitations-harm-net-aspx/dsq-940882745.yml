@@ -1,0 +1,6 @@
+id: dsq-940882745
+replyToId: dsq-940875696
+date: 2013-06-24T16:56:35.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Great point and one I wish I had made. ReactiveUI is another example of an open source .NET library that's going to primarily be used on Windows apps, but would like to be fully OSS. It makes it hard when we have to work around these stupid restrictions.</p>

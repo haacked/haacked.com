@@ -1,0 +1,5 @@
+id: dsq-747531293
+date: 2010-05-19T03:42:59.0000000-07:00
+name: sadomovalex
+avatar: https://disqus.com/api/users/avatars/sadomovalex.jpg
+message: "<p>Phil, thank you for your plugin<br>but I've found that localization of \"undo\" link text is not very convenient. Without modification of plugin's code I was needed to copy-past whole showUndo function and replace hardcoded \"undo\" literal by value from resource file: <a href=\"http://tinyurl.com/36a4kch\" rel=\"nofollow noopener\" title=\"http://tinyurl.com/36a4kch\">http://tinyurl.com/36a4kch</a>. Think that it can be improved in future versions. Nevertheless current flexibility allowed me to find workaround for this. So thank you very much again</p>"

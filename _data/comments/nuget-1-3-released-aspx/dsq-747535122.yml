@@ -1,0 +1,5 @@
+id: dsq-747535122
+date: 2011-04-26T12:03:28.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@NickS that shouldn't be the case. It's worked for me. Are you installing interim builds from our CI server by chance? Those are not signed so if you install any of those, you will have to uninstall first.<br>If you only install the release builds (via VS Extension Gallery), they should upgrade just fine.</p>

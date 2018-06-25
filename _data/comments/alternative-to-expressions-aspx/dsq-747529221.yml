@@ -1,0 +1,5 @@
+id: dsq-747529221
+date: 2009-06-04T19:46:00.0000000-07:00
+name: Andy Kutruff
+avatar: https://disqus.com/api/users/avatars/Andy Kutruff.jpg
+message: <p>I added expression caching to CLINQ that supports both closure expressions (expressions that capture values.)  It yields a 100X increase for open expressions, and an 8X increase for closures.  The code is well isolated from the rest of the framework, so you should be able to easily lift it out.  <br>For example, if you have <br>Expression&amp;lt;Func&amp;lt;int, int&amp;gt;&amp;gt; myExpression = arg =&amp;gt; arg + 1;<br>myExpression.Compile()<br>You just need to change it to:<br>Expression&amp;lt;Func&amp;lt;int, int&amp;gt;&amp;gt; myExpression = arg =&amp;gt; arg + 1;<br><strong>myExpression.CachedCompile()</strong><br><a href="http://clinq.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=27860" rel="nofollow noopener" title="http://clinq.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=27860">CLINQ 2.1</a><br>It's in the ContinuousLinq.Expressions namespace / solution folder. Enjoy.<br></p>

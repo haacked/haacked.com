@@ -1,0 +1,5 @@
+id: dsq-747534741
+date: 2011-05-03T13:31:16.0000000-07:00
+name: Sergi Gisbert
+avatar: https://disqus.com/api/users/avatars/sergigisbert.jpg
+message: "<p>Hi Phil,<br>We are trying to put all our private libraries into a private Nuget repository, but we have a problem: some of our private libraries depend as well on 3rd party libraries from the official repository, like the EntLib.<br>I don't really want to manually download those packages from the official repository to my local one, because of redundancy and the updates nigthmare... So, is there a way to specify the repository source in the &lt;dependency&gt; tag at the .nuspec file? or somewhere? Should Nuget search for the dependencies in all the sources in the \"Online\" tab?<br>Thanks,<br>Sergi<br></p>"

@@ -1,0 +1,5 @@
+id: dsq-747523869
+date: 2007-12-26T07:46:39.0000000-08:00
+name: Brian Lowry
+avatar: https://disqus.com/api/users/avatars/Brian Lowry.jpg
+message: <p>I concur with removing hungarian notion in the sense of using "txt" to represent a textbox and "chk" to represent a checkbox. On the other hand, I am a big fan of naming server controls/ UI controls by a similar prefix. I read a post about it and it made a lot of sense (with code-behind) anyhow. The author suggested using "ui" or "ux" ("ui" is a bit too cluttered in Intellisense) before all IDs as a way for developers to know that a given variable in the code-behind is not just a variable, but a control. While this convention may be useless in MVC, it still would be nice to have a way to map control IDs to properties in the UpdateFrom function without too much reflection/magic.<br>Just my .02</p>

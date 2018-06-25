@@ -1,0 +1,5 @@
+id: dsq-747537532
+date: 2012-01-31T10:08:25.0000000-08:00
+name: Artiom Chilaru
+avatar: https://disqus.com/api/users/avatars/Artiom Chilaru.jpg
+message: <p>The thing about encodings like win-1252 is you'll get the same characters when you decode binary data to a string.. The problem is what you do with it afterwards.<br>If you just store it like that in a variable, it'll probably survive a double conversion (byte array - string - byte array). But if you try to export it somewhere (a text editor, for example), and then try to drop it back - this is where you'll get your data lost pretty fast. <br>For example the 00-1F characters are control characters (bell character, anyone?) and they just don't "work" when displayed on screen. Some apps will just convert them to a space, or a "?" character.<br>In conclusion - yes, there are cases when you can use a simple encoding like win-1252 to decode an arbitrary byte array (for example if you want to look for a specific raw "string" within a file) but in most cases, especially if this data is to be transferred somewhere as a string - use Base64 or Hex encoding!</p>

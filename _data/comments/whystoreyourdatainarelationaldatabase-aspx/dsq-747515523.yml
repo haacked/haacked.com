@@ -1,0 +1,5 @@
+id: dsq-747515523
+date: 2006-06-29T21:04:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Sam, it isn't just an issue of *timebombed* frameworks. It's also the issue to being able to access your data from other means.<br>In my example, classic ASP was still being used. But I was writing administrative apps in ASP.NET against the same data.<br>I also implemented MS Reporting Services to generate reports on the same data.  If I wanted to, I could take any of the myriad of business intelligence tools and point them to our database to gather more information.  Also, it wouldn't matter which language or coding platform these extra tools were implemented in.<br>It's rare for a business not to have the need at some point to be able to slice and dice their data.</p>

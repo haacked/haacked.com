@@ -1,0 +1,5 @@
+id: dsq-747520326
+date: 2007-05-19T01:57:27.0000000-07:00
+name: Mike Volodarsky
+avatar: https://disqus.com/api/users/avatars/Mike Volodarsky.jpg
+message: '<p>I just made a post about debugging start-up crashes that may be helpful in getting to the bottom of your problem.<br>Check it out here: <a href="http://mvolo.com/blogs/serverside/archive/2007/05/19/Troubleshooting-IIS7-503-_2200_Service-unavailable_2200_-errors-with-startup-debugging.aspx" rel="nofollow noopener" title="http://mvolo.com/blogs/serverside/archive/2007/05/19/Troubleshooting-IIS7-503-_2200_Service-unavailable_2200_-errors-with-startup-debugging.aspx">http://mvolo.com/blogs/serv...</a>.<br>I am a bit suprised that you didnt see an event in the Windows "Application" event log, that indicates that the worker process has suffered an AV (or 5 of these, with a corresponding event in the System event log indicating that the application pool has entered rapid fail protection).  Can you double-check whether these events are there?<br>Let me know if the technique above does not work for you for some reason, or what you find out - feel free to leave comments on the post.<br>Good luck,<br>Mike</p>'

@@ -1,0 +1,5 @@
+id: dsq-747534600
+date: 2011-04-22T04:24:53.0000000-07:00
+name: Petr Divis
+avatar: https://disqus.com/api/users/avatars/Petr Divis.jpg
+message: "<p>what another PHP framework (Nette) does with sections (here blocks) is inheritance:<br>1. you declare default content in the layout file by typing:<br>{block #title}I'm the default content!{/block}<br>2. the view file optionally overwrites the section or even includes it:<br>{block #title}Child content with parent content: {include #parent}{/block}<br>--awesome, you should think about it for MVC4<br>Nette has also pretty good ajax snippets, caching options and other stuff, but since I'm beginning to learn MVC3, I don't know how it works exactly. <br>But Phill, you should check it out and please, add some modularity for enterprise webapps to be developed easily, because right now I have to deep dive into all the DI frameworks to get to know them and decide how to inject modules with controllers and views for my diploma thesis project (how it's done in Orchard), but there are no tutorials:(<br></p>"

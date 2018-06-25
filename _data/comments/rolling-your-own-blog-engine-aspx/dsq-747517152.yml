@@ -1,0 +1,5 @@
+id: dsq-747517152
+date: 2006-10-11T09:18:49.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>Well my feedback would have to be that after looking for a .net blog engine to use on my site, neither of the front runners do what I really want the blog engine to do. I found a load of PHP ones that do. What I really want is one install, that accepts many users, who can post in many categories with a signature for each user at the bottom of their posts. Then somebody would be able to subscribe to a feed by either category or by author. Dasblog comes closest but with sql server sitting their unused, it's kind of frustrating. subTexts road map specifically excludes the functionality I want. So what do I do? <br>Roll my own?<br>Keep up the good work Mr Haack. I enjoy your blog immensely.</p>

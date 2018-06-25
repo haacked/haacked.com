@@ -1,0 +1,5 @@
+id: dsq-747511486
+date: 2005-04-12T06:03:00.0000000-07:00
+name: jayson knight
+avatar: https://disqus.com/api/users/avatars/jayson knight.jpg
+message: <p>I remember reading somewhere (some blog) that the CLR folks didn't really want to have a lock keyword, but by the time they realized how evil it was, it was too late.<br><br><br><br>Something I've always wanted to test (but haven't gotten around to it, or I forget) is locking a shallow copy of an object...would that work?  As it creates a proxy back to the original object, I would think it would...<br><br><br><br>good post.</p>

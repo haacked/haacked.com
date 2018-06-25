@@ -1,0 +1,5 @@
+id: dsq-747520681
+date: 2007-05-28T21:08:14.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@J. Irvine. - "Standardized?" So you mean to tell me that you never write custom classes and custom methods in your code, sticking only with the "standard" classes and methods that already exist?<br>Have you ever written a "Helper" method used to wrap an ugly piece of code in a more readable manner?<br>There's nothing "Standard" about DateTime.Now.AddMinutes(-20); It only just happens to already be a class and method that exists in the BCL. That doesn't mean we should never write more readable code that wraps that code.<br></p><blockquote><br>Custom operations implemented using Extension Methods need to be carefully designed or the result will be confusion.</blockquote><p><br>Agreed. But the same goes for abstract interfaces, methods, classes, etc...</p>

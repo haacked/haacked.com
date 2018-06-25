@@ -1,0 +1,5 @@
+id: dsq-747533529
+date: 2010-11-14T05:12:28.0000000-08:00
+name: Bo
+avatar: https://disqus.com/api/users/avatars/Bo.jpg
+message: <p>Cant get Intellisense working 100%, in razor views, only html elements listed<br>e.g i can list @Html.li or @Html.text only, but not @Html.ActionLink ant all aothers.</p>

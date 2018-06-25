@@ -1,0 +1,5 @@
+id: dsq-747533958
+date: 2011-05-09T23:40:01.0000000-07:00
+name: Schnoz
+avatar: https://disqus.com/api/users/avatars/Schnoz.jpg
+message: "<p>Thanks Phil. I did contact support so hopefully we'll get to the bottom of it. But the question is, as per the comments above, that if the root of the site is set to 2.0, the MVC 3 app is not running. If you switch the root to 4.0, the MCV 3 app runs, but it's creating issues with the existing 2.0 applications. This echoes the comments from @Bret and @Rui above, and the comments on this stackoverlow post: <a href=\"http://stackoverflow.com/questions/5345308/mvc-3-deployment-to-iis6\" rel=\"nofollow noopener\" title=\"http://stackoverflow.com/questions/5345308/mvc-3-deployment-to-iis6\">stackoverflow.com/.../mvc-3-deployment-to-iis6</a></p>"

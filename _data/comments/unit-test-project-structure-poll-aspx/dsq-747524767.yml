@@ -1,0 +1,5 @@
+id: dsq-747524767
+date: 2008-04-09T04:51:36.0000000-07:00
+name: Jon Limjap
+avatar: https://disqus.com/api/users/avatars/Jon Limjap.jpg
+message: <p>If you're really really doing TDD with near 100% coverage, your tests will only bloat your assembly if included in the same project/assembly.<br>So my answer above was to put unit tests in a separate project, though I dunno if there's a way to split assemblies within a project. Point is your tests shouldn't be in the same assembly.</p>

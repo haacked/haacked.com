@@ -1,0 +1,5 @@
+id: dsq-747507708
+date: 2011-06-14T03:41:53.0000000-07:00
+name: Bill
+avatar: https://disqus.com/api/users/avatars/Bill.jpg
+message: "<p>--Looking for Select, rather than Update?<br>--Let's say you have a table AACustomers<br>CREATE TABLE [AAcustomers](<br>[First_Name] [varchar](50),<br>[Middle_Name] [varchar](50),<br>[Last_Name] [varchar](50))<br>--and three Customers<br>INSERT INTO [AAcustomers]([First_Name],[Middle_Name],[Last_Name])<br>Select 'Joe', 'B', 'Jones' union All<br>Select 'Jane', 'A', 'Adams' Union All<br>Select 'Smokey', 'The', 'Bear'<br>--For us dummies, a temp table is very handy for accomplishing this kind of work<br>select  <br>Identity (int,1000,100)AS CustomerID<br>,First_Name<br>,Middle_Name<br>,Last_Name <br>Into #a<br>From AAcustomers<br>Select * From #a<br>----drop Table #a --Just a little housecleaning</p>"

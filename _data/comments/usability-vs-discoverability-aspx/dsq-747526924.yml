@@ -1,0 +1,5 @@
+id: dsq-747526924
+date: 2008-11-12T09:41:03.0000000-08:00
+name: LD
+avatar: https://disqus.com/api/users/avatars/LD.jpg
+message: <p>If I have a bookDetails.aspx page and I use MVC Routing to make the url friendly. But how can I construct the web.sitemap file to let my sitemappath control knows it the details page of xxx book and shows the boos's title at the end of the path</p>

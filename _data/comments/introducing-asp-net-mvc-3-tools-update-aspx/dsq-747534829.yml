@@ -1,0 +1,5 @@
+id: dsq-747534829
+date: 2011-04-12T19:55:25.0000000-07:00
+name: Gerry High
+avatar: https://disqus.com/api/users/avatars/Gerry High.jpg
+message: <p>After installing this update and then working with my previously existing MVC 3 project with Razor view engine the designer is basically useless as now Visual Studio will lock up as soon as I start to type in a cshtml file.  I then get the "Visual Studio is busy with an external operation...".  Eventually it comes back until I type something else.<br>Gerry</p>

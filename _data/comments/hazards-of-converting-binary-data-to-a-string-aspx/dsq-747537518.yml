@@ -1,0 +1,5 @@
+id: dsq-747537518
+date: 2012-01-30T04:46:00.0000000-08:00
+name: RichB
+avatar: https://disqus.com/api/users/avatars/RichB.jpg
+message: <p>It's the Unicode replacement character:<br><a href="http://www.fileformat.info/info/unicode/char/fffd/index.htm" rel="nofollow noopener" title="http://www.fileformat.info/info/unicode/char/fffd/index.htm">www.fileformat.info/.../index.htm</a><br>of which the UTF8 encoding is 0xEF 0xBF 0xBD or 239, 191, 189<br>I'm sure there are also scenarios where the original data contains the 3 bytes which are used for the UTF8 BOM, and then a naive conversion to a UTF8 string and back again elides the BOM. <br>However, my quick test with Mono shows that System.Text.Encoding.UTF8 doesn't loose the data in this way.</p>

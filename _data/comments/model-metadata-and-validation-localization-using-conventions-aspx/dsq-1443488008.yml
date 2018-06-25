@@ -1,0 +1,6 @@
+id: dsq-1443488008
+replyToId: dsq-861325194
+date: 2014-06-19T01:47:44.0000000-07:00
+name: sami
+avatar: https://disqus.com/api/users/avatars/disqus_15Y2LiPepk.jpg
+message: <p>Hi Haacked,</p><p>I have a question about Model Validation &amp; metadata with Resource messages</p><p>Can we send for example name of the field to our Resource Bundle message in Model validation?</p><p>[Required(ErrorMessageResourceType = typeof(Resources.Resources), ErrorMessageResourceName = "Required",.......name-of-the-field-to-show-in-error-message......)]</p>

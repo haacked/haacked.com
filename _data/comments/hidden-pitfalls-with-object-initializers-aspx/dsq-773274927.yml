@@ -1,0 +1,6 @@
+id: dsq-773274927
+replyToId: dsq-771826737
+date: 2013-01-20T10:32:28.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Rich, maybe it wasn't clear but the issue is not disposing the Owner instance. It's the Dependency instance that was just created. THAT doesn't get disposed after the R# change. Make sense.</p>

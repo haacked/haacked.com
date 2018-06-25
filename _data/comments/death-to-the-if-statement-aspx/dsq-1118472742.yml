@@ -1,0 +1,6 @@
+id: dsq-1118472742
+replyToId: dsq-1118457540
+date: 2013-11-11T11:33:01.0000000-08:00
+name: martijnhoekstra
+avatar: https://disqus.com/api/users/avatars/martijnhoekstra.jpg
+message: <p>terminating the current function with a return value definitely is a side effect. The extra cognitive overhead here is keeping track of the early returns. In the trivial example here it's not all that bad, but still not as easily comprehended as (pseudocode if expression )</p><p>string something (int number) {<br>  return if (number &gt; 17) {<br>   "lala";<br>  } else {<br>    "lolo";<br>  }<br>}</p><p>something as simple as this should obviously be done with a ternary operator though (which is an if expression)</p>

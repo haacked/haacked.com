@@ -1,0 +1,5 @@
+id: dsq-747531262
+date: 2010-01-01T14:41:43.0000000-08:00
+name: Adriaan
+avatar: https://disqus.com/api/users/avatars/Adriaan.jpg
+message: <p>Phil what methods would you use to keep the data for the undo action? Do you pull everything down to the client, and if they undo you just re-insert the data. I can think of another way where you just have a IsDeleted column, but then you sit with data that you don't need.</p>

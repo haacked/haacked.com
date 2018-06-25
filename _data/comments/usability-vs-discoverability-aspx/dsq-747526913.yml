@@ -1,0 +1,5 @@
+id: dsq-747526913
+date: 2008-11-06T08:20:31.0000000-08:00
+name: Brannon
+avatar: https://disqus.com/api/users/avatars/Brannon.jpg
+message: <p>I don't understand what all the fuss is about.  It took me a few seconds and one Google query the first time I needed to add a constraint.  I agree with Phil in that 99% of the time I'm going to want a simple regex constraint, but I appreciate the ability to add a more complex one if necessary.<br>If intellisense had shown me I needed to supply an IRouteConstraint instance, it would have taken just as long to Google which classes implemented it, or worse I might have started implementing a RegexRouteConstraint myself!<br>Also, how would an implicit string conversion to an abstract class be any more discoverable?  Everyone would just use the abstract class directly, defeating the ease of use.<br>Ultimately the problem is lack of documentation, which is understandable considering the code just made beta.</p>

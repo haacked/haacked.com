@@ -1,0 +1,5 @@
+id: dsq-747523570
+date: 2007-12-08T08:21:21.0000000-08:00
+name: Aaron Jensen
+avatar: https://disqus.com/api/users/avatars/Aaron Jensen.jpg
+message: <p>&gt; @Aaron what should it have instead?<br>A service with a RenderView method on it. Right now RenderView invokes the ViewFactory to Create the view and then calls RenderView on that view. It's nothing more than a helper method, but perhaps its a method that should be on an IViewRenderer? MS is making the same mistake MR made in putting way too much functionality on the controller. <br>That said, with no changes to the framework, couldn't you just mock the IViewFactory to return a mock view and not have to do any of the awkward self-mocking/subclassing nonsense? Of course without reflector you wouldn't know you could do this... which just goes to show the flaw in the design.</p>

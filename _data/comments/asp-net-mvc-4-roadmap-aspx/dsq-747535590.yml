@@ -1,0 +1,5 @@
+id: dsq-747535590
+date: 2011-07-13T15:42:05.0000000-07:00
+name: Daan
+avatar: https://disqus.com/api/users/avatars/Daan.jpg
+message: <p>@Haacked will the hardcoded validation messages (int, decimal) be replaced for localizable ones?<br>Now im forced to use strings so i can control the localization for client side validation.</p>

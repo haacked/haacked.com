@@ -1,0 +1,5 @@
+id: dsq-1216388438
+date: 2014-01-25T09:12:56.0000000-08:00
+name: Laszlo
+avatar: https://disqus.com/api/users/avatars/Laszlo.jpg
+message: <p>Thanks for this. But am I not supposed to be able to use a repo as a remote without it being run as a git server? Why can't GHfW point to a second .git file locally? We would use git on a shared server, with everyone RDPing in — why can't we git on the server without setting up a server? (And in any case, I don't seem to be able to edit the URL for primary (original) remote for my repo, if I want to divert it from GitHub. Why not?)</p>

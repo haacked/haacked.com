@@ -1,0 +1,5 @@
+id: dsq-747532823
+date: 2010-07-30T06:51:26.0000000-07:00
+name: Martin
+avatar: https://disqus.com/api/users/avatars/Martin.jpg
+message: <p>What about performance ? Have you forgot about that or is it something that you are also working on?<br>I guess as more features come along, the performance will also degrade. Especially with the heavy use of Reflection and Expression Trees which i guess is the heaviest parts ?<br>Just want to know if any time/work is being put into that area ? :)</p>

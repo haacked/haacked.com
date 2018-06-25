@@ -1,0 +1,5 @@
+id: dsq-2061356342
+date: 2015-06-04T00:57:39.0000000-07:00
+name: Sam
+avatar: https://disqus.com/api/users/avatars/Sam.jpg
+message: <p>Yup, When I reviewer I sat down and were discussing over optional param and an overload, he suggested optional param, as it required less changes, and I was saying overload as it was suggesting a different version of same functionality.<br>Ultimately we got a runtime ex. on the field. and well it was a disaster of us....</p>

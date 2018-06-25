@@ -1,0 +1,5 @@
+id: dsq-747515229
+date: 2006-05-31T21:51:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>A couple points:<br>1. One benefit of using an EmailProvider is to abstract the details of sending an email.  In that way, if the consumer of the provider doesn't need explicit control over the headers (or other complex property), then why expose all that in the EmailProvider interface?  Instead, just ensure that the concrete providers do the right thing.  These integration tests are to test the concrete providers.<br>2. One counter-example is that in one case, I was using a mail component that had the property named "XMailer".  My unit test checked to make sure it was null.  However the component still sent the header, but with an empty value.  The mock testing didn't capture that. Only my integration test did.</p>

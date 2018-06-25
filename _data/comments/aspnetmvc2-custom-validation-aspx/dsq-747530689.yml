@@ -1,0 +1,5 @@
+id: dsq-747530689
+date: 2009-11-20T21:21:00.0000000-08:00
+name: Sergejus
+avatar: https://disqus.com/api/users/avatars/Sergejus.jpg
+message: <p>The more I see how MUCH work client side validation involves, the more I'm thinking to go with the pseudo client side validation aka executing serverside method via Ajax, validating input and returning errors via Ajax as well...<br>Is it any build-in validator for this?</p>

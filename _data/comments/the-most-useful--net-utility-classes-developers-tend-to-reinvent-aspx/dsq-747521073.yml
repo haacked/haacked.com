@@ -1,0 +1,5 @@
+id: dsq-747521073
+date: 2007-06-13T21:55:06.0000000-07:00
+name: Jeff
+avatar: https://disqus.com/api/users/avatars/Jeff.jpg
+message: <p>Nice post.  Another useful one that you don't see too often that I use all the time is the static Format() method of the String class.  String.Format("something {0}, {1}",var1,var2) is so much nicer than concatenation and makes things so much easier to read and work with.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747529352
+date: 2009-06-25T08:52:00.0000000-07:00
+name: Louis
+avatar: https://disqus.com/api/users/avatars/Louis.jpg
+message: <p>Sounds good. I was thinking briefly you would still be exposed to state changes committed before for JsonResult throws, but that's moot because it's true for any script src where the target doesn't have AcceptVerbs POST.<br>So +1 on require POST by JsonResult. Or possibly only require POST when you attempt to return an array? It would be less impactful - unless that leaves other vulnerability concerns.<br></p>

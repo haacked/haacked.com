@@ -1,0 +1,6 @@
+id: dsq-759079667
+replyToId: dsq-759064813
+date: 2013-01-07T09:00:19.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>The creator of PostSharp sent a pull-request that does all the reflection at compile time. So the way I did it was naive and apparently we can do most of the work at compile time with PostSharp.</p><p>Having said that, Simon Cropp sent me something to look at with Fody so I'll be checking out both approaches.</p>

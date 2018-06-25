@@ -1,0 +1,5 @@
+id: dsq-747531883
+date: 2010-03-25T23:28:45.0000000-07:00
+name: Steve Calvert
+avatar: https://disqus.com/api/users/avatars/Steve Calvert.jpg
+message: <p>I saw the Rx talk by Eric Meijer at MIX10. It was probably one of the coolest talks I saw there, apart from the MVC talks you gave :P<br>I was super excited about this, but also had a hard time understanding how it would fit into my existing code. I really want to look into refactoring the jQuery UI autocomplete plugin to use Rx, as I've experienced exactly what Eric shows when dealing with autocompletes.</p>

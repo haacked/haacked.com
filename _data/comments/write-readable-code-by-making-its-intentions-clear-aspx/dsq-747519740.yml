@@ -1,0 +1,5 @@
+id: dsq-747519740
+date: 2007-04-19T23:39:18.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>Well there are cases where it doesn't make sense to absolutely force an exception in a \"failure\" case. A good example is this: <br>Say you have a form field in which a user types in a number. You then need to parse that to an int. The user accidentally typing in a letter is not an \"exceptional\" case. I would expect it to happen. But doing this throws an exception.<br>  <code>int x = int.Parse(formInput.Text);</code><br>Completely unnecessary. Instead, I would use this.<br>  <code><br>  int x;<br>  if(!int.TryParse(formInput.Text, out x))<br>  {<br>    x = -1; //use a constant in the real world.<br>  }<br>  </code><br>int.TryParse returns true or false. If you don't care whether it succeeds, I would call it like so.<br>  <code><br>  int x;<br>  int.TryParse(formInput.Text, out x);<br>  </code><br>Once again, my examples are too simplified and hide the key point I was trying to make.</p>"

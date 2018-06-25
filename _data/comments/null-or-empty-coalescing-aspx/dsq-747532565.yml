@@ -1,0 +1,5 @@
+id: dsq-747532565
+date: 2010-06-17T06:05:38.0000000-07:00
+name: Vince
+avatar: https://disqus.com/api/users/avatars/Vince.jpg
+message: <p>As much as people like to say Extension methods can cause confusion, leads me to belive that some people's memory capacity is limited or non-existant.<br>If you don't know if a method is an extension method, hover your mouse over the method and VS will show you. After that, next time you see that extension method, you'll remember!<br>I think using extensions to check for nulls is a great idea.</p>

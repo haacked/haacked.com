@@ -1,0 +1,5 @@
+id: dsq-747517971
+date: 2006-12-13T06:52:07.0000000-08:00
+name: Jeremy Miller
+avatar: https://disqus.com/api/users/avatars/Jeremy Miller.jpg
+message: <p>I'd second that tip.  I like to use anonymous delegates now for testing asynchronous code to stick a ManualResetEvent.Set() inside the block that's called from a callback event, start the action, and then make a ManualResetEvent.WaitOne() call below that in the NUnit test to wait for the asynchronous action.<br>As for using RhinoMocks to mock events, my team did a near mutiny on me early on because they didn't like the syntax.  We've started to use recording stubs in place of the views more often when we test our controllers.</p>

@@ -1,0 +1,6 @@
+id: dsq-1054897961
+replyToId: dsq-1053189432
+date: 2013-09-22T09:32:33.0000000-07:00
+name: dotnetchris
+avatar: https://disqus.com/api/users/avatars/dotnetchris.jpg
+message: <p>I absolutely am talking about the "modern" HttpClient. Honestly i think i might like the original web client more than the new one. The api is atleast straight forward and not a muddled mess, albeit overly noisy and verbose.</p><p>EnsureSuccessStatusCode is called by like everything in HttpClient.</p>

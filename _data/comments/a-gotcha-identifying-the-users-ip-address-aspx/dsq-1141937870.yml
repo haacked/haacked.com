@@ -1,0 +1,6 @@
+id: dsq-1141937870
+replyToId: dsq-1141123854
+date: 2013-11-27T13:38:48.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yep, I even mentioned that in my blog post:</p><p>&gt; I plan to look at the HTTP_X_FORWARDED_FOR header first and take the first IP address in the list if there are any.</p>

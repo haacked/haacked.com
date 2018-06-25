@@ -1,0 +1,5 @@
+id: dsq-747513422
+date: 2006-05-11T08:19:00.0000000-07:00
+name: Levi
+avatar: https://disqus.com/api/users/avatars/Levi.jpg
+message: <p>I had similar thoughts.  In developing classes, most of the time when overriding a method, you call the base method before doing anything else.  However, where construction happens from the base up, it seems that the dispose should happen in the reverse order.  Calling the base dispose method at the bottom of the class, since you would logically want to destroy objects in the reverse order of their creation.<br>Thoughts?</p>

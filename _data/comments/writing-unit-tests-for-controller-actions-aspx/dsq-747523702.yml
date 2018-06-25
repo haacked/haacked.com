@@ -1,0 +1,5 @@
+id: dsq-747523702
+date: 2007-12-12T12:09:23.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Right. The trade-off here is that Foo might need to access the Request property. It might need the Response property. We don't know because Foo is a virtual, so we want to make these things available to implementers.<br>We could change the interface to pass in all the properties of HttpContext we *think* people might need. But that could bulk up the call and we might miss one.<br>I agree with the Law of Demeter, I just think it's a tough law to follow in all cases, especially when you're building an extensibility point since you don't know what crazy ideas someone will come up with.<br>Again, to summarize. I still think testing with subclass is fine. In this specific case, we do have plans to make testing easier using mocks via some refactorings to improve the design of the code. I'd like the design to be such that we can follow the law of demeter as much as feasible.</p>

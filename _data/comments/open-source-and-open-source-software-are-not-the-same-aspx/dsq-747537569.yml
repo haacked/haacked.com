@@ -1,0 +1,5 @@
+id: dsq-747537569
+date: 2012-02-17T13:46:55.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Greg, as I stated in the end. If you don't want to call the project "Open Source", then sure, that's probably fine. But the product, the source code, is definitely "Open Source Software".<br>Let me give another example of why the permissive license is the most important part. Any open source project can decide to change the way they do business and become closed off. But nobody, not even Microsoft, can retroactively change the license of code they've already released under an open source license.<br>So in theory, the next version of the software could be closed source. But they've already granted you a license to do almost anything you want with the previous version of the code. It's in the license.</p>

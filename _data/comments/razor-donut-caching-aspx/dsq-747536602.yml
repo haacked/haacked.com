@@ -1,0 +1,5 @@
+id: dsq-747536602
+date: 2011-11-26T01:06:12.0000000-08:00
+name: Matthew Abbott
+avatar: https://disqus.com/api/users/avatars/Matthew Abbott.jpg
+message: <p>This can likely be implemented using a custom Span and visitor that you implement by decorating the code parser. That would allow you to modify the generated code before it is compiled. I guess the next step is update the viewpage infrastructure to add the specific mechanism for handling the caching. This should work without change to the Razor parser as it already supports custom spans.</p>

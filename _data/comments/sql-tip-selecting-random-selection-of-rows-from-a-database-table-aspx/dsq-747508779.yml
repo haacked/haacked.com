@@ -1,0 +1,5 @@
+id: dsq-747508779
+date: 2007-05-15T00:56:16.0000000-07:00
+name: Petros
+avatar: https://disqus.com/api/users/avatars/Petros.jpg
+message: <p>I have a table that holds some banner paths. I also run a query on a page to randomly choose among those banners, and display the chosen one. However, I want to promote one of the banners, in a way that I would like to force it appear, let's say, every 10 page refreshes.<br>The query I use to randomly choose a banner is this:<br>SELECT location FROM random_logos ORDER BY RAND() LIMIT 1,0;<br>How could I alter it so that it forcible return the promoted banner every X number of page refreshes for EVERY visitor of the page?<br>I mean, even if I use another table to store the latest X (10 in my case) returned banners, I cannot be sure who refreshed the page for them. So, adding a check to that table will display the promoted banner on the 11th refresh to the user that happened to be the 11th visitor who refreshed the page. Then the process would start over.<br>I have thought of many ways, but each of them comes to a dead end for one reason or another.</p>

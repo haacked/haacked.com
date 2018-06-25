@@ -1,0 +1,5 @@
+id: dsq-747526410
+date: 2008-11-05T00:30:59.0000000-08:00
+name: Chris Vickerson
+avatar: https://disqus.com/api/users/avatars/Chris Vickerson.jpg
+message: <p>I've been search google high and low for guidance on how to use IronPython with tight integration into .net libraries.  The one large snag I keep seeing over and over is not being able to use Attributes (System.Attribute) which would prevent key functionality from being specified/injected.  Can anyone tell show me if there is a way to get around this.  Even a link would be helpful.<br>Thanks</p>

@@ -1,0 +1,5 @@
+id: dsq-747521098
+date: 2007-06-14T23:24:16.0000000-07:00
+name: David Gladfelter
+avatar: https://disqus.com/api/users/avatars/David Gladfelter.jpg
+message: <p>Matt Blodget said:<br></p><blockquote><br>&gt;&gt;Dare I say...System.Text.RegularExpressions.Regex?</blockquote><p><br>Matt, I totally agree, however this is programmer laziness rather than ignorance.  I try to avoid sounding dogmatic, but I believe that knowledge of regular expressions is an entry-level skill for programmers.  It's one of the most powerful and widely-applicable domain-specific language out there.<br>I find System.Bitconverter to be underused in an application domain in which I do a lot of work, I/O and communications.  Unmanaged interop really benefits from this along with System.Runtime.InteropServices.Marshal.  Along those lines, System.Text.Encoding is also very useful.</p>

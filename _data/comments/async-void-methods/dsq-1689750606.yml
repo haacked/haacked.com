@@ -1,0 +1,5 @@
+id: dsq-1689750606
+date: 2014-11-12T08:38:42.0000000-08:00
+name: Jesse Slicer
+avatar: https://disqus.com/api/users/avatars/jesseslicer.jpg
+message: '<p>Since there are two big problems in computer science: naming things, cache invalidation and off-by-one errors, I would think that</p><p>public static bool HasAttribute&lt;tattribute&gt;(this MethodInfo property) where TAttribute : Attribute<br>{<br>    return property.GetCustomAttributes(typeof(TAttribute), false).Any();<br>}</p><p>would be better off having the "property" parameter named as "method", no?</p>'

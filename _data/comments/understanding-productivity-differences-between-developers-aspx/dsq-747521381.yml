@@ -1,0 +1,5 @@
+id: dsq-747521381
+date: 2007-06-26T08:05:55.0000000-07:00
+name: The Other Steve
+avatar: https://disqus.com/api/users/avatars/The Other Steve.jpg
+message: <p>If I've ever been 28 times more productive, it's been when someone says there's a problem, they explain what is happening and I say "Go look here."<br>I'm amazed at the number of developers I encounter who don't understand how to troubleshoot.<br>I had one guy working for me who rolled back all changes he made the day before because his tests wouldn't run in the morning.  It turned out someone had truncated a table out of the database.  But he didn't even look to see what the error message was before leaping to this conclusion.</p>

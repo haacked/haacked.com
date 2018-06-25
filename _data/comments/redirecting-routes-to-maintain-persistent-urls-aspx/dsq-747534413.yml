@@ -1,0 +1,5 @@
+id: dsq-747534413
+date: 2011-04-27T05:40:48.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Routing matches routes in order. <code>{controller}/{action}</code> will match any 2 segment route. Well, <code>/home.mvc/index</code> is a 2 segment URL, so it is going to match.<br>The fix should be as simple as re-ordering the two routes and putting the <code>{controller}.mvc/{action}</code> route first.</p>

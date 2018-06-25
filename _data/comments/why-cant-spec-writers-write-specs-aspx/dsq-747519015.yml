@@ -1,0 +1,5 @@
+id: dsq-747519015
+date: 2007-03-07T23:11:32.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: '<p>@Jon and Brandon: I merely pointed out this issue to be funny. As Jeff pointed out, a developer would have to be an idiot not to understand the intent.<br>However, I should point out that divisibility and modulo arithmetic does <a href="http://whyslopes.com/Number_Theory/Reals_Modular_and_Remainder_Arithmetic.html" rel="nofollow noopener" title="Modulo arithmetic for real numbers">apply to real numbers</a> and not just integers.<br>The <strong>real point</strong> is clear when you substitute that scenario for something that really is open to interpretation. Like CMS or CRM. <br>Maybe I should ask readers for good examples of requirements that sounded straightforward at first, but when the time came to implement, was confusing or lacked essential details.</p>'

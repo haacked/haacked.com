@@ -1,0 +1,5 @@
+id: dsq-747525942
+date: 2008-08-07T02:51:28.0000000-07:00
+name: Stephen
+avatar: https://disqus.com/api/users/avatars/Stephen.jpg
+message: <p>Wouldn't consider that a cheat.. althought I'm a bad person because I don't feel right putting private objects in shared collections.. always have this feeling that they could get "molested".. but by who right? anyway..<br>The alternatives, thread static? but then <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> doesn't guarentee a single thread per context - although I would say it would be a rarity that you see that happen..<br>Or you could hold a static dictionary of weak references to http contexts and indexes? but the effort for that seems really ott just to "protect" against a really bizzare scenario where code inside your domain could be abstractly malicious to itself..</p>

@@ -1,0 +1,5 @@
+id: dsq-747531290
+date: 2010-01-12T06:17:30.0000000-08:00
+name: Brian
+avatar: https://disqus.com/api/users/avatars/Brian.jpg
+message: <p>A similar point to the one I made about your hide/show div script. If you don't intend to support the delete functionality with script off it should be written to add the delete links dynamically. i.e. the plugin could inject delete links into td elements with a class of options or something like that.</p>

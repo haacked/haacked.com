@@ -1,0 +1,5 @@
+id: dsq-747523857
+date: 2007-12-21T20:50:20.0000000-08:00
+name: Sergio Pereira
+avatar: https://disqus.com/api/users/avatars/Sergio Pereira.jpg
+message: <p>Another alternative would be to call RenderView("New", article) in the Create action instead of RedirectToAction("New").<br>That way you don't have to deal with TempData and, since you did not persist anything yet, you won't be affected by refreshes/reposts of the previous request. Only the browser's URL will change.</p>

@@ -1,0 +1,5 @@
+id: dsq-747525054
+date: 2008-05-06T09:25:29.0000000-07:00
+name: Lou D
+avatar: https://disqus.com/api/users/avatars/Lou D.jpg
+message: <p>What if the few things you needed in a view language fit into the html seamlessly? <br>(crossing fingers about formatting)<br>&lt;var i="0"/&gt;<br>&lt;var css="new string[] {'row', 'row-alt'}"/&gt;<br>&lt;table&gt;<br>  &lt;for each="var hobby in Hobbies" i="i+1"&gt;<br>    &lt;tr class="$css[i%2];"&gt;<br>      &lt;td&gt;$i;&lt;/td&gt;<br>      &lt;td&gt;$hobby.Title;&lt;/td&gt;<br>      &lt;td&gt;$Html.Function("arg","arg");&lt;/td&gt;<br>    &lt;/tr&gt;<br>  &lt;/for&gt;<br>&lt;/table&gt;<br></p>

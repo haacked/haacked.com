@@ -1,0 +1,5 @@
+id: dsq-747517000
+date: 2006-09-27T12:13:10.0000000-07:00
+name: Ken
+avatar: https://disqus.com/api/users/avatars/Ken.jpg
+message: <p>I've always been fond of <a href="http://major.minor.date.build" rel="nofollow noopener" title="major.minor.date.build">major.minor.date.build</a>.  So, it could be 1.2.60927.456.  That would mean v1.2 as the official label of the program, 60927 for the date (Sept 27th, 2006) and build number 456 from the build server (update the version tags last, and check it in with current build+1).<br>I like it because it incorporates the two different key ways I can easily identify multiple builds of the same product release, such as a v1.2 beta1 vs. beta2.  Most of the time, I remember it by the date.  But the build number often rings a bell, and it allows me to track exactly what changes were made between that build and another build (either newer or older).</p>

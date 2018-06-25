@@ -1,0 +1,5 @@
+id: dsq-747523252
+date: 2007-11-05T06:00:17.0000000-08:00
+name: Ken Robertson
+avatar: https://disqus.com/api/users/avatars/Ken Robertson.jpg
+message: "<p>@Scott: Check out VMware's ESX Server 3i... basically, ESX on a flash drive, and will retail for $450 for 2 sockets.<br>Personally, I use ESX Server and it absolutely rocks.  I had 13 VMs running a dual 5130s with 16gb ram (with only ~12gb ram in use).  Have since moved to a multi-server environment.  ESX is the bomb... way better than Virtual Server, and likely better than Viridian.<br>Virtualization is definitely the wave of the future for servers.  Nice to see it doing so well for codinghorror and <a href=\"http://haacked.com\" rel=\"nofollow noopener\" title=\"haacked.com\">haacked.com</a>.</p>"

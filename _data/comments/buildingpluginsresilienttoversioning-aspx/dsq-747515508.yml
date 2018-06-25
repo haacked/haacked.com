@@ -1,0 +1,5 @@
+id: dsq-747515508
+date: 2010-11-19T04:30:55.0000000-08:00
+name: John Brakes
+avatar: https://disqus.com/api/users/avatars/John Brakes.jpg
+message: "<p>It should solve both the problem of identiying a plugin correctly, and it should also solve the versioning problem: I guess what I'm saying is that events look appropriate for \"sometimes yes, sometimes no\" things, and when more than one \"listener\" might hook the same event. Think of it this way, an event handler is just another way for the application to call a method on the plugin, albeit indirectly via what is analogously a function pointer.</p>"

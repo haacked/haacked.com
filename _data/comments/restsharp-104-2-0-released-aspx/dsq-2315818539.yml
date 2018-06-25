@@ -1,0 +1,5 @@
+id: dsq-2315818539
+date: 2015-10-19T15:23:56.0000000-07:00
+name: sanu
+avatar: https://disqus.com/api/users/avatars/disqus_cVhr1j1UdV.jpg
+message: <p>Until I stumbled upon this site I always thought RestSharp is a library to test RestAPIs. We have been using RestSharp library with NUnit for testing our APIs at our company and nobody really knows what is it so good about RestSharp compared to other tools like SoapUI and why is it chosen against other tools for our testing. So, I thought I'll look outside for answers. Given the overhead for maintaining the code, I think there are other easy to use tools to perform API testing.</p><p>Could you please explain me the advantages of using RestSharp over other tools available in the market?</p>

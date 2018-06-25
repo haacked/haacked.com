@@ -1,0 +1,5 @@
+id: dsq-747526858
+date: 2008-11-05T18:50:48.0000000-08:00
+name: Scott Watermasysk
+avatar: https://disqus.com/api/users/avatars/Scott Watermasysk.jpg
+message: <p>I am with Ken and Gergely on this one. Just because you can do it, doesn't mean you should.<br>Output caching is one of those things that demo's really well and completely falls apart when you really need. <br>In addition to mixing your BL into your views you also in many cases now need to work with that logic in your back end so that you can clear the cache something changes some where else in the site.<br>-Scott</p>

@@ -1,0 +1,5 @@
+id: dsq-747511426
+date: 2008-10-28T22:44:19.0000000-07:00
+name: The wwwoodman
+avatar: https://disqus.com/api/users/avatars/The wwwoodman.jpg
+message: <p>Is your width fixed? If so, use a single image 1 pixel high of your fixed width with gradients on either side that will repeat vertically. Put this in your outside div and nest your content div on top of it. If your content div has a color background then Bob's ur uncle!  Cleaner Simpler.</p>

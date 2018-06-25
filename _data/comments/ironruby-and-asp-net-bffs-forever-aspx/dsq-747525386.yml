@@ -1,0 +1,5 @@
+id: dsq-747525386
+date: 2008-06-12T00:25:29.0000000-07:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>I don't understand something. Ruby is a dynamic language, you could change a class at runtime. Surely that is not possible in the CLR. It's probably possible in the DLR, but I don't know how to get the DLR (other than implictly with Silverlight). So how do you get ASP.NET to run ruby code? <br>*confused*</p>

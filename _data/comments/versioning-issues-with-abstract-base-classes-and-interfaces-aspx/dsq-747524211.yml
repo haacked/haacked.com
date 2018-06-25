@@ -1,0 +1,5 @@
+id: dsq-747524211
+date: 2008-02-20T21:33:15.0000000-08:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>So I guess my question is, why do you need HttpContext at all?<br>Is it just for interoperability with WebForms?<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747536633
+date: 2012-08-05T01:35:21.0000000-07:00
+name: felickz
+avatar: https://disqus.com/api/users/avatars/felickz.jpg
+message: <p>So this did not make the MVC4 release? <br><a href="http://ofps.oreilly.com/titles/9781449320317/ch_Caching.html" rel="nofollow noopener" title="http://ofps.oreilly.com/titles/9781449320317/ch_Caching.html">ofps.oreilly.com/.../ch_Caching.html</a><br>The MvcDonutCaching NuGet Package. The above example shows a simplified version of Donut Caching and is not well suited to more advanced scenarios. While out-of-box Donut caching is still not available with ASP.NET MVC 4, the MvcDonutCaching NuGet package can help you implement more advanced scenarios with ease.<br>This package adds several extensions to existing HTML helper methods as well as adding a custom DonutOutputCacheAttribute that can be placed on any action that needs Donut caching.</p>

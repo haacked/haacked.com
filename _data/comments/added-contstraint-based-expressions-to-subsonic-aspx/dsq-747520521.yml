@@ -1,0 +1,5 @@
+id: dsq-747520521
+date: 2007-05-22T16:48:26.0000000-07:00
+name: Chris
+avatar: https://disqus.com/api/users/avatars/Chris.jpg
+message: <p>I wouldn't do the "SELECT return new Query" thing, just stick with the Query . . . Too many options to do the same thing just muddles the intent and confuses. My first question upon seeing Query and Select would be "How is Query different than Select?" To which the answer would be "None", which would just annoy me. And I would also know that the developer was just a little too in love with his own craftiness (or lack thereof). :)</p>

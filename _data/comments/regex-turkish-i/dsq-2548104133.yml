@@ -1,0 +1,6 @@
+id: dsq-2548104133
+replyToId: dsq-2544303489
+date: 2016-03-02T12:40:25.0000000-08:00
+name: '@KernelCoreDump'
+avatar: https://disqus.com/api/users/avatars/@KernelCoreDump.jpg
+message: <p>.NET's RegEx case-insensitive match seems to make use of locale-dependent caseless matching because of the internal use of ToLower(), unless the CultureInvariant option is used.</p><p>I'd agree that the CultureInvariant option should be the default.  Looks like the other languages do that.  Wasn't it part of the TextInfo <a href="https://msdn.microsoft.com/en-us/library/system.globalization.textinfo.aspx" rel="nofollow noopener" title="https://msdn.microsoft.com/en-us/library/system.globalization.textinfo.aspx">https://msdn.microsoft.com/...</a> guidelines to use Invariant matching unless explicitly overridden to make use of the current locale?</p><p>The Unicode standard itself provides a locale-independent (Invariant) table for case folding, but leaves off at describing any locale-dependent case folding.</p>

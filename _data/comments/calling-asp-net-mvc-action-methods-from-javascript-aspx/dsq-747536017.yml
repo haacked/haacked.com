@@ -1,0 +1,5 @@
+id: dsq-747536017
+date: 2011-08-18T17:41:58.0000000-07:00
+name: Elijah Manor
+avatar: https://disqus.com/api/users/avatars/Elijah Manor.jpg
+message: <p>Phil,<br>Nice use of the new Deferred jqXHR to add the callbacks after the initial definition of the $.ajax() <br>As a side note...<br>"The jqXHR.success(), jqXHR.error(), and jqXHR.complete() callbacks will be deprecated in jQuery 1.8. To prepare your code for their eventual removal, use jqXHR.done(), <a href="http://jqXHR.fail" rel="nofollow noopener" title="jqXHR.fail">jqXHR.fail</a>(), and jqXHR.always() instead." <a href="http://api.jquery.com/jQuery.ajax/#jqXHR" rel="nofollow noopener" title="http://api.jquery.com/jQuery.ajax/#jqXHR">http://api.jquery.com/jQuery.ajax/#jqXHR</a><br></p>

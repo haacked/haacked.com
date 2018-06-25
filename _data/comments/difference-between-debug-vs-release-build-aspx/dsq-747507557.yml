@@ -1,0 +1,5 @@
+id: dsq-747507557
+date: 2007-01-08T15:45:47.0000000-08:00
+name: Joel
+avatar: https://disqus.com/api/users/avatars/Joel.jpg
+message: <p>* the sample code below written in VB.NET 2005 shows some of the "release" bug. Code below is working in debug mode but not in release mode. <br><br>badtrip! <br><br>    Dim strdate As String<br>    Dim strdate2 As String<br>    Dim strlast As Integer = 1<br> strdate = Format(Date.Now, "MM/dd/yyyy").ToString<br>        strdate2 = Format(Date.Now, "MM/dd/yyyy").ToString<br>        If strdate.ToString &lt;&gt; strdate2.ToString Then<br>            If strlast = 0 Then<br>                End<br>           End If<br>   End If<br><br></p>

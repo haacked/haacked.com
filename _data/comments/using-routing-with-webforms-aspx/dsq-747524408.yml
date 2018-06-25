@@ -1,0 +1,5 @@
+id: dsq-747524408
+date: 2008-03-25T11:35:52.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hi Tony, you wouldn't. Routing is not Url Rewriting. Instead, you'd pull the values from Route Data. For example, suppose you had a route with the following url pattern:<br>items/{id}<br>Which you mapped to ItemCalc.aspx. If you make ItemCalc.aspx inherit from RoutablePage (it's in the code for this article), then you would have access to this.RouteData.Values["id"] in order to get the value.<br>Does that make sense?</p>

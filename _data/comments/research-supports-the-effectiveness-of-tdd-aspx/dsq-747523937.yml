@@ -1,0 +1,5 @@
+id: dsq-747523937
+date: 2008-01-21T21:15:23.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Karthik When you look at the jump from non-TDD to TDD, that's a huge conceptual and practical leap. But the leap from TDD to BDD is more of a little hop in comparison.<br>For example, if you work with a framework that is not written with testability in mind, testing your own code written on that framework using TDD or BDD is challenging. But when the framework itself is designed for testability (perhaps itself written in a testable manner), then the framework looks very different and it supports *both* TDD and BDD.<br>My hypothesis is that BDD won't exhibit much improvement over TDD. I think it's more of a conceptual style difference. In other words, the difference between code without TDD and code with TDD is a huge difference. The code written using TDD vs BDD is a much smaller difference. I'm happy to be proven wrong.</p>

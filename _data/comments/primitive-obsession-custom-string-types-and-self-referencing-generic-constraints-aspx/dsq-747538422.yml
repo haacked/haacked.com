@@ -1,0 +1,5 @@
+id: dsq-747538422
+date: 2012-10-02T16:13:48.0000000-07:00
+name: Brian
+avatar: https://disqus.com/api/users/avatars/Brian.jpg
+message: <p>This is an interesting approach for user input. I work on a website where we allow a lot of flexibility when entering data, even if it doesn't look correct at all, we typically allow it (until we get to the point of billing or something similarly critical to valid input). <br>I've got a little open source project that I've been working on for a while that has a pretty good conversion library if you are interested in using it (or just borrow the code - I don't care). The project is called <a href="http://bizark.codeplex.com" rel="nofollow noopener" title="http://bizark.codeplex.com">BizArk</a> and is available in NuGet as well. <br>I think you could change the ValueConverterMarkupExtension.Convert method to virtual and use the ConvertEx.To&lt;T&gt; method. The converter can handle many common ways of converting between values including type converters, ToXxx instance methods, static methods, constructors, etc.</p>

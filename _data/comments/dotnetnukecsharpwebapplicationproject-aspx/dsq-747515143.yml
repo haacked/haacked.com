@@ -1,0 +1,5 @@
+id: dsq-747515143
+date: 2006-05-19T03:59:00.0000000-07:00
+name: Michael Freidgeim
+avatar: https://disqus.com/api/users/avatars/Michael Freidgeim.jpg
+message: <p>Thanks for the post.<br>But it's only for binary core( DotNetNuke_4.0.3_Install).<br>What is about converting Source DNN project to WAP?<br>I am able to use Cassini with DNN4.0 web site project. But you need to specify static port(<a href="http://geekswithblogs.net/mnf/archive/2006/03/03/71229.aspx)" rel="nofollow noopener" title="http://geekswithblogs.net/mnf/archive/2006/03/03/71229.aspx)">http://geekswithblogs.net/m...</a>. <br>You also mentioned that you "able to add project references from my Web Application Project to the individual module projects." But it is against the idea of dynamic loading of custom modules,why  BuildSupport projects were introduced.</p>

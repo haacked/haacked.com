@@ -1,0 +1,5 @@
+id: dsq-747526754
+date: 2008-11-04T03:06:24.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Elijah we have an old prototype, but it needs to be updated.<br>@Steve I doubt it. I didn't revisit those methods. They'd have to know how to convert the full type name of the controller into an area string in order to work. It's doable by following the conventions. If this work makes it into the futures, I can look into that.</p>

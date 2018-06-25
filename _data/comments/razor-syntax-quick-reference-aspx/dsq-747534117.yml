@@ -1,0 +1,5 @@
+id: dsq-747534117
+date: 2012-08-07T08:22:55.0000000-07:00
+name: Nick Gilbert
+avatar: https://disqus.com/api/users/avatars/Nick Gilbert.jpg
+message: <p>How about a section for URLs?<br>What's the equivalent of:<br> <a href="~/home/@filename" rel="nofollow noopener" title="~/home/@filename">@filename</a><br>For me it's just printing the "~" rather than resolving it.</p>

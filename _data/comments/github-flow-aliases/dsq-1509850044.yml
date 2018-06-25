@@ -1,0 +1,5 @@
+id: dsq-1509850044
+date: 2014-07-29T05:36:07.0000000-07:00
+name: Brian Vallelunga
+avatar: https://disqus.com/api/users/avatars/citezein.jpg
+message: <p>When you merge a pull request from a topic branch, do you squash your branch's commits down, or just leave the entire history there? If so, wouldn't you end up with a lot of SAVEPOINT commits on master?</p><p>Similarly, after you merge into master, delete your branch and push, is it up to all other developers that collaborated with you on that topic branch to clean up their own copies? Their topic branches don't get automatically closed on the next pull, right?</p>

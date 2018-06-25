@@ -1,0 +1,5 @@
+id: dsq-747531139
+date: 2009-12-25T10:27:22.0000000-08:00
+name: Dave Ward
+avatar: https://disqus.com/api/users/avatars/Encosia.jpg
+message: "<p>If you're always going to be closing the nearest parent div, go with something like this:<br><code>$('.close').click(function() {<br>  $(this).closest('div').slideUp();<br>});</code><br>If you can't assume that the closest parent div is the container, tag the containers with a class and ascend to that:<br><code>$('.close').click(function() {<br>   $(this).closest('div.collapsable').slideUp();<br>});</code><br>It would be a good idea to use live() if there will potentially be many of these on the page or if they may be added dynamically after $(document).ready() fires.  Also, you'll want to either preventDefault() or return false to avoid the browser \"navigating\" to the top of the page and appending a # to the location.<br><code>$(document).ready(function() {<br>  $('a.close').live('click', function(evt) {<br>    evt.preventDefault();<br>  <br>    $(this).closest('div.collapsable').slideUp();<br>  });<br>});</code></p>"

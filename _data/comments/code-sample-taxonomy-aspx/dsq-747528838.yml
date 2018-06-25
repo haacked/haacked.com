@@ -1,0 +1,5 @@
+id: dsq-747528838
+date: 2009-04-16T21:30:00.0000000-07:00
+name: Brian Brewder
+avatar: https://disqus.com/api/users/avatars/Brian Brewder.jpg
+message: <p>I agree with @Steve, sample code should be short and to the point. Adding a bunch of "best practices" just gets in the way of learning the concept that you are reading the code for. If developers don't know how to do proper error handling, I don't think an article on how to use the JQuery grid is the appropriate place to teach them. I would also prefer to have some poorly written sample code then no sample code at all.<br>Towards the end of your article you ask "Can we figure out a way to post code samples that are not yet the embodiment of good practices in a responsible manner with the intent to improve the code quality based on community feedback?" You can always post the code sample as a screenshot :). You can't cut-and-paste from an image and the extra effort to type it out might be enough to make the developer realize they have to write more code.</p>

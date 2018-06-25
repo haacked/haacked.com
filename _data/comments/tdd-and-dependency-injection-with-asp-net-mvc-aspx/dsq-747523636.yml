@@ -1,0 +1,5 @@
+id: dsq-747523636
+date: 2012-02-16T00:17:33.0000000-08:00
+name: DSmith
+avatar: https://disqus.com/api/users/avatars/DSmith.jpg
+message: <p>I'm still not sold on TDD. I guess I come from a much older school of - if you don't know exactly what each line of code will do to your app in every place then don't write it. A programmer should be able to write code in notepad, no debugger or background compiler and know exactly what they are doing. If you are relying on testing every line of code you write then you don't know what you're doing.</p>

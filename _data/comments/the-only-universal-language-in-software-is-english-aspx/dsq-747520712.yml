@@ -1,0 +1,5 @@
+id: dsq-747520712
+date: 2007-05-29T16:00:11.0000000-07:00
+name: Carl
+avatar: https://disqus.com/api/users/avatars/Carl.jpg
+message: <p>As programmers, we all 'think' in the language that we use - be it c#, java etc.<br>Although we generally write in English, we may not think in English (I think in English, but the real English, not that silly US version ;-P). A DateTime has a property of Now, we understand that; however I think that by using 20.Minutes.Ago, you are imposing English grammar and sentence construction onto the programmer.<br>Personally, I think that the ruby syntax is horrible, and can't help wondering what possible reason there could be for it?<br>I've seen comments about it showing clearer programmer's intent - to who, exactly?<br>As a programmer, DateTime.Now.AddMinutes(-20) says a lot more about the intent - because I'm a programmer and it's written in my language. How much of a bonus is it that my Grandma would be able to understand the intent of the line '20.minutes.ago' better?</p>

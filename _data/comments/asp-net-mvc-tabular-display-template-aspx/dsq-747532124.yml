@@ -1,0 +1,5 @@
+id: dsq-747532124
+date: 2010-05-06T04:08:25.0000000-07:00
+name: Kyle Nunery
+avatar: https://disqus.com/api/users/avatars/Kyle Nunery.jpg
+message: <p>Templates is the coolest feature of MVC 2 and hope you expand upon this greatly in MVC 3.  Is there a performance concern of rendering the UI in this manner?  Have you done any tests with regards to performance? I am hoping to use this feature heavily in some projects.</p>

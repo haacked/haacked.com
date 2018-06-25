@@ -1,0 +1,5 @@
+id: dsq-763469243
+date: 2013-01-10T23:53:59.0000000-08:00
+name: Daniel Marbach
+avatar: https://disqus.com/api/users/avatars/Daniel Marbach.jpg
+message: '<p>Hy Phil,<br>Thanks for the post. Think this is especially important when you are using third party code. When I program against my own code or some of my team mates we rely on the fact that we are TDDing our code. So we avoid complex object construction and properties with business logic in it. That way we can assume that a constructor or a property does not throw.</p><p>How about this one: ;)</p><p>            using (var stream = new MemoryStream())            using (var writer = new StreamWriter(stream) { AutoFlush = true })            {                writer.Write(message.Xml);                stream.Seek(0, SeekOrigin.Begin);                this.documentSession.StoreAttachement(                    "someId", null, stream, new RavenJObject { { "Content-Type", "application/xml" }, });            }</p><p>Try to get rid of the following violation:</p><p>"Microsoft.Usage", "CA2202:Do not dispose objects multiple times"</p><p>Have fun</p>'

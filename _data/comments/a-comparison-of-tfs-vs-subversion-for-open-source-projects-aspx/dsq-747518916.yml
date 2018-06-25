@@ -1,0 +1,5 @@
+id: dsq-747518916
+date: 2007-03-06T03:58:50.0000000-08:00
+name: Jay Flowers
+avatar: https://disqus.com/api/users/avatars/Jay Flowers.jpg
+message: <p>Phil,<br>You mention how you like Work Item Tracking's (WIT) integration into the flow.  You can achieve a similar result with build server automation.<br>You have some sort of Ticket Tracking System.  I imagine that it is automatible. If you were to include the ticket number(s) in the commit comment, log message, what every you wanna call it; you can then extract them in the build process and move the ticket onto test or where ever.<br>It my work we use PVCS Tracker and the CI Factory Tracker Package for this.  The build script can add all sorts of info to the Ticket that is a pain to do manually.<br>Smiles,<br>Jay</p>

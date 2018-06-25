@@ -1,0 +1,5 @@
+id: dsq-747510175
+date: 2006-05-11T23:12:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>The problem is since &lt;text&gt; is not escaped, it probably won't get rendered by the browser, so stripping it shouldn't be a problem.<br>Ideally, you wouldn't allow that sort of thing. You'd HTML encode it so it looks like &amp;lt;text&amp;gt;</p>

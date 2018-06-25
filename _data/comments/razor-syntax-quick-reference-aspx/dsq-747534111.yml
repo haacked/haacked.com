@@ -1,0 +1,5 @@
+id: dsq-747534111
+date: 2012-05-31T06:32:14.0000000-07:00
+name: Tomasz
+avatar: https://disqus.com/api/users/avatars/Tomasz.jpg
+message: <p>I believe there's a bug in VS 2010 regarding the mixed code/plain text formatting.<br>@if (true)<br>{<br>    @:Plain text<br>}<br>Every time I format the code (Edit &gt; Advanced &gt; Format Document) there's a tab added before the closing curly brace...</p>

@@ -1,0 +1,5 @@
+id: dsq-747517004
+date: 2006-09-27T22:51:11.0000000-07:00
+name: Adam
+avatar: https://disqus.com/api/users/avatars/Adam.jpg
+message: <p>"My understanding is that if multiple versions of a library are in the GAC, any .Net application that uses that library will "auto-upgrade" to the highest version _with the same major.minor combination_"<br>That's a throwback to the early betas of 1.0. I don't actually think it was ever implemented, only talked about then eventually discarded instead for publisher policy.<br>Where I work, for assemblies we use the first number to indicate huge breaking change, the second to indicate non-breaking changes but a significant release, the third and fourth numbers to represent minor patch-style bug fixes.<br>For our product we let Marketing decide the first two numbers, we pick the third number based on which release it is (0 for the first GA, 1+ for service packs and updates) and the fourth numbers gets incremented for every explicit build (so our latest product installer version is 5.2.1.301).</p>

@@ -1,0 +1,6 @@
+id: dsq-1243837039
+replyToId: dsq-816456205
+date: 2014-02-14T02:47:50.0000000-08:00
+name: MVS
+avatar: https://disqus.com/api/users/avatars/MVS.jpg
+message: <p>The comments inside statement block its only allowed with:<br>/* comment */, that is for multi lines comment, and<br>// comment, that should be used for single line comment.</p><p>The  @* comment *@ can be used only outside statement block</p>

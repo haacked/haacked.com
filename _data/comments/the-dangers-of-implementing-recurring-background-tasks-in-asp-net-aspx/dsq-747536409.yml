@@ -1,0 +1,5 @@
+id: dsq-747536409
+date: 2012-04-04T13:27:22.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Brian well it depends if you have a recurring task or not. You still need some sort of timer. And you don't want to do the work on the same thread as your timer. Hence the use of the <code>Timer</code> class.<br>The solution I wrote also makes sure app pool shuts down gracefully and doesn't corrupt data.</p>

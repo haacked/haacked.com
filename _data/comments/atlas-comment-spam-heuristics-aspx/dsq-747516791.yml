@@ -1,0 +1,5 @@
+id: dsq-747516791
+date: 2006-09-19T04:56:35.0000000-07:00
+name: Steven Harman
+avatar: https://disqus.com/api/users/avatars/stevenharman.jpg
+message: <p>@Nicholas. I've been waiting to add ATLAS to subTEXT until they get a few more bugs killed... in particular <a href="http://stevenharman.net/blog/archive/2006/08/04/The_ATLAS_Framework__Callback_Handler_JavaScript_Bug.aspx" rel="nofollow noopener" title="http://stevenharman.net/blog/archive/2006/08/04/The_ATLAS_Framework__Callback_Handler_JavaScript_Bug.aspx">this one</a>. <br>Then my plan was to start adding AJAX functionality to the subTEXT Admin pages, and I think Phil had a few places in the main UI that he wanted to throw some updatePanels. <br>The official bug report that I opened (mentioned at the bottom of the article I liked to) still hasn't gotten any play from the ATLAS team... so this bug seems to be in limbo somewhere.</p>

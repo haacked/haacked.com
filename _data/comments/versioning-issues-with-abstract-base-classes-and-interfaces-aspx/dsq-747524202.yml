@@ -1,0 +1,5 @@
+id: dsq-747524202
+date: 2008-02-20T18:57:59.0000000-08:00
+name: Pawel Pabich
+avatar: https://disqus.com/api/users/avatars/Pawel Pabich.jpg
+message: <p>Why not to follow Eric Lippert hint? If an app is working fine on .NET 3.0 and needs to be ported to let's say .NET 4.0 then it should be recompiled against that version of the framework and all new methods on a given interface should be implemented. Why do you have to insist that 10 years old app that was originally developed for .NET 1.0 needs to be able to run on .NET 4.0 with no changes? This approach constraints your velocity and in a few years you won't be able to innovate. Sure, abstract class would help but only if all public methods/properties were virtual. Are you going to do this?</p>

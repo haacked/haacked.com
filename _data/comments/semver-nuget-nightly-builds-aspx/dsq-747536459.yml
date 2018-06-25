@@ -1,0 +1,5 @@
+id: dsq-747536459
+date: 2011-10-25T10:05:38.0000000-07:00
+name: Betty
+avatar: https://disqus.com/api/users/avatars/Betty.jpg
+message: <p>@Haacked, my only real issue with SemVer is that Nightly &gt; Alpha/Beta which isn't the case. It's a fairly basic case and fairly core to support CI (imo), surely it must be covered by the standard somehow...</p>

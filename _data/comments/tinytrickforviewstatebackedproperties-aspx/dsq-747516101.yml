@@ -1,0 +1,5 @@
+id: dsq-747516101
+date: 2006-08-18T05:06:35.0000000-07:00
+name: Chris Martin
+avatar: https://disqus.com/api/users/avatars/Chris Martin.jpg
+message: <p>You almost had it the first time. What's wrong with this?<br>public bool? WillSucceed{<br>    get{<br>        return (bool?)ViewState["WillSucceed"] ?? false;<br>    }<br>    set{<br>        ViewState["WillSucceed"] = value;<br>    }<br>}</p>

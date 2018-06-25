@@ -1,0 +1,5 @@
+id: dsq-747533458
+date: 2010-11-09T19:22:09.0000000-08:00
+name: Florim Maxhuni
+avatar: https://disqus.com/api/users/avatars/Florim Maxhuni.jpg
+message: '<p>I also hawe .<br>Install-Package SNAP.StructureMap<br>Install-Package : Object reference not set to an instance of an object.<br>At line:1 char:16<br>+ Install-Package &lt;&lt;&lt;&lt;  SNAP.StructureMap<br>    + CategoryInfo          : NotSpecified: (:) [Install-Package], NullReferenceException<br>    + FullyQualifiedErrorId : NuGet.VisualStudio.Cmdlets.InstallPackageCmdlet<br>Other version it whas OK<br>Sorry for my english</p>'

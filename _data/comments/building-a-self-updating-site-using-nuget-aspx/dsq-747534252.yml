@@ -1,0 +1,5 @@
+id: dsq-747534252
+date: 2011-01-16T15:22:57.0000000-08:00
+name: Robert Muehsig
+avatar: https://disqus.com/api/users/avatars/Robert Muehsig.jpg
+message: '<p>Very impressive demo, but I´m a bit confused: I thought NuGet would be a kind of library repository. In your demo you use it for a whole web application - which is very cool. But should this "deployment task" not handled via WebDeploy? If I want to build a system like "Wordpress", should I upload new releases on MS WebApp Gallery for the Web Platform Installer AND on the NuGet Gallery? <br>SRP violation? ;)</p>'

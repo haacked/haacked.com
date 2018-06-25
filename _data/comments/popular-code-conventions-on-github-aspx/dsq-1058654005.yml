@@ -1,0 +1,6 @@
+id: dsq-1058654005
+replyToId: dsq-1058218228
+date: 2013-09-25T08:30:31.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>The last time I used StyleCop (admittedly it was a while ago) you couldn't tweak the rules.</p><p>&gt;  It takes some time to get everybody on board, but it pays off. I think it also follows the 'Framework Design Guidelines'.</p><p>The Framework Design Guidelines pertains to the public API design of your code and not how the curly braces are laid out etc.</p><p>I believe the team put out some recommendations on code style somewhere, but not even the teams within Microsoft all followed one coding style.</p><p>If StyleCop let me tweak the rules to fit my organization's thoughts, I'd be totally down for it.</p>

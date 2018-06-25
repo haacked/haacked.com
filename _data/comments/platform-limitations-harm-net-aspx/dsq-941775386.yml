@@ -1,0 +1,6 @@
+id: dsq-941775386
+replyToId: dsq-941146339
+date: 2013-06-25T09:46:03.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Well there's two different issues. The platform restriction on the compiled binaries is a no-brainer. There's really no patent issue to be concerned about there. The patent issues come into play when you want to release the source code under an OSS license.</p><p>The problem I see is that LCA isn't very well coordinated. We were fortunate to have a great LCA team that understood the issues well. But other teams don't and they have to train their LCA.</p><p>Also remember, the lawyers work for the business, not the other way around. Their job is to present the risk, but it's ultimately a business decision.</p>

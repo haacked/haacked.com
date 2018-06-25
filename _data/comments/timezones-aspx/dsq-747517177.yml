@@ -1,0 +1,5 @@
+id: dsq-747517177
+date: 2010-07-23T01:15:35.0000000-07:00
+name: Steve Pratt
+avatar: https://disqus.com/api/users/avatars/Steve Pratt.jpg
+message: <p>It is very easy to convert to different timezones.<br>z/OS (formerly os-390 and MVS) maintains not only the current local time but also the offset from UTC.  For example, Central Daylight Time is -5 hours 0 minutes from UTC.  It is 14:00 CDT &amp; it is 19:00 UTC.<br>All application programs running on z/OS can access this value.<br>DB2 calls this value "current timezone", much like it calls the clock "current time."  It is a good practice to always store the timezone whenever one stores the time.  I would store 14:00 as the time and -50000 as the timezone.  (the zeroes show minutes and seconds.  I realize the seconds are not needed, but DB2 stores timezone as Decimal(6,0).)<br></p>

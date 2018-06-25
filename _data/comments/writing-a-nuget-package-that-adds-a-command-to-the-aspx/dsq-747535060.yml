@@ -1,0 +1,5 @@
+id: dsq-747535060
+date: 2011-08-04T13:07:21.0000000-07:00
+name: James Gaisford
+avatar: https://disqus.com/api/users/avatars/James Gaisford.jpg
+message: <p>Awesome post. Really simple to follow and our internal NuGet repository now has a package with it's very own command! <br>I've got the bug and am now trying to create a simple command that creates a folder to publish files to. I would like to offer an "intellisense" option as one of the params to the command that inspects the publish profiles of the VS solution and uses values from there as the intellisense options. Is something like this possible?</p>

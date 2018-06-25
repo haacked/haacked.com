@@ -1,0 +1,5 @@
+id: dsq-747522007
+date: 2007-08-21T00:40:00.0000000-07:00
+name: Tim
+avatar: https://disqus.com/api/users/avatars/Tim.jpg
+message: <p>I ran into something similar with domain name parsing... I never knew this, but non 'english' symbols are completely valid such as:<br>http://www.hÔ<a href="http://tels.com/" rel="nofollow noopener" title="tels.com/">tels.com/</a><br>is a different site than:<br><a href="http://www.hotels.com/" rel="nofollow noopener" title="http://www.hotels.com/">http://www.hotels.com/</a><br>(Hopefully my comment here displays the first URL correctly, but if it doesn't the letter o in the first URL has a circumflex (e.g a ^ symbol) above it.<br>Searching for this in google requires you to put it in quotes else it will return words with the english 'o' in them.</p>

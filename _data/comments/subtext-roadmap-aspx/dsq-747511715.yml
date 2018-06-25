@@ -1,0 +1,5 @@
+id: dsq-747511715
+date: 2005-06-01T02:12:00.0000000-07:00
+name: Mik
+avatar: https://disqus.com/api/users/avatars/Mik.jpg
+message: <p>I think multiple blog configuration in a single site it won't be worth since there's Community server available. It's important to mantain the possibility to have multiple blogs in multiple sites and only one DB. It should be great if one could link the same blog to different hostnames (now it's impossible because of primary keys in db).<br><br><br><br></p>

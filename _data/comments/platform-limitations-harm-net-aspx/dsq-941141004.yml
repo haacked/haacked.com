@@ -1,0 +1,6 @@
+id: dsq-941141004
+replyToId: dsq-941057662
+date: 2013-06-24T23:12:28.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I updated my post. ASP.NET MVC 1 and 2 did not have the platform restriction. Then we changed to a different license template and we must have forgotten to take it out. Trust me, it was never supposed to remain in there.</p><p>Hopefully the PMs on the ASP.NET team can fix it. :)</p>

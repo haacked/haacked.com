@@ -1,0 +1,5 @@
+id: dsq-747526988
+date: 2008-11-12T01:44:35.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@configurator I noticed that iGoogle attempts to put a snippet of the blog post into the title attribute of the link so it shows up as a tooltip. Maybe they're running into similar problems I did when stripping HTML? ;)</p>

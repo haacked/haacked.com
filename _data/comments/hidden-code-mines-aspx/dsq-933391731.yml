@@ -1,0 +1,5 @@
+id: dsq-933391731
+date: 2013-06-17T11:25:04.0000000-07:00
+name: Mauricio Scheffer
+avatar: https://disqus.com/api/users/avatars/Mauricio Scheffer.jpg
+message: <p>I think you're mostly talking about partial functions here. There's tons of partial functions in the BCL, you just need to be aware of them and mostly avoid them, using total functions instead by default. For the particular case of ToDictionary, as others have said, ToLookup is similar but total. As its signature shows, it addresses the case of duplicate keys.<br>And of course, it's not enough to be aware of existing partial functions, also be very wary of *producing* partial functions.</p>

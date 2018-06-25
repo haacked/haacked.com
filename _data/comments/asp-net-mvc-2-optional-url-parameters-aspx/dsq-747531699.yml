@@ -1,0 +1,5 @@
+id: dsq-747531699
+date: 2010-03-11T20:36:04.0000000-08:00
+name: DorianT
+avatar: https://disqus.com/api/users/avatars/DorianT.jpg
+message: <p>@MikeC<br>Make sure the assembly you're referencing is System.Web.Mvc v2.0.50727. <br>I had that same error you were getting, but I noticed the mvc 2 project was referencing a v1.0 of that assembly.</p>

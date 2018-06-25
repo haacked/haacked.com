@@ -1,0 +1,5 @@
+id: dsq-747534497
+date: 2011-12-21T20:45:03.0000000-08:00
+name: Johan
+avatar: https://disqus.com/api/users/avatars/Johan.jpg
+message: <p>Just ran into this beauty. Appreciate the post on it, though I wonder who decided to ship with this.<br>The MVC 2 method worked correctly, sure it could have failed more gracefully on invalid data, but it wasn't a bug per se.<br>MVC 3 routing is actually defective, sure the real reason is the core routing, but you had the option of not exposing the bug. <br>I understand that you might have been to late in the cycle to do any changes (though this is an ugly one), but you could release and MVC patch that goes back to the MVC 2 behavior.</p>

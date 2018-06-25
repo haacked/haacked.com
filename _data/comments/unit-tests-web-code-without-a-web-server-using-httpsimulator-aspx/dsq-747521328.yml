@@ -1,0 +1,5 @@
+id: dsq-747521328
+date: 2012-04-29T18:53:56.0000000-07:00
+name: Tom Lianza
+avatar: https://disqus.com/api/users/avatars/Tom Lianza.jpg
+message: <p>Anyone have any good workarounds for the fact that you can't add http headers after creating the simulated request anymore?<br><a href="http://msdn.microsoft.com/en-us/library/system.web.httprequest.headers" rel="nofollow noopener" title="http://msdn.microsoft.com/en-us/library/system.web.httprequest.headers">msdn.microsoft.com/...</a>(v=vs.90).aspx (see comments about "PlatformNotSupported")</p>

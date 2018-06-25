@@ -1,0 +1,5 @@
+id: dsq-747514089
+date: 2006-11-29T19:49:12.0000000-08:00
+name: Daniel Pratte
+avatar: https://disqus.com/api/users/avatars/Daniel Pratte.jpg
+message: "<p>I had the same problem, but I ended up with a good solution.. you don't wanna add directrly some WebUserControl to the class library, you just create a usual Class File, but you enherit it from System.Web.UI.UserControl.. So it will BE a WebUserControl and you will be able to add whatever you need in it..<br>ex:<br>class MyUserWebControl : System.Web.UI.UserControl<br>Good luck ;)</p>"

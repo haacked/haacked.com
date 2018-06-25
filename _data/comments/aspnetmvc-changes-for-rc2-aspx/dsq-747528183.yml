@@ -1,0 +1,5 @@
+id: dsq-747528183
+date: 2009-03-04T03:57:06.0000000-08:00
+name: Eric
+avatar: https://disqus.com/api/users/avatars/Eric.jpg
+message: "<p>Regarding jQuery: I just replaced the 1.2.6 version in a project with 1.3.2 and everything still worked, so you might want to try that as well. It's probably mainly bugfixes, optimisation (selectors are faster) and more features.</p>"

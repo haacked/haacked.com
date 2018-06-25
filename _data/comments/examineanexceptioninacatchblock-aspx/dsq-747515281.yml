@@ -1,0 +1,5 @@
+id: dsq-747515281
+date: 2006-06-20T22:11:00.0000000-07:00
+name: Steve Crane
+avatar: https://disqus.com/api/users/avatars/Steve Crane.jpg
+message: <p>Thanks for this.  I have been wondering how to suppress the warnings about unreferenced variables, never thinking that the C# Reference and all the books I've looked at would neglect to mention that the variable name in a specific exception catch clause is optional.  It takes a visit to the language specification document to find this out.</p>

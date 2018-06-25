@@ -1,0 +1,5 @@
+id: dsq-747527207
+date: 2008-11-26T17:42:27.0000000-08:00
+name: Brian Lowe
+avatar: https://disqus.com/api/users/avatars/Brian Lowe.jpg
+message: <p>It's all very well talking about mapping extensions to get IIS to handle the requests, but I expect lots of developers will be using shared hosting and have no access to the IIS mapping table. In this scenario the olny option is to make sure all of your routes include an extension that is already mapped to thee ASP.Net runtime under the default IIS set-up (.aspx is a sure thing but there are others). <br>Also, the default page configured under IIS (usually including default.aspx) must implement the necessary redirect code to get the initial route into the visitor's view...<br>public void Page_Load(object sender, System.EventArgs e)<br>{<br>    HttpContext.Current.RewritePath(Request.ApplicationPath);<br>    IHttpHandler httpHandler = new MvcHttpHandler();<br>    httpHandler.ProcessRequest(HttpContext.Current);<br>}<br></p>

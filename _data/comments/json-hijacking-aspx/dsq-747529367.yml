@@ -1,0 +1,5 @@
+id: dsq-747529367
+date: 2009-06-25T19:40:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Asbjørn as I pointed out in my post, that wouldn't work. Imagine this scenario. Step 1, you visit the vulnerable site and legitimately make a proper AJAX request. The site returns the JSON to your browser. Now your browser caches that JSON.<br>Now, when you visit the bad guy site, the script tag tries to request that file, but the browser <em>returns it from the cache</em>! It doesn't even make a request to the bad server.<br>In that case, your bad data has been returned.</p>

@@ -1,0 +1,5 @@
+id: dsq-747521938
+date: 2007-08-19T18:12:42.0000000-07:00
+name: Ian Griffiths
+avatar: https://disqus.com/api/users/avatars/Ian Griffiths.jpg
+message: "<p>This:<br></p><blockquote>\"(also known as latent typing)\"</blockquote><p><br>should have read:<br></p><blockquote>\"(also sometimes incorrectly described as latent typing)\"</blockquote><p><br>Latent typing and duck typing are not the same. Latent typing simply means that a type exists, but is not explicit. Duck typing is really just structural typing. In the languages currently making duck typing popular, it is achieved by performing type checks at the point at which members are used, and 'type compatibility' in this case simple means 'has a matching member'.<br>Not the same concept at all, really.<br>More on my campaign to stop people misusing the term latent typing here: <a href=\"http://www.interact-sw.co.uk/iangblog/2005/01/06/notlatent\" rel=\"nofollow noopener\" title=\"http://www.interact-sw.co.uk/iangblog/2005/01/06/notlatent\">http://www.interact-sw.co.u...</a></p>"

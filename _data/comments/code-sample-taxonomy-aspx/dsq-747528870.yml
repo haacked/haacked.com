@@ -1,0 +1,5 @@
+id: dsq-747528870
+date: 2009-04-19T22:10:00.0000000-07:00
+name: Peter.O
+avatar: https://disqus.com/api/users/avatars/Peter.O.jpg
+message: "<p>The beauty of demo code is that it actually 'demonstrates' without much noise and clutter.<br>The danger of demo code, on the other hand is that people may be learning from from it than it intends to teach (eg: style).<br>So, why don't we standardize this: Let someone start an RFC for formal source code class (SCC) taxonomy. We can start with Phil's names but I will like a class of SNIPPET added. In which case, you expect nothing, require nothing. And the default should be snippet!! Then, everyone posting a piece of source code should mark that code with the appropriate SCC as a comment decoration on the code or part of the documentation, whichever is appropriate. eg:<br>SCC: DEMO<br>// source code follows<br>SCC: REFERENCE<br>// source code follows</p>"

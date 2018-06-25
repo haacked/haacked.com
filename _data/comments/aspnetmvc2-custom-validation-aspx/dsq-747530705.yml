@@ -1,0 +1,5 @@
+id: dsq-747530705
+date: 2009-12-19T09:10:23.0000000-08:00
+name: Simon W
+avatar: https://disqus.com/api/users/avatars/Simon W.jpg
+message: <p>Hi Phil. Looks like in RC1 the MicrosoftAjax.js file is required for MicrosoftMvcValidation.js because of its dependency on Type.<br>Easy fix obviously but easy to slip through testing I guess. I made a SO post here.<br><a href="http://stackoverflow.com/questions/1934803/how-do-i-use-microsoftmvcvalidation-js-without-having-to-include-microsoftajax-js" rel="nofollow noopener" title="http://stackoverflow.com/questions/1934803/how-do-i-use-microsoftmvcvalidation-js-without-having-to-include-microsoftajax-js">stackoverflow.com/...</a></p>

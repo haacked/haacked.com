@@ -1,0 +1,5 @@
+id: dsq-747525590
+date: 2008-06-25T00:39:32.0000000-07:00
+name: Steven Harman
+avatar: https://disqus.com/api/users/avatars/stevenharman.jpg
+message: <p>w/r/t blocking direct access to everything in the /views/ directory... I don't feel too strongly one way or the other, but I don't think requiring someone using a custom view engine to add those web.config keys is a lot to expect. As long as that step is well understood, of course.<br>However, I totally get the argument for requiring all static content to live in the /content/ directory. Either way, I'd say pick a convention and go with it, allowing others to choose another route if/when they see fit.<br>Alternatives/choice is king! :)</p>

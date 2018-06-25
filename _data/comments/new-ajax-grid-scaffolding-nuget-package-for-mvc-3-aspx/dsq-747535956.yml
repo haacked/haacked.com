@@ -1,0 +1,5 @@
+id: dsq-747535956
+date: 2011-08-17T14:03:13.0000000-07:00
+name: Michiel Post
+avatar: https://disqus.com/api/users/avatars/Michiel Post.jpg
+message: <p>Tried it out and it's cool!<br>- Can the Create/Save/Cancel get a fixed width? If you have a row with only two columns, these buttons get really big.<br>- Sorting, maybe just one arrow instead of two. Only show the arrow that displays the current sort order. It makes the table header less cluttered.<br>- Add a scaffolding option that also generates regular create/edit pages. I don't always want to show and edit all the data in the grid. Most of the time I only show the important columns. Less regular data can be edited through a regular edit page.<br>Thanks for the great NuGet package!</p>

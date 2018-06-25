@@ -1,0 +1,5 @@
+id: dsq-747526773
+date: 2008-11-04T16:07:46.0000000-08:00
+name: Donovan Hide
+avatar: https://disqus.com/api/users/avatars/Donovan Hide.jpg
+message: <p>Hi,<br>it is good to see that the direction of writing reusuable "sub-applications" is being followed. The pluggability and extensibility of applications within a project is the one of the key selling points of Django as can be seen from the thriving collection of Google Hosted Projects. <a href="http://code.google.com/p/django-tagging/" rel="nofollow noopener" title="http://code.google.com/p/django-tagging/">http://code.google.com/p/django-tagging/</a> is probably the most-used of them all.<br>It would be interesting to know if you are examining an install of Django for inspiration with your work. I'm working on an MVC app right now, and severely missing the reusable Form abstraction that exists in Django. You are some way there with the model binding, but there needs to be better support for iterating over fields in a form, for instance. I'm writing a lot of repetitive code at the moment and the HTML Form Helpers are more of a burden than a help. <br>Remember imitation is the highest "form" of flattery!</p>

@@ -1,0 +1,5 @@
+id: dsq-747533947
+date: 2011-03-02T17:53:10.0000000-08:00
+name: Kjeld Poulsen
+avatar: https://disqus.com/api/users/avatars/Kjeld Poulsen.jpg
+message: <p>I tried to host a ASP.NET MVC 3 application as a sub application (virtual directory) where the root was ASP.NET 2.0, using one application pool, while the application it self was using .NET 4.0 in another application pool. I was unable to make this work. As soon as i changed the root application to run .NET 4.0 everything worked as it should.</p>

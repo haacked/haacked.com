@@ -1,0 +1,5 @@
+id: dsq-747524865
+date: 2008-09-08T18:17:02.0000000-07:00
+name: Mladen Mihajlovic
+avatar: https://disqus.com/api/users/avatars/mika76.jpg
+message: <p>I'm having the same problem as Rodj (I have a / and \ in a category name) There should really be a way to do this properly. How about adding in some property (or character) to tell it it will have a certain number of slashes. Also shouldn't the {id*} thing work?<br>There must be a way to do this - / and \ characters should be usable if they're url encoded at least.</p>

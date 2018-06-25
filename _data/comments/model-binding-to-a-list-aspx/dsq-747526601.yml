@@ -1,0 +1,5 @@
+id: dsq-747526601
+date: 2010-08-11T12:22:50.0000000-07:00
+name: George
+avatar: https://disqus.com/api/users/avatars/George.jpg
+message: <p>What if you're wanting to display a list of options outside the scope of the Model you're representing, ie. a MultiSelectList assigning List&lt;Interest&gt; to User.Interests. Simply passing User.Interests to the control leaves it unaware of anything other than that User's selection, and passing it List&lt;Interest&gt; leaves it unaware of the users selection!</p>

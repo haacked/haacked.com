@@ -1,0 +1,5 @@
+id: dsq-747525832
+date: 2008-07-24T17:37:16.0000000-07:00
+name: R. A. Raboud
+avatar: https://disqus.com/api/users/avatars/R. A. Raboud.jpg
+message: <p>For those of you that think unit test can cross boundaries, I would like to pose a question.<br>If the Database, Web or FTP server is down, do you fail the unit test?<br>My answer is the test would be inconclusive. I am a huge believer that unit test should not cross boundaries only integration tests should. Just my humble opinion.</p>

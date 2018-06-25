@@ -1,0 +1,5 @@
+id: dsq-747537474
+date: 2012-01-16T07:30:54.0000000-08:00
+name: Jim Cooper
+avatar: https://disqus.com/api/users/avatars/Jim Cooper.jpg
+message: "<p>Or if you were to use a more sophisticated unit test framework (NUnit) :-) you'd have this test:<br><code><br>    [Test]<br>    public void CheckStringAsserts()<br>    {<br>        Assert.That(\"Hard \\tto\\ncompare\\r\\n\", Is.EqualTo(\"Hard  to\\r\\ncompare\\n\"));<br>    }<br></code><br>and this output:<br><code><br>String lengths are both 18. Strings differ at index 5.<br>Expected: \"Hard  to\\r\\ncompare\\n\"<br>But was:  \"Hard \\tto\\ncompare\\r\\n\"<br> ----------------^<br></code><br>Both the test and the output are much nicer</p>"

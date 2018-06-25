@@ -1,0 +1,5 @@
+id: dsq-747528727
+date: 2010-07-16T23:39:08.0000000-07:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>Anybody get this working with entity framework 4?<br>LINQ to Entities does not recognize the method 'System.String ToString()' method, and this method cannot be translated into a store expression.<br>    var jsonData = new<br>                {<br>                    total = totalPages,<br>                    page = page,<br>                    records = totalRecords,<br>                    rows = (<br>                      from x in gridData<br>                      select new<br>                      {<br>                          i = x.noteid,<br>                          cell = new string[] { x.noteid.ToString(), x.username, x.addeddate, x.title, x.note }<br>                      }).ToArray()<br>                };</p>

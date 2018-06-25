@@ -1,0 +1,5 @@
+id: dsq-747526860
+date: 2008-11-06T14:17:21.0000000-08:00
+name: Kyorry Wang
+avatar: https://disqus.com/api/users/avatars/Kyorry Wang.jpg
+message: <p>hi, Phil<br>  how about to present ViewUserControl?<br>  i test the Html.RenderParial(partialName), to render user control that i had set the cache like this &lt;%@ OutputCache Duration="60" VaryByParam="none" %&gt;, but it does not work, why?</p>

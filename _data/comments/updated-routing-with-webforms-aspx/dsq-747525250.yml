@@ -1,0 +1,5 @@
+id: dsq-747525250
+date: 2008-05-25T17:48:30.0000000-07:00
+name: Jon
+avatar: https://disqus.com/api/users/avatars/Jon.jpg
+message: <p>Hi Phil, when I tried the demo project I had problems accessing the default page. Despite the mapping of "" to "Default.aspx", requests for "/" did not activate the WebFormRouteHandler. Instead, when using the ASP.NET Development Server they returned a 404 error, and when using IIS 7 they reached Default.aspx, but it appeared to be loaded as a standard .aspx page, without a populated RouteData field, causing it error trying to generate the links with this.RouteLink.</p>

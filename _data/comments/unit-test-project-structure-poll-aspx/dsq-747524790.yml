@@ -1,0 +1,5 @@
+id: dsq-747524790
+date: 2008-04-09T12:09:43.0000000-07:00
+name: Torkel
+avatar: https://disqus.com/api/users/avatars/Torkel.jpg
+message: <p>In a separate assembly. <br>It would be nice if the CLR or C# provided a way complete expose private and protected classes and methods to a testing assembly. As far as I know this can only be done for internals?</p>

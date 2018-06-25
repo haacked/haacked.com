@@ -1,0 +1,5 @@
+id: dsq-747528054
+date: 2009-02-15T09:35:02.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@ayende, yeah, this isn't the final version of the code. It's just meant to illustrate. I could call FirstOrDefault instead and if the result is null, throw a more descriptive exception.</p>

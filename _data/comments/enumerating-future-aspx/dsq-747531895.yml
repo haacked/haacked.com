@@ -1,0 +1,5 @@
+id: dsq-747531895
+date: 2010-03-26T14:58:44.0000000-07:00
+name: taber loveless
+avatar: https://disqus.com/api/users/avatars/taber loveless.jpg
+message: <p>Thanks for this post! Although not the point of it, I now have a better understanding of 'yield return'. Now I have to run ILDASM and see what the difference is between 'x.Find(x =&gt; x.y == z)' and its foreach+yield-return counter THEN begin thinking about ways to apply Reactive Extensions!<br>This is what I get for not sleeping tonight?!? thanks Phil :P ;)</p>

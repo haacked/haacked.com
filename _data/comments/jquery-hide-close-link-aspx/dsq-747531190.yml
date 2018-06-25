@@ -1,0 +1,5 @@
+id: dsq-747531190
+date: 2010-05-18T04:20:09.0000000-07:00
+name: Hugo
+avatar: https://disqus.com/api/users/avatars/Hugo.jpg
+message: <p>While fun to play around with, I tell other developers to only implement jQuery show/hide if they really need to.  It must serve a purpose on your page other than to just show-off.  Because, it can compromise page load speeds to some extent.</p>

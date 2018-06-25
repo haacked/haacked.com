@@ -1,0 +1,5 @@
+id: dsq-747514075
+date: 2006-02-06T13:20:00.0000000-08:00
+name: jayson knight
+avatar: https://disqus.com/api/users/avatars/jayson knight.jpg
+message: <p>Roger that on the CS scripts...those should work.  Regardless, the bulk of the shrinkage (all seinfeldisms aside) will be done by by the dbcc shrinkdatabase command; I seriously doubt either the *_urls or *_referrals tables commit that much to the db size as the column sizes are pretty small, unless you literally have hundreds of thousands of rows.<br><br><br><br>It's also worth mentioning that (IIRC) dbcc reindex is logged, so you most definitely should issue a dbcc shrinkdatabase (or truncate the log file by some other means) after reindexing any table.</p>

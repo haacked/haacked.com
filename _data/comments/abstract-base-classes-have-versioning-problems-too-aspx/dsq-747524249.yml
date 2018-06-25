@@ -1,0 +1,5 @@
+id: dsq-747524249
+date: 2008-02-21T07:06:56.0000000-08:00
+name: Evan
+avatar: https://disqus.com/api/users/avatars/Evan.jpg
+message: <p>Are you guys planning on shipping assembly redirects for the ASP.NET extensions (MVC)?  <br>If not, all this commotion about not having to recompile across versions is largely moot.  Upgrading a dependency from 1.1 to 1.2 is a breaking change, regardless of what the types and type members look like.  The CLR enforces that for us.<br>Barring that, you'd need to actually ship more than 1 assembly (where stable types are in an "interface assembly" if you will), and developers would actually have to manage their dependencies (gasp!).</p>

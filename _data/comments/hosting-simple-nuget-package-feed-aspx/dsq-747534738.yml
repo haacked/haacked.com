@@ -1,0 +1,5 @@
+id: dsq-747534738
+date: 2011-04-22T01:34:35.0000000-07:00
+name: Tim Cartwright
+avatar: https://disqus.com/api/users/avatars/Tim Cartwright.jpg
+message: <p>This worked great, however I am running into an issue with dependencies. Using the package explorer I added a dependency to jquery. (Actually it happens with any dependency) <br>I see the package fine in visual studio, however when I go to install I get "unable to resolve dependency".<br>If I remove the dependencies the package installs fine.</p>

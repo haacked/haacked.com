@@ -1,0 +1,5 @@
+id: dsq-747534581
+date: 2011-11-02T08:05:34.0000000-07:00
+name: Murray
+avatar: https://disqus.com/api/users/avatars/Murray.jpg
+message: <p>I'm trying to do something similar with a single dynamic object input rather than IEnumerable&lt;T&gt; any idea how I'd do that?<br>I want to end up with something like<br>WrapInAnchorOrNot(node, @&amp;lt;span&amp;gt;various junk&amp;lt;/span&amp;gt;)<br>Where node is a dynamic object which I can dig into to determine if an anchor is required or not.<br>Cheers.<br>Murray.</p>

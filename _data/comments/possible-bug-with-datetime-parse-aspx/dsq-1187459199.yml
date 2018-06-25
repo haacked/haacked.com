@@ -1,0 +1,5 @@
+id: dsq-1187459199
+date: 2014-01-04T20:57:03.0000000-08:00
+name: Matt Johnson
+avatar: https://disqus.com/api/users/avatars/mj1856.jpg
+message: <p>I know this is an old post, but just stumbled upon it and it looks like you never got a real explanation for why this happens.</p><p>AssumeLocal and AssumeUniversal are both related to how the input string is interpreted.  By themselves, neither will change the output kind.</p><p>The default output kind is Local.  To get it to be Utc, you can use the AdjustToUniversal style.</p><p>The DateTimeStyles enum is flags-based, so you can combine these in some ways that make sense.  To achieve what you originally set out to do (parse the input as UTC and output it as UTC), then you would use:</p><p>DateTime utcDate = DateTime.Parse("10/01/2006 19:30", culture, <br>    DateTimeStyles.AssumeUniversal | <br>    DateTimeStyles.AdjustToUniversal);</p><p>As others pointed pointed out, a separate call to ToUniversalTime() would also work, but this is technically more correct.</p><p>Cheers!</p>

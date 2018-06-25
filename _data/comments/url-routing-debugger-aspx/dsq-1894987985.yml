@@ -1,0 +1,5 @@
+id: dsq-1894987985
+date: 2015-03-08T07:50:47.0000000-07:00
+name: clevern
+avatar: https://disqus.com/api/users/avatars/clevern.jpg
+message: <p>Hahaha... I went through the same issue about a year ago.<br>I knew there was more to an email address than I was assuming, because back in the day I had an email address that looked more like a regular expression, something like:<br>marcelo.calbucci%mandic@fapesp.com.br<br>So, when I was writing my email <a href="http://www.filmrally.com/" rel="nofollow noopener" title="http://www.filmrally.com/">validator</a> in C# (regular expressions are too slow in some cases) I checked out the RFC, which is way more complex than anyone could ever imagine (except the people that wrote it).<br>After a while I decided to limit the scope and not make it perfect, but good enough. <br>The problem with making it match the spec is that somebody might mistype a symbol instead of a character and your regular expression will find it acceptable. I didn't want that to happen. If somebody has a weird symbol on their email address we'll simply reject it.</p>

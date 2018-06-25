@@ -1,0 +1,5 @@
+id: dsq-747534206
+date: 2011-01-14T21:19:23.0000000-08:00
+name: Martin
+avatar: https://disqus.com/api/users/avatars/Martin.jpg
+message: <p>This is great news. But I find your release notes a bit confusing.<br>"Razor views do not have IntelliSense support nor syntax highlighting. It is anticipated that support for Razor syntax in Visual Studio will be included as part of a later release."<br>Is this from an old version ? Because intellisense and syntax highlighting works fine on my computer.<br>Also you mention that you need to include <br>&lt;add key="enableSimpleMembership" value="false" /&gt;<br>&lt;add key="autoFormsAuthentication" value="false" /&gt;<br>In the web.config, but these settings are not included when creating a new MVC 3 project. So are they really needed or did you forget to remove it ?<br></p>

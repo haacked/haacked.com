@@ -1,0 +1,5 @@
+id: dsq-747510264
+date: 2010-03-27T13:16:50.0000000-07:00
+name: Wize
+avatar: https://disqus.com/api/users/avatars/Wize.jpg
+message: "<p>I am trying to write a regular expression that will replace text but not inside of double quotes; and if there aren't any quotes, then it replaces the text<br>Example: abc \"abc\" abc<br>Replace with: def<br>Expression: (?!\")abc(?!\")<br>Result wanted: def \"abc\" def<br>Result got: def \"abc\" def<br>However, if I have: def \"z abc z\" def<br>I get: def \"z def z\" def<br>Instead of: def \"z abc z\" def<br>using: (?!\")abc(?!\")<br>I tried: (?!\"\\w*)abc(?!\\w*\")<br>but got: def \"z def z\" def<br>I am hoping to write an expression that will change:<br>abc abc (to) def def<br>abc \"abc\" abc (to) def \"abc\" def<br>abc \"z abc z\" abc (to) def \"z abc z\" def</p>"

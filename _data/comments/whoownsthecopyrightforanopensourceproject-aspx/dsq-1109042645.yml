@@ -1,0 +1,6 @@
+id: dsq-1109042645
+replyToId: dsq-1108971803
+date: 2013-11-04T16:47:08.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>One more thought. When you contribute a patch, you usually contribute it as part of the entire work, which is under an OSS license. So I think you could argue that therefore, your contribution back is under the OSS license.</p><p>Perhaps you could get around that by emailing your contribution as a patch without any of the original source code. But that is almost never done in real life.</p>

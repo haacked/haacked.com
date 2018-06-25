@@ -1,0 +1,5 @@
+id: dsq-747518834
+date: 2012-10-10T07:21:57.0000000-07:00
+name: Seval U.
+avatar: https://disqus.com/api/users/avatars/Seval U..jpg
+message: <p>In countries of non-English speakers, they have difficulties while reading English documents, requirements and problems. That is the crucial problem we have! Although my native language is Turkish, in software companies every documents and every codes are based on English. I think this causes that our reading comprehension becomes lessen. Maybe that is one of the problem.<br>Anyways, I did my own FizzBuzz in PHP (I never thought to do a recursive solution until I read the comments here)<br>&amp;lt;?php<br>for($i=1;$i&amp;lt;=100;$i++){<br>if($i%3==0) echo "Fizz";<br>if($i%5==0) echo "Buzz";<br>if(($i%3!=0)&amp;&amp;($i%5!=0)) echo $i;<br>echo "&amp;lt;br/&amp;gt;";<br>}<br>?&amp;gt;</p>

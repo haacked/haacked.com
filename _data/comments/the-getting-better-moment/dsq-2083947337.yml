@@ -1,0 +1,5 @@
+id: dsq-2083947337
+date: 2015-06-17T08:13:28.0000000-07:00
+name: Manikandan Ramachandran
+avatar: https://disqus.com/api/users/avatars/manikandanramachandran.jpg
+message: <p>Well, back in the (same old Classic ASP) days, we had a very basic set of environments.(A Dev/Test and a production) and all the code was deployed manually to the production box (by myself). :-)..</p><p>Due to my booboo in deployment, I decided to restore an older version of production database on to the SQL server during an online day.  It started restoring and then the progress bar stopped moving after a while. :-).. and stood there for ever.  By then users started phoning.. and you could guess what would have happened after that.</p><p>Didn't get fired that day.. but that surely was the getting better moment for me...</p>

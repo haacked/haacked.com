@@ -1,0 +1,5 @@
+id: dsq-747535449
+date: 2012-01-24T13:28:12.0000000-08:00
+name: Christofer
+avatar: https://disqus.com/api/users/avatars/Christofer.jpg
+message: '<p>Great post, just what I was looking for.<br>One thing though, adding your template works just fine running install.bat, it appears nicely in Visual Studio. However, when I try to create a new project using the template I get an error alert stating "The system cannot find the file specified. (Exception from HRESULT: 0x80070002)"<br>I use Visual Studio 2010 under Windows 7 64-bit.<br>Any ideas on what the reason for this error might be?<br><a href="http://MyProjectTemplate.cshtml.zip" rel="nofollow noopener" title="MyProjectTemplate.cshtml.zip">MyProjectTemplate.cshtml.zip</a> has been copied to the "C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\ProjectTemplates\CSharp\Web\1033" folder.<br>Any input would be greatly appreciated!</p>'

@@ -1,0 +1,5 @@
+id: dsq-747524586
+date: 2012-04-23T16:20:28.0000000-07:00
+name: Chris
+avatar: https://disqus.com/api/users/avatars/Chris.jpg
+message: <p>I just used it on MVC4 so yes.  But I had to just add a reference to the RouteDebug.dll to keep VS happy so my F5 works.  This is a great tool, helped me with a problem in no time.  Great work!</p>

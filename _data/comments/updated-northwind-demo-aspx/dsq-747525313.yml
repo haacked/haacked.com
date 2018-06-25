@@ -1,0 +1,5 @@
+id: dsq-747525313
+date: 2008-07-31T21:04:48.0000000-07:00
+name: Kris Krause
+avatar: https://disqus.com/api/users/avatars/Kris Krause.jpg
+message: <p>Johan,<br>You are correct.  The CanUpdateProduct and CanEditProduct unit tests fail... everything else seems to be okay.<br>For the CanUpdateProduct test you need to add:<br>formVars.Add("UnitPrice", "3.01");<br>For the CanEditProduct unit test you need to Mock the TempDataDictionary.  Apparently, this following code is not doing the job... so I need to do more research.<br>var context = new Mock&lt;httpcontextbase&gt;();<br>controller.TempData = new TempDataDictionary(context);<br><br></p>

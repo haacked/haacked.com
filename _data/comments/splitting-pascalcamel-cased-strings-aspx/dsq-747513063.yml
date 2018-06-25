@@ -1,0 +1,5 @@
+id: dsq-747513063
+date: 2005-09-24T06:29:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Chris, your solution is definitely a better approach if you have control over the enum.  But if you were doing a bind to an enum for a library, you might not have the benefit of adding attributes to it.<br><br><br><br>Kevin, I assume you mean binding to the enum is not a localizable solution.  Yes, I agree, that isn&amp;#8217;t localizable.  A localizable solution would be to use the enum value as a key into a resource file and not fiddle around with my method at all.<br><br><br><br>But if you were binding an array of enums values that are culture invariant, say an enum of proper names, then this could work.</p>

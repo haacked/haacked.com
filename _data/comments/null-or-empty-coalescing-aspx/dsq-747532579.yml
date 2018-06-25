@@ -1,0 +1,5 @@
+id: dsq-747532579
+date: 2010-06-23T23:27:36.0000000-07:00
+name: Mark Melville
+avatar: https://disqus.com/api/users/avatars/Mark Melville.jpg
+message: "<p>I was thinking along the lines of George Chakhidze's implementation.  Here's an idea of passing funcs that solves cbp's concern of not evaluating each one:<br>public static string Coalesce(params Func&lt;string&gt;[] funcs)<br>{<br>   var candidate = funcs.FirstOrDefault(s =&gt; !String.IsNullOrEmpty(s()));<br>   return candidate == null ? null : candidate();<br>}<br>called thusly:<br>string test = Coalesce(ReturnsNonNullString, DoesNotGetCalled, () =&gt; \"default value\");</p>"

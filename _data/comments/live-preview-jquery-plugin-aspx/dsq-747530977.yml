@@ -1,0 +1,5 @@
+id: dsq-747530977
+date: 2009-12-15T21:56:44.0000000-08:00
+name: Portman
+avatar: https://disqus.com/api/users/avatars/Portman.jpg
+message: '<p>Question: why did you go to the trouble of implementing a setTimeout interval to bind/unbind the keyup event? Why not just render the preview on every keyup, even if they occur more frequently than every 80ms?</p>'

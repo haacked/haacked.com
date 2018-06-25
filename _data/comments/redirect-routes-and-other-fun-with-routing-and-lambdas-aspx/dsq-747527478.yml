@@ -1,0 +1,5 @@
+id: dsq-747527478
+date: 2008-12-17T19:41:01.0000000-08:00
+name: Javier Lozano
+avatar: https://disqus.com/api/users/avatars/Javier Lozano.jpg
+message: <p>Nice post, Phil!<br>I think one thing you've uncovered in this post is to make a clear distinction that Routing is something that the MVC framework uses, rather than being tightly coupled.<br>Another cool thing about the post is to show the flexibility of code that uses Func&lt;T,R&gt; as an implementation of a command pattern.</p>

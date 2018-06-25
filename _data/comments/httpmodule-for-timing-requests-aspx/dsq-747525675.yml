@@ -1,0 +1,5 @@
+id: dsq-747525675
+date: 2010-02-20T04:57:23.0000000-08:00
+name: tecfield
+avatar: https://disqus.com/api/users/avatars/tecfield.jpg
+message: <p>There is an easier way to do this!<br>You can simply put the same code in the Global.asax file. It works perfectly and you do not need to attach an http module which chould have some overhead to your server performance.<br>DateTime.Now.Ticks &amp; Environment.Ticks do not get updated fast enough - in fact they get updated around every 1ms - to capture small fraction of time. Stopwatch is the only accurate tool that we have in .NET.</p>

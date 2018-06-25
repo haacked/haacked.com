@@ -1,0 +1,5 @@
+id: dsq-747530863
+date: 2009-12-14T01:16:57.0000000-08:00
+name: Damien Guard
+avatar: https://disqus.com/api/users/avatars/Damien Guard.jpg
+message: <p>They should be backing up the VM's as if they were real machines - i.e. connecting to their filesystems and backing up the contents - not attempting to backup the VHD's on the host.<br>[)amien</p>

@@ -1,0 +1,5 @@
+id: dsq-747517679
+date: 2006-11-18T23:26:39.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Thanks David. In the case of a dynamic query engine, then I agree with you. In fact, that is the point that I am making with this point.<br>But in the point of a stored procedure, I disagree.  For example, SQL Compact doesn't support stored procedures.  The stored procedure syntax is different among the various database engines.  So if change the schema AND are using stored procedures, you've just created multiple changes.<br>Now Rick makes the great point (which I've also made before) that you almost never need to swap out another database.  However, my discussion is focusing on the use case of Subtext, in which case we have requests for running it on MySQL, and in the future, SQL Compact.</p>

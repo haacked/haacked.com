@@ -1,0 +1,5 @@
+id: dsq-747538359
+date: 2012-09-05T06:23:08.0000000-07:00
+name: samy
+avatar: https://disqus.com/api/users/avatars/samy.jpg
+message: <p>A fun example of quotas going wrong was in a company i interned at. Bonuses were awarded to developers according to the number of bugs they fixed. The system was promptly gamed by devs leaving bogus bugs in their code, in order to fix them very easily before review time.<br>var stuff = theCorrectValue;<br>// DELETE NEXT LINE TO CORRECT BUG<br>stuff += 1;<br>return stuff;</p>

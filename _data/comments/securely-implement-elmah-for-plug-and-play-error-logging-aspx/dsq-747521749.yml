@@ -1,0 +1,5 @@
+id: dsq-747521749
+date: 2010-10-31T02:38:33.0000000-07:00
+name: Rick
+avatar: https://disqus.com/api/users/avatars/Rick.jpg
+message: <p>@Hacked - Really worthful, I have a problem while imlement Elmah, I have gone through this post and discussion and I got the solution.<br>You wrote in above how to get a folder specific Elmah.axd file denying all anonymous users.<br>But, my question is what about  those who are not using form authentication and just using Custom-Authentication, Authenticate site visitors by Sessions etc. By allowing all registered members mean to invite any one who is registered with site.<br>I am sure, you already have the solution for this.<br>One more thing apart from Error Logging - I need to implement Routing or Url-Rewritting in my <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> 3.5 / <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> 4.0 application. Is there any such tool like Elmah?</p>

@@ -1,0 +1,5 @@
+id: dsq-851107954
+date: 2013-04-03T13:11:03.0000000-07:00
+name: Sergey Teplyakov
+avatar: https://disqus.com/api/users/avatars/google-7a960b5a95d51a17d615765dbe944f8c.jpg
+message: "<p>Hi, Phil. Thanks for the great post!</p><p>I think you can slightly simplify your code and remove that \"return null\" at the bottom of the ThrowsAsync method.</p><p>You can change signature from Task&lt;t&gt; (that is Task&lt;exception&gt; to Task):</p><p>public async static Task ThrowsAsync&lt;t&gt;(Func&lt;task&gt; testCode)<br>  where T : Exception<br>{<br>  try<br>  {<br>    await testCode();<br>    Assert.Throws&lt;t&gt;(() =&gt; { }); // Use xUnit's default behavior.<br>  }<br>  catch (T) {}<br>}</p><p>The idea is the same, but we actually don't need that exception inside the Task.</p>"

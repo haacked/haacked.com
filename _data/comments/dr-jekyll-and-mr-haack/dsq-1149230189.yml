@@ -1,0 +1,5 @@
+id: dsq-1149230189
+date: 2013-12-03T12:08:33.0000000-08:00
+name: Travis Illig
+avatar: https://disqus.com/api/users/avatars/tillig.jpg
+message: <p>I've actually been considering this exact approach. The only thing I haven't really figured out is how to nicely handle the redirect from old URLs (/archive/blah/something.aspx) to the new ones without extensions (/archive/blah/something/). I've seen some meta redirect stuff combined with JavaScript but... UGH.</p><p>How did you handle redirects?</p>

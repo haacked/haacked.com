@@ -1,0 +1,5 @@
+id: dsq-747526711
+date: 2009-02-01T21:24:50.0000000-08:00
+name: Alex Scordellis
+avatar: https://disqus.com/api/users/avatars/Alex Scordellis.jpg
+message: "<p>Phil,<br>I'm wondering why each version of MVC (Preview n, Beta, RC) has the same assembly version: 1.0.0.0. As I understand it, this means that if either Beta or RC is in the GAC, no web app on that system can run the other version. <br>The way it is now, either all projects on a server have to use the same GAC deployed version, or they all have to bin-deploy. If they were different versions, I think we'd be able to bind to specific versions for each app.<br>Cheers,<br>Alex</p>"

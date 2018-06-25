@@ -1,0 +1,5 @@
+id: dsq-747525260
+date: 2008-09-16T21:21:11.0000000-07:00
+name: dkarantonis
+avatar: https://disqus.com/api/users/avatars/dkarantonis.jpg
+message: "<p>Hi Phil,<br>where exactly do you put the routing code in order for all pages to follow the same rule?<br>Also, you mention that you could avoid query string url's, by passing parameters to the page via RouteData. Could you provide a link to an example demonstrating the way to implement it?<br>Is it possible to use routing in order to point to different urls based on selected language? For example: routes.Map(\"forms/{whatever}.aspx\").To(\"~/{language}-{locale}/forms/{whatever}.aspx\");<br>thanks in advance</p>"

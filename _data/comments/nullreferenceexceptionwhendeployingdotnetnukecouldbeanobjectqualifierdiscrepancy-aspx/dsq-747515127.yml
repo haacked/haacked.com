@@ -1,0 +1,5 @@
+id: dsq-747515127
+date: 2006-05-19T06:20:00.0000000-07:00
+name: Cathal
+avatar: https://disqus.com/api/users/avatars/Cathal.jpg
+message: <p>the development.config file is the one the coreteam use to test corecode and modules. The main differences between it and release.config is that development.config uses an objectqualifier (as you've noticed), so we can ensure that all sql script's are correct, and that the trust level is set to medium, so we can test partial trust environments.</p>

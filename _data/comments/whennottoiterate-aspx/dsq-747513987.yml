@@ -1,0 +1,5 @@
+id: dsq-747513987
+date: 2006-02-01T23:28:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>What do you mean by skeleton report?  A mockup that shows what we're going to calculate?  That wouldn't have helped in this situation.  We can build a mockup that shows a nice number, but may not be based in reality.<br><br><br><br>We'd would need to have built a report that actually used real data (or sample data as close to real as possible).  That could be a skeleton report (no formatting) for sure.  <br><br><br><br>But to build that skeleton report, we need to look at all the data and figure out how to do the calculation.  That's up front analysis.<br><br><br><br>Instead, we went along building all sorts of things, saving this report iteration for last.  Figuring that we'd have all the data in the system and be able to create the report.  We were wrong.</p>

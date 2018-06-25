@@ -1,0 +1,5 @@
+id: dsq-1190382165
+date: 2014-01-07T04:26:45.0000000-08:00
+name: Ed Courtenay
+avatar: https://disqus.com/api/users/avatars/edcourtenay.jpg
+message: <p>TypeScript gets it right; you can define an interface, and require that a method takes an instance of that interface as a parameter, but the instance passed in does not have to be explicitly derived from that interface - it only has to implement the 'shape' of the interface.</p>

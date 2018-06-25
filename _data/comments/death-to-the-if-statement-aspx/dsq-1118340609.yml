@@ -1,0 +1,5 @@
+id: dsq-1118340609
+date: 2013-11-11T10:05:45.0000000-08:00
+name: OldTimerSteve
+avatar: https://disqus.com/api/users/avatars/oldtimersteve.jpg
+message: <p>Interesting discussion. I'd vote for the clarity of the "if" - except that in C# in particular the whole exercise is moot. Arrays are initialized to "0" by default and can be reset using Array.Clear. This is a simple mem op with little overhead. Also, once the compiler gets at it the "if" structure is optimized and runs like lightning too - moreover, iterative "if", "while" "for" and "foreach" structures all resolve to similar machine code, as does the enumerator of IEnumerable. Come to think of it, so does moving all zeroes to a chunk of memory. Initialize the array to zero, and use whatever you like - but for gosh sake make it understandable to the next developer who needs to read it.</p>

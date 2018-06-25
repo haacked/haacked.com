@@ -1,0 +1,5 @@
+id: dsq-747519538
+date: 2007-04-14T00:45:49.0000000-07:00
+name: Jennifer Smith
+avatar: https://disqus.com/api/users/avatars/Jennifer Smith.jpg
+message: '<p>I think this is slightly similar to some of the following solutions, but here goes:<br>1. Add a bit field called "IsNegativeTrend" to the Statistic table (1 for Deaths per LOC, 0 for all the previous measures) (or you could default it)<br>2. In the Statistics_GetForDeveloper SP, calculate the trend factor as:<br> TrendFactor = (CurrentScore - PreviousScore)/mc.MeasurementCount * POWER(-1, s.IsNegativeTrend)<br>OK so this is much the same as storing -1/ 1 in the Statistic table. But I reckon storing a simple bit field makes the Statistic field a bit more readable: someone adding another statistic later on will have a better idea of what the column means. <br>Of course, the trend calculation is a tiny bit more complicated but you could always add the multiplier as  calculated column if you felt like it! I am pretty sure SQL server would do some optimisation as well.<br><br></p>'

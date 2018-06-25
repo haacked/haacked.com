@@ -1,0 +1,5 @@
+id: dsq-747508757
+date: 2005-05-23T15:55:00.0000000-07:00
+name: Berz
+avatar: https://disqus.com/api/users/avatars/Berz.jpg
+message: <p>Thanks for the information in this thread. I've got some big datasets and some smaller. I'm going to replace the small dataqueries with the NEWID() function.<br><br><br><br>For the large ones (aprox 100.000 rows) I'm still using the old version wrapped in a loop till I get a result.. I think from this thread that NEWID() might be to heavy?<br><br><br><br>SELECT galleryPk FROM gallery<br><br>WHERE galleryPk &lt;= <br><br>(SELECT RAND()*(MAX(galleryPk)-MIN(galleryPk))+MIN(galleryPk) FROM gallery)</p>

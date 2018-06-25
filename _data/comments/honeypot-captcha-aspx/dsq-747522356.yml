@@ -1,0 +1,5 @@
+id: dsq-747522356
+date: 2007-09-10T20:57:33.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Mads, people with a screenreader won't see the input. They might <em>hear</em> it, but as far as I know, many screen readers read the rendered text from a browser. So if the browser doesn't display it, not sure why the screen reader would read it.<br>But just in case, the label clearly tells the user not to type anything into the field. In that situation, it effectively becomes a simple visual/aural CAPTCHA.<br>In the Subkismet control, I make sure to render that label.</p>

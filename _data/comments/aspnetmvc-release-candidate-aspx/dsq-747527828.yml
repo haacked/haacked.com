@@ -1,0 +1,5 @@
+id: dsq-747527828
+date: 2009-04-03T19:09:34.0000000-07:00
+name: VB Helper
+avatar: https://disqus.com/api/users/avatars/VB Helper.jpg
+message: <p>Hi,<br>What is the VB version of this one?<br>&lt;% using (Ajax.BeginForm("Contact", "Home", new AjaxOptions { UpdateTargetId = "contact_modal", OnSuccess = "registerEvents", LoadingElementId = "contact_ajaxicon" }))<br>{ %&gt;<br>Dave ask about this above (not the vb version), but seems like ajaxing a form won't do. :(<br><br>cheers,</p>

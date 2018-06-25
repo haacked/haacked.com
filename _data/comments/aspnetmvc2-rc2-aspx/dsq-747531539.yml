@@ -1,0 +1,5 @@
+id: dsq-747531539
+date: 2010-02-04T11:46:06.0000000-08:00
+name: Martin Aatmaa
+avatar: https://disqus.com/api/users/avatars/Martin Aatmaa.jpg
+message: <p>Hi Phil,<br>From the release notes:<br>"Note   Because Visual Studio 2008 and Visual Studio 2010 RC share a component of ASP.NET MVC 2, installing the ASP.NET MVC 2 RC 2 release on a computer where Visual Studio 2010 RC is also installed is not supported."<br>A similar type of restriction existed in the RC1 release and VS 2010 Beta2.<br>Assuming I want to run VS 2010 RC with ASP.NET MVC2 RC2, and am OK with giving up the VS MVC tooling support, what process would I need to follow in order to make this work?</p>

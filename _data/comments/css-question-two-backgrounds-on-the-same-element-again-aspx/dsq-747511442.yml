@@ -1,0 +1,5 @@
+id: dsq-747511442
+date: 2010-10-01T03:09:07.0000000-07:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: '<p>Why not just put both images back in the background declaration, just as you can define multiple element declarations in CSS with a comma, you can do the same with the images and params.<br>.example_with_two_images<br>{<br>    background-image: url(leftBorder.gif), url(rightBorder.gif);<br>    background-repeat: repeat-y;<br>    background-position: left, right;<br>}</p>'

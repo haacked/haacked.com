@@ -1,0 +1,5 @@
+id: dsq-747525104
+date: 2008-07-08T04:26:32.0000000-07:00
+name: Nick Berardi
+avatar: https://disqus.com/api/users/avatars/nberardi.jpg
+message: <p>Thanks for this.<br>Just one bug I found.<br>this.routes.GetRouteData(context.Object);<br>should be<br>route.GetRouteData(context.Object);</p>

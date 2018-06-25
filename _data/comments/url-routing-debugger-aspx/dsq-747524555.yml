@@ -1,0 +1,5 @@
+id: dsq-747524555
+date: 2010-10-16T22:39:58.0000000-07:00
+name: Simon
+avatar: https://disqus.com/api/users/avatars/Simon.jpg
+message: "<p>Hi i wonder if anyone could help an ASP MVC Noob.<br>I'm coming from a CakePhP background so totally understand the MVC concept, just not the ASP syntax etc (which i'm learning).<br>1)<br>I've setup a basic C# MVC Application in VS2010 - MvcApplication1 for testing.<br>I downloaded the RouteDebug.dll and dropped it into the bin directory (curiously the bin directory doesn't show in the Solution Explorer)<br>Added: RouteDebug.RouteDebugger.RewriteRoutesForTesting(RouteTable.Routes); to the Application_Start method in Global.asax but RouteDebug is highlighted as not existing in current context. What have i missed?<br>2)<br>Another question regarding Routing, is it posible to apply regex to actions when adding a route, so the route only matches if the action is (edit|create|delete) for example.<br>Many Thanks<br></p>"

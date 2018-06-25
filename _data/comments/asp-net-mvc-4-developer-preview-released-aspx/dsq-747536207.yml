@@ -1,0 +1,5 @@
+id: dsq-747536207
+date: 2012-01-25T18:12:59.0000000-08:00
+name: Nestor Lopez
+avatar: https://disqus.com/api/users/avatars/Nestor Lopez.jpg
+message: <p>I agree, the pace of releases is too fast. I know this is a "tradition" of MVC development team, but it is not a good one. In the development of medium to big applications, one to three years of work are commonplace. We choose to develop in MVC 3 a few month ago (just released), by the time we can deploy the first modules to the customer, the application will be based on an obsolete platform. That hurts us commercialy, not only technically. Take a look at the Android controversy about fragmentation and the efforts to put the platform under control again. In any other aspect, MVC is by far the most amazing framework we have been able to use and enjoy. <br></p>

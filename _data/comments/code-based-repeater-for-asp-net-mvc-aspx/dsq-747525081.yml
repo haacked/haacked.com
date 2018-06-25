@@ -1,0 +1,5 @@
+id: dsq-747525081
+date: 2010-09-02T12:37:24.0000000-07:00
+name: Jay S
+avatar: https://disqus.com/api/users/avatars/Jay S.jpg
+message: <p>Delegating styling to JQ is retrograde. It is suboptimal in the context of maintainability if it is a particularly large project. Basically we have part of the styling happening in the server-side view and partly in the client-side JQ.</p>

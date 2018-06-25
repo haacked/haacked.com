@@ -1,0 +1,5 @@
+id: dsq-747534214
+date: 2011-01-16T22:08:46.0000000-08:00
+name: counsellorben
+avatar: https://disqus.com/api/users/avatars/counsellorben.jpg
+message: '<p>@dotnetstep,<br>1.  Conditional validation.  Yes, you can create your own client and server side conditional validators.<br>2.  Validation groups.  Here is a link to a great tip to create "validation groups" using the jquery.validate library which powers MVC 3 unobtrusive validation:  <a href="http://encosia.com/2009/11/24/asp-net-webforms-validation-groups-with-jquery-validation/" rel="nofollow noopener" title="http://encosia.com/2009/11/24/asp-net-webforms-validation-groups-with-jquery-validation/">http://encosia.com/2009/11/24/asp-net-webforms-validation-groups-with-jquery-validation/</a><br>counsellorben</p>'

@@ -1,0 +1,5 @@
+id: dsq-747535192
+date: 2011-09-16T12:53:55.0000000-07:00
+name: Dan M
+avatar: https://disqus.com/api/users/avatars/devuxer.jpg
+message: <p>Hi Phil, This solution didn't work for me (I encountered this problem even though I was already using the revised/fixed template). I needed to do &lt;BaseIntermediateOutputPath&gt;[SomeKnownLocationIHaveAccessTo]&lt;/BaseIntermediateOutputPath&gt;. Any idea why that might be? Could it be that I have my WebProjectOutputDir set incorrectly?</p>

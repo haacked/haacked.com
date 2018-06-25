@@ -1,0 +1,5 @@
+id: dsq-747521733
+date: 2007-11-23T10:23:08.0000000-08:00
+name: Rick
+avatar: https://disqus.com/api/users/avatars/Rick.jpg
+message: <p>OK, I made it work.  <br>In the demo program, the handler references 'path="/admin/elmah.axd"'.  For this to work in my application, it has to be 'path="admin/elmah.axd"' (i.e. no leading slash).  <br>I don't understand why one program uses the leading slash and the other does not.</p>

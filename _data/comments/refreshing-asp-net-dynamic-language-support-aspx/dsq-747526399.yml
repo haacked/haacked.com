@@ -1,0 +1,5 @@
+id: dsq-747526399
+date: 2008-09-23T22:16:40.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@SoftMind Yep, the release is focused on the ASP.NET runtime. Using IronPython and IronRuby in the controllers and models will be coming in the future. Be sure to check out the <a href="http://www.codeplex.com/aspnet/Wiki/View.aspx?title=DLS%20Road%20Map&amp;referringTitle=Dynamic%20Language%20Support" rel="nofollow noopener" title="Roadmap">Roadmap for more details</a>.</p>

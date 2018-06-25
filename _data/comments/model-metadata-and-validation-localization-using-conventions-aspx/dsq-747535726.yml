@@ -1,0 +1,5 @@
+id: dsq-747535726
+date: 2011-09-21T18:35:53.0000000-07:00
+name: nacho10f
+avatar: https://disqus.com/api/users/avatars/nacho10f.jpg
+message: <p>Hey Phil, the change proposed by Brett here and mgulmez on bitbucket is necessary otherwise errors with set up keys with the format Property_Name_Required never get picked.. I have made a comment with more specifics on the bug report on bibucket.</p>

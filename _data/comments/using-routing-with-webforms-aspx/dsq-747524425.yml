@@ -1,0 +1,5 @@
+id: dsq-747524425
+date: 2008-09-10T21:37:09.0000000-07:00
+name: Marco
+avatar: https://disqus.com/api/users/avatars/Marco.jpg
+message: <p>Hi Phil,<br>I've tried to use this and adapted it for Codeplex MVC Preview 5, but it doesn't work anymore. Registering routes works fine, but route.GetVirtualPath() returns null everytime. Are there any breaking changes in this method?<br>The only change I've made on your sample code is replacing the constructor of HttpContextWrapper2 with that one of HttpContextWrapper because the HttpContextWrapper class doesn't exist anymore (in RoutablePage class).<br>Thanks,<br>Marco</p>

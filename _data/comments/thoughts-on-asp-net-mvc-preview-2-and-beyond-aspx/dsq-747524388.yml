@@ -1,0 +1,5 @@
+id: dsq-747524388
+date: 2008-03-21T18:01:37.0000000-07:00
+name: Rainer
+avatar: https://disqus.com/api/users/avatars/Rainer.jpg
+message: <p>Hi,<br>I tried the new MVC release. Looks awesome. But I can't get the new MediaPlayer getting to work with the MVC approach (missing ScriptManager, which needs a form runat server). Because that would be the complete opposite of MVC, I can't see you you guys want to get that running. Are there any plans?<br>Thanks, Rainer</p>

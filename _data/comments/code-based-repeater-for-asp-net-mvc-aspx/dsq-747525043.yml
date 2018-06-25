@@ -1,0 +1,5 @@
+id: dsq-747525043
+date: 2008-05-05T06:48:24.0000000-07:00
+name: Steven Harman
+avatar: https://disqus.com/api/users/avatars/stevenharman.jpg
+message: <p><strong>@mario</strong>, Don't forget that much of the <em>spaghetti</em> from the old ASP days was about mixing many concerns together into a big, messy, opaque ball of... well of spaghetti. The idea of adapting a pattern like MVC for the web is to help developers fall into the pit of success by making doing the right thing, keeping those concerns separated and in their own space, is the easy thing to do.<br>So while I'd agree with several other commenters that this might not be the best use of lambdas and is probably too much ceremony for a simple looping construct, its still all presentation logic. And as such, keeping it in the View is perfectly valid.<br>Btw... I'm on board with the idea of having a strong templating engine. Have you looked at how rhtml, NVelocity, or Brail do things?</p>

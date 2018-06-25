@@ -1,0 +1,5 @@
+id: dsq-1942222502
+date: 2015-04-02T09:34:05.0000000-07:00
+name: Ejaz Qadir
+avatar: https://disqus.com/api/users/avatars/ejazqadir.jpg
+message: <p>hi, my view form contains a start date (one field only) and dynamically generated list of arrival date and times. how can i bind the view page to post method. i will be receiving one start date entry and say 30 entries for arrival date.</p>

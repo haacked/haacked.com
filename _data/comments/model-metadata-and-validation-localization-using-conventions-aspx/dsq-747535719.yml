@@ -1,0 +1,5 @@
+id: dsq-747535719
+date: 2011-08-30T12:55:50.0000000-07:00
+name: Neroken
+avatar: https://disqus.com/api/users/avatars/Neroken.jpg
+message: <p>I found the problem.<br>The way the demo site is setup makes it that the validation errors don't work.<br>The CurrentCulture is set after datamodelbinder is invoked.<br>If you add the next method to the controller it will work.<br>protected override void ExecuteCore()<br>{<br>   string culture = Request["culture"];<br>   if (!string.IsNullOrEmpty(culture))<br>   {<br>      Thread.CurrentThread.CurrentCulture = <br>                        CultureInfo.CreateSpecificCulture(culture);<br>      Thread.CurrentThread.CurrentUICulture = <br>                        CultureInfo.CreateSpecificCulture(culture);<br>   }<br>   base.ExecuteCore();<br>}</p>

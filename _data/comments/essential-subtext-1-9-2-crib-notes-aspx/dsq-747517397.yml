@@ -1,0 +1,5 @@
+id: dsq-747517397
+date: 2006-10-25T22:02:45.0000000-07:00
+name: Steven Harman
+avatar: https://disqus.com/api/users/avatars/stevenharman.jpg
+message: "<p><strong>@David</strong>: I just checked and it looks like the \"Source\" download on the SourceForge site is in fact the same as the \"Install\" download. That is - it doesn't actually contain the full source.<br>My guess is Phil was tired when packaging the release last night... but we'll get this fixed. For now, just grab the install files <a href=\"http://stevenharman.net/code/Subtext/Subtext_1.9.2_InstallScripts.zip\" rel=\"nofollow noopener\" title=\"http://stevenharman.net/code/Subtext/Subtext_1.9.2_InstallScripts.zip\">here</a>.<br>NOTE: You'll still need to change the files to be Case Sensitive - and if you could submit a patch with the changes, that would be AWESOME!<br>Thanks!</p>"

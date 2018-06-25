@@ -1,0 +1,5 @@
+id: dsq-1280309176
+date: 2014-03-11T11:21:55.0000000-07:00
+name: Wes Higbee
+avatar: https://disqus.com/api/users/avatars/weshigbee.jpg
+message: <p>Awesome post to call out this hidden gem, I wrote a few posts last year where I used this if people want to see another example:</p><p><a href="http://devblog.wesmcclure.com/posts/reactive-benefits-with-commodity-option-barrier-events-part-2-testing" rel="nofollow noopener" title="http://devblog.wesmcclure.com/posts/reactive-benefits-with-commodity-option-barrier-events-part-2-testing">http://devblog.wesmcclure.c...</a></p><p>Also, I really like using async/await to simplify capturing the observed values, this was from an integration testing perspective so I wasn't controlling time explicitly, though that would plugin nicely:</p><p><a href="http://devblog.wesmcclure.com/posts/csharp-asyncawait-makes-reactive-testing-expressive" rel="nofollow noopener" title="http://devblog.wesmcclure.com/posts/csharp-asyncawait-makes-reactive-testing-expressive">http://devblog.wesmcclure.c...</a></p>

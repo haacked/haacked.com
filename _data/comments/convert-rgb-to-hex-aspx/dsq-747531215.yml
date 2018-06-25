@@ -1,0 +1,5 @@
+id: dsq-747531215
+date: 2010-01-01T00:52:03.0000000-08:00
+name: Doeke
+avatar: https://disqus.com/api/users/avatars/Doeke.jpg
+message: <p>I would also add some optional whitespace to the regex:<br><code>/(.*?)rgb\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)/</code></p>

@@ -1,0 +1,5 @@
+id: dsq-747532531
+date: 2010-06-15T17:58:24.0000000-07:00
+name: Tuomas Hietanen
+avatar: https://disqus.com/api/users/avatars/Tuomas Hietanen.jpg
+message: '<p>Hi!<br>Better solution than use null or zero count, is to use "Special Case" -pattern (Fowler PoEAA). In C# there is already a Microsoft .NET Framework implementation of it: Enumerable.Empty.<br>var myEmptyList = Enumerable.Empty&lt;T&gt;();<br>In F# you can use the option type.<br></p>'

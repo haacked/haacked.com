@@ -1,0 +1,5 @@
+id: dsq-747524451
+date: 2009-04-02T07:41:16.0000000-07:00
+name: Mitch
+avatar: https://disqus.com/api/users/avatars/Mitch.jpg
+message: <p>Has anybody tried using routing with native iis7 output caching. It has a setting for varyByQueryString but since the qs is not changing, a page like /product/1 and /product/2 mapped to product.aspx would return the same thing?<br>Great artice. Thanks,<br></p>

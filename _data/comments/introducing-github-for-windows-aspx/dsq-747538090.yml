@@ -1,0 +1,5 @@
+id: dsq-747538090
+date: 2012-06-04T17:55:04.0000000-07:00
+name: Steven Hancock
+avatar: https://disqus.com/api/users/avatars/Steven Hancock.jpg
+message: <p>I rarely use Windows anymore, but I actually booted my Linux box into Windows 7 to give this a try. :)<br>Could it use a little polish? Sure.. but it's not bad. It only took me a couple minutes to get up and running on a Windows 7 PC that literally only had Angry Birds and Starcraft installed (yes, I admit it, the few games I play are the reason I still keep a Windows partition around).<br>Integration with Visual Studio would be nice.. but I'm curious about something else. Does it play well with other MSYS environments? More specifically, the MSYS "devkit" environments for RubyInstaller/RailsInstaller? On the rare occasions that I do boot into Windows, it would be really awesome to be able to work with Git and Rails (including building C extensions for gems) using GH4W and my choice of PowerShell or bash. :)</p>

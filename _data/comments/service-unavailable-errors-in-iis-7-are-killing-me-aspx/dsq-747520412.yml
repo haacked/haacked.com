@@ -1,0 +1,5 @@
+id: dsq-747520412
+date: 2012-09-10T19:31:26.0000000-07:00
+name: full suppend
+avatar: https://disqus.com/api/users/avatars/full suppend.jpg
+message: <p>Thanks to Dazx. I followed his advice. I went to IIS Manager and noticed that my DefaultAppPool is stopped. So I clicked Start and voila! It solved it!  I remember installing Zend Server and I guess that installation was the culprit.</p>

@@ -1,0 +1,5 @@
+id: dsq-747526323
+date: 2010-01-31T09:59:13.0000000-08:00
+name: Dave
+avatar: https://disqus.com/api/users/avatars/Dave.jpg
+message: <p>Why doesn't it respect the controller name  in the lookup for the action.<br>If you have a base controller with common actions you cannot override any of these actions from derived controllers.<br>you get the ambiguous action methods error?<br><br></p>

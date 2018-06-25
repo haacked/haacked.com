@@ -1,0 +1,5 @@
+id: dsq-747509314
+date: 2005-02-11T06:15:00.0000000-08:00
+name: Jesse Houwing
+avatar: https://disqus.com/api/users/avatars/Jesse Houwing.jpg
+message: "<p>I disliked the slow and in my eyes ugly code completionwindow aswell. I got this reply from one of the resharper people:<br><br><br><br>- re-enable VS completion through Tools/Options/TextEditor/C#; you may stop after this just to see what you will loose if you proceed, but two completion lists are not nice, three lists are not too;<br><br>- uncheck boxes regulating completion list auto-popup in ReSharper/Options/Code Completion; I'd recommend to stop here: you'll get VS completion, but Ctrl+Space will toggle ReSharper code completion;<br><br>- remap ReSharper.CompleteCode command in Tools/Options/Environment/Keyboard to a shortcut different from Ctrl+Space and map VS Complete Co&amp;de to Ctrl+Space instead.</p>"

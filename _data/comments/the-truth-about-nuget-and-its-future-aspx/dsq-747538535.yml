@@ -1,0 +1,5 @@
+id: dsq-747538535
+date: 2012-10-24T17:21:20.0000000-07:00
+name: Chris Eldredge
+avatar: https://disqus.com/api/users/avatars/chriseldredge.jpg
+message: "<p>@John Watson: It seems like the vast majority of NuGet users are package consumers and only a small number of us are using it internally to produce and consume packages of non-public software. For those who want private feeds, TeamCity and <a href=\"http://MyGet.org\" rel=\"nofollow noopener\" title=\"MyGet.org\">MyGet.org</a> seem to be the most commonly used.<br>I've been working on a fork of NuGet.Server that I think performs really well even with 10,000 or more packages. You can get a zip of my fork from <a href=\"https://github.com/themotleyfool/NuGet/downloads\" rel=\"nofollow noopener\" title=\"https://github.com/themotleyfool/NuGet/downloads\">https://github.com/themotleyfool/NuGet/downloads</a>.</p>"

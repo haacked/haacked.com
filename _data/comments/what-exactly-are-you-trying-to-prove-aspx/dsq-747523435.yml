@@ -1,0 +1,5 @@
+id: dsq-747523435
+date: 2007-11-20T16:06:14.0000000-08:00
+name: joe
+avatar: https://disqus.com/api/users/avatars/joe.jpg
+message: <p>Many of these comments appear to be from the 1990's, I thought these arguments were long gone.<br>No one promised TDD would produce faultless software.<br>It's blatantly obvious a bad developer can write a million test scripts and still release bad code; rather - all things being equal, the code quality improves with TDD.<br>"Prove your algorithms" is meaningless in business software - even in financial applications it is through testing that the specification evolves – the spec is almost never finished in a real business application. <br>A method that encourages you to think about the code you are writing, despite the impending deadline, is useful and will lead to better business applications.<br>Which leads us back to Phil’s MVC - if this helps with TDD then I look forward to it. Stop wasting time replying to Frans and get it released! :)<br>While I respect the guys who put NUnitAsp together, this isn’t the answer, perhaps MVC is…<br></p>

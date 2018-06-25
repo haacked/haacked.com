@@ -1,0 +1,5 @@
+id: dsq-747528182
+date: 2009-03-04T02:31:56.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@mh415 I sent Jim an email and asked him to update it.<br>@rainbow, @myjunc RTM should be soon, assuming there are no major bugs found with RC 2.<br>@AlexDuggleby thanks! I fixed it.<br>@HB I think PowerCommands only interferes with the installation, if I remember correctly. So after you install MVC, you should be able to re-enable power commands.\<br>@Craig Stuntz Our code doesn't take any dependencies on jQuery. When you upgrade jQuery, you'll need to look at their release notes to find out what changes are necessary. As far as I know, jQuery 1.3.2 is mostly back-compat with 1.2.6.<br>@Lyle we do have some minimal test suites with Azure and it should work fine. If it crashes for you, there's a <a href="http://blogs.msdn.com/jnak/archive/2009/02/26/fix-available-asp-net-mvc-rc-crash-in-a-windows-azure-cloud-service-project.aspx" rel="nofollow noopener" title="Hotfix">CLR hotfix available</a>.<br>@Cassio, I think we fixed that. Let us know if it still fails.</p>

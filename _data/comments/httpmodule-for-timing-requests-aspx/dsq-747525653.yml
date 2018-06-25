@@ -1,0 +1,5 @@
+id: dsq-747525653
+date: 2008-07-02T05:10:15.0000000-07:00
+name: Meisinger
+avatar: https://disqus.com/api/users/avatars/Meisinger.jpg
+message: <p>@Travis...<br>Try checking the content type in the Response of the HttpContext<br>If I remember correctly AJAX or XmlHttpRequests should change the content type to something like "text/javascript" or simply "text" where as a normal request would be "text/html" (i might have the switches the wrong way but... you get the point)<br>If you see that the content type isn't "text/html" then you would skip the Response.Write method call<br>--example in OnEndRequest<br>if(HttpContext.Current.Response.ContentType == "text/html"){<br> Response.Write("</p><p>" + elapsedTime + "</p><p>");<br>}<br>I wonder if you could also check the Request during BeginRequest to gain some insight into the call... don't know<br>The problem you are seeing is caused by the Response.Write adding the message in a non "JSON" format.<br>hope that helps</p>

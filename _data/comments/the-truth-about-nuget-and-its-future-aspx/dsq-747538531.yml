@@ -1,0 +1,5 @@
+id: dsq-747538531
+date: 2012-10-24T12:55:50.0000000-07:00
+name: Steffen Forkmann
+avatar: https://disqus.com/api/users/avatars/Steffen Forkmann.jpg
+message: "<p>Hi,<br>from <a href=\"http://docs.nuget.org/docs/contribute/Setting-up-the-NuGet-Development-Environment\" rel=\"nofollow noopener\" title=\"http://docs.nuget.org/docs/contribute/Setting-up-the-NuGet-Development-Environment\">docs.nuget.org/...</a> : \"Download and install the Visual Studio 2010 SDK\"<br>If I need to install the VS SDK in order to build nuget then I think it's fair to say \"NuGet is tied to Visual Studio\". <br>Cheers,<br>Steffen</p>"

@@ -1,0 +1,5 @@
+id: dsq-747527657
+date: 2011-09-08T06:55:11.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Patrick very interesting. For email templates, I wonder if <a href="http://nuget.org/List/Packages/MvcMailer" rel="nofollow noopener" title="http://nuget.org/List/Packages/MvcMailer">MvcMailer</a> wouldn't also be a good choice. It lets you use Razor syntax.</p>

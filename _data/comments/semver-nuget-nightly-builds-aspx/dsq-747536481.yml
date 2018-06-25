@@ -1,0 +1,5 @@
+id: dsq-747536481
+date: 2012-02-07T06:19:09.0000000-08:00
+name: Jakub Konecki
+avatar: https://disqus.com/api/users/avatars/Jakub Konecki.jpg
+message: <p>I wonder if someone could answer my question on SO:<br><a href="http://stackoverflow.com/questions/9162308/can-prerelease-nuget-packages-be-displayed-in-vs-package-manager-ui" rel="nofollow noopener" title="http://stackoverflow.com/questions/9162308/can-prerelease-nuget-packages-be-displayed-in-vs-package-manager-ui">stackoverflow.com/...</a><br>I'm using a custom NuGet feed for deploying own NuGet packages. I'm using semver so my CI server is generating a deploying new prerelease packages on every build. Those prerelease packages are obviously not visible by default in Package Manager.<br>Is there a way to specify on package / feed / global level that prerelease packages should appear under Updates tab in Package Manager?<br>If I install a prerelease package by for example editing packages.config file my package is clearly marked in Package Manager with red 'Prerelease' label, so the manager understands versioning properly.<br></p>

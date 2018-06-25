@@ -1,0 +1,5 @@
+id: dsq-827049229
+date: 2013-03-12T12:05:16.0000000-07:00
+name: Pavel Gritsai
+avatar: https://disqus.com/api/users/avatars/facebook-787863508.jpg
+message: <p> Nice post! I have one note though, while your PR idea seems useful, in my opinion it can be better substituted with acceptance criteria (AC). There is no particular reason to wait until code is written to list down the AC (even using the format you used for PR) - in my team we are trying to do them in a "grooming" stage for each user story. Having all scenarios to be supported by a work item is helpful to have when developing (it makes sure dev doesn't forget about the specific thing, which may not align well with a chosen design - and result in a better design choice at the early stage).<br>Also AC are helpful to improve an estimation quality. </p>

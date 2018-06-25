@@ -1,0 +1,6 @@
+id: dsq-1117035952
+replyToId: dsq-1115949834
+date: 2013-11-10T12:25:43.0000000-08:00
+name: Marcel Popescu
+avatar: https://disqus.com/api/users/avatars/marcelpopescu.jpg
+message: <p>This. "Concatenate the initial array with a list of zeroes, take the first n elements of the result" is at a higher level of abstraction than if/for.</p><p>The most well-known example of a declarative language is, I think, SQL. SELECT * FROM Employees WHERE ManagerId = 5 is much, much easier to understand *and maintain* than a for loop with an if statement inside it would be.</p>

@@ -1,0 +1,5 @@
+id: dsq-747526267
+date: 2008-09-01T03:20:14.0000000-07:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>What happened to the ActionLink&lt;&gt; ?<br>This was, I thought, done rather well - using Lamba expressions, etc..<br>Is this gone now?<br>ie. this is what I had before:<br>&lt;%= Html.ActionLink&lt;mycontroller&gt;(c =&gt; c.DoSomething(), "DoSomething", new { Target = "_blank" })%&gt;<br>Worked great - not sure the reason for this new change that doesn't seem to support this?<br></p>

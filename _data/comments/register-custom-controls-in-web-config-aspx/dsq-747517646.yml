@@ -1,0 +1,5 @@
+id: dsq-747517646
+date: 2006-12-02T15:12:56.0000000-08:00
+name: Cyokin
+avatar: https://disqus.com/api/users/avatars/Cyokin.jpg
+message: <p>&lt;pages&gt;<br>      &lt;controls&gt;<br>        &lt;add tagPrefix="miles" src="~/Controls/Header.ascx" tagName="header"/&gt;<br>        &lt;add tagPrefix="miles" src="~/Controls/Footer.ascx" tagName="footer"/&gt;<br>      &lt;/controls&gt;<br>&lt;/pages&gt;</p>

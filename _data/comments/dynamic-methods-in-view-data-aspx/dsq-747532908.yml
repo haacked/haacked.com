@@ -1,0 +1,5 @@
+id: dsq-747532908
+date: 2010-08-06T06:14:30.0000000-07:00
+name: jmorris
+avatar: https://disqus.com/api/users/avatars/jmorris.jpg
+message: <p>I second (or third) the comments that this violates Separation of Concerns, however useful it is. The properties are one thing, but invoking method from the view seems to be a violation or at the least a slippery slope.<br>Since you asked about a name (and not our opinion about the feature), I'd simple call DynamicData or DynamicView or something to that effect.<br>-Jeff</p>

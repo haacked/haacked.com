@@ -1,0 +1,5 @@
+id: dsq-747508977
+date: 2004-07-06T09:29:00.0000000-07:00
+name: Phil Ringnalda
+avatar: https://disqus.com/api/users/avatars/Phil Ringnalda.jpg
+message: <p>It's not so much that I don't want comments indexed (that's easy, we had it for years when we did comments only in a Javascript-spawned popup), but rather that I don't want links followed until I say they can be followed. There have been suggestions for what amounts to a "nofollow='true'" attribute for links, but between the fact that Google has never mentioned liking the idea (in fact, they hate anything that smells like them getting a different view of things than readers) and the fact that HTML (and even XHTML 1.1) is a dead language, which will never get anything new added to it, it's not likely to happen. Which leaves us with the slightly annoying option of having blogging software accept comments with links, but only display the URIs as text until the comment is approved.</p>

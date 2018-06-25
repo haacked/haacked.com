@@ -1,0 +1,5 @@
+id: dsq-747511647
+date: 2005-05-30T00:10:00.0000000-07:00
+name: Another Perpetual CVS Rookie
+avatar: https://disqus.com/api/users/avatars/Another Perpetual CVS Rookie.jpg
+message: "<p>FYI:  Another occasion where this happens is when you specify the wrong CVS root on a remote server and the module you are working with in your local workspace actually doesn't exist in that cvs root on the server end.  In this case, just double check that you have specified the correct root.</p>"

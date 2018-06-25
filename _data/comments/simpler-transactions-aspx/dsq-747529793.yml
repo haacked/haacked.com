@@ -1,0 +1,5 @@
+id: dsq-747529793
+date: 2009-08-24T04:06:00.0000000-07:00
+name: Pita.O
+avatar: https://disqus.com/api/users/avatars/Pita.O.jpg
+message: "<p>@Thanigainathan: This is really the System.Transactions imperative call leveraging lambda to void repeating a single, required line of code. Nested transaction scopes always vote to commit but do not commit on their own. Only top level scope.Complete() does the commit. This construct will work the same way.<br>I saw this construct once (forgotten where) and thought it was cool ... It doesn't just save one line of code. It save a few more: boiler-plate IConnectionString, IDatabaseGateway, ResultDto (return value) construct that is repeated everywhere in the Tasks layer.</p>"

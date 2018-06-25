@@ -1,0 +1,5 @@
+id: dsq-747533598
+date: 2010-11-22T03:18:40.0000000-08:00
+name: Chester
+avatar: https://disqus.com/api/users/avatars/Chester.jpg
+message: <p>I'm using <a href="http://Asp.net" rel="nofollow noopener" title="Asp.net">Asp.net</a> 3.5 sp1 to do the url routing. I want to ignore a directory and all its sub directories. is this working?<br>routes.Add("workarea/{*pathinfo}", new StopRoutingHandler());<br>Thanks,<br>Chester</p>

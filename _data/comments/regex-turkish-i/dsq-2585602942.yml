@@ -1,0 +1,5 @@
+id: dsq-2585602942
+date: 2016-03-23T13:26:16.0000000-07:00
+name: George Pollard
+avatar: https://disqus.com/api/users/avatars/google-4ee697b9dc2411d50fb66a4f330ba4df.jpg
+message: "<p>There's another gotcha in your regex that you missed: '$' allows newlines before the end of the string. You can use '\\z'  instead to disallow this (note that '\\Z' is equivalent to '$'):</p><p>Regex.IsMatch(\"shiftkey\\n\", \"^[a-zA-Z0-9]+$\") // true<br>Regex.IsMatch(\"shiftkey\\n\", @\"^[a-zA-Z0-9]+\\z\") // false</p>"

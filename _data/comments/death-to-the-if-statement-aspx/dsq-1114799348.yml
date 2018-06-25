@@ -1,0 +1,5 @@
+id: dsq-1114799348
+date: 2013-11-08T19:15:55.0000000-08:00
+name: Chris Hynes
+avatar: https://disqus.com/api/users/avatars/disqus_SIyNIcyQlQ.jpg
+message: <p>Or you could make the operation composable, a la:</p><p>        public IEnumerable&lt;t&gt; PadEnd&lt;t&gt;(this IEnumerable&lt;t&gt; values, T padValue = default(T))<br>{<br>    foreach (T value in values)<br>        yield return value;</p><p>    yield return padValue;<br>}</p><p>And then you can call it like:</p><p>var items = new[] {1, 2, 3};</p><p>var result = items.PadEnd(0).Take(5).ToArray();</p><p>IMHO, much more readable and more in the spirit of LINQ.</p>

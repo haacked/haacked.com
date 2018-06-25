@@ -1,0 +1,5 @@
+id: dsq-747524948
+date: 2008-04-24T07:46:23.0000000-07:00
+name: GlenH
+avatar: https://disqus.com/api/users/avatars/GlenH.jpg
+message: <p>Whew!  After reading this, I'm thinking you should go back to the original paradigm of requiring a [ControllerAction] attribute.  Seems like it would be easier to apply an attribute exactly where you want it vs. having to remember all the rules to apply to prevent something you DON'T want to happen.</p>

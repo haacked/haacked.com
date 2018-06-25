@@ -1,0 +1,5 @@
+id: dsq-747516788
+date: 2006-09-19T03:39:09.0000000-07:00
+name: Alan Le
+avatar: https://disqus.com/api/users/avatars/Alan Le.jpg
+message: <p>I was looking at this control last night and found two potential problems.<br>1) The sample thinks I'm a bot when I used the back button and hit submit again.  The javascript function is not called when the user clicks the back button.<br>2) If I'm a bot writer, I can adapt the response to put in a sleep that's more than a few seconds to mimic a human.</p>

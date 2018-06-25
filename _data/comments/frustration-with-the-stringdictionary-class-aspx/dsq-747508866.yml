@@ -1,0 +1,5 @@
+id: dsq-747508866
+date: 2007-07-29T20:34:51.0000000-07:00
+name: Pirmin
+avatar: https://disqus.com/api/users/avatars/Pirmin.jpg
+message: <p>I had the same problem!<br>Instead of StringDictionary, now I'm using<br>Dictionary&lt;string, string&gt; (System.Collections.Generic).<br>This works fine for me.</p>

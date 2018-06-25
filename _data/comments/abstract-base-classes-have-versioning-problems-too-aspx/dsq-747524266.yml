@@ -1,0 +1,5 @@
+id: dsq-747524266
+date: 2008-03-05T21:54:17.0000000-08:00
+name: h
+avatar: https://disqus.com/api/users/avatars/h.jpg
+message: <p>If you guys are so afraid of breaking changes ahead why can't you figure out another way of enforcing pre- and post-conditions in your code? For example you could simply wrap every framework interface invocation inside of a runtime Reflection.Emit proxy (or inherit ContextBoundObject), which checks the invariants! That's one way and it only leads to the very first launch to be only possibly measurable slower, if even measurable at all. You can then throw exceptions just like any other framework if these invariants are not satisfied.<br></p>

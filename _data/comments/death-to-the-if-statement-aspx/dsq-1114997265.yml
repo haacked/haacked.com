@@ -1,0 +1,5 @@
+id: dsq-1114997265
+date: 2013-11-08T23:08:53.0000000-08:00
+name: Frank Quednau
+avatar: https://disqus.com/api/users/avatars/fquednau.jpg
+message: <p>I think the "play it safe" part is what makes this code less elegant than it can be as providing the count to repeat forces you to think about why count is passed. Of course your reasoning about it is correct, but the fact that reasoning was necessary makes this a bit ad-hoc.</p><p>Provided that you already have a repeat extension method without count that repeats indefinitely, i.e. without the weird artefact from times of imperative code, the line simply reads</p><p>elements.Concat(default(T).Repeat()).Take(count).</p>

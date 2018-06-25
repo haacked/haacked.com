@@ -1,0 +1,5 @@
+id: dsq-747530631
+date: 2009-12-30T16:56:20.0000000-08:00
+name: Robert Koritnik
+avatar: https://disqus.com/api/users/avatars/Robert Koritnik.jpg
+message: "<p>Maybe so... But the thing is that this application should <em>also</em> work script free. So Ajax calls may not be allowed.<br>My example was taken from the real world, but may not have been the perfect one. The case of a login control at the top of the page would usually work Ajax style. You're right.<br>Anyway. While I was thinking about this hidden input and relating to web forms it made me think a bit. MVC 1 is already using hidden fields when you display checkboxes, so hidden fields may not be the wrong way of doing this.<br>I still think that MvcHandler + Html.BeginForm would change things significantly if they worked as I suggested. Something I should play with I guess. And I don't think this would overcomplicate the framework too much.<br>BTW: How did other MVC frameworks solve this?</p>"

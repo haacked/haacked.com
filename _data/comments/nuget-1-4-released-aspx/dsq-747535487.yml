@@ -1,0 +1,5 @@
+id: dsq-747535487
+date: 2011-06-26T20:13:49.0000000-07:00
+name: bdaniel7
+avatar: https://disqus.com/api/users/avatars/bdaniel7.jpg
+message: <p>I'm quite new to NuGet and I added the sql server compact 4.0 to the project, via NuGet, but when I try to run the tests, I get "Unable to find the requested .Net Framework Data Provider.  It may not be installed.". I go to Microsoft website, download and install Microsoft SQL Server Compact Edition 4.0, run the tests again and now it works. Now, my question is do I need to install SQL CE by hand? Why so, if the engine is only a file? Am I mistaken this CE with SQLite? Isn't NuGet supposed to take care of everything?</p>

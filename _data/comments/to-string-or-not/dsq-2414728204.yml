@@ -1,0 +1,5 @@
+id: dsq-2414728204
+date: 2015-12-17T12:01:24.0000000-08:00
+name: Jason.W He
+avatar: https://disqus.com/api/users/avatars/jasonwhe.jpg
+message: <p>Non official Guideline have opposite one compare to corefx.</p><p><a href="https://csharpguidelines.codeplex.com/" rel="nofollow noopener" title="https://csharpguidelines.codeplex.com/">https://csharpguidelines.co...</a></p><p>AV2201 Use C# type aliases instead of the types from the System namespace <br>For instance, use object instead of Object, string instead of String, and int instead of Int32. These aliases have<br>been introduced to make the primitive types a first class citizen of the C# language so use them accordingly,<br>Exception When referring to static members of those types, it is custom to use the full CLS name, e.g.<br>Int32.Parse() instead of int.Parse().</p>

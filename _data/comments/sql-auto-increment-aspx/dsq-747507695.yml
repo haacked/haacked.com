@@ -1,0 +1,5 @@
+id: dsq-747507695
+date: 2010-10-13T20:59:44.0000000-07:00
+name: Veena V
+avatar: https://disqus.com/api/users/avatars/Veena V.jpg
+message: <p>Excellent script to use in select clause.<br>select row_number() over (order by strUsername), strUsername from Users<br>Thanks!</p>

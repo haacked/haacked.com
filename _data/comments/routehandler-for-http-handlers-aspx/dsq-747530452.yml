@@ -1,0 +1,5 @@
+id: dsq-747530452
+date: 2009-11-04T11:49:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Craig hits it on the nail. It's a nice way to register HTTP Handlers with more control over registration than you get with web.config.<br>Now why would you use an HTTP Handler over simply using an MVC controller? If I was starting an app from scratch, I probably wouldn't. I'd probably just use controllers instead of handlers.<br>But if I'm updating an existing app, or I have an existing http handler, this route handler could come in handy.</p>

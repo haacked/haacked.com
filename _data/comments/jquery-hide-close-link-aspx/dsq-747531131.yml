@@ -1,0 +1,5 @@
+id: dsq-747531131
+date: 2009-12-25T08:16:07.0000000-08:00
+name: Pita.O
+avatar: https://disqus.com/api/users/avatars/Pita.O.jpg
+message: "<p>I just picked up more than just this cool feature. I also picked up giving additional thought to convention as a way to produce re-usable scripts. Less is definitely more!<br>BTW: Can we take this one step further and eliminate the 'rel' attribute. Let the capture just pick up the the first parent 'div' to the 'a'.<br>Conceptually:<br>-- markup<br>&lt;div&gt;<br>    &lt;h2&gt;Blah blah blog&lt;/h2&gt;<br>    <a href=\"#\" rel=\"nofollow noopener\" title=\"#\">[hide]</a> <br>&lt;/div&gt;<br>-- js<br>$(function() {<br>  $('a.close').click(function() {<br>    $(this).parent().slideUp();<br>  });<br>});<br></p>"

@@ -1,0 +1,5 @@
+id: dsq-747530595
+date: 2009-11-18T01:36:00.0000000-08:00
+name: Will Green
+avatar: https://disqus.com/api/users/avatars/Will Green.jpg
+message: <p>Calling back into the controller from the view just doesn't feel quite right to me. Wouldn't it be better to instead create a View Model that encapsulates all the specific, for lack of a better term, "sections" of the view to be the rendered? The main view would then call the partials, passing in specific parts of the View Model that each partial needs.<br>How you assemble that view model is of course up to you (non-action methods in the controller, perhaps?), so you'd still get the re-use. You should still be able to cache the output of the partials, too.<br>Or am I totally missing the point?</p>

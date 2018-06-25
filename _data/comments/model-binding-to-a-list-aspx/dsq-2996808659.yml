@@ -1,0 +1,5 @@
+id: dsq-2996808659
+date: 2016-11-11T04:14:01.0000000-08:00
+name: Rafael Catani Santa Helena
+avatar: https://disqus.com/api/users/avatars/rafaelcatanisantahelena.jpg
+message: <p>Hi, I'm trying to get a list of objects in my class, but I'm not sure how to do that. To the controller, the values appear correct, but if I send a loaded list, only the list appears correct, all other fields of the modeling appear null or empty.<br>What can I do to fix this?</p><p><a href="https://stackoverflow.com/questions/40547833/c-sharp-mvc-return-object-to-controller" rel="nofollow noopener" title="https://stackoverflow.com/questions/40547833/c-sharp-mvc-return-object-to-controller">https://stackoverflow.com/q...</a></p>

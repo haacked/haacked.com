@@ -1,0 +1,5 @@
+id: dsq-747532653
+date: 2010-09-28T22:50:54.0000000-07:00
+name: Guest
+avatar: https://disqus.com/api/users/avatars/Guest.jpg
+message: <p>Camiel - a workaround is to use dynamic instead, eg:<br>@inherits System.Web.Mvc.WebViewPage&lt;dynamic&gt;</p>

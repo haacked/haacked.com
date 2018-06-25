@@ -1,0 +1,5 @@
+id: dsq-747520127
+date: 2007-09-14T03:04:27.0000000-07:00
+name: jphilip
+avatar: https://disqus.com/api/users/avatars/jphilip.jpg
+message: <p>Hi Phil,<br>I just finished a patch including a FCKEditor plugin that adds a button to the Editor's toolbar, prompts the user for the tags and appends external tag links (to Technorati or other) and/or internal tag links to the blog's tag page.<br>All is configurable through the subtextconfig.js file.<br>The javascript to find the blog's url in a multi blog install is not very elegant but it works in my case, maybe you will have something better.<br>I will post the patch right away.</p>

@@ -1,0 +1,5 @@
+id: dsq-2507626048
+date: 2016-02-10T22:10:36.0000000-08:00
+name: Rajeev Jha
+avatar: https://disqus.com/api/users/avatars/Rajeev_786.jpg
+message: <p>Great Example Dude.<br>Here,<br>IEnumerable&lt;httppostedfilebase&gt; files in Action Method Parameter stores Data as an Array[0],[1] So we need to looping to get file one by one or foreach(var file in files){Code Goes Here }.</p>

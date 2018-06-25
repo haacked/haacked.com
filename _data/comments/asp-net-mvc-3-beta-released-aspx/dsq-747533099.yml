@@ -1,0 +1,5 @@
+id: dsq-747533099
+date: 2010-10-06T02:03:22.0000000-07:00
+name: stuhin
+avatar: https://disqus.com/api/users/avatars/stuhin.jpg
+message: <p>It is a pity that you have removed optional of @RenderSection((<br>Now @RenderSection("content",optional:true) - ERROR</p>

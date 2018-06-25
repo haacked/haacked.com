@@ -1,0 +1,5 @@
+id: dsq-747510208
+date: 2007-07-09T03:09:47.0000000-07:00
+name: Brad
+avatar: https://disqus.com/api/users/avatars/Brad.jpg
+message: <p>I don't see any use in this regex.. I'm trying to do something more advanced I havn't seen done yet.<br>I'm matching HTML tags too.. but the whole tag not just the start tag. I want the start and the end tag. I havn't been able to figure out how to do the recursive part, only a fixed amount of levels, like 10.<br>Meaning I want to match the whole outer tag of..<br>&lt;div id="a"&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;<br>So I search for the tag of id="a" and it returns the whole contents even the subed tags. I'm pretty much done just can't figure out the infinite nested duplicate tags. GLGL.</p>

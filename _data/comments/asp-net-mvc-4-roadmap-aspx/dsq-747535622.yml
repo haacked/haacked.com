@@ -1,0 +1,5 @@
+id: dsq-747535622
+date: 2011-07-14T01:44:19.0000000-07:00
+name: Brian Vallelunga
+avatar: https://disqus.com/api/users/avatars/Brian Vallelunga.jpg
+message: "<p>Phil: I have a number of tasks that need to happen when an application starts. Traditionally, these might be put into the Global.asax file under Application_Start. This is fine when there's just a little bit of code, but at some point, you want to break the code out.<br>I have implemented a solution that provides an IBootstrapperTask interface with an Execute method. When my application starts, I scan the loaded non-MS assemblies for these tasks and then execute them. I think this is a common practice in the MVC community. In my case, this integrates with my IoC container as well.<br>I really don't like the App_Start method since that doesn't work well with other compiled libraries.</p>"

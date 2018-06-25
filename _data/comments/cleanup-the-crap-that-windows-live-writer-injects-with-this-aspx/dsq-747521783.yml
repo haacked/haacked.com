@@ -1,0 +1,5 @@
+id: dsq-747521783
+date: 2007-07-30T02:01:54.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Adam, want to share your code with me so it gets in there? I didn't do the img closing because Subtext uses SGML to automatically convert HTML to XHTML as best as it can. Unfortunately, it can't handle everything you throw at it, such as unknown attributes.</p>

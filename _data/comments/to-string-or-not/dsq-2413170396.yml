@@ -1,0 +1,6 @@
+id: dsq-2413170396
+replyToId: dsq-2413154803
+date: 2015-12-16T13:08:31.0000000-08:00
+name: Brad Westness
+avatar: https://disqus.com/api/users/avatars/bradwestness.jpg
+message: <p>The only properties on String are the underlying char array and the length. DateTime is way more complicated, you're just not counting all the other types that DateTime depends on for handling timezones, calendar systems, etc.</p><p>I agree that string is kind of pushing the boundary of what can be thought of as a "primitive" because it is, in effect, an array of chars. However, a DateTime still has way more component parts to it than does a string.</p>

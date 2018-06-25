@@ -1,0 +1,5 @@
+id: dsq-747523448
+date: 2007-11-26T21:05:42.0000000-08:00
+name: Bill Pierce
+avatar: https://disqus.com/api/users/avatars/Bill Pierce.jpg
+message: "<p>I might have missed something but is there a reason you wouldn't just do:<br><code><br>public HomeController(): this(Membership.Provider) { }<br>public HomeController(MembershipProvider provider) { ... }<br></code><br>If your container has a MembershipProvider configured, it should invoke the proper constructor and inject it.  If no MembershipProvider is configured, it should call the no-arg constructor.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747524806
+date: 2008-04-13T05:11:43.0000000-07:00
+name: Fervent Coder
+avatar: https://disqus.com/api/users/avatars/Fervent Coder.jpg
+message: <p>One follow up...I didn't really explain why I would want to keep things in one file for a short amount of time.  This is so I keep all of my focus right there and not have to go back and forth between files. Plus I know I am done working with the class (in the short interim) when I have moved the tests out to there own file, copied that file down to it's test project and removed the newly created file.</p>

@@ -1,0 +1,5 @@
+id: dsq-747523392
+date: 2007-11-15T21:43:03.0000000-08:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>Unit test, by definition, NEVER test for correctness. "correctness" is such a broad term. It not only involves unit testing, but also integration testing, functional testing, and finally acceptance testing. Because we all know that the app doesn't do what it is supposed to until the client SAYS that it does everything that it's supposed to. Two of those aspects, functional and acceptance testing, are (or should be) independent of the architecture. (sorry, we're talking CS here. Should I have said "orthogonal"? :) )<br>I think that some TDD proponents oversell the benefits of TDD and that leads to some misunderstandings.</p>

@@ -1,0 +1,5 @@
+id: dsq-747528734
+date: 2010-08-02T13:20:45.0000000-07:00
+name: jeff00seattle
+avatar: https://disqus.com/api/users/avatars/jeff00seattle.jpg
+message: <p>If I build this project with VS 2008 MVC 1 and using simple GridData(), then presto! it works!<br>If I build this same project with VS 2010, which converts the solution to MVC 2 and also using GridData(), then blamo! The table appears but the rows do not populate.<br>What difference(s) would there be to cause this disparity?</p>

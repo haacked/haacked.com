@@ -1,0 +1,5 @@
+id: dsq-747509884
+date: 2006-10-04T20:57:51.0000000-07:00
+name: dj
+avatar: https://disqus.com/api/users/avatars/dj.jpg
+message: <p>I've read some where that Sever.Transfer can lead to broken links in the case where the links are relative.  The browser does not "know" that it is on a different page.  If there is a relative link it will try request the page relative to the original page it requested rather than the link relative to the current page.  Is this true?</p>

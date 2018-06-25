@@ -1,0 +1,5 @@
+id: dsq-747526327
+date: 2011-09-07T15:41:31.0000000-07:00
+name: mvcvm
+avatar: https://disqus.com/api/users/avatars/mvcvm.jpg
+message: '<p>The ControllerFactory and ControllerActionInvoker are not quite clever enough to detect the difference in arguments when posting from a strongly typed view:<br>"... The current request for action X on controller type Y is ambiguous between the following action methods: X(MyModel) on type Y and X(TheModel) on type TheController ..."<br> <br>public class TheController: Controller<br>{<br>        [HttpPost]<br>        public virtual ActionResult X(TheModel model)<br>        { ... }<br>}<br>public class Y: TheController<br>{<br>        [HttpPost]<br>        public virtual ActionResult X(MyModel model)<br>        { ... }<br>}<br>As the signatures differ, neither overriding nor hiding is involved.<br>This would be useful for inheriting from any frameworks and then quickly adding special behaviour.</p>'

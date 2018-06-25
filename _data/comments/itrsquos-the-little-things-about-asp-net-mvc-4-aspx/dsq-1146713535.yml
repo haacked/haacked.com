@@ -1,0 +1,5 @@
+id: dsq-1146713535
+date: 2013-12-01T15:47:51.0000000-08:00
+name: Murali M
+avatar: https://disqus.com/api/users/avatars/disqus_bY6Im6sWge.jpg
+message: <p>I could not see this ServiceResolver in Assembly System.Web.Http.WebHost.dll, v4.0.30319, the downloaded via Nuget &lt;package id="Microsoft.AspNet.WebApi.WebHost" version="4.0.20710.0" targetframework="net40"/&gt;</p><p>Also GlobalConfiguration.Dispatcher class. I am following this <a href="http://onionarch.codeplex.com" rel="nofollow noopener" title="http://onionarch.codeplex.com">http://onionarch.codeplex.com</a> project to create Onion Architecture, However I failed to initialize the DependencyResolver for WebAPI.</p><p>What is the current class does this ?</p>

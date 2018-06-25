@@ -1,0 +1,5 @@
+id: dsq-747521141
+date: 2007-06-14T14:01:23.0000000-07:00
+name: Damien Guard
+avatar: https://disqus.com/api/users/avatars/Damien Guard.jpg
+message: <p>Some programmers just love to use basic types like strings.  Fowler fingers this as a code smell he calls "Primitive obsession".<br>Like all types you should keep it in it's own type for as long as possible.  When it has to be passed to something that won't deal with your objects, e.g. a HTML stream, then .ToString at the last moment. When dealing with incoming data .Parse at the first available opportunity.<br>I've never understood the logic behind the US date format - perhaps you can clarify it for the rest of us?<br>dd-mm-yyyy makes sense as the days turn into months which turn into years. yyyy-mm-dd make sense from a sorting perspective but mm-dd-yyyy... What's that all about?<br>[)amien</p>

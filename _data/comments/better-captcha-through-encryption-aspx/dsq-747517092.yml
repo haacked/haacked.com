@@ -1,0 +1,5 @@
+id: dsq-747517092
+date: 2006-10-16T10:13:45.0000000-07:00
+name: CB
+avatar: https://disqus.com/api/users/avatars/CB.jpg
+message: <p>Thank you. I was thrown off because it was telling me there was an Error Rendering Control.<br>To test if it is valid I simply do <br>    Dim test As New Subtext.Web.Controls.InvisibleCaptcha<br>        Dim valid As Boolean<br>        valid = test.IsValid<br>This has been a great learning tool for me.</p>

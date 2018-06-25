@@ -1,0 +1,5 @@
+id: dsq-747516187
+date: 2007-01-29T01:12:20.0000000-08:00
+name: Kas
+avatar: https://disqus.com/api/users/avatars/Kas.jpg
+message: <p>Excellent post. Thanks very much for the detailed example. I'm still having some trouble understanding how I would implement MVP on a presenter which must control the activities of a hirearchy of Domain Model Entities (i.e Person has * ContactInformation and ContactInformation has * Telephone and implementing a single presenter which can capture the user creating X number of ContactInformation with X number of Telphone and persisting that interaction through the service layer).<br>Just wondering about your example, if you have a property on the view called IsPostBack, isn't that specific to <a href="http://asp.net?" rel="nofollow noopener" title="asp.net?">asp.net?</a> The view should probably not be bound to any specific interface implementation maybe a better name would have been IsInitialized or something similar.</p>

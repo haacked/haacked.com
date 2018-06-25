@@ -1,0 +1,5 @@
+id: dsq-747523832
+date: 2007-12-20T22:55:06.0000000-08:00
+name: Ryan Smith
+avatar: https://disqus.com/api/users/avatars/Ryan Smith.jpg
+message: <p>That's really the biggest mistake you made along the way?  For a first year software developer, a minor password reset failure seems pretty trivial.<br>Reading that makes my mistakes seem a whole lot worse, especially in my first year of professional software development.<br>Even now about 6 years into my professional software development career, I recently made a password reset mistake for an international site.  When I got back the translated email text, the translators actually translated the &lt;%=UserName%&gt; and &lt;%=Password%&gt; text to Korean, and I was under such deadline pressure, I launched it that way and didn't even realize.  I didn't find out until a conference call about 2 months later when the international administrators complained that it wasn't working.<br>Still, that's hardly the worst mistake I've made in my career as a software developer.  I suppose your just better than me.</p>

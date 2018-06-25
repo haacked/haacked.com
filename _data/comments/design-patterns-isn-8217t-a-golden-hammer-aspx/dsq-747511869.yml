@@ -1,0 +1,5 @@
+id: dsq-747511869
+date: 2005-05-30T14:22:00.0000000-07:00
+name: Barry Dorrans
+avatar: https://disqus.com/api/users/avatars/Barry Dorrans.jpg
+message: <p>Ah pattern happiness. Just finished a mentoring project where they had jumped onto the pattern bandwagon way too much. Now it was appropriate in some cases, a base fund class with a factory created specific concrete implementations, depending on the type of fund it was. But then they had factories for things that will never change, for example a holding company. They were everywhere. <br><br><br><br>I'm almost convinced patterns do more harm than good. They're not new ideas, they're just "branded", so everyone uses the same language. Well that's great, but damnit people stop presenting them as the new silver bullet.<br><br><br><br>And don't even start me on the word "refactoring".</p>

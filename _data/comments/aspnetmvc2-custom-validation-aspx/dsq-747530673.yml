@@ -1,0 +1,5 @@
+id: dsq-747530673
+date: 2009-11-19T18:42:00.0000000-08:00
+name: Dan A
+avatar: https://disqus.com/api/users/avatars/Dan A.jpg
+message: "<p>So far I think this feature is a let down.  It does the same thing as Steve Sanderson's xVal but in a more clunky way with all the same roadblocks.<br>The most important feature to me is the ability to return a tokenized error message from a resource file, similar to what Validation Application Block has. The sample here doesn't appear to even have customizable messages at all.<br>Also, why is Ajax needed? Can't the server figure out what needs generated before its writes the page?  The whole point of client-side scripting is so that I don't have to talk to the server again.<br>Side note: You're server-side example image says the Price is invalid when it appears to be valid based on the rules you described above it (ends in 99 and is greater than 1.99).</p>"

@@ -1,0 +1,5 @@
+id: dsq-747524115
+date: 2008-02-06T23:09:43.0000000-08:00
+name: Justice~!
+avatar: https://disqus.com/api/users/avatars/Justice~!.jpg
+message: <p>Vish, in my typical unbiased way I must say that this commment was LEEEWWWSER.<br>Phil - my big difficulty right now (aside from the ones we've already talked about) is the inability to properly override RedirectToAction(string, string) for inheritance-based tests.  Even for mocking it is a bit odd given that it boils down (eventually) to a Response.Redirect call which, if I am not mistaken, requires the full path with the http://.  I might be full of crap on this last part though so I'm going to investigate further.</p>

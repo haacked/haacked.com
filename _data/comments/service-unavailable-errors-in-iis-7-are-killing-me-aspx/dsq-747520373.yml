@@ -1,0 +1,5 @@
+id: dsq-747520373
+date: 2008-09-11T15:07:29.0000000-07:00
+name: Nirre
+avatar: https://disqus.com/api/users/avatars/Nirre.jpg
+message: <p>I have the same problem when running MOSS 2007 on IIS 7. I got it running by commenting out the IPv6 record (added by MOSS Search) in the Host File. Now its up and running.</p>

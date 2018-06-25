@@ -1,0 +1,5 @@
+id: dsq-747521731
+date: 2007-09-24T00:49:20.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Scott, you don't need to create a physical directory named "Admin". <br>The HttpHandler will look for requests to "/admin/elmah.axd" and handle those requests.<br>Keep in mind that elmah.axd doesn't physically exist either. The handler declaration indicates that the class <code>Elmah.ErrorLogPageFactory</code> implements <code>IHttpHandler</code> and will thus handle those requests.</p>

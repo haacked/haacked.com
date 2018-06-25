@@ -1,0 +1,5 @@
+id: dsq-747530650
+date: 2012-05-01T19:33:30.0000000-07:00
+name: Mark
+avatar: https://disqus.com/api/users/avatars/Mark.jpg
+message: <p>Hi Phil,<br>Can you share the overload to use a different controller please?<br>I have been looking into this for hours.  Looks like you have to pass in the values from the parent view at load and use the viewbag, but that doesnt seam very dynamic.  I would be happy to just fire the partial view and pass a parameter to load the child records.  Seams to me that partial views would almost always have a different controller and would often have related child records.<br>Thanks, have been reading lots of your posts.  Very helpful.</p>

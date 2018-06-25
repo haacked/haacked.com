@@ -1,0 +1,5 @@
+id: dsq-747519747
+date: 2007-04-20T00:49:09.0000000-07:00
+name: Kevin Dente
+avatar: https://disqus.com/api/users/avatars/Kevin Dente.jpg
+message: <p>A few of my biggest readability peccadilloes are:<br>a)abbreviated identifiers<br>Why do some people treat letters like freaking precious resources to be conserved? GetTmplNm (instead of GetTemplateName), srchOpts instead of searchOptions, nmCont instead of namingContainer. It kills me. Especially in this day and age of intellisense, where you rarely type the full identifier name more than once. <br>b) long methods<br>Longer than 10-15 lines and I start getting annoyed. Longer than 1-2 pages and you should be smacked. 2-3 thousand lines (which I've seen) and you should be drawn and quartered.<br>c) complex composite conditional checks<br>How many times do you need to read stuff like:<br>if ((val is string) &amp;&amp; ((string)val).Length &lt; 100)) || ((string)val).StartsWith("...") &amp;&amp; ((string)val).IndexOf("...") &gt; -1)) ...<br>It's amazing how often you see stuff like that.<br><br></p>

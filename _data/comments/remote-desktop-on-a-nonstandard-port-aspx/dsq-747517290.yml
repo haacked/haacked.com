@@ -1,0 +1,5 @@
+id: dsq-747517290
+date: 2008-03-30T19:52:18.0000000-07:00
+name: Ketan Patel
+avatar: https://disqus.com/api/users/avatars/Ketan Patel.jpg
+message: <p>I use a Dlink ADSL Router GLB 502T, this router has options to specify the port from, port to and port map, but it doesnt work.<br>When i specify router port xxxx (not 3389) to be mapped to Termianl server port 3389, the router accepts the values, but rejects the incoming traffic.<br>So i guess my only option is to change the RDP port on the Terminal server and then work it out. I havent tried this yet, but this should atleast work.</p>

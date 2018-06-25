@@ -1,0 +1,5 @@
+id: dsq-747538387
+date: 2012-09-29T22:52:45.0000000-07:00
+name: smartcaveman
+avatar: https://disqus.com/api/users/avatars/smartcaveman.jpg
+message: <p>Isn't it a bit of a code smell to expose an <code>IsValid</code> property?  It seems to me that if the regex fails to validate in the ctor, then the class should throw an exception.</p>

@@ -1,0 +1,5 @@
+id: dsq-747527800
+date: 2009-01-27T20:29:59.0000000-08:00
+name: Sigurdur G. Gunnarsson
+avatar: https://disqus.com/api/users/avatars/Sigurdur G. Gunnarsson.jpg
+message: "<p>Great release, but I've immediately run into a problem while upgrading an application over from the beta.<br>This application has a WYSIWYG HTML editor, and I can't post the page anymore.<br>Error I get is: \"A potentially dangerous Request.Form value was detected from the client\"<br>And yes, Ive put validateRequest=\"false\" in the web.config like instructed in the release notes and even tried it in the Page declaration.  It doesn't seem to turn off!<br>For me this is a showstopper :(<br></p>"

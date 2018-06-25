@@ -1,0 +1,5 @@
+id: dsq-747529062
+date: 2010-03-10T19:48:50.0000000-08:00
+name: Whynot
+avatar: https://disqus.com/api/users/avatars/Whynot.jpg
+message: <p>Why went I use Html.RenderPartialView("Menu")<br>If Menu is menu.ascx, the OutputCache was totaly ignored<br>but if Menu is menu.aspx, the OutputCache work as expected.<br>How can I modify RenderPartialView to support OutputCache for ViewUserControl?<br>Thanks</p>

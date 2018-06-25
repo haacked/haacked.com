@@ -1,0 +1,5 @@
+id: dsq-747529215
+date: 2009-06-02T19:19:00.0000000-07:00
+name: Simone
+avatar: https://disqus.com/api/users/avatars/Simone.jpg
+message: <p>Using buildprovider will make the method "HomeAboutLink(123)" appear for real only at runtime. Refactoring tools will warn me of calls to non existing methods. What if I change the name of an Action? There will be no refactoring tool to help me change the ActionLink method name in the view.<br>Or am I missing something obvious?</p>

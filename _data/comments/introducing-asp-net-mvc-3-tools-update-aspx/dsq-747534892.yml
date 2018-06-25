@@ -1,0 +1,5 @@
+id: dsq-747534892
+date: 2012-08-30T11:17:22.0000000-07:00
+name: Ben
+avatar: https://disqus.com/api/users/avatars/Ben.jpg
+message: <p>I know this is old, but I just got assigned an older project at work that uses MVC3 and I couldn't get MVC3 to install.  Mvc2 and 4 would, but not 3.  Uninstalling NuGet and then running the install of MVC3 did the trick.</p>

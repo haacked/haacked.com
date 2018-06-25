@@ -1,0 +1,5 @@
+id: dsq-747526183
+date: 2008-08-25T03:50:37.0000000-07:00
+name: tgmdbm
+avatar: https://disqus.com/api/users/avatars/tgmdbm.jpg
+message: <p>@David have you had a look at the NUnit SyntaxHelpers namespace?<br>Assert.That(x, Is.EqualTo(y))<br>You can't get more human readable?</p>

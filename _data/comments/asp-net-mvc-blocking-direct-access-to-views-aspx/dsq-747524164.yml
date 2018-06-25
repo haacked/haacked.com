@@ -1,0 +1,5 @@
+id: dsq-747524164
+date: 2008-02-13T10:11:35.0000000-08:00
+name: Joe Chung
+avatar: https://disqus.com/api/users/avatars/Joe Chung.jpg
+message: <p>It's looking.  You'll need this:<br>&lt;configuration&gt;<br>  &lt;system.webServer&gt;<br>    &lt;validation validateIntegratedModeConfiguration="false"/&gt;<br>  &lt;/system.webServer&gt;<br>&lt;/configuration&gt;<br>to have both styles of HTTP handler configuration work properly on an IIS 7 box that has II6 compatibility mode enabled.</p>

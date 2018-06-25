@@ -1,0 +1,5 @@
+id: dsq-747534941
+date: 2012-01-26T10:05:35.0000000-08:00
+name: Cluggas
+avatar: https://disqus.com/api/users/avatars/Cluggas.jpg
+message: <p>That check for Request.ContextType is the cause of my problem. Setting it manually at the start of each request causes everything to work as expected.<br>I totally see why the check is there - you would only want the route information attached to the page itself and not any other content - but should it not be a check on the response instead of the request? I can't be sure if that makes sense in the context of the code posted b @Jakka, but it would seem to make sense.</p>

@@ -1,0 +1,5 @@
+id: dsq-747533541
+date: 2010-11-20T06:12:23.0000000-08:00
+name: Martin
+avatar: https://disqus.com/api/users/avatars/Martin.jpg
+message: <p>Do you monitor the performance of Mvc 3 and is it better or worse than Mvc 2 ? <br>Will the System.Web.WebPages and the Microsoft.Web.Infrastructure be integrated into the .Net framework in the future ? (so it is shipped together).<br>Could you please add a SkipValidation attribute you could use on your Action methods to make sure that your models are not validated when the Modelbinder bind the Model? (it is currently only possible to implement this in a very "hackish" way)<br>Is there any chance in the future that HttpContext will inherit from HttpContextBase ?<br>Or is there no development going on in the core ?</p>

@@ -1,0 +1,5 @@
+id: dsq-747529414
+date: 2011-03-22T12:51:04.0000000-07:00
+name: giri
+avatar: https://disqus.com/api/users/avatars/giri.jpg
+message: '<p>hi , i have written a method in contoller which returns JSONResult<br>"[<br>  {<br>    "XML_F52E2B61-18A1-11d1-B105-00805F49916B": "&lt;ViewFavFood FoodName=\"Pizza\" VolumeIntake=\"High\" Id=\"1\"/&gt;"<br>  }<br>]"<br>----<br>how to display the json string in my view</p>'

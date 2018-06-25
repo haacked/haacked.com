@@ -1,0 +1,5 @@
+id: dsq-747518943
+date: 2007-03-05T11:38:03.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>&gt; So here's a question - is there really a good <br>&gt; reason why you'd want to use recursion<br>Really great question! Sometimes, I think it's easier to understand the recursive version. <br>I had to think about the explicit stack version of this method a little bit before writing it. Whereas I wrote the recursive half-asleep, reading Kafka, using my left pinky toe and completely drunk.</p>

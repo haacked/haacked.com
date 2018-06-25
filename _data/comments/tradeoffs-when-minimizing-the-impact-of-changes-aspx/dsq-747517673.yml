@@ -1,0 +1,5 @@
+id: dsq-747517673
+date: 2006-11-16T03:24:01.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>P.S. Just to be clear, I'm not saying patterns are not appropriate here. I'm saying to choose the right pattern.  In my view, for this particular scenario, the "Active Query" pattern might be better than the "Provider Pattern".</p>

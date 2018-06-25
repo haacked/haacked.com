@@ -1,0 +1,5 @@
+id: dsq-747527239
+date: 2009-03-23T14:18:21.0000000-07:00
+name: Vasanth
+avatar: https://disqus.com/api/users/avatars/Vasanth.jpg
+message: <p>Hi,<br>I have followed this article to remove the extension. I have added .aspx insteadof .mvc in my routing. I am not able to remove the .aspx from the url.<br>I am using IIS6.0. But I dont know what may be the probs....<br>pls give me the solution....</p>

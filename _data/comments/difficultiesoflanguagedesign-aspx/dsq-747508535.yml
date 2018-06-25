@@ -1,0 +1,5 @@
+id: dsq-747508535
+date: 2004-06-03T18:25:00.0000000-07:00
+name: Jocelyn Coulmance
+avatar: https://disqus.com/api/users/avatars/Jocelyn Coulmance.jpg
+message: <p>Language changes shouldn't break existing code...Well, yes or:<br><br><br><br>- obsolete features (like the lock keyword) could be flagged<br><br>- tools could be developped to update existing source code<br><br>- the language could be versionned:<br><br>#version 1.1<br><br>#version 2.0</p>

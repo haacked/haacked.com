@@ -1,0 +1,5 @@
+id: dsq-747525919
+date: 2008-08-10T22:23:33.0000000-07:00
+name: David Nelson
+avatar: https://disqus.com/api/users/avatars/David Nelson.jpg
+message: <p>"Why wouldn’t we design for testability?"<br>Because it can sometimes (not always, but sometimes) lead to a compromised design. For example (and I really don't want to start this debate here, I am just using it as an example), the Framework Design Guidelines recommend using abstract classes instead of interfaces, for a number of very good reasons. The TDD crowd has long argued against that guideline, primarily because it makes mocking more difficult. That is, they would rather give up the advantages of using abstract classes instead of interfaces for no other reason than testability. I don't think that's a good way to design software; testability is important, but so is usability, maintainability, and extensibility. If you can include testability in your design while still adhering to other good design principles, that's great. But if I have to make a choice, testability is not at the top of my priority list.</p>

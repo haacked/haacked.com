@@ -1,0 +1,5 @@
+id: dsq-747519191
+date: 2007-03-15T00:45:46.0000000-07:00
+name: Ryan Smith
+avatar: https://disqus.com/api/users/avatars/Ryan Smith.jpg
+message: "<p>Well, that's nice and all, but do your really need the extra line break after the div?<br>div {<br>  margin: 10px 20px;<br>}<br>Seems much cleaner to me.  It always bugged me that VS tried to format my CSS like that by default.</p>"

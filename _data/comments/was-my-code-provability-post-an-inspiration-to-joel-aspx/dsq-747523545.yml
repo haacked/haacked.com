@@ -1,0 +1,5 @@
+id: dsq-747523545
+date: 2007-12-04T22:21:53.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>Interesting point. However, the main topic is code provability, which requires two things: 1. A spec. 2. A code to prove against that spec.<br>If the code to meet the spec is impossible to write the code, then you have nothing to prove. ;)<br>So let's use a little common sense here. When we say \"all specs\", we're really talking about the set of specs in which the code is possible to write to meet that spec.<br>As Joel says in his post:<br></p><blockquote>To use terminology from information theory: the spec needs just as many bits of Shannon entropy as the computer program itself would have. Each bit of entropy is a decision taken by the spec-writer or the programmer.</blockquote><p><br></p>"

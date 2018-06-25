@@ -1,0 +1,5 @@
+id: dsq-747535315
+date: 2011-06-02T00:47:34.0000000-07:00
+name: Konstantin Tarkus
+avatar: https://disqus.com/api/users/avatars/Konstantin Tarkus.jpg
+message: <p>Looks like a workaround.. Ok, good. But what about Entity Framework 4.1? Just coping it's .dll into bin folder won't help during deployment on a server where EF 4.1 wasn't installed.</p>

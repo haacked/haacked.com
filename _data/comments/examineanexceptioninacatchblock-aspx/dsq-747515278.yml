@@ -1,0 +1,5 @@
+id: dsq-747515278
+date: 2006-06-07T20:36:00.0000000-07:00
+name: Bill Pierce
+avatar: https://disqus.com/api/users/avatars/Bill Pierce.jpg
+message: <p>Phil,<br>Great blog (regular reader).  Oren just posted something you might find useful, might be 2.0 only.  Would allow you to easily DoSomethingElse() whenver an exception is thrown, similar to the way the 'using' statement will call Dispose() for you.<br><a href="http://www.ayende.com/Blog/2006/06/07/CreatingYourOwnUsingStatement.aspx" rel="nofollow noopener" title="http://www.ayende.com/Blog/2006/06/07/CreatingYourOwnUsingStatement.aspx">http://www.ayende.com/Blog/...</a><br>-Bill</p>

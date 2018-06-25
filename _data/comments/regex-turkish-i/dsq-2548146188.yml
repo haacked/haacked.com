@@ -1,0 +1,6 @@
+id: dsq-2548146188
+replyToId: dsq-2545038751
+date: 2016-03-02T12:57:12.0000000-08:00
+name: '@KernelCoreDump'
+avatar: https://disqus.com/api/users/avatars/@KernelCoreDump.jpg
+message: <p>The documentation itself is incomplete.  It states "The lowercase equivalent of c, modified according to culture, or the unchanged value of c, if c is already lowercase or not alphabetic."</p><p>That last phrase "if c is already lowercase or not alphabetic" should be qualified, with either one of the following:<br>  - "... lowercase or not alphabetic in the target culture"<br>  - "... lowercase or not alphabetic according to Unicode standards"</p><p>I also don't fully get what "modified according to culture" means.  Would the other direction char.ToUpper('i', new CultureInfo("tr-TR")) be 'I' or 'İ"?</p>

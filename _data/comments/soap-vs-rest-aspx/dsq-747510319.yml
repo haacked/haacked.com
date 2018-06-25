@@ -1,0 +1,5 @@
+id: dsq-747510319
+date: 2008-01-07T13:45:23.0000000-08:00
+name: Nitin Reddy
+avatar: https://disqus.com/api/users/avatars/Nitin Reddy.jpg
+message: <p>Although SOAP is quite popular in the .NET world, I prefer to use REST for cross platform development. It's easier to deal with since it's just a matter of making Http requests with the parameters passed in as key-value pairs and parsing the resulting XML. SOAP is developer-unfriendly unless you're using tool or a framework to wrap around it.</p>

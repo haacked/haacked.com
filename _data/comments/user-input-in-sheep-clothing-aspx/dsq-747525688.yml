@@ -1,0 +1,5 @@
+id: dsq-747525688
+date: 2008-07-08T19:52:04.0000000-07:00
+name: Troy Goode
+avatar: https://disqus.com/api/users/avatars/Troy Goode.jpg
+message: <p>Attributes are an interesting way to tackle it, Francois. I just thought of another way:<br><strong>Modify the order of operations of ActionInvoker such that parameters are populated by Server Variables first (rather than going straight for the QueryString).</strong><br>That way this technique remains and is just as "safe" as accessing Request.ServerVariables["x"] today.</p>

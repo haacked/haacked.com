@@ -1,0 +1,5 @@
+id: dsq-747538407
+date: 2012-09-30T15:12:30.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@smartcaveman You are correct, the <code>ZipCode</code> class is poorly named. I changed it to be <code>ZipCodeString</code> to be consistent with my other classes. Perhaps <code>ZipCodeInput</code> is an even better name. I would pair this with a real strict <code>ZipCode</code> class.<br>@Cam I went that route initially. RxUI makes it really easy to have a readonly property that's dependent on the value of another property.<br>However, the thing I ran into is I had multiple view models that might have one or more of these types of inputs. So I ended up duplicating a lot of code. Why not just have a type that provides structure I can choose to bind to.<br>I'm not of the mind that a view model should only have primitive properties.<br></p>

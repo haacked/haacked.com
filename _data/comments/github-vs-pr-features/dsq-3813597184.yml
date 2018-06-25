@@ -1,0 +1,5 @@
+id: dsq-3813597184
+date: 2018-03-19T06:13:52.0000000-07:00
+name: Matt Frear
+avatar: https://disqus.com/api/users/avatars/mattfrear.jpg
+message: <p>This looks cool and I'll probably use it on my personal GitHub repos. At work we use VSTS for source control, would be great if these features worked with VSTS too.</p><p>I have no idea how the GitHub VS extension works and I get confused when I'm looking in VS's Team Explorer if what I'm seeing is the native VS git extension (is there one?) or if I'm seeing the GitHub team's VS extension.</p>

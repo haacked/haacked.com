@@ -1,0 +1,5 @@
+id: dsq-2133741579
+date: 2015-07-13T10:01:37.0000000-07:00
+name: Tim Mc
+avatar: https://disqus.com/api/users/avatars/disqus_UsxfGcpU0o.jpg
+message: <p>Keep in mind that you will have to sometimes change the default "Prefix" if you're using a PartialView to render out the List or each element.  Otherwise, your list elements just come out with IDs like "[0].ID" or "[0].Name".</p><p>Razor:<br>@{<br>    var templateInfo = ViewContext.ViewData.TemplateInfo;<br>    templateInfo.HtmlFieldPrefix = "Roles";<br>}</p><p>Then, in your POST controller action, just Bind to that collection:<br>public ActionResult Edit(UserModel model, [Bind(Prefix = "Roles")] ICollection&lt;userrolemodel&gt; roles)</p><p>This has come in handy several times when I have a complex form which needs to save values within collections as well as the root entity / model.</p>

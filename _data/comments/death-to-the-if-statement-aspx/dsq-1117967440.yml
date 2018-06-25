@@ -1,0 +1,5 @@
+id: dsq-1117967440
+date: 2013-11-11T04:55:21.0000000-08:00
+name: AlbertoMonteiro
+avatar: https://disqus.com/api/users/avatars/AlbertoMonteiro.jpg
+message: <p>How about</p><p>public static class Extencoes<br>{<br>    public static IEnumerable&lt;t&gt; PaddedTake&lt;t&gt;(this IEnumerable&lt;t&gt; source, int count)<br>    {<br>        return source.Concat(Enumerable.Repeat(default(T), Math.Max(0, -(source.Count() - count)))).Take(count);<br>    }<br>}</p>

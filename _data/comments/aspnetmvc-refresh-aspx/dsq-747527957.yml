@@ -1,0 +1,5 @@
+id: dsq-747527957
+date: 2009-01-31T19:49:26.0000000-08:00
+name: Emad Ibrahim
+avatar: https://disqus.com/api/users/avatars/Emad Ibrahim.jpg
+message: <p>Cool, that's easy enough.  To cancel, set the results to null and return.<br>What if I wanted to check if the action has been canceled in a previous filter.  I have logic like this.<br>if (filterContext.Cancel)<br>   return;<br>Or am I using it wrong?  Do I even need to do that check?</p>

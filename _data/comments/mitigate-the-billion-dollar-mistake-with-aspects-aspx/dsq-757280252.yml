@@ -1,0 +1,5 @@
+id: dsq-757280252
+date: 2013-01-05T16:34:42.0000000-08:00
+name: Jason Bock
+avatar: https://disqus.com/api/users/avatars/Jason Bock.jpg
+message: <p>I wrote a framework using Cecil called Injectors that does this with IL rewriting- it's in Chapter 7 of my metaprogramming book. Roslyn could also handle this. </p>

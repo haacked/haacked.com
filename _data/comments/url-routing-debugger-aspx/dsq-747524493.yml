@@ -1,0 +1,5 @@
+id: dsq-747524493
+date: 2008-03-14T02:29:51.0000000-07:00
+name: Srikanth
+avatar: https://disqus.com/api/users/avatars/Srikanth.jpg
+message: <p>Thanks Phil. Happen to see two web.config in the demo app and got an error "It is an error to use a section registered as allowDefinition='MachineToApplication' beyond application level.  This error can be caused by a virtual directory not being configured as an application in IIS.". <br><a href="http://forums.devarticles.com/net-development-43/section-registered-as-allowdefinition-machinetoapplication-beyond-application-level-10027.html" rel="nofollow noopener" title="http://forums.devarticles.com/net-development-43/section-registered-as-allowdefinition-machinetoapplication-beyond-application-level-10027.html">http://forums.devarticles.c...</a><br>It seems the issue is, not to have two web.config inside the same solution, once i got rid of the web.config for the web app all golden!</p>

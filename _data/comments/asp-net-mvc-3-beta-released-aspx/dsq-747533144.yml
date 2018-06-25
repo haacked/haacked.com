@@ -1,0 +1,5 @@
+id: dsq-747533144
+date: 2010-10-13T07:18:26.0000000-07:00
+name: Erx
+avatar: https://disqus.com/api/users/avatars/Erx.jpg
+message: '<p>@matt s, and @Phil:  yes This is whAt I am saying, or just a proper way to be able to update multiple divs especially if one div is one top and one on bottom we have to return everything in between as a partial view to update both divs in an Ajax call. Or we split the incoming using very hackie js methods. Ideally there should be a proper way to update multiple divs in one show like the update panel in web forms allowed. <br>@Phil: <br>Will this be available in mvc3 final?</p>'

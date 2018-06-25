@@ -1,0 +1,5 @@
+id: dsq-747517656
+date: 2008-07-10T16:32:04.0000000-07:00
+name: greg
+avatar: https://disqus.com/api/users/avatars/greg.jpg
+message: <p>cannot use the user control because it is registered in web.config and lives in the same directory as the page</p>

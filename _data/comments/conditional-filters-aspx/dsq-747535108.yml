@@ -1,0 +1,5 @@
+id: dsq-747535108
+date: 2011-05-20T21:58:48.0000000-07:00
+name: AbdouMoumen
+avatar: https://disqus.com/api/users/avatars/AbdouMoumen.jpg
+message: <p>Great post. I think it would be a little bit prettier to add a constructor with params <br><code>public ConditionalFilterProvider(params Func&lt;ControllerContext, ActionDescriptor, object&gt;[] conditions)<br>{<br>    _conditions = conditions;<br>}<br></code></p>

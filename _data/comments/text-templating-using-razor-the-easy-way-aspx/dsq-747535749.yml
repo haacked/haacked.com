@@ -1,0 +1,5 @@
+id: dsq-747535749
+date: 2011-08-02T23:01:17.0000000-07:00
+name: David Ebbo
+avatar: https://disqus.com/api/users/avatars/David Ebbo.jpg
+message: "<p>@Alexandre: I haven't used RazorEngine, but from what I can see, it's quite different, in the sense that it is a runtime library while RazorGenerator is a design time tool. With RazorGenerator, code gets generated and compiled as part of your project, such that at runtime there is no dependency on Razor, and no on-the-fly compilation. See my posts on RazorGenerator (<a href=\"http://blog.davidebbo.com/search/label/Razor\" rel=\"nofollow noopener\" title=\"http://blog.davidebbo.com/search/label/Razor\">http://blog.davidebbo.com/search/label/Razor</a>) to see examples of what it's good for.</p>"

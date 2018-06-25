@@ -1,0 +1,5 @@
+id: dsq-747533456
+date: 2010-11-09T15:45:28.0000000-08:00
+name: AndreVianna
+avatar: https://disqus.com/api/users/avatars/AndreVianna.jpg
+message: '<p>NuGet CTP 2 not working in VS2010... Keep receiving the following error:<br><code><br>PM&gt; Install-Package SQLCE.EntityFramework<br>Install-Package : Object reference not set to an instance of an object.<br>At line:1 char:16<br>+ Install-Package &lt;&lt;&lt;&lt;  SQLCE.EntityFramework<br>    + CategoryInfo          : NotSpecified: (:) [Install-Package], NullReferenceException<br>    + FullyQualifiedErrorId : NuGet.VisualStudio.Cmdlets.InstallPackageCmdlet<br></code><br>How can I fix it? Or How can I revert to last version?</p>'

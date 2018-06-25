@@ -1,0 +1,5 @@
+id: dsq-747519193
+date: 2007-03-15T00:55:26.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Ryan: Well that's just a matter of style. It's like C# bracket placement. Ideally, before I deploy my CSS, I'd run it through a CSS compressor.<br>div{margin: 10px 20px;}<br>@jody: Good point. It is more readable to specify margin-top. I hadn't considered that because it's kind of second nature for me. It works like a clock. Top Right Bottom Left.<br>Just remember TRBL! (pronounced Treble)</p>"

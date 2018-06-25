@@ -1,0 +1,5 @@
+id: dsq-747527596
+date: 2009-01-04T09:53:47.0000000-08:00
+name: Lance Fisher
+avatar: https://disqus.com/api/users/avatars/Lance Fisher.jpg
+message: "<p>Nice work on this.  I've looked into this before, and found the same stackoverflow question and solutions.  Way to take it a step further!<br>You mentioned that renaming could break the formatter, but if you use the anonymous object approach as a mapper, it shouldn't be a problem.  e.g.<br>  var person = repo.FetchPerson(1);<br>  string s = NamedFormat(<br>    \"First name: {firstName}, Last name: {lastName}\", <br>    new {firstName=person.FirstName, lastName=person.LastName});<br>This won't break the output if the FirstName or LastName properties names change.  Granted, this is a little more cumbersome than just passing the Person object to NamedFormat, but it gives you the refactoring protection if you want it.</p>"

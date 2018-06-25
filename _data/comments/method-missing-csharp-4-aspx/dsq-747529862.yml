@@ -1,0 +1,5 @@
+id: dsq-747529862
+date: 2009-09-09T03:31:00.0000000-07:00
+name: Bertrand Le Roy
+avatar: https://disqus.com/api/users/avatars/Bertrand Le Roy.jpg
+message: '<p>Quick question: why implement your own DynamicDictionary whereas ExpandoObject is pretty much it already?</p>'

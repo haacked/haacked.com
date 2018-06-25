@@ -1,0 +1,5 @@
+id: dsq-747526787
+date: 2008-11-07T17:24:24.0000000-08:00
+name: Tommy
+avatar: https://disqus.com/api/users/avatars/Tommy.jpg
+message: <p>Thank for this great post Phil. One question. Can I still map routes in Global.asax? Like:<br>routes.MapRoute(<br>    "Kontrakt-Details",<br>    "Kontrakt/{kontraktId}",<br>    new { controller = "Kontrakt", action = "Details" }<br>);<br>This controller is located in the root namespace. Should I point it to the namespace or what? And how?</p>

@@ -1,0 +1,6 @@
+id: dsq-2474975837
+replyToId: dsq-2333511583
+date: 2016-01-24T05:34:03.0000000-08:00
+name: Broliant
+avatar: https://disqus.com/api/users/avatars/broliant.jpg
+message: <p>ConEmu comes with a few useful util-scripts in the standard distribution, one of which enables displaying the git branch name plus basic branch stats in the command-prompt.</p><p>You can enable it manually at any time by issuing the command "%ConEmuBaseDir%\GitShowBranch /i" although this may also need you to setup an environment variable that points to the location of git.exe/git.cmd on your machine... for example, you can do something like "setx ConEmuGitPath "D:\Home\Apps\Git\cmd\git.exe" - adjusted obviously for where git.exe is on your machine and you can check this using "where git" at the command prompt.</p><p>Alternatively, if you have configured ConEmu with a custom CmdInit.cmd (also in the %ConEmuBaseDir%) then you can simply switch it on for every new command shell you open in ConEmu.</p><p>The final result (with nicely coloured/colored text) will be something like:</p><p>broliant@vmwin10 d:\Home\Broliant\Projects\project-001 [master +1 ~0 -0]</p><p>It works really nicely. Give it a go. :)</p>

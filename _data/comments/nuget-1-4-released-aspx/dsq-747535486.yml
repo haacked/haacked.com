@@ -1,0 +1,5 @@
+id: dsq-747535486
+date: 2011-06-22T11:24:38.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>As far as we can tell, the signing errors are occuring on Windows XP or Windows 2003 boxes due to a potential bug with the certificate authorities on those boxes. This is not a NuGet bug as far as we can tell. For example, most people were able to upgrade just fine.<br>If you download our VSIX from 1.3 and 1.4 and compare them, you'll see that the signatures are correct.</p>

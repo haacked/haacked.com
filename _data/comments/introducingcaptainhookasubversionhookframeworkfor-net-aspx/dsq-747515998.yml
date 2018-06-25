@@ -1,0 +1,5 @@
+id: dsq-747515998
+date: 2007-03-19T21:26:35.0000000-07:00
+name: Eva Rossa
+avatar: https://disqus.com/api/users/avatars/Eva Rossa.jpg
+message: <p>Hi<br>Do you have a sample of code on how to send email using CaptainHook on post-commit? The sample post-commit.bat that you have is not clear on how this is done.<br>Is it as simple as this?<br>c:\svn\hooks\CaptainHook.exe %~n0 %REPOS% /r %REV% myemail@email.com<br>(as in putting the email at the end of the line)<br>Eva</p>

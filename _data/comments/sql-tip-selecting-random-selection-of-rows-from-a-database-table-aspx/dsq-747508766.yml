@@ -1,0 +1,5 @@
+id: dsq-747508766
+date: 2006-07-13T12:17:00.0000000-07:00
+name: Sudhakar.D
+avatar: https://disqus.com/api/users/avatars/Sudhakar.D.jpg
+message: <p>This is alright, but i wanted to get Top 10 rows from a Dataset and I dont want to get Top 10 rows from sql itslef, I dont want to reconnect to the database, once the dataset is received.<br>   Anybody has the clue, how to do it?</p>

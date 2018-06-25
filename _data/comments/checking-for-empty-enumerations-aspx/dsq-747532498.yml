@@ -1,0 +1,5 @@
+id: dsq-747532498
+date: 2010-06-09T20:32:37.0000000-07:00
+name: Jason
+avatar: https://disqus.com/api/users/avatars/Jason.jpg
+message: <p>Phil,<br>As I posted on Ayende's blog, I'm not liking the semantics of the extension method.<br>Calling a method in an instance fashion to check for null should throw a null pointer exception if it's null.<br>We don't say "somestring".IsNullOrEmpty, we use String.IsNullOrEmpty(someString)<br>Seems counter-intuitive. <br>TJ:<br>No, it will work just fine. The compiler changes it to a static call which accepts null arguments just fine like any other method.<br>That's the problem though. Looking at it, it should throw an NPE, but it doesn't.</p>

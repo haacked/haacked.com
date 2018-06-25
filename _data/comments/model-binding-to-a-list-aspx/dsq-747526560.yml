@@ -1,0 +1,5 @@
+id: dsq-747526560
+date: 2008-11-12T23:00:45.0000000-08:00
+name: Brett
+avatar: https://disqus.com/api/users/avatars/Brett.jpg
+message: <p>Ok I found solution to our problem. I guess the Bind(include doesnt work on the list. You have to place it directly on the object class thats in your list. So in his example.<br>public ActionResult UpdateProducts(<br>IList products) {<br>return View(products);<br>} <br>[Bind(Include = "Name, Price")]<br>public class Product {<br>    public string Name { get; set; }<br>    public decimal Price { get; set; }<br>}<br>Now i dont get stack overflow. Hope it helps someone.<br>Brett<br></p>

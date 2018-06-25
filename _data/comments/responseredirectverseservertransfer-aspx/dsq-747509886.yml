@@ -1,0 +1,5 @@
+id: dsq-747509886
+date: 2006-12-05T14:17:30.0000000-08:00
+name: Sam
+avatar: https://disqus.com/api/users/avatars/Sam.jpg
+message: <p>An application contains a form where user enters his data like name address etc<br>once the page is submitted it calls another page say nextPage.aspx. this page does not give any display info to the user but just process some data.<br>so which of these will u use?</p>

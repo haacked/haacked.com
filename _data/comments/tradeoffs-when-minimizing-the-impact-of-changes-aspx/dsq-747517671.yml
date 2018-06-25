@@ -1,0 +1,5 @@
+id: dsq-747517671
+date: 2006-11-16T03:18:36.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Rick, I probably wasn't clear, but that's exactly what I'm talking about. My example was Blog<strong>Data</strong>Provider.  The idea behind a provider there is so that onstensibly, the application is shielded from the specific implementation of the database.<br>But in practice, this is problematic. Look at .TEXT and Subtext, which have been around a while. Are there any providers implemented for other databases?  What about DotNetNuke?  Providers for other databases are extremely rare.<br>If you have four concrete providers, and you add a column, you have four places (at least) to make that change.  The providers have to know about the new column, right?<br>But if you use something like a dynamic query engine, you only make that change once for all databases that the query engine supports.</p>

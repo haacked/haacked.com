@@ -1,0 +1,6 @@
+id: dsq-1455915203
+replyToId: dsq-1450359496
+date: 2014-06-26T11:51:20.0000000-07:00
+name: John Bubriski
+avatar: https://disqus.com/api/users/avatars/JohnBubriski.jpg
+message: '<p>I added this!  I simply reverted most of the version references from 12 to 11, and then with a Tweak from Jared Parson it should work with 2012 and 2013.  There is a Pull Request open right now for it: <a href="https://github.com/Haacked/Encourage/pull/8" rel="nofollow noopener" title="https://github.com/Haacked/Encourage/pull/8">https://github.com/Haacked/...</a></p>'

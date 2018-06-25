@@ -1,0 +1,5 @@
+id: dsq-747521174
+date: 2007-06-17T05:48:56.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Ben - I don't understand your point.<br>I linked to a post where someone wanted to remove the DIV around the hidden inputs. I also linked to a comment in ScottGu's blog where someone mentioned a problem with the generated DIV creating a gap.<br>I didn't tell (aka <em>Prescribe</em>) these people to use CSS to apply a style to all DIVs. I am <em>describing</em> the fact people are doing so, and thus running into problems.<br>My post, is meant to be both a workaround to the problem that these people have encountered as well as a minor critique of ASP.NET. If ASP.NET injects markup into your page, it ought to identify it somehow or make sure it is not going to have a visible effect (as in hidden inputs).<br>I feel my workaround is a better solution than trying to hack around with PageAdapter or Response.Filter.</p>

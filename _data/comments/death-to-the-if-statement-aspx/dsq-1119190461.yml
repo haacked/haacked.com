@@ -1,0 +1,5 @@
+id: dsq-1119190461
+date: 2013-11-12T00:38:00.0000000-08:00
+name: Stephen Byrne
+avatar: https://disqus.com/api/users/avatars/disqus_sm3AuzxBEk.jpg
+message: <p> I don't understand the hate on this - it's just an abstraction for a very specific requirement that saves you, the consumer of the method, from having to worry about how it works, and a simple comment on either the usage or the documentation for the method makes it clear what it does. I don't see anyone asking for the total removal of `if`....</p>

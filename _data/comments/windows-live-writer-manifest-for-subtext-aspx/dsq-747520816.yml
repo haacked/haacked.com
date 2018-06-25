@@ -1,0 +1,5 @@
+id: dsq-747520816
+date: 2008-06-28T23:14:16.0000000-07:00
+name: Anonymous
+avatar: https://disqus.com/api/users/avatars/Anonymous.jpg
+message: <p>I cannot get Live Writer to regognize my LIVE blog url.  I can get it to recognize localhost when I was testing live writer with Subtext locally.  But now, I have moved the blog to project using Visual Studio's built-in Publish function in the Build menu.  The blog runs fine, however I can't get Live Writer to regognize the Subtext provider after putting in my live blog URL, username and password in the Live Writer account setup.  Same thing I did before but just changed my localhost url in the account setup to the live blog url that's hosting my blog.<br>Any hints to get Live Writer working here?</p>

@@ -1,0 +1,5 @@
+id: dsq-747521750
+date: 2010-11-17T02:14:20.0000000-08:00
+name: Kevin
+avatar: https://disqus.com/api/users/avatars/Kevin.jpg
+message: <p>As an alternative, changing the web.config entry entry from<br>&lt;add verb="POST,GET,HEAD" path="elmah.axd" type="Elmah.ErrorLogPageFactory, Elmah"/&gt;:<br>to:<br>&lt;add verb="POST,GET,HEAD" path="secretFolderName/elmah.axd" type="Elmah.ErrorLogPageFactory, Elmah"/&gt;<br>should help. Doing that, someone would have to guess the "secretFolderName" in order to access elmah.</p>

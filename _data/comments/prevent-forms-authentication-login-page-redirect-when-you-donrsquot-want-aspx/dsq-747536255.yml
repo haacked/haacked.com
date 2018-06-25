@@ -1,0 +1,5 @@
+id: dsq-747536255
+date: 2011-10-04T19:00:43.0000000-07:00
+name: dotnetchris
+avatar: https://disqus.com/api/users/avatars/dotnetchris.jpg
+message: <p>What was Microsoft thinking when they needed to create "TrySkipIisCustomErrors"? That is one of the most nonsense ideas ever. Oh you said return a 410 error, you couldn't have meant to do that, we're going to do something else for you. Wait you said for us to to try to skip our custom "helping" carry on then.</p>

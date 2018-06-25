@@ -1,0 +1,5 @@
+id: dsq-747511176
+date: 2008-05-14T02:41:16.0000000-07:00
+name: siva
+avatar: https://disqus.com/api/users/avatars/siva.jpg
+message: <p>Can anybody tell me how to delete the old log files using log4net. I know using the property "maxsizerollbackups" which is doing the roll back of a file when it reaches to max size.i am using the rolling style as "Date". So every day log file is created but i want to set an option of delete the old files for last 2week or 3 weeks or 10 days like that...<br>Your help is greatly appreciated..<br>Thanks<br>Siva</p>

@@ -1,0 +1,5 @@
+id: dsq-747525270
+date: 2008-05-27T14:21:16.0000000-07:00
+name: Martin
+avatar: https://disqus.com/api/users/avatars/Martin.jpg
+message: <p>Same problem, but I fixed it by removing the references to the three MVC assemblies, and adding them again but referencing the ones installed into Program Files\Microsoft ASP.NET\ASP.NET MVC Preview 3\Assemblies</p>

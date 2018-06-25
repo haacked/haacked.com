@@ -1,0 +1,5 @@
+id: dsq-747508868
+date: 2009-02-08T19:34:39.0000000-08:00
+name: Simian
+avatar: https://disqus.com/api/users/avatars/Simian.jpg
+message: <p>I had the same problem, I thought the StringDictionary would be perfect for my needs and was confused when I first used it. Looking at it carefully I had to revert back to using a Dictionary&lt;String, String&gt;</p>

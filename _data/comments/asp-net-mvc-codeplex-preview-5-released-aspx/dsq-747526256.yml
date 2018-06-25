@@ -1,0 +1,5 @@
+id: dsq-747526256
+date: 2008-09-01T00:11:19.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>We run everything through Code Analysis (FxCop). We don't run anything through StyleCop AFAIK.</p>

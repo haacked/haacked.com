@@ -1,0 +1,5 @@
+id: dsq-747510139
+date: 2004-10-25T23:05:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Pat, you're absolutely right.  There is an SGML library as well as the HTML agility pack (<a href="http://blogs.msdn.com/smourier/archive/2003/06/04/8265.aspx" rel="nofollow noopener" title="http://blogs.msdn.com/smourier/archive/2003/06/04/8265.aspx">http://blogs.msdn.com/smourier/archive/2003/06/04/8265.aspx</a>).<br><br><br><br>However, we (RSS Bandit) found that SGML was too heavyweight, poor performing, and even a bit buggy for the simple task of searching HTML for links to RSS Feeds.<br><br><br><br>I was tasked with replacing SGML with regular expressions and it performs quite well.</p>

@@ -1,0 +1,5 @@
+id: dsq-747527859
+date: 2009-01-30T00:14:33.0000000-08:00
+name: Kevin Pang
+avatar: https://disqus.com/api/users/avatars/Kevin Pang.jpg
+message: <p>I like the approach, although I wish there was a way to utilize it while still having graceful degradation for users with javascript disabled.</p>

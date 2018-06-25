@@ -1,0 +1,5 @@
+id: dsq-747524442
+date: 2009-01-22T02:07:25.0000000-08:00
+name: Jeromy Irvine
+avatar: https://disqus.com/api/users/avatars/Jeromy Irvine.jpg
+message: <p>This is exactly what I needed for a project. Is there any chance that something like this will make it into the framework in the future?<br>One note, I think there is a bug in the Demo download. HtmlHelper.cs, Line 50, Col 36 passes null rather than the "name" parameter.</p>

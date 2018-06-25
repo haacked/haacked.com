@@ -1,0 +1,5 @@
+id: dsq-747513784
+date: 2007-07-31T11:46:53.0000000-07:00
+name: furtographer
+avatar: https://disqus.com/api/users/avatars/furtographer.jpg
+message: <p>I want the (h1) header and the subtitle to be visible and linked (real text). And I want the entire flexible-width header plus background image to be clickable, as well.  It was simple to put the (div) inside the (a), until I found you can't put a block element (div) inside an inline element (a).  <br>So I guess I'm going to link both the (h1) and the (span class=subtitle), but with the (a) nested within each.  And in the CSS make them Display:Block, and give them huge padding areas with Border:None, Text-Decoration:None, and Overflow:Visible.  But I hope the stiff pixel dimensions will accommodate a user-font-upsize of 2 or 3 sizes. I don't want the header height to grow and show the inflexible background image.</p>

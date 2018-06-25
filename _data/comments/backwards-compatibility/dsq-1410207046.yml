@@ -1,0 +1,6 @@
+id: dsq-1410207046
+replyToId: dsq-1408402349
+date: 2014-05-29T08:40:10.0000000-07:00
+name: Eric J. Smith
+avatar: https://disqus.com/api/users/avatars/ericjsmith12.jpg
+message: <p>The entire pipeline is different. If you are doing anything other than simple controller actions then you will need to do work migrating your filters, message handlers, formatters, auth, constraints, action results and who knows what else. It will definitely be an effort to move to the new pipeline.</p>

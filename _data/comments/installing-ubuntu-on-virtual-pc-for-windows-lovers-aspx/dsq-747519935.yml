@@ -1,0 +1,5 @@
+id: dsq-747519935
+date: 2007-05-06T06:03:56.0000000-07:00
+name: Tero Miettinen
+avatar: https://disqus.com/api/users/avatars/Tero Miettinen.jpg
+message: <p>You were talking about the sudo-command, most system-files need you to be super-user(aka root), in order to be able to write the changes to the file.<br>In Ubuntu su-program is not used by default, I prefer to use that when changing something like this. It actually logs you in as super-user instead of executing one command.<br>Ps. My first post ;)</p>

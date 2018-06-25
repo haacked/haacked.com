@@ -1,0 +1,5 @@
+id: dsq-747535213
+date: 2011-05-11T13:05:01.0000000-07:00
+name: Tjaart
+avatar: https://disqus.com/api/users/avatars/Tjaart.jpg
+message: <p>Excellent timing as today I am going to integrate NuGet support into my product.<br>One topic that I haven't found much information on is hosting a writable NuGet feed that will allow users to publish their packages, similar to the official NuGet backend. <br>This will be very useful for commercial applications or hosting a private service within a company.</p>

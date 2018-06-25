@@ -1,0 +1,5 @@
+id: dsq-747509878
+date: 2006-08-09T20:00:11.0000000-07:00
+name: Tian van Heerden
+avatar: https://disqus.com/api/users/avatars/Tian van Heerden.jpg
+message: <p>To Ingo-Stefan,<br>You should use Response.RedirectToMobilePage in WAP sites. This is more reliable across the many mobile platforms out there.<br>Also, it will always raise a RedirectException (or something like that) which you can trap and ignore (as per Microsoft's recommendation ;-)<br>Hope this helps,<br>Tian</p>

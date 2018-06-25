@@ -1,0 +1,5 @@
+id: dsq-747537682
+date: 2012-03-12T13:02:48.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Josh let's be civil now. :) James didn't necessarily plug that post.<br>@James, I agree with Josh. I think a Framework's use of it would be an anti-pattern if it <strong>FORCED</strong> you to use the pattern.<br>But if you notice all the ASP.NET MVC examples show constructor injection for the Controllers. While MVC might use service location in a few places, *your* code doesn't need to. But you can if you choose to.<br>The only time your code needs to deal with service location is to configure a container with the built in dependency resolver.</p>

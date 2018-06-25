@@ -1,0 +1,5 @@
+id: dsq-747526632
+date: 2012-01-10T21:34:20.0000000-08:00
+name: lebarquero
+avatar: https://disqus.com/api/users/avatars/lebarquero.jpg
+message: <p>Thank you for this post.<br>I followed all the steps and everything are fine, but I have little problem, my method post's argument always return null. The argument is a viewmodel class with a list collection.<br>I using MVC3 with razor engine.<br>I'll apreciate any suggestion.<br>Regards</p>

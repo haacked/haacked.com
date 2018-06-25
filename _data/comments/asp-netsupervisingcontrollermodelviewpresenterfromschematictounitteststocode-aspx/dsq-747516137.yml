@@ -1,0 +1,5 @@
+id: dsq-747516137
+date: 2006-08-09T03:49:27.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hmmm. I like the idea of Page_PreInit.  That might be a worthy trade-off.  Who handles Page_PreInit these days anyways?!</p>

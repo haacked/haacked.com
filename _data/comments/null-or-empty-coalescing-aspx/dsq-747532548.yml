@@ -1,0 +1,5 @@
+id: dsq-747532548
+date: 2010-06-16T11:43:10.0000000-07:00
+name: cbp
+avatar: https://disqus.com/api/users/avatars/cbp.jpg
+message: "<p>Good idea, I've been wishing for something like this for a while.<br>Here's an alternative though, which I prefer:<br>public static string Coalesce(this string value, params string[] with)<br>{<br>    if (with.Length == 0) return value;<br>    return string.IsNullOrEmpty(value) <br>        ? with[0].Coalesce(with.Skip(1).ToArray()) : value;<br>}<br><br>Which allows you to write something like:<br>myStringA.Coalesce(myStringB, myStringC);</p>"

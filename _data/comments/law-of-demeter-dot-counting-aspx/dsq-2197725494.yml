@@ -1,0 +1,5 @@
+id: dsq-2197725494
+date: 2015-08-16T18:15:56.0000000-07:00
+name: JeanFrederic Nault
+avatar: https://disqus.com/api/users/avatars/jeanfredericnault.jpg
+message: <p>For the examble of the view with the order. Order should not have a property username, it should have a method getUserName that will use the user object.</p><p>So the view know the order<br>The order now the user</p><p>The order expose through its public interface a method to communicate with its user object</p>

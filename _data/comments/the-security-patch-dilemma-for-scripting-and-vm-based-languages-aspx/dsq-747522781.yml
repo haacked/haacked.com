@@ -1,0 +1,5 @@
+id: dsq-747522781
+date: 2007-09-21T02:04:57.0000000-07:00
+name: Joshua Flanagan
+avatar: https://disqus.com/api/users/avatars/Joshua Flanagan.jpg
+message: <p>I'm confused about why the ease of decompiling a binary makes things harder, when we are talking about open source software. If the source is available, why would anyone need to decompile?<br>Which I suppose is what is meant by point 4 above about not committing to source control, but that seems really backwards to me. Compiled code is distributed that has never been checked into source control? You build it on your local machine outside of the normal build process which is designed to promote consistency?<br>Do projects like CVS, Subversion, SubText, etc have a private source control repository?</p>

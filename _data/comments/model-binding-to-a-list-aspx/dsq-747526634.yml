@@ -1,0 +1,5 @@
+id: dsq-747526634
+date: 2012-02-01T05:49:41.0000000-08:00
+name: comgiu
+avatar: https://disqus.com/api/users/avatars/comgiu.jpg
+message: <p>if u need to select with jquery a textbox u need to escape it<br>like this $("#\\[0\\]_Title")<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747516872
+date: 2006-09-25T23:25:32.0000000-07:00
+name: Craig
+avatar: https://disqus.com/api/users/avatars/Craig.jpg
+message: <blockquote>When the user submits the form, we take the submitted value from the hidden form field, combine it with a secret salt value, and then hash the whole thing together.</blockquote><p><br>How is the salt secret? I assume you have to send it to the client so they can use it as well...</p>

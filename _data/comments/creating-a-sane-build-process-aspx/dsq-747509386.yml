@@ -1,0 +1,5 @@
+id: dsq-747509386
+date: 2004-08-26T06:29:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Funny you mention it.  I keep my build script in source control as a "Solution File".  So when I run the build script, it will update itself from source control (though the changes don't apply to the current run).<br><br><br><br>At some point when I get CruiseControl.NET up and running (there's no Surround SCM support so I have to write a custom SCM task), changing anything including the build file will trigger the build process.<br><br><br><br>I am running into the perf issue with my current build.  The Unit tests create a socket server, simulates multiple clients connecting simultaneously while issuing commands, and then closes the whole thing.  This test alone takes a bit of time. Overall, under 10 minutes, but that's a bit long for unit tests to run.</p>

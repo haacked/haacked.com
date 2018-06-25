@@ -1,0 +1,5 @@
+id: dsq-747516974
+date: 2006-09-27T05:52:15.0000000-07:00
+name: Ben Scheirman
+avatar: https://disqus.com/api/users/avatars/Ben Scheirman.jpg
+message: <p>I've found that another log4net annoyance (not really log4net's fault, but annoying none-the-less) is that it's database commands will auto-enlist inside of a TransactionScope (or COM+ distributed transaction).  <br>With my data access unit tests I've been regularly just newing up a TransactionScope on Setup and disposing it on TearDown.  This is great to keep the db in a known state every time, but bad not having ANY logging for my tests.  I've resorted to using file appenders for my tests, which is hard to sift through.<br>Thoughts?</p>

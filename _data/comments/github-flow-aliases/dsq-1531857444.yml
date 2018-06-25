@@ -1,0 +1,6 @@
+id: dsq-1531857444
+replyToId: dsq-1531431214
+date: 2014-08-07T08:35:14.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>You can use -u instead of --set-upstream.</p><p>git push -u origin branch-name</p><p>It wouldn't be too hard to write an alias that assumes origin. Something like (untested):</p><p>pushit = push -u origin $1</p><p>usage:</p><p>git pushit branch-name</p>

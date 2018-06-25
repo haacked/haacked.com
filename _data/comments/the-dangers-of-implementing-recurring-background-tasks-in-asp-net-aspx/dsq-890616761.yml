@@ -1,0 +1,5 @@
+id: dsq-890616761
+date: 2013-05-09T01:42:36.0000000-07:00
+name: Rob Church
+avatar: https://disqus.com/api/users/avatars/disqus_TE2GsZaMF6.jpg
+message: <p>Instead of locking just to set the flag, could you not use the volatile keyword on the bool? It would prevent any code hanging around for locks and you could even check it more easily through-out your work() function.</p>

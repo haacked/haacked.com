@@ -1,0 +1,5 @@
+id: dsq-747537213
+date: 2011-12-19T20:30:46.0000000-08:00
+name: Bradley T. Landis
+avatar: https://disqus.com/api/users/avatars/Bradley T. Landis.jpg
+message: <p>Perry,<br>You should be running 'Start-sshagent' not 'Start ssh-agent'.  That said, I see the ssh-agent process start and I still get prompted every time.  I do have my machine set up with multiple keys and a config file in my .ssh directory.  Does this only work in the simple case?<br>Thanks,<br>Bradley</p>

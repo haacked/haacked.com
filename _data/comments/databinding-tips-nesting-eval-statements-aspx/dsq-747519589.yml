@@ -1,0 +1,5 @@
+id: dsq-747519589
+date: 2007-04-12T20:32:23.0000000-07:00
+name: Filini
+avatar: https://disqus.com/api/users/avatars/Filini.jpg
+message: <p>I, too, prefer to use a separate layer to prepare my data for layout.<br>In the project I work at the moment, the Data returned by my services is transformed in a DataTable with all the right "strings" for layout presentation, and this DataTable can be databound to a Repeater, or a DataList, or a DataGrid depending on the situation.<br>I found this approach very easy to mantain, over the years.</p>

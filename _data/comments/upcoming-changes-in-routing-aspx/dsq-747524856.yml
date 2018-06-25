@@ -1,0 +1,5 @@
+id: dsq-747524856
+date: 2008-04-13T00:03:09.0000000-07:00
+name: Dragan Panjkov
+avatar: https://disqus.com/api/users/avatars/Dragan Panjkov.jpg
+message: <p>What if I download dynamic data preview and manually copy routing dll into bin folder of my mvc sites? It should use that version (I don't plan to install dynamic data preview, so then routing dll will not be deployed into gac)</p>

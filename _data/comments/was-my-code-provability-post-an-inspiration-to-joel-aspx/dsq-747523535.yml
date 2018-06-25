@@ -1,0 +1,5 @@
+id: dsq-747523535
+date: 2007-12-04T04:47:11.0000000-08:00
+name: Jeff Handley
+avatar: https://disqus.com/api/users/avatars/Jeff Handley.jpg
+message: <p>When I read Joel's post, I too thought maybe he was referring to you!  But I also got the impression later on that it was just a coincidence.<br>I do like something you said here though... "It’s no proof of correctness, but can be a proof of incorrectness when a test fails."  That is an excellent statement!<br>I am not a TDD advocate, but I see its benefits.  Sadly, I've talked to many people and heard and read from a lot of people who seem to think TDD does prove correctness.  But, as you've said here, it doesn't.  It can only make you aware of failures against scenarios that are expected to succeed.</p>

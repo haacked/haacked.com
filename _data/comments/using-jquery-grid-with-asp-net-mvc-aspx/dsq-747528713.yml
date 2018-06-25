@@ -1,0 +1,5 @@
+id: dsq-747528713
+date: 2010-03-25T16:13:09.0000000-07:00
+name: Ranjith
+avatar: https://disqus.com/api/users/avatars/Ranjith.jpg
+message: <p>Hi,<br>I am using sample example in <a href="http://vb.net" rel="nofollow noopener" title="vb.net">vb.net</a>. but It throws error in(lambda parameter not in scope)<br>  Dim jsondata = New With {.total = totalPages, .page = page, .records = totalRecords, _<br>           .rows = (From Product In lobjProducts Select New With {.ProductID = Product.ProductID, _<br>            .cell = New String() {Product.ProductID, Product.Title.ToString(), Product.Description.ToString(), Product.IsActive.ToString()}}).ToArray()}<br><br>I search a lot, nobody can implement in <a href="http://vb.net" rel="nofollow noopener" title="vb.net">vb.net</a>.<br>.cell = New String() ----here I didn't get the values.<br>please help me.<br><br></p>

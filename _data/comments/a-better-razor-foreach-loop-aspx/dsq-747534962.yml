@@ -1,0 +1,5 @@
+id: dsq-747534962
+date: 2011-04-14T17:14:24.0000000-07:00
+name: Anonymous
+avatar: https://disqus.com/api/users/avatars/Anonymous.jpg
+message: <p>Isnt this going to be an exponential iteration if the enumerable. Count() will need to enumerate all items, then ElementAt will probably also need to so the same thing for every single element.</p>

@@ -1,0 +1,5 @@
+id: dsq-747514790
+date: 2006-04-25T05:20:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Well that's an interesting question.  In this case, remembering the user requires dropping a cookie.  Shouldn't I ask the user if he or she wants me to do so before effectively writing a file to their machine?</p>

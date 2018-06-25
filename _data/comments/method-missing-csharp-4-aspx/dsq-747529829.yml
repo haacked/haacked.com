@@ -1,0 +1,5 @@
+id: dsq-747529829
+date: 2009-08-27T00:24:00.0000000-07:00
+name: Aaron Erickson
+avatar: https://disqus.com/api/users/avatars/Aaron Erickson.jpg
+message: <p>I can see this as being immediately useful in things like Fit tests. I frequently have a need to convert tests expressed by business users (imagine, someGroup.someProperty) into dictionary lookups.  Having something like this makes it much easier for me to allow business users who help us write acceptance tests to do so in a much more natural way.<br>Thanks for this!<br></p>

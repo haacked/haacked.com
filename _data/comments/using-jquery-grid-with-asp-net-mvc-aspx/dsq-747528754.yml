@@ -1,0 +1,5 @@
+id: dsq-747528754
+date: 2010-11-13T21:52:29.0000000-08:00
+name: Matt
+avatar: https://disqus.com/api/users/avatars/Matt.jpg
+message: <p>I am using VS2010 with .NET 4.0<br>Easy fix:<br>- Index.aspx:<br>change mType:'GET' to mType:'Post'<br>- HomeController.cs<br>Change <br>public ActionResult DynamicGridData<br>to<br>public JsonResult DynamicGridData<br>I am not sure this is the most efficient way to do it, but it works :)</p>

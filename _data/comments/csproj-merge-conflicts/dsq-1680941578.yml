@@ -1,0 +1,5 @@
+id: dsq-1680941578
+date: 2014-11-06T23:30:03.0000000-08:00
+name: Ali Servet Donmez
+avatar: https://disqus.com/api/users/avatars/pittleorg.jpg
+message: <p>I just created a brand new repository with GHfW `2.5.2.2` (currently latest), and it appears to me that auto generated `.gitattributes` file with `*.csproj merge=union` in it (along with all the others.)</p><p>Any ideas?</p>

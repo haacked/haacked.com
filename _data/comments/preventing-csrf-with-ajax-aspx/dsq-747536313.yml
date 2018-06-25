@@ -1,0 +1,5 @@
+id: dsq-747536313
+date: 2011-11-02T11:03:29.0000000-07:00
+name: Boycs
+avatar: https://disqus.com/api/users/avatars/Boycs.jpg
+message: <p>Thanks Phil, this was exactly what I was after. <br>I modified my implementation slightly to add a jQuery ajaxPrefilter to append the token on the client side, and used your AuthFilter globally and added:<br>if(filterContext.RequestContext.HttpContext.Request.HttpMethod.ToLower() != "post")<br>{<br>   return;<br>}<br>to target all form Post's...<br>This seems to work pretty nicely.</p>

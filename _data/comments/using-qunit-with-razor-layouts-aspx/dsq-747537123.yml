@@ -1,0 +1,5 @@
+id: dsq-747537123
+date: 2011-12-11T11:30:39.0000000-08:00
+name: Craig
+avatar: https://disqus.com/api/users/avatars/Craig.jpg
+message: <p>I have just been putting test suites in individual js files and including the lot of them in a single html page. We use RequireJS to manage dependencies to make sure everything gets loaded properly, so we don't have to include scripts under test in the main test runner page, because the tests themselves take care of loading them. It works well. It does require a lot of js to be loaded at once, but it also lets us run all tests in a single view.</p>

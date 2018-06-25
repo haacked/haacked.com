@@ -1,0 +1,5 @@
+id: dsq-747527123
+date: 2008-11-18T16:26:43.0000000-08:00
+name: Yuri Khan
+avatar: https://disqus.com/api/users/avatars/YuriKhan.jpg
+message: <p>By HTML 4.0 appendix B chapter 3.1, “a line break immediately following a start tag must be ignored, as must a line break immediately before an end tag. This applies to all HTML elements without exception.” This is what you are observing.<br>As far as I understand, the correct standard-compliant way to render a leading/trailing newline in a textarea (or any other element where white space is significant) is to enclose them (or the whole content, as may be practical) in a .</p>

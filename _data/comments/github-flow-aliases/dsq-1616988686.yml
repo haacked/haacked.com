@@ -1,0 +1,5 @@
+id: dsq-1616988686
+date: 2014-10-02T13:03:44.0000000-07:00
+name: qmmr
+avatar: https://disqus.com/api/users/avatars/qmmr.jpg
+message: "<p>Thanks for sharing!</p><p>After upgrading to git 2.1 I'm having weird errors when running my script, saying \"error: branch 'nameofthebranch' not found.\"<br><code>git branch --merged | grep -v | xargs git branch -d</code></p><p>Anyone have the same issue?</p>"

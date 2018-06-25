@@ -1,0 +1,5 @@
+id: dsq-747534217
+date: 2011-02-20T15:11:01.0000000-08:00
+name: hilton smith
+avatar: https://disqus.com/api/users/avatars/hilton smith.jpg
+message: <p>Hey phil, loving mvc3 and all that jazz except for the "Add View" dialog and its strongly typed dropdown.<br>As of this morning the strongly typed view dropdown lists every single class from every single one of my dependencies EXCEPT for the types from my actual web project.<br>I've cleaned, rebuilt, rebooted, searched stackoverflow and am pretty close to slaughtering a goat to sacrifice to the Gods of Add View Dialogs in the vain hope that appeasing them will bring back my classes and allow me to quickly add views instead of making me type them out myself.<br>Is there any place I can go to find out just how that dropdown is populated and what I need to delete in order for it to be rebuilt? The goat hopes there is....</p>

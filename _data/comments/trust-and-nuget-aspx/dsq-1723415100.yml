@@ -1,0 +1,5 @@
+id: dsq-1723415100
+date: 2014-12-03T03:37:39.0000000-08:00
+name: Martin Brown
+avatar: https://disqus.com/api/users/avatars/disqus_pMPfQ12t1i.jpg
+message: <p>It always amazes me that any of this code reuse works in practice. The complexities of including someone else's code don't just come from malicious code, they also come from intellectual property issues and lets face it very few developers actually pay any attention to these issues, they are too busy creating the next cool thing.<br>If I include open source code in a closed source application I may be breaking a contract. Likewise a package developer may have included copyrighted or worse patented code in an open source package without checking.<br>Still the whole reason why this isn't an issue is more to do with no one really enforcing any of these licences anyway. Maybe the accountability that signing would give may actually be a good thing. Because what we are really after is the inability of a package developer ducking out of their promises.</p>

@@ -1,0 +1,5 @@
+id: dsq-747535910
+date: 2011-08-16T14:54:34.0000000-07:00
+name: John Ludlow
+avatar: https://disqus.com/api/users/avatars/johnludlow.jpg
+message: <p>Whether you need to fix this depends on a whole raft of factors and trying to apply it to all software is just a recipe for failure.  Consider the following scenarios:<br>1) A customer-facing website, available in a limited number of languages, for a company that wants to showcase its professionalism.<br>2) A command-line utility written in my spare time for use by power users, administrators and developers.<br>3) An open-source web-based project, early in its development, with a limited development team and available in as many languages as possible.<br>4) A troubleshooting message intended to appear in a log somewhere.<br>In only one of those examples can I really say that fixing this kind of thing with a pluralisation method is really worth it - can you guess which one it is?<br>(Yeah, using the "theme(s)" fix might be acceptable in the others).</p>

@@ -1,0 +1,5 @@
+id: dsq-747528848
+date: 2009-04-16T22:58:00.0000000-07:00
+name: Joe Brinkman
+avatar: https://disqus.com/api/users/avatars/Joe Brinkman.jpg
+message: <p>@Phil - my comment on sample code not being updated is when it truly is a sample.  I have no problem with releasing samples early to get feedback, if there is a commitment to actually incorporating the feedback.  <br>I personally view sample code is "throwaway" code.  I don't use it to learn best practices or to incorporate into my app.  I use them to see how a single specific feature is used.  I do expect API calls and the like to be best practice, but I don't really care if all the error handling is in place, whether there are 10,000 unit tests for your 100 LOC or whether you favored inheritance or composition.<br>Just like the bubble sort is used to introduce CS students to sorting techniques, the sample app should INTRODUCE users to certain concepts.  It is not an end point, but a beginning from which you can move on to the real solution.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747516097
+date: 2006-08-08T12:10:26.0000000-07:00
+name: Lothan
+avatar: https://disqus.com/api/users/avatars/Lothan.jpg
+message: '<p>If only this would work within our database access logic so we could translate this ugly farce<br>Field = (bool) (row.IsNull("Field") ? false : row["Field"]);<br>into something a bit cleaner like this<br>Field = (bool) (row["Field"] ?? false);<br></p>'

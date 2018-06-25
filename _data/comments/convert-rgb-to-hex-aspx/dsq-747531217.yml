@@ -1,0 +1,5 @@
+id: dsq-747531217
+date: 2010-01-03T03:14:40.0000000-08:00
+name: NC
+avatar: https://disqus.com/api/users/avatars/NC.jpg
+message: "<p>$('body').append('&lt;div class=\"asdfghjkl\"&gt;&lt;/div&gt;');<br>$('.asdfghjkl').hide();<br>$('.asdfghjkl').css({ 'background': '#e0e0e0' });<br>equals($('.somecontainer').css(\"background-color\"), $('.asdfghjkl').css(\"background-color\"));</p>"

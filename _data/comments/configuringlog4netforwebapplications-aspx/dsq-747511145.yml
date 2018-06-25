@@ -1,0 +1,5 @@
+id: dsq-747511145
+date: 2005-05-20T08:20:00.0000000-07:00
+name: Emil
+avatar: https://disqus.com/api/users/avatars/Emil.jpg
+message: "<p>Great, just what I needed. Been pounding my head against the wall for last couple of hours, trying to get it work, and this was excactly what I needed to get starting.<br><br><br><br>I've made 2 slight chances though<br><br><br><br>1. I put the assembly line in the global.asax instead of the assembly.cs. As far as I can tell it makes no difference and it just seems a bit more 'logical' place to me - purely a question of taste (and of where I suspect my collegues will be able to find it :)<br><br><br><br>2. I've used <br><br>[assembly: log4net.Config.XmlConfigurator( ConfigFile=\"Log4Net.config\",Watch=true )] <br><br><br><br>Although it compiled just fine, I got a warning saying that the DOMConfigurator was obsolete and that the XmlConfigurator should be used instead - so I did :)<br><br><br><br><br><br>/emil@obey.your.compiler.or.die.com</p>"

@@ -1,0 +1,5 @@
+id: dsq-747531236
+date: 2010-07-25T13:30:15.0000000-07:00
+name: Rod Byrnes
+avatar: https://disqus.com/api/users/avatars/Rod Byrnes.jpg
+message: "<p>The following works. It's a modification of Cowboy Ben's elegant solution but takes into account variable whitespace and colors with leading zeros.<br><br>function colorToHex(c) {<br>        var m = /rgba?\\(\\s*(\\d+)\\s*,\\s*(\\d+)\\s*,\\s*(\\d+)/.exec(c);<br>        return m ? (1 &lt;&lt; 24 | m[1] &lt;&lt; 16 | m[2] &lt;&lt; 8 | m[3]).toString(16).substr(1) : c;<br>}<br></p>"

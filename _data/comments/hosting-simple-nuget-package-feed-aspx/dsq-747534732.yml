@@ -1,0 +1,5 @@
+id: dsq-747534732
+date: 2011-04-16T00:23:36.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@David it requires the ASP.NET Web Pages runtime. You can install ASP.NET MVC 3 to get it.</p>

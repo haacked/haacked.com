@@ -1,0 +1,5 @@
+id: dsq-747526825
+date: 2009-04-01T21:59:16.0000000-07:00
+name: $5830036
+avatar: https://disqus.com/api/users/avatars/$5830036.jpg
+message: <p>Thanks Phil! One thing though; forms. The Html.BeginForm() helper no longer works as it doesn't look in the area for the controller action.<br>Do you have anything for this?</p>

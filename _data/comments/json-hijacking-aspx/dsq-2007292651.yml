@@ -1,0 +1,6 @@
+id: dsq-2007292651
+replyToId: dsq-2006771382
+date: 2015-05-05T14:33:34.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Well sessions are implemented using cookies. So as long as you properly secure the cookies in the same way sessions do, you'll be OK. But you have to be very careful with this. I'd look for existing methods in the framework for doing this, setting expirations on the tokens inside of cookies, etc.</p>

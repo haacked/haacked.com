@@ -1,0 +1,5 @@
+id: dsq-747524220
+date: 2008-02-20T21:57:40.0000000-08:00
+name: Mark Pflug
+avatar: https://disqus.com/api/users/avatars/Mark Pflug.jpg
+message: <p>The <a href="http://Ado.net" rel="nofollow noopener" title="Ado.net">Ado.net</a> team went with ABCs in designing the provider model with 2.0. Each of these ABCs in turn implemented a corresponding interface that existed in 1.1. Since the DbProviderFactory returns ABCs from each of its CreateXXX methods, the interfaces were rendered useless for the same reasons you pointed out. For the most part it works well.<br>However, take the DbCommandBuilder ABC as an example of what not to do when implementing ABCs. Its three main public methods, Create(Insert/Update/Delete)Command(), are non-virtual which means that derived classes are extremely limited in what they can do to alter the behavior, and are effectively tied to an implementation that may not work for what they are trying to accomplish (as was the case for me...).</p>

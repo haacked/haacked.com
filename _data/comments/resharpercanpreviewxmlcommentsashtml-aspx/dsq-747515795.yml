@@ -1,0 +1,5 @@
+id: dsq-747515795
+date: 2006-07-19T20:19:00.0000000-07:00
+name: Jason Kemp
+avatar: https://disqus.com/api/users/avatars/Jason Kemp.jpg
+message: <p>Resharper's QuickDoc feature also works on any method or property. Hit Ctrl-Q over a property from the framework (like, say, Uri.OriginalString) in your code and voila! Documentation!<br></p>

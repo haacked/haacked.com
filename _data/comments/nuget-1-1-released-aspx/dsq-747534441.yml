@@ -1,0 +1,5 @@
+id: dsq-747534441
+date: 2011-02-12T19:34:38.0000000-08:00
+name: Gabriel Rodriguez
+avatar: https://disqus.com/api/users/avatars/Gabriel Rodriguez.jpg
+message: <p>Quick question for you Phil.<br>Is there a way, when creating a NuGet package, to have certain files put on the root of the solution instead of the bin folder?<br>I created a StackOverflow question about this, when it comes to installing Subsonic, about the T4 templates not being included in the package. Rob mentioned he wasn't aware of a way to push certain stuff to somewhere else other than the bin. Is there a work-around for this, or is this planned for a future release? <br>Thanks for such a cool tool!</p>

@@ -1,0 +1,5 @@
+id: dsq-747531989
+date: 2010-05-15T08:47:19.0000000-07:00
+name: JJ
+avatar: https://disqus.com/api/users/avatars/JJ.jpg
+message: <p>How can I tell if it is executing the JsonValueProviderFactory or not?<br>My JSON.stringify(...) method produces this string:<br>"{"Id":"3","OrderStatus"...Z","Comments":"rtgdds"}"<br>Is that the correct format?  In my action, the POCO object is not null, but all of its fields are null</p>

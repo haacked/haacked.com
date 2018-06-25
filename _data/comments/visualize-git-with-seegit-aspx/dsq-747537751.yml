@@ -1,0 +1,5 @@
+id: dsq-747537751
+date: 2012-03-15T11:51:12.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Seth log an issue. I have some fallback code we can add to use the OLD file browser dialog. Or better yet, send a pull request since I can't test it. :)</p>

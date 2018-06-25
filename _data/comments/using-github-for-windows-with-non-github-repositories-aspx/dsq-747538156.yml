@@ -1,0 +1,5 @@
+id: dsq-747538156
+date: 2012-06-28T12:21:50.0000000-07:00
+name: fde
+avatar: https://disqus.com/api/users/avatars/fde.jpg
+message: <p>May be it's a stupid question here but anyway.<br>We have several git-backed and svn-backed projects in our company. Usually we use git svn command to work with whole "zoo" in a standard fashion.<br>Is it possible to connect to svn repo from GitHub for Windows? <br></p>

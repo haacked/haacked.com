@@ -1,0 +1,5 @@
+id: dsq-747527367
+date: 2008-11-28T11:11:31.0000000-08:00
+name: Charles Nurse
+avatar: https://disqus.com/api/users/avatars/Charles Nurse.jpg
+message: <p>The problem is not whether hosting proiders offer ASP.NET 3.5 - most do.  But, and this is important, usually only for new accounts.  If you are on a box with ASP.NET 2 installed and it is full, then you will likely need to get your site moved to a new box to get 3.5 - they won't upgrade a full server box.</p>

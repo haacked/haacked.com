@@ -1,0 +1,5 @@
+id: dsq-747534771
+date: 2011-04-07T13:39:03.0000000-07:00
+name: Jer0enH
+avatar: https://disqus.com/api/users/avatars/Jer0enH.jpg
+message: <p>I was also under the impression that a package was only added to the project, not to the solution, glad to know that it is actually done right!<br>Having multiple versions of a same external assembly sounds 'smelly' to me, I just don't see any cases where this would be absolutely required (sounds like I would rather split my solution in multiple parts...).</p>

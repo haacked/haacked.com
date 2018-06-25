@@ -1,0 +1,5 @@
+id: dsq-747529427
+date: 2009-06-25T22:27:00.0000000-07:00
+name: John Millikin
+avatar: https://disqus.com/api/users/avatars/John Millikin.jpg
+message: <p>Not a good idea -- if you do this, then JSON no longer matches JavaScript syntax. It also complicates the parser with several special cases, and makes auto-detecting the encoding more difficult.<br>A better solution, which retains backwards compatibility, is to modify server-side libraries so that they will refuse to serialize arrays as the outermost container. This solution is also easier to implement, because only one half of the system has to be modified.</p>

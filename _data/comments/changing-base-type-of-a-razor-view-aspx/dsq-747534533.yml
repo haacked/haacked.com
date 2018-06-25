@@ -1,0 +1,5 @@
+id: dsq-747534533
+date: 2011-07-30T11:45:28.0000000-07:00
+name: John
+avatar: https://disqus.com/api/users/avatars/John.jpg
+message: "<p>Super neat way to go and would like to use it.  Any chance that you could post a basic working set of code?<br>Pretty sure that I've followed everything written here and am getting a compilation error, not on build but when browsing a view:<br>CS0308: The non-generic type 'xxx.xxxx.CustomWebViewPage' cannot be used with type arguments.<br>Source Error:<br>public class _Page_Views_TestCheckout_Index_cshtml : xxx.xxxx.CustomWebViewPage&lt;dynamic&gt; {<br></p>"

@@ -1,0 +1,6 @@
+id: dsq-1053189432
+replyToId: dsq-1051551470
+date: 2013-09-20T12:20:26.0000000-07:00
+name: Max Battcher
+avatar: https://disqus.com/api/users/avatars/WorldMaker.jpg
+message: "<p>Are you possibly confusing System.Net.Http.HttpClient and the old System.Net.HttpWeb*?</p><p>System.Net.Http.HttpClient makes it very easy to check the response status code: <a href=\"http://msdn.microsoft.com/en-us/library/system.net.http.httpresponsemessage.statuscode.aspx\" rel=\"nofollow noopener\" title=\"http://msdn.microsoft.com/en-us/library/system.net.http.httpresponsemessage.statuscode.aspx\">http://msdn.microsoft.com/e...</a></p><p>Admittedly, that is a strong typed enum it returns, but it contains a lot more than HTTP 200 and HTTP 302: <a href=\"http://msdn.microsoft.com/en-us/library/system.net.httpstatuscode.aspx\" rel=\"nofollow noopener\" title=\"http://msdn.microsoft.com/en-us/library/system.net.httpstatuscode.aspx\">http://msdn.microsoft.com/e...</a><br>It doesn't throw exceptions for non-success error codes unless you call response.EnsureSuccessStatusCode(), and even that considers more than just 200 and 302 a successful status code.<br>YMMV, but I've not had the problems you describe with System.Net.Http.HttpClient for what I've needed it to do.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747525266
+date: 2008-11-11T18:20:43.0000000-08:00
+name: Stefan
+avatar: https://disqus.com/api/users/avatars/Stefan.jpg
+message: <p>Even if I just use output caching on the page with a route like /Test/{id}/{name} and I set a varybyparam="id" on the page, changing the id value will give me a new cache version but also changing the name will give a new cache item. I would expect only the id to change the cached page instance.</p>

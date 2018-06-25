@@ -1,0 +1,5 @@
+id: dsq-747519800
+date: 2007-04-24T22:25:41.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>"The Shuttle was connected to a surge protector, but not a UPS. I’m surprised it was fried"<br>I think the idea behind a surge protector is that the medium (gas, resistors, etc...) that prevents the surge from going through will be able to increase the resistance in direct proportion to the surge and shunting the extra current of through the ground plug.<br>Did your surge protector have a fuse in it? Could just be that some part of the HD had a defect that only showed up under high-current conditions. All that electrical stuff is voodoo magic to me at that level.</p>

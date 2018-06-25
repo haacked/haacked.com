@@ -1,0 +1,5 @@
+id: dsq-747534799
+date: 2011-04-13T23:20:06.0000000-07:00
+name: Steve Sheldon
+avatar: https://disqus.com/api/users/avatars/Steve Sheldon.jpg
+message: <p>We tried NuGet in a multi .sln, multi .csproj structure and it really started to fall apart fast.  Updates attach only affect projects, not solutions, etc.  I can confirm the first posters experience is correct.  This was with v1.1, haven't checked if this still happens with v1.2.<br>We considered using it with a local repository to manage shared libraries used by various feature teams.  It didn't help version management though, actually made it worse, and all the libraries were strewn throughout the TFS structure.<br>NuGet seems to work for demos and small dev projects, but not for larger endeavors.<br>I looked into this problem and came across Maven, which I think offers a better solution.  There you define your dependencies, and it's actually a build step to grab them if they aren't already there.  This way these dependencies are in a single location, a local repository perhaps, or your TFS build repository, etc.<br><br></p>

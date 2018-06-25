@@ -1,0 +1,5 @@
+id: dsq-747508752
+date: 2005-04-25T22:12:00.0000000-07:00
+name: TG
+avatar: https://disqus.com/api/users/avatars/TG.jpg
+message: <p>This returns 2 random records for me. However, on occasion, the 2 records returned are identical. Does anybody have any thought for preventing this from happening?<br><br><br><br>SELECT TOP 2  P.*, C.CatID  FROM JEP_tblProducts P, JEP_LtblProductCategories C  WHERE P.Image1&lt;&gt;'' AND C.ProductID = P.ProductID  ORDER BY NEWID()<br><br><br><br></p>

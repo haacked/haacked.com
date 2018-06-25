@@ -1,0 +1,5 @@
+id: dsq-747515581
+date: 2006-07-05T20:59:00.0000000-07:00
+name: Daniel
+avatar: https://disqus.com/api/users/avatars/Daniel.jpg
+message: <p>We use a similar technique, but you must also keep in mind that some scripts may need to be run in a certain order.  You wouldn't want an 'ALTER TABLE' to run before a 'CREATE TABLE', for example.  We use a custom app and library to package the change scripts in order, grouped by version, in a single XML file. This makes it easy for developers to keep their local db up-to-date, and when we roll out a new version of our app, we use the same XML file and library in our deployment package.<br>At it's core, the problem is that there hasn't been a first-class development IDE for database development- you can't version them, check them into source control, or deploy them.  Microsoft is addressing this in Team System, but to my knowledge there isn't anything being done for us poor non-TS developers.</p>

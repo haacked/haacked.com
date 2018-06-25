@@ -1,0 +1,5 @@
+id: dsq-747528879
+date: 2009-04-24T02:24:00.0000000-07:00
+name: Jeff
+avatar: https://disqus.com/api/users/avatars/Jeff.jpg
+message: <p>I think a good reference implementation would cover localization since there are so many ways you can do this in MVC (Multiple Views in different languages, Resource Files, Database Model Driven localization).  <br>This seems like one of the major concerns in web site development and I am not sure the best practices for doing this in MVC.  <br>I think what would be great is for people to post suggestions on what areas they would like to be covered in such a project and then have a community microsoft build it.<br></p>

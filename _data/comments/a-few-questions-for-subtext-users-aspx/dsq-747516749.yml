@@ -1,0 +1,5 @@
+id: dsq-747516749
+date: 2007-05-14T04:47:05.0000000-07:00
+name: MindShift
+avatar: https://disqus.com/api/users/avatars/MindShift.jpg
+message: <p>Just starting to look at subText and my host is one of many who charges more for MSSQL but does have MySQL available dirt cheap.<br>I don't know anything about NHibernate but when I was looking at Hibernate for a Java application I discovered Ibatis(<a href="http://ibatis.apache.org" rel="nofollow noopener" title="ibatis.apache.org">ibatis.apache.org</a>) which is also available now on the .NET platorm and provides Object to SQL or Stored procedure mapping.<br>Easy to use and found lots of Hibernate users switching to it!</p>

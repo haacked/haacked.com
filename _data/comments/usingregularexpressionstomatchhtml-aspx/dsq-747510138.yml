@@ -1,0 +1,5 @@
+id: dsq-747510138
+date: 2004-10-25T23:01:00.0000000-07:00
+name: Pat
+avatar: https://disqus.com/api/users/avatars/Pat.jpg
+message: <p>Just to play devil's advocate for a minute, it seems like HTML is just too darned close to XML to have to parse this way.  Isn't there a library out there for converting HTML into XHTML?  If you can do that, you can just read the file in using XmlDocument::LoadXml().  Once you've done that, you can find your tags using an XPath query.  Sorry, I just couldn't let a parsing post go by without tossing in my two cents ;)</p>

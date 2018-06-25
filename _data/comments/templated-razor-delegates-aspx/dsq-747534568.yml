@@ -1,0 +1,5 @@
+id: dsq-747534568
+date: 2011-03-22T15:04:52.0000000-07:00
+name: Krzysiek Szczęsny
+avatar: https://disqus.com/api/users/avatars/Krzysiek Szczęsny.jpg
+message: <p>I think you can work around the @&lt; issue with &lt;text&gt; tag - razor has this for "text only" nodes, so if my guess is correct, @&lt;text&gt;Html.TextBoxFor(...)&lt;/text&gt; should render the text box without a wrapper</p>

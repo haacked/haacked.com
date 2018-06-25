@@ -1,0 +1,6 @@
+id: dsq-935435985
+replyToId: dsq-935273003
+date: 2013-06-19T08:07:39.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Who cares if the code is less bloated if it crashes on a user? My rule of thumb is document your assumptions. If you believe a method should not return null, then Debug.Assert that. Or, if you really don't care if the result is null, use the null coalescing operator. That is pretty clean and not bloated.</p>

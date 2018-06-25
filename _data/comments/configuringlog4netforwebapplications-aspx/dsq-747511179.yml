@@ -1,0 +1,5 @@
+id: dsq-747511179
+date: 2008-09-04T11:01:31.0000000-07:00
+name: Sean
+avatar: https://disqus.com/api/users/avatars/Sean.jpg
+message: <p>For me on .net 2.0, using the Assembly annotation instead of the Global.asax.cs method made it work.<br>My configuration is in the web.config.<br>Also, for debugging, if you look at the ILog object, if all the IsDebugEnabled, IsErrorEnabled, et al, are FALSE, then you aren't loading the configuration file.  Hope that helps the next person.<br></p>

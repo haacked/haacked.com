@@ -1,0 +1,5 @@
+id: dsq-3316598141
+date: 2017-05-20T15:14:12.0000000-07:00
+name: M V
+avatar: https://disqus.com/api/users/avatars/martinovallara.jpg
+message: <p>Some questions to assure HttpModuleMagic's functioning.</p><p>1) What is the customHttpModule lifecycle? (It would seem "transient")<br>2) Can I use the InRequestScope Lifecycle dependencies customHttpModule?</p><p>thank you</p>

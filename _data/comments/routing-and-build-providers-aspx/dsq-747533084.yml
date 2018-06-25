@@ -1,0 +1,5 @@
+id: dsq-747533084
+date: 2011-12-20T03:39:12.0000000-08:00
+name: tilovell
+avatar: https://disqus.com/api/users/avatars/tilovell.jpg
+message: "<p>Excuse my newbie question. I have a project where I want .svc files to continue working.<br>I figured I should be able to remove buildProviders selectively at a directory level, however when I tried with a directory web.config I encountered this:<br>Parser Error Message: The element 'buildProviders' cannot be defined below the application level.<br>Source Error: <br><code><br>Line 2:    &lt;system.web&gt;<br>Line 3:      &lt;compilation debug=\"true\" targetFramework=\"4.0\"&gt;<br>Line 4:        &lt;buildProviders&gt;<br>Line 5:          &lt;remove extension=\".svc\"/&gt;<br>Line 6:        &lt;/buildProviders&gt;<br></code><br> <br>So this doesn't work - any idea why?</p>"

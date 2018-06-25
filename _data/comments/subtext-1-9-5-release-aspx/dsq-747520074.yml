@@ -1,0 +1,5 @@
+id: dsq-747520074
+date: 2007-05-10T23:20:33.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@skinnytie Yes, Subtext supports Medium trust since version 1.9 came out.<br>In web.config, change the &lt;trust /&gt; level to Medium.<br>  &lt;trust level="Medium" /&gt; <br>At some hosting providers, you have to remove the &lt;trust /&gt; element completely, as they already define it.</p>

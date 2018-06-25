@@ -1,0 +1,5 @@
+id: dsq-747531160
+date: 2009-12-26T03:21:34.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hi all. The reason I don't use the parent DIV is it's very likely that the link is not within the DIV I want to close. It just happened to be in this case.<br>However, I do like using the hash of the element. I'll try that out.</p>

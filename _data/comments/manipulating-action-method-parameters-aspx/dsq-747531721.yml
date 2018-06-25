@@ -1,0 +1,5 @@
+id: dsq-747531721
+date: 2010-02-22T14:19:22.0000000-08:00
+name: Phillip
+avatar: https://disqus.com/api/users/avatars/Phillip.jpg
+message: <p>No one in here is working on a site with 100k content pages where having a properly indexed friendly URL column on the page table is going to cause any performance concerns hitting the database looking for a friendly URL instead of an ID.<br>Instead of passing the ID around, use the "slug" as you call it.<br>There's no need for "two database hits" looking for the value for the "slug" then using the ID to get the content.</p>

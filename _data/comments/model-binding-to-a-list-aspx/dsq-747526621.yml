@@ -1,0 +1,5 @@
+id: dsq-747526621
+date: 2011-05-02T13:14:03.0000000-07:00
+name: JeffM
+avatar: https://disqus.com/api/users/avatars/JeffM.jpg
+message: <p>Like Terry, I want to know how to properly use ModelState.AddModelError(key, errorMessage) with this. For example,<br>ModelState.AddModelError("CategoryID", "Product category does not exist");<br>doesn't work because it should be something like<br>ModelState.AddModelError("products[42].CategoryID", "...");<br>However, the index (42 in this example) doesn't seem to be available to the controller.<br>Suggestion?</p>

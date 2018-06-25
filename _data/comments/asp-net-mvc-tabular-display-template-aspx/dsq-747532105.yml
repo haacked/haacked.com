@@ -1,0 +1,5 @@
+id: dsq-747532105
+date: 2010-05-05T15:59:38.0000000-07:00
+name: Nick Reeve
+avatar: https://disqus.com/api/users/avatars/Nick Reeve.jpg
+message: <p>Hey Phil,<br>You used typeof(System.Data.EntityState) to filter out the Entity Framework properties but that only filters out the EntityState property. There is also EntityKey and references to foreign key objects in my entity. I can filter out the EntityKey property by using typeof(System.Data.EntityKey) but can't seem to remove the foreign key reference properties. Is there a way of filtering these out here? The only way I have managed this is by creating a partial metadata class and adding '[ScaffoldColumn(false)]' to those fields.<br>Cheers,<br>Nick</p>

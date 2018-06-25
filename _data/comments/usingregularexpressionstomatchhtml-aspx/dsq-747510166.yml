@@ -1,0 +1,5 @@
+id: dsq-747510166
+date: 2005-05-20T17:53:00.0000000-07:00
+name: Help Me
+avatar: https://disqus.com/api/users/avatars/Help Me.jpg
+message: "<p>how to repalce alphanumeric charecters between  a tag with a \"-\"<br><br>Eg:<br><br>&lt;Tag&gt;Aapple's Great % Fruit&lt;/Tag&gt;<br><br>&lt;Tag&gt;Aapple's Bad # Fruit&lt;/Tag&gt;<br><br>should become <br><br>&lt;Tag&gt;Aapple-s Great - Fruit&lt;/Tag&gt;<br><br>&lt;Tag&gt;Aapple-s Bad - Fruit&lt;/Tag&gt;<br><br></p>"

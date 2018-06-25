@@ -1,0 +1,5 @@
+id: dsq-747512213
+date: 2012-03-23T15:56:45.0000000-07:00
+name: asdf
+avatar: https://disqus.com/api/users/avatars/asdf.jpg
+message: <p>I'm forced to use a very crappy 3rd party tool that overloads the page object. The tool sets textboxes automatically during PreLoad. What I'd like to do is to throw a fake page object at the crappy 3rd party tool. Then I'd be free to use normal coding practices. So ideally I want to write code like this:</p><blockquote><br>TextBox myTextBox = new ....<br>Page p =new new Page();<br>p.Form.Controls.Add(myTextBox);<br>p.PreLoad()<br>string ValueIWant = p.FindControl("myTextBox").Text<br></blockquote><p><br>Can this tool help me to do that?</p>

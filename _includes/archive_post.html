@@ -15,9 +15,7 @@
 			{% if post.categories.length > 0 %}
 			<span class="tags">{% include post/categories.html %}</span>
 			{% endif %}
-		    {% if site.disqus_short_name and post.comments == true and site.disqus_show_comment_count == true %}
-		    {% include post/comments_link.html %}
-		    {% endif %}
-		    <span class="edit">{% include post/edit.html %}</span>
+	    {% include post/comments_link.html %}
+	    <span class="edit">{% include post/edit.html %}</span>
 		</div>
 	</li>

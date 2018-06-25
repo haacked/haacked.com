@@ -1,0 +1,5 @@
+id: dsq-1113213079
+date: 2013-11-07T15:29:12.0000000-08:00
+name: mythz
+avatar: https://disqus.com/api/users/avatars/mythz.jpg
+message: <p>ServiceStack generates all its Custom builds and signed projects with a single node.js script that merges an empty project template with the files references in the master .csproj to generate the custom project .csprojs we use to build from:<br><a href="https://github.com/ServiceStack/ServiceStack/blob/master/build/codegen-projs.js" rel="nofollow noopener" title="https://github.com/ServiceStack/ServiceStack/blob/master/build/codegen-projs.js">https://github.com/ServiceS...</a></p>

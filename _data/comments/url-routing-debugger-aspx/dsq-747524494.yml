@@ -1,0 +1,5 @@
+id: dsq-747524494
+date: 2008-03-14T12:44:10.0000000-07:00
+name: Ben Scheirman
+avatar: https://disqus.com/api/users/avatars/Ben Scheirman.jpg
+message: <p>Phil, any particular reason why this code accepts a route collection as a method parameter, but then goes ahead and accesses the RouteTable.Routes singleton directly?<br>Is this an oversight, or is there a reason you did this?<br>(I told Scott that we should call this BettererRouteHandler.  Think about it...)</p>

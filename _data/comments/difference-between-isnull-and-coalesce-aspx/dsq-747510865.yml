@@ -1,0 +1,5 @@
+id: dsq-747510865
+date: 2008-06-19T14:52:18.0000000-07:00
+name: ana
+avatar: https://disqus.com/api/users/avatars/ana.jpg
+message: <p>DECLARE @test VARCHAR(2)<br>DECLARE @first VARCHAR(4)<br>DECLARE @second VARCHAR(4)<br>SELECT @first = ISNULL(@test, 'test')<br>SELECT @second = COALESCE(@test, 98988)<br>PRINT @first<br>PRINT @second<br>it displays <br>te<br>*</p>

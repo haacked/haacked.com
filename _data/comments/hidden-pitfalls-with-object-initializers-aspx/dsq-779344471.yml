@@ -1,0 +1,5 @@
+id: dsq-779344471
+date: 2013-01-26T14:31:41.0000000-08:00
+name: Stilgar
+avatar: https://disqus.com/api/users/avatars/NaibStilgar.jpg
+message: <p>Great article!</p><p>Still I don't understand why you think Resharper is wrong to suggest using object initializer. As you pointed out you can make FxCop happy if you do not use object initializer but you did not solve the problem. If SomeProperty throws your reference is not disposed anyway so why not use object initializer?</p>

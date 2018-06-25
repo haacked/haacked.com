@@ -1,0 +1,5 @@
+id: dsq-747534698
+date: 2011-04-14T07:06:07.0000000-07:00
+name: Levi Bailey
+avatar: https://disqus.com/api/users/avatars/Levi Bailey.jpg
+message: <p>I'm getting started with NuGet and want to create a package.  I have a need for my package to transform the web.config file in the Views directory for MVC projects.  How can this be accomplished, I've only seen examples of transforming the main web.config.  Thanks for any information.</p>

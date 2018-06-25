@@ -1,0 +1,5 @@
+id: dsq-747531624
+date: 2010-02-11T00:26:24.0000000-08:00
+name: Nick
+avatar: https://disqus.com/api/users/avatars/Nick.jpg
+message: <p>Yeah, I did the same thing. I uninstalled the tools support for MVC2 in VS2010. A repair install did not bring the tools support back, but I'll try to remove and re-add the web component of the VS2010 install and see if that works.</p>

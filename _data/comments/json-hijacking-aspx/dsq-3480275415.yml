@@ -1,0 +1,6 @@
+id: dsq-3480275415
+replyToId: dsq-3479301238
+date: 2017-08-21T16:31:09.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>The cookie from Site A never goes to Site B. The issue here is that Site B (the bad site) is using a SCRIPT tag to load a script from Site A. That's allowed because the authentication cookie for A still goes to A.</p><p>The bad part is this: if you try to load a JSON endpoint with a script tag, it would normally fail either because most JSON endpoints only respond to a POST request or they return a JSON object which isn't a valid JavaScript file. But in the circumstance where you're loading a JSON endpoint that responds to a GET request and the response is an array, a JSON array is also a valid script. And due to old browser bugs, you can hook the array constructor and execute code.</p><p>This particular issue has long been fixed in all modern browsers. However, it's possible it could regress due to future new features or bad browser plugins.</p>"

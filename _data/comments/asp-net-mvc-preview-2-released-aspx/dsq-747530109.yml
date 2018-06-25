@@ -1,0 +1,5 @@
+id: dsq-747530109
+date: 2009-09-30T21:28:00.0000000-07:00
+name: Piers Lawson
+avatar: https://disqus.com/api/users/avatars/Piers Lawson.jpg
+message: '<p>Would love for you to allow validation of an entire model to populate model state. The problems I encountered I have highlighted here: <a href="http://shouldersofgiants.co.uk/Blog/post/2009/09/18/A-RESTful-Wizard-Using-ASPNet-MVC-2e280a6-using-Data-Annotations.aspx" rel="nofollow noopener" title="http://shouldersofgiants.co.uk/Blog/post/2009/09/18/A-RESTful-Wizard-Using-ASPNet-MVC-2e280a6-using-Data-Annotations.aspx">A RESTful Wizard Using ASP.Net MVC 2… using Data Annotations</a>. Something like the Validator class that is coming with .Net 4.0 but that would populate a Model State directly would be cool. Great to see you are moving this along!</p>'

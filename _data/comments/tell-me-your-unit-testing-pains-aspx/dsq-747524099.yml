@@ -1,0 +1,5 @@
+id: dsq-747524099
+date: 2008-02-05T23:12:54.0000000-08:00
+name: Vish
+avatar: https://disqus.com/api/users/avatars/Vish.jpg
+message: <p>Hi Phil,<br>Here are my thoughts on unit tests<br>1) They are cumbersome<br>2) Takes a whole bunch of time and typing<br>3) Currently almost no reuse<br>4) There is no challenge to it (once you figure out how to do testing); so doesn't keep the developers interest<br>What i would love to see in the future is tools that spit out tests by almost recording a macro of what i do on the screen. Think recording macros in like the 'object test bench' (remember that... but on class diagrams??). Others may have differing opinions on it but that is only way it will be widely adopted by Joe Developer as a part of everyday development tasks.<br>Thank You,<br>Vish</p>

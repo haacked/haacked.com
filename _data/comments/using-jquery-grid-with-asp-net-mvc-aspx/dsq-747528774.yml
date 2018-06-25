@@ -1,0 +1,5 @@
+id: dsq-747528774
+date: 2011-02-18T01:22:23.0000000-08:00
+name: Shane Whittet
+avatar: https://disqus.com/api/users/avatars/Shane Whittet.jpg
+message: <p>When using your example with JSON/POST I got no data back due to a bug in the jquery validate plugin.  It seems quite serious.  My hotfix and further detail, awaiting maintainer code review, is available here:<br><a href="https://github.com/jzaefferer/jquery-validation/pull/45" rel="nofollow noopener" title="https://github.com/jzaefferer/jquery-validation/pull/45">github.com/jzaefferer/jquery-validation/pull/45</a></p>

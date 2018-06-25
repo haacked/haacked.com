@@ -1,0 +1,5 @@
+id: dsq-747530019
+date: 2009-09-25T11:27:00.0000000-07:00
+name: barryd
+avatar: https://disqus.com/api/users/avatars/barryd.jpg
+message: <p>So a few questions on the implementation ....<br>1) Is this using the old, slightly buggery, slow to be updated Server.*Encode under the hood, or can we easily slot in AntiXSS, which has a more frequent release schedule?<br>2) What about attributes? Will the helpers be not just encoding text correctly, but attributes correctly? And URIs?<br>My concern is that IHtmlString indicates that all folks will worry about is straight forward HTML, when there's risks around all types of output, and the various different ways of encoding they require.</p>

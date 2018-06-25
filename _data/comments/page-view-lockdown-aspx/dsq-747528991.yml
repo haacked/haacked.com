@@ -1,0 +1,5 @@
+id: dsq-747528991
+date: 2009-05-15T06:35:00.0000000-07:00
+name: Craig S.
+avatar: https://disqus.com/api/users/avatars/Craig S..jpg
+message: <p>I agree with Kelly Stuard above, why not have multiple parse filters work together, much as in WinForms you have the multicast delegates for events (although, with those, IIRC, there is no guarantee about the order in which the delegates are called). Regardless, I think Kelly makes a good point.<br>In any event, I also agree with Sean and Phil's response. Let's hope the class eventually disappears.</p>

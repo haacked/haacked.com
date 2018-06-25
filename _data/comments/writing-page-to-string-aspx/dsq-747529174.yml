@@ -1,0 +1,5 @@
+id: dsq-747529174
+date: 2009-05-29T03:22:00.0000000-07:00
+name: neonp
+avatar: https://disqus.com/api/users/avatars/neonp.jpg
+message: <p>Hello,<br>Maybe did I missed something, but why not using an HttpModule to solve this problem ? you could filter the response easily. You won't have this problem of string huge size. Correct me if I'm wrong.</p>

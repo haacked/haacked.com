@@ -1,0 +1,5 @@
+id: dsq-747517844
+date: 2006-12-03T17:47:59.0000000-08:00
+name: Boris Yeltsin
+avatar: https://disqus.com/api/users/avatars/Boris Yeltsin.jpg
+message: <p>Why would I use this over say &lt;%= AppSettings("MySetting") %&gt; or similar. I don't see the value or the saving? What am I missing? :)</p>

@@ -1,0 +1,5 @@
+id: dsq-939464344
+date: 2013-06-23T10:58:28.0000000-07:00
+name: Lulu
+avatar: https://disqus.com/api/users/avatars/Lulu.jpg
+message: <p>Hello, I would like it to remove the </p><p></p><p> closing tag altogether. it breaks my jquery plugin completely. No find-replace plugin seem to replace the </p><p></p><p> for just an empty space, for example. I want </p><p></p><p> GONE! :)</p><p>I will keep an eye in here, If you do it I will be willing to donate a bit for your plugin. :D</p>

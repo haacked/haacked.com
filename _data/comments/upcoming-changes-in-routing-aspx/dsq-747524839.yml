@@ -1,0 +1,5 @@
+id: dsq-747524839
+date: 2008-04-10T02:53:32.0000000-07:00
+name: Kurt
+avatar: https://disqus.com/api/users/avatars/Kurt.jpg
+message: <p>@Haacked They suck down forward slashes too?  Maybe I should have used the word "wildcard" rather than greedy.  Last I read about those, they only worked as the last parameter in a route.</p>

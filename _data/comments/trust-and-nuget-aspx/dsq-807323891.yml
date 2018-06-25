@@ -1,0 +1,6 @@
+id: dsq-807323891
+replyToId: dsq-806236764
+date: 2013-02-21T10:59:28.0000000-08:00
+name: Mike McG
+avatar: https://disqus.com/api/users/avatars/lunalot.jpg
+message: <p>Thanks for the reply. I see, re. prescriptive/descriptive. Yup, I totally agree that Joe Programmer rarely signs the binaries of his side project. I think it's fair to say, though, that this is at least in part because he knows few out there would notice; there's no value in it for him. NuGet can be the "responsible adult" by noticing these signing efforts and "rewarding" them with a reassuring "OK" or "Package Verified" blue checkmark annotation next to their work (while not penalizing unsigned packages). By virtue of this alone, (some) authors will feel incentivized to earn that reward as a point of pride or craft.</p><p>It does remain that getting and safely storing these certificates can be a hassle. Perhaps all we really need are `Request-Certificate [email]` and `Get-Certificate [email] [confimation-code]` commands ;-D</p>

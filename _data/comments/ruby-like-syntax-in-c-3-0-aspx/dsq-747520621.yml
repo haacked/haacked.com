@@ -1,0 +1,5 @@
+id: dsq-747520621
+date: 2007-05-24T08:02:27.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Don - well it's not *that* bad, but wouldn't you say that:<br><code>20.Minutes.Ago</code> is more readable. <br>For someone with a lot of experience with C#, it might be hard to be impartial. You probably read <code>DateTime.Now.Subtract(TimeSpan.FromMinutes(20));</code> like it's the Sunday funnies. It's easy to decipher.<br>But for someone new to the language, something like this:<br><code>20.Minutes().Ago()</code><br>... is quicker to comprehend the intent of the author.</p>

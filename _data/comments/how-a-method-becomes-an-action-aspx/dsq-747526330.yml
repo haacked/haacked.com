@@ -1,0 +1,5 @@
+id: dsq-747526330
+date: 2012-01-30T11:29:16.0000000-08:00
+name: Saeed Neamati
+avatar: https://disqus.com/api/users/avatars/saeedneamati.jpg
+message: <p>This resolves my issue, for having similar methods, with similar names and signatures, but having different HttpMethod attributes on top of them. One method should server HTTP Get, and another method the HTTP Post (post parameters would be extracted from Request object, rather than letting MVC bind them).<br>This scheme was impossible. But by using ActionNameAttribute, I think I'll make it work.<br>Thanks</p>

@@ -1,0 +1,5 @@
+id: dsq-747529695
+date: 2009-08-24T00:30:00.0000000-07:00
+name: ranamauro
+avatar: https://disqus.com/api/users/avatars/ranamauro.jpg
+message: <p>@Kiran<br>We've looked into that, but it turns our that switching out just the serializers isn't that simple because they usually have different APIs, so you'd need to implement your own IRequestFormatHandler/IResponseFormatHandler.<br>The sdk\MovieApp\EdmSample illustrates exactly this scenario, where we replace the OOB JSON handler (which is built on the DataContractJsonSerializer) with one built on the JavaScriptSerializer.<br>I hope this looks like a reasonable solution, but I'd appreciate hearing any suggetsions to improve the experience :)</p>

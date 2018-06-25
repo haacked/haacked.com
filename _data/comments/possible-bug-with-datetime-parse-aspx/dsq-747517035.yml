@@ -1,0 +1,5 @@
+id: dsq-747517035
+date: 2006-10-01T18:47:47.0000000-07:00
+name: Mark
+avatar: https://disqus.com/api/users/avatars/Mark.jpg
+message: <p>Based on the documentation, there is no way to specify the kind of date that DateTime.Parse will produce.  The AssumeUniversal is just a bit that helps DateTime.Parse do its work.<br>By default, I think DateTime always converts everything to "DateTimeKind.Local".  If you issue:<br><code>DateTime utcDate2 = utcDate.ToUniversalTime();<br>and look at utcDate2.Kind, it returns "DateTimeKind.Utc".</code><br>I agree that it is confusing that you are specifying AssumeUniversal and it is returning a Local DateTime.   It looks like the DateTimeStyles are strictly meant to help Parse() do its thing.  It doesn't affect the output.<br>You could wrap it in DateTime.SpecifyKind():<br><code>            DateTime utcDate = DateTime.SpecifyKind(DateTime.Parse("10/01/2006 19:30", culture, DateTimeStyles.AssumeUniversal), DateTimeKind.Utc);</code><br> and that will give you the desired results.<br></p>

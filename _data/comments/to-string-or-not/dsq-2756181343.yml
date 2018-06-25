@@ -1,0 +1,6 @@
+id: dsq-2756181343
+replyToId: dsq-2756144123
+date: 2016-06-28T22:10:54.0000000-07:00
+name: Chris Rogers
+avatar: https://disqus.com/api/users/avatars/disqus_4G7u8GIwT5.jpg
+message: <p>This can certainly be an interesting topic from a theoretical perspective.<br>But if the discussion is intended to relate to matters of practicality, then it must necessarily pay attention to established norms and conventions (be they right, wrong or neutral).</p><p>While I don't have hard evidence to prove this, I'm reasonably confident that most coders wouldn't use Int32 in for loops. :-)<br>From my experience, that's certainly an outlier and would only cause additional 'noise' for others required to maintain such code later.</p>

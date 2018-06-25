@@ -1,0 +1,5 @@
+id: dsq-747525175
+date: 2011-12-08T23:18:39.0000000-08:00
+name: geo
+avatar: https://disqus.com/api/users/avatars/geo.jpg
+message: '<p>File(FileStreamOrPath, ContentType, fileDownloadName) always specify "Content-Disposition: attachment; filename=fileDownloadName" in the header.<br>What if I need to specify: "Content-Disposition: inline; filename=fileDownloadName" in the header?</p>'

@@ -1,0 +1,5 @@
+id: dsq-747526565
+date: 2008-11-18T15:00:27.0000000-08:00
+name: Hassan
+avatar: https://disqus.com/api/users/avatars/Hassan.jpg
+message: <p>How about if i use a HTML.ListBox that submit a List of EntityID and EntityName? Is there any way to do this with DefaultModelBinder without registering Custom Model Binder?</p>

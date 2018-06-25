@@ -1,0 +1,5 @@
+id: dsq-747529195
+date: 2009-06-02T01:05:00.0000000-07:00
+name: Paco
+avatar: https://disqus.com/api/users/avatars/Paco.jpg
+message: <p>"First, the syntax is not one you’d want to take as your prom date"<br>I would definitely prefer a lamda over a a bunch of anonymous objects/strings. We are not programming in a dynamic language and emulating it with anonymous objects will never be as good as a real dynamic language. Lamda's are a very important and well-used feature of C# since 2008, so every developer have to become familiar with it.<br>We use workarounds for every single string/anonymous object used in mvc since we started with mvc more than a year ago. <br>We things like "return this.View&lt;TViewType&gt;(model)" instead of return this.View("magicstring", model). That saves us the effort writing a test per view by making the compiler doing the job. <br>You might want to look at the html helpers like in mvccontrib.<br>The performance of the expression based html helpers is a major disadvantage, but hardcoding the most frequently used will make it working on larger views too.</p>

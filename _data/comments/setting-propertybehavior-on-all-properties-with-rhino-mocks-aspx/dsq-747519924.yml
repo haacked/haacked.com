@@ -1,0 +1,5 @@
+id: dsq-747519924
+date: 2007-06-13T20:00:20.0000000-07:00
+name: Thomas Hezel
+avatar: https://disqus.com/api/users/avatars/Thomas Hezel.jpg
+message: <p>This looks good, but what can we do with ReadOnly Properties; ie, ones with getters, no setters, but need to have a value when the Mocked instance is used in tests?</p>

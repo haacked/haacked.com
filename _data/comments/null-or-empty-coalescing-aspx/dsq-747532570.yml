@@ -1,0 +1,5 @@
+id: dsq-747532570
+date: 2010-06-17T20:53:50.0000000-07:00
+name: neronotte
+avatar: https://disqus.com/api/users/avatars/neronotte.jpg
+message: '<p>my very first extension method was this:<br>public string OrIfNullOrEmpty(this string text, string defaultValue) {<br> return String.IsNullOrEmpty(text) ? defaultValue : text;<br>}<br>that can be used this way:<br>myString.OrIfNullOrEmpty("myDefaultValue");<br>The same approach can be used for an "OrIfNullOrBlank" method... quick&amp;easy!<br></p>'

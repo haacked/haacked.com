@@ -1,0 +1,5 @@
+id: dsq-747527646
+date: 2009-01-15T12:58:21.0000000-08:00
+name: Atif Aziz
+avatar: https://disqus.com/api/users/avatars/Atif Aziz.jpg
+message: "<p>@Richard: You're probably right and I'm sure there are other defects lurking and begging to be discovered. I was trying to make the code pass the test cases Phil had worked up so far since the tweaks needed were really trivial. By no means can the implementation claimed to be correct with respect to <code>String.Format</code>. In the ideal case, one would make it work, then make it right and eventually make it fast. By the time you're working on making it fast, you hope that you have all the tests written up to prove that the less-than-optimal version was right. They can then serve one to stay sane and stress-free while the guts are re-factored for speed.</p>"

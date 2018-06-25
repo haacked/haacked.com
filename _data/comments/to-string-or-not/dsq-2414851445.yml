@@ -1,0 +1,6 @@
+id: dsq-2414851445
+replyToId: dsq-2414491264
+date: 2015-12-17T13:19:46.0000000-08:00
+name: Chris Nielsen
+avatar: https://disqus.com/api/users/avatars/disqus_4eACU6Y9FI.jpg
+message: <p>DateTime never shows up in the separate color that int and string do. It is always the same color as full class types, like Int32 and String do.</p><p>The main issue I have is that we're ingrained with the knowledge of the difference between value and reference types. So even though int and Int32 are synonymous, using Int32 as a *type* shows it in the wrong color, so unless you're paying attention, then readability-wise it will read as a reference type.</p><p>It really boils down to the colors chosen for syntax highlighting. Using Int32 as a *type* shows it in the wrong color (and casing) to easily read over it and recognize a value type without having to stop and think about it. And using int.Parse() shows it in the wrong color (and casing) to read over it and recognize a class being invoked without having to stop and think about it.</p><p>Those slight mental pauses (which Phil mentions) are one of the main "code smells" I watch for when reading code. If I have to stop and process some code instead of reading it, then I look for why and how I might fix it.</p>

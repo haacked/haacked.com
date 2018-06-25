@@ -1,0 +1,5 @@
+id: dsq-747508281
+date: 2008-01-23T12:02:07.0000000-08:00
+name: SC
+avatar: https://disqus.com/api/users/avatars/SC.jpg
+message: '<p>According to the HTTP 1.1. RFC...<br>   <a href="http://www.w3.org/Protocols/rfc2616/rfc2616-sec8.html" rel="nofollow noopener" title="http://www.w3.org/Protocols/rfc2616/rfc2616-sec8.html">http://www.w3.org/Protocols...</a><br>... it is not recommended the client wait long before sending the the request body if it does not receive a suitable response (eg. if the server is HTTP 1.0). <br>---------<br>Because of the presence of older implementations, the protocol allows ambiguous situations in which a client may send "Expect: 100- continue" without receiving either a 417 (Expectation Failed) status or a 100 (Continue) status. Therefore, when a client sends this header field to an origin server (possibly via a proxy) from which it has never seen a 100 (Continue) status, the client SHOULD NOT wait for an indefinite period before sending the request body.</p>'

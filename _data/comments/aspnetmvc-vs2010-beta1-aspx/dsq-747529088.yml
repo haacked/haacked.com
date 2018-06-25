@@ -1,0 +1,5 @@
+id: dsq-747529088
+date: 2009-05-18T20:20:00.0000000-07:00
+name: BB
+avatar: https://disqus.com/api/users/avatars/BB.jpg
+message: <p>Thank you for the post. Strange though; the PDF docs stated MVC and Azure would be in there, so I was looking forward to not manually creating things.<br>Question - if the guid is removed, I assume it will need to be added back in the get the MVC project features to function again (i.e. Add View etc.), is this correct? Is there any danger with adding/ removing, depending on what environment is being used?<br>Also - if using a current MVC project and compiling with VS 2010, is there any danger of changed version numbers that would cause breakage with deployed items? I.e. App compiled and deployed, now server must have .NET 4.0 beta installed.<br>Thanks!</p>

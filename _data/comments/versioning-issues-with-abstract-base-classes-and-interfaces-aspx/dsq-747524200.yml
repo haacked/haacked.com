@@ -1,0 +1,5 @@
+id: dsq-747524200
+date: 2008-02-20T18:30:38.0000000-08:00
+name: Ian Cooper
+avatar: https://disqus.com/api/users/avatars/Ian Cooper.jpg
+message: <p>I disagree with the constraints you have. How do you get them changed? <br>Changing an interface should be a breaking change. I guess that Chad might be saying the same thing. A contract, which is an interface, should be enforceable by both parties. You should not be able to change the contract without my knowing about it. Either, negotiate a new contract i.e. add another interface, or negotiate an amendment to that contract i.e. ship a breaking change.<br>If your constraints are your problem, solve the problem. If you can't at least just come out and say that your constraints prevent you doing the right thing.<br>That remark from the Framework Design Guidelines is bunkum. We experience pain because you don't ship interfaces. You may not, but we do.<br></p>

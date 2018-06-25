@@ -1,0 +1,5 @@
+id: dsq-747536304
+date: 2011-10-12T01:29:29.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@counsellorben The Mvc3Futures project (and NuGet package), has an <code>AjaxOnlyAttribute</code> you can use which checks the header for X-Requested-With=XMLHttpRequest. You could use that to determine a real ajax request.</p>

@@ -1,0 +1,5 @@
+id: dsq-747529077
+date: 2011-08-31T02:27:46.0000000-07:00
+name: Dan
+avatar: https://disqus.com/api/users/avatars/Dan.jpg
+message: '<p>We are thinking of implementing donut hole caching.  The current caching we are using is within an MVC controller on the main Index ActionResult... here is the syntax: <br>[OutputCache(Duration = int.MaxValue, VaryByParam = "data", Location = OutputCacheLocation.Server,Order = 2)]<br>public ActionResult Index(string data)<br>{<br>...<br>We have found that using the OutputCache this way causes the App Session to reset after the first request.  Does anyone know why the App Session would reset when using OutputCache?  When we comment out the cache syntax the App Session sticks just fine. Also, the OutputCache seems to also cache the HTTP Refer.  Would donut hole caching fix these issues?<br>Thanks in advance.<br>Dan</p>'

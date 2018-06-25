@@ -1,0 +1,5 @@
+id: dsq-747527961
+date: 2009-01-31T22:56:07.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Mauricio there are known issues with other VS plugins. See this <a href="http://stackoverflow.com/questions/500696/why-does-visual-studio-crash-opening-aspx-with-mvc-rc1" rel="nofollow noopener" title="vs crashes">Stack Overflow post</a> and <a href="http://forums.asp.net/t/1378448.aspx" rel="nofollow noopener" title="forums">this forums post</a>.</p>

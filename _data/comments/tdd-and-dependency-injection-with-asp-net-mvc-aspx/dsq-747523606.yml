@@ -1,0 +1,5 @@
+id: dsq-747523606
+date: 2007-12-11T22:15:33.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Matt You should search my blog for TDD and you'll see I've written extensively about the benefits of TDD.<br>AS for this example, I was taking an extremely detailed "first-principles" style approach. So in the real-world, the code would be much less in the test by employing helper methods and the like.<br>Also, some of the extra verbosity may be due to issues in the ASP.NET MVC design we plan to improve.</p>

@@ -1,0 +1,5 @@
+id: dsq-747527994
+date: 2009-03-05T02:59:27.0000000-08:00
+name: Jessica
+avatar: https://disqus.com/api/users/avatars/Jessica.jpg
+message: <p>One thing I found difficult since the automatic inclusion of jQuery was figuring out how to include the scripts to a) work regardless of the path level, and b) get intellisense to work.<br>It would be nice if the default site.master template included the jquery &amp; ajax scripts. I found I needed to use the &lt;%= Url.Content %&gt; thing in the src attribute, then use an if(false) code block to use relative paths to the script files in order to get the intellisense.<br>Given it's non-trivial if you're not familiar with the quirks of script files and paths, it seems better to have it set up by default. It's not like it's hard to edit the master page, and most people would be customising it anyway.</p>

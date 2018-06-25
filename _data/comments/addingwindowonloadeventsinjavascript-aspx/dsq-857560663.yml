@@ -1,0 +1,5 @@
+id: dsq-857560663
+date: 2013-04-09T06:25:42.0000000-07:00
+name: Michael
+avatar: https://disqus.com/api/users/avatars/Michael.jpg
+message: <p>Hello, I have a script it work in IE but not work in Firefox, can anybody help? thanks a lot. Please see below</p><p>&lt;script type="text/JavaScript"&gt;<br>window.onload = function() {<br> var TTTT = document.getElementById('TTTT');</p><p>function click() {<br>  if (event.button==1 || event.button == 2) {alert('WELCOME!')}<br>}<br>TTTT.onmousedown=click<br>} <br>&lt;/script&gt;</p><p>&lt;td width="140" height="25" id="TTTT"&gt;<br>                                    &lt;/td&gt;</p>

@@ -1,0 +1,5 @@
+id: dsq-747524214
+date: 2008-02-20T21:51:26.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@ChadMyers I've thought about IoC and Unity, but man, do I really want to take the beating that the Unity guys are taking from various members of the community? ;)<br>I brought this up and there were certain issues internally with doing such a thing for this Framework. I need to refresh my memory on what they were. The thing is, at this point, there may not be much hope for the http intrinsics.<br>We kept close to the http intrinsics current impl. We couldn't rewrite them, etc. Not enough time and resources.</p>

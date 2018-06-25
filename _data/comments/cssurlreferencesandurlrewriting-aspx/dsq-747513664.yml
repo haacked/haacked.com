@@ -1,0 +1,5 @@
+id: dsq-747513664
+date: 2006-04-20T01:25:00.0000000-07:00
+name: alain
+avatar: https://disqus.com/api/users/avatars/alain.jpg
+message: <p>Alex, I've exactly the problem you're talking about with htc files.<br>What are the ugly workaround you're talking abount?<br>Today, I use absolute url but each time I deploy my webapplication on a different context, (like <a href="http://www.xxx.com/dev" rel="nofollow noopener" title="www.xxx.com/dev">www.xxx.com/dev</a> and <a href="http://www.xxx.com/prod)" rel="nofollow noopener" title="www.xxx.com/prod)">www.xxx.com/prod)</a> I must rename the url inside several css files.<br>Is there something nicer to do?<br></p>

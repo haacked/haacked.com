@@ -1,0 +1,5 @@
+id: dsq-1931459137
+date: 2015-03-27T08:42:04.0000000-07:00
+name: FEBit
+avatar: https://disqus.com/api/users/avatars/FEBit.jpg
+message: "<p>Exception Details: System.MissingMethodException: Method 'System.String.ToString' not found.</p><p>Source Error:</p><p>Line 75:                     else //format info  <br>Line 76:                     {<br>Line 77:                         result = retrievedType.InvokeMember(\"ToString\",<br>Line 78:                             BindingFlags.Public | BindingFlags.NonPublic |<br>Line 79:</p>"

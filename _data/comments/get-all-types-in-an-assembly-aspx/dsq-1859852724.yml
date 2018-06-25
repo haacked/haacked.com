@@ -1,0 +1,5 @@
+id: dsq-1859852724
+date: 2015-02-17T06:28:59.0000000-08:00
+name: Phrasenschwein
+avatar: https://disqus.com/api/users/avatars/$54870019.jpg
+message: '<p>FYI; if you want to get the current assembly to test above code use: Assembly.GetExecutingAssembly()</p>'

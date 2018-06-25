@@ -1,0 +1,5 @@
+id: dsq-747523403
+date: 2007-11-16T16:41:06.0000000-08:00
+name: Stephen
+avatar: https://disqus.com/api/users/avatars/Stephen.jpg
+message: <p>I thought TDD was more about the <strong>D</strong>esign and less about the <strong>T</strong>esting. The fact you get a suite of regression tests was a bonus but not the actual point.<br>The act of performing TDD makes (nudges, helps, whatever) you write better designed code. Code you can't test tends to be pretty poor code whereas code you can test tends to be better (but not necessarily perfect obviously).<br></p>

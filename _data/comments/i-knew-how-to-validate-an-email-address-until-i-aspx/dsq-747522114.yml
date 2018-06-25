@@ -1,0 +1,5 @@
+id: dsq-747522114
+date: 2009-02-21T21:35:09.0000000-08:00
+name: Dominic Sayers
+avatar: https://disqus.com/api/users/avatars/Dominic Sayers.jpg
+message: "<p>How about a 180-degree change of opinion from last week? I've now discussed the issue of backslashes in the local part with Dave Child and Cal Henderson and the consensus is that they are fine in a quoted string whatever they are escaping. The only proviso is that they have to be escaping something, so a backslash can't be the last character before the closing double quote.<br>Sorry for any confusion :-)<br>More here: <a href=\"http://www.dominicsayers.com/isemail\" rel=\"nofollow noopener\" title=\"http://www.dominicsayers.com/isemail\">http://www.dominicsayers.com/isemail</a></p>"

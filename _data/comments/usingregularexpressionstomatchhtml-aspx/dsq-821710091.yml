@@ -1,0 +1,5 @@
+id: dsq-821710091
+date: 2013-03-06T21:58:53.0000000-08:00
+name: Abdul Basit
+avatar: https://disqus.com/api/users/avatars/Abdul Basit.jpg
+message: <p>this regex always return me null in javascript can any body help me.  here is the code..</p><p>&lt;html&gt;<br>&lt;head&gt;<br>$("#&lt;%= text2.ClientID %&gt;").focusout(function () {                     alert($(this).val().match("/\s]+))?)+\s*|\s*)/?&gt;/"));                });<br>&lt;/head&gt;<br>&lt;body&gt;<br>&lt;asp:textbox id="text2" runat="server"&gt;<br>&lt;/body&gt;<br>&lt;/html&gt;</p><p></p>

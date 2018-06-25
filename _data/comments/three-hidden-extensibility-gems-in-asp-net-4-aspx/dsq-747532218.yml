@@ -1,0 +1,5 @@
+id: dsq-747532218
+date: 2010-05-17T14:13:52.0000000-07:00
+name: Thanigainathan
+avatar: https://disqus.com/api/users/avatars/Thanigainathan.jpg
+message: <p>Hi,<br>BuildManager.AddReferencedAssembly will register a assembly at runtime. So I cannot really access the classes inside them during the design time right ?<br>Please explain this.<br>Thanks,<br>Thanigainathan.S</p>

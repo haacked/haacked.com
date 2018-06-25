@@ -1,0 +1,5 @@
+id: dsq-747530626
+date: 2009-12-29T22:55:55.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Don't use that attribute. It's not required. It is meant to block direct web requests. Ajax is a direct web request.</p>

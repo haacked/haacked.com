@@ -1,0 +1,5 @@
+id: dsq-747527688
+date: 2009-01-09T00:14:43.0000000-08:00
+name: Johannessen
+avatar: https://disqus.com/api/users/avatars/Johannessen.jpg
+message: '<p>I you are into post sharp, then you will get away with this clean solution :)<br><code><br>public class FireAndForgetAttribute : OnMethodInvocationAspect<br>{<br>    public override void OnInvocation(MethodInvocationEventArgs eventArgs)<br>    {<br>        ThreadPool.QueueUserWorkItem(delegate { eventArgs.Proceed(); });<br>    }<br>}<br></code><br>and use it like:<br><code><br>...<br>[FireAndForget]<br>public bool SendEmailDelegate(string to, string from, <br>                              string subject, string body) <br>{<br>...<br>}<br>...<br></code><br>:)</p>'

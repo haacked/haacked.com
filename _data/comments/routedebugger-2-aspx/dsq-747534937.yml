@@ -1,0 +1,5 @@
+id: dsq-747534937
+date: 2012-01-25T04:45:22.0000000-08:00
+name: Jakka
+avatar: https://disqus.com/api/users/avatars/Jakka.jpg
+message: <p>I also had the same problem as above. Installed Route Debugger 2.1.2 using NuGet, compile, and run the project using ASP.NET Dev Server... but no window is appended at the end of the page. And yes, I've the RouteDebugger:Enabled settings in the web.config set to true.<br>I ended up using the github version and found out that all my requests to <strong>DebugHttpHandler</strong> is not processed because of the following line:<br><code><br>if (!IsRoutedRequest(request) || !request.ContentType.Equals("text/html", StringComparison.OrdinalIgnoreCase))<br></code><br>Somehow my current <strong>Request.ContentType</strong> always returns an empty string which is not equal to <em>text/html</em> :(</p>

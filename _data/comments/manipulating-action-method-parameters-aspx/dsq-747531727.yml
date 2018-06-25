@@ -1,0 +1,5 @@
+id: dsq-747531727
+date: 2010-02-25T14:59:39.0000000-08:00
+name: Asif Ashraf
+avatar: https://disqus.com/api/users/avatars/Asif Ashraf.jpg
+message: '<p>/*<br>Hi,<br>This question may sound off topic but Please anybody help me in this thing.<br>Look at this method<br>*/<br>[LogParameters("City", "Country")]<br>public void DoTheHellNow(int Id, string City, string Country)<br>{<br>var matches = new Dictionary&lt;string, string&gt;();<br>/*<br>Note the attribute(loggable params) and note that only City and Country parameter should be added to the dictionary. I want to fill this dictionary by using "reflection". Match patamers names with those names in attribute i.e City and Country, But NOT "Id" because Id is not loggable(according to the rule defined by the attribute). <br>*/<br>//Now take those loggable parameters and fill dictionary so that<br>//Dictionary first entry should be: <br>//[ Key = "City", Value ="New york" ] { The  value newyork will be //sent by the caller of the method. } <br>//Dictionary second entry should be: <br>//[ Key = "Country", Value ="USA" ] { The  value USA will be sent by //the caller of the method. } <br>}<br></p>'

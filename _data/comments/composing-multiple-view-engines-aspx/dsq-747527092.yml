@@ -1,0 +1,5 @@
+id: dsq-747527092
+date: 2008-11-16T03:55:16.0000000-08:00
+name: Ayende Rahien
+avatar: https://disqus.com/api/users/avatars/Ayende Rahien.jpg
+message: <p>Haack,<br>The problem is that while this is techincally interesting, in practice this isn't something that is used very often. Trying to introduce several view engines in a project is a rare edge case, because of the mental complexity involved.</p>

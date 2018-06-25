@@ -1,0 +1,5 @@
+id: dsq-763232010
+date: 2013-01-10T18:28:36.0000000-08:00
+name: Ashwin Seshadri
+avatar: https://disqus.com/api/users/avatars/google-55e225e7d1b6dbc7c286939b40294520.jpg
+message: <p>Hi, I was trying to extend this logic to apply to requests for unauthorized static content (Say, some static content protected by denying unauthentication users access to the location of a static resource in web.config). But I see that the request is not available to my http module beyond the PostAuthenticate application event in the pipeline. In fiddler it somehow shows up with a 302 status. My configuration is as follows: runAllManagedModulesForAllRequests="true" and there is no proecondition of managed handler for my module. Any help to find a solution to my problem is greatly appreciated.</p><p>Thanks.<br>A</p>

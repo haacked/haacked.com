@@ -1,0 +1,5 @@
+id: dsq-747526269
+date: 2008-09-01T03:32:37.0000000-07:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>ok sorry  :(<br>lol - I see it's been moved to the Microsoft.Web.Mvc<br>Things see a bit spread out now between the assemblies I think , is there a certain approach you guys are taking to this ?<br>ie. What is System.Web.Mvc vs. Microsoft.Web.Mvc ?  Do you see 'controls' as being in the Microsoft namespace ?  Or is this a gradual move away from the 'System' namespace?</p>

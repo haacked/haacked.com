@@ -1,0 +1,5 @@
+id: dsq-747534274
+date: 2011-01-28T02:36:53.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Cyriel that's not built into my proof-of-concept, but it's something that could easily be accomplished in the UI by setting some value in the database before starting the upgrade and always checking that value beforehand.</p>

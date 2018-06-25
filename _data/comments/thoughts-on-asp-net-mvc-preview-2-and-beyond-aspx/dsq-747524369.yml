@@ -1,0 +1,5 @@
+id: dsq-747524369
+date: 2008-03-12T12:30:42.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Mike D : In answer to #1, so we can leverage ASP.NET goodness. The view rendering is extensible, so you can plug in NHibernate or NHaml.<br>In answer to #2, got some sample code for what you'd like to see? Not implementation but what a user of MVC would write to do this?</p>"

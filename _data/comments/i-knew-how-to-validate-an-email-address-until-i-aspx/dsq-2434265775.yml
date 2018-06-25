@@ -1,0 +1,5 @@
+id: dsq-2434265775
+date: 2015-12-31T16:15:24.0000000-08:00
+name: Sean Ryan
+avatar: https://disqus.com/api/users/avatars/disqus_97gtOpkEZB.jpg
+message: <p>Hi guys, I hope I am not missing something, but the bottom of pg 6 and top of pg. 7 of RFC 822 demonstrates an example address where sections of an email address contained in parenthesis are treated as "comments."</p><p>The example is:</p><p>            Muhammed.(I am  the greatest) Ali @(the)Vegas.WBA</p><p>And it resolves to:</p><p>Muhammed.Ali@Vegas.WBA</p><p>So, presumably the text within and the parenthesis themselves are valid but otherwise ignored, does that sound correct?</p>

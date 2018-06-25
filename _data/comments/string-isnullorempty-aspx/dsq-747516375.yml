@@ -1,0 +1,5 @@
+id: dsq-747516375
+date: 2006-08-23T03:31:06.0000000-07:00
+name: Joshua Flanagan
+avatar: https://disqus.com/api/users/avatars/Joshua Flanagan.jpg
+message: <p>Another nicety in the same vein is the new overload of String.Equals.<br>In pre-2.0, the recommended way to compare strings in a case-insensitive way was:<br>if ((String.Compare(a, b, true) == 0){}<br>(as performing a ToUpper() on both strings will not give an accurate comparison in all cultures)<br>Of course that syntax is just as clunky as comparing the length to 0.<br>Now, we just add an extra parameter to Equals():<br>if (a.Equals(b,StringComparison.CurrentCultureIgnoreCase)){}<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747528448
+date: 2009-03-31T19:35:27.0000000-07:00
+name: tawani
+avatar: https://disqus.com/api/users/avatars/tawani.jpg
+message: <p>This is BS. This is the test you want to perform:<br>StringOr&lt;int&gt; userInput = "abc123";<br>Assert.AreEqual(123, userInput.OtherValue);</p>

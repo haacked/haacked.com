@@ -1,0 +1,5 @@
+id: dsq-747519350
+date: 2007-03-22T18:29:46.0000000-07:00
+name: Harald Korneliussen
+avatar: https://disqus.com/api/users/avatars/Harald Korneliussen.jpg
+message: <p>Yes, but why are these terms searched for?<br>I suspect that when searching for "md5", it might be to find out what the standard way of making an md5 hash in the standard libraries of Java might be. It may be much faster to see by example, than by finding it in javadoc and trying to read yourself to how to use it.<br>Searches for "String" or "java" though, might just be idle curiosity.</p>

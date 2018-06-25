@@ -1,0 +1,5 @@
+id: dsq-3486259589
+date: 2017-08-25T06:43:11.0000000-07:00
+name: Robert Armour
+avatar: https://disqus.com/api/users/avatars/disqus_94zaWpQP0e.jpg
+message: <p>Phil,</p><p>As you didn't put an [Authorize] attribute on your SystemController class, anybody who read this article will now be trying to activate the 'system/index' endpoint on your sites, in order to obtain a handy list of potential vulnerabilities.</p><p>Just saying ;)</p>

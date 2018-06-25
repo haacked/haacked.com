@@ -1,0 +1,5 @@
+id: dsq-747511648
+date: 2006-04-12T21:45:00.0000000-07:00
+name: Nathan
+avatar: https://disqus.com/api/users/avatars/Nathan.jpg
+message: <p>I got the error because the bloke that created the directories I was trying to check out set them to read only, thus I didn't have permission to write the lock needed for checkout.  So make sure the permissions on the cvs folder are set correctly.</p>

@@ -1,0 +1,5 @@
+id: dsq-747511193
+date: 2012-03-13T21:20:08.0000000-07:00
+name: Nissim Levy
+avatar: https://disqus.com/api/users/avatars/Nissim Levy.jpg
+message: <p>I have two appenders in my app.config for a .net C# application. One is for a database log and the other for a rolling file appender. I need to use these two appenders but with a different message parameter to each one. I therefore cannot just use one <a href="http://log.info" rel="nofollow noopener" title="log.info">log.info</a> call but I need to instantiate two ILog objects, each one connected to a different appender from my app.config. Is this possible?<br> <br>Thanks for any help you can offer.<br></p>

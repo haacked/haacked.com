@@ -1,0 +1,5 @@
+id: dsq-747524528
+date: 2008-10-06T18:45:59.0000000-07:00
+name: hudo
+avatar: https://disqus.com/api/users/avatars/hudo.jpg
+message: <p>Just remove default.aspx, enter some valid url route or change code in defaut.aspx.cs to simple response.redirect. It crashes when redirecting request in default.aspx.cs, it seems they changed something in MvcHttpHanlder.ProcessRequest.</p>

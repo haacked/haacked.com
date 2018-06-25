@@ -1,0 +1,5 @@
+id: dsq-747516161
+date: 2006-10-11T10:26:18.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Brian, I think that's a great way to go!  Just remember to use the <code>SetupResult.On()</code> to setup the return values for methods that you don't care to test an expectation on.</p>

@@ -1,0 +1,5 @@
+id: dsq-747517655
+date: 2008-05-26T01:35:42.0000000-07:00
+name: Bruce Quackenbush
+avatar: https://disqus.com/api/users/avatars/Bruce Quackenbush.jpg
+message: "<p>Might be just me but I chased my tail on this for longer than I care to admit, so I thought I'd share.<br>The tag attribute names are case sensitive in web.config! Specifically: <br>src<br>assembly<br>namespace<br>tag<strong>P</strong>refix<br>Miss that upper-case P and it doesn't work at all.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747535943
+date: 2011-08-17T09:13:26.0000000-07:00
+name: Josh Carroll
+avatar: https://disqus.com/api/users/avatars/technofattie.jpg
+message: '<p>I found this <a href="http://mattgrande.wordpress.com/2009/10/28/pluralization-helper-for-c/" rel="nofollow noopener" title="http://mattgrande.wordpress.com/2009/10/28/pluralization-helper-for-c/">c# port of the Ruby pluralize method</a> a while back, and have been using it fairly extensively ever since then.<br>Super light weight and easy to turn into an extension method.<br>It only works with English, but my guess is the percentage of people who <em>actually</em> code for internationalization in their apps is small.<br>Old School Nuget: <strong>Ctrl + C, Ctrl + V</strong></p>'

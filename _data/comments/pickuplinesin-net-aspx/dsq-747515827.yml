@@ -1,0 +1,5 @@
+id: dsq-747515827
+date: 2006-07-24T23:06:00.0000000-07:00
+name: Sahil Malik
+avatar: https://disqus.com/api/users/avatars/Sahil Malik.jpg
+message: <p>Debug.Assert(dotnetPickUpLines == GetLaid() || GetLaid() == dotnetPickUpLines) ; // Will always assert.</p>

@@ -1,0 +1,5 @@
+id: dsq-747533589
+date: 2010-11-21T18:31:26.0000000-08:00
+name: Tim VanFosson
+avatar: https://disqus.com/api/users/avatars/Tim VanFosson.jpg
+message: <p>I'm in agreement with @Ant.  Routing constraints seem to be a much better solution for routes that come before the default route in the routing scheme.  I've generated named routes as well, but typically only to tie together a set of related actions spanning controllers or being reused from other workflow when performing a wizard, in effect giving me a virtual controller for the wizard.  I'll grant you that I've never mixed webforms with MVC, so I can't speak to that but it seems like constraints would be useful there as well.</p>

@@ -1,0 +1,5 @@
+id: dsq-747528827
+date: 2009-04-16T15:05:00.0000000-07:00
+name: Parag Mehta
+avatar: https://disqus.com/api/users/avatars/Parag Mehta.jpg
+message: "<p>Hi Phil,<br>I hope you are defending a case against KOBE. The whole point of using MVC is better decoupled design and controlled html output. Did you even see the CSS class names ? <br>I know it is fasionable to attack anything that comes out of Microsoft, but it's only going to make our community cleaner.<br>Just today I was listening to a HerdingCode Podcast about Mac development : They restrict the choices. The guy in the Podcast(forgot his name) said that Objective C programs where MVC by default, there was no way around! They imposed strict guidelines by default. InterfaceBuilder (their GUI tool) didn't even allow manual changing of XAML equivalent UI code. No wonder I have not yet seen a single ugly Mac App. I see tons of rubbish on Windows App world. The point I am making is MVC should be for people who care about architecture so that output comes beautiful by default. So the reference implementation has to be good. Kobe neither had design benefits of MVC nor had any Test benefits.</p>"

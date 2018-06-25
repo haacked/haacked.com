@@ -1,0 +1,5 @@
+id: dsq-747530585
+date: 2009-12-19T06:07:04.0000000-08:00
+name: Hemant Sathe
+avatar: https://disqus.com/api/users/avatars/Hemant Sathe.jpg
+message: <p>Hi,<br>I had a working project where I was puling values from the Form using FormCollection and then using TryUpdateModel(itemToEdit, collection.ToValueProvider()). Since the upgrade, this call was failing giving error that "name" parameter cannot be null. I first thought it is error in my code. But there was none. I then downloaded source code and started debugging. I found that the DefaultModelBinder.BindModel method on Line 143 in System.Web.MVC, expects a ModelName. This value is set as the prefix provided by TryUpdateModel, which in my case was null. This is throwing the exception. However, if I change my code to receive the form values as the item type instead of collection, the code is working OK. Does this mean that using the value providers is reserved only for custom value providers with a specific value provided for ModelName?<br>Thanks</p>

@@ -1,0 +1,5 @@
+id: dsq-747523790
+date: 2007-12-13T09:19:14.0000000-08:00
+name: Jonathan Holland
+avatar: https://disqus.com/api/users/avatars/Jonathan Holland.jpg
+message: <p>Hi Phil,<br>I created a HttpModule for dynamicly building Routes from web.config instead of Global.asax.<br>Just thought I'd share it with the other developers digging into the MVC Bits.<br><a href="http://codeeleven.blogspot.com/2007/12/aspnet-mvc-routebuilder-httpmodule.html" rel="nofollow noopener" title="http://codeeleven.blogspot.com/2007/12/aspnet-mvc-routebuilder-httpmodule.html">http://codeeleven.blogspot....</a></p>

@@ -1,0 +1,5 @@
+id: dsq-747524210
+date: 2008-02-20T21:15:56.0000000-08:00
+name: Chad Myers
+avatar: https://disqus.com/api/users/avatars/Chad Myers.jpg
+message: "<p>We're tied to interfaces because the whole original point of interfaces: To define a simple contract of interaction, but allow wildly differing implementations of that contract.<br>This has nothing to do with IoC/DI, even though, IMHO, IoC/DI are a good reason in and of themselves.<br>I was doing interface-based API's before doing interface-based API's in .NET were cool :) (before I ever heard of IoC/DI).<br>And it worked very well and allowed tons of flexibility for my customers and opened up a lot of options for us to deliver very different functionality for different circumstances without breaking customer applications written to our APIs</p>"

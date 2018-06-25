@@ -1,0 +1,6 @@
+id: dsq-935273003
+replyToId: dsq-935228162
+date: 2013-06-19T05:17:45.0000000-07:00
+name: Torleif Berger
+avatar: https://disqus.com/api/users/avatars/svish.jpg
+message: <p>my issue with that is that a mindset of always checking for null results in bloated and ugly code. so I'd rather skip the check (as long as the method doesn't say explicitly that null is a valid return value of course) and have it crash on me. And then, if it crashes, fix the method itself if it's in my control, or report it as a bug if that's possible. If it's not possible to get the library fix, *then* add the check and handle it appropriately.</p><p>This is based on my current work with Java in a project where null checks have been thrown all over the place, "just in case", which makes it annoying to read the code. Especially since even when the null check is there for a good reason (the method can return null), the method shouldn't really return null but instead throw an exception. I'm more for fixing the underlaying problem than just hiding it behind a check and ignoring it. If we all do this, then those who produce code that returns null in stupid cases will never have a reason to stop. If we annoy them with bug reports etc, maybe the world will be a little bit better in a while :p</p>

@@ -1,0 +1,5 @@
+id: dsq-747528583
+date: 2009-04-04T01:48:30.0000000-07:00
+name: Jeremy Caney
+avatar: https://disqus.com/api/users/avatars/Jeremy Caney.jpg
+message: <p>My preferred approach (as indicated by a few others) is to use the Title property of the Page class which is exposed as an attribute on the &lt;%@ Page %&gt; directive.  This allows you to centrally define the title and centrally reference it in your Master Page, WebForm, User Control, or (Partial) View.  By default, the Title property will be rendered as the title in the &lt;head RunAt="Server" /&gt; control - although you can overwrite this using a &lt;%= Page.Title %&gt; statement (or a data bound equivelent, since you don't want a &lt;%= %&gt; statement inside an &lt;asp:PlaceHolder /&gt; since it will prevent overwriting the PlaceHolder).  I was a bit surprised the OOTB MVC scaffolding didn't utilize this - although I suppose that despite being (<em>slightly</em>) more code it does offer more flexibility.</p>

@@ -1,0 +1,5 @@
+id: dsq-747518798
+date: 2007-03-06T21:23:32.0000000-08:00
+name: AC
+avatar: https://disqus.com/api/users/avatars/AC.jpg
+message: <p>&gt;Write a program that prints the numbers from 1 to 100...<br>Why can't spec writers write?  Unless you mean integers, there are an infinite number of real numbers 'from 1 to 100'<br>#!/usr/bin/perl -w<br>use strict;<br>my $msg;<br>for (my $i=1; $i &lt;= 100; $i++) {<br>  $msg = 0;<br>  if ($i % 3 == 0) {<br>     print 'Fizz';<br>     $msg = 1;<br>  }<br>  if ($i % 5 == 0) {<br>     print 'Buzz';<br>     $msg = 1;<br>  }<br>  if ($msg == 0) {<br>     print $i;<br>  }<br>  print "\n";<br>}</p>

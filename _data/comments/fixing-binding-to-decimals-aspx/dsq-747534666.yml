@@ -1,0 +1,5 @@
+id: dsq-747534666
+date: 2011-07-30T01:47:13.0000000-07:00
+name: b2berry
+avatar: https://disqus.com/api/users/avatars/b2berry.jpg
+message: <p>Thanks for this solution!  Definitely resolved my decimal issues.<br>I made a minor tweak to handle cases where I was using TryModelUpdate <br><code><br>            if (bindingContext.ModelState.ContainsKey(bindingContext.ModelName))<br>                bindingContext.ModelState[bindingContext.ModelName] = modelState;<br>            else<br>                bindingContext.ModelState.Add(bindingContext.ModelName, modelState);<br></code><br>Without this check, the DecimalModelBinder would attempt to add the modelState when it already exists. :)</p>

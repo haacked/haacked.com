@@ -1,0 +1,5 @@
+id: dsq-747523447
+date: 2007-11-26T20:50:06.0000000-08:00
+name: Julian Birch
+avatar: https://disqus.com/api/users/avatars/Julian Birch.jpg
+message: <p>I just spent an entertaining, if fruitless time trying to con the interceptor framework to do this, but it's not really a public API.  Being able to register your own IInstanceFactory&lt;T&gt;/Factory&lt;T&gt; methods would definitely be desireable.<br>However, in the particular case we're talking about, it should actually be possible to hoodwink the system.  Since the provider is actually fixed, we can use the stubbing code to do it.<br>StructureMapConfiguration<br>                .BuildInstancesOf&lt;MembershipProvider&gt;()<br>                .TheDefaultIsConcreteType&lt;MembershipProvider&gt;();<br>ObjectFactory.InjectStub(typeof(MembershipProvider), Membership.Provider);<br>You'd put that code in the AppStart somewhere.  However, this all relies on the fact that the membership provider never changes.  Jeremy's solution is a lot more elegant.  ;-)</p>

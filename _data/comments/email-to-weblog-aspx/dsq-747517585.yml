@@ -1,0 +1,5 @@
+id: dsq-747517585
+date: 2006-11-07T07:28:47.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Thanks Ken!  One thing the scrubber didn't scrub was &lt;font&gt; tags.  There were still some inline style elements as well.<br>Does your scrubbing take into consideration the doctype of the website?  If so, that would be hot!</p>

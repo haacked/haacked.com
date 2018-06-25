@@ -1,0 +1,5 @@
+id: dsq-747508540
+date: 2004-06-14T16:30:00.0000000-07:00
+name: Daniel Turini
+avatar: https://disqus.com/api/users/avatars/Daniel Turini.jpg
+message: <p>Thomas, I think you didn't understand me. What I've said is that On Error Goto 0 will swallow any previous and future errors. It's the previous errors part that I worry about. This causes the DeleteFile function, as written, to have a unwanted side-effect.<br><br>The correct name for the function should be DeleteFileAndClearAllErrors()<br><br></p>

@@ -1,0 +1,5 @@
+id: dsq-747534845
+date: 2011-04-14T22:12:56.0000000-07:00
+name: Lonnie
+avatar: https://disqus.com/api/users/avatars/Lonnie.jpg
+message: <p>okay, the problem is bigger than I thought.  It appears the the modernizr-1.7.js file is breaking across several of the audio codecs, not just theora.<br>I am running VS on a VM with no installed audio device (the host server does not have one to assign).<br>Could this be the issue, and if so, how can I fix it?<br>Even removing the modernizr files from the script folder, deleting them from the project and rebuilding doesn't work, as VS dynamically replaces them on debug.<br>I'm new and trying to learn this, but the environment keeps killing my efforts.  Any help would be appreciated.<br>Thanks</p>

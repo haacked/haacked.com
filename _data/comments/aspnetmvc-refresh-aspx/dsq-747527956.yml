@@ -1,0 +1,5 @@
+id: dsq-747527956
+date: 2009-01-31T17:31:20.0000000-08:00
+name: simon
+avatar: https://disqus.com/api/users/avatars/simon.jpg
+message: "<p>@haacked - thanks for the link. it seems this version hasn't changed since RC1 r0. since Microsoft.Web.Mvc refers to a non-strongly named v1.0.0.0 of System.Web.Mvc its not always clear whether or not a new version is needed. <br>i was hoping an outdated futures was the reason why IsAjaxRequest() was always returning false for me : <a href=\"http://stackoverflow.com/questions/499997/is-request-isajaxrequest-broken-in-the-mvc-rc1-refresh\" rel=\"nofollow noopener\" title=\"http://stackoverflow.com/questions/499997/is-request-isajaxrequest-broken-in-the-mvc-rc1-refresh\">stackoverflow.com/.../is-request-isajaxrequest-...</a></p>"

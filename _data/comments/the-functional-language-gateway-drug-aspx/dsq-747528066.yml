@@ -1,0 +1,5 @@
+id: dsq-747528066
+date: 2009-02-16T00:37:29.0000000-08:00
+name: Chris hynes
+avatar: https://disqus.com/api/users/avatars/Chris hynes.jpg
+message: <p>In this case at least you can do this just as succinctly, and maybe more understandably with imperative code:<br><code><br>foreach (string format in suffixFormats)<br>{<br>string slug = originalSlug + String.Format(s, separator);<br>if (Repository.GetEntry(slug) == null)<br>return slug;<br>}<br>throw new InvalidOperationException("couldn't auto generate slug");<br></code><br>I never use Linq expressions when imperative code functions just as well. Why make the code more complicated and have possible unknown overhead calling into Linq?</p>

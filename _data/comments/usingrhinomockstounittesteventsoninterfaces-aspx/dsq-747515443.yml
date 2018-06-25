@@ -1,0 +1,5 @@
+id: dsq-747515443
+date: 2007-04-24T12:00:12.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>My guess is that the NullReferenceException you're seeing is due to this call: <br>ProjectManager.CreateProject(_view.Project);<br>But it's hard to say without a stack trace. _view.Project is going to be null unless you mock that property. Something like:<br>Setup.Call(viewMock.Prop).PropertyBehavior();<br>For more on this, check out the <a href=\"http://www.ayende.com/Wiki/(S(atblwmbdmua30v555jvmhx45))/Rhino+Mocks+Properties.ashx\" rel=\"nofollow noopener\" title=\"Rhino Mocks Wiki\">Rhino Mocks documentation</a> wiki.<br></p>"

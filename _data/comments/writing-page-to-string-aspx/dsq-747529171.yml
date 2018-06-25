@@ -1,0 +1,5 @@
+id: dsq-747529171
+date: 2009-05-29T01:19:00.0000000-07:00
+name: Victor Kornov
+avatar: https://disqus.com/api/users/avatars/Victor Kornov.jpg
+message: <p>Doesn't need any CreateHtmlTextWriter:<br>protected override void Render(HtmlTextWriter writer)<br>{<br>var sw = new StringWriter();<br>var w = new HtmlTextWriter(sw);<br>base.Render(w);<br>string html = sw.ToString();<br>html = html.Replace("REPLACE ME!", "IT WAS REPLACED!");<br>writer.Write(html);<br>}</p>

@@ -1,0 +1,5 @@
+id: dsq-747532210
+date: 2010-05-16T23:07:48.0000000-07:00
+name: Ren&#233; Kuss
+avatar: https://disqus.com/api/users/avatars/Ren&#233; Kuss.jpg
+message: <p>I'm using the PreApplicationStartMethodAttribute to configure a di container. It works without any problems. No more bogus configuration code in global.asax.</p>

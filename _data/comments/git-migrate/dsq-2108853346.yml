@@ -1,0 +1,6 @@
+id: dsq-2108853346
+replyToId: dsq-2108163629
+date: 2015-06-30T09:58:32.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>no, git rebase --onto works on the current branch (HEAD). So "git rebase --onto master wrong-branch" is saying migrate the commits between wrong-branch and HEAD onto master.</p>

@@ -1,0 +1,5 @@
+id: dsq-747526052
+date: 2008-08-16T19:51:19.0000000-07:00
+name: Tim Marman
+avatar: https://disqus.com/api/users/avatars/Tim Marman.jpg
+message: <p>Phil, why would you need to wait for MVC to take away the aspx extension? Just add the ASP.NET ISAPI as a wildcard handler on the virtual directory (which you would presumably need to do anyway at some level for MVC, though admittedly I haven't played with it much), and you can write a very simple HTTPHandler that redirects accordingly.<br>I'm doing this on Notches - e.g., <a href="http://notch.es/about" rel="nofollow noopener" title="http://notch.es/about">http://notch.es/about</a> really maps to <a href="http://notch.es/about" rel="nofollow noopener" title="http://notch.es/about">http://notch.es/about</a>.aspx. I'm not using a full IISRewrite or similar module - rather a really small one that just checks if the url doesn't end in .*, and if a corresponding *.aspx exists, then rewrites the request accordingly. <br>Slightly more overhead than not mapping the requests directly, but like I said I would guess this is necessary with the current infrastructure in MVC anyway no?</p>

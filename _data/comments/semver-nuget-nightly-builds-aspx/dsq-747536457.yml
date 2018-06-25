@@ -1,0 +1,5 @@
+id: dsq-747536457
+date: 2011-10-25T04:47:25.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Chris Yeah, I'm hesitant to go against the spec, but since the spec only refers to "public" APIs, maybe it's fine to change it for private internal builds. Anybody know anyone responsible for SemVer? Maybe we can propose an amendment to it.<br>@Betty if we choose to follow SemVer, which has a lot of momentum behind it, we want to follow the spec as strictly as possible. However, within specific organizations, there's no reason you couldn't limit yourself to a standard convention.<br>In fact, I think we'll recommend that you use well known strings.</p>

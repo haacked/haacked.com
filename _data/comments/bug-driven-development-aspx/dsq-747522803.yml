@@ -1,0 +1,5 @@
+id: dsq-747522803
+date: 2007-09-23T23:33:19.0000000-07:00
+name: Howard
+avatar: https://disqus.com/api/users/avatars/Howard.jpg
+message: <p>The kind of "framing the argument" that you have in mind is what people sometimes do when they lack real arguments for their point. For example, "Death Tax" "Right to Life," and “Woman’s Right to Choose.”<br>Test driven development is great in some contexts. For example, it's perfect for the ongoing development of a database engine that exposes a well-defined API. At the other extreme is what I have been involved with recently, namely incremental development, by a small team, of a database-driven workflow automation application -- the only place TDD has paid off for this has been in developing various helper functions. Writing a complete suite of autotmated tests would probably double our effort.<br>Even if TDD eliminates 75% of the bugs – and how likely is that – the situation is qualitatively the same. You still need to expose the product to testers and field users – “Bug-Driven Development.”<br></p>

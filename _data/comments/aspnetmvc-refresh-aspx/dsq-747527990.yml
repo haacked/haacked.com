@@ -1,0 +1,5 @@
+id: dsq-747527990
+date: 2009-02-19T04:46:58.0000000-08:00
+name: Jason Cochran
+avatar: https://disqus.com/api/users/avatars/Jason Cochran.jpg
+message: <p>Phil, are there any plans to add functionality to the framework to auto-detect whether a controller's action link should be prefixed with HTTPS vs. HTTP? Is there a good workaround in the meantime? Writing an extension method (a la .ToSslUrl()) will work for links but form actions will not as far as I know. I am currently using an ActionFilterAttribute to redirect if the action is decorated, but there has to be a better way. Thanks!</p>

@@ -1,0 +1,5 @@
+id: dsq-747517667
+date: 2012-04-02T12:55:36.0000000-07:00
+name: Edwin
+avatar: https://disqus.com/api/users/avatars/Edwin.jpg
+message: <p>For anybody surfing on here through google who is getting the "because it is registered in web.config and lives in the same directory as the page." error, remember to put your user controls in a DIFFERENT FOLDER to your ASPX pages, that should fix the problem.<br>If you have user controls that other user controls use, also make sure these are in another folder.</p>

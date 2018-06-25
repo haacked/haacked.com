@@ -1,0 +1,5 @@
+id: dsq-747521283
+date: 2008-02-04T12:07:04.0000000-08:00
+name: Slevdi
+avatar: https://disqus.com/api/users/avatars/Slevdi.jpg
+message: "<p>@joe Re: Cache object<br>Just in case you didn't solve this:<br>The result you get is correct. The cache remains intact for the duration of the application so you need to clear it in between tests.<br>I would put a cache clearing method as a SetUp:<br>(Note that you don't need to use HttpContext for the cache; HttpRuntime works fine without the simulator.)<br><code><br>internal static Cache cache = HttpRuntime.Cache;<br>[SetUp]<br>public void SetUp()<br>{<br>    foreach (DictionaryEntry cacheItem in cache)<br>    {<br>        cache.Remove(cacheItem.Key.ToString());<br>    }<br>}<br></code><br>Then I would refactor the tests to use the internal static cache field.<br></p>"

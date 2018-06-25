@@ -1,0 +1,5 @@
+id: dsq-3479301238
+date: 2017-08-21T05:31:05.0000000-07:00
+name: Dani_S
+avatar: https://disqus.com/api/users/avatars/Dani_S.jpg
+message: <p>Hi. <br>Am I the only one who doesn't get this?</p><p>"If by blind bad luck you’re still logged into the original site when you<br>click through to the link, the browser will send your authentication<br>cookie to the website when it loads the script referenced in the script<br>tag."</p><p>How does a cookie originated from site A goes to site B? I thought this was impossible, because of the very way cookies work, in that they only go back and forth between the server who created it and the client site for which it was meant to be created.</p><p>Dani_S</p>

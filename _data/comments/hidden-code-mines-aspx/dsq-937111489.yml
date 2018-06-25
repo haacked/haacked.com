@@ -1,0 +1,6 @@
+id: dsq-937111489
+replyToId: dsq-934455256
+date: 2013-06-20T16:56:44.0000000-07:00
+name: Mauricio Scheffer
+avatar: https://disqus.com/api/users/avatars/Mauricio Scheffer.jpg
+message: <p>The problem with exceptions is they don't compose, and partial functions lead to these "code mines". See for example <a href="http://blogs.atlassian.com/2011/05/exceptions_are_bad/" rel="nofollow noopener" title="http://blogs.atlassian.com/2011/05/exceptions_are_bad/">http://blogs.atlassian.com/...</a> and <a href="https://blogs.atlassian.com/2011/06/exceptions_are_monadic/" rel="nofollow noopener" title="https://blogs.atlassian.com/2011/06/exceptions_are_monadic/">https://blogs.atlassian.com...</a> .</p><p>If you want a dictionary&lt;key,value&gt; as result, you could also make it total by returning something like Either&lt;string, dictionary&lt;key,="" value=""&gt;&gt; where the string contains the error message. This forces you to deal with the case of failure, as opposed to the exception.</p>

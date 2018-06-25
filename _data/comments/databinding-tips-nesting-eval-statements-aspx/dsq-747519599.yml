@@ -1,0 +1,5 @@
+id: dsq-747519599
+date: 2007-04-26T05:55:41.0000000-07:00
+name: Jason
+avatar: https://disqus.com/api/users/avatars/Jason.jpg
+message: <p>CSSUnit, hmmm,  good luck on that one!  IE6 quirks mode, IE7 partially fixes quirks mode but still has issues like  height problem with floats etc.  Just firing up a microsoft browser would fail the tests!...<br>but the test names would be cool.<br>AssertThatFirefoxCorrectlyRendersPngAlphaCorrectForBackGroundDivsAndThatIE6FailsMiserablyYetIe7SortaWorksSometimes()<br>TestThatQuirksModeIe6WorksButNowSomeQuirksWereFixedInIe7SoTestAnotherHackCssTrickForMicrosoftIncompetenceInStandards()<br>Css and browser compliance is black magic, and only Amazonian Voodoo doctors should attempt to unit test it.</p>

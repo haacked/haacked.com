@@ -1,0 +1,5 @@
+id: dsq-747527662
+date: 2009-01-06T20:57:01.0000000-08:00
+name: josh
+avatar: https://disqus.com/api/users/avatars/josh.jpg
+message: <p>I dont know if you've looked at rails, but I know Rob has. That's probably where his suggestions is coming from.  In rails, you don't need to do anything special other than register the type in environment.rb. The just use responds_to in the controller.<br><a href="http://info.michael-simons.eu/2007/08/06/rails-respond_to-method/" rel="nofollow noopener" title="http://info.michael-simons.eu/2007/08/06/rails-respond_to-method/">info.michael-simons.eu/.../rails-respond_to-method</a><br></p>

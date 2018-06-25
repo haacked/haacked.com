@@ -1,0 +1,5 @@
+id: dsq-747526958
+date: 2008-11-10T22:25:21.0000000-08:00
+name: Filini
+avatar: https://disqus.com/api/users/avatars/Filini.jpg
+message: <p>My previous comment was rejected as SPAM, so I guess I cannot paste HTML code in here...<br>Anyway, when you write "Technically it is not a valid HTML" are you assuming that you are parsing XHTML? The example you posted is a perfectly valid HTML 4.01 Transitional, I just checked on the W3C Validator. If you want, I can mail you an HTML full page source code (that I cannot post here on the comments).<br>I may be obvious here, but if you are only parsing XHTML you can just load it in an XmlDocument and remove the comments :-)</p>

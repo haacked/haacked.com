@@ -1,0 +1,5 @@
+id: dsq-747532644
+date: 2010-08-29T11:37:42.0000000-07:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>If you are running into this issue,the Razor parser seems to be having issues with nullable types. I switched my references from int? and DateTime? to System.Nullable&lt;int&gt; etc. That fixed the issue for now.</p>

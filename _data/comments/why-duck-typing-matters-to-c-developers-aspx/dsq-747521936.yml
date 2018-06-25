@@ -1,0 +1,5 @@
+id: dsq-747521936
+date: 2007-08-19T16:12:10.0000000-07:00
+name: Damien Guard
+avatar: https://disqus.com/api/users/avatars/Damien Guard.jpg
+message: <p>My worry with duck typing is that two methods with the same signature do not necessarily do the same thing.<br>Say you pass an object to a function that expects that object to supports a Remove property.<br>A Collection class and a File class would have radically different ideas as to what Remove should do - one would be destructive, the other not.<br>The Mac Cocoa system gets round this by using messages where parameter names form part of the signature but whilst C# method names remain so short it seems like a recepie for the odd catastrophic bug.<br>[)amien</p>

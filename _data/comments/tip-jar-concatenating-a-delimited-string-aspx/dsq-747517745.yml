@@ -1,0 +1,5 @@
+id: dsq-747517745
+date: 2006-11-22T03:16:23.0000000-08:00
+name: Kevin Dente
+avatar: https://disqus.com/api/users/avatars/Kevin Dente.jpg
+message: <p>Come, come, we're all good test drivers here, right? Clearly if this kind of iteration/concatenation is happening more than once, it needs to be factored out into it's own class. :P<br>On a recent project where I did a bunch of similar concatenation, I created a DelimitedStringGenerator class which walked an IEnumerable&lt;T&gt; and concatenated the strings together. That way, you only have one implementation of your looping logic, and you can tweak the implementation all you want, as well as reuse it.<br>Thanks for the reminder about Join. The BCL is so massive its easy to forget about handy little things like that.<br></p>

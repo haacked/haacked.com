@@ -1,0 +1,5 @@
+id: dsq-747537181
+date: 2011-12-13T20:07:32.0000000-08:00
+name: Chris Chandler
+avatar: https://disqus.com/api/users/avatars/Chris Chandler.jpg
+message: <p>@christian   I can show you my prompt, which is just as fast as git bash, on our very large repo.  I just parse the branch list call to get branch and don't bother with recursion, if its not a git repo. The branch call returns an error, and its much faster than seeking a .git dir.</p>

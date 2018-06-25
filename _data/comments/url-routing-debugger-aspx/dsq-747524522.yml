@@ -1,0 +1,5 @@
+id: dsq-747524522
+date: 2008-09-22T21:58:19.0000000-07:00
+name: Anthony
+avatar: https://disqus.com/api/users/avatars/Anthony.jpg
+message: "<p>It still seems broken with preview 5. I did the following:<br>* make a new <a href=\"http://asp.net\" rel=\"nofollow noopener\" title=\"asp.net\">asp.net</a> MVC solution, build it<br>* Download the DLL<br>* Add a reference to routeDebug.dll to the solution<br>* Add the line to Application_Start<br>* run the application<br>- Get [ArgumentException: The MvcHttpHandler does not work with the handler of type 'RouteDebug.DebugHttpHandler' since it does not derive from MvcHandler.<br>Parameter name: httpHandler]<br>Commenting out the code in default.aspx (as suggested in the comments here) just produces a blank page.</p>"

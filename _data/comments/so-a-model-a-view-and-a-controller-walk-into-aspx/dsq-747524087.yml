@@ -1,0 +1,5 @@
+id: dsq-747524087
+date: 2008-03-09T10:21:25.0000000-07:00
+name: Derek
+avatar: https://disqus.com/api/users/avatars/Derek.jpg
+message: "<p>\"Yeah, it's a deliberate change. If you think of \"talking to\" as a \"dependency on\", then the View can talk to the Model, but can't talk directly to the controller.<br>This diagram illustrates the point.\"<br>Just for the sake of trivia, the original Smaltalk-80 MVC implementation did couple View to Controller and vice-versa (see: <a href=\"http://st-www.cs.uiuc.edu/users/smarch/st-docs/mvc.html)\" rel=\"nofollow noopener\" title=\"http://st-www.cs.uiuc.edu/users/smarch/st-docs/mvc.html)\">http://st-www.cs.uiuc.edu/u...</a>.<br>How about this version?<br>\"So a Model, a View, and a Controller walk into a bar and sit down to order some drinks from the bartender. View has a bit too much to drink, so the bartender asks View for his keys.  Controller reaches into Model's pants and pulls out a set of keys which he then hands over to the bartender.  Model yells out: \"Somebody has just reached into my pants!\"  View hears Model yelling and turns to the bartender and says\" \"You have my keys now.\"<br><br>Derek</p>"

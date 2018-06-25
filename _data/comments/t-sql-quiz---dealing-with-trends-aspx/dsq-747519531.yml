@@ -1,0 +1,5 @@
+id: dsq-747519531
+date: 2007-04-09T14:51:47.0000000-07:00
+name: Damien Guard
+avatar: https://disqus.com/api/users/avatars/Damien Guard.jpg
+message: <p>Add a new decimal column to the Statistics table called Weight (type Decimal(18,2) will suffice).<br>Fill in the new column with a value of 1 for existing Statistics and -1 for the new "Deaths per LOC" row.<br>Modify the line of the SP that says:<br>, TrendFactor = (CurrentScore - PreviousScore)/mc.MeasurementCount<br>To read:<br>, TrendFactor = (CurrentScore - PreviousScore)/mc.MeasurementCount*Weight<br>[)amien</p>

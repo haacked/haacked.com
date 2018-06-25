@@ -1,0 +1,5 @@
+id: dsq-747534743
+date: 2011-05-04T08:10:49.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Shaun add your private repository to the package sources and move it to the top so it's first. Then use the "All" node when installing packages. It'll look in your private repository first, then in the others if the package isn't in your private.</p>

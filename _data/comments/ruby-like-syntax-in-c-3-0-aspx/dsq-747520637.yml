@@ -1,0 +1,5 @@
+id: dsq-747520637
+date: 2007-05-24T21:31:57.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Scott - No, strings are not mutable. Yes, ANY class because extensions can automatically box and unbox.<br>@The Other Steve - Convenience. When you type 20. and intellisense tells you "Minutes()" is one of the options. Cool. Also, the composition is cool. What if you want a timespan of 20 minutes. 20.Minutes()<br>@J.Irvine - Yet DateTime.Now.Subtract(TimeSpan.FromMinutes(20)); is somehow more comprehendible to Germans? Please explain. <br>Scott Hanselman actually addresses this point in his post. There's no such thing as a universal programming  language that will work for all languages. <br>All the keywords of the most widely used languages are in english and flow left to right. Ruby was invented by a Japanese gentleman who realized that and did not deviate from that convention.</p>

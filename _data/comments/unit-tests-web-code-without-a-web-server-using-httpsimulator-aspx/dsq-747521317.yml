@@ -1,0 +1,5 @@
+id: dsq-747521317
+date: 2010-10-19T03:22:42.0000000-07:00
+name: Gabriel Halsmer
+avatar: https://disqus.com/api/users/avatars/Gabriel Halsmer.jpg
+message: <p>Whoops, and you may want the namespaces too..<br><code><br>using System;<br>using System.Collections.Specialized;<br>using System.Reflection;<br>using System.Web;<br>using System.Web.SessionState;<br></code></p>

@@ -1,0 +1,5 @@
+id: dsq-747533428
+date: 2010-12-02T17:51:57.0000000-08:00
+name: flipdoubt
+avatar: https://disqus.com/api/users/avatars/flipdoubt.jpg
+message: <p>So ... I understand why the GAC is necessary in Phil's experiment, but I don't understand what deployment scenario it is simulating if ClassLibrary1 is not deployed to the GAC in production. Can anyone enlighten me on this one?</p>

@@ -1,0 +1,5 @@
+id: dsq-747517592
+date: 2006-11-09T03:43:20.0000000-08:00
+name: Simone Chiaretta
+avatar: https://disqus.com/api/users/avatars/codeclimber.jpg
+message: <p>I use the excerpt because I "live" in a blog site that has an aggregator page, and that is the main page that everybody read.<br>So, when the post contains a lot of images, or is long, or is OT compared to the main topic of the site, I use the excerpt, and syndacate on the aggregator only the excerpt.<br>Probably in a single blog site will not be crucial, except when you want to syndacate on the RSS feed only a teaser and not the full blog entry.<br>But I guess that an automatic excerpt generator, that truncates the the blog post at the first period, or something similar will be fine, too...</p>

@@ -1,0 +1,5 @@
+id: dsq-747511132
+date: 2005-03-16T20:36:00.0000000-08:00
+name: bags
+avatar: https://disqus.com/api/users/avatars/bags.jpg
+message: <p>Great info - thanks.  This works for a website and the classes (Page) objects in the website.  What about when the website uses different class libraries?  How do I configure the class libraries so that they, too, will log to the same location as the website code does?  Can I have the class libraries point to the log4net config file that is used by the website?  <br><br><br><br>Thanks in advance.</p>

@@ -1,0 +1,5 @@
+id: dsq-747513660
+date: 2006-01-12T04:42:00.0000000-08:00
+name: Alex
+avatar: https://disqus.com/api/users/avatars/Alex.jpg
+message: "<p>One problem you might encounter.. is that the following style for example :<br><br><br><br>table<br><br>{<br><br>behavior: url('htc/grid.htc')<br><br>}<br><br><br><br>actually doesn't work by the css specification <br><br><br><br>( as I understood , it's because htc is MS standart and they didn't care much about the css spec in this case )<br><br><br><br>so in this case it's actually relative to the document and not the source of the style sheet .<br><br><br><br>There are ways to work this out .. but they are pretty ugly..<br><br><br><br><br><br></p>"

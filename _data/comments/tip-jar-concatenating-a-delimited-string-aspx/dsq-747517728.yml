@@ -1,0 +1,5 @@
+id: dsq-747517728
+date: 2006-11-21T23:48:14.0000000-08:00
+name: Sergio Pereira
+avatar: https://disqus.com/api/users/avatars/Sergio Pereira.jpg
+message: <p>Inspired by Ruby and prototype.js I wrote a utility class for my projects and I can end up with something like this:<br>string list = string.Join("|", Util.Pluck(fakes, "SomeProp") );<br>Util.Pluck returns a System.Array where each element is of the same type as the property told in the 2nd parameter. <br>I use it all the time. Yes it uses reflection but it does a good job of avoiding repeated metadata queries for property types.<br>I wish there was something simialr in .net 2.0... maybe there is and I've never been introduced to.</p>

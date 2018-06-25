@@ -1,0 +1,5 @@
+id: dsq-747525021
+date: 2008-05-04T09:51:19.0000000-07:00
+name: Lou D
+avatar: https://disqus.com/api/users/avatars/Lou D.jpg
+message: <p>Cool trick! Quite a picky audience. Sounds like it could be an interesting way to get stuff other than html-encoded text in a link.<br>public static void ActionLink&lt;T&gt;(<br>  this HtmlHelper html, <br>  Expression&lt;Action&lt;T&gt;&gt; action,<br>  Action linkContents) where T:Controller<br>{<br>  string url = LinkBuilder.BuildUrlFromExpression(<br>    html.ViewContext, action);<br>  html.ViewContext.HttpContext.Response.Write(<br>    string.Format("&lt;a href=\"{0}\"&gt;", url));<br>  <br>  linkContents();<br>  <br>  html.ViewContext.HttpContext.Response.Write("");<br>}<br>in aspx<br>&lt;% var x = "foo"; %&gt;<br></p><p>&lt;% Html.ActionLink&lt;HomeController&gt;(<br>  home =&gt; home.About(), <br>  () =&gt; {%&gt;&lt;span class="&lt;%=x%&gt;"&gt;hello&lt;/span&gt;&lt;%}); <br>%&gt;</p><p><br></p>

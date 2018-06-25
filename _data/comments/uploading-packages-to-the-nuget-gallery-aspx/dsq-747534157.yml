@@ -1,0 +1,5 @@
+id: dsq-747534157
+date: 2011-05-03T13:02:38.0000000-07:00
+name: Sergi Gisbert
+avatar: https://disqus.com/api/users/avatars/sergigisbert.jpg
+message: '<p>Hi Phil,<br>Thanks for your reply. I cannot do that as I have some .csproj which will not become a Nuget package, so looking for all the .nuspec files is just what I need, but want to use the .csproj file as the input parameter.<br>Another question would be: if the .nuspec file has those replacement tokens (%id%, ...) to get the metadata from the project, would packaging the .nuspec file instead of the .csproj file have the same effect?<br>Thanks again,<br>Sergi</p>'

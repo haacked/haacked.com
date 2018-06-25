@@ -1,0 +1,5 @@
+id: dsq-747509853
+date: 2005-04-28T01:49:00.0000000-07:00
+name: Matthew
+avatar: https://disqus.com/api/users/avatars/Matthew.jpg
+message: <p>Oh, another comment to Mercer.  You really need to understand how your web application technologies work.  If you're expecting Server.Transfer to allow you to work from ASP.NET to PHP or old ASP, then you really don't get what's happening.  You must use Response.Redirect if you want to move from ASP.NET to another web app technology. =/</p>

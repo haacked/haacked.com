@@ -1,0 +1,6 @@
+id: dsq-1118388196
+replyToId: dsq-1114997265
+date: 2013-11-11T10:39:53.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yeah, that is definitely safe too. But I think having a `Repeat()` method is a bit dangerous because someone somewhere will inadverdently call `ToArray` on it. ;P</p><p>I'd rather cap the damage that can be done if that happens.</p>

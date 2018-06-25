@@ -1,0 +1,5 @@
+id: dsq-747526546
+date: 2008-10-23T21:35:56.0000000-07:00
+name: Melvyn Harbour
+avatar: https://disqus.com/api/users/avatars/Melvyn Harbour.jpg
+message: <p>That's strange - it should be a link to section 6.2 of the HTML spec (SGML basic types). I've realised after a bit of more detailed reading that I made a slight mistake. The line in the spec says that:<br>"ID and NAME tokens must begin with a letter ([A-Za-z]) and may be followed by any number of letters, digits ([0-9]), hyphens ("-"), underscores ("_"), colons (":"), and periods (".")."<br>However if you look at the definition of the input element, it's name attribute is marked as CDATA, not NAME (confusingly!). So actually nothing to worry about and XHTML and HTML appear to be consistent after all!</p>

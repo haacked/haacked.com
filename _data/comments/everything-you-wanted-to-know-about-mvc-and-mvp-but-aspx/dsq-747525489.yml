@@ -1,0 +1,5 @@
+id: dsq-747525489
+date: 2008-06-23T04:07:34.0000000-07:00
+name: Alex
+avatar: https://disqus.com/api/users/avatars/Alex.jpg
+message: <p>"This framework (ASP.NET MVC) employs the MVC pattern rather than the MVP pattern because it does not attempt to emulate rich client development, and thus the MVC pattern is more appropriate."<br>Does this statement suggest that the ASP.NET MVC framework should not attempt to emulate richer client user interfaces? <br>I have been using MVP and building complex user interfaces, leveraging third party tools and Ajax, and I have found success. With MVC, I hope to be able to build complex user interfaces as I have been doing with MVP once third party control support is more abundant. <br>My point - I expect this ASP.NET MVC framework to be enable complex user interface development, emulating a richer clients. I am hoping it is just the way I read this statement that made me think twice. <br>Will the ASP.NET MVC framework promote more complex user interfaces? At this point, many of the examples available are more simplistic. <br></p>

@@ -1,0 +1,6 @@
+id: dsq-1355715098
+replyToId: dsq-1355711755
+date: 2014-04-25T13:40:53.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>```csharp<br>public class TheCtor<br>{<br>  [Fact]<br>  public void DoesWhatItShould() {...}<br>}<br>```</p>

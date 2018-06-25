@@ -1,0 +1,5 @@
+id: dsq-747525097
+date: 2008-05-05T23:04:49.0000000-07:00
+name: Troy DeMonbreun
+avatar: https://disqus.com/api/users/avatars/Troy DeMonbreun.jpg
+message: "<p>I'm presuming you guys wouldn't literally write tests that had a proliferation of URLs to verify?  <br>I.e., that the above unit test is just a simplified example and it would be better practice to write a much less brittle unit test, e.g.: reference an external file containing the URLs (and possibly other metadata) and write the test to iterate the file and output a global pass/fail (with maybe summary text of the URLs that failed)?<br></p>"

@@ -1,0 +1,5 @@
+id: dsq-760674629
+date: 2013-01-08T17:48:00.0000000-08:00
+name: Timanolan
+avatar: https://disqus.com/api/users/avatars/Timanolan.jpg
+message: <p>What is the best way to test this with POSTs? It's working with Gets, but my issue is that I'm getting 404's on posts after upgrading a project a MVC 4 app from Beta. </p><p>I suppose I could use fiddler and look at the returned HTML, or create a JS method to Post the JSON by hand? </p>

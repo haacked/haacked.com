@@ -1,0 +1,5 @@
+id: dsq-747532540
+date: 2010-06-16T11:03:36.0000000-07:00
+name: Abhishek
+avatar: https://disqus.com/api/users/avatars/Abhishek.jpg
+message: <p>Naming convention seems incorrect. With the parameter taking single string, the name should be "item" and not "items".</p>

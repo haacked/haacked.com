@@ -1,0 +1,5 @@
+id: dsq-747526550
+date: 2008-10-24T03:46:43.0000000-07:00
+name: Vladan Strigo
+avatar: https://disqus.com/api/users/avatars/Vladan Strigo.jpg
+message: <p>Also... the alternative (which I've implemented now) is that I send include/exclude properties lists and prefix to the constructor of customer binder, and in the binder itself execute the logic of those 2 functions manually.<br>As you can imagine... its a hack.<br><br>Thanks!<br>Vladan</p>

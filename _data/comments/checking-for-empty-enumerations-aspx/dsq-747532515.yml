@@ -1,0 +1,5 @@
+id: dsq-747532515
+date: 2010-06-13T06:15:50.0000000-07:00
+name: James Michael Hare
+avatar: https://disqus.com/api/users/avatars/James Michael Hare.jpg
+message: '<p>@Tom: True, there are may times that a check for an empty enumeration can be avoided (for instance a check for size zero around a foreach is unnecessary), but there may also be validation logic where you may expect an enumeration to have at least one element and zero elements is an error.</p>'

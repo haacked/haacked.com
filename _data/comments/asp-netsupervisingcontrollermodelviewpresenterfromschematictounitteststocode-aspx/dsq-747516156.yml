@@ -1,0 +1,5 @@
+id: dsq-747516156
+date: 2006-10-08T02:19:02.0000000-07:00
+name: Dave
+avatar: https://disqus.com/api/users/avatars/Dave.jpg
+message: <p>Phil, I finally got around to creating a version of your example that uses the StateChart concept (and ViewMachine). The code is available for download from my site. And I wrote an article on my site comparing the StateChart-based approach to the Supervising Controller approach you used. They are similar in terms of the amount of effort required to implement (which is not too much). For anyone that understands the power of StateCharts in the UI, this is very good news -- because that power is available at no extra cost. I hope my article demonstrates this fact clearly. I would love to hear your feedback, and I'll probably update the article (and code) based on the feedback.<br>See <a href="http://www.viewmachine.com" rel="nofollow noopener" title="http://www.viewmachine.com">http://www.viewmachine.com</a></p>

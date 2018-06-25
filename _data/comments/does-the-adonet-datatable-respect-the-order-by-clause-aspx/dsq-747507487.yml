@@ -1,0 +1,5 @@
+id: dsq-747507487
+date: 2008-05-08T07:28:59.0000000-07:00
+name: Alison
+avatar: https://disqus.com/api/users/avatars/Alison.jpg
+message: <p>I am actually seeing this issue..<br>I have a sql string that I use in my cmd object to fill the datatable using ADO.Net.  If I paste the sql into the MS Access query tool, I get the correct order I want.. (no order by just pulled in table order). But when the Fill populates the datatable it is magically ordered in a differnt way.. Not even sure how it is ordered.. I need the rows to be just as they are stored in the DB.. So this is a major problem..<br>Anyone run into a solution?</p>

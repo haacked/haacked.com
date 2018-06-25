@@ -1,0 +1,5 @@
+id: dsq-747532223
+date: 2010-05-20T13:47:57.0000000-07:00
+name: Joop
+avatar: https://disqus.com/api/users/avatars/Joop.jpg
+message: "<p>Strange thing happening to me with the PreApplicationStartMethod Attribute. I did implement it in my latest project. In the AssemblyInfo.cs<br>[code]<br>[assembly: PreApplicationStartMethod(typeof(MyAssembly.Initializer), \"Initialize\")]<br>namespace MyAssembly<br>{<br>    public static class Initializer<br>    {<br>        public static void Initialize()<br>        {<br>            TranslationKeys.Initialize();<br>        }<br>    }<br>}<br>[/code]<br>When I rebuild my application and load it in the browser I get the following error:<br>[blockquote]<br>The method specified by the PreApplicationStartMethodAttribute on assembly 'MyWebApp, Version=0.0.1.0, Culture=neutral, PublicKeyToken=null' cannot be resolved. Type: 'MyAssembly.Initializer', MethodName: 'Initialize'. Verify that the type is public and the method is public and static (Shared in Visual Basic).[/blockquote]</p>"

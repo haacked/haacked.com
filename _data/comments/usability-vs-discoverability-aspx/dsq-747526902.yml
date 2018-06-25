@@ -1,0 +1,5 @@
+id: dsq-747526902
+date: 2008-11-06T05:04:53.0000000-08:00
+name: Erik van Brakel
+avatar: https://disqus.com/api/users/avatars/Erik van Brakel.jpg
+message: <p>@ Ayende:<br>That's what I was thinking as well. I guess the API now is a result of thinking in interfaces too much, while neglecting the fact that using an abstract base class still IS a valid option in a lot of cases?</p>

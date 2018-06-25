@@ -1,0 +1,5 @@
+id: dsq-747510198
+date: 2007-04-19T17:58:45.0000000-07:00
+name: Robert
+avatar: https://disqus.com/api/users/avatars/Robert.jpg
+message: <p>I am versed in regexs so here is an idea I am testing for php. It matches doctype, open, close, and comment tags. It isn't perfect but it gets closer to html rules. This fixes the bug where a tag could be &lt;/div /&gt; and is multi-line compatible.<br>preg version:<br>(<br>&lt;\!\w+(?:\s+[^&gt;]*?)+\s*&gt;|<br>&lt;\w+(?:\s+\w+(?:\s*=\s*(?:"[^"]*"|'[^']*'|[^"'&gt;\s]+))?)*\s*/?&gt;|<br>&lt;/\w+\s*&gt;|<br>&lt;\!--[^-]*--&gt;<br>)<br><br>php version:<br>$pattern = "/(".<br>"&lt;\!\w+(?:\s+[^&gt;]*?)+\s*&gt;|".<br>"&lt;\w+(?:\s+\w+(?:\s*=\s*(?:\"[^\"]*\"|'[^']*'|[^\"'&gt;\s]+))?)*\s*\/?&gt;|".<br>"&lt;\/\w+\s*&gt;|".<br>"&lt;\!--[^-]*--&gt;".<br>")/";<br>@preg_match_all($pattern, $filedata, $matchesArray);<br>var_dump($matchesArray);</p>

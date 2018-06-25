@@ -1,0 +1,5 @@
+id: dsq-747519573
+date: 2007-04-12T01:56:53.0000000-07:00
+name: Karthik
+avatar: https://disqus.com/api/users/avatars/Karthik.jpg
+message: <p>I always end up putting such wacky formatting for repeaters inside a codebehind method that simply outputs the string I want.<br>That way rather than fix it in multiple places when my client inevitably asks to change the format its easy to maintain.<br>Case in point, I was using "N/A" to denote blank and my client wanted it changed to an image.  Because the return of N/A was wrapped in a method I just had to change the method to return an &lt;img&gt; tag.</p>

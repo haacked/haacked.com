@@ -1,0 +1,5 @@
+id: dsq-747531954
+date: 2010-04-16T15:34:13.0000000-07:00
+name: Harvey Kandola
+avatar: https://disqus.com/api/users/avatars/HarveyKandola.jpg
+message: '<p>@Barry thanks for the medium trust support: we recently ended up ripping out the vast majority of the codebase and just used the string encoding bits (I think there was a lot of file/IO stuff that caused us issues).<br>Looking forward to the next release.</p>'

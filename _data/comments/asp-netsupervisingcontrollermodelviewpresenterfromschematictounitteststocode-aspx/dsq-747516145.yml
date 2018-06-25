@@ -1,0 +1,5 @@
+id: dsq-747516145
+date: 2006-08-15T10:31:16.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>As a followup, I think this approach makes it <strong>easier</strong> to change the UI.<br>The Subtext Admin section does not employ this technique (yet). It uses your traditional ASP.NET technique of some databound controls on a page, events wired up, yadda yadda.<br>Yet every time I try to change something, I seem to introduce a bug in something else.  The page is very brittle to change.  There are no unit tests to let me know that I broke something important.<br>Once I refactor the code to be cleaner using this approach, it'll be easier to write unit tests to cover a significant portion of the code paths.  <br>With that in place, it'll be easier to make changes to the UI.  My tests might not catch everything, but they will make sure I don't break the same thing twice.</p>

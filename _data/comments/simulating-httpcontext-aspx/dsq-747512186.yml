@@ -1,0 +1,5 @@
+id: dsq-747512186
+date: 2007-10-09T16:49:34.0000000-07:00
+name: Glenn Belardo
+avatar: https://disqus.com/api/users/avatars/Glenn Belardo.jpg
+message: <p>This is a great approach but I think this will not work. HttpContext.Current is a read-only property so we cannot assign a new instance of HttpContext to it.</p>

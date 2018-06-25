@@ -1,0 +1,5 @@
+id: dsq-747533153
+date: 2010-10-05T21:34:49.0000000-07:00
+name: Rob White
+avatar: https://disqus.com/api/users/avatars/ilivewithian.jpg
+message: <p>The thing that maybe I'm just not seeing is; where are the actual assembly files put, do they go into the GAC, do they end up in a folder related to your project somehow? Essentially what I'm wondering is, how will this work with a build server? If I add a package and write some code against that package, when I check my code in, will the build server need to fetch those packages as well? I guess the same question applies to deployment senarios.</p>

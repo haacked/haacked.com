@@ -1,0 +1,5 @@
+id: dsq-747536058
+date: 2012-02-14T17:48:44.0000000-08:00
+name: Kami
+avatar: https://disqus.com/api/users/avatars/Kami.jpg
+message: <p>@Tom McKearney Sorry, my action param was named "model" and my model also had a property called "model" which was confusing the model binder</p>

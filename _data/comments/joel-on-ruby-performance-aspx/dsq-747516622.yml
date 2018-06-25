@@ -1,0 +1,5 @@
+id: dsq-747516622
+date: 2006-09-14T00:02:15.0000000-07:00
+name: jjh
+avatar: https://disqus.com/api/users/avatars/jjh.jpg
+message: "<p>Ryan: Bottom line: It's always cheaper to throw money at faster hardware than it is to spend on developer hours.<br>I had to respond to this, because while I think your are correct for most applications, there are some applications that throwing more hardware at the problem becomes impossible.  We have a few apps that each run on a single domain E25K.  These problems should have been refactored long ago to make better use of commodity hardware so horizontal scaling would have been possible.  <br>My bottom line: beware of using absolutes like \"always\" when debating an issue. :)</p>"

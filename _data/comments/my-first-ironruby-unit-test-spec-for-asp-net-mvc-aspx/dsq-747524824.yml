@@ -1,0 +1,5 @@
+id: dsq-747524824
+date: 2008-04-09T15:52:57.0000000-07:00
+name: jonnii
+avatar: https://disqus.com/api/users/avatars/jonnii.jpg
+message: <p>Ruby doesn't support attributes, but there are certainly alternative ways to representing filters.  For example in rails you do:<br>before_filter :require_authentication, :on =&gt; :show<br>I think perhaps something similar could be done <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> mvc, which could either decorate the appropriate methods with the attributes or set up an interceptor on the appropriate method calls.</p>

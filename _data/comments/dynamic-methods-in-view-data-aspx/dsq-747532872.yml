@@ -1,0 +1,5 @@
+id: dsq-747532872
+date: 2010-08-02T07:46:39.0000000-07:00
+name: Daniel
+avatar: https://disqus.com/api/users/avatars/Daniel.jpg
+message: <p>I'm not sure I like these all that much.  I see a lot of "Field msseage not found" style errors as there is no way to strongly type these items.  At least with the strings you can have strongly typed constants referencing the viewdata entry.<br>I'm also not sure what the dynamic methods offer over HTML helpers really.<br>But that said at least it's available for when it is appropriate which is nice to have.</p>

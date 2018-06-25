@@ -1,0 +1,5 @@
+id: dsq-747525014
+date: 2008-05-04T04:13:19.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>For the second example I would probably just wrap it in a for loop and output my rows like so.<br>&lt;tr class="&lt;%=(rowNum%2==0)?"evenCssRow":"oddCssRow";%&gt;"&gt;<br>I think if you keep refactoring the repeater helper to account for all cases, you'll end up writing the repeater control. ;)</p>

@@ -1,0 +1,5 @@
+id: dsq-747534459
+date: 2011-02-19T16:41:16.0000000-08:00
+name: Alejandro
+avatar: https://disqus.com/api/users/avatars/Alejandro.jpg
+message: <p>@haacked, like @Tom, I want to also know if the assemblies being pulled down via NuGet actually signed.<br>Sometimes they are not signed and then causes problems with our solutions. We end up having to recompile them ourselves and also add in AllowPartiallyTrustedCallers attribute. Not sure if this is something that is out of your control.</p>

@@ -1,0 +1,5 @@
+id: dsq-747511634
+date: 2005-05-02T20:45:00.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>This is great as long as you have a small script and no bandwidth requirements. If you have a large piece of javascript, it's often better to reference it using the "src" attribute of the script tag and place it in the path. That way the client browser will download it once and then cache it. Otherwise you end up sending the same script down every time the page loads.<br><br><br><br>Of course I'm talking about script files that are measured in K not chars&lt;grin&gt;. If the scripts is really small, then it's better to embed it in a resource file (even though the resource editor in VS 2003 really sucks). Makes the drag and drop deployment of web controls a reality! I've been working on a way to embed the images into a web control assembly and stream them to the client at runtime. I haven't come up with a satisfactory solution yet.</p>

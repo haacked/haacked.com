@@ -1,0 +1,5 @@
+id: dsq-747509671
+date: 2004-09-15T06:14:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Well the salt isn't enough to guess the password. They still have to break MD5 or SHA1.  (whoops. Guess they did recently. ;)<br><br><br><br>The value in the database is the hashed password.  So I compare the hashed value sent over the wire, with the hashed value in the database.  But since I'm using PasswordOption.SendHashed, what is actually getting sent over the wire is the hash of the hash.<br><br><br><br>So the secret is never sent over the while.  The main focus of my approach is not to protect the secret.  As long as you use PasswordOption.SendHashed, the secret is safe.  <br><br><br><br>The point is to not store plaintext passwords.  If you register on my site and someone compromises my database, they'll be able to login as you to my site.  But not to any other as they don't have your original plaintext password.  That is NEVER sent in any form.</p>

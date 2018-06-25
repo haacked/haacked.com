@@ -1,0 +1,5 @@
+id: dsq-747526396
+date: 2008-09-23T07:52:29.0000000-07:00
+name: dpn
+avatar: https://disqus.com/api/users/avatars/dpn.jpg
+message: <p>I rather like the mako way of doing templates (<a href="http://makotemplates.org" rel="nofollow noopener" title="makotemplates.org">makotemplates.org</a>) Something that is nice and pythonic, but also makes the "block" problem a non-issue :)<br>Mako now runs on GAE, so I'm guessing there must be a pure python impl, which is good news for using it in your <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> mvc project :)</p>

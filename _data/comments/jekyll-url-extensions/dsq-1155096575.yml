@@ -1,0 +1,6 @@
+id: dsq-1155096575
+replyToId: dsq-1154869317
+date: 2013-12-08T10:12:42.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I like that people can send pull requests now to my blog posts should they want and everything is hosted in Git.</p><p>And if I needed a customization not supported by GitHub Pages, I _always_ have the option to just use Jekyll plugins on my local machine and push the generated output to GitHub pages. That's the Octopress approach.</p>

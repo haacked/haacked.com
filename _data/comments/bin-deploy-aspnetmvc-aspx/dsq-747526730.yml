@@ -1,0 +1,5 @@
+id: dsq-747526730
+date: 2010-12-30T16:34:53.0000000-08:00
+name: Jack
+avatar: https://disqus.com/api/users/avatars/Jack.jpg
+message: <p>i generate a sample MVC application  thru the VS Express 2010 without changing any code, it works fine in my local PC. When i try to upload the project to hosting server(production server) for testing, i got an error:<br> <br>Could not load type 'System.Web.Mvc.UrlParameter' from assembly 'System.Web.Mvc, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.    <br>Using <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> 4, IIS 7.0<br>With Bin deploy also not working. :(</p>

@@ -1,0 +1,5 @@
+id: dsq-747513901
+date: 2006-01-19T01:04:00.0000000-08:00
+name: Matthijs van der Vleuten
+avatar: https://disqus.com/api/users/avatars/Matthijs van der Vleuten.jpg
+message: <p>According to the MSDN article you linked to, the default xhtmlConformance mode is Transitional. Thus, your example Web.config setting does not affect anything.</p>

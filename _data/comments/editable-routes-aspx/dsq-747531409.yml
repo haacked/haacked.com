@@ -1,0 +1,5 @@
+id: dsq-747531409
+date: 2010-01-18T10:44:20.0000000-08:00
+name: Aleš Roub&#237;ček
+avatar: https://disqus.com/api/users/avatars/Aleš Roub&#237;ček.jpg
+message: <p>@Adam in this case you never can deploy new version of your site, cos your App poll will recycle. On hevy load apps, there is a balancer. On hevy load apps there is no unscheduled staging. There is no need to worry about it. App_Code is just fine. :)</p>

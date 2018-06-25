@@ -1,0 +1,5 @@
+id: dsq-747519097
+date: 2008-10-14T21:06:43.0000000-07:00
+name: Paul
+avatar: https://disqus.com/api/users/avatars/Paul.jpg
+message: <p>It looks like you must have the type wrong in your custom configuration settings definition. Make sure that the type is fully qualified ex<br>type="MyNamespace.MyclassName, MyAssembly"</p>

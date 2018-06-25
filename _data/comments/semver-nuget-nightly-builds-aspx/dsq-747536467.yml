@@ -1,0 +1,5 @@
+id: dsq-747536467
+date: 2011-10-25T21:07:10.0000000-07:00
+name: Tom Dane
+avatar: https://disqus.com/api/users/avatars/Tom Dane.jpg
+message: <p>It seems to me semantic versioning is overrated. By releasing internal builds and alpha builds you're basically pushing half finished products on your users, basically forcing them to be your QA.<br>Responsible teams would not publish internal, alpha - or even beta - builds, but only ship the stable ones. And the old fashioned versioning perfectly supports this, why complicate it more?</p>

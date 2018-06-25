@@ -1,0 +1,5 @@
+id: dsq-747532881
+date: 2010-08-02T12:44:50.0000000-07:00
+name: Johannes Hansen
+avatar: https://disqus.com/api/users/avatars/Johannes Hansen.jpg
+message: <p>A dynamic ViewModel is awesome and very helpful. However, I think you should shorten the property name from "ViewModel" to "Model", since being a property on a view the word "View" seems redundant. Also while the "Cycle" example you give is fancy, it seems to me as if it belongs in the world of Html helpers/extension methods. :) Other than that keep up the awesome work you are doing.</p>

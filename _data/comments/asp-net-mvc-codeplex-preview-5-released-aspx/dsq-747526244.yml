@@ -1,0 +1,5 @@
+id: dsq-747526244
+date: 2008-08-29T10:38:36.0000000-07:00
+name: Throwspoop
+avatar: https://disqus.com/api/users/avatars/Throwspoop.jpg
+message: "<p>Any idea why this error would occur: \"The UrlRoutingHandler is not used to directly handle requests.\"<br>Its failing here:<br> public void Page_Load(object sender, System.EventArgs e)<br>        {<br>            HttpContext.Current.RewritePath(Request.ApplicationPath);<br>            IHttpHandler httpHandler = new MvcHttpHandler();<br>            httpHandler.ProcessRequest(HttpContext.Current);<br>        }<br>In Default.aspx....i don't recall there being code in here in previous releases. Note that I just created a new MVC web project and tried to run it - this isn't a project promoted from release 4.</p>"

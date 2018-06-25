@@ -1,0 +1,5 @@
+id: dsq-747511245
+date: 2012-09-06T19:40:08.0000000-07:00
+name: Chris Porter
+avatar: https://disqus.com/api/users/avatars/Chris Porter.jpg
+message: <p>I am implementing a combination of this class and Hanselman's Boilerplate HttpHandler class.<br>Is there a reason that you are returning a 500 (InternalServerError) when the parameters of the request are invalid rather than a 400 (BadRequest)?  All the documentation I'm finding online show that the purpose of the 400 response code is "you didn't ask the right question, please check your request and try again" while the 500 response code is for "you asked a question and I was unable to answer it, sorry".  I'm going to go the 400 route but was hoping to find out why you went the 500 route.<br>Thanks for the resource though!!</p>

@@ -1,0 +1,6 @@
+id: dsq-2667178015
+replyToId: dsq-2573411513
+date: 2016-05-09T14:11:49.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yeah, something in GitHub Pages or Jekyll changed. You need to specify the permalink property of the 404 page.</p><p>Here's the change I made to fix it on my blog. <a href="https://github.com/Haacked/haacked.com/commit/6fc59e7b8e0e375cd597e46ed673ab10d2d051d4" rel="nofollow noopener" title="https://github.com/Haacked/haacked.com/commit/6fc59e7b8e0e375cd597e46ed673ab10d2d051d4">https://github.com/Haacked/...</a></p>

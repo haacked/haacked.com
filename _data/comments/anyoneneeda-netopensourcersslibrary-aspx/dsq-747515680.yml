@@ -1,0 +1,5 @@
+id: dsq-747515680
+date: 2007-02-24T02:03:47.0000000-08:00
+name: Brian Kuhn
+avatar: https://disqus.com/api/users/avatars/Brian Kuhn.jpg
+message: <p>You might want to check out my RSS 2.0/ATOM 1.0 class library written in C# and available with a permissive license. It is (in my biased opinion) more feature rich than RSS.NET currently is, as it supports both ATOM and RSS as well as an extensible model for implementing the common RSS extensions feeds use.<br>Check out <a href="http://oppositionallydefiant.com/files/10/default.aspx" rel="nofollow noopener" title="http://oppositionallydefiant.com/files/10/default.aspx">Oppositional.Syndication</a> if you are interested in grabbing the binaries or source code.</p>

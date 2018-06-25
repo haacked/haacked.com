@@ -1,0 +1,5 @@
+id: dsq-747534818
+date: 2011-04-12T10:54:40.0000000-07:00
+name: Allan
+avatar: https://disqus.com/api/users/avatars/Allan.jpg
+message: <p>I installed the ASP.NET MVC 3 Tools Update from WPI.  I reloaded the WPI and it shows ASP.NET MVC 3 Tools Update not installed.  I uninstalled the ASP.NET MVC 3 Tools Update.  I then downloaded the AspNetMVC3ToolsUpdateSetup.exe file and ran it with logging.  Everything installed successfully.  I booted up WPI and again it still shows ASP.NET MVC 3 Tools Update not installed.<br>On the same note, WPI shows that Visual Studio 2010 SP1 is not installed even though it is.<br>What gives?  I can send you all the logs you need.</p>

@@ -1,0 +1,5 @@
+id: dsq-747524788
+date: 2008-04-09T12:00:39.0000000-07:00
+name: Colin
+avatar: https://disqus.com/api/users/avatars/Colin.jpg
+message: <p>In most cases I'll use a separate assembly. Sometimes if there is a non-public class / method that needs testing I'll link all the classes of the target assembly into the test assembly and access the internal classes that way.</p>

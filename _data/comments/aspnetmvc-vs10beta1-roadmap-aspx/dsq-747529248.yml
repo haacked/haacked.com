@@ -1,0 +1,5 @@
+id: dsq-747529248
+date: 2009-06-09T06:44:00.0000000-07:00
+name: Ryan
+avatar: https://disqus.com/api/users/avatars/Ryan.jpg
+message: <p>Awesome! One question though. I have a class that inherits MvcControl and makes use of ViewContext.ViewData.Model inside it. This worked just fine before I started using the new assembly, but after referencing the new one ViewContext.ViewData.Model is always null. Changing back to the older 1.0.0.0 assembly fixes the problem. Did MvcControl change at all in this release?<br>Other than that, great job guys!</p>

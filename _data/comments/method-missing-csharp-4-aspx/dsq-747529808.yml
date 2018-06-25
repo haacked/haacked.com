@@ -1,0 +1,5 @@
+id: dsq-747529808
+date: 2009-08-26T16:18:00.0000000-07:00
+name: slugster
+avatar: https://disqus.com/api/users/avatars/slugster.jpg
+message: <p>Mmmmm... so i can make my C# objects behave like javascript objects - i can think of no reason why i would *want* to do this. Nor do i really want consumers of my data objects to just add properties using the dynamic method, not when they can just inherit from my object and extend it in the regular OO way. <br>Surely there has to be more uses for this than just interop with dynamic languages?</p>

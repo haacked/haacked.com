@@ -1,0 +1,5 @@
+id: dsq-747524404
+date: 2008-03-12T12:33:24.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Tim Right now, we only support and test with ASP.NET 3.5. You should try it with 2.0, but I offer no warranties. ;)<br>@Dragan thanks! Fixed<br>@Brian no, Routing is specific to an Application. So it handles everything after the ApplicationPath. For subdomain rewriting, you'll still need to use UrlRewriting.</p>

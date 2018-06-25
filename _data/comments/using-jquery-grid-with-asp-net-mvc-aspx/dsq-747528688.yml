@@ -1,0 +1,5 @@
+id: dsq-747528688
+date: 2009-12-21T03:57:17.0000000-08:00
+name: mike
+avatar: https://disqus.com/api/users/avatars/mike.jpg
+message: <p>Solved my own error.  Anyone using MVC2  Must use this to allow Get Json.<br>return Json(jsonData, JsonRequestBehavior.AllowGet);<br>Now the grid is finding 3 rows but text is displayed.</p>

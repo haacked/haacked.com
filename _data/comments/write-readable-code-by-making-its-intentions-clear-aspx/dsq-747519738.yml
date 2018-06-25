@@ -1,0 +1,5 @@
+id: dsq-747519738
+date: 2007-04-19T23:28:08.0000000-07:00
+name: Dan Monego
+avatar: https://disqus.com/api/users/avatars/Dan Monego.jpg
+message: <p>I'm hearing what you mean when you say the bad code is bad, but not so much what you're saying as a fix. The reason I'd say that the first block is hard to read is that you're passing a variable when you should be returning one - that's less like the Dr. Seuss of code, and more like the Yoda of code.<br>The last example is a similar thing, and you get it happening a lot when people are writing side effect functions that return true on success and false on failure. That makes sense if you're writing in Perl or some other scripting language where you want as few lines as possible, but in something like .NET or Java where you have tons of features for handling exceptions, writing a function that behaves like that is crazy. Where's the try-catch block?</p>

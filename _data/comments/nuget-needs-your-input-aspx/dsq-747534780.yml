@@ -1,0 +1,5 @@
+id: dsq-747534780
+date: 2011-04-07T19:08:08.0000000-07:00
+name: hometoast
+avatar: https://disqus.com/api/users/avatars/hometoast.jpg
+message: <p>I love how simple NuGet is. I'd prefer it to stay simple and have one version of a package per solution. <em>If</em> I needed finer grain control over which assemblies get which versions of which packages, I'd use a different tool (custom build and deployment scripts).</p>

@@ -1,0 +1,5 @@
+id: dsq-747536305
+date: 2011-10-12T12:47:02.0000000-07:00
+name: counsellorben
+avatar: https://disqus.com/api/users/avatars/counsellorben.jpg
+message: <p>(Sigh!)  If only that was sufficient.  Alas, checking for <strong>X-Requested-With=XMLHttpRequest</strong> is insufficient.  I took my earlier proof of concept CSRF attack based on your bank demo, and updated it to use jquery-1.5.1.js.  <br>I then changed one line in jquery-1.5.1, and I successfully submitted a cross-domain x-www-form-urlencoded POST request containing the X-Requested-With=XMLHttpRequest header, which was processed by the controller action.<br>I changed another line, and I made a successful JSON cross-domain POST request.<br>The only line of defense against these attacks is an AntiForgeryToken.<br>If you would like my updated proof-of-concept, email me, and I will email it to you.</p>

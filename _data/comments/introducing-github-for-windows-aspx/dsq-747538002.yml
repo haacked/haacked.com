@@ -1,0 +1,5 @@
+id: dsq-747538002
+date: 2012-05-21T16:40:28.0000000-07:00
+name: Marc Scheuner
+avatar: https://disqus.com/api/users/avatars/Marc Scheuner.jpg
+message: <p>What all non-English speaking users of Git on Windows probably need *THE MOST* is a GIT client that **actually** truly supports UTF-8 and thus things like German umlauts (ä ö ü) and French accented characters (é à è) and other non-7-bit ASCII characters.<br>Yes yes, I know - the current MSysGit client *claims* it supports UTF-8 but it really doesn't. At least not if you have a Windows client connected to a Linux repository - from Mac and Linux clients to the repo, it appears to work - but Windows users are left out in the cold.<br>While this is annoying in check-in comments and such - it's downright a BLOCKING error when you happen to have a file name that contains one of those characters (e.g. "Gesamtübersicht.rpt" or something like that). MSysGit currently will **simply NOT** check in any such file.......<br>This is really really annoying - for the vast majority of non-english speaking programmers out there......<br>FIX THIS and the acceptance rate of Git in the Windows community will skyrocket....</p>

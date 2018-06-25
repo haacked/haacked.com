@@ -1,0 +1,5 @@
+id: dsq-747523621
+date: 2008-10-12T20:06:19.0000000-07:00
+name: Shay Jacoby
+avatar: https://disqus.com/api/users/avatars/Shay Jacoby.jpg
+message: <p>Hi, Thanks for the article.<br>I think that your StructureMapControllerFactory class is not a good idea because it generates exception (doesn't matter if You put try/catch) on every unmapped controller.</p>

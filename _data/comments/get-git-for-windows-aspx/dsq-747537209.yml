@@ -1,0 +1,5 @@
+id: dsq-747537209
+date: 2011-12-19T17:13:51.0000000-08:00
+name: Barry
+avatar: https://disqus.com/api/users/avatars/Barry.jpg
+message: <p><code>$env:path += ";" + (Get-Item "Env:ProgramFiles(x86)").Value + "\Git\bin"</code><br>is a bit more portable, I think.<br></p>

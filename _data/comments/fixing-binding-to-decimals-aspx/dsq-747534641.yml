@@ -1,0 +1,5 @@
+id: dsq-747534641
+date: 2011-03-22T14:27:13.0000000-07:00
+name: Frank van Eykelen
+avatar: https://disqus.com/api/users/avatars/Frank van Eykelen.jpg
+message: <p>@Alaor <br>- Yes, I use ModelState.IsValid in my HttpPost ActionResult.<br>- The ActionResult does not have a ValidateInput(false) attribute.<br>- In my class ProductMetadata I have this:<br><code><br>[DisplayName("Prijs excl. BTW")]<br>[DisplayFormat(ApplyFormatInEditMode = false, DataFormatString = "{0:C2}")]<br>public decimal Price { get; set; }<br></code><br>The DisplayFormat has - as one expects - no effect on the form post, it's only for displaying the value of the decimal.</p>

@@ -1,0 +1,5 @@
+id: dsq-747529620
+date: 2010-10-14T14:02:16.0000000-07:00
+name: Shared Sh.
+avatar: https://disqus.com/api/users/avatars/Shared Sh..jpg
+message: <p>experimented with this implementation, in order to automatically link together the Jamendo and the Musicbrainz dataset. As the current implementation is not multi-threaded (it runs the algorithm on one artist after another), it is a bit slow (one day to link the entire dataset).</p>

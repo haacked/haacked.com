@@ -1,0 +1,5 @@
+id: dsq-2065727986
+date: 2015-06-06T14:53:02.0000000-07:00
+name: Chris Bordeman
+avatar: https://disqus.com/api/users/avatars/ChrisBordeman.jpg
+message: <p>Thanks, I've implemented Options based on what you've done here, with proper saving and reverting changes.  My visual studio extension, MVVM Tools, is available as an example at <a href="https://github.com/cbordeman/Mvvm-Tools" rel="nofollow noopener" title="https://github.com/cbordeman/Mvvm-Tools">https://github.com/cbordema...</a>.  It works for VS2010+.</p>

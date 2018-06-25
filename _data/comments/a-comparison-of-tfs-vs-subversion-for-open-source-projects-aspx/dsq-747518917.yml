@@ -1,0 +1,5 @@
+id: dsq-747518917
+date: 2007-03-06T04:48:51.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Thanks for the tip Jay. Right now, we're using SourceForge for ticket tracking. I'm not aware of any easy way to integrate with SF.<br>Maybe we'd be better off using a real ticket tracker, but then our project information is even more disjointed (Website here, forums there, issues over there).</p>

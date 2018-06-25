@@ -1,0 +1,5 @@
+id: dsq-747514930
+date: 2006-05-03T01:53:00.0000000-07:00
+name: Steve Harman
+avatar: https://disqus.com/api/users/avatars/Steve Harman.jpg
+message: <blockquote>By the way, instead of configuring a subfolder named "blog", you could use our 404 handling to take care of it.</blockquote><p>Oh yeah! I did configure that the last time I deployed, but I forgot that it meant I no longer need the "subfolder for each blog" hack. I'll go ahead and remove the subfolder when I get home.<br>Good catch!</p>

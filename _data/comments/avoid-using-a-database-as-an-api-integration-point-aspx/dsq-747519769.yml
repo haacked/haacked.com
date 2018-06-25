@@ -1,0 +1,5 @@
+id: dsq-747519769
+date: 2007-04-23T18:20:50.0000000-07:00
+name: Sergio
+avatar: https://disqus.com/api/users/avatars/Sergio.jpg
+message: <p>Hmmmm... popular open source app in .net that uses the provider stufff.... Hmmm, there can't be many. Of course, popular doesn't mean good, and neither does open source. I had the very same feeling you had when I did the debugger step-through thing. By the way, if there's a reason for disliking the provider pattern or DI/IoC/Service Provider, it is the debugging experience. It sucks trying to figure out which code will be invoked when you step into a method from an interface or abstract class variable. The "popular open source app" in question made things even worse by being written in VB.NET (another clue) which is unbearably slow inside the IDE for a large project like that.</p>

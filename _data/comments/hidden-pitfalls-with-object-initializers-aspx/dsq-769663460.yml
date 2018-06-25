@@ -1,0 +1,5 @@
+id: dsq-769663460
+date: 2013-01-15T23:26:50.0000000-08:00
+name: maciek
+avatar: https://disqus.com/api/users/avatars/maciek.jpg
+message: <p>In my opinion object construction is a responsibility of DI container, not your object. It solves the problem.</p>

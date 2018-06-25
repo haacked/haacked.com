@@ -1,0 +1,5 @@
+id: dsq-747526369
+date: 2008-10-15T20:14:03.0000000-07:00
+name: Adrian Phillips
+avatar: https://disqus.com/api/users/avatars/Adrian Phillips.jpg
+message: <p>Hi, we've installed the beta and we can see a System.Web.Mvc v1.0.0.0 DLL in the GAC.  But it doesn't appear when adding a reference in Visual Studio 2008, is anyone else seeing the same thing?</p>

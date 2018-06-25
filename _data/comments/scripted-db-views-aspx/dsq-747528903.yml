@@ -1,0 +1,5 @@
+id: dsq-747528903
+date: 2009-04-22T16:41:00.0000000-07:00
+name: Andy
+avatar: https://disqus.com/api/users/avatars/Andy.jpg
+message: <p>Am I right that in ASP.NET 4.0 that VirtualPathProvider will work in Medium Trust (I'm sure this was mentioned a month back on one of the ASP.NET team member's blogs, but have lost the link!)? Of course, your approach will help for hosts with older .NET installs.</p>

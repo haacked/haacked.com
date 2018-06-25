@@ -1,0 +1,5 @@
+id: dsq-747528875
+date: 2009-04-21T20:47:00.0000000-07:00
+name: Alex Maitland
+avatar: https://disqus.com/api/users/avatars/Alex Maitland.jpg
+message: <p>Keep Kobe, it's a great example of what a lot of production applications look like. Then release Kobe v2 and a series of articles detailing it's re-factoring to best practices.<br>Probably best to release a number of stages, possibly even get a number of community volunteers to take charge of each stage. Example:<br>v1.1 - Improved error handling (remove all the copy and paste code that exists currently) (DRY)<br>v1.2 - Improved data access<br>v1.3 - Reduced code complexity (Single Responsibility)<br>v1.4 - etc.....<br>v1.5 - etc....<br>Just a though.</p>

@@ -1,0 +1,5 @@
+id: dsq-747527635
+date: 2009-01-05T13:56:09.0000000-08:00
+name: Atif Aziz
+avatar: https://disqus.com/api/users/avatars/Atif Aziz.jpg
+message: <p>Phil, the following updated version also passes all your current tests along with the performance enhancement <a href="#70316" rel="nofollow noopener" title="#70316">mentioned earlier</a>:<br><a href="http://gist.github.com/43353" rel="nofollow noopener" title="http://gist.github.com/43353">JamesFormatter.cs</a><br>The two changes needed were to convert HttpException to FormatException in case of a missing property and to cater for escape cases.</p>

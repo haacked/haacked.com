@@ -1,0 +1,5 @@
+id: dsq-747536432
+date: 2011-10-19T21:21:38.0000000-07:00
+name: Steve Syfuhs
+avatar: https://disqus.com/api/users/avatars/Steve Syfuhs.jpg
+message: <p>You could just replace HttpContext.Current.User with Thread.Principal and (I'm assuming) you could reduce the dependency on being within an ASP.NET application.</p>

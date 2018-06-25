@@ -1,0 +1,5 @@
+id: dsq-747511656
+date: 2007-07-23T15:39:14.0000000-07:00
+name: Mukesh
+avatar: https://disqus.com/api/users/avatars/Mukesh.jpg
+message: '<p>The server reported an error while performing the "cvs commit" command.<br>  : cvs server: failed to create lock directory for #cvs.lock): Permission denied<br>  : cvs server: lock failed - giving up<br>  : cvs [server aborted]: lock failed - giving up<br></p>'

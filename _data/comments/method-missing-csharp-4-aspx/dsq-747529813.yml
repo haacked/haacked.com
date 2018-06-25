@@ -1,0 +1,5 @@
+id: dsq-747529813
+date: 2009-08-26T17:52:00.0000000-07:00
+name: Jeffrey Becker
+avatar: https://disqus.com/api/users/avatars/Jeffrey Becker.jpg
+message: "<p>This is definitely a very cool concept.  My experience is that this really has the biggest impact on code that is very verbose to write manually and easily inferable from an api.  COM interop, GUI toolkit bindings &amp; Data Access are the 3 biggest places I remember seeing it way back in the perl days.  <br>I don't personally find the \"but I don't get static type checking\" argument compelling.  Most of the problems cited with not having the compiler check stuff for you are easily solved as a side-effect of writing the unit tests you need to write to make sure that things work.  <br>@Steve:  No doubt the example here is slower than simply accessing the dictionary.  Most of the time you're using dynamic objects to abstract away large amounts of code that is going to be orders of magnitude slower than the penalty you pay for a dynamic api.</p>"

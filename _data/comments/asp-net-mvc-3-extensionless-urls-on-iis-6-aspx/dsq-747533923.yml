@@ -1,0 +1,5 @@
+id: dsq-747533923
+date: 2010-12-22T07:51:49.0000000-08:00
+name: Brian
+avatar: https://disqus.com/api/users/avatars/xt0rted.jpg
+message: <p>Just installed this on an IIS6 machine and was up and running in no time. My only issue is I have a route which ends in .xml that’s not fully working. If I add .xml so .net handles it then the route loads and I see my auto generated sitemap, but then actual xml files stop being served up.</p>

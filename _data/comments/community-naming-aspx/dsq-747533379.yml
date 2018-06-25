@@ -1,0 +1,5 @@
+id: dsq-747533379
+date: 2010-10-25T02:14:12.0000000-07:00
+name: Gabriel
+avatar: https://disqus.com/api/users/avatars/Gabriel.jpg
+message: "<p>Thank God The command is Add-Package/List-Package or we would have something like List-Nugget | Where-Object {$_.Kind -eq \"Vegetarian\"}<br>Sorry bout the lame Joke, but I don't think Nugget is a good name.<br>If we look into AptGet that stands for: Advanced Packaging Tool. We Can take an Idea that it stands for Packaging.<br>And This Packaging utility would need to be defined first. It looks like a Pluggable .Net Extensions Downloader for Solutions. Obviously thats not a name, but a definition, as Package Manager is too broad for what this does, this is focused for .net not Windows.<br>I Think NetGet is a better name.</p>"

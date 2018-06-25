@@ -1,0 +1,5 @@
+id: dsq-747532987
+date: 2010-08-26T18:28:20.0000000-07:00
+name: Jennifer
+avatar: https://disqus.com/api/users/avatars/Jennifer.jpg
+message: <p>Having used JavaScript for many years I have always considered optional parameters as a necessary evil due to the lack of method overloading. In C# I don't ever use optional parameters. If I have a method where a parameter could be optional I create 2 overloaded methods outlining the different uses of the method. Much easier to understand and it avoids problems like these.</p>

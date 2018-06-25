@@ -1,0 +1,5 @@
+id: dsq-747532915
+date: 2010-08-12T02:57:36.0000000-07:00
+name: Adam
+avatar: https://disqus.com/api/users/avatars/Adam.jpg
+message: <p>Hi Phil!<br>I can see that changing ViewData to be dynamic will cause problems. I think many of us using MVC have typed view-models and so ViewModel isn't a good name. You could argue that dynamic view-data style stuff gets rid of ViewModels, and for simple stuff I agree. But normally you use ViewModels for more complicated scenarios (like putting together a GANNT chart.)<br>For me, I'm afraid ViewData does sum it all up!<br>Not suggesting it is, but maybe it's between the pain of us having to change our code (again) but it being right or having some duff name that doesn't really make sense.<br>Have a vote!<br></p>

@@ -1,0 +1,5 @@
+id: dsq-758787557
+date: 2013-01-07T03:46:42.0000000-08:00
+name: Mark Seemann
+avatar: https://disqus.com/api/users/avatars/ploeh.jpg
+message: <p>As for the automated test approach, I've been doing this for years with the AutoFixture.Idioms library. <a href="https://github.com/AutoFixture/AutoFixture" rel="nofollow noopener" title="https://github.com/AutoFixture/AutoFixture">https://github.com/AutoFixt...</a></p><p>To use it on an entire assembly, you could do something like this:</p><p>var assembly = // some assembly<br>var fixture = new Fixture();<br>var assertion = new GuardClauseAssertion(fixture);<br>assertion.Verify(assembly);</p><p>You can fine-tune the behavior by filtering classes, or only looking at properties, constructors or whatever.</p>

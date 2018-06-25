@@ -1,0 +1,5 @@
+id: dsq-747536279
+date: 2012-04-04T20:11:31.0000000-07:00
+name: acak7
+avatar: https://disqus.com/api/users/avatars/acak7.jpg
+message: "<p>Thanks. Here's what I found. You can induce a 401, while retaining FormsAuthentication, by creating an /Account/Login path that can never be authorized.<br>   [Authorize]<br>    public class AccountController : Controller<br>    {        <br>        [Authorize(Roles = \"NonExistentRole\")] <br>        public ActionResult Login(string returnUrl)<br>        {<br>            return View();<br>        }<br>    }<br>Would there be any issues with this (apart from having a role called \"NonExistentRole\") ?<br></p>"

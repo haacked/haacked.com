@@ -1,0 +1,6 @@
+id: dsq-2543511061
+replyToId: dsq-2539782516
+date: 2016-02-29T08:57:44.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hmm, based on this Connect issue, PSReadline is not available in an x86 console. <a href="https://connect.microsoft.com/PowerShell/feedback/details/1790513/psreadline-not-available-in-a-powershell-x86-console-in-v5-on-windows-10" rel="nofollow noopener" title="https://connect.microsoft.com/PowerShell/feedback/details/1790513/psreadline-not-available-in-a-powershell-x86-console-in-v5-on-windows-10">https://connect.microsoft.c...</a> I wonder if you can force an x64 console.</p>

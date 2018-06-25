@@ -1,0 +1,5 @@
+id: dsq-747532437
+date: 2010-11-17T05:21:47.0000000-08:00
+name: Jason
+avatar: https://disqus.com/api/users/avatars/Jason.jpg
+message: <p>New comments not displaying until IIS is reset. Also, pages don't refresh after comments are added, so users don't see their comments and re-submit duplicates.<br>I assume this is an internal cache "improvement"? I can't find a setting to turn it off (yet). Any hints? I want it off, and I don't mind if the server gets a little more stressed. it's a dedicated box.</p>

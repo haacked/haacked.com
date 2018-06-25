@@ -1,0 +1,5 @@
+id: dsq-1528964388
+date: 2014-08-05T13:09:31.0000000-07:00
+name: Kevin Kuebler
+avatar: https://disqus.com/api/users/avatars/kevinkuebler.jpg
+message: <p>This is an awesome idea, thanks! I look forward to seeing what other guidelines you guys have to share and really like the idea of the WPF specific guidelines. I work on a large, complex WPF app now. The code is ... well, let's just call it "legacy". I'm planning on introducing the team to MVVM and Rx, and hope to introduce ReactiveUI into the app soon. This kind of thing will be helpful not only as a reference for me as someone who has built apps with the MVVM pattern and frameworks like Caliburn.Micro and RxUI, but especially to those who are brand new to some of these concepts.</p>

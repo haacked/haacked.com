@@ -1,0 +1,5 @@
+id: dsq-747530729
+date: 2010-02-11T04:23:49.0000000-08:00
+name: Rick Anderson
+avatar: https://disqus.com/api/users/avatars/Rick Anderson.jpg
+message: <p>@Phil &gt;&gt;A scenario I never see is a validator that hits the database to check the name is unique, say if the user is registering and you require a unique username. Anyone know of any good examples for MVC 1 or 2? <br>I wrote an example that does exactly that. See Custom Remote Client Validation   <a href="http://code.msdn.microsoft.com/aspnetmvcsamples/Release/ProjectReleases.aspx?ReleaseId=3038" rel="nofollow noopener" title="http://code.msdn.microsoft.com/aspnetmvcsamples/Release/ProjectReleases.aspx?ReleaseId=3038">code.msdn.microsoft.com/.../ProjectReleases.aspx</a></p>

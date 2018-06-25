@@ -1,0 +1,5 @@
+id: dsq-1118071634
+date: 2013-11-11T06:45:46.0000000-08:00
+name: Cenorios
+avatar: https://disqus.com/api/users/avatars/Cenorios.jpg
+message: <p>In the ruby example, how about:</p><p>def padded_take ary, n<br>y = [0] * n<br>y[0..ary.length-1] = ary.take(n)<br>return y<br>end</p><p>You avoid the if, max, and creating an array when it is not necessary!</p>

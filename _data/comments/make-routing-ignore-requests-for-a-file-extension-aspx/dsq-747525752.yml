@@ -1,0 +1,5 @@
+id: dsq-747525752
+date: 2012-09-07T02:57:38.0000000-07:00
+name: rekha
+avatar: https://disqus.com/api/users/avatars/rekha.jpg
+message: <p>Hi,If the given url like errors.aspx is not present in the disk then how rouer will work .... since as there is an extension of .aspx so it will come under ignore route it can't go for defaukt route so will it give an exception that page not found?</p>

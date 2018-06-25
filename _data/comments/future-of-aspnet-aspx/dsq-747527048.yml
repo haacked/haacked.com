@@ -1,0 +1,5 @@
+id: dsq-747527048
+date: 2008-11-14T20:13:20.0000000-08:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>Abdu - a server side control emits html that is placed on your page - right?  A 'html generator' lets say.<br>asp.mvc has the same concept with controls.  It's just called HtmlHelpers.  There are Grid's available, etc.. (see mvccontrib) - it's very easy to build a control.<br>Controls shouldn't be the deciding factor here - granted, you can't drag and drop (yet)</p>

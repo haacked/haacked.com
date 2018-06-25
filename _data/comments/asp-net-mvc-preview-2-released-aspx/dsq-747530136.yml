@@ -1,0 +1,5 @@
+id: dsq-747530136
+date: 2009-10-06T22:21:00.0000000-07:00
+name: John
+avatar: https://disqus.com/api/users/avatars/John.jpg
+message: <p>I downloaded this version and build a new application. I have the following two challenges.<br>1. Data Annotation doesn't seem to work<br>2. When I create a partial class, I am getting Cannot implicitly convert type 'System.Data.Linq.Table&lt;&gt;' to 'System.Linq.IQueryable&lt;&gt;' error.<br>otherwise, I am enjoying MVC. Keep up the good work</p>

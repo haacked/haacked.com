@@ -1,0 +1,5 @@
+id: dsq-747532491
+date: 2010-06-09T19:34:18.0000000-07:00
+name: Raj Kaimal
+avatar: https://disqus.com/api/users/avatars/Raj Kaimal.jpg
+message: <p>How about (untested, rough)<br>public void Foo&lt;T&gt;(IEnumerable&lt;T&gt; items) {<br>  if(items == null) {<br>    // Warn about emptiness<br>  }<br>  if (items is ICollection) {<br>    //check ((ICollection).items).Count == 0<br>  }<br>  else {<br>    //check if items.GetEnumerator().MoveNext() == false<br>    //call items.GetEnumerator().Reset()<br>  }<br>}<br>Maybe the check should be a seperate method.</p>

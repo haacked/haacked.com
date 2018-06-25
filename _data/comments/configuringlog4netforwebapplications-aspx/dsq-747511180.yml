@@ -1,0 +1,5 @@
+id: dsq-747511180
+date: 2008-09-30T13:17:05.0000000-07:00
+name: Peter
+avatar: https://disqus.com/api/users/avatars/Peter.jpg
+message: <p>I have a WebService (.NET 2) which is using log4net and it stops logging after a while for no obvious reason. I have used log4net on a WebService under .NET 1 which works perfectly. Needless to say I have tried all the suggestions I'm using version 1.2.10.</p>

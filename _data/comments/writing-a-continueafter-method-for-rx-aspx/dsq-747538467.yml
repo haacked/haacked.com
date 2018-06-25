@@ -1,0 +1,5 @@
+id: dsq-747538467
+date: 2012-10-09T01:27:22.0000000-07:00
+name: Ken Egozi
+avatar: https://disqus.com/api/users/avatars/kenegozi.jpg
+message: <p>nit - using underscore for a "whatever" parameter name probably comes from prolog (or a similar language) where it denotes an 'Anonymous variable' - a variable that is never actually bound to a value, thus perform as 'whatever'.</p>

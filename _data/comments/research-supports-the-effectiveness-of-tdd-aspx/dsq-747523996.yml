@@ -1,0 +1,5 @@
+id: dsq-747523996
+date: 2010-06-24T16:05:34.0000000-07:00
+name: downloadable files
+avatar: https://disqus.com/api/users/avatars/downloadable files.jpg
+message: <p>I find that full-on TDD, especially when coupled with 100% code coverage, can be sluggish and awkward. I feel something in the spirit of the 80/20 rule is more apt to produce a better ROI if time to market is limited (given available resources). For instance, hit the most complex/critical code the hardest, with _some_ tests driving/exploring the interface design, but with other interfaces just following good design idioms.</p>

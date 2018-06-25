@@ -1,0 +1,5 @@
+id: dsq-747535976
+date: 2011-08-18T01:13:09.0000000-07:00
+name: Stephen Halter
+avatar: https://disqus.com/api/users/avatars/Stephen Halter.jpg
+message: <p>@Carsten<br>Do the <code>&amp;lt;tr&amp;gt;s</code> genertated by the <code>GridData</code> partial view contain a <code>data-pkey</code> attribute? If not, the scaffolder either found more than one column in the primary key (something which I hope we will support in the future) or didn't find a primary key at all.</p>

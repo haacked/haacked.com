@@ -1,0 +1,5 @@
+id: dsq-747534262
+date: 2011-01-18T10:30:18.0000000-08:00
+name: Lee Hull
+avatar: https://disqus.com/api/users/avatars/Lee Hull.jpg
+message: <p>Very nice concept, unfortunately I'm getting an error..<br>"Could not load file or assembly 'NuGet.Core, Version=1.0.10128.89, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified."<br>However I do have NuGet.Core installed and referenced in website but not that exact version, I have NuGet.Core v1.0.11220.104</p>

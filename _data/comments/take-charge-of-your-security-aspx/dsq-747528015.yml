@@ -1,0 +1,5 @@
+id: dsq-747528015
+date: 2009-02-07T07:29:59.0000000-08:00
+name: Josh Carroll
+avatar: https://disqus.com/api/users/avatars/technofattie.jpg
+message: <p>I worked a project once where we hired some contractors. He was having some problems with ASP.Net Form validators not <em>quite</em> working the way he expected. Turns out he had no idea about the whole <code>Page.IsValid</code> property. When I told him about it, he was like "Wow, I have been doing this wrong for a while now!"<br>Indeed...</p>

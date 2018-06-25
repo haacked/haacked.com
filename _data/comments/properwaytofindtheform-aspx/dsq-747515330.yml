@@ -1,0 +1,5 @@
+id: dsq-747515330
+date: 2006-06-13T23:58:00.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>Would a more useful, generalized method be <br>public string GetControlId(Type controlType).  <br>or <br>public static string GetControlId(Type controlType, Control page)</p>

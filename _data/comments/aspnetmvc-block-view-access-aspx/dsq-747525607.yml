@@ -1,0 +1,5 @@
+id: dsq-747525607
+date: 2008-06-26T20:49:05.0000000-07:00
+name: Mark Brackett
+avatar: https://disqus.com/api/users/avatars/Mark Brackett.jpg
+message: <p>Another vote for disallowing the entire /Views directory by default. If someone wants to put content in there, then they can edit the web.config to allow it. That's much better than the security hole you're opening up for users of an alternative view engine.<br>Why wouldn't you use the existing location and deny tags to deny access? That'd return a 403-Unauthorized error (which is the correct one to choose here, IMO).</p>

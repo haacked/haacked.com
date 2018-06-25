@@ -1,0 +1,6 @@
+id: dsq-1584879497
+replyToId: dsq-747522401
+date: 2014-09-11T14:25:37.0000000-07:00
+name: david
+avatar: https://disqus.com/api/users/avatars/david.jpg
+message: <p>The idea is that you don't need to; having the filled-in the form implies that the user is a bot since no human user should see and hence fill-in the honeypot form field.  The server can decide if the user is a bot based on whether they filled in the hidden form.</p>

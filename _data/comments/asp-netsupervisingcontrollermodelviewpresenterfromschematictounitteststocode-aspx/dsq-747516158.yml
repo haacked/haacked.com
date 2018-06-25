@@ -1,0 +1,5 @@
+id: dsq-747516158
+date: 2006-10-11T08:09:55.0000000-07:00
+name: Brian Donahue
+avatar: https://disqus.com/api/users/avatars/Brian Donahue.jpg
+message: <p>Hi Phil,<br>I'm working on a project now where I am using a lot of the ideas from your post, as well as from Jean-Paul Boodhoo's posts on MVP and others.  I was curious - when testing a Load event that may require a lot of interaction with the view (databinding, show/hiding controls, etc) do you put all of the expectations in one test?  My test is pretty big, and doesn't seem clear to me now, and it would seem more clean to have specific requirements broken out in different tests, like "ShouldBindStateDropdown" and "ShouldHidePOBoxFieldWhen[Whatever]".  The only way I can think of to do that is to have several tests that test the Load event, set only the expectations for that specific test, and ignore all other calls on the mock object that may occur before/after your expected calls.  Is that a valid approach?  Is there a better way?</p>

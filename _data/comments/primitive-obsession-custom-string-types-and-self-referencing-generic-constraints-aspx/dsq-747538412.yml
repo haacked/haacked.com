@@ -1,0 +1,5 @@
+id: dsq-747538412
+date: 2012-09-30T20:18:36.0000000-07:00
+name: Diego F.
+avatar: https://disqus.com/api/users/avatars/Diego F..jpg
+message: <p>If you're really using these classes as building blocks for real UI elements then it'd be correct to name them with ViewModel sufix. If it's just input validation for a master (parent) view-model, then the Input sufix feels more appropriate.</p>

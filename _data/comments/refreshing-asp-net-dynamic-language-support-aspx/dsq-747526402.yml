@@ -1,0 +1,5 @@
+id: dsq-747526402
+date: 2008-09-24T14:12:10.0000000-07:00
+name: Simon Davy
+avatar: https://disqus.com/api/users/avatars/Simon Davy.jpg
+message: <p>Regards MVC integration:<br>OK, great and all, but only support for views, not controllers or models? Way to get it backwards.<br>Views schmiews, I can plugin whatever I want for that already - I want to my *code* in python, not my html (although if I could get Genshi working as a ViewEngine in MVC that would be simply be awesome)<br>That being said, this is good news, I'm just sad to have to wait till Q1 2009 before MVC on ironpython becomes doable. I think that by then Django or NWSGI+whatever on ironpython will be much stronger choice than MVC (which, even though I use it everyday, is still playing catchup, IMHO).</p>

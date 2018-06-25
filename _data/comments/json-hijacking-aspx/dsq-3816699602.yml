@@ -1,0 +1,6 @@
+id: dsq-3816699602
+replyToId: dsq-747529359
+date: 2018-03-21T01:37:30.0000000-07:00
+name: Ashish
+avatar: https://disqus.com/api/users/avatars/ashishshukla6.jpg
+message: <p>I too agree with you that Making POST to every request returning the JSON is not best way to handle same. A solution I taught of that we can also validate on request referrer and do not server to requests from other domain</p>

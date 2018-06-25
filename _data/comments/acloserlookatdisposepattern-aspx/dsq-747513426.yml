@@ -1,0 +1,5 @@
+id: dsq-747513426
+date: 2008-01-29T15:10:26.0000000-08:00
+name: Alon Fliess
+avatar: https://disqus.com/api/users/avatars/Alon Fliess.jpg
+message: <p>Template method is good only when you have one derived behavior and not a chain of derived classes. Suppose you have another class derived from the derive class. If this class overrides the ReleaseUnmanagedResources(); We will miss the call to the middle class (the derive) ReleaseUnmanagedResources().<br>This is why in such scenarios you use the base class call.<br></p>

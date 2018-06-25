@@ -1,0 +1,5 @@
+id: dsq-747515605
+date: 2011-02-17T01:38:41.0000000-08:00
+name: Michael Lascuola
+avatar: https://disqus.com/api/users/avatars/Michael Lascuola.jpg
+message: <p>These views are great, but when I write a stored proc that uses the view in one database (for instance, master), and try to run that stored proc for each DB, the view returns only the information for master.  I have tried using dynamic SQL to USE DB_NAME() for each, but it still does not work.  Has anyone else run into this?</p>

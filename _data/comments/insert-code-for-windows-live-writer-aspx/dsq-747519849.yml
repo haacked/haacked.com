@@ -1,0 +1,5 @@
+id: dsq-747519849
+date: 2007-04-28T02:21:38.0000000-07:00
+name: Rick Strahl
+avatar: https://disqus.com/api/users/avatars/Rick Strahl.jpg
+message: <p>FWIW, there are a couple of other plug-ins for Live Writer that are maybe easier. Using one of the Visual Studio plug-ins (or Jeff's Macro) to copy VS.NET code to HTML you can use these plug-ins to post HTML code.<br>The advantage of this is that it will work with RTF code that Visual Studio understands and with some of the plug-ins you get a bunch of formatting options.<br>In fact - I've been meaning to create a plug-in for Paste from RTF (maybe somebody's done that by now) which would be easier yet since you could just copy directly from VS (or any RTF output for that matter).<br></p>

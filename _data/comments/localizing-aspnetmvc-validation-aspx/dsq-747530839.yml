@@ -1,0 +1,5 @@
+id: dsq-747530839
+date: 2010-10-19T15:16:39.0000000-07:00
+name: denappel
+avatar: https://disqus.com/api/users/avatars/denappel.jpg
+message: <p>Thanks for the example.<br>We aren't using static resources, but we get the resources from the database.<br>If I fill in the following for the dataannotations:<br><code><br>[MetadataType(typeof(IncidentsMetaData))]<br>public partial class INCIDENTS<br>{<br>private class IncidentsMetaData<br>{<br>[Required(ErrorMessageResourceType = typeof(CustomResourceProviders.DBResourceProviderFactory),<br>ErrorMessageResourceName="1277")]<br>public string SUBJECT { get; set; }<br>}<br>}<br></code><br>Then I get the following error:<br>The resource type 'CustomResourceProviders.DBResourceProviderFactory' does not have an accessible static property named '1277'. <br>Of course there is no such property, it should be accessed by a function.<br>Any idea what I could do about this?<br>tnx</p>

@@ -1,0 +1,5 @@
+id: dsq-747535534
+date: 2011-06-30T05:33:13.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Chris You are right. That error comes when we attempt type coercion. We're going to fix the fact that you can't configure that message in ASP.NET MVC 4.</p>

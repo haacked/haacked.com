@@ -1,0 +1,5 @@
+id: dsq-747514106
+date: 2010-07-12T22:27:11.0000000-07:00
+name: Nikhil P
+avatar: https://disqus.com/api/users/avatars/Nikhil P.jpg
+message: '<p>I know its an Old thread, but its better late than never.<br><strong>The Simples way</strong><br>Refer Turning an .ascx User Control into a Redistributable Custom Control from <a>http://msdn.microsoft.com/en-us/library/aa479318.aspx </a><br>My Additions / Tips to it: <br>* Use Web Site and NOT Web Application<br>* Add a Web Deployment Project and set properties to it as needed.<br>* Just Build the Deployment project &amp; its done. Get the DLL form the Built path in reference or copy it anywhere as needed to use.<br></p>'

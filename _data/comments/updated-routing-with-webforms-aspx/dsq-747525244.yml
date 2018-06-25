@@ -1,0 +1,5 @@
+id: dsq-747525244
+date: 2008-05-19T15:50:05.0000000-07:00
+name: Betty
+avatar: https://disqus.com/api/users/avatars/Betty.jpg
+message: <p>[quote]No, but you could make whatever data you wanted in the URL to be available to the page via RouteData. So there's no need for a query string.[/quote]<br>What if you were trying to SEO an old site you didn't have access to the source for? I would have imagined adding some form of http module (or the like) to register some routes could have been an easy way to do this, however sounds like we're out of luck if the old page used querystrings.<br><br></p>

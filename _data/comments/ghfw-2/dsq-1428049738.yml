@@ -1,0 +1,5 @@
+id: dsq-1428049738
+date: 2014-06-09T23:14:36.0000000-07:00
+name: Vova Kolobok
+avatar: https://disqus.com/api/users/avatars/vovakolobok.jpg
+message: '<p>Is there any hope that sidebar with repos will be hideable?</p><p>Also, there is no any distinguish between your own repos and those where you are collaborator — I’d say it is regression, previously repo was prefixed with owner’s nickname.</p><p>Don’t get me wrong, I appreciate perfomance improvements and emoji autocomplete is :+1:<br>But overall UI change is kinda meh, the previous one (1.3.ish) was better: cleaner look, readme rendering, activity indecator in repos’ list, rollback button instead of menu item, collapse/expand in any commit (not only uncommtted changes). Yeah, it was definitely better.</p>'

@@ -1,0 +1,5 @@
+id: dsq-747516386
+date: 2006-08-24T03:01:38.0000000-07:00
+name: Steve Campbell
+avatar: https://disqus.com/api/users/avatars/Steve Campbell.jpg
+message: <p>Of course, in .NET 1.1, VB.NET allows the equal comparison to work with nulls anyway.  So 'if myString="" then DoSomething' works if myString is null/nothing or if it is an empty string (see <a href="http://dukeytoo.blogspot.com/2005/12/things-i-learned-today.html)" rel="nofollow noopener" title="http://dukeytoo.blogspot.com/2005/12/things-i-learned-today.html)">http://dukeytoo.blogspot.co...</a>.<br>Its not like there is never any valid business reason to differentiate between NULL strings and empty strings anyway.  With numbers, there is the "did he enter 0 or nothing" argument, but with strings there is simply no reason to distinguish.</p>

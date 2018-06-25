@@ -1,0 +1,5 @@
+id: dsq-747524449
+date: 2009-02-15T04:57:56.0000000-08:00
+name: Dmitry
+avatar: https://disqus.com/api/users/avatars/Dmitry.jpg
+message: <p>I fixed that problem by deriving a handler from UrlRoutingHandler and referencing it.<br>However, I have another issue now. If the routing does not end with an .aspx extension, I get "Request for principal permission failed." when trying to use PrincipalPermission Demand() authentication using a custom principal.</p>

@@ -1,0 +1,5 @@
+id: dsq-747527569
+date: 2008-12-29T17:57:15.0000000-08:00
+name: Henri
+avatar: https://disqus.com/api/users/avatars/Henri.jpg
+message: <p>&lt;quote&gt;<br>Another advantage is that your “view” is now compiled into the same assembly as the rest of your code. Of course, this could also be a disadvantage depending how you look at it.<br>&lt;/quote&gt;<br>If you put the view classes in a separate project, surely they'll compile into their own assembly?</p>

@@ -1,0 +1,5 @@
+id: dsq-747530687
+date: 2009-11-20T09:27:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Alastair Smith, Brad Wilson has a great post that about data annotations where he <a href="http://bradwilson.typepad.com/blog/2009/04/dataannotations-and-aspnet-mvc.html" rel="nofollow noopener" title="Data Annotations and ASP.NET MVC">also covers testing</a>. <br>To test the code paths in your controller action that deals with invalid data, populate the modelstate yourself.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747532814
+date: 2010-07-27T20:58:44.0000000-07:00
+name: Synapse
+avatar: https://disqus.com/api/users/avatars/Synapse.jpg
+message: <p>I'm kinda disappointed with this release.<br>I was hoping for real caching and support for editing multiple entities at once (like Django formsets) but MVC3 offers only minor improvements.</p>

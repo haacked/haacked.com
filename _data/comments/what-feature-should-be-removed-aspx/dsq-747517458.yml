@@ -1,0 +1,5 @@
+id: dsq-747517458
+date: 2006-10-27T13:43:21.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Which highlights the point of this post.<br>The Recent Comments control was added to Subtext *<strong>after</strong>* these changes were made.  Because a control worked in .TEXT, it was assumed this control would just work in Subtext.<br>But that assumption ignored the huge amount of work put into Subtext since its .TEXT days.  It's not the case that the person who implemented the control was careless.  I'm not blaming that person. <br>The issue is that adding any feature affects, and is affected by other code in the system.  A goal of software development is to reduce this sort of coupling.  But some level of coupling will always exist and has to be accounted for.<br>Adding a feature requires thinking through the potential impact of the feature and how the feature would might be impacted by other code.  And it requires having enough time to test it properly.<br>These are the hidden costs of features.</p>

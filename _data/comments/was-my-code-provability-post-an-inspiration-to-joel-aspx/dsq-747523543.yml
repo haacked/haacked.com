@@ -1,0 +1,5 @@
+id: dsq-747523543
+date: 2007-12-04T22:17:02.0000000-08:00
+name: Denny Ferrassoli
+avatar: https://disqus.com/api/users/avatars/Denny Ferrassoli.jpg
+message: "<blockquote>Certainly no major TDD proponent has ever stated that testing provides proof that your code is correct. That would be outlandish.</blockquote><p><br>I'm still wrapping my head around TDD but I think the proof that it gives you is that: Given X, Y must be true. Where X is your input and Y is your output. I can't prove that my code is correct but I can prove that my result is correct when X = 1. I don't think that TDD proves code correctness, it proves result correctness.</p>"

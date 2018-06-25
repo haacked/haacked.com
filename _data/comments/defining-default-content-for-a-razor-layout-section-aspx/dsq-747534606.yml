@@ -1,0 +1,5 @@
+id: dsq-747534606
+date: 2012-02-12T23:26:16.0000000-08:00
+name: kaicui
+avatar: https://disqus.com/api/users/avatars/kaicui.jpg
+message: <p>hi,i'm a chinese programmer and i have got a problem in my work.I have spend a lot of time but can't find the answer.(my english is pool so i will try to explain it clearly^_^).<br>The problem is this:<br>1、in MVC3.0,Razor viewEngine,i want to put every &lt;Script&gt; block to the bottom of page(usually before "&lt;/body&gt;" tag).<br>2、So i use a "RenderSection" in the layout page and put it in the bottom of page,other page( who use the page as their layout page) define their script Section,these section contains javascript the page needs.<br>3、question come out:if my page has some paticalPage,in partial page,i can't define scriptblock because the layout page cannot render it<br>PS:because i have to pass some server para to the script so i can't write script in one page,so i need a method to put any script whitch writing in any pages can be moved to the &lt;/body&gt; Tag</p>

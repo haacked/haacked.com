@@ -1,0 +1,6 @@
+id: dsq-1109023346
+replyToId: dsq-1108991408
+date: 2013-11-04T16:28:52.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Ah, that makes sense. Because you're dragging a file from a low-privilege process to a high-privilege process. I bet it would work if you dragged from an explorer instance also running as administrator. :)</p>

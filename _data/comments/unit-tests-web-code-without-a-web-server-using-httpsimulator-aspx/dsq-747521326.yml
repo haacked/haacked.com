@@ -1,0 +1,5 @@
+id: dsq-747521326
+date: 2011-10-10T15:31:08.0000000-07:00
+name: Tony
+avatar: https://disqus.com/api/users/avatars/Tony.jpg
+message: <p>Hi Phil,<br>Awesome work! I'm using this to test the event handlers in the global.asax.cs such as Application_AcquireRequestState().  Really useful!  Thanks!<br>P.s. The link that J_S posted works for me, but the one in your post needs updating.</p>

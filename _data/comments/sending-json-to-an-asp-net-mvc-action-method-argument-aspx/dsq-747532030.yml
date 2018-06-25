@@ -1,0 +1,5 @@
+id: dsq-747532030
+date: 2011-07-24T07:49:06.0000000-07:00
+name: Sam
+avatar: https://disqus.com/api/users/avatars/Sam.jpg
+message: <p>Jsonvalueprovider (or something) seems to have dropped the ball on globalization.<br>In my scenario I submit a form with ajax. The value submitted is 'sov=0,1'. My model has a decimal property called SOV. Json will NOT bind this value. If I change it to 0.1 it will. Effectively making using this in a globalized app a nightmare.</p>

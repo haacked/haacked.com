@@ -1,0 +1,6 @@
+id: dsq-3749581676
+replyToId: dsq-3748944802
+date: 2018-02-08T16:25:33.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>A bug bounty or bug reward program tackles a completely different problem entirely than a compensation structure for employees. I think most of the evidence supports the idea that bug bounties are effective.</p><p>But note that employees of said companies are not usually eligible for the bounties. The whole point is to create an incentive for security researchers to discover and responsibly disclose exploits.</p><p>What's interesting is there may also be an effect where a malicious hacker who discovers an exploit may want to take the bounty rather than try and exploit the bug. Exploiting the bug might make them more money, but they also incur the risk of getting caught and all the work to exploit the bug.</p>

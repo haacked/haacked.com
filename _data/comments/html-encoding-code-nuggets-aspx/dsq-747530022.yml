@@ -1,0 +1,5 @@
+id: dsq-747530022
+date: 2009-09-25T12:26:00.0000000-07:00
+name: Andrey Shchekin
+avatar: https://disqus.com/api/users/avatars/Andrey Shchekin.jpg
+message: <p>This is nice, but I think this is the only explicitly HTML-targeted feature in the forms engine (which can actually be used to output XML, JSON, text, etc).<br>Maybe something like IEscapedString with IsEscapedFor(useCase) would be better? With HtmlString being one implementation and HtmlAttributeString, XmlString, etc -- other variants.</p>

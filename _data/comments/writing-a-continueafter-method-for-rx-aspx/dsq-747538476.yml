@@ -1,0 +1,5 @@
+id: dsq-747538476
+date: 2012-10-09T13:51:45.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Caleb I added a <a href="https://gist.github.com/3855403" rel="nofollow noopener" title="https://gist.github.com/3855403">new unit test to my gist</a> that should have been there from the beginning. The <code>Materialize</code> approach does indeed fail this test. The <code>Concat</code> method does indeed work and passes this test.</p>

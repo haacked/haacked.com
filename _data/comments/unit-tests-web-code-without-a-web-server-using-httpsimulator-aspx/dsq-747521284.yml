@@ -1,0 +1,5 @@
+id: dsq-747521284
+date: 2008-02-07T20:26:14.0000000-08:00
+name: Slevdi
+avatar: https://disqus.com/api/users/avatars/Slevdi.jpg
+message: '<p>Phil - I am having great success so far with HttpSimulator. Thanks for it.<br>Question: How do I do resources using it? E.g.:<br>string key = (string) HttpContext.GetGlobalResourceObject(classKey,resourcekey);<br></p>'

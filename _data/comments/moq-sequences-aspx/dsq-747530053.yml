@@ -1,0 +1,5 @@
+id: dsq-747530053
+date: 2009-09-29T15:37:00.0000000-07:00
+name: Fredrik Kalseth
+avatar: https://disqus.com/api/users/avatars/Fredrik Kalseth.jpg
+message: '<p>This is a great idea, however like Dmitriy says, it is not very readable and the syntax can be easilly misunderstood. You could fix this however by encapsulating it into an extension method:<br>public static class MoqExtensions<br>{<br>    public static void ReturnsInSuccession&lt;T, TResult&gt;(this ISetup&lt;T, TResult&gt; setup, params TResult[] results) <br>        where T : class<br>    {<br>        setup.Returns(new Queue&lt;TResult&gt;(results).Dequeue);<br>             <br>    }<br>}<br>which will allow you to write your setup like this:<br>var reader = new Mock&lt;IDataReader&gt;();<br>reader.Setup(r =&gt; r.Read())<br>      .ReturnsInSuccession(true, true, false);</p>'

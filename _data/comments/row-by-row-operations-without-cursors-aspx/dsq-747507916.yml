@@ -1,0 +1,5 @@
+id: dsq-747507916
+date: 2007-03-02T10:27:38.0000000-08:00
+name: Shan Plourde
+avatar: https://disqus.com/api/users/avatars/Shan Plourde.jpg
+message: <p>Hi Phil, I use this type of technique all the time too. BUT your solution will always leave a comma at the end of the string ;) This could have been the deal breaker for that senior job ;) <br>DECLARE @FirstNames VARCHAR(8000)<br>SET @FirstNames = '' <br>SELECT top 10 @FirstNames = @firstNames + case len(@firstnames) when 0 then '' else ',' end + FirstName<br>FROM tblnames<br>print @firstnames</p>

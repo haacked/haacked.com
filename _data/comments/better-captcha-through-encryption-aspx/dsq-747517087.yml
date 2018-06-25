@@ -1,0 +1,5 @@
+id: dsq-747517087
+date: 2006-10-13T20:23:41.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>If you download the code, you'll see that's just a property. It's the name of the form field.  I believe the code is this:<br><code><br>public string HiddenEncryptedAnswerFieldName<br>{<br>    get<br>    {<br>        return this.ClientID + "_encrypted";<br>    }<br>}<br></code></p>

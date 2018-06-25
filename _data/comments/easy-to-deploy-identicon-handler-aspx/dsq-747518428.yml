@@ -1,0 +1,5 @@
+id: dsq-747518428
+date: 2007-01-26T14:22:36.0000000-08:00
+name: jayson knight
+avatar: https://disqus.com/api/users/avatars/jayson knight.jpg
+message: <p>Yup, it's perfectly clear now, volume always helps ;-).<br>"hash=hash-of-ip-address"<br>What hash is it looking for? I've tried using the Code member in the Util class to hash the IP, I've tried a hashcode, which doesn't work b/c the IP is rehashed in the handler. Red X's abound, and the resulting hash looks way off.<br>As is usually the case with me, I'm sure I'm overlooking something glaringly obvious and simple.</p>

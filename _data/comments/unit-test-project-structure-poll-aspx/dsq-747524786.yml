@@ -1,0 +1,5 @@
+id: dsq-747524786
+date: 2008-04-09T09:58:14.0000000-07:00
+name: S M Sohan
+avatar: https://disqus.com/api/users/avatars/S M Sohan.jpg
+message: <p>I have done it the in both ways. Before recent days, I kept my test codes in the same assembly and manually edited the csproj files to conditionally include the files containing test codes. This way it worked for simple assemblies.<br>However, Presently I favor the separate assembly approach, since it makes it easy to deploy and separates the two concerns.</p>

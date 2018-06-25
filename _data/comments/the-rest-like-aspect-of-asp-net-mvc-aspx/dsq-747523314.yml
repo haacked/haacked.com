@@ -1,0 +1,5 @@
+id: dsq-747523314
+date: 2007-11-13T00:49:45.0000000-08:00
+name: Jeff
+avatar: https://disqus.com/api/users/avatars/Jeff.jpg
+message: "<p>Yeah, I think my post gave the wrong impression: that I am _so_ punch  drunk in love with webforms, that no possible alternative exist. I guess It was more reaction to division within the community that seems to be occuring where either your are ecstatic about the rails/mvc approach and the rest who don't see it. <br><br>The inner geek is excited that there are alternatives, and is seething for the bits. The realist (perceived, of course) in me says that that its going to have limited application outside of new development and/or relatively simple web applications. <br>I guess my concerns are rooted in the fact that it reminds of the classic asp mvc-like pattern of changing the view based upon the request and all of the crappy procedural code I saw. HTML vomit being added to the response stream and such...<br>I would like to see how well it works with RIA: ajax and silverlight (1.1) applications.</p>"

@@ -1,0 +1,6 @@
+id: dsq-2629496890
+replyToId: dsq-747508303
+date: 2016-04-18T02:47:21.0000000-07:00
+name: adamo
+avatar: https://disqus.com/api/users/avatars/adamo.jpg
+message: <p>Hi! I have had similar issue. Thanks to Mirronellis comment I figured out that there can be some connections in pool while static is set. I've move setting Expect100Continue = false; code to application start and it's working fine.</p>

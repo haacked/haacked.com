@@ -1,0 +1,5 @@
+id: dsq-747524288
+date: 2008-03-03T22:57:24.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>In any case, while the MVC framework is still in the preview stage, we're breaking it left and right. ;)<br>I don't think I can change our policy on breaking changes. I assume if we hear overwhelming feedback that breaking is fine, we might change it. But we've already heard overwhelming feedback against breaking changes as much as possible. So you have a big hill to surmount convincing people here that changing an ABC to an interface is worth ignoring the huge customer base asking for us not to break so much from release to release.<br>When the next MVC preview is released, I'd also love to hear specific issues you are running into. I feel there's a lot of theorizing that it's going to suck that we have ABCs for the HTTP intrinsics, but I need to hear about specific real problems with it. Scenarios cut-off. Etc...</p>

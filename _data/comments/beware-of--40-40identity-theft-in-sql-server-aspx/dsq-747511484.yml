@@ -1,0 +1,5 @@
+id: dsq-747511484
+date: 2005-04-11T02:43:00.0000000-07:00
+name: Steven Campbell
+avatar: https://disqus.com/api/users/avatars/Steven Campbell.jpg
+message: <p>Even if you never use triggers yourself, SQL Server may add its own triggers if you ever decide to replicate your database.  In which case, you will encounter the problem described above.<br><br><br><br>Another tip I can offer is that you should not use ADO in combination with SQLOLEDB to retrieve IDENTITY values.  I refer specifically to the technique of:<br><br>myRS.AddNew<br><br>...<br><br>myRS.Update<br><br>myId = myRS("ID")<br><br><br><br>This fails to retrieve the correct ID, because (internally) the SQLOLEDB driver issues a SELECT @@IDENTITY statement to retrieve the newly created ID.</p>

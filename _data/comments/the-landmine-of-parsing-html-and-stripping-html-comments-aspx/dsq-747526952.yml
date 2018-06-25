@@ -1,0 +1,5 @@
+id: dsq-747526952
+date: 2008-11-10T09:28:55.0000000-08:00
+name: Peli
+avatar: https://disqus.com/api/users/avatars/Peli.jpg
+message: <p>I was wondering why Pex could not get 100% coverage (1 block not covered) but it turns out you have some dead code in there :<br><br>else if (inHtmlComment)<br>{<br>  if (current == '&gt;')<br>  {<br>    if (inHtmlComment) &lt;--------------- this is true :)<br>    {<br>      inHtmlComment = false;<br>      continue;<br>    }<br>  }</p>

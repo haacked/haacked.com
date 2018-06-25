@@ -1,0 +1,5 @@
+id: dsq-747513002
+date: 2005-09-18T22:38:00.0000000-07:00
+name: Marty Thompson
+avatar: https://disqus.com/api/users/avatars/Marty Thompson.jpg
+message: <p>I made a somewhat similar mistake when I was 5(what a coincedence!).  I implemented a Split method in C#(although I called it a tokenize method, having come from a heavily java-based computer science program).  It did exactly the same thing that the built-in String.Split method did, but worse.  I remember having a bug somewhere in my algorithm, and a co-worker of mine took a look at my code to help me, replaced about 15 lines of code with:<br><br><br><br>stringVariable.Split(',');<br><br><br><br>I was of course embarassed at my gaffe, even more so now looking back on it.</p>

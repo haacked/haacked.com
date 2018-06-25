@@ -1,0 +1,5 @@
+id: dsq-747523417
+date: 2007-11-18T08:49:03.0000000-08:00
+name: chuck
+avatar: https://disqus.com/api/users/avatars/chuck.jpg
+message: "<blockquote>To sort a list L of integers is to produce a nondecreasing list M of integers such that for any integer x, if x appears exactly n times in L, x also appears exactly n times in M.</blockquote><p><br>See, even that isn't a perfect description of what you intend: it allows for elements to appear in M that weren't in L.  You can't count on people to come up with a perfect description even of trivial things.    :D</p>"

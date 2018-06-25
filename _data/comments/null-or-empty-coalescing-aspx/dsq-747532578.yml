@@ -1,0 +1,5 @@
+id: dsq-747532578
+date: 2010-06-22T14:05:14.0000000-07:00
+name: cbp
+avatar: https://disqus.com/api/users/avatars/cbp.jpg
+message: <p>Just an update on a lot of the proposed methods above (including mine)...<br>Be aware that with the following syntax, the second expression is never evaluated if the first expression is not null.<br>var result = myNotNullString.ToNullIfEmpty() <br>             ?? AlternativeMethodDoesNotGetCalled();<br>With some of the proposed extension methods above, all the alternatives get evaluated at the beginning regardless of which one is null:<br>var result = myNotNullString<br>                 .Coaelsce(ThisWillAlwaysBeEvaluated());<br>This can lead to some unexpected results.</p>

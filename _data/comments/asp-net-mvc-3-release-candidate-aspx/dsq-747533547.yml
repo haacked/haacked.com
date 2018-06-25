@@ -1,0 +1,5 @@
+id: dsq-747533547
+date: 2010-11-25T14:43:09.0000000-08:00
+name: arkduke
+avatar: https://disqus.com/api/users/avatars/arkduke.jpg
+message: <p>All,<br>If you have problems installing MVC3RC even if you have uninstalled MVC3Beta, you can try this:<br>Removed the trailing slash from the following Registry key temporarily:<br>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\ASP.NET\4.0.30319.0\Path<br>C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\<br>...becomes...<br>C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319<br>...run AspNetMVC3Setup. :)<br>Hope this helps somebody....</p>

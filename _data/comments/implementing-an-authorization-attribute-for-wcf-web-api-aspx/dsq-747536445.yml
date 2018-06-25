@@ -1,0 +1,5 @@
+id: dsq-747536445
+date: 2011-12-20T21:11:47.0000000-08:00
+name: Antony Scott
+avatar: https://disqus.com/api/users/avatars/Antony Scott.jpg
+message: <p>Here is a neat little trick I use for splitting strings. Instead of this ...<br><code>var roles = _authorizeAttribute.Roles.Split(new[] { " " }, StringSplitOptions.RemoveEmptyEntries);</code><br>I do this ...<br><code>var roles = _authorizeAttribute.Roles.Split(" ".ToCharArray(), StringSplitOptions.RemoveEmptyEntries);</code><br>Not much of a saving in this case, but when you've got lots of different characters you want to split on it looks much neater IMO.</p>

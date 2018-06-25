@@ -1,0 +1,5 @@
+id: dsq-771826737
+date: 2013-01-18T07:51:17.0000000-08:00
+name: Rich
+avatar: https://disqus.com/api/users/avatars/Rich.jpg
+message: <p>Phil,</p><p>The R# suggestion is fine in your example - you are in no worse a position. Consider the case where the property setter throws. Your Owner constructor will never complete and as such no instance of Owner will ever be created that can be disposed.</p><p>Rich</p>

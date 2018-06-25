@@ -1,0 +1,5 @@
+id: dsq-747531327
+date: 2012-11-27T13:47:50.0000000-08:00
+name: Erik
+avatar: https://disqus.com/api/users/avatars/Erik.jpg
+message: <p>I'm tying to follow your post but get an strange error:<br>The constraint entry 'Length' on the route with URL '{controller}/{action}/{id}' must have a string value or be of a type which implements IRouteConstraint.<br>Do you know why? I only have the default routs in place!</p>

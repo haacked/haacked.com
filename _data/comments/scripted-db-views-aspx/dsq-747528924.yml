@@ -1,0 +1,5 @@
+id: dsq-747528924
+date: 2009-04-25T02:49:00.0000000-07:00
+name: zihotki
+avatar: https://disqus.com/api/users/avatars/zihotki.jpg
+message: <p>Daniel,<br>CSharpCodeProvider can be used only in FullTrust environment. But the main goal of this article is to show to make this working in MediumTrust too. So CSharpCodeProvider can not be used here.</p>

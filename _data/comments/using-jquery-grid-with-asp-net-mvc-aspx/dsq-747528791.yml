@@ -1,0 +1,5 @@
+id: dsq-747528791
+date: 2011-05-05T02:31:01.0000000-07:00
+name: Maven
+avatar: https://disqus.com/api/users/avatars/Maven.jpg
+message: <p>First Thanks lot for such a great post, I was finding likewise solution for long for my student project.<br>But I M having a problem currently, after implementing all this when M returning Json() then all I get in my browser is few lines of un-rendered plain text (no html) in the resultant, like:<br>{"total":-2147483648,"page":null,"records":1,"rows":[{"id":1,"cell":["1","-7","Is this a good question?"]},{"id":2,"cell":["2","15","Is this a blatant ripoff?"]},{"id":3,"cell":["3","23","Why is the sky blue?"]}]}<br>Can someone please guide me through this, Thank-you!</p>

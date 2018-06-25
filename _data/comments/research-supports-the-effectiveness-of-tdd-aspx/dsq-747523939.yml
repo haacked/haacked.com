@@ -1,0 +1,5 @@
+id: dsq-747523939
+date: 2008-01-21T21:20:17.0000000-08:00
+name: John
+avatar: https://disqus.com/api/users/avatars/John.jpg
+message: <p>In the study, a story is broken down into tasks A and B.  Then their methodology is to classify Test-First like so:<br>1) Write Test A<br>2) Implement Task A (until test A passes)<br>3) Write Test B<br>4) Implement Task B (until tests A &amp; B pass)<br>Then Test-Last is classified thusly:<br>1) Implement the whole story<br>2) Write tests A and B (until they pass)<br>I think that could be considered a strawman version of Test-Last.  Why not implement and test the tasks separately, just like Test-First does?  The benefits of breaking down a large task into smaller ones are plain, and I don't think the study proves anything else, since it doesn't control for task subdivision.</p>

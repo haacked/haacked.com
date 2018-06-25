@@ -1,0 +1,5 @@
+id: dsq-747529417
+date: 2011-09-21T13:30:34.0000000-07:00
+name: William
+avatar: https://disqus.com/api/users/avatars/William.jpg
+message: "<p>I might be missing a trick here, but it seems to me that the underlying problem isn't JSON, but the fact that cookie data is used to validate the request to the JSON service.<br>Clearly browser domain policies prevent the attackers website from directly accessing your website's cookie (hence this exploit). If you mandate that a JSON request requires the ability to directly read the cookie, then you have solved the problem. <br>How?<br>You restrict the JSON service to only accept the session-identifier (or whatever your secret is) as a parameter. Therefore to perform a JSON request you need to be able to: read your cookie, extract your session-identifier and send the session-identifier as a parameter in your GET/POST/XMLHTTPRequest. Since the hacker's website is not able to read your cookie directly, the loophole is closed. <br></p>"

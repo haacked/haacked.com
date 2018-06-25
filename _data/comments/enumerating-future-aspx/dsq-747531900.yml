@@ -1,0 +1,5 @@
+id: dsq-747531900
+date: 2010-03-30T07:02:16.0000000-07:00
+name: Pete
+avatar: https://disqus.com/api/users/avatars/Pete.jpg
+message: <p>Phil,<br>When I first played with reactive in silverlight, and now that I see it in Javascript, I still don't see it as a major improvement over traditional event handling.  What WOULD be interesting is a true functional reactive paradigm where we could do things like textarea.x = {mouse.x} and have the updates made automatically when mouse.x changes ("spreadsheet programming").  I'm not easily seeing how the reactive extensions are any more interesting than the equivalent jQuery:<br><code><br>textarea.keyup( function(e) {<br>                   textarea.reloadPreview();                        <br>                });<br></code><br>I'm sure I am missing something or else Microsoft wouldn't be making such a big deal of this.  I have seen the examples using Silverlight of reacting to responses from web services, for example, and still I'm not seeing the light.</p>

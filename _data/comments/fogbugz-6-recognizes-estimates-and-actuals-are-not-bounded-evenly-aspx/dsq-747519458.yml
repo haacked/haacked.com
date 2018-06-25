@@ -1,0 +1,5 @@
+id: dsq-747519458
+date: 2007-04-17T18:50:34.0000000-07:00
+name: Michael
+avatar: https://disqus.com/api/users/avatars/Michael.jpg
+message: <p>The last post about Velocity is incorrect. Velocity does not measured in business value, velocity measured in abstract effort units. Maybe you mean than BV *is* abstract effort unit, but you mixing terms here for sure.<br>Abstract unit has nothing common with BV. The idea is in "estimate-by-compare". For example, you may say that login page is 1 point, and then compare all the other features with "login page". For example, "As project manager I want to see all project members" feature may be 3 points since it 3-times harder than "login page". That's the main idea in abstract effort units. People great in comparative estimates, not in absolute.</p>

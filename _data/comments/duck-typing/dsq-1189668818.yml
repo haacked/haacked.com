@@ -1,0 +1,5 @@
+id: dsq-1189668818
+date: 2014-01-06T14:23:15.0000000-08:00
+name: Travis Illig
+avatar: https://disqus.com/api/users/avatars/tillig.jpg
+message: "<p>I think the trouble with \"duck typing\" is that it's not \"typing\" in the conventional sense, but \"late binding combined with message passing\" and just referred to as \"duck typing.\" It feels more like a convenience term than technically correct by computer science standards.</p><p>Eric has a great point about the \"typing\" part of \"duck typing\" effectively being late binding. I buy that if typing even really plays a part in this scenario.</p><p>However, I think the real \"meat\" of the thing is in that update at the end: \"duck typing\" smells to me like another name for \"message passing,\" possibly combined with a little late binding. I don't think \"method_missing\" really has anything to do with the type system so much as how objects choose to respond to messages for which they don't already have responses prepared - just like \"doesNotUnderstand\" and \"respondsTo\" in Smalltalk.</p><p>Finally, minor typo: \"Apollo\" is misspelled in the reference to \"Apollo 13.\"</p>"

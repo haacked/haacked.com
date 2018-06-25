@@ -1,0 +1,5 @@
+id: dsq-747531975
+date: 2010-04-16T03:50:08.0000000-07:00
+name: Bob Cravens
+avatar: https://disqus.com/api/users/avatars/Bob Cravens.jpg
+message: '<p>Why convert it to JSON on the client? Does the added complexity buy you something? Maybe you save a few bytes on the wire. When the data pops out the other side, it is converted to the model before your controller gets a whack at it. Why not keep it simpler:<br><code><br>var url = "/home/save";<br>var name = $("#Name").val();<br>var age = $("#Age").val();<br>$.post(url, { Name: name, Age: age }, function(data) {<br>    var message = data.Message;<br>    $("#resultMessage").html(message);<br>});<br></code><br>Same question for the return type. Why return JSON? In this case, it is a simple string. Why not just return the string.<br>Am I missing something?<br>Here is a simple to complex run down on Ajax calls to MVC controllers: <a href="http://blog.bobcravens.com/2009/11/13/ajaxcallstoaspnetmvcactionmethodsusingjquery.aspx" rel="nofollow noopener" title="http://blog.bobcravens.com/2009/11/13/ajaxcallstoaspnetmvcactionmethodsusingjquery.aspx">blog.bobcravens.com/...</a><br></p>'

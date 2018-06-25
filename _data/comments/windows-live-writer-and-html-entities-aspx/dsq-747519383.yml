@@ -1,0 +1,5 @@
+id: dsq-747519383
+date: 2007-03-23T23:29:05.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>thanks Joe. Yes, the mucking with my HTML is the problem. <br>The other problem was when I cut and paste the XML-RPC being sent back and forth into a file, named that file with a .xml extension, and then opened it with IE, it gave me an error with those characters.<br>So I started worrying the category thing was an encoding issue. But as you posted in my other post, it appears to just be a not-yet implemented "feature" of WLW. :)<br>Thanks!</p>

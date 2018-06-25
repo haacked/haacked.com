@@ -1,0 +1,5 @@
+id: dsq-2080523221
+date: 2015-06-15T12:01:56.0000000-07:00
+name: Chris Mccown
+avatar: https://disqus.com/api/users/avatars/Chris Mccown.jpg
+message: <p>Mine came right after I graduated college. I had to write a tool that would email the admins of our customers - around 2500 people. So I created the mail object, email then looped through the customer emails, clearing out the To field after every send. Except what got deployed to production had the clear statement commented out. So the first loop iteration sent the email to the first customer. The second sent it to the first and second. The third to the first, second, and third-party and so on. By the time dev ops unplugged the server from the wall, it had sent out thousands of emails, with customers getting them thousands of times. I got chewed out pretty got for that, but I really started learning code design and testing principles after that. </p>

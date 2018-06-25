@@ -1,0 +1,5 @@
+id: dsq-747510165
+date: 2005-04-22T04:45:00.0000000-07:00
+name: Don
+avatar: https://disqus.com/api/users/avatars/Don.jpg
+message: <p>I like the function method. Although it didn't replace any commas.<br><br><br><br>But let me tell you wat I really want. I'm reading an xml file line by line. And some xml tags has commas.<br><br>So I want to delete those commas. That's only in name tag. If a comma in value eg. &lt;something&gt;bla bla, bla&lt;/something&gt;<br><br>it should leave intact.<br><br><br><br>Here's the code I have right now:<br><br><br><br>string theThingToReplaceWith = "";<br><br>Regex exp = new Regex(@"[,]");<br><br><br><br><br><br>try<br><br>{<br><br>while(myStreamReader.Peek() != -1) <br><br>{<br><br><br><br>theLine = myStreamReader.ReadLine();<br><br>theLine = exp.Replace(theLine,theThingToReplaceWith);<br><br>myArrayList.Add(theLine);<br><br>}<br><br>}<br><br>catch(EndOfStreamException eose)<br><br>{<br><br>Response.Write(eose.ToString());<br><br>}</p>

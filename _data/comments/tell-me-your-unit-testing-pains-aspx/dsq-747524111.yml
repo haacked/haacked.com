@@ -1,0 +1,5 @@
+id: dsq-747524111
+date: 2008-02-06T14:29:42.0000000-08:00
+name: Anand
+avatar: https://disqus.com/api/users/avatars/Anand.jpg
+message: <p>I follow Test Last Development, where I design the object model and write unit tests then. Recently I had a problem unit testing singleton class. It used eager instantiation and had only one constructor, which used to get data from two dependent systems. The singleton class depends upon two gateway classes which interacted with the external dependent system. I could not introduce the constructor injection since it followed singleton pattern. I did some workaround and was able to carry out unit testing but still feel that the workaround is poor.<br>I would like to hear from you the solution for unit testing singleton classes.</p>

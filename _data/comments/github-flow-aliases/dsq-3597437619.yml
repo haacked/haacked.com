@@ -1,0 +1,6 @@
+id: dsq-3597437619
+replyToId: dsq-3588722233
+date: 2017-11-02T15:17:37.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Thanks for the suggestions!</p><p>What's the advantage of doing `xargs -I{} git branch -d {}` over just `xargs git branch -d`?</p>

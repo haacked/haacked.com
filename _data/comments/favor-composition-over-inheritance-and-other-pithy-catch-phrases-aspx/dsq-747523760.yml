@@ -1,0 +1,5 @@
+id: dsq-747523760
+date: 2007-12-11T07:14:50.0000000-08:00
+name: Ryan Ginstrom
+avatar: https://disqus.com/api/users/avatars/Ryan Ginstrom.jpg
+message: <p>@Haaked - Definitely in agreement. Blindly applying this "rule" without understanding it is a <em>bad thing</em>. <br>Most design rules exist in a state of tension with other rules, the idea being to achieve equilibrium. In the case of "favor composition over inheritance," I think that one of the tensions is with "do the simplest thing TCPW."* Hopefully, the equilibrium point between them is a simple yet extensible system.<br>* True for statically typed languages at least</p>

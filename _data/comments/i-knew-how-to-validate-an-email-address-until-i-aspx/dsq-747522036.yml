@@ -1,0 +1,5 @@
+id: dsq-747522036
+date: 2007-08-21T23:16:08.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Bill Thanks for pointing that out. I need to make sure that fix gets into the next version of Subtext.<br>I changed my email validation to be very liberal. .*?@.*</p>

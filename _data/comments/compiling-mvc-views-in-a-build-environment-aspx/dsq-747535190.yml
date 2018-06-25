@@ -1,0 +1,5 @@
+id: dsq-747535190
+date: 2011-08-11T03:07:00.0000000-07:00
+name: Keith Dahlby
+avatar: https://disqus.com/api/users/avatars/Keith Dahlby.jpg
+message: "<p>Thanks for this fix, Phil. One question though... I have .NET 3.5 MVC 2.0 project in VS2010. Everything works beautifully except one view fails to compile with the following:<br></p><blockquote>error CS0433: The type 'System.Web.HttpRequestWrapper' exists in both 'c:\\Program Files (x86)\\Reference Assemblies\\Microsoft\\Framework\\.NETFramework\\v4.0\\System.Web.dll' and 'c:\\Windows\\assembly\\GAC_MSIL\\System.Web.Abstractions\\3.5.0.0__31bf3856ad364e35\\System.Web.Abstractions.dll'</blockquote><p><br>I'm able to fix it using the hack suggested <a href=\"http://forums.asp.net/t/1551418.aspx#3823988\" rel=\"nofollow noopener\" title=\"http://forums.asp.net/t/1551418.aspx#3823988\">here</a>, but it seems wrong to put the tool path directly in the .csproj. Is there a better way?</p>"

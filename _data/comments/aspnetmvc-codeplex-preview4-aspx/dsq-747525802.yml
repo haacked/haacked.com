@@ -1,0 +1,5 @@
+id: dsq-747525802
+date: 2008-08-06T03:16:29.0000000-07:00
+name: Mehrdad
+avatar: https://disqus.com/api/users/avatars/Mehrdad.jpg
+message: <p>I think an important part in MVC pattern implementation is the routing part. This is usually best to be done declaratively. Some MVC focused frameworks such as Cocoa has done this well (while I don't like Apple's interface builder system, I think the routing part is done pretty well). I think MVC needs some XML based declartive syntax to declare connections (probably using a special build provider or something you know better ;) )</p>

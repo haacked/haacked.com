@@ -1,0 +1,5 @@
+id: dsq-747527579
+date: 2008-12-30T02:39:49.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>You'd simply use the Inherits attribute in the @Page declaration like so:<br>&amp;lt;%@ Page Inherits="ViewPage&amp;lt;IEnumerable&amp;lt;Product&gt;&gt;" ...</p>

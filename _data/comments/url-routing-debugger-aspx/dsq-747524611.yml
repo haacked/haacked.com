@@ -1,0 +1,5 @@
+id: dsq-747524611
+date: 2012-11-30T17:56:07.0000000-08:00
+name: NightKoder
+avatar: https://disqus.com/api/users/avatars/NightKoder.jpg
+message: <p>Hi Phil,<br>Same issue here, I downloaded RouteDebugger, and typed the following statement in Application_Start() in the Global.asax.cs file:<br>RouteDebug.RouteDebugger.RewriteRoutesForTesting(RouteTable.Routes);<br>Seeing the following error:<br>"The type or namespace name 'RouteDebugger' does not exist in the namespace 'RouteDebug' (are you missing an assembly reference?)"<br>The object browser doesn't show a "RouteDebugger" method for the RouteDebugger.<br></p>

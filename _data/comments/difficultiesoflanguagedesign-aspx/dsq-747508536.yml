@@ -1,0 +1,5 @@
+id: dsq-747508536
+date: 2004-06-04T16:39:00.0000000-07:00
+name: Daniel Turini
+avatar: https://disqus.com/api/users/avatars/Daniel Turini.jpg
+message: "<p>Actually, being picky, the “On Error Goto 0” statement also has some side-effects: it'll clear any previous error values available. If you call the DeleteFile function in an error handler, this could be a hard to find bug to spot.<br><br>And why am I bringing this to the language design discussion? Because a language feature should never change the program state unless explicitly asked for. It's the same mantra that we apply to our functions and methods, but I believe it is much more important on language design.<br><br>Keywords, statements and framework components that have side-effects lends to highly unstable user code (as we all know VB is famous for).<br><br><br><br></p>"

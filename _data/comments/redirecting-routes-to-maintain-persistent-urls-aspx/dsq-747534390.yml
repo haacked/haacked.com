@@ -1,0 +1,5 @@
+id: dsq-747534390
+date: 2011-02-02T12:24:55.0000000-08:00
+name: Pierrick
+avatar: https://disqus.com/api/users/avatars/Pierrick.jpg
+message: <p>Great post Phil! This could become really handy when updating web apps :)<br>One thing though on the following<br>var new = routes.MapRoute("new", "bar/{controller}/{id}/{action}");<br>var old = routes.MapRoute("new", "foo/{controller}/{action}/{id}");<br>routes.Redirect(old).To(new);<br>Did you mean in the 2nd route?<br>routes.MapRoute("old", "foo/{controller}/{action}/{id}");<br>Thanks!</p>

@@ -1,0 +1,5 @@
+id: dsq-747527702
+date: 2009-01-11T12:52:22.0000000-08:00
+name: JD Conley
+avatar: https://disqus.com/api/users/avatars/JD Conley.jpg
+message: "<p>@haacked: The async programming model exposed by the framework does things very differently than simply blocking a (worker pool or otherwise) thread behind the scenes. In fact the entire point is to not use a thread unless it's doing CPU intensive things rather than waiting on IO operations.<br>In any case. What threadpool are you using? I just saw QueueUserWorkItem.</p>"

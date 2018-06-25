@@ -1,0 +1,5 @@
+id: dsq-747528008
+date: 2009-02-01T22:09:16.0000000-08:00
+name: GB
+avatar: https://disqus.com/api/users/avatars/GB.jpg
+message: <p>@Allen:Thanks for your reply.I have built some in house code generator before linq came on the scene using CodeDom.That was hard work.<br>I generate entities,MVP etcc,I have a Gui where you can select table,Column etc... I would like to use T4 Template as they seem easy to maintain.But struggling to find even a noddy example that I can download where you generate anything from a windows form.<br>Thanks for your time<br>GB</p>

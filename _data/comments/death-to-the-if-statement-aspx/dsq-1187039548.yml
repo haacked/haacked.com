@@ -1,0 +1,5 @@
+id: dsq-1187039548
+date: 2014-01-04T13:29:47.0000000-08:00
+name: Scott Kensell
+avatar: https://disqus.com/api/users/avatars/scottkensell.jpg
+message: <p>I don't see an IF statement in my python code. Long live Python and readability!</p><p>def padded_take(array, n):<br>    return array[:n] + [0 for i in range(len(array),n)]</p><p>assert(padded_take([1,2,3], 5) == [1,2,3,0,0])<br>assert(padded_take([1,2,3], 2) == [1,2])<br>print "Tests pass."</p>

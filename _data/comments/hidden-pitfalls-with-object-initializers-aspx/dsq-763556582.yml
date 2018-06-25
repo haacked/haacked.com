@@ -1,0 +1,5 @@
+id: dsq-763556582
+date: 2013-01-11T02:02:56.0000000-08:00
+name: Johnno Nolan
+avatar: https://disqus.com/api/users/avatars/johnnonolan.jpg
+message: <p>I'm a little bit wary of object initializers for OO reasons too. It's so easy to throw up an  object &amp; initialize it this way but what this does is that it encourages more of your internals to be exposed. Soon your code base is full of classes with properties that you can get &amp; set at will, which makes me feel a little bit queasy. I've droned on about it in the past. <a href="http://johnnosnose.blogspot.co.uk/2012/07/the-evils-of-auto-properties-object.html" rel="nofollow noopener" title="http://johnnosnose.blogspot.co.uk/2012/07/the-evils-of-auto-properties-object.html">http://johnnosnose.blogspot...</a></p>

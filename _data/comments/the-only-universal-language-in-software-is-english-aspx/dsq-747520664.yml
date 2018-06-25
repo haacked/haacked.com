@@ -1,0 +1,5 @@
+id: dsq-747520664
+date: 2007-05-28T13:46:54.0000000-07:00
+name: Josh
+avatar: https://disqus.com/api/users/avatars/Josh.jpg
+message: <p>I think the commenters point is that "20.minutes.ago" *looks* like English (as a clause), while "DateTime.Now..." *looks* like our standard idea of how object oriented code flows, regardless of language. <br>Personally "20.minutes.ago" seems odd to me, but I haven't jumped onto Ruby quite yet either ;)</p>

@@ -1,0 +1,5 @@
+id: dsq-747536912
+date: 2011-12-05T14:55:28.0000000-08:00
+name: Hal
+avatar: https://disqus.com/api/users/avatars/Hal.jpg
+message: '<p>I suppose that <a href="http://NuGet.org" rel="nofollow noopener" title="NuGet.org">NuGet.org</a> needs one feature: provide the ability to download files *.nupkg directly from <a href="http://nuget.org" rel="nofollow noopener" title="nuget.org">nuget.org</a> site.<br>It seems be useful to download *.nupkg files from site and move downloaded package to local feed.<br>&gt; Package owners are displayed more prominently.<br>Also it may be useful to output not only authors of packages, but latest version and update timestamp.</p>'

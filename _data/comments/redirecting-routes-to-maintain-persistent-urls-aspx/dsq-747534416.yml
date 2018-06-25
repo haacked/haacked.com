@@ -1,0 +1,5 @@
+id: dsq-747534416
+date: 2011-04-28T06:26:06.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Rex Ah! My mistake. Here's another easy approach. Add a constraint to the default route to not allow matching the dot character.<br>var defaultRoute = routes.MapRoute(<br>"Default",<br>"{controller}/{action}", <br>new { controller = "Home", action = "Index" },<br>new {controller = "[^\.]+"}<br>).SetRouteName("Default");<br>That way it won't match anything with a . character.</p>

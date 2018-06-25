@@ -1,0 +1,5 @@
+id: dsq-747535412
+date: 2011-06-06T17:15:34.0000000-07:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>"@Colin I think the "right" way to add custom MVC project templates is to package it up in an MSI."<br>You think wrong. It should be:<br>NuGet InstallTemplate AwesomeTemplate<br>File &gt; New Project &gt; MVC &gt; Awesome template<br>Done!</p>

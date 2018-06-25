@@ -1,0 +1,5 @@
+id: dsq-747516715
+date: 2006-09-16T07:35:56.0000000-07:00
+name: Dave
+avatar: https://disqus.com/api/users/avatars/Dave.jpg
+message: <p>1. Do you use the Title URL field?<br>Actually, I would like to use this field for posts that I want to mark as obsolete. It would be nice if I could use this field to redirect incoming requests to a page that says "This post has been removed." That way readers would not get a broken link. Of course, I'm probably in the minority here because I often write stuff I later wish I had not written ;)<br>2. Do you ever enter values for Source Name and Source Url for a blog post?<br>No. I can't figure out how they apply to posts.<br>3. Would you find the ability to run Subtext off of another database such as MySql or Firebird very important?<br>Maybe... This is not a high priority item for me, but I think it would expand the Subtext audience. It would also possibly reduce hosting costs for some people if they could use MySQL. MySQL is usually free, while MS SQL has a cost.</p>

@@ -1,0 +1,5 @@
+id: dsq-1941683842
+date: 2015-04-02T05:11:37.0000000-07:00
+name: Marco Antonino
+avatar: https://disqus.com/api/users/avatars/marcoantonino.jpg
+message: <p>First of all, great post!<br>I love the bclean command but I wanted to tag the branches before deleting them and I failed so I reverted to powershell:</p><p>function gitclean($branch = "master")<br>{<br>$branchesToRemove = git branch --merged $branch | ?{-not $_.Contains($branch)} | %{$_.trim()}<br>$branchesToRemove | %{git tag -f archive/$_ $_}<br>$branchesToRemove | %{git branch -D $_}<br>}</p><p>Is there a way to do this in a git alias?</p>

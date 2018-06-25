@@ -1,0 +1,5 @@
+id: dsq-747530487
+date: 2009-11-10T02:05:00.0000000-08:00
+name: Josh
+avatar: https://disqus.com/api/users/avatars/Josh.jpg
+message: <p>HA! I actually expected the output of "Alias" only.  Only because in a former life, I used a lot of Reflection and wrote my own reflection library because the one in .Net 1.0 sucked.  BUT... I had no idea that was the reason why.  Guess it makes sense that interface inheritance doesn't require a single inheritance tree.<br>Thanks for this post.</p>

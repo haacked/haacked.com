@@ -1,0 +1,5 @@
+id: dsq-747534513
+date: 2011-02-22T09:39:08.0000000-08:00
+name: Tim Scott
+avatar: https://disqus.com/api/users/avatars/Tim Scott.jpg
+message: <p>There certainly is an advantage to extending the class instead of a property of it.  For the big payoff, go one step further and extend only interfaces.<br>Case in point, MvcContrib.FluentHtml.  Some years ago, we created a whole bunch of helpers.  The helpers extend <a href="http://bit.ly/view_data_container_extensions" rel="nofollow noopener" title="http://bit.ly/view_data_container_extensions">the existing MVC framework interface</a>.  We added our own interface  as well <a href="http://bit.ly/view_model_container_extensions" rel="nofollow noopener" title="http://bit.ly/view_model_container_extensions">and extended it</a>.<br>And the payoff?  All of FluentHtml extensions are available in Razor by adding <a href="http://bit.ly/model_web_view_page" rel="nofollow noopener" title="http://bit.ly/model_web_view_page">one very small class</a>.  It took like 30 minutes.</p>

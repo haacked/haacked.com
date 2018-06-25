@@ -1,0 +1,5 @@
+id: dsq-747533170
+date: 2010-10-06T02:44:55.0000000-07:00
+name: Keith J. Farmer
+avatar: https://disqus.com/api/users/avatars/Keith J. Farmer.jpg
+message: <p>Excellent!<br>Need to add NuPack to the VS Extension Manager feed. :)<br>By any chance does NuPack currently add support for adding packages to the machine itself, outside the context of VS or the like, or could it be extended to do so?  I'm thinking akin to WebPI or Windows Update.<br>Does it have update- or rename-package facilities?  Perhaps optionally alasing a package (eg, to deal with new Magic Unicorn drops that require some work to transition)? <br></p>

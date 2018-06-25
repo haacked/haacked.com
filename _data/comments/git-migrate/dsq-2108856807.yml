@@ -1,0 +1,6 @@
+id: dsq-2108856807
+replyToId: dsq-2108100944
+date: 2015-06-30T10:00:15.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Since I've already forced wrong-branch back to origin/wrong-branch, checking it out means I don't have access to the commits between wrong-branch and new-branch.</p><p>So "git rebase --onto master wrong-branch" is saying migrate the commits between wrong-branch and HEAD (aka new-branch) onto master.</p>

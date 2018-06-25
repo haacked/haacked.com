@@ -1,0 +1,6 @@
+id: dsq-1149276908
+replyToId: dsq-1149230189
+date: 2013-12-03T12:27:12.0000000-08:00
+name: Travis Illig
+avatar: https://disqus.com/api/users/avatars/tillig.jpg
+message: <p>It appears that somehow you get "...blah.aspx" to redirect to "...blah.aspx/" and Jekyll just doesn't care. Is that Jekyll magic or something you had to do?</p>

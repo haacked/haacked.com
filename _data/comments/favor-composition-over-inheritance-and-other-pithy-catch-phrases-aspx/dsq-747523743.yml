@@ -1,0 +1,5 @@
+id: dsq-747523743
+date: 2007-12-10T20:23:22.0000000-08:00
+name: Dave Spake
+avatar: https://disqus.com/api/users/avatars/Dave Spake.jpg
+message: <p>Funnily enough, the GoF book agrees with you. Part of their definition of a design pattern includes Consequence, which they define as the various trade-offs involved in applying that pattern, all of which should be weighed before it is applied. Taking a mantra like "favour composition over inheritance" out of context and using that as an unbending rule not only goes against that philosophy but highlights the dangers of reducing sound advice to the level of soundbites.</p>

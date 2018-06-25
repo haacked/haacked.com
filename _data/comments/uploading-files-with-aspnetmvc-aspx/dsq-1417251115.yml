@@ -1,0 +1,6 @@
+id: dsq-1417251115
+replyToId: dsq-1404445717
+date: 2014-06-03T00:50:30.0000000-07:00
+name: Ghuk
+avatar: https://disqus.com/api/users/avatars/disqus_8jpF3o4Wbh.jpg
+message: <p>You should use IEnumerable&lt;httppostedfilebase&gt; as a parameter type in your controller action. This is mentioned in the post.</p>

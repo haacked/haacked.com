@@ -1,0 +1,5 @@
+id: dsq-747536622
+date: 2011-11-27T22:04:49.0000000-08:00
+name: Malisa Ncube
+avatar: https://disqus.com/api/users/avatars/Malisa Ncube.jpg
+message: <p>A good cache should allow the developer to investigate the hits and misses so parameters can be adjusted accordingly.<br>I think a better design would be to simply have extension methods that can do the caching. This can enable extensibility too. I may want to use the Windows AppFabric for my cache. The freedom to override some of the behavior would be easier if Razor view engine remains untouched.<br></p>

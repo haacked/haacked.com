@@ -1,0 +1,5 @@
+id: dsq-747513678
+date: 2010-05-16T04:59:39.0000000-07:00
+name: dotnetguts
+avatar: https://disqus.com/api/users/avatars/dotnetguts.jpg
+message: <p>Did anyone found solution how to access .htc file from .css?<br>Specially when you are doing URL Rewriting.<br>In my .Net Project i can able to access .htc file when page is not URL Rewritten, but when I tried to access .htc file for page that is URL Rewritten its not working!<br>I have tried almost all tricks, anybody any idea?</p>

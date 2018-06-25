@@ -1,0 +1,5 @@
+id: dsq-747537998
+date: 2012-05-21T14:38:16.0000000-07:00
+name: Terry
+avatar: https://disqus.com/api/users/avatars/Terry.jpg
+message: <p>Can't remember where I read the comment when initially setting up msysgit on Windows when switching to Git ~8 months ago...but thought I read something about Git (or maybe msysgit) not performing as well on Windows as it does in Unix environment.<br>Guess this comment can be twofold.  First, how much truth is there to that comment (let me know if you want me to try and find the exact quote)?  Second, does GH4W sit on top of msysgit?<br>UI/client looks great.  Was just curious if there were any *performance boots* (presentation boost is quite obvious :)) in using it over msysgit/Console2 directly (my current setup).<br>Thanks in advance.</p>

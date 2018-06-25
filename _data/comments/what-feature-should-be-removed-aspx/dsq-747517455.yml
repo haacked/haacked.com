@@ -1,0 +1,5 @@
+id: dsq-747517455
+date: 2006-10-27T12:45:39.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Because of other features we added since .TEXT. We added the ability to route contact messages to the feedback table so we could display them in the admin, in case the user had Mail Server issues.<br>It's those interdependencies you don't see that'll kill you.</p>

@@ -1,0 +1,5 @@
+id: dsq-747535100
+date: 2011-04-28T01:42:24.0000000-07:00
+name: Kazi Manzur Rashid
+avatar: https://disqus.com/api/users/avatars/Kazi Manzur Rashid.jpg
+message: '<p>Sorry man, too difficult to digest the code you have shown for the conditional filters, probably the framework should include a nice wrapper for filter registration. Comparing to rails though I am not an expert:<br>before_filter: do_this, :only =&gt; :index<br>or<br>before_filter: do_that, :except=&gt; :show</p>'

@@ -1,0 +1,5 @@
+id: dsq-747525616
+date: 2008-08-14T23:13:45.0000000-07:00
+name: Michael Velasquez
+avatar: https://disqus.com/api/users/avatars/Michael Velasquez.jpg
+message: <p>Hi, I have a question regarding blocking access to specific directories within the views directory.<br>Is there a way, other than specifying the role per action, to block access to specified directories under the views directory, based on role?<br>For instance, a web.config with the "BlockViewHandler" key copied into each directory that you'd like access blocked to?<br>Rather than blocking the entire views directory.</p>

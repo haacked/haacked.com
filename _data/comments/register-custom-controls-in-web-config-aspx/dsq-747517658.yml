@@ -1,0 +1,5 @@
+id: dsq-747517658
+date: 2008-09-11T14:55:15.0000000-07:00
+name: Matt
+avatar: https://disqus.com/api/users/avatars/Matt.jpg
+message: <p>Does anyone know how to register the control in the web.config as described but then actually add the control at runtime from the code behind.<br>I've done this before when the control is part of the project or a reference has been set (server control) with code like this:<br>Dim mycontrol As MyControl<br>mycontrol = New ChartElement<br>mycontrol = Page.LoadControl("MyControl.ascx")<br>Page.Controls.Add(mycontrol)<br>But the code understandably doesn't know what the controls are without some sort of reference.<br>I hoping to create an application where my customer can build their own controls, place them in a directory, register the control in the web.config and then the app will automatically add the control to the page.<br>I know how to do this using webparts but I need to avoid that for the time being.<br>Is Reflection the answer? I'm not currently familiar with that.</p>

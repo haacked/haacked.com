@@ -1,0 +1,5 @@
+id: dsq-747511155
+date: 2006-11-14T16:53:46.0000000-08:00
+name: adam
+avatar: https://disqus.com/api/users/avatars/adam.jpg
+message: '<p>hi, your example was extremely useful on teh c# project i developed.<br>do you have a <a href="http://VB.net" rel="nofollow noopener" title="VB.net">VB.net</a> example of these two lines<br>[assembly: log4net.Config.XmlConfigurator( <br>ConfigFile="Log4Net.config",Watch=true )]<br>and <br>private static readonly ILog Log = LogManager.GetLogger( <br>MethodBase.GetCurrentMethod().DeclaringType);<br>your examples are amazingly simple to implement and adapt. a vb translation would save me hours. thanks!!</p>'

@@ -1,0 +1,5 @@
+id: dsq-747516186
+date: 2007-01-18T17:36:52.0000000-08:00
+name: Micka&#235;l
+avatar: https://disqus.com/api/users/avatars/Micka&#235;l.jpg
+message: <p>Great post!!<br>Just a simple comment on <br>view.Load += OnViewLoad;<br>...that I would replace by:<br>View.Load += new System.EventHandler(OnViewLoad);<br>This allow aggregation of presenter to avoid duplication of code. For exampel, if you have a ListPresenter and would like to create ListAndDetailPresenter. So in the detail and list presenter, you will create a list presenter so share the code, and also register the ListAndDetailPresenter to the onload event of the view to bind the detail data. I prefer use aggregation than inheritance, just as the ListAndDetailPresenter may want to hid some of the ListPresenter events.<br>If you do not change the event registration, the ListAndDetailPresneter will never be called.</p>

@@ -1,0 +1,5 @@
+id: dsq-747511876
+date: 2005-06-14T12:29:00.0000000-07:00
+name: Pete
+avatar: https://disqus.com/api/users/avatars/Pete.jpg
+message: <p>I wouldn't go confusing patterns with principles. Coding to interfaces is a principle that doesn't cost much and can mean all the difference down the track. Just think of it as a natural part of design. For more details and justification you could refer to Item 16 of Josh Bloch's Effective Java.<br><br><br><br>Patterns are another matter, and should only be used where a demonstrated need exists. By all means hold back on them until refactoring.</p>

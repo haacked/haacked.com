@@ -1,0 +1,5 @@
+id: dsq-747525192
+date: 2008-05-11T06:48:53.0000000-07:00
+name: Dragan Panjkov
+avatar: https://disqus.com/api/users/avatars/Dragan Panjkov.jpg
+message: <p>here are steps I am using to test this on pre-preview 3 build<br>1. I create mvc project using vs template (pre-preview3) and run it to be sure it is working<br>2. add actionresultlibrary project to the solution<br>3. delete entire contents of bin folder in both projects <br>4. add references to assemblies inside reference_assemblies folder<br>5. build actionresultribrary and update reference to it inside mvc web app<br>6. build mvc web app and run it... and voila... it is working perfectly<br></p>

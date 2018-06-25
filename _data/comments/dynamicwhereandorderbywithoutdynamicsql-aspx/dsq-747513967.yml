@@ -1,0 +1,5 @@
+id: dsq-747513967
+date: 2008-12-12T18:50:56.0000000-08:00
+name: Tim Odell
+avatar: https://disqus.com/api/users/avatars/Tim Odell.jpg
+message: '<p>This looked like a promising straight forward solution.  It seems odd there is not one best practice for dynamic sorting and ordering.  Each solution: dynamic sql, case statements, or this solution all have issues.</p>'

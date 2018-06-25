@@ -1,0 +1,5 @@
+id: dsq-747534739
+date: 2011-04-26T15:57:13.0000000-07:00
+name: Matt
+avatar: https://disqus.com/api/users/avatars/Matt.jpg
+message: <blockquote>@David it requires the ASP.NET Web Pages runtime. You can install ASP.NET MVC 3 to get it.</blockquote><p><br>Shouldn't this come down as a dependency then? Seems wonderfully ironic that a dependency manager should fail to manage it's own dependencies...</p>

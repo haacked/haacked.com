@@ -1,0 +1,5 @@
+id: dsq-747526914
+date: 2008-11-06T17:29:42.0000000-08:00
+name: Torkel &#195;–degaard
+avatar: https://disqus.com/api/users/avatars/Torkel &#195;–degaard.jpg
+message: <p>hm.. stupid me, my fluent interface for routing does not solve the discoverability aspect of constraints. But one could fix that by extending it with:<br> MvcRoute<br>  .MappUrl("questions/{id}/{urlName}")<br>  .WithRegexConstraint("id", "^[0-9]+$")<br>  .WithRouteConstraint("urlName", new MyCustomRouteConstraint())<br>  .ToDefaultAction&lt;questionscontroller&gt;(x =&gt; x.ViewQuestion(0))<br>  .AddWithName("QuestionsById", routes);<br></p>

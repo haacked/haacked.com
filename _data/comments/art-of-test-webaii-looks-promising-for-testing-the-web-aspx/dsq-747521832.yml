@@ -1,0 +1,5 @@
+id: dsq-747521832
+date: 2007-08-02T00:47:33.0000000-07:00
+name: Joe Brinkman
+avatar: https://disqus.com/api/users/avatars/Joe Brinkman.jpg
+message: <p>Myself and a few others are looking at this for DotNetNuke testing.  One downside on this initial release is that there is no script recorder.  For UI testing I think that a recorder is very beneficial so that non-developers and general community members can create scripts without fully understanding the page framework or the testing tool.  Even if the recorder did 80% of the work and then let me edit the script to add in some assertions or tweak the script to make it more resilient to change.</p>
