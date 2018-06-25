@@ -1,0 +1,5 @@
+id: dsq-747536193
+date: 2011-10-12T21:56:23.0000000-07:00
+name: Joe
+avatar: https://disqus.com/api/users/avatars/Joe.jpg
+message: <p>Sorry for missing explanation in previous message.<br>As far as I know the package ASP.NET MVC3 supports/contains aspx and Razor, but no Spark. I mean, in MVC3 (VS2010) if one is going to add view he has only choice aspx or cshtml (Razor). There is no spark.<br>OK there is surely way to "force" Spark integrated in VS2010 after installing MVC3, but there are too many manual works.<br>I hope MVC4 will integrates more view engines in VS2010.<br></p>

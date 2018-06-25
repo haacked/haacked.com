@@ -1,0 +1,5 @@
+id: dsq-747527197
+date: 2009-03-30T19:24:58.0000000-07:00
+name: skaue
+avatar: https://disqus.com/api/users/avatars/skaue.jpg
+message: <p>Didn't get this to work with a page using a masterpage. I added a breakpoint in the OnFormSubmit event in default.aspx.cs, and it steps in there only the second time the form is submitted. The first time, the entire page is (re-)loaded in the comments-div. <br>Crap, this is why I stayed with MVC, instead of strugling with webforms... :-(</p>

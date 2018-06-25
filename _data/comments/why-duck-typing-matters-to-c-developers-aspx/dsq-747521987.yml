@@ -1,0 +1,5 @@
+id: dsq-747521987
+date: 2008-10-03T00:21:49.0000000-07:00
+name: Justin Chase
+avatar: https://disqus.com/api/users/avatars/Justin Chase.jpg
+message: <p>Perhaps you already know this but just in case, you may be interested to hear about Boo which is a statically typed language that runs on the CLR and implements duck typing.<br>Basically you can declare your variable as type "duck" and the compiler will let you call methods that may or maynot exist on the real type. Additionally, if your instance implements the interface IQuackFu but does not implement the member you are trying to call it will forward your call to this interface instead. Here is an example I made that uses duck typing to drill into an XML document as if it were an object:<br><a href="http://www.justnbusiness.com/Blogs/The_Illusion_of_Strong_Typed_Xml_with_Boo.aspx" rel="nofollow noopener" title="http://www.justnbusiness.com/Blogs/The_Illusion_of_Strong_Typed_Xml_with_Boo.aspx">www.justnbusiness.com/.../...ped_Xml_with_Boo.aspx</a><br></p>

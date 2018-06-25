@@ -1,0 +1,5 @@
+id: dsq-747523623
+date: 2008-12-02T23:01:54.0000000-08:00
+name: serhat
+avatar: https://disqus.com/api/users/avatars/serhat.jpg
+message: <p>How about if I go like this:<br>private IPostRepository repository;<br>BlogController()<br>{<br>    this.repository = new InMemoryPostRepository();<br>    /* or new RepositoryFactory().GetRepository(SomeResource.DefaultRepositoryName); */<br>}<br>BlogController(IPostRepository repository)<br>{<br>    this.repository = repository;<br>}<br>And use the latter constructor when testing, so I do not need to use StructureMap and do not bother writing config files?</p>

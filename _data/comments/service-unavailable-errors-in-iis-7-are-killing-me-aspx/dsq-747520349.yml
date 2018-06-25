@@ -1,0 +1,5 @@
+id: dsq-747520349
+date: 2007-05-20T20:58:55.0000000-07:00
+name: Brian Chiasson
+avatar: https://disqus.com/api/users/avatars/Brian Chiasson.jpg
+message: <p>HOST table anyone - are you sure that localhost has not been remapped? Here are the settings for localhost in my hosts file (left out the comments). <br> 127.0.0.1       localhost <br> ::1             localhost<br>I would also check any firewalls to make sure they are not blocking anything.</p>

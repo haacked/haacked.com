@@ -1,0 +1,5 @@
+id: dsq-747520337
+date: 2007-05-19T07:03:57.0000000-07:00
+name: Mike Volodarsky
+avatar: https://disqus.com/api/users/avatars/Mike Volodarsky.jpg
+message: <p>Phil,<br>Can you answer the following questions for me?<br>1) After making the request, do you see any processes called "w3wp.exe" in your task manager (be sure to show all proceses in all sessions)<br>2) What is in your Windows "Application" event log?  Are you seeing any events indicating why your worker processes are going away?  I have never seen a case where an event is not logged.<br>3) Have you followed the steps in <a href="http://mvolo.com/blogs/serverside/archive/2007/05/19/Troubleshooting-IIS7-503-_2200_Service-unavailable_2200_-errors-with-startup-debugging.aspx?" rel="nofollow noopener" title="http://mvolo.com/blogs/serverside/archive/2007/05/19/Troubleshooting-IIS7-503-_2200_Service-unavailable_2200_-errors-with-startup-debugging.aspx?">http://mvolo.com/blogs/serv...</a><br>Thanks,<br>Mike</p>

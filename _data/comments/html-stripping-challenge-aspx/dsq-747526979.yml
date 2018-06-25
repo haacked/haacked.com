@@ -1,0 +1,5 @@
+id: dsq-747526979
+date: 2008-11-11T11:49:12.0000000-08:00
+name: Speednet
+avatar: https://disqus.com/api/users/avatars/Speednet.jpg
+message: <p>Ugh.  It messed up my Regex Pattern.<br>I'll try again, with just the Regex definition:<br><code><br>Private Shared ReadOnly _Regex_HTML As New Regex("&lt;/?(?=[a-z])(?&gt;[=]\s*""[^""]*""|=\s*'[^']*'|[^&lt;&gt;])+(?(?=&lt;)|&gt;)|(\s)*&lt;![^&gt;]*&gt;(?(1)\s*|(\s)*)", RegexOptions.Compiled Or RegexOptions.IgnoreCase)<br></code></p>

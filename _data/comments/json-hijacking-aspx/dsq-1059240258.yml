@@ -1,0 +1,6 @@
+id: dsq-1059240258
+replyToId: dsq-1059237614
+date: 2013-09-25T16:50:34.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>&gt; So, this is the reason why the REST social services (graph.facebook for example) returns arrays inside of a "data"-called object</p><p>Most likely! Great observation!</p><p>&gt; what "magic" does POST have over GET to prevent sending the browser's "cookie ID" to the malicious site.. Do post-type requests not <br>send that ID ?, what's the main difference ?</p><p>The "magic" is in not supplying a response to GET.</p><p>The vulnerability relies on loading the JSON payload via a SCRIPT tag. A browser will never issue a POST to load the script referenced by the SCRIPT tag. It'll issue a GET. So if you don't respond with the JSON payload to GET requests, you mitigate this attack.</p>

@@ -1,0 +1,5 @@
+id: dsq-747536370
+date: 2011-10-17T12:41:50.0000000-07:00
+name: Wyatt Barnett
+avatar: https://disqus.com/api/users/avatars/Wyatt Barnett.jpg
+message: <p>Is the 29 hour recycle hard coded? By default app pools will recycle every 1740 minutes, but that is easily reconfigurable. I know we set it to never unless we've got a reason not to.</p>

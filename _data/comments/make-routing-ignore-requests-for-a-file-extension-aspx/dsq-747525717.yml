@@ -1,0 +1,5 @@
+id: dsq-747525717
+date: 2008-07-14T04:28:12.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: '<p>I meant remove the route: <code>routes.IgnoreRoute("{*allaspx}", new {allaspx=@".*\.aspx(/.*)?"});</code> and then try to hit /Errors.aspx. You should see an error.</p>'

@@ -1,0 +1,5 @@
+id: dsq-747532122
+date: 2010-05-06T01:00:48.0000000-07:00
+name: Erik
+avatar: https://disqus.com/api/users/avatars/Erik.jpg
+message: <p>Phil,<br>   This is still losing some Matadata.  If you change you Display Line to  &lt;%= Html.DisplayFor(m =&gt; propertyMetadata.Model, propertyMetadata.TemplateHint) %&gt;, It will it least carry along any  Template hint applied to the Model.<br>Erik</p>

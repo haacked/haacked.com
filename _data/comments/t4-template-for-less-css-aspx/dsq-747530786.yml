@@ -1,0 +1,5 @@
+id: dsq-747530786
+date: 2009-12-13T21:03:16.0000000-08:00
+name: Morgan
+avatar: https://disqus.com/api/users/avatars/Morgan.jpg
+message: '<p>Nice! Thank you.<br>If you want to keep CSS Syntax highlighting (and autoformatting) in VS for now (.less is planning a syntax highglight extension for VS), you can:<br>-name original files .less.css<br>-mod .tt line 34 to search for *.less.css<br>-mod .tt line 266: return Path.GetFileNameWithoutExtension(dotLessFileName.Replace(".less","")) + ".css";</p>'

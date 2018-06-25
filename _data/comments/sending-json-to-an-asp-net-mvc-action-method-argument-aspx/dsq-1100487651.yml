@@ -1,0 +1,5 @@
+id: dsq-1100487651
+date: 2013-10-28T23:38:48.0000000-07:00
+name: zhangwei
+avatar: https://disqus.com/api/users/avatars/zhangwei.jpg
+message: "<p>Hi,I have a problem,When I write Controllers in a single Class library so How Can I get the url to get the data,</p><p>eg:</p><p> $.ajax({<br>            url: '/home/save',//You know the url don't to get data ,Can you help me?<br>            type: 'POST',<br>            dataType: 'json',<br>            data: json,<br>            contentType: 'application/json; charset=utf-8',<br>            success: function (data) {<br>                // get the result and do some magic with it<br>                var message = data.Message;<br>                $(\"#resultMessage\").html(message);<br>            }<br>        });</p>"

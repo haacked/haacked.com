@@ -1,0 +1,5 @@
+id: dsq-747529854
+date: 2009-09-03T10:52:00.0000000-07:00
+name: Jeffrey Becker
+avatar: https://disqus.com/api/users/avatars/Jeffrey Becker.jpg
+message: "<p>Personally, I'm thrilled to see this feature.  My experience has been that dispatch interception is at its most powerful when it replaces code generation.  Any place where you have a context and a straight forward set of actions to be preformed based on the context, method-name and parameters is going to be a prime candidate.  Off the top of my head the best usages I remember from my perl days were: COM interop, GUI toolkit bindings (this is how the TK bindings worked), and DB access.  I assume it would be good for a scaffolding framework too.  <br>That said, there are very mature technologies for all those things which already exist in the .Net space.  I don't personally intend to reinvent any of those wheels at the moment.</p>"

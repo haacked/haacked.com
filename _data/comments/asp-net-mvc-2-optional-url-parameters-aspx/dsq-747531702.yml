@@ -1,0 +1,5 @@
+id: dsq-747531702
+date: 2010-03-13T02:43:07.0000000-08:00
+name: iqworks
+avatar: https://disqus.com/api/users/avatars/iqworks.jpg
+message: <p>Instead of "Id", I have a field in my View called email. If I leave it blank in the View, in MVC1 this comes into my controller as "", but with MVC2 it now comes in as NULL. I am wondering what the reason is for that ?</p>

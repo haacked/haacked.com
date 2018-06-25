@@ -1,0 +1,5 @@
+id: dsq-747527120
+date: 2008-11-18T08:37:22.0000000-08:00
+name: mike kidder
+avatar: https://disqus.com/api/users/avatars/mike kidder.jpg
+message: <p>@Phil - sorry can't figure how to use the allowed tags in SubText comments... thanks for the info on Url.Action<br>@Graeme - @Phil - thanks, I thought there was another option besides actionLink extension. [] == angle brackets<br>   string.Format(Html.ActionLink("{0},"Index","Home"),"[span]Home[/span]") <br>Search stackoverflow website for a string.Format shortcut and make your own string extension to make it shorter:<br>   (Html.ActionLink("{0},"Index","Home")).F("[span]Home[/span]") <br>   <br></p>

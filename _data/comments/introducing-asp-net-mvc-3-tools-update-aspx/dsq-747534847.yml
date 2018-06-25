@@ -1,0 +1,5 @@
+id: dsq-747534847
+date: 2011-04-15T18:30:51.0000000-07:00
+name: jim
+avatar: https://disqus.com/api/users/avatars/jim.jpg
+message: <p>I think a lot of peoples' issues with installation have to do with an conflict when the installer tries to execute vs10-kb2483190-x86.exe. I get the same hanging and eventual error described by a lot of commenters, and when I go to the temp directory that the installer uses and install all of the MSIs individually it works fine. This is the second tools update with this issue.</p>

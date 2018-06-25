@@ -1,0 +1,5 @@
+id: dsq-747516435
+date: 2006-08-29T02:19:09.0000000-07:00
+name: agoat
+avatar: https://disqus.com/api/users/avatars/agoat.jpg
+message: "<p>[Quote]<br>What if your blog engine timed the interval between sending out the content and receiving a comment? If the comment came back too quickly, then we have high confidence that it is spam.<br>Certainly this is easily defeated by a spammer by adding a delay, but an artificial delay is costly to an automated script trying to hit the most blogs possible in the shortest amount of time.  Anything to slow down the spammers is worthwhile.<br>[/Quote]<br><br>That won't slow them down at all.  They may be slower to post individual comments, but their throughput will still be the same.  Look at it this way:  that block is an expensive IO operation.  In your application you can either wait for that operation, completely blocking the entire app, or thread around it.</p>"

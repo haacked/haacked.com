@@ -1,0 +1,5 @@
+id: dsq-747527052
+date: 2008-11-15T01:09:20.0000000-08:00
+name: Ed
+avatar: https://disqus.com/api/users/avatars/Ed.jpg
+message: <p>A revamp of the <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> controls in 4.0? It's about time, for Safari/FF to be compatible with the Menu control I have to revert to things like:<br>if (Request.UserAgent.IndexOf("AppleWebKit") &gt; 0)<br>{<br>        Request.Browser.Adapters.Clear();<br>}<br>After 3 updates of the framework you can see i'm a bit dissapointed.<br>Sincerly<br>Ed</p>

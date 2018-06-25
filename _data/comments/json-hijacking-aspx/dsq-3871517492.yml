@@ -1,0 +1,6 @@
+id: dsq-3871517492
+replyToId: dsq-3817194851
+date: 2018-04-24T21:50:54.0000000-07:00
+name: Ashish
+avatar: https://disqus.com/api/users/avatars/ashishshukla6.jpg
+message: <p>Hi, it is also possible for an attacker to make the jquery post request to the vulnerable site, then also attacker can get the data. How HTTP post will prevent it?<br>I thought of making request POST and also pass the Anti forgery  token with the POST request which returning JOSN, then will it work? <br>Referring the stack overflow link <a href="https://stackoverflow.com/questions/28765350/json-hijacking-and-asp-net-mvc" rel="nofollow noopener" title="https://stackoverflow.com/questions/28765350/json-hijacking-and-asp-net-mvc">https://stackoverflow.com/q...</a></p>

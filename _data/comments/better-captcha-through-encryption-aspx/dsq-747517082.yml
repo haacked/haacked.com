@@ -1,0 +1,5 @@
+id: dsq-747517082
+date: 2006-10-09T07:20:18.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Good question.  Perhaps a more precise question is if I am using it in a thread-safe manner since the instance of <code>RijndaelManaged</code>, in the var <em>encryptionAlgorithm</em>, is a static variable, which could bring up contention issues.<br>I believe so since I am not changing the value of any of the properties of <em>encryptionAlgorithm</em> after it is created. Also, I create the instance in a static constructor which is guaranteed to be thread safe.<br>So the only contention would be caused by another thread changing the value of a property in the midst of that method call, which won't happen in this code.</p>

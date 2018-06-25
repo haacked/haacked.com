@@ -1,0 +1,5 @@
+id: dsq-747521076
+date: 2007-06-14T01:27:18.0000000-07:00
+name: JV
+avatar: https://disqus.com/api/users/avatars/JV.jpg
+message: "<p>@Eric D. Burdo<br>IsNullOrEmpty is still very common used in big frameworks and such applications. And lots of people are using it. A quick Google gives only 1 url (the one you posted) about the problem. You should ask yourself a second question about it: If the provided cause for this suspected bug is that big, why doesn't it happen more often then?</p>"

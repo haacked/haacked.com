@@ -1,0 +1,5 @@
+id: dsq-747516534
+date: 2006-09-25T13:01:03.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Please send an email to the subtext-devs@lists.sourceforge.net mailing list along with the error message you received.<br>Subtext 1.9 runs on ASP.NET 2.0.  Did you check to make sure your IIS website is configured for ASP.NET 2.0?</p>

@@ -1,0 +1,5 @@
+id: dsq-747511679
+date: 2010-06-18T20:10:12.0000000-07:00
+name: AgDude
+avatar: https://disqus.com/api/users/avatars/AgDude.jpg
+message: "<p>I am running CVS on a freeNAS server, and ran into this problem when creating a module with subdirectories.  For some reason the base folder for the project got the right permissions, but the subfolders did not.    The tips here got me thinking in the right direction.    As I have it configured I need the permission to be 775 on the server, so open an ssh shell and run: chmod 775 /path/to/subdirectory.  <br>I repeated this for each sub folder, I didn't use the -R option, since the files have different permissions than the directories, and being new to CVS I figured this might be important to retain.</p>"

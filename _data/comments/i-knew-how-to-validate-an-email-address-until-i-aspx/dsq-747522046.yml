@@ -1,0 +1,5 @@
+id: dsq-747522046
+date: 2007-08-22T13:58:36.0000000-07:00
+name: Mark
+avatar: https://disqus.com/api/users/avatars/Mark.jpg
+message: <p>I completely agree, ignoring the wider picture of what should be validated, how and when. In the straight forward case most regexes are NOT too simplistic. The specifications typically suggest that software generating email addresses must be as rigid (or more) than the spec, but ... ... software reading email addresses should be less rigid to make up for any crap software that fails to meet the spec. Mind you this leads to the exact same problem that Browsers cause (i.e. any HTML will do)!</p>

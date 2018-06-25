@@ -1,0 +1,5 @@
+id: dsq-747516002
+date: 2007-06-13T19:37:20.0000000-07:00
+name: Brent Humphreys
+avatar: https://disqus.com/api/users/avatars/Brent Humphreys.jpg
+message: <p>I got the latest and the post commit e-mail has all the functionality commented out.<br>When I uncommented it it wouldn't compile.  Something about HostApplication not defined.<br>I am not a C# guy, but I was wondering if you have a working build?</p>

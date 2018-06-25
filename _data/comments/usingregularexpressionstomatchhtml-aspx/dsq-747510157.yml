@@ -1,0 +1,5 @@
+id: dsq-747510157
+date: 2005-04-21T23:59:00.0000000-07:00
+name: Don
+avatar: https://disqus.com/api/users/avatars/Don.jpg
+message: <p>How can I get rid of a comma and a paranthesis inside a tag. <br><br>eg. <br><br><br><br>&lt;p(,)&gt; this is the function calculate() &lt;/p(,)&gt;<br><br><br><br><br><br>after replace it should look like:<br><br><br><br>&lt;p&gt; this is the function calculate() &lt;/p&gt;</p>

@@ -1,0 +1,5 @@
+id: dsq-747517629
+date: 2006-11-25T08:42:08.0000000-08:00
+name: Rob Conery
+avatar: https://disqus.com/api/users/avatars/Rob Conery.jpg
+message: <p>If you have any questions pop over to our forums at <a href="http://actionpack.wekeroad.com" rel="nofollow noopener" title="http://actionpack.wekeroad.com">http://actionpack.wekeroad.com</a>. Also - we don't use Reflection in the .NET sense - it's all INFORMATION_SCHEMA (for SQL Server). I think you know this but I just wanted to be sure peeps knew :).<br>On a small tangent - I love CodeSmith but I found that it exponentially "echo-chambered" the amount of code that could possibly be produced for a website with .NET. In other words - code per site moving from ASP classic to .NET went up by an order of magnitude. This isn't necessarily a bad thing if your site is complex.<br>However geeks are prone to writing code to solve problems, and geeks using generators are even scarier, because they lose the carpal-tunnel warning sign that maybe they have too much code :).<br>My name is Rob and I'm a recovering CodeGen Addict :).</p>

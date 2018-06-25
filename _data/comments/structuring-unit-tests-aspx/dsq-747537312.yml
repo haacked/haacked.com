@@ -1,0 +1,5 @@
+id: dsq-747537312
+date: 2012-01-02T10:34:34.0000000-08:00
+name: Seth Petry-Johnson
+avatar: https://disqus.com/api/users/avatars/Seth Petry-Johnson.jpg
+message: <p>I do something very similar, except instead of nested classes I create a namespace for the class under test and then create top level classes in that namespace for each method or scenario. I think this works a little nicer when using a test runner because it avoids the "ParentClass+Whatever" display, which I find noisy and hard to read.</p>

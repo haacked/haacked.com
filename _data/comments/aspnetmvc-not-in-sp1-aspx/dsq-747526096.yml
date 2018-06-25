@@ -1,0 +1,5 @@
+id: dsq-747526096
+date: 2008-08-14T20:44:33.0000000-07:00
+name: Jamie
+avatar: https://disqus.com/api/users/avatars/Jamie.jpg
+message: <p>PLEASE, PLEASE, PLEASE try to get a good subcontroller infrastructure in there with the release.  That seems so much more important than AJAX helpers and other things that don't affect the overall structuring of an application.  I know you guys have said before that might have to wait for the next release, but PLEASE rethink it...</p>

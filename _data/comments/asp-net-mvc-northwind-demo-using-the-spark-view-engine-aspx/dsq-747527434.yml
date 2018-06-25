@@ -1,0 +1,5 @@
+id: dsq-747527434
+date: 2008-12-09T00:38:15.0000000-08:00
+name: Louis DeJardin
+avatar: https://disqus.com/api/users/avatars/Louis DeJardin.jpg
+message: <p>@cowgaR Yes, yes, intellisense. That would be the holy grail. It's almost as tricky to implement as you would expect it to be. :)<br>However I submit if your view templates are sufficiently html-like, and you follow guidelines about "don't break the ${}'s", your xhtml/css specialists would be very productive working directly in a Spark views folder. Even with elements like for /for and if /if, since the indentation, scope, and closing of them are visually and syntactically xhtml.<br><br>@doug I get that a lot; it's even more similar to Genshi. It's just a coincidence, honest.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747524798
+date: 2008-04-09T20:07:46.0000000-07:00
+name: Joe Brinkman
+avatar: https://disqus.com/api/users/avatars/Joe Brinkman.jpg
+message: <p>Another Microsoftie spouting off on TDD when they clearly don't....  Oh, wait... sorry, this was supposed to go on Rob's blog ;)<br>I'm with you Phil.  The last thing I want on my webserver is a bunch of code that will never execute (and should never execute in production).  On the web, every byte counts, whether it is traveling across the wire or consuming server memory.</p>

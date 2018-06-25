@@ -1,0 +1,5 @@
+id: dsq-747532914
+date: 2010-08-08T01:34:23.0000000-07:00
+name: Andrei Rînea
+avatar: https://disqus.com/api/users/avatars/Andrei_Rinea.jpg
+message: <p>Oh noez...<br>I knew this was coming since I've seen the dynamic object in .NET 4. I knew there will be abuses and here's the proof.<br>This is PHP-style programming, a mistyped letter and you'll never know why something is not shown in the view.<br>All we need know is $ in front of the variables and replace the dereferrencing operator (.) with a " -&gt; ".<br>-1!</p>

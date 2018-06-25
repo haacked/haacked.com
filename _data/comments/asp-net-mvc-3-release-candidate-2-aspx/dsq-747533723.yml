@@ -1,0 +1,5 @@
+id: dsq-747533723
+date: 2010-12-13T21:46:02.0000000-08:00
+name: hazzik
+avatar: https://disqus.com/api/users/avatars/hazzik.jpg
+message: '<p>class dao { string SomeValue; }<br>class childDao : dao { }<br>&lt;%ViewPage&lt;childDao&gt;%&gt;<br>&lt;%= Html.Editor("SomeValue") %&gt; -- there ModelType is childDao<br>&lt;%= Html.EditorFor(x=&gt;x.SomaValue) %&gt; -- there ModelType is dao</p>'

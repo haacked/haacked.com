@@ -1,0 +1,5 @@
+id: dsq-747530663
+date: 2009-11-19T14:50:00.0000000-08:00
+name: Tomas
+avatar: https://disqus.com/api/users/avatars/Tomas.jpg
+message: <p>I <em>kinda</em> like what I see, but I must admit I already see a couple of weeknesses here:<br>1) If I didn't completely misunderstand the concepts, this approach still requires me to duplicate the validation logic. Hooking up server-side and client-side validation to each other isn't really as easy as it should unless the validation logic is only written <em>once</em>.<br>2) The syntax with </p><blockquote>ViewContext.FormContext.ClientValidationFunction = "..."</blockquote><p> is unnessecarily verbose. Can't the function name just be an (optional) input parameter to the call to <strong>Html.EnableClientValidation()</strong>, with the MicrosoftAjax version as default?</p>

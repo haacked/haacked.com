@@ -1,0 +1,5 @@
+id: dsq-747529371
+date: 2009-06-25T20:04:00.0000000-07:00
+name: Asbj&#248;rn Ulsberg
+avatar: https://disqus.com/api/users/avatars/Asbj&#248;rn Ulsberg.jpg
+message: "<p>@Haacked: You're correct with your caching scenario, but what if we force the browser not to cache the response in the first place? It will still be better than using POST to GET something, imho.</p>"

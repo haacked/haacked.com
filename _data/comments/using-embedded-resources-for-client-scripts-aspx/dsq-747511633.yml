@@ -1,0 +1,5 @@
+id: dsq-747511633
+date: 2005-05-01T20:13:00.0000000-07:00
+name: Steven Campbell
+avatar: https://disqus.com/api/users/avatars/Steven Campbell.jpg
+message: '<p>This is great, but I would simplify it even further by creating a method that accepts the Page object as a parameter, so it can be used in one line, like: <br><br>ScriptHelper.IncludeScript("PairedDropDownHandler", "PairedDropDown.js", Page)<br><br><br><br>or maybe even just<br><br><br><br>ScriptHelper.IncludeScript("PairedDropDown.js", Page)<br><br><br><br>(defaulting the name of the script block somehow)<br><br></p>'

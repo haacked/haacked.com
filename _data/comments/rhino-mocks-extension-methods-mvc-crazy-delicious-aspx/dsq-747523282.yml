@@ -1,0 +1,5 @@
+id: dsq-747523282
+date: 2007-11-07T19:36:52.0000000-08:00
+name: Aaron Jensen
+avatar: https://disqus.com/api/users/avatars/Aaron Jensen.jpg
+message: '<p>You can get rid of 6 lines of code by using a stub:<br>IHttpContext context = mocks.GenerateStub&lt;IHttpContext&gt;();<br>context.Request = mocks.DynamicMock&lt;IHttpRequest&gt;();<br>context.Response = mocks.DynamicMock&lt;IHttpResponse&gt;();<br>context.Session = mocks.DynamicMock&lt;IHttpSessionState&gt;();<br>context.Server = mocks.DynamicMock&lt;IHttpServerUtility&gt;();<br>This has the added benefit of allowing people to replace any of the children with fakes or stubs.<br>You could also accomplish the same thing in a nicer way if you write a concrete implementation of IHttpContext with constructor injection for its properties and use the auto mocking container to inject the context into your controller: <a href="http://blog.eleutian.com/2007/08/05/UsingTheAutoMockingContainer.aspx" rel="nofollow noopener" title="http://blog.eleutian.com/2007/08/05/UsingTheAutoMockingContainer.aspx">http://blog.eleutian.com/20...</a></p>'

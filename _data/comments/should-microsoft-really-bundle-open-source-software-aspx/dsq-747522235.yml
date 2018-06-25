@@ -1,0 +1,5 @@
+id: dsq-747522235
+date: 2007-09-03T23:32:55.0000000-07:00
+name: Karthik Hariharan
+avatar: https://disqus.com/api/users/avatars/Karthik Hariharan.jpg
+message: <p>I think you hit the nail on the head with the suggestion that MS build extensibility points and an implementation rather than just seek to completely replace the open source alternatives with an MS branded implementation.<br>The ASP.NET AJAX team went this route by supporting the prototype and scriptaculous Javascript libraries as well as their own Microsoft Javascript library.  By supporting the open source alternatives, they won over a lot of users.</p>

@@ -1,0 +1,5 @@
+id: dsq-747523301
+date: 2007-11-10T11:02:20.0000000-08:00
+name: Eyad Salamin
+avatar: https://disqus.com/api/users/avatars/Eyad Salamin.jpg
+message: "<blockquote>by keeping the UI thin, a good developer could do all these things without MVC. So what's the benefit of the MVC framework? I agree</blockquote><p><br>Well, this is true, but..<br>I believe one of the main characteristics of a framework is to <strong>force</strong> the developers to follow a set of design patterns (for instance: MVC) which results in easily maintainable and consistent applications.<br>A good developer usually writes clean code, on the other hand, a good framework forces even average developers to write clean.</p>"

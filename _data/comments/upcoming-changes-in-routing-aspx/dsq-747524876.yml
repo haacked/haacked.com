@@ -1,0 +1,5 @@
+id: dsq-747524876
+date: 2010-11-19T03:23:13.0000000-08:00
+name: Peter Morris
+avatar: https://disqus.com/api/users/avatars/Peter Morris.jpg
+message: <p>I've managed to get ASP MVC encoding special characters before the query string using an exclamation mark.  So the route {controller}/{action}/{code} when presented with the code "N/A" will use "N!2fA"<br>Here's how I did it:<br><a href="http://blog.peterlesliemorris.com/archive/2010/11/19/asp-mvc-encoding-route-values.aspx" rel="nofollow noopener" title="http://blog.peterlesliemorris.com/archive/2010/11/19/asp-mvc-encoding-route-values.aspx">blog.peterlesliemorris.com/...</a></p>

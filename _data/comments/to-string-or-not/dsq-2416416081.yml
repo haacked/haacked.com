@@ -1,0 +1,6 @@
+id: dsq-2416416081
+replyToId: dsq-2412908903
+date: 2015-12-18T13:06:12.0000000-08:00
+name: Adam Rodger
+avatar: https://disqus.com/api/users/avatars/disqus_TJPapzW3L8.jpg
+message: <p>The problem is that your rule could actually see them used interchangeably on the same line, so to me this actually adds that 'bit of extra processing':</p><p>    float x = Single.NaN;</p><p>It's not too bad with string/String or int/Int32, but float/Single just looks really odd.</p><p>Whereas if the rule is "always use the keyword style" you can't really get that wrong. Remember it's all about making it easy to do the right thing and more difficult to do the wrong thing.</p>

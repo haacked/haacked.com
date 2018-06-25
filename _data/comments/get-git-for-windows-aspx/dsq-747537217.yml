@@ -1,0 +1,5 @@
+id: dsq-747537217
+date: 2011-12-19T21:05:45.0000000-08:00
+name: Bradley T. Landis
+avatar: https://disqus.com/api/users/avatars/Bradley T. Landis.jpg
+message: <p>Okay, I think I figured it out.  It doesn't work if your "Home" Directory path has spaces in it.  Mine is "C:\Users\Bradley T. Landis" on both machines where I had problems.</p>

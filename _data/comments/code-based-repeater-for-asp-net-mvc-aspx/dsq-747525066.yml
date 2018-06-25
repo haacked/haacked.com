@@ -1,0 +1,5 @@
+id: dsq-747525066
+date: 2008-06-19T01:32:39.0000000-07:00
+name: Tuna Toksoz
+avatar: https://disqus.com/api/users/avatars/Tuna Toksoz.jpg
+message: <p>Is the lambda-in-aspx stuff(the repeater template) bound to current HttpContext, i mean what if I store the delegate in session and invoke it in another request? Will it run against the new HttpContext or the old one?</p>

@@ -1,0 +1,5 @@
+id: dsq-747530554
+date: 2009-11-18T04:09:00.0000000-08:00
+name: Soe Tun
+avatar: https://disqus.com/api/users/avatars/Soe Tun.jpg
+message: <p>Client-side validation is "broken". In Preview 2, javascript function EnableClientValidation() is defined in MicrosoftMvcJQueryValidation.js file.<br><br>However, in MVC2 Beta version, MicrosoftMvcAjax.js file does not define the function.<br>Because of it, I'm getting JavaScript error dialog window and had to add it on my own.</p>

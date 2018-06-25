@@ -1,0 +1,5 @@
+id: dsq-747530785
+date: 2009-12-02T09:57:00.0000000-08:00
+name: Dan F
+avatar: https://disqus.com/api/users/avatars/Dan F.jpg
+message: <p>Ah, Oleg has some handy words about <a href="http://www.olegsych.com/2008/02/t4-assembly-directive/" rel="nofollow noopener" title="http://www.olegsych.com/2008/02/t4-assembly-directive/">understanding the assembly directive</a>.<br>If I put an absolute path in to dotless, or add a folder to the project reference paths, it goes OK. I haven't tried the GAC alternative.<br>All's good again :-)</p>

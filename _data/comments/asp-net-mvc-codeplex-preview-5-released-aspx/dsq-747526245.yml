@@ -1,0 +1,5 @@
+id: dsq-747526245
+date: 2008-08-29T12:30:14.0000000-07:00
+name: Throwspoop
+avatar: https://disqus.com/api/users/avatars/Throwspoop.jpg
+message: '<p>For reference here is the Preview 4 default.asp page_load:<br>public partial class _Default : Page<br>    {<br>        public void Page_Load(object sender, System.EventArgs e)<br>        {<br>            Response.Redirect("~/Home");<br>        }<br>    }</p>'

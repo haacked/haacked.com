@@ -1,0 +1,5 @@
+id: dsq-747518935
+date: 2007-03-04T21:17:36.0000000-08:00
+name: Jeff Lewis
+avatar: https://disqus.com/api/users/avatars/Jeff Lewis.jpg
+message: <p>Rather than collect, then test, here is a minor edit that makes the code a little more performant, by testing and then collecting:<br>public Control FindControlSansRecursion(Control root, string id)<br>{<br>if (root.ID == id)<br>return root;<br><br>//seed it.<br>Stack&lt;Control&gt; stack = new Stack&lt;Control&gt;();<br>stack.Push(root);<br><br>while(stack.Count &gt; 0)<br>{<br>Control current = stack.Pop();<br>foreach (Control control in current.Controls)<br>    {<br>if (control.ID == id)<br>return control;<br><br>stack.Push(control);<br>    }<br>}<br>//didn’t find it.<br>return null;<br>}</p>

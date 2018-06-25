@@ -1,0 +1,5 @@
+id: dsq-747534148
+date: 2011-01-14T00:26:15.0000000-08:00
+name: Adam Anderly
+avatar: https://disqus.com/api/users/avatars/adamanderly.jpg
+message: <p>Phil,<br>I get how to express NuGet dependencies on other NuGet packages and how to include assembly reference like you did above with the Xml RPC library. But how do I express dependencies on assemblies that I don't own (that may already be on the user's machine). For instance, if I wanted my NuGet package to add a reference to WebMatrix.WebData.dll, how I can express that dependency in my NuGet package without having to include that assembly in my lib folder of my NuGet package?<br>Thanks in advance!</p>

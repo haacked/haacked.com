@@ -1,0 +1,5 @@
+id: dsq-747532637
+date: 2010-07-27T20:28:56.0000000-07:00
+name: Aaron
+avatar: https://disqus.com/api/users/avatars/Aaron.jpg
+message: <p>I'm loving the Razor syntax.  I just noticed something which is a speedbump for me.<br>@using (Html.BeginForm()) {<br>    &lt;div&gt;<br>        @Html.LabelFor(x =&gt; x.UserName)<br>    &lt;/div&gt;<br>    &lt;div&gt;<br>        @Model.UserName<br>    &lt;/div&gt;<br>}<br>-- becomes --<br>&lt;form action="/Home/Test"&gt;    &lt;div&gt;<br>        &lt;label for="UserName"&gt;User Name<br>    &lt;/div&gt;<br>    &lt;div&gt;<br>        Name<br>    &lt;/div&gt;<br>&lt;/form&gt;<br>...it seems to get it partially right.  The @Model.UserName behaves exactly as I'd expect.  I am concerned that with a long &lt;form&gt; tag, the &lt;div&gt; will be off-window to the right.  In this case, not a huge deal, but with complex html layout it would become a speedbump in tracking down a rendering issue.<br>Either way, I love the new Razor syntax.  Thanks for bringing it to us!<br>Aaron</p>

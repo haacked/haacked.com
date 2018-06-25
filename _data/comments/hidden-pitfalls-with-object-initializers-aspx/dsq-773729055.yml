@@ -1,0 +1,6 @@
+id: dsq-773729055
+replyToId: dsq-773274927
+date: 2013-01-21T01:50:09.0000000-08:00
+name: Rich
+avatar: https://disqus.com/api/users/avatars/Rich.jpg
+message: <p>Hi Phil, my point was that between the first version of the constructor:</p><p>    this.dependency = new Dependency();<br>  this.dependency.SomeProperty = "Blah";</p><p>and the R# refactored version:</p><p>    this.dependency = new Dependency { SomeProperty = "Blah" };</p><p>you are in no worse a position if the property setter throws. The Dependency instance will never be disposed in either case.</p><p>Cheers,<br>Rich</p>

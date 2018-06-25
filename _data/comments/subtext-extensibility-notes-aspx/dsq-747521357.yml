@@ -1,0 +1,5 @@
+id: dsq-747521357
+date: 2007-07-04T00:10:58.0000000-07:00
+name: venjiang
+avatar: https://disqus.com/api/users/avatars/venjiang.jpg
+message: <p>I try imitate do with subtext plugins framework,<br>but "EventHandler&lt;SubtextEventArgs&gt; handler = Events[eventKey] as EventHandler&lt;SubtextEventArgs&gt;;"<br>"handler" is always null.<br>I try debug,it's display "Cannot convert implicitly EventHandler&lt;EntryEventArgs&gt; to EventHandler&lt;SubtextEventArgs&gt;",why?</p>

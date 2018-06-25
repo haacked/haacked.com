@@ -1,0 +1,5 @@
+id: dsq-747509452
+date: 2004-08-30T14:35:00.0000000-07:00
+name: Charles Miller
+avatar: https://disqus.com/api/users/avatars/Charles Miller.jpg
+message: <p>In XML, &lt;foo/&gt; is the equivalent of writing &lt;foo&gt;&lt;/foo&gt;<br><br><br><br>In HTML, which strictly should follow SGML rules, &lt;foo/&gt; is the equivalent of writing &lt;foo&gt;&amp;gt;. No browser actually parses HTML this way, but it's the rule regardless. You get tripped up if you start parsing HTML using something based on a real SGML parser, though, since people tend to stick those XHTML-like constructs around even when the whole rest of the document is vanilla HTML4.<br><br><br><br>So I guess the lesson is not to say HTML when you mean XML. :)</p>

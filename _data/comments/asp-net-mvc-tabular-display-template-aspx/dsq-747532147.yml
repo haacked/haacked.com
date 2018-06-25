@@ -1,0 +1,5 @@
+id: dsq-747532147
+date: 2011-05-25T04:19:03.0000000-07:00
+name: Maxime Rouiller
+avatar: https://disqus.com/api/users/avatars/Maxime Rouiller.jpg
+message: <p>I'm at the same point than Jake except that I'm displaying a generic IEnumerable and now I get "Late bound operations cannot be performed on types or methods for which ContainsGenericParameters is true."<br>I guess I'll have to change type.</p>

@@ -1,0 +1,5 @@
+id: dsq-747524531
+date: 2008-10-12T22:45:43.0000000-07:00
+name: Jerry
+avatar: https://disqus.com/api/users/avatars/Jerry.jpg
+message: <p>Hi hudo,<br>I am having the same problem as balaji and I have tried removing the default.aspx to no avail. I am trying to integrate this with an existing application.  When removing the routeDebug statement in the gobal.asax I get an error saying the request does not match any route.  When I run the route debugger as a stan alone applation and put the route I'm trying to debug in it works.<br>Please help.</p>

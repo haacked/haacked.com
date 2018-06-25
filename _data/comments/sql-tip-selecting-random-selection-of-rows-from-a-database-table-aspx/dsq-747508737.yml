@@ -1,0 +1,5 @@
+id: dsq-747508737
+date: 2004-06-22T01:13:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Nice idea Eric.  But how do you feel about yourself after collaborating with the devil like that? ;)<br><br><br><br>I imagine it depends how FETCH ABSOLUTE works?  Is it going to do some kind of iteration for each row you fetch or does it index the rows?<br><br><br><br>It sounds like this approach could be faster for small selection of random rows from a really large table, but not for large selections from a large table.<br><br><br><br>But then again, I'm merely speculating.  I'd want to measure, measure, measure.<br><br><br><br>Phil</p>

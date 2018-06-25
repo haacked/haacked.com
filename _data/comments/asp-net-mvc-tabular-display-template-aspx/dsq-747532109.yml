@@ -1,0 +1,5 @@
+id: dsq-747532109
+date: 2010-05-05T19:33:31.0000000-07:00
+name: Eric Hexter
+avatar: https://disqus.com/api/users/avatars/Eric Hexter.jpg
+message: <p>@haacked This is nice..  alot better than what this looked like in some of the mvc 2 betas.  So Combine this with your shared\display shared\edit and your golden. I think you have runtime scafolding done!.<br>@Raj - This has an advantage over the MvcContrib Grid in that the actual template does not have to be strongly typed.  The Grid works on the Generic type of the Model and cannot auto generate columns without being strongly types.. So this can support a generic implementation rather than having duplicate views to create the grid. I think this approach is great for a general table rendering. The MvcContrib Grid is for a scenerio when you want some very specific formating.</p>

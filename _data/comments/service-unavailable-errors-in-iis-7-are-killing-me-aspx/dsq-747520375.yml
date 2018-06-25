@@ -1,0 +1,5 @@
+id: dsq-747520375
+date: 2008-10-09T06:42:33.0000000-07:00
+name: Umesh
+avatar: https://disqus.com/api/users/avatars/Umesh.jpg
+message: <p>The issue I had completely mirrors this one<br>1. No worker process starting<br>2. No event log entries<br>3. No html even<br>...etc<br>The issue I had was port 80 was reserved for some other user and I had to delete the url reservation as <br>netsh<br>http<br>delete urlacl url="http:+:80"</p>

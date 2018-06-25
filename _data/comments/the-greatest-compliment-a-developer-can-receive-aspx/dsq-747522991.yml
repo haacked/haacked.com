@@ -1,0 +1,5 @@
+id: dsq-747522991
+date: 2007-10-07T14:58:16.0000000-07:00
+name: Jon Limjap
+avatar: https://disqus.com/api/users/avatars/Jon Limjap.jpg
+message: "<p>You're lucky Phil. Hehe. <br>The worst expletives that I've ever said about developers who left was when I found a whole system designed around a singleton that violated encapsulation and propagated circular dependencies within the whole system. Once I removed that singleton, I had to fix 700 compiler errors.<br>The bad part was, the singleton was implemented by the OOP guru who I considered my mentor. I knew it had to be a really really bad deadline run for him to make that kind of monumental, err... \"boo-boo\".<br>Other parts of a system have comments lamenting that \"Test-driven development\" has been replaced, unfortunately, with \"deadline-driven development\".<br>Lesson learned: even Einsteins become Morts when faced with a deadline.</p>"

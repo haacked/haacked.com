@@ -1,0 +1,5 @@
+id: dsq-747533137
+date: 2010-10-09T05:11:08.0000000-07:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>I'm wondering why a grid was released but is client side sorting and paging only ?  Quite honestly, you might as well push the MvcContrib grid instead as it offers much more.  This is a very weak control being released.<br>I suggest making sure when this goes live that these controls are rich, useful, and fully functional.<br>Otherwise, just punt to people in the community (also Telerik) create good controls.<br>Just waiting for a young dev to through this on the page with mvc/matrix and through a 1000 records at it without understanding the implications</p>

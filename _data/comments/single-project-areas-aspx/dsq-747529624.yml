@@ -1,0 +1,5 @@
+id: dsq-747529624
+date: 2009-07-31T04:12:00.0000000-07:00
+name: Pita.O
+avatar: https://disqus.com/api/users/avatars/Pita.O.jpg
+message: '<p>Phil,<br>What can I say?! Thank you, again. This is great news. Am not sure if anyone has thought about how these projects (areas) will manage security across their boundaries ... like session or authentication tokens: for instance, are areas also authorization boundaries, do user have to reauthenticate on crossing area boundaries, do child areas inherit token from the parent, etc. Is this configurable behavior? I like configurable.<br></p>'

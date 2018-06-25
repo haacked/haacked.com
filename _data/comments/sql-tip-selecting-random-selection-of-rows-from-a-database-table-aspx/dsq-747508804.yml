@@ -1,0 +1,5 @@
+id: dsq-747508804
+date: 2010-05-20T20:21:35.0000000-07:00
+name: David Morton
+avatar: https://disqus.com/api/users/avatars/David Morton.jpg
+message: <p>In my last post I left out the table @t<br>Declare @t table <br>(<br>RecNo int NOT NULL  PRIMARY KEY<br>)<br>That should answer that question.<br>Thanks</p>

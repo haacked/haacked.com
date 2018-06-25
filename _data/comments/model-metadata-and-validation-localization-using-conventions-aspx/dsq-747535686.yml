@@ -1,0 +1,5 @@
+id: dsq-747535686
+date: 2011-07-14T05:41:00.0000000-07:00
+name: Jonathan
+avatar: https://disqus.com/api/users/avatars/Jonathan.jpg
+message: <p>Very cool Phil. Couple requests:<br>- It would be nice if it looked for "Required" in the resource file and just used it it when a more specific translation wasn't provided. As it stands now you can end up with a message that is partially translated "The prénom field is required"<br>-The Pascal/Camel casing feature you mentioned should probably not make changes to all uppercase words (ie. SSN, ID, etc).</p>

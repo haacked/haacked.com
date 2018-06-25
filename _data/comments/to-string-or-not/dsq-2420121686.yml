@@ -1,0 +1,5 @@
+id: dsq-2420121686
+date: 2015-12-21T09:42:34.0000000-08:00
+name: Chris S.
+avatar: https://disqus.com/api/users/avatars/yetanotherchris.jpg
+message: "<p>R#er is responsible for a far worst crime: turning every type declaration in to a var, even ints. After some discussion we've settled on only using vars when the right side type makes it obvious (e.g not on method calls) and not for inbuilt types.</p><p>I definitely don't think it's picky as you spend 90% of your time reading code (to paraphrase Uncle Bob) so removing patterns you're not familiar with is important.</p>"

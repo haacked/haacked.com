@@ -1,0 +1,5 @@
+id: dsq-747527877
+date: 2009-01-30T04:39:10.0000000-08:00
+name: Ricky
+avatar: https://disqus.com/api/users/avatars/Ricky.jpg
+message: <p>Agreed with Chad Myers on the better way to write this code...<br>BUT, this JavaScript doesn't provide any security at all. All I have to put on my evil page is a 1 pixel iframe with a form that auto posts on load to that URL.<br>Isn't this the point of the Anti-Request Forgery token thingy you guys have in the framework or futures?</p>

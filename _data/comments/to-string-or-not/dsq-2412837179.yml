@@ -1,0 +1,5 @@
+id: dsq-2412837179
+date: 2015-12-16T09:49:25.0000000-08:00
+name: Matthew Jones
+avatar: https://disqus.com/api/users/avatars/mpjones28.jpg
+message: <p>I'm totally with you on this convention.  Now, though, I've noticed VS 2015 prompting me to convert String.Method calls to string.Method, which messes with my internal conventions.  Also interested to hear how to configure VS to stop doing this.</p>

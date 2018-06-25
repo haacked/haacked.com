@@ -1,0 +1,5 @@
+id: dsq-747509861
+date: 2005-05-08T09:01:00.0000000-07:00
+name: Sandy
+avatar: https://disqus.com/api/users/avatars/Sandy.jpg
+message: <p>another difference:<br><br>Srever.transfer stops the execution of the current page and starts the execution of the page that it transfers while response.redirect the current page is fully executed.</p>

@@ -1,0 +1,6 @@
+id: dsq-2754566245
+replyToId: dsq-2413469697
+date: 2016-06-28T03:09:50.0000000-07:00
+name: Nyerguds
+avatar: https://disqus.com/api/users/avatars/maartenmeuris.jpg
+message: <p>DateTime <i>is</i> actually a reference type, though, exactly like String. After all, It is more than just a single value; it contains a bunch of time zone related side objects besides the raw Ticks, and thus the actual value inside a DateTime variable is a <i>reference address</i> to said complex object, rather than containing the <i>actual value</i> of the thing itself.</p><p>You might want to look deeper into the concept of "immutable types". On a related note, being non-nullable is also unrelated to the reference/value thing.</p><p>Though I'd also turn down someone whose only explanation for defending his answer is the colour in the IDE ;)</p>

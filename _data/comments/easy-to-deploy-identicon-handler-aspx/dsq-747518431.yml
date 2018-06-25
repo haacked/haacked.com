@@ -1,0 +1,5 @@
+id: dsq-747518431
+date: 2007-01-26T14:25:56.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>The "hash" query string parameter ought to be a salted hash of the IP Address. When testing, cut and paste the URL into your address bar to see what error messages occur. <br>Make sure you don't have some sort of rewriting rule intercepting the request to the ashx page.</p>

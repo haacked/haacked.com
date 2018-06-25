@@ -1,0 +1,5 @@
+id: dsq-747537173
+date: 2011-12-13T13:34:34.0000000-08:00
+name: Christian Abilds&#248;
+avatar: https://disqus.com/api/users/avatars/Christian Abilds&#248;.jpg
+message: <p>I installed posh-git, but it seems to lag a couple of seconds for every prompt before it displays the branch name. There is also a noticeable delay (not as long) for the tab completion for git commands/branch names/etc. With the git bash this is instant. I already use Console 2, so I always have both shells readily available, but it would be nice to be able to do everything in one shell. Has anyone noticed this slowdown as well and know what it's caused by?</p>

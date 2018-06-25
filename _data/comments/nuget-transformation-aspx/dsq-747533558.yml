@@ -1,0 +1,5 @@
+id: dsq-747533558
+date: 2010-11-19T00:43:28.0000000-08:00
+name: Ryan
+avatar: https://disqus.com/api/users/avatars/Ryan.jpg
+message: <p>Any plans for project file transformations? I'm kicking around the idea of using nuget as a means of sharing our Code Analysis ruleset. The only missing piece is setting the ruleset in the project properties.</p>

@@ -1,0 +1,5 @@
+id: dsq-747532234
+date: 2012-02-23T15:34:53.0000000-08:00
+name: Frode
+avatar: https://disqus.com/api/users/avatars/Frode.jpg
+message: "<p>I've been using the AppInitialize technique lately and wanted to try out the PreApplicationStartMethod attribute. <br>My initialization code reads a custom config section and this failed with a ConfigurationErrorsException using PreApplicationStartMethod. <br>\"An error occurred creating the configuration section handler for testproject: This method cannot be called during the application's pre-start initialization stage. \".<br>Is there another attribute that can trigger my initalization code at a later moment? Like AppInitialize?</p>"

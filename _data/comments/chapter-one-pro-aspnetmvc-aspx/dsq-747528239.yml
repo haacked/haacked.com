@@ -1,0 +1,5 @@
+id: dsq-747528239
+date: 2009-03-10T05:20:32.0000000-07:00
+name: Sarvesh
+avatar: https://disqus.com/api/users/avatars/Sarvesh.jpg
+message: <p>I read the sample chapter. One of the biggest issues that I had with <a href="http://ASP.net" rel="nofollow noopener" title="ASP.net">ASP.net</a> is deployment. It is still such a pain to move your development to production. You got create setup projects for database, your web application (for this one you need to separate projects in case you don't want to deploy your code). It would have been niceer to show the deployment process but I am not certain if that has improved with the MVC framework.</p>

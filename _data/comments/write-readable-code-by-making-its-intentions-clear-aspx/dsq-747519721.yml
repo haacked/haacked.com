@@ -1,0 +1,5 @@
+id: dsq-747519721
+date: 2007-04-19T15:28:23.0000000-07:00
+name: Damien Guard
+avatar: https://disqus.com/api/users/avatars/Damien Guard.jpg
+message: "<p>I find the conditional operator an improvement in readability.<br>x = (a == b) ? 9 : 11;<br>Which screams \"we will be assigning a value to x conditionally.\"  If you're not interested in how x is assigned your eyes can scan to the next line of code.<br>Other developers I've met prefer the following:<br>if (a == b)<br>  x = 9;<br>else<br>  x = 11;<br>Which puts the condition first and means you have to read through all lines to be confident of the what this will do.  It also has the redundancy of having 'x' twice which means should the second assignment be a different variable you're left wondering if this is intentional.<br>[)amien</p>"

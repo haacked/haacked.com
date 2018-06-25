@@ -1,0 +1,5 @@
+id: dsq-747517796
+date: 2006-11-27T01:23:39.0000000-08:00
+name: Dave Frank
+avatar: https://disqus.com/api/users/avatars/Dave Frank.jpg
+message: "<p>You're using AddAttributesToRender but yet you say \"properties are not rendered in the HTML as attributes\"<br>So I'm confused what the difference is between this and regular attributes - <br>Wouldn't you still be able to use this code on the client-side:<br>var expando = document.getElementById('expando');<br>alert('Content editable: ' + expando.contenteditable);<br>if you added the attribute with<br>expando.Attributes.Add(\"contenteditable\",\"true\")<br>(expando is your label label)<br>?<br></p>"

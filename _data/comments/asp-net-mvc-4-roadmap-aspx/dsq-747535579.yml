@@ -1,0 +1,5 @@
+id: dsq-747535579
+date: 2011-07-13T10:39:57.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Phillip we're making a lot of core improvements as well. But not major changes other than the potential REST changes as part of the investigation we're doing with the WCF Web API folks.<br>Is there something in particular you think we're missing?</p>

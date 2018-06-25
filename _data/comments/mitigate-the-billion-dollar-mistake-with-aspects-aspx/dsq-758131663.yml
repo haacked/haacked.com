@@ -1,0 +1,6 @@
+id: dsq-758131663
+replyToId: dsq-757670197
+date: 2013-01-06T13:54:37.0000000-08:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>Can IoC handle cases if the code is later mutated to null. I really think that null state needs to be handled when the state is being changed as opposed to compile, or init time.</p>

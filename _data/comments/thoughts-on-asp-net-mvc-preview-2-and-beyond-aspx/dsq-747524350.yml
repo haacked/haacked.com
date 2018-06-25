@@ -1,0 +1,5 @@
+id: dsq-747524350
+date: 2008-03-10T15:40:33.0000000-07:00
+name: Andy
+avatar: https://disqus.com/api/users/avatars/Andy.jpg
+message: <p>Re the RTM question. Where is the link to the latest license? The last one mentioned no ecommerce sites or something along those lines. In general, as the MVC pattern is pretty tried and tested I am hoping that an RTM can be soon (early Q3 would be amazing). I'd even perhaps like to see the Routing, Controllers, Filters and Views released. And HtmlHelpers could even again be part of Extensions/Toolkit - though I certainly like their current strongly typed format, with Lambdas. Because there could be calls for the HtmlHelpers to be refactored or the markup tweeked for some time.</p>

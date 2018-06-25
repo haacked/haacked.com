@@ -1,0 +1,5 @@
+id: dsq-747526733
+date: 2011-02-10T12:18:17.0000000-08:00
+name: Jekke
+avatar: https://disqus.com/api/users/avatars/Jekke.jpg
+message: <p>This works well with MVC 2. With MVC 3, you need to add a half-dozen more files to your "copy local" list including some that aren't in the references for the default project. If you walk through the "file not found" exceptions, it's pretty straightforward which ones you need.</p>

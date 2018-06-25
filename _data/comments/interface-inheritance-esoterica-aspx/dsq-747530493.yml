@@ -1,0 +1,5 @@
+id: dsq-747530493
+date: 2010-10-30T12:30:42.0000000-07:00
+name: Rick Spence
+avatar: https://disqus.com/api/users/avatars/Rick Spence.jpg
+message: <p>Hello,<br>I found this on the web today searching for interface inheritance. This was new to be as well I think I see why it's that way. Doesn't it solve the diamond problem of C++? If you had INormalHero inherit from IPerson, and then have a class called BothHeroes implement both ISuperHero and iNormalHero, how many of the name properties do you expect?<br>Obviously this is by design but it does mean you can't have different implementations of any parent interface method so that if I declare:<br>  ISuperHero  superHero  = new BothHeroes()<br>  INormalHero normalHero = new Bothheroes();<br>both objects use the same name property?<br>Best<br></p>

@@ -1,0 +1,6 @@
+id: dsq-3782443334
+replyToId: dsq-747514107
+date: 2018-03-01T12:10:27.0000000-08:00
+name: Dartania
+avatar: https://disqus.com/api/users/avatars/dartania.jpg
+message: <p>Meanwhile too much space between code gives me headaches.  And curly brackets on their own lines make the code block look unrelated to the method identifier or if statement or whatever else it is.  In short, they make code look really messy.</p><p>And I don't like tabs for interpreted code, because it often gets viewed in multiple ways (View Source, Notepad, Notepad++, IDE, etc), and for some reason even Notepad++ can sometimes get set to 8-space tabs.  Notepad is always set to that.  CodeWars is set to 2-space tabs.  And the browser View Source often sets it to this ridiculous 16-space tabs.  So if you use normal spaces, you can always be sure that your code lines up the same way (unless some noob views it in non-monospace, but you can't prepare for everyone).  But you can still navigate or modify by groups of four (or whatever spacing it's set to), by clicking tab and shift-tab.</p><p>Not saying you're wrong to do those things.  They work for you.  But you're wrong to say the other way is evil.  Because your way doesn't work for everyone.</p>

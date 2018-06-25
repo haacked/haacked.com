@@ -1,0 +1,5 @@
+id: dsq-1241128565
+date: 2014-02-12T06:48:22.0000000-08:00
+name: Taurin
+avatar: https://disqus.com/api/users/avatars/Taurin.jpg
+message: <p>I just wanted you to know that the bit about setting a hidden index field saved me a ton of headache on my project.  There were several times that my indices couldn't be sequential (for one reason or another) and it would CONSTANTLY break the form submission for one reason or another.  This simple fix takes that problem away entirely.  Thanks a lot!</p>

@@ -1,0 +1,5 @@
+id: dsq-747524915
+date: 2008-04-19T19:56:13.0000000-07:00
+name: Will Perry
+avatar: https://disqus.com/api/users/avatars/Will Perry.jpg
+message: <p>XML is fine and dandy, but the tooling is so backward. We need the full support for code completion, intellisense and refactoring that is available in General Purpose Languages. XML is powerful, precisely for the reasons that Micheal D points out - we do need designers, but we also need it to be readable, testable and generateable (i think that may be a new word), XML is a good solution when you need to solve all those problems simultaneously.<br>And lets not forget, a lot of the emphasis on configuration is around how Sys Admins can deploy code. XML is a familiar tool to this group of people, but perhaps powershell style start-up scripts could offer a higher level of customization and understandability without adding to the workload of administrators</p>

@@ -1,0 +1,5 @@
+id: dsq-747538521
+date: 2012-10-23T14:23:04.0000000-07:00
+name: Phil Patterson
+avatar: https://disqus.com/api/users/avatars/Phil Patterson.jpg
+message: <p>So if I wanted to go about implementing a client that can access the NuGet repository from a .NET 3.5 machine only, what would be the correct way to try to get this accomplished? Is it as easy as creating a work item in Codeplex, forking the repository on Github, and submitting a pull request when/if we the community can get it working (assuming I'm not the only person that wants/needs this functionality)? <br>The only way I see to do this today is to download from a machine with visual studio 2010 and .NET 4 and to move the retrieved dlls to the machine in question.</p>

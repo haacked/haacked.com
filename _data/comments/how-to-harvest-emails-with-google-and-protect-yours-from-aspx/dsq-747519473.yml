@@ -1,0 +1,5 @@
+id: dsq-747519473
+date: 2007-04-03T03:21:34.0000000-07:00
+name: Ryan Smith
+avatar: https://disqus.com/api/users/avatars/Ryan Smith.jpg
+message: <p>I doubt there is any way to keep your email address from getting into the hands of spammers if you advertise it on the internet.  Even if you don't, it still manages to leak out into the open.<br>I personally feel the best way to handle the spam issue is to never release your primary email on the internet, use server side contact forms on your website, and use temporary emails for everything else you need an address for.<br>Even then your still going to have problems.  I got the joy yesterday of waking up to a spammer that had figured out how to hack a contact form on a customers site.  The form (which I didn't build) validated the email address, but not the name field.  They were creating post responses using the name field to do bounce back attacks to all sorts of unfortunate souls.<br>SPAMMERS MUST ALL PERISH!</p>

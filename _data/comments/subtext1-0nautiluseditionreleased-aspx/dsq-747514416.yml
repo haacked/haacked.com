@@ -1,0 +1,5 @@
+id: dsq-747514416
+date: 2006-03-02T03:50:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>If you've deployed an interim build of Subtext, then deploying the new build is a bit tricky as there may have been schema changes.<br><br><br><br>My recommendation is to use SQL Compare to compare the schemas.<br><br><br><br>If you are still runing .TEXT, then simply install Subtext following the installation guide.  You'll get to the point where you can select your .TEXT database to import from.</p>

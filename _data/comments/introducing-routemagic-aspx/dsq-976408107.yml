@@ -1,0 +1,6 @@
+id: dsq-976408107
+replyToId: dsq-975715278
+date: 2013-07-25T14:33:22.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>The point of routing is to _route_ the request to a controller action. My guess is that you don't have different controllers and actions for the theme. So for the most part, routing is not really involved.</p><p>In theory, you could have a custom route that always returns null (indicating it did not match the request) that you make sure is 1st in the route collection. It could look at the subdomain, lookup the theme, and then add the theme value to the route data so it could be passed in as a parameter to any action. But that's not the only way to handle it.</p>

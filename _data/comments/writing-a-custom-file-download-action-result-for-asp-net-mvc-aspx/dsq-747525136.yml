@@ -1,0 +1,5 @@
+id: dsq-747525136
+date: 2008-05-10T17:11:26.0000000-07:00
+name: Lamin Barrow
+avatar: https://disqus.com/api/users/avatars/Lamin Barrow.jpg
+message: <p>Hi Phil,<br>I know it is typical to write a different public controller method for each view you want to render. I have noticed you have hard coded the the DownloadResult properties in your ActionResult method and i have been wondering ... do i have to write a separate render method to handle lets say two file download links on my page using your approach?</p>

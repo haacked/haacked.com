@@ -1,0 +1,5 @@
+id: dsq-747524802
+date: 2008-04-11T00:34:48.0000000-07:00
+name: Shawn Oster
+avatar: https://disqus.com/api/users/avatars/shawnoster.jpg
+message: <p>I agree with others here, test in a seperate assembly project.  I do it mostly for cleanliness and keeping references down in the main project, plus it really makes me think about my external API, my future-self and other developers will also be using my objects "from the outside" so I want to test from the outside.<br>Also, TDD isn't *just* about testing, it's about using your framework before it's built to help you hammer out real-life usages, naming conventions and object interactions.  It's about getting a feel for how others will interact with your classes and testing from the inside blurs that line.</p>

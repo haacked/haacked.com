@@ -1,0 +1,5 @@
+id: dsq-747524287
+date: 2008-03-03T22:53:45.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>When I was a consultant, I've experienced clients who were using a key third party library for which the author went out of business and they didn't have the source code.<br>I think readers of my blog don't realize that they are in the cream of the crop when it comes to source code management etc... ;)  To them, breaking is fine.<br>But I would contend that to the vast majority of clients out there, breaking changes is a big problem. I could be wrong. But please consider that so could you.</p>

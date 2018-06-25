@@ -1,0 +1,5 @@
+id: dsq-1554165834
+date: 2014-08-22T02:38:13.0000000-07:00
+name: meglio
+avatar: https://disqus.com/api/users/avatars/meglio.jpg
+message: <p>Now compare to routing in dynamic languages (e.g. PHP):</p><p>route('GET|POST /dashboard', 'some\namespace\Class::method');</p><p>Intuitive, learnable, discoverable, short, easy to read.</p>

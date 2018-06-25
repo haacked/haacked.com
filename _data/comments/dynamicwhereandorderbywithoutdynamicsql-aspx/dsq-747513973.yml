@@ -1,0 +1,5 @@
+id: dsq-747513973
+date: 2011-06-07T09:40:18.0000000-07:00
+name: Read More
+avatar: https://disqus.com/api/users/avatars/Read More.jpg
+message: <p>Thanks to Jon for the link he posted.  It was an excellent source of many, many, many, and many more approaches to dynamic WHERE and ORDER BY queries. LOL  I also have had problems with the full table scans.  Am I doing something wrong or should I just stick with index scans?  Thanks for all the help guys!<br>- Reid Moore</p>

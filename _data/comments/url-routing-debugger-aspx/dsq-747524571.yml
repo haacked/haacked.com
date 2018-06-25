@@ -1,0 +1,5 @@
+id: dsq-747524571
+date: 2011-04-05T03:54:21.0000000-07:00
+name: David Evans
+avatar: https://disqus.com/api/users/avatars/David Evans.jpg
+message: <p>Thank you. This saved me some real time figuring out how my routes were screwed up. They worked fine in VS but then running under mono 2.6.4 on linux were less permissive, and your tool pointed out clearly what was different.</p>

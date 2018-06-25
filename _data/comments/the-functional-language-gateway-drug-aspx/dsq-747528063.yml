@@ -1,0 +1,5 @@
+id: dsq-747528063
+date: 2009-02-15T21:15:32.0000000-08:00
+name: Craig Lebowitz
+avatar: https://disqus.com/api/users/avatars/Craig Lebowitz.jpg
+message: '<p>Having cut my teeth on Scheme I am also a fan of the functional approach and Linq.  <br>For this function, I was thinking a recursive approach could work nicely.  Just keep suffixing with "-again" or incrementing numbers <br>e.g.<br>void Main()<br>{<br>var existingSlugs = new List&lt;string&gt; <br>{ <br>"i-was-haacked", <br>"i-was-haacked-again" <br>};<br>Func&lt;string, bool&gt; isUniqueSlug = (slug) =&gt; !existingSlugs.Contains(slug);<br><br>existingSlugs.Add(GetUniqueSlug(isUniqueSlug,  "i-was-haacked")); <br>Console.WriteLine(GetUniqueSlug(isUniqueSlug,  "i-was-haacked"));<br>}<br>string GetUniqueSlug(Func&lt;string, bool&gt; isUnique, string slug)<br>{<br>return (!isUnique(slug)) <br>? GetUniqueSlug(isUnique, slug += "-again")<br>: slug.ToString();<br>}<br>Thanks for the great blog, Phil and MVC rocks</p>'

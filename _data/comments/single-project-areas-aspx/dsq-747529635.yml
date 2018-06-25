@@ -1,0 +1,5 @@
+id: dsq-747529635
+date: 2010-10-17T04:02:46.0000000-07:00
+name: Rodrigo Caballero
+avatar: https://disqus.com/api/users/avatars/Rodrigo Caballero.jpg
+message: <p>Hi Phil, I tried to make work the multiproject areas from msdn at<br><a href="http://msdn.microsoft.com/en-us/library/ee307987%28VS.100%29.aspx" rel="nofollow noopener" title="http://msdn.microsoft.com/en-us/library/ee307987%28VS.100%29.aspx">msdn.microsoft.com/.../ee307987%28VS.100%29.aspx</a><br>and after one hour of searching why it wasn't working I realized that multiple project areas are no longer supported on the official ASP.NET MVC 2 release.<br>Can you tell me why it is not supported? and, Are there any way or guide to make a more robust architecture based on MVC?<br>regards<br></p>

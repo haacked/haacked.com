@@ -1,0 +1,5 @@
+id: dsq-747535704
+date: 2011-07-25T21:51:53.0000000-07:00
+name: Andrej Slivko
+avatar: https://disqus.com/api/users/avatars/Andrej Slivko.jpg
+message: <p>Is there any reasons why extension method <br>public static DisplayAttribute Copy(this DisplayAttribute attribute) doesn't copy all DisplayAttribute? <br>Like AutoGenerateField, AutoGenerateFilter, Prompt, Order?<br>Or it is just because this is not real thing but just prof of concept?</p>

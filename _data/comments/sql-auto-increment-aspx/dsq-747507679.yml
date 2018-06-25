@@ -1,0 +1,5 @@
+id: dsq-747507679
+date: 2010-03-25T15:42:01.0000000-07:00
+name: nathanael
+avatar: https://disqus.com/api/users/avatars/nathanael.jpg
+message: <p>--Here is the answer of you question.<br>declare @tbl table<br>(<br>uniquecolumn int<br>);<br>Insert into @tbl values (10)<br>Insert into @tbl values (11)<br>Insert into @tbl values (12)<br>Insert into @tbl values (13)<br>Insert into @tbl values (14)<br>Insert into @tbl values (15)<br>Insert into @tbl values (16)<br>Insert into @tbl values (17)<br>Insert into @tbl values (18)<br>Insert into @tbl values (19)<br>Insert into @tbl values (20)<br>Insert into @tbl values (21)<br>select * from  @tbl<br>declare @counter int<br>set @counter=0<br>Update @tbl<br>set @counter  = @Counter + 1,<br>uniquecolumn=@counter<br><br>select * from  @tbl<br></p>

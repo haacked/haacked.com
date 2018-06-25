@@ -1,0 +1,5 @@
+id: dsq-747529969
+date: 2009-09-06T14:12:00.0000000-07:00
+name: EricTN
+avatar: https://disqus.com/api/users/avatars/EricTN.jpg
+message: <p>I'm pretty sure an attempt to enforce good design principles on programmers by keeping a language pure and avoiding throwing in various swiss army knife tools is doomed to failure.  Let's not underestimate the power folks that might be in the wrong profession can have on a code base if not properly managed by standards and a somewhat iron fist.  I'm attempting to clean up a large complex app that uses mainly rudimentary aspects of the language that has been sabotaged into near oblivion simply because Control-C Copy and Control-V Paste exist.</p>

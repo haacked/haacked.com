@@ -1,0 +1,5 @@
+id: dsq-2820158408
+date: 2016-08-04T01:20:13.0000000-07:00
+name: Benjamin E.
+avatar: https://disqus.com/api/users/avatars/Benjamin E..jpg
+message: <p>Greateful for the post, however, how will the input values be passed to the model in controller to be save. in my case the model has one property that i wish to accept the inputs but to store them individually to the model.</p>

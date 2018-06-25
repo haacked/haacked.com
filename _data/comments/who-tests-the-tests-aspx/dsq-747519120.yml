@@ -1,0 +1,5 @@
+id: dsq-747519120
+date: 2007-03-12T08:16:04.0000000-07:00
+name: Rob Conery
+avatar: https://disqus.com/api/users/avatars/Rob Conery.jpg
+message: <p>It's asymptotic - the more tests you write, the better chances of catching and limiting bugs. I don't think you can triangulate this kind of thing since you'll never have a datum - a complete reference that you can base your other assumptions on (no North-going Zax to counter your South-bound one).<br>The best you can do, IMHO, is to mix your tests up with your leftover spam n' eggs, throw them at the bottom of your life raft, and hope they fill as many holes as possible before you sink under the weight of ridiculous analogies.</p>

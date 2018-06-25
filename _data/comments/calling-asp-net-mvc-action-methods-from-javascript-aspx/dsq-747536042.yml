@@ -1,0 +1,5 @@
+id: dsq-747536042
+date: 2011-09-08T19:10:53.0000000-07:00
+name: Jess Chadwick
+avatar: https://disqus.com/api/users/avatars/Jess Chadwick.jpg
+message: "<p>This is super awesome, and definitely something I'd like to see in MVC 4.  The need for this kind of thing is too great, as shown by the fact that I keep seeing the concept of \"getActionUrl(actionName)\" implemented all too often... always relying on the default \"controller/action/id\" route and never taking server routing rules into consideration.<br>One thing, though, if this were to make it into the framework: attribute or config setting (ala WCF JSON proxies), not a base class...</p>"

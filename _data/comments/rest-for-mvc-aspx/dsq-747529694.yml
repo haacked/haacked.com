@@ -1,0 +1,5 @@
+id: dsq-747529694
+date: 2009-08-23T03:42:00.0000000-07:00
+name: Piers Lawson
+avatar: https://disqus.com/api/users/avatars/Piers Lawson.jpg
+message: <p>Yes, that would work. However, it doesn't move me much forward from my current solution... I'd still have to write the custom format handlers. I would be happy to do that if you addressed the other issues I raised:<br>1) Should be possible to override the Method using a querystring parameter<br>2) Method override using a form variable (and querystring if 1 is implemented) should not be restricted to browser clients only<br>3) Format override should not be restricted to browser clients only<br>4) some commitment to the future of this functionality... will it be built into the full ASP.Net MVC release or formally supportted in some other way.<br>If I get time, I will write another blog entry that uses your framework.</p>

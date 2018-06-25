@@ -1,0 +1,5 @@
+id: dsq-747511325
+date: 2007-01-20T02:12:26.0000000-08:00
+name: fortyseventeen
+avatar: https://disqus.com/api/users/avatars/fortyseventeen.jpg
+message: "<p>It's true that properties and public fields have identical syntax when used, and that fields have less overhead, but there is one difference between the two formats that may be of importance: if you start to implement a class with public fields and later decide to use properties instead, you'll have to recompile everything that relies on that class.  It's probably a minor issue in most cases, but can still cause problems in some cases, such as when working with precompiled libraries.<br>I think, then, that the issue isn't about preserving encapsulation (since, functionally, there isn't any), but about preserving compatibility between object files.  If that isn't an issue, than it's fine to use the cheaper solution.<br>P.S. It's more commonly called UpperCamelCase.</p>"

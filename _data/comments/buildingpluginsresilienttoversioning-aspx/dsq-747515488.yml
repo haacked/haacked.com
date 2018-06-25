@@ -1,0 +1,5 @@
+id: dsq-747515488
+date: 2006-06-26T19:41:00.0000000-07:00
+name: Dimitri Glazkov
+avatar: https://disqus.com/api/users/avatars/Dimitri Glazkov.jpg
+message: "<p>I think the problem starts when it's assumed that there will be only one interface (i.e. IPlugin)<br>Interfaces, as immutable as they are offer another important advantage: they are declarative. By looking at the interfaces the class implements, you can figure out what the plug in does. Which means, in turn, that the host can decide whether to involve a plugin in processing of a request or not. <br>Allow me to illustrate. Suppose you have hooks for: a) rich-text editor plugin, b) comment spam filtering plugin in your app.<br>These are exposed by IRichTextPlugin and ISpamFilterPlugin interfaces. By looking at the signature, I can decide whether to initialize and hook up the plugin for any specific request. If I have 10 plugins installed, why do I need to treat them as black boxes and initialize them for each request?<br>So, these are my thoughts.</p>"

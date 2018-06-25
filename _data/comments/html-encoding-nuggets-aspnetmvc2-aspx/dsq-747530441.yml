@@ -1,0 +1,5 @@
+id: dsq-747530441
+date: 2010-05-07T20:15:17.0000000-07:00
+name: Craig
+avatar: https://disqus.com/api/users/avatars/Craig.jpg
+message: <p>Ya know, this is all great and all but let's be practical.  If the purpose of MVC was/is to simplify programming for rapid development then why is it that you have to do SOOO much more?  All I want to do is submit a form that may have HTML in it.  Yes, I want to be protected from script injections.  I got to your article (after doing a google search) because of this problem.  Unfortunately, the article did nothing for my resolution.</p>

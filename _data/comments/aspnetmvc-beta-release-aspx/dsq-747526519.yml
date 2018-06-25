@@ -1,0 +1,5 @@
+id: dsq-747526519
+date: 2008-10-18T01:08:49.0000000-07:00
+name: BenB
+avatar: https://disqus.com/api/users/avatars/BenB.jpg
+message: '<p>Phil,<br>I have a question with regards to the beta and have encoded values in the path. Specifically "Illegal characters in path" is shown in an url for a route that may be something like: <a href="http://localhost:51223/search/%22tomato%20paste%22" rel="nofollow noopener" title="http://localhost:51223/search/%22tomato%20paste%22">http://localhost:51223/search/%22tomato%20paste%22</a> <br>Taking off the %22 and leaving the %20 works just fine, but for whatever reason the %22 (I have not tested all other encoded vals) causes the error above. Is this an issue with the beta? I have searched the forums and issue tracker to no avail.<br>Thanks,<br>Ben</p>'

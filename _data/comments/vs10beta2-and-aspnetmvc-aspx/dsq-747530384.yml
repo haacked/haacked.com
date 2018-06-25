@@ -1,0 +1,5 @@
+id: dsq-747530384
+date: 2009-10-20T14:53:00.0000000-07:00
+name: anton
+avatar: https://disqus.com/api/users/avatars/anton.jpg
+message: <p>Got this error when firing a spanking new installation of VS10!<br>The type or namespace name 'Mvc' does not exist in the namespace 'System.Web' (are you missing an assembly reference?)C:\Users\Anton\Desktop\MvcApplication1\MvcApplication1\Controllers\HomeController.cs518MvcApplication1<br>Where do i find the correct references?</p>

@@ -1,0 +1,5 @@
+id: dsq-747532120
+date: 2010-05-05T23:23:41.0000000-07:00
+name: Bikal Gurung
+avatar: https://disqus.com/api/users/avatars/Bikal Gurung.jpg
+message: <p>Phil,<br>Helpful article but shouldn't the 'ShouldShow()' method be refactored into a Helper class as a - maybe - an extension method of IQueryable&lt;&gt; ? So that we remove the tag soup and promote better readability, testability and maintainability of the MVC codebase?<br>Bikal</p>

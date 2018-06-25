@@ -1,0 +1,5 @@
+id: dsq-747523386
+date: 2007-11-15T17:51:01.0000000-08:00
+name: Santiago
+avatar: https://disqus.com/api/users/avatars/Santiago.jpg
+message: <p>You may want to take a look at Spec# maybe, which is an attempt to automatically prove code correctness by adding invariants, pre and post conditions (which *are* an unambiguous spec much simpler than code itself). <br>However, it doesn't prove the whole correctness of the code, just the properties you specify that you want to check. The more annotations you add to the code, the more properties the automatic demonstrator can assure.<br><a href="http://research.microsoft.com/specsharp/" rel="nofollow noopener" title="http://research.microsoft.com/specsharp/">http://research.microsoft.c...</a><br>There is a similar attempt for C also, but I have never tried it.</p>

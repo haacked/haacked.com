@@ -1,0 +1,5 @@
+id: dsq-757652127
+date: 2013-01-06T01:39:08.0000000-08:00
+name: Danny Tuppeny
+avatar: https://disqus.com/api/users/avatars/Danny Tuppeny.jpg
+message: <p>I believe you've overlooked a feature of Code Contracts; it can infer where things should be not null based on your code accessing instance methods/properties :-) </p>

@@ -1,0 +1,5 @@
+id: dsq-747528699
+date: 2010-01-22T00:18:45.0000000-08:00
+name: Michael Ceranski
+avatar: https://disqus.com/api/users/avatars/Michael Ceranski.jpg
+message: <p>My initial impression of jqGrid was WOW. I actually started using it in a application that I was developing until I realized that I was doing too much work to make it perform tasks that should be rather simple. IMHO, there is still no replacement for good ol' HTML tables customized with a little jQuery and/or Ajax. <br>Just from reading the comments, it seems like people are having problems making jqGrid work. From personal experience the documentation for jgGrid is sparse and not very well done. <br>If it helps anyone, I also wrote an article about using jqGrid with MVC on my blog <a href="http://www.codecapers.com/post/using-jqgrid-with-aspnet-mvc.aspx" rel="nofollow noopener" title="http://www.codecapers.com/post/using-jqgrid-with-aspnet-mvc.aspx">Using jqGrid with asp.net MVC</a>.</p>

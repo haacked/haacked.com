@@ -1,0 +1,5 @@
+id: dsq-747511440
+date: 2010-09-24T15:32:32.0000000-07:00
+name: Luggruff
+avatar: https://disqus.com/api/users/avatars/Luggruff.jpg
+message: "<p>Hey, a bit late perhaps.. but I can without a doubt say I've got the most simple solution:<br>.yourdoublebgimage{<br>background-image: url('twobgright.png'), url('twobgleft.png');<br>background-repeat: repeat-y, repeat-y;<br>background-position: left, right;<br>}<br>..you simply seperate the images by a comma, and on the second and third attributes (repeat and position), you seperate by comma accordingly to wich background image you've written first. A third, centered image, does work, though if repeated, it will cover the one on the right (didn't find a solution to this.. then you may just have to nest it)</p>"

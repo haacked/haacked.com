@@ -1,0 +1,5 @@
+id: dsq-747526534
+date: 2008-10-23T13:17:52.0000000-07:00
+name: Gauthier Segay
+avatar: https://disqus.com/api/users/avatars/Gauthier Segay.jpg
+message: <p>Does the hidden index field is mandatory?<br>As said by Russel Garner, MonoRail implementation is similar but doesn't need that hint, it doesn't feel usefull to put hidden index fields in the view.<br>Also, will the default binder work on composite types containing arrays/lists? I've a similar use case in MonoRail where I bind array of DTO themselves containing array of enumeration values or integral values, it seems the MonoRail binder can work with any level of deepness, but I'm unsure with ASP.NET MVC's DefaultModelBinder (especially if the hidden index thing is mandatory).<br>I guess I've to try it out :)<br>Last thing, is there anything in the HTTP &amp; HTML spec that ensure  that form values would be sent in the same order as displayed in HTML? I'm just worried that there could be issues with proxy or exotic browser settings...</p>

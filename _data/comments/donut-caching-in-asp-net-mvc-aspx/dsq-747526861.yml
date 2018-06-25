@@ -1,0 +1,5 @@
+id: dsq-747526861
+date: 2008-11-06T17:24:09.0000000-08:00
+name: Torkel &#214;degaard
+avatar: https://disqus.com/api/users/avatars/Torkel &#214;degaard.jpg
+message: <p>I am also missing how this solves the real problem. This only caches the view generation, which is in most cases pretty cheap, what one wants to cache is part of the view &amp; including the controller action logic that is responsible for the viewdata for that part of the view.<br>I think the real solution for donate caching in an MVC app is subcontrollers and actions, where the complete action and rendering of that sub-action can be cached.</p>

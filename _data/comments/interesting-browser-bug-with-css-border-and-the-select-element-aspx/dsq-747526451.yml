@@ -1,0 +1,5 @@
+id: dsq-747526451
+date: 2008-10-14T05:10:08.0000000-07:00
+name: Chris Ammerman
+avatar: https://disqus.com/api/users/avatars/Chris Ammerman.jpg
+message: <p>As maudite noted, though not explicitly, your select tag isn't being closed.  You just have a second open tag.  That might be the source of the problem.</p>

@@ -1,0 +1,5 @@
+id: dsq-747513424
+date: 2007-12-09T09:14:37.0000000-08:00
+name: Simon
+avatar: https://disqus.com/api/users/avatars/Simon.jpg
+message: <p>Nice idea, it's a shame Microsoft didn't add something like this because from my experience the dispose pattern is among the most commonly misunderstood concepts for new .NET developers.<br>BTW, I think you made a typo in your steps. The last three steps should be:<br></p><blockquote><br>    * if disposing<br>          - release <u><strong>managed</strong></u> resources<br>          - Suppress finalization<br></blockquote><p><br></p>

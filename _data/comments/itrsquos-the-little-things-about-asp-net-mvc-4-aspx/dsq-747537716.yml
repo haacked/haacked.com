@@ -1,0 +1,5 @@
+id: dsq-747537716
+date: 2012-07-22T11:57:53.0000000-07:00
+name: gustyn
+avatar: https://disqus.com/api/users/avatars/gustyn.jpg
+message: <p>In VS2012 RC, I am noticing a problem with Intellisense recognizing ServiceResolver.  I am using Ninject as my dependency resolver.  It first came to light with Resharper 7 giving a cannot resolve symbol error for ServiceResolver in NinjectWebCommon:<br>public static void Start() <br>        {<br>            DynamicModuleUtility.RegisterModule(typeof(OnePerRequestHttpModule));<br>            DynamicModuleUtility.RegisterModule(typeof(NinjectHttpModule));<br>            Bootstrapper.Initialize(CreateKernel);<br>            GlobalConfiguration.Configuration.ServiceResolver<br>             .SetResolver(DependencyResolver.Current.ToServiceResolver());<br>        }<br>Intellisense does not disply it either neither in the Object Explorer.  It was fine in this project in VS2010.  <br>What am I missing?  It has to be an obvious thing.</p>

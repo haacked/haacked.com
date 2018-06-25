@@ -1,0 +1,5 @@
+id: dsq-747512208
+date: 2011-07-20T23:01:21.0000000-07:00
+name: Matthew
+avatar: https://disqus.com/api/users/avatars/Matthew.jpg
+message: <p>Okay I figured it out. To get your query params you need to do something like this:<br>HttpContext.Current.RewritePath(@"/", "Test.aspx", query);<br>Thanks again for the article!</p>

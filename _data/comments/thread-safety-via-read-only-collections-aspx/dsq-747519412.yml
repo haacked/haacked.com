@@ -1,0 +1,5 @@
+id: dsq-747519412
+date: 2007-03-25T22:12:34.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Alski - That's a good question. I actually have a follow-on blog post to address that topic.<br>Adding a US state happens so rarely, that if it did happen, I think it's fine to restart the application in order to reload that collection. In fact, since most of my focus is on web apps, that's not such a big deal.<br>As for creating "restrictions", it's a matter of perspective. I don't see this as restricting other developers. I see it as signalling my <em>intent</em>.<br>The fact that there's no Add method lets other devs know that I didn't intend for this collection to be added to and doing so could cause unforeseen problems.<br>Another example is using the ref keyword in a method when you mean out.  In the IL, they're the same, but in C# they signal slightly different intents, which is useful to know when reading the code.</p>

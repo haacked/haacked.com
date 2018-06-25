@@ -1,0 +1,5 @@
+id: dsq-747510167
+date: 2005-05-26T01:41:00.0000000-07:00
+name: Mark Fletcher
+avatar: https://disqus.com/api/users/avatars/Mark Fletcher.jpg
+message: <p>Hi,<br><br><br><br>Good article! I was wondering if anyone can recommend a strategy for parsing HTML for a web spider? I want it to be able to match links, and find links in javascript. So far Ive been using one expression to extract the links. However with javascript code embedded in a file, I think Id be better off running two passes -<br><br><br><br>1) Grab the links in tags<br><br>2) Make a pass for anything in javascript tags<br><br><br><br>What do you think?<br><br></p>

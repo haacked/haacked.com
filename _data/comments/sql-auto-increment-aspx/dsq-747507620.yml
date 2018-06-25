@@ -1,0 +1,5 @@
+id: dsq-747507620
+date: 2006-04-05T16:25:00.0000000-07:00
+name: Jon
+avatar: https://disqus.com/api/users/avatars/Jon.jpg
+message: <p>Any way of doing this as part of an insert statement? The following doesn't work:<br>DECLARE @counter int<br>SET @counter = 0<br>insert into (#tmp_Users ID,col1,col2...)<br>select (SET @counter = counter = @counter + 1),col1,col2... from AnotherTable<br></p>

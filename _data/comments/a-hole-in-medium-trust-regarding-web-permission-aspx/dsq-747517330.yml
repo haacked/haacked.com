@@ -1,0 +1,5 @@
+id: dsq-747517330
+date: 2006-10-19T13:09:29.0000000-07:00
+name: scottgu
+avatar: https://disqus.com/api/users/avatars/scottgu.jpg
+message: <p>Yep -- the behavior to allow a regex to filter is by design.  Hosters can then choose to lock this down by wrapping it with a location tag set to override="false".<br>Hope this helps,<br>Scott</p>

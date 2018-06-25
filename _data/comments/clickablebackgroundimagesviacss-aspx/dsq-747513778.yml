@@ -1,0 +1,5 @@
+id: dsq-747513778
+date: 2006-08-04T02:38:00.0000000-07:00
+name: michael
+avatar: https://disqus.com/api/users/avatars/michael.jpg
+message: <p>I solved the issue of the validator breaking on the &lt;h1&gt; inside of <a> by simply renaming "header a h1" to a new class called "invis" and spanning it inside the anchor. Works fine and it's only a few bytes bigger.<br>Thanks to Haacked for writing up this slick trick!<br></a></p>

@@ -1,0 +1,5 @@
+id: dsq-747527140
+date: 2010-07-12T00:56:05.0000000-07:00
+name: jm
+avatar: https://disqus.com/api/users/avatars/jm.jpg
+message: '<p>This behaviour is defined by the w3c html standard, following sgml standards: <a href="http://www.w3.org/TR/html401/appendix/notes.html#notes-line-breaks" rel="nofollow noopener" title="http://www.w3.org/TR/html401/appendix/notes.html#notes-line-breaks">www.w3.org/.../notes.html#notes-line-breaks</a><br>"SGML (see [ISO8879], section 7.6.1) specifies that a line break immediately following a start tag must be ignored, as must a line break immediately before an end tag. This applies to all HTML elements without exception."</p>'

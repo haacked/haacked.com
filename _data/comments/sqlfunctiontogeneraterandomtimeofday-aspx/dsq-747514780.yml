@@ -1,0 +1,5 @@
+id: dsq-747514780
+date: 2008-11-25T22:16:48.0000000-08:00
+name: towps
+avatar: https://disqus.com/api/users/avatars/towps.jpg
+message: <p>select DATEADD(second, rand()*86400, DATEADD(d, rand()*(CAST((@date_to - @date_from) AS INT )), @date_from))</p>

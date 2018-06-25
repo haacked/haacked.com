@@ -1,0 +1,5 @@
+id: dsq-747532904
+date: 2010-08-04T23:35:22.0000000-07:00
+name: cowgaR
+avatar: https://disqus.com/api/users/avatars/cowgaR.jpg
+message: <p>now I re-read the issues that you have been looking for the shortest possible name not to produce "spaghetti code" in Views, thus View instead of ViewData.<br>I have to correct myself and "Bag/ViewBag" would seem as a best option for the View and for the Controller code.<br>Short, descriptive, and not confusing anybody. I like the old ViewState term as well, not so short in Views though.</p>

@@ -1,0 +1,5 @@
+id: dsq-747531228
+date: 2010-04-12T04:58:46.0000000-07:00
+name: Andrey
+avatar: https://disqus.com/api/users/avatars/Andrey.jpg
+message: '<p>Chris,<br>following line produces such a behaviour:<br> rgb = blue | (green &lt;&lt; 8) | (red &lt;&lt; 16)<br>For color #00ff00 red is zero, 0 &lt;&lt; 16 gives 0, so<br>0 | (255 &lt;&lt; 8) | 0  just equals to 0 | (255 &lt;&lt; 8)  = 65280 = FF00<br>For such a cases leading zeros needed.<br></p>'

@@ -1,0 +1,5 @@
+id: dsq-747537766
+date: 2012-10-17T03:13:51.0000000-07:00
+name: hutj
+avatar: https://disqus.com/api/users/avatars/hutj.jpg
+message: <p>Hi,I think the seegit is amazing.I like this reveal "what's going on there "idea. Thank you for your work.<br>I download the zip package with the application,but i run the SeeGitApp.exe in 32bit win7 with an error :<br>Problem Event Name:CLR20r3<br>  Problem Signature 01:seegitapp.exe<br>  ... ...<br>  Problem Signature 04:LibGit2Sharp<br>  ... ...<br>  Problem Signature 09:System.DllNotFoundException<br>I thought this means it could not find the libgit2sharp.dll,but it indeed exist in the same folder with SeeGitApp.exe <br>what should i do .Thank you very much.</p>

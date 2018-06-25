@@ -1,0 +1,5 @@
+id: dsq-747517846
+date: 2009-03-05T01:41:43.0000000-08:00
+name: Shanku Niyogi
+avatar: https://disqus.com/api/users/avatars/Shanku Niyogi.jpg
+message: <p>Actually, you could in fact just use &lt;%# with some code.<br>Expression builders have were mainly custom syntactic sugar that let you use arbitrary declarative syntax for databinding, rather than rely on language-specific code. They had two key pieces of value:<br>1) They also come with a design-time infrastructure (see the ExpressionEditor attribute) to let you build custom designers for an expression type.<br>2) They work in the non-compile page scenario, which lets you run an ASP.NET page under certain restrictions - most importantly, no custom code - without compiling the page into a class. A big reason why we built this mode in Whidbey was to support Sharepoint, which wanted to host many "virtual sites" inside a single appdomain, and didn't want each page to take the overhead of a class that couldn't be garbage collected away.<br>If you're building an app for yourself, you probably shouldn't be building an expression builder for it.</p>

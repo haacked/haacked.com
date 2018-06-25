@@ -1,0 +1,5 @@
+id: dsq-747531892
+date: 2010-03-26T02:44:53.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Santosh regarding the word wrapping, you need to have spaces in what you're typing for it to word-wrap. It's not a bug in my live preview code but a styling issue. I could have used CSS to auto clip the content, but I didn't want to.</p>

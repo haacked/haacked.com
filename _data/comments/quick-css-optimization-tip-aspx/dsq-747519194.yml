@@ -1,0 +1,5 @@
+id: dsq-747519194
+date: 2007-03-15T02:40:37.0000000-07:00
+name: Sean Chambers
+avatar: https://disqus.com/api/users/avatars/Sean Chambers.jpg
+message: '<p>A nice optimization I like is for colors:<br>.myClass {<br>  color: #000000;<br>}<br>is the same as<br>.myClass {<br>  color: #000;<br>}<br>If the characters is the same for all six, you can just define the first three.<br>Only saves typing 3 characters though =(</p>'

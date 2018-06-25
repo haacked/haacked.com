@@ -1,0 +1,5 @@
+id: dsq-747535436
+date: 2011-06-26T00:34:27.0000000-07:00
+name: Felix
+avatar: https://disqus.com/api/users/avatars/Felix.jpg
+message: '<p>Ouch! For images (and probably all other binary files) ReplaceParameters should be false, not true. Apparently, VS errors out trying to find the tokens.<br>OK, in hindsight it is obvious (as everything else in hindsight) :) - but something more verbose than "HRESULT: 0x80041FEB" would be really nice.<br>Hopefully, somebody will stumble upon this solution before tearing his hear out!</p>'

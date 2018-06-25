@@ -1,0 +1,5 @@
+id: dsq-747508744
+date: 2005-03-09T02:06:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Mickey, rather than doubt it, you should give it a try and check out the results.<br><br><br><br>As a matter of fact,  the query engine will order by newid() first.  Then it will select the top 10.  Because newid() generates random guids, the initial sort will shuffle the rows.</p>

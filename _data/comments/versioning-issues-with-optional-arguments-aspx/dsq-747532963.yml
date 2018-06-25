@@ -1,0 +1,5 @@
+id: dsq-747532963
+date: 2010-08-10T02:00:25.0000000-07:00
+name: Bertrand Le roy
+avatar: https://disqus.com/api/users/avatars/Bertrand Le roy.jpg
+message: "<p>That's for public APIs that are destined to be used by random people. At Microsoft, we tend to think it's the whole world because it's our world, but from within the context of a single self-contained project, things are much different: breaking changes don't matter that much because you'll recompile everything that depends on your API at the same time as the API itself.</p>"

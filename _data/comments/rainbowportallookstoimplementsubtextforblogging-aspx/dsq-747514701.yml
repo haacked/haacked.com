@@ -1,0 +1,5 @@
+id: dsq-747514701
+date: 2006-04-06T23:36:00.0000000-07:00
+name: Steve Harman
+avatar: https://disqus.com/api/users/avatars/Steve Harman.jpg
+message: <blockquote>If subText also uses membership [ hint, hint], we could take sweet advantage of SSO.</blockquote><p><br>Eric,<br>As of right now I belive that ASP.NET 2.0 (and with it membership &amp; roles) is <a href="http://www.subtextproject.com/Home/Roadmap/tabid/55/Default.aspx" rel="nofollow noopener" title="http://www.subtextproject.com/Home/Roadmap/tabid/55/Default.aspx">slated for subText v1.1</a> "Daedelus". We are currently working on v1.0.5 "Playground" which focuses mainly on bug fixes and a few <i>developer targeted</i> enhancements. I don't know that we have a solid date in mind for release (Phil?) but we'll then focus on getting Daedelus out the door.<br>Looking forward to hearing more about subText + Rainbow Portal!</p>

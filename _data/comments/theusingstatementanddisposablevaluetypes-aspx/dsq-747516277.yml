@@ -1,0 +1,5 @@
+id: dsq-747516277
+date: 2006-08-13T17:50:54.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Dhananjay, very true. That is obvious. What wasn't so obivous to me is that the using statement wouldn't do the same. I expected it wouldn't but it wasn't obvious to me.<br>I was thinking of the using statement as being similar to a method.<br>  using(IDisposable obj)<br>Since the using statement requires a type of IDisposable, wouldn't it also going to box the paramater passed to it onto the heap?   Well I assumed it wouldn't, but dug into it to see why.<br></p>

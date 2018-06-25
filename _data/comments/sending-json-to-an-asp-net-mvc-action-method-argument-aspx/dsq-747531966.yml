@@ -1,0 +1,5 @@
+id: dsq-747531966
+date: 2010-04-14T22:55:14.0000000-07:00
+name: Felipe Lima
+avatar: https://disqus.com/api/users/avatars/Felipe Lima.jpg
+message: <p>Nice to know I can use JSON input and still keep the good old model binding in the action method.<br>Now, I'll just have to find out what'thahell a ValueProvider is :)</p>

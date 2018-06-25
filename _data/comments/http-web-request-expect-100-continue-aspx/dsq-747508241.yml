@@ -1,0 +1,5 @@
+id: dsq-747508241
+date: 2004-06-27T18:01:00.0000000-07:00
+name: S
+avatar: https://disqus.com/api/users/avatars/S.jpg
+message: <p>Lance, after struggling with .NET SOAP POST'ing through an ISA proxy (which seems to be blocking the 100 Continue response, possibly that's configurable somewhere, but I haven't got access), this was exactly what I needed. Thanks!</p>

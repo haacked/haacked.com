@@ -1,0 +1,5 @@
+id: dsq-747522791
+date: 2007-09-23T07:01:07.0000000-07:00
+name: Nick Berardi
+avatar: https://disqus.com/api/users/avatars/nberardi.jpg
+message: '<p>This is actually a very common at least in the code I use.  One other method that I use is to create instances of an object from non-public constructors.  I wrote about this a while ago on my blog - <a href="http://coderjournal.com/2007/03/how-to-unit-test-hidden-classes/" rel="nofollow noopener" title="http://coderjournal.com/2007/03/how-to-unit-test-hidden-classes/">How To: Unit Test Hidden Classes</a>.  It seems we both employee similar helper methods in our unit testing.</p>'

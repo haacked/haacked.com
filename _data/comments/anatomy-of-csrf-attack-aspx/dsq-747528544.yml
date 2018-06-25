@@ -1,0 +1,5 @@
+id: dsq-747528544
+date: 2012-09-19T08:52:27.0000000-07:00
+name: vishnu rao
+avatar: https://disqus.com/api/users/avatars/vishnu rao.jpg
+message: <p>very nice article.<br>i had a doubt, will the semantics described above change if the channel is secure - i.e. https:/127.0.0.1:54607 instead of http. <br>is the attack avoidable by removing the cookie at all costs ?</p>

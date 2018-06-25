@@ -1,0 +1,5 @@
+id: dsq-747510845
+date: 2005-04-28T02:49:00.0000000-07:00
+name: kuantanzai
+avatar: https://disqus.com/api/users/avatars/kuantanzai.jpg
+message: <p>Actually, Sheetal's interpretation of COALESCE IS the interpretation of ISNULL. The interpretation of COALESCE is really:<br><br><br><br>if @test is not null then @test<br><br>else if 'test' is not null then 'test'<br><br><br><br>Coalesce makes an additional nullity check on 'test'.</p>

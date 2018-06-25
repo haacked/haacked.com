@@ -1,0 +1,5 @@
+id: dsq-1129689446
+date: 2013-11-19T07:54:18.0000000-08:00
+name: Shince Jose
+avatar: https://disqus.com/api/users/avatars/shincejose.jpg
+message: <p>You can use this approach of FormsAuthenticationTicket  also for .Net&lt;4.5. this works with ajax calls.</p><p>            FormsAuthenticationTicket fat = new FormsAuthenticationTicket(1, UserId.ToString(), <br>                    DateTime.Now, DateTime.Now.AddMinutes(30), Persist, "");<br>            string cookiestr = FormsAuthentication.Encrypt(fat);<br>            HttpCookie ck = new HttpCookie(FormsAuthentication.FormsCookieName, cookiestr);<br>            if (Persist)<br>            {<br>                ck.Expires = fat.Expiration;<br>            }<br>            ck.Path = FormsAuthentication.FormsCookiePath;<br>            HttpContext.Current.Response.Cookies.Add(ck);</p>

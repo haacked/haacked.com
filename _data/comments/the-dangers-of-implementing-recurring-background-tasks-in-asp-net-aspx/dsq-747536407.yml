@@ -1,0 +1,5 @@
+id: dsq-747536407
+date: 2012-04-04T04:56:57.0000000-07:00
+name: Brian
+avatar: https://disqus.com/api/users/avatars/Brian.jpg
+message: <p>How does this compare to ThreadPool.QueueUserWorkItem?  ThreadPool seems to be such a simplier solution.  Is the only advantage of using IRegisteredObject over ThreadPool for long running processes that ThreadPool doesn't handle app pool shut downs as gracefully?</p>

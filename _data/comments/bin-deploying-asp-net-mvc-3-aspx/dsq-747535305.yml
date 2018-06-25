@@ -1,0 +1,5 @@
+id: dsq-747535305
+date: 2011-05-26T07:22:44.0000000-07:00
+name: James Culbertson
+avatar: https://disqus.com/api/users/avatars/James Culbertson.jpg
+message: <p>@Nacho,<br>AppHarbor doesn't support SQL CE, due to the way they do the hosting it doesn't support that type of database access.  They do provide a SQL Server option though and it's relatively easy to migrate your SQL CE to SQL Server.</p>

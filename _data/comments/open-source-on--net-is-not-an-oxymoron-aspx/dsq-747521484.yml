@@ -1,0 +1,5 @@
+id: dsq-747521484
+date: 2007-07-02T14:52:21.0000000-07:00
+name: Simone Chiaretta
+avatar: https://disqus.com/api/users/avatars/codeclimber.jpg
+message: <blockquote><br>The projects are based around custom build files and poorly documented install instructions.<br></blockquote><p><br>I think that is because many dev thinks that using VS to build an opensource project is not open enough, so many use NAnt (which is good, but not for building on the a dev machine) or I also see batch files that execute csc.exe to compile cs programs.</p>

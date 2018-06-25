@@ -1,0 +1,5 @@
+id: dsq-747525149
+date: 2008-12-16T05:05:58.0000000-08:00
+name: Jason
+avatar: https://disqus.com/api/users/avatars/Jason.jpg
+message: <p>Just when I though I was going to get an early night...seems I needed to add 'Content-type' to the headers as well otherwise Google Chrome and Firefox kept adding ".htm" on the the end of my file names! Seems to be part of a long-standing browser argument over whether the browser should pay much attention to 'Content-disposition'. Anyhow, this addition solved the issue for me:<br>context.HttpContext.Response.AddHeader("Content-type",                    "application/force-download");<br>Don't know if anyone else has come across this? Now I'm going to be all tired and grumpy tomorrow :(</p>

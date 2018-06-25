@@ -1,0 +1,5 @@
+id: dsq-747511659
+date: 2007-08-21T12:47:10.0000000-07:00
+name: Agile Being
+avatar: https://disqus.com/api/users/avatars/Agile Being.jpg
+message: <p>I Had similar problem. In my case the cvs checkout of only one of the directories did not work.<br>Based upon this Article &amp; Comments i checked out the file permissions and <br>found out that the read-write attribs for that particular dir was 755 (which should have been 775). This caused the dir-lock failure. I changed the attribs to 775 and everything started working fine.<br>The problem is fixed, but i still am wondering how could the permissions get changed, since everything was working fine initially.</p>

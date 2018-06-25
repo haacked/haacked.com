@@ -1,0 +1,5 @@
+id: dsq-747535157
+date: 2011-05-04T20:29:43.0000000-07:00
+name: Claire
+avatar: https://disqus.com/api/users/avatars/Claire.jpg
+message: <p>I'm trying to think of a plausible instance during which I'd need different versions of an assembly within a single solution, and I really can't think of one. I guess it depends on what you want to do, but I think your idea of idea allowing multiple package versions if the package doesn’t contain any assemblies seems like a safe way to play it. I'm excited to use the end result!</p>

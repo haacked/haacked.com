@@ -1,0 +1,5 @@
+id: dsq-747526409
+date: 2008-11-04T02:32:24.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Jon Udell we're working on getting ASP.NET MVC working with Azure right now. We have it working with the development fabric, but haven't tested it in the actual cloud. Once we do that, dynamic languages with ASP.NET should in theory just work. We'll test it out of course. :)</p>

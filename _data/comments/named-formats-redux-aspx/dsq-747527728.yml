@@ -1,0 +1,5 @@
+id: dsq-747527728
+date: 2009-01-16T02:02:57.0000000-08:00
+name: Kelly Stuard
+avatar: https://disqus.com/api/users/avatars/Kelly Stuard.jpg
+message: <p>Notes:<br>* Only the HanselFormat and OskarFormat work with IDictionary passed as the object.<br>* HanselFormat is nice enough to not throw a format exception if{Title} has no corresponding Title property passed in.  This is different from string.Format, but nice if i want to pass my string through multiple dictionaries / anonymous classes / classes.</p>

@@ -1,0 +1,5 @@
+id: dsq-747521237
+date: 2007-06-20T20:58:50.0000000-07:00
+name: Sean
+avatar: https://disqus.com/api/users/avatars/Sean.jpg
+message: <p>I was trying to extract IConfigMapPath, but this was useless as it has a member of VirtualPath type, which is (as usual) internal with a bunch of other internal utility classes. Would be more practical to supply the System.Web.dll from the .NET 3.0 Vista install? Banging my head over the wall as long as can't use your solution :(</p>

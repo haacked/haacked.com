@@ -1,0 +1,5 @@
+id: dsq-747532512
+date: 2010-06-10T20:49:07.0000000-07:00
+name: James Hare
+avatar: https://disqus.com/api/users/avatars/James Hare.jpg
+message: <p>I used to feel strongly that way as well, but I feel that the semantics of the name (IsNullOrEmpty) justify an exceptionin this case.  The point of the extension method is to make it easier to check for null or empty, which i think it does in a very elegant fashion.<br>Would it be more correct as a static method?  Sure, and you can still call it that way if you wish or code it that way, but in many cases where we are trying to make libraries that are easier and more fluent, I'd argue for ease of use more than semantics.<br>With the extension method you get the benefit of Intellisense telling you it's available for use immediately, whereas as simply a static method, you'd have to know the name of the class and that it exists (no intellisense help from your target instance).<br>So is a static method more pure?  Absolutely!  But I think in this case where the intention is clear that you are checking the reference for null (or empty) it is justified.<br>But that's just my $0.02 :-)</p>

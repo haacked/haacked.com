@@ -1,0 +1,5 @@
+id: dsq-777370390
+date: 2013-01-24T16:15:15.0000000-08:00
+name: Craig E. Shea
+avatar: https://disqus.com/api/users/avatars/openid-162163.jpg
+message: <p>Came across this only today. I looked up this pattern, once again, on MSDN. It looks like they updated the documentation a long time ago so that in the protected overridden Dispose method, base.Dispose(disposing) is called.</p><p>However, I really like your pattern above. It is more readable and lets me know exactly what I need to do and where. I think so long as you called the base class implementation of the ReleaseXXManagedResources methods at the right place, you'd be fine. It would seem to me that you would always call the base class implementation after you've cleaned up all your own resources. It would also seem to me that greater care would need to be taken with encapsulation to prevent derived classes from deleting state from base classes which the base class may need in order for it to dispose of itself.</p><p>Just my $.02.</p>

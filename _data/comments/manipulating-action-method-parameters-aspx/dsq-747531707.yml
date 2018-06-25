@@ -1,0 +1,5 @@
+id: dsq-747531707
+date: 2010-02-21T14:23:47.0000000-08:00
+name: Rik Hemsley
+avatar: https://disqus.com/api/users/avatars/Rik Hemsley.jpg
+message: <p>Why is it necessary or desirable to pass this integer ID to the Content method? Surely if the slug uniquely identifies the entity, and is, for example, indexed in the database, the Content method will be able to pull the entity from the database just as swiftly and easily as it would by id? Isn't this just performing two queries where one would do?<br></p>

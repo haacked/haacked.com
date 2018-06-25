@@ -1,0 +1,5 @@
+id: dsq-747511400
+date: 2005-04-04T09:47:00.0000000-07:00
+name: Scott Elkin
+avatar: https://disqus.com/api/users/avatars/Scott Elkin.jpg
+message: '<p><br>Hey Phil,<br><br><br><br>I had to solve this problem again, but with borders on the left and right.  Is this too haacky?  left.jpg and right.jpg are the respective borders.  Set height to whatever it is you need it to be.<br><br><br><br>Keep in mind I am a SQL/C#/ASP.NET programmer first.  I am just finishing More Eric Meyer, but I am by no means a designer.<br><br><br><br>&lt;div style="float:left; background: url(/images/top_left.jpg) top left repeat-y; height: 88px; width:3px;"&gt;&lt;/div&gt;<br><br>&lt;div style="float:right; background: url(/images/top_right.jpg) top right repeat-y; height: 88px; width:3px;"&gt;&lt;/div&gt;<br><br>&lt;div style="float:none; background: url(/images/top.jpg) top left repeat-x; height: 88px; width:100%;"&gt;</p>'

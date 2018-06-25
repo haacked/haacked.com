@@ -1,0 +1,5 @@
+id: dsq-747529186
+date: 2009-06-01T22:57:00.0000000-07:00
+name: Josh Bush
+avatar: https://disqus.com/api/users/avatars/Josh Bush.jpg
+message: <p>That is interesting.  You might could do it with static methods on the controller. It could look something like "&lt;%=HomeController.IndexLink(123) %&gt;".  It's still a little more verbose than what you have above though.<br>I'm working on a project and I went heavily with strong typing. I really enjoy the fact that when I make changes it breaks the compilation.</p>

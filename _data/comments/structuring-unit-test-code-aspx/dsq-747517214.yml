@@ -1,0 +1,5 @@
+id: dsq-747517214
+date: 2006-10-11T08:05:14.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Regarding the namespaces, it definitely is a matter of preference. I like having my unit tests sort to the bottom, but that's just an idiosyncracy. I guess I could break with conventions and use standard namespaces, but name the assembly in a different manner.<br>Though that also rubs me the wrong way. ;)</p>

@@ -1,0 +1,5 @@
+id: dsq-747537336
+date: 2012-01-04T13:34:31.0000000-08:00
+name: dotnetchris
+avatar: https://disqus.com/api/users/avatars/dotnetchris.jpg
+message: "<p>I write all my unit tests in MSpec with Machine.Fakes.Moq using Machine.Fakes allow you to share test configuration through composition instead of inheritance. It's a rather godly pattern.<br>I'm still not set on how to organize tests using MSpec and opened a question on stackoverflow about this very topic a few weeks ago: <a href=\"http://stackoverflow.com/questions/8435076/naming-test-classes-with-for-xspecification-bdd-tests-curtailing-insanity\" rel=\"nofollow noopener\" title=\"http://stackoverflow.com/questions/8435076/naming-test-classes-with-for-xspecification-bdd-tests-curtailing-insanity\">stackoverflow.com/...</a></p>"

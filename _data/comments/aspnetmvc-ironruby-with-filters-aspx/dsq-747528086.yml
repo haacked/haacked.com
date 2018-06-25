@@ -1,0 +1,5 @@
+id: dsq-747528086
+date: 2009-02-17T09:30:06.0000000-08:00
+name: Sergio Pereira
+avatar: https://disqus.com/api/users/avatars/Sergio Pereira.jpg
+message: <p>Not to be "stealing" too much from RoR, but I think you can make the Ruby syntax work even more in your favor if you change the order of the parameters in the filter method:<br>filter FilterClassName, :action_name<br>Then you could take it further like:<br>filter FilterClassName, :only =&gt; [:action_1, :action_2]<br># or<br>filter FilterClassName, :except =&gt; [:action_3, :action_4]<br></p>

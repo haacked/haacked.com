@@ -1,0 +1,5 @@
+id: dsq-747524853
+date: 2008-04-10T22:04:08.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Chance Right now we haven't looked at that only because by the time you've hit our code, the domain has already been determined. <br>Our code runs at the application level and this could be confusing when you have a route for a domain, but IIS host headers points it elsewhere.<br>However, I do know some people map multiple host headers to the same website (Subtext does this!) so it wouldn't be hard to write a custom route that does this. If this ends up being a real important scenario for lots of people, I'm sure we'll consider it. :)</p>

@@ -1,0 +1,5 @@
+id: dsq-747511522
+date: 2005-04-15T22:23:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>What I meant was I changed the code slightly to use an intermediate variable.  For example,<br><br><br><br>bool y == (x == SqlInt.Null);<br><br><br><br>That didn't compile so I tried:<br><br><br><br>object y == (x == SqlInt.Null);<br><br><br><br>Then in the debugger I checked the type of y.  Sure enough, it was SqlBoolean.</p>

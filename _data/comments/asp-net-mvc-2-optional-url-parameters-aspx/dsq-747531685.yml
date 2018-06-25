@@ -1,0 +1,5 @@
+id: dsq-747531685
+date: 2010-02-14T23:59:49.0000000-08:00
+name: Koistya `Navin
+avatar: https://disqus.com/api/users/avatars/Koistya `Navin.jpg
+message: <p>I would rather use a special char to mark optional parameters; like "?" in the following example:<br>routes.MapRoute(<br>    "Default",<br>    "{controller}/{action}/{id?}",<br>    new { controller = "Site", action = "Home" }<br>);<br>BTW, I would also call default controller "Site" and default action "Home" - which means that it's a home page for a particular area of the website and not an index page.</p>

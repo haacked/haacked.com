@@ -1,0 +1,5 @@
+id: dsq-747508870
+date: 2011-09-14T11:31:47.0000000-07:00
+name: shaun
+avatar: https://disqus.com/api/users/avatars/shaun.jpg
+message: <p>Interestingly it can also ignore the INDEX you place the item in, it has no AddAt or Insert capability. Had an odd situation using StringDictionary trying to maintain an order of fields, it would just ignore the order I Added in, where as Generic&lt;String,String&gt; maintained it. I was attaching it in an ASP.NET ViewState so not sure if that had anything to do with it.</p>

@@ -1,0 +1,5 @@
+id: dsq-747507559
+date: 2008-01-02T09:28:57.0000000-08:00
+name: Jay
+avatar: https://disqus.com/api/users/avatars/Jay.jpg
+message: <p>in Debug mode the complete debug symbol is emitted so that the code optimization is not taken place <br>but in release mode the complete debut symbol is not emitted so that code optimization is taken place</p>

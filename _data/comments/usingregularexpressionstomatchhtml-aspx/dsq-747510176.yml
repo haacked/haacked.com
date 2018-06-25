@@ -1,0 +1,5 @@
+id: dsq-747510176
+date: 2006-05-31T18:40:00.0000000-07:00
+name: Kjeks
+avatar: https://disqus.com/api/users/avatars/Kjeks.jpg
+message: '<p>Since the question came up: HTML tags are effectively matched with the regexp<br>&lt;!--.*?--&gt;<br>.*? provides non-greedy matching. Use single line option for good karma :-)</p>'

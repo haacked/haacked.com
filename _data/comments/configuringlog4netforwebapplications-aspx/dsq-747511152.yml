@@ -1,0 +1,5 @@
+id: dsq-747511152
+date: 2006-08-01T08:01:00.0000000-07:00
+name: Ginil
+avatar: https://disqus.com/api/users/avatars/Ginil.jpg
+message: <p>Hi,<br>I am using VS2005, and in my web application, I do not have an  AssemblyInfo.cs file. Is that bad? <br>I have read that it can be put in the global.asax file, but where exactly in it? My gloabal.asax files pretty much contains session_start(), .._end(), application_start(), ..end(). <br>Also, is there an example log4net.config file I can use?<br>I am new to .NET and ASP. <br>I need to get log4net working in my web application. <br>Kind Regards,<br>Ginil.</p>

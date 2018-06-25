@@ -1,0 +1,5 @@
+id: dsq-747531715
+date: 2010-02-21T20:37:21.0000000-08:00
+name: Zach Curtis
+avatar: https://disqus.com/api/users/avatars/Zach Curtis.jpg
+message: <p>Phil, I really like this approach.  At first I was hesitant because the article titles/slugs have to be unique, but then I remembered creates a unique slug based on the article title you enter Joomla.  Adding that functionality with this solution is an elegant way to handle SEF Url's.  I am curious what the performance hit is however.  <br></p><p>One solution I used before was to just pass the slug directly to the action method and look the article up that way.</p>

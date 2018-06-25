@@ -1,0 +1,5 @@
+id: dsq-747534473
+date: 2011-02-20T12:59:48.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@LinkGoron unfortunately, patches to the core .NET framework is not something we can release via NuGet. It's beyond scope and really not possible to have out-of-band bin deployable releases of System.Web.<br>@prokofyev The change was to the <code>ToString</code> method of the <code>UrlParameter</code> class. But as I point out, that change just exposed a bug that's been in System.Web's Routing implementation. So you are right that the core bug is not within ASP.NET MVC.</p>

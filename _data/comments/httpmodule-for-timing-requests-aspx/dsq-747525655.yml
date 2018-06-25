@@ -1,0 +1,5 @@
+id: dsq-747525655
+date: 2008-07-02T05:42:14.0000000-07:00
+name: Jeff Atwood
+avatar: https://disqus.com/api/users/avatars/Jeff Atwood.jpg
+message: <p>I suspect this doesn't work under IIS7 for some reason.. works great locally in Cassini, but nothing on our dev server.</p>

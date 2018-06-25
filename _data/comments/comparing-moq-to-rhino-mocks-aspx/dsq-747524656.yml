@@ -1,0 +1,5 @@
+id: dsq-747524656
+date: 2008-03-23T13:44:52.0000000-07:00
+name: tgmdbm
+avatar: https://disqus.com/api/users/avatars/tgmdbm.jpg
+message: <p>@Oran, In Rhino Mocks, if you ReplayAll() you can't set up any more expectations. In Moq, there really is no record/replay, you can setup some expectations, use mock.Object, setup more expectations, and use mock.Object again. All the original expectations still exist. RM has BackToRecord, but doing so removes all expectations.<br>@Krzysztof, As it stands the two tests are not equivalent. The RM test ignores arguments, but the Moq test *will* assert that the argument is 123. To ignore the argument the call would be<br>mock.Expect(u =&gt; u.CalculateSomething(It.IsAny&lt;int&gt;())).Returns(1);</p>

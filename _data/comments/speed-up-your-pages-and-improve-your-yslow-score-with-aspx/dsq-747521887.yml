@@ -1,0 +1,5 @@
+id: dsq-747521887
+date: 2007-08-13T14:08:34.0000000-07:00
+name: Mads Kristensen
+avatar: https://disqus.com/api/users/avatars/Mads Kristensen.jpg
+message: <p>That's one cool service that one. Do you know if you can control the HTTP headers from the files served by Coral? YSlow still compains about the ETag end expires header from those files.</p>

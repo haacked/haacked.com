@@ -1,0 +1,5 @@
+id: dsq-747529995
+date: 2009-09-13T04:16:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Ayende, With Subtext, I have non-exclusive copyright assignment in writing for most of the code (though not all). I would have to talk to Scott Watermasysk to get assignment of existing .TEXT code.<br>The good news is I've re-written around 25 - 40% of the code. If I couldn't get full assignment, I'd simply re-write the rest of the code.<br>I personally think non-exclusive copyright assignment is in the best interest of an OSS project. I'm not worried about a copyright holder withdrawing the code. After all, even if they don't assign copyright, they have licensed the code to the project under the OSS license, so AFAIK, they can't revoke the license retroactively. However, they can make it impossible to re-license the code under a new license and really hinder the ability for a project to make such decision that may be in the best interest of the project.<br>Non-exclusive copyright assignment also protects the contributor, while still allowing them to use the submitted code in any other project in any way they see fit.</p>

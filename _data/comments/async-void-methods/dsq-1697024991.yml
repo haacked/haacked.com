@@ -1,0 +1,6 @@
+id: dsq-1697024991
+replyToId: dsq-1690990450
+date: 2014-11-17T03:24:40.0000000-08:00
+name: Tomasz Cielecki
+avatar: https://disqus.com/api/users/avatars/Cheesebaron.jpg
+message: '<p>You could create your own ICommand implementation which does not do that. Take a look at what Ross is using for MvvmCross: <a href="https://gist.github.com/rossdargan/55436d20e9e845196fce" rel="nofollow noopener" title="https://gist.github.com/rossdargan/55436d20e9e845196fce">https://gist.github.com/ros...</a></p>'

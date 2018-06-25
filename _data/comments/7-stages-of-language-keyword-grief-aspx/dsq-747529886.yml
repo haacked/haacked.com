@@ -1,0 +1,5 @@
+id: dsq-747529886
+date: 2009-08-31T13:16:00.0000000-07:00
+name: Andrey Shchekin
+avatar: https://disqus.com/api/users/avatars/Andrey Shchekin.jpg
+message: <p>My problem with dynamic is "people can abuse it and people will". I have seen projects written by people whose intelligence seems to be comparable with one-celled organisms.<br>While lambdas and generics are hard to really abuse and such people do not use them anyway, dynamic is really simple to use incorrectly. For example, why learn and care about interfaces, if you can call a specific method on any instance?<br>And then someone gives you such project and asks estimate on required changes.<br>(I like the dynamic dispatch, however).</p>

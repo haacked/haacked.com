@@ -1,0 +1,5 @@
+id: dsq-747507725
+date: 2004-03-03T20:43:00.0000000-08:00
+name: Dare Obasanjo
+avatar: https://disqus.com/api/users/avatars/Dare Obasanjo.jpg
+message: <p>There have been a number of discussions about CSS and RSS feeds. The best place to get an overview of the past discussions is  <a href="http://www.crystalflame.net/2003/12/rss_with_css.html" rel="nofollow noopener" title="http://www.crystalflame.net/2003/12/rss_with_css.html">http://www.crystalflame.net/2003/12/rss_with_css.html</a> <br><br><br><br>I think that blog post has a proposal for a new element in the feed that points to a CSS style sheet. I personally don't think much of having this functionality and it would be a hassle to track styles for individual feeds. However we do have a work item for a future version of RSS Bandit to investigate what it would take to provide individual XSLT styles per feed which could be extended to include suggested CSS styles from the site as well. <br><br><br><br>It's low on my priority list but I will take a look at it in a couple of weeks.</p>

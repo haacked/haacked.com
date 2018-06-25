@@ -1,0 +1,5 @@
+id: dsq-747527104
+date: 2008-11-16T22:37:21.0000000-08:00
+name: Eric
+avatar: https://disqus.com/api/users/avatars/Eric.jpg
+message: <p>How specifically does it resolve the correct View Engine?  Is it based on the physical file extension?  Sounds like a bit of overhead to query the registered views for each Render() or RenderPartial() call.  This almost feels like it should be something registered in a web.config file of a subdirectory if you're truly trying to accommodate the ability of "dropping" in application components (like a forums or blog module).  That way your original web application which only uses ViewEngine XXX doesn't have to incur a penalty of resolving View Engines that it doesn't use.  Maybe I have everything backwards?!</p>

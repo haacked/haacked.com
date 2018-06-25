@@ -1,0 +1,5 @@
+id: dsq-747516797
+date: 2006-09-20T01:17:57.0000000-07:00
+name: Ken
+avatar: https://disqus.com/api/users/avatars/Ken.jpg
+message: <p>Isn't it supposed to work though?  I tried it through FeedDemon, IE itself, and Firefox.  The demonstration said I was a bot on all three with a InvalidBadResponse message, suggesting the script didn't run, though I don't have javascript disabled or anything.  As it turns out, I was seeding a torrent when trying it, so even that limited upload rate seems to have caused a problem with it getting the response back in time.  Great idea, but I think it still needs a little work.  Letting spam get through sucks, but annoying users with false positives is worse.</p>

@@ -1,0 +1,5 @@
+id: dsq-747529419
+date: 2012-04-14T03:03:31.0000000-07:00
+name: Low Chin Chau
+avatar: https://disqus.com/api/users/avatars/Low Chin Chau.jpg
+message: <p>A solution seems to be suggested in your article section "What About Checking The Header?". If the data is sensitive enough for this vulnerability to matter, you should be using SSL anyway.<br>In short, if the server only responds to SSL and the correct headers, this vulnerability does not work. Am I missing something?</p>

@@ -1,0 +1,5 @@
+id: dsq-747536376
+date: 2011-10-19T13:07:51.0000000-07:00
+name: Chris Moschini
+avatar: https://disqus.com/api/users/avatars/Chris Moschini.jpg
+message: "<p>Since you work at Microsoft... can you shake the appropriate trees to get RegisterObject() documentation updated and fixed? There are so many places in .Net documentation where you're cruising through things you're CERTAIN are important, and you get useless method descriptions like:<br>AddSubTask: Adds a subtask.<br>Or as a more legit example: <a href=\"http://msdn.microsoft.com/en-us/library/system.web.routing.route.url.aspx\" rel=\"nofollow noopener\" title=\"http://msdn.microsoft.com/en-us/library/system.web.routing.route.url.aspx\">msdn.microsoft.com/...</a><br>\"Gets or sets the URL pattern for the route.\" Great, what do those patterns look like? How about a list of supported syntax, or a link to one, like one would have in a Regex entry? Nope. How about an example of how to call this that's not from pre-beta days? Also no.</p>"

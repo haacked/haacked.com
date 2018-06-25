@@ -1,0 +1,5 @@
+id: dsq-747517080
+date: 2006-10-08T04:46:33.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I assume you mean solving it manually and then feeding it into your script.  But you're going to do this for every site you attempt to crawl?<br>The point of this CAPTCHA is not that it's going to stop all comment spam.  The point is that I'm betting that most comment spam bots are dumb bots that don't evaluate javascript when posting to comment forms.<br>This would stop those.  And yes, you could manually solve it, then feed it into your script.  But that would really slow you down if you're trying to spam every site out there.</p>

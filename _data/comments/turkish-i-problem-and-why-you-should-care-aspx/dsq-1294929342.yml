@@ -1,0 +1,5 @@
+id: dsq-1294929342
+date: 2014-03-21T08:58:35.0000000-07:00
+name: LordLiverpool
+avatar: https://disqus.com/api/users/avatars/LordLiverpool.jpg
+message: <p>Does the file system treat the dotless small-case i and the upper-case dotted I the same way? In other words, in Windows, does a *lower-case* file path containing a dotless small i match the same *upper-case* file path with a dotless upper-case I on Turkish systems, but not on other locales? (Sorry, it's confusing to explain)</p><p>I have a working locale-sensitive case-changing function based on LCMapString, but I'm wondering what to do with bits of the code where I tend to standardise file paths by making them lower case (and then later comparing them).</p>

@@ -1,0 +1,5 @@
+id: dsq-747523633
+date: 2011-08-11T18:25:23.0000000-07:00
+name: Vivien Adnot
+avatar: https://disqus.com/api/users/avatars/Vivien Adnot.jpg
+message: <p>Hi Phil,<br>Your article is excellent but the download link doesn't work.<br>I've read a bit of StructureMap documentation and I found these<br>ObjectFactory.Initialize(x =&gt;<br>            {<br>                x.ForRequestedType&lt;IRepository&gt;().Use&lt;Repository&gt;()<br>                    .WithCtorArg("connectionString").EqualTo("a connection string");<br> <br>                // Or, since it's smelly to embed a connection string directly into code,<br>                // we could pull the connection string from the AppSettings<br>                x.ForRequestedType&lt;IRepository&gt;().Use&lt;Repository&gt;()<br>                    .WithCtorArg("connectionString").EqualToAppSetting("CONNECTION-STRING");<br>            });<br><br>var repository = ObjectFactory.GetInstance&lt;IRepository&gt;();<br>This example seems pretty great too, it seems that the ugly xml file isn't necessary anymore. Do you agreee with that ?</p>

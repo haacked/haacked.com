@@ -1,0 +1,5 @@
+id: dsq-747508780
+date: 2007-07-09T00:08:09.0000000-07:00
+name: Lioness
+avatar: https://disqus.com/api/users/avatars/Lioness.jpg
+message: <p>I've tried multiple ways to select random rows from a database table. I've tried using NewId() and RAND(). Neither of them work. Is there some other way to select a random row?</p>

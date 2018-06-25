@@ -1,0 +1,5 @@
+id: dsq-747530577
+date: 2009-11-24T12:42:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Deep That's a hard question to answer without knowing more about your environment. Are you able to respond to a changing framework? Or is stability a requirement? We may still make a few changes to ASP.NET MVC 2, but we won't be changing ASP.NET MVC 1.0.</p>

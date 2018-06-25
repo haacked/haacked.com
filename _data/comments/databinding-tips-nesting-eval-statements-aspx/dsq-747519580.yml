@@ -1,0 +1,5 @@
+id: dsq-747519580
+date: 2007-04-12T04:01:39.0000000-07:00
+name: Scott Muc
+avatar: https://disqus.com/api/users/avatars/Scott Muc.jpg
+message: <p>A CSSUnit would be a godsend! Imagine writing CSSUnit tests that spec out a layout and dimensions and then a test would fail because you forgot a child element inherited some padding you placed on some outer element. One can dream I guess...</p>

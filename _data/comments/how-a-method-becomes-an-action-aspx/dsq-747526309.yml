@@ -1,0 +1,5 @@
+id: dsq-747526309
+date: 2008-09-02T04:40:05.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Justice that is indeed the case. The MvcFutures project is where we put features that we're considering for future versions of ASP.NET MVC.<br>Some of the helpers we don't feel add all that much value for the QA cost it would entail. It seems like some of those are trivial, but when you add up a bunch of trivial items, it starts to total alot of work.</p>

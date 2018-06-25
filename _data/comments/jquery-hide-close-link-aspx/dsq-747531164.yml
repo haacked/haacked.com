@@ -1,0 +1,5 @@
+id: dsq-747531164
+date: 2009-12-26T22:14:52.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I forgot to mention, the reason I don't just add a custom attribute like "target-id" to the anchor tag is I want my mark-up to be valid XHTML.</p>

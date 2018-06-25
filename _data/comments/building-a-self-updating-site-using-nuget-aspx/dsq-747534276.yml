@@ -1,0 +1,5 @@
+id: dsq-747534276
+date: 2011-02-13T14:30:11.0000000-08:00
+name: Cody Toombs
+avatar: https://disqus.com/api/users/avatars/CodyToombs.jpg
+message: <p>I don't really see database updates being that challenging, they just require a bit of a workaround.  Deploy the update script as part of your package and throw a little code into global.asax Application_Start to check a variable that records the last run version number.  If the stored version number is older than the current version number, check if there's an update script and run it if so.<br>Certainly, it would be better to have this functionality baked into the update mechanism, which doesn't seem too hard or very involved. While it's probably not necessary, I have a feeling people might have more than a couple lines of SQL to run, so a little prescriptive design might encourage putting their update code into an assembly that is simply run as an automatic last stage of the updater.</p>

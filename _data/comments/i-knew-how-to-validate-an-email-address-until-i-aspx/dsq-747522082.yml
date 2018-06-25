@@ -1,0 +1,5 @@
+id: dsq-747522082
+date: 2008-07-04T11:16:12.0000000-07:00
+name: Ace
+avatar: https://disqus.com/api/users/avatars/Ace.jpg
+message: <p>Email normalization presents similar challenges.  Let's say you have a system where you'd like to prevent a user from registering twice, based on unique email addresses.  Granted, it's easy enough to create a new one with the free services like Hotmail, GMail or Yahoo -- but let's say you'd like people to have to at least go to that level of effort before they're allowed to create a new account.<br>So an addresses like "user"@domain.tld and user@domain.tld and(comment)user@domain.tld and user@[ip addr] are all the same, and if the system supports tags, like GMail, then user+tag@domain.tld might also be the same.</p>

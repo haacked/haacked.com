@@ -1,0 +1,5 @@
+id: dsq-747534503
+date: 2011-02-21T02:07:09.0000000-08:00
+name: Macu
+avatar: https://disqus.com/api/users/avatars/Macu.jpg
+message: <p>There is a problem with this special web.config file hidden in view directory. If you try to plug mvc directly into source codes some of the razor intelisence will break. (set  PublicKeyToken of MvcWebRazorHostFactory to null and plug your own Razor dlls ) . I other words try not to define your extensibility point in mvc soruce codes or you will end up without intelisence support.<br>Best <br></p>

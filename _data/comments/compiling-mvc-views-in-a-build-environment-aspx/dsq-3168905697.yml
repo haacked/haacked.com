@@ -1,0 +1,5 @@
+id: dsq-3168905697
+date: 2017-02-22T03:39:07.0000000-08:00
+name: adam.conway
+avatar: https://disqus.com/api/users/avatars/disqus_zlo9uOCIcs.jpg
+message: "<p>Trying to do this to get compile-time checking of MVC views.  it's not working.  Getting a build error: \"'/temp' is not a valid IIS application.\" referencing as file just \"ASPNETCOMPILER\"<br>If anyone can help with this I have asked also at <a href=\"https://stackoverflow.com/questions/42409414/error-trying-to-build-asp-mvc-views-at-build-time\" rel=\"nofollow noopener\" title=\"https://stackoverflow.com/questions/42409414/error-trying-to-build-asp-mvc-views-at-build-time\">https://stackoverflow.com/q...</a></p>"

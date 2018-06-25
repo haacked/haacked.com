@@ -1,0 +1,5 @@
+id: dsq-747531566
+date: 2010-02-05T08:55:39.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Martin, yes (AT YOUR OWN RISK) you can uninstall just the ASP.NET MVC 2 runtime (not the tools) and then install ASP.NET MVC 2 RC 2 and it should work.<br>When VS 2010 RC comes out, it will include ASP.NET MVC 2 RC. You can follow the same steps above (remove MVC 2 RC runtime, then run RC2). In that case, the differences between ASP.NET MVC 2 RC and RC 2 are so minimal, tooling should be unaffected.</p>

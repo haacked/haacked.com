@@ -1,0 +1,5 @@
+id: dsq-747515497
+date: 2006-06-26T23:00:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Dimitri, I am still not convinced. The host still decides what is allowed to run and what is not by choosing to raise the event or not.  A self-subscription plugin only has power to execute code if the event it subscribes to is raised in the first place.<br>Think of it this way, an event handler is just another way for the application to call a method on the plugin, albeit indirectly via what is analogously a function pointer.</p>

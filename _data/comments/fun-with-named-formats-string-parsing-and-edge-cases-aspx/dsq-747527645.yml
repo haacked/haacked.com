@@ -1,0 +1,5 @@
+id: dsq-747527645
+date: 2009-01-13T14:05:08.0000000-08:00
+name: Zack
+avatar: https://disqus.com/api/users/avatars/Zack.jpg
+message: <p>Hi Haacked, <br>I Test all the methods you mentioned above and what I want to figure out is that in JamesFromater's performance problem is mainly because the incorrect use of the RegexOptions.Compiled. Just remove it , you will see the improvement.<br>By the way, your method is still the fastest one. But I wonder if I can replace the DataBinder with sth else. Still working on it .....<br>^_^</p>

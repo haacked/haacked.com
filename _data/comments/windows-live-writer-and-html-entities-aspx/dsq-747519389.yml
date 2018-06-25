@@ -1,0 +1,5 @@
+id: dsq-747519389
+date: 2007-03-26T22:51:21.0000000-07:00
+name: opello
+avatar: https://disqus.com/api/users/avatars/opello.jpg
+message: <p>A question I've always considered when writing any form that takes user input (at least when I'm doing it for myself and not something like work), is:<br>Should the database store the magical 'entityified' version or a real, medium-independent (well, sort-of), UTF-8 encoded version that could be dumped to a terminal or a web browser without problem.<br>I've yet to come to a conclusion either way, but whenever I think about it, I think the database should hold the no-entities version.</p>

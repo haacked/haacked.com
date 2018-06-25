@@ -1,0 +1,5 @@
+id: dsq-747527630
+date: 2009-01-05T01:56:57.0000000-08:00
+name: James Newton-King
+avatar: https://disqus.com/api/users/avatars/James Newton-King.jpg
+message: "<p>Well that's something I didn't know: Using the Regex constructor doesn't cache and reuse the compiled expression.<br>Thanks Atif.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747525715
+date: 2008-07-14T04:11:32.0000000-07:00
+name: Kyle Banashek
+avatar: https://disqus.com/api/users/avatars/Kyle Banashek.jpg
+message: <p>ahh...nevermind I figured it out....at least i believe  i did.<br>I see now that by modifying the web.config to the following:<br>&lt;add verb="*" path="*.aspx" type="IgnoreRouteWeb.ErrorHttpHandler"/&gt;<br>We can 'catch' all .aspx page requests and handle as we desire.<br>Nice work!<br>Thanks<br>Kyle</p>

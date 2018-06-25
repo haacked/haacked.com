@@ -1,0 +1,5 @@
+id: dsq-747529351
+date: 2009-06-25T03:46:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@David that is correct, as Stuart points out. The vulnerability only applies if the JSON package you send IS a JSON array.<br>@Louis well one thought is we change <code>JsonResult</code> to require POST by default. That way, you wouldn't need to change your action method. However, if we did that, then jQuery calls for JSON data would have to be updated to specify that the HTTP method to use should be POST and not GET, which is the default.</p>

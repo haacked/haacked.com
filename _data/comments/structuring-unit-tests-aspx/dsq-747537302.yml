@@ -1,0 +1,5 @@
+id: dsq-747537302
+date: 2012-01-02T05:13:28.0000000-08:00
+name: Daniel marbach
+avatar: https://disqus.com/api/users/avatars/Daniel marbach.jpg
+message: <p>Nice idea! I generally avoid terms like "method", "call" etc in my test names. You should name the feature and not the method of the class. When I do refactorings I often give other names to methods than I quckly added during the "make the tests green" cycle. But the feature I work towards remains the same.<br>Daniel</p>

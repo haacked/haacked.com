@@ -1,0 +1,5 @@
+id: dsq-747514024
+date: 2006-02-06T02:37:00.0000000-08:00
+name: Craig
+avatar: https://disqus.com/api/users/avatars/Craig.jpg
+message: <p>I'm by no means a Javascript or HTML guy, but don't you want to use the same trick you use with onload to ensure that you don't whack an existing onmouseover or onmouseout event? But perhaps I'm displaying my ignorance.</p>

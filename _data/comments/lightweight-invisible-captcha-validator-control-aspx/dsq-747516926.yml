@@ -1,0 +1,5 @@
+id: dsq-747516926
+date: 2008-08-12T22:26:55.0000000-07:00
+name: Joel
+avatar: https://disqus.com/api/users/avatars/Joel.jpg
+message: <p>For anyone wondering, I think you can get the code (or something very similar) at <a href="http://www.codeplex.com/subkismet" rel="nofollow noopener" title="http://www.codeplex.com/subkismet">http://www.codeplex.com/subkismet</a><br>It is extremely easy to modify for ASP.NET MVC<br>It also includes<br>-honey pot captcha (an invisible textbox is checked to ensure that it remains empty)<br>-timestamp captcha (time is checked from when the page is processed to when it is submitted)<br>-image captcha</p>

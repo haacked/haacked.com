@@ -1,0 +1,5 @@
+id: dsq-747531144
+date: 2009-12-25T14:47:34.0000000-08:00
+name: Cengiz Han
+avatar: https://disqus.com/api/users/avatars/Cengiz Han.jpg
+message: <p>I am using css clasess to identify this kind of divs (or whatever)<br>and jQuery does the adding element and handling event job.<br>A sample; (same formatted code <a href="http://codepaste.net/jkzdha" rel="nofollow noopener" title="http://codepaste.net/jkzdha">http://codepaste.net/jkzdha</a> )<br> &lt;div id="related-results" class="auto-closable-div"&gt;<br>  &lt;h2&gt;Blah blah blog&lt;/h2&gt;<br>  &lt;/h2&gt;<br>&lt;/div&gt;<br>$(function() { //ready<br> <br>$('.auto-closable-div').each(function() {<br>var thisDiv=this;<br>var hideAnchor= document.createElement("a");<br>$(hideAnchor).attr("title", "hide this div")<br>             .attr("href", '#')<br>             .text("[Hide]")<br>             .appendTo(thisDiv)<br>             .click(function() {<br>                  $(thisDiv).slideUp();<br>                  return false;<br>             });<br>});<br> <br>}); //ready<br></p>

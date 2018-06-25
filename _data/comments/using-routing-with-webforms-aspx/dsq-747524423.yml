@@ -1,0 +1,5 @@
+id: dsq-747524423
+date: 2008-07-21T22:32:46.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Nick, routing puts data into the requset context (via the RouteData values dictionary) which you can access from the page. The URL is completely separate from the page.</p>

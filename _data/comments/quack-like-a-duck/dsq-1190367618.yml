@@ -1,0 +1,5 @@
+id: dsq-1190367618
+date: 2014-01-07T04:02:23.0000000-08:00
+name: John Atten
+avatar: https://disqus.com/api/users/avatars/JohnAtten.jpg
+message: <p>Not that Wikipedia should be considered a canonical source for *anything*, but a key line in the Wikipedia article on Duck Typing is:</p><p>"Duck typing is aided by habitually not testing for the type of arguments in method and function bodies, relying on documentation, clear code and testing to ensure correct use."</p><p>Whether or not one buys into that particular philosophy or not is another matter. :-)</p><p>The recent posts on this by Eric Lippert, yourself, and Glen Block (<a href="http://codebetter.com/glennblock/2014/01/05/on-duck-typing/)" rel="nofollow noopener" title="http://codebetter.com/glennblock/2014/01/05/on-duck-typing/)">http://codebetter.com/glenn...</a><br>came a good time for me, as I have been trying to come to terms with JavaScripts and Node.js. A day or two before Lippert's original post I had been looking at that very Wikipedia page.</p>

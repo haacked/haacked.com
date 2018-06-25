@@ -1,0 +1,5 @@
+id: dsq-747527624
+date: 2009-01-04T22:05:13.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Atif good point about the regex creation perf cost. That brings his method up to speed so its more usable, but it still doesn't pass all my unit tests.</p>

@@ -1,0 +1,5 @@
+id: dsq-747534727
+date: 2011-04-11T23:31:30.0000000-07:00
+name: David Nelson
+avatar: https://disqus.com/api/users/avatars/David Nelson.jpg
+message: <p>I am excited about using NuGet to manage our company's internal collection of libraries; previously we have stored everything on our intranet, and although it is functional, there are numerous problems which I hope NuGet will solve.<br>However, currently I am having trouble getting my NuGet server running on my development web server. It complains that it "Could not load file or assembly 'Microsoft.Web.Infrastructure..." It seems that NuGet.Server has an external dependency that I don't have installed; but I can't find anything that mentions such a dependency.</p>

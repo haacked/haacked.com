@@ -1,0 +1,5 @@
+id: dsq-747522778
+date: 2007-09-20T18:41:14.0000000-07:00
+name: Aaron Davis
+avatar: https://disqus.com/api/users/avatars/Aaron Davis.jpg
+message: <p>I think it would be possible to create an automatic update mechanism, where the app calls home once a day to look for updates.  We do this on-demand with trackbacks, so the basic technology is there.  Most languages allow for programmatic downloading, so you could automatically download and apply any patches.<br>There should be some sort of admin section, like automatic updates in windows.  Automatically apply | Download and let me install | Just show me the list, that sort of thing.  You could also have an option to automatically take the app offline if there is an especially critic fix.<br>The only problem with this kind of system, is that it requires the admin to have access to the server, since the automatic polling would probably need to be a cron job, and some fixes may need to be recompiled.</p>

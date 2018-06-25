@@ -1,0 +1,5 @@
+id: dsq-747532554
+date: 2010-06-16T16:29:59.0000000-07:00
+name: Craig bovis
+avatar: https://disqus.com/api/users/avatars/Craig bovis.jpg
+message: <p>What happens if the string argument is null though? Surely you'll get an exception since you're trying to run the asnullifwhitespace method on a null reference.</p>

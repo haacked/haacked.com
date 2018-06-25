@@ -1,0 +1,5 @@
+id: dsq-747538471
+date: 2012-10-09T04:02:03.0000000-07:00
+name: Ray Booysen
+avatar: https://disqus.com/api/users/avatars/Ray Booysen.jpg
+message: <p>Agreed, Concat is made for this.  If your Extract() stream errors, you probably don't want to do the GetStuffs() anyway as you're in an unknown state and would handle that in your OnError handler.  Concat however, fulfills the requirement.  After the first stream, start the next.</p>

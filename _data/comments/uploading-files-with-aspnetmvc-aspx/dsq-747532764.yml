@@ -1,0 +1,5 @@
+id: dsq-747532764
+date: 2012-06-11T21:06:57.0000000-07:00
+name: Jules Bartow
+avatar: https://disqus.com/api/users/avatars/Jules Bartow.jpg
+message: <p>Mr. Haack you have the knack. Most excellent brilliant kind sir. Do you have as sterling and simple demo to show how to save a reference in SQL Server to the image location and image type for the user that uploaded the images using Entity Framework DbContext. I know how to do it with stored procedure inserts returning a primary key and inserting ImageId and UserId into an associate many-to-many table. <br>Doing it elegantly and simply in EF is elusive.</p>

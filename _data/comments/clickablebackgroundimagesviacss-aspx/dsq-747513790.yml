@@ -1,0 +1,5 @@
+id: dsq-747513790
+date: 2008-03-30T18:26:11.0000000-07:00
+name: Peyo
+avatar: https://disqus.com/api/users/avatars/Peyo.jpg
+message: <p>OK, after some struggling with ie, I have figured out why it wasn't working, the problem was that there was an image and some text positioned in the same area than the (a) tag.<br>Although the (a) had the highest z-index, IE was placing it in the bottom...</p>

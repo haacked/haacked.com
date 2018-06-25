@@ -1,0 +1,5 @@
+id: dsq-747516280
+date: 2006-08-11T15:00:10.0000000-07:00
+name: jayson knight
+avatar: https://disqus.com/api/users/avatars/jayson knight.jpg
+message: <p>That sounds about right. I struggled with this very thing a while back on a project. The problem with using StackTrace or StackFrame is that IIRC your code has include .pdb files and needs to have debugging enabled (though doesn't necessarily have to be compiled in debug mode).<br>I personally like dealing with assembly references better, but it requires more code and is a little more tedious.</p>

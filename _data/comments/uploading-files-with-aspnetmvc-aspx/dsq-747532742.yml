@@ -1,0 +1,5 @@
+id: dsq-747532742
+date: 2011-12-02T04:11:44.0000000-08:00
+name: Vinca
+avatar: https://disqus.com/api/users/avatars/Vinca.jpg
+message: "<p>Seems easy enough, but I'm getting an error on the 'Path' - \"Path does not exist in current context\". <br>I've a context file, but this is for a different page.  Help?<br>By the way, @Themhs: you'll need to add some code in your web config page: &lt;httpRuntime maxRequestLength=\"x\" /&gt;  \"x\" being the number of KB's.  I think the default is 4MB.</p>"

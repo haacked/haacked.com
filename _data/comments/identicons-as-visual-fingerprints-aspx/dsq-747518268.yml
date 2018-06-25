@@ -1,0 +1,5 @@
+id: dsq-747518268
+date: 2007-01-21T21:50:57.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Thanks Don, appreciate it. I just made Identicons the default image for commenters. Thus if a commenter does not have a gravatar, the identicon will show instead. <br>Right now, gravatars are broken on my site, so everyone will show up as an identicon until I fix it.</p>

@@ -1,0 +1,5 @@
+id: dsq-747527286
+date: 2010-11-22T22:41:56.0000000-08:00
+name: qishu2002
+avatar: https://disqus.com/api/users/avatars/qishu2002.jpg
+message: <p>I walked through your article and made my sample web site display static content such as Jquery theme, ui, etc. <br>However, I can not build connection to remote sql server via IIS 6.0. I can build connection with VS 2008. I have spent lots of time on this issue, still not working. I got error as<br>System.Data.SqlClient.SqlInternalConnection.OnError(SQlException exception, Boolean breakConnection)<br>Please help on this. I am very frustrated.</p>

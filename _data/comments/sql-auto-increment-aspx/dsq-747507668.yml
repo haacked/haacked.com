@@ -1,0 +1,5 @@
+id: dsq-747507668
+date: 2009-12-20T14:25:20.0000000-08:00
+name: Digin
+avatar: https://disqus.com/api/users/avatars/Digin.jpg
+message: <p>SET @temp =99;<br>UPDATE table SET id = @temp := ( @temp +1 ); <br></p>

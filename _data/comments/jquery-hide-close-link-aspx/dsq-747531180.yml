@@ -1,0 +1,5 @@
+id: dsq-747531180
+date: 2009-12-28T05:10:24.0000000-08:00
+name: Brian
+avatar: https://disqus.com/api/users/avatars/Brian.jpg
+message: "<p>I personally don't like the use of the href attribute here particularly in terms of unobtrusiveness. The link has two different behaviours depending on whether I have javascript enabled or not. With script it hides a div. Without script it scrolls to the div. Not exactly in tune.<br>You have two scenarios when wanting to show/hide elements like this.<br>1. You want to hide the div with and without script: therefore the href must point to a url with a querystring for example that allows the server side to hide it and for jquery you have a class value of something like \"close id-1234\" so jquery can assign the hide functionality to all links that have a class of close and that hide function can get the id by parsing out the id-1234 bit.<br>2. You want to hide the div when script is on and dispense with the functionality with it off: Here you mark the closeable divs with a class of \"closeable\" for example and use jquery to add the links on the fly after each one.</p>"

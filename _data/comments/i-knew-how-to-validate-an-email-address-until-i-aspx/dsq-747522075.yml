@@ -1,0 +1,5 @@
+id: dsq-747522075
+date: 2008-04-14T18:57:14.0000000-07:00
+name: Professional Website Design
+avatar: https://disqus.com/api/users/avatars/Professional Website Design.jpg
+message: <p>Very interesting and amusing.<br>Can anyone say why the hell they made the RFCs so damned complicated?<br>Two points:<br>1. One can do lots of really complicated things with Regular Expressions but sometimes they are just not appropriate and perhaps a state machine would work better. The problem I find with big regular expressions is that they are not exactly self documenting. In my view a regex longer than a single line might as well be line noise. But perhaps that's just me getting past it.<br>2. When I was still a programmer I found that my colleagues, on the whole, didn't have a clue about how to use regular expressions. One result of this was that they often did lots of repetitious editing while I would creat a regex to do it all in one step.<br>Nick</p>

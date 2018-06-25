@@ -1,0 +1,5 @@
+id: dsq-747510187
+date: 2006-11-19T22:19:25.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>Two options I can think of.<br>1. Before processing, remove commented out scripts.  For example: Replace:<br>\"&lt;!--&lt;script&gt;\" with \"&lt;script&gt;\"<br>and &lt;/script&gt;--&gt; with \"&lt;/script&gt;\"<br>And then run your original replacement.<br>OR<br>Use the negative lookahead and negative lookbehind to make sure the script you're replacing doesn't already have comments.</p>"

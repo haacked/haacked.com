@@ -1,0 +1,5 @@
+id: dsq-747525788
+date: 2008-07-17T03:14:37.0000000-07:00
+name: david alpert
+avatar: https://disqus.com/api/users/avatars/david alpert.jpg
+message: <p>How does Html.RenderUserControl(...) fit into the refactoring of RenderComponent into RenderAction?<br>I wasn't using RenderComponent, i was using RenderUserControl, but that was looking for a Component Controller in the /Components/ folder....<br>Now my "ComponentController" inherits from "Controller" in the absence of ComponentController, so i moved it into my /Controllers/ folder, but now RenderUserControl(...) can't find it!<br>All this to enable paging as a user control!<br></p>

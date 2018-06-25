@@ -1,0 +1,5 @@
+id: dsq-747536285
+date: 2011-10-10T11:59:58.0000000-07:00
+name: Paul Alexander
+avatar: https://disqus.com/api/users/avatars/Paul Alexander.jpg
+message: '<p>The attribute implementation is interesting and useful for potentially other issues, but why not just add the token directly to the values submitted instead of adding a custom header?<br> data: window.JSON.stringify($.extend( obj, headers) ),<br></p>'

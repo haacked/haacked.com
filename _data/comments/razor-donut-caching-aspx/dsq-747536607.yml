@@ -1,0 +1,5 @@
+id: dsq-747536607
+date: 2011-11-26T03:22:48.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Brian, I would imagine that the @cache directive would support all the cache parameters you'd expect such as the timespan and vary by.</p>

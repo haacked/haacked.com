@@ -1,0 +1,5 @@
+id: dsq-747532446
+date: 2010-06-08T21:35:33.0000000-07:00
+name: Bradley Landis
+avatar: https://disqus.com/api/users/avatars/Bradley Landis.jpg
+message: <p>What is the best way to work with the project while developing skins?  I installed Subtext, created a blog, copied an existing skin to a new directory and updated the skin.config.  Then I made a few changes to the page template and selected the new skin.  Everything worked great.  But now when I make more changes, no matter what I do, I can't get the changes to take effect.  Does it have to do with the pre-compilation?</p>

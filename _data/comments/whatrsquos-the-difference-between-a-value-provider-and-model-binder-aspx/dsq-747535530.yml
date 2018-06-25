@@ -1,0 +1,5 @@
+id: dsq-747535530
+date: 2011-06-30T01:56:57.0000000-07:00
+name: Chris V.
+avatar: https://disqus.com/api/users/avatars/Chris V..jpg
+message: <p>This is a great post. I love getting perspective on implementation details like this.<br>On a related note, one thing that's always bothered me about the default model binder code (though I admit, not enough for me to look at the source code and figure out a way around it), is that if you have an integer property to be bound, and the user submits a non-integer value, the error message returned seems to come from deep within the framework somewhere. This error message does not seem configurable via code because the error is thrown before the model-based validation ever actually occurs. Maybe you could shed some light on that one?</p>

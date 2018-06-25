@@ -1,0 +1,5 @@
+id: dsq-747517664
+date: 2009-03-26T21:58:39.0000000-07:00
+name: Leo Sutherland
+avatar: https://disqus.com/api/users/avatars/Leo Sutherland.jpg
+message: "<p>&lt;st:HelpToolTip id=\"blah\" runat=\"server\" HelpText=\"Blah!\" /&gt;<br>&lt;st:SomeControl id=\"foo\" runat=\"server\" /&gt;<br>Great tip as far as it goes - I need the syntax for using a custom component on a web page. Process of elimination means the second of the two lines above is for the User Control, therefore the first is for the Custom Componenet.<br>But where the \"HelpToolTip\" come from - what it refer to? THe test Custom control I'm playing with has a Text Property and a Render Property - should I be doing something like<br>&lt;st:Text id=\"blah\" runat=\"server\" HelpText=\"Blah!\" /&gt;<br>or perhaps<br>&lt;st:?????? id=\"blah\" runat=\"server\" Text=\"Blah!\" /&gt;<br>where I don't know what ?????? is<br>or even<br>&lt;st: id=\"blah\" runat=\"server\" Text=\"Blah!\" /&gt;<br>Please help - me confused :)<br><br></p>"

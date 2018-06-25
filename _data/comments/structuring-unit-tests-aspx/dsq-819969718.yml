@@ -1,0 +1,5 @@
+id: dsq-819969718
+date: 2013-03-05T05:31:54.0000000-08:00
+name: ansciath
+avatar: https://disqus.com/api/users/avatars/ansciath.jpg
+message: <p>I've recently adopted this structure but for a reason that is more practical than mere organizaiton. Arranging unit tests in this way makes it easier to run all of the unit tests for a specific unit, without running any other tests. This prevents extraneous coverage due to non-relevant tests when white box testing.</p>

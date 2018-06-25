@@ -1,0 +1,5 @@
+id: dsq-747531303
+date: 2010-01-11T23:57:55.0000000-08:00
+name: Craig
+avatar: https://disqus.com/api/users/avatars/Craig.jpg
+message: <p>When I first heard of "areas", I assumed MVC would support URLs like Blogs/Home/Index and that I could create route definitions like {area}/{controller}/{action}/{id} and MVC would use the area part of the URL to distinguish controllers.<br>Your fix removes the ambiguity for the compiler, but from the standpoint of creating URLs, do I have to name the Blogs Home controller different from the Forums Home controller?  I can see a lot of naming inconvenience just to avoid ambiguity.</p>

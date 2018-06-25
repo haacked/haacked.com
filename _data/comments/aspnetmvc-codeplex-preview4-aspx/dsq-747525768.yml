@@ -1,0 +1,5 @@
+id: dsq-747525768
+date: 2008-07-16T13:48:28.0000000-07:00
+name: Torkel
+avatar: https://disqus.com/api/users/avatars/Torkel.jpg
+message: <p>Hi, <br>Just a question regarding the Ajax helpers, how tied are these to a specific javascript library? If it is possible, without restricting featuers to the lowest common denominator to much, it would be great if the ajax library was pluggable, so you could for example use JQuery or Prototype with the MVC Ajax helpers.</p>

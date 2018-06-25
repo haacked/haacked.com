@@ -1,0 +1,5 @@
+id: dsq-747536396
+date: 2011-12-17T19:00:39.0000000-08:00
+name: Chris M
+avatar: https://disqus.com/api/users/avatars/Chris M.jpg
+message: '<p>Not a big fan of the long-lived lock: The code here wraps the task, which may run for a long time, in a lock. In addition to being named vaguely, "_lock", any lock left lying around leaves room for coding mistakes that cause deadlocks.<br>The good news is the lock is unnecessary, at least so long as the documentation is correct:<br><a href="http://msdn.microsoft.com/en-us/library/system.web.hosting.iregisteredobject.stop.aspx" rel="nofollow noopener" title="http://msdn.microsoft.com/en-us/library/system.web.hosting.iregisteredobject.stop.aspx">msdn.microsoft.com/...</a><br>"The object can either complete processing, call the UnregisterObject method, and then return or it can return immediately and complete processing asynchronously before calling the UnregisterObject method."<br>Can you verify that documentation is correct?</p>'

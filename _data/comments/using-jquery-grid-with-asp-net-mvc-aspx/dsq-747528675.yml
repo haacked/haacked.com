@@ -1,0 +1,5 @@
+id: dsq-747528675
+date: 2009-04-28T06:19:00.0000000-07:00
+name: BeullaBoris
+avatar: https://disqus.com/api/users/avatars/BeullaBoris.jpg
+message: <p>I am still getting the object not supported issue.  I have changed the var pathtojsfiles and everytime I run and debug it changes the path back to the original.<br>Any help?</p>

@@ -1,0 +1,5 @@
+id: dsq-747517238
+date: 2011-06-18T08:27:01.0000000-07:00
+name: Sunil
+avatar: https://disqus.com/api/users/avatars/Sunil.jpg
+message: <p>Hi,<br>HttpContext.Current.Request.ServerVariable["HTTP_X_FORWARDED_FOR"] is returning null..please help me.<br>Regards<br>Sunil</p>

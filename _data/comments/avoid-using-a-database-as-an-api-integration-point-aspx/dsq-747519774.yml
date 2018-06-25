@@ -1,0 +1,5 @@
+id: dsq-747519774
+date: 2007-04-23T22:59:28.0000000-07:00
+name: Ryan Smith
+avatar: https://disqus.com/api/users/avatars/Ryan Smith.jpg
+message: <p>I built a CMS for a large client with ASP.NET 2.0 right as it came out.  I decided to use the default membership provider for the user registration and everything else.<br>It has turned out to be the bane of my existence due to the fact that anytime I want to do something unique, I'm forced in to hammering it into the Microsoft way of things.<br>I would like to note that the Microsoft way of doing things isn't necessarily bad, but since I would approach it in a different way I end up with some really ugly hack code.<br>I would love to go back and redo the entire user / membership tables in the way I would have done them, but I fear that it is far too late for that.<br>The lesson that I learned from this is "Don't use a new programming pattern if you already know how to do it in a familiar way"</p>

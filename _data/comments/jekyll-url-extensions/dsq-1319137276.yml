@@ -1,0 +1,6 @@
+id: dsq-1319137276
+replyToId: dsq-1155096575
+date: 2014-04-04T15:35:48.0000000-07:00
+name: Eric Duncan
+avatar: https://disqus.com/api/users/avatars/eduncan911.jpg
+message: <p>I'm in the .middle of converting my old CommunityServer blog and this is a nice trick for the .aspx.</p><p>I wanted to comment on the option for people submitting pull requests for ur pages.  I think that won't be possible.</p><p>It may be the way my GitHub Pages and Octopress works with PoshGit which that in and of itself is a problem:</p><p><a href="http://preview.eduncan911.com/software/octopress-powershell-and-posh-git-oh-my.html" rel="nofollow noopener" title="http://preview.eduncan911.com/software/octopress-powershell-and-posh-git-oh-my.html">http://preview.eduncan911.c...</a></p><p>^- temp URL until I convert. But the post is valid and Google may find me now that I post this, doh.</p><p>When setup like this, I cannot issue a:</p><p>[source]&gt; git pull origin source</p><p>It does the funky thing of merging in changes I already pushed up and creates another commit for now a double commit.</p><p>Yes, you can do this from the _deploy folder that is on the [master] branch as that is what the Ruby script does (as outlined in that post).</p><p>Maybe I missed a haack of my haacked setup for my Hacker blog of Octopress?  :-)</p><p></p>

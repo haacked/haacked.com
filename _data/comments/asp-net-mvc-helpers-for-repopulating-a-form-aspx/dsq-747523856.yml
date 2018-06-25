@@ -1,0 +1,5 @@
+id: dsq-747523856
+date: 2007-12-21T13:22:16.0000000-08:00
+name: Rick Strahl
+avatar: https://disqus.com/api/users/avatars/Rick Strahl.jpg
+message: <p>Phil,<br>This looks so familiar its scary. I had something like this in an old framework. But there were a number of problems with this. First is the convention issue. It requires that your fields and controls are named the same which often is not the case (ie. only if you got front to end control). One thing at the very least that should be supported is 'prefixing' for control names(ie. txtName, chkEntered etc.). that can *optionally* be stripped.<br>The other thing is this starts falling down quickly if you have multiple objects that might have overlapping field names especially if you only want to update a few properties on several large objects. I suppose you can fix that up after the fact but you may run into conversion problems if types don't match.<br>Lots of little things to worry about with this particular approach.<br><br></p>

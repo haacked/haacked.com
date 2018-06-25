@@ -1,0 +1,5 @@
+id: dsq-747526292
+date: 2008-08-29T04:58:32.0000000-07:00
+name: Justice~!
+avatar: https://disqus.com/api/users/avatars/Justice~!.jpg
+message: <p>"This is one reason you’ve seen the MVC team resistant to including helper methods, such as Url&lt;t&gt;(…), that use an expression to define the URL of an action. The action is not necessarily equivalent to a method on the class with the same name."<br>Can't it be resolved nonetheless if the action we're calling is decorated with an attribute, though?  I mean, it seems odd to me that if we're breaking down the action in that way we wouldn't be able to substitute the ActionName assigned to that method.  At least, I would figure that's the way it should be.<br></p>

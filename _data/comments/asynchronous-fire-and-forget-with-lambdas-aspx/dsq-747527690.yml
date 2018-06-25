@@ -1,0 +1,5 @@
+id: dsq-747527690
+date: 2009-01-09T01:44:27.0000000-08:00
+name: Alex
+avatar: https://disqus.com/api/users/avatars/Alex.jpg
+message: <p>Is there any reason this wouldn't work in a similar manner, even in .Net 2.0?<br><code>string to, from, subject, body;<br>SendEmailDelegate sendEmail = im.Send;<br>ThreadPool.QueueUserWorkItem(delegate {<br>sendEmail(to, from, subject, body);<br>});</code></p>

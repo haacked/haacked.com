@@ -1,0 +1,5 @@
+id: dsq-747531024
+date: 2009-12-17T00:51:37.0000000-08:00
+name: Drazen Dotlic
+avatar: https://disqus.com/api/users/avatars/Drazen Dotlic.jpg
+message: <blockquote>The other change related to validation is that the ValidationSummary now supports overloads where only model-level errors are displayed.</blockquote><p><br>Excellent! I ran into this issue the other day and was wandering how to solve it.<br>Is there a way <strong>today</strong> with ASP.NET MVC 1.0 to get this kind of behavior?</p>

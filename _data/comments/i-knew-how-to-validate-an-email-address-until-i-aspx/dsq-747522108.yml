@@ -1,0 +1,5 @@
+id: dsq-747522108
+date: 2009-02-12T18:22:02.0000000-08:00
+name: Dominic Sayers
+avatar: https://disqus.com/api/users/avatars/Dominic Sayers.jpg
+message: "<p>OK, I'm now adding your unit tests into my test suite described here: <a href=\"http://www.dominicsayers.com/isemail/\" rel=\"nofollow noopener\" title=\"http://www.dominicsayers.com/isemail/\">http://www.dominicsayers.com/isemail/</a><br>I'm having trouble interpreting this one:<br>[Row(\"\\\"test\\\\\\rblah\\\"@example.com\", true)]<br>Is that a Carriage Return in the middle there? I'm not too hot on .NET string literals. Anyway, I agree that Folding White Space is OK in a quoted-string (see RFC2822 Section 3.2.5). But I don't agree that you can have an unquoted backslash in there. It looks like this test is semantically equivalent to this one:<br>[Row(@\"\"\"test\\blah\"\"@example.com\", false)]<br>which you correctly mark as false.<br>What am I missing, Phil?</p>"

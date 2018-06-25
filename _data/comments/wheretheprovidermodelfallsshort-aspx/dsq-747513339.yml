@@ -1,0 +1,5 @@
+id: dsq-747513339
+date: 2005-11-01T10:16:00.0000000-08:00
+name: jayson knight
+avatar: https://disqus.com/api/users/avatars/jayson knight.jpg
+message: <p>The only trepidation I have about dynamic SQL is that there is a very real chance that the query optimizer won't get to work its magic on the statements.  You also then have to roll your own security around the statements, plus check for injection attack scenarios, etc.  Sprocs have that all built in, plus they're pretty much guaranteed to go through the optimizer.  <br><br><br><br>That being said I'd love to see some benchmarks, plus the upsides that you mention are compelling in their own right.  In the end I believe it's definitely an attractive package for ISV's, but in the realm of IT where it's usually a very controlled environment, the added overhead and complexity generally isn't worth it IMO.</p>

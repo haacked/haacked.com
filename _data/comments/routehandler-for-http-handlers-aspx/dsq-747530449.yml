@@ -1,0 +1,5 @@
+id: dsq-747530449
+date: 2009-11-04T07:56:00.0000000-08:00
+name: PK
+avatar: https://disqus.com/api/users/avatars/PK.jpg
+message: <p>Hi Phil,<br>I'm really really really embarassed to admit this ... but I'm not sure I can see _why_ we would want this?<br>Yes, yes .. download the code, open it up and read it, etc.... but maybe some sample idea's why we would want to have a custom RouteHandler? Could this be<br>a) Rss feeds (what about the built in REST stuff, into MVC2.0? format=xml/js, etc?)<br>b) Image handler?<br>?<br>Sorry for such a really noob question. Having a blond moment here *blush*</p>

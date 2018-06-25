@@ -1,0 +1,5 @@
+id: dsq-1185404697
+date: 2014-01-03T06:39:50.0000000-08:00
+name: Brian Hartung
+avatar: https://disqus.com/api/users/avatars/brianhartung.jpg
+message: <p>Worrying about open (or shared) source in the .NET ecosystem compromising security by granting visibility to the implementation details in the age of tools like Reflector, etc. (when so few vendors use obfuscation anyway) is absurd.</p>

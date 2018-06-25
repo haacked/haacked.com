@@ -1,0 +1,5 @@
+id: dsq-747532851
+date: 2010-08-02T04:28:39.0000000-07:00
+name: Winston
+avatar: https://disqus.com/api/users/avatars/Winston.jpg
+message: <p>A few curious questions I had when I first saw this was, 1)Would ViewData be eventually deprecated in future MVC versions? 2) Is the dynamic View essentially injecting into ViewData? 3) If point 1 is true, does this mean MVC would eventually be for .NET 4.0+ only, since previous frameworks don't support dynamic.<br>Cheers,<br><br>Winston</p>

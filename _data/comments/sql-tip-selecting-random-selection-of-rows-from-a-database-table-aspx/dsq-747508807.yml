@@ -1,0 +1,5 @@
+id: dsq-747508807
+date: 2011-02-08T11:50:08.0000000-08:00
+name: afeera
+avatar: https://disqus.com/api/users/avatars/afeera.jpg
+message: <p>i m using this code for my project.. but the same record is repeating more than once.. i don wan that to happen.. <br>all the records must b chosen randomly but no record should be repeated.<br> how do i implement that? <br>i tried this query.. but some error.. <br>SELECT distinct(question) FROM questions where topic = '" + "Data Interpretation" + "' ORDER BY NEWID() <br>error :<br>ORDER BY items must appear in the select list if SELECT DISTINCT is specified.<br><br>can anyone correct me.. <br>thanks in advance :)</p>

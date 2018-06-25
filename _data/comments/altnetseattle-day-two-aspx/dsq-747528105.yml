@@ -1,0 +1,5 @@
+id: dsq-747528105
+date: 2009-03-01T09:11:35.0000000-08:00
+name: Brad Wilson
+avatar: https://disqus.com/api/users/avatars/Brad Wilson.jpg
+message: <p>Obviously, if it were to be "shipped in the box", then it would support a native Visual Studio runner.<br>We've evaluated hooking into the existing runner, but it means a compromise in terms of performance and features. Plus, the APIs have been (and continue to be) in flux, so we need to figure out which version of Visual Studio we intend to target. Right now I believe our plans are to have Visual Studio support in the VS 2010 time frame.</p>

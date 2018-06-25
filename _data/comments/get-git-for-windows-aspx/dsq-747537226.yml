@@ -1,0 +1,5 @@
+id: dsq-747537226
+date: 2011-12-20T06:48:36.0000000-08:00
+name: Bradley T. Landis
+avatar: https://disqus.com/api/users/avatars/Bradley T. Landis.jpg
+message: <p>I fixed mine by replacing:<br>&amp; $sshAdd<br>in the GitUtils.ps1 to:<br> $sshPath = resolve-path ~/.ssh/id_rsa<br>    <br> &amp; $sshAdd $sshPath<br></p>

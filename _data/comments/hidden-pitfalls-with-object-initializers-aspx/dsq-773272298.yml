@@ -1,0 +1,6 @@
+id: dsq-773272298
+replyToId: dsq-771931280
+date: 2013-01-20T10:27:44.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Not in every possible case. Sometimes you need to create a temporary stream and dispose of it. Or you're implementing a wrapper class+interface for a type that doesn't implement an interface. So you inject your wrapper but keep the instance being wrapped from bleeding into the public API.</p>

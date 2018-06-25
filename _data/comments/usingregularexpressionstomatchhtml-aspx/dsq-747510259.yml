@@ -1,0 +1,5 @@
+id: dsq-747510259
+date: 2009-03-18T01:34:52.0000000-07:00
+name: get entertainment
+avatar: https://disqus.com/api/users/avatars/get entertainment.jpg
+message: <p>How do you get the inner text using regex? what if there is several matching tags i.e. &lt;ul&gt;&lt;li&gt;content&lt;/li&gt;&lt;li&gt;content&lt;/li&gt;etc. &lt;/ul&gt;<br></p>

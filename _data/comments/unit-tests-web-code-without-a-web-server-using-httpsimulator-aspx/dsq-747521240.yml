@@ -1,0 +1,5 @@
+id: dsq-747521240
+date: 2007-06-20T21:10:01.0000000-07:00
+name: Travis Illig
+avatar: https://disqus.com/api/users/avatars/tillig.jpg
+message: <p>The other alternative is to use TypeMock and mock the HttpContext.  That works pretty well and hasn't caused me a build error yet. :)<br>Of course, it does imply you're willing to go with TypeMock (which I love and highly recommend, and which there is a free "Community" version that should work just fine for this).  Not everyone is as gung-ho for TypeMock as I am, but it does solve problems like this very nicely...</p>

@@ -1,0 +1,5 @@
+id: dsq-747534742
+date: 2011-05-04T07:00:40.0000000-07:00
+name: Shaun McCarthy
+avatar: https://disqus.com/api/users/avatars/Shaun McCarthy.jpg
+message: <p>When you deploy this to a live server that binds multiple websites to the same IP Address, make sure to set &amp;lt;serviceHostingEnvironment multipleSiteBindingsEnabled=&amp;quot;true&amp;quot; /&amp;gt; in your web.config file; otherwise, you will end up getting error messages along the lines of "This collection already contains an address with scheme http".<br>I've listed a few other gotchas on <a href="http://neofight.wordpress.com/?p=138" rel="nofollow noopener" title="http://neofight.wordpress.com/?p=138">my blog</a><br></p>

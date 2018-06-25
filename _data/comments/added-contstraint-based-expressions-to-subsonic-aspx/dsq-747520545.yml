@@ -1,0 +1,5 @@
+id: dsq-747520545
+date: 2007-05-24T02:51:14.0000000-07:00
+name: James Curran
+avatar: https://disqus.com/api/users/avatars/James Curran.jpg
+message: <p>How 'bout we try this:<br><code>static public class Select<br>{<br>  static public TableList From <br>  {  get { return new TableList(); }<br>  }<br>}<br></code><br>The TableList would be a generate class, like Tables:<br><code><br>public class TableList<br>{<br>   Query Product { get {return new Query("Product"); }}<br>  // other tables here<br>}</code><br>That would allow code like<br>Select.From.Product.Where(...)<br>with full Intellisense.<br> <br></p>

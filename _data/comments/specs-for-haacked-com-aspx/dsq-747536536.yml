@@ -1,0 +1,5 @@
+id: dsq-747536536
+date: 2011-11-19T20:25:42.0000000-08:00
+name: Jeff Putz
+avatar: https://disqus.com/api/users/avatars/Jeff Putz.jpg
+message: "<p>What's your traffic like? That tends to give context about how hard the hardware is getting worked over. :) I liked Crystaltech. I had a box with them back in the day (2001?) and had the distinction of the most expensive dedicated server.<br>Me, I run my stuff on a Gameboy. Not really. I actually got lucky when I ordered a \"new\" box from The Planet, which is now SoftLayer. They didn't have what I ordered available for provision, so they bumped me up to some insane quad-core Xeon thing with 4 gigs of RAM. Drives are just cheap IDE, C: with the site files and OS, SQL on D:. Real-time data backup isn't that important, so I push a backup nightly to S3. For the half-million page views a month, the whole thing is total overkill.</p>"

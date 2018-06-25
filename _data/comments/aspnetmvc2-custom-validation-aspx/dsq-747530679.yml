@@ -1,0 +1,5 @@
+id: dsq-747530679
+date: 2009-11-19T23:31:00.0000000-08:00
+name: Peter.O
+avatar: https://disqus.com/api/users/avatars/Peter.O.jpg
+message: "<p>Somehow, the following 2 lines are not working the same way for my version. Am almost sure I have the beta version:<br>method: GetClientValidationRules()<br>ErrorMessage = _message; // compile error .. has no setter.<br>ValidationType = \"price\" // doesn't take string.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747537045
+date: 2011-12-07T06:17:45.0000000-08:00
+name: Rodrigo Dumont
+avatar: https://disqus.com/api/users/avatars/rdumont.jpg
+message: <p>Congratulations! It is sad to see you leaving Microsoft, but at the same time great that you are joining GitHub! I'm sure that all of us .NET OSS devs are going to benefit from it.<br>I have one observation about the language ranks, though. I suspect that GitHub's rank is based on lines of code (LOC), right? Because that would certainly explain, for instance, JavaScript having 20% of the language share, since it is scripted, and every single usage of, say, JQuery in a project adds to that count.</p>

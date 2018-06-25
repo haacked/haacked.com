@@ -1,0 +1,5 @@
+id: dsq-747507655
+date: 2008-08-28T22:21:39.0000000-07:00
+name: Seb
+avatar: https://disqus.com/api/users/avatars/Seb.jpg
+message: "<p>\"Do you know any method for doing the same thing in a Select statement?<br>I would something like this:<br>select {increment value} as Counter, strUsername from Users<br>Counter strUsername <br>----------------------<br>1 John<br>2 Mike<br>3 Laura<br>...<br>\"<br>Here is the solution:<br>create table #user<br>(<br>UserID int,<br>Username varchar(255)<br>)<br>insert into #user values (10, 'John')<br>insert into #user values (20, 'Mike')<br>insert into #user values (30, 'Laura')<br>select(<br>SELECTCOUNT(UserID) + 1 AS Counter<br>FROM#user usr<br>WHEREusr.UserID &lt; #user.UserID<br>) AS Counter,<br>Username<br>from #user<br>drop table #user</p>"

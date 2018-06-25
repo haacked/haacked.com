@@ -1,0 +1,5 @@
+id: dsq-747511422
+date: 2008-09-17T00:31:45.0000000-07:00
+name: Fitz
+avatar: https://disqus.com/api/users/avatars/Fitz.jpg
+message: "<p>Hey Guys, I don't know if you found a better way to do this, but I have managed to do this without resorting to nested divs or any sort of what I would call hacks.  I have my background image as normal and then I add my second image which I want under the text but not repeated like the background image.  So I add the second image like:<br><code><br>&lt;img src=\"/images/image.png\" alt=\"image.png\" class=\"alignleft\"&gt; <br></code><br>The magic happens in the stylesheet for alignleft:<br><code><br>img.alignleft {<br>/*padding: 4px;<br>margin: 0 7px 2px 0;<br>display: inline;*/<br>position:absolute;<br>left:0px;<br>top:0px;<br>z-index:-1;<br>}<br></code><br>The key here is the z-index item.  I have set it to negative 1 (-1) because this puts it behind everything but the background.  Hope this isn't too late and that it helps someone else out.</p>"

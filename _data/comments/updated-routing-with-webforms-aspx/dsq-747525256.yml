@@ -1,0 +1,5 @@
+id: dsq-747525256
+date: 2008-06-04T04:58:28.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I think it's challenging to try and use the same MasterPage for both WebForms and MVC pages, unless the master page does not have any postback controls. In that case, it's pretty easy.<br>I believe they have postback controls on their master pages, but they still want to use the same one for both their MVC pages and WebForm pages. That is why theirs is complex.<br>Ideally, try and avoid that situation. :)</p>

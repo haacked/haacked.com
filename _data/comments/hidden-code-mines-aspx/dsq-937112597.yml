@@ -1,0 +1,6 @@
+id: dsq-937112597
+replyToId: dsq-935273972
+date: 2013-06-20T16:58:34.0000000-07:00
+name: Mauricio Scheffer
+avatar: https://disqus.com/api/users/avatars/Mauricio Scheffer.jpg
+message: <p>My point is about avoiding partial functions, not about understanding data or not. If the input type allows some "unwanted data", then the function must deal with this. Please see my reply to Phil.</p>

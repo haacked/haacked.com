@@ -1,0 +1,5 @@
+id: dsq-747530578
+date: 2009-11-24T23:54:00.0000000-08:00
+name: kmehta
+avatar: https://disqus.com/api/users/avatars/kmehta.jpg
+message: <p>Just upgraded from Beta2P2 to Beta2. Everything worked great (almost). I'm referencing the futures dll (Microsoft.Web.Mvc) as well as System.Web.Mvc.Html from my web config. I unfortunately need/want both namespaces for some things I'm doing.<br>Unfortunately some of my methods (ValidationMessageFor, TextBoxFor ...) are throwing an "Ambiguous Invocation" error. After the Beta2 release, it appears that some extension methods are duplicated in the core and futures libraries. <br>Phil, do you suggest a way around this, or is there a new version of the futures dll being released soon with these duplicates removed?<br>Appreciate the help.</p>

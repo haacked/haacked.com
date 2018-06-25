@@ -1,0 +1,5 @@
+id: dsq-747535130
+date: 2011-04-27T00:54:48.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@David, @Michael, which version of NuGet do you currently have installed? If you go to the Package Manager Console and type in $host, what does it tell you?<br>@Dan, go to <a href="http://nuget.codeplex.com/releases" rel="nofollow noopener" title="http://nuget.codeplex.com/releases">http://nuget.codeplex.com/releases</a> to get the command line tool.</p>

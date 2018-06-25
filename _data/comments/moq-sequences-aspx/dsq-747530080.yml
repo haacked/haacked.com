@@ -1,0 +1,5 @@
+id: dsq-747530080
+date: 2010-07-30T01:07:52.0000000-07:00
+name: Ivan
+avatar: https://disqus.com/api/users/avatars/Ivan.jpg
+message: <p>Why not:<br>var reader = Mock&lt;IDataReader&gt;();<br>int count = 0;<br>reader.Setup(r =&gt; r.Read()).Returns(() =&gt; (++count &lt; 3));<br>Pretty simple, and gives you a count of the number of times Read() was called (somebody may have been calling it even after false was returned).<br>I do like the generic ReturnsInOrder() extension method, though.</p>

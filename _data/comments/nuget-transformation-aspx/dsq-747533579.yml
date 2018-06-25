@@ -1,0 +1,5 @@
+id: dsq-747533579
+date: 2010-12-07T01:54:21.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Jim there's no way currently for NuGet to add code to parts of an existing file. In general, that type of feature is problematic. Not everyone wants a package manager to modify existing code. Instead, we do have a <a href="http://blogs.msdn.com/b/davidebb/archive/2010/10/11/light-up-your-nupacks-with-startup-code-and-webactivator.aspx" rel="nofollow noopener" title="WebActivator">WebActivator package</a> for that purpose.</p>

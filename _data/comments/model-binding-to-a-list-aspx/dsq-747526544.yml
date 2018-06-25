@@ -1,0 +1,5 @@
+id: dsq-747526544
+date: 2008-10-23T18:46:26.0000000-07:00
+name: Ben Hart
+avatar: https://disqus.com/api/users/avatars/Ben Hart.jpg
+message: <p>Hi Phil<br>Very interesting. We've rolled our own similar solution... Simlar to what's already been asked, how is the index as defined in the value reflected in the list once posted? If we posted the sample above with index 1 missing, would the parameter have a list of length 3, with a null at index 1?<br>I should play around and find out myself, just feeling lazy on Friday...<br>Thanks! Ben</p>

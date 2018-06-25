@@ -1,0 +1,5 @@
+id: dsq-747533632
+date: 2010-11-30T07:35:52.0000000-08:00
+name: Andy West
+avatar: https://disqus.com/api/users/avatars/Andy West.jpg
+message: <p>Thanks for this insight into route names.  I ran into this problem when I started unit testing my routes; I wanted to see if a route was being used by inspecting its name.  Good to know why it doesn't work that way.</p>

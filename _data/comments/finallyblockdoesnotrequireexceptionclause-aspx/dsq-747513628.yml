@@ -1,0 +1,5 @@
+id: dsq-747513628
+date: 2006-01-09T03:18:00.0000000-08:00
+name: Joe Brinkman
+avatar: https://disqus.com/api/users/avatars/Joe Brinkman.jpg
+message: <p>or better yet how about<br><br><br><br>try{    <br><br>    fs = new FileStream(filename, FileMode.Create);   <br><br>     //Do Something<br><br>}<br><br>finally<br><br>{    <br><br>    try{<br><br>        fs.Close();<br><br>    }<br><br>    catch(Exception e){<br><br>        throw e;<br><br>    }<br><br>}<br><br><br><br>Who needs null pointer checks when exceptions are so easy to code for ;)</p>

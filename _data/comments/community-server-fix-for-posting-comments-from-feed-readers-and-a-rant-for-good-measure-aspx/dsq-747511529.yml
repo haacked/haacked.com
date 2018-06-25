@@ -1,0 +1,5 @@
+id: dsq-747511529
+date: 2005-04-19T02:02:00.0000000-07:00
+name: Jason Kemp
+avatar: https://disqus.com/api/users/avatars/Jason Kemp.jpg
+message: "<p>I hear ya, Phil. I tried CS as soon as it was released, and, IIRC, the DB script wouldn't run without errors, or was it that it installed but I couldn't get the web server to see the db? I can't remember and frankly don't want to. It's obviously not ready, although I do like their new html doc layout.<br><br><br><br>The CS feature set is WAY more than I'd ever want, and I find it prohibitive to add pages or new things on the homepage. I think they designed it with <a href=\"http://weblogs.asp.net\" rel=\"nofollow noopener\" title=\"weblogs.asp.net\">weblogs.asp.net</a> and <a href=\"http://blogs.msdn.com\" rel=\"nofollow noopener\" title=\"blogs.msdn.com\">blogs.msdn.com</a> in mind: big, multi-user sites. That is way more than I need. Even .Text is more than what I need.<br><br><br><br>Given that I don't know enough about ASP.NET to suit, I'd like to give writing my own engine on top of the .Text DB schema a shot. If only I had more time!</p>"

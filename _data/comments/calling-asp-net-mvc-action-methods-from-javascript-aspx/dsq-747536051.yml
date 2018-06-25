@@ -1,0 +1,5 @@
+id: dsq-747536051
+date: 2012-01-23T06:59:51.0000000-08:00
+name: Beriz
+avatar: https://disqus.com/api/users/avatars/Beriz.jpg
+message: <p>Why not render your javascript files through the razor viewengine.<br>No need to render extra javascript client side and full support for @url.content inside your JS files server side...<br>I've posted the howto on stackoverflow:<br><a href="http://stackoverflow.com/questions/7663486/url-content-in-separate-javascript-file-using-aspnet-mvc-3-and-razor/8969711#8969711" rel="nofollow noopener" title="http://stackoverflow.com/questions/7663486/url-content-in-separate-javascript-file-using-aspnet-mvc-3-and-razor/8969711#8969711">stackoverflow.com/.../8969711#8969711</a></p>

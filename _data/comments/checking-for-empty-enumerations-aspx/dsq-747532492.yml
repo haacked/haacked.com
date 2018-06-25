@@ -1,0 +1,5 @@
+id: dsq-747532492
+date: 2010-06-09T19:41:13.0000000-07:00
+name: Bryan Watts
+avatar: https://disqus.com/api/users/avatars/Bryan Watts.jpg
+message: <p>If the sequence is a LINQ to SQL or EF query, it will still be executed against the database. All results will be calculated and sent back, but only the first will be materialized to do the Any check. The query will be executed again when the sequence is used. In addition, sequences representing stored procedures may only be enumerated once.</p>

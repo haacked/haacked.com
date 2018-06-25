@@ -1,0 +1,6 @@
+id: dsq-761424386
+replyToId: dsq-761413678
+date: 2013-01-09T09:28:59.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Yep. The point of this isn't to remove the responsibility of checking preconditions. It's to automatically check the _most common_ precondition. That of an argument not being null.</p><p>The number of methods receiving reference arguments far exceeds the number of methods that take in an int, for example. At least in my code. </p><p>So I want to focus my time on checking preconditions that are specific to my domain such as making sure an int is in the correct range. I don't want to pepper my code with all these reference null checks to satisfy the language. Make sense?</p>

@@ -1,0 +1,5 @@
+id: dsq-747524192
+date: 2008-02-20T14:17:11.0000000-08:00
+name: Damien Guard
+avatar: https://disqus.com/api/users/avatars/Damien Guard.jpg
+message: "<p>I'd love C# to gain the ability to autowire an interface to an instance object so you could in your above example do something like;<br>public class HttpContext : IHttpContext goto BaseHttpContext<br>{<br>private BaseHttpContext internalHttpContext;<br>}<br>Which would mean you could extend IHttpContext because you'd update the default behaviour for new methods in BaseHttpContext.<br>It would also make composition at lot easier <a href=\"http://damieng.com/blog/2007/08/06/multiple-inheritance-composition-and-single-responsibility-principle-in-net\" rel=\"nofollow noopener\" title=\"http://damieng.com/blog/2007/08/06/multiple-inheritance-composition-and-single-responsibility-principle-in-net\">http://damieng.com/blog/200...</a><br>[)amien</p>"

@@ -1,0 +1,5 @@
+id: dsq-747526776
+date: 2008-11-04T19:34:44.0000000-08:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>A co-worker and I were talking and wondered about the following:<br>Is it possible to change the formatting of the URL for areas to something like:<br><a href="http://localhost/" rel="nofollow noopener" title="http://localhost/">http://localhost/</a>{area}/{controller}/{action}<br>Where the area comes before the controller?</p>

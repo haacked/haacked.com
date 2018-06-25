@@ -1,0 +1,6 @@
+id: dsq-1114801413
+replyToId: dsq-1114636516
+date: 2013-11-08T19:19:17.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I disagree. These are standard LINQ operators that anyone who's spent any time with them would understand.</p><p>After all, I just combined his two methods into one. I could have made the Concat+Repeat call into its own method called Pad and the code would be essentially the same as the ruby code, but probably with better performance.</p>

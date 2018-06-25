@@ -1,0 +1,5 @@
+id: dsq-747508795
+date: 2008-11-25T10:17:40.0000000-08:00
+name: pan
+avatar: https://disqus.com/api/users/avatars/pan.jpg
+message: <p>select top 10 * from sometable order by newid()<br>It gives 7,8,9 number of records sometime WHY??????????????????????????<br></p>

@@ -1,0 +1,5 @@
+id: dsq-2539782516
+date: 2016-02-27T02:16:04.0000000-08:00
+name: Rick Hodder
+avatar: https://disqus.com/api/users/avatars/rickhodder.jpg
+message: <p>hi phil, thanks for this post.  I'm using Windows 10, and when I put powershell into consolez's edit settings, and then run console, I get the message "Cannot load PSReadline module. Console is running without PSReadline", I've install-module PSReadline -force, but it doesn't fix the issue. do you know what I can do to get past this?</p>

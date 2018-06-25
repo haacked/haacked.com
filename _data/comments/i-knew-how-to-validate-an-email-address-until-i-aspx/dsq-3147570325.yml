@@ -1,0 +1,5 @@
+id: dsq-3147570325
+date: 2017-02-10T03:28:02.0000000-08:00
+name: Роман Оныщук
+avatar: https://disqus.com/api/users/avatars/disqus_lw5EzAXgim.jpg
+message: <p>You can probably cut heaps out of your list with a simple PHP script  that queries the mail server and checks if the address is deliverable. Some mail servers won't respond properly to this but enough will to give you a better bounce rate.</p><p>You could also do some more things like checking if the domain is registered and if it has MX records.</p><p>If you want I can do this for you and customize a script that will work with other providers that do not respond correctly to the above. Please send me a PM if you would like to discuss it. good solution (<a href="https://proofy.io/)" rel="nofollow noopener" title="https://proofy.io/)">https://proofy.io/)</a></p>

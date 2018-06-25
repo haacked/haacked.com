@@ -1,0 +1,5 @@
+id: dsq-747528625
+date: 2009-04-14T17:15:00.0000000-07:00
+name: Craig Stuntz
+avatar: https://disqus.com/api/users/avatars/Craig Stuntz.jpg
+message: "<p>Weird. I just started a series of posts on using the same component yesterday:<br><a href=\"http://blogs.teamb.com/craigstuntz/2009/04/14/38200/\" rel=\"nofollow noopener\" title=\"http://blogs.teamb.com/craigstuntz/2009/04/14/38200/\">blogs.teamb.com/craigstuntz/2009/04/14/38200/</a><br>I'm using a completely different method to send data to the grid, however. The grid supports two different ways of sending the data in JSON format: a cell array (what you use in this post) and with named columns. I'm going to show the second method, along with extension methods for IQueryable which allow you to transform any IQueryable integrated data, without having to know the names of the individual fields on the contained element type. Thus, it works really well for anonymous types, which I find very well suited for JSON serialization, since they can be guaranteed not to have cycles in the object graph.<br>Anyway, thanks for posting this, and I will get the rest of my own series up soon!</p>"

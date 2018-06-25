@@ -1,0 +1,5 @@
+id: dsq-747535748
+date: 2011-08-02T22:54:44.0000000-07:00
+name: David Ebbo
+avatar: https://disqus.com/api/users/avatars/David Ebbo.jpg
+message: "<p>@pete_w: the 4.0 requirement is a general Razor engine thing, and not specific to RazorGenerator.<br>@Ignat: VS express indeed does not support most extensions, so it won't work there.</p>"

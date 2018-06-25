@@ -1,0 +1,5 @@
+id: dsq-747525835
+date: 2008-07-24T18:18:05.0000000-07:00
+name: Graeme
+avatar: https://disqus.com/api/users/avatars/Graeme.jpg
+message: <p>Jim,<br>For testing the database logic in stored procedures have a look a DBFit which is a test fixture for fitness and will allow you to test your DB code in a transaction so that the tests do not become brittle over time when the data changes. <a href="http://fitnesse.info/dbfit" rel="nofollow noopener" title="http://fitnesse.info/dbfit">http://fitnesse.info/dbfit</a><br>With TDD the unit tests act as a specification for your application and is one of the many reasons why your logic should live in your applicaion code and not in the Database.<br>I do understand your concerns regarding deploying changes but if you were to automate the deployment process using tools such as nant deployment of code should be as easy as deploying DB code.</p>

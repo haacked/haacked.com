@@ -1,0 +1,5 @@
+id: dsq-747528570
+date: 2009-04-03T00:29:48.0000000-07:00
+name: huey
+avatar: https://disqus.com/api/users/avatars/huey.jpg
+message: <p>I never even noticed the head was set to runat="server".<br>Is this how relative paths for script / links are kept up to date depending on the route?</p>

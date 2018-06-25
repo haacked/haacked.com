@@ -1,0 +1,5 @@
+id: dsq-747510280
+date: 2011-09-25T01:05:48.0000000-07:00
+name: Rodrigo
+avatar: https://disqus.com/api/users/avatars/Rodrigo.jpg
+message: '<p><br>Hi!<br>Very nice article... I would like to known if you can help me. I need to verify a xml config file with regex.... something like this:<br>for example: i need to verify if connector of tomcat is on 8080 port..... so i will make a regex expression to find something like this: port="8080". Until now....not a problem....<br>But, how can i verify if this code is not comented ?.....something like this....<br>&lt;!--<br>&lt;Connector port="8080" .....<br>--&gt; <br>This code is not used...<br>Could i remove all comments? and analyze just the current code?<br>I need use just regex....with no programing languages....like c#, php....etc....<br>Thanks,<br>Rodrigo Maeda<br></p>'

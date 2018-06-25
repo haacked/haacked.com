@@ -1,0 +1,5 @@
+id: dsq-747522147
+date: 2010-08-13T23:50:39.0000000-07:00
+name: Michael
+avatar: https://disqus.com/api/users/avatars/Michael.jpg
+message: <p>It might also be worth noting, for those who don't know, that PHP has an in-built function for validating email addresses:<br><code>filter_var($email_address, FILTER_VALIDATE_EMAIL)</code></p>

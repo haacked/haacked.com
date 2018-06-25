@@ -1,0 +1,5 @@
+id: dsq-747519936
+date: 2007-05-06T08:08:49.0000000-07:00
+name: chep
+avatar: https://disqus.com/api/users/avatars/chep.jpg
+message: <p>Just a remark... <br>It's <br>$ man trn | write username <br>and not the other way around ;)<br>2Tero Miettinen:<br>If you want su-like behavior in Ubuntu, use:<br>$ sudo -i<br>Ubuntu has user 'root' disabled from loggin in  by default. Some people find it as a way to improve security (attacker has to guess user name first, instead of using well known 'root').</p>

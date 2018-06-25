@@ -1,0 +1,5 @@
+id: dsq-747529205
+date: 2009-06-02T08:34:00.0000000-07:00
+name: Peter Obiefuna
+avatar: https://disqus.com/api/users/avatars/Peter Obiefuna.jpg
+message: "<p>@mike: Your suggestion may be simple but is actually just as good as embedding magic strings in views. There's no compile-time confirmation that those controller and action names are correct (renaming will not break compiles). And as Phil already noted, you still have to deal with args.</p>"

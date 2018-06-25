@@ -1,0 +1,5 @@
+id: dsq-747530101
+date: 2009-09-30T18:06:00.0000000-07:00
+name: Betty
+avatar: https://disqus.com/api/users/avatars/Betty.jpg
+message: <p>Does MVC 2 allow for easy swapping out of the viewpage with another that uses generics? The current control parser seems to be hardcoded to use System.Web.MVC.ViewPage&lt;&gt; as soon as you put angle brackets in the type field.<br>Also wondering if you were looking at anything like subroutes, so you can setup a tree of routes which could potentially mean expensive route constraints are only run once per request (caching almost eliminates this I guess). Although since routing was moved into the core framework I guess it isn't developed by the MVC team now.</p>

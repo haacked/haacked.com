@@ -1,0 +1,5 @@
+id: dsq-1247203173
+date: 2014-02-16T13:35:33.0000000-08:00
+name: Zeeshan
+avatar: https://disqus.com/api/users/avatars/disqus_FodNfbriNU.jpg
+message: <p>I am having problem with rendering with the above specified way actually I have just passed the html string to partialview method as object but its not rendering when calling with renderaction can anyone help me out in this?</p>

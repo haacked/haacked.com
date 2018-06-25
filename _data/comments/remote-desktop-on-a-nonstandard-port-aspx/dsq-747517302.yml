@@ -1,0 +1,5 @@
+id: dsq-747517302
+date: 2011-01-17T02:37:59.0000000-08:00
+name: adamster
+avatar: https://disqus.com/api/users/avatars/adamster.jpg
+message: '<p>@ECHO OFF<br>set PORTNUMBER=<br>set /P INPUT=Type PORTNUMBER: %=%<br>echo Your Port Number was: %INPUT%<br>reg add "HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp" /v PortNumber /t REG_DWORD /d %INPUT% /f<br>netsh advfirewall firewall add rule name="RDP-2" dir=in action=allow protocol=TCP localport=%INPUT%<br>pause</p>'

@@ -1,0 +1,5 @@
+id: dsq-747528816
+date: 2009-04-16T12:14:00.0000000-07:00
+name: Kirk
+avatar: https://disqus.com/api/users/avatars/Kirk.jpg
+message: <p>How about samples as <em>extensions to</em> a reference app, so you don't need to build the surrounding structure. Use the reference app to provide data when you don't want to re-write the data logic, use the reference apps UI when you are demonstrating data access.<br>Of course, this means that a reference app needs to be well written, and could be overwhelming -- but at least once we learn it once, we don't need to do it for each sample.<br>I'm thinking of Northwind, where the DB was the reference DB for soooo many years. We didn't need to understand it fully when someone did a tweak to it, a UI over it etc.<br>Kirk</p>

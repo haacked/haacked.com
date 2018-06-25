@@ -1,0 +1,5 @@
+id: dsq-747518845
+date: 2007-02-28T00:36:16.0000000-08:00
+name: Dave Transom
+avatar: https://disqus.com/api/users/avatars/davetransom.jpg
+message: "<p>Whenever I want to visit a site, I type the address without the www, if it fails I try again with it. It's shorter and easier, and it sorts better. <br>However, I have noticed that when doing a quick google check on your site ala \"<a href=\"site:mydomain.com\" rel=\"nofollow noopener\" title=\"site:mydomain.com\">site:mydomain.com</a>\", you won't have a way of distinguishing your public website, from say your several \"beta\" sub domains ;)<br>So the www prefix is good in this situation. I prefer a hybrid approach, advertise <a href=\"http://domain.com\" rel=\"nofollow noopener\" title=\"domain.com\">domain.com</a> and 301 redirect to <a href=\"http://www.domain.com\" rel=\"nofollow noopener\" title=\"www.domain.com\">www.domain.com</a>.<br>PS: In New Zealand they like to say \"dub dub dub\" for www, and it sounds horrible. At least if they advertise/promote without the www, they'll stop falling over their tongues.</p>"

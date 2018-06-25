@@ -1,0 +1,5 @@
+id: dsq-747530603
+date: 2009-11-18T06:02:00.0000000-08:00
+name: asper
+avatar: https://disqus.com/api/users/avatars/asper.jpg
+message: <p>why do we have 2 ways on doing same thing? we don't have Html.Partial('control') where it returns a string of the control.</p>

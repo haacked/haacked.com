@@ -1,0 +1,5 @@
+id: dsq-747526714
+date: 2009-03-02T22:07:22.0000000-08:00
+name: Haakon
+avatar: https://disqus.com/api/users/avatars/Haakon.jpg
+message: '<p>Hi, I have a problem with Windows Web Server 2008 and deploying an MVC project. I have a copy of the project from our previous server where everything worked fine, but no source code.<br>The problem is that I am having trouble with the Futures assembly (RC1). It is impossible (?) to install on the server using gacutil.exe because it is not a strongly typed assembly. And even though the assembly is present in the projects bin folder (that was working fine on our 2000-server) it is not working now. I get "System.NullReferenceException: Object reference not set to an instance of an object" when browsing to the web site, and a pointer to the Html.MenuItem method as the source of the exception.<br>What to do?</p>'

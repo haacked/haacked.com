@@ -1,0 +1,5 @@
+id: dsq-747536245
+date: 2011-10-04T10:23:41.0000000-07:00
+name: Matt Honeycutt
+avatar: https://disqus.com/api/users/avatars/Matt Honeycutt.jpg
+message: <p>Why not utilize the IsAjaxRequest extension method instead of checking headers directly? They are equivalent, but one is much more readable than the other...</p>

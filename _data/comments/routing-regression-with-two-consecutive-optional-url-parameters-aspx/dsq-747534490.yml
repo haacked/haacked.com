@@ -1,0 +1,5 @@
+id: dsq-747534490
+date: 2011-05-07T13:54:40.0000000-07:00
+name: Damian
+avatar: https://disqus.com/api/users/avatars/Damian.jpg
+message: "<p>Hi Phil, <br>  What's your opinion about this issue: <a href=\"http://forums.asp.net/t/1328683.aspx\" rel=\"nofollow noopener\" title=\"http://forums.asp.net/t/1328683.aspx\">http://forums.asp.net/t/1328683.aspx</a> ? The solution proposed by tgmdbm didnt work and I had to \"hardcode\" the routing. Meaning that, instead of using \"Url.Action(blabla)\", I have to do \"Url.RouteUrl(blabla)\".<br>Thanks<br>Damian</p>"

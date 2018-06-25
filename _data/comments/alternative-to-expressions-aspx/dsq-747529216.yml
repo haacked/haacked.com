@@ -1,0 +1,5 @@
+id: dsq-747529216
+date: 2009-06-02T20:49:00.0000000-07:00
+name: nic
+avatar: https://disqus.com/api/users/avatars/nic.jpg
+message: "<p>We fought with those ActionLinks too, but since I wanted to keep the advantages of the generic ActionLink (like compile-time type checking, refactoring support) we created an overload that takes exactly one parameter. <br><code>&lt;%= Html.ActionLink((ProductController c) =&gt; c.Show, product, product.FullName) %&gt;</code><br>The ActionLink's signature is<br><code>public string ActionLink&lt;K, T&gt;(Expression&lt;Func&lt;T, Func&lt;K, ActionResult&gt;&gt;&gt; action, K parameter, string linkText) where T : Controller</code><br>Of course, this works only for ActionLinks that take one parameter, but since most of our ActionLinks do so, we have good performance with this. In cases where the ActionLink takes multiple parameters, we use the old school MvcFutures ActionLink<br><code>&lt;%= Html.ActionLink&lt;HomeController&gt;(c =&gt; c.Index()) %&gt;</code></p>"

@@ -1,0 +1,5 @@
+id: dsq-1509423349
+date: 2014-07-29T00:31:55.0000000-07:00
+name: Awchie256
+avatar: https://disqus.com/api/users/avatars/Awchie256.jpg
+message: <p>I know that this is already too late but thanks dude. You saved me a day trying to work this routing problems out.  I was stuck for 4 freaking hours trying to find out what the issue is. The only problem that happened (which was very stupid move of me) was the area registration. Since that the area registration is first, it conflicted all of the custom routes that I made specifically made for the certain area since that the default route is made by the area registration. I would have wasted a whole day if it weren't for your route debugger. Thank you very much.</p>

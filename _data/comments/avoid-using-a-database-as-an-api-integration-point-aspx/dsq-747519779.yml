@@ -1,0 +1,5 @@
+id: dsq-747519779
+date: 2007-04-24T22:15:27.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Joe, thanks for the insight. I'm glad to hear that the direction "The app that shall not be named" is towards a custom membership implementation.<br>We still use and recommend "The app that shall not be named" on projects, hence I didn't want to be seen as bad mouthing it. I'm pretty sure I was using the first implementation that included the membership provider.</p>

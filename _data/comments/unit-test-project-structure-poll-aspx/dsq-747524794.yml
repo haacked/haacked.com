@@ -1,0 +1,5 @@
+id: dsq-747524794
+date: 2008-04-09T15:49:08.0000000-07:00
+name: David Arno
+avatar: https://disqus.com/api/users/avatars/David Arno.jpg
+message: "<p>Ritchie,<br>C# does provide a very nice way of exposing protected and internal members.<br>Protected members are exposed to derived classes, thus can be easily accessed via a derived test class.<br>Internal members are exposed to friend assemblies, thus can be easily access via test classes in a friend assembly.<br>I've never found the need to access private types and would be concerned with any mechanism that allowed it to occur. The implication that reflection lets you bypass the security of a private member and access it outside the scope of the class is disturbing. A far safer, and more controlled, solution would be to make use of #define, #if etc to expose private data as internal within the context of a test build.<br></p>"

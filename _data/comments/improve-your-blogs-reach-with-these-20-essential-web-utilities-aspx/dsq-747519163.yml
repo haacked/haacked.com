@@ -1,0 +1,5 @@
+id: dsq-747519163
+date: 2007-03-14T22:32:05.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: '<p>Just found <a href="http://www.cleancss.com/" rel="nofollow noopener" title="CSS Formatter and Optimizer">CleanCSS</a> mentioned on the <a href="http://www.dailyblogtips.com/speed-up-your-site-optimize-your-css/" rel="nofollow noopener" title="Daily Blog Tips">Daily Blogp Tips blog</a>.<br>More than just compressing CSS, it attempts to optimize it. For example, it can take this:<br><code><br>div<br>{<br>  margin-top: 10px;<br>  margin-right: 20px;<br>  margin-bottom: 10px;<br>  margin-left: 20px;<br>}<br></code><br>And convert it to this:<br><code><br>div<br>{<br>  margin: 10px 20px;<br>}<br></code><br>Nice!</p>'

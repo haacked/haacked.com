@@ -1,0 +1,5 @@
+id: dsq-747536573
+date: 2011-11-25T16:47:39.0000000-08:00
+name: Mark Rendle
+avatar: https://disqus.com/api/users/avatars/Mark Rendle.jpg
+message: "<p>I think the widespread enterprise adoption of .NET hurts the open side of things. Corporates love it because it's easy to integrate with their MS infrastructure, and because \"nobody ever lost their job for buying Microsoft.\"<br>This means that there are a lot of crappy workaday programmers on the platform, which tarnishes its image. (Java suffers from the same problem.) The fact is that there's a large community out there who are using .NET OSS, and who regularly dabble in other languages and platforms and in many cases bring the things they find there back (e.g. Nancy, inspired by Sinatra).<br>Of course, Microsoft could do more to encourage this kind of thing. Open up more of the framework source. Start investing in the Iron languages again. Oh, and stop cross-bundling frameworks: why does an \"empty\" MVC3 application have a reference to EntityFramework?</p>"

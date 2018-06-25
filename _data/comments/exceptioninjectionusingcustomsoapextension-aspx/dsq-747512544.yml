@@ -1,0 +1,5 @@
+id: dsq-747512544
+date: 2008-04-06T04:07:19.0000000-07:00
+name: RN
+avatar: https://disqus.com/api/users/avatars/RN.jpg
+message: <p>Dont make any sense to me.<br>we have an overloaded constructor in the soap Exception class which takes an xml node as one of the argument.<br>So just create that node with your custom exception messages and errorcodes.That way when you throw the soapexception your new info also get thrown<br>Makes sense to you Hack??<br>Thanks,<br>RN</p>

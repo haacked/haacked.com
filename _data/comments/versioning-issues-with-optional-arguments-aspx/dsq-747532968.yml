@@ -1,0 +1,5 @@
+id: dsq-747532968
+date: 2010-08-10T04:08:17.0000000-07:00
+name: Dorian Farrimond
+avatar: https://disqus.com/api/users/avatars/Dorian Farrimond.jpg
+message: <p>I found this really informative. I started as a C# developer and moved across to VB.NET 2 years ago. At first I hated VB's optional parameters and thought overloads were better as they are a more defined statement of the intended use of the method.<br>Gradually I've started to use VB.NET's optional parameters more, but it's interesting to read that they were added to C# for a specific purpose and are not necessarily intended for general use.<br>I guess it's now the same situation with C# as VB.NET - think carefully before using. It's often better to avoid them I think.</p>

@@ -1,0 +1,5 @@
+id: dsq-747534804
+date: 2011-04-11T23:45:38.0000000-07:00
+name: NickS
+avatar: https://disqus.com/api/users/avatars/NickS.jpg
+message: <p>I'm intrigued by the full scaffolding of CRUD operations in the Add Controller dialog.  Have you given any thought to supporting the repository pattern for this?  <br>I learned most of what I know about ASP.NET MVC by reading Steve Sanderson's excellent "Pro ASP.NET MVC 2 Framework", which makes use of the repository pattern in the supplied examples.  In my project, I'm using Entity Framework v4 with the ADO.NET C# POCO Entity Generator rather than LINQ to SQL, but I've stuck with the repository pattern for data access.</p>

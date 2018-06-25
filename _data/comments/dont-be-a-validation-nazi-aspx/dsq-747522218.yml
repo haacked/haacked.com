@@ -1,0 +1,5 @@
+id: dsq-747522218
+date: 2007-09-04T03:51:31.0000000-07:00
+name: FrankC
+avatar: https://disqus.com/api/users/avatars/FrankC.jpg
+message: <p>Good point on the email address validation. However, it seems like most of the time I'm handed the requirement to include this validation on the desktop apps and web apps I write. If I can cover whatever the sponsoring user thinks a valid email should be, then they're happy. I prefer to leave it as a free-form entry if I can though.</p>

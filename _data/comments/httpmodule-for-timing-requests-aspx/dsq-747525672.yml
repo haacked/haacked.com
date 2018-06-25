@@ -1,0 +1,5 @@
+id: dsq-747525672
+date: 2008-08-12T08:49:32.0000000-07:00
+name: Tim Barcz
+avatar: https://disqus.com/api/users/avatars/Tim Barcz.jpg
+message: <p>Phil,<br>I have had this in our site(s) for awhile, recently though we noticed a javascript error in IE.  Turns out that if I comment out the HttpModule the error disappears.  What I can deduce is that the somehow the HttpModule outputs info outside of the body and that somehow messes with how the javascript is parsed in the IE dom.  I am curious if you or anyone else is getting this behavior.<br>If you're interested in seeing more email me and I can explain more</p>

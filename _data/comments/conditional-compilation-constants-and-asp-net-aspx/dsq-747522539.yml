@@ -1,0 +1,5 @@
+id: dsq-747522539
+date: 2011-11-29T01:04:12.0000000-08:00
+name: Anonymous
+avatar: https://disqus.com/api/users/avatars/Anonymous.jpg
+message: <p>Apparently the project build configuration doesn't affect the Web.config transformation (Web.Debug.config vs. Web.Release.config) properly in a development environment. It appears does work when you publish the project, however. A colleague said the bug was reported and Microsoft flagged it as "fixed in the next version of the product" so I guess everybody that bought &lt;=VS2010 can go f*** themselves. A simple solution is to do the pre-processing in the code-behind file at compile-time and create a constant field. Then use your own field at run-time to conditionally enabled and disable functionality:<br><code><br>#if DEBUG<br>        public const bool IsDebugMode = true;<br>#else<br>        public const bool IsDebugMode = false;<br>#endif<br></code><br><code><br>&lt;%<br>    if(this.IsDebugMode)<br>    {<br>%&gt;      <p>You get an extra paragraph because you're awesome.</p><br>&lt;%<br>    }<br>%&gt;<br></code><br>It's not ideal, but at least you *know* it works.</p>

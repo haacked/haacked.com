@@ -1,0 +1,5 @@
+id: dsq-747536355
+date: 2011-10-16T11:39:29.0000000-07:00
+name: Daniel Marbach
+avatar: https://disqus.com/api/users/avatars/Daniel Marbach.jpg
+message: <p>Hy<br>Why don't you use <a href="http://quartz.net?" rel="nofollow noopener" title="quartz.net?">quartz.net?</a> You could easily integrate <a href="http://quartz.net" rel="nofollow noopener" title="quartz.net">quartz.net</a> in your application, you then have the power to schedule task in cron like manner or even do more powerful stuff. You would also gain task persistency etc. <a href="http://Quartz.net" rel="nofollow noopener" title="Quartz.net">Quartz.net</a> is really easy to integrate into any IOC container. Happy scheduling<br>Daniel</p>

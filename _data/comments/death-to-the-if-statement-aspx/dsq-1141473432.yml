@@ -1,0 +1,6 @@
+id: dsq-1141473432
+replyToId: dsq-1114862834
+date: 2013-11-27T09:00:22.0000000-08:00
+name: Anonymous
+avatar: https://disqus.com/api/users/avatars/Anonymous.jpg
+message: <p>Enumerable.Empty&lt;int&gt;().PadEnd(8).Count() // infinite loop.  Why make this possible?</p>

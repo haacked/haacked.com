@@ -1,0 +1,5 @@
+id: dsq-1289305098
+date: 2014-03-17T19:56:53.0000000-07:00
+name: Rex
+avatar: https://disqus.com/api/users/avatars/Rex.jpg
+message: <p>Can someone please explain the line Assert.Throws&lt;t&gt;(() =&gt; { })? Why pass an empty lambda there?</p>

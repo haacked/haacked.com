@@ -1,0 +1,5 @@
+id: dsq-747532033
+date: 2011-11-26T02:00:24.0000000-08:00
+name: Sergiy Shumakov
+avatar: https://disqus.com/api/users/avatars/Sergiy Shumakov.jpg
+message: <p>Hi Phil, nice blog post, it has helped me a lot :).<br>Guy with comment title "Handling Arrays...weird but cool." described one issue regarding sending arrays to the controller action. <br>For instance if you send array with indexes [0], [1] etc., Controller action won't recieve parsed array, instead you have to made array like array["arg0"], array["arg1"], where arg is parameter of controller. Here is sample signature:<br>public ActionResult Action(List&lt;SomeModel&gt; arg){}<br>Can ASP .NET MVC team fix this issue in future release? :)<br>Thank You,<br>Sergiy Shumakov,<br>MSP Ukraine</p>

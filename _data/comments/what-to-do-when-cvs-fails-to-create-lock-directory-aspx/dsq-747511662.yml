@@ -1,0 +1,5 @@
+id: dsq-747511662
+date: 2008-03-11T08:32:13.0000000-07:00
+name: Nate
+avatar: https://disqus.com/api/users/avatars/Nate.jpg
+message: <p>I had the identical type of error message (with the only difference being the directory name.)  If you are in Linux/RedHat/Fedora/etc. you can cd into the $CVSROOT and then cd into the directory above the directory that is causing the conflict.<br>When you do an ls -la, check the group owner.  If you see a different group owner than the one you belong to, it probably means the directory in question needs to have its group ownership corrected (or you probably need to be added to a group that you don't belong to.)  You can do a 'less' on /etc/group to see if you are in the group in question.</p>

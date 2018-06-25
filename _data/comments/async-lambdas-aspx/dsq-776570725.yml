@@ -1,0 +1,5 @@
+id: dsq-776570725
+date: 2013-01-24T03:49:57.0000000-08:00
+name: Michael
+avatar: https://disqus.com/api/users/avatars/Michael.jpg
+message: '<p>Very interesting. It sounds almost like there needs to be some sort of async wait: something like Future().Assert.Throws&lt;someexception&gt;(/*my async lambda here*/).</p>'

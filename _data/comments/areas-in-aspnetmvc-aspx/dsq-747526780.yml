@@ -1,0 +1,5 @@
+id: dsq-747526780
+date: 2008-11-05T05:17:01.0000000-08:00
+name: justin
+avatar: https://disqus.com/api/users/avatars/justin.jpg
+message: <p>A month or two ago I had created a view engine that would render embedded views from an assembly.  You could override the view by placing the same folder/viewname in the main projects (root) view.  I didn't get very far on it as you would need to write some HtmlHelpers to get embedded javascript/css to override properly, and I got really busy with work.  That said I would _love_ it if <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> mvc supported this out of the box.  It would potentially create an entire community of premade plugin websites which are easy to customize.</p>

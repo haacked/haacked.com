@@ -1,0 +1,5 @@
+id: dsq-747535892
+date: 2011-08-16T13:05:03.0000000-07:00
+name: Ryan
+avatar: https://disqus.com/api/users/avatars/Ryan.jpg
+message: <p>The label doesn't change with every cardinality, so perhaps it's just better to use PluralizedLabel, or Pluralizer, or PluralityLabel?</p>

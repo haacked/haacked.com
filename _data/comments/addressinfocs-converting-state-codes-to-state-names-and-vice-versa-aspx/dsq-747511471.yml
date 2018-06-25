@@ -1,0 +1,5 @@
+id: dsq-747511471
+date: 2008-08-13T23:16:16.0000000-07:00
+name: Joel Rumerman
+avatar: https://disqus.com/api/users/avatars/Joel Rumerman.jpg
+message: <p>Hey Phil,<br>Thanks for creating this code block for us! I'm starting to use it and I believe there's a bug in the ParseState method. Shouldn't the <br>return (State)Enum.Parse(typeof(State), state.Replace(" ", ""), true);<br>read<br> return (State)Enum.Parse(typeof(State), state.Replace(" ", <em>"_"</em>), true);<br>?? The enumeration has underscores as the word separators. So District of Columbia becomes District_of_Columbia instead of DistrictOfColumbia.<br>Thx, Joel</p>

@@ -1,0 +1,5 @@
+id: dsq-747513810
+date: 2011-03-02T22:32:36.0000000-08:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: '<p>Article is misleading! Anyone with basic knowledge can wrap href tags around some text in a div. Pretty easy. <br>How about using a xhtml div element with a seperately coded css background image and making that image clickable/linkable?? Probably a job for javascript, eh?<br>ps: "display: none;" does not work, it just hides the text and makes it unselectable.</p>'

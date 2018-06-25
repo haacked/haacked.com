@@ -1,0 +1,5 @@
+id: dsq-747519600
+date: 2007-05-14T19:57:08.0000000-07:00
+name: StefanVE
+avatar: https://disqus.com/api/users/avatars/StefanVE.jpg
+message: <p>I usually start out with Evals in the aspx. Then things get more complex and I decorate a property to handle the logic.<br>Next I start thinking I am having too many Evals so I start using the code behind model  (as you only have to cast the object once while Eval performs a cast each time).<br>In the end I'll end up by replacing the repeater with a rendered control (for the extra flexibility) and start wondering where all my time has gone.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747527708
+date: 2009-01-14T03:52:00.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Brian Yes, there's only one System.Thread.Threading.ThreadPool per process. But you can write you're own thread pool.<br>Subtext uses this one: <a href=\"http://www.koders.com/csharp/fidD26A22C3944C4B6D66D2DA45BA3D502389B154CB.aspx?s=file:semaphore.cs\" rel=\"nofollow noopener\" title=\"http://www.koders.com/csharp/fidD26A22C3944C4B6D66D2DA45BA3D502389B154CB.aspx?s=file:semaphore.cs\">www.koders.com/.../...6D2DA45BA3D502389B154CB.aspx</a></p>"

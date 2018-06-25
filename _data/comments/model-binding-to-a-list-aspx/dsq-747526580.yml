@@ -1,0 +1,5 @@
+id: dsq-747526580
+date: 2009-01-28T03:14:44.0000000-08:00
+name: Dan Miser
+avatar: https://disqus.com/api/users/avatars/Dan Miser.jpg
+message: <p>My post on the <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> mvc forums hasn't shown up yet. It appears the change that was made for RC1 was that the indexing of elements starts at zero, and counts up. At least that's my first take rummaging through the source.</p>

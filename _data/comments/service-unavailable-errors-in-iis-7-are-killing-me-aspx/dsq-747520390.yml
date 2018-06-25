@@ -1,0 +1,5 @@
+id: dsq-747520390
+date: 2009-02-05T17:45:40.0000000-08:00
+name: Rjam
+avatar: https://disqus.com/api/users/avatars/Rjam.jpg
+message: <p>I ran into this problem as well but not until i tried running 2 websites off the same server. Anyways, I am going to guess you are using the DefaultAppPool, try changing it to the Classic .NET AppPool, this is what I ended up doing in the end and eveything (both sites) are running normally.<br>When I run a single web site off the server the DefaultAppPool works fine, but for some reason if I add another website to IIS it will not. Bug? Corrupted pool? I don't know, all I know is the Classic .NET AppPool solved all my problems.<br>Hope this helps you out.<br>Rjam</p>

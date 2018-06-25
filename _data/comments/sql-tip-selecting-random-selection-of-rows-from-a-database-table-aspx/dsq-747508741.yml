@@ -1,0 +1,5 @@
+id: dsq-747508741
+date: 2005-03-09T01:55:00.0000000-08:00
+name: Mickey
+avatar: https://disqus.com/api/users/avatars/Mickey.jpg
+message: <p>Issue - I doubt this will really be random - because the query engine in sql always selects the rows first and then orders it - so it will select the top 10 rows first from the table however is it ordered (usually by the PK) and then order is randomly - so you will most likely get the same set of records or near the same set of records randomly ordered :-/</p>

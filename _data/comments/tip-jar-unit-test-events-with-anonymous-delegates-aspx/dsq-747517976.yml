@@ -1,0 +1,5 @@
+id: dsq-747517976
+date: 2007-09-04T01:46:46.0000000-07:00
+name: Julien Couvreur
+avatar: https://disqus.com/api/users/avatars/Dumky.jpg
+message: <p>One limitation with the example that you explain is that it's not truly asynchronous. You know exactly when the event is supposed to be raised. <br>Things get trickier if the callback could happen a little later. That's were you need some kind of synchronization primitive like ManualResetEvent as Jeremy was saying.<br>To handle that case, I found a generic solution which takes care of the synchronization for you and also works with more complicated scenarios. You may be interested to read some details at <a href="http://blog.monstuff.com/archives/000323.html" rel="nofollow noopener" title="http://blog.monstuff.com/archives/000323.html">http://blog.monstuff.com/ar...</a><br>Cheers,<br>Julien<br></p>

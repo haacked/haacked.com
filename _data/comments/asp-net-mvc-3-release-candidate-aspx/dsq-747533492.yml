@@ -1,0 +1,5 @@
+id: dsq-747533492
+date: 2010-11-09T00:03:37.0000000-08:00
+name: CubanX
+avatar: https://disqus.com/api/users/avatars/CubanX.jpg
+message: "<p>Phil, sorry to post this here, but not having any luck figuring this out..<br>Trying to install MVC 3 RC, but getting an error on install.<br>I've broken it down to the patch to VS10 not wanting to install, specifically, this file: vs10-kb2385361-x86.exe<br>If I try to install that by hand, I get: \"KB2385361 does not apply, or is blocked by another condition on your computer.\"<br>Any ideas on where to go with this?<br>I had ASP.Net MVC 3 Beta installed, but I uninstalled that, rebooted, etc.<br>Any help would be appreciated :)<br></p>"

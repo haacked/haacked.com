@@ -1,0 +1,5 @@
+id: dsq-747533578
+date: 2010-12-01T21:52:42.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: '<p>@ashic We plan to support that in the future. But we wanted something even simpler.<br>Based on looking at a large number of libraries, most of them need little to no configuration. We felt it would be easier for package authors to simply cut and paste the section of their existing configuration file as a means of writing a config transform rather than having to learn a new config transform language.<br>If supporting VS Config transforms is important to you, vote it up: <a href="http://nuget.codeplex.com/workitem/232" rel="nofollow noopener" title="http://nuget.codeplex.com/workitem/232">http://nuget.codeplex.com/workitem/232</a></p>'

@@ -1,0 +1,5 @@
+id: dsq-747513680
+date: 2011-11-20T11:07:06.0000000-08:00
+name: Phani
+avatar: https://disqus.com/api/users/avatars/Phani.jpg
+message: "<p>Hi All,<br>Has any one found the solution for refering the .htc from css<br>I have tried all the options i know of. here below I am giving the options i have tried with<br> behavior: url(c://inetpub//wwwroot//piewebsite//css//PIE.htc');<br> behavior: url(../css/PIE.htc');<br> behavior: url(PIE.htc');<br> behavior: url('<a href=\"http://localhost/piewebsite/PIE.htc\" rel=\"nofollow noopener\" title=\"http://localhost/piewebsite/PIE.htc\">http://localhost/piewebsite/PIE.htc</a>');<br>No Luck with all the options.<br>Is there any thing I am missing in here.</p>"

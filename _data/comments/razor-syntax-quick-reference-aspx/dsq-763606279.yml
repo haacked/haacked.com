@@ -1,0 +1,5 @@
+id: dsq-763606279
+date: 2013-01-11T03:20:39.0000000-08:00
+name: R. Schreurs
+avatar: https://disqus.com/api/users/avatars/openid-161599.jpg
+message: "<p>How can I render a colon after an expression? Say, I have a resource returning a label text. At some place, I want a colon immediately behind it.</p><p>Example: resource UserName = \"Name of the user\"<br>@Html.LabelFor(m =&gt; m.UserName, @Resources.MyResources.UserName:) <br>will give me a build error: <br>Only assignment, call, increment, decrement, and new object expressions can be used as a statement<br>Of course, as a work around, I could add the colon to the resource's value.</p>"

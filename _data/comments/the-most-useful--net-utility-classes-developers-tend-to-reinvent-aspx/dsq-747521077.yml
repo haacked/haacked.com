@@ -1,0 +1,5 @@
+id: dsq-747521077
+date: 2007-06-14T02:10:56.0000000-07:00
+name: Doug Mayer
+avatar: https://disqus.com/api/users/avatars/Doug Mayer.jpg
+message: <p>@Eric D. Burdo &amp; JV,<br>It looks like this may be fixed in Orcas Beta 1, according to the bug Bill reported.  There is also a little insight in the workarounds (that it doesn't happen if the loop iterates &lt; 4 times):<br><a href="http://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=113102" rel="nofollow noopener" title="http://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=113102">http://connect.microsoft.co...</a><br></p>

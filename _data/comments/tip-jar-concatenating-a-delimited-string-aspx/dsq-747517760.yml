@@ -1,0 +1,5 @@
+id: dsq-747517760
+date: 2006-11-26T20:04:14.0000000-08:00
+name: Victor Robinson
+avatar: https://disqus.com/api/users/avatars/Victor Robinson.jpg
+message: <p>I recommend you check out this article from MSDN Magazine:<br><a href="http://msdn.microsoft.com/msdnmag/issues/06/01/CLRInsideOut/" rel="nofollow noopener" title="http://msdn.microsoft.com/msdnmag/issues/06/01/CLRInsideOut/">http://msdn.microsoft.com/m...</a><br>If I know the join will be 3 items or less (the article actually suggests 4, but 3 "feels" better in code), I use +.  Otherwise when the number of items is indeterminate (in a loop), I use sb.Append().<br>Also, if there are more than 2 items in a single join I like use of string.Format() or sb.AppendFormat().<br>That said, I really like the idea of using array joins, but would like to see a performance comparison of all three.</p>

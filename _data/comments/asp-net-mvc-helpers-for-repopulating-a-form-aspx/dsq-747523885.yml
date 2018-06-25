@@ -1,0 +1,5 @@
+id: dsq-747523885
+date: 2008-08-08T01:29:40.0000000-07:00
+name: Kedar
+avatar: https://disqus.com/api/users/avatars/Kedar.jpg
+message: <p>Hi Phil,<br>This is really helpfull. But I'm trying to do the same using Html Button class. <br><code><br> &lt;%= Html.Button&lt;optionscontroller&gt;(x =&gt; x.Calculate(), "Options", "Calculate")%&gt;<br></code><br>But it's working as it is Get request. Is there any work around for this?</p>

@@ -1,0 +1,5 @@
+id: dsq-3433819460
+date: 2017-07-24T18:24:13.0000000-07:00
+name: John Callaway
+avatar: https://disqus.com/api/users/avatars/6figuredev.jpg
+message: <p>Very nice approach. I've been doing similar for a while, except that instead I have a test folder per class and inside that folder a test class per method. I think I may be missing some of the benefits you describe here. I'll have to try it and see which I like better.</p>

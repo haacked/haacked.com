@@ -1,0 +1,5 @@
+id: dsq-747522784
+date: 2007-09-21T02:32:32.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Joshua I don't think they have a private source control repository. I think what happens is that one person is in charge of writing the patch. That person writes it on his/her machine and produces a proper build without committing those changes.<br>Keep in mind that this is focused on the case when there is a critical security vulnerability. One that could cause users to lose data, or worse, control of their machines. <br>In many cases, the users of the software isn't going to hax0r his own install, recompile the kernel, etc... This is the one situation in which you want a bit of <em>closedness</em> for lack of better term.<br>The goal here is to keep the vulnerability as secret as possible just long enough for people to patch their systems. It's not an indefinite situation. Afterwards you commit the fix and everyone can see the code normally.</p>

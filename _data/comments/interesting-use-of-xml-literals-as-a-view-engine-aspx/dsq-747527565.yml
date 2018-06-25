@@ -1,0 +1,5 @@
+id: dsq-747527565
+date: 2008-12-29T08:33:57.0000000-08:00
+name: Sean Chambers
+avatar: https://disqus.com/api/users/avatars/Sean Chambers.jpg
+message: <p>Although this is an interesting trick with VB, I disagree that this should be used in the wild.<br>A couple of reasons:<br>1. Views should be "dumb" templates that simple display and read input. Now, if that's all this is used for then it's a great trick, but we all know that this will be abused to no end. We can believe that in a perfect world it would be great but there is always a developer somewhere looking to cut corners and do a "quick and dirty" app which morphs into an 8 headed hydra that breathes fire.<br>2. This opens up the surface area that people have to work with the view and tempts them with adding "a little code" in there. So on and so forth. Again, BAD! =)<br>At the same time it is an interesting approach but should be approached with caution as all techniques but more so because this has the potential to hurt peopl =)<br>All the same, thanks for the info Phil definitely a different approach.<br></p>

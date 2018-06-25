@@ -1,0 +1,5 @@
+id: dsq-747527455
+date: 2008-12-11T02:53:30.0000000-08:00
+name: Magnus M&#229;rtensson
+avatar: https://disqus.com/api/users/avatars/Magnus M&#229;rtensson.jpg
+message: <p>Ahh man this was a nightmare for me too! Sorry! After many a frustration my feed (<a href="http://feeds.noop.se/techienotepad" rel="nofollow noopener" title="http://feeds.noop.se/techienotepad">http://feeds.noop.se/techienotepad</a>) now works as intended I think. I fiddled with my settings for days back and forth (and CNAME pointers do not change immediately as you know) before I got it right. I think there is some latency in their transitions from one service name to another.<br>Yet mine is working now. Good luck with yours.</p>

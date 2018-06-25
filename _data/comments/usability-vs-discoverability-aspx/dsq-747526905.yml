@@ -1,0 +1,5 @@
+id: dsq-747526905
+date: 2008-11-06T05:44:21.0000000-08:00
+name: Ryan E
+avatar: https://disqus.com/api/users/avatars/Ryan E.jpg
+message: <p>Christ, when did "ease of development" in the form of terseness outweigh code clarity and intent.  I'd much prefer fluent interfaces or even your second code snippet.<br>Your code would never make it to production in my world.  I have developers of all skill levels that need to maintain my codebase, and I ensure you I'd waste resources as they tried to figure out what your code was doing.<br>If I have to use Google to understand your intent, you fail.</p>

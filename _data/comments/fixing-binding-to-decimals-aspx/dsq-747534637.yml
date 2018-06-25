@@ -1,0 +1,5 @@
+id: dsq-747534637
+date: 2011-03-22T03:06:20.0000000-07:00
+name: Alaor
+avatar: https://disqus.com/api/users/avatars/Alaor.jpg
+message: "<p>@Frank van Eykelen: You use the IsValid method in the controllers? Because the problem that he posted about (I think) is that, even if the form is using the correct culture and the jquery client validation is OK, when the IsValid method was called it returned a error because it couldn't bind the given decimal. So, if here you did type, for example, \"1,01\", the client validation would accept, but you would return to the page because of the server side validation.<br>At least this is what was happening to me, and this solution solved my problem.</p>"

@@ -1,0 +1,5 @@
+id: dsq-1123667858
+date: 2013-11-14T16:37:38.0000000-08:00
+name: William Bosacker
+avatar: https://disqus.com/api/users/avatars/williambosacker.jpg
+message: <p>I'm trying to find the list of rules that the parser uses to do what you are describing above.  Just prior to the release of version 2, the guy who was working on it simplified the syntax for the entire parser down to about 6 or 7 very simple rules.  Do you know where I can find those rules?  I've lost the link and a web search isn't finding it.</p>

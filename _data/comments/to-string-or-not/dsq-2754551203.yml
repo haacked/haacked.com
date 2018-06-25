@@ -1,0 +1,6 @@
+id: dsq-2754551203
+replyToId: dsq-2412848622
+date: 2016-06-28T02:52:27.0000000-07:00
+name: Nyerguds
+avatar: https://disqus.com/api/users/avatars/maartenmeuris.jpg
+message: <p>That would imply you define it as "String myStr" if you're planning to later call myStr.Substring(...) on it, and "string myStr" if you don't.</p><p>That's what a class is, after all. Something to call functions on. <i>Which you do, on String objects.</i></p>

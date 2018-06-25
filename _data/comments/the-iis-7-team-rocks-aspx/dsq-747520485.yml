@@ -1,0 +1,5 @@
+id: dsq-747520485
+date: 2007-09-04T05:07:41.0000000-07:00
+name: Me
+avatar: https://disqus.com/api/users/avatars/Me.jpg
+message: <p>I didn't erase reservation on port 80... and tried to put my web on port 133... so i acess "http://localhost:133" and what a surprise i keep on having the same error "HTTP Error 503. The service is unavailable." so this demonstrates that's not the solution, maybe it is to your problem not to mine<br></p>

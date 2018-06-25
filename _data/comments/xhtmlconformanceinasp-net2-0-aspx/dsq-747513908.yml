@@ -1,0 +1,5 @@
+id: dsq-747513908
+date: 2006-01-19T04:46:00.0000000-08:00
+name: Brian
+avatar: https://disqus.com/api/users/avatars/Brian.jpg
+message: <p>I wonder if there is a good way to use your decorator idea to get ASP.NET 1.1 to render attributes on ListItems in a RadioButtonList.  I've used this code with mixed results:<br><br><a href="http://groups.google.com/group/microsoft.public.dotnet.framework.aspnet.webcontrols/msg/279b59a121f3cff1" rel="nofollow noopener" title="http://groups.google.com/group/microsoft.public.dotnet.framework.aspnet.webcontrols/msg/279b59a121f3cff1">http://groups.google.com/group/microsoft.public.dotnet.framework.aspnet.webcontrols/msg/279b59a121f3cff1</a><br><br>This didn't even work as well for me:<br><br><a href="http://aspnet.4guysfromrolla.com/articles/091405-1.aspx" rel="nofollow noopener" title="http://aspnet.4guysfromrolla.com/articles/091405-1.aspx">http://aspnet.4guysfromrolla.com/articles/091405-1.aspx</a><br><br><br><br>It seems to me that you can't decorate the HtmlTextWriter because the attributes are ignored byt RenderItem() in the ListControl.  But it sure would be purty if you could.<br><br></p>

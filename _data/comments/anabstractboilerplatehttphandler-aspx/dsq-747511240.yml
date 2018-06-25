@@ -1,0 +1,5 @@
+id: dsq-747511240
+date: 2010-02-08T00:56:54.0000000-08:00
+name: Michael Stum
+avatar: https://disqus.com/api/users/avatars/Michael Stum.jpg
+message: <p>I just saw your answer regarding IsReusable being virtual. I do not know if that is still the case, as I get an error when I use it in a derived class, telling me I should use "new" as I'm hiding it, and override gives a compilation error.</p>

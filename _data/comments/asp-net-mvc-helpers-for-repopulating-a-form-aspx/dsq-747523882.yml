@@ -1,0 +1,5 @@
+id: dsq-747523882
+date: 2008-01-22T22:05:45.0000000-08:00
+name: Pablo Blamirez
+avatar: https://disqus.com/api/users/avatars/Pablo Blamirez.jpg
+message: <p>Hi,<br>In my opinion Andys approach looks like a winner to me. Very similar to a pattern I use with Monorail.<br>I have changed the code Andy supplied to remove the extended RedirectToAction.<br>Now I haven't tested the code below so sorry about that but I don't see any major issues.<br>I'd love to hear Phils feedback on Andys/this suggestion<br>[ControllerAction]<br>public void New() <br>{<br>    RenderNew(new Article());<br>}<br>private void RenderNew(Article article) <br>{<br>RenderView("New", article);<br>}<br><br>[ControllerAction]<br>public void Create([Deserialize] Article article)<br>{<br>if(article.IsValid)<br>{<br>article.SubmitChanges();<br>RedirectToAction("List");<br>}<br>else<br>{<br>TempData["Message"] = "Please check your submission."; <br>RenderNew(article));<br>}<br>}<br>Loving your work fellas!</p>

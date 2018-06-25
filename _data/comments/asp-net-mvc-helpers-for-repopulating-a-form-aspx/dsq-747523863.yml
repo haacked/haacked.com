@@ -1,0 +1,5 @@
+id: dsq-747523863
+date: 2007-12-24T01:03:51.0000000-08:00
+name: Daniel Jin
+avatar: https://disqus.com/api/users/avatars/Daniel Jin.jpg
+message: <p>Definitely do away with hungarian. You needed that in webforms because I often have to extract txtName to a variable string "name", therefore I can't name my actual control just "name", but now with the automatic 2 way binding, there's no need.<br>I'd like to take the convention even further and have the helpers to automatically match up the values in the TempData without you having to explicitly specify. (like monorail). I also happen to like the monorail's convention of naming your control <a href="http://user.name" rel="nofollow noopener" title="user.name">user.name</a> for the "name" property of item "user" in Flash. kinda like an INamingContainer based not on control hierarchy but object hierarchy. (unfortunately, this convention breaks down on elements that failed post binding.)<br>regarding the over-reliance of these anonymous types, that also concerns me a little, seems that MS is really trying to take this a bit too far, and it because we can't use hash.</p>

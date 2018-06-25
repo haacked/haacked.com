@@ -1,0 +1,5 @@
+id: dsq-747527867
+date: 2009-01-30T00:55:37.0000000-08:00
+name: Chad Myers
+avatar: https://disqus.com/api/users/avatars/Chad Myers.jpg
+message: <p>I'm not sure, but I do recall reading something once that putting JS in 'onclick' attributes is not preferable and can cause memory leaks or something. Forgive as I forget the specifics, but I do remember it being strongly advised against.<br>One thing you might consider is having a CSS class like "deleteLink" and then, in your document ready doing:<br><br>$(document).ready(function(){<br>   $('.deleteLink').click(function(){<br>      $.post(this.href); return false;<br>   });<br>});<br>The jQuery experts seem to encourage this type progressive enhancement which has other benefits besides "not having JS in your markup."<br>The "What if Javascript is disabled?" problem is also an issue, but I'm guessing that if you have the requirement to support no-JS that you have other, larger issues than just delete links, lol.<br><br></p>

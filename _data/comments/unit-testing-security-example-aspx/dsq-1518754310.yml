@@ -1,0 +1,5 @@
+id: dsq-1518754310
+date: 2014-08-01T03:44:12.0000000-07:00
+name: SaurabhR
+avatar: https://disqus.com/api/users/avatars/SaurabhR.jpg
+message: "<p>My test fails with exception<br>System.Runtime.Serialization.SerializationException : Type is not resolved for member 'Castle.DynamicProxy.Serialization.ProxyObjectReference,Rhino.Mocks, Version=3.6.0.0, Culture=neutral, PublicKeyToken=0b3305902db7183f'.</p><p>This is because since Thread.CurrentPrincipal is changed, current AppDomain is not able to read the app.config file. My app.config file stores entries for my Logging utility. So my test fails when ever any log statement is encountered.</p><p>Any way around?</p>"

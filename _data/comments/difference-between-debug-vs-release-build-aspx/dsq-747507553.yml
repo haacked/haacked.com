@@ -1,0 +1,5 @@
+id: dsq-747507553
+date: 2006-05-10T01:21:00.0000000-07:00
+name: mcdeeiis
+avatar: https://disqus.com/api/users/avatars/mcdeeiis.jpg
+message: '<p>The biggest difference between these is that: <br>In a debug build the complete symbolic debug information is emitted to help while debugging applications and also the code optimization is not taken into account. <br>While in release build the symbolic debug info is not emitted and the code execution is optimized.<br>Also, because the symbolic info is not emitted in a release build, the size of the final executable is lesser than a debug executable.<br> <br>One can expect to see funny errors in release builds due to compiler optimizations or differences in memory layout or initialization. These are ususally referred to as Release - Only bugs :)<br> <br>In terms of execution speed, a release executable will execute faster for sure, but not always will this different be significant.<br></p>'

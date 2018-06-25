@@ -1,0 +1,5 @@
+id: dsq-747513838
+date: 2006-01-15T21:26:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Well for a *nix user, this wouldn't really be considered jumping through hoops.  There's a different way of doing things when working with remote servers in *nix.<br><br><br><br>And it's more secure.<br><br><br><br>Think of it this way, when I use WebHost4Life to host, I use FTP to transfer files.  Hardly a secure means of moving files since passwords in FTP are sent in clear text.<br><br><br><br>Honestly, I prefer this *nix SourceForge approach.   By uploading my public key, my one encryption private key allows me to access CVS, Shell Services, etc at SourceForge.  I don't have to enter my password all the time.  Just once for the key when I load up Pageant.</p>

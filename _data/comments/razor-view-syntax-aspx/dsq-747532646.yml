@@ -1,0 +1,5 @@
+id: dsq-747532646
+date: 2010-09-12T00:16:25.0000000-07:00
+name: Kevin
+avatar: https://disqus.com/api/users/avatars/Kevin.jpg
+message: <p>Phil,<br>I'm loving Razor!  Syntatically, it's very clean.  <br>Two questions:<br>1) Where's the best place to post feedback?<br>2) I've ran into an issue with tags spanning conditionals.  Is this an enforced limitation?<br>For example, I would expect the following to emit "<b>this should be bold&lt;/b", but instead I get "<b> } this should be bold if(true) { </b>"<br>                <br>@if(true) { <b> }<br>this should be bold<br>if(true) { </b> }<br></b></p>

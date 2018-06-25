@@ -1,0 +1,5 @@
+id: dsq-759064813
+date: 2013-01-07T08:46:32.0000000-08:00
+name: distantcam
+avatar: https://disqus.com/api/users/avatars/distantcam.jpg
+message: <p>Another disadvantage compared to IL weaving of the code you want is that every method and every property is going to run through this interceptor. And I noticed you've got a lot of reflection going on there.<br>Compared with a Fody solution, which after the post-compile puts all of this logic into the assembly you're compiling, and has no runtime reflection to perform.</p>

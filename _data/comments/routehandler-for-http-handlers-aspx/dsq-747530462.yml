@@ -1,0 +1,5 @@
+id: dsq-747530462
+date: 2011-10-20T06:12:40.0000000-07:00
+name: AlexCode
+avatar: https://disqus.com/api/users/avatars/AlexCode.jpg
+message: '<p>I just wrote an extension method that makes this much more easily.<br>You can call it like the following:<br><code><br>// using the handler url<br>routes.MapHttpHandlerRoute("MyControllerName", "Controllers/MyController", "~/mycontroller.ashx");<br> <br>// using an instance of the handler<br>routes.MapHttpHandlerRoute("MyControllerName", "Controllers/MyController", new mycontroller());<br></code><br>Have a look on my blog for the source code: <a href="http://www.instanceofanobject.com/2011/10/aspnet-40-httphandler-routing-support.html" rel="nofollow noopener" title="http://www.instanceofanobject.com/2011/10/aspnet-40-httphandler-routing-support.html">HERE</a></p>'

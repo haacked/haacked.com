@@ -1,0 +1,5 @@
+id: dsq-747534435
+date: 2011-02-12T06:51:36.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Gene, you need to run VS as admin. Unfortunately, they don't support elevation yet when you want to perform such actions. This is noted in our list of <a href="http://nuget.codeplex.com/wikipage?title=Known%20Issues" rel="nofollow noopener" title="NuGet Known Issues">Known Issues</a>.</p>

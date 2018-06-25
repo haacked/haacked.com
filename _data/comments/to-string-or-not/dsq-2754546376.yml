@@ -1,0 +1,5 @@
+id: dsq-2754546376
+date: 2016-06-28T02:46:01.0000000-07:00
+name: Nyerguds
+avatar: https://disqus.com/api/users/avatars/maartenmeuris.jpg
+message: <p>Personally I prefer using the class notations. Why? Well, first of all, because "int" and "long" and "short" and the lot are notorious for changing in meaning between languages. No thanks. I'll just write "Int32" every time, so it will never get it confused with Int16 or Int64, even if the code is opened in 20 years and everyone's definition of "int" is Int128 :p</p><p>And if I do it with that, why bother using any of these primitive types at all? They all have functions on them, so internally they're all classes anyway. I prefer using them as what they really are. Remove the ridiculous legacy-baggage duality by <i>simply not using the primitive types</i>.</p>

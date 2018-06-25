@@ -1,0 +1,5 @@
+id: dsq-747533642
+date: 2010-12-02T15:58:30.0000000-08:00
+name: John Ludlow
+avatar: https://disqus.com/api/users/avatars/johnludlow.jpg
+message: "<p>@Dan F:  He could have done, but that would have meant that a request for ~/something_else would have to check against ~/blog/posts, ~/blog/posts/{id}, ~/blog/archives and so on.  He was trying to group all those three ~/blog/* routes under ~/blog, so that a request for ~/something_else just checks once, against the group, and moves on.<br>It's over-engineering in this case since 3 routes probably wouldn't cause an issue.  For a larger site, something like this may be significant.<br>However, like he says this is voodoo magic because you're not really supposed to play with the stuff he's playing with.  Still, fun and interesting nonetheless.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747515645
+date: 2009-12-17T12:53:59.0000000-08:00
+name: Robertjan Tuit
+avatar: https://disqus.com/api/users/avatars/Robertjan Tuit.jpg
+message: <p>[Sorry for the recomment, I mistype the code block]<br>Would it not be easier to use one extension method:<br><code><br>public static class LoggerExtension<br>{<br>public static ILog Logger(this object obj)<br>{<br>var logger = LogManager.GetLogger(obj.GetType());<br>return logger;<br>}<br>}<br></code></p>

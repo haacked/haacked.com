@@ -1,0 +1,5 @@
+id: dsq-747521164
+date: 2007-06-15T15:50:39.0000000-07:00
+name: Thomas Eyde
+avatar: https://disqus.com/api/users/avatars/Thomas Eyde.jpg
+message: "<p>OT: What would happen when the viewstate is moved to the bottom and the user clicks a button before it's completely loaded?<br>Wouldn't we then get the dreaded corrupted viewstate exception?<br>If so, the corollary is:<br>1. moving the viewstate to the bottom of a page is not a good idea.<br>2. if you have to do it, then using viewstate is not a good idea.</p>"

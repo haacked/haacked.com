@@ -1,0 +1,5 @@
+id: dsq-747508313
+date: 2010-06-07T20:49:59.0000000-07:00
+name: Jack Walker
+avatar: https://disqus.com/api/users/avatars/Jack Walker.jpg
+message: <p>Thank You Thank You Thank You... This solve a problem that I have been wrestling with for 5 days. Microsoft please update your MSDN examples and explain the importance of setting this object System.Net.ServicePointManager.Expect100Continue on all related articles for HttpWebRequest/Response, WebRequest/Response, WebClient and TCPClient. This information could have saved me 4 days of frustration. This definitely was the 'needle in my haystack' that I had been trying to find to solve my problem.  <br>Thanks again Phil Haack! Hope the family is doing well.</p>

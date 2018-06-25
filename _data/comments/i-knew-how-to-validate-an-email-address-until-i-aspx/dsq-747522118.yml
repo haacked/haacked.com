@@ -1,0 +1,5 @@
+id: dsq-747522118
+date: 2010-01-28T03:23:59.0000000-08:00
+name: Joel
+avatar: https://disqus.com/api/users/avatars/Joel.jpg
+message: <p>This fails on single character domain names ie me@e.com<br>It isn't tested but is probably worth adding to your tests.</p>

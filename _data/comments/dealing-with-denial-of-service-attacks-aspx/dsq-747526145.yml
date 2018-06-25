@@ -1,0 +1,5 @@
+id: dsq-747526145
+date: 2008-08-24T22:48:42.0000000-07:00
+name: Abdu
+avatar: https://disqus.com/api/users/avatars/Abdu.jpg
+message: <p>I use Simple DNS Plus as my dns server software which has a nice feature of automatically blocking ip addresses which exceeded a number of requests per second or per minute. (One can exempt ip addresses). Effectively blocking DDOS attacks. It takes a lot less CPU there than letting IIS use URL Scan to handle these attacks. <br>You can probably do the same thing through your firewall if the firewall supports that.<br>URLScan is doing too much work to eliminate these attacks. While it can be effective, it's at the expense of CPU cycles.<br>Abdu</p>

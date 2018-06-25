@@ -1,0 +1,5 @@
+id: dsq-747524252
+date: 2008-02-21T15:45:42.0000000-08:00
+name: Ayende Rahien
+avatar: https://disqus.com/api/users/avatars/Ayende Rahien.jpg
+message: <p>In other words, now, in order to support versioning well, you have to put code in an abstract base class. That defeat the idea of using this ABC as a replacement for interfaces.<br>It also means that instead of getting a pretty compiler error with all the missing methods that I need to implement, you now trade either runtime exception or, even worse, a default implementation that may break utter havoc with the implementing class.<br></p>

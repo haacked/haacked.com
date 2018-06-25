@@ -1,0 +1,5 @@
+id: dsq-747527265
+date: 2010-05-24T20:02:48.0000000-07:00
+name: Erik Burger
+avatar: https://disqus.com/api/users/avatars/erik_burger.jpg
+message: <p>As an additional tip, please make sure you pick the correct version of aspnet_isapi.dll when you are running a 64-bit version of Windows/IIS. Sounds obvious but trust me, it'll give you a major headache if you don't.<br>Erik</p>

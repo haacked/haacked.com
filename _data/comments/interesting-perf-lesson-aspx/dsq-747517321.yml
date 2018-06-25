@@ -1,0 +1,5 @@
+id: dsq-747517321
+date: 2006-10-18T18:46:01.0000000-07:00
+name: Scott Muc
+avatar: https://disqus.com/api/users/avatars/Scott Muc.jpg
+message: <p>Eric, that's the whole point of paramaterized queries.<br>It allows you to safely write code like the following:<br><code><br>string sql = "SELECT * FROM Users WHERE UserId = @UserId";<br>SqlParameter paramUserId = new SqlParameter("UserId", SqlDbType.Int);<br>paramUserId.Value = 1;<br>// I like to use the SqlHelper class<br>IDataReader reader = SqlHelper.ExecuteReader(ConnectionString, CommandType.Text, sql, paramUserId);<br></code><br>Firstly, this parameter ensures that the paramater is an INT so a string value would throw an exception here. Also, if we were using a VARCHAR parameter, the SqlParameter value assignment automatically escapes the string for us.<br>If you run SQL Profiler and observe the queries, you'll notice that they are actually execute via a Stored Procedure (<a href="http://msdn2.microsoft.com/en-us/library/ms175170.aspx" rel="nofollow noopener" title="http://msdn2.microsoft.com/en-us/library/ms175170.aspx">sp_executesql</a>)<br>Hope that clears that up a bit.</p>

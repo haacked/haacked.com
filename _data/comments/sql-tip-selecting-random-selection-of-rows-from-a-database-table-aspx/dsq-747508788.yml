@@ -1,0 +1,5 @@
+id: dsq-747508788
+date: 2008-07-23T13:42:26.0000000-07:00
+name: Gimo
+avatar: https://disqus.com/api/users/avatars/Gimo.jpg
+message: <p>To be "really random", you must have another null column where you can fill it if the corresponding row is selected. Note that the selection statement must include a where clause, on which it must select where the column is null.<br>eg. SELECT TOP 10 column1 FROM someTable WHERE column2 IS NULL ORDER BY NEWID()<br>Then you need to update the column2 setting it a value like 1.</p>

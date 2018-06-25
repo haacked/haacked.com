@@ -1,0 +1,5 @@
+id: dsq-747513788
+date: 2008-03-30T15:33:30.0000000-07:00
+name: Peyo
+avatar: https://disqus.com/api/users/avatars/Peyo.jpg
+message: <p>Hi all!, I was trying to use this tip, but It doesn't seem to work in IE6... could someone please confirm this?<br>I can see that the <a> tag is correctly positioned and sized through DebugBar, but the region isn't clickable. The text inside </a><a> is clickable though.<br>Thanks to all</a></p>

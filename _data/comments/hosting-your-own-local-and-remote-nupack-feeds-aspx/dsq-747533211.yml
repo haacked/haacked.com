@@ -1,0 +1,5 @@
+id: dsq-747533211
+date: 2010-10-21T16:02:39.0000000-07:00
+name: Garry Shutler
+avatar: https://disqus.com/api/users/avatars/Garry Shutler.jpg
+message: <p>How do you add another source without Visual Studio? Say if you wanted to pull local packages on a build server without having to install VS and configure it for each project?</p>

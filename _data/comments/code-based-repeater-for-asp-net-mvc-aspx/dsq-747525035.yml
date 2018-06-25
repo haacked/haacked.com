@@ -1,0 +1,5 @@
+id: dsq-747525035
+date: 2008-05-05T01:45:41.0000000-07:00
+name: Stephen
+avatar: https://disqus.com/api/users/avatars/Stephen.jpg
+message: <p>I'm wondering, while I've started to get more love for the helper method way of generating html..<br>I wonder if theres any thought to upgrade the control system for <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a>, something more like wpf binding.. I know webforms provides a control system, and that can even be used within the mvc, but personally i don't think they reflect the mvc well, and I fear the helper methods are really going backwards.. in terms of:<br>Monolithic helpers for various different amounts of overloads you require..<br>Compared to the controls system of webforms, where you compose an instance that will eventually render.. not the mension that data the forms forms controls actually look like what you are doing vs tons of &lt;% %&gt; &lt;%= %&gt; yadda yaddas..<br>As someone who spent a lot of time with ASP, it seems all too familiar, I'm wondering if you guys who aim to retire controls in favour of tons of methods have ever used asp? :P</p>

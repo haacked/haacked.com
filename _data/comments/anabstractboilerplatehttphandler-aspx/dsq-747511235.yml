@@ -1,0 +1,5 @@
+id: dsq-747511235
+date: 2007-03-04T22:04:36.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>You don't need to declare it virtual when implementing an interface. It's "virtual" by virtue of the interface.</p>

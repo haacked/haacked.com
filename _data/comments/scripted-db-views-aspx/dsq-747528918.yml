@@ -1,0 +1,5 @@
+id: dsq-747528918
+date: 2009-04-23T10:20:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Huey all our built in helpers work with anonymous types. If you call &lt;%= Html.Eval("PropertyName") %&gt; we'll do reflection on Model object to grab that value.</p>

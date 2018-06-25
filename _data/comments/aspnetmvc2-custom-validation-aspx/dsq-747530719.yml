@@ -1,0 +1,5 @@
+id: dsq-747530719
+date: 2010-01-19T02:05:28.0000000-08:00
+name: Mohammad
+avatar: https://disqus.com/api/users/avatars/Mohammad.jpg
+message: <p>Hi Phil,<br>I'm using MVC R2 in VS 2008. However, Sys.Mvc.ValidatorRegistry  does not contain "get_creator" method in the version of the scripts I have, which comes from latest version of MVC, or I'm missing out something!<br>Please advice.<br>Thanks in advance,<br>Mohammad.<br>By the way, the demo project download link is not working.</p>

@@ -1,0 +1,5 @@
+id: dsq-747538538
+date: 2012-10-25T04:42:23.0000000-07:00
+name: Jonny Bekkum
+avatar: https://disqus.com/api/users/avatars/Jonny Bekkum.jpg
+message: "<p>You mentioned ASP.NET Web Pages and Web Matrix as examples for apps that have NuGet clients. I'd like to add that also SharpDevelop has builtin NuGet client and LinqPad Premium (licensed) also support NuGet <br>For LINQPad 4.x Premium users, LINQPad is now NuGetPad! Just press F4 and click Add NuGet to download and reference any NuGet package. LINQPad automatically resolves dependencies and includes a dialog for importing namespaces from a list.<br>See: <a href=\"http://forum.linqpad.net/discussion/42/nuget-integration\" rel=\"nofollow noopener\" title=\"http://forum.linqpad.net/discussion/42/nuget-integration\">forum.linqpad.net/discussion/42/nuget-integration</a></p>"

@@ -1,0 +1,5 @@
+id: dsq-747524300
+date: 2008-03-04T16:22:33.0000000-08:00
+name: Ed
+avatar: https://disqus.com/api/users/avatars/Ed.jpg
+message: <p>&gt;When I was a consultant, I've experienced clients who were using a key third party library for which the author went out of business and they didn't have the source code.<br>Why are they forced to upgrade?  It is absurd to believe that an application tied to closed-source, legacy code that will never be updated is a good candidate to update to a new version of a key framework.<br>Using third-party libraries is a design decision, where you say that you are willing to risk the possibility that your design decision precludes upgrading of the framework version.<br>Do not make the rest of us suffer with poor framework design simply because some organizations choose a design that is inherently less maintainable.</p>

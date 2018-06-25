@@ -1,0 +1,5 @@
+id: dsq-747514929
+date: 2006-05-03T00:38:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Steve, I didn't test case specifically.  I should have.  <br>By the way, instead of configuring a subfolder named "blog", you could use our 404 handling to take care of it.<br>Simply delete the "blog" folder (or delete default.aspx in there) and in IIS map the 404 error to /SystemMessages/FileNotFound.aspx.<br>This makes it so you don't have to create the physical subfolder for a blog with an "application" (though I now prefer the term "subfolder" over "application" despite the fact that the column name in the DB is "application".)</p>

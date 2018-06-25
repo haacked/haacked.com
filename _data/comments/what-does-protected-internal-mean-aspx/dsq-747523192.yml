@@ -1,0 +1,5 @@
+id: dsq-747523192
+date: 2007-10-29T22:16:18.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>Wow, that is an unfortunate IP gravitar for DotNetKicks.<br>So if the CLR contains a scope declaration, but there's no syntax available for using it. Does it really exist?<br>I thought of those two as independent. protected just means "off-limits for people who aren't me" and internal means "for people who are in my family"<br><a href="http://msdn2.microsoft.com/en-us/library/ba0a1yw2(VS.71).aspx" rel="nofollow noopener" title="http://msdn2.microsoft.com/en-us/library/ba0a1yw2(VS.71).aspx">http://msdn2.microsoft.com/...</a><br>What are the implications for protected AND internal? That restricts accessibility/overideability to only classes that derive from the base and are in the same assembly correct?</p>

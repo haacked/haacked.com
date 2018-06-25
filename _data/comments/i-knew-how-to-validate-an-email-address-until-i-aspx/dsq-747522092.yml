@@ -1,0 +1,5 @@
+id: dsq-747522092
+date: 2008-12-01T21:02:35.0000000-08:00
+name: mcv
+avatar: https://disqus.com/api/users/avatars/mcv.jpg
+message: <p>I truly don't see the point of extremely detailed email validation. It just won't work, and you run the risk of refusing valid addresses. The only way to be really sure that the email belongs to the person filling in your web form, is by sending a conformation email. All you can do before that is just make sure there is an address in the first place, and it's not complete garbage.<br>So here are the steps of the best kind of email validation for a web form:<br>1. Does it contain at least one @ character? (More than one is allowed in certain circumstances)<br>2. Is there at least one character before the last @?<br>3. Is the string after the @ a legal domain name?<br>4. Does the domain name exist (look it up in DNS)?<br>5. Send the confirmation email. Does somebody respond?<br>Anything beyond that just means you're probably denying somebody access to your service. And you're doing extra work for it too.</p>

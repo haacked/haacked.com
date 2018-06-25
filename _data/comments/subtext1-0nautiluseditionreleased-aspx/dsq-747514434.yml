@@ -1,0 +1,5 @@
+id: dsq-747514434
+date: 2006-03-08T00:42:00.0000000-08:00
+name: John Meyer
+avatar: https://disqus.com/api/users/avatars/John Meyer.jpg
+message: <p>OK thanks, maybe I can downgrade my server until then, with my current solution (dasBlog)storing all the data in XML files was bad enough with one blog but needing to duplicate everything for a second blog is not what I consider an acceptible solution... I know the .NET stuff is backwards compatible, but alas the MSSQL isn't :(</p>

@@ -1,0 +1,5 @@
+id: dsq-747525837
+date: 2008-07-24T21:07:58.0000000-07:00
+name: Chris B. Behrens
+avatar: https://disqus.com/api/users/avatars/Chris B. Behrens.jpg
+message: <p>Alright...clearly there are a lot of sharp people here, so I'd like to ask everyone's opinion for the utterly perfect testing scenario for a couple of simple database operations.<br>I need to test whether a customer which exists loads successfully from the database, loaded by a unique id. Do I preload the database in a setup script for the test harness, or do I have an entire db filled with test data from a backup, or what?<br>I need to test whether a customer is saved successfully to the database. When I'm done, what's the best way to clean up? Do I abort a transaction context, or throw away the entire db (I've done that before), or what? What's the best way to verify that the customer is saved succesfully? Direct queries, or what?<br>I'm amenable to the theoretical argument that this article makes, but it seems that pragmatically the kind test we're saying you shouldn't write is exactly the test that is most likely to reveal problems (in my experience). I'd love to hear some other ideas.</p>

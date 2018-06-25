@@ -1,0 +1,5 @@
+id: dsq-747522837
+date: 2007-10-21T20:05:31.0000000-07:00
+name: Greg D
+avatar: https://disqus.com/api/users/avatars/Greg D.jpg
+message: <p>The dysfunctional flavor of bug-driven development that I find most maddening is the attitude that a devteam won't fix known bugs until a [em]customer[/em] finds them first.  So yeah, I know of at least a dozen different crash errors in the rotting codebase that I just inherited, but I'm not allowed to go in and fix 'em because none of our customers have reported them yet.<br>Of course, I suppose I shouldn't be too surprised when we consider killing and restarting the software to be a "quick and easy" workaround for most of the bugs in this thing.<br>Is anybody out there hiring software devs who care about the quality of their software?</p>

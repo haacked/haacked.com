@@ -1,0 +1,5 @@
+id: dsq-747520779
+date: 2007-05-31T23:06:40.0000000-07:00
+name: Jamie Cansdale
+avatar: https://disqus.com/api/users/avatars/Jamie Cansdale.jpg
+message: <p>@Joe - you say "registry entries were specifically removed, and assemblies specifically not distributed with VS Express".<br>This isn't correct. When the Express SKU is installed you can find all of the required assemblies here:<br>\Program Files\Common Files\Microsoft Shared\MSEnv\PublicAssemblies\<br>They are specifically:<br>envdte.dll<br>extensibility.dll<br>Microsoft.VisualStudio.CommandBars.dll<br>stdole.dll<br>VSLangProj.dll<br>I list these in my email to Jason on Jan 3, 2006:<br><a href="http://www.mutantdesign.co.uk/downloads/ExpressEmails1.html" rel="nofollow noopener" title="http://www.mutantdesign.co.uk/downloads/ExpressEmails1.html">http://www.mutantdesign.co....</a></p>

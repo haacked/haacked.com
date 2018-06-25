@@ -1,0 +1,6 @@
+id: dsq-1351922651
+replyToId: dsq-1351758715
+date: 2014-04-23T08:21:04.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Man, I would love if you could take the .vs file and _point it to the .gitignore_ file and VS would use the gitignore to determine which files were or were not in your solution. That'd be pretty amazing.</p>

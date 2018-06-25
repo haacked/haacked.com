@@ -1,0 +1,5 @@
+id: dsq-747515870
+date: 2006-08-02T17:25:00.0000000-07:00
+name: Hartvig
+avatar: https://disqus.com/api/users/avatars/Hartvig.jpg
+message: "<p>I'd take a (serious) look at umbraco (disclamer: I'm the founder!):<br>- Open source GPL (and a commercial license if you don't like the GPL)<br>- .NET 1.1 (also runs with 2.0 and v3 coming in september is .net 2.0)<br>- Generic datamodel <br>- Beautiful and extensive web client with full GUI for setting up data structures and types (you can actually develop in the browser if you like)<br>- Very active and friendly community<br>- Extensive use of XML and XSLT<br>- Extremely flexible layout engine (umbraco doesn't generate html by if self) where you can use any usercontrol or xslt<br>Feel free to mail me (nh AT umbraco dot dk) if you have questions...<br>/n</p>"

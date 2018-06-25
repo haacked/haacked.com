@@ -1,0 +1,5 @@
+id: dsq-747531894
+date: 2010-03-26T09:45:38.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Santosh well take that up with the CSS gods. :) My point is that the output of the code is HTML + CSS. If you take a DIV, give it a specific width, and then put a long unbroken string like so:<br>&lt;div style=\"width:20px; border: solid 1px #000;\"&gt;<br>BBBBBBBBLLLLLLLLLLLLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHH<br>&lt;/div&gt;<br>The text is going to overflow the DIV.<br>What you can do is something like:<br>&lt;div style=\"width: 20px; <strong>overflow: auto;</strong> border: solid 1px #000;\"&gt;<br>BBBBBBBBLLLLLLLLLLLLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHH<br>&lt;/div&gt;<br>Note, that's a change to the style, not the JavaScript code. In my demo, I chose not to do that because most people leave comments that are standard words broken with spaces. :)<br></p>"

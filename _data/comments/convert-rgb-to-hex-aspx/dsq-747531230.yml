@@ -1,0 +1,5 @@
+id: dsq-747531230
+date: 2010-05-17T17:54:36.0000000-07:00
+name: Andy K
+avatar: https://disqus.com/api/users/avatars/Andy K.jpg
+message: <p>I use this function to compare in javascript for toggling color in HTML but didn't work. Any suggest ??<br>...<br>...<br>&lt;label style='color:#000000;' id='xx'&gt;<br>...<br>...<br>&lt;script&gt;<br>function addtag(tag_)<br>{<br> if(document.getElementById('xx').style.color.toString(16) == rgb(0,0,0))<br> {<br>  document.getElementById('xx').style.color = "#fff";<br> }<br> else<br> {<br>  document.getElementById('xx').style.color = "#000";<br> } <br>&lt;/script&gt;<br></p>

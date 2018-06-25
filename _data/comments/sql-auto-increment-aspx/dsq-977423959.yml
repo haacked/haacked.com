@@ -1,0 +1,6 @@
+id: dsq-977423959
+replyToId: dsq-747507635
+date: 2013-07-26T09:16:06.0000000-07:00
+name: Ankit
+avatar: https://disqus.com/api/users/avatars/Ankit.jpg
+message: '<p>You can always add a where clause to re-order a handful number of records</p><p>DECLARE @counter int<br>SET @counter = 0<br>UPDATE #tmp_Users<br>SET @counter = counter = @counter + 1</p><p>where ....</p>'

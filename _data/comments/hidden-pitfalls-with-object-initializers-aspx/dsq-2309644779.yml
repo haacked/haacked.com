@@ -1,0 +1,6 @@
+id: dsq-2309644779
+replyToId: dsq-766459256
+date: 2015-10-15T16:48:34.0000000-07:00
+name: Sam Bronson
+avatar: https://disqus.com/api/users/avatars/naesten.jpg
+message: <p>But the garbage collector reclaims memory in a timely fashion, doesn't it?  I suppose defusing the finalizer would help it do so one collection earlier, but still, it's not like it's a file handle or anything.</p>

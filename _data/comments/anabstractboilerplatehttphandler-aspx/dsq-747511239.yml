@@ -1,0 +1,5 @@
+id: dsq-747511239
+date: 2010-02-08T00:54:45.0000000-08:00
+name: Michael Stum
+avatar: https://disqus.com/api/users/avatars/Michael Stum.jpg
+message: <p>Thanks for this! One addition would be to make IsReusable virtual so that it can be overridden to false if required.</p>

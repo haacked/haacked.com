@@ -1,0 +1,5 @@
+id: dsq-747533126
+date: 2010-10-07T15:05:03.0000000-07:00
+name: Germ&#225;n
+avatar: https://disqus.com/api/users/avatars/Germ&#225;n.jpg
+message: <p>Hi,<br>In regard to my previous issue, thinking for two additional seconds brought me to the real problem and the solution. In the action that was being called in the layout I was returning a normal View(). Changing it to PartialView() solved the issue an it clearly tells MVC that you don't want any layout no matter what the Razor's Engine Layout setting has been configured.<br>ActionResult TopMenu() {<br> var model = GetMenu();<br> return <strong>PartialView<strong>(model);<br>}<br>Germán</strong></strong></p>

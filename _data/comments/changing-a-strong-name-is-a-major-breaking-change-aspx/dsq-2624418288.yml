@@ -1,0 +1,5 @@
+id: dsq-2624418288
+date: 2016-04-14T18:37:57.0000000-07:00
+name: Kirk Broadhurst
+avatar: https://disqus.com/api/users/avatars/kirk_broadhurst.jpg
+message: <p>This was a huge issue for me at the time.</p><p>It remains a huge issue. It seems that with every release the log4net team change the strong name of their assembly, whilst only updating the third component of the version number.</p><p>Right now I'm trying to use *another* package from nuget which references log4net 1.2.14 (aka 2.0.4?). Thus I need to downgrade my version from 1.2.15 to 1.2.14. But what if I were to reference two packages that use different versions of log4net? I suppose I'd need to build at least one of those from source.</p><p>The entire situation is ridiculous.</p>

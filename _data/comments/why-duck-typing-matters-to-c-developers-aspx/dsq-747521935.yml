@@ -1,0 +1,5 @@
+id: dsq-747521935
+date: 2007-08-19T14:47:53.0000000-07:00
+name: James McKay
+avatar: https://disqus.com/api/users/avatars/James McKay.jpg
+message: "<p>Just a thought: performance issues aside, wouldn't duck typing make the whole concept of generics redundant?<br>Or, to put it another way, are generics something of a workaround for the fact that C# has hitherto lacked full support for duck typing?</p>"

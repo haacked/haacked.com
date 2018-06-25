@@ -1,0 +1,5 @@
+id: dsq-934110520
+date: 2013-06-18T03:25:47.0000000-07:00
+name: Leyu
+avatar: https://disqus.com/api/users/avatars/Leyu.jpg
+message: <p>Typo on second snnipet <br>//items.ToDictionary(item =&gt; item.Key);<br>items.ToDictionary(item =&gt; item.Id);</p>

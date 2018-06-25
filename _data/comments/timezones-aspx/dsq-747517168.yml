@@ -1,0 +1,5 @@
+id: dsq-747517168
+date: 2006-10-06T07:49:52.0000000-07:00
+name: Darren Neimke
+avatar: https://disqus.com/api/users/avatars/Darren Neimke.jpg
+message: <p>Hi Phil, there are some Timezone smarts in SUB too.  I actually implemented and extended some functionality that I found in this article:<br><a href="http://www.codeproject.com/dotnet/WorldClock.asp" rel="nofollow noopener" title="http://www.codeproject.com/dotnet/WorldClock.asp">http://www.codeproject.com/...</a><br>Unfortunately it requires high trust because it reads the timezone information from the Windows Registry location:<br>SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones</p>

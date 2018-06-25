@@ -1,0 +1,5 @@
+id: dsq-747526082
+date: 2008-08-19T12:50:20.0000000-07:00
+name: Dmitriy Nagirnyak
+avatar: https://disqus.com/api/users/avatars/Dmitriy Nagirnyak.jpg
+message: "<p>How is it possible to override attributes - from child parent classes to child classes and actions?<br>[Authenticate]<br>public AppController : Controller {<br>}<br>[Authenticate(Required=false)]<br>public HomeController : AppController {<br>}<br>There's no guaranteed order of executing these filters.</p>"

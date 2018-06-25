@@ -1,0 +1,5 @@
+id: dsq-747513677
+date: 2008-12-02T20:26:47.0000000-08:00
+name: TN
+avatar: https://disqus.com/api/users/avatars/TN.jpg
+message: <p>Just to share my observation regarding usage of url() *for .htc files*<br>IE7 interprets the path to .htc file in url() function like this<br>- absolute path (e.g. behavior=url('/styles/HiLite.htc')) won't work<br>- relative path is relative to the web page (.aspx .php etc files) that use the stylesheet. Note that for ASP.NET even if the master page is used the relative path is still *relative* to the content file</p>

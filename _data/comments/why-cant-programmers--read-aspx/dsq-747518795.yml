@@ -1,0 +1,5 @@
+id: dsq-747518795
+date: 2007-03-05T14:35:02.0000000-08:00
+name: Jehanzeb
+avatar: https://disqus.com/api/users/avatars/Jehanzeb.jpg
+message: <p>using System;<br>using System.Collections.Generic;<br>using System.Text;<br>namespace FizzBUzz<br>{<br>class Program<br>{<br>static void Main(string[] args)<br>{<br>for (int index = 1; index &lt;= 100; index++)<br>{<br>if (index % 3 == 0 &amp;&amp; index % 5 == 0)<br>{<br>// Print it out<br>Console.WriteLine("FizzBuzz");<br>}<br>else<br>{<br>if (index % 3 == 0)<br>{<br>// Print Fizz<br>Console.WriteLine("Fizz");<br>}<br>else<br>if (index % 5 == 0)<br>{<br>// Print Buzz<br>Console.WriteLine("Buzz");<br>}<br>}<br>if (index % 3 != 0 &amp;&amp; index % 5 != 0)<br>{<br>// Print it out<br>Console.WriteLine(index.ToString());<br>}<br>}<br>}<br>}<br>}<br></p>

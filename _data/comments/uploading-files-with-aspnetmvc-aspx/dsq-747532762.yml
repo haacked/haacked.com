@@ -1,0 +1,5 @@
+id: dsq-747532762
+date: 2012-05-31T12:45:03.0000000-07:00
+name: BK
+avatar: https://disqus.com/api/users/avatars/BK.jpg
+message: <p>In order to restrict the type of files users couple upload (e.g. I only want them to upload word documents in this case), I used the following code.  I think it could be tweaked for folks wanting image directories, etc.<br>if (file.ContentLength &gt; 0 &amp;&amp; (Path.GetExtension(file.FileName) == (".doc") || Path.GetExtension(file.FileName) == ".docx"))<br>This way I can put it whereever I want.</p>

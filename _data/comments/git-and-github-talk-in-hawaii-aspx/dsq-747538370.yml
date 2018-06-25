@@ -1,0 +1,5 @@
+id: dsq-747538370
+date: 2012-09-05T16:07:16.0000000-07:00
+name: Ryan Williams
+avatar: https://disqus.com/api/users/avatars/Ryan Williams.jpg
+message: <p>Timely topic!  I've been using Git on the side for non .NET projects for a while. Now, I'm working on switching over a .NET team to Git. For hosting Git remotes on Windows (can't introduce a Linux machine just for this, and cloud hosting like GitHub is not an option), what's your current recommendation or what has the most momentum?  GitStack? msysGit with CopSSH? Gitolite?  I suppose it's probably more of a question about setting up the SSH server?</p>

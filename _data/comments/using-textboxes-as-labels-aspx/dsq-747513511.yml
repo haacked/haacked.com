@@ -1,0 +1,5 @@
+id: dsq-747513511
+date: 2005-12-12T22:14:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Most of the behavior is accomplished through javascript, so it may be a mac or Safari issue. I've only tested the code on a PC with Firefox and IE.  Already found one issue with how Firefox handles the onclick event within a textbox.<br><br><br><br>If you resolve the mac issue, let me know.</p>

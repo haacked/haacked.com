@@ -1,0 +1,5 @@
+id: dsq-747529730
+date: 2009-08-18T23:39:00.0000000-07:00
+name: Steve Smith
+avatar: https://disqus.com/api/users/avatars/Steve Smith.jpg
+message: <p>I like it.  I don't use transactions all that often, but this seems to me to be the same kind of simplification that saves bugs as when we moved from ADO to ADO.NET and replaced<br>while Not RS.EOF<br>...<br>  RS.MoveNext 'Do not forget this line!<br>end while<br>to:<br>while(myDataReader.Read()<br>{<br>...<br>}<br>Eliminating the need for the last (required) call in the pattern is definitely a good thing.</p>

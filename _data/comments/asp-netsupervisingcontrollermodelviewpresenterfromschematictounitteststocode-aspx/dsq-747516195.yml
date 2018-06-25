@@ -1,0 +1,5 @@
+id: dsq-747516195
+date: 2007-03-28T23:55:10.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>It's a case of personal preference. Obviously, if you don't write the view interface, your test won't even compile. In a purist TDD sense, that qualifies as a failing test.<br>Personally, I like my tests to compile as the "fail" part, so I usually define the beginning of the interface, write a test that complies, make sure the test fails, then move on. I allow myself to refine the interface as I write tests recognizing it as an iterative process.<br>I try to keep the steps as small as possible. Sometimes a decent size step is "as small as possible". I'll try to find some time to walk through a real world example of TDD one of these days.</p>

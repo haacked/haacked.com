@@ -1,0 +1,5 @@
+id: dsq-747535426
+date: 2011-06-09T04:38:38.0000000-07:00
+name: Rad
+avatar: https://disqus.com/api/users/avatars/Rad.jpg
+message: <p>I would like to know if I can add one or more projects from a Nuget package or Powershell console to the current solution (which can be empty) using one of available Project templates or a custom one I can bring from some storage location (local or remote). This is like a software factory where based on some DSL I can create a basic application (as multiple projects within the solution). <br>Similar to this "design time/IDE" experience, I would like to know if I can do this outside of VS IDE and compose applications from Nuget packages, Source, T4 templates and compile once I have every piece in place. This is more like a product software factory.<br>Thanks<br>Rad</p>

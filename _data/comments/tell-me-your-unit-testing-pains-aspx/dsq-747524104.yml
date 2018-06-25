@@ -1,0 +1,5 @@
+id: dsq-747524104
+date: 2008-02-06T02:22:18.0000000-08:00
+name: Wendy
+avatar: https://disqus.com/api/users/avatars/Wendy.jpg
+message: <p>I find its easier to write testable classes with WPF. However, testing classes that use ObservableCollections can be difficult. The setup can be very large and the tests difficult to follow. Also, the event for the collection change is annoying to work with (why aren't the item lists generic??)...<br>One helpful pattern is to create a single class that observes the collection and forwards changes to an (or many) INotifyObservableCollectionChanged interface. That way you only have one class you need to test with an ObservableCollection and everyone else who wants to watch implements the interface, which is easy to test.<br>public interface INotifyObservableCollectionChanged&lt;TypeOfObjectsInCollection&gt;<br>void ObjectsAdded(IList&lt;TypeOfObjectsInCollection&gt; addedObjects)<br>void ObjectsRemved(IList&lt;TypeOfObjectsInCollection&gt; removedObjects)<br>...<br>I hope that made some sense :P</p>

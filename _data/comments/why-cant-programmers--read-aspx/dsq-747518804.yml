@@ -1,0 +1,5 @@
+id: dsq-747518804
+date: 2007-03-08T12:37:42.0000000-08:00
+name: acidt
+avatar: https://disqus.com/api/users/avatars/acidt.jpg
+message: <p>#include &lt;iostream&gt;<br>using namespace std;<br>int main()<br>{<br>    for(int i=1; i&lt;101; i++)<br>    {<br>        if (i%3==0) cout &lt;&lt; "Fizz";<br>        if (i%5==0) cout &lt;&lt; "Buzz";<br>        if (! ((i%3==0)||(i%5==0)) ) cout &lt;&lt; i;       <br>        cout &lt;&lt; endl;<br>   }<br>   system("pause");<br>   return 0;   <br>}</p>

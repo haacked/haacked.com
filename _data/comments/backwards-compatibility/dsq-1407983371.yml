@@ -1,0 +1,6 @@
+id: dsq-1407983371
+replyToId: dsq-1407944673
+date: 2014-05-28T02:30:35.0000000-07:00
+name: Eric J. Smith
+avatar: https://disqus.com/api/users/avatars/ericjsmith12.jpg
+message: <p>Web API and vnext can both be run in OWIN, but they would be completely separate and running 2 different pipelines.</p>

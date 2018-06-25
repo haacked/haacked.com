@@ -1,0 +1,5 @@
+id: dsq-747527927
+date: 2010-05-07T18:04:22.0000000-07:00
+name: Oliver
+avatar: https://disqus.com/api/users/avatars/Oliver.jpg
+message: <p>Hi Phil,<br>I am trying to create a form with java and also include the AntiForgeryToken within the from. The blow code is what I am trying to generate. I liked your helper class that injects the AntiForgeryToken into the from... can something similar be done to produce the output below?<br>Thank you,<br>Oliver<br>onclick="var f = document.createElement('form'); f.style.display = 'none'; this.parentNode.appendChild(f); f.method = 'POST'; f.action = this.href;var s = document.createElement('input'); s.setAttribute('type', 'hidden'); s.setAttribute('name', '__RequestVerificationToken'); s.setAttribute('value', 'NTcwdh77hWox5dGULzvutUDMqp+3ma+NmsHRGliq6XL4j7jyKb6oV8wu+AgqQsBqo5tF4y6fEgHXDDEiboFy7Q=='); f.appendChild(s);f.submit();return false;"</p>

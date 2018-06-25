@@ -1,0 +1,5 @@
+id: dsq-747524982
+date: 2008-04-24T22:32:16.0000000-07:00
+name: JacobM
+avatar: https://disqus.com/api/users/avatars/JacobM.jpg
+message: <p>I agree about the issue of edge cases -- sometimes I get requirements where there are only ever going to be two types of something.  Ever.  Except, well, maybe very occasionally there will be three types.  Non-technical people don't seem to understand that we have to design architecture to support the limit of what may happen, not just the typical case.<br>So an example might be feeding a bunch of kids.  We'll start with hot dogs.  Most kids like hot dogs, right?  But it turns out some of them are vegetarians.  So the boss comes down and says, hey, let's also have peanut butter sandwiches -- that'll be easy to add.  And it is -- except that it turns out that some kids are so allergic to peanuts that they can't even be at a table where peanut butter is being served.  So now suddenly we have to query all the kids and their parents and divide up the group, and have two sets of utensils and so forth.</p>

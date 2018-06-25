@@ -1,0 +1,5 @@
+id: dsq-747524155
+date: 2008-02-12T01:38:30.0000000-08:00
+name: Damien Guard
+avatar: https://disqus.com/api/users/avatars/Damien Guard.jpg
+message: <p>Actually, even better don't even reveal their existance:<br>&lt;httpHandlers&gt;<br>&lt;remove verb="*" path="*.aspx"/&gt;<br>&lt;add path="*.aspx" verb="*" type="System.Web.HttpNotFoundHandler"/&gt;<br>&lt;/httpHandlers&gt;</p>

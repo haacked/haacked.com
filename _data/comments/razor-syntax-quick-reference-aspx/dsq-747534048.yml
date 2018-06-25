@@ -1,0 +1,5 @@
+id: dsq-747534048
+date: 2011-01-06T12:34:29.0000000-08:00
+name: Eric Berens
+avatar: https://disqus.com/api/users/avatars/Eric Berens.jpg
+message: '<p>With ASP.NET 4 a new code expression syntax (&lt;%:  %&gt;) was introduced that renders output like &lt;%= %&gt; blocks do – but automatically HTML encodes it before doing so. (<a href="http://weblogs.asp.net/scottgu/archive/2010/04/06/new-lt-gt-syntax-for-html-encoding-output-in-asp-net-4-and-asp-net-mvc-2.aspx" rel="nofollow noopener" title="http://weblogs.asp.net/scottgu/archive/2010/04/06/new-lt-gt-syntax-for-html-encoding-output-in-asp-net-4-and-asp-net-mvc-2.aspx">weblogs.asp.net/...</a>)<br>That being said, are all expressions HTML encoded and if so is there a syntax that outputs the expression without encoding it beforehand?</p>'

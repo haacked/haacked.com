@@ -1,0 +1,5 @@
+id: dsq-747520362
+date: 2007-07-26T21:23:43.0000000-07:00
+name: Tom
+avatar: https://disqus.com/api/users/avatars/Tom.jpg
+message: <p>"Cannot Read Configuration FILE"<br>That's what the application log shows for me.  I haven't gotten a simple page to show on Vista with IIS7 yet either.  Definately frustrating.  <br>Why can't it read the config file?  Seems like a security setting someplace.  <br>Any Ideas?</p>

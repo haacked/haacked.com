@@ -1,0 +1,5 @@
+id: dsq-747519117
+date: 2012-11-27T11:26:25.0000000-08:00
+name: Charles
+avatar: https://disqus.com/api/users/avatars/Charles.jpg
+message: "<p>Hi.<br>I've got an problem<br>Dim title As String = BlogSettings.Settings.Title<br>I receive an error:The type initializer for 'ReadCustomSectionAppConfig.BlogSettings' threw an exception.<br>I try with Dim x As Object = ConfigurationManager.GetSection(\"BlogSettings\")<br>I receive an error:  Could not find file ReadCustomSectionAppConfig\\ReadCustomSectionAppConfig\\bin\\Debug\\ReadCustomSectionAppConfig.vshost.exe.config line 5)<br>Report the values ​​of assembly and root namespace of my window application<br>assembly name:ReadCustomSectionAppConfig<br>root namespace:ReadCustomSectionAppConfig</p>"

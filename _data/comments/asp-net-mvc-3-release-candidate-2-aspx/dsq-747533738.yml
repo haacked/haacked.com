@@ -1,0 +1,5 @@
+id: dsq-747533738
+date: 2010-12-16T16:36:25.0000000-08:00
+name: Adam
+avatar: https://disqus.com/api/users/avatars/Adam.jpg
+message: <p>@Haddy:<br>MVC3 is brilliant. I think rich has hit the nail on the head. I like MVC because it's clean. ViewBag seems to make it messy and it feels like it has been added with much reluctance.<br>@rich:<br>I do use strongly-type view models. I think though that using methods in a dynamic object is also messy, especially since extension methods are used everywhere now (not least with Ajax, Html and Url helpers.) But then dynamic typing doesn't really fit into that way of doing things.</p>

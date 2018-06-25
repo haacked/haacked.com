@@ -1,0 +1,5 @@
+id: dsq-747527217
+date: 2008-12-02T18:44:36.0000000-08:00
+name: Brien
+avatar: https://disqus.com/api/users/avatars/Brien.jpg
+message: <p>Don't forget that in a basic IIS install, ASP.NET is turned off.  You need to go into the IIS Web Service Extensions and enable ASP.NET.<br>I fought with IIS for a few days before I realized my mistake.</p>

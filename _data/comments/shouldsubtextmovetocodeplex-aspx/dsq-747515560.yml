@@ -1,0 +1,5 @@
+id: dsq-747515560
+date: 2006-07-03T07:56:00.0000000-07:00
+name: Mountain
+avatar: https://disqus.com/api/users/avatars/Mountain.jpg
+message: <p>My company is switching from TFS to either Vault or Subversion. TFS is feature rich, but it is also the only SCC any of us have used that caused us to lose work. Once that happened, no one on my team trusted it anymore and they all demanded we make a switch. I switched to Subversion for my personal projects and I'd be really disappointed to see open source dotnet projects move to a non-open source SCC system such as TFS. In my opinion, Microsoft also needs to rethink its MSDN pricing before we should start throwing a lot of community support behind TFS and/or VSTS.</p>

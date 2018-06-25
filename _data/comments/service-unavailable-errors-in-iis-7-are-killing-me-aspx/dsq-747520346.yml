@@ -1,0 +1,5 @@
+id: dsq-747520346
+date: 2007-05-20T06:46:29.0000000-07:00
+name: nitro2k01
+avatar: https://disqus.com/api/users/avatars/nitro2k01.jpg
+message: "<p>When hearing about your problems I could just tell you to try open source alternatives. (Which is generally not a bad idea) <br>But from a pure malfunctioning point of view, FOSS software can laugh you in the face as well.<br>For example, lately I've been struggling to get a FAMP server (FreeBSD, Apache, MySQL, PHP) to work on a SunBlade machine, a real exotic flavor. (These computers are non-Intel ones that usually run Solaris)<br>It's a real b****, and so far I haven't got it to work properly. (The server just stops responding whenever I use PHP, with MySQL enabled, even if MySQL isn't used, sometimes it happens under other circumstances too)<br>Where was I going with that? Oh yeah: Even if you don't choose to convert to Apache, etc., my advice is to let go of Vista for now. My own experience, sadly, is that Windows OS's don't get really mature until at least a year after the release, when initial bugs and holes are fixed.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747536398
+date: 2011-12-17T22:04:51.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Without the lock, the Stop method will return immediately, even though your task is still ongoing. This could cause ASP.NET to tear down the app domain prematurely in the middle of your operation. Hence the lock.<br>In this particular case, if you were to deadlock, the app domain shutdown timeout will expire and it goes down anyways. So no more harm there than w/o the lock. But if your code is properly written to not deadlock (not hard in this case), then your code is more robust and given time to complete its task. Just keep them short!</p>

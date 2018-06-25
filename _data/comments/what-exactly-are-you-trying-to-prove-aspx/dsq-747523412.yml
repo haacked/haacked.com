@@ -1,0 +1,5 @@
+id: dsq-747523412
+date: 2007-11-17T11:06:32.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <blockquote>If you don't think you need anything more to produce quality code, fine, but don't work for me on any project.</blockquote><p><br>I'm not the only one here missing points. I never said testing was enough to produce quality code. The only point I made is that writing provably correct code should not be the developer's main focus. Code proofs only work for trivial cases, not for real world systems.</p>

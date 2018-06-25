@@ -1,0 +1,5 @@
+id: dsq-747531246
+date: 2011-12-20T02:58:19.0000000-08:00
+name: sean
+avatar: https://disqus.com/api/users/avatars/sean.jpg
+message: <p>I once wrote a script wherein I had to do something similar to this about 100,000 times (see the link). One thing that bothered me is that there was something about it that was rather slow.  Just curious, any guess as to what it is?  Mine didn't include the regex, so that's not it, perhaps toString()?<br>I am just typing words, maybe I should go figure it out myself ;)</p>

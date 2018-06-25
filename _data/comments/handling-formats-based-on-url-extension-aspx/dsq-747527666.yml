@@ -1,0 +1,5 @@
+id: dsq-747527666
+date: 2009-01-06T21:17:20.0000000-08:00
+name: Troy Goode
+avatar: https://disqus.com/api/users/avatars/Troy Goode.jpg
+message: <p>I've thought about doing something similar before, but always get hung up on the potential security issues. Typically the ViewData that we send down to a view is safe, in that only what we decide to expose in the view itself is deliver to the client. By automatically piping the viewdata for all actions out to JSON, you could easily leave yourself vulnerable to data you would otherwise not want to display.<br>One option is to change the invoker to only support a format if the requested action is tagged with a matching format attribute, e.g.:<br>[AcceptFormats(ResponseFormats.Json)]<br>public object Index(){ ... }<br>Thoughts?</p>

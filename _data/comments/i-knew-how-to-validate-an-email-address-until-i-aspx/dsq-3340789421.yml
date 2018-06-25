@@ -1,0 +1,5 @@
+id: dsq-3340789421
+date: 2017-06-04T12:04:52.0000000-07:00
+name: Lewis Cowles
+avatar: https://disqus.com/api/users/avatars/lewiscowles.jpg
+message: <p>What I'm slightly taken back by is the RFC specs don't seem to provide any unit tests (that I've found so far). It's probably why none of them are implemented as intended even in 2017.</p>

@@ -1,0 +1,5 @@
+id: dsq-747513230
+date: 2005-10-20T10:19:00.0000000-07:00
+name: jayson knight
+avatar: https://disqus.com/api/users/avatars/jayson knight.jpg
+message: <p>Great job at explaining the proof...but I'm more intrigued by the pattern in the results of each iteration.  i.e. starting w/ n=1;n+=2:<br><br><br><br>fn = (((n^2)-1)/8)<br><br><br><br>fn = 0<br><br>fn = 1<br><br>fn = 3<br><br>fn = 6<br><br>fn = 10<br><br>fn = 15<br><br><br><br>...<br><br><br><br>See the pattern yet?</p>

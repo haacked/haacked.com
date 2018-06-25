@@ -1,0 +1,5 @@
+id: dsq-747523275
+date: 2007-11-05T03:21:02.0000000-08:00
+name: Tim Rayburn
+avatar: https://disqus.com/api/users/avatars/Tim Rayburn.jpg
+message: <p>Interesting idea, but I would have used the same functionality (Extension Methods) to "skin this cat" the other way around.  That is to say, I would have extended IHttpContext to know how to Mock itself instead.  Your way is very traditional OO, the MockRepository's singe role is Mocks, but I think the code is more readable the other way, personally.  You can create a catch-all routine like this one below, and then create specific routine for complex types like IHttpContext above:<br>public static T Mock&lt;T&gt;(this T obj, MockRepository mocks)<br>{<br>    return mocks.DynamicMock&lt;T&gt;();<br>}<br></p>

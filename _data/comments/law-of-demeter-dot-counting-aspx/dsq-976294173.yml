@@ -1,0 +1,5 @@
+id: dsq-976294173
+date: 2013-07-25T13:11:20.0000000-07:00
+name: Sergey Akulinin
+avatar: https://disqus.com/api/users/avatars/sergeyakulinin.jpg
+message: <p>Very good article!<br>As for me, next example shows real reason of LoD usability:<br></p><pre><code>public function order($application) {<br>  $application-&gt;getProduct()-&gt;addToCart();<br>  $application-&gt;getCustomer()-&gt;checkout();<br>}</code></pre><p><br>Why we don't pass real dependency for the function (customer and product), but pass application object? LoD is violated here and shows us bad architecture.<br>In next example I will never want to follow LoD:<br></p><pre><code>public function testStructure($root) {<br>  $directoryElements = $root-&gt;getDirectory()-&gt;getSubDirectory()-&gt;getChildren();<br>  $this-&gt;assertGreaterThan(0, count($directoryElements));<br>  $anotherDirectoryElements = $root-&gt;getAnotherDirectory()-&gt;getChildren();<br>  $this-&gt;assertGreaterThan(0, count($anotherDirectoryElements));<br>}</code></pre><p><br>IMHO LoD should be re-defined in the way to handle the difference of 2 above examples.</p>

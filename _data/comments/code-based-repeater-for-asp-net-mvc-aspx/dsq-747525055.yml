@@ -1,0 +1,5 @@
+id: dsq-747525055
+date: 2008-05-06T17:05:45.0000000-07:00
+name: Joey
+avatar: https://disqus.com/api/users/avatars/Joey.jpg
+message: <p>@ScottHa<br></p><blockquote><br>Alternating rows are a client-side presentation detail that the server shouldn't be sweating.</blockquote><p><br>I love JavaScript and use jQuery as my toolkit of choice ... but think 100+ rows your code has to parse and add a simple CSS.  <br>Compiled FTW.<br>Not a knock on jquery ... but I've seen it abused and people stuff their "document.ready" with too much logic that hangs the browser.    Be pragmatic.</p>

@@ -1,0 +1,5 @@
+id: dsq-747517387
+date: 2006-10-30T21:52:47.0000000-08:00
+name: Steven Harman
+avatar: https://disqus.com/api/users/avatars/stevenharman.jpg
+message: '<p><strong>@Jim</strong>: Jim, I recall seeing the same odd behavior at one point. To fix it, I pulled down the latest bits from SVN, and then <em>RE</em>-built the solution.<br>That seemed to fix it for me :)</p>'

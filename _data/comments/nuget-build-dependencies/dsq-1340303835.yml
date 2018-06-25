@@ -1,0 +1,5 @@
+id: dsq-1340303835
+date: 2014-04-16T05:08:37.0000000-07:00
+name: Kristian Hellang
+avatar: https://disqus.com/api/users/avatars/khellang.jpg
+message: <p>YES! Optional dependencies makes so much sense. Not only for tooling from other package managers, but for other NuGet packages as well.</p><p>Some examples where this would be very handy are scriptcs, Glimpse and Nancy. All have a core library, but the core doesn't really provide much value (except Nancy which has default implementations included) without engines, adapters, serializers etc. that depend on the core module and actually does the work.</p><p>It would be awesome to have a way to just "Install-Package scriptcs" and get prompted to select related packages, e.g. "Do you want the Roslyn or the Mono engine?".</p>

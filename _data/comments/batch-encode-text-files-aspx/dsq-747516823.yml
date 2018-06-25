@@ -1,0 +1,5 @@
+id: dsq-747516823
+date: 2006-09-20T10:49:01.0000000-07:00
+name: Sam Smoot
+avatar: https://disqus.com/api/users/avatars/Sam Smoot.jpg
+message: <p>Ruby! :-)<br>File::open(ARGV.first + '.output', 'wb+') do |f|<br>  f &lt;&lt; <a href="http://Iconv.new" rel="nofollow noopener" title="Iconv.new">Iconv.new</a>('utf-8', 'utf-16').iconv(<a href="http://ARGF.read" rel="nofollow noopener" title="ARGF.read">ARGF.read</a>)<br>end<br>Ok, granted, Iconv can be a bit flaky on Windows (and you probably won't have it by default unless you installed with the OneClickInstaller). Sometimes it just throws an exception when the input is obviously perfectly valid for the given character-set. I've had better luck with rbuconv but it'll be significantly slower since it's pure-Ruby, so it's really best suited to files under... oh... a hundred Mb or so?<br>Either way, I've taken a special interest in encodings, so interesting post!<br>Now if only someone would show us the Python (IronPython even? As long as you don't just cheat and use the .NET BCL) version. :-)</p>

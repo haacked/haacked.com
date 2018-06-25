@@ -1,0 +1,5 @@
+id: dsq-747526138
+date: 2008-08-22T05:10:41.0000000-07:00
+name: Edward J. Stembler
+avatar: https://disqus.com/api/users/avatars/Edward J. Stembler.jpg
+message: <p>I wonder if you or anyone else can offer up anything more substantial?<br>Are there are any automated tools or utilities out there to help identify an attack?  Anything which could automatically block the attackers?<br>Last year when I discovered my SQL Server database was the subject of a brute force attack, I was able to block the attacks via manually creating an IP/Sec policy.<br>I wonder if IP/Sec could be used similarly to block a DDoS or DoS attack?  I'm no expert when it comes to IP/Sec, and found it pretty tedious/confusing to setup last year.</p>

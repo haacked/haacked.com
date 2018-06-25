@@ -1,0 +1,5 @@
+id: dsq-747532013
+date: 2010-11-07T23:13:48.0000000-08:00
+name: Sajib
+avatar: https://disqus.com/api/users/avatars/Sajib.jpg
+message: <p>AntiForgeryToken is not working for me as well. I tried  adding<br>"__RequestVerificationToken" in the data and used JSON.stringify method to stringify the data. <br>Hi Ben, did you get any solution or anyone has found any solution?<br>Please post here if yes.</p>

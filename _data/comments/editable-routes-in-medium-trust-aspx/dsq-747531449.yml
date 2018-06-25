@@ -1,0 +1,5 @@
+id: dsq-747531449
+date: 2010-01-24T16:05:29.0000000-08:00
+name: Andrew
+avatar: https://disqus.com/api/users/avatars/Andrew.jpg
+message: <p>Not a bad solution.<br>Another solution would be to put your routes in an Xml file, load it on application_start and set up a cache dependency to check for changes. Less elegant sure but at least it doesn't restart your app, and I don't like the pattern of dropping .cs files into your app_data folder and automatically kicking off a recompile. Sounds like a potential configuration nightmare.<br>Thanks for the great article though.</p>

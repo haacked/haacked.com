@@ -1,0 +1,5 @@
+id: dsq-747529450
+date: 2009-06-26T12:12:00.0000000-07:00
+name: Louis DeJardin
+avatar: https://disqus.com/api/users/avatars/Louis DeJardin.jpg
+message: <p>Sounds very well reasoned. Would there still be room to consider a middle-ground default setting of requiring POST only on arrays?<br>If there's a POST requirement on all JsonResponse you have two choices:<br>* switch all of your client-side invocation to POST<br>* disable the enhancement<br>However if it's only a POST requirement on array responses a few more options become available:<br>* switch only the invocation of array requests to POST<br>* change only the array responses to object<br>My concern about the first case would be if people under time constraints, especially with an existing app, would simply flip the switch off to make things work. Sort of the penny in the fusebox, run-as-admin, reaction. However they may have a comparatively acceptable number of array responses to correct.<br>Just throwing that out there. I do agree there's no reason to use GET over POST in new projects, and it would be entirely reasonable to have new web configs dialed up to a strict json policy.<br></p>

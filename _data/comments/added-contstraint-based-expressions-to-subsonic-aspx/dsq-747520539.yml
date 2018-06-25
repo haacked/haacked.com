@@ -1,0 +1,5 @@
+id: dsq-747520539
+date: 2007-05-23T02:27:23.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>Is "where" an object I can create and pass into a Query constructor or set on Query member? Or is Query serializable?</p>

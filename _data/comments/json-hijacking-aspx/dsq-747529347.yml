@@ -1,0 +1,5 @@
+id: dsq-747529347
+date: 2009-06-25T02:04:00.0000000-07:00
+name: Mike Simpson
+avatar: https://disqus.com/api/users/avatars/Mike Simpson.jpg
+message: <p>Thanks for the great post - very informative.  This seems to be somewhat more of an issue for RESTful sites, since using POST instead of GET may not be a good option.  But avoiding sending arrays, or wrapping them in an object property, are both useful workarounds.</p>

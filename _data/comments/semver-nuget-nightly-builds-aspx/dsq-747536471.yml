@@ -1,0 +1,5 @@
+id: dsq-747536471
+date: 2011-10-31T02:27:04.0000000-07:00
+name: Rafael Teixeira
+avatar: https://disqus.com/api/users/avatars/Rafael Teixeira.jpg
+message: <p>I second Chris Marisic, in that SemVer is not helpful when dealing with marketing decisions on versioning.<br>Most of our libraries (in nugets) are in sync with mandated product Major.Minor versions so only Build/Release numbers are available for semver so where Nuget is heading isn't going to be much helpful...<br>Probably we will need to evolve to something like Chris suggestion, over time, but pure SemVer is not a foreseeable scenario for us... <br></p>

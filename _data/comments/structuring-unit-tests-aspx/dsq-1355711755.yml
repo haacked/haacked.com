@@ -1,0 +1,5 @@
+id: dsq-1355711755
+date: 2014-04-25T13:38:19.0000000-07:00
+name: Steven Cramer
+avatar: https://disqus.com/api/users/avatars/StevenTCramer.jpg
+message: <p>So if your class under test has a constructor, where do you test that?  If you create a nested class for the Constructor, what do you name it?</p>

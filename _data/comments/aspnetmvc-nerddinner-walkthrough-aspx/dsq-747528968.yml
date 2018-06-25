@@ -1,0 +1,5 @@
+id: dsq-747528968
+date: 2009-05-08T23:10:00.0000000-07:00
+name: Alex
+avatar: https://disqus.com/api/users/avatars/Alex.jpg
+message: <p>Phil,<br>What suggestions/links for replacing LINQ2SQL with entity framework? I am stuck at the point where you are going over OnValidate methods - EF doesn't have this...<br>Thank you,<br>Alex</p>

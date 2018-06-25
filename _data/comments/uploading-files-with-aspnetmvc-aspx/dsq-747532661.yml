@@ -1,0 +1,5 @@
+id: dsq-747532661
+date: 2010-07-18T20:20:11.0000000-07:00
+name: Kevin Major
+avatar: https://disqus.com/api/users/avatars/Kevin Major.jpg
+message: "<p>Quick question: what if you want another controller method to handle the upload?  What would one have to specify as the path for the form's action attribute?  Simply '/controller/method'?</p>"

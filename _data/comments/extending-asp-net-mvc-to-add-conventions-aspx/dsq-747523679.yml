@@ -1,0 +1,5 @@
+id: dsq-747523679
+date: 2008-08-04T09:29:04.0000000-07:00
+name: AG
+avatar: https://disqus.com/api/users/avatars/AG.jpg
+message: <p>Phil, How would handle the situation where you want a to do something more intrinsic without compromising the spirit of MVC.  For example, lets say you wanted to provide fine grained access to sections of a web page i.e &lt;%= if (IsVisible("sectionname", username))%&gt;.  Of course I would want to just access a collection that already had the data i needed (lets call it a dictionary).  In the web forms days I would just drop in an HttpModule that would load the data and just access the data (I know barf).</p>

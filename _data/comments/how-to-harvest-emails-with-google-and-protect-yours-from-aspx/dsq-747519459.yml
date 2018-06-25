@@ -1,0 +1,5 @@
+id: dsq-747519459
+date: 2007-04-02T09:01:41.0000000-07:00
+name: Joe Brinkman
+avatar: https://disqus.com/api/users/avatars/Joe Brinkman.jpg
+message: <p>DotNetNuke has long had a function that takes a string and replaces it with an inline javascript function.  This function then just decodes a series of hex numbers and injects the final results into the dom.  Works great to keep the bots at bay.</p>

@@ -1,0 +1,5 @@
+id: dsq-747513326
+date: 2005-10-31T20:11:00.0000000-08:00
+name: Scott Williams
+avatar: https://disqus.com/api/users/avatars/Scott Williams.jpg
+message: <p>I would have used this several months ago when I upgraded. I don't mind temporarily granting write access, but I would put a big red notice reminding me to remove that privilege when the install is done.<br><br><br><br>The biggest hurdle I had upgrading was that all of my skin's aspx &amp; ascx files were still pointing to .Text namespaces for references.</p>

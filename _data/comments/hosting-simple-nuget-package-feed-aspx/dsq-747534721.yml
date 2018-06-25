@@ -1,0 +1,5 @@
+id: dsq-747534721
+date: 2011-04-06T13:29:26.0000000-07:00
+name: Jacco
+avatar: https://disqus.com/api/users/avatars/Jacco.jpg
+message: <p>I realy like this solution, but I don't get it. Keep getting the 404 error. I made sure having the  &lt;modules runAllManagedModulesForAllRequests="true"&gt; entry in web.config. <br>Published the site to IIS 7 and added the mimetype as suggested by haacked. <br>Anyone any other suggestion?       please....</p>

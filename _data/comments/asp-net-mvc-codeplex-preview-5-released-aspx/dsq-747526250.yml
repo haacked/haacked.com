@@ -1,0 +1,5 @@
+id: dsq-747526250
+date: 2008-08-30T12:21:00.0000000-07:00
+name: Corey Gaudin
+avatar: https://disqus.com/api/users/avatars/Corey Gaudin.jpg
+message: <p>Just in case anyone needs this when going from Preview 4-&gt;5:<br>-If you are looking for "UpdateFrom" from BindingExpression, its gone, instead use in the Controller class (its protected inside it now) UpdateModel<br>-If you are having issues with Html.TextArea, add an extra null at the end of the parameter list (for HTMLAttribs)<br>-If you are having issues with Html.Checkbox, the parameter list has changed alot, there is no value and text now.<br>-If you are having an issue with BuildUrlFromExpression&lt;t&gt; ..., then you will need to look into the Microsoft.Web.Mvc dll (it is under LinkBuilder)<br>-Several things have been removed that I have yet to find a way around (like the ActionMethod property from ActionFilters)<br><br>We definitely need a posting on the new features such as Validation additions (and how it works behind the scenes), Ajax changes, Return type of PartialView from controller, etc.</p>

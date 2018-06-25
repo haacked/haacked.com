@@ -1,0 +1,5 @@
+id: dsq-747530490
+date: 2009-11-10T03:04:00.0000000-08:00
+name: Aaron Fischer
+avatar: https://disqus.com/api/users/avatars/Aaron Fischer.jpg
+message: '<p>And if you wanted ISuperHero to have a Name...<br>public interface ISuperHero : IPerson {<br> new  string Name { get; set; } <br> string Alias { get; set; }<br>}</p>'

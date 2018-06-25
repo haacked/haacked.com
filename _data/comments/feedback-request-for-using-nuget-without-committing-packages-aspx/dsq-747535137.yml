@@ -1,0 +1,5 @@
+id: dsq-747535137
+date: 2011-04-27T00:46:43.0000000-07:00
+name: David Gottlieb
+avatar: https://disqus.com/api/users/avatars/David Gottlieb.jpg
+message: <p>Phil,<br>This is excellent. <br>We follow the recommended model by Microsoft for branching and merging which is:<br>Main, Development, Release. Main being the branch that is always on test, Development well, being development.  And release being your release branches to production.<br>Within each of those we have a Bin and Src directory. The Bin directory contains any external dependencies referenced by that project or projects in that product and Src containing your source files.  Do you think that the flexibility will ever be introduced as to where those assemblies might get stored?  If we install a Nuget package, we would want them to go to that Bin location so that they can be checked into TFS.</p>

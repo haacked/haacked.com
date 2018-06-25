@@ -1,0 +1,5 @@
+id: dsq-3571599150
+date: 2017-10-17T09:55:25.0000000-07:00
+name: Peter M
+avatar: https://disqus.com/api/users/avatars/pmerikan.jpg
+message: "<p>I'm little late to the party but this my take on this. <br>First, you assume that everybody uses http(s) when cloning a repo but that's not always the case :-). Anyway, my alias looks like this:<br></p><pre><code><br># open repo in browser, usage: git open [upstream] <br>open  = \"!f() { URL=$(git config remote.${1-origin}.url | sed -e 's#^.*@#https://#' -e 's#.git$##' -e 's#:#/#2'); git web--browse $URL; }; f\"<br></code></pre><p><br>It will handle both http(s) and git cloned repositories.<br>Uses git web--browse, the git helper script to launch a web browser, platform independent.<br>Pass the remote name as an optional parameter e.g. upstream , default is origin.</p>"

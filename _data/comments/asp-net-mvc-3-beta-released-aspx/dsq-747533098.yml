@@ -1,0 +1,5 @@
+id: dsq-747533098
+date: 2010-10-06T00:22:50.0000000-07:00
+name: Erx
+avatar: https://disqus.com/api/users/avatars/Erx.jpg
+message: <p>This is very dismal, I see now that there will be no feature to return multiple views in mvc 3.0, or even an elegant way to update various divs without having to make multiple requests (which force js hackery to request and blatant js hackery to split up and re assign on the receive end)... I still find it hard to believe that such a common need is not only ignored but not even acknowledged.</p>

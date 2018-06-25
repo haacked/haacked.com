@@ -1,0 +1,5 @@
+id: dsq-747522159
+date: 2010-12-13T22:41:06.0000000-08:00
+name: Bernd Jendrissek
+avatar: https://disqus.com/api/users/avatars/Bernd Jendrissek.jpg
+message: <p>Stefan:<br></p><blockquote><br>I've been using a regex that basically checks for at least one non-whitespace char before the @ sign, another one after, a dot and then another two.<br></blockquote><p><br>That fails for some Sean in Anguilla:<br><a href="http://lists.gnupg.org/pipermail/gnupg-devel/2001-March/016994.html" rel="nofollow noopener" title="http://lists.gnupg.org/pipermail/gnupg-devel/2001-March/016994.html">lists.gnupg.org/.../016994.html</a></p>

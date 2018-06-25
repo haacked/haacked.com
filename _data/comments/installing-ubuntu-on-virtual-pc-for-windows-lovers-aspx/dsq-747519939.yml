@@ -1,0 +1,5 @@
+id: dsq-747519939
+date: 2007-05-06T11:27:26.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>sudo -s works too, starts a root shell.<br>I've never run into the bit-depth limitation under VPC? I haven't run Unbuntu 7.04 though, earlier versions I've run under VPC and VMWare with no desktop problems. But I've always run under Windows XP. Are you running VPC under Vista? The close/min/max buttons look Vista-ish in your screenshots.<br>Damn Small Linux is a great distro to install on your work machine for testing or running small wikis. ~50MB and can run in a 64MB VM with a full graphical desktop. You can start it up, leave it running, and hardly even notice an drag on your system.<br>I'm digging VMWare player &amp; server and the plethora of pre-installed/configured virtual machines they have at their site. I wish there was a VPC community site sponsored by MS that had lots of pre-configured virtual machines. Player is free and there is a free tool avalable that lets you make VM images from physical machines.</p>

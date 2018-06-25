@@ -1,0 +1,5 @@
+id: dsq-747531201
+date: 2009-12-29T14:57:39.0000000-08:00
+name: David Fowler
+avatar: https://disqus.com/api/users/avatars/David Fowler.jpg
+message: <p><code><br>  var rgb = b | (g &lt;&lt; 8) | (r &lt;&lt; 16)<br></code><br>:)</p>

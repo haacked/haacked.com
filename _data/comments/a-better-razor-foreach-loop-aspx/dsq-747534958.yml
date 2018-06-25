@@ -1,0 +1,5 @@
+id: dsq-747534958
+date: 2011-04-14T14:36:47.0000000-07:00
+name: лз
+avatar: https://disqus.com/api/users/avatars/лз.jpg
+message: <p>items.ElementAt(i) is not the best choice. Depending on implementation it might reiterate the whole thing from the start over and over again.<br>I think it's better to use foreach and maintain the current position. Like<br>int i = 0;<br>foreach (var item in items){<br>  var result = template(new IndexedItem&lt;TItem&gt;(i++, item));<br>  result.WriteTo(writer);<br>}</p>

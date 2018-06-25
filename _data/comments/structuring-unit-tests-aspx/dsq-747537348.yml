@@ -1,0 +1,5 @@
+id: dsq-747537348
+date: 2012-01-23T15:58:15.0000000-08:00
+name: JF
+avatar: https://disqus.com/api/users/avatars/JF.jpg
+message: <p>I understand that when wrapping tests around existing, untested, legacy code, these are fine guidelines. For new development, though, Titleizer violates SRP - it isn't single responsibility. That class does two distinct operations.<br>Once have Titlizer.Titleize() and Knightifier.Knightify(), I've got Single Responsibility and Naming down, and the tests now organize themselves. I don't need to nest anything into child classes.<br>As a bonus, now when I add the functionality to prepend "Lord" or "Lady" to Titleize(), I don't need to modify the Knightifier class or its tests.</p>

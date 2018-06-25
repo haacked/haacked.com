@@ -1,0 +1,5 @@
+id: dsq-747527634
+date: 2009-01-05T03:57:53.0000000-08:00
+name: Niki
+avatar: https://disqus.com/api/users/avatars/Niki.jpg
+message: <p>Why not use a templating libary like StringTemplate (<a href="http://www.stringtemplate.org" rel="nofollow noopener" title="http://www.stringtemplate.org">http://www.stringtemplate.org</a>)?<br>  var template = new StringTemplate("$x.pi$ first, $<a href="http://x.date" rel="nofollow noopener" title="x.date">x.date</a>$ second");<br>  template.SetAttribute("x", someObj);<br>It's way more powerful than that, it can do conditionals and loops and it's based on a genuine parser, so it doesn't have the regex problems you describe. I use it all the time.</p>

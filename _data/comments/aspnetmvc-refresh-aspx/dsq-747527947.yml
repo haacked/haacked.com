@@ -1,0 +1,5 @@
+id: dsq-747527947
+date: 2009-01-30T18:20:12.0000000-08:00
+name: Emad Ibrahim
+avatar: https://disqus.com/api/users/avatars/Emad Ibrahim.jpg
+message: <p>Thanks for the update but I have a quick question.  I have a filter that inherits from AuthorizeAttribute.  I override the OnAuthorization method and call filterContext.Cancel to cancel the authorization and I also check if it to see if it is set to true.<br>The Cancel property doesn't exist anymore in the RC.  I know that you changed the authroization filters to run first.  Is that why you took it out?  Will it run first regardless of Order?  What if I have multiple authorization filters?<br>For example, I have an AuthorizeForNetworkAdmin and AuthorizeForNetwork which check if a user is authorized to access the site and the other checks if he is authorized to access it as an admin.  I use that for <a href="http://yonkly.com" rel="nofollow noopener" title="yonkly.com">yonkly.com</a> since it hosts multiple "networks" each with its own subdomain.<br>Any suggestions on how to address this?  <br>Thanks.</p>

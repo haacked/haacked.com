@@ -1,0 +1,5 @@
+id: dsq-747508890
+date: 2007-12-11T19:32:21.0000000-08:00
+name: Pierre Mengal
+avatar: https://disqus.com/api/users/avatars/Pierre Mengal.jpg
+message: "<p>If you want to get the executing directory, you can still use : string currentDir = Path.GetDirectoryName(Assembly.GetExecutingAssembly().CodeBase);<br>I use the Phil's method to set it back to the process.</p>"

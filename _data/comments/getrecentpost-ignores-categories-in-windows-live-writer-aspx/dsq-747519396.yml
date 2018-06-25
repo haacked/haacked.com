@@ -1,0 +1,5 @@
+id: dsq-747519396
+date: 2007-03-23T21:11:13.0000000-07:00
+name: Joe Cheng [MSFT]
+avatar: https://disqus.com/api/users/avatars/Joe Cheng [MSFT].jpg
+message: <p>Hi there,<br>WLW has a bug (actually more of a "limitation") in that we never pick up changes to the server at all if we already have a local copy. This will be fixed in the next release, including categories.<br>I believe Community Server has/had their own bug where the categories were never returned. But if you are looking in Fiddler and the responses look OK, then our next release will fix it.<br>Thanks...</p>

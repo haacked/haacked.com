@@ -1,0 +1,5 @@
+id: dsq-747519927
+date: 2010-02-16T18:07:05.0000000-08:00
+name: Amit Kumar
+avatar: https://disqus.com/api/users/avatars/Amit Kumar.jpg
+message: <p>Can some one help.<br>I am having overloaded indexed property.<br>public IABC Data[int i]<br>{<br>get { return _abc[i];}<br>}<br>public IABC Data[object obj]<br>{<br>get{return ...//something}<br>}<br>I want to mock the second get property and it should allways return some predefined object.<br>Following are not working for me:<br>object key = new object();<br>SetupResult.For(mde[key]).Return(_mds); <br>//or<br>Expect.Call(mde[key]).Return(_mds);<br>Can some one please help.</p>

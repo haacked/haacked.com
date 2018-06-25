@@ -1,0 +1,5 @@
+id: dsq-747534671
+date: 2011-12-09T21:51:40.0000000-08:00
+name: gee
+avatar: https://disqus.com/api/users/avatars/gee.jpg
+message: <p>Doing a project in MVC and hating every minute of it. Longing to get back to Silverlight where you dont have to put up with all these hacks to get something to work. MVC 3 sucks big time. The time you save with view/controller generation is used up writing extension methods to cover up bugs in the ModelBinding, not to mention the miriad of bugs when dealing with decimals. Why deal with Json Ajax and jQuery when this is all taken care of for you in Silverlight. Doesnt make sense. Its a big step backwards.Of course, with IE10 not supporting plugins, its back to the stone age of javascript.</p>

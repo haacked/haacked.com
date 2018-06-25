@@ -1,0 +1,5 @@
+id: dsq-747527868
+date: 2009-01-30T01:01:19.0000000-08:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>Since you require jquery, it might make sense to take the onclick off and add a class instead, then unobtrusively use:<br> $("a.whatever").live('click', function(ev) { ev.preventDefault(); $.post(this.href); }</p>

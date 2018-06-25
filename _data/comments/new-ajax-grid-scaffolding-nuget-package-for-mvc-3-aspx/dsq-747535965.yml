@@ -1,0 +1,5 @@
+id: dsq-747535965
+date: 2011-08-17T18:49:00.0000000-07:00
+name: Craig Stuntz
+avatar: https://disqus.com/api/users/avatars/Craig Stuntz.jpg
+message: "<p>Thanks for asking for feedback.<br>Yes, back button support is important. It's also not hard. I got it working for jqGrid, which didn't support it; see my GitHub fork here: <br><a href=\"https://github.com/CraigStuntz/jqGrid/wiki\" rel=\"nofollow noopener\" title=\"https://github.com/CraigStuntz/jqGrid/wiki\">https://github.com/CraigStuntz/jqGrid/wiki</a><br>Regarding adding this as an MVC *framework* feature, I think if you limit yourself to one grid you've already lost. As someone pointed out above, the jQuery UI grid is coming out RSN. <br>However, it's possible to make an interface which supports multiple grids. I have a prototype of such a thing here:<br><a href=\"http://anygrid.codeplex.com/\" rel=\"nofollow noopener\" title=\"http://anygrid.codeplex.com/\">http://anygrid.codeplex.com/</a><br>These are all very solvable problems.</p>"

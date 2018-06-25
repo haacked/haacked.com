@@ -1,0 +1,5 @@
+id: dsq-747523637
+date: 2012-05-24T05:54:35.0000000-07:00
+name: Chinthana
+avatar: https://disqus.com/api/users/avatars/Chinthana.jpg
+message: <p>I agree with DSmith's some of the comments, but I don't think TDD is anything about "Awareness of the developer". The thing is actually when you hand over your code to someone else, and doing enhancement (may be a stable code), might lead to crash your code. If you had written test cases then that would have been prevented at the time of you do changes and compile your test library. TDD is really valuable <br>when it comes to complex business logic (which does not throw run time application errors, but logic errors)</p>

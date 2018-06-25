@@ -1,0 +1,5 @@
+id: dsq-747525138
+date: 2008-05-10T21:58:29.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Steve sorry about that, I included the wrong assembly. I've updated the sample to include a new DelegatingActionResult which allows you to pass a delegate in. That way, you don't have to write a custom action result for everything.<br>@Lamin I could've made the Download action method parameterized. That way there would've been no need to hardcode anything.</p>

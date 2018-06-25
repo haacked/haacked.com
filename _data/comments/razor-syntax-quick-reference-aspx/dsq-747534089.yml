@@ -1,0 +1,5 @@
+id: dsq-747534089
+date: 2011-04-07T11:45:08.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Well yeah, there's always going to be those cases where you do have to think about it. After all, there's no way for Razor to know in that case that you meant for that to be literal text unless you tell it.<br>But in most cases (at least in my experience), I start such blocks with a tag, such as a SPAN. In that case, it really does flow.</p>

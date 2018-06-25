@@ -1,0 +1,5 @@
+id: dsq-747534487
+date: 2011-02-28T07:48:34.0000000-08:00
+name: Simon
+avatar: https://disqus.com/api/users/avatars/Simon.jpg
+message: <p>Thanks for the update on this. Was quite frustrated when I discovered this in December when trying to switch to MVC3 - and quite disgruntled that you weren't able to fix it. <br>It messed up so many of my links that it made me feel like the whole MVC3 was broken - but fortunately after figuring out a similar fix to yours I've seen no other problems with the final release and loving Razor!<br>But feel much better now knowing that it's the core System.Web team's fault :-) Hopefully it'll be taken care of!</p>

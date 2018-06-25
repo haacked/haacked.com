@@ -1,0 +1,5 @@
+id: dsq-747528993
+date: 2012-05-28T09:15:59.0000000-07:00
+name: Saeed Neamati
+avatar: https://disqus.com/api/users/avatars/saeedneamati.jpg
+message: <p>So, seems that in ASP.NET, we can replace everything with our customized code. This seems to be promising, but I can find no real-world application in which you want to "prevent a developer from injecting an script tag in a View". I mean, maybe that level of extensibility adds no extra value at all to the real-world examples.</p>

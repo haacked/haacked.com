@@ -1,0 +1,5 @@
+id: dsq-747527119
+date: 2008-11-18T06:29:35.0000000-08:00
+name: Graeme Christie
+avatar: https://disqus.com/api/users/avatars/Graeme Christie.jpg
+message: <p>Argh ! There's never an Encode() around when you need one.<br>My example above should read (I've used square brackets instead of angle brackets, I have no idea how you escape characters in this blog) <br> .....Replace("XXXEDITXXX","[span]Edit[/span]")<br></p>

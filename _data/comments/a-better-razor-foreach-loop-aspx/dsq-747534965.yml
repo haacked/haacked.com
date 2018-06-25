@@ -1,0 +1,5 @@
+id: dsq-747534965
+date: 2011-04-14T18:13:20.0000000-07:00
+name: Sergey
+avatar: https://disqus.com/api/users/avatars/Sergey.jpg
+message: <p>Why should I use a proxy class? Isnt it better to just put an indexer to Func? Like this:<br>public static void ForEach&lt;T&gt;(this IEnumerable&lt;T&gt; items, Action&lt;int, T&gt; exp)<br>{<br>  var index = 0;<br>  foreach (var item in items)<br>  {<br>    exp(index++, item);<br>  }<br>}</p>

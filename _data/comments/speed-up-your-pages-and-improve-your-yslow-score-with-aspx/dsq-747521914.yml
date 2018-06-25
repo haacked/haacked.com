@@ -1,0 +1,5 @@
+id: dsq-747521914
+date: 2008-07-07T15:51:19.0000000-07:00
+name: Mandeep
+avatar: https://disqus.com/api/users/avatars/Mandeep.jpg
+message: <p>Hi,<br>I was getting a score of 68 yesterday, I added the expires tag,removed the etags and added my domain cdn to firefox preferneces. I m getting a B with score of 88 now.....But still, it shows an F for CDN and ETAGS.........though now its only the for the images which I am fetchign from PHOTOBUCKET on to my web page.<br>I tried adding the domain, <a href="http://www.photobucket.com" rel="nofollow noopener" title="www.photobucket.com">www.photobucket.com</a> in the preferences. But it doesnt help and the score and grade for CDN and ETAGS remains the same.<br>Any Suggestions please !!<br>Thanks in Advance !!<br>Mandeep</p>

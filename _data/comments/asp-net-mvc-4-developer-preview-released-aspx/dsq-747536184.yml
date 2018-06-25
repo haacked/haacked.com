@@ -1,0 +1,5 @@
+id: dsq-747536184
+date: 2011-09-19T08:30:48.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>ASP.NET MVC 4 does work on .NET 4.0. I would not install .NET 4.5 in production as it is a developer preview and there's no Go Live for it yet. They can all co-exist.</p>

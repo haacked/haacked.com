@@ -1,0 +1,5 @@
+id: dsq-747534275
+date: 2011-02-09T04:39:06.0000000-08:00
+name: Joshua
+avatar: https://disqus.com/api/users/avatars/Joshua.jpg
+message: <p>This is an excellent idea Phil! I'd love to see this taken further.<br>Even for a simple blog website however, you still have a database to manage and I'm not sure how you would control database updates between versions? You would need a way of being able to pull down the appropriate sql migration script and run it on the database as part of a post build task or something.<br>Slight segway but I am also interested to see how the EF team handle code first migration.<br>I would love to see this proof of concept "AutoUpdater" project taken further. Just goes to show how awesome NuGet is.</p>

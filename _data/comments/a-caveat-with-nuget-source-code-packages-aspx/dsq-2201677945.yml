@@ -1,0 +1,5 @@
+id: dsq-2201677945
+date: 2015-08-18T15:11:22.0000000-07:00
+name: Shayne van Asperen
+avatar: https://disqus.com/api/users/avatars/shaynevanasperen.jpg
+message: "<p>The solution to this is to make sure that all the types in a source-only package are internal and to mark the package as a developer dependency. See my github project where I've created a whole collection of source-only packages built from a single c-sharp project: <a href=\"https://github.com/shaynevanasperen/Quarks\" rel=\"nofollow noopener\" title=\"https://github.com/shaynevanasperen/Quarks\">https://github.com/shayneva...</a></p>"

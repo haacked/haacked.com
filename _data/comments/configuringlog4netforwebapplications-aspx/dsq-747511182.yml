@@ -1,0 +1,5 @@
+id: dsq-747511182
+date: 2008-11-20T18:35:17.0000000-08:00
+name: Peter G
+avatar: https://disqus.com/api/users/avatars/Peter G.jpg
+message: <p>This is Great Advice when running in development environments.  After a day of trying to figure this out with various posts, I did this and it worked immediately.   I'm assuming though when it's running in IIS, you'll have to specify a fully qualified path for the log file, because the root would be in you windows directory, also you can probably set up a web folder in the MSI that does the installation and grant the appropriate privileges in the installer.  Haven't tried this yet, but I think that's probably how it'll work.</p>

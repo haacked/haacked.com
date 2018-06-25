@@ -1,0 +1,5 @@
+id: dsq-747521041
+date: 2007-06-12T19:58:56.0000000-07:00
+name: opello
+avatar: https://disqus.com/api/users/avatars/opello.jpg
+message: <p>One thing I always wonder about the various image captchas out there, are whether they take the time to be case-insensitive or not.<br>So when i tried the 'visible' captcha, I of course entered it in lower case.  The image was 'J797' and after the page posted back, the control said valid, but the captcha image now showed 'j797'.  This seemed like an odd behavior (and probably unimportant unless the captcha is validated on a preview, and remains the same, but with any 'as entered' case changes applied).</p>

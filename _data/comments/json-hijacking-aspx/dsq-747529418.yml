@@ -1,0 +1,5 @@
+id: dsq-747529418
+date: 2012-01-20T03:03:00.0000000-08:00
+name: Guest
+avatar: https://disqus.com/api/users/avatars/Guest.jpg
+message: "<p>@William<br>See this answer: <a href=\"http://security.stackexchange.com/questions/7001/how-should-web-app-developers-defend-against-json-hijacking\" rel=\"nofollow noopener\" title=\"http://security.stackexchange.com/questions/7001/how-should-web-app-developers-defend-against-json-hijacking\">security.stackexchange.com/...</a><br>\"If the browser has a cookie for site A, it will include it in all requests to site A. This is true even if the request was triggered by a &lt;script&gt; tag on site B.\"<br>Site B isn't able to read your cookie but the browser <em>will</em> send it along with the request.</p>"

@@ -1,0 +1,5 @@
+id: dsq-747535445
+date: 2012-01-11T19:56:28.0000000-08:00
+name: mitja.gti
+avatar: https://disqus.com/api/users/avatars/mitja.gti.jpg
+message: <p>One note and one question Phil.<br>I had a problem removing your template. Even when I removed the .zip file and the registry value, it kept showing in VS. At the end I found out that there were some additional keys present in registry. When I removed them, the template went *puff* :)<br>[code]HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\10.0_Config\MVC3\ProjectTemplates\MyProjectTemplate<br>HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\VisualStudio\10.0\MVC3\ProjectTemplates\MyProjectTemplate<br>HKEY_USERS\S-1-5-21-...\Software\Microsoft\VisualStudio\10.0_Config\MVC3\ProjectTemplates\MyProjectTemplate[/code]<br>And a question... I removed jQuery package tags from vstemplate (added CDN) but the files are still copied into the solution when I create it. Can one remove default NuGet packages?<br>Thank you.</p>

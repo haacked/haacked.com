@@ -1,0 +1,5 @@
+id: dsq-807981858
+date: 2013-02-21T21:44:52.0000000-08:00
+name: Ben Phegan
+avatar: https://disqus.com/api/users/avatars/google-91da1e3c38421c987ab51bd02ceabfa3.jpg
+message: <p>One thing that wasn't covered in this discussion, but may have been thought of, is transitive trust and the due diligence package authors use when adding package dependencies.  You may trust me, but I may be lazy....so I add some random package as a dependency to a package that I publish, and this will be pulled transitively into your solution.  At install time you almost have to do a walk of the transitive dependency tree for the package you intend to use and validate not only the direct trust/authenticity, but make a call on the tree in its entirety.  </p><p>This has possible impacts to install GUIs, as I would notionally want to see this at install time so I can make a decision at that point as to whether I trust all packages and authors in the tree.  Some of this is mitigated by a "web of trust" and the shallow nature of most package dependency trees currently at <a href="http://nuget.org" rel="nofollow noopener" title="nuget.org">nuget.org</a>, but probably worth noting.</p>

@@ -1,0 +1,5 @@
+id: dsq-747537748
+date: 2012-03-15T11:10:40.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hi all, I forgot to include the assemblies in the zip file. I fixed that. I need to ILMerge all of it together.<br>@Steven, I haven't tested it on mono yet. Send a pull request?</p>

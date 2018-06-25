@@ -1,0 +1,5 @@
+id: dsq-747518951
+date: 2008-01-04T03:14:51.0000000-08:00
+name: Anonymous
+avatar: https://disqus.com/api/users/avatars/Anonymous.jpg
+message: <p>a better way will be to used something like this<br> if (node.URL != null &amp;&amp; node.URL.Contains(node_path))<br>                return true;<br>            Stack&lt;Node&gt; stack = new Stack&lt;Node&gt;();<br>            stack.Push(node);<br>            while (stack.Count &gt; 0) {<br>                Node _node_ = stack.Pop();<br>                for (int i = 0; i &lt; _node_.Nodes.Length; i++){<br>                    if (_node_.Nodes[i].URL != null &amp;&amp;<br>                        _node_.Nodes[i].URL.Contains(node_path)) {<br>                            stack.Clear();<br>                            return true;<br>                    }<br>                    stack.Push(_node_.Nodes[i]);<br>                }<br>            }<br>            stack.Clear();<br>            return false;</p>

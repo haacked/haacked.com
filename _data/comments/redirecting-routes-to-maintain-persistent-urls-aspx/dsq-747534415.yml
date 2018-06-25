@@ -1,0 +1,5 @@
+id: dsq-747534415
+date: 2011-04-27T07:46:29.0000000-07:00
+name: Rex
+avatar: https://disqus.com/api/users/avatars/Rex.jpg
+message: <p>Thanks Phil. I'm pretty sure I understand. Putting the <code>{controller}.mvc/{action}</code> route first works, but that redirects <code>home/index</code> to <code>home.mvc/index</code> and I was hoping for a way to do the inverse. That is for all the static links out in the wild (e.g. users' bookmarks, old reports, links in e-mail) that point to home.mvc/index, have them redirect to home/index. It sounds like since any two-segment url will match <code>{controller}/{action}</code> it won't work using redirect. No biggie... we'll just have to live with the .mvc extension for a while longer.<br>Thanks for RouteDebugger, RouteMagic, all your work on MVC and NuGet, and other contributions to the Web Stack of Love, and of course your blog. They help to make work fun.<br></p>

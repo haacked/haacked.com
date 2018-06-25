@@ -1,0 +1,5 @@
+id: dsq-747536012
+date: 2011-08-18T15:20:14.0000000-07:00
+name: ashic
+avatar: https://disqus.com/api/users/avatars/ashic.jpg
+message: '<p>Nice idea (albeit not entirely new) but I have one issue. The $mvc is doing too much: controlling urls AND request/response AND forcing jQuery... besides, there may be other uses of the urls other than server requests. You couyld, for example, need to display "details" urls in a list / grid. I think it would be more useful if the $mvc thing just returned the url strings rather than taking over the invoking of the request. (Keeping along the lines of resource discovery and all that.)<br>Might even be an idea to have a single routes script where $mvc would be initialized to all urls in the application (for all controllers and actions). A single cached larger js is better than having to load multiple small ones.</p>'

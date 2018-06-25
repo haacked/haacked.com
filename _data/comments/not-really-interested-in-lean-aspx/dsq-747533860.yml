@@ -1,0 +1,5 @@
+id: dsq-747533860
+date: 2010-12-20T21:46:44.0000000-08:00
+name: Keith Kmett
+avatar: https://disqus.com/api/users/avatars/Keith Kmett.jpg
+message: <p>So what I'm reading in this article is this:<br>TDD (Unit Tests) ≠ QA<br>The team I work on has known this for years. It doesn't matter how many green lights your unit tests have, it doesn't account for people. Our team has decided to focus less on unit tests and more on QA and usability test (yes, the developers do all this) - which has raised our quality level to a very high standard. <br>I was once told, "You need to lower your quality standard for other developers." My response was, "Lowering my standards would mean that I can get any trained chimp to code. I want our entire team to be stronger and smarter than that!"</p>

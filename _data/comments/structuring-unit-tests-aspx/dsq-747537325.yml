@@ -1,0 +1,5 @@
+id: dsq-747537325
+date: 2012-01-03T13:39:46.0000000-08:00
+name: Craig
+avatar: https://disqus.com/api/users/avatars/Craig.jpg
+message: <p>We use the same naming convention that Russ Painter mentions. It makes the tests easy to find and lets us know immediately what method is being tested just by looking at the name. I'm not knocking the idea mentioned in this post, but I honestly don't see that it buys me a lot over a good naming convention.</p>

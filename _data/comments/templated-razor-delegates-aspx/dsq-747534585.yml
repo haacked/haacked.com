@@ -1,0 +1,5 @@
+id: dsq-747534585
+date: 2012-01-19T20:02:25.0000000-08:00
+name: Martin
+avatar: https://disqus.com/api/users/avatars/Martin.jpg
+message: <p>FYI, it took me a while to figure out that HelperResult belongs to namespace <code>System.Web.WebPages</code>.  HTH someone!</p>

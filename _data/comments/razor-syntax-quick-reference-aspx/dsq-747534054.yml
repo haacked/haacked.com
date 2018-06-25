@@ -1,0 +1,5 @@
+id: dsq-747534054
+date: 2011-01-06T13:18:58.0000000-08:00
+name: Jonas Eriksson
+avatar: https://disqus.com/api/users/avatars/Jonas Eriksson.jpg
+message: '<p>I find the @functions and @helper very useful<br><code><br>@functions<br>{<br>  string SayWithFunction(string message)<br>  {<br>    return message;<br>  }<br>}<br>@helper SayWithHelper(string message)<br>{<br>    <p>Text: @message</p><br>}<br>@SayWithFunction("Hello, world!")<br>@SayWithHelper("Hello, world!")</code></p>'

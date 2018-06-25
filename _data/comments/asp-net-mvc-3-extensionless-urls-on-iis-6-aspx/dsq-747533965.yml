@@ -1,0 +1,5 @@
+id: dsq-747533965
+date: 2011-08-11T04:09:41.0000000-07:00
+name: Vanadiumtech
+avatar: https://disqus.com/api/users/avatars/Vanadiumtech.jpg
+message: <p>I ran into a similar issue with v4.0 ASP.Net extension less URL feature on II6 and found a solution through ISAPI Rewrite Module provider, the does not require turning it off.  Theissue and the solution as we experienced it is documented here <a href="http://www.vanadiumtech.com/OurBlog/post/2011/08/12/Cause-of-eurlaxd.aspx" rel="nofollow noopener" title="http://www.vanadiumtech.com/OurBlog/post/2011/08/12/Cause-of-eurlaxd.aspx">www.vanadiumtech.com/.../Cause-of-eurlaxd.aspx</a></p>

@@ -1,0 +1,5 @@
+id: dsq-747507923
+date: 2011-12-20T16:19:15.0000000-08:00
+name: Martin V
+avatar: https://disqus.com/api/users/avatars/Martin V.jpg
+message: "<p>Hi,<br>I'm not so deep into SQL, so I might have missed something here. But shouldn't @FirstName<br>in the line: <br>SELECT @FirstName = FirstName + ',' + @FirstName<br>actually be @FirstNames? (i.e. the thing that was declared at the beginning as: DECLARE @FirstNames VARCHAR(8000))<br>Thanks for clarifying.</p>"

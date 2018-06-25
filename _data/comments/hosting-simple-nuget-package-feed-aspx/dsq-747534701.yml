@@ -1,0 +1,5 @@
+id: dsq-747534701
+date: 2011-03-31T03:50:04.0000000-07:00
+name: Troy
+avatar: https://disqus.com/api/users/avatars/Troy.jpg
+message: <p>I can get it running fine on my machine...but when i publish to a fresh Win 2008/IIS 7.5 box the feed url returns a 404 Not Found.  I've got .net 4.0/mvc 3.0 installed on the machine.  Is there a config step i likely missed that NuGet needs?</p>

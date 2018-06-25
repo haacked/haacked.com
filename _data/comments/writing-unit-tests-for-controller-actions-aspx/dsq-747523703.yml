@@ -1,0 +1,5 @@
+id: dsq-747523703
+date: 2007-12-14T16:34:00.0000000-08:00
+name: Byron
+avatar: https://disqus.com/api/users/avatars/Byron.jpg
+message: <p>Hi Phil,<br>Im having difficulty testing the controllers actions by mocking everything.<br>The ControllerContext class has no interface so I can't mock it. Id like to expect a call to ViewContext.GetControllerContext, but ViewContext, ControllerContext or RequestContext dont have interfaces.<br>Am I doing something wrong or should I request you guys t put interfaces on these classes?</p>

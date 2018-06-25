@@ -1,0 +1,5 @@
+id: dsq-2544300459
+date: 2016-02-29T14:52:30.0000000-08:00
+name: Eric Falsken
+avatar: https://disqus.com/api/users/avatars/EricFalsken.jpg
+message: <p>As mentioned below, the real solution is to not rely on `[a-zA-Z]` but to use character classes that encompass entire ranges of unicode character sets. `\w` is a much more reliable test since it matches any valid word character in any language. Even in Perl, you should turn on Unicode rules, but even without it, you can use `\p{Word}`.</p>

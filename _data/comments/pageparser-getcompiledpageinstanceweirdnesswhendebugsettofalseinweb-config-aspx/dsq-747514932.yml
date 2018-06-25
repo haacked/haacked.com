@@ -1,0 +1,5 @@
+id: dsq-747514932
+date: 2007-08-07T05:55:16.0000000-07:00
+name: Innocent Bystander
+avatar: https://disqus.com/api/users/avatars/Innocent Bystander.jpg
+message: <p>Aren't your virtualPath and inputFile supposed to point to the SAME file? Both should either end in default.aspx or DTP.aspx. <br>I'm not sure why you are passing conflicting information to the method.<br>Example:<br>virtualPath = "http://localhost/Subtext.Web/Default.aspx" <br>inputFile = context.Server.MapPath(virtualPath);<br>context.RewritePath(virtualPath, String.Empty, String.Empty);<br>return PageParser.GetCompiledPageInstance(virtualPath, inputFile, context);</p>

@@ -1,0 +1,5 @@
+id: dsq-747526642
+date: 2012-07-04T10:36:50.0000000-07:00
+name: Kuke
+avatar: https://disqus.com/api/users/avatars/Kuke.jpg
+message: <p>Many thanks for this post Phil!<br>I am working with MVC3 and I've managed to bind complex models with your HiddenInputForModel although with some hacks of mine.<br>So far I've bound say a Contract with a generic list property of ContractActions using as indexer Utc ticks.<br>However I now stumbled on binding a level 2 complexity of type:<br>Contract.ContractActions[222].ContractActionZones[4444],<br>Contract.ContractActions[222].ContractActionZones[8383],<br>Contract.ContractActions[222].ContractActionZones[6663]<br> etc.<br>When I set the indexers of ContractActionZones to 0, 1 etc they seem to bind properly to the controller and the ContractAction but not with the utc ticks (that are binding correctly so far the ContractActions).<br>Has anyone of you managed to bind complex model within complex model? Am I missing something obvious?<br>Thanks a lot!</p>

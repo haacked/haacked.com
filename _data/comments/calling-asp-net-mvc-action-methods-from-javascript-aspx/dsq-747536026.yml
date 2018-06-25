@@ -1,0 +1,5 @@
+id: dsq-747536026
+date: 2011-08-19T04:17:46.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Dmytrii maybe it wasn't clear in the post, but part of the problem I solve can't be solved by a client framework alone. What I've done doesn't reinvent spine, nor backbone (I'm not familiar with the other library you mentioned). It complements it.<br>@Elijah Thanks!</p>

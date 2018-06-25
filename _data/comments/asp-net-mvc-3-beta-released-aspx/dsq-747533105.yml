@@ -1,0 +1,5 @@
+id: dsq-747533105
+date: 2010-10-06T03:50:22.0000000-07:00
+name: Sean Paul
+avatar: https://disqus.com/api/users/avatars/Sean Paul.jpg
+message: <p>Weird issue I found today when playing with the newest release.  If I'm using the Authorize attribute on a Action when it goes to redirect to the Login action it is always redirecting to Account\Login and not reading the Forms authentication setup in the web.config.  For instance with just a default project created from the new MVC3 Template add the authorize attribute to the Index method and run the site.  It will throw a 404 page not found error saying it can't find the Account/Login page where it should be going to the Account/LogOn page.</p>

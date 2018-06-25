@@ -1,0 +1,5 @@
+id: dsq-747525797
+date: 2008-07-18T05:00:04.0000000-07:00
+name: Andrew
+avatar: https://disqus.com/api/users/avatars/Andrew.jpg
+message: <p>I can not comprehend the decision regarding Component Controller, the team took something that was working reasonably well and completely bodged it up so much so its now considered bad usage (and awkward to use) and wont be in RTM.<br>I have been using them successfully and am now stuck at needing output caching and having to re-engineer these components to use this broken method.</p>

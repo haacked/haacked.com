@@ -1,0 +1,5 @@
+id: dsq-747511871
+date: 2005-05-30T19:10:00.0000000-07:00
+name: AC
+avatar: https://disqus.com/api/users/avatars/AC.jpg
+message: <p>I completely agree.  In fact, I think the best way I use design patters is by writing my application without consciously thinking about patters, but more about just making it work.  Then I focus on implementing patters in the refactoring stage.  This is just but one reason why I love Joshua Kerievsky's book "Refactoring to Patterns".</p>

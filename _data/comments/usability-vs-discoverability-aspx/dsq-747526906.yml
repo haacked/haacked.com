@@ -1,0 +1,5 @@
+id: dsq-747526906
+date: 2008-11-06T05:52:35.0000000-08:00
+name: Neil Mosafi
+avatar: https://disqus.com/api/users/avatars/Neil Mosafi.jpg
+message: <p>Firstly, why is constraints not a read only property?  Is there a semantic difference between constraints being null or an empty collection?<br>Secondly, I don't get why you can't use overloads - one which takes an IRouteConstraint and one which takes a string.  In the string version you can convert the string to an IRouteConstraint and call the other overload.<br></p>

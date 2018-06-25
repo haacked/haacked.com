@@ -1,0 +1,5 @@
+id: dsq-747529953
+date: 2009-09-03T03:32:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Rob <em>you</em> wouldn't, but you're discounting the full range of scenarios where people would. As many have mentioned in this comment thread, "Use the right tool for the right job". <br>Well a single application has many jobs. Within the same application, the right tool might be a static language for one thing, and a dynamic language for another.<br>Now I'm glad you're happy with firing up Rails, but what about me here building a client application where I need to do a small task where a dynamic language is the right tool for the job? You're saying I should just rewrite the whole app in a dynamic language? Firing up Rails is not a solution for everything my friend and it completely side-steps my question to you.<br>Are you saying none of these scenarios are valid because you haven't run into them?</p>

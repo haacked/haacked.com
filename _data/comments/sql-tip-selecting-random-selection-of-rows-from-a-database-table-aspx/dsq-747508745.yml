@@ -1,0 +1,5 @@
+id: dsq-747508745
+date: 2005-03-09T02:11:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Besides, if you were correct and the SQL engine always selected rows before ordering them, you'd never be able to select the last 10 rows in the database.<br><br><br><br>For example, suppose we have a table with a DateCreated column.  How would you get the last 10 created records?  Well the typical query is:<br><br><br><br>SELECT TOP 10 * FROM someTable ORDER BY DateCreated DESC<br><br><br><br>But that wouldn't work if the query engine selected the top 10 records ordered by the PK first.<br><br><br><br>Fortunately, SQL does the ordering first.  Thus this query will return the last 10 created records.</p>

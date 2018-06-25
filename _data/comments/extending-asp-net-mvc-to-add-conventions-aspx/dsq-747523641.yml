@@ -1,0 +1,5 @@
+id: dsq-747523641
+date: 2007-12-08T13:49:53.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hi Aaron, we've received this feedback from you and others. We're looking into it. It's too late to change for the CTP, but we'll evaluate it for the future releases.<br>I have to say though, since we don't ship with a DI framework (choose your own), using inheritance certainly is a lot easier. I don't have to know what your DI container is, I just post a subclass. Also, he DI approach is a lot more configuration.<br>This is not a ding against composition over inheritance nor a ding against your idea, only to say inheritance is a valid choice sometimes. :)</p>

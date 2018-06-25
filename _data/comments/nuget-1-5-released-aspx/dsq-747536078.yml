@@ -1,0 +1,5 @@
+id: dsq-747536078
+date: 2011-08-31T14:55:34.0000000-07:00
+name: Alexander Taran
+avatar: https://disqus.com/api/users/avatars/Alexander Taran.jpg
+message: '<p>more on proxy issue:<br>proxy = TMG<br>nuget 1.4 worked fine<br>after updating to 1.5 it started asking for a username/password<br>I tried different ways of specifying my proxy in IE connection settings with same outcome.<br>Installed TMG client which usually helps in this kind of situations.<br>result: "the service point manager does not support proxies with the https scheme"</p>'

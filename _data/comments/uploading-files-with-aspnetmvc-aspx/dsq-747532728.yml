@@ -1,0 +1,5 @@
+id: dsq-747532728
+date: 2011-06-12T19:00:48.0000000-07:00
+name: Ben
+avatar: https://disqus.com/api/users/avatars/Ben.jpg
+message: <p>I found this article through Google, and the question was asked but never answered in the comments, so I thought I would answer it.<br>To upload a file with other input fields you just need to provide the parameters for the Action.<br>[HttpPost]<br>public ActionResult Index(FormCollection form, HttpPostedFileBase file) {<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747527200
+date: 2008-11-26T04:59:08.0000000-08:00
+name: huey
+avatar: https://disqus.com/api/users/avatars/huey.jpg
+message: <p>Good to know the url problem when looking at the root request was a bug with Default.aspx.cs that is going to be fixed.  I have been using Url.Content everywhere instead which can get ugly.  For instance after the SP1 jquery patch I had two links to jquery -- one with url.content that didn't provide intellisense but would work when deployed, and another wrapped in a if(false) block just to provide intellisense.</p>

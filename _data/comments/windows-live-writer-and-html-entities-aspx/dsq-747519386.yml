@@ -1,0 +1,5 @@
+id: dsq-747519386
+date: 2007-03-24T00:09:44.0000000-07:00
+name: Damien Guard
+avatar: https://disqus.com/api/users/avatars/Damien Guard.jpg
+message: <p>Am I right in thinking you're expecting HTML entities/encoding to be stored in your database instead of the UTF8 characters?<br>If so, that seems fundamentally wrong to me - mixing up the current presentation markup with the real content.  What if you want to serve it up somewhere else in the future that doesn't use HTML/these entities?<br>[)amien</p>

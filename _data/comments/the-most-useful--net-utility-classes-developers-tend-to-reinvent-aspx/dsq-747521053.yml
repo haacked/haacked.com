@@ -1,0 +1,5 @@
+id: dsq-747521053
+date: 2007-06-13T14:38:09.0000000-07:00
+name: Mads Kristensen
+avatar: https://disqus.com/api/users/avatars/Mads Kristensen.jpg
+message: <p>Good one Phil. I use the VirtualPathUtility class all the time, but don't see it being used by many developers. The cool thing about it is that you can change virtual paths by using the provider model. That means you can change all paths to exist in a database without your code knows about it.</p>

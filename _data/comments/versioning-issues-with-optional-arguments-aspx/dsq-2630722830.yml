@@ -1,0 +1,5 @@
+id: dsq-2630722830
+date: 2016-04-18T16:55:00.0000000-07:00
+name: Xiaoguo Ge
+avatar: https://disqus.com/api/users/avatars/xiaoguoge.jpg
+message: <p>Why is recompiling after changing a function signature is an issue. Shouldn't it be expected. If recompiling is always required, then I see no problem with optional function arguments.</p>

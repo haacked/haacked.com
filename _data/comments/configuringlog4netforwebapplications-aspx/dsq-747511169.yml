@@ -1,0 +1,5 @@
+id: dsq-747511169
+date: 2007-12-02T10:50:01.0000000-08:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>Make sure that you add the assemblyinfo.cs reference to every project you are emitting debug output from. If you don't you will only get the debug info from the dlls that have this compiled in.</p>

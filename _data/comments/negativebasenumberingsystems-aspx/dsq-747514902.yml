@@ -1,0 +1,5 @@
+id: dsq-747514902
+date: 2007-06-20T15:16:29.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>In case you're wondering, the algorithm described leaves out this important note: <br>Note that if a / b = c, remainder d, then bc + d = a. For example, to expand 2<br> 2 / -2 = -1 remainder 0<br>-1 / -2 = 1 remainder 1<br> 1 / -2 = 0 remainder 1<br>Thus 2 = 110 in negabinary.</p>"

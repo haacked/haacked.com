@@ -1,0 +1,5 @@
+id: dsq-747529453
+date: 2009-06-26T23:50:00.0000000-07:00
+name: JC Grubbs
+avatar: https://disqus.com/api/users/avatars/JC Grubbs.jpg
+message: <p>One quick change to ASP.NET MVC and you can prevent IEnumerable from being passed in to JsonResult.  I just throw an exception with a warning that array's should not be the top level container for JSON packages.  Seems to work pretty well as far as constraining developers and it doesn't require changes to JSON itself.  Personally I think this is the best kind of approach.  We don't need to change the specification just make it harder to misuse.</p>

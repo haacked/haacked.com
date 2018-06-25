@@ -1,0 +1,5 @@
+id: dsq-747530630
+date: 2009-12-30T04:25:24.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I'd argue your login form should post to a login action which <em>redirects<em> back to the original form, if your login is a normal form post. If it's an Ajax login, just return a login status view. In that case it doesn't matter where it's called from.<br>I think you may be over thinking this.</em></em></p>

@@ -1,0 +1,5 @@
+id: dsq-747509891
+date: 2007-04-22T12:18:26.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: '<p>The 302 status code is <a href="http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.3.3" rel="nofollow noopener" title="Http Status Codes: 302">explained here</a>.<br>To set the status code, use something like this:<br><code>Request.StatusCode = 302;</code></p>'

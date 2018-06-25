@@ -1,0 +1,5 @@
+id: dsq-747524107
+date: 2008-02-06T04:08:55.0000000-08:00
+name: Daniel
+avatar: https://disqus.com/api/users/avatars/Daniel.jpg
+message: <p>For me, it's testing database-related code.  I'm quite sure the pain is from something I just don't "get", but here's a scenario:<br>I create a LINQ-to-SQL model for Northwind, and some classes around the model.  To test properly I need to restore the db from a known-good state before each test, or else use a transaction-based approach that always rolls back the db after each test.  Either way, the tests get pretty long-running pretty quickly.  Also, I may need to test against large datasets to be sure my app works with 1000s of records.  But a database backup that large doesn't fit in source control well.</p>

@@ -1,0 +1,5 @@
+id: dsq-747519968
+date: 2008-01-17T22:57:35.0000000-08:00
+name: Kyle Robinson Young
+avatar: https://disqus.com/api/users/avatars/kylerobinsonyoung.jpg
+message: <p>Oh yeah for those stuck at the Ubuntu menu, you know "Start or install Ubuntu, Start Ubuntu in Safe Graphics Mode, etc" You hit enter but nothing happens?<br>Check the file size of the Ubuntu ISO file you downloaded. It should be around 700MB. If its not then you'll need to download Ubuntu again.<br>Strangely its a common problem where I've seen users struggling when the file fails to download completely but it will still run the Ubuntu startup menu.</p>

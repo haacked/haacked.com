@@ -1,0 +1,5 @@
+id: dsq-747516059
+date: 2006-08-06T07:47:32.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Ok, I removed the size=50 and now we are using the default size of 80x80. I need to fix the CSS now.</p>

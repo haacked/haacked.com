@@ -1,0 +1,5 @@
+id: dsq-747517803
+date: 2006-11-27T03:38:12.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>That's right.  It just seemed like <code>AddAttributesToRender</code> is the appropriate time to call that method.<br>Especially given that in most examples on the web, developers check the <code>RenderUplevel</code> boolean value first, and if false, render these attributes to the HTML instead of calling <code>RegisterExpandoAttribute</code>.  <br>I neglected doing that in my example for brevity.</p>

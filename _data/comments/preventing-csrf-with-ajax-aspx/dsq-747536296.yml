@@ -1,0 +1,5 @@
+id: dsq-747536296
+date: 2011-10-10T21:28:29.0000000-07:00
+name: Enrique Allegretta
+avatar: https://disqus.com/api/users/avatars/Enrique Allegretta.jpg
+message: <p>Hi Phil, I think it would be better to create an attribute that support both scenarios, inside you should check if the request is ajax and do this new kind of black magic, otherwise you should leave it as it is.<br>Thx.</p>

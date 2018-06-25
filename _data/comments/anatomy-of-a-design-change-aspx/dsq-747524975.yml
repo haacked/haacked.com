@@ -1,0 +1,5 @@
+id: dsq-747524975
+date: 2008-04-24T20:41:09.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Benny, you just described our current implemention. We now do have action methods return an ActionResult.</p>

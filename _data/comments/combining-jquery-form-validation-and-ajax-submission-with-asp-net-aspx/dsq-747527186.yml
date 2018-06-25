@@ -1,0 +1,5 @@
+id: dsq-747527186
+date: 2008-11-21T18:29:53.0000000-08:00
+name: Matt Hinze
+avatar: https://disqus.com/api/users/avatars/Matt Hinze.jpg
+message: <p>This doesn't really apply to most ajax scenarios.  Why not just go the normal, non-ajax way with this form?  You need validation (and server side) PLUS modals plus multiple forms and success and failure json wrappers to your response html.</p>

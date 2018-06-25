@@ -1,0 +1,5 @@
+id: dsq-747527258
+date: 2010-04-13T21:12:41.0000000-07:00
+name: Mark
+avatar: https://disqus.com/api/users/avatars/Mark.jpg
+message: '<p>With .NET 4, it is no longer required to add an isapi wildcard mapping to get extension-less urls working on IIS6.<br>For further info, read this post: <a href="http://blogs.msdn.com/tmarq/archive/2010/04/01/asp-net-4-0-enables-routing-of-extensionless-urls-without-impacting-static-requests.aspx" rel="nofollow noopener" title="http://blogs.msdn.com/tmarq/archive/2010/04/01/asp-net-4-0-enables-routing-of-extensionless-urls-without-impacting-static-requests.aspx">blogs.msdn.com/...</a><br>I had been testing an MVC2 app on Windows 2003 server when I suddenly realised I hadn’t set up the wildcard mapping, yet the extension-less url routing was working perfectly. After some testing, I found out that changing the .net framework back to v2 for the web application meant the routing failed.<br>After much searching to see if .NET 4 has a new feature, I came across the above link. This was feature I had not heard a whisper of, but which needs to be highlighted.</p>'

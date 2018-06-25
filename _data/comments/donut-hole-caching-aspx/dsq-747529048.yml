@@ -1,0 +1,5 @@
+id: dsq-747529048
+date: 2009-05-12T20:09:00.0000000-07:00
+name: Jim Geurts
+avatar: https://disqus.com/api/users/avatars/Jim Geurts.jpg
+message: <p>Phil, How are you passing the view data to the &lt;mvc:Partial runat="server" /&gt; control when there is no code behind for the view?</p>

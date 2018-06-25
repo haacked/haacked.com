@@ -1,0 +1,5 @@
+id: dsq-747523353
+date: 2007-11-13T23:52:58.0000000-08:00
+name: Jacques Philip
+avatar: https://disqus.com/api/users/avatars/Jacques Philip.jpg
+message: <p>Hello Phil<br>I have been working on a project trying to apply these principles and it seems that using the Entity Framework or Linq to Sql, it is hard to have a loose coupling between the UI and the data layer.<br>This would require the UI to talk only to interfaces so that the data layer's implementation can be changed easily.<br>The designers are very nice, but they don't generate these interfaces, so I had to extract them from the generated classes and make the partial class declarations inherit from these interfaces; this almost looks like a haack.<br>The interfaces then have to be kept in sync with the generated classes manually.<br>The good thing I realized in this process is that this way, I can overcome the limitation of the designers to put custom attributes on the entities properties (for validation for example), by applying these attributes to the interface's property declaration.<br>Or is there a better way to do this?</p>

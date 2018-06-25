@@ -1,0 +1,5 @@
+id: dsq-747516136
+date: 2006-08-09T03:08:48.0000000-07:00
+name: Kevin Dente
+avatar: https://disqus.com/api/users/avatars/Kevin Dente.jpg
+message: <p>True. I generally create my presenter in Page_Init, but of course that means you can't handle Init in the presenter without some sort of manual call. Guess I rarely do anything in Page_Init. :) <br>Page_PreInit should also work, but again  it may complicate handling of that event if you need it.</p>

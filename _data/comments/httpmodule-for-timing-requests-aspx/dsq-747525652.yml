@@ -1,0 +1,5 @@
+id: dsq-747525652
+date: 2008-07-02T04:49:39.0000000-07:00
+name: defeated
+avatar: https://disqus.com/api/users/avatars/defeated.jpg
+message: <p>This is probably a real noob question (I'm new to HttpModules), but why is the local "stopwatch" variable stored in the Items[] collection instead of a private member of the class?</p>

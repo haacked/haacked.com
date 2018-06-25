@@ -1,0 +1,5 @@
+id: dsq-747529437
+date: 2009-06-26T00:04:00.0000000-07:00
+name: Scott
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+message: <p>So, even if the array is wrapped and not executed, the attacker still has access to the text node of the script block that was successfully delivered contained all your secret balance information. At that point they can just either <br>1) strip the wrapping {} and access the array via eval<br>2) Just text parse out the info they want.<br>The big security hole here is the script tag. It violates the same-source rule and executes the script as soon as it's loaded.</p>

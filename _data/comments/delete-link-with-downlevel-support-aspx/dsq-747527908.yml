@@ -1,0 +1,5 @@
+id: dsq-747527908
+date: 2009-01-30T06:13:56.0000000-08:00
+name: Rick
+avatar: https://disqus.com/api/users/avatars/Rick.jpg
+message: <p>How about this for down-level (including non-css!)<br>JavaScript:<br><code><br>        $(function() {<br>            $("form.post-link").each(replaceButtonsInForm);<br>        });<br>        function replaceButtonsInForm() {<br>            var form = $(this);<br>            $(":submit", form).each(function() {<br>                var button = $(this);<br>                var text = button.val();<br>                var link = $("&lt;a href=\"#\"&gt;").text(text).click(function(ev) { ev.preventDefault(); form.submit(); });<br>                button.replaceWith(link);<br>                return link;<br>            });<br>        }       <br></code><br>HTML:<br><code><br>&lt;form method="post" action="delete.ashx" class="post-link"&gt;&lt;input type="submit" value="Delete" /&gt;&lt;/form&gt;<br></code></p>

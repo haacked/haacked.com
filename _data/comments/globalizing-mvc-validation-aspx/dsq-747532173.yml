@@ -1,0 +1,5 @@
+id: dsq-747532173
+date: 2010-05-24T11:44:30.0000000-07:00
+name: peelmicro
+avatar: https://disqus.com/api/users/avatars/peelmicro.jpg
+message: <p>Phil, <br>I live in Spain and I'm trying your example. I think it works properly in client side but it doesn't in server side. When I press the tab key I don't receive any error, but I receive "The value '1.000' is not valid for QuantityInStock." error when I press the Create Button.<br>How can I avoid this error?.<br>Thanks in advance.<br>Juan</p>

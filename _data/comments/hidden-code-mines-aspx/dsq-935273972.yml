@@ -1,0 +1,6 @@
+id: dsq-935273972
+replyToId: dsq-934455256
+date: 2013-06-19T05:19:15.0000000-07:00
+name: Timothy Boyce
+avatar: https://disqus.com/api/users/avatars/timothyboyce.jpg
+message: <p>That's what I'm thinking too. If there are duplicate keys and you think you need a Dictionary, then you probably don't really understand the data. If the data is correct, then your code is probably wrong. Just switching to using a Lookup probably isn't going to make it right.</p>

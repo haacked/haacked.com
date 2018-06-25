@@ -1,0 +1,5 @@
+id: dsq-747528769
+date: 2010-12-09T02:11:22.0000000-08:00
+name: pablo
+avatar: https://disqus.com/api/users/avatars/pablo.jpg
+message: <p>I am trying to implement this grid in the MVC2 MusicStore Tutorial, in the albums administration page, but cannot. <br>I tryed doing something like this:<br><code><br>var albumList = storeDB.Albums.Include("Genre").Include("Artist");<br>              //.OrderBy(sidx + " " + sord)<br>              //.Skip(pageIndex * pageSize)<br>              //.Take(pageSize);<br><br>            var jsonData = new<br>            {<br>                total = totalPages,<br>                page = page,<br>                records = totalRecords,<br>                rows = (<br>                  from album in albumList<br>                  select new<br>                  {<br>                      i = album.Title,<br>                      cell = new string[] {<br>                      album.Title, album.Artist.Name, album.Genre.Name<br>                    }<br>                  }).ToArray()<br>            };<br>            return Json(jsonData);<br></code><br>But throw exceptions. How should be done. Thanks a lot in advance.</p>

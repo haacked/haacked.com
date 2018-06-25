@@ -1,0 +1,5 @@
+id: dsq-747529824
+date: 2009-08-26T21:08:00.0000000-07:00
+name: Mohammad Azam
+avatar: https://disqus.com/api/users/avatars/Mohammad Azam.jpg
+message: <p>Hi,<br>Dynamic keyword is a great addition in the .NET 4.0 but I think using it in this way makes is hard to be discoverable. I have used dynamic keyword in the scenarios where IronRuby is returning a ruby object from the DLR and .NET is catching that object using the dynamic keyword. <br><a href="http://www.highoncoding.com/Articles/573_First_Look_at_the_IronRuby.aspx" rel="nofollow noopener" title="http://www.highoncoding.com/Articles/573_First_Look_at_the_IronRuby.aspx">www.highoncoding.com/.../...k_at_the_IronRuby.aspx</a><br>Thanks,<br>Azam</p>

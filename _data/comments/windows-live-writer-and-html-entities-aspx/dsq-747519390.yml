@@ -1,0 +1,5 @@
+id: dsq-747519390
+date: 2010-01-01T16:59:59.0000000-08:00
+name: shailesh
+avatar: https://disqus.com/api/users/avatars/shailesh.jpg
+message: <p>Hi,<br>Its actually one picture upload plugin but when GeneratePublishHtml method return, it add default &lt;div&gt;tag in between my generated html tag which i dont want and due to that it is not going to call  MediaObjectInfo IMetaWeblog.NewMediaObject(...) from metaweblog api so that picture is not going to be save on my server....<br>I have the same problem as described in this link which i got yesterday when i was finding a solution for above problem..<br><a href="http://social.msdn.microsoft.com/Forums/en/wlwdev/thread/f555955a-b96d-4e13-a078-f12df240393d" rel="nofollow noopener" title="http://social.msdn.microsoft.com/Forums/en/wlwdev/thread/f555955a-b96d-4e13-a078-f12df240393d">social.msdn.microsoft.com/...</a><br>Please reply me if you have little bit idea or solution of this problem . since a so many days I am finding the solution of this problem....<br>Thanks in Advance</p>

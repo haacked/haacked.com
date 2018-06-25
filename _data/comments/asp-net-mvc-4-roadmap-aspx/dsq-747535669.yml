@@ -1,0 +1,5 @@
+id: dsq-747535669
+date: 2011-07-31T06:01:36.0000000-07:00
+name: Hendry Luk
+avatar: https://disqus.com/api/users/avatars/Hendry Luk.jpg
+message: <p>Phil, I often find that the framework generally would not recognize attributes defined in interfaces. I always have to reimplement my own metadata-provider, validation-provider, model-binder, etc, just to make them take interface's attributes into account.<br>Is this a concious decission?</p>

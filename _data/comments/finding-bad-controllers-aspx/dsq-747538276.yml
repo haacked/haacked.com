@@ -1,0 +1,5 @@
+id: dsq-747538276
+date: 2012-08-20T15:27:31.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hi Terry, I was unable to repro the issue you described. Perhaps you meant when you have two controllers with the same name but different namespaces?</p>

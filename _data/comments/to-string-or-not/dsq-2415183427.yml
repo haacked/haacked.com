@@ -1,0 +1,6 @@
+id: dsq-2415183427
+replyToId: dsq-2414926062
+date: 2015-12-17T18:04:49.0000000-08:00
+name: Chris Nielsen
+avatar: https://disqus.com/api/users/avatars/disqus_4eACU6Y9FI.jpg
+message: <p>No, it isn't that simple. We don't lose any moral right, we are simply using something to back us up if we want a particular point codified into our personal (team's) coding standard. Because chances are, the points in that particular standard that we don't agree with or don't want to implement, we can find a different standard that puts it in the form we do prefer.</p><p>The important point being that you have a coding standard for your team, and you try to use conventions that are common, if not prolific, across the industry (rather than picking one particular standard and considering that one, and none other, "holy writ", even if there are parts you don't like).</p><p>Plus you missed where I said there *is* a common baseline that pretty much everybody can agree upon. C# coding styles have some very prolific tenets that pretty much every team follows (e.g. Pascal-cased methods, vs Java/Javascript's camel-casing).</p>

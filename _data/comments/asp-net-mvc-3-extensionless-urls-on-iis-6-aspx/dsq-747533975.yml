@@ -1,0 +1,5 @@
+id: dsq-747533975
+date: 2012-06-26T08:03:00.0000000-07:00
+name: James Barrow
+avatar: https://disqus.com/api/users/avatars/James Barrow.jpg
+message: <p>Just for info, I had the same issue but under slightly different circumstances. It was a web forms app that used the minification/optimisation bundles. Trying to hit a url like <a href="http://www.site.com/virtualdirectory/Scripts/js" rel="nofollow noopener" title="www.site.com/virtualdirectory/Scripts/js">www.site.com/virtualdirectory/Scripts/js</a> was bringing back nothing.<br>Unfortunately everything was set up as above but it didn't work for virtual directory so the only solution was a wildcard mapping which did the trick.</p>

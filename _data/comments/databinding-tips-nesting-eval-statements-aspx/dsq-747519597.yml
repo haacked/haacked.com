@@ -1,0 +1,5 @@
+id: dsq-747519597
+date: 2007-04-15T23:53:10.0000000-07:00
+name: David Crowell
+avatar: https://disqus.com/api/users/avatars/David Crowell.jpg
+message: <p>I rarely use databinding, so I was unaware that null would work that way in a bound control.  I like it.  I too have been resorting to helper methods in the page class.<br>Thanks for the tip.</p>

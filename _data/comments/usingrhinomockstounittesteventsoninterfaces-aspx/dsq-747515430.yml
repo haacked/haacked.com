@@ -1,0 +1,5 @@
+id: dsq-747515430
+date: 2006-07-06T19:41:00.0000000-07:00
+name: Chris Hedgate
+avatar: https://disqus.com/api/users/avatars/Chris Hedgate.jpg
+message: <p>I think it's because Fowler uses events in the C# example from the MVP page of eaaDev. It's true that it decouples the view from the presenter, but I am not sure it is worth it vs readability and ease of writing tests. We are experimenting as well so it is interesting to see where you end up.</p>

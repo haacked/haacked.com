@@ -1,0 +1,5 @@
+id: dsq-747532345
+date: 2010-05-25T15:22:50.0000000-07:00
+name: Jonas Folles&#248;
+avatar: https://disqus.com/api/users/avatars/Jonas Folles&#248;.jpg
+message: <p>Isn't the idea of autonomous pieces of software communicating with messages, where each piece can be upgraded independently, the failed promise of SOA architectures? I.e. as long as you comply to the contract (messages) you should be fine when upgrading to a new version?<br>I deff. get your point, but it's really hard to envision a technology or framework to solve this. I tend to think about it as the move from "CRUD applications" to "smart applications". Today we built so much software that is mere forms over database tables - and it's almost like we're not even trying to improve and try to build smarter software capable of learning and making more and more decisions on its own. Have the AI research had any impact on day-to-day software projects (I know the Xbox Natal project uses machine learning to teach Natal about movement), but for "business apps"...?<br>Anyway, interesting food for thought. :)</p>

@@ -1,0 +1,5 @@
+id: dsq-747512789
+date: 2005-08-05T03:54:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Oh I agree.  But looking at things historically, we DO build systems with a lot less work.  Think about how much code it used to take to build a windowing app back in the DOS days and how easy it is to do it now.<br><br><br><br>Everytime we have a gain in productivity, we have a corresponding gain in demand for our systems to do more.  However, from reading a Mythical Man Month, I agree with Fred Brooks that there will never be a silver bullet that gives huge orders of magnitude increases in productivity.  It will be a slow hard climb.<br><br><br><br>We will continue to make developing software easier, but we'll just end up building more interesting and complex systems as a result.<br><br><br><br>Building software is pretty easy even today. It's maintaining and changing software that's hard.  Or building software so that it's easy to change.  That's where I think Mort fails us often.</p>

@@ -1,0 +1,5 @@
+id: dsq-747512569
+date: 2008-11-10T19:37:24.0000000-08:00
+name: valer
+avatar: https://disqus.com/api/users/avatars/valer.jpg
+message: '<p>How to display default value for datetime value (lets say i wnat to display current date : getdate()). It always display getdate(), without calculte the current date. Tnx.</p>'

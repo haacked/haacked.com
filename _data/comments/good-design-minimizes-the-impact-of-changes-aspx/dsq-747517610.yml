@@ -1,0 +1,5 @@
+id: dsq-747517610
+date: 2006-11-13T05:07:24.0000000-08:00
+name: Damien Guard
+avatar: https://disqus.com/api/users/avatars/Damien Guard.jpg
+message: <p>I think Subtext is a particularly good example of this problem.<br>If you added an extra field for a blog post to the database and you didn't need anything but view support  you would need to modify countless stored procedures and a whole bunch of cs files.<br>Just follow the flow of logic to see how many layers it goes through.<br>[)amien</p>

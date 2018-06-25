@@ -1,0 +1,5 @@
+id: dsq-747533526
+date: 2010-11-13T16:53:32.0000000-08:00
+name: Andrey
+avatar: https://disqus.com/api/users/avatars/Andrey.jpg
+message: <p>Hi,<br>I think syntax hilite/intellisense is great Razor, but some work needs to be done on speeding it up. I have a file with just 800 lines of declarative @helpers, and you can feel already this is a very heavy job for the real-time parser/hiliter. The delay between the keystrokes can reach 2 seconds.</p>

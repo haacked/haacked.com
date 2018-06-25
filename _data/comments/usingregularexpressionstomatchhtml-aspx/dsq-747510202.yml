@@ -1,0 +1,5 @@
+id: dsq-747510202
+date: 2007-04-24T00:53:11.0000000-07:00
+name: Conrad de Wet
+avatar: https://disqus.com/api/users/avatars/Conrad de Wet.jpg
+message: '<p>Hi,<br>Been searching around to find Javascript that will convert &lt;TAG attrib=xyz&gt; into &lt;TAG attrib="xyz"&gt;<br>I would imagine this code you have developed is close im just not sure how to use it. <br>Reason: Using a CMS for editing and creating HTML with the output as XML to flash. The textField.htmlText does not support unquoted attributes.<br>Any assistance appreciated.<br>Thanks</p>'

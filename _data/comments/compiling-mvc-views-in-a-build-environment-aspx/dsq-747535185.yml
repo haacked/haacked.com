@@ -1,0 +1,5 @@
+id: dsq-747535185
+date: 2011-05-10T12:54:30.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Aaron not that I know of.<br>@Michael what problems are you having using Team City/NAnt with MVC? I have automated builds with MVC projects just fine.<br>@Eric not using the <code>MvcBuildViews</code> feature. You could use <a href="http://msdn.microsoft.com/en-us/library/ms229863(v=vs.80).aspx" rel="nofollow noopener" title="http://msdn.microsoft.com/en-us/library/ms229863(v=vs.80).aspx">AspNet_Compiler.exe</a> directly to do that.</p>

@@ -1,0 +1,5 @@
+id: dsq-747529256
+date: 2009-06-09T16:31:00.0000000-07:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: '<p>I have a request for the roadmap: infrastructure for client side validation. A way to map data annotations to javascript that should be included dynamically in the page, but with the freedom to use any mapper.</p>'

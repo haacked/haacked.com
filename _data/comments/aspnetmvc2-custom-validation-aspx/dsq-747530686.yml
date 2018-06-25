@@ -1,0 +1,5 @@
+id: dsq-747530686
+date: 2009-11-20T04:45:00.0000000-08:00
+name: Alastair Smith
+avatar: https://disqus.com/api/users/avatars/Alastair Smith.jpg
+message: <p>This is quite a good idea - I like the concept of decorating my data with the validation rules - but it causes problems with unit testing.  Using this validation approach, I cannot easily test the code paths in my controller actions that deal with invalid data, because when the methods are called directly (not via the MVC framework), the ModelState.IsValid property is always true.  <br>Is there a recommended workaround for this, or have I missed something?</p>

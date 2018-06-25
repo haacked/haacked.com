@@ -1,0 +1,5 @@
+id: dsq-747517044
+date: 2006-10-01T11:59:16.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>&gt; My only option for the single VS 2003 web site I have to support is a re-write.<br>&gt; but I don't like being told that I have to use one due to product deficiencies.<br>Agreed, but nobody is <strong>forcing</strong> you to upgrade to Vista, so you don't <em>have</em> to rewrite that site and you don't <em>have</em> to use a VPC.  You <em>could</em> stick with WinXP.<br>For server developers, consider that your software will be running on Windows 2000 or 2003 for a good while until Longhorn Server is released and adopted.<br>But I understand that developers in particular feel the <strong>need</strong> to upgrade in order to feel they are keeping up with the latest thing, so none of this is satisfying.</p>

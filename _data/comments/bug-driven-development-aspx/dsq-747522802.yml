@@ -1,0 +1,5 @@
+id: dsq-747522802
+date: 2007-09-23T23:32:24.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@she Well the competition would have to last at least two years. Maintenance typically consumes 40 to 80 percent of software costs. <br>Assuming a software system lifecycle of two years here's a reasonable competition that would mimic real life.<br>1. Two teams are divided into two groups each. Group 1 has 3 months to build an app. Group 2 doesn't get to watch.<br>2. Teams get requirements from a person acting as a "client".<br>3. Every week, the client throws in a requirements change.<br>4. At the end of the project, Group 1 leaves and Group 2 comes in without any prior knowledge.<br>5. Now for the next year and nine months, group 2 must maintain the app.<br>6. Every week, the client will report changes to the app that the groups must make.<br>7. All the while, the groups must fix any bugs reported by the QA team.<br>I think this would be a relatively fair competition to determine the efficacy of TDD vs BuDD.</p>

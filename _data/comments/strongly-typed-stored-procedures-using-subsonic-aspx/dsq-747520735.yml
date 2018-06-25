@@ -1,0 +1,5 @@
+id: dsq-747520735
+date: 2007-05-29T21:39:57.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <blockquote>but I think that you're giving Stored Procedures a bad name.</blockquote><p><br>Perish the thought! I love stored procedures. Don't get me wrong. For probably 99% of projects out there, they get the job done.<br>I just happen to be on two projects (home and work) that require cross database support. An unusual requirement for most developers. Stored Procedures just aren't as portable as a dynamic query engine.<br>However, if you're using Subsonic, you get so much more out of it if you put SPs aside and immerse yourself in its code generation and Active Record. That's all I'm saying. :)</p>

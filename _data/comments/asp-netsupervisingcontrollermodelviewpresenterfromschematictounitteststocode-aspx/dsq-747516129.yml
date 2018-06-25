@@ -1,0 +1,5 @@
+id: dsq-747516129
+date: 2006-08-08T22:17:17.0000000-07:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>THanks for your article. One observation...don't you seem to be tying the presenter to the ASP.NET event model? If not, can you use the same presenter for a WinForms app? I know that this requirement may not be a big deal since often only one UI type is the requirement but I know I want to try to use the same presenters for my WinForms as my Web Forms. What are your thoughts on this. <br>Thanks for the tip on RhinoMocks handling events, too!<br>MIKE</p>

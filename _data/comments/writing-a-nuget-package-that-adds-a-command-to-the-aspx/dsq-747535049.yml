@@ -1,0 +1,5 @@
+id: dsq-747535049
+date: 2011-04-20T13:07:14.0000000-07:00
+name: tugberk
+avatar: https://disqus.com/api/users/avatars/tugberk.jpg
+message: <p>hmm, here is another <strong>strange</strong> thing;<br>fiddler cannot catch anything going on at the PMC. here is the screenshot of PMC and Fiddler after I installed Elmah;<br><a href="http://www.flickr.com/photos/tugberk/5640060796/in/photostream" rel="nofollow noopener" title="http://www.flickr.com/photos/tugberk/5640060796/in/photostream">www.flickr.com/.../photostream</a><br>butt, now I realized that fiddler is only processing Web Browser requests and responses. here is the screenshot of the fiddler and PMC when I installed Elmah;<br><a href="http://www.flickr.com/photos/tugberk/5640068760/in/photostream" rel="nofollow noopener" title="http://www.flickr.com/photos/tugberk/5640068760/in/photostream">www.flickr.com/.../photostream</a><br>but the sad thing is it doesn't change the first image that I uploaded. it still says there is nothing going on on the wire when I hit tab :S</p>

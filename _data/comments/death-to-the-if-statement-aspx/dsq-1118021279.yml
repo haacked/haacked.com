@@ -1,0 +1,6 @@
+id: dsq-1118021279
+replyToId: dsq-1114800153
+date: 2013-11-11T05:57:41.0000000-08:00
+name: Alex Burke
+avatar: https://disqus.com/api/users/avatars/alex_burke.jpg
+message: <p>You cant optimise though. If you are using functions that are essentially 'black boxes' you have no idea what they are doing, so yes you can maintain your code easier but you are trusting that the person who wrote the original function wrote it a) properly or b) with your algorithm in mind (trade off mem vs proc vs storage vs accuracy of implementation). I mistrust libraries for this very reason and if implementing exceptionally heavy lifting algos will write from scratch - down at asm level the IF is a comparisor + branching instruction anyhow so you cant get away from them IMHO. Why would you want to? My passion is solving programmatical problems with the best fit solution not play with Lego and write two lines of cludge that if the implementation of the relied on function changes, or platform dependant bugs, I end up having to write it myself anyway. If its easy its cos you're doing it wrong.</p>

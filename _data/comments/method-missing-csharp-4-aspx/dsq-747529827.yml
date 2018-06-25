@@ -1,0 +1,5 @@
+id: dsq-747529827
+date: 2009-08-26T23:07:00.0000000-07:00
+name: Steve G
+avatar: https://disqus.com/api/users/avatars/Steve G.jpg
+message: '<p>Q for Phil: Is there some way to combine Generics with this technique to help with compile time type checking?<br>Something like (to my feeble mind):<br>  public override bool TrySetMember(SetMemberBinder binder, &lt;T&gt;value)<br>and <br>  public override bool TryGetMember(GetMemberBinder binder,<br>      out &lt;T&gt;result)<br></p>'

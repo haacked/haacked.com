@@ -1,0 +1,5 @@
+id: dsq-761413678
+date: 2013-01-09T09:19:40.0000000-08:00
+name: Alejjak Darkok
+avatar: https://disqus.com/api/users/avatars/google-96402b618bf16cafb56a9c28743cbb41.jpg
+message: <p>i remember these null checks beign called "Precondition assertions" which were typically done in C/C++ , i think the problem is not due to "nulls" but to the fact that programmers arent friends of asserting a functions' precondition. Take an integer parameter for example, we still have the same "null" problem if we assume all input will be positive integers, or whether the default values like 0 are correct. It should be a good programming standard to ALWAYS check for parameter preconditions and save a lot of headaches in the future (such as DateTime types with SQL ranges being different)</p>

@@ -1,0 +1,5 @@
+id: dsq-747519114
+date: 2011-09-16T00:29:16.0000000-07:00
+name: Orry Rotem
+avatar: https://disqus.com/api/users/avatars/Orry Rotem.jpg
+message: '<p>Ahhhh, exactly what i was looking for. Thanks Phil. <br>Note: for dlls you can change the "config section getter" code from this:  <br>private static BlogSettings settings <br>    = ConfigurationManager.GetSection("BlogSettings") as BlogSettings;<br>.. to this:<br>private static BlogSettings settings <br>    = ConfigurationManager.OpenMappedExeConfiguration(New ExeConfigurationFileMap(Assembly.GetExecutingAssembly.Location &amp; ".config"), ConfigurationUserLevel.None).GetSection("BlogSettings") as BlogSettings;<br><br><br></p>'

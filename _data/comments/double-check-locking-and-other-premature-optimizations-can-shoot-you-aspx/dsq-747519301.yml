@@ -1,0 +1,5 @@
+id: dsq-747519301
+date: 2007-03-19T15:32:33.0000000-07:00
+name: Julian Birch
+avatar: https://disqus.com/api/users/avatars/Julian Birch.jpg
+message: <p>Global state/variables have their place.  However, the thing that I find most disturbing is that very few implementations have any facilities for reloading the state if, for instance, the underlying database has changed.  Fewer still have any support for ensuring that running threads do not end up accessing inconsistent versions during a reset.<br>I blame the Gang of Four, personally.  The Singleton pattern doesn't deserve to live.</p>

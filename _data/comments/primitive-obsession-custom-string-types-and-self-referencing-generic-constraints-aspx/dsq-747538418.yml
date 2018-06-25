@@ -1,0 +1,5 @@
+id: dsq-747538418
+date: 2012-10-01T02:03:57.0000000-07:00
+name: Diego F.
+avatar: https://disqus.com/api/users/avatars/Diego F..jpg
+message: <p>@Cam I was wrong! It does still leak -- WPF keeps rearing its ugly head. Just got a beautiful picture of this leak. Interestingly enough, I don't have any single situation like this in my codebase -- every property is a DP and POCO objects don't ever happen to be in this situation. <a href="http://yfrog.com/kgxpetp" rel="nofollow noopener" title="http://yfrog.com/kgxpetp">http://yfrog.com/kgxpetp</a></p>

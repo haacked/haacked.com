@@ -1,0 +1,5 @@
+id: dsq-747516330
+date: 2007-02-09T03:12:09.0000000-08:00
+name: Ryan Williams
+avatar: https://disqus.com/api/users/avatars/Ryan Williams.jpg
+message: <p>Care to provide a sample of using RSD in .NET?  Something along the lines of:<br>1) request blog home page<br>2) parse html for EditURI link<br>3) access RSD file<br>3) deserialize RSD xml into object (or just use XmlDocument I suppose)<br>4) Read RSD object to determine endpoint and API type and save off along with user's username and password.<br>Shouldn't be too hard, but you're probably a lot quicker than I.  I haven't found anybody do this all the way through yet and it'd be good to have an example.</p>

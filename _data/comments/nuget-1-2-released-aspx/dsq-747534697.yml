@@ -1,0 +1,5 @@
+id: dsq-747534697
+date: 2011-04-05T07:32:03.0000000-07:00
+name: Tim Savage
+avatar: https://disqus.com/api/users/avatars/Tim Savage.jpg
+message: <p>Awesome, have been fully embracing NuGet in my company.<br>We have one fiddly issue you may be able to enlighten us on (or do a post!). How to build a NuGet package that supports multiple framework versions to be created from a project file. <br>We have managed to automate creation of NuGet Packages for a single framework version, including updating of package version to match current assembly version without a problem but the multiple versions in one build has stumped us.<br>Cheers!</p>

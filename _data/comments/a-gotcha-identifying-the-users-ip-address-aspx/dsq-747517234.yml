@@ -1,0 +1,5 @@
+id: dsq-747517234
+date: 2009-02-01T16:02:03.0000000-08:00
+name: Jerome Dimairho
+avatar: https://disqus.com/api/users/avatars/Jerome Dimairho.jpg
+message: "<p>@Sandip: I also encountered the same issue then I realised that the HttpContext.Current.Request.ServerVariables[\"HTTP_X_FORWARDED_FOR\"] is null when a request doesn't come through a proxy server. First do a check to see if this server variable is empty, if it's not null, the assign it to a variable.<br>If HttpContext.Current.Request.ServerVariables[\"HTTP_X_FORWARDED_FOR\"] is null just use the HttpContext.Current.Request.ServerVariables[\"REMOTE_ADDR\"] server variable since the request isn't coming through a proxy server.</p>"

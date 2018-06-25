@@ -1,0 +1,5 @@
+id: dsq-747530025
+date: 2009-09-25T14:04:00.0000000-07:00
+name: Dummy Customer
+avatar: https://disqus.com/api/users/avatars/Dummy Customer.jpg
+message: <blockquote>We strongly considered just changing the existing &lt;%= syntax to encode by default.</blockquote><p><br>That would have been a great solution, but I totally understand that you need to support old code from breaking.</p>

@@ -1,0 +1,5 @@
+id: dsq-747526864
+date: 2008-11-06T23:17:24.0000000-08:00
+name: Torkel
+avatar: https://disqus.com/api/users/avatars/Torkel.jpg
+message: <p>Maybe to clarify, I think that this solution can be very useful and it would be great if it makes it into v1. Great work Phil :)  But as I said it only caches the view generation, which in a WebForms app makes sense because the view generation and logic &amp; data fetches is intermingled, but in a mvc app it makes less sense.</p>

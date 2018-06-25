@@ -1,0 +1,5 @@
+id: dsq-747526782
+date: 2008-11-05T17:33:10.0000000-08:00
+name: Jayson
+avatar: https://disqus.com/api/users/avatars/Jayson.jpg
+message: <p>Phil,<br>This is something that I've been thinking of a way to do.<br>One hurdle that I have in mind when I think of extensibility is referencing master pages from an outside assembly... we all want the pages to inherit from the same layout, right?<br>So for example, if i wanted to add "forums" functionality into my "base" mvc site, i would just drop the forums.dll into the bin, and configure the site to know about it.  All views and controllers are within the forums assembly but the views would somehow inherit from the master page that the "base" site is using.<br>Is this something that is possible, now?</p>

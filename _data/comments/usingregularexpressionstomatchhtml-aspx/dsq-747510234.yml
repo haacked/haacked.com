@@ -1,0 +1,5 @@
+id: dsq-747510234
+date: 2008-06-26T15:31:01.0000000-07:00
+name: Frank Dase
+avatar: https://disqus.com/api/users/avatars/Frank Dase.jpg
+message: "<p>I need an expression for a searchengine to highlight the word I searched for. But I have to ignore matches inside HTML tags.<br>for example: <br>&lt;base href=\"&amp;lt;a rel=\" nofollow=\"\" external\"=\"\" href=\"<a href=\"http://www.test.com/laser\" rel=\"nofollow noopener\" title=\"http://www.test.com/laser\">http://www.test.com/laser</a>\" title=\"<a href=\"http://www.test.com/laser\" rel=\"nofollow noopener\" title=\"http://www.test.com/laser\">http://www.test.com/laser</a>\"&gt;<a href=\"http://www.test.com/laser\" rel=\"nofollow noopener\" title=\"http://www.test.com/laser\">http://www.test.com/laser</a>\"&gt;this is a laser test...<br>I want only to match \"laser\" outside the base tag.<br>I'm a noop in reg expression, so I hope you can help me. I need it for classic ASP.</p>"

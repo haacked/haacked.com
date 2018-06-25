@@ -1,0 +1,5 @@
+id: dsq-747530636
+date: 2010-01-07T23:11:55.0000000-08:00
+name: Roger Rogers
+avatar: https://disqus.com/api/users/avatars/Roger Rogers.jpg
+message: <p>Nevermind, this works as expected, e.g.:<br>return RedirectToAction("Details", "Steps"); <br>Not sure what I was doing wrong, but the error is gone.</p>

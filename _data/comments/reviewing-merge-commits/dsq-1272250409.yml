@@ -1,0 +1,5 @@
+id: dsq-1272250409
+date: 2014-03-05T18:48:55.0000000-08:00
+name: adantj
+avatar: https://disqus.com/api/users/avatars/adantj.jpg
+message: <p>I can't seem to get any output from either git show --cc hash or git diff-tree --cc hash , both return just the commit, I see it works when I do it on a commit that does not have a conflict. What I might be doing wrong?</p>

@@ -1,0 +1,5 @@
+id: dsq-747532435
+date: 2010-07-13T03:49:20.0000000-07:00
+name: ch
+avatar: https://disqus.com/api/users/avatars/ch.jpg
+message: '<p>Ok I found out what the problem was. I needed to add default.aspx at the end of the url to upgrade the site. Example: <a href="http://yoursite.com/blog/HostAdmin/Upgrade/default.aspx" rel="nofollow noopener" title="http://yoursite.com/blog/HostAdmin/Upgrade/default.aspx">yoursite.com/blog/HostAdmin/Upgrade/default.aspx</a></p>'

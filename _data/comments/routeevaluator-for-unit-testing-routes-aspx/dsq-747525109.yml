@@ -1,0 +1,5 @@
+id: dsq-747525109
+date: 2008-11-04T03:38:31.0000000-08:00
+name: James World
+avatar: https://disqus.com/api/users/avatars/James World.jpg
+message: <p>You can go even further than this and assert that particular parameters are correctly caught, eg to test the controller is foo in your example:</p><p><code>Assert.AreEqual&lt;string&gt;(matchingRouteData[0].Values["controller"].ToString(), "foo");</code></p>

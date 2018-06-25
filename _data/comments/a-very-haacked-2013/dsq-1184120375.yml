@@ -1,0 +1,5 @@
+id: dsq-1184120375
+date: 2014-01-02T04:59:22.0000000-08:00
+name: Andreas Oldeskog
+avatar: https://disqus.com/api/users/avatars/simplyio.jpg
+message: <p>Good year Phil!</p><p>About the analytics;<br></p><blockquote>By the way, does anyone know how to easily do a report in Google Analytics for content created in a year? I’d find that useful.</blockquote><p></p><p>I find the easiest way is to create a custom report that matches pages starting with /archive/2013/ in the URL, and then set the date range to the whole year.<br></p>

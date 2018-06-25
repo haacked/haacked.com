@@ -1,0 +1,5 @@
+id: dsq-747528511
+date: 2009-04-02T03:11:21.0000000-07:00
+name: Attila
+avatar: https://disqus.com/api/users/avatars/Attila.jpg
+message: <p>For Banking scenarios your duty is to make a call idempotent too. So "subtract 1000, add 1000" is not the request what should it look like, but "change from 2000 to 1000" describing a bank transfer more...I know it's not about the security perspective of the request but it's connecting :-)</p>

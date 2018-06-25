@@ -1,0 +1,5 @@
+id: dsq-747537313
+date: 2012-01-02T11:10:01.0000000-08:00
+name: Matt Honeycutt
+avatar: https://disqus.com/api/users/avatars/Matt Honeycutt.jpg
+message: <p>This is similar to the preferred way of organizing tests with SpecsFor, except instead of a nested class per method, you use a nested class per scenario. Not everyone likes this approach though because it can become a bit crowded when you have a lot of scenarios for one class.</p>

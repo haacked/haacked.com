@@ -1,0 +1,5 @@
+id: dsq-747534787
+date: 2011-04-08T01:31:32.0000000-07:00
+name: Robert
+avatar: https://disqus.com/api/users/avatars/Robert.jpg
+message: <p>Please lease don't over complicate NuGet for features that only 1% of the people may someday need.  In EVERY single project I've ever seen (and as a consultant for 15 years..I've seen so many) cases where a solution contains multiple project, there's only one main project and there's NO NEED to have multiple version of some library within the same solution.  Just keep it simple for goodness' sakes!!!</p>

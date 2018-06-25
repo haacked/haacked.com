@@ -1,0 +1,5 @@
+id: dsq-747525020
+date: 2008-05-04T07:15:02.0000000-07:00
+name: Chris Chandler
+avatar: https://disqus.com/api/users/avatars/Chris Chandler.jpg
+message: <p>Thanks for the update, reading your post, I was hoping you would refine it to use a css switch, kudos.<br>Must say, since mvc is all about separation of concerns, alternating rows is a style issue. Since I'm the ultimate jQuery fanboy anyway, jQuery FTW.<br>Lambdas are nice here. But why all the ceremony about a loop? Seems like an awful lot of moving pieces just to iterate some tr's?</p>

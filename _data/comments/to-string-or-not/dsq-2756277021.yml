@@ -1,0 +1,6 @@
+id: dsq-2756277021
+replyToId: dsq-2756249731
+date: 2016-06-29T00:18:41.0000000-07:00
+name: Chris Rogers
+avatar: https://disqus.com/api/users/avatars/disqus_4G7u8GIwT5.jpg
+message: <p>Most of the for-loops I've seen deal with sizes which aren't obscenely huge - as is the case with most other uses of int.  The developer's mind can glide over the "int" without breaking stride.  Whereas this is not the case when the width of the integer has been specifically dictated by the coder - this causes a brief mental disruption as one needs to consider whether there is significance in the developer's need to specify 32 or 64 bits.</p><p>If size is ever likely to be important, then there is clearly a targeted requirement to specify such.<br>If one ever anticipates needing an integer which may require 64 or 128 bit integers, then Int64/128 will be perfect!  And in that case, the extra communication the code conveys is helpful.  Until then, having to mentally pause to consider whether there is significance in the bit size is just annoying.</p>

@@ -1,0 +1,5 @@
+id: dsq-747531066
+date: 2009-12-19T20:00:45.0000000-08:00
+name: Firefly
+avatar: https://disqus.com/api/users/avatars/Firefly.jpg
+message: <p>Great job as always Phil, thanks for keeping us updated.<br>Since we are on the subject of tooling, there is a minor annoyance that annoy me to no end with the AddView window.<br>Current there is no filter for type when you want to add a strong type view. That mean that list is long and fragile as well (Sometimes it won't display all the type). Since it's most likely that most of the view type will reside in one project, in my case they all derive from a base ViewType.<br>So may I suggest that we add two Filter, one by project and the other by base type? And VS will remember the filter next time the Add View window is Invoke. <br>Of course if a user don't enter a filter it will list everything by default.</p>

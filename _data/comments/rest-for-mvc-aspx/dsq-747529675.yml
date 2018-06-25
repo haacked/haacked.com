@@ -1,0 +1,5 @@
+id: dsq-747529675
+date: 2009-08-18T01:31:00.0000000-07:00
+name: mikekidder
+avatar: https://disqus.com/api/users/avatars/mikekidder.jpg
+message: <p>Noticed the ActionLink's uri for the "Home" tab and "Log On" in the samples are changing based on the last http request.  Bug?  Obviously, a different behavior than the original MVC.</p>

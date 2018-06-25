@@ -1,0 +1,5 @@
+id: dsq-747536318
+date: 2012-03-27T13:28:16.0000000-07:00
+name: Mark
+avatar: https://disqus.com/api/users/avatars/Mark.jpg
+message: <p>Looks interesting... But how are you able to all AntiForgery.Validate with the httpcontext?.. from what I can se that overloaded method is marked as internal.</p>

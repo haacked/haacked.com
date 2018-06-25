@@ -1,0 +1,5 @@
+id: dsq-2269299850
+date: 2015-09-23T09:15:52.0000000-07:00
+name: resetplz
+avatar: https://disqus.com/api/users/avatars/resetplz.jpg
+message: <p>How funny. Years ago I was looking for a simpler CAPTCHA and devised a honeypot-ish method using "hidden" characters:</p><p>- Imagine a form field with a red background; in it are the letters CAPTCHA<br>- Now randomly change the color of the characters making sure at least one is red.<br>- The user sees--and types--"CA TC A" because red letters over red aren't visible.<br>- But the stupid bot sees CAPTCHA.<br>- Presto.</p>

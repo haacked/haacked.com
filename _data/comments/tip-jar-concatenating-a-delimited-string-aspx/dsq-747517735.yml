@@ -1,0 +1,5 @@
+id: dsq-747517735
+date: 2006-11-22T01:16:40.0000000-08:00
+name: CougerAC
+avatar: https://disqus.com/api/users/avatars/CougerAC.jpg
+message: <p>Why not just import the Microsoft.VisualBasic library and use the function Join defined in the Strings Class? The Microsoft.VisualBasic library is installed on the target anyways, why not use it? (Oh yes, this exists in .Net 1.0,1.1,2.0 for VB.)</p>

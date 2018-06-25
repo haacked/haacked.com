@@ -1,0 +1,5 @@
+id: dsq-1050275477
+date: 2013-09-18T18:16:56.0000000-07:00
+name: JeroMiya
+avatar: https://disqus.com/api/users/avatars/jeremy_bell.jpg
+message: <p>What we're missing is a package manager that can grab the source directly from git and build it for you automatically. This is the direction newer package managers are going. For example, look at bower. Bower can install packages directly from git, versioned with semantic versioning. A similar tool for .net (or preferably an extension/enhancement to NuGet), would allow you to configure either in a nuget package itself, or via a local override (e.g. if you wanted to use your own fork of a library in place of an official one, without breaking other packages' dependencies), a git repository to download source from and and a build script to compile it into a binary locally. In this case, Microsoft may not be willing to configure their packages for from-source downloading, but you could configure it locally, even from your own forks.</p>

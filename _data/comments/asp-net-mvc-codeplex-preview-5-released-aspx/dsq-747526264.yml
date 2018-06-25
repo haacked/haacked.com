@@ -1,0 +1,5 @@
+id: dsq-747526264
+date: 2008-09-01T02:54:56.0000000-07:00
+name: Steve
+avatar: https://disqus.com/api/users/avatars/Steve.jpg
+message: <p>DropDownList now takes a "optionLabel" - no other overload without it - so now all my dropdownlists much have some sort of --select one--??<br>What if I don't want that.  Sure, it's nice to have, but why assumed I want it no matter what???)</p>

@@ -1,0 +1,5 @@
+id: dsq-747533539
+date: 2010-11-19T12:31:04.0000000-08:00
+name: redsquare
+avatar: https://disqus.com/api/users/avatars/redsquare.jpg
+message: <p>Great work Phil &amp; team. For v4 can we have a jquery tmpl view engine so we can use the same view client and server side. This will prevent duplication especially in a progressive enhancement environment. I would settle for a razor to .tmpl converter!</p>

@@ -1,0 +1,6 @@
+id: dsq-1113711916
+replyToId: dsq-1113362549
+date: 2013-11-08T03:18:48.0000000-08:00
+name: Nik Molnar
+avatar: https://disqus.com/api/users/avatars/nik_molnar.jpg
+message: <p>Like @disqus_asZ0mfCnmj:disqus , I've not noticed any particular performance issues - but I also don't doubt that it could happen. (Particularly at Paul's word.)</p><p>VS CERTAINLY will screw up the wildcards if "Add new file" is used. We solve that by having the "main" project that people use being a "normal" project file. The wildcard project files are then only used during the build.</p><p>We separate out our wildcard projects into a separate solution folder, but you could also put them in a *.Build.sln or not have them referenced by any solution at all - just by your build script.</p>

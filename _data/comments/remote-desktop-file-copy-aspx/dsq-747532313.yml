@@ -1,0 +1,5 @@
+id: dsq-747532313
+date: 2011-09-20T21:21:35.0000000-07:00
+name: Kingo
+avatar: https://disqus.com/api/users/avatars/Kingo.jpg
+message: <p>Is there a security setting in Group Policy on Server 2003 that disables copying from a RDP session to a local PC? If I try to copy a file this way i get a access denied message.  <br>I can quite happily copy files from my Local PC to the same RDP Session by mapping the drives.</p>

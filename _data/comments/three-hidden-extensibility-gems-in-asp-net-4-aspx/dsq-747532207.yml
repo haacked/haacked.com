@@ -1,0 +1,5 @@
+id: dsq-747532207
+date: 2010-05-16T19:13:08.0000000-07:00
+name: Sergio Pereira
+avatar: https://disqus.com/api/users/avatars/Sergio Pereira.jpg
+message: <p>Does VS also run these initializers? I mean, if I add an assembly reference like that, will VS recognize its types in an .aspx file for example? In the past I had problems when I did similar things (like adding a virtual path provider) and confusing VS' designers.</p>

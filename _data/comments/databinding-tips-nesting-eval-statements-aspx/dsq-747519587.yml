@@ -1,0 +1,5 @@
+id: dsq-747519587
+date: 2007-04-12T18:55:33.0000000-07:00
+name: kevin
+avatar: https://disqus.com/api/users/avatars/kevin.jpg
+message: <p>I agree with Karthik - I have a utility class that handles this just in case I need to make across the board changes - its all done in one place.<br>I here what phil is saying about having to recompile though as well.<br>this is where the design decisions come into playe.<br>for me, the utility methods are both easier to read and provide more "utility" because how often do you need to change something that is pretty much a standard  - ie if its empty then display "na", for example.<br>love the blog!</p>

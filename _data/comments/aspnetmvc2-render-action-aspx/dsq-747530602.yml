@@ -1,0 +1,5 @@
+id: dsq-747530602
+date: 2009-11-18T05:03:00.0000000-08:00
+name: Dmitriy Nagirnyak
+avatar: https://disqus.com/api/users/avatars/Dmitriy Nagirnyak.jpg
+message: <p>I think IsChildAction is not such a good property.<br>It does not represent nested child-actions.<br>Better one would probably be "ParentContext" or similar, so we can track the nested calls easily this way.</p>

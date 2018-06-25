@@ -1,0 +1,6 @@
+id: dsq-795380435
+replyToId: dsq-747612882
+date: 2013-02-11T04:18:29.0000000-08:00
+name: Daniel15
+avatar: https://disqus.com/api/users/avatars/Daniel15.jpg
+message: <p>I just started implemented Disqus comment syncing in my blog for SEO and so users with JavaScript turned off can see the comments. It's pretty easy to do :) <a href="https://github.com/Daniel15/Website/blob/master/Daniel15.Web/Services/DisqusComments.cs" rel="nofollow noopener" title="https://github.com/Daniel15/Website/blob/master/Daniel15.Web/Services/DisqusComments.cs">https://github.com/Daniel15...</a></p>

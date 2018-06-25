@@ -1,0 +1,5 @@
+id: dsq-747536470
+date: 2011-10-27T10:25:52.0000000-07:00
+name: Frode Rosand
+avatar: https://disqus.com/api/users/avatars/Frode Rosand.jpg
+message: <p>I support a strict semantic versioning. Two of the alternatives support that:<br>1.1.1alpha-001<br>1.1.1alpha-001<br>1.1.1alpha<br>or the odd/even minor version variant:<br>1.1.0    pre-release version<br>1.1.1    pre-release version<br>1.2.0    release version<br>Some of the products using the latter model does so strictly for officially available versions (nightly builds, unstable betas and so on), but it could be used regardless of public or private release. Not every release going public must follow the previous version sequentially. If you walk through 1.1.0 through 1.1.112 before you release 1.2.0 then that's fine.<br>Personally I like the cleanliness of the odd/even approach but would be fine with a non-breaking SemVer compatible 1.1.1alpha-001 structure.<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747534746
+date: 2011-07-14T16:08:11.0000000-07:00
+name: Kevin Wilson
+avatar: https://disqus.com/api/users/avatars/kwilson81.jpg
+message: <p><br>Tried following the instructions but am getting the error<br>The exception message is 'Could not load file or assembly 'NuGet.Core, Version=1.4.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference.<br>when trying tp browse to view the feeds (<a href="http://localhost:49850/nuget/Packages" rel="nofollow noopener" title="http://localhost:49850/nuget/Packages">http://localhost:49850/nuget/Packages</a>). Same error on both my local machine and server.<br>NuGet.Core is in the bin but the version shown in the packages.config is 1.4.20615.9012. I can't see any specific references to 1.4.0.0 anywhere.<br>Any ideas what to do?<br>Thanks.</p>

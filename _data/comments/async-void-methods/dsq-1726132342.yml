@@ -1,0 +1,6 @@
+id: dsq-1726132342
+replyToId: dsq-1689808223
+date: 2014-12-04T13:50:33.0000000-08:00
+name: Thomas Levesque
+avatar: https://disqus.com/api/users/avatars/thomaslevesque.jpg
+message: "<p>Well, how would you want <code>async void</code> to behave? Just silently swallow any unhandled exception? I think it would be worse, because it would hide bugs. At least, if your app crashes, you know somehing is wrong. Having <code>async void</code> silently swallow exceptions would be the same as an empty catch block. At least, right now it forces you to handle exceptions explicitly. BTW, it's the same if you have an <code>async Task</code> method and ignore the result: an exception will be thrown when the Task is GC'd, because the exception was not observed; it will also crash your process, unless you handle the <code>UnobservedTaskException</code> event.</p><p>Regarding <code>ConfigureAwait</code>, I don't think it would be possible. There is no way for the compiler or the TPL to know whether or not you want to resume on the same sync context. Typically, you do, so the default is to capture the sync context; if you don't want that, you have to opt out explicitly. What heuristic would you use to decide to do it automatically?</p>"

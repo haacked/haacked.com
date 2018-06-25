@@ -1,0 +1,5 @@
+id: dsq-747513998
+date: 2007-03-31T08:24:04.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>Yeah, I like that idea! It's very similar to Steve's idea in the body of this post.<br>He uses the following syntax:<br><code>//REVIEW: Please check if this can be simplified</code><br>One reason to use the \"Slash Slash Review\" syntax is that it uses the same syntax as the other TODO items that VS.NET 2005 recognizes and adds to your list such as //TODO and //KLUDGE.</p>"

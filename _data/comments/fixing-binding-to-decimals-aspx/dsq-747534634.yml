@@ -1,0 +1,5 @@
+id: dsq-747534634
+date: 2011-03-21T17:50:08.0000000-07:00
+name: Frank van Eykelen
+avatar: https://disqus.com/api/users/avatars/Frank van Eykelen.jpg
+message: <p>I'm working on a website that has two cultures (en-GB and nl-NL) and I don't have any problems with Decimal Model Binding. <br>Maybe it's because I set the Thread.CurrentThread.CurrentUICulture  and Thread.CurrentThread.CurrentCulture to the culture that is used for the form input?<br>When the form is Dutch (nl-NL) they are set to {nl} and {nl-NL}, and when the form is English they are set to {en} and {en-GB}.</p>

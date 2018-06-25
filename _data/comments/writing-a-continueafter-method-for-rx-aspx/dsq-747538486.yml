@@ -1,0 +1,5 @@
+id: dsq-747538486
+date: 2012-10-10T03:38:23.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Benjamin that seems to be the most straightforward and correct solution compared to mine. I found a problem with using <code>Concat</code>. Not sure why yet, but it fails for me. :(</p>

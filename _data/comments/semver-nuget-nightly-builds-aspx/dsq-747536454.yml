@@ -1,0 +1,5 @@
+id: dsq-747536454
+date: 2011-10-25T03:03:42.0000000-07:00
+name: Ken Egozi
+avatar: https://disqus.com/api/users/avatars/kenegozi.jpg
+message: <p>A slight change that I like is to use odd minor versions as "pre release" or "bleeding edge" that is followed by an even number for "RTM"<br>e.g.  - version 1.5, 1.5.1, ..., 1.5.n while stabilizing the 1.6 version, calling it 1.6 when it's done, then 1.6.1 is bugfixes, and 1.7.x starts to act as the pre-release for 1.8 version (or a future 2.0)<br>this way you do not need the strings (beta, alpha, whateva), which is good imo - you do not waste time and cpu cycles on "is it a beta2 or an rc?" just increment patch-level for the odd version, and go even when you're ready.<br>plus number=only versions are easier on the AssemblyVersion thing</p>

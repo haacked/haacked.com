@@ -1,0 +1,5 @@
+id: dsq-747510241
+date: 2008-07-22T00:26:05.0000000-07:00
+name: Jamey Taylor
+avatar: https://disqus.com/api/users/avatars/Jamey Taylor.jpg
+message: <p>Found a case it doesn't handle:<br>It doesn't match if the attribute name has a non-word character.  For example, the hyphen in the first attribute below causes it to not match:<br>&lt;meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"&gt;<br>This has been a huge help to me in maintaining hundreds of non-xhtml compliant pages.  Thanks!!!</p>

@@ -1,0 +1,6 @@
+id: dsq-1503115496
+replyToId: dsq-1107641825
+date: 2014-07-25T05:50:02.0000000-07:00
+name: Anthony Johnston
+avatar: https://disqus.com/api/users/avatars/antixsoftware.jpg
+message: <p>This is service locator, so, if you are happy to use it, why not just locate the services you need inside a concrete handler. <br>This solves the per request thing too, in that you can call the service locator in the BeginRequest or, if global, in the constructor.</p><p>Moving the logic to a service is probably the right thing to do here anyway for testing and interchangaswappableness, leaving the HttpModule as a wrapper with the single responsibility of calling those services in a "HttpModule kind of way".</p>

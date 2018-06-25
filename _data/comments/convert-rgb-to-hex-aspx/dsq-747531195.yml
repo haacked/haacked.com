@@ -1,0 +1,5 @@
+id: dsq-747531195
+date: 2009-12-29T10:25:49.0000000-08:00
+name: James Fuller
+avatar: https://disqus.com/api/users/avatars/James Fuller.jpg
+message: '<p>I just wanted to point out, it looks like this code is switching the red and blue value, if you use the rgb values(120,120,240) your code returns #F07878 which is dominantly red, rather than dominantly blue, a fix to this is to remove the multiplier in front of the blue and multiply the red value by 65536. Just a quick analysis. Useful code otherwise.<br></p>'

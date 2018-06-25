@@ -1,0 +1,5 @@
+id: dsq-747524745
+date: 2008-04-08T11:40:12.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Torkel Yeah, we all want to rewrite it in MVC. I think it might be a good time for a rewrite of the core.<br>@Daniel I've been thinking of using the Routing *before* converting to MVC, to show what's possible with WebForms.</p>

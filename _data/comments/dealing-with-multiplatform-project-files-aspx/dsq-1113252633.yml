@@ -1,0 +1,6 @@
+id: dsq-1113252633
+replyToId: dsq-1113129986
+date: 2013-11-07T16:06:00.0000000-08:00
+name: jdhardy
+avatar: https://disqus.com/api/users/avatars/jdhardy.jpg
+message: <p>Agree on the pain. Single project/multiple configs is how IronPython is built. It has over a dozen projects, so one per platform isn't really workable. Still trying to come up with a better solution.</p>

@@ -1,0 +1,6 @@
+id: dsq-1186850977
+replyToId: dsq-1185260362
+date: 2014-01-04T10:17:06.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Huh? That's not the solution in my blog post. My blog post has this:</p><p>```<br>  return source<br>    .Concat(Enumerable.Repeat(default(T), count))<br>    .Take(count);</p><p>```</p><p>Keep in mind that Enumerable.Repeat and Concat are lazily evaluated. So "result" doesn't have _any_ elements in it until you evaluate it by calling something like "ToArray" or "ToList" on it.</p><p>That's why the "Take" is so important in my solution. That's also lazily evaluated. So when you call "ToList" on the result of my code, there is never a collection with 7 elements in it.</p>

@@ -1,0 +1,5 @@
+id: dsq-747510265
+date: 2010-04-08T06:13:01.0000000-07:00
+name: Tass
+avatar: https://disqus.com/api/users/avatars/Tass.jpg
+message: <p>Hi <br>  I have an HTML and i have to replace width:0;height:0;"  to width:0px;height:0px;" in the style .<br>is some have idea what can be regex and replace can be ..<br><br>&lt;div class="cool"&gt;<a href="http://www.msplinks.com/MDFodHRwOi8vdXJsLmNvbS9pbWFnZS5naWY=" rel="nofollow noopener" title="CoolChaser">&lt;img src="http://www.coolchaser.com/images/banner_xray.gif" alt="CoolChaser"&gt;</a>&lt;/div&gt;&lt;img style="visibility:hidden;width:0;height:0;" border=0 width=0 height=0 src="<a href="http://counters.gigya.com/wildfire/CIMP/bHQ9MTIxNjg3NDUyNjQyMSZwdD" rel="nofollow noopener" title="http://counters.gigya.com/wildfire/CIMP/bHQ9MTIxNjg3NDUyNjQyMSZwdD">counters.gigya.com/.../bHQ9MTIxNjg3NDUyNjQyMSZwdD</a>*xMjE2ODc*NjA*MDYyJnA9MjEwNjkxJmQ9Jm49bXlzcGFjZSZnPTE=.jpg" /&gt;</p>

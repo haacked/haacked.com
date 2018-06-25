@@ -1,0 +1,5 @@
+id: dsq-747527616
+date: 2009-01-04T16:41:14.0000000-08:00
+name: Peli
+avatar: https://disqus.com/api/users/avatars/Peli.jpg
+message: <p>Just to put those numbers in perspective, I wrote 2 more formatters:<br>            Func&lt;string&gt; stringBuilder = () =&gt;<br>            {<br>                var sb = new StringBuilder();<br>                sb.Append(<a href="http://o.foo" rel="nofollow noopener" title="o.foo">o.foo</a>);<br>                sb.Append(" is a ");<br>                sb.Append(<a href="http://o.bar" rel="nofollow noopener" title="o.bar">o.bar</a>);<br>                sb.Append(" is a ");<br>                sb.Append(o.baz);<br>                sb.Append(" is a ");<br>                sb.Append(o.qux.ToString("#.#"));<br>                return sb.ToString();<br>            };<br>And the results are the following:<br>    StringFormat took 0.0014 ms<br>    StringBuilder took 0.001 ms<br>    Hanselformat took 0.0747 ms<br>    OskarFormat took 0.0934 ms<br>    JamesFormat took 3.7797 ms<br>    HaackFormat took 0.0492 ms<br>This should give you</p>

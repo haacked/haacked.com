@@ -1,0 +1,5 @@
+id: dsq-747524452
+date: 2009-04-03T04:17:28.0000000-07:00
+name: Josh Lewis
+avatar: https://disqus.com/api/users/avatars/Josh Lewis.jpg
+message: <p>I have implemented your solution in site that I had already built that uses a lot of ASP.NET AJAX, specifically the ScriptManager control. However, all of my ajax JavaScript is bombing out. The first error I get is 'ASP.NET Ajax client-side framework failed to load'. I have looked all over the web and it appears that many others are having the problem and everyone has a different solution. I get the same errors on VS08 integrated web server and Server 2003 IIS 6.0 with wildcard mapping enabled. <br>Any thoughts or a push in the right direction would be very much appreciated.<br>Thanks,<br>Josh</p>

@@ -1,0 +1,5 @@
+id: dsq-747531723
+date: 2010-02-22T18:24:42.0000000-08:00
+name: Ian Mckay
+avatar: https://disqus.com/api/users/avatars/Ian Mckay.jpg
+message: <p>Nice post. I have done something similar for a concept CMS I am attempting to create. I needed to convert the slug into an id but I wanted a mixture of managed and unmanaged pages. So I created a custom route and handler class that does the lookup in the database and passes down the id and controller. If it doesn't find the page in the database it returns null and the default route will be matched.</p>

@@ -1,0 +1,5 @@
+id: dsq-747517319
+date: 2006-10-18T16:55:54.0000000-07:00
+name: Scott Muc
+avatar: https://disqus.com/api/users/avatars/Scott Muc.jpg
+message: <p>How does the object array deal with parameterize queries? The order that the parameters appear in the sql text?<br>Also, using a SqlParameter can be helpful when performing INSERTs to clip large text entries. eg:<br>new SqlParameter("@Input", SqlDbType.VarChar, 80)<br>Albeit it's debatable as to whether or not that kind of input error should have been caught earlier, but at least with that SqlParameter you can guarantee that the parameter is less than or equal to whatever specified maximum length of the database column is.</p>

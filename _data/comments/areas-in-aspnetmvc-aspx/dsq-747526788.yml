@@ -1,0 +1,5 @@
+id: dsq-747526788
+date: 2008-11-12T03:03:05.0000000-08:00
+name: Andrea Balducci
+avatar: https://disqus.com/api/users/avatars/Andrea Balducci.jpg
+message: <p>I did it in an ASP.Net Framework i'm writing in my spare time.<br>You can create several different applications each one deployed in a set of custom assemblies (xcopy deployment). Every assembly can implemente one or more application ad every application can add new routes. By now is much more a proof of concept but it works since Asp.Net preview 3.<br>I plan to release some "real" framework (maybe with some help) in Q1 2009.<br>You can grab some sources from <a href="http://code.google.com/p/ecosystem15/" rel="nofollow noopener" title="http://code.google.com/p/ecosystem15/">http://code.google.com/p/ecosystem15/</a><br></p>

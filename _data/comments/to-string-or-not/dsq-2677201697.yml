@@ -1,0 +1,5 @@
+id: dsq-2677201697
+date: 2016-05-15T11:24:51.0000000-07:00
+name: Christopher Haws
+avatar: https://disqus.com/api/users/avatars/christopherhaws.jpg
+message: <p>I personally use the system type rather than the alias everywhere. I personally think there is an issue with code like "public int GetInt32()". This could become a problem if someday in the future, int switches from being a 32-bit integer to being a 64-bit integer. We saw this happen in C++ in the past. System types are declarative, whereas the aliases can be obscure (short = Int16, float = Single, long = Int64, etc.).</p><p>This especially comes in to play when P/Invoke'ing. In C and C++, an int is defined as "Type int is an integral type that is larger than or equal to the size of type short int, and shorter than or equal to the size of type long." They don't specify the size because it can change depending on how you compile the library. If you tried to p/invoke a method that is using an int in C++ using the alias int in C#, you could run into issues with overflow in unmanaged code. Using the system types, you are always declaring the size.</p>

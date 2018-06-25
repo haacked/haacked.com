@@ -1,0 +1,5 @@
+id: dsq-747524996
+date: 2008-05-03T11:06:55.0000000-07:00
+name: Scott Hanselman
+avatar: https://disqus.com/api/users/avatars/Scott Hanselman.jpg
+message: <p>I respectfully disagree. ;) IMHO, it's widely agreed that using server-generaed alternate CSS classes for alternating rows is a sub-optimial thing. In my opinion, the View is the view, sure, but the *skinning* of the view should be as much on the client/css as possible. Alternating rows are a client-side presentation detail that the server shouldn't be sweating.<br>I'd prefer doing it like this in jquery, without any trouble on the server-side:<br>$(document).ready(function() {<br>  $('table.striped tbody tr:not([th]):odd').addClass('odd');<br>  $('table.striped tbody tr:not([th]):even').addClass('even');<br>});<br>Additionally, that server-side repeater doesn't handle triple striping, grouped striping, alternating triplets, etc.<br>Just my 2 bytes.<br>See <a href="http://www.packtpub.com/article/jquery-table-manipulation-part2" rel="nofollow noopener" title="http://www.packtpub.com/article/jquery-table-manipulation-part2">this page</a> for more details.<br></p>

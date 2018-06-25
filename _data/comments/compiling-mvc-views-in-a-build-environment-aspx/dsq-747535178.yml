@@ -1,0 +1,5 @@
+id: dsq-747535178
+date: 2011-05-09T18:59:16.0000000-07:00
+name: Michael G
+avatar: https://disqus.com/api/users/avatars/Michael G.jpg
+message: <p>This is the area which is somehow neglected - automated builds. You have created many awesome tools recently - MVC Scaffolding, Web Publishing mechanisms, etc., but they all so Visual Studio IDE-centric! (Scott Guthrie promised a post about automation but never did one). How can I leverage all this goodness in the Continuous Integration (and not only TFS, but Team City/NAnt for example)?</p>

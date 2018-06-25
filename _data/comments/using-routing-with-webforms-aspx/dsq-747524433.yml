@@ -1,0 +1,5 @@
+id: dsq-747524433
+date: 2008-11-16T20:01:22.0000000-08:00
+name: Jay
+avatar: https://disqus.com/api/users/avatars/Jay.jpg
+message: <p>I'm trying to use this on shared host that doesn't allow reflection, and the methods to render a link apparently uses this because they give me error on this. I don't really understand reflection, could someone point out to me what parts in rendering the link that are reflection and how to get around it? Thanks. Hopefully someone still reads this...</p>

@@ -1,0 +1,5 @@
+id: dsq-747530558
+date: 2009-11-19T02:24:00.0000000-08:00
+name: I have some custom ModelBinder
+avatar: https://disqus.com/api/users/avatars/I have some custom ModelBinder.jpg
+message: <p>I have a project with some custom modelbinders. It was really cool to add support for instance dictionary binding:<br>[ModelBinder(typeof(DictionaryBinder&lt;Guid,int&gt;))]Dictionary&lt;Guid,int&gt; model<br>However, it seems that there is a new weird kind of interface for the valueprovider:<br>bool ContainsPrefix(System.Web.Mvc.ControllerContext, string)<br>ValueProviderResult GetValue(System.Web.Mvc.ControllerContext, string)<br>Why the tight coupling to ControllerContext? Why does the ValueProvider need to know about the controllercontext? <br>Best Regards from M</p>

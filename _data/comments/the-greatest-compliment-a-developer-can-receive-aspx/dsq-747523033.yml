@@ -1,0 +1,5 @@
+id: dsq-747523033
+date: 2007-10-08T23:08:00.0000000-07:00
+name: Pete
+avatar: https://disqus.com/api/users/avatars/Pete.jpg
+message: <p>Putting curly braces on separate lines is called <a href="http://en.wikipedia.org/wiki/Indent_style#Allman_style" rel="nofollow noopener" title="http://en.wikipedia.org/wiki/Indent_style#Allman_style">Allman style</a>.<br>From Wikipedia:<br></p><blockquote><br>A disadvantage of this style is that each of the enclosing braces occupies an entire line by itself without adding any actual code. This once was an important consideration when programs were usually edited on terminals that displayed only 24 lines, but is less significant with larger resolutions.<br></blockquote><p><br></p><blockquote><br>The motivation of this style is probably to <strong>promote code readability through visually separating blocks from their control statements</strong>, deeming screen real estate a secondary concern.<br></blockquote><p><br></p><blockquote><br>This style is used by default in Microsoft Visual Studio 2005 and Apple's Xcode.<br></blockquote>

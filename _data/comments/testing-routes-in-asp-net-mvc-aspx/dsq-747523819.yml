@@ -1,0 +1,5 @@
+id: dsq-747523819
+date: 2010-06-02T02:44:03.0000000-07:00
+name: Scott McNeany
+avatar: https://disqus.com/api/users/avatars/Scott McNeany.jpg
+message: "<p>This is very similar to the testing feature in Pro Asp.Net MVC book, but I'm having some trouble testing ALL of my routes since some are defined in Areas, not in Global.asax.cs. <br>I run the AreaRegistration.RegisterAllAreas() method in the Application_Start, not in the RegisterRoutes() method in my application. If I move the call inside RegisterRoutes() or call it from my test method, I can an error stating:<br>Test method purchase.web.test.RoutingTests.TestQuoteNoProductGroup threw exception:  System.Web.HttpException: The type initializer for 'System.Web.Compilation.CompilationLock' threw an exception. ---&gt;  System.TypeInitializationException: The type initializer for 'System.Web.Compilation.CompilationLock' threw an exception. ---&gt;  System.NullReferenceException: Object reference not set to an instance of an object..<br>Any thoughts on this error and how I can properly test the routes defined in the other areas?</p>"

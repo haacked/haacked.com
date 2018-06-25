@@ -1,0 +1,5 @@
+id: dsq-747535629
+date: 2011-07-14T05:55:54.0000000-07:00
+name: Harry McIntyre
+avatar: https://disqus.com/api/users/avatars/Harry McIntyre.jpg
+message: <p>I'd like to see<br> - official portable code system*<br> - Dynamic editor/display templates that can interrogate the object being rendered so forms which require rules like "only show User.Email field if current user IS that user" can be easily rendered<br>which leads on to...<br> - convention based dynamic scaffolding. code generation is a bad thing. it leads to over-generation and identikit classes which are then hard to maintain and refactor. e.g. linq to sql and the requirement for yucky partial classes. Generate the scaffold at runtime from conventions and reflection though, and you have a UI that grows with your object model.</p>

@@ -1,0 +1,5 @@
+id: dsq-747523828
+date: 2012-07-19T06:55:31.0000000-07:00
+name: Tim Bourguignon
+avatar: https://disqus.com/api/users/avatars/timothep.jpg
+message: <p>I've been using Phil's method for a while until I felt the urge to actually check if a controller or an action really exists (for instance when another developper renames an action... hum...). In that case, one of the "quite very generic" routes was still happy about the URL although the action did not exist anymore and my test was passing although it should not have.<br>I switched to <a href="http://mvccontrib.codeplex.com/" rel="nofollow noopener" title="http://mvccontrib.codeplex.com/">MvcContrib</a> to perform my testing and which works with objects instead of strings (and thus triggers a compiler error if a controller or action does not exist). See <a href="http://mvccontrib.codeplex.com/wikipage?title=TestHelper#Examples" rel="nofollow noopener" title="http://mvccontrib.codeplex.com/wikipage?title=TestHelper#Examples">the examples here</a>.</p>

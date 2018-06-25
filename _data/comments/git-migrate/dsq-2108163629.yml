@@ -1,0 +1,5 @@
+id: dsq-2108163629
+date: 2015-06-30T01:58:22.0000000-07:00
+name: Servant Phoenix
+avatar: https://disqus.com/api/users/avatars/kornlregius.jpg
+message: <p>"But now, I need to move the new-branch onto master.</p><p>git rebase --onto master wrong-branch"</p><p>Maybe I'm wrong, but isn't that supposed to be</p><p>git rebase --onto master new-branch?</p><p>I thought you are rebasing the new-branch on the master (replaying E and F on master).</p>

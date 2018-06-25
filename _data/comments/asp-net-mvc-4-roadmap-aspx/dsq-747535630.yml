@@ -1,0 +1,5 @@
+id: dsq-747535630
+date: 2011-07-14T07:47:11.0000000-07:00
+name: Antwan Wimberly
+avatar: https://disqus.com/api/users/avatars/Antwan Wimberly.jpg
+message: <p>Expose the types for all controllers. I can't tell you how many times I've seen people have to scan for controller types. Also, it'd be nice to have action filters that are triggered for a specific verb. For example, execute these action filter for every post. In case you were super paranoid and wanted the ValidateAntiForgeryToken action filter to run on every post. That's just one example.</p>

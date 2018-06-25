@@ -1,0 +1,5 @@
+id: dsq-2412856237
+date: 2015-12-16T10:00:46.0000000-08:00
+name: tvanfosson
+avatar: https://disqus.com/api/users/avatars/tvanfosson.jpg
+message: <p>I only use the aliases because it's possible to define your own String class in a different namespace. That would be stupid, yes, but I've seen a lot of stupid things done. It's not a good reason, but it is a valid reason to stick with the aliases.</p>

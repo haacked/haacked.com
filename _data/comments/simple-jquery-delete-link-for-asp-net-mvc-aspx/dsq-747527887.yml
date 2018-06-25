@@ -1,0 +1,5 @@
+id: dsq-747527887
+date: 2009-04-06T20:40:08.0000000-07:00
+name: Ruairi
+avatar: https://disqus.com/api/users/avatars/Ruairi.jpg
+message: <p>I'm "trying" to do best practice by POSTing when doing a delete, but I'm guessing I should be using the [ValidateAntiForgeryToken] attribute with the post.  Am I going to far with this security with CSRF?<br>The page gets messy because the API creates the token in a hidden form field, but If I'm doing a JQuery $.post(...) I'd prefer the token without the hidden element.  Curently I've got Jquery traversing the HTML to find the <br>$('input[hidden]').attr('value') <br>Any suggestions?</p>

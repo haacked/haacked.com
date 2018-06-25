@@ -1,0 +1,5 @@
+id: dsq-747513665
+date: 2007-02-03T23:37:53.0000000-08:00
+name: Andrzej Sawicki
+avatar: https://disqus.com/api/users/avatars/Andrzej Sawicki.jpg
+message: <p>the url() is relative to where a css is stored not the virtual directory.<br>you can use ../ in order to get up directory and find the image<br>in my case this was<br>../images/something.png<br>andrzej</p>

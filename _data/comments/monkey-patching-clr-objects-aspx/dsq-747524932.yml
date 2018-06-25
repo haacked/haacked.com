@@ -1,0 +1,5 @@
+id: dsq-747524932
+date: 2008-04-19T16:35:30.0000000-07:00
+name: Paul Batum
+avatar: https://disqus.com/api/users/avatars/Paul Batum.jpg
+message: '<p>I did a bit more experimentation and noticed that your method_missing trick will fail if you try to do an assignment using the same syntax, e.g :<br>$indexer.key = "foo"<br>However if you check the method name to see if it ends with an equals sign (=) then you could instead do a set operation. I managed to get this working fine in normal ruby, here is a slightly modified version that will hopefully work in IronRuby:<br><code><br>def $indexer.method_missing(name, *args)<br>  # If $indexer.key = "foo" was executed then the name argument<br>  # here would be the symbol :key= and *args would be the string "foo".<br>  # Use a regex to detect these cases and capture the portion before the =<br>  # and do a store operation instead of a fetch operation.<br>  md = name.to_s.match(/(.+)=$/)<br>  if(md)<br>    # In normal ruby this would be: store(md[1], *args)<br>    set_Item(md[1], *args)<br>  else<br>    # In normal ruby this would be: fetch(name.to_s)<br>    get_Item(name.to_s)<br>  end<br>end<br></code></p>'

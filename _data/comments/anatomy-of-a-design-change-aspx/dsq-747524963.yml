@@ -1,0 +1,5 @@
+id: dsq-747524963
+date: 2008-04-24T12:35:40.0000000-07:00
+name: Jarod
+avatar: https://disqus.com/api/users/avatars/Jarod.jpg
+message: <p>"At this point, we realized we need a [NonAction] attribute we can apply to an action to say that even though it is public, it is not an action."<br>So is that better than having [Action] in the first place? Seems like we went backwards...<br>"Another issue that came up is interfaces. Suppose I implement an interface with public methods.  Should those methods by default be callable? A good example is IDisposable. If I implement that interface, suddenly I can call Dispose() via a request for /product/dispose."<br>See previous point :)<br></p>

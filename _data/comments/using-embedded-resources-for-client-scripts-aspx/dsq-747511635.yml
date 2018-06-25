@@ -1,0 +1,5 @@
+id: dsq-747511635
+date: 2005-05-02T21:24:00.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>VS.NET 2005 handles that with WebResource.axd I believe. I am planning to tackle that issue as well, though it's lower priority.<br><br><br><br>In the meantime, you should take a look at Fritz Onion's dynamic image control.<br><br><a href="http://pluralsight.com/blogs/fritz/archive/2005/02/11/5789.aspx" rel="nofollow noopener" title="http://pluralsight.com/blogs/fritz/archive/2005/02/11/5789.aspx">http://pluralsight.com/blogs/fritz/archive/2005/02/11/5789.aspx</a></p>

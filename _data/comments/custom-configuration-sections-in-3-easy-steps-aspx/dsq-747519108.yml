@@ -1,0 +1,5 @@
+id: dsq-747519108
+date: 2010-06-08T14:00:27.0000000-07:00
+name: Bjorn Theart
+avatar: https://disqus.com/api/users/avatars/bjorntheart.jpg
+message: '<p>Hi<br>I get the following exception when I try to assign a value to a configuration property<br><code><br>Description: An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code. <br>Exception Details: System.Configuration.ConfigurationErrorsException: The configuration is read only.<br>Source Error: <br><br>Line 20:         {<br>Line 21:             get { return (string)this["serverIP"]; }<br>Line 22:             set { this["serverIP"] = value; }<br>Line 23:         }<br>Line 24: <br> <br></code></p>'

@@ -1,0 +1,5 @@
+id: dsq-747538179
+date: 2012-07-06T09:25:14.0000000-07:00
+name: Dony van Vliet
+avatar: https://disqus.com/api/users/avatars/Dony van Vliet.jpg
+message: <p>Too bad .NET does not have a standard method on strings for Unicode case folding. Adhering to the Unicode standard by using case FOLDING to compare strings in a case-insensetive way instead of introducing both an ordinal and invariant way of doing a case-insensitive will not wipe away all the differences between cultures, but it does implement a well-known and well-defined way of comparing strings without any regards to case. Notice that String.Normalize(NormalizationForm) IS part of the framework since .NET 2.0! Maybe it's time for a few extension methods on strings to fill in the gap ...</p>

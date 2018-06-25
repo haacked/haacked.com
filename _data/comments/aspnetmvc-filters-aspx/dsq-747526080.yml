@@ -1,0 +1,5 @@
+id: dsq-747526080
+date: 2008-08-14T21:42:38.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>We don't currently have plans for that in v1.0, though it is still open for debate. We may try to include prototypes of this in MVC Futures and then get it ready for Post RTM.</p>

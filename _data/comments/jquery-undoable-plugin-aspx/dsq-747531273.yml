@@ -1,0 +1,5 @@
+id: dsq-747531273
+date: 2010-01-02T21:26:41.0000000-08:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>There is a different approach to plugin modeling with an easier way to customize and reduce file size. A good example here <a href="http://github.com/jchris/jquery-autocomplete/blob/master/jquery.ui.autocomplete.js" rel="nofollow noopener" title="http://github.com/jchris/jquery-autocomplete/blob/master/jquery.ui.autocomplete.js">github.com/.../jquery.ui.autocomplete.js</a> . <br>It's a snap to change the behavior of the plugin without the developer having to support all the options since it uses jquery's rich event model.<br>I have other example of this plugin pattern too if you'd like some.</p>

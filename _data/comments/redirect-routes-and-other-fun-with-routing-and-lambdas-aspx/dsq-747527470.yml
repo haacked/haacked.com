@@ -1,0 +1,5 @@
+id: dsq-747527470
+date: 2008-12-15T02:48:33.0000000-08:00
+name: Erik
+avatar: https://disqus.com/api/users/avatars/Erik.jpg
+message: <p>I did something similar as an experiment in creating an IList implementation which uses Action and Func properties to fulfill its contract. Posted what I came up with on my blog -- <a href="http://shadowcoding.blogspot.com/2008/08/delegate-powered-collection.html" rel="nofollow noopener" title="http://shadowcoding.blogspot.com/2008/08/delegate-powered-collection.html">shadowcoding.blogspot.com/.../...d-collection.html</a></p>

@@ -1,0 +1,6 @@
+id: dsq-1978096015
+replyToId: dsq-1977731950
+date: 2015-04-20T13:17:23.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Ah, you need to replace the STAExamples namespace with where you put the files.</p><p>For example...</p><p>[XunitTestCaseDiscoverer("STAExamples.STAFactDiscoverer", "STAExamples")]</p><p>Replace "STAExamples" in that attribute with the namespace that matches where you put these classes. I'll talk to the XUnit folks about creating a package to do this later.</p>

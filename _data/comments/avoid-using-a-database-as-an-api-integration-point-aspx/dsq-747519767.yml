@@ -1,0 +1,5 @@
+id: dsq-747519767
+date: 2007-04-23T15:50:37.0000000-07:00
+name: StefanVE
+avatar: https://disqus.com/api/users/avatars/StefanVE.jpg
+message: "<p>To Jon:<br>I aggree there is no such thing as a standard membership provider and the purpose of the provider model is enabling pluggin in a custom implementation. <br>I do not think however the sqlMembership provider is only meant as a 'sample' and if I do not have special requirements, I will use the sqlMemberShip provider. (The code is written, tested and has an admin website allready build. What is the benefit of writing my own ?) Also, it does  work on sql2000 db if you modify the connectionstring and install the stp's. (there is a single script that  does this).<br>To Phil:<br>I think I have seen the the OS app that does the copying. If it is the same app : They talk about the why's in a recent dnr-episode. (basically : they need cross site,multiple portal membership), but I also cannot understand  why they have kept the sqlMembership tables. Maybe it's to help apps that are going to use the sqlmembership provider on the same database. Whatever the reason, I really did not like the end-result.</p>"

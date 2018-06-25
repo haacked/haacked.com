@@ -1,0 +1,6 @@
+id: dsq-1113949631
+replyToId: dsq-1113049100
+date: 2013-11-08T07:43:14.0000000-08:00
+name: Eric Falsken
+avatar: https://disqus.com/api/users/avatars/EricFalsken.jpg
+message: <p>Use a PS script to "extract" the files from a single "source" project and create the manifest automatically and import them into all the other projects with a simple edit to your .csproj file.</p>

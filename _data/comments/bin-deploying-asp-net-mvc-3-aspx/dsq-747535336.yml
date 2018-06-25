@@ -1,0 +1,5 @@
+id: dsq-747535336
+date: 2012-08-20T09:35:04.0000000-07:00
+name: Edi
+avatar: https://disqus.com/api/users/avatars/Edi.jpg
+message: <p>Hi. The Add Deployable Dependencies does not exists in VS2012. I saw MS answers on <a href="http://connect.microsoft.com/VisualStudio/feedback/details/735553/add-deployable-dependencies-missing-from-vs11-beta" rel="nofollow noopener" title="http://connect.microsoft.com/VisualStudio/feedback/details/735553/add-deployable-dependencies-missing-from-vs11-beta">connect.microsoft.com/...</a> which says VS2012 will do it automatically. But when I publish the MVC3 site (upgrated from VS2010), there are no MVC3 dlls copied to bin.</p>

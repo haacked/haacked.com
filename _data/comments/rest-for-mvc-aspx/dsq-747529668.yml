@@ -1,0 +1,5 @@
+id: dsq-747529668
+date: 2009-08-17T21:06:00.0000000-07:00
+name: ranamauro
+avatar: https://disqus.com/api/users/avatars/ranamauro.jpg
+message: '<p>@Luke Sampson: the way you define a view for a particular request type is by providing an IResponseFormatHandler. There is an Atom sample (Product\sdk\MovieApp\AtomResourceSample) that illustrates how you would do this for the Atom format (Infrastructure\AtomFormatHandler.cs) and it is built on top of SyndicationItem &amp; SyndicationFeed.<br>The basic idea is that you can register handlers with the FormatManager, and each time an action on a controller has executed and provided a model, your handler will be called and asked if it can handle the response format that the request asked for (normally via Accept header), and if so it will be asked to reneder the response based on the model.<br>All of the above works for de-serializing requests (using the model binder infrastructure) and it is based on IRequestFormatHandler.</p>'

@@ -1,0 +1,5 @@
+id: dsq-747530648
+date: 2011-08-09T04:53:57.0000000-07:00
+name: Mike Vanderkley
+avatar: https://disqus.com/api/users/avatars/Mike Vanderkley.jpg
+message: <p>Hi Phil, I have a route class which returns a RouteValueDictionary. This var includes area/controller/action. So for methods like <code>Html.ActionLink</code> and <code>Html.BeginForm</code>; I have made extension so action defaults to null. So I endup with en extention where I can do <code>@Html.ActionLink("Edit", NewsRoutes.Edit(news))</code>. <br>However, I cannot make a similar extention for RenderAction as the action param is required. This example does not work.<br>public static void RenderAction(this HtmlHelper helper, RouteValueDictionary routeValues) { helper.RenderAction(null, routeValues); }<br>This appears inconsitent with ActionLink and BeginForm. (Mvc3 btw).<br></p>

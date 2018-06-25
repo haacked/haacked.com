@@ -1,0 +1,5 @@
+id: dsq-747519743
+date: 2007-04-19T23:40:06.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>...The point being that if TryParse was implemented using <code>ref</code> instead of <code>out</code>, its intentions are not as clear.</p>

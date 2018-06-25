@@ -1,0 +1,5 @@
+id: dsq-1508583472
+date: 2014-07-28T11:50:29.0000000-07:00
+name: Latish
+avatar: https://disqus.com/api/users/avatars/latish83.jpg
+message: <p>Great stuff! If I have a project with binaries checked in, I use the this for ignoring them in diffs</p><p>dt = !git difftool -- $(git difftool --name-only | grep -Ev "*dll")</p>

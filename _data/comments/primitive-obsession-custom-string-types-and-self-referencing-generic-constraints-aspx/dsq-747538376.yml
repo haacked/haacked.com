@@ -1,0 +1,5 @@
+id: dsq-747538376
+date: 2012-09-29T22:31:35.0000000-07:00
+name: Nikhil Kothari
+avatar: https://disqus.com/api/users/avatars/Nikhil Kothari.jpg
+message: <p>Nice post. I agree this can be a slippery slope, but there are a few key scenarios where this seems like an obvious option, both in terms of simplicity and readability. Dynamic languages tend to go this route, and while implicit conversions can be the source of errors, in more targeted scenarios, they could help.<br>I personally wish it would be possible to have some middle ground, where you could add what appear like language keywords. Example:<br>x.BlogUrl = url(http://...)<br>Similar to typeof() that already exists. They make it clear what is going on with minimal syntax overhead.<br>I guess I went further and also implied there isn't needs for quotes around that string.<br>Almost toying with the idea that perhaps a class that offers a ctor with a string parameter, or if there were an explicit conversion from string on the class, that the language would/could support such a syntax.</p>

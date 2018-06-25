@@ -1,0 +1,5 @@
+id: dsq-747530692
+date: 2009-11-21T14:00:00.0000000-08:00
+name: Kjartan
+avatar: https://disqus.com/api/users/avatars/Kjartan.jpg
+message: <p>Hi,<br>When I used 3.5SP1 i was told I couldn't use CustomValidationAttribute to the full extent, however i was told in a post the CustomValidationAttribute was working in 4.0. Here is how I try to use it in 4.0, but the ValidationContext is null. Any ideas why:<br>public class MyViewModel<br>{<br>public Contact MyContact { get; set; }<br>}<br>public class Contact<br>{<br>[CustomValidation(typeof(CustomValidator), "ValidateContact")]<br>public string Username { get; set; }<br>}<br>public class CustomValidator {<br>public static ValidationResult ValidateContact(object value, ValidationContext ctx)<br>{<br>// We want the object instance here<br>var test = ctx.ObjectInstance;<br>return ValidationResult.Success;<br>}<br>}<br>It would be great if we could get the Contact instance in the ctx.ObjectInstance, that way we could also perform comparison validation with other properties in the object.<br><br></p>

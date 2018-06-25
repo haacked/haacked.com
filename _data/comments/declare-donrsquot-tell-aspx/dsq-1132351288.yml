@@ -1,0 +1,6 @@
+id: dsq-1132351288
+replyToId: dsq-1132340393
+date: 2013-11-21T00:32:06.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>What you interpret as "smugness" is merely my (perhaps ham fisted) attempt to bring a little levity to a dry subject. If you know me, you know that it's actually out of character (and thus hopefully humorous). I'm one of the least smug people I know. :)</p><p>&gt; Someone with experience with neither will find your example contrived and totally opaque.</p><p>This is true, initially. But I think that's just a matter of unfamiliarity. You could post any implementation in Scala and I might find it opaque at first because I'm not familiar with it.</p><p>But I tend to find declarative code more communicative of intent even if I don't fully understand the syntax. Once you understand the language and concepts, it's clearer.</p><p>It's not unlike me saying, "go north 200 steps, east 100 steps, north 500 steps" instead of "Go to the store.' Yes, if you don't know my neighborhood, the first set of instructions are easier to follow. But once you do, you realize the second set of instructions are clearer and easier to maintain.</p>

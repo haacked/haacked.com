@@ -1,0 +1,5 @@
+id: dsq-747530660
+date: 2009-11-19T12:40:00.0000000-08:00
+name: Phil
+avatar: https://disqus.com/api/users/avatars/Phil.jpg
+message: <p>A scenario I never see is a validator that hits the database to check the name is unique, say if the user is registering and you require a unique username. Anyone know of any good examples for MVC 1 or 2?</p>

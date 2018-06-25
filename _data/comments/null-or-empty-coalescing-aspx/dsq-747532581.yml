@@ -1,0 +1,5 @@
+id: dsq-747532581
+date: 2010-07-06T06:00:24.0000000-07:00
+name: Steve Calvert
+avatar: https://disqus.com/api/users/avatars/Steve Calvert.jpg
+message: <p>Wrestling with C# this way makes me so jealous of javascript sometimes.<br>var result = value || 'default';<br>It's nice that 0, '', false, undefined, and null all evaluate to false.<br>sigh...</p>

@@ -1,0 +1,5 @@
+id: dsq-747532082
+date: 2010-04-30T22:08:34.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@kad1r I addreessed that in my post. <br></p><blockquote>Please note, that you still can’t request /web.config because that would try to request web.config in the root of your web application and ASP.NET won’t allow that for good reason!<br>You can't request a physical web.config file. Or any file with *.config extension.<br>@Bradley the official product name is ASP.NET MVC 2 without the decimal. The book as it's listed on Amazon needs a few corrections.</blockquote>

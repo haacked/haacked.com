@@ -1,0 +1,5 @@
+id: dsq-747537471
+date: 2012-01-14T17:41:43.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>@Royston great point! I wanted to show a significant enough chunk of the string because in certain cases (such as when you're applying a normalization to the string), you want to see the <em>pattern</em> of differences to provide more information about what wen't wrong.<br>One improvement I could make to my method is to put a max # of characters I'll show and show the segment near the first difference like NUnit does.<br>Going even further, the differences could be spaced apart. So maybe show up to X differences and Y characters around each difference. That'd be a nice improvement. :)</p>"

@@ -1,0 +1,5 @@
+id: dsq-747514268
+date: 2008-03-27T21:10:45.0000000-07:00
+name: rdeman
+avatar: https://disqus.com/api/users/avatars/rdeman.jpg
+message: <p>when I signed up my <a href="http://SF.net" rel="nofollow noopener" title="SF.net">SF.net</a> project the welcome email only told me about CVS - not SVN. <br>It seems that https://{project unix name}.svn.sourceforge.net/svnroot/{project unix name}/ for my project doesnt exist -- any idea why?</p>

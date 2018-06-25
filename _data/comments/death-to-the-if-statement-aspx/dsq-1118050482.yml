@@ -1,0 +1,6 @@
+id: dsq-1118050482
+replyToId: dsq-1118042472
+date: 2013-11-11T06:29:27.0000000-08:00
+name: Alanna Muir
+avatar: https://disqus.com/api/users/avatars/alannamuir.jpg
+message: <p>Conditional branching is the most costly operation a processor can undertake. Intel has spent billions optimizing their branch prediction and even today, a large amount of chip real-estate is dedicated to branch prediction. Jumps, however, are absolute and cost very little, even if they are subroutine calls. So the elimination of branches is a very valuable thing. On x86 processors, there are integer and floating point MAX operators that pose no risk of cache faults or mis-prediction penalties. Now, whether the CIL can generate SIMD instructions in cases like this to optimize out both the branch and subroutine call, I don't know.</p>

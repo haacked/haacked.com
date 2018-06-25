@@ -1,0 +1,5 @@
+id: dsq-747523256
+date: 2007-11-25T12:50:23.0000000-08:00
+name: Jon Galloway
+avatar: https://disqus.com/api/users/avatars/Jon Galloway.jpg
+message: <p>Hmm - that's a closer call on the Subversion server. I'd still bet that it'd be quicker to install Subversion (especially with something like VisualSVN), then dump and import the Subversion repository than to compress, copy, and extract the VM image. But I agree that as soon as you hit problem one with the SVN install, the VM starts to look like a smarter choice.</p>

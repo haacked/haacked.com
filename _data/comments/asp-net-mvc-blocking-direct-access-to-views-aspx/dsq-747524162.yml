@@ -1,0 +1,5 @@
+id: dsq-747524162
+date: 2008-02-12T23:57:31.0000000-08:00
+name: Chris Ortman
+avatar: https://disqus.com/api/users/avatars/Chris Ortman.jpg
+message: "<p>@Scott: Even in rails the RoutingEngine doesn't have any 'default' behavior. The generator does however setup the conventional controller/action routes.<br>Think about how you would build it. Would you have the routing engine automatically redirect anything requested from /views ? What if I have a views controller or area? So now you got to add complexity to the routing engine to control the behavior anyway.<br>When it really is as simple as having the MVC project template generate a web.config file with the proper handler mappings.<br>That said, I don't think either solution is ideal. I would much rather have a 'public' folder that is setup in IIS with the rest of my app code in a level above.<br>@Aaron: +1<br> I like the Rails 2.0 naming convention of viewname.viewengine.responseformat. So something more like View.aspx.html</p>"

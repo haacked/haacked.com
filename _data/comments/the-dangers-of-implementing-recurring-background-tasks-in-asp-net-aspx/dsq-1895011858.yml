@@ -1,0 +1,5 @@
+id: dsq-1895011858
+date: 2015-03-08T08:12:26.0000000-07:00
+name: jason
+avatar: https://disqus.com/api/users/avatars/jason.jpg
+message: <p>A scenario I <a href="http://www.filmrally.com/" rel="nofollow noopener" title="http://www.filmrally.com/">never</a> see is a validator that hits the database to check the name is unique, say if the user is registering and you require a unique username. Anyone know of any good examples for MVC 1 or 2?</p>

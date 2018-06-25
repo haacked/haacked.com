@@ -1,0 +1,5 @@
+id: dsq-747531185
+date: 2010-01-05T17:43:44.0000000-08:00
+name: David Rhodes
+avatar: https://disqus.com/api/users/avatars/David Rhodes.jpg
+message: <p>We do something similar but use the jQuery metadata plugin to store the element to close with the link class, like so<br>    // Expandable Content<br>    // eg class="expandable {ctrl:'ID OR CLASS OF ELEMENT TO TOGGLE'}"<br>    //    class="expandable {ctrl:'.expandableContent'}"<br>    $(".expandable").click(function() {<br>        $($(this).metadata().ctrl).toggle();<br>    });</p>

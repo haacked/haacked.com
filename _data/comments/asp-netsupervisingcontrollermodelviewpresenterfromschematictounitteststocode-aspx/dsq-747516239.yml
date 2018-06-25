@@ -1,0 +1,5 @@
+id: dsq-747516239
+date: 2008-12-28T05:25:05.0000000-08:00
+name: Edward
+avatar: https://disqus.com/api/users/avatars/Edward.jpg
+message: <p>I agree that this is an example of Passive View rather than Supervising Controller.<br>Since Webforms databinding is essentially read-only, I was wondering how the Supervising Controller pattern could be easily implemented.  Unlike Winforms, the 'model' does not get modified as databound controls are interacted with and so the presenter must obtain any user input in one of two ways:<br>- A specialized EventArgs on the View events (or a parameterized method on the presenter if calling directly without events)<br>- By directly requesting the input from the View.<br>Neither solution feels like Supervising Controller to me.<br>Great article and example of Passive View, Phil :)</p>

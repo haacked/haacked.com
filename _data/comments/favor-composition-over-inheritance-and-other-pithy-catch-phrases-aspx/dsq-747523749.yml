@@ -1,0 +1,5 @@
+id: dsq-747523749
+date: 2007-12-10T21:38:22.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Larry Yeah, I should have pointed out that in various places, when I mention that subclassing is a valid method in some particular case, people have thrown "Composition over Inheritance" at me as an almost automatic response, leaving out the <em>favor</em> part, which I believe is the key word. I changed the title of the post to reflect that.<br>As I said, I <em>believe</em> that is good advice. I really do. But to me, following that advice is less important than understanding why it exists. Once you understand it, then I believe in the right cases, you'll make a good choice.<br>@Justin I didn't mean to insinuate that Singleton nor Template Method are universally bad patterns. Actually, I like the Template Method pattern. It's a counterpoint to composition because it requires inheritance. It's an example of usability in API design.</p>

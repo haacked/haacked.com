@@ -1,0 +1,5 @@
+id: dsq-747523014
+date: 2007-10-08T04:12:35.0000000-07:00
+name: James
+avatar: https://disqus.com/api/users/avatars/James.jpg
+message: <p>I agree with Pete when he says "It’s also to make the code as quick as possible to read for the next person who ends up working on it. "<br>But I disagree with his conclusions that that means add comments.  The comments will likely start to lie after a while and the code will have a better chance of telling the truth over the long run.  The blocks of code that Pete commented would be more expressive if they were extracted as methods, named to describe what is being done.</p>

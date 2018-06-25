@@ -1,0 +1,5 @@
+id: dsq-747510204
+date: 2007-05-04T01:39:35.0000000-07:00
+name: anon
+avatar: https://disqus.com/api/users/avatars/anon.jpg
+message: <p>Great regex, but just to note it doesn't work with attributes that do not have quotes:<br>[div onclick=alert("hacked") ]<br>I've been messing with the regex as it is and there doesn't seem to be an easy way to support all three styles.<br>any ideas?</p>

@@ -1,0 +1,5 @@
+id: dsq-747515161
+date: 2006-05-24T09:25:00.0000000-07:00
+name: Jeremy
+avatar: https://disqus.com/api/users/avatars/Jeremy.jpg
+message: <p>In regards to the key constraints of software development, my experience has been that Quality is always the first to be de-prioritized, even though management won't admit such a thing. I believe this is a pretty consistent implied policy.<br>Management usually:<br>1. Can't (or won't) acquire any more resources for one reason or another.<br>2. Won't push back the release date (which is usually arbitrary).<br>3. Won't cut features.<br>The development team will say, "OK we'll do our best!". And in the end, they will cut so many corners and take so many shortcuts to get there that the end result is a poor quality product, which is difficult to maintain, usually has performance issues, and sometimes does not even meet the requirements specified to begin with (if they were lucky enough to have a decent spec).</p>

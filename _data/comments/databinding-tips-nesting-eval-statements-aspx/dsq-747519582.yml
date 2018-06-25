@@ -1,0 +1,5 @@
+id: dsq-747519582
+date: 2007-04-12T04:07:46.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>Setting up the CSSUnit tests would be as time consuming as writing the CSS itself.<br>I can see it now.<br>Client: \"Wait, I want you to move that two pixels to the left. Hmm.... No. Let's move it one pixel to the right and double the border. Hmm... Now that I see it. No, let's make that background slightly more yellow and move it right one pixel to where it was.\"<br>You: \"AAAAAAGGHHH!!!!\" *rips hair out of head*<br>The only CSS Unit test that would be useful is perhaps generating a test off of a Photoshop layout. But then, you'd probably never pass that test.<br>Client: \"Hey, the text isn't antialiased like the photoshop mockup. I want it to look *exactly* like the mockup.\"<br>You: \"AAAAAAAAIIEEEEEEEEEEEEE!!!\" *staples hand with stapler*</p>"

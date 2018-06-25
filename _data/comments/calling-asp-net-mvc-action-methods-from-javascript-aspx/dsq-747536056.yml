@@ -1,0 +1,5 @@
+id: dsq-747536056
+date: 2012-02-14T17:30:46.0000000-08:00
+name: Kami
+avatar: https://disqus.com/api/users/avatars/Kami.jpg
+message: "<p>@Tom McKearney I was able to model bind the data, but only if I pasted in a JSON object with the name of the param.  So if your action had an MyModel parameter called \"model\", you'd have to to send in an object like { model: { prop1: 'prop1value' } }</p>"

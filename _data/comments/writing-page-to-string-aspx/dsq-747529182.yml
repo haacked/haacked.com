@@ -1,0 +1,5 @@
+id: dsq-747529182
+date: 2009-05-30T14:34:00.0000000-07:00
+name: Jon
+avatar: https://disqus.com/api/users/avatars/Jon.jpg
+message: <p>I recently required the need to return the output from a Partial view to put in a JSON object. I found <a href="http://thriftybliss.spaces.live.com/blog/cns!58DA805F37F31F20!170.entry" rel="nofollow noopener" title="http://thriftybliss.spaces.live.com/blog/cns!58DA805F37F31F20!170.entry">this</a> and just wondered if this was a better approach?</p>

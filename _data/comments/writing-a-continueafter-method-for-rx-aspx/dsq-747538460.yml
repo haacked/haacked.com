@@ -1,0 +1,5 @@
+id: dsq-747538460
+date: 2012-10-08T22:23:25.0000000-07:00
+name: Caleb
+avatar: https://disqus.com/api/users/avatars/Caleb.jpg
+message: '<p>I think I would implement it using Materialize() as shown in this gist: <a href="https://gist.github.com/3856008" rel="nofollow noopener" title="https://gist.github.com/3856008">https://gist.github.com/3856008</a><br>I think it makes things a little clearer, although it may perform more poorly due to the need to create notification objects.</p>'

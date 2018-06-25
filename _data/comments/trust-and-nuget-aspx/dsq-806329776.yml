@@ -1,0 +1,6 @@
+id: dsq-806329776
+replyToId: dsq-806322461
+date: 2013-02-20T17:10:31.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I think NuGet is slightly different from Terminal or chat apps in its ability to pull down more software. I think of it as more like a browser.</p><p>The idea I'm trying to get at is to not prevent you from doing anything. Nothing in here restricts you.</p><p>Rather I'm trying to make sure NuGet has reasonable support for giving you the tools to protect yourself.</p><p>Much like when someone emails you a link to https://203.###.###/totally-safe-file.exe and you click on it and the browser lets you know "Hey, that might destroy your house." but it still lets you continue if you really want to. :)</p>

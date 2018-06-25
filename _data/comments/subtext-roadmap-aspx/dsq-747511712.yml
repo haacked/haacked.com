@@ -1,0 +1,5 @@
+id: dsq-747511712
+date: 2005-05-10T02:24:00.0000000-07:00
+name: Ryan
+avatar: https://disqus.com/api/users/avatars/Ryan.jpg
+message: <p>I like .PNGs, but .Text doesn't, which pisses me off.  I agree whole-heartedly on the CSSification of the whole thing, that would make it much nicer.<br><br><br><br>I haven't dug into it, but based upon casually perusing the .Text source I saw a bunch of HttpHandlers that looked a bit goofy.  I think that was mostly about supporting multiple blogs, but it seemed like it could be drastically simplified by writing some things to disk and letting IIS serve them up as normal.<br><br><br><br>The other thing I've always wanted is priveleged users, so you could have posts meant for the public, and then have some posts only available to logged in users.  Then on corporate blogs (like mine) I could complain and then flip the "private" bit that prevents the general public from seeing possibly sensitive information.   Or on a more personal blog, write about my Friday night without worrying about my mom googling to it.</p>

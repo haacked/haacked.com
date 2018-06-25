@@ -1,0 +1,5 @@
+id: dsq-747534451
+date: 2011-02-14T21:11:22.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hi All, please ask NuGet specific questions in our <a href="http://nuget.codeplex.com/discussion" rel="nofollow noopener" title="NuGet Discussions">discussion forums</a> so that everyone can benefit from the answers.<br>I'll answer what I can here.<br>@Joe do you mean managed C++?<br>@Gabriel Root of the solution or root of the project? By default, NuGet packages are placed in a subfolder in the root of the solution. It would help to understand what exactly you're trying to solve.<br>@Tim I think we have an issue logged for this, but it's in our backlog. For now, I would create 2 packages, one for each language.<br>@Tom What do you mean by that?<br>@Simone post a question in our forums on this one please.<br>@Bjorn I do a lot of testing. 54 is way too low as I sometimes clear them out. :)<br>@Developer Seer "Pack Clouds"? What is that?</p>

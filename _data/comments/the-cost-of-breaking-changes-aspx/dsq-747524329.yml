@@ -1,0 +1,5 @@
+id: dsq-747524329
+date: 2008-03-08T03:30:57.0000000-08:00
+name: David Nelson
+avatar: https://disqus.com/api/users/avatars/David Nelson.jpg
+message: <p>@Morten,<br>The problem with that is that you can't actually add functionality by adding a new interface, since a) interfaces cannot contain any implementation, and b) existing classes won't automatically implement the new interface. With a base class, you can add new features which will propagate to existing child classes automatically. Also, since existing APIs will be using the old interface instead of the new, this can result in a lot of downcasting. These are the advantages that ABCs have over interfaces that Microsoft has used to justify this particular design guideline. And they are legitimate considerations. However, in my opinion, and obviously in the opinion of many others here, they are not enough to overcome the downsides of using ABCs in many if not most cases.</p>

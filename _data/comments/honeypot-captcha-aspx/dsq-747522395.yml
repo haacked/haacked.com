@@ -1,0 +1,5 @@
+id: dsq-747522395
+date: 2008-04-22T09:18:54.0000000-07:00
+name: okcdarksage
+avatar: https://disqus.com/api/users/avatars/okcdarksage.jpg
+message: <p>I like the ideas that I'm seeing here, but I think we need to reiterate that there is <strong>no silver bullet solution</strong>.  <br>On the note of the CSS-based technique and screen readers, let's not forget that media rules can be specified for <em>aural</em> on your <code>style</code> or <code>link</code> elements, or, using the @ rules in CSS.  <br>Let's hope the work continues on defeating this useless waste of space and time.</p>

@@ -1,0 +1,6 @@
+id: dsq-806230171
+replyToId: dsq-806001588
+date: 2013-02-20T15:24:25.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>Reharik: One of the guiding principles in NuGet's design was to try and be as close to what developers were already doing manually. The vast majority of packages simply put DLLs in a known location (packages folder) and add an assembly reference.</p><p>We considered naming it the \"lib\" folder, but decided it would cause too much conflict with folks already using that convention. But I think if we had, it'd highlight just how little magic a package has.</p><p>Now with config transforms and PowerShell scripts, packages can do a lot more than just drop the assemblies in a location, but those are actually more rare than you think.</p><p>Try reading the <a href=\"http://docs.nuget.org/\" rel=\"nofollow noopener\" title=\"http://docs.nuget.org/\">NuGet Docs</a> site and hopefully it'll make you more comfortable with what NuGet does.</p><p>For example, another guiding principle is we only affect your solution. We never change things on your machine like registry settings etc. So after a package install, a git diff command should show you everything that changed.</p><p></p>"

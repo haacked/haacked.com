@@ -1,0 +1,5 @@
+id: dsq-747535835
+date: 2011-08-11T01:29:03.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Justin gives a quick view of what's happening with your controller at <em>runtime</em>. For example, what are all the action filters being applied to an action method? That includes those directly applied along with global filters etc.</p>

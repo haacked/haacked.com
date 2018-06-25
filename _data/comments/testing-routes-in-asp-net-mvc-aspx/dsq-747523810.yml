@@ -1,0 +1,5 @@
+id: dsq-747523810
+date: 2008-01-06T09:10:02.0000000-08:00
+name: Lance Fisher
+avatar: https://disqus.com/api/users/avatars/Lance Fisher.jpg
+message: <p>Hi Phil, thanks for this I've been able to start testing routes like this, and I really like it.  <br>I'm wondering why in your SetMockedRequestUrl() method you disallow using domains in the urls.  You throw an error if the url does not start with "~/".  Is this a limitation of the routing engine?  I am trying to set up a site that has routing similar Amazon S3.  That is, both ~/mysite/blog and <a href="http://mysite.com/blog" rel="nofollow noopener" title="mysite.com/blog">mysite.com/blog</a> will route to the same place.  The routing should allow for any number of mysite's to be created.  For development, I've added several entries to my hosts file to route a couple different domains to my app.<br>Thanks for any tips.</p>

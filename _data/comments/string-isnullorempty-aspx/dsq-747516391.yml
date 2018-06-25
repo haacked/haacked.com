@@ -1,0 +1,5 @@
+id: dsq-747516391
+date: 2012-08-16T09:14:46.0000000-07:00
+name: Sang
+avatar: https://disqus.com/api/users/avatars/Sang.jpg
+message: "<p>@Jon Galloway Aug 23, 2006 4:30 PM # re: String.IsNullOrEmpty I like the static method, but I wish there were a member method (which just called the static) as well. I'm always thrown when myString.IsNullOrEmpty() <br>Its, string.IsNullorEmplty(myString)<br>try this!!!</p>"

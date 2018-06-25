@@ -1,0 +1,6 @@
+id: dsq-2755294154
+replyToId: dsq-2755158866
+date: 2016-06-28T11:06:21.0000000-07:00
+name: Nyerguds
+avatar: https://disqus.com/api/users/avatars/maartenmeuris.jpg
+message: <p>Wow. That's mad. So DateTime is just a UInt64, with a couple of its bits reserved for special options? I'd have expected it to save that Calendar object if it were given in the constructor, but all it does with these objects is using them to calculate those ticks...</p><p>Interesting stuff, thanks for linking.</p>

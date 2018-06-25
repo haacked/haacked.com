@@ -1,0 +1,5 @@
+id: dsq-2441942689
+date: 2016-01-05T18:43:21.0000000-08:00
+name: thomas wu
+avatar: https://disqus.com/api/users/avatars/wthomasu.jpg
+message: "<p>I got little problem, when i using Chrome Browser and click the back button,<br>because the input with type=\"hidden\" when dynamically set values didn't handled properly by the Chrome Browser.</p><p>maybe we can change <br>&lt;input type=\"hidden\" name=\"products.Index\" value=\"my value\"/&gt;<br>to <br>&lt;div style=\"display: none\"&gt;<br>    &lt;input type=\"text\" name=\"products.Index\" value=\"my value\"/&gt;<br>&lt;/div&gt;</p>"

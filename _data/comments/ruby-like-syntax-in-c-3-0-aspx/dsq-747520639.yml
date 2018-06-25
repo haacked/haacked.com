@@ -1,0 +1,5 @@
+id: dsq-747520639
+date: 2007-05-25T01:01:32.0000000-07:00
+name: Miguel de Icaza
+avatar: https://disqus.com/api/users/avatars/Miguel de Icaza.jpg
+message: <p>I like this very much.<br>Over the years there have been other small things that could have been done to C# to make it for more "scripty".<br>It might be a good idea to setup a public MIT/X11 licensed library (that anyone can use/copy/paste, no strings attached) that tracks some of these extension methods.<br>For example, for the longest time I have wanted to be able to write:<br>string x = "hello" [1,2]<br>Miguel.</p>

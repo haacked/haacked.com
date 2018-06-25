@@ -1,0 +1,5 @@
+id: dsq-747523673
+date: 2008-03-30T04:37:42.0000000-07:00
+name: anonymous
+avatar: https://disqus.com/api/users/avatars/anonymous.jpg
+message: <p>Can someone explain what the big deal behind the requirement to put that attribute above the controller methods is?  Is there some valid design aspect that you can make a good point on or is this just the fact that developers are too lazy to put a simple attribute on a method?  Which is it here?  Is it a matter of just sickening nerd coders that have nothing to do or is there more behind the problem of simply having to include a lousy attribute on a method.  I mean someone please explain this "problem" to me cause I don't get it.</p>

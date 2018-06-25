@@ -1,0 +1,5 @@
+id: dsq-747525897
+date: 2008-08-07T03:07:09.0000000-07:00
+name: Elijah Manor
+avatar: https://disqus.com/api/users/avatars/Elijah Manor.jpg
+message: "<p>I was getting a JavaScript error in Firefox involving the removeAttribute method in the Flash. I updated the code to the following and it appears to work in both Firefox and IE now.<br>function flash(selector) {<br>   $(selector)<br>       .css('opacity', 0)<br>       .animate({ backgroundColor: 'khaki', opacity: 1.0 }, 800)<br>       .animate({ backgroundColor: '#ffffff' }, 350, function() {<br>       $(this).removeAttr('filter');<br>   });<br>}<br>** New! Track my life at <a href=\"http://twitter.com/elijahmanor\" rel=\"nofollow noopener\" title=\"http://twitter.com/elijahmanor\">http://twitter.com/elijahmanor</a> **</p>"

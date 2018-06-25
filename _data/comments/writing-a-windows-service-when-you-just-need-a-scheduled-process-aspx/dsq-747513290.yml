@@ -1,0 +1,5 @@
+id: dsq-747513290
+date: 2008-09-24T04:39:23.0000000-07:00
+name: Karlo
+avatar: https://disqus.com/api/users/avatars/Karlo.jpg
+message: <p>Somewhat surprised that anyone who have previously written a windows service would consider it difficult to write. It takes perhaps 30 mins to set up your framework with timer (from scratch), 2 minutes to deploy using installutil and yes, looks significantly more professional! I couldn't dream of handing a client's IT Admin an .exe and asking them to schedule it to run daily.<br>I agree to a person that has not yet written a windows service it might seem a bit complex, however it is essentially a windows form that is invisible which also won't need to be re-written when the client's requirement becomes more complex.<br></p>

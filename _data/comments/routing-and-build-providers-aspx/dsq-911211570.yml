@@ -1,0 +1,5 @@
+id: dsq-911211570
+date: 2013-05-28T08:48:33.0000000-07:00
+name: Vinothkumar.R
+avatar: https://disqus.com/api/users/avatars/Vinothkumar.R.jpg
+message: "<p>After adding it, I got below error, any sol?</p><p>There is no build provider registered for the extension</p><p>Description: An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code.</p><p>Exception Details: System.Web.HttpException: There is no build provider registered for the extension '.svc'. You can register one in the &lt;compilation&gt;&lt;buildproviders&gt; section in machine.config or web.config. Make sure is has a BuildProviderAppliesToAttribute attribute which includes the value 'Web' or 'All'.</p>"

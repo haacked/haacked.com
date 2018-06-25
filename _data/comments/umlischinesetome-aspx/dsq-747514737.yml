@@ -1,0 +1,5 @@
+id: dsq-747514737
+date: 2006-04-14T22:48:00.0000000-07:00
+name: Eric
+avatar: https://disqus.com/api/users/avatars/Eric.jpg
+message: <p>There's a really good discussion of why UML never caught on -- and is in fact useless for the things it ought to be most useful for -- in the book Software Factories.<br>In short, it's incomplete or ambiguous in some vital areas, it's too general and thus doesn't map at all well to any existing language (making automated generation to/from code effectively impossible), etc.<br>To be really useful, a modeling language has to have direct analogues in the language it's being implemented in, so that code generation tools can go to work. You largely can't do that with UML.</p>

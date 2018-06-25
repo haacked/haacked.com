@@ -1,0 +1,5 @@
+id: dsq-747523203
+date: 2007-10-31T17:34:00.0000000-07:00
+name: Arun
+avatar: https://disqus.com/api/users/avatars/Arun.jpg
+message: <p>In one of the companies I worked with I would interview C# devs we wanted to hire. If someone was doing particularly well I'd throw this question at him/her and see what they had to say. A bit mean you might think but it was still quite fun :D<br>Also, there's that other chestnut. Is string a reference or value type. And if the answer was that its a reference type (which is correct) then how come the + operator works to concatenate strings? You'd be surprised how many of the new breed of devs don't know about operator overloading (especially those from a Java background ;))</p>

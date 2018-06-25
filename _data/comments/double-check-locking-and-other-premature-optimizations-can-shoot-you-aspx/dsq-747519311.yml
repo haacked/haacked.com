@@ -1,0 +1,5 @@
+id: dsq-747519311
+date: 2007-06-14T18:21:11.0000000-07:00
+name: Hugh Moran
+avatar: https://disqus.com/api/users/avatars/Hugh Moran.jpg
+message: <p>Thank you Phil !<br>I only came across this 'double checked locking' discussion recently. The last time I saw anything like it was in 1987 when I first began to write multithreaded shared memory code. I dreamt it up when designing some API and 30 minutes later discarded it, realsiing it was clouded thinking!<br>Why do it's advocates never ask themselves "Hmm I wonder why I never see this in device drivers or kernels?" <br>Surely it would be in them if there were no other (better) way?<br>Even if it were necessary to handle singleton creation 'manually' like this, it is far better to simply use InterlockedCompareExchange on some static private integer as the means of testing.<br>By definition this could ONLY return its initial value ONCE and is easy to understand.<br>I don't know Dave Cutler, but I'd be a bit surprised if he didnt think 'double checked locking' was a load of *&amp;$%^!<br>Regards<br>Hugh<br></p>

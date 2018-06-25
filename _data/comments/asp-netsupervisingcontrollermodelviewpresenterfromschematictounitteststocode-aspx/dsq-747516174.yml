@@ -1,0 +1,5 @@
+id: dsq-747516174
+date: 2006-12-07T01:55:44.0000000-08:00
+name: Sean Chambers
+avatar: https://disqus.com/api/users/avatars/Sean Chambers.jpg
+message: <p>I like your approach with using events to drive the controller. It seems like a much more object oriented approach of an event model.<br>Once question I have though that was not covered in your post, where would you run validation checks? I assume in the view? or would that task be sent to the domain model to check against the specific domain objects?<br>Thats for the posting! I'm trying to implement it in my next project and so far so good!<br>Sean</p>

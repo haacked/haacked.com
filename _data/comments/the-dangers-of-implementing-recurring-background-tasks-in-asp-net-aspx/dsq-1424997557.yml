@@ -1,0 +1,5 @@
+id: dsq-1424997557
+date: 2014-06-08T01:20:00.0000000-07:00
+name: odinserj
+avatar: https://disqus.com/api/users/avatars/odinserj.jpg
+message: '<p>Last week I checked the last statement of this awesome article – that writing code is like skydiving, so I can claim myself as an expert :D</p><p>If you want to run any kind of background tasks: fire-and-forget, delayed, or recurring, inside ASP.NET application in a reliable way with single line of code, try <a href="http://hangfire.io" rel="nofollow noopener" title="http://hangfire.io">http://hangfire.io</a> It is backed by persistent storage – Redis, SQL Server, SQL Azure or MSMQ (RabbitMQ support is coming), and works anywhere – on shared hosting, dedicated server or in cloud.</p>'

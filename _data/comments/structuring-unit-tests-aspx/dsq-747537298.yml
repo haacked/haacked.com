@@ -1,0 +1,5 @@
+id: dsq-747537298
+date: 2012-01-02T04:23:29.0000000-08:00
+name: Tamizhvendan S
+avatar: https://disqus.com/api/users/avatars/tamizhvendan.jpg
+message: <p>Nice write up Haack.<br>An another way of structuring unit tests which I personally prefer is having separate directory in the test project for each class that we wanted to test and having separate test class for each methods of that class underneath that directory.<br>For Example,<br>TitlelizerTests  <br>   --&gt; Titlelize<br>         --&gt; ReturnDefaultTitleForNullName<br>         --&gt; AppendTitleToName<br>   --&gt; Knightify<br>         --&gt; ReturnDefaultTitleForNullName<br>         --&gt; AppendSirForMaleNames<br>         --&gt; AppendDameForFemaleNames         <br>I feel, its hard to generalize and follow the same structure across all the projects.</p>

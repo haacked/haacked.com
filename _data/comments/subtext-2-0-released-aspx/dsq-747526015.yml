@@ -1,0 +1,5 @@
+id: dsq-747526015
+date: 2008-09-02T06:50:32.0000000-07:00
+name: Gary Davis
+avatar: https://disqus.com/api/users/avatars/Gary Davis.jpg
+message: <p>Well, I got the upgrade working. Basically, it all came down to the web.config. Using the source version and VS2008, I changed the target from Framework 2.0 to 3.5, published to my Win Server 2008 and that got Subtext 2.0 to work with a temporary fresh database.<br>I then changed the connection back to the old database and retried the upgrade and now the upgrade worked. The upgrade did a step that may not be in the manual zip file of sql scripts - it did a schema upgrade as the first step.<br>Thanks,<br>Gary<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747531271
+date: 2010-01-02T01:26:47.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I agree with Dan and that's the way I do it. In the case of comments, I have a status column because a comment could be deleted, marked as spam, needing moderation, or approved.<br>I then have another interface that allows you to look at deleted comments (kind of like the recycling bin in Windows). You can <em>destroy</em> those items if you really need to free up space.<br>For the most part, I don't care so much about data hanging around as disk space is cheap and it doesn't hurt anything. But I do clean it out from time to time. The UI for destroying items doesn't have an UNDO. I figure if you've already moved the item to the trash, it's very unlikely you want to keep it.</p>

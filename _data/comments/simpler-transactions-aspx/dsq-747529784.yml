@@ -1,0 +1,5 @@
+id: dsq-747529784
+date: 2009-08-20T02:40:00.0000000-07:00
+name: Pat Gannon
+avatar: https://disqus.com/api/users/avatars/Pat Gannon.jpg
+message: "<p>I like how the code looks, but with regard to applying this approach broadly: how could you inject a mock or a fake of TransactionScope from a unit test (which doesn't touch the DB)?  There are scenarios where all of the DB updates resulting from a particular piece of business logic should be applied together in a transaction, and testing such logic without touching the database is ideal IMO.<br>Using TransactionScope directly, you could inject a TransactionScopeBuilder (which could be mocked) and then use that to instantiate your TransactionScope.  You could use the same approach with your Transaction.Do (and pass in the builder to the Do call), but it might make for somewhat awkward syntax, which might reduce the usefulness of this approach.</p>"

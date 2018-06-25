@@ -1,0 +1,5 @@
+id: dsq-747535090
+date: 2011-04-25T17:44:04.0000000-07:00
+name: Jon
+avatar: https://disqus.com/api/users/avatars/Jon.jpg
+message: <p>I like this approach Phil, thanks for the heads up. Previously I have just added the filter onto the base controller and added a property that "disabled" it for that request. So all my actions do not need to explicitly be marked as [Authorize] however on my login action I just need to decorate it with [Authorize(ByPass=true)]</p>

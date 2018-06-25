@@ -1,0 +1,5 @@
+id: dsq-747517466
+date: 2006-10-27T22:12:59.0000000-07:00
+name: vern
+avatar: https://disqus.com/api/users/avatars/vern.jpg
+message: <p>I disagree with the Stats &gt; Views.<br>I think this needs to be completed. There are other methods for getting similar info, but why not just pull the data from our own db?<br>But, then again, this may complicate the db provider implementation.<br>Phil, I realize you aren't blaming anyone. This just serves to highlight a bigger issue from my perspective; the overwhelming and overriding need for a point person/person in charge, etc. Someone who has a top-level view and can and should see all the possible ramifications of changes.<br>You are certainly proving your worth in that role with regards to subText. I personally thank you for that.</p>

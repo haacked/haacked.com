@@ -1,0 +1,5 @@
+id: dsq-1215599746
+date: 2014-01-24T15:09:47.0000000-08:00
+name: Imani
+avatar: https://disqus.com/api/users/avatars/biomancy.jpg
+message: <p>I was excitedly following along and adding this to a project I am writing tests for and then got to the end... oh well have to throw that away HttpRuntime.AppDomainAppPath was exactly what I needed to emulate. I should have read all the way through before anything.</p>

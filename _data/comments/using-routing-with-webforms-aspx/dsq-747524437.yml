@@ -1,0 +1,5 @@
+id: dsq-747524437
+date: 2008-12-06T21:33:57.0000000-08:00
+name: Mike
+avatar: https://disqus.com/api/users/avatars/Mike.jpg
+message: <p>I'm having the same problem as Andrew.  Everything works great but the pages loose their Session state.  Session is fine if I access the page via their full path rather than a route.  Any thoughts?</p>

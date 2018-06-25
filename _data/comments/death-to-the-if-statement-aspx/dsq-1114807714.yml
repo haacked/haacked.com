@@ -1,0 +1,6 @@
+id: dsq-1114807714
+replyToId: dsq-1114799348
+date: 2013-11-08T19:29:38.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Your implementation is incorrect. It's only going to pad the sequence with one value.</p><p>Why not just implement PadEnd in terms of existing LINQ operatorns?</p><p>public static IEnumerable&lt;t&gt;(this IEnumerable&lt;t&gt; source, T padValue = default(T))<br>{<br>    return source.Concat(Enumerable.Repeat(padValue, int.MaxValue));<br>}</p><p>Look familiar?</p>

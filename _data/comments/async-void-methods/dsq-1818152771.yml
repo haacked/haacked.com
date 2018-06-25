@@ -1,0 +1,5 @@
+id: dsq-1818152771
+date: 2015-01-26T11:33:57.0000000-08:00
+name: Bruno Juchli
+avatar: https://disqus.com/api/users/avatars/brunojuchli.jpg
+message: "<p>Since i'm quite \"afraid\" of `async void` i took the time to write a StyleCop rule. You can find it on Github <a href=\"https://github.com/BrunoJuchli/StyleCop.CSharp.Async.Rules\" rel=\"nofollow noopener\" title=\"https://github.com/BrunoJuchli/StyleCop.CSharp.Async.Rules\">https://github.com/BrunoJuc...</a> and Nuget <a href=\"https://www.nuget.org/packages/StyleCop.CSharp.Async.Rules\" rel=\"nofollow noopener\" title=\"https://www.nuget.org/packages/StyleCop.CSharp.Async.Rules\">https://www.nuget.org/packa...</a> . I'd<br> appreciate feedback if anything is missing or not working as it should. Since VS2015 is not that far away i guess i'll have to look into it again, quite soon. If someone has pointers on how this could be implemented for VS2015 without relying on 3rd party tools like StyleCop and FxCop i'd appreciate it, too.<br>Edit: fixed links :|</p>"

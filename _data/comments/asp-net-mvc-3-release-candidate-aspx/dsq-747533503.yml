@@ -1,0 +1,5 @@
+id: dsq-747533503
+date: 2010-11-09T12:35:20.0000000-08:00
+name: Erx
+avatar: https://disqus.com/api/users/avatars/Erx.jpg
+message: "<p>Just curious, will we be able to return several views in one go in mvc3's next release?<br>Mainly to solve the problems introduced by having to update several different areas of a web page, there are currently two solutions, 1): que the requests, and the user sees this queuing in action and the waiting incurred, 2): using really nasty JavaScript to split the response and place them under.different divs. This goes against everything mvc and web programming stands for.<br>I hope it's solved for mvc3 - if several view returns (in one request)  are supported I think so many other innovative use-cases would come out of this as well as solving the above problem  :).<br>Thanks. Also, what do other readers think?<br></p>"

@@ -1,0 +1,5 @@
+id: dsq-747516985
+date: 2008-02-19T06:27:01.0000000-08:00
+name: kevin
+avatar: https://disqus.com/api/users/avatars/kevin.jpg
+message: <p>thanks for the tip.I use log4net to access database and record message into several tables, but how can I get the row ID which I just recorded in the table?</p>

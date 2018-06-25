@@ -1,0 +1,5 @@
+id: dsq-747518663
+date: 2007-02-15T04:20:39.0000000-08:00
+name: Joshua Flanagan
+avatar: https://disqus.com/api/users/avatars/Joshua Flanagan.jpg
+message: <p>The reason for the confusion (and the reason Scott probably didn't know about it), is because this wasn't true until .NET 2.0.<br>With the ASP.NET 1.1 Label control, there was no AssociatedControlId property - it really was just a brain dead Literal that just rendered a span tag.<br>With all the fanfare of the new controls and functionality in 2.0, somehow a new property on the lowly Label control got overlooked ;)</p>

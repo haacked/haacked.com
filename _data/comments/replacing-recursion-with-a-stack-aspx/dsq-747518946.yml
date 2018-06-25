@@ -1,0 +1,5 @@
+id: dsq-747518946
+date: 2007-03-06T20:12:21.0000000-08:00
+name: Reg Braithwaite
+avatar: https://disqus.com/api/users/avatars/Reg Braithwaite.jpg
+message: <p>Great post!<br>I would say that anyone who can build a state stack knows recursion.<br>I'm surprised that recursion is less performant in some languages.<br>Recursion has issues when the size of the call stack exceeds some arbitrary limit imposed by the language, but for most non-ridiculous uses, like traversing a file system tree, the cost of a function call instead of iterating and calling functions to manipulate your own stack is not meaningful.<br><a href="http://weblog.raganwald.com/2006/09/scientists-announce-empirical-evidence.html" rel="nofollow noopener" title="http://weblog.raganwald.com/2006/09/scientists-announce-empirical-evidence.html">Scientists Announce Empirical Evidence for Greenspun's Tenth Rule</a></p>

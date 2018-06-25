@@ -1,0 +1,5 @@
+id: dsq-747526626
+date: 2011-08-09T23:10:20.0000000-07:00
+name: Aaron
+avatar: https://disqus.com/api/users/avatars/Aaron.jpg
+message: <p>I am trying to use UpdateModel in the Controller.Edit HttpPost handler so that properties not included in the form will not be nulled out.  I.e. the edit form only includes some properties of the entity that are editable.  Upon saving the results these get nulled out.  So I often fetch the original entity, and use UpdateModel on it to only update the provided fields.  I am trying to modify the example code to work with this technique, but have yet to figure this out.</p>

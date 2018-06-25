@@ -1,0 +1,6 @@
+id: dsq-1299613928
+replyToId: dsq-1294940543
+date: 2014-03-24T10:01:12.0000000-07:00
+name: LordLiverpool
+avatar: https://disqus.com/api/users/avatars/LordLiverpool.jpg
+message: "<p>OK I tried on a Turkish Windows machine, and as I suspected, it treats upper-case dotless I and lower-case dotless i as separate characters. I guess this is for compatibility. Imagine that locale-specific rules were used for casing; you create a folder called \"i\" and another folder called \"I\" on Turkish Windows, and that's OK because they're two separate characters. Now a colleague with German Windows tries to connect to your machine to access those folders, but he can't, because the names are identical according to Western casing rules.</p><p>Interestingly, if you create a folder named upper-case Greek sigma (Σ), even non-Greek Windows won't let you create a folder named with either of the two lower-case sigma characters (ς, σ), suggesting that it converts to upper case and compares.</p><p>The conclusion: locale-specific case changing is needed when you're dealing with end-user text, but file-system operations should continue to use the ordinary case-change functions.</p>"

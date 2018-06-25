@@ -1,0 +1,5 @@
+id: dsq-747524376
+date: 2008-03-13T20:41:30.0000000-07:00
+name: David Cornelson
+avatar: https://disqus.com/api/users/avatars/David Cornelson.jpg
+message: <p>I don't think I need the RTM as much as I need a stability factor for each code drop and the various sections of the framework. I'm the architect on a site redesign and the existing code has no structure and it's my belief that the best structure would be an MVC implementation. I could roll my own cheap MVC, which I've done many times, or I could use yours. I'd prefer to use yours because it would have the "MS" label and because it allows me to focus on other areas. I need some level of comfort in using this in a site that will go live in late summer. I don't want a "guarantee"...just some confidence in using it.</p>

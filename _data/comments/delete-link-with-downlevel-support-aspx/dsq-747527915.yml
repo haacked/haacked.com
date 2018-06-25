@@ -1,0 +1,5 @@
+id: dsq-747527915
+date: 2009-01-30T09:39:29.0000000-08:00
+name: Brian J. Cardiff
+avatar: https://disqus.com/api/users/avatars/Brian J. Cardiff.jpg
+message: '<p>One problem this solution is regarding nested FORM tags. Not all browser and not all jquery plugins (e.g.: validation) play nice with nested FORMs. One alternative would be to delay the render of those helpers forms until a safe zone in the markup is reached.<br>I should double check all the [delete] links in my web apps ;-).</p>'

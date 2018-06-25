@@ -1,0 +1,5 @@
+id: dsq-747532694
+date: 2010-07-26T23:40:13.0000000-07:00
+name: Rony
+avatar: https://disqus.com/api/users/avatars/Rony.jpg
+message: <p>Hi Phil,<br>I came across an interesting situation in one of my previous projects, HttpPostedFileBase file was NULL only in production and finally came to know that it was because of the IIS7 URL rewrite rules, is there any way you recommend to avoid that?</p>

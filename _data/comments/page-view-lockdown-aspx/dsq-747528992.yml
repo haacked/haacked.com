@@ -1,0 +1,5 @@
+id: dsq-747528992
+date: 2009-05-28T02:13:00.0000000-07:00
+name: Colin Jack
+avatar: https://disqus.com/api/users/avatars/Colin Jack.jpg
+message: <p>"That type is internal so we can’t simply inherit it. Fortunately, what we can do is simply grab the ASP.NET MVC source code for that type, rename the type and namespace, and then change it to meet our needs"<br>*Sigh*</p>

@@ -1,0 +1,5 @@
+id: dsq-747528674
+date: 2009-04-26T21:13:00.0000000-07:00
+name: Sean
+avatar: https://disqus.com/api/users/avatars/Sean.jpg
+message: '<p>@born2code: According to LINQPad,<br>Purchases.OrderBy (p =&gt; p.Price).Skip (5).Take(3)<br>becomes<br>SELECT [t1].[ID], [t1].[CustomerID], [t1].[Date], [t1].[Description], [t1].[Price] FROM ( SELECT ROW_NUMBER() OVER (ORDER BY [t0].[Price]) AS [ROW_NUMBER], [t0].[ID], [t0].[CustomerID], [t0].[Date], [t0].[Description], [t0].[Price] FROM [Purchase] AS [t0] ) AS [t1] WHERE [t1].[ROW_NUMBER] BETWEEN @p0 + 1 AND @p0 + @p1 ORDER BY [t1].[ROW_NUMBER]</p>'

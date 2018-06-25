@@ -1,0 +1,5 @@
+id: dsq-747527836
+date: 2009-01-27T06:12:22.0000000-08:00
+name: Some guy
+avatar: https://disqus.com/api/users/avatars/Some guy.jpg
+message: <p>I had come up with a work around that had been working for me so far. <br>\head runat="server" visible="false" /\<br>\head runat="server" \<br>\title\ /%=Page.Title ?? "Default Title"%/ \/title\<br>\/head\<br>/ are actually greater/less than, just don't know if they are going to be escaped or not...</p>

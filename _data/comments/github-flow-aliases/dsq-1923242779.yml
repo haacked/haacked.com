@@ -1,0 +1,6 @@
+id: dsq-1923242779
+replyToId: dsq-1533938871
+date: 2015-03-23T06:42:32.0000000-07:00
+name: gwillem
+avatar: https://disqus.com/api/users/avatars/gwillem.jpg
+message: <p>po = !git push -u origin $(git describe --contains --all HEAD)</p>

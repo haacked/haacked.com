@@ -1,0 +1,5 @@
+id: dsq-747524834
+date: 2008-04-10T02:35:56.0000000-07:00
+name: Nick Berardi
+avatar: https://disqus.com/api/users/avatars/nberardi.jpg
+message: '<p>Phil,<br>&gt;&gt;So if you really wanted to, though not sure why you would, you &gt;&gt;could use BLAH to separate out the format. Thus you could match &gt;&gt;the route<br>&gt;&gt;/products/list/beveragesBLAHxml<br>&gt;&gt;with the route<br>&gt;&gt;{controller}/{action}/{category}BLAH{format}<br>This is very wonderful news, and I have already found a use for it:  On my current project <a href="http://www.ideapipe.com" rel="nofollow noopener" title="http://www.ideapipe.com">http://www.ideapipe.com</a>, I have to define pages like this:<br><a href="http://www.ideapipe.com/pages/2" rel="nofollow noopener" title="http://www.ideapipe.com/pages/2">http://www.ideapipe.com/pag...</a><br>However now with this new routing I can do the following, which I like the format much better:<br><a href="http://www.ideapipe.com/page2" rel="nofollow noopener" title="http://www.ideapipe.com/page2">http://www.ideapipe.com/page2</a><br>By using, as one of my routes:<br>/page{page}</p>'

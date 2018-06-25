@@ -1,0 +1,5 @@
+id: dsq-747517313
+date: 2006-10-19T00:27:12.0000000-07:00
+name: Dani
+avatar: https://disqus.com/api/users/avatars/Dani.jpg
+message: <p>Agree 100%. <br>I understand that full trust is not the best option, I uploaded a page that calls winapi functions and it worked, but probably my web app can live without those api calls :) Anyway, the NetworkService/aspnet user is pretty secure for the system.<br>The configuration of medium trust is perfect with the exception of WebPermission exclusion. WebServices, consuming RSS, parsing another webpage to do a useful service... forbidden. Great. We the <a href="http://asp.net" rel="nofollow noopener" title="asp.net">asp.net</a> developers play in second division, all due to the security paranoia.<br>And the solution would be so easy, in SP1 another trust level called "hosting" with WebPermission enabled.</p>

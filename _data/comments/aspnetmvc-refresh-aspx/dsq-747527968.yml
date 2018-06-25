@@ -1,0 +1,5 @@
+id: dsq-747527968
+date: 2009-02-02T20:28:30.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@GeorgeK I was relating the timeline. Our initial RC generated relative URLs, but in the refresh we realized that was a mistake and rolled back that change. We no longer plan to reintroduce that change.</p>

@@ -1,0 +1,5 @@
+id: dsq-747538140
+date: 2012-06-04T12:24:07.0000000-07:00
+name: Joe
+avatar: https://disqus.com/api/users/avatars/Joe.jpg
+message: <p>G4W is really great. A major step forward. I would prefer to use it over things like hg-git + TortoiseHg, where branching gets... wonky. But unfortunately it doesn't like things such as differing permissions from that stored in the repo. It treats them as remove all text, and readd all text.</p>

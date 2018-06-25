@@ -1,0 +1,5 @@
+id: dsq-747530732
+date: 2010-02-22T13:32:10.0000000-08:00
+name: Claudio Duranti
+avatar: https://disqus.com/api/users/avatars/Claudio Duranti.jpg
+message: "<p>Hi Phil,<br>I've tried to build a custom validation (both server/client) using DataAnnotations but IE7 hangs (it seems in an endless loop) when field validation is supposed to take place. In Firefox it works as expected. I've found the same problem and a solution here: <a href=\"http://forums.asp.net/t/1515784.aspx?PageIndex=2\" rel=\"nofollow noopener\" title=\"http://forums.asp.net/t/1515784.aspx?PageIndex=2\">http://forums.asp.net/t/1515784.aspx?PageIndex=2</a> but I don't know if it is a bug, or if it will be addressed in some future versions. <br>I don't know if you knew about it.<br>Fixing MicrosoftMvcValidation.js myself is safe or can have some impacts I can't predict?<br>Thanks in advance.<br>P.S. Forget my poor English</p>"

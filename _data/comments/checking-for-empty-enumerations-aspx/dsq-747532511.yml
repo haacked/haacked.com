@@ -1,0 +1,5 @@
+id: dsq-747532511
+date: 2010-06-10T20:29:01.0000000-07:00
+name: Luis Abreu
+avatar: https://disqus.com/api/users/avatars/Luis Abreu.jpg
+message: <p>hum...I'm not sure I believe I'm seeing this code...<br>When I started looking at extension methods, there was a recommendation saying that extension methods should behave like instance methods. This code simply doesn't do that! Lets say I have a variable x of type X. x.Method() should only be allowed if x is not null. In all the other cases it should through a null reference exception. That's how it should be and that's why extension methods should do the same thing. that's why in (in my opinion) this method should be a simple static method and not an extension method...</p>

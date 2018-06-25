@@ -1,0 +1,5 @@
+id: dsq-747527134
+date: 2008-12-17T19:32:41.0000000-08:00
+name: developingchris
+avatar: https://disqus.com/api/users/avatars/developingchris.jpg
+message: <p>I would expect it to render as if I had written a string output from a c# method in web forms.<br>&lt;textarea&gt;<br>Foo&lt;/textarea&gt;<br>The antogonism is, although win forms people may think this is awkward, web people should and do know about this. Are you going to also turn every space in helpers into &amp;nbsp;. Thats what this feels like to me. If that is the functionality you are aiming for, then as I said, its just the next reason why these helpers are going to be unused in my code. Not because I can't deal with this quirk, but because it shows that helpers are going to be quirky, and I'm not going to have control over my markup through them.</p>

@@ -1,0 +1,5 @@
+id: dsq-747527849
+date: 2009-01-28T21:10:24.0000000-08:00
+name: Andr&#233;
+avatar: https://disqus.com/api/users/avatars/Andr&#233;.jpg
+message: <p>I'm having the same problem as Steve. <br>In beta version I use like this:<br>UpdateModel(product, "Product", form);<br>In RC1 it doesn't work! How to fix it?</p>

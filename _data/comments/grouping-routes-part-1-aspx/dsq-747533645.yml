@@ -1,0 +1,5 @@
+id: dsq-747533645
+date: 2010-12-03T05:33:03.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@DanF Yeah, you could do that. I'm wary of manipulating existing routes though. But then again, I should probably be ware of what I'm doing. And as you pointed out, it still has that other, albeit minor, problem.<br>@John Indeed. I probably should do some perf measurement to see what the actual impact really is with say 20 to 100 routes. Maybe it's so small as not to really be worth it.</p>

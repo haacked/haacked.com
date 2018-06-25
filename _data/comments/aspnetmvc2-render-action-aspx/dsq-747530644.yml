@@ -1,0 +1,5 @@
+id: dsq-747530644
+date: 2011-02-03T06:56:47.0000000-08:00
+name: hhgregg
+avatar: https://disqus.com/api/users/avatars/hhgregg.jpg
+message: <p>So...help me understand the differences between Html.RenderAction and Html.Action. Is it that Html.RenderAction will render the result directly to the Response (which is more efficient if returning a large amount of HTML). Whereas Html.Action returns a string with the result. Is this correct?<br></p>

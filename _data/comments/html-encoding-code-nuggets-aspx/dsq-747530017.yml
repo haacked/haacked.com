@@ -1,0 +1,5 @@
+id: dsq-747530017
+date: 2009-09-25T07:40:00.0000000-07:00
+name: Chris
+avatar: https://disqus.com/api/users/avatars/Chris.jpg
+message: "<p>Nice see see this addition, although I'd almost prefer to see something like the view templates in Django: everything is html encoded by default, and you have to manually mark the ones you DON'T want encoded.</p>"

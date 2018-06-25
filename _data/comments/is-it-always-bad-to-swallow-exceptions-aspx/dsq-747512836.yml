@@ -1,0 +1,5 @@
+id: dsq-747512836
+date: 2005-08-10T01:05:00.0000000-07:00
+name: Marty Thompson
+avatar: https://disqus.com/api/users/avatars/Marty Thompson.jpg
+message: <p>Strangely enough, Jeff Atwood had a similar topic on his blog post yesterday(<a href="http://www.codinghorror.com/blog/archives/000358.html" rel="nofollow noopener" title="http://www.codinghorror.com/blog/archives/000358.html">http://www.codinghorror.com/blog/archives/000358.html</a>).<br><br><br><br>The thing about using exceptions in the case you are describing is how expensive they are.  You can mention the pitfalls of early optimization and all that comes along with it, but the fact of the matter is that numeric validation can easily be done using regular expressions(and it's cheaper).</p>

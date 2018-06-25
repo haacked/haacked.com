@@ -1,0 +1,5 @@
+id: dsq-747531386
+date: 2010-01-17T11:54:56.0000000-08:00
+name: Vijay Santhanam
+avatar: https://disqus.com/api/users/avatars/Vijay Santhanam.jpg
+message: <p>NICE!! I tried to write something similar for configurable rules that required some code. They were ShopCartPromotions that needed to be added and removed without a redeploy.<br>I couldn't figure out how to have non-pre-compiled .cs - but you did it! <br>I ended up with an uber xml config file that was linked to the web.config. when the rules.config changed, the app rebooted and reloaded the config. I wrote waaay too much code to generalize for all possible ShopCartPromotions. Your solution would've been great about 2 months ago...<br>now can you write a visual studio plugin to jump back in time?</p>

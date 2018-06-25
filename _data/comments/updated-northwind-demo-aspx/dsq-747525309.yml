@@ -1,0 +1,5 @@
+id: dsq-747525309
+date: 2008-06-19T21:36:19.0000000-07:00
+name: indiekiduk
+avatar: https://disqus.com/api/users/avatars/indiekiduk.jpg
+message: <p>Sorry forgot the code tag in above post.<br>[code]<br>Found a few bugs:<br>For the images to be relative path you need this:<br>&lt;img src="&amp;lt;%=Request.ApplicationPath%&amp;gt;/Content/Images/&amp;lt;%=ViewData.Model.ProductID%&amp;gt;.jpg" &lt;br=""/&gt;When running on IIS this hard coded path int ListingByCategory.aspx will break it for two reasons - the path not being relative for when in a sub folder and also when the .mvc is needed:<br><a href="/Products/Detail/<%=product.ProductID %>" rel="nofollow noopener" title="/Products/Detail/<%=product.ProductID %>"> &lt;%=product.ProductName %&gt; </a><br>Change it to:<br>&lt;%=Html.ActionLink(product.ProductName, "Detail", new { ID=product.ProductID })%&gt;<br>The Grains/Cereals and Meat/Poultry product links crash it because they have slashes in the generated URLs. How can you fix that? This is the problematic line:<br>&lt;%= Html.ActionLink(category.CategoryName, "List", new { id=category.CategoryName })%&gt;<br>[/code]</p>

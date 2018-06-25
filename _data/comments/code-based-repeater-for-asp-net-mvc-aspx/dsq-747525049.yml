@@ -1,0 +1,5 @@
+id: dsq-747525049
+date: 2008-05-06T01:17:36.0000000-07:00
+name: Stephen
+avatar: https://disqus.com/api/users/avatars/Stephen.jpg
+message: <p>Hi Scott, <br>While js is much more common these days, that shouldn't mean you change menial design choices into using js.. the jquery example just really looked like it was there for the sake of it..<br>I'm sure what you are saying is you love the expressive context something like jquery adds.. but I think the inspiration should be to try and make the server side as expressive as css.. the functional side I think we're getting there with c# anyway.. lambdas fill a big gap in, in that respect.</p>

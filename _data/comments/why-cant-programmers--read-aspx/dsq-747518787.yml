@@ -1,0 +1,5 @@
+id: dsq-747518787
+date: 2007-03-01T21:00:16.0000000-08:00
+name: sden
+avatar: https://disqus.com/api/users/avatars/sden.jpg
+message: <p>if ((!($x%3==0)) &amp;&amp; (!($x%5==0))){<br>print $x;<br>}<br>Hand trace<br>if not x is (not == !) mod 3 and  not x mod 5<br>print x; <br>why wouldn't that print the number?<br>;')</p>

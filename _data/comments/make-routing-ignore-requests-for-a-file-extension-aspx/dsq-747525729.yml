@@ -1,0 +1,5 @@
+id: dsq-747525729
+date: 2008-07-15T21:51:17.0000000-07:00
+name: evan
+avatar: https://disqus.com/api/users/avatars/evan.jpg
+message: <p>Maybe it's just me but I am finding the usage of all these anonymous type parameters in the MVC framework really resistant to exploration and understanding.  To me they are non obvious and not self explanatory.<br>On another note . . . is there going to be a pure regex route handler pushed out by the MVC team?  Many people who are very accustomed to using regexes would greatly prefer them over the tokenized routes.  Well at least I know I would :)</p>

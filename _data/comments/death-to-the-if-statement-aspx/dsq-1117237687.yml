@@ -1,0 +1,5 @@
+id: dsq-1117237687
+date: 2013-11-10T15:02:58.0000000-08:00
+name: martijnhoekstra
+avatar: https://disqus.com/api/users/avatars/martijnhoekstra.jpg
+message: <p>while I agree with your general point, I think the example where you take n items with a default if there aren't n items in the collection is a bit of a code smell, and takes away from your central point. I can't really think of a good reason why you'd want to do that.</p>

@@ -1,0 +1,5 @@
+id: dsq-790539263
+date: 2013-02-06T05:58:21.0000000-08:00
+name: Alessandro Riolo
+avatar: https://disqus.com/api/users/avatars/aledeniz.jpg
+message: <p>The first .Net SDK I had under my hands (probably a beta of 1.0, but I don't really remember, it was surely more than 10 years ago), was incorrectly capitalizing the Turkish i as I. I did raise the issue with Microsoft at the time, and while they never answered me, the next time I looked at it, they had corrected the issue.<br>Funnily, I had looked because I had exactly the same issue with a JDK some time earlier, and I had managed to get Sun to fix that too :)</p>

@@ -1,0 +1,5 @@
+id: dsq-747509408
+date: 2007-09-25T03:32:32.0000000-07:00
+name: Jeremy Lew
+avatar: https://disqus.com/api/users/avatars/Jeremy Lew.jpg
+message: <p>For future Googlers:<br>I just did this. Implementation is the same as for builder plugins.  Create a ccnet.yoursccplugin.dll containing a class modeled after one of the built-in source control providers, stick the DLL  in the server directory, modify your config file, and away you go.</p>

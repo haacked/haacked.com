@@ -1,0 +1,5 @@
+id: dsq-747533538
+date: 2010-11-19T00:40:54.0000000-08:00
+name: jessicah
+avatar: https://disqus.com/api/users/avatars/jessicah.jpg
+message: <p>Razor is almost smart enough with not outputting superfluous whitespace, e.g. the following doesn't add any extra blank lines:<br><code><br>@{<br>  Layout = "_MyLayout.cshtml";<br>}<br></code><br>However, <code>@model Models.ThisIsMyModel</code> does.<br>It would be nice to have that particular instance fixed to not generate a blank line either. Technically, things like the &amp;lt;?xml version="1.0"?&amp;gt; shouldn't have any leading whitespace, so adding a model directive breaks it.<br>Luckily, I can just remove the model directive after I'm doing writing my markup and it still seems to behave the right way, and that extra blank line disappears.<br>But seriously, don't output a blank line for any line if it a) contains code/directives that don't produce output, and b) doesn't contain anything else.</p>

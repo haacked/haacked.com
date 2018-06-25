@@ -1,0 +1,5 @@
+id: dsq-747511594
+date: 2011-07-07T04:44:48.0000000-07:00
+name: Aaron Dixon
+avatar: https://disqus.com/api/users/avatars/Aaron Dixon.jpg
+message: <p>Just in case someone comes looking for something similar you can use inline grouping options to fix this as well. I needed it when using RegularExpressionValidators. I was making sure that HTML, JS, CSS was not included. My final regex is @"^(?s)(?!.*(&lt;/?\w+((\s+\w+(\s*=\s*(?:"".*?""|'.*?'|[^'""&gt;\s]+))?)+\s*|\s*)/?&gt;)).*$"</p>

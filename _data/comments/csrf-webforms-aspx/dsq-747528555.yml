@@ -1,0 +1,5 @@
+id: dsq-747528555
+date: 2009-04-03T10:05:13.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Johnny, yes, all the CSRF mitigations assume the browser is trustworthy. If a bad guy compromises your browser, it's not much different than if a bad guy compromises your OS. Then all bets are off.</p>

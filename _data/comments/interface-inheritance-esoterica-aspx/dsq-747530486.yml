@@ -1,0 +1,5 @@
+id: dsq-747530486
+date: 2009-11-10T00:47:00.0000000-08:00
+name: Brad Wilson
+avatar: https://disqus.com/api/users/avatars/Brad Wilson.jpg
+message: <p>Brian,<br>The difference is that classes define an is-a relationship, whereas interfaces don't (it's more like a can-do relationship). So An ISuperHero can do "Alias", and to obey the contract of ISuperHero, you must also implement IPerson (which can do "Name"), but that doesn't meant that ISuperHero is-a IPerson.<br>If you want the is-a relationship, you should use abstract classes instead.</p>

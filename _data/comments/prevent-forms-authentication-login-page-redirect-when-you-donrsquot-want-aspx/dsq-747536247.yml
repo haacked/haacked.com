@@ -1,0 +1,5 @@
+id: dsq-747536247
+date: 2011-10-04T12:56:58.0000000-07:00
+name: Saeed Neamati
+avatar: https://disqus.com/api/users/avatars/saeedneamati.jpg
+message: "<p>We had the same problem. But what we did, was to hook to AuthenticateRequest (just like you did) and we also checked the request to see if it's ajax or not (again, just like what you did). But at this point, we simply returned a JSON like {location: '<a href=\"http://www.domain.com/path-to-login-page\" rel=\"nofollow noopener\" title=\"http://www.domain.com/path-to-login-page\">http://www.domain.com/path-to-login-page</a>'} and we simply ended response in that method with HTTP code 200. This way, jQuery still gets a JSON result. But if the result has a \"location\" property, we simply do a client-side redirect to login page. That's our way and it works like a charm.</p>"

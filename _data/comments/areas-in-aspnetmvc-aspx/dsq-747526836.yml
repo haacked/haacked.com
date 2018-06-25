@@ -1,0 +1,5 @@
+id: dsq-747526836
+date: 2011-01-27T21:43:31.0000000-08:00
+name: Dmitriy
+avatar: https://disqus.com/api/users/avatars/Dmitriy.jpg
+message: '<p>Hi!<br>Could you tell me if i use this approach to redirect each logged user to his own page.<br>Example: <br><a href="http://www.test.com/klinton" rel="nofollow noopener" title="www.test.com/klinton">www.test.com/klinton</a><br><a href="http://www.test.com/bill" rel="nofollow noopener" title="www.test.com/bill">www.test.com/bill</a><br><a href="http://www.test.com/jonny" rel="nofollow noopener" title="www.test.com/jonny">www.test.com/jonny</a><br><a href="http://www.test.com/katrina" rel="nofollow noopener" title="www.test.com/katrina">www.test.com/katrina</a><br>All of user are going to use the same page but with its own data.<br>Thank you!</p>'

@@ -1,0 +1,5 @@
+id: dsq-747529748
+date: 2009-08-19T04:56:00.0000000-07:00
+name: Scott Bellware
+avatar: https://disqus.com/api/users/avatars/Scott Bellware.jpg
+message: <p>Yep, used to do this back in the day :)<br>The problem with this (and all uses of the dispose pattern for anything other than it's original intention) is that you have to know the code inside the Dispose method, or in this case, the Do method.<br>It's inevitably a violation of encapsulation.<br>Implicit semantics remove lines of code from code, while simultaneous removing meaning.  The one doesn't do justice to the other.<br>Ultimately, forgetting to write the line of code to complete a transaction isn't much of a productivity problem.  It would have been readily discovered by the functional tests for the feature.<br>You do write your own functional tests, don't you :)</p>

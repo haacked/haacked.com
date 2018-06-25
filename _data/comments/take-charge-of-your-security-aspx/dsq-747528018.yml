@@ -1,0 +1,5 @@
+id: dsq-747528018
+date: 2009-02-07T08:01:02.0000000-08:00
+name: Dominic Pettifer
+avatar: https://disqus.com/api/users/avatars/Dominic Pettifer.jpg
+message: <p>Some ASP.NET WebForm controls DO perform automatic HTML encoding to prevent XSS attacks, while some will only encode certain properties. Specifically the TextBox control's Text property, and the NavigateUrl property of the HyperLink control but NOT the HyperLink's Text property. Also I believe the ListItem Text and Value fields used in DropDowns and Radio/Checkbox lists perform auto HTML encoding. It's always worth finding out which controls and their properties do and don't perform this encoding, as you do want to prevent XSS but don't want to encode the HTML output twice or you'll get funny output.<br>What I want to know is, has this behaviour been carried over to MVC, for instance if I set the value attribute of an &lt;input type="text" with the Helpers, will this be automatically HTML encoded?</p>

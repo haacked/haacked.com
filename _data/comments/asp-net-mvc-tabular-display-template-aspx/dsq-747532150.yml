@@ -1,0 +1,5 @@
+id: dsq-747532150
+date: 2011-11-28T21:51:34.0000000-08:00
+name: Javaman
+avatar: https://disqus.com/api/users/avatars/Javaman.jpg
+message: <p>This is great, but is there an example of using this with Razor and MVC3? The code shown does not directly translate to Razor.<br>The code below does not compile. Any suggestions?<br>@{<br>var properties = ModelMetadata.FromLambdaExpression(m =&gt; m[0], ViewData)<br>.Properties<br>.Where(pm =&gt; ShouldShow(pm, ViewData));<br>}</p>

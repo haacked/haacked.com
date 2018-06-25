@@ -1,0 +1,5 @@
+id: dsq-747524878
+date: 2010-11-19T03:25:22.0000000-08:00
+name: Peter Morris
+avatar: https://disqus.com/api/users/avatars/Peter Morris.jpg
+message: "<p>@phil : Catch all was no use, because some of my routes look like this<br>{controller}/{action}/{make}/{model}<br>Where both make and model may contain any number of weird characters, that's why I had to go with the approach above.</p>"

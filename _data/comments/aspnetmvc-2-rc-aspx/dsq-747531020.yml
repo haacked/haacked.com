@@ -1,0 +1,5 @@
+id: dsq-747531020
+date: 2009-12-16T23:48:23.0000000-08:00
+name: Eilon Lipton
+avatar: https://disqus.com/api/users/avatars/Eilon Lipton.jpg
+message: <p>Visual Studio 2010 Beta 2, which is the most recent public version of VS2010, contains ASP.NET MVC 2 Preview 2.<br>The out-of-band standalone releases of ASP.NET MVC 2 for Visual Studio 2008 SP1 are not compatible with VS2010 and also cannot be installed on the same computer. For the time being you'll either have to pick whether you want to use VS2008 or VS2010 or you can use a virtual machine and run one inside the VM and one outside (or whatever).<br>We realize that this is an unfortunate situation but once everything gets to its final release (VS2010, .NET 4, and ASP.NET MVC 2) they will all be compatible with each other and can be installed on the same computer.</p>

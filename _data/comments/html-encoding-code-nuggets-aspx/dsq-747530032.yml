@@ -1,0 +1,5 @@
+id: dsq-747530032
+date: 2009-09-29T13:59:00.0000000-07:00
+name: Borek
+avatar: https://disqus.com/api/users/avatars/Borek.jpg
+message: "<p>It would be good to know what's ASP.NET's long-term strategy for context-sensitive escaping. Are we going to have different opening tags for different contexts? Will ASP.NET vNext break backwards compatibility and make the implementation of &lt;%: context-aware?<br>Many people have raised this issue already, would it be possible to quickly comment on that please? It would be much appreciated.<br>Thanks,<br>Borek</p>"

@@ -1,0 +1,5 @@
+id: dsq-747519413
+date: 2007-03-25T22:15:18.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Bill - True. For my second scenario where I get free reign to rewrite the class.<br>However, in the first scenario, that wouldn't work. If I've already exposed the class to client code as an IList&lt;T&gt;, I can't just change the interface.<br>Also, users of the property lose the ability to reference a state by index! Quick, what's the 49th state alphabetically?<br>Console.WriteLine(StateHelper.States[48]);<br>;)<br></p>

@@ -1,0 +1,5 @@
+id: dsq-747526561
+date: 2008-11-13T00:30:21.0000000-08:00
+name: Trevor
+avatar: https://disqus.com/api/users/avatars/Trevor.jpg
+message: <p>@Brett<br>Thanks!  That was a big help.  Although it only worked when I had a generic list, so instead of:<br>public ActionResult UpdateProducts(IList products)<br>I have:<br>public ActionResult UpdateProducts(IList&lt;product&gt; products)<br>Otherwise I just get an empty list.<br></p>

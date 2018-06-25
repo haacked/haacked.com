@@ -1,0 +1,5 @@
+id: dsq-747526235
+date: 2008-08-28T23:31:15.0000000-07:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Remcos yes, use RenderPartial instead of RenderUserControl. UserControls are specific to the WebFormViewEngine. RenderPartial works with any view engine that supports it (which I imagine we'll see the others updated soon).</p>

@@ -1,0 +1,5 @@
+id: dsq-747533727
+date: 2010-12-14T02:38:55.0000000-08:00
+name: haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Adam that would break all extension methods on the ViewDataDictionary for everyone.<br>@Igm Could you provide more details? I'm not able to reproduce this on a brand new MVC 3 project. Do you still have references to WebMatrix.Data and/or WebMatrix.WebData? Those references are no longer needed.</p>

@@ -1,0 +1,5 @@
+id: dsq-747530408
+date: 2010-02-26T14:16:45.0000000-08:00
+name: Raj Athth
+avatar: https://disqus.com/api/users/avatars/Raj Athth.jpg
+message: <p>I just downloaded the VS2010 RC and MVC 2. Then opened up VS 2010, and changed the .NET framework configuration to 3.5.<br>I thought of creating the MVC2 "Hello World!" project. But I realized there is no standard "HomeController", or "Index" View even the RegisterRoutes says..<br> routes.MapRoute(<br>                "Default",                                              // Route name<br>                "{controller}/{action}/{id}",                           // URL with parameters<br>                new { controller = "Home", action = "Index", id = "" }  // Parameter defaults<br>            );<br>I really don't need 'em, but I'm just curious why MVC team decided to remove the startup controllers from the templates. Or am I missing something from the installation?</p>

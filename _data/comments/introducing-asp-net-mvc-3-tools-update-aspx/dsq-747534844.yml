@@ -1,0 +1,5 @@
+id: dsq-747534844
+date: 2011-04-14T20:59:26.0000000-07:00
+name: Lonnie
+avatar: https://disqus.com/api/users/avatars/Lonnie.jpg
+message: "<p>Anyone else having this problem?<br>Since I installed the MVC 3 Tools update, I now get this error as soon as I hit F5:<br>Microsoft JScript runtime error: Not implemented.<br>VS opens the modernizr-1.7.min.js file and highlights this section in yellow:<br>c.ogg=a.canPlayType('video/ogg; codecs=\"theora\"')<br>I rebooted my PC and error persists. Any ideas?<br>Thanks</p>"

@@ -1,0 +1,5 @@
+id: dsq-747535899
+date: 2011-08-16T13:10:31.0000000-07:00
+name: Yuri Khan
+avatar: https://disqus.com/api/users/avatars/Yuri Khan.jpg
+message: <p>You will run into trouble with this ”singular for exactly 1, plural for all other numbers” approach as soon as you try to localize into any language that has more than two cardinalities, or where the rules for cardinality selection are different.<br>Consider Russian. Here we have forms for singular, dual and plural.<br>Singular is used for all numerals that end in ”один” (“one”), that is, for all n that n % 10 == 1 &amp;&amp; n % 100 != 11 (because *11 ends in “одиннадцать” (“eleven”) which needs plural).<br>Similarly, dual is used for numerals ending in “два”, “три” and “четыре” (2, 3 and 4; n % 10 in {2, 3, 4} &amp;&amp; n % 100 not in {12, 13, 14}, again because teen-numerals require plural).<br>Although, if the extension method is not defined in the model but somewhere near the localization, it can be redefined appropriately for each language.</p>

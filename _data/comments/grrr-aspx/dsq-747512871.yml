@@ -1,0 +1,5 @@
+id: dsq-747512871
+date: 2005-08-16T23:21:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>I'm hesitant to name names, because at the same time, I know how easy it is to make a dumb mistake.  The company in question was very gracious.  Apparently they had already caught the problem and released an updated version soon after.  I just happened to download it in the small window where they had accidentally left some debug code in there.<br><br><br><br>It wasn't even their main product.  It's a provider to enable the main rich text editor work in DotNetNuke.  I don't want to name names, but it's a totally RAD text editor.  ;)</p>

@@ -1,0 +1,5 @@
+id: dsq-747523919
+date: 2008-01-14T13:53:33.0000000-08:00
+name: Filini
+avatar: https://disqus.com/api/users/avatars/Filini.jpg
+message: <p>Yep. And I guess the full syntax would be cleaner (and easier to read) than the cast to Class3.<br>Sometimes, these shortening syntactic sugars make the code cleaner to the writer, but not to the other developers of the team. This must always be kept in mind.</p>

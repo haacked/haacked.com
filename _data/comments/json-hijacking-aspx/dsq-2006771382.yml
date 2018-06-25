@@ -1,0 +1,5 @@
+id: dsq-2006771382
+date: 2015-05-05T12:34:24.0000000-07:00
+name: Daniel Vieira Costa
+avatar: https://disqus.com/api/users/avatars/danieleritavieiracosta.jpg
+message: <p>Hi Phil! I've been using DefaultAuthenticationTypes.ApplicationCookie (ClaimsIdentity) to sign in my website. In the past, I used to use Session, but we knows the problem handling it. Do you think that using authentication with cookies, could be a problem and put my website in risk when using JSON?</p><p>Best Regards,<br>Dan</p>

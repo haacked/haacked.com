@@ -1,0 +1,5 @@
+id: dsq-747529690
+date: 2009-08-21T23:42:00.0000000-07:00
+name: tvish
+avatar: https://disqus.com/api/users/avatars/tvish.jpg
+message: <p>@Piers<br>Thanks for giving the requirement. In the current SDK, the FormatManager is the component that handles serialization and deserialization of data in non-HTML formats (XML, JSON etc). You can register IRequestFormatHandler, IResponseFormatHandler implementations that handle serializing and deserializing a particular format. By default we populate the FormatManager with IRequestFormatHandler and IResponseFormatHandler implementations that process XML and JSON formats.<br>So I think one way you can achieve what you are trying to do is to register your own implementations of IRequestFormatHandler, IResponseFormatHandler for XML and JSON that wrap the default implementations and do the transformation after serialization/before deserialization before delegating to the default implementations to do the bulk of the work.<br>Would that work for you?</p>

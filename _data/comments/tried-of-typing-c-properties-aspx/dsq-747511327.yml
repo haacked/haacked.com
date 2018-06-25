@@ -1,0 +1,5 @@
+id: dsq-747511327
+date: 2012-08-15T12:17:04.0000000-07:00
+name: Nick
+avatar: https://disqus.com/api/users/avatars/Nick.jpg
+message: <p>In Visual Studio 2010, you can just write the following:<br>public bool AutoAccept <br>{ <br>   get;<br>   set;<br>} <br>And it will allocate a variable for you within the class and you only have to use AutoAccept within your class rather than allocating a variable and setting it and getting it with a get/set parameter.</p>

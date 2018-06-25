@@ -1,0 +1,5 @@
+id: dsq-747515303
+date: 2006-06-19T11:45:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>Hey, I viewed source on your blog and I didn't see lightbox.css or lightbox.js referenced.  Did you set it up correctly in Skins.config?</p>

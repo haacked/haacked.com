@@ -1,0 +1,5 @@
+id: dsq-747531151
+date: 2009-12-25T23:37:49.0000000-08:00
+name: Chris Airey
+avatar: https://disqus.com/api/users/avatars/Chris Airey.jpg
+message: <p>That is how I would normally do it, but why use rel? JQuery happily works with custom attributes. The attribute can have a descriptive name also such as "Target". You have also limited it to the use the ID of the element. I would have the attribute handle anything ".class", "#id" etc...<br>The parent div selector can work, if it's always going to be the parent. If it's to be reusable, you may not always desire that effect.</p>

@@ -1,0 +1,5 @@
+id: dsq-747508849
+date: 2004-06-25T08:31:00.0000000-07:00
+name: Craig
+avatar: https://disqus.com/api/users/avatars/Craig.jpg
+message: <p>So I should I rename mine "The Next-to-Last Configuration Section Handler I'll Ever Need" ? :)<br><br><br><br>You should check out the Configuration Management Application Block from Microsoft. It does pretty much the same thing you've got here, and a lot more. Of course, it's also correspondingly heavier, but it does have the advantage of not requiring the UpdateChanges call in every property getter.</p>

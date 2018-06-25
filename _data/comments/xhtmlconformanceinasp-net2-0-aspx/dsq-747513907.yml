@@ -1,0 +1,5 @@
+id: dsq-747513907
+date: 2006-01-19T04:40:00.0000000-08:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: "<p>Klevo, thanks for the URL.  I'm printing it now.  I added overflow:auto to the comments which should handle long urls a little better now.<br><br><br><br>Jayson, it turns out that named anchors are case sensitive.  So I need to change the links to use #feedback and not #FeedBack.  Doh!</p>"

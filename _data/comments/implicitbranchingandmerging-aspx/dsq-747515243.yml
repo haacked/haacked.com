@@ -1,0 +1,5 @@
+id: dsq-747515243
+date: 2006-06-02T00:05:00.0000000-07:00
+name: Adam
+avatar: https://disqus.com/api/users/avatars/Adam.jpg
+message: <p>I've worked places where they only allowed exclusive locks (VSS), so there was never any merging because they felt it was too dangerous.<br>I've also worked places that allowed multiple checkouts but forced us to work on our development server files directly (this was ASP2). So if we did have two people trying to modify the same ASP page we had significant issues. Teaching the people who worked there about developer isolation was a tough battle but ultimately made the environment better (obviously).</p>

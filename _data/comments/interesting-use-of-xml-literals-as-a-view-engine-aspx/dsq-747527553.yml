@@ -1,0 +1,5 @@
+id: dsq-747527553
+date: 2008-12-29T02:46:43.0000000-08:00
+name: Javier Lozano
+avatar: https://disqus.com/api/users/avatars/Javier Lozano.jpg
+message: <p>Cool experiment, but seems like a honey pot for the developer that wants "more out of a view", thus breaking the SoC you get from MVC.  <br>In other words, I can see a lot DbConnections being created here.  <br>Just my $0.02</p>

@@ -1,0 +1,5 @@
+id: dsq-747522363
+date: 2007-09-11T00:22:00.0000000-07:00
+name: Haacked
+avatar: https://github.com/haacked.png?size=120
+message: <p>@Derek - You could name the text field "url" and use another field for the actual URL. Just choose a field name the bot is most likely to fill out.<br>If you're running Yahoo, then the bot writers will take the time to figure it out. If you're running a small blog, then the number of variations to this approach are so many, bot writers have no incentive to try and solve it for every case.<br>Even so, I would use this in tandem with Invisible Captcha. So far,  I never get automated comment spam on my blog. I only get pingtrack/trackback spam.</p>

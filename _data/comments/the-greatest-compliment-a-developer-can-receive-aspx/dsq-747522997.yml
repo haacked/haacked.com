@@ -1,0 +1,5 @@
+id: dsq-747522997
+date: 2007-10-07T19:27:35.0000000-07:00
+name: James Avery
+avatar: https://disqus.com/api/users/avatars/James Avery.jpg
+message: <p>Agree completely on comments. Whenever I see comments that just re-iterate what the code does it drives me nuts, I usually just delete them. :) This is my favorite one that I see all the time:<br>//Open the connection to the database<br>using(conn.Open())<br>{<br>}<br>Yeah, I understand what conn.Open is probably doing. :)</p>

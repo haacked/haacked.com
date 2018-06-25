@@ -1,0 +1,6 @@
+id: dsq-1114814799
+replyToId: dsq-1114800920
+date: 2013-11-08T19:41:17.0000000-08:00
+name: jbblanchet
+avatar: https://disqus.com/api/users/avatars/jbblanchet.jpg
+message: <p>I'll disagree with myself right here. You mean "as an extension method for IEnumerable it has to be lazy", and with that I totally agree. Now that's a great reason to ditch the if. Sorry about my misunderstaning your point distantcam.</p>

@@ -1,0 +1,5 @@
+id: dsq-1895029429
+date: 2015-03-08T08:28:00.0000000-07:00
+name: tim
+avatar: https://disqus.com/api/users/avatars/tim.jpg
+message: <p><a href="http://www.filmrally.com/" rel="nofollow noopener" title="http://www.filmrally.com/">Phil</a>, I think the routing rule in the sample should be {controller}/{action}/{id}, no {id}/{action}/{id}</p><p>And about the ActionName attribute. This is a nice way to add many view with the same name, but I really like the correspondence between methods and actions since it allowed the Url&lt;t&gt; helpers that provided compile-time check and intellisense when writing redirect to actions and url to actions.</p><p>So, not sure whether to like this new feature or not :)</p>

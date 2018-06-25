@@ -1,0 +1,5 @@
+id: dsq-747530672
+date: 2009-11-19T18:37:00.0000000-08:00
+name: John
+avatar: https://disqus.com/api/users/avatars/John.jpg
+message: <p>What about validation for forms that are "hijacked" by Ajax? Say you have a Dinners Home Page with a bunch of stuff, including a list of dinners and an "Add Dinner" link. The Add Dinner link opens a Create Dinner dialog, whose form action is hijacked. <br>When you click Save in the Create Dinner Dialog, you'd use $.ajax to post the new dinner to Dinners/Create. You'd need to refresh the Dinners List, so you'd return PartialView(dinnerList). <br>The success parameter in the $.ajax method is where you'd determine what to do with the successful results. The error paramter is where you'd normally put an error handling function, but this is only called if you throw an error.</p>
