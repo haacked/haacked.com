@@ -1,0 +1,10 @@
+id: 9568c6ee
+date: 2018-06-25T07:18:56.0705972Z
+name: Matthew Abbott
+avatar: https://avatars.io/twitter/@antariszx/medium
+message: >-
+  A typical approach for poor man's comment filtering would be to include a Honeypot. If the honeypot had a value, ditch the comment as it is likely automated crap.
+
+
+
+  Make the honeypot a visibly hidden (but not input:hidden)
