@@ -1,0 +1,22 @@
+id: 588e48e6
+date: 2018-06-26T23:29:11.5725739Z
+name: haacked
+avatar: https://avatars.io/twitter/@haacked/medium
+message: >-
+  > At the very least the Pull Request comment should not include the message. Although now I think about it I should go find the repo for the comment system and post that there.
+
+
+
+  The whole point of having the comment and avatar in the PR comment is so I can review it before I merge it into my blog. I could omit the comment from the PR, but it's still visible in a direct link to the yml file.
+
+
+
+  https://github.com/Haacked/haacked.com/blob/45d69864e491b9f4a2bf6e6e5dea1202a3cfad39/_data/comments/comments-for-jekyll-blogs/b9421556.yml
+
+
+
+  I think a lot of folks who implement such a comment system will have their blog repositories be private. I think the issue I'm running into is I _want_ my blog repository to be public so people can submit fixes.
+
+
+
+  One thing I could do is have comments go to a private fork of my repo and then I merge in comments after reviewing them.
