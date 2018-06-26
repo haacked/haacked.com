@@ -95,7 +95,6 @@ div#comments {
         color: #2a2e2e;
         cursor: text;
         display: block;
-        padding: 6px 10px 8px;
         min-height: 100px;
       }
 
@@ -109,7 +108,7 @@ div#comments {
         display: none;
       }
 
-      [contenteditable=PLAINTEXT-ONLY]:empty:not(:focus):before {
+      [contenteditable]:empty:not(:focus):before {
         color: #687a86;
         line-height: 30px;
         font-size: 18px;
