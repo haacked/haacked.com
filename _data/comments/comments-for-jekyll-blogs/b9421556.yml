@@ -1,0 +1,10 @@
+id: b9421556
+date: 2018-06-26T02:15:14.3493743Z
+name: James
+avatar: https://github.com/JamesKhoury.png
+message: >-
+  This seems like a big security hole. You're creating pull-requests out of user data and as evidenced by a pull-request currently there it will display pictures embedded in the post. I can already think of a couple ways to make this go badly.
+
+
+
+  At the very least the Pull Request comment should not include the message. Although now I think about it I should go find the repo for the comment system and post that there.
