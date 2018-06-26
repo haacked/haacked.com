@@ -4,7 +4,7 @@ Haack.ready(function() {
   if (form) {
 
     // Set up any content editors
-    document.querySelectorAll('div[contenteditable][class="plaintext"]').forEach(function(editor) {
+    document.querySelectorAll('div[contenteditable].plaintext').forEach(function(editor) {
       // Set up the content editable div
       try {
           editor.contentEditable="PLAINTEXT-ONLY";
