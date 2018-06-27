@@ -1,0 +1,13 @@
+id: 155a3b7a
+date: 2018-06-27T09:06:35.1595219Z
+name: Elliot Blackburn
+avatar: https://avatars.io/twitter/@elliotblackburn/medium
+message: >+
+  > Someday I might allow folks to authenticate using their GitHub account to leave a comment
+
+
+
+
+
+  This could be a good way to "trust" users in the future, you could then auto-merge PR's from those users without checking them yourself by having a .github/trusted.yaml file with their github usernames and use some probot implementation to do the review and merge.
+
