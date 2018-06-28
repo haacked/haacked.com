@@ -45,7 +45,7 @@ The other part you'll need is to set up an Azure Function. You can pretty much [
 
 One thing we lose with this approach is a robust comment spam filter. There are two things that mitigate this - first, when you click to send a comment, the button asks you to click again to confirm sending the comment. This is a poor person's implementation of spam filtering, but seems to get the job done.
 
-The other part of it is by the very design, all comments are moderated because I have to merge the Pull Request created any time someone submits a comment. However, once I have robust comment spam filters implemented in the Azure function, I could decide to auto-merge those pull requests or even bypass the creation of a pull request. That would simply require that I change the Azure funcion.
+The other part of it is by the very design, all comments are moderated because I have to merge the Pull Request created any time someone submits a comment. However, once I have robust comment spam filters implemented in the Azure function, I could decide to auto-merge those pull requests or even bypass the creation of a pull request. That would simply require that I change the Azure function.
 
 ### Feedback
 
