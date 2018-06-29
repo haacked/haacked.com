@@ -1,0 +1,11 @@
+id: 1165b4b2
+date: 2018-06-28T19:01:53.4532723Z
+name: Darek Kay
+avatar: https://github.com/darekkay.png
+message: >+
+  I've evaluated a lot of different comment systems for static blogs: https://darekkay.com/blog/static-site-comments/
+
+
+
+  As you want to utilize GitHub, you might also want to try StaticMan or Gitment. But if you stick to your solution instead, feel free to make a quick update in a few months about your lessons learned (how well does it work? is the spam really manageable? etc.)
+
