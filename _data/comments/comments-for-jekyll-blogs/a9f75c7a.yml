@@ -1,0 +1,19 @@
+id: a9f75c7a
+date: 2018-07-08T20:32:02.5645178Z
+name: Daniel15
+avatar: https://secure.gravatar.com/avatar/872578c4e56897b913fd03ed88daef51?s=80&d=identicon&r=pg
+message: >+
+  > One thing we lose with this approach is a robust comment spam filter. There are two things that mitigate this - first, when you click to send a comment, the button asks you to click again to confirm sending the comment. This is a poor person’s implementation of spam filtering, but seems to get the job done.
+
+
+
+
+
+  Except that a lot of automated spammers just hit the comment API endpoint directly rather than actually using the UI, so a purely UI approach isn't going to stop very much spam :)
+
+
+
+
+
+  For basic spam protection, the best thing I found was to have a input field with a common name (like "name", "subject", whatever), position it off-screen it with CSS, label it as "do not fill in" so that people using screen readers also know not to fill it in, and discard any comments that have a value for the field. Most automated spammers fill in every form field.
+
