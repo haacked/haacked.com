@@ -242,4 +242,4 @@ Experiment with approaches and follow up on results. It's important to iterate o
 * [Why Incentive Plans Cannot Work - HBR](https://hbr.org/1993/09/why-incentive-plans-cannot-work)
 * [What Google Learned From Its Quest to Build the Perfect Team - NY Times](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 * [Your soft skills inventory - Seth Godin](https://www.goodreads.com/author_blog_posts/16089425-your-soft-skills-inventory)
-* (How Netflix Reinvented HR - HBR)[https://hbr.org/2014/01/how-netflix-reinvented-hr]
+* [How Netflix Reinvented HR - HBR](https://hbr.org/2014/01/how-netflix-reinvented-hr)
