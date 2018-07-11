@@ -17,7 +17,7 @@ Dilbert can provide a better introduction to performance reviews:
 
 Yes, it's a crutch to quote Dilbert on a post about management, but forgive me. On this topic, Dilbert is so spot on. I'll only do it twice, I promise. Now back to the point...
 
-Companies should abolish the charade of annual (or semiannual) performance reviews.
+__Companies should abolish the charade of annual (or semiannual) performance reviews.__
 
 They are expensive, biased, and they don't work. Yet, companies persist in the Sisyphean attempt. They take it as a given that the dread and anxiety they create serves a noble purpose. It's like believing that constant face slaps will lead to stronger cheek muscles.
 
