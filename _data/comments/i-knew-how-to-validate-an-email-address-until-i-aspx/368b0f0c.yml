@@ -1,0 +1,10 @@
+id: 368b0f0c
+date: 2018-07-12T00:15:20.0022714Z
+name: Fred Fnord
+avatar: https://secure.gravatar.com/avatar/292e4984bb764a41d326fa4f9848428d?s=80&d=identicon&r=pg
+message: >-
+  For information's sake: ! in an email address is a relic from email in the pre-internet era (before, or by places that were not connected to, ARPANET or BITNET, typically). At that point, uucp was used to copy data in batches from one machine to another, by modem. If your machine didn't connect directly to another machine, and didn't know a valid route to it, you would have to give it the route: machine1!machine2!machine3. Another such mechanism was the percent sign. If you knew the way to a machine that knew the way to where you wanted to send your email, you could just say  someone%destination@somewhere-else. Your server would send the message to somewhere-else, which would strip off '@somewhere-else' and replace '%' with '@' and see 'someone@destination' and happily send it off where it should go, assuming it knew. The thing about these mechanisms was that they would just work, and nobody was policing anyone's use of them: you could use anyone's machine to bounce your email to anybody else.
+
+
+
+  And then there was BITNET. I vaguely recall that it had a very similar email address scheme to regular @ addressing, without TLDs. Maybe?
