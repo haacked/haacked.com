@@ -1,0 +1,5 @@
+id: 1a8123fe
+date: 2018-07-13T13:37:29.0554226Z
+name: Manish
+avatar: https://secure.gravatar.com/avatar/c5424e057adf5007aa567624211db733?s=80&d=identicon&r=pg
+message: "Hi, Thanks for the code.\r\n\r\nI am not able to simulate ApplicationPath. I used your code but \r\nHttpContext.Current.Request.ApplicationPath is still null.\r\n\r\nKindly help"
