@@ -1,0 +1,5 @@
+id: ad3ccf25
+date: 2018-07-19T12:20:55.0764799Z
+name: Andrej
+avatar: https://secure.gravatar.com/avatar/1443d600ab7f230a27cc1a4c55459610?s=80&d=identicon&r=pg
+message: It seems not to work when your model has another class with decimal property. Default model binder is going to try bind this property.
