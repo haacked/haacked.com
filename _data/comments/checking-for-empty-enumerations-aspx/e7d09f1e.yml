@@ -1,0 +1,25 @@
+id: e7d09f1e
+date: 2018-08-08T07:56:53.8223791Z
+name: wizkraft
+avatar: https://secure.gravatar.com/avatar/e3cddb1276b873cb31498991d5d4edb9?s=80&d=identicon&r=pg
+message: >+
+  public static bool IsNullOrEmpty<T>(this IEnumerable<T> items) {
+
+      return items == null || !items.Any();
+
+  }
+
+
+
+  what happens if we remove "this" ?
+
+
+
+  public static bool IsNullOrEmpty<T>(IEnumerable<T> items) {
+
+      return items == null || !items.Any();
+
+  }
+
+
+
