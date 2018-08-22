@@ -1,0 +1,5 @@
+id: da4c95ce
+date: 2018-08-09T01:24:54.5430800Z
+name: gr0k
+avatar: https://secure.gravatar.com/avatar/d888f0a1a5f7edfec38628e78fcfd0e5?s=80&d=identicon&r=pg
+message: "Found this while trying to figure out how to add comments to my own Jekyll blog. I wanted to use staticman, but the first XSS comment I submitted to my blog popped an alert immediately, so I've steered away from that. Does this have any kind of filtering protections? Or does that have to be built into the azure function? "
