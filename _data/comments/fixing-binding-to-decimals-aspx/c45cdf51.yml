@@ -1,0 +1,10 @@
+id: c45cdf51
+date: 2018-08-09T09:42:46.7879500Z
+name: Alessandro Lettieri
+avatar: https://secure.gravatar.com/avatar/770aa719b7b6349f833f25027858b230?s=80&d=identicon&r=pg
+message: >-
+  You must bind also decimal nullable:
+
+
+
+      ModelBinders.Binders.Add(typeof(decimal?), new DecimalModelBinder());
