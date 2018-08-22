@@ -1,0 +1,14 @@
+id: d98a5507
+date: 2018-08-22T18:35:54.1772204Z
+name: haacked
+avatar: https://avatars.io/twitter/@haacked/medium
+message: >-
+  @grok I haven't added any automatic filtering. Right now, it's moderated by the fact that every comment becomes a pull request on the GitHub repository that hosts my Jekyll based blog.
+
+
+
+  For example, here's the pull request for your comment: https://github.com/Haacked/haacked.com/pull/419
+
+
+
+  So it is moderated because if a comment is spam, I just close it instead of merging it.
