@@ -38,7 +38,7 @@ function colorToHex(color) {
     var blue = parseInt(digits[4]);
     
     var rgb = blue | (green << 8) | (red << 16);
-    return digits[1] + '#' + rgb.toString(16);
+    return digits[1] + '#' + rgb.toString(16).padStart(6, '0');
 };
 ```
 
