@@ -1,0 +1,5 @@
+id: c0b40ed0
+date: 2018-09-26T13:21:26.7427774Z
+name: Mathias
+avatar: https://secure.gravatar.com/avatar/0ea7c6f624bb04a950a39da81d93f600?s=80&d=identicon&r=pg
+message: Hi, I've been trying to use this debugger for some time now, but i just can't figure out how to get it to show my routes. My project i split up, so i have one project with it's own localhost, which my second project listens to. How do i get my routes shown?
