@@ -1,0 +1,5 @@
+id: 5cbce8f1
+date: 2018-09-30T01:35:58.6068599Z
+name: Sean
+avatar: https://avatars.io/twitter/@Seanba_/medium
+message: I like the changes you made to the Jekyll templates that fetch and remember the avatar image without sending any user identity up to the cloud (or back into your gh-pages PRs). I see your javascript employs the HAACK namespace and wanted to double-check that such code is still considered to be under the MIT license. (Thanks for showing your work all the same. I'm looking forward to getting my blog off the wordpress and webhosting teats.)
