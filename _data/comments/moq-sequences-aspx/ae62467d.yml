@@ -1,0 +1,26 @@
+id: ae62467d
+date: 2018-09-28T17:00:02.8613288Z
+name: ktabarez
+avatar: https://github.com/ktabarez.png
+message: >-
+  With the new version of Mock you can now use SetupSequence:
+
+  // taken from: https://github.com/Moq/moq4/wiki/Quickstart#miscellaneous
+
+
+
+  var mock = new Mock<IFoo>();
+
+  mock.SetupSequence(f => f.GetCount())
+
+      .Returns(3)  // will be returned on 1st invocation
+
+      .Returns(2)  // will be returned on 2nd invocation
+
+      .Returns(1)  // will be returned on 3rd invocation
+
+      .Returns(0)  // will be returned on 4th invocation
+
+
+
+  I thought I should post this because this was one of the top google search results which at the time was a nice solution to mocking sequential method calls :)
