@@ -1,0 +1,5 @@
+id: 89bda294
+date: 2018-10-16T18:02:51.9173703Z
+name: Omid Khadem
+avatar: https://secure.gravatar.com/avatar/20d2a4bdb669825acaa0a18806d3222b?s=80&d=identicon&r=pg
+message: I think the problem with violating LoD in view you mentioned is not relevant because of separation of concerns. If some data has to be shown in view clearly what we want is a data structure and not a object. Just think about what happen if we pas an object with behavior to view? One could accidentally mutat object state in view! So in this case maybe we must ask the order object for a read only representation of its data (whic it can control to what it expose) as a data structure. As uncle Bob said in his great book “clean code”, law of demeter depends on if class is an object or data structure.
