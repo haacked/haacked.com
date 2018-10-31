@@ -1,0 +1,19 @@
+id: da640be6
+date: 2018-10-31T13:22:13.9521183Z
+name: Brain Castler
+avatar: https://secure.gravatar.com/avatar/c3321ea310856629870b4c6298a4aa6b?s=80&d=identicon&r=pg
+message: >+
+  Thanks.
+
+
+
+  I feel you on Postel's Law. I've been looking at a lot of strongly typed C# code and even tho it's verbose and redundant at times, the benefits of a strongly typed language seem huge. A function being able to lockdown what it accepts as input seems like the most basic need in a programming language, otherwise you have to validate the data in every function, or just trust it's programmed right. But maybe the success and widespread adoption of JavaScript, a loosely typed language, is one argument for being liberal in what you accept.
+
+
+
+  All the best
+
+  Brain
+
+  https://itrate.co/
+
