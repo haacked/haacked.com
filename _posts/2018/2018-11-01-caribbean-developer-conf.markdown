@@ -11,15 +11,18 @@ Picture a developer's conference held at a resort on a tropical island. What com
 
 An endless supply of Piña Coladas? Sand abrasions in all the dark crevices of your body? Or perhaps, if you're a developer, you imagine sitting on the beach, staring out at the ocean as a nice respite between sessions.
 
-If you're a manager, on the other hand, you might be suspicious that the conference is a smokescreen for a paid vacation in disguise.
+Or, are you suspicious that the conference is a smokescreen for a paid vacation in disguise.
 
-I tend to side with the former view. I believe that latter view reflects a general distrust of developers and a deep seated idea that workers must suffer or it doesn't count as work. After all, that's why they call it work. How bleak!
+That last view reflects a general distrust of developers and a deep seated idea that workers must suffer or it doesn't count as work. After all, that's why they call it work, right? How bleak!
 
-The reason I mention this is last week I had the great pleasure to give the opening keynote for the first ever [Caribbean Developer's Conference](https://caribbeandevconf.com/cdc-2018/), held in Punta Cana, Dominican Republic.
+Instead, what comes to my mind is a great learning and networking opportunity like any other conference that just happens to be in a warm beautiful place.
 
-This was in a beautiful location with soft sandy beaches and endless mojitos. At the same time, it was a solid impactful conference. At the same time it was relaxing, refreshing, and dare I say it? Fun!
+The reason I ask is that last week I had the great pleasure to give the opening keynote for the first ever [Caribbean Developer's Conference](https://caribbeandevconf.com/cdc-2018/), held in Punta Cana, Dominican Republic.
 
 ![Me on stage](https://user-images.githubusercontent.com/19977/47868589-c77bb500-ddc1-11e8-9ec7-532c219b1dde.png)
+
+
+This was in a beautiful location with soft sandy beaches and endless Piña Coladas.  It was relaxing, refreshing, and dare I say it? Fun! At the same time, it was a solid impactful conference where I learned a lot and made a lot of great new connections.
 
 The conference was held at the [Hard Rock Hotel and Casino](https://www.hardrockhotelpuntacana.com/), an all-inclusive resort. Just look at this place.
 
@@ -31,17 +34,17 @@ Do I look relaxed?
 
 ## Diverse and international conference.
 
-This conference featured 45 speakers from 15 countries and 33 different companies.
+According to Eventbrite, the platform used to manage the conference,this conference featured 45 speakers from 15 countries and 33 different companies.
 
 The speaker [line-up was impressive](https://caribbeandevconf.com/speaker-lineup/) too. And I'm not just saying that because it included me.
 
 ![A selection of the fine speakers](https://user-images.githubusercontent.com/19977/47885396-117c8f00-ddf2-11e8-9ac8-75ebd9064d08.png)
 
-There were 300 participants from 14 countries and 157 different companies.
+There were 300 participants from 14 countries and 157 different companies. Eventbrite shows that 67% of attendeers were men and 33% were women.
 
 The organizers are committed to creating a conference that represents and embraces the entire Caribbean region, not just the Dominican Republic (DR). Having said that, 90% of the attendees country were from the DR.
 
-Their goal is to grow this into a true regional conference. This first one was a great start, but there's more work to be done.
+Their goal is to grow this into a true regional conference that is diverse and inclusive. This first one was a great start, but there's more work to be done.
 
 ## Going Regional
 
