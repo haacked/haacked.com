@@ -34,7 +34,7 @@ Do I look relaxed?
 
 ## Diverse and international conference.
 
-According to Eventbrite, the platform used to manage the conference,this conference featured 45 speakers from 15 countries and 33 different companies.
+According to Eventbrite, the platform used to manage the conference, this conference featured 45 speakers from 15 countries and 33 different companies.
 
 The speaker [line-up was impressive](https://caribbeandevconf.com/speaker-lineup/) too. And I'm not just saying that because it included me.
 
