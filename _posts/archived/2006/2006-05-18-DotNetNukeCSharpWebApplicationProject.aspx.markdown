@@ -4,12 +4,13 @@ title: DotNetNuke CSharp Web Application Project
 date: 2006-05-18 -0800
 comments: true
 disqus_identifier: 12848
-categories: []
+categories: [DNN DotNetNuke]
 redirect_from: "/archive/2006/05/17/DotNetNukeCSharpWebApplicationProject.aspx/"
 ---
 
-Better grab this before they take away my DNN license. But first, let me
-give you a bit of background.
+_THIS POST IS OBSOLETE AND LEFT HERE FOR ARCHIVAL REASONS_
+
+Better grab this before they take away my DNN license. But first, let me give you a bit of background.
 
 ### Background
 
@@ -123,20 +124,3 @@ I went ahead and added some pre-existing modules to the project
 project references from my Web Application Project to the individual
 module projects. As far as I can tell, there is no longer the need to
 have a *BuildSupport* project with this approach.
-
-### Download
-
-To save you some time I am including the barebone solution and project
-[here](https://haacked.com.nyud.net:8080/code/DNN_WebApplicationProject.zip "Download a barebone solution")
-based on the DNN 4.0.3 distribution.
-
-Keep in mind that this is a “pre-install” project meaning that after you
-set it up, you will need to rename release.config to web.config and
-update the connection string settings to point to your database.
-Afterwards, hit CTRL+F5 and walk through the DNN web-based installation
-process. That process will make filesystem changes so make sure you have
-appropriate write access.
-
-Let me know if this works for you or if you find any mistakes, problems,
-issues with it.
-
