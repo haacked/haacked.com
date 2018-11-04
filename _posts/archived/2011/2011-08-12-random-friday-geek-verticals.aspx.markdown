@@ -60,8 +60,3 @@ It’s pretty challenging to do this with folks who are not
 television/movie celebrities because you have far fewer images to work
 from, so I did the best I could with what I could find.
 
-If you think you can do a lot better, [download the raw
-images](https://haacked.com/images/humor/raw-geek-verticals.zip "Raw Geek Verticals")
-and prove it! When you do, post a link in the comments so we can see it.
-![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Random-Friday-Geek-Verticals_13D35/wlEmoticon-smile_2.png)
-
