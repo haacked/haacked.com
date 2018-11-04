@@ -1,0 +1,8 @@
+id: 90483da1
+date: 2018-10-23T13:19:20.9044063Z
+name: Ivan Ferrer
+avatar: https://secure.gravatar.com/avatar/ec68fec4490d0f0dacf9a5b214ee09d0?s=80&d=identicon&r=pg
+message: >-
+  A bit 'ancient' topic, but I'm going to try using CurrentThread.Name. If it equals "ABORT" (set by another thread), I will end its job peacefully.
+
+  Regards.
