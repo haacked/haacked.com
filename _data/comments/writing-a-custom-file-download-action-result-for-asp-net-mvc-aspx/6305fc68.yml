@@ -1,0 +1,5 @@
+id: 6305fc68
+date: 2018-11-10T10:23:08.5188337Z
+name: Vinay
+avatar: https://secure.gravatar.com/avatar/016ab01ac2f7cd8178c7e2d8b8918f6f?s=80&d=identicon&r=pg
+message: "//Controller code\r\npublic FilePathResult DownLoad()\r\n        {\r\n            return new FilePathResult(Url.Content(@\"/Uploads/song.mp3\"), \"audio/mp3\");\r\n        }\r\n//Url\r\nhttp://localhost:50412/Home/Download \r\n\r\nI can play the song using the above url but cannot perform forward/backward the song by dragging the progress bar..can anyone pls suggest any solution ?"
