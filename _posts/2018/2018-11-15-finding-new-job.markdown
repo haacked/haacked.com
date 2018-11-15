@@ -17,7 +17,7 @@ This was one of the questions discussed last night at the Cascadia JS Scholar Su
 
 Now that [I've left GitHub](https://twitter.com/haacked/status/1053296117176184834), I have more time to get involved in such events and ponder these questions with others.
 
-### What the hell do I know about this?
+## What the hell do I know about this?
 
 I'll be honest, it's been a long time since I had to do a job search. My first job as a programmer came right out of college when dinosaurs still roamed the earth crapping out startups like there was no tomorrow.
 
@@ -33,7 +33,7 @@ So I felt a bit unprepared to help answer the question about how to land your fi
 
 It occurred to me that I might have something to offer. It wasn't long ago that I was a hiring manager and that experience might be useful.
 
-### Hiring practices
+## Hiring practices
 
 Before I get into some tips, it's important to understand that hiring practices differ widely. And most interviews are no better than random chance at predicting future success.
 
@@ -47,7 +47,7 @@ Combinations of practices can net up to 60% predictive validity.
 
 A big part of GitHub's hiring practices is to remove bias from the process. For example, GitHub doesn't use your GitHub profile as a signal because whether you have time to contribute to projects on GitHub depends on a lot of other factors that may not correlate to being a solid performer.
 
-### Getting Noticed
+## Getting Noticed
 
 The tips I will provide are not comprehensive. There's probably much better resources a Google search away. These are just a few tips I want to highlight based on my own experience.
 
@@ -59,7 +59,7 @@ When you find a job you're interested in, see if you know someone who works ther
 
 This last bit is important because you want their values to align with yours, or it's not going to go well.
 
-### Applying for that job
+## Applying for that job
 
 Most developers know that companies like Microsoft, Amazon, Google, GitHub, etc. are constantly hiring. 
 
@@ -73,7 +73,7 @@ I also don't recommend spamming your resume to a bunch of jobs. As one who revie
 
 Even with these tips, there's a lot of luck involved.
 
-### Interviewing
+## Interviewing
 
 If you make it passed the screeners, it's now time to interview. Hopefully, you're applying to a company that is committed to removing bias from its interviews.
 
@@ -91,7 +91,7 @@ In my mind, these folks have a leg up on folks right out of college. They alread
 
 But if you don't have much work experience, when faced with such a question, note that you haven't been in such a situation, but answer with what you would do if faced with such a situation.
 
-### For those hiring
+## For those hiring
 
 Many of the readers of my blog are experienced software engineers managers, and leaders. I encourage you to get involved with mentoring the next generation of developers. Reflect on the anxiety you felt when you looked for your first job.
 
