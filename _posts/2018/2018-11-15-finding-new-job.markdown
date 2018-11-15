@@ -31,7 +31,7 @@ I found that first job through applying to a series of job ads when I was a seni
 
 So I felt a bit unprepared to help answer the question about how to land your first job. I even asked if dice.com was still a thing, clearly identifying myself as a dinosaur.
 
-However, it occurred to me that it wasn't long ago that I was a hiring manager and that experience might be useful.
+It occurred to me that I might have something to offer. It wasn't long ago that I was a hiring manager and that experience might be useful.
 
 ### Hiring practices
 
@@ -51,7 +51,7 @@ A big part of GitHub's hiring practices is to remove bias from the process. For 
 
 The tips I will provide are not comprehensive. There's probably much better resources a Google search away. These are just a few tips I want to highlight based on my own experience.
 
-So the first step is to get noticed. This is bidirectional. You need to notice a good place to work. And the good place to work needs to notice you.
+The first step is to get noticed. This is bidirectional. You need to notice a good place to work. And the good place to work needs to notice you.
 
 Networking comes in real handy here. The more people you network with, the more opportunities you learn about. If you don't have the benefit of a deep network, reach out to folks you know. Try and attend events like the Cascadia Scholars mixer. Attend user groups. Connect with folks on LinkedIn and note that you're looking.
 
@@ -61,9 +61,13 @@ This last bit is important because you want their values to align with yours, or
 
 ### Applying for that job
 
+Most developers know that companies like Microsoft, Amazon, Google, GitHub, etc. are constantly hiring. 
+
 A company like GitHub can get hundreds of applications for a given position. Reviewing that many applications can put a reviewer in a zombified state.
 
-It's important to make sure your application stands out. For example, many applications have a short set of screener questions. This is not your opportunity to write a long manifesto. This is your chance to demonstrate competence and communication skills by answering the question succinctly.
+This is one reason that networking is important. It can uncover a smaller company that is a diamond in the rough and isn't getting overloaded by applications.
+
+In either case, it's important to make sure your application stands out. For example, many applications have a short set of screener questions. This is not your opportunity to write a long manifesto. This is your chance to demonstrate competence and communication skills by answering the question succinctly.
 
 I also don't recommend spamming your resume to a bunch of jobs. As one who reviewed a ton of resumes, the ones that caught my attention seemed tailored to the applied position. It was clear to me they emphasized their experience that related to the position. Walls of text cause my eyes to glaze over.
 
@@ -71,13 +75,13 @@ Even with these tips, there's a lot of luck involved.
 
 ### Interviewing
 
-If you make it passed the screeners, it's now time to interview. Hopefully, you're applying to a company that uses structured interviews.
+If you make it passed the screeners, it's now time to interview. Hopefully, you're applying to a company that is committed to removing bias from its interviews.
 
-If someone asks you how many manhole covers there are in New York,flip the table and leave. Those questions are useless and reflect an outdated approach to interviewing. You don't want to work there.
+If someone asks you why manhole covers are round, flip the table and leave. Those questions are useless and reflect an outdated approach to interviewing. You don't want to work there. Unless, of course, you're applying to a job making manholes. Only then is that question relevant.
 
-Research the position and look online for the types of questions that might be asked. Many questions will be situational. It's good to think through situations relevant to the position and how you'd answer.
+Research the position and look online for the types of questions that might be asked. It goes without saying that you should be prepared to answer technical questions relevant to the position.
 
-Knowing the tech well is important, but also expect questions that relate to how you work with others. For example,
+But be prepared that many questions will be situational. It's good to think through situations from your own past relevant to the position and how you'd answer such questions. For example,
 
 > Tell me about a time you had to deal with a difficult peer. What did you do?
 
