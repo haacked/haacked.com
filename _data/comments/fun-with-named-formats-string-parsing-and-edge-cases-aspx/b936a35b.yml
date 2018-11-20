@@ -1,0 +1,10 @@
+id: b936a35b
+date: 2018-11-20T19:41:10.3745966Z
+name: Keith P.
+avatar: https://secure.gravatar.com/avatar/4518d38857f64e6674882da552d3ec06?s=80&d=identicon&r=pg
+message: >-
+  String interpolation is great and all, but you are still bound by your expressions' scopes, so you can't have something like:
+
+  public const string MyNamedFormat = $"Name is: {name}";
+
+  I'd like to see it beefed up a bit so that you can let the compiler fill it in, *or* you can provide values for any of the (named) specifiers.
