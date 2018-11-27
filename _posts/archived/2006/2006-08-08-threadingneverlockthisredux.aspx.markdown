@@ -4,33 +4,19 @@ title: Threading - Never Lock This Redux
 date: 2006-08-08 -0800
 comments: true
 disqus_identifier: 14764
-categories: []
-redirect_from: "/archive/2006/08/07/threadingneverlockthisredux.aspx/"
+categories: [dotnet csharp threading lock]
+redirect_from:
+  - "/archive/2006/08/07/threadingneverlockthisredux.aspx/"
+  - "/archive/2006/08/08/ThreadingNeverLockThisRedux.aspx/"
 ---
 
-A while ago I wrote that you [should never lock a value type and never
-lock
-`this`](https://haacked.com/archive/2005/04/12/NeverLockThis.aspx "Threading Tips").
-I presented a code snippet to illustrate the point but I violated the
-cardinal rule for code examples: compile and test it in context. Mea
-Culpa! Today in my comments, someone named Jack rightly pointed out that
-my example doesn’t demonstrate a deadlock due to locking `this`. As he
-points out, if the code were in a Finalizer, then my example would be
-believable.
+A while ago I wrote that you [should never lock a value type and never lock `this`](https://haacked.com/archive/2005/04/12/NeverLockThis.aspx "Threading Tips"). I presented a code snippet to illustrate the point but I violated the cardinal rule for code examples: compile and test it in context. Mea Culpa! Today in my comments, someone named Jack rightly pointed out that my example doesn’t demonstrate a deadlock due to locking `this`. As he points out, if the code were in a Finalizer, then my example would be believable.
 
-To my defense, I was just testing to see if you were paying attention.
-;) Nice find Jack!
+To my defense, I was just testing to see if you were paying attention. ;) Nice find Jack!
 
-My example was loosely based on Richter’s example in his article on
-[Safe Thread
-Synchronization](http://msdn.microsoft.com/msdnmag/issues/03/01/NET/ "Safe Thread Synchronization").
-Instead of rewriting his example, I will just [link to
-it](http://msdn.microsoft.com/msdnmag/issues/03/01/NET/default.aspx?fig=true#fig7 "Figure 7 - Threads Banging Heads").
+My example was loosely based on Richter’s example in his article on [Safe Thread Synchronization](http://msdn.microsoft.com/msdnmag/issues/03/01/NET/ "Safe Thread Synchronization"). Instead of rewriting his example, I will just [link to it](http://msdn.microsoft.com/msdnmag/issues/03/01/NET/default.aspx?fig=true#fig7 "Figure 7 - Threads Banging Heads").
 
-His example properly demonstrates the problem with a Finalizer thread
-attempting to lock on the object. However Jack goes on to say that
-locking on `this` in an ordinary method is fine. I still beg to differ,
-and have a better code example to prove it.
+His example properly demonstrates the problem with a Finalizer thread attempting to lock on the object. However Jack goes on to say that locking on `this` in an ordinary method is fine. I still beg to differ, and have a better code example to prove it.
 
 Again, suppose you carefully craft a class to handle threading
 internally. You have certain methods that carefully protect against
@@ -153,4 +139,3 @@ public class WorkDispatcher
 So Jack, if you are reading this, I hope it convinces you (and everyone
 else) that locking on `this`, even in a normal method, is a pretty bad
 idea. It won’t always lead to problems, but why risk it?
-
