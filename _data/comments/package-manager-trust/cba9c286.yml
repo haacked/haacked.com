@@ -1,0 +1,5 @@
+id: cba9c286
+date: 2018-11-28T18:59:05.6518244Z
+name: haacked
+avatar: https://avatars.io/twitter/@haacked/medium
+message: "@rido I'm not sure that totally solves this problem though. For example, if I create an org to host my NuGet package and add extra maintainers to the org, any one of those maintainers can now push. As I understand it, NuGet would allow you to restrict on the org, not the individual person who pushed the package."
