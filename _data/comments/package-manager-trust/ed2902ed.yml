@@ -1,0 +1,8 @@
+id: ed2902ed
+date: 2018-11-28T17:21:12.9418884Z
+name: rido
+avatar: https://avatars.io/twitter/@ridomin/medium
+message: >-
+  >"Consider a change of owner as a SemVer breaking change"
+
+  Actually the NuGet client policies feature allows to restrict packages by repo owner. https://docs.microsoft.com/en-us/nuget/reference/nuget-config-file#trustedsigners-section 
