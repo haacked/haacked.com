@@ -68,7 +68,7 @@ For example, changing the owner (or giving someone else rights to publish) for m
 There's a few things package managers might consider in this situation (in addition to the ideas I wrote about in [my Trust and NuGet post](https://haacked.com/archive/2013/02/19/trust-and-nuget.aspx/)).
 
 1. Consider a change of owner as a [SemVer breaking change](https://semver.org). At least that would prevent the package from aggressively being updated in most package managers.
-2. When changing owners (or giving publish access), provide easy to understand reputation information for very popular packages. Maybe even block ownership tranfer on extremely popular packages to suspect individuals. The point here is to leverage reputation and trust information in some useful way.
+2. When changing owners (or giving publish access), provide easy to understand reputation information for very popular packages. Maybe even block ownership transfer on extremely popular packages to suspect individuals. The point here is to leverage reputation and trust information in some useful way.
 3. Provide education, tools, and support to burnt-out maintainers. Work with open source foundations so that they can take over and perhaps vet and find maintainers for projects that maintainers want to dump. Don't leave the entire burden on maintainers of projects that became way more popular than they anticipated. We need to share that burden.
 
 This is an area where GitHub (_full disclosure: I'm a former GitHub employee_) could really take a lead in concert with the various package managers. GitHub has a wealth of information about repositories, their dependencies, and the people who work on them. This information could help maintainers make better choices, if it was integrated with the information that package managers have on hand. This would require deep cooperation between package managers and GitHub. I think this would be a very good thing. 
@@ -79,7 +79,7 @@ One solution a lot of folks bring up is paying maintainers to maintain these pac
 
 Of course I'm all for systems that help maintainers get paid for the work they do. At the same time, I'm skeptical that this will actually solve the trust problem.
 
-Often, the resource that's really scarce for maintainers is time, not money. A lot of maintainers work on their open source projects on the side while holding down a full-time job. Part of the cause of burn out is the additional stress of working on a bunch of side project on the weekend. A few grand extra doesn't necessarily solve that problem. Their day job is unlikely to let them work less hourse because they have a side project.
+Often, the resource that's really scarce for maintainers is time, not money. A lot of maintainers work on their open source projects on the side while holding down a full-time job. Part of the cause of burn out is the additional stress of working on a bunch of side project on the weekend. A few grand extra doesn't necessarily solve that problem. Their day job is unlikely to let them work less hours because they have a side project.
 
 The only way this works is if maintainers are paid enough to quit their day jobs and maintain their open source projects full-time. This works great if [you're the maintainer of Linux](https://groups.google.com/forum/#!topic/sci.physics/MHnwywpxof4), but probably not sustainable for someone who maintains a handful of small packages.
 
