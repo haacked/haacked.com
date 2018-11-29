@@ -614,3 +614,34 @@ input + .info-circle:after {
   left: -20px;
   margin-right: -15px;
 }
+
+.contributor-list {
+  -moz-column-rule: 1px dotted $grey-color-light;
+  -webkit-column-rule: 1px dotted $grey-color-light;
+  column-rule: 1px dotted $grey-color-light;
+  -moz-columns: 5 64px;
+  -webkit-columns: 5 64px;
+  columns: 5 64px;
+  list-style-type: none;
+  margin-top: 20px;
+
+  li {
+    display: inline-block;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 100%;
+
+    img {
+      -moz-border-radius: 50%;
+      -webkit-border-radius: 50%;
+      border-radius: 50%;
+      width: 64px;
+    }
+
+    a {
+      display: block;
+      line-height: 1;
+    }
+  }
+}
+
