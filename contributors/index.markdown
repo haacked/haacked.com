@@ -17,10 +17,10 @@ Every post in my blog has an edit link that lets you edit the blog post directly
 Or [visit my repository]({{site.github.repository_url}}) and send me a pull
 request the old fashioned way.
 
-<ul>
+<ul class="contributor-list">
 {% for contributor in site.github.contributors %}
   <li>
-    <img src="{{ contributor.avatar_url }}" width="32" height="32" /> <a href="{{ contributor.html_url }}">{{ contributor.login }}</a>
+    <img src="{{ contributor.avatar_url }}" /> <a href="{{ contributor.html_url }}">{{ contributor.login }}</a>
   </li>
 {% endfor %}
 </ul>
