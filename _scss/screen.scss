@@ -615,12 +615,7 @@ input + .info-circle:after {
   margin-right: -15px;
 }
 
-$grey-color-light: #eee;
-
 .contributor-list {
-  -moz-column-rule: 1px dotted $grey-color-light;
-  -webkit-column-rule: 1px dotted $grey-color-light;
-  column-rule: 1px dotted $grey-color-light;
   -moz-columns: 5 64px;
   -webkit-columns: 5 64px;
   columns: 5 64px;
