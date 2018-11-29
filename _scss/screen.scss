@@ -624,11 +624,13 @@ input + .info-circle:after {
 
   li {
     display: inline-block;
+    font-family: "Open Sans";
+    font-size: .7em;
     height: 110px;
     margin-bottom: 10px;
     text-align: center;
     width: 100%;
-
+  
     img {
       -moz-border-radius: 50%;
       -webkit-border-radius: 50%;
