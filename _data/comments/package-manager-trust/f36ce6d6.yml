@@ -1,0 +1,37 @@
+id: f36ce6d6
+date: 2018-11-30T17:03:48.2191002Z
+name: Bruno
+avatar: https://avatars.io/twitter/@b_antunes/medium
+message: >+
+  I still think a _little_ prick with the pitchfork is in order. Going over your suggestions:
+
+
+
+
+
+  1. good one, SemVer breakage would have helped (maybe)
+
+
+
+  2. "Maybe even block ownership transfer on extremely popular packages to suspect individuals." yes, and why I think people are so upset about this - the complete divesting of responsibility by handing a package with 2 million weekly downloads to someone you don't know, haven't seen at talks or meetups, haven't read a blog post by, and with an almost empty Github profile! How is this not common sense?!
+
+  3. Wishful thinking, it won't happen for a while
+
+
+
+
+
+
+
+  Open source is hard, I'm not saying Dominic should be crucified for this, but a slight scolding is not out of place. But to expect the click-n-bundle world of Github will change is naive, too - it's free, and that attracts the worst kind of people at times. We need systems in place to tackle this, but until those are in place common sense has to have some place in the solution.
+
+
+
+
+
+  This being said, maintaining packages is super hard, please be nice to maintainers.
+
+
+
+
+
