@@ -75,7 +75,7 @@ Even with these tips, there's a lot of luck involved.
 
 ## Interviewing
 
-If you make it passed the screeners, it's now time to interview. Hopefully, you're applying to a company that is committed to removing bias from its interviews.
+If you make it pass the screeners, it's now time to interview. Hopefully, you're applying to a company that is committed to removing bias from its interviews.
 
 If someone asks you why manhole covers are round, flip the table and leave. Those questions are useless and reflect an outdated approach to interviewing. You don't want to work there. Unless, of course, you're applying to a job making manholes. Only then is that question relevant.
 
