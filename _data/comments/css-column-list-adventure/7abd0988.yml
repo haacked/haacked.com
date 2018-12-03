@@ -1,0 +1,5 @@
+id: 7abd0988
+date: 2018-12-03T19:16:18.7395866Z
+name: Mike Simpson
+avatar: https://secure.gravatar.com/avatar/4e35506d098e962b709f96922b684eb4?s=80&d=identicon&r=pg
+message: Umm... I'm not a CSS expert either, but I think flexbox (https://css-tricks.com/snippets/css/a-guide-to-flexbox/) can do this for you pretty easily.
