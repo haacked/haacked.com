@@ -1,0 +1,5 @@
+id: cb5fb195
+date: 2018-12-03T20:13:11.5265142Z
+name: Jonathan
+avatar: https://avatars.io/twitter/@lambdaxpression/medium
+message: "CSS grid layout is what you want:\r\n\r\nul {\r\n  display: grid;  \r\n  grid-template-columns: repeat(auto-fit,minmax(64px, 1fr));\r\n}"
