@@ -618,21 +618,15 @@ input + .info-circle:after {
 .contributor-list {
   list-style-type: none;
   margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(132px, 1fr));
 
-  &::after {
-    content: '';
-    width: 100%;
-    display: inline-block;
-  }
-    
   li {
-    display: inline-block;
     font-family: "Open Sans";
     font-size: .7em;
     height: 110px;
     margin-bottom: 10px;
     text-align: center;
-    width: 132px;
   
     img {
       -moz-border-radius: 50%;
