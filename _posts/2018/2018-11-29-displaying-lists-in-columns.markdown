@@ -7,17 +7,17 @@ comments: true
 categories: [css design]
 ---
 
-I like to give credit where credit is due, hence my blog sports a [contributors page](/contributors). This page lists the folks who have submitted a pull request to my blog with corrections and fixes.
+To give credit where credit is due, my blog has a [contributors page](/contributors). This page lists the folks who have submitted a pull request to my blog with corrections such as typo and spelling fixes. Lots and lots of fixes. Because I make a lot of mistakes.
 
 The first version of this page was a simple bulleted unordered list. It was fugly.
 
 What I wanted to accomplish was something more like this.
 
-![The end goal - list of contributors in columns](https://user-images.githubusercontent.com/19977/49240817-026e0a00-f3bb-11e8-8ce6-e0df9afa517a.png)
+![The end goal - list of contributors in columns](https://user-images.githubusercontent.com/19977/49349901-a8db3900-f661-11e8-81e5-7b19a0f3d2d7.png)
 
 And if you resize the browser to be more narrow, I wanted the list to collapse to fewer columns.
 
-![Four columns](https://user-images.githubusercontent.com/19977/49240740-d18dd500-f3ba-11e8-8fdd-36a21f82c961.png)
+![Four columns](https://user-images.githubusercontent.com/19977/49349977-fc4d8700-f661-11e8-8909-afae0fa3f688.png)
 
 Turns out, this is easier said than done.
 
@@ -40,9 +40,9 @@ First, let's look at my initial conditions. I have an unordered list of images a
 
 Without any styling, it'll look like more or less like this.
 
-![Ugly list](https://user-images.githubusercontent.com/19977/49332826-27a07b00-f569-11e8-86ab-13fd99a0119b.png)
+![Ugly list](https://user-images.githubusercontent.com/19977/49350009-1be4af80-f662-11e8-9562-97a6a248e499.png)
 
-It evokes a Mosaic-era design. This is what my contributors page used to look like.
+It evokes a [Mosaic-era design](https://en.wikipedia.org/wiki/Mosaic_(web_browser)). This is what my contributors page used to look like.
 
 The `column-count` css attribute allows you to specify the number of columns. To keep things simple, I'll focus on Chrome and ignore the vendor specific prefixes until the end.
 
@@ -58,7 +58,7 @@ ul {
 
 This results in:
 
-![Four column layout](https://user-images.githubusercontent.com/19977/49332875-eb214f00-f569-11e8-9b39-28b146724999.png)
+![Four column layout](https://user-images.githubusercontent.com/19977/49350034-3585f700-f662-11e8-85f1-be68837ab6e5.png)
 
 Ok, not too bad. To put the name on its own line, we'll set it to be a block display. We'll also center everything in each list item.
 
@@ -78,21 +78,21 @@ a {
 }
 ```
 
-![Four columns, each centered](https://user-images.githubusercontent.com/19977/49332904-6f73d200-f56a-11e8-804f-77ea13a7ff3f.png)
+![Four columns, each centered](https://user-images.githubusercontent.com/19977/49350070-5ea68780-f662-11e8-8f25-5cb249a6fa0d.png)
 
 Wow, that worked just fine. I seem to be on a roll. You would be forgiven if you think we're close to being done here. But remember...
 
-![THIS... IS... CSS!!!](https://user-images.githubusercontent.com/19977/49347907-e6869480-f656-11e8-87e4-7ed824fe35b4.png)
+![THIS... IS... CSS!!!](https://user-images.githubusercontent.com/19977/49350100-8138a080-f662-11e8-9b6c-3ef7302464a3.png)
 
 Let's make sure this continues to work as we add more band members. Fortunately with Earth Wind & Fire, there are many to choose from.
 
-![Still four columns, but why is the third longer](https://user-images.githubusercontent.com/19977/49347976-66146380-f657-11e8-9154-b2ff4d87accd.png)
+![Still four columns, but why is the third longer](https://user-images.githubusercontent.com/19977/49350137-ab8a5e00-f662-11e8-9996-f0f1876f7fd0.png)
 
 Well that's unexpected. Notice how Larry's name is in the next column. It seems that the columnization factors in each image and anchor element. But if that's so, it's unclear why the first two columns have four elements and the last two have five.
 
 Let's add one more list item.
 
-![Shit's gone bonkers](https://user-images.githubusercontent.com/19977/49348011-9cea7980-f657-11e8-8181-2b5baf402d82.png)
+![Shit's gone bonkers](https://user-images.githubusercontent.com/19977/49350161-c4930f00-f662-11e8-841f-2c20544879a6.png)
 
 WTF CSS?!
 
@@ -108,11 +108,11 @@ li {
 }
 ```
 
-![Looks close](https://user-images.githubusercontent.com/19977/49348233-23ec2180-f659-11e8-9156-4d25be54a4a5.png)
+![Looks better](https://user-images.githubusercontent.com/19977/49350189-e7252800-f662-11e8-8a14-42a7cbd67679.png)
 
 Much better. Let's see what happens if I add one more element.
 
-![That looks great](https://user-images.githubusercontent.com/19977/49348288-6e6d9e00-f659-11e8-8b87-fba704bee2bd.png)
+![That loks great](https://user-images.githubusercontent.com/19977/49350220-00c66f80-f663-11e8-9c45-b40233268c40.png)
 
 Now it looks great! So as the list grows, there's a few intermediate stages where things look off, but overall it works.
 
@@ -148,7 +148,7 @@ img {
 }
 ```
 
-![Just like my blog](https://user-images.githubusercontent.com/19977/49348559-f7390980-f65a-11e8-8335-ffc83623401f.png)
+![Just like my blog](https://user-images.githubusercontent.com/19977/49350268-2c495a00-f663-11e8-90f8-86068b80a49b.png)
 
 And that's pretty close to how it looks on my blog.
 
@@ -181,11 +181,11 @@ li {
 
 Notice that there's a weird `ul:after` hack in there. That's to ensure there's always an extra line, otherwise the very last line won't be justified. I found [that trick here](https://css-tricks.com/equidistant-objects-with-css/).
 
-![Nice columnar layout](https://user-images.githubusercontent.com/19977/49348851-bf32c600-f65c-11e8-87f5-31b918eefd7e.png)
+![Nice columnar layout](https://user-images.githubusercontent.com/19977/49350296-4a16bf00-f663-11e8-8718-df331084722f.png)
 
 And look how it responds when I narrow the window.
 
-![Three column layout](https://user-images.githubusercontent.com/19977/49348914-ff924400-f65c-11e8-8d9e-a7c141468ce8.png)
+![Three column layout](https://user-images.githubusercontent.com/19977/49350326-66b2f700-f663-11e8-9000-e63f24e262c6.png)
 
 Even better, this approach lists contributors in a more natural order for those of us who read left to right.
 
