@@ -617,7 +617,7 @@ input + .info-circle:after {
 
 .contributor-list {
   list-style-type: none;
-  margin-top: 20px;
+  padding-top: 40px;
   display: grid;
   grid-template-columns: repeat(auto-fit,minmax(132px, 1fr));
 
