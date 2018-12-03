@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Responsive lists in columns with CSS"
-description: "How do you render an unordered list into columns in a responsive manner?"
-date: 2018-11-29 -0800 09:30 AM PDT
+title: "An adventure in CSS with column lists"
+description: "How do you render an unordered list into columns in a responsive manner without losing your mind?"
+date: 2018-12-03 -0800 09:30 AM PDT
 comments: true
 categories: [css design]
 ---
+
+Sit back and relax as I regale you with a harrowing account of trying to do something straightforward with CSS. Ha! Straightforward. How silly was I to think that. As they say,
+
+> Fool me once. Shame on you. Fool me twice, CSS.
 
 To give credit where credit is due, my blog has a [contributors page](/contributors). This page lists the folks who have submitted a pull request to my blog with corrections such as typo and spelling fixes. Lots and lots of fixes. Because I make a lot of mistakes.
 
