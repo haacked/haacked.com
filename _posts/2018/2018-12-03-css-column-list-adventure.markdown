@@ -193,6 +193,29 @@ And look how it responds when I narrow the window.
 
 Even better, this approach lists contributors in a more natural order for those of us who read left to right.
 
+## An even better approach
+
+And of course, not long after I posted the original version of this post, two commenters mention two better approaches, [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) and [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/).
+
+This is why I'm happy to put my CSS ignorance on display to the world - people with more knowledge than me provide better solutions than the ones I came up with.
+
+I ended up using CSS grid because the second commenter, Jonathan, provided the exact CSS I needed and it worked. This meant I could simplify the CSS.
+
+```css
+ul {
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(132px, 1fr)); 
+}
+
+li {
+  text-align: center;
+  padding-bottom: 20px;
+}
+```
+
+No changes to the image or anchor CSS were needed.
+
 ## Listing contributors
 
 You might wonder how am I listing contributors to my blog? Am I editing a list every time I merge a pull request? Ha! I'm too lazy for that.
