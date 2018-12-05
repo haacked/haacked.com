@@ -158,7 +158,7 @@ And that's pretty close to how it looks on my blog.
 
 ## Rethink the assumptions
 
-In the end, I realized I was going about this all wrong. One benefit of the column approach is the column rule. If you can't change the market, that perfectly spaced rule is is difficult with unordered list.
+In the end, I realized I was going about this all wrong. One benefit of the column approach is the column rule. If you can't change the market, that perfectly spaced rule is difficult with unordered list.
 
 But as I mentioned before, I don't care about the rules. I also don't care about how many columns the images are in. I just care that they are aligned and responsive to size changes.
 
