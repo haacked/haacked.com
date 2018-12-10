@@ -4,7 +4,7 @@ title: Mr Subsonic Joins Microsoft
 date: 2007-10-26 -0800
 comments: true
 disqus_identifier: 18411
-categories: []
+categories: [microsoft work]
 redirect_from: "/archive/2007/10/25/mr-subsonic-joins-microsoft.aspx/"
 ---
 
@@ -36,7 +36,4 @@ I really think our first order of business is to build a sample MVC
 application using
 [LOLCode.NET](http://blog.notdot.net/archives/32-LOLCode.net-Now-your-LOLCats-can-use-the-CLR!.html "LOLCode compiler for .NET").
 Until your framework supports LOLCode, nobody takes you seriously.
-
-Technorati Tags: [Microsoft](http://technorati.com/tags/Microsoft/) ,
-[Rob Conery](http://technorati.com/tags/Rob%20Conery/)
 

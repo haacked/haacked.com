@@ -4,7 +4,7 @@ title: Build Traffic With Father's Day Humor
 date: 2007-06-15 -0800
 comments: true
 disqus_identifier: 18352
-categories: []
+categories: [humor]
 redirect_from: "/archive/2007/06/14/fathers-day-humor-impact-on-blog-traffic.aspx/"
 ---
 
@@ -58,8 +58,4 @@ new readers who actually enjoy the whole of your blog.
 
 In general, I think it’s best to focus on building the type of traffic
 you want. But if you have something truly funny to post, do share.
-
-Technorati tags: [Humor](http://technorati.com/tags/Humor), [Fathers
-Day](http://technorati.com/tags/Fathers%20Day), [Google
-Analytics](http://technorati.com/tags/Google%20Analytics)
 

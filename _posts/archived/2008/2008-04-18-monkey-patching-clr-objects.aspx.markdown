@@ -4,8 +4,7 @@ title: Monkey Patching CLR Objects
 date: 2008-04-18 -0800
 comments: true
 disqus_identifier: 18478
-categories:
-- code
+categories: [dynamic-languages]
 redirect_from: "/archive/2008/04/17/monkey-patching-clr-objects.aspx/"
 ---
 
@@ -116,7 +115,3 @@ Pretty nifty, eh?
 
 In my next post, I will show you the concrete instance of using this and
 supply source code.
-
-Technorati Tags:
-[DLR](http://technorati.com/tags/DLR),[IronRuby](http://technorati.com/tags/IronRuby),[DSL](http://technorati.com/tags/DSL)
-

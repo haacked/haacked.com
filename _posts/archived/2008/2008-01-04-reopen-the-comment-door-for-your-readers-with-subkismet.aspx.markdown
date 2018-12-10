@@ -4,8 +4,7 @@ title: Reopen The Comment Door For Your Readers With Subkismet
 date: 2008-01-04 -0800
 comments: true
 disqus_identifier: 18444
-categories:
-- code
+categories: [spam blogging]
 redirect_from: "/archive/2008/01/03/reopen-the-comment-door-for-your-readers-with-subkismet.aspx/"
 ---
 
@@ -86,7 +85,4 @@ And for the record, Keyvan mentioned that I *ordered* him to prepare the
 release. While I do have dictatorial tendencies, I think this is too
 harsh a description. I’d like to say I *requested* that he prepare the
 release. ;)
-
-Technorati Tags:
-[Subkismet](http://technorati.com/tags/Subkismet),[Spam](http://technorati.com/tags/Spam)
 

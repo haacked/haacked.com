@@ -4,9 +4,7 @@ title: Unit Test Boundaries
 date: 2008-07-22 -0800
 comments: true
 disqus_identifier: 18506
-categories:
-- tdd
-- code
+categories: [tdd]
 redirect_from: "/archive/2008/07/21/unit-test-boundaries.aspx/"
 ---
 
@@ -92,9 +90,3 @@ This provides several key benefits.
 
 All this decoupling will provide long term benefits for the
 maintainability of your code.
-
-Technorati Tags: [TDD](http://technorati.com/tags/TDD),[Unit
-Test](http://technorati.com/tags/Unit+Test),[Orthogonality](http://technorati.com/tags/Orthogonality),[Single
-Responsibility
-Principle](http://technorati.com/tags/Single+Responsibility+Principle)
-

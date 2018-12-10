@@ -4,9 +4,7 @@ title: Filters in ASP.NET MVC CodePlex Preview 4
 date: 2008-08-14 -0800
 comments: true
 disqus_identifier: 18522
-categories:
-- asp.net
-- asp.net mvc
+categories: [aspnetmvc]
 redirect_from: "/archive/2008/08/13/aspnetmvc-filters.aspx/"
 ---
 
@@ -164,8 +162,3 @@ leaving you in control, it is still possible to get it all wrong. For
 example, I could write a custom output caching filter that implements
 `IAuthorizationFilter` and thus runs at the wrong time. **Please don’t
 do this.**Code responsibly.
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[aspnet](http://technorati.com/tags/aspnet),[action
-filters](http://technorati.com/tags/action+filters)
-

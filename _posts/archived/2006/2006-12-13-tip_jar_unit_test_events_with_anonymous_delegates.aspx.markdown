@@ -4,9 +4,7 @@ title: "[Tip Jar] Unit Test Events With Anonymous Delegates"
 date: 2006-12-13 -0800
 comments: true
 disqus_identifier: 18166
-categories:
-- code
-- tdd
+categories: [tips tdd code csharp]
 redirect_from: "/archive/2006/12/12/tip_jar_unit_test_events_with_anonymous_delegates.aspx/"
 ---
 
@@ -90,9 +88,4 @@ Contrast this approach to the [approach using Rhino Mocks I wrote
 about](https://haacked.com/archive/2006/06/23/UsingRhinoMocksToUnitTestEventsOnInterfaces.aspx "Using Rhino Mocks To Unit Test Events")
 a while ago. In that scenario, I was testing that a subscriber to an
 event handles it properly. In this case, I am testing the event source.
-
-Technorati Tags: [Tips](http://technorati.com/tags/Tips),
-[TDD](http://technorati.com/tags/TDD),
-[C\#](http://technorati.com/tags/C%23), [Rhino
-Mocks](http://technorati.com/tags/rhino+mocks)
 

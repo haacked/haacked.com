@@ -4,10 +4,7 @@ title: Thoughts on ASP.NET MVC Preview 2 and Beyond
 date: 2008-03-10 -0800
 comments: true
 disqus_identifier: 18462
-categories:
-- asp.net
-- code
-- asp.net mvc
+categories: [aspnet aspnetmvc code]
 redirect_from: "/archive/2008/03/09/thoughts-on-asp.net-mvc-preview-2-and-beyond.aspx/"
 ---
 
@@ -171,7 +168,4 @@ causing you problems. We might not respond to every single thing
 reported as quickly as we would like to, but we are involved in the
 forums and I am still trying to working through the massive list of
 emails accrued during Mix.
-
-Technorati Tags:
-[ASP.NET](http://technorati.com/tags/ASP.NET),[aspnetmvc](http://technorati.com/tags/aspnetmvc),[software](http://technorati.com/tags/software)
 

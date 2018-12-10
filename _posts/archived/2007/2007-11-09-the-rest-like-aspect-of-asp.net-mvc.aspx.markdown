@@ -4,9 +4,7 @@ title: The REST-Like Aspect Of ASP.NET MVC
 date: 2007-11-09 -0800
 comments: true
 disqus_identifier: 18420
-categories:
-- asp.net
-- asp.net mvc
+categories: [rest aspnetmvc aspnet]
 redirect_from: "/archive/2007/11/08/the-rest-like-aspect-of-asp.net-mvc.aspx/"
 ---
 
@@ -59,7 +57,4 @@ This is not a satisfying answer, I know. In a future post, I hope to
 answer that question better. In what situations should developers care
 about REST and in which situations, should they not? For now, I really
 should get some sleep. Over and out.
-
-Technorati Tags: [ASP.NET
-MVC](http://technorati.com/tags/aspnetmvc),[REST](http://technorati.com/tags/REST)
 

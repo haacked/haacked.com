@@ -4,7 +4,7 @@ title: Tip For Managing Remote VMWare Server
 date: 2006-10-11 -0800
 comments: true
 disqus_identifier: 18014
-categories: []
+categories: [tips]
 redirect_from: "/archive/2006/10/10/tip_for_managing_remote_vmware_server.aspx/"
 ---
 
@@ -18,6 +18,4 @@ session](https://haacked.com/archive/2005/10/13/Remote_Desktop_To_Console_Sessio
 
 The symptoms I ran into was that I could not open a virtual machine, and
 when I tried to create a new one, I got an “Invalid Handle” error.
-
-Technorati Tags: [Tips](http://technorati.com/tags/Tips)
 

@@ -4,8 +4,7 @@ title: ASP.NET Tip - Use The Label Control Correctly
 date: 2007-02-15 -0800
 comments: true
 disqus_identifier: 18215
-categories:
-- asp.net
+categories: [tips aspnet]
 redirect_from: "/archive/2007/02/14/asp.net_tip_-_use_the_label_control_correctly.aspx/"
 ---
 
@@ -65,7 +64,4 @@ Because you might not know at compile time what the client id of the
 TextBox will actually end up as. What if these two controls were inside
 a UserControl inside a page? The ID might get a bit funky as its nested
 in a control within a control.
-
-Technorati Tags: [Tips](http://technorati.com/tags/Tips),
-[ASP.NET](http://technorati.com/tags/ASP.NET),
 

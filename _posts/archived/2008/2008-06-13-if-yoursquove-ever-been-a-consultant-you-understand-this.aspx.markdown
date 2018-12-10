@@ -4,8 +4,7 @@ title: If You&rsquo;ve Ever Been A Consultant, You Understand This
 date: 2008-06-13 -0800
 comments: true
 disqus_identifier: 18493
-categories:
-- humor
+categories: [humor consulting]
 redirect_from: "/archive/2008/06/12/if-yoursquove-ever-been-a-consultant-you-understand-this.aspx/"
 ---
 
@@ -23,7 +22,3 @@ Click the image to see the full size strip at
 
 [![Interest Free
 Loan](https://haacked.com/images/haacked_com/WindowsLiveWriter/IfYouveEverBeenAConsultantYouUnderstandT_853A/dilbert-consultant_3.gif "Interest Free Loan")](http://www.dilbert.com/2008-06-13/ "Life of a small consultant")
-
-Technorati Tags:
-[dilbert](http://technorati.com/tags/dilbert),[funny](http://technorati.com/tags/funny),[humor](http://technorati.com/tags/humor),[consulting](http://technorati.com/tags/consulting)
-

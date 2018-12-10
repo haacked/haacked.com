@@ -4,8 +4,7 @@ title: Visual Studio Smart Tag Expansion Tip
 date: 2008-06-23 -0800
 comments: true
 disqus_identifier: 18496
-categories:
-- code
+categories: [visualstudio tips]
 redirect_from: "/archive/2008/06/22/visual-studio-smart-tag-expansion-tip.aspx/"
 ---
 
@@ -35,7 +34,4 @@ because it’s totally contextual. Rather than starting with a rename
 refactoring, I can instead just start renaming something and the smart
 tag shows up and all I have to do is hit CTRL + . and then ENTER.
 Booyah!
-
-Technorati Tags: [Tips](http://technorati.com/tags/Tips),[Visual
-Studio](http://technorati.com/tags/Visual+Studio),[Shortcuts](http://technorati.com/tags/Shortcuts),[Keyboard](http://technorati.com/tags/Keyboard)
 

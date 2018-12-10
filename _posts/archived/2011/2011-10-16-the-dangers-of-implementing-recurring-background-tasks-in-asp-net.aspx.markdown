@@ -4,9 +4,7 @@ title: The Dangers of Implementing Recurring Background Tasks In ASP.NET
 date: 2011-10-16 -0800
 comments: true
 disqus_identifier: 18819
-categories:
-- asp.net
-- code
+categories: [aspnet dotnet]
 redirect_from: "/archive/2011/10/15/the-dangers-of-implementing-recurring-background-tasks-in-asp-net.aspx/"
 ---
 
@@ -262,8 +260,4 @@ setting up a website. There’s no need to configure an external recurring
 task. It just works.
 
 But mostly, it’s because I like to live life on the edge.
-
-Technorati Tags:
-[asp.net](http://technorati.com/tags/asp.net),[appdomain](http://technorati.com/tags/appdomain),[web
-farms](http://technorati.com/tags/web+farms),[background](http://technorati.com/tags/background),[threads](http://technorati.com/tags/threads),[tasks](http://technorati.com/tags/tasks)
 

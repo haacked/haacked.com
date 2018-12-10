@@ -4,7 +4,7 @@ title: Start++ Is All That And Then Some
 date: 2007-03-06 -0800
 comments: true
 disqus_identifier: 18224
-categories: []
+categories: [tips productivity]
 redirect_from: "/archive/2007/03/05/start_is_all_that_and_then_some.aspx/"
 ---
 
@@ -71,9 +71,3 @@ the argument in the *Arguments* column like so:
 
 I have a few hundred or so startlets I can think of adding. Happy
 shortcutting!
-
-Technorati Tags: [Tips](http://technorati.com/tags/Tips),
-[Vista](http://technorati.com/tags/Vista),
-[Start++](http://technorati.com/tags/Start%2B%2B),
-[Productivity](http://technorati.com/tags/Productivity)
-

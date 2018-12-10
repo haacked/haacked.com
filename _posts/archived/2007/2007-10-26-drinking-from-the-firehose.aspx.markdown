@@ -4,7 +4,7 @@ title: Drinking from the Fire Hose At Microsoft
 date: 2007-10-26 -0800
 comments: true
 disqus_identifier: 18410
-categories: []
+categories: [microsoft work]
 redirect_from: "/archive/2007/10/25/drinking-from-the-firehose.aspx/"
 ---
 
@@ -111,6 +111,4 @@ The main thing I want to say is that I still plan to work on
 [Subtext](http://subtextproject.com/ "Subtext"), though my involvement
 will be scant in the near term. I also still plan to continue blogging
 and not drop off the face of the blogodome as some have feared.
-
-Technorati Tags: [Microsoft](http://technorati.com/tags/Microsoft/)
 

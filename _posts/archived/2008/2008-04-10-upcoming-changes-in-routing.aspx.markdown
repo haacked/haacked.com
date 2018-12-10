@@ -4,10 +4,7 @@ title: Upcoming Changes In Routing
 date: 2008-04-10 -0800
 comments: true
 disqus_identifier: 18474
-categories:
-- asp.net
-- asp.net mvc
-- code
+categories: [aspnet aspnetmvc routing]
 redirect_from: "/archive/2008/04/09/upcoming-changes-in-routing.aspx/"
 ---
 
@@ -191,8 +188,3 @@ but is needed for the time being.*
 We will have a new [CodePlex source code
 push](http://codeplex.com/ASPNET "CodePlex") in a couple of weeks with
 an updated version of MVC that supports the new routing engine.
-
-Technorati Tags: [ASP.NET
-MVC](http://technorati.com/tags/aspnetmvc),[ASP.NET](http://technorati.com/tags/ASP.NET),[Routing](http://technorati.com/tags/Routing),[Dynamic
-Data](http://technorati.com/tags/Dynamic%20Data)
-

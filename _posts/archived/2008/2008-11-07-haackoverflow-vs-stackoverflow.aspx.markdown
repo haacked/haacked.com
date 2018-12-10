@@ -4,9 +4,7 @@ title: Step Aside StackOverflow, Here&rsquo;s HaackOverflow
 date: 2008-11-07 -0800
 comments: true
 disqus_identifier: 18550
-categories:
-- humor
-- personal
+categories: [humor aspnetmvc conferences]
 redirect_from: "/archive/2008/11/06/haackoverflow-vs-stackoverflow.aspx/"
 ---
 
@@ -38,7 +36,4 @@ I only mention it now because Jeff recently Twittered a link to the
 [Reddit Remix of the StackOverflow
 logo](http://www.redditall.com/2008/11/we-pay-joel-and-jeff-visit-on-stack.html "Reddit Visits Stack Overflow"),
 which reminded of my own hack job on their logo.
-
-Technorati Tags:
-[stackoverflow](http://technorati.com/tags/stackoverflow),[pdc08](http://technorati.com/tags/pdc08)
 

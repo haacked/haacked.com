@@ -4,8 +4,7 @@ title: Heading to Japan
 date: 2005-07-25 -0800
 comments: true
 disqus_identifier: 9026
-categories:
-- personal
+categories: [personal japan tokyo]
 redirect_from: "/archive/2005/07/24/heading-to-japan.aspx/"
 ---
 
@@ -25,7 +24,4 @@ gadgets are real, not animatronic.
 
 If I have the time, I’ll try posting a few pics here and there while in
 Japan. Ja Mata Ne!
-
-Technorati Tags:
-[japan](http://technorati.com/tags/japan),[tokyo](http://technorati.com/tags/tokyo)
 

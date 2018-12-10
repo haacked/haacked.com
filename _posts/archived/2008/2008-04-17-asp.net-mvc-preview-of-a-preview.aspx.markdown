@@ -4,10 +4,7 @@ title: ASP.NET MVC Preview of a Preview
 date: 2008-04-17 -0800
 comments: true
 disqus_identifier: 18476
-categories:
-- asp.net
-- asp.net mvc
-- code
+categories: [aspnetmvc]
 redirect_from: "/archive/2008/04/16/asp.net-mvc-preview-of-a-preview.aspx/"
 ---
 
@@ -51,6 +48,4 @@ I will write more about this release later. But for now, I will leave
 you with an **[updated Northwind
 Demo](https://haacked.com/code/NorthwindDemo.zip "Northwind")** based on
 this release because *there ain’t no party like a Northwind party*.
-
-Technorati Tags: [aspnetmvc](http://technorati.com/tags/aspnetmvc)
 

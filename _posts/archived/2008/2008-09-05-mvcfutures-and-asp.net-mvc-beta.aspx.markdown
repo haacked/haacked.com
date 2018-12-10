@@ -4,9 +4,7 @@ title: MvcFutures And ASP.NET MVC Beta
 date: 2008-09-05 -0800
 comments: true
 disqus_identifier: 18529
-categories:
-- asp.net mvc
-- asp.net
+categories: [aspnetmvc]
 redirect_from: "/archive/2008/09/04/mvcfutures-and-asp.net-mvc-beta.aspx/"
 ---
 
@@ -29,6 +27,4 @@ We will make sure that the assembly remains [available on
 CodePlex](http://codeplex.com/aspnet "ASP.NET on CodePlex"). I just
 wanted to make you aware of this so there is no surprises when we
 release the Beta regarding this. Thanks!
-
-Technorati Tags: [aspnetmvc](http://technorati.com/tags/aspnetmvc)
 

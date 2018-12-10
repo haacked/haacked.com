@@ -4,10 +4,7 @@ title: Model Binding To A List
 date: 2008-10-23 -0800
 comments: true
 disqus_identifier: 18542
-categories:
-- asp.net
-- asp.net mvc
-- code
+categories: [aspnetmvc]
 redirect_from: "/archive/2008/10/22/model-binding-to-a-list.aspx/"
 ---
 
@@ -212,7 +209,4 @@ code for this helper.
 This is something we may consider adding to a future version of ASP.NET
 MVC. In the meanwhile, give it a whirl and let us know how it works out
 for you.
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[modelbinders](http://technorati.com/tags/modelbinders)
 

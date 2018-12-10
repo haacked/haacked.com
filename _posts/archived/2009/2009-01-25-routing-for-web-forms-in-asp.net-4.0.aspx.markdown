@@ -4,8 +4,7 @@ title: Routing for Web Forms in ASP.NET 4.0
 date: 2009-01-25 -0800
 comments: true
 disqus_identifier: 18578
-categories:
-- asp.net
+categories: [routing aspnet]
 redirect_from: "/archive/2009/01/24/routing-for-web-forms-in-asp.net-4.0.aspx/"
 ---
 
@@ -30,7 +29,3 @@ ASP.NET](http://mostlylucid.net/archive/2009/01/25/asp.net-4.0-webform-routing-q
 such as new properties of the Page class, cool uses of Expression
 Builders, etc… That’s just a teaser as he promises to go a little more
 in depth soon.
-
-Technorati Tags:
-[Routing](http://technorati.com/tags/Routing),[ASP.NET](http://technorati.com/tags/ASP.NET)
-

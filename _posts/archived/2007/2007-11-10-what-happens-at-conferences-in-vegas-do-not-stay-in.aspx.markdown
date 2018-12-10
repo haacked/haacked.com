@@ -4,7 +4,7 @@ title: What Happens At Conferences In Vegas Do Not Stay In Vegas
 date: 2007-11-10 -0800
 comments: true
 disqus_identifier: 18419
-categories: []
+categories: [travel conferences]
 redirect_from: "/archive/2007/11/09/what-happens-at-conferences-in-vegas-do-not-stay-in.aspx/"
 ---
 
@@ -93,7 +93,3 @@ OpenForce conference on the topic of Open Source. They taped these
 panels so hopefully the videos will be up soon. I’ll write more about
 what we discussed later. I need to get some sleep as after leaving
 Vegas, I flew out the next day to Redmond and it is very late.
-
-Technorati Tags:
-[DevConnections](http://technorati.com/tags/DevConnections),[OpenForce](http://technorati.com/tags/OpenForce)
-

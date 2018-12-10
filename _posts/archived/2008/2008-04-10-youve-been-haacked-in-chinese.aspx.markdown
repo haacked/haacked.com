@@ -4,8 +4,7 @@ title: You've Been Haacked In Chinese
 date: 2008-04-10 -0800
 comments: true
 disqus_identifier: 18475
-categories:
-- personal
+categories: [blogging personal]
 redirect_from: "/archive/2008/04/09/youve-been-haacked-in-chinese.aspx/"
 ---
 
@@ -23,7 +22,3 @@ Hasselhoff says, “I’m big in China”. (*To my Chinese audience, that is a
 joke. I am quite small.*)
 
 [![david\_coleman](https://haacked.com/images/haacked_com/WindowsLiveWriter/YouveBeenHaackedInChinese_11C49/david_coleman_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/YouveBeenHaackedInChinese_11C49/david_coleman_2.jpg)
-
-Technorati Tags:
-[Chinese](http://technorati.com/tags/Chinese),[China](http://technorati.com/tags/China),[Blogging](http://technorati.com/tags/Blogging)
-

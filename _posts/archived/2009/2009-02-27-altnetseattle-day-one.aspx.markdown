@@ -4,12 +4,9 @@ title: ALT.NET Seattle Day One
 date: 2009-02-27 -0800
 comments: true
 disqus_identifier: 18589
-categories:
-- personal
+categories: [conferences]
 redirect_from: "/archive/2009/02/26/altnetseattle-day-one.aspx/"
 ---
-
- 
 
 [![ALT.NET Opening Ceremonies by Brad
 Wilson](https://haacked.com/images/haacked_com/WindowsLiveWriter/ALT.NET-Seattle-Day-One_A157/scott-why-so-mean_thumb.jpg "ALT.NET Opening Ceremonies by Brad Wilson")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ALT.NET-Seattle-Day-One_A157/scott-why-so-mean_2.jpg)
@@ -67,7 +64,4 @@ a photo after being up for over 30 hours due to flying in from Italy.
 [![3315077517\_855eae566b](https://haacked.com/images/haacked_com/WindowsLiveWriter/ALT.NETSeattleDayOne_14E45/3315077517_855eae566b_thumb.jpg "3315077517_855eae566b")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ALT.NETSeattleDayOne_14E45/3315077517_855eae566b_2.jpg)
 
 I look forward to seeing what tomorrow brings.
-
-Technorati Tags:
-[alt.net](http://technorati.com/tags/alt.net),[altnetseattle](http://technorati.com/tags/altnetseattle)
 

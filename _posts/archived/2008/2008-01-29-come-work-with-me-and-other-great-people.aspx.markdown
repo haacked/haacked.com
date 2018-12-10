@@ -4,9 +4,7 @@ title: Come Work With Me And Other Great People
 date: 2008-01-29 -0800
 comments: true
 disqus_identifier: 18452
-categories:
-- asp.net
-- asp.net mvc
+categories: [aspnetmvc aspnet microsoft work]
 redirect_from: "/archive/2008/01/28/come-work-with-me-and-other-great-people.aspx/"
 ---
 
@@ -42,7 +40,3 @@ These are senior developer positions...
 
 Oh, and if you do get hired and join my feature team, I like my coffee
 with milk and sugar. Thank you very much. ;)
-
-Technorati Tags: [ASP.NET](http://technorati.com/tags/ASP.NET),[ASP.NET
-MVC](http://technorati.com/tags/aspnetmvc),[Microsoft](http://technorati.com/tags/Microsoft),[Jobs](http://technorati.com/tags/Jobs)
-

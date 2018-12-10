@@ -4,7 +4,7 @@ title: My .NET Rocks Interview Is Now Up
 date: 2007-08-07 -0800
 comments: true
 disqus_identifier: 18378
-categories: []
+categories: [subtext podcast]
 redirect_from: "/archive/2007/08/06/my-.net-rocks-interview-is-now-up.aspx/"
 ---
 
@@ -21,7 +21,4 @@ Software Development, Open Source, and
 
 I’m still here in Redmond on the Microsoft campus so I haven’t had the
 cringeworthy experience of listening to myself talk. ;)
-
-Technorati tags: [.NET Rocks](http://technorati.com/tags/.NET%20Rocks),
-[Subtext](http://technorati.com/tags/Subtext)
 

@@ -4,9 +4,7 @@ title: Tell Me Your Unit Testing Pains
 date: 2008-02-05 -0800
 comments: true
 disqus_identifier: 18454
-categories:
-- asp.net
-- code
+categories: [tdd aspnet code]
 redirect_from: "/archive/2008/02/04/tell-me-your-unit-testing-pains.aspx/"
 ---
 
@@ -94,7 +92,4 @@ Please post them in my comments or on your blog and link to this post.
 Your input is very valuable and could help shape the future of the
 Framework, or at least help me to sound like I am clued into customer
 needs next time I talk to someone internal about this. ;)
-
-Technorati Tags: [TDD](http://technorati.com/tags/TDD),[Unit
-Testing](http://technorati.com/tags/Unit%20Testing)
 

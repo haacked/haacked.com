@@ -4,8 +4,7 @@ title: So Long L.A. And Thanks For All The Fish
 date: 2008-01-04 -0800
 comments: true
 disqus_identifier: 18445
-categories:
-- personal
+categories: [personal travel]
 redirect_from: "/archive/2008/01/03/so-long-l.a.-and-thanks-for-all-the-fish.aspx/"
 ---
 
@@ -62,7 +61,3 @@ time.
 
 Stay classy L.A., I will miss you. Seattle, watch your back. We’ll be
 there tomorrow.
-
-Technorati Tags:
-[Moving](http://technorati.com/tags/Moving),[Seattle](http://technorati.com/tags/Seattle),[L.A.](http://technorati.com/tags/L.A.)
-

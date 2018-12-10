@@ -4,10 +4,7 @@ title: Delegating Action Result
 date: 2008-05-11 -0800
 comments: true
 disqus_identifier: 18485
-categories:
-- asp.net
-- asp.net mvc
-- code
+categories: [aspnetmvc]
 redirect_from: "/archive/2008/05/10/delegating-action-result.aspx/"
 ---
 
@@ -61,9 +58,4 @@ public class DelegatingResult : ActionResult {
 ```
 
 I updated the sample I wrote in my last post to include this demo.
-[**Download the
-source**](https://haacked.com/code/CustomActionResultDemo.zip "Custom Action Result Demo").
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[actionresult](http://technorati.com/tags/actionresult),[lambda](http://technorati.com/tags/lambda)
-
+[**Download the source**](https://haacked.com/code/CustomActionResultDemo.zip "Custom Action Result Demo").

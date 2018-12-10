@@ -4,8 +4,7 @@ title: Updated Routing With WebForms
 date: 2008-05-19 -0800
 comments: true
 disqus_identifier: 18487
-categories:
-- asp.net
+categories: [aspnet routing]
 redirect_from: "/archive/2008/05/18/updated-routing-with-webforms.aspx/"
 ---
 
@@ -63,7 +62,3 @@ not a request for an URL.
 
 To save you from having to visit the previous post, here is a link to
 **[download the code](https://haacked.com/code/WebFormRoutingDemo.zip)**
-
-Technorati Tags:
-[routing](http://technorati.com/tags/routing),[aspnetmvc](http://technorati.com/tags/aspnetmvc)
-

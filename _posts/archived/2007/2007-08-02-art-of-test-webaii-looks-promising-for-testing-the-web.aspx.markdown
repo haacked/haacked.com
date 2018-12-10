@@ -4,7 +4,7 @@ title: Art Of Test WebAii Looks Promising For Testing The Web
 date: 2007-08-02 -0800
 comments: true
 disqus_identifier: 18377
-categories: []
+categories: [tdd]
 redirect_from: "/archive/2007/08/01/art-of-test-webaii-looks-promising-for-testing-the-web.aspx/"
 ---
 
@@ -51,12 +51,4 @@ mention it here because it sounds great.
 -   Ability to hook into and verify the status of a redirect. For
     example, if a page redirects, I want to be able to assert that the
     HTTP Status code for the redirect
-
-Technorati Tags: [Unit
-Testing](http://technorati.com/tags/Unit%20Testing),
-[TDD](http://technorati.com/tags/TDD), [Web
-Testing](http://technorati.com/tags/Web%20Testing), [Web
-Automation](http://technorati.com/tags/Web%20Automation),
-[WATIN](http://technorati.com/tags/WATIN),
-[WebAii](http://technorati.com/tags/WebAii)
 

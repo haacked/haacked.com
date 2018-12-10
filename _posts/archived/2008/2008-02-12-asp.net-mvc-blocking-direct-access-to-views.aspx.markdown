@@ -4,10 +4,7 @@ title: Blocking Direct Access To Views in ASP.NET MVC
 date: 2008-02-12 -0800
 comments: true
 disqus_identifier: 18455
-categories:
-- asp.net
-- code
-- asp.net mvc
+categories: [aspnet aspnetmvc code]
 redirect_from: "/archive/2008/02/11/asp.net-mvc-blocking-direct-access-to-views.aspx/"
 ---
 
@@ -51,7 +48,3 @@ seems to work.
 ```
 
 Let me know if you run into problems with this.
-
-Technorati Tags: [ASP.NET
-MVC](http://technorati.com/tags/aspnetmvc),[Tips](http://technorati.com/tags/Tips),[ASP.NET](http://technorati.com/tags/ASP.NET)
-

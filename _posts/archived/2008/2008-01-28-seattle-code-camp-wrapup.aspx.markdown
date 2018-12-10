@@ -4,8 +4,7 @@ title: Seattle Code Camp Wrapup
 date: 2008-01-28 -0800
 comments: true
 disqus_identifier: 18451
-categories:
-- code
+categories: [conferences]
 redirect_from: "/archive/2008/01/27/seattle-code-camp-wrapup.aspx/"
 ---
 
@@ -43,8 +42,4 @@ out. So definitely give his blog a look for some great software wisdom.
 
 As this was my first Code Camp, I am definitely looking forward to the
 next one.
-
-Technorati Tags: [Code
-Camp](http://technorati.com/tags/Code%20Camp),[ASP.NET
-MVC](http://technorati.com/tags/aspnetmvc)
 

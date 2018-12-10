@@ -4,9 +4,7 @@ title: Oh Yes It&rsquo;s Ladies Night
 date: 2008-06-27 -0800
 comments: true
 disqus_identifier: 18499
-categories:
-- humor
-- personal
+categories: [humor personal]
 redirect_from: "/archive/2008/06/26/oh-yes-itrsquos-ladies-night.aspx/"
 ---
 
@@ -78,7 +76,3 @@ fascination with X-Box Achievement points is no different.
 
 I guess I won’t quit my day job and become a male exotic dancer then.
 Carry on everyone.
-
-Technorati Tags:
-[humor](http://technorati.com/tags/humor),[Friday](http://technorati.com/tags/Friday),[Ego](http://technorati.com/tags/Ego)
-

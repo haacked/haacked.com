@@ -4,8 +4,7 @@ title: MySpace China Blogs Powered By Subtext
 date: 2007-10-28 -0800
 comments: true
 disqus_identifier: 18412
-categories:
-- subtext
+categories: [subtext blogging]
 redirect_from: "/archive/2007/10/27/subtext-powers-myspace-china-blogs.aspx/"
 ---
 
@@ -37,7 +36,4 @@ I hope that they would contribute those fixes as
 back to Subtext.
 
 So to all you Chinese users of Subtext (via MySpace China), 你好 to you.
-
-Technorati Tags: [Subtext](http://technorati.com/tags/Subtext/) ,
-[MySpace China](http://technorati.com/tags/MySpace%20China/)
 

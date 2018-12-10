@@ -4,7 +4,7 @@ title: Improve Your Blog's Reach With These 20 Essential Web Utilities
 date: 2007-03-13 -0800
 comments: true
 disqus_identifier: 18239
-categories: []
+categories: [tips blogging utilities]
 redirect_from: "/archive/2007/03/12/improve-your-blogs-reach-with-these-20-essential-web-utilities.aspx/"
 ---
 
@@ -191,8 +191,3 @@ Again, I’m sure I missed someone’s favorite tool hear, so please let me
 know what I missed in the comments. And if you do, let me know which
 tool you’d remove from this list in order to add yours. I’ll try
 following up at a later time with an improved list.
-
-Technorati Tags: [Tips](http://technorati.com/tags/Tips),
-href="http://technorati.com/tags/Blogging"\>Blogging,
-href="http://technorati.com/tags/Utilities"\>Utilities
-

@@ -71,5 +71,3 @@ mine](http://weblogs.asp.net/rosherove/archive/2004/12/07/276040.aspx).
 As does [Jason Kemp](http://www.jasonkemp.ca/) in [my
 comments](https://haacked.com/archive/2004/12/06/1704.aspx#1706).
 
-Technorati Tags: [TDD](http://technorati.com/tags/TDD)
-

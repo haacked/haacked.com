@@ -4,8 +4,7 @@ title: Is Pizza Brain Food?
 date: 2008-03-21 -0800
 comments: true
 disqus_identifier: 18465
-categories:
-- personal
+categories: [humor math]
 redirect_from: "/archive/2008/03/20/is-pizza-brain-food.aspx/"
 ---
 
@@ -73,7 +72,3 @@ if it’s the Mozzarella or the Pepperoni. Of course, the problem for me
 now is that college was a long time ago. While the question of whether
 Pizza is brain food is mere idle speculation, it is a well established
 fact that Pizza is definitely gut food. Food for thought.
-
-Technorati Tags:
-[Pizza](http://technorati.com/tags/Pizza),[Humor](http://technorati.com/tags/Humor),[College](http://technorati.com/tags/College),[Math](http://technorati.com/tags/Math)
-

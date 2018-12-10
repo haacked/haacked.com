@@ -4,8 +4,7 @@ title: Dealing With Denial of Service Attacks
 date: 2008-08-22 -0800
 comments: true
 disqus_identifier: 18525
-categories:
-- personal
+categories: [security aspnet]
 redirect_from: "/archive/2008/08/21/dealing-with-denial-of-service-attacks.aspx/"
 ---
 
@@ -71,7 +70,4 @@ The other setting I changed is to allow dots in the path because I have
 many URLs that contain dots.
 
       AllowDotInPath=1
-
-Technorati Tags:
-[UrlScan](http://technorati.com/tags/UrlScan),[IIS](http://technorati.com/tags/IIS),[DoS](http://technorati.com/tags/DoS),[DDoS](http://technorati.com/tags/DDoS),[Security](http://technorati.com/tags/Security)
 

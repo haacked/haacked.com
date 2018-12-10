@@ -4,7 +4,7 @@ title: Cleanup The Crap That Windows Live Writer Injects With This HttpModule
 date: 2007-07-29 -0800
 comments: true
 disqus_identifier: 18374
-categories: []
+categories: [tips aspnet httpmodule]
 redirect_from: "/archive/2007/07/28/cleanup-the-crap-that-windows-live-writer-injects-with-this.aspx/"
 ---
 
@@ -125,8 +125,4 @@ Source](https://haacked.com/code/Haacked-HtmlScrubber-SOURCE.zip "Html Scrubber 
 I thought about adding this to CodePlex, but I’m hoping that the next
 version of Windows Live Writer makes this module irrelevant. I’m not
 holding my breath on that one though.
-
-Technorati tags: [WLW](http://technorati.com/tags/WLW), [Windows Live
-Writer](http://technorati.com/tags/Windows%20Live%20Writer),
-[ASP.NET](http://technorati.com/tags/ASP.NET)
 

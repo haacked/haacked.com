@@ -4,10 +4,7 @@ title: Defining ASP.NET MVC Routes and Views in IronRuby
 date: 2008-04-22 -0800
 comments: true
 disqus_identifier: 18479
-categories:
-- asp.net
-- asp.net mvc
-- code
+categories: [aspnetmvc dynamic-languages]
 redirect_from: "/archive/2008/04/21/defining-asp.net-mvc-routes-and-views-in-ironruby.aspx/"
 ---
 
@@ -73,7 +70,4 @@ perform a dictionary lookup using the property name as the key.
 Be sure to check out the unit tests which provide over 95% code coverage
 of my code if you want to understand this code and improve on it. Next
 stop, Controllers in IronRuby...
-
-Technorati Tags:
-[ironruby](http://technorati.com/tags/ironruby),[ruby](http://technorati.com/tags/ruby),[aspnetmvc](http://technorati.com/tags/aspnetmvc),[aspnet](http://technorati.com/tags/aspnet),[dsl](http://technorati.com/tags/dsl)
 

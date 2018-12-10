@@ -4,10 +4,7 @@ title: Delegating Decorators
 date: 2008-06-18 -0800
 comments: true
 disqus_identifier: 18495
-categories:
-- asp.net mvc
-- asp.net
-- code
+categories: [aspnetmvc]
 redirect_from: "/archive/2008/06/17/delegating-decorators.aspx/"
 ---
 
@@ -129,8 +126,3 @@ they’re not well acquainted with lambdas and delegates.
 
 So it is a bit of a tradeoff between convenience for the code author and
 readability for the code reader.
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[controller
-factor](http://technorati.com/tags/controller+factor),[decorator](http://technorati.com/tags/decorator),[patterns](http://technorati.com/tags/patterns)
-

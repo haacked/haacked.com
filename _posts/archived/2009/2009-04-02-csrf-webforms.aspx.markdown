@@ -4,8 +4,7 @@ title: CSRF Attacks and Web Forms
 date: 2009-04-02 -0800
 comments: true
 disqus_identifier: 18606
-categories:
-- asp.net
+categories: [aspnet security]
 redirect_from: "/archive/2009/04/01/csrf-webforms.aspx/"
 ---
 
@@ -93,7 +92,3 @@ When you go to a real bank site, you’ll learn they have all sorts of
 protections in place above and beyond what I described here. Hopefully
 this post and the previous one provided some insight into why they do
 all the things they do. :)
-
-Technorati Tags:
-[asp.net](http://technorati.com/tags/asp.net),[security](http://technorati.com/tags/security)
-

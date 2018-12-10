@@ -4,9 +4,7 @@ title: Notes on ASP.NET MVC CodePlex Preview 4
 date: 2008-07-16 -0800
 comments: true
 disqus_identifier: 18504
-categories:
-- asp.net mvc
-- asp.net
+categories: [aspnetmvc]
 redirect_from: "/archive/2008/07/15/aspnetmvc-codeplex-preview4.aspx/"
 ---
 
@@ -85,6 +83,4 @@ accordingly.
 And before I forget, you can [**download ASP.NET MVC CodePlex Preview 4
 from the release
 page**](http://www.codeplex.com/aspnet/Release/ProjectReleases.aspx?ReleaseId=15389 "Download ASP.NET MVC CodePlex Preview 4").
-
-Technorati Tags: [aspnetmvc](http://technorati.com/tags/aspnetmvc)
 

@@ -4,9 +4,7 @@ title: Hey Ma, I&rsquo;m On TV!
 date: 2008-08-06 -0800
 comments: true
 disqus_identifier: 18515
-categories:
-- asp.net
-- asp.net mvc
+categories: [aspnetmvc video]
 redirect_from: "/archive/2008/08/05/haack_on_channel9.aspx/"
 ---
 
@@ -80,7 +78,4 @@ blame him). In case you were wondering, here’s a partial list:
 
 There are other books up there, but these are the ones I’ve read
 cover-to-cover and can recommend.
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[books](http://technorati.com/tags/books),[channel9](http://technorati.com/tags/channel9)
 

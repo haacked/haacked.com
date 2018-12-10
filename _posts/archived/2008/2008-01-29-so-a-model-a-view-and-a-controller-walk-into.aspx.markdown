@@ -4,8 +4,7 @@ title: So A Model, A View, and a Controller Walk Into a Bar
 date: 2008-01-29 -0800
 comments: true
 disqus_identifier: 18453
-categories:
-- code
+categories: [humor code aspnetmvc]
 redirect_from: "/archive/2008/01/28/so-a-model-a-view-and-a-controller-walk-into.aspx/"
 ---
 
@@ -46,7 +45,4 @@ Here’s the original as a point of comparison.
 > this and never ask him, but I can never depend on that guy.”
 
 Thanks for the feedback!
-
-Technorati Tags: [Humor](http://technorati.com/tags/Humor),[ASP.NET
-MVC](http://technorati.com/tags/aspnetmvc)
 

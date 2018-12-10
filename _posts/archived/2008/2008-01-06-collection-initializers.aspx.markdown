@@ -4,7 +4,7 @@ title: Collection Initializers
 date: 2008-01-06 -0800
 comments: true
 disqus_identifier: 18446
-categories: []
+categories: [csharp initializers]
 redirect_from: "/archive/2008/01/05/collection-initializers.aspx/"
 ---
 
@@ -61,8 +61,4 @@ expressions](http://blog.bittercoder.com/PermaLink,guid,d1831805-dbf7-4b74-a6fd-
 by Alex Henderson to create a hash that is very similar in style to what
 ruby hashes look like. Thanks Sergio for pointing that out in the
 comments.
-
-Technorati Tags: [C\#](http://technorati.com/tags/C#),[Object
-Initializers](http://technorati.com/tags/Object%20Initializers),[Collection
-Initializers](http://technorati.com/tags/Collection%20Initializers)
 

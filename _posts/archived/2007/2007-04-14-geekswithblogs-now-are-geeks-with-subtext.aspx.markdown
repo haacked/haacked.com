@@ -4,7 +4,7 @@ title: GeeksWithBlogs Now Are Geeks With Subtext
 date: 2007-04-14 -0800
 comments: true
 disqus_identifier: 18281
-categories: []
+categories: [subtext blogging]
 redirect_from: "/archive/2007/04/13/geekswithblogs-now-are-geeks-with-subtext.aspx/"
 ---
 
@@ -39,7 +39,4 @@ we’ve been trying to track down for ages, but haven’t been able to
 reproduce.
 
 Anyways, congratulations to the GWB team for a successful migration.
-
-Technorati tags: [Subtext](http://technorati.com/tags/Subtext), [Geeks
-With Blogs](http://technorati.com/tags/Geeks%20With%20Blogs)
 

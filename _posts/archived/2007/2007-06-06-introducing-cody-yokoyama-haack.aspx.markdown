@@ -4,7 +4,7 @@ title: Introducing Cody Yokoyama Haack
 date: 2007-06-06 -0800
 comments: true
 disqus_identifier: 18344
-categories: []
+categories: [personal]
 redirect_from: "/archive/2007/06/05/introducing-cody-yokoyama-haack.aspx/"
 ---
 
@@ -53,6 +53,4 @@ course, thugs don’t wail.
 
 There are [more photos on
 flickr](http://www.flickr.com/photos/haacked/tags/cody/ "Photos of Cody").
-
-Technorati tags: [Cody](http://technorati.com/tags/Cody)
 

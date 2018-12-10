@@ -4,9 +4,7 @@ title: ASP.NET MVC 1.0 Released!
 date: 2009-03-18 -0800
 comments: true
 disqus_identifier: 18598
-categories:
-- asp.net
-- asp.net mvc
+categories: [aspnetmvc]
 redirect_from: "/archive/2009/03/17/aspnet-mvc-rtw.aspx/"
 ---
 
@@ -79,7 +77,4 @@ Installer](http://www.microsoft.com/web "Web Platform Installer"). I
 highly recommend it. Not only can you install ASP.NET MVC using it, but
 many other free applications such as one of my favorites,
 [Subtext](http://subtextproject.com/ "Subtext")!
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[asp.net](http://technorati.com/tags/asp.net),[subtext](http://technorati.com/tags/subtext)
 

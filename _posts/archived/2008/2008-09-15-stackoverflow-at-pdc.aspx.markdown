@@ -4,9 +4,7 @@ title: StackOverflow at PDC
 date: 2008-09-15 -0800
 comments: true
 disqus_identifier: 18531
-categories:
-- asp.net
-- asp.net mvc
+categories: [conferences]
 redirect_from: "/archive/2008/09/14/stackoverflow-at-pdc.aspx/"
 ---
 
@@ -42,7 +40,3 @@ any requests for things you’d love to hear me talk about. I am currently
 planning to give the general overview, but perhaps some of you want to
 hear more anecdotes from the product team, or more details about
 specific features.
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[stackoverflow](http://technorati.com/tags/stackoverflow),[pdc2008](http://technorati.com/tags/pdc2008)
-

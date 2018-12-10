@@ -4,8 +4,7 @@ title: RAS Syndrome
 date: 2008-06-13 -0800
 comments: true
 disqus_identifier: 18492
-categories:
-- humor
+categories: [humor]
 redirect_from: "/archive/2008/06/12/ras-syndrome.aspx/"
 ---
 
@@ -71,7 +70,4 @@ comments to many of my blog posts tend to focus on some irrelevant
 miniscule detail rather than the topic at hand. Which I’m not
 necessarily opposed to because that provides great fodder for future
 blog posts!
-
-Technorati Tags:
-[humor](http://technorati.com/tags/humor),[acronyms](http://technorati.com/tags/acronyms),[neology](http://technorati.com/tags/neology)
 

@@ -4,8 +4,7 @@ title: Better URLs With Subtext and Windows Live Writer
 date: 2008-08-13 -0800
 comments: true
 disqus_identifier: 18521
-categories:
-- subtext
+categories: [subtext blogging]
 redirect_from: "/archive/2008/08/12/editing-post-slugs.aspx/"
 ---
 
@@ -48,8 +47,3 @@ the standard term for this.
 
 Of course when we come out with our MVC version, we can get rid of that
 annoying *.aspx* at the end. :)
-
-Technorati Tags: [subtext](http://technorati.com/tags/subtext),[windows
-live
-writer](http://technorati.com/tags/windows+live+writer),[wlw](http://technorati.com/tags/wlw)
-

@@ -4,8 +4,7 @@ title: Currently in Japan with No Consistent Internet Access
 date: 2008-09-30 -0800
 comments: true
 disqus_identifier: 18533
-categories:
-- personal
+categories: [personal travel]
 redirect_from: "/archive/2008/09/29/currently-in-japan-with-no-consistent-internet-access.aspx/"
 ---
 
@@ -22,7 +21,4 @@ access is probably a good thing for me as I'm a total online junkie. :)
 The next time we visit, I need to remember to bring more reading
 material. I brought two books on Poker and am tired of reading about it.
 ;)
-
-Technorati Tags:
-[japan](http://technorati.com/tags/japan),[tokyo](http://technorati.com/tags/tokyo)
 

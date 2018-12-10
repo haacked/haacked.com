@@ -4,10 +4,7 @@ title: DotNetRocks Part Deux
 date: 2008-05-05 -0800
 comments: true
 disqus_identifier: 18483
-categories:
-- asp.net
-- asp.net mvc
-- personal
+categories: [podcasts aspnetmvc]
 redirect_from: "/archive/2008/05/04/dotnetrocks-part-deux.aspx/"
 ---
 
@@ -38,6 +35,4 @@ That talk was recorded at ALT.NET Open Spaces in Seattle. It’s only a
 coincidence that these two interviews came out a week apart. They were
 recorded more than a week apart. Honestly, I’m not a microphone whore.
 I’m more of a camera whore. ;)
-
-Technorati Tags: [dotnetrocks](http://technorati.com/tags/dotnetrocks)
 

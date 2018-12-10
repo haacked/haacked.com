@@ -4,9 +4,7 @@ title: IronRuby and ASP.NET BFFs Forever
 date: 2008-06-12 -0800
 comments: true
 disqus_identifier: 18491
-categories:
-- asp.net mvc
-- code
+categories: [aspnetmvc dynamic-languages ruby]
 redirect_from: "/archive/2008/06/11/ironruby-and-asp.net-bffs-forever.aspx/"
 ---
 
@@ -49,7 +47,3 @@ buddy of mine in L.A. is actually working on the set of a new show
 tentatively titled “Paris Hilton’s My New BFF”, where contestants
 compete to become [Paris Hilton’s new Best
 Friend](http://www.reuters.com/article/televisionNews/idUSN1335541620080315 "Who wants to be Paris Hilton's Best Friend?").
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[ironruby](http://technorati.com/tags/ironruby)
-

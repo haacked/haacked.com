@@ -4,7 +4,7 @@ title: Hilarious Quote on Computing Power
 date: 2007-11-11 -0800
 comments: true
 disqus_identifier: 18421
-categories: []
+categories: [humor]
 redirect_from: "/archive/2007/11/10/hilarious-quote-on-computing-power.aspx/"
 ---
 
@@ -19,6 +19,4 @@ Seen in Twitter today
 > moon, you too can fake guitar playing.**
 
 It is a good thing we put all that computing power to good use.
-
-Technorati Tags: [Humor](http://technorati.com/tags/Humor)
 

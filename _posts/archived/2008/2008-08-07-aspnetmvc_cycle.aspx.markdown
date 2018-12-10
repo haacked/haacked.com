@@ -4,9 +4,7 @@ title: An Arbitrary Cycle Method For ASP.NET MVC
 date: 2008-08-07 -0800
 comments: true
 disqus_identifier: 18517
-categories:
-- asp.net
-- asp.net mvc
+categories: [aspnetmvc]
 redirect_from: "/archive/2008/08/06/aspnetmvc_cycle.aspx/"
 ---
 
@@ -93,7 +91,4 @@ And the output...
 
 With this, go forth and spread tri-color highlighted tables all over the
 web. Or if you’re really crazy player, go with four color highlighting!
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[helpers](http://technorati.com/tags/helpers),[review](http://technorati.com/tags/review)
 

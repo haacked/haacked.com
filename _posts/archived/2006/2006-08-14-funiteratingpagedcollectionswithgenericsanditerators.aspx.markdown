@@ -4,7 +4,7 @@ title: Fun Iterating PagedCollections With Generics and Iterators
 date: 2006-08-14 -0800
 comments: true
 disqus_identifier: 14934
-categories: []
+categories: [tips tdd csharp generics iterators]
 redirect_from: "/archive/2006/08/13/funiteratingpagedcollectionswithgenericsanditerators.aspx/"
 ---
 
@@ -171,10 +171,3 @@ that demonstrates this technique. I am including a C\# project library
 that contains these classes and one unit test. To get the unit test to
 work, simply reference your unit testing assembly of choice and
 uncomment a few lines.
-
-Technorati Tags: [Tips](http://technorati.com/tags/Tips),
-[TDD](http://technorati.com/tags/TDD),
-[C\#](http://technorati.com/tags/C%23),
-[Generics](http://technorati.com/tags/Generics),
-[Iterators](http://technorati.com/tags/Iterators)
-

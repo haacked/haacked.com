@@ -4,8 +4,7 @@ title: Back From Mix Back To Reality
 date: 2008-03-08 -0800
 comments: true
 disqus_identifier: 18460
-categories:
-- personal
+categories: [personal travel conferences]
 redirect_from: "/archive/2008/03/07/back-from-mix-back-to-reality.aspx/"
 ---
 
@@ -88,7 +87,4 @@ writing about that in some upcoming posts. In the meanwhile, the sun
 just came up outside for once and my mood is lifted after a dark few
 weeks. Things are starting to look up for me in this town. Hope things
 are well with you as well.
-
-Technorati Tags:
-[Vegas](http://technorati.com/tags/Vegas),[Mix](http://technorati.com/tags/Mix),[Personal](http://technorati.com/tags/Personal)
 

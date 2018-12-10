@@ -4,9 +4,7 @@ title: Writing Testable Code Is About Managing Complexity
 date: 2007-11-14 -0800
 comments: true
 disqus_identifier: 18423
-categories:
-- code
-- tdd
+categories: [code tdd aspnetmvc]
 redirect_from: "/archive/2007/11/13/writing-testable-code-is-about-managing-complexity.aspx/"
 ---
 
@@ -96,10 +94,3 @@ following side effects.
 Compare that list of side effects with the list of side effects of the
 latest pharmaceutical wonder drug for curing restless legs or whatever.
 What’s not to like!?
-
-Technorati Tags: [TDD](http://technorati.com/tags/TDD), [Separation of
-Concerns](http://technorati.com/tags/Separation%20of%20Concerns),
-[MVC](http://technorati.com/tags/MVC), [Loose
-Coupling](http://technorati.com/tags/Loose%20Coupling),
-[Design](http://technorati.com/tags/Design)
-

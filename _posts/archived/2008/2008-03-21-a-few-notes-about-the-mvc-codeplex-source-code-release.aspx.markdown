@@ -4,10 +4,7 @@ title: A Few Notes About The MVC CodePlex Source Code Release
 date: 2008-03-21 -0800
 comments: true
 disqus_identifier: 18466
-categories:
-- asp.net
-- asp.net mvc
-- code
+categories: [aspnetmvc]
 redirect_from: "/archive/2008/03/20/a-few-notes-about-the-mvc-codeplex-source-code-release.aspx/"
 ---
 
@@ -97,7 +94,4 @@ creates a tighter feedback cycle. I am confident it will pay off in the
 end product. Of course they do have their limits when it comes to
 transparency. I tried suggesting we take it one step further and publish
 our credit card numbers in there, but that was a no go.
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[codeplex](http://technorati.com/tags/codeplex)
 

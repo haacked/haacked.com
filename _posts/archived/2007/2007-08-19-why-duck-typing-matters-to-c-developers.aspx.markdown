@@ -4,7 +4,7 @@ title: How Duck Typing Benefits C# Developers
 date: 2007-08-19 -0800
 comments: true
 disqus_identifier: 18383
-categories: []
+categories: [csharp code types]
 redirect_from: "/archive/2007/08/18/why-duck-typing-matters-to-c-developers.aspx/"
 ---
 
@@ -231,10 +231,3 @@ and a `rabbit`, it makes sense to implement those interfaces. But
 sometimes you need a class you didn’t write and cannot change (such as
 the Base Class Libraries) to act like a `duck`. In that case, this duck
 typing framework is a useful tool in your toolbox.
-
-Technorati tags: [Duck
-Typing](http://technorati.com/tags/Duck%20Typing), [Dynamic
-Languages](http://technorati.com/tags/Dynamic%20Languages),
-[C\#](http://technorati.com/tags/C#), [Dynamic
-Types](http://technorati.com/tags/Dynamic%20Types)
-
