@@ -4,15 +4,11 @@ title: ASP.NET MVC And Dynamic Data Learn To Play Well Together
 date: 2008-06-11 -0800
 comments: true
 disqus_identifier: 18490
-categories:
-- asp.net mvc
-- code
-- asp.net
+categories: [aspnetmvc]
 redirect_from: "/archive/2008/06/10/aspnetmvc-and-dynamicdata.aspx/"
 ---
 
-My compadre [Scott
-Hunter](http://blogs.msdn.com/scothu/ "Scott Hunter's Blog"), another PM
+My compadre [Scott Hunter](http://blogs.msdn.com/scothu/ "Scott Hunter's Blog"), another PM
 on the ASP.NET team, who happens to work on the Dynamic Data feature,
 recently put together an example of using ASP.NET MVC and Dynamic Data
 Web Forms together in the same application. Look for the link to
@@ -27,12 +23,5 @@ Hopefully I’ll get that to you soon.
 the meanwhile, you can probably learn all you need to know by looking at
 this example.
 
-By the way, Scott was recently [featured on .NET
-Rocks](http://www.dotnetrocks.com/default.aspx?showNum=349 "Scott Hunter on Microsoft Dynamic Data").
-We need to get a better picture of him taken. That whole Smoking Man
-image has got to go.
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[dynamic
-data](http://technorati.com/tags/dynamic+data)
-
+By the way, Scott was recently [featured on .NET Rocks](http://www.dotnetrocks.com/default.aspx?showNum=349 "Scott Hunter on Microsoft Dynamic Data").
+We need to get a better picture of him taken. That whole Smoking Man image has got to go.

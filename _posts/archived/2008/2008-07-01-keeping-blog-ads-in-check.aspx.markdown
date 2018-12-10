@@ -4,8 +4,7 @@ title: Keeping Blog Ads In Check
 date: 2008-07-01 -0800
 comments: true
 disqus_identifier: 18500
-categories:
-- personal
+categories: [blogging]
 redirect_from: "/archive/2008/06/30/keeping-blog-ads-in-check.aspx/"
 ---
 
@@ -60,7 +59,4 @@ hats off to James.
 The other notable thing about The Lounge is that James is using ASP.NET
 MVC to build it out and is so far finding the experience to be a good
 one. Right James?
-
-Technorati Tags: [The
-Lounge](http://technorati.com/tags/The+Lounge),[blog](http://technorati.com/tags/blog),[ads](http://technorati.com/tags/ads)
 

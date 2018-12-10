@@ -4,9 +4,7 @@ title: How a Method Becomes An Action
 date: 2008-08-29 -0800
 comments: true
 disqus_identifier: 18528
-categories:
-- asp.net mvc
-- asp.net
+categories: [aspnetmvc]
 redirect_from: "/archive/2008/08/28/how-a-method-becomes-an-action.aspx/"
 ---
 
@@ -213,7 +211,4 @@ they are distinct concepts. A lowly method can become an action by the
 power of its own name (*aka name dropping*), but in this egalitarian
 framework, any method, no matter its name, can handle a particular
 action, by merely using the `ActionNameAttribute`.
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[routing](http://technorati.com/tags/routing)
 

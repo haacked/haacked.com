@@ -4,10 +4,7 @@ title: Using Routing With WebForms
 date: 2008-03-11 -0800
 comments: true
 disqus_identifier: 18463
-categories:
-- asp.net
-- code
-- asp.net mvc
+categories: [routing aspnet aspnetmvc]
 redirect_from: "/archive/2008/03/10/using-routing-with-webforms.aspx/"
 ---
 
@@ -187,7 +184,4 @@ purposes. Use it at your own risk. It is by no means comprehensive, but
 is a useful start to understanding how to use routing with Web Forms
 should you wish. **[Download the demo
 here](http://www.codeplex.com/aspnet/Release/ProjectReleases.aspx?ReleaseId=13576 "WebFormRoutingDemo")**.
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[Routing](http://technorati.com/tags/Routing),[ASP.NET](http://technorati.com/tags/ASP.NET)
 

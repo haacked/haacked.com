@@ -4,8 +4,7 @@ title: Dynamic Language DSL vs Xml Configuration
 date: 2008-04-18 -0800
 comments: true
 disqus_identifier: 18477
-categories:
-- code
+categories: [dsl]
 redirect_from: "/archive/2008/04/17/dynamic-language-dsl-vs-xml-configuration.aspx/"
 ---
 
@@ -66,7 +65,4 @@ IronRuby lately and want to post on some of the interesting stuff I’ve
 been doing in my own time. This post sets the context for why I am
 looking into this, apart from it just being plain fun and coming from a
 haacker ethic of wanting to see how things work.
-
-Technorati Tags:
-[DLR](http://technorati.com/tags/DLR),[IronRuby](http://technorati.com/tags/IronRuby),[Configuration](http://technorati.com/tags/Configuration),[DSL](http://technorati.com/tags/DSL)
 

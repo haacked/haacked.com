@@ -4,7 +4,7 @@ title: TDD Is Also An Organizational Process
 date: 2008-01-14 -0800
 comments: true
 disqus_identifier: 18448
-categories: []
+categories: [tdd microsoft]
 redirect_from: "/archive/2008/01/13/tdd-is-also-an-organizational-process.aspx/"
 ---
 
@@ -99,7 +99,4 @@ the unit tests caused an error to go unnoticed.
 TDD creates a very integrated and cooperative relationship between
 developers and QA staff. It puts the two on the same team, rather than
 simply focusing on the adversarial relationship.
-
-Technorati Tags:
-[TDD](http://technorati.com/tags/TDD),[Microsoft](http://technorati.com/tags/Microsoft)
 

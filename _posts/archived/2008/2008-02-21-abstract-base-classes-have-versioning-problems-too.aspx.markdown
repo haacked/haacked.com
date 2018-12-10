@@ -4,8 +4,7 @@ title: Abstract Base Classes Have Versioning Problems Too
 date: 2008-02-21 -0800
 comments: true
 disqus_identifier: 18458
-categories:
-- code
+categories: [code dotnet csharp versioning]
 redirect_from: "/archive/2008/02/20/abstract-base-classes-have-versioning-problems-too.aspx/"
 ---
 
@@ -140,9 +139,4 @@ series.
 
 Coming up: More on versioning interfaces with real code examples and
 tradeoffs. More on why breaking changes suck. ;)
-
-Technorati Tags: [ASP.NET](http://technorati.com/tags/ASP.NET),[ASP.NET
-MVC](http://technorati.com/tags/aspnetmvc),[Interfaces](http://technorati.com/tags/Interfaces),[Abstract
-Base
-Classes](http://technorati.com/tags/Abstract%20Base%20Classes),[Framework](http://technorati.com/tags/Framework)
 

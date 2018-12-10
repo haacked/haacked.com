@@ -4,8 +4,7 @@ title: Dreaming of Yakitori
 date: 2005-08-05 -0800
 comments: true
 disqus_identifier: 9226
-categories:
-- personal
+categories: [personal japan tokyo]
 redirect_from: "/archive/2005/08/04/dreamingofyakitori.aspx/"
 ---
 
@@ -32,7 +31,4 @@ joining us, a full hour and forty minutes by train from his work place.
 
 I wish I could find a Yakitori place in Los Angeles that was even half
 as good as this place.
-
-Technorati Tags:
-[japan](http://technorati.com/tags/japan),[tokyo](http://technorati.com/tags/tokyo)
 

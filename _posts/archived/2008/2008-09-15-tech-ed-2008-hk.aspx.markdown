@@ -4,8 +4,7 @@ title: Speaking at Tech-Ed 2008 Hong Kong
 date: 2008-09-15 -0800
 comments: true
 disqus_identifier: 18530
-categories:
-- personal
+categories: [travel conferences]
 redirect_from: "/archive/2008/09/14/tech-ed-2008-hk.aspx/"
 ---
 
@@ -27,8 +26,3 @@ trip from Japan where my wife and kid will stay while I go and and speak
 at this conference. I’m looking forward to the vacation, but wish I had
 scheduled the vacation part *after* the conference, rather than before.
 Lesson learned!
-
-Technorati Tags:
-[conferences](http://technorati.com/tags/conferences),[aspnetmvc](http://technorati.com/tags/aspnetmvc),[tdd](http://technorati.com/tags/tdd),[dynamic
-data](http://technorati.com/tags/dynamic+data)
-

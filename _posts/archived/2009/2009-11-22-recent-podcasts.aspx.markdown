@@ -4,7 +4,7 @@ title: Recent Podcasts
 date: 2009-11-22 -0800
 comments: true
 disqus_identifier: 18662
-categories: []
+categories: [podcasts]
 redirect_from: "/archive/2009/11/21/recent-podcasts.aspx/"
 ---
 
@@ -59,14 +59,10 @@ hear about you coming from your VP.
 He was only joking. (*Right Scott? Ha ha ha… It was a joke, right? Ha ha
 ha…. Ha?)*
 
-[**Listen: Hanselminutes Show \#188: ASP.NET MVC 2 Beta with Phil
+[**Listen: Hanselminutes Show 188: ASP.NET MVC 2 Beta with Phil
 Haack**](http://hanselminutes.com/default.aspx?showID=206 "Hanselminutes show 188")
 
 I hope you enjoy them and if you hated them, I welcome constructive
 criticism. It’s so much easier to gather your thoughts when writing than
 when being interviewed. I’m impressed that these guys all do so well to
 be quick witted and come up with great questions time and time again.
-
-Technorati Tags:
-[asp.net](http://technorati.com/tags/asp.net),[aspnetmvc](http://technorati.com/tags/aspnetmvc),[podcast](http://technorati.com/tags/podcast)
-

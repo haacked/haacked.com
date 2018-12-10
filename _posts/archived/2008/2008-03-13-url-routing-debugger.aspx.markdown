@@ -4,10 +4,7 @@ title: ASP.NET Routing Debugger
 date: 2008-03-13 -0800
 comments: true
 disqus_identifier: 18464
-categories:
-- asp.net
-- asp.net mvc
-- code
+categories: [aspnet aspnetmvc routing]
 redirect_from: "/archive/2008/03/12/url-routing-debugger.aspx/"
 ---
 
@@ -63,7 +60,3 @@ source**](http://code.haacked.com/mvc-1.0/RouteTesterDemo.zip "Route Tester Demo
 (using the word *full* makes it sound like there’s a lot, but there’s
 not all that much) and a demo app that makes use of this route tester.
 Let me know if this ends up being useful or not for you.
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[ASP.NET](http://technorati.com/tags/ASP.NET),[routing](http://technorati.com/tags/routing)
-

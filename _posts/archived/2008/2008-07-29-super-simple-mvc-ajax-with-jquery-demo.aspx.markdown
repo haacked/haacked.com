@@ -4,9 +4,7 @@ title: Super Simple MVC Ajax With JQuery Demo
 date: 2008-07-29 -0800
 comments: true
 disqus_identifier: 18512
-categories:
-- asp.net mvc
-- asp.net
+categories: [aspnetmvc]
 redirect_from: "/archive/2008/07/28/super-simple-mvc-ajax-with-jquery-demo.aspx/"
 ---
 
@@ -29,7 +27,3 @@ day.
 He’s posted [the video
 here](http://aspnetpodcast.com/CS11/blogs/asp.net_podcast/archive/2008/07/29/asp-net-podcast-show-121-phil-haack-with-an-asp-net-mvc-demo-video.aspx "Show 106")
 in show \#~~106~~ 121. That’s heckuva a lot of shows Wally!
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[ajax](http://technorati.com/tags/ajax),[jquery](http://technorati.com/tags/jquery)
-

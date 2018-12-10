@@ -4,7 +4,7 @@ title: Another Marginally Useful Tool - BatchConcat
 date: 2006-09-20 -0800
 comments: true
 disqus_identifier: 16952
-categories: []
+categories: [tips tdd utilities]
 redirect_from: "/archive/2006/09/19/another_marginally_useful_tool__batchconcat.aspx/"
 ---
 
@@ -51,8 +51,3 @@ and concatenating text files instead.~~
 
 ~~I figure someone out there might need to do this exact same thing in
 their build process and won’t mind using such crappy code.~~
-
-Technorati Tags: [Tips](http://technorati.com/tags/Tips),
-[TDD](http://technorati.com/tags/TDD),
-[Utilities](http://technorati.com/tags/Utilities)
-

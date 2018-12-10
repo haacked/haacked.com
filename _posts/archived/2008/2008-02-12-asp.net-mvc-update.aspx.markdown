@@ -4,10 +4,7 @@ title: ASP.NET MVC Update
 date: 2008-02-12 -0800
 comments: true
 disqus_identifier: 18456
-categories:
-- asp.net
-- code
-- asp.net mvc
+categories: [aspnet aspnetmvc]
 redirect_from: "/archive/2008/02/11/asp.net-mvc-update.aspx/"
 ---
 
@@ -60,7 +57,4 @@ In any case, there are still some areas I’m not yet happy with (there
 always will be, won’t there?), so we are not done by any measure. I’ll
 reserve talking about that until after Mix when you have the code in
 your hands and can follow along.
-
-Technorati Tags:
-[ASP.NET](http://technorati.com/tags/ASP.NET),[aspnetmvc](http://technorati.com/tags/aspnetmvc)
 

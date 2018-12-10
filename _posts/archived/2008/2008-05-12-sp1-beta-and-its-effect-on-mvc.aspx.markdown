@@ -4,10 +4,7 @@ title: ".NET 3.5 SP1 Beta and Its Effect on MVC"
 date: 2008-05-12 -0800
 comments: true
 disqus_identifier: 18486
-categories:
-- asp.net
-- asp.net mvc
-- code
+categories: [aspntemvc dotnet]
 redirect_from: "/archive/2008/05/11/sp1-beta-and-its-effect-on-mvc.aspx/"
 ---
 
@@ -64,7 +61,4 @@ have different version numbers.
 They don’t call it “Bleeding Edge” for nothing when playing with these
 previews, but we are sorry for the inconvenience and Preview 3 should
 make it better.
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[aspnet](http://technorati.com/tags/aspnet),[net35sp1](http://technorati.com/tags/net35sp1)
 

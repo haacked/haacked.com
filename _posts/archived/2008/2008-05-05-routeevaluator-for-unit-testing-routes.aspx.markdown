@@ -4,9 +4,7 @@ title: RouteEvaluator For Unit Testing Routes
 date: 2008-05-05 -0800
 comments: true
 disqus_identifier: 18482
-categories:
-- asp.net
-- asp.net mvc
+categories: [routing tdd aspnetmvc]
 redirect_from: "/archive/2008/05/04/routeevaluator-for-unit-testing-routes.aspx/"
 ---
 
@@ -88,7 +86,4 @@ req.AppRelativeCurrentExecutionFilePath).Returns(virtualPath);
 ```
 
 Let me know if this ends up being useful to you.
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[ASP.NET](http://technorati.com/tags/ASP.NET),[routing](http://technorati.com/tags/routing)
 

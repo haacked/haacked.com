@@ -4,9 +4,7 @@ title: Versioning Issues With Abstract Base Classes and Interfaces
 date: 2008-02-21 -0800
 comments: true
 disqus_identifier: 18457
-categories:
-- asp.net
-- code
+categories: [dotnet code versioning]
 redirect_from: "/archive/2008/02/20/versioning-issues-with-abstract-base-classes-and-interfaces.aspx/"
 ---
 
@@ -240,7 +238,4 @@ Frameworks are best extracted from real applications, not simply from
 guidelines. The guidelines are simply that, a guide based on past
 experiences. So keep building applications on top of ASP.NET MVC and let
 us know what needs improvement (and also what you like about it).
-
-Technorati Tags:
-[ASP.NET](http://technorati.com/tags/ASP.NET),[Design](http://technorati.com/tags/Design),[Framework](http://technorati.com/tags/Framework)
 

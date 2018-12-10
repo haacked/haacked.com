@@ -4,7 +4,7 @@ title: Write Plugins Easily Using The Dynamic Template Plugin For Windows Live W
 date: 2007-08-12 -0800
 comments: true
 disqus_identifier: 18380
-categories: []
+categories: [blogging]
 redirect_from: "/archive/2007/08/11/write-plugins-easily-using-the-dynamic-template-plugin-for-windows.aspx/"
 ---
 
@@ -64,9 +64,3 @@ template. There’s also some documentation [located
 here](http://www.joecheng.com/code/DynamicTemplate/ "Dynamic Template Documentation"). This
 is a pretty handy plugin that’ll be great for automating a variety of
 html snippets I use often.
-
-Technorati tags: [Windows Live
-Writer](http://technorati.com/tags/Windows%20Live%20Writer),
-[WLW](http://technorati.com/tags/WLW),
-[Plugins](http://technorati.com/tags/Plugins)
-

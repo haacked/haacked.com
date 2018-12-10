@@ -4,9 +4,7 @@ title: Streamlined BDD Using SubSpec for xUnit.NET
 date: 2008-08-23 -0800
 comments: true
 disqus_identifier: 18526
-categories:
-- tdd
-- code
+categories: [bdd]
 redirect_from:
   - "/archive/2008/08/22/introducing-subspec.aspx/"
   - "/archive/2008/08/24/introducing-subspec.aspx/"
@@ -305,7 +303,4 @@ public void When_Transferring_To_An_Account()
 For those of you completely new to BDD, check out [Scott Bellware’s Code
 Magazine article on the
 subject](http://www.code-magazine.com/Article.aspx?quickid=0805061 "Behavior-Driven Development").
-
-Technorati Tags:
-[tdd](http://technorati.com/tags/tdd),[bdd](http://technorati.com/tags/bdd),[xunit.net](http://technorati.com/tags/xunit.net)
 

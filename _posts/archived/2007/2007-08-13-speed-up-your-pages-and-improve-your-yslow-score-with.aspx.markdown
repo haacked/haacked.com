@@ -5,7 +5,7 @@ title: Speed Up Your Pages And Improve Your YSlow Score With The Coral Content D
 date: 2007-08-13 -0800
 comments: true
 disqus_identifier: 18381
-categories: []
+categories: [web performance code]
 redirect_from: "/archive/2007/08/12/speed-up-your-pages-and-improve-your-yslow-score-with.aspx/"
 ---
 
@@ -202,11 +202,3 @@ As for me, I’m moving on to looking into
 using [JSMin](http://crockford.com/javascript/jsmin "A tool for compressing javascript"),
 [JSLint](http://www.jslint.com/lint.html "A tool for analyzing common errors in javascript"), and
 merging CSS files etc...
-
-Technorati tags: [WLW](http://technorati.com/tags/WLW), [Windows Live
-Writer](http://technorati.com/tags/Windows%20Live%20Writer),
-[YSlow](http://technorati.com/tags/YSlow),
-[Firebug](http://technorati.com/tags/Firebug),
-[Performance](http://technorati.com/tags/Performance), [Web
-Development](http://technorati.com/tags/Web%20Development)
-

@@ -4,10 +4,7 @@ title: IronRuby With ASP.NET MVC Working Prototype
 date: 2008-07-20 -0800
 comments: true
 disqus_identifier: 18505
-categories:
-- asp.net mvc
-- code
-- dlr
+categories: [aspnetmvc ruby]
 redirect_from: "/archive/2008/07/19/ironruby-aspnetmvc-prototype.aspx/"
 ---
 
@@ -91,7 +88,3 @@ Attributions: The CSS layout and ruby logo are both licensed under the
 [Creative Creative Commons Attribution-ShareAlike
 2.5](http://creativecommons.org/licenses/by-sa/2.5/ "Creative Commons Share Alike 2.5")
 License. Full attribution is within the source.
-
-Technorati Tags:
-[Ironruby](http://technorati.com/tags/Ironruby),[aspnetmvc](http://technorati.com/tags/aspnetmvc)
-

@@ -4,8 +4,7 @@ title: VS2008 Web Server Here Shell Extension
 date: 2008-06-24 -0800
 comments: true
 disqus_identifier: 18497
-categories:
-- code
+categories: [code tools]
 redirect_from: "/archive/2008/06/23/vs2008-web-server-here-shell-extension.aspx/"
 ---
 
@@ -58,9 +57,4 @@ files](https://haacked.com/code/Webserver-Here.zip "WebServer Here Reg Files").
 The x64 one I tested on my machine. The x86 one I did not. If you
 installed Visual Studio into a non-standard directory, you might have to
 change the path within the registry file.
-
-Technorati Tags:
-[Tips](http://technorati.com/tags/Tips),[Registry](http://technorati.com/tags/Registry),[Visual
-Studio](http://technorati.com/tags/Visual+Studio),[Web
-Server](http://technorati.com/tags/Web+Server)
 

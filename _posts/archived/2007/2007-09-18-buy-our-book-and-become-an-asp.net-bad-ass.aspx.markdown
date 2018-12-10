@@ -4,7 +4,7 @@ title: Buy Our Book And Become An ASP.NET Bad Ass
 date: 2007-09-18 -0800
 comments: true
 disqus_identifier: 18394
-categories: []
+categories: [books aspnet]
 redirect_from: "/archive/2007/09/17/buy-our-book-and-become-an-asp.net-bad-ass.aspx/"
 ---
 
@@ -34,7 +34,3 @@ quickly rehashes the basics to set the stage for more interesting tips
 and tricks. The goal of the book is to be a survival guide for ASP.NET
 developers. We’ve been bitten and had the poison sucked out of our veins
 so you can avoid the vipers in the wild.
-
-Technorati tags: [Books](http://technorati.com/tags/Books),
-[ASP.NET](http://technorati.com/tags/ASP.NET)
-

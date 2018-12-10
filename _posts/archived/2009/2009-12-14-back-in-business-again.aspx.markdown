@@ -4,8 +4,7 @@ title: Back in Business
 date: 2009-12-14 -0800
 comments: true
 disqus_identifier: 18665
-categories:
-- personal
+categories: [blogging]
 redirect_from: "/archive/2009/12/13/back-in-business-again.aspx/"
 ---
 
@@ -134,7 +133,3 @@ and how he sucks. Yes, I must share in that suck too.
 UPDATE 12/14/2009 10:19 PMI was able to recover most of my images
 through a lucky break. I wrote about how the [IIS SEO Toolkit saves the
 day](https://haacked.com/archive/2009/12/14/back-in-business-again.aspx "IIS SEO Toolkit Saves the day").
-
-Technorati Tags:
-[hosting](http://technorati.com/tags/hosting),[backups](http://technorati.com/tags/backups),[crystaltech](http://technorati.com/tags/crystaltech),[blog](http://technorati.com/tags/blog)
-

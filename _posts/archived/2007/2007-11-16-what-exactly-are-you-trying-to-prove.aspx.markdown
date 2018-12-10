@@ -4,9 +4,7 @@ title: What Exactly Are You Trying To Prove?
 date: 2007-11-16 -0800
 comments: true
 disqus_identifier: 18424
-categories:
-- code
-- tdd
+categories: [tdd correctness]
 redirect_from: "/archive/2007/11/15/what-exactly-are-you-trying-to-prove.aspx/"
 ---
 
@@ -148,8 +146,4 @@ like the approaches of numerical analysis, it can give you an
 factor. The more tests, the smaller the error bounds and the better your
 confidence. This is a way better use of your time than trying to prove
 everything you write.
-
-Technorati Tags:
-[TDD](http://technorati.com/tags/TDD),[Math](http://technorati.com/tags/Math),[Code
-Correctness](http://technorati.com/tags/Code%20Correctness)
 

@@ -4,10 +4,7 @@ title: Code Based Repeater for ASP.NET MVC
 date: 2008-05-03 -0800
 comments: true
 disqus_identifier: 18481
-categories:
-- asp.net
-- asp.net mvc
-- code
+categories: [aspnet aspnetmvc]
 redirect_from: "/archive/2008/05/02/code-based-repeater-for-asp.net-mvc.aspx/"
 ---
 
@@ -218,7 +215,3 @@ static IEnumerable<T> GetViewDataAsEnumerable<T>(HtmlHelper html, string viewDat
 ```
 
 Hopefully that gets some people off my back now. ;)
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[asp.net](http://technorati.com/tags/asp.net)
-

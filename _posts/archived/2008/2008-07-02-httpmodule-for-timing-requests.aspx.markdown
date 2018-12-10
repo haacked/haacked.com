@@ -4,10 +4,7 @@ title: HttpModule For Timing Requests
 date: 2008-07-02 -0800
 comments: true
 disqus_identifier: 18501
-categories:
-- asp.net
-- asp.net mvc
-- code
+categories: [aspnetmvc]
 redirect_from: "/archive/2008/07/01/httpmodule-for-timing-requests.aspx/"
 ---
 
@@ -101,7 +98,4 @@ don’t need to make the following change.
 ```
 
 Hope you find this useful.
-
-Technorati Tags:
-[ASP.NET](http://technorati.com/tags/ASP.NET),[performance](http://technorati.com/tags/performance),[stopwatch](http://technorati.com/tags/stopwatch)
 

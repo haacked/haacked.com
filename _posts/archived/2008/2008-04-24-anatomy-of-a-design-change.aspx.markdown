@@ -4,9 +4,7 @@ title: Anatomy of a &quot;Small&quot; Software Design Change
 date: 2008-04-24 -0800
 comments: true
 disqus_identifier: 18480
-categories:
-- asp.net mvc
-- code
+categories: [aspnetmvc design]
 redirect_from: "/archive/2008/04/23/anatomy-of-a-design-change.aspx/"
 ---
 
@@ -175,9 +173,3 @@ simple on the surface ends up being a lot of work in actuality. If you
 have such examples, be a pal and post them in the comments. The goal
 here is to find common ground and a shared language for describing the
 realities of software to non-software developers.
-
-Technorati Tags:
-[Software](http://technorati.com/tags/Software),[Software
-Design](http://technorati.com/tags/Software%20Design),[ASP.NET
-MVC](http://technorati.com/tags/aspnetmvc)
-

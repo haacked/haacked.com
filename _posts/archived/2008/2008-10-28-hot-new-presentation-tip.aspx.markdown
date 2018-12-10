@@ -4,8 +4,7 @@ title: Hot New Presentation Tip
 date: 2008-10-28 -0800
 comments: true
 disqus_identifier: 18543
-categories:
-- personal
+categories: [tips speaking conferences]
 redirect_from: "/archive/2008/10/27/hot-new-presentation-tip.aspx/"
 ---
 
@@ -43,7 +42,4 @@ show people that there’s a demand for this type of framework and
 development model (transparency, source releases, etc…) and maybe we can
 get more than one MVC talk next time. I think it’s time I do a really
 advanced one. :)
-
-Technorati Tags:
-[pdc2008](http://technorati.com/tags/pdc2008),[aspnetmvc](http://technorati.com/tags/aspnetmvc),[presentation](http://technorati.com/tags/presentation),[pdc](http://technorati.com/tags/pdc)
 

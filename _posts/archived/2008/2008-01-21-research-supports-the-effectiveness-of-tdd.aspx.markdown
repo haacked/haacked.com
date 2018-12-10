@@ -4,9 +4,7 @@ title: Research Supports The Effectiveness of TDD
 date: 2008-01-21 -0800
 comments: true
 disqus_identifier: 18449
-categories:
-- code
-- tdd
+categories: [tdd code research]
 redirect_from: "/archive/2008/01/20/research-supports-the-effectiveness-of-tdd.aspx/"
 ---
 
@@ -134,7 +132,4 @@ mind if the evidence supports it. Though in this case, I find TDD a
 rather pleasant fun enjoyable method for writing code. There would have
 to be a massive amount solid evidence that TDD is a colossal waste of
 time for me to drop it.
-
-Technorati Tags: [TDD](http://technorati.com/tags/TDD),[Unit
-Tests](http://technorati.com/tags/Unit%20Tests),[Research](http://technorati.com/tags/Research)
 

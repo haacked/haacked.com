@@ -4,7 +4,7 @@ title: The Cost Of Breaking Changes
 date: 2008-03-03 -0800
 comments: true
 disqus_identifier: 18459
-categories: []
+categories: [code versioning]
 redirect_from: "/archive/2008/03/02/the-cost-of-breaking-changes.aspx/"
 ---
 
@@ -72,7 +72,4 @@ that does stuff with that data now.
 
 Of course I have the luxury of breaking my interfaces whenever I want,
 as my customers tend to be few and forgiving. ;)
-
-Technorati Tags:
-[Framework](http://technorati.com/tags/Framework),[Design](http://technorati.com/tags/Design),[Software](http://technorati.com/tags/Software),[Interfaces](http://technorati.com/tags/Interfaces)
 

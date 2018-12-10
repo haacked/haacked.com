@@ -4,8 +4,7 @@ title: On Seppuku, Katanas, and Samurai
 date: 2005-01-04 -0800
 comments: true
 disqus_identifier: 1813
-categories:
-- personal
+categories: [personal japan tokyo]
 redirect_from: "/archive/2005/01/03/on-seppuku-katanas-samurai.aspx/"
 ---
 
@@ -94,7 +93,4 @@ Doesn't that feel nice?
 For women who had been shamed, they would often kneel down to commit
 seppuku and were permitted to lean into the blade, bracing the hilt on
 the ground if they did not have the strength to cut themselves.
-
-Technorati Tags:
-[japan](http://technorati.com/tags/japan),[tokyo](http://technorati.com/tags/tokyo)
 

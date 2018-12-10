@@ -4,8 +4,7 @@ title: Happy New Years From Tokyo!
 date: 2004-12-31 -0800
 comments: true
 disqus_identifier: 1791
-categories:
-- personal
+categories: [personal japan tokyo]
 redirect_from: "/archive/2004/12/30/new-year-in-tokyo.aspx/"
 ---
 
@@ -36,7 +35,4 @@ we had some onigiri and tempura. Akumi's mom is a phenomenal cook.
 Well I better be off to bed and let the fight with jet lag begin. I wish
 you all a happy new year and hope we all can make some exciting things
 happen in 2005.
-
-Technorati Tags:
-[japan](http://technorati.com/tags/japan),[tokyo](http://technorati.com/tags/tokyo)
 

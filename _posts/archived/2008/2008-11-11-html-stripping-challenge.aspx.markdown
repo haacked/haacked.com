@@ -4,8 +4,7 @@ title: HTML Stripping Challenge
 date: 2008-11-11 -0800
 comments: true
 disqus_identifier: 18552
-categories:
-- code
+categories: [code html]
 redirect_from: "/archive/2008/11/10/html-stripping-challenge.aspx/"
 ---
 
@@ -284,7 +283,3 @@ as hackers will find that 1% and exploit it.
 In any case, I think I’m really done with this topic for now. I hope it
 was worthwhile. And as I said, I’ll post my code solution to this later.
 Let me know if you find missing test cases.
-
-Technorati Tags:
-[html](http://technorati.com/tags/html),[parsing](http://technorati.com/tags/parsing)
-

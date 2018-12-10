@@ -4,9 +4,7 @@ title: How I Got Started In Software Development
 date: 2008-07-25 -0800
 comments: true
 disqus_identifier: 18507
-categories:
-- personal
-- code
+categories: [personal career]
 redirect_from: "/archive/2008/07/24/how-i-got-started-in-software-development.aspx/"
 ---
 
@@ -103,6 +101,4 @@ Hacking on Open Source projects such as
 prototype](https://haacked.com/archive/2008/07/20/ironruby-aspnetmvc-prototype.aspx "IronRuby and MVC")
 has been a lot of fun. I find it fun to try out new things as well as
 making old things better.
-
-Technorati Tags: [Personal](http://technorati.com/tags/Personal)
 

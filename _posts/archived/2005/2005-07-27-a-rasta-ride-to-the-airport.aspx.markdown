@@ -4,8 +4,7 @@ title: A Rasta Ride to the Airport
 date: 2005-07-27 -0800
 comments: true
 disqus_identifier: 9054
-categories:
-- personal
+categories: [personal japan tokyo]
 redirect_from: "/archive/2005/07/26/a-rasta-ride-to-the-airport.aspx/"
 ---
 
@@ -91,7 +90,4 @@ His song selection began with repeating...
 > secretly recorded a snippet using the voice note recording feature on
 > my cell phone. If I can figure out how to get it off the phone, maybe
 > I’ll share it sometime.
-
-Technorati Tags:
-[japan](http://technorati.com/tags/japan),[tokyo](http://technorati.com/tags/tokyo)
 

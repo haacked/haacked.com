@@ -4,7 +4,7 @@ title: Any Recommendations For A Good Place To Get A Drink In Redmond?
 date: 2007-08-02 -0800
 comments: true
 disqus_identifier: 18376
-categories: []
+categories: [travel drinks]
 redirect_from: "/archive/2007/08/01/any-recommendations-for-a-good-place-to-get-a-drink.aspx/"
 ---
 
@@ -25,9 +25,4 @@ night’s celebrations. It just wouldn’t be right to not continue that
 tradition.
 
 I’m also free Monday night as far as I know.
-
-Technorati tags: [Redmond](http://technorati.com/tags/Redmond),
-[Bar](http://technorati.com/tags/Bar),
-[Drink](http://technorati.com/tags/Drink),
-[Recommendations](http://technorati.com/tags/Recommendations)
 

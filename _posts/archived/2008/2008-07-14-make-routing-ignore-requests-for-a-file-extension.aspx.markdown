@@ -4,9 +4,7 @@ title: Make Routing Ignore Requests For A File Extension
 date: 2008-07-14 -0800
 comments: true
 disqus_identifier: 18503
-categories:
-- asp.net mvc
-- asp.net
+categories: [routing aspnetmvc]
 redirect_from: "/archive/2008/07/13/make-routing-ignore-requests-for-a-file-extension.aspx/"
 ---
 
@@ -63,7 +61,4 @@ these routes will match (and thus *ignore*) all requests for
 *favicon.ico* (no matter which directory) as well as requests for a
 *.aspx* file. Since we told routing to ignore these requests, normal
 ASP.NET processing of these requests will occur.
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[routing](http://technorati.com/tags/routing)
 

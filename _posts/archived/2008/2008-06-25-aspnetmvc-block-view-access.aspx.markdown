@@ -5,10 +5,7 @@ title: 'Security Tip: Blocking Access to ASP.NET MVC Views Using Alternative Vie
 date: 2008-06-25 -0800
 comments: true
 disqus_identifier: 18498
-categories:
-- asp.net mvc
-- asp.net
-- code
+categories: [tips aspnetmvc security]
 redirect_from: "/archive/2008/06/24/aspnetmvc-block-view-access.aspx/"
 ---
 
@@ -77,8 +74,4 @@ the default template. We could consider requiring putting static files
 in there or in another directory other than *Views*. I’m not sure how
 people would feel if they couldn’t put assets intended to support Views
 within the *Views*folder.
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[security](http://technorati.com/tags/security),[view
-engines](http://technorati.com/tags/view+engines)
 

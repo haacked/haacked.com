@@ -4,10 +4,7 @@ title: ASP.NET MVC CodePlex Preview 5 Released
 date: 2008-08-29 -0800
 comments: true
 disqus_identifier: 18527
-categories:
-- asp.net
-- asp.net mvc
-- code
+categories: [aspnetmvc]
 redirect_from: "/archive/2008/08/28/asp.net-mvc-codeplex-preview-5-released.aspx/"
 ---
 
@@ -54,7 +51,3 @@ some work on this feature and will describe the view engine changes.
 UPDATE: Brad just blogged about [partial rendering and view
 engines](http://bradwilson.typepad.com/blog/2008/08/partial-renderi.html "Partial Rendering and View Engines")
 in ASP.NET MVC.
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[asp.net](http://technorati.com/tags/asp.net)
-

@@ -4,7 +4,7 @@ title: At The Microsoft Campus Next Week And Other Engagements
 date: 2007-07-30 -0800
 comments: true
 disqus_identifier: 18375
-categories: []
+categories: [microsoft travel]
 redirect_from: "/archive/2007/07/29/at-the-microsoft-campus-next-week-and-other-engagements.aspx/"
 ---
 
@@ -42,10 +42,3 @@ I’ll be in attendance and on two panels at the DotNetNuke OpenForce
 conference. I’ve mentioned [this one
 already](https://haacked.com/archive/2007/05/22/ill-be-speaking-about-open-source-at-openforce.aspx "Open Force") in
 my blog. I’m pretty excited about this one.
-
-Technorati tags: [Open
-Source](http://technorati.com/tags/Open%20Source),
-[Microsoft](http://technorati.com/tags/Microsoft),
-[DNN](http://technorati.com/tags/DNN),
-[DotNetRocks](http://technorati.com/tags/DotNetRocks)
-

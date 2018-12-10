@@ -4,10 +4,7 @@ title: Anatomy of a Cross-site Request Forgery Attack
 date: 2009-04-02 -0800
 comments: true
 disqus_identifier: 18605
-categories:
-- asp.net
-- code
-- asp.net mvc
+categories: [aspnetmvc security]
 redirect_from: "/archive/2009/04/01/anatomy-of-csrf-attack.aspx/"
 ---
 
@@ -278,7 +275,3 @@ If you missed the link to the sample code before, you can [download the
 source
 here](http://code.haacked.com/mvc-2/CsrfDemo.zip "Bank Transfer CSRF Demo")
 (*compiled against ASP.NET MVC 2*).
-
-Technorati Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc),[asp.net](http://technorati.com/tags/asp.net),[csrf](http://technorati.com/tags/csrf),[security](http://technorati.com/tags/security)
-

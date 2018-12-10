@@ -4,10 +4,7 @@ title: The ABCs of Alpha, Beta, CTP
 date: 2008-08-15 -0800
 comments: true
 disqus_identifier: 18524
-categories:
-- code
-- asp.net mvc
-- asp.net
+categories: [releases]
 redirect_from: "/archive/2008/08/14/understanding-beta.aspx/"
 ---
 
@@ -114,7 +111,4 @@ new features, but it seems to be the norm now that they do. Service
 Packs tend to include all the hotfixes and patches released since the
 product originally was released, which is convenient for the end user in
 not having to install every fix individually.
-
-Technorati Tags:
-[beta](http://technorati.com/tags/beta),[ctp](http://technorati.com/tags/ctp),[alpha](http://technorati.com/tags/alpha),[rtw](http://technorati.com/tags/rtw),[rtm](http://technorati.com/tags/rtm)
 

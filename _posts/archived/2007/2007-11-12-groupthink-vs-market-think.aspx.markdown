@@ -4,7 +4,7 @@ title: Groupthink Vs Market Think
 date: 2007-11-12 -0800
 comments: true
 disqus_identifier: 18422
-categories: []
+categories: [markets decision-making]
 redirect_from: "/archive/2007/11/11/groupthink-vs-market-think.aspx/"
 ---
 
@@ -141,8 +141,4 @@ However, understanding what makes predictive markets work and what the
 symptoms of groupthink look like can be a great benefit the next time
 you are making a decision within a group and start to see groupthink
 emerging.
-
-Technorati Tags: [Decision
-Making](http://technorati.com/tags/Decision%20Making),[Consensus](http://technorati.com/tags/Consensus),[Predictive
-Markets](http://technorati.com/tags/Predictive%20Markets),[Groupthink](http://technorati.com/tags/Groupthink)
 
