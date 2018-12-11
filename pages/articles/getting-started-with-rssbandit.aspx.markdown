@@ -1,10 +1,7 @@
 ---
 layout: page
 title: "Getting Started With RssBandit"
-date: 2004-02-08 -0800
-comments: true
-disqus_identifier: 182
-categories: []
+permalink: /articles/getting-started-with-rssbandit.aspx
 ---
 
 Getting Started With RSSBandit

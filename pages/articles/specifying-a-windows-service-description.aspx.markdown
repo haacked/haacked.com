@@ -1,11 +1,9 @@
 ---
 layout: page
 title: "Specifying a Windows Service Description"
-date: 2004-11-02 -0800
-comments: true
-disqus_identifier: 1549
-categories: []
+permalink: /articles/specifying-a-windows-service-description.aspx
 ---
+
 Source listing for methods to add and remove a Windows Service
 description to and from the Registry.
 

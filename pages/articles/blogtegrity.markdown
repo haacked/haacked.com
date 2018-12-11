@@ -1,9 +1,7 @@
 ---
 layout: page
 title: "Blogtegrity"
-date: 2006-03-06 -0800
-comments: false
-disqus_identifier: 12008
+permalink: /articles/blogtegrity
 ---
 
 Intro

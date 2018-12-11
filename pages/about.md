@@ -1,18 +1,16 @@
 ---
 layout: page
-title: "About Haacked"
+title: "Hi, I'm Haacked"
+nav_title: "About"
 description: "A bit about Phil Haack"
-date: 2005-10-15 -0800
-comments: false
-disqus_identifier: 10811
+include_nav: true
 redirect_from: "/articles/AboutHaacked.aspx.html"
 categories: [personal]
-sharing: false
+permalink: /about/
 ---
 
-## Who I am
+<img src="https://user-images.githubusercontent.com/19977/49780625-33581400-fcc4-11e8-9961-735e6bebdfc8.png" width="260" style="margin: 0 30px 30px 0; float: left;" >
 
-[![Me and Cody](https://farm2.static.flickr.com/1166/720440046_7bec55b6f0_m.jpg)](http://www.flickr.com/photos/haacked/720440046/ "Photo Sharing")
 In case you were wondering, not that I have any reason to believe you were, *Haacked* is *not* my real name.
 
 In the offline world, *(which some prefer to call the “real world”)*, people tend to call me [Phil Haack](https://haacked.com/ "home page") *(pronounced, you guessed it, “hack”)* — unless of course they are calling me more colorful names as is sometimes deserved.
@@ -23,7 +21,7 @@ In the offline world, *(which some prefer to call the “real world”)*, people
 
 I'm a [stay-at-home parent and independent malcontent](https://twitter.com/haacked/status/1053296117176184834).
 
-I used to work at [GitHub](http://github.com/) doing whatever I could to make it even more awesome. Prior to that I worked at Microsoft on NuGet and ASP.NET MVC and helped to usher in Microsoft's Open Source era.
+I used to work at [GitHub](http://github.com/) doing whatever I could to make it even more awesome. Prior to that I worked at Microsoft on [NuGet](http://nuget.org) and [ASP.NET MVC](https://www.asp.net/mvc) and helped to usher in Microsoft's Open Source era.
 
 ## Why I do it
 
@@ -37,4 +35,4 @@ What is it about American culture that causes us to ask people *What do you do?*
 
 Oh well. Read my blog for a while and you’ll find I’m fanatical about playing soccer.
 
-Living in beautiful Bellevue, WA, I take every occasion to go hiking and camping.
+Living in beautiful Bellevue, WA, I take every occasion to go hiking and camping.

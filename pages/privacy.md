@@ -1,10 +1,7 @@
 ---
 layout: page
 title: "Privacy Policy"
-date: 2004-09-01 -0800
-comments: false
-categories: []
-sharing: false
+permalink: /privacy
 ---
 
 ## What? Why Have A Privacy Policy?
