@@ -1,0 +1,61 @@
+---
+# If you use the haacked/haacked-theme Jekyll Theme, you do not need to add this file
+# unless you want to customize the CSS styles
+#
+# To customize the theme's CSS, copy this file to your site with the same directory
+# structure. Add your customizations after the import line.
+---
+
+$header-background-color: #2d3339;
+$brand-color:      #258fb8;
+$text-color: #333;
+$post-font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$sidebar-width: 350px;
+$on-mobile: 800px;
+$carbon-ad-width: 140px;
+$baseurl: '{{site.baseurl}}';
+
+@import 'haacked-theme',
+  "carbon";
+
+h1.post-title a {
+  color: $text-color;
+
+  &:hover {
+    color: $brand-color;
+  }
+}
+
+.site-nav {
+  margin-top: 10%;
+}
+
+.site-nav ul li {
+  @include relative-font-size(1.1);
+  @include relative-font-weight(.5);
+}
+
+.page-content {
+  margin-right: $carbon-ad-width;
+}
+
+.site-footer {
+  margin-left: 0;
+}
+
+.footer-col-1 {
+  width: calc(20% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+  width: calc(20% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-3 {
+  width: calc(60% - (#{$spacing-unit} / 2));
+}
+
+.pagination {
+  padding-bottom: 30px;
+}

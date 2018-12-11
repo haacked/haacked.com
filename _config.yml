@@ -1,84 +1,75 @@
-#
-# Blog Settings
-#
-author: Phil Haack
-description: You've been Haacked and you like it is a blog about Technology, Software, Management, and Open Source. It's full of good stuff.
-url: https://haacked.com
 title: You've Been Haacked
 subtitle: ...and you like it
-gravatar_url: https://2.gravatar.com/avatar/cdf546b601bf29a7eb4ca777544d11cd
-subscribe_rss: http://feeds.haacked.com/haacked
-lang: en
-
-# Github repositories
-github_user: haacked
-github_repo_url: https://github.com/Haacked/haacked.com/
-
-# Twitter
-twitter_user: haacked
+author: Phil Haack
+avatar_url: https://2.gravatar.com/avatar/cdf546b601bf29a7eb4ca777544d11cd?s=160 # Should be 160x160px.
+# email: your-email@domain.com  # Comment out this line if you don't want to expose your email.
+description: > # this means to ignore newlines until "twitter_username:"
+  You've been Haacked and you like it is a blog about
+  Technology, Software, Management, and Open Source.
+  It's full of good stuff.
+repository: haacked/haacked.com
 
 # Google Analytics
-google_analytics_tracking_id: UA-177588-1
+google_analytics: UA-177588-1
 
-social:
-  name: Phil Haack
-  links:
-    - https://twitter.com/haacked
-    - https://www.facebook.com/haacked
-    - https://www.linkedin.com/in/haacked
-    - https://github.com/haacked
+# contact
+contact:
+#  email: your-email@domain.com  # Comment out this line if you don't want to expose your email.
+  url: https://github.com/Haacked/feedback/issues/new # Uncomment this to provide a contact form url instead of an email
 
-kramdown:
-  hard_wrap: false
+# social links
+twitter_username: haacked
+github_username:  haacked
+rss: rss
+
+# 
+# Subscribe Feed
+# 
+# By default, your site generates a subscription feed (RSS/Atom) at /feed.xml
+# Uncomment the next two lines to change the path.
+feed:
+   path: /atom.xml
+
+# If you use a feed publisher such as Feedburner, uncomment the next line
+subscribe_rss: http://feeds.haacked.com/haacked
+
+# Homepage
+show_excerpts: true  # set to true to show excerpts on the homepage, otherwise full posts are shown
+
+# Comments
+# To enable comments, set the `enabled` field to true and supply either a Disqus short name or a Jekyll comments receiver
+comments:
+  enabled: true
+  show_count: true
+  receiver: https://haacked-blog.azurewebsites.net/api/PostComment  # See https://haacked.com/archive/2018/06/24/comments-for-jekyll-blogs/ for more information.
+
+emptyArray: [] # Leave this here.
+
+# Haacked-Theme date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+haacked-theme:
+  date_format: "%b %-d, %Y"
 
 #
 # Jekyll Settings
 #
 permalink: /archive/:year/:month/:day/:title/
 paginate: 20
-paginate_path: "page/:num"
+page_group_size: 5 # number of pages to group by in the pagination.
+paginate_path: "/archive/page/:num"
 category_dir: categories
 
+# Build settings
+markdown: kramdown
+kramdown:
+  hard_wrap: false
+remote_theme: haacked/haackbar
+
+# Plugins
 plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-feed
   - jekyll-redirect-from
   - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
   - jekyll-paginate
-
-feed:
-  path: atom.xml
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _scss
-  style:            :compressed
-
-emptyArray: []
-
-comments:
-  receiver: https://haacked-blog.azurewebsites.net/api/PostComment
-
-authors:
-  haacked:
-    name: haacked
-    email: haacked@gmail.com
-    url: https://haacked.com
-
-defaults:
-  -
-    scope:
-      path: ''
-      type: pages
-    values:
-      layout: page
-      author: haacked
-  -
-    scope:
-      path: '_posts'
-      type: posts
-    values:
-      layout: post
-      author: haacked
