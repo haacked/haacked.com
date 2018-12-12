@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Avoid Premature Generalization
 date: 2005-09-19 -0800
-comments: true
 disqus_identifier: 10231
 categories: []
 redirect_from: "/archive/2005/09/18/avoid_premature_generalization.aspx/"

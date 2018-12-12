@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Swinging With The Big Boys
 date: 2006-04-06 -0800
-comments: true
 disqus_identifier: 12297
 categories: []
 redirect_from: "/archive/2006/04/05/SwingingWithTheBigBoys.aspx/"

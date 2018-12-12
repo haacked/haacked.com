@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Subtext Alternative To Url Rewriting
 date: 2006-02-23 -0800
-comments: true
 disqus_identifier: 11859
 categories:
 - asp.net

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Ideas To Reduce Comment Spam
 date: 2004-06-04 -0800
-comments: true
 disqus_identifier: 529
 categories: []
 redirect_from: "/archive/2004/06/03/ideas-to-reduce-comment-spam.aspx/"

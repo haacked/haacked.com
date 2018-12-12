@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Thread Safety Via Read Only Collections
 date: 2007-03-25 -0800
-comments: true
 disqus_identifier: 18262
 categories: []
 redirect_from: "/archive/2007/03/24/thread-safety-via-read-only-collections.aspx/"

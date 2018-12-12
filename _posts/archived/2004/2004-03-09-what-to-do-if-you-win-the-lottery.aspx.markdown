@@ -1,8 +1,6 @@
 ---
-layout: post
 title: What would you do if you won the lottery?
 date: 2004-03-09 -0800
-comments: true
 disqus_identifier: 242
 categories: []
 redirect_from: "/archive/2004/03/08/what-to-do-if-you-win-the-lottery.aspx/"

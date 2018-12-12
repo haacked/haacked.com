@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Dependency Injection With ASP.NET HttpModules
 date: 2011-06-03 -0800
-comments: true
 disqus_identifier: 18793
 categories:
 - asp.net

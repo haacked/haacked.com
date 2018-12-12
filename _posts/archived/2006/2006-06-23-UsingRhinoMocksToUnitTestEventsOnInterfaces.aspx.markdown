@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Using Rhino Mocks To Unit Test Events on Interfaces
 date: 2006-06-23 -0800
-comments: true
 disqus_identifier: 13491
 categories:
 - code

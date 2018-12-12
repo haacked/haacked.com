@@ -1,8 +1,6 @@
 ---
-layout: post
 title: It's All About The Party Mode!
 date: 2006-05-11 -0800
-comments: true
 disqus_identifier: 12773
 categories: []
 redirect_from: "/archive/2006/05/10/ItsAllAboutThePartyMode.aspx/"

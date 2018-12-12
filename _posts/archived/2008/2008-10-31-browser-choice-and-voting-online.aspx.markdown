@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Browser Choice and Voting Online
 date: 2008-10-31 -0800
-comments: true
 disqus_identifier: 18544
 categories:
 - personal

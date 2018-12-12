@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Lightbox JS 2.0 Released
 date: 2006-04-04 -0800
-comments: true
 disqus_identifier: 12263
 categories:
 - code

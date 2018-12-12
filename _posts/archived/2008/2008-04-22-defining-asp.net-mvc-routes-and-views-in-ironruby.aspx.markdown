@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Defining ASP.NET MVC Routes and Views in IronRuby
 date: 2008-04-22 -0800
-comments: true
 disqus_identifier: 18479
 categories: [aspnetmvc dynamic-languages]
 redirect_from: "/archive/2008/04/21/defining-asp.net-mvc-routes-and-views-in-ironruby.aspx/"

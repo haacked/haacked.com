@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Should Unit Tests Touch the Database?
 date: 2005-10-20 -0800
-comments: true
 redirect_from:
 - "/archive/2005/10/21/10941.aspx"
 - "/archive/2005/10/19/should-unit-tests-touch-the-database.aspx/"

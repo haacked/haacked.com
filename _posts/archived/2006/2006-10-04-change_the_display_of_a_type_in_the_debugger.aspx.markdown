@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Change The Display Of A Type In The Debugger
 date: 2006-10-04 -0800
-comments: true
 disqus_identifier: 17634
 categories:
 - code

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Getting Older
 date: 2012-01-23 -0800
-comments: true
 disqus_identifier: 18843
 categories:
 - personal

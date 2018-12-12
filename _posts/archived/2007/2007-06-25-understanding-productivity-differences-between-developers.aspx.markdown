@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 10 Developers For The Price Of One
 date: 2007-06-25 -0800
-comments: true
 disqus_identifier: 18360
 categories:
 - code

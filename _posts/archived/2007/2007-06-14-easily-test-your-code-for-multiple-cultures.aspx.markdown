@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Easily Test Your Code For Multiple Cultures
 date: 2007-06-14 -0800
-comments: true
 disqus_identifier: 18351
 categories:
 - code

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET MVC RC Refresh
 date: 2009-01-30 -0800
-comments: true
 disqus_identifier: 18584
 categories:
 - asp.net mvc

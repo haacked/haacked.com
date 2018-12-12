@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Last Day at Microsoft
 date: 2011-12-05 -0800
-comments: true
 disqus_identifier: 18829
 categories:
 - personal

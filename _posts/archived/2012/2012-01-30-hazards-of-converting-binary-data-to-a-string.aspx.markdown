@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Hazards of Converting Binary Data To A String
 date: 2012-01-30 -0800
-comments: true
 disqus_identifier: 18844
 categories:
 - code

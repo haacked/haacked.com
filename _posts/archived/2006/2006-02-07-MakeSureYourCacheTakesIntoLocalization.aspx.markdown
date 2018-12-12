@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Make Sure Your Cache Takes Into Localization
 date: 2006-02-07 -0800
-comments: true
 disqus_identifier: 11741
 categories: []
 redirect_from: "/archive/2006/02/06/MakeSureYourCacheTakesIntoLocalization.aspx/"

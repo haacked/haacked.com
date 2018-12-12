@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Redirecting Routes To Maintain Persistent URLs
 date: 2011-02-02 -0800
-comments: true
 disqus_identifier: 18761
 categories:
 - asp.net

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: WS Security and the Reason Behind Hashed Passwords
 date: 2004-11-04 -0800
-comments: true
 disqus_identifier: 1565
 categories: []
 redirect_from: "/archive/2004/11/03/ws-security-and-the-reason-behind-hashed-passwords.aspx/"

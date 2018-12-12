@@ -1,8 +1,6 @@
 ---
-layout: post
 title: New NuGet.org Deployed!
 date: 2011-12-05 -0800
-comments: true
 disqus_identifier: 18830
 categories:
 - nuget

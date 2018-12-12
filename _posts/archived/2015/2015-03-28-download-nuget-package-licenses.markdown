@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Download all your NuGet Package Licenses"
 date: 2015-03-28 -0800
-comments: true
 categories: [oss nuget]
 ---
 

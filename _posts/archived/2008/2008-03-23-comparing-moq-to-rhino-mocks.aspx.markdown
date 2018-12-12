@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Comparing Moq to Rhino Mocks
 date: 2008-03-23 -0800
-comments: true
 disqus_identifier: 18467
 categories:
 - code

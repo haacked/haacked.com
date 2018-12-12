@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Back from Puerto Vallarta
 date: 2006-03-29 -0800
-comments: true
 disqus_identifier: 12214
 categories: []
 redirect_from: "/archive/2006/03/28/BackFromPuertoVallarta.aspx/"

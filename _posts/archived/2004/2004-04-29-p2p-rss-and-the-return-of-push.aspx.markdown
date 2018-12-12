@@ -1,8 +1,6 @@
 ---
-layout: post
 title: P2P RSS and the Return of Push!
 date: 2004-04-29 -0800
-comments: true
 disqus_identifier: 387
 categories: []
 redirect_from: "/archive/2004/04/28/p2p-rss-and-the-return-of-push.aspx/"

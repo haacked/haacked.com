@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "ReactiveUI Design Guidelines"
 date: 2014-08-05 -0800
-comments: true
 categories: [rx rxui akavache ghfw]
 ---
 

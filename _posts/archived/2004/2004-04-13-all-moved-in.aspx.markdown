@@ -1,8 +1,6 @@
 ---
-layout: post
 title: All moved in...
 date: 2004-04-13 -0800
-comments: true
 disqus_identifier: 317
 categories: []
 redirect_from: "/archive/2004/04/12/all-moved-in.aspx/"

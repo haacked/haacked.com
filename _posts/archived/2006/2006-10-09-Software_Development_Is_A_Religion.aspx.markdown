@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Software Development Is A Religion
 date: 2006-10-09 -0800
-comments: true
 disqus_identifier: 17943
 categories: []
 redirect_from: "/archive/2006/10/08/Software_Development_Is_A_Religion.aspx/"

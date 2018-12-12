@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Blogging while Broken"
 date: 2014-03-29 12:27:00 -0800
-comments: true
 categories: [personal, blogging]
 ---
 

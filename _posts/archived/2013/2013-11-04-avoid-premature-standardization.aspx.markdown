@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Avoid Premature Standardization
 date: 2013-11-04 -0800
-comments: true
 disqus_identifier: 18904
 categories:
 - open source

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Coder's Bill of Rights
 date: 2006-08-25 -0800
-comments: true
 disqus_identifier: 16067
 categories: []
 redirect_from: "/archive/2006/08/24/coders_bill_of_rights.aspx/"

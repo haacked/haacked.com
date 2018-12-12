@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "A Subtle Case Sensitivity Gotcha with Regular Expressions"
 date: 2016-02-29 -0800
-comments: true
 categories: [regex]
 ---
 

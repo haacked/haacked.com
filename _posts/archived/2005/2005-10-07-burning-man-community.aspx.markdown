@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Burning Man Community
 date: 2005-10-07 -0800
-comments: true
 disqus_identifier: 10634
 categories: []
 redirect_from: "/archive/2005/10/06/burning-man-community.aspx/"

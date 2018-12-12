@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Online Gamer Stabbed - A Case for a Virtual Police Force and Courts?
 date: 2005-03-30 -0800
-comments: true
 disqus_identifier: 2513
 categories: []
 redirect_from: "/archive/2005/03/29/online-gamer-stabbed--a-case-for-a-virtual-police-force-and-courts.aspx/"

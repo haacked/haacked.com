@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Rough Start to the Day
 date: 2005-12-07 -0800
-comments: true
 disqus_identifier: 11317
 categories: []
 redirect_from: "/archive/2005/12/06/rough-start-to-the-day.aspx/"

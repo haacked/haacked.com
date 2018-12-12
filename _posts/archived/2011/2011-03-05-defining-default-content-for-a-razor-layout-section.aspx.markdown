@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Defining Default Content For A Razor Layout Section
 date: 2011-03-05 -0800
-comments: true
 disqus_identifier: 18767
 categories:
 - asp.net

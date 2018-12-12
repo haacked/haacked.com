@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Another Attempt To Reduce Comment Span
 date: 2004-07-02 -0800
-comments: true
 disqus_identifier: 768
 categories: []
 redirect_from: "/archive/2004/07/01/another-attempt-to-reduce-comment-span.aspx/"

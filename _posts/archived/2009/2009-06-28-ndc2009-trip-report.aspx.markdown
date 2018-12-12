@@ -1,8 +1,6 @@
 ---
-layout: post
 title: NDC09 Trip Report
 date: 2009-06-28 -0800
-comments: true
 disqus_identifier: 18626
 categories: []
 redirect_from: "/archive/2009/06/27/ndc2009-trip-report.aspx/"

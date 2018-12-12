@@ -1,8 +1,6 @@
 ---
-layout: post
 title: What About CAPTCHA?
 date: 2006-08-31 -0800
-comments: true
 disqus_identifier: 16219
 categories: []
 redirect_from: "/archive/2006/08/30/What_About_CAPTCHA.aspx/"

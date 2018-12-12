@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Google Suggest
 date: 2004-12-10 -0800
-comments: true
 disqus_identifier: 1732
 categories: []
 redirect_from: "/archive/2004/12/09/google-suggest.aspx/"

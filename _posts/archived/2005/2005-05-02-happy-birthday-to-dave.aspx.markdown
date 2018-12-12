@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Happy Birthday to Dave
 date: 2005-05-02 -0800
-comments: true
 disqus_identifier: 2918
 categories: []
 redirect_from: "/archive/2005/05/01/happy-birthday-to-dave.aspx/"

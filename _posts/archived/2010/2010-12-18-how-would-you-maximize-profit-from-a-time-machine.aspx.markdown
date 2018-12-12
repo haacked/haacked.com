@@ -1,8 +1,6 @@
 ---
-layout: post
 title: How Would You Maximize Profit From A Time Machine?
 date: 2010-12-18 -0800
-comments: true
 disqus_identifier: 18747
 categories:
 - personal

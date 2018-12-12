@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "An adventure in CSS with column lists"
 description: "How do you render an unordered list into columns in a responsive manner without losing your mind?"
 date: 2018-12-03 -0800 09:30 AM PDT
-comments: true
 categories: [css design]
 ---
 

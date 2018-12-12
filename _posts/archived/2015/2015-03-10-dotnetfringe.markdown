@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "The Fringe of .NET "
 date: 2015-03-10 -0800
-comments: true
 categories: [personal dotnet oss]
 ---
 

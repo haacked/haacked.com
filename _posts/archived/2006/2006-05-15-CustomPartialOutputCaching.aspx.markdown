@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Custom Partial Output Caching
 date: 2006-05-15 -0800
-comments: true
 disqus_identifier: 12791
 categories: []
 redirect_from: "/archive/2006/05/14/CustomPartialOutputCaching.aspx/"

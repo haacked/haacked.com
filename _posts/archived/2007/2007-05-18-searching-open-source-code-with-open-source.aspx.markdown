@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Searching Open Source Code With Open Source
 date: 2007-05-18 -0800
-comments: true
 disqus_identifier: 18317
 categories: []
 redirect_from: "/archive/2007/05/17/searching-open-source-code-with-open-source.aspx/"

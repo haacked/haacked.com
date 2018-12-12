@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 19 Eponymous Laws Of Software Development
 date: 2007-07-17 -0800
-comments: true
 disqus_identifier: 18367
 categories: []
 redirect_from: "/archive/2007/07/16/the-eponymous-laws-of-software-development.aspx/"

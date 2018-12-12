@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Another Marginally Useful Tool - BatchConcat
 date: 2006-09-20 -0800
-comments: true
 disqus_identifier: 16952
 categories: [tips tdd utilities]
 redirect_from: "/archive/2006/09/19/another_marginally_useful_tool__batchconcat.aspx/"

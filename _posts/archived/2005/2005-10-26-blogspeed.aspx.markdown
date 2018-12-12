@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Blogspeed
 date: 2005-10-26 -0800
-comments: true
 disqus_identifier: 11030
 categories: []
 redirect_from: "/archive/2005/10/25/blogspeed.aspx/"

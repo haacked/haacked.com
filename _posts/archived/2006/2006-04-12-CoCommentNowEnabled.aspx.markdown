@@ -1,8 +1,6 @@
 ---
-layout: post
 title: CoComment Now Enabled
 date: 2006-04-12 -0800
-comments: true
 disqus_identifier: 12400
 categories: []
 redirect_from: "/archive/2006/04/11/CoCommentNowEnabled.aspx/"

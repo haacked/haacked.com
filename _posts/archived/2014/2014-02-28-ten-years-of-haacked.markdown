@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "10 Years of being Haacked"
 date: 2014-02-28 -0800
-comments: true
 categories: [personal blogging]
 ---
 

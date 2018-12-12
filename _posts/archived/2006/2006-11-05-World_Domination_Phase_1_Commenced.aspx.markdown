@@ -1,8 +1,6 @@
 ---
-layout: post
 title: World Domination Phase 1 Commenced
 date: 2006-11-05 -0800
-comments: true
 disqus_identifier: 18129
 categories: []
 redirect_from: "/archive/2006/11/04/World_Domination_Phase_1_Commenced.aspx/"

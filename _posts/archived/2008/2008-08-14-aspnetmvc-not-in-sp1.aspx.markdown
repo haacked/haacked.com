@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET MVC Is Not Part of ASP.NET 3.5 SP1
 date: 2008-08-14 -0800
-comments: true
 disqus_identifier: 18523
 categories:
 - asp.net mvc

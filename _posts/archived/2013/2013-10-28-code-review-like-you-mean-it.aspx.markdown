@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Code Review Like You Mean It
 date: 2013-10-28 -0800
-comments: true
 disqus_identifier: 18902
 categories:
 - open source

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Semver Deep Links"
 date: 2016-01-20 -0800
-comments: true
 categories: [semver]
 ---
 

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Indulging My OCD Using TestDriven.NET With NCoverExplorer
 date: 2006-12-14 -0800
-comments: true
 disqus_identifier: 18168
 categories: []
 redirect_from: "/archive/2006/12/13/Indulging_My_OCD_Using_TestDriven.NET_With_NCoverExplorer.aspx/"

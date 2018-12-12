@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Subtext Awakens From Its Slumber
 date: 2008-04-08 -0800
-comments: true
 disqus_identifier: 18470
 categories:
 - code

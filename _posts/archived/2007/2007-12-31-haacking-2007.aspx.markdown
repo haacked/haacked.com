@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Haacking 2007
 date: 2007-12-31 -0800
-comments: true
 disqus_identifier: 18443
 categories:
 - personal

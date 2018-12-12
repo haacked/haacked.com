@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "Steal My Blog Design"
 description: "Want a blog design similar to mine? My design is now encapsulated in a theme you can reference remotely."
 date: 2018-12-11 -0800 09:48 AM PDT
-comments: true
 categories: [jekyll design]
 ---
 

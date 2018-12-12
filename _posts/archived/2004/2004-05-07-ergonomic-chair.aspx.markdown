@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Ergonomic Chair
 date: 2004-05-07 -0800
-comments: true
 disqus_identifier: 419
 categories: []
 redirect_from: "/archive/2004/05/06/ergonomic-chair.aspx/"

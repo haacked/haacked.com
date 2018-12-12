@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Excorcist in 30 Seconds.
 date: 2004-03-06 -0800
-comments: true
 disqus_identifier: 240
 categories: []
 redirect_from: "/archive/2004/03/05/the-excorcist-in-30-seconds.aspx/"

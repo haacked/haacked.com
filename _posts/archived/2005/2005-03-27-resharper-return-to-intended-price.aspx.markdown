@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ReSharper Return to Intended Price
 date: 2005-03-27 -0800
-comments: true
 disqus_identifier: 2472
 categories: []
 redirect_from: "/archive/2005/03/26/resharper-return-to-intended-price.aspx/"

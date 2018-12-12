@@ -1,8 +1,6 @@
 ---
-layout: post
 title: CSS Based Printing Tip
 date: 2006-03-13 -0800
-comments: true
 disqus_identifier: 12071
 categories: []
 redirect_from: "/archive/2006/03/12/CSSBasedPrintingTip.aspx/"

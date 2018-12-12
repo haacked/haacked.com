@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Don't Buy Our Book. Win It. Or Win that XBox. Your Choice.
 date: 2007-11-05 -0800
-comments: true
 disqus_identifier: 18417
 categories: []
 redirect_from: "/archive/2007/11/04/dont-buy-our-book-win-it-or-win-that-x-box.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET MVC Tabular Display Template
 date: 2010-05-05 -0800
-comments: true
 disqus_identifier: 18698
 categories:
 - asp.net mvc

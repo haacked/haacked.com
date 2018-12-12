@@ -1,8 +1,6 @@
 ---
-layout: post
 title: CodeClimber
 date: 2006-12-10 -0800
-comments: true
 disqus_identifier: 18162
 categories: []
 redirect_from: "/archive/2006/12/09/CodeClimber.aspx/"

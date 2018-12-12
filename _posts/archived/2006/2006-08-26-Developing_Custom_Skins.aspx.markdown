@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Developing Custom Skins
 date: 2006-08-26 -0800
-comments: true
 disqus_identifier: 16092
 categories: []
 redirect_from: "/archive/2006/08/25/Developing_Custom_Skins.aspx/"

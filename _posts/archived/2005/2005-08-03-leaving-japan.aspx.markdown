@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Leaving Japan
 date: 2005-08-03 -0800
-comments: true
 disqus_identifier: 9216
 categories: [personal japan tokyo]
 redirect_from: "/archive/2005/08/02/leaving-japan.aspx/"

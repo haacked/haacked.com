@@ -1,8 +1,6 @@
 ---
-layout: post
 title: On10 Shows Potential
 date: 2006-03-13 -0800
-comments: true
 disqus_identifier: 12076
 categories: []
 redirect_from: "/archive/2006/03/12/On10ShowsPotential.aspx/"

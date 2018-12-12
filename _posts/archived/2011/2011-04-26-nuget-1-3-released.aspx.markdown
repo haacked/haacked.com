@@ -1,8 +1,6 @@
 ---
-layout: post
 title: NuGet 1.3 Released
 date: 2011-04-26 -0800
-comments: true
 disqus_identifier: 18781
 categories:
 - nuget

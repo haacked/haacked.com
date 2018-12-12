@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Memorial Day Mud Bath
 date: 2006-05-30 -0800
-comments: true
 disqus_identifier: 13062
 categories: []
 redirect_from: "/archive/2006/05/29/MemorialDayMudBath.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A Better Razor Foreach Loop
 date: 2011-04-14 -0800
-comments: true
 disqus_identifier: 18775
 categories:
 - razor

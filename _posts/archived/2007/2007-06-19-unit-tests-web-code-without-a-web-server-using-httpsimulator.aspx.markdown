@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Unit Test Web Code Without A Web Server Using HttpSimulator
 date: 2007-06-19 -0800
-comments: true
 disqus_identifier: 18356
 categories:
 - asp.net

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Splitting Pascal/Camel Cased Strings
 date: 2005-09-23 -0800
-comments: true
 redirect_from:
 - "/archive/2005/09/24/10334.aspx"
 - "/archive/2005/09/22/splitting-pascalcamel-cased-strings.aspx/"

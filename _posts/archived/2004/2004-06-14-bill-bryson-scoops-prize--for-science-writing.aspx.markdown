@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Bill Bryson Scoops Prize -- for Science Writing
 date: 2004-06-14 -0800
-comments: true
 disqus_identifier: 625
 categories: []
 redirect_from: "/archive/2004/06/13/bill-bryson-scoops-prize--for-science-writing.aspx/"

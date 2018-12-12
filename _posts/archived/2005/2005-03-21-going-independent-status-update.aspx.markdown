@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Going Independent Status Update
 date: 2005-03-21 -0800
-comments: true
 disqus_identifier: 2415
 categories: []
 redirect_from: "/archive/2005/03/20/going-independent-status-update.aspx/"

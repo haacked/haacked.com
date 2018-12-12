@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Soccer And Rain
 date: 2004-12-05 -0800
-comments: true
 disqus_identifier: 1702
 categories:
 - personal

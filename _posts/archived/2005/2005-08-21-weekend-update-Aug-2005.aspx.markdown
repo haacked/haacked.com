@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Weekend Update
 date: 2005-08-21 -0800
-comments: true
 disqus_identifier: 9599
 categories:
 - personal

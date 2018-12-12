@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'BETA: Incubator for .NET Open Source Projects'
 date: 2007-05-23 -0800
-comments: true
 disqus_identifier: 18327
 categories: []
 redirect_from: "/archive/2007/05/22/beta-incubator-for-.net-open-source-projects.aspx/"

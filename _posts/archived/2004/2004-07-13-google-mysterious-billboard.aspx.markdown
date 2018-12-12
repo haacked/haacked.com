@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Google's Mysterious Billboard
 date: 2004-07-13 -0800
-comments: true
 disqus_identifier: 811
 categories:
 - code

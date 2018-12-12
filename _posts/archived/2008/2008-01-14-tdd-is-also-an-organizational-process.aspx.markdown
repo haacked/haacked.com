@@ -1,8 +1,6 @@
 ---
-layout: post
 title: TDD Is Also An Organizational Process
 date: 2008-01-14 -0800
-comments: true
 disqus_identifier: 18448
 categories: [tdd microsoft]
 redirect_from: "/archive/2008/01/13/tdd-is-also-an-organizational-process.aspx/"

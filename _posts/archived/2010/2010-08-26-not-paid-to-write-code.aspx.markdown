@@ -1,8 +1,6 @@
 ---
-layout: post
 title: We&rsquo;re Not Paid To Write Code
 date: 2010-08-26 -0800
-comments: true
 disqus_identifier: 18718
 categories:
 - code

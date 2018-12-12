@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Duck Typing Is More Than Quackery"
 date: 2014-01-04 00:32 -0800
-comments: true
 categories: [code]
 ---
 

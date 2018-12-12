@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Work hard and love yourself"
 date: 2017-12-29 -0800 11:46 AM PDT
-comments: true
 categories: [personal fitness exercise lifting]
 ---
 

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Alaska. We'll Pay You To Live Here.
 date: 2004-08-01 -0800
-comments: true
 disqus_identifier: 872
 categories:
 - personal

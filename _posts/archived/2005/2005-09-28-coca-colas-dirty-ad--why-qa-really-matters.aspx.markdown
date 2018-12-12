@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Coca Cola's Dirty Ad - Why QA Really Matters
 date: 2005-09-28 -0800
-comments: true
 disqus_identifier: 10438
 categories: []
 redirect_from: "/archive/2005/09/27/coca-colas-dirty-ad--why-qa-really-matters.aspx/"

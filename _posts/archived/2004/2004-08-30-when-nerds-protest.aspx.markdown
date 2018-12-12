@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'PHOTO: When Nerds Protest The RNC.'
 date: 2004-08-30 -0800
-comments: true
 disqus_identifier: 987
 categories:
 - humor

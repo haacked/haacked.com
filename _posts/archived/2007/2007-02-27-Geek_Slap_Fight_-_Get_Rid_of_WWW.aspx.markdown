@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Geek Slap Fight - Get Rid of WWW
 date: 2007-02-27 -0800
-comments: true
 disqus_identifier: 18220
 categories:
 - code

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: I Want This Shirt For My Son
 date: 2007-03-18 -0800
-comments: true
 disqus_identifier: 18252
 categories:
 - personal

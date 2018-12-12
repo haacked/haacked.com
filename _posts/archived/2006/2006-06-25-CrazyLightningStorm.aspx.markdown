@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Crazy Lightning Storm
 date: 2006-06-25 -0800
-comments: true
 disqus_identifier: 13507
 categories:
 - personal

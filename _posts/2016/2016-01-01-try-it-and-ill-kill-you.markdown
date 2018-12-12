@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Try it and I'll kill you"
 date: 2016-01-01 -0800
-comments: true
 categories: [personal]
 ---
 

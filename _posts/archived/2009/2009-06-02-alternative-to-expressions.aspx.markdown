@@ -1,8 +1,6 @@
 ---
-layout: post
 title: An Alternative Approach To Strongly Typed Helpers
 date: 2009-06-02 -0800
-comments: true
 disqus_identifier: 18621
 categories: []
 redirect_from: "/archive/2009/06/01/alternative-to-expressions.aspx/"

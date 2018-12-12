@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Community Naming
 date: 2010-10-23 -0800
-comments: true
 disqus_identifier: 18731
 categories:
 - nuget

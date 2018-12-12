@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Integrate Your Custom Search Engine With The Browser
 date: 2006-10-24 -0800
-comments: true
 disqus_identifier: 18106
 categories: []
 redirect_from: "/archive/2006/10/23/Integrate_Your_Custom_Search_Engine_With_The_Browser.aspx/"

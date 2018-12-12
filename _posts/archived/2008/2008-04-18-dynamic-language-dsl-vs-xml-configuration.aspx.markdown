@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Dynamic Language DSL vs Xml Configuration
 date: 2008-04-18 -0800
-comments: true
 disqus_identifier: 18477
 categories: [dsl]
 redirect_from: "/archive/2008/04/17/dynamic-language-dsl-vs-xml-configuration.aspx/"

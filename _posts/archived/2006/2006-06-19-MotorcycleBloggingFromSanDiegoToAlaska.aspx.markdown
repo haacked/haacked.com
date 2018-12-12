@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Motorcycle Blogging From San Diego to Alaska
 date: 2006-06-19 -0800
-comments: true
 disqus_identifier: 13389
 categories:
 - blogging

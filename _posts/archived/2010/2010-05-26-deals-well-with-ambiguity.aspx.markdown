@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Deals Well With Ambiguity
 date: 2010-05-26 -0800
-comments: true
 disqus_identifier: 18703
 categories:
 - code

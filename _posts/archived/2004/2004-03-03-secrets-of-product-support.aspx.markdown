@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Secrets of Product Support
 date: 2004-03-03 -0800
-comments: true
 disqus_identifier: 228
 categories: []
 redirect_from: "/archive/2004/03/02/secrets-of-product-support.aspx/"

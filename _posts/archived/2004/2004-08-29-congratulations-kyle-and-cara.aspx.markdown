@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Congratulations Kyle and Cara!
 date: 2004-08-29 -0800
-comments: true
 disqus_identifier: 985
 categories: []
 redirect_from: "/archive/2004/08/28/congratulations-kyle-and-cara.aspx/"

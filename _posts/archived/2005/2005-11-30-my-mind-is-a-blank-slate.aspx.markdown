@@ -1,8 +1,6 @@
 ---
-layout: post
 title: My Mind Is A Blank Slate
 date: 2005-11-30 -0800
-comments: true
 disqus_identifier: 11274
 categories: []
 redirect_from: "/archive/2005/11/29/my-mind-is-a-blank-slate.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Important Subtext 1.5 Multiblog Security Update
 date: 2006-06-10 -0800
-comments: true
 disqus_identifier: 13214
 categories:
 - subtext

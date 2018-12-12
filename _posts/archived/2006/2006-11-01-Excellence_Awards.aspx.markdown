@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Excellence Awards
 date: 2006-11-01 -0800
-comments: true
 disqus_identifier: 18126
 categories: []
 redirect_from: "/archive/2006/10/31/Excellence_Awards.aspx/"

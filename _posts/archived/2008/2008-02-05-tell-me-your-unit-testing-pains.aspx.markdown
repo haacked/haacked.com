@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Tell Me Your Unit Testing Pains
 date: 2008-02-05 -0800
-comments: true
 disqus_identifier: 18454
 categories: [tdd aspnet code]
 redirect_from: "/archive/2008/02/04/tell-me-your-unit-testing-pains.aspx/"

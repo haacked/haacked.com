@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Power Outage in Los Angeles
 date: 2005-09-11 -0800
-comments: true
 disqus_identifier: 10062
 categories: []
 redirect_from: "/archive/2005/09/10/power-outage-in-los-angeles.aspx/"

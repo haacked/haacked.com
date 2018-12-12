@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Air travel
 date: 2004-03-02 -0800
-comments: true
 disqus_identifier: 222
 categories: []
 redirect_from: "/archive/2004/03/01/air-travel.aspx/"

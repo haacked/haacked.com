@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Checking For Empty Enumerations
 date: 2010-06-10 -0800
-comments: true
 disqus_identifier: 18708
 categories:
 - code

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Steven Hawking's wife accused of physically abusing him
 date: 2004-03-26 -0800
-comments: true
 disqus_identifier: 272
 categories: []
 redirect_from: "/archive/2004/03/25/steven-hawkings-wife-accused-of-physically-abusing-him.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Correcting Inaccuracies. Getting Involved in Subtext.
 date: 2005-05-05 -0800
-comments: true
 disqus_identifier: 3066
 categories: []
 redirect_from: "/archive/2005/05/04/correcting-inaccuracies-getting-involved-in-subtext.aspx/"

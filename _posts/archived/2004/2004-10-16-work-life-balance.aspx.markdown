@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Work-life balance
 date: 2004-10-16 -0800
-comments: true
 disqus_identifier: 1376
 categories: []
 redirect_from: "/archive/2004/10/15/work-life-balance.aspx/"

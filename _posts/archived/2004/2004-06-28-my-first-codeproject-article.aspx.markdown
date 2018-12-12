@@ -1,8 +1,6 @@
 ---
-layout: post
 title: My First CodeProject Article
 date: 2004-06-28 -0800
-comments: true
 disqus_identifier: 700
 categories: []
 redirect_from: "/archive/2004/06/27/my-first-codeproject-article.aspx/"

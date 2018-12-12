@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Comments for Jekyll Blogs"
 date: 2018-06-24 -0800
-comments: true
 categories: [jekyll comments blogging]
 ---
 

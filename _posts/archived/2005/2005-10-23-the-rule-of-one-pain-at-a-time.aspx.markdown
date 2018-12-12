@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Rule of One Pain at a Time
 date: 2005-10-23 -0800
-comments: true
 disqus_identifier: 10994
 categories: []
 redirect_from: "/archive/2005/10/22/the-rule-of-one-pain-at-a-time.aspx/"

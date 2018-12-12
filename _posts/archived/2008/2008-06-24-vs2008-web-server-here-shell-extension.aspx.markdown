@@ -1,8 +1,6 @@
 ---
-layout: post
 title: VS2008 Web Server Here Shell Extension
 date: 2008-06-24 -0800
-comments: true
 disqus_identifier: 18497
 categories: [code tools]
 redirect_from: "/archive/2008/06/23/vs2008-web-server-here-shell-extension.aspx/"

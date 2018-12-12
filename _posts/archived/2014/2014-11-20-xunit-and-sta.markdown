@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Unit tests that require the STA Thread"
 date: 2014-11-20 -0800
-comments: true
 categories: [csharp xunit tdd wpf]
 ---
 

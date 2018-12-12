@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Three Screens Are Better Than Two
 date: 2006-05-08 -0800
-comments: true
 disqus_identifier: 12705
 categories: []
 redirect_from: "/archive/2006/05/07/ThreeScreensAreBetterThanTwo.aspx/"

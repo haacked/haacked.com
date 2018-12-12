@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Don't Be a Validation Nazi
 date: 2007-08-26 -0800
-comments: true
 disqus_identifier: 18385
 categories:
 - code

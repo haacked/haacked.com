@@ -1,8 +1,6 @@
 ---
-layout: post
 title: NuGet 1.2 Released
 date: 2011-03-30 -0800
-comments: true
 disqus_identifier: 18770
 categories:
 - nuget

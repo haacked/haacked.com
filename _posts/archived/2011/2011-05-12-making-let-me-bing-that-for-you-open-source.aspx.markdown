@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Making Let Me Bing That For You Open Source
 date: 2011-05-12 -0800
-comments: true
 disqus_identifier: 18788
 categories:
 - open source

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Scripting ASP.NET MVC Views Stored In The Database
 date: 2009-04-22 -0800
-comments: true
 disqus_identifier: 18612
 categories:
 - code

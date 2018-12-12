@@ -1,8 +1,6 @@
 ---
-layout: post
 title: My Little World Domination Backup
 date: 2009-04-07 -0800
-comments: true
 disqus_identifier: 18608
 categories:
 - personal

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Picture of the Day - Metro Entrance Bilbao, Spain
 date: 2005-12-12 -0800
-comments: true
 disqus_identifier: 11334
 categories:
 - personal

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Git Coin Project Maintainer Consensus Protocol"
 date: 2017-10-22 -0800 4:36 PM PDT
-comments: true
 categories: [git crypto humor oss bash shell unix]
 ---
 

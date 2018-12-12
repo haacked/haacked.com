@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Write Readable Code By Making Its Intentions Clear
 date: 2007-04-19 -0800
-comments: true
 disqus_identifier: 18291
 categories:
 - code

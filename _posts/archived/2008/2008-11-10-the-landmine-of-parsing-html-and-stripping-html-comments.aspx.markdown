@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Landmine of Parsing HTML and Stripping HTML Comments
 date: 2008-11-10 -0800
-comments: true
 disqus_identifier: 18551
 categories:
 - code

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Puerto Rico"
 date: 2015-05-14 -0800
-comments: true
 categories: [conf github travel medical]
 ---
 

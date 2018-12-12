@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Merry Christmas!
 date: 2006-12-25 -0800
-comments: true
 disqus_identifier: 18180
 categories: []
 redirect_from: "/archive/2006/12/24/Merry_Christmas.aspx/"

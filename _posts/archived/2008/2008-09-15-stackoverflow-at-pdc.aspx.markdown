@@ -1,8 +1,6 @@
 ---
-layout: post
 title: StackOverflow at PDC
 date: 2008-09-15 -0800
-comments: true
 disqus_identifier: 18531
 categories: [conferences]
 redirect_from: "/archive/2008/09/14/stackoverflow-at-pdc.aspx/"

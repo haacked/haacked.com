@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ".NET Web Hosting"
 date: 2004-03-31 -0800
-comments: true
 disqus_identifier: 288
 categories: []
 redirect_from: "/archive/2004/03/30/net-web-hosting.aspx/"

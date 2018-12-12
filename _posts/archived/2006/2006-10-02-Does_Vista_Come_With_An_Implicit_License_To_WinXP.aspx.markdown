@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Does Vista Come With An Implicit License To WinXP?
 date: 2006-10-02 -0800
-comments: true
 disqus_identifier: 17561
 categories: []
 redirect_from: "/archive/2006/10/01/Does_Vista_Come_With_An_Implicit_License_To_WinXP.aspx/"

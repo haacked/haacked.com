@@ -1,8 +1,6 @@
 ---
-layout: post
 title: And The Winner Is, NuGet
 date: 2010-10-29 -0800
-comments: true
 disqus_identifier: 18732
 categories:
 - code

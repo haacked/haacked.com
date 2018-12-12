@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Empathy In Your Best Interest"
 date: 2014-03-22 10:18 -0700
-comments: true
 categories: [personal empathy]
 ---
 

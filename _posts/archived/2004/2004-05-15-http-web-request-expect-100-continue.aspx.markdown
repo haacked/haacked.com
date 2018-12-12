@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'HttpWebRequest and the Expect: 100-continue Header Problem'
 date: 2004-05-15 -0800
-comments: true
 disqus_identifier: 449
 redirect_from:
 - "/archive/2004/05/15/449.aspx"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Subtext Notes Around The Web
 date: 2007-01-05 -0800
-comments: true
 disqus_identifier: 18186
 categories: []
 redirect_from: "/archive/2007/01/04/Subtext_Notes_Around_The_Web.aspx/"

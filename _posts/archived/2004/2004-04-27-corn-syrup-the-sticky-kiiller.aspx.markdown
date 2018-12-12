@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'Corn syrup: the sticky kiiller'
 date: 2004-04-27 -0800
-comments: true
 disqus_identifier: 371
 categories: []
 redirect_from: "/archive/2004/04/26/corn-syrup-the-sticky-kiiller.aspx/"

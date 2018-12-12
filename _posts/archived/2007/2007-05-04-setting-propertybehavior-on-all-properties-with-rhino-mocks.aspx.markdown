@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Setting PropertyBehavior On All Properties With Rhino Mocks
 date: 2007-05-04 -0800
-comments: true
 disqus_identifier: 18302
 categories:
 - code

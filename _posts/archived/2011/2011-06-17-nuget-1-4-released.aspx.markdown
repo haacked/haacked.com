@@ -1,8 +1,6 @@
 ---
-layout: post
 title: NuGet 1.4 Released
 date: 2011-06-17 -0800
-comments: true
 disqus_identifier: 18797
 categories:
 - open source

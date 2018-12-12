@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Do Not Adjust Your Browser
 date: 2010-01-12 -0800
-comments: true
 disqus_identifier: 18676
 categories:
 - subtext

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Beer-Up in Reykjavik, Iceland
 date: 2011-10-31 -0800
-comments: true
 disqus_identifier: 18823
 categories:
 - personal

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Decompression
 date: 2005-10-16 -0800
-comments: true
 disqus_identifier: 10827
 categories: []
 redirect_from: "/archive/2005/10/15/decompression.aspx/"

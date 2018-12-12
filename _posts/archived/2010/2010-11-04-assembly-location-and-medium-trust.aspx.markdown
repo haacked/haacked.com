@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A Sordid Little Tale Of Unexpected Security Exceptions
 date: 2010-11-04 -0800
-comments: true
 disqus_identifier: 18733
 categories:
 - code

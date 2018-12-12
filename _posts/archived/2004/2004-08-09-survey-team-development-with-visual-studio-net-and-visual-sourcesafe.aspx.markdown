@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'SURVEY: Team Development with Visual Studio .NET and Visual SourceSafe'
 date: 2004-08-09 -0800
-comments: true
 disqus_identifier: 898
 categories: []
 redirect_from: "/archive/2004/08/08/survey-team-development-with-visual-studio-net-and-visual-sourcesafe.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Cluster F*ck. When Good Hard Drives Go Bad.
 date: 2004-09-27 -0800
-comments: true
 disqus_identifier: 1281
 categories:
 - tech

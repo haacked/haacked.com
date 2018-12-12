@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'Burning Man: Three Person Pedal Powered Ferris Wheel'
 date: 2004-09-30 -0800
-comments: true
 disqus_identifier: 1292
 categories:
 - personal

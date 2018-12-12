@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The One Note Metaphor for the Tablet PC May Be Too Good
 date: 2004-11-23 -0800
-comments: true
 disqus_identifier: 1667
 categories: []
 redirect_from: "/archive/2004/11/22/the-one-note-metaphor-for-the-tablet-pc-may-be-too-good.aspx/"

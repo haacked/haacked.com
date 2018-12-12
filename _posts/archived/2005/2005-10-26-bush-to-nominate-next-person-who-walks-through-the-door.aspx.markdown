@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Bush to Nominate Next Person Who Walks Through the Door
 date: 2005-10-26 -0800
-comments: true
 disqus_identifier: 11032
 categories: []
 redirect_from: "/archive/2005/10/25/bush-to-nominate-next-person-who-walks-through-the-door.aspx/"

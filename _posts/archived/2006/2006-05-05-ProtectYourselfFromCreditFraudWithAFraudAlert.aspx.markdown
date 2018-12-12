@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Protect Yourself From Credit Fraud With A Fraud Alert
 date: 2006-05-05 -0800
-comments: true
 disqus_identifier: 12688
 categories:
 - personal

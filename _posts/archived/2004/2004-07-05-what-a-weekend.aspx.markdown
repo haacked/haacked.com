@@ -1,8 +1,6 @@
 ---
-layout: post
 title: What a weekend!
 date: 2004-07-05 -0800
-comments: true
 disqus_identifier: 773
 categories: []
 redirect_from: "/archive/2004/07/04/what-a-weekend.aspx/"

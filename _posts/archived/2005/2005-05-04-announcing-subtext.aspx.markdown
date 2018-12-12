@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Announcing Subtext, A Fork Of .TEXT For Your Blogging Pleasure
 date: 2005-05-04 -0800
-comments: true
 disqus_identifier: 2953
 categories:
 - subtext

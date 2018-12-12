@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A Fright on Mt Si
 date: 2009-05-24 -0800
-comments: true
 disqus_identifier: 18619
 categories:
 - personal

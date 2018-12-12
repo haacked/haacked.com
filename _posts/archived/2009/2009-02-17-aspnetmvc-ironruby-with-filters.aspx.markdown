@@ -1,8 +1,6 @@
 ---
-layout: post
 title: IronRuby ASP.NET MVC With Filters
 date: 2009-02-17 -0800
-comments: true
 disqus_identifier: 18588
 categories:
 - asp.net mvc

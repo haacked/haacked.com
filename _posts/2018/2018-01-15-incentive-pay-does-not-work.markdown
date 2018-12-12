@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Incentive Pay Does Not Work"
 date: 2018-01-15 -0800
-comments: true
 categories: [personal career management]
 ---
 

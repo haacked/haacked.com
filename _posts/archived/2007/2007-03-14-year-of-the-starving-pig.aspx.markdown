@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Year of the Starving Pig?
 date: 2007-03-14 -0800
-comments: true
 disqus_identifier: 18242
 categories: []
 redirect_from: "/archive/2007/03/13/year-of-the-starving-pig.aspx/"

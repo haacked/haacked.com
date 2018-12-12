@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Subtext Progress Report
 date: 2005-05-09 -0800
-comments: true
 disqus_identifier: 3120
 categories:
 - subtext

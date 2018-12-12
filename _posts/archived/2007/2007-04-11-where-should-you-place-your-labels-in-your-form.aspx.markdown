@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Where Should You Place Your Labels In Your Form
 date: 2007-04-11 -0800
-comments: true
 disqus_identifier: 18278
 categories: []
 redirect_from: "/archive/2007/04/10/where-should-you-place-your-labels-in-your-form.aspx/"

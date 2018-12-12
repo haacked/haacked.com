@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Honeypot Captcha
 date: 2007-09-11 -0800
-comments: true
 disqus_identifier: 18389
 categories:
 - code

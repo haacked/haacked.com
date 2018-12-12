@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Off to Seattle
 date: 2004-07-27 -0800
-comments: true
 disqus_identifier: 862
 categories: []
 redirect_from: "/archive/2004/07/26/off-to-seattle.aspx/"

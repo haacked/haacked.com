@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Get Your Pimp Name Playah!
 date: 2005-02-20 -0800
-comments: true
 disqus_identifier: 2165
 categories: []
 redirect_from: "/archive/2005/02/19/GetYourPimpName.aspx/"

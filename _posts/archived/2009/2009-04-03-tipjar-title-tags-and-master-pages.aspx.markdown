@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'TipJar: Title Tags and Master Pages'
 date: 2009-04-03 -0800
-comments: true
 disqus_identifier: 18607
 categories:
 - asp.net

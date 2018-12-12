@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "2017 - Darkest timeline"
 date: 2017-12-27 -0800 9:40 AM PDT
-comments: true
 categories: [personal]
 ---
 

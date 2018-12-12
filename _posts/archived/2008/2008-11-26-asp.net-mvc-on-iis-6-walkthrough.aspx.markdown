@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET MVC on IIS 6 Walkthrough
 date: 2008-11-26 -0800
-comments: true
 disqus_identifier: 18559
 categories:
 - asp.net mvc

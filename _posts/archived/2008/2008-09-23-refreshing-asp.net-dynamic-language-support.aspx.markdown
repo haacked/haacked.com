@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Refreshing ASP.NET Dynamic Language Support
 date: 2008-09-23 -0800
-comments: true
 disqus_identifier: 18532
 categories:
 - asp.net

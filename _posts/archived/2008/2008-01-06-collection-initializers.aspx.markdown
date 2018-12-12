@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Collection Initializers
 date: 2008-01-06 -0800
-comments: true
 disqus_identifier: 18446
 categories: [csharp initializers]
 redirect_from: "/archive/2008/01/05/collection-initializers.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Why Is rel=&quot;nofollow&quot; important?
 date: 2005-01-20 -0800
-comments: true
 disqus_identifier: 1944
 categories:
 - code

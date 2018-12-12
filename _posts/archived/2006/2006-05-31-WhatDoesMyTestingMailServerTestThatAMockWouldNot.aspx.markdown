@@ -1,8 +1,6 @@
 ---
-layout: post
 title: What Does My Testing MailServer Test That A Mock Would Not?
 date: 2006-05-31 -0800
-comments: true
 disqus_identifier: 13076
 categories: []
 redirect_from: "/archive/2006/05/30/WhatDoesMyTestingMailServerTestThatAMockWouldNot.aspx/"

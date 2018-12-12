@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET MVC NerdDinner Walkthrough
 date: 2009-04-29 -0800
-comments: true
 disqus_identifier: 18613
 categories: []
 redirect_from: "/archive/2009/04/28/aspnetmvc-nerddinner-walkthrough.aspx/"

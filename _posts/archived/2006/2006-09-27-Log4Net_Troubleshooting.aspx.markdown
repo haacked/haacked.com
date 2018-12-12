@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Log4Net Troubleshooting
 date: 2006-09-27 -0800
-comments: true
 disqus_identifier: 17270
 categories: []
 redirect_from: "/archive/2006/09/26/Log4Net_Troubleshooting.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: New RSS Bandit Formatter Stylesheet - C64
 date: 2004-04-23 -0800
-comments: true
 disqus_identifier: 354
 categories: []
 redirect_from: "/archive/2004/04/22/c64-formatter-for-rssbandit.aspx/"

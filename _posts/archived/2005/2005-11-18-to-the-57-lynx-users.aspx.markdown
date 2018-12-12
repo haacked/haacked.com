@@ -1,8 +1,6 @@
 ---
-layout: post
 title: To The 57 Lynx Users Last Month
 date: 2005-11-18 -0800
-comments: true
 disqus_identifier: 11215
 categories: []
 redirect_from: "/archive/2005/11/17/to-the-57-lynx-users.aspx/"

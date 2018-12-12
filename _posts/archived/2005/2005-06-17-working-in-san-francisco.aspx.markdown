@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Working in San Francisco
 date: 2005-06-17 -0800
-comments: true
 disqus_identifier: 5082
 categories: []
 redirect_from: "/archive/2005/06/16/working-in-san-francisco.aspx/"

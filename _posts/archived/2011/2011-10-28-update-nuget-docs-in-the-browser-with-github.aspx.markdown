@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Update NuGet Docs in the Browser with Github
 date: 2011-10-28 -0800
-comments: true
 disqus_identifier: 18822
 categories:
 - nuget

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Writing Games for the T-Mobile Sidekick
 date: 2005-03-15 -0800
-comments: true
 disqus_identifier: 2376
 categories: []
 redirect_from: "/archive/2005/03/14/writing-games-for-the-t-mobile-sidekick.aspx/"

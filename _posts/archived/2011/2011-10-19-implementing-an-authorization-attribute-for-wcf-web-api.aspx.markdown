@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Implementing an Authorization Attribute for WCF Web API
 date: 2011-10-19 -0800
-comments: true
 disqus_identifier: 18820
 categories:
 - code

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Kick It To Earn Payola
 date: 2006-06-02 -0800
-comments: true
 disqus_identifier: 13102
 categories:
 - blogging

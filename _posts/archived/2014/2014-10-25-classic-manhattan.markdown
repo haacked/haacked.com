@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Classic Manhattan"
 date: 2014-10-25 -0800
-comments: true
 categories: [personal]
 ---
 

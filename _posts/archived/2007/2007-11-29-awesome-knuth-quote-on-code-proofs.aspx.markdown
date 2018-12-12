@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Awesome Knuth Quote On Code Proofs
 date: 2007-11-29 -0800
-comments: true
 disqus_identifier: 18426
 categories:
 - code

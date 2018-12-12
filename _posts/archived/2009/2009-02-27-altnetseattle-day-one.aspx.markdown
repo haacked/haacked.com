@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ALT.NET Seattle Day One
 date: 2009-02-27 -0800
-comments: true
 disqus_identifier: 18589
 categories: [conferences]
 redirect_from: "/archive/2009/02/26/altnetseattle-day-one.aspx/"

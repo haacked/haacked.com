@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Mapping Drives Via Remote Desktop
 date: 2006-10-22 -0800
-comments: true
 disqus_identifier: 18101
 categories: [remote-desktop]
 redirect_from: "/archive/2006/10/21/Mapping_Drives_Via_Remote_Desktop.aspx/"

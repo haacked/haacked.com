@@ -1,8 +1,6 @@
 ---
-layout: post
 title: User Input In Sheep&rsquo;s Clothing
 date: 2008-07-08 -0800
-comments: true
 disqus_identifier: 18502
 categories:
 - asp.net mvc

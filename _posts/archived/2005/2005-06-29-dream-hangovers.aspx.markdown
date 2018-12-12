@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Dream Hangovers
 date: 2005-06-29 -0800
-comments: true
 disqus_identifier: 7412
 categories: []
 redirect_from: "/archive/2005/06/28/dream-hangovers.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: My Blog Lives In The Matrix
 date: 2007-11-01 -0800
-comments: true
 disqus_identifier: 18415
 categories: []
 redirect_from: "/archive/2007/10/31/my-blog-lives-in-the-matrix.aspx/"

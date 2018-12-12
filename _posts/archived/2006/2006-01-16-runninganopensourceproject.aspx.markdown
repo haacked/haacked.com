@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Running An Open Source Project
 date: 2006-01-16 -0800
-comments: true
 disqus_identifier: 11517
 categories:
 - code

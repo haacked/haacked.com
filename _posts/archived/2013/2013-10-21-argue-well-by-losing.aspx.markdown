@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Argue Well By Losing
 date: 2013-10-21 -0800
-comments: true
 disqus_identifier: 18901
 categories:
 - community

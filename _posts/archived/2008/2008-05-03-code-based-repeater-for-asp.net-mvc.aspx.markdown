@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Code Based Repeater for ASP.NET MVC
 date: 2008-05-03 -0800
-comments: true
 disqus_identifier: 18481
 categories: [aspnet aspnetmvc]
 redirect_from: "/archive/2008/05/02/code-based-repeater-for-asp.net-mvc.aspx/"

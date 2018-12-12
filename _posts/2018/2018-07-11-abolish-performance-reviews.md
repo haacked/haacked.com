@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "Abolish Performance Reviews"
 description: "Where I rant about how broken annual performance reviews are today."
 date: 2018-07-11 -0800 9:46 AM PDT
-comments: true
 categories: [work management reviews]
 ---
 

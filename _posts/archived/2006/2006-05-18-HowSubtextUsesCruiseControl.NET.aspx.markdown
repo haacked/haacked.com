@@ -1,8 +1,6 @@
 ---
-layout: post
 title: How Subtext Uses CruiseControl.NET
 date: 2006-05-18 -0800
-comments: true
 disqus_identifier: 12845
 categories: []
 redirect_from: "/archive/2006/05/17/HowSubtextUsesCruiseControl.NET.aspx/"

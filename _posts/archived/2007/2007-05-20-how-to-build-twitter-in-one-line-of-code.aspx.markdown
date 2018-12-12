@@ -1,8 +1,6 @@
 ---
-layout: post
 title: How To Build Twitter In One Line Of Code
 date: 2007-05-20 -0800
-comments: true
 disqus_identifier: 18319
 categories: []
 redirect_from: "/archive/2007/05/19/how-to-build-twitter-in-one-line-of-code.aspx/"

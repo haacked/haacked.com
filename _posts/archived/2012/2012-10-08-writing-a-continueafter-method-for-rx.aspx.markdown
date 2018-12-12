@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Writing a ContinueAfter method for Rx
 date: 2012-10-08 -0800
-comments: true
 disqus_identifier: 18871
 categories:
 - code

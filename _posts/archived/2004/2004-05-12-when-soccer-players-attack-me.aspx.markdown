@@ -1,8 +1,6 @@
 ---
-layout: post
 title: When Soccer Players Attack ... me
 date: 2004-05-12 -0800
-comments: true
 disqus_identifier: 434
 categories: []
 redirect_from: "/archive/2004/05/11/when-soccer-players-attack-me.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Building Plugins Resilient To Versioning
 date: 2006-06-26 -0800
-comments: true
 disqus_identifier: 13522
 categories:
 - code

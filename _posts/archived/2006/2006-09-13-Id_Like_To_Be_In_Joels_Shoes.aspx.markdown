@@ -1,8 +1,6 @@
 ---
-layout: post
 title: I'd Like To Be In Joel's Shoes
 date: 2006-09-13 -0800
-comments: true
 disqus_identifier: 16554
 categories: []
 redirect_from: "/archive/2006/09/12/Id_Like_To_Be_In_Joels_Shoes.aspx/"

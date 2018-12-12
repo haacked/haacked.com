@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Does the ADO.NET DataTable respect the Order By Clause?
 date: 2004-02-05 -0800
-comments: true
 disqus_identifier: 168
 categories: []
 redirect_from: "/archive/2004/02/04/does-the-adonet-datatable-respect-the-order-by-clause.aspx/"

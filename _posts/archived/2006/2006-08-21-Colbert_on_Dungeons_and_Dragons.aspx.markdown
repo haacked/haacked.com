@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Colbert on Dungeons and Dragons
 date: 2006-08-21 -0800
-comments: true
 disqus_identifier: 15709
 categories: []
 redirect_from: "/archive/2006/08/20/Colbert_on_Dungeons_and_Dragons.aspx/"

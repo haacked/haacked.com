@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Tickets to Spain
 date: 2005-09-19 -0800
-comments: true
 disqus_identifier: 10245
 categories: []
 redirect_from: "/archive/2005/09/18/tickets-to-spain.aspx/"

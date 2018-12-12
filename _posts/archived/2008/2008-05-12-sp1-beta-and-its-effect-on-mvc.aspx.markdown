@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ".NET 3.5 SP1 Beta and Its Effect on MVC"
 date: 2008-05-12 -0800
-comments: true
 disqus_identifier: 18486
 categories: [aspntemvc dotnet]
 redirect_from: "/archive/2008/05/11/sp1-beta-and-its-effect-on-mvc.aspx/"

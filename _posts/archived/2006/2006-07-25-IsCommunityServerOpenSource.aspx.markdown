@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Is Community Server Open Source?
 date: 2006-07-25 -0800
-comments: true
 disqus_identifier: 14192
 categories:
 - code

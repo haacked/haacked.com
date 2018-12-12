@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Problem With Extremism
 date: 2005-10-19 -0800
-comments: true
 disqus_identifier: 10867
 categories: []
 redirect_from: "/archive/2005/10/18/problem-with-extremism.aspx/"

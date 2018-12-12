@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The architect of the fashion world
 date: 2004-03-12 -0800
-comments: true
 disqus_identifier: 250
 categories:
 - personal

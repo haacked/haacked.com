@@ -1,8 +1,6 @@
 ---
-layout: post
 title: An Even Better TimedLock
 date: 2004-05-13 -0800
-comments: true
 disqus_identifier: 436
 categories:
 - code

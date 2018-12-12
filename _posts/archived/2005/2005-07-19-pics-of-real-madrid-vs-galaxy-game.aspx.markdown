@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Pics of Real Madrid vs Galaxy Game
 date: 2005-07-19 -0800
-comments: true
 disqus_identifier: 8905
 categories: []
 redirect_from: "/archive/2005/07/18/pics-of-real-madrid-vs-galaxy-game.aspx/"

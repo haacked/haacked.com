@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Trillian Wikipedia Integration
 date: 2005-04-21 -0800
-comments: true
 disqus_identifier: 2764
 categories:
 - tech

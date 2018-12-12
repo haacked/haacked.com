@@ -1,8 +1,6 @@
 ---
-layout: post
 title: JSON Hijacking
 date: 2009-06-25 -0800
-comments: true
 disqus_identifier: 18624
 categories: []
 redirect_from:

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Fraud Detection and Prevention
 date: 2004-02-20 -0800
-comments: true
 disqus_identifier: 202
 categories: []
 redirect_from: "/archive/2004/02/19/fraud-detection-and-prevention.aspx/"

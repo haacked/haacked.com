@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Musings On Software Community
 date: 2011-11-25 -0800
-comments: true
 disqus_identifier: 18826
 categories:
 - code

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET Routing Debugger
 date: 2008-03-13 -0800
-comments: true
 disqus_identifier: 18464
 categories: [aspnet aspnetmvc routing]
 redirect_from: "/archive/2008/03/12/url-routing-debugger.aspx/"

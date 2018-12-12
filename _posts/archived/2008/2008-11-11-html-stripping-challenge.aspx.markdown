@@ -1,8 +1,6 @@
 ---
-layout: post
 title: HTML Stripping Challenge
 date: 2008-11-11 -0800
-comments: true
 disqus_identifier: 18552
 categories: [code html]
 redirect_from: "/archive/2008/11/10/html-stripping-challenge.aspx/"

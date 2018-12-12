@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Best Blonde Joke Ever?
 date: 2006-01-20 -0800
-comments: true
 disqus_identifier: 11562
 categories: []
 redirect_from: "/archive/2006/01/19/BestBlondeJokeEver.aspx/"

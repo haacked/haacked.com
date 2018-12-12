@@ -1,8 +1,6 @@
 ---
-layout: post
 title: By This Criteria, I Must Be Awesome
 date: 2005-08-27 -0800
-comments: true
 disqus_identifier: 9724
 categories: []
 redirect_from: "/archive/2005/08/26/by-this-criteria-i-must-be-awesome.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Debugging Detective Stories
 date: 2005-07-11 -0800
-comments: true
 disqus_identifier: 8601
 categories: []
 redirect_from: "/archive/2005/07/10/Debugging-Detective-Stories.aspx/"

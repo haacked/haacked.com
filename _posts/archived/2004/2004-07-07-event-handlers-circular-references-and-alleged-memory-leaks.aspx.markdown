@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Event Handlers, Circular References, and Alleged Memory Leaks
 date: 2004-07-07 -0800
-comments: true
 disqus_identifier: 781
 categories: []
 redirect_from: "/archive/2004/07/06/event-handlers-circular-references-and-alleged-memory-leaks.aspx/"

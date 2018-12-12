@@ -1,8 +1,6 @@
 ---
-layout: post
 title: London Terrorist Attack
 date: 2005-07-06 -0800
-comments: true
 disqus_identifier: 7671
 categories: []
 redirect_from: "/archive/2005/07/05/london-terrorist-attack.aspx/"

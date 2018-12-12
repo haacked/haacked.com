@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Art of the Job Post
 date: 2006-10-19 -0800
-comments: true
 disqus_identifier: 18098
 categories: []
 redirect_from: "/archive/2006/10/18/Art_of_the_Job_Post.aspx/"

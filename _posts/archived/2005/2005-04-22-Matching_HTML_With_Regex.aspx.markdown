@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Matching HTML With Regular Expressions Redux
 date: 2005-04-22 -0800
-comments: true
 disqus_identifier: 2784
 categories: []
 redirect_from: "/archive/2005/04/21/Matching_HTML_With_Regex.aspx/"

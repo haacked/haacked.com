@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'Subtext Issue: Missing Emoticons File'
 date: 2006-03-04 -0800
-comments: true
 disqus_identifier: 11967
 categories:
 - subtext

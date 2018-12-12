@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Bank Error In My Favor. I'm a Microsoft MVP
 date: 2007-07-01 -0800
-comments: true
 disqus_identifier: 18362
 categories: []
 redirect_from: "/archive/2007/06/30/bank-error-in-my-favor.-im-a-microsoft-mvp.aspx/"

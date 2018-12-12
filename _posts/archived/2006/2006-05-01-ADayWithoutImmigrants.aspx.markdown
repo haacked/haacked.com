@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A Day Without Immigrants
 date: 2006-05-01 -0800
-comments: true
 disqus_identifier: 12614
 categories: []
 redirect_from: "/archive/2006/04/30/ADayWithoutImmigrants.aspx/"

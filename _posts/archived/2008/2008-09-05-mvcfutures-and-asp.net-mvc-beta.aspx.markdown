@@ -1,8 +1,6 @@
 ---
-layout: post
 title: MvcFutures And ASP.NET MVC Beta
 date: 2008-09-05 -0800
-comments: true
 disqus_identifier: 18529
 categories: [aspnetmvc]
 redirect_from: "/archive/2008/09/04/mvcfutures-and-asp.net-mvc-beta.aspx/"

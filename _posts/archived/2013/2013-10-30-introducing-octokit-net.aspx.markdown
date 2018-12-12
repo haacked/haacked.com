@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Introducing Octokit.NET
 date: 2013-10-30 -0800
-comments: true
 disqus_identifier: 18903
 categories:
 - github

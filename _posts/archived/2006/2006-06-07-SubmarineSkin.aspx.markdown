@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Submarine Skin
 date: 2006-06-07 -0800
-comments: true
 disqus_identifier: 13183
 categories: []
 redirect_from: "/archive/2006/06/06/SubmarineSkin.aspx/"

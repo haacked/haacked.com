@@ -1,8 +1,6 @@
 ---
-layout: post
 title: What Is The Spirit of Open Source?
 date: 2012-02-22 -0800
-comments: true
 disqus_identifier: 18848
 categories:
 - code

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "The Meaning of Work"
 date: 2015-10-21 -0800
-comments: true
 categories: [work]
 ---
 

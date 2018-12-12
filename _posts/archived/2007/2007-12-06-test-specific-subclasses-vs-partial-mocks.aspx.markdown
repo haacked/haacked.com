@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Test Specific Subclasses vs Partial Mocks
 date: 2007-12-06 -0800
-comments: true
 disqus_identifier: 18431
 categories:
 - code

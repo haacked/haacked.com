@@ -1,8 +1,6 @@
 ---
-layout: post
 title: My Brother Visited Last Week
 date: 2005-04-05 -0800
-comments: true
 disqus_identifier: 2574
 categories: []
 redirect_from: "/archive/2005/04/04/my-brother-visited-last-week.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Unit Test Project Structure Poll
 date: 2008-04-09 -0800
-comments: true
 disqus_identifier: 18472
 categories:
 - code

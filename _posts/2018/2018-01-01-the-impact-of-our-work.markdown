@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "The Impact of our Work"
 date: 2018-01-01 -0800
-comments: true
 categories: [personal career]
 ---
 

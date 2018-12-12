@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'SQL QUIZ: The Difference Between ISNULL and COALESCE'
 date: 2005-01-21 -0800
-comments: true
 disqus_identifier: 1975
 categories:
 - sql

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Securely Implement ELMAH For Plug And Play Error Logging
 date: 2007-07-24 -0800
-comments: true
 disqus_identifier: 18369
 categories:
 - asp.net

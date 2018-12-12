@@ -1,8 +1,6 @@
 ---
-layout: post
 title: RSS Bandit Comment Watcher
 date: 2006-11-27 -0800
-comments: true
 disqus_identifier: 18150
 categories: []
 redirect_from: "/archive/2006/11/26/RSS_Bandit_Comment_Watcher.aspx/"

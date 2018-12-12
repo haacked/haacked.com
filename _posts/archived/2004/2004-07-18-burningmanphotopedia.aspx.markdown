@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Burning Man Photopedia
 date: 2004-07-18 -0800
-comments: true
 disqus_identifier: 833
 categories:
 - burningman

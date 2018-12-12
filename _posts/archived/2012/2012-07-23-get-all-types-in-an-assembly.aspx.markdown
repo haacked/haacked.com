@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Get All Types in an Assembly
 date: 2012-07-23 -0800
-comments: true
 disqus_identifier: 18863
 categories:
 - asp.net mvc

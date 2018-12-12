@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Trust and NuGet
 date: 2013-02-19 -0800
-comments: true
 disqus_identifier: 18885
 categories:
 - nuget

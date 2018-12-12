@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Settings for your Visual Studio Extension"
 date: 2014-07-30 -0800
-comments: true
 categories: [vs vsix dev encouragement]
 ---
 

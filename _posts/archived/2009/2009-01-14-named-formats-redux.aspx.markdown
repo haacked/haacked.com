@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Named Formats Redux
 date: 2009-01-14 -0800
-comments: true
 disqus_identifier: 18577
 categories:
 - code

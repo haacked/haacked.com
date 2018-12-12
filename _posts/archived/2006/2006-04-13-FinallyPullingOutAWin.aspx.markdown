@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Finally Pulling Out A Win
 date: 2006-04-13 -0800
-comments: true
 disqus_identifier: 12416
 categories: []
 redirect_from: "/archive/2006/04/12/FinallyPullingOutAWin.aspx/"

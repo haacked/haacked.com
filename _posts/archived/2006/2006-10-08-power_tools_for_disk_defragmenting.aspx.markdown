@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Power Tools For Disk Defragmenting
 date: 2006-10-08 -0800
-comments: true
 disqus_identifier: 17851
 categories: []
 redirect_from: "/archive/2006/10/07/power_tools_for_disk_defragmenting.aspx/"

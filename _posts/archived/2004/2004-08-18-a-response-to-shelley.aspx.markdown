@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A Response To Shelley
 date: 2004-08-18 -0800
-comments: true
 disqus_identifier: 938
 categories: []
 redirect_from: "/archive/2004/08/17/a-response-to-shelley.aspx/"

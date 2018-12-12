@@ -1,8 +1,6 @@
 ---
-layout: post
 title: State Of The Blog Report
 date: 2007-04-06 -0800
-comments: true
 disqus_identifier: 18270
 categories:
 - blogging

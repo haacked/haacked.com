@@ -1,8 +1,6 @@
 ---
-layout: post
 title: New NuGet Documentation Site
 date: 2011-05-11 -0800
-comments: true
 disqus_identifier: 18787
 categories:
 - nuget

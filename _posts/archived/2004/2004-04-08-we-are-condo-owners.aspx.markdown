@@ -1,8 +1,6 @@
 ---
-layout: post
 title: We're Homeowners!
 date: 2004-04-08 -0800
-comments: true
 disqus_identifier: 312
 categories:
 - personal

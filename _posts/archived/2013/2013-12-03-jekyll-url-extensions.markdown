@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Preserve URL Extensions with Jekyll"
 date: 2013-12-03 -0800
-comments: true
 categories: [jekyll]
 ---
 

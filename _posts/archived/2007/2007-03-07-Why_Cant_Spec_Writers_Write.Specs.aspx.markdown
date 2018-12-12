@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Why Can't Spec Writers Write...Specs?
 date: 2007-03-07 -0800
-comments: true
 disqus_identifier: 18228
 categories: []
 redirect_from: "/archive/2007/03/06/Why_Cant_Spec_Writers_Write.Specs.aspx/"

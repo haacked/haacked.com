@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Earn More While On Vacation
 date: 2005-11-28 -0800
-comments: true
 disqus_identifier: 11256
 categories: []
 redirect_from: "/archive/2005/11/27/earn-more-while-on-vacation.aspx/"

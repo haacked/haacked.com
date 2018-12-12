@@ -1,8 +1,6 @@
 ---
-layout: post
 title: UrlScan Broke My Blog (And How I Fixed It)
 date: 2010-09-26 -0800
-comments: true
 disqus_identifier: 18722
 categories:
 - asp.net

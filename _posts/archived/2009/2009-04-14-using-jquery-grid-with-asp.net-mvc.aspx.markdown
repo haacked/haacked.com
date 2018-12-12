@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Using jQuery Grid With ASP.NET MVC
 date: 2009-04-14 -0800
-comments: true
 disqus_identifier: 18609
 categories:
 - code

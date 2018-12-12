@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Catch Me On Univision
 date: 2007-02-14 -0800
-comments: true
 disqus_identifier: 18213
 categories: []
 redirect_from: "/archive/2007/02/13/Catch_Me_On_Univision.aspx/"

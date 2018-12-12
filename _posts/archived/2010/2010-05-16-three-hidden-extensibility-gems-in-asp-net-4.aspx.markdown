@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Three Hidden Extensibility Gems in ASP.NET 4
 date: 2010-05-16 -0800
-comments: true
 disqus_identifier: 18700
 categories:
 - asp.net

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Bringing Back The 40-hour Workweek
 date: 2006-01-05 -0800
-comments: true
 disqus_identifier: 11417
 categories: []
 redirect_from: "/archive/2006/01/04/bringing-back-the-40-hour-workweek.aspx/"

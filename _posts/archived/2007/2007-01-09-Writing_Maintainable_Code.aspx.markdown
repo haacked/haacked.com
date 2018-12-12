@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Writing Maintainable Code
 date: 2007-01-09 -0800
-comments: true
 disqus_identifier: 18187
 categories:
 - code

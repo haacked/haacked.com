@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Year of the Golden Pig
 date: 2007-01-03 -0800
-comments: true
 disqus_identifier: 18184
 categories:
 - personal

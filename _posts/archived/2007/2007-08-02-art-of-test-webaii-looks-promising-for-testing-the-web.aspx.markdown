@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Art Of Test WebAii Looks Promising For Testing The Web
 date: 2007-08-02 -0800
-comments: true
 disqus_identifier: 18377
 categories: [tdd]
 redirect_from: "/archive/2007/08/01/art-of-test-webaii-looks-promising-for-testing-the-web.aspx/"

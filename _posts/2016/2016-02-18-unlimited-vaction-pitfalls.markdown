@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Pitfalls of Unlimited Vacations"
 date: 2016-02-18 -0800
-comments: true
 categories: [hr vacation]
 ---
 

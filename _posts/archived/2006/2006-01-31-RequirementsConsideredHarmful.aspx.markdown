@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Requirements Considered Harmful
 date: 2006-01-31 -0800
-comments: true
 disqus_identifier: 11632
 categories: []
 redirect_from: "/archive/2006/01/30/RequirementsConsideredHarmful.aspx/"

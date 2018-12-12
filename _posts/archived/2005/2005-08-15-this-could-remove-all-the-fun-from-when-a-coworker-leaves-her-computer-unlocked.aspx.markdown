@@ -1,8 +1,6 @@
 ---
-layout: post
 title: This Could Remove All The Fun From When A Coworker Leaves Her Computer Unlocked
 date: 2005-08-15 -0800
-comments: true
 disqus_identifier: 9440
 categories: []
 redirect_from: "/archive/2005/08/14/this-could-remove-all-the-fun-from-when-a-coworker-leaves-her-computer-unlocked.aspx/"

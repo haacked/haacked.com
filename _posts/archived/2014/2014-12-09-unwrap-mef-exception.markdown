@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Unwrap MEF composition exceptions"
 date: 2014-12-09 -0800
-comments: true
 categories: [csharp mef]
 ---
 

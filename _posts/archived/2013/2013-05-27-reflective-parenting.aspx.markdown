@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Reflective Parenting
 date: 2013-05-27 -0800
-comments: true
 disqus_identifier: 18890
 categories:
 - personal

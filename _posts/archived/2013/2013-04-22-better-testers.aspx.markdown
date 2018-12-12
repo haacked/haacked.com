@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Better Testers
 date: 2013-04-22 -0800
-comments: true
 disqus_identifier: 18888
 categories:
 - code

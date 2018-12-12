@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Live Every Day As If It Were...
 date: 2006-06-02 -0800
-comments: true
 disqus_identifier: 13121
 categories:
 - personal

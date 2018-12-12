@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Setting Up Log4Net For Multi Layered Applications
 date: 2006-01-13 -0800
-comments: true
 disqus_identifier: 11491
 categories: []
 redirect_from: "/archive/2006/01/12/SettingUpLog4NetForMultiLayeredApplications.aspx/"

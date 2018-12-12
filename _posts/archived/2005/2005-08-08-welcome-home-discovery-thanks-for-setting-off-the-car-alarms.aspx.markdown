@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Welcome Home Discovery, Thanks for Setting Off the Car Alarms
 date: 2005-08-08 -0800
-comments: true
 disqus_identifier: 9258
 categories: []
 redirect_from: "/archive/2005/08/07/welcome-home-discovery-thanks-for-setting-off-the-car-alarms.aspx/"

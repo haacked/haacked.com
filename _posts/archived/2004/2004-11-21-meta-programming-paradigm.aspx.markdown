@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Meta Programming Paradigm
 date: 2004-11-21 -0800
-comments: true
 disqus_identifier: 1662
 categories: []
 redirect_from: "/archive/2004/11/20/meta-programming-paradigm.aspx/"

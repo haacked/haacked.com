@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Connecting to Terminal Services When All Active Sessions are Used
 date: 2005-10-13 -0800
-comments: true
 disqus_identifier: 10783
 categories: [remote-desktop terminal-services]
 redirect_from:

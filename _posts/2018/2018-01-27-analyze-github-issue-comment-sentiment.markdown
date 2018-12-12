@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "Analyzing GitHub Issue Comment Sentiment With Azure"
 description: "Describes how easy it is to extend GitHub with a webhook using Azure Functions"
 date: 2018-01-27 -0800
-comments: true
 categories: [azure azure-functions serverless github sentiment ml ai]
 ---
 

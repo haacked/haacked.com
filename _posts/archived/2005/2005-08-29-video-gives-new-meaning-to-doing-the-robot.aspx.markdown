@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'VIDEO: Gives New Meaning to Doing The Robot'
 date: 2005-08-29 -0800
-comments: true
 disqus_identifier: 9754
 categories: []
 redirect_from: "/archive/2005/08/28/video-gives-new-meaning-to-doing-the-robot.aspx/"

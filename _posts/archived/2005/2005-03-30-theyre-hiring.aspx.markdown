@@ -1,8 +1,6 @@
 ---
-layout: post
 title: They're Hiring
 date: 2005-03-30 -0800
-comments: true
 disqus_identifier: 2506
 categories: []
 redirect_from: "/archive/2005/03/29/theyre-hiring.aspx/"

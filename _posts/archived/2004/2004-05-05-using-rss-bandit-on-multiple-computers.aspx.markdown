@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Using RSS Bandit on Multiple Computers
 date: 2004-05-05 -0800
-comments: true
 disqus_identifier: 405
 categories: []
 redirect_from: "/archive/2004/05/04/using-rss-bandit-on-multiple-computers.aspx/"

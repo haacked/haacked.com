@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Quick and Dirty Guide to Configuring Log4Net For Web Applications
 date: 2005-03-07 -0800
-comments: true
 redirect_from:
 - "/archive/2005/03/07/2317.aspx.html"
 - "/archive/2005/03/06/ConfiguringLog4NetForWebApplications.aspx/"

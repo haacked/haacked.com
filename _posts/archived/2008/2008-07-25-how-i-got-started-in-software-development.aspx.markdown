@@ -1,8 +1,6 @@
 ---
-layout: post
 title: How I Got Started In Software Development
 date: 2008-07-25 -0800
-comments: true
 disqus_identifier: 18507
 categories: [personal career]
 redirect_from: "/archive/2008/07/24/how-i-got-started-in-software-development.aspx/"

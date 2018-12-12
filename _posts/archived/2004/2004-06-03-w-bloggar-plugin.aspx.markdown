@@ -1,8 +1,6 @@
 ---
-layout: post
 title: w.Bloggar Plugin
 date: 2004-06-03 -0800
-comments: true
 disqus_identifier: 516
 categories: []
 redirect_from: "/archive/2004/06/02/w-bloggar-plugin.aspx/"

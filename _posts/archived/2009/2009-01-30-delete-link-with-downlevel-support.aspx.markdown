@@ -1,8 +1,6 @@
 ---
-layout: post
 title: jQuery Delete Link With Downlevel Support
 date: 2009-01-30 -0800
-comments: true
 disqus_identifier: 18583
 categories:
 - asp.net mvc

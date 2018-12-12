@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The ABCs of Alpha, Beta, CTP
 date: 2008-08-15 -0800
-comments: true
 disqus_identifier: 18524
 categories: [releases]
 redirect_from: "/archive/2008/08/14/understanding-beta.aspx/"

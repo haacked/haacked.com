@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Sql Query Analyzer Template Parameters
 date: 2005-07-01 -0800
-comments: true
 disqus_identifier: 7433
 categories:
 - sql

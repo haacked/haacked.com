@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'You Have To Love Irony '
 date: 2005-05-04 -0800
-comments: true
 disqus_identifier: 2986
 categories: []
 redirect_from: "/archive/2005/05/03/you-have-to-love-irony.aspx/"

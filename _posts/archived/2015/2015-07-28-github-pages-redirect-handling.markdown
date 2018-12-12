@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "A better 404 page and redirects with GitHub Pages"
 date: 2015-07-28 -0800
-comments: true
 categories: [github jekyll pages]
 ---
 
@@ -20,11 +18,9 @@ Here's an example of my first attempt at front-matter for a blog post on my blog
 
 ```
 ---
-layout: post
 title: "Localizing ASP.NET MVC Validation"
 permalink: /404.html
 date: 2009-12-07 -0800
-comments: true
 disqus_identifier: 18664
 redirect_from: "/archive/2009/12/12/localizing-aspnetmvc-validation.aspx"
 categories: [aspnetmvc localization validation]

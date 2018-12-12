@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Windows Live Writer First Impression
 date: 2006-08-14 -0800
-comments: true
 disqus_identifier: 14943
 categories: []
 redirect_from: "/archive/2006/08/13/WindowsLiveWriterFirstImpression.aspx/"

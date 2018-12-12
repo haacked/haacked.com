@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Donut Hole Caching in ASP.NET MVC
 date: 2009-05-12 -0800
-comments: true
 disqus_identifier: 18617
 categories:
 - asp.net

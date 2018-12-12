@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Does Mort Know We're Talking Smack About Him Behind His Back?
 date: 2005-08-02 -0800
-comments: true
 disqus_identifier: 9210
 categories: []
 redirect_from: "/archive/2005/08/01/DoesMortKnowWeAreTalkingSmackAboutHimBehindHisBack.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: It's Comments Like This That Keep Me Blogging
 date: 2007-03-16 -0800
-comments: true
 disqus_identifier: 18249
 categories: []
 redirect_from: "/archive/2007/03/15/its-comments-like-this-that-keep-me-blogging.aspx/"

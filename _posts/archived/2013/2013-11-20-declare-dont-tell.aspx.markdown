@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Declare Don&rsquo;t Tell
 date: 2013-11-20 -0800
-comments: true
 disqus_identifier: 18908
 categories:
 - code

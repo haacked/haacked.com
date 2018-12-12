@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Death Of The Subtext Build Server
 date: 2007-04-24 -0800
-comments: true
 disqus_identifier: 18293
 categories: []
 redirect_from: "/archive/2007/04/23/the-death-of-the-subtext-build-server.aspx/"

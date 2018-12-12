@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Arriving Las Vegas
 date: 2005-08-25 -0800
-comments: true
 disqus_identifier: 9669
 categories: []
 redirect_from: "/archive/2005/08/24/arriving-las-vegas.aspx/"

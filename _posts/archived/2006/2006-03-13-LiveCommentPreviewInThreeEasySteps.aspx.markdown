@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Live Comment Preview In Three Easy Steps
 date: 2006-03-13 -0800
-comments: true
 disqus_identifier: 12072
 categories: []
 redirect_from: "/archive/2006/03/12/LiveCommentPreviewInThreeEasySteps.aspx/"

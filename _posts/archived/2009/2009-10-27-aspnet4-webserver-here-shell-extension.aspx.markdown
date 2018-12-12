@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET 4 Web Server Here Shell Extension
 date: 2009-10-27 -0800
-comments: true
 disqus_identifier: 18652
 categories:
 - asp.net

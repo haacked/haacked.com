@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Trouble With Choice
 date: 2005-05-08 -0800
-comments: true
 disqus_identifier: 2942
 categories: []
 redirect_from: "/archive/2005/05/07/the-trouble-with-choice.aspx/"

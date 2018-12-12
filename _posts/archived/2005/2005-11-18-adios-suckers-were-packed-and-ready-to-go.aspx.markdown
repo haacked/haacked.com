@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Adios Suckers. We're Packed and Ready to Go.
 date: 2005-11-18 -0800
-comments: true
 disqus_identifier: 11226
 categories: []
 redirect_from: "/archive/2005/11/17/adios-suckers-were-packed-and-ready-to-go.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'CSS Question: Two Backgrounds on the Same Element?'
 date: 2005-04-04 -0800
-comments: true
 disqus_identifier: 2541
 categories:
 - code

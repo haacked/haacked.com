@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Comment Spam Can Take Down Your Blog
 date: 2005-06-20 -0800
-comments: true
 disqus_identifier: 7047
 categories: []
 redirect_from: "/archive/2005/06/19/comment-spam-can-take-down-your-blog.aspx/"

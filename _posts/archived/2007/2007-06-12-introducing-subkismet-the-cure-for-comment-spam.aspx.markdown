@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Introducing Subkismet-The Cure For Comment Spam
 date: 2007-06-12 -0800
-comments: true
 disqus_identifier: 18347
 categories: []
 redirect_from: "/archive/2007/06/11/introducing-subkismet-the-cure-for-comment-spam.aspx/"

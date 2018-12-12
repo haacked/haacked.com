@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'FUNNY: Alternate word meanings...'
 date: 2004-10-20 -0800
-comments: true
 disqus_identifier: 1428
 categories:
 - humor

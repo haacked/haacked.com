@@ -1,8 +1,6 @@
 ---
-layout: post
 title: This Song Is So Much Fun
 date: 2005-07-19 -0800
-comments: true
 disqus_identifier: 8891
 categories:
 - personal

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Worst Software Bugs in History
 date: 2005-11-08 -0800
-comments: true
 disqus_identifier: 11152
 categories:
 - personal

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Uploading a File (Or Files) With ASP.NET MVC
 date: 2010-07-16 -0800
-comments: true
 disqus_identifier: 18712
 categories:
 - asp.net mvc

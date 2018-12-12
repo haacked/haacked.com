@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Who Tests The Tests?
 date: 2007-03-12 -0800
-comments: true
 disqus_identifier: 18237
 categories:
 - code

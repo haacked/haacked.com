@@ -1,8 +1,6 @@
 ---
-layout: post
 title: New York New York Big City Of Dreams
 date: 2005-01-31 -0800
-comments: true
 disqus_identifier: 2064
 categories: []
 redirect_from: "/archive/2005/01/30/new-york-new-york-big-city-of-dreams.aspx/"

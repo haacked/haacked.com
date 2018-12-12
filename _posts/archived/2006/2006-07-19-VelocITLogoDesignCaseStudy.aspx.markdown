@@ -1,8 +1,6 @@
 ---
-layout: post
 title: VelocIT Logo Design Case Study
 date: 2006-07-19 -0800
-comments: true
 disqus_identifier: 14004
 categories: []
 redirect_from: "/archive/2006/07/18/VelocITLogoDesignCaseStudy.aspx/"

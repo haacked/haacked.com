@@ -1,8 +1,6 @@
 ---
-layout: post
 title: I'd Rather Be a DJ Than A Rockstar Developer
 date: 2007-05-30 -0800
-comments: true
 disqus_identifier: 18334
 categories: []
 redirect_from: "/archive/2007/05/29/id-rather-be-a-dj-than-a-rockstar-developer.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: I&rsquo;m Speaking At Mix 2009
 date: 2009-03-01 -0800
-comments: true
 disqus_identifier: 18592
 categories:
 - asp.net mvc

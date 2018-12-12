@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Delegating Decorators
 date: 2008-06-18 -0800
-comments: true
 disqus_identifier: 18495
 categories: [aspnetmvc]
 redirect_from: "/archive/2008/06/17/delegating-decorators.aspx/"

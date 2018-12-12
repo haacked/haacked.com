@@ -1,8 +1,6 @@
 ---
-layout: post
 title: More on Microformats
 date: 2005-07-30 -0800
-comments: true
 disqus_identifier: 9173
 categories: []
 redirect_from: "/archive/2005/07/29/more-on-microformats.aspx/"

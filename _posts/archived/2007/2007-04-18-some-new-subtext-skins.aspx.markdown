@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Some New Subtext Skins
 date: 2007-04-18 -0800
-comments: true
 disqus_identifier: 18287
 categories: []
 redirect_from: "/archive/2007/04/17/some-new-subtext-skins.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Download Emojis With Octokit.NET"
 date: 2014-06-16 -0800
-comments: true
 categories: [github emoji octokit]
 ---
 

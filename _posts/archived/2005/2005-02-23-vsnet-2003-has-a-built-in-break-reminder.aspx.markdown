@@ -1,8 +1,6 @@
 ---
-layout: post
 title: VS.NET 2003 Has a Built-In Break Reminder
 date: 2005-02-23 -0800
-comments: true
 disqus_identifier: 2186
 categories: []
 redirect_from: "/archive/2005/02/22/vsnet-2003-has-a-built-in-break-reminder.aspx/"

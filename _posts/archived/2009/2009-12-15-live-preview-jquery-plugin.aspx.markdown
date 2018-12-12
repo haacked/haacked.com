@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Live Preview jQuery Plugin
 date: 2009-12-15 -0800
-comments: true
 disqus_identifier: 18667
 categories:
 - code

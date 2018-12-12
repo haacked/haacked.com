@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Truth about NuGet and its Future
 date: 2012-10-23 -0800
-comments: true
 disqus_identifier: 18873
 categories:
 - open source

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Test First Development Doesn't Mean You Don't Walk Through Your Code
 date: 2004-06-09 -0800
-comments: true
 disqus_identifier: 588
 categories:
 - code

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Snowboarding weekend
 date: 2004-02-17 -0800
-comments: true
 disqus_identifier: 200
 categories:
 - personal

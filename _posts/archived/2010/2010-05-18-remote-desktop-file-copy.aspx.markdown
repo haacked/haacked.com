@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Copying Files Over Remote Desktop
 date: 2010-05-18 -0800
-comments: true
 disqus_identifier: 18701
 categories:
 - tech

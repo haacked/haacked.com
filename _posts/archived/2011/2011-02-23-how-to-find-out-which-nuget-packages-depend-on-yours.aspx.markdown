@@ -1,8 +1,6 @@
 ---
-layout: post
 title: How To Find Out Which NuGet Packages Depend on Yours
 date: 2011-02-23 -0800
-comments: true
 disqus_identifier: 18765
 categories:
 - nuget

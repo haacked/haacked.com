@@ -1,8 +1,6 @@
 ---
-layout: post
 title: You've Been Haacked 1K Times
 date: 2006-04-27 -0800
-comments: true
 disqus_identifier: 12588
 categories: []
 redirect_from: "/archive/2006/04/26/YouveBeenHaacked1KTimes.aspx/"

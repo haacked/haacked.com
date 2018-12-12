@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Subtext 2.5 Released!
 date: 2010-06-06 -0800
-comments: true
 disqus_identifier: 18706
 categories: []
 redirect_from: "/archive/2010/06/05/subtext-2-5-released.aspx/"

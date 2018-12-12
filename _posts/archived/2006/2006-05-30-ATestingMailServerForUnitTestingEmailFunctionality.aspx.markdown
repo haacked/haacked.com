@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A Testing Mail Server For Unit Testing Email Functionality
 date: 2006-05-30 -0800
-comments: true
 disqus_identifier: 13061
 categories: []
 redirect_from: "/archive/2006/05/29/ATestingMailServerForUnitTestingEmailFunctionality.aspx/"

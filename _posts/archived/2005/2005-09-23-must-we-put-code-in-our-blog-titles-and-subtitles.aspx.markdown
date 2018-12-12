@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Must We Put Code In Our Blog Titles and Subtitles?
 date: 2005-09-23 -0800
-comments: true
 disqus_identifier: 10324
 categories: []
 redirect_from: "/archive/2005/09/22/must-we-put-code-in-our-blog-titles-and-subtitles.aspx/"

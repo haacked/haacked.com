@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Mobile Phone Gaming
 date: 2005-06-08 -0800
-comments: true
 disqus_identifier: 4473
 categories:
 - personal

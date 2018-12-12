@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Rendering A Single View Using Multiple ViewEngines
 date: 2008-11-16 -0800
-comments: true
 disqus_identifier: 18555
 categories:
 - asp.net

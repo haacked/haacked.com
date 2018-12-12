@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Model Binding To A List
 date: 2008-10-23 -0800
-comments: true
 disqus_identifier: 18542
 categories: [aspnetmvc]
 redirect_from: "/archive/2008/10/22/model-binding-to-a-list.aspx/"

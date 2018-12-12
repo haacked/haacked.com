@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET MVC Beta Released!
 date: 2008-10-16 -0800
-comments: true
 disqus_identifier: 18540
 categories:
 - asp.net

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Jet Lag is Kicking My Butt
 date: 2005-01-13 -0800
-comments: true
 disqus_identifier: 1862
 categories: []
 redirect_from: "/archive/2005/01/12/jet-lag-is-kicking-my-butt.aspx/"

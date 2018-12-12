@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Give Readers a Choice on RSS Ads
 date: 2005-04-28 -0800
-comments: true
 disqus_identifier: 2874
 categories: []
 redirect_from: "/archive/2005/04/27/give-readers-a-choice-on-rss-ads.aspx/"

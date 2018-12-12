@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Austin Texas The Techie Town
 date: 2010-02-28 -0800
-comments: true
 disqus_identifier: 18688
 categories:
 - asp.net

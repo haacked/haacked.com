@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Html.RenderAction and Html.Action
 date: 2009-11-18 -0800
-comments: true
 disqus_identifier: 18660
 categories: []
 redirect_from: "/archive/2009/11/17/aspnetmvc2-render-action.aspx/"

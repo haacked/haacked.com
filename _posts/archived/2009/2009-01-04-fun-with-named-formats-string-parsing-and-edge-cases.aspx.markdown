@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Fun With Named Formats, String Parsing, and Edge Cases
 date: 2009-01-04 -0800
-comments: true
 disqus_identifier: 18570
 categories:
 - code

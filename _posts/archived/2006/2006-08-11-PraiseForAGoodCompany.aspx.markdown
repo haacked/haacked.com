@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Praise For a Good Company
 date: 2006-08-11 -0800
-comments: true
 disqus_identifier: 14843
 categories: []
 redirect_from: "/archive/2006/08/10/PraiseForAGoodCompany.aspx/"

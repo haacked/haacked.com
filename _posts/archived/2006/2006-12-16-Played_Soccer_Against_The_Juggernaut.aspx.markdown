@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Played Soccer Against The Juggernaut
 date: 2006-12-16 -0800
-comments: true
 disqus_identifier: 18171
 categories: []
 redirect_from: "/archive/2006/12/15/Played_Soccer_Against_The_Juggernaut.aspx/"

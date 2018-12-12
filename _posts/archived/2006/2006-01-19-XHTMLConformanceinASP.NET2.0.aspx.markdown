@@ -1,8 +1,6 @@
 ---
-layout: post
 title: XHTML Conformance in ASP.NET 2.0
 date: 2006-01-19 -0800
-comments: true
 disqus_identifier: 11548
 categories: []
 redirect_from: "/archive/2006/01/18/XHTMLConformanceinASP.NET2.0.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Security Argument Against Homogeneity
 date: 2006-05-04 -0800
-comments: true
 disqus_identifier: 12660
 categories: []
 redirect_from: "/archive/2006/05/03/SecurityArgumentAgainstHomogeneity.aspx/"

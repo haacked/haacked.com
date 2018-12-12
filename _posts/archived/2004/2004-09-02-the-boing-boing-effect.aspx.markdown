@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Boing Boing Effect
 date: 2004-09-02 -0800
-comments: true
 disqus_identifier: 1118
 categories: []
 redirect_from: "/archive/2004/09/01/the-boing-boing-effect.aspx/"

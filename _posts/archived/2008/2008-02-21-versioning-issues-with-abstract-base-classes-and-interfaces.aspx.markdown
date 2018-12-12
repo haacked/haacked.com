@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Versioning Issues With Abstract Base Classes and Interfaces
 date: 2008-02-21 -0800
-comments: true
 disqus_identifier: 18457
 categories: [dotnet code versioning]
 redirect_from: "/archive/2008/02/20/versioning-issues-with-abstract-base-classes-and-interfaces.aspx/"

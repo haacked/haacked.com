@@ -1,8 +1,6 @@
 ---
-layout: post
 title: More On Fahrenheit 9/11
 date: 2004-06-23 -0800
-comments: true
 disqus_identifier: 673
 categories: []
 redirect_from: "/archive/2004/06/22/more-on-fahrenheit-911.aspx/"

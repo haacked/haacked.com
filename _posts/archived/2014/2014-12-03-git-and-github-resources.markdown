@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Git and GitHub Resources"
 date: 2014-12-03 -0800
-comments: true
 categories: [git github]
 ---
 

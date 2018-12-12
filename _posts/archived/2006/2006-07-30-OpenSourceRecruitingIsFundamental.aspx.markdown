@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Open Source Recruiting Is Fundamental
 date: 2006-07-30 -0800
-comments: true
 disqus_identifier: 14477
 categories: []
 redirect_from: "/archive/2006/07/29/OpenSourceRecruitingIsFundamental.aspx/"

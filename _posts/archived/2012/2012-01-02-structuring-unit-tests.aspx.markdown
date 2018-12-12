@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Structuring Unit Tests
 date: 2012-01-02 -0800
-comments: true
 disqus_identifier: 18838
 categories:
 - code

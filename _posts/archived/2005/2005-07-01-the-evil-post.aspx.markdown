@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Evil Post
 date: 2005-07-01 -0800
-comments: true
 disqus_identifier: 7462
 categories: []
 redirect_from: "/archive/2005/06/30/the-evil-post.aspx/"

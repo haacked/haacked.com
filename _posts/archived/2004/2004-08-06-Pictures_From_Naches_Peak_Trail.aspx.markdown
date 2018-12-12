@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Pictures From Naches Peak Trail Near Mt. Rainier
 date: 2004-08-06 -0800
-comments: true
 disqus_identifier: 887
 categories: []
 redirect_from: "/archive/2004/08/05/Pictures_From_Naches_Peak_Trail.aspx/"

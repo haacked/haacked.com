@@ -1,8 +1,6 @@
 ---
-layout: post
 title: PDC Underground
 date: 2005-09-13 -0800
-comments: true
 disqus_identifier: 10106
 categories: []
 redirect_from: "/archive/2005/09/12/pdc-underground.aspx/"

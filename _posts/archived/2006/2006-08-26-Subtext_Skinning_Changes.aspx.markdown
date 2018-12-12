@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Subtext Skinning Changes
 date: 2006-08-26 -0800
-comments: true
 disqus_identifier: 16090
 categories: []
 redirect_from: "/archive/2006/08/25/Subtext_Skinning_Changes.aspx/"

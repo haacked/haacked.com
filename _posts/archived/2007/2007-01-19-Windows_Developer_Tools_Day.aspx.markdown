@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Windows Developer Tools Day
 date: 2007-01-19 -0800
-comments: true
 disqus_identifier: 18195
 categories: []
 redirect_from: "/archive/2007/01/18/Windows_Developer_Tools_Day.aspx/"

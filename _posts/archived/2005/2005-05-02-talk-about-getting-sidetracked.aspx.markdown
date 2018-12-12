@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Talk About Getting Sidetracked
 date: 2005-05-02 -0800
-comments: true
 disqus_identifier: 2930
 categories: []
 redirect_from: "/archive/2005/05/01/talk-about-getting-sidetracked.aspx/"

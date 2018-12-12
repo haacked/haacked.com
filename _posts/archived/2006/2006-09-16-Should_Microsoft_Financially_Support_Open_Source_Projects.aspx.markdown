@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Should Microsoft Financially Support Open Source Projects?
 date: 2006-09-16 -0800
-comments: true
 disqus_identifier: 16713
 categories: []
 redirect_from: "/archive/2006/09/15/Should_Microsoft_Financially_Support_Open_Source_Projects.aspx/"

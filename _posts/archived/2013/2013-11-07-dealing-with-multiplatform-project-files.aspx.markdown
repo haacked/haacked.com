@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Dealing with Multiplatform Project Files
 date: 2013-11-07 -0800
-comments: true
 disqus_identifier: 18905
 categories:
 - open source

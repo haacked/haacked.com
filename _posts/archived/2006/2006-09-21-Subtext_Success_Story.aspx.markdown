@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Subtext Success Story
 date: 2006-09-21 -0800
-comments: true
 disqus_identifier: 16997
 categories: []
 redirect_from: "/archive/2006/09/20/Subtext_Success_Story.aspx/"

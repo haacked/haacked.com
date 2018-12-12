@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Developer's Guide To Copyright Law - Part 1
 date: 2006-01-24 -0800
-comments: true
 disqus_identifier: 11575
 categories:
 - open source

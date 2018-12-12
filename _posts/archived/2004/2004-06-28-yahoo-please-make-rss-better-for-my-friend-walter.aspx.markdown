@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Yahoo, Please Make RSS Better For My Friend Walter
 date: 2004-06-28 -0800
-comments: true
 disqus_identifier: 698
 categories: []
 redirect_from: "/archive/2004/06/27/yahoo-please-make-rss-better-for-my-friend-walter.aspx/"

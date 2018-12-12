@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Good Design Makes You Go Unnnhhh...
 date: 2005-08-23 -0800
-comments: true
 disqus_identifier: 9633
 categories: []
 redirect_from: "/archive/2005/08/22/good-design-makes-you-go-unnnhhh.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Herd Of Elephants
 date: 2004-07-12 -0800
-comments: true
 disqus_identifier: 815
 categories: []
 redirect_from: "/archive/2004/07/11/herd-of-elephants.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A Loss In The Family
 date: 2005-05-22 -0800
-comments: true
 disqus_identifier: 3348
 categories: []
 redirect_from: "/archive/2005/05/21/ALossInTheFamily.aspx/"

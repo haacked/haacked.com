@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Better Developers Through Diversity
 date: 2006-02-16 -0800
-comments: true
 disqus_identifier: 11802
 categories: []
 redirect_from: "/archive/2006/02/15/BetterDevelopersThroughDiversity.aspx/"

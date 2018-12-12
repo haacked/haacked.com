@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Blogging While Buzzed
 date: 2004-07-12 -0800
-comments: true
 disqus_identifier: 810
 categories:
 - blogging

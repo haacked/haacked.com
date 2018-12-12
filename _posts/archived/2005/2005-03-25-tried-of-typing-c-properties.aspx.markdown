@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Tried of Typing C# Properties?
 date: 2005-03-25 -0800
-comments: true
 disqus_identifier: 2456
 categories:
 - code

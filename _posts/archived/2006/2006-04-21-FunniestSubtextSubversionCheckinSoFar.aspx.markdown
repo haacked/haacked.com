@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Funniest Subtext Subversion Checkin So Far
 date: 2006-04-21 -0800
-comments: true
 disqus_identifier: 12505
 categories:
 - subtext

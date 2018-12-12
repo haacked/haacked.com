@@ -1,8 +1,6 @@
 ---
-layout: post
 title: How Not To Please Your Clients
 date: 2005-11-03 -0800
-comments: true
 disqus_identifier: 11126
 categories: []
 redirect_from: "/archive/2005/11/02/how-not-to-please-your-clients.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Funniest Father&#8217;s Day Ad Yet
 date: 2005-06-13 -0800
-comments: true
 disqus_identifier: 4681
 categories:
 - humor

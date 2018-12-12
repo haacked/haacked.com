@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 80s Music Videos
 date: 2006-06-21 -0800
-comments: true
 disqus_identifier: 13450
 categories:
 - personal

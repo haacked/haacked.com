@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Updated Routing With WebForms
 date: 2008-05-19 -0800
-comments: true
 disqus_identifier: 18487
 categories: [aspnet routing]
 redirect_from: "/archive/2008/05/18/updated-routing-with-webforms.aspx/"

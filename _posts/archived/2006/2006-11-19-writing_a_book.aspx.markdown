@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Writing A Book
 date: 2006-11-19 -0800
-comments: true
 disqus_identifier: 18140
 categories: []
 redirect_from: "/archive/2006/11/18/writing_a_book.aspx/"

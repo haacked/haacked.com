@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Querying the Future With Reactive Extensions
 date: 2010-03-26 -0800
-comments: true
 disqus_identifier: 18692
 categories:
 - code

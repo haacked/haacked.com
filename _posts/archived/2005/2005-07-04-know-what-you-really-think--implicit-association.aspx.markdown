@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Know What You Really Think - Implicit Association
 date: 2005-07-04 -0800
-comments: true
 disqus_identifier: 7578
 categories: []
 redirect_from: "/archive/2005/07/03/know-what-you-really-think--implicit-association.aspx/"

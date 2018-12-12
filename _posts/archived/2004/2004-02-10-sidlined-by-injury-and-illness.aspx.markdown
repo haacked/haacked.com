@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Sidlined by injury and illness
 date: 2004-02-10 -0800
-comments: true
 disqus_identifier: 185
 categories: []
 redirect_from: "/archive/2004/02/09/sidlined-by-injury-and-illness.aspx/"

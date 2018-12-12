@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Think I'm Just Too White And Nerdy
 date: 2006-09-18 -0800
-comments: true
 disqus_identifier: 16798
 categories: []
 redirect_from: "/archive/2006/09/17/Think_Im_Just_Too_White_And_Nerdy.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Doubling Down At Mix 07
 date: 2007-03-27 -0800
-comments: true
 disqus_identifier: 18265
 categories: []
 redirect_from: "/archive/2007/03/26/doubling-down-at-mix-07.aspx/"

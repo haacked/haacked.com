@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Going to Puerto Vallarta
 date: 2006-03-24 -0800
-comments: true
 disqus_identifier: 12187
 categories: []
 redirect_from: "/archive/2006/03/23/GoingtoPuertoVallarta.aspx/"

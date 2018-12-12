@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Going Into Design Debt
 date: 2005-09-24 -0800
-comments: true
 disqus_identifier: 10336
 categories: []
 redirect_from: "/archive/2005/09/23/GoingIntoDesignDebt.aspx/"

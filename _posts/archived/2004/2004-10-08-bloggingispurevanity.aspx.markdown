@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'Blogging Is Pure Vanity: Profile Of A Vain Blogger'
 date: 2004-10-08 -0800
-comments: true
 disqus_identifier: 1322
 categories:
 - blogging

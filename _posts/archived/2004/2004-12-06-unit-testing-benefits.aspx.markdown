@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Unit Testing is a Poor Example to Demonstrate a Complaint About Methodologies
 date: 2004-12-06 -0800
-comments: true
 disqus_identifier: 1704
 categories:
 - code

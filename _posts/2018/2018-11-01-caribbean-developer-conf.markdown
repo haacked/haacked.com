@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "Caribbean Developer's Conference"
 description: "A conference worth attending, speaking at, and sponsoring to expand the reach of software to all corners of the planet, even the beautiful sandy ones"
 date: 2018-11-02 -0800 04:30 PM PDT
-comments: true
 categories: [community conferences software]
 ---
 

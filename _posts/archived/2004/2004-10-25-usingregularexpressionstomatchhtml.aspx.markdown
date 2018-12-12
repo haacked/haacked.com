@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Using a Regular Expression to Match HTML
 date: 2004-10-25 -0800
-comments: true
 disqus_identifier: 1471
 categories:
 - code

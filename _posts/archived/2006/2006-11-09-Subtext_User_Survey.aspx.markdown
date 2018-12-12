@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Subtext User Survey
 date: 2006-11-09 -0800
-comments: true
 disqus_identifier: 18133
 categories: []
 redirect_from: "/archive/2006/11/08/Subtext_User_Survey.aspx/"

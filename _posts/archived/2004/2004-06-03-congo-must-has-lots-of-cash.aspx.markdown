@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Just How Much Money Does The Republic Of Congo Have Anyways?
 date: 2004-06-03 -0800
-comments: true
 disqus_identifier: 510
 categories: []
 redirect_from: "/archive/2004/06/02/congo-must-has-lots-of-cash.aspx/"

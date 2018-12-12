@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A Google Reader Replacement
 date: 2013-06-30 -0800
-comments: true
 disqus_identifier: 18894
 categories:
 - blogging

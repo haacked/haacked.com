@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Introduction To Microformats Article
 date: 2006-05-11 -0800
-comments: true
 disqus_identifier: 12762
 categories: []
 redirect_from: "/archive/2006/05/10/IntroductionToMicroformatsArticle.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Granting Commit Access to Open Source Projects
 date: 2006-01-19 -0800
-comments: true
 disqus_identifier: 11559
 categories:
 - open source

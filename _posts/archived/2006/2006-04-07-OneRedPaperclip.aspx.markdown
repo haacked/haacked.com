@@ -1,8 +1,6 @@
 ---
-layout: post
 title: One Red Paperclip
 date: 2006-04-07 -0800
-comments: true
 disqus_identifier: 12321
 categories: []
 redirect_from: "/archive/2006/04/06/OneRedPaperclip.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: So You Want To Run A Business - Payroll Tax Breakdown
 date: 2006-05-10 -0800
-comments: true
 disqus_identifier: 12732
 categories: []
 redirect_from: "/archive/2006/05/09/SoYouWantToRunABusinessPayrollTaxBreakdown.aspx/"

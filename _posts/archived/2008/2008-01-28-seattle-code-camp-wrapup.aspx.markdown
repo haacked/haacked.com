@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Seattle Code Camp Wrapup
 date: 2008-01-28 -0800
-comments: true
 disqus_identifier: 18451
 categories: [conferences]
 redirect_from: "/archive/2008/01/27/seattle-code-camp-wrapup.aspx/"

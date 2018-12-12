@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Trouble With The Rat Race...
 date: 2006-01-07 -0800
-comments: true
 disqus_identifier: 11433
 categories: []
 redirect_from: "/archive/2006/01/06/the-trouble-with-the-rat-race.aspx/"

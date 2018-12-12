@@ -1,8 +1,6 @@
 ---
-layout: post
 title: CaptainHook Is On SourceForge
 date: 2006-07-31 -0800
-comments: true
 disqus_identifier: 14504
 categories: []
 redirect_from: "/archive/2006/07/30/CaptainHookIsOnSourceForge.aspx/"

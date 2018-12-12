@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Writing a NuGet Package That Adds A Command To The PowerShell Console
 date: 2011-04-19 -0800
-comments: true
 disqus_identifier: 18778
 categories:
 - code

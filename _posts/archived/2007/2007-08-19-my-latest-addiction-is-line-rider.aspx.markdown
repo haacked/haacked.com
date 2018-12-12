@@ -1,8 +1,6 @@
 ---
-layout: post
 title: My Latest Addiction Is Line Rider
 date: 2007-08-19 -0800
-comments: true
 disqus_identifier: 18382
 categories: []
 redirect_from: "/archive/2007/08/18/my-latest-addiction-is-line-rider.aspx/"

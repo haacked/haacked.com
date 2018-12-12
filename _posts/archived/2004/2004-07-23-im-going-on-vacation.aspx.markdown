@@ -1,8 +1,6 @@
 ---
-layout: post
 title: I'm Going On Vacation!
 date: 2004-07-23 -0800
-comments: true
 disqus_identifier: 848
 categories: []
 redirect_from: "/archive/2004/07/22/im-going-on-vacation.aspx/"

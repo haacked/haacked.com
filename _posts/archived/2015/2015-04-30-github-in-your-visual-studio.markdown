@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "GitHub Inside Your Visual Studio"
 date: 2015-04-30 -0800
-comments: true
 categories: [github visualstudio]
 ---
 

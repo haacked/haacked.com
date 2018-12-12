@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Should Subtext Move To CodePlex
 date: 2006-06-30 -0800
-comments: true
 disqus_identifier: 13616
 categories:
 - subtext

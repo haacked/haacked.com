@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Preserve Disqus Comments with Jekyll"
 date: 2013-12-09 -0800
-comments: true
 categories: [jekyll]
 ---
 
@@ -31,10 +29,8 @@ So what I did was add my own field to my migrated Jekyll posts. You can see an e
 
 ```yaml
 ---
-layout: post
 title: "Code Review Like You Mean It"
 date: 2013-10-28 -0800
-comments: true
 disqus_identifier: 18902
 categories: [open source,github,code]
 ---

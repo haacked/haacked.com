@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "[SQL] Stored ProcedureTo Generate Random Time of Day"
 date: 2006-04-21 -0800
-comments: true
 disqus_identifier: 12487
 categories:
 - sql

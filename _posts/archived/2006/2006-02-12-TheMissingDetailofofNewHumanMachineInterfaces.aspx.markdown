@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Missing Detail of of New Human Machine Interfaces
 date: 2006-02-12 -0800
-comments: true
 disqus_identifier: 11778
 categories: []
 redirect_from: "/archive/2006/02/11/TheMissingDetailofofNewHumanMachineInterfaces.aspx/"

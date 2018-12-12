@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Overriding a .svc Request With Routing
 date: 2010-09-07 -0800
-comments: true
 disqus_identifier: 18720
 categories:
 - asp.net

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Collision Of Bush and Moore...
 date: 2004-06-30 -0800
-comments: true
 disqus_identifier: 757
 categories: []
 redirect_from: "/archive/2004/06/29/the-collision-of-bush-and-moore.aspx/"

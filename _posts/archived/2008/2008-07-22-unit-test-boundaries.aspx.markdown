@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Unit Test Boundaries
 date: 2008-07-22 -0800
-comments: true
 disqus_identifier: 18506
 categories: [tdd]
 redirect_from: "/archive/2008/07/21/unit-test-boundaries.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: XEarth For Windows
 date: 2004-04-22 -0800
-comments: true
 disqus_identifier: 350
 categories: []
 redirect_from: "/archive/2004/04/21/xearth-for-windows.aspx/"

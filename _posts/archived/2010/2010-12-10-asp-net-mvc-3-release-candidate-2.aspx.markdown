@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET MVC 3 Release Candidate 2
 date: 2010-12-10 -0800
-comments: true
 disqus_identifier: 18746
 categories:
 - asp.net

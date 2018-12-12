@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Crosswalk Design
 date: 2005-11-29 -0800
-comments: true
 disqus_identifier: 11268
 categories: []
 redirect_from: "/archive/2005/11/28/crosswalk-design.aspx/"

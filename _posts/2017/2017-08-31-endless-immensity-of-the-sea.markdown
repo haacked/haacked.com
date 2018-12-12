@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Endless Immensity of the Sea"
 date: 2017-08-30 -0800 11:32 AM PDT
-comments: true
 categories: [leadership management]
 ---
 

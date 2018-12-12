@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Sending JSON to an ASP.NET MVC Action Method Argument
 date: 2010-04-15 -0800
-comments: true
 disqus_identifier: 18695
 categories:
 - asp.net mvc

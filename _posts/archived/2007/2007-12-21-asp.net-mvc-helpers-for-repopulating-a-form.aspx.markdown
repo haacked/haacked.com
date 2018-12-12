@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET MVC Helpers For Repopulating A Form
 date: 2007-12-21 -0800
-comments: true
 disqus_identifier: 18442
 categories:
 - code

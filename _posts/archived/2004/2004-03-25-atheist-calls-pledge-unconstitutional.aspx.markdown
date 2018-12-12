@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Atheist Calls Pledge Unconstitutional
 date: 2004-03-25 -0800
-comments: true
 disqus_identifier: 269
 categories:
 - personal

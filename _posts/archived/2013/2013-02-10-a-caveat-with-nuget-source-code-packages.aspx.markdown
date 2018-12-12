@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A Caveat with NuGet Source Code Packages
 date: 2013-02-10 -0800
-comments: true
 disqus_identifier: 18884
 categories:
 - git

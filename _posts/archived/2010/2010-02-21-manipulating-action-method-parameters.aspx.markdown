@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Manipulating Action Method Parameters
 date: 2010-02-21 -0800
-comments: true
 disqus_identifier: 18687
 categories:
 - asp.net

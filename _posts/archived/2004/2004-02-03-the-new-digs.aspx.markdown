@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The new digs
 date: 2004-02-03 -0800
-comments: true
 disqus_identifier: 156
 categories: []
 redirect_from: "/archive/2004/02/02/the-new-digs.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Be A Real Political Geek, Buy The &lt;/bush&gt; T-Shirt
 date: 2004-08-30 -0800
-comments: true
 disqus_identifier: 1031
 categories: []
 redirect_from: "/archive/2004/08/29/be-a-real-political-geek-buy-the-ltbush-gt-t-shirt.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Which Logging framework do you use and why?
 date: 2004-02-11 -0800
-comments: true
 disqus_identifier: 190
 categories: []
 redirect_from: "/archive/2004/02/10/which-logging-framework-do-you-use-and-why.aspx/"

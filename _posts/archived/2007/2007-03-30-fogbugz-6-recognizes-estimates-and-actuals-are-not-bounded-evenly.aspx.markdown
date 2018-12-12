@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Estimates And Actuals Are Not Bounded Evenly On Both Sides
 date: 2007-03-30 -0800
-comments: true
 disqus_identifier: 18266
 categories: []
 redirect_from: "/archive/2007/03/29/fogbugz-6-recognizes-estimates-and-actuals-are-not-bounded-evenly.aspx/"

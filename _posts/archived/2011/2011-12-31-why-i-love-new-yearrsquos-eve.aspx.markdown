@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Why I Love New Year&rsquo;s Eve
 date: 2011-12-31 -0800
-comments: true
 disqus_identifier: 18836
 categories:
 - personal

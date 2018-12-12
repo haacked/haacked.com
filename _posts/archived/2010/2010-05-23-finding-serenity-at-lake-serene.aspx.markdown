@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Finding Serenity at Lake Serene
 date: 2010-05-23 -0800
-comments: true
 disqus_identifier: 18702
 categories:
 - personal

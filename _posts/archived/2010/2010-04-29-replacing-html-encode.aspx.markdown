@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'Tip: Replacing Html.Encode Calls With New Html Encoding Syntax'
 date: 2010-04-29 -0800
-comments: true
 disqus_identifier: 18696
 categories:
 - asp.net mvc

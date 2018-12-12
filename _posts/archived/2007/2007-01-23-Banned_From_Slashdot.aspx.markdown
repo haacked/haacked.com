@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Banned From Slashdot
 date: 2007-01-23 -0800
-comments: true
 disqus_identifier: 18200
 categories: []
 redirect_from: "/archive/2007/01/22/Banned_From_Slashdot.aspx/"

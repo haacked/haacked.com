@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Los Angeles User Group Meeting
 date: 2006-08-07 -0800
-comments: true
 disqus_identifier: 14755
 categories: []
 redirect_from: "/archive/2006/08/06/LosAngelesUserGroupMeeting.aspx/"

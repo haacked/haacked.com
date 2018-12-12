@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Was My Code Provability Post An Inspiration To Joel?
 date: 2007-12-04 -0800
-comments: true
 disqus_identifier: 18430
 categories:
 - code

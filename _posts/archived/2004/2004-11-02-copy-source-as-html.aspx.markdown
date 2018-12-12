@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Copy Source As HTML
 date: 2004-11-02 -0800
-comments: true
 disqus_identifier: 1553
 categories: []
 redirect_from: "/archive/2004/11/01/copy-source-as-html.aspx/"

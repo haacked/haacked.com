@@ -1,8 +1,6 @@
 ---
-layout: post
 title: My Four Tips For Job Seekers
 date: 2004-10-01 -0800
-comments: true
 disqus_identifier: 1294
 categories: []
 redirect_from: "/archive/2004/09/30/my-four-tips-for-job-seekers.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Mysterious Things I Have Eaten
 date: 2006-02-03 -0800
-comments: true
 disqus_identifier: 11657
 categories: []
 redirect_from: "/archive/2006/02/02/MysteriousThingsIHaveEaten.aspx/"

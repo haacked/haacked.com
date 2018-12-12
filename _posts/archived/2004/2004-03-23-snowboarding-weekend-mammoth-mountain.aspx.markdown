@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Snowboarding Weekend!
 date: 2004-03-23 -0800
-comments: true
 disqus_identifier: 268
 categories:
 - personal

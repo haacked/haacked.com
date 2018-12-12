@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Event Log Monitoring via RSS
 date: 2004-04-16 -0800
-comments: true
 disqus_identifier: 329
 categories: []
 redirect_from: "/archive/2004/04/15/event-log-monitoring-via-rss.aspx/"

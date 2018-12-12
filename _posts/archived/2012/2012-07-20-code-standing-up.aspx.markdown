@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Sitting is Making You Fat and Killing You
 date: 2012-07-20 -0800
-comments: true
 disqus_identifier: 18862
 categories:
 - code

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Tip For Managing Remote VMWare Server
 date: 2006-10-11 -0800
-comments: true
 disqus_identifier: 18014
 categories: [tips]
 redirect_from: "/archive/2006/10/10/tip_for_managing_remote_vmware_server.aspx/"

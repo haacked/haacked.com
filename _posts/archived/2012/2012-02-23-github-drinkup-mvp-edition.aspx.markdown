@@ -1,8 +1,6 @@
 ---
-layout: post
 title: GitHub Drinkup MVP Edition
 date: 2012-02-23 -0800
-comments: true
 disqus_identifier: 18849
 categories:
 - personal

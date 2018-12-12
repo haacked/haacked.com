@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "The Case Against Pay for Performance"
 date: 2014-08-14 -0800
-comments: true
 categories: [management]
 ---
 

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Geek Your Momma Jokes
 date: 2009-07-08 -0800
-comments: true
 disqus_identifier: 18627
 categories:
 - humor

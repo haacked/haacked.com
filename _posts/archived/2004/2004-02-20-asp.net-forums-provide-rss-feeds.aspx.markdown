@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Asp.NET forums provide RSS Feeds
 date: 2004-02-20 -0800
-comments: true
 disqus_identifier: 203
 categories: []
 redirect_from: "/archive/2004/02/19/asp.net-forums-provide-rss-feeds.aspx/"

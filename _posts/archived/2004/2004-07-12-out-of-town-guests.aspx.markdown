@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Out Of Town Guests
 date: 2004-07-12 -0800
-comments: true
 disqus_identifier: 803
 categories: []
 redirect_from: "/archive/2004/07/11/out-of-town-guests.aspx/"

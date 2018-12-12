@@ -1,8 +1,6 @@
 ---
-layout: post
 title: I&rsquo;m Speaking at //BUILD!
 date: 2011-09-13 -0800
-comments: true
 disqus_identifier: 18813
 categories:
 - asp.net

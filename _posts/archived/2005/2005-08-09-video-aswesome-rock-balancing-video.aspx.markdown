@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'VIDEO: Aswesome Rock Balancing Video'
 date: 2005-08-09 -0800
-comments: true
 disqus_identifier: 9282
 categories: []
 redirect_from: "/archive/2005/08/08/video-aswesome-rock-balancing-video.aspx/"

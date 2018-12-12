@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Troubleshooting Windows MSI Installers
 date: 2009-03-05 -0800
-comments: true
 disqus_identifier: 18594
 categories:
 - asp.net mvc

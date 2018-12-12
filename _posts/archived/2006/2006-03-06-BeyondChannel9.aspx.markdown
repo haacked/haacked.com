@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Beyond Channel 9
 date: 2006-03-06 -0800
-comments: true
 disqus_identifier: 11991
 categories: []
 redirect_from: "/archive/2006/03/05/BeyondChannel9.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A Big Snowfall In Alaska and a Walk  In The Woods
 date: 2004-12-27 -0800
-comments: true
 disqus_identifier: 1772
 categories: []
 redirect_from: "/archive/2004/12/26/a-big-snowfall-in-alaska-and-a-walk-in-the-woods.aspx/"

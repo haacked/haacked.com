@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET MVC And Dynamic Data Learn To Play Well Together
 date: 2008-06-11 -0800
-comments: true
 disqus_identifier: 18490
 categories: [aspnetmvc]
 redirect_from: "/archive/2008/06/10/aspnetmvc-and-dynamicdata.aspx/"

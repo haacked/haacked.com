@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Seeing Bill Gate's House During Seattle Vacation
 date: 2007-02-23 -0800
-comments: true
 disqus_identifier: 18216
 categories: []
 redirect_from: "/archive/2007/02/22/Seattle_Vacation.aspx/"

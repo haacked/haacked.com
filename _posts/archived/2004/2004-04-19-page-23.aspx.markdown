@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Page 23
 date: 2004-04-19 -0800
-comments: true
 disqus_identifier: 339
 categories: []
 redirect_from: "/archive/2004/04/18/page-23.aspx/"

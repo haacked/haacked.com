@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Installing ASP.NET MVC 2 RC 2 on Visual Studio 2010 RC
 date: 2010-02-10 -0800
-comments: true
 disqus_identifier: 18685
 categories: []
 redirect_from: "/archive/2010/02/09/installing-asp-net-mvc-2-rc-2-on-visual-studio.aspx/"

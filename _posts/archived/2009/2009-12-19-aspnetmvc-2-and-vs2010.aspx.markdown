@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET MVC 2 and Visual Studio 2010
 date: 2009-12-19 -0800
-comments: true
 disqus_identifier: 18669
 categories:
 - asp.net

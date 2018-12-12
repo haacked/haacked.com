@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Pot gives you unstoppable night vision powers?
 date: 2004-07-07 -0800
-comments: true
 disqus_identifier: 787
 categories: []
 redirect_from: "/archive/2004/07/06/pot-gives-you-unstoppable-night-vision-powers.aspx/"

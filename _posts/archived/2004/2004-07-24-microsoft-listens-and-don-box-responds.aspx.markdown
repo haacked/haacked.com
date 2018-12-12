@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Microsoft Listens and Don Box Responds
 date: 2004-07-24 -0800
-comments: true
 disqus_identifier: 853
 categories: []
 redirect_from: "/archive/2004/07/23/microsoft-listens-and-don-box-responds.aspx/"

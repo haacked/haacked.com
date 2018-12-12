@@ -1,8 +1,6 @@
 ---
-layout: post
 title: jQuery Hide/Close Link
 date: 2009-12-25 -0800
-comments: true
 disqus_identifier: 18671
 categories:
 - code

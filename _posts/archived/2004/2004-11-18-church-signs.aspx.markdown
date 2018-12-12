@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Church Sign Generator
 date: 2004-11-18 -0800
-comments: true
 disqus_identifier: 1648
 categories:
 - personal

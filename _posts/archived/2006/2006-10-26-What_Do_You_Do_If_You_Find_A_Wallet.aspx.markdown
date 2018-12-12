@@ -1,8 +1,6 @@
 ---
-layout: post
 title: What Do You Do If You Find A Wallet?
 date: 2006-10-26 -0800
-comments: true
 disqus_identifier: 18112
 categories: []
 redirect_from: "/archive/2006/10/25/What_Do_You_Do_If_You_Find_A_Wallet.aspx/"

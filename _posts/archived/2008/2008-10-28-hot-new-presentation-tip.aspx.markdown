@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Hot New Presentation Tip
 date: 2008-10-28 -0800
-comments: true
 disqus_identifier: 18543
 categories: [tips speaking conferences]
 redirect_from: "/archive/2008/10/27/hot-new-presentation-tip.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Extending ASP.NET MVC To Add Conventions
 date: 2007-12-08 -0800
-comments: true
 disqus_identifier: 18433
 categories:
 - asp.net

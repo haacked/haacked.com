@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Top 10 Blogging Clich&eacute;s of 2010
 date: 2011-01-02 -0800
-comments: true
 disqus_identifier: 18752
 categories:
 - humor

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: TimedLock revisited
 date: 2004-04-17 -0800
-comments: true
 disqus_identifier: 333
 categories:
 - code

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Thread Naming and Asynchronous Method Calls
 date: 2004-06-07 -0800
-comments: true
 disqus_identifier: 546
 categories: []
 redirect_from: "/archive/2004/06/06/thread-naming-and-asynchronous-method-calls.aspx/"

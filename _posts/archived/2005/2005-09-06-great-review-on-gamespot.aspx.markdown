@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Great Review on GameSpot
 date: 2005-09-06 -0800
-comments: true
 disqus_identifier: 9933
 categories:
 - personal

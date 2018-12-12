@@ -1,8 +1,6 @@
 ---
-layout: post
 title: IM Is Not Safe!  Spread The Word
 date: 2004-09-30 -0800
-comments: true
 disqus_identifier: 1288
 categories: []
 redirect_from: "/archive/2004/09/29/im-is-not-safe-spread-the-word.aspx/"

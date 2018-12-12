@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Ali G Translator
 date: 2004-10-30 -0800
-comments: true
 disqus_identifier: 1534
 categories: []
 redirect_from: "/archive/2004/10/29/AliGTranslator.aspx/"

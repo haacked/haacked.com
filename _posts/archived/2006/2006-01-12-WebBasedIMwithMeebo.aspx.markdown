@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Web Based IM with Meebo
 date: 2006-01-12 -0800
-comments: true
 disqus_identifier: 11485
 categories: []
 redirect_from: "/archive/2006/01/11/WebBasedIMwithMeebo.aspx/"

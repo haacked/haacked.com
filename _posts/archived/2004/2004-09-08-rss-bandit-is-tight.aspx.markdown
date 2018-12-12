@@ -1,8 +1,6 @@
 ---
-layout: post
 title: RSS Bandit Is Tight
 date: 2004-09-08 -0800
-comments: true
 disqus_identifier: 1166
 categories: []
 redirect_from: "/archive/2004/09/07/rss-bandit-is-tight.aspx/"

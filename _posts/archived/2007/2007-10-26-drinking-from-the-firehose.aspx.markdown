@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Drinking from the Fire Hose At Microsoft
 date: 2007-10-26 -0800
-comments: true
 disqus_identifier: 18410
 categories: [microsoft work]
 redirect_from: "/archive/2007/10/25/drinking-from-the-firehose.aspx/"

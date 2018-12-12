@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Programming Language Inventor or Serial Killer?
 date: 2005-06-14 -0800
-comments: true
 disqus_identifier: 4701
 categories: []
 redirect_from: "/archive/2005/06/13/programming-language-inventor-or-serial-killer.aspx/"

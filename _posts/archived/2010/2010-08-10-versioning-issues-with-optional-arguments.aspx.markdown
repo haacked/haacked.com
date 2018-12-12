@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Versioning Issues With Optional Arguments
 date: 2010-08-10 -0800
-comments: true
 disqus_identifier: 18716
 categories:
 - code

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Introducing RouteMagic
 date: 2011-01-30 -0800
-comments: true
 disqus_identifier: 18760
 categories:
 - asp.net

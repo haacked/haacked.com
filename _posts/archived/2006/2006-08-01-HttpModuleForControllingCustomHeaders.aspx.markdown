@@ -1,8 +1,6 @@
 ---
-layout: post
 title: HttpModule For Controlling Custom Headers
 date: 2006-08-01 -0800
-comments: true
 disqus_identifier: 14540
 categories: []
 redirect_from: "/archive/2006/07/31/HttpModuleForControllingCustomHeaders.aspx/"

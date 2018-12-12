@@ -1,8 +1,6 @@
 ---
-layout: post
 title: NuGet Up For Grabs Items
 date: 2010-10-14 -0800
-comments: true
 disqus_identifier: 18727
 categories:
 - nuget

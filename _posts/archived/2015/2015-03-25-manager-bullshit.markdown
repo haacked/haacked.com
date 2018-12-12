@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Management Bullshit"
 date: 2015-03-25 -0800
-comments: true
 categories: [personal management]
 ---
 

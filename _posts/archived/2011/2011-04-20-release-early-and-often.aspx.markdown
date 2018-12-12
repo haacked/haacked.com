@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Release Early, Release Often
 date: 2011-04-20 -0800
-comments: true
 disqus_identifier: 18779
 categories:
 - code

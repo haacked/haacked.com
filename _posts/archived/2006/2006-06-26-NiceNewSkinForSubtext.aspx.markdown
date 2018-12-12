@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Nice New Skin For Subtext
 date: 2006-06-26 -0800
-comments: true
 disqus_identifier: 13519
 categories:
 - subtext

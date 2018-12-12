@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Internationalized URLs
 date: 2007-11-30 -0800
-comments: true
 disqus_identifier: 18428
 categories: []
 redirect_from: "/archive/2007/11/29/internationalized-urls.aspx/"

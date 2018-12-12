@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Microsoft's New Running Shoes"
 date: 2014-05-17 -0800
-comments: true
 categories: [microsoft aspnet oss]
 ---
 

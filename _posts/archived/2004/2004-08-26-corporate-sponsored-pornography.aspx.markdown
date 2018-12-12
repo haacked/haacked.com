@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Corporate Sponsored Pornography?
 date: 2004-08-26 -0800
-comments: true
 disqus_identifier: 981
 categories: []
 redirect_from: "/archive/2004/08/25/corporate-sponsored-pornography.aspx/"

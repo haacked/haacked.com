@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Applying Conway&rsquo;s Law
 date: 2013-05-13 -0800
-comments: true
 disqus_identifier: 18889
 categories:
 - code

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Code Camp Black Rock City?
 date: 2005-07-11 -0800
-comments: true
 disqus_identifier: 8606
 categories: []
 redirect_from: "/archive/2005/07/10/code-camp-black-rock-city.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Death to the IF statement
 date: 2013-11-08 -0800
-comments: true
 disqus_identifier: 18906
 categories:
 - code

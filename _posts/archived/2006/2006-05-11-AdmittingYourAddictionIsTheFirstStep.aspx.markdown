@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Admitting Your Addiction Is The First Step
 date: 2006-05-11 -0800
-comments: true
 disqus_identifier: 12747
 categories: []
 redirect_from: "/archive/2006/05/10/AdmittingYourAddictionIsTheFirstStep.aspx/"

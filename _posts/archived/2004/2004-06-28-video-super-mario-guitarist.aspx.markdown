@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'VIDEO: Super Mario Guitarist'
 date: 2004-06-28 -0800
-comments: true
 disqus_identifier: 708
 categories: []
 redirect_from: "/archive/2004/06/27/video-super-mario-guitarist.aspx/"

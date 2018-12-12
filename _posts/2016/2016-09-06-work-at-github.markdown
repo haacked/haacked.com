@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Working at GitHub"
 date: 2016-09-06 -0800
-comments: true
 categories: [management github hiring]
 ---
 

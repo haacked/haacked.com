@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Blog Moved Off Of WebHost4Life
 date: 2006-04-19 -0800
-comments: true
 disqus_identifier: 12473
 categories: []
 redirect_from: "/archive/2006/04/18/BlogMovedOffOfWebHost4Life.aspx/"

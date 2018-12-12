@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Mono 1.0 is out
 date: 2004-06-30 -0800
-comments: true
 disqus_identifier: 755
 categories: []
 redirect_from: "/archive/2004/06/29/mono-10-is-out.aspx/"

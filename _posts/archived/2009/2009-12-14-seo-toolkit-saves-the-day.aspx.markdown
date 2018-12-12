@@ -1,8 +1,6 @@
 ---
-layout: post
 title: How the IIS SEO Toolkit Saved My Butt
 date: 2009-12-14 -0800
-comments: true
 disqus_identifier: 18666
 categories:
 - personal

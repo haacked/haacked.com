@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Ordered a Tablet PC
 date: 2004-10-31 -0800
-comments: true
 disqus_identifier: 1537
 categories: []
 redirect_from: "/archive/2004/10/30/ordered-a-tablet-pc.aspx/"

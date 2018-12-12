@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET MVC Installer For Visual Studio 2010 Beta 1 And Roadmap
 date: 2009-06-08 -0800
-comments: true
 disqus_identifier: 18622
 categories: []
 redirect_from: "/archive/2009/06/07/aspnetmvc-vs10beta1-roadmap.aspx/"

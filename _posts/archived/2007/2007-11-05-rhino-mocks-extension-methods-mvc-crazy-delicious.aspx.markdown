@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Rhino Mocks + Extension Methods + MVC == Crazy Delicious
 date: 2007-11-05 -0800
-comments: true
 disqus_identifier: 18418
 categories:
 - asp.net

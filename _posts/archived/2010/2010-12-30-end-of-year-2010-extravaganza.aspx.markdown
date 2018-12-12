@@ -1,8 +1,6 @@
 ---
-layout: post
 title: End Of Year 2010 Extravaganza
 date: 2010-12-30 -0800
-comments: true
 disqus_identifier: 18751
 categories:
 - personal

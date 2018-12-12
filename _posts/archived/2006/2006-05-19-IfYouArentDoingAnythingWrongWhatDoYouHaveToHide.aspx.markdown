@@ -1,8 +1,6 @@
 ---
-layout: post
 title: If You Aren't Doing Anything Wrong, What Do You Have To Hide?
 date: 2006-05-19 -0800
-comments: true
 disqus_identifier: 12868
 categories:
 - personal

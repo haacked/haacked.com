@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Black Rock City Bound
 date: 2006-05-03 -0800
-comments: true
 disqus_identifier: 12649
 categories: []
 redirect_from: "/archive/2006/05/02/BlackRockCityBound.aspx/"

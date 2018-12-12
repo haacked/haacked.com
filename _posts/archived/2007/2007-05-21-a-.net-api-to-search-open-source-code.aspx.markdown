@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A .NET API To Search Open Source Code
 date: 2007-05-21 -0800
-comments: true
 disqus_identifier: 18323
 categories:
 - code

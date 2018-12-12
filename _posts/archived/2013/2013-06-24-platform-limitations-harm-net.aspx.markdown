@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Platform Limitations Harm .NET
 date: 2013-06-24 -0800
-comments: true
 disqus_identifier: 18893
 categories:
 - code

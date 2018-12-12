@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Stinkin' Jersey
 date: 2006-09-23 -0800
-comments: true
 disqus_identifier: 17089
 categories: []
 redirect_from: "/archive/2006/09/22/Stinkin_Jersey.aspx/"

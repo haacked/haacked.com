@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "The Inevitability of Failure and Importance of Repair"
 date: 2015-02-07 -0800
-comments: true
 categories: [personal management]
 ---
 

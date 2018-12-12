@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Web Platform Installer
 date: 2008-10-14 -0800
-comments: true
 disqus_identifier: 18538
 categories:
 - asp.net

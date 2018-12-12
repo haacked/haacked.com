@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Speaking of Sake, Here's a Bottle in the Shape of a Castle
 date: 2005-01-09 -0800
-comments: true
 disqus_identifier: 1839
 categories: []
 redirect_from: "/archive/2005/01/08/speaking-of-sake-heres-a-bottle-in-the-shape-of-a-castle.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: TimedLock with Stack Traces Strikes Back
 date: 2004-10-13 -0800
-comments: true
 disqus_identifier: 1341
 categories:
 - code

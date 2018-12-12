@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Prose Is Dead. Long Live Prose
 date: 2007-04-27 -0800
-comments: true
 disqus_identifier: 18296
 categories: []
 redirect_from: "/archive/2007/04/26/prose-is-dead.-long-live-prose.aspx/"

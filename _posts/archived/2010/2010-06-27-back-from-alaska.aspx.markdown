@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Back from Alaska With A New Release of Subtext
 date: 2010-06-27 -0800
-comments: true
 disqus_identifier: 18710
 categories:
 - subtext

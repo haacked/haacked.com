@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Upcoming Speaking Gigs and a Podcast
 date: 2013-04-08 -0800
-comments: true
 disqus_identifier: 18887
 categories:
 - community

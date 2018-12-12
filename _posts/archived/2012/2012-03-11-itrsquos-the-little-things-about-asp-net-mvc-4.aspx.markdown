@@ -1,8 +1,6 @@
 ---
-layout: post
 title: It&rsquo;s The Little Things about ASP.NET MVC 4
 date: 2012-03-11 -0800
-comments: true
 disqus_identifier: 18851
 categories:
 - asp.net mvc

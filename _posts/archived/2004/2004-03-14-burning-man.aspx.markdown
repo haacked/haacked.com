@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Burning Man
 date: 2004-03-14 -0800
-comments: true
 disqus_identifier: 257
 categories:
 - personal

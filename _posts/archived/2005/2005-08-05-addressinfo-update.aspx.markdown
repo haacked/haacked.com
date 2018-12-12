@@ -1,8 +1,6 @@
 ---
-layout: post
 title: AddressInfo Update
 date: 2005-08-05 -0800
-comments: true
 disqus_identifier: 9228
 categories: []
 redirect_from: "/archive/2005/08/04/addressinfo-update.aspx/"

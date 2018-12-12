@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Poor Twiggy Broke Her Leg Yesterday
 date: 2004-11-03 -0800
-comments: true
 disqus_identifier: 1567
 categories: []
 redirect_from: "/archive/2004/11/02/poor-twiggy-broke-her-leg-yesterday.aspx/"

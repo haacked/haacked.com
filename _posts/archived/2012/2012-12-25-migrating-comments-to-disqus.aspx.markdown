@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Migrating Comments to Disqus
 date: 2012-12-25 -0800
-comments: true
 disqus_identifier: 18878
 categories: []
 redirect_from: "/archive/2012/12/24/migrating-comments-to-disqus.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Replacing Recursion With a Stack
 date: 2007-03-04 -0800
-comments: true
 disqus_identifier: 18223
 categories: []
 redirect_from: "/archive/2007/03/03/Replacing_Recursion_With_a_Stack.aspx/"

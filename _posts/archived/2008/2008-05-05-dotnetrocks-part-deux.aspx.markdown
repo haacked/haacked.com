@@ -1,8 +1,6 @@
 ---
-layout: post
 title: DotNetRocks Part Deux
 date: 2008-05-05 -0800
-comments: true
 disqus_identifier: 18483
 categories: [podcasts aspnetmvc]
 redirect_from: "/archive/2008/05/04/dotnetrocks-part-deux.aspx/"

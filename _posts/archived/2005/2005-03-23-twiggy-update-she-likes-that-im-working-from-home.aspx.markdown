@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'Twiggy Update: She Likes That I''m Working From Home'
 date: 2005-03-23 -0800
-comments: true
 disqus_identifier: 2432
 categories: []
 redirect_from:

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Which Subtext Skin Do You Use?
 date: 2006-07-11 -0800
-comments: true
 disqus_identifier: 13813
 categories: []
 redirect_from: "/archive/2006/07/10/WhichSubtextSkinDoYouUse.aspx/"

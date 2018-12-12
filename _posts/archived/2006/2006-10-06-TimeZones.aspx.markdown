@@ -1,8 +1,6 @@
 ---
-layout: post
 title: TimeZones
 date: 2006-10-06 -0800
-comments: true
 disqus_identifier: 17780
 categories: []
 redirect_from: "/archive/2006/10/05/TimeZones.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Rumsfield Sound Bytes Of The Week
 date: 2004-04-10 -0800
-comments: true
 disqus_identifier: 315
 categories:
 - personal

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: My Last Day Before Starting A New Career
 date: 2007-05-11 -0800
-comments: true
 disqus_identifier: 18312
 categories: []
 redirect_from: "/archive/2007/05/10/my-last-day-before-starting-a-new-career.aspx/"

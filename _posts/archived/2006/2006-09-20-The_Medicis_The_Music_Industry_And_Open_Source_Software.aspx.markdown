@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Medicis, The Music Industry, And Open Source Software
 date: 2006-09-20 -0800
-comments: true
 disqus_identifier: 16923
 categories:
 - open source

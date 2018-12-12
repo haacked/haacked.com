@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Is Your Dog a Sh*t Factory
 date: 2004-08-05 -0800
-comments: true
 disqus_identifier: 883
 categories:
 - humor

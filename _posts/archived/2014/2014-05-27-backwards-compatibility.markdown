@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "The Siren Song of Backwards Compatibility"
 date: 2014-05-27 -0800
 redirect_from: "/archive/2015/05/27/backwards-compatibility/"
-comments: true
 categories: [aspnet]
 ---
 

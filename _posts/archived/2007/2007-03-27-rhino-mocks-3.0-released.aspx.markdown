@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Rhino Mocks 3.0 Released!
 date: 2007-03-27 -0800
-comments: true
 disqus_identifier: 18264
 categories:
 - code

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: New Line Quirk with HTML TextArea
 date: 2008-11-18 -0800
-comments: true
 disqus_identifier: 18556
 categories:
 - asp.net mvc

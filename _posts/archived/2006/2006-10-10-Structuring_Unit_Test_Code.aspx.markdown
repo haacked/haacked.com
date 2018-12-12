@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Structuring Unit Test Code
 date: 2006-10-10 -0800
-comments: true
 disqus_identifier: 17988
 categories:
 - code

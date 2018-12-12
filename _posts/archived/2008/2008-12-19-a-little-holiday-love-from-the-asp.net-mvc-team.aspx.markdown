@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A Little Holiday Love From The ASP.NET MVC Team
 date: 2008-12-19 -0800
-comments: true
 disqus_identifier: 18566
 categories:
 - asp.net

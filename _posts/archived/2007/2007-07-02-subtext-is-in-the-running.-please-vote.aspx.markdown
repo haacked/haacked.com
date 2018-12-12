@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Subtext Is In The Running. Please Vote.
 date: 2007-07-02 -0800
-comments: true
 disqus_identifier: 18364
 categories: []
 redirect_from: "/archive/2007/07/01/subtext-is-in-the-running.-please-vote.aspx/"

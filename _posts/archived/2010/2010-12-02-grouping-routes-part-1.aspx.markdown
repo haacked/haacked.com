@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Grouping Routes Part 1
 date: 2010-12-02 -0800
-comments: true
 disqus_identifier: 18743
 categories:
 - asp.net

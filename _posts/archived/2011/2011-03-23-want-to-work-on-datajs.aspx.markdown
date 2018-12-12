@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Want to work on datajs?
 date: 2011-03-23 -0800
-comments: true
 disqus_identifier: 18769
 categories:
 - code

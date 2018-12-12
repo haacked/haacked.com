@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Mr Subsonic Joins Microsoft
 date: 2007-10-26 -0800
-comments: true
 disqus_identifier: 18411
 categories: [microsoft work]
 redirect_from: "/archive/2007/10/25/mr-subsonic-joins-microsoft.aspx/"

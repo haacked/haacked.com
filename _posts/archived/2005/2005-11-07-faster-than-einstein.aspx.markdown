@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Faster than Einstein
 date: 2005-11-07 -0800
-comments: true
 disqus_identifier: 11154
 categories: []
 redirect_from: "/archive/2005/11/06/faster-than-einstein.aspx/"

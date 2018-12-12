@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Reviews of Fahrenheit 9/11
 date: 2004-06-21 -0800
-comments: true
 disqus_identifier: 656
 categories: []
 redirect_from: "/archive/2004/06/20/reviews-of-fahrenheit-911.aspx/"

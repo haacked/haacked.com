@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Moq Sequences Revisited
 date: 2010-11-24 -0800
-comments: true
 disqus_identifier: 18741
 categories:
 - tdd

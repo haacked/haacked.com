@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Thanks for the Well Wishes
 date: 2005-05-29 -0800
-comments: true
 disqus_identifier: 3922
 categories: []
 redirect_from: "/archive/2005/05/28/thanks-for-the-well-wishes.aspx/"

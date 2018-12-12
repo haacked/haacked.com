@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Man I Love Blogging.
 date: 2004-08-18 -0800
-comments: true
 disqus_identifier: 947
 categories:
 - personal

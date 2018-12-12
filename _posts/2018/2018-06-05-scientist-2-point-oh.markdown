@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Scientist.NET 2.0 Release"
 date: 2018-06-05 -0800
-comments: true
 categories: [github csharp dotnet scientist]
 ---
 

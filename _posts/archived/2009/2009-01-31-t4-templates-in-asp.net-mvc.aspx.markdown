@@ -1,8 +1,6 @@
 ---
-layout: post
 title: T4 Templates in ASP.NET MVC
 date: 2009-01-31 -0800
-comments: true
 disqus_identifier: 18585
 categories:
 - asp.net

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "An Abstract Boilerplate HttpHandler"
 date: 2005-03-17 -0800
-comments: true
 categories: []
 ---
 <meta http-equiv="refresh" content="0; url=https://haacked.com/archive/2005/03/17/AnAbstractBoilerplateHttpHandler.aspx/">

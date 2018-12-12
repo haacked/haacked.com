@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "A less terrible .NET project build with NuGet"
 date: 2014-04-15 13:36 -0800
-comments: true
 categories: [nuget]
 ---
 

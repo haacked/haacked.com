@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The State of NuGet
 date: 2012-02-08 -0800
-comments: true
 disqus_identifier: 18845
 categories:
 - nuget

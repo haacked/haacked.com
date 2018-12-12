@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Rolling Your Own Blog Engine
 date: 2006-10-06 -0800
-comments: true
 disqus_identifier: 17779
 categories: []
 redirect_from: "/archive/2006/10/05/Rolling_Your_Own_Blog_Engine.aspx/"

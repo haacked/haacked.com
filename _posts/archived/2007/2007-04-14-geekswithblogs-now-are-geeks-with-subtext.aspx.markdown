@@ -1,8 +1,6 @@
 ---
-layout: post
 title: GeeksWithBlogs Now Are Geeks With Subtext
 date: 2007-04-14 -0800
-comments: true
 disqus_identifier: 18281
 categories: [subtext blogging]
 redirect_from: "/archive/2007/04/13/geekswithblogs-now-are-geeks-with-subtext.aspx/"

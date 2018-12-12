@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'Cool Video: Balloon Bowl'
 date: 2005-08-15 -0800
-comments: true
 disqus_identifier: 9453
 categories: []
 redirect_from: "/archive/2005/08/14/cool-video-balloon-bowl.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: An Amendment To Save Marriages
 date: 2004-02-27 -0800
-comments: true
 disqus_identifier: 214
 categories:
 - personal

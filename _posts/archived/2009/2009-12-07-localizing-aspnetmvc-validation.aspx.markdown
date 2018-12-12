@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Localizing ASP.NET MVC Validation
 date: 2009-12-07 -0800
-comments: true
 disqus_identifier: 18664
 redirect_from:
 - "/archive/2009/12/12/localizing-aspnetmvc-validation.aspx.html"

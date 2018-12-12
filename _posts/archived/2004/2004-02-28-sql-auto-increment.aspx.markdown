@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'SQL TIP: Auto Increment in an UPDATE statement.'
 date: 2004-02-28 -0800
-comments: true
 disqus_identifier: 215
 categories:
 - code

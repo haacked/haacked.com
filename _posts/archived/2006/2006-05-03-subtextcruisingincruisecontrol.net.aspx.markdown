@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Subtext Cruising In CruiseControl.NET
 date: 2006-05-03 -0800
-comments: true
 disqus_identifier: 12652
 categories: []
 redirect_from: "/archive/2006/05/02/subtextcruisingincruisecontrol.net.aspx/"

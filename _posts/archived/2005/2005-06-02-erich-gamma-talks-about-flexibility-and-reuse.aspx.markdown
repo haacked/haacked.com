@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Erich Gamma Talks About Flexibility and Reuse
 date: 2005-06-02 -0800
-comments: true
 disqus_identifier: 3988
 categories: []
 redirect_from: "/archive/2005/06/01/erich-gamma-talks-about-flexibility-and-reuse.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Better Git with PowerShell
 date: 2011-12-13 -0800
-comments: true
 disqus_identifier: 18833
 categories:
 - code

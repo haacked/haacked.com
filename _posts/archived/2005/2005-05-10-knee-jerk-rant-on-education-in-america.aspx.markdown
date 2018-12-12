@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Knee-Jerk Rant On Education in America
 date: 2005-05-10 -0800
-comments: true
 disqus_identifier: 3149
 categories: []
 redirect_from: "/archive/2005/05/09/knee-jerk-rant-on-education-in-america.aspx/"

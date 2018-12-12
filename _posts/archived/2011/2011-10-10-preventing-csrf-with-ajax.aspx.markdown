@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Preventing CSRF With Ajax
 date: 2011-10-10 -0800
-comments: true
 disqus_identifier: 18817
 categories:
 - asp.net mvc

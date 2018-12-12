@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Interviewing
 date: 2004-09-24 -0800
-comments: true
 disqus_identifier: 1268
 categories: []
 redirect_from: "/archive/2004/09/23/interviewing.aspx/"

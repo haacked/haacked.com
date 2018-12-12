@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Good News! I'm going to Tech-Ed!!!
 date: 2004-05-01 -0800
-comments: true
 disqus_identifier: 397
 categories: []
 redirect_from: "/archive/2004/04/30/good-news-im-going-to-tech-ed.aspx/"

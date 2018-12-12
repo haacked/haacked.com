@@ -1,8 +1,6 @@
 ---
-layout: post
 title: U.S. Minority Groups on Rise by 2050
 date: 2004-03-17 -0800
-comments: true
 disqus_identifier: 262
 categories:
 - personal

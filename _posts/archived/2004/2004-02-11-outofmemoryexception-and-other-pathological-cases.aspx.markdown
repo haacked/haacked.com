@@ -1,8 +1,6 @@
 ---
-layout: post
 title: OutOfMemoryException and other pathological cases
 date: 2004-02-11 -0800
-comments: true
 disqus_identifier: 189
 categories:
 - csharp dotnet

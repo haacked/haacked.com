@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Threaten To Quit And Be Rewarded - On Implicit Policies
 date: 2006-05-24 -0800
-comments: true
 disqus_identifier: 12937
 categories:
 - company culture

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Concatenating Delimited Strings With Generic Delegates
 date: 2006-11-24 -0800
-comments: true
 disqus_identifier: 18145
 categories: []
 redirect_from:

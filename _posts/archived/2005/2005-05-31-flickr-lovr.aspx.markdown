@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Flickr Lovr
 date: 2005-05-31 -0800
-comments: true
 disqus_identifier: 3962
 categories: []
 redirect_from: "/archive/2005/05/30/flickr-lovr.aspx/"

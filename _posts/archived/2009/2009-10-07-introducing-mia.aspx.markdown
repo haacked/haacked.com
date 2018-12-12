@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Introducing Mia Yokoyama Haack
 date: 2009-10-07 -0800
-comments: true
 disqus_identifier: 18647
 categories: []
 redirect_from: "/archive/2009/10/06/introducing-mia.aspx/"

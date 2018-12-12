@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Pictures Of The Day
 date: 2006-08-15 -0800
-comments: true
 disqus_identifier: 14973
 categories: []
 redirect_from: "/archive/2006/08/14/PicturesOfTheDay.aspx/"

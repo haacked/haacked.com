@@ -1,9 +1,7 @@
 ---
-layout: post
 title: 'Letterman&rsquo;s Top Ten List: &#8220;Top Ten George W. Bush Complaints About
   &quot;Fahrenheit 9/11&quot;'
 date: 2004-07-05 -0800
-comments: true
 disqus_identifier: 771
 categories: []
 redirect_from: "/archive/2004/07/04/letterman-rsquos-top-ten-list--8220top-ten-george-w-bush-complaints-about-fahrenheit-911.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Model Binding Decimal Values
 date: 2011-03-19 -0800
-comments: true
 disqus_identifier: 18768
 categories:
 - asp.net mvc

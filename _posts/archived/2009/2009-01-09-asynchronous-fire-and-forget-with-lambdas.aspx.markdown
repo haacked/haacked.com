@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Asynchronous Fire and Forget With Lambdas
 date: 2009-01-09 -0800
-comments: true
 disqus_identifier: 18572
 categories:
 - code

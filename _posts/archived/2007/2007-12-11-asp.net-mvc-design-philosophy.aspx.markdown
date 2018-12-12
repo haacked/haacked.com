@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET MVC Design Philosophy
 date: 2007-12-11 -0800
-comments: true
 disqus_identifier: 18436
 categories:
 - asp.net

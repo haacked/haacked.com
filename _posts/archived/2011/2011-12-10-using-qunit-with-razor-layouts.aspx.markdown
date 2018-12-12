@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Using QUnit with Razor Layouts
 date: 2011-12-10 -0800
-comments: true
 disqus_identifier: 18832
 categories:
 - asp.net

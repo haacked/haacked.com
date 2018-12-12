@@ -1,8 +1,6 @@
 ---
-layout: post
 title: How To Get The Calling Method And Type
 date: 2006-08-11 -0800
-comments: true
 disqus_identifier: 14846
 categories: []
 redirect_from: "/archive/2006/08/10/howtogetthecallingmethodandtype.aspx/"

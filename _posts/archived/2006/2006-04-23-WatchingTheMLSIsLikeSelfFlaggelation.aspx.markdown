@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Watching The MLS Is Like Self Flaggelation
 date: 2006-04-23 -0800
-comments: true
 disqus_identifier: 12543
 categories: []
 redirect_from: "/archive/2006/04/22/WatchingTheMLSIsLikeSelfFlaggelation.aspx/"

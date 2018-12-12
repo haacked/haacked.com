@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'Quiz Answer: Watch out for the Eeeevil Thread.Abort.'
 date: 2004-11-18 -0800
-comments: true
 disqus_identifier: 1642
 categories: []
 redirect_from: "/archive/2004/11/17/watch-out-for-the-evil-thread-abort.aspx/"

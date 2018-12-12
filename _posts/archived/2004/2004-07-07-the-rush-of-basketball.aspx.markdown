@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Rush Of Basketball
 date: 2004-07-07 -0800
-comments: true
 disqus_identifier: 780
 categories: []
 redirect_from: "/archive/2004/07/06/the-rush-of-basketball.aspx/"

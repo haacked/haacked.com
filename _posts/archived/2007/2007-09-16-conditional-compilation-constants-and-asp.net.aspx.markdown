@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Conditional Compilation Constants and ASP.NET
 date: 2007-09-16 -0800
-comments: true
 disqus_identifier: 18392
 categories:
 - asp.net

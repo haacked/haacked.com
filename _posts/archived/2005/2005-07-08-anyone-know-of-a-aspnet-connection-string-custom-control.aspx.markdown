@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Anyone Know Of a ASP.NET Connection String Custom Control
 date: 2005-07-08 -0800
-comments: true
 disqus_identifier: 7973
 categories: []
 redirect_from: "/archive/2005/07/07/anyone-know-of-a-aspnet-connection-string-custom-control.aspx/"

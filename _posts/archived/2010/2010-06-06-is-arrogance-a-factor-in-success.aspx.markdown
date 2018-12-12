@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Is Arrogance a Factor in Success?
 date: 2010-06-06 -0800
-comments: true
 disqus_identifier: 18705
 categories:
 - personal

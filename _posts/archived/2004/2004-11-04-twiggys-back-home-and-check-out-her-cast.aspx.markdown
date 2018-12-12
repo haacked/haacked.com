@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Twiggy's Back Home and Check Out Her Cast
 date: 2004-11-04 -0800
-comments: true
 disqus_identifier: 1572
 categories: []
 redirect_from: "/archive/2004/11/03/twiggys-back-home-and-check-out-her-cast.aspx/"

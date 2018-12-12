@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Drove Down to San Diego
 date: 2005-05-14 -0800
-comments: true
 disqus_identifier: 3228
 categories: []
 redirect_from: "/archive/2005/05/13/drove-down-to-san-diego.aspx/"

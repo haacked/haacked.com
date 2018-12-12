@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Subtext Skins Gallery at SubtextSkins.com
 date: 2006-08-31 -0800
-comments: true
 disqus_identifier: 16241
 categories: []
 redirect_from: "/archive/2006/08/30/Subtext_Skins_Gallery_at_SubtextSkins.com.aspx/"

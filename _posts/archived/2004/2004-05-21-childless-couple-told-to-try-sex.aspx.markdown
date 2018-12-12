@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Childless couple told to try sex
 date: 2004-05-21 -0800
-comments: true
 disqus_identifier: 463
 categories: []
 redirect_from: "/archive/2004/05/20/childless-couple-told-to-try-sex.aspx/"

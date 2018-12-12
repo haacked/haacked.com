@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Why Is Microsoft Removing My MVP Status?
 date: 2007-09-17 -0800
-comments: true
 disqus_identifier: 18393
 categories:
 - personal

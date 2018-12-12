@@ -1,8 +1,6 @@
 ---
-layout: post
 title: License your code
 date: 2013-07-17 -0800
-comments: true
 disqus_identifier: 18896
 categories:
 - open source

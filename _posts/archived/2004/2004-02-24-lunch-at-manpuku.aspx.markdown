@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Lunch
 date: 2004-02-24 -0800
-comments: true
 disqus_identifier: 210
 categories: []
 redirect_from: "/archive/2004/02/23/lunch-at-manpuku.aspx/"

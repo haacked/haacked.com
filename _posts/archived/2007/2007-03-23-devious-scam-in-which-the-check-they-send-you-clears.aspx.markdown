@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Devious Scam In Which The Check They Send You Clears
 date: 2007-03-23 -0800
-comments: true
 disqus_identifier: 18258
 categories: []
 redirect_from: "/archive/2007/03/22/devious-scam-in-which-the-check-they-send-you-clears.aspx/"

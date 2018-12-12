@@ -1,8 +1,6 @@
 ---
-layout: post
 title: In Need Of A Phil-Proof Alarm Clock
 date: 2004-08-22 -0800
-comments: true
 disqus_identifier: 960
 categories: []
 redirect_from: "/archive/2004/08/21/in-need-of-a-phil-proof-alarm-clock.aspx/"

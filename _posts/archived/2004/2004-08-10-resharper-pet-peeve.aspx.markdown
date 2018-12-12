@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Resharper Pet Peeve
 date: 2004-08-10 -0800
-comments: true
 disqus_identifier: 913
 categories: []
 redirect_from: "/archive/2004/08/09/resharper-pet-peeve.aspx/"

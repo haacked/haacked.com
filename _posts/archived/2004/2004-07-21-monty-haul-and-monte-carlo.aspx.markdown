@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Monty Hall Problem and Monte Carlo simulations
 date: 2004-07-21 -0800
-comments: true
 disqus_identifier: 836
 categories: []
 redirect_from: "/archive/2004/07/20/monty-haul-and-monte-carlo.aspx/"

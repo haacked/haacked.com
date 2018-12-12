@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Fatwa Against Soccer
 date: 2005-10-16 -0800
-comments: true
 disqus_identifier: 10829
 categories: []
 redirect_from: "/archive/2005/10/15/fatwa-against-soccer.aspx/"

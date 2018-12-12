@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Redirect Routes and other Fun With Routing And Lambdas
 date: 2008-12-15 -0800
-comments: true
 disqus_identifier: 18565
 categories:
 - asp.net mvc

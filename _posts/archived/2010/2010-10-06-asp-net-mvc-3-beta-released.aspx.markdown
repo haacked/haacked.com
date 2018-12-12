@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET MVC 3 Beta Released
 date: 2010-10-06 -0800
-comments: true
 disqus_identifier: 18723
 categories:
 - asp.net mvc

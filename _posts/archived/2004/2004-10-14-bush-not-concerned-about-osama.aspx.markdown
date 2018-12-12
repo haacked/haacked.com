@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Bush Not Concerned About Osama
 date: 2004-10-14 -0800
-comments: true
 disqus_identifier: 1356
 categories: []
 redirect_from: "/archive/2004/10/13/bush-not-concerned-about-osama.aspx/"

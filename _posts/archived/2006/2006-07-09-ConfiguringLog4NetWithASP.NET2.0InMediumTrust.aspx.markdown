@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Configuring Log4Net with ASP.NET 2.0 in Medium Trust
 date: 2006-07-09 -0800
-comments: true
 disqus_identifier: 13766
 categories:
 - log4net logging aspnet

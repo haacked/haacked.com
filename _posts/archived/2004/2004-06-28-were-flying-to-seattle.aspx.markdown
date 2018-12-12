@@ -1,8 +1,6 @@
 ---
-layout: post
 title: We're Flying To Seattle
 date: 2004-06-28 -0800
-comments: true
 disqus_identifier: 707
 categories: []
 redirect_from: "/archive/2004/06/27/were-flying-to-seattle.aspx/"

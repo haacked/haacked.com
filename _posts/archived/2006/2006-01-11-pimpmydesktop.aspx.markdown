@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Pimp My Desktop
 date: 2006-01-11 -0800
-comments: true
 disqus_identifier: 11475
 categories:
 - personal

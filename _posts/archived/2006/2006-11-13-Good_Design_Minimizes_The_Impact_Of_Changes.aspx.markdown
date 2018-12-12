@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Good Design Minimizes The Impact Of Changes
 date: 2006-11-13 -0800
-comments: true
 disqus_identifier: 18136
 categories: []
 redirect_from: "/archive/2006/11/12/Good_Design_Minimizes_The_Impact_Of_Changes.aspx/"

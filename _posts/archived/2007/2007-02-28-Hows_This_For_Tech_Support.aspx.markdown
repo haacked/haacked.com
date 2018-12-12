@@ -1,8 +1,6 @@
 ---
-layout: post
 title: How's This For Tech Support?
 date: 2007-02-28 -0800
-comments: true
 disqus_identifier: 18221
 categories: []
 redirect_from: "/archive/2007/02/27/Hows_This_For_Tech_Support.aspx/"

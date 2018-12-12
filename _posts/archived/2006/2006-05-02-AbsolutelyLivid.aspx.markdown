@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Absolutely Livid
 date: 2006-05-02 -0800
-comments: true
 disqus_identifier: 12631
 categories:
 - personal

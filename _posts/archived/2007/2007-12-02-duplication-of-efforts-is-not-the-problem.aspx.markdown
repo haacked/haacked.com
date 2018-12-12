@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Duplication of Efforts Is Not The Problem
 date: 2007-12-02 -0800
-comments: true
 disqus_identifier: 18429
 categories: []
 redirect_from: "/archive/2007/12/01/duplication-of-efforts-is-not-the-problem.aspx/"

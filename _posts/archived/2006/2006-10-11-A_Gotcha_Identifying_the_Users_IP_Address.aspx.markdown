@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A Gotcha Identifying the User's IP Address
 date: 2006-10-11 -0800
-comments: true
 disqus_identifier: 18027
 categories: []
 redirect_from: "/archive/2006/10/10/A_Gotcha_Identifying_the_Users_IP_Address.aspx/"

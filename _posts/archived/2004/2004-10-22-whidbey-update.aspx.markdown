@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Whidbey Update
 date: 2004-10-22 -0800
-comments: true
 disqus_identifier: 1457
 categories: []
 redirect_from: "/archive/2004/10/21/whidbey-update.aspx/"

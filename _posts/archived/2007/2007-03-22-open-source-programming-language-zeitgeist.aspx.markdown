@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Open Source Programming Language Zeitgeist
 date: 2007-03-22 -0800
-comments: true
 disqus_identifier: 18257
 categories: []
 redirect_from: "/archive/2007/03/21/open-source-programming-language-zeitgeist.aspx/"

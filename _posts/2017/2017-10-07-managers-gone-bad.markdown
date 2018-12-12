@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Why do managers go bad?"
 date: 2017-10-07 -0800 4:17 PM PDT
-comments: true
 categories: [leadership management]
 ---
 

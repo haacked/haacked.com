@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Misperceptions of Open Source
 date: 2006-01-16 -0800
-comments: true
 disqus_identifier: 11521
 categories: []
 redirect_from: "/archive/2006/01/15/MisperceptionsofOpenSource.aspx/"

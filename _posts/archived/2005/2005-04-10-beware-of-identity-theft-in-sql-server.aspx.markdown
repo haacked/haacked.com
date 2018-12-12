@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Beware of @@Identity Theft in SQL Server
 date: 2005-04-10 -0800
-comments: true
 disqus_identifier: 2627
 categories:
 - sql

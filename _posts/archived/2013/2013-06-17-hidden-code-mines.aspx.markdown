@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Hidden Code Mines
 date: 2013-06-17 -0800
-comments: true
 disqus_identifier: 18891
 categories:
 - code

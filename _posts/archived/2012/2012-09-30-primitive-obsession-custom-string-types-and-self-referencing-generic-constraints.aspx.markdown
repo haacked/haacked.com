@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Primitive Obsession, Custom String Types, and Self Referencing Generic Constraints
 date: 2012-09-30 -0800
-comments: true
 disqus_identifier: 18869
 categories:
 - code

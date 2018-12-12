@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Very Last Configuration Section Handler I'll Ever Need
 date: 2004-06-24 -0800
-comments: true
 disqus_identifier: 679
 categories: [aspnet config]
 redirect_from: "/archive/2004/06/23/verylastconfigurationsectionhandler.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: This is So Me
 date: 2004-10-29 -0800
-comments: true
 disqus_identifier: 1530
 categories: []
 redirect_from: "/archive/2004/10/28/this-is-so-me.aspx/"

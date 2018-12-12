@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Dr. Jekyll and Mr. Haack"
 date: 2013-12-02 08:18:39 -0800
-comments: true
 categories: [blogging jekyll]
 ---
 

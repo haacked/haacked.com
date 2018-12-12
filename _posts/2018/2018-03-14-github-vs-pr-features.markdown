@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "PR information at your fingertips"
 date: 2018-03-15 -0800
-comments: true
 categories: [github VisualStudio pull-request]
 ---
 

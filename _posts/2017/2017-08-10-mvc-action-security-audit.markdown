@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Auditing ASP.NET MVC Actions"
 date: 2017-08-10 -0800
-comments: true
 categories: [aspnetmvc security]
 ---
 

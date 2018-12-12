@@ -1,8 +1,6 @@
 ---
-layout: post
 title: I Love To Code
 date: 2008-12-29 -0800
-comments: true
 disqus_identifier: 18567
 categories:
 - code

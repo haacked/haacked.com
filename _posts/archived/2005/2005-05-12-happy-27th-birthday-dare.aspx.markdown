@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Happy 27th Birthday Dare!
 date: 2005-05-12 -0800
-comments: true
 disqus_identifier: 3197
 categories: []
 redirect_from: "/archive/2005/05/11/happy-27th-birthday-dare.aspx/"

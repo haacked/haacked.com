@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Mile High Overview Of Subtext Skinning
 date: 2006-08-26 -0800
-comments: true
 disqus_identifier: 16091
 categories:
 - subtext

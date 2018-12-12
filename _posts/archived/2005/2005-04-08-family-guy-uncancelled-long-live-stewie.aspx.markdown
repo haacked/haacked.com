@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Family Guy Uncancelled. Long Live Stewie!
 date: 2005-04-08 -0800
-comments: true
 disqus_identifier: 2602
 categories: []
 redirect_from: "/archive/2005/04/07/family-guy-uncancelled-long-live-stewie.aspx/"

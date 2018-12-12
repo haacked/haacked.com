@@ -1,8 +1,6 @@
 ---
-layout: post
 title: How To Talk To Employees
 date: 2012-08-03 -0800
-comments: true
 disqus_identifier: 18865
 categories:
 - company culture

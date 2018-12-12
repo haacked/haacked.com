@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Atwood Is Preaching And I'm In The Choir
 date: 2006-08-15 -0800
-comments: true
 disqus_identifier: 14977
 categories: []
 redirect_from: "/archive/2006/08/14/AtwoodIsPreachingAndImInTheChoir.aspx/"

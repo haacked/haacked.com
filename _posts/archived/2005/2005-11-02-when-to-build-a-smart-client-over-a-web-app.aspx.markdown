@@ -1,8 +1,6 @@
 ---
-layout: post
 title: When to Build a Smart Client Over a Web App
 date: 2005-11-02 -0800
-comments: true
 disqus_identifier: 11099
 categories: []
 redirect_from: "/archive/2005/11/01/when-to-build-a-smart-client-over-a-web-app.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Fixing AutoLink - Give Users Control
 date: 2005-02-22 -0800
-comments: true
 disqus_identifier: 2170
 categories: []
 redirect_from: "/archive/2005/02/21/fixing-autolink--give-users-control.aspx/"

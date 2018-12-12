@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Creating Self Contained NUnit Tests Requiring A Web Server
 date: 2004-11-30 -0800
-comments: true
 disqus_identifier: 1687
 categories:
 - code

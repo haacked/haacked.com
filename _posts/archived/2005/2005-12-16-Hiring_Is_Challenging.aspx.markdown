@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Hiring Is Challenging
 date: 2005-12-16 -0800
-comments: true
 disqus_identifier: 11351
 categories: []
 redirect_from: "/archive/2005/12/15/Hiring_Is_Challenging.aspx/"

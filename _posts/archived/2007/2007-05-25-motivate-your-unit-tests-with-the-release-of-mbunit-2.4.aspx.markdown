@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Motivate Your Unit Tests With the Release of MbUnit 2.4
 date: 2007-05-25 -0800
-comments: true
 disqus_identifier: 18331
 categories: []
 redirect_from: "/archive/2007/05/24/motivate-your-unit-tests-with-the-release-of-mbunit-2.4.aspx/"

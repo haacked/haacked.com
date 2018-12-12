@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Slight Redesign of Haacked.com
 date: 2005-04-04 -0800
-comments: true
 disqus_identifier: 2538
 categories: []
 redirect_from: "/archive/2005/04/03/slight-redesign-of-haackedcom.aspx/"

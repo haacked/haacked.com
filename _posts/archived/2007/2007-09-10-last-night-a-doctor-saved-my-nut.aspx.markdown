@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Last Night A Doctor Saved My Nut
 date: 2007-09-10 -0800
-comments: true
 disqus_identifier: 18388
 categories: []
 redirect_from: "/archive/2007/09/09/last-night-a-doctor-saved-my-nut.aspx/"

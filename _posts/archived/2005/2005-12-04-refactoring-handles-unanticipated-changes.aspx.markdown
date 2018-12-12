@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Refactoring Handles Unanticipated Changes
 date: 2005-12-04 -0800
-comments: true
 disqus_identifier: 11295
 categories: []
 redirect_from: "/archive/2005/12/03/refactoring-handles-unanticipated-changes.aspx/"

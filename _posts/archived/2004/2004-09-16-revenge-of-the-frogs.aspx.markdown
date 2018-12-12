@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Revenge Of The Frogs
 date: 2004-09-16 -0800
-comments: true
 disqus_identifier: 1224
 categories: []
 redirect_from: "/archive/2004/09/15/revenge-of-the-frogs.aspx/"

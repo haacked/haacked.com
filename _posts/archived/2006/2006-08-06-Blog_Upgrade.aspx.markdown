@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Blog Upgrade
 date: 2006-08-06 -0800
-comments: true
 disqus_identifier: 14688
 categories: []
 redirect_from: "/archive/2006/08/05/Blog_Upgrade.aspx/"

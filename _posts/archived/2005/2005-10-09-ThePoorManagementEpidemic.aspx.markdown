@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Poor Management Epidemic
 date: 2005-10-09 -0800
-comments: true
 disqus_identifier: 10657
 categories: []
 redirect_from: "/archive/2005/10/08/ThePoorManagementEpidemic.aspx/"

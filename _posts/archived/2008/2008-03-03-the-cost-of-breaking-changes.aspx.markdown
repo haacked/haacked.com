@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Cost Of Breaking Changes
 date: 2008-03-03 -0800
-comments: true
 disqus_identifier: 18459
 categories: [code versioning]
 redirect_from: "/archive/2008/03/02/the-cost-of-breaking-changes.aspx/"

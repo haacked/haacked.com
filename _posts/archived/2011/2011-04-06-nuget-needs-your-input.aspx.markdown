@@ -1,8 +1,6 @@
 ---
-layout: post
 title: NuGet Needs Your Input
 date: 2011-04-06 -0800
-comments: true
 disqus_identifier: 18772
 categories:
 - nuget

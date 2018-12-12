@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "[SQL] Create a Job to Backup and FTP Your Database"
 date: 2006-04-22 -0800
-comments: true
 disqus_identifier: 12515
 categories: []
 redirect_from: "/archive/2006/04/21/sqlcreateajobtobackupandftpyourdatabase.aspx/"

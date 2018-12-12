@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Interview with me on the ASP.NET Podcast Show
 date: 2007-12-14 -0800
-comments: true
 disqus_identifier: 18439
 categories:
 - code

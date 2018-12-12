@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The SuperSonic Subtext Build Server
 date: 2007-05-17 -0800
-comments: true
 disqus_identifier: 18316
 categories: []
 redirect_from: "/archive/2007/05/16/the-supersonic-subtext-build-server.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: RSS Bandit Code Documentation (CHM)
 date: 2004-11-11 -0800
-comments: true
 disqus_identifier: 1601
 categories: []
 redirect_from: "/archive/2004/11/10/rss-bandit-code-documentation-chm.aspx/"

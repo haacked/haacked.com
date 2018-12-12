@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Remote Desktop On A Non-Standard Port
 date: 2006-10-16 -0800
-comments: true
 disqus_identifier: 18090
 categories:
 - tech

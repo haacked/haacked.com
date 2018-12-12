@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "A .NET port of Scientist"
 date: 2016-01-20 -0800
-comments: true
 categories: [github csharp dotnet scientist]
 ---
 

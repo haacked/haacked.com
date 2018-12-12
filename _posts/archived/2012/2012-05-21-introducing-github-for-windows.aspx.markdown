@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Introducing GitHub For Windows
 date: 2012-05-21 -0800
-comments: true
 disqus_identifier: 18858
 categories:
 - github

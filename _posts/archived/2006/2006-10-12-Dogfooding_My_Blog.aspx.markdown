@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Dogfooding My Blog
 date: 2006-10-12 -0800
-comments: true
 disqus_identifier: 18088
 categories: []
 redirect_from: "/archive/2006/10/11/Dogfooding_My_Blog.aspx/"

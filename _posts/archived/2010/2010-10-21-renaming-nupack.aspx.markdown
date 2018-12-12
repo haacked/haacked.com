@@ -1,8 +1,6 @@
 ---
-layout: post
 title: We&rsquo;re Renaming NuPack
 date: 2010-10-21 -0800
-comments: true
 disqus_identifier: 18729
 categories:
 - nuget

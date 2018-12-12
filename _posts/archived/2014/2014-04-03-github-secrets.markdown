@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "GitHub Secrets Talk"
 date: 2014-04-03 -0800
-comments: true
 categories: [personal github]
 ---
 

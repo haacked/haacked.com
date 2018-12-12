@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Dealing With Denial of Service Attacks
 date: 2008-08-22 -0800
-comments: true
 disqus_identifier: 18525
 categories: [security aspnet]
 redirect_from: "/archive/2008/08/21/dealing-with-denial-of-service-attacks.aspx/"

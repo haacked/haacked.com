@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Anatomy Of A Phishing Attack
 date: 2006-05-08 -0800
-comments: true
 disqus_identifier: 12722
 categories: []
 redirect_from: "/archive/2006/05/07/AnatomyOfAPhishingAttack.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Sequoia National Park
 date: 2004-06-22 -0800
-comments: true
 disqus_identifier: 666
 categories: []
 redirect_from: "/archive/2004/06/21/sequoia-national-park.aspx/"

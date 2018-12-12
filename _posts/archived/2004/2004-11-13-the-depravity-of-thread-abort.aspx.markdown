@@ -1,8 +1,6 @@
 ---
-layout: post
 title: More on Terminating Threads and the depravity of Thread.Abort
 date: 2004-11-13 -0800
-comments: true
 disqus_identifier: 1607
 categories: []
 redirect_from: "/archive/2004/11/12/the-depravity-of-thread-abort.aspx/"

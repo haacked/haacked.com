@@ -1,8 +1,6 @@
 ---
-layout: post
 title: My Vain Dog
 date: 2006-01-06 -0800
-comments: true
 disqus_identifier: 11428
 categories: []
 redirect_from: "/archive/2006/01/05/my-vain-dog.aspx/"

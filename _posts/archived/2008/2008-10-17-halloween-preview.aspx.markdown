@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Halloween Preview
 date: 2008-10-17 -0800
-comments: true
 disqus_identifier: 18541
 categories:
 - personal

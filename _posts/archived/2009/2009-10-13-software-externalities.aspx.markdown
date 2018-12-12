@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Software Externalities
 date: 2009-10-13 -0800
-comments: true
 disqus_identifier: 18648
 categories: []
 redirect_from: "/archive/2009/10/12/software-externalities.aspx/"

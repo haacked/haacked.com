@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Be sure to ask Snoop
 date: 2004-03-16 -0800
-comments: true
 disqus_identifier: 260
 categories:
 - humor

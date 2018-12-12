@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Building a Self Updating Site Using NuGet
 date: 2011-01-15 -0800
-comments: true
 disqus_identifier: 18757
 categories:
 - asp.net mvc

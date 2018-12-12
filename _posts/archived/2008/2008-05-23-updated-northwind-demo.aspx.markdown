@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Updated Northwind Demo For ASP.NET MVC Beta
 date: 2008-05-23 -0800
-comments: true
 disqus_identifier: 18488
 categories:
 - asp.net

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: rel=&quot;willfollowforfood&quot;
 date: 2005-01-20 -0800
-comments: true
 disqus_identifier: 1968
 categories: []
 redirect_from: "/archive/2005/01/19/relwillfollowforfood.aspx/"

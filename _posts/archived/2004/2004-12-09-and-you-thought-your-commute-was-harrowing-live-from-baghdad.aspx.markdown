@@ -1,8 +1,6 @@
 ---
-layout: post
 title: And You Thought Your Commute Was Harrowing.  Live From Baghdad...
 date: 2004-12-09 -0800
-comments: true
 disqus_identifier: 1727
 categories: []
 redirect_from: "/archive/2004/12/08/and-you-thought-your-commute-was-harrowing-live-from-baghdad.aspx/"

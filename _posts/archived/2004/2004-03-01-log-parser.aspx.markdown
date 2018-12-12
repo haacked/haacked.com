@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Log Parser
 date: 2004-03-01 -0800
-comments: true
 disqus_identifier: 218
 categories: []
 redirect_from: "/archive/2004/02/29/log-parser.aspx/"

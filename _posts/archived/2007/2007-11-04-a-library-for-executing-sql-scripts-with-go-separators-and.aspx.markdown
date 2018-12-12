@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A Library For Executing SQL Scripts With GO Separators and Template Parameters
 date: 2007-11-04 -0800
-comments: true
 disqus_identifier: 18416
 categories:
 - code

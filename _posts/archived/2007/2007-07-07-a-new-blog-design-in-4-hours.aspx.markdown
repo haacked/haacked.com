@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A New Blog Design In 4 Hours
 date: 2007-07-07 -0800
-comments: true
 disqus_identifier: 18365
 categories:
 - subtext

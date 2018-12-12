@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Any Non-Techie Readers?
 date: 2006-02-26 -0800
-comments: true
 disqus_identifier: 11894
 categories: []
 redirect_from: "/archive/2006/02/25/AnyNon-TechieReaders.aspx/"

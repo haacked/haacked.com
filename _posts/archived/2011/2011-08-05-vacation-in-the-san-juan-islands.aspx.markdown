@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Vacation in the San Juan Islands
 date: 2011-08-05 -0800
-comments: true
 disqus_identifier: 18804
 categories:
 - personal

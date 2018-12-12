@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Log4Net Patch For ConnectionStrings
 date: 2006-08-07 -0800
-comments: true
 disqus_identifier: 14756
 categories: []
 redirect_from: "/archive/2006/08/06/Log4NetPatchForConnectionStrings.aspx/"

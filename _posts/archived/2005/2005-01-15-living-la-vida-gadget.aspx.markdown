@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Living La Vida Gadget
 date: 2005-01-15 -0800
-comments: true
 disqus_identifier: 1872
 categories: []
 redirect_from: "/archive/2005/01/14/living-la-vida-gadget.aspx/"

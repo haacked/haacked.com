@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Real Shaolin Soccer
 date: 2006-08-27 -0800
-comments: true
 disqus_identifier: 16098
 categories: []
 redirect_from: "/archive/2006/08/26/The_Real_Shaolin_Soccer.aspx/"

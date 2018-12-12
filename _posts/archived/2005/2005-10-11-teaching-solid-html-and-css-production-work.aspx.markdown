@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Teaching Solid HTML and CSS Production Work
 date: 2005-10-11 -0800
-comments: true
 disqus_identifier: 10725
 categories: []
 redirect_from: "/archive/2005/10/10/teaching-solid-html-and-css-production-work.aspx/"

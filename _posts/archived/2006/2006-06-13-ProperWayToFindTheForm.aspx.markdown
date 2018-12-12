@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Proper Way To Find The Form
 date: 2006-06-13 -0800
-comments: true
 disqus_identifier: 13303
 categories:
 - code

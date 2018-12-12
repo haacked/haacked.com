@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Who Owns the Copyright for An Open Source Project
 date: 2006-01-26 -0800
-comments: true
 disqus_identifier: 11589
 categories:
 - open source

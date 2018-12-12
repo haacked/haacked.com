@@ -1,8 +1,6 @@
 ---
-layout: post
 title: And The Award To The Funniest Commenter On This Blog Goes To
 date: 2006-03-22 -0800
-comments: true
 disqus_identifier: 12143
 categories: []
 redirect_from: "/archive/2006/03/21/AndTheAwardToTheFunniestCommenterOnThisBlogGoesTo.aspx/"

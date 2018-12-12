@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Embedding Unit tests
 date: 2004-04-07 -0800
-comments: true
 disqus_identifier: 309
 categories: []
 redirect_from: "/archive/2004/04/06/embedding-unit-tests.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Staples In My Head
 date: 2006-01-08 -0800
-comments: true
 disqus_identifier: 11445
 categories:
 - personal

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Buy Our Book And Become An ASP.NET Bad Ass
 date: 2007-09-18 -0800
-comments: true
 disqus_identifier: 18394
 categories: [books aspnet]
 redirect_from: "/archive/2007/09/17/buy-our-book-and-become-an-asp.net-bad-ass.aspx/"

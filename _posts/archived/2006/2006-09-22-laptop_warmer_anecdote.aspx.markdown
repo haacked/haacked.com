@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Laptop Warmer Anecdote
 date: 2006-09-22 -0800
-comments: true
 disqus_identifier: 17061
 categories: []
 redirect_from: "/archive/2006/09/21/laptop_warmer_anecdote.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Fixing Broken Jekyll URLs"
 date: 2013-12-12 -0800
-comments: true
 categories: [jekyll]
 ---
 Well this is a bit embarrassing.

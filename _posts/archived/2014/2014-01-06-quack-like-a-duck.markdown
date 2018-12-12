@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "But does it quack like a duck?"
 date: 2014-01-06 -0800
-comments: true
 categories: [code]
 ---
 

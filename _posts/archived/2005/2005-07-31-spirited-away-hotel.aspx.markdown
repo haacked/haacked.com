@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Spirited Away Hotel
 date: 2005-07-31 -0800
-comments: true
 disqus_identifier: 9185
 categories: [personal japan tokyo anime]
 redirect_from: "/archive/2005/07/30/spirited-away-hotel.aspx/"

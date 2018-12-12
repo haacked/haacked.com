@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Japan Trip 2008
 date: 2008-10-12 -0800
-comments: true
 disqus_identifier: 18535
 categories:
 - personal

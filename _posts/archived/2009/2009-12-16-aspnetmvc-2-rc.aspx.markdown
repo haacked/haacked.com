@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET MVC 2 RC Released
 date: 2009-12-16 -0800
-comments: true
 disqus_identifier: 18668
 categories:
 - asp.net

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Clubs In L.A. and The Price Of A Drink
 date: 2004-10-06 -0800
-comments: true
 disqus_identifier: 1313
 categories: []
 redirect_from: "/archive/2004/10/05/clubs-in-la-and-the-price-of-a-drink.aspx/"

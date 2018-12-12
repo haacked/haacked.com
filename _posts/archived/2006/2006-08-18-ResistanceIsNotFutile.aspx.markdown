@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Resistance Is Not Futile
 date: 2006-08-18 -0800
-comments: true
 disqus_identifier: 15378
 categories: []
 redirect_from: "/archive/2006/08/17/ResistanceIsNotFutile.aspx/"

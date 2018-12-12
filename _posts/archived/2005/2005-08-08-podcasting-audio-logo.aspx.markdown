@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Podcasting Audio Logo
 date: 2005-08-08 -0800
-comments: true
 disqus_identifier: 9261
 categories: []
 redirect_from: "/archive/2005/08/07/podcasting-audio-logo.aspx/"

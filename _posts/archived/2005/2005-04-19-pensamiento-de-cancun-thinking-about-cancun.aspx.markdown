@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Pensamiento de Cancun (Thinking About Cancun)
 date: 2005-04-19 -0800
-comments: true
 disqus_identifier: 2751
 categories: []
 redirect_from: "/archive/2005/04/18/pensamiento-de-cancun-thinking-about-cancun.aspx/"

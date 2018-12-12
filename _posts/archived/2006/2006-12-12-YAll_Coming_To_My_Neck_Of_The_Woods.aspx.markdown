@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Y'All Coming To My Neck Of The Woods?
 date: 2006-12-12 -0800
-comments: true
 disqus_identifier: 18165
 categories: []
 redirect_from: "/archive/2006/12/11/YAll_Coming_To_My_Neck_Of_The_Woods.aspx/"

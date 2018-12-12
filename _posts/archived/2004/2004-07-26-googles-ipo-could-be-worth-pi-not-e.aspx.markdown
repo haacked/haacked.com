@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Google's IPO Could Be Worth PI, not E
 date: 2004-07-26 -0800
-comments: true
 disqus_identifier: 859
 categories: []
 redirect_from: "/archive/2004/07/25/googles-ipo-could-be-worth-pi-not-e.aspx/"

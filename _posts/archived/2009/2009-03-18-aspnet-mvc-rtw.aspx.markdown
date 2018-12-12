@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET MVC 1.0 Released!
 date: 2009-03-18 -0800
-comments: true
 disqus_identifier: 18598
 categories: [aspnetmvc]
 redirect_from: "/archive/2009/03/17/aspnet-mvc-rtw.aspx/"

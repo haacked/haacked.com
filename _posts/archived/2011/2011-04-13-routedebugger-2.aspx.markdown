@@ -1,8 +1,6 @@
 ---
-layout: post
 title: RouteDebugger 2.0
 date: 2011-04-13 -0800
-comments: true
 disqus_identifier: 18774
 categories:
 - asp.net

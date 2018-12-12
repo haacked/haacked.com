@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Identicon Handler For .NET On CodePlex
 date: 2007-03-19 -0800
-comments: true
 disqus_identifier: 18253
 categories: []
 redirect_from: "/archive/2007/03/18/identicon-handler-for-.net-on-codeplex.aspx/"

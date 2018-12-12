@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Why Store Your Data In A Relational Database?
 date: 2006-06-29 -0800
-comments: true
 disqus_identifier: 13579
 categories:
 - sql

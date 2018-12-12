@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Looking for a JOB?
 date: 2004-04-10 -0800
-comments: true
 disqus_identifier: 316
 categories:
 - personal

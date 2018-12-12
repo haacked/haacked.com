@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Announcing Let Me Bing That For You
 date: 2009-10-16 -0800
-comments: true
 disqus_identifier: 18650
 categories: []
 redirect_from: "/archive/2009/10/15/announcing-let-me-bing-that-for-you.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Turkish İ Problem and Why You Should Care
 date: 2012-07-05 -0800
-comments: true
 disqus_identifier: 18861
 categories:
 - code

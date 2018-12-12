@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Windows Live Writer and Html Entities
 date: 2007-03-23 -0800
-comments: true
 disqus_identifier: 18260
 categories: []
 redirect_from: "/archive/2007/03/22/windows-live-writer-and-html-entities.aspx/"

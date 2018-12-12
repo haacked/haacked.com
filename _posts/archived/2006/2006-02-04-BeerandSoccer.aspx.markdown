@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Beer and Soccer
 date: 2006-02-04 -0800
-comments: true
 disqus_identifier: 11679
 categories: []
 redirect_from: "/archive/2006/02/03/BeerandSoccer.aspx/"

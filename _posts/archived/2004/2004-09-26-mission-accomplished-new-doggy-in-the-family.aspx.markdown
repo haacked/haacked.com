@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Mission Accomplished. New Doggy In The Family.
 date: 2004-09-26 -0800
-comments: true
 disqus_identifier: 1274
 categories: []
 redirect_from: "/archive/2004/09/25/mission-accomplished-new-doggy-in-the-family.aspx/"

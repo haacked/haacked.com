@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'Syntax Highlighting Revisited: SnippetCompiler.'
 date: 2004-06-17 -0800
-comments: true
 disqus_identifier: 642
 categories: []
 redirect_from: "/archive/2004/06/16/syntax-highlighting-revisited-snippetcompiler.aspx/"

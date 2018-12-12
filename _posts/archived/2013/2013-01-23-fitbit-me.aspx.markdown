@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Fitbit Me
 date: 2013-01-23 -0800
-comments: true
 disqus_identifier: 18882
 categories:
 - personal

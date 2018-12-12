@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A Mention on Gizmodo
 date: 2005-08-27 -0800
-comments: true
 disqus_identifier: 9726
 categories: []
 redirect_from: "/archive/2005/08/26/a-mention-on-gizmodo.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Should Corporations Act Purely on Self Interest?
 date: 2005-04-24 -0800
-comments: true
 disqus_identifier: 2818
 categories:
 - company culture

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Interface Inheritance Esoterica
 date: 2009-11-10 -0800
-comments: true
 disqus_identifier: 18658
 categories: []
 redirect_from: "/archive/2009/11/09/interface-inheritance-esoterica.aspx/"

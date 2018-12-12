@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Proposed Extensions To The XFN Microformat
 date: 2006-09-14 -0800
-comments: true
 disqus_identifier: 16623
 categories: []
 redirect_from: "/archive/2006/09/13/Proposed_Extensions_To_The_XFN_Microformat.aspx/"

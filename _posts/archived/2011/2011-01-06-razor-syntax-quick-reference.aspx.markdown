@@ -1,8 +1,6 @@
 ---
-layout: post
 title: C# Razor Syntax Quick Reference
 date: 2011-01-06 -0800
-comments: true
 disqus_identifier: 18753
 categories:
 - asp.net mvc

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Prevent Windows Update Automated Reboots
 date: 2006-02-11 -0800
-comments: true
 disqus_identifier: 11774
 categories: []
 redirect_from: "/archive/2006/02/10/PreventWindowsUpdateAutomatedReboots.aspx/"

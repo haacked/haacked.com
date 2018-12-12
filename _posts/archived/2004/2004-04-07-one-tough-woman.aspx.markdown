@@ -1,8 +1,6 @@
 ---
-layout: post
 title: One Tough woman!
 date: 2004-04-07 -0800
-comments: true
 disqus_identifier: 310
 categories: []
 redirect_from: "/archive/2004/04/06/one-tough-woman.aspx/"

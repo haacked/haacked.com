@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Why You Gotta Love The British
 date: 2006-09-05 -0800
-comments: true
 disqus_identifier: 16316
 categories: []
 redirect_from: "/archive/2006/09/04/Why_You_Gotta_Love_The_British.aspx/"

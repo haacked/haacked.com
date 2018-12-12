@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Why Are Developers So Fat?
 date: 2007-03-21 -0800
-comments: true
 disqus_identifier: 18256
 categories: []
 redirect_from: "/archive/2007/03/20/why-are-developers-so-fat.aspx/"

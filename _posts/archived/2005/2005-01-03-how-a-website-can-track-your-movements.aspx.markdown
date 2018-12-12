@@ -1,8 +1,6 @@
 ---
-layout: post
 title: How a Website Can Track Your Movements
 date: 2005-01-03 -0800
-comments: true
 disqus_identifier: 1806
 categories: []
 redirect_from: "/archive/2005/01/02/how-a-website-can-track-your-movements.aspx/"

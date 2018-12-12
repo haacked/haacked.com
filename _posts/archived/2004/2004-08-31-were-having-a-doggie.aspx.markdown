@@ -1,8 +1,6 @@
 ---
-layout: post
 title: We're Having A Doggie!
 date: 2004-08-31 -0800
-comments: true
 disqus_identifier: 1062
 categories:
 - personal

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: CodeMania Love To Code Keynote
 date: 2012-08-27 -0800
-comments: true
 disqus_identifier: 18866
 categories:
 - community

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: First Wi-Fi theft Case Prosecuted
 date: 2005-07-06 -0800
-comments: true
 disqus_identifier: 7668
 categories: []
 redirect_from: "/archive/2005/07/05/first-wi-fi-theft-case-prosecuted.aspx/"

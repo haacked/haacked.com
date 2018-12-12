@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Requirements and Specs Are Always Ambiguous
 date: 2007-03-08 -0800
-comments: true
 disqus_identifier: 18233
 categories: []
 redirect_from: "/archive/2007/03/07/Specs_Are_Always_Ambiguous.aspx/"

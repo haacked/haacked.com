@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Null Or Empty Coalescing
 date: 2010-06-16 -0800
-comments: true
 disqus_identifier: 18709
 categories:
 - code

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Preflight Checklist
 date: 2011-08-30 -0800
-comments: true
 disqus_identifier: 18812
 categories:
 - personal

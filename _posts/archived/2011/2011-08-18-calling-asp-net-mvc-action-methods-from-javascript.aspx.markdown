@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Calling ASP.NET MVC Action Methods from JavaScript
 date: 2011-08-18 -0800
-comments: true
 disqus_identifier: 18810
 categories:
 - asp.net

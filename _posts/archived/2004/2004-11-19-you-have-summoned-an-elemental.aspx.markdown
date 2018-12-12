@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "&quot;You have summoned an elemental&quot;  The good ol' days of gaming..."
 date: 2004-11-19 -0800
-comments: true
 disqus_identifier: 1658
 categories: []
 redirect_from: "/archive/2004/11/18/you-have-summoned-an-elemental.aspx/"

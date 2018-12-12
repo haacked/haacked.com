@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Jeff Richter's First Blog Entry Ever
 date: 2004-07-07 -0800
-comments: true
 disqus_identifier: 783
 categories: []
 redirect_from: "/archive/2004/07/06/jeff-richters-first-blog-entry-ever.aspx/"

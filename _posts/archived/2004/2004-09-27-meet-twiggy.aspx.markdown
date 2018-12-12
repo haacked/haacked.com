@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Meet Twiggy
 date: 2004-09-27 -0800
-comments: true
 disqus_identifier: 1278
 categories: []
 redirect_from: "/archive/2004/09/26/meet-twiggy.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Subtext Roadmap
 date: 2005-05-04 -0800
-comments: true
 disqus_identifier: 2983
 categories:
 - subtext

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Sake Used to Make Wooden Speakers
 date: 2004-04-06 -0800
-comments: true
 disqus_identifier: 303
 categories: []
 redirect_from: "/archive/2004/04/05/sake-used-to-make-wooden-speakers.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Greatness
 date: 2005-12-06 -0800
-comments: true
 disqus_identifier: 11307
 categories: []
 redirect_from: "/archive/2005/12/05/greatness.aspx/"

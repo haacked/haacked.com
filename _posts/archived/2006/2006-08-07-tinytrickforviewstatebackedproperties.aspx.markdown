@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Tiny Trick For ViewState Backed Properties
 date: 2006-08-07 -0800
-comments: true
 disqus_identifier: 14705
 categories:
 - aspnet

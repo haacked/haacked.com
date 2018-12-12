@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Getting Real
 date: 2006-10-27 -0800
-comments: true
 disqus_identifier: 18116
 categories: []
 redirect_from: "/archive/2006/10/26/Getting_Real.aspx/"

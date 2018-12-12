@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "How to review a merge commit"
 date: 2014-02-21 -0800
-comments: true
 categories: [jekyll]
 ---
 

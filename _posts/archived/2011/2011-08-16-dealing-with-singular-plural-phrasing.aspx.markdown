@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Dealing with singular plural phrasing
 date: 2011-08-16 -0800
-comments: true
 disqus_identifier: 18808
 categories:
 - code

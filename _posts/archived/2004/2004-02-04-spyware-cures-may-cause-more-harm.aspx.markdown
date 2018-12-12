@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Spyware cures may cause more harm
 date: 2004-02-04 -0800
-comments: true
 disqus_identifier: 166
 categories: []
 redirect_from: "/archive/2004/02/03/spyware-cures-may-cause-more-harm.aspx/"

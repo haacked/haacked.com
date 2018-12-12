@@ -1,8 +1,6 @@
 ---
-layout: post
 title: I Won The Lottery!
 date: 2006-01-23 -0800
-comments: true
 disqus_identifier: 11569
 categories: []
 redirect_from: "/archive/2006/01/22/IWonTheLottery.aspx/"

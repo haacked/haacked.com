@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Functional Language Gateway Drug
 date: 2009-02-15 -0800
-comments: true
 disqus_identifier: 18587
 categories:
 - code

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: And the &quot;Harsh&quot; award goes to...
 date: 2004-05-05 -0800
-comments: true
 disqus_identifier: 406
 categories: []
 redirect_from: "/archive/2004/05/04/and-the-harsh-award-goes-to.aspx/"

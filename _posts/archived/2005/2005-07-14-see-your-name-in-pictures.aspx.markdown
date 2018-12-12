@@ -1,8 +1,6 @@
 ---
-layout: post
 title: See Your Name In Pictures!
 date: 2005-07-14 -0800
-comments: true
 disqus_identifier: 8754
 categories: []
 redirect_from: "/archive/2005/07/13/see-your-name-in-pictures.aspx/"

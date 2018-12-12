@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'UPDATE: Buying LCD Monitors.'
 date: 2004-04-15 -0800
-comments: true
 disqus_identifier: 328
 categories: []
 redirect_from: "/archive/2004/04/14/update-buying-lcd-monitors.aspx/"

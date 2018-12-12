@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Avoid async void methods"
 date: 2014-11-11 -0800
-comments: true
 categories: [csharp async]
 ---
 

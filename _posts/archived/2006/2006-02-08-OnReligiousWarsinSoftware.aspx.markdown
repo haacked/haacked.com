@@ -1,8 +1,6 @@
 ---
-layout: post
 title: On Religious Wars in Software
 date: 2006-02-08 -0800
-comments: true
 disqus_identifier: 11736
 categories: []
 redirect_from: "/archive/2006/02/07/OnReligiousWarsinSoftware.aspx/"

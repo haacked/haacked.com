@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "GitHub Beyond Your Browser"
 date: 2017-05-16 -0800
-comments: true
 categories: [github]
 ---
 

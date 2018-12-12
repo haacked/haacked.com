@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Image Based CAPTCHA Is Fast Losing It's Appeal
 date: 2005-01-20 -0800
-comments: true
 redirect_from:
 - "/archive/2005/01/20/1967.aspx.html"
 - "/archive/2005/01/19/Image_Based_CAPTCHA_Losing_Appeal.aspx/"

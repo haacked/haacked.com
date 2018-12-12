@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Better CAPTCHA Through Encryption
 date: 2006-10-02 -0800
-comments: true
 disqus_identifier: 17568
 categories:
 - code

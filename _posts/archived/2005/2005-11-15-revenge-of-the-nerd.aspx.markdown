@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Revenge of the Nerd?
 date: 2005-11-15 -0800
-comments: true
 disqus_identifier: 11202
 categories: []
 redirect_from: "/archive/2005/11/14/revenge-of-the-nerd.aspx/"

@@ -1,9 +1,7 @@
 ---
-layout: post
 title: Configure Git in PowerShell So You Don&rsquo;t Have to Enter Your Password
   All the Damn Time
 date: 2011-12-19 -0800
-comments: true
 disqus_identifier: 18834
 categories:
 - git

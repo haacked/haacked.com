@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Recognition Compensation
 date: 2012-01-05 -0800
-comments: true
 disqus_identifier: 18840
 categories:
 - open source

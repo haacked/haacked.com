@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Bin Deploying ASP.NET MVC 3
 date: 2011-05-25 -0800
-comments: true
 disqus_identifier: 18791
 categories:
 - asp.net

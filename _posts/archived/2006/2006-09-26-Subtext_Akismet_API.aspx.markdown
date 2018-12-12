@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Subtext Akismet API
 date: 2006-09-26 -0800
-comments: true
 disqus_identifier: 17231
 categories: []
 redirect_from: "/archive/2006/09/25/Subtext_Akismet_API.aspx/"

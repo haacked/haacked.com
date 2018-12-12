@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Trying Medium"
 date: 2017-08-16 -0800 2:14 PM PDT
-comments: true
 categories: [personal blogging]
 ---
 

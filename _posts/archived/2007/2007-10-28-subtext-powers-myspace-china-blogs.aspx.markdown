@@ -1,8 +1,6 @@
 ---
-layout: post
 title: MySpace China Blogs Powered By Subtext
 date: 2007-10-28 -0800
-comments: true
 disqus_identifier: 18412
 categories: [subtext blogging]
 redirect_from: "/archive/2007/10/27/subtext-powers-myspace-china-blogs.aspx/"

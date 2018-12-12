@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Beyond The Pitch
 date: 2006-11-21 -0800
-comments: true
 disqus_identifier: 18143
 categories: []
 redirect_from: "/archive/2006/11/20/Beyond_The_Pitch.aspx/"

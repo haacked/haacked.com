@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Tsunami Relief
 date: 2005-01-01 -0800
-comments: true
 disqus_identifier: 1795
 categories: []
 redirect_from: "/archive/2004/12/31/tsunami-relief.aspx/"

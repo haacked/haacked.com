@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Interesting Perf Lesson
 date: 2006-10-18 -0800
-comments: true
 disqus_identifier: 18094
 categories: []
 redirect_from: "/archive/2006/10/17/interesting_perf_lesson.aspx/"

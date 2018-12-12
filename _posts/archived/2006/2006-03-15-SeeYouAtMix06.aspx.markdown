@@ -1,8 +1,6 @@
 ---
-layout: post
 title: See You At Mix06
 date: 2006-03-15 -0800
-comments: true
 disqus_identifier: 12092
 categories: []
 redirect_from: "/archive/2006/03/14/SeeYouAtMix06.aspx/"

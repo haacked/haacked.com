@@ -1,8 +1,6 @@
 ---
-layout: post
 title: RSS Bandit v1.3.0.29 Released
 date: 2005-04-11 -0800
-comments: true
 disqus_identifier: 2635
 categories: []
 redirect_from: "/archive/2005/04/10/rss-bandit-v13029-released.aspx/"

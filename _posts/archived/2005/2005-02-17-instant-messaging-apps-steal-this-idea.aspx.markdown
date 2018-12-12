@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Instant Messaging Apps, Steal This Idea
 date: 2005-02-17 -0800
-comments: true
 disqus_identifier: 2158
 categories: []
 redirect_from: "/archive/2005/02/16/instant-messaging-apps-steal-this-idea.aspx/"

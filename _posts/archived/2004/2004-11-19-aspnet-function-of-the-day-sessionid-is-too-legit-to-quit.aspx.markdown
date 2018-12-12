@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'ASP.NET Function of the Day: SessionId is &quot;Too Legit to Quit&quot;.'
 date: 2004-11-19 -0800
-comments: true
 disqus_identifier: 1653
 categories: []
 redirect_from: "/archive/2004/11/18/aspnet-function-of-the-day-sessionid-is-too-legit-to-quit.aspx/"

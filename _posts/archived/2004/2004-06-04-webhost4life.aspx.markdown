@@ -1,8 +1,6 @@
 ---
-layout: post
 title: WebHost4Life
 date: 2004-06-04 -0800
-comments: true
 disqus_identifier: 518
 categories: []
 redirect_from: "/archive/2004/06/03/webhost4life.aspx/"

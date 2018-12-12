@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Mix Conferences Will End With 09
 date: 2006-09-20 -0800
-comments: true
 disqus_identifier: 16951
 categories:
 - community

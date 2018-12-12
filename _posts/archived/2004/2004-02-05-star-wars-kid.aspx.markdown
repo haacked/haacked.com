@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Star Wars Kid
 date: 2004-02-05 -0800
-comments: true
 disqus_identifier: 172
 categories: []
 redirect_from: "/archive/2004/02/04/star-wars-kid.aspx/"

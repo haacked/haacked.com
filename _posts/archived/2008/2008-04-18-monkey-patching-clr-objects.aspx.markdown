@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Monkey Patching CLR Objects
 date: 2008-04-18 -0800
-comments: true
 disqus_identifier: 18478
 categories: [dynamic-languages]
 redirect_from: "/archive/2008/04/17/monkey-patching-clr-objects.aspx/"

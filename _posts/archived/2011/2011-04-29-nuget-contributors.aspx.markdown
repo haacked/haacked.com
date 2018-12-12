@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Secret to NuGet&rsquo;s Success. You!
 date: 2011-04-29 -0800
-comments: true
 disqus_identifier: 18784
 categories: []
 redirect_from: "/archive/2011/04/28/nuget-contributors.aspx/"

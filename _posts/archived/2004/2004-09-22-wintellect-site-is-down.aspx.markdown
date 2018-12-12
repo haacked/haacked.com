@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Wintellect Site Is Down...
 date: 2004-09-22 -0800
-comments: true
 disqus_identifier: 1259
 categories: []
 redirect_from: "/archive/2004/09/21/wintellect-site-is-down.aspx/"

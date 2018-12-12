@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Those Crazy Brits are at it again
 date: 2004-03-20 -0800
-comments: true
 disqus_identifier: 265
 categories:
 - humor

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Home Sweet Home in Los Angeles
 date: 2005-01-11 -0800
-comments: true
 disqus_identifier: 1853
 categories: []
 redirect_from: "/archive/2005/01/10/home-sweet-home-in-los-angeles.aspx/"

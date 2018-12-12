@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "The Moment"
 date: 2017-08-16 -0800
-comments: true
 categories: [personal]
 ---
 

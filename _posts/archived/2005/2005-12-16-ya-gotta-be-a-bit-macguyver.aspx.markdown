@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Ya Gotta Be a Bit MacGuyver
 date: 2005-12-16 -0800
-comments: true
 disqus_identifier: 11350
 categories: []
 redirect_from: "/archive/2005/12/15/ya-gotta-be-a-bit-macguyver.aspx/"

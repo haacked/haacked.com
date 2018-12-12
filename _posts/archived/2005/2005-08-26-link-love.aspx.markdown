@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Link Love
 date: 2005-08-26 -0800
-comments: true
 disqus_identifier: 9683
 categories: []
 redirect_from: "/archive/2005/08/25/link-love.aspx/"

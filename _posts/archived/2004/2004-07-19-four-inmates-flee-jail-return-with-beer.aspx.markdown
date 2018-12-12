@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Four Inmates Flee Jail, Return With Beer
 date: 2004-07-19 -0800
-comments: true
 disqus_identifier: 835
 categories: []
 redirect_from: "/archive/2004/07/18/four-inmates-flee-jail-return-with-beer.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: We're Going Camping!
 date: 2004-06-10 -0800
-comments: true
 disqus_identifier: 612
 categories: []
 redirect_from: "/archive/2004/06/09/were-going-camping.aspx/"

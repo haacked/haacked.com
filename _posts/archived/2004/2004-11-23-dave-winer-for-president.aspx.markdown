@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Dave Winer for President?
 date: 2004-11-23 -0800
-comments: true
 disqus_identifier: 1666
 categories: []
 redirect_from: "/archive/2004/11/22/dave-winer-for-president.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'Top 12 Things A Klingon Programmer Would Say '
 date: 2004-02-06 -0800
-comments: true
 disqus_identifier: 177
 categories: []
 redirect_from: "/archive/2004/02/05/top-12-things-a-klingon-programmer-would-say.aspx/"

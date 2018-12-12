@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "[Mix06] Microformats Autodiscovery"
 date: 2006-03-21 -0800
-comments: true
 disqus_identifier: 12131
 categories: []
 redirect_from: "/archive/2006/03/20/Mix06MicroformatsAutodiscovery.aspx/"

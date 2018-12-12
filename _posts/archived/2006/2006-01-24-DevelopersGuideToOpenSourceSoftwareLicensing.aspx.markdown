@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Developers Guide To Open Source Software Licensing
 date: 2006-01-24 -0800
-comments: true
 disqus_identifier: 11580
 categories:
 - open source

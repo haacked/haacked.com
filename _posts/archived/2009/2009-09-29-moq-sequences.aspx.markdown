@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Successive Method Calls With MoQ
 date: 2009-09-29 -0800
-comments: true
 disqus_identifier: 18645
 categories:
 - code

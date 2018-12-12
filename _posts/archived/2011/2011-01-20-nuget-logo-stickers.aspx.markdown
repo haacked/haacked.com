@@ -1,8 +1,6 @@
 ---
-layout: post
 title: NuGet Logo Stickers
 date: 2011-01-20 -0800
-comments: true
 disqus_identifier: 18758
 categories:
 - nuget

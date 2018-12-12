@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "A Billion Is Cool"
 date: 2016-05-11 -0800
-comments: true
 categories: [nuget]
 ---
 

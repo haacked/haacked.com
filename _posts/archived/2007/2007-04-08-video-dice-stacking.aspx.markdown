@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Video Dice Stacking
 date: 2007-04-08 -0800
-comments: true
 disqus_identifier: 18271
 categories: []
 redirect_from: "/archive/2007/04/07/video-dice-stacking.aspx/"

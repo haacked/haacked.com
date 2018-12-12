@@ -1,8 +1,6 @@
 ---
-layout: post
 title: This Was My First Computer
 date: 2005-06-06 -0800
-comments: true
 disqus_identifier: 4430
 categories:
 - personal

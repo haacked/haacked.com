@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Another Day, Another Trip Around The Sun
 date: 2007-01-23 -0800
-comments: true
 disqus_identifier: 18198
 categories: []
 redirect_from: "/archive/2007/01/22/Another_Day_Another_Trip_Around_The_Sun.aspx/"

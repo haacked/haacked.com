@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'SQL TIP: Selecting Random Selection Of Rows From A Database Table'
 date: 2004-06-21 -0800
-comments: true
 disqus_identifier: 658
 categories:
 - sql

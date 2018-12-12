@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Verizon Fiber Optic Internet Service
 date: 2005-06-03 -0800
-comments: true
 disqus_identifier: 4010
 categories: []
 redirect_from: "/archive/2005/06/02/verizon-fiber-optic-internet-service.aspx/"

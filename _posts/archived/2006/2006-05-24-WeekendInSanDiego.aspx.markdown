@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Weekend In San Diego
 date: 2006-05-24 -0800
-comments: true
 disqus_identifier: 12938
 categories: []
 redirect_from: "/archive/2006/05/23/WeekendInSanDiego.aspx/"

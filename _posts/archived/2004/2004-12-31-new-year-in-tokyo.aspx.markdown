@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Happy New Years From Tokyo!
 date: 2004-12-31 -0800
-comments: true
 disqus_identifier: 1791
 categories: [personal japan tokyo]
 redirect_from: "/archive/2004/12/30/new-year-in-tokyo.aspx/"

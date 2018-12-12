@@ -1,8 +1,6 @@
 ---
-layout: post
 title: TDD and Dependency Injection with ASP.NET MVC
 date: 2007-12-07 -0800
-comments: true
 disqus_identifier: 18432
 categories:
 - asp.net

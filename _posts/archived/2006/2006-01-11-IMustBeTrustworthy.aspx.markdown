@@ -1,8 +1,6 @@
 ---
-layout: post
 title: I Must Be Trustworthy
 date: 2006-01-11 -0800
-comments: true
 disqus_identifier: 11473
 categories: []
 redirect_from: "/archive/2006/01/10/IMustBeTrustworthy.aspx/"

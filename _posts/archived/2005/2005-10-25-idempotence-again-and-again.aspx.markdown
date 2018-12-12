@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Idempotence Again and Again
 date: 2005-10-25 -0800
-comments: true
 disqus_identifier: 11021
 categories: []
 redirect_from: "/archive/2005/10/24/idempotence-again-and-again.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: There Is No Perfect Design
 date: 2005-05-30 -0800
-comments: true
 disqus_identifier: 3934
 categories:
 - code

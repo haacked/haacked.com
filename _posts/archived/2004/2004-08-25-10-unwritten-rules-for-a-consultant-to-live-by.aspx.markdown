@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 10 Unwritten Rules for a Consultant to Live By
 date: 2004-08-25 -0800
-comments: true
 disqus_identifier: 975
 categories:
 - code

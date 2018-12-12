@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Picture of the Moment - Geisha Trio
 date: 2006-07-07 -0800
-comments: true
 disqus_identifier: 13739
 categories: []
 redirect_from: "/archive/2006/07/06/PictureOfTheMomentGeishaTrio.aspx/"

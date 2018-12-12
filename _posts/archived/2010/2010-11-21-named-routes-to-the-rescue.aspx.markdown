@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Named Routes To The Rescue
 date: 2010-11-21 -0800
-comments: true
 disqus_identifier: 18738
 categories:
 - asp.net

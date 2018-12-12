@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Commerce Starter Kit 2.0 Released
 date: 2006-11-06 -0800
-comments: true
 disqus_identifier: 18131
 categories: []
 redirect_from: "/archive/2006/11/05/Commerce_Starter_Kit_2.0_Released.aspx/"

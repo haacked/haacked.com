@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Defining a Contract Is Hard
 date: 2005-11-17 -0800
-comments: true
 disqus_identifier: 11211
 categories: []
 redirect_from: "/archive/2005/11/16/DefiningAContractIsHard.aspx/"

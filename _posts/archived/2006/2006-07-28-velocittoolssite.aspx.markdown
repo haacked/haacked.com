@@ -1,8 +1,6 @@
 ---
-layout: post
 title: VelocIT Tools Site
 date: 2006-07-28 -0800
-comments: true
 disqus_identifier: 14399
 categories:
 - personal

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Git Alias To Migrate Commits To A Branch"
 date: 2015-06-29 -0800
-comments: true
 categories: [github git]
 ---
 

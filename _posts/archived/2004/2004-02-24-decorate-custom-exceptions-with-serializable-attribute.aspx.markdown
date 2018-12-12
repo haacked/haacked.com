@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'TIP: Decorate Custom Exception Classes With the Serializable Attribute'
 date: 2004-02-24 -0800
-comments: true
 disqus_identifier: 207
 categories: [tips]
 redirect_from: "/archive/2004/02/23/decorate-custom-exceptions-with-serializable-attribute.aspx/"

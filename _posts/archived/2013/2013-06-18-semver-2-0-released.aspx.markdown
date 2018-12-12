@@ -1,8 +1,6 @@
 ---
-layout: post
 title: SemVer 2.0 Released
 date: 2013-06-18 -0800
-comments: true
 disqus_identifier: 18892
 categories:
 - code

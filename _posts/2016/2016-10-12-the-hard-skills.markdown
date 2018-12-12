@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "The Hard Skills"
 date: 2016-10-12 -0800
-comments: true
 categories: [social coding management]
 ---
 

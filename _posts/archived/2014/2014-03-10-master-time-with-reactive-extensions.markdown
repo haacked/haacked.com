@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Master time with Reactive Extensions"
 date: 2014-03-10 08:58 -0700
-comments: true
 categories: [rx, software]
 ---
 

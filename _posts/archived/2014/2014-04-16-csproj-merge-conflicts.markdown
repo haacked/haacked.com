@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Merge conflicts in csproj files"
 date: 2014-04-16 14:07 -0800
-comments: true
 categories: [git ghfw vs]
 ---
 

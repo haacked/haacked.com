@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'HOWTO: Hack iPod into iPod Shuffle'
 date: 2005-01-12 -0800
-comments: true
 disqus_identifier: 1857
 categories: []
 redirect_from: "/archive/2005/01/11/howto-hack-ipod-into-ipod-shuffle.aspx/"

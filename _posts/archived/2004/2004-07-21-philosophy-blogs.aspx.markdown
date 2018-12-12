@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Philosophy Blogs
 date: 2004-07-21 -0800
-comments: true
 disqus_identifier: 837
 categories: []
 redirect_from: "/archive/2004/07/20/philosophy-blogs.aspx/"

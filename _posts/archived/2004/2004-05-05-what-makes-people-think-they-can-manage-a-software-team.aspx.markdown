@@ -1,8 +1,6 @@
 ---
-layout: post
 title: What makes people think they can manage a software team?
 date: 2004-05-05 -0800
-comments: true
 disqus_identifier: 403
 categories: []
 redirect_from: "/archive/2004/05/04/what-makes-people-think-they-can-manage-a-software-team.aspx/"

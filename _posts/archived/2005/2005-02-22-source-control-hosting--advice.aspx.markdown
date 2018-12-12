@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Source Control Hosting - Advice?
 date: 2005-02-22 -0800
-comments: true
 disqus_identifier: 2171
 categories:
 - hosting sourcecontrol

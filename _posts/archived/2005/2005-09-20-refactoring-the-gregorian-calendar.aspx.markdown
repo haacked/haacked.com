@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Refactoring the Gregorian Calendar
 date: 2005-09-20 -0800
-comments: true
 disqus_identifier: 10261
 categories: []
 redirect_from: "/archive/2005/09/19/refactoring-the-gregorian-calendar.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: My Coffee Mug Today
 date: 2005-08-15 -0800
-comments: true
 disqus_identifier: 9445
 categories: []
 redirect_from: "/archive/2005/08/14/my-coffee-mug-today.aspx/"

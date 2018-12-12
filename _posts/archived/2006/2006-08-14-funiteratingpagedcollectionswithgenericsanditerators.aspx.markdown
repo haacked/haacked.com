@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Fun Iterating PagedCollections With Generics and Iterators
 date: 2006-08-14 -0800
-comments: true
 disqus_identifier: 14934
 categories: [tips tdd csharp generics iterators]
 redirect_from: "/archive/2006/08/13/funiteratingpagedcollectionswithgenericsanditerators.aspx/"

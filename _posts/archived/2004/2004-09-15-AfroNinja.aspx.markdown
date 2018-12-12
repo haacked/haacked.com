@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'FUNNY: Afro Ninja'
 date: 2004-09-15 -0800
-comments: true
 disqus_identifier: 1211
 categories: []
 redirect_from: "/archive/2004/09/14/AfroNinja.aspx/"

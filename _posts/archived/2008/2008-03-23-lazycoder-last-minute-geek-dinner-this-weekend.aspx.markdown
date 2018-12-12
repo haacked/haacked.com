@@ -1,8 +1,6 @@
 ---
-layout: post
 title: LazyCoder Last Minute Geek Dinner This Wednesday
 date: 2008-03-23 -0800
-comments: true
 disqus_identifier: 18468
 categories:
 - personal

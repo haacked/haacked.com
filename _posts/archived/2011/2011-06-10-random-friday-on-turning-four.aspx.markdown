@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'Random Friday: On Turning Four'
 date: 2011-06-10 -0800
-comments: true
 disqus_identifier: 18796
 categories:
 - blogging

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Haacked.com Is Back Online
 date: 2005-05-08 -0800
-comments: true
 disqus_identifier: 3076
 categories: []
 redirect_from: "/archive/2005/05/07/haackedcom-is-back-online.aspx/"

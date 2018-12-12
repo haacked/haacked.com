@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Threading - Never Lock This Redux
 date: 2006-08-08 -0800
-comments: true
 disqus_identifier: 14764
 categories: [dotnet csharp threading lock]
 redirect_from:

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "To String or to string"
 date: 2015-12-16 -0800
-comments: true
 categories: [csharp style code]
 ---
 

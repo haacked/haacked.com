@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Log4Net Breaking Change in 1.2.9
 date: 2006-08-07 -0800
-comments: true
 disqus_identifier: 14727
 categories: []
 redirect_from: "/archive/2006/08/06/Log4NetBreakingChangeIn1.2.9.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Bought Tickets To Burning Man
 date: 2005-02-01 -0800
-comments: true
 disqus_identifier: 2075
 categories: []
 redirect_from: "/archive/2005/01/31/bought-tickets-to-burning-man.aspx/"

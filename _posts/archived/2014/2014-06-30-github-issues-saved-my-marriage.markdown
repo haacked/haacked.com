@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "GitHub Saved My Marriage"
 date: 2014-06-30 -0800
-comments: true
 categories: [personal github]
 ---
 

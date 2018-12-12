@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Becoming a Blogging &quot;Category Hedonist&quot;.
 date: 2004-08-24 -0800
-comments: true
 disqus_identifier: 970
 categories: []
 redirect_from: "/archive/2004/08/23/becoming-a-blogging-category-hedonist.aspx/"

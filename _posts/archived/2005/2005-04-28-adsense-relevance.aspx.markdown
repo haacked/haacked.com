@@ -1,8 +1,6 @@
 ---
-layout: post
 title: AdSense relevance...
 date: 2005-04-28 -0800
-comments: true
 disqus_identifier: 2877
 categories: []
 redirect_from: "/archive/2005/04/27/adsense-relevance.aspx/"

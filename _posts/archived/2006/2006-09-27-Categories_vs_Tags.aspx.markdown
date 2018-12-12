@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Categories vs Tags
 date: 2006-09-27 -0800
-comments: true
 disqus_identifier: 17267
 categories: []
 redirect_from: "/archive/2006/09/26/Categories_vs_Tags.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A Novel Approach to Filtering Spam
 date: 2004-04-01 -0800
-comments: true
 disqus_identifier: 294
 categories: []
 redirect_from: "/archive/2004/03/31/a-novel-approach-to-filtering-spam.aspx/"

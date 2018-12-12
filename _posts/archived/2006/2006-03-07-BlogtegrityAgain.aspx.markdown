@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Blogtegrity
 date: 2006-03-07 -0800
-comments: true
 disqus_identifier: 12009
 categories: []
 redirect_from:

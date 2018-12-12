@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Blood And Guts When CodingHorror Visits Haacked
 date: 2006-05-04 -0800
-comments: true
 disqus_identifier: 12684
 categories: []
 redirect_from: "/archive/2006/05/03/BloodAndGutsWhenCodingHorrorVisitsHaacked.aspx/"

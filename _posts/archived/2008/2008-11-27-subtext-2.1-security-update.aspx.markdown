@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Subtext 2.1 Released! Contains Security Update
 date: 2008-11-27 -0800
-comments: true
 disqus_identifier: 18560
 categories:
 - subtext

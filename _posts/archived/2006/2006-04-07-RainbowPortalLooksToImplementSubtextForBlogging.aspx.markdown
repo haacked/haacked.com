@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Rainbow Portal Looks To Implement Subtext For Blogging
 date: 2006-04-07 -0800
-comments: true
 disqus_identifier: 12310
 categories: []
 redirect_from: "/archive/2006/04/06/RainbowPortalLooksToImplementSubtextForBlogging.aspx/"

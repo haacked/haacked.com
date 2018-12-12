@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Blast from the past
 date: 2004-04-09 -0800
-comments: true
 disqus_identifier: 314
 categories: []
 redirect_from: "/archive/2004/04/08/blast-from-the-past.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Microsoft Gives Me the Warm and Fuzzies
 date: 2005-05-05 -0800
-comments: true
 disqus_identifier: 3058
 categories: []
 redirect_from: "/archive/2005/05/04/microsoft-gives-me-the-warm-and-fuzzies.aspx/"

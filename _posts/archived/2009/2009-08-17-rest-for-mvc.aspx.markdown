@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Rest For ASP.NET MVC SDK and Sample
 date: 2009-08-17 -0800
-comments: true
 disqus_identifier: 18637
 categories: []
 redirect_from: "/archive/2009/08/16/rest-for-mvc.aspx/"

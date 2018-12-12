@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Twiggy Meets Ashton Kutcher
 date: 2005-09-28 -0800
-comments: true
 disqus_identifier: 10436
 categories: []
 redirect_from: "/archive/2005/09/27/twiggy-meets-ashton-kutcher.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Look, Nobody Really Cares That You're A DJ
 date: 2005-05-09 -0800
-comments: true
 disqus_identifier: 3116
 categories: []
 redirect_from: "/archive/2005/05/08/look-nobody-really-cares-that-youre-a-dj.aspx/"

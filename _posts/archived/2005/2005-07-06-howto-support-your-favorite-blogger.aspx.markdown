@@ -1,8 +1,6 @@
 ---
-layout: post
 title: HowTo Support your Favorite Blogger
 date: 2005-07-06 -0800
-comments: true
 disqus_identifier: 7672
 categories: []
 redirect_from: "/archive/2005/07/05/howto-support-your-favorite-blogger.aspx/"

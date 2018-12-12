@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Girl Power! (And the women of XML)
 date: 2004-08-17 -0800
-comments: true
 disqus_identifier: 935
 categories: []
 redirect_from: "/archive/2004/08/16/girl-power-and-the-women-of-xml.aspx/"

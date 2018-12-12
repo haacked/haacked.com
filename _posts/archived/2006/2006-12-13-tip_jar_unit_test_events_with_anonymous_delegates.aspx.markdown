@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "[Tip Jar] Unit Test Events With Anonymous Delegates"
 date: 2006-12-13 -0800
-comments: true
 disqus_identifier: 18166
 categories: [tips tdd code csharp]
 redirect_from: "/archive/2006/12/12/tip_jar_unit_test_events_with_anonymous_delegates.aspx/"

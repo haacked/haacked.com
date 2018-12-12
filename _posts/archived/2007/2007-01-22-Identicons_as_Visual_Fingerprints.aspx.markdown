@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Identicons as Graphical Digital Fingerprints
 date: 2007-01-22 -0800
-comments: true
 disqus_identifier: 18196
 categories:
 - tech

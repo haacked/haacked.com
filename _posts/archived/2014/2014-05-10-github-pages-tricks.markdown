@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "GitHub Data In Your Website"
 date: 2014-05-10 -0800
-comments: true
 categories: [blog github pages]
 ---
 

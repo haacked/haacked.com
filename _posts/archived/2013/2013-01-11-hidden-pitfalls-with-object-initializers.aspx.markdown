@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Hidden Pitfalls With Object Initializers
 date: 2013-01-11 -0800
-comments: true
 disqus_identifier: 18881
 categories:
 - code

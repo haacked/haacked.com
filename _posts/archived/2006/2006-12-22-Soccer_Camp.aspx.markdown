@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Soccer Camp
 date: 2006-12-22 -0800
-comments: true
 disqus_identifier: 18178
 categories:
 - personal

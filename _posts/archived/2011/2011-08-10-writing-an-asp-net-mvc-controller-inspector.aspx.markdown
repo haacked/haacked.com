@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Writing an ASP.NET MVC Controller Inspector
 date: 2011-08-10 -0800
-comments: true
 disqus_identifier: 18806
 categories:
 - asp.net mvc

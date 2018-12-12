@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Boyfriend Arm Pillow
 date: 2004-09-30 -0800
-comments: true
 disqus_identifier: 1291
 categories: []
 redirect_from: "/archive/2004/09/29/boyfriend-arm-pillow.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Mono Migration Analyzer
 date: 2006-11-27 -0800
-comments: true
 disqus_identifier: 18148
 categories: []
 redirect_from: "/archive/2006/11/26/Mono_Migration_Analyzer.aspx/"

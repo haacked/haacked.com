@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Snowboarded Today. It was cold.
 date: 2004-12-24 -0800
-comments: true
 disqus_identifier: 1761
 categories: []
 redirect_from: "/archive/2004/12/23/snowboarded-today-it-was-cold.aspx/"

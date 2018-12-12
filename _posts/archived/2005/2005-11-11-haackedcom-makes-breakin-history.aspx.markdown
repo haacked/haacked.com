@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Haacked.com Makes Breakin' History
 date: 2005-11-11 -0800
-comments: true
 disqus_identifier: 11185
 categories: []
 redirect_from: "/archive/2005/11/10/haackedcom-makes-breakin-history.aspx/"

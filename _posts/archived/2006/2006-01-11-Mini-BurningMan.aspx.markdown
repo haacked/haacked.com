@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Mini-Burning Man
 date: 2006-01-11 -0800
-comments: true
 disqus_identifier: 11477
 categories: []
 redirect_from: "/archive/2006/01/10/Mini-BurningMan.aspx/"

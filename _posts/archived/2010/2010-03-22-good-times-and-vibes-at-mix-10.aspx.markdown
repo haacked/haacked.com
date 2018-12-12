@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Good Times and Vibes at Mix 10
 date: 2010-03-22 -0800
-comments: true
 disqus_identifier: 18691
 categories:
 - personal

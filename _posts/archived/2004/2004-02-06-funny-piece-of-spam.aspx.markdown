@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Funny piece of spam
 date: 2004-02-06 -0800
-comments: true
 disqus_identifier: 170
 categories: []
 redirect_from: "/archive/2004/02/05/funny-piece-of-spam.aspx/"

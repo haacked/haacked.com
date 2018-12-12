@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Bush Wins Al Qaeda Endorsement
 date: 2004-09-21 -0800
-comments: true
 disqus_identifier: 1245
 categories: []
 redirect_from: "/archive/2004/09/20/bush-wins-al-qaeda-endorsement.aspx/"

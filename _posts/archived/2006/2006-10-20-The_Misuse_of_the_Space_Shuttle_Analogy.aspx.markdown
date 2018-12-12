@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Misuse of the Space Shuttle Analogy
 date: 2006-10-20 -0800
-comments: true
 disqus_identifier: 18097
 categories:
 - code

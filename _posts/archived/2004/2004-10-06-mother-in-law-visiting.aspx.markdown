@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Mother-In-Law Visiting
 date: 2004-10-06 -0800
-comments: true
 disqus_identifier: 1309
 categories: []
 redirect_from: "/archive/2004/10/05/mother-in-law-visiting.aspx/"

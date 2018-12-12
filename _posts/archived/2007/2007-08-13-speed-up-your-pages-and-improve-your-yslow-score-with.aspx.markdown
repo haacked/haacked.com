@@ -1,9 +1,7 @@
 ---
-layout: post
 title: Speed Up Your Pages And Improve Your YSlow Score With The Coral Content Distribution
   Network
 date: 2007-08-13 -0800
-comments: true
 disqus_identifier: 18381
 categories: [web performance code]
 redirect_from: "/archive/2007/08/12/speed-up-your-pages-and-improve-your-yslow-score-with.aspx/"

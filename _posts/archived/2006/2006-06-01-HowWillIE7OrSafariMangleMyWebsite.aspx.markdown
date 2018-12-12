@@ -1,8 +1,6 @@
 ---
-layout: post
 title: How Will IE7 or Safari Mangle My Website?
 date: 2006-06-01 -0800
-comments: true
 disqus_identifier: 13089
 categories: []
 redirect_from: "/archive/2006/05/31/HowWillIE7OrSafariMangleMyWebsite.aspx/"

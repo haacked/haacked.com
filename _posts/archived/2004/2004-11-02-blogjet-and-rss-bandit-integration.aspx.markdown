@@ -1,8 +1,6 @@
 ---
-layout: post
 title: BlogJet and RSS Bandit integration
 date: 2004-11-02 -0800
-comments: true
 disqus_identifier: 1548
 categories: []
 redirect_from: "/archive/2004/11/01/blogjet-and-rss-bandit-integration.aspx/"

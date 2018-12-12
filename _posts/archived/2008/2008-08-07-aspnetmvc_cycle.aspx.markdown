@@ -1,8 +1,6 @@
 ---
-layout: post
 title: An Arbitrary Cycle Method For ASP.NET MVC
 date: 2008-08-07 -0800
-comments: true
 disqus_identifier: 18517
 categories: [aspnetmvc]
 redirect_from: "/archive/2008/08/06/aspnetmvc_cycle.aspx/"

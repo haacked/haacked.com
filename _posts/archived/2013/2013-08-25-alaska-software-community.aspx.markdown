@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Alaska Software Community
 date: 2013-08-25 -0800
-comments: true
 disqus_identifier: 18897
 categories:
 - code

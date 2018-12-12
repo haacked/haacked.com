@@ -1,8 +1,6 @@
 ---
-layout: post
 title: SearchDotNet.com
 date: 2006-10-25 -0800
-comments: true
 disqus_identifier: 18107
 categories: []
 redirect_from: "/archive/2006/10/24/SearchDotNet.com.aspx/"

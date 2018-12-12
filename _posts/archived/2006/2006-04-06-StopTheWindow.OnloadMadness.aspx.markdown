@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Stop The Window.Onload Madness
 date: 2006-04-06 -0800
-comments: true
 disqus_identifier: 12292
 categories: []
 redirect_from: "/archive/2006/04/05/StopTheWindow.OnloadMadness.aspx/"

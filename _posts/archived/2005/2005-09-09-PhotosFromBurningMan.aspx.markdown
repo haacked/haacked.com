@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Photos From Burning Man
 date: 2005-09-09 -0800
-comments: true
 disqus_identifier: 10019
 categories:
 - burningman

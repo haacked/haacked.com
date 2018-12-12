@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Hotfix for Installing ASP.NET MVC With Azure, Power Commands, or Resharper
 date: 2009-03-06 -0800
-comments: true
 disqus_identifier: 18596
 categories:
 - asp.net mvc

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Misunderstanding Agile Design
 date: 2005-08-17 -0800
-comments: true
 disqus_identifier: 9536
 categories: []
 redirect_from: "/archive/2005/08/16/misunderstanding-agile-design.aspx/"

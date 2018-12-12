@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Giant Village Cancelled
 date: 2005-12-31 -0800
-comments: true
 disqus_identifier: 11395
 categories: []
 redirect_from: "/archive/2005/12/30/giant-village-cancelled.aspx/"

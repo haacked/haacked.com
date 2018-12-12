@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Uploading Packages To The NuGet Gallery
 date: 2011-01-12 -0800
-comments: true
 disqus_identifier: 18755
 categories:
 - nuget

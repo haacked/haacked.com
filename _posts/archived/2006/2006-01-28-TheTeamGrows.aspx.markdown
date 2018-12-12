@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The Team Grows
 date: 2006-01-28 -0800
-comments: true
 disqus_identifier: 11613
 categories: []
 redirect_from: "/archive/2006/01/27/TheTeamGrows.aspx/"

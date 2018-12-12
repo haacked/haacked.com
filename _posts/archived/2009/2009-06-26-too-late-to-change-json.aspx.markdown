@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Is It Too Late To Change JSON?
 date: 2009-06-26 -0800
-comments: true
 disqus_identifier: 18625
 categories: []
 redirect_from: "/archive/2009/06/25/too-late-to-change-json.aspx/"

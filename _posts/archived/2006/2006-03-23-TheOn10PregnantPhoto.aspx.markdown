@@ -1,8 +1,6 @@
 ---
-layout: post
 title: The On10 Pregnant Photo
 date: 2006-03-23 -0800
-comments: true
 disqus_identifier: 12142
 categories: []
 redirect_from: "/archive/2006/03/22/TheOn10PregnantPhoto.aspx/"

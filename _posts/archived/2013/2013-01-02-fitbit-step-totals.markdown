@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Get your Fitbit totals"
 date: 2014-01-02 -0800
-comments: true
 categories: [jekyll]
 ---
 

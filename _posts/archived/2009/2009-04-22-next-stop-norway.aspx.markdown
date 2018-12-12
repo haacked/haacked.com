@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Next Stop, Norway!
 date: 2009-04-22 -0800
-comments: true
 disqus_identifier: 18611
 categories: []
 redirect_from: "/archive/2009/04/21/next-stop-norway.aspx/"

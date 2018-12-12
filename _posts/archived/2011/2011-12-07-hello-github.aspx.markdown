@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Hello GitHub!
 date: 2011-12-07 -0800
-comments: true
 disqus_identifier: 18831
 categories:
 - personal

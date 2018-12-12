@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Talks on GitHub and NuGet
 date: 2012-06-19 -0800
-comments: true
 disqus_identifier: 18860
 categories:
 - git

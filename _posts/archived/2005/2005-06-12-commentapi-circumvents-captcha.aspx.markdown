@@ -1,8 +1,6 @@
 ---
-layout: post
 title: CommentAPI Circumvents CAPTCHA
 date: 2005-06-12 -0800
-comments: true
 disqus_identifier: 4659
 categories: []
 redirect_from: "/archive/2005/06/11/commentapi-circumvents-captcha.aspx/"

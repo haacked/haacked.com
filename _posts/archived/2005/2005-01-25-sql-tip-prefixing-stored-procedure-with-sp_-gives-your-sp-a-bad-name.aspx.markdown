@@ -1,9 +1,7 @@
 ---
-layout: post
 title: 'SQL TIP: Prefixing Stored Procedure With &quot;sp_&quot; Gives Your SP a Bad
   Name'
 date: 2005-01-25 -0800
-comments: true
 disqus_identifier: 2013
 categories:
 - sql

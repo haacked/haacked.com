@@ -1,9 +1,7 @@
 ---
-layout: post
 title: Please Trust And Empower Your Employees. There&#8217;s Always A Bug In The
   Process.
 date: 2005-05-31 -0800
-comments: true
 disqus_identifier: 3952
 categories:
 - company culture

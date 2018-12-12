@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Unit Tests Are The New And Improved Documentation
 date: 2005-12-05 -0800
-comments: true
 disqus_identifier: 11301
 categories: []
 redirect_from: "/archive/2005/12/04/unit-tests-are-the-new-and-improved-documentation.aspx/"

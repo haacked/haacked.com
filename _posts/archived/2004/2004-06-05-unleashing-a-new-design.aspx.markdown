@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Unleashing a new design...
 date: 2004-06-05 -0800
-comments: true
 disqus_identifier: 536
 categories: []
 redirect_from: "/archive/2004/06/04/unleashing-a-new-design.aspx/"

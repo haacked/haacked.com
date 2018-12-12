@@ -1,8 +1,6 @@
 ---
-layout: post
 title: 'RE: Proposed Bible-based marriage laws'
 date: 2004-03-22 -0800
-comments: true
 disqus_identifier: 267
 categories:
 - humor

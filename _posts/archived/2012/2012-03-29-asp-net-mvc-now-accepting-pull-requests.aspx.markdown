@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET MVC Now Accepting Pull Requests
 date: 2012-03-29 -0800
-comments: true
 disqus_identifier: 18854
 categories:
 - code

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Merry Christmas
 date: 2009-12-24 -0800
-comments: true
 disqus_identifier: 18670
 categories:
 - personal

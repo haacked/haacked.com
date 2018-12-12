@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Putting My Resume Online
 date: 2005-04-05 -0800
-comments: true
 disqus_identifier: 2573
 categories:
 - personal

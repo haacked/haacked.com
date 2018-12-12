@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Nice Windows XP Theme
 date: 2004-11-10 -0800
-comments: true
 disqus_identifier: 1594
 categories: []
 redirect_from: "/archive/2004/11/09/nice-windows-xp-theme.aspx/"

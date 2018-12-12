@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "A Lesson in Compassion"
 date: 2014-05-06 -0800
-comments: true
 categories: [personal]
 ---
 

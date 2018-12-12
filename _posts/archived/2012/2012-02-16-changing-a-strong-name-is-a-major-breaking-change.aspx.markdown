@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Changing A Strong Name Is A Major Breaking Change
 date: 2012-02-16 -0800
-comments: true
 disqus_identifier: 18846
 categories:
 - open source

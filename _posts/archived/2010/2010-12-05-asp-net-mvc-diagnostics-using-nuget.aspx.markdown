@@ -1,8 +1,6 @@
 ---
-layout: post
 title: ASP.NET MVC Diagnostics Using NuGet
 date: 2010-12-05 -0800
-comments: true
 disqus_identifier: 18744
 categories:
 - asp.net

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Blocking Outgoing Messages
 date: 2004-08-06 -0800
-comments: true
 disqus_identifier: 886
 categories: []
 redirect_from: "/archive/2004/08/05/blocking-outgoing-messages.aspx/"

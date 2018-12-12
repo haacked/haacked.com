@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Google tests waters with terabyte e-mail limit
 date: 2004-05-19 -0800
-comments: true
 disqus_identifier: 457
 categories: []
 redirect_from: "/archive/2004/05/18/google-tests-waters-with-terabyte-e-mail-limit.aspx/"

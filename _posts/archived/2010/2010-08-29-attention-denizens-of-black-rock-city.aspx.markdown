@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Attention Denizens of Black Rock City
 date: 2010-08-29 -0800
-comments: true
 disqus_identifier: 18719
 categories:
 - personal

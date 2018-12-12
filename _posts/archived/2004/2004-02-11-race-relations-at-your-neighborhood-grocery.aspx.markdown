@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Race relations at your neighborhood grocery
 date: 2004-02-11 -0800
-comments: true
 disqus_identifier: 186
 categories: []
 redirect_from: "/archive/2004/02/10/race-relations-at-your-neighborhood-grocery.aspx/"

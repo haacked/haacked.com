@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Model View Controller Application Block in .NET
 date: 2005-07-14 -0800
-comments: true
 disqus_identifier: 8753
 categories: []
 redirect_from: "/archive/2005/07/13/model-view-controller-application-block-in-net.aspx/"

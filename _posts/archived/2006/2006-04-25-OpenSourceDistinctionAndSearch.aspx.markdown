@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Open Source Distinction And Search
 date: 2006-04-25 -0800
-comments: true
 disqus_identifier: 12560
 categories: []
 redirect_from: "/archive/2006/04/24/OpenSourceDistinctionAndSearch.aspx/"

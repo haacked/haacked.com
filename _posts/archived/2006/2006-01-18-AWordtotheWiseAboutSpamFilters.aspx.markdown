@@ -1,8 +1,6 @@
 ---
-layout: post
 title: A Word to the Wise About Spam Filters
 date: 2006-01-18 -0800
-comments: true
 disqus_identifier: 11534
 categories: []
 redirect_from: "/archive/2006/01/17/AWordtotheWiseAboutSpamFilters.aspx/"

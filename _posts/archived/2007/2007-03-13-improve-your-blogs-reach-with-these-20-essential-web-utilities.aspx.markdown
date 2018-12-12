@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Improve Your Blog's Reach With These 20 Essential Web Utilities
 date: 2007-03-13 -0800
-comments: true
 disqus_identifier: 18239
 categories: [tips blogging utilities]
 redirect_from: "/archive/2007/03/12/improve-your-blogs-reach-with-these-20-essential-web-utilities.aspx/"

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Ready To Mix It Up
 date: 2006-02-16 -0800
-comments: true
 disqus_identifier: 11805
 categories: []
 redirect_from: "/archive/2006/02/15/ReadyToMixItUp.aspx/"

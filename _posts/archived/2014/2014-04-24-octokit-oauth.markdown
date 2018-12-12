@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Using Octokit.net to authenticate your app with GitHub"
 date: 2014-04-24 10:44 -0800
-comments: true
 categories: [octokit github aspnetmvc oauth]
 ---
 
