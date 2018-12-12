@@ -2,12 +2,13 @@
 title: 'Blog Recommendation Server: AmphetaRate'
 date: 2004-05-06 -0800
 disqus_identifier: 412
-categories: []
+categories: [rss]
 redirect_from: "/archive/2004/05/05/blog-recommendation-server-amphetarate.aspx/"
 ---
 
-Saw a post on the RSS Bandit newsgroup about
-[AmphetaRate](http://amphetarate.sourceforge.net/), a recommendation
+__NOTE: This service is no longer available__
+
+Saw a post on the RSS Bandit newsgroup about AmphetaRate, a recommendation
 engine for blogs.
 
 Having worked on a recommendation and personalization engine on a large

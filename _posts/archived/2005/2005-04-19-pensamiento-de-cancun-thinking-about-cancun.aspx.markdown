@@ -2,11 +2,13 @@
 title: Pensamiento de Cancun (Thinking About Cancun)
 date: 2005-04-19 -0800
 disqus_identifier: 2751
-categories: []
+categories: [personal vacation]
 redirect_from: "/archive/2005/04/18/pensamiento-de-cancun-thinking-about-cancun.aspx/"
 ---
 
-![Cancun](/images/Cancun.jpg)Planning a vacation is proving to be a
+![Cancun](/images/Cancun.jpg)
+
+Planning a vacation is proving to be a
 challenge now that I'm independent. Last year, Akumi and I decided that
 we were going to England for two weeks this April. Well April has come
 and is about to go, and we're no closer to Jolly old England (and Old
@@ -33,8 +35,3 @@ Mexican food. ¡Aye Carumba!
 So now we're looking at November as a good time to enjoy the turquoise
 beaches of Cancun and Tulum. However, if you've been there and had a
 great time (or not), I'd love to hear about it. ¡Muchas Gracias!
-
-[Listening to: Dreaming (Percussion Mix) "Vamos a Jugar en el Sol!" -
-Ruff Driverz Pres. Arrola - Trance: A State of Altered Consciousness
-(5:25)]
-

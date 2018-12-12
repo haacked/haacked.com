@@ -17,7 +17,7 @@ configuration dialog within RSS Bandit. But for now, this is an
 experimental utility, use at your own risk.
 
 To get started with the utility, download a [debug version
-here](https://haacked.com/images/ShortcutsEditor.zip).
+here](https://haacked.com/code/ShortcutsEditor.zip).
 
 **First Time Usage**\
  Figure 1 shows a screenshot of the editor as it looks when you first
@@ -27,7 +27,7 @@ automatically checks the default application data folder for a file
 named ShortcutSettings.xml. In this case, none was found so everything
 is blank.
 
-![Shortcut Editor - First Time](/images/rssbandit_ShortcutEditor.gif) \
+![Shortcut Editor - First Time](/images/rssbandit_ShortcutEditor.gif)
  **Figure 1:** Shortcuts Editor, no file specified.
 
 **Create a ShortcutSettings File**\
@@ -39,8 +39,7 @@ RSSBandit.exe.config file and specified a different location for RSS
 Bandit's application data by adding an appSetting entry for
 "AppDataFolder" (generally not recommended).
 
-![Shortcut Editor Save Settings
-Dialog](/images/rssbandit_ShortcutEditorSaveSettings.gif) \
+![Shortcut Editor Save Settings Dialog](/images/rssbandit_ShortcutEditorSaveSettings.gif)
  **Figure 2:** Shortcut Editor Save Settings Dialog.
 
 **Modify Settings**\

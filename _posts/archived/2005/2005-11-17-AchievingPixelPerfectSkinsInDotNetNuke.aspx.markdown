@@ -2,7 +2,7 @@
 title: Achieving Pixel Perfect Skins in DotNetNuke
 date: 2005-11-17 -0800
 disqus_identifier: 11206
-categories: []
+categories: [dnn]
 redirect_from: "/archive/2005/11/16/AchievingPixelPerfectSkinsInDotNetNuke.aspx/"
 ---
 
@@ -25,38 +25,29 @@ The examples below present a Semantic Link Module I wrote (it uses an
 unordered list instead of a table to render the link list) while in
 normal content mode and while logged in as an administrator.
 
-![](https://haacked.com/images/BeforeLinkModule.Png) \
+![](https://haacked.com/images/BeforeLinkModule.Png) 
  Figure 1: Normal View
 
-![](https://haacked.com/images/ActionOptions.Png) \
+![](https://haacked.com/images/ActionOptions.Png) 
  Figure 2: Editable View
 
 The container that wraps this module has to have a placeholder for the
 little pencil edit links. The general structure for default container
 ascx files that ship with DNN looks like the following.
 
-\< table cellpadding ="0" cellspacing ="0" border ="0"\>
-
-    \< tr \>
-
-        \< td \>\< dnn:Actions runat ="server" id ="dnnActions" /\>\</
-td \>
-
-        \< td \>\<! -- Maybe another DNN control //-- \>\</ td \>
-
-    \</ tr \>
-
-    \< tr \>
-
-        \< td colspan ="2" id ="ContentPane" runat ="server"\>
-
-            \<! -- Your dynamic content is placed here -- \>
-
-        \</ td \>
-
-    \</ tr \>
-
-\</ table \>
+```html
+<table cellpadding ="0" cellspacing ="0" border ="0">
+    <tr>
+        <td>< dnn:Actions runat="server" id="dnnActions" /></td >
+        <td><! -- Maybe another DNN control //-- ></td>
+    </tr>
+    <tr>
+        <td colspan="2" id="ContentPane" runat="server">
+            <! -- Your dynamic content is placed here -- >
+        </td>
+    </tr>
+</table>
+```
 
 Notice that the Actions control is in its own table row. Ideally when
 you are in the normal view, that row would collapse to nothing.
@@ -69,22 +60,16 @@ very simple custom control used to wrap container options such that they
 completely removed in the normal view, getting rid of that one pixel
 gap. See the following snippet for an example of the usage.
 
-\< table \>
-
-    \< vdn:ContainerOptions runat ="server" id ="Containeroptions"\>
-
-        \< tr \>\< td \>\< dnn:Actions runat ="server" id ="actions"
-/\>\<! -- ... -- \>\</ td \>\</ tr \>
-
-    \</ vdn:ContainerOptions \>
-
-    \< tr \>
-
-        \< td id ="ContentContainer" runat ="server"\>\</ td \>
-
-    \</ tr \>
-
-\</ table \>
+```html
+<table>
+    <vdn:ContainerOptions runat="server" id="Containeroptions">
+        <tr><td><dnn:Actions runat="server" id="actions"/><! -- ... --></td></tr>
+    </vdn:ContainerOptions>
+    <tr>
+        <td id="ContentContainer" runat="server"></td>
+    </tr>
+</table>
+```
 
 This control inherits from the `System.Web.UI.WebControls.PlaceHolder`
 control and simply sets its visibility to false unless the module in the
@@ -99,6 +84,4 @@ Since I pretty much only deal with creating skins using ascx controls, I
 did not go to the extra trouble to apply this technique to a skin
 object. It is simply a custom control.
 
-The source for this is very small and can be [downloaded
-here](https://haacked.com/images/ContainerOptions.zip).
-
+The source for this is very small and can be [downloaded here](https://haacked.com/code/ContainerOptions.zip).
