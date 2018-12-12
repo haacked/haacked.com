@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Getting Started With RssBandit"
 permalink: /articles/getting-started-with-rssbandit.aspx
 ---

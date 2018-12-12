@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Specifying a Windows Service Description"
 permalink: /articles/specifying-a-windows-service-description.aspx
 ---
