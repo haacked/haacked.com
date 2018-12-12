@@ -65,6 +65,10 @@ kramdown:
   hard_wrap: false
 remote_theme: haacked/haackbar
 
+exclude: [README.md CODE_OF_CONDUCT.md script .gitattributes .gitignore keybase.txt RakeFile]
+keep_files: [images demos code ads.txt robots.txt favicon.ico]
+incremental: true
+
 # Plugins
 plugins:
   - jekyll-seo-tag
@@ -73,3 +77,4 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-include-cache
