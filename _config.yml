@@ -4,7 +4,7 @@ author: Phil Haack
 avatar_url: https://2.gravatar.com/avatar/cdf546b601bf29a7eb4ca777544d11cd?s=160 # Should be 160x160px.
 # email: your-email@domain.com  # Comment out this line if you don't want to expose your email.
 description: > # this means to ignore newlines until "twitter_username:"
-  You've been Haacked and you like it is a blog about
+  You've been Haacked is a blog about
   Technology, Software, Management, and Open Source.
   It's full of good stuff.
 repository: haacked/haacked.com

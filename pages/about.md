@@ -8,7 +8,7 @@ categories: [personal]
 permalink: /about/
 ---
 
-<img src="https://user-images.githubusercontent.com/19977/49780625-33581400-fcc4-11e8-9961-735e6bebdfc8.png" width="260" style="margin: 0 30px 30px 0; float: left;" >
+<img src="https://user-images.githubusercontent.com/19977/49780625-33581400-fcc4-11e8-9961-735e6bebdfc8.png" class="profile" />
 
 In case you were wondering, not that I have any reason to believe you were, *Haacked* is *not* my real name.
 
