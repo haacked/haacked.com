@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
-  {% include head.html %}
+<html lang="en">
+  {% include_cached head.html %}
   <body>
-    <header class="header" class="inner">{% include header.html %}</header>
+    <header class="header" class="inner">{% include_cached header.html %}</header>
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CK7DTK3L&placement=haackedcom" id="_carbonads_js"></script>
         {{ content }}
       </div>
-      {% include footer.html %}
+      {% include_cached footer.html %}
     </main>
   </body>
 
