@@ -18,7 +18,8 @@ delete_unused() {
         if [ -d "$path" ]; then
           delete_unused $path
         elif [ -f "$path" ]; then
-            if [[ $(grep -ri "$path" assets _posts pages demos | head -c1 | wc -c) -eq 0 ]]; then
+            escaped="\b${path//\./\.}\b"
+            if [[ $(grep -ri "$escaped" assets _posts pages demos | head -c1 | wc -c) -eq 0 ]]; then
                 if [ $delete = "--delete" ]; then
                     rm "$path"
                     echo "  $path DELETED"
