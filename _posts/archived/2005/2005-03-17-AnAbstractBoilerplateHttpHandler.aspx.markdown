@@ -2,8 +2,10 @@
 title: An Abstract Boilerplate HttpHandler
 date: 2005-03-17 -0800
 disqus_identifier: 2394
-categories: []
-redirect_from: "/archive/2005/03/16/AnAbstractBoilerplateHttpHandler.aspx/"
+categories: [code dotnet]
+redirect_from:
+  - "/archive/2005/03/16/AnAbstractBoilerplateHttpHandler.aspx/"
+  - "/archive/2005/03/17/2394/"
 ---
 
 My last project involved writing a lot of HttpHandlers to respond to
