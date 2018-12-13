@@ -2,12 +2,11 @@
 title: 'Tech-Ed 2004: Is it an attempt to overthrow the govt?'
 date: 2004-05-25 -0800
 disqus_identifier: 483
-categories: []
+categories: [conferences]
 redirect_from: "/archive/2004/05/24/tech-ed-2004-is-it-an-attempt-to-overthrow-the-govt.aspx/"
 ---
 
-My good [buddy](http://koba.europe.webmatrixhosting.net/) makes the
-following comment on my last post:
+My good buddy makes the Kyle following comment on my last post:
 
 > I have a suspicion that TechEd might just be a massive re-education
 > project, sponsored by Gates, attempting to grow an army for the
@@ -32,4 +31,3 @@ As for overthrowing the government, Ballmer did mention that Oracle is
 now a VSIP (Visual Studio Integration Partner). Larry Ellison partnering
 with Microsoft on any level? Either they've tied Larry up and locked him
 away, or there's something brewing here...
-
