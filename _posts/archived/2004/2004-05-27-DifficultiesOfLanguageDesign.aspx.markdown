@@ -15,10 +15,10 @@ allows you to search for attendees (who've registered in the system) by
 name or interests and request a meeting with them. This is the debut of
 the system and I don't believe it's being well utilized by attendees.
 This is great for me as most everyone I've wanted to talk to has been
-available and I've had a chance to meet members of the C\# team such as
-[Eric Gunnerson](http://blogs.msdn.com/ericgu "Eric G") (PM for the C\#
+available and I've had a chance to meet members of the C# team such as
+[Eric Gunnerson](http://blogs.msdn.com/ericgu "Eric G") (PM for the C#
 compiler) and Anders Hejlsberg (a Distinguished Engineer at Microsoft
-and chief designer of Delphi and the C\# language). Unfortunately Steve
+and chief designer of Delphi and the C# language). Unfortunately Steve
 Ballmer was not in the system.
 
 Second, by having Microsoft employees hang around the cabana areas
@@ -32,7 +32,7 @@ If there's one thing I've taken away from my various discussions about
 language design is that language design is hard. This may be obvious to
 you, but it's not obvious to everyone. Look in any unmoderated newsgroup
 about programming language and you'll hear plenty of "Java sucks!" or
-"C\# stinks" (perhaps even more colorful than that). A lot of people
+"C# stinks" (perhaps even more colorful than that). A lot of people
 carry a one language fits all mentality when in reality, each language
 has a purpose and target in mind.
 
@@ -43,7 +43,7 @@ language design:
 -   Total language purity is unattainable, but we try anyway.
 -   Language design must take into consideration human behavior.
 
-**Language changes shouldn't break existing code...too much**\
+**Language changes shouldn't break existing code...too much**
 This is one of the more difficult issues when designing a language. How
 do you update the language without breaking thousands if not millions of
 lines of code out in the wild. Even small changes that seemingly should
@@ -51,7 +51,7 @@ cause no problems can break code. Well hopefully you have legions and
 legions of regression tests, but they can only go so far. This remains a
 difficult challenge.
 
-**Total language purity is unattainable, but we try anyway** \
+**Total language purity is unattainable, but we try anyway**
 Let's face it, if we're not seeking the ideal pure perfect design, why
 are we in the business. It's a natural tendency. However, a good
 designer realizes that total purity is unattainable. It's a simple fact:
@@ -65,7 +65,7 @@ syntax to the lock statement ala Ian Griffiths' TimedLock structure. He
 in turn asked me, would creating this new syntax have any more clarity
 than using the TimedLock structure? Ummm... I guess not since we can
 already do this in a clean and concise manner. Right. So why add syntax.
-Not only that, the TimedLock demonstrates what the C\# team had in mind
+Not only that, the TimedLock demonstrates what the C# team had in mind
 with the **`using`** statement. It wasn't intended just for cleanup, but
 for situations just like this.
 
@@ -79,7 +79,7 @@ change (see the first reason why language design is hard). Wow, you mean
 real world issues such as timing will affect the purity of language
 design? Indeed, total purity is an illusion.
 
-**Language design must take into consideration human behavior**\
+**Language design must take into consideration human behavior**
 Another reason language design is hard is that it must take into account
 human behavior. Just as we have usability testing for GUI applications,
 usability testing for APIs and languages are also important.
