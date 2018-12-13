@@ -4,10 +4,13 @@
 # Lists files in the code directory that isn't in use and may be deleted
 #
 
-delete=${1:-display}
+option=$1
 
-if [ $delete != "--delete" ]; then
-    echo "Pass --delete to delete files in the code and images directory that are not referenced in assets, _posts, pages, and demos"
+if [ -z "$option" ] || ([ $option != "--delete" ] && [ $option != "--preview" ] ); then
+  echo "Lists files in the /code and /images folders that are not referenced by any posts, assets, or pages."
+  echo "--preview | lists unused files"
+  echo "--delete  | deletes unused files"
+  exit 0
 fi
 
 directories=('code' 'images')
@@ -20,7 +23,7 @@ delete_unused() {
         elif [ -f "$path" ]; then
             escaped="\b${path//\./\.}\b"
             if [[ $(grep -ri "$escaped" assets _posts pages demos | head -c1 | wc -c) -eq 0 ]]; then
-                if [ $delete = "--delete" ]; then
+                if [ $option = "--delete" ]; then
                     rm "$path"
                     echo "  $path DELETED"
                 else
