@@ -3,6 +3,8 @@ title: "Blogtegrity"
 permalink: /articles/blogtegrity
 ---
 
+ValidatorBugDemo.zip
+
 ## Intro
 
 This is a statement about the integrity of this blog or its

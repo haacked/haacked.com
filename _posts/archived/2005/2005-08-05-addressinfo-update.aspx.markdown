@@ -19,11 +19,11 @@ In any case, I took ~~Omar’s~~ Omer’s suggestion to have one of the enums re
 ```csharp
 public enum StateCode
 {
-    /// \<summary\>Alabama\</summary\>
-    AL = State.Alabama,
-    /// \<summary\>Alaska\</summary\>
-    AK = State.Alaska,
-    ///... and so on
+  /// <summary\>Alabama</summary\>
+  AL = State.Alabama,
+  /// <summary\>Alaska\</summary\>
+  AK = State.Alaska,
+  ///... and so on
 }
 ```
 
