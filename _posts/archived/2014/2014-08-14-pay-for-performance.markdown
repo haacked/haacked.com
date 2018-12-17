@@ -1,7 +1,7 @@
 ---
 title: "The Case Against Pay for Performance"
 date: 2014-08-14 -0800
-categories: [management]
+categories: [management compensation career]
 ---
 
 __If you run a company, stop increasing pay based on performance reviews.__ No, I'm not taking advantage of
