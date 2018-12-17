@@ -1,0 +1,11 @@
+id: 5b422779
+date: 2018-12-17T13:24:37.3058650Z
+name: Kostas
+avatar: https://github.com/Me.png
+message: >+
+  Any chance we have have an angular like syntax and skip all the @if{} and @for{}?
+
+  I would like to use a templating library that accepts ng-repeat and ng-if.
+
+
+
