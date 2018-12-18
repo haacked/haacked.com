@@ -72,7 +72,7 @@ This wasn't an accident. I was profoundly influenced by Project Aristotle, [Goog
 
 It became my mission to create a culture that promoted psychological safety not only because I believed it was the right thing to do, but also because I believed it made for teams that performed at a higher level.
 
-I couldn't do this alone of course. I needed a diverse team of managers who also believed in this mission. At the time I left, my team consisted of three women (two of them women of color) and one man.
+I couldn't do this alone of course. I needed a diverse team of managers who also believed in this mission. At the time I left, my team consisted of three women (two of them women of color) and one man. They were amazing to work with.
 
 I don't mention this because I expect a cookie, this should be the status quo. What I expect is for more managers to stop making excuses when it comes to building diverse and inclusive teams. It's not only a just thing to do, but it [makes good business sense](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters).
 
