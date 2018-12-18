@@ -47,7 +47,7 @@ But for those who don't, a drop down list of obscure license names doesn't reall
 
 I appreciate this level of deep thinking about the user experience.
 
-This lead me to create (along with a fantastic designer, [Jason Long](https://github.com/jasonlong)) [https://choosealicense.org](https://choosealicense.org) which I [wrote about back then](https://haacked.com/archive/2013/07/17/license-your-code.aspx/). This is a simple, opinionated, guide to how to choose a license. Once this was in place, we felt more comfortable adding a license drop down.
+This lead me to create (along with a fantastic designer, [Jason Long](https://github.com/jasonlong)) [https://choosealicense.com](https://choosealicense.com) which I [wrote about back then](https://haacked.com/archive/2013/07/17/license-your-code.aspx/). This is a simple, opinionated, guide to how to choose a license. Once this was in place, we felt more comfortable adding a license drop down.
 
 And based on this [third-party blog post](http://250bpm.com/blog:82), it had an effect! You can see a sharp uptick around the time the site launched.
 
