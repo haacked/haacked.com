@@ -15,7 +15,7 @@ Since my time at GitHub started with such a post, it seems fitting that I use th
 
 ![Sad Keanu](https://user-images.githubusercontent.com/19977/50171388-29777780-02a7-11e9-8605-bcec3469c7f0.jpg)
 
-If you follow me on Twitter, [this is old news](https://twitter.com/haacked/status/1053296117176184834). My last day was October 12, 2018. I've just been busy (or lazy) and haven't gotter around to writing about it till now.
+If you follow me on Twitter, [this is old news](https://twitter.com/haacked/status/1053296117176184834). My last day was October 12, 2018. I've just been busy (or lazy) and haven't gotten around to writing about it till now.
 
 ## The Early Days
 
