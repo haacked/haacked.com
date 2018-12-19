@@ -45,9 +45,9 @@ comments:
 
 emptyArray: [] # Leave this here.
 
-# Haacked-Theme date format
+# haackbar date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-haacked-theme:
+haackbar:
   date_format: "%b %-d, %Y"
 
 #

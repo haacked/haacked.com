@@ -1,5 +1,5 @@
 ---
-# If you use the haacked/haacked-theme Jekyll Theme, you do not need to add this file
+# If you use the haacked/haackbar Jekyll Theme, you do not need to add this file
 # unless you want to customize the CSS styles
 #
 # To customize the theme's CSS, copy this file to your site with the same directory
@@ -16,7 +16,7 @@ $on-mobile: 800px;
 $carbon-ad-width: 140px;
 $baseurl: '{{ site.baseurl }}';
 
-@import 'haacked-theme',
+@import 'haackbar',
   "carbon";
 
 h1.post-title a {
