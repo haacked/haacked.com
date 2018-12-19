@@ -150,8 +150,3 @@ the code a slight bit.
 UPDATE: 03/11/2012 - Fixed the broken download link. Rewrote the tests
 to use xUnit.NET.
 
-Tags: [ASP.NET
-MVC](http://technorati.com/tags/aspnetmvc/ "ASP.NET MVC tag") ,
-[TDD](http://technorati.com/tags/TDD/ "TDD tag") ,
-[Routing](http://technorati.com/tags/Routing/ "Routing tag")
-

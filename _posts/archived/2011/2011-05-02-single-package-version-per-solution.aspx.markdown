@@ -5,7 +5,7 @@ disqus_identifier: 18783
 categories:
 - nuget
 - code
-- open source
+- oss
 redirect_from: "/archive/2011/05/01/single-package-version-per-solution.aspx/"
 ---
 

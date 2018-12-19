@@ -133,7 +133,3 @@ you could have used [MbUnit](http://mbunit.com/) or
 your customizations if you so choosed (although my mom taught be that
 sharing was a good thing to do)?
 
-tags: [Open Source](http://technorati.com/tag/Open+Source),
-[Microsoft](http://technorati.com/tag/Microsoft),
-[Subtext](http://technorati.com/tag/Subtext)
-

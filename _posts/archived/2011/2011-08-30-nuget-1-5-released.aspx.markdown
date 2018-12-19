@@ -38,8 +38,3 @@ time as a test app for
 [SignalR](https://github.com/SignalR/SignalR "SignalR on Github"). We’re
 contemplating the idea of making it a more regular thing if possible.
 
-Tags: [nuget](https://haacked.com/tags/nuget/default.aspx),
-[oss](https://haacked.com/tags/oss/default.aspx), [open
-source](https://haacked.com/tags/open+source/default.aspx), [package
-manager](https://haacked.com/tags/package+manager/default.aspx)
-

@@ -33,7 +33,7 @@ of progress**.
     intents and purposes, the Director of Open Source at Microsoft and
     heads the Open Source Lab there.
 -   [Garret
-    Serack](http://blogs.msdn.com/garretts/ "Garret Serack - Open Source Community Lead") who
+    Serack](http://blogs.msdn.com/garretts/ "Garret Serack - oss Community Lead") who
     holds the title *Open Source Community Lead* at Microsoft.
 -   And
     [various](https://haacked.com/archive/2007/05/23/beta-incubator-for-.net-open-source-projects.aspx "Open Source Incubator Idea")

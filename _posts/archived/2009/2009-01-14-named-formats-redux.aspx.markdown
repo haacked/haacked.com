@@ -240,8 +240,3 @@ I went ahead and updated the solution I had uploaded last time so you
 can try it yourself by **[downloading it
 now](http://code.haacked.com/util/NamedStringFormatSolution.zip "Named Format String Solution")**.
 
-Tags: [format
-strings](http://technorati.com/tags/format+strings/ "format strings tag")
-, [named
-formats](http://technorati.com/tags/named+formats/ "named formats tag")
-

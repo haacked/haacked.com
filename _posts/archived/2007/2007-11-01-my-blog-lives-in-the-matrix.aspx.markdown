@@ -66,9 +66,3 @@ I’m sold on the [benefits and
 convenience](http://www.codinghorror.com/blog/archives/000491.html "Our Virtual Machine Future")
 of virtualization.
 
-Tags:
-[CrystalTech](http://technorati.com/tags/CrystalTech/ "CrystalTech tag")
-, [Hosting](http://technorati.com/tags/Hosting/ "Hosting tag") ,
-[Virtual
-Machine](http://technorati.com/tags/Virtual%20Machine/ "Virtual Machine tag")
-

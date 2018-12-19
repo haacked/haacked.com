@@ -226,8 +226,3 @@ C\#. I imagine many will find this to be an abuse of the language
 (language abuser!) while others might see other potential uses in this
 technique. Happy coding!
 
-Tags: [dynamic](https://haacked.com/tags/dynamic/default.aspx),
-[aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
-[C\#](https://haacked.com/tags/C%23/default.aspx),
-[DLR](https://haacked.com/tags/DLR/default.aspx)
-

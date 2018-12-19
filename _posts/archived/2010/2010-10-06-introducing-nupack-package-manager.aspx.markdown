@@ -5,7 +5,7 @@ disqus_identifier: 18724
 categories:
 - asp.net mvc
 - code
-- open source
+- oss
 - nuget
 redirect_from: "/archive/2010/10/05/introducing-nupack-package-manager.aspx/"
 ---
@@ -192,8 +192,4 @@ could sure use some help.
 With your help, I hope that NuGet becomes a wildly successful example of
 how building products in collaboration with the open source community
 benefits our business and the community.
-
-Tags: [NuGet](https://haacked.com/tags/NuGet/default.aspx), [Package
-Manager](https://haacked.com/tags/Package%20Manager/default.aspx), [Open
-Source](https://haacked.com/tags/Open+Source/default.aspx)
 

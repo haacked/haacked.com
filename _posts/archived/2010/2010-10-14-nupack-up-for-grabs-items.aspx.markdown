@@ -4,7 +4,7 @@ date: 2010-10-14 -0800
 disqus_identifier: 18727
 categories:
 - nuget
-- open source
+- oss
 redirect_from: "/archive/2010/10/13/nupack-up-for-grabs-items.aspx/"
 ---
 

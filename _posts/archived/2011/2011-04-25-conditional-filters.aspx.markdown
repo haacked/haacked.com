@@ -125,8 +125,3 @@ I use for my own little samples located at
 free to add that URL as a package source and
 `Install-Package ConditionalFilterProvider` in order to get the source.
 
-Tags: [aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
-[asp.net](https://haacked.com/tags/asp.net/default.aspx),
-[filter](https://haacked.com/tags/filter/default.aspx), [filter
-providers](https://haacked.com/tags/filter+providers/default.aspx)
-

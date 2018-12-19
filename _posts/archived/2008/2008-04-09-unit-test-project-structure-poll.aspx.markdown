@@ -33,6 +33,3 @@ for internal teams to make choices based on a wrong assumption. Thanks!
 tests?](http://answers.polldaddy.com/poll/506562/) \
  ([polls](http://www.polldaddy.com))
 
-Tags: [TDD](http://technorati.com/tags/TDD/ "TDD tag") , [Unit
-Testing](http://technorati.com/tags/Unit%20Testing/ "Unit Testing tag")
-

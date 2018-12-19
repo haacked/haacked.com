@@ -34,7 +34,3 @@ there ought to be immediate output as you calculate PI to further and
 further digits, unless this person decided to store all billion digits
 in a string before displaying it.
 
-tags: [C++](http://technorati.com/tag/C%2B%2B),
-[Bugs](http://technorati.com/tag/Bugs),
-[PI](http://technorati.com/tag/PI)
-

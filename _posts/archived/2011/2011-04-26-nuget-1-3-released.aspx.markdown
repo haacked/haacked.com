@@ -5,7 +5,7 @@ disqus_identifier: 18781
 categories:
 - nuget
 - code
-- open source
+- oss
 redirect_from: "/archive/2011/04/25/nuget-1-3-released.aspx/"
 ---
 

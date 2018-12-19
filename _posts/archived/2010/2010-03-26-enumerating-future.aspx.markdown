@@ -105,6 +105,3 @@ textarea
 As Matt told me, if you squint hard enough, it looks like you’re writing
 a LINQ query in JavaScript. :)
 
-Tags: [reactive
-extensions](https://haacked.com/tags/reactive+extensions/default.aspx),[javascript](https://haacked.com/tags/javascript/default.aspx)
-

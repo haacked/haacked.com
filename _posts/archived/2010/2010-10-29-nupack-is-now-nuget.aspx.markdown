@@ -4,7 +4,7 @@ date: 2010-10-29 -0800
 disqus_identifier: 18732
 categories:
 - code
-- open source
+- oss
 - nuget
 redirect_from: "/archive/2010/10/28/nupack-is-now-nuget.aspx/"
 ---
@@ -40,9 +40,4 @@ smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing-NuGe
 *NuGet: A new way to get libraries.*
 
 OR *NuGet* The caramel goodness of open source in your projects.
-
-Tags: [package
-manager](https://haacked.com/tags/package+manager/default.aspx),
-[NuGet](https://haacked.com/tags/NuGet/default.aspx),
-[not-nupack](https://haacked.com/tags/not-nupack/default.aspx)
 

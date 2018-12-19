@@ -104,7 +104,3 @@ simply punt on the issue. For example,
 [http://baidu.com/](http://baidu.com/ "Baidu search engine"), the most
 popular search engine in China last I checked, has English URLs.
 
-Tags: [URL](http://technorati.com/tags/URL/ "URL tag") ,
-[Localization](http://technorati.com/tags/Localization/ "Localization tag")
-, [Punycode](http://technorati.com/tags/Punycode/ "Punycode tag")
-

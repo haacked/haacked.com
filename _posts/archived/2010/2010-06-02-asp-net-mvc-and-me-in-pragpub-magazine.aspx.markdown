@@ -5,7 +5,7 @@ disqus_identifier: 18704
 categories:
 - asp.net mvc
 - personal
-- open source
+- oss
 redirect_from: "/archive/2010/06/01/asp-net-mvc-and-me-in-pragpub-magazine.aspx/"
 ---
 

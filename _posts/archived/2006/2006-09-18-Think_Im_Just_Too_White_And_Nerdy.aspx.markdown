@@ -29,9 +29,3 @@ and you might catch yourself singing it later.
 
 *Via [Jason Calacanis](http://www.calacanis.com/2006/09/18/wow/).*
 
-tags: [Humor](http://technorati.com/tag/Humor),
-[Funny](http://technorati.com/tag/Funny),
-[Video](http://technorati.com/tag/Video),
-[Geek](http://technorati.com/tag/Geek),
-[Nerdy](http://technorati.com/tag/Nerdy)
-

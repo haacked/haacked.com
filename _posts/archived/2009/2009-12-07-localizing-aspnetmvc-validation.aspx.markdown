@@ -125,8 +125,3 @@ As always, I have a code sample you can look at. It’s the same example
 as before, just updated. **[Download the
 sample](https://haacked.com/code/CustomValidationAttributeDemo.zip "Validation Sample App")!**
 
-Tags: [aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
-[asp.net](https://haacked.com/tags/asp.net/default.aspx),
-[validation](https://haacked.com/tags/validation/default.aspx),
-[localization](https://haacked.com/tags/localization/default.aspx), [data
-annotations](https://haacked.com/tags/data+annotations/default.aspx)

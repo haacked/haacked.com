@@ -257,9 +257,3 @@ For more info on Reactive Extensions, I recommend the following:
     Beta](http://blogs.msdn.com/b/rxteam/archive/2012/03/12/reactive-extensions-v2-0-beta-available-now.aspx "Rx 2.0 Beta")
     with details on how this works with the await keyword.
 
-Tags: [Rx](https://haacked.com/tags/Rx/default.aspx),
-[Reactive-Extensions](https://haacked.com/tags/Reactive-Extensions/default.aspx),
-[RxUI](https://haacked.com/tags/RxUI/default.aspx),
-[Reactive-UI](https://haacked.com/tags/Reactive-UI/default.aspx),
-[WPF](https://haacked.com/tags/WPF/default.aspx)
-

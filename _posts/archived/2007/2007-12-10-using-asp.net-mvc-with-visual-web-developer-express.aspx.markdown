@@ -33,9 +33,3 @@ for you.
 I personally would like to get ASP.NET MVC in more hands than less
 hands, so I hope we have a better story for this with a future release.
 
-Tags: [ASP.NET
-MVC](http://technorati.com/tags/aspnetmvc/ "ASP.NET MVC tag") , [Visual
-Web Developer
-Express](http://technorati.com/tags/Visual%20Web%20Developer%20Express/ "Visual Web Developer Express tag")
-, [VWD](http://technorati.com/tags/VWD/ "VWD tag")
-

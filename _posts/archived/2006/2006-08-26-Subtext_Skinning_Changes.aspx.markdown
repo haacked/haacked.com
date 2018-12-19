@@ -85,8 +85,3 @@ Gets rendered as...
 
 Thus only IE will see that style declaration.
 
-tags: [Subtext](http://technorati.com/tag/Subtext),
-[Skinning](http://technorati.com/tag/Skinning),
-[Skins](http://technorati.com/tag/Skins),
-[Blogs](http://technorati.com/tag/Blogs)
-

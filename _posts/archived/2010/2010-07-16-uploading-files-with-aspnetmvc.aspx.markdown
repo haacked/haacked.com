@@ -107,6 +107,3 @@ public ActionResult Index(IEnumerable<HttpPostedFileBase> files) {
 
 Yes, it’s that easy. :)
 
-Tags: [aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
-[upload](https://haacked.com/tags/upload/default.aspx)
-

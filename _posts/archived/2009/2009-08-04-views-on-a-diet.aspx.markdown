@@ -143,6 +143,3 @@ your roots. ;)
 Hope you enjoy these tips and use them to put your views on a diet.
 After all, isn’t it the view’s job to look good for the beach?
 
-Tags:
-[asp.net](https://haacked.com/tags/asp.net/default.aspx),[aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),[views](https://haacked.com/tags/views/default.aspx)
-

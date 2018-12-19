@@ -4,7 +4,7 @@ date: 2011-12-26 -0800
 disqus_identifier: 18835
 categories:
 - code
-- open source
+- oss
 redirect_from: "/archive/2011/12/25/oss-net-2011.aspx/"
 ---
 

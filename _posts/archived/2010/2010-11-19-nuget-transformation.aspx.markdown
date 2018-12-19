@@ -5,7 +5,7 @@ disqus_identifier: 18737
 categories:
 - code
 - nuget
-- open source
+- oss
 redirect_from: "/archive/2010/11/18/nuget-transformation.aspx/"
 ---
 

@@ -63,8 +63,3 @@ with all the features that it contains. I’m privileged to work with such
 great folks.
 ![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NET-MVC-4-Developer_823E/wlEmoticon-smile_2.png)
 
-Tags: [aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
-[asp.net](https://haacked.com/tags/asp.net/default.aspx),
-[preview](https://haacked.com/tags/preview/default.aspx),
-[nuget](https://haacked.com/tags/nuget/default.aspx)
-

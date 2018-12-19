@@ -74,6 +74,3 @@ Whether we change this or not, the fundamental issue is that developers
 should **never trust user input** and developers should always **treat
 action parameter values as user input**.
 
-Tags: [aspnetmvc](http://technorati.com/tags/aspnetmvc/ "aspnetmvc tag")
-, [security](http://technorati.com/tags/security/ "security tag")
-

@@ -5,7 +5,7 @@ disqus_identifier: 18853
 categories:
 - code
 - personal
-- open source
+- oss
 redirect_from: "/archive/2012/03/21/what-are-brogrammers-afraid-of.aspx/"
 ---
 

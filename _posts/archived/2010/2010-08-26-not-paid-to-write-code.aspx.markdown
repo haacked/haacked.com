@@ -184,6 +184,3 @@ factor in providing value, it’s not the part we get paid for. Customers
 pay to receive value. And they only get that value when the code is in
 their hands.
 
-Tags: [software
-development](https://haacked.com/tags/software+development/default.aspx)
-

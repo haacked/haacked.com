@@ -60,8 +60,3 @@ Update: **Related Links**
     Jeff Atwood of [CodingHorror.com](http://www.codinghorror.com/blog/)
     fame has the same reaction I did - WTF?
 
-tags: [Ruby](http://technorati.com/tag/Ruby), [Ruby On
-Rails](http://technorati.com/tag/Ruby+On+Rails), [Joel
-Spolsky](http://technorati.com/tag/Joel+Spolsky),
-[Performance](http://technorati.com/tag/Performance)
-

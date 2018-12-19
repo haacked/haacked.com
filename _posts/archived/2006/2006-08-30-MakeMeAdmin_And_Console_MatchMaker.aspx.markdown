@@ -52,7 +52,3 @@ here](http://tools.veloc-it.com/tabid/58/grm2id/11/Default.aspx "Tools Tools Too
 Hopefully all five of you out there also running as a non-admin will
 find this useful.
 
-tags: [LUA](http://technorati.com/tag/LUA), [Least User
-Account](http://technorati.com/tag/Least+User+Account),
-[NonAdmin](http://technorati.com/tag/NonAdmin)
-

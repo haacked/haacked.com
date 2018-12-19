@@ -22,5 +22,3 @@ We are getting close to a bug fix release that contains some extra
 goodies. I will set a release date soon. I have just been overwhelmed
 with work and other events.
 
-Tags: [Subtext](https://haacked.com/tags/subtext/default.aspx)
-

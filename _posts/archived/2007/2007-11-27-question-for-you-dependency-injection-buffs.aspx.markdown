@@ -105,8 +105,3 @@ provider.
 Dependency Injection frameworks out there?**Whether via code or
 configuration?
 
-Tags: [TDD](http://technorati.com/tags/TDD/ "TDD tag") , [Dependency
-Injection](http://technorati.com/tags/Dependency%20Injection/ "Dependency Injection tag")
-, [IoC](http://technorati.com/tags/IoC/ "IoC tag") ,
-[StructureMap](http://technorati.com/tags/StructureMap/ "StructureMap tag")
-

@@ -25,7 +25,3 @@ listen](http://morewally.com/cs/blogs/wallym/archive/2007/12/14/asp-net-podcast-
 This is why writing a blog is so much easier than being interviewed. All
 the times I correct myself are not visible in a blog entry.
 
-Tags: [ASP.NET
-MVC](http://technorati.com/tags/aspnetmvc/ "ASP.NET MVC tag") ,
-[Podcast](http://technorati.com/tags/Podcast/ "Podcast tag")
-

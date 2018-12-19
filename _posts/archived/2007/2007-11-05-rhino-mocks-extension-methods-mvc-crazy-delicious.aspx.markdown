@@ -119,8 +119,3 @@ routes](https://haacked.com/archive/2007/12/17/testing-routes-in-asp.net-mvc.asp
 The project includes a slightly more full featured version of the
 `MvcMockHelpers class. `
 
-Tags: [ASP.NET
-MVC](http://technorati.com/tags/aspnetmvc/ "ASP.NET MVC tag") ,
-[TDD](http://technorati.com/tags/TDD/ "TDD tag"), [Rhino
-Mocks](http://technorati.com/tags/rhino+mocks/ "Mocks tag")
-

@@ -2,7 +2,7 @@
 title: The new digs
 date: 2004-02-03 -0800
 disqus_identifier: 156
-categories: []
+categories: [subtext blogging]
 redirect_from: "/archive/2004/02/02/the-new-digs.aspx/"
 ---
 

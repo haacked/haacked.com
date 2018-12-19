@@ -45,26 +45,4 @@ the textarea.
 $(function() {
     $('textarea.source').livePreview({
         previewElement: $('div.preview'),
-        allowedTags: ['p', 'strong', 'br', 'em', 'strike'],
-        interval: 20
-    });
-});
-```
-
-One thing that’s different between this implementation and others I’ve
-seen is you can specify a set of allowed tags. When typing in the
-textbox, the preview will render any tags in that list. If the user
-types in tags which are *not* in that list, the preview will HTML encode
-the tags.
-
-Keep in mind that this plugin is for previewing what comments will look
-like and should not be used as validation! The preview might not exactly
-match your server-side logic.
-
-Also for fun, I’m **[hosting the source code on
-GitHub](http://github.com/Haacked/jQuery-Live-Preview "jQuery Live Preview on GitHub")**
-as a way to force myself to learn what all the fuss is about GIT.
-
-*Thanks to Bohdan Zograf, this blog post is also [available in
-Belarusian](http://www.webhostinghub.com/support/by/edu/live-preview-be "translated to Belarusian").*
-
+        allowed

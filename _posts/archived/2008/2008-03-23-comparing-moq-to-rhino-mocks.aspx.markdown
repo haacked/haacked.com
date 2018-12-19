@@ -120,7 +120,3 @@ public class MyClass
 
 Give it a whirl.
 
-Tags: [TDD](http://technorati.com/tags/TDD/ "TDD tag") ,
-[MoQ](http://technorati.com/tags/MoQ/ "MoQ tag") , [Rhino
-Mocks](http://technorati.com/tags/Rhino%20Mocks/ "Rhino Mocks tag")
-

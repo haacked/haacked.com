@@ -243,8 +243,3 @@ download](https://haacked.com/code/TempDataDemo.zip "TempData Demo Solution")**
 that includes full source code for the extension methods I wrote as well
 as a trivially simple application that demonstrates using this code.
 
-Tags: [ASP.NET
-MVC](http://technorati.com/tags/aspnetmvc/ "ASP.NET MVC tag") ,
-[TempData](http://technorati.com/tags/TempData/ "TempData tag") , [Form
-Handling](http://technorati.com/tags/Form%20Handling/ "Form Handling tag")
-

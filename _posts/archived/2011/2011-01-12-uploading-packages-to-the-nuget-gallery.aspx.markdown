@@ -4,7 +4,7 @@ date: 2011-01-12 -0800
 disqus_identifier: 18755
 categories:
 - nuget
-- open source
+- oss
 redirect_from: "/archive/2011/01/11/uploading-packages-to-the-nuget-gallery.aspx/"
 ---
 

@@ -74,8 +74,3 @@ nearly as drastic as choosing a different database vendor. Having your
 code isolated from your choice of database provides some nice peace of
 mind here.
 
-Tags: [IC](http://technorati.com/tags/IC/ "IC tag") , [Integrated
-Circuit](http://technorati.com/tags/Integrated+Circuit/ "Integrated Circuit tag")
-, [TDD](http://technorati.com/tags/TDD/ "TDD tag") , [Unit
-Testing](http://technorati.com/tags/Unit+Testing/ "Unit Testing tag")
-

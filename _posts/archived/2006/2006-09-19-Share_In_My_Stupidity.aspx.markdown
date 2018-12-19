@@ -37,6 +37,3 @@ post back was actually a redirect.
 See, that's the problem with software. It does **exactly** what you tell
 it to do. Even when you mean otherwise.
 
-tags: [Atlas](http://technorati.com/tag/Atlas),
-[WTF](http://technorati.com/tag/WTF)
-

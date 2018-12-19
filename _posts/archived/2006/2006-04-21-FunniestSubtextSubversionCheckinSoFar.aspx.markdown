@@ -28,5 +28,3 @@ my own blog originally. It took someone else to notice the mistake and
 fix it. An inability to link to oneself correctly. Is that a recognized
 form of dementia?
 
-Tags: [Subtext](https://haacked.com/tags/subtext/default.aspx)
-

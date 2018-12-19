@@ -38,7 +38,3 @@ rather than later.
 
 A code proof won’t necessarily find that “flaw” because it is not a flaw
 in logic.
-
-Tags: [TDD](http://technorati.com/tags/TDD/ "TDD tag") , [Code
-Provability](http://technorati.com/tags/Code%20Provability/ "Code Provability tag")
-

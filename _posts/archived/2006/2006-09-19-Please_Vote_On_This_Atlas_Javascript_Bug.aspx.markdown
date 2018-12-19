@@ -31,6 +31,3 @@ any browser extension such as CoComment with Atlas. 
 Please validate and [vote on this bug
 here](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=186395).
 
-tags: [ASP.NET](http://technorati.com/tag/ASP.NET),
-[Atlas](http://technorati.com/tag/Atlas)
-

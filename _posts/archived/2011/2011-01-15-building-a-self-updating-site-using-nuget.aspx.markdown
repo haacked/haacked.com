@@ -4,7 +4,7 @@ date: 2011-01-15 -0800
 disqus_identifier: 18757
 categories:
 - asp.net mvc
-- open source
+- oss
 - nuget
 redirect_from: "/archive/2011/01/14/building-a-self-updating-site-using-nuget.aspx/"
 ---

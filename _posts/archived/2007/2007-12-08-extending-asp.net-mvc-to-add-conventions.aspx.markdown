@@ -155,10 +155,3 @@ separate assembly and drop it into your own projects.
 To get to this class, [**download the *example*
 code**](https://haacked.com/code/ConventionControllerDemo.zip "ConventionController Demo").
 
-Tags: [ASP.NET
-MVC](http://technorati.com/tags/aspnetmvc/ "ASP.NET MVC tag") ,
-[Convention over
-Configuration](http://technorati.com/tags/Convention%20over%20Configuration/ "Convention over Configuration tag")
-,
-[ControllerAction](http://technorati.com/tags/ControllerAction/ "ControllerAction tag")
-

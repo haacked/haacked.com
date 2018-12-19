@@ -4,7 +4,7 @@ date: 2011-02-12 -0800
 disqus_identifier: 18762
 categories:
 - nuget
-- open source
+- oss
 - code
 redirect_from: "/archive/2011/02/11/nuget-1-1-released.aspx/"
 ---

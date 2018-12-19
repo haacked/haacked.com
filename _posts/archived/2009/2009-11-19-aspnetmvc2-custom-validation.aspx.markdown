@@ -343,8 +343,3 @@ And before I forget, here’s a [**demo
 application**](http://code.haacked.com/mvc-2/CustomValidationAttributeDemo.zip "Custom Validation Demo")
 demonstrating the attribute described in this post.
 
-Tags: [aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
-[validation](https://haacked.com/tags/validation/default.aspx), [client
-validation](https://haacked.com/tags/client+validation/default.aspx),
-[asp.net](https://haacked.com/tags/asp.net/default.aspx)
-

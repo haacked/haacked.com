@@ -75,8 +75,3 @@ I probably have much higher priority items on my plate that I could be
 working on, but sometimes you have to treat yourself to a little fun.
 Besides, I am doing this on my own time right now. :)
 
-Tags: [DLR](http://technorati.com/tags/DLR/ "DLR tag") ,
-[ASP.NET](http://technorati.com/tags/ASP.NET/ "ASP.NET tag") , [ASP.NET
-MVC](http://technorati.com/tags/aspnetmvc/ "ASP.NET MVC tag") ,
-[TDD](http://technorati.com/tags/TDD/ "TDD tag")
-

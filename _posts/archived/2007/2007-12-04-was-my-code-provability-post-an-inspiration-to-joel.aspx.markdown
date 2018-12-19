@@ -69,8 +69,3 @@ correctness, but can be a proof of incorrectness when a test fails.
 
 Oh well, one can dream.
 
-Tags: [TDD](http://technorati.com/tags/TDD/ "TDD tag") , [Joel
-Spolsky](http://technorati.com/tags/Joel%20Spolsky/ "Joel Spolsky tag")
-, [Code
-Provability](http://technorati.com/tags/Code%20Provability/ "Code Provability tag")
-

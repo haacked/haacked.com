@@ -59,8 +59,3 @@ areas that provide too little gain, as discussed in my [last post on
 Ruby
 Performance](https://haacked.com/archive/2006/09/12/Joel_On_Ruby_Performance.aspx).
 
-tags: [Performance](http://technorati.com/tag/Performance),
-[Optimization](http://technorati.com/tag/Optimization),
-[Software](http://technorati.com/tag/Software),
-[Programming](http://technorati.com/tag/Programming)
-

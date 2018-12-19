@@ -3,7 +3,7 @@ title: Dealing with Multiplatform Project Files
 date: 2013-11-07 -0800
 disqus_identifier: 18905
 categories:
-- open source
+- oss
 - code
 redirect_from: "/archive/2013/11/06/dealing-with-multiplatform-project-files.aspx/"
 ---

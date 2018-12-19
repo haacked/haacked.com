@@ -5,7 +5,7 @@ disqus_identifier: 18782
 categories:
 - nuget
 - code
-- open source
+- oss
 redirect_from: "/archive/2011/04/26/feedback-request-for-using-nuget-without-committing-packages.aspx/"
 ---
 

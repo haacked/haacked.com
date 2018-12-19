@@ -4,7 +4,7 @@ date: 2012-03-29 -0800
 disqus_identifier: 18854
 categories:
 - code
-- open source
+- oss
 - asp.net
 - asp.net mvc
 redirect_from: "/archive/2012/03/28/asp-net-mvc-now-accepting-pull-requests.aspx/"

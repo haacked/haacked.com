@@ -60,8 +60,3 @@ when you’re ready to push your changes to the server, click on the
 While we think you’ll have the best experience on GitHub.com, we also
 think GitHub for Windows is a great client for any Git host.
 
-Tags: [git](https://haacked.com/tags/git/default.aspx),
-[github](https://haacked.com/tags/github/default.aspx),
-[ghfw](https://haacked.com/tags/ghfw/default.aspx),
-[gh4w](https://haacked.com/tags/gh4w/default.aspx)
-

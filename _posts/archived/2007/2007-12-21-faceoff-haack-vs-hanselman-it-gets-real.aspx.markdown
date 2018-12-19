@@ -68,6 +68,3 @@ retrospect, it was a good thing to get such a big production mistake out
 of the way early because I was extremely careful afterwards, always
 triple checking my work.
 
-Tags: [Software
-Development](http://technorati.com/tags/Software%20Development/ "Software Development tag")
-

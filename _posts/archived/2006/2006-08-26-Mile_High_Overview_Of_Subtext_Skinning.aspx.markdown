@@ -4,7 +4,7 @@ date: 2006-08-26 -0800
 disqus_identifier: 16091
 categories:
 - subtext
-- open source
+- oss
 redirect_from: "/archive/2006/08/25/Mile_High_Overview_Of_Subtext_Skinning.aspx/"
 ---
 
@@ -161,9 +161,4 @@ Conclusion
 We provided the *Naked* skin so that developers creating custom skins
 could play around with an absolutely bare-bone skin and see just how
 each of the controls participates in rendering a blog.
-
-tags: [Subtext](http://technorati.com/tag/Subtext),
-[Skins](http://technorati.com/tag/Skins),
-[Skinning](http://technorati.com/tag/Skinning),
-[Blogs](http://technorati.com/tag/Blogs)
 

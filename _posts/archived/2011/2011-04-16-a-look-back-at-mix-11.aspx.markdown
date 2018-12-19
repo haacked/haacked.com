@@ -4,7 +4,7 @@ date: 2011-04-16 -0800
 disqus_identifier: 18776
 categories:
 - code
-- open source
+- oss
 - asp.net mvc
 - asp.net
 - nuget
@@ -119,10 +119,4 @@ walk around the strip, and take in a show
 [JabbaWockeez](http://en.wikipedia.org/wiki/JabbaWockeeZ "JabbaWockeez").
 
 [![IMG\_1183](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/IMG_1183_thumb.jpg "IMG_1183")](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/IMG_1183.jpg)[![IMG\_1188](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/IMG_1188_thumb.jpg "IMG_1188")](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-at-Mix-11_D597/IMG_1188.jpg)
-
-Tags: [aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
-[nuget-gallery](https://haacked.com/tags/nuget-gallery/default.aspx),
-[mix11](https://haacked.com/tags/mix11/default.aspx),
-[mix](https://haacked.com/tags/mix/default.aspx),
-[nuget](https://haacked.com/tags/nuget/default.aspx)
 

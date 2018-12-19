@@ -171,7 +171,3 @@ public void CanCallCycle() {
 }
 ```
 
-Tags: [aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
-[dynamic](https://haacked.com/tags/dynamic/default.aspx),
-[viewdata](https://haacked.com/tags/viewdata/default.aspx)
-

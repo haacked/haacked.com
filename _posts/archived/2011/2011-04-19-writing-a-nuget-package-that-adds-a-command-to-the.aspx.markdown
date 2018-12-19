@@ -4,7 +4,7 @@ date: 2011-04-19 -0800
 disqus_identifier: 18778
 categories:
 - code
-- open source
+- oss
 - nuget
 redirect_from: "/archive/2011/04/18/writing-a-nuget-package-that-adds-a-command-to-the.aspx/"
 ---

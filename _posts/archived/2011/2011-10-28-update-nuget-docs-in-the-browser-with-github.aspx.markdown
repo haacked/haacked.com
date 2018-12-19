@@ -4,7 +4,7 @@ date: 2011-10-28 -0800
 disqus_identifier: 18822
 categories:
 - nuget
-- open source
+- oss
 redirect_from: "/archive/2011/10/27/update-nuget-docs-in-the-browser-with-github.aspx/"
 ---
 

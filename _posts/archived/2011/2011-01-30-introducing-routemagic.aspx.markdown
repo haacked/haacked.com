@@ -6,7 +6,7 @@ categories:
 - asp.net
 - code
 - asp.net mvc
-- open source
+- oss
 redirect_from: "/archive/2011/01/29/introducing-routemagic.aspx/"
 ---
 

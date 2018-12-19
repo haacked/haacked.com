@@ -97,7 +97,3 @@ To me, this is a real testament to the benefits of applying lean and
 agile principles in software development, as well as the benefits of
 having good unit test coverage.
 
-Tags: [design](http://technorati.com/tags/design/ "design tag") ,
-[Software
-Development](http://technorati.com/tags/Software%20Development/ "Software Development tag")
-

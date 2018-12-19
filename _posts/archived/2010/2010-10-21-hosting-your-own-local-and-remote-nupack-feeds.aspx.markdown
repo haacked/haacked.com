@@ -5,7 +5,7 @@ disqus_identifier: 18728
 categories:
 - nuget
 - code
-- open source
+- oss
 redirect_from: "/archive/2010/10/20/hosting-your-own-local-and-remote-nupack-feeds.aspx/"
 ---
 
@@ -121,8 +121,4 @@ Feed**](https://haacked.com/archive/2011/03/31/hosting-simple-nuget-package-feed
 We imagine that the primary usage of NuGet will be to point it to our
 main online feed. But the flexibility of NuGet to allow for private
 local feeds as well as curated feeds should appeal to many.
-
-Tags: [NuGet](https://haacked.com/tags/NuGet/default.aspx), [Package
-Manager](https://haacked.com/tags/Package+Manager/default.aspx),
-[OData](https://haacked.com/tags/OData/default.aspx)
 

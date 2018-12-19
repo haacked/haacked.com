@@ -4,7 +4,7 @@ date: 2011-04-06 -0800
 disqus_identifier: 18772
 categories:
 - nuget
-- open source
+- oss
 - code
 redirect_from: "/archive/2011/04/05/nuget-needs-your-input.aspx/"
 ---

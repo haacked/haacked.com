@@ -82,6 +82,3 @@ I’m thinking, “man, I can’t believe I’m already thinking about version
 -   [Source code and Futures for ASP.NET MVC 2
     Beta](http://aspnet.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=36054 "ASP.NET MVC 2 Beta on CodePlex")
 
-Tags: [aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
-[asp.net](https://haacked.com/tags/asp.net/default.aspx)
-

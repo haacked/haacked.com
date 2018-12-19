@@ -2,7 +2,7 @@
 title: RSS Bandit Comment Watcher
 date: 2006-11-27 -0800
 disqus_identifier: 18150
-categories: []
+categories: [rss]
 redirect_from: "/archive/2006/11/26/RSS_Bandit_Comment_Watcher.aspx/"
 ---
 

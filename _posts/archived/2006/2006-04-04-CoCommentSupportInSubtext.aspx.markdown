@@ -36,5 +36,3 @@ then inherited from that class to implement a Subtext specific version.
 That control gets rendered in the *head* section of the page to maintain
 as much XHTML compliance as possible. I am seriously anal, aren’t I?
 
-Tags: [Subtext](https://haacked.com/tags/subtext/default.aspx)
-

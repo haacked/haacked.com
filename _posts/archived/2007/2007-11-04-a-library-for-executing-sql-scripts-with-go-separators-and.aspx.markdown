@@ -84,7 +84,3 @@ can come before or after a GO statement on a line.
 In case you missed the link, [DOWNLOAD IT
 HERE](http://code.haacked.com/util/Subtext.Scripting.zip "Subtext Scripting Assembly").
 
-Tags: [Subtext](http://technorati.com/tags/Subtext/ "Subtext tag") ,
-[SQL](http://technorati.com/tags/SQL/ "SQL tag") , [Sql Script
-Runner](http://technorati.com/tags/Sql%20Script%20Runner/ "Sql Script Runner tag")
-

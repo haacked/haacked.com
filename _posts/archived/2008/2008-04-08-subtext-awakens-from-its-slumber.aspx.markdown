@@ -50,5 +50,3 @@ new hotly requested features. It should be a nice release. Sorry it’s
 been so quiet for so long, but the engine is back up and running full
 speed ahead.
 
-Tags: [Subtext](http://technorati.com/tags/Subtext/ "Subtext tag")
-

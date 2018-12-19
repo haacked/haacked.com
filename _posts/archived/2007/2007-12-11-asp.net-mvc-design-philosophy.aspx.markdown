@@ -43,6 +43,3 @@ the first place I worked where we actually did that in a real manner.
 Obviously the developers are top notch as you can see from Eilon’s blog
 in general. Hopefully the PM of this team can keep up. ;)
 
-Tags: [ASP.NET
-MVC](http://technorati.com/tags/aspnetmvc/ "ASP.NET MVC tag")
-

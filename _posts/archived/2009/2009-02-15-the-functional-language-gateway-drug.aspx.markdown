@@ -156,7 +156,3 @@ imperative programmer like me, it feels like a new world opening up.
 ultimate gateway drug for functional programming. But I’m kind of
 focusing on static typed language afficionados, so forgive me. ;)
 
-Tags:
-[functional](http://technorati.com/tags/functional/ "functional tag") ,
-[linq](http://technorati.com/tags/linq/ "linq tag")
-

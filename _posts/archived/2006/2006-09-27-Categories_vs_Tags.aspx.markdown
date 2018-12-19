@@ -37,8 +37,3 @@ post. 
 My current thinking is to pursue parsing tags from posted content and
 using that to *tag* content.
 
-tags: [Rel-Tag](http://technorati.com/tag/Rel-Tag),
-[Microformat](http://technorati.com/tag/Microformat),
-[Categories](http://technorati.com/tag/Categories),
-[Tags](http://technorati.com/tag/Tags)
-

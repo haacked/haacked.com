@@ -4,7 +4,7 @@ date: 2013-05-13 -0800
 disqus_identifier: 18889
 categories:
 - code
-- open source
+- oss
 - github
 redirect_from: "/archive/2013/05/12/applying-conways-law.aspx/"
 ---

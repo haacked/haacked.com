@@ -103,5 +103,3 @@ momentum going in producing a great blogging platform for ASP.NET.
 And before I forget, here’s the **[download page
 link](https://sourceforge.net/project/showfiles.php?group_id=137896 "Download Subtext 2.0")**.
 
-Tags: [subtext](http://technorati.com/tags/subtext/ "subtext tag")
-

@@ -4,7 +4,7 @@ date: 2011-04-20 -0800
 disqus_identifier: 18779
 categories:
 - code
-- open source
+- oss
 redirect_from: "/archive/2011/04/19/release-early-and-often.aspx/"
 ---
 

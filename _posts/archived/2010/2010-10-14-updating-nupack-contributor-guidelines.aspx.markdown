@@ -5,7 +5,7 @@ disqus_identifier: 18726
 categories:
 - nuget
 - code
-- open source
+- oss
 redirect_from: "/archive/2010/10/13/updating-nupack-contributor-guidelines.aspx/"
 ---
 

@@ -31,8 +31,3 @@ to stand up to the C++ snobs.
 
 Now we just need someone to help spruce up the logo.
 
-Tags: [Custom Search](http://technorati.com/tags/Custom%20Search),
-[Search](http://technorati.com/tags/Search),
-[.NET](http://technorati.com/tags/.NET), [Dan
-Appleman](http://technorati.com/tags/Dan%20Appleman)
-

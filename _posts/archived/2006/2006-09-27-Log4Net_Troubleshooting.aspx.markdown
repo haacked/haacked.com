@@ -86,5 +86,3 @@ Hopefully this helps you with your log4net issues.
 -   [Log4Net Breaking Change in
     1.2.9](https://haacked.com/archive/2006/08/07/Log4NetBreakingChangeIn1.2.9.aspx)
 
-tags: [Log4Net](http://technorati.com/tag/Log4Net)
-

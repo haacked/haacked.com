@@ -2,7 +2,7 @@
 title: Five Things You Didn't Want To Know About Me
 date: 2007-01-02 -0800
 disqus_identifier: 18182
-categories: []
+categories: [personal]
 redirect_from: "/archive/2007/01/01/Five_Things_You_Didnt_Want_To_Know_About_Me.aspx/"
 ---
 

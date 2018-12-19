@@ -55,11 +55,3 @@ together you can read about on [Scott’s
 post](http://www.hanselman.com/blog/DevConnectionsASPConnections2007InVegas.aspx "Scott Hanselman").
 Come by and say hi.
 
-Tags: [Microsoft](http://technorati.com/tags/Microsoft/ "Microsoft tag")
-,
-[DevConnections](http://technorati.com/tags/DevConnections/ "DevConnections tag")
-,
-[AspConnections](http://technorati.com/tags/AspConnections/ "AspConnections tag")
-, [OpenForce](http://technorati.com/tags/OpenForce/ "OpenForce tag") ,
-[Conference](http://technorati.com/tags/Conference/ "Conference tag")
-

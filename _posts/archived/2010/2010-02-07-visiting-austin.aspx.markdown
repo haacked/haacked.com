@@ -46,7 +46,3 @@ on the town with
 [Bellware](http://blog.scottbellware.com/ "Scott Bellware"). I expect
 chaos. ;)
 
-Tags: [austin](https://haacked.com/tags/austin/default.aspx),
-[texas](https://haacked.com/tags/texas/default.aspx), [.net user
-group](https://haacked.com/tags/.net+user+group/default.aspx)
-

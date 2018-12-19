@@ -19,5 +19,3 @@ If you already upgraded to Subtext 1.5, you only need to update the
 line code change. I apologize for the inconvenience and for the mistake.
 Please spread the word.
 
-Tags: [Subtext](https://haacked.com/tags/subtext/default.aspx)
-

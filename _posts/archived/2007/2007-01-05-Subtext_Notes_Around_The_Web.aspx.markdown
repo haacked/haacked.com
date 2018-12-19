@@ -2,7 +2,7 @@
 title: Subtext Notes Around The Web
 date: 2007-01-05 -0800
 disqus_identifier: 18186
-categories: []
+categories: [subtext]
 redirect_from: "/archive/2007/01/04/Subtext_Notes_Around_The_Web.aspx/"
 ---
 

@@ -228,6 +228,3 @@ Presentation](http://www.hanselman.com/blog/content/radiostories/2003/01/22/scot
 and Venkatarangan’s [Tips for doing effective
 Presentations](http://www.venkatarangan.com/blog/PermaLink.aspx?guid=dab57735-2976-40d7-a5d0-2e641ddea515 "Tips for doing effective presentations").
 
-Tags:
-[mix11](https://haacked.com/tags/mix11/default.aspx),[mix](https://haacked.com/tags/mix/default.aspx),[presentations](https://haacked.com/tags/presentations/default.aspx),[tips](https://haacked.com/tags/tips/default.aspx)
-

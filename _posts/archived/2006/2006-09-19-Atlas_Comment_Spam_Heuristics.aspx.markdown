@@ -31,7 +31,3 @@ from this control.  It has a couple features that I mentioned.
 I think that will be a nice minor addition to a comment spam fighter’s
 toolkit. It’s **Invisible CAPTCHA**.  Very cool!
 
-tags: [ASP.NET](http://technorati.com/tag/ASP.NET),
-[Atlas](http://technorati.com/tag/Atlas), [Comment
-Spam](http://technorati.com/tag/Comment+Spam)
-

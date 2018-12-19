@@ -257,7 +257,3 @@ Another option to try is the following:
 -   Close Visual Studio.
 -   Execute devenv /setup.
 
-Tags: [aspnetmvc](http://technorati.com/tags/aspnetmvc/ "aspnetmvc tag")
-, [msizap](http://technorati.com/tags/msizap/ "msizap tag") ,
-[installation](http://technorati.com/tags/installation/ "installation tag")
-

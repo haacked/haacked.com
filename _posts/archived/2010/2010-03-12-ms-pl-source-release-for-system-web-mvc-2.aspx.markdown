@@ -5,7 +5,7 @@ disqus_identifier: 18690
 categories:
 - asp.net
 - asp.net mvc
-- open source
+- oss
 - code
 redirect_from: "/archive/2010/03/11/ms-pl-source-release-for-system-web-mvc-2.aspx/"
 ---

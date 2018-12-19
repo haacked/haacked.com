@@ -26,6 +26,3 @@ up to Scotch. ;)
 Seriously though, if you’re looking to blow off some steam on a Wed
 night (aren’t we all?) swing by and throw back one or a few with us.
 
-Tags: [Geek
-Dinner](http://technorati.com/tags/Geek%20Dinner/ "Geek Dinner tag")
-

@@ -2,7 +2,7 @@
 title: EXIF, RDF and Flickr Metadata Management
 date: 2005-06-01 -0800
 disqus_identifier: 3983
-categories: []
+categories: [blogging]
 redirect_from: "/archive/2005/05/31/exif-rdf-and-flickr-metadata-management.aspx/"
 ---
 

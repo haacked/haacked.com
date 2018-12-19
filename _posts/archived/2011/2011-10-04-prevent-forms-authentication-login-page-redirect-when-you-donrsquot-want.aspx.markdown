@@ -237,8 +237,3 @@ Framework.
 Update: As I stated at the beginning, a new property added in ASP.NET
 4.5 supports doing this.
 
-Tags: [asp.net](https://haacked.com/tags/asp.net/default.aspx),
-[aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
-[formsauth](https://haacked.com/tags/formsauth/default.aspx),
-[membership](https://haacked.com/tags/membership/default.aspx)
-

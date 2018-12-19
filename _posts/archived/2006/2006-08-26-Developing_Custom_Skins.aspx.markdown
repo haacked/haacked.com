@@ -45,8 +45,3 @@ From now on, it is recommended that if you customize an existing skin,
 you should rename the folder and place your skin definition in
 Skins.User.config.
 
-tags: [Subtext](http://technorati.com/tag/Subtext),
-[Skins](http://technorati.com/tag/Skins),
-[Skinning](http://technorati.com/tag/Skinning),
-[Blogs](http://technorati.com/tag/Blogs)
-

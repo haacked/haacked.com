@@ -115,8 +115,3 @@ which is a boon to the .NET Framework.
 *Disclaimer:* *I shouldn’t need to say it, but to be clear, these are my
 opinions and not necessarily those of my employer.*
 
-Tags: [Microsoft](http://technorati.com/tags/Microsoft/ "Microsoft tag")
-, [Open
-Source](http://technorati.com/tags/Open%20Source/ "Open Source tag") ,
-[OSS](http://technorati.com/tags/OSS/ "OSS tag")
-

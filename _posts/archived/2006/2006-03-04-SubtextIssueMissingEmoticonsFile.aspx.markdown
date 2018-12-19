@@ -33,5 +33,3 @@ For those of you about to download Subtext, [SourceForge has the
 corrected
 version](http://prdownloads.sourceforge.net/subtext/Subtext_1.0.0.2_INSTALL.zip?download "Download Subtext").
 
-Tags: [Subtext](https://haacked.com/tags/subtext/default.aspx)
-

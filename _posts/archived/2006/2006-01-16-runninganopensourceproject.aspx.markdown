@@ -4,7 +4,7 @@ date: 2006-01-16 -0800
 disqus_identifier: 11517
 categories:
 - code
-- open source
+- oss
 redirect_from: "/archive/2006/01/15/runninganopensourceproject.aspx/"
 ---
 

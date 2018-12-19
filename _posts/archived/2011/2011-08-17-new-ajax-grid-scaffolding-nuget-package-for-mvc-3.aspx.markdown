@@ -114,9 +114,3 @@ the back button to take you to your previous view of the grid? Do you
 have any suggestions on how to clean up the generated code? Did you
 encounter any bugs/issues? If so, we want to know.
 
-Tags: [aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
-[asp.net](https://haacked.com/tags/asp.net/default.aspx),
-[ajax](https://haacked.com/tags/ajax/default.aspx),
-[jquery](https://haacked.com/tags/jquery/default.aspx),
-[grid](https://haacked.com/tags/grid/default.aspx)
-

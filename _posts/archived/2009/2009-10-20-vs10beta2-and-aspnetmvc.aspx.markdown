@@ -101,8 +101,3 @@ showing an error dialog, VS10 will provide a wizard to upgrade the
 project which will be somewhat based on the sample Eilon provided. So be
 sure to supply feedback on his wizard soon!
 
-Tags: [aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
-[asp.net](https://haacked.com/tags/asp.net/default.aspx), [visual studio
-2010](https://haacked.com/tags/visual+studio+2010/default.aspx), [visual
-studio](https://haacked.com/tags/visual+studio/default.aspx)
-

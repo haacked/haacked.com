@@ -2,9 +2,7 @@
 title: Announcing Subtext, A Fork Of .TEXT For Your Blogging Pleasure
 date: 2005-05-04 -0800
 disqus_identifier: 2953
-categories:
-- subtext
-- open source
+categories: [subtext oss]
 redirect_from: "/archive/2005/05/03/announcing-subtext.aspx/"
 ---
 
@@ -141,6 +139,4 @@ time. But until then, I think Subtext will ride the wave of backlash at
 the perceived hastiness in which CS 1.0 was released and hopefully turn
 into a compelling product in its own right. We're carving out a niche
 here.
-
-Tags: [Subtext](https://haacked.com/tags/subtext/default.aspx)
 

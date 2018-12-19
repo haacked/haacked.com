@@ -106,7 +106,3 @@ reader.Setup(r => r.Read()).ReturnsInOrder(true, true, false);
 
 In the words of Borat, Very Nice!
 
-Tags: [TDD](https://haacked.com/tags/TDD/default.aspx), [unit
-testing](https://haacked.com/tags/unit+testing/default.aspx),
-[MoQ](https://haacked.com/tags/MoQ/default.aspx)
-

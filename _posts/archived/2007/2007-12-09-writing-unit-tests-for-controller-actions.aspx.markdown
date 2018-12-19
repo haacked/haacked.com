@@ -226,7 +226,3 @@ scenarios.
 
  
 
-Tags:
-[aspnetmvc](http://technorati.com/tags/aspnetmvc/ "ASP.NET MVC tag") ,
-[TDD](http://technorati.com/tags/TDD/ "TDD tag")
-

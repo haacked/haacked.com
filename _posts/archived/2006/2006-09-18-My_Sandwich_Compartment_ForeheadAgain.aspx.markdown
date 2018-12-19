@@ -35,7 +35,3 @@ If I had been drinking a Coke at that point, it would have been snorted
 all over my keyboard.  Many thanks to Scott for allowing me to share
 this story, albeit grudgingly. ;)
 
-tags: [Sandwich](http://technorati.com/tag/Sandwich), [Scott
-Hanselman](http://technorati.com/tag/Scott+Hanselman),
-[Forehead](http://technorati.com/tag/Forehead)
-

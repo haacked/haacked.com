@@ -5,7 +5,7 @@ disqus_identifier: 18264
 categories:
 - code
 - tdd
-- open source
+- oss
 - tech
 redirect_from: "/archive/2007/03/26/rhino-mocks-3.0-released.aspx/"
 ---

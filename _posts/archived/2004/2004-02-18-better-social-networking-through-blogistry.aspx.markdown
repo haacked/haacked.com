@@ -2,16 +2,13 @@
 title: Better Social Networking through Blogistry
 date: 2004-02-18 -0800
 disqus_identifier: 201
-categories: []
+categories: [blogging]
 redirect_from: "/archive/2004/02/17/better-social-networking-through-blogistry.aspx/"
 ---
 
-![agent](/images/agent.jpg)Lately it seems that everybody is playing
-“six-degrees of separation” by sprouting a social networking service.
-Some of the most prominent are
-[Friendster.com](http://www.friendster.com/ "Now Defunct Friendster Website"),
-[Tribe.com](http://www.tribe.com/ "Tribe website"),
-[MySpace.com](http://www.myspace.com/ "MySpace"), and Google’s
+![agent](/images/agent.jpg)Lately it seems that everybody is playing “six-degrees of separation” by sprouting a social networking service.
+Some of the most prominent are [Friendster.com](http://www.friendster.com/ "Now Defunct Friendster Website"),
+[Tribe.com](http://www.tribe.com/ "Tribe website"), [MySpace.com](http://www.myspace.com/ "MySpace"), and Google’s
 [Orkut](http://www.orkut.com/ "Orkut"). The promise these services make
 is that by joining, you’ll be where all your friends are and in the
 process make new friends and business contacts, though in reality they
@@ -123,4 +120,3 @@ example of Microsoft’s favorite TLA these days, SOA or Service Oriented
 Architecture. It doesn’t matter which platform your blog is implemented
 on. As long as it supports these various API’s and can make an http
 request, it can participate in this rich communication.
-

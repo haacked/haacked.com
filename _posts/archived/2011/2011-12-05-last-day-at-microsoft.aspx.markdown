@@ -44,5 +44,3 @@ I’ll still be blogging here and tweeting on Twitter so do stick around
 as I begin my new journey at **~~REDACTED~~**
 [GitHub](https://haacked.com/archive/2011/12/07/hello-github.aspx "Hello GitHub")!
 
-Tags: [microsoft](https://haacked.com/tags/microsoft/default.aspx)
-

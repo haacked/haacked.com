@@ -52,5 +52,3 @@ contributions), Subversion and CVS have the nice benefit of a [patching
 feature](http://www.hanselman.com/blog/ExampleHowToContributeAPatchToAnOpenSourceProjectLikeDasBlog.aspx "Contribute a patch")
 making it easy to contribute without having write access.
 
-tags: [Source Control](http://technorati.com/tag/Source+Control)
-

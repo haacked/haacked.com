@@ -272,9 +272,3 @@ I followed up this post with [a proposal to fix
 JSON](https://haacked.com/archive/2009/06/26/too-late-to-change-json.aspx "Too late to change JSON?")
 to prevent this particular issue.
 
-Tags: [aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
-[json](https://haacked.com/tags/json/default.aspx),
-[javascript](https://haacked.com/tags/javascript/default.aspx),
-[security](https://haacked.com/tags/security/default.aspx),
-[browsers](https://haacked.com/tags/browsers/default.aspx)
-

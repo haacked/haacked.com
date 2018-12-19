@@ -23,5 +23,3 @@ that I just couldn’t hold back. And this time, I am dragging my [buddy
 (and business partner) Micah](http://micahdylan.com/ "Micah Dylan")
 along. Still working on getting Kyle to come again.
 
-Tags: [[BurningMan](http://technorati.com/tag/BurningMan)]
-

@@ -5,7 +5,7 @@ disqus_identifier: 18847
 categories:
 - code
 - asp.net mvc
-- open source
+- oss
 - community
 redirect_from: "/archive/2012/02/15/open-source-and-open-source-software-are-not-the-same.aspx/"
 ---

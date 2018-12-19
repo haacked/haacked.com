@@ -146,7 +146,3 @@ solution](http://zendeveloper.blogspot.com/2012/01/structuring-unit-tests.html "
 in which the nested child classes simply inherit the outer parent class.
 Thus they’ll all share the same setup code.
 
-Tags: [unit testing](https://haacked.com/tags/unit+testing/default.aspx),
-[tdd](https://haacked.com/tags/tdd/default.aspx),
-[xunit](https://haacked.com/tags/xunit/default.aspx)
-

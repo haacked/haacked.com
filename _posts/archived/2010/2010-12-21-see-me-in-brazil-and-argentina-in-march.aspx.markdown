@@ -59,9 +59,3 @@ Good thing I’m getting started on this early. Hey Brazil, I promise not
 to trash your country. So feel free to make my application go through
 more quickly.
 
-Tags: [webcamps](https://haacked.com/tags/webcamps/default.aspx),
-[aspnetmvc](https://haacked.com/tags/aspnetmvc/default.aspx),
-[asp.net](https://haacked.com/tags/asp.net/default.aspx),
-[brazil](https://haacked.com/tags/brazil/default.aspx),
-[argentina](https://haacked.com/tags/argentina/default.aspx)
-

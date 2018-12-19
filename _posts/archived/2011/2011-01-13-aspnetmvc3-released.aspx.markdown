@@ -6,7 +6,7 @@ categories:
 - asp.net
 - asp.net mvc
 - code
-- open source
+- oss
 - nuget
 redirect_from: "/archive/2011/01/12/aspnetmvc3-released.aspx/"
 ---

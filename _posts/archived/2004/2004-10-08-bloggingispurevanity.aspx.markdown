@@ -2,9 +2,7 @@
 title: 'Blogging Is Pure Vanity: Profile Of A Vain Blogger'
 date: 2004-10-08 -0800
 disqus_identifier: 1322
-categories:
-- blogging
-- humor
+categories: [blogging humor]
 redirect_from: "/archive/2004/10/07/bloggingispurevanity.aspx/"
 ---
 
@@ -75,7 +73,4 @@ Unless of course you can get me on Slashdot...
 UPDATE: One tool on the vain blogger's utility belt I forgot to mention
 is blatant self promotion. Got that one from [Brian Bailey's tips for a better blog](http://www.leaveitbehind.com/home/2005/01/building_a_bett.html),
 but it applies just as well to vanity.
-
-Tags: [blogging](https://haacked.com/tags/blogging/default.aspx), [Meta
-blogging](https://haacked.com/tags/meta%20blogging/default.aspx)
 

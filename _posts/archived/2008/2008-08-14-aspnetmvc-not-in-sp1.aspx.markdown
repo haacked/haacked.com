@@ -89,7 +89,3 @@ the graph move towards zero feels good. Those are the metrics I like,
 the ones that inspire positive feelings among the team and a sense of
 forward motion and momentum. :)
 
-Tags: [aspnetmvc](http://technorati.com/tags/aspnetmvc/ "aspnetmvc tag")
-, [aspnet](http://technorati.com/tags/aspnet/ "aspnet tag") ,
-[schedule](http://technorati.com/tags/schedule/ "schedule tag")
-

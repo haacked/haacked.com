@@ -3,7 +3,7 @@ title: Avoid Premature Standardization
 date: 2013-11-04 -0800
 disqus_identifier: 18904
 categories:
-- open source
+- oss
 - code
 - github
 redirect_from: "/archive/2013/11/03/avoid-premature-standardization.aspx/"

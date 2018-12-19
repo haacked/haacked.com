@@ -5,7 +5,7 @@ disqus_identifier: 18725
 categories:
 - nuget
 - code
-- open source
+- oss
 redirect_from: "/archive/2010/10/11/running-open-source-in-a-distributed-world.aspx/"
 ---
 

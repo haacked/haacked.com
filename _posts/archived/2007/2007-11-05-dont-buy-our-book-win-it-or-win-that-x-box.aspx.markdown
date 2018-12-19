@@ -37,6 +37,3 @@ that, would you?
 In any case, for more contest details, check out [the contest
 page](http://dotnetslackers.com/contest/peers/ "Contribute to DotNetSlackers community and win prizes").
 
-Tags: [Contest](http://technorati.com/tags/Contest/ "Contest tag") ,
-[Book](http://technorati.com/tags/Book/ "Book tag")
-

@@ -3,7 +3,7 @@ title: RSS Bandit 1.3.0.26 Released!
 date: 2005-03-20 -0800
 disqus_identifier: 2411
 categories:
-- open source
+- oss
 redirect_from: "/archive/2005/03/19/rssbandit-13026-released.aspx/"
 ---
 

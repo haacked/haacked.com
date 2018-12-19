@@ -130,8 +130,3 @@ took the most defensive route.
 [[**Download InvisibleCaptcha
 here**](http://www.codeplex.com/subkismet)].
 
-tags: [CAPTCHA](http://technorati.com/tag/CAPTCHA), [Comment
-Spam](http://technorati.com/tag/Comment+Spam),
-[ASP.NET](http://technorati.com/tag/ASP.NET),
-[Validator](http://technorati.com/tag/Validator)
-

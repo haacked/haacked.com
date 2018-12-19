@@ -2,8 +2,7 @@
 title: Subtext Roadmap
 date: 2005-05-04 -0800
 disqus_identifier: 2983
-categories:
-- subtext
+categories: [subtext]
 redirect_from: "/archive/2005/05/03/subtext-roadmap.aspx/"
 ---
 
@@ -131,6 +130,4 @@ feedback on this decision.
 -   **Intelligent comment filtering**: Whether it be via Bayes filtering
     or some other means, but a more autonomous method of spam filtering
     is called for.
-
-Tags: [Subtext](https://haacked.com/tags/subtext/default.aspx)
 

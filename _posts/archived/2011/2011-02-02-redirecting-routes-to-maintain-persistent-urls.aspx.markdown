@@ -5,7 +5,7 @@ disqus_identifier: 18761
 categories:
 - asp.net
 - nuget
-- open source
+- oss
 redirect_from: "/archive/2011/02/01/redirecting-routes-to-maintain-persistent-urls.aspx/"
 ---
 

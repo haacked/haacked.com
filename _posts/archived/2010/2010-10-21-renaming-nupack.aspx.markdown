@@ -5,7 +5,7 @@ disqus_identifier: 18729
 categories:
 - nuget
 - code
-- open source
+- oss
 redirect_from: "/archive/2010/10/20/renaming-nupack.aspx/"
 ---
 

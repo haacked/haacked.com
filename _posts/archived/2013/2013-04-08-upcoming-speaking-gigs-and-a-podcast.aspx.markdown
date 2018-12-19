@@ -2,10 +2,7 @@
 title: Upcoming Speaking Gigs and a Podcast
 date: 2013-04-08 -0800
 disqus_identifier: 18887
-categories:
-- community
-- open source
-- personal
+categories: [community oss personal]
 redirect_from: "/archive/2013/04/07/upcoming-speaking-gigs-and-a-podcast.aspx/"
 ---
 
@@ -91,8 +88,3 @@ oppressive traditional hierarchical organizational structure that serves
 to keep us down. FIGHT THE POWER!
 
 Check it out.
-
-Tags: [speaking](https://haacked.com/tags/speaking/default.aspx),
-[talks](https://haacked.com/tags/talks/default.aspx),
-[opensource](https://haacked.com/tags/opensource/default.aspx),
-[podcast](https://haacked.com/tags/podcast/default.aspx)

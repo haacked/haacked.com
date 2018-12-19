@@ -84,6 +84,3 @@ want to see it in action.
 I’m just curious how others handle this sort of thing. If you have a
 better way, do let me know. :)
 
-Tags: [jQuery](https://haacked.com/tags/jQuery/default.aspx),
-[JavaScript](https://haacked.com/tags/JavaScript/default.aspx)
-

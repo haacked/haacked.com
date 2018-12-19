@@ -4,7 +4,7 @@ date: 2013-06-30 -0800
 disqus_identifier: 18894
 categories:
 - blogging
-- open source
+- oss
 redirect_from: "/archive/2013/06/29/a-google-reader-replacement.aspx/"
 ---
 

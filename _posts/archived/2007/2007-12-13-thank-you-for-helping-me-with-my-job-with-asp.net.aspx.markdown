@@ -71,6 +71,3 @@ answer in a reasonable amount of time.
 
 Even better, jump in and help answer questions!
 
-Tags: [ASP.NET
-MVC](http://technorati.com/tags/aspnetmvc/ "ASP.NET MVC tag")
-

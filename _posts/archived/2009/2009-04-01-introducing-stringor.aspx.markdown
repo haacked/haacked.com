@@ -51,6 +51,3 @@ technology.
 -   [Quantum Computing in .NET
     “Looflirpa”](http://blog.andrewnurse.net/2009/04/01/QuantumComputingInNetLdquoLooflirpardquo.aspx "Quantum Computing in .NET Looflirpa")
 
-Tags: [framework](http://technorati.com/tags/framework/ "framework tag")
-, [.net](http://technorati.com/tags/.net/ ".net tag")
-
