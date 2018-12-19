@@ -15,7 +15,7 @@ Since my time at GitHub started with such a post, it seems fitting that I use th
 
 ![Sad Keanu](https://user-images.githubusercontent.com/19977/50171388-29777780-02a7-11e9-8605-bcec3469c7f0.jpg)
 
-If you follow me on Twitter, [this is old news](https://twitter.com/haacked/status/1053296117176184834). My last day was October 12, 2018. I've just been busy (or lazy) and haven't gotter around to writing about it till now.
+If you follow me on Twitter, [this is old news](https://twitter.com/haacked/status/1053296117176184834). My last day was October 12, 2018. I've just been busy (or lazy) and haven't gotten around to writing about it till now.
 
 ## The Early Days
 
@@ -47,9 +47,9 @@ But for those who don't, a drop down list of obscure license names doesn't reall
 
 I appreciate this level of deep thinking about the user experience.
 
-This lead me to create (along with a fantastic designer, [Jason Long](https://github.com/jasonlong)) [https://choosealicense.org](https://choosealicense.org) which I [wrote about back then](https://haacked.com/archive/2013/07/17/license-your-code.aspx/). This is a simple, opinionated, guide to how to choose a license. Once this was in place, we felt more compfortable adding a license drop down.
+This lead me to create (along with a fantastic designer, [Jason Long](https://github.com/jasonlong)) [https://choosealicense.com](https://choosealicense.com) which I [wrote about back then](https://haacked.com/archive/2013/07/17/license-your-code.aspx/). This is a simple, opinionated, guide to how to choose a license. Once this was in place, we felt more comfortable adding a license drop down.
 
-And based on this [third-party blog post](http://250bpm.com/blog:82), it had an effect! You can see a sharp uptick around the time launched the site.
+And based on this [third-party blog post](http://250bpm.com/blog:82), it had an effect! You can see a sharp uptick around the time the site launched.
 
 After the uptick, the percentage continues to go down. It's hard to draw conclusions from that because the rate of growth of GitHub is so immense and most repos are not open source projects in the first place. They may be code samples, people futzing around, etc.
 
@@ -80,7 +80,7 @@ I don't mention this because I expect a cookie, this should be the status quo. W
 
 Studies show that most interview techniques are [no better than flipping a coin](https://www.wired.com/2015/04/hire-like-google/). So if a coin comes up heads enough times, it's prudent to test if the coin is weighted. Likewise, if hiring practices lead to a homogenous group, it's prudent to suss out the hidden biases that may contribute.
 
-Many leaders seem more intent on making excuses than putting in the work to learn and improve in these areas. They blame the pipeline. They talk about not lowering the bar (ironic given how low a bar hiring practices are today). And _their_ leaders tolerate the excuses. Which is also ironic because we'd never tolerate making excuses it when it comes to availability. [Who owns your availability?](https://www.whoownsmyavailability.com/) The same applies to your team's make up.
+Many leaders seem more intent on making excuses than putting in the work to learn and improve in these areas. They blame the pipeline. They talk about not lowering the bar (ironic given how low a bar hiring practices are today). And _their_ leaders tolerate the excuses. Which is also ironic because we'd never tolerate making excuses when it comes to availability. [Who owns your availability?](https://www.whoownsmyavailability.com/) The same applies to your team's make up.
 
 It does take extra work to overcome systemic biases and build a diverse and inclusive team, but it's worth it. The folks I got to work with were my greatest pleasure at GitHub.
 
