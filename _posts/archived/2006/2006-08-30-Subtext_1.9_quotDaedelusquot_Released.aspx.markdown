@@ -1,7 +1,6 @@
 ---
 title: Subtext 1.9 &quot;Daedelus&quot; Released!
 date: 2006-08-30 -0800
-disqus_identifier: 16209
 tags: []
 redirect_from: "/archive/2006/08/29/Subtext_1.9_quotDaedelusquot_Released.aspx/"
 ---

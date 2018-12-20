@@ -1,7 +1,6 @@
 ---
 title: Known Installation Issues With ASP.NET MVC
 date: 2008-12-03 -0800
-disqus_identifier: 18562
 tags:
 - aspnetmvc
 - aspnet

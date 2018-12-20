@@ -1,7 +1,6 @@
 ---
 title: Get A Job
 date: 2006-11-28 -0800
-disqus_identifier: 18151
 tags: []
 redirect_from: "/archive/2006/11/27/Get_A_Job.aspx/"
 ---

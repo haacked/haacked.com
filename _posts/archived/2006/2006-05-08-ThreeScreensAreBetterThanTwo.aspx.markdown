@@ -1,7 +1,6 @@
 ---
 title: Three Screens Are Better Than Two
 date: 2006-05-08 -0800
-disqus_identifier: 12705
 tags: []
 redirect_from: "/archive/2006/05/07/ThreeScreensAreBetterThanTwo.aspx/"
 ---

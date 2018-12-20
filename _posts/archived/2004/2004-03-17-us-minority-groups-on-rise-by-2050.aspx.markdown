@@ -1,7 +1,6 @@
 ---
 title: U.S. Minority Groups on Rise by 2050
 date: 2004-03-17 -0800
-disqus_identifier: 262
 tags:
 - personal
 redirect_from: "/archive/2004/03/16/us-minority-groups-on-rise-by-2050.aspx/"

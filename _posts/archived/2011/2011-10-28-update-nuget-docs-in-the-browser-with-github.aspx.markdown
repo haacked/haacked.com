@@ -1,7 +1,6 @@
 ---
 title: Update NuGet Docs in the Browser with Github
 date: 2011-10-28 -0800
-disqus_identifier: 18822
 tags:
 - nuget
 - oss

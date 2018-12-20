@@ -1,7 +1,6 @@
 ---
 title: ASP.NET MVC Update
 date: 2008-02-12 -0800
-disqus_identifier: 18456
 tags: [aspnet,aspnetmvc]
 redirect_from: "/archive/2008/02/11/asp.net-mvc-update.aspx/"
 ---

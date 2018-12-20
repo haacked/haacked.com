@@ -1,7 +1,6 @@
 ---
 title: Google AdSense in RSS Ineffective?
 date: 2005-04-26 -0800
-disqus_identifier: 2839
 tags: []
 redirect_from: "/archive/2005/04/25/google-adsense-in-rss-ineffective.aspx/"
 ---

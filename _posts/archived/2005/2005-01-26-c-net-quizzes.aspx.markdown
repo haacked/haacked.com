@@ -1,7 +1,6 @@
 ---
 title: C# .NET Quizzes
 date: 2005-01-26 -0800
-disqus_identifier: 2020
 tags: []
 redirect_from: "/archive/2005/01/25/c-net-quizzes.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: Setting Up CVS Commit Emails In SourceForge
 date: 2006-01-17 -0800
-disqus_identifier: 11526
 tags: []
 redirect_from: "/archive/2006/01/16/SettingUpCVSCommitEmailsInSourceForge.aspx/"
 ---

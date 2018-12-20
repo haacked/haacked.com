@@ -1,7 +1,6 @@
 ---
 title: Web Applications and Local Document Storage
 date: 2005-11-02 -0800
-disqus_identifier: 11098
 tags: []
 redirect_from: "/archive/2005/11/01/web-applications-and-local-document-storage.aspx/"
 ---

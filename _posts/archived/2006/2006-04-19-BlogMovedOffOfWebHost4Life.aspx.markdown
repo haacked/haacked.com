@@ -1,7 +1,6 @@
 ---
 title: Blog Moved Off Of WebHost4Life
 date: 2006-04-19 -0800
-disqus_identifier: 12473
 tags: []
 redirect_from: "/archive/2006/04/18/BlogMovedOffOfWebHost4Life.aspx/"
 ---
@@ -28,6 +27,6 @@ change hosting provider, I don’t have to change the root DNS servers at
 my Domain Registrar.
 
 Since I have already paid for a year at WH4L, I will probably set up a
-[Subtext](http://subtextproject.com/ "Subtext Project Website") blog for
+Subtext blog for
 my younger brother and some of his friends there.
 

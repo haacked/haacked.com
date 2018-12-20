@@ -1,7 +1,6 @@
 ---
 title: Introducing CaptainHook - A Subversion Hook Framework For .NET
 date: 2006-07-27 -0800
-disqus_identifier: 14326
 tags: []
 redirect_from: "/archive/2006/07/26/introducingcaptainhookasubversionhookframeworkfor.net.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: 'Random Friday: On Turning Four'
 date: 2011-06-10 -0800
-disqus_identifier: 18796
 tags:
 - blogging
 - personal

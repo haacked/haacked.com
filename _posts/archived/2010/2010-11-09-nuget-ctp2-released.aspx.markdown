@@ -1,7 +1,6 @@
 ---
 title: NuGet CTP 2 Released!
 date: 2010-11-09 -0800
-disqus_identifier: 18735
 tags:
 - nuget
 - code

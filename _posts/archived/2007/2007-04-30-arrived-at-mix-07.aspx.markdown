@@ -1,7 +1,6 @@
 ---
 title: Arrived at Mix 07
 date: 2007-04-30 -0800
-disqus_identifier: 18298
 tags: []
 redirect_from: "/archive/2007/04/29/arrived-at-mix-07.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: Writing a Recipe for ASP.NET MVC 4 Developer Preview
 date: 2011-09-22 -0800
-disqus_identifier: 18815
 tags:
 - aspnetmvc
 - aspnet

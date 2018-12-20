@@ -1,7 +1,6 @@
 ---
 title: Indulging My OCD Using TestDriven.NET With NCoverExplorer
 date: 2006-12-14 -0800
-disqus_identifier: 18168
 tags: []
 redirect_from: "/archive/2006/12/13/Indulging_My_OCD_Using_TestDriven.NET_With_NCoverExplorer.aspx/"
 ---
@@ -12,7 +11,7 @@ having dinner while my mind is still trying to resolve a thorny
 programming problem. *Earth to Phil. Are you on this planet?*
 
 Lately, the object of my OCD-like tendencies is getting the
-[Subtext](http://subtextproject.com/ "Subtext Project Website") unit
+Subtext unit
 test code coverage up to 40%. At the time of this writing (and after
 much work), it is at 38%. Why 40%? No reason. Just a nice round number
 that we’ve never yet hit. Remember, OCD isn’t necessarily a rational

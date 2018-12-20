@@ -1,7 +1,6 @@
 ---
 title: Wow! Sasha Is a Resident DJ in Los Angeles
 date: 2004-12-15 -0800
-disqus_identifier: 1738
 tags:
 - personal
 redirect_from: "/archive/2004/12/14/wow-sasha-is-a-resident-dj-in-los-angeles.aspx/"

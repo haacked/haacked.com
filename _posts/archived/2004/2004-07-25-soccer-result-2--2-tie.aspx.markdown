@@ -1,7 +1,6 @@
 ---
 title: 'Soccer Result: 2 - 2 tie.'
 date: 2004-07-25 -0800
-disqus_identifier: 856
 tags: []
 redirect_from: "/archive/2004/07/24/soccer-result-2--2-tie.aspx/"
 ---

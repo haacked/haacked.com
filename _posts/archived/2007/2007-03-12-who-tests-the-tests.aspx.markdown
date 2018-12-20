@@ -1,7 +1,6 @@
 ---
 title: Who Tests The Tests?
 date: 2007-03-12 -0800
-disqus_identifier: 18237
 tags:
 - code
 - tdd

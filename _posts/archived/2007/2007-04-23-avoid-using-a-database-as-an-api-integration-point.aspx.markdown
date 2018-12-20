@@ -1,7 +1,6 @@
 ---
 title: Avoid Using a Database as an API Integration Point
 date: 2007-04-23 -0800
-disqus_identifier: 18292
 tags: []
 redirect_from: "/archive/2007/04/22/avoid-using-a-database-as-an-api-integration-point.aspx/"
 ---
@@ -39,7 +38,7 @@ implementation.
 ### Why am I bringing this up?
 
 A little while ago, I was having a chat with a member of the
-[Subtext](http://subtextproject.com/ "Subtext Project Website") team,
+Subtext team,
 telling him about the custom
 [`MembershipProvider`](http://msdn2.microsoft.com/en-us/library/system.web.security.membershipprovider.aspx "MembershipProvider on MSDN")
 we’re implementing for Subtext 2.0 to fit in with our data model. His

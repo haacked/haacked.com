@@ -1,7 +1,6 @@
 ---
 title: If You're Interviewing, Please Bring Several Copies Of Your Resume
 date: 2004-12-22 -0800
-disqus_identifier: 1753
 tags: []
 redirect_from: "/archive/2004/12/21/if-youre-interviewing-please-bring-several-copies-of-your-resume.aspx/"
 ---

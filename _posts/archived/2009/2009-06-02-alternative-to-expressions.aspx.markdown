@@ -1,7 +1,6 @@
 ---
 title: An Alternative Approach To Strongly Typed Helpers
 date: 2009-06-02 -0800
-disqus_identifier: 18621
 tags: [aspnetmvc]
 redirect_from: "/archive/2009/06/01/alternative-to-expressions.aspx/"
 ---

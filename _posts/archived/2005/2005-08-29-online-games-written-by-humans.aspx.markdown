@@ -1,7 +1,6 @@
 ---
 title: Online Games Are Written By Humans
 date: 2005-08-29 -0800
-disqus_identifier: 9748
 tags: []
 redirect_from: "/archive/2005/08/28/online-games-written-by-humans.aspx/"
 ---

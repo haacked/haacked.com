@@ -1,7 +1,6 @@
 ---
 title: Preflight Checklist
 date: 2011-08-30 -0800
-disqus_identifier: 18812
 tags:
 - personal
 redirect_from: "/archive/2011/08/29/preflight-checklist.aspx/"

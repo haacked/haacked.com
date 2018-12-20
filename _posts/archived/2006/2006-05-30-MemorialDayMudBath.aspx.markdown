@@ -1,7 +1,6 @@
 ---
 title: Memorial Day Mud Bath
 date: 2006-05-30 -0800
-disqus_identifier: 13062
 tags: []
 redirect_from: "/archive/2006/05/29/MemorialDayMudBath.aspx/"
 ---

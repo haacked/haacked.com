@@ -1,7 +1,6 @@
 ---
 title: Outsourced...
 date: 2004-12-17 -0800
-disqus_identifier: 1744
 tags: []
 redirect_from: "/archive/2004/12/16/outsourced.aspx/"
 ---

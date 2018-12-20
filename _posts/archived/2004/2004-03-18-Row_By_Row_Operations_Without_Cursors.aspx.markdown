@@ -1,7 +1,6 @@
 ---
 title: 'TIP: Row by Row operations without cursors'
 date: 2004-03-18 -0800
-disqus_identifier: 261
 tags:
 - code
 - sql

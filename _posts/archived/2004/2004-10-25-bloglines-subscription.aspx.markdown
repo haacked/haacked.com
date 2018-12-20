@@ -1,7 +1,6 @@
 ---
 title: Bloglines subscription
 date: 2004-10-25 -0800
-disqus_identifier: 1496
 tags: []
 redirect_from: "/archive/2004/10/24/bloglines-subscription.aspx/"
 ---

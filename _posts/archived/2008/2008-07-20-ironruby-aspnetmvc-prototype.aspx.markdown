@@ -1,7 +1,6 @@
 ---
 title: IronRuby With ASP.NET MVC Working Prototype
 date: 2008-07-20 -0800
-disqus_identifier: 18505
 tags: [aspnetmvc,ruby]
 redirect_from: "/archive/2008/07/19/ironruby-aspnetmvc-prototype.aspx/"
 ---

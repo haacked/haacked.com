@@ -1,7 +1,6 @@
 ---
 title: Getting Older
 date: 2012-01-23 -0800
-disqus_identifier: 18843
 tags:
 - personal
 redirect_from: "/archive/2012/01/22/getting-older.aspx/"

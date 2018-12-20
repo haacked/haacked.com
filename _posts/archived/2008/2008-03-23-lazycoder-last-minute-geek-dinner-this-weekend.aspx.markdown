@@ -1,7 +1,6 @@
 ---
 title: LazyCoder Last Minute Geek Dinner This Wednesday
 date: 2008-03-23 -0800
-disqus_identifier: 18468
 tags:
 - personal
 redirect_from: "/archive/2008/03/22/lazycoder-last-minute-geek-dinner-this-weekend.aspx/"

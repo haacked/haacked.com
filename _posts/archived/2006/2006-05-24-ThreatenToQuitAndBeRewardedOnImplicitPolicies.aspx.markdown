@@ -1,7 +1,6 @@
 ---
 title: Threaten To Quit And Be Rewarded - On Implicit Policies
 date: 2006-05-24 -0800
-disqus_identifier: 12937
 tags:
 - company culture
 redirect_from: "/archive/2006/05/23/ThreatenToQuitAndBeRewardedOnImplicitPolicies.aspx/"

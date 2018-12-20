@@ -1,7 +1,6 @@
 ---
 title: You've Been Haacked No Longer
 date: 2008-04-01 -0800
-disqus_identifier: 18469
 tags:
 - personal
 redirect_from: "/archive/2008/03/31/youve-been-haacked-no-longer.aspx/"

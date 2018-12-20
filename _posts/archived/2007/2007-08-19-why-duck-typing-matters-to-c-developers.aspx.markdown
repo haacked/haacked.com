@@ -1,7 +1,6 @@
 ---
 title: How Duck Typing Benefits C# Developers
 date: 2007-08-19 -0800
-disqus_identifier: 18383
 tags: [csharp,code,types]
 redirect_from: "/archive/2007/08/18/why-duck-typing-matters-to-c-developers.aspx/"
 ---

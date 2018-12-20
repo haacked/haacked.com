@@ -1,7 +1,6 @@
 ---
 title: Getting Real
 date: 2006-10-27 -0800
-disqus_identifier: 18116
 tags: []
 redirect_from: "/archive/2006/10/26/Getting_Real.aspx/"
 ---
@@ -33,7 +32,7 @@ Open Source projects are probably in the best position to make use of
 their guidelines, though I am sure many more projects would be made much
 better by getting real. Subtext will most certainly gain from many of
 these approaches. My hope is to use
-[Subtext](http://subtextproject.com/ "Subtext Project Website") as a
+Subtext as a
 testing ground for the principles in *Getting Real*, and then using its
 success to show my clients that they don’t need to be so rigid about
 product development. We’ll see.

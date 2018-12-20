@@ -1,7 +1,6 @@
 ---
 title: How to Harvest Emails With Google And Protect Yours From Spammers
 date: 2007-04-02 -0800
-disqus_identifier: 18267
 tags:
 - code
 - tech

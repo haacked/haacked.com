@@ -1,7 +1,6 @@
 ---
 title: Revenge of the Nerd?
 date: 2005-11-15 -0800
-disqus_identifier: 11202
 tags: []
 redirect_from: "/archive/2005/11/14/revenge-of-the-nerd.aspx/"
 ---

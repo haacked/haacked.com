@@ -1,7 +1,6 @@
 ---
 title: What Is It About Joel?
 date: 2005-08-17 -0800
-disqus_identifier: 9543
 tags: []
 redirect_from: "/archive/2005/08/16/what-is-it-about-joel.aspx/"
 ---

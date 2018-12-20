@@ -1,7 +1,6 @@
 ---
 title: Perception Vs Reality Regarding The .NET Framework Source Code
 date: 2007-10-05 -0800
-disqus_identifier: 18403
 tags: [dotnet]
 redirect_from: "/archive/2007/10/04/perception-vs-reality-regarding-the-.net-framework-source-code.aspx/"
 ---
@@ -176,6 +175,6 @@ speak for Microsoft on these matters.*
 
 *I’m also the leader of a couple OSS projects, so I will be very careful
 about separating what I learn on the job vs what I contribute to
-[Subtext](http://subtextproject.com/ "Subtext Project Website") et all.
+Subtext et all.
 But I’ll be a PM so I hear I won’t be looking at much code anyways. ;)*
 

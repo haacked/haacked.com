@@ -1,7 +1,6 @@
 ---
 title: Resilient Plugins Part Deux - Granular Control
 date: 2006-07-01 -0800
-disqus_identifier: 13635
 tags:
 - code
 redirect_from: "/archive/2006/06/30/ResilientPluginsPartDeuxGranularControl.aspx/"

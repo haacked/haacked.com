@@ -1,7 +1,6 @@
 ---
 title: Ugly Basketball
 date: 2004-08-10 -0800
-disqus_identifier: 914
 tags: []
 redirect_from: "/archive/2004/08/09/ugly-basketball.aspx/"
 ---

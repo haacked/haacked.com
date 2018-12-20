@@ -1,7 +1,6 @@
 ---
 title: Razor View Syntax
 date: 2010-07-03 -0800
-disqus_identifier: 18711
 tags:
 - aspnet
 - aspnetmvc

@@ -1,7 +1,6 @@
 ---
 title: Where Do These Bruises Come From?
 date: 2005-04-18 -0800
-disqus_identifier: 2724
 tags: []
 redirect_from: "/archive/2005/04/17/where-do-these-bruises-come-from.aspx/"
 ---

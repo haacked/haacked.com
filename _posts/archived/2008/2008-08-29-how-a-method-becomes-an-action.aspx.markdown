@@ -1,7 +1,6 @@
 ---
 title: How a Method Becomes An Action
 date: 2008-08-29 -0800
-disqus_identifier: 18528
 tags: [aspnetmvc]
 redirect_from: "/archive/2008/08/28/how-a-method-becomes-an-action.aspx/"
 ---

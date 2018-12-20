@@ -1,7 +1,6 @@
 ---
 title: Row based testing in MbUnit (i.e. RowTest)
 date: 2004-10-20 -0800
-disqus_identifier: 1421
 tags:
 - code
 - tdd

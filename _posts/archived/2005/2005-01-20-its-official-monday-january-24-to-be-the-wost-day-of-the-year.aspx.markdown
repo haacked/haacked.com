@@ -1,7 +1,6 @@
 ---
 title: It's Official, Monday January 24 To Be The Wost Day Of The Year
 date: 2005-01-20 -0800
-disqus_identifier: 1962
 tags: []
 redirect_from: "/archive/2005/01/19/its-official-monday-january-24-to-be-the-wost-day-of-the-year.aspx/"
 ---

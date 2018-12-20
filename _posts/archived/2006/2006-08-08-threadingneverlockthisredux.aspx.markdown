@@ -1,7 +1,6 @@
 ---
 title: Threading - Never Lock This Redux
 date: 2006-08-08 -0800
-disqus_identifier: 14764
 tags: [dotnet,csharp,threading,lock]
 redirect_from:
   - "/archive/2006/08/07/threadingneverlockthisredux.aspx/"

@@ -1,7 +1,6 @@
 ---
 title: Artificial Deadlines Are The Devils Work
 date: 2006-03-12 -0800
-disqus_identifier: 12067
 tags: []
 redirect_from: "/archive/2006/03/11/ArtificialDeadlinesAreTheDevilsWork.aspx/"
 ---

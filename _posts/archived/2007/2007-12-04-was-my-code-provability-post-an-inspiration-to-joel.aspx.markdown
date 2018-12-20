@@ -1,7 +1,6 @@
 ---
 title: Was My Code Provability Post An Inspiration To Joel?
 date: 2007-12-04 -0800
-disqus_identifier: 18430
 tags:
 - code
 - tdd

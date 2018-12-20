@@ -1,7 +1,6 @@
 ---
 title: I Swear
 date: 2006-01-25 -0800
-disqus_identifier: 11586
 tags: []
 redirect_from: "/archive/2006/01/24/ISwear.aspx/"
 ---

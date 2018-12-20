@@ -1,7 +1,6 @@
 ---
 title: NuGet 1.4 Released
 date: 2011-06-17 -0800
-disqus_identifier: 18797
 tags:
 - oss
 - nuget

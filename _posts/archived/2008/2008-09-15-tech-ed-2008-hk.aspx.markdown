@@ -1,7 +1,6 @@
 ---
 title: Speaking at Tech-Ed 2008 Hong Kong
 date: 2008-09-15 -0800
-disqus_identifier: 18530
 tags: [travel,conferences]
 redirect_from: "/archive/2008/09/14/tech-ed-2008-hk.aspx/"
 ---

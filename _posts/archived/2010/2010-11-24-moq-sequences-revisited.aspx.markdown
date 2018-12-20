@@ -1,7 +1,6 @@
 ---
 title: Moq Sequences Revisited
 date: 2010-11-24 -0800
-disqus_identifier: 18741
 tags:
 - tdd
 - code

@@ -1,7 +1,6 @@
 ---
 title: Combining JQuery Form Validation and Ajax Submission with ASP.NET
 date: 2008-11-21 -0800
-disqus_identifier: 18558
 tags:
 - aspnet
 redirect_from: "/archive/2008/11/20/combining-jquery-form-validation-and-ajax-submission-with-asp.net.aspx/"

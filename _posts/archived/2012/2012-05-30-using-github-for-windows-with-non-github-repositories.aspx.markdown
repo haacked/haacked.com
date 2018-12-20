@@ -1,7 +1,6 @@
 ---
 title: Using GitHub for Windows with non-GitHub repositories
 date: 2012-05-30 -0800
-disqus_identifier: 18859
 tags:
 - github
 - git

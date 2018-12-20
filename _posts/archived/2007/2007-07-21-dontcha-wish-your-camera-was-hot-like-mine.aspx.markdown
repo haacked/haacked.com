@@ -1,7 +1,6 @@
 ---
 title: Dontcha Wish Your Camera Was Hot Like Mine
 date: 2007-07-21 -0800
-disqus_identifier: 18368
 tags: [personal]
 redirect_from: "/archive/2007/07/20/dontcha-wish-your-camera-was-hot-like-mine.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: Single Project Areas With ASP.NET MVC 2 Preview 1
 date: 2009-07-31 -0800
-disqus_identifier: 18631
 tags:
 - code
 - aspnetmvc

@@ -1,7 +1,6 @@
 ---
 title: 'Joke Of The Day: Kenny the Rooster'
 date: 2004-08-27 -0800
-disqus_identifier: 982
 tags: []
 redirect_from: "/archive/2004/08/26/joke-of-the-day-kenny-the-rooster.aspx/"
 ---

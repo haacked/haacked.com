@@ -1,7 +1,6 @@
 ---
 title: Running An Open Source Project
 date: 2006-01-16 -0800
-disqus_identifier: 11517
 tags:
 - code
 - oss
@@ -51,7 +50,7 @@ And the list goes on.
 
 It is my hope to start applying some of the principles he writes to open
 source projects I am involved with such as
-[Subtext](http://subtextproject.com/ "Subtext Project Website"). Though
+Subtext. Though
 Fogel’s experience and advice seems targetted to very large open source
 projects, I think much of it is useful for small projects as well.
 Besides, if you don’t prepare for growth, you will never see growth. And

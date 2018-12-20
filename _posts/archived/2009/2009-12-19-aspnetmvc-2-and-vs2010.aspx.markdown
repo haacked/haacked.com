@@ -1,7 +1,6 @@
 ---
 title: ASP.NET MVC 2 and Visual Studio 2010
 date: 2009-12-19 -0800
-disqus_identifier: 18669
 tags:
 - aspnet
 - aspnetmvc

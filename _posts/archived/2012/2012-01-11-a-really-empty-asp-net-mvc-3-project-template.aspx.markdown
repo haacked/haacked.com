@@ -1,7 +1,6 @@
 ---
 title: A Really Empty ASP.NET MVC 3 Project Template
 date: 2012-01-11 -0800
-disqus_identifier: 18841
 tags:
 - aspnet
 - aspnetmvc

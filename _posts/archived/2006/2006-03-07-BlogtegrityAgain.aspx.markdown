@@ -1,8 +1,7 @@
 ---
 title: Blogtegrity
 date: 2006-03-07 -0800
-disqus_identifier: 12009
-tags: []
+tags: [meta,blogging]
 redirect_from:
 - "/archive/2006/03/05/BlogtegrityAgain.aspx/"
 - "/archive/2006/03/06/BlogtegrityAgain.aspx/"

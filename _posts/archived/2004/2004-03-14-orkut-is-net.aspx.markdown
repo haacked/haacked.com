@@ -1,7 +1,6 @@
 ---
 title: Orkut is .NET
 date: 2004-03-14 -0800
-disqus_identifier: 253
 tags:
 - personal
 redirect_from: "/archive/2004/03/13/orkut-is-net.aspx/"

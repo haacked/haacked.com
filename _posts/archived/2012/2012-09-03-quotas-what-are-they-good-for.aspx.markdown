@@ -1,7 +1,6 @@
 ---
 title: Quotas, What Are They Good For?
 date: 2012-09-03 -0800
-disqus_identifier: 18867
 tags:
 - code
 redirect_from: "/archive/2012/09/02/quotas-what-are-they-good-for.aspx/"

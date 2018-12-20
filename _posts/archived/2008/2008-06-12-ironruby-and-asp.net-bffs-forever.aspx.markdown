@@ -1,7 +1,6 @@
 ---
 title: IronRuby and ASP.NET BFFs Forever
 date: 2008-06-12 -0800
-disqus_identifier: 18491
 tags: [aspnetmvc,dynamic-languages,ruby]
 redirect_from: "/archive/2008/06/11/ironruby-and-asp.net-bffs-forever.aspx/"
 ---

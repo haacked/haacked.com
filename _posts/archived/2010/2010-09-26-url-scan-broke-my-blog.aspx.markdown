@@ -1,7 +1,6 @@
 ---
 title: UrlScan Broke My Blog (And How I Fixed It)
 date: 2010-09-26 -0800
-disqus_identifier: 18722
 tags:
 - aspnet
 - subtext

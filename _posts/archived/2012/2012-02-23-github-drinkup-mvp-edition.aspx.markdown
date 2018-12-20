@@ -1,7 +1,6 @@
 ---
 title: GitHub Drinkup MVP Edition
 date: 2012-02-23 -0800
-disqus_identifier: 18849
 tags:
 - personal
 - community

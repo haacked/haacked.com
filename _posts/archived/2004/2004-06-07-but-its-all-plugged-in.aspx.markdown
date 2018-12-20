@@ -1,7 +1,6 @@
 ---
 title: But It's All Plugged In
 date: 2004-06-07 -0800
-disqus_identifier: 539
 tags: []
 redirect_from: "/archive/2004/06/06/but-its-all-plugged-in.aspx/"
 ---

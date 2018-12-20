@@ -1,7 +1,6 @@
 ---
 title: New Word Of The Day - Whorosity
 date: 2006-03-08 -0800
-disqus_identifier: 12033
 tags: []
 redirect_from: "/archive/2006/03/07/NewWordOfTheDay-Whorosity.aspx/"
 ---

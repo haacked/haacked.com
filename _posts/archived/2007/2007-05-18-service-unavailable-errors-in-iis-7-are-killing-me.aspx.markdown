@@ -1,7 +1,6 @@
 ---
 title: Service Unavailable Errors in IIS 7 Are Killing Me
 date: 2007-05-18 -0800
-disqus_identifier: 18318
 tags: []
 redirect_from: "/archive/2007/05/17/service-unavailable-errors-in-iis-7-are-killing-me.aspx/"
 ---

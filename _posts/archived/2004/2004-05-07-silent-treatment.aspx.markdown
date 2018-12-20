@@ -1,7 +1,6 @@
 ---
 title: Silent Treatment
 date: 2004-05-07 -0800
-disqus_identifier: 418
 tags: []
 redirect_from: "/archive/2004/05/06/silent-treatment.aspx/"
 ---

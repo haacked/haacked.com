@@ -1,7 +1,6 @@
 ---
 title: 'MUST SEE: Skateboarding Bull Dog'
 date: 2004-04-16 -0800
-disqus_identifier: 334
 tags: [news]
 redirect_from: "/archive/2004/04/15/must-see-skateboarding-bull-dog.aspx/"
 ---

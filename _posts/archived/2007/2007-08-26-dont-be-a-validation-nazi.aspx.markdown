@@ -1,7 +1,6 @@
 ---
 title: Don't Be a Validation Nazi
 date: 2007-08-26 -0800
-disqus_identifier: 18385
 tags:
 - code
 - regex

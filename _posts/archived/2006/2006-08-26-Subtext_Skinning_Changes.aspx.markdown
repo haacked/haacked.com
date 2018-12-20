@@ -1,7 +1,6 @@
 ---
 title: Subtext Skinning Changes
 date: 2006-08-26 -0800
-disqus_identifier: 16090
 tags: []
 redirect_from: "/archive/2006/08/25/Subtext_Skinning_Changes.aspx/"
 ---

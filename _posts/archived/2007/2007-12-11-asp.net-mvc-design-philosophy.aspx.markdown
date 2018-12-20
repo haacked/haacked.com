@@ -1,7 +1,6 @@
 ---
 title: ASP.NET MVC Design Philosophy
 date: 2007-12-11 -0800
-disqus_identifier: 18436
 tags:
 - aspnet
 - code

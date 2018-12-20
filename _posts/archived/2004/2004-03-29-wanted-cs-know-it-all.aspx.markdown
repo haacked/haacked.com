@@ -1,7 +1,6 @@
 ---
 title: 'Wanted: CS Know-it-all'
 date: 2004-03-29 -0800
-disqus_identifier: 281
 tags: []
 redirect_from: "/archive/2004/03/28/wanted-cs-know-it-all.aspx/"
 ---

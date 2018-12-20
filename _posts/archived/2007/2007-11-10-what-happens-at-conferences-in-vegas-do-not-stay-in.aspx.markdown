@@ -1,7 +1,6 @@
 ---
 title: What Happens At Conferences In Vegas Do Not Stay In Vegas
 date: 2007-11-10 -0800
-disqus_identifier: 18419
 tags: [travel,conferences]
 redirect_from: "/archive/2007/11/09/what-happens-at-conferences-in-vegas-do-not-stay-in.aspx/"
 ---

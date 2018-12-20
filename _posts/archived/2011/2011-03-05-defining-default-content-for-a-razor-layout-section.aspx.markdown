@@ -1,7 +1,6 @@
 ---
 title: Defining Default Content For A Razor Layout Section
 date: 2011-03-05 -0800
-disqus_identifier: 18767
 tags:
 - aspnet
 - aspnetmvc

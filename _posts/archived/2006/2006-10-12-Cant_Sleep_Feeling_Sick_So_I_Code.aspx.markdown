@@ -1,7 +1,6 @@
 ---
 title: Can't Sleep, Feeling Sick, So I Code
 date: 2006-10-12 -0800
-disqus_identifier: 18047
 tags: []
 redirect_from: "/archive/2006/10/11/Cant_Sleep_Feeling_Sick_So_I_Code.aspx/"
 ---

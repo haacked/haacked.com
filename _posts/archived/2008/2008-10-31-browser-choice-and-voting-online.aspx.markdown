@@ -1,7 +1,6 @@
 ---
 title: Browser Choice and Voting Online
 date: 2008-10-31 -0800
-disqus_identifier: 18544
 tags:
 - personal
 - code

@@ -1,7 +1,6 @@
 ---
 title: Is Open Source A Crap Idea?
 date: 2006-03-24 -0800
-disqus_identifier: 12180
 tags: []
 redirect_from: "/archive/2006/03/23/IsOpenSourceACrapIdea.aspx/"
 ---

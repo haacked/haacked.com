@@ -1,7 +1,6 @@
 ---
 title: Identicons as Graphical Digital Fingerprints
 date: 2007-01-22 -0800
-disqus_identifier: 18196
 tags:
 - tech
 - code

@@ -1,7 +1,6 @@
 ---
 title: My Tablet PC has arrived!  Polling for Suggestions.
 date: 2004-11-11 -0800
-disqus_identifier: 1597
 tags: []
 redirect_from: "/archive/2004/11/10/my-tablet-pc-has-arrived-polling-for-suggestions.aspx/"
 ---

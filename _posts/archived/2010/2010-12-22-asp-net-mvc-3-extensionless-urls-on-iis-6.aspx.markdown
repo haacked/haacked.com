@@ -1,7 +1,6 @@
 ---
 title: ASP.NET MVC 3 Extensionless URLs on IIS 6
 date: 2010-12-22 -0800
-disqus_identifier: 18750
 tags:
 - aspnet
 - aspnetmvc

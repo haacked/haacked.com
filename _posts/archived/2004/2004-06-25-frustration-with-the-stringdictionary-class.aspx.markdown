@@ -1,7 +1,6 @@
 ---
 title: Frustration with the StringDictionary class.
 date: 2004-06-25 -0800
-disqus_identifier: 685
 tags: []
 redirect_from: "/archive/2004/06/24/frustration-with-the-stringdictionary-class.aspx/"
 ---

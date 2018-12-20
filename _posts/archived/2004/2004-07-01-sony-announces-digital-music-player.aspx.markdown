@@ -1,7 +1,6 @@
 ---
 title: Sony Announces Digital Music Player
 date: 2004-07-01 -0800
-disqus_identifier: 759
 tags: []
 redirect_from: "/archive/2004/06/30/sony-announces-digital-music-player.aspx/"
 ---

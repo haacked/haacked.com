@@ -1,7 +1,6 @@
 ---
 title: Twiggy Meets Ashton Kutcher
 date: 2005-09-28 -0800
-disqus_identifier: 10436
 tags: []
 redirect_from: "/archive/2005/09/27/twiggy-meets-ashton-kutcher.aspx/"
 ---

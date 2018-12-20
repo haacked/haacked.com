@@ -1,7 +1,6 @@
 ---
 title: Headed To Austin and Speaking at the .NET User&rsquo;s Group
 date: 2010-02-07 -0800
-disqus_identifier: 18684
 tags:
 - personal
 - code

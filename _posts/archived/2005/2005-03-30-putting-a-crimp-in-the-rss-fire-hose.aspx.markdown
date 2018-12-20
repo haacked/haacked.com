@@ -1,7 +1,6 @@
 ---
 title: Putting a Crimp in the RSS Fire Hose
 date: 2005-03-30 -0800
-disqus_identifier: 2500
 tags: []
 redirect_from: "/archive/2005/03/29/putting-a-crimp-in-the-rss-fire-hose.aspx/"
 ---

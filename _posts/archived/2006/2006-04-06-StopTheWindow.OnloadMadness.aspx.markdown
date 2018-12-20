@@ -1,7 +1,6 @@
 ---
 title: Stop The Window.Onload Madness
 date: 2006-04-06 -0800
-disqus_identifier: 12292
 tags: []
 redirect_from: "/archive/2006/04/05/StopTheWindow.OnloadMadness.aspx/"
 ---

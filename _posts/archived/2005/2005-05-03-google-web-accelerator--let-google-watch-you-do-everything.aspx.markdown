@@ -1,7 +1,6 @@
 ---
 title: Google Web Accelerator - Let Google Watch You Do Everything...
 date: 2005-05-03 -0800
-disqus_identifier: 2945
 tags: []
 redirect_from: "/archive/2005/05/02/google-web-accelerator--let-google-watch-you-do-everything.aspx/"
 ---

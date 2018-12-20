@@ -1,7 +1,6 @@
 ---
 title: ASP.NET MVC Helpers For Repopulating A Form
 date: 2007-12-21 -0800
-disqus_identifier: 18442
 tags:
 - code
 - aspnetmvc

@@ -1,7 +1,6 @@
 ---
 title: Quickstart Guide to Subversion on SourceForge
 date: 2006-02-22 -0800
-disqus_identifier: 11851
 tags:
 - code
 - oss

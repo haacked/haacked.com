@@ -1,7 +1,6 @@
 ---
 title: Using CraigsList To Support Katrina Survivors
 date: 2005-09-06 -0800
-disqus_identifier: 9926
 tags: []
 redirect_from: "/archive/2005/09/05/using-craigslist-to-support-katrina-survivors.aspx/"
 ---

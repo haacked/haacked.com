@@ -1,7 +1,6 @@
 ---
 title: Bush TV Ad If He Were Running Against Jesus
 date: 2004-09-10 -0800
-disqus_identifier: 1185
 tags: []
 redirect_from: "/archive/2004/09/09/bush-tv-ad-if-he-were-running-against-jesus.aspx/"
 ---

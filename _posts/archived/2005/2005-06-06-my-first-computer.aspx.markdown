@@ -1,7 +1,6 @@
 ---
 title: This Was My First Computer
 date: 2005-06-06 -0800
-disqus_identifier: 4430
 tags:
 - personal
 - tech

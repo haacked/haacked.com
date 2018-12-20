@@ -1,7 +1,6 @@
 ---
 title: Better Git with PowerShell
 date: 2011-12-13 -0800
-disqus_identifier: 18833
 tags:
 - code
 - git

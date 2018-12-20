@@ -1,7 +1,6 @@
 ---
 title: Dashes Vs Underscores In URLs
 date: 2007-03-15 -0800
-disqus_identifier: 18245
 tags: []
 redirect_from: "/archive/2007/03/14/dashes-vs-underscores-in-urls.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: DotNetNuke CSharp Web Application Project
 date: 2006-05-18 -0800
-disqus_identifier: 12848
 tags: [DNN,DotNetNuke]
 redirect_from: "/archive/2006/05/17/DotNetNukeCSharpWebApplicationProject.aspx/"
 ---

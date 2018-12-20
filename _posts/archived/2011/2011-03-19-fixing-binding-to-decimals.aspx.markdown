@@ -1,7 +1,6 @@
 ---
 title: Model Binding Decimal Values
 date: 2011-03-19 -0800
-disqus_identifier: 18768
 tags:
 - aspnetmvc
 - aspnet

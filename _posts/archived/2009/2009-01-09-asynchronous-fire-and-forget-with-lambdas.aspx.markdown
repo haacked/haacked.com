@@ -1,7 +1,6 @@
 ---
 title: Asynchronous Fire and Forget With Lambdas
 date: 2009-01-09 -0800
-disqus_identifier: 18572
 tags:
 - code
 redirect_from: "/archive/2009/01/08/asynchronous-fire-and-forget-with-lambdas.aspx/"
@@ -9,7 +8,7 @@ redirect_from: "/archive/2009/01/08/asynchronous-fire-and-forget-with-lambdas.as
 
 I’ve been having trouble getting to sleep lately, so I thought last
 night that I would put that to use and hack on
-[Subtext](http://subtextproject.com/ "Subtext Project Website") a bit.
+Subtext a bit.
 While doing so, I ran into an old Asynchronous Fire and Forget helper
 method written way back by [Mike
 Woodring](http://www.bearcanyon.com/dotnet/#FireAndForget "Fire and Forget")

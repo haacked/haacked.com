@@ -1,7 +1,6 @@
 ---
 title: Ruby-Like Expressiveness in C# 3.0
 date: 2007-05-24 -0800
-disqus_identifier: 18330
 tags: []
 redirect_from: "/archive/2007/05/23/ruby-like-syntax-in-c-3.0.aspx/"
 ---

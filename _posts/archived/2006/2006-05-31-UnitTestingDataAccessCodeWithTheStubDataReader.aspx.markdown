@@ -1,7 +1,6 @@
 ---
 title: Unit Testing Data Access Code With The StubDataReader
 date: 2006-05-31 -0800
-disqus_identifier: 13070
 tags: []
 redirect_from: "/archive/2006/05/30/UnitTestingDataAccessCodeWithTheStubDataReader.aspx/"
 ---

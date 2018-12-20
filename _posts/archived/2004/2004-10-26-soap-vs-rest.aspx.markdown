@@ -1,7 +1,6 @@
 ---
 title: SOAP vs. REST in the Real World
 date: 2004-10-26 -0800
-disqus_identifier: 1490
 tags:
 - code
 redirect_from: "/archive/2004/10/25/soap-vs-rest.aspx/"

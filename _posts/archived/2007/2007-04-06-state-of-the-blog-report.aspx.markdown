@@ -1,7 +1,6 @@
 ---
 title: State Of The Blog Report
 date: 2007-04-06 -0800
-disqus_identifier: 18270
 tags: [blogging]
 redirect_from: "/archive/2007/04/05/state-of-the-blog-report.aspx/"
 ---

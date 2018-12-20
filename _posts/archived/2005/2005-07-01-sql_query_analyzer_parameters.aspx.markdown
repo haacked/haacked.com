@@ -1,7 +1,6 @@
 ---
 title: Sql Query Analyzer Template Parameters
 date: 2005-07-01 -0800
-disqus_identifier: 7433
 tags:
 - sql
 redirect_from: "/archive/2005/06/30/sql_query_analyzer_parameters.aspx/"

@@ -1,7 +1,6 @@
 ---
 title: Writing a ContinueAfter method for Rx
 date: 2012-10-08 -0800
-disqus_identifier: 18871
 tags:
 - code
 - rx

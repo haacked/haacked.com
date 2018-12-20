@@ -1,7 +1,6 @@
 ---
 title: Copying Files Over Remote Desktop
 date: 2010-05-18 -0800
-disqus_identifier: 18701
 tags:
 - tech
 redirect_from: "/archive/2010/05/17/remote-desktop-file-copy.aspx/"

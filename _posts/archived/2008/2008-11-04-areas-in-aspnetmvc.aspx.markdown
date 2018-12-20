@@ -1,7 +1,6 @@
 ---
 title: Grouping Controllers with ASP.NET MVC
 date: 2008-11-04 -0800
-disqus_identifier: 18547
 tags:
 - aspnet
 - aspnetmvc

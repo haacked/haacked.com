@@ -1,7 +1,6 @@
 ---
 title: NuGet 1.1 Released!
 date: 2011-02-12 -0800
-disqus_identifier: 18762
 tags:
 - nuget
 - oss

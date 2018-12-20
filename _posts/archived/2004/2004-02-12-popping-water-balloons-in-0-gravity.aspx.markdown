@@ -1,7 +1,6 @@
 ---
 title: Popping water balloons in 0 gravity
 date: 2004-02-12 -0800
-disqus_identifier: 193
 tags: []
 redirect_from: "/archive/2004/02/11/popping-water-balloons-in-0-gravity.aspx/"
 ---

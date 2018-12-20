@@ -1,7 +1,6 @@
 ---
 title: More Eye Candy For Your Website or Blog
 date: 2006-06-21 -0800
-disqus_identifier: 13441
 tags:
 - blogging
 redirect_from: "/archive/2006/06/20/MoreEyeCandyForYourWebsiteOrBlog.aspx/"

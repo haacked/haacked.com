@@ -1,7 +1,6 @@
 ---
 title: Seattle Code Camp Wrapup
 date: 2008-01-28 -0800
-disqus_identifier: 18451
 tags: [conferences]
 redirect_from: "/archive/2008/01/27/seattle-code-camp-wrapup.aspx/"
 ---

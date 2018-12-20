@@ -1,7 +1,6 @@
 ---
 title: Demeter Transmogrifiers To The Rescue
 date: 2009-08-16 -0800
-disqus_identifier: 18636
 tags: [demeter,code]
 redirect_from: "/archive/2009/08/15/demeter-transmogrifiers.aspx/"
 ---

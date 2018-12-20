@@ -1,7 +1,6 @@
 ---
 title: Granting Commit Access to Open Source Projects
 date: 2006-01-19 -0800
-disqus_identifier: 11559
 tags:
 - oss
 redirect_from: "/archive/2006/01/18/GrantingCommitAccesstoOpenSourceProjects.aspx/"

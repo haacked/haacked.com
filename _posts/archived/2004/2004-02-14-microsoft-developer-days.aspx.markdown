@@ -1,7 +1,6 @@
 ---
 title: Microsoft Dev Days
 date: 2004-02-14 -0800
-disqus_identifier: 195
 tags: [conferences]
 redirect_from: "/archive/2004/02/13/microsoft-developer-days.aspx/"
 ---

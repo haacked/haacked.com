@@ -1,7 +1,6 @@
 ---
 title: You've Been Haacked in the Blog 1 Million.
 date: 2005-10-06 -0800
-disqus_identifier: 10629
 tags: []
 redirect_from: "/archive/2005/10/05/youve-been-haacked-in-the-blog-1-million.aspx/"
 ---

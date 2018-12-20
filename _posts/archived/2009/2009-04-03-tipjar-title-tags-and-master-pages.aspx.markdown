@@ -1,7 +1,6 @@
 ---
 title: 'TipJar: Title Tags and Master Pages'
 date: 2009-04-03 -0800
-disqus_identifier: 18607
 tags:
 - aspnet
 - aspnetmvc

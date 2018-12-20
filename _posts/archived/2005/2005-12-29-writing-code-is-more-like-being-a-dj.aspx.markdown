@@ -1,7 +1,6 @@
 ---
 title: Writing Code Is More Like Being a DJ
 date: 2005-12-29 -0800
-disqus_identifier: 11387
 tags: []
 redirect_from: "/archive/2005/12/28/writing-code-is-more-like-being-a-dj.aspx/"
 ---

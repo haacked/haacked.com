@@ -1,7 +1,6 @@
 ---
 title: Subtext User Survey
 date: 2006-11-09 -0800
-disqus_identifier: 18133
 tags: []
 redirect_from: "/archive/2006/11/08/Subtext_User_Survey.aspx/"
 ---
@@ -9,7 +8,7 @@ redirect_from: "/archive/2006/11/08/Subtext_User_Survey.aspx/"
 ![Subtext Logo](https://haacked.com/images/SubtextLogo.png) I put up a
 [short three question
 survey](http://subtextproject.com/Home/About/UserSurvey/tabid/159/Default.aspx "Survey")
-on the [Subtext](http://subtextproject.com/ "Subtext Project Website")
+on the Subtext
 website.  If you are a subtext user or thinking about using Subtext,
 please take a moment and fill it out. It’ll only take a second.
 

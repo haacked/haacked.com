@@ -1,7 +1,6 @@
 ---
 title: Unleashing a new design...
 date: 2004-06-05 -0800
-disqus_identifier: 536
 tags: []
 redirect_from: "/archive/2004/06/04/unleashing-a-new-design.aspx/"
 ---

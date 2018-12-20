@@ -1,7 +1,6 @@
 ---
 title: Good Times and Vibes at Mix 10
 date: 2010-03-22 -0800
-disqus_identifier: 18691
 tags:
 - personal
 - code

@@ -1,7 +1,6 @@
 ---
 title: Hello GitHub!
 date: 2011-12-07 -0800
-disqus_identifier: 18831
 tags:
 - personal
 redirect_from: "/archive/2011/12/06/hello-github.aspx/"

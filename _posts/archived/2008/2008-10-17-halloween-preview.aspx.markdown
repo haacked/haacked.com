@@ -1,7 +1,6 @@
 ---
 title: Halloween Preview
 date: 2008-10-17 -0800
-disqus_identifier: 18541
 tags:
 - personal
 redirect_from: "/archive/2008/10/16/halloween-preview.aspx/"

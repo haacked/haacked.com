@@ -1,7 +1,6 @@
 ---
 title: 'Neat VS10 Feature: Pinning A Debugger Watch'
 date: 2009-11-06 -0800
-disqus_identifier: 18657
 tags: [visualstudio]
 redirect_from: "/archive/2009/11/05/pinning-a-debugger-watch.aspx/"
 ---

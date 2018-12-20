@@ -1,7 +1,6 @@
 ---
 title: Microsoft's Gates Touts Blogging as Business Tool
 date: 2004-05-21 -0800
-disqus_identifier: 460
 tags: [blogging]
 redirect_from: "/archive/2004/05/20/microsofts-gates-touts-blogging-as-business-tool.aspx/"
 ---

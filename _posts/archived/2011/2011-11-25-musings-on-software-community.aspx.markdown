@@ -1,7 +1,6 @@
 ---
 title: Musings On Software Community
 date: 2011-11-25 -0800
-disqus_identifier: 18826
 tags:
 - code
 redirect_from: "/archive/2011/11/24/musings-on-software-community.aspx/"

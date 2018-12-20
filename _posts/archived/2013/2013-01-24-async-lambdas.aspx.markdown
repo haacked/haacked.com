@@ -1,7 +1,6 @@
 ---
 title: Async Lambdas
 date: 2013-01-24 -0800
-disqus_identifier: 18883
 tags:
 - code
 redirect_from: "/archive/2013/01/23/async-lambdas.aspx/"

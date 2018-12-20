@@ -1,7 +1,6 @@
 ---
 title: Keeping Blog Ads In Check
 date: 2008-07-01 -0800
-disqus_identifier: 18500
 tags: [blogging]
 redirect_from: "/archive/2008/06/30/keeping-blog-ads-in-check.aspx/"
 ---

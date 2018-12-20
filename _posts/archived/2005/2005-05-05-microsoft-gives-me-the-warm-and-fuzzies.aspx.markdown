@@ -1,8 +1,7 @@
 ---
 title: Microsoft Gives Me the Warm and Fuzzies
 date: 2005-05-05 -0800
-disqus_identifier: 3058
-tags: []
+tags: [diversity]
 redirect_from: "/archive/2005/05/04/microsoft-gives-me-the-warm-and-fuzzies.aspx/"
 ---
 
@@ -35,6 +34,3 @@ made me feel that Microsoft might actually be a great place to work. And
 that's a good thing for Microsoft. To be seen as a progressive workplace
 will invite the best and the brightest. As will shipping timely solid
 software. One down and one to go.
-
-[Listening to: Decoder - Dumb - Diesel Boy - System Upgrade (2:50)]
-

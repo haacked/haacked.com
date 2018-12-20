@@ -1,7 +1,6 @@
 ---
 title: Another Subtext 1.9.2 Upgrade Bug
 date: 2006-10-29 -0800
-disqus_identifier: 18120
 tags: []
 redirect_from: "/archive/2006/10/28/Another_Subtext_1.9.2_Upgrade_Bug.aspx/"
 ---

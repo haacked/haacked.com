@@ -1,7 +1,6 @@
 ---
 title: How to Have the Benefits of Tables and Eat Your CSS Cake Too
 date: 2005-05-02 -0800
-disqus_identifier: 2921
 tags: []
 redirect_from: "/archive/2005/05/01/how-to-have-the-benefits-of-tables-and-eat-your-css-cake-too.aspx/"
 ---

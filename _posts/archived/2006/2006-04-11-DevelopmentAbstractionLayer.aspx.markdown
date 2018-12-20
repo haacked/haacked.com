@@ -1,7 +1,6 @@
 ---
 title: Development Abstraction Layer
 date: 2006-04-11 -0800
-disqus_identifier: 12381
 tags: []
 redirect_from: "/archive/2006/04/10/DevelopmentAbstractionLayer.aspx/"
 ---

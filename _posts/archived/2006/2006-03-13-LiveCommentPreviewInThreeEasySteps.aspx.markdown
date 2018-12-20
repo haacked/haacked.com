@@ -1,7 +1,6 @@
 ---
 title: Live Comment Preview In Three Easy Steps
 date: 2006-03-13 -0800
-disqus_identifier: 12072
 tags: []
 redirect_from: "/archive/2006/03/12/LiveCommentPreviewInThreeEasySteps.aspx/"
 ---

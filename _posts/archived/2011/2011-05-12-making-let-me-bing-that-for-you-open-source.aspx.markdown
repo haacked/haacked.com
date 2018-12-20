@@ -1,7 +1,6 @@
 ---
 title: Making Let Me Bing That For You Open Source
 date: 2011-05-12 -0800
-disqus_identifier: 18788
 tags:
 - oss
 - personal

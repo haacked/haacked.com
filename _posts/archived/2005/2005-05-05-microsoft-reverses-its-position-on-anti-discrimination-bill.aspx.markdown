@@ -1,7 +1,6 @@
 ---
 title: Microsoft reverses its position on anti-discrimination bill
 date: 2005-05-05 -0800
-disqus_identifier: 3040
 tags: []
 redirect_from: "/archive/2005/05/04/microsoft-reverses-its-position-on-anti-discrimination-bill.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: Church Sign Generator
 date: 2004-11-18 -0800
-disqus_identifier: 1648
 tags:
 - personal
 - humor

@@ -1,7 +1,6 @@
 ---
 title: Which Version of Version?
 date: 2006-09-27 -0800
-disqus_identifier: 17309
 tags: []
 redirect_from: "/archive/2006/09/26/Which_Version_of_Version.aspx/"
 ---

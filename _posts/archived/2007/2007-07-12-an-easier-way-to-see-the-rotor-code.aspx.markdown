@@ -1,7 +1,6 @@
 ---
 title: An Easier Way To See The Rotor Code
 date: 2007-07-12 -0800
-disqus_identifier: 18366
 tags: [dotnet]
 redirect_from: "/archive/2007/07/11/an-easier-way-to-see-the-rotor-code.aspx/"
 ---

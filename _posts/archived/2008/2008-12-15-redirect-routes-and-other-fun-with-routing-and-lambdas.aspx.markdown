@@ -1,7 +1,6 @@
 ---
 title: Redirect Routes and other Fun With Routing And Lambdas
 date: 2008-12-15 -0800
-disqus_identifier: 18565
 tags:
 - aspnetmvc
 - aspnet

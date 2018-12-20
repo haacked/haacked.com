@@ -1,7 +1,6 @@
 ---
 title: Donut Caching in ASP.NET MVC
 date: 2008-11-05 -0800
-disqus_identifier: 18548
 tags:
 - aspnetmvc
 - aspnet

@@ -1,7 +1,6 @@
 ---
 title: A Niggle or Two About Asynchronous Sockets And Thread Safety
 date: 2004-08-09 -0800
-disqus_identifier: 895
 tags:
 - code
 redirect_from: "/archive/2004/08/08/niggle-about-asynchronous-sockets-and-thread-safety.aspx/"

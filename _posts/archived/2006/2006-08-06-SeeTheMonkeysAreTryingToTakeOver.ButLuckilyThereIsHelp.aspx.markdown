@@ -1,7 +1,6 @@
 ---
 title: See! The Monkeys Are Trying To Take Over. But Luckily There Is Help.
 date: 2006-08-06 -0800
-disqus_identifier: 14685
 tags: []
 redirect_from: "/archive/2006/08/05/SeeTheMonkeysAreTryingToTakeOver.ButLuckilyThereIsHelp.aspx/"
 ---

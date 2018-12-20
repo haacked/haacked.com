@@ -1,7 +1,6 @@
 ---
 title: An Abstract Boilerplate HttpHandler
 date: 2005-03-17 -0800
-disqus_identifier: 2394
 tags: [code,dotnet]
 redirect_from:
   - "/archive/2005/03/16/AnAbstractBoilerplateHttpHandler.aspx/"
@@ -206,8 +205,3 @@ public abstract class BaseHttpHandler : IHttpHandler
     }
 }
 ```
-
-You can also [download the
-file](http://tools.veloc-it.com/tabid/58/grm2id/3/Default.aspx "Abstract Boilerplate")
-from [http://tools.veloc-it.com/](http://tools.veloc-it.com/ "Tools")
-

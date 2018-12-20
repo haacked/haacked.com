@@ -1,7 +1,6 @@
 ---
 title: Writing For Magazines. Suggestions?
 date: 2005-04-04 -0800
-disqus_identifier: 2566
 tags: []
 redirect_from: "/archive/2005/04/03/writing-for-magazines-suggestions.aspx/"
 ---

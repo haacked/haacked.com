@@ -1,7 +1,6 @@
 ---
 title: Ms-PL Source Release for System.Web.Mvc 2
 date: 2010-03-12 -0800
-disqus_identifier: 18690
 tags:
 - aspnet
 - aspnetmvc

@@ -1,7 +1,6 @@
 ---
 title: Please, Stop Letting the Sales Team Drive the Software Schedule
 date: 2005-02-11 -0800
-disqus_identifier: 2140
 tags: []
 redirect_from: "/archive/2005/02/10/StopLettingSalesDriveTheSchedule.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: New Years Eve Plans
 date: 2005-12-01 -0800
-disqus_identifier: 11284
 tags: []
 redirect_from: "/archive/2005/11/30/new-years-eve-plans.aspx/"
 ---

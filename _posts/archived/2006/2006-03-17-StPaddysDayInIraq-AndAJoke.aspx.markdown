@@ -1,7 +1,6 @@
 ---
 title: St Paddys Day In Iraq - And A Joke
 date: 2006-03-17 -0800
-disqus_identifier: 12098
 tags: []
 redirect_from: "/archive/2006/03/16/StPaddysDayInIraq-AndAJoke.aspx/"
 ---

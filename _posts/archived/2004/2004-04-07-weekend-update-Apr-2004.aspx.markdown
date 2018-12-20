@@ -1,7 +1,6 @@
 ---
 title: Weekend Update
 date: 2004-04-07 -0800
-disqus_identifier: 306
 tags:
 - personal
 redirect_from: "/archive/2004/04/06/weekend-update-Apr-2004.aspx/"

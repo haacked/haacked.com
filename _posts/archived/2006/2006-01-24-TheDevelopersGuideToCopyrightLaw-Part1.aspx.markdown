@@ -1,7 +1,6 @@
 ---
 title: The Developer's Guide To Copyright Law - Part 1
 date: 2006-01-24 -0800
-disqus_identifier: 11575
 tags:
 - oss
 redirect_from: "/archive/2006/01/23/TheDevelopersGuideToCopyrightLaw-Part1.aspx/"

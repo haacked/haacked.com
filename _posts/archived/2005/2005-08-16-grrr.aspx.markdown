@@ -1,7 +1,6 @@
 ---
 title: Grrr...
 date: 2005-08-16 -0800
-disqus_identifier: 9480
 tags: []
 redirect_from: "/archive/2005/08/15/grrr.aspx/"
 ---

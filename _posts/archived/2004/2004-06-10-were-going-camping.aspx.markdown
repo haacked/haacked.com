@@ -1,7 +1,6 @@
 ---
 title: We're Going Camping!
 date: 2004-06-10 -0800
-disqus_identifier: 612
 tags: []
 redirect_from: "/archive/2004/06/09/were-going-camping.aspx/"
 ---

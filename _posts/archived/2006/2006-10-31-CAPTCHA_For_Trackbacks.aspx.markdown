@@ -1,7 +1,6 @@
 ---
 title: CAPTCHA For Trackbacks
 date: 2006-10-31 -0800
-disqus_identifier: 18124
 tags: []
 redirect_from: "/archive/2006/10/30/CAPTCHA_For_Trackbacks.aspx/"
 ---
@@ -17,7 +16,7 @@ makes the following point:
 > spam.**
 
 Absolutely. 
-[Subtext](http://subtextproject.com/ "Subtext Project Website") employs
+Subtext employs
 several measures against comment spam, mostly of a
 [heuristic](https://haacked.com/archive/2006/08/29/Comment_Spam_Heuristics.aspx "Comment Spam Heuristics")
 nature.  The [latest

@@ -1,7 +1,6 @@
 ---
 title: Removing The Comment Spam Incentive
 date: 2006-08-28 -0800
-disqus_identifier: 16136
 tags: []
 redirect_from: "/archive/2006/08/27/Removing_The_Comment_Spam_Incentive.aspx/"
 ---

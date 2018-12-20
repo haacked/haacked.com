@@ -1,7 +1,6 @@
 ---
 title: 7 Stages of new language keyword grief
 date: 2009-08-31 -0800
-disqus_identifier: 18641
 tags: [humor,language-design]
 redirect_from: "/archive/2009/08/30/7-stages-of-language-keyword-grief.aspx/"
 ---

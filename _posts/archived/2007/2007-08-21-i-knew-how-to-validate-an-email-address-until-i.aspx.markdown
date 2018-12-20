@@ -1,7 +1,6 @@
 ---
 title: I Knew How To Validate An Email Address Until I Read The RFC
 date: 2007-08-21 -0800
-disqus_identifier: 18384
 tags:
 - code
 - regex

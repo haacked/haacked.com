@@ -4,7 +4,6 @@ date: 2012-04-15 -0800
 redirect_from:
   - "/archive/2012/04/15/The-Real-Pain-Of-Software-Development-2.aspx.aspx.html/"
   - "/archive/2012/04/15/The-Real-Pain-Of-Software-Development-2.aspx.html/"
-disqus_identifier: 18857
 tags: [dvorak,typing,rsi]
 ---
 Around eight years ago I wrote a blog post about [Repetitive Strain

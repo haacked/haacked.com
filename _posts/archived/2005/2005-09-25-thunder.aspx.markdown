@@ -1,7 +1,6 @@
 ---
 title: Thunder!
 date: 2005-09-25 -0800
-disqus_identifier: 10382
 tags: []
 redirect_from: "/archive/2005/09/24/thunder.aspx/"
 ---

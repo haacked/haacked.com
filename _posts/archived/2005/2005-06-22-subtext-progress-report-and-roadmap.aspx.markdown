@@ -1,7 +1,6 @@
 ---
 title: Subtext Progress Report.
 date: 2005-06-22 -0800
-disqus_identifier: 7125
 tags: [subtext]
 redirect_from: "/archive/2005/06/21/subtext-progress-report-and-roadmap.aspx/"
 ---

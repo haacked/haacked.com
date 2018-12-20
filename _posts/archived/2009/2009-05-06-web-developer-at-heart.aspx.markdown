@@ -1,7 +1,6 @@
 ---
 title: I am a Web Developer At Heart
 date: 2009-05-06 -0800
-disqus_identifier: 18616
 tags: [webdev]
 redirect_from: "/archive/2009/05/05/web-developer-at-heart.aspx/"
 ---

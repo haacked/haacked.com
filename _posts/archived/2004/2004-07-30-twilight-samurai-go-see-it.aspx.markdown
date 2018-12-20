@@ -1,7 +1,6 @@
 ---
 title: Twilight Samurai, Go See It
 date: 2004-07-30 -0800
-disqus_identifier: 870
 tags: []
 redirect_from: "/archive/2004/07/29/twilight-samurai-go-see-it.aspx/"
 ---

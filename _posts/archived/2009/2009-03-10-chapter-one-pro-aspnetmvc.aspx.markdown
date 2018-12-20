@@ -1,7 +1,6 @@
 ---
 title: Learn About ASP.NET MVC Via NerdDinner
 date: 2009-03-10 -0800
-disqus_identifier: 18597
 tags:
 - code
 - aspnetmvc

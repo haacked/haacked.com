@@ -1,7 +1,6 @@
 ---
 title: It's no iPod, but it is 100GB
 date: 2004-10-20 -0800
-disqus_identifier: 1438
 tags: []
 redirect_from: "/archive/2004/10/19/its-no-ipod-but-it-is-100gb.aspx/"
 ---

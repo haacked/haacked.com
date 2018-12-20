@@ -1,7 +1,6 @@
 ---
 title: Developing Custom Skins
 date: 2006-08-26 -0800
-disqus_identifier: 16092
 tags: []
 redirect_from: "/archive/2006/08/25/Developing_Custom_Skins.aspx/"
 ---

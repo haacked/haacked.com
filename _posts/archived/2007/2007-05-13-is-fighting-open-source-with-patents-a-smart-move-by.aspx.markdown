@@ -1,7 +1,6 @@
 ---
 title: Is Fighting Open Source With Patents A Smart Move By Microsoft?
 date: 2007-05-13 -0800
-disqus_identifier: 18313
 tags: []
 redirect_from: "/archive/2007/05/12/is-fighting-open-source-with-patents-a-smart-move-by.aspx/"
 ---

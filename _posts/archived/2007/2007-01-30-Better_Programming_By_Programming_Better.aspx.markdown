@@ -1,7 +1,6 @@
 ---
 title: Better Programming By Programming Better
 date: 2007-01-30 -0800
-disqus_identifier: 18203
 tags: []
 redirect_from: "/archive/2007/01/29/Better_Programming_By_Programming_Better.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: The Technological 7-Year Itch
 date: 2007-05-20 -0800
-disqus_identifier: 18321
 tags: []
 redirect_from: "/archive/2007/05/19/is-web-development-the-only-development-that-matters.aspx/"
 ---

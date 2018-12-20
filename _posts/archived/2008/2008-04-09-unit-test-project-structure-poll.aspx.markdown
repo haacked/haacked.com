@@ -1,7 +1,6 @@
 ---
 title: Unit Test Project Structure Poll
 date: 2008-04-09 -0800
-disqus_identifier: 18472
 tags:
 - code
 - tdd

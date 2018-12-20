@@ -1,7 +1,6 @@
 ---
 title: Visiting Seattle Next Week
 date: 2007-02-12 -0800
-disqus_identifier: 18211
 tags: []
 redirect_from: "/archive/2007/02/11/Visiting_Seattle_Next_Week.aspx/"
 ---

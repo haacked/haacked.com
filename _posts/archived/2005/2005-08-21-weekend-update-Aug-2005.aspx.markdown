@@ -1,7 +1,6 @@
 ---
 title: Weekend Update
 date: 2005-08-21 -0800
-disqus_identifier: 9599
 tags:
 - personal
 redirect_from: "/archive/2005/08/20/weekend-update-Aug-2005.aspx/"

@@ -1,7 +1,6 @@
 ---
 title: World Officials Ask Hamm to Give Up Gold
 date: 2004-08-26 -0800
-disqus_identifier: 983
 tags: []
 redirect_from: "/archive/2004/08/25/world-officials-ask-hamm-to-give-up-gold.aspx/"
 ---

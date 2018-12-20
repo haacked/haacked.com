@@ -1,7 +1,6 @@
 ---
 title: 007 Uses RSS Bandit
 date: 2004-09-09 -0800
-disqus_identifier: 1181
 tags: []
 redirect_from: "/archive/2004/09/08/007-uses-rss-bandit.aspx/"
 ---

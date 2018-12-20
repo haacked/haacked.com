@@ -1,7 +1,6 @@
 ---
 title: Not Your Typical Top Ten Of 2008 Post
 date: 2008-12-30 -0800
-disqus_identifier: 18569
 tags:
 - personal
 redirect_from: "/archive/2008/12/29/not-your-typical-top-ten-of-2008-post.aspx/"
@@ -57,7 +56,7 @@ My Top Posts (Using the [Ayende Formula](http://ayende.com/Blog/archive/2007/03/
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A while back, Ayende wrote up a weighted query for
-[Subtext](http://subtextproject.com/ "Subtext Project Website") to
+Subtext to
 determine the top posts. I updated it to only include mine published in
 2008. Here are the top 5.
 

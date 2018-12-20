@@ -1,7 +1,6 @@
 ---
 title: VS2008 Web Server Here Shell Extension
 date: 2008-06-24 -0800
-disqus_identifier: 18497
 tags: [code,tools]
 redirect_from: "/archive/2008/06/23/vs2008-web-server-here-shell-extension.aspx/"
 ---

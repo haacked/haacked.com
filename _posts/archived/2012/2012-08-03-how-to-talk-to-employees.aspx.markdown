@@ -1,7 +1,6 @@
 ---
 title: How To Talk To Employees
 date: 2012-08-03 -0800
-disqus_identifier: 18865
 tags:
 - company culture
 redirect_from: "/archive/2012/08/02/how-to-talk-to-employees.aspx/"

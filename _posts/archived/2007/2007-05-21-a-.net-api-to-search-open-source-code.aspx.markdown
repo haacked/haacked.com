@@ -1,7 +1,6 @@
 ---
 title: A .NET API To Search Open Source Code
 date: 2007-05-21 -0800
-disqus_identifier: 18323
 tags:
 - code
 redirect_from: "/archive/2007/05/20/a-.net-api-to-search-open-source-code.aspx/"

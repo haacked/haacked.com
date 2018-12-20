@@ -1,68 +1,41 @@
 ---
 title: What Are Brogrammers Afraid Of?
 date: 2012-03-22 -0800
-disqus_identifier: 18853
-tags:
-- code
-- personal
-- oss
+tags: [diversity]
 redirect_from: "/archive/2012/03/21/what-are-brogrammers-afraid-of.aspx/"
 ---
 
-*Disclaimer: these opinions are my own and don’t necessarily represent
-the opinion of any person or institution who are not me.*
+*Disclaimer: these opinions are my own and don’t necessarily represent the opinion of any person or institution who are not me.*
 
-The topic of sexism in the software industry has flared up recently.
-This post by Katie Cunningham (aka The Real Katie), entitled [Lighten
-Up](http://therealkatie.net/blog/2012/mar/21/lighten-up/ "Lighten Up"),
-caught my attention. As a father of a delightful little girl, I hope
-someday my daughter feels welcomed as a developer should she choose that
+The topic of sexism in the software industry has flared up recently. This post by Katie Cunningham (aka The Real Katie), entitled [Lighten Up](http://therealkatie.net/blog/2012/mar/21/lighten-up/ "Lighten Up"), caught my attention. As a father of a delightful little girl, I hope someday my daughter feels welcomed as a developer should she choose that
 profession.
 
-In general, I try to avoid discussions of politics, religion, and
-racism/sexism on my blog not because I don’t have strong feelings about
-these things, but I doubt I will change anyone’s mind.
+In general, I try to avoid discussions of politics, religion, and racism/sexism on my blog not because I don’t have strong feelings about these things, but I doubt I will change anyone’s mind.
 
-If you don’t think there’s an institutionalized subtle sexism problem in
-our industry, I probably won’t change your mind.
+If you don’t think there’s an institutionalized subtle sexism problem in our industry, I probably won’t change your mind.
 
 **So I won’t try.**
 
-Instead, I want to *attempt* an empirical look at some problems that
-probably do affect you today that just happen to be related to sexism.
-Maybe you’ll want to do something about it.
+Instead, I want to *attempt* an empirical look at some problems that probably do affect you today that just happen to be related to sexism. Maybe you’ll want to do something about it.
 
 But first, some facts.
 
 The Facts
 ---------
 
-Whether we agree on the existence of institutional sexism in our
-industry, I think we can all agree that our industry is overwhelmingly
-male.
+Whether we agree on the existence of institutional sexism in our industry, I think we can all agree that our industry is overwhelmingly male.
 
-It wasn’t always like this. Ada Lovelace is widely credited as the
-[world’s first
-programmer](http://en.wikipedia.org/wiki/Ada_Lovelace "World's first programmer.").
-So there was at least a brief time in the 1840s when 100% of developers
-were women. As late as the 1960s, [computing was seen as women’s
-work](http://thecomputerboys.com/?p=239 "Women's work"), emphasis mine:
+It wasn’t always like this. Ada Lovelace is widely credited as the [world’s first programmer](http://en.wikipedia.org/wiki/Ada_Lovelace "World's first programmer."). So there was at least a brief time in the 1840s when 100% of developers were women. As late as the 1960s, [computing was seen as women’s work](http://thecomputerboys.com/?p=239 "Women's work"), emphasis mine:
 
 > “You have to plan ahead and schedule everything so it’s ready when you
 > need it. Programming requires patience and the ability to handle
 > detail. **Women are ‘naturals’ at computer programming.**”
 
-The same site where I found that quote has a link to this great [Life
-Magazine archive
-photo](http://thecomputerboys.com/?p=351 "Life Magazine Archive photo of IBM")
-of IBM computer operators.
+The same site where I found that quote has a link to this great [Life Magazine archive photo](http://thecomputerboys.com/?p=351 "Life Magazine Archive photo of IBM") of IBM computer operators.
 
 [![ibm-60s](https://haacked.com/images/haacked_com/WindowsLiveWriter/What-are-Brogrammers-Afraid-Of_C1D4/ibm-60s_thumb.jpg "ibm-60s")](https://haacked.com/images/haacked_com/WindowsLiveWriter/What-are-Brogrammers-Afraid-Of_C1D4/ibm-60s_2.jpg)
 
-But the percentage of women declined steadily from that point. According
-to this [Girls Go
-Geek](http://blog.fogcreek.com/girls-go-geek-again/ "Girls Go Geek")
-post, in 1987, 42% of software developers were women. But then:
+But the percentage of women declined steadily from that point. According to this [Girls Go Geek](http://blog.fogcreek.com/girls-go-geek-again/ "Girls Go Geek") post, in 1987, 42% of software developers were women. But then:
 
 > From 1984 to 2006, the number of women majoring in computer science
 > dropped from [37% to
@@ -71,18 +44,11 @@ post, in 1987, 42% of software developers were women. But then:
 > other fields of science, technology, engineering, and math, with the
 > possible exception of physics.
 
-The post goes on to state that the number of CS grads at Harvard is on
-the increase, but overall numbers are still low.
+The post goes on to state that the number of CS grads at Harvard is on the increase, but overall numbers are still low.
 
-So why is there this decline? That’s not an easy question to answer, but
-I think we can rule out the idea that women are somehow inherently not
-suited for software development. History proves that idea wrong.
+So why is there this decline? That’s not an easy question to answer, but I think we can rule out the idea that women are somehow inherently not suited for software development. History proves that idea wrong.
 
-*Ok fine, there’s less women in software for whatever reasons. Maybe
-they don’t want to be developers.* Hard for me to believe as I think
-it’s the best goddamn profession ever. But let’s humor that argument
-just for a moment. Suppose that was true. Why is it a problem for our
-industry? I’ll name two reasons.
+*Ok fine, there’s less women in software for whatever reasons. Maybe they don’t want to be developers.* Hard for me to believe as I think it’s the best goddamn profession ever. But let’s humor that argument just for a moment. Suppose that was true. Why is it a problem for our industry? I’ll name two reasons.
 
 The OSS Contributor Problem
 ---------------------------
@@ -244,4 +210,3 @@ the fear, acknowledging the issue, recognizing the opportunity to
 improve, and embracing the concrete benefits that diversification bring.
 
 What do you think?
-

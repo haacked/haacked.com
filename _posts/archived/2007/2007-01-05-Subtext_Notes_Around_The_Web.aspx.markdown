@@ -1,14 +1,13 @@
 ---
 title: Subtext Notes Around The Web
 date: 2007-01-05 -0800
-disqus_identifier: 18186
 tags: [subtext]
 redirect_from: "/archive/2007/01/04/Subtext_Notes_Around_The_Web.aspx/"
 ---
 
 While I really enjoyed the holidays, one part was really difficult for
 me. There was some great discussions happening about
-[Subtext](http://subtextproject.com/ "Subtext Project Website") in the
+Subtext in the
 mailing list and in various blog posts, but I was too busy to really get
 involved.
 

@@ -1,7 +1,6 @@
 ---
 title: 10 Unwritten Rules for a Consultant to Live By
 date: 2004-08-25 -0800
-disqus_identifier: 975
 tags:
 - code
 - tech

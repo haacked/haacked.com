@@ -1,7 +1,6 @@
 ---
 title: Recent Podcasts
 date: 2009-11-22 -0800
-disqus_identifier: 18662
 tags: [podcasts]
 redirect_from: "/archive/2009/11/21/recent-podcasts.aspx/"
 ---

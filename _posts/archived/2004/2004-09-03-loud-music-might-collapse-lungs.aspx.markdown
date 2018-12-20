@@ -1,7 +1,6 @@
 ---
 title: Loud Music Might Collapse Lungs
 date: 2004-09-03 -0800
-disqus_identifier: 1125
 tags: []
 redirect_from: "/archive/2004/09/02/loud-music-might-collapse-lungs.aspx/"
 ---

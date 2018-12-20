@@ -1,7 +1,6 @@
 ---
 title: SemVer 2.0 Released
 date: 2013-06-18 -0800
-disqus_identifier: 18892
 tags:
 - code
 redirect_from: "/archive/2013/06/17/semver-2-0-released.aspx/"

@@ -1,7 +1,6 @@
 ---
 title: There Is No Perfect Design
 date: 2005-05-30 -0800
-disqus_identifier: 3934
 tags:
 - code
 redirect_from:

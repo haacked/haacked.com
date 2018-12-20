@@ -1,7 +1,6 @@
 ---
 title: ASP.NET MVC 2 Beta Released
 date: 2009-11-17 -0800
-disqus_identifier: 18659
 tags: [aspnetmvc]
 redirect_from: "/archive/2009/11/16/asp.net-mvc-2-beta-released.aspx/"
 ---

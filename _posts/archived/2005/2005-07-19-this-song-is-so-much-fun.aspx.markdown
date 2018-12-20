@@ -1,7 +1,6 @@
 ---
 title: This Song Is So Much Fun
 date: 2005-07-19 -0800
-disqus_identifier: 8891
 tags:
 - personal
 redirect_from: "/archive/2005/07/18/this-song-is-so-much-fun.aspx/"

@@ -1,7 +1,6 @@
 ---
 title: ASP.NET MVC RC Refresh
 date: 2009-01-30 -0800
-disqus_identifier: 18584
 tags:
 - aspnetmvc
 - aspnet

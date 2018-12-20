@@ -1,7 +1,6 @@
 ---
 title: Code Sample Taxonomy
 date: 2009-04-16 -0800
-disqus_identifier: 18610
 tags: [code]
 redirect_from: "/archive/2009/04/15/code-sample-taxonomy.aspx/"
 ---

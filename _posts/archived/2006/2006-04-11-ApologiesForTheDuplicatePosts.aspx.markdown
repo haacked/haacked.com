@@ -1,7 +1,6 @@
 ---
 title: Apologies For The Duplicate Posts
 date: 2006-04-11 -0800
-disqus_identifier: 12392
 tags: []
 redirect_from: "/archive/2006/04/10/ApologiesForTheDuplicatePosts.aspx/"
 ---

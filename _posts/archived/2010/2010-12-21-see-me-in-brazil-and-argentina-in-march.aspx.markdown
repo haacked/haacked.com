@@ -1,7 +1,6 @@
 ---
 title: See Me in Brazil and Argentina in March
 date: 2010-12-21 -0800
-disqus_identifier: 18749
 tags:
 - personal
 - aspnetmvc

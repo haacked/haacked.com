@@ -1,7 +1,6 @@
 ---
 title: Google's Mysterious Billboard
 date: 2004-07-13 -0800
-disqus_identifier: 811
 tags:
 - code
 redirect_from: "/archive/2004/07/12/google-mysterious-billboard.aspx/"

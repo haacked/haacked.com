@@ -1,7 +1,6 @@
 ---
 title: Google Referals Program
 date: 2005-11-04 -0800
-disqus_identifier: 11120
 tags: []
 redirect_from: "/archive/2005/11/03/google-referals-program.aspx/"
 ---

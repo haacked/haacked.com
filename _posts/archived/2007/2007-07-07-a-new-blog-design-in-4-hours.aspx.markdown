@@ -1,7 +1,6 @@
 ---
 title: A New Blog Design In 4 Hours
 date: 2007-07-07 -0800
-disqus_identifier: 18365
 tags:
 - subtext
 - blogging

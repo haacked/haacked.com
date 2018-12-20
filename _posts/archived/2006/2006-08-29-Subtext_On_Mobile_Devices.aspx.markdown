@@ -1,7 +1,6 @@
 ---
 title: Subtext On Mobile Devices
 date: 2006-08-29 -0800
-disqus_identifier: 16169
 tags: []
 redirect_from: "/archive/2006/08/28/Subtext_On_Mobile_Devices.aspx/"
 ---

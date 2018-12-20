@@ -1,7 +1,6 @@
 ---
 title: The Life of a Digital Photo
 date: 2004-02-07 -0800
-disqus_identifier: 179
 tags: []
 redirect_from: "/archive/2004/02/06/the-life-of-a-digital-photo.aspx/"
 ---

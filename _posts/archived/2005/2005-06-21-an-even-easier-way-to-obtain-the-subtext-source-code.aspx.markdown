@@ -1,7 +1,6 @@
 ---
 title: An Even EASIER Way To Obtain the Subtext Source Code
 date: 2005-06-21 -0800
-disqus_identifier: 7116
 tags: [subtext]
 redirect_from: "/archive/2005/06/20/an-even-easier-way-to-obtain-the-subtext-source-code.aspx/"
 ---

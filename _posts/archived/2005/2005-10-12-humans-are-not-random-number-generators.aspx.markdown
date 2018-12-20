@@ -1,7 +1,6 @@
 ---
 title: Humans Are Not Random Number Generators
 date: 2005-10-12 -0800
-disqus_identifier: 10750
 tags: []
 redirect_from: "/archive/2005/10/11/humans-are-not-random-number-generators.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: Playa Creature
 date: 2006-09-19 -0800
-disqus_identifier: 16892
 tags: []
 redirect_from: "/archive/2006/09/18/Playa_Creature.aspx/"
 ---

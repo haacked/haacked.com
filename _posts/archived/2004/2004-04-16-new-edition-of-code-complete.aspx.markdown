@@ -1,7 +1,6 @@
 ---
 title: New Edition Of Code Complete
 date: 2004-04-16 -0800
-disqus_identifier: 331
 tags: []
 redirect_from: "/archive/2004/04/15/new-edition-of-code-complete.aspx/"
 ---

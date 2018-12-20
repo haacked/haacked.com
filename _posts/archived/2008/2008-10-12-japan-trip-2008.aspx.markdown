@@ -1,7 +1,6 @@
 ---
 title: Japan Trip 2008
 date: 2008-10-12 -0800
-disqus_identifier: 18535
 tags:
 - personal
 redirect_from: "/archive/2008/10/11/japan-trip-2008.aspx/"

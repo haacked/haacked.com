@@ -1,7 +1,6 @@
 ---
 title: It's Easier To Find Your Blog Than You Think
 date: 2005-03-06 -0800
-disqus_identifier: 2314
 tags: []
 redirect_from: "/archive/2005/03/05/its-easier-to-find-your-blog-than-you-think.aspx/"
 ---

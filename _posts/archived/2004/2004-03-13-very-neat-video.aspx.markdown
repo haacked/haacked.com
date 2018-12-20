@@ -1,7 +1,6 @@
 ---
 title: Very neat video
 date: 2004-03-13 -0800
-disqus_identifier: 252
 tags:
 - humor
 redirect_from: "/archive/2004/03/12/very-neat-video.aspx/"

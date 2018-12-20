@@ -1,7 +1,6 @@
 ---
 title: Happy Fourth of July!  Historical Outsourcing Lesson.
 date: 2005-07-03 -0800
-disqus_identifier: 7529
 tags: []
 redirect_from: "/archive/2005/07/02/happy-fourth-of-july-historical-outsourcing-lesson.aspx/"
 ---

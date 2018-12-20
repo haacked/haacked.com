@@ -1,7 +1,6 @@
 ---
 title: Why The Customer is Always Right
 date: 2005-07-20 -0800
-disqus_identifier: 8925
 tags: []
 redirect_from: "/archive/2005/07/19/why-the-customer-is-always-right.aspx/"
 ---

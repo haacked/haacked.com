@@ -1,7 +1,6 @@
 ---
 title: Mono Migration Analyzer
 date: 2006-11-27 -0800
-disqus_identifier: 18148
 tags: []
 redirect_from: "/archive/2006/11/26/Mono_Migration_Analyzer.aspx/"
 ---
@@ -21,7 +20,7 @@ identifying issues that might prevent your application from running on
 Mono.  This report serves as a guide to porting your application to
 Mono.
 
-Having [Subtext](http://subtextproject.com/ "Subtext Project Website")
+Having Subtext
 run on Mono is a really distant goal for us, but a tool like this could
 advance the timetable on such a feature, in theory.
 

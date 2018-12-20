@@ -1,7 +1,6 @@
 ---
 title: Entagling 5 photons
 date: 2004-07-23 -0800
-disqus_identifier: 852
 tags: []
 redirect_from: "/archive/2004/07/22/entagling-5-photons.aspx/"
 ---

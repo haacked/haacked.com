@@ -1,7 +1,6 @@
 ---
 title: What a day! Kayaking in Lake Union
 date: 2004-07-30 -0800
-disqus_identifier: 869
 tags: []
 redirect_from: "/archive/2004/07/29/what-a-day-kayaking-in-lake-union.aspx/"
 ---

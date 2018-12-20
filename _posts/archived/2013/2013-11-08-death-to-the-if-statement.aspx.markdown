@@ -1,7 +1,6 @@
 ---
 title: Death to the IF statement
 date: 2013-11-08 -0800
-disqus_identifier: 18906
 tags:
 - code
 redirect_from: "/archive/2013/11/07/death-to-the-if-statement.aspx/"

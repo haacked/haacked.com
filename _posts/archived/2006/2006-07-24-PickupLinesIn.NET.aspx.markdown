@@ -1,7 +1,6 @@
 ---
 title: Pickup Lines In .NET
 date: 2006-07-24 -0800
-disqus_identifier: 14142
 tags: []
 redirect_from: "/archive/2006/07/23/PickupLinesIn.NET.aspx/"
 ---

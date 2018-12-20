@@ -1,7 +1,6 @@
 ---
 title: Windows Live Writer First Impression
 date: 2006-08-14 -0800
-disqus_identifier: 14943
 tags: []
 redirect_from: "/archive/2006/08/13/WindowsLiveWriterFirstImpression.aspx/"
 ---

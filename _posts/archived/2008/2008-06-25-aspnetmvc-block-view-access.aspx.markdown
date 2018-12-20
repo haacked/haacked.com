@@ -2,7 +2,6 @@
 title: 'Security Tip: Blocking Access to ASP.NET MVC Views Using Alternative View
   Engines'
 date: 2008-06-25 -0800
-disqus_identifier: 18498
 tags: [tips,aspnetmvc,security]
 redirect_from: "/archive/2008/06/24/aspnetmvc-block-view-access.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: IHttpContext And Other Interfaces For Your Duck Typing Benefit
 date: 2007-09-09 -0800
-disqus_identifier: 18387
 tags: [code]
 redirect_from: "/archive/2007/09/08/ihttpcontext-and-other-interfaces-for-your-duck-typing-benefit.aspx/"
 ---

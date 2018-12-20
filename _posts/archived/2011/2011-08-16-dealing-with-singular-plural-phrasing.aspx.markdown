@@ -1,7 +1,6 @@
 ---
 title: Dealing with singular plural phrasing
 date: 2011-08-16 -0800
-disqus_identifier: 18808
 tags:
 - code
 redirect_from: "/archive/2011/08/15/dealing-with-singular-plural-phrasing.aspx/"

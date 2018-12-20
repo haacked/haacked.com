@@ -1,7 +1,6 @@
 ---
 title: Admitting Your Addiction Is The First Step
 date: 2006-05-11 -0800
-disqus_identifier: 12747
 tags: []
 redirect_from: "/archive/2006/05/10/AdmittingYourAddictionIsTheFirstStep.aspx/"
 ---
@@ -11,7 +10,7 @@ work I would read my blogs. I’d tune back in while eating my lunch. And
 if I went on vacation, I thought about the huge number of unread feeds.
 Heck, I even went and got involved in [RSS
 Bandit](http://www.rssbandit.org/ "RSS aggregator") and
-[Subtext](http://subtextproject.com/ "Subtext Project Website") so that
+Subtext so that
 I could work on the means of delivering blogs.
 
 ![Oblivion Box](https://haacked.com/images/oblivion.jpg) But now I

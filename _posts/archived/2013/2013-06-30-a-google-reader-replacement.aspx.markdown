@@ -1,7 +1,6 @@
 ---
 title: A Google Reader Replacement
 date: 2013-06-30 -0800
-disqus_identifier: 18894
 tags:
 - blogging
 - oss

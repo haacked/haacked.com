@@ -1,7 +1,6 @@
 ---
 title: Build Traffic With Father's Day Humor
 date: 2007-06-15 -0800
-disqus_identifier: 18352
 tags: [humor]
 redirect_from: "/archive/2007/06/14/fathers-day-humor-impact-on-blog-traffic.aspx/"
 ---

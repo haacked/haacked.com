@@ -1,7 +1,6 @@
 ---
 title: How To Build IBlogExtension Plug-ins for RSS Bandit
 date: 2004-06-18 -0800
-disqus_identifier: 651
 tags: []
 redirect_from: "/archive/2004/06/17/how-to-build-iblogextension-plug-ins-for-rss-bandit.aspx/"
 ---

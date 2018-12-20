@@ -1,7 +1,6 @@
 ---
 title: 6/6/06
 date: 2006-06-06 -0800
-disqus_identifier: 13162
 tags:
 - humor
 redirect_from: "/archive/2006/06/05/TodayIs666.aspx/"

@@ -1,7 +1,6 @@
 ---
 title: Seriously Cool Jobs Available
 date: 2006-11-03 -0800
-disqus_identifier: 18128
 tags:
 - code
 - oss

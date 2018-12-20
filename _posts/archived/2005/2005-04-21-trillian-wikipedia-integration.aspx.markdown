@@ -1,7 +1,6 @@
 ---
 title: Trillian Wikipedia Integration
 date: 2005-04-21 -0800
-disqus_identifier: 2764
 tags:
 - tech
 redirect_from: "/archive/2005/04/20/trillian-wikipedia-integration.aspx/"

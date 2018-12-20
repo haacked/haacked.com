@@ -1,7 +1,6 @@
 ---
 title: C# Razor Syntax Quick Reference
 date: 2011-01-06 -0800
-disqus_identifier: 18753
 tags:
 - aspnetmvc
 - aspnet

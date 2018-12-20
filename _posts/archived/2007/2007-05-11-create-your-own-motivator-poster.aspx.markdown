@@ -1,7 +1,6 @@
 ---
 title: Create Your Own Motivator Poster
 date: 2007-05-11 -0800
-disqus_identifier: 18310
 tags: []
 redirect_from: "/archive/2007/05/10/create-your-own-motivator-poster.aspx/"
 ---

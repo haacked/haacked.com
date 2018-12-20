@@ -1,7 +1,6 @@
 ---
 title: Interesting use of XML Literals as a View Engine
 date: 2008-12-29 -0800
-disqus_identifier: 18568
 tags:
 - aspnet
 - aspnetmvc

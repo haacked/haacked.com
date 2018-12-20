@@ -1,7 +1,6 @@
 ---
 title: Making The Factory Pattern More Discoverable
 date: 2005-06-28 -0800
-disqus_identifier: 7346
 tags: []
 redirect_from: "/archive/2005/06/27/making-the-factory-pattern-more-discoverable.aspx/"
 ---

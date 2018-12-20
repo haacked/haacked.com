@@ -1,7 +1,6 @@
 ---
 title: 'Random Friday: My Accomplishments'
 date: 2011-06-03 -0800
-disqus_identifier: 18794
 tags:
 - humor
 - personal

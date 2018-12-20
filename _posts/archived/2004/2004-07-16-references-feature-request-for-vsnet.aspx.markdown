@@ -1,7 +1,6 @@
 ---
 title: References Feature Request for VS.NET
 date: 2004-07-16 -0800
-disqus_identifier: 819
 tags: []
 redirect_from: "/archive/2004/07/15/references-feature-request-for-vsnet.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: My Very Own Search Engine
 date: 2006-10-23 -0800
-disqus_identifier: 18105
 tags: []
 redirect_from: "/archive/2006/10/22/My_Very_Own_Search_Engine.aspx/"
 ---

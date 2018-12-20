@@ -1,7 +1,6 @@
 ---
 title: Departures
 date: 2011-11-28 -0800
-disqus_identifier: 18828
 tags:
 - personal
 - nuget

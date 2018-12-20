@@ -1,7 +1,6 @@
 ---
 title: 'Bandwidth-gobbling RSS aggregators: foiled!'
 date: 2004-12-08 -0800
-disqus_identifier: 1717
 tags: []
 redirect_from: "/archive/2004/12/07/bandwidth-gobbling-rss-aggregators-foiled.aspx/"
 ---

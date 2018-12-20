@@ -1,7 +1,6 @@
 ---
 title: 'You''ve been hacked: now what?'
 date: 2004-05-14 -0800
-disqus_identifier: 447
 tags: []
 redirect_from: "/archive/2004/05/13/youve-been-hacked-now-what.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: Comparing Moq to Rhino Mocks
 date: 2008-03-23 -0800
-disqus_identifier: 18467
 tags:
 - code
 - tdd

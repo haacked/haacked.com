@@ -1,7 +1,6 @@
 ---
 title: Happy New Years
 date: 2005-12-31 -0800
-disqus_identifier: 11402
 tags: []
 redirect_from: "/archive/2005/12/30/happy-new-years.aspx/"
 ---

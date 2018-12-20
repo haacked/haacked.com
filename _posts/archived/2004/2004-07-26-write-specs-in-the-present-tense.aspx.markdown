@@ -1,7 +1,6 @@
 ---
 title: Write Specs In The Present Tense
 date: 2004-07-26 -0800
-disqus_identifier: 858
 tags: []
 redirect_from: "/archive/2004/07/25/write-specs-in-the-present-tense.aspx/"
 ---

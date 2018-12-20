@@ -1,7 +1,6 @@
 ---
 title: Single Package Version per Solution
 date: 2011-05-02 -0800
-disqus_identifier: 18783
 tags:
 - nuget
 - code

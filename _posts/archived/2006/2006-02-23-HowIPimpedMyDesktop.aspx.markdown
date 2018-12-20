@@ -1,7 +1,6 @@
 ---
 title: How I Pimped My Desktop
 date: 2006-02-23 -0800
-disqus_identifier: 11865
 tags: []
 redirect_from: "/archive/2006/02/22/HowIPimpedMyDesktop.aspx/"
 ---

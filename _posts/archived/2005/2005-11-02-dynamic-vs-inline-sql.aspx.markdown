@@ -1,7 +1,6 @@
 ---
 title: Dynamic SQL Is Not Inline SQL
 date: 2005-11-02 -0800
-disqus_identifier: 11083
 tags:
 - code
 - sql

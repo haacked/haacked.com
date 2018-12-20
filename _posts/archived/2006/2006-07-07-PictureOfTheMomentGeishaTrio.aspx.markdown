@@ -1,7 +1,6 @@
 ---
 title: Picture of the Moment - Geisha Trio
 date: 2006-07-07 -0800
-disqus_identifier: 13739
 tags: []
 redirect_from: "/archive/2006/07/06/PictureOfTheMomentGeishaTrio.aspx/"
 ---

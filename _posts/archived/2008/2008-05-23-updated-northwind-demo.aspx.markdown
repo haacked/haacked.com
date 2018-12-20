@@ -1,7 +1,6 @@
 ---
 title: Updated Northwind Demo For ASP.NET MVC Beta
 date: 2008-05-23 -0800
-disqus_identifier: 18488
 tags:
 - aspnet
 - aspnetmvc

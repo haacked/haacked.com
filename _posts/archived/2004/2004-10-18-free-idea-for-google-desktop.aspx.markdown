@@ -1,7 +1,6 @@
 ---
 title: Free Idea For Google Desktop
 date: 2004-10-18 -0800
-disqus_identifier: 1405
 tags: []
 redirect_from: "/archive/2004/10/17/free-idea-for-google-desktop.aspx/"
 ---

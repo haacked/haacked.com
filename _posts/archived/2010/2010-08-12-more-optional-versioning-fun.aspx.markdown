@@ -1,7 +1,6 @@
 ---
 title: More Versioning Fun With Optional Arguments
 date: 2010-08-12 -0800
-disqus_identifier: 18717
 tags:
 - code
 redirect_from: "/archive/2010/08/11/more-optional-versioning-fun.aspx/"

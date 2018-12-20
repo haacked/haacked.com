@@ -1,7 +1,6 @@
 ---
 title: Why is LSD use down
 date: 2004-04-07 -0800
-disqus_identifier: 307
 tags: [drugs]
 redirect_from: "/archive/2004/04/06/why-is-lsd-use-down.aspx/"
 ---

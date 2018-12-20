@@ -1,7 +1,6 @@
 ---
 title: OSS and .NET Year In Review 2011
 date: 2011-12-26 -0800
-disqus_identifier: 18835
 tags:
 - code
 - oss

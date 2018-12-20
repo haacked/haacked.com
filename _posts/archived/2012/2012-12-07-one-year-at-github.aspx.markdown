@@ -1,7 +1,6 @@
 ---
 title: One Year At GitHub
 date: 2012-12-07 -0800
-disqus_identifier: 18876
 tags:
 - company culture
 - personal

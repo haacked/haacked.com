@@ -1,7 +1,6 @@
 ---
 title: Bug Driven Development
 date: 2007-09-24 -0800
-disqus_identifier: 18400
 tags:
 - code
 - tdd

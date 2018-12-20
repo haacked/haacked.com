@@ -1,7 +1,6 @@
 ---
 title: ReSharper Reloaded
 date: 2004-08-18 -0800
-disqus_identifier: 944
 tags: []
 redirect_from: "/archive/2004/08/17/resharper-reloaded.aspx/"
 ---

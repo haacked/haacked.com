@@ -1,7 +1,6 @@
 ---
 title: Role Playing Via Skype
 date: 2006-05-17 -0800
-disqus_identifier: 12834
 tags:
 - personal
 - tech

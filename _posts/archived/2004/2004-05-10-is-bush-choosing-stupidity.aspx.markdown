@@ -1,7 +1,6 @@
 ---
 title: Is Bush Choosing Stupidity?
 date: 2004-05-10 -0800
-disqus_identifier: 425
 tags: [politics]
 redirect_from: "/archive/2004/05/09/is-bush-choosing-stupidity.aspx/"
 ---

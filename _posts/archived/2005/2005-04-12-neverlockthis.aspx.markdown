@@ -1,7 +1,6 @@
 ---
 title: 'Threading Tips: Never Lock a Value Type. Never Lock &quot;This&quot;.'
 date: 2005-04-12 -0800
-disqus_identifier: 2634
 tags: [code,dotnet]
 redirect_from: "/archive/2005/04/11/neverlockthis.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: Test Secure Class Instantiation Helper Method
 date: 2007-09-21 -0800
-disqus_identifier: 18399
 tags:
 - code
 - tdd

@@ -1,7 +1,6 @@
 ---
 title: Worst Software Bugs in History
 date: 2005-11-08 -0800
-disqus_identifier: 11152
 tags:
 - personal
 - code

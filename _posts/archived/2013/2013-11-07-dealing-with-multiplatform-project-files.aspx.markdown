@@ -1,7 +1,6 @@
 ---
 title: Dealing with Multiplatform Project Files
 date: 2013-11-07 -0800
-disqus_identifier: 18905
 tags:
 - oss
 - code

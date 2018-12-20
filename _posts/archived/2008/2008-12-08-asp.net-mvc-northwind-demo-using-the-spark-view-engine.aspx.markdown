@@ -1,7 +1,6 @@
 ---
 title: ASP.NET MVC Northwind Demo Using the Spark View Engine
 date: 2008-12-08 -0800
-disqus_identifier: 18563
 tags:
 - aspnetmvc
 - aspnet

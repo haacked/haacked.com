@@ -1,7 +1,6 @@
 ---
 title: Comment Spam Relief In Subtext Coming Soon
 date: 2006-10-09 -0800
-disqus_identifier: 17913
 tags: []
 redirect_from: "/archive/2006/10/08/Comment_Spam_Relief_In_Subtext_Coming_Soon.aspx/"
 ---

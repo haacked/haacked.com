@@ -1,7 +1,6 @@
 ---
 title: Requirements and Specs Are Always Ambiguous
 date: 2007-03-08 -0800
-disqus_identifier: 18233
 tags: [product-management]
 redirect_from: "/archive/2007/03/07/Specs_Are_Always_Ambiguous.aspx/"
 ---

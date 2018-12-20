@@ -1,7 +1,6 @@
 ---
 title: Thank You For Helping Me With My Job With ASP.NET MVC
 date: 2007-12-13 -0800
-disqus_identifier: 18438
 tags:
 - aspnet
 - code

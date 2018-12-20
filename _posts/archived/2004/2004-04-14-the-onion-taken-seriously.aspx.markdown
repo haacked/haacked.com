@@ -1,7 +1,6 @@
 ---
 title: The Onion Taken Seriously
 date: 2004-04-14 -0800
-disqus_identifier: 324
 tags: []
 redirect_from: "/archive/2004/04/13/the-onion-taken-seriously.aspx/"
 ---

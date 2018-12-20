@@ -1,7 +1,6 @@
 ---
 title: Change The Display Of A Type In The Debugger
 date: 2006-10-04 -0800
-disqus_identifier: 17634
 tags:
 - code
 redirect_from: "/archive/2006/10/03/change_the_display_of_a_type_in_the_debugger.aspx/"

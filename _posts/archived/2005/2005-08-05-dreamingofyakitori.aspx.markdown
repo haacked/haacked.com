@@ -1,7 +1,6 @@
 ---
 title: Dreaming of Yakitori
 date: 2005-08-05 -0800
-disqus_identifier: 9226
 tags: [personal,japan,tokyo]
 redirect_from: "/archive/2005/08/04/dreamingofyakitori.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: Changing Base Type Of A Razor View
 date: 2011-02-21 -0800
-disqus_identifier: 18764
 tags:
 - aspnet
 - aspnetmvc

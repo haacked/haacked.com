@@ -1,8 +1,7 @@
 ---
 title: Better Developers Through Diversity
 date: 2006-02-16 -0800
-disqus_identifier: 11802
-tags: []
+tags: [diversity]
 redirect_from: "/archive/2006/02/15/BetterDevelopersThroughDiversity.aspx/"
 ---
 
@@ -134,7 +133,7 @@ other roll-your-own logging frameworks are just now discovering.
 If you are a .NET developer I am by no means advocating that you switch
 to Java (though you may want to spend some time programming in Java,
 Ruby, Python, etc...). I firmly believe that in a language to language
-comparison, C\# is a much better language to write software in than
+comparison, C# is a much better language to write software in than
 Java.
 
 However, the language syntax itself is not the whole of the development

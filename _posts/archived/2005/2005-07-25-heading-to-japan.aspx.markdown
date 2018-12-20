@@ -1,7 +1,6 @@
 ---
 title: Heading to Japan
 date: 2005-07-25 -0800
-disqus_identifier: 9026
 tags: [personal,japan,tokyo]
 redirect_from: "/archive/2005/07/24/heading-to-japan.aspx/"
 ---

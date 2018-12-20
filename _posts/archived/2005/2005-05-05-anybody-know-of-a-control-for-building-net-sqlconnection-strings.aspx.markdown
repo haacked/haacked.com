@@ -1,7 +1,6 @@
 ---
 title: Anybody Know of a Control for Building .NET SqlConnection Strings?
 date: 2005-05-05 -0800
-disqus_identifier: 3010
 tags: [code]
 redirect_from: "/archive/2005/05/04/anybody-know-of-a-control-for-building-net-sqlconnection-strings.aspx/"
 ---

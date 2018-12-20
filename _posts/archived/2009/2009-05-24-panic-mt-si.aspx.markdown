@@ -1,7 +1,6 @@
 ---
 title: A Fright on Mt Si
 date: 2009-05-24 -0800
-disqus_identifier: 18619
 tags:
 - personal
 redirect_from: "/archive/2009/05/23/panic-mt-si.aspx/"

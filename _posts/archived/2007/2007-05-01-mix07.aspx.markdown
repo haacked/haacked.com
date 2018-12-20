@@ -1,7 +1,6 @@
 ---
 title: Mix07 And The Italian Jersey
 date: 2007-05-01 -0800
-disqus_identifier: 18300
 tags: []
 redirect_from: "/archive/2007/04/30/mix07.aspx/"
 ---

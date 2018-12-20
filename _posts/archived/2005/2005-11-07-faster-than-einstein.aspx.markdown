@@ -1,7 +1,6 @@
 ---
 title: Faster than Einstein
 date: 2005-11-07 -0800
-disqus_identifier: 11154
 tags: []
 redirect_from: "/archive/2005/11/06/faster-than-einstein.aspx/"
 ---

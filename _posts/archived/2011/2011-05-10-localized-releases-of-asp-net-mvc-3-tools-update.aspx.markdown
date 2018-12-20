@@ -1,7 +1,6 @@
 ---
 title: Localized Releases of ASP.NET MVC 3 Tools Update
 date: 2011-05-10 -0800
-disqus_identifier: 18786
 tags:
 - aspnetmvc
 - aspnet

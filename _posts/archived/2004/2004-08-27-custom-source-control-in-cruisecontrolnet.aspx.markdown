@@ -1,7 +1,6 @@
 ---
 title: Custom Source Control In CruiseControl.NET?
 date: 2004-08-27 -0800
-disqus_identifier: 984
 tags: []
 redirect_from: "/archive/2004/08/26/custom-source-control-in-cruisecontrolnet.aspx/"
 ---

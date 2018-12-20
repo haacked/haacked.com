@@ -1,7 +1,6 @@
 ---
 title: 'VIDEO: Funniest DUI ever.'
 date: 2004-10-21 -0800
-disqus_identifier: 1442
 tags: []
 redirect_from: "/archive/2004/10/20/video-funniest-dui-ever.aspx/"
 ---

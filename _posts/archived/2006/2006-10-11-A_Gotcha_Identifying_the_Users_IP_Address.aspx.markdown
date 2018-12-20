@@ -1,14 +1,13 @@
 ---
 title: A Gotcha Identifying the User's IP Address
 date: 2006-10-11 -0800
-disqus_identifier: 18027
 tags: []
 redirect_from: "/archive/2006/10/10/A_Gotcha_Identifying_the_Users_IP_Address.aspx/"
 ---
 
 Recently I wrote a .NET based [Akismet API
 component](https://haacked.com/archive/2006/09/26/Subtext_Akismet_API.aspx "Subtext Akismet API")
-for [Subtext](http://subtextproject.com/ "Subtext Project Website").  In
+for Subtext.  In
 attempting to make as clean as interface as possible, I made the the
 type of the property to store the commenter’s IP address of type
 `IPAddress`.

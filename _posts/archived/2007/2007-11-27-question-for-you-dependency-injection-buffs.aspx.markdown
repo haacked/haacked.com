@@ -1,7 +1,6 @@
 ---
 title: Question For You Dependency Injection Buffs
 date: 2007-11-27 -0800
-disqus_identifier: 18425
 tags:
 - code
 - tdd

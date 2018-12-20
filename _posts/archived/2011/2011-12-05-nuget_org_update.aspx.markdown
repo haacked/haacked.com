@@ -1,7 +1,6 @@
 ---
 title: New NuGet.org Deployed!
 date: 2011-12-05 -0800
-disqus_identifier: 18830
 tags:
 - nuget
 - code

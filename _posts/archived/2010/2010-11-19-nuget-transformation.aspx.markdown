@@ -1,7 +1,6 @@
 ---
 title: NuGet Package Transformations
 date: 2010-11-19 -0800
-disqus_identifier: 18737
 tags:
 - code
 - nuget

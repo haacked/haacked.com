@@ -1,7 +1,6 @@
 ---
 title: Ready To Fire My QA Department
 date: 2006-03-14 -0800
-disqus_identifier: 12087
 tags: []
 redirect_from: "/archive/2006/03/13/ReadyToFireMyQADepartment.aspx/"
 ---

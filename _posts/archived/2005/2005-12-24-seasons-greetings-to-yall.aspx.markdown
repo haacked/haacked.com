@@ -1,7 +1,6 @@
 ---
 title: Seasons Greetings To Y'all
 date: 2005-12-24 -0800
-disqus_identifier: 11367
 tags: []
 redirect_from: "/archive/2005/12/23/seasons-greetings-to-yall.aspx/"
 ---

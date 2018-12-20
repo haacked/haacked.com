@@ -1,7 +1,6 @@
 ---
 title: Congratulations Adam!
 date: 2004-06-23 -0800
-disqus_identifier: 672
 tags: []
 redirect_from: "/archive/2004/06/22/congratulations-adam.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: Putting My Resume Online
 date: 2005-04-05 -0800
-disqus_identifier: 2573
 tags:
 - personal
 - code

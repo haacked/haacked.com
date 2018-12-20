@@ -1,7 +1,6 @@
 ---
 title: What Is Microsoft's Project Q?
 date: 2006-03-18 -0800
-disqus_identifier: 12102
 tags: []
 redirect_from: "/archive/2006/03/17/WhatIsMicrosoftsProjectQ.aspx/"
 ---

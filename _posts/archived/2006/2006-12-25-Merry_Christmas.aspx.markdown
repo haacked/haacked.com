@@ -1,7 +1,6 @@
 ---
 title: Merry Christmas!
 date: 2006-12-25 -0800
-disqus_identifier: 18180
 tags: []
 redirect_from: "/archive/2006/12/24/Merry_Christmas.aspx/"
 ---

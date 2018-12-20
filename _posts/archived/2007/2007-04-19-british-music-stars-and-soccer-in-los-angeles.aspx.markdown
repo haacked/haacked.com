@@ -1,7 +1,6 @@
 ---
 title: British Music Stars and Soccer In Los Angeles
 date: 2007-04-19 -0800
-disqus_identifier: 18289
 tags: []
 redirect_from: "/archive/2007/04/18/british-music-stars-and-soccer-in-los-angeles.aspx/"
 ---

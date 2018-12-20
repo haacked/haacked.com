@@ -1,7 +1,6 @@
 ---
 title: Geolocation Recommendations?
 date: 2005-06-22 -0800
-disqus_identifier: 7138
 tags: []
 redirect_from: "/archive/2005/06/21/geolocation-recommendations.aspx/"
 ---

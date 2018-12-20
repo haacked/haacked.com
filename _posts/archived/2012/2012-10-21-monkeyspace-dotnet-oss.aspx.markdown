@@ -1,7 +1,6 @@
 ---
 title: MonkeySpace shines a light on the future of .NET OSS
 date: 2012-10-21 -0800
-disqus_identifier: 18872
 tags:
 - oss
 - code

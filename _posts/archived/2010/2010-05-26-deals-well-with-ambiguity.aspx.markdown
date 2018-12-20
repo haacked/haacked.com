@@ -1,7 +1,6 @@
 ---
 title: Deals Well With Ambiguity
 date: 2010-05-26 -0800
-disqus_identifier: 18703
 tags:
 - code
 redirect_from: "/archive/2010/05/25/deals-well-with-ambiguity.aspx/"

@@ -1,7 +1,6 @@
 ---
 title: Get Your Pimp Name Playah!
 date: 2005-02-20 -0800
-disqus_identifier: 2165
 tags: []
 redirect_from: "/archive/2005/02/19/GetYourPimpName.aspx/"
 ---

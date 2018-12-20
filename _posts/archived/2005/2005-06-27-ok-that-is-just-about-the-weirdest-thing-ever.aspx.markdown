@@ -1,7 +1,6 @@
 ---
 title: Ok, That Is Just About The Weirdest Thing Ever
 date: 2005-06-27 -0800
-disqus_identifier: 7308
 tags: []
 redirect_from: "/archive/2005/06/26/ok-that-is-just-about-the-weirdest-thing-ever.aspx/"
 ---

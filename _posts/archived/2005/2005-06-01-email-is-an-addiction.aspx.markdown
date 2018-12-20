@@ -1,7 +1,6 @@
 ---
 title: Email Is An Addiction?
 date: 2005-06-01 -0800
-disqus_identifier: 3966
 tags: []
 redirect_from: "/archive/2005/05/31/email-is-an-addiction.aspx/"
 ---

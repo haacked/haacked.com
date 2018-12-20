@@ -1,7 +1,6 @@
 ---
 title: Staples In My Head
 date: 2006-01-08 -0800
-disqus_identifier: 11445
 tags:
 - personal
 redirect_from: "/archive/2006/01/07/staples-in-my-head.aspx/"

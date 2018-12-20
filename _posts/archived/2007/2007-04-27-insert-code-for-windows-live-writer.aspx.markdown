@@ -1,7 +1,6 @@
 ---
 title: Insert Code for Windows Live Writer
 date: 2007-04-27 -0800
-disqus_identifier: 18295
 tags:
 - code
 - tech

@@ -1,7 +1,6 @@
 ---
 title: Viewing the Raw Xml for RSS Bandit Newspaper Views Using an Identity Transformation
 date: 2004-12-28 -0800
-disqus_identifier: 1777
 tags: []
 redirect_from: "/archive/2004/12/27/viewing-the-raw-xml-for-rss-bandit-newspaper-views-using-an-identity-transformation.aspx/"
 ---

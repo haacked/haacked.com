@@ -1,7 +1,6 @@
 ---
 title: 'Joke Of the day: Restroom Etiquette'
 date: 2004-09-01 -0800
-disqus_identifier: 1086
 tags: []
 redirect_from: "/archive/2004/08/31/joke-of-the-day-restroom-etiquette.aspx/"
 ---

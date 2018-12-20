@@ -1,7 +1,6 @@
 ---
 title: Putting the Con (COM1, LPT1, NUL, etc.) Back in your URLs
 date: 2010-04-29 -0800
-disqus_identifier: 18697
 tags:
 - aspnet
 - aspnetmvc

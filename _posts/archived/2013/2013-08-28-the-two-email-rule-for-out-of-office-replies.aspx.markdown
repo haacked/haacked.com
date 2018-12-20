@@ -1,7 +1,6 @@
 ---
 title: The Two Email Rule For Out of Office Replies
 date: 2013-08-28 -0800
-disqus_identifier: 18898
 tags:
 - humor
 - personal

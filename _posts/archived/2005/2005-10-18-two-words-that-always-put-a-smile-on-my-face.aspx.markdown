@@ -1,7 +1,6 @@
 ---
 title: Two Words That Always Put a Smile On My Face...
 date: 2005-10-18 -0800
-disqus_identifier: 10868
 tags: []
 redirect_from: "/archive/2005/10/17/two-words-that-always-put-a-smile-on-my-face.aspx/"
 ---

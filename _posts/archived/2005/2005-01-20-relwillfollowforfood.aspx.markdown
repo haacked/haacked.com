@@ -1,7 +1,6 @@
 ---
 title: rel=&quot;willfollowforfood&quot;
 date: 2005-01-20 -0800
-disqus_identifier: 1968
 tags: []
 redirect_from: "/archive/2005/01/19/relwillfollowforfood.aspx/"
 ---

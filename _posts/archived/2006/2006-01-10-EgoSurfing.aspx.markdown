@@ -1,7 +1,6 @@
 ---
 title: Ego Surfing
 date: 2006-01-10 -0800
-disqus_identifier: 11468
 tags: [blogging]
 redirect_from: "/archive/2006/01/09/EgoSurfing.aspx/"
 ---

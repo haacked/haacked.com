@@ -1,7 +1,6 @@
 ---
 title: Writing For A Book Exposes My Ignorance
 date: 2006-04-03 -0800
-disqus_identifier: 12253
 tags: []
 redirect_from: "/archive/2006/04/02/WritingForABookExposesMyIgnorance.aspx/"
 ---

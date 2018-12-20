@@ -1,7 +1,6 @@
 ---
 title: A Caveat with NuGet Source Code Packages
 date: 2013-02-10 -0800
-disqus_identifier: 18884
 tags:
 - git
 - github

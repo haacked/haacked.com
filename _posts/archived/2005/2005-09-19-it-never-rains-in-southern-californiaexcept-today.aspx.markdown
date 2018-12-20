@@ -1,7 +1,6 @@
 ---
 title: It Never Rains in Southern California...Except Today
 date: 2005-09-19 -0800
-disqus_identifier: 10249
 tags: []
 redirect_from: "/archive/2005/09/18/it-never-rains-in-southern-californiaexcept-today.aspx/"
 ---

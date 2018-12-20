@@ -1,7 +1,6 @@
 ---
 title: DotNetKicks IBlogExtension Plugin For RSS Bandit (And Others)
 date: 2006-06-05 -0800
-disqus_identifier: 13153
 tags:
 - oss
 - blogging

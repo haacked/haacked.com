@@ -1,7 +1,6 @@
 ---
 title: Joke of the day
 date: 2004-05-08 -0800
-disqus_identifier: 420
 tags: []
 redirect_from: "/archive/2004/05/07/joke-of-the-day.aspx/"
 ---

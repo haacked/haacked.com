@@ -1,7 +1,6 @@
 ---
 title: Bush Wins Al Qaeda Endorsement
 date: 2004-09-21 -0800
-disqus_identifier: 1245
 tags: []
 redirect_from: "/archive/2004/09/20/bush-wins-al-qaeda-endorsement.aspx/"
 ---

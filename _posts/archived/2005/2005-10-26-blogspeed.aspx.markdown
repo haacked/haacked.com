@@ -1,7 +1,6 @@
 ---
 title: Blogspeed
 date: 2005-10-26 -0800
-disqus_identifier: 11030
 tags: []
 redirect_from: "/archive/2005/10/25/blogspeed.aspx/"
 ---

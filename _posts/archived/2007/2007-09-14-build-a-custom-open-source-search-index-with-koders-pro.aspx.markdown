@@ -1,7 +1,6 @@
 ---
 title: Build a Custom Open Source Search Index
 date: 2007-09-14 -0800
-disqus_identifier: 18391
 tags: [oss]
 redirect_from: "/archive/2007/09/13/build-a-custom-open-source-search-index-with-koders-pro.aspx/"
 ---

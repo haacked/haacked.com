@@ -1,7 +1,6 @@
 ---
 title: Syntax Highlighting.  Converting C# (et al) to HTML.
 date: 2004-06-16 -0800
-disqus_identifier: 636
 tags: []
 redirect_from: "/archive/2004/06/15/code-to-html-syntax-highlighting.aspx/"
 ---

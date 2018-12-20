@@ -1,7 +1,6 @@
 ---
 title: "[Mix06] Very Late Roundup"
 date: 2006-03-25 -0800
-disqus_identifier: 12195
 tags: []
 redirect_from: "/archive/2006/03/24/Mix06VeryLateRoundup.aspx/"
 ---

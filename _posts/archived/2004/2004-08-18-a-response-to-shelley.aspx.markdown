@@ -1,29 +1,26 @@
 ---
 title: A Response To Shelley
 date: 2004-08-18 -0800
-disqus_identifier: 938
-tags: []
+tags: [diversity]
 redirect_from: "/archive/2004/08/17/a-response-to-shelley.aspx/"
 ---
 
-Regarding my [post on Women in
-XML](https://haacked.com/archive/2004/08/18/935.aspx) which is really a
-post about women in software industry,
-[Shelley](http://weblog.burningbird.net/) writes:
+Regarding my [post on Women in XML](https://haacked.com/archive/2004/08/18/935.aspx) which is really a
+post about women in software industry, [Shelley](http://weblog.burningbird.net/) writes:
 
 > I don't know where you work, but every place I've worked in over 20
-> years has had women. \
-> \
+> years has had women.
+> 
 > Might try looking at the atmosphere of your company and why more women
-> don't feel comfortable applying there. \
-> \
+> don't feel comfortable applying there.
+> 
 > In 1996, there were 378,000 science and engineering degrees awarded.
-> Of these, 175,931 were given to women, 202,217 to men. \
-> \
+> Of these, 175,931 were given to women, 202,217 to men.
+> 
 > Many of the sciences were almost equal in participation based on sex
 > -- including math. In computer science, though, there were 7,063 women
-> to 17,706 men -- a greater disparity than most fields. \
-> \
+> to 17,706 men -- a greater disparity than most fields.
+> 
 > But even at that, women made up almost a third of the graduating
 > program. These probably would have been the women you all might have
 > been interviewing. Now, why do you think your company only got one

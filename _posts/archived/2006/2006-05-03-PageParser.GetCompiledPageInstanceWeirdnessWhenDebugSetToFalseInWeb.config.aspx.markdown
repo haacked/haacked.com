@@ -1,7 +1,6 @@
 ---
 title: PageParser.GetCompiledPageInstance Weirdness When Debug Set To False In Web.config
 date: 2006-05-03 -0800
-disqus_identifier: 12642
 tags: []
 redirect_from: "/archive/2006/05/02/PageParser.GetCompiledPageInstanceWeirdnessWhenDebugSetToFalseInWeb.config.aspx/"
 ---
@@ -15,7 +14,7 @@ depending on whether or not you have the `<compilation>` tag’s `debug`
 attribute set to `true` or `false`.
 
 The problem first came up when deploying the most recent builds of
-[Subtext](http://subtextproject.com/ "Subtext Project Website") with
+Subtext with
 this attribute set to `false`. This was the natural response to Scott
 Guthrie’s admonishment, [Don’t Run Production ASP.NET Applications with
 debug="true"

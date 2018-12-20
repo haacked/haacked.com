@@ -1,7 +1,6 @@
 ---
 title: MapPoint Uploads with Zip and Chunking
 date: 2005-12-17 -0800
-disqus_identifier: 11354
 tags: []
 redirect_from: "/archive/2005/12/16/mappoint-uploads-with-zip-and-chunking.aspx/"
 ---

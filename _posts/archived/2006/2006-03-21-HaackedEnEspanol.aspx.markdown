@@ -1,7 +1,6 @@
 ---
 title: Haacked En Espanol
 date: 2006-03-21 -0800
-disqus_identifier: 12122
 tags: []
 redirect_from: "/archive/2006/03/20/HaackedEnEspanol.aspx/"
 ---

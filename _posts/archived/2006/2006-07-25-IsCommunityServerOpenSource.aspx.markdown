@@ -1,7 +1,6 @@
 ---
 title: Is Community Server Open Source?
 date: 2006-07-25 -0800
-disqus_identifier: 14192
 tags:
 - code
 - blogging

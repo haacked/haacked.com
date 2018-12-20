@@ -1,7 +1,6 @@
 ---
 title: Google Web Accelerator Can Mess With Your Web App
 date: 2005-05-05 -0800
-disqus_identifier: 3043
 tags: []
 redirect_from: "/archive/2005/05/04/google-web-accelerator-can-mess-with-your-web-app.aspx/"
 ---

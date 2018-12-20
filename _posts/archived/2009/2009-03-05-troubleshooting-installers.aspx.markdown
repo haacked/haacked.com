@@ -1,7 +1,6 @@
 ---
 title: Troubleshooting Windows MSI Installers
 date: 2009-03-05 -0800
-disqus_identifier: 18594
 tags:
 - aspnetmvc
 - aspnet

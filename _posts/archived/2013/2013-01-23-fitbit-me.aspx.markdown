@@ -1,7 +1,6 @@
 ---
 title: Fitbit Me
 date: 2013-01-23 -0800
-disqus_identifier: 18882
 tags:
 - personal
 redirect_from: "/archive/2013/01/22/fitbit-me.aspx/"

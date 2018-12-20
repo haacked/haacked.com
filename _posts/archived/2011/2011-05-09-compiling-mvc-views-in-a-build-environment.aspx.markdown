@@ -1,7 +1,6 @@
 ---
 title: Compiling MVC Views In A Build Environment
 date: 2011-05-09 -0800
-disqus_identifier: 18785
 tags:
 - aspnet
 - aspnetmvc

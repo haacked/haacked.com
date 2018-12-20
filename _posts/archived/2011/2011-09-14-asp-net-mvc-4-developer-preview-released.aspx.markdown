@@ -1,7 +1,6 @@
 ---
 title: ASP.NET MVC 4 Developer Preview Released
 date: 2011-09-14 -0800
-disqus_identifier: 18814
 tags:
 - aspnet
 - aspnetmvc

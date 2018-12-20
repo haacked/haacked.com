@@ -1,14 +1,13 @@
 ---
 title: Reflections On The Release
 date: 2006-03-02 -0800
-disqus_identifier: 11943
 tags: []
 redirect_from: "/archive/2006/03/01/ReflectionsOnTheRelease.aspx/"
 ---
 
 I have never worked as part of a shrink wrapped product team, which
 makes working on
-[Subtext](http://subtextproject.com/ "Subtext Project Website") the
+Subtext the
 closest thing to the experience. When a product team releases a product,
 they often stamp it with the acronym RTM, Release to Manafacturing,
 which is more and more becoming a misnomer as the only manafacturing

@@ -1,7 +1,6 @@
 ---
 title: The Misuse of the Space Shuttle Analogy
 date: 2006-10-20 -0800
-disqus_identifier: 18097
 tags:
 - code
 - tech

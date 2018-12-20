@@ -1,7 +1,6 @@
 ---
 title: I Have Contracted A Fever
 date: 2006-06-13 -0800
-disqus_identifier: 13288
 tags:
 - personal
 redirect_from: "/archive/2006/06/12/IHaveContractedAFever.aspx/"

@@ -1,13 +1,12 @@
 ---
 title: Make Sure Your Cache Takes Into Localization
 date: 2006-02-07 -0800
-disqus_identifier: 11741
 tags: []
 redirect_from: "/archive/2006/02/06/MakeSureYourCacheTakesIntoLocalization.aspx/"
 ---
 
 Recently I added some seemingly innocent code to
-[Subtext](http://subtextproject.com/ "Subtext Project Website") within
+Subtext within
 the `Application_BeginRequest` method of Global.asax.cs that I adapted
 from this [blog post by Darren
 Neimke](http://markitup.com/Posts/Post.aspx?postId=52252561-f83d-4463-82f0-769fce82fd82 "Displaying dates and times in a local users time zone").

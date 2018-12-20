@@ -1,7 +1,6 @@
 ---
 title: Four Years At Microsoft
 date: 2011-10-15 -0800
-disqus_identifier: 18818
 tags:
 - personal
 - code

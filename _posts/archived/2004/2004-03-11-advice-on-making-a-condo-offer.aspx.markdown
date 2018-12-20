@@ -1,7 +1,6 @@
 ---
 title: Advice on making a condo offer
 date: 2004-03-11 -0800
-disqus_identifier: 247
 tags: []
 redirect_from: "/archive/2004/03/10/advice-on-making-a-condo-offer.aspx/"
 ---

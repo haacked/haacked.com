@@ -1,7 +1,6 @@
 ---
 title: Recognition Compensation
 date: 2012-01-05 -0800
-disqus_identifier: 18840
 tags:
 - oss
 - community

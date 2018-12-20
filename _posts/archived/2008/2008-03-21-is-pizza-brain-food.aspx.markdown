@@ -1,7 +1,6 @@
 ---
 title: Is Pizza Brain Food?
 date: 2008-03-21 -0800
-disqus_identifier: 18465
 tags: [humor,math]
 redirect_from: "/archive/2008/03/20/is-pizza-brain-food.aspx/"
 ---

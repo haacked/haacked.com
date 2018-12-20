@@ -1,7 +1,6 @@
 ---
 title: Complaint Letters for Personalized Plates
 date: 2004-09-05 -0800
-disqus_identifier: 1143
 tags: []
 redirect_from: "/archive/2004/09/04/complaint-letters-for-personalized-plates.aspx/"
 ---

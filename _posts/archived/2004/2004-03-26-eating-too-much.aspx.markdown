@@ -1,7 +1,6 @@
 ---
 title: Eating too much
 date: 2004-03-26 -0800
-disqus_identifier: 273
 tags: []
 redirect_from: "/archive/2004/03/25/eating-too-much.aspx/"
 ---

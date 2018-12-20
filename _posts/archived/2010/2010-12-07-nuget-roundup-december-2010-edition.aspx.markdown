@@ -1,7 +1,6 @@
 ---
 title: NuGet Roundup December 2010 Edition
 date: 2010-12-07 -0800
-disqus_identifier: 18745
 tags:
 - nuget
 - code

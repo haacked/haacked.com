@@ -1,7 +1,6 @@
 ---
 title: 'Partisan Bush Joke: Intelligence Riddle'
 date: 2004-10-23 -0800
-disqus_identifier: 1455
 tags: []
 redirect_from: "/archive/2004/10/22/partisan-bush-joke-intelligence-riddle.aspx/"
 ---

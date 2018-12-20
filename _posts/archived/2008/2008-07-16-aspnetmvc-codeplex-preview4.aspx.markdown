@@ -1,7 +1,6 @@
 ---
 title: Notes on ASP.NET MVC CodePlex Preview 4
 date: 2008-07-16 -0800
-disqus_identifier: 18504
 tags: [aspnetmvc]
 redirect_from: "/archive/2008/07/15/aspnetmvc-codeplex-preview4.aspx/"
 ---

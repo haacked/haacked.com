@@ -1,7 +1,6 @@
 ---
 title: License your code
 date: 2013-07-17 -0800
-disqus_identifier: 18896
 tags:
 - oss
 redirect_from: "/archive/2013/07/16/license-your-code.aspx/"

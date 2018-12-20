@@ -1,7 +1,6 @@
 ---
 title: Commercial ASP.NET Controls
 date: 2004-02-27 -0800
-disqus_identifier: 213
 tags: []
 redirect_from: "/archive/2004/02/26/commercial-asp-net-controls.aspx/"
 ---

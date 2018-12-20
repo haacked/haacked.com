@@ -1,7 +1,6 @@
 ---
 title: They're Hiring
 date: 2005-03-30 -0800
-disqus_identifier: 2506
 tags: []
 redirect_from: "/archive/2005/03/29/theyre-hiring.aspx/"
 ---

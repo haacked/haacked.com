@@ -1,7 +1,6 @@
 ---
 title: How I Got Started In Software Development
 date: 2008-07-25 -0800
-disqus_identifier: 18507
 tags: [personal,career]
 redirect_from: "/archive/2008/07/24/how-i-got-started-in-software-development.aspx/"
 ---

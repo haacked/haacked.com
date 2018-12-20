@@ -1,7 +1,6 @@
 ---
 title: U2 to Release 'Atomic Bomb' New Album in November (Reuters)
 date: 2004-09-14 -0800
-disqus_identifier: 1205
 tags: []
 redirect_from: "/archive/2004/09/13/u2-to-release-atomic-bomb-new-album-in-november-reuters.aspx/"
 ---

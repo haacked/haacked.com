@@ -1,7 +1,6 @@
 ---
 title: Conditional Filters in ASP.NET MVC 3
 date: 2011-04-25 -0800
-disqus_identifier: 18780
 tags:
 - aspnet
 - aspnetmvc

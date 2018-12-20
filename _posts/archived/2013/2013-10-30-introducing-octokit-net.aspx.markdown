@@ -1,7 +1,6 @@
 ---
 title: Introducing Octokit.NET
 date: 2013-10-30 -0800
-disqus_identifier: 18903
 tags:
 - github
 redirect_from: "/archive/2013/10/29/introducing-octokit-net.aspx/"

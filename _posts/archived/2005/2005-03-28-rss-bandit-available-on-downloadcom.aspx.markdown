@@ -1,7 +1,6 @@
 ---
 title: RSS Bandit Available on Download.com
 date: 2005-03-28 -0800
-disqus_identifier: 2484
 tags: []
 redirect_from: "/archive/2005/03/27/rss-bandit-available-on-downloadcom.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: Getting Pummelled
 date: 2006-02-26 -0800
-disqus_identifier: 11893
 tags: []
 redirect_from: "/archive/2006/02/25/GettingPummelled.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: Html.RenderAction and Html.Action
 date: 2009-11-18 -0800
-disqus_identifier: 18660
 tags: [aspnetmvc]
 redirect_from: "/archive/2009/11/17/aspnetmvc2-render-action.aspx/"
 ---

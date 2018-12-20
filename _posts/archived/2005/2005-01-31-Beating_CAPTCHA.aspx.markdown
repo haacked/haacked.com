@@ -1,7 +1,6 @@
 ---
 title: Beating CAPTCHA With A Neural Network
 date: 2005-01-31 -0800
-disqus_identifier: 2060
 tags: []
 redirect_from: "/archive/2005/01/30/Beating_CAPTCHA.aspx/"
 ---

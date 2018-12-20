@@ -1,7 +1,6 @@
 ---
 title: DotNetKicks Going Open Source
 date: 2007-03-20 -0800
-disqus_identifier: 18255
 tags: []
 redirect_from: "/archive/2007/03/19/dotnetkicks-going-open-source.aspx/"
 ---
@@ -26,6 +25,6 @@ profile and DotNetKicks will show your AdSense ID 50% of the time).
 I think this is a great idea and wish him much luck. I also look forward
 to being able to contribute a little bit here and there (donating
 heavily with code from
-[Subtext](http://subtextproject.com/ "Subtext Project Website") of
+Subtext of
 course).
 

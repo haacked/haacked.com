@@ -1,7 +1,6 @@
 ---
 title: Comparing Strings in Unit Tests
 date: 2012-01-14 -0800
-disqus_identifier: 18842
 tags:
 - tdd
 - code

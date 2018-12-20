@@ -1,7 +1,6 @@
 ---
 title: Building A Strong Open Source Community Requires Empathy
 date: 2007-03-26 -0800
-disqus_identifier: 18263
 tags:
 - oss
 - empathy

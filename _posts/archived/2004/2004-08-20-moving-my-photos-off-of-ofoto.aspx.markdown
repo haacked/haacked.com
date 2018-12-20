@@ -1,7 +1,6 @@
 ---
 title: Moving My Photos Off Of Ofoto
 date: 2004-08-20 -0800
-disqus_identifier: 956
 tags: []
 redirect_from: "/archive/2004/08/19/moving-my-photos-off-of-ofoto.aspx/"
 ---

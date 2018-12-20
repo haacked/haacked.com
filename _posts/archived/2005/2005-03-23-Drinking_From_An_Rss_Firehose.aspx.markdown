@@ -1,7 +1,6 @@
 ---
 title: Drinking From an RSS Fire Hose
 date: 2005-03-23 -0800
-disqus_identifier: 2450
 tags: []
 redirect_from: "/archive/2005/03/22/Drinking_From_An_Rss_Firehose.aspx/"
 ---

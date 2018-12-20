@@ -1,7 +1,6 @@
 ---
 title: Kick It To Earn Payola
 date: 2006-06-02 -0800
-disqus_identifier: 13102
 tags:
 - blogging
 redirect_from: "/archive/2006/06/01/KickItToEarnPayola.aspx/"

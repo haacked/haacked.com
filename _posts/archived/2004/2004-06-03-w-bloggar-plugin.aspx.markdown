@@ -1,7 +1,6 @@
 ---
 title: w.Bloggar Plugin
 date: 2004-06-03 -0800
-disqus_identifier: 516
 tags: []
 redirect_from: "/archive/2004/06/02/w-bloggar-plugin.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: And The Winner Is, NuGet
 date: 2010-10-29 -0800
-disqus_identifier: 18732
 tags:
 - code
 - oss

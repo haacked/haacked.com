@@ -1,7 +1,6 @@
 ---
 title: Coder&#8217;s Block
 date: 2005-06-02 -0800
-disqus_identifier: 3990
 tags: []
 redirect_from: "/archive/2005/06/01/coders-block.aspx/"
 ---

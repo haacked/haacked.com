@@ -1,7 +1,6 @@
 ---
 title: Travels
 date: 2006-09-04 -0800
-disqus_identifier: 16308
 tags: []
 redirect_from: "/archive/2006/09/03/Travels.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: A Stable Application Entry Point - Rethinking &quot;Main()&quot;.
 date: 2005-03-29 -0800
-disqus_identifier: 2495
 tags: []
 redirect_from: "/archive/2005/03/28/a-stable-application-entry-point--rethinking-main.aspx/"
 ---

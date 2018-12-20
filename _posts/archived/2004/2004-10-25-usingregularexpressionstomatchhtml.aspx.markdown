@@ -1,7 +1,6 @@
 ---
 title: Using a Regular Expression to Match HTML
 date: 2004-10-25 -0800
-disqus_identifier: 1471
 tags:
 - code
 - regex

@@ -1,7 +1,6 @@
 ---
 title: Doubling Down At Mix 07
 date: 2007-03-27 -0800
-disqus_identifier: 18265
 tags: []
 redirect_from: "/archive/2007/03/26/doubling-down-at-mix-07.aspx/"
 ---
@@ -49,7 +48,7 @@ attendance. If *you* are planning to be there, let me know in the
 comments!
 
 **If you’re a
-[Subtext](http://subtextproject.com/ "Subtext Project Website") user**,
+Subtext user**,
 feel free to swing by and tell me how much Subtext is a [*godawful mess
 run by a retarded monkey and is possibly responsible for your pet’s
 death*|*wonderful piece of sublime software that enriches your life in a

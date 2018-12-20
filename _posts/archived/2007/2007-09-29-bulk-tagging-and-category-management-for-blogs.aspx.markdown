@@ -1,7 +1,6 @@
 ---
 title: Bulk Tagging and Category Management For Blogs
 date: 2007-09-29 -0800
-disqus_identifier: 18401
 tags: [blogging]
 redirect_from: "/archive/2007/09/28/bulk-tagging-and-category-management-for-blogs.aspx/"
 ---

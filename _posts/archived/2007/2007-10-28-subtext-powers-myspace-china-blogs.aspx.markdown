@@ -1,7 +1,6 @@
 ---
 title: MySpace China Blogs Powered By Subtext
 date: 2007-10-28 -0800
-disqus_identifier: 18412
 tags: [subtext,blogging]
 redirect_from: "/archive/2007/10/27/subtext-powers-myspace-china-blogs.aspx/"
 ---
@@ -10,7 +9,7 @@ redirect_from: "/archive/2007/10/27/subtext-powers-myspace-china-blogs.aspx/"
 Logo](https://haacked.com/images/haacked_com/WindowsLiveWriter/NihaoMySpaceChinaHowisSubtextWorkingOutF_6BA/logo_3.png)An
 undisclosed source informed me that [MySpace
 China](http://myspace.cn/ "MySpace China") is using a modified version
-of [Subtext](http://subtextproject.com/ "Subtext Project Website") for
+of Subtext for
 its blogging engine.
 
 I had to check it out for myself to confirm it and it is true! Check out

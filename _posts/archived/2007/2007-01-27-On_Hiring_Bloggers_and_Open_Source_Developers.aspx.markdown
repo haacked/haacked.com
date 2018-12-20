@@ -1,7 +1,6 @@
 ---
 title: On Hiring Bloggers and Open Source Developers
 date: 2007-01-27 -0800
-disqus_identifier: 18202
 tags:
 - blogging
 redirect_from: "/archive/2007/01/26/On_Hiring_Bloggers_and_Open_Source_Developers.aspx/"

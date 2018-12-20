@@ -1,7 +1,6 @@
 ---
 title: New Line Quirk with HTML TextArea
 date: 2008-11-18 -0800
-disqus_identifier: 18556
 tags:
 - aspnetmvc
 redirect_from: "/archive/2008/11/17/new-line-quirk-with-html-textarea.aspx/"

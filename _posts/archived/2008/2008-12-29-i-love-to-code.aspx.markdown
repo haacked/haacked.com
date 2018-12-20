@@ -1,7 +1,6 @@
 ---
 title: I Love To Code
 date: 2008-12-29 -0800
-disqus_identifier: 18567
 tags:
 - code
 redirect_from: "/archive/2008/12/28/i-love-to-code.aspx/"
@@ -46,7 +45,7 @@ that face is as guilty as sin.
 
 However, along with all that family fun, I spent nearly every minute of
 downtime hacking on
-[Subtext](http://subtextproject.com/ "Subtext Project Website"). I went
+Subtext. I went
 on a huge refactoring binge cleaning up stale code, separating concerns
 left and right, and replacing the old method of matching requests with
 ASP.NET Routing.

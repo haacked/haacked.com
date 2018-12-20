@@ -1,7 +1,6 @@
 ---
 title: Philosophy Blogs
 date: 2004-07-21 -0800
-disqus_identifier: 837
 tags: [blogging,philosophy]
 redirect_from: "/archive/2004/07/20/philosophy-blogs.aspx/"
 ---

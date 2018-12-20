@@ -1,7 +1,6 @@
 ---
 title: Snowboarding weekend
 date: 2004-02-17 -0800
-disqus_identifier: 200
 tags:
 - personal
 redirect_from: "/archive/2004/02/16/snowboarding-weekend-mountain-high.aspx/"

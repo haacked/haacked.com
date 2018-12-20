@@ -1,7 +1,6 @@
 ---
 title: A new drink
 date: 2004-03-29 -0800
-disqus_identifier: 278
 tags: []
 redirect_from: "/archive/2004/03/28/a-new-drink.aspx/"
 ---

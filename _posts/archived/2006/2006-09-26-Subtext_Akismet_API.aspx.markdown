@@ -1,7 +1,6 @@
 ---
 title: Subtext Akismet API
 date: 2006-09-26 -0800
-disqus_identifier: 17231
 tags: []
 redirect_from: "/archive/2006/09/25/Subtext_Akismet_API.aspx/"
 ---

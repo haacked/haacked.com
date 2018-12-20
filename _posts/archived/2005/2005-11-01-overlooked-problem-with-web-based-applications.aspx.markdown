@@ -1,7 +1,6 @@
 ---
 title: Overlooked Problem With Web Based Applications
 date: 2005-11-01 -0800
-disqus_identifier: 11075
 tags: []
 redirect_from: "/archive/2005/10/31/overlooked-problem-with-web-based-applications.aspx/"
 ---

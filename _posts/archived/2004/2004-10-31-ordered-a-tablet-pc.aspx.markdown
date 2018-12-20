@@ -1,7 +1,6 @@
 ---
 title: Ordered a Tablet PC
 date: 2004-10-31 -0800
-disqus_identifier: 1537
 tags: []
 redirect_from: "/archive/2004/10/30/ordered-a-tablet-pc.aspx/"
 ---

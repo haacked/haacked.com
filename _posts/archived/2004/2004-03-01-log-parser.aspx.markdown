@@ -1,7 +1,6 @@
 ---
 title: Log Parser
 date: 2004-03-01 -0800
-disqus_identifier: 218
 tags: []
 redirect_from: "/archive/2004/02/29/log-parser.aspx/"
 ---

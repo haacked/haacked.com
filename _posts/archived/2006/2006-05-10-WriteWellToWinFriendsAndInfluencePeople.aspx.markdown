@@ -1,7 +1,6 @@
 ---
 title: Write Well To Win Friends And Influence People
 date: 2006-05-10 -0800
-disqus_identifier: 12738
 tags: []
 redirect_from: "/archive/2006/05/09/WriteWellToWinFriendsAndInfluencePeople.aspx/"
 ---
@@ -46,7 +45,7 @@ the overall user experience here. I will actually have to start writing
 well and quit using this random copy generator. But these are definitely
 insights I want to take into consideration when I get around to tweaking
 and updating the admin interface to
-[Subtext](http://subtextproject.com/ "Subtext Project Website"). What
+Subtext. What
 are areas in which we can improve the writing? How can we improve the
 user experience? Little touches add up to a lot in creating a great
 experience.

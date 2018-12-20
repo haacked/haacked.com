@@ -1,7 +1,6 @@
 ---
 title: My Latest Addiction Is Line Rider
 date: 2007-08-19 -0800
-disqus_identifier: 18382
 tags: [personal,games]
 redirect_from: "/archive/2007/08/18/my-latest-addiction-is-line-rider.aspx/"
 ---

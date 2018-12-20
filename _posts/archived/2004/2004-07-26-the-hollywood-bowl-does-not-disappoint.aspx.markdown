@@ -1,7 +1,6 @@
 ---
 title: The Hollywood Bowl Does Not Disappoint
 date: 2004-07-26 -0800
-disqus_identifier: 855
 tags: []
 redirect_from: "/archive/2004/07/25/the-hollywood-bowl-does-not-disappoint.aspx/"
 ---

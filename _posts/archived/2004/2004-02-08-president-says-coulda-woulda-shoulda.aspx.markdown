@@ -1,7 +1,6 @@
 ---
 title: President says, &quot;Coulda, Woulda, Shoulda&quot;
 date: 2004-02-08 -0800
-disqus_identifier: 180
 tags: []
 redirect_from: "/archive/2004/02/07/president-says-coulda-woulda-shoulda.aspx/"
 ---

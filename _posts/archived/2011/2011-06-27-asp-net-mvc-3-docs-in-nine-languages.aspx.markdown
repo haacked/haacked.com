@@ -1,7 +1,6 @@
 ---
 title: ASP.NET MVC 3 Docs In Nine Languages
 date: 2011-06-27 -0800
-disqus_identifier: 18798
 tags:
 - aspnet
 - aspnetmvc

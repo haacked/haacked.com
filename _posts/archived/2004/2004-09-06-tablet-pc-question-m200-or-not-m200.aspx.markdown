@@ -1,7 +1,6 @@
 ---
 title: Tablet PC Question?  M200 Or Not M200?
 date: 2004-09-06 -0800
-disqus_identifier: 1151
 tags: []
 redirect_from: "/archive/2004/09/05/tablet-pc-question-m200-or-not-m200.aspx/"
 ---

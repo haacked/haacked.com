@@ -1,7 +1,6 @@
 ---
 title: Building a Self Updating Site Using NuGet
 date: 2011-01-15 -0800
-disqus_identifier: 18757
 tags:
 - aspnetmvc
 - oss

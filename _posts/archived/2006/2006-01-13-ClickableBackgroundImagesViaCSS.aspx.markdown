@@ -1,7 +1,6 @@
 ---
 title: Clickable Background Images Via CSS
 date: 2006-01-13 -0800
-disqus_identifier: 11489
 tags:
 - code
 - css

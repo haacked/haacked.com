@@ -1,7 +1,6 @@
 ---
 title: Better CAPTCHA Through Encryption
 date: 2006-10-02 -0800
-disqus_identifier: 17568
 tags:
 - code
 - blogging

@@ -1,7 +1,6 @@
 ---
 title: So A Model, A View, and a Controller Walk Into a Bar
 date: 2008-01-29 -0800
-disqus_identifier: 18453
 tags: [humor,code,aspnetmvc]
 redirect_from: "/archive/2008/01/28/so-a-model-a-view-and-a-controller-walk-into.aspx/"
 ---

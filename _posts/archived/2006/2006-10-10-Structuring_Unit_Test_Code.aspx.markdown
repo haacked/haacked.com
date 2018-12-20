@@ -1,7 +1,6 @@
 ---
 title: Structuring Unit Test Code
 date: 2006-10-10 -0800
-disqus_identifier: 17988
 tags:
 - code
 - tdd
@@ -29,7 +28,7 @@ up on that as it became a maintenance headache.  Too many files!
 
 One convention I use is to prefix my unit test projects with
 "UnitTest".  Thus the unit tests for
-[Subtext](http://subtextproject.com/ "Subtext Project Website") are in
+Subtext are in
 the project *UnitTests.Subtext.dll*.  The main reason for this, besides
 the obvious fact that it’s a sensible name for a project that contains
 unit tests, is that for most projects, the unit test assembly would show

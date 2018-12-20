@@ -1,7 +1,6 @@
 ---
 title: 'SQL TIP: Selecting Random Selection Of Rows From A Database Table'
 date: 2004-06-21 -0800
-disqus_identifier: 658
 tags:
 - sql
 redirect_from: "/archive/2004/06/20/sql-tip-selecting-random-selection-of-rows-from-a-database-table.aspx/"

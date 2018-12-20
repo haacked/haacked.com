@@ -1,7 +1,6 @@
 ---
 title: COOL!  Google Maps Overlays Satellite Photographs
 date: 2005-04-04 -0800
-disqus_identifier: 2555
 tags: []
 redirect_from: "/archive/2005/04/03/cool-google-maps-overlays-satellite-photographs.aspx/"
 ---

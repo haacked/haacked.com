@@ -1,7 +1,6 @@
 ---
 title: Christmas For .NET Open Source Came Early This Year
 date: 2007-06-27 -0800
-disqus_identifier: 18361
 tags: [oss,dotnet]
 redirect_from: "/archive/2007/06/26/christmas-for-.net-open-source-came-early-this-year.aspx/"
 ---

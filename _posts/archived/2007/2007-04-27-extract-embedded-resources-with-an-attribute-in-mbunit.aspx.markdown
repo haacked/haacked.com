@@ -1,7 +1,6 @@
 ---
 title: Extract Embedded Resources With An Attribute In MbUnit
 date: 2007-04-27 -0800
-disqus_identifier: 18294
 tags: []
 redirect_from: "/archive/2007/04/26/extract-embedded-resources-with-an-attribute-in-mbunit.aspx/"
 ---
@@ -19,7 +18,7 @@ unit tests [self
 contained](https://haacked.com/archive/2004/08/26/creating-a-sane-build-process.aspx "Creating a Sane Build Process").
 
 If you look in our unit tests for
-[Subtext](http://subtextproject.com/ "Subtext Project Website"), I took
+Subtext, I took
 this approach to heart, writing several different methods in our
 `UnitTestHelper` class for extracting embedded resources.
 

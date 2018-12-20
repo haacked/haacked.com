@@ -1,7 +1,6 @@
 ---
 title: 'Get Your GMail Invites Here...  (UPDATE: All out)'
 date: 2004-08-30 -0800
-disqus_identifier: 1034
 tags: []
 redirect_from: "/archive/2004/08/29/get-your-gmail-invites-here-update-all-out.aspx/"
 ---

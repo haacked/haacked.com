@@ -1,7 +1,6 @@
 ---
 title: Visualize Git with SeeGit
 date: 2012-03-15 -0800
-disqus_identifier: 18852
 tags:
 - git
 - github

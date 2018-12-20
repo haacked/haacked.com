@@ -1,7 +1,6 @@
 ---
 title: Premature Optimization Considered Healthy
 date: 2006-09-13 -0800
-disqus_identifier: 16528
 tags: []
 redirect_from: "/archive/2006/09/12/Premature_Optimization_Considered_Healthy.aspx/"
 ---

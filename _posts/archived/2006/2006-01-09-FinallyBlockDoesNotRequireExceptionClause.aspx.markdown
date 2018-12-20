@@ -1,7 +1,6 @@
 ---
 title: 'Exception Handling Mistakes: Finally Block Does Not Require The Catch Block'
 date: 2006-01-09 -0800
-disqus_identifier: 11449
 tags:
 - csharp
 - code

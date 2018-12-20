@@ -1,7 +1,6 @@
 ---
 title: A Spot Of Tea
 date: 2005-01-23 -0800
-disqus_identifier: 1990
 tags: []
 redirect_from: "/archive/2005/01/22/a-spot-of-tea.aspx/"
 ---

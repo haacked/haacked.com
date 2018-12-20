@@ -1,7 +1,6 @@
 ---
 title: ASP.NET MVC Preview of a Preview
 date: 2008-04-17 -0800
-disqus_identifier: 18476
 tags: [aspnetmvc]
 redirect_from: "/archive/2008/04/16/asp.net-mvc-preview-of-a-preview.aspx/"
 ---

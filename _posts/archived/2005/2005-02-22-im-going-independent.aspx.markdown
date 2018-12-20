@@ -1,7 +1,6 @@
 ---
 title: I'm Going Independent!
 date: 2005-02-22 -0800
-disqus_identifier: 2168
 tags: []
 redirect_from: "/archive/2005/02/21/im-going-independent.aspx/"
 ---

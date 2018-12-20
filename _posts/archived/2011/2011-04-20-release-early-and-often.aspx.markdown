@@ -1,7 +1,6 @@
 ---
 title: Release Early, Release Often
 date: 2011-04-20 -0800
-disqus_identifier: 18779
 tags:
 - code
 - oss

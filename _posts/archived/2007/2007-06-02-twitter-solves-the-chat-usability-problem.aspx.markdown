@@ -1,7 +1,6 @@
 ---
 title: Twitter Solves the Chat Usability Problem
 date: 2007-06-02 -0800
-disqus_identifier: 18336
 tags:
 - tech
 redirect_from: "/archive/2007/06/01/twitter-solves-the-chat-usability-problem.aspx/"

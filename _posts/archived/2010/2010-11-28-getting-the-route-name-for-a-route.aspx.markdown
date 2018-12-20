@@ -1,7 +1,6 @@
 ---
 title: Getting The Route Name For A Route
 date: 2010-11-28 -0800
-disqus_identifier: 18742
 tags:
 - aspnet
 - aspnetmvc

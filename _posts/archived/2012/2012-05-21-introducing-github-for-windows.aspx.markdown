@@ -1,7 +1,6 @@
 ---
 title: Introducing GitHub For Windows
 date: 2012-05-21 -0800
-disqus_identifier: 18858
 tags:
 - github
 - git

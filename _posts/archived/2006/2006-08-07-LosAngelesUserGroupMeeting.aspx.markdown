@@ -1,7 +1,6 @@
 ---
 title: Los Angeles User Group Meeting
 date: 2006-08-07 -0800
-disqus_identifier: 14755
 tags: [conferences]
 redirect_from: "/archive/2006/08/06/LosAngelesUserGroupMeeting.aspx/"
 ---

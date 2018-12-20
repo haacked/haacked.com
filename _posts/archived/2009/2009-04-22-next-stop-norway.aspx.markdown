@@ -1,7 +1,6 @@
 ---
 title: Next Stop, Norway!
 date: 2009-04-22 -0800
-disqus_identifier: 18611
 tags: [conferences]
 redirect_from: "/archive/2009/04/21/next-stop-norway.aspx/"
 ---

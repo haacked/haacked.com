@@ -1,7 +1,6 @@
 ---
 title: My Brother Visited Last Week
 date: 2005-04-05 -0800
-disqus_identifier: 2574
 tags: []
 redirect_from: "/archive/2005/04/04/my-brother-visited-last-week.aspx/"
 ---

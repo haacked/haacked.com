@@ -1,7 +1,6 @@
 ---
 title: Datatable as a method parameter
 date: 2004-02-04 -0800
-disqus_identifier: 159
 tags:
 - code
 redirect_from: "/archive/2004/02/03/DataTableAsAMethodParameter.aspx/"

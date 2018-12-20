@@ -1,7 +1,6 @@
 ---
 title: Software Development Is A Religion
 date: 2006-10-09 -0800
-disqus_identifier: 17943
 tags: [agile,software]
 redirect_from: "/archive/2006/10/08/Software_Development_Is_A_Religion.aspx/"
 ---

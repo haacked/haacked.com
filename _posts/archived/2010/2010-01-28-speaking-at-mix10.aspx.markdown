@@ -1,7 +1,6 @@
 ---
 title: Speaking at Mix 10
 date: 2009-01-04 -0800
-disqus_identifier: 18570
 tags: [conferences]
 redirect_from: "/archive/2009/01/03/fun-with-named-formats-string-parsing-and-edge-cases.aspx/"
 ---

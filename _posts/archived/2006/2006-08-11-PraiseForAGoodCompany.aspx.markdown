@@ -1,7 +1,6 @@
 ---
 title: Praise For a Good Company
 date: 2006-08-11 -0800
-disqus_identifier: 14843
 tags: []
 redirect_from: "/archive/2006/08/10/PraiseForAGoodCompany.aspx/"
 ---

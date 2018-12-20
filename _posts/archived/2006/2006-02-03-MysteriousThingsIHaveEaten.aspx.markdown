@@ -1,7 +1,6 @@
 ---
 title: Mysterious Things I Have Eaten
 date: 2006-02-03 -0800
-disqus_identifier: 11657
 tags: []
 redirect_from: "/archive/2006/02/02/MysteriousThingsIHaveEaten.aspx/"
 ---

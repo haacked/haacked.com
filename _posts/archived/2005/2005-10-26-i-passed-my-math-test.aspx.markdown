@@ -1,7 +1,6 @@
 ---
 title: I Passed My Math Test
 date: 2005-10-26 -0800
-disqus_identifier: 11027
 tags: []
 redirect_from: "/archive/2005/10/25/i-passed-my-math-test.aspx/"
 ---

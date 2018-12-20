@@ -1,7 +1,6 @@
 ---
 title: Subtext 2.5 Skin Improvements
 date: 2010-06-06 -0800
-disqus_identifier: 18707
 tags:
 - subtext
 redirect_from: "/archive/2010/06/05/subtext-skin-improvements.aspx/"

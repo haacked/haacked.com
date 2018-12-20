@@ -1,7 +1,6 @@
 ---
 title: Querying the Future With Reactive Extensions
 date: 2010-03-26 -0800
-disqus_identifier: 18692
 tags:
 - code
 redirect_from: "/archive/2010/03/25/enumerating-future.aspx/"

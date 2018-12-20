@@ -1,7 +1,6 @@
 ---
 title: Unit Tests Do Cost More To Write...
 date: 2005-12-06 -0800
-disqus_identifier: 11302
 tags: []
 redirect_from: "/archive/2005/12/05/unit-tests-cost-more-to-write.aspx/"
 ---

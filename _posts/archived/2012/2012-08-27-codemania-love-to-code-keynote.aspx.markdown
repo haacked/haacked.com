@@ -1,12 +1,7 @@
 ---
 title: CodeMania Love To Code Keynote
 date: 2012-08-27 -0800
-disqus_identifier: 18866
-tags:
-- community
-- code
-- company culture
-- github
+tags: [conferences,diversity]
 redirect_from: "/archive/2012/08/26/codemania-love-to-code-keynote.aspx/"
 ---
 
@@ -16,10 +11,7 @@ new conference in New Zealand.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/HYnEhDOKoxA" frameborder="0" allowfullscreen></iframe>
 
-This conference was something special. I
-mean, just look at their beautiful [lucha
-libre](http://en.wikipedia.org/wiki/Lucha_libre "Lucha Libre on Wikipedia")
-inspired site design.
+This conference was something special. I mean, just look at their beautiful [lucha libre](http://en.wikipedia.org/wiki/Lucha_libre "Lucha Libre on Wikipedia") inspired site design.
 
 [![codemania](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeMania-Love-To-Code-Keynote_E9B6/codemania_thumb.png "codemania")](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeMania-Love-To-Code-Keynote_E9B6/codemania_2.png)
 

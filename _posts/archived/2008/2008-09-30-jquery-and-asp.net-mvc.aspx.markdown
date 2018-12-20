@@ -1,7 +1,6 @@
 ---
 title: JQuery and ASP.NET MVC
 date: 2008-09-30 -0800
-disqus_identifier: 18534
 tags:
 - personal
 - aspnet

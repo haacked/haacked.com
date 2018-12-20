@@ -1,7 +1,6 @@
 ---
 title: Rumsfield Sound Bytes Of The Week
 date: 2004-04-10 -0800
-disqus_identifier: 315
 tags:
 - personal
 redirect_from: "/archive/2004/04/09/rumsfield-sound-bytes-of-the-week.aspx/"

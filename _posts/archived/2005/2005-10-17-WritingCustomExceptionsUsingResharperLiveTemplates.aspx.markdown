@@ -1,7 +1,6 @@
 ---
 title: Writing Custom Exceptions Using Resharper Live Templates
 date: 2005-10-17 -0800
-disqus_identifier: 10828
 tags: []
 redirect_from: "/archive/2005/10/16/WritingCustomExceptionsUsingResharperLiveTemplates.aspx/"
 ---

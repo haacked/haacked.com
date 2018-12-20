@@ -1,7 +1,6 @@
 ---
 title: If You Cut A Mort, Does He Not Bleed?
 date: 2006-03-16 -0800
-disqus_identifier: 12099
 tags: []
 redirect_from: "/archive/2006/03/15/IfYouCutAMort,DoesHeNotBleed.aspx/"
 ---

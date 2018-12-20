@@ -1,7 +1,6 @@
 ---
 title: ASP.NET 2.0 Client Validation Javascript Bug
 date: 2006-07-14 -0800
-disqus_identifier: 13935
 tags: []
 redirect_from: "/archive/2006/07/13/ASP.NET2.0ClientValidationJavascriptBug.aspx/"
 ---

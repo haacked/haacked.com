@@ -1,7 +1,6 @@
 ---
 title: You've Been Haacked 1K Times
 date: 2006-04-27 -0800
-disqus_identifier: 12588
 tags: []
 redirect_from: "/archive/2006/04/26/YouveBeenHaacked1KTimes.aspx/"
 ---

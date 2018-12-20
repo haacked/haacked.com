@@ -1,7 +1,6 @@
 ---
 title: Better Testers
 date: 2013-04-22 -0800
-disqus_identifier: 18888
 tags:
 - code
 redirect_from: "/archive/2013/04/21/better-testers.aspx/"

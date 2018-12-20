@@ -1,7 +1,6 @@
 ---
 title: Strict Traffic Laws
 date: 2005-01-02 -0800
-disqus_identifier: 1798
 tags: [humor,personal]
 redirect_from: "/archive/2005/01/01/strict-traffic-laws.aspx/"
 ---

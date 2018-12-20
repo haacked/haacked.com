@@ -1,7 +1,6 @@
 ---
 title: What Does My Testing MailServer Test That A Mock Would Not?
 date: 2006-05-31 -0800
-disqus_identifier: 13076
 tags: []
 redirect_from: "/archive/2006/05/30/WhatDoesMyTestingMailServerTestThatAMockWouldNot.aspx/"
 ---

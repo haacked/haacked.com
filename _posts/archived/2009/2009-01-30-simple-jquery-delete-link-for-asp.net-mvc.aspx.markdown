@@ -1,7 +1,6 @@
 ---
 title: Simple jQuery Delete Link For ASP.NET MVC
 date: 2009-01-30 -0800
-disqus_identifier: 18582
 tags:
 - aspnet
 - aspnetmvc

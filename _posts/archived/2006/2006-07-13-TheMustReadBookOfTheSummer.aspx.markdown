@@ -1,7 +1,6 @@
 ---
 title: The Must Read Book Of The Summer
 date: 2006-07-13 -0800
-disqus_identifier: 13925
 tags: []
 redirect_from: "/archive/2006/07/12/TheMustReadBookOfTheSummer.aspx/"
 ---

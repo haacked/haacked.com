@@ -1,7 +1,6 @@
 ---
 title: Subtext 1.9.3 Released
 date: 2006-12-13 -0800
-disqus_identifier: 18167
 tags: []
 redirect_from: "/archive/2006/12/12/Subtext_1.9.3_Released.aspx/"
 ---

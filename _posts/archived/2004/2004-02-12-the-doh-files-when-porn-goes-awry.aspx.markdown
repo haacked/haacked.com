@@ -1,7 +1,6 @@
 ---
 title: 'The Doh! Files: When Porn goes awry.'
 date: 2004-02-12 -0800
-disqus_identifier: 191
 tags: []
 redirect_from: "/archive/2004/02/11/the-doh-files-when-porn-goes-awry.aspx/"
 ---

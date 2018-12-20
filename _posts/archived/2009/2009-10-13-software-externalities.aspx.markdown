@@ -1,7 +1,6 @@
 ---
 title: Software Externalities
 date: 2009-10-13 -0800
-disqus_identifier: 18648
 tags: [software,maintenance]
 redirect_from: "/archive/2009/10/12/software-externalities.aspx/"
 ---

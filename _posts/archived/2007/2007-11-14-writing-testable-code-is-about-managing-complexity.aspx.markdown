@@ -1,7 +1,6 @@
 ---
 title: Writing Testable Code Is About Managing Complexity
 date: 2007-11-14 -0800
-disqus_identifier: 18423
 tags: [code,tdd,aspnetmvc]
 redirect_from: "/archive/2007/11/13/writing-testable-code-is-about-managing-complexity.aspx/"
 ---

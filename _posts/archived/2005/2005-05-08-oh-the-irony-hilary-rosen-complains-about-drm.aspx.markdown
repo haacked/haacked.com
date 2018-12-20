@@ -1,7 +1,6 @@
 ---
 title: Oh the Irony! Hilary Rosen Complains About DRM
 date: 2005-05-08 -0800
-disqus_identifier: 3114
 tags: []
 redirect_from: "/archive/2005/05/07/oh-the-irony-hilary-rosen-complains-about-drm.aspx/"
 ---

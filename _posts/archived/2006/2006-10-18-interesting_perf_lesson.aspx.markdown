@@ -1,7 +1,6 @@
 ---
 title: Interesting Perf Lesson
 date: 2006-10-18 -0800
-disqus_identifier: 18094
 tags: [perf]
 redirect_from: "/archive/2006/10/17/interesting_perf_lesson.aspx/"
 ---

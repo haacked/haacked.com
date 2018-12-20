@@ -1,7 +1,6 @@
 ---
 title: Come Work With Me And Other Great People
 date: 2008-01-29 -0800
-disqus_identifier: 18452
 tags: [aspnetmvc,aspnet,microsoft,work]
 redirect_from: "/archive/2008/01/28/come-work-with-me-and-other-great-people.aspx/"
 ---

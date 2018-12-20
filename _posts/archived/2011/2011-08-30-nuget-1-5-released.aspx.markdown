@@ -1,7 +1,6 @@
 ---
 title: NuGet 1.5 Released!
 date: 2011-08-30 -0800
-disqus_identifier: 18811
 tags:
 - nuget
 - code

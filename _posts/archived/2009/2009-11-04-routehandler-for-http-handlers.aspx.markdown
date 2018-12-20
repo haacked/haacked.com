@@ -1,7 +1,6 @@
 ---
 title: A RouteHandler for IHttpHandlers
 date: 2009-11-04 -0800
-disqus_identifier: 18656
 tags:
 - aspnet
 - code

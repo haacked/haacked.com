@@ -1,7 +1,6 @@
 ---
 title: 'VIDEO: Aswesome Rock Balancing Video'
 date: 2005-08-09 -0800
-disqus_identifier: 9282
 tags: []
 redirect_from: "/archive/2005/08/08/video-aswesome-rock-balancing-video.aspx/"
 ---

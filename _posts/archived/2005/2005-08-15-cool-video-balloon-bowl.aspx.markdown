@@ -1,7 +1,6 @@
 ---
 title: 'Cool Video: Balloon Bowl'
 date: 2005-08-15 -0800
-disqus_identifier: 9453
 tags: []
 redirect_from: "/archive/2005/08/14/cool-video-balloon-bowl.aspx/"
 ---

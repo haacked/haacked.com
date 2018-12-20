@@ -1,7 +1,6 @@
 ---
 title: Any Non-Techie Readers?
 date: 2006-02-26 -0800
-disqus_identifier: 11894
 tags: []
 redirect_from: "/archive/2006/02/25/AnyNon-TechieReaders.aspx/"
 ---

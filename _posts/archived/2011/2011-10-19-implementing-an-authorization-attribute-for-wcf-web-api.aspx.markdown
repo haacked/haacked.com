@@ -1,7 +1,6 @@
 ---
 title: Implementing an Authorization Attribute for WCF Web API
 date: 2011-10-19 -0800
-disqus_identifier: 18820
 tags:
 - code
 - aspnet

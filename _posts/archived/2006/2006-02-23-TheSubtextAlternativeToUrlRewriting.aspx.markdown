@@ -1,7 +1,6 @@
 ---
 title: The Subtext Alternative To Url Rewriting
 date: 2006-02-23 -0800
-disqus_identifier: 11859
 tags:
 - aspnet
 - subtext
@@ -16,7 +15,7 @@ up Page.aspx and look at the code-behind file to see what code handles
 this request.
 
 But for applications such as
-[Subtext](http://subtextproject.com/ "Subtext Project Website") that
+Subtext that
 support dynamic URLs, it can be a bit daunting to find the code that
 finally responds to the request.
 

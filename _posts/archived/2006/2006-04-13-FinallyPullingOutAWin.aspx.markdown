@@ -1,7 +1,6 @@
 ---
 title: Finally Pulling Out A Win
 date: 2006-04-13 -0800
-disqus_identifier: 12416
 tags: []
 redirect_from: "/archive/2006/04/12/FinallyPullingOutAWin.aspx/"
 ---

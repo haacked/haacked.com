@@ -1,7 +1,6 @@
 ---
 title: Better Recruiting Through Blogistry
 date: 2006-10-04 -0800
-disqus_identifier: 17636
 tags: []
 redirect_from: "/archive/2006/10/03/Better_Recruiting_Through_Blogistry.aspx/"
 ---
@@ -29,7 +28,7 @@ developers.  In fact, that’s how I recruited [Jon
 Galloway](http://weblogs.asp.net/jgalloway/ "Jon Galloway") to join my
 company, brought in [Steve
 Harman](http://stevenharman.net/blog/ "Steve Harman’s Blog") (a
-[Subtext](http://subtextproject.com/ "Subtext Project Website")
+Subtext
 Developer) as a contractor, and almost landed another well known
 blogger, until his own company grabbed his leg and dragged him kicking
 and screaming back into the fold giving him anything he wanted (I kid).

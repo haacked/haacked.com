@@ -1,7 +1,6 @@
 ---
 title: Snowboarding Weekend!
 date: 2004-03-23 -0800
-disqus_identifier: 268
 tags:
 - personal
 redirect_from: "/archive/2004/03/22/snowboarding-weekend-mammoth-mountain.aspx/"

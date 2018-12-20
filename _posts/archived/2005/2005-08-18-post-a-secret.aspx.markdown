@@ -1,7 +1,6 @@
 ---
 title: Post a Secret
 date: 2005-08-18 -0800
-disqus_identifier: 9551
 tags: []
 redirect_from: "/archive/2005/08/17/post-a-secret.aspx/"
 ---

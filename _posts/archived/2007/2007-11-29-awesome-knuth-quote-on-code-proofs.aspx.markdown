@@ -1,7 +1,6 @@
 ---
 title: Awesome Knuth Quote On Code Proofs
 date: 2007-11-29 -0800
-disqus_identifier: 18426
 tags:
 - code
 - tdd

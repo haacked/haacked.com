@@ -1,7 +1,6 @@
 ---
 title: Getting Jiggy With ASP.NET On Rails
 date: 2006-08-29 -0800
-disqus_identifier: 16150
 tags: []
 redirect_from: "/archive/2006/08/28/Getting_Jiggy_With_ASP.NET_On_Rails.aspx/"
 ---

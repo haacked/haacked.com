@@ -1,7 +1,6 @@
 ---
 title: You Know You Work Too Much
 date: 2006-05-06 -0800
-disqus_identifier: 12695
 tags: []
 redirect_from: "/archive/2006/05/05/YouKnowYouWorkTooMuch.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: Alaska Software Community
 date: 2013-08-25 -0800
-disqus_identifier: 18897
 tags:
 - code
 - community

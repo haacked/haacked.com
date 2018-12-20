@@ -1,7 +1,6 @@
 ---
 title: Creating Copies of Attributes
 date: 2010-08-05 -0800
-disqus_identifier: 18715
 tags:
 - code
 redirect_from: "/archive/2010/08/04/copying-attributes.aspx/"

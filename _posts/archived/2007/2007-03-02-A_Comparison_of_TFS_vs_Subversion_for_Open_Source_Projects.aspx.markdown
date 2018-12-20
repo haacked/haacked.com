@@ -1,13 +1,12 @@
 ---
 title: A Comparison of TFS vs Subversion for Open Source Projects
 date: 2007-03-02 -0800
-disqus_identifier: 18222
 tags: []
 redirect_from: "/archive/2007/03/01/A_Comparison_of_TFS_vs_Subversion_for_Open_Source_Projects.aspx/"
 ---
 
 We’ve been having an internal debate within the
-[Subtext](http://subtextproject.com/ "Subtext Project Website") mailing
+Subtext mailing
 list over the merits of
 [SourceForge](http://sourceforge.net/ "SourceForge") vs [Google Code
 Project Hosting](http://code.google.com/ "Google Code") vs

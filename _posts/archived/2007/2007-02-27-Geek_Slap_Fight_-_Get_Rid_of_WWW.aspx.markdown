@@ -1,7 +1,6 @@
 ---
 title: Geek Slap Fight - Get Rid of WWW
 date: 2007-02-27 -0800
-disqus_identifier: 18220
 tags:
 - code
 - tech

@@ -1,14 +1,13 @@
 ---
 title: Windows Live Writer and Html Entities
 date: 2007-03-23 -0800
-disqus_identifier: 18260
 tags: []
 redirect_from: "/archive/2007/03/22/windows-live-writer-and-html-entities.aspx/"
 ---
 
 I’ve been banging my head against a couple of problems with the
 interaction between
-[Subtext](http://subtextproject.com/ "Subtext Project Website") and
+Subtext and
 [Windows Live
 Writer](http://windowslivewriter.spaces.live.com/ "Windows Live Writer")
 that I thought I’d post on this here blog in the hopes that someone can

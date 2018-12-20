@@ -1,7 +1,6 @@
 ---
 title: Websites Back In The Day
 date: 2006-01-06 -0800
-disqus_identifier: 11423
 tags: []
 redirect_from: "/archive/2006/01/05/websites-back-in-the-day.aspx/"
 ---

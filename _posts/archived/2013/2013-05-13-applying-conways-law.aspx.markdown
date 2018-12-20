@@ -1,7 +1,6 @@
 ---
 title: Applying Conway&rsquo;s Law
 date: 2013-05-13 -0800
-disqus_identifier: 18889
 tags:
 - code
 - oss

@@ -1,7 +1,6 @@
 ---
 title: Man I Love Blogging.
 date: 2004-08-18 -0800
-disqus_identifier: 947
 tags:
 - personal
 - blogging

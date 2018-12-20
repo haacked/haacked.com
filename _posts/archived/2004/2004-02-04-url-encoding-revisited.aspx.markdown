@@ -1,7 +1,6 @@
 ---
 title: URL Encoding revisited
 date: 2004-02-04 -0800
-disqus_identifier: 165
 tags: [tools]
 redirect_from: "/archive/2004/02/03/url-encoding-revisited.aspx/"
 ---

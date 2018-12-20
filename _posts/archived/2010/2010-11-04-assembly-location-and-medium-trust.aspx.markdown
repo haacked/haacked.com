@@ -1,7 +1,6 @@
 ---
 title: A Sordid Little Tale Of Unexpected Security Exceptions
 date: 2010-11-04 -0800
-disqus_identifier: 18733
 tags:
 - code
 - aspnet

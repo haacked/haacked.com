@@ -1,7 +1,6 @@
 ---
 title: Geek Shopping
 date: 2004-04-06 -0800
-disqus_identifier: 305
 tags: []
 redirect_from: "/archive/2004/04/05/geek-shopping.aspx/"
 ---

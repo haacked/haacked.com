@@ -1,7 +1,6 @@
 ---
 title: 'MUSIC: My Finger Is On The Button'
 date: 2005-01-24 -0800
-disqus_identifier: 2006
 tags: []
 redirect_from: "/archive/2005/01/23/my-finger-is-on-the-button.aspx/"
 ---

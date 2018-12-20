@@ -1,7 +1,6 @@
 ---
 title: Community Naming
 date: 2010-10-23 -0800
-disqus_identifier: 18731
 tags:
 - nuget
 - code

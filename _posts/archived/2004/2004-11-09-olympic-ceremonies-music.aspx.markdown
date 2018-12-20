@@ -1,7 +1,6 @@
 ---
 title: Olympic Ceremonies Music
 date: 2004-11-09 -0800
-disqus_identifier: 1589
 tags: []
 redirect_from: "/archive/2004/11/08/olympic-ceremonies-music.aspx/"
 ---

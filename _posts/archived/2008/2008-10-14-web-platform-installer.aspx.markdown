@@ -1,7 +1,6 @@
 ---
 title: Web Platform Installer
 date: 2008-10-14 -0800
-disqus_identifier: 18538
 tags:
 - aspnet
 redirect_from: "/archive/2008/10/13/web-platform-installer.aspx/"

@@ -1,7 +1,6 @@
 ---
 title: Ultimate Tool
 date: 2006-08-29 -0800
-disqus_identifier: 16164
 tags: []
 redirect_from: "/archive/2006/08/28/Ultimate_Tool.aspx/"
 ---

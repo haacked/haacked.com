@@ -1,7 +1,6 @@
 ---
 title: Make Async Your Buddy With Reactive Extensions
 date: 2012-04-09 -0800
-disqus_identifier: 18856
 tags:
 - code
 - rx

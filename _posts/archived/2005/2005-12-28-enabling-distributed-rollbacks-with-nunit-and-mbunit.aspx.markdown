@@ -1,7 +1,6 @@
 ---
 title: Enabling Distributed Rollbacks With NUnit and MbUnit
 date: 2005-12-28 -0800
-disqus_identifier: 11377
 tags: []
 redirect_from: "/archive/2005/12/27/enabling-distributed-rollbacks-with-nunit-and-mbunit.aspx/"
 ---

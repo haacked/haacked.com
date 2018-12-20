@@ -1,7 +1,6 @@
 ---
 title: Proper Way To Find The Form
 date: 2006-06-13 -0800
-disqus_identifier: 13303
 tags:
 - code
 - aspnet

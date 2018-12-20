@@ -1,7 +1,6 @@
 ---
 title: Pimp My Desktop
 date: 2006-01-11 -0800
-disqus_identifier: 11475
 tags:
 - personal
 redirect_from: "/archive/2006/01/10/pimpmydesktop.aspx/"

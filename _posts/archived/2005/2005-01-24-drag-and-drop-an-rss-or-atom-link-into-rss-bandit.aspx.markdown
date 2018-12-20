@@ -1,7 +1,6 @@
 ---
 title: Drag and Drop an RSS (or ATOM) Link Into RSS Bandit
 date: 2005-01-24 -0800
-disqus_identifier: 2014
 tags: []
 redirect_from: "/archive/2005/01/23/drag-and-drop-an-rss-or-atom-link-into-rss-bandit.aspx/"
 ---

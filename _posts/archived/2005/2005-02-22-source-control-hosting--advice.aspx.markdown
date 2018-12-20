@@ -1,7 +1,6 @@
 ---
 title: Source Control Hosting - Advice?
 date: 2005-02-22 -0800
-disqus_identifier: 2171
 tags:
 - hosting sourcecontrol
 redirect_from: "/archive/2005/02/21/source-control-hosting--advice.aspx/"

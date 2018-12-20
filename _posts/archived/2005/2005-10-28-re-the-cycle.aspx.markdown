@@ -1,7 +1,6 @@
 ---
 title: 'RE: The cycle'
 date: 2005-10-28 -0800
-disqus_identifier: 11040
 tags: []
 redirect_from: "/archive/2005/10/27/re-the-cycle.aspx/"
 ---

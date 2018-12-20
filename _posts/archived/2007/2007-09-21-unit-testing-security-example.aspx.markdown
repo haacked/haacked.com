@@ -1,7 +1,6 @@
 ---
 title: Unit Testing Security Example
 date: 2007-09-21 -0800
-disqus_identifier: 18398
 tags:
 - code
 - tdd
@@ -14,7 +13,7 @@ out a specific role based permission issue using
 and [Rhino
 Mocks](http://ayende.com/projects/rhino-mocks.aspx "Rhino Mocks mocking framework").
 
-In [Subtext](http://subtextproject.com/ "Subtext project website"), we
+In Subtext, we
 have a class named `FileBrowserConnector` that really should only ever
 be constructed by a member of the *Admins* role. Because this class can
 write to the file system, we want to take extra precautions other than

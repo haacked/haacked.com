@@ -1,7 +1,6 @@
 ---
 title: A Very Simple And Easy Way To Reduce Comment Spam
 date: 2004-06-05 -0800
-disqus_identifier: 530
 tags: []
 redirect_from: "/archive/2004/06/04/a-very-simple-and-easy-way-to-reduce-comment-spam.aspx/"
 ---

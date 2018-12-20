@@ -1,7 +1,6 @@
 ---
 title: The Kinney Redesign
 date: 2006-04-21 -0800
-disqus_identifier: 12495
 tags: []
 redirect_from: "/archive/2006/04/20/TheKinneyRedesign.aspx/"
 ---

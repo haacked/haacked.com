@@ -1,7 +1,6 @@
 ---
 title: Projects Winding Down. Off to Alaska Soon.
 date: 2004-12-22 -0800
-disqus_identifier: 1755
 tags: []
 redirect_from: "/archive/2004/12/21/projects-winding-down-off-to-alaska-soon.aspx/"
 ---

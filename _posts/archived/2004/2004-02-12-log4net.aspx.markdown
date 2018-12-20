@@ -1,7 +1,6 @@
 ---
 title: Log4Net
 date: 2004-02-12 -0800
-disqus_identifier: 192
 tags: []
 redirect_from: "/archive/2004/02/11/log4net.aspx/"
 ---

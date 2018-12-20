@@ -1,7 +1,6 @@
 ---
 title: Tried of Typing C# Properties?
 date: 2005-03-25 -0800
-disqus_identifier: 2456
 tags:
 - code
 redirect_from: "/archive/2005/03/24/tried-of-typing-c-properties.aspx/"

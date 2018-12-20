@@ -1,7 +1,6 @@
 ---
 title: Possible Bug With DateTime.Parse?
 date: 2006-10-01 -0800
-disqus_identifier: 17489
 tags: []
 redirect_from: "/archive/2006/09/30/Possible_Bug_With_DateTime.Parse.aspx/"
 ---

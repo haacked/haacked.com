@@ -1,7 +1,6 @@
 ---
 title: Subtext Is In The Running. Please Vote.
 date: 2007-07-02 -0800
-disqus_identifier: 18364
 tags: [subtext]
 redirect_from: "/archive/2007/07/01/subtext-is-in-the-running.-please-vote.aspx/"
 ---
@@ -33,7 +32,7 @@ So here’s the deal. Competitions like this are not about choosing the
 *actual* *best* project. There’s just no way that there are developers
 out there who have worked on every project in these categories and knows
 for a fact that
-[Subtext](http://subtextproject.com/ "Subtext Project Website")
+Subtext
 communicates with its users better than FileZilla (*we do*).
 
 I am fully aware that this is purely a popularity contest. Heck, I voted

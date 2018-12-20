@@ -1,7 +1,6 @@
 ---
 title: How To Find Out Which NuGet Packages Depend on Yours
 date: 2011-02-23 -0800
-disqus_identifier: 18765
 tags:
 - nuget
 - aspnet

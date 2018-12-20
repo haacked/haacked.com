@@ -1,7 +1,6 @@
 ---
 title: Does Holding A Delegate Reference Keep The Owning Object Alive?
 date: 2004-07-06 -0800
-disqus_identifier: 774
 tags: []
 redirect_from: "/archive/2004/07/05/does-holding-a-delegate-reference-keep-the-owning-object-alive.aspx/"
 ---

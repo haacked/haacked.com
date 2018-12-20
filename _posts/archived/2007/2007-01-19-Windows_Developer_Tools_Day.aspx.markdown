@@ -1,7 +1,6 @@
 ---
 title: Windows Developer Tools Day
 date: 2007-01-19 -0800
-disqus_identifier: 18195
 tags: []
 redirect_from: "/archive/2007/01/18/Windows_Developer_Tools_Day.aspx/"
 ---
@@ -27,7 +26,7 @@ As I [mentioned
 before](https://haacked.com/archive/2006/07/13/TheMustReadBookOfTheSummer.aspx "Must Read Book Of The Summer"),
 I contributed a couple of sections to the book–The section on
 TortoiseSVN and TortoiseCVS and the section on
-[Subtext](http://subtextproject.com/ "Subtext Project Website") of
+Subtext of
 course.
 
 I’m genuinely looking forward to receiving my copy of this book for the

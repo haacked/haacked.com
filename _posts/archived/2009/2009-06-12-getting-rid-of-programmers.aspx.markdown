@@ -1,7 +1,6 @@
 ---
 title: And Get Rid Of Those Pesky Programmers
 date: 2009-06-12 -0800
-disqus_identifier: 18623
 tags:
 - code
 redirect_from: "/archive/2009/06/11/getting-rid-of-programmers.aspx/"

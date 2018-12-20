@@ -1,7 +1,6 @@
 ---
 title: Dining in San Francisco
 date: 2005-09-17 -0800
-disqus_identifier: 10182
 tags: []
 redirect_from: "/archive/2005/09/16/dining-in-san-francisco.aspx/"
 ---

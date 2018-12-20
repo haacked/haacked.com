@@ -1,7 +1,6 @@
 ---
 title: Subtext 1.5 Nautilus R and R Edition Released!
 date: 2006-06-07 -0800
-disqus_identifier: 13182
 tags: []
 redirect_from: "/archive/2006/06/06/Subtext1.5NautilusRAndREditionReleased.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: ASP.NET MVC 4 Roadmap
 date: 2011-07-13 -0800
-disqus_identifier: 18801
 tags:
 - aspnet
 - aspnetmvc

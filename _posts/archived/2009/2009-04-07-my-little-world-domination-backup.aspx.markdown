@@ -1,7 +1,6 @@
 ---
 title: My Little World Domination Backup
 date: 2009-04-07 -0800
-disqus_identifier: 18608
 tags:
 - personal
 redirect_from: "/archive/2009/04/06/my-little-world-domination-backup.aspx/"

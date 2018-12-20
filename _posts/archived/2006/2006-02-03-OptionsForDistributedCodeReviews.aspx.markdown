@@ -1,7 +1,6 @@
 ---
 title: Options For Distributed Code Reviews
 date: 2006-02-03 -0800
-disqus_identifier: 11655
 tags: []
 redirect_from: "/archive/2006/02/02/OptionsForDistributedCodeReviews.aspx/"
 ---

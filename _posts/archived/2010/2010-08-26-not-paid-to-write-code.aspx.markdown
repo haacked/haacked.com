@@ -1,7 +1,6 @@
 ---
 title: We&rsquo;re Not Paid To Write Code
 date: 2010-08-26 -0800
-disqus_identifier: 18718
 tags:
 - code
 redirect_from: "/archive/2010/08/25/not-paid-to-write-code.aspx/"

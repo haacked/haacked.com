@@ -1,7 +1,6 @@
 ---
 title: Concatenating Delimited Strings With Generic Delegates
 date: 2006-11-24 -0800
-disqus_identifier: 18145
 tags: []
 redirect_from:
   - "/archive/2006/11/23/concatenating_delimited_strings_with_generic_delegates.aspx/"

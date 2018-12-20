@@ -1,7 +1,6 @@
 ---
 title: Introducing RouteMagic
 date: 2011-01-30 -0800
-disqus_identifier: 18760
 tags:
 - aspnet
 - code
@@ -58,6 +57,6 @@ This is just a pet project I put together based on various blog posts
 I’ve written. I’d love to see some of these ideas eventually make it
 into the Framework. But until then, you’ll probably see these things
 make it into
-[Subtext](http://subtextproject.com/ "Subtext Project Website") for
+Subtext for
 sure!
 

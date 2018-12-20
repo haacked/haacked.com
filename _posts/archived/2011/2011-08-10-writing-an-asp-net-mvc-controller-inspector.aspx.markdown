@@ -1,7 +1,6 @@
 ---
 title: Writing an ASP.NET MVC Controller Inspector
 date: 2011-08-10 -0800
-disqus_identifier: 18806
 tags:
 - aspnetmvc
 - aspnet

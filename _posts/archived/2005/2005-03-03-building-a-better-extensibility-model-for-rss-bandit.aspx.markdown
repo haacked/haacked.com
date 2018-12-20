@@ -1,7 +1,6 @@
 ---
 title: Building a Better Extensibility Model For RSS Bandit
 date: 2005-03-03 -0800
-disqus_identifier: 2259
 tags: []
 redirect_from: "/archive/2005/03/02/building-a-better-extensibility-model-for-rss-bandit.aspx/"
 ---

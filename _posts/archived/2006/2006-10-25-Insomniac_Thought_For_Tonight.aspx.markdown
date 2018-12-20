@@ -1,7 +1,6 @@
 ---
 title: Insomniac Thought For Tonight
 date: 2006-10-25 -0800
-disqus_identifier: 18110
 tags: []
 redirect_from: "/archive/2006/10/24/Insomniac_Thought_For_Tonight.aspx/"
 ---

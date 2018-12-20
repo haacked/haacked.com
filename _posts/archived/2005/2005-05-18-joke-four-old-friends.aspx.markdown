@@ -1,7 +1,6 @@
 ---
 title: 'Joke: Four Old Friends'
 date: 2005-05-18 -0800
-disqus_identifier: 3314
 tags: []
 redirect_from: "/archive/2005/05/17/joke-four-old-friends.aspx/"
 ---

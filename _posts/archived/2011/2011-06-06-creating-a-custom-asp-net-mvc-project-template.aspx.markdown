@@ -1,7 +1,6 @@
 ---
 title: Creating a Custom ASP.NET MVC Project Template
 date: 2011-06-06 -0800
-disqus_identifier: 18795
 tags:
 - aspnet
 - aspnetmvc

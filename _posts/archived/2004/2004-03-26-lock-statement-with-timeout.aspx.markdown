@@ -1,7 +1,6 @@
 ---
 title: A lock statement with timeout...
 date: 2004-03-26 -0800
-disqus_identifier: 270
 tags:
 - code
 redirect_from: "/archive/2004/03/25/lock-statement-with-timeout.aspx/"

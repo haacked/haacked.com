@@ -1,7 +1,6 @@
 ---
 title: My Last Day Before Starting A New Career
 date: 2007-05-11 -0800
-disqus_identifier: 18312
 tags: []
 redirect_from: "/archive/2007/05/10/my-last-day-before-starting-a-new-career.aspx/"
 ---

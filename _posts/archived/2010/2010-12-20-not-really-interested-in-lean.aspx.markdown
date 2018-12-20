@@ -1,7 +1,6 @@
 ---
 title: Not Really Interested In Lean
 date: 2010-12-20 -0800
-disqus_identifier: 18748
 tags:
 - code
 - nuget

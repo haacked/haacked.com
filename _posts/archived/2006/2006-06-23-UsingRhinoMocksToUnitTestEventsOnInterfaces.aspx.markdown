@@ -1,7 +1,6 @@
 ---
 title: Using Rhino Mocks To Unit Test Events on Interfaces
 date: 2006-06-23 -0800
-disqus_identifier: 13491
 tags:
 - code
 - tdd

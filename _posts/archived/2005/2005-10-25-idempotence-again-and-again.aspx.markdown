@@ -1,7 +1,6 @@
 ---
 title: Idempotence Again and Again
 date: 2005-10-25 -0800
-disqus_identifier: 11021
 tags: []
 redirect_from: "/archive/2005/10/24/idempotence-again-and-again.aspx/"
 ---

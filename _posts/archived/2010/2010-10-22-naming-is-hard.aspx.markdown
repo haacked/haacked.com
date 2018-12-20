@@ -1,7 +1,6 @@
 ---
 title: Naming is Hard, Let&rsquo;s Go Shopping
 date: 2010-10-22 -0800
-disqus_identifier: 18730
 tags:
 - oss
 - nuget

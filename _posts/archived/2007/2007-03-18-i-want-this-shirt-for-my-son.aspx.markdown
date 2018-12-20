@@ -1,7 +1,6 @@
 ---
 title: I Want This Shirt For My Son
 date: 2007-03-18 -0800
-disqus_identifier: 18252
 tags:
 - personal
 - humor

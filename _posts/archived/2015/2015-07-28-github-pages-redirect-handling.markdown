@@ -21,7 +21,6 @@ Here's an example of my first attempt at front-matter for a blog post on my blog
 title: "Localizing ASP.NET MVC Validation"
 permalink: /404.html
 date: 2009-12-07 -0800
-disqus_identifier: 18664
 redirect_from: "/archive/2009/12/12/localizing-aspnetmvc-validation.aspx"
 tags: [aspnetmvc,localization,validation]
 ---

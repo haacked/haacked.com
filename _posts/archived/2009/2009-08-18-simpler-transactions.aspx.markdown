@@ -1,7 +1,6 @@
 ---
 title: Simpler Transactions
 date: 2009-08-18 -0800
-disqus_identifier: 18638
 tags: [dotnet,code]
 redirect_from: "/archive/2009/08/17/simpler-transactions.aspx/"
 ---

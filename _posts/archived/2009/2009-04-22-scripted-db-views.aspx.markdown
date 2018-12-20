@@ -1,7 +1,6 @@
 ---
 title: Scripting ASP.NET MVC Views Stored In The Database
 date: 2009-04-22 -0800
-disqus_identifier: 18612
 tags:
 - code
 - aspnetmvc

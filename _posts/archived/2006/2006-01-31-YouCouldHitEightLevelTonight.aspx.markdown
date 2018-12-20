@@ -1,7 +1,6 @@
 ---
 title: You Could Hit Eight Level Tonight
 date: 2006-01-31 -0800
-disqus_identifier: 11631
 tags: []
 redirect_from: "/archive/2006/01/30/YouCouldHitEightLevelTonight.aspx/"
 ---

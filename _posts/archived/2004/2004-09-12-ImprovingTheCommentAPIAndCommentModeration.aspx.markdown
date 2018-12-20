@@ -1,7 +1,6 @@
 ---
 title: Improving The CommentAPI And Comment Moderation
 date: 2004-09-12 -0800
-disqus_identifier: 1198
 tags: []
 redirect_from: "/archive/2004/09/11/ImprovingTheCommentAPIAndCommentModeration.aspx/"
 ---

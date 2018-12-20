@@ -1,7 +1,6 @@
 ---
 title: SemVer, NuGet, and Nightly Builds
 date: 2011-10-24 -0800
-disqus_identifier: 18821
 redirect_from:
 - "/archive/2011/10/26/semver-nuget-nightly-builds.aspx/"
 - "/archive/2011/10/23/semver-nuget-nightly-builds.aspx/"

@@ -2,7 +2,7 @@
 title: "Land that first programming job"
 description: "Reflecting on how to land that first job"
 date: 2018-11-15 -0800 08:49 AM PDT
-tags: [community,mentoring,software,career]
+tags: [community,mentoring,software,career,hiring]
 ---
 
 How does a person land their first job as a developer these days?

@@ -1,7 +1,6 @@
 ---
 title: MIX07 Pics From Mix
 date: 2007-05-02 -0800
-disqus_identifier: 18301
 tags: []
 redirect_from: "/archive/2007/05/01/mix07-pics-from-mix.aspx/"
 ---

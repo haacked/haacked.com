@@ -1,7 +1,6 @@
 ---
 title: Open Source Is Free Like A Flower
 date: 2006-08-02 -0800
-disqus_identifier: 14554
 tags:
 - code
 - oss

@@ -1,7 +1,6 @@
 ---
 title: Preventing CSRF With Ajax
 date: 2011-10-10 -0800
-disqus_identifier: 18817
 tags:
 - aspnetmvc
 - aspnet

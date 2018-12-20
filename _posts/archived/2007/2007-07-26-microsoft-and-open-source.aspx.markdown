@@ -1,7 +1,6 @@
 ---
 title: Microsoft and Open Source
 date: 2007-07-26 -0800
-disqus_identifier: 18370
 tags: [oss,microsoft]
 redirect_from: "/archive/2007/07/25/microsoft-and-open-source.aspx/"
 ---

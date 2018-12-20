@@ -1,7 +1,6 @@
 ---
 title: Unit Testing is a Poor Example to Demonstrate a Complaint About Methodologies
 date: 2004-12-06 -0800
-disqus_identifier: 1704
 tags:
 - code
 - tdd

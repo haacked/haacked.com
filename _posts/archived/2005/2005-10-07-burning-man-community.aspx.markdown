@@ -1,7 +1,6 @@
 ---
 title: Burning Man Community
 date: 2005-10-07 -0800
-disqus_identifier: 10634
 tags: [burningman]
 redirect_from: "/archive/2005/10/06/burning-man-community.aspx/"
 ---

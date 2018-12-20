@@ -1,7 +1,6 @@
 ---
 title: Email To Weblog
 date: 2006-11-07 -0800
-disqus_identifier: 18132
 tags: []
 redirect_from: "/archive/2006/11/06/Email_To_Weblog.aspx/"
 ---
@@ -19,7 +18,7 @@ blogmailr, removing the last “e” isn’t quite obfuscating enough to
 prevent anyone from guessing. ;)
 
 We’ve been working on a mail-to-weblog feature for
-[Subtext](http://subtextproject.com/ "Subtext Project Website"), but if
+Subtext, but if
 you can’t wait for that, you can always give blogmailr a try.  I gave it
 a quick try and it does indeed work with Subtext. One nice feature of
 the service is that they support [Really Simple

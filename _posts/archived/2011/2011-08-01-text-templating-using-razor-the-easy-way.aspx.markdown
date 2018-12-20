@@ -1,7 +1,6 @@
 ---
 title: Text templating using Razor the easy way
 date: 2011-08-01 -0800
-disqus_identifier: 18803
 tags:
 - code
 - aspnet

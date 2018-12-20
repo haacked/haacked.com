@@ -1,7 +1,6 @@
 ---
 title: Route Around The Default Gateway On The Remote Network
 date: 2007-01-27 -0800
-disqus_identifier: 18201
 tags: []
 redirect_from: "/archive/2007/01/26/Route_Around_The_Default_Gateway_On_The_Remote_Network.aspx/"
 ---

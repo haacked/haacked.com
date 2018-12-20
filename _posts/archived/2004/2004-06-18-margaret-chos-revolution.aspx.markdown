@@ -1,7 +1,6 @@
 ---
 title: Margaret Cho's Revolution
 date: 2004-06-18 -0800
-disqus_identifier: 648
 tags: []
 redirect_from: "/archive/2004/06/17/margaret-chos-revolution.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: The State of NuGet
 date: 2012-02-08 -0800
-disqus_identifier: 18845
 tags:
 - nuget
 - oss

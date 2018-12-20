@@ -1,7 +1,6 @@
 ---
 title: Write Readable Code By Making Its Intentions Clear
 date: 2007-04-19 -0800
-disqus_identifier: 18291
 tags:
 - code
 redirect_from:

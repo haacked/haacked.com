@@ -1,7 +1,6 @@
 ---
 title: Vista Could Be So Much Better
 date: 2006-01-14 -0800
-disqus_identifier: 11502
 tags: []
 redirect_from: "/archive/2006/01/13/VistaCouldBeSoMuchBetter.aspx/"
 ---

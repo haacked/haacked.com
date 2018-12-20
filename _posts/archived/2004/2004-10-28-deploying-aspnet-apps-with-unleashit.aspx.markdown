@@ -1,7 +1,6 @@
 ---
 title: Deploying ASP.NET Apps With UnleashIt
 date: 2004-10-28 -0800
-disqus_identifier: 1523
 tags: []
 redirect_from: "/archive/2004/10/27/deploying-aspnet-apps-with-unleashit.aspx/"
 ---

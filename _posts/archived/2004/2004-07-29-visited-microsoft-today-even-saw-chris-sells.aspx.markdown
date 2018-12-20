@@ -1,7 +1,6 @@
 ---
 title: Visited Microsoft Today.  Even Saw Chris Sells.
 date: 2004-07-29 -0800
-disqus_identifier: 864
 tags: []
 redirect_from: "/archive/2004/07/28/visited-microsoft-today-even-saw-chris-sells.aspx/"
 ---

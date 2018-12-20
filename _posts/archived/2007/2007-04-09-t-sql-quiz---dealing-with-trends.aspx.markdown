@@ -1,7 +1,6 @@
 ---
 title: T-SQL Quiz - Dealing With Trends
 date: 2007-04-09 -0800
-disqus_identifier: 18275
 tags:
 - code
 - sql

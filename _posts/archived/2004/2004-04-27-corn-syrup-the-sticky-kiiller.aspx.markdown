@@ -1,7 +1,6 @@
 ---
 title: 'Corn syrup: the sticky kiiller'
 date: 2004-04-27 -0800
-disqus_identifier: 371
 tags: []
 redirect_from: "/archive/2004/04/26/corn-syrup-the-sticky-kiiller.aspx/"
 ---

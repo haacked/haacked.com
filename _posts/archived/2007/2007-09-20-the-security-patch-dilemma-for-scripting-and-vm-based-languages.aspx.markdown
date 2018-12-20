@@ -1,7 +1,6 @@
 ---
 title: The Security Patch Dilemma For Scripting And VM Based Languages
 date: 2007-09-20 -0800
-disqus_identifier: 18397
 tags: [security]
 redirect_from: "/archive/2007/09/19/the-security-patch-dilemma-for-scripting-and-vm-based-languages.aspx/"
 ---

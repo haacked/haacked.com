@@ -1,7 +1,6 @@
 ---
 title: Class photo fun
 date: 2004-10-08 -0800
-disqus_identifier: 1328
 tags: []
 redirect_from: "/archive/2004/10/07/class-photo-fun.aspx/"
 ---

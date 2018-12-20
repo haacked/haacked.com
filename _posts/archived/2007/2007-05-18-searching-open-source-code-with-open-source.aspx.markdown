@@ -1,7 +1,6 @@
 ---
 title: Searching Open Source Code With Open Source
 date: 2007-05-18 -0800
-disqus_identifier: 18317
 tags: []
 redirect_from: "/archive/2007/05/17/searching-open-source-code-with-open-source.aspx/"
 ---
@@ -19,7 +18,7 @@ to create the full-text index. More specifically, it uses
 port of the Java Lucene project.
 
 I’m familiar with Lucene.NET because the
-[Subtext](http://subtextproject.com/ "Subtext Project Website") and [RSS
+Subtext and [RSS
 Bandit](http://www.rssbandit.org/ "RSS Bandit") projects both use it for
 searching (though I was not the one to implement it in either case). As
 far as I know, it pretty much is the de-facto standard for open source

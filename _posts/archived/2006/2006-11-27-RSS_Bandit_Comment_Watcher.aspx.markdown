@@ -1,7 +1,6 @@
 ---
 title: RSS Bandit Comment Watcher
 date: 2006-11-27 -0800
-disqus_identifier: 18150
 tags: [rss]
 redirect_from: "/archive/2006/11/26/RSS_Bandit_Comment_Watcher.aspx/"
 ---
@@ -60,7 +59,7 @@ Unfortunately, one of my favorite blogs,
 [CodingHorror](http://codinghorror.com/ "CodingHorror"), which happens
 to always have lively conversation in the comments section, doesn’t
 support it.  Jeff, it’s time to move to
-[Subtext](http://subtextproject.com/ "Subtext Project Website")!
+Subtext!
 
 Kudos go out to [Dare](http://www.25hoursaday.com/weblog/ "Dare") and
 [Torsten](http://www.rendelmann.info/blog/ "Torsten")!  Unfortunately,

@@ -1,7 +1,6 @@
 ---
 title: Scott Adams Solves The Middle East Riddle
 date: 2006-07-28 -0800
-disqus_identifier: 14390
 tags: []
 redirect_from: "/archive/2006/07/27/ScottAdamsSolvesTheMiddleEastRiddle.aspx/"
 ---

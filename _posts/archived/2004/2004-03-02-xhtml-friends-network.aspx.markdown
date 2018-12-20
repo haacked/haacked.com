@@ -1,7 +1,6 @@
 ---
 title: XHTML Friends Network
 date: 2004-03-02 -0800
-disqus_identifier: 225
 tags: []
 redirect_from: "/archive/2004/03/01/xhtml-friends-network.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: Structuring Unit Tests
 date: 2012-01-02 -0800
-disqus_identifier: 18838
 tags:
 - code
 - tdd

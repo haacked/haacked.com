@@ -1,7 +1,6 @@
 ---
 title: Better String Input Handling
 date: 2009-04-01 -0800
-disqus_identifier: 18603
 tags:
 - code
 - humor

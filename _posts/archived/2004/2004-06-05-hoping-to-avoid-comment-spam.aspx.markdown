@@ -1,7 +1,6 @@
 ---
 title: Hoping To Avoid Comment Spam...
 date: 2004-06-05 -0800
-disqus_identifier: 533
 tags: []
 redirect_from: "/archive/2004/06/04/hoping-to-avoid-comment-spam.aspx/"
 ---

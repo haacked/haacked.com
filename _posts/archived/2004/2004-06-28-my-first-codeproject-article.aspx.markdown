@@ -1,7 +1,6 @@
 ---
 title: My First CodeProject Article
 date: 2004-06-28 -0800
-disqus_identifier: 700
 tags: []
 redirect_from: "/archive/2004/06/27/my-first-codeproject-article.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: Reflections on 2012
 date: 2013-01-01 -0800
-disqus_identifier: 18879
 tags:
 - personal
 redirect_from: "/archive/2012/12/31/reflections-on-2012.aspx/"

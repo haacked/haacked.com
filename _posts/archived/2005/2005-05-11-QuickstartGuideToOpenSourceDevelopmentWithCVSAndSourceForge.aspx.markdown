@@ -1,7 +1,6 @@
 ---
 title: Quickstart Guide To Open Source Development With CVS and SourceForge
 date: 2005-05-11 -0800
-disqus_identifier: 3178
 tags: [oss]
 redirect_from: "/archive/2005/05/10/QuickstartGuideToOpenSourceDevelopmentWithCVSAndSourceForge.aspx/"
 ---

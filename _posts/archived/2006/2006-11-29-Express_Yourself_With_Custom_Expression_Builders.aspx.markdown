@@ -1,7 +1,6 @@
 ---
 title: Express Yourself With Custom Expression Builders
 date: 2006-11-29 -0800
-disqus_identifier: 18152
 tags: []
 redirect_from: "/archive/2006/11/28/Express_Yourself_With_Custom_Expression_Builders.aspx/"
 ---

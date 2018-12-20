@@ -1,7 +1,6 @@
 ---
 title: A Word to the Wise About Spam Filters
 date: 2006-01-18 -0800
-disqus_identifier: 11534
 tags: []
 redirect_from: "/archive/2006/01/17/AWordtotheWiseAboutSpamFilters.aspx/"
 ---

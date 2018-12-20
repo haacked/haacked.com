@@ -1,7 +1,6 @@
 ---
 title: Tag Your Database - A Data Dictionary Tool
 date: 2006-09-28 -0800
-disqus_identifier: 17343
 tags: []
 redirect_from: "/archive/2006/09/27/database_dictionary_tool.aspx/"
 ---

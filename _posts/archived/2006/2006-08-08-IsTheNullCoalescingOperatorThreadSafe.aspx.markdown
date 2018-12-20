@@ -1,7 +1,6 @@
 ---
 title: Is The Null Coalescing Operator Thread Safe?
 date: 2006-08-08 -0800
-disqus_identifier: 14770
 tags: []
 redirect_from: "/archive/2006/08/07/IsTheNullCoalescingOperatorThreadSafe.aspx/"
 ---

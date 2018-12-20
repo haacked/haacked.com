@@ -1,7 +1,6 @@
 ---
 title: TimeZones
 date: 2006-10-06 -0800
-disqus_identifier: 17780
 tags: []
 redirect_from: "/archive/2006/10/05/TimeZones.aspx/"
 ---

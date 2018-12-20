@@ -1,7 +1,6 @@
 ---
 title: ".NET SP1 Can Break HttpWebRequest (and certain RSS Feeds)"
 date: 2004-09-03 -0800
-disqus_identifier: 1134
 tags: []
 redirect_from: "/archive/2004/09/02/net-sp1-can-break-httpwebrequest-and-certain-rss-feeds.aspx/"
 ---

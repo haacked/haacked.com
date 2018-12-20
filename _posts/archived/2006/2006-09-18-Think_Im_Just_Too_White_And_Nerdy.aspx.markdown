@@ -1,7 +1,6 @@
 ---
 title: Think I'm Just Too White And Nerdy
 date: 2006-09-18 -0800
-disqus_identifier: 16798
 tags: [humor]
 redirect_from: "/archive/2006/09/17/Think_Im_Just_Too_White_And_Nerdy.aspx/"
 ---

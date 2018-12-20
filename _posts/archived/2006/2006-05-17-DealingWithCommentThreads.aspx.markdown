@@ -1,14 +1,13 @@
 ---
 title: Dealing with Comment Threads
 date: 2006-05-17 -0800
-disqus_identifier: 12837
 tags: []
 redirect_from: "/archive/2006/05/16/DealingWithCommentThreads.aspx/"
 ---
 
 Seems like everyone and their mother has an opinion on the “right” way
 to have comment threads. Currently
-[Subtext](http://subtextproject.com/ "Subtext project website") supports
+Subtext supports
 the same model as .TEXT did, a simple linear sequential list of
 comments. It is simple and gets the job done.
 

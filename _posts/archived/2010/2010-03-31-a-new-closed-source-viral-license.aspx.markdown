@@ -1,7 +1,6 @@
 ---
 title: A New Closed Source Viral License
 date: 2010-03-31 -0800
-disqus_identifier: 18693
 tags:
 - humor
 - code

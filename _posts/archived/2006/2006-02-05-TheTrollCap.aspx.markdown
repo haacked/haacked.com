@@ -1,7 +1,6 @@
 ---
 title: The Troll Cap
 date: 2006-02-05 -0800
-disqus_identifier: 11692
 tags: []
 redirect_from: "/archive/2006/02/04/TheTrollCap.aspx/"
 ---
@@ -16,6 +15,6 @@ at least it serves an educational purpose of teaching others what is
 considered trolling behavior.
 
 This is definitely an idea to put in
-[Subtext](http://subtextproject.com/ "Subtext Project Website") at some
+Subtext at some
 point.
 

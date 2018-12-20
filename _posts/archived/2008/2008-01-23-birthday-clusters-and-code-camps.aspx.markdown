@@ -1,7 +1,6 @@
 ---
 title: Birthday Clusters and Code Camps
 date: 2008-01-23 -0800
-disqus_identifier: 18450
 tags:
 - personal
 redirect_from: "/archive/2008/01/22/birthday-clusters-and-code-camps.aspx/"

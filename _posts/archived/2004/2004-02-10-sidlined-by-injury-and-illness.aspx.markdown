@@ -1,7 +1,6 @@
 ---
 title: Sidlined by injury and illness
 date: 2004-02-10 -0800
-disqus_identifier: 185
 tags: []
 redirect_from: "/archive/2004/02/09/sidlined-by-injury-and-illness.aspx/"
 ---

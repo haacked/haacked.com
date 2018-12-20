@@ -1,7 +1,6 @@
 ---
 title: 80s Music Videos
 date: 2006-06-21 -0800
-disqus_identifier: 13450
 tags:
 - personal
 redirect_from: "/archive/2006/06/20/80sMusicVideo.aspx/"

@@ -1,7 +1,6 @@
 ---
 title: NDC09 Trip Report
 date: 2009-06-28 -0800
-disqus_identifier: 18626
 tags: [conferences]
 redirect_from: "/archive/2009/06/27/ndc2009-trip-report.aspx/"
 ---

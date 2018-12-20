@@ -1,7 +1,6 @@
 ---
 title: Soccer Camp
 date: 2006-12-22 -0800
-disqus_identifier: 18178
 tags:
 - personal
 redirect_from: "/archive/2006/12/21/Soccer_Camp.aspx/"

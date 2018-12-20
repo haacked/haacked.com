@@ -31,7 +31,6 @@ So what I did was add my own field to my migrated Jekyll posts. You can see an e
 ---
 title: "Code Review Like You Mean It"
 date: 2013-10-28 -0800
-disqus_identifier: 18902
 tags: [open,source,github,code]
 ---
 ```

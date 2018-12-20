@@ -1,7 +1,6 @@
 ---
 title: Writing Software Is Easy. Clients Make It Hard.
 date: 2004-08-03 -0800
-disqus_identifier: 878
 tags: []
 redirect_from: "/archive/2004/08/02/writing-software-is-easy-clients-make-it-hard.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: Improved Random Number Generators
 date: 2005-02-28 -0800
-disqus_identifier: 2222
 tags: []
 redirect_from: "/archive/2005/02/27/improved-random-number-generators.aspx/"
 ---

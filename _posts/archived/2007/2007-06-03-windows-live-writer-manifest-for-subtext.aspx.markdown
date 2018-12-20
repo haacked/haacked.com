@@ -1,7 +1,6 @@
 ---
 title: Windows Live Writer Manifest For Subtext
 date: 2007-06-03 -0800
-disqus_identifier: 18337
 tags: []
 redirect_from: "/archive/2007/06/02/windows-live-writer-manifest-for-subtext.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: Writing A Book
 date: 2006-11-19 -0800
-disqus_identifier: 18140
 tags: [books]
 redirect_from: "/archive/2006/11/18/writing_a_book.aspx/"
 ---
@@ -14,7 +13,7 @@ such things.
 
 A little while ago I wrote an email to the subtext-devs mailing list
 mentioning that I will be cutting back my day-to-day involvement in
-[Subtext](http://subtextproject.com/ "Subtext Project Website") until
+Subtext until
 around spring/summer of the new year.  I will still be involved, of
 course, but I cannot spend as much time writing code as I have been in
 the past.

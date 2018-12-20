@@ -1,7 +1,6 @@
 ---
 title: Dream Hangovers
 date: 2005-06-29 -0800
-disqus_identifier: 7412
 tags: []
 redirect_from: "/archive/2005/06/28/dream-hangovers.aspx/"
 ---

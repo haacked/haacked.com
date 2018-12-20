@@ -1,7 +1,6 @@
 ---
 title: Following Up On the Dispose Pattern
 date: 2005-11-29 -0800
-disqus_identifier: 11267
 tags: []
 redirect_from: "/archive/2005/11/28/following-up-on-the-dispose-pattern.aspx/"
 ---

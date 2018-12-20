@@ -1,7 +1,6 @@
 ---
 title: CoComment Support in Subtext
 date: 2006-04-04 -0800
-disqus_identifier: 12261
 tags:
 - subtext
 redirect_from: "/archive/2006/04/03/CoCommentSupportInSubtext.aspx/"
@@ -12,7 +11,7 @@ was [called
 out](http://jaysonknight.com/blog/archive/2006/04/04/8001.aspx "CoComment Enable Your .TEXT Blog"),
 I went ahead and quickly implemented
 [CoComment](http://cocomment.com/ "Comment Tracking System") for
-[Subtext](http://subtextproject.com/ "Subtext Project Website"), but I
+Subtext, but I
 have yet to deploy it to my personal blog. It will be released as part
 of our upcoming interim 1.0.5.0 release which is focused on bug fixes
 and a few developer goodies thrown in.

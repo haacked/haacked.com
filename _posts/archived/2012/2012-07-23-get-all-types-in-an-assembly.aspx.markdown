@@ -1,7 +1,6 @@
 ---
 title: Get All Types in an Assembly
 date: 2012-07-23 -0800
-disqus_identifier: 18863
 tags:
 - aspnetmvc
 - code

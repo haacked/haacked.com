@@ -1,7 +1,6 @@
 ---
 title: CoComment Now Enabled
 date: 2006-04-12 -0800
-disqus_identifier: 12400
 tags: []
 redirect_from: "/archive/2006/04/11/CoCommentNowEnabled.aspx/"
 ---

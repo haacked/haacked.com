@@ -1,7 +1,6 @@
 ---
 title: Ali G Gets Tossed Out By Andy Rooney
 date: 2004-08-24 -0800
-disqus_identifier: 971
 tags: []
 redirect_from: "/archive/2004/08/23/ali-g-gets-tossed-out-by-andy-rooney.aspx/"
 ---

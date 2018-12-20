@@ -1,7 +1,6 @@
 ---
 title: Subtext Roadmap
 date: 2005-05-04 -0800
-disqus_identifier: 2983
 tags: [subtext]
 redirect_from: "/archive/2005/05/03/subtext-roadmap.aspx/"
 ---
