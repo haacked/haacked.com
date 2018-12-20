@@ -2,7 +2,7 @@
 title: Did Microsoft Violate TestDriven.NET's EULA in Enforcing Its Own EULA?
 date: 2007-06-01 -0800
 disqus_identifier: 18335
-categories: []
+tags: []
 redirect_from: "/archive/2007/05/31/did-microsoft-violate-testdriven.nets-eula-to-defend-its-own-eula.aspx/"
 ---
 

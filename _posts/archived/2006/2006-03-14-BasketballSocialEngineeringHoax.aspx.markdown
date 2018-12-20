@@ -2,7 +2,7 @@
 title: Basketball Social Engineering Hoax
 date: 2006-03-14 -0800
 disqus_identifier: 12088
-categories: []
+tags: []
 redirect_from: "/archive/2006/03/13/BasketballSocialEngineeringHoax.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: How Not To Please Your Clients
 date: 2005-11-03 -0800
 disqus_identifier: 11126
-categories: []
+tags: []
 redirect_from: "/archive/2005/11/02/how-not-to-please-your-clients.aspx/"
 ---
 

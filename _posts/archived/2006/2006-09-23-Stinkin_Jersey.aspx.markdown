@@ -2,7 +2,7 @@
 title: Stinkin' Jersey
 date: 2006-09-23 -0800
 disqus_identifier: 17089
-categories: []
+tags: []
 redirect_from: "/archive/2006/09/22/Stinkin_Jersey.aspx/"
 ---
 

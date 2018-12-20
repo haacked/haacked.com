@@ -2,7 +2,7 @@
 title: Introducing ASP.NET MVC 3 Tools Update
 date: 2011-04-12 -0800
 disqus_identifier: 18773
-categories: []
+tags: []
 redirect_from: "/archive/2011/04/11/introducing-asp-net-mvc-3-tools-update.aspx/"
 ---
 

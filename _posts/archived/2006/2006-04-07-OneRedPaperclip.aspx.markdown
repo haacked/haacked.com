@@ -2,7 +2,7 @@
 title: One Red Paperclip
 date: 2006-04-07 -0800
 disqus_identifier: 12321
-categories: []
+tags: []
 redirect_from: "/archive/2006/04/06/OneRedPaperclip.aspx/"
 ---
 

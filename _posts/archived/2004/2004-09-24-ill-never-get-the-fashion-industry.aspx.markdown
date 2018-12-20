@@ -2,7 +2,7 @@
 title: I'll Never Get The Fashion Industry
 date: 2004-09-24 -0800
 disqus_identifier: 1266
-categories: []
+tags: []
 redirect_from: "/archive/2004/09/23/ill-never-get-the-fashion-industry.aspx/"
 ---
 

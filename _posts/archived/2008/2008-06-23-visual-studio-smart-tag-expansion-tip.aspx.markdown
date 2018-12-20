@@ -2,7 +2,7 @@
 title: Visual Studio Smart Tag Expansion Tip
 date: 2008-06-23 -0800
 disqus_identifier: 18496
-categories: [visualstudio,tips]
+tags: [visualstudio,tips]
 redirect_from: "/archive/2008/06/22/visual-studio-smart-tag-expansion-tip.aspx/"
 ---
 

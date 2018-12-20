@@ -2,7 +2,7 @@
 title: A San Francisco Weekend
 date: 2004-06-02 -0800
 disqus_identifier: 503
-categories: []
+tags: []
 redirect_from: "/archive/2004/06/01/a-san-francisco-weekend.aspx/"
 ---
 

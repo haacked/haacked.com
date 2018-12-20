@@ -2,7 +2,7 @@
 title: Increase Productivity With Search Driven Development
 date: 2007-03-16 -0800
 disqus_identifier: 18248
-categories: []
+tags: []
 redirect_from: "/archive/2007/03/15/increase-productivity-with-search-driven-development.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: 'Hilarious Video: The Yes Man'
 date: 2005-10-10 -0800
 disqus_identifier: 10689
-categories: []
+tags: []
 redirect_from: "/archive/2005/10/09/hilarious-video-the-yes-man.aspx/"
 ---
 

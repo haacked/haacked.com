@@ -2,7 +2,7 @@
 title: Frustrated With Microsoft Money
 date: 2006-01-17 -0800
 disqus_identifier: 11533
-categories: []
+tags: []
 redirect_from: "/archive/2006/01/16/FrustratedWithMicrosoftMoney.aspx/"
 ---
 

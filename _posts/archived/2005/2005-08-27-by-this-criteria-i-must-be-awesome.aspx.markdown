@@ -2,7 +2,7 @@
 title: By This Criteria, I Must Be Awesome
 date: 2005-08-27 -0800
 disqus_identifier: 9724
-categories: []
+tags: []
 redirect_from: "/archive/2005/08/26/by-this-criteria-i-must-be-awesome.aspx/"
 ---
 

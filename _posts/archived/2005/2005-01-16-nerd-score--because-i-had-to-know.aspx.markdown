@@ -2,7 +2,7 @@
 title: Nerd Score - Because I Had To Know
 date: 2005-01-16 -0800
 disqus_identifier: 1887
-categories: []
+tags: []
 redirect_from: "/archive/2005/01/15/nerd-score--because-i-had-to-know.aspx/"
 ---
 

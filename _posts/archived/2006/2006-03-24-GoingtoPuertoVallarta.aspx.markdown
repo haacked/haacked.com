@@ -2,7 +2,7 @@
 title: Going to Puerto Vallarta
 date: 2006-03-24 -0800
 disqus_identifier: 12187
-categories: []
+tags: []
 redirect_from: "/archive/2006/03/23/GoingtoPuertoVallarta.aspx/"
 ---
 

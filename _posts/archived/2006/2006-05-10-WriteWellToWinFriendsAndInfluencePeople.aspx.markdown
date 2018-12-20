@@ -2,7 +2,7 @@
 title: Write Well To Win Friends And Influence People
 date: 2006-05-10 -0800
 disqus_identifier: 12738
-categories: []
+tags: []
 redirect_from: "/archive/2006/05/09/WriteWellToWinFriendsAndInfluencePeople.aspx/"
 ---
 

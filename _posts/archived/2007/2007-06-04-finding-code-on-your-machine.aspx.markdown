@@ -2,7 +2,7 @@
 title: Finding Code On Your Machine
 date: 2007-06-04 -0800
 disqus_identifier: 18339
-categories: []
+tags: []
 redirect_from: "/archive/2007/06/03/finding-code-on-your-machine.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: DataGrid With a Title Row
 date: 2005-04-19 -0800
 disqus_identifier: 2741
-categories: []
+tags: []
 redirect_from: "/archive/2005/04/18/DataGridWithATitleRow.aspx/"
 ---
 

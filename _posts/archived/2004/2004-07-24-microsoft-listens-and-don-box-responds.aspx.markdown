@@ -2,7 +2,7 @@
 title: Microsoft Listens and Don Box Responds
 date: 2004-07-24 -0800
 disqus_identifier: 853
-categories: []
+tags: []
 redirect_from: "/archive/2004/07/23/microsoft-listens-and-don-box-responds.aspx/"
 ---
 

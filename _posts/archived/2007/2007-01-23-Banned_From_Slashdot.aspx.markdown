@@ -2,7 +2,7 @@
 title: Banned From Slashdot
 date: 2007-01-23 -0800
 disqus_identifier: 18200
-categories: []
+tags: []
 redirect_from: "/archive/2007/01/22/Banned_From_Slashdot.aspx/"
 ---
 

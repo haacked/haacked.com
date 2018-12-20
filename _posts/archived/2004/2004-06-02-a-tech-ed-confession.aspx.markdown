@@ -2,7 +2,7 @@
 title: A Tech-Ed Confession
 date: 2004-06-02 -0800
 disqus_identifier: 502
-categories: []
+tags: []
 redirect_from: "/archive/2004/06/01/a-tech-ed-confession.aspx/"
 ---
 

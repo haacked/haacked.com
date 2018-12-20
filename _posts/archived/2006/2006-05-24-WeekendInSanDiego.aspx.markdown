@@ -2,7 +2,7 @@
 title: Weekend In San Diego
 date: 2006-05-24 -0800
 disqus_identifier: 12938
-categories: []
+tags: []
 redirect_from: "/archive/2006/05/23/WeekendInSanDiego.aspx/"
 ---
 

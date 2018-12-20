@@ -2,7 +2,7 @@
 title: It's Raining in Southern California
 date: 2005-10-17 -0800
 disqus_identifier: 10845
-categories: []
+tags: []
 redirect_from: "/archive/2005/10/16/its-raining-in-southern-california.aspx/"
 ---
 

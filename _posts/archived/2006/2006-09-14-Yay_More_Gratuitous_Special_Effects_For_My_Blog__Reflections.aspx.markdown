@@ -2,7 +2,7 @@
 title: Yay! More Gratuitous Special Effects For My Blog - Reflections!
 date: 2006-09-14 -0800
 disqus_identifier: 16601
-categories: []
+tags: []
 redirect_from: "/archive/2006/09/13/Yay_More_Gratuitous_Special_Effects_For_My_Blog__Reflections.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: VisualStudioHacks is alive...
 date: 2005-09-21 -0800
 disqus_identifier: 10283
-categories: []
+tags: []
 redirect_from: "/archive/2005/09/20/visualstudiohacks-is-alive.aspx/"
 ---
 

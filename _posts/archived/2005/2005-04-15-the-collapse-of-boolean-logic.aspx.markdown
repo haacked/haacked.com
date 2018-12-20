@@ -2,7 +2,7 @@
 title: The Collapse of Boolean Logic
 date: 2005-04-15 -0800
 disqus_identifier: 2711
-categories: []
+tags: []
 redirect_from: "/archive/2005/04/14/the-collapse-of-boolean-logic.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: CodeClimber
 date: 2006-12-10 -0800
 disqus_identifier: 18162
-categories: []
+tags: []
 redirect_from: "/archive/2006/12/09/CodeClimber.aspx/"
 ---
 

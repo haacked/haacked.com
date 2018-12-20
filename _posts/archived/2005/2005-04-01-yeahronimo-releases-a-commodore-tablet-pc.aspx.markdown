@@ -2,7 +2,7 @@
 title: Yeahronimo Releases a Commodore Tablet PC
 date: 2005-04-01 -0800
 disqus_identifier: 2521
-categories: []
+tags: []
 redirect_from: "/archive/2005/03/31/yeahronimo-releases-a-commodore-tablet-pc.aspx/"
 ---
 

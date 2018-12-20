@@ -2,7 +2,7 @@
 title: Herd Of Elephants
 date: 2004-07-12 -0800
 disqus_identifier: 815
-categories: []
+tags: []
 redirect_from: "/archive/2004/07/11/herd-of-elephants.aspx/"
 ---
 

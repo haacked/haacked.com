@@ -2,7 +2,7 @@
 title: I Forgot That I Am An MCSD
 date: 2004-09-22 -0800
 disqus_identifier: 1247
-categories: []
+tags: []
 redirect_from: "/archive/2004/09/21/i-forgot-that-i-am-an-mcsd.aspx/"
 ---
 

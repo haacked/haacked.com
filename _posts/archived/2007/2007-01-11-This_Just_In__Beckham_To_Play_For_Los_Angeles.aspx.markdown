@@ -2,7 +2,7 @@
 title: This Just In - Beckham To Play For Los Angeles
 date: 2007-01-11 -0800
 disqus_identifier: 18190
-categories: []
+tags: []
 redirect_from: "/archive/2007/01/10/This_Just_In__Beckham_To_Play_For_Los_Angeles.aspx/"
 ---
 

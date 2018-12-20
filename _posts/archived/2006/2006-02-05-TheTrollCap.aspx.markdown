@@ -2,7 +2,7 @@
 title: The Troll Cap
 date: 2006-02-05 -0800
 disqus_identifier: 11692
-categories: []
+tags: []
 redirect_from: "/archive/2006/02/04/TheTrollCap.aspx/"
 ---
 

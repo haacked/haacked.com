@@ -2,7 +2,7 @@
 title: Photography Lessons
 date: 2006-01-07 -0800
 disqus_identifier: 11432
-categories: []
+tags: []
 redirect_from: "/archive/2006/01/06/photography-lessons.aspx/"
 ---
 

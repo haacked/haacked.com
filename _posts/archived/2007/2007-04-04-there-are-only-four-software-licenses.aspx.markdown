@@ -2,7 +2,7 @@
 title: There Are Only Four Software Licenses
 date: 2007-04-04 -0800
 disqus_identifier: 18269
-categories: []
+tags: []
 redirect_from: "/archive/2007/04/03/there-are-only-four-software-licenses.aspx/"
 ---
 

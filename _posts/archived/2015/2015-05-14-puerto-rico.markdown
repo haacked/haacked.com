@@ -1,7 +1,7 @@
 ---
 title: "Puerto Rico"
 date: 2015-05-14 -0800
-categories: [conf,github,travel,medical]
+tags: [conf,github,travel,medical]
 ---
 
 This past week I had the great pleasure to speak in Puerto Rico at [their TechSummit conference](http://techsummitpr.com/).

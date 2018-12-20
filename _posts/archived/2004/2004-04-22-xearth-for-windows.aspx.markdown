@@ -2,7 +2,7 @@
 title: XEarth For Windows
 date: 2004-04-22 -0800
 disqus_identifier: 350
-categories: []
+tags: []
 redirect_from: "/archive/2004/04/21/xearth-for-windows.aspx/"
 ---
 

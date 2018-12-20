@@ -2,7 +2,7 @@
 title: 'Pop Quiz: Can you reference an exe assembly'
 date: 2004-04-28 -0800
 disqus_identifier: 374
-categories: []
+tags: []
 redirect_from: "/archive/2004/04/27/can-you-reference-an-exe-assembly.aspx/"
 ---
 

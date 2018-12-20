@@ -2,7 +2,7 @@
 title: Joel Inserts Foot in Mouth and Then Shoots Self in Foot.
 date: 2005-07-25 -0800
 disqus_identifier: 9027
-categories: []
+tags: []
 redirect_from: "/archive/2005/07/24/foot-in-mouth.aspx/"
 ---
 

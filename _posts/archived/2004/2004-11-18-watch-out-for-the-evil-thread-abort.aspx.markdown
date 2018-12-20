@@ -2,7 +2,7 @@
 title: 'Quiz Answer: Watch out for the Eeeevil Thread.Abort.'
 date: 2004-11-18 -0800
 disqus_identifier: 1642
-categories: []
+tags: []
 redirect_from: "/archive/2004/11/17/watch-out-for-the-evil-thread-abort.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: BlogML 2.0 Released!
 date: 2006-09-05 -0800
 disqus_identifier: 16315
-categories: []
+tags: []
 redirect_from: "/archive/2006/09/04/BlogML_2.0_Released.aspx/"
 ---
 

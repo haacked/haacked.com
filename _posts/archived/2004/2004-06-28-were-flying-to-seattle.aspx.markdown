@@ -2,7 +2,7 @@
 title: We're Flying To Seattle
 date: 2004-06-28 -0800
 disqus_identifier: 707
-categories: []
+tags: []
 redirect_from: "/archive/2004/06/27/were-flying-to-seattle.aspx/"
 ---
 

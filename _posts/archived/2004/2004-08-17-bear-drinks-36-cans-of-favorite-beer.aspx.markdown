@@ -2,7 +2,7 @@
 title: Bear Drinks 36 Cans of Favorite Beer
 date: 2004-08-17 -0800
 disqus_identifier: 934
-categories: []
+tags: []
 redirect_from: "/archive/2004/08/16/bear-drinks-36-cans-of-favorite-beer.aspx/"
 ---
 

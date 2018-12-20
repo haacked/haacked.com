@@ -2,7 +2,7 @@
 title: Unit Testing Loves Beta Testing And Vice Versa
 date: 2005-10-18 -0800
 disqus_identifier: 10854
-categories: []
+tags: []
 redirect_from: "/archive/2005/10/17/UnitTestingLovesBetaTestingAndViceVersa.aspx/"
 ---
 

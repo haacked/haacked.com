@@ -2,7 +2,7 @@
 title: Some More Pics Of Twiggy
 date: 2004-10-06 -0800
 disqus_identifier: 1310
-categories: []
+tags: []
 redirect_from: "/archive/2004/10/05/some-more-pics-of-twiggy.aspx/"
 ---
 

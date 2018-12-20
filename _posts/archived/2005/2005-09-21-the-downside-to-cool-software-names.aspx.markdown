@@ -2,7 +2,7 @@
 title: The Downside to Cool Software Names
 date: 2005-09-21 -0800
 disqus_identifier: 10259
-categories: []
+tags: []
 redirect_from: "/archive/2005/09/20/the-downside-to-cool-software-names.aspx/"
 ---
 

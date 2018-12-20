@@ -2,7 +2,7 @@
 title: UML Is Chinese To Me
 date: 2006-04-15 -0800
 disqus_identifier: 12419
-categories: []
+tags: []
 redirect_from: "/archive/2006/04/14/UMLIsChineseToMe.aspx/"
 ---
 

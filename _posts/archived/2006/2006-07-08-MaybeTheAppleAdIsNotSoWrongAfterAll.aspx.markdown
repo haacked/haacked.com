@@ -2,7 +2,7 @@
 title: Maybe The Apple Ad Is Not So Wrong After All
 date: 2006-07-08 -0800
 disqus_identifier: 13744
-categories: []
+tags: []
 redirect_from: "/archive/2006/07/07/MaybeTheAppleAdIsNotSoWrongAfterAll.aspx/"
 ---
 

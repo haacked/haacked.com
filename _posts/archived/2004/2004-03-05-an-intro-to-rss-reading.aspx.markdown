@@ -2,7 +2,7 @@
 title: An Intro to Rss Reading
 date: 2004-03-05 -0800
 disqus_identifier: 236
-categories: []
+tags: []
 redirect_from: "/archive/2004/03/04/an-intro-to-rss-reading.aspx/"
 ---
 

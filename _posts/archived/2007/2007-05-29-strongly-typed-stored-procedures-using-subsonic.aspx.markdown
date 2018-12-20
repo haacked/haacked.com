@@ -2,7 +2,7 @@
 title: Strongly Typed Stored Procedures Using Subsonic
 date: 2007-05-29 -0800
 disqus_identifier: 18333
-categories: []
+tags: []
 redirect_from: "/archive/2007/05/28/strongly-typed-stored-procedures-using-subsonic.aspx/"
 ---
 

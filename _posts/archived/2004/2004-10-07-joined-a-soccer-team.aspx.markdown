@@ -2,7 +2,7 @@
 title: Joined a Soccer Team
 date: 2004-10-07 -0800
 disqus_identifier: 1329
-categories: []
+tags: []
 redirect_from: "/archive/2004/10/06/joined-a-soccer-team.aspx/"
 ---
 

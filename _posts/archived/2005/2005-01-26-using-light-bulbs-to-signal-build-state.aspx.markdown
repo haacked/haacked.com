@@ -2,7 +2,7 @@
 title: Using Light Bulbs To Signal Build State
 date: 2005-01-26 -0800
 disqus_identifier: 2018
-categories: []
+tags: []
 redirect_from: "/archive/2005/01/25/using-light-bulbs-to-signal-build-state.aspx/"
 ---
 

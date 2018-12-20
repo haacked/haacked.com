@@ -1,7 +1,7 @@
 ---
 title: "Try it and I'll kill you"
 date: 2016-01-01 -0800
-categories: [personal]
+tags: [personal]
 ---
 
 I have a big problem as a dad.

@@ -2,7 +2,7 @@
 title: The Evil Post
 date: 2005-07-01 -0800
 disqus_identifier: 7462
-categories: []
+tags: []
 redirect_from: "/archive/2005/06/30/the-evil-post.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Be Lazy, But Not Intellectually Lazy
 date: 2005-09-18 -0800
 disqus_identifier: 10204
-categories: []
+tags: []
 redirect_from: "/archive/2005/09/17/be-lazy-but-not-intellectually-lazy.aspx/"
 ---
 

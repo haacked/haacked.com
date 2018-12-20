@@ -2,7 +2,7 @@
 title: Rating Plug-In for RSS Bandit
 date: 2004-11-26 -0800
 disqus_identifier: 1676
-categories: [rss]
+tags: [rss]
 redirect_from: "/archive/2004/11/25/rating-plug-in-for-rss-bandit.aspx/"
 ---
 

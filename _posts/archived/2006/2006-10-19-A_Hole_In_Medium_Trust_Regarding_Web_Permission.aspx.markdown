@@ -2,7 +2,7 @@
 title: OriginUrl Supports Regular Expressions
 date: 2006-10-19 -0800
 disqus_identifier: 18095
-categories: []
+tags: []
 redirect_from: "/archive/2006/10/18/A_Hole_In_Medium_Trust_Regarding_Web_Permission.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: RSS Bandit 1.3.x (Wolverine) Beta Available!
 date: 2005-02-05 -0800
 disqus_identifier: 2096
-categories: []
+tags: []
 redirect_from: "/archive/2005/02/04/rss-bandit-13x-wolverine-beta-available.aspx/"
 ---
 

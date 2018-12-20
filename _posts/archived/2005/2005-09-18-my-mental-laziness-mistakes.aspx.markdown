@@ -2,7 +2,7 @@
 title: My Mental Laziness Mistakes
 date: 2005-09-18 -0800
 disqus_identifier: 10226
-categories: []
+tags: []
 redirect_from: "/archive/2005/09/17/my-mental-laziness-mistakes.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Biking Ballona Creek
 date: 2006-07-17 -0800
 disqus_identifier: 13970
-categories: []
+tags: []
 redirect_from: "/archive/2006/07/16/BikingBallonaCreek.aspx/"
 ---
 

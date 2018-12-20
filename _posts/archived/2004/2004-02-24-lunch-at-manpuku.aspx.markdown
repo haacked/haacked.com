@@ -2,7 +2,7 @@
 title: Lunch
 date: 2004-02-24 -0800
 disqus_identifier: 210
-categories: []
+tags: []
 redirect_from: "/archive/2004/02/23/lunch-at-manpuku.aspx/"
 ---
 

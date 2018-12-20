@@ -2,7 +2,7 @@
 title: Put Your Pages and Views on Lockdown
 date: 2009-05-05 -0800
 disqus_identifier: 18614
-categories: []
+tags: []
 redirect_from: "/archive/2009/05/04/page-view-lockdown.aspx/"
 ---
 

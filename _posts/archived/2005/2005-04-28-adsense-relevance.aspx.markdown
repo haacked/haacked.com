@@ -2,7 +2,7 @@
 title: AdSense relevance...
 date: 2005-04-28 -0800
 disqus_identifier: 2877
-categories: []
+tags: []
 redirect_from: "/archive/2005/04/27/adsense-relevance.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Resharper Can Preview XML Comments as HTML
 date: 2006-07-19 -0800
 disqus_identifier: 14005
-categories: []
+tags: []
 redirect_from: "/archive/2006/07/18/ResharperCanPreviewXMLCommentsAsHTML.aspx/"
 ---
 

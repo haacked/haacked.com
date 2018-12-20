@@ -2,7 +2,7 @@
 title: Filters in ASP.NET MVC CodePlex Preview 4
 date: 2008-08-14 -0800
 disqus_identifier: 18522
-categories: [aspnetmvc]
+tags: [aspnetmvc]
 redirect_from: "/archive/2008/08/13/aspnetmvc-filters.aspx/"
 ---
 

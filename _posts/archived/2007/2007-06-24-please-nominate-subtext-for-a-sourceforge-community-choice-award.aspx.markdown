@@ -2,7 +2,7 @@
 title: Please Nominate Subtext For A SourceForge Community Choice Award
 date: 2007-06-24 -0800
 disqus_identifier: 18359
-categories: []
+tags: []
 redirect_from: "/archive/2007/06/23/please-nominate-subtext-for-a-sourceforge-community-choice-award.aspx/"
 ---
 

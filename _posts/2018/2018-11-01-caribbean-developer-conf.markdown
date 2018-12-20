@@ -2,7 +2,7 @@
 title: "Caribbean Developer's Conference"
 description: "A conference worth attending, speaking at, and sponsoring to expand the reach of software to all corners of the planet, even the beautiful sandy ones"
 date: 2018-11-02 -0800 04:30 PM PDT
-categories: [community,conferences,software]
+tags: [community,conferences,software]
 ---
 
 Picture a developer's conference held at a resort on a tropical island. What comes to mind?

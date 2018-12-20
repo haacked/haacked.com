@@ -2,7 +2,7 @@
 title: RIP Christopher Reeves aka Superman
 date: 2004-10-10 -0800
 disqus_identifier: 1335
-categories: []
+tags: []
 redirect_from: "/archive/2004/10/09/rip-christopher-reeves-aka-superman.aspx/"
 ---
 

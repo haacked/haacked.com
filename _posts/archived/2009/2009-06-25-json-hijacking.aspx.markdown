@@ -2,7 +2,7 @@
 title: JSON Hijacking
 date: 2009-06-25 -0800
 disqus_identifier: 18624
-categories: []
+tags: []
 redirect_from:
 - "/archive/0001/01/01/json-hijacking.aspx/"
 - "/archive/2009/06/24/json-hijacking.aspx/"

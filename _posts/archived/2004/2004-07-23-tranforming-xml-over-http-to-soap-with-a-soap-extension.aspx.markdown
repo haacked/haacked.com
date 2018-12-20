@@ -2,7 +2,7 @@
 title: Tranforming Xml over Http to SOAP with a Soap Extension
 date: 2004-07-23 -0800
 disqus_identifier: 843
-categories: []
+tags: []
 redirect_from: "/archive/2004/07/22/tranforming-xml-over-http-to-soap-with-a-soap-extension.aspx/"
 ---
 

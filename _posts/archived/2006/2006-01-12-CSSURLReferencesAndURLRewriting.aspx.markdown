@@ -2,7 +2,7 @@
 title: CSS URL References And URL Rewriting
 date: 2006-01-12 -0800
 disqus_identifier: 11480
-categories: []
+tags: []
 redirect_from: "/archive/2006/01/11/CSSURLReferencesAndURLRewriting.aspx/"
 ---
 

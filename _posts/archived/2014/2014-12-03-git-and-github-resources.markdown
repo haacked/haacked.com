@@ -1,7 +1,7 @@
 ---
 title: "Git and GitHub Resources"
 date: 2014-12-03 -0800
-categories: [git,github]
+tags: [git,github]
 ---
 
 Learning Git and GitHub can be daunting if you're new to it. I recently gave a small presentation where I pretty much firehosed a group of people about Git and GitHub for one hour. I felt bad that I could only really scratch the surface.

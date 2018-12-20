@@ -2,7 +2,7 @@
 title: Subtext 1.5.2 Minor Bugfix Release
 date: 2006-07-25 -0800
 disqus_identifier: 14174
-categories: []
+tags: []
 redirect_from: "/archive/2006/07/24/Subtext1.5.2MinorBugfixRelease.aspx/"
 ---
 

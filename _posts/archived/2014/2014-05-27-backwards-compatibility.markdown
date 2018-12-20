@@ -2,7 +2,7 @@
 title: "The Siren Song of Backwards Compatibility"
 date: 2014-05-27 -0800
 redirect_from: "/archive/2015/05/27/backwards-compatibility/"
-categories: [aspnet]
+tags: [aspnet]
 ---
 
 This post is sort of a continuation of my post on [Microsoft's New Running Shoes](https://haacked.com/archive/2014/05/17/microsofts-new-running-shoes/).

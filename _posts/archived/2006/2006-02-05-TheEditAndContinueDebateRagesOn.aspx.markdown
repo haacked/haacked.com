@@ -2,7 +2,7 @@
 title: The Edit And Continue Debate Rages On
 date: 2006-02-05 -0800
 disqus_identifier: 11697
-categories: []
+tags: []
 redirect_from: "/archive/2006/02/04/TheEditAndContinueDebateRagesOn.aspx/"
 ---
 

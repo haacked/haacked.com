@@ -2,7 +2,7 @@
 title: 6 Software Tips For Hardware Makers
 date: 2007-01-14 -0800
 disqus_identifier: 18191
-categories: []
+tags: []
 redirect_from: "/archive/2007/01/13/6_Software_Tips_For_Hardware_Makers.aspx/"
 ---
 

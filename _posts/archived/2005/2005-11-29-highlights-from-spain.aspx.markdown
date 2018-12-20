@@ -2,7 +2,7 @@
 title: Highlights From Spain
 date: 2005-11-29 -0800
 disqus_identifier: 11266
-categories: []
+tags: []
 redirect_from: "/archive/2005/11/28/highlights-from-spain.aspx/"
 ---
 

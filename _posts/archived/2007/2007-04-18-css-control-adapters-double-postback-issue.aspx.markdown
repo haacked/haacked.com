@@ -2,7 +2,7 @@
 title: CSS Control Adapters Double PostBack Issue
 date: 2007-04-18 -0800
 disqus_identifier: 18286
-categories: []
+tags: []
 redirect_from: "/archive/2007/04/17/css-control-adapters-double-postback-issue.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: An Improved Plugin for Using w.bloggar with RSS Bandit
 date: 2004-12-04 -0800
 disqus_identifier: 1697
-categories: []
+tags: []
 redirect_from: "/archive/2004/12/03/an-improved-plugin-for-using-wbloggar-with-rss-bandit.aspx/"
 ---
 

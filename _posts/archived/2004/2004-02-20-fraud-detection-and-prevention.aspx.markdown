@@ -2,7 +2,7 @@
 title: Fraud Detection and Prevention
 date: 2004-02-20 -0800
 disqus_identifier: 202
-categories: []
+tags: []
 redirect_from: "/archive/2004/02/19/fraud-detection-and-prevention.aspx/"
 ---
 

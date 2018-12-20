@@ -2,7 +2,7 @@
 title: 'Rant: Beware of Misleading Credit Card Offers'
 date: 2005-03-30 -0800
 disqus_identifier: 2505
-categories: []
+tags: []
 redirect_from: "/archive/2005/03/29/beware-of-misleading-credit-card-offers.aspx/"
 ---
 

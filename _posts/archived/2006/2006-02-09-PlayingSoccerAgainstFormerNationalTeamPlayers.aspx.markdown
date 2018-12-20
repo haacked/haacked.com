@@ -2,7 +2,7 @@
 title: Playing Soccer Against Former National Team Players
 date: 2006-02-09 -0800
 disqus_identifier: 11752
-categories: []
+tags: []
 redirect_from: "/archive/2006/02/08/PlayingSoccerAgainstFormerNationalTeamPlayers.aspx/"
 ---
 

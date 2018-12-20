@@ -2,7 +2,7 @@
 title: Put Your Views (and Pages) On a Diet
 date: 2009-08-04 -0800
 disqus_identifier: 18632
-categories: []
+tags: []
 redirect_from: "/archive/2009/08/03/views-on-a-diet.aspx/"
 ---
 

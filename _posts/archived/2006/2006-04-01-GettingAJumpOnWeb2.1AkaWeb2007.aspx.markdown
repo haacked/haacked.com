@@ -2,7 +2,7 @@
 title: Getting A Jump on Web 2.1 aka Web 2007
 date: 2006-04-01 -0800
 disqus_identifier: 12220
-categories: []
+tags: []
 redirect_from: "/archive/2006/03/31/GettingAJumpOnWeb2.1AkaWeb2007.aspx/"
 ---
 

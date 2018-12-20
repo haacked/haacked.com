@@ -2,7 +2,7 @@
 title: Community Server 1.2 Live Demo
 date: 2005-10-05 -0800
 disqus_identifier: 10598
-categories: []
+tags: []
 redirect_from: "/archive/2005/10/04/community-server-12-live-demo.aspx/"
 ---
 

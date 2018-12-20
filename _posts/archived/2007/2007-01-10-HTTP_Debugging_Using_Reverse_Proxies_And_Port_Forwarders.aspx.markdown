@@ -2,7 +2,7 @@
 title: HTTP Debugging Using Reverse Proxies And Port Forwarders
 date: 2007-01-10 -0800
 disqus_identifier: 18189
-categories: []
+tags: []
 redirect_from: "/archive/2007/01/09/HTTP_Debugging_Using_Reverse_Proxies_And_Port_Forwarders.aspx/"
 ---
 

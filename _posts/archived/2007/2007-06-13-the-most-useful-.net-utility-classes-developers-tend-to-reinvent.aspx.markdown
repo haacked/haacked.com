@@ -3,7 +3,7 @@ title: The Most Useful .NET Utility Classes Developers Tend To Reinvent Rather T
   Reuse
 date: 2007-06-13 -0800
 disqus_identifier: 18349
-categories: []
+tags: []
 redirect_from: "/archive/2007/06/12/the-most-useful-.net-utility-classes-developers-tend-to-reinvent.aspx/"
 ---
 

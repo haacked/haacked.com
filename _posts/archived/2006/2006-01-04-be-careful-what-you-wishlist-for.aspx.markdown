@@ -2,7 +2,7 @@
 title: Be Careful What You Wishlist For...
 date: 2006-01-04 -0800
 disqus_identifier: 11413
-categories: []
+tags: []
 redirect_from: "/archive/2006/01/03/be-careful-what-you-wishlist-for.aspx/"
 ---
 

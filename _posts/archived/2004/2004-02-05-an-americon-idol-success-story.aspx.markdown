@@ -2,7 +2,7 @@
 title: An Americon Idol Success Story
 date: 2004-02-05 -0800
 disqus_identifier: 173
-categories: []
+tags: []
 redirect_from: "/archive/2004/02/04/an-americon-idol-success-story.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Is Backward Compatibility Holding Microsoft Back
 date: 2006-10-01 -0800
 disqus_identifier: 17495
-categories: []
+tags: []
 redirect_from: "/archive/2006/09/30/Is_Backward_Compatibility_Holding_Microsoft_Back.aspx/"
 ---
 

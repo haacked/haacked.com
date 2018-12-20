@@ -2,7 +2,7 @@
 title: DevSource Article on Exceptions
 date: 2005-11-16 -0800
 disqus_identifier: 11207
-categories: []
+tags: []
 redirect_from: "/archive/2005/11/15/DevSourceArticleOnExceptions.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: The Formalities of Being Incorporated
 date: 2005-09-17 -0800
 disqus_identifier: 10181
-categories: []
+tags: []
 redirect_from: "/archive/2005/09/16/the-formalities-of-being-incorporated.aspx/"
 ---
 

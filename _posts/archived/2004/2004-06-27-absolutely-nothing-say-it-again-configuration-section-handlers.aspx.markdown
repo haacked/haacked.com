@@ -2,7 +2,7 @@
 title: Absolutely Nothing. Say It Again! (Configuration Section Handlers)
 date: 2004-06-27 -0800
 disqus_identifier: 699
-categories: []
+tags: []
 redirect_from: "/archive/2004/06/26/absolutely-nothing-say-it-again-configuration-section-handlers.aspx/"
 ---
 

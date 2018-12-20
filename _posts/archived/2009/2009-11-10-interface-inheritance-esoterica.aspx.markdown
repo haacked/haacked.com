@@ -2,7 +2,7 @@
 title: Interface Inheritance Esoterica
 date: 2009-11-10 -0800
 disqus_identifier: 18658
-categories: []
+tags: []
 redirect_from: "/archive/2009/11/09/interface-inheritance-esoterica.aspx/"
 ---
 

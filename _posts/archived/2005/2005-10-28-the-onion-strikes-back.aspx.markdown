@@ -2,7 +2,7 @@
 title: The Onion Strikes Back
 date: 2005-10-28 -0800
 disqus_identifier: 11039
-categories: []
+tags: []
 redirect_from: "/archive/2005/10/27/the-onion-strikes-back.aspx/"
 ---
 

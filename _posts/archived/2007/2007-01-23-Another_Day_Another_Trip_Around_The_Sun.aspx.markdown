@@ -2,7 +2,7 @@
 title: Another Day, Another Trip Around The Sun
 date: 2007-01-23 -0800
 disqus_identifier: 18198
-categories: []
+tags: []
 redirect_from: "/archive/2007/01/22/Another_Day_Another_Trip_Around_The_Sun.aspx/"
 ---
 

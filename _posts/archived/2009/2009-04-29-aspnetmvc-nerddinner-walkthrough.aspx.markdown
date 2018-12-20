@@ -2,7 +2,7 @@
 title: ASP.NET MVC NerdDinner Walkthrough
 date: 2009-04-29 -0800
 disqus_identifier: 18613
-categories: []
+tags: []
 redirect_from: "/archive/2009/04/28/aspnetmvc-nerddinner-walkthrough.aspx/"
 ---
 

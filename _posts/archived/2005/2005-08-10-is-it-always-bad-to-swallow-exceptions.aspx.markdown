@@ -2,7 +2,7 @@
 title: Is It Always Bad To Swallow Exceptions?
 date: 2005-08-10 -0800
 disqus_identifier: 9293
-categories: []
+tags: []
 redirect_from: "/archive/2005/08/09/is-it-always-bad-to-swallow-exceptions.aspx/"
 ---
 

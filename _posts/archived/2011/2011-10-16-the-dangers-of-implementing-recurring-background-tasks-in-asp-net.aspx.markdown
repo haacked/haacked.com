@@ -2,7 +2,7 @@
 title: The Dangers of Implementing Recurring Background Tasks In ASP.NET
 date: 2011-10-16 -0800
 disqus_identifier: 18819
-categories: [aspnet,dotnet]
+tags: [aspnet,dotnet]
 redirect_from: "/archive/2011/10/15/the-dangers-of-implementing-recurring-background-tasks-in-asp-net.aspx/"
 ---
 

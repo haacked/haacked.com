@@ -2,7 +2,7 @@
 title: PageRank in Decline.  Is it Nofollow's Fault?
 date: 2005-08-24 -0800
 disqus_identifier: 9646
-categories: []
+tags: []
 redirect_from: "/archive/2005/08/23/pagerank-in-decline-is-it-nofollows-fault.aspx/"
 ---
 

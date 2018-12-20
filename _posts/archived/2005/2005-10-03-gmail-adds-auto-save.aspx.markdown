@@ -2,7 +2,7 @@
 title: Gmail adds Auto Save
 date: 2005-10-03 -0800
 disqus_identifier: 10580
-categories: []
+tags: []
 redirect_from: "/archive/2005/10/02/gmail-adds-auto-save.aspx/"
 ---
 

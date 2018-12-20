@@ -2,7 +2,7 @@
 title: Curb Your Enthusiasm Exonerates Wrongly Accused
 date: 2007-03-10 -0800
 disqus_identifier: 18234
-categories: []
+tags: []
 redirect_from: "/archive/2007/03/09/curb-your-enthusiasm-exonerates-wrongly-accused.aspx/"
 ---
 

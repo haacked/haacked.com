@@ -2,7 +2,7 @@
 title: Twiggy's Back Home and Check Out Her Cast
 date: 2004-11-04 -0800
 disqus_identifier: 1572
-categories: []
+tags: []
 redirect_from: "/archive/2004/11/03/twiggys-back-home-and-check-out-her-cast.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "GitHub Beyond Your Browser"
 date: 2017-05-16 -0800
-categories: [github]
+tags: [github]
 ---
 
 One of my goals at GitHub is to make GitHub more approachable to developers. If you use GitHub, I want you to have tools that complement the way you work and help you to be more effective. In some cases that's integrating directly in your Editor or IDE of choice. In other cases, it's offering tools that work side-by-side with your existing tools.

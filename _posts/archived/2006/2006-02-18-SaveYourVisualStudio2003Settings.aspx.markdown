@@ -2,7 +2,7 @@
 title: Save Your Visual Studio 2003 Settings
 date: 2006-02-18 -0800
 disqus_identifier: 11838
-categories: []
+tags: []
 redirect_from: "/archive/2006/02/17/SaveYourVisualStudio2003Settings.aspx/"
 ---
 

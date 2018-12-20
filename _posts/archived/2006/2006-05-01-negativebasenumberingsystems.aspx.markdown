@@ -2,7 +2,7 @@
 title: Negative Base Numbering Systems
 date: 2006-05-01 -0800
 disqus_identifier: 12617
-categories: [math]
+tags: [math]
 redirect_from: "/archive/2006/04/30/negativebasenumberingsystems.aspx/"
 ---
 

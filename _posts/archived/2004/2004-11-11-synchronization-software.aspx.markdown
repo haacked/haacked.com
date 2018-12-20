@@ -2,7 +2,7 @@
 title: Synchronization Software?
 date: 2004-11-11 -0800
 disqus_identifier: 1598
-categories: []
+tags: []
 redirect_from: "/archive/2004/11/10/synchronization-software.aspx/"
 ---
 

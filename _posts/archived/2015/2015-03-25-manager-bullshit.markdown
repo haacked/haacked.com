@@ -1,7 +1,7 @@
 ---
 title: "Management Bullshit"
 date: 2015-03-25 -0800
-categories: [personal,management]
+tags: [personal,management]
 ---
 
 A lot of the advice you see about management is bullshit. For example, I recently read some post, probably on some pretentious site like medium.com, about how you shouldn't send emails late at night if you're a manager because it sends the wrong message to your people. It creates the impression that your people should be working all the time and destroys the idea of work-life balance.

@@ -2,7 +2,7 @@
 title: Atlas Comment Spam Heuristics
 date: 2006-09-19 -0800
 disqus_identifier: 16843
-categories: []
+tags: []
 redirect_from: "/archive/2006/09/18/Atlas_Comment_Spam_Heuristics.aspx/"
 ---
 

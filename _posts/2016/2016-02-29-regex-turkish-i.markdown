@@ -1,7 +1,7 @@
 ---
 title: "A Subtle Case Sensitivity Gotcha with Regular Expressions"
 date: 2016-02-29 -0800
-categories: [regex]
+tags: [regex]
 ---
 
 > Some people, when confronted with a problem, think “I know, I'll use regular expressions.” Now they have two problems. - Jamie Zawinski

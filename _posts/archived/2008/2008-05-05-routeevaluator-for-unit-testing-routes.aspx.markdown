@@ -2,7 +2,7 @@
 title: RouteEvaluator For Unit Testing Routes
 date: 2008-05-05 -0800
 disqus_identifier: 18482
-categories: [routing,tdd,aspnetmvc]
+tags: [routing,tdd,aspnetmvc]
 redirect_from: "/archive/2008/05/04/routeevaluator-for-unit-testing-routes.aspx/"
 ---
 

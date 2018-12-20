@@ -2,7 +2,7 @@
 title: Congratulations Kyle and Cara!
 date: 2004-08-29 -0800
 disqus_identifier: 985
-categories: []
+tags: []
 redirect_from: "/archive/2004/08/28/congratulations-kyle-and-cara.aspx/"
 ---
 

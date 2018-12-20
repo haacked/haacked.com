@@ -2,7 +2,7 @@
 title: Introducing Cody Yokoyama Haack
 date: 2007-06-06 -0800
 disqus_identifier: 18344
-categories: [personal]
+tags: [personal]
 redirect_from: "/archive/2007/06/05/introducing-cody-yokoyama-haack.aspx/"
 ---
 

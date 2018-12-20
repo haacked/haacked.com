@@ -2,7 +2,7 @@
 title: Clearing A Path In Baghdad With Half-Liter Water Bottles
 date: 2005-02-08 -0800
 disqus_identifier: 2121
-categories: []
+tags: []
 redirect_from: "/archive/2005/02/07/clearing-a-path-in-baghdad-with-half-liter-water-bottles.aspx/"
 ---
 

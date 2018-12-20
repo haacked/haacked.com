@@ -2,7 +2,7 @@
 title: The Using Statement And Disposable Value Types
 date: 2006-08-11 -0800
 disqus_identifier: 14845
-categories: []
+tags: []
 redirect_from: "/archive/2006/08/10/TheUsingStatementAndDisposableValueTypes.aspx/"
 ---
 

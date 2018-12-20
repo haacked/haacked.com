@@ -2,7 +2,7 @@
 title: Getting Real
 date: 2006-10-27 -0800
 disqus_identifier: 18116
-categories: []
+tags: []
 redirect_from: "/archive/2006/10/26/Getting_Real.aspx/"
 ---
 

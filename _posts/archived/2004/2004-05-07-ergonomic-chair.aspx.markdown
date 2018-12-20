@@ -2,7 +2,7 @@
 title: Ergonomic Chair
 date: 2004-05-07 -0800
 disqus_identifier: 419
-categories: []
+tags: []
 redirect_from: "/archive/2004/05/06/ergonomic-chair.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Batch SVN Rename
 date: 2006-09-20 -0800
 disqus_identifier: 16929
-categories: []
+tags: []
 redirect_from: "/archive/2006/09/19/Batch_SVN_Rename.aspx/"
 ---
 

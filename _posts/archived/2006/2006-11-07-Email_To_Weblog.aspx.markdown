@@ -2,7 +2,7 @@
 title: Email To Weblog
 date: 2006-11-07 -0800
 disqus_identifier: 18132
-categories: []
+tags: []
 redirect_from: "/archive/2006/11/06/Email_To_Weblog.aspx/"
 ---
 

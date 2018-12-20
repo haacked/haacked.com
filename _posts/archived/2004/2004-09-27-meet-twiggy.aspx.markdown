@@ -2,7 +2,7 @@
 title: Meet Twiggy
 date: 2004-09-27 -0800
 disqus_identifier: 1278
-categories: []
+tags: []
 redirect_from: "/archive/2004/09/26/meet-twiggy.aspx/"
 ---
 

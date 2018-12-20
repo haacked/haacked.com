@@ -2,7 +2,7 @@
 title: Admitting Your Addiction Is The First Step
 date: 2006-05-11 -0800
 disqus_identifier: 12747
-categories: []
+tags: []
 redirect_from: "/archive/2006/05/10/AdmittingYourAddictionIsTheFirstStep.aspx/"
 ---
 

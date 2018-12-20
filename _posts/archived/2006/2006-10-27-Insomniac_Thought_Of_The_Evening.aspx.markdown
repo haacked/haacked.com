@@ -2,7 +2,7 @@
 title: Insomniac Thought Of The Evening
 date: 2006-10-27 -0800
 disqus_identifier: 18118
-categories: []
+tags: []
 redirect_from: "/archive/2006/10/26/Insomniac_Thought_Of_The_Evening.aspx/"
 ---
 

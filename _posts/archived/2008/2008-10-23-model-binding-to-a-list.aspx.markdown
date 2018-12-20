@@ -2,7 +2,7 @@
 title: Model Binding To A List
 date: 2008-10-23 -0800
 disqus_identifier: 18542
-categories: [aspnetmvc]
+tags: [aspnetmvc]
 redirect_from: "/archive/2008/10/22/model-binding-to-a-list.aspx/"
 ---
 

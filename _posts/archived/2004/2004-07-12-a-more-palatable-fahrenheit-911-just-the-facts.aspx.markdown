@@ -2,7 +2,7 @@
 title: A More Palatable Fahrenheit 9/11, Just the Facts...
 date: 2004-07-12 -0800
 disqus_identifier: 806
-categories: []
+tags: []
 redirect_from: "/archive/2004/07/11/a-more-palatable-fahrenheit-911-just-the-facts.aspx/"
 ---
 

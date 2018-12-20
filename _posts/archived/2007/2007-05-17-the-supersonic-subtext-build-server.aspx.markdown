@@ -2,7 +2,7 @@
 title: The SuperSonic Subtext Build Server
 date: 2007-05-17 -0800
 disqus_identifier: 18316
-categories: []
+tags: []
 redirect_from: "/archive/2007/05/16/the-supersonic-subtext-build-server.aspx/"
 ---
 

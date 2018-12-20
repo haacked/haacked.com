@@ -2,7 +2,7 @@
 title: Quick CSS Optimization Tip
 date: 2007-03-15 -0800
 disqus_identifier: 18243
-categories: []
+tags: []
 redirect_from: "/archive/2007/03/14/quick-css-optimization-tip.aspx/"
 ---
 

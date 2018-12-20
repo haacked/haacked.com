@@ -2,7 +2,7 @@
 title: Washington Mutual Upgrades to ASP.NET
 date: 2006-07-21 -0800
 disqus_identifier: 14028
-categories: []
+tags: []
 redirect_from: "/archive/2006/07/20/WashingtonMutualUpgradesToASP.NET.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: DotNetKicks Going Open Source
 date: 2007-03-20 -0800
 disqus_identifier: 18255
-categories: []
+tags: []
 redirect_from: "/archive/2007/03/19/dotnetkicks-going-open-source.aspx/"
 ---
 

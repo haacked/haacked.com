@@ -2,7 +2,7 @@
 title: See Your Name In Pictures!
 date: 2005-07-14 -0800
 disqus_identifier: 8754
-categories: []
+tags: []
 redirect_from: "/archive/2005/07/13/see-your-name-in-pictures.aspx/"
 ---
 

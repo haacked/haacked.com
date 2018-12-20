@@ -2,7 +2,7 @@
 title: Installing Ubuntu on Virtual PC for Windows Lovers
 date: 2007-05-06 -0800
 disqus_identifier: 18303
-categories: []
+tags: []
 redirect_from: "/archive/2007/05/05/installing-ubuntu-on-virtual-pc-for-windows-lovers.aspx/"
 ---
 

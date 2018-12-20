@@ -2,7 +2,7 @@
 title: Looking Directly At Me Is Forbidden
 date: 2005-01-20 -0800
 disqus_identifier: 1938
-categories: []
+tags: []
 redirect_from: "/archive/2005/01/19/looking-directly-at-me-is-forbidden.aspx/"
 ---
 

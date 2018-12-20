@@ -2,7 +2,7 @@
 title: Back in Business
 date: 2009-12-14 -0800
 disqus_identifier: 18665
-categories: [blogging]
+tags: [blogging]
 redirect_from: "/archive/2009/12/13/back-in-business-again.aspx/"
 ---
 

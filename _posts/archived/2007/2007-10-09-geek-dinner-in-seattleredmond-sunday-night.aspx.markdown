@@ -2,7 +2,7 @@
 title: Geek Dinner In Seattle/Redmond Sunday Night
 date: 2007-10-09 -0800
 disqus_identifier: 18406
-categories: []
+tags: []
 redirect_from: "/archive/2007/10/08/geek-dinner-in-seattleredmond-sunday-night.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: The Shoe Cobblers Kids
 date: 2006-03-02 -0800
 disqus_identifier: 11940
-categories: []
+tags: []
 redirect_from: "/archive/2006/03/01/TheShoeCobblersKids.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Star Wars Kid
 date: 2004-02-05 -0800
 disqus_identifier: 172
-categories: []
+tags: []
 redirect_from: "/archive/2004/02/04/star-wars-kid.aspx/"
 ---
 

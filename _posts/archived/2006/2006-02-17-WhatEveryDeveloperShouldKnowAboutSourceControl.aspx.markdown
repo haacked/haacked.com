@@ -2,7 +2,7 @@
 title: What Every Developer Should Know About Source Control
 date: 2006-02-17 -0800
 disqus_identifier: 11821
-categories: []
+tags: []
 redirect_from: "/archive/2006/02/16/WhatEveryDeveloperShouldKnowAboutSourceControl.aspx/"
 ---
 

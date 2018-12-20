@@ -2,7 +2,7 @@
 title: SearchDotNet.com
 date: 2006-10-25 -0800
 disqus_identifier: 18107
-categories: []
+tags: []
 redirect_from: "/archive/2006/10/24/SearchDotNet.com.aspx/"
 ---
 

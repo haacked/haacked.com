@@ -2,7 +2,7 @@
 title: Race relations at your neighborhood grocery
 date: 2004-02-11 -0800
 disqus_identifier: 186
-categories: []
+tags: []
 redirect_from: "/archive/2004/02/10/race-relations-at-your-neighborhood-grocery.aspx/"
 ---
 

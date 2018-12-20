@@ -2,7 +2,7 @@
 title: 'Question: When Is A Good Time To Call GC.Collect()?'
 date: 2004-08-13 -0800
 disqus_identifier: 918
-categories: []
+tags: []
 redirect_from: "/archive/2004/08/12/question-when-is-a-good-time-to-call-gccollect.aspx/"
 ---
 

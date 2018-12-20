@@ -2,7 +2,7 @@
 title: Using a Decorator to Hook Into A WebControl's Rendering for Better XHTML Compliance
 date: 2006-01-18 -0800
 disqus_identifier: 11537
-categories: []
+tags: []
 redirect_from: "/archive/2006/01/17/UsingaDecoratortoHookIntoAWebControlsRenderingforBetterXHTMLCompliance.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Will RSS Readers Clog the Web?
 date: 2004-04-30 -0800
 disqus_identifier: 395
-categories: []
+tags: []
 redirect_from: "/archive/2004/04/29/will-rss-readers-clog-the-web.aspx/"
 ---
 

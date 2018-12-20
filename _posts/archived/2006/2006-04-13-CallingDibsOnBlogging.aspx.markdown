@@ -2,7 +2,7 @@
 title: Calling Dibs On Blogging
 date: 2006-04-13 -0800
 disqus_identifier: 12406
-categories: []
+tags: []
 redirect_from: "/archive/2006/04/12/CallingDibsOnBlogging.aspx/"
 ---
 

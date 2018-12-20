@@ -2,7 +2,7 @@
 title: StackOverflow at PDC
 date: 2008-09-15 -0800
 disqus_identifier: 18531
-categories: [conferences]
+tags: [conferences]
 redirect_from: "/archive/2008/09/14/stackoverflow-at-pdc.aspx/"
 ---
 

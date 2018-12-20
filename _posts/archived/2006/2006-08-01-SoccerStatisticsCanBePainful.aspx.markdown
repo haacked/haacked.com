@@ -2,7 +2,7 @@
 title: Soccer Statistics Can Be Painful
 date: 2006-08-01 -0800
 disqus_identifier: 14536
-categories: []
+tags: []
 redirect_from: "/archive/2006/07/31/SoccerStatisticsCanBePainful.aspx/"
 ---
 

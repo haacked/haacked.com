@@ -2,7 +2,7 @@
 title: 'FUNNY: Fahrenheit 9/11 Poster'
 date: 2004-06-11 -0800
 disqus_identifier: 614
-categories: []
+tags: []
 redirect_from: "/archive/2004/06/10/funny-fahrenheit-911-poster.aspx/"
 ---
 

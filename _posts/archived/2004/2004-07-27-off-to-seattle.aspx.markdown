@@ -2,7 +2,7 @@
 title: Off to Seattle
 date: 2004-07-27 -0800
 disqus_identifier: 862
-categories: []
+tags: []
 redirect_from: "/archive/2004/07/26/off-to-seattle.aspx/"
 ---
 

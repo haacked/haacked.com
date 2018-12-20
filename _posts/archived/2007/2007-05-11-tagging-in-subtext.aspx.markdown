@@ -2,7 +2,7 @@
 title: Tagging In Subtext
 date: 2007-05-11 -0800
 disqus_identifier: 18308
-categories: []
+tags: []
 redirect_from: "/archive/2007/05/10/tagging-in-subtext.aspx/"
 ---
 

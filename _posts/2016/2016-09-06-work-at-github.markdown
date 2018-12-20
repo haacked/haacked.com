@@ -1,7 +1,7 @@
 ---
 title: "Working at GitHub"
 date: 2016-09-06 -0800
-categories: [management,github,hiring]
+tags: [management,github,hiring]
 ---
 
 I'm coming on five years at GitHub (in December) and I thought I'd write a bit about what I've been up to lately and the fact that several of my teams are hiring. Five years passes by so quickly, right? I still get emails for feature requests on ASP.NET MVC. I always reply that the team would be happy to implement all of the suggestions and to just check the [repository in a week's time](https://github.com/aspnet/Mvc). I'm sure the team loves me for that.

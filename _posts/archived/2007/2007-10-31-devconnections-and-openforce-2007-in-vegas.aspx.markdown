@@ -2,7 +2,7 @@
 title: DevConnections and OpenForce 2007 in Vegas
 date: 2007-10-31 -0800
 disqus_identifier: 18414
-categories: []
+tags: []
 redirect_from: "/archive/2007/10/30/devconnections-and-openforce-2007-in-vegas.aspx/"
 ---
 

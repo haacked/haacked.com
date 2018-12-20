@@ -2,7 +2,7 @@
 title: Burning My Feeds
 date: 2007-03-08 -0800
 disqus_identifier: 18230
-categories: []
+tags: []
 redirect_from: "/archive/2007/03/07/Burning_My_Feeds.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: The Bell Ringer
 date: 2005-11-01 -0800
 disqus_identifier: 11073
-categories: []
+tags: []
 redirect_from: "/archive/2005/10/31/the-bell-ringer.aspx/"
 ---
 

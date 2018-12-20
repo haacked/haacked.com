@@ -2,7 +2,7 @@
 title: Collection Initializers
 date: 2008-01-06 -0800
 disqus_identifier: 18446
-categories: [csharp,initializers]
+tags: [csharp,initializers]
 redirect_from: "/archive/2008/01/05/collection-initializers.aspx/"
 ---
 

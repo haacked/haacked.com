@@ -2,7 +2,7 @@
 title: Greatness
 date: 2005-12-06 -0800
 disqus_identifier: 11307
-categories: []
+tags: []
 redirect_from: "/archive/2005/12/05/greatness.aspx/"
 ---
 

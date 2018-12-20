@@ -2,7 +2,7 @@
 title: GhostDoc 1.3.0 Released!
 date: 2005-10-02 -0800
 disqus_identifier: 10578
-categories: []
+tags: []
 redirect_from: "/archive/2005/10/01/ghostdoc-130-released.aspx/"
 ---
 

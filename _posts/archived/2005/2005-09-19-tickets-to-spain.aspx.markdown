@@ -2,7 +2,7 @@
 title: Tickets to Spain
 date: 2005-09-19 -0800
 disqus_identifier: 10245
-categories: []
+tags: []
 redirect_from: "/archive/2005/09/18/tickets-to-spain.aspx/"
 ---
 

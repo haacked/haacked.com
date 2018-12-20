@@ -2,7 +2,7 @@
 title: My Sandwich Compartment Forehead
 date: 2006-09-18 -0800
 disqus_identifier: 16802
-categories: []
+tags: []
 redirect_from: "/archive/2006/09/17/My_Sandwich_Compartment_ForeheadAgain.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Windows Developer Tools Day
 date: 2007-01-19 -0800
 disqus_identifier: 18195
-categories: []
+tags: []
 redirect_from: "/archive/2007/01/18/Windows_Developer_Tools_Day.aspx/"
 ---
 

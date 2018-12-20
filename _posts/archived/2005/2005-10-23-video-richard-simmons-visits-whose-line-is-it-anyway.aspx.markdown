@@ -2,7 +2,7 @@
 title: 'VIDEO: Richard Simmons Visits Whose Line Is It Anyway.'
 date: 2005-10-23 -0800
 disqus_identifier: 10969
-categories: []
+tags: []
 redirect_from: "/archive/2005/10/22/video-richard-simmons-visits-whose-line-is-it-anyway.aspx/"
 ---
 

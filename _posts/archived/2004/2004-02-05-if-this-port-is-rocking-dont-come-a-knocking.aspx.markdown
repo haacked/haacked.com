@@ -2,7 +2,7 @@
 title: If this port is rocking, don't come a knocking
 date: 2004-02-05 -0800
 disqus_identifier: 171
-categories: [security,networking]
+tags: [security,networking]
 redirect_from: "/archive/2004/02/04/if-this-port-is-rocking-dont-come-a-knocking.aspx/"
 ---
 

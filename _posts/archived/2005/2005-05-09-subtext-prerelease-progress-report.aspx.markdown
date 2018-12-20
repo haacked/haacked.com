@@ -2,7 +2,7 @@
 title: Subtext Progress Report
 date: 2005-05-09 -0800
 disqus_identifier: 3120
-categories: [subtext]
+tags: [subtext]
 redirect_from: "/archive/2005/05/08/subtext-prerelease-progress-report.aspx/"
 ---
 

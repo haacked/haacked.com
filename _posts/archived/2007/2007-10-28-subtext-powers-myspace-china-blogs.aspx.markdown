@@ -2,7 +2,7 @@
 title: MySpace China Blogs Powered By Subtext
 date: 2007-10-28 -0800
 disqus_identifier: 18412
-categories: [subtext,blogging]
+tags: [subtext,blogging]
 redirect_from: "/archive/2007/10/27/subtext-powers-myspace-china-blogs.aspx/"
 ---
 

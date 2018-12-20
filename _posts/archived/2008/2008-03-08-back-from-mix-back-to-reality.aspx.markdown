@@ -2,7 +2,7 @@
 title: Back From Mix Back To Reality
 date: 2008-03-08 -0800
 disqus_identifier: 18460
-categories: [personal,travel,conferences]
+tags: [personal,travel,conferences]
 redirect_from: "/archive/2008/03/07/back-from-mix-back-to-reality.aspx/"
 ---
 

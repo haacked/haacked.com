@@ -2,7 +2,7 @@
 title: Subtext 1.9 Update
 date: 2006-08-16 -0800
 disqus_identifier: 15242
-categories: []
+tags: []
 redirect_from: "/archive/2006/08/15/Subtext1.9Update.aspx/"
 ---
 

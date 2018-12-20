@@ -2,7 +2,7 @@
 title: 'Evaluating Free Desktop Search Options: Copernic'
 date: 2004-10-18 -0800
 disqus_identifier: 1404
-categories: []
+tags: []
 redirect_from: "/archive/2004/10/17/evaluating-free-desktop-search-options-copernic.aspx/"
 ---
 

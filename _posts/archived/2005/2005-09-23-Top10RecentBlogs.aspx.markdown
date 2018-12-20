@@ -2,7 +2,7 @@
 title: 'MEME: Top 10 Recent Blogs'
 date: 2005-09-23 -0800
 disqus_identifier: 10326
-categories: []
+tags: []
 redirect_from: "/archive/2005/09/22/Top10RecentBlogs.aspx/"
 ---
 

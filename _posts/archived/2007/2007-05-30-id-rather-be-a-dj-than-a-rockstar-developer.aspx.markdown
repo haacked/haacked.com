@@ -2,7 +2,7 @@
 title: I'd Rather Be a DJ Than A Rockstar Developer
 date: 2007-05-30 -0800
 disqus_identifier: 18334
-categories: []
+tags: []
 redirect_from: "/archive/2007/05/29/id-rather-be-a-dj-than-a-rockstar-developer.aspx/"
 ---
 

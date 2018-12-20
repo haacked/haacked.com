@@ -2,7 +2,7 @@
 title: Strict Traffic Laws
 date: 2005-01-02 -0800
 disqus_identifier: 1798
-categories: []
+tags: []
 redirect_from: "/archive/2005/01/01/strict-traffic-laws.aspx/"
 ---
 

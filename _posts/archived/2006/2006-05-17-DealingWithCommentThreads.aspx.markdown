@@ -2,7 +2,7 @@
 title: Dealing with Comment Threads
 date: 2006-05-17 -0800
 disqus_identifier: 12837
-categories: []
+tags: []
 redirect_from: "/archive/2006/05/16/DealingWithCommentThreads.aspx/"
 ---
 

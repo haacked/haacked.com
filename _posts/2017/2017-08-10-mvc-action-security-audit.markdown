@@ -1,7 +1,7 @@
 ---
 title: "Auditing ASP.NET MVC Actions"
 date: 2017-08-10 -0800
-categories: [aspnetmvc,security]
+tags: [aspnetmvc,security]
 ---
 
 > Phil Haack is writing a blog post about ASP.NET MVC? What is this, 2011?

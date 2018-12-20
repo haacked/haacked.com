@@ -2,7 +2,7 @@
 title: Is It A Hate Crime If It Happens In An Online Game
 date: 2006-01-27 -0800
 disqus_identifier: 11611
-categories: []
+tags: []
 redirect_from: "/archive/2006/01/26/IsItAHateCrimeIfItHappensInAnOnlineGame.aspx/"
 ---
 

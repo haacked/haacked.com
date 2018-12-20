@@ -2,7 +2,7 @@
 title: Dave Winer Misses The Point With Fahrenheit 9/11
 date: 2004-06-30 -0800
 disqus_identifier: 711
-categories: []
+tags: []
 redirect_from: "/archive/2004/06/29/dave-winer-misses-the-point-with-fahrenheit-911.aspx/"
 ---
 

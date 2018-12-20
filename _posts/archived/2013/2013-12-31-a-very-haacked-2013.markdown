@@ -1,7 +1,7 @@
 ---
 title: "A Very Haacked 2013"
 date: 2013-12-31 -0800
-categories: [blogging,personal]
+tags: [blogging,personal]
 ---
 
 Another year comes to an end and tradition demands that I write a recap for the year. But it doesn't require that I write a very good one.

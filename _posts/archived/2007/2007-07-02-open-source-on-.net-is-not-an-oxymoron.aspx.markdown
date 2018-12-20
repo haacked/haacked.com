@@ -2,7 +2,7 @@
 title: Open Source On .NET Is Not An Oxymoron
 date: 2007-07-02 -0800
 disqus_identifier: 18363
-categories: []
+tags: []
 redirect_from: "/archive/2007/07/01/open-source-on-.net-is-not-an-oxymoron.aspx/"
 ---
 

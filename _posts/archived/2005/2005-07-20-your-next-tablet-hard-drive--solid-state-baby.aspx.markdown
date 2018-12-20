@@ -2,7 +2,7 @@
 title: Your Next Tablet Hard Drive - Solid State Baby
 date: 2005-07-20 -0800
 disqus_identifier: 8920
-categories: []
+tags: []
 redirect_from: "/archive/2005/07/19/your-next-tablet-hard-drive--solid-state-baby.aspx/"
 ---
 

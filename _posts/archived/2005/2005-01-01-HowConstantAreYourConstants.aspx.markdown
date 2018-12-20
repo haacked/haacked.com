@@ -2,7 +2,7 @@
 title: How Constant Are Your Constants in .NET
 date: 2005-01-01 -0800
 disqus_identifier: 1796
-categories: []
+tags: []
 redirect_from: "/archive/2004/12/31/HowConstantAreYourConstants.aspx/"
 ---
 

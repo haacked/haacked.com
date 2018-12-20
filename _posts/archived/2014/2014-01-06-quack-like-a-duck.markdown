@@ -1,7 +1,7 @@
 ---
 title: "But does it quack like a duck?"
 date: 2014-01-06 -0800
-categories: [code]
+tags: [code]
 ---
 
 From the topic of this and [my last post](https://haacked.com/archive/2014/01/04/duck-typing/), you would be excused if you think I have some weird fascination with ducks. In fact, I'm starting to question it myself.

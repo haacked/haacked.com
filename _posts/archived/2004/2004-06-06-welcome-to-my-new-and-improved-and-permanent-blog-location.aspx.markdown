@@ -2,7 +2,7 @@
 title: Welcome To My New And Improved (And Permanent) Blog Location
 date: 2004-06-06 -0800
 disqus_identifier: 535
-categories: []
+tags: []
 redirect_from: "/archive/2004/06/05/welcome-to-my-new-and-improved-and-permanent-blog-location.aspx/"
 ---
 

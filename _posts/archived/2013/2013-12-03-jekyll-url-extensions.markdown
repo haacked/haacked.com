@@ -1,7 +1,7 @@
 ---
 title: "Preserve URL Extensions with Jekyll"
 date: 2013-12-03 -0800
-categories: [jekyll]
+tags: [jekyll]
 ---
 
 In [my last post](/archive/2013/12/02/dr-jekyll-and-mr-haack/) I wrote about migrating my blog to Jekyll and GitHub Pages. Travis Illig, a long time Subtext user asked me the following question:

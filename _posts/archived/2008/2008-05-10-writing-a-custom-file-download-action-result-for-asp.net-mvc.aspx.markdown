@@ -2,7 +2,7 @@
 title: Writing A Custom File Download Action Result For ASP.NET MVC
 date: 2008-05-10 -0800
 disqus_identifier: 18484
-categories: [aspnetmvc]
+tags: [aspnetmvc]
 redirect_from: "/archive/2008/05/09/writing-a-custom-file-download-action-result-for-asp.net-mvc.aspx/"
 ---
 

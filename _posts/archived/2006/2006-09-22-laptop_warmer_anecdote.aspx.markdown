@@ -2,7 +2,7 @@
 title: Laptop Warmer Anecdote
 date: 2006-09-22 -0800
 disqus_identifier: 17061
-categories: []
+tags: []
 redirect_from: "/archive/2006/09/21/laptop_warmer_anecdote.aspx/"
 ---
 

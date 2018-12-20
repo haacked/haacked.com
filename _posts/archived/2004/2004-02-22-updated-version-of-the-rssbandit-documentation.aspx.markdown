@@ -2,7 +2,7 @@
 title: Updated version of the RssBandit documentation
 date: 2004-02-22 -0800
 disqus_identifier: 204
-categories: []
+tags: []
 redirect_from: "/archive/2004/02/21/updated-version-of-the-rssbandit-documentation.aspx/"
 ---
 

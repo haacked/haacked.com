@@ -1,7 +1,7 @@
 ---
 title: "On .NET and Other Things"
 date: 2017-02-14 -0800
-categories: [github,dotnet,aspdotnet,microsoft]
+tags: [github,dotnet,aspdotnet,microsoft]
 ---
 
 Yesterday was the 15th anniversary of .NET's debut to the world. And Visual Studio was first released twenty years ago! In a [recent episode of On .NET](https://blogs.msdn.microsoft.com/dotnet/2017/02/14/the-week-in-net-on-net-with-phil-haack-readline/), I went to the Channel 9 studios to talk a bit about the history of .NET, my work at GitHub, and challenges to .NET's future success among other random diversions.

@@ -2,7 +2,7 @@
 title: e is a magic number
 date: 2004-04-30 -0800
 disqus_identifier: 396
-categories: []
+tags: []
 redirect_from: "/archive/2004/04/29/e-is-a-magic-number.aspx/"
 ---
 

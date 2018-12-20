@@ -2,7 +2,7 @@
 title: A Response To Shelley
 date: 2004-08-18 -0800
 disqus_identifier: 938
-categories: []
+tags: []
 redirect_from: "/archive/2004/08/17/a-response-to-shelley.aspx/"
 ---
 

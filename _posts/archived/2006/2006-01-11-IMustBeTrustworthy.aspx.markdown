@@ -2,7 +2,7 @@
 title: I Must Be Trustworthy
 date: 2006-01-11 -0800
 disqus_identifier: 11473
-categories: []
+tags: []
 redirect_from: "/archive/2006/01/10/IMustBeTrustworthy.aspx/"
 ---
 

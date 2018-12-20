@@ -2,7 +2,7 @@
 title: The IIS 7 Team Rocks!
 date: 2007-05-21 -0800
 disqus_identifier: 18324
-categories: []
+tags: []
 redirect_from: "/archive/2007/05/20/the-iis-7-team-rocks.aspx/"
 ---
 

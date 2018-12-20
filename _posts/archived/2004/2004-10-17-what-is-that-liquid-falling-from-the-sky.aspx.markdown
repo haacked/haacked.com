@@ -2,7 +2,7 @@
 title: What Is That Liquid Falling From The Sky?
 date: 2004-10-17 -0800
 disqus_identifier: 1383
-categories: []
+tags: []
 redirect_from: "/archive/2004/10/16/what-is-that-liquid-falling-from-the-sky.aspx/"
 ---
 

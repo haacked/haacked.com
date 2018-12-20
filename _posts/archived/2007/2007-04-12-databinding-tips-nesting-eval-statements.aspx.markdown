@@ -2,7 +2,7 @@
 title: 'Databinding Tips: Nesting Eval Statements'
 date: 2007-04-12 -0800
 disqus_identifier: 18279
-categories: []
+tags: []
 redirect_from: "/archive/2007/04/11/databinding-tips-nesting-eval-statements.aspx/"
 ---
 

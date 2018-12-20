@@ -1,7 +1,7 @@
 ---
 title: "Classic Manhattan"
 date: 2014-10-25 -0800
-categories: [personal]
+tags: [personal]
 ---
 
 For most of my life, I was a man without a drink.

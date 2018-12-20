@@ -2,7 +2,7 @@
 title: Reflections On The Release
 date: 2006-03-02 -0800
 disqus_identifier: 11943
-categories: []
+tags: []
 redirect_from: "/archive/2006/03/01/ReflectionsOnTheRelease.aspx/"
 ---
 

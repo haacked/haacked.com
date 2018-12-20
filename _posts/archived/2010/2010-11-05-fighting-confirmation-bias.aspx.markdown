@@ -2,7 +2,7 @@
 title: Fighting Confirmation Bias
 date: 2010-11-05 -0800
 disqus_identifier: 18734
-categories: []
+tags: []
 redirect_from: "/archive/2010/11/04/fighting-confirmation-bias.aspx/"
 ---
 

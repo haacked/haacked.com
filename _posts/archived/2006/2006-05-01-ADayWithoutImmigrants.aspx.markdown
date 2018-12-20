@@ -2,7 +2,7 @@
 title: A Day Without Immigrants
 date: 2006-05-01 -0800
 disqus_identifier: 12614
-categories: []
+tags: []
 redirect_from: "/archive/2006/04/30/ADayWithoutImmigrants.aspx/"
 ---
 

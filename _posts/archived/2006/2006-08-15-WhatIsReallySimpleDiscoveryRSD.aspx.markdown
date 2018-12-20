@@ -2,7 +2,7 @@
 title: What Is Really Simple Discovery (RSD)?
 date: 2006-08-15 -0800
 disqus_identifier: 14972
-categories: []
+tags: []
 redirect_from: "/archive/2006/08/14/WhatIsReallySimpleDiscoveryRSD.aspx/"
 ---
 

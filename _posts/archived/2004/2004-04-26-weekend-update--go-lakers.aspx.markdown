@@ -2,7 +2,7 @@
 title: Weekend Update - Go Lakers!
 date: 2004-04-26 -0800
 disqus_identifier: 368
-categories: []
+tags: []
 redirect_from: "/archive/2004/04/25/weekend-update--go-lakers.aspx/"
 ---
 

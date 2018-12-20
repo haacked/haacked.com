@@ -2,7 +2,7 @@
 title: 'The Onion: Organizers Fear Terrorist Attacks On Upcoming Al-Qaeda Convention'
 date: 2004-09-21 -0800
 disqus_identifier: 1246
-categories: []
+tags: []
 redirect_from: "/archive/2004/09/20/the-onion-organizers-fear-terrorist-attacks-on-upcoming-al-qaeda-convention.aspx/"
 ---
 

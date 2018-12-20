@@ -2,7 +2,7 @@
 title: What Is a Blog Worth?
 date: 2005-11-03 -0800
 disqus_identifier: 11121
-categories: []
+tags: []
 redirect_from: "/archive/2005/11/02/what-is-a-blog-worth.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Rollback Attribute for NUnit 2.2.1 and Above
 date: 2005-06-10 -0800
 disqus_identifier: 4580
-categories: []
+tags: []
 redirect_from: "/archive/2005/06/09/rollback-attribute-for-nunit-221-and-above.aspx/"
 ---
 

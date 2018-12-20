@@ -2,7 +2,7 @@
 title: What a Shitty Day
 date: 2005-05-08 -0800
 disqus_identifier: 3079
-categories: []
+tags: []
 redirect_from: "/archive/2005/05/07/what-a-shitty-day.aspx/"
 ---
 

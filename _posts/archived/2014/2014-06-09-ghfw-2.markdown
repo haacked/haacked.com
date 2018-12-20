@@ -1,7 +1,7 @@
 ---
 title: "GitHub for Windows 2.0"
 date: 2014-06-09 -0800
-categories: [ghfw,github]
+tags: [ghfw,github]
 ---
 
 Today we released [GitHub for Windows 2.0](https://windows.github.com/) after a long development cycle. You can read some [details about the release on the GitHub blog](https://github.com/blog/1844-say-hello-to-github-for-windows-2-0).

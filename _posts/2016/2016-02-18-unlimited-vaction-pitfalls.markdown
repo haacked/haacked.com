@@ -1,7 +1,7 @@
 ---
 title: "Pitfalls of Unlimited Vacations"
 date: 2016-02-18 -0800
-categories: [hr,vacation]
+tags: [hr,vacation]
 ---
 
 > Vacation, All I ever wanted  

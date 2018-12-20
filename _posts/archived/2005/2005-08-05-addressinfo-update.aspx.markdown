@@ -2,7 +2,7 @@
 title: AddressInfo Update
 date: 2005-08-05 -0800
 disqus_identifier: 9228
-categories: [code]
+tags: [code]
 redirect_from: "/archive/2005/08/04/addressinfo-update.aspx/"
 ---
 

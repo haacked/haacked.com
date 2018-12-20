@@ -2,7 +2,7 @@
 title: Dogfooding My Blog
 date: 2006-10-12 -0800
 disqus_identifier: 18088
-categories: []
+tags: []
 redirect_from: "/archive/2006/10/11/Dogfooding_My_Blog.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: The Only Universal Language In Software Is English
 date: 2007-05-28 -0800
 disqus_identifier: 18332
-categories: []
+tags: []
 redirect_from: "/archive/2007/05/27/the-only-universal-language-in-software-is-english.aspx/"
 ---
 

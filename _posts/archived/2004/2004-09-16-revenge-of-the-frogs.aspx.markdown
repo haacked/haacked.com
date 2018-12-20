@@ -2,7 +2,7 @@
 title: Revenge Of The Frogs
 date: 2004-09-16 -0800
 disqus_identifier: 1224
-categories: []
+tags: []
 redirect_from: "/archive/2004/09/15/revenge-of-the-frogs.aspx/"
 ---
 

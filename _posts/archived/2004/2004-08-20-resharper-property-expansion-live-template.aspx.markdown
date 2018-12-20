@@ -5,7 +5,7 @@ disqus_identifier: 954
 redirect_from:
 - "/archive/2004/08/20/954.aspx.html"
 - "/archive/2004/08/19/resharper-property-expansion-live-template.aspx/"
-categories: []
+tags: []
 ---
 
 One thing I liked about CodeRush is that it came with several property

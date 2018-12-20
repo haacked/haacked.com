@@ -2,7 +2,7 @@
 title: What Feature Should Be Removed?
 date: 2006-10-27 -0800
 disqus_identifier: 18117
-categories: []
+tags: []
 redirect_from: "/archive/2006/10/26/What_Feature_Should_Be_Removed.aspx/"
 ---
 

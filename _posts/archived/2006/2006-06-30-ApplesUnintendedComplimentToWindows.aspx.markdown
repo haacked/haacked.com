@@ -2,7 +2,7 @@
 title: Apple's Unintended Compliment To PCs
 date: 2006-06-30 -0800
 disqus_identifier: 13594
-categories: []
+tags: []
 redirect_from: "/archive/2006/06/29/ApplesUnintendedComplimentToWindows.aspx/"
 ---
 

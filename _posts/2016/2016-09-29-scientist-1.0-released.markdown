@@ -1,7 +1,7 @@
 ---
 title: "Scientist.NET 1.0 released!"
 date: 2016-09-29 -0800
-categories: [github,csharp,dotnet,scientist]
+tags: [github,csharp,dotnet,scientist]
 ---
 
 In the beginning of the year I [announced a .NET Port](https://haacked.com/archive/2016/01/20/scientist/) of GitHub's [Scientist library](http://githubengineering.com/scientist/). Since then I and several [contributors from the community](https://github.com/github/scientist.net/graphs/contributors) (kudos to them all!) have been hard at work getting this library to 1.0 status. Ok, maybe not that hard considering how long it's taken. This has been a side project labor of love for me and the others.

@@ -2,7 +2,7 @@
 title: "Phil Haack is no longer a GitHubber"
 description: "Some reflections on my time working at GitHub."
 date: 2018-12-18 -0800 09:04 AM PDT
-categories: [personal,work]
+tags: [personal,work]
 ---
 
 It used to be a tradition at GitHub to announce new hires with a blog post with the pattern, "So and so is a GitHubber." Each post would be accompanied by an image.

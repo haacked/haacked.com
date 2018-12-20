@@ -2,7 +2,7 @@
 title: How 'Dungeons' changed the world
 date: 2004-11-14 -0800
 disqus_identifier: 1614
-categories: []
+tags: []
 redirect_from: "/archive/2004/11/13/how-dungeons-changed-the-world.aspx/"
 ---
 

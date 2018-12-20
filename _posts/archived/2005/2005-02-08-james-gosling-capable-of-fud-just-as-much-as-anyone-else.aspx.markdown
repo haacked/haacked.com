@@ -2,7 +2,7 @@
 title: James Gosling Capable of FUD Just As Much As Anyone Else...
 date: 2005-02-08 -0800
 disqus_identifier: 2115
-categories: []
+tags: []
 redirect_from: "/archive/2005/02/07/james-gosling-capable-of-fud-just-as-much-as-anyone-else.aspx/"
 ---
 

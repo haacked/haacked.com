@@ -2,7 +2,7 @@
 title: ASP.NET MVP Haacked
 date: 2006-04-30 -0800
 disqus_identifier: 12610
-categories: []
+tags: []
 redirect_from: "/archive/2006/04/29/ASP.NETMVPHaacked.aspx/"
 ---
 

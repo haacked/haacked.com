@@ -2,7 +2,7 @@
 title: Windows 2003 Installation Blunder
 date: 2004-04-16 -0800
 disqus_identifier: 332
-categories: []
+tags: []
 redirect_from: "/archive/2004/04/15/windows-2003-installation-blunder.aspx/"
 ---
 

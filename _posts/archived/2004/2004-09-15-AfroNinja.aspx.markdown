@@ -2,7 +2,7 @@
 title: 'FUNNY: Afro Ninja'
 date: 2004-09-15 -0800
 disqus_identifier: 1211
-categories: []
+tags: []
 redirect_from: "/archive/2004/09/14/AfroNinja.aspx/"
 ---
 

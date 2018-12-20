@@ -1,7 +1,7 @@
 ---
 title: "GitHub Inside Your Visual Studio"
 date: 2015-04-30 -0800
-categories: [github,visualstudio]
+tags: [github,visualstudio]
 ---
 
 I heard you liked GitHub, so today [my team put GitHub inside of your Visual Studio](https://github.com/blog/1989-improving-the-github-workflow-for-the-microsoft-community). This has been a [unique collaboration with the Visual Studio team](http://blogs.msdn.com/b/visualstudio/archive/2015/04/30/announcing-the-github-extension-for-visual-studio.aspx). In this post, I'll walk you through installation and the features. I'll then talk a bit about the background for how this came to be.

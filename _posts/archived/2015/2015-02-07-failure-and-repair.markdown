@@ -1,7 +1,7 @@
 ---
 title: "The Inevitability of Failure and Importance of Repair"
 date: 2015-02-07 -0800
-categories: [personal,management]
+tags: [personal,management]
 ---
 
 I'm often amazed at the Sisyphean lengths people will go to try and prevent failure, yet prepare so little for its inevitability. Ed Catmull, president of Pixar, noted the following in his book Creativity Inc.

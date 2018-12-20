@@ -2,7 +2,7 @@
 title: Googlers are Burners
 date: 2004-06-08 -0800
 disqus_identifier: 566
-categories: []
+tags: []
 redirect_from: "/archive/2004/06/07/googlers-are-burners.aspx/"
 ---
 

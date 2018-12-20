@@ -2,7 +2,7 @@
 title: Funny piece of spam
 date: 2004-02-06 -0800
 disqus_identifier: 170
-categories: []
+tags: []
 redirect_from: "/archive/2004/02/05/funny-piece-of-spam.aspx/"
 ---
 

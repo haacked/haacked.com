@@ -2,7 +2,7 @@
 title: Back From Vegas
 date: 2005-08-26 -0800
 disqus_identifier: 9682
-categories: []
+tags: []
 redirect_from: "/archive/2005/08/25/back-from-vegas.aspx/"
 ---
 

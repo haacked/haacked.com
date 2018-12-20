@@ -2,7 +2,7 @@
 title: How Rich Are You?
 date: 2004-11-02 -0800
 disqus_identifier: 1554
-categories: []
+tags: []
 redirect_from: "/archive/2004/11/01/how-rich-are-you.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Google to offer gigabyte of free e-mail
 date: 2004-04-01 -0800
 disqus_identifier: 291
-categories: []
+tags: []
 redirect_from: "/archive/2004/03/31/google-to-offer-gigabyte-of-free-e-mail.aspx/"
 ---
 

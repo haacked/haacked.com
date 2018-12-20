@@ -2,7 +2,7 @@
 title: Bill Bryson Scoops Prize -- for Science Writing
 date: 2004-06-14 -0800
 disqus_identifier: 625
-categories: []
+tags: []
 redirect_from: "/archive/2004/06/13/bill-bryson-scoops-prize--for-science-writing.aspx/"
 ---
 

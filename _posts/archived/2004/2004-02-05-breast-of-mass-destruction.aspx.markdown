@@ -2,7 +2,7 @@
 title: BMD (Breast of Mass Destruction)
 date: 2004-02-05 -0800
 disqus_identifier: 167
-categories: []
+tags: []
 redirect_from: "/archive/2004/02/04/breast-of-mass-destruction.aspx/"
 ---
 

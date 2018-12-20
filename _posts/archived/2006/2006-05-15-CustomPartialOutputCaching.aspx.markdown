@@ -2,7 +2,7 @@
 title: Custom Partial Output Caching
 date: 2006-05-15 -0800
 disqus_identifier: 12791
-categories: []
+tags: []
 redirect_from: "/archive/2006/05/14/CustomPartialOutputCaching.aspx/"
 ---
 

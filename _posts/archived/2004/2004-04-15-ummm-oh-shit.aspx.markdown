@@ -2,7 +2,7 @@
 title: Ummm... oh shit...
 date: 2004-04-15 -0800
 disqus_identifier: 325
-categories: []
+tags: []
 redirect_from: "/archive/2004/04/14/ummm-oh-shit.aspx/"
 ---
 

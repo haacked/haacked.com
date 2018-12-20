@@ -2,7 +2,7 @@
 title: Happy Belated Birthday To Us!
 date: 2006-07-27 -0800
 disqus_identifier: 14325
-categories: []
+tags: []
 redirect_from: "/archive/2006/07/26/HappyBelatedBirthdayToUs.aspx/"
 ---
 

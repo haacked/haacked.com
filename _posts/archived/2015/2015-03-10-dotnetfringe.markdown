@@ -1,7 +1,7 @@
 ---
 title: "The Fringe of .NET "
 date: 2015-03-10 -0800
-categories: [personal,dotnet,oss]
+tags: [personal,dotnet,oss]
 ---
 
 Unless you live in a cave, you are probably aware of the large leaps forward Microsoft and .NET has made in the open source community.

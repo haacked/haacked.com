@@ -2,7 +2,7 @@
 title: IPod DJ Mixer
 date: 2005-07-21 -0800
 disqus_identifier: 8960
-categories: []
+tags: []
 redirect_from: "/archive/2005/07/20/ipod-dj-mixer.aspx/"
 ---
 

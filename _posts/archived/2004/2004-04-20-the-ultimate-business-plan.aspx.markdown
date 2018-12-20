@@ -2,7 +2,7 @@
 title: The Ultimate Business Plan.
 date: 2004-04-20 -0800
 disqus_identifier: 338
-categories: []
+tags: []
 redirect_from: "/archive/2004/04/19/the-ultimate-business-plan.aspx/"
 ---
 

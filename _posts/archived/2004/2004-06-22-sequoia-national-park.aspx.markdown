@@ -2,7 +2,7 @@
 title: Sequoia National Park
 date: 2004-06-22 -0800
 disqus_identifier: 666
-categories: []
+tags: []
 redirect_from: "/archive/2004/06/21/sequoia-national-park.aspx/"
 ---
 

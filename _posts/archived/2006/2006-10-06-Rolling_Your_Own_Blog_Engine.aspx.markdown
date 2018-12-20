@@ -2,7 +2,7 @@
 title: Rolling Your Own Blog Engine
 date: 2006-10-06 -0800
 disqus_identifier: 17779
-categories: []
+tags: []
 redirect_from: "/archive/2006/10/05/Rolling_Your_Own_Blog_Engine.aspx/"
 ---
 

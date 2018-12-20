@@ -2,7 +2,7 @@
 title: HttpModule For Timing Requests
 date: 2008-07-02 -0800
 disqus_identifier: 18501
-categories: [aspnetmvc]
+tags: [aspnetmvc]
 redirect_from: "/archive/2008/07/01/httpmodule-for-timing-requests.aspx/"
 ---
 

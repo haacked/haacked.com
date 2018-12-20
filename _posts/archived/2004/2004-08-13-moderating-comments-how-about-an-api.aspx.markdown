@@ -2,7 +2,7 @@
 title: Moderating Comments. How About An API?
 date: 2004-08-13 -0800
 disqus_identifier: 919
-categories: []
+tags: []
 redirect_from: "/archive/2004/08/12/moderating-comments-how-about-an-api.aspx/"
 ---
 

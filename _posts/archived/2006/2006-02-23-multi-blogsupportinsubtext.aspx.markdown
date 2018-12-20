@@ -2,7 +2,7 @@
 title: Multi-Blog Support In Subtext
 date: 2006-02-23 -0800
 disqus_identifier: 11860
-categories: []
+tags: []
 redirect_from: "/archive/2006/02/22/multi-blogsupportinsubtext.aspx/"
 ---
 

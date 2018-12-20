@@ -2,7 +2,7 @@
 title: Michael Moore's Blog
 date: 2004-07-05 -0800
 disqus_identifier: 772
-categories: []
+tags: []
 redirect_from: "/archive/2004/07/04/michael-moores-blog.aspx/"
 ---
 

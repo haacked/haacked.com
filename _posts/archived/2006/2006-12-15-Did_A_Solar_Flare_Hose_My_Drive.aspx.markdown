@@ -2,7 +2,7 @@
 title: Did A Solar Flare Hose My Drive?
 date: 2006-12-15 -0800
 disqus_identifier: 18170
-categories: []
+tags: []
 redirect_from: "/archive/2006/12/14/Did_A_Solar_Flare_Hose_My_Drive.aspx/"
 ---
 

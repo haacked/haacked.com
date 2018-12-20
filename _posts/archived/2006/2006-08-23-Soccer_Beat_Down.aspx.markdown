@@ -2,7 +2,7 @@
 title: Soccer Beat Down
 date: 2006-08-23 -0800
 disqus_identifier: 15883
-categories: []
+tags: []
 redirect_from: "/archive/2006/08/22/Soccer_Beat_Down.aspx/"
 ---
 

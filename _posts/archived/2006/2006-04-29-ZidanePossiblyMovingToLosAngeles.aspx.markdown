@@ -2,7 +2,7 @@
 title: Zidane Possibly Moving To Los Angeles
 date: 2006-04-29 -0800
 disqus_identifier: 12602
-categories: []
+tags: []
 redirect_from: "/archive/2006/04/28/ZidanePossiblyMovingToLosAngeles.aspx/"
 ---
 

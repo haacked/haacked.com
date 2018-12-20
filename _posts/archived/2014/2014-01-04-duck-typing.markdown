@@ -1,7 +1,7 @@
 ---
 title: "Duck Typing Is More Than Quackery"
 date: 2014-01-04 00:32 -0800
-categories: [code]
+tags: [code]
 ---
 
 [Eric Lippert](http://ericlippert.com/) writes one of my all time favorite tech blogs. Sadly, the [purple font he was famous for](http://www.codinghorror.com/blog/2006/12/eric-lipperts-purple-crayon.html) is no longer, but the technical depth is still there.

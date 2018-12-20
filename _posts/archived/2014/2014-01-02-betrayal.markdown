@@ -1,7 +1,7 @@
 ---
 title: "Betrayal"
 date: 2014-01-02 16:18 -0800
-categories: [oss]
+tags: [oss]
 ---
 Today, I [read a comment](http://blogs.msdn.com/b/rxteam/archive/2014/01/01/reactive-extensions-2013-year-in-review.aspx#10486541) about a group of people who feel betrayed by the increase in code that Microsoft is releasing under an open source license.
 

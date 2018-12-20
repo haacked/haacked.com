@@ -2,7 +2,7 @@
 title: String.IsNullOrEmpty
 date: 2006-08-23 -0800
 disqus_identifier: 15920
-categories: []
+tags: []
 redirect_from: "/archive/2006/08/22/String.IsNullOrEmpty.aspx/"
 ---
 

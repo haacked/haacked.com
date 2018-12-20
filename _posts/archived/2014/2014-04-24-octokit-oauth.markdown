@@ -1,7 +1,7 @@
 ---
 title: "Using Octokit.net to authenticate your app with GitHub"
 date: 2014-04-24 10:44 -0800
-categories: [octokit,github,aspnetmvc,oauth]
+tags: [octokit,github,aspnetmvc,oauth]
 ---
 
 Some endpoints in the GitHub API require authorization to access private details. For example, if you want to get all of a user's repositories, you'll need to authenticate to see private repositories.

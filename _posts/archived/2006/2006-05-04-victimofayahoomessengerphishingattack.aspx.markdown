@@ -2,7 +2,7 @@
 title: Victim Of A Yahoo Messenger Phishing Attack
 date: 2006-05-04 -0800
 disqus_identifier: 12658
-categories: []
+tags: []
 redirect_from: "/archive/2006/05/03/victimofayahoomessengerphishingattack.aspx/"
 ---
 

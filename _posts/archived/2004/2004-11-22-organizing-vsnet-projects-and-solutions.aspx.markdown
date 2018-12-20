@@ -2,7 +2,7 @@
 title: Organizing VS.NET projects and Solutions
 date: 2004-11-22 -0800
 disqus_identifier: 1661
-categories: []
+tags: []
 redirect_from: "/archive/2004/11/21/organizing-vsnet-projects-and-solutions.aspx/"
 ---
 

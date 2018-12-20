@@ -2,7 +2,7 @@
 title: Monkey Patching CLR Objects
 date: 2008-04-18 -0800
 disqus_identifier: 18478
-categories: [dynamic-languages]
+tags: [dynamic-languages]
 redirect_from: "/archive/2008/04/17/monkey-patching-clr-objects.aspx/"
 ---
 

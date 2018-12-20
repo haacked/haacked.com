@@ -2,7 +2,7 @@
 title: "Analyzing GitHub Issue Comment Sentiment With Azure"
 description: "Describes how easy it is to extend GitHub with a webhook using Azure Functions"
 date: 2018-01-27 -0800
-categories: [azure,azure-functions,serverless,github,sentiment,ml,ai]
+tags: [azure,azure-functions,serverless,github,sentiment,ml,ai]
 ---
 
 ![Tragedy and Comedy - Scarbrough Hotel, Bishopgate, Leeds - by Tim Green - CC BY 2.0](https://user-images.githubusercontent.com/19977/35477506-f253e26c-0378-11e8-9eff-5d150fa0ca9f.jpg)

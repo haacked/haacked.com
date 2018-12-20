@@ -2,7 +2,7 @@
 title: Examine an Exception in a Catch() Block
 date: 2006-06-07 -0800
 disqus_identifier: 13179
-categories: []
+tags: []
 redirect_from: "/archive/2006/06/06/ExamineAnExceptionInACatchBlock.aspx/"
 ---
 

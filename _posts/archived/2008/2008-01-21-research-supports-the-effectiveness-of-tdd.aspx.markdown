@@ -2,7 +2,7 @@
 title: Research Supports The Effectiveness of TDD
 date: 2008-01-21 -0800
 disqus_identifier: 18449
-categories: [tdd,code,research]
+tags: [tdd,code,research]
 redirect_from: "/archive/2008/01/20/research-supports-the-effectiveness-of-tdd.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: GMail-like Loading Indicator with ASP.NET Ajax
 date: 2007-05-17 -0800
 disqus_identifier: 18315
-categories: []
+tags: []
 redirect_from: "/archive/2007/05/16/gmail-like-loading-indicator-with-asp.net-ajax.aspx/"
 ---
 

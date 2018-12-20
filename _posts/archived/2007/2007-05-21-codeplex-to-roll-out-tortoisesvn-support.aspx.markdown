@@ -2,7 +2,7 @@
 title: CodePlex To Roll Out TortoiseSVN Support
 date: 2007-05-21 -0800
 disqus_identifier: 18322
-categories: []
+tags: []
 redirect_from: "/archive/2007/05/20/codeplex-to-roll-out-tortoisesvn-support.aspx/"
 ---
 

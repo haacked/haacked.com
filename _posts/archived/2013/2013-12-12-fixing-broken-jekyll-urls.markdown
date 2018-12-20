@@ -1,7 +1,7 @@
 ---
 title: "Fixing Broken Jekyll URLs"
 date: 2013-12-12 -0800
-categories: [jekyll]
+tags: [jekyll]
 ---
 Well this is a bit embarrassing.
 

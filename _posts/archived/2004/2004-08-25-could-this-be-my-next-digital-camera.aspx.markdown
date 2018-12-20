@@ -2,7 +2,7 @@
 title: Could This Be My Next Digital Camera?
 date: 2004-08-25 -0800
 disqus_identifier: 976
-categories: []
+tags: []
 redirect_from: "/archive/2004/08/24/could-this-be-my-next-digital-camera.aspx/"
 ---
 

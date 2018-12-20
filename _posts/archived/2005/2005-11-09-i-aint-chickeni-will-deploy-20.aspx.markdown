@@ -2,7 +2,7 @@
 title: I Ain't Chicken...I WILL Deploy 2.0
 date: 2005-11-09 -0800
 disqus_identifier: 11171
-categories: []
+tags: []
 redirect_from: "/archive/2005/11/08/i-aint-chickeni-will-deploy-20.aspx/"
 ---
 

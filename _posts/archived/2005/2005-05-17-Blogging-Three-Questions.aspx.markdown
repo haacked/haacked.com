@@ -2,7 +2,7 @@
 title: 'Blogging: 3 questions'
 date: 2005-05-17 -0800
 disqus_identifier: 3287
-categories: []
+tags: []
 redirect_from: "/archive/2005/05/16/Blogging-Three-Questions.aspx/"
 ---
 

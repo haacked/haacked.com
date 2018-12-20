@@ -2,7 +2,7 @@
 title: Tradeoffs When Minimizing The Impact Of Changes
 date: 2006-11-16 -0800
 disqus_identifier: 18138
-categories: []
+tags: []
 redirect_from: "/archive/2006/11/15/Tradeoffs_When_Minimizing_The_Impact_Of_Changes.aspx/"
 ---
 

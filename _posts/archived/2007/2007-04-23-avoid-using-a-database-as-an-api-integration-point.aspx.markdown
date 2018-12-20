@@ -2,7 +2,7 @@
 title: Avoid Using a Database as an API Integration Point
 date: 2007-04-23 -0800
 disqus_identifier: 18292
-categories: []
+tags: []
 redirect_from: "/archive/2007/04/22/avoid-using-a-database-as-an-api-integration-point.aspx/"
 ---
 

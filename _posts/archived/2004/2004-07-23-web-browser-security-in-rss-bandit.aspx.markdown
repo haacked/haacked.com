@@ -2,7 +2,7 @@
 title: Web Browser Security In RSS Bandit
 date: 2004-07-23 -0800
 disqus_identifier: 841
-categories: []
+tags: []
 redirect_from: "/archive/2004/07/22/web-browser-security-in-rss-bandit.aspx/"
 ---
 

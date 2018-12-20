@@ -2,7 +2,7 @@
 title: Subtext User Survey
 date: 2006-11-09 -0800
 disqus_identifier: 18133
-categories: []
+tags: []
 redirect_from: "/archive/2006/11/08/Subtext_User_Survey.aspx/"
 ---
 

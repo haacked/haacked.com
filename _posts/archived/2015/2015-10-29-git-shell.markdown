@@ -1,7 +1,7 @@
 ---
 title: "Set up a smoking Git shell on Windows"
 date: 2015-10-29 -0800
-categories: [git,github,console,shell]
+tags: [git,github,console,shell]
 ---
 
 [GitHub Desktop](https://desktop.github.com/), the application formerly known as GitHub for Windows, is a streamlined GUI that makes it easy to contribute to repositories on GitHub.

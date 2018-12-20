@@ -2,7 +2,7 @@
 title: What Does Protected Internal Mean?
 date: 2007-10-29 -0800
 disqus_identifier: 18413
-categories: []
+tags: []
 redirect_from: "/archive/2007/10/28/what-does-protected-internal-mean.aspx/"
 ---
 

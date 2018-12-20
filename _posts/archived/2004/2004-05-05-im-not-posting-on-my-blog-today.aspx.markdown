@@ -2,7 +2,7 @@
 title: I'm not posting on my blog today.
 date: 2004-05-05 -0800
 disqus_identifier: 401
-categories: []
+tags: []
 redirect_from: "/archive/2004/05/04/im-not-posting-on-my-blog-today.aspx/"
 ---
 

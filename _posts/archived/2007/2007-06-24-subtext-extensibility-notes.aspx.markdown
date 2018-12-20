@@ -2,7 +2,7 @@
 title: Subtext Extensibility Notes
 date: 2007-06-24 -0800
 disqus_identifier: 18358
-categories: []
+tags: []
 redirect_from: "/archive/2007/06/23/subtext-extensibility-notes.aspx/"
 ---
 

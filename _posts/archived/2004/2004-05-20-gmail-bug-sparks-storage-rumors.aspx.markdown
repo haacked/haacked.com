@@ -2,7 +2,7 @@
 title: Gmail Bug Sparks Storage Rumors
 date: 2004-05-20 -0800
 disqus_identifier: 458
-categories: []
+tags: []
 redirect_from: "/archive/2004/05/19/gmail-bug-sparks-storage-rumors.aspx/"
 ---
 

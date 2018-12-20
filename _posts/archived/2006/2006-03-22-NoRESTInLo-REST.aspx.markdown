@@ -2,7 +2,7 @@
 title: No REST In Lo-REST
 date: 2006-03-22 -0800
 disqus_identifier: 12138
-categories: []
+tags: []
 redirect_from: "/archive/2006/03/21/NoRESTInLo-REST.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Predatory Blogging - Blogging Someone Else's Life
 date: 2005-01-30 -0800
 disqus_identifier: 2054
-categories: []
+tags: []
 redirect_from: "/archive/2005/01/29/predatory-blogging--blogging-someone-elses-life.aspx/"
 ---
 

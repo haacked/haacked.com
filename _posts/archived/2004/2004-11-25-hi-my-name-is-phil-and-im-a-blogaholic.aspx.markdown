@@ -2,7 +2,7 @@
 title: Hi My Name Is Phil And I'm A Blogaholic
 date: 2004-11-25 -0800
 disqus_identifier: 1671
-categories: []
+tags: []
 redirect_from: "/archive/2004/11/24/hi-my-name-is-phil-and-im-a-blogaholic.aspx/"
 ---
 

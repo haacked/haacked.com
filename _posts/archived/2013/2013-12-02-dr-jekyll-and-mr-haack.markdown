@@ -1,7 +1,7 @@
 ---
 title: "Dr. Jekyll and Mr. Haack"
 date: 2013-12-02 08:18:39 -0800
-categories: [blogging,jekyll]
+tags: [blogging,jekyll]
 ---
 
 The older I get, the less I want to worry about hosting my own website. Perhaps this is the real reason for the rise of cloud hosting. All of us old fogeys became too lazy to manage our own infrastructure.

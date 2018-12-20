@@ -2,7 +2,7 @@
 title: A Few Notes About The MVC CodePlex Source Code Release
 date: 2008-03-21 -0800
 disqus_identifier: 18466
-categories: [aspnetmvc]
+tags: [aspnetmvc]
 redirect_from: "/archive/2008/03/20/a-few-notes-about-the-mvc-codeplex-source-code-release.aspx/"
 ---
 

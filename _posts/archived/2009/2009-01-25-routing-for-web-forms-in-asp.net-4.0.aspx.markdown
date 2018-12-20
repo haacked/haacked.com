@@ -2,7 +2,7 @@
 title: Routing for Web Forms in ASP.NET 4.0
 date: 2009-01-25 -0800
 disqus_identifier: 18578
-categories: [routing,aspnet]
+tags: [routing,aspnet]
 redirect_from: "/archive/2009/01/24/routing-for-web-forms-in-asp.net-4.0.aspx/"
 ---
 

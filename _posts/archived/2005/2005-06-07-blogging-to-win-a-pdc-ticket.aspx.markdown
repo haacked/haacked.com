@@ -2,7 +2,7 @@
 title: Blogging to Win a PDC Ticket
 date: 2005-06-07 -0800
 disqus_identifier: 4464
-categories: [blogging,conferences]
+tags: [blogging,conferences]
 redirect_from: "/archive/2005/06/06/blogging-to-win-a-pdc-ticket.aspx/"
 ---
 

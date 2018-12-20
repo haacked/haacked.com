@@ -2,7 +2,7 @@
 title: A Testing Mail Server For Unit Testing Email Functionality
 date: 2006-05-30 -0800
 disqus_identifier: 13061
-categories: []
+tags: []
 redirect_from: "/archive/2006/05/29/ATestingMailServerForUnitTestingEmailFunctionality.aspx/"
 ---
 

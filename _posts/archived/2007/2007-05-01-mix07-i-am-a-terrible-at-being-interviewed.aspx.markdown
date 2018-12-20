@@ -2,7 +2,7 @@
 title: Mix07 I Am Terrible At Being Interviewed
 date: 2007-05-01 -0800
 disqus_identifier: 18299
-categories: []
+tags: []
 redirect_from: "/archive/2007/04/30/mix07-i-am-a-terrible-at-being-interviewed.aspx/"
 ---
 

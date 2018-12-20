@@ -2,7 +2,7 @@
 title: Writing A Page To A String
 date: 2009-05-29 -0800
 disqus_identifier: 18620
-categories: []
+tags: []
 redirect_from: "/archive/2009/05/28/writing-page-to-string.aspx/"
 ---
 

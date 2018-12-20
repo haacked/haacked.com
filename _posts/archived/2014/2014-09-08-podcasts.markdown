@@ -1,7 +1,7 @@
 ---
 title: "Podcasts"
 date: 2014-09-08 -0800
-categories: [vanity]
+tags: [vanity]
 ---
 
 I love to communicate through the written word because it offers me a chance to really consider what I say, and then rewrite it, and then rewrite it again. And in the end, I still don't communicate as clearly and eloquently as I would like.

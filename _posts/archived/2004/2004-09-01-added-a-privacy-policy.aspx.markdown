@@ -2,7 +2,7 @@
 title: Added A Privacy Policy
 date: 2004-09-01 -0800
 disqus_identifier: 1096
-categories: []
+tags: []
 redirect_from: "/archive/2004/08/31/added-a-privacy-policy.aspx/"
 ---
 

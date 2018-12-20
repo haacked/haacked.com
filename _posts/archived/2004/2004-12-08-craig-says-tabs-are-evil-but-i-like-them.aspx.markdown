@@ -2,7 +2,7 @@
 title: Craig Says Tabs Are Evil, But I Like Them
 date: 2004-12-08 -0800
 disqus_identifier: 1721
-categories: []
+tags: []
 redirect_from: "/archive/2004/12/07/craig-says-tabs-are-evil-but-i-like-them.aspx/"
 ---
 

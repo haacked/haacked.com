@@ -1,7 +1,7 @@
 ---
 title: "A better 404 page and redirects with GitHub Pages"
 date: 2015-07-28 -0800
-categories: [github,jekyll,pages]
+tags: [github,jekyll,pages]
 ---
 
 A while back I migrated my blog to [Jekyll and GitHub Pages](https://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/). I worked hard to [preserve my existing URLs](https://haacked.com/archive/2013/12/03/jekyll-url-extensions/).
@@ -23,7 +23,7 @@ permalink: /404.html
 date: 2009-12-07 -0800
 disqus_identifier: 18664
 redirect_from: "/archive/2009/12/12/localizing-aspnetmvc-validation.aspx"
-categories: [aspnetmvc,localization,validation]
+tags: [aspnetmvc,localization,validation]
 ---
 ```
 

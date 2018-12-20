@@ -2,7 +2,7 @@
 title: Cruise Control .NET Resources
 date: 2004-08-17 -0800
 disqus_identifier: 931
-categories: []
+tags: []
 redirect_from: "/archive/2004/08/16/ccnet-resources.aspx/"
 ---
 

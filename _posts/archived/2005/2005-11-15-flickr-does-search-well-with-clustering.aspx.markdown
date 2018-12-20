@@ -2,7 +2,7 @@
 title: Flickr Does Search Well With Clustering
 date: 2005-11-15 -0800
 disqus_identifier: 11201
-categories: []
+tags: []
 redirect_from: "/archive/2005/11/14/flickr-does-search-well-with-clustering.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: 'First Impression of Resharper 1.0.2: It''s Sloooow'
 date: 2004-08-09 -0800
 disqus_identifier: 901
-categories: []
+tags: []
 redirect_from: "/archive/2004/08/08/first-impression-of-resharper-102-its-sloooow.aspx/"
 ---
 

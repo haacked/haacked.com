@@ -2,7 +2,7 @@
 title: The New And More Potent Off-Shoring Threat
 date: 2004-04-26 -0800
 disqus_identifier: 369
-categories: []
+tags: []
 redirect_from: "/archive/2004/04/25/the-new-and-more-potent-off-shoring-threat.aspx/"
 ---
 

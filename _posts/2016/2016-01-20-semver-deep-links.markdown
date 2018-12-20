@@ -1,7 +1,7 @@
 ---
 title: "Semver Deep Links"
 date: 2016-01-20 -0800
-categories: [semver]
+tags: [semver]
 ---
 
 A [long time request](https://github.com/mojombo/semver.org/issues/27) of http://semver.org/ (just shy of five years!) is to be able to link to specific headings and clauses of the Semver specification. For example, want to win that argument about PATCH version increments? Link to that [section directly](http://semver.org/#spec-item-6).

@@ -2,7 +2,7 @@
 title: Blocking Outgoing Messages
 date: 2004-08-06 -0800
 disqus_identifier: 886
-categories: []
+tags: []
 redirect_from: "/archive/2004/08/05/blocking-outgoing-messages.aspx/"
 ---
 

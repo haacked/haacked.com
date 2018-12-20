@@ -2,7 +2,7 @@
 title: 'Federal Funding Cuts to Public Broadcasting '
 date: 2005-06-27 -0800
 disqus_identifier: 7318
-categories: []
+tags: []
 redirect_from: "/archive/2005/06/26/federal-funding-cuts-to-public-broadcasting.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: The On10 Pregnant Photo
 date: 2006-03-23 -0800
 disqus_identifier: 12142
-categories: []
+tags: []
 redirect_from: "/archive/2006/03/22/TheOn10PregnantPhoto.aspx/"
 ---
 

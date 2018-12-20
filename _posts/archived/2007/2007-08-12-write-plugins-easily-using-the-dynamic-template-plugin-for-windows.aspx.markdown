@@ -2,7 +2,7 @@
 title: Write Plugins Easily Using The Dynamic Template Plugin For Windows Live Writer
 date: 2007-08-12 -0800
 disqus_identifier: 18380
-categories: [blogging]
+tags: [blogging]
 redirect_from: "/archive/2007/08/11/write-plugins-easily-using-the-dynamic-template-plugin-for-windows.aspx/"
 ---
 

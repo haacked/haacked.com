@@ -2,7 +2,7 @@
 title: More On The CodePlex Foundation
 date: 2009-09-13 -0800
 disqus_identifier: 18643
-categories: []
+tags: []
 redirect_from: "/archive/2009/09/12/more-on-the-codeplex-foundation.aspx/"
 ---
 

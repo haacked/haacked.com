@@ -1,7 +1,7 @@
 ---
 title: "Building an Atom Package in ES6"
 date: 2016-05-11 -0800
-categories: [nuget]
+tags: [nuget]
 ---
 
 The tagline for the [Atom text editor](https://atom.io/) is "A hackable text editor for the 21st Century". As a Haack, this is a goal I can get behind.

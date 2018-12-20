@@ -2,7 +2,7 @@
 title: Hooking Another Person On RSS Bandit
 date: 2004-07-29 -0800
 disqus_identifier: 866
-categories: []
+tags: []
 redirect_from: "/archive/2004/07/28/hooking-another-person-on-rss-bandit.aspx/"
 ---
 

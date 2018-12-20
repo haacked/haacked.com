@@ -2,7 +2,7 @@
 title: Smoggy Day
 date: 2004-09-23 -0800
 disqus_identifier: 1264
-categories: []
+tags: []
 redirect_from: "/archive/2004/09/22/smoggy-day.aspx/"
 ---
 

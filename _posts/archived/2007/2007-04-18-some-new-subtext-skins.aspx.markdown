@@ -2,7 +2,7 @@
 title: Some New Subtext Skins
 date: 2007-04-18 -0800
 disqus_identifier: 18287
-categories: []
+tags: []
 redirect_from: "/archive/2007/04/17/some-new-subtext-skins.aspx/"
 ---
 

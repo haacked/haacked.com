@@ -2,7 +2,7 @@
 title: Beware the PayPal Email Scams!
 date: 2005-06-03 -0800
 disqus_identifier: 4004
-categories: []
+tags: []
 redirect_from: "/archive/2005/06/02/beware-the-paypal-email-scams.aspx/"
 ---
 

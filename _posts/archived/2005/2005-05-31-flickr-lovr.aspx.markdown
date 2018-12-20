@@ -2,7 +2,7 @@
 title: Flickr Lovr
 date: 2005-05-31 -0800
 disqus_identifier: 3962
-categories: []
+tags: []
 redirect_from: "/archive/2005/05/30/flickr-lovr.aspx/"
 ---
 

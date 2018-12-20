@@ -2,7 +2,7 @@
 title: Arriving Las Vegas
 date: 2005-08-25 -0800
 disqus_identifier: 9669
-categories: []
+tags: []
 redirect_from: "/archive/2005/08/24/arriving-las-vegas.aspx/"
 ---
 

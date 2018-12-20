@@ -2,7 +2,7 @@
 title: Keybord Settings in RSS Bandit
 date: 2005-12-04 -0800
 disqus_identifier: 11296
-categories: []
+tags: []
 redirect_from: "/archive/2005/12/03/keybord-settings-in-rss-bandit.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Camp Signs
 date: 2005-08-29 -0800
 disqus_identifier: 9738
-categories: []
+tags: []
 redirect_from: "/archive/2005/08/28/camp-signs.aspx/"
 ---
 

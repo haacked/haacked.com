@@ -2,7 +2,7 @@
 title: Subtext 1.0 Nautilus Edition Released
 date: 2006-03-02 -0800
 disqus_identifier: 11927
-categories: []
+tags: []
 redirect_from: "/archive/2006/03/01/Subtext1.0NautilusEditionReleased.aspx/"
 ---
 

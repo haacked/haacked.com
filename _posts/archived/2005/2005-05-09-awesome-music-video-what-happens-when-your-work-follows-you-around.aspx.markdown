@@ -2,7 +2,7 @@
 title: Awesome Music Video.  What Happens When Your Work Follows You Around?
 date: 2005-05-09 -0800
 disqus_identifier: 3117
-categories: []
+tags: []
 redirect_from: "/archive/2005/05/08/awesome-music-video-what-happens-when-your-work-follows-you-around.aspx/"
 ---
 

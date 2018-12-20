@@ -2,7 +2,7 @@
 title: What is Your Blogger Handle?
 date: 2005-03-12 -0800
 disqus_identifier: 2350
-categories: []
+tags: []
 redirect_from: "/archive/2005/03/11/what-is-your-blogger-handle.aspx/"
 ---
 

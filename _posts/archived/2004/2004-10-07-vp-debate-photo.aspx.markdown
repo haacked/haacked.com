@@ -2,7 +2,7 @@
 title: VP Debate Photo
 date: 2004-10-07 -0800
 disqus_identifier: 1316
-categories: []
+tags: []
 redirect_from: "/archive/2004/10/06/vp-debate-photo.aspx/"
 ---
 

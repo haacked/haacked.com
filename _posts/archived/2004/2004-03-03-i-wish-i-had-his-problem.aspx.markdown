@@ -2,7 +2,7 @@
 title: I wish I had his problem
 date: 2004-03-03 -0800
 disqus_identifier: 229
-categories: []
+tags: []
 redirect_from: "/archive/2004/03/02/i-wish-i-had-his-problem.aspx/"
 ---
 

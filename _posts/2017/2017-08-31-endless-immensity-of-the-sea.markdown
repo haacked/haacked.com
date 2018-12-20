@@ -1,7 +1,7 @@
 ---
 title: "Endless Immensity of the Sea"
 date: 2017-08-30 -0800 11:32 AM PDT
-categories: [leadership,management]
+tags: [leadership,management]
 ---
 
 There's this quote about leadership that resonates with me.

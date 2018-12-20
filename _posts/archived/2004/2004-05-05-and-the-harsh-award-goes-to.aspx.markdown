@@ -2,7 +2,7 @@
 title: And the &quot;Harsh&quot; award goes to...
 date: 2004-05-05 -0800
 disqus_identifier: 406
-categories: []
+tags: []
 redirect_from: "/archive/2004/05/04/and-the-harsh-award-goes-to.aspx/"
 ---
 

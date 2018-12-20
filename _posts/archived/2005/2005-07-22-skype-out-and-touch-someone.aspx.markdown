@@ -2,7 +2,7 @@
 title: Skype Out and Touch Someone
 date: 2005-07-22 -0800
 disqus_identifier: 8961
-categories: []
+tags: []
 redirect_from: "/archive/2005/07/21/skype-out-and-touch-someone.aspx/"
 ---
 

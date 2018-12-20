@@ -2,7 +2,7 @@
 title: Last Game of the Season
 date: 2004-10-31 -0800
 disqus_identifier: 1536
-categories: []
+tags: []
 redirect_from: "/archive/2004/10/30/last-game-of-the-season.aspx/"
 ---
 

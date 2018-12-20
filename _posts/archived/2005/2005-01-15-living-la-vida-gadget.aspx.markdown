@@ -2,7 +2,7 @@
 title: Living La Vida Gadget
 date: 2005-01-15 -0800
 disqus_identifier: 1872
-categories: []
+tags: []
 redirect_from: "/archive/2005/01/14/living-la-vida-gadget.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: A New Blogger In Town
 date: 2005-12-21 -0800
 disqus_identifier: 11360
-categories: []
+tags: []
 redirect_from: "/archive/2005/12/20/a-new-blogger-in-town.aspx/"
 ---
 

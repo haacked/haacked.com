@@ -2,7 +2,7 @@
 title: Whidbey Update
 date: 2004-10-22 -0800
 disqus_identifier: 1457
-categories: []
+tags: []
 redirect_from: "/archive/2004/10/21/whidbey-update.aspx/"
 ---
 

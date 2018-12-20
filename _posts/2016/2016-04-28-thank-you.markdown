@@ -1,7 +1,7 @@
 ---
 title: "Thank You For Your Pull Request"
 date: 2016-04-28 -0800
-categories: [code,review,github,code]
+tags: [code,review,github,code]
 ---
 
 As an open source maintainer, it's important to recognize and show appreciation for contributions, especially external contributions.

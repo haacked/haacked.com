@@ -2,7 +2,7 @@
 title: You've Been Haacked For a Year
 date: 2005-02-03 -0800
 disqus_identifier: 2087
-categories: []
+tags: []
 redirect_from: "/archive/2005/02/02/youve-been-haacked-for-a-year.aspx/"
 ---
 

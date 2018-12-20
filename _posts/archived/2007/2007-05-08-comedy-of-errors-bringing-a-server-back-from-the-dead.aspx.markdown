@@ -2,7 +2,7 @@
 title: Comedy Of Errors Bringing A Server Back From The Dead
 date: 2007-05-08 -0800
 disqus_identifier: 18305
-categories: []
+tags: []
 redirect_from: "/archive/2007/05/07/comedy-of-errors-bringing-a-server-back-from-the-dead.aspx/"
 ---
 

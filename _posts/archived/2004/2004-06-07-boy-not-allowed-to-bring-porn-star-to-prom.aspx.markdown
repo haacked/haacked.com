@@ -2,7 +2,7 @@
 title: Boy Not Allowed To Bring Porn Star To Prom
 date: 2004-06-07 -0800
 disqus_identifier: 541
-categories: []
+tags: []
 redirect_from: "/archive/2004/06/06/boy-not-allowed-to-bring-porn-star-to-prom.aspx/"
 ---
 

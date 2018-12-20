@@ -2,7 +2,7 @@
 title: Corporate Sponsored Pornography?
 date: 2004-08-26 -0800
 disqus_identifier: 981
-categories: []
+tags: []
 redirect_from: "/archive/2004/08/25/corporate-sponsored-pornography.aspx/"
 ---
 

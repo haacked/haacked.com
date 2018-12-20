@@ -2,7 +2,7 @@
 title: Visual Studio.NET New Project Template Folders
 date: 2005-03-30 -0800
 disqus_identifier: 2496
-categories: []
+tags: []
 redirect_from: "/archive/2005/03/29/visual-studionet-new-project-template-folders.aspx/"
 ---
 

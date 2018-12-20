@@ -1,7 +1,7 @@
 ---
 title: "Preserve Disqus Comments with Jekyll"
 date: 2013-12-09 -0800
-categories: [jekyll]
+tags: [jekyll]
 ---
 
 In my last post, I wrote about [preserving URLs when migrating to Jekyll](https://haacked.com/archive/2013/12/03/jekyll-url-extensions/). In this post, show how to preserve your Disqus comments.
@@ -32,7 +32,7 @@ So what I did was add my own field to my migrated Jekyll posts. You can see an e
 title: "Code Review Like You Mean It"
 date: 2013-10-28 -0800
 disqus_identifier: 18902
-categories: [open,source,github,code]
+tags: [open,source,github,code]
 ---
 ```
 

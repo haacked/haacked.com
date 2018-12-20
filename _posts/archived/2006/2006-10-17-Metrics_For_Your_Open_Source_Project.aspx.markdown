@@ -2,7 +2,7 @@
 title: Metrics For Your Open Source Project
 date: 2006-10-17 -0800
 disqus_identifier: 18091
-categories: []
+tags: []
 redirect_from: "/archive/2006/10/16/Metrics_For_Your_Open_Source_Project.aspx/"
 ---
 

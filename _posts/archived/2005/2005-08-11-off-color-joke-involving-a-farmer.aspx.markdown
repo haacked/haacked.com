@@ -2,7 +2,7 @@
 title: Off Color Joke Involving a Farmer
 date: 2005-08-11 -0800
 disqus_identifier: 9323
-categories: []
+tags: []
 redirect_from: "/archive/2005/08/10/off-color-joke-involving-a-farmer.aspx/"
 ---
 

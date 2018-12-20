@@ -2,7 +2,7 @@
 title: Clubs In L.A. and The Price Of A Drink
 date: 2004-10-06 -0800
 disqus_identifier: 1313
-categories: []
+tags: []
 redirect_from: "/archive/2004/10/05/clubs-in-la-and-the-price-of-a-drink.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Collaborative Filtering For Your Musical Tastes That Works
 date: 2006-02-19 -0800
 disqus_identifier: 11839
-categories: []
+tags: []
 redirect_from: "/archive/2006/02/18/CollaborativeFilteringForYourMusicalTastesThatWorks.aspx/"
 ---
 

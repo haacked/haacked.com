@@ -1,7 +1,7 @@
 ---
 title: "The Moment"
 date: 2017-08-16 -0800
-categories: [personal]
+tags: [personal]
 ---
 
 [Twin Falls](http://www.wta.org/go-hiking/hikes/twin-falls-state-park) lies around a forty minute drive east of Bellevue, Washington. From the [trail head](https://goo.gl/maps/Z3wQEg62xzB2), the path leads to views of three separate waterfalls. Yes, three. "Twin Falls" has a nicer ring to it than "Triplet falls."

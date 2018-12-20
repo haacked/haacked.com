@@ -2,7 +2,7 @@
 title: The Demise of NDoc and A Challenge For Users Of Open Source Software
 date: 2006-07-26 -0800
 disqus_identifier: 14238
-categories: []
+tags: []
 redirect_from: "/archive/2006/07/25/TheDemiseOfNDocAndAChallengeForUsersOfOpenSourceSoftware.aspx/"
 ---
 

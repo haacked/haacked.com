@@ -2,7 +2,7 @@
 title: 'Tech-Ed 2004: I Won a Media Center PC!!!'
 date: 2004-05-27 -0800
 disqus_identifier: 493
-categories: [conferences]
+tags: [conferences]
 redirect_from: "/archive/2004/05/26/tech-ed-2004-i-won-a-media-center-pc.aspx/"
 ---
 

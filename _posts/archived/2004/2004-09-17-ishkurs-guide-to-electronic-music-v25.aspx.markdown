@@ -2,7 +2,7 @@
 title: Ishkur's Guide To Electronic Music v2.5
 date: 2004-09-17 -0800
 disqus_identifier: 1228
-categories: []
+tags: []
 redirect_from: "/archive/2004/09/16/ishkurs-guide-to-electronic-music-v25.aspx/"
 ---
 

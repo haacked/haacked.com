@@ -2,7 +2,7 @@
 title: Anthony Pappa Resolution (Solstice)
 date: 2004-03-31 -0800
 disqus_identifier: 287
-categories: []
+tags: []
 redirect_from: "/archive/2004/03/30/anthony-pappa-resolution-solstice.aspx/"
 ---
 

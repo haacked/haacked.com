@@ -2,7 +2,7 @@
 title: Too funny to pass up.  President Bush Pays Tribute to John Lennon.
 date: 2005-04-29 -0800
 disqus_identifier: 2884
-categories: []
+tags: []
 redirect_from: "/archive/2005/04/28/too-funny-to-pass-up-president-bush-pays-tribute-to-john-lennon.aspx/"
 ---
 

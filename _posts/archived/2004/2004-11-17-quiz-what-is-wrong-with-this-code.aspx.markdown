@@ -2,7 +2,7 @@
 title: 'QUIZ: What''s Wrong With This Code?'
 date: 2004-11-17 -0800
 disqus_identifier: 1634
-categories: []
+tags: []
 redirect_from: "/archive/2004/11/16/quiz-what-is-wrong-with-this-code.aspx/"
 ---
 

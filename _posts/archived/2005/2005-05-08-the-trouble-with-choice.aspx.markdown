@@ -2,7 +2,7 @@
 title: The Trouble With Choice
 date: 2005-05-08 -0800
 disqus_identifier: 2942
-categories: []
+tags: []
 redirect_from: "/archive/2005/05/07/the-trouble-with-choice.aspx/"
 ---
 

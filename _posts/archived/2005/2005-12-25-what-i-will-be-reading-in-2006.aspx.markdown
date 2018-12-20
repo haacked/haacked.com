@@ -2,7 +2,7 @@
 title: What I Will Be Reading In 2006
 date: 2005-12-25 -0800
 disqus_identifier: 11370
-categories: []
+tags: []
 redirect_from: "/archive/2005/12/24/what-i-will-be-reading-in-2006.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Joel On Ruby Performance
 date: 2006-09-12 -0800
 disqus_identifier: 16492
-categories: []
+tags: []
 redirect_from: "/archive/2006/09/11/Joel_On_Ruby_Performance.aspx/"
 ---
 

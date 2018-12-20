@@ -2,7 +2,7 @@
 title: Mono Migration Analyzer
 date: 2006-11-27 -0800
 disqus_identifier: 18148
-categories: []
+tags: []
 redirect_from: "/archive/2006/11/26/Mono_Migration_Analyzer.aspx/"
 ---
 

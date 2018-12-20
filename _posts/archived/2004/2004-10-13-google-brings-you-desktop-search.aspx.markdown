@@ -2,7 +2,7 @@
 title: Google Brings You Desktop Search
 date: 2004-10-13 -0800
 disqus_identifier: 1350
-categories: []
+tags: []
 redirect_from: "/archive/2004/10/12/google-brings-you-desktop-search.aspx/"
 ---
 

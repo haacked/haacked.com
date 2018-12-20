@@ -2,7 +2,7 @@
 title: 'Tech-Ed 2004: The Difficulties of Language Design'
 date: 2004-05-27 -0800
 disqus_identifier: 492
-categories: [conferences]
+tags: [conferences]
 redirect_from: "/archive/2004/05/26/DifficultiesOfLanguageDesign.aspx/"
 ---
 

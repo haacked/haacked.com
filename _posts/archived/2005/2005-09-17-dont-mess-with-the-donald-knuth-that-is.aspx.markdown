@@ -2,7 +2,7 @@
 title: Don't Mess With The Donald... Knuth That Is
 date: 2005-09-17 -0800
 disqus_identifier: 10180
-categories: []
+tags: []
 redirect_from: "/archive/2005/09/16/dont-mess-with-the-donald-knuth-that-is.aspx/"
 ---
 

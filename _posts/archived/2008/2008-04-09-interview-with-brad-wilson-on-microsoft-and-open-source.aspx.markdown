@@ -2,7 +2,7 @@
 title: Interview With Brad Wilson On Microsoft And Open Source
 date: 2008-04-09 -0800
 disqus_identifier: 18471
-categories: [oss,microsoft]
+tags: [oss,microsoft]
 redirect_from: "/archive/2008/04/08/interview-with-brad-wilson-on-microsoft-and-open-source.aspx/"
 ---
 

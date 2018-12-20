@@ -2,7 +2,7 @@
 title: Why The ThreadPool Is Very Often The Way To Go
 date: 2004-08-17 -0800
 disqus_identifier: 928
-categories: []
+tags: []
 redirect_from: "/archive/2004/08/16/why-the-threadpool-is-the-way-to-go.aspx/"
 ---
 

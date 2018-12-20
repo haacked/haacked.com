@@ -1,7 +1,7 @@
 ---
 title: "A less terrible .NET project build with NuGet"
 date: 2014-04-15 13:36 -0800
-categories: [nuget]
+tags: [nuget]
 ---
 
 According to [Maarten Balliauw](http://blog.maartenballiauw.be/), [Building .NET projects is a world of pain](http://blog.maartenballiauw.be/post/2014/04/11/Building-NET-projects-is-a-world-of-pain-and-heres-how-we-should-solve-it.aspx). He should know, he is a co-founder of [MyGet.org](https://myget.org) which provides private NuGet feeds along with build services for those packages.

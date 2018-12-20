@@ -2,7 +2,7 @@
 title: Where are the Sociologists of Social Software
 date: 2005-09-11 -0800
 disqus_identifier: 10045
-categories: []
+tags: []
 redirect_from: "/archive/2005/09/10/where-are-the-sociologists-of-social-software.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: I Won The Lottery!
 date: 2006-01-23 -0800
 disqus_identifier: 11569
-categories: []
+tags: []
 redirect_from: "/archive/2006/01/22/IWonTheLottery.aspx/"
 ---
 

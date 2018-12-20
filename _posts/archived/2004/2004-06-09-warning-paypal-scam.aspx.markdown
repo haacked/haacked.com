@@ -2,7 +2,7 @@
 title: 'WARNING: PayPal Scam.'
 date: 2004-06-09 -0800
 disqus_identifier: 567
-categories: []
+tags: []
 redirect_from: "/archive/2004/06/08/warning-paypal-scam.aspx/"
 ---
 

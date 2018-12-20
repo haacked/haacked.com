@@ -2,7 +2,7 @@
 title: Tying MVP To the ASP.NET Event Model
 date: 2006-08-09 -0800
 disqus_identifier: 14786
-categories: []
+tags: []
 redirect_from: "/archive/2006/08/08/TyingMVPToTheASP.NETEventModel.aspx/"
 ---
 

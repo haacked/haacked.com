@@ -2,7 +2,7 @@
 title: Playing Against A World Cup Winner
 date: 2006-03-24 -0800
 disqus_identifier: 12184
-categories: []
+tags: []
 redirect_from: "/archive/2006/03/23/PlayingAgainstAWorldCupWinner.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Our CEO Discovers Second Life
 date: 2007-01-31 -0800
 disqus_identifier: 18204
-categories: []
+tags: []
 redirect_from: "/archive/2007/01/30/Our_CEO_Discovers_Second_Life.aspx/"
 ---
 

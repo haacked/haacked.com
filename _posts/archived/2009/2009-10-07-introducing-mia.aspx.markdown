@@ -2,7 +2,7 @@
 title: Introducing Mia Yokoyama Haack
 date: 2009-10-07 -0800
 disqus_identifier: 18647
-categories: []
+tags: []
 redirect_from: "/archive/2009/10/06/introducing-mia.aspx/"
 ---
 

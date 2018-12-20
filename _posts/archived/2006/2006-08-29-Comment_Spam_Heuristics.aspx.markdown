@@ -2,7 +2,7 @@
 title: Comment Spam Heuristics
 date: 2006-08-29 -0800
 disqus_identifier: 16134
-categories: []
+tags: []
 redirect_from: "/archive/2006/08/28/Comment_Spam_Heuristics.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Now Repeat After Me, Var Isn't an Object
 date: 2005-09-22 -0800
 disqus_identifier: 10309
-categories: []
+tags: []
 redirect_from: "/archive/2005/09/21/now-repeat-after-me-var-isnt-an-object.aspx/"
 ---
 

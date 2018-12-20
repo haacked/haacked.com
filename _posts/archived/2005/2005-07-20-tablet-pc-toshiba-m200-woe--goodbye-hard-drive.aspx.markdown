@@ -2,7 +2,7 @@
 title: Tablet PC (Toshiba M200) Woe - Goodbye Hard Drive
 date: 2005-07-20 -0800
 disqus_identifier: 8915
-categories: []
+tags: []
 redirect_from: "/archive/2005/07/19/tablet-pc-toshiba-m200-woe--goodbye-hard-drive.aspx/"
 ---
 

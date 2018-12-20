@@ -2,7 +2,7 @@
 title: Burning Man Tickets are on Sale
 date: 2005-01-09 -0800
 disqus_identifier: 1843
-categories: []
+tags: []
 redirect_from: "/archive/2005/01/08/burning-man-tickets-are-on-sale.aspx/"
 ---
 

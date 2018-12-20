@@ -2,7 +2,7 @@
 title: Better Developers Through Diversity
 date: 2006-02-16 -0800
 disqus_identifier: 11802
-categories: []
+tags: []
 redirect_from: "/archive/2006/02/15/BetterDevelopersThroughDiversity.aspx/"
 ---
 

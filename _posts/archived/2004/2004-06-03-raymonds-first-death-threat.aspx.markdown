@@ -2,7 +2,7 @@
 title: Raymond's first death threat
 date: 2004-06-03 -0800
 disqus_identifier: 519
-categories: []
+tags: []
 redirect_from: "/archive/2004/06/02/raymonds-first-death-threat.aspx/"
 ---
 

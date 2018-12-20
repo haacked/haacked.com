@@ -2,7 +2,7 @@
 title: My .NET Rocks Interview Is Now Up
 date: 2007-08-07 -0800
 disqus_identifier: 18378
-categories: [subtext,podcast]
+tags: [subtext,podcast]
 redirect_from: "/archive/2007/08/06/my-.net-rocks-interview-is-now-up.aspx/"
 ---
 

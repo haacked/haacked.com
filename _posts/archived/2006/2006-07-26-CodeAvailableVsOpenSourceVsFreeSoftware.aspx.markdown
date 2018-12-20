@@ -2,7 +2,7 @@
 title: Source Available vs Open Source vs Free Software
 date: 2006-07-26 -0800
 disqus_identifier: 14224
-categories: []
+tags: []
 redirect_from: "/archive/2006/07/25/CodeAvailableVsOpenSourceVsFreeSoftware.aspx/"
 ---
 

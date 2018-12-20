@@ -2,7 +2,7 @@
 title: Using TextBoxes as Labels
 date: 2005-12-11 -0800
 disqus_identifier: 11330
-categories: []
+tags: []
 redirect_from: "/archive/2005/12/10/using-textboxes-as-labels.aspx/"
 ---
 

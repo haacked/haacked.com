@@ -2,7 +2,7 @@
 title: 'Friendly HaackMan Reminder: Do Not Forget To Blink'
 date: 2005-10-06 -0800
 disqus_identifier: 10621
-categories: []
+tags: []
 redirect_from: "/archive/2005/10/05/friendly-haackman-reminder-do-not-forget-to-blink.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Personal UPS System Recommendations
 date: 2006-02-17 -0800
 disqus_identifier: 11830
-categories: []
+tags: []
 redirect_from: "/archive/2006/02/16/PersonalUPSSystemRecommendations.aspx/"
 ---
 

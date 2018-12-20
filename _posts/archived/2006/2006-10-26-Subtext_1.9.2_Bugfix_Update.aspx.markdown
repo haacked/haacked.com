@@ -2,7 +2,7 @@
 title: Subtext 1.9.2 Bugfix Update
 date: 2006-10-26 -0800
 disqus_identifier: 18115
-categories: []
+tags: []
 redirect_from: "/archive/2006/10/25/Subtext_1.9.2_Bugfix_Update.aspx/"
 ---
 

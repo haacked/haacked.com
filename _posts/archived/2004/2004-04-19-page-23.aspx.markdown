@@ -2,7 +2,7 @@
 title: Page 23
 date: 2004-04-19 -0800
 disqus_identifier: 339
-categories: []
+tags: []
 redirect_from: "/archive/2004/04/18/page-23.aspx/"
 ---
 

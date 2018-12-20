@@ -2,7 +2,7 @@
 title: A Minor Redesign for Joel
 date: 2005-10-30 -0800
 disqus_identifier: 11049
-categories: []
+tags: []
 redirect_from: "/archive/2005/10/29/a-minor-redesign-for-joel.aspx/"
 ---
 

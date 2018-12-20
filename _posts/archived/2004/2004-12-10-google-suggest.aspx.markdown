@@ -2,7 +2,7 @@
 title: Google Suggest
 date: 2004-12-10 -0800
 disqus_identifier: 1732
-categories: []
+tags: []
 redirect_from: "/archive/2004/12/09/google-suggest.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Two Years Ago On This Day...
 date: 2005-06-14 -0800
 disqus_identifier: 4698
-categories: []
+tags: []
 redirect_from: "/archive/2005/06/13/two-years-ago.aspx/"
 ---
 
