@@ -3,8 +3,8 @@ title: Austin Texas The Techie Town
 date: 2010-02-28 -0800
 disqus_identifier: 18688
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 - code
 - personal
 redirect_from: "/archive/2010/02/27/austin-texas-great-for-geeks.aspx/"

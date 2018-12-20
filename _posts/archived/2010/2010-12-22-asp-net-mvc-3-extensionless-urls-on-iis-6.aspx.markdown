@@ -3,8 +3,8 @@ title: ASP.NET MVC 3 Extensionless URLs on IIS 6
 date: 2010-12-22 -0800
 disqus_identifier: 18750
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 - code
 redirect_from: "/archive/2010/12/21/asp-net-mvc-3-extensionless-urls-on-iis-6.aspx/"
 ---

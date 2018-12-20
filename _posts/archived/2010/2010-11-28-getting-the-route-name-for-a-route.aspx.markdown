@@ -3,8 +3,8 @@ title: Getting The Route Name For A Route
 date: 2010-11-28 -0800
 disqus_identifier: 18742
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 - code
 redirect_from: "/archive/2010/11/27/getting-the-route-name-for-a-route.aspx/"
 ---

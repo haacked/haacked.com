@@ -4,7 +4,7 @@ date: 2010-11-04 -0800
 disqus_identifier: 18733
 tags:
 - code
-- asp.net
+- aspnet
 redirect_from: "/archive/2010/11/03/assembly-location-and-medium-trust.aspx/"
 ---
 

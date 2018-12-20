@@ -3,8 +3,8 @@ title: ASP.NET MVC Beta Released!
 date: 2008-10-16 -0800
 disqus_identifier: 18540
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 redirect_from: "/archive/2008/10/15/aspnetmvc-beta-release.aspx/"
 ---
 

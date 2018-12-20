@@ -3,7 +3,7 @@ title: Three Hidden Extensibility Gems in ASP.NET 4
 date: 2010-05-16 -0800
 disqus_identifier: 18700
 tags:
-- asp.net
+- aspnet
 - code
 redirect_from: "/archive/2010/05/15/three-hidden-extensibility-gems-in-asp-net-4.aspx/"
 ---

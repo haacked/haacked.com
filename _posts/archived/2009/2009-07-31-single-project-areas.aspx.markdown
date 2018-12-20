@@ -4,7 +4,7 @@ date: 2009-07-31 -0800
 disqus_identifier: 18631
 tags:
 - code
-- asp.net mvc
+- aspnetmvc
 redirect_from: "/archive/2009/07/30/single-project-areas.aspx/"
 ---
 

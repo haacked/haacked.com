@@ -3,8 +3,8 @@ title: Dynamic Methods in View Data
 date: 2010-08-02 -0800
 disqus_identifier: 18714
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 - code
 redirect_from: "/archive/2010/08/01/dynamic-methods-in-view-data.aspx/"
 ---

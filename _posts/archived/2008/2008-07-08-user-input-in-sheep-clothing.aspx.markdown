@@ -3,8 +3,8 @@ title: User Input In Sheep&rsquo;s Clothing
 date: 2008-07-08 -0800
 disqus_identifier: 18502
 tags:
-- asp.net mvc
-- asp.net
+- aspnetmvc
+- aspnet
 - code
 redirect_from: "/archive/2008/07/07/user-input-in-sheep-clothing.aspx/"
 ---

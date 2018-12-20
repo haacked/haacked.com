@@ -3,9 +3,9 @@ title: Introducing RouteMagic
 date: 2011-01-30 -0800
 disqus_identifier: 18760
 tags:
-- asp.net
+- aspnet
 - code
-- asp.net mvc
+- aspnetmvc
 - oss
 redirect_from: "/archive/2011/01/29/introducing-routemagic.aspx/"
 ---

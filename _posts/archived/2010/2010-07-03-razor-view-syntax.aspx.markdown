@@ -3,8 +3,8 @@ title: Razor View Syntax
 date: 2010-07-03 -0800
 disqus_identifier: 18711
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 - razor
 redirect_from: "/archive/2010/07/02/razor-view-syntax.aspx/"
 ---

@@ -1,8 +1,8 @@
 ---
-title: The Secret to NuGet&rsquo;s Success. You!
+title: The Secret to NuGet's Success. You!
 date: 2011-04-29 -0800
 disqus_identifier: 18784
-tags: []
+tags: [nuget]
 redirect_from: "/archive/2011/04/28/nuget-contributors.aspx/"
 ---
 
@@ -102,4 +102,3 @@ our development.
 If you have tips on how to do that best, do let me know! In the
 meanwhile, I’ll brainstorm some ideas on how we can encourage more
 people to participate in the development of NuGet.
-

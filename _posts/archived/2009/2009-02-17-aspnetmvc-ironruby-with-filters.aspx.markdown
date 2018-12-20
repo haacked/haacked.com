@@ -3,8 +3,8 @@ title: IronRuby ASP.NET MVC With Filters
 date: 2009-02-17 -0800
 disqus_identifier: 18588
 tags:
-- asp.net mvc
-- asp.net
+- aspnetmvc
+- aspnet
 - dlr
 redirect_from: "/archive/2009/02/16/aspnetmvc-ironruby-with-filters.aspx/"
 ---

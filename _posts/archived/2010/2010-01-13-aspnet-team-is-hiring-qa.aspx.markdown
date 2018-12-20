@@ -2,8 +2,7 @@
 title: Join My Team And Help Us Produce Higher Quality Products
 date: 2010-01-13 -0800
 disqus_identifier: 18677
-tags:
-- asp.net
+tags: [aspnet]
 redirect_from: "/archive/2010/01/12/aspnet-team-is-hiring-qa.aspx/"
 ---
 

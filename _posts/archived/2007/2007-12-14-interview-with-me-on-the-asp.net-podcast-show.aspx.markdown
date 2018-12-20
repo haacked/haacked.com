@@ -4,7 +4,7 @@ date: 2007-12-14 -0800
 disqus_identifier: 18439
 tags:
 - code
-- asp.net mvc
+- aspnetmvc
 redirect_from: "/archive/2007/12/13/interview-with-me-on-the-asp.net-podcast-show.aspx/"
 ---
 

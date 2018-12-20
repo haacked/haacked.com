@@ -3,7 +3,7 @@ title: Hotfix for Installing ASP.NET MVC With Azure, Power Commands, or Resharpe
 date: 2009-03-06 -0800
 disqus_identifier: 18596
 tags:
-- asp.net mvc
+- aspnetmvc
 redirect_from: "/archive/2009/03/05/hotfix-for-installing-aspnetmvc.aspx/"
 ---
 

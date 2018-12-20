@@ -3,8 +3,8 @@ title: Grouping Routes Part 2
 date: 2011-01-09 -0800
 disqus_identifier: 18754
 tags:
-- asp.net mvc
-- asp.net
+- aspnetmvc
+- aspnet
 - code
 redirect_from: "/archive/2011/01/08/grouping-routes-part-2.aspx/"
 ---

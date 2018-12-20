@@ -4,8 +4,8 @@ date: 2008-09-30 -0800
 disqus_identifier: 18534
 tags:
 - personal
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 redirect_from: "/archive/2008/09/29/jquery-and-asp.net-mvc.aspx/"
 ---
 

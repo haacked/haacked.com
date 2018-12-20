@@ -3,8 +3,8 @@ title: Open Source License For System.Web.Mvc
 date: 2009-04-01 -0800
 disqus_identifier: 18604
 tags:
-- asp.net mvc
-- asp.net
+- aspnetmvc
+- aspnet
 redirect_from: "/archive/2009/03/31/aspnetmvc-open-source.aspx/"
 ---
 

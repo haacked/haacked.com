@@ -4,7 +4,7 @@ date: 2011-10-19 -0800
 disqus_identifier: 18820
 tags:
 - code
-- asp.net
+- aspnet
 redirect_from: "/archive/2011/10/18/implementing-an-authorization-attribute-for-wcf-web-api.aspx/"
 ---
 

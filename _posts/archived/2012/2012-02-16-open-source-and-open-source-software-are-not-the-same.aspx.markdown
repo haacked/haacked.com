@@ -4,7 +4,7 @@ date: 2012-02-16 -0800
 disqus_identifier: 18847
 tags:
 - code
-- asp.net mvc
+- aspnetmvc
 - oss
 - community
 redirect_from: "/archive/2012/02/15/open-source-and-open-source-software-are-not-the-same.aspx/"

@@ -5,7 +5,7 @@ disqus_identifier: 18393
 tags:
 - personal
 - code
-- asp.net mvc
+- aspnetmvc
 redirect_from: "/archive/2007/09/16/why-is-microsoft-removing-my-mvp-status.aspx/"
 ---
 

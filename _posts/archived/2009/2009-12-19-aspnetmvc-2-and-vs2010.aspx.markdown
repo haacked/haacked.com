@@ -3,8 +3,8 @@ title: ASP.NET MVC 2 and Visual Studio 2010
 date: 2009-12-19 -0800
 disqus_identifier: 18669
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 - code
 redirect_from: "/archive/2009/12/18/aspnetmvc-2-and-vs2010.aspx/"
 ---

@@ -3,8 +3,8 @@ title: Ms-PL Source Release for System.Web.Mvc 2
 date: 2010-03-12 -0800
 disqus_identifier: 18690
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 - oss
 - code
 redirect_from: "/archive/2010/03/11/ms-pl-source-release-for-system-web-mvc-2.aspx/"

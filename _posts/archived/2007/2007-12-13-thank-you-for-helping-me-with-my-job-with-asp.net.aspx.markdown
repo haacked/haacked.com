@@ -3,9 +3,9 @@ title: Thank You For Helping Me With My Job With ASP.NET MVC
 date: 2007-12-13 -0800
 disqus_identifier: 18438
 tags:
-- asp.net
+- aspnet
 - code
-- asp.net mvc
+- aspnetmvc
 redirect_from: "/archive/2007/12/12/thank-you-for-helping-me-with-my-job-with-asp.net.aspx/"
 ---
 

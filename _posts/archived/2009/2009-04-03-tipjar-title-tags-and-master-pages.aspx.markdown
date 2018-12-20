@@ -3,8 +3,8 @@ title: 'TipJar: Title Tags and Master Pages'
 date: 2009-04-03 -0800
 disqus_identifier: 18607
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 redirect_from: "/archive/2009/04/02/tipjar-title-tags-and-master-pages.aspx/"
 ---
 

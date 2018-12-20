@@ -3,8 +3,8 @@ title: RouteDebugger 2.0
 date: 2011-04-13 -0800
 disqus_identifier: 18774
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 - code
 redirect_from: "/archive/2011/04/12/routedebugger-2.aspx/"
 ---

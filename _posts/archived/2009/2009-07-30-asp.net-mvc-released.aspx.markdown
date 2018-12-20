@@ -3,9 +3,9 @@ title: ASP.NET MVC 2 Preview 1 Released
 date: 2009-07-30 -0800
 disqus_identifier: 18630
 tags:
-- asp.net
+- aspnet
 - code
-- asp.net mvc
+- aspnetmvc
 redirect_from: "/archive/2009/07/29/asp.net-mvc-released.aspx/"
 ---
 

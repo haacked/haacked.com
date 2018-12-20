@@ -3,7 +3,7 @@ title: Introducing NuGet Package Manager
 date: 2010-10-06 -0800
 disqus_identifier: 18724
 tags:
-- asp.net mvc
+- aspnetmvc
 - code
 - oss
 - nuget

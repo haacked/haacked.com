@@ -3,8 +3,8 @@ title: The Design Is Never Right The First Time
 date: 2008-05-31 -0800
 disqus_identifier: 18489
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 - code
 redirect_from: "/archive/2008/05/30/the-design-is-never-right-the-first-time.aspx/"
 ---

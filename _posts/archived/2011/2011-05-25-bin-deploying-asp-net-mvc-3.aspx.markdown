@@ -3,8 +3,8 @@ title: Bin Deploying ASP.NET MVC 3
 date: 2011-05-25 -0800
 disqus_identifier: 18791
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 - code
 redirect_from: "/archive/2011/05/24/bin-deploying-asp-net-mvc-3.aspx/"
 ---

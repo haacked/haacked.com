@@ -3,8 +3,8 @@ title: Using AntiXss As The Default Encoder For ASP.NET
 date: 2010-04-06 -0800
 disqus_identifier: 18694
 tags:
-- asp.net mvc
-- asp.net
+- aspnetmvc
+- aspnet
 - code
 redirect_from: "/archive/2010/04/05/using-antixss-as-the-default-encoder-for-asp-net.aspx/"
 ---

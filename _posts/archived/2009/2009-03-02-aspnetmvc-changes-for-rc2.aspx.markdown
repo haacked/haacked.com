@@ -3,8 +3,8 @@ title: ASP.NET MVC 1.0 Release Candidate 2
 date: 2009-03-02 -0800
 disqus_identifier: 18593
 tags:
-- asp.net mvc
-- asp.net
+- aspnetmvc
+- aspnet
 redirect_from:
   - /archive/2009/03/01/aspnetmvc-changes-for-rc2.aspx/
   - /archive/2009/03/03/aspnetmvc-changes-for-rc2.aspx/

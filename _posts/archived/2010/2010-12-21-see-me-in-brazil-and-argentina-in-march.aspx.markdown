@@ -4,8 +4,8 @@ date: 2010-12-21 -0800
 disqus_identifier: 18749
 tags:
 - personal
-- asp.net mvc
-- asp.net
+- aspnetmvc
+- aspnet
 redirect_from: "/archive/2010/12/20/see-me-in-brazil-and-argentina-in-march.aspx/"
 ---
 

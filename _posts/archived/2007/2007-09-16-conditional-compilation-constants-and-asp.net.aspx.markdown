@@ -3,7 +3,7 @@ title: Conditional Compilation Constants and ASP.NET
 date: 2007-09-16 -0800
 disqus_identifier: 18392
 tags:
-- asp.net
+- aspnet
 redirect_from: "/archive/2007/09/15/conditional-compilation-constants-and-asp.net.aspx/"
 ---
 

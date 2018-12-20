@@ -3,8 +3,8 @@ title: ASP.NET MVC Diagnostics Using NuGet
 date: 2010-12-05 -0800
 disqus_identifier: 18744
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 - nuget
 - code
 redirect_from: "/archive/2010/12/04/asp-net-mvc-diagnostics-using-nuget.aspx/"

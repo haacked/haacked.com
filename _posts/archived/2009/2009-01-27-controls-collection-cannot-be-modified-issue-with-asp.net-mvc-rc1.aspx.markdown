@@ -3,8 +3,8 @@ title: Controls Collection Cannot Be Modified Issue with ASP.NET MVC RC1
 date: 2009-01-27 -0800
 disqus_identifier: 18580
 tags:
-- asp.net mvc
-- asp.net
+- aspnetmvc
+- aspnet
 redirect_from: "/archive/2009/01/26/controls-collection-cannot-be-modified-issue-with-asp.net-mvc-rc1.aspx/"
 ---
 

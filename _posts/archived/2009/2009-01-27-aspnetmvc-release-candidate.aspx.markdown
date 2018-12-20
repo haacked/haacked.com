@@ -3,8 +3,8 @@ title: ASP.NET MVC Release Candidate
 date: 2009-01-27 -0800
 disqus_identifier: 18579
 tags:
-- asp.net mvc
-- asp.net
+- aspnetmvc
+- aspnet
 redirect_from: "/archive/2009/01/26/aspnetmvc-release-candidate.aspx/"
 ---
 

@@ -4,8 +4,8 @@ date: 2011-02-23 -0800
 disqus_identifier: 18765
 tags:
 - nuget
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 - code
 redirect_from: "/archive/2011/02/22/how-to-find-out-which-nuget-packages-depend-on-yours.aspx/"
 ---

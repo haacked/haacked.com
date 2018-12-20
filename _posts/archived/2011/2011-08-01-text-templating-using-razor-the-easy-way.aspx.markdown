@@ -4,7 +4,7 @@ date: 2011-08-01 -0800
 disqus_identifier: 18803
 tags:
 - code
-- asp.net
+- aspnet
 - razor
 redirect_from: "/archive/2011/07/31/text-templating-using-razor-the-easy-way.aspx/"
 ---

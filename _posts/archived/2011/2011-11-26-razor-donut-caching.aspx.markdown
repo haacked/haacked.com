@@ -3,8 +3,8 @@ title: Razor Donut Caching
 date: 2011-11-26 -0800
 disqus_identifier: 18827
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 - code
 - razor
 redirect_from: "/archive/2011/11/25/razor-donut-caching.aspx/"

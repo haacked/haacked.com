@@ -5,8 +5,8 @@ disqus_identifier: 18776
 tags:
 - code
 - oss
-- asp.net mvc
-- asp.net
+- aspnetmvc
+- aspnet
 - nuget
 redirect_from: "/archive/2011/04/15/a-look-back-at-mix-11.aspx/"
 ---

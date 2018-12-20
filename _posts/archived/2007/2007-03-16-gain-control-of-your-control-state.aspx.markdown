@@ -3,7 +3,7 @@ title: Gain Control Of Your Control State
 date: 2007-03-16 -0800
 disqus_identifier: 18247
 tags:
-- asp.net
+- aspnet
 - code
 redirect_from: "/archive/2007/03/15/gain-control-of-your-control-state.aspx/"
 ---

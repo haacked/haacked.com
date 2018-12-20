@@ -4,7 +4,7 @@ date: 2011-03-31 -0800
 disqus_identifier: 18771
 tags:
 - nuget
-- asp.net
+- aspnet
 - code
 redirect_from: "/archive/2011/03/30/hosting-simple-nuget-package-feed.aspx/"
 ---

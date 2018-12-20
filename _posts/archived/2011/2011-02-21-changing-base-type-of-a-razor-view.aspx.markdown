@@ -3,8 +3,8 @@ title: Changing Base Type Of A Razor View
 date: 2011-02-21 -0800
 disqus_identifier: 18764
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 - razor
 redirect_from: "/archive/2011/02/20/changing-base-type-of-a-razor-view.aspx/"
 ---

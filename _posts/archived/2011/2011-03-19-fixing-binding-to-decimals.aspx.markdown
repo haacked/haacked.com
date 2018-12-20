@@ -3,8 +3,8 @@ title: Model Binding Decimal Values
 date: 2011-03-19 -0800
 disqus_identifier: 18768
 tags:
-- asp.net mvc
-- asp.net
+- aspnetmvc
+- aspnet
 - code
 redirect_from: "/archive/2011/03/18/fixing-binding-to-decimals.aspx/"
 ---

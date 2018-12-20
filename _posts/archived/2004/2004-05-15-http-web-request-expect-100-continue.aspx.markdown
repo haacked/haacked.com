@@ -6,7 +6,7 @@ redirect_from:
 - "/archive/2004/05/15/449.aspx"
 - "/archive/2004/05/14/http-web-request-expect-100-continue.aspx/"
 tags:
-- asp.net
+- aspnet
 - code
 ---
 

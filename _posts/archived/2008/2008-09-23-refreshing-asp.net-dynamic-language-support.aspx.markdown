@@ -3,7 +3,7 @@ title: Refreshing ASP.NET Dynamic Language Support
 date: 2008-09-23 -0800
 disqus_identifier: 18532
 tags:
-- asp.net
+- aspnet
 - dlr
 redirect_from: "/archive/2008/09/22/refreshing-asp.net-dynamic-language-support.aspx/"
 ---

@@ -3,9 +3,9 @@ title: Testing Routes In ASP.NET MVC
 date: 2007-12-17 -0800
 disqus_identifier: 18440
 tags:
-- asp.net
+- aspnet
 - code
-- asp.net mvc
+- aspnetmvc
 redirect_from:
 - "/archive/2007/12/15/testing-routes-in-asp.net-mvc.aspx/"
 - "/archive/2007/12/16/testing-routes-in-asp.net-mvc.aspx/"

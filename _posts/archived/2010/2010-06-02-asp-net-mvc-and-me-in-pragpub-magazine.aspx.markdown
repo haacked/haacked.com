@@ -3,7 +3,7 @@ title: ASP.NET MVC and Me in PragPub Magazine
 date: 2010-06-02 -0800
 disqus_identifier: 18704
 tags:
-- asp.net mvc
+- aspnetmvc
 - personal
 - oss
 redirect_from: "/archive/2010/06/01/asp-net-mvc-and-me-in-pragpub-magazine.aspx/"

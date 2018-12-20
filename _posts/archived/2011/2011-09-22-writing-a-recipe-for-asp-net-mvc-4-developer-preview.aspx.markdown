@@ -3,8 +3,8 @@ title: Writing a Recipe for ASP.NET MVC 4 Developer Preview
 date: 2011-09-22 -0800
 disqus_identifier: 18815
 tags:
-- asp.net mvc
-- asp.net
+- aspnetmvc
+- aspnet
 - nuget
 redirect_from: "/archive/2011/09/21/writing-a-recipe-for-asp-net-mvc-4-developer-preview.aspx/"
 ---

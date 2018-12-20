@@ -4,7 +4,7 @@ date: 2009-04-14 -0800
 disqus_identifier: 18609
 tags:
 - code
-- asp.net mvc
+- aspnetmvc
 redirect_from: "/archive/2009/04/13/using-jquery-grid-with-asp.net-mvc.aspx/"
 ---
 

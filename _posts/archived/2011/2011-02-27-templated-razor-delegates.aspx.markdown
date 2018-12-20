@@ -3,7 +3,7 @@ title: Templated Razor Delegates
 date: 2011-02-27 -0800
 disqus_identifier: 18766
 tags:
-- asp.net mvc
+- aspnetmvc
 - code
 - razor
 redirect_from: "/archive/2011/02/26/templated-razor-delegates.aspx/"

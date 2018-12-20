@@ -3,7 +3,7 @@ title: Redirecting Routes To Maintain Persistent URLs
 date: 2011-02-02 -0800
 disqus_identifier: 18761
 tags:
-- asp.net
+- aspnet
 - nuget
 - oss
 redirect_from: "/archive/2011/02/01/redirecting-routes-to-maintain-persistent-urls.aspx/"

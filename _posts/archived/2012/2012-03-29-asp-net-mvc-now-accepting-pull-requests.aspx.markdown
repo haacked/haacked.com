@@ -5,8 +5,8 @@ disqus_identifier: 18854
 tags:
 - code
 - oss
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 redirect_from: "/archive/2012/03/28/asp-net-mvc-now-accepting-pull-requests.aspx/"
 ---
 

@@ -3,8 +3,8 @@ title: Putting the Con (COM1, LPT1, NUL, etc.) Back in your URLs
 date: 2010-04-29 -0800
 disqus_identifier: 18697
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 - code
 redirect_from: "/archive/2010/04/28/allowing-reserved-filenames-in-URLs.aspx/"
 ---

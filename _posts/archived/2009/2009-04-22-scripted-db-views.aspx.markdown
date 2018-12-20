@@ -4,7 +4,7 @@ date: 2009-04-22 -0800
 disqus_identifier: 18612
 tags:
 - code
-- asp.net mvc
+- aspnetmvc
 - dlr
 redirect_from: "/archive/2009/04/21/scripted-db-views.aspx/"
 ---

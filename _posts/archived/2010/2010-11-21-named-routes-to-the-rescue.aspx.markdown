@@ -3,8 +3,8 @@ title: Named Routes To The Rescue
 date: 2010-11-21 -0800
 disqus_identifier: 18738
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 - code
 redirect_from: "/archive/2010/11/20/named-routes-to-the-rescue.aspx/"
 ---

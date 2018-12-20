@@ -2,9 +2,7 @@
 title: Do Not Adjust Your Browser
 date: 2010-01-12 -0800
 disqus_identifier: 18676
-tags:
-- subtext
-- code
+tags: [subtext]
 redirect_from: "/archive/2010/01/11/do-not-adjust-your-browser.aspx/"
 ---
 

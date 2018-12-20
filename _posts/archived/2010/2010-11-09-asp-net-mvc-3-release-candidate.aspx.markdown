@@ -3,8 +3,8 @@ title: ASP.NET MVC 3 Release Candidate
 date: 2010-11-09 -0800
 disqus_identifier: 18736
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 - code
 - nuget
 redirect_from: "/archive/2010/11/08/asp-net-mvc-3-release-candidate.aspx/"

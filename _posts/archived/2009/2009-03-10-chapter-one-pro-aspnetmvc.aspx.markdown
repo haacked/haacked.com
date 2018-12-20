@@ -4,7 +4,7 @@ date: 2009-03-10 -0800
 disqus_identifier: 18597
 tags:
 - code
-- asp.net mvc
+- aspnetmvc
 redirect_from: "/archive/2009/03/09/chapter-one-pro-aspnetmvc.aspx/"
 ---
 

@@ -3,8 +3,8 @@ title: Preventing CSRF With Ajax
 date: 2011-10-10 -0800
 disqus_identifier: 18817
 tags:
-- asp.net mvc
-- asp.net
+- aspnetmvc
+- aspnet
 - code
 redirect_from: "/archive/2011/10/09/preventing-csrf-with-ajax.aspx/"
 ---

@@ -3,8 +3,8 @@ title: Sprechen Sie ASP.NET MVC?
 date: 2011-01-21 -0800
 disqus_identifier: 18759
 tags:
-- asp.net
-- asp.net mvc
+- aspnet
+- aspnetmvc
 redirect_from: "/archive/2011/01/20/sprechen-sie-asp-net-mvc.aspx/"
 ---
 

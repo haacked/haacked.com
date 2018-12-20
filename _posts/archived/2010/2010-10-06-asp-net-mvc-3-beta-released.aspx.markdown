@@ -3,8 +3,8 @@ title: ASP.NET MVC 3 Beta Released
 date: 2010-10-06 -0800
 disqus_identifier: 18723
 tags:
-- asp.net mvc
-- asp.net
+- aspnetmvc
+- aspnet
 - code
 redirect_from: "/archive/2010/10/05/asp-net-mvc-3-beta-released.aspx/"
 ---

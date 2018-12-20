@@ -3,8 +3,8 @@ title: Redirect Routes and other Fun With Routing And Lambdas
 date: 2008-12-15 -0800
 disqus_identifier: 18565
 tags:
-- asp.net mvc
-- asp.net
+- aspnetmvc
+- aspnet
 redirect_from: "/archive/2008/12/14/redirect-routes-and-other-fun-with-routing-and-lambdas.aspx/"
 ---
 

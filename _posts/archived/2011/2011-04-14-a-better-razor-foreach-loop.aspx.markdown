@@ -5,7 +5,7 @@ disqus_identifier: 18775
 tags:
 - razor
 - code
-- asp.net mvc
+- aspnetmvc
 redirect_from: "/archive/2011/04/13/a-better-razor-foreach-loop.aspx/"
 ---
 

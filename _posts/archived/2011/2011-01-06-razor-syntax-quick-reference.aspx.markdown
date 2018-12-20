@@ -3,8 +3,8 @@ title: C# Razor Syntax Quick Reference
 date: 2011-01-06 -0800
 disqus_identifier: 18753
 tags:
-- asp.net mvc
-- asp.net
+- aspnetmvc
+- aspnet
 - code
 redirect_from: "/archive/2011/01/05/razor-syntax-quick-reference.aspx/"
 ---

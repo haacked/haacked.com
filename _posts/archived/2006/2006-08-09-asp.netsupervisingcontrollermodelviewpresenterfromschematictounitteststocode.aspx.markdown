@@ -7,9 +7,9 @@ redirect_from:
 - "/archive/2006/08/09/ASP.NETSupervisingControllerModelViewPresenterFromSchematicToUnitTestsToCode.aspx/"
 disqus_identifier: 14779
 tags:
-- asp.net
+- aspnet
 - code
-- asp.net mvc
+- aspnetmvc
 ---
 
 UPDATE: For a more full featured implementation of this pattern for

@@ -3,7 +3,7 @@ title: ASP.NET 4 Web Server Here Shell Extension
 date: 2009-10-27 -0800
 disqus_identifier: 18652
 tags:
-- asp.net
+- aspnet
 redirect_from: "/archive/2009/10/26/aspnet4-webserver-here-shell-extension.aspx/"
 ---
 

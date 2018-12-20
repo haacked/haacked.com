@@ -3,9 +3,9 @@ title: Using ASP.NET MVC With Visual Web Developer Express
 date: 2007-12-10 -0800
 disqus_identifier: 18435
 tags:
-- asp.net
+- aspnet
 - code
-- asp.net mvc
+- aspnetmvc
 redirect_from: "/archive/2007/12/09/using-asp.net-mvc-with-visual-web-developer-express.aspx/"
 ---
 

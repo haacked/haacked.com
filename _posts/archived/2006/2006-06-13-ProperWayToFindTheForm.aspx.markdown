@@ -4,7 +4,7 @@ date: 2006-06-13 -0800
 disqus_identifier: 13303
 tags:
 - code
-- asp.net
+- aspnet
 redirect_from: "/archive/2006/06/12/ProperWayToFindTheForm.aspx/"
 ---
 
