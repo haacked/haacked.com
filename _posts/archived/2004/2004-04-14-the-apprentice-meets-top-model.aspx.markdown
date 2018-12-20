@@ -1,12 +1,12 @@
 ---
 title: The Apprentice meets Top Model
 date: 2004-04-14 -0800
-tags: []
+tags: [news]
 redirect_from: "/archive/2004/04/13/the-apprentice-meets-top-model.aspx/"
 ---
 
 Looks like four of the women in the Apprentice posed for FHM. They were
-offered \$250,000 to pose for Playboy, but chose to pose for free for
+offered $250,000 to pose for Playboy, but chose to pose for free for
 FHM instead.
 
 [The Pic on

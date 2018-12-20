@@ -1,7 +1,7 @@
 ---
 title: Apple's Unintended Compliment To PCs
 date: 2006-06-30 -0800
-tags: []
+tags: [tech]
 redirect_from: "/archive/2006/06/29/ApplesUnintendedComplimentToWindows.aspx/"
 ---
 

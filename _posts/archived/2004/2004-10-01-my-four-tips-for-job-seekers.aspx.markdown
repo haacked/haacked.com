@@ -1,30 +1,21 @@
 ---
 title: My Four Tips For Job Seekers
 date: 2004-10-01 -0800
-tags: []
+tags: [tips,career,hiring]
 redirect_from: "/archive/2004/09/30/my-four-tips-for-job-seekers.aspx/"
 ---
 
-Ok, I just have to take a moment to rant a bit. We’re currently looking
-for some mid-level developers as well as a System Administrator.
-Naturally we posted a job description on
-[Dice.com](http://www.dice.com/ "Dice") and
-[craigslist.org](http://www.craigslist.org/ "Craigs List"). In general I
-find the best candidates through referral, but occasionaly I’ll get a
-few good ones through a job site.
+Ok, I just have to take a moment to rant a bit. We’re currently looking for some mid-level developers as well as a System Administrator. Naturally we posted a job description on [Dice.com](http://www.dice.com/ "Dice") and
+[craigslist.org](http://www.craigslist.org/ "Craigs List"). In general I find the best candidates through referral, but occasionaly I’ll get a few good ones through a job site.
 
-If the crop of resumes and cover letters I received is a fair indication
-of the quality of developer job applicants out there (and I hope and
-believe this is not the case), then either the U.S. developer population
-is nearly fully employed (in which case I’m cool), or outsourcing to
-offshore countries is starting to make a lot of sense.
+If the crop of resumes and cover letters I received is a fair indication of the quality of developer job applicants out there (and I hope and believe this is not the case), then either the U.S. developer population is nearly fully employed (in which case I’m cool), or outsourcing to offshore countries is starting to make a lot of sense.
 
 So let’s start of with an episode of:
 
 Haacked.com’s 4 Tips For Job Seekers
 
 **1. Your cover letter and resume should be an example of the best work
-you can do.** \
+you can do.**
  Initially, I have absolutely nothing to judge you by except your resume
 and cover letter. So take the time to get it right. If you’re applying
 to be a system administrator and you spell *virus* as *viurs*, I have to
@@ -37,19 +28,19 @@ Compared to the other gruft I get, a well written cover letter is page
 gripper. I’ll take it to the beach and read it over and over.
 
 **2. Learn to use a spell-checker and have someone else proof-read your
-resume.** \
+resume.**
  As a developer, I understand that a spell checker chokes on the line
 where you list your skills as
 
-> Expert in C\#/C++/C/PERL/J++/WMD/ASP.NET/Stamp
+> Expert in C#/C++/C/PERL/J++/WMD/ASP.NET/Stamp
 > Collecting/Java/J2EE/Oracle/Cisco/SQL/Table
 > tennis/Chess/Jai-Alai/Math/
 
 But you’re supposed to be a problem solver. Figure it out. If your
 resume has obvious spelling and grammar errors, it reflects poorly on
-yourself (see tip \#1).
+yourself (see tip #1).
 
-**3. Provide working and professional contact info**\
+**3. Provide working and professional contact info**
  I kid you not, I received a resume with the email address
 *WatchYoBack@[Domain Witheld].com*.
 
@@ -71,7 +62,7 @@ for sexual intercourse. Something to do with uglies. That one I found
 funny, but would not recommend it as not everyone shares my sense of
 humor.
 
-**4. Lastly, do provide an updated resume** \
+**4. Lastly, do provide an updated resume**
  I was speaking to one candidate and he started talking about recent
 employers that I could not find on his resume. His last job listed ended
 in 2003. When I asked about this discrepancy, he apologized and said

@@ -1,7 +1,7 @@
 ---
 title: "The Meaning of Work"
 date: 2015-10-21 -0800
-tags: [work]
+tags: [work,management,motivation]
 ---
 
 The [TED Radio Hour podcast](http://www.npr.org/programs/ted-radio-hour/?showDate=2015-10-16) has an [amazing episode entitled "The Meaning of Work"](http://www.npr.org/programs/ted-radio-hour/443411154/the-meaning-of-work). It consists of four segments that cover various aspects of finding meaning and motivation at work. You should definitely listen to it, but I'll provide a brief summary here of some points I found interesting.

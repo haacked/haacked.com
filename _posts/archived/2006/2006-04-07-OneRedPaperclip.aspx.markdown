@@ -1,7 +1,7 @@
 ---
 title: One Red Paperclip
 date: 2006-04-07 -0800
-tags: []
+tags: [community]
 redirect_from: "/archive/2006/04/06/OneRedPaperclip.aspx/"
 ---
 

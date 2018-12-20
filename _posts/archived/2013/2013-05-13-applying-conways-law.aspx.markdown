@@ -1,10 +1,7 @@
 ---
 title: Applying Conway&rsquo;s Law
 date: 2013-05-13 -0800
-tags:
-- code
-- oss
-- github
+tags: [management]
 redirect_from: "/archive/2013/05/12/applying-conways-law.aspx/"
 ---
 
@@ -55,9 +52,9 @@ Apply Conway’s Law
 So if Conway’s Law is true, how can you make it work to your advantage? Well by restating it as [Jesse Toth](https://twitter.com/jesseplusplus "Jesse Toth on Twitter") does according to [this tweet by Sara Mei](https://twitter.com/sarahmei/status/333636839451795456 "Tweet on Conway's Law restated"):
 
 > Conway's Law restated by
-> [@jesse\_toth](https://twitter.com/jesseplusplus "Jesse Toth on Twitter"):
+> [@jesse_toth](https://twitter.com/jesseplusplus "Jesse Toth on Twitter"):
 > we should model our teams and our communication structures after the
-> architecture we want.  \#scotruby
+> architecture we want. #scotruby
 
 Conway’s Law in its initial form is passive. It’s an observation of how software structures tend to follow social structures. So it only makes sense to move from observer to active participant and change the organizational structures to match the architecture you want to produce.
 

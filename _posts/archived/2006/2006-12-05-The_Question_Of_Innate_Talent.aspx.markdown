@@ -1,7 +1,7 @@
 ---
 title: The Question Of Innate Talent
 date: 2006-12-05 -0800
-tags: []
+tags: [science,career]
 redirect_from: "/archive/2006/12/04/The_Question_Of_Innate_Talent.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The Poor Management Epidemic
 date: 2005-10-09 -0800
-tags: []
+tags: [management]
 redirect_from: "/archive/2005/10/08/ThePoorManagementEpidemic.aspx/"
 ---
 
@@ -19,10 +19,8 @@ In general, I see one two main afflictions that affects corporate
 thinking in America. It is from these two items that all other problems
 seem to sprout from.
 
--   Placing short-sighted goals above all strategic and long-term
-    planning.
--   Making decisions based on hopes rather than analysis and objective
-    data.
+- Placing short-sighted goals above all strategic and long-term planning.
+- Making decisions based on hopes rather than analysis and objective data.
 
 A typical scenario might look like this. A company is starting a
 software project and ask their tech team (or consultants), “Hey, how
@@ -50,7 +48,7 @@ Perhaps the tech team understands the principle of the project triangle.
 
 But try telling that to management. You ask them if they will prioritize
 features, and they come back with a list where *every* feature is
-priority \#1.
+priority #1.
 
 At this point, the company is managing by hopes and fairy tales. They
 *hoped* the time they promised was reasonable. They *hope* the tech team
@@ -70,8 +68,8 @@ cards](https://haacked.com/archive/2005/09/24/10336.aspx).
 To see the epidemic nature of this scenario, you only need to read the
 paper. The recent classic example is the [Virtual Case File
 project](http://www.spectrum.ieee.org/sep05/1682). After more than three
-years and \$170 million spent, the entire project was scrapped. That is
-\$170 million in taxpayer money down the drain because of complete
+years and $170 million spent, the entire project was scrapped. That is
+$170 million in taxpayer money down the drain because of complete
 ineptitude, poor management by both the client (the FBI) and their
 vendor.
 
@@ -84,6 +82,3 @@ to [Johanna Rothman’s blog](http://www.jrothman.com/weblog/). She has a
 example](http://www.jrothman.com/weblog/2005/09/tracking-licenses-as-way-of-tracking.html)
 of how managers can be “penny-wise and pound-foolish”. Just another
 example of being short-sighted.
-
-[Listening to: Circuit Breaker - Röyksopp - The Understanding (5:25)]
-

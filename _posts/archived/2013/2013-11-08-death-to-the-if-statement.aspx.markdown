@@ -1,8 +1,7 @@
 ---
 title: Death to the IF statement
 date: 2013-11-08 -0800
-tags:
-- code
+tags: [code,functional]
 redirect_from: "/archive/2013/11/07/death-to-the-if-statement.aspx/"
 ---
 
@@ -29,7 +28,7 @@ code,
 We don’t need to try and kill every `if` statement, but perhaps the more
 we do, the better our code becomes.
 
-[![Msi\_if\_cover](https://haacked.com/images/haacked_com/WindowsLiveWriter/UnconditionalProgrammingInC_BD84/Msi_if_cover_thumb.jpg "Msi_if_cover")](https://haacked.com/images/haacked_com/WindowsLiveWriter/UnconditionalProgrammingInC_BD84/Msi_if_cover_2.jpg)*Photo
+[![Msi_if_cover](https://haacked.com/images/haacked_com/WindowsLiveWriter/UnconditionalProgrammingInC_BD84/Msi_if_cover_thumb.jpg "Msi_if_cover")](https://haacked.com/images/haacked_com/WindowsLiveWriter/UnconditionalProgrammingInC_BD84/Msi_if_cover_2.jpg)*Photo
 from [wikimedia](http://en.wikipedia.org/wiki/File:Msi_if_cover.jpg):
 Cover of If by the artist Mindless Self Indulgence*
 
@@ -131,7 +130,7 @@ my tests, the performance of `PaddedTake` stays pretty close to `Take`
 as we grow the array and the take.
 
 I think it’d be interesting to have a build task that reported back the
-number of \`if\` statements and other control structures per line of
+number of `if` statements and other control structures per line of
 code and see if you can bring that down over time. In any case, I hope
 this helps you improve your own code!
 

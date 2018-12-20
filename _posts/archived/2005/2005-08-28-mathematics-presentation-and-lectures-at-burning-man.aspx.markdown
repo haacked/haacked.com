@@ -31,7 +31,7 @@ Sweet!
 
 Oh you know this geek will be there. I may even give a short
 presentation as I’ve always liked discussing the [Monty Hall
-Problem](https://haacked.com/archive/2004/07/21/836.aspx). It’s a very
+Problem](https://haacked.com/archive/2004/07/21/monty-haul-and-monte-carlo.aspx/). It’s a very
 simple problem, but there are always holdouts who love to argue against
 the correct answer. Besides, I should keep it simple. You really can’t
 expect to engage a bunch of drugged out nude hippies in deeper

@@ -1,8 +1,7 @@
 ---
 title: The Getting Better Moment
 date: 2015-06-15 -0800
-tags:
-- code bugs software
+tags: [career]
 redirect_from: "/archive/2015/05/14/the-getting-better-moment/"
 ---
 
