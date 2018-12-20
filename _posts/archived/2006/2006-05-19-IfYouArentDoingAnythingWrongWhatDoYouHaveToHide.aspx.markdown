@@ -1,8 +1,7 @@
 ---
 title: If You Aren't Doing Anything Wrong, What Do You Have To Hide?
 date: 2006-05-19 -0800
-tags:
-- personal
+tags: [security,politics,privacy]
 redirect_from: "/archive/2006/05/18/IfYouArentDoingAnythingWrongWhatDoYouHaveToHide.aspx/"
 ---
 

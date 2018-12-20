@@ -1,8 +1,7 @@
 ---
 title: Beer-Up in Reykjavik, Iceland
 date: 2011-10-31 -0800
-tags:
-- personal
+tags: [conferences]
 redirect_from: "/archive/2011/10/30/beer-in-iceland.aspx/"
 ---
 
@@ -19,7 +18,7 @@ beer-up. A Beer-Up is basically a meet-up, but with lots of beer!
     which direction is my hotel?
 
 [![blue-lagoon](https://haacked.com/images/haacked_com/WindowsLiveWriter/Meet-for-Beer-in-Reykyavic_D0FD/blue-lagoon_3.jpg "blue-lagoon")](http://www.sxc.hu/photo/862117 "Blue Lagoon on sxc.hu")
-\
+
 *Blue Lagoon in Iceland - Photo from sxc.hu*
 
 I’ll be stopping overnight in Reykjavik on my way to [Oredev

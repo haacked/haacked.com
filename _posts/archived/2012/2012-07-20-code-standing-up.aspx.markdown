@@ -2,8 +2,7 @@
 title: Sitting is Making You Fat and Killing You
 date: 2012-07-20 -0800
 tags:
-- code
-- personal
+- health
 - tech
 redirect_from: "/archive/2012/07/19/code-standing-up.aspx/"
 ---

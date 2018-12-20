@@ -1,8 +1,7 @@
 ---
 title: Fitbit Me
 date: 2013-01-23 -0800
-tags:
-- personal
+tags: [personal,health]
 redirect_from: "/archive/2013/01/22/fitbit-me.aspx/"
 ---
 

@@ -43,12 +43,12 @@ While there, I gave three talks, one of them being a joint talk with the
 Hanselman).
 
 > **Black Belt Ninja Tips [ASP.NET
-> MVC](http://asp.net/mvc "ASP.NET Website")** \
+> MVC](http://asp.net/mvc "ASP.NET Website")**
 > This covered several tips on getting more out of ASP.NET MVC and
 > included the first public demonstration of [David Ebbo’s T4
 > template](http://blogs.msdn.com/davidebb/archive/2009/06/17/a-new-and-improved-asp-net-mvc-t4-template.aspx).
 >
-> **ASP.NET MVC + AJAX = meant for each other \
+> **ASP.NET MVC + AJAX = meant for each other
 > **This covered the Ajax helpers included with ASP.NET MVC and drilled
 > into some of the lesser known client aspects of these helpers, such as
 > showing the `Sys.Mvc.AjaxContext` object and how to leverage it. The
@@ -60,7 +60,7 @@ Hanselman).
 > (mostly Jonathan) did to make two-way data binding work with ASP.NET
 > MVC. The audience really dug it.
 >
-> **The Haacked and Hanselman Show \
+> **The Haacked and Hanselman Show
 > **So named because we didn’t have any agenda until about a week before
 > the conference, this ended up being a web security talk where Scott
 > would present a common “secure” implementation of a feature, I would
@@ -89,10 +89,10 @@ attendee party featuring the band,
 [DataRock](http://www.datarockmusic.com/ "DataRock") which played some
 rocking music with geek friendly lyrics like:
 
-> I ran into her on computer camp \
-> (Was that in 84?) \
-> Not sure \
-> I had my commodore 64 \
+> I ran into her on computer camp
+> (Was that in 84?)
+> Not sure
+> I had my commodore 64
 > Had to score
 >
 > *-- DataRock, Computer Camp Love*

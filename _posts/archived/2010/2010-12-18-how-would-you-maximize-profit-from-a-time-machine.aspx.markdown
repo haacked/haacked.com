@@ -1,8 +1,7 @@
 ---
 title: How Would You Maximize Profit From A Time Machine?
 date: 2010-12-18 -0800
-tags:
-- personal
+tags: [hypothetical]
 redirect_from: "/archive/2010/12/17/how-would-you-maximize-profit-from-a-time-machine.aspx/"
 ---
 
@@ -12,7 +11,7 @@ sometimes make the mistake of saying something like “if I could go back
 in time, I’d tell myself not to make that decision.”
 
 ![flux-capacitor](https://haacked.com/images/haacked_com/WindowsLiveWriter/How-Would-You-Maximize-Profit-From-A-Tim_BDA7/flux-capacitor_3.jpg "flux-capacitor")
-\
+
 *Image from [the
 greenhead](http://www.thegreenhead.com/2007/12/back-to-the-future-flux-capacitor-replica.php "The GreenHead website").*
 
@@ -60,4 +59,3 @@ maximize profit with a single trip back in time?**
 
 Again, this is purely hypothetical. I don’t have a time machine in the
 garage. Let’s just say, I like to be prepared just in case.
-

@@ -1,8 +1,7 @@
 ---
 title: Alaska. We'll Pay You To Live Here.
 date: 2004-08-01 -0800
-tags:
-- personal
+tags: [news]
 redirect_from: "/archive/2004/07/31/alaska-we-will-pay-you-to-move-here.aspx/"
 ---
 

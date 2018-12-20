@@ -1,9 +1,7 @@
 ---
 title: Specs for Haacked.com
 date: 2011-11-19 -0800
-tags:
-- code
-- personal
+tags: [meta]
 redirect_from: "/archive/2011/11/18/specs-for-haacked-com.aspx/"
 ---
 

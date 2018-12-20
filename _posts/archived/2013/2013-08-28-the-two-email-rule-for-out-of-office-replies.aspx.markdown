@@ -1,10 +1,7 @@
 ---
 title: The Two Email Rule For Out of Office Replies
 date: 2013-08-28 -0800
-tags:
-- humor
-- personal
-- company culture
+tags: [humor,culture]
 redirect_from: "/archive/2013/08/27/the-two-email-rule-for-out-of-office-replies.aspx/"
 ---
 

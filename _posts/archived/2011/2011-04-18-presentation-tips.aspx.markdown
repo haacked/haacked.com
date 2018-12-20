@@ -1,10 +1,7 @@
 ---
 title: Presentation Tips Learned From My (Many) Mistakes
 date: 2011-04-18 -0800
-tags:
-- code
-- tech
-- personal
+tags: [tips,speaking]
 redirect_from: "/archive/2011/04/17/presentation-tips.aspx/"
 ---
 

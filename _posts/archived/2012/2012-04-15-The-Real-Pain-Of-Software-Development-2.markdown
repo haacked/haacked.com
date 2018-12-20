@@ -4,7 +4,7 @@ date: 2012-04-15 -0800
 redirect_from:
   - "/archive/2012/04/15/The-Real-Pain-Of-Software-Development-2.aspx.aspx.html/"
   - "/archive/2012/04/15/The-Real-Pain-Of-Software-Development-2.aspx.html/"
-tags: [dvorak,typing,rsi]
+tags: [dvorak,typing,rsi,ergonomics,health]
 ---
 Around eight years ago I wrote a blog post about [Repetitive Strain
 Injury](http://en.wikipedia.org/wiki/Repetitive_strain_injury "Repetive Strain Injury on Wkipedia")

@@ -1,8 +1,7 @@
 ---
 title: Weekend Update
 date: 2004-02-23 -0800
-tags:
-- personal
+tags: [personal]
 redirect_from: "/archive/2004/02/22/weekend-update-Feb-2004.aspx/"
 ---
 

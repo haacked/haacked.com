@@ -1,8 +1,7 @@
 ---
 title: Live Every Day As If It Were...
 date: 2006-06-02 -0800
-tags:
-- personal
+tags: [tips]
 redirect_from: "/archive/2006/06/01/LiveEveryDayAsIfItWere.aspx/"
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Departures
 date: 2011-11-28 -0800
-tags:
-- personal
-- nuget
+tags: [microsoft,work]
 redirect_from: "/archive/2011/11/27/departing-microsoft.aspx/"
 ---
 

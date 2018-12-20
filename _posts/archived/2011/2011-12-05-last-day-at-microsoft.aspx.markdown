@@ -1,8 +1,7 @@
 ---
 title: Last Day at Microsoft
 date: 2011-12-05 -0800
-tags:
-- personal
+tags: [microsoft,work]
 redirect_from: "/archive/2011/12/04/last-day-at-microsoft.aspx/"
 ---
 

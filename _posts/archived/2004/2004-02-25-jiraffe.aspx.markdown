@@ -1,8 +1,7 @@
 ---
 title: Jiraffe
 date: 2004-02-25 -0800
-tags:
-- personal
+tags: [personal]
 redirect_from: "/archive/2004/02/24/jiraffe.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The Stories We Tell Ourselves"
 date: 2014-02-14 21:09 -0800
-tags: [personal]
+tags: [personal,management,relationships]
 ---
 
 Everyone is the protagonist of their own narrative. And in this narrative, it's only natural to see ourselves as the proverbial "good guy" of the story. We tend to rationalize our own actions as necessary or positive, much like Walter White until (_spoiler alert_) the end of Breaking Bad.

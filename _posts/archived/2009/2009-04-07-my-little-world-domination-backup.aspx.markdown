@@ -1,8 +1,7 @@
 ---
 title: My Little World Domination Backup
 date: 2009-04-07 -0800
-tags:
-- personal
+tags: [personal,parenting]
 redirect_from: "/archive/2009/04/06/my-little-world-domination-backup.aspx/"
 ---
 
@@ -15,7 +14,7 @@ a partner in crime.
 
 [![mia](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyLittleWorldDominationBackup_11528/mia_thumb.jpg "mia")](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyLittleWorldDominationBackup_11528/mia_2.jpg)
 So my wife and I conspired together and we’re happy to announce that
-baby \#2 is on the way. Together, the two of them will be unstoppable!
+baby #2 is on the way. Together, the two of them will be unstoppable!
 
 My wife is past her first trimester and we expect the baby to RTF
 (Release To Family) around October.

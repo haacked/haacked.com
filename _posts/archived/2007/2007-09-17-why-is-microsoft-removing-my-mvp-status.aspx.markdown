@@ -1,10 +1,7 @@
 ---
 title: Why Is Microsoft Removing My MVP Status?
 date: 2007-09-17 -0800
-tags:
-- personal
-- code
-- aspnetmvc
+tags: [work,microsoft]
 redirect_from: "/archive/2007/09/16/why-is-microsoft-removing-my-mvp-status.aspx/"
 ---
 

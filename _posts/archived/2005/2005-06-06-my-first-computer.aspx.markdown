@@ -1,9 +1,7 @@
 ---
 title: This Was My First Computer
 date: 2005-06-06 -0800
-tags:
-- personal
-- tech
+tags: [personal,tech]
 redirect_from: "/archive/2005/06/05/my-first-computer.aspx/"
 ---
 

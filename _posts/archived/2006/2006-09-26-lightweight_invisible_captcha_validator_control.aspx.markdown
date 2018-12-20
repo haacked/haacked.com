@@ -1,9 +1,7 @@
 ---
 title: Lightweight Invisible CAPTCHA Validator Control
 date: 2006-09-26 -0800
-tags:
-- personal
-- aspnet
+tags: [spam,aspnet]
 redirect_from:
 - "/archive/2006/09/25/lightweight_invisible_captcha_validator_control.aspx/"
 - "/archive/2006/09/26/Lightweight_Invisible_CAPTCHA_Validator_Control.aspx/"

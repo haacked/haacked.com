@@ -1,9 +1,7 @@
 ---
 title: I Want This Shirt For My Son
 date: 2007-03-18 -0800
-tags:
-- personal
-- humor
+tags: [humor,parenting]
 redirect_from: "/archive/2007/03/17/i-want-this-shirt-for-my-son.aspx/"
 ---
 

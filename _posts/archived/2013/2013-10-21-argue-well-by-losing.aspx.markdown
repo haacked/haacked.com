@@ -1,9 +1,7 @@
 ---
 title: Argue Well By Losing
 date: 2013-10-21 -0800
-tags:
-- community
-- personal
+tags: [management,relationships]
 redirect_from: "/archive/2013/10/20/argue-well-by-losing.aspx/"
 ---
 
@@ -89,7 +87,7 @@ When one isn’t, it becomes overwhelmingly tempting to resort to any
 means necessary in order to wipe that smug smirk off your opponent’s
 face.
 
-[![Troll\_Face](https://haacked.com/images/haacked_com/WindowsLiveWriter/ArgueWellByLosing_BE9C/Troll_Face_thumb.png "Troll_Face")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ArgueWellByLosing_BE9C/Troll_Face_2.png)
+[![Troll_Face](https://haacked.com/images/haacked_com/WindowsLiveWriter/ArgueWellByLosing_BE9C/Troll_Face_thumb.png "Troll_Face")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ArgueWellByLosing_BE9C/Troll_Face_2.png)
 
 Of course, both sides will believe they’re the one who is drawing
 conclusions from years of objective rational analysis, but [they’re both

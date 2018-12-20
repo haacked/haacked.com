@@ -1,7 +1,7 @@
 ---
 title: P2P RSS and the Return of Push!
 date: 2004-04-29 -0800
-tags: []
+tags: [rss,blogging]
 redirect_from: "/archive/2004/04/28/p2p-rss-and-the-return-of-push.aspx/"
 ---
 

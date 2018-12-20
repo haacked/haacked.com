@@ -1,8 +1,7 @@
 ---
 title: The Feedburner to Google Domain Transition Foul Up
 date: 2008-12-11 -0800
-tags:
-- personal
+tags: [meta]
 redirect_from: "/archive/2008/12/10/the-feedburner-to-google-domain-transition-foul-up.aspx/"
 ---
 

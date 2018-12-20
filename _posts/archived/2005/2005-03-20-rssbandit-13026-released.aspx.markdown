@@ -1,8 +1,7 @@
 ---
 title: RSS Bandit 1.3.0.26 Released!
 date: 2005-03-20 -0800
-tags:
-- oss
+tags: [rssbandit]
 redirect_from: "/archive/2005/03/19/rssbandit-13026-released.aspx/"
 ---
 
@@ -12,10 +11,10 @@ redirect_from: "/archive/2005/03/19/rssbandit-13026-released.aspx/"
 work by yours truly), the Wolverine edition of RSS Bandit has been
 released to the public.
 
-If you're still using a 1.2.\* version, I think you'll really like the
+If you're still using a 1.2.* version, I think you'll really like the
 extra polish and speed of this latest version.
 
-Some highlights to note:\
+Some highlights to note:
 
 -   Newspaper Styles - Compatible with FeedDemon.
 -   Column Chooser - Specify the columns to display in the list view.

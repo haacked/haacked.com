@@ -1,8 +1,7 @@
 ---
 title: End Of Year 2010 Extravaganza
 date: 2010-12-30 -0800
-tags:
-- personal
+tags: [meta]
 redirect_from: "/archive/2010/12/29/end-of-year-2010-extravaganza.aspx/"
 ---
 

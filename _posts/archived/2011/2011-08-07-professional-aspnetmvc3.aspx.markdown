@@ -4,7 +4,6 @@ date: 2011-08-07 -0800
 tags:
 - aspnet
 - aspnetmvc
-- personal
 - tech
 - code
 redirect_from: "/archive/2011/08/06/professional-aspnetmvc3.aspx/"

@@ -1,10 +1,7 @@
 ---
 title: The Real Pain Of Software Development [part 1]
 date: 2004-06-10 -0800
-tags:
-- code
-- personal
-- tech
+tags: [dvorak,typing,rsi,ergonomics,health]
 redirect_from: "/archive/2004/06/09/The-Real-Pain-Of-Software-Development-1.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Strict Traffic Laws
 date: 2005-01-02 -0800
-tags: [humor,personal]
+tags: [humor]
 redirect_from: "/archive/2005/01/01/strict-traffic-laws.aspx/"
 ---
 
@@ -30,15 +30,15 @@ first officer as a result. He tells me it was rather non-eventful, but I
 like to think it went something like this:
 
 **1st officer:** So Sgt Haack, I see your son got himself in a bit of
-trouble.\
-**Dad:** Yes sir, a minor traffic violation.\
-**1st officer:** I didn't realize he was old enough to drive.\
-**Dad:** Well sir, he isn't.\
+trouble.
+**Dad:** Yes sir, a minor traffic violation.
+**1st officer:** I didn't realize he was old enough to drive.
+**Dad:** Well sir, he isn't.
 **1st officer:** ah, so driving without a license too. Sounds like a bad
-start.\
+start.
 **Dad:** Possibly, though he was riding a bicycle. But you know kids
 these days. It starts with riding a bicycle too fast and the next thing
-you know, he's smoking crack.\
+you know, he's smoking crack.
 **1st officer:** Ummm. I see. Well tell your son to keep it in a lower
 gear. Dismissed.
 
