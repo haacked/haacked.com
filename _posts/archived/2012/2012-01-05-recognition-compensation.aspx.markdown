@@ -1,9 +1,7 @@
 ---
 title: Recognition Compensation
 date: 2012-01-05 -0800
-tags:
-- oss
-- community
+tags: [compensation,management,oss,community]
 redirect_from: "/archive/2012/01/04/recognition-compensation.aspx/"
 ---
 
@@ -100,7 +98,6 @@ Recognize!
 Will Microsoft change the program? I have no idea. I’m not really all that concerned about it really. In the meanwhile, **we** can recognize folks who make our lives better. We don’t need to wait for Microsoft to do so. I’ve used a huge swath of open source projects that have made my development smoother. I’ve found many great answers in forums, blog
 posts, StackOverflow that unblocked me.
 
-Moving forward, I’ll make an extra effort to thank the people responsible for those things. Maybe there’s some projects and folks you
-should recognize. Go for it! It’ll feel good.
+Moving forward, I’ll make an extra effort to thank the people responsible for those things. Maybe there’s some projects and folks you should recognize. Go for it! It’ll feel good.
 
 ***Disclaimer**: I was a former Microsoft MVP for about three months before joining Microsoft as an employee. I’m now an employee of GitHub. My opinion here is simply my own opinion and does not necessarily represent the opinion of any employers past, present, and future. Nor does it represent the opinion of my dog, because I don’t have one, nor anyone in my neighborhood.*
