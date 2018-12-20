@@ -1,7 +1,7 @@
 ---
 title: Happy Halloween
 date: 2006-10-31 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2006/10/30/Happy_Halloween.aspx/"
 ---
 

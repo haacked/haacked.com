@@ -1,9 +1,7 @@
 ---
 title: Who Tests The Tests?
 date: 2007-03-12 -0800
-tags:
-- code
-- tdd
+tags: [tdd,testing]
 redirect_from: "/archive/2007/03/11/who-tests-the-tests.aspx/"
 ---
 
@@ -14,8 +12,7 @@ in which he brings up his own various hidden objections to TDD in order
 to see if his prejudices can be overcome.
 
 One of the questions he asks is an age old argument against TDD. *[Who
-Tests the
-Tests?](http://secretgeek.net/tdd_wttt.asp "Who Tests the Tests?")*Leon
+Tests the Tests?](http://secretgeek.net/tdd_wttt.asp "Who Tests the Tests?")*Leon
 sees potential for a stack overflow since, given that the tests are
 code, and that according to TDD, code should be tested, shouldn’t there
 be tests for the tests?

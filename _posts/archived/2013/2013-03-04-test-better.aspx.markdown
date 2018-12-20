@@ -1,10 +1,7 @@
 ---
 title: Test Better
 date: 2013-03-04 -0800
-tags:
-- code
-- tdd
-- github
+tags: [testing,tdd]
 redirect_from: "/archive/2013/03/03/test-better.aspx/"
 ---
 

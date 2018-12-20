@@ -1,7 +1,7 @@
 ---
 title: Air travel
 date: 2004-03-02 -0800
-tags: []
+tags: [humor,travel]
 redirect_from: "/archive/2004/03/01/air-travel.aspx/"
 ---
 

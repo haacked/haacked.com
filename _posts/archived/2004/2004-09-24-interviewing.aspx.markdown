@@ -1,12 +1,11 @@
 ---
 title: Interviewing
 date: 2004-09-24 -0800
-tags: []
+tags: [hiring]
 redirect_from: "/archive/2004/09/23/interviewing.aspx/"
 ---
 
-I’m conducting some phone interviews today for a C++
-contractor/employee. Man it’s been a long time since I’ve conducted
+I’m conducting some phone interviews today for a C++ contractor/employee. Man it’s been a long time since I’ve conducted
 interviews. I wish I kept a list of my favorite questions to ask.
 
 Maybe I’ll start off with:
@@ -22,6 +21,5 @@ Maybe I’ll start off with:
 
 Oh wait. Those are the questions that are ILLEGAL to ask. Doh!
 
-Perhaps I should just re-read [The Guerilla Guide to
-Interviewing](http://www.joelonsoftware.com/articles/fog0000000073.html).
+Perhaps I should just re-read [The Guerilla Guide to Interviewing](http://www.joelonsoftware.com/articles/fog0000000073.html).
 

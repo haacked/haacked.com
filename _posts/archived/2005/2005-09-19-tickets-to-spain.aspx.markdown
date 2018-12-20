@@ -1,7 +1,7 @@
 ---
 title: Tickets to Spain
 date: 2005-09-19 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2005/09/18/tickets-to-spain.aspx/"
 ---
 

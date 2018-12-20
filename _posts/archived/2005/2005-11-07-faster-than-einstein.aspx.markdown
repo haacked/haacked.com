@@ -1,7 +1,7 @@
 ---
 title: Faster than Einstein
 date: 2005-11-07 -0800
-tags: []
+tags: [science]
 redirect_from: "/archive/2005/11/06/faster-than-einstein.aspx/"
 ---
 

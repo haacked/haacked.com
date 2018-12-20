@@ -1,10 +1,7 @@
 ---
 title: Reflective Parenting
 date: 2013-05-27 -0800
-tags:
-- personal
-- empathy
-- parenting
+tags: [parenting,empathy]
 redirect_from: "/archive/2013/05/26/reflective-parenting.aspx/"
 ---
 
@@ -98,7 +95,7 @@ epidsode](http://www.freakonomics.com/2011/08/17/new-freakonomics-radio-podcast-
 on parenting.
 
 > I know what you’re thinking when you read the title of this podcast.
-> You’re thinking what the \*\*\*\* — *economists*? What can economists
+> You’re thinking what the **** — *economists*? What can economists
 > possibly have to say about something as emotional, as nuanced, as
 > humane, as parenting? Well, let me say this: because economists
 > *aren’t* necessarily emotional (or, for that matter, all that nuanced

@@ -1,7 +1,7 @@
 ---
 title: So Long L.A. And Thanks For All The Fish
 date: 2008-01-04 -0800
-tags: [personal,travel]
+tags: [personal]
 redirect_from: "/archive/2008/01/03/so-long-l.a.-and-thanks-for-all-the-fish.aspx/"
 ---
 

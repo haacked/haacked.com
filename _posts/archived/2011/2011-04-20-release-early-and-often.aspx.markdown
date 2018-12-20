@@ -1,9 +1,7 @@
 ---
 title: Release Early, Release Often
 date: 2011-04-20 -0800
-tags:
-- code
-- oss
+tags: [software,product-management]
 redirect_from: "/archive/2011/04/19/release-early-and-often.aspx/"
 ---
 

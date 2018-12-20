@@ -1,7 +1,7 @@
 ---
 title: Refactoring the Gregorian Calendar
 date: 2005-09-20 -0800
-tags: []
+tags: [history]
 redirect_from: "/archive/2005/09/19/refactoring-the-gregorian-calendar.aspx/"
 ---
 
