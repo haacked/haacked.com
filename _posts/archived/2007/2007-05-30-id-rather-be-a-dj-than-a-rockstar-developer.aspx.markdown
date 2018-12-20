@@ -2,7 +2,7 @@
 title: I'd Rather Be a DJ Than A Rockstar Developer
 date: 2007-05-30 -0800
 disqus_identifier: 18334
-tags: []
+tags: [software,hiring]
 redirect_from: "/archive/2007/05/29/id-rather-be-a-dj-than-a-rockstar-developer.aspx/"
 ---
 
@@ -13,23 +13,23 @@ Programmer](http://deadprogrammersociety.blogspot.com/2007/05/i-would-rather-be-
 
 > Here are some differences, as I see them:
 >
-> Rockstar\
-> - One bit hit song, then disappears\
-> - Embarrass themselves as they age\
-> - Claims they wrote the song\
-> - Keeps trying to get back that sound they used to have\
+> Rockstar
+> - One bit hit song, then disappears
+> - Embarrass themselves as they age
+> - Claims they wrote the song
+> - Keeps trying to get back that sound they used to have
 > - Gets back together with the old band after unsuccessful solo
-> careers\
-> - Wants to marry a model and have a movie cameo\
+> careers
+> - Wants to marry a model and have a movie cameo
 > - Won’t play without a contract and advance payment
 >
-> Jazzer\
-> - One bit hit, and they become an influence\
-> - Get cooler with age\
-> - Claims the song is just a cool arrangement of a standard\
-> - Keeps trying to produce a new sound\
-> - Records with a variety of musicians over time\
-> - Wants to become a professor at Berkeley School of Music\
+> Jazzer
+> - One big hit, and they become an influencer
+> - Get cooler with age
+> - Claims the song is just a cool arrangement of a standard
+> - Keeps trying to produce a new sound
+> - Records with a variety of musicians over time
+> - Wants to become a professor at Berkeley School of Music
 > - Jams on the street corner just because they feel like it
 
 While I like some rock bands such as U2 and I like some Jazz, my
@@ -56,6 +56,5 @@ Here are some reasons why:
     do now?
 
 At the very least, I would like to be paid like a DJ. Not the guy at
-your local dive, I’m talking about the big names who get paid \$50K for
+your local dive, I’m talking about the big names who get paid $50K for
 three hours of work. What kind of music reflects your coding style?
-

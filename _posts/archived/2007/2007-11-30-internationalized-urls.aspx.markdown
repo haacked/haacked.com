@@ -2,7 +2,7 @@
 title: Internationalized URLs
 date: 2007-11-30 -0800
 disqus_identifier: 18428
-tags: []
+tags: [i8n,subtext]
 redirect_from: "/archive/2007/11/29/internationalized-urls.aspx/"
 ---
 

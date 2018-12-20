@@ -2,8 +2,7 @@
 title: What A Difference A Revision Makes - IConfigMapPath Is Inaccessible Due To
   Its Protection Level
 date: 2007-06-20 -0800
-disqus_identifier: 18357
-tags: []
+tags: [tdd,aspnet]
 redirect_from: "/archive/2007/06/19/what-a-difference-a-revision-makes---iconfigmappath-is-inaccessible.aspx/"
 ---
 

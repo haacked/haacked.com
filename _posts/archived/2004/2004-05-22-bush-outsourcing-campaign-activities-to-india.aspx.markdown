@@ -2,7 +2,7 @@
 title: Bush outsourcing campaign activities to India
 date: 2004-05-22 -0800
 disqus_identifier: 468
-tags: []
+tags: [politics]
 redirect_from: "/archive/2004/05/21/bush-outsourcing-campaign-activities-to-india.aspx/"
 ---
 

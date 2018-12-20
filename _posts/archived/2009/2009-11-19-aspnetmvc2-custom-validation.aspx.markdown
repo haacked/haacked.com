@@ -2,7 +2,7 @@
 title: ASP.NET MVC 2 Custom Validation
 date: 2009-11-19 -0800
 disqus_identifier: 18661
-tags: []
+tags: [aspnetmvc]
 redirect_from: "/archive/2009/11/18/aspnetmvc2-custom-validation.aspx/"
 ---
 

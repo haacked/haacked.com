@@ -2,7 +2,7 @@
 title: ASP.NET MVC 1.0 Scripts Available on Microsoft CDN
 date: 2009-10-15 -0800
 disqus_identifier: 18649
-tags: []
+tags: [aspnetmvc]
 redirect_from: "/archive/2009/10/14/aspnetmvc-cdn-hosted-scripts.aspx/"
 ---
 

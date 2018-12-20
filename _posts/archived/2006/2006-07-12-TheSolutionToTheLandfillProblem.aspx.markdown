@@ -2,7 +2,7 @@
 title: The Solution To The Landfill Problem
 date: 2006-07-12 -0800
 disqus_identifier: 13888
-tags: []
+tags: [personal]
 redirect_from: "/archive/2006/07/11/TheSolutionToTheLandfillProblem.aspx/"
 ---
 

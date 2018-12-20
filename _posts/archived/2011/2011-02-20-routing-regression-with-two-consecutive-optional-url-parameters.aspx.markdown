@@ -2,7 +2,7 @@
 title: Routing Regression With Two Consecutive Optional Url Parameters
 date: 2011-02-20 -0800
 disqus_identifier: 18763
-tags: [routing aspnetmvc aspnet]
+tags: [routing,aspnetmvc,aspnet]
 redirect_from: "/archive/2011/02/19/routing-regression-with-two-consecutive-optional-url-parameters.aspx/"
 ---
 

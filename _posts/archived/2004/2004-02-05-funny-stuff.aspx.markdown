@@ -2,7 +2,7 @@
 title: Funny stuff
 date: 2004-02-05 -0800
 disqus_identifier: 174
-tags: []
+tags: [humor]
 redirect_from: "/archive/2004/02/04/funny-stuff.aspx/"
 ---
 

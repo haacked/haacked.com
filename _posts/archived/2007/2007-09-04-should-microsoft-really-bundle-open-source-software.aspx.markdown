@@ -2,7 +2,7 @@
 title: Should Microsoft Really Bundle Open Source Software?
 date: 2007-09-04 -0800
 disqus_identifier: 18386
-tags: []
+tags: [oss,microsoft]
 redirect_from: "/archive/2007/09/03/should-microsoft-really-bundle-open-source-software.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: The Greatest Compliment A Developer Can Receive
 date: 2007-10-07 -0800
 disqus_identifier: 18405
-tags: []
+tags: [code]
 redirect_from: "/archive/2007/10/06/the-greatest-compliment-a-developer-can-receive.aspx/"
 ---
 

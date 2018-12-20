@@ -2,7 +2,7 @@
 title: E3 Photos
 date: 2004-05-17 -0800
 disqus_identifier: 454
-tags: []
+tags: [conferences]
 redirect_from: "/archive/2004/05/16/e3-photos.aspx/"
 ---
 
@@ -15,7 +15,7 @@ was more interested in the games, games, games!
 Unfortunately, I borrowed a coworker's camera and I didn't realize that
 none of my pics were in focus! Doh!
 
-![](http://home.comcast.net/~haackayama/images/E3/Starwars_Battleground.jpg)
+![image](https://user-images.githubusercontent.com/19977/50269397-0225c500-03e3-11e9-92be-6d71e95bf6e7.png)
 
 The game that most caught my attention was Star Wars Battleground. This
 game just looked fantastic. The part I played is set on Endor (remember
@@ -24,7 +24,7 @@ looks lush. Every plant and tree looks great close-up and you really
 feel like your in this densely wooded area fighting in an intense
 battle.
 
-![](http://home.comcast.net/~haackayama/images/E3/XBox.jpg)
+![image](https://user-images.githubusercontent.com/19977/50269405-0651e280-03e3-11e9-949a-76dc027f55c7.png)
 
 Doom3 on the X-Box also caught my attention. It has a dark atmosphere
 and a very cool beginning stage. You walk into a dark room and basically
@@ -33,15 +33,15 @@ creature, he wakes up and starts staggering towards you. So you put down
 your flashlight to grab your gun and start firing in the dark trying to
 hit him till he gets close enough to see. Very cool.
 
-![](http://home.comcast.net/~haackayama/images/E3/BuddyFromAlaska.jpg)
+![image](https://user-images.githubusercontent.com/19977/50269411-0a7e0000-03e3-11e9-95c0-0eaab2d3a79d.png)
 
 In the "It's a Small World" category, I ran into an old friend from
 Alaska, Gavin (pictured on the left). He's a director of marketing with
 Motorola and showed me a sweet cell-phone with a touch screen interface
 and a 3-D J2ME engine. It'll be coming out in December in the U.S.
 
-![](http://home.comcast.net/~haackayama/images/E3/FearFactorCockroaches.jpg)\
+![image](https://user-images.githubusercontent.com/19977/50269420-0e118700-03e3-11e9-87fa-3d3aa5a7d047.png)
+
 Those Are Cockroaches.
 
-![](http://home.comcast.net/~haackayama/images/E3/Matrix.jpg)
-
+![image](https://user-images.githubusercontent.com/19977/50269439-15389500-03e3-11e9-993a-53715f70423a.png)

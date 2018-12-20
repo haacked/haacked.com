@@ -2,15 +2,13 @@
 title: Why Are Developers So Fat?
 date: 2007-03-21 -0800
 disqus_identifier: 18256
-tags: []
+tags: [developers,conferences]
 redirect_from: "/archive/2007/03/20/why-are-developers-so-fat.aspx/"
 ---
 
-[Raymond
-Lewallen](http://codebetter.com/blogs/raymond.lewallen/ "Raymond Lewallen's blog")
+[Raymond Lewallen](http://codebetter.com/blogs/raymond.lewallen/ "Raymond Lewallen's blog")
 doesn’t mean to single anybody out, but in his latest post on the topic
-of [living
-better](http://codebetter.com/blogs/raymond.lewallen/archive/2007/03/20/Don_2700_t-just-CodeBetter_2C00_-LiveBetter-too_2100_.aspx "Don't just code better, live better!"),
+of [living better](http://codebetter.com/blogs/raymond.lewallen/archive/2007/03/20/Don_2700_t-just-CodeBetter_2C00_-LiveBetter-too_2100_.aspx "Don't just code better, live better!"),
 he observes that
 
 > ...there is a decent percentage of programmers that are obviously

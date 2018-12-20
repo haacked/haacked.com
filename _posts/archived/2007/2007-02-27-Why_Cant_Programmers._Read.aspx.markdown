@@ -2,7 +2,7 @@
 title: Why Can't Programmers... Read?
 date: 2007-02-27 -0800
 disqus_identifier: 18218
-tags: []
+tags: [developers]
 redirect_from: "/archive/2007/02/26/Why_Cant_Programmers._Read.aspx/"
 ---
 

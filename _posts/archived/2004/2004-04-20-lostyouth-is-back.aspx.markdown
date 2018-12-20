@@ -2,7 +2,7 @@
 title: LostYouth is back...
 date: 2004-04-20 -0800
 disqus_identifier: 341
-tags: []
+tags: [personal]
 redirect_from: "/archive/2004/04/19/lostyouth-is-back.aspx/"
 ---
 

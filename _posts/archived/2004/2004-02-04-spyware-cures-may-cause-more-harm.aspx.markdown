@@ -2,12 +2,11 @@
 title: Spyware cures may cause more harm
 date: 2004-02-04 -0800
 disqus_identifier: 166
-tags: []
+tags: [tools]
 redirect_from: "/archive/2004/02/03/spyware-cures-may-cause-more-harm.aspx/"
 ---
 
-This is why I always recommend [Spybot Search and
-Destroy](http://www.safer-networking.org/).
+This is why I always recommend [Spybot Search and Destroy](http://www.safer-networking.org/).
 
 > A CNET News.com investigation finds that some "spyware killers"
 > install the same type of programs they promise to erase.

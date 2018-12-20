@@ -2,7 +2,7 @@
 title: 7 Stages of new language keyword grief
 date: 2009-08-31 -0800
 disqus_identifier: 18641
-tags: []
+tags: [humor,language-design]
 redirect_from: "/archive/2009/08/30/7-stages-of-language-keyword-grief.aspx/"
 ---
 
@@ -13,7 +13,7 @@ uncommon when discussing a new language keyword or feature. Many are
 excited by it, but there are those who feel a sense of…well…grief when
 their language is “marred” by a new keyword.
 
-C\#, for example, has seen it with the `var` keyword and now with the
+C#, for example, has seen it with the `var` keyword and now with the
 `dynamic` keyword. I don’t know, maybe there’s something to this idea
 that developers go through the seven stages of grief when their favorite
 programming language adds new stuff (*Disclaimer: Actually, I’m totally
@@ -51,7 +51,7 @@ Check out [this
 reaction](http://bugs.php.net/bug.php?id=48669 "PHP now includes GOTO")
 to adding the goto keyword to PHP, emphasis mine.
 
-> This is a problem. Seriously, PHP has made it \
+> This is a problem. Seriously, PHP has made it
 > this far without `goto`, **why turn the language into a public
 > menace?**
 
@@ -60,7 +60,7 @@ Batmobile!*”
 
 The `dynamic` keyword elicited similar anger with comments like:
 
-> *C\# was fine as a static language. If I wanted a dynamic language,
+> *C# was fine as a static language. If I wanted a dynamic language,
 > I’d use something else!*
 
 Or
@@ -68,7 +68,7 @@ Or
 > *I’ll never use that feature!*
 
 It’s never long before anger turns to spreading FUD (Fear Uncertainty
-Doubt). The `var` keyword in C\# is a prime example of this. Many
+Doubt). The `var` keyword in C# is a prime example of this. Many
 developers wrote erroneously that using it would mean that your code was
 no longer strongly typed and would lead to all hell breaking use.
 

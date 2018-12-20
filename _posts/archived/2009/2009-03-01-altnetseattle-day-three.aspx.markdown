@@ -2,8 +2,7 @@
 title: ALT.NET Seattle Day Three
 date: 2009-03-01 -0800
 disqus_identifier: 18591
-tags:
-- personal
+tags: [conferences]
 redirect_from: "/archive/2009/02/28/altnetseattle-day-three.aspx/"
 ---
 

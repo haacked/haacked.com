@@ -2,7 +2,7 @@
 title: 'TIP: Url Encoding (or Hex encoding)'
 date: 2004-02-05 -0800
 disqus_identifier: 161
-tags: []
+tags: [tools]
 redirect_from: "/archive/2004/02/04/tip-url-encoding-or-hex-encoding.aspx/"
 ---
 

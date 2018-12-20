@@ -2,7 +2,7 @@
 title: Five Years Of Good Loving
 date: 2007-09-11 -0800
 disqus_identifier: 18390
-tags: []
+tags: [personal]
 redirect_from: "/archive/2007/09/10/five-years-of-good-loving.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Think I'm Just Too White And Nerdy
 date: 2006-09-18 -0800
 disqus_identifier: 16798
-tags: []
+tags: [humor]
 redirect_from: "/archive/2006/09/17/Think_Im_Just_Too_White_And_Nerdy.aspx/"
 ---
 
@@ -18,10 +18,10 @@ Nerdy](https://haacked.com/images/haacked_com/WindowsLiveWriter/ThinkImJustTooWh
 This video from Weird Al Yankovich cracks me up with such lyrical gems
 like this:
 
-> The only question\
-> I ever thought was hard.\
-> Is do I like Kirk?\
-> Or do I like Picard?\
+> The only question
+> I ever thought was hard.
+> Is do I like Kirk?
+> Or do I like Picard?
 
 Mad props to Al whose flow could give Eminem a run for his money.  Click
 on the image to watch the video on YouTube. Beware, the tune is catchy

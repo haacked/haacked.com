@@ -2,7 +2,7 @@
 title: All moved in...
 date: 2004-04-13 -0800
 disqus_identifier: 317
-tags: []
+tags: [personal]
 redirect_from: "/archive/2004/04/12/all-moved-in.aspx/"
 ---
 

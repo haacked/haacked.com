@@ -2,7 +2,7 @@
 title: Developers Are Not Plug and Play
 date: 2006-03-10 -0800
 disqus_identifier: 12049
-tags: []
+tags: [developers,management]
 redirect_from: "/archive/2006/03/09/DevelopersAreNotPlugandPlay.aspx/"
 ---
 

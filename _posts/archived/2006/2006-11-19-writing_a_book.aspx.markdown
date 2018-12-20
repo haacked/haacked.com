@@ -2,7 +2,7 @@
 title: Writing A Book
 date: 2006-11-19 -0800
 disqus_identifier: 18140
-tags: []
+tags: [books]
 redirect_from: "/archive/2006/11/18/writing_a_book.aspx/"
 ---
 

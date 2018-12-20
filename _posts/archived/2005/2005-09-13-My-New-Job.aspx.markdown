@@ -2,7 +2,7 @@
 title: New Job
 date: 2005-09-13 -0800
 disqus_identifier: 10065
-tags: []
+tags: [work]
 redirect_from: "/archive/2005/09/12/My-New-Job.aspx/"
 ---
 

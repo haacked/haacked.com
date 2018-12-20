@@ -2,7 +2,7 @@
 title: Subtext 2.1.1 Available Via the Web Platform Installer
 date: 2009-03-18 -0800
 disqus_identifier: 18599
-tags: []
+tags: [subtext]
 redirect_from: "/archive/2009/03/17/subtext-in-the-web-pi.aspx/"
 ---
 

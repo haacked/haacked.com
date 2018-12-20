@@ -2,7 +2,7 @@
 title: What The CodePlex Foundation Means To The .NET OSS Developer
 date: 2009-09-11 -0800
 disqus_identifier: 18642
-tags: []
+tags: [oss,codeplex]
 redirect_from: "/archive/2009/09/10/codeplex-foundation.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: 'TIP: More on Exceptions and Serialization'
 date: 2004-02-24 -0800
 disqus_identifier: 208
-tags: []
+tags: [code,dotnet]
 redirect_from: "/archive/2004/02/23/more-on-exceptions-and-serialization.aspx/"
 ---
 

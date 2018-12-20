@@ -2,12 +2,12 @@
 title: Examine an Exception in a Catch() Block
 date: 2006-06-07 -0800
 disqus_identifier: 13179
-tags: []
+tags: [code,dotnet]
 redirect_from: "/archive/2006/06/06/ExamineAnExceptionInACatchBlock.aspx/"
 ---
 
 Found a useful nugget in Richter’s recent [*CLR via
-C\#*](http://www.microsoft.com/MSPress/books/6522.asp "CLR via C# Second Edition")
+C#*](http://www.microsoft.com/MSPress/books/6522.asp "CLR via C# Second Edition")
 book I want to share with you. But first some background.
 
 Sometimes when I write a catch block, I don’t really have any plans for
@@ -52,7 +52,7 @@ catch(System.FormatException e)
 
 Just so I can examine the exception now stored in the variable `e`. This
 is plain dumb and Richter points out why in a little tip in his book.
-You can use the debugger variable **\$exception** provided by the Visual
+You can use the debugger variable **$exception** provided by the Visual
 Studio.NET Debugger to examine the exception in a catch block. I wish I
 had known about this a while ago.
 
