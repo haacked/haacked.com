@@ -100,13 +100,13 @@ So I thought it might be handy to write up a a really concise quick reference ab
 
       <td valign="top" width="149">
         <pre class="csharpcode"><span class="asp">@</span><span class="kd">using</span> (Html.BeginForm()) {
-  <span class="kd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kd">="text"</span> <span class="attr">value</span><span class="kd">="input here"</span><span class="kd">&gt;</span>
+  <span class="kd">&lt;</span><span class="html">input</span> <span class="na">type</span><span class="kd">="text"</span> <span class="na">value</span><span class="kd">="input here"</span><span class="kd">&gt;</span>
 }</pre>
       </td>
 
       <td valign="top">
         <pre class="csharpcode"><span class="asp">&lt;%</span> <span class="kd">using</span> (Html.BeginForm()) { <span class="asp">%&gt;</span>
-  <span class="kd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kd">="text"</span> <span class="attr">value</span><span class="kd">="input here"</span><span class="kd">&gt;</span>
+  <span class="kd">&lt;</span><span class="html">input</span> <span class="na">type</span><span class="kd">="text"</span> <span class="na">value</span><span class="kd">="input here"</span><span class="kd">&gt;</span>
 <span class="asp">&lt;%</span> } <span class="asp">%&gt;</span></pre>
       </td>
     </tr>
@@ -217,7 +217,7 @@ multiline comment
       <td valign="top" width="183">Conditional attributes</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="attr">class</span><span class="kd">="</span><span class="asp">@</span>className"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="na">class</span><span class="kd">="</span><span class="asp">@</span>className"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
       </td>
 
       <td valign="top">When <code>className = null</code> 
@@ -225,10 +225,10 @@ multiline comment
         <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span><span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
 When <code>className = ""</code> 
 
-        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="attr">class</span><span class="kd">="</span>"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="na">class</span><span class="kd">="</span>"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
 When <code>className = "my-class"</code> 
 
-        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="attr">class</span><span class="kd">="</span>my-class"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="na">class</span><span class="kd">="</span>my-class"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
       </td>
     </tr>
 
@@ -236,18 +236,18 @@ When <code>className = "my-class"</code>
       <td valign="top" width="183">Conditional attributes with other literal values</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="attr">class</span><span class="kd">="</span><span class="asp">@</span>className foo bar"<span class="kd">&gt;
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="na">class</span><span class="kd">="</span><span class="asp">@</span>className foo bar"<span class="kd">&gt;
 &lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
       </td>
 
       <td valign="top">When <code>className = null</code> 
 
-        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="attr">class</span><span class="kd">="</span>foo bar"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="na">class</span><span class="kd">="</span>foo bar"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
         <em>Notice the leading space in front of </em><code>foo</code><em> is removed.</em> 
 
         <br />When <code>className = "my-class"</code> 
 
-        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="attr">class</span><span class="kd">="</span>my-class foo bar"<span class="kd">&gt;
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="na">class</span><span class="kd">="</span>my-class foo bar"<span class="kd">&gt;
 &lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
       </td>
     </tr>
@@ -259,12 +259,12 @@ When <code>className = "my-class"</code>
         <br /><em>data-* attributes are always rendered</em>.</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="attr">data-x</span><span class="kd">="</span><span class="asp">@</span>xpos"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="na">data-x</span><span class="kd">="</span><span class="asp">@</span>xpos"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
       </td>
 
       <td valign="top">When <code>xpos = null or ""</code> 
 
-        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="attr">data-x</span><span class="kd">="</span>"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="na">data-x</span><span class="kd">="</span>"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
 When <code>xpos = "42"</code> 
 
         <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <font color="#ff0000">data-x</font><span class="kd">="</span>42"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
@@ -275,17 +275,17 @@ When <code>xpos = "42"</code>
       <td valign="top" width="183">Boolean attributes</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kd">="checkbox"</span>
-  <span class="attr">checked</span><span class="kd">="</span><span class="asp">@</span>isChecked" <span class="kd">/&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">input</span> <span class="na">type</span><span class="kd">="checkbox"</span>
+  <span class="na">checked</span><span class="kd">="</span><span class="asp">@</span>isChecked" <span class="kd">/&gt;</span></pre>
       </td>
 
       <td valign="top"><code>When isChecked = true</code> 
 
-        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kd">="checkbox"</span>
-  <span class="attr">checked</span><span class="kd">="</span>checked" <span class="kd">/&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">input</span> <span class="na">type</span><span class="kd">="checkbox"</span>
+  <span class="na">checked</span><span class="kd">="</span>checked" <span class="kd">/&gt;</span></pre>
         <code>When isChecked = false</code> 
 
-        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kd">="checkbox"</span> <span class="kd">/&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">input</span> <span class="na">type</span><span class="kd">="checkbox"</span> <span class="kd">/&gt;</span></pre>
       </td>
     </tr>
 
@@ -293,15 +293,15 @@ When <code>xpos = "42"</code>
       <td valign="top" width="183">URL Resolution with tilde</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">script</span> <span class="attr">src</span><span class="kd">="~/myscript.js"</span><span class="kd">&gt;<br />&lt;/</span><span class="html">script</span><span class="kd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">script</span> <span class="na">src</span><span class="kd">="~/myscript.js"</span><span class="kd">&gt;<br />&lt;/</span><span class="html">script</span><span class="kd">&gt;</span></pre>
       </td>
 
       <td valign="top">When the app is at <code>/</code> 
 
-        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">script</span> <span class="attr">src</span><span class="kd">="/myscript.js"</span><span class="kd">&gt;<br />&lt;/</span><span class="html">script</span><span class="kd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">script</span> <span class="na">src</span><span class="kd">="/myscript.js"</span><span class="kd">&gt;<br />&lt;/</span><span class="html">script</span><span class="kd">&gt;</span></pre>
 When running in a virtual application named <code>MyApp</code> 
 
-        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">script</span> <span class="attr">src</span><span class="kd">="/MyApp/myscript.js"</span><span class="kd">&gt;<br />&lt;/</span><span class="html">script</span><span class="kd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">script</span> <span class="na">src</span><span class="kd">="/MyApp/myscript.js"</span><span class="kd">&gt;<br />&lt;/</span><span class="html">script</span><span class="kd">&gt;</span></pre>
       </td>
     </tr>
   </tbody>
