@@ -2,7 +2,7 @@
 title: We're making an offer.
 date: 2004-03-08 -0800
 disqus_identifier: 241
-categories:
+tags:
 - personal
 redirect_from: "/archive/2004/03/07/were-making-an-offer.aspx/"
 ---

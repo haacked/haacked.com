@@ -3,7 +3,7 @@ title: 'SQL TIP: Prefixing Stored Procedure With &quot;sp_&quot; Gives Your SP a
   Name'
 date: 2005-01-25 -0800
 disqus_identifier: 2013
-categories:
+tags:
 - sql
 redirect_from: "/archive/2005/01/24/sql-tip-prefixing-stored-procedure-with-sp_-gives-your-sp-a-bad-name.aspx/"
 ---

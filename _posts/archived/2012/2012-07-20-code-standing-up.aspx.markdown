@@ -2,7 +2,7 @@
 title: Sitting is Making You Fat and Killing You
 date: 2012-07-20 -0800
 disqus_identifier: 18862
-categories:
+tags:
 - code
 - personal
 - tech

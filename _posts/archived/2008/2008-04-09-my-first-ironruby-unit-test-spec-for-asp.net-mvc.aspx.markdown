@@ -2,7 +2,7 @@
 title: My First IronRuby Unit Test Spec For ASP.NET MVC
 date: 2008-04-09 -0800
 disqus_identifier: 18473
-categories:
+tags:
 - asp.net
 - asp.net mvc
 - code

@@ -2,7 +2,7 @@
 title: Recognition Compensation
 date: 2012-01-05 -0800
 disqus_identifier: 18840
-categories:
+tags:
 - oss
 - community
 redirect_from: "/archive/2012/01/04/recognition-compensation.aspx/"

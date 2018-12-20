@@ -2,7 +2,7 @@
 title: Model Metadata and Validation Localization using Conventions
 date: 2011-07-14 -0800
 disqus_identifier: 18802
-categories:
+tags:
 - asp.net
 - code
 - asp.net mvc

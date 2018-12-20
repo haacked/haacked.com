@@ -2,7 +2,7 @@
 title: Test Specific Subclasses vs Partial Mocks
 date: 2007-12-06 -0800
 disqus_identifier: 18431
-categories:
+tags:
 - code
 - tdd
 redirect_from: "/archive/2007/12/05/test-specific-subclasses-vs-partial-mocks.aspx/"

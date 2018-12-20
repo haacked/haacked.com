@@ -2,7 +2,7 @@
 title: The State of NuGet
 date: 2012-02-08 -0800
 disqus_identifier: 18845
-categories:
+tags:
 - nuget
 - oss
 redirect_from: "/archive/2012/02/07/the-state-of-nuget.aspx/"

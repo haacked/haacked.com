@@ -2,7 +2,7 @@
 title: Known Installation Issues With ASP.NET MVC
 date: 2008-12-03 -0800
 disqus_identifier: 18562
-categories:
+tags:
 - asp.net mvc
 - asp.net
 redirect_from: "/archive/2008/12/02/known-installation-issues-with-asp.net-mvc.aspx/"

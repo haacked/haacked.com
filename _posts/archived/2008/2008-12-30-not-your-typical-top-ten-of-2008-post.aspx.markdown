@@ -2,7 +2,7 @@
 title: Not Your Typical Top Ten Of 2008 Post
 date: 2008-12-30 -0800
 disqus_identifier: 18569
-categories:
+tags:
 - personal
 redirect_from: "/archive/2008/12/29/not-your-typical-top-ten-of-2008-post.aspx/"
 ---

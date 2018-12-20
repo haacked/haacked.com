@@ -2,7 +2,7 @@
 title: The Turkish İ Problem and Why You Should Care
 date: 2012-07-05 -0800
 disqus_identifier: 18861
-categories:
+tags:
 - code
 redirect_from: "/archive/2012/07/04/turkish-i-problem-and-why-you-should-care.aspx/"
 ---

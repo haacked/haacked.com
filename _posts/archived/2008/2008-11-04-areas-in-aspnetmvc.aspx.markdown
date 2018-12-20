@@ -2,7 +2,7 @@
 title: Grouping Controllers with ASP.NET MVC
 date: 2008-11-04 -0800
 disqus_identifier: 18547
-categories:
+tags:
 - asp.net
 - asp.net mvc
 redirect_from: "/archive/2008/11/03/areas-in-aspnetmvc.aspx/"

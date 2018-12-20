@@ -2,7 +2,7 @@
 title: How Would You Maximize Profit From A Time Machine?
 date: 2010-12-18 -0800
 disqus_identifier: 18747
-categories:
+tags:
 - personal
 redirect_from: "/archive/2010/12/17/how-would-you-maximize-profit-from-a-time-machine.aspx/"
 ---

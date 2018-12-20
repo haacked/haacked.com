@@ -2,7 +2,7 @@
 title: Comparing Strings in Unit Tests
 date: 2012-01-14 -0800
 disqus_identifier: 18842
-categories:
+tags:
 - tdd
 - code
 redirect_from: "/archive/2012/01/13/comparing-strings-in-unit-tests.aspx/"

@@ -2,7 +2,7 @@
 title: Why Is Microsoft Removing My MVP Status?
 date: 2007-09-17 -0800
 disqus_identifier: 18393
-categories:
+tags:
 - personal
 - code
 - asp.net mvc

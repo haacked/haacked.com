@@ -2,7 +2,7 @@
 title: ASP.NET MVC and Me in PragPub Magazine
 date: 2010-06-02 -0800
 disqus_identifier: 18704
-categories:
+tags:
 - asp.net mvc
 - personal
 - oss

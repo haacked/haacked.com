@@ -2,7 +2,7 @@
 title: Cross Platform .NET Just A Lot Got Better
 date: 2013-11-14 -0800
 disqus_identifier: 18907
-categories:
+tags:
 - code
 redirect_from: "/archive/2013/11/13/cross-platform-net-just-a-lot-got-better.aspx/"
 ---

@@ -2,7 +2,7 @@
 title: One Year At Microsoft
 date: 2008-10-15 -0800
 disqus_identifier: 18539
-categories:
+tags:
 - personal
 redirect_from: "/archive/2008/10/14/one-year-at-microsoft.aspx/"
 ---

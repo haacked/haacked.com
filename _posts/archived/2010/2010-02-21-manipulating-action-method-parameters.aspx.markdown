@@ -2,7 +2,7 @@
 title: Manipulating Action Method Parameters
 date: 2010-02-21 -0800
 disqus_identifier: 18687
-categories:
+tags:
 - asp.net
 - asp.net mvc
 - code

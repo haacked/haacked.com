@@ -2,7 +2,7 @@
 title: Faceoff! Haack vs Hanselman - It Gets Real
 date: 2007-12-21 -0800
 disqus_identifier: 18441
-categories:
+tags:
 - code
 redirect_from: "/archive/2007/12/20/faceoff-haack-vs-hanselman-it-gets-real.aspx/"
 ---

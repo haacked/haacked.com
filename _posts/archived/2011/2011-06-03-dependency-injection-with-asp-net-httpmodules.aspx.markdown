@@ -2,7 +2,7 @@
 title: Dependency Injection With ASP.NET HttpModules
 date: 2011-06-03 -0800
 disqus_identifier: 18793
-categories:
+tags:
 - asp.net
 - asp.net mvc
 - nuget

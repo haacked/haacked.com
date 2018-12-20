@@ -2,7 +2,7 @@
 title: Proper Way To Find The Form
 date: 2006-06-13 -0800
 disqus_identifier: 13303
-categories:
+tags:
 - code
 - asp.net
 redirect_from: "/archive/2006/06/12/ProperWayToFindTheForm.aspx/"

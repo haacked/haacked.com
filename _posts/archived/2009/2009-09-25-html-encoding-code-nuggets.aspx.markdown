@@ -2,7 +2,7 @@
 title: Html Encoding Code Blocks With ASP.NET 4
 date: 2009-09-25 -0800
 disqus_identifier: 18644
-categories:
+tags:
 - asp.net
 - code
 - asp.net mvc

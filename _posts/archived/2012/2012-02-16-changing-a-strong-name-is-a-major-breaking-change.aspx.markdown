@@ -2,7 +2,7 @@
 title: Changing A Strong Name Is A Major Breaking Change
 date: 2012-02-16 -0800
 disqus_identifier: 18846
-categories:
+tags:
 - oss
 - nuget
 - code

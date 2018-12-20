@@ -2,7 +2,7 @@
 title: Question For You Dependency Injection Buffs
 date: 2007-11-27 -0800
 disqus_identifier: 18425
-categories:
+tags:
 - code
 - tdd
 redirect_from: "/archive/2007/11/26/question-for-you-dependency-injection-buffs.aspx/"

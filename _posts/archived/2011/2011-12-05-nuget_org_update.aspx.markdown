@@ -2,7 +2,7 @@
 title: New NuGet.org Deployed!
 date: 2011-12-05 -0800
 disqus_identifier: 18830
-categories:
+tags:
 - nuget
 - code
 redirect_from: "/archive/2011/12/04/nuget_org_update.aspx/"

@@ -2,7 +2,7 @@
 title: Mobile Phone Gaming
 date: 2005-06-08 -0800
 disqus_identifier: 4473
-categories:
+tags:
 - personal
 redirect_from: "/archive/2005/06/07/mobile-phone-gaming.aspx/"
 ---

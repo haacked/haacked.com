@@ -2,7 +2,7 @@
 title: Better Git with PowerShell
 date: 2011-12-13 -0800
 disqus_identifier: 18833
-categories:
+tags:
 - code
 - git
 redirect_from: "/archive/2011/12/12/better-git-with-powershell.aspx/"

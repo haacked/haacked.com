@@ -2,7 +2,7 @@
 title: The Landmine of Parsing HTML and Stripping HTML Comments
 date: 2008-11-10 -0800
 disqus_identifier: 18551
-categories:
+tags:
 - code
 - regex
 redirect_from: "/archive/2008/11/09/the-landmine-of-parsing-html-and-stripping-html-comments.aspx/"

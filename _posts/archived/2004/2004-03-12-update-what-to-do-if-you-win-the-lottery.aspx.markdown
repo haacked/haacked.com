@@ -2,7 +2,7 @@
 title: 'Update: What to do if you win the lottery.'
 date: 2004-03-12 -0800
 disqus_identifier: 249
-categories:
+tags:
 - personal
 redirect_from: "/archive/2004/03/11/update-what-to-do-if-you-win-the-lottery.aspx/"
 ---

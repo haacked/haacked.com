@@ -2,7 +2,7 @@
 title: Specs for Haacked.com
 date: 2011-11-19 -0800
 disqus_identifier: 18825
-categories:
+tags:
 - code
 - personal
 redirect_from: "/archive/2011/11/18/specs-for-haacked-com.aspx/"

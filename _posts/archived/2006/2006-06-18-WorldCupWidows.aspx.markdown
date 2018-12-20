@@ -2,7 +2,7 @@
 title: World Cup Widows
 date: 2006-06-18 -0800
 disqus_identifier: 13378
-categories:
+tags:
 - humor
 redirect_from: "/archive/2006/06/17/WorldCupWidows.aspx/"
 ---

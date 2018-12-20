@@ -2,7 +2,7 @@
 title: "[SQL] Stored ProcedureTo Generate Random Time of Day"
 date: 2006-04-21 -0800
 disqus_identifier: 12487
-categories:
+tags:
 - sql
 redirect_from: "/archive/2006/04/20/sqlfunctiontogeneraterandomtimeofday.aspx/"
 ---

@@ -2,7 +2,7 @@
 title: Introducing RouteMagic
 date: 2011-01-30 -0800
 disqus_identifier: 18760
-categories:
+tags:
 - asp.net
 - code
 - asp.net mvc

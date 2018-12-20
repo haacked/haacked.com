@@ -2,7 +2,7 @@
 title: Photos From Burning Man
 date: 2005-09-09 -0800
 disqus_identifier: 10019
-categories:
+tags:
 - burningman
 redirect_from: "/archive/2005/09/08/PhotosFromBurningMan.aspx/"
 ---

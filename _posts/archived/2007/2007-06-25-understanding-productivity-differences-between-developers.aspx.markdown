@@ -2,7 +2,7 @@
 title: 10 Developers For The Price Of One
 date: 2007-06-25 -0800
 disqus_identifier: 18360
-categories:
+tags:
 - code
 redirect_from: "/archive/2007/06/24/understanding-productivity-differences-between-developers.aspx/"
 ---

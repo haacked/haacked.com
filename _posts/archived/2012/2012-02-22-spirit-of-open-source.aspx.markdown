@@ -2,7 +2,7 @@
 title: What Is The Spirit of Open Source?
 date: 2012-02-22 -0800
 disqus_identifier: 18848
-categories:
+tags:
 - code
 - oss
 redirect_from: "/archive/2012/02/21/spirit-of-open-source.aspx/"

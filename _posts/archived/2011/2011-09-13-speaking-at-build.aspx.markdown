@@ -2,7 +2,7 @@
 title: I&rsquo;m Speaking at //BUILD!
 date: 2011-09-13 -0800
 disqus_identifier: 18813
-categories:
+tags:
 - asp.net
 - asp.net mvc
 redirect_from: "/archive/2011/09/12/speaking-at-build.aspx/"

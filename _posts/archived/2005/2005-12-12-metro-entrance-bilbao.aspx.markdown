@@ -2,7 +2,7 @@
 title: Picture of the Day - Metro Entrance Bilbao, Spain
 date: 2005-12-12 -0800
 disqus_identifier: 11334
-categories:
+tags:
 - personal
 redirect_from: "/archive/2005/12/11/metro-entrance-bilbao.aspx/"
 ---

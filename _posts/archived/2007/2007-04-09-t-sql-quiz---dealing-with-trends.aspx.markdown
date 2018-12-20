@@ -2,7 +2,7 @@
 title: T-SQL Quiz - Dealing With Trends
 date: 2007-04-09 -0800
 disqus_identifier: 18275
-categories:
+tags:
 - code
 - sql
 redirect_from: "/archive/2007/04/08/t-sql-quiz---dealing-with-trends.aspx/"

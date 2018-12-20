@@ -2,7 +2,7 @@
 title: Google Has The Answer To Life The Universe and Everything
 date: 2005-07-14 -0800
 disqus_identifier: 8756
-categories:
+tags:
 - humor
 - tech
 redirect_from: "/archive/2005/07/13/google-has-the-answer.aspx/"

@@ -2,7 +2,7 @@
 title: Haacking 2007
 date: 2007-12-31 -0800
 disqus_identifier: 18443
-categories:
+tags:
 - personal
 redirect_from: "/archive/2007/12/30/haacking-2007.aspx/"
 ---

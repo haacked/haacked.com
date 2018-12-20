@@ -2,7 +2,7 @@
 title: I&rsquo;m Speaking At Mix 2009
 date: 2009-03-01 -0800
 disqus_identifier: 18592
-categories:
+tags:
 - asp.net mvc
 - asp.net
 redirect_from: "/archive/2009/02/28/speaking-at-mix09.aspx/"

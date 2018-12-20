@@ -2,7 +2,7 @@
 title: Popular Code Conventions on GitHub
 date: 2013-09-17 -0800
 disqus_identifier: 18899
-categories:
+tags:
 - code
 - oss
 - github

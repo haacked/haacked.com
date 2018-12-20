@@ -2,7 +2,7 @@
 title: Talks on GitHub and NuGet
 date: 2012-06-19 -0800
 disqus_identifier: 18860
-categories:
+tags:
 - git
 - github
 - nuget

@@ -2,7 +2,7 @@
 title: Html Encoding Nuggets With ASP.NET MVC 2
 date: 2009-11-03 -0800
 disqus_identifier: 18655
-categories:
+tags:
 - asp.net
 - code
 - asp.net mvc

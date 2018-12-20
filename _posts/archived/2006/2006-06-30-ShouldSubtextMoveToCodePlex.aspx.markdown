@@ -2,7 +2,7 @@
 title: Should Subtext Move To CodePlex
 date: 2006-06-30 -0800
 disqus_identifier: 13616
-categories:
+tags:
 - subtext
 redirect_from: "/archive/2006/06/29/ShouldSubtextMoveToCodePlex.aspx/"
 ---

@@ -2,7 +2,7 @@
 title: Easy To Deploy Identicon Handler
 date: 2007-01-22 -0800
 disqus_identifier: 18197
-categories:
+tags:
 - code
 redirect_from: "/archive/2007/01/21/Easy_To_Deploy_Identicon_Handler.aspx/"
 ---

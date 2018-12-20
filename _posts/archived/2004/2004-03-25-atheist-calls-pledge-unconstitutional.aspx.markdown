@@ -2,7 +2,7 @@
 title: Atheist Calls Pledge Unconstitutional
 date: 2004-03-25 -0800
 disqus_identifier: 269
-categories:
+tags:
 - personal
 redirect_from: "/archive/2004/03/24/atheist-calls-pledge-unconstitutional.aspx/"
 ---

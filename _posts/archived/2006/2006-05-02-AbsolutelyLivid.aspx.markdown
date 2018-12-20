@@ -2,7 +2,7 @@
 title: Absolutely Livid
 date: 2006-05-02 -0800
 disqus_identifier: 12631
-categories:
+tags:
 - personal
 redirect_from: "/archive/2006/05/01/AbsolutelyLivid.aspx/"
 ---

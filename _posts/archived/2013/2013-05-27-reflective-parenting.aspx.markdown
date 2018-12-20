@@ -2,7 +2,7 @@
 title: Reflective Parenting
 date: 2013-05-27 -0800
 disqus_identifier: 18890
-categories:
+tags:
 - personal
 - empathy
 - parenting

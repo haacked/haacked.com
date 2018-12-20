@@ -2,7 +2,7 @@
 title: New Ajax Grid Scaffolding NuGet Package for MVC 3
 date: 2011-08-17 -0800
 disqus_identifier: 18809
-categories:
+tags:
 - asp.net mvc
 - asp.net
 - code

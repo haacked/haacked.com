@@ -2,7 +2,7 @@
 title: Interview with me on the ASP.NET Podcast Show
 date: 2007-12-14 -0800
 disqus_identifier: 18439
-categories:
+tags:
 - code
 - asp.net mvc
 redirect_from: "/archive/2007/12/13/interview-with-me-on-the-asp.net-podcast-show.aspx/"

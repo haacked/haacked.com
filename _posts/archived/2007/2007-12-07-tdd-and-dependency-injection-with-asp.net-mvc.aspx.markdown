@@ -2,7 +2,7 @@
 title: TDD and Dependency Injection with ASP.NET MVC
 date: 2007-12-07 -0800
 disqus_identifier: 18432
-categories:
+tags:
 - asp.net
 - code
 - asp.net mvc

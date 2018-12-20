@@ -2,7 +2,7 @@
 title: Easily Test Your Code For Multiple Cultures
 date: 2007-06-14 -0800
 disqus_identifier: 18351
-categories:
+tags:
 - code
 - tdd
 redirect_from: "/archive/2007/06/13/easily-test-your-code-for-multiple-cultures.aspx/"

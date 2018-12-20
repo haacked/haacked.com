@@ -2,7 +2,7 @@
 title: Feedback Request for using NuGet Without Committing Packages
 date: 2011-04-27 -0800
 disqus_identifier: 18782
-categories:
+tags:
 - nuget
 - code
 - oss

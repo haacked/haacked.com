@@ -2,7 +2,7 @@
 title: A Really Empty ASP.NET MVC 3 Project Template
 date: 2012-01-11 -0800
 disqus_identifier: 18841
-categories:
+tags:
 - asp.net
 - asp.net mvc
 redirect_from: "/archive/2012/01/10/a-really-empty-asp-net-mvc-3-project-template.aspx/"

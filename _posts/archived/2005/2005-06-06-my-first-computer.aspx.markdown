@@ -2,7 +2,7 @@
 title: This Was My First Computer
 date: 2005-06-06 -0800
 disqus_identifier: 4430
-categories:
+tags:
 - personal
 - tech
 redirect_from: "/archive/2005/06/05/my-first-computer.aspx/"

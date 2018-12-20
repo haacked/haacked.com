@@ -2,7 +2,7 @@
 title: Looking for a JOB?
 date: 2004-04-10 -0800
 disqus_identifier: 316
-categories:
+tags:
 - personal
 redirect_from: "/archive/2004/04/09/looking-for-a-job.aspx/"
 ---

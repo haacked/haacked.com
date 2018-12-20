@@ -2,7 +2,7 @@
 title: The meaning of &quot;Impedance Mismatch&quot;.
 date: 2004-06-15 -0800
 disqus_identifier: 629
-categories:
+tags:
 - code
 redirect_from: "/archive/2004/06/14/impedance-mismatch.aspx/"
 ---

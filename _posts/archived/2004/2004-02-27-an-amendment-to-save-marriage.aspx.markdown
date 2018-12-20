@@ -2,7 +2,7 @@
 title: An Amendment To Save Marriages
 date: 2004-02-27 -0800
 disqus_identifier: 214
-categories:
+tags:
 - personal
 redirect_from: "/archive/2004/02/26/an-amendment-to-save-marriage.aspx/"
 ---

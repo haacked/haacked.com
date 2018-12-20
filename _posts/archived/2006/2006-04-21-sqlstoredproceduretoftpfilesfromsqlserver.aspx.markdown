@@ -2,7 +2,7 @@
 title: "[SQL] Stored Procedure To FTP Files From SQL Server"
 date: 2006-04-21 -0800
 disqus_identifier: 12496
-categories:
+tags:
 - sql
 redirect_from: "/archive/2006/04/20/sqlstoredproceduretoftpfilesfromsqlserver.aspx/"
 ---

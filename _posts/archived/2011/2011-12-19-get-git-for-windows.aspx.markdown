@@ -3,7 +3,7 @@ title: Configure Git in PowerShell So You Don&rsquo;t Have to Enter Your Passwor
   All the Damn Time
 date: 2011-12-19 -0800
 disqus_identifier: 18834
-categories:
+tags:
 - git
 - code
 redirect_from: "/archive/2011/12/18/get-git-for-windows.aspx/"

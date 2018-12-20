@@ -5,7 +5,7 @@ redirect_from:
 - "/archive/2005/01/20/1967.aspx.html"
 - "/archive/2005/01/19/Image_Based_CAPTCHA_Losing_Appeal.aspx/"
 disqus_identifier: 1967
-categories:
+tags:
 - captcha
 ---
 

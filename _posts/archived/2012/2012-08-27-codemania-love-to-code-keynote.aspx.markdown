@@ -2,7 +2,7 @@
 title: CodeMania Love To Code Keynote
 date: 2012-08-27 -0800
 disqus_identifier: 18866
-categories:
+tags:
 - community
 - code
 - company culture

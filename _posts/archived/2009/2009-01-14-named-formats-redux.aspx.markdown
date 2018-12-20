@@ -2,7 +2,7 @@
 title: Named Formats Redux
 date: 2009-01-14 -0800
 disqus_identifier: 18577
-categories:
+tags:
 - code
 redirect_from: "/archive/2009/01/13/named-formats-redux.aspx/"
 ---

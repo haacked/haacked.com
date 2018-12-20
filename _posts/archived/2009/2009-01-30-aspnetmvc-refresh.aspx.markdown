@@ -2,7 +2,7 @@
 title: ASP.NET MVC RC Refresh
 date: 2009-01-30 -0800
 disqus_identifier: 18584
-categories:
+tags:
 - asp.net mvc
 - asp.net
 redirect_from: "/archive/2009/01/29/aspnetmvc-refresh.aspx/"

@@ -2,7 +2,7 @@
 title: Why Code Coverage is not Enough
 date: 2004-11-03 -0800
 disqus_identifier: 1559
-categories:
+tags:
 - code
 - tdd
 redirect_from: "/archive/2004/11/02/codecoverageisnotenough.aspx/"

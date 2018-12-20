@@ -2,7 +2,7 @@
 title: Remote Desktop On A Non-Standard Port
 date: 2006-10-16 -0800
 disqus_identifier: 18090
-categories:
+tags:
 - tech
 redirect_from: "/archive/2006/10/15/Remote_Desktop_On_A_NonStandard_Port.aspx/"
 ---

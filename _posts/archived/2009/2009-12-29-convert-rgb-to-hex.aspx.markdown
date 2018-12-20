@@ -2,7 +2,7 @@
 title: Converting an RGB Color To Hex With JavaScript
 date: 2009-12-29 -0800
 disqus_identifier: 18672
-categories:
+tags:
 - code
 redirect_from: "/archive/2009/12/28/convert-rgb-to-hex.aspx/"
 ---

@@ -2,7 +2,7 @@
 title: Better CAPTCHA Through Encryption
 date: 2006-10-02 -0800
 disqus_identifier: 17568
-categories:
+tags:
 - code
 - blogging
 redirect_from: "/archive/2006/10/01/Better_CAPTCHA_Through_Encryption.aspx/"

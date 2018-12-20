@@ -2,7 +2,7 @@
 title: 'SQL TIP: Connection To SQL via Windows Authentication over VPN'
 date: 2004-11-29 -0800
 disqus_identifier: 1683
-categories:
+tags:
 - sql
 redirect_from: "/archive/2004/11/28/sql-tip-connection-to-sql-via-windows-authentication-over-vpn.aspx/"
 ---

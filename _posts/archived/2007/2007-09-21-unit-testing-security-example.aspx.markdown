@@ -2,7 +2,7 @@
 title: Unit Testing Security Example
 date: 2007-09-21 -0800
 disqus_identifier: 18398
-categories:
+tags:
 - code
 - tdd
 redirect_from: "/archive/2007/09/20/unit-testing-security-example.aspx/"

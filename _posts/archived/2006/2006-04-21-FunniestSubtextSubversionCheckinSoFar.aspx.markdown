@@ -2,7 +2,7 @@
 title: Funniest Subtext Subversion Checkin So Far
 date: 2006-04-21 -0800
 disqus_identifier: 12505
-categories:
+tags:
 - subtext
 redirect_from: "/archive/2006/04/20/FunniestSubtextSubversionCheckinSoFar.aspx/"
 ---

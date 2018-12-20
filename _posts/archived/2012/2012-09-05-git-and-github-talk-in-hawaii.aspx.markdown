@@ -2,7 +2,7 @@
 title: Git and GitHub Talk in Hawaii!
 date: 2012-09-05 -0800
 disqus_identifier: 18868
-categories:
+tags:
 - code
 - git
 - github

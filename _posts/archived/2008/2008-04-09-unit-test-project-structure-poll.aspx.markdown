@@ -2,7 +2,7 @@
 title: Unit Test Project Structure Poll
 date: 2008-04-09 -0800
 disqus_identifier: 18472
-categories:
+tags:
 - code
 - tdd
 redirect_from: "/archive/2008/04/08/unit-test-project-structure-poll.aspx/"

@@ -2,7 +2,7 @@
 title: Why Is rel=&quot;nofollow&quot; important?
 date: 2005-01-20 -0800
 disqus_identifier: 1944
-categories:
+tags:
 - code
 redirect_from: "/archive/2005/01/19/rel-no-follow-important.aspx/"
 ---

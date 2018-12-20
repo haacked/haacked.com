@@ -2,7 +2,7 @@
 title: Honeypot Captcha
 date: 2007-09-11 -0800
 disqus_identifier: 18389
-categories:
+tags:
 - code
 - tech
 - blogging

@@ -2,7 +2,7 @@
 title: Better String Input Handling
 date: 2009-04-01 -0800
 disqus_identifier: 18603
-categories:
+tags:
 - code
 - humor
 redirect_from: "/archive/2009/03/31/introducing-stringor.aspx/"

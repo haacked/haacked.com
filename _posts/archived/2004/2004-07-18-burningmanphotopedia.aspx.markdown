@@ -2,7 +2,7 @@
 title: Burning Man Photopedia
 date: 2004-07-18 -0800
 disqus_identifier: 833
-categories:
+tags:
 - burningman
 redirect_from: "/archive/2004/07/17/burningmanphotopedia.aspx/"
 ---

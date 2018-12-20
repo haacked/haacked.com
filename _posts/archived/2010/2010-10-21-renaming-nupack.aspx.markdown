@@ -2,7 +2,7 @@
 title: We&rsquo;re Renaming NuPack
 date: 2010-10-21 -0800
 disqus_identifier: 18729
-categories:
+tags:
 - nuget
 - code
 - oss

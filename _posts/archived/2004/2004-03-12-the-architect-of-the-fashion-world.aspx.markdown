@@ -2,7 +2,7 @@
 title: The architect of the fashion world
 date: 2004-03-12 -0800
 disqus_identifier: 250
-categories:
+tags:
 - personal
 redirect_from: "/archive/2004/03/11/the-architect-of-the-fashion-world.aspx/"
 ---

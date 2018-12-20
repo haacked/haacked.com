@@ -2,7 +2,7 @@
 title: Structuring Unit Test Code
 date: 2006-10-10 -0800
 disqus_identifier: 17988
-categories:
+tags:
 - code
 - tdd
 redirect_from: "/archive/2006/10/09/Structuring_Unit_Test_Code.aspx/"

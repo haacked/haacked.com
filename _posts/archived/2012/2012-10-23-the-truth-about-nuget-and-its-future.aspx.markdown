@@ -2,7 +2,7 @@
 title: The Truth about NuGet and its Future
 date: 2012-10-23 -0800
 disqus_identifier: 18873
-categories:
+tags:
 - oss
 - nuget
 - community

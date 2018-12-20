@@ -2,7 +2,7 @@
 title: Mile High Overview Of Subtext Skinning
 date: 2006-08-26 -0800
 disqus_identifier: 16091
-categories:
+tags:
 - subtext
 - oss
 redirect_from: "/archive/2006/08/25/Mile_High_Overview_Of_Subtext_Skinning.aspx/"

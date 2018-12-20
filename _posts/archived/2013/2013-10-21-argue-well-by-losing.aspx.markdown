@@ -2,7 +2,7 @@
 title: Argue Well By Losing
 date: 2013-10-21 -0800
 disqus_identifier: 18901
-categories:
+tags:
 - community
 - personal
 redirect_from: "/archive/2013/10/20/argue-well-by-losing.aspx/"

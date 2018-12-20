@@ -2,7 +2,7 @@
 title: Beer-Up in Reykjavik, Iceland
 date: 2011-10-31 -0800
 disqus_identifier: 18823
-categories:
+tags:
 - personal
 redirect_from: "/archive/2011/10/30/beer-in-iceland.aspx/"
 ---

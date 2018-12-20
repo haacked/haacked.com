@@ -2,7 +2,7 @@
 title: Those Crazy Brits are at it again
 date: 2004-03-20 -0800
 disqus_identifier: 265
-categories:
+tags:
 - humor
 redirect_from: "/archive/2004/03/19/on-dogging-those-crazy-brits.aspx/"
 ---

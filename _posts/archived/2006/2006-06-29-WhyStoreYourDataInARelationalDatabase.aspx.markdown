@@ -2,7 +2,7 @@
 title: Why Store Your Data In A Relational Database?
 date: 2006-06-29 -0800
 disqus_identifier: 13579
-categories:
+tags:
 - sql
 redirect_from: "/archive/2006/06/28/WhyStoreYourDataInARelationalDatabase.aspx/"
 ---

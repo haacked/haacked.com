@@ -2,7 +2,7 @@
 title: Don't Be a Validation Nazi
 date: 2007-08-26 -0800
 disqus_identifier: 18385
-categories:
+tags:
 - code
 - regex
 redirect_from: "/archive/2007/08/25/dont-be-a-validation-nazi.aspx/"

@@ -2,7 +2,7 @@
 title: Top 10 Blogging Clich&eacute;s of 2010
 date: 2011-01-02 -0800
 disqus_identifier: 18752
-categories:
+tags:
 - humor
 - blogging
 redirect_from: "/archive/2011/01/01/top-ten-blogging-cliches.aspx/"

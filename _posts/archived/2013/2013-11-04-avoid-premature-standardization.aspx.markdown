@@ -2,7 +2,7 @@
 title: Avoid Premature Standardization
 date: 2013-11-04 -0800
 disqus_identifier: 18904
-categories:
+tags:
 - oss
 - code
 - github

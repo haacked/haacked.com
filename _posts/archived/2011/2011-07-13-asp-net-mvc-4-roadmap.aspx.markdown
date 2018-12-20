@@ -2,7 +2,7 @@
 title: ASP.NET MVC 4 Roadmap
 date: 2011-07-13 -0800
 disqus_identifier: 18801
-categories:
+tags:
 - asp.net
 - asp.net mvc
 redirect_from: "/archive/2011/07/12/asp-net-mvc-4-roadmap.aspx/"

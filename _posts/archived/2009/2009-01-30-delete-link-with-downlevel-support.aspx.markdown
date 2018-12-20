@@ -2,7 +2,7 @@
 title: jQuery Delete Link With Downlevel Support
 date: 2009-01-30 -0800
 disqus_identifier: 18583
-categories:
+tags:
 - asp.net mvc
 - asp.net
 redirect_from: "/archive/2009/01/29/delete-link-with-downlevel-support.aspx/"

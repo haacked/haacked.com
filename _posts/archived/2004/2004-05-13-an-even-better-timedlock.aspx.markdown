@@ -2,7 +2,7 @@
 title: An Even Better TimedLock
 date: 2004-05-13 -0800
 disqus_identifier: 436
-categories:
+tags:
 - code
 redirect_from: "/archive/2004/05/12/an-even-better-timedlock.aspx/"
 ---

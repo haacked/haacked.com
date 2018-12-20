@@ -2,7 +2,7 @@
 title: ASP.NET MVC 2 Released!
 date: 2010-03-11 -0800
 disqus_identifier: 18689
-categories:
+tags:
 - asp.net
 - asp.net mvc
 - code

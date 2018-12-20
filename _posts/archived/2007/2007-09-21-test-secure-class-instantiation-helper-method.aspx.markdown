@@ -2,7 +2,7 @@
 title: Test Secure Class Instantiation Helper Method
 date: 2007-09-21 -0800
 disqus_identifier: 18399
-categories:
+tags:
 - code
 - tdd
 redirect_from: "/archive/2007/09/20/test-secure-class-instantiation-helper-method.aspx/"

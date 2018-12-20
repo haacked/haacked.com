@@ -2,7 +2,7 @@
 title: Poll on Moving Subtext To ASP.NET 3.5
 date: 2008-11-27 -0800
 disqus_identifier: 18561
-categories:
+tags:
 - subtext
 redirect_from: "/archive/2008/11/26/poll-on-moving-subtext-to-asp.net-3.5.aspx/"
 ---

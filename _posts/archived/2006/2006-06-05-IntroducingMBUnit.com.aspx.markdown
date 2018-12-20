@@ -2,7 +2,7 @@
 title: Introducing MbUnit.com
 date: 2006-06-05 -0800
 disqus_identifier: 13145
-categories:
+tags:
 - tdd
 redirect_from: "/archive/2006/06/04/IntroducingMBUnit.com.aspx/"
 ---

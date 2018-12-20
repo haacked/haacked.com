@@ -2,7 +2,7 @@
 title: Dynamic WHERE and ORDER BY Without Dynamic SQL
 date: 2006-01-26 -0800
 disqus_identifier: 11598
-categories:
+tags:
 - sql
 redirect_from: "/archive/2006/01/25/dynamicwhereandorderbywithoutdynamicsql.aspx/"
 ---

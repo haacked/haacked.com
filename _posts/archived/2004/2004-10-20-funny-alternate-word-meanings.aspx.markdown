@@ -2,7 +2,7 @@
 title: 'FUNNY: Alternate word meanings...'
 date: 2004-10-20 -0800
 disqus_identifier: 1428
-categories:
+tags:
 - humor
 redirect_from: "/archive/2004/10/19/funny-alternate-word-meanings.aspx/"
 ---

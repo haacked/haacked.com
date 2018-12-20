@@ -2,7 +2,7 @@
 title: Grouping Routes Part 1
 date: 2010-12-02 -0800
 disqus_identifier: 18743
-categories:
+tags:
 - asp.net
 - asp.net mvc
 - code

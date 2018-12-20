@@ -2,7 +2,7 @@
 title: Compiling MVC Views In A Build Environment
 date: 2011-05-09 -0800
 disqus_identifier: 18785
-categories:
+tags:
 - asp.net
 - asp.net mvc
 redirect_from: "/archive/2011/05/08/compiling-mvc-views-in-a-build-environment.aspx/"

@@ -2,7 +2,7 @@
 title: Comparing Moq to Rhino Mocks
 date: 2008-03-23 -0800
 disqus_identifier: 18467
-categories:
+tags:
 - code
 - tdd
 redirect_from: "/archive/2008/03/22/comparing-moq-to-rhino-mocks.aspx/"

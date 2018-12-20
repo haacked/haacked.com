@@ -2,7 +2,7 @@
 title: Soccer And Rain
 date: 2004-12-05 -0800
 disqus_identifier: 1702
-categories:
+tags:
 - personal
 redirect_from: "/archive/2004/12/04/soccer-and-rain.aspx/"
 ---

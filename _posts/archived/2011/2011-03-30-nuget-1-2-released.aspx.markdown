@@ -2,7 +2,7 @@
 title: NuGet 1.2 Released
 date: 2011-03-30 -0800
 disqus_identifier: 18770
-categories:
+tags:
 - nuget
 - code
 - oss

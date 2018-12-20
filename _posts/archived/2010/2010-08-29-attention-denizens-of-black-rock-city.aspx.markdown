@@ -2,7 +2,7 @@
 title: Attention Denizens of Black Rock City
 date: 2010-08-29 -0800
 disqus_identifier: 18719
-categories:
+tags:
 - personal
 - humor
 redirect_from: "/archive/2010/08/28/attention-denizens-of-black-rock-city.aspx/"

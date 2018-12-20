@@ -2,7 +2,7 @@
 title: Who Tests The Tests?
 date: 2007-03-12 -0800
 disqus_identifier: 18237
-categories:
+tags:
 - code
 - tdd
 redirect_from: "/archive/2007/03/11/who-tests-the-tests.aspx/"

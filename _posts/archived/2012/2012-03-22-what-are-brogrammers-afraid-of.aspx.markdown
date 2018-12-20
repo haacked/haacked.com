@@ -2,7 +2,7 @@
 title: What Are Brogrammers Afraid Of?
 date: 2012-03-22 -0800
 disqus_identifier: 18853
-categories:
+tags:
 - code
 - personal
 - oss

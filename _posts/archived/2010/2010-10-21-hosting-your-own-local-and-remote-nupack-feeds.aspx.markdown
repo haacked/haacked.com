@@ -2,7 +2,7 @@
 title: Hosting Your Own Local and Remote NuGet Feeds
 date: 2010-10-21 -0800
 disqus_identifier: 18728
-categories:
+tags:
 - nuget
 - code
 - oss

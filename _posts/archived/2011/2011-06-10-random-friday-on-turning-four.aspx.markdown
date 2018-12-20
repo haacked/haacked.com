@@ -2,7 +2,7 @@
 title: 'Random Friday: On Turning Four'
 date: 2011-06-10 -0800
 disqus_identifier: 18796
-categories:
+tags:
 - blogging
 - personal
 redirect_from: "/archive/2011/06/09/random-friday-on-turning-four.aspx/"

@@ -2,7 +2,7 @@
 title: T4 Templates in ASP.NET MVC
 date: 2009-01-31 -0800
 disqus_identifier: 18585
-categories:
+tags:
 - asp.net
 - asp.net mvc
 redirect_from: "/archive/2009/01/30/t4-templates-in-asp.net-mvc.aspx/"

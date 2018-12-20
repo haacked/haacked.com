@@ -2,7 +2,7 @@
 title: ASP.NET MVC 3 Release Candidate 2
 date: 2010-12-10 -0800
 disqus_identifier: 18746
-categories:
+tags:
 - asp.net
 - asp.net mvc
 - nuget

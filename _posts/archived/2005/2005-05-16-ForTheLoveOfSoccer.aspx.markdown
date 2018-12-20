@@ -2,7 +2,7 @@
 title: For The Love of Football (Soccer)
 date: 2005-05-16 -0800
 disqus_identifier: 3254
-categories:
+tags:
 - personal
 redirect_from: "/archive/2005/05/15/ForTheLoveOfSoccer.aspx/"
 ---

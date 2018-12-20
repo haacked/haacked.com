@@ -2,7 +2,7 @@
 title: I Love To Code
 date: 2008-12-29 -0800
 disqus_identifier: 18567
-categories:
+tags:
 - code
 redirect_from: "/archive/2008/12/28/i-love-to-code.aspx/"
 ---

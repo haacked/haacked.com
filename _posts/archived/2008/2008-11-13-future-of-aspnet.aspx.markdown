@@ -2,7 +2,7 @@
 title: The Future of WebForms And ASP.NET MVC
 date: 2008-11-13 -0800
 disqus_identifier: 18553
-categories:
+tags:
 - asp.net
 - asp.net mvc
 redirect_from: "/archive/2008/11/12/future-of-aspnet.aspx/"

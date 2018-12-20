@@ -2,7 +2,7 @@
 title: Running Open Source In A Distributed World
 date: 2010-10-12 -0800
 disqus_identifier: 18725
-categories:
+tags:
 - nuget
 - code
 - oss

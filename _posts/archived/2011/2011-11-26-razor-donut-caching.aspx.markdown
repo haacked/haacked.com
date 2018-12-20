@@ -2,7 +2,7 @@
 title: Razor Donut Caching
 date: 2011-11-26 -0800
 disqus_identifier: 18827
-categories:
+tags:
 - asp.net
 - asp.net mvc
 - code

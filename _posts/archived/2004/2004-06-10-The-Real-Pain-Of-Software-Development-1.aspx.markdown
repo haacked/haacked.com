@@ -2,7 +2,7 @@
 title: The Real Pain Of Software Development [part 1]
 date: 2004-06-10 -0800
 disqus_identifier: 590
-categories:
+tags:
 - code
 - personal
 - tech

@@ -2,7 +2,7 @@
 title: VelocIT Tools Site
 date: 2006-07-28 -0800
 disqus_identifier: 14399
-categories:
+tags:
 - personal
 redirect_from: "/archive/2006/07/27/velocittoolssite.aspx/"
 ---

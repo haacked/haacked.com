@@ -2,7 +2,7 @@
 title: Finding Bad Controllers
 date: 2012-07-25 -0800
 disqus_identifier: 18864
-categories:
+tags:
 - asp.net
 - asp.net mvc
 - code

@@ -2,7 +2,7 @@
 title: Motorcycle Blogging From San Diego to Alaska
 date: 2006-06-19 -0800
 disqus_identifier: 13389
-categories:
+tags:
 - blogging
 redirect_from: "/archive/2006/06/18/MotorcycleBloggingFromSanDiegoToAlaska.aspx/"
 ---

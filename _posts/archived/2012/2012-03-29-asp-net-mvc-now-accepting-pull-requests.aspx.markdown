@@ -2,7 +2,7 @@
 title: ASP.NET MVC Now Accepting Pull Requests
 date: 2012-03-29 -0800
 disqus_identifier: 18854
-categories:
+tags:
 - code
 - oss
 - asp.net

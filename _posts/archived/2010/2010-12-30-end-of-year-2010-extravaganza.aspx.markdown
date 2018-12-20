@@ -2,7 +2,7 @@
 title: End Of Year 2010 Extravaganza
 date: 2010-12-30 -0800
 disqus_identifier: 18751
-categories:
+tags:
 - personal
 redirect_from: "/archive/2010/12/29/end-of-year-2010-extravaganza.aspx/"
 ---

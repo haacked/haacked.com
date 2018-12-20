@@ -2,7 +2,7 @@
 title: Four Years At Microsoft
 date: 2011-10-15 -0800
 disqus_identifier: 18818
-categories:
+tags:
 - personal
 - code
 redirect_from: "/archive/2011/10/14/four-years-at-microsoft.aspx/"

@@ -2,7 +2,7 @@
 title: Overriding a .svc Request With Routing
 date: 2010-09-07 -0800
 disqus_identifier: 18720
-categories:
+tags:
 - asp.net
 - asp.net mvc
 - code

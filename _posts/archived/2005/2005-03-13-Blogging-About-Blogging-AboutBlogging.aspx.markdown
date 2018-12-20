@@ -5,7 +5,7 @@ redirect_from:
 - "/archive/2005/03/13/2357.aspx.html"
 - "/archive/2005/03/12/Blogging-About-Blogging-AboutBlogging.aspx/"
 disqus_identifier: 2357
-categories:
+tags:
 - humor blogging meta-blogging
 ---
 

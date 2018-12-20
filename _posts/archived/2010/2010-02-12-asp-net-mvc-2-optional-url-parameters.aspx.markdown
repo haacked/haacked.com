@@ -2,7 +2,7 @@
 title: ASP.NET MVC 2 Optional URL Parameters
 date: 2010-02-12 -0800
 disqus_identifier: 18686
-categories:
+tags:
 - asp.net
 - asp.net mvc
 - code

@@ -2,7 +2,7 @@
 title: Live Every Day As If It Were...
 date: 2006-06-02 -0800
 disqus_identifier: 13121
-categories:
+tags:
 - personal
 redirect_from: "/archive/2006/06/01/LiveEveryDayAsIfItWere.aspx/"
 ---

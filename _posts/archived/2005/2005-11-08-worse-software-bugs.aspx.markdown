@@ -2,7 +2,7 @@
 title: Worst Software Bugs in History
 date: 2005-11-08 -0800
 disqus_identifier: 11152
-categories:
+tags:
 - personal
 - code
 redirect_from: "/archive/2005/11/07/worse-software-bugs.aspx/"

@@ -2,7 +2,7 @@
 title: Church Sign Generator
 date: 2004-11-18 -0800
 disqus_identifier: 1648
-categories:
+tags:
 - personal
 - humor
 redirect_from: "/archive/2004/11/17/church-signs.aspx/"

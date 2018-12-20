@@ -2,7 +2,7 @@
 title: Protect Yourself From Credit Fraud With A Fraud Alert
 date: 2006-05-05 -0800
 disqus_identifier: 12688
-categories:
+tags:
 - personal
 redirect_from: "/archive/2006/05/04/ProtectYourselfFromCreditFraudWithAFraudAlert.aspx/"
 ---

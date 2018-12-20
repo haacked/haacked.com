@@ -2,7 +2,7 @@
 title: Using QUnit with Razor Layouts
 date: 2011-12-10 -0800
 disqus_identifier: 18832
-categories:
+tags:
 - asp.net
 - asp.net mvc
 - tdd

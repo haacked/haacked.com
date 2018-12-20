@@ -2,7 +2,7 @@
 title: Bug Driven Development
 date: 2007-09-24 -0800
 disqus_identifier: 18400
-categories:
+tags:
 - code
 - tdd
 redirect_from: "/archive/2007/09/23/bug-driven-development.aspx/"

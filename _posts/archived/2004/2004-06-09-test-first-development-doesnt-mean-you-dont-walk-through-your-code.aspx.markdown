@@ -2,7 +2,7 @@
 title: Test First Development Doesn't Mean You Don't Walk Through Your Code
 date: 2004-06-09 -0800
 disqus_identifier: 588
-categories:
+tags:
 - code
 - tdd
 redirect_from: "/archive/2004/06/08/test-first-development-doesnt-mean-you-dont-walk-through-your-code.aspx/"

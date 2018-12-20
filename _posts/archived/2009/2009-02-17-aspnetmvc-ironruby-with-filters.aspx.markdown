@@ -2,7 +2,7 @@
 title: IronRuby ASP.NET MVC With Filters
 date: 2009-02-17 -0800
 disqus_identifier: 18588
-categories:
+tags:
 - asp.net mvc
 - asp.net
 - dlr

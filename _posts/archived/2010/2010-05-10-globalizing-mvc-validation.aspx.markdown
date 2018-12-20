@@ -2,7 +2,7 @@
 title: Globalizing ASP.NET MVC Client Validation
 date: 2010-05-10 -0800
 disqus_identifier: 18699
-categories:
+tags:
 - asp.net
 - asp.net mvc
 - code

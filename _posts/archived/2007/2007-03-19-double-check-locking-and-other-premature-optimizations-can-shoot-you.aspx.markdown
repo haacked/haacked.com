@@ -3,7 +3,7 @@ title: Double Check Locking and Other Premature Optimizations Can Shoot You In T
   Foot
 date: 2007-03-19 -0800
 disqus_identifier: 18254
-categories:
+tags:
 - code
 redirect_from: "/archive/2007/03/18/double-check-locking-and-other-premature-optimizations-can-shoot-you.aspx/"
 ---

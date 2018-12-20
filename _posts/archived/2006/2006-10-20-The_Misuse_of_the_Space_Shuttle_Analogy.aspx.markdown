@@ -2,7 +2,7 @@
 title: The Misuse of the Space Shuttle Analogy
 date: 2006-10-20 -0800
 disqus_identifier: 18097
-categories:
+tags:
 - code
 - tech
 redirect_from: "/archive/2006/10/19/The_Misuse_of_the_Space_Shuttle_Analogy.aspx/"

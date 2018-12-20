@@ -2,7 +2,7 @@
 title: Man I Love Blogging.
 date: 2004-08-18 -0800
 disqus_identifier: 947
-categories:
+tags:
 - personal
 - blogging
 redirect_from: "/archive/2004/08/17/man-i-love-blogging.aspx/"

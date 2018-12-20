@@ -2,7 +2,7 @@
 title: Subtext 2.0 Released
 date: 2008-08-10 -0800
 disqus_identifier: 18518
-categories:
+tags:
 - personal
 redirect_from: "/archive/2008/08/09/subtext-2.0-released.aspx/"
 ---

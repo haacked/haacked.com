@@ -2,7 +2,7 @@
 title: Update NuGet Docs in the Browser with Github
 date: 2011-10-28 -0800
 disqus_identifier: 18822
-categories:
+tags:
 - nuget
 - oss
 redirect_from: "/archive/2011/10/27/update-nuget-docs-in-the-browser-with-github.aspx/"

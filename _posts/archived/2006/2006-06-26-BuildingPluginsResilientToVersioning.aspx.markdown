@@ -2,7 +2,7 @@
 title: Building Plugins Resilient To Versioning
 date: 2006-06-26 -0800
 disqus_identifier: 13522
-categories:
+tags:
 - code
 redirect_from: "/archive/2006/06/25/BuildingPluginsResilientToVersioning.aspx/"
 ---

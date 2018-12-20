@@ -2,7 +2,7 @@
 title: Moq Sequences Revisited
 date: 2010-11-24 -0800
 disqus_identifier: 18741
-categories:
+tags:
 - tdd
 - code
 redirect_from: "/archive/2010/11/23/moq-sequences-revisited.aspx/"

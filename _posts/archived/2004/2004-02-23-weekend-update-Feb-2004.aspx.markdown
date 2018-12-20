@@ -2,7 +2,7 @@
 title: Weekend Update
 date: 2004-02-23 -0800
 disqus_identifier: 205
-categories:
+tags:
 - personal
 redirect_from: "/archive/2004/02/22/weekend-update-Feb-2004.aspx/"
 ---

@@ -2,7 +2,7 @@
 title: Writing Unit Tests For Controller Actions
 date: 2007-12-09 -0800
 disqus_identifier: 18434
-categories:
+tags:
 - asp.net
 - code
 - asp.net mvc

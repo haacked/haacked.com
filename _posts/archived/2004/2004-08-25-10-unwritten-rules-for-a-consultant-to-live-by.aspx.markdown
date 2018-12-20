@@ -2,7 +2,7 @@
 title: 10 Unwritten Rules for a Consultant to Live By
 date: 2004-08-25 -0800
 disqus_identifier: 975
-categories:
+tags:
 - code
 - tech
 redirect_from: "/archive/2004/08/24/10-unwritten-rules-for-a-consultant-to-live-by.aspx/"

@@ -2,7 +2,7 @@
 title: Dynamic SQL Is Not Inline SQL
 date: 2005-11-02 -0800
 disqus_identifier: 11083
-categories:
+tags:
 - code
 - sql
 redirect_from: "/archive/2005/11/01/dynamic-vs-inline-sql.aspx/"

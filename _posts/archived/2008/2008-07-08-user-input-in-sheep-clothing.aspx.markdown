@@ -2,7 +2,7 @@
 title: User Input In Sheep&rsquo;s Clothing
 date: 2008-07-08 -0800
 disqus_identifier: 18502
-categories:
+tags:
 - asp.net mvc
 - asp.net
 - code

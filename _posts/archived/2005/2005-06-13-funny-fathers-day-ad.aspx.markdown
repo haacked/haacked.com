@@ -2,7 +2,7 @@
 title: The Funniest Father&#8217;s Day Ad Yet
 date: 2005-06-13 -0800
 disqus_identifier: 4681
-categories:
+tags:
 - humor
 redirect_from: "/archive/2005/06/12/funny-fathers-day-ad.aspx/"
 ---

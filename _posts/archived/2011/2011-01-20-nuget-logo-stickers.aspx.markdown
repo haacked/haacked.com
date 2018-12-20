@@ -2,7 +2,7 @@
 title: NuGet Logo Stickers
 date: 2011-01-20 -0800
 disqus_identifier: 18758
-categories:
+tags:
 - nuget
 redirect_from: "/archive/2011/01/19/nuget-logo-stickers.aspx/"
 ---

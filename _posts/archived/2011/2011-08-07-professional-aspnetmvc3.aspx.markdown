@@ -2,7 +2,7 @@
 title: Professional ASP.NET MVC 3 is available!
 date: 2011-08-07 -0800
 disqus_identifier: 18805
-categories:
+tags:
 - asp.net
 - asp.net mvc
 - personal

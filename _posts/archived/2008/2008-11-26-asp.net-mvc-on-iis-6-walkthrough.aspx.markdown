@@ -2,7 +2,7 @@
 title: ASP.NET MVC on IIS 6 Walkthrough
 date: 2008-11-26 -0800
 disqus_identifier: 18559
-categories:
+tags:
 - asp.net mvc
 - asp.net
 redirect_from: "/archive/2008/11/25/asp.net-mvc-on-iis-6-walkthrough.aspx/"

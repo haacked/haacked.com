@@ -2,7 +2,7 @@
 title: Burning Man 2004 Starts Today!
 date: 2004-08-30 -0800
 disqus_identifier: 986
-categories:
+tags:
 - personal
 redirect_from: "/archive/2004/08/29/burning-man-2004-starts-today.aspx/"
 ---

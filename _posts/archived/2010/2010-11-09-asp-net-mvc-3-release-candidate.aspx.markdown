@@ -2,7 +2,7 @@
 title: ASP.NET MVC 3 Release Candidate
 date: 2010-11-09 -0800
 disqus_identifier: 18736
-categories:
+tags:
 - asp.net
 - asp.net mvc
 - code

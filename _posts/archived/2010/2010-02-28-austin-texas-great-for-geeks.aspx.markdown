@@ -2,7 +2,7 @@
 title: Austin Texas The Techie Town
 date: 2010-02-28 -0800
 disqus_identifier: 18688
-categories:
+tags:
 - asp.net
 - asp.net mvc
 - code

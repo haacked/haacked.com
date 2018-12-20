@@ -2,7 +2,7 @@
 title: NuGet Needs Your Input
 date: 2011-04-06 -0800
 disqus_identifier: 18772
-categories:
+tags:
 - nuget
 - oss
 - code

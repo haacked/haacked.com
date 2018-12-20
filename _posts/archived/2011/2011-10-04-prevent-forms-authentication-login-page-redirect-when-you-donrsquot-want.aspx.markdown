@@ -3,7 +3,7 @@ title: Prevent Forms Authentication Login Page Redirect When You Don&rsquo;t Wan
   It
 date: 2011-10-04 -0800
 disqus_identifier: 18816
-categories:
+tags:
 - asp.net
 - asp.net mvc
 - code

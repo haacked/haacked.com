@@ -2,7 +2,7 @@
 title: Browser Choice and Voting Online
 date: 2008-10-31 -0800
 disqus_identifier: 18544
-categories:
+tags:
 - personal
 - code
 redirect_from: "/archive/2008/10/30/browser-choice-and-voting-online.aspx/"

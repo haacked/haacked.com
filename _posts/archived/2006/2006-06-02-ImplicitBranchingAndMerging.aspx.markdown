@@ -2,7 +2,7 @@
 title: Implicit Branching and Merging
 date: 2006-06-02 -0800
 disqus_identifier: 13101
-categories:
+tags:
 - code
 redirect_from: "/archive/2006/06/01/ImplicitBranchingAndMerging.aspx/"
 ---

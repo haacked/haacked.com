@@ -2,7 +2,7 @@
 title: Dynamic Methods in View Data
 date: 2010-08-02 -0800
 disqus_identifier: 18714
-categories:
+tags:
 - asp.net
 - asp.net mvc
 - code

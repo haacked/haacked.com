@@ -2,7 +2,7 @@
 title: Successive Method Calls With MoQ
 date: 2009-09-29 -0800
 disqus_identifier: 18645
-categories:
+tags:
 - code
 - tdd
 redirect_from: "/archive/2009/09/28/moq-sequences.aspx/"

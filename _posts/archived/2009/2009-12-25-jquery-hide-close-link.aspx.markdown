@@ -2,7 +2,7 @@
 title: jQuery Hide/Close Link
 date: 2009-12-25 -0800
 disqus_identifier: 18671
-categories:
+tags:
 - code
 redirect_from: "/archive/2009/12/24/jquery-hide-close-link.aspx/"
 ---

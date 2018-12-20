@@ -2,7 +2,7 @@
 title: We're Having A Doggie!
 date: 2004-08-31 -0800
 disqus_identifier: 1062
-categories:
+tags:
 - personal
 redirect_from: "/archive/2004/08/30/were-having-a-doggie.aspx/"
 ---

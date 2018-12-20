@@ -2,7 +2,7 @@
 title: Lightweight Invisible CAPTCHA Validator Control
 date: 2006-09-26 -0800
 disqus_identifier: 17202
-categories:
+tags:
 - personal
 - asp.net
 redirect_from:

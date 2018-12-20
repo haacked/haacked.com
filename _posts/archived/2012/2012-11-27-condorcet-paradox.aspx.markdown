@@ -2,7 +2,7 @@
 title: Voting is a Sham! Mathematically Speaking.
 date: 2012-11-27 -0800
 disqus_identifier: 18874
-categories:
+tags:
 - math
 redirect_from: "/archive/2012/11/26/condorcet-paradox.aspx/"
 ---

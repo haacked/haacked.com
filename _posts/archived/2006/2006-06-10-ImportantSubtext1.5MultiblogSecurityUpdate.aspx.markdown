@@ -2,7 +2,7 @@
 title: Important Subtext 1.5 Multiblog Security Update
 date: 2006-06-10 -0800
 disqus_identifier: 13214
-categories:
+tags:
 - subtext
 redirect_from: "/archive/2006/06/09/ImportantSubtext1.5MultiblogSecurityUpdate.aspx/"
 ---

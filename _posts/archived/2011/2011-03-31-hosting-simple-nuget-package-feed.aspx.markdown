@@ -2,7 +2,7 @@
 title: Hosting a Simple &ldquo;Read-Only&rdquo; NuGet Package Feed on the Web
 date: 2011-03-31 -0800
 disqus_identifier: 18771
-categories:
+tags:
 - nuget
 - asp.net
 - code

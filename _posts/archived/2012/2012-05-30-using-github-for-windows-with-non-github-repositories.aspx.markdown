@@ -2,7 +2,7 @@
 title: Using GitHub for Windows with non-GitHub repositories
 date: 2012-05-30 -0800
 disqus_identifier: 18859
-categories:
+tags:
 - github
 - git
 redirect_from: "/archive/2012/05/29/using-github-for-windows-with-non-github-repositories.aspx/"

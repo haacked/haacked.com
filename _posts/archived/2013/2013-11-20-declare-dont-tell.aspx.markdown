@@ -2,7 +2,7 @@
 title: Declare Don&rsquo;t Tell
 date: 2013-11-20 -0800
 disqus_identifier: 18908
-categories:
+tags:
 - code
 - rx
 redirect_from: "/archive/2013/11/19/declare-dont-tell.aspx/"

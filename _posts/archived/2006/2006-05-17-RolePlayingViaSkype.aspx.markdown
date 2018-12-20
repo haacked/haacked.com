@@ -2,7 +2,7 @@
 title: Role Playing Via Skype
 date: 2006-05-17 -0800
 disqus_identifier: 12834
-categories:
+tags:
 - personal
 - tech
 redirect_from: "/archive/2006/05/16/RolePlayingViaSkype.aspx/"

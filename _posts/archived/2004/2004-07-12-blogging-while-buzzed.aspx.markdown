@@ -2,7 +2,7 @@
 title: Blogging While Buzzed
 date: 2004-07-12 -0800
 disqus_identifier: 810
-categories:
+tags:
 - blogging
 redirect_from: "/archive/2004/07/11/blogging-while-buzzed.aspx/"
 ---

@@ -2,7 +2,7 @@
 title: CoComment Support in Subtext
 date: 2006-04-04 -0800
 disqus_identifier: 12261
-categories:
+tags:
 - subtext
 redirect_from: "/archive/2006/04/03/CoCommentSupportInSubtext.aspx/"
 ---

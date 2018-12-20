@@ -2,7 +2,7 @@
 title: You Don&rsquo;t Need A Thick Skin
 date: 2012-12-17 -0800
 disqus_identifier: 18877
-categories:
+tags:
 - code
 - community
 - empathy

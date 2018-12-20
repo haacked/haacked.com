@@ -2,7 +2,7 @@
 title: Headed To Austin and Speaking at the .NET User&rsquo;s Group
 date: 2010-02-07 -0800
 disqus_identifier: 18684
-categories:
+tags:
 - personal
 - code
 redirect_from: "/archive/2010/02/06/visiting-austin.aspx/"

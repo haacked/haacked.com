@@ -2,7 +2,7 @@
 title: 'Urgent: Subtext Security Patch'
 date: 2007-09-20 -0800
 disqus_identifier: 18396
-categories:
+tags:
 - personal
 redirect_from: "/archive/2007/09/19/urgent-subtext-security-patch.aspx/"
 ---

@@ -2,7 +2,7 @@
 title: Updating NuGet Contributor Guidelines
 date: 2010-10-14 -0800
 disqus_identifier: 18726
-categories:
+tags:
 - nuget
 - code
 - oss

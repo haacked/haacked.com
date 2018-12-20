@@ -2,7 +2,7 @@
 title: The Subtext Alternative To Url Rewriting
 date: 2006-02-23 -0800
 disqus_identifier: 11859
-categories:
+tags:
 - asp.net
 - subtext
 redirect_from: "/archive/2006/02/22/TheSubtextAlternativeToUrlRewriting.aspx/"

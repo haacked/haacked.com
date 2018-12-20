@@ -2,7 +2,7 @@
 title: An Obsessive Compulsive Guide To Source Code Formatting
 date: 2011-05-22 -0800
 disqus_identifier: 18790
-categories:
+tags:
 - oss
 - nuget
 redirect_from: "/archive/2011/05/21/an-obsessive-compulsive-guide-to-source-code-formatting.aspx/"
