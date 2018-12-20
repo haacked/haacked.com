@@ -2,7 +2,7 @@
 title: Using Routing With WebForms
 date: 2008-03-11 -0800
 disqus_identifier: 18463
-categories: [routing aspnet aspnetmvc]
+categories: [routing,aspnet,aspnetmvc]
 redirect_from: "/archive/2008/03/10/using-routing-with-webforms.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Why do managers go bad?"
 date: 2017-10-07 -0800 4:17 PM PDT
-categories: [leadership management]
+categories: [leadership,management]
 ---
 
 In [Endless Immensity of the Sea](http://haacked.com/archive/2017/08/30/endless-immensity-of-the-sea) I wrote about a leadership style that encourages intrinsic motivation. Many people I talk to don't work in such an environment. Even those who work in places that promote the ideals of autonomy and intrinsic motivation often find that over time, things change for the worse. Why does this happen?

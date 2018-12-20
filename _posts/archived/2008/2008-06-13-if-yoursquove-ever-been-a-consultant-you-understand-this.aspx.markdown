@@ -2,7 +2,7 @@
 title: If You&rsquo;ve Ever Been A Consultant, You Understand This
 date: 2008-06-13 -0800
 disqus_identifier: 18493
-categories: [humor consulting]
+categories: [humor,consulting]
 redirect_from: "/archive/2008/06/12/if-yoursquove-ever-been-a-consultant-you-understand-this.aspx/"
 ---
 

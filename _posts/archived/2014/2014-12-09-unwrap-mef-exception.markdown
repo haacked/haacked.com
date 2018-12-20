@@ -1,7 +1,7 @@
 ---
 title: "Unwrap MEF composition exceptions"
 date: 2014-12-09 -0800
-categories: [csharp mef]
+categories: [csharp,mef]
 ---
 
 There are times when the Managed Extensibility Framework (aka MEF, the close relative of "Meh") cannot compose a part. In those cases it'll shrug (¯\\_(ツ)_/¯) and then take a dump on your runtime execution by throwing a  [`CompositionException`](http://msdn.microsoft.com/en-us/library/system.componentmodel.composition.compositionexception%28v=vs.110%29.aspx).

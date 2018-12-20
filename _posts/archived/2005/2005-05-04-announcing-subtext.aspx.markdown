@@ -2,7 +2,7 @@
 title: Announcing Subtext, A Fork Of .TEXT For Your Blogging Pleasure
 date: 2005-05-04 -0800
 disqus_identifier: 2953
-categories: [subtext oss]
+categories: [subtext,oss]
 redirect_from: "/archive/2005/05/03/announcing-subtext.aspx/"
 ---
 

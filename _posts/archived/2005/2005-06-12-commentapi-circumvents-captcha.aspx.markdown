@@ -2,7 +2,7 @@
 title: CommentAPI Circumvents CAPTCHA
 date: 2005-06-12 -0800
 disqus_identifier: 4659
-categories: [blogging subtext]
+categories: [blogging,subtext]
 redirect_from: "/archive/2005/06/11/commentapi-circumvents-captcha.aspx/"
 ---
 

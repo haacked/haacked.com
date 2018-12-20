@@ -2,7 +2,7 @@
 title: The REST-Like Aspect Of ASP.NET MVC
 date: 2007-11-09 -0800
 disqus_identifier: 18420
-categories: [rest aspnetmvc aspnet]
+categories: [rest,aspnetmvc,aspnet]
 redirect_from: "/archive/2007/11/08/the-rest-like-aspect-of-asp.net-mvc.aspx/"
 ---
 

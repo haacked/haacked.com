@@ -2,7 +2,7 @@
 title: Upcoming Changes In Routing
 date: 2008-04-10 -0800
 disqus_identifier: 18474
-categories: [aspnet aspnetmvc routing]
+categories: [aspnet,aspnetmvc,routing]
 redirect_from: "/archive/2008/04/09/upcoming-changes-in-routing.aspx/"
 ---
 

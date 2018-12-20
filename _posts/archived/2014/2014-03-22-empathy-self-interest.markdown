@@ -1,7 +1,7 @@
 ---
 title: "Empathy In Your Best Interest"
 date: 2014-03-22 10:18 -0700
-categories: [personal empathy]
+categories: [personal,empathy]
 ---
 
 If I had to pick only one trait I hope to instill in my children, it's empathy. It's on my mind because of [this beautiful post by Reg Braythwayt](http://braythwayt.com/2014/03/17/empathy.html).

@@ -2,7 +2,7 @@
 title: 'Blogging Is Pure Vanity: Profile Of A Vain Blogger'
 date: 2004-10-08 -0800
 disqus_identifier: 1322
-categories: [blogging humor]
+categories: [blogging,humor]
 redirect_from: "/archive/2004/10/07/bloggingispurevanity.aspx/"
 ---
 

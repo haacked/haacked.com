@@ -2,7 +2,7 @@
 title: Reopen The Comment Door For Your Readers With Subkismet
 date: 2008-01-04 -0800
 disqus_identifier: 18444
-categories: [spam blogging]
+categories: [spam,blogging]
 redirect_from: "/archive/2008/01/03/reopen-the-comment-door-for-your-readers-with-subkismet.aspx/"
 ---
 

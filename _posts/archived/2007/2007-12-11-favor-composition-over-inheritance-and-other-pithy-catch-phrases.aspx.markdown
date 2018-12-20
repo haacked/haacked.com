@@ -2,7 +2,7 @@
 title: Composition over Inheritance and other Pithy Catch Phrases
 date: 2007-12-11 -0800
 disqus_identifier: 18437
-categories: [altdotnet design-patterns]
+categories: [altdotnet,design-patterns]
 redirect_from: "/archive/2007/12/10/favor-composition-over-inheritance-and-other-pithy-catch-phrases.aspx/"
 ---
 

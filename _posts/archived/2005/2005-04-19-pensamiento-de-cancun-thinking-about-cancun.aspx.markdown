@@ -2,7 +2,7 @@
 title: Pensamiento de Cancun (Thinking About Cancun)
 date: 2005-04-19 -0800
 disqus_identifier: 2751
-categories: [personal vacation]
+categories: [personal,vacation]
 redirect_from: "/archive/2005/04/18/pensamiento-de-cancun-thinking-about-cancun.aspx/"
 ---
 

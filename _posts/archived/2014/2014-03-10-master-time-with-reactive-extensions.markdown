@@ -1,7 +1,7 @@
 ---
 title: "Master time with Reactive Extensions"
 date: 2014-03-10 08:58 -0700
-categories: [rx, software]
+categories: [rx,software]
 ---
 
 What would you do if you could stop time for everyone but yourself?

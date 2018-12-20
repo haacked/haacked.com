@@ -2,7 +2,7 @@
 title: Thoughts on ASP.NET MVC Preview 2 and Beyond
 date: 2008-03-10 -0800
 disqus_identifier: 18462
-categories: [aspnet aspnetmvc code]
+categories: [aspnet,aspnetmvc,code]
 redirect_from: "/archive/2008/03/09/thoughts-on-asp.net-mvc-preview-2-and-beyond.aspx/"
 ---
 

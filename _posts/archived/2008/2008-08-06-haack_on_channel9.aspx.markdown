@@ -2,7 +2,7 @@
 title: Hey Ma, I&rsquo;m On TV!
 date: 2008-08-06 -0800
 disqus_identifier: 18515
-categories: [aspnetmvc video]
+categories: [aspnetmvc,video]
 redirect_from: "/archive/2008/08/05/haack_on_channel9.aspx/"
 ---
 

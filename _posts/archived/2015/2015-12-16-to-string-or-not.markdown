@@ -1,7 +1,7 @@
 ---
 title: "To String or to string"
 date: 2015-12-16 -0800
-categories: [csharp style code]
+categories: [csharp,style,code]
 ---
 
 Like many developers, I have many strong opinions about things that really do not matter. Even worse, I [have the vanity](https://haacked.com/archive/2004/10/08/bloggingispurevanity.aspx/) to believe other developers want to read about it.

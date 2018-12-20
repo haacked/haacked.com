@@ -2,7 +2,7 @@
 title: On Seppuku, Katanas, and Samurai
 date: 2005-01-04 -0800
 disqus_identifier: 1813
-categories: [personal japan tokyo]
+categories: [personal,japan,tokyo]
 redirect_from: "/archive/2005/01/03/on-seppuku-katanas-samurai.aspx/"
 ---
 

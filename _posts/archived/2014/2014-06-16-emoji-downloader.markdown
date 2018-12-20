@@ -1,7 +1,7 @@
 ---
 title: "Download Emojis With Octokit.NET"
 date: 2014-06-16 -0800
-categories: [github emoji octokit]
+categories: [github,emoji,octokit]
 ---
 
 I ![love](https://github.global.ssl.fastly.net/images/icons/emoji/heart.png) emojis. Recently, I had the fun task to add emoji auto completion to the [latest GitHub for Windows release](https://haacked.com/archive/2014/06/09/ghfw-2/), among other contributions.

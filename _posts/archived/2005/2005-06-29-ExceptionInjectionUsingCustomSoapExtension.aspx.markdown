@@ -2,7 +2,7 @@
 title: Exception Injection Using a Custom SOAP Extension
 date: 2005-06-29 -0800
 disqus_identifier: 7392
-categories: [code soap]
+categories: [code,soap]
 redirect_from: "/archive/2005/06/28/ExceptionInjectionUsingCustomSoapExtension.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Currently in Japan with No Consistent Internet Access
 date: 2008-09-30 -0800
 disqus_identifier: 18533
-categories: [personal travel]
+categories: [personal,travel]
 redirect_from: "/archive/2008/09/29/currently-in-japan-with-no-consistent-internet-access.aspx/"
 ---
 

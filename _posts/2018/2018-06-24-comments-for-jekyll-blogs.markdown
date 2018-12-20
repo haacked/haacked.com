@@ -1,7 +1,7 @@
 ---
 title: "Comments for Jekyll Blogs"
 date: 2018-06-24 -0800
-categories: [jekyll comments blogging]
+categories: [jekyll,comments,blogging]
 ---
 
 If you are a long time reader of my blog, you might notice something different starting today. No, the content hasn't gotten any better. What's new is the comment system.

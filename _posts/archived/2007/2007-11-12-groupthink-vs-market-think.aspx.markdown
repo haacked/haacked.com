@@ -2,7 +2,7 @@
 title: Groupthink Vs Market Think
 date: 2007-11-12 -0800
 disqus_identifier: 18422
-categories: [markets decision-making]
+categories: [markets,decision-making]
 redirect_from: "/archive/2007/11/11/groupthink-vs-market-think.aspx/"
 ---
 

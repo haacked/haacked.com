@@ -1,7 +1,7 @@
 ---
 title: "GitHub Secrets Talk"
 date: 2014-04-03 -0800
-categories: [personal github]
+categories: [personal,github]
 ---
 
 If you happen to be in Oahu next week (lucky you!), Wednesday April 9 2014 at 5:30 PM, come see [my talk on GitHub Secrets](http://www.meetup.com/dynamic/events/173981152/) at the University of Hawaii (lucky me!). Did I mention good food will be served?!

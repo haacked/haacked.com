@@ -2,7 +2,7 @@
 title: Blocking Direct Access To Views in ASP.NET MVC
 date: 2008-02-12 -0800
 disqus_identifier: 18455
-categories: [aspnet aspnetmvc code]
+categories: [aspnet,aspnetmvc,code]
 redirect_from: "/archive/2008/02/11/asp.net-mvc-blocking-direct-access-to-views.aspx/"
 ---
 

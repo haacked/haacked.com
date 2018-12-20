@@ -1,7 +1,7 @@
 ---
 title: "Blogging while Broken"
 date: 2014-03-29 12:27:00 -0800
-categories: [personal, blogging]
+categories: [personal,blogging]
 ---
 
 I'm going through a bit of a funk with work and writing. They seem somewhat intertwined. Writing this blog has been such an important outlet for me that it's rough when I can't seem to muster the energy [to just keep writing](http://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/).

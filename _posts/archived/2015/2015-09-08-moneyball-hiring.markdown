@@ -1,7 +1,7 @@
 ---
 title: "Moneyball of Hiring"
 date: 2015-09-08 -0800
-categories: [hiring industry]
+categories: [hiring,industry]
 ---
 
 The shaman squatted next to the entrails on the ground and stared intently at the pattern formed by the splatter. There was something there, but confirmation was needed. Turning away from the decomposing remains, the shaman consulted the dregs of a cup of tea, searching the shifting patterns of the swirling tea leaves for corroboration. There it was. A decision could be made. "Yes, this person will be successful here. We should hire this person."

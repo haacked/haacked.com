@@ -2,7 +2,7 @@
 title: At The Microsoft Campus Next Week And Other Engagements
 date: 2007-07-30 -0800
 disqus_identifier: 18375
-categories: [microsoft travel]
+categories: [microsoft,travel]
 redirect_from: "/archive/2007/07/29/at-the-microsoft-campus-next-week-and-other-engagements.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Start++ Is All That And Then Some
 date: 2007-03-06 -0800
 disqus_identifier: 18224
-categories: [tips productivity]
+categories: [tips,productivity]
 redirect_from: "/archive/2007/03/05/start_is_all_that_and_then_some.aspx/"
 ---
 

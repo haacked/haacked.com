@@ -2,7 +2,7 @@
 title: "The Problem of Package Manager Trust"
 description: "Trust is a tricky issue when it comes to package managers, as evidence by recent events with the event-stream package."
 date: 2018-11-28 -0800 09:30 AM PDT
-categories: [npm nuget security trust safety package-managers]
+categories: [npm,nuget,security,trust,safety,package-managers]
 ---
 
 Package managers are among the most valuable tools in a developer's toolkit. A package can inject hundreds to thousands of lines of useful code into a project that a developer would otherwise have to write by hand. Ain't nobody got time for that!

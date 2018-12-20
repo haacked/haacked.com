@@ -1,7 +1,7 @@
 ---
 title: "ReactiveUI Design Guidelines"
 date: 2014-08-05 -0800
-categories: [rx rxui akavache ghfw]
+categories: [rx,rxui,akavache,ghfw]
 ---
 
 [GitHub for Windows](https://windows.github.com/) (often abbreviated to GHfW) is a client WPF application written in C#. I think it's beautiful.

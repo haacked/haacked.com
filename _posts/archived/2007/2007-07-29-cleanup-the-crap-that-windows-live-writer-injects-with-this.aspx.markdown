@@ -2,7 +2,7 @@
 title: Cleanup The Crap That Windows Live Writer Injects With This HttpModule
 date: 2007-07-29 -0800
 disqus_identifier: 18374
-categories: [tips aspnet httpmodule]
+categories: [tips,aspnet,httpmodule]
 redirect_from: "/archive/2007/07/28/cleanup-the-crap-that-windows-live-writer-injects-with-this.aspx/"
 ---
 

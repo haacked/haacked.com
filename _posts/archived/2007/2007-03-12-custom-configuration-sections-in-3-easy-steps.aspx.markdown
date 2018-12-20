@@ -2,7 +2,7 @@
 title: Custom Configuration Sections in 3 Easy Steps
 date: 2007-03-12 -0800
 disqus_identifier: 18236
-categories: [aspnet configuration]
+categories: [aspnet,configuration]
 redirect_from: "/archive/2007/03/11/custom-configuration-sections-in-3-easy-steps.aspx/"
 ---
 

@@ -2,7 +2,7 @@
 title: Abstract Base Classes Have Versioning Problems Too
 date: 2008-02-21 -0800
 disqus_identifier: 18458
-categories: [code dotnet csharp versioning]
+categories: [code,dotnet,csharp,versioning]
 redirect_from: "/archive/2008/02/20/abstract-base-classes-have-versioning-problems-too.aspx/"
 ---
 

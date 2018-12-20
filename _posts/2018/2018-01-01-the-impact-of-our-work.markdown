@@ -1,7 +1,7 @@
 ---
 title: "The Impact of our Work"
 date: 2018-01-01 -0800
-categories: [personal career]
+categories: [personal,career]
 ---
 
 There was once a time I regretted not attending a school with a more rigorous engineering program. I would tell myself, I should have gone to an institution like Stanford which has a strong CS program and ties to the bay area tech scene. I'd be further ahead in my career hobnobbing with VCs showering me with champagne and hundred dollar bills.

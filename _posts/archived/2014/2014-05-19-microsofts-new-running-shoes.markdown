@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's New Running Shoes"
 date: 2014-05-17 -0800
-categories: [microsoft aspnet oss]
+categories: [microsoft,aspnet,oss]
 ---
 
 When Ballmer famously said, "Linux is a cancer that attaches itself in an intellectual property sense to everything it touches," it was fair to characterize Microsoft's approach to open source as hostile. But over time, forces within Microsoft pushed to change this attitude. Many groups inside of Microsoft continue to see the customer and business value in fostering, rather than fighting, OSS.

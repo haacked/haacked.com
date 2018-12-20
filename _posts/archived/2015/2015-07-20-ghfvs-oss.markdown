@@ -1,7 +1,7 @@
 ---
 title: "The Open Sourcing of the GitHub Extension for Visual Studio"
 date: 2015-07-20 -0800
-categories: [github git oss]
+categories: [github,git,oss]
 ---
 
 Writing extensions to Visual Studio is really hard. As in turn _your hair gray_ hard. In fact, I now have gray hairs and I didn't when I started the [GitHub Extension for Visual Studio project](https://visualstudio.github.com/) (true story).

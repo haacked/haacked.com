@@ -2,7 +2,7 @@
 title: Upcoming Speaking Gigs and a Podcast
 date: 2013-04-08 -0800
 disqus_identifier: 18887
-categories: [community oss personal]
+categories: [community,oss,personal]
 redirect_from: "/archive/2013/04/07/upcoming-speaking-gigs-and-a-podcast.aspx/"
 ---
 

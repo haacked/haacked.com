@@ -1,7 +1,7 @@
 ---
 title: "GitHub Saved My Marriage"
 date: 2014-06-30 -0800
-categories: [personal github]
+categories: [personal,github]
 ---
 
 GitHub is a great tool for developers to work together on software. Though its primary focus is software, a lot of people find it useful for non-software projects. For example, a co-worker of mine has a repository where he [tracks a pet project](https://github.com/thedaniel/xl600):

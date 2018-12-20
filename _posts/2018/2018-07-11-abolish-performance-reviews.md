@@ -2,7 +2,7 @@
 title: "Abolish Performance Reviews"
 description: "Where I rant about how broken annual performance reviews are today."
 date: 2018-07-11 -0800 9:46 AM PDT
-categories: [work management reviews]
+categories: [work,management,reviews]
 ---
 
 Who doesn't love the smell of performance reviews in the morning? A smell welcomed by employees and managers alike with joy and delight. An efficient ritual that is fair and definitely motivates everyone to improve. A ritual that no one doubts is worth the investment of time and energy.
