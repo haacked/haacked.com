@@ -23,15 +23,15 @@ So I thought it might be handy to write up a a really concise quick reference ab
     <tr>
         <td valign="top" width="183">Code Block</td>
         <td valign="top" width="149"><pre class="csharpcode"><span class="asp">@{</span> 
-  <span class="rzr"><span class="kwrd">int</span> x = 123;</span> 
-  <span class="rzr"><span class="kwrd">string</span> y = <span class="str">"because."</span>;</span>
+  <span class="rzr"><span class="kd">int</span> x = 123;</span> 
+  <span class="rzr"><span class="kd">string</span> y = <span class="s">"because."</span>;</span>
 <span class="asp">}</span></pre>
       </td>
 
       <td valign="top">
         <pre class="csharpcode"><span class="asp">&lt;%</span>
-  <span class="kwrd">int</span> x = 123; 
-  <span class="kwrd">string</span> y = <span class="str">"because."</span>; 
+  <span class="kd">int</span> x = 123; 
+  <span class="kd">string</span> y = <span class="s">"because."</span>; 
 <span class="asp">%&gt;</span>
       </pre>
       </td>
@@ -41,11 +41,11 @@ So I thought it might be handy to write up a a really concise quick reference ab
       <td valign="top" width="183">Expression (Html Encoded)</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">span</span><span class="kwrd">&gt;</span><span class="asp">@</span><span class="rzr">model.Message</span><span class="kwrd">&lt;/</span><span class="html">span</span><span class="kwrd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">span</span><span class="kd">&gt;</span><span class="asp">@</span><span class="rzr">model.Message</span><span class="kd">&lt;/</span><span class="html">span</span><span class="kd">&gt;</span></pre>
       </td>
 
       <td valign="top">
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">span</span><span class="kwrd">&gt;</span><span class="asp">&lt;%</span>: model.Message <span class="asp">%&gt;</span><span class="kwrd">&lt;/</span><span class="html">span</span><span class="kwrd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">span</span><span class="kd">&gt;</span><span class="asp">&lt;%</span>: model.Message <span class="asp">%&gt;</span><span class="kd">&lt;/</span><span class="html">span</span><span class="kd">&gt;</span></pre>
       </td>
     </tr>
 
@@ -53,13 +53,13 @@ So I thought it might be handy to write up a a really concise quick reference ab
       <td valign="top" width="183">Expression (Unencoded)</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">span</span><span class="kwrd">&gt;
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">span</span><span class="kd">&gt;
 </span><span class="asp">@</span><span class="rzr">Html.Raw(model.Message)</span>
-<span class="kwrd">&lt;/</span><span class="html">span</span><span class="kwrd">&gt;</span></pre>
+<span class="kd">&lt;/</span><span class="html">span</span><span class="kd">&gt;</span></pre>
       </td>
 
       <td valign="top">
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">span</span><span class="kwrd">&gt;</span><span class="asp">&lt;%</span>= model.Message <span class="asp">%&gt;</span><span class="kwrd">&lt;/</span><span class="html">span</span><span class="kwrd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">span</span><span class="kd">&gt;</span><span class="asp">&lt;%</span>= model.Message <span class="asp">%&gt;</span><span class="kd">&lt;/</span><span class="html">span</span><span class="kd">&gt;</span></pre>
       </td>
     </tr>
 
@@ -67,14 +67,14 @@ So I thought it might be handy to write up a a really concise quick reference ab
       <td valign="top" width="183">Combining Text and markup</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="asp">@</span><span class="rzr"><span class="kwrd">foreach</span>(var item <span class="kwrd">in</span> items) {</span>
-  <span class="kwrd">&lt;</span><span class="html">span</span><span class="kwrd">&gt;</span><span class="asp">@</span><span class="rzr">item.Prop</span><span class="kwrd">&lt;/</span><span class="html">span</span><span class="kwrd">&gt;</span> 
+        <pre class="csharpcode"><span class="asp">@</span><span class="rzr"><span class="kd">foreach</span>(var item <span class="kd">in</span> items) {</span>
+  <span class="kd">&lt;</span><span class="html">span</span><span class="kd">&gt;</span><span class="asp">@</span><span class="rzr">item.Prop</span><span class="kd">&lt;/</span><span class="html">span</span><span class="kd">&gt;</span> 
 <span class="rzr">}</span></pre>
       </td>
 
       <td valign="top">
-        <pre class="csharpcode"><span class="asp">&lt;%</span> <span class="kwrd">foreach</span>(var item <span class="kwrd">in</span> items) { <span class="asp">%&gt;</span>
-  <span class="kwrd">&lt;</span><span class="html">span</span><span class="kwrd">&gt;</span>&lt;%: item.Prop %&gt;<span class="kwrd">&lt;/</span><span class="html">span</span><span class="kwrd">&gt;</span>
+        <pre class="csharpcode"><span class="asp">&lt;%</span> <span class="kd">foreach</span>(var item <span class="kd">in</span> items) { <span class="asp">%&gt;</span>
+  <span class="kd">&lt;</span><span class="html">span</span><span class="kd">&gt;</span>&lt;%: item.Prop %&gt;<span class="kd">&lt;/</span><span class="html">span</span><span class="kd">&gt;</span>
 <span class="asp">&lt;%</span> } <span class="asp">%&gt;</span></pre>
       </td>
     </tr>
@@ -83,13 +83,13 @@ So I thought it might be handy to write up a a really concise quick reference ab
       <td valign="top" width="183">Mixing code and Plain text</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="asp">@</span><span class="rzr"><span class="kwrd">if</span> (foo) {</span>
-  <span class="kwrd">&lt;</span><span class="html">text</span><span class="kwrd">&gt;</span>Plain Text<span class="kwrd">&lt;/</span><span class="html">text</span><span class="kwrd">&gt;</span> 
+        <pre class="csharpcode"><span class="asp">@</span><span class="rzr"><span class="kd">if</span> (foo) {</span>
+  <span class="kd">&lt;</span><span class="html">text</span><span class="kd">&gt;</span>Plain Text<span class="kd">&lt;/</span><span class="html">text</span><span class="kd">&gt;</span> 
 <span class="rzr">}</span></pre>
       </td>
 
       <td valign="top">
-        <pre class="csharpcode"><span class="asp">&lt;%</span> <span class="kwrd">if</span> (foo) { <span class="asp">%&gt;</span> 
+        <pre class="csharpcode"><span class="asp">&lt;%</span> <span class="kd">if</span> (foo) { <span class="asp">%&gt;</span> 
   Plain Text 
 <span class="asp">&lt;%</span> } <span class="asp">%&gt;</span></pre>
       </td>
@@ -99,14 +99,14 @@ So I thought it might be handy to write up a a really concise quick reference ab
       <td valign="top" width="183">Using block</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="asp">@</span><span class="kwrd">using</span> (Html.BeginForm()) {
-  <span class="kwrd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kwrd">="text"</span> <span class="attr">value</span><span class="kwrd">="input here"</span><span class="kwrd">&gt;</span>
+        <pre class="csharpcode"><span class="asp">@</span><span class="kd">using</span> (Html.BeginForm()) {
+  <span class="kd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kd">="text"</span> <span class="attr">value</span><span class="kd">="input here"</span><span class="kd">&gt;</span>
 }</pre>
       </td>
 
       <td valign="top">
-        <pre class="csharpcode"><span class="asp">&lt;%</span> <span class="kwrd">using</span> (Html.BeginForm()) { <span class="asp">%&gt;</span>
-  <span class="kwrd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kwrd">="text"</span> <span class="attr">value</span><span class="kwrd">="input here"</span><span class="kwrd">&gt;</span>
+        <pre class="csharpcode"><span class="asp">&lt;%</span> <span class="kd">using</span> (Html.BeginForm()) { <span class="asp">%&gt;</span>
+  <span class="kd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kd">="text"</span> <span class="attr">value</span><span class="kd">="input here"</span><span class="kd">&gt;</span>
 <span class="asp">&lt;%</span> } <span class="asp">%&gt;</span></pre>
       </td>
     </tr>
@@ -115,7 +115,7 @@ So I thought it might be handy to write up a a really concise quick reference ab
       <td valign="top" width="183">Mixing code and plain text (alternate)</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="asp">@</span><span class="rzr"><span class="kwrd">if</span> (foo) {</span>
+        <pre class="csharpcode"><span class="asp">@</span><span class="rzr"><span class="kd">if</span> (foo) {</span>
   <span class="asp">@:</span>Plain Text is <span class="asp">@</span><span class="rzr">bar</span>
 <span class="rzr">}</span></pre>
       </td>
@@ -137,7 +137,7 @@ So I thought it might be handy to write up a a really concise quick reference ab
       <td valign="top" width="183">Explicit Expression</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">span</span><span class="kwrd">&gt;</span>ISBN<span class="asp">@(</span><span class="rzr">isbnNumber</span><span class="asp">)</span><span class="kwrd">&lt;/</span><span class="html">span</span><span class="kwrd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">span</span><span class="kd">&gt;</span>ISBN<span class="asp">@(</span><span class="rzr">isbnNumber</span><span class="asp">)</span><span class="kd">&lt;/</span><span class="html">span</span><span class="kd">&gt;</span></pre>
       </td>
 
       <td valign="top">In this case, we need to be explicit about the expression by using parentheses.</td>
@@ -147,9 +147,9 @@ So I thought it might be handy to write up a a really concise quick reference ab
       <td valign="top" width="183">Escaping the @ sign</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">span</span><span class="kwrd">&gt;</span>In Razor, you use the 
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">span</span><span class="kd">&gt;</span>In Razor, you use the 
 @@foo to display the value 
-of foo<span class="kwrd">&lt;/</span><span class="html">span</span><span class="kwrd">&gt;</span></pre>
+of foo<span class="kd">&lt;/</span><span class="html">span</span><span class="kd">&gt;</span></pre>
       </td>
 
       <td valign="top">@@ renders a single @ in the response.</td>
@@ -188,8 +188,8 @@ multiline comment
 
       <td valign="top" width="149">
         <pre class="csharpcode"><span class="asp">@{</span>
-  Func&lt;dynamic, <span class="kwrd">object</span>&gt; b = 
-   <span class="asp">@</span><span class="kwrd">&lt;</span><span class="html">strong</span><span class="kwrd">&gt;</span><span class="asp">@</span>item<span class="kwrd">&lt;/</span><span class="html">strong</span><span class="kwrd">&gt;</span>;
+  Func&lt;dynamic, <span class="kd">object</span>&gt; b = 
+   <span class="asp">@</span><span class="kd">&lt;</span><span class="html">strong</span><span class="kd">&gt;</span><span class="asp">@</span>item<span class="kd">&lt;/</span><span class="html">strong</span><span class="kd">&gt;</span>;
 <span class="asp">}</span>
 <span class="asp">@</span>b("Bold this")</pre>
       </td>
@@ -217,18 +217,18 @@ multiline comment
       <td valign="top" width="183">Conditional attributes</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">div</span> <span class="attr">class</span><span class="kwrd">="</span><span class="asp">@</span>className"<span class="kwrd">&gt;&lt;/</span><span class="html">div</span><span class="kwrd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="attr">class</span><span class="kd">="</span><span class="asp">@</span>className"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
       </td>
 
       <td valign="top">When <code>className = null</code> 
 
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">div</span><span class="kwrd">&gt;&lt;/</span><span class="html">div</span><span class="kwrd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span><span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
 When <code>className = ""</code> 
 
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">div</span> <span class="attr">class</span><span class="kwrd">="</span>"<span class="kwrd">&gt;&lt;/</span><span class="html">div</span><span class="kwrd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="attr">class</span><span class="kd">="</span>"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
 When <code>className = "my-class"</code> 
 
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">div</span> <span class="attr">class</span><span class="kwrd">="</span>my-class"<span class="kwrd">&gt;&lt;/</span><span class="html">div</span><span class="kwrd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="attr">class</span><span class="kd">="</span>my-class"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
       </td>
     </tr>
 
@@ -236,19 +236,19 @@ When <code>className = "my-class"</code>
       <td valign="top" width="183">Conditional attributes with other literal values</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">div</span> <span class="attr">class</span><span class="kwrd">="</span><span class="asp">@</span>className foo bar"<span class="kwrd">&gt;
-&lt;/</span><span class="html">div</span><span class="kwrd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="attr">class</span><span class="kd">="</span><span class="asp">@</span>className foo bar"<span class="kd">&gt;
+&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
       </td>
 
       <td valign="top">When <code>className = null</code> 
 
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">div</span> <span class="attr">class</span><span class="kwrd">="</span>foo bar"<span class="kwrd">&gt;&lt;/</span><span class="html">div</span><span class="kwrd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="attr">class</span><span class="kd">="</span>foo bar"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
         <em>Notice the leading space in front of </em><code>foo</code><em> is removed.</em> 
 
         <br />When <code>className = "my-class"</code> 
 
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">div</span> <span class="attr">class</span><span class="kwrd">="</span>my-class foo bar"<span class="kwrd">&gt;
-&lt;/</span><span class="html">div</span><span class="kwrd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="attr">class</span><span class="kd">="</span>my-class foo bar"<span class="kd">&gt;
+&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
       </td>
     </tr>
 
@@ -259,15 +259,15 @@ When <code>className = "my-class"</code>
         <br /><em>data-* attributes are always rendered</em>.</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">div</span> <span class="attr">data-x</span><span class="kwrd">="</span><span class="asp">@</span>xpos"<span class="kwrd">&gt;&lt;/</span><span class="html">div</span><span class="kwrd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="attr">data-x</span><span class="kd">="</span><span class="asp">@</span>xpos"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
       </td>
 
       <td valign="top">When <code>xpos = null or ""</code> 
 
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">div</span> <span class="attr">data-x</span><span class="kwrd">="</span>"<span class="kwrd">&gt;&lt;/</span><span class="html">div</span><span class="kwrd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <span class="attr">data-x</span><span class="kd">="</span>"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
 When <code>xpos = "42"</code> 
 
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">div</span> <font color="#ff0000">data-x</font><span class="kwrd">="</span>42"<span class="kwrd">&gt;&lt;/</span><span class="html">div</span><span class="kwrd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">div</span> <font color="#ff0000">data-x</font><span class="kd">="</span>42"<span class="kd">&gt;&lt;/</span><span class="html">div</span><span class="kd">&gt;</span></pre>
       </td>
     </tr>
 
@@ -275,17 +275,17 @@ When <code>xpos = "42"</code>
       <td valign="top" width="183">Boolean attributes</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kwrd">="checkbox"</span>
-  <span class="attr">checked</span><span class="kwrd">="</span><span class="asp">@</span>isChecked" <span class="kwrd">/&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kd">="checkbox"</span>
+  <span class="attr">checked</span><span class="kd">="</span><span class="asp">@</span>isChecked" <span class="kd">/&gt;</span></pre>
       </td>
 
       <td valign="top"><code>When isChecked = true</code> 
 
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kwrd">="checkbox"</span>
-  <span class="attr">checked</span><span class="kwrd">="</span>checked" <span class="kwrd">/&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kd">="checkbox"</span>
+  <span class="attr">checked</span><span class="kd">="</span>checked" <span class="kd">/&gt;</span></pre>
         <code>When isChecked = false</code> 
 
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kwrd">="checkbox"</span> <span class="kwrd">/&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">input</span> <span class="attr">type</span><span class="kd">="checkbox"</span> <span class="kd">/&gt;</span></pre>
       </td>
     </tr>
 
@@ -293,15 +293,15 @@ When <code>xpos = "42"</code>
       <td valign="top" width="183">URL Resolution with tilde</td>
 
       <td valign="top" width="149">
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">script</span> <span class="attr">src</span><span class="kwrd">="~/myscript.js"</span><span class="kwrd">&gt;<br />&lt;/</span><span class="html">script</span><span class="kwrd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">script</span> <span class="attr">src</span><span class="kd">="~/myscript.js"</span><span class="kd">&gt;<br />&lt;/</span><span class="html">script</span><span class="kd">&gt;</span></pre>
       </td>
 
       <td valign="top">When the app is at <code>/</code> 
 
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">script</span> <span class="attr">src</span><span class="kwrd">="/myscript.js"</span><span class="kwrd">&gt;<br />&lt;/</span><span class="html">script</span><span class="kwrd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">script</span> <span class="attr">src</span><span class="kd">="/myscript.js"</span><span class="kd">&gt;<br />&lt;/</span><span class="html">script</span><span class="kd">&gt;</span></pre>
 When running in a virtual application named <code>MyApp</code> 
 
-        <pre class="csharpcode"><span class="kwrd">&lt;</span><span class="html">script</span> <span class="attr">src</span><span class="kwrd">="/MyApp/myscript.js"</span><span class="kwrd">&gt;<br />&lt;/</span><span class="html">script</span><span class="kwrd">&gt;</span></pre>
+        <pre class="csharpcode"><span class="kd">&lt;</span><span class="html">script</span> <span class="attr">src</span><span class="kd">="/MyApp/myscript.js"</span><span class="kd">&gt;<br />&lt;/</span><span class="html">script</span><span class="kd">&gt;</span></pre>
       </td>
     </tr>
   </tbody>
