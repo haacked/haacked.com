@@ -2,8 +2,7 @@
 title: An Amendment To Save Marriages
 date: 2004-02-27 -0800
 disqus_identifier: 214
-tags:
-- personal
+tags: [politics]
 redirect_from: "/archive/2004/02/26/an-amendment-to-save-marriage.aspx/"
 ---
 
@@ -23,4 +22,3 @@ Mathew chapter 19 verse 9 (King James Version):
 
 For your homework, also look up Deut 22:19, Matt 5:32, 19:9, Mark
 10:9-12, Luke 16:18, Rom 7:2, 1 Cor 7:10-11, 7:39.
-
