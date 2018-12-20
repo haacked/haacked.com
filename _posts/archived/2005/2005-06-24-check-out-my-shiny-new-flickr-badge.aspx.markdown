@@ -1,7 +1,7 @@
 ---
 title: Check Out My Shiny New Flickr Badge
 date: 2005-06-24 -0800
-tags: []
+tags: [meta]
 redirect_from: "/archive/2005/06/23/check-out-my-shiny-new-flickr-badge.aspx/"
 ---
 

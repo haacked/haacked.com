@@ -1,7 +1,7 @@
 ---
 title: CAPTCHA For Trackbacks
 date: 2006-10-31 -0800
-tags: [spam]
+tags: [spam,captcha]
 redirect_from: "/archive/2006/10/30/CAPTCHA_For_Trackbacks.aspx/"
 ---
 

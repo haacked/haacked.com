@@ -1,7 +1,7 @@
 ---
 title: "A Lesson in Compassion"
 date: 2014-05-06 -0800
-tags: [personal]
+tags: [personal,empathy]
 ---
 
 The screaming was unexpected.

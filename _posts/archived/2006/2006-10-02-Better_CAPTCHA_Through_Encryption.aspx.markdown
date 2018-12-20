@@ -1,9 +1,7 @@
 ---
 title: Better CAPTCHA Through Encryption
 date: 2006-10-02 -0800
-tags:
-- code
-- blogging
+tags: [spam,validation,captcha]
 redirect_from: "/archive/2006/10/01/Better_CAPTCHA_Through_Encryption.aspx/"
 ---
 

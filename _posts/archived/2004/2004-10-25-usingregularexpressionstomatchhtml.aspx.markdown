@@ -1,9 +1,7 @@
 ---
 title: Using a Regular Expression to Match HTML
 date: 2004-10-25 -0800
-tags:
-- code
-- regex
+tags: [regex,html]
 redirect_from: "/archive/2004/10/24/usingregularexpressionstomatchhtml.aspx/"
 ---
 

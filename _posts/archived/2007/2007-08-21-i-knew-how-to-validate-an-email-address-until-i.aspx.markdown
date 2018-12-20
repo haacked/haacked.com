@@ -1,9 +1,7 @@
 ---
 title: I Knew How To Validate An Email Address Until I Read The RFC
 date: 2007-08-21 -0800
-tags:
-- code
-- regex
+tags: [code,regex,validation]
 redirect_from: "/archive/2007/08/20/i-knew-how-to-validate-an-email-address-until-i.aspx/"
 ---
 

@@ -5,8 +5,7 @@ redirect_from:
 - "/archive/2009/12/12/localizing-aspnetmvc-validation.aspx.html"
 - "/archive/2009/12/06/localizing-aspnetmvc-validation.aspx/"
 - "/archive/2009/12/11/localizing-aspnetmvc-validation.aspx/"
-tags:
-- aspnetmvc localization validation
+tags: [aspnetmvc,localization,validation]
 ---
 
 This is the fourth post in my series on ASP.NET MVC 2 and its new

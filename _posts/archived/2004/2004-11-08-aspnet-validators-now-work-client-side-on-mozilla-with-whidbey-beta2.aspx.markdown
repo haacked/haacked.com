@@ -1,7 +1,7 @@
 ---
 title: ASP.NET Validators now work Client-Side on Mozilla with Whidbey Beta2
 date: 2004-11-08 -0800
-tags: []
+tags: [aspnet,validation]
 redirect_from: "/archive/2004/11/07/aspnet-validators-now-work-client-side-on-mozilla-with-whidbey-beta2.aspx/"
 ---
 

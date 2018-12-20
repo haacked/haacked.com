@@ -1,23 +1,15 @@
 ---
 title: Sending JSON to an ASP.NET MVC Action Method Argument
 date: 2010-04-15 -0800
-tags:
-- aspnetmvc
-- aspnet
-- code
+tags: [json,aspnetmvc]
 redirect_from: "/archive/2010/04/14/sending-json-to-an-asp-net-mvc-action-method-argument.aspx/"
 ---
 
-UPDATE: The `JsonValueProviderFactory` is now registered by default in
-ASP.NET MVC 3. So if you’re using ASP.NET MVC 3, you can ignore that
-part of this blog post.
+UPDATE: The `JsonValueProviderFactory` is now registered by default in ASP.NET MVC 3. So if you’re using ASP.NET MVC 3, you can ignore that part of this blog post.
 
-[Javier “G Money”
-Lozano](http://lozanotek.com/blog/ "Javier Lozano's Blog"), one of the
-good folks involved with
-[C4MVC](http://www.c4mvc.net/ "Community for MVC.NET"), recently wrote a
-[blog
-post](http://lozanotek.com/blog/archive/2010/04/16/posting_json_data_to_mvc_controllers.aspx "JSON Data")
+[Javier “G Money” Lozano](http://lozanotek.com/blog/ "Javier Lozano's Blog"), one of the
+good folks involved with [C4MVC](http://www.c4mvc.net/ "Community for MVC.NET"), recently wrote a
+[blog post](http://lozanotek.com/blog/archive/2010/04/16/posting_json_data_to_mvc_controllers.aspx "JSON Data")
 on posting [JSON](http://json.org/ "Introducing JSON") (JavaScript
 Object Notation) encoded data to an MVC controller action. In his post,
 he describes an interesting approach of using a custom model binder to

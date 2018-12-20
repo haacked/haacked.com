@@ -1,10 +1,7 @@
 ---
 title: Finding Bad Controllers
 date: 2012-07-25 -0800
-tags:
-- aspnet
-- aspnetmvc
-- code
+tags: [aspnetmvc]
 redirect_from: "/archive/2012/07/24/finding-bad-controllers.aspx/"
 ---
 

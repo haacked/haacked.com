@@ -1,7 +1,7 @@
 ---
 title: Email To Weblog
 date: 2006-11-07 -0800
-tags: []
+tags: [blogging]
 redirect_from: "/archive/2006/11/06/Email_To_Weblog.aspx/"
 ---
 
@@ -33,7 +33,7 @@ After posting this very blog post with BlogMailr, I went in and cleaned
 up the markup.  I’m just anal that way.
 
 If this service takes off, beware of spammers attempting to email random
-blocks of \*@blogmailr.com email addresses.  That would be a
+blocks of *@blogmailr.com email addresses.  That would be a
 particularly effective SPAM attack if they were able to post to your
 blog via email.
 
