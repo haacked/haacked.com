@@ -2,17 +2,13 @@
 title: The new digs
 date: 2004-02-03 -0800
 disqus_identifier: 156
-tags: [subtext,blogging]
+tags: [meta]
 redirect_from: "/archive/2004/02/02/the-new-digs.aspx/"
 ---
 
-I am now running on [Subtext](http://subtextproject.com/ "Subtext"), but
-my design remains a “developer made” design.
-
 So what is up with this ugly new site? Basically it is one of those “Oh
 gawd, a developer is trying to design” designs. It is one of the default
-designs that comes with
-[.TEXT](http://dottextwiki.scottwater.com/ ".TEXT") a blogging back-end
+designs that comes with a blogging back-end
 that I am now using. You’ll also notice that my URL is some funky long
 piece of work with "europe" in it. No, I haven’t moved to europe. My
 good man Erik pointed me towards free ASP.NET hosting with SQL Server
@@ -33,4 +29,3 @@ bud exciting new design. Some new features to note:
 
 Now that I have this in place, I will probably forego sleep in order to
 post content worth reading. Come back now, ya heard!
-
