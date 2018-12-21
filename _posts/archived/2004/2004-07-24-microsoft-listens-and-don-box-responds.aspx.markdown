@@ -1,7 +1,7 @@
 ---
 title: Microsoft Listens and Don Box Responds
 date: 2004-07-24 -0800
-tags: []
+tags: [microsoft]
 redirect_from: "/archive/2004/07/23/microsoft-listens-and-don-box-responds.aspx/"
 ---
 
@@ -9,8 +9,7 @@ I have to hand it to Microsoft, they really do listen to their
 customers. And I don't mean in that head nodding "I hear you but I don't
 know what you're saying" kind of way so common with people who really
 want you to think they're listening, but have no time for you. I posted
-[my question about device
-support](https://haacked.com/archive/2004/07/23/843.aspx) on [Don Box's
+[my question about device support](https://haacked.com/archive/2004/07/23/843.aspx) on [Don Box's
 Wiki](http://pluralsight.com/wiki/default.aspx/Don.HomePage) and here's
 his response:
 

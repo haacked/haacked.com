@@ -16,6 +16,6 @@ redirect_from: "/archive/2004/02/05/funny-piece-of-spam.aspx/"
 >
 > ![](http://weblogs.asp.net/ericgu/aggbug/68266.aspx)
 
-*[Via [Eric Gunnerson's C\#
+*[Via [Eric Gunnerson's C#
 Compendium](http://weblogs.asp.net/ericgu/archive/2004/02/05/68266.aspx)]*
 

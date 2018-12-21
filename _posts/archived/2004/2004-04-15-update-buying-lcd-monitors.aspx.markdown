@@ -1,7 +1,7 @@
 ---
 title: 'UPDATE: Buying LCD Monitors.'
 date: 2004-04-15 -0800
-tags: []
+tags: [gadgets,tech]
 redirect_from: "/archive/2004/04/14/update-buying-lcd-monitors.aspx/"
 ---
 

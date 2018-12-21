@@ -41,7 +41,7 @@ directory. For me, that's in "c:\\Program Files\\RssBandit\\plugins".
 You might want to back up the old plug-in before overwriting it with
 this new one.
 
-The Visual Studio.NET 2003 C\# project file is also [available
+The Visual Studio.NET 2003 C# project file is also [available
 here](https://haacked.com/code/BlogThisUsingWBloggarPluginProject.zip).
 
 The plug-in makes use of embedded XSLT files for each type of post. In

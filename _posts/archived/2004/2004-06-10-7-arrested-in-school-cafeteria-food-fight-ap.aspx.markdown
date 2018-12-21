@@ -1,7 +1,7 @@
 ---
 title: 7 Arrested in School Cafeteria Food Fight (AP)
 date: 2004-06-10 -0800
-tags: []
+tags: [news]
 redirect_from: "/archive/2004/06/09/7-arrested-in-school-cafeteria-food-fight-ap.aspx/"
 ---
 

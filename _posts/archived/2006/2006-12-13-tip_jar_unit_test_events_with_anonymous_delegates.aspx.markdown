@@ -6,10 +6,10 @@ redirect_from: "/archive/2006/12/12/tip_jar_unit_test_events_with_anonymous_dele
 ---
 
 Here we are already looking ahead to learn about the language [features
-of C\#
+of C#
 3.0](http://channel9.msdn.com/ShowPost.aspx?PostID=10276 "Channel 9 - Programming Data in C# 3.0")
 and I am still finding new ways to make my code better with good “old
-fashioned” C\# 2.0.
+fashioned” C# 2.0.
 
 Like many people, I tend to fall into certain habits of writing code.
 For example, today I was writing a unit test to test the source of a

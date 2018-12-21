@@ -34,7 +34,7 @@ AutoEventWireup="false" Inherits="EmailIntegrationWeb.WebForm1" %\>
 
     \<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1"\>
 
-    \<meta name="CODE\_LANGUAGE" Content="C\#"\>
+    \<meta name="CODE\_LANGUAGE" Content="C#"\>
 
     \<meta name=vs\_defaultClientScript content="JavaScript"\>
 

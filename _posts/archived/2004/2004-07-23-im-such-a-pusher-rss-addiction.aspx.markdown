@@ -1,7 +1,7 @@
 ---
 title: I'm such a Pusher... RSS Addiction
 date: 2004-07-23 -0800
-tags: []
+tags: [rss]
 redirect_from: "/archive/2004/07/22/im-such-a-pusher-rss-addiction.aspx/"
 ---
 

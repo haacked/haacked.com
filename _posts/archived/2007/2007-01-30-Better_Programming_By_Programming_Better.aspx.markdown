@@ -73,8 +73,8 @@ relevant, but if the experienced developer applies the new
 technologies in the same way over and over again, the developer has not
 improved.
 
-I’m currently looking at some legacy C\# code written in a procedural
-style. The developer can write C\# code, but hasn’t taken the time to
+I’m currently looking at some legacy C# code written in a procedural
+style. The developer can write C# code, but hasn’t taken the time to
 learn to recognize when object oriented patterns would help solve a
 problem more elegantly. Thus his experience has not made him a better
 programmer.

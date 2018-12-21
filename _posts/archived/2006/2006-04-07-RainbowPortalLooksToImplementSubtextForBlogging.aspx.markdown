@@ -14,7 +14,7 @@ module](http://community.rainbowportal.net/blogs/ramseurs_rainbow_portal_20_blog
 for Rainbow. That is pretty sweet.
 
 I have to admit I do not know much about the Rainbow system other than
-it is a Content Management System written in C\# with versions for
+it is a Content Management System written in C# with versions for
 ASP.NET 1.1 and ASP.NET 2.0. It definitely bears investigation to see
 how it compares and contrasts with DotNetNuke.
 

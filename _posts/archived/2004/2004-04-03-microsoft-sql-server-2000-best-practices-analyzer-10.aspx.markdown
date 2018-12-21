@@ -1,7 +1,7 @@
 ---
 title: Microsoft Sql Server 2000 Best Practices Analyzer 1.0
 date: 2004-04-03 -0800
-tags: []
+tags: [data,sql,tools]
 redirect_from: "/archive/2004/04/02/microsoft-sql-server-2000-best-practices-analyzer-10.aspx/"
 ---
 

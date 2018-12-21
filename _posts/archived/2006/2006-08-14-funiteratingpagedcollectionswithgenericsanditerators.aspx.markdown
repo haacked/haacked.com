@@ -115,7 +115,7 @@ public delegate IPagedCollection<T>
 When iterating over the pages of a `CollectionBook` instance, each
 iteration will call the delegate to retrieve the next page (an instance
 of `IPagedCollection<T>`) of data. This uses the new **[iterators
-feature of C\#
+feature of C#
 2.0](http://msdn2.microsoft.com/en-us/library/dscyy5s0.aspx "Iterators on MSDN").
 
 Here is the code for the enumerator.
@@ -164,7 +164,7 @@ CollectionBook<string> book = new CollectionBook<string>(
 
 I wrote some source code and a unit test [you can
 download](http://tools.veloc-it.com/tabid/58/grm2id/8/Default.aspx "CollectionBook Code Sample")
-that demonstrates this technique. I am including a C\# project library
+that demonstrates this technique. I am including a C# project library
 that contains these classes and one unit test. To get the unit test to
 work, simply reference your unit testing assembly of choice and
 uncomment a few lines.

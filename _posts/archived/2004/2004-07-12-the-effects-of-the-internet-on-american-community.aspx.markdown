@@ -1,7 +1,7 @@
 ---
 title: The Effects Of The Internet On American Community
 date: 2004-07-12 -0800
-tags: []
+tags: [community,web]
 redirect_from: "/archive/2004/07/11/the-effects-of-the-internet-on-american-community.aspx/"
 ---
 
@@ -19,8 +19,8 @@ This stolen from Koba-san
 > > event, it is much too early to assess the long-run social effects of
 > > the Internet empirically… neither the apocalyptic “gloom and doom”
 > > prognosticators nor utopian “brave new virtual community” advocates
-> > are probably on target. \
-> >  \
+> > are probably on target. 
+> >  
 > > -- Robert D. Putnam, *Bowling Alone: The Collapse and Revival of
 > > American Community*, p. 171
 >
@@ -35,8 +35,8 @@ This stolen from Koba-san
 > > democratic institutions, heralding a new and vital arena of public
 > > discourse.  But to date most online groups have the structure of
 > > either an anarchy [if unmoderated] or a dictatorship [if
-> > moderated].” \
-> >  \
+> > moderated].” 
+> >  
 > > -- Ibid., p. 173
 >
 > > In a particularly striking parallel to the use of the telephone, a
@@ -50,8 +50,8 @@ This stolen from Koba-san
 > > > more often.  Frequent contact on the Internet is a complement to
 > > > frequent face-to-face contact, not a substitute for it.
 > >
-> > \
-> >  \
+> > 
+> >  
 > > -- Ibid., p. 179
 >
 > ![](http://koba.europe.webmatrixhosting.net/aggbug/363.aspx)

@@ -69,13 +69,13 @@ the take.
   end
 ```
 
-I thought it would be interesting to translate the *after* code to C\#.
+I thought it would be interesting to translate the *after* code to C#.
 One thing to note about the Ruby code is that it always allocates a new
 array whether it’s needed or not.
 
 Now, I haven’t done any benchmarks on it so I have no idea if that’s bad
 or not compared to how often the code is called etc. But it occurred to
-me that we could use lazy evaluation in C\# and completely circumvent
+me that we could use lazy evaluation in C# and completely circumvent
 the need to allocate a new array while still being expressive and
 elegant.
 

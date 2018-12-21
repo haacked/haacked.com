@@ -11,7 +11,7 @@ a Web User Control (\*.ascx file) to a class library.
 
 The fix is similar to what you had to do with Visual Studio.NET 2003.
 
-For C\#, follow these steps.
+For C#, follow these steps.
 
 1.  Close VS.NET 2005.
 2.  Open the directory **C:\\Program Files\\Microsoft Visual Studio
@@ -20,12 +20,12 @@ For C\#, follow these steps.
 3.  Open the **CSharpItems.vsdir** file in Notepad. Select the text and
     copy it to the clipboard.
 4.  Now open up the file **C:\\Program Files\\Microsoft Visual Studio
-    8\\VC\#\\CSharpProjectItems\\CSharpItems.vsdir** and paste the
+    8\\VC#\\CSharpProjectItems\\CSharpItems.vsdir** and paste the
     contents of the clipboard underneath the existing text.
 5.  Now copy the contents of **C:\\Program Files\\Microsoft Visual
     Studio 8\\Web\\WebNewFileItems\\CSharp** (excluding
     CSharpItems.vsdir) into the folder **C:\\Program Files\\Microsoft
-    Visual Studio 8\\VC\#\\CSharpProjectItems**.
+    Visual Studio 8\\VC#\\CSharpProjectItems**.
 
 Now “Web User Control” should be an option when you select *Add | New
 Item*.

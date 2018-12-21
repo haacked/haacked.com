@@ -1,7 +1,7 @@
 ---
 title: XEarth For Windows
 date: 2004-04-22 -0800
-tags: []
+tags: [tools]
 redirect_from: "/archive/2004/04/21/xearth-for-windows.aspx/"
 ---
 

@@ -20,7 +20,7 @@ sometimes gets twisted in a knot reading Ruby code written using
 [metaprogramming](http://en.wikipedia.org/wiki/Metaprogramming "Metaprogramming")
 techniques for hours at a time. It takes great concentration
 comprehending code on a meta and meta-meta level in which the code is
-manipulating and even rewriting code at runtime. Perhaps this is why C\#
+manipulating and even rewriting code at runtime. Perhaps this is why C#
 will remain my primary language in the near term while I try and expand
 my brain to work on a higher level. ;)
 

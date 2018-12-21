@@ -16,7 +16,7 @@ keyboard combination of ALT + SHIFT + F10 will expand the menu.
 
 What it doesn’t tell you is that there’s a two key combination that will
 also expand it. I learned this one from [Karen
-Liu](http://blogs.msdn.com/karenliu/ "Karen Liu's Blog") of the C\# IDE
+Liu](http://blogs.msdn.com/karenliu/ "Karen Liu's Blog") of the C# IDE
 team who also happens to have a blog post with [a nice collection of
 other tips and
 tricks](http://blogs.msdn.com/karenliu/archive/2007/06/21/tips-and-tricks-for-vs20005-and-vs2008.aspx "Tips and Tricks for VS2005")

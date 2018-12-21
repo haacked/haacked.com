@@ -126,7 +126,7 @@ your head at any one time.
 So where do Domain Specific Languages (DSL) fit in? The history of
 programming languages is the story of using abstractions to hide
 complexity. Assembly is a abstraction layer on top of the 0s and 1s that
-make up binary. C is an abstraction on top of Assembly. SmallTalk, C\#,
+make up binary. C is an abstraction on top of Assembly. SmallTalk, C#,
 and Java uses objects to abstract details of lower level languages...
 and so on.
 

@@ -1,7 +1,7 @@
 ---
 title: It's not a Disney world we live in.
 date: 2004-05-05 -0800
-tags: []
+tags: [politics]
 redirect_from: "/archive/2004/05/04/its-not-a-disney-world-we-live-in.aspx/"
 ---
 

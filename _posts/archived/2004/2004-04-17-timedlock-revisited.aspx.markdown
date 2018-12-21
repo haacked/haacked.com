@@ -1,8 +1,7 @@
 ---
 title: TimedLock revisited
 date: 2004-04-17 -0800
-tags:
-- code
+tags: [dotnet,code,concurrency]
 redirect_from: "/archive/2004/04/16/timedlock-revisited.aspx/"
 ---
 

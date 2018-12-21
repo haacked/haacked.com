@@ -1,7 +1,7 @@
 ---
 title: Cheney Drops The F-Bomb on the Senate Floor. Omarosa Is Proud.
 date: 2004-06-24 -0800
-tags: []
+tags: [politics]
 redirect_from: "/archive/2004/06/23/cheney-drops-the-f-bomb-on-the-senate-floor-omarosa-is-proud.aspx/"
 ---
 

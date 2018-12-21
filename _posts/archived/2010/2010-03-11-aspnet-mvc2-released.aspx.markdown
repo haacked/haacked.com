@@ -78,7 +78,7 @@ ready, preparing for Mix 10, closing down on ASP.NET 4 and Visual Studio
 MVC 3.
 
 It’s very early and nothing is written in stone yet (*of course not,
-it’d be written in C\#*), but you can [read our rough
+it’d be written in C#*), but you can [read our rough
 roadmap](http://aspnet.codeplex.com/wikipage?title=Road%20Map&referringTitle=MVC "ASP.NET MVC 3 Roadmap")
 that outlines some of the ideas we have for the next version.
 

@@ -42,7 +42,7 @@ sampling:
 
 -   Razor View Engine which [ScottGu wrote about
     recently](http://weblogs.asp.net/scottgu/archive/2010/07/02/introducing-razor.aspx "Razor View Engine").
-    Note that for Preview 1, we only support the C\# version (CSHTML).
+    Note that for Preview 1, we only support the C# version (CSHTML).
     IN later previews, we will add support for the VB.NET version
     (VBHTML). Also, Intellisense support for Razor syntax in Visual
     Studio 2010 will be released later.

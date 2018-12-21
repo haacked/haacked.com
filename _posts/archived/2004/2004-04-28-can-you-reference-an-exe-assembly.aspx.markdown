@@ -1,7 +1,7 @@
 ---
 title: 'Pop Quiz: Can you reference an exe assembly'
 date: 2004-04-28 -0800
-tags: []
+tags: [dotnet]
 redirect_from: "/archive/2004/04/27/can-you-reference-an-exe-assembly.aspx/"
 ---
 
@@ -11,7 +11,7 @@ assembly just fine.
 Can you reference an exe assembly? If you answer yes, you are correct.
 If you answer no, you may also be correct. It depends on which tool you
 are using. It turns out that VS.NET will not let you reference an exe
-assembly. However, you can reference an exe via the C\# compiler using
+assembly. However, you can reference an exe via the C# compiler using
 the /r switch.
 
 This is quite problematic for me as I᾿m a firm believer in the benefits
@@ -29,6 +29,6 @@ a third option which is to use Visual Notepad and the csc command line,
 but I᾿d lose a lot of productivity that way. Hopefully this is fixed in
 Whidbey.
 
-For more info on test-driven development in C\#, check out this [MSDN
+For more info on test-driven development in C#, check out this [MSDN
 article](http://msdn.microsoft.com/msdnmag/issues/04/04/ExtremeProgramming/ "MSDN Article").
 

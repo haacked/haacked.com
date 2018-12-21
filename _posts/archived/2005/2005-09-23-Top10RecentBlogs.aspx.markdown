@@ -58,7 +58,7 @@ Ok, that’s it. Here’s my list in no particular order...
 -   **[IanG on
     Tap](http://www.interact-sw.co.uk/iangblog/ "Ian's Blog")**\
      Nobody is always right, except maybe for Ian. For a real in-depth
-    insight into C\# or IO Completion ports, Ian is the go to guy. This
+    insight into C# or IO Completion ports, Ian is the go to guy. This
     guy knows too much, I fear someone will take him out it.
 
 

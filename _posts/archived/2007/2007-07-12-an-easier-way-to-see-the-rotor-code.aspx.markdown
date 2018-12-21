@@ -13,7 +13,7 @@ source code? What about the parts implemented in C++?
 
 A while back, Microsoft released the Shared Source Common Language
 Infrastructure (aka the SSCLI aka Rotor). This is a fully working
-implementation of the ECMA CLI standard and ECMA C\# language
+implementation of the ECMA CLI standard and ECMA C# language
 specification. So it's not quite the entire framework, but it is still
 quite a bit of code.
 

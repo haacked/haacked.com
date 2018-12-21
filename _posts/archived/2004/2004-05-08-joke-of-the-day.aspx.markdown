@@ -1,7 +1,7 @@
 ---
 title: Joke of the day
 date: 2004-05-08 -0800
-tags: []
+tags: [humor]
 redirect_from: "/archive/2004/05/07/joke-of-the-day.aspx/"
 ---
 

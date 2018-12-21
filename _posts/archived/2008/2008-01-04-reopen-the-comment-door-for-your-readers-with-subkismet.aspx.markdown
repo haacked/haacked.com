@@ -67,7 +67,7 @@ technologies, we’re planning to have the next release target .NET 3.5.
 
 Part of the reason for that is that over the holidays, I wrote a little
 something something just for fun as a way of getting up to speed with
-C\# 3.0. It was a lot of fun and I think my secret project will make a
+C# 3.0. It was a lot of fun and I think my secret project will make a
 nice addition to Subkismet. I’ll write about it when it is ready for
 action.
 

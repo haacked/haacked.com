@@ -92,7 +92,7 @@ need it, so no point in not leaving it there.
 ### Criticisms or If this is fast, how much faster is triple check locking?
 
 Jeffrey Richter in his book [CLR via
-C\#](http://www.amazon.com/gp/product/0735621632?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0735621632 "CLR via C# on Amazon.com")
+C#](http://www.amazon.com/gp/product/0735621632?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0735621632 "CLR via C# on Amazon.com")
 criticizes this approach (starting on page 639) as “not that
 interesting” (*Yes, he can be scathing!*)
 

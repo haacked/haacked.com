@@ -1,7 +1,7 @@
 ---
 title: Asp.NET forums provide RSS Feeds
 date: 2004-02-20 -0800
-tags: []
+tags: [aspnet,rss]
 redirect_from: "/archive/2004/02/19/asp.net-forums-provide-rss-feeds.aspx/"
 ---
 

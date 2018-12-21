@@ -1,7 +1,7 @@
 ---
 title: Embedding Unit tests
 date: 2004-04-07 -0800
-tags: []
+tags: [tdd]
 redirect_from: "/archive/2004/04/06/embedding-unit-tests.aspx/"
 ---
 

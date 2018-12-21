@@ -1,7 +1,7 @@
 ---
 title: What's the difference between a Debug vs Release Build?
 date: 2004-02-14 -0800
-tags: []
+tags: [dotnet,visualstudio]
 redirect_from: "/archive/2004/02/13/difference-between-debug-vs-release-build.aspx/"
 ---
 

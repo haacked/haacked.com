@@ -54,6 +54,6 @@ One nice thing about this implementation above and beyond my old
 IronRuby prototype is that it has true support for a `Global.py file`,
 the IronPython equivalent for `Global.asax.cs`. This allowed me to
 define my routes in IronPython directly in that file rather than reading
-in a separate file. I did implement some helper methods in C\# that make
+in a separate file. I did implement some helper methods in C# that make
 it easy to define routes using a Python dictionary.
 

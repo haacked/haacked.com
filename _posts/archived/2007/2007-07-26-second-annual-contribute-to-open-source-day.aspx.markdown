@@ -53,7 +53,7 @@ What a great opportunity to work on some really cool code.
 [Subtext](http://subtextproject.com/ "Subtext Project") is always
 looking for contributors, especially now that my commit frequency is
 down due to my wonderful newborn son. We could use new blood to help
-pick up the slack until my son cuts his teeth (once he has them) on C\#
+pick up the slack until my son cuts his teeth (once he has them) on C#
 and ASP.NET (or perhaps
 [IronRuby](http://www.iunknown.com/2007/04/introducing_iro.html "Introducing IronRuby")
 by then).

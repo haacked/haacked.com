@@ -131,14 +131,14 @@ they choose to. Before MonoGame, they might not have considered this
 option.
 
 Miguel suggested that the majority of applications in the Windows 8 app
-store are C\# applications. This only makes sense because the attempt to
-bring over web developers is a long lead strategy. Meanwhile, C\#
+store are C# applications. This only makes sense because the attempt to
+bring over web developers is a long lead strategy. Meanwhile, C#
 developers have been Microsoft’s bread and butter for a while now and
 are Microsoft’s to lose. They should not take them lightly and one would
 hope, if these numbers are true, that this has the attention of the
 Windows folks.
 
-It certainly makes me excited about the potential for C\# to become, as
+It certainly makes me excited about the potential for C# to become, as
 Miguel calls it, the lingua franca for cross device applications.
 
 So despite the pessimism, my discussions at MonkeySpace leave me

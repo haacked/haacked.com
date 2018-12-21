@@ -64,7 +64,7 @@ article](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnaspp
 There are two things that bother me about that method listing. First is
 the unnecessary double check locking, which Richter poo poos in his book
 *[CLR via
-C\#](http://www.microsoft.com/MSPress/books/6522.asp "CLR via C#")*. The
+C#](http://www.microsoft.com/MSPress/books/6522.asp "CLR via C#")*. The
 second is the fact that this method is begging for code re-use. I
 created a static helper class with the following method to encapsulate
 this logic (apologies for the weird formatting. I want it to fit

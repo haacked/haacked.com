@@ -1,7 +1,7 @@
 ---
 title: Allowing Friends To Correct Typos
 date: 2004-07-16 -0800
-tags: []
+tags: [blogging]
 redirect_from: "/archive/2004/07/15/allowing-friends-to-correct-typos.aspx/"
 ---
 

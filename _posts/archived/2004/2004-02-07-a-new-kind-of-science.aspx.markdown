@@ -1,7 +1,7 @@
 ---
 title: A New Kind Of Science
 date: 2004-02-07 -0800
-tags: []
+tags: [science]
 redirect_from: "/archive/2004/02/06/a-new-kind-of-science.aspx/"
 ---
 

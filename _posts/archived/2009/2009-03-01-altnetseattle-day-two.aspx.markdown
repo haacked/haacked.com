@@ -45,7 +45,7 @@ Icaza](http://tirania.org/blog/) and Joseph Hill. I’m quite certain that
 everyone was there because they wanted to pull in [\$10,000 a day
 writing the next Fart
 app](http://venturebeat.com/2008/12/23/iphone-fart-app-pulls-in-nearly-10000-a-day/)
-for the iPhone using C\#.
+for the iPhone using C#.
 
 [![TDD and Microsoft by Brad
 Wilson.](https://haacked.com/images/haacked_com/WindowsLiveWriter/ALT.NETSeattleDayTwo_68B5/TDD%20and%20Microsoft%20by%20Brad%20Wilson._3.jpg "TDD and Microsoft by Brad Wilson.")](http://www.flickr.com/photos/dotnetguy/3318867368/in/set-72157614537401180/ "TDD at Microsoft Session")

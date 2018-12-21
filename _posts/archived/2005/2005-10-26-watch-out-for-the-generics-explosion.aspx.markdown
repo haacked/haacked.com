@@ -11,9 +11,9 @@ released](http://blogs.msdn.com/somasegar/archive/2005/10/27/485665.aspx).
 Prepare for the generics explosion as legions of .NET developers
 retrofit code, happily slapping `<T>` wherever it fits.
 
-I predict the number of angle brackets in C\# will initially increase by
+I predict the number of angle brackets in C# will initially increase by
 250% only to settle over time to around 75% above current numbers. If
-you don’t count the angle brackets in C\# comments, could be even
+you don’t count the angle brackets in C# comments, could be even
 higher.
 
 But before you go too hog wild with generics, do consider that generics

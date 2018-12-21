@@ -18,7 +18,7 @@ library, but it suffers from one major problem.
 What happens when you include more than one script that does this? Only
 one of them will be attached to the `onload` event.
 
-It would be nice if there was a syntax like the C\# delegate syntax for
+It would be nice if there was a syntax like the C# delegate syntax for
 attaching an event handler. For example...
 
 ` window.onload += function() {}  //This doesn’t work`

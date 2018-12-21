@@ -57,7 +57,7 @@ each character I print out the `int` value and the actual character.
 Of course in some cases, I don’t print out the actual value. If I were
 to do that for new line characters and tab characters, it’d screw up the
 formatting. So instead, I special case those characters and print out
-the escape sequence in C\# for those characters.
+the escape sequence in C# for those characters.
 
 This makes it easy to compare two strings and see every difference when
 a test fails. Even the hidden ones.

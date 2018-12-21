@@ -26,7 +26,7 @@ Park](http://www.docuverse.com/blog/donpark/2007/01/19/identicon-explained "Don 
 
 Afterwards, Jeff and [Jon
 Galloway](http://weblogs.asp.net/jgalloway/ "Jon Galloway") became
-excited by the idea and ported Don’s code to C\# and .NET 2.0 and
+excited by the idea and ported Don’s code to C# and .NET 2.0 and
 released it on his website.
 
 This weekend, we’ve spent some time working out a few kinks and

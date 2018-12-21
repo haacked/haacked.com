@@ -35,7 +35,7 @@ only the most performance critical situations.”
 
 Taking that abstraction one step higher, you could also consider SQL
 itself to be a form of database intermediate language. A dynamic SQL
-engine generates SQL much like a compiler takes your C\# code and
+engine generates SQL much like a compiler takes your C# code and
 generates IL? When that query is executed as a prepared parameterized
 query, it is “jitted” by the database server into a high performance
 database operation.

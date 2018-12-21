@@ -17,7 +17,7 @@ me the embarrasment of an obscure bug which was sure to hit when I least
 expected it.  It is cases like this that made me into such a big fan of
 writing automated unit tests.
 
-Not too long ago I wrote a C\# [Akismet
+Not too long ago I wrote a C# [Akismet
 API](https://haacked.com/archive/2006/09/26/Subtext_Akismet_API.aspx "Subtext Akismet API")
 for Subtext. In writing the code, I followed design principles focused
 on making the API as testable as possible. For example, I applied

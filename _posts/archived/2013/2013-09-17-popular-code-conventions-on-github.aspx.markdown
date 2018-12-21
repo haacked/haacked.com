@@ -43,20 +43,20 @@ developers on GitHub.
 With that, I’m sure nobody ever will argue tabs over spaces again right?
 RIGHT?!
 
-What about C\#?!
+What about C#?!
 ----------------
 
-UPDATE: [JeongHyoon Byun](https://github.com/outsideris) added [C\#
+UPDATE: [JeongHyoon Byun](https://github.com/outsideris) added [C#
 support](http://sideeffect.kr/popularconvention/#c#)! Woohoo!
 
-~~Sadly, there is no support for C\# yet.~~ I logged [an issue in the
+~~Sadly, there is no support for C# yet.~~ I logged [an issue in the
 repository](https://github.com/outsideris/popularconvention/issues/14 "Add C#")
-about that a while back and was asked to provide examples of C\#
+about that a while back and was asked to provide examples of C#
 conventions.
 
 I finally [got around to it
 today](https://gist.github.com/Haacked/6601104 "C# Code Conventions"). I
-simply converted the Java examples to C\# and added one or two that I’ve
+simply converted the Java examples to C# and added one or two that I’ve
 debated with my co-workers.
 
 However, to get this done faster, perhaps one of you would be willing to

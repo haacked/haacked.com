@@ -1,7 +1,7 @@
 ---
 title: Writing Software Is Easy. Clients Make It Hard.
 date: 2004-08-03 -0800
-tags: []
+tags: [software]
 redirect_from: "/archive/2004/08/02/writing-software-is-easy-clients-make-it-hard.aspx/"
 ---
 
@@ -23,7 +23,7 @@ What do you do when the business owner has been involved in every step
 of the project, played with every prototype and interim release, but at
 the end says, well that’s not what I want.
 
-> For \~95% of business software, the actual code needed to implement
+> For ~95% of business software, the actual code needed to implement
 > them ends up being, if not trivial, then at least not technically
 > challenging.  Business software projects go over budget/schedule etc.
 > because the business rules aren’t known (to anyone) or because no one

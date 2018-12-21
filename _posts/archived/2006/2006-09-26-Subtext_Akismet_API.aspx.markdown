@@ -23,7 +23,7 @@ the [GPL](http://www.gnu.org/copyleft/gpl.html) which I won’t allow near
 see [my series on the
 topic](https://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx)).
 
-So I recently implemented an API for Akismet in C\# to share with the
+So I recently implemented an API for Akismet in C# to share with the
 [DasBlog](http://www.dasblog.net/) (*despite the bitter public
 mudslinging between blog engines, there is nothing but hugs behind the
 scenes.*) folks as part of the Subtext project, thus it is [BSD

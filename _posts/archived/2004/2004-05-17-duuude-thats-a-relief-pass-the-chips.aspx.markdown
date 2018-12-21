@@ -1,7 +1,7 @@
 ---
 title: Duuude. That's a relief. Pass the chips.
 date: 2004-05-17 -0800
-tags: []
+tags: [news]
 redirect_from: "/archive/2004/05/16/duuude-thats-a-relief-pass-the-chips.aspx/"
 ---
 

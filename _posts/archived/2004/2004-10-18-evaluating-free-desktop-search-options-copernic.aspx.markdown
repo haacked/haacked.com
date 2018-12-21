@@ -31,7 +31,7 @@ Yesterday, Last Week, Last Month, This Year, and so on...
 
 One shortcoming that both engines share is the inability to specify file
 types to search other than the preconfigured ones. For example, I would
-like to search my C\# files that have the .cs extension. No can do.
+like to search my C# files that have the .cs extension. No can do.
 
 So the search continues. I could shell out for [X1](http://www.x1.com/),
 but I'd like to find a free product I can use at both work and home. I

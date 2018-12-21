@@ -42,7 +42,7 @@ is high to discover the actual exploit by examining the binary. It buys
 consumers time to patch their installations before exploits start
 becoming rampant.
 
-With a language like C\#, Java, or Ruby, the bar to looking at the code
+With a language like C#, Java, or Ruby, the bar to looking at the code
 is extremely low. Such languages can raise the bar slightly by using
 obfuscators, but that is really not common for an Open Source project
 and creates very little delay for the determined attacker.

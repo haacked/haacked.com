@@ -1,7 +1,7 @@
 ---
 title: Now that's a 404 Message!
 date: 2004-06-24 -0800
-tags: []
+tags: [humor]
 redirect_from: "/archive/2004/06/23/now-thats-a-404-message.aspx/"
 ---
 

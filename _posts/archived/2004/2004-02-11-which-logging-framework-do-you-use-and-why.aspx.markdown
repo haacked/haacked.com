@@ -1,7 +1,7 @@
 ---
 title: Which Logging framework do you use and why?
 date: 2004-02-11 -0800
-tags: []
+tags: [code,logging]
 redirect_from: "/archive/2004/02/10/which-logging-framework-do-you-use-and-why.aspx/"
 ---
 

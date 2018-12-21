@@ -1,7 +1,7 @@
 ---
 title: Comment Graffitti in my Blog
 date: 2004-05-19 -0800
-tags: []
+tags: [spam,meta]
 redirect_from: "/archive/2004/05/18/comment-graffitti-in-my-blog.aspx/"
 ---
 

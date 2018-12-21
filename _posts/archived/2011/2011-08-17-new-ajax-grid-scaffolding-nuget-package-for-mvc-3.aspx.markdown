@@ -66,7 +66,7 @@ selection](https://haacked.com/images/haacked_com/WindowsLiveWriter/New-Ajax-Gri
 ![Template Selection - Ajax Grid
 Controller](https://haacked.com/images/haacked_com/WindowsLiveWriter/New-Ajax-Grid-Scaffolding-NuGet-Package-_126BB/clip_image002_3.png "Template Selection - Ajax Grid Controller")
 
-Currently, the Ajax Grid Scaffolder only generates C\# code, but both
+Currently, the Ajax Grid Scaffolder only generates C# code, but both
 Razor and ASPX views are supported. We’ll add VB.NET support later. If
 you selected “None” from the Views drop down in the Add Controller
 dialog, only the controller will be generated.

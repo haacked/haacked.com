@@ -1,10 +1,7 @@
 ---
 title: Uploading a File (Or Files) With ASP.NET MVC
 date: 2010-07-16 -0800
-tags:
-- aspnetmvc
-- aspnet
-- code
+tags: [aspnetmvc]
 redirect_from: "/archive/2010/07/15/uploading-files-with-aspnetmvc.aspx/"
 ---
 

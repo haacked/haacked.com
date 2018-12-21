@@ -87,12 +87,12 @@ They did several things right in their ad, as I recall.
 
 #### Challenge the reader and demand an answer!
 
-*Do you have two years experience in C\#?* is not a challenge to the
+*Do you have two years experience in C#?* is not a challenge to the
 reader. This is not a question that captures my attention nor draws me
 in demanding an answer.
 
-*Do you know C\# like Paris Hilton knows manafacturing fame?*Now that is
-a challenge to my intellect! *Hell yeah I know C\# like nobody’s
+*Do you know C# like Paris Hilton knows manafacturing fame?*Now that is
+a challenge to my intellect! *Hell yeah I know C# like nobody’s
 business.* That kind of question demands an answer.  And a good
 candidate is more likely to drive over to your headquarters and give it
 to you.

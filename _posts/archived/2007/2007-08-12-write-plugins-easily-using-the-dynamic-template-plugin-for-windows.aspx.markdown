@@ -12,7 +12,7 @@ his first publicly available Windows Live Writer plugin...
 
 > I’ve just released my first (publicly available) Windows Live Writer
 > plugin: **Dynamic Template**. It lets you write mini-plugins from
-> snippets of C\# and HTML, and reuse them within Windows Live Writer.
+> snippets of C# and HTML, and reuse them within Windows Live Writer.
 
 It’s sort of a meta-plugin plugin. He has a screencast on how to use it,
 but I’ll post a few screenshots of it in action here.

@@ -94,10 +94,10 @@ The key point here is that static typing doesn’t come without a cost.
 And that cost has to be weighed on a case by case basis against the
 benefits of dynamic languages.
 
-### C\# has used duck typing for a long time
+### C# has used duck typing for a long time
 
-Interestingly enough, certain features of C\# already use duck typing.
-For example, to allow an object to be enumerated via the C\# `foreach`
+Interestingly enough, certain features of C# already use duck typing.
+For example, to allow an object to be enumerated via the C# `foreach`
 operator, the object only needs to implement a set of methods as
 [Krzystof
 Cwalina](http://blogs.msdn.com/kcwalina/ "Designing Reusable Frameworks")
@@ -223,7 +223,7 @@ inherit from a sealed class, we can’t simply cast a compatible type to
 `HttpContext`. The above examples work because we’re duck type casting
 to an interface.
 
-With C\#, if you need a class you’re writing to act like both a `duck`
+With C#, if you need a class you’re writing to act like both a `duck`
 and a `rabbit`, it makes sense to implement those interfaces. But
 sometimes you need a class you didn’t write and cannot change (such as
 the Base Class Libraries) to act like a `duck`. In that case, this duck

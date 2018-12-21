@@ -39,7 +39,7 @@ That means that folder belongs to me. Not you.
 So I beg you, stop adding your folders in there. There is a proper
 location for *your* stuff, in the *Application Data* directory. Since
 you’re too lazy to understand how Windows works, I’ll write some
-sample code for you in C\# that demonstrates where to place your
+sample code for you in C# that demonstrates where to place your
 application’s files. I’m sure you can figure out the C++ equivalent.
 
 ```csharp

@@ -75,7 +75,7 @@ This *Web.config* is placed here because it is the default for all
 Views. I then made the following changes:
 
 1.  Set the `compilation` element’s `defaultLanguage` attribute to
-    “C\#”.
+    “C#”.
 2.  Set the `pages` element’s `masterPageFile` attribute to point to
     `~/Views/Shared/Site.master`.
 3.  Set the `pages` element’s `pageBaseType` attribute to

@@ -1,7 +1,7 @@
 ---
 title: The Odd LA Pickup Joint
 date: 2004-08-01 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2004/07/31/the-odd-la-pickup-joint.aspx/"
 ---
 

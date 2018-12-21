@@ -173,7 +173,7 @@ iOS](http://itunes.apple.com/us/app/kinectimals/id482365195?mt=8 "Kinectimals")
 systems such as the iPad. 2011 seems to be the year of pigs flying for
 Microsoft.
 
-Xamarin is doing a great job of bringing Mono, and consequently C\# and
+Xamarin is doing a great job of bringing Mono, and consequently C# and
 open source to just about every device imaginable!
 
 Open Source Fest at ![Mix 11](https://haacked.com/images/haacked_com/WindowsLiveWriter/A-Look-Back-Open-Source-and-.NET-2011_CBF9/mix11-logo_3.jpg "Mix 11")

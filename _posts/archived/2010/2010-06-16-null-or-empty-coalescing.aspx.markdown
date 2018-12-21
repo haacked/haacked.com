@@ -52,7 +52,7 @@ like:
 Of course, that doesn’t go far enough because wouldn’t I also need a
 null or whitespace coalescing operator???? ;)
 
-Perhaps a better approach than the PERLification of C\# is to write an
+Perhaps a better approach than the PERLification of C# is to write an
 extension method that normalizes string in such a way you can use the
 tried and true (and existing!) null coalescing operator.
 

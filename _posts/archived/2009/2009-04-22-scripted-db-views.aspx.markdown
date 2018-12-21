@@ -62,14 +62,14 @@ showing the benefits of hosting the DLR for scripting scenarios like the
 ones mentioned above. It makes total sense to me when I look at it in
 this perspective. The way I see it, most developers spend a huge bulk of
 their time in a single core language, typically their “language of
-choice”. For me, I spend the bulk of my time writing C\# code.
+choice”. For me, I spend the bulk of my time writing C# code.
 
 However, I don’t think twice about the fact that I also write tons of
 JavaScript when I do web development, and I’ll write the occasional VB
 code when I need a new Macro for Visual Studio or Excel. I also write
 SQL when I need to. I’m happy to pick up and use a new language when it
 will enable me to do the job at hand more efficiently and naturally than
-C\# does. I imagine many developers feel this way. The occasional use of
+C# does. I imagine many developers feel this way. The occasional use of
 a scripting languages is fine when it gets the job done and I can still
 spend most of my time in my favorite language.
 
@@ -133,8 +133,8 @@ action, but now I can see the view I just created (click to enlarge).
 [![Fun with scripting
 view](https://haacked.com/images/haacked_com/WindowsLiveWriter/HostingASP.NETMVCViewsInTheDatabase_134EA/fun-with-scripting-view_thumb.png "Fun with scripting view")](https://haacked.com/images/haacked_com/WindowsLiveWriter/HostingASP.NETMVCViewsInTheDatabase_134EA/fun-with-scripting-view_2.png)
 
-In the future, I should be able to host C\# views in this way. Mono
-already has a tool for dynamically compiling C\# code passed in as a
+In the future, I should be able to host C# views in this way. Mono
+already has a tool for dynamically compiling C# code passed in as a
 string which I could try and incorporate.
 
 I’m seriously thinking of making this the approach for building skins in

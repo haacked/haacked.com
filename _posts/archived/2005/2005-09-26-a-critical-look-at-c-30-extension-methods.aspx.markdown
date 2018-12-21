@@ -6,7 +6,7 @@ redirect_from: "/archive/2005/09/25/a-critical-look-at-c-30-extension-methods.as
 ---
 
 [Ian Griffiths](http://www.interact-sw.co.uk/iangblog/) takes [an
-in-depth look at C\# 3.0 Extension
+in-depth look at C# 3.0 Extension
 methods](http://www.interact-sw.co.uk/iangblog/2005/09/26/extensionmethods)
 and the potential problems with it. Of particular note is his
 philosophy, which directly follows from the idea that code should be
@@ -29,6 +29,6 @@ I probably would prefer that it still be an instance method, but renamed
 `GetUpperCase`. I think that would do a good enough job of being honest
 and being discoverable.
 
-In any case, if you’re interested in C\# 3.0, be sure to read Ian’s take
+In any case, if you’re interested in C# 3.0, be sure to read Ian’s take
 on extension methods.
 

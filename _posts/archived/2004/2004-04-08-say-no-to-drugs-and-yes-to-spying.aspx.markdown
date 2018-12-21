@@ -1,7 +1,7 @@
 ---
 title: Say No To Drugs and Yes! to Spying.
 date: 2004-04-08 -0800
-tags: []
+tags: [drugs,news]
 redirect_from: "/archive/2004/04/07/say-no-to-drugs-and-yes-to-spying.aspx/"
 ---
 

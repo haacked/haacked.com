@@ -128,7 +128,7 @@ public static void AssertRoute(RouteCollection routes, string url,
 ```
 
 This code makes use of the `GetProperties` method I lifted from Eilon’s
-blog post, [Using C\# 3.0 Anonymous types as
+blog post, [Using C# 3.0 Anonymous types as
 Dictionaries](http://weblogs.asp.net/leftslipper/archive/2007/09/24/using-c-3-0-anonymous-types-as-dictionaries.aspx "Using Anonymous Types as Dictionaries").
 
 The *expectations* passed to this method are the name/value pairs you

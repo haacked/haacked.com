@@ -28,7 +28,7 @@ favorite audio program. I installed the iTunes plugin.
 
 The second component is a player that delivers a customized radio
 station with selections based on your tastes. I haven’t used this but
-Jon Galloway [writes about a C\#
+Jon Galloway [writes about a C#
 player](http://weblogs.asp.net/jgalloway/archive/2006/02/19/438544.aspx "Last.FM Player")
 that is a worthwhile replacement for the lame player offered by Last.FM.
 Jon recently open sourced the codebase started by another developer,

@@ -23,11 +23,11 @@ lost soul, with the promises of eternal code salvation in the form of
 meaning to check it out, but you know how that goes.
 
 What I’ve slowly come to realize though is that the more I use and
-understand the Linq extensions in C\#, the more functional my
+understand the Linq extensions in C#, the more functional my
 programming has become in certain cases.
 
 **[![450px-Native\_American\_tobacco\_flower](https://haacked.com/images/haacked_com/WindowsLiveWriter/LinqIsNotJustForSQL_E18F/450px-Native_American_tobacco_flower_thumb_1.jpg "450px-Native_American_tobacco_flower")](https://haacked.com/images/haacked_com/WindowsLiveWriter/LinqIsNotJustForSQL_E18F/450px-Native_American_tobacco_flower_4.jpg "Tobacco Flower: Photographer: William Rafti of the William Rafti Institute")It
-turns out that C\# is the ultimate gateway drug for functional
+turns out that C# is the ultimate gateway drug for functional
 programming^1^.** It has just enough functional elements to give you a
 taste for functional, but with enough friction at times (for example,
 the type inference is not as good as F\#) that it may slowly push me
@@ -144,7 +144,7 @@ It reads how I think about the problem.
 2.  Grab the first slug where there is no matching entry in the database
 
 What would be really cool is if I could somehow switch to F\# inline
-with a C\# file. Kind of crazy, but it would be the thing that would
+with a C# file. Kind of crazy, but it would be the thing that would
 probably get me to actually use it in a project.
 
 For those of you who have been doing functional programming for a long

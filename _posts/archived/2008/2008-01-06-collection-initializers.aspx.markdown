@@ -30,7 +30,7 @@ initializers](http://blogs.msdn.com/madst/archive/2006/10/10/What-is-a-collectio
 Naturally someone will mention that the Ruby syntax is even cleaner (I
 know, because I was about to say that).
 
-However, suppose C\# introduced such syntax:
+However, suppose C# introduced such syntax:
 
 ```csharp
 var foo = {"key1" => "value1", 2 => 3};

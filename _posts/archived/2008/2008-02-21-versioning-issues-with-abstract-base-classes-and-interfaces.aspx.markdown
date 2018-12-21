@@ -178,7 +178,7 @@ only have one method), why aren’t we using delegates more instead of
 interfaces? That would provide for even looser coupling than interfaces.
 
 The proposed dynamic keyword and duck-typing features in future versions
-of C\# might provide more resilience. As with dynamically typed
+of C# might provide more resilience. As with dynamically typed
 languages such as Ruby, the trade-off in these cases is that you forego
 compile time checking for run-time checking. Personally, I think the
 evidence is mounting that this may be a worthwhile tradeoff in many

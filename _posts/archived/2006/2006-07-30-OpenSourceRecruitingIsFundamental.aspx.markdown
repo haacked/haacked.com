@@ -20,7 +20,7 @@ about SandCastle and the death of NDoc.
 > [your favorite project]"?
 >
 > I think these projects must advertise what they need. Do they need C++
-> expertise? Java? C\#? UI design? How do we know what to do? Where are
+> expertise? Java? C#? UI design? How do we know what to do? Where are
 > the tasks listed? How do we assign to them?
 
 Open Source project that are lacking in developer support probably need

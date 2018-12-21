@@ -93,5 +93,5 @@ essential, but at a deep enough level to really get something out of it.
 
 His 2.0 book is actually a continuation on his 1.0 book, [Essential
 ASP.NET With Examples in
-C\#](http://www.amazon.com/gp/product/0201760401?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201760401 "ASP.NET 1.0 book").
+C#](http://www.amazon.com/gp/product/0201760401?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201760401 "ASP.NET 1.0 book").
 

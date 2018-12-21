@@ -20,7 +20,7 @@ the API.
 Since testability is a key goal of this framework, I’ve been trying to
 apply a Test Driven Development (TDD) approach as I build out the sample
 applications. This has led to some fun discoveries in terms of using new
-language features of C\# to improve my tests.
+language features of C# to improve my tests.
 
 For example, the MVC framework will include interfaces for the ASP.NET
 intrinsics. So to mock up the HTTP context using Rhino Mocks, you might
@@ -46,7 +46,7 @@ mocks.ReplayAll();
 
 Kind of a mouthful, no?
 
-Then it occurred to me. I should use C\# 3.0 Extension Methods to create
+Then it occurred to me. I should use C# 3.0 Extension Methods to create
 a mini DSL (to abuse the term) for building HTTP mock objects. First, I
 wrote a simple proof of concept class with extension methods.
 

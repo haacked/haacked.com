@@ -187,7 +187,7 @@ public static class TempDataExtensions
 These methods rely on some object extension methods I wrote based on the
 work that [Eilon
 Lipton](http://weblogs.asp.net/leftslipper/ "Eilon Lipton Lead Dev for ASP.NET MVC")
-did with using [C\# 3.0 Anonymous Types as
+did with using [C# 3.0 Anonymous Types as
 Dictionaries](http://weblogs.asp.net/leftslipper/archive/2007/09/24/using-c-3-0-anonymous-types-as-dictionaries.aspx "Anonymous Types To Dictionaries").
 
 ```csharp

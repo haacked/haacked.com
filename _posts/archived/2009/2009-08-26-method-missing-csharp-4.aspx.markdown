@@ -13,7 +13,7 @@ here. Meet the latest class with a superhero sounding name,
 [`ExpandoObject`](http://blogs.msdn.com/csharpfaq/archive/2009/10/01/dynamic-in-c-4-0-introducing-the-expandoobject.aspx "Expando Object")
 
 ***Warning**: What I’m about to show you is quite possibly an abuse of
-the C\# language. Then again, maybe it’s not. ;) You’ve been warned.*
+the C# language. Then again, maybe it’s not. ;) You’ve been warned.*
 
 Ruby has a neat feature that allows you to hook into method calls for
 which the method is not defined. In such cases, Ruby will call a method
@@ -28,7 +28,7 @@ from the peaceful waters of those who prefer statically typed languages.
 
 Until now suckas! (*cue heart pounding rock music with a fast beat*)
 
-C\# 4 introduces the new `dynamic` keyword which adds dynamic
+C# 4 introduces the new `dynamic` keyword which adds dynamic
 capabilities to the once staid and statically typed language. Don’t be
 afraid, nobody is going to force you to use this (except maybe me). In
 fact, I believe the original purpose of this feature is to make COM
@@ -86,7 +86,7 @@ really simple.
 One thing to note, in Ruby, there really aren’t properties and methods.
 Everything is a method, hence you only have to worry about
 `method_missing`. There’s no `field_missing` method, for example. With
-C\# there is a difference, which is why there’s another method you can
+C# there is a difference, which is why there’s another method you can
 override, `TryInvokeMember`, to handle dynamic method calls.
 
 ### What havoc can we wreack with MVC?
@@ -221,7 +221,7 @@ on [putting your views on a
 diet](https://haacked.com/archive/2009/08/04/views-on-a-diet.aspx "Put your pages and views on a diet")).
 
 I hope you found this to be a fun romp through a new language feature of
-C\#. I imagine many will find this to be an abuse of the language
+C#. I imagine many will find this to be an abuse of the language
 (language abuser!) while others might see other potential uses in this
 technique. Happy coding!
 

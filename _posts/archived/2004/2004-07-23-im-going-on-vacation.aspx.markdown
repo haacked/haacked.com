@@ -1,7 +1,7 @@
 ---
 title: I'm Going On Vacation!
 date: 2004-07-23 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2004/07/22/im-going-on-vacation.aspx/"
 ---
 

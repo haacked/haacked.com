@@ -1,7 +1,7 @@
 ---
 title: Absolutely Nothing. Say It Again! (Configuration Section Handlers)
 date: 2004-06-27 -0800
-tags: []
+tags: [dotnet]
 redirect_from: "/archive/2004/06/26/absolutely-nothing-say-it-again-configuration-section-handlers.aspx/"
 ---
 
@@ -12,7 +12,7 @@ one of the primary reasons is how they require extra "cruft" in order to
 tell .NET about the handler. I have to agree for the most part. I've
 always wanted a \#region tag for the App.config file just to hide that
 junk away, but that's pretty much a cop out.
-[Cyrus](http://blogs.msdn.com/cyrusn/) points out how the C\# team [was
+[Cyrus](http://blogs.msdn.com/cyrusn/) points out how the C# team [was
 ambivalent](http://blogs.msdn.com/cyrusn/archive/2004/06/23/163390.aspx)
 about even having a region tag in the IDE.
 

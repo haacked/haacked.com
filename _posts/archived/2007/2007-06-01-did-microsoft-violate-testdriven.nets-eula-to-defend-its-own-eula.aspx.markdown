@@ -1,11 +1,13 @@
 ---
 title: Did Microsoft Violate TestDriven.NET's EULA in Enforcing Its Own EULA?
 date: 2007-06-01 -0800
-tags: []
+disqus_identifier: 18335
+tags: [legal,microsoft,community]
 redirect_from: "/archive/2007/05/31/did-microsoft-violate-testdriven.nets-eula-to-defend-its-own-eula.aspx/"
 ---
 
-![r\_takeoff](https://haacked.com/images/haacked_com/WindowsLiveWriter/ATechnicalEvaluationofMicrosoftsCase.NET_13543/r_takeoff_1.gif)
+![takeoff](https://haacked.com/images/haacked_com/WindowsLiveWriter/ATechnicalEvaluationofMicrosoftsCase.NET_13543/r_takeoff_1.gif)
+
 Jamie Cansdale recently wrote about [some legal
 troubles](http://weblogs.asp.net/nunitaddin/archive/2007/05/30/microsoft-vs-testdriven-net-express.aspx "Microsoft vs TestDrivien.NET Express")
 he has with Microsoft. We were in the middle of an email correspondence
@@ -117,14 +119,14 @@ Second, take a look at this snippet from [TestDriven.NET’s
 EULA](http://testdriven.net/downloads/TestDriven.Professional%20EULA.pdf "TestDriven.NET Pro EULA")...
 
 > Except as expressly permitted in this Agreement, Licensee shall not,
-> and shall not permit \
+> and shall not permit 
 > others to: ...
 >
 > ​(ii) reverse engineer, decompile, disassemble or otherwise reduce the
 > Software to source code form;
 >
-> ...\
-> (v) use the Software in any manner not expressly \
+> ...
+> (v) use the Software in any manner not expressly 
 > authorised by this Agreement.
 
 It seems that by Microsoft’s own logic of what counts as a license

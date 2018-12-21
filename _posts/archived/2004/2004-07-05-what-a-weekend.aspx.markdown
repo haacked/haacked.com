@@ -1,7 +1,7 @@
 ---
 title: What a weekend!
 date: 2004-07-05 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2004/07/04/what-a-weekend.aspx/"
 ---
 

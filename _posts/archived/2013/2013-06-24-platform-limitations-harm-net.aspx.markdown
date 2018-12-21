@@ -92,18 +92,18 @@ for their companies that work on all devices.
 
 While developing Windows 8, Microsoft put a ton of energy and focus into
 a new HTML and JavaScript based development model for Windows 8
-applications, at the cost of focus on .NET and C\# in that time period.
+applications, at the cost of focus on .NET and C# in that time period.
 
 The end result? From several sources I’ve heard that something like 85%
-of apps in the Windows app store are C\# apps.
+of apps in the Windows app store are C# apps.
 
 Now, I don’t think we’re going to see a bunch of iOS developers suddenly
-pick up C\# in droves and start porting their apps to work on Windows.
+pick up C# in droves and start porting their apps to work on Windows.
 But there is the *next generation* to think of. If Windows 8 devices can
 get enough share to make it worthwhile, it may be easier to convince
-this next generation of developers to consider C\# for their iOS
+this next generation of developers to consider C# for their iOS
 development and port to Windows cheaply. Already, with Xamarin tools,
-using C\# to target iOS is a worlds better environment than Objective-C.
+using C# to target iOS is a worlds better environment than Objective-C.
 I believe iOS developers today tolerate Objective-C because it’s been so
 successful for them and it was the only game in town. As Xamarin tools
 get more notice, I don’t think the next generation will tolerate the

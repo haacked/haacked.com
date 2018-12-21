@@ -187,7 +187,7 @@ Windows Registry Editor Version 5.00
 The important thing to note are the options in the second registry
 section:
 
--   **Path** – Relative path from the *ProjectTemplates* folder. For C\#
+-   **Path** – Relative path from the *ProjectTemplates* folder. For C#
     projects, enter “CSharp\\\\Web”. For VB.NET use “VisualBasic\\\\Web”
 -   **SupportsHTML5 –**Whether or not the project template supports
     HTML5. If set to 1, then the HTML 5 checkbox is enabled. That

@@ -45,7 +45,7 @@ question](http://stackoverflow.com/questions/159017/named-string-formatting-in-c
 -   [A Smarter (or Pure Evil) ToString with Extension
     Methods](http://www.hanselman.com/blog/CommentView.aspx?guid=fde45b51-9d12-46fd-b877-da6172fe1791 "ToString with named formats")
     by Scott Hanselman.
--   [C\#: String.Inject() – Format strings by key
+-   [C#: String.Inject() – Format strings by key
     tokens](http://mo.notono.us/2008/07/c-stringinject-format-strings-by-key.html "String.Inject")
     from Oskar.
 -   [FormatWith 2.0 – String Formatting with named

@@ -103,7 +103,7 @@ so the ramp up time for a new system seems daunting.
 On one hand, there is nothing wrong with that. If it is really working
 for you, why change? On othe other hand, VB6 worked for a lot of
 developers, but there is only so long you can ignore the advantages to
-moving to VB.NET or C\#.
+moving to VB.NET or C#.
 
 ### Development Idioms
 

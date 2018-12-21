@@ -38,7 +38,7 @@ Even so, you left yourself open for someone else to override your blog.
 my head.}](http://jaysonknight.com/blog/default.aspx)**\
  Another virtual blog, but at least this one is protected.
 Unfortunately, it doesn’t compiled (yes, I tried). And here I thought
-you were spreading better practices for C\# coding.
+you were spreading better practices for C# coding.
 
 **Title: `` `(joe (@ (version "2.0")) ,(mk-blog)) ``**\
  **Subtitle:

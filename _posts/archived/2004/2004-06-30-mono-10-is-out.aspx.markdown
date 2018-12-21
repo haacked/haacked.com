@@ -1,7 +1,7 @@
 ---
 title: Mono 1.0 is out
 date: 2004-06-30 -0800
-tags: []
+tags: [mono,dotnet]
 redirect_from: "/archive/2004/06/29/mono-10-is-out.aspx/"
 ---
 
@@ -15,6 +15,5 @@ join the 1337. ;). Miguel notes:
 > under the weight and has remained in that state despite repeated
 > attempts to get some data out of it.
 
-*[Via [Miguel de
-Icaza](http://primates.ximian.com/~miguel/all.html#6%2f30%2f2004%201%3a55%3a00%20PM)]*
+*[Via [Miguel de Icaza](http://primates.ximian.com/~miguel/all.html#6%2f30%2f2004%201%3a55%3a00%20PM)]*
 

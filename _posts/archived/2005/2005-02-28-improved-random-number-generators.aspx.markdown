@@ -12,9 +12,9 @@ Brundage's website. My undergrad thesis was on the topic of pseudorandom
 number generation so I thought I'd take the two classes he provided for
 a quick spin.
 
-Unfortunately, the C\# samples did not compile as is. In his post he
+Unfortunately, the C# samples did not compile as is. In his post he
 discusses how the C++ samples are optimized. I figured I might be able
-to use them to guide changes to the C\# port and could post the results
+to use them to guide changes to the C# port and could post the results
 here. Please note that I have not tested them yet and need to verify
 that my changes were correct. Enjoy and let me know if I got anything
 wrong.

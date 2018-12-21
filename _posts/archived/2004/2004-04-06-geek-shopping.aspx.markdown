@@ -1,7 +1,7 @@
 ---
 title: Geek Shopping
 date: 2004-04-06 -0800
-tags: []
+tags: [tech]
 redirect_from: "/archive/2004/04/05/geek-shopping.aspx/"
 ---
 
@@ -15,7 +15,7 @@ of inertia, I never thought to try Froogle.
 
 Searching Froogle, I found a Dell Ultrasharp 17" ([highest rated by
 PCWorld](http://www.pcworld.com/reviews/article/0,aid,114600,00.asp))
-for \$399.00 with free shipping. At that price, I think I'll get two. I
+for $399.00 with free shipping. At that price, I think I'll get two. I
 was intending to get a 19", but since 17" give you the same resolution
 as a 19" and are much cheaper, I think two 17" beat one 19" in terms of
 value and productivity.

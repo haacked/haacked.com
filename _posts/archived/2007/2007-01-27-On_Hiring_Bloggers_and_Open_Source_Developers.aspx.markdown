@@ -44,7 +44,7 @@ recently hired [Steve
 Harman](http://stevenharman.net/ "Steve Harman’s Blog"). Steve was a
 Java developer at a large financial institution when he started
 contributing to [Subtext](http://subtextproject.com/ "Subtext") so that
-he could cut his teeth with C\# and .NET.
+he could cut his teeth with C# and .NET.
 
 Over time, he really took on a lot of responsibility and impressed me
 with both his good judgment, and his work ethic. By actually working

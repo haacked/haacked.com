@@ -62,7 +62,7 @@ WinXP was well worth an attempt.
 So after installing the Web Application Project templates and add-in, I
 created a new web application project in VS.NET. To give myself a bit of
 a challenge (and since I may decide to add a custom page for some reason
-later), I chose to create a C\# project as shown in the screenshot.
+later), I chose to create a C# project as shown in the screenshot.
 
 ![New Web Application Project
 Dialog](https://haacked.com/images/NewWebApplicationProject.gif)
@@ -91,7 +91,7 @@ issue to deal with is the code behind for Global.asax. Even with an
 installation distribution of DNN 4, this is included because under the
 Web Site project model, it gets compiled at runtime (unless
 pre-deploying). Personally I think this code could be put in an
-HttpModule. In any case, I translated the file into C\#. This was
+HttpModule. In any case, I translated the file into C#. This was
 actually a bit trickier than I expected because of the use of Global
 variables.
 

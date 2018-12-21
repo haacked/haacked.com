@@ -1,7 +1,7 @@
 ---
 title: Weekend Update - Go Lakers!
 date: 2004-04-26 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2004/04/25/weekend-update--go-lakers.aspx/"
 ---
 

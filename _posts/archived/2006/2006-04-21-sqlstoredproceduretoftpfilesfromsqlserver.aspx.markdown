@@ -24,7 +24,7 @@ to suit my own naming conventions.
 It takes in the following parameters.
 
 Parameter    | Data Type     | Description                    | Example
---------------|---------------|--------------------------------|--------
+-------------|---------------|--------------------------------|--------
 @FTPServer   | varchar(128)  | The host name.                 | *ftp.example.com*
 @FTPUser     | nvarchar(128) | The username for the FTP site. | *Haacked*
 @FTPPWD      | nvarchar(128) | The password for the FTP site. | *Ha!_AsIfIWouldTellYou!*

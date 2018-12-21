@@ -66,7 +66,7 @@ interact with the other members, since it was a community music site.
 
 What is this? Some sort of interview? The programming languages I’ve
 used professionally are: BASIC, Visual Basic, VBScript, Java, J++, Ruby,
-C\#.
+C#.
 
 ### What Was Your First Programming Gig?
 

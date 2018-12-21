@@ -1,7 +1,7 @@
 ---
 title: Eagle Attacks, Carries Off Bear Cub
 date: 2004-04-29 -0800
-tags: []
+tags: [news]
 redirect_from: "/archive/2004/04/28/eagle-attacks-carries-off-bear-cub.aspx/"
 ---
 

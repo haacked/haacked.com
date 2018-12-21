@@ -55,7 +55,7 @@ skills, and general all around awesomeness.
     -   XML Web Services (SOAP, WSDL, WS-\*)
     -   Web application security
     -   XML, including XSD, XSLT, etc.
-    -   Must know Microsoft ASP.NET and C\# as if your life depended on
+    -   Must know Microsoft ASP.NET and C# as if your life depended on
         it. This job does.
     -   Object Oriented Design.
 

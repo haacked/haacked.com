@@ -78,7 +78,7 @@ that they both constitute subsets of Open Source software.
 The stack that I use with
 [Subtext](http://subtextproject.com/ "Subtext Project") might be
 called *WISC *which consists of *Windows*, *IIS*, *SQL Server*, and
-*C\#*. It sounds like a board game that Elmer Fudd might play on the
+*C#*. It sounds like a board game that Elmer Fudd might play on the
 weekends. Pretty much every layer of that stack is proprietary software.
 This is where the *vacation view* comes into play.
 
@@ -96,7 +96,7 @@ Windows, but it’s a balancing act. On the one hand, I like Open Source
 software. On the other hand, I like to feed my family by being
 productively employed and the Microsoft platform is great for being
 employed. Sure there are plenty of PHP and Ruby jobs, but I honestly
-really like writing C\# code and the tools available to do so.
+really like writing C# code and the tools available to do so.
 
 ### Only A Moron Thinks It’s An OxyMoron
 

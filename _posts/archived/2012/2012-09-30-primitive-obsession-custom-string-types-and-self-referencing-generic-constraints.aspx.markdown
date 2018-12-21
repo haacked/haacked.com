@@ -121,7 +121,7 @@ In the interest of full disclosure, many people have a strong feeling
 against implicit conversions. I asked [Jon
 Skeet](http://msmvps.com/blogs/jon_skeet/ "Jon Skeet's Blog"), Number
 one dude on [StackOverflow](http://stackoverflow.com/ "StackOverflow")
-and perhaps as well versed in C\# as just about anybody in the world, to
+and perhaps as well versed in C# as just about anybody in the world, to
 review a draft of this post as I didn’t want to propagate bad practices
 without due warning. Here’s what he said:
 
@@ -231,11 +231,11 @@ discourages](http://blogs.msdn.com/b/ericlippert/archive/2011/02/03/curiouser-an
 > pattern rather a lot(\*\*). However, I personally don't like it and I
 > discourage its use.
 >
-> This is a C\# variation on what's called the [Curiously Recurring
+> This is a C# variation on what's called the [Curiously Recurring
 > Template
 > Pattern](http://en.wikipedia.org/wiki/Curiously_recurring_template_pattern)
 > in C++, and I will leave it to my betters to explain its uses in that
-> language. Essentially the pattern in C\# is an attempt to *enforce*
+> language. Essentially the pattern in C# is an attempt to *enforce*
 > the usage of the CRTP.
 >
 > …snip…

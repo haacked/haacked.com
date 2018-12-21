@@ -19,11 +19,11 @@ Patching](http://en.wikipedia.org/wiki/Monkey_patch "Monkey Patching on wikipedi
 You can read the definition in the Wikipedia link I provided, but in
 short, it is a way to modify the behavior of a class or instance of a
 class at runtime without changing the source of that class or instance.
-Kind of like extension methods in C\#, but more powerful. Let me provide
+Kind of like extension methods in C#, but more powerful. Let me provide
 a demonstration.
 
-I want to pass a C\# object instance that happens to have an indexer to
-a Ruby script via IronRuby. In C\#, you can access an indexer property
+I want to pass a C# object instance that happens to have an indexer to
+a Ruby script via IronRuby. In C#, you can access an indexer property
 using square brackets like so:
 
 ```csharp
@@ -31,7 +31,7 @@ object value = indexer["key"];
 ```
 
 Being able to use braces to access this property is merely syntactic
-sugar by the C\# language. Under the hood, this gets compiled to IL as a
+sugar by the C# language. Under the hood, this gets compiled to IL as a
 method named `get_Item`.
 
 So when passing this object to IronRuby, I need to do the following:
@@ -85,7 +85,7 @@ What’s going on here is that we instantiate the IronRuby runtime and
 script engine and context (I still need to learn exactly what each of
 these things are responsible for apart from each other). I then set a
 global variable and set it to an instance of a CLR object written in
-C\#.
+C#.
 
 After that, I start constructing a string that contains the beginning of
 the Ruby script I want to execute. I will pre-append this beginning

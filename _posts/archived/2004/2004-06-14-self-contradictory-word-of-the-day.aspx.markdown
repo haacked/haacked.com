@@ -1,7 +1,7 @@
 ---
 title: Self-Contradictory Word Of The Day
 date: 2004-06-14 -0800
-tags: []
+tags: [interesting]
 redirect_from: "/archive/2004/06/13/self-contradictory-word-of-the-day.aspx/"
 ---
 

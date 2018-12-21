@@ -44,7 +44,7 @@ And just to toot Pat's horn a bit, I used to be his manager at
 career. Now he works at Univision and has inherited reams of code that
 parse through Fortran code as well as proprietary database files. He's
 also written his own grammar engine and xml syntax for describing
-computer languages such as C\#. So he knows a thing or two about parsing
+computer languages such as C#. So he knows a thing or two about parsing
 text. He's become quite a top notch developer. I'm just waiting for him
 to get off his arse and start a blog.
 

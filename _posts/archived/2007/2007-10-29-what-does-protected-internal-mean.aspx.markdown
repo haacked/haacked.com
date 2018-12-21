@@ -5,7 +5,7 @@ tags: [dotnet,code]
 redirect_from: "/archive/2007/10/28/what-does-protected-internal-mean.aspx/"
 ---
 
-Pop quiz for you C\# developers out there. Will the following code
+Pop quiz for you C# developers out there. Will the following code
 compile?
 
 ```csharp
@@ -62,18 +62,18 @@ in... 
 UPDATE: [Eilon](http://weblogs.asp.net/leftslipper/ "Eilon Lipton"),
 sent me an email to point out that...
 
-> BTW the CLR does have the notion of `ProtectedANDInternal`, but C\#
+> BTW the CLR does have the notion of `ProtectedANDInternal`, but C#
 > has no syntax to specify it. If you look at the CLR’s
 > `System.Reflection.MethodAttributes` enum you’ll see both
 > `FamANDAssem` as well as `FamORAssem` (“Family” is the CLR’s term for
-> C\#’s `protected` and “Assem” is C\#’s `internal`).
+> C#’s `protected` and “Assem” is C#’s `internal`).
 
 If you don’t know Eilon, he’s a freaking sharp developer I get to work
 with on the MVC project and was the one who kindly disabused me of my
 ignorance on this subject. He keeps a blog at
 [http://weblogs.asp.net/leftslipper/](http://weblogs.asp.net/leftslipper/ "Left Slipper").
 
-Apparently he’s the one with the clever idea of using a [C\# 3.0
+Apparently he’s the one with the clever idea of using a [C# 3.0
 anonymous
 type](http://weblogs.asp.net/leftslipper/archive/2007/09/24/using-c-3-0-anonymous-types-as-dictionaries.aspx "Using C# 3.0 Anonymous Types as Dictionaries")
 as a dictionary, that many of you saw in ScottGu’s ALT.NET Conference

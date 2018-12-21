@@ -30,7 +30,7 @@ First, we need a model.
 
 ![zoolander](https://haacked.com/images/haacked_com/WindowsLiveWriter/TabularDisplayTemplate_12625/zoolander_3.jpg "zoolander")
 
-No, not that kind of model. Something more along the lines of a C\#
+No, not that kind of model. Something more along the lines of a C#
 variety.
 
 ```csharp

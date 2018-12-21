@@ -1,7 +1,7 @@
 ---
 title: A San Francisco Weekend
 date: 2004-06-02 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2004/06/01/a-san-francisco-weekend.aspx/"
 ---
 

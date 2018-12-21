@@ -97,7 +97,7 @@ generated template class.
 
 The next section is simply the usual razor syntax markup you know and
 love which is written against the property I defined. In case you’re out
-of practices with Razor, be sure to check out the [C\# Razor Syntax
+of practices with Razor, be sure to check out the [C# Razor Syntax
 Quick
 Reference](https://haacked.com/archive/2011/01/06/razor-syntax-quick-reference.aspx "Razor Syntax")
 I wrote a while back.

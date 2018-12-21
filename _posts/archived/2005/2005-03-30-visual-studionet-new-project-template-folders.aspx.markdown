@@ -14,9 +14,9 @@ following dialog
  The beginnings of another bug ridden coding section...
 
 Now looking at that familiar dialog underneath the "Project Types:"
-section, you probably noticed the usual suspects are there: "Visual C\#
+section, you probably noticed the usual suspects are there: "Visual C#
 Projects", "Visual Basic Projects", etc... But did you also notice
-there's a few other folders there such as "Visual C\# Projects for
+there's a few other folders there such as "Visual C# Projects for
 DotNetNuke 3"?
 
 Now for the million dollar question: **How do you add your own folder

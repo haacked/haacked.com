@@ -1,7 +1,7 @@
 ---
 title: Enhancing Your .Text Blog - Allowing Readers to Rate Blog Entries
 date: 2004-04-24 -0800
-tags: []
+tags: [blogging]
 redirect_from: "/archive/2004/04/23/enhancing-your-text-blog--allowing-readers-to-rate-blog-entries.aspx/"
 ---
 

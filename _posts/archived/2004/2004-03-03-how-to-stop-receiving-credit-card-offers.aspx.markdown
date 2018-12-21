@@ -1,7 +1,7 @@
 ---
 title: How to Stop Receiving Credit Card Offers
 date: 2004-03-03 -0800
-tags: []
+tags: [tips]
 redirect_from: "/archive/2004/03/02/how-to-stop-receiving-credit-card-offers.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Blocking Outgoing Messages
 date: 2004-08-06 -0800
-tags: []
+tags: [tools]
 redirect_from: "/archive/2004/08/05/blocking-outgoing-messages.aspx/"
 ---
 

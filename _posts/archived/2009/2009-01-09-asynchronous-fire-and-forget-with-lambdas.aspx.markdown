@@ -55,7 +55,7 @@ pragmatic argument.
 > general case you can't.
 
 In other words, why take the chance? In any case, much of this
-discussion is made redundant with the C\# 3.0 `Action` class combined
+discussion is made redundant with the C# 3.0 `Action` class combined
 with `ThreadPool.QueueUserWorkItem `aka (QUWI)
 
 Here is the code in Subtext for sending email, more or less. I have to
@@ -89,7 +89,7 @@ public static void FireAndForget(Delegate d, params object[] args)
 
 Also notice that this implementation uses QUWI under the hood.
 
-With C\# 3.0, there is no need to abstract away the call to QUWI. Just
+With C# 3.0, there is no need to abstract away the call to QUWI. Just
 pass in a lambda, which provides the benefit that you’re calling the
 actual method directly so you get Intellisense for the argumennts etc…
 So all that code gets replaced with:

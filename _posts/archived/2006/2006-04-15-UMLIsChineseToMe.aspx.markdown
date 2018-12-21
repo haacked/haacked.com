@@ -27,7 +27,7 @@ public class Something : IObscurity<-- What the heck is that?
 }
 ```
 
-If you are a VB programmer, it might be unfamiliar. But if you are a C\#
+If you are a VB programmer, it might be unfamiliar. But if you are a C#
 programmer my question is like asking what is that funny curly line and
 dot at the end of this sentence? Oh that’s an interface implementation
 silly. Of course!

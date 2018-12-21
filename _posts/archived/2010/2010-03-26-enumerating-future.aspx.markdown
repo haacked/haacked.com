@@ -26,7 +26,7 @@ and you then proceed to grab a reference to each one in order and do
 something with that reference. What you do with it is your business. I’m
 not going to pry.
 
-It wasn’t till the yield operator was introduced into C\# that I
+It wasn’t till the yield operator was introduced into C# that I
 realized this was a very limited view of iteration. For example, using
 the yield operator makes it easy to enumerate over computed sets, as
 demonstrated by [iterating over the Fibonacci

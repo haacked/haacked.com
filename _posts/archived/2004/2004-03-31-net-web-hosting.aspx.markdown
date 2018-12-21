@@ -1,7 +1,7 @@
 ---
 title: ".NET Web Hosting"
 date: 2004-03-31 -0800
-tags: []
+tags: [web]
 redirect_from: "/archive/2004/03/30/net-web-hosting.aspx/"
 ---
 

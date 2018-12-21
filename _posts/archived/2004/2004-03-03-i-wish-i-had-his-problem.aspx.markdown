@@ -1,7 +1,7 @@
 ---
 title: I wish I had his problem
 date: 2004-03-03 -0800
-tags: []
+tags: [news,humor]
 redirect_from: "/archive/2004/03/02/i-wish-i-had-his-problem.aspx/"
 ---
 

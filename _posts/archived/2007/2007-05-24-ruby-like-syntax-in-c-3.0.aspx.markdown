@@ -31,7 +31,7 @@ One of the comparisons of the syntactic sugar Scott showed was this:
 
 That is indeed nice. But I was on the phone with Rob Conery talking
 about this when it occurred to me that we’ll be able to do this with
-[C\# 3.0
+[C# 3.0
 extension](http://weblogs.asp.net/scottgu/archive/2007/03/13/new-orcas-language-feature-extension-methods.aspx "New "Orcas" Language Feature: Extension Methods")
 methods. That link there is a blog post by [Scott
 Guthrie](http://weblogs.asp.net/scottgu/ "Scott Guthrie") talking about
@@ -82,7 +82,7 @@ language yet, but are being considered as a possibility in the future.
 
 So now add this to the comparison:
 
-**C\# 3.0**
+**C# 3.0**
 
 `20.Minutes().Ago();`
 

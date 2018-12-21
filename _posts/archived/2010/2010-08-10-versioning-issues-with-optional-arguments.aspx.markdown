@@ -6,7 +6,7 @@ tags:
 redirect_from: "/archive/2010/08/09/versioning-issues-with-optional-arguments.aspx/"
 ---
 
-One nice new feature introduced in C\# 4 is support for [named and
+One nice new feature introduced in C# 4 is support for [named and
 optional
 arguments](http://msdn.microsoft.com/en-us/library/dd264739.aspx "Named and Optional Arguments (MSDN)").
 While these two features are often discussed together, they really are
@@ -100,7 +100,7 @@ My co-worker Levi (no blog still) broke it down for me as follows. Keep
 in mind, he’s glossing over a lot of details, but at a high level, this
 is roughly what’s going on.
 
-When optional parameters are in use, the C\# compiler follows a simple
+When optional parameters are in use, the C# compiler follows a simple
 algorithm to determine which overload of a method you actually meant to
 call. It considers as a candidate \*every\* overload of the method, then
 one by one it eliminates overloads that can’t possibly work for the
@@ -160,7 +160,7 @@ ambiguous.
 
 ### Conclusion
 
-The reason that optional parameters were introduced to C\# 4 in the
+The reason that optional parameters were introduced to C# 4 in the
 first place was to support COM interop. That’s it. And now, we’re
 learning about the full implications of this fact.
 

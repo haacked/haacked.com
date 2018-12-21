@@ -1,7 +1,7 @@
 ---
 title: Woman sues over Janet Jackon's breast (Reuters)
 date: 2004-02-06 -0800
-tags: []
+tags: [news]
 redirect_from: "/archive/2004/02/05/woman-sues-over-janet-jackons-breast-reuters.aspx/"
 ---
 

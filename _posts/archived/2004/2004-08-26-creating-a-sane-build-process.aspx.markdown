@@ -16,7 +16,7 @@ Visual Basic 6.0 preprocessor that spits out Fortran 90 code, all the
 while correcting memory bound issues, mix it together by compiling it
 with a custom NAnt fortran compiler task, and voila!, 20 or so compiled
 Win32 fortran dlls. At this point, the process compiled and sprinkled in
-some C\# code.
+some C# code.
 
 I’m not sure that build process will ever run on another machine other
 than the one it runs on.

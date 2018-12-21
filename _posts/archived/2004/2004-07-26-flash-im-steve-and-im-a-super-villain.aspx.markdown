@@ -1,7 +1,7 @@
 ---
 title: 'FLASH: I''m Steve, And I''m A Super Villain'
 date: 2004-07-26 -0800
-tags: []
+tags: [humor]
 redirect_from: "/archive/2004/07/25/flash-im-steve-and-im-a-super-villain.aspx/"
 ---
 

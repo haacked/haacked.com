@@ -36,7 +36,7 @@ against calling virtual methods in the constructor. You also can’t
 initialize it in the `OnInit` method because the property might be set
 declaratively which happens before `Init`.
 
-With C\# 2.0 out, I figured I could use the null coalescing operator to
+With C# 2.0 out, I figured I could use the null coalescing operator to
 produce cleaner code. Here is what I naively tried.
 
 ```csharp

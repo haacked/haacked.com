@@ -1,7 +1,7 @@
 ---
 title: Styling Rss entries in an Aggregator
 date: 2004-02-29 -0800
-tags: []
+tags: [rss]
 redirect_from: "/archive/2004/02/28/styling-rss-entries-in-an-aggregator.aspx/"
 ---
 

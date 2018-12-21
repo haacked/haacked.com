@@ -23,14 +23,14 @@ these types of things change often and you want the flexibility to do so
 in a lightweight language.
 
 The same may be true in an enterprise application where you want to
-write the whole app in C\#, but perhaps allow configuring the rules
+write the whole app in C#, but perhaps allow configuring the rules
 engine using IronRuby.
 
 I showed up to the session late and asked if John and Jimmy were going
 to show a demo. Unfortunately, they didn’t have one prepared, so I gave
 everyone a sneak preview of a demo where I have an [ASP.NET
 MVC](http://asp.net/mvc "ASP.NET Website") app hosting IronRuby in a
-manner where I think some C\# developers will see the value. It was just
+manner where I think some C# developers will see the value. It was just
 a little something I’ve been hacking away at in my copious free time and
 hope to present at the MVP Summit and Mix. I won’t talk about it yet as
 I have a bit more work I want to do before I put it on my blog.

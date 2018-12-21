@@ -1,7 +1,7 @@
 ---
 title: When Soccer Players Attack ... me
 date: 2004-05-12 -0800
-tags: []
+tags: [soccer,personal]
 redirect_from: "/archive/2004/05/11/when-soccer-players-attack-me.aspx/"
 ---
 
@@ -21,17 +21,17 @@ the shouting match was in a normal bell-curve progression, he stepped
 toward me and shoved me hard. This shocked me. My thought process in
 that moment went something like this.
 
-That a-hole just pushed me!\
-Oh no he didn't!\
-No. Wait. He did.\
+That a-hole just pushed me!
+Oh no he didn't!
+No. Wait. He did.
 Now why would that moron do that? Doesn't he realize this is a shouting
-not a shoving match?\
-Damn, he's pissed. He needs an anger management class.\
-Come to think of it. I'm pissed too!\
-He's a good 4 to 5 inches taller than me.\
-I don't care, I should kick his ass.\
+not a shoving match?
+Damn, he's pissed. He needs an anger management class.
+Come to think of it. I'm pissed too!
+He's a good 4 to 5 inches taller than me.
+I don't care, I should kick his ass.
 Hmmm... Then again, if I retaliate, I may not be allowed to continue
-playing.\
+playing.
 Hmmm... I'd rather play soccer than whoop Bob's ass.
 
 I'm a slow thinker, and by the time I reached this conclusion, there
@@ -45,4 +45,3 @@ in a furor. I certainly could have let Bob wag his finger at me without
 responding in an angry manner. But lately, I've lost all patience for
 fools. I do not suffer fools lightly. I'm becoming Huey from the
 Boondocks.
-

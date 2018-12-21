@@ -1,8 +1,7 @@
 ---
 title: A Niggle or Two About Asynchronous Sockets And Thread Safety
 date: 2004-08-09 -0800
-tags:
-- code
+tags: [code,concurrency]
 redirect_from: "/archive/2004/08/08/niggle-about-asynchronous-sockets-and-thread-safety.aspx/"
 ---
 
@@ -21,24 +20,24 @@ digress...
 
 His comment is quite insightful and well worth repeating here in full.
 
-> One minor niggle with this code... \
->  \
+> One minor niggle with this code... 
+>  
 >  Although the example is correct as it stands, it doesn't mention an
 > important issue: the Socket class is not thread-safe. This means that
 > if you do use the async operations (and by the way, I'm completely
 > with you here - I'm a big fan of the async operations) you need to
-> take steps to synchronize access to the socket. \
->  \
+> take steps to synchronize access to the socket. 
+>  
 >  As it stands there's nothing wrong with this example as far as I can
 > see. But what if you also have an asynchronous read operation
 > outstanding? Can you guarantee that a read and a send won't complete
 > simultaneously, and that you'll be trying to access the socket from
-> both completion handlers simultaneously. \
->  \
+> both completion handlers simultaneously. 
+>  
 >  So in practice, you tend to want to use some kind of locking to
 > guarantee that your socket is only being used from one thread at a
-> time, once you start using async socket IO. \
->  \
+> time, once you start using async socket IO. 
+>  
 >  (Also, you left out one of the clever parts of IO completion ports -
 > the scheduler tracks which threads are associated with work from an IO
 > port, and tries to make sure that you have exactly as many running as

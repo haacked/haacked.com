@@ -1,7 +1,7 @@
 ---
 title: How to subscribe to my RssFeed
 date: 2004-02-08 -0800
-tags: []
+tags: [meta,rss]
 redirect_from: "/archive/2004/02/07/how-to-subscribe-to-my-rssfeed.aspx/"
 ---
 

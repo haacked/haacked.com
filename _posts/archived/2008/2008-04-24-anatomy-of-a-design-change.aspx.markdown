@@ -134,7 +134,7 @@ you to annotate every interface method.
 
 **Special Methods**
 
-Keep in mind that in C\# and VB.NET, property setters and getters are
+Keep in mind that in C# and VB.NET, property setters and getters are
 nothing more than syntactic sugar. When compiled to IL, they end up
 being methods named `get_PropertyName()` and `set_PropertyName()`. The
 constructor is implemented as a method named `.ctor()`. When you have an

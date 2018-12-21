@@ -1,7 +1,7 @@
 ---
 title: Should Language Changes Break Existing Code?
 date: 2004-06-03 -0800
-tags: []
+tags: [code,languages]
 redirect_from: "/archive/2004/06/02/should-language-changes-break-existing-code.aspx/"
 ---
 

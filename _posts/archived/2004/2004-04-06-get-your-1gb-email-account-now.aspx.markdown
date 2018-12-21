@@ -1,7 +1,7 @@
 ---
 title: Get your 1GB email account now!
 date: 2004-04-06 -0800
-tags: []
+tags: [tech]
 redirect_from: "/archive/2004/04/05/get-your-1gb-email-account-now.aspx/"
 ---
 

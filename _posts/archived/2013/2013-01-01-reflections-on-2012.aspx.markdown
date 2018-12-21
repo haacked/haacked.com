@@ -99,7 +99,7 @@ Formula](http://ayende.com/Blog/archive/2007/03/09/Calculating-most-popular-post
     comments 56900 web views, 26,044 aggregator views*)
 -   [Structuring Unit
     Tests](https://haacked.com/archive/2012/01/01/structuring-unit-tests.aspx "Structuring unit tests.")
-    covers a nice approach to structuring unit tests for C\# developers
+    covers a nice approach to structuring unit tests for C# developers
     that I learned from others. This post was written in January which
     might help explain why it’s in the top three (*52 comments, 41,852
     web views, 26,073 aggregator views*).
@@ -146,7 +146,7 @@ According to Google Analytics:
     and 2.24% on Linux. The mobile devices are a tiny percentage, but I
     would imagine that’ll pick up a lot next year.
 -   **What you read:** The blog post most visited in 2012 was written in
-    2011, [C\# Razor Syntax Quick
+    2011, [C# Razor Syntax Quick
     Reference](https://haacked.com/archive/2011/01/06/razor-syntax-quick-reference.aspx "Razor Syntax Quick Reference")
     with 119,962 page views.
 -   **How’d you get here:** Doesn’t take a genius to guess that most

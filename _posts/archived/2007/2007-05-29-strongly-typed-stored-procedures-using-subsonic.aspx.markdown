@@ -1,7 +1,7 @@
 ---
 title: Strongly Typed Stored Procedures Using Subsonic
 date: 2007-05-29 -0800
-tags: []
+tags: [sql,orm]
 redirect_from: "/archive/2007/05/28/strongly-typed-stored-procedures-using-subsonic.aspx/"
 ---
 
@@ -34,7 +34,7 @@ First, I made sure to put the latest and greates sonic.exe and
 SubSonic.dll in a known location. In Subtext, this is the dependencies
 folder, which on my machine is located:
 
-d:\\projects\\Subtext\\trunk\\SubtextSolution\\Dependencies\\
+`d:\projects\Subtext\trunk\SubtextSolution\Dependencies\`
 
 The next step is to create a new External Tool button by selecting
 *External Tools...*from the Tools Menu.
@@ -89,4 +89,3 @@ button](https://haacked.com/images/haacked_com/WindowsLiveWriter/VS.NETShortcutF
 So now when I make a change to a stored procedure, or add/delete a
 stored procedure, I can just click on that button to regenerate the code
 that calls my stored procedures.
-

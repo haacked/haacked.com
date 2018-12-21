@@ -1,7 +1,7 @@
 ---
 title: Tranforming Xml over Http to SOAP with a Soap Extension
 date: 2004-07-23 -0800
-tags: []
+tags: [soap]
 redirect_from: "/archive/2004/07/22/tranforming-xml-over-http-to-soap-with-a-soap-extension.aspx/"
 ---
 
@@ -19,6 +19,7 @@ requests to SOAP and translate the SOAP responses back to MyXML.
 My first attempt was to write a Soap Extension. I was planning to do
 something like this (some code ommitted):
 
+```csharp
     using System;
     using System.IO;
     using System.Web;
@@ -81,6 +82,7 @@ something like this (some code ommitted):
             return _tempStream;
         }
     }
+```
 
 And man, it was working like a charm in my unit tests. I was converting
 straight up garbage into SOAP. The beauty of this scheme was that SOAP
@@ -94,10 +96,12 @@ transformations between MyXML and SOAP) until I noticed that my unit
 test was cheating a bit. When making the HTTP request, the test did the
 following sneaky thing:
 
+```csharp
     HttpWebRequest request 
         = (HttpWebRequest)HttpWebRequest.Create("http://localhost/Svc.asmx");
     //...Code Omitted...
     request.Headers.Add("SOAPAction", "http://mynamespace/MethodName"); 
+```
 
 You see, a SOAP request is more than just the contents of the SOAP
 envelope (especially when using doc/literal/bare), there's also crucial

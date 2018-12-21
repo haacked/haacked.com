@@ -1,16 +1,15 @@
 ---
 title: The Only Universal Language In Software Is English
 date: 2007-05-28 -0800
-tags: []
+tags: [software,languages]
 redirect_from: "/archive/2007/05/27/the-only-universal-language-in-software-is-english.aspx/"
 ---
 
-In a [recent
-post](https://haacked.com/archive/2007/05/24/ruby-like-syntax-in-c-3.0.aspx "Ruby Like syntaxt in C# 3.0"),
+In a [recent post](https://haacked.com/archive/2007/05/24/ruby-like-syntax-in-c-3.0.aspx "Ruby Like syntaxt in C# 3.0"),
 I compared the expressiveness of the Ruby style of writing code to the
-current C\# style of writing code. I then went on and demonstrated one
+current C# style of writing code. I then went on and demonstrated one
 approach to achieving something close to Ruby’s expressiveness using
-Extension Methods in C\# 3.0.
+Extension Methods in C# 3.0.
 
 The discussion focused on how well each code sample expresses the intent
 of the author. Let’s look at the comparison:
@@ -19,16 +18,16 @@ of the author. Let’s look at the comparison:
 
 `20.minutes.ago`
 
-**C\#:**
+**C#:**
 
 `DateTime.Now.Subtract(TimeSpan.FromMinutes(20));`
 
-**C\# 3.0 using Extension Methods:**
+**C# 3.0 using Extension Methods:**
 
 `20.Minutes().Ago();`
 
-It seems obvious to me that the C\# 3.0 example is more expressive than
-the classic C\# approach, but not everyone agrees. Several people have
+It seems obvious to me that the C# 3.0 example is more expressive than
+the classic C# approach, but not everyone agrees. Several people have
 said something to the effect of:
 
 > Yeah, that’s great for those who speak English.
@@ -37,9 +36,9 @@ Another person mentioned that the Ruby style of code panders to English
 speakers? [Really?!
 Really?!](http://www.youtube.com/p.swf?video_id=RjtVnqZCndo&eurl=http%3A//www.google.com/search%3Fq%3Dsnl%2Breally%26ie%3Dutf-8%26oe%3Dutf-8%26aq%3Dt%26rls%3Dorg.mozilla%3Aen-US%3Aofficial%26cl&iurl=http%3A//img.youtube.com/vi/RjtVnqZCndo/2.jpg&t=OEgsToPDskINT6UiHBRUM4_6iGlfBNhC "Really!?! with Seth and Amy")
 
-Yet somehow, the classic C\# example doesn’t pander to English
+Yet somehow, the classic C# example doesn’t pander to English
 speakers? In the Ruby example, I count **2 words in English**, *Minutes*
-and *Ago*. In the classic C\# example, I count **8 words in
+and *Ago*. In the classic C# example, I count **8 words in
 English**-*Date*, *Time*, *Now*, *Subtract*, *Time*, *Span*, *From*,
 *Minutes*(decomposing the class names into their constituent words via
 Pascal Casing rules).
@@ -47,7 +46,7 @@ Pascal Casing rules).
 Not to mention that all of these code samples flow left-to-right, unlike
 languages such as Hebrew and Arabic which flow right to left.
 
-Seems to me that if anything, the classic C\# example panders just as
+Seems to me that if anything, the classic C# example panders just as
 much if not *more* to the English speaking world than the Ruby example.
 
 One explanation given for this statement is the following:
@@ -59,7 +58,7 @@ One explanation given for this statement is the following:
 I don’t get it. How is `20.minutes.ago` not hierarchical and object
 oriented yet we wouldn’t even take a second look at
 `DateTime.Now.Day `or `20.ToString()`, both of which are currently in
-C\# and familiar to developers.
+C# and familiar to developers.
 
 The key goal in object oriented software is to attempt to develop
 abstractions and work with in the domain of those abstractions. That’s
@@ -99,7 +98,7 @@ Yet we must find common ground for a programming language, so choosing a
 human language we must. For historical reasons, English is that de-facto
 language. It’s the reason why all the major programming languages have
 English keywords and English words for its class libraries. It’s why you
-use the Color class in C\# and not the Colour or 색깔 class.
+use the Color class in C# and not the Colour or 색깔 class.
 
 Now I’m not some America-centrist who says this is the way it *should*
 be. I’m just saying this is the way *it is*. Feel free to create a
@@ -108,7 +107,7 @@ see how widely it is adopted. It’s a fact of life. **If you’re going to
 write software, you better learn some degree of English**.
 
 In conclusion, yes, `20.minutes.ago` does pander to English, but
-only because all major programming languages pander to English. C\# is
+only because all major programming languages pander to English. C# is
 no exception. In fact, pandering to English is our goal when trying to
 write readable software.
 

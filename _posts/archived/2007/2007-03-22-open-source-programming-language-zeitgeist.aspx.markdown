@@ -16,12 +16,12 @@ Zeitgeist](http://www.google.com/press/zeitgeist.html "Search patterns and trend
 but grouped by programming language and specific to open source code.
 This might help us gain some insight into answering the above question.
 
-For example, compare this screenshot of the top Ruby, Java, and C\#
+For example, compare this screenshot of the top Ruby, Java, and C#
 searches.
 
 ![Top Java Searches - 1. md5, 2.swing,
 3.java](https://haacked.com/images/haacked_com/WindowsLiveWriter/OpenSourceProgrammingLanguageZeitgeist_14D30/image%7B0%7D%5B19%5D.png)![Top
-C\# Searches 1.system, 2.dataset,
+C# Searches 1.system, 2.dataset,
 3.openforecast](https://haacked.com/images/haacked_com/WindowsLiveWriter/OpenSourceProgrammingLanguageZeitgeist_14D30/image%7B0%7D%5B20%5D.png)
 ![Top Ruby Searches 1. proxy, 2.file,
 3.socket](https://haacked.com/images/haacked_com/WindowsLiveWriter/OpenSourceProgrammingLanguageZeitgeist_14D30/image%7B0%7D%5B18%5D.png)
@@ -65,8 +65,8 @@ even though Java is mature, there are still lots of new Java developers.
 **What’s really interesting to me is the inclusion of "Hibernate" as
 number 10 in the Java results.**
 
-**Contrast this to C\# where It does not surprise me that *dataset* is
-number 2 for C\#.** It’s the workhorse for the RAD developer. It appears
+**Contrast this to C# where It does not surprise me that *dataset* is
+number 2 for C#.** It’s the workhorse for the RAD developer. It appears
 that in pure numbers, the DataSet is winning over OR/M and such. There
 are no search results for *activerecord*, *NHibernate*, *Subsonic*,
 *OR/M*, etc... Whether that is a sad thing or not I leave for a

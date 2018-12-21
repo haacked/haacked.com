@@ -174,10 +174,10 @@ classes and methods.
 Also notice that the context and specifications are described using
 strings! Now we’re getting somewhere. If it’s meant to be human
 readable, why don’t we use strings instead of the underscore porn? On
-Twitter, many accused the ceremony and vagaries of C\# of preventing
-this approach. While I agree that Ruby has less ceremony than C\#, I
-also think C\# doesn’t get its fair shake sometimes. We can certainly
-take a C\# approach down to its bare metal with the least syntactic
+Twitter, many accused the ceremony and vagaries of C# of preventing
+this approach. While I agree that Ruby has less ceremony than C#, I
+also think C# doesn’t get its fair shake sometimes. We can certainly
+take a C# approach down to its bare metal with the least syntactic
 noise as possible, right?
 
 ### SubSpec

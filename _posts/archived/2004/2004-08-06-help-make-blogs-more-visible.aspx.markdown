@@ -1,7 +1,7 @@
 ---
 title: Help Make Blogs More Visible!
 date: 2004-08-06 -0800
-tags: []
+tags: [blogging]
 redirect_from: "/archive/2004/08/05/help-make-blogs-more-visible.aspx/"
 ---
 

@@ -78,7 +78,7 @@ Stick with me.
 Non Null Parameters
 -------------------
 
-With .NET languages such as C\#, there’s no way to prevent a caller of a
+With .NET languages such as C#, there’s no way to prevent a caller of a
 method from passing in a null value to a reference type argument.
 Instead, we simply end up having to validate the passed in arguments and
 ensure they’re not null.
@@ -105,7 +105,7 @@ post](http://twistedoakstudios.com/blog/Post330_non-nullable-types-vs-c-fixing-t
 He covers many of the challenges in adding a non-nullable syntax and
 then goes further to provide a proposed solution.
 
-C\# doesn’t have such a syntax, but it does have [Code
+C# doesn’t have such a syntax, but it does have [Code
 Contracts](http://msdn.microsoft.com/en-us/devlabs/dd491992.aspx "Code Contracts").
 After reading up on it, I really like the idea, but for me it suffers
 from one fatal flaw. There’s no way to apply a contract globally and

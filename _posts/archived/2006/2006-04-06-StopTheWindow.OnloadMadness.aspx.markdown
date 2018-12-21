@@ -36,7 +36,7 @@ That line of code will completely wipe out any other functions that were
 attached and ready to handle the onload event. How arrogant of your
 script to do so. Instead, your script should learn to play nicely.
 
-Unfortunately, Javascript doesn’t support the delegate syntax that C\#
+Unfortunately, Javascript doesn’t support the delegate syntax that C#
 has. It’d be nice to be able to do this.
 
 ```csharp
