@@ -92,6 +92,6 @@ My six years and ten months at GitHub were an intense learning experience. I had
 
 And I have to admit, I was really excited about Microsoft acquiring GitHub. It's the only company I could think of that would make a good steward. I think GitHub's in good hands with Nat as CEO.
 
-But I'm also excited to take a break from full-time work. My family had a [rough time in 2017](https://haacked.com/archive/2017/12/27/darkest-timeline/) from a mental health perspective, and while we're doing much better, staying that way takes a lot of work and vigilance. For example, we're homeschooling my son which is time consuming, but rewarding.
+But I'm also excited to [take a break from full-time work](https://haacked.com/archive/2004/10/16/work-life-balance.aspx/). My family had a [rough time in 2017](https://haacked.com/archive/2017/12/27/darkest-timeline/) from a mental health perspective, and while we're doing much better, staying that way takes a lot of work and vigilance. For example, we're homeschooling my son which is time consuming, but rewarding.
 
 But I do have a little something something cooking that I'll write about soon.
