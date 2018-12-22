@@ -1,11 +1,11 @@
 ---
 title: Blogging and Rebuilding Baghdad
 date: 2004-11-30 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2004/11/29/blogging-and-rebuilding-baghdad.aspx/"
 ---
 
-My neighbor Chris is in Iraq as the \#2 guy overseeing rebuilding
+My neighbor Chris is in Iraq as the #2 guy overseeing rebuilding
 projects as part of the Army Corp of Engineer. He'll be over there for
 several months helping to rebuild the facilities necessary for providing
 clean drinking water and electricity.
@@ -34,8 +34,8 @@ come with this sort of landing.
 > minutes. Not to mention that the pilots fly a corkscrew pattern to
 > avoid potential rockets (they haven't had one yet, but nobody wants to
 > be the first). Let's just say, the dog wasn't the only one howling on
-> the way down. \
->  \
+> the way down. 
+>  
 > After a hard landing, they popped the hatches and we put our feet on
 > Iraqi soil.
 

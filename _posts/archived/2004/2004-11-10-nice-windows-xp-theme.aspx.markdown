@@ -1,7 +1,7 @@
 ---
 title: Nice Windows XP Theme
 date: 2004-11-10 -0800
-tags: []
+tags: [tech]
 redirect_from: "/archive/2004/11/09/nice-windows-xp-theme.aspx/"
 ---
 

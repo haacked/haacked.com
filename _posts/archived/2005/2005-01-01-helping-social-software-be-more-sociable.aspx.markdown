@@ -1,7 +1,7 @@
 ---
 title: Helping Social Software Be More Sociable
 date: 2005-01-01 -0800
-tags: []
+tags: [rss]
 redirect_from: "/archive/2004/12/31/helping-social-software-be-more-sociable.aspx/"
 ---
 

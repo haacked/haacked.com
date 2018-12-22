@@ -1,7 +1,7 @@
 ---
 title: 007 Uses RSS Bandit
 date: 2004-09-09 -0800
-tags: []
+tags: [rss]
 redirect_from: "/archive/2004/09/08/007-uses-rss-bandit.aspx/"
 ---
 
@@ -11,8 +11,8 @@ Dare puts this quote from Tim Bray up on his blog.
 > a trip I recently took to a conference called Intelink, where the
 > people gather who run one of the worlds biggest and most interesting
 > intranets; the one that serves the community of U.S. Intelligence
-> professionals\
->  ... \
+> professionals
+>  ... 
 >  I was amused to note that on one of the sub-intranets distinguished
 > by being loaded with particularly ultra-secret stuff, they were
 > offering [RSS Bandit](http://www.rssbandit.org/) for the people to

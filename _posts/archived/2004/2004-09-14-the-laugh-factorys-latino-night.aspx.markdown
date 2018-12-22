@@ -1,7 +1,7 @@
 ---
 title: The Laugh Factory's Latino Night
 date: 2004-09-14 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2004/09/13/the-laugh-factorys-latino-night.aspx/"
 ---
 

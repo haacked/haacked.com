@@ -1,8 +1,7 @@
 ---
 title: How To Talk To Employees
 date: 2012-08-03 -0800
-tags:
-- company culture
+tags: [management]
 redirect_from: "/archive/2012/08/02/how-to-talk-to-employees.aspx/"
 ---
 
@@ -26,15 +25,15 @@ In the post, Rand poses a hypothetical scenario (emphasis mine):
 > For example, let’s say Company X has been having trouble with abuse of
 > work-from-home privileges. Managers are finding that **more and more
 > people are getting less accomplished and a primary suspect is a lack
-> of coming into the office\***. The problem is circulated at the
+> of coming into the office ***. The problem is circulated at the
 > executive team meeting and a decision is made to change the
 > work-from-home policy to provide greater analytics and visibility. An
 > email is sent to the team that looks like this:
 
 Rand supplies the “typical” corporate response:
 
-> *To: Allhands@CompanyX.com* \
-> *From: JoeTheHRManager@CompanyX.com* \
+> *To: Allhands@CompanyX.com*  
+> *From: JoeTheHRManager@CompanyX.com*  
 > *Subject: New Work-From-Home Policy*
 >
 > *Hi Everyone,*
@@ -54,8 +53,8 @@ And here’s his “improved” response. To be fair, he makes it clear that
 he doesn’t think it’s perfect and he’d spend more time on it if he were
 actually sending such mail.
 
-> *To: Allhands@CompanyX.com* \
-> *From: RandtheCEO@CompanyX.com* \
+> *To: Allhands@CompanyX.com*  
+> *From: RandtheCEO@CompanyX.com*  
 > *Subject: Productivity & Working Out of Office*
 >
 > *Hi Everyone,*
@@ -156,7 +155,7 @@ doesn’t address the real problem.
 Note that in the original scenario, I put some emphasis on a phrase:
 
 > **more and more people are getting less accomplished and a primary
-> suspect is a lack of coming into the office\***.
+> suspect is a lack of coming into the office ***.
 
 Both of the proposed responses immediately commit a logical fallacy. Now
 please, repeat after me: **correlation does not imply causation**!
@@ -176,10 +175,10 @@ managers first (this assumes my company even has managers in the first
 place):
 
 > *To: Overhead
-> \<[managers@CompanyX.com](mailto:managers@CompanyX.com)\>* \
+>  <[managers@CompanyX.com](mailto:managers@CompanyX.com) >*  
 > *From:
 > [HaackTheAllPowerfulCEO@CompanyX.com](mailto:HaackTheAllPowerfulCEO@CompanyX.com)*
-> \
+>  
 > *Subject: Productivity & Working Out of Office*
 >
 > *Hi Everyone,*

@@ -1,7 +1,7 @@
 ---
 title: Work Is Crazy Busy, Vacation Soon
 date: 2004-12-15 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2004/12/14/work-is-crazy-busy-vacation-soon.aspx/"
 ---
 

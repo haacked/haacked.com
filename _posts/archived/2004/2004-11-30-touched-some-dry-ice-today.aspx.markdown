@@ -1,7 +1,7 @@
 ---
 title: Touched Some Dry Ice Today
 date: 2004-11-30 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2004/11/29/touched-some-dry-ice-today.aspx/"
 ---
 

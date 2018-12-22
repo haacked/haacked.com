@@ -1,7 +1,7 @@
 ---
 title: TDD Is Great...Except When It Isn't
 date: 2004-10-17 -0800
-tags: []
+tags: [tdd]
 redirect_from: "/archive/2004/10/16/tdd-is-greatexcept-when-it-isnt.aspx/"
 ---
 
@@ -31,4 +31,3 @@ My recommendation for testing the UI layer are combining test scripts
 the UI layer. At that point the UI should hopefully be frozen enough
 that writing a unit test that exposes a bug and then fixing the bug will
 be a worthwhile investment for regression purposes.
-

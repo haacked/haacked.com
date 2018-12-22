@@ -1,7 +1,7 @@
 ---
 title: Petals Around the Rose logic puzzle
 date: 2004-09-20 -0800
-tags: []
+tags: [interesting]
 redirect_from: "/archive/2004/09/19/petals-around-the-rose-logic-puzzle.aspx/"
 ---
 

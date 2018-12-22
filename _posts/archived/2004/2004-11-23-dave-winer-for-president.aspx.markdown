@@ -1,7 +1,7 @@
 ---
 title: Dave Winer for President?
 date: 2004-11-23 -0800
-tags: []
+tags: [politics]
 redirect_from: "/archive/2004/11/22/dave-winer-for-president.aspx/"
 ---
 

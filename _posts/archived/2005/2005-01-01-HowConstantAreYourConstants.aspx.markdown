@@ -1,7 +1,7 @@
 ---
 title: How Constant Are Your Constants in .NET
 date: 2005-01-01 -0800
-tags: []
+tags: [dotnet]
 redirect_from: "/archive/2004/12/31/HowConstantAreYourConstants.aspx/"
 ---
 
@@ -23,15 +23,15 @@ McConnel discusses good and bad names for constants. An example of a
 poor name for a constant is *FIVE*. If you needed to change it to
 another value, it wouldn’t make any sense (*const int FIVE = 6;*).
 Instead choose a name that represents the abstract entity the constant
-represents. For example, CYCLES\_NEEDED.
+represents. For example, CYCLES_NEEDED.
 
-Another bad example he presents is *BAKERS\_DOZEN* which he states would
-be better named as *DONUTS\_MAX*.
+Another bad example he presents is *BAKERS_DOZEN* which he states would
+be better named as *DONUTS_MAX*.
 
 Although I agree with him in principle, his advice might need to be
 modified in light of how constants are handled in .NET. For example,
-CYCLES\_NEEDED probably shouldn’t be a constant if you think you might
-change the value later. Secondly, BAKERS\_DOZEN might be a fine constant
+CYCLES_NEEDED probably shouldn’t be a constant if you think you might
+change the value later. Secondly, BAKERS_DOZEN might be a fine constant
 since it’s a value that will never change.
 
 This boils down to a semantic issue. What exactly is a constant? Is it
@@ -79,7 +79,7 @@ Now suppose it’s several weeks later and your boss storms into your
 office. The company is bleeding cash and he wants you to up the cycles
 to 6 to increase profit. "Why that’s simple" you say to yourself.
 
-"I’ll just change the value of CYCLES\_NEEDED, recompile my library
+"I’ll just change the value of CYCLES_NEEDED, recompile my library
 assembly, and deploy the dll without touching the exe so that the
 downtime is minimized. I’m such a genius!"
 
@@ -107,7 +107,7 @@ private static void Main(string[] args)
 So as you can see, in order to change the value of the constant, both
 the library and the consumer of the library have to be recompiled to
 reflect the change with the constant. If we anticipate that
-CYCLES\_NEEDED might ever change, it would be better to make this a
+CYCLES_NEEDED might ever change, it would be better to make this a
 public static read only variable as such:
 
 ```csharp
@@ -117,7 +117,7 @@ public class Library
 }
 ```
 
-Now should you deploy a change to the value of CYCLES\_NEEDED, the
+Now should you deploy a change to the value of CYCLES_NEEDED, the
 console application will pick up the change without needing to recompile
 it. This is especially important in cases where it’s much easier to
 deploy a dll rather than the entire application.

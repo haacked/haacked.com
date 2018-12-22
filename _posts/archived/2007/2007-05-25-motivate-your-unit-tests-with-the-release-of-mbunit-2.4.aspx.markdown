@@ -1,7 +1,7 @@
 ---
 title: Motivate Your Unit Tests With the Release of MbUnit 2.4
 date: 2007-05-25 -0800
-tags: []
+tags: [tdd]
 redirect_from: "/archive/2007/05/24/motivate-your-unit-tests-with-the-release-of-mbunit-2.4.aspx/"
 ---
 

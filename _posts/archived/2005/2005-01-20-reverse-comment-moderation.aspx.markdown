@@ -1,7 +1,7 @@
 ---
 title: Reverse Comment Moderation. Or Better Yet...
 date: 2005-01-20 -0800
-tags: []
+tags: [rss]
 redirect_from: "/archive/2005/01/19/reverse-comment-moderation.aspx/"
 ---
 

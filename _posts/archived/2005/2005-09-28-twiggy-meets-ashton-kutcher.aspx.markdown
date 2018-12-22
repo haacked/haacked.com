@@ -1,12 +1,12 @@
 ---
 title: Twiggy Meets Ashton Kutcher
 date: 2005-09-28 -0800
-tags: []
+tags: [personal,twiggy]
 redirect_from: "/archive/2005/09/27/twiggy-meets-ashton-kutcher.aspx/"
 ---
 
 My wife can be a real bookworm at times. She took
-[Twiggy](https://haacked.com/archive/2005/03/23/2432.aspx) to the local
+[Twiggy](https://haacked.com/archive/2004/09/27/meet-twiggy.aspx/) to the local
 Starbucks in the downtown area of Culver City to have a drink and read
 her Spanish book outside in the beautiful weather. As she studied, she
 could overhear two guys behind her loudly engaged in annoying guy talk
@@ -30,4 +30,3 @@ want her to start earning her keep, since the rest of the family works.
 So Ashton, if you happen to find this blog during a vanity Google
 search, Twiggy is available for your next movie and/or television show.
 Just have your people call hers and we can supply face shots.
-

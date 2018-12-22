@@ -1,7 +1,7 @@
 ---
 title: How a Website Can Track Your Movements
 date: 2005-01-03 -0800
-tags: []
+tags: [privacy]
 redirect_from: "/archive/2005/01/02/how-a-website-can-track-your-movements.aspx/"
 ---
 
@@ -14,13 +14,13 @@ HTTP (HyperText Transfer Protocol. The rules for sending and receiving
 data between a browser and website) (note: some data omitted for
 brevity).
 
-> GET / HTTP/1.1\
->  Accept: \*/\*\
->  Accept-Language: en-us\
->  Accept-Encoding: gzip, deflate \
-> User-Agent: Mozilla/4.0 ... \
-> Host: my.yahoo.com \
-> Connection: Keep-Alive \
+> GET / HTTP/1.1
+>  Accept: */*
+>  Accept-Language: en-us
+>  Accept-Encoding: gzip, deflate 
+> User-Agent: Mozilla/4.0 ... 
+> Host: my.yahoo.com 
+> Connection: Keep-Alive 
 > Cookie: B=1note6p0p3843&b=2;...
 
 Notice that the last line is labelled **Cookie** and there's a bunch of

@@ -1,7 +1,7 @@
 ---
 title: Schwimmer's Clarifies His Bloglines Stance
 date: 2005-01-16 -0800
-tags: []
+tags: [rss,blogging]
 redirect_from: "/archive/2005/01/15/schwimmers-clarifies-his-bloglines-stance.aspx/"
 ---
 

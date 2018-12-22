@@ -1,7 +1,7 @@
 ---
 title: Trouble With Your Firewall Software After Installing Windows XP SP2?
 date: 2004-09-13 -0800
-tags: []
+tags: [tech]
 redirect_from: "/archive/2004/09/12/trouble-with-your-firewall-software-after-installing-windows-xp-sp2.aspx/"
 ---
 

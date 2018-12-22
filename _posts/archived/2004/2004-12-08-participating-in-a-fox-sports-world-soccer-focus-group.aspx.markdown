@@ -1,7 +1,7 @@
 ---
 title: Participating in a Fox Sports World Soccer Focus Group
 date: 2004-12-08 -0800
-tags: []
+tags: [soccer,personal]
 redirect_from: "/archive/2004/12/07/participating-in-a-fox-sports-world-soccer-focus-group.aspx/"
 ---
 

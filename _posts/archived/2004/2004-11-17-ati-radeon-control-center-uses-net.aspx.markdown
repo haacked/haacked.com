@@ -1,7 +1,7 @@
 ---
 title: ATI Radeon Control Center uses .NET
 date: 2004-11-17 -0800
-tags: []
+tags: [dotnet]
 redirect_from: "/archive/2004/11/16/ati-radeon-control-center-uses-net.aspx/"
 ---
 

@@ -1,23 +1,18 @@
 ---
 title: I'll Be Speaking About Open Source at OpenForce
 date: 2007-05-22 -0800
-tags: []
+tags: [oss,conferences]
 redirect_from: "/archive/2007/05/21/ill-be-speaking-about-open-source-at-openforce.aspx/"
 ---
 
 I’ve been invited to participate on a couple of panels at the upcoming
-[DotNetNuke OpenForce
-'07](http://www.dotnetnukecorp.com/Events/OpenForce07/tabid/73/Default.aspx "OpenForce '07")
+[DotNetNuke OpenForce '07](http://www.dotnetnukecorp.com/Events/OpenForce07/tabid/73/Default.aspx "OpenForce '07")
 conference, November 5-8 in Las Vegas.
 
 -   .NET Open Source Panel with Scott Guthrie
 -   .NET Open Source Architectures Panel
 
-I’m pretty excited to be on the same panel as
-[ScottGu](http://weblogs.asp.net/scottgu/ "Scott Guthrie") himself, the
-man who never sleeps. Both of the panels I am on are focused on Open
-Source on the .NET platform, something I love to talk about. Well that
-and [Subtext](http://www.subtextproject.com/ "Subtext Project Website").
+I’m pretty excited to be on the same panel as [ScottGu](http://weblogs.asp.net/scottgu/ "Scott Guthrie") himself, the man who never sleeps. Both of the panels I am on are focused on Open Source on the .NET platform, something I love to talk about. Well that and [Subtext](http://www.subtextproject.com/ "Subtext Project Website").
 
 **So what is the DotNetNuke OpenForce conference?**
 

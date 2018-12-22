@@ -1,13 +1,11 @@
 ---
 title: 'BETA: Incubator for .NET Open Source Projects'
 date: 2007-05-23 -0800
-tags: []
+tags: [oss,microsoft]
 redirect_from: "/archive/2007/05/22/beta-incubator-for-.net-open-source-projects.aspx/"
 ---
 
-There’s been a lot written about whether or not [Microsoft is doing
-enough to support Open Source
-Projects](http://blog.davestechshop.net/archive/2006/09/16/MicrosoftShouldSupportOpenSource.aspx?Pending=true "Microsoft Should Financially Support Open Source Projects")
+There’s been a lot written about whether or not [Microsoft is doing enough to support Open Source Projects](http://blog.davestechshop.net/archive/2006/09/16/MicrosoftShouldSupportOpenSource.aspx?Pending=true "Microsoft Should Financially Support Open Source Projects")
 on its platform. In the past, Microsoft’s report card in this area was
 not one to take home to mom.
 

@@ -1,7 +1,7 @@
 ---
 title: Work-life balance
 date: 2004-10-16 -0800
-tags: []
+tags: [work,career]
 redirect_from: "/archive/2004/10/15/work-life-balance.aspx/"
 ---
 

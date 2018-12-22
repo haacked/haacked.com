@@ -1,7 +1,7 @@
 ---
 title: Four Good Years And The Prospect Of Forty More
 date: 2006-09-12 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2006/09/11/Four_Good_Years_And_The_Prospect_Of_Forty_More.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Revenge Of The Frogs
 date: 2004-09-16 -0800
-tags: []
+tags: [news,humor]
 redirect_from: "/archive/2004/09/15/revenge-of-the-frogs.aspx/"
 ---
 
@@ -9,7 +9,7 @@ Found this
 [here](http://story.news.yahoo.com/news?tmpl=story&ncid=1756&e=1&u=/040915/photos_sc_afp/040915192007_emas3obn_photo0)
 on Yahoo news. **What is this frog doing?**
 
-![Frog spreads sperm on eggs](/images/FrogSperm.jpg) \
+![Frog spreads sperm on eggs](/images/FrogSperm.jpg) 
 Kermit takes revenge when Miss Piggy hooks up with Beaker.
 
 > Spanish zoologists have discovered that male frogs who are losers in

@@ -1,7 +1,7 @@
 ---
 title: Ugly Basketball
 date: 2004-08-10 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2004/08/09/ugly-basketball.aspx/"
 ---
 

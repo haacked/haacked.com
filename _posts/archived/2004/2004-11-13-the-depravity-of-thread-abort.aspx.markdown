@@ -1,7 +1,7 @@
 ---
 title: More on Terminating Threads and the depravity of Thread.Abort
 date: 2004-11-13 -0800
-tags: []
+tags: [concurrency,dotnet]
 redirect_from: "/archive/2004/11/12/the-depravity-of-thread-abort.aspx/"
 ---
 

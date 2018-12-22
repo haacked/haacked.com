@@ -1,14 +1,13 @@
 ---
 title: Why Not Convert HTML to XML?
 date: 2004-10-25 -0800
-tags: []
+tags: [code]
 redirect_from: "/archive/2004/10/24/why-not-convert-html-to-xml.aspx/"
 ---
 
 Pat Gannon (no blog) makes a great
-[point](https://haacked.com/archive/2004/10/25/1471.aspx#1486) in the
-comments on my post about [using regular expressions to parse
-HTML](https://haacked.com/archive/2004/10/25/1471.aspx). He says:
+[point](https://haacked.com/archive/2004/10/25/usingregularexpressionstomatchhtml.aspx/#dsq-747510138) in the
+comments on my post about [using regular expressions to parse HTML](https://haacked.com/archive/2004/10/25/usingregularexpressionstomatchhtml.aspx). He says:
 
 > Just to play devil's advocate for a minute, it seems like HTML is just
 > too darned close to XML to have to parse this way. Isn't there a
@@ -47,4 +46,4 @@ also written his own grammar engine and xml syntax for describing
 computer languages such as C#. So he knows a thing or two about parsing
 text. He's become quite a top notch developer. I'm just waiting for him
 to get off his arse and start a blog.
-
+ 

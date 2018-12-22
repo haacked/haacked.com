@@ -1,7 +1,7 @@
 ---
 title: RSS Bandit Is Tight
 date: 2004-09-08 -0800
-tags: []
+tags: [rss]
 redirect_from: "/archive/2004/09/07/rss-bandit-is-tight.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Bush Wins Al Qaeda Endorsement
 date: 2004-09-21 -0800
-tags: []
+tags: [politics]
 redirect_from: "/archive/2004/09/20/bush-wins-al-qaeda-endorsement.aspx/"
 ---
 
@@ -10,8 +10,8 @@ from Fox News of all places.
 
 > The statement tells American voters that Abu Hafs al-Masri supports
 > the re-election campaign of President Bush: "We are very keen that
-> Bush does not lose the upcoming elections." \
-> \
+> Bush does not lose the upcoming elections." 
+> 
 > The statement said Abu Hafs al-Masri needs what it called Bush's
 > "idiocy and religious fanaticism" because they would "wake up" the
 > Islamic world.

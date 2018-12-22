@@ -1,7 +1,7 @@
 ---
 title: How To Stop a Thread in .NET (and Why Thread.Abort is Evil)
 date: 2004-11-12 -0800
-tags: []
+tags: [concurrency,dotnet]
 redirect_from: "/archive/2004/11/11/how-to-stop-a-thread.aspx/"
 ---
 

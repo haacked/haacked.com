@@ -1,7 +1,7 @@
 ---
 title: Statement Graph Reflector Add-In Makes Pretty Flowcharts.
 date: 2004-08-30 -0800
-tags: []
+tags: [tools]
 redirect_from: "/archive/2004/08/29/statement-graph-reflector-add-in-makes-pretty-flowcharts.aspx/"
 ---
 

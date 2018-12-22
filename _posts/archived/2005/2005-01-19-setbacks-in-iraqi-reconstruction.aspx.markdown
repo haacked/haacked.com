@@ -1,7 +1,7 @@
 ---
 title: Setbacks In Iraqi Reconstruction
 date: 2005-01-19 -0800
-tags: []
+tags: [politics]
 redirect_from: "/archive/2005/01/18/setbacks-in-iraqi-reconstruction.aspx/"
 ---
 

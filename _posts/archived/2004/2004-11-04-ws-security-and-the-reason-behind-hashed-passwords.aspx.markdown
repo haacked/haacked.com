@@ -1,7 +1,7 @@
 ---
 title: WS Security and the Reason Behind Hashed Passwords
 date: 2004-11-04 -0800
-tags: []
+tags: [security]
 redirect_from: "/archive/2004/11/03/ws-security-and-the-reason-behind-hashed-passwords.aspx/"
 ---
 
@@ -13,10 +13,10 @@ asks the following question:
 > ...Thus if a hacker steals the hashed password from your database, he
 > will be able to write an application that gives the hash to WSE and he
 > will authenticate successfully - which is exactly what we are trying
-> to avoid by storing the hashed passwords in the first place. \
-> \
-> ...\
-> \
+> to avoid by storing the hashed passwords in the first place.  
+>  
+> ... 
+>  
 >  The bottom line: this approach won't really solve the real problem -
 > if I steal the hash from the database, I will be able to uthenticate
 > successfully. I'd love this to work the way you describe but as a

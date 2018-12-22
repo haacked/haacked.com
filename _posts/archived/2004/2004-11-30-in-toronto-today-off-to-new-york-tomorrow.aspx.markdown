@@ -1,7 +1,7 @@
 ---
 title: In Toronto Today, Off to New York Tomorrow
 date: 2004-11-30 -0800
-tags: []
+tags: [works]
 redirect_from: "/archive/2004/11/29/in-toronto-today-off-to-new-york-tomorrow.aspx/"
 ---
 

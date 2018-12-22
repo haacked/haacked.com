@@ -1,7 +1,7 @@
 ---
 title: rel=&quot;nofollow&quot; Fix Applied
 date: 2005-01-19 -0800
-tags: []
+tags: [blogging,web]
 redirect_from: "/archive/2005/01/18/relnofollow-fix-applied.aspx/"
 ---
 

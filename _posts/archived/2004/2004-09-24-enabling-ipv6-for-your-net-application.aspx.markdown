@@ -1,7 +1,7 @@
 ---
 title: Enabling IPv6 For Your .NET Application
 date: 2004-09-24 -0800
-tags: []
+tags: [dotnet]
 redirect_from: "/archive/2004/09/23/enabling-ipv6-for-your-net-application.aspx/"
 ---
 

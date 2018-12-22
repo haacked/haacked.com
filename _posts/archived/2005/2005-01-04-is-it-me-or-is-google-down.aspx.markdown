@@ -1,7 +1,7 @@
 ---
 title: Is It Me Or Is Google Down?
 date: 2005-01-04 -0800
-tags: []
+tags: [tech]
 redirect_from: "/archive/2005/01/03/is-it-me-or-is-google-down.aspx/"
 ---
 

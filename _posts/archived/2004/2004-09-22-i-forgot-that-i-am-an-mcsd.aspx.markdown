@@ -1,7 +1,7 @@
 ---
 title: I Forgot That I Am An MCSD
 date: 2004-09-22 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2004/09/21/i-forgot-that-i-am-an-mcsd.aspx/"
 ---
 

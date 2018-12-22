@@ -1,7 +1,7 @@
 ---
 title: Smoggy Day
 date: 2004-09-23 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2004/09/22/smoggy-day.aspx/"
 ---
 

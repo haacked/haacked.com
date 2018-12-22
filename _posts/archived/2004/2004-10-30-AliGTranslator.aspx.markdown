@@ -1,7 +1,7 @@
 ---
 title: Ali G Translator
 date: 2004-10-30 -0800
-tags: []
+tags: [humor]
 redirect_from: "/archive/2004/10/29/AliGTranslator.aspx/"
 ---
 

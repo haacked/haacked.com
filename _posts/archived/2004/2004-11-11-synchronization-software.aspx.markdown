@@ -1,7 +1,7 @@
 ---
 title: Synchronization Software?
 date: 2004-11-11 -0800
-tags: []
+tags: [tools]
 redirect_from: "/archive/2004/11/10/synchronization-software.aspx/"
 ---
 

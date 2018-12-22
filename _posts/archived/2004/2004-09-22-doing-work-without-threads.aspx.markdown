@@ -1,7 +1,7 @@
 ---
 title: Doing Work Without Threads
 date: 2004-09-22 -0800
-tags: []
+tags: [concurrency]
 redirect_from: "/archive/2004/09/21/doing-work-without-threads.aspx/"
 ---
 

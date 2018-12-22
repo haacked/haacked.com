@@ -1,7 +1,7 @@
 ---
 title: C# .NET Quizzes
 date: 2005-01-26 -0800
-tags: []
+tags: [csharp,dotnet]
 redirect_from: "/archive/2005/01/25/c-net-quizzes.aspx/"
 ---
 
