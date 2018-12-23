@@ -1,7 +1,7 @@
 ---
 title: Dining in San Francisco
 date: 2005-09-17 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2005/09/16/dining-in-san-francisco.aspx/"
 ---
 

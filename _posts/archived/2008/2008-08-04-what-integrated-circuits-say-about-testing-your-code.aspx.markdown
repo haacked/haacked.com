@@ -1,9 +1,7 @@
 ---
 title: What Integrated Circuits Say About Testing Your Code
 date: 2008-08-04 -0800
-tags:
-- tdd
-- code
+tags: [tdd,patterns,code,testing]
 redirect_from: "/archive/2008/08/03/what-integrated-circuits-say-about-testing-your-code.aspx/"
 ---
 

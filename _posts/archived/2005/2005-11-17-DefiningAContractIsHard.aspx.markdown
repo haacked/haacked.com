@@ -1,7 +1,7 @@
 ---
 title: Defining a Contract Is Hard
 date: 2005-11-17 -0800
-tags: []
+tags: [code]
 redirect_from: "/archive/2005/11/16/DefiningAContractIsHard.aspx/"
 ---
 

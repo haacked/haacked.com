@@ -1,7 +1,7 @@
 ---
 title: What Housing Bubble?
 date: 2005-10-31 -0800
-tags: []
+tags: [news]
 redirect_from: "/archive/2005/10/30/WhatHousingBubble.aspx/"
 ---
 

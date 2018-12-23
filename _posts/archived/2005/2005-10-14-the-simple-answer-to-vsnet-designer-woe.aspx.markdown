@@ -1,7 +1,7 @@
 ---
 title: The Simple Answer To VS.NET Designer Woe
 date: 2005-10-14 -0800
-tags: []
+tags: [visualstudio]
 redirect_from: "/archive/2005/10/13/the-simple-answer-to-vsnet-designer-woe.aspx/"
 ---
 

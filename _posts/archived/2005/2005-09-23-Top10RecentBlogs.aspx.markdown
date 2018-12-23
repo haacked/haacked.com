@@ -1,7 +1,7 @@
 ---
 title: 'MEME: Top 10 Recent Blogs'
 date: 2005-09-23 -0800
-tags: []
+tags: [blogging]
 redirect_from: "/archive/2005/09/22/Top10RecentBlogs.aspx/"
 ---
 

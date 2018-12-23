@@ -1,7 +1,7 @@
 ---
 title: It's Raining in Southern California
 date: 2005-10-17 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2005/10/16/its-raining-in-southern-california.aspx/"
 ---
 

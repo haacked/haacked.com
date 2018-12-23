@@ -1,7 +1,7 @@
 ---
 title: Switching to MbUnit
 date: 2005-10-18 -0800
-tags: []
+tags: [tools]
 redirect_from: "/archive/2005/10/17/switchingtombunit.aspx/"
 ---
 
@@ -17,7 +17,7 @@ MbUnit, I decided to make the switch.
 
 And that, my friends, was a great decision... Why?
 
-**TypeFixture**\
+**TypeFixture**  
  Say you write an interface `IFoo` (though it could just as easily have
 been an abstract class or any base class for that matter). You then
 proceed to implement a couple implementations of `IFoo`. Wouldn’t it be
@@ -89,18 +89,18 @@ provider methods simply instantiate the concrete instance of the
 interface you are testing. So the next time you implement the interface,
 you simply add another provider method. Pretty sweet, eh?
 
-**Row Based Testing**\
+**Row Based Testing**  
  I already [wrote a
 post](https://haacked.com/archive/0001/01/01/1421.aspx) on the `RowTest`
 attribute for MbUnit. It supports a very common test paradigm of using
 the same method to test a wide variety of inputs.
 
-**Test Runner**\
+**Test Runner**  
  Matt Berther [shows how easy it is to write an
 executable](http://www.mattberther.com/2005/10/000677.html) that will
 run all your unit tests.
 
-**RollBack Attribute**\
+**RollBack Attribute**  
  Attach this attribute to a test method and MbUnit makes sure that any
 database transactions are rolled back at the end of the test. There is
 an implementation of a [`RollBack` attribute for
@@ -108,7 +108,7 @@ NUnit](https://haacked.com/archive/2005/06/10/4580.aspx) out there, but
 the extensibility model is tricky, as I found I couldn’t get the
 RollBack attribute to work with an `ExpectedException` attribute.
 
-**And More...**\
+**And More...**  
  MbUnit also has test attributes for repeating a test and repeating a
 test on multiple threads. It also has a test fixture designed to test
 custom collections that implement `IEnumerable` and `IEnumeration`.

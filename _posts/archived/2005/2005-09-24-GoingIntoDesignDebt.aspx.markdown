@@ -1,7 +1,7 @@
 ---
 title: Going Into Design Debt
 date: 2005-09-24 -0800
-tags: []
+tags: [design,software,patterns]
 redirect_from: "/archive/2005/09/23/GoingIntoDesignDebt.aspx/"
 ---
 

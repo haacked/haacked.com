@@ -1,7 +1,7 @@
 ---
 title: Decompression
 date: 2005-10-16 -0800
-tags: []
+tags: [burningman,personal]
 redirect_from: "/archive/2005/10/15/decompression.aspx/"
 ---
 

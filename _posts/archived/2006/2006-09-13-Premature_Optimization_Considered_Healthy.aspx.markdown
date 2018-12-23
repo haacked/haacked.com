@@ -1,7 +1,7 @@
 ---
 title: Premature Optimization Considered Healthy
 date: 2006-09-13 -0800
-tags: []
+tags: [code,performance]
 redirect_from: "/archive/2006/09/12/Premature_Optimization_Considered_Healthy.aspx/"
 ---
 

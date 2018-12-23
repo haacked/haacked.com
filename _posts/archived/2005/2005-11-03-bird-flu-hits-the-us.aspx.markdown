@@ -1,7 +1,7 @@
 ---
 title: Bird Flu Hits the U.S.
 date: 2005-11-03 -0800
-tags: []
+tags: [news]
 redirect_from: "/archive/2005/11/02/bird-flu-hits-the-us.aspx/"
 ---
 

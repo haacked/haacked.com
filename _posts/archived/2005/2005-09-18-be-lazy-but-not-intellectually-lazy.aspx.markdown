@@ -1,7 +1,7 @@
 ---
 title: Be Lazy, But Not Intellectually Lazy
 date: 2005-09-18 -0800
-tags: []
+tags: [commentary,quality]
 redirect_from: "/archive/2005/09/17/be-lazy-but-not-intellectually-lazy.aspx/"
 ---
 
@@ -20,7 +20,7 @@ doing. The classic illustration of mental laziness is encountering an
 
 When encountering the error, the lazy developer would simply append a “
 + 1” to the end of the stament, re-run the code, and if it seemed to
-work, move on. Or they might change a “\< x” to “\<= x” For simple
+work, move on. Or they might change a “< x” to “<= x” For simple
 cases, this may be the correct solution, but the problem arises when the
 developer doesn’t take the time to evaluate why the error was made in
 the first place. Sometimes, the simple fix only works for a narrow range

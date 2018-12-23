@@ -1,7 +1,7 @@
 ---
 title: Where the Provider Model Falls Short
 date: 2005-11-01 -0800
-tags: []
+tags: [software,patterns]
 redirect_from: "/archive/2005/10/31/wheretheprovidermodelfallsshort.aspx/"
 ---
 
@@ -24,7 +24,7 @@ configured provider, could be manipulating users in a database, in
 Active Directory or a 4'x6' piece of plywood. The user of the provider
 doesn’t need to know.
 
-**Provider Misuse**\
+**Provider Misuse**  
  However, one common area where I’ve seen providers misused is in an
 attempt to abstract the underlying database implementation away from
 application. For example, in many open source products such as
@@ -54,7 +54,7 @@ applications such as DotNetNuke, .TEXT, Subtext etc.... Despite the fact
 that they all implement the provider model, very few take (nor have) the
 time to implement a concrete provider.
 
-**A better way**\
+**A better way**  
  For most professional web projects, this is not really an issue since
 your client probably has little need to switch the database upon which
 the application is built. However, if you are building a system (such as
@@ -75,7 +75,7 @@ stored proc because it is targeted to the specific case, whereas stored
 procs tend to support the general case. One example is the dynamic query
 that only selects the needed columns from a table and not every column.
 
-**Better Insulation**\
+**Better Insulation**  
  The key design benefit of such a tool is that they *insulate the main
 application from the impact of schema changes*. Add a column to a table
 and perhaps you only need to change one class and a mapping file. The
@@ -100,7 +100,7 @@ churn.
 To this end, the Subtext developers are investigating the potential for
 using NHibernate in a future version of Subtext.
 
-**Referenced Links and other resources**\
+**Referenced Links and other resources**  
 
 -   [Provider Model Design Pattern and Specification, Part
     1](http://msdn.microsoft.com/asp.net/beta2/providers/default.aspx?pull=/library/en-us/dnaspnet/html/asp02182004.asp)

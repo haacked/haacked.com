@@ -1,14 +1,11 @@
 ---
 title: Humans Are Not Random Number Generators
 date: 2005-10-12 -0800
-tags: []
+tags: [security]
 redirect_from: "/archive/2005/10/11/humans-are-not-random-number-generators.aspx/"
 ---
 
-There’s an [interesting discussion in the
-comments](http://www.codinghorror.com/blog/archives/000413.html) on the
-[Coding Horror](http://www.codinghorror.com/blog/) blog in which Jeff
-suggests that
+There’s an [interesting discussion in the comments](http://www.codinghorror.com/blog/archives/000413.html) on the [Coding Horror](http://www.codinghorror.com/blog/) blog in which Jeff suggests that
 
 > Your password alone should be enough information for the computer to
 > know who you are.
@@ -18,8 +15,7 @@ And I definitely agree assuming a **couple constraints**...
 -   You’re on a home computer or a system with a small number of users.
 -   You enforce pass-phrases rather than passwords.
 
-A while ago [I
-referenced](https://haacked.com/archive/2004/12/07/1711.aspx) an [article
+A while ago [I referenced](https://haacked.com/archive/2004/12/07/1711.aspx) an [article
 on the insecurity of passwords as compared to
 pass-phrases](http://weblogs.asp.net/robert_hensing/archive/2004/07/28/199610.aspx).
 The article discusses how dictionary attacks and their ilk (brute-force,
@@ -35,7 +31,7 @@ mentioned:
 > I honestly don't care how improbable it would be, I want it to be
 > impossible.
 
-**Sorry, no system is unhackable.**\
+**Sorry, no system is unhackable.**  
  Impossible? The only system impossible to hack is one that does not
 allow logins. Perhaps a lump of rock would be more to your taste? Even
 with a username and password combination, it is not impossible to guess
@@ -51,7 +47,7 @@ pass-phrase.
 But there’s just one problem. Humans are not cryptographically strong
 generators.
 
-**True Story**\
+**True Story**  
  When I was giving a presentation in college about random number
 sequences, I asked my classmates to “generate” two random sequences of
 ones and zeroes, each fifty numbers long. I stepped out of the room and
@@ -71,7 +67,7 @@ character was only three or four long. But in the random sequence of 50
 coin tosses, I expected at least one sequence of the same number to be
 around 5 or 6 characters long.
 
-**Psychology of secrets**\
+**Psychology of secrets**  
  So back to the point. The problem in a system with a large number of
 users is that psychology comes into play. You just know one or two
 people are going to choose the phrase “Who let the dogs out?” If you

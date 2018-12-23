@@ -1,7 +1,7 @@
 ---
 title: Teaching Solid HTML and CSS Production Work
 date: 2005-10-11 -0800
-tags: []
+tags: [html,css]
 redirect_from: "/archive/2005/10/10/teaching-solid-html-and-css-production-work.aspx/"
 ---
 

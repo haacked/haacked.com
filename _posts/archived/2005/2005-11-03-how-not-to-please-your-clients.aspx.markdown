@@ -1,7 +1,7 @@
 ---
 title: How Not To Please Your Clients
 date: 2005-11-03 -0800
-tags: []
+tags: [consulting]
 redirect_from: "/archive/2005/11/02/how-not-to-please-your-clients.aspx/"
 ---
 
@@ -28,7 +28,7 @@ connects to the tank is the culprit, and replaces the flush valve and
 other inner components (I’m no expert in toiletology). It took him three
 trips to fix the problem with the throne.
 
-**1st Lesson: Get to the real root of the problem.**\
+**1st Lesson: Get to the real root of the problem.**
  All in all, the toilet was fixed, but the quality of service was poor.
 The lesson here is rather than simply assuming the client (in this case
 me) knows what he wants, take the time to perform due diligence. He is
@@ -40,7 +40,7 @@ requirements and ask the right questions. Our clients certainly know
 their own domains very well, but they don’t necessarily know a lot about
 software and how exactly software can help them.
 
-**2nd Lesson: Double Check Your Work.**\
+**2nd Lesson: Double Check Your Work.**
  Once you do gather requirements and do the job, make sure you succeed
 in delivering what the clients want. It helps if you define clear
 acceptance criteria up front. For example, my acceptance criteria were

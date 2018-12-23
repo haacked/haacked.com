@@ -1,7 +1,7 @@
 ---
 title: The Problem With Extremism
 date: 2005-10-19 -0800
-tags: []
+tags: [commentary,tdd]
 redirect_from: "/archive/2005/10/18/problem-with-extremism.aspx/"
 ---
 

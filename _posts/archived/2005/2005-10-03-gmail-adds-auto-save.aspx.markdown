@@ -1,7 +1,7 @@
 ---
 title: Gmail adds Auto Save
 date: 2005-10-03 -0800
-tags: []
+tags: [tools]
 redirect_from: "/archive/2005/10/02/gmail-adds-auto-save.aspx/"
 ---
 

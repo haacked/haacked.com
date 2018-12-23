@@ -1,7 +1,7 @@
 ---
 title: Geek Underrepresentation In Hollywood
 date: 2005-11-06 -0800
-tags: []
+tags: [developers]
 redirect_from: "/archive/2005/11/05/geek-underrepresentation-in-hollywood.aspx/"
 ---
 
@@ -14,7 +14,7 @@ mom with her computer woes.
 
 I think it’s intriguing in the voyeuristic sense in that I like the idea
 of taking a look inside how other companies manage their software
-projects. But at \$19.95 a pop, It’ll have to be picked up by NetFlix
+projects. But at $19.95 a pop, It’ll have to be picked up by NetFlix
 for me to watch it, which doesn’t seem likely.
 
 It makes me wonder if I should buy it as a show of solidarity to say

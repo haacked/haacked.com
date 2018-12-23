@@ -1,7 +1,7 @@
 ---
 title: Google Referals Program
 date: 2005-11-04 -0800
-tags: []
+tags: [tech]
 redirect_from: "/archive/2005/11/03/google-referals-program.aspx/"
 ---
 

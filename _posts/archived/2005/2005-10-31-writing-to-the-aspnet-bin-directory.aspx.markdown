@@ -1,7 +1,7 @@
 ---
 title: Writing to the Asp.Net Bin Directory
 date: 2005-10-31 -0800
-tags: []
+tags: [aspnet]
 redirect_from: "/archive/2005/10/30/writing-to-the-aspnet-bin-directory.aspx/"
 ---
 

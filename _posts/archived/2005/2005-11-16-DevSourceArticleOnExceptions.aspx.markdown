@@ -1,7 +1,7 @@
 ---
 title: DevSource Article on Exceptions
 date: 2005-11-16 -0800
-tags: []
+tags: [code]
 redirect_from: "/archive/2005/11/15/DevSourceArticleOnExceptions.aspx/"
 ---
 
@@ -24,29 +24,20 @@ wish we had discussed in the article is the guidelines around
 re-throwing exceptions. For example, I’ve seen many beginning developers
 make the following mistake...
 
+```csharp
 public void SomeMethod()
-
 {
+  try
+  {
+    SomeOtherMethod(null);
+  }
+  catch(ArgumentNullException e)
+  {
+    //Code here to do something
 
-    try
-
-    {
-
-        SomeOtherMethod(null);
-
-    }
-
-    catch(ArgumentNullException e)
-
-    {
-
-        //Code here to do something
-
- 
-
-        throw e; //Bad!
-
-    }
+    throw e; //Bad!
+  }
+```
 
 The problem with this approach is the code in the catch clause is
 throwing the exception it caught. The runtime generates a stack trace
@@ -57,46 +48,36 @@ line of code where the exception actually occurred.
 If this is confusing, consider that the runtime doesn’t exactly
 distinguish between these three cases...
 
+```csharp
 Exception exc = new Exception();
 
 throw exc;
 
-\
-
 throw new Exception();
 
-\
-
 throw SomeExceptionBuilderFunction();
+```
 
 If you really intend to rethrow an exception without wrapping it in
 another exception, then the proper syntax is to use the `throw` keyword
 without specifying an exception. The original exception will propagate
 up with its stack trace intact.
 
+```csharp
 public void SomeMethod()
-
 {
-
-    try
-
-    {
-
-        SomeOtherMethod(null);
-
-    }
-
-    catch(ArgumentNullException e)
-
-    {
-
-        //Code here to do something
-
+  try
+  {
+    SomeOtherMethod(null);
+  }
+  catch(ArgumentNullException e)
+  {
+    //Code here to do something
  
-
-        throw; //Better!
-
-    }
+    throw; //Better!
+  }
+}
+```
 
 However, even this can be improved on depending on why we are catching
 the exception in the first place. If we are performing cleanup code in
@@ -113,27 +94,19 @@ catch and throw segments up the stack, the debugger might only attach to
 the last segment, far away from the actual point at which the exception
 occurred.
 
+```csharp
 public void SomeMethod()
-
 {
-
-    try
-
-    {
-
-        SomeOtherMethod(null);
-
-    }
-
-    finally
-
-    {
-
-        CleanUp(); //Possibly even better
-
-    }
-
+  try
+  {
+    SomeOtherMethod(null);
+  }
+  finally
+  {
+    CleanUp(); //Possibly even better
+  }
 }
+```
 
 Bob and I plan to follow-up with hopefully more articles covering
 exceptions. This is just a start.

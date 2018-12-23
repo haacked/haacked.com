@@ -1,7 +1,7 @@
 ---
 title: The Bell Ringer
 date: 2005-11-01 -0800
-tags: []
+tags: [humor]
 redirect_from: "/archive/2005/10/31/the-bell-ringer.aspx/"
 ---
 

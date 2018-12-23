@@ -1,17 +1,17 @@
 ---
 title: My Mental Laziness Mistakes
 date: 2005-09-18 -0800
-tags: []
+tags: [work,personal]
 redirect_from: "/archive/2005/09/17/my-mental-laziness-mistakes.aspx/"
 ---
 
 It wouldn’t be fair to point out the [mistakes of other developers being
-lazy](https://haacked.com/archive/2005/09/18/10204.aspx) without pointing
+lazy](https://haacked.com/archive/2005/09/18/be-lazy-but-not-intellectually-lazy.aspx/) without pointing
 out that I have been very guilty of this myself. The point of the post
 is not to trash another person’s coding habits, but to present an ideal
 to work towards. Sometimes, intellectual “laziness” is absolutely
 necessary as in the example presented in the [comments of that
-post](https://haacked.com/archive/2005/09/18/10204.aspx#10223).
+post](https://haacked.com/archive/2005/09/18/be-lazy-but-not-intellectually-lazy.aspx/#dsq-747512997).
 
 When I started off as an ASP developer (remember VBScript?) I needed to
 store name value pairs within a cookie. So I started off storing a
@@ -38,6 +38,6 @@ Had I spent a few extra minutes up front reading about cookies rather
 than **programming by intellisense**, I would have saved myself a lot of
 time. In the end I ripped out my code and used the built in mechanism.
 
-\<blatantLie\>To my defense, I was only five at the time and I had been
-hit by a bat earlier that day so I was seeing double.\</blatantLie\>
+`<blatantLie>`To my defense, I was only five at the time and I had been
+hit by a bat earlier that day so I was seeing double.`</blatantLie>`
 
