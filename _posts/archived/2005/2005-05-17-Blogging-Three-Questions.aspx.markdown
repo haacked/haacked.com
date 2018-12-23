@@ -1,7 +1,7 @@
 ---
 title: 'Blogging: 3 questions'
 date: 2005-05-17 -0800
-tags: []
+tags: [blogging]
 redirect_from: "/archive/2005/05/16/Blogging-Three-Questions.aspx/"
 ---
 
@@ -16,7 +16,7 @@ it’s good enough for Sam Ruby, it’s good enough for me.
     friends to keep tabs on me. I was basically rubbing it in that I was
     in sunny Los Angeles while my family and friends suffered the bitter
     cold of an Alaskan winter. What motivates me today is [fame, fortune
-    and vanity](https://haacked.com/archive/2004/10/08/1322.aspx)! Though
+    and vanity](https://haacked.com/archive/2004/10/08/bloggingispurevanity.aspx/)! Though
     the first two still elude me, what really motivates me are these
     great relationships and conversations I’ve had online. Blogging
     spurred me to get involved in open source software and provides a
@@ -45,7 +45,3 @@ it’s good enough for Sam Ruby, it’s good enough for me.
     good taste) or comment on my site, and then drop them if they start
     to bore me. I really need to cut down on my list. But since you
     asked, three that come to mind are...
-
-[Listening to: So Danço Samba - Stan Getz & João Gilberto -
-Getz/Gilberto (3:45)]
-

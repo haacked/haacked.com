@@ -1,7 +1,7 @@
 ---
 title: Thanks for the Well Wishes
 date: 2005-05-29 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2005/05/28/thanks-for-the-well-wishes.aspx/"
 ---
 

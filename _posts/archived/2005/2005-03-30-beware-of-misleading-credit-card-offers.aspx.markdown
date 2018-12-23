@@ -1,7 +1,7 @@
 ---
 title: 'Rant: Beware of Misleading Credit Card Offers'
 date: 2005-03-30 -0800
-tags: []
+tags: [security]
 redirect_from: "/archive/2005/03/29/beware-of-misleading-credit-card-offers.aspx/"
 ---
 
@@ -10,17 +10,17 @@ I've been burned bad by misinformation from ignorant and/or misleading
 reps. This time however, it involves our credit card company, Bank of
 America.
 
-We received one of those offers where we can take a \$10,000 loan for 6
+We received one of those offers where we can take a $10,000 loan for 6
 months with no APR. Since we needed a short term loan we thought, "Hey,
 we'll take that, use part of it, put the rest in the bank, earn interest
 on it, then pay it back in 6 months."
 
-Does a six month interest free loan of \$10K sound too good to be true?
+Does a six month interest free loan of $10K sound too good to be true?
 We thought so. So we called customer service and double checked. We ran
 through various scenarios including asking,
 
-> So if we take this loan, and say make \$1000 in purchases using our
-> credit card, at the end of the month, if we only pay \$1000 towards
+> So if we take this loan, and say make $1000 in purchases using our
+> credit card, at the end of the month, if we only pay $1000 towards
 > our credit card bill, we won't have to pay interest, right?
 
 The reply?
@@ -28,7 +28,7 @@ The reply?
 > Yep
 
 > So we don't have to pay the entire balance each month which would
-> include this \$10K loan, right?
+> include this $10K loan, right?
 
 > That's correct.
 
@@ -40,9 +40,9 @@ now makes sense since I know what it means:
 > that future payments will be applied to Promotional balances prior to
 > any existing or new regular balances on the account.
 
-So simply put, if we take the loan, and make \$1000 in purchases, and
-then pay \$1000 towards our bill, we'll now have \$9000 as an interest
-free loan and a \$1000 balance generating tons of interest.
+So simply put, if we take the loan, and make $1000 in purchases, and
+then pay $1000 towards our bill, we'll now have $9000 as an interest
+free loan and a $1000 balance generating tons of interest.
 
 Now you might say that's what you get for not reading the small print.
 Perhaps. But it bothers me that the amount of effort they put forth into
@@ -57,7 +57,7 @@ service and they egregiously misinformed us (which is a pattern with
 some other financial institutions I've dealt with).
 
 In any case, we've figured out an easy way to take advantage of this
-offer and get a \$10,000 loan free for 6 months. Simply take the loan
+offer and get a $10,000 loan free for 6 months. Simply take the loan
 with no balance on the card and stop using that credit card for 6 months
 till you pay it back. Use another card. I think it'd be great if
 thousands, nay millions, of people did just that and sent a big "Fuck

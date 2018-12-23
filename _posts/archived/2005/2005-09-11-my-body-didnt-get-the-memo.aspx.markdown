@@ -1,7 +1,7 @@
 ---
 title: My Body Didn't Get The Memo
 date: 2005-09-11 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2005/09/10/my-body-didnt-get-the-memo.aspx/"
 ---
 

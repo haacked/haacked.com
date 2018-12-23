@@ -1,7 +1,7 @@
 ---
 title: Comment Spam Reduced?
 date: 2005-08-07 -0800
-tags: []
+tags: [meta]
 redirect_from: "/archive/2005/08/06/comment-spam-reduced.aspx/"
 ---
 

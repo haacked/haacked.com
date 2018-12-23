@@ -1,14 +1,11 @@
 ---
 title: Does Mort Know We're Talking Smack About Him Behind His Back?
 date: 2005-08-02 -0800
-tags: []
+tags: [culture,developers,commentary]
 redirect_from: "/archive/2005/08/01/DoesMortKnowWeAreTalkingSmackAboutHimBehindHisBack.aspx/"
 ---
 
-And if so, is he angry? I wondered this after reading *[Is Object
-Oriented Programming The
-Problem?](http://donxml.com/allthingstechie/archive/2005/08/01/2116.aspx)*
-in which Don invokes the programmer archetype, "Mort" to make a point.
+And if so, is he angry? I wondered this after reading *[Is Object Oriented Programming The Problem?](http://donxml.com/allthingstechie/archive/2005/08/01/2116.aspx)* in which Don invokes the programmer archetype, "Mort" to make a point.
 
 ### Who is Mort?
 

@@ -1,14 +1,12 @@
 ---
 title: Hey Look! I&#8217;m a Rock Star!
 date: 2005-07-04 -0800
-tags: []
+tags: [meta]
 redirect_from: "/archive/2005/07/03/hey-look-i-8217m-a-rock-star.aspx/"
 ---
 
-I don’t know who these people are, but [How To
-Rockstar](http://howtorockstar.blogspot.com/) just [wrote up my blog
-with a very nice
-review](http://howtorockstar.blogspot.com/2005/07/rockstar-haacked.html)
+I don’t know who these people are, but [How To Rockstar](http://howtorockstar.blogspot.com/) just [wrote up my blog
+with a very nice review](http://howtorockstar.blogspot.com/2005/07/rockstar-haacked.html)
 *(thanks guys, I see you got the check I sent)*.
 
 Seriously though, when someone says something this glowing about my

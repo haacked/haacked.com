@@ -1,7 +1,7 @@
 ---
 title: My First Pair Of Air Jordans
 date: 2005-06-10 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2005/06/09/my-first-pair-of-air-jordans.aspx/"
 ---
 
@@ -37,4 +37,3 @@ Mundials to replace my thoroughly trashed soccer cleats.
 
 ![Ratty Shoe](/images/RattyShoe.jpg)\
  Look what the cat dragged in.
-

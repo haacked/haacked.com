@@ -1,7 +1,7 @@
 ---
 title: TestNG - It's like NUnit, But in Java
 date: 2005-03-28 -0800
-tags: []
+tags: [tools]
 redirect_from: "/archive/2005/03/27/testng--its-like-nunit-but-in-java.aspx/"
 ---
 
@@ -16,7 +16,7 @@ Now Java has caught up with
 version of Java out there (JDK 5.0 aka Tiger), Java now has Annotations.
 This is pretty much equivalent to Attributes in .NET. TestNG takes
 advantage of Annotations and builds a unit testing framework around them
-that looks quite familiar if you regularly use NUnit 2.\*.
+that looks quite familiar if you regularly use NUnit 2.*.
 
 And I'm certain both these platforms have borrowed ideas from even older
 platforms.

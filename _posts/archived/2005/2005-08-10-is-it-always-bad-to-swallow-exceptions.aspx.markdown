@@ -1,48 +1,36 @@
 ---
 title: Is It Always Bad To Swallow Exceptions?
 date: 2005-08-10 -0800
-tags: []
+tags: [dotnet]
 redirect_from: "/archive/2005/08/09/is-it-always-bad-to-swallow-exceptions.aspx/"
 ---
 
-Reading [this
-post](http://jaysonknight.com/blog/archive/2005/08/10/1736.aspx) from
-Jayson’s blog caught my attention for two reasons. First, his very
-strong reaction to some code that swallows an exception. Second, the
-fact that I’ve written such code before.
+Reading [this post](http://jaysonknight.com/blog/archive/2005/08/10/1736.aspx) from
+Jayson’s blog caught my attention for two reasons. First, his very strong reaction to some code that swallows an exception. Second, the fact that I’ve written such code before.
 
 Here is the code in question.
 
+``` csharp
 public bool IsNumeric(string s)
-
 {
-
-    try
-
-    {
-
-        Int32.Parse(s);
-
-    }
-
-    catch
-
-    {
-
-        return false;
-
-    }
-
-    return true;
-
+  try
+  {
+    Int32.Parse(s);
+  }
+  catch
+  {
+    return false;
+  }
+  return true;
 }
+```
 
 Jayson’s proposed solution is...
 
-> I personally would use double.TryParse() (and downcast accordingly
+> I personally would use `double.TryParse()` (and downcast accordingly
 > depending on the result) at the very least. At the very most I'd break
 > the string down to a char array, and walk the array calling one of the
-> (very) useful static char.Is\<whatever\> methods…first non\<whatever\>
+> (very) useful static char.Is `<whatever>` methods…first non `<whatever>`
 > value, break out of the loop and return false. I've posted before
 > about the speed at which the framework can process char data…it's very
 > fast and effecient (sic).
@@ -51,7 +39,7 @@ For the sake of this discussion, let’s assume the method was intended to
 be `IsInteger()`. Using `Int.Parse()` to test if a string is a number
 doesn’t make sense since it immediately chokes on 3.14 (get it? Chokes
 on Pi. Get it? Damn. No sense of humor). If indeed this method was
-intended to be `IsNumeric` then I would suggest using double.TryParse
+intended to be `IsNumeric` then I would suggest using `double.TryParse`
 and the discussion is finished.
 
 Now in general, I agree with Jayson and often raise fits when I see an
@@ -70,13 +58,12 @@ Also, what happens when you want to extend this to handle hex numbers
 and thousands separators. For example, this code snippet shows various
 ways to parse an integer.
 
+```csharp
 Console.WriteLine(int.Parse("07A", NumberStyles.HexNumber));
-
 Console.WriteLine(int.Parse("-1234", NumberStyles.AllowLeadingSign));
-
 Console.WriteLine(int.Parse("1,302,312", NumberStyles.AllowThousands));
-
 Console.WriteLine(int.Parse("-1302312"));
+```
 
 This is one of those cases where the API failed us, and was corrected in
 the upcoming .NET 2.0. In .NET 2.0, this is a moot point. But for those
@@ -89,38 +76,25 @@ API to do number parsing than rolling my own. It’s not that I don’t
 think I am capable of it, but I have a much smaller base of testers than
 the framework team. Here’s how I might rewrite this method.
 
+```csharp
 public bool IsInteger(string s, NumberStyles numberStyles)
 
 {
-
-    if(s == null)
-
-        throw new ArgumentNullException("s", "Sorry, but I don't do
-null.");
-
+   if(s == null)
+      throw new ArgumentNullException("s", "Sorry, but I don't do null.");
  
-
-    try
-
-    {
-
-        Int32.Parse(s, numberStyles);
-
-        return true;
-
-    }
-
-    catch(System.FormatException)
-
-    {
-
-        //Intentionally Swallowing this.
-
-    }
-
-    return false;
-
+   try
+   {
+      Int32.Parse(s, numberStyles);
+      return true;
+   }
+   catch(System.FormatException)
+   {
+      //Intentionally Swallowing this.
+   }
+   return false;
 }
+```
 
 So in 99.9% of the cases, I agree with Jayson that you should generally
 not swallow exceptions, but there are always the few cases where it
@@ -151,4 +125,3 @@ already exists?
 
 So Jayson, in general you are right, but please don’t beat me to death
 with a wet noodle if you see something like this in my code. ;)
-

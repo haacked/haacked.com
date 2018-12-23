@@ -1,7 +1,7 @@
 ---
 title: It's Raining, It's Pouring, The Old Man Is Snoring
 date: 2005-02-17 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2005/02/16/its-raining-its-pouring-the-old-man-is-snoring.aspx/"
 ---
 

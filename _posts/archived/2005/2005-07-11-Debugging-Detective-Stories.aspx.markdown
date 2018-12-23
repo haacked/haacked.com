@@ -1,7 +1,7 @@
 ---
 title: Debugging Detective Stories
 date: 2005-07-11 -0800
-tags: []
+tags: [work]
 redirect_from: "/archive/2005/07/10/Debugging-Detective-Stories.aspx/"
 ---
 

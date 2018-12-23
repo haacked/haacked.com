@@ -1,7 +1,7 @@
 ---
 title: 'Video: The And 1 of Soccer (Football for you Brits)'
 date: 2005-07-12 -0800
-tags: []
+tags: [soccer]
 redirect_from: "/archive/2005/07/11/video-the-and-1-of-soccer-football-for-you-brits.aspx/"
 ---
 

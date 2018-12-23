@@ -1,7 +1,7 @@
 ---
 title: Using Embedded Resources for Client Script Blocks in ASP.NET
 date: 2005-04-29 -0800
-tags: []
+tags: [aspnet]
 redirect_from: "/archive/2005/04/28/using-embedded-resources-for-client-scripts.aspx/"
 ---
 
@@ -111,7 +111,7 @@ public static class ScriptHelper
 }
 ```
 
-You’ll be seeing this ScriptHelper class again when I highlight some
+You’ll be seeing this `ScriptHelper` class again when I highlight some
 controls you might find useful. If you’re already using ASP.NET 2.0 (aka
 Whidbey), there’s an even [better way to handle client
 files](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnvs05/html/webresource.asp "Web Resource Handler").

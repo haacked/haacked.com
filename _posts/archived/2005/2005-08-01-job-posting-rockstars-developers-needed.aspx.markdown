@@ -1,7 +1,7 @@
 ---
 title: 'Job Posting: Rockstars Developer(s) Needed'
 date: 2005-08-01 -0800
-tags: []
+tags: [hiring]
 redirect_from: "/archive/2005/07/31/job-posting-rockstars-developers-needed.aspx/"
 ---
 
@@ -37,7 +37,7 @@ job posting details.
 
 #### Compensation:
 
-Three to six month contract \$65 - \$95 / hour depending on experience,
+Three to six month contract $65 -  $95 / hour depending on experience,
 skills, and general all around awesomeness.
 
 #### Requirements
@@ -52,7 +52,7 @@ skills, and general all around awesomeness.
     application technologies such as:
     -   (X)HTML and CSS. Ideally, you’re a fan of CSS ZenGarden. If not,
         fake it.
-    -   XML Web Services (SOAP, WSDL, WS-\*)
+    -   XML Web Services (SOAP, WSDL, WS- *)
     -   Web application security
     -   XML, including XSD, XSLT, etc.
     -   Must know Microsoft ASP.NET and C# as if your life depended on
@@ -77,6 +77,5 @@ skills, and general all around awesomeness.
 
 If you are interested, and you have what it takes, and you think we have
 what it takes, send me your resume to **haacked at gmail d0t com**
-(*\<--- Yeah, that’s a really challenging puzzle to weed out the
+(* <--- Yeah, that’s a really challenging puzzle to weed out the
 riff-raff and spammers*).
-

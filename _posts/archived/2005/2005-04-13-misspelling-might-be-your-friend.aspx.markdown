@@ -1,13 +1,12 @@
 ---
 title: Misspelling Might Be Your Friend
 date: 2005-04-13 -0800
-tags: []
+tags: [seo,blogging]
 redirect_from: "/archive/2005/04/12/misspelling-might-be-your-friend.aspx/"
 ---
 
 Looking through my statistics today and I noticed that I received a lot
-of hits from [this
-post](https://haacked.com/archive/2005/04/04/2555.aspx) about Google Maps
+of hits from [this post](https://haacked.com/archive/2005/04/04/cool-google-maps-overlays-satellite-photographs.aspx/) about Google Maps
 using satellite photography.
 
 Looking in my referrer logs, I noticed that most of the visits were

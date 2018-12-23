@@ -1,7 +1,7 @@
 ---
 title: By This Criteria, I Must Be Awesome
 date: 2005-08-27 -0800
-tags: []
+tags: [developers]
 redirect_from: "/archive/2005/08/26/by-this-criteria-i-must-be-awesome.aspx/"
 ---
 
@@ -53,5 +53,5 @@ So to bolster my claim to the title of “Best Programmer In The World”
 that I know jack shit about software development. In fact, I’m really
 just a janitor using the computer at the library to post this. The
 persona of “Haacked” is really one of my many fine personalities. Good
-evening and I’ll get to that spill in room \#327 soon enough.
+evening and I’ll get to that spill in room #327 soon enough.
 

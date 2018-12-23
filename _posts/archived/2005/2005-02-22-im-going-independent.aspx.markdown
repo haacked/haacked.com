@@ -1,7 +1,7 @@
 ---
 title: I'm Going Independent!
 date: 2005-02-22 -0800
-tags: []
+tags: [consulting,work]
 redirect_from: "/archive/2005/02/21/im-going-independent.aspx/"
 ---
 
@@ -45,4 +45,3 @@ of eyes.
 In any case, I'm very excited and anxious about this big transition. Now
 I'm head deep in studying tax law and health insurance policies. Wish me
 luck and advice is appreciated.
-

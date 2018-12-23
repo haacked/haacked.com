@@ -1,7 +1,7 @@
 ---
 title: AdSense relevance...
 date: 2005-04-28 -0800
-tags: []
+tags: [blogging]
 redirect_from: "/archive/2005/04/27/adsense-relevance.aspx/"
 ---
 

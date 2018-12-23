@@ -1,52 +1,38 @@
 ---
 title: The Collapse of Boolean Logic
 date: 2005-04-15 -0800
-tags: []
+tags: [code]
 redirect_from: "/archive/2005/04/14/the-collapse-of-boolean-logic.aspx/"
 ---
 
 What will this code write to the console?
 
+```csharp
 public void SomeMethod()
-
 {
+  SqlInt32 x = 1;
 
-    SqlInt32 x = 1;
-
- 
-
-    if(x == SqlInt32.Null)
-
-    {
-
-        Console.WriteLine("Null.");
-
-    }
-
-    else if(x != SqlInt32.Null)
-
-    {
-
-        Console.WriteLine("Not Null.");
-
-    }
-
-    else
-
-    {
-
-        Console.WriteLine("Neither? WTF!?");
-
-    }
-
+  if(x == SqlInt32.Null)
+  {
+    Console.WriteLine("Null.");
+  }
+  else if(x != SqlInt32.Null)
+  {
+    Console.WriteLine("Not Null.");
+  }
+  else
+  {
+    Console.WriteLine("Neither? WTF!?");
+  }
 }
+```
 
 If you said "Neither? WTF!?" then you'd be correct.
 
-Doesn't that seem odd since x is either SqlInt32.Null or it isn't? Is
+Doesn't that seem odd since `x` is either `SqlInt32.Null` or it isn't? Is
 this a case of fuzzy logic? Well not exactly. This is one of those
-gotchas with operator overloading. The == operator is overloaded by
-SqlInt32 to return a SqlBoolean instead of a boolean.
+gotchas with operator overloading. The `==` operator is overloaded by
+`SqlInt32` to return a `SqlBoolean` instead of a `bool`.
 
 This caused me a few minutes of pain this week as I was stepping through
 code like this and examining the values in the debugger and I thought
@@ -55,42 +41,31 @@ I was with a value that was not null, but was null at the same time. It
 was one of those mind warping "This sentence is not true" moments.
 
 As typical, I was thinking about rebooting when on a whim I decided to
-use intermediate variables and realized that the == was returning
+use intermediate variables and realized that the `==` was returning
 something neither true nor false. Honestly, I think this is a very poor
 and unnecessary use of operator overloading (correct me if I'm wrong)
 because it hides a real gotcha underneath a very common paradigm. If you
-overload the == operator, you should most definitely return a bool.
+overload the `==` operator, you should most definitely return a bool.
 
 In this case, it's easy enough to fix. I should have been checking the
-IsNull property anyways like so:
+`IsNull` property anyways like so:
 
+```csharp
 public void SomeMethod()
-
 {
+  SqlInt32 x = 1;
 
-    SqlInt32 x = 1;
-
- 
-
-    if(x.IsNull)
-
-    {
-
-        Console.WriteLine("Null.");
-
-    }
-
-    else
-
-    {
-
-        Console.WriteLine("Not Null.");
-
-    }
-
+   if(x.IsNull)
+  {
+     Console.WriteLine("Null.");
+  }
+  else
+  {
+     Console.WriteLine("Not Null.");
+  }
 }
+```
 
 This [post
 by](http://blogs.msdn.com/cyrusn/archive/2005/04/15/408689.aspx) Cyrus
 motivated me to write about this.
-

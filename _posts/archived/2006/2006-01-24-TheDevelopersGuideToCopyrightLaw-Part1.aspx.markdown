@@ -1,8 +1,7 @@
 ---
 title: The Developer's Guide To Copyright Law - Part 1
 date: 2006-01-24 -0800
-tags:
-- oss
+tags: [oss,legal]
 redirect_from: "/archive/2006/01/23/TheDevelopersGuideToCopyrightLaw-Part1.aspx/"
 ---
 

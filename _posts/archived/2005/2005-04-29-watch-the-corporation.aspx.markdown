@@ -1,7 +1,7 @@
 ---
 title: Watch &quot;The Corporation&quot;
 date: 2005-04-29 -0800
-tags: []
+tags: [politics]
 redirect_from: "/archive/2005/04/28/watch-the-corporation.aspx/"
 ---
 

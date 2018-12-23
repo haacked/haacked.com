@@ -1,7 +1,7 @@
 ---
 title: Google Is Giving Back
 date: 2005-03-16 -0800
-tags: []
+tags: [tech]
 redirect_from: "/archive/2005/03/15/google-is-giving-back.aspx/"
 ---
 
@@ -13,12 +13,12 @@ Google's place for Open Source software.
 
 From their FAQ:
 
-> What is code.google.com?\
+> What is code.google.com?
 >  Code.google.com is our site for external developers interested in
 > Google-related development. Its where well publish free source code
-> and lists of our API services. \
-> \
->  Who are the people behind code.google.com?\
+> and lists of our API services. 
+> 
+>  Who are the people behind code.google.com?
 >  A lot of people worked together to both prepare source code for
 > release and prepare code.google.com for launch and ongoing
 > maintenance. We really care about free and open source software

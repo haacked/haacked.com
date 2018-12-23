@@ -1,7 +1,7 @@
 ---
 title: The Freshest BreakDancing Ever!
 date: 2005-03-02 -0800
-tags: []
+tags: [interesting]
 redirect_from: "/archive/2005/03/01/FreshestBreakDancingEver.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Good Design Makes You Go Unnnhhh...
 date: 2005-08-23 -0800
-tags: []
+tags: [design]
 redirect_from: "/archive/2005/08/22/good-design-makes-you-go-unnnhhh.aspx/"
 ---
 
@@ -10,8 +10,7 @@ uncover a beautiful elegant extensible design that just makes it a snap?
 Me neither, but if I do run into such a phantasm, I’d probably get very
 excited.
 
-Well that’s how I feel about [A List
-Apart's](http://www.alistapart.com/) new design. It just makes me go
+Well that’s how I feel about [A List Apart's](http://www.alistapart.com/) new design. It just makes me go
 “Unnnhhh!” (and that’s a good thing in case you didn’t know).
 
 Taking a look at it, my first thought was “Steal Steal Steal!” And by

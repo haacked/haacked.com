@@ -1,7 +1,7 @@
 ---
 title: Online Gamer Stabbed - A Case for a Virtual Police Force and Courts?
 date: 2005-03-30 -0800
-tags: []
+tags: [gamer]
 redirect_from: "/archive/2005/03/29/online-gamer-stabbed--a-case-for-a-virtual-police-force-and-courts.aspx/"
 ---
 
@@ -25,7 +25,7 @@ property, physical or otherwise.
 If society in general decides that virtual assets are somehow inherently
 different than physical assets, then it behooves the gaming companies to
 create a microcosm of the real world within the virtual space. Think
-about it for a second. If I'm paying \$20 to \$40 a month (not to
+about it for a second. If I'm paying $20 to $40 a month (not to
 mention my time) to play some online game, I want to make sure that if
 someone swindles me of property that has real-world market value, I have
 some means for recompense.

@@ -1,7 +1,7 @@
 ---
 title: Good Korean Food in Los Angeles
 date: 2005-03-17 -0800
-tags: []
+tags: [food]
 redirect_from: "/archive/2005/03/16/Good_Korean_Food_In_Los_Angeles.aspx/"
 ---
 

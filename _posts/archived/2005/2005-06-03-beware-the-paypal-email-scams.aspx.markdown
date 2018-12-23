@@ -1,7 +1,7 @@
 ---
 title: Beware the PayPal Email Scams!
 date: 2005-06-03 -0800
-tags: []
+tags: [security]
 redirect_from: "/archive/2005/06/02/beware-the-paypal-email-scams.aspx/"
 ---
 

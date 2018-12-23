@@ -1,7 +1,7 @@
 ---
 title: Someone Is Using My Credit Card
 date: 2005-03-16 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2005/03/15/someone-is-using-my-credit-card.aspx/"
 ---
 

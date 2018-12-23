@@ -1,7 +1,7 @@
 ---
 title: Back From Vegas
 date: 2005-08-26 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2005/08/25/back-from-vegas.aspx/"
 ---
 

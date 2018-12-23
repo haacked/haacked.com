@@ -1,7 +1,7 @@
 ---
 title: MMORPGs Come Of Age - WOW Reviewed on NPR
 date: 2005-03-16 -0800
-tags: []
+tags: [gaming]
 redirect_from: "/archive/2005/03/15/mmorpgs-come-of-age--wow-reviewed-on-npr.aspx/"
 ---
 

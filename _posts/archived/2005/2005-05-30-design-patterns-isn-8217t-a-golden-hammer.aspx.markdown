@@ -1,7 +1,7 @@
 ---
 title: Design Patterns Isn&#8217;t a Golden Hammer
 date: 2005-05-30 -0800
-tags: []
+tags: [software,design]
 redirect_from: "/archive/2005/05/29/design-patterns-isn-8217t-a-golden-hammer.aspx/"
 ---
 
@@ -51,18 +51,17 @@ because it’s the "right" thing to do. There’s no point to implementing
 polymorphism if it is never used.
 
 For example, I recently saw several classes in some code I was reading
-that implemented an interface we’ll call ISomeInterface. But nowhere did
-I find any code that referenced ISomeInterface. Instead, there were only
+that implemented an interface we’ll call `ISomeInterface`. But nowhere did
+I find any code that referenced `ISomeInterface`. Instead, there were only
 references to concrete classes. I expected to see something like this
 somewhere in the code.
 
+```csharp
 foreach(ISomeInterface something in SomeInterfaceCollection)
-
 {
-
-    something.DoSomething();
-
+  something.DoSomething();
 }
+```
 
 But no such code could be found. This was a prime example of a
 gratuitous use of an interface. This interface served no purpose and
@@ -71,7 +70,4 @@ needed to be removed.
 The important lesson here is to always start off by writing the simplest
 code possible and only add interfaces and design patterns when they are
 absolutely needed.
-
-[Listening to: Voices (DJ Remy Remix) - Bedrock - Gatecrasher Global
-Sound System: Latitude (Disc 2) (5:13)]
 

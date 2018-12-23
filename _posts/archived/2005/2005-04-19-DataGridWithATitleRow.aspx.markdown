@@ -1,7 +1,7 @@
 ---
 title: DataGrid With a Title Row
 date: 2005-04-19 -0800
-tags: []
+tags: [data]
 redirect_from: "/archive/2005/04/18/DataGridWithATitleRow.aspx/"
 ---
 
@@ -14,6 +14,7 @@ But no longer! I wanted to have the title display in its own row within
 the data grid structure so I created a custom data grid control that
 does just that. See the example below for how it renders.
 
+```html
 <table id="gridtemplated" style="border-collapse: collapse;" border="1" cellspacing="0" rules="all">
     <tbody>
         <tr class="grid_title">
@@ -53,6 +54,7 @@ does just that. See the example below for how it renders.
         </tr>
     </tbody>
 </table>
+```
 
 The key to this is to override the OnItemCreated method and set my own
 rendering method for the header item.
@@ -64,15 +66,15 @@ rendering method for the header item.
 /// <param name="e"> E. </param>
 protected override void OnItemCreated(DataGridItemEventArgs e)
 {
-    if (ListItemType.Header == e.Item.ItemType && Title != null &&
+  if (ListItemType.Header == e.Item.ItemType && Title != null &&
 Title.Length > 0)
-    {
-        e.Item.SetRenderMethodDelegate( new RenderMethod(RenderTitle));
-    }
-    else
-    {
-        base .OnItemCreated(e);
-    }
+  {
+    e.Item.SetRenderMethodDelegate( new RenderMethod(RenderTitle));
+  }
+  else
+  {
+    base.OnItemCreated(e);
+  }
 }
 ```
 
@@ -87,30 +89,30 @@ which is named RenderTitle.
 /// <param name="ctl"> CTL. </param>
 protected virtual void RenderTitle(HtmlTextWriter writer, Control ctl)
 {
-    // TR is on the stack writer's stack at this point...
-    writer.AddAttribute(
-        "colspan",
-        this.Columns.Count.ToString(CultureInfo.InvariantCulture));
+   // TR is on the stack writer's stack at this point...
+   writer.AddAttribute(
+       "colspan",
+       this.Columns.Count.ToString(CultureInfo.InvariantCulture));
 
-    writer.AddAttribute("align", "center");
-    writer.RenderBeginTag("TD");
-    writer.Write(Title);
-    writer.RenderEndTag(); // Writes </TD>
-    writer.RenderEndTag(); // Writes </TR>
+   writer.AddAttribute("align", "center");
+   writer.RenderBeginTag("TD");
+   writer.Write(Title);
+   writer.RenderEndTag(); // Writes </TD>
+   writer.RenderEndTag(); // Writes </TR>
 
-    // Now we add the header attributes we
-    // copied.
-    this .HeaderStyle.AddAttributesToRender(writer);
-    writer.RenderBeginTag("TR");
+   // Now we add the header attributes we
+   // copied.
+   this .HeaderStyle.AddAttributesToRender(writer);
+   writer.RenderBeginTag("TR");
 
-    //Render the cells for the header row.
-    foreach (Control control in ctl.Controls)
-    {
-        control.RenderControl(writer);
-    }
+   //Render the cells for the header row.
+   foreach (Control control in ctl.Controls)
+   {
+     control.RenderControl(writer);
+   }
 
-    // We don't need to write the </TR>.
-    // The grid will do that for us.
+   // We don't need to write the </TR>.
+   // The grid will do that for us.
 }
 ```
 

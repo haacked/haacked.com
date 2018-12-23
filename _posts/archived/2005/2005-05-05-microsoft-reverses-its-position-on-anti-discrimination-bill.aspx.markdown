@@ -1,7 +1,7 @@
 ---
 title: Microsoft reverses its position on anti-discrimination bill
 date: 2005-05-05 -0800
-tags: []
+tags: [microsoft,politics]
 redirect_from: "/archive/2005/05/04/microsoft-reverses-its-position-on-anti-discrimination-bill.aspx/"
 ---
 
@@ -12,14 +12,13 @@ From Scoble's blog we hear that...
 > anti-discrimination bill.
 
 You know, it would be petty to say it, but I will. I [Told You
-So](https://haacked.com/archive/2005/04/24/2818.aspx)! ;) All kidding
+So](https://haacked.com/archive/2005/04/24/should-corporations-act-purely-on-self-interest.aspx/)! ;) All kidding
 aside, I'm heartened to see Microsoft change its positions. It just
 shows that corporations can look solely past the bottom line and
 consider the common good. In doing so, I believe it will support the
 bottom line anyways in a more far reaching manner.
 
-As for [those who worry
-that](http://archive.scripting.com/2005/04/24#When:4:32:52PM)..
+As for [those who worry that](http://archive.scripting.com/2005/04/24#When:4:32:52PM)..
 
 > ...people should be able to use Microsoft products without having to
 > support political causes they don't.

@@ -1,8 +1,10 @@
 ---
 title: Haacked.com Is Back Online
 date: 2005-05-08 -0800
-tags: [blogging,subtext]
-redirect_from: "/archive/2005/05/07/haackedcom-is-back-online.aspx/"
+tags: [blogging,subtext,sql]
+redirect_from:
+  - "/archive/2005/05/07/haackedcom-is-back-online.aspx/"
+  - "/archive/2005/05/08/3076.aspx"
 ---
 
 If there's one thing I've learned as a professional developer, it is
@@ -28,11 +30,9 @@ In case your curious, I used Query Analyzer to reconstruct the posts
 since the URLs were generated using the ID column (identity) and the
 DateAdded column. With liberal use of the
 
+```
 > DBCC CHECKIDENT ('blog\_content', RESEED, 3073)
+```
 
 command, I recreated the proper IDs so that existing links to these
 posts would not break. Unfortunately I lost all comments.
-
-[Listening to: Duke Pearson (With Airto And Stella Mars) / O Amor Em Paz
-(Once I Loved) - Blue Note Plays Jobim (5:24)]
-

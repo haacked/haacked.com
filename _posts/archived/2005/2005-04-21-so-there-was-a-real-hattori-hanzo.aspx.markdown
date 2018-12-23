@@ -1,7 +1,7 @@
 ---
 title: So There Was a Real Hattori Hanzo
 date: 2005-04-21 -0800
-tags: []
+tags: [interesting]
 redirect_from: "/archive/2005/04/20/so-there-was-a-real-hattori-hanzo.aspx/"
 ---
 

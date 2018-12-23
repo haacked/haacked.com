@@ -1,7 +1,7 @@
 ---
 title: Customizing Keyboard Settings In RSS Bandit Part 2
 date: 2005-03-22 -0800
-tags: []
+tags: [rss]
 redirect_from: "/archive/2005/03/21/CustomizingKeyboardSettingsPart2.aspx/"
 ---
 

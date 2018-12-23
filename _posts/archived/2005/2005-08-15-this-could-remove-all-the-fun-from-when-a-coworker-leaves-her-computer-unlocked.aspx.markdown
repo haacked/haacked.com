@@ -1,7 +1,7 @@
 ---
 title: This Could Remove All The Fun From When A Coworker Leaves Her Computer Unlocked
 date: 2005-08-15 -0800
-tags: []
+tags: [humor]
 redirect_from: "/archive/2005/08/14/this-could-remove-all-the-fun-from-when-a-coworker-leaves-her-computer-unlocked.aspx/"
 ---
 
@@ -44,7 +44,7 @@ department, the source of all email viruses in any company).
 
 Well, I guess there’ll always the prank of stealing the USB dongle.
 
-**Security Question**\
+**Security Question**  
  I am a little ignorant about how USB works, but one security question
 this raises is what happens if you walk away, and I put an intermediate
 USB device between the dongle and the computer, and record the data

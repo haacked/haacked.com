@@ -1,8 +1,10 @@
 ---
 title: COOL!  Google Maps Overlays Satellite Photographs
 date: 2005-04-04 -0800
-tags: []
-redirect_from: "/archive/2005/04/03/cool-google-maps-overlays-satellite-photographs.aspx/"
+tags: [tech]
+redirect_from:
+  - "/archive/2005/04/03/cool-google-maps-overlays-satellite-photographs.aspx/"
+  - "/archive/2005/04/04/2555.aspx/"
 ---
 
 In case you wanted to see my neighborhood, you can check out [this

@@ -1,7 +1,7 @@
 ---
 title: First Million Dollar Skill Game Tournament
 date: 2005-09-09 -0800
-tags: []
+tags: [work]
 redirect_from: "/archive/2005/09/08/first-million-dollar-skill-game-tournament.aspx/"
 ---
 

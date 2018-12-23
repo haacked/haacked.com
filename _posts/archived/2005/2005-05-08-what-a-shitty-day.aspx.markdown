@@ -1,12 +1,12 @@
 ---
 title: What a Shitty Day
 date: 2005-05-08 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2005/05/07/what-a-shitty-day.aspx/"
 ---
 
 Today has been an awful day, starting just past midnight, I [lose the
-database](https://haacked.com/archive/2005/05/08/3076.aspx) for my site.
+database](https://haacked.com/archive/2005/05/08/haackedcom-is-back-online.aspx/) for my site.
 Later, I played in the most dreadful soccer game ever. We only fielded
 ten players, but the other team only had seven showup to start! Yet,
 they managed to put three in the back of the net by half-time.
@@ -30,4 +30,3 @@ can't complain. But I just did, didn't I. ;)
 UPDATE: I forgot to mention that my office smells like dog piss because
 Twiggy has taken a liking to doing her dirty deed in a particular corner
 of the room. Just lovely.
-

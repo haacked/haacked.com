@@ -1,7 +1,7 @@
 ---
 title: London Terrorist Attack
 date: 2005-07-06 -0800
-tags: []
+tags: [news]
 redirect_from: "/archive/2005/07/05/london-terrorist-attack.aspx/"
 ---
 

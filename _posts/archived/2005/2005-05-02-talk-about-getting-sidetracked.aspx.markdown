@@ -1,7 +1,7 @@
 ---
 title: Talk About Getting Sidetracked
 date: 2005-05-02 -0800
-tags: []
+tags: [code]
 redirect_from: "/archive/2005/05/01/talk-about-getting-sidetracked.aspx/"
 ---
 
@@ -30,16 +30,15 @@ So I now have a customized version of Tallow.exe that will generate
 Guids for components. It will also generate a commented section of
 ComponentRef statements like so.
 
-\<!--\
- \<ComponentRef Id='component0' /\<\
- \<ComponentRef Id='component1' /\>\
- \<ComponentRef Id='component2' /\>\
- --\>
+```html
+<!--
+ <ComponentRef Id='component0' /<
+ <ComponentRef Id='component1' />
+ <ComponentRef Id='component2' />
+ -->
+ ```
 
 You can manually (eww!) cut and paste that section into your main .wxs
 file in order to reference all the components in the generated fragment.
 
 Now back to my initial task...
-
-[Listening to: Daydream - Privilege - A Trip In Trance (CD 2) (3:45)]
-

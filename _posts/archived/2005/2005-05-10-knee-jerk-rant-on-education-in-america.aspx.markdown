@@ -1,7 +1,7 @@
 ---
 title: Knee-Jerk Rant On Education in America
 date: 2005-05-10 -0800
-tags: []
+tags: [commentary]
 redirect_from: "/archive/2005/05/09/knee-jerk-rant-on-education-in-america.aspx/"
 ---
 
@@ -39,6 +39,3 @@ out where these countries are located.
 Rote memorization has its place (like sports statistics), but by
 highschool it should be at a minimum. Ok, rant over. I have to go
 memorize some HTML entity codes.
-
-[Listening to: Just Be - Tiësto - Just Be (8:46)]
-

@@ -1,7 +1,7 @@
 ---
 title: ASP.NET 1.1 database cache dependency (without triggers)
 date: 2005-05-06 -0800
-tags: []
+tags: [aspnet]
 redirect_from: "/archive/2005/05/05/aspnet-11-database-cache-dependency-without-triggers.aspx/"
 ---
 

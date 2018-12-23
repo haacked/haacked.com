@@ -1,7 +1,7 @@
 ---
 title: Submitting Patch Files for a CVS Project
 date: 2005-06-17 -0800
-tags: []
+tags: [source-control]
 redirect_from: "/archive/2005/06/16/submitting-patch-files-for-a-cvs-project.aspx/"
 ---
 

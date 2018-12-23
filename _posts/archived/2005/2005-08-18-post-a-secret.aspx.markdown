@@ -1,7 +1,7 @@
 ---
 title: Post a Secret
 date: 2005-08-18 -0800
-tags: []
+tags: [interesting]
 redirect_from: "/archive/2005/08/17/post-a-secret.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Yes!  Moving from VSS to Subversion
 date: 2005-07-10 -0800
-tags: []
+tags: [source-control]
 redirect_from: "/archive/2005/07/09/yes-moving-from-vss-to-subversion.aspx/"
 ---
 

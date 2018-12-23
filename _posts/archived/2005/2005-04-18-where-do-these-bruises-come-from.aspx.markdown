@@ -1,7 +1,7 @@
 ---
 title: Where Do These Bruises Come From?
 date: 2005-04-18 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2005/04/17/where-do-these-bruises-come-from.aspx/"
 ---
 
@@ -10,7 +10,7 @@ and asked me what happened.
 
 "What happened to what?" I replied?
 
-"You're elbow. It's badly bruised."
+"Your elbow. It's badly bruised."
 
 Sure enough my entire elbow is covered in a dark shade of reddish
 purple. "Huh. How about that. I have no idea." I did go to a party the

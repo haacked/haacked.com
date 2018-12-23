@@ -1,13 +1,13 @@
 ---
 title: Look, Nobody Really Cares That You're A DJ
 date: 2005-05-09 -0800
-tags: []
+tags: [humor,music]
 redirect_from: "/archive/2005/05/08/look-nobody-really-cares-that-youre-a-dj.aspx/"
 ---
 
 [This just cracks me
 up](http://www.thephatphree.com/features.asp?SectionID=3&StoryID=480&LayoutType=).
-Especially after reading \#1 through \#3 and then you get to \#4, I
+Especially after reading #1 through #3 and then you get to #4, I
 can't stop laughing. If you've been these various venues (rave, dance
 club, hip-hop club, etc...), you'll totally get this humor.
 

@@ -1,7 +1,7 @@
 ---
 title: Well That Does It
 date: 2005-08-17 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2005/08/16/well-that-does-it.aspx/"
 ---
 

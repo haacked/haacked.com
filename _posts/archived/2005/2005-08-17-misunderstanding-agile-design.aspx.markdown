@@ -2,7 +2,9 @@
 title: Misunderstanding Agile Design
 date: 2005-08-17 -0800
 tags: [agile]
-redirect_from: "/archive/2005/08/16/misunderstanding-agile-design.aspx/"
+redirect_from:
+  - "/archive/2005/08/16/misunderstanding-agile-design.aspx/"
+  - "/archive/2005/08/18/9536.aspx/"
 ---
 
 Now I like to take shots at myself for producing drivel now and then,

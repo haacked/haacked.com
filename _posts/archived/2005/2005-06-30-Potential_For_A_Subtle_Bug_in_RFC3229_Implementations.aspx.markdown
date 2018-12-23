@@ -1,7 +1,7 @@
 ---
 title: Potential For A Subtle Bug in RFC3229 Implementations
 date: 2005-06-30 -0800
-tags: []
+tags: [rss,subtext]
 redirect_from: "/archive/2005/06/29/Potential_For_A_Subtle_Bug_in_RFC3229_Implementations.aspx/"
 ---
 

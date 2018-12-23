@@ -1,7 +1,7 @@
 ---
 title: Chivas USA vs Osasuna
 date: 2005-03-27 -0800
-tags: []
+tags: [soccer,personal]
 redirect_from: "/archive/2005/03/26/chivas-usa-vs-osasuna.aspx/"
 ---
 

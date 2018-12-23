@@ -1,13 +1,11 @@
 ---
 title: Should Corporations Act Purely on Self Interest?
 date: 2005-04-24 -0800
-tags:
-- company culture
+tags: [culture,leadership]
 redirect_from: "/archive/2005/04/23/should-corporations-act-purely-on-self-interest.aspx/"
 ---
 
-I saw [this
-post](http://www.docuverse.com/blog/donpark/EntryViewPage.aspx?guid=d9fa4326-6ba0-4871-bac0-b3184643f665)
+I saw [this post](http://www.docuverse.com/blog/donpark/EntryViewPage.aspx?guid=d9fa4326-6ba0-4871-bac0-b3184643f665)
 on Don Park's blog...
 
 > My perspective on this latest hot topic is that I think companies
@@ -33,16 +31,14 @@ shareholders? America at large? But it's clear that this bill supports
 values Microsoft already holds dear. Microsoft has in the past supported
 this bill and has shown itself to be progressive in its own policies.
 
-And [Ballmer's
-worry](http://radio.weblogs.com/0001011/stories/2005/04/23/steveBallmersEmailAboutAntidiscriminationBill.html)
+And [Ballmer's worry](http://radio.weblogs.com/0001011/stories/2005/04/23/steveBallmersEmailAboutAntidiscriminationBill.html)
 of discriminating against anti-gay bigots is a real piece of work.
 Here's a snippet.
 
 > What message does the company taking a position send to its employees
 > who have strongly-held beliefs on the opposite side of the issue?
 
-As [Shelley eloquently points
-out](http://weblog.burningbird.net/archives/2005/04/24/gay-rights-and-blue-screen-of-death/),
+As [Shelley eloquently points out](http://weblog.burningbird.net/archives/2005/04/24/gay-rights-and-blue-screen-of-death/),
 this bill doesn't deny rights to others. And the message would have
 already been sent by the fact that Microsoft's own policies are
 reflected in this bill. So if you're worried about the bigots feelings
@@ -54,4 +50,3 @@ Oh, Enron springs to mind, sweat shops, destruction of the environment,
 and countless other examples. Corporations have all the rights of a
 person without many of the implicit responsibilities. Corporations are
 members of the community. It's time they start acting like it.
-

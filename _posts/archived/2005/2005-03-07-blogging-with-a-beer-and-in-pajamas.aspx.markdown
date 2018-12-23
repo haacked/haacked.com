@@ -1,7 +1,7 @@
 ---
 title: Blogging With a Beer And In Pajamas
 date: 2005-03-07 -0800
-tags: []
+tags: [blogging]
 redirect_from: "/archive/2005/03/06/blogging-with-a-beer-and-in-pajamas.aspx/"
 ---
 

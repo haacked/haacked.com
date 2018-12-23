@@ -1,7 +1,7 @@
 ---
 title: Visual Studio.NET New Project Template Folders
 date: 2005-03-30 -0800
-tags: []
+tags: [visualstudio]
 redirect_from: "/archive/2005/03/29/visual-studionet-new-project-template-folders.aspx/"
 ---
 
@@ -10,7 +10,7 @@ wake up every morning in a cold sweat wondering. When you add a new
 project in Visual Studio.NET 2003 (friends call her VS.NET), you get the
 following dialog
 
-![Add New Dialog](/images/AddProjectDialog.gif) \
+![Add New Dialog](/images/AddProjectDialog.gif)
  The beginnings of another bug ridden coding section...
 
 Now looking at that familiar dialog underneath the "Project Types:"
@@ -29,13 +29,15 @@ anything that described how to create your own project type grouping.
 So I did a little digging through the registry and found the following
 registry location:
 
-    HKEY_LOCAL_MACHINE\
-        SOFTWARE\
-            Microsoft\
-                VisualStudio\
-                    7.1\
-                        NewProjectTemplates\
-                            TemplateDirs\
+```
+HKEY_LOCAL_MACHINE\
+    SOFTWARE\
+        Microsoft\
+            VisualStudio\
+                7.1\
+                    NewProjectTemplates\
+                        TemplateDirs\
+```
 
 Just to make sure that adding keys to this location in the registry was
 sufficient, I brashly took Regedit (without even backing up my registry,
@@ -57,4 +59,3 @@ GUID.
 So the next step is to create a VS.NET Setup and Deployment project to
 package my templates and add this registry setting automatically. Hope
 you can sleep peacefully now.
-

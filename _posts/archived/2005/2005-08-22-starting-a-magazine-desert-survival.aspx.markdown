@@ -1,7 +1,7 @@
 ---
 title: 'Starting a Magazine: Desert Survival'
 date: 2005-08-22 -0800
-tags: []
+tags: [humor]
 redirect_from: "/archive/2005/08/21/starting-a-magazine-desert-survival.aspx/"
 ---
 
