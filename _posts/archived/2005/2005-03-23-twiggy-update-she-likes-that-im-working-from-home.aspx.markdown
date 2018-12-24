@@ -1,5 +1,5 @@
 ---
-title: Twiggy Update: She Likes That I'm Working From Home
+title: "Twiggy Update: She Likes That I'm Working From Home"
 date: 2005-03-23 -0800
 tags: [personal,twiggy]
 redirect_from:
@@ -21,6 +21,3 @@ She works very hard to stay in the sunbeam as evidenced by this photo taken two 
 I'm trying to get her to pull her own weight around the house. She eats, sleeps, pees, and poos but doesn't give anything back. So I tried to get her to write some code for me while I went to get a drink, figuring I could give the client a discount for work she does, but this is how I found her when I got back. Lazy dog.
 
 ![Twiggy Sleeps On The Job](/images/TwiggySleepsonTheJob.jpg)
-
-
-
