@@ -1,7 +1,7 @@
 ---
 title: Memorial Day Mud Bath
 date: 2006-05-30 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2006/05/29/MemorialDayMudBath.aspx/"
 ---
 

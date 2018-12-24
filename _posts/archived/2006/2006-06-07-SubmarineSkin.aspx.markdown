@@ -1,7 +1,7 @@
 ---
 title: Submarine Skin
 date: 2006-06-07 -0800
-tags: []
+tags: [subtext]
 redirect_from: "/archive/2006/06/06/SubmarineSkin.aspx/"
 ---
 

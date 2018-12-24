@@ -1,7 +1,7 @@
 ---
 title: I Used To Work For Fun
 date: 2006-07-06 -0800
-tags: []
+tags: [work,personal]
 redirect_from: "/archive/2006/07/05/IUsedToWorkForFun.aspx/"
 ---
 

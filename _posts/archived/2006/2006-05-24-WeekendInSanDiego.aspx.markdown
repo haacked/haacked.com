@@ -1,7 +1,7 @@
 ---
 title: Weekend In San Diego
 date: 2006-05-24 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2006/05/23/WeekendInSanDiego.aspx/"
 ---
 

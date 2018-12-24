@@ -2,7 +2,7 @@
 title: NullReferenceException When Deploying DotNetNuke Could Be An ObjectQualifier
   Discrepancy
 date: 2006-05-17 -0800
-tags: []
+tags: [dnn]
 redirect_from: "/archive/2006/05/16/NullReferenceExceptionWhenDeployingDotNetNukeCouldBeAnObjectQualifierDiscrepancy.aspx/"
 ---
 
@@ -25,10 +25,10 @@ brand new database. I thought maybe I would find some discrepancy in the
 database records. Perhaps I deleted something or other important. After
 the change, I hit the site which invoked the web-based installation
 process. Once that was complete I tried to get a list of records from
-dnn\_PortalAlias and got an error message
+dnn_PortalAlias and got an error message
 `Invalid object name 'dnn_PortalAlias'`. Huh?
 
-Executing `sp_tables` showed there was no *dnn\_PortalAlias* table.
+Executing `sp_tables` showed there was no *dnn_PortalAlias* table.
 Instead, there was a *PortalAlias* table. Aha! I looked in web.config
 and indeed the `ObjectQualifier` value was set to the empty string. So
 how did that change from my development machine to the production
@@ -41,10 +41,10 @@ However, I had assumed that on my local machine, I could simply rename
 *development.config* to web.config for development purposes. I assumed
 that the only differences were in some debug settings. Boy was I wrong!
 
-It turns out that the `ObjectQualifier` setting was set to *dnn\_* in
+It turns out that the `ObjectQualifier` setting was set to *dnn_* in
 *development.config*. This is the value I would expect as this was the
 typical installation I used in previous versions. In any case, I hope
 this saves you time if you happen to run into it. The fix on my
 production server was simply to change the ObjectQualifier value to be
-*dnn\_*.
+*dnn_*.
 
