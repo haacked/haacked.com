@@ -1,7 +1,7 @@
 ---
 title: Beyond Channel 9
 date: 2006-03-06 -0800
-tags: []
+tags: [community,microsoft]
 redirect_from: "/archive/2006/03/05/BeyondChannel9.aspx/"
 ---
 

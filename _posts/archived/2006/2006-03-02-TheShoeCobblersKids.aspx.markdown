@@ -1,7 +1,7 @@
 ---
 title: The Shoe Cobblers Kids
 date: 2006-03-02 -0800
-tags: []
+tags: [meta]
 redirect_from: "/archive/2006/03/01/TheShoeCobblersKids.aspx/"
 ---
 

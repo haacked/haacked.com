@@ -1,7 +1,7 @@
 ---
 title: Finally Pulling Out A Win
 date: 2006-04-13 -0800
-tags: []
+tags: [soccer,personal]
 redirect_from: "/archive/2006/04/12/FinallyPullingOutAWin.aspx/"
 ---
 

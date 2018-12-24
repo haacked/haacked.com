@@ -1,7 +1,7 @@
 ---
 title: Multi-Blog Support In Subtext
 date: 2006-02-23 -0800
-tags: []
+tags: [subtext]
 redirect_from: "/archive/2006/02/22/multi-blogsupportinsubtext.aspx/"
 ---
 

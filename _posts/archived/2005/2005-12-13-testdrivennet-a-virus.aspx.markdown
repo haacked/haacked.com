@@ -1,7 +1,7 @@
 ---
 title: TestDriven.NET a Virus?
 date: 2005-12-13 -0800
-tags: []
+tags: [tools]
 redirect_from: "/archive/2005/12/12/testdrivennet-a-virus.aspx/"
 ---
 

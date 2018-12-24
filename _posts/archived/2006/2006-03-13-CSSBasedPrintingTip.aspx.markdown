@@ -1,7 +1,7 @@
 ---
 title: CSS Based Printing Tip
 date: 2006-03-13 -0800
-tags: []
+tags: [css]
 redirect_from: "/archive/2006/03/12/CSSBasedPrintingTip.aspx/"
 ---
 
@@ -21,8 +21,9 @@ like this:
 
 Make sure you declare the stylesheet properly:
 
-\<link rel="stylesheet" type="text/css" href="print.css" media="print"
-/\>
+```html
+<link rel="stylesheet" type="text/css" href="print.css" media="print" />
+```
 
 And now simply add the css class `noprint` to any elements in your HTML
 you do not want printed as in the simple example below.
@@ -43,4 +44,3 @@ you do not want printed as in the simple example below.
 
 This is useful especially when retrofitting a complicated html page to
 use CSS based printing.
-

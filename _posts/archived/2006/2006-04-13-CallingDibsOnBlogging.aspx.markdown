@@ -1,7 +1,7 @@
 ---
 title: Calling Dibs On Blogging
 date: 2006-04-13 -0800
-tags: []
+tags: [blogging]
 redirect_from: "/archive/2006/04/12/CallingDibsOnBlogging.aspx/"
 ---
 

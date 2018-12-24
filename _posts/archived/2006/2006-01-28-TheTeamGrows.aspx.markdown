@@ -1,7 +1,7 @@
 ---
 title: The Team Grows
 date: 2006-01-28 -0800
-tags: []
+tags: [consulting,work]
 redirect_from: "/archive/2006/01/27/TheTeamGrows.aspx/"
 ---
 

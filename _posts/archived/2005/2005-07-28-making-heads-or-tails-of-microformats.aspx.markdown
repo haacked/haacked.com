@@ -1,7 +1,7 @@
 ---
 title: Making Heads or Tails of Microformats
 date: 2005-07-28 -0800
-tags: [web]
+tags: [microformats]
 redirect_from: "/archive/2005/07/27/making-heads-or-tails-of-microformats.aspx/"
 ---
 

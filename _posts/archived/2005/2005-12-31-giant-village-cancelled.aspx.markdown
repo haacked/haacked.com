@@ -1,7 +1,7 @@
 ---
 title: Giant Village Cancelled
 date: 2005-12-31 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2005/12/30/giant-village-cancelled.aspx/"
 ---
 

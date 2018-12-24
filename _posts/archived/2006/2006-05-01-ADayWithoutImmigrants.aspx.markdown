@@ -1,7 +1,7 @@
 ---
 title: A Day Without Immigrants
 date: 2006-05-01 -0800
-tags: []
+tags: [politics,personal]
 redirect_from: "/archive/2006/04/30/ADayWithoutImmigrants.aspx/"
 ---
 

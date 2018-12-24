@@ -1,7 +1,7 @@
 ---
 title: Playing Soccer Against Former National Team Players
 date: 2006-02-09 -0800
-tags: []
+tags: [soccer,personal]
 redirect_from: "/archive/2006/02/08/PlayingSoccerAgainstFormerNationalTeamPlayers.aspx/"
 ---
 

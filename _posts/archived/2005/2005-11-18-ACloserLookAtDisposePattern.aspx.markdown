@@ -1,7 +1,7 @@
 ---
 title: A Closer Look At The Dispose Pattern
 date: 2005-11-18 -0800
-tags: [patterns,csharp,dotnet]
+tags: [patterns,csharp,dotnet,dispose]
 redirect_from: "/archive/2005/11/17/ACloserLookAtDisposePattern.aspx/"
 ---
 

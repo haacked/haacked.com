@@ -1,7 +1,7 @@
 ---
 title: Refactoring Handles Unanticipated Changes
 date: 2005-12-04 -0800
-tags: []
+tags: [patterns,refactoring]
 redirect_from: "/archive/2005/12/03/refactoring-handles-unanticipated-changes.aspx/"
 ---
 

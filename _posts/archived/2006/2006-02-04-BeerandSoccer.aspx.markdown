@@ -1,7 +1,7 @@
 ---
 title: Beer and Soccer
 date: 2006-02-04 -0800
-tags: []
+tags: [soccer,personal]
 redirect_from: "/archive/2006/02/03/BeerandSoccer.aspx/"
 ---
 

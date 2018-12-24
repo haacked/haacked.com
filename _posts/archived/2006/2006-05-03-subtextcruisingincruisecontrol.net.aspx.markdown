@@ -1,7 +1,7 @@
 ---
 title: Subtext Cruising In CruiseControl.NET
 date: 2006-05-03 -0800
-tags: []
+tags: [ci,subtext]
 redirect_from: "/archive/2006/05/02/subtextcruisingincruisecontrol.net.aspx/"
 ---
 

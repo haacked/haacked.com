@@ -1,7 +1,7 @@
 ---
 title: The Troll Cap
 date: 2006-02-05 -0800
-tags: []
+tags: [web]
 redirect_from: "/archive/2006/02/04/TheTrollCap.aspx/"
 ---
 

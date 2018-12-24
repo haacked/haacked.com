@@ -1,7 +1,7 @@
 ---
 title: On Religious Wars in Software
 date: 2006-02-08 -0800
-tags: []
+tags: [software,commentary]
 redirect_from: "/archive/2006/02/07/OnReligiousWarsinSoftware.aspx/"
 ---
 

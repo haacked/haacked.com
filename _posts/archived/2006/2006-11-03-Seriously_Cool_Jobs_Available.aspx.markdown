@@ -1,9 +1,7 @@
 ---
 title: Seriously Cool Jobs Available
 date: 2006-11-03 -0800
-tags:
-- code
-- oss
+tags: [oss,subtext]
 redirect_from: "/archive/2006/11/02/Seriously_Cool_Jobs_Available.aspx/"
 ---
 

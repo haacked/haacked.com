@@ -1,7 +1,7 @@
 ---
 title: Happy New Years
 date: 2005-12-31 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2005/12/30/happy-new-years.aspx/"
 ---
 

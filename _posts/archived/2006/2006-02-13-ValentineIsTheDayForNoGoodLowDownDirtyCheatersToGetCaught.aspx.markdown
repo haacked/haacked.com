@@ -1,7 +1,7 @@
 ---
 title: Valentine Is The Day For No Good Low Down Dirty Cheaters To Get Caught
 date: 2006-02-13 -0800
-tags: []
+tags: [interesting]
 redirect_from: "/archive/2006/02/12/ValentineIsTheDayForNoGoodLowDownDirtyCheatersToGetCaught.aspx/"
 ---
 

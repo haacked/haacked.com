@@ -1,7 +1,7 @@
 ---
 title: Blog Moved Off Of WebHost4Life
 date: 2006-04-19 -0800
-tags: []
+tags: [meta]
 redirect_from: "/archive/2006/04/18/BlogMovedOffOfWebHost4Life.aspx/"
 ---
 

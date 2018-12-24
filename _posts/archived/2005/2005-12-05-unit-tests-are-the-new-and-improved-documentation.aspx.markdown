@@ -1,7 +1,7 @@
 ---
 title: Unit Tests Are The New And Improved Documentation
 date: 2005-12-05 -0800
-tags: []
+tags: [tdd]
 redirect_from: "/archive/2005/12/04/unit-tests-are-the-new-and-improved-documentation.aspx/"
 ---
 
@@ -20,7 +20,7 @@ does and what they are used for, but not how to use it. There are
 several ways that I see unit tests as better than your traditional
 documentation.
 
-**Unit Tests Are Closer To The Code**\
+**Unit Tests Are Closer To The Code** 
  First of all, unlike traditional documentation sitting in a binder or
 word doc on the corporate network, your unit tests are typically in a
 project within the same solution the unit tests test. It is even
@@ -29,7 +29,7 @@ personally avoid this approach. So it isn’t as close to the code as the
 code itself, but it is far closer than a word doc sitting on the network
 somewhere.
 
-**Unit Tests Are Hard to Ignore**\
+**Unit Tests Are Hard to Ignore** 
  Once you’ve adopted unit testing and made it a habit, having unit tests
 get out of synch with your code is hard to ignore. For one thing, unlike
 documentation, unit tests compile. If they don’t compile, well you know
@@ -37,7 +37,7 @@ they are out of date. Secondly, if the unit tests compile, but do not
 pass, then you know they are out of date. Documentation doesn’t provide
 any sort of notice.
 
-**Unit Tests Are Written As You Go**\
+**Unit Tests Are Written As You Go** 
  The holy grail of documentation is to write it as you go, but you
 rarely see that in practice. However in places I have worked that have
 adopted Test Driven Development, I have not seen this same problem with
@@ -46,7 +46,7 @@ the development process. In part, once a developer sees the value in
 unit tests, it is not hard to integrate it into his/her programming
 style.
 
-**The Question of Discipline**\
+**The Question of Discipline** 
  Many who question or are unfamiliar with unit testing assume that it
 requires a lot of discipline and will be the first thing to fall out
 during tight deadlines. But this isn’t necessarily true when TDD is

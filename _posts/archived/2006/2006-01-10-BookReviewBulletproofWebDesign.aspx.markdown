@@ -1,7 +1,7 @@
 ---
 title: 'Book Review: Bulletproof Web Design'
 date: 2006-01-10 -0800
-tags: []
+tags: [web,design]
 redirect_from: "/archive/2006/01/09/BookReviewBulletproofWebDesign.aspx/"
 ---
 

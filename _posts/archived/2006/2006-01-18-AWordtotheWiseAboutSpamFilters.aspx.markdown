@@ -1,7 +1,7 @@
 ---
 title: A Word to the Wise About Spam Filters
 date: 2006-01-18 -0800
-tags: []
+tags: [spam]
 redirect_from: "/archive/2006/01/17/AWordtotheWiseAboutSpamFilters.aspx/"
 ---
 

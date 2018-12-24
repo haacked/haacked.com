@@ -1,15 +1,15 @@
 ---
 title: Implementing CSS Based Printing
 date: 2006-03-09 -0800
-tags: []
+tags: [css]
 redirect_from: "/archive/2006/03/08/ImplementingCSSBasedPrinting.aspx/"
 ---
 
 I don’t know about you, but when I find something wordy but really worth
 reading on the web, I print it out. Sure, I could try reading it on my
 tablet, but do you really want to deal with your tablet while reading in
-the...er... “office” if you know what I mean? \*wink wink\* \*nudge
-nudge\*
+the...er... “office” if you know what I mean?   *wink wink  *   *nudge
+nudge  *
 
 Unfortunately, the experience of printing many blog posts typically
 includes an ink draining header graphic, an unecessary space wasting

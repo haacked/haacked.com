@@ -1,13 +1,13 @@
 ---
 title: Watching The MLS Is Like Self Flaggelation
 date: 2006-04-23 -0800
-tags: []
+tags: [soccer,personal]
 redirect_from: "/archive/2006/04/22/WatchingTheMLSIsLikeSelfFlaggelation.aspx/"
 ---
 
 This weekend I went to see the Los Angeles Galaxy play with my wife and
 some friends. What a disappointing game that was! Despite having
-discount tickets (only \$10) we felt totally ripped off. During the
+discount tickets (only $10) we felt totally ripped off. During the
 whole game, my teammate and I were joking that “Ronaldinho would’ve made
 that play.”
 

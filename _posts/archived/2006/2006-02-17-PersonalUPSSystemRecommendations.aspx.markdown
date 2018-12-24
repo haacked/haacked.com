@@ -1,7 +1,7 @@
 ---
 title: Personal UPS System Recommendations
 date: 2006-02-17 -0800
-tags: []
+tags: [gadgets]
 redirect_from: "/archive/2006/02/16/PersonalUPSSystemRecommendations.aspx/"
 ---
 
@@ -13,11 +13,11 @@ just before Sidney Bristow busts his head with her fist.
 
 Fortunately no commandos busted down the door to my place. The
 unfortunate part is that my computer was upstairs doing its computing
-thing. \*Poof!\* Data lost. It seems like we have these outtages every
+thing.   *Poof!  * Data lost. It seems like we have these outtages every
 other month or so, which is too much for my liking.
 
 Anyways, on to my point. Does anyone have any good recommendations for
-UPS systems for personal use? I would like to stay around the \$50
+UPS systems for personal use? I would like to stay around the   $50
 range, but if you know of one that can signal the computer to go into
 hibernation, I might be open to spending more.
 

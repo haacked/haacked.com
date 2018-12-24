@@ -1,7 +1,7 @@
 ---
 title: CSS URL References And URL Rewriting
 date: 2006-01-12 -0800
-tags: []
+tags: [css,subtext]
 redirect_from: "/archive/2006/01/11/CSSURLReferencesAndURLRewriting.aspx/"
 ---
 
@@ -10,15 +10,12 @@ virtual paths over relative paths since they feel safer to use. For
 example, when applying a background image via CSS, I will tend to do
 this:
 
-``
-
+```css
 body
-
 {
-
     background: url('/images/bg.gif');
-
 }
+```
 
 My thinking was that since much of the code I write employs URL
 rewriting and Masterpages, I never know what the url of the page will be
@@ -29,15 +26,12 @@ this code in a virtual directory. For example, I have Subtext running in
 the virtual directory `/Subtext.Web`. So I end up changing the CSS like
 so:
 
-``
-
+```css
 body
-
 {
-
     background: url('**/Subtext.Web**/images/bg.gif');
-
 }
+```
 
 Thus when I deploy to my web server, which is hosted on a root website,
 I have to remove the /Subtext.Web part. Now if I had read the CSS spec
@@ -49,15 +43,12 @@ more closely, I would have noticed the following line:
 Thus, the correct CSS in my case (assuming my css file is in the root of
 the virtual application) is...
 
-``
-
+```css
 body
-
 {
-
     background: url('images/bg.gif');
-
 }
+```
 
 Now I have true portability between my dev box and my production box.
 

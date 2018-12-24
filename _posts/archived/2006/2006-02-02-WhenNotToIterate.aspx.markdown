@@ -1,7 +1,7 @@
 ---
 title: When Not To Iterate
 date: 2006-02-02 -0800
-tags: []
+tags: [product-management,software]
 redirect_from: "/archive/2006/02/01/WhenNotToIterate.aspx/"
 ---
 

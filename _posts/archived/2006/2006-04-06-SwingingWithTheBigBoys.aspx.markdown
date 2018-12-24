@@ -1,7 +1,7 @@
 ---
 title: Swinging With The Big Boys
 date: 2006-04-06 -0800
-tags: []
+tags: [meta]
 redirect_from: "/archive/2006/04/05/SwingingWithTheBigBoys.aspx/"
 ---
 

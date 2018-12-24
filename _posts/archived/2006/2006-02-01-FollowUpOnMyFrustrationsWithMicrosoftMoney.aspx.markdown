@@ -1,7 +1,7 @@
 ---
 title: Follow Up On My Frustrations With Microsoft Money
 date: 2006-02-01 -0800
-tags: []
+tags: [tools]
 redirect_from: "/archive/2006/01/31/FollowUpOnMyFrustrationsWithMicrosoftMoney.aspx/"
 ---
 

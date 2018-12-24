@@ -1,7 +1,7 @@
 ---
 title: "Scientist.NET 2.0 Release"
 date: 2018-06-05 -0800
-tags: [github,csharp,dotnet,scientist]
+tags: [github,csharp,dotnet,scientist,refactoring]
 ---
 
 I have some big news! Scientist.NET 2.0 is now available on NuGet.

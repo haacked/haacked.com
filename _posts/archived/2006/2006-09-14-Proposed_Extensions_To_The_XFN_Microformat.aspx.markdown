@@ -1,7 +1,7 @@
 ---
 title: Proposed Extensions To The XFN Microformat
 date: 2006-09-14 -0800
-tags: []
+tags: [microformats]
 redirect_from: "/archive/2006/09/13/Proposed_Extensions_To_The_XFN_Microformat.aspx/"
 ---
 

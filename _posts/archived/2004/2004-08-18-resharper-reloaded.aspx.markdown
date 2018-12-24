@@ -26,8 +26,8 @@ their intellisense listed all overloads when I just want a method list
 
 > This is actually configured by an option but a weird point is that the
 > default setting is exactly as you want (and as it is in VS), maybe you
-> changed it occasinally? To configure that, go to ReSharper \> Options
-> \> Code completion and uncheck "Show signatures" checkbox.
+> changed it occasinally? To configure that, go to ReSharper `>` Options
+> `>` Code completion and uncheck "Show signatures" checkbox.
 
 Excellent! Much better! Finally there's the [pet
 peeve](https://haacked.com/archive/2004/08/11/913.aspx) I mentioned

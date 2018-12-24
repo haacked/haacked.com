@@ -1,7 +1,7 @@
 ---
 title: My Vain Dog
 date: 2006-01-06 -0800
-tags: []
+tags: [personal,twiggy]
 redirect_from: "/archive/2006/01/05/my-vain-dog.aspx/"
 ---
 

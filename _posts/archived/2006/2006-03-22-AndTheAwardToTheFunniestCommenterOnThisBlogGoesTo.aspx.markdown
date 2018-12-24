@@ -1,14 +1,13 @@
 ---
 title: And The Award To The Funniest Commenter On This Blog Goes To
 date: 2006-03-22 -0800
-tags: []
+tags: [meta,humor]
 redirect_from: "/archive/2006/03/21/AndTheAwardToTheFunniestCommenterOnThisBlogGoesTo.aspx/"
 ---
 
 My Wife! The comedienne. Honey, still don’t quit your day job.
 
-**Exhibit One:** My [post on
-Mix06](https://haacked.com/archive/2006/03/15/SeeYouAtMix06.aspx "See You At Mix06")
+**Exhibit One:** My [post on Mix06](https://haacked.com/archive/2006/03/15/SeeYouAtMix06.aspx "See You At Mix06")
 in which I mentioned...
 
 > Maybe, if things are going well, I might have a date with destiny at
@@ -16,7 +15,7 @@ in which I mentioned...
 
 Her comment...
 
-> destiny called. she now works at the crazy horse. ; )
+> destiny called. she now works at the crazy horse. ;)
 
 **Exhibit Two:** My recent and slightly rambling [post on
 Lo-REST](https://haacked.com/archive/2006/03/22/NoRESTInLo-REST.aspx "No REST in Lo-REST")

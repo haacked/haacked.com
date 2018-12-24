@@ -1,7 +1,7 @@
 ---
 title: The Kinney Redesign
 date: 2006-04-21 -0800
-tags: []
+tags: [design]
 redirect_from: "/archive/2006/04/20/TheKinneyRedesign.aspx/"
 ---
 

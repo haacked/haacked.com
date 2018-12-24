@@ -1,7 +1,7 @@
 ---
 title: Blood And Guts When CodingHorror Visits Haacked
 date: 2006-05-04 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2006/05/03/BloodAndGutsWhenCodingHorrorVisitsHaacked.aspx/"
 ---
 

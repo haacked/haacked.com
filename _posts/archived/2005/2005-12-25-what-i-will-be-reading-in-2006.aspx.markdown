@@ -1,7 +1,7 @@
 ---
 title: What I Will Be Reading In 2006
 date: 2005-12-25 -0800
-tags: []
+tags: [books,web,design,css]
 redirect_from: "/archive/2005/12/24/what-i-will-be-reading-in-2006.aspx/"
 ---
 

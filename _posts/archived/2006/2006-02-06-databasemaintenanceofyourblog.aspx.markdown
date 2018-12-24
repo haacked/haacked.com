@@ -1,7 +1,7 @@
 ---
 title: Database Maintenance Of Your Blog
 date: 2006-02-06 -0800
-tags: []
+tags: [sql,dba]
 redirect_from: "/archive/2006/02/05/databasemaintenanceofyourblog.aspx/"
 ---
 
@@ -26,103 +26,65 @@ also tracks that data, I wrote a script to delete them for Subtext. Note
 that the following SQL script is pretty aggressive, so use at your own
 risk. You might even think of some search strings that I missed.
 
-DELETE FROM subtext\_Referrals
-
+```sql
+DELETE FROM subtext_Referrals
 WHERE UrlID IN
-
 (
+  SELECT UrlID
 
-  SELECT UrlID
-
-  FROM subtext\_URLs
-
-  WHERE Url LIKE 'http://google.%'
-
-    OR Url LIKE 'http://%.yahoo.%'
-
-    OR Url LIKE 'http://yahoo.%'
-
-    OR Url LIKE '%/Search/%'
-
-    OR Url LIKE '%/Search?%'
-
-    OR Url LIKE 'http://search.%'
-
-    OR Url LIKE 'http://bloglines.%'
-
+  FROM subtext_URLs
+   WHERE Url LIKE 'http://google.%'
+   OR Url LIKE 'http://%.yahoo.%'
+   OR Url LIKE 'http://yahoo.%'
+   OR Url LIKE '%/Search/%'
+   OR Url LIKE '%/Search?%'
+   OR Url LIKE 'http://search.%'
+    OR Url LIKE 'http://bloglines.%'
 )
 
- 
-
-DELETE FROM subtext\_URLs
-
+DELETE FROM subtext_URLs
 WHERE Url LIKE 'http://google.%'
-
-  OR Url LIKE 'http://%.yahoo.%'
-
-  OR Url LIKE 'http://yahoo.%'
-
-  OR Url LIKE '%/Search/%'
-
-  OR Url LIKE '%/Search?%'
-
-  OR Url LIKE 'http://search.%'
-
-  OR Url LIKE 'http://bloglines.%'
+  OR Url LIKE 'http://%.yahoo.%'
+  OR Url LIKE 'http://yahoo.%'
+  OR Url LIKE '%/Search/%'
+  OR Url LIKE '%/Search?%'
+  OR Url LIKE 'http://search.%'
+  OR Url LIKE 'http://bloglines.%'
+```
 
 I then ran the same commands that Scott did after reading his post.
 
-DBCC DBREINDEX(subtext\_URLs)
-
-DBCC DBREINDEX(subtext\_Referrals)
-
+```sql
+DBCC DBREINDEX(subtext_URLs)
+DBCC DBREINDEX(subtext_Referrals)
 DBCC SHRINKDATABASE(SubtextData)
+```
 
-In order to run those commands on .TEXT, just replace the “subtext\_”
-prefix with “blog\_” and you are set.
+In order to run those commands on .TEXT, just replace the “subtext_” prefix with “blog_” and you are set.
 
 Now I haven’t tested this, but I imagine the corresponding script for
 Community Server would be the following based on its published schema.
 
-DELETE FROM cs\_Referrals
-
+```sql
+DELETE FROM cs_Referrals
 WHERE UrlID IN
-
 (
-
-    SELECT UrlID FROM cs\_Urls
-
-    WHERE Url LIKE 'http://google.%'
-
-      OR Url LIKE 'http://%.yahoo.%'
-
-      OR Url LIKE 'http://yahoo.%'
-
-      OR UrlLIKE '%/Search/%'
-
-      OR Url LIKE '%/Search?%'
-
-      OR Url LIKE 'http://search.%'
-
-      OR Url LIKE 'http://bloglines.%'
-
+  SELECT UrlID FROM cs_Urls
+  WHERE Url LIKE 'http://google.%'
+    OR Url LIKE 'http://%.yahoo.%'
+    OR Url LIKE 'http://yahoo.%'
+    OR UrlLIKE '%/Search/%'
+    OR Url LIKE '%/Search?%'
+    OR Url LIKE 'http://search.%'
+    OR Url LIKE 'http://bloglines.%'
 )
 
- 
-
-DELETE FROM cs\_Urls
-
+DELETE FROM cs_Urls
 WHERE Url LIKE 'http://google.%'
-
-  OR Url LIKE 'http://%.yahoo.%'
-
-  OR Url LIKE 'http://yahoo.%'
-
-  OR UrlLIKE '%/Search/%'
-
-  OR UrlLIKE '%/Search?%'
-
-  OR UrlLIKE 'http://search.%'
-
-  OR UrlLIKE 'http://bloglines.%'
-
+  OR Url LIKE 'http://%.yahoo.%'
+  OR Url LIKE 'http://yahoo.%'
+  OR UrlLIKE '%/Search/%'
+  OR UrlLIKE '%/Search?%'
+  OR UrlLIKE 'http://search.%'
+  OR UrlLIKE 'http://bloglines.%'
+```

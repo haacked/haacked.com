@@ -1,7 +1,7 @@
 ---
 title: Is It A Hate Crime If It Happens In An Online Game
 date: 2006-01-27 -0800
-tags: []
+tags: [gaming]
 redirect_from: "/archive/2006/01/26/IsItAHateCrimeIfItHappensInAnOnlineGame.aspx/"
 ---
 

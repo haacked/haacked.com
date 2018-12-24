@@ -1,7 +1,7 @@
 ---
 title: Stop The Window.Onload Madness
 date: 2006-04-06 -0800
-tags: []
+tags: [javascript]
 redirect_from: "/archive/2006/04/05/StopTheWindow.OnloadMadness.aspx/"
 ---
 
@@ -22,7 +22,7 @@ Ok, a show of hands (and I have been guilty of this as well). How many
 of you have written code like this to handle the onload event in
 javascript within a .js file?
 
-```csharp
+```js
 function init()
 {
 }
@@ -60,7 +60,7 @@ original method along with the method you are attempting to attach.
 
 Here is a snippet demonstrating this technique.
 
-```csharp
+```js
 function highlightXFNLinks()
 {
   // Does stuff...

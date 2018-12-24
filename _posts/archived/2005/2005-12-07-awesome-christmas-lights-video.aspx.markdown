@@ -1,7 +1,7 @@
 ---
 title: Awesome Christmas Lights Video
 date: 2005-12-07 -0800
-tags: []
+tags: [interesting]
 redirect_from: "/archive/2005/12/06/awesome-christmas-lights-video.aspx/"
 ---
 

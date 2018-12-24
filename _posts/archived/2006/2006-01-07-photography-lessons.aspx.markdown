@@ -1,7 +1,7 @@
 ---
 title: Photography Lessons
 date: 2006-01-07 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2006/01/06/photography-lessons.aspx/"
 ---
 

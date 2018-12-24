@@ -1,7 +1,7 @@
 ---
 title: Introduction To Microformats Article
 date: 2006-05-11 -0800
-tags: []
+tags: [microformats]
 redirect_from: "/archive/2006/05/10/IntroductionToMicroformatsArticle.aspx/"
 ---
 

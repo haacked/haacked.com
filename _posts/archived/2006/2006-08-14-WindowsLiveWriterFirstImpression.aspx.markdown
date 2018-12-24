@@ -1,7 +1,7 @@
 ---
 title: Windows Live Writer First Impression
 date: 2006-08-14 -0800
-tags: []
+tags: [tools]
 redirect_from: "/archive/2006/08/13/WindowsLiveWriterFirstImpression.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Zidane Possibly Moving To Los Angeles
 date: 2006-04-29 -0800
-tags: []
+tags: [soccer]
 redirect_from: "/archive/2006/04/28/ZidanePossiblyMovingToLosAngeles.aspx/"
 ---
 

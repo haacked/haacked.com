@@ -1,7 +1,7 @@
 ---
 title: Crosswalk Design
 date: 2005-11-29 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2005/11/28/crosswalk-design.aspx/"
 ---
 

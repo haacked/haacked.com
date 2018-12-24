@@ -1,7 +1,7 @@
 ---
 title: The On10 Pregnant Photo
 date: 2006-03-23 -0800
-tags: []
+tags: [community]
 redirect_from: "/archive/2006/03/22/TheOn10PregnantPhoto.aspx/"
 ---
 

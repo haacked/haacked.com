@@ -1,7 +1,7 @@
 ---
 title: How I Pimped My Desktop
 date: 2006-02-23 -0800
-tags: []
+tags: [tech]
 redirect_from: "/archive/2006/02/22/HowIPimpedMyDesktop.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Live Comment Preview In Three Easy Steps
 date: 2006-03-13 -0800
-tags: []
+tags: [aspnet,subtext]
 redirect_from: "/archive/2006/03/12/LiveCommentPreviewInThreeEasySteps.aspx/"
 ---
 
@@ -31,9 +31,11 @@ The `textarea` is of course the form input into which the user enters a
 comment. In ASP.NET it would be a `TextBox` control with the `TextMode`
 property set to `MultiLine` like so:
 
-\<asp:TextBox id="tbComment" runat="server"\
- Rows="10" Columns="40" width="100%" Height="193px"\
-TextMode="MultiLine" class="livepreview"\>\</asp:TextBox\>
+```html
+  <asp:TextBox id="tbComment" runat="server"  
+ Rows="10" Columns="40" width="100%" Height="193px"  
+TextMode="MultiLine" class="livepreview"  >  </asp:TextBox  >
+```
 
 The `<div>` is the tag used to display the preview. There is a good
 reason to choose a div as opposed to allowing a `<p>` which I will talk
@@ -50,6 +52,7 @@ Well not exactly. I fibbed just slightly. There is actually a fourth
 step for the discriminating blog author. If you crack open the script,
 you’ll notice the following section on top:
 
+```js
     var subtextAllowedHtmlTags = new Array(7);
     subtextAllowedHtmlTags[0] = 'a';
     subtextAllowedHtmlTags[1] = 'b';
@@ -58,6 +61,7 @@ you’ll notice the following section on top:
     subtextAllowedHtmlTags[4] = 'i';
     subtextAllowedHtmlTags[5] = 'em';
     subtextAllowedHtmlTags[6] = 'u';
+```
 
 In the next version of
 [Subtext](http://subtextproject.com/ "Subtext Website"), that snippet is

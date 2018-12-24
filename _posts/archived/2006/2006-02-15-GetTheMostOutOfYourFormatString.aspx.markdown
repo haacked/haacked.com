@@ -1,18 +1,19 @@
 ---
 title: Get The Most Out Of Your Format String
 date: 2006-02-15 -0800
-tags: []
+tags: [dotnet]
 redirect_from: "/archive/2006/02/14/GetTheMostOutOfYourFormatString.aspx/"
 ---
 
 I was reviewing some code when I ran into code that fit this pattern all
 over the place (simplified to make a point).
 
-string format = "/comments/{0}/{1}.aspx\#";
-
+```csharp
+string format = "/comments/{0}/{1}.aspx  #";
 string url = String.Format(CultureInfo.InvariantCulture, format +
 entity.Id, entity.ParentID, entity.Date.ToString("yyyy/MM/dd",
-CultureInfo.InvariantCulture));
+CultureInfo.InvariantCulture));-
+```
 
 There are a couple things I want you to notice here. The first is
 concatenation of the entity id to the end of the format string.
@@ -32,7 +33,7 @@ the full power of format strings that can be passed to the
 `String.Format` method. It is possible to get all the formatting
 information in a single string. Here is how I rewrote this.
 
-string format = "/comments/{0:yyyy/MM/dd}/{1}.aspx\#{2}";
+string format = "/comments/{0:yyyy/MM/dd}/{1}.aspx  #{2}";
 
 string url = String.Format(CultureInfo.InvariantCulture, format,
 entity.Date, entity.ParentId, entity.Id);

@@ -1,7 +1,7 @@
 ---
 title: Security Argument Against Homogeneity
 date: 2006-05-04 -0800
-tags: []
+tags: [security]
 redirect_from: "/archive/2006/05/03/SecurityArgumentAgainstHomogeneity.aspx/"
 ---
 

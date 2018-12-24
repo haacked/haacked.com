@@ -1,7 +1,7 @@
 ---
 title: Save Your Visual Studio 2003 Settings
 date: 2006-02-18 -0800
-tags: []
+tags: [visualstudio]
 redirect_from: "/archive/2006/02/17/SaveYourVisualStudio2003Settings.aspx/"
 ---
 

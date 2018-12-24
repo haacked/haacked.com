@@ -1,7 +1,7 @@
 ---
 title: Adios Suckers. We're Packed and Ready to Go.
 date: 2005-11-18 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2005/11/17/adios-suckers-were-packed-and-ready-to-go.aspx/"
 ---
 
@@ -25,16 +25,12 @@ internet cafe. I might login to delete comment spam.
 *P.S. While I’m gone, be sure to read some of my latest posts and let me
 know what you think.*
 
-**
+- [A Closer Look At The Dispose
+  Pattern](/archive/2005//11/18/ACloserLookAtDisposePattern.aspx)
+- [Defining a Contract Is
+  Hard](/archive/2005/11/17/DefiningAContractIsHard.aspx)
+- [DevSource Article on
+  Exceptions](/archive/2005/11/17/DevSourceArticleOnExceptions.aspx)
 
--   [A Closer Look At The Dispose
-    Pattern](/archive/2005//11/18/ACloserLookAtDisposePattern.aspx)
--   [Defining a Contract Is
-    Hard](/archive/2005/11/17/DefiningAContractIsHard.aspx)
--   [DevSource Article on
-    Exceptions](/archive/2005/11/17/DevSourceArticleOnExceptions.aspx)
-
-If you start to miss me, just click on [February
-2004](/archive/2004/02.aspx) to the right and start from the beginning
-as if I never left. ;)
+If you start to miss me, just click on [the archives](/archives/) and read from the beginning as if I never left. ;)
 

@@ -1,7 +1,7 @@
 ---
 title: On10 Shows Potential
 date: 2006-03-13 -0800
-tags: []
+tags: [community]
 redirect_from: "/archive/2006/03/12/On10ShowsPotential.aspx/"
 ---
 

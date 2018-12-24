@@ -1,7 +1,7 @@
 ---
 title: UML Is Chinese To Me
 date: 2006-04-15 -0800
-tags: []
+tags: [software,patterns]
 redirect_from: "/archive/2006/04/14/UMLIsChineseToMe.aspx/"
 ---
 

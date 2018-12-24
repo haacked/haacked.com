@@ -1,7 +1,7 @@
 ---
 title: I Must Be Trustworthy
 date: 2006-01-11 -0800
-tags: []
+tags: [meta]
 redirect_from: "/archive/2006/01/10/IMustBeTrustworthy.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: PageParser.GetCompiledPageInstance Weirdness When Debug Set To False In Web.config
 date: 2006-05-03 -0800
-tags: []
+tags: [aspnet]
 redirect_from: "/archive/2006/05/02/PageParser.GetCompiledPageInstanceWeirdnessWhenDebugSetToFalseInWeb.config.aspx/"
 ---
 
@@ -37,7 +37,7 @@ In the initial request to the Subtext root, the values for those
 parameters on my local machine are:
 
 -   virtualPath = "http://localhost/Subtext.Web/Default.aspx"
--   inputFile = "c:\\projects\\Subtext.Web\\DTP.aspx"
+-   inputFile = "c:\projects\Subtext.Web\DTP.aspx"
 -   context = (the current context passed in by the ASP.NET runtime)
 
 The interesting thing to note is that there is an actual `aspx` file
