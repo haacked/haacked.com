@@ -1,11 +1,7 @@
 ---
 title: Razor Donut Caching
 date: 2011-11-26 -0800
-tags:
-- aspnet
-- aspnetmvc
-- code
-- razor
+tags: [aspnetmvc,razor,caching]
 redirect_from: "/archive/2011/11/25/razor-donut-caching.aspx/"
 ---
 

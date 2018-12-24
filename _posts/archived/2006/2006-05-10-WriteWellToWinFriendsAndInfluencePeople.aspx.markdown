@@ -1,7 +1,7 @@
 ---
 title: Write Well To Win Friends And Influence People
 date: 2006-05-10 -0800
-tags: []
+tags: [writing]
 redirect_from: "/archive/2006/05/09/WriteWellToWinFriendsAndInfluencePeople.aspx/"
 ---
 

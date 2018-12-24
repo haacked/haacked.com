@@ -1,7 +1,7 @@
 ---
 title: It's All About The Party Mode!
 date: 2006-05-11 -0800
-tags: []
+tags: [interesting]
 redirect_from: "/archive/2006/05/10/ItsAllAboutThePartyMode.aspx/"
 ---
 
@@ -19,7 +19,7 @@ lights, laser, LED screens, music server, voice activation, blacklights,
 fog machine, etc etc...
 
 Scroll down to see a couple videos they post of the setup in action. Now
-all they have to do to complete the club experience is charge \$5 for a
-bottle of water and \$12 for a crappily mixed drink in a plastic cup.
+all they have to do to complete the club experience is charge $5 for a
+bottle of water and $12 for a crappily mixed drink in a plastic cup.
 Brilliant!
 

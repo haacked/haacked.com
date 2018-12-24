@@ -1,7 +1,7 @@
 ---
 title: So You Want To Run A Business - Payroll Tax Breakdown
 date: 2006-05-10 -0800
-tags: []
+tags: [consulting,entrepeneurship]
 redirect_from: "/archive/2006/05/09/SoYouWantToRunABusinessPayrollTaxBreakdown.aspx/"
 ---
 
@@ -29,18 +29,17 @@ State of CA. This changes.
 
 #### Some Notes:
 
-Social Security has a wage base limit of \$94,200. So if an employee
+Social Security has a wage base limit of $94,200. So if an employee
 makes more than that (including bonuses etc...), the employer will only
-be taxed 6.2% of \$94,200.
+be taxed 6.2% of $94,200.
 
 Medicare has no wage based limit.
 
-The last two taxes are only taxed on the first \$7000 of wages per
-employee per year. So the employer pays 3.4% of \$7000 for each employee
-assuming each makes \$7000 or more a year.
+The last two taxes are only taxed on the first $7000 of wages per
+employee per year. So the employer pays 3.4% of $7000 for each employee
+assuming each makes $7000 or more a year.
 
 So make sure these figure into your cash-flow estimates. Also, don’t
 forget that by law, most companies are required to carry Workman’s
 compensation insurance. That will cost you a small chunk of change per
 year as well.
-
