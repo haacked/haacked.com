@@ -1,7 +1,7 @@
 ---
 title: SearchDotNet.com
 date: 2006-10-25 -0800
-tags: []
+tags: [dotnet]
 redirect_from: "/archive/2006/10/24/SearchDotNet.com.aspx/"
 ---
 
@@ -20,7 +20,7 @@ baby.  The one key difference is I plan to leave my search engine open
 for others to contribute sites.  Perhaps the two will complement each
 other.
 
-And no, the domain name is not the only reason. This guy \*is\* Dan
+And no, the domain name is not the only reason. This guy *is* Dan
 Appleman after all! He wrote the *[Visual Basic Programmer's Guide to
 the Win32
 API](http://www.amazon.com/Applemans-Visual-Basic-Programmers-Guide/dp/0672315904 "VB6 Win32 API book")*

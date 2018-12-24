@@ -1,7 +1,7 @@
 ---
 title: VelocIT Logo Design Case Study
 date: 2006-07-19 -0800
-tags: []
+tags: [consulting]
 redirect_from: "/archive/2006/07/18/VelocITLogoDesignCaseStudy.aspx/"
 ---
 

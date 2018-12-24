@@ -1,7 +1,7 @@
 ---
 title: Play The Most Influential Amiga Games Now
 date: 2007-04-15 -0800
-tags: []
+tags: [gaming]
 redirect_from: "/archive/2007/04/14/play-the-most-influential-amiga-games-now.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Identicon Handler For .NET On CodePlex
 date: 2007-03-19 -0800
-tags: []
+tags: [dotnet]
 redirect_from: "/archive/2007/03/18/identicon-handler-for-.net-on-codeplex.aspx/"
 ---
 

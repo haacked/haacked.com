@@ -1,7 +1,7 @@
 ---
 title: The Demise of NDoc and A Challenge For Users Of Open Source Software
 date: 2006-07-26 -0800
-tags: []
+tags: [oss]
 redirect_from: "/archive/2006/07/25/TheDemiseOfNDocAndAChallengeForUsersOfOpenSourceSoftware.aspx/"
 ---
 

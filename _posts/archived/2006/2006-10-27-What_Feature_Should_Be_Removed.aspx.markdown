@@ -1,7 +1,7 @@
 ---
 title: What Feature Should Be Removed?
 date: 2006-10-27 -0800
-tags: []
+tags: [product-management]
 redirect_from: "/archive/2006/10/26/What_Feature_Should_Be_Removed.aspx/"
 ---
 

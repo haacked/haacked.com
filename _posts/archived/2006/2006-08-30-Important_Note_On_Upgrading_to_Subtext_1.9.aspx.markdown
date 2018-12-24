@@ -1,7 +1,7 @@
 ---
 title: Important Note On Upgrading to Subtext 1.9
 date: 2006-08-30 -0800
-tags: []
+tags: [subtext]
 redirect_from: "/archive/2006/08/29/Important_Note_On_Upgrading_to_Subtext_1.9.aspx/"
 ---
 

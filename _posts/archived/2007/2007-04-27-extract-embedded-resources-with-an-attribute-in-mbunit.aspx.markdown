@@ -1,7 +1,7 @@
 ---
 title: Extract Embedded Resources With An Attribute In MbUnit
 date: 2007-04-27 -0800
-tags: []
+tags: [tools]
 redirect_from: "/archive/2007/04/26/extract-embedded-resources-with-an-attribute-in-mbunit.aspx/"
 ---
 

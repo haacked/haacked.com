@@ -1,7 +1,7 @@
 ---
 title: Please Vote On This Atlas Javascript Bug
 date: 2006-09-19 -0800
-tags: []
+tags: [javascript]
 redirect_from: "/archive/2006/09/18/Please_Vote_On_This_Atlas_Javascript_Bug.aspx/"
 ---
 

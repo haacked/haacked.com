@@ -1,7 +1,7 @@
 ---
 title: Tivo For Your Registry
 date: 2006-10-09 -0800
-tags: []
+tags: [tools]
 redirect_from: "/archive/2006/10/08/tivo_for_your_registry.aspx/"
 ---
 

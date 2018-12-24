@@ -1,7 +1,7 @@
 ---
 title: Trying Out A New Site Design
 date: 2007-03-06 -0800
-tags: []
+tags: [meta]
 redirect_from: "/archive/2007/03/05/Trying_Out_A_New_Site_Design.aspx/"
 ---
 

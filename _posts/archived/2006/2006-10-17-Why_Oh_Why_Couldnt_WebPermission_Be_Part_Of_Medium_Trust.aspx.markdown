@@ -1,7 +1,7 @@
 ---
 title: Why Oh Why Couldn't WebPermission Be Part Of Medium Trust?
 date: 2006-10-17 -0800
-tags: []
+tags: [aspnet]
 redirect_from: "/archive/2006/10/16/Why_Oh_Why_Couldnt_WebPermission_Be_Part_Of_Medium_Trust.aspx/"
 ---
 

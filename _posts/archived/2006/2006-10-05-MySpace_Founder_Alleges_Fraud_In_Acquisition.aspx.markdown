@@ -1,7 +1,7 @@
 ---
 title: MySpace Founder Alleges Fraud In Acquisition
 date: 2006-10-05 -0800
-tags: []
+tags: [tech]
 redirect_from: "/archive/2006/10/04/MySpace_Founder_Alleges_Fraud_In_Acquisition.aspx/"
 ---
 

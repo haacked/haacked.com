@@ -1,7 +1,7 @@
 ---
 title: Stinkin' Jersey
 date: 2006-09-23 -0800
-tags: []
+tags: [soccer,personal]
 redirect_from: "/archive/2006/09/22/Stinkin_Jersey.aspx/"
 ---
 
@@ -9,7 +9,7 @@ redirect_from: "/archive/2006/09/22/Stinkin_Jersey.aspx/"
 nothing worse than waking up on game day and realizing you forgot to
 wash your soccer jersey from last game.
 
-\*SNIFF\* BLEH!
+*SNIFF* BLEH!
 
 Thank god for Febreeze!
 

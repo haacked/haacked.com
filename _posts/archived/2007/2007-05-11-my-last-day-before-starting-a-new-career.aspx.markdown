@@ -1,14 +1,14 @@
 ---
 title: My Last Day Before Starting A New Career
 date: 2007-05-11 -0800
-tags: []
+tags: [work]
 redirect_from: "/archive/2007/05/10/my-last-day-before-starting-a-new-career.aspx/"
 ---
 
 Today is my last day of work as a
 [VelocIT](http://veloc-it.com/ "VelocIT") employee, a company I helped
 start and had (and still have) high hopes for as [employee
-\#1](https://haacked.com/archive/2005/09/13/My-New-Job.aspx "New Job").
+#1](https://haacked.com/archive/2005/09/13/My-New-Job.aspx "New Job").
 
 No, I’m not being [fired for blogging too
 much](http://engtech.wordpress.com/2007/05/11/why-you-could-be-fired-for-blogging/ "5 Reasons Blogging Leads to the Unemployment Line")
@@ -24,19 +24,19 @@ of VelocIT and my good friend, and I often talked about the idea that
 there are two general types of developers (*I’m sure there are many
 more*).
 
-1.  Developers who are easily bored and love to learn about new
-    businesses and business models. Staying on one project forever would
-    cause these devs to go insane. They love the excitement of jumping
-    from client to client and project to project.
-2.  Developers who love to craft and hone a single code-base through
-    multiple versions. These devs are fine sticking with a project for a
-    long time and get enjoyment in watching the application take form
-    over the years.
+1. Developers who are easily bored and love to learn about new
+   businesses and business models. Staying on one project forever would
+   cause these devs to go insane. They love the excitement of jumping
+   from client to client and project to project.
+2. Developers who love to craft and hone a single code-base through
+   multiple versions. These devs are fine sticking with a project for a
+   long time and get enjoyment in watching the application take form
+   over the years.
 
-For a long time, I’ve been more firmly in camp \#1 with tendencies
-towards \#2. But over the past couple of years working on Subtext, I’ve
+For a long time, I’ve been more firmly in camp #1 with tendencies
+towards #2. But over the past couple of years working on Subtext, I’ve
 never gotten bored with working on the same code and realized I have
-been in Camp \#2 for a good while now.
+been in Camp #2 for a good while now.
 
 Sure, I do get excited about learning new technologies all the time, but
 now it is in the context of how they will help me make Subtext a better

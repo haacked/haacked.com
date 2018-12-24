@@ -1,7 +1,7 @@
 ---
 title: Biking Ballona Creek
 date: 2006-07-17 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2006/07/16/BikingBallonaCreek.aspx/"
 ---
 

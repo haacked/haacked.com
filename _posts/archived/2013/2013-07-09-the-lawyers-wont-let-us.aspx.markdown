@@ -1,8 +1,7 @@
 ---
 title: The Lawyers Won&#8217;t Let Us
 date: 2013-07-09 -0800
-tags:
-- company culture
+tags: [legal,culture,leadership]
 redirect_from: "/archive/2013/07/08/the-lawyers-wont-let-us.aspx/"
 ---
 

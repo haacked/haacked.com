@@ -1,7 +1,7 @@
 ---
 title: Content Management For .NET
 date: 2006-07-25 -0800
-tags: []
+tags: [tools]
 redirect_from: "/archive/2006/07/24/ContentManagementFor.NET.aspx/"
 ---
 

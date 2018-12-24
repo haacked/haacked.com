@@ -1,7 +1,7 @@
 ---
 title: New Subtext Release and Notes On Subtext 2.0
 date: 2007-02-11 -0800
-tags: []
+tags: [subtext]
 redirect_from: "/archive/2007/02/10/New_Subtext_Release_and_Notes_On_Subtext_2.0.aspx/"
 ---
 

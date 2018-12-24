@@ -1,7 +1,7 @@
 ---
 title: Sorry For The Apparent Reposts
 date: 2007-02-08 -0800
-tags: []
+tags: [meta]
 redirect_from: "/archive/2007/02/07/Sorry_For_The_Apparent_Reposts.aspx/"
 ---
 

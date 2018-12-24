@@ -1,7 +1,7 @@
 ---
 title: Washington Mutual Upgrades to ASP.NET
 date: 2006-07-21 -0800
-tags: []
+tags: [aspnet]
 redirect_from: "/archive/2006/07/20/WashingtonMutualUpgradesToASP.NET.aspx/"
 ---
 

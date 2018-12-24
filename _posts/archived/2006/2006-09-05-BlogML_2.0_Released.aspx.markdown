@@ -1,12 +1,12 @@
 ---
 title: BlogML 2.0 Released!
 date: 2006-09-05 -0800
-tags: []
+tags: [blogging]
 redirect_from: "/archive/2006/09/04/BlogML_2.0_Released.aspx/"
 ---
 
 Seems like all sorts of open source projects have been releasing
-lately.  [Darren Neimke](http://markitup.com/\) and [Keyvan
+lately.  [Darren Neimke](http://markitup.com/) and [Keyvan
 Nayyeri](http://nayyeri.net/) proudly announce the release of [BlogML
 2.0](http://markitup.com/Posts/Post.aspx?postId=3d18797b-2c53-4aa3-88bc-ef1c97e84e5f)
 on [CodePlex](http://codeplex.com/).  Here’s a [list of new

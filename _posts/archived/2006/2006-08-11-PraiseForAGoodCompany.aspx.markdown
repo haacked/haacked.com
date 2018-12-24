@@ -1,7 +1,7 @@
 ---
 title: Praise For a Good Company
 date: 2006-08-11 -0800
-tags: []
+tags: [commentary]
 redirect_from: "/archive/2006/08/10/PraiseForAGoodCompany.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Edit Keywords Page Patch
 date: 2007-05-11 -0800
-tags: []
+tags: [subtext]
 redirect_from: "/archive/2007/05/10/edit-keywords-page-patch.aspx/"
 ---
 

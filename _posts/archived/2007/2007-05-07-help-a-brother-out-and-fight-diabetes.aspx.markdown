@@ -1,13 +1,13 @@
 ---
 title: Help a Brother Out And Fight Diabetes
 date: 2007-05-07 -0800
-tags: []
+tags: [community]
 redirect_from: "/archive/2007/05/06/help-a-brother-out-and-fight-diabetes.aspx/"
 ---
 
 My friend [Scott
 Hanselman](http://hanselman.com/blog/ "Scott Hanselman’s Blog") is on a
-mission to raise \$50,000 and then some for the American Diabetes
+mission to raise $50,000 and then some for the American Diabetes
 Association to help fund the search for a cure.
 
 [![Team Hanselman Fight

@@ -1,7 +1,7 @@
 ---
 title: Subtext User Survey
 date: 2006-11-09 -0800
-tags: []
+tags: [subtext]
 redirect_from: "/archive/2006/11/08/Subtext_User_Survey.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Possible Bug With DateTime.Parse?
 date: 2006-10-01 -0800
-tags: []
+tags: [dotnet]
 redirect_from: "/archive/2006/09/30/Possible_Bug_With_DateTime.Parse.aspx/"
 ---
 

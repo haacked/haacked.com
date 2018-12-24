@@ -1,7 +1,7 @@
 ---
 title: I'd Like To Be In Joel's Shoes
 date: 2006-09-13 -0800
-tags: []
+tags: [commentary]
 redirect_from: "/archive/2006/09/12/Id_Like_To_Be_In_Joels_Shoes.aspx/"
 ---
 
@@ -11,10 +11,10 @@ Of course that assumes that Joel wears a size 9 and a half.
 
 Once again the ***Joel Cycle*** takes another turn. The cycle goes something like this:
 
--   Joel [critiques something or other](http://www.joelonsoftware.com/items/2006/09/12.html).
--   Bloggers counter Joel’s claims, many with [thoughtful counter  arguments](https://haacked.com/archive/2006/09/12/Joel_On_Ruby_Performance.aspx).
--   Soon a flood of comments and posts start to turn a bit ugly and form around two camps: The *Joel is an idiot why do you even read him?* camp and the *Joel is successful, what have you ever done that you can disagree with him?* camp.
--   Rinse and Repeat
+- Joel [critiques something or other](http://www.joelonsoftware.com/items/2006/09/12.html).
+- Bloggers counter Joel’s claims, many with [thoughtful counter  arguments](https://haacked.com/archive/2006/09/12/Joel_On_Ruby_Performance.aspx).
+- Soon a flood of comments and posts start to turn a bit ugly and form around two camps: The *Joel is an idiot why do you even read him?* camp and the *Joel is successful, what have you ever done that you can disagree with him?* camp.
+- Rinse and Repeat
 
 It really is an interesting phenomenon to watch and participate in. For example, I’ve had my blog post lumped in as part of the *[angry lynch mob](http://voxpopdesign.com/bloomburst/1/2006/09/spolsky-questions-ruby-gets-angry-mob.cfm)* out
 to get Joel.  All I said was that I found his argument unconvincing. Am I really a part of a mob conspiracy?
@@ -45,10 +45,10 @@ In any case, this will be my last post on the subject of Joel. At least until th
 
 **Related Links:**
 
--   [Has Joel Spolksy Jumped the
-    Shark?](http://www.codinghorror.com/blog/archives/000679.html)
--   [Language Wars](http://www.joelonsoftware.com/items/2006/09/01.html)
--   [Wasabi](http://www.joelonsoftware.com/items/2006/09/01b.html)
--   [Ruby Performance Revisited](http://www.joelonsoftware.com/items/2006/09/12.html)
--   [Joel on Ruby Performance](https://haacked.com/archive/2006/09/12/Joel_On_Ruby_Performance.aspx)
--   [Spolsky Questions Ruby; Gets Angry Mob](http://voxpopdesign.com/bloomburst/1/2006/09/spolsky-questions-ruby-gets-angry-mob.cfm)
+- [Has Joel Spolksy Jumped the
+  Shark?](http://www.codinghorror.com/blog/archives/000679.html)
+- [Language Wars](http://www.joelonsoftware.com/items/2006/09/01.html)
+- [Wasabi](http://www.joelonsoftware.com/items/2006/09/01b.html)
+- [Ruby Performance Revisited](http://www.joelonsoftware.com/items/2006/09/12.html)
+- [Joel on Ruby Performance](https://haacked.com/archive/2006/09/12/Joel_On_Ruby_Performance.aspx)
+- [Spolsky Questions Ruby; Gets Angry Mob](http://voxpopdesign.com/bloomburst/1/2006/09/spolsky-questions-ruby-gets-angry-mob.cfm)

@@ -1,7 +1,7 @@
 ---
 title: Resistance Is Not Futile
 date: 2006-08-18 -0800
-tags: []
+tags: [tech]
 redirect_from: "/archive/2006/08/17/ResistanceIsNotFutile.aspx/"
 ---
 

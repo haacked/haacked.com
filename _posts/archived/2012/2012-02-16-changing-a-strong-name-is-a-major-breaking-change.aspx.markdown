@@ -1,10 +1,7 @@
 ---
 title: Changing A Strong Name Is A Major Breaking Change
 date: 2012-02-16 -0800
-tags:
-- oss
-- nuget
-- code
+tags: [oss,log4net,versioning,semver]
 redirect_from: "/archive/2012/02/15/changing-a-strong-name-is-a-major-breaking-change.aspx/"
 ---
 
@@ -27,9 +24,9 @@ previously](https://haacked.com/archive/2011/10/24/semver-nuget-nightly-builds.a
 >
 > In brief, these correspond to:
 >
-> -   **Major:** Breaking changes.
-> -   **Minor:** New features, but backwards compatible.
-> -   **Patch:** Backwards compatible bug fixes only.
+> - **Major:** Breaking changes.
+> - **Minor:** New features, but backwards compatible.
+> - **Patch:** Backwards compatible bug fixes only.
 
 Given that the Patch number is supposed to represent bug fixes only,
 NuGet chooses the minimum Major and Minor version of a package to meet

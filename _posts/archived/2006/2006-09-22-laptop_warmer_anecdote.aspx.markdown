@@ -1,7 +1,7 @@
 ---
 title: Laptop Warmer Anecdote
 date: 2006-09-22 -0800
-tags: []
+tags: [humor]
 redirect_from: "/archive/2006/09/21/laptop_warmer_anecdote.aspx/"
 ---
 

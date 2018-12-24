@@ -1,7 +1,7 @@
 ---
 title: My New Personal Blog
 date: 2006-09-14 -0800
-tags: []
+tags: [meta]
 redirect_from: "/archive/2006/09/13/My_New_Personal_Blog.aspx/"
 ---
 
@@ -47,6 +47,6 @@ What I probably won’t do is post mundane stuff like, “Yo Dan. You and
 Judy want to have dinner tonight?  Call me or post a comment here.”
 here, reserving that for my other blog.
 
-The URL for my other blog is
-[http://phil.haacked.com/](http://phil.haacked.com/).
+_UPDATE:_
 
+The URL for my other blog was `http://phil.haacked.com/` but I've since given up on this idea.

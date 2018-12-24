@@ -1,7 +1,7 @@
 ---
 title: Share In My Stupidity
 date: 2006-09-19 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2006/09/18/Share_In_My_Stupidity.aspx/"
 ---
 

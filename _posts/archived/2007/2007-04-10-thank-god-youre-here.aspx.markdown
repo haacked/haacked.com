@@ -1,7 +1,7 @@
 ---
 title: Thank God You're Here
 date: 2007-04-10 -0800
-tags: []
+tags: [humor]
 redirect_from: "/archive/2007/04/09/thank-god-youre-here.aspx/"
 ---
 

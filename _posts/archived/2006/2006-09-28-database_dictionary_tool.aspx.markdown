@@ -1,7 +1,7 @@
 ---
 title: Tag Your Database - A Data Dictionary Tool
 date: 2006-09-28 -0800
-tags: []
+tags: [data]
 redirect_from: "/archive/2006/09/27/database_dictionary_tool.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Pickup Lines In .NET
 date: 2006-07-24 -0800
-tags: []
+tags: [humor,dotnet]
 redirect_from: "/archive/2006/07/23/PickupLinesIn.NET.aspx/"
 ---
 
@@ -16,14 +16,14 @@ ladies without these serious groaners to encourage them?
 So naturally, I must respond with my own groaners. Warning, not safe for
 ... well really anyone who enjoys humor that is actually humorous.
 
--   You can handle my event any time
--   What’s your sign? I’m unsigned and I do byte. Rowr.
--   I’d like to get `Interlocked` with you and see what increments.
--   Them hips must be *newing* up objects real fast because you are
-    putting pressure on my heap.
--   The moment I saw you I nearly overflowed my stack.
--   Care to reference my private member?
--   You Auto-Complete Me.
+- You can handle my event any time
+- What’s your sign? I’m unsigned and I do byte. Rowr.
+- I’d like to get `Interlocked` with you and see what increments.
+- Them hips must be *newing* up objects real fast because you are
+  putting pressure on my heap.
+- The moment I saw you I nearly overflowed my stack.
+- Care to reference my private member?
+- You Auto-Complete Me.
 
 Update: My favorite comment so far on these groaners comes from [Sahil
 Malik](http://winsmarts.com/ "Sahil") over on [Scott’s

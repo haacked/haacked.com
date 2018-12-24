@@ -1,7 +1,7 @@
 ---
 title: Blog Upgrade
 date: 2006-08-06 -0800
-tags: []
+tags: [meta,subtext]
 redirect_from: "/archive/2006/08/05/Blog_Upgrade.aspx/"
 ---
 

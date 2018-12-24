@@ -1,7 +1,7 @@
 ---
 title: Estimates And Actuals Are Not Bounded Evenly On Both Sides
 date: 2007-03-30 -0800
-tags: []
+tags: [product-management]
 redirect_from: "/archive/2007/03/29/fogbugz-6-recognizes-estimates-and-actuals-are-not-bounded-evenly.aspx/"
 ---
 
@@ -16,16 +16,16 @@ are at estimation, especially [single point estimation](http://www.codinghorror.
 One of several techniques given in the book focuses on providing three
 estimation points for every line item.
 
-1.  **Best Case:** If everything goes well, nobody gets sick, the sun
-    shines on your face, how quickly could you get this feature
-    complete?
-2.  **Worst Case:** If your dog dies, your significant other leaves you,
-    and your brain turns to mush, what is the absolute longest time it
-    would take to get this done? In other words, there is no way on
-    Earth it would take longer than this time, unless you were shot.
-3.  **Nominal Case:** This is your best guess, based on your years of
-    experience with building this type of widget. How long do you really
-    think it will take?
+1. **Best Case:** If everything goes well, nobody gets sick, the sun
+   shines on your face, how quickly could you get this feature
+   complete?
+2. **Worst Case:** If your dog dies, your significant other leaves you,
+   and your brain turns to mush, what is the absolute longest time it
+   would take to get this done? In other words, there is no way on
+   Earth it would take longer than this time, unless you were shot.
+3. **Nominal Case:** This is your best guess, based on your years of
+   experience with building this type of widget. How long do you really
+   think it will take?
 
 The hope is that when development is complete, you’ll find that the
 actual time spent is between your best case and worst case. McConnell

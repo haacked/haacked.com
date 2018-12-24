@@ -1,7 +1,7 @@
 ---
 title: Devious Scam In Which The Check They Send You Clears
 date: 2007-03-23 -0800
-tags: []
+tags: [security]
 redirect_from: "/archive/2007/03/22/devious-scam-in-which-the-check-they-send-you-clears.aspx/"
 ---
 
@@ -15,7 +15,7 @@ received.
 ![Sweepstakes
 Letter](https://haacked.com/images/haacked_com/WindowsLiveWriter/DeviousScamInWhichTheCheckTheySendYouCle_102B5/scam-letter%5B4%5D.png)
 
-They sent him a check for \$1,940 dollars and told him that all he needs
+They sent him a check for $1,940 dollars and told him that all he needs
 to do to claim the prize money is deposit the check and send back a
 portion of that money for processing fees and identification purposes.
 

@@ -1,7 +1,7 @@
 ---
 title: A New Sub In Town
 date: 2006-09-05 -0800
-tags: []
+tags: [meta]
 redirect_from: "/archive/2006/09/04/A_New_Sub_In_Town.aspx/"
 ---
 

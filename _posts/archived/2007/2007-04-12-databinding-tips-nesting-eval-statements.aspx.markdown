@@ -1,7 +1,7 @@
 ---
 title: 'Databinding Tips: Nesting Eval Statements'
 date: 2007-04-12 -0800
-tags: []
+tags: [data,aspnet]
 redirect_from: "/archive/2007/04/11/databinding-tips-nesting-eval-statements.aspx/"
 ---
 

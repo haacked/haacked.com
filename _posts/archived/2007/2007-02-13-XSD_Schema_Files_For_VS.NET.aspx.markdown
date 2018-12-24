@@ -1,7 +1,7 @@
 ---
 title: XSD Schema Files For VS.NET
 date: 2007-02-13 -0800
-tags: []
+tags: [visualstudio]
 redirect_from: "/archive/2007/02/12/XSD_Schema_Files_For_VS.NET.aspx/"
 ---
 
@@ -11,13 +11,13 @@ Visual Studio.NET?
 
 **Visual Studio.NET 2003**
 
-*C:\\Program Files\\Microsoft Visual Studio .NET
-2003\\Common7\\Packages\\schemas\\xml*
+*C:\Program Files\Microsoft Visual Studio .NET
+2003\Common7\Packages\schemas\xml*
 
 **Visual Studio.NET 2005**
 
-*C:\\Program Files\\Microsoft Visual Studio
-8\\Common7\\Packages\\schemas\\xml*
+*C:\Program Files\Microsoft Visual Studio
+8\Common7\Packages\schemas\xml*
 
 This is useful for such things as
 [Nant.xsd](http://nant.sourceforge.net/ "Nant") and

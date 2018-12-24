@@ -1,26 +1,30 @@
 ---
 title: Quick CSS Optimization Tip
 date: 2007-03-15 -0800
-tags: []
+tags: [css,tips]
 redirect_from: "/archive/2007/03/14/quick-css-optimization-tip.aspx/"
 ---
 
 When you see the following in your CSS
 
-    div
-    {
-      margin-top: 10px;
-      margin-right: 20px;
-      margin-bottom: 10px;
-      margin-left: 20px;
-    }
+```css
+div
+{
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+```
 
 It makes sense to convert it to this.
 
-    div
-    {
-      margin: 10px 20px;
-    }
+```css
+div
+{
+  margin: 10px 20px;
+}
+```
 
 It’s cleaner and takes up less space.
 

@@ -1,7 +1,7 @@
 ---
 title: Comedy Of Errors Bringing A Server Back From The Dead
 date: 2007-05-08 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2007/05/07/comedy-of-errors-bringing-a-server-back-from-the-dead.aspx/"
 ---
 
@@ -15,7 +15,7 @@ tale for you.
 My first assumption was that the hard drive failed, so I ordered a new
 Hard Drive.
 
-**Lesson \#1:** *If you think your hard drive has failed, it might not
+**Lesson #1:** *If you think your hard drive has failed, it might not
 be a bad idea to actually test it if you can. Don’t just order a new
 one*!
 
@@ -32,7 +32,7 @@ drive. Huh?
 
 **[![The Scream - Edvard
 Munch](https://haacked.com/images/haacked_com/WindowsLiveWriter/ComedyOfErrorsBringingAServerBackFromThe_781/300pxThe_Scream_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/ComedyOfErrorsBringingAServerBackFromThe_781/300pxThe_Scream2.jpg "The Scream - Edvard Munch")
-Lesson \#2:** *When installing an Operating System on a machine, make
+Lesson #2:** *When installing an Operating System on a machine, make
 sure to unplug any external USB or Firewire drives.*
 
 Yep, I formatted my external hard drive and installed Ubuntu on that.
@@ -44,7 +44,7 @@ new hard drive, though I could hear the hard drive spin up when I
 powered on the machine. I figure that quite possibly it’s a problem with
 the SATA cable. So I order a new one.
 
-**Lesson \#3:** *In the spirit of lesson 1, why not just temporarily
+**Lesson #3:** *In the spirit of lesson 1, why not just temporarily
 pull a SATA cable from your other machine, if you have it.*
 
 I thought the SATA cables were all inaccessible and would be a pain to

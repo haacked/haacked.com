@@ -1,7 +1,7 @@
 ---
 title: Better Recruiting Through Blogistry
 date: 2006-10-04 -0800
-tags: []
+tags: [blogging,hiring]
 redirect_from: "/archive/2006/10/03/Better_Recruiting_Through_Blogistry.aspx/"
 ---
 

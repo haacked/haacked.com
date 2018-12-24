@@ -1,7 +1,7 @@
 ---
 title: Get A Job
 date: 2006-11-28 -0800
-tags: []
+tags: [meta]
 redirect_from: "/archive/2006/11/27/Get_A_Job.aspx/"
 ---
 
@@ -70,6 +70,7 @@ expeditions by head hunters.**
 This may be a longshot to even ask, but if you end up actually applying
 for a job because you saw it on my blog, would you let me know? 
 
-If you are an employer, consider [posting a
-job](http://jobs.haacked.com/1002/post.aspx "Posting A Job").
+~~If you are an employer, consider [posting a
+job](http://jobs.haacked.com/1002/post.aspx "Posting A Job").~~
 
+_UPDATE:_ I'm no longer using this.

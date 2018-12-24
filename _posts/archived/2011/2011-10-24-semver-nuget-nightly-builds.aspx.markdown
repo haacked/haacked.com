@@ -4,9 +4,7 @@ date: 2011-10-24 -0800
 redirect_from:
 - "/archive/2011/10/26/semver-nuget-nightly-builds.aspx/"
 - "/archive/2011/10/23/semver-nuget-nightly-builds.aspx/"
-tags:
-- aspnet
-- nuget
+tags: [versioning,semver,nuget]
 ---
 
 Recently, a group of covert ninjas within my organization started to

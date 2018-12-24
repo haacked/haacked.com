@@ -1,7 +1,7 @@
 ---
 title: Burning My Feeds
 date: 2007-03-08 -0800
-tags: []
+tags: [rss,meta]
 redirect_from: "/archive/2007/03/07/Burning_My_Feeds.aspx/"
 ---
 

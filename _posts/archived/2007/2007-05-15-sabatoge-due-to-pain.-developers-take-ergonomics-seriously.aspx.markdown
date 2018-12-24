@@ -1,7 +1,7 @@
 ---
 title: Sabotage Due To Pain. Developers, Take Ergonomics Seriously!
 date: 2007-05-15 -0800
-tags: []
+tags: [ergonomics,health]
 redirect_from: "/archive/2007/05/14/sabatoge-due-to-pain.-developers-take-ergonomics-seriously.aspx/"
 ---
 
@@ -51,7 +51,7 @@ developer.** As Jeff points out in his [Programmer’s Bill of
 Rights](http://www.codinghorror.com/blog/archives/000666.html "The Programmer’s Bill of Rights"),
 
 > It’s unbelievable to me that a company would pay a developer
-> \$60-\$100k in salary, yet cripple him or her with terrible working
+> $60-$100k in salary, yet cripple him or her with terrible working
 > conditions and crusty hand-me-down hardware. This makes no business
 > sense whatsoever. And yet I see it all the time. It’s shocking how
 > many companies still don’t provide software developers with the

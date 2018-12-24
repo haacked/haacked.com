@@ -1,7 +1,7 @@
 ---
 title: Parkinson's Law Eats Silver Bullets
 date: 2006-12-05 -0800
-tags: []
+tags: [software]
 redirect_from: "/archive/2006/12/04/Parkinsons_Law_Eats_Silver_Bullets.aspx/"
 ---
 

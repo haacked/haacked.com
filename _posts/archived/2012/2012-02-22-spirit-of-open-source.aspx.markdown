@@ -1,9 +1,7 @@
 ---
 title: What Is The Spirit of Open Source?
 date: 2012-02-22 -0800
-tags:
-- code
-- oss
+tags: [oss,licensing]
 redirect_from: "/archive/2012/02/21/spirit-of-open-source.aspx/"
 ---
 

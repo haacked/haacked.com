@@ -1,15 +1,12 @@
 ---
 title: The Technological 7-Year Itch
 date: 2007-05-20 -0800
-tags: []
+tags: [community,commentary]
 redirect_from: "/archive/2007/05/19/is-web-development-the-only-development-that-matters.aspx/"
 ---
 
-Scott Hanselman writes a [thought provoking
-post](http://www.hanselman.com/blog/IsMicrosoftLosingTheAlphaGeeks.aspx "Is Microsoft Losing the Alpha Geeks")
-that asks the question, ***Is Microsoft Losing the Alpha Geeks***? An
-interesting question, but troublesome to make sense of, let alone
-answer.
+Scott Hanselman writes a [thought provoking post](http://www.hanselman.com/blog/IsMicrosoftLosingTheAlphaGeeks.aspx "Is Microsoft Losing the Alpha Geeks") that asks the question, ***Is Microsoft Losing the Alpha Geeks***? An
+interesting question, but troublesome to make sense of, let alone answer.
 
 First of all, **how do you define “Alpha Geeks”? Who are they?**Paul
 Graham would [lead you to
@@ -30,17 +27,17 @@ developer](http://laribee.com/blog/2007/04/10/altnet/ "Alt.NET")
 proposed by [David Laribee](http://laribee.com/blog/ "the ’bee log")
 fits:
 
-1.  You’re the type of developer who uses what works while keeping an
-    eye out for a better way.
-2.  You reach outside the mainstream to adopt the best of any community:
-    Open Source, Agile, Java, Ruby, etc.
-3.  You’re not content with the status quo. Things can always be better
-    expressed, more elegant and simple, more mutable, higher quality,
-    etc.
-4.  You know tools are great, but they only take you so far. It’s the
-    principles (sic) and knowledge that really matter. The best tools
-    are those that embed the knowledge and encourage the principals
-    (e.g. Resharper.)
+1. You’re the type of developer who uses what works while keeping an
+   eye out for a better way.
+2. You reach outside the mainstream to adopt the best of any community:
+   Open Source, Agile, Java, Ruby, etc.
+3. You’re not content with the status quo. Things can always be better
+   expressed, more elegant and simple, more mutable, higher quality,
+   etc.
+4. You know tools are great, but they only take you so far. It’s the
+   principles (sic) and knowledge that really matter. The best tools
+   are those that embed the knowledge and encourage the principals
+   (e.g. Resharper.)
 
 Remove the .NET specifics and we’re left with ALT. **Is the Alpha Geek
 the ALT developer?**Getting warmer.

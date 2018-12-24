@@ -1,7 +1,7 @@
 ---
 title: String.IsNullOrEmpty
 date: 2006-08-23 -0800
-tags: []
+tags: [csharp,dotnet]
 redirect_from: "/archive/2006/08/22/String.IsNullOrEmpty.aspx/"
 ---
 
@@ -17,11 +17,11 @@ And under the hood, it does the right thing.
 ```csharp
 public static bool IsNullOrEmpty(string value)
 {
-      if (value != null)
-      {
-            return (value.Length == 0);
-      }
-      return true;
+   if (value != null)
+   {
+     return (value.Length == 0);
+   }
+   return true;
 }
 ```
 

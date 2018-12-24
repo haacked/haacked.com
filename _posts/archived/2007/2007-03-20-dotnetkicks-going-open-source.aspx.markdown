@@ -1,7 +1,7 @@
 ---
 title: DotNetKicks Going Open Source
 date: 2007-03-20 -0800
-tags: []
+tags: [community]
 redirect_from: "/archive/2007/03/19/dotnetkicks-going-open-source.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Year of the Starving Pig?
 date: 2007-03-14 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2007/03/13/year-of-the-starving-pig.aspx/"
 ---
 

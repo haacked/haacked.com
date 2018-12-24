@@ -1,7 +1,7 @@
 ---
 title: Playa Creature
 date: 2006-09-19 -0800
-tags: []
+tags: [burningman]
 redirect_from: "/archive/2006/09/18/Playa_Creature.aspx/"
 ---
 

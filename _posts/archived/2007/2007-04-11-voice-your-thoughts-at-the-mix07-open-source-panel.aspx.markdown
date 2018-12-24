@@ -1,7 +1,7 @@
 ---
 title: Voice Your Thoughts At The Mix07 Open Source Panel
 date: 2007-04-11 -0800
-tags: []
+tags: [conferences]
 redirect_from: "/archive/2007/04/10/voice-your-thoughts-at-the-mix07-open-source-panel.aspx/"
 ---
 

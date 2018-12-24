@@ -1,7 +1,7 @@
 ---
 title: How To Pronounce My Last Name
 date: 2006-10-03 -0800
-tags: []
+tags: [meta]
 redirect_from: "/archive/2006/10/02/How_To_Pronounce_My_Last_Name.aspx/"
 ---
 

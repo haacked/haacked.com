@@ -1,7 +1,7 @@
 ---
 title: Log4Net Patch For ConnectionStrings
 date: 2006-08-07 -0800
-tags: []
+tags: [log4net,logging]
 redirect_from: "/archive/2006/08/06/Log4NetPatchForConnectionStrings.aspx/"
 ---
 

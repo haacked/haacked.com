@@ -1,7 +1,7 @@
 ---
 title: Using Generics For Custom Providers To Reduce Code Duplication
 date: 2006-07-13 -0800
-tags: []
+tags: [code,dotnet]
 redirect_from: "/archive/2006/07/12/usinggenericsforcustomproviderstoreducecodeduplication.aspx/"
 ---
 

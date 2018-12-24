@@ -1,7 +1,7 @@
 ---
 title: Source Available vs Open Source vs Free Software
 date: 2006-07-26 -0800
-tags: []
+tags: [oss,legal,licensing,copyright]
 redirect_from: "/archive/2006/07/25/CodeAvailableVsOpenSourceVsFreeSoftware.aspx/"
 ---
 
@@ -53,13 +53,9 @@ it before me, at least I hope the claim to fame of making it popular. ;)
 I have written on the topic of Open Source software before if you are
 interested.
 
--   [Developer’s Guide To Copyright
-    Law](https://haacked.com/archive/2006/01/24/TheDevelopersGuideToCopyrightLaw-Part1.aspx "Copyright Law")
--   [Developer’s Guide To Open Source
-    Licensing](https://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Licensing")
--   [Who owns the copyright for open source
-    software](https://haacked.com/archive/2006/01/26/WhoOwnstheCopyrightforAnOpenSourceProject.aspx "Who Owns The Copyright")
--   [Public Does Not Equal Open
-    Source](https://haacked.com/archive/2006/04/25/OpenSourceDistinctionAndSearch.aspx "Open Source Distinction")
+- [Developer’s Guide To Copyright Law](https://haacked.com/archive/2006/01/24/TheDevelopersGuideToCopyrightLaw-Part1.aspx "Copyright Law")
+- [Developer’s Guide To Open Source Licensing](https://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Licensing")
+- [Who owns the copyright for open source software](https://haacked.com/archive/2006/01/26/WhoOwnstheCopyrightforAnOpenSourceProject.aspx "Who Owns The Copyright")
+- [Public Does Not Equal Open Source](https://haacked.com/archive/2006/04/25/OpenSourceDistinctionAndSearch.aspx "Open Source Distinction")
 
 

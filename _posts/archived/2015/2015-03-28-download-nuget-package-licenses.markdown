@@ -1,7 +1,7 @@
 ---
 title: "Download all your NuGet Package Licenses"
 date: 2015-03-28 -0800
-tags: [oss,nuget]
+tags: [oss,nuget,licensing]
 ---
 
 The other day I was discussing the open source dependencies we had in a project with a lawyer. Forgetting my IANAL (I am not a lawyer) status, I made some bold statement regarding our legal obligations, or lack thereof, with respect to the licenses.

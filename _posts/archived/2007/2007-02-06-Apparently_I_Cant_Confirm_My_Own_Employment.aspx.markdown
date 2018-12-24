@@ -1,7 +1,7 @@
 ---
 title: Apparently I Can't Confirm My Own Employment
 date: 2007-02-06 -0800
-tags: []
+tags: [personal]
 redirect_from: "/archive/2007/02/05/Apparently_I_Cant_Confirm_My_Own_Employment.aspx/"
 ---
 

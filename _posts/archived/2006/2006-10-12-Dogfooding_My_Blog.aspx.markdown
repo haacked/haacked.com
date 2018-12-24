@@ -1,7 +1,7 @@
 ---
 title: Dogfooding My Blog
 date: 2006-10-12 -0800
-tags: []
+tags: [meta]
 redirect_from: "/archive/2006/10/11/Dogfooding_My_Blog.aspx/"
 ---
 

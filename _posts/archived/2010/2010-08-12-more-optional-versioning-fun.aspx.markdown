@@ -1,8 +1,7 @@
 ---
 title: More Versioning Fun With Optional Arguments
 date: 2010-08-12 -0800
-tags:
-- code
+tags: [code,versioning,dotnet]
 redirect_from: "/archive/2010/08/11/more-optional-versioning-fun.aspx/"
 ---
 

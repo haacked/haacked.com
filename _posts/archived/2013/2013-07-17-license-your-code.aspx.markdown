@@ -1,20 +1,19 @@
 ---
 title: License your code
 date: 2013-07-17 -0800
-tags:
-- oss
+tags: [oss,legal,licensing,copyright]
 redirect_from: "/archive/2013/07/16/license-your-code.aspx/"
 ---
 
 A while back I wrote a riveting 3-part developer’s guide to copyright
 law and open source licensing for developers.
 
--   [Developer's Guide to
-    Copyright](https://haacked.com/archive/2006/01/24/TheDevelopersGuideToCopyrightLaw-Part1.aspx "Developer's Guide to Copyright Law part 1")
--   [Developer’s Guide to Open Source Software
-    Licensing](https://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Open Source Licensing")
--   [Who Own’s The Copyright for an Open Source
-    Project?](https://haacked.com/archive/2006/01/25/WhoOwnstheCopyrightforAnOpenSourceProject.aspx "Who owns the copyright")
+- [Developer's Guide to
+  Copyright](https://haacked.com/archive/2006/01/24/TheDevelopersGuideToCopyrightLaw-Part1.aspx "Developer's Guide to Copyright Law part 1")
+- [Developer’s Guide to Open Source Software
+  Licensing](https://haacked.com/archive/2006/01/24/DevelopersGuideToOpenSourceSoftwareLicensing.aspx "Open Source Licensing")
+- [Who Own’s The Copyright for an Open Source
+  Project?](https://haacked.com/archive/2006/01/25/WhoOwnstheCopyrightforAnOpenSourceProject.aspx "Who owns the copyright")
 
 I’m pretty sure you read every word at the edge of your seat. Who
 doesn’t love reading about laws, licenses, and copyright!?

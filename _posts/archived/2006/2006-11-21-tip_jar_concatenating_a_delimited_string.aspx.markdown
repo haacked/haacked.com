@@ -1,7 +1,7 @@
 ---
 title: 'Tip Jar: Concatenating A Delimited String'
 date: 2006-11-21 -0800
-tags: []
+tags: [tips,csharp]
 redirect_from: "/archive/2006/11/20/tip_jar_concatenating_a_delimited_string.aspx/"
 ---
 

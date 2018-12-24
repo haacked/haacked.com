@@ -1,7 +1,7 @@
 ---
 title: Rolling Your Own Blog Engine
 date: 2006-10-06 -0800
-tags: []
+tags: [meta]
 redirect_from: "/archive/2006/10/05/Rolling_Your_Own_Blog_Engine.aspx/"
 ---
 
@@ -70,21 +70,21 @@ Some other features that modern blog engines provide that you might not
 have thought about (not all are supported by Subtext yet, but by at
 least one of the blogs I mentioned):
 
--   [RFC3229 with
-    Feeds](http://bobwyman.pubsub.com/main/2004/09/using_rfc3229_w.html "RFC3229 For Feeds")
--   [BlogML](http://www.codeplex.com/Wiki/View.aspx?ProjectName=BlogML "BlogML")
-    - So you can get your posts in there.
--   Email to Weblog
--   [Gravatars](http://gravatar.com/ "Gravatars")
--   Multiple Blog Support (more useful than you think)
--   Timezone Handling (for servers in other timezone)
--   Windows Live Writer support
--   Metablog API
--   Trackbacks/Pingbacks
--   Search
--   Easy Installation and Upgrade
--   XHTML Compliance
--   Live Comment Preview
+- [RFC3229 with
+  Feeds](http://bobwyman.pubsub.com/main/2004/09/using_rfc3229_w.html "RFC3229 For Feeds")
+- [BlogML](http://www.codeplex.com/Wiki/View.aspx?ProjectName=BlogML "BlogML")
+  - So you can get your posts in there.
+- Email to Weblog
+- [Gravatars](http://gravatar.com/ "Gravatars")
+- Multiple Blog Support (more useful than you think)
+- Timezone Handling (for servers in other timezone)
+- Windows Live Writer support
+- Metablog API
+- Trackbacks/Pingbacks
+- Search
+- Easy Installation and Upgrade
+- XHTML Compliance
+- Live Comment Preview
 
 My point isn’t necessarily to dissuade developers from rolling their own
 blog engine.  It’s fun code to write, I admit.  My point is really this

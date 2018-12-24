@@ -1,7 +1,7 @@
 ---
 title: Building a Continuous Integration Process In An Hour On DNRTV
 date: 2007-04-29 -0800
-tags: []
+tags: [ci]
 redirect_from: "/archive/2007/04/28/building-a-continuous-integration-process-in-an-hour-on-dnrtv.aspx/"
 ---
 

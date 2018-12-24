@@ -16,23 +16,23 @@ afterwards.
 
 ![Akumi's Grandma](/images/GrandMaMa.jpg)
 
-**Katana**\
+**Katana**
  Afterwards we walked over to the uncle's house. Akumi refers to him as
 the "Harley Davidson" uncle as he rides a Harley and is in love with the
 Harley brand. He was wearing Harley jeans and a Harley cap. When we
 arrived at his place, he showed us his 200 year old Katana.
 
-![Katana](/images/Katana.jpg) \
+![Katana](/images/Katana.jpg) 
  The Katana in its case. Tadashi made the stand himself.
 
 It's a beautiful piece of craftsmanship. Every two weeks he cares for it
 with a strict regimen to ward off rust and keep its beauty. Should he
-require a sharpening (which probably won't be required) it costs \$100
+require a sharpening (which probably won't be required) it costs $100
 per centimeter to sharpen properly. It's a collector's item worth over
-\$8000 made by some guy named Hattori Hanzo (ok, the Hattori part isn't
+$8000 made by some guy named Hattori Hanzo (ok, the Hattori part isn't
 true).
 
-![Collector's Item](/images/KatanaCollectorItem.jpg) \
+![Collector's Item](/images/KatanaCollectorItem.jpg) 
  Tadashi shows us the engraving on the hilt and a matching monograph in
 a collector's book.
 
@@ -42,11 +42,11 @@ was to carelessly handle or knock down a Samurai's sword. That would
 invite a fight to the death. Only then did Tadashi let me handle the
 Katana and I took great care to show it the respect it deserved.
 
-![Me with Katana](/images/Katanaphil.jpg) \
+![Me with Katana](/images/Katanaphil.jpg) 
  Displaying the ferocity and skill that would have made me a great
 samurai. Or samurai fodder.
 
-**Seppuku**\
+**Seppuku**
  Tadashi has a sense of humor similar to my dad's. He told us that when
 he's unable to care for himself, he'd prefer to commit seppuku than
 waste away in a rest home. My dad always tells us that when he can't
@@ -80,10 +80,10 @@ testing. I'd hate to be the QA department for a seppuku katana.
 
 In the next two pictures, Tadashi demonstrates Seppuku.
 
-![Seppuku demonstration step 1](/images/SeppukuPart1.jpg) \
+![Seppuku demonstration step 1](/images/SeppukuPart1.jpg) 
  Step 1, insert the blade here. Be sure to disinfect first.
 
-![](/images/SeppukuPart2.jpg) \
+![](/images/SeppukuPart2.jpg) 
  Step 2, slash across here. Be sure to cut into the major organs.
 Doesn't that feel nice?
 
