@@ -1,7 +1,7 @@
 ---
 title: "Git Alias To Migrate Commits To A Branch"
 date: 2015-06-29 -0800
-tags: [github,git]
+tags: [github,git,aliases]
 ---
 
 Show of hands if this ever happens to you. After a long day of fighting fires at work, you settle into your favorite chair to unwind and write code. Your fingers fly over the keyboard punctuating your code with semi-colons or parentheses or whatever is appropriate.
