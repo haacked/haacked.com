@@ -1,7 +1,7 @@
 ---
 title: "Increase your giving by 50% for free"
 description: ""
-date: 2018-12-28 -0800 09:04 AM PDT
+date: 2018-12-28 -0800 2:37 PM PDT
 tags: [personal,charity]
 ---
 
