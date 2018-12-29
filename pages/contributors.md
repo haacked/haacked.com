@@ -4,12 +4,11 @@ permalink: /contributors/
 include_nav: true
 ---
 
-These lovely people have contributed a fix to my blog. If you want to see yourself in this list, send me a pull request!
+These wonderful people contributed a fix to my blog. To see yourself in this list, send me a pull request!
 
 Every post in my blog has an edit link that lets you edit the blog post directly in the browser and automatically sends me a pull request.
 
-Or [visit my repository]({{site.github.repository_url}}) and send me a pull
-request the old fashioned way.
+Or [visit my repository]({{site.github.repository_url}}) and send me a pull request the old fashioned way.
 
 <ul class="contributor-list">
 {% if site.github.contributors.length > 0 %}
