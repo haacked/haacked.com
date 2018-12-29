@@ -15,7 +15,7 @@ First, why give in the first place?
 
 If you're a software developer, chances are, you are well paid. For example, [compensation at Lyft start at $236,000](https://www.levels.fyi/2018/?fbclid=IwAR3qWRrg-H7pku7V6FqBqN9G_tBvdzeuSs4gaH4hsB-QogVnXVft_Kgi8xs). If you make that much, you're in [the top 2% within the United States](https://dqydj.com/income-percentile-calculator/).
 
-If you read my blog, you most certainly exhibit good judgment, you are smart, and you're good looking. You worked hard for your success, but your success isn't solely due to your own efforts. You have much to be thankful for. Be thankful for free public education, paved roads, and a stable (more or less) economy. Most of all, be thankful that the government funded DARPA which created ARPANET which became the Internet. For most of you, if there was no Internet, you wouldn't have the quite the job that you have.
+If you read my blog, you most certainly exhibit good judgment, you are smart, and you're good looking. You worked hard for your success, but your success isn't solely due to your own efforts. You have much to be thankful for. Be thankful for free public education, paved roads, and a stable (more or less) economy. Most of all, be thankful that the government funded DARPA which created ARPANET which became the Internet. For most of you, if there was no Internet, you wouldn't have quite the job that you have.
 
 Not everyone is as fortunate as you. Not everyone has had the opportunity you and I did. This is why I think it's worthwhile to give back.
 
@@ -33,7 +33,7 @@ This [Kitces blog post](https://www.kitces.com/blog/rules-strategies-and-tactics
 
 > The basic concept of a “Donor-Advised Fund” is that it’s a form of tax-preferenced investment account, specifically ear-marked for charitable giving.
 
-In short, a Donor Advised Fund is a lot like a private trust, but much simpler and cheaper to set up and maintain. A donor advised fund lets you to make a charitable contribution into a fund and receive an _immediate tax deduction_, but delay when you donate funds to a 501(c)(3) public charity.
+In short, a Donor Advised Fund is a lot like a private trust, but much simpler and cheaper to set up and maintain. A donor advised fund lets you make a charitable contribution into a fund and receive an _immediate tax deduction_, but delay when you donate funds to a 501(c)(3) public charity.
 
 If you have a charitable heart, this is a great way to maximize your giving power. Especially during a year where you receive a windfall. You can offset your windfall by setting up a DAF, but delay giving to specific charities over your lifetime.
 
