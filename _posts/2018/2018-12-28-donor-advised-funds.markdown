@@ -5,7 +5,9 @@ date: 2018-12-28 -0800 2:37 PM PDT
 tags: [personal,charity]
 ---
 
-What if I told you there's a way you can increase your giving by up to 50% or more (depending on your tax bracket) at no cost to you? For every dollar you give, the charity would receive $1.50? Interested? Read on then.
+![Lending a hand while climbing](https://user-images.githubusercontent.com/19977/50540773-c3afa900-0b4c-11e9-9894-25ac7c9cad8f.jpg)
+
+What if I told you there's a way you can increase your giving by up to 50% or more (depending on your tax bracket) at no cost to you? For every dollar you put in, you'd have $1.50 to give to a charity of your choice? Interested? Read on then.
 
 ## Why Give?
 
