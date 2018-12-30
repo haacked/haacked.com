@@ -103,8 +103,7 @@ in the resource file. The name identifies which resource string to use.
 Now when I submit invalid values, the error messages are pulled from the
 resource file and you can see they are in Spanish.
 
-[![Client Validation - Windows Internet
-Explorer](/images/haacked_com/WindowsLiveWriter/LocalizingASP.NETMVCValidation_1194E/Client%20Validation%20-%20Windows%20Internet%20Explorer_thumb.png "Client Validation - Windows Internet Explorer")](/images/haacked_com/WindowsLiveWriter/LocalizingASP.NETMVCValidation_1194E//images/haacked_com/WindowsLiveWriter/LocalizingASP.NETMVCValidation_1194E/)
+![Client Validation messages in Spanish](https://user-images.githubusercontent.com/19977/50544106-dbfce380-0b9f-11e9-81df-d78b385f4125.png)
 
 ### Localized Error Messages Custom Client Validation
 
@@ -118,8 +117,3 @@ attribute.
 Turns out I had a bug in the code, which is now corrected in the blog
 post with a note describing the fix. Just scroll down to the
 `PriceValidator` class.
-
-As always, I have a code sample you can look at. It’s the same example
-as before, just updated. **[Download the
-sample](https://haacked.com/code/CustomValidationAttributeDemo.zip "Validation Sample App")!**
-
