@@ -3,11 +3,12 @@ title: "Analyzing GitHub Issue Comment Sentiment With Azure"
 description: "Describes how easy it is to extend GitHub with a webhook using Azure Functions"
 date: 2018-01-27 -0800
 tags: [azure,azure-functions,serverless,github,sentiment,ml,ai]
+excerpt_image: https://user-images.githubusercontent.com/19977/35477506-f253e26c-0378-11e8-9eff-5d150fa0ca9f.jpg
 ---
 
-![Tragedy and Comedy - Scarbrough Hotel, Bishopgate, Leeds - by Tim Green - CC BY 2.0](https://user-images.githubusercontent.com/19977/35477506-f253e26c-0378-11e8-9eff-5d150fa0ca9f.jpg)
-
 Developers are _real_ passionate about their semi-colons; or lack thereof. Comment threads on [GitHub](https://github.com/) can [get a bit...testy...on this topic](https://github.com/twbs/bootstrap/issues/3057#issuecomment-5135512). What's a beleaguered<sup>1</sup> repository maintainer to do when an issue comment thread gets out of hand?
+
+![Tragedy and Comedy - Scarbrough Hotel, Bishopgate, Leeds - by Tim Green - CC BY 2.0](https://user-images.githubusercontent.com/19977/35477506-f253e26c-0378-11e8-9eff-5d150fa0ca9f.jpg)
 
 GitHub provides [community tools](https://github.com/blog/2380-new-community-tools) maintainers can use to define community standards for their projects. For example, it's easy to add a code of conduct to a repository. It's also possible [report offensive comments directly to GitHub](https://github.com/blog/2493-report-content-directly-to-github-support). However, a code of conduct is only a set of words on a page. It's only effective if you enforce it. And face it, enforcing it can be very time consuming.
 

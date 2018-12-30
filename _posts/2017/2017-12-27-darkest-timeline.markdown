@@ -2,6 +2,7 @@
 title: "2017 - Darkest timeline"
 date: 2017-12-27 -0800 9:40 AM PDT
 tags: [personal]
+excerpt_image: https://user-images.githubusercontent.com/19977/34388787-89341190-eaea-11e7-9d38-402ab8125ed9.png
 ---
 
 This year felt a lot like living in [the darkest timeline](http://community-sitcom.wikia.com/wiki/Darkest_Timeline) and an episode of Black Mirror at the same time.

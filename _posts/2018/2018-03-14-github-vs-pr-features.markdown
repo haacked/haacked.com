@@ -1,7 +1,8 @@
 ---
 title: "PR information at your fingertips"
 date: 2018-03-15 -0800
-tags: [github,VisualStudio,pull-request]
+tags: [github,visualstudio,pull-request]
+excerpt_image: https://github-team.s3.amazonaws.com/uploads/general/2169716d-b6ee-4602-95bc-5f65ef193db4.png
 ---
 
 The Information Industry Association adopted the motto "Putting Information at Your Fingertips" way back in the hazy days of the 1970s. However it was during a 1990 Comdex keynote ([you can watch a scratchy VHS recording of it on YouTube](https://www.youtube.com/watch?v=uGA1Chm_8RE)), when a relatively young Bill Gates articulated a vision to bring that idea to reality.

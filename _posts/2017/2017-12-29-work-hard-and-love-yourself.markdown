@@ -2,6 +2,7 @@
 title: "Work hard and love yourself"
 date: 2017-12-29 -0800 11:46 AM PDT
 tags: [personal,fitness,exercise,lifting]
+excerpt_image: https://user-images.githubusercontent.com/19977/34449748-a91d59c2-ecb0-11e7-8566-784bf6452d73.jpg
 ---
 
 Not to stereotype tech folks, but, I'll do it anyways. Most of us could stand to get in better physical shape. I know, that's about as surprising as a cryptocurrency crash.

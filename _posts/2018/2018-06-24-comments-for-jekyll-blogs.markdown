@@ -2,6 +2,7 @@
 title: "Comments for Jekyll Blogs"
 date: 2018-06-24 -0800
 tags: [jekyll,comments,blogging]
+excerpt_image: https://user-images.githubusercontent.com/19977/41829489-e2745840-77ef-11e8-9ec5-f1d7385bb190.jpg
 ---
 
 If you are a long time reader of my blog, you might notice something different starting today. No, the content hasn't gotten any better. What's new is the comment system.

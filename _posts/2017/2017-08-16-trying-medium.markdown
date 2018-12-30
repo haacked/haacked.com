@@ -2,6 +2,7 @@
 title: "Trying Medium"
 date: 2017-08-16 -0800 2:14 PM PDT
 tags: [personal,blogging,meta]
+excerpt_image: https://user-images.githubusercontent.com/19977/29385835-0c9bdf74-828e-11e7-889a-a14a9ef2bf31.png
 ---
 
 I started my first blog at haack.org some time in the year 2000. You can still see pieces of it [in the Internet Archive Wayback machine](https://web.archive.org/web/20010220192058/http://haack.org:80/).

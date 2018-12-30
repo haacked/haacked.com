@@ -3,6 +3,7 @@ title: "Abolish Performance Reviews"
 description: "Where I rant about how broken annual performance reviews are today."
 date: 2018-07-11 -0800 9:46 AM PDT
 tags: [work,management,reviews,diversity]
+excerpt_image: https://user-images.githubusercontent.com/19977/42585077-8ca73b06-84e9-11e8-8c11-f0c3164febff.png
 ---
 
 Who doesn't love the smell of performance reviews in the morning? A smell welcomed by employees and managers alike with joy and delight. An efficient ritual that is fair and definitely motivates everyone to improve. A ritual that no one doubts is worth the investment of time and energy.
@@ -11,7 +12,7 @@ Yes, I'm kidding. No, I haven't been hacked (I am and will always be haacked tho
 
 Dilbert can provide a better introduction to performance reviews:
 
-[![Dilbert on performance reviews](https://user-images.githubusercontent.com/19977/42585077-8ca73b06-84e9-11e8-8c11-f0c3164febff.png)](http://dilbert.com/strip/1999-05-19)
+[![Dilbert on performance reviews](https://user-images.githubusercontent.com/19977/42585077-8ca73b06-84e9-11e8-8c11-f0c3164febff.png)](http://dilbert.com/strip/1999-05-19#png)
 
 Yes, it's a crutch to quote Dilbert on a post about management, but forgive me. On this topic, Dilbert is so spot on. I'll only do it twice, I promise. Now back to the point...
 

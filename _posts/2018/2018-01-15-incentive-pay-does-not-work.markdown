@@ -2,6 +2,7 @@
 title: "Incentive Pay Does Not Work"
 date: 2018-01-15 -0800
 tags: [compensation,career,management]
+excerpt_image: https://user-images.githubusercontent.com/19977/34910008-948a956c-f861-11e7-9ed9-b33a991509df.png
 ---
 
 In [The Case Against Pay for Performance](https://haacked.com/archive/2014/08/14/pay-for-performance/), I argued against increasing pay based on performance reviews. Checkmate. Case closed. Or so I thought. Like many bloggers, I suffer from delusions of grandeur that millions ponder every word I write, are enlightened by insight, and then compelled to action.

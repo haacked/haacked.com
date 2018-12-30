@@ -3,6 +3,7 @@ title: "An adventure in CSS with column lists"
 description: "How do you render an unordered list into columns in a responsive manner without losing your mind?"
 date: 2018-12-03 -0800 09:30 AM PDT
 tags: [css,design]
+excerpt_image: https://user-images.githubusercontent.com/19977/49349901-a8db3900-f661-11e8-81e5-7b19a0f3d2d7.png
 ---
 
 Sit back and relax as I regale you with a harrowing account of trying to do something straightforward with CSS. Ha! Straightforward. How silly was I to think that. As they say,

@@ -3,11 +3,10 @@ title: "Caribbean Developer's Conference"
 description: "A conference worth attending, speaking at, and sponsoring to expand the reach of software to all corners of the planet, even the beautiful sandy ones"
 date: 2018-11-02 -0800 04:30 PM PDT
 tags: [community,conferences,software]
+excerpt_image: https://user-images.githubusercontent.com/19977/47868589-c77bb500-ddc1-11e8-9ec7-532c219b1dde.png
 ---
 
-Picture a developer's conference held at a resort on a tropical island. What comes to mind?
-
-An endless supply of Piña Coladas? Sand abrasions in all the dark crevices of your body? Or perhaps, if you're a developer, you imagine sitting on the beach, staring out at the ocean as a nice respite between sessions.
+Picture a developer's conference held at a resort on a tropical island. What comes to mind? An endless supply of Piña Coladas? Sand abrasions in all the dark crevices of your body? Or perhaps, if you're a developer, you imagine sitting on the beach, staring out at the ocean as a nice respite between sessions.
 
 Or, are you suspicious that the conference is a smokescreen for a paid vacation in disguise.
 
@@ -18,7 +17,6 @@ Instead, what comes to my mind is a great learning and networking opportunity li
 The reason I ask is that last week I had the great pleasure to give the opening keynote for the first ever [Caribbean Developer's Conference](https://caribbeandevconf.com/cdc-2018/), held in Punta Cana, Dominican Republic.
 
 ![Me on stage](https://user-images.githubusercontent.com/19977/47868589-c77bb500-ddc1-11e8-9ec7-532c219b1dde.png)
-
 
 This was in a beautiful location with soft sandy beaches and endless Piña Coladas.  It was relaxing, refreshing, and dare I say it? Fun! At the same time, it was a solid impactful conference where I learned a lot and made a lot of great new connections.
 

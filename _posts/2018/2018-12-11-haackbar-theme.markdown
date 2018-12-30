@@ -3,6 +3,7 @@ title: "Steal My Blog Design"
 description: "Want a blog design similar to mine? My design is now encapsulated in a theme you can reference remotely."
 date: 2018-12-11 -0800 09:48 AM PDT
 tags: [jekyll,design,meta]
+excerpt_image: https://user-images.githubusercontent.com/19977/49748094-ac6e5180-fc59-11e8-93a5-1faee3d1aa61.png
 ---
 
 A name like Haack does not make me destined to win awards as an outstanding designer. I've come to grips with that. I'm not terrible, mind you. I'd say my skill level is somewhere in the ballpark of slightly above Geocities and closely approaching the aesthetics of Craigslist, on a good day.
