@@ -1,5 +1,7 @@
 ---
 title: "Git Alias To Migrate Commits To A Branch"
+description: "A git alias to migrate commits from the wrong branch to the right branch"
+excerpt_image: https://cloud.githubusercontent.com/assets/19977/8382092/06f71640-1be5-11e5-9f90-2b433bd6ffd8.png
 date: 2015-06-29 -0800
 tags: [github,git,aliases]
 ---
