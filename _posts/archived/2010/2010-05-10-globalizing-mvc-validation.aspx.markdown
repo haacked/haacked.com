@@ -51,9 +51,9 @@ Don’t forget to reference the necessary ASP.NET MVC scripts. I’ve done
 it in the master page.
 
 ```html
-<script src="/Scripts/MicrosoftAjax.debug.js" type="text/javascript"></script>
-<script src="/Scripts/MicrosoftMvcAjax.debug.js" type="text/javascript"></script>
-<script src="/Scripts/MicrosoftMvcValidation.debug.js" type="text/javascript"></script>
+<script src="/Scripts/MicrosoftAjax.debug.js"></script>
+<script src="/Scripts/MicrosoftMvcAjax.debug.js"></script>
+<script src="/Scripts/MicrosoftMvcValidation.debug.js"></script>
 ```
 
 Now, when I visit the form, type in *1,000* into the text field, and hit
@@ -97,11 +97,11 @@ method in my Site.master.
 ```aspx-cs
 <head runat="server">
   <%: Ajax.GlobalizationScript() %>
-  <script src="/Scripts/MicrosoftAjax.debug.js" type="text/javascript">
+  <script src="/Scripts/MicrosoftAjax.debug.js">
   </script>
-  <script src="/Scripts/MicrosoftMvcAjax.debug.js" type="text/javascript">
+  <script src="/Scripts/MicrosoftMvcAjax.debug.js">
   </script>
-  <script src="/Scripts/MicrosoftMvcValidation.debug.js" type="text/javascript">
+  <script src="/Scripts/MicrosoftMvcValidation.debug.js">
   </script>
 </head>
 ```
@@ -113,7 +113,7 @@ would place all the globalization scripts for each locale that you
 support in that directory. Here’s the output of that call.
 
 ```html
-<script type="text/javascript" src="~/Scripts/Globalization/es-ES.js">
+<script src="~/Scripts/Globalization/es-ES.js">
 </script>
 ```
 

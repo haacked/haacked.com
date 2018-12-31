@@ -49,7 +49,7 @@ causes an exception.
 
 ```aspx-cs
 <head runat="server">
-    <script src="<%= Url.Content("~/foo.js") %>" type="text/javascript">
+    <script src="<%= Url.Content("~/foo.js") %>">
     </script>
     <asp:ContentPlaceHolder ID="head" runat="server">
         <title></title>
@@ -70,7 +70,7 @@ control.
 ```aspx-cs
 <head runat="server">
     <asp:PlaceHolder runat="server" id="mainScripts">
-        <script src="<%= Url.Content("~/foo.js") %>" type="text/javascript">
+        <script src="<%= Url.Content("~/foo.js") %>">
         </script>
     </asp:PlaceHolder>
     <asp:ContentPlaceHolder ID="head" runat="server">

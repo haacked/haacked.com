@@ -24,6 +24,6 @@ end of the URL. For example,
 My name above is displayed by adding the following script tag to this
 blog post:
 
->  <script type="text/javascript"
+>  <script
 > src="http://metaatem.net/spell.php?picsize=s&string=Haacked" > </script >
 

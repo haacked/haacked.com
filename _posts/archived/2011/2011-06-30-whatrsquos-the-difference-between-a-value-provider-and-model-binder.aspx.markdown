@@ -68,7 +68,7 @@ Another content type you can use to post data is `application/json`. As you migh
 Here’s an example of a bit of JavaScript I used to post the same content as before but using JSON. Note that this particular snippet requires jQuery and a browser that natively supports the `JSON.stringify` method.
 
 ```html
-<script type="text/javascript">
+<script>
     $(function() {
         var comicBook = { Title: "Groo", IssueNumber: 101 }
         var comicBookJSON = JSON.stringify(comicBook);

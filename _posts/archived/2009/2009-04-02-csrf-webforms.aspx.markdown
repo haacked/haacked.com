@@ -56,7 +56,7 @@ Here’s the code for that page:
     <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION"
       value="/wEWBwK...+FaB85Nc" />
     </form>
-    <script type="text/javascript">
+    <script>
         document.badform.submit();
     </script>
 </body>

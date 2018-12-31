@@ -20,7 +20,7 @@ takes a bit more work. Here’s what I did. I made sure I had the
 following script in my master template.
 
 ```html
-<script type="text/javascript">
+<script>
  $("form.delete-link").css("display", "none");
  $("a.delete-link").show();
  $("a.delete-link").live('click', function(ev) {

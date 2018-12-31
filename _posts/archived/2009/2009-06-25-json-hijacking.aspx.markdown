@@ -129,7 +129,7 @@ server:
 <html> 
 ...
 <body> 
-    <script type="text/javascript"> 
+    <script> 
         Object.prototype.__defineSetter__('Id', function(obj){alert(obj);});
     </script> 
     <script src="http://example.com/Home/AdminBalances"></script> 

@@ -49,10 +49,10 @@ call to initialize the jQuery grid. There are three parts to this:
 ```csharp
 <link rel="stylesheet" type="text/css" href="/scripts/themes/coffee/grid.css" 
   title="coffee" media="screen" />
-<script src="/Scripts/jquery-1.3.2.js" type="text/javascript"></script>
-<script src="/Scripts/jquery.jqGrid.js" type="text/javascript"></script>
-<script src="/Scripts/js/jqModal.js" type="text/javascript"></script>
-<script src="/Scripts/js/jqDnR.js" type="text/javascript"></script>
+<script src="/Scripts/jquery-1.3.2.js"></script>
+<script src="/Scripts/jquery.jqGrid.js"></script>
+<script src="/Scripts/js/jqModal.js"></script>
+<script src="/Scripts/js/jqDnR.js"></script>
 ```
 
 Notice that the first line contains a reference to the “coffee” CSS
@@ -65,7 +65,7 @@ This looks a bit funky if you’re not used to jQuery, but I assure you,
 it’s pretty straightforward.
 
 ```html
-<script type="text/javascript">
+<script>
     jQuery(document).ready(function(){ 
       jQuery("#list").jqGrid({
         url:'/Home/GridData/',

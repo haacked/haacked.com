@@ -132,7 +132,7 @@ has a page with the following code:
         <input type="hidden" name="destinationAccountId" value="2" />
         <input type="hidden" name="amount" value="1000" />
     </form>
-    <script type="text/javascript">
+    <script>
         document.badform.submit();
     </script>
 </body>

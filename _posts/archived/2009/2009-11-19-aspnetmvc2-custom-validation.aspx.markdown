@@ -141,9 +141,9 @@ The first step is to reference the appropriate scripts. In Site.master,
 I’ve added the following two script references.
 
 ```html
-<script src="/Scripts/MicrosoftAjax.js" type="text/javascript"></script>
-<script src="/Scripts/MicrosoftMvcAjax.js" type="text/javascript"></script>
-<script src="/Scripts/MicrosoftMvcValidation.js" type="text/javascript"
+<script src="/Scripts/MicrosoftAjax.js"></script>
+<script src="/Scripts/MicrosoftMvcAjax.js"></script>
+<script src="/Scripts/MicrosoftMvcValidation.js"
 ></script>
 ```
 
@@ -237,7 +237,7 @@ logic as well as the hookup to the JSON metadata. For the purposes of
 this demo, I’ll put the script inline with the view.
 
 ```html
-<script type="text/javascript">
+<script>
   Sys.Mvc.ValidatorRegistry.validators["price"] = function(rule) {
     // initialization code can go here.
     var minValue = rule.ValidationParameters["min"];
@@ -304,9 +304,9 @@ validation.
 First, reference the following scripts.
 
 ```html
-<script src="/Scripts/jquery-1.4.1.js" type="text/javascript"></script>
-<script src="/Scripts/jquery.validate.js" type="text/javascript"></script>
-<script src="/Scripts/MicrosoftMvcJQueryValidation.js" type="text/javascript">
+<script src="/Scripts/jquery-1.4.1.js"></script>
+<script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/MicrosoftMvcJQueryValidation.js">
 </script>
 ```
 
@@ -315,7 +315,7 @@ which we declare inline. If you view source you’ll see something like
 this (truncated for brevity):
 
 ```html
-<script type="text/javascript"> 
+<script> 
 //<![CDATA[
 if (!window.mvcClientValidationMetadata) {
   window.mvcClientValidationMetadata = []; 

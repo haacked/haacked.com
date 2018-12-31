@@ -20,18 +20,18 @@ shows how you can start using them today.
 
 ```html
 <script src="http://ajax.microsoft.com/ajax/3.5/MicrosoftAjax.js"
- type="text/javascript"></script>
+></script>
 <script src="http://ajax.microsoft.com/ajax/mvc/MicrosoftMvcAjax.js"
- type="text/javascript"></script>
+></script>
 ```
 
 Debug versions are also available on the CDN.
 
 ```html
 <script src="http://ajax.microsoft.com/ajax/3.5/MicrosoftAjax.debug.js"
- type="text/javascript"></script>
+></script>
 <script src="http://ajax.microsoft.com/ajax/mvc/MicrosoftMvcAjax.debug.js"
- type="text/javascript"></script>
+></script>
 ```
 
 As ScottGu wrote,

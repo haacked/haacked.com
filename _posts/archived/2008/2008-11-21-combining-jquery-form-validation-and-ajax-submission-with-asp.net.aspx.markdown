@@ -144,13 +144,13 @@ Finally, let’s look at the script in the head section that ties this all
 together and makes it work.
 
 ```aspx-cs
-<script src="scripts/jquery-1.2.6.min.js" type="text/javascript"></script>
-<script src="scripts/jquery.validate.js" type="text/javascript"></script>
-<script src="scripts/jquery.form.js" type="text/javascript"></script>
+<script src="scripts/jquery-1.2.6.min.js"></script>
+<script src="scripts/jquery.validate.js"></script>
+<script src="scripts/jquery.form.js"></script>
 <% if (false) { %>
-<script src="scripts/jquery-1.2.6-vsdoc.js" type="text/javascript"></script>
+<script src="scripts/jquery-1.2.6-vsdoc.js"></script>
 <% } %>
-<script type="text/javascript">
+<script>
     $(document).ready(function() {
         $("#<%= form1.ClientID %>").validate({
             submitHandler: function(form) {

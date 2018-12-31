@@ -89,7 +89,7 @@ I know. Go ahead and move your mouse over them. Go on now.
 ​1. Add the following Javascript declaration to the header.
 
 ```html
-<script type="text/javascript" 
+<script 
     src="scripts/XFNHighlighter.js"></script>
 ```
 

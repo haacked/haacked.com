@@ -13,7 +13,7 @@ In my last post, I showed how to preserve such a URL, but it's not quite exact. 
 Fortunately, Disqus allows you to set a [Disqus Identifier](http://help.disqus.com/customer/portal/articles/472099-what-is-a-disqus-identifier-) that it uses to look up a page's comment thread. For example, if you view source [on a migrated post of mine](https://haacked.com/archive/2013/10/28/code-review-like-you-mean-it.aspx/), you'll see something like this:
 
 ```html
-<script type="text/javascript">
+<script>
   var disqus_shortname = 'haacked';
       
   var disqus_identifier = '18902';
