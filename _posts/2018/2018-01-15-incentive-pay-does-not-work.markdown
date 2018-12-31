@@ -1,5 +1,6 @@
 ---
 title: "Incentive Pay Does Not Work"
+description: "An argument for why incentive pay does not improve performance."
 date: 2018-01-15 -0800
 tags: [compensation,career,management]
 excerpt_image: https://user-images.githubusercontent.com/19977/34910008-948a956c-f861-11e7-9ed9-b33a991509df.png
