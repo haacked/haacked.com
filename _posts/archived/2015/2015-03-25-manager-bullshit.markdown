@@ -1,5 +1,7 @@
 ---
 title: "Management Bullshit"
+description: "A lot of management advice is bull-loney. Realize that teams have changed. Many teams are now distributed across the globe. Management advice should take that into consideration."
+excerpt_image: https://cloud.githubusercontent.com/assets/19977/6819836/ee52113e-d284-11e4-9ac2-08f05ca1cb27.png
 date: 2015-03-25 -0800
 tags: [management]
 ---
