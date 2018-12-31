@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://haacked.com/sitemap.xml 
+Sitemap: https://haacked.com/sitemap.xml
