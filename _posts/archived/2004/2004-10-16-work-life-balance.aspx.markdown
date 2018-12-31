@@ -1,12 +1,12 @@
 ---
 title: Work-life balance
+description: "How often do you hear people in the twilight of their lives or on their death beds reflect on the wonderful time they spent at the office?"
 date: 2004-10-16 -0800
 tags: [work,career]
 redirect_from: "/archive/2004/10/15/work-life-balance.aspx/"
 ---
 
-![FastCompany](/images/FastCompany.jpg) Read [this
-article](http://www.fastcompany.com/magazine/87/balance-1.html) at
+Read [this article](http://www.fastcompany.com/magazine/87/balance-1.html) at
 FastCompany pointed to by [Steve Maine](http://hyperthink.net/blog/) and
 maybe I'm lazy, but I totally disagree.
 
@@ -44,4 +44,3 @@ relationships with friends and family.
 It reminds me of something I've heard somewhere or other. How often do
 you hear people in the twilight of their lives or on their death beds
 reflect on the wonderful time they spent at the office?
-
