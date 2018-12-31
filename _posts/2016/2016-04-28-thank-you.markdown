@@ -60,4 +60,4 @@ However, there's a dark side to GitHub Selfie I must warn you about. You can sta
 
 These became such a thing a co-worker created a new Hubot command at work `.haack me` that brings up a random one of these gifs in Slack.
 
-Anyways, I'm losing the point here. GitHub Selfie is just one approach, albeit a fun one that adds a nice personal touch to Pull Request reviews and managing an OSS project. There are many other ways. The common theme though, is that a small word of appreciation goes a long way!
+Anyways, I'm losing the plot here. GitHub Selfie is just one approach, albeit a fun one that adds a nice personal touch to Pull Request reviews and managing an OSS project. There are many other ways. The common theme though, is that a small word of appreciation goes a long way!
