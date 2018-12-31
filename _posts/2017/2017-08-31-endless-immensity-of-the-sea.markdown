@@ -1,5 +1,6 @@
 ---
 title: "Endless Immensity of the Sea"
+description: "You can lead through coercion, or you can find a better way that relies on intrinsic motivation."
 date: 2017-08-30 -0800 11:32 AM PDT
 tags: [leadership,management,motivation]
 excerpt_image: https://user-images.githubusercontent.com/19977/29899178-c2771a0a-8d9e-11e7-9168-52682a4b3e93.png
