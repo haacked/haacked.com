@@ -1,5 +1,6 @@
 ---
 title: "The Impact of our Work"
+description: "Don't forget to focus on the human aspect of our work. Especially the unintended impact our work may have on others and society."
 date: 2018-01-01 -0800
 tags: [personal,career]
 ---

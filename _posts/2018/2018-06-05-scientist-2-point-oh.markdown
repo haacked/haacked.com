@@ -1,5 +1,6 @@
 ---
 title: "Scientist.NET 2.0 Release"
+description: "The new release of Scientist.NET supports fire and forget publishing and better support for IoC/DI scenarios."
 date: 2018-06-05 -0800
 tags: [github,csharp,dotnet,scientist,refactoring]
 ---
