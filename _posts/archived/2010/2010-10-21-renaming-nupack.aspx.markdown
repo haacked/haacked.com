@@ -1,5 +1,5 @@
 ---
-title: We&rsquo;re Renaming NuPack
+title: "We're Renaming NuPack"
 date: 2010-10-21 -0800
 tags:
 - nuget
