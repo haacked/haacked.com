@@ -84,7 +84,7 @@ could come up with. Also, I’d like to not simply appropriate a name
 associated with the Ruby community. I think that could cause confusion
 as well. I’d love to have a name that’s uniquely ours if possible.
 
-Why not name it ****?
+Why not name it \*\*\*\*?
 -------------------------
 
 In the original announcement, we listed three criteria:
