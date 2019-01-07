@@ -1,6 +1,6 @@
 ---
 title: "New Year, New Job"
-description: "I'm starting a consulting practice to help engineering leaders and teams become even more effective."
+description: "I started Haacked LLC to mentor software organizations to be the best version of themselves."
 date: 2019-01-07 -0800 09:04 AM PDT
 tags: [work,consulting]
 excerpt_image: https://user-images.githubusercontent.com/19977/50660887-27bfdc00-0f56-11e9-84ef-87be1bd61416.jpg
