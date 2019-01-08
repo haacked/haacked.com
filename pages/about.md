@@ -16,7 +16,7 @@ It also forms the basis for [my company name, Haacked LLC](https://haacked.com/a
 
 ## What I do
 
-I mentor and advise software organizations to help them become the best versions of themselves. I enjoy helping organizations become more effective through better management and better development workflows. Most important is to provide people with tools and systems they can improve at scale.
+I mentor and advise software organizations to help them become the best versions of themselves. I enjoy helping organizations become more effective through better management and better development workflows. It's important to me to provide tools and systems to teams so they can improve at scale.
 
 Before I started Haacked LLC, I worked at [GitHub](http://github.com/) doing whatever I could [to make it even more awesome](https://haacked.com/archive/2018/12/18/leaving-github/). Prior to that I worked at Microsoft on [NuGet](http://nuget.org) and [ASP.NET MVC](https://www.asp.net/mvc) and helped to usher in Microsoft's Open Source era.
 
