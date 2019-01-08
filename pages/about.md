@@ -12,7 +12,7 @@ permalink: /about/
 
 In case you were wondering, not that I have any reason to believe you were, *Haacked* is *not* my real name. _Haacked_ started off as my my [blogger handle](https://haacked.com/archive/2005/03/12/what-is-your-blogger-handle.aspx "What’s your blogger handle?"). It's a play of my last name and I use it everywhere: [Twitter](https://twitter.com/haacked), [GitHub](https://github.com/haacked), [StackOverflow](https://stackoverflow.com/users/598/haacked), [LinkedIn](https://https://www.linkedin.com/in/haacked/), and so on.
 
-It also forms the basis for [my company name, Haacked LLC](https://haacked.com/archive/2019/01/07/haacked-llc/). Best way to reach me is to DM me on Twitter. For work inquiries, email phil@haacked.com.
+It also forms the basis for [my company name, Haacked LLC](https://haacked.com/archive/2019/01/07/haacked-llc/). Best way to reach me is to DM me on Twitter. For work inquiries, email [phil@haacked.com](mailto:phil@haacked.com).
 
 ## What I do
 
