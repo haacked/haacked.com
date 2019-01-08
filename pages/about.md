@@ -18,7 +18,7 @@ The best way to reach me is to DM me on Twitter. For work inquiries, email [phil
 
 ## What I do
 
-I mentor and advise software organizations to help them become the best versions of themselves. Often, it's not the lack of technical know-how that holds teams back, but the lack of management and leadership skills that get in the way. When I help teams in this way, it's important that I leave them with tools and systems in place to scale their growth and learning.
+I coach software organizations to help them become the best versions of themselves. Often, it's not the lack of technical know-how that holds teams back, but the lack of management and leadership skills that get in the way. When I help teams in this way, it's important that I leave them with tools and systems in place to scale their growth and learning.
 
 Before I started Haacked LLC, I worked at [GitHub](http://github.com/) doing whatever I could [to make it even more awesome](https://haacked.com/archive/2018/12/18/leaving-github/). Prior to that I worked at Microsoft on [NuGet](http://nuget.org) and [ASP.NET MVC](https://www.asp.net/mvc) and helped to usher in Microsoft's Open Source era.
 
@@ -42,7 +42,7 @@ In my spare time, I continue the Quixotic battle to correct the capitalization o
 
 Here's a more condensed bio I use for conferences
 
-> Phil Haack is the founder and CEO of Haacked LLC where he mentors software organizations and helps them become the best versions of themselves.
+> Phil Haack is the founder and CEO of Haacked LLC where he coaches software organizations and helps them become the best versions of themselves.
 >
 > To do this, Phil draws upon his experiences at GitHub where he was a director of engineering and helped make GitHub friendly to developers on the Microsoft platform.
 >
