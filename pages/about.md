@@ -34,9 +34,9 @@ I also have a passion for managing and developing Open Source projects. There’
 
 What is it about American culture that causes us to ask people *What do you do?* and mean *What is your occupation?* rather than *What do you do for fun?*. And here I go propagating that mindset by putting this section last.
 
-Oh well. Read my blog for a while and you’ll find I’m fanatical about playing soccer.
+Oh well. Read my blog for a while and you’ll find I’m fanatical about playing soccer. I live in beautiful Bellevue, WA which has abundant hiking and camping opportunities. I also love to travel and listen to music with great beats way too loud.
 
-Living in beautiful Bellevue, WA, I take every occasion to go hiking and camping.
+In my spare time, I continue the Quixotic battle to correct the capitalization of "Github" to "GitHub" wherever I can.
 
 ## Speaker Bio
 
