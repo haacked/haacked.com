@@ -10,17 +10,20 @@ permalink: /about/
 
 <img src="https://user-images.githubusercontent.com/19977/49780625-33581400-fcc4-11e8-9961-735e6bebdfc8.png" class="profile" />
 
-In case you were wondering, not that I have any reason to believe you were, *Haacked* is *not* my real name.
+In case you were wondering, not that I have any reason to believe you were, *Haacked* is *not* my real name. _Haacked_ started off as my my [blogger handle](https://haacked.com/archive/2005/03/12/what-is-your-blogger-handle.aspx "What’s your blogger handle?"). It's a play of my last name and I use it everywhere:
 
-In the offline world, *(which some prefer to call the “real world”)*, people tend to call me [Phil Haack](https://haacked.com/ "home page") *(pronounced, you guessed it, “hack”)* — unless of course they are calling me more colorful names as is sometimes deserved.
+* [Twitter](https://twitter.com/haacked)
+* [GitHub](https://github.com/haacked)
+* [StackOverflow](https://stackoverflow.com/users/598/haacked)
+* [LinkedIn](https://https://www.linkedin.com/in/haacked/)
 
-*Haacked* is simply my [blogger handle](https://haacked.com/archive/2005/03/12/what-is-your-blogger-handle.aspx "What’s your blogger handle?") *(creative, eh?)*. I also go by [@haacked](http://twitter.com/haacked) on Twitter
+And so on and so on. And it also forms the basis of [my company name, Haacked LLC](https://haacked.com/archive/2019/01/07/haacked-llc/).
 
 ## What I do
 
-I'm a [stay-at-home parent and independent malcontent](https://twitter.com/haacked/status/1053296117176184834).
+I mentor and advise software organizations to help them become the best versions of themselves. I enjoy helping organizations become more effective through better management and better development workflows. Most important is to provide people with tools and systems they can improve at scale.
 
-I used to work at [GitHub](http://github.com/) doing whatever I could to make it even more awesome. Prior to that I worked at Microsoft on [NuGet](http://nuget.org) and [ASP.NET MVC](https://www.asp.net/mvc) and helped to usher in Microsoft's Open Source era.
+Before I started Haacked LLC, I worked at [GitHub](http://github.com/) doing whatever I could [to make it even more awesome](https://haacked.com/archive/2018/12/18/leaving-github/). Prior to that I worked at Microsoft on [NuGet](http://nuget.org) and [ASP.NET MVC](https://www.asp.net/mvc) and helped to usher in Microsoft's Open Source era.
 
 ## Why I do it
 
