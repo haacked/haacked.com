@@ -10,14 +10,9 @@ permalink: /about/
 
 <img src="https://user-images.githubusercontent.com/19977/49780625-33581400-fcc4-11e8-9961-735e6bebdfc8.png" class="profile" />
 
-In case you were wondering, not that I have any reason to believe you were, *Haacked* is *not* my real name. _Haacked_ started off as my my [blogger handle](https://haacked.com/archive/2005/03/12/what-is-your-blogger-handle.aspx "What’s your blogger handle?"). It's a play of my last name and I use it everywhere:
+In case you were wondering, not that I have any reason to believe you were, *Haacked* is *not* my real name. _Haacked_ started off as my my [blogger handle](https://haacked.com/archive/2005/03/12/what-is-your-blogger-handle.aspx "What’s your blogger handle?"). It's a play of my last name and I use it everywhere: [Twitter](https://twitter.com/haacked), [GitHub](https://github.com/haacked), [StackOverflow](https://stackoverflow.com/users/598/haacked), [LinkedIn](https://https://www.linkedin.com/in/haacked/), and so on.
 
-* [Twitter](https://twitter.com/haacked)
-* [GitHub](https://github.com/haacked)
-* [StackOverflow](https://stackoverflow.com/users/598/haacked)
-* [LinkedIn](https://https://www.linkedin.com/in/haacked/)
-
-And so on and so on. And it also forms the basis of [my company name, Haacked LLC](https://haacked.com/archive/2019/01/07/haacked-llc/).
+It also forms the basis for [my company name, Haacked LLC](https://haacked.com/archive/2019/01/07/haacked-llc/).
 
 ## What I do
 
