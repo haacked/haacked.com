@@ -5,28 +5,14 @@ tags: [microsoft,work]
 redirect_from: "/archive/2007/10/25/drinking-from-the-firehose.aspx/"
 ---
 
-For those starting out at Microsoft, an analogy that you’re likely to
-hear a lot is “Drinking from the firehose”. The first time I’ve ever
-heard this phrase was when
-[Dare](http://www.25hoursaday.com/weblog/ "Dare Obasanjo's Blog") used
-it [in a post about the flood of
-information](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=14d0413e-d0dc-4382-9ee9-57e95d7b3544 "NightCrawler Thoughts")
-due to subscribing to multiple RSS feeds.
+For those starting out at Microsoft, an analogy that you’re likely to hear a lot is “Drinking from the firehose”. The first time I’ve ever heard this phrase was when [Dare](http://www.25hoursaday.com/weblog/ "Dare Obasanjo's Blog") used
+it [in a post about the flood of information](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=14d0413e-d0dc-4382-9ee9-57e95d7b3544 "NightCrawler Thoughts") due to subscribing to multiple RSS feeds.
 
-![Bronx Summer. Photographer,
-unknown.](https://haacked.com/images/haacked_com/WindowsLiveWriter/DrinkingfromtheFireHose_4FA/bronx-summer-open-fire-hydrant%5B1%5D_3.jpg)
+![Make sure to hydrant](https://user-images.githubusercontent.com/19977/50916291-933ef900-13ef-11e9-956f-054714d033ce.png)
 
-It’s entirely apropos (*just love that word ever since The Matrix*) as a
-description of starting as a new employee at Microsoft. My buddy Walter
-said his brother had the same feeling when starting at CalTech. That
-resonates with me, because unlike my college, with its emphasis on the
-liberal arts, Microsoft very much feels like an engineering college.
+It’s entirely apropos (*just love that word ever since The Matrix*) as a description of starting as a new employee at Microsoft. My buddy Walter said his brother had the same feeling when starting at CalTech. That resonates with me, because unlike my college, with its emphasis on the liberal arts, Microsoft very much feels like an engineering college.
 
-For example, everyone around me is technically adept and incredibly
-smart. It’s funny to hear myself say that. Over the past few years, I’ve
-read many blog posts from people I highly respect, real brainiacs in the
-industry, talk about their transition to Microsoft and they would often
-say something similar. Something along the lines of...
+For example, everyone around me is technically adept and incredibly smart. It’s funny to hear myself say that. Over the past few years, I’ve read many blog posts from people I highly respect, real brainiacs in the industry, talk about their transition to Microsoft and they would often say something similar. Something along the lines of...
 
 > “I’m surrounded by really really smart people."
 >
@@ -108,4 +94,3 @@ The main thing I want to say is that I still plan to work on
 [Subtext](http://subtextproject.com/ "Subtext"), though my involvement
 will be scant in the near term. I also still plan to continue blogging
 and not drop off the face of the blogodome as some have feared.
-
