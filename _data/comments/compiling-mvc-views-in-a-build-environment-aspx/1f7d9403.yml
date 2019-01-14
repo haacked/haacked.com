@@ -1,0 +1,5 @@
+id: 1f7d9403
+date: 2019-01-14T21:44:28.1064673Z
+name: Sam Ruby
+avatar: https://avatars.io/twitter/@SamRueby/medium
+message: 'People may find it confusing that MvcBuildViews does not actually compile views. What it actually does is add views to the build process in order to find compile-time mistakes. There is no build output. To actually precompile views, you should set PrecompileBeforePublish to true in your publish profile. Reference: https://stackoverflow.com/a/49042868/825011'
