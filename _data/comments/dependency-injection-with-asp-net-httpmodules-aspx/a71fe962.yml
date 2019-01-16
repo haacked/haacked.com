@@ -1,0 +1,5 @@
+id: a71fe962
+date: 2019-01-16T18:47:38.4451847Z
+name: Mike
+avatar: https://secure.gravatar.com/avatar/b7d3bc4dc2ec3cac477779ecef14b543?s=80&d=identicon&r=pg
+message: I love this approach but need it to run for all requests.  Ashwin asked this question but never got an answer.  Anyone know how to get dynamically-registered HttpModules to run for all requests (other than RAMMFAR)?
