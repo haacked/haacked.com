@@ -1,0 +1,5 @@
+id: d82cbc00
+date: 2019-01-16T20:58:20.0728336Z
+name: hrothenb
+avatar: https://avatars.io/twitter//medium
+message: If you want the exe directory you can use System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetEntryAssembly().Location);
