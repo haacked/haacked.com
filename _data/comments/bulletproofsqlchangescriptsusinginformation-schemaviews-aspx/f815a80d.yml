@@ -1,0 +1,5 @@
+id: f815a80d
+date: 2019-01-16T17:27:11.1727412Z
+name: Mike K
+avatar: https://secure.gravatar.com/avatar/700dbc126f8cede8c4a8b278333e373d?s=80&d=identicon&r=pg
+message: doesn't work with sprocs nor funcs in sql server... you lose permissions on the sproc or func
