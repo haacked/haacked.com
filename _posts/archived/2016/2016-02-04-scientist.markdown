@@ -2,6 +2,7 @@
 title: "A .NET port of Scientist"
 date: 2016-01-20 -0800
 tags: [github,csharp,dotnet,scientist]
+excerpt_image: https://cloud.githubusercontent.com/assets/19977/12812812/0e75502c-cae9-11e5-9965-2cf7cf99adfd.jpg
 ---
 
 Over on the [GitHub Engineering blog](http://githubengineering.com/scientist/) my co-worker Jesse Toth published a fascinating post about the [Ruby library named Scientist](http://githubengineering.com/scientist/) we use at GitHub to help us run experiments comparing new code against the existing production code.
