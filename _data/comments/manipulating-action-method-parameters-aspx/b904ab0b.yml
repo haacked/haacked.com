@@ -1,0 +1,5 @@
+id: b904ab0b
+date: 2019-01-21T22:59:29.3138364Z
+name: Amir
+avatar: https://secure.gravatar.com/avatar/942013086177511c711e92ea44d95316?s=80&d=identicon&r=pg
+message: Searching a string in the database is not as fast as the primary key because of the indexing in the database. I'm looking for a different way to prevent showing database ID to the user. Is anybody resolve this issue?
