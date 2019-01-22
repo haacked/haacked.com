@@ -1,0 +1,5 @@
+id: 555db1bb
+date: 2019-01-21T23:31:20.8770126Z
+name: KirkY
+avatar: https://secure.gravatar.com/avatar/4dcb4a5db79ffdb1724e7c806aa662a0?s=80&d=identicon&r=pg
+message: Thank you so much for this article, even this many years since you wrote it.  I was struggling with binary encoding string data into an XML file using 'Encoding.ASCII.GetString(bytes)'. The XML serializer was throwing all kinds of errors at me that I couldn't resolve. 'Convert.ToBase64String(bytes)' ended the pain.
