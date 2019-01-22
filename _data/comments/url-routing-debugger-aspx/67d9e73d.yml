@@ -1,0 +1,14 @@
+id: 67d9e73d
+date: 2019-01-22T17:02:48.9139836Z
+name: Mir
+avatar: https://avatars.io/twitter//medium
+message: >-
+  Documentation needs to be updated!!!
+
+
+
+  The code in the Application_Start (e.g. RouteDebug.RouteDebugger…) is no longer needed in version 2.1.5.0 of the NuGet package.
+
+
+
+  Just the update to the web.config is required to enable the debugger display added to the bottom of the page.
