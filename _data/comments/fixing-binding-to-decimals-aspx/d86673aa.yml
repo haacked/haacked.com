@@ -1,0 +1,5 @@
+id: d86673aa
+date: 2019-01-23T18:35:07.9726201Z
+name: Jefferson
+avatar: https://secure.gravatar.com/avatar/7a9f049e8764dcd490d3b29970aa2170?s=80&d=identicon&r=pg
+message: "If you live in Brazil but you need use american culture, replace line in try for: \r\n\r\nactualValue = Convert.ToDecimal(valueResult.AttemptedValue, new CultureInfo(\"en-US\"));\r\n"
