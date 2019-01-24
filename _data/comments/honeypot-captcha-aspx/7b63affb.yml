@@ -1,0 +1,5 @@
+id: 7b63affb
+date: 2019-01-23T12:01:20.5826666Z
+name: Nidheesh
+avatar: https://secure.gravatar.com/avatar/e1c61af15f6e9ed793edca9b03e19b8d?s=80&d=identicon&r=pg
+message: What about the bots that really won't fill all the fields in the form? I recently had the same issue where my captcha image was read by the bot (may be using OCR) and left some form fields as blank when it submitted the form.
