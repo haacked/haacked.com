@@ -1,5 +1,5 @@
 ---
-title: The meaning of &quot;Impedance Mismatch&quot;.
+title: The meaning of Impedance Mismatch
 date: 2004-06-15 -0800
 tags:
 - code
