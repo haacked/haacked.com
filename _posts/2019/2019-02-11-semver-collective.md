@@ -49,6 +49,6 @@ I'd like to acknowledge several people who've been a big help along the way.
 1. [@jwdonahue](https://github.com/jwdonahue) has been tireless in vetting issues and managing discussions in the issue tracker.
 2. [@zeke](https://github.com/zeke) who donated the GitHub [semver org](https://github.com/semver) to me so I could house SemVer in an org.
 3. [@mojombo](https://github.com/mojombo) who created SemVer and also transferred the SemVer repositories to the semver org.
-4. And of course, [the new SemVer maintainers team](https://github.com/orgs/semver/teams/maintainers/members). They've provided valuable advice about how to go about this transition.
+4. And of course, the new SemVer maintainers team. They've provided valuable advice about how to go about this transition.
 
 I trust SemVer is in good hands now. If I knew how to ride a motorcycle, I'd cue the movie trope of riding off into the sunset. I've always wondered how long they ride before they realize they'll never get there.
