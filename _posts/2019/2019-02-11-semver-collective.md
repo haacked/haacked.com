@@ -38,6 +38,8 @@ These are the folks who have skin in the game when it comes to versioning. Packa
 
 With this in place, there is now a path for future changes to SemVer that don't rely on me unilaterally making a decision.
 
+## Related Posts
+
 * Steve Klabnik [wrote a post as a representative from Cargo](https://words.steveklabnik.com/what-s-next-for-semver), a package manager for Rust.
 
 ## Acknowledgments
