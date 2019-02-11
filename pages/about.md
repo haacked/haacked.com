@@ -38,6 +38,10 @@ Oh well. Read my blog for a while and you’ll find I’m fanatical about playin
 
 In my spare time, I continue the Quixotic battle to correct the capitalization of "Github" to "GitHub" wherever I can.
 
+## License
+
+All content on haacked.com is the copyright of Phil Haack unless otherwise stated. I license all blog posts under the [Creative Commons Attribution (CC BY 2.0) license](https://creativecommons.org/licenses/by/2.0/). All code samples and the blog template are [licensed under the MIT license](https://opensource.org/licenses/MIT). Note that some code samples are obvious implementations and not inventive. Those may be used without attribution.
+
 ## Speaker Bio
 
 Here's a more condensed bio I use for conferences
