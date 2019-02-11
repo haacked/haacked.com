@@ -32,7 +32,7 @@ In my view, the ones who should make those decisions are the ones who are both m
 
 So I reached out to folks from the various package managers that adhere to SemVer to some degree or other.
 
-I asked each package manager to provide a representative to start the initial group that would maintain SemVer from now on. Together, this group put together a document that describes the governance model and the RFC (request for comments) process that describes how changes to the SemVer spec will be made in the future. This governance document is now the `CONTRIBUTING.md` document for [semver/semver])(https://github.com/semver/semver) repository.
+I asked each package manager to provide a representative to start the initial group that would maintain SemVer from now on. Together, this group put together a document that describes the governance model and the RFC (request for comments) process that describes how changes to the SemVer spec will be made in the future. This governance document is now the `CONTRIBUTING.md` document for [semver/semver](https://github.com/semver/semver) repository.
 
 These are the folks who have skin in the game when it comes to versioning. Package managers have immense importance to their respective software communities. I am excited to step down as the maintainer of SemVer and hand it off to these folks.
 
