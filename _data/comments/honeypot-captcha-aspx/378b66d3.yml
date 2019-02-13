@@ -1,0 +1,7 @@
+id: 378b66d3
+date: 2019-02-13T14:51:10.5985489Z
+name: Bojan Kovacec
+avatar: https://avatars.io/twitter/@fuzin3/medium
+message: >+
+  Since usualy email is required I think it makes much sense to use email as a honeypot field, just remeber that browser will also autofill hidden fields. Do not forget to put autocomplete="some-random-name" to honeypot field, else it will catch users inputs as well.
+
