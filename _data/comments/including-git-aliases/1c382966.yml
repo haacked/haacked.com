@@ -1,0 +1,14 @@
+id: 1c382966
+date: 2019-02-17T19:23:17.9786549Z
+name: haacked
+avatar: https://avatars.io/twitter/@haacked/medium
+message: >-
+  @Ken Some of them might need tweaking because of the difference in how PowerShell handles quoting, but most of them should work. I think the ones that use "sed" won't work because that's not included with Git.
+
+
+
+  @Jamie Nothing specific other than put them in a repository and write some scripts to pull them to the right place.
+
+
+
+  @Jason that's exactly right. It's what I recommend doing. I could probably make it work for SSH too, but I got lazy. :P
