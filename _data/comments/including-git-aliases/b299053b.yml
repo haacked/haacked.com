@@ -1,0 +1,26 @@
+id: b299053b
+date: 2019-02-18T22:17:42.5645783Z
+name: Ashe
+avatar: https://avatars.io/twitter/@kivikakk/medium
+message: >-
+  I use the following trick to generate shell aliases for all defined git aliases, such that every one works without `git` before it. It sounds like a small bonus, but I use these commands tens to hundreds of times a day, and find the added fluency really helpful.
+
+
+
+  fish:
+
+
+
+  git config --list | perl -lne '/^alias[.]([^=]+)/ and print "alias $1=\"git\\ $1\""' | source
+
+
+
+  bash:
+
+
+
+  eval "$(git config --list | perl -lne '/^alias[.]([^=]+)/ and print "alias $1=git\\ $1"')"
+
+
+
+  This is probably a bad idea if git aliases have names that overlap with actual commands (like find, history, cp), but can be helpful if you don't.
