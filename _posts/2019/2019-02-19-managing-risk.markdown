@@ -1,15 +1,14 @@
 ---
 title: "Managing Risk"
-description: "Managing risk should not just come at the beginning or end of a project. It should be an ongoing part of any project."
-date: 2019-02-08 -0800 09:04 AM PDT
-tags: [work,consulting]
+description: "Managing risk should not just come at the beginning or end of a project. It should be an ongoing part of any project. It can also be a tool for managing risks to team health, not just the project."
+date: 2019-02-19 -0800 09:52 AM PDT
+tags: [work,consulting,management]
 excerpt_image: https://user-images.githubusercontent.com/19977/52507123-7e4bb600-2ba5-11e9-8aa4-aee681f38c10.png
 ---
 
 Every project risks failure to some degree or other. There's the risk of delivering late. The risk of not being able to deliver at all. Or the risk that you do deliver in the end, but it solves the wrong problem. It's a risky business, but not the kind with [Tom Cruise lip-synching in his underwear](https://www.youtube.com/watch?v=UuQZfwWyTWY). When you work on a project, it's important to be aware of and manage risk. There are several good tools for doing this.
 
 ![Driving while changing a tire](https://user-images.githubusercontent.com/19977/52507123-7e4bb600-2ba5-11e9-8aa4-aee681f38c10.png)
-
 
 ## Postmortem (Retrospectives)
 
