@@ -1,0 +1,5 @@
+id: 4bc51c8a
+date: 2019-02-20T11:13:41.9777877Z
+name: girl
+avatar: https://secure.gravatar.com/avatar/6096363894615e193052d03c8bcb0cea?s=80&d=identicon&r=pg
+message: I would just use Thread.Abort and catch the exception.
