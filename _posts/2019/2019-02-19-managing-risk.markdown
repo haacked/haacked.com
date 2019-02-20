@@ -32,8 +32,6 @@ You don't need to ask Ms. Cleo to predict the future and generate ideas of what 
 
 One of the drawbacks of the premortem and postmortem is a lack of follow-up during a project. How does a team continue to consider the risks they identified as a project progresses? One way is to maintain a top ten risk list. This is an approach I learned from the Steve McConnell book, [Rapid Development](https://amzn.to/2SBzHDx). Developers might know Steve better as the author of [Code Complete](https://amzn.to/2tbqDH8).
 
-There's a lot of variations of this tool, but I prefer to keep it real simple. Every week, we would review the list of our top risks.
-
 There's a lot of variations of this tool, but I prefer to keep it real simple. Every week, we would review the list of our top risks. The book recommends ten risks, but the ten is arbitrary. Adapt it to something that fits your team's needs.
 
 Here's the simplest possible format for a top ten risk list where the priority is based on the order in the list.
