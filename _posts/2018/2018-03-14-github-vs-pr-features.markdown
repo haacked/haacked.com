@@ -46,7 +46,7 @@ With this release, you can see which PR you are on directly from the status bar,
 
 Finally, this update enables developers to quickly switch from a diff view back into the editor.
 
-When viewing a diff view in Visual Studio, it is a jarring experience for a developer to be _within_ their IDE and not be able to edit (since you can’t edit a diff view). This releaseadds a simple way for developers reviewing a diff to jump right back into coding. All you have to do is press Enter in the file! ([Video here](https://drive.google.com/open?id=1ePiF4FM3hwKejSur1cU7OdjkozLFq83N) for a better view of what this animated gif shows):
+When viewing a diff view in Visual Studio, it is a jarring experience for a developer to be _within_ their IDE and not be able to edit (since you can’t edit a diff view). This release adds a simple way for developers reviewing a diff to jump right back into coding. All you have to do is press Enter in the file! ([Video here](https://drive.google.com/open?id=1ePiF4FM3hwKejSur1cU7OdjkozLFq83N) for a better view of what this animated gif shows):
 
 ![Switching from diff to code](https://github-team.s3.amazonaws.com/uploads/general/09853368-78a1-4385-a133-e5177af74391.gif)
 
