@@ -36,7 +36,7 @@ The speaker [line-up was impressive](https://caribbeandevconf.com/speaker-lineup
 
 ![A selection of the fine speakers](https://user-images.githubusercontent.com/19977/47885396-117c8f00-ddf2-11e8-9ac8-75ebd9064d08.png)
 
-There were 300 participants from 14 countries and 157 different companies. Eventbrite shows that 67% of attendeers were men and 33% were women.
+There were 300 participants from 14 countries and 157 different companies. Eventbrite shows that 67% of attendees were men and 33% were women.
 
 The organizers are committed to creating a conference that represents and embraces the entire Caribbean region, not just the Dominican Republic (DR). Having said that, 90% of the attendees country were from the DR.
 
@@ -62,7 +62,7 @@ The organizers succeeded in providing these opportunities not only to locals, bu
 
 ## Appreciation
 
-One thing that struck me was how much appreciation local developers have for visiting speakers. After my keynote, I had so many attendees mention how much they appreciated my talk. And I don't mean that as a humble brag with the subtlety of a rhinocerous in a leotard.
+One thing that struck me was how much appreciation local developers have for visiting speakers. After my keynote, I had so many attendees mention how much they appreciated my talk. And I don't mean that as a humble brag with the subtlety of a rhinoceros in a leotard.
 
 [![](https://pbs.twimg.com/media/DqdPIXuXQAM1xO2.jpg)](https://twitter.com/rmoscat/status/1055900050646331393)
 
