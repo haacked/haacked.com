@@ -39,7 +39,7 @@ Here's the simplest possible format for a top ten risk list where the priority i
 Risk                         | Plan/Mitigations      | Owner
 ---------------------------- | --------------------- | --------------------------
 We'll miss the hard deadline | Identify scope we can cut. Identify areas where additional headcount will help and not hurt. | Diana
-Client's keep changing requirements | Short iterations. Constant communication. A requirements-change process | Bruce
+Clients keep changing requirements | Short iterations. Constant communication. A requirements-change process | Bruce
 Data centers are running hot | Submerge them underwater | Clark
 Leadership doesn't see the value of the project | Implement metrics and data to show the possible monetary value of the features. Compile a list of customer requests. Regular communication of progress | Carol
 
