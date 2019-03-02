@@ -35,7 +35,7 @@ I’m sure there must be some stupid people around here somewhere. They’re jus
 
 I had a great meeting with my manager on my third day of work. Rather than focusing on technology, tasks, and features, we spent a couple hours talking about passion, personal mission, goals, long term outlook, etc... And not the typical bullcrap I can regurgitate in an interview (whoops!). I was forced to really think deeply about these issues, about what I really want out of a career, which is quite frankly something I haven’t done in a long time. **I’ve been too busy *doing* and not spending any time pondering.** It is really important to have a balance of both.
 
-In part, I think this is a reflection of a company that can afford to invest in the long run and be strategic, rather than always investing in the short term and feeling like a chicken with its head cut off. It is a\ refreshing change of pace.
+In part, I think this is a reflection of a company that can afford to invest in the long run and be strategic, rather than always investing in the short term and feeling like a chicken with its head cut off. It is a refreshing change of pace.
 
 But don’t confuse that with a slow pace, it was intensely busy over here last week. Right off the bat I was put to work on preparing materials for a private Software Design Review (SDR) we had with select customers and partners, which kept me busy over the weekend. The great part of course is that I’m pretty much in control over my own schedule for the most part, as long as I’m producing results.
 
