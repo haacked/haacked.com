@@ -23,7 +23,7 @@ For example, everyone around me is technically adept and incredibly smart. It’
 >
 > “I feel humbled by the smart people around me.”
 
-I used to read these statements and think to myself, *Bullshit! You’re freakin’ [*Don Box*](http://www.pluralsight.com/blogs/dbox/ "Don Box")! Or [*Chris Sells*](http://www.sellsbrothers.com/ "Chris Sells")! Or [*Scott Hanselman*](http://hanselman.com/blog/ "Scott Hanselman")! Or [*John Lam*](http://www.iunknown.com/ "IUnknown.com blog")! (I could go on...) I know you’re just saying that to be nice. I mean, how could you really say otherwise since you have to work with them?*
+I used to read these statements and think to myself, *Bullshit! You’re freakin’ [Don Box](http://www.pluralsight.com/blogs/dbox/ "Don Box")! Or [Chris Sells](http://www.sellsbrothers.com/ "Chris Sells")! Or [Scott Hanselman](http://hanselman.com/blog/ "Scott Hanselman")! Or [John Lam](http://www.iunknown.com/ "IUnknown.com blog")! (I could go on...) I know you’re just saying that to be nice. I mean, how could you really say otherwise since you have to work with them?*
 
 *Sure I bet these people are smart, and many of them might even be scary smart, but you know you’re a big dog over there. Admit it. Go ahead, admit it.*
 
@@ -43,7 +43,7 @@ But don’t confuse that with a slow pace, it was intensely busy over here last 
 
 It may seem like I have completely drunk the kool-aid, but I like to think that I held it in my cheek waiting for a moment when nobody was looking to spit it out. Besides, the kool-aid would be extremely diluted from the fire hose.
 
-The phrase “*drinking the kool-aid” implies a cult or herd mentality, which is something I hope to avoid. In fact, it makes me a more valuable employee if I can keep some of my naive *outsider* thinking intact, though perhaps over time, I will be super assimilated (*doh!*).
+The phrase “drinking the kool-aid” implies a cult or herd mentality, which is something I hope to avoid. In fact, it makes me a more valuable employee if I can keep some of my naive *outsider* thinking intact, though perhaps over time, I will be super assimilated (*doh!*).
 
 I think my enthusiasm for my work has a lot to do with the particular group I am in and the particular project I am on. I know there are some people very dissatisfied at Microsoft, so it’s not all roses and ice cream.
 
