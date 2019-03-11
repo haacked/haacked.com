@@ -1,0 +1,12 @@
+id: e05ebb03
+date: 2019-03-11T14:54:22.2776192Z
+name: Andrey Taritsyn
+avatar: https://github.com/Taritsyn.png
+message: >-
+  Hello, Phil!
+
+
+
+
+
+  It seems to me that it would be more logical to place an “Mixing code and plain text (alternate)” example in front of the “Using block” example, and also remove the next piece of code from it: ` is @bar`.
