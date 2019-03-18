@@ -1,0 +1,5 @@
+id: 389e76fc
+date: 2019-03-18T16:51:04.5759203Z
+name: Sam
+avatar: https://secure.gravatar.com/avatar/6a85b144f9322c5da3c17afdf4aaeeab?s=80&d=identicon&r=pg
+message: RX really sucks. So glad C# is adding first class support for IAsyncEnumerable in C# 8.0. Rx takes callback hell and dials it up to 11.
