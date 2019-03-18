@@ -1,0 +1,16 @@
+id: dc76e336
+date: 2019-03-18T07:25:27.6998597Z
+name: Admire Mhlaba
+avatar: https://secure.gravatar.com/avatar/cf87d78f4e7e1d0d6ad16d40869f345f?s=80&d=identicon&r=pg
+message: >-
+  Thank you for this excellent and helpful post, stumbled across this article after struggling for hours to bind dynamic elements to my controller in asp.net core 2.2. Just an update, one could auto generate Index value using viewmodel property e.g public string Id {get; set; } = Guid.NewGuid().ToString(); and use an action method that returns a partial-view that you pass an instance: new viewmodel() e.g
+
+
+
+  public IViewResult dynamicElements()
+
+  { return PartialView(_PartialView, new ViewModel(); }
+
+
+
+  This worked like magic, was able to dynamically add and remove elements and bind remaining elements to my controller.
