@@ -200,7 +200,7 @@ To go back to the default behavior of accepting all packages, replace `require` 
 nuget config -set signatureValidationMode=accept
 ```
 
-## Conclusions
+## Intended Audience
 
 NuGet package signing seems to be designed for security hardened enterprise environments. The type of environment where developers are not allowed to install packages from nuget.org. Instead, they must install packages from a curated internal feed that contains a set of blessed packages.
 
@@ -209,6 +209,29 @@ I struggle to see how this provides a more secure experience for the general dev
 And for each trusted signer, I have to hope they remember to sign every package they publish. As we saw with James (who I respect and admire), not every author does this. This is too bad, because when I tell NuGet that I trust James, that means I trust any package he uploads to NuGet. There's no way to express this right now that I know of. I don't care if he remembered to sign it or not. I trust people, not packages.
 
 Some might point out that if a bad actor compromises his nuget.org account, they won't be able to upload signed packages. So by trusting his signature, I protect myself from this scenario. But in my thinking, if someone compromises his nuget.org account, why wouldn't I assume they've also compromised his certificate? It's possible that he might _let_ another person upload packages using his account. In that case, a package signature might protect me as these packgaes might be signed with another signature. But that assumes he also doesn't share access to his code signing chain.
+
+## What Would Haacked Do?
+
+So what would I suggest NuGet do? A lot of the ideas I proposed [in my Trust and NuGet](https://haacked.com/archive/2013/02/19/trust-and-nuget.aspx/) blog post still apply. In particular, I'd focus on the social proofs part of it.
+
+The good news is the NuGet team wouldn't have to build out that infrastructure itself. Keybase (https://keybase.io/) is a free and open-source app that provides a way to share public keys. It goes beyond the social proofs I suggested and implements everything you'd expect.
+
+In fact, NPM and Ruby Gems make use of keybase to support package signing. That greatly lowers the overhead for signing packages as it doesn't require developers to purchase certificates. They can generate their own public/private key pair and sign the packages with that. They then publish their private key on Keybase along with their social proofs. It's important to keep in mind, that even in those cases, very few people sign packages.
+
+If I were in dictator of NuGet, I would integrate the social proofs from keybase into nuget.org. I'd take advantage of the fact that NuGet.org signs packages. That could be the mechanism by which we establish ownership of a package. Let package authors simply use NuGet.org as one means to sign a package, even if the package is intended for another repository. The nuget.org signature, which would include the user's username, combined with the Keybase social proofs, provides a pretty strong identity.
+
+Then you could implement installation trust policies similar to how Ruby Gems does it. For example, here are a couple examples of installing gems using installation trust policies.
+
+```ruby
+gem install gemname -P HighSecurity # All dependent gems must be signed and verified.
+gem install gemname -P MediumSecurity # All signed dependent gems must be verified.
+```
+
+With keybase integration, you could imagine options that simply verify that gems are uploaded by people in your Keybase trust circle.
+
+For those who don't want to use nuget.org to sign their packages, they could take the extra step to sign packages themselves. The same trust policies could apply by using adding options to trust people in your Keybase network of friends or even friends of friends.
+
+## Conclusion
 
 All in all, the package signing feature is still young. I anticipate that the NuGet team will iterate on package signing and it will get more and more useful. But as it stands, there's really not much reason for me to sign my packages as an independent package author. And as a NuGet consumer, there's really no way I can realistically take advantage of package signing to make my environment more secure. At least not yet.
 
