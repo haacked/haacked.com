@@ -1,7 +1,7 @@
 ---
 title: "Exploring NuGet Package Signing"
-description: "..."
-date: 2019-02-19 -0800 09:52 AM PDT
+description: "An exploration of the NuGet package signing feature."
+date: 2019-04-03 -0800 09:52 AM PDT
 tags: [nuget,security]
 excerpt_image: https://user-images.githubusercontent.com/19977/55196121-ad28e600-516b-11e9-905d-6e1298dd8216.PNG
 ---
