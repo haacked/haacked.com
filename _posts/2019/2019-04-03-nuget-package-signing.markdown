@@ -57,7 +57,7 @@ If you use the same tools as Nate (Azure Key Vault and AppVeyor), then you're in
 
 So this leaves the question, what benefits do you get for all this effort? What is the end-user experience like now that yu sign your packages?
 
-## What the user experiences
+## The user experience
 
 The default mode for NuGet is to accept all packages. So for most users, package signing makes no difference. If you want to start validating package signatures, run the following command.
 
@@ -220,4 +220,6 @@ Let me know in the comments if I missed something in my analysis. Maybe there's 
 
 So Oren, when you asked me if I signed my packages, and I replied "Nope." This is what I meant by that nope. I may sign some of them anyways, just to understand the experience, but I'm still waiting on that certificate.
 
-I hate to write a post that only points out problems. In a follow-up post, I'll propose some ideas to solve these issues.
+## Solutions
+
+In this post, I focused on problems. It's not in my nature to leave it at that. In a follow-up post, I'll propose some ideas to solve these issues.
