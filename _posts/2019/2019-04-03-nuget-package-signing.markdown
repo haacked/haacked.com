@@ -1,26 +1,26 @@
 ---
-title: "Exploring NuGet Package Signing"
+title: "Why NuGet Package Signing Is Not (Yet) for Me"
 description: "An exploration of the NuGet package signing feature."
-date: 2019-04-03 -0800 09:52 AM PDT
-tags: [nuget,security]
+date: 2019-04-03 -0800 09:05 AM PDT
+tags: [nuget,security,oss]
 excerpt_image: https://user-images.githubusercontent.com/19977/55196121-ad28e600-516b-11e9-905d-6e1298dd8216.PNG
 ---
 
-Strap in for a rollicking exploration of the NuGet package signing feature. What is the feature and what is it good for? And does it live up to its purpose? I know what you're thinking - I know how to party.
+Strap in for a rollicking exploration of the NuGet package signing feature. What is the feature and what is it good for? And does it live up to its purpose? Yes, my friends, I know how to party.
 
 To get reacquainted with my old pal NuGet, I updated some old packages and tweeted about the fun I had doing it. That's when my buddy Oren rained on my parade.
 
 <img width="615" title="Oren: Did you sign it? Phil: Nope" alt="Oren: Did you sign it? Phil: Nope" src="https://user-images.githubusercontent.com/19977/55128835-41466f00-50d2-11e9-999f-d2be1c84ffee.png">
 
-Perhaps my answer was a bit glib. Perhaps. A tiny bit.
+Perhaps my answer was a bit glib. Just a bit.
 
-But if you peer behind the glib "nope", there is an overflowing cauldron of thoughts. These thoughts aren't compressible into a series of tweets. 
+But if you peer behind the glib "nope", there's an overflowing cauldron of thoughts. These thoughts aren't compressible into a series of tweets.
 
 I captured some of these thoughts in [a blog post I wrote about Trust and NuGet](https://haacked.com/archive/2013/02/19/trust-and-nuget.aspx/) back in 2013 (six years ago!).
 
 > Just to be clear. I’m actually in favor of supporting package signing eventually. But I do not support requiring package signing to make it into the NuGet gallery. And I think there are much better approaches we can take first to mitigate the risk of using NuGet before we get to that point.
 
-Well guess what? It's six years later and NuGet has package signing. Were my predictions correct?
+Well guess what?! It's six years later and NuGet has package signing. Were my predictions correct?
 
 ## The Ubiquity Problem
 
@@ -28,7 +28,7 @@ Well guess what? It's six years later and NuGet has package signing. Were my pre
 
 To test this hypothesis, I wrote a .NET Core console app. The app scrapes the top community packages from the [nuget.org stats page](https://www.nuget.org/stats/packages). It then checks each package for an author signature and outputs the result.
 
-The code doesn't check every package. There are groups of packages that have the same prefix. For example, there are many `xunit.*` packages. In this case, I grouped the packages by prefix and took the first one. Here's a screenshot of the end result of running this code against the top 100 packages. Because of the grouping, it just checks 52 unique package groups.
+To be fair, the code doesn't check _every_ package. There are groups of packages that have the same prefix and are closely related to each other. For example, there are many `xunit.*` packages. In this case, I grouped the packages by prefix and took the first one. Here's a screenshot of the end result of running this code against the top 100 packages. Because of the grouping, it just checks 52 unique package groups.
 
 ![NuGet Sign Checker Output](https://user-images.githubusercontent.com/19977/55196121-ad28e600-516b-11e9-905d-6e1298dd8216.PNG)
 
@@ -53,19 +53,19 @@ There's also the added friction to set up code signing as part of your package d
 
 > It’s only 122 lines of code, but it took a full weekend and several weeks of waiting on DigiCert to get this all worked out. Hopefully this guide helps you figure out how to set up code signing for your projects.
 
-If you plan to use the same tools as Nate (Azure Key Vault and AppVeyor), then it might not take you as long to get it set up. But if you want to use other tools, good luck!
+If you use the same tools as Nate (Azure Key Vault and AppVeyor), then you're in luck. It will probably be quick to set up. But if you want to use other tools, good luck!
 
 So this leaves the question, what benefits do you get for all this effort? What is the end-user experience like now that yu sign your packages?
 
-## User Experience
+## What the user experiences
 
-The default mode for NuGet is to accept all packages. So for most users, package signing makes no difference. If you want to start validating signatures, run the following command.
+The default mode for NuGet is to accept all packages. So for most users, package signing makes no difference. If you want to start validating package signatures, run the following command.
 
 ```cmd
 nuget config -set signatureValidationMode=require
 ```
 
-This tells NuGet to start validating package signatures when you install them. If a package is already in your package cache, NuGet will not validate it when you try to install it. I ran into this the first time I experimented with this. You can run the following command to clear your local NuGet cache:
+This tells NuGet to require package signatures when you install them. If a package is already in your package cache, NuGet will not validate it when you try to install it. I ran into this the first time I experimented with this. You can run the following command to clear your local NuGet cache:
 
 ```cmd
 nuget locals all -clear
@@ -81,15 +81,13 @@ It failed. But this package must be signed, right? Let's look at the relevant er
 
 > nuget : NU3034: Package 'Newtonsoft.Json 12.0.1' from source 'https://api.nuget.org/v3/index.json': signatureValidationMode is set to require, so packages are allowed only if signed by trusted signers; however, no trusted signers were specified.
 
-That last bit is the important part. With `signatureValidationMode` set to `require`, NuGet rejects package installation unless the package is signed by a trusted signer. Let's take a look at the set of trusted signers on my machine.
+That last bit is the important part. With `signatureValidationMode` set to `require`, NuGet rejects package installation unless the package is signed by a __trusted signer__. Let's take a look at the set of trusted signers on my machine.
 
 ```cmd
 nuget trusted-signers list
 ```
 
-This outputs the message, "There are no trusted signers." Right now, NuGet on my machine trusts nobody like it's [Cashmere Cat with Selena Gomez](https://www.youtube.com/watch?v=1Vn1BXfsd4Q).
-
-Great, so how do I trust this package? Well one way is to specify that I trust the repository it comes from.
+This outputs the message, "There are no trusted signers." Looks like my machine has trust issues. Let's remedy that. One approach is to trust the repository a package comes from.
 
 ```cmd
 nuget trusted-signers Add -Name nuget.org
@@ -101,7 +99,7 @@ Note that nuget.org is not a URL but the name of a NuGet source. You can see you
 nuget sources
 ```
 
-Now when I install `NewtonSoft.Json`, it works! But what happens if I try to install [`MagicEightBall`](https://www.nuget.org/packages/MagicEightBall/)? It also succeeds! What gives? I know that package isn't signed because it's one of mine and I am certain I didn't sign it.
+Now when I install `NewtonSoft.Json`, it works! But what happens if I try to install [`MagicEightBall`](https://www.nuget.org/packages/MagicEightBall/)? It also succeeds! What gives? I know _that_ package isn't signed because it's mine and I didn't sign it.
 
 ## NuGet Package Signatures
 
@@ -121,25 +119,25 @@ Signature type: Repository
 ...
 ```
 
-The package has two signatures - one is an `Author` signature, and the other is a `Repository` signature. NuGet.org signs every package published to it with a `Repository` signature. That's why I was able to install `MagicEightBall`, even though it's not signed by an author. It has a nuget.org Repository signature.
+The package has two signatures - one is an `Author` signature, and the other is a `Repository` signature. NuGet.org signs every package it receives with a `Repository` signature. That's why I was able to install `MagicEightBall`, even though I never signed it, nuget.org signed it with its `Repository` signature when I published it.
 
-My intent by requiring signatures was to increase security. But adding nuget.org as a trusted signer does not do that. It means I trust every package in nuget.org. Nuget.org is a big place. Yes, most of the people and packages on nuget.org are fine upstanding citizens. But chances are there are a few bad actors. Bad actors who would love for you install their cryptomining package. To add nuget.org as a trusted signer defeats the purpose of package signing to increase security.
+Adding nuget.org as a trusted signer means that I trust _every_ package on nuget.org. That seems to defeat the purpose of requiring package signatures. Nuget.org is a big place. Yes, most of the people and packages on nuget.org are fine upstanding citizens. But chances are there are a few bad actors - bad actors who would love for you install their cryptomining package.
 
-And to be fair, my guess is this is not the intended use case for adding a Repository to the `trusted-signers` list. The intent of this feature is to be able to trust an internal feed. For example, your company might have a curated feed of trusted packages. That would be the repository you add to your trusted-signers, not nuget.org.
+And to be fair, this most likely not the intended use case for adding a `Repository` to the `trusted-signers` list. The intent of this feature is to be able to trust an internal feed. For example, your company might have a curated feed of trusted packages. That would be the repository you add to your trusted-signers, not nuget.org.
 
-With that in mind, the following command removes nuget.org from the trusted signers list.
+With that in mind, lets remove nuget.org from the trusted signers list.
 
 ```cmd
 nuget trusted-signers Remove -Name nuget.org
 ```
 
-This takes us back to square one with nobody to trust. Rather than trust a repository, I could try to trust a person. In NuGet, you can add a package author to the `trusted-signers` list.
+This takes me back to square one with nobody to trust. Rather than trust a repository, I could try to trust a person. In NuGet, you can add a package author to the `trusted-signers` list.
 
 Hmm, where will we find a trustworthy author? How about that author of `Newtonsoft.Json`, [James Newton-King](https://twitter.com/JamesNK)? Just look at his innocent face. That is the face of a trustworthy chap if I ever saw one.
 
 ![James Newton-King](https://user-images.githubusercontent.com/19977/55116846-f4e53a00-50a5-11e9-8710-bdaa78edfa43.png)
 
-There are two ways to add an author to your `trusted-signers` list. If you have a package file that they signed on your machine, you can use that with the following command.
+There are two ways to add an author to your `trusted-signers` list. If you have a package file that they signed on your machine, you can use that.
 
 ```cmd
 nuget trusted-signers add -Author Newtonsoft.Json.12.0.1.nupkg -Name "James Newton-King"
@@ -151,7 +149,7 @@ __PRO TIP:__ Adding an author in this way requires that you have the package fil
 https://api.nuget.org/v3-flatcontainer/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg
 ```
 
-Another way to add a person to the `trusted-signers` list is with their certificate information. I am not aware of a means of getting that information from NuGet.org. You'd have to find that information from the individual themself or you can obtain it from a signed package that they signed. But here's the syntax just in case.
+Another way to add a person to the `trusted-signers` list is with their certificate information. I could not find a way to get that information from NuGet.org. I suppose I could ask James for his certificate fingerprint. If he gave it to me, I'd run the following command.
 
 ```cmd
 nuget trusted-signers add -Name "James Newton-King"
@@ -176,7 +174,7 @@ nuget install Newtonsoft.Json.Bson
 
 Success! Now we're cooking!
 
-Now, let's try and install `MagicEightBall` again. It fails with a message "This package is signed but not by a trusted signer." Just as I expected. Everything is coming up Milhouse.
+Now, let's try and install `MagicEightBall` again to see if it fails. It indeed fails with a message "This package is signed but not by a trusted signer." Just as I expected. Everything is coming up Milhouse.
 
 Hmmm, my spidey sense is tingling. Any time software seems to just work, I get suspicious. This is working too well. James writes so many great packages, let's install one more.
 
@@ -192,7 +190,7 @@ nuget trusted-signers Remove -Name "James Newton-King"
 
 Again, here I am with nobody to trust.
 
-I wasn't able to find an option to trust all packages from nuget.org that have a valid author signature. As far as I can tell, you either trust a full repository, or you have to add every author you plan to trust.
+I didn't find an option to trust all packages from nuget.org that have a valid author signature. As far as I can tell, you either trust a full repository, or you have to add every author you plan to trust.
 
 To go back to the default behavior of accepting all packages, replace `require` with `accept`.
 
@@ -204,11 +202,15 @@ nuget config -set signatureValidationMode=accept
 
 NuGet package signing is ideal for security hardened enterprise environments. The type of environment where developers are not allowed to install packages from nuget.org. Instead, they must install packages from a curated internal feed that contains a set of blessed packages.
 
-It is not as well suited for the general developer population - developers like me who install packages from nuget.org. Do I really have to add every single person in the world that I trust to the `trusted-signers` list?
+It isn't well suited for the general developer population - developers like me who install packages from nuget.org. Do I really have to add every single person in the world that I trust to the `trusted-signers` list?
 
-And for each trusted signer, I have to hope they remember to sign every package they publish. As we saw with James (who I respect and admire), not every author does this. This is too bad, because when I tell NuGet that I trust James, that means I trust any package he uploads to NuGet. There's no way to express this right now that I know of. I don't care if he remembered to sign it or not. I trust people, not packages.
+And even if I went to all that trouble, I have to hope each trusted author remembers to sign every package they publish. As we saw with James (who I respect and admire), not every author does this. This is too bad, because when I tell NuGet that I trust James, that means I trust any package he uploads to NuGet. I don't care if he remembered to sign it or not. I trust people, not packages. There's no way to express this right now.
 
-Some might point out that if a bad actor compromises his nuget.org account, they won't be able to upload signed packages. So by trusting his signature, I protect myself from this scenario. But in my thinking, if someone compromises his nuget.org account, why wouldn't I assume they've also compromised his certificate? It's possible that he might _let_ another person upload packages using his account. In that case, a package signature might protect me as these packgaes might be signed with another signature. But that assumes he also doesn't share access to his code signing chain.
+There are benefits to package signing as it's implemented today. For example, if a bad actor compromises his nuget.org account, they won't be able to upload packages signed with his signature. So by trusting his signature, I protect myself from this scenario. But in my thinking, if someone compromises his nuget.org account, why wouldn't I assume they've also compromised his certificate?
+
+More likely is maybe James forgets to reserve the Newtonsoft prefix in NuGet and someone spoofs a package from him, this feature might protect me in that case.
+
+It's also possible that he might _let_ another person upload packages using his account. In that case, a package signature might protect me as these packgaes might be signed with another signature. But that assumes he also doesn't share access to his code signing chain. So there is some value in the feature for folks like me, but it's not much.
 
 ## Conclusion
 
@@ -217,3 +219,5 @@ All in all, the package signing feature is still young. I anticipate that the Nu
 Let me know in the comments if I missed something in my analysis. Maybe there's some feature I didn't notice that would make this way more usable.
 
 So Oren, when you asked me if I signed my packages, and I replied "Nope." This is what I meant by that nope. I may sign some of them anyways, just to understand the experience, but I'm still waiting on that certificate.
+
+I hate to write a post that only points out problems. In a follow-up post, I'll propose some ideas to solve these issues.
