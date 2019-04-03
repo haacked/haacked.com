@@ -1,0 +1,5 @@
+id: 48d2a39d
+date: 2019-04-03T18:19:13.3993107Z
+name: Rido
+avatar: https://secure.gravatar.com/avatar/b62aef7facd793f6353ce83af6d71671?s=80&d=identicon&r=pg
+message: You missed the option to trust nuget.org owners. The value of author signing is to enable the feature outside of nuget.org. happy to discuss in more detail.
