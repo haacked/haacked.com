@@ -228,7 +228,7 @@ In this post, I focused on problems. It's not in my nature to leave it at that. 
 
 > Let me know in the comments or on Twitter if I missed something in my analysis. Maybe there's some feature I didn't notice that would make this way more usable.
 
-Sure enough, I did miss one important feature. Anand Gaurav, a NuGet PM, [replied on Twitter](https://twitter.com/adgrv/status/1113495219939336192) and noted [there's a way to trust NuGet owners](https://blog.nuget.org/20181205/Lock-down-your-dependencies-using-configurable-trust-policies.html#configure-trusted-package-repositories).
+Sure enough, I did miss one important feature. Anand Gaurav, a NuGet PM, [replied on Twitter](https://twitter.com/adgrv/status/1113495219939336192) and noted [there's a way to trust NuGet owners](https://blog.nuget.org/20181205/Lock-down-your-dependencies-using-configurable-trust-policies.html#configure-trusted-package-repositories). I missed it because at the time I wrote this post, the `-owners` option wasn't mentioned on the [documentation for `trusted-signers`](https://docs.microsoft.com/en-us/nuget/tools/cli-ref-trusted-signers).
 
 So instead of trusting James's certificate, I could trust his user account on NuGet.
 
@@ -236,3 +236,24 @@ So instead of trusting James's certificate, I could trust his user account on Nu
 nuget.exe trusted-signers add -name NuGet.org -serviceindex https://api.nuget.org/v3/index.json -owners jamesnk
 ```
 
+Now I can install all of his packages on nuget.org! Fantastic.
+
+This command lets me specify a list of owners. For example,
+
+```cmd
+nuget.exe trusted-signers add -name NuGet.org -serviceindex https://api.nuget.org/v3/index.json -owners microsoft;nuget;jamesnk,haacked
+```
+
+What happens if we want to add another owner later?
+
+```cmd
+nuget.exe trusted-signers add -name NuGet.org -serviceindex https://api.nuget.org/v3/index.json -owners xunit
+```
+
+We get an error message stating
+
+> A trusted signer 'Nuget.org' already exists.
+
+So it seems the only way to add more owners is to remove the Nuget.org trusted signer and re-add it with a complete list of everyone on nuget.org that you trust.
+
+The `-owners` option makes this feature more useful, but there's the problem of managing the list of people you trust remains. I'll write a follow-up post soon with more feedback on how I think this feature could be improved.
