@@ -216,10 +216,23 @@ It's also possible that he might _let_ another person upload packages using his 
 
 All in all, the package signing feature is still young. I anticipate that the NuGet team will iterate on package signing and it will get more and more useful. But as it stands, there's not much reason for me to sign my packages as an independent package author. And as a NuGet consumer, there's no way, within reason, that I can take advantage of package signing to make my environment more secure. At least not yet.
 
-Let me know in the comments if I missed something in my analysis. Maybe there's some feature I didn't notice that would make this way more usable.
+Let me know in the comments or [on Twitter](https://twitter.com/haacked/status/1113477770284126209) if I missed something in my analysis. Maybe there's some feature I didn't notice that would make this way more usable.
 
 So Oren, when you asked me if I signed my packages, and I replied "Nope." This is what I meant by that nope. I may sign some of them anyways, just to understand the experience, but I'm still waiting on that certificate.
 
 ## Solutions
 
 In this post, I focused on problems. It's not in my nature to leave it at that. In a follow-up post, I'll propose some ideas to solve these issues.
+
+## UPDATE - Two hours after I originally posted this
+
+> Let me know in the comments or on Twitter if I missed something in my analysis. Maybe there's some feature I didn't notice that would make this way more usable.
+
+Sure enough, I did miss one important feature. Anand Gaurav, a NuGet PM, [replied on Twitter](https://twitter.com/adgrv/status/1113495219939336192) and noted [there's a way to trust NuGet owners](https://blog.nuget.org/20181205/Lock-down-your-dependencies-using-configurable-trust-policies.html#configure-trusted-package-repositories).
+
+So instead of trusting James's certificate, I could trust his user account on NuGet.
+
+```cmd
+nuget.exe trusted-signers add -name NuGet.org -serviceindex https://api.nuget.org/v3/index.json -owners jamesnk
+```
+
