@@ -1,0 +1,5 @@
+id: 048f3077
+date: 2019-04-04T14:54:20.1306924Z
+name: spyder045
+avatar: https://secure.gravatar.com/avatar/2b98d8cd911d6b3f11ed45d314ab5730?s=80&d=identicon&r=pg
+message: 'While this article is only about NuGet packages, the overall state of signing completed code projects (Packages, Exe, and installers) is in an archaic and outdated philosophy.  I hope people smarter than me can come up with a way to solve this in the near future and that we continue to raise awareness of the root core of this problem. '
