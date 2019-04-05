@@ -26,7 +26,7 @@ Well guess what?! It's six years later and NuGet has package signing. Were my pr
 
 > Very few people will sign their packages.
 
-To test this hypothesis, I wrote a .NET Core console app. The app scrapes the top community packages from the [nuget.org stats page](https://www.nuget.org/stats/packages). It then checks each package for an author signature and outputs the result.
+To test this hypothesis, I wrote a [.NET Core console app](https://github.com/Haacked/NugetSignChecker). The app scrapes the top community packages from the [nuget.org stats page](https://www.nuget.org/stats/packages). It then checks each package for an author signature and outputs the result.
 
 To be fair, the code doesn't check _every_ package. There are groups of packages that have the same prefix and are closely related to each other. For example, there are many `xunit.*` packages. In this case, I grouped the packages by prefix and took the first one. Here's a screenshot of the end result of running this code against the top 100 packages. Because of the grouping, it just checks 52 unique package groups.
 
