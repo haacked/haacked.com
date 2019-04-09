@@ -1,0 +1,5 @@
+id: f3b61acf
+date: 2019-04-09T09:53:01.6609608Z
+name: reality
+avatar: https://avatars.io/twitter//medium
+message: in 2019.. Database API integration actually is the only correct way to share, integrate a DB into a third party project .. API developed by DB owner that should take care of exposing sensitive data and assuring db performance.. which is more logically than grant direct access to DB!
