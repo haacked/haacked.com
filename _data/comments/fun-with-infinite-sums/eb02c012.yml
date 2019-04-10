@@ -1,0 +1,25 @@
+id: eb02c012
+date: 2019-04-10T20:48:41.5022918Z
+name: Arun Pandey
+avatar: https://haacked.com/assets/img/unknown-avatar.png
+message: >+
+  It is a great article. I just wanted to point out three things:
+
+
+
+  1. The magic number -1/12 is attributed to legendary Indian mathematician Ramanujan not Polchinski
+
+
+
+  2. You need to apply gamma function to Reimann zeta function to transform the Euler series
+
+
+
+  3. You need to calculate Basel value. This technique is called solving for Basel problem in order to to get the final value of -1/12
+
+
+
+  Please see my blog below:
+
+  https://www.linkedin.com/pulse/1-2-3-4-112-arun-pandey/
+
