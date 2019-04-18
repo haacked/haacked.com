@@ -1,7 +1,8 @@
 ---
 title: "How to review a merge commit"
 date: 2014-02-21 -0800
-tags: [jekyll]
+tags: [git]
+excerpt_image: https://f.cloud.github.com/assets/19977/2239004/c8908f52-9c0c-11e3-855e-366c67a0abc9.jpg
 ---
 
 Git does a pretty amazing job when it merges one branch into another. Most of the time, it merges without conflict. In a fairy tale world with rainbow skittles and peanut butter butterflies, _every_ merge would be without conflict.
