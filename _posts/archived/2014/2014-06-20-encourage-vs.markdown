@@ -2,6 +2,7 @@
 title: "Your Editor should Encourage You"
 date: 2014-06-20 -0800
 tags: [vs,vsix,dev,encouragement]
+excerpt_image: https://cloud.githubusercontent.com/assets/19977/3343409/5c74eb98-f89f-11e3-9a50-2aaa0983dd83.png
 ---
 
 [I love to code](https://haacked.com/archive/2008/12/29/i-love-to-code.aspx/) as much as the next developer. I even professed my love [in a keynote once](https://www.youtube.com/watch?v=HYnEhDOKoxA). And judging by the fact that you're reading this blog, I bet you love to code too.
