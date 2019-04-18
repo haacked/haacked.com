@@ -2,6 +2,7 @@
 title: "Cruising"
 date: 2016-08-24 -0800
 tags: [management,personal]
+excerpt_image: https://cloud.githubusercontent.com/assets/19977/17877044/a7b41cac-6894-11e6-81ca-878e09cb0152.JPG
 ---
 
 Last week my family and I went on a cruise to Alaska with four other families and we didn't die. Not that we should expect to die  on a cruise, but being confined with a bunch of kids on a giant hunk of steel has a way of making one consider one's mortality.
