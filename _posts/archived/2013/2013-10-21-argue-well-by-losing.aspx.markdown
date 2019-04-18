@@ -17,13 +17,9 @@ browbeat the other into rhetorical submission.
 >
 > ARE YOU NOT CONVINCED?!
 
-[![red-card](https://haacked.com/images/haacked_com/WindowsLiveWriter/ArgueWellByLosing_BE9C/red-card_thumb.jpg "red-card")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ArgueWellByLosing_BE9C/red-card.jpg)*You
-want to argue? Argue with this card! Image: from
-[wikipedia](http://en.wikipedia.org/wiki/File:2009-3-14_ManUtd_vs_LFC_Red_Card_Vidic.JPG)
-[CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.en).*
+[![You want to argue? Argue with this card! Image: from Wikipedia CC BY-SA 3.0](https://haacked.com/images/haacked_com/WindowsLiveWriter/ArgueWellByLosing_BE9C/red-card_thumb.jpg "red-card")](http://en.wikipedia.org/wiki/File:2009-3-14_ManUtd_vs_LFC_Red_Card_Vidic.JPG)
 
-So what makes an *argument good*? (*besides when you agree with me which
-is always a good move*)
+So what makes an *argument good*? (*besides when you agree with me which is always a good move*)
 
 A while back, I read [an interesting article about Professor Daniel H.
 Cohen](http://www.humansinvent.com/#!/13260/argument-when-losing-is-winning/ "Argument: When losing is winning"),
