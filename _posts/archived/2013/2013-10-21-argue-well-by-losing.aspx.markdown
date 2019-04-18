@@ -3,6 +3,7 @@ title: Argue Well By Losing
 date: 2013-10-21 -0800
 tags: [management,relationships]
 redirect_from: "/archive/2013/10/20/argue-well-by-losing.aspx/"
+excerpt_image: https://haacked.com/images/haacked_com/WindowsLiveWriter/ArgueWellByLosing_BE9C/red-card_thumb.jpg
 ---
 
 I love a good argument. No really! Even ones online.
