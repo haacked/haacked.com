@@ -12,7 +12,7 @@ Fortunately, [Andreia](https://twitter.com/sh4na) and I had the help of the Visu
 
 Well today Microsoft announced the [RTM of Visual Studio 2015](http://blogs.msdn.com/b/visualstudio/archive/2015/07/20/visual-studio-2015-and-visual-studio-2013-update-5-released.aspx). Congratulations!
 
-![Glad I dry cleaned the tux for this occasion](https://raw.githubusercontent.com/Haacked/gifs/master/classy/leo-toast.gif)
+![Glad I dry cleaned the tux for this occasion](https://user-images.githubusercontent.com/19977/56388900-091be300-61dd-11e9-86a7-4a9ec7e01bc6.gif)
 
 We figured, what better time than now to open up the code we used to build the extension? In discussions with the Visual Studio team, we all agreed that the more real world examples of Visual Studio extensions are out there, the better for everyone. This is in part why [we released the GitHub Extension for Visual Studio](https://github.com/blog/2038-github-extension-for-visual-studio-is-open-source) under the MIT license today.
 
