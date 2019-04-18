@@ -2,6 +2,7 @@
 title: "A Subtle Case Sensitivity Gotcha with Regular Expressions"
 date: 2016-02-29 -0800
 tags: [regex]
+excerpt_image: https://imgs.xkcd.com/comics/regular_expressions.png
 ---
 
 > Some people, when confronted with a problem, think “I know, I'll use regular expressions.” Now they have two problems. - Jamie Zawinski
