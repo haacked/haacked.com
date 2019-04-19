@@ -1,0 +1,5 @@
+id: eb8bb9fe
+date: 2019-04-19T16:38:45.7762082Z
+name: haacked
+avatar: https://avatars.io/twitter/@haacked/medium
+message: "Great question Marc! I would say I'm mixed. Overall, I am happy with the control I have over Disqus. However, there's a couple issues I still have.\r\n\r\n1. It's slow - In part, this is by choice. I moderate comments now. I could auto accept comments, but I get a lot of spam. Also, once I merge a comment, my blog is so huge it takes a while for GitHub Pages to show the comment because it has to rebuild the whole site. I can probably fix this by moving to Netlify or some other static site generator, but I like GitHub Pages because there's less moving parts.\r\n2. Bad for conversations - the long turnaround before your comment shows up, and the lack of notifications that there is a new comment, is a problem for having actual conversations. For example, you have to check back to know that I responded to you. I want to solve this problem. One thing I'd like to do is integrate Twitter discussions here. "
