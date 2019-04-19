@@ -1,6 +1,6 @@
 ---
 title: "Trying Medium"
-date: 2017-08-16 -0800 2:14 PM PDT
+date: 2017-08-16 -0700 2:14 PM
 tags: [personal,blogging,meta]
 excerpt_image: https://user-images.githubusercontent.com/19977/29385835-0c9bdf74-828e-11e7-889a-a14a9ef2bf31.png
 ---

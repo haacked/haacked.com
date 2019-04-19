@@ -19,7 +19,7 @@ application to my health.
 In my series on The Real Pain of Software Development
 ([part1](https://haacked.com/archive/2004/06/09/The-Real-Pain-Of-Software-Development-1.aspx "Real Pain of Software Development")
 and
-[part2](https://haacked.com/archive/2012/04/16/The-Real-Pain-Of-Software-Development-2.aspx.aspx "The Real Pain of Software Development")),
+[part2](https://haacked.com/archive/2012/04/15/The-Real-Pain-Of-Software-Development-2/ "The Real Pain of Software Development")),
 I talked about my history with pain related to work and the various
 measures I took to remedy that pain including intense physical and
 occupational therapy.

@@ -1,8 +1,10 @@
 ---
 title: Burning Man Photopedia
-date: 2004-07-18 -0800
+date: 2004-07-18 -0700
 tags: [burningman]
-redirect_from: "/archive/2004/07/17/burningmanphotopedia.aspx/"
+redirect_from:
+  - "/archive/2004/07/17/burningmanphotopedia.aspx/"
+  - "/archive/2004/07/18/833.aspx/"
 ---
 
 I promised a friend I’d show him some pictures of the time we went to burning man in 2002. So of course, I figured might as well make a blog entry about it. For you geeks out there, the Playa (A nearly level area at the bottom of an undrained desert basin, sometimes temporarily covered with water) has a wi-fi network available. Every year, Black Rock City, a temporary city, is formed in the midst of the desert near Gerlach. This city is the host of the Burning Man festival. It's about a

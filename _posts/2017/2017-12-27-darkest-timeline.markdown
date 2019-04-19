@@ -1,7 +1,7 @@
 ---
 title: "2017 - Darkest timeline"
 description: "A post about mental health in the family"
-date: 2017-12-27 -0800 9:40 AM PDT
+date: 2017-12-27 -0800 9:40 AM
 tags: [personal]
 excerpt_image: https://user-images.githubusercontent.com/19977/34388787-89341190-eaea-11e7-9d38-402ab8125ed9.png
 ---

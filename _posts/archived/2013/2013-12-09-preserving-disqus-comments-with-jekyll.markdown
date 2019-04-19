@@ -25,7 +25,7 @@ Fortunately, Disqus allows you to set a [Disqus Identifier](http://help.disqus.c
 
 The `disqus_identifier` can pretty much be any string. Subtext, my old blog engine, set this to the database generated ID of the blog post. So to keep my post comments, I just needed to preserve that as I migrated over to Jekyll.
 
-So what I did was add my own field to my migrated Jekyll posts. You can see an example by [clicking edit on one of the older posts](https://github.com/Haacked/haacked.com/edit/gh-pages/_posts/2013-10-28-code-review-like-you-mean-it.aspx.markdown). Here's the Yaml frontmatter for that post.
+So what I did was add my own field to my migrated Jekyll posts. You can see an example by [clicking edit on one of the older posts](https://github.com/Haacked/haacked.com/edit/master/_posts/archived/2013/2013-10-28-code-review-like-you-mean-it.aspx.markdown). Here's the Yaml frontmatter for that post.
 
 ```yaml
 ---

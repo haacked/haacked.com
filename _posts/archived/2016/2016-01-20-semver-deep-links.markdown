@@ -17,7 +17,7 @@ In this post, I discuss some of the interesting non-obvious challenges in the im
 
 The Semver specification is hosted in a [different GitHub repository](https://github.com/mojombo/semver) than [the website](https://github.com/mojombo/semver.org).
 
-The specification itself is a [markdown file named `semver.md`](https://github.com/mojombo/semver/blob/master/semver.md). When I publish a new release, I take that one file, rename it to `index.md`, and replace [this `index.md` file](https://github.com/mojombo/semver.org/blob/gh-pages/index.md) with it. Actually, I do a lot more, but that's the simplified view of it.
+The specification itself is a [markdown file named `semver.md`](https://github.com/mojombo/semver/blob/master/semver.md). When I publish a new release, I take that one file, rename it to `index.md`, and replace [this `index.md` file](https://github.com/semver/semver.org/blob/gh-pages/index.md) with it. Actually, I do a lot more, but that's the simplified view of it.
 
 The semver.org site is a statically generated [Jekyll](https://jekyllrb.com/) site hosted by the [GitHub Pages system](https://pages.github.com/). I love it because it's so simple and easy to update.
 

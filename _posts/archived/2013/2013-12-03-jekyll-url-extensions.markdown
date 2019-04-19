@@ -12,7 +12,7 @@ UGH Indeed! I decided not to bother with changing my existing URLs to be extensi
 
 How did I do this? My old URLs have an ASP.NET `.aspx` extension. Surely, GitHub Pages won't serve up `ASPX` files. This is true. But what it will serve up is a folder that just happens to have a name that ends with ".aspx".
 
-The trick is in how I named the markdown files for my old posts. For example, check out a recent post: [2013-11-20-declare-dont-tell.aspx.markdown](https://github.com/Haacked/haacked.com/blob/gh-pages/_posts/2013-11-20-declare-dont-tell.aspx.markdown)
+The trick is in how I named the markdown files for my old posts. For example, check out a recent post: [2013-11-20-declare-dont-tell.aspx.markdown](https://github.com/Haacked/haacked.com/blob/master/_posts/archived/2013/2013-11-20-declare-dont-tell.aspx.markdown)
 
 Jekyll takes the part after the date and before the `.markdown` extension and uses that as the post's URL slug. In this case, the "slug" is `declare-dont-tell.aspx`.
 

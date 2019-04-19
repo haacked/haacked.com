@@ -10,8 +10,7 @@ Open Source Software - How to Run a Successful Free Software
 Project](http://www.amazon.com/gp/product/0596007590?ie=UTF8&tag=youvebeenhaac-20&link_code=as3&camp=211189&creative=373489&creativeASIN=0596007590)
 by Karl Fogel (free [pdf
 available](http://producingoss.com/producingoss.pdf)) is my bible (see
-my [review and summary of the
-book](https://haacked.com/archive/2006/01/16/RunningAnOpenSourceProject.aspx "Running an Open Source Project")).
+my [review and summary of the book](https://haacked.com/archive/2006/01/16/runninganopensourceproject.aspx/ "Running an Open Source Project")).
 
 The book is based on Karl Fogel’s experiences as the leader of the
 Subversion project and has heavily influenced how I run the projects I’m

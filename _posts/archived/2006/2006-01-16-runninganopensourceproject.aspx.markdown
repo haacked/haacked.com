@@ -2,7 +2,9 @@
 title: Running An Open Source Project
 date: 2006-01-16 -0800
 tags: [code,oss]
-redirect_from: "/archive/2006/01/15/runninganopensourceproject.aspx/"
+redirect_from:
+  - "/archive/2006/01/15/runninganopensourceproject.aspx/"
+  - "/archive/2006/01/16/RunningAnOpenSourceProject.aspx/"
 ---
 
 [![Producing Open Source Software
