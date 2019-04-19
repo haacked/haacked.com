@@ -1,7 +1,7 @@
 ---
 title: Dealing with Multiplatform Project Files
 date: 2013-11-07 -0800
-tags: [oss,xplat,mono,octokit]
+tags: [oss,xplat,octokit]
 redirect_from: "/archive/2013/11/06/dealing-with-multiplatform-project-files.aspx/"
 ---
 
