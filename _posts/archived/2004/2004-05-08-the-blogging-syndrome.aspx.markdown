@@ -2,9 +2,7 @@
 layout: post
 title: The Blogging Syndrome
 date: 2004-05-08 -0800
-comments: true
-disqus_identifier: 421
-categories: [blogging]
+tags: [blogging]
 redirect_from: "/archive/2004/05/07/the-blogging-syndrome.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "If You're Graduating Soon, Consider Working For The ASP.NET Team"
 date: 2010-01-13 -0800
-categories: [careers,aspnet]
+tags: [careers,aspnet]
 ---
 This is the second job posting in two days for positions on the ASP.NET
 team, how exciting! This one is a developer position for upcoming

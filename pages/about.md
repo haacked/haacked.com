@@ -4,7 +4,7 @@ nav_title: "About"
 description: "A bit about Phil Haack"
 include_nav: true
 redirect_from: "/articles/AboutHaacked.aspx.html"
-categories: [personal]
+tags: [personal]
 permalink: /about/
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Editable Routes Using App_Code"
 date: 2010-01-17 -0800
-categories: [aspnet,aspnetmvc,routing]
+tags: [aspnet,aspnetmvc,routing]
 ---
 UPDATE: THIS POST IS DEPRECATED!!! I’ve updated the [original post](http://haacked.com/archive/2010/01/17/editable-routes.aspx "Editable Routes")
 for editable routes to work in medium trust and not require a full app

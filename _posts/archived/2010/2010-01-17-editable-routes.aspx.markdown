@@ -1,7 +1,7 @@
 ---
 title: "Editable Routes"
 date: 2010-01-17 -0800
-categories: [aspnetmvc,aspnet,code,routing]
+tags: [aspnetmvc,aspnet,code,routing]
 ---
 UPDATE: 2011/02/13: This code is now included in the
 [RouteMagic](http://haacked.com/archive/2011/01/30/introducing-routemagic.aspx "Introducing RouteMagic")
