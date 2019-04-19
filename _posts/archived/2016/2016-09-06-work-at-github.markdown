@@ -34,9 +34,7 @@ The four teams that I work with are Atom, Electron, Desktop, and Editor Tools (t
 
 So that leads me to the topic at hand. Several of these teams are hiring. Here are the job postings.
 
-* [Atom: Application Engineer](https://jobs.lever.co/github/baaa9a2c-c249-4d06-b73f-e9bee1a3d147)
-* [Editor Tools: Application Developer](https://jobs.lever.co/github/9be225ec-9ad0-4439-b173-0eeea4e9f587)
-* [Desktop: Application Developer](https://jobs.lever.co/github/23ee93fb-59f0-417a-85fd-92cc302cce52)
+__UPDATE: These posts are outdated__
 
 If building tools for this and the next generation of developers inspires you, take a look. We're looking for software engineers who thrive as part of a team in a supportive environment. The New York Times recently [published an article about what Google learned in its quest to build a perfect team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0). The lessons they learned about what people think makes a great team and what actually works are very interesting. We want to be a place that embodies that sort of team.
 

@@ -41,5 +41,3 @@ That lesson is reiterated in [Drive: the surprising truth about what motivates u
 What gets me up in the morning with a spring in my step is working on a platform that houses the code that [helps send people into space](https://github.com/nasa) or coordinates [humanitarian efforts here on earth](https://github.com/htbox/).
 
 What motivates you?
-
-Oh, by the way, [many teams at GitHub including mine are hiring](https://jobs.lever.co/github/001fe993-4d40-4379-8517-0adf25a93ddd). Come do meaningful work with us!

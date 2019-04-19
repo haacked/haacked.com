@@ -8,7 +8,7 @@ A while back I migrated my blog to [Jekyll and GitHub Pages](https://haacked.com
 
 But the process wasn't perfect. My old blog engine was a bit forgiving about URLs. As long as the URL "slug" was correct, the URL could have _any_ date in it. So there happened to be quite a few non-canonical URLs out in the wild.
 
-So what I did was [create a 404 page](https://github.com/Haacked/haacked.com/blob/gh-pages/404.html) that had a link to log an issue against my blog. GitHub Pages will serve up this page for any file not found errors. Here's an example of [the rendered 404 page](https://haacked.com/file-not-found).
+So what I did was [create a 404 page](https://github.com/Haacked/haackbar/blob/master/assets/pages/404.md) that had a link to log an issue against my blog. GitHub Pages will serve up this page for any file not found errors. Here's an example of [the rendered 404 page](https://haacked.com/file-not-found).
 
 And the 404 issues started to roll in. Great! So what do I do with those issues now? How do I fix them?
 
@@ -16,7 +16,7 @@ GitHub Pages fortunately supports the [Jekyll Redirect From plugin](https://help
 
 Here's an example of my first attempt at front-matter for a blog post on my blog that contains [a redirect](https://github.com/Haacked/haacked.com/pull/215/files#diff-9e168ebaefc83b0e55df0ee649a693edR7).
 
-```
+```yaml
 ---
 title: "Localizing ASP.NET MVC Validation"
 permalink: /404.html
