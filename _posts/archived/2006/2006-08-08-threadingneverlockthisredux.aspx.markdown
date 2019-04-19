@@ -7,7 +7,7 @@ redirect_from:
   - "/archive/2006/08/08/ThreadingNeverLockThisRedux.aspx/"
 ---
 
-A while ago I wrote that you [should never lock a value type and never lock `this`](https://haacked.com/archive/2005/04/12/NeverLockThis.aspx "Threading Tips"). I presented a code snippet to illustrate the point but I violated the cardinal rule for code examples: compile and test it in context. Mea Culpa! Today in my comments, someone named Jack rightly pointed out that my example doesn’t demonstrate a deadlock due to locking `this`. As he points out, if the code were in a Finalizer, then my example would be believable.
+A while ago I wrote that you [should never lock a value type and never lock `this`](https://haacked.com/archive/2005/04/12/neverlockthis.aspx "Threading Tips"). I presented a code snippet to illustrate the point but I violated the cardinal rule for code examples: compile and test it in context. Mea Culpa! Today in my comments, someone named Jack rightly pointed out that my example doesn’t demonstrate a deadlock due to locking `this`. As he points out, if the code were in a Finalizer, then my example would be believable.
 
 To my defense, I was just testing to see if you were paying attention. ;) Nice find Jack!
 
