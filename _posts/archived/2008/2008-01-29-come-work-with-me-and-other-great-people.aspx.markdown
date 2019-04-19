@@ -11,16 +11,10 @@ be my “grand-boss” as in my boss's boss*) posted a [developers wanted
 ad](http://blogs.msdn.com/brada/archive/2008/01/28/senior-developers-for-asp-net-and-silverlight-wanted.aspx "Developers for ASP.NET and Silverlight")
 on his blog:
 
--   Are you JavaScript guru who has a passion to make Ajax easier for
-    the masses?
--   Are you the resident expert in ASP.NET and consistently think about
-    how data driven applications could be easier to build?
--   Are you a TDD or patterns wonk that sees how **ASP.NET MVC** is a
-    game-changer?
--   Are you excited about the potential of Silverlight for business
-    applications, and particularly the potential for the
-    ASP.NET+Silverlight combination where we have the great .NET
-    programming model on the server and client?
+- Are you JavaScript guru who has a passion to make Ajax easier for the masses?
+- Are you the resident expert in ASP.NET and consistently think about how data driven applications could be easier to build?
+- Are you a TDD or patterns wonk that sees how **ASP.NET MVC** is a game-changer?
+- Are you excited about the potential of Silverlight for business applications, and particularly the potential for the ASP.NET+Silverlight combination where we have the great .NET programming model on the server and client?
 
 Some of you out there have provided great insight into how ASP.NET MVC
 could be better (and then some of you just point out its warts).  Either

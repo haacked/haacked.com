@@ -1,7 +1,7 @@
 ---
 title: Misunderstanding Agile Design
 date: 2005-08-17 -0800
-tags: [agile]
+tags: [software,methodologies]
 redirect_from:
   - "/archive/2005/08/16/misunderstanding-agile-design.aspx/"
   - "/archive/2005/08/18/9536.aspx/"
@@ -22,21 +22,9 @@ his readership with this quote...
 > wrong on this point and I cant be any clearer than that.
 
 First, as [Brad Wilson](http://www.agileprogrammer.com/dotnetguy/)
-mentions, **[Agile does not mean no
-design](http://www.agileprogrammer.com/dotnetguy/archive/2005/08/17/7029.aspx)**.
+mentions, **[Agile does not mean no design](http://www.agileprogrammer.com/dotnetguy/archive/2005/08/17/7029.aspx)**.
 
-The primary mantra of agile methodologies is to **do only what is
-necessary, and no more**. For a product company like Joel’s FogCreek, a
-[functional
-spec](http://www.joelonsoftware.com/articles/fog0000000036.html) is
-absolutely necessary. (As an aside, I’m a fan of his [Painless
-Functional Specifications
-Series](http://www.joelonsoftware.com/articles/fog0000000036.html) and
-have used it as a template for functional specs on several projects).
-They are not treading new ground with their products and the
-requirements appear to be very stable from release to release. For
-example, for CoPilot, Joel dictated the requirements which the interns
-implemented.
+The primary mantra of agile methodologies is to **do only what is necessary, and no more**. For a product company like Joel’s FogCreek, a [functional spec](http://www.joelonsoftware.com/articles/fog0000000036.html) is absolutely necessary. (As an aside, I’m a fan of his [Painless Functional Specifications Series](http://www.joelonsoftware.com/articles/fog0000000036.html) and have used it as a template for functional specs on several projects). They are not treading new ground with their products and the requirements appear to be very stable from release to release. For example, for CoPilot, Joel dictated the requirements which the interns implemented.
 
 However, I’d point out that [the spec he
 published](http://www.joelonsoftware.com/articles/AardvarkSpec.html) for

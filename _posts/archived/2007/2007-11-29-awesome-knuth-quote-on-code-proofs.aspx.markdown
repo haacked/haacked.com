@@ -1,7 +1,7 @@
 ---
 title: Awesome Knuth Quote On Code Proofs
 date: 2007-11-29 -0800
-tags: [code,tdd]
+tags: [code,tdd,methodologies]
 redirect_from: "/archive/2007/11/28/awesome-knuth-quote-on-code-proofs.aspx/"
 ---
 

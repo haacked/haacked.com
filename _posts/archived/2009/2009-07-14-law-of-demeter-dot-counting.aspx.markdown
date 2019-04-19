@@ -1,7 +1,7 @@
 ---
 title: The Law of Demeter Is Not A Dot Counting Exercise
 date: 2009-07-14 -0800
-tags: [demeter,code]
+tags: [code,patterns]
 redirect_from: "/archive/2009/07/13/law-of-demeter-dot-counting.aspx/"
 ---
 

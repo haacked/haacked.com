@@ -1,7 +1,7 @@
 ---
 title: Options For Distributed Code Reviews
 date: 2006-02-03 -0800
-tags: [code-review]
+tags: [code-review,methodologies]
 redirect_from: "/archive/2006/02/02/OptionsForDistributedCodeReviews.aspx/"
 ---
 

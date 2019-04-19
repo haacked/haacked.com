@@ -1,7 +1,7 @@
 ---
 title: Question For You Dependency Injection Buffs
 date: 2007-11-27 -0800
-tags: [code,tdd]
+tags: [code,tdd,patterns]
 redirect_from: "/archive/2007/11/26/question-for-you-dependency-injection-buffs.aspx/"
 ---
 

@@ -1,17 +1,12 @@
 ---
 title: Software Development Is A Religion
 date: 2006-10-09 -0800
-tags: [agile,software]
+tags: [software,methodologies]
 redirect_from: "/archive/2006/10/08/Software_Development_Is_A_Religion.aspx/"
 ---
 
-[Jeff Atwood](http://www.codinghorror.com/blog/ "Coding Horror") [writes
-a great
-rebuttal](http://www.codinghorror.com/blog/archives/000699.html "Software Development: It’s a Religion")
-to [Steve Yegge’s
-rant](http://steve-yegge.blogspot.com/2006/10/egomania-itself.html "Egomania Itself")
-on Agile methodologies.  I won’t expound on it too much except to point
-out this quote which should be an instant classic, emphasis mine:
+[Jeff Atwood](http://www.codinghorror.com/blog/ "Coding Horror") [writes a great rebuttal](http://www.codinghorror.com/blog/archives/000699.html "Software Development: It’s a Religion")
+to [Steve Yegge’s rant](http://steve-yegge.blogspot.com/2006/10/egomania-itself.html "Egomania Itself") on Agile methodologies.  I won’t expound on it too much except to point out this quote which should be an instant classic, emphasis mine:
 
 > Steve talks about “staying lightweight” as if it’s the easiest thing
 > in the world, like it’s some natural state of grace that developers
@@ -57,6 +52,3 @@ Robert L. Glass, who is by no means an agile zealot.  Yet this fact does
 show a weakness in waterfall methodologies that is addressed by agile
 methodologies, a differentiation that owes more to the scientific method
 than pure religion.
-
-
-

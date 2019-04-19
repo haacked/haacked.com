@@ -1,7 +1,7 @@
 ---
 title: How Would You Maximize Profit From A Time Machine?
 date: 2010-12-18 -0800
-tags: [hypothetical]
+tags: [interesting]
 redirect_from: "/archive/2010/12/17/how-would-you-maximize-profit-from-a-time-machine.aspx/"
 ---
 
@@ -32,17 +32,10 @@ I think the question of how you’d become rich is much more interesting
 and potentially creative. Let’s put some constraints on the question to
 make it more interesting.
 
-1.  The time machine room size and located in your house. Thus you can’t
-    travel with the time machine.
-2.  The time machine can only transport you back in time and back. It
-    can’t transport you through space to another location. So if you
-    live in Seattle Washington, you can travel back in time to any year,
-    say 1951, but you’ll still be in Seattle.
-3.  You have one trip and one trip only and you can only bring yourself
-    and the clothes on your back. I’d recommend a backpack.
-4.  You have the resources available to you today. You can’t go back in
-    time and buy a million shares of some stock unless you could
-    actually afford to buy that stock.
+1. The time machine room size and located in your house. Thus you can’t travel with the time machine.
+2. The time machine can only transport you back in time and back. It can’t transport you through space to another location. So if you live in Seattle Washington, you can travel back in time to any year, say 1951, but you’ll still be in Seattle.
+3. You have one trip and one trip only and you can only bring yourself and the clothes on your back. I’d recommend a backpack.
+4. You have the resources available to you today. You can’t go back in time and buy a million shares of some stock unless you could actually afford to buy that stock.
 
 Keep in mind the consequences of your action. It might seem like it’d be
 easy to go back in time around ten years, go to a public library and

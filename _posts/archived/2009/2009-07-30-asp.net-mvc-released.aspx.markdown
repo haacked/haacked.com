@@ -76,17 +76,12 @@ forums](http://forums.asp.net/1146.aspx "ASP.NET MVC Forums")**!
 
 **Related Links**
 
--   [ASP.NET MVC Overview on
-    MSDN](http://msdn.microsoft.com/en-us/library/dd381412(VS.100).aspx "ASP.NET MVC Overview")
--   [ASP.NET MVC Reference Documentation on
-    MSDN](http://msdn.microsoft.com/en-us/library/system.web.mvc(VS.100).aspx "ASP.NET MVC Reference")
--   [Download Page for ASP.NET MVC 2 Preview
-    1](http://go.microsoft.com/fwlink/?LinkID=154409 "Download Page")
--   [ASP.NET MVC website](http://asp.net/mvc "ASP.NET MVC Website")
--   [ASP.NET CodePlex
-    site](http://aspnet.codeplex.com/ "http://aspnet.codeplex.com/")
--   [ASP.NET MVC
-    Forums](http://forums.asp.net/1146.aspx "ASP.NET MVC Forums")
+- [ASP.NET MVC Overview on MSDN](http://msdn.microsoft.com/en-us/library/dd381412(VS.100).aspx "ASP.NET MVC Overview")
+- [ASP.NET MVC Reference Documentation on MSDN](http://msdn.microsoft.com/en-us/library/system.web.mvc(VS.100).aspx "ASP.NET MVC Reference")
+- [Download Page for ASP.NET MVC 2 Preview 1](http://go.microsoft.com/fwlink/?LinkID=154409 "Download Page")
+- [ASP.NET MVC website](http://asp.net/mvc "ASP.NET MVC Website")
+- [ASP.NET CodePlex site](http://aspnet.codeplex.com/ "http://aspnet.codeplex.com/")
+- [ASP.NET MVC Forums](http://forums.asp.net/1146.aspx "ASP.NET MVC Forums")
 
 **Note**: the official name of this version of the product is ASP.NET
 MVC 2 and not ASP.NET MVC 2.0 as some might expect. Maybe it’s part of a

@@ -1,7 +1,7 @@
 ---
 title: Better Developers Through Diversity
 date: 2006-02-16 -0800
-tags: [diversity]
+tags: [diversity,developers]
 redirect_from: "/archive/2006/02/15/BetterDevelopersThroughDiversity.aspx/"
 ---
 

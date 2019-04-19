@@ -1,7 +1,7 @@
 ---
 title: What would you do if you won the lottery?
 date: 2004-03-09 -0800
-tags: [hypothetical,personal]
+tags: [interesting,personal]
 redirect_from: "/archive/2004/03/08/what-to-do-if-you-win-the-lottery.aspx/"
 ---
 
@@ -23,17 +23,17 @@ rest of my life (but I’m sure I could make a good faith effort).
 
 Here are the things that came to mind:
 
--   Travel big time
--   Go on outdoor adventures and backpacking trips
--   Buy a nice house
--   Buy a really nice car
--   Get in shape via a personal trainer
--   Eat healthy with a cook/dietician
--   Read a lot of books
--   Work on open source projects and write lots of interesting code
--   Learn to produce music on the computer
--   Learn photography
--   Live up to my name through Philanthropy
+- Travel big time
+- Go on outdoor adventures and backpacking trips
+- Buy a nice house
+- Buy a really nice car
+- Get in shape via a personal trainer
+- Eat healthy with a cook/dietician
+- Read a lot of books
+- Work on open source projects and write lots of interesting code
+- Learn to produce music on the computer
+- Learn photography
+- Live up to my name through Philanthropy
 
 And the list goes on and on. **The point of this excercise is to ask
 myself, if these are the things that would make me happy, what’s

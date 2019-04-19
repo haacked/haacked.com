@@ -2,7 +2,7 @@
 title: "The Siren Song of Backwards Compatibility"
 date: 2014-05-27 -0800
 redirect_from: "/archive/2015/05/27/backwards-compatibility/"
-tags: [aspnet]
+tags: [aspnet,software]
 ---
 
 This post is sort of a continuation of my post on [Microsoft's New Running Shoes](https://haacked.com/archive/2014/05/17/microsofts-new-running-shoes/).
@@ -59,4 +59,3 @@ Microsoft wants to be the zombie, not the zombie food.
 I left Microsoft a little under two years ago, but Scott Hunter stayed on and continued to execute on the impossible dream with his team and folks like [David Fowler](http://davidfowl.com/), [Louis De Jardin](http://whereslou.com/), and others. That's why I'm pretty excited about ASP.NET vNext. It's not just another flavor of the day framework from Microsoft. It represents a new modular approach that makes it easier to swap out the parts you don't like and keep the parts you do. And it's a sign that Microsoft is more and more taking a page from Steve Jobs playbook and [solve the Innovator's Dilemma](http://blogs.hbr.org/2011/10/steve-jobs-solved-the-innovato/),
 
 > My passion has been to build an enduring company where people were motivated to make great products. The products, not the profits, were the motivation. Sculley flipped these priorities to where the goal was to make money. It’s a subtle difference, but it ends up meaning everything.
-

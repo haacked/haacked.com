@@ -1,7 +1,7 @@
 ---
 title: Test Better
 date: 2013-03-04 -0800
-tags: [testing,tdd]
+tags: [testing,tdd,methodologies]
 redirect_from: "/archive/2013/03/03/test-better.aspx/"
 ---
 

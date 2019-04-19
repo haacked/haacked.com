@@ -1,16 +1,11 @@
 ---
 title: How To Talk To Employees
 date: 2012-08-03 -0800
-tags: [management]
+tags: [management,motivation]
 redirect_from: "/archive/2012/08/02/how-to-talk-to-employees.aspx/"
 ---
 
-Today on Twitter, I noticed this tweet from [Dare
-Obasanjo](http://www.25hoursaday.com/weblog/ "Dare Obasanjo") (aka
-[@carnage4life](https://twitter.com/Carnage4Life "Carnage4Life on Twitter")
-on Twitter) critical of a blog post by [Rand
-Fishkin](http://moz.com/rand/ "Rand Fishkin's Blog"), co-founder and CEO
-of [SEOMoz](http://seomoz.com/ "SEOMoz").
+Today on Twitter, I noticed this tweet from [Dare Obasanjo](http://www.25hoursaday.com/weblog/ "Dare Obasanjo") (aka [@carnage4life](https://twitter.com/Carnage4Life "Carnage4Life on Twitter") on Twitter) critical of a blog post by [Rand Fishkin](http://moz.com/rand/ "Rand Fishkin's Blog"), co-founder and CEO of [SEOMoz](http://seomoz.com/ "SEOMoz").
 
 > Why you shouldnt take lessons from inexperienced managers. Replaces
 > to-the-point email with lengthy BS no one'll read
