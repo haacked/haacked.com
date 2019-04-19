@@ -1,7 +1,7 @@
 ---
 title: Another Marginally Useful Tool - BatchConcat
 date: 2006-09-20 -0800
-tags: [tips,tdd,utilities]
+tags: [tips,tdd,tools]
 redirect_from: "/archive/2006/09/19/another_marginally_useful_tool__batchconcat.aspx/"
 ---
 

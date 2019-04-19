@@ -1,7 +1,7 @@
 ---
 title: Log4Net And External Configuration File In ASP.NET 2.0
 date: 2006-08-08 -0800
-tags: [log4net,logging]
+tags: [logging]
 redirect_from: "/archive/2006/08/07/Log4NetAndExternalConfigurationFileInASP.NET2.0.aspx/"
 ---
 

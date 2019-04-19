@@ -1,7 +1,7 @@
 ---
 title: Erich Gamma Talks About Flexibility and Reuse
 date: 2005-06-02 -0800
-tags: [software,design]
+tags: [software,design,patterns]
 redirect_from: "/archive/2005/06/01/erich-gamma-talks-about-flexibility-and-reuse.aspx/"
 ---
 

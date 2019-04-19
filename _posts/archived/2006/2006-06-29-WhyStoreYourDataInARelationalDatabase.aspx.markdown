@@ -1,7 +1,7 @@
 ---
 title: Why Store Your Data In A Relational Database?
 date: 2006-06-29 -0800
-tags: [sql,compsci]
+tags: [sql,data,patterns]
 redirect_from: "/archive/2006/06/28/WhyStoreYourDataInARelationalDatabase.aspx/"
 ---
 

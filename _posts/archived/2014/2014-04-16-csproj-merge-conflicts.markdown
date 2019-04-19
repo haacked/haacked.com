@@ -1,7 +1,7 @@
 ---
 title: "Merge conflicts in csproj files"
 date: 2014-04-16 14:07 -0800
-tags: [git,ghfw,vs]
+tags: [git,ghfw,visualstudio]
 ---
 
 In a recent version of GitHub for Windows, we made a quiet change that had a subtle effect you might have noticed. We changed the default merge strategy for `*.csproj` and similar files. If you make changes to a `.csproj` file in a branch and then merge it to another branch, you'll probably run into more merge conflicts now than before.

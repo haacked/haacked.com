@@ -10,4 +10,3 @@ as [Infragistics](http://www.infragistics.com/ "Infragistics") or
 [Component
 One](http://www.componentone.com/default.aspx "Component One")? I’m
 looking for reviews.
-

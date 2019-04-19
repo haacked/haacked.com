@@ -17,4 +17,3 @@ existing tournament engine for the mobile version of the games. It is
 quite satisfying to see our work reviewed in a major online publication.
 Most of the work I have done in the past wasn’t geared toward the
 consumer market and thus wouldn’t be featured by any reviews.
-

@@ -1,7 +1,7 @@
 ---
 title: Don't Mess With The Donald... Knuth That Is
 date: 2005-09-17 -0800
-tags: [compsci]
+tags: [math]
 redirect_from: "/archive/2005/09/16/dont-mess-with-the-donald-knuth-that-is.aspx/"
 ---
 
@@ -19,4 +19,3 @@ So it is with great amusement that I [read his
 letter](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=76608c5d-f71a-440e-be87-165fa8b6f2f0)
 to the w3c flaming them for depracating certain html elements and
 attributes. Good find [Dare](http://www.25hoursaday.com/weblog/)!
-

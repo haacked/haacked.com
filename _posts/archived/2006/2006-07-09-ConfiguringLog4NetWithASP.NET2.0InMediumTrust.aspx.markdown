@@ -1,7 +1,7 @@
 ---
 title: Configuring Log4Net with ASP.NET 2.0 in Medium Trust
 date: 2006-07-09 -0800
-tags: [log4net,logging,aspnet]
+tags: [logging,aspnet]
 redirect_from: "/archive/2006/07/08/ConfiguringLog4NetWithASP.NET2.0InMediumTrust.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Making The Factory Pattern More Discoverable
 date: 2005-06-28 -0800
-tags: [software,design]
+tags: [software,design,patterns]
 redirect_from: "/archive/2005/06/27/making-the-factory-pattern-more-discoverable.aspx/"
 ---
 
