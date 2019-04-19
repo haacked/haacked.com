@@ -1,9 +1,7 @@
 ---
 title: Introducing GitHub For Windows
 date: 2012-05-21 -0800
-tags: [github]
-- git
-- code
+tags: [github,git,code]
 redirect_from: "/archive/2012/05/20/introducing-github-for-windows.aspx/"
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Popular Code Conventions on GitHub
 date: 2013-09-17 -0800
-tags: [code]
-- oss
-- github
+tags: [code,oss,github]
 redirect_from: "/archive/2013/09/16/popular-code-conventions-on-github.aspx/"
 ---
 

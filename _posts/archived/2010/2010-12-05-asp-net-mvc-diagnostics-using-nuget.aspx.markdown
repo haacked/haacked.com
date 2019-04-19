@@ -1,10 +1,7 @@
 ---
 title: ASP.NET MVC Diagnostics Using NuGet
 date: 2010-12-05 -0800
-tags: [aspnet]
-- aspnetmvc
-- nuget
-- code
+tags: [aspnet,aspnetmvc,nuget,code]
 redirect_from: "/archive/2010/12/04/asp-net-mvc-diagnostics-using-nuget.aspx/"
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Text templating using Razor the easy way
 date: 2011-08-01 -0800
-tags: [code]
-- aspnet
-- razor
+tags: [code,aspnet,razor]
 redirect_from: "/archive/2011/07/31/text-templating-using-razor-the-easy-way.aspx/"
 ---
 

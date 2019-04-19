@@ -5,9 +5,7 @@ date: 2006-08-09 -0800
 redirect_from:
 - "/archive/2006/08/08/asp.netsupervisingcontrollermodelviewpresenterfromschematictounitteststocode.aspx/"
 - "/archive/2006/08/09/ASP.NETSupervisingControllerModelViewPresenterFromSchematicToUnitTestsToCode.aspx/"
-tags: [aspnet]
-- code
-- aspnetmvc
+tags: [aspnet,code,aspnetmvc]
 ---
 
 UPDATE: For a more full featured implementation of this pattern for

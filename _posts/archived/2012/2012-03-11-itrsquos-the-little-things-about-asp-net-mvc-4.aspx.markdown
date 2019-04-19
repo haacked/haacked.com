@@ -1,9 +1,7 @@
 ---
 title: It&rsquo;s The Little Things about ASP.NET MVC 4
 date: 2012-03-11 -0800
-tags: [aspnetmvc]
-- aspnet
-- code
+tags: [aspnetmvc,aspnet,code]
 redirect_from: "/archive/2012/03/10/itrsquos-the-little-things-about-asp-net-mvc-4.aspx/"
 ---
 

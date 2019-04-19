@@ -1,9 +1,7 @@
 ---
 title: Overriding a .svc Request With Routing
 date: 2010-09-07 -0800
-tags: [aspnet]
-- aspnetmvc
-- code
+tags: [aspnet,aspnetmvc,code]
 redirect_from: "/archive/2010/09/06/routing-and-build-providers.aspx/"
 ---
 

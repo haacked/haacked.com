@@ -4,9 +4,7 @@ date: 2009-02-07 -0800
 redirect_from:
 - "/archive/0001/01/01/take-charge-of-your-security.aspx/"
 - "/archive/2009/02/06/take-charge-of-your-security.aspx/"
-tags: [aspnetmvc]
-- aspnet
-- code
+tags: [aspnetmvc,aspnet,code]
 ---
 
 Today I read something where someone was comparing Web Forms to [ASP.NET

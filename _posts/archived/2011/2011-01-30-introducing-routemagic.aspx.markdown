@@ -1,10 +1,7 @@
 ---
 title: Introducing RouteMagic
 date: 2011-01-30 -0800
-tags: [aspnet]
-- code
-- aspnetmvc
-- oss
+tags: [aspnet,code,aspnetmvc,oss]
 redirect_from: "/archive/2011/01/29/introducing-routemagic.aspx/"
 ---
 

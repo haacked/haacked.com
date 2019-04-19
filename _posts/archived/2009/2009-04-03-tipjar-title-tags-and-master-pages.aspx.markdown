@@ -1,8 +1,7 @@
 ---
 title: 'TipJar: Title Tags and Master Pages'
 date: 2009-04-03 -0800
-tags: [aspnet]
-- aspnetmvc
+tags: [aspnet,aspnetmvc]
 redirect_from: "/archive/2009/04/02/tipjar-title-tags-and-master-pages.aspx/"
 ---
 

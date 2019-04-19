@@ -1,11 +1,7 @@
 ---
 title: Using QUnit with Razor Layouts
 date: 2011-12-10 -0800
-tags: [aspnet]
-- aspnetmvc
-- tdd
-- code
-- razor
+tags: [aspnet,aspnetmvc,tdd,code,razor]
 redirect_from: "/archive/2011/12/09/using-qunit-with-razor-layouts.aspx/"
 ---
 

@@ -1,10 +1,7 @@
 ---
 title: ASP.NET MVC Now Accepting Pull Requests
 date: 2012-03-29 -0800
-tags: [code]
-- oss
-- aspnet
-- aspnetmvc
+tags: [code,oss,aspnet,aspnetmvc]
 redirect_from: "/archive/2012/03/28/asp-net-mvc-now-accepting-pull-requests.aspx/"
 ---
 

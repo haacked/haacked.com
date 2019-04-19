@@ -1,9 +1,7 @@
 ---
 title: And The Winner Is, NuGet
 date: 2010-10-29 -0800
-tags: [code]
-- oss
-- nuget
+tags: [code,oss,nuget]
 redirect_from: "/archive/2010/10/28/nupack-is-now-nuget.aspx/"
 ---
 

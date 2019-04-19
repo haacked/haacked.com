@@ -1,9 +1,7 @@
 ---
 title: Updated Northwind Demo For ASP.NET MVC Beta
 date: 2008-05-23 -0800
-tags: [aspnet]
-- aspnetmvc
-- code
+tags: [aspnet,aspnetmvc,code]
 redirect_from: "/archive/2008/05/22/updated-northwind-demo.aspx/"
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: NuGet Roundup December 2010 Edition
 date: 2010-12-07 -0800
-tags: [nuget]
-- code
+tags: [nuget,code]
 redirect_from: "/archive/2010/12/06/nuget-roundup-december-2010-edition.aspx/"
 ---
 

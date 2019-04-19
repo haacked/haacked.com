@@ -1,8 +1,7 @@
 ---
 title: NuGet Up For Grabs Items
 date: 2010-10-14 -0800
-tags: [nuget]
-- oss
+tags: [nuget,oss]
 redirect_from: "/archive/2010/10/13/nupack-up-for-grabs-items.aspx/"
 ---
 

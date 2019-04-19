@@ -1,9 +1,7 @@
 ---
 title: The ASP.NET MVC 4 Book Is Available!
 date: 2012-10-03 -0800
-tags: [aspnetmvc]
-- blogging
-- code
+tags: [aspnetmvc,blogging,code]
 redirect_from: "/archive/2012/10/02/mvc-4-book.aspx/"
 ---
 

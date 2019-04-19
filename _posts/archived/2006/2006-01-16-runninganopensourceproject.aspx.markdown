@@ -1,8 +1,7 @@
 ---
 title: Running An Open Source Project
 date: 2006-01-16 -0800
-tags: [code]
-- oss
+tags: [code,oss]
 redirect_from: "/archive/2006/01/15/runninganopensourceproject.aspx/"
 ---
 

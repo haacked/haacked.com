@@ -1,10 +1,7 @@
 ---
 title: My First IronRuby Unit Test Spec For ASP.NET MVC
 date: 2008-04-09 -0800
-tags: [aspnet]
-- aspnetmvc
-- code
-- tdd
+tags: [aspnet,aspnetmvc,code,tdd]
 redirect_from: "/archive/2008/04/08/my-first-ironruby-unit-test-spec-for-asp.net-mvc.aspx/"
 ---
 

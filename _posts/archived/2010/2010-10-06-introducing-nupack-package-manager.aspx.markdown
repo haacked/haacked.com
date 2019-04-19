@@ -1,10 +1,7 @@
 ---
 title: Introducing NuGet Package Manager
 date: 2010-10-06 -0800
-tags: [aspnetmvc]
-- code
-- oss
-- nuget
+tags: [aspnetmvc,code,oss,nuget]
 redirect_from: "/archive/2010/10/05/introducing-nupack-package-manager.aspx/"
 ---
 

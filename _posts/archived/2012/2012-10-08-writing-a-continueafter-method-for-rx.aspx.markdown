@@ -1,8 +1,7 @@
 ---
 title: Writing a ContinueAfter method for Rx
 date: 2012-10-08 -0800
-tags: [code]
-- rx
+tags: [code,rx]
 redirect_from: "/archive/2012/10/07/writing-a-continueafter-method-for-rx.aspx/"
 ---
 

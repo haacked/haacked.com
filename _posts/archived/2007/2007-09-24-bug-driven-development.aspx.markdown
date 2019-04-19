@@ -1,8 +1,7 @@
 ---
 title: Bug Driven Development
 date: 2007-09-24 -0800
-tags: [code]
-- tdd
+tags: [code,tdd]
 redirect_from: "/archive/2007/09/23/bug-driven-development.aspx/"
 ---
 

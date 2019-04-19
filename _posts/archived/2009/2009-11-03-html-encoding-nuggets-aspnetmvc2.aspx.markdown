@@ -1,9 +1,7 @@
 ---
 title: Html Encoding Nuggets With ASP.NET MVC 2
 date: 2009-11-03 -0800
-tags: [aspnet]
-- code
-- aspnetmvc
+tags: [aspnet,code,aspnetmvc]
 redirect_from: "/archive/2009/11/02/html-encoding-nuggets-aspnetmvc2.aspx/"
 ---
 

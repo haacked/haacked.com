@@ -1,9 +1,7 @@
 ---
 title: MonkeySpace shines a light on the future of .NET OSS
 date: 2012-10-21 -0800
-tags: [oss]
-- code
-- community
+tags: [oss,code,community]
 redirect_from:
 - "/archive/2012/10/19/monkeyspace-dotnet-oss.aspx/"
 - "/archive/2012/10/20/monkeyspace-dotnet-oss.aspx/"

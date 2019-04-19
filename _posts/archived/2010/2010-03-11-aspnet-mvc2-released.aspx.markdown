@@ -1,9 +1,7 @@
 ---
 title: ASP.NET MVC 2 Released!
 date: 2010-03-11 -0800
-tags: [aspnet]
-- aspnetmvc
-- code
+tags: [aspnet,aspnetmvc,code]
 redirect_from: "/archive/2010/03/10/aspnet-mvc2-released.aspx/"
 ---
 

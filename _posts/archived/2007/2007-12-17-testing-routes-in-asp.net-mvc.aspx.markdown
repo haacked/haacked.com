@@ -1,9 +1,7 @@
 ---
 title: Testing Routes In ASP.NET MVC
 date: 2007-12-17 -0800
-tags: [aspnet]
-- code
-- aspnetmvc
+tags: [aspnet,code,aspnetmvc]
 redirect_from:
 - "/archive/2007/12/15/testing-routes-in-asp.net-mvc.aspx/"
 - "/archive/2007/12/16/testing-routes-in-asp.net-mvc.aspx/"

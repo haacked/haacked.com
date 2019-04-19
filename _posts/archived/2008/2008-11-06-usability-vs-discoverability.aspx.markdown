@@ -1,9 +1,7 @@
 ---
 title: 'A Case Study In Design Tradeoffs: Usability vs Discoverability'
 date: 2008-11-06 -0800
-tags: [aspnet]
-- code
-- aspnetmvc
+tags: [aspnet,code,aspnetmvc]
 redirect_from: "/archive/2008/11/05/usability-vs-discoverability.aspx/"
 ---
 

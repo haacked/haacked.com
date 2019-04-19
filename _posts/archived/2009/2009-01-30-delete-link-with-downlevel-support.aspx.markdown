@@ -1,8 +1,7 @@
 ---
 title: jQuery Delete Link With Downlevel Support
 date: 2009-01-30 -0800
-tags: [aspnetmvc]
-- aspnet
+tags: [aspnetmvc,aspnet]
 redirect_from: "/archive/2009/01/29/delete-link-with-downlevel-support.aspx/"
 ---
 

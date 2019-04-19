@@ -1,9 +1,7 @@
 ---
 title: Thank You For Helping Me With My Job With ASP.NET MVC
 date: 2007-12-13 -0800
-tags: [aspnet]
-- code
-- aspnetmvc
+tags: [aspnet,code,aspnetmvc]
 redirect_from: "/archive/2007/12/12/thank-you-for-helping-me-with-my-job-with-asp.net.aspx/"
 ---
 

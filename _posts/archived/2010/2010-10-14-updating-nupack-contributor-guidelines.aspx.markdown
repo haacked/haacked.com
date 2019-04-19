@@ -1,9 +1,7 @@
 ---
 title: Updating NuGet Contributor Guidelines
 date: 2010-10-14 -0800
-tags: [nuget]
-- code
-- oss
+tags: [nuget,code,oss]
 redirect_from: "/archive/2010/10/13/updating-nupack-contributor-guidelines.aspx/"
 ---
 

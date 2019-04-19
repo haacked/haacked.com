@@ -1,8 +1,7 @@
 ---
 title: Clickable Background Images Via CSS
 date: 2006-01-13 -0800
-tags: [code]
-- css
+tags: [code,css]
 redirect_from: "/archive/2006/01/12/ClickableBackgroundImagesViaCSS.aspx/"
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: Git and GitHub Talk in Hawaii!
 date: 2012-09-05 -0800
-tags: [code]
-- git
-- github
-- community
-- tech
+tags: [code,git,github,community,tech]
 redirect_from: "/archive/2012/09/04/git-and-github-talk-in-hawaii.aspx/"
 ---
 

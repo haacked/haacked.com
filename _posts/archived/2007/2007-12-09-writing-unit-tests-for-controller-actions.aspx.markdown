@@ -1,10 +1,7 @@
 ---
 title: Writing Unit Tests For Controller Actions
 date: 2007-12-09 -0800
-tags: [aspnet]
-- code
-- aspnetmvc
-- tdd
+tags: [aspnet,code,aspnetmvc,tdd]
 redirect_from: "/archive/2007/12/08/writing-unit-tests-for-controller-actions.aspx/"
 ---
 

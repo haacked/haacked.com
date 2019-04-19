@@ -1,9 +1,7 @@
 ---
 title: Extending ASP.NET MVC To Add Conventions
 date: 2007-12-08 -0800
-tags: [aspnet]
-- code
-- aspnetmvc
+tags: [aspnet,code,aspnetmvc]
 redirect_from: "/archive/2007/12/07/extending-asp.net-mvc-to-add-conventions.aspx/"
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: Visualize Git with SeeGit
 date: 2012-03-15 -0800
-tags: [git]
-- github
-- code
+tags: [git,github,code]
 redirect_from: "/archive/2012/03/14/visualize-git-with-seegit.aspx/"
 ---
 

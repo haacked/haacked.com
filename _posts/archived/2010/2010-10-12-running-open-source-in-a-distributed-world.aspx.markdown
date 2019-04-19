@@ -1,9 +1,7 @@
 ---
 title: Running Open Source In A Distributed World
 date: 2010-10-12 -0800
-tags: [nuget]
-- code
-- oss
+tags: [nuget,code,oss]
 redirect_from: "/archive/2010/10/11/running-open-source-in-a-distributed-world.aspx/"
 ---
 

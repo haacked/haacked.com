@@ -4,8 +4,7 @@ date: 2004-05-15 -0800
 redirect_from:
 - "/archive/2004/05/15/449.aspx"
 - "/archive/2004/05/14/http-web-request-expect-100-continue.aspx/"
-tags: [aspnet]
-- code
+tags: [aspnet,code]
 ---
 
 Apparently I’m not the only one to run into this annoying problem. When using the HttpWebRequest to POST form data using HTTP 1.1, it ALWAYS adds the following HTTP header "Expect: 100-Continue". Fixing the problem has proved to be quite elusive.

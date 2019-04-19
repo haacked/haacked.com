@@ -1,9 +1,7 @@
 ---
 title: ASP.NET MVC Design Philosophy
 date: 2007-12-11 -0800
-tags: [aspnet]
-- code
-- aspnetmvc
+tags: [aspnet,code,aspnetmvc]
 redirect_from: "/archive/2007/12/10/asp.net-mvc-design-philosophy.aspx/"
 ---
 

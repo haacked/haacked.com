@@ -1,8 +1,7 @@
 ---
 title: 'Exception Handling Mistakes: Finally Block Does Not Require The Catch Block'
 date: 2006-01-09 -0800
-tags: [csharp]
-- code
+tags: [csharp,code]
 redirect_from: "/archive/2006/01/08/FinallyBlockDoesNotRequireExceptionClause.aspx/"
 ---
 

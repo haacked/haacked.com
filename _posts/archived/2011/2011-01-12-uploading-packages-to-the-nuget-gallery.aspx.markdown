@@ -1,8 +1,7 @@
 ---
 title: Uploading Packages To The NuGet Gallery
 date: 2011-01-12 -0800
-tags: [nuget]
-- oss
+tags: [nuget,oss]
 redirect_from: "/archive/2011/01/11/uploading-packages-to-the-nuget-gallery.aspx/"
 ---
 

@@ -1,10 +1,7 @@
 ---
 title: ASP.NET MVC 3 Release Candidate
 date: 2010-11-09 -0800
-tags: [aspnet]
-- aspnetmvc
-- code
-- nuget
+tags: [aspnet,aspnetmvc,code,nuget]
 redirect_from: "/archive/2010/11/08/asp-net-mvc-3-release-candidate.aspx/"
 ---
 

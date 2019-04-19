@@ -1,8 +1,7 @@
 ---
 title: "Naming is Hard, Let's Go Shopping"
 date: 2010-10-22 -0800
-tags: [oss]
-- nuget
+tags: [oss,nuget]
 redirect_from: "/archive/2010/10/21/naming-is-hard.aspx/"
 ---
 

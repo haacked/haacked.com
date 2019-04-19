@@ -1,9 +1,7 @@
 ---
 title: Model Binding Decimal Values
 date: 2011-03-19 -0800
-tags: [aspnetmvc]
-- aspnet
-- code
+tags: [aspnetmvc,aspnet,code]
 redirect_from: "/archive/2011/03/18/fixing-binding-to-decimals.aspx/"
 ---
 
