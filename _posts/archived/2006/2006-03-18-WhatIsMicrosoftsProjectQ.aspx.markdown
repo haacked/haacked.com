@@ -1,7 +1,7 @@
 ---
 title: What Is Microsoft's Project Q?
 date: 2006-03-18 -0800
-tags: [quantum,science]
+tags: [science]
 redirect_from: "/archive/2006/03/17/WhatIsMicrosoftsProjectQ.aspx/"
 ---
 
@@ -41,4 +41,3 @@ quantum knots for computation.
 The article mentions that these researchers are part of Microsoft’s
 Project Q. It’ll be interesting to see if Microsoft makes a splash in
 Quantum computing as it moves forward.
-

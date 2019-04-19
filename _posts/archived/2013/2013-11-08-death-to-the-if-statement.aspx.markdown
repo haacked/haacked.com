@@ -1,7 +1,7 @@
 ---
 title: Death to the IF statement
 date: 2013-11-08 -0800
-tags: [code,functional]
+tags: [code,languages]
 redirect_from: "/archive/2013/11/07/death-to-the-if-statement.aspx/"
 excerpt_image: https://haacked.com/images/haacked_com/WindowsLiveWriter/UnconditionalProgrammingInC_BD84/Msi_if_cover_2.jpg
 ---

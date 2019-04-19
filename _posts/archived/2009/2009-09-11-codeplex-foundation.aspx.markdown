@@ -1,7 +1,7 @@
 ---
 title: What The CodePlex Foundation Means To The .NET OSS Developer
 date: 2009-09-11 -0800
-tags: [oss,codeplex]
+tags: [oss]
 redirect_from: "/archive/2009/09/10/codeplex-foundation.aspx/"
 ---
 

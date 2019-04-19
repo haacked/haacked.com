@@ -1,7 +1,7 @@
 ---
 title: Custom Configuration Sections in 3 Easy Steps
 date: 2007-03-12 -0800
-tags: [aspnet,configuration]
+tags: [aspnet,tips]
 redirect_from: "/archive/2007/03/11/custom-configuration-sections-in-3-easy-steps.aspx/"
 ---
 

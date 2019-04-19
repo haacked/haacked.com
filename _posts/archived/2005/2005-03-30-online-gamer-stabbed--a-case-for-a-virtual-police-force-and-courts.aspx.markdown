@@ -1,7 +1,7 @@
 ---
 title: Online Gamer Stabbed - A Case for a Virtual Police Force and Courts?
 date: 2005-03-30 -0800
-tags: [gamer]
+tags: [news,tech]
 redirect_from: "/archive/2005/03/29/online-gamer-stabbed--a-case-for-a-virtual-police-force-and-courts.aspx/"
 ---
 
@@ -57,4 +57,3 @@ players indemnifying all other players and the company from any loss
 involving virtual assets. Either that, or put an in-game arbitration
 system in place and have players sign waivers stating they agree to
 resolve disputes via the in-game system first.
-

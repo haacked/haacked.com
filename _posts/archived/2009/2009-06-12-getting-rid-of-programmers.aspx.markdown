@@ -1,7 +1,7 @@
 ---
 title: And Get Rid Of Those Pesky Programmers
 date: 2009-06-12 -0800
-tags: [code]
+tags: [ai,commentary,tech,developers]
 redirect_from: "/archive/2009/06/11/getting-rid-of-programmers.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: IronRuby ASP.NET MVC With Filters
 date: 2009-02-17 -0800
-tags: [aspnetmvc,aspnet,dlr]
+tags: [aspnetmvc,aspnet,languages]
 redirect_from: "/archive/2009/02/16/aspnetmvc-ironruby-with-filters.aspx/"
 ---
 

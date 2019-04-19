@@ -1,7 +1,7 @@
 ---
 title: Mapping Drives Via Remote Desktop
 date: 2006-10-22 -0800
-tags: [remote-desktop]
+tags: [productivity]
 redirect_from: "/archive/2006/10/21/Mapping_Drives_Via_Remote_Desktop.aspx/"
 ---
 

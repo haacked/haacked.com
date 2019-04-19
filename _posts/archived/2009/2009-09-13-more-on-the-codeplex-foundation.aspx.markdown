@@ -1,7 +1,7 @@
 ---
 title: More On The CodePlex Foundation
 date: 2009-09-13 -0800
-tags: [oss,foundation,copyright]
+tags: [oss,copyright]
 redirect_from: "/archive/2009/09/12/more-on-the-codeplex-foundation.aspx/"
 ---
 

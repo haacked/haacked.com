@@ -1,7 +1,7 @@
 ---
 title: Spirited Away Hotel
 date: 2005-07-31 -0800
-tags: [personal,japan,tokyo,anime]
+tags: [personal,japan,tokyo,movies]
 redirect_from: "/archive/2005/07/30/spirited-away-hotel.aspx/"
 ---
 

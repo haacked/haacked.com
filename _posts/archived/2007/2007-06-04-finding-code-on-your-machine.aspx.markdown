@@ -1,7 +1,7 @@
 ---
 title: Finding Code On Your Machine
 date: 2007-06-04 -0800
-tags: [code,search]
+tags: [code,productivit]
 redirect_from: "/archive/2007/06/03/finding-code-on-your-machine.aspx/"
 ---
 

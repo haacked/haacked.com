@@ -1,7 +1,7 @@
 ---
 title: Globalizing ASP.NET MVC Client Validation
 date: 2010-05-10 -0800
-tags: [aspnetmvc,validation,globalization]
+tags: [aspnetmvc,validation]
 redirect_from: "/archive/2010/05/09/globalizing-mvc-validation.aspx/"
 ---
 
