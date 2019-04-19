@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Blogging Syndrome
 tags: [blogging]
 redirect_from: "/archive/2004/05/07/the-blogging-syndrome.aspx/"
