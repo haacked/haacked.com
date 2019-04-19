@@ -1,7 +1,7 @@
 ---
 title: "SemVer's New Maintainers"
 description: "I am stepping down as the maintainer of SemVer. It will be maintained by a consortium of representatives from the major package managers."
-date: 2019-02-11 -0800 09:01 AM PDT
+date: 2019-02-11 -0800 09:01 AM
 tags: [semver]
 excerpt_image: https://user-images.githubusercontent.com/19977/52528219-b1697480-2c8d-11e9-848a-6c620eecb5fb.jpg
 ---
