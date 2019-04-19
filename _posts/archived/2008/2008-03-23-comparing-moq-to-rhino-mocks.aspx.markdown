@@ -16,8 +16,8 @@ compare interaction based testing between the two frameworks.
 
 For the longest time I’ve been a big fan of [Rhino
 Mocks](http://www.ayende.com/projects/rhino-mocks/downloads.aspx "Download Page")
-and have often [written about it
-glowingly](https://haacked.com/tags/rhino+mocks/default.aspx "Posts Tagged with Rhino Mocks").
+and have often written about it
+glowingly.
 When [Moq](http://code.google.com/p/moq/ "Moq") came on the scene, I
 remained blissfully ignorant of it because I thought the lambda syntax
 to be a bit gimmicky. I figured if using lambdas was all it had to

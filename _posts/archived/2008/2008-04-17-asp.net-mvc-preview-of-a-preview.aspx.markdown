@@ -36,8 +36,7 @@ about is that we released our unit tests. As Scott mentioned, we are
 using [MoQ](http://code.google.com/p/moq/ "Moq") as a mock framework
 within our tests. Note that this is not some official endorsement of any
 particular mock framework. Originally we started out trying to port our
-tests to Rhino Mocks (which I’ve [written a lot
-about](https://haacked.com/tags/rhino+mocks/default.aspx "Rhino Mocks on Haacked.com")).
+tests to Rhino Mocks (which I’ve written a lot about).
 MoQ just happened to have a programming model that was closer to the way
 our internal mock framework works, so we switched over to MoQ.
 

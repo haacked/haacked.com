@@ -70,8 +70,7 @@ but most likely with some strict limitations and with required paperwork
 like the Free Software Foundation does. Progress can be made on this
 front, but it won’t happen overnight.
 
-How Should They Choose?
------------------------
+## How Should They Choose?
 
 For the sake of argument, suppose that Microsoft deals with all the
 legal issues and does decide to start bundling OSS software. How should
@@ -79,10 +78,7 @@ they choose *which* software to bundle?
 
 For mock object frameworks, Scott Bellware mentions [Rhino
 Mocks](http://ayende.com/projects/rhino-mocks.aspx "Rhino Mocks"), a
-mock framework I’ve [written about a few
-times](https://haacked.com/Tags/Rhino%20Mocks/default.aspx "Rhino Mocks Tags on Haacked.com") and
-would agree with this choice. But what
-about [NMock](http://nmock.org/ "NMock") which has been around longer as
+mock framework I’ve [written about a few times and would agree with this choice. But what about [NMock](http://nmock.org/ "NMock") which has been around longer as
 far as I know. I think Scott and Ayende would both agree that popularity
 or seniority should not trump technical quality in choosing which
 project to bundle. I personally would choose Rhino Mocks over NMock any
@@ -167,4 +163,3 @@ support etc...) within the Visual Studio IDE because they recognize they
 don’t have the bandwidth to build *everything* top shelf. This sort of
 forward thinking should apply anytime they plan to ship a crappy stopgap
 implementation.
-

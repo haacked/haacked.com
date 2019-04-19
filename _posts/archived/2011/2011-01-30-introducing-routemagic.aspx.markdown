@@ -7,7 +7,7 @@ redirect_from: "/archive/2011/01/29/introducing-routemagic.aspx/"
 
 Over the past couple of years, I’ve written [several blog posts on
 ASP.NET
-Routing](https://haacked.com/tags/Routing/default.aspx "Blog Posts Tagged with 'Routing'")
+Routing](https://haacked.com/tags/#routing "Blog Posts Tagged with 'Routing'")
 where I provided various extensions to routing. Typically such blog
 posts included a zip download of the binaries and source code to allow
 readers to easily try out the code.

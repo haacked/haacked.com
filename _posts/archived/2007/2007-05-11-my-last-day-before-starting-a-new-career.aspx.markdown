@@ -75,7 +75,7 @@ Manager of the
 [Koders.com](http://koders.com/ "Koders code search engine") website, an
 Open Source code search engine. I think this will be a good fit for me
 due to my passion for [open source
-software](https://haacked.com/Tags/Open%20Source/default.aspx "Open Source").
+software](https://haacked.com/tags/#oss "Open Source").
 
 My goal is to as much as possible help developers become more productive
 via [search driven

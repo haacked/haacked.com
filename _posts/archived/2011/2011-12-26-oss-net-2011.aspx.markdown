@@ -6,13 +6,11 @@ redirect_from: "/archive/2011/12/25/oss-net-2011.aspx/"
 ---
 
 T’is the season for “Year in Review” and “Best of” blog posts. It’s a
-vain practice, to be sure. This is exactly why I’ve done [it almost
-every
-year](https://haacked.com/tags/Year-in-review/default.aspx "Year in review")!
+vain practice, to be sure. This is exactly why I’ve done it almost
+every year!
+
 After all, isn’t all [blogging pure
-vanity](https://haacked.com/archive/2004/10/08/bloggingispurevanity.aspx "Blogging is pure vanity")?
-Sadly, I did miss a few years when my vanity could not overcome my
-laziness.
+vanity](https://haacked.com/archive/2004/10/08/bloggingispurevanity.aspx "Blogging is pure vanity")? Sadly, I did miss a few years when my vanity could not overcome my laziness.
 
 This year I am changing it up a bit to look at some of the highlights,
 *in my opinion*, that occurred in 2011 with open source software and the
