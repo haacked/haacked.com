@@ -11,7 +11,7 @@ The shaman squatted next to the entrails on the ground and stared intently at th
 
 Such is the state of hiring developers today.
 
-### Our approach to hiring is misguided
+## Our approach to hiring is misguided
 
 The approach to hiring developers and managing their performance afterwards at many if not most tech companies is based on age old ritual and outdated ideas of what predicts how an employee will perform. Most of it ends up being very poor at predicting success and rife with bias.
 
@@ -23,7 +23,7 @@ According to Google’s Senior VP of People Operations Laszlo Bock, Google long 
 
 > Years ago, we did a study to determine whether anyone at Google is particularly good at hiring. We looked at tens of thousands of interviews, and everyone who had done the interviews and what they scored the candidate, and how that person ultimately performed in their job. We found zero relationship.
 
-### We're not the first to face this
+## We're not the first to face this
 
 Our industry is at a stage where we are rife with superstition about what factors predict putting together a great team. This [sounds eerily familiar](https://en.wikipedia.org/wiki/Moneyball).
 
@@ -39,7 +39,7 @@ Did it work?
 
 > By re-evaluating the strategies that produce wins on the field, the 2002 Athletics, with approximately US$44 million in salary, were competitive with larger market teams such as the New York Yankees, who spent over US$125 million in payroll that same season...This approach brought the A's to the playoffs in 2002 and 2003.
 
-### Moneyball of Hiring
+## Moneyball of Hiring
 
 It makes me wonder, where is the Moneyball of software hiring and performance management?
 
@@ -51,7 +51,7 @@ Having this data in the open might remove this one competitive advantage in hiri
 
 The good news is, there are a lot of people and companies thinking about this. This article,  [What's Wrong with Job Interviews, and How to Fix Them](https://www.linkedin.com/pulse/20130610025112-69244073-will-smart-companies-interview-your-kids) is a great example.
 
-### We'll never get it right
+## We'll never get it right
 
 Even with all this data, we'll never perfect hiring. Studying human behavior is a tricky affair. If we could predict it well, the stock market would be completely predictable.
 

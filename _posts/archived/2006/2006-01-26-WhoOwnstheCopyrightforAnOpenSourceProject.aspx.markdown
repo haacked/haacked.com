@@ -18,7 +18,7 @@ license.txt file in the root of the source tree and publish the license
 on their project website. Others take the extra step to include the
 license text in a comment within every source file.
 
-### Assigning Copyright
+## Assigning Copyright
 
 Take a [look at the license for
 DotNetNuke](http://www.dotnetnuke.com/Downloads/tabid/125/Default.aspx)
@@ -63,7 +63,7 @@ up to the point at which they close the source. At that point,
 contributors would be free to fork the project and continue development
 under the original license as if nothing had occurred.
 
-### Copyright Assignment Policy
+## Copyright Assignment Policy
 
 According to a lawyer Fogel talked with...
 

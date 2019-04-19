@@ -9,18 +9,16 @@ How can you trust anything you install from NuGet? It’s a simple question, but
 
 The following are some ideas I’ve been bouncing around with the NuGet team about trust and security since even before I left NuGet. Hopefully they spark some interesting discussions about how to make NuGet a safer place to install packages.
 
-Establish Identity and Authorship
----------------------------------
+## Establish Identity and Authorship
 
 The question “do I trust this package” is not the best question to ask. The more pertinent question is “do I trust the author of this package?”
 
 NuGet doesn’t change how you go about answering this question yet. Whether you found a zip file on some random website or install it via NuGet, you still have to answer the following questions (perhaps unconsciously):
 
-1.  Who is the author?
-2.  Is the author trustworthy?
-3.  Do I trust that the this software really was written by the author?
-4.  Is the author’s means of distributing software tamper resistant and
-    verifiable?
+1. Who is the author?
+2. Is the author trustworthy?
+3. Do I trust that the this software really was written by the author?
+4. Is the author’s means of distributing software tamper resistant and verifiable?
 
 In some cases, the non-NuGet software is signed with a certificate. That helps answer questions 1, 2, and 3. But chances are, you don’t restrict yourself to only using certificate signed libraries. I looked through my own installed Visual Studio Extensions and several were not certificate signed.
 
@@ -28,15 +26,13 @@ NuGet doesn’t yet support package signing, but even if it did, it wouldn’t s
 
 What most people do in such situations is try to find alternate means to establish identity and authorship:
 
-1.  I look for other sites that link to this package and mention the author.
-2.  I look for sites that I already know to be in control of the author (such as a blog or Twitter account) and look for links to the
-    package.
-3.  I look for blog posts and tweets from other people I trust mentioning the package and author.
+1. I look for other sites that link to this package and mention the author.
+2. I look for sites that I already know to be in control of the author (such as a blog or Twitter account) and look for links to the package.
+3. I look for blog posts and tweets from other people I trust mentioning the package and author.
 
 I think NuGet really needs to focus on making this better.
 
-A Better Approach
------------------
+## A Better Approach
 
 There isn’t a single solution that will solve the problem. But I do believe a multipronged approach will make it much easier for people to establish the identity and authorship of a package and make an educated decision on whether or not to install any given package.
 
@@ -83,8 +79,7 @@ It could be as simple as factoring it into sort order. For example, one factor i
 
 We could also incorporate the level of trust of the package owner into that sort order. For example, *show me packages for sending emails in order of trust and download count.*
 
-Other attack vectors
---------------------
+## Other attack vectors
 
 So far, I’ve focused on establishing trust in the author of a package. But a package manager system has other attack vectors.
 
@@ -104,8 +99,7 @@ Mitigations of this nightmare scenario include having different credentials for 
 Another thing we should consider is storing package hashes in *packages.config* so that Package Restore could at least verify packages
 during a restore in this nightmare scenario. But this wouldn’t solve the issue with installing new packages.
 
-PowerShell Scripts
-------------------
+## PowerShell Scripts
 
 NuGet makes use of PowerShell scripts to perform useful tasks not covered by a typical package.
 
@@ -135,8 +129,7 @@ If you’re installing a package, you’re about to run some code with or withou
 At least with NuGet, when you install a package it doesn’t require elevation. If you install an MSI, you’d typically have to elevate
 privileges.
 
-Addendum: Package Signing is not the answer
--------------------------------------------
+## Addendum: Package Signing is not the answer
 
 Every time I talk about NuGet security, someone gets irate and demands that we implement signing immediately as if it were some magic panacea. I’m definitely not against implementing package signing, but let’s be clear. It is a woefully inadequate solution in and of itself and there’s a lot better things we should do first as I’ve already outlined in this post.
 
@@ -168,8 +161,7 @@ The point here is that even with signed packages, there’s not much it would do
 
 The only benefit in this case of signing is that if a package did screw something up, you could probably chase down the author if they signed it. But that’s only a benefit if you never install unsigned packages. Since most people won’t sign them, this isn’t really a viable way to live.
 
-Conclusion
-----------
+## Conclusion
 
 Just to be clear. I’m actually in favor of supporting package signing eventually. But I do not support requiring package signing to make it into the NuGet gallery. And I think there are much better approaches we can take first to mitigate the risk of using NuGet before we get to that point.
 

@@ -15,7 +15,7 @@ Even so, in a set of blog posts I plan to write, I hope to convince you that Git
 
 But for now, I'll work to convince you that __GitHub Desktop is the easiest, fastest, and best way to get the Git command line set up on a Windows machine and keep that installation up to date.__
 
-### Installation
+## Installation
 
 Installation is easy. Visit [desktop.github.com](https://desktop.github.com/) and click the big blue button that says "Download GitHub Desktop." We use ClickOnce to streamline the installation process.
 
@@ -29,7 +29,7 @@ By default, the Git Shell shortcut launches PowerShell with Git set up. You can 
 
 Support for the `~` key to launch the shell was inspired by the 3D shooter Quake which uses that key to bring up the console within the game. Many thanks to [Scott Hanselman](http://www.hanselman.com/) for that idea.
 
-### Sane Defaults
+## Sane Defaults
 
 We often mention that we install Git with "sane defaults." What do we mean by that? Well, let me tell you an old joke first.
 
@@ -42,7 +42,7 @@ By default, Git sets vi as the default commit editor. Statistically speaking, th
 
 Also, GitHub Desktop sets itself up as the Git credential provider. That way, you can log into the app and we'll handle the credential management when you push to or pull from GitHub using the Git command line. This is especially useful if you have two-factor authentication enabled (WHICH YOU SHOULD!) as we handle the 2fa dance on your behalf. There's no need for messing around with personal access (OAuth) tokens.
 
-### Posh-Git
+## Posh-Git
 
 The other "sane default" is that we include [Posh-Git](https://github.com/dahlbyk/posh-git) (maintained by [Keith Dahlby](https://github.com/dahlbyk)) with our installation.
 
@@ -54,7 +54,7 @@ Here is an animated gif that shows what it looks like to tab through all my repo
 
 ![Posh-Git Tab Expansion](https://haacked.com/images/haacked_com/WindowsLiveWriter/Git-Smooth-with-PowerShell_94DB/ps-tab-expansion_thumb.gif)
 
-### PowerShell Configuration
+## PowerShell Configuration
 
 One thing to note is that if you launch PowerShell via some other means other than our Git Shell shortcut or the Desktop application, our version of Git won't be there. That's because we install a portable version of Git that does not change any of your system settings.
 
@@ -95,7 +95,7 @@ Push-Location $dir
 Pop-Location
 ```
 
-### Turbocharge the Shell with ConsoleZ
+## Turbocharge the Shell with ConsoleZ
 
 Hey, you're an individual and you need to express that individuality. Nothing says "I'm boring" like the default blue PowerShell console (if you do always use the default, ignore what I just said. You might be the _real_ noncomformist). I express my individuality with a fork of Console2 called [ConsoleZ](https://github.com/cbucher/console) just like every one of my friends! If you have [Chocolatey](https://chocolatey.org/) installed, you can run this command to install ConsoleZ:
 
@@ -114,7 +114,7 @@ You're not quite done yet. By default, ConsoleZ loads the Command shell. You'll 
 
 You'll notice I got a little fancy and use the Git Shell icon for the tab. I put [icon here](https://haacked.com/images/icons/Shell.ico) (or use our [Octocat App Icon](https://haacked.com/images/icons/App.ico)) so you can download it and do the same if you'd like. I saved the icon to the `%LocalAppData%\GitHub\icons` directory and then pasted the path to the Icon in the Icon text box.
 
-### Customize ConsoleZ
+## Customize ConsoleZ
 
 That's just enough to make ConsoleZ work with Desktop. But since you'll spend a lot of time in the shell, let's really turbo charge it. Here is a set of customizations adapted from [Scott Hanselman's Console2 blog post](http://www.hanselman.com/blog/Console2ABetterWindowsCommandPrompt.aspx). I've made a few small tweaks in places to ensure that the customizations don't interfere with the Git Shell functionality.
 
@@ -132,7 +132,7 @@ Here's what it looks like on my machine. You can see my background image poking 
 
 Finally, one setting that makes ConsoleZ feel really badass to me is to go to `Appearance` | `Full Screen` and check "Start in full screen". I've been using this for a bit and it's growing on me. Just remember, hit `ALT+F4` or type `exit` to close it.
 
-### Updates
+## Updates
 
 We put in a lot of work to ensure that GitHub Desktop silently and automatically updates itself. When we ship an update, you'll see a subtle notification in the application (a little up arrow in the top right) that an update is available. Just restart the application to install the update.
 
@@ -140,7 +140,7 @@ Desktop updates also include updates to Posh-Git, the Git command line, and [Git
 
 __We keep everything updated so you don't have to.__
 
-### Conclusion
+## Conclusion
 
 With these customizations in place, you'll have a really great Git command line setup that we'll work hard to keep up to date so you don't have to. In fact, we have a few updates coming up very soon! Follow this up with some of my [Git aliases](https://haacked.com/archive/2014/07/28/github-flow-aliases/) and you'll really be smoking.
 

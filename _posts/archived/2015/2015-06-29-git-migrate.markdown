@@ -10,13 +10,13 @@ Show of hands if this ever happens to you. After a long day of fighting fires at
 
 But after a few commits, it dawns on you that you're in the wrong branch. Yeah? Me too. This happens to me all the time because I lack impulse control. You can put your hands down now.
 
-### GitHub Flow
+## GitHub Flow
 
 As you may know, a key component of the [GitHub Flow](https://guides.github.com/introduction/flow/) lightweight workflow is to do all new feature work in a branch. Fixing a bug? Create a branch! Adding a new feature? Create a branch! Need to climb a tree? Well, you get the picture.
 
 So what happens when you run into the situation I just described? Are you stuck? Heavens no! [The thing about Git](http://2ndscale.com/rtomayko/2008/the-thing-about-git) is that its very design supports fixing up mistakes after the fact. It's very forgiving in this regard. For example, a recent blog post on the GitHub blog highlights all the different ways [you can undo mistakes in Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git).
 
-### The Easy Case - Fixing `master`
+## The Easy Case - Fixing `master`
 
 This is the simple case. I made commits on master that were intended for a branch off of master. Let's walk through this scenario step by step with some visual aids.
 
@@ -55,7 +55,7 @@ git checkout -b new-branch
 git branch --force master origin/master
 ```
 
-### Fixing up a non-master branch
+## Fixing up a non-master branch
 
 ![The wrong branch](https://cloud.githubusercontent.com/assets/19977/8369613/48019364-1b71-11e5-9a28-b748a2802ed7.png)
 
@@ -97,7 +97,7 @@ git branch --force wrong-branch origin/wrong-branch
 git rebase --onto master wrong-branch
 ```
 
-### Migrate commit ranges - great for local only branches
+## Migrate commit ranges - great for local only branches
 
 The assumption I made in the past two examples is that I'm working with branches that I've pushed to a remote. When you push a branch to a remote, you can create a local "remote tracking branch" that tracks the state of the branch on the remote server using the `-u` option.
 
@@ -115,7 +115,7 @@ git branch --force wrong-branch HEAD~1
 git rebase --onto master wrong-branch
 ```
 
-### Alias was a fine TV show, but a better Git technique
+## Alias was a fine TV show, but a better Git technique
 
 When you see the set of commands I ran, I hope you're thinking "Hey, that looks like a rote series of steps and you should automate that!" This is why I like you. You're very clever and very correct!
 

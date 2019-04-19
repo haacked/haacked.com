@@ -17,7 +17,7 @@ Jamie posted the entire email history and the three (so far) letters
 received from Microsoft’s legal team. Rather than jump to any
 conclusions, let’s dig into this a bit.
 
-### The Claim
+## The Claim
 
 First, let’s examine the claim. In the first letter from OLSWANG, the
 legal team representing Microsoft, the portion of the EULA for the
@@ -36,15 +36,14 @@ The letter continues with...
 > features of your own design to the product, thereby circumventing the
 > measures put in place to prevent these scenarios.
 
-### What *Technical Limitation*?
+## What *Technical Limitation*?
 
 The interesting thing about all this is that nowhere in all the emails
 is it specific about which “technical limitation” Jaime is supposedly
 working around. Exactly what functionality has been “de-activated”?
 
 So I decided to take a look around to see what I could find. The best I
-could find is this [feature comparison
-chart](http://msdn2.microsoft.com/en-us/vstudio/aa700921.aspx "Visual Studio 2005 Product Line Overview").
+could find is this [feature comparison chart](http://msdn2.microsoft.com/en-us/vstudio/aa700921.aspx "Visual Studio 2005 Product Line Overview").
 
 In the row with the heading *Extensibility,*it says this about the
 Express Products.
@@ -82,7 +81,7 @@ The only thing he does which might be interpreted as questionable is to
 write a specific registry setting so that the TestDriven.NET menu
 options show up within Visual Studio Express.
 
-**So it seems that supporting Add-Ins does not require any
+So it seems that supporting Add-Ins does not require any
 decompilation. All it requires is adding a specific registry entry**.
 Does that violate the EULA? Well whether I think so or not doesn’t
 really matter. I’m not a lawyer and I’m pretty sure Microsoft’s lawyers
@@ -93,7 +92,7 @@ limitation* than something so obvious as a registry setting. If rooting
 around the registry can be considered decompilation and violate EULAs,
 we’ve got issues.
 
-### The Kicker
+## The Kicker
 
 Also, if that is the case, then you have to wonder about this section in
 Microsoft’s letter to Jamie, which I glossed over until I noticed [Leon
@@ -108,9 +107,9 @@ it](http://www.secretgeek.net/testdrivengate.asp "Leon Bambrick - TestDrivenGate
 
 This is interesting on a couple levels.
 
-**First, if the lack of a registry entry is sufficient to count as a
+First, if the lack of a registry entry is sufficient to count as a
 “technical limitation” and “de-activation” of a feature in Visual Studio
-Express, why doesn’t that standard also apply to TestDriven.NET?**
+Express, why doesn’t that standard also apply to TestDriven.NET?
 Having removed the registry setting that lets TD.NET work in Express,
 hasn’t Jamie complied?
 
@@ -133,7 +132,7 @@ violation, **Microsoft itself has committed such a violation** by
 reverse engineering TestDriven.NET to enable a feature that was
 purposefully disabled via a registry hack.
 
-### The Heart Of The Matter
+## The Heart Of The Matter
 
 All this legal posturing and gamesmanship aside, let’s get to the heart
 of the matter. So it may well be that Microsoft is in its legal right
@@ -142,8 +141,7 @@ Hooray for you Microsoft. Being in the right is nice, but knowing when
 to exercise that right is a true sign of wisdom. Is this the time to
 exercise that right?
 
-You’ve recently given [yourself one black
-eye](https://haacked.com/archive/2007/05/13/is-fighting-open-source-with-patents-a-smart-move-by.aspx "Is Fighting Open Source With Patents a Smart Move by Microsoft?")
+You’ve recently given [yourself one black eye](https://haacked.com/archive/2007/05/13/is-fighting-open-source-with-patents-a-smart-move-by.aspx "Is Fighting Open Source With Patents a Smart Move by Microsoft?")
 in the developer community. Are you prepared to give yourself yet
 another and continue [to erode your
 reputation](http://www.hanselman.com/blog/IsMicrosoftLosingTheAlphaGeeks.aspx "Is Microsoft losing the Alpha Geeks?")?

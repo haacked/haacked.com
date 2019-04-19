@@ -18,7 +18,7 @@ caught in institutional tunnel vision. At times, spending too much time
 and energy duplicating the efforts of others due to simple ignorance. I
 sometimes see hints of this within the .NET developer community.
 
-### Copping a Borgitude
+## Copping a Borgitude
 
 Over the past several years, there have been a proliferation of
 developers who have what I call the "Microsoft" mindset, also known as
@@ -34,7 +34,7 @@ isn’t always going to work as a one-size fits all solution for everyone
 else. And at times, Microsoft has shown itself capable of completely
 ignoring prior art.
 
-### Test Driven Development
+## Test Driven Development
 
 What really got me thinking about this is a while ago was Microsoft’s
 blunder with their approach to TDDin Team System, [here summarized by
@@ -54,7 +54,7 @@ developer with Borgitude from giving them a fair shake. There is a lot
 to learn from these other communities, and a lot to lose by not
 expanding one’s experience.
 
-### Source Control
+## Source Control
 
 Another classic example is source control. To many developers with
 Microsoftitis (and I was this way for a long time) source control *is*
@@ -105,7 +105,7 @@ for you, why change? On othe other hand, VB6 worked for a lot of
 developers, but there is only so long you can ignore the advantages to
 moving to VB.NET or C#.
 
-### Development Idioms
+## Development Idioms
 
 If Microsoft provides a component, many developers will never evaluate
 alternatives. This makes sense for many reasons such as [dependency
@@ -128,7 +128,7 @@ not detract from its usefulness. Log4j has been around a long time and
 that maturity is apparent as they have solved a lot of problems that
 other roll-your-own logging frameworks are just now discovering.
 
-### The Remedy
+## The Remedy
 
 If you are a .NET developer I am by no means advocating that you switch
 to Java (though you may want to spend some time programming in Java,

@@ -22,7 +22,7 @@ the code.**
 
 Huh?
 
-### Testing Atomic Clocks
+## Testing Atomic Clocks
 
 Let me start with an analogy. Suppose you are travelling with an atomic
 clock. How would you know that the clock is calibrated correctly?
@@ -40,7 +40,7 @@ clock giving the correct time?", then do you really need a third clock
 to test the second clock and a fourth clock to test the third? Not if
 all. Stack Overflow avoided!
 
-### Principle of Triangulation
+## Principle of Triangulation
 
 This really follows from the principle of triangulation. Why do sailors
 without electronic navigation systems bring three sextants with them on

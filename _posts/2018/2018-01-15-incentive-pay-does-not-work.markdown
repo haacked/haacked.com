@@ -27,7 +27,7 @@ Many folks counter that they don't work because they're simply implemented impro
 > According to numerous studies in laboratories, workplaces, classrooms, and other settings, rewards typically undermine the very processes they are intended to enhance.
 > The findings suggest that the failure of any given incentive program is __due less to a glitch in that program than to the inadequacy of the psychological assumptions that ground all such plans.__
 
-### Why it doesn't work
+## Why it doesn't work
 
 First, we need to differentiate "works" with "has an effect." Certainly rewards have an effect.
 
@@ -64,7 +64,7 @@ The Kohn article lists other unexpected outcomes of rewards (really, just read t
 > 5. Rewards discourage risk-taking.
 > 6. Rewards undermine interest.
 
-### Bringing it back to the tech industry
+## Bringing it back to the tech industry
 
 Ok, this won't be a surprise, but most programmers are not elite athletes. What's this got to do with us?
 
@@ -76,7 +76,7 @@ At best, more money might coerce more hours out of a person. There might be a te
 
 Instead, when you consider employees as intrinsically motivated to do their best work, you realize the way to improve their performance is through feedback and providing opportunities to learn and grow. In other words, help them work smarter, not harder.
 
-### Paying The Best
+## Paying The Best
 
 I anticipate some will point out that Messi is one of the highest paid players in La Liga. So isn't that a form of incentive pay? Doesn't it show that incentive pay does work?
 
@@ -88,7 +88,7 @@ Not only that, many other teams are willing to pay a lot of money to have him jo
 
 And yet, despite all that, Messi _still_ could make significantly more at another team. This makes it clear that pay isn't the only motivation for him to continue to play at Barcelona.
 
-### Resources
+## Resources
 
 * [Stop Basing Pay on Performance Reviews](https://hbr.org/2014/01/stop-basing-pay-on-performance-reviews)
 * [Why Incentives Plans Cannot Work](https://hbr.org/1993/09/why-incentive-plans-cannot-work)

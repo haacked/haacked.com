@@ -28,7 +28,7 @@ call
 [YAGNI](http://en.wikipedia.org/wiki/You_Ain't_Gonna_Need_It "You Ain't Gonna Need It")
 on my efforts.
 
-### Premature Generalization
+## Premature Generalization
 
 Besides, I didn’t want to run afoul of Eric Gunnerson’s \#1 deadly sin
 of programming, [premature
@@ -39,7 +39,7 @@ both at the same time. Otherwise I will write it for one platform and
 hope it will work for the other. If I ever do implement it for the
 other, I will probably have to rewrite it anyways.
 
-### Parity is a rarity
+## Parity is a rarity
 
 Secondly, even if I did need it, there are some other issues to deal
 with. First, trying to write a single presenter for both ASP.NET and a
@@ -48,7 +48,7 @@ view is going to be roughly the same. That is rarely the case. If I have
 to go to the trouble to write a Winforms app, I will certainly take
 advantage of its UI benefits.
 
-### Leaky Abstractions Rear Their Head
+## Leaky Abstractions Rear Their Head
 
 Thirdly, despite all the hoops that ASP.NET jumps through to abstract
 the fact that it is a web application and present an API that feels like
@@ -71,7 +71,7 @@ app. Ideally a presenter for an ASP.NET application should not have to
 assume that the ASP.NET view is going to store fields in a persistent
 manner.
 
-### Conclusion
+## Conclusion
 
 So that is a long-winded answer to a short question. I believe if I had
 to, I could get the same Presenter to work for both a Winforms App and

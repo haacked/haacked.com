@@ -13,7 +13,7 @@ with by
 [Steve](http://stevesmithblog.com/blog/how-i-got-started-in-software-development/ "Steve Smith")
 and others.
 
-### How Old Were You When You Started Programming?
+## How Old Were You When You Started Programming?
 
 Have I even started really programming yet? I guess I got my first taste
 when I was around eight with my first computer, a [TRS-80 **Color**
@@ -29,7 +29,7 @@ hand the equivalent of binary resources. I also wrote simple programs
 that would draw pictures and my dumb attempts at Zork-like text
 adventures.
 
-### How Did You Get Started In Programming?
+## How Did You Get Started In Programming?
 
 Well I would write dumb little programs for my TRS-80, then Commodore
 128, then Amiga. But I never wrote any programs of any significance till
@@ -41,13 +41,13 @@ And it was a rough start, writing the most knotty spaghetti ASP code in
 VBScript ever. It wasn’t till I read Code Complete that I realized that
 I wasn’t programming yet, I was barfing code.
 
-### What Was Your First Language?
+## What Was Your First Language?
 
 English. My first programming language was BASIC for the TRS-80. My
 first professional language was VBScript. My first Object Oriented
 language was C++.
 
-### What Was The First Real Program You Wrote?
+## What Was The First Real Program You Wrote?
 
 Man, I can barely remember that far back. All I remember was on my first
 day of my first programming job, a helpful consultant/coworker showing
@@ -62,13 +62,13 @@ ever](https://haacked.com/archive/2005/11/08/worse-software-bugs.aspx "Worse Bug
 It was a lot of fun because I also signed up on the site and would
 interact with the other members, since it was a community music site.
 
-### What Languages Have You Used Since You Started Programming?
+## What Languages Have You Used Since You Started Programming?
 
 What is this? Some sort of interview? The programming languages I’ve
 used professionally are: BASIC, Visual Basic, VBScript, Java, J++, Ruby,
 C#.
 
-### What Was Your First Programming Gig?
+## What Was Your First Programming Gig?
 
 As I mentioned before, it was right after college I got a job at a
 consulting firm named Sequoia Softworks in Seal Beach, CA. We had an
@@ -77,20 +77,20 @@ something. We later changed our name to
 [Solien](http://solien.com/ "Solien"). They’re still around, but their
 site needs some love.
 
-### If You Knew Then What You Know Now, Would You Have Started Programming?
+## If You Knew Then What You Know Now, Would You Have Started Programming?
 
 Well in between investing large sums of money in the right stocks and
 getting out at the right time, yes, absolutely! I love to write code and
 write about code.
 
-### If There is One Thing You Learned Along the Way That You Would Tell New Developers, What Would It Be?
+## If There is One Thing You Learned Along the Way That You Would Tell New Developers, What Would It Be?
 
 Learn to write and communicate well. Software development is rich in
 ideas and being able to communicate your ideas well will get you places.
 And keep an open mind. Things you’re absolutely sure about now, you
 might not be so sure about tomorrow.
 
-### What's the Most Fun You've Ever Had ... Programming?
+## What's the Most Fun You've Ever Had ... Programming?
 
 Hacking on Open Source projects such as
 [Subtext](http://subtextproject.com/). Recently, working on my [IronRuby

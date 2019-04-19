@@ -55,7 +55,7 @@ But what these gentlemen refer to is a much more thorough and rigorous approach 
 
 Here are a few tips I’ve learned over the years for doing code reviews well.
 
-### Review a reasonable amount of code at a time
+## Review a reasonable amount of code at a time
 
 This is one of the hardest tips for me to follow. When I start a review of a pull request, I am so tempted to finish it in one sitting because I’m impatient and want to get back to my own work. Also, I know that others are waiting on the review and I don’t want to hold them up.
 
@@ -63,7 +63,7 @@ But I try and remind myself that code review *is my work*! Also, a poorly done r
 
 So I usually stop when I reach that point of review exhaustion and catch myself skipping over code. I just take a break, move onto something else, and return to it later. What better time to catch up on Archer episodes?!
 
-### Focus on the code and not the author
+## Focus on the code and not the author
 
 This has more to do with the social aspect of code review than defect finding. I try to do my best to focus my comments on the code and not the ability or the mental state of the author. For example, instead of asking “What the hell were you thinking when you wrote this?!” I’ll say, “I’m unclear about what this section of code does. Would you explain it?”.
 
@@ -71,7 +71,7 @@ See? Instead of attacking the author, I’m focusing on the code and my understa
 
 Of course, it’s possible to follow this advice and still be insulting, “This code makes me want to gouge my eyes out in between my fits of vomiting.” While this sentence focuses on the code and how it makes me feel, it’s still implicitly insulting to the author. Try to avoid that.
 
-### Keep a code review checklist
+## Keep a code review checklist
 
 A code review checklist is a really great tool for conducting an effective code review. The checklist should be a gentle reminder of
 common issues in code you want to review. It shouldn’t represent the *only* things you review, but a minimal set. You should always be
@@ -100,7 +100,7 @@ My checklist includes things like:
 
 I also have separate checklists for different platform specific items. For example, if I’m reviewing a WPF application, I’m looking out for cases where we might update the UI on a non-UI thread. Things like that.
 
-### Step Through The Code
+## Step Through The Code
 
 You’ll note that I don’t mention making sure the code compiles and that the tests pass. I already know this through the magic of the [commit status API](https://github.com/blog/1227-commit-status-api "Commit Status API") which is displayed on our pull requests.
 
@@ -118,7 +118,7 @@ Note that in Git parlance, this is not the original pull request branch, but ref
 
 I often like to do this and run Resharper analysis on the code to highlight things like places where I might want to convert code to use a LINQ expression and things like that.
 
-### Sign Off On It
+## Sign Off On It
 
 After a few rounds of review, when the code looks good, make sure you let the author know! Praise where praise is due is an important part of code reviews.
 

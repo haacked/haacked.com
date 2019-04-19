@@ -16,7 +16,7 @@ What if a bot could help? Now I'm not so naïve to think you can take the very h
 
 But perhaps the [combination of machine learning and human judgement](http://www.bbc.com/future/story/20151201-the-cyborg-chess-players-that-cant-be-beaten) could make the problem more tractable.
 
-### The Idea
+## The Idea
 
 This was the idea I had in mind when I decided to explore some new technologies. I learn best by building something so I set out to add sentiment analysis to GitHub issue comments.
 
@@ -33,7 +33,7 @@ The idea is this: when an issue receives a negative issue comment, I'm going to 
 
 _DISCLAIMER: I want to be very clear that I chose this behavior as a proof of concept. I don't think it'd be a good idea on a real OSS project to have a bot automatically respond to negative sentiment. If I were doing this for real, I'd probably have it privately flag comments in some manner for follow-up. You'll probably see me make this clarification again because people have short memories._
 
-### The GitHub Listener
+## The GitHub Listener
 
 [Webhooks](https://developer.github.com/webhooks/) are a powerful mechanism to extend GitHub. There are three key steps to set up a webhook.
 
@@ -71,7 +71,7 @@ The shape of the `data` is determined by the event type that the webhook subscri
 
 In my example, we use a `dynamic` type for ease and convenience (but at the risk of correctness). However, you can deserialize the response into a strongly typed class. The Octokit.net library provides such classes. For example, I could deserialize the request body to an instance of [`IssueCommentPayload`](https://github.com/octokit/octokit.net/blob/master/Octokit/Models/Response/ActivityPayloads/IssueCommentPayload.cs).
 
-### Analyzing Sentiment
+## Analyzing Sentiment
 
 The next step is to write code to analyze sentiment. But how do I do that? A naïve approach would search for my favorite colorful words in the text. A more sophisticated approach is to use something like Microsoft's Cognitive Services. They have a [Text Analytics](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) API you can use for analyzing sentiment.
 
@@ -98,7 +98,7 @@ static async Task<double?> AnalyzeSentiment(string comment)
 }
 ```
 
-### Updating the comment
+## Updating the comment
 
 Now that all the sentiments are determined, let's do something with that information. For the sake of this proof of concept, I will update overly negative comments with a little reminder to keep it positive. After all, we know how much humans enjoy being [chided by a software robot](https://www.theatlantic.com/technology/archive/2015/06/clippy-the-microsoft-office-assistant-is-the-patriarchys-fault/396653/). Again, I want to reiterate that I wouldn't use this for a real repository. I'd probably just flag the comment for a human to follow-up.
 
@@ -129,13 +129,13 @@ static async Task UpdateComment(
 }
 ```
 
-### Deployment
+## Deployment
 
 It's possible to build an Azure Function entirely in the Azure Portal via a web browser. But then you're pasting code into a text box. I like to write code with my [favorite editor](https://atom.io). Fortunately, Azure Functions supports [continuous deployment integration with GitHub](https://docs.microsoft.com/en-us/azure/azure-functions/functions-continuous-deployment). It's quick and easy to set up.
 
 I set up [my repo](https://github.com/haacked-demos/azure-sentiment-analysis/) as my deployment source. Every time I merge a change into the `master` branch, my changes are deployed.
 
-### Try it!
+## Try it!
 
 The source code is available in my [haacked-demos/azure-sentiment-analysis repository](https://github.com/haacked-demos/azure-sentiment-analysis/)
 
@@ -143,7 +143,7 @@ If you want to try out the end result, I created [a test issue in the repository
 
 Also, I don't want to pay a lot of money for this demo, so it might fail in the future if my trial of the text analysis service runs out.
 
-### Future Ideas
+## Future Ideas
 
 My goal in this post is to show you how easy it is to build a GitHub Webhook using Azure Functions. I haven't tried it with AWS Lambda. I hope it's just as easy. If you try it, let me know how it goes!
 
@@ -153,7 +153,7 @@ But before you get too wild with this, note that there are a lot of GitHub integ
 
 Probot apps are NodeJS apps that can respond to webhooks. I believe they require you host an application, but I haven't tried to see if they're easy to run in a Serverless environment yet. That could be fun to try.
 
-### Resources
+## Resources
 
 * [GitHub Webhooks Documentation](https://developer.github.com/webhooks/)
 * [Create a GitHub Webhook triggered function in Azure](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-github-webhook-triggered-function)

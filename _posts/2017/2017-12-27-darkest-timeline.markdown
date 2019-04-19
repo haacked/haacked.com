@@ -28,7 +28,7 @@ It was then I asked GitHub for a leave of absence. Fortunately, our HR folks tol
 
 When you take a leave, there's always the concern that your job (or equivalent) won't be there when you return. If approved, the FMLA protects your job during your leave. Our son's doctor signed the necessary paper-work and I took eight weeks off for the summer. In general, FMLA leave is unpaid, but on a case-by-case basis, Github provides eight weeks of paid leave for serious situations like this. I am very grateful to my employer.
 
-### Jamaica
+## Jamaica
 
 We decided to start the leave by getting out of town. A change of scenery would do us a lot of good, so we flew to Jamaica! This was our first time staying in an all-inclusive resort. We really didn't want to have to think about anything, but decompress and spend time together.
 
@@ -40,7 +40,7 @@ During this time, I started reading [Learned Optimism: How to Change Your Mind a
 
 For the rest of the summer, we spent a lot of time together. It was a gorgeous summer in Bellevue and we went on a ton of hikes and spent a lot of time swimming at the lake. And throughout all this, we really worked through our issues. I'll always treasure this time.
 
-### Getting help
+## Getting help
 
 Perhaps in another post I'll talk about some of the other things that happened in my life 2017 if you're interested (say so in the comments).
 

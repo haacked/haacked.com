@@ -62,7 +62,7 @@ public sealed class Owner : IDisposable
 public sealed class Dependency : IDisposable
 {
     public string SomeProperty { get; set; }
-        
+
     public void Dispose()
     {
     }

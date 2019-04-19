@@ -10,13 +10,13 @@ If you don't give a rat's ass about what I'm up to, but are interested in our op
 
 I still don't know why that's a phrase we use, but I'm sure Mark Twain is involved...that rapscallion. But as usual, I digress.
 
-### What inspires me
+## What inspires me
 
 When I think about the work we do at GitHub, [the Story of Anna](https://www.youtube.com/watch?v=VzuBJTtwm3o) comes to mind. Building software is a great creator of opportunities for those from all walks of life. I get a kick out of writing software for people like Anna, or [my friend Noah](https://twitter.com/UXNoah?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), or [NASA](https://github.com/nasa) and many others who are using it to build great things.
 
 In a [recent Octotale video](https://www.youtube.com/watch?v=LreQfx5x740), Desert Horse-Grant, the Director of Strategic Planning and Operations at Fred Hutch Cancer Research Center noted that "cancer will be solved on a computer." At GitHub, we're not solving cancer, but I like to think we build the tools for those who will. And that's what gets me inspired every day.
 
-### My new position
+## My new position
 
 Several months ago, I took a new position as an Engineering Director at GitHub. It's not clear to a lot of people that GitHub has managers much less directors now. When I started, we had around fifty employees and a flat corporate structure. Two years ago, [we introduced management](http://www.bloomberg.com/news/articles/2016-09-06/why-github-finally-abandoned-its-bossless-workplace).
 
@@ -30,7 +30,7 @@ When I do spend time on technical work, it is focused on strategic and big pictu
 
 The four teams that I work with are Atom, Electron, Desktop, and Editor Tools (the team responsible for the [GitHub extension for Visual Studio](https://visualstudio.github.com/)). I am incredibly lucky to get to work with such a talented group of people. I've been really stretched in a technical sense as these teams use a wide variety of technology.
 
-### Open positions on my teams
+## Open positions on my teams
 
 So that leads me to the topic at hand. Several of these teams are hiring. Here are the job postings.
 

@@ -41,7 +41,7 @@ In contrast, I have the *vacation view* of Open Source. While I would
 love to be on vacation all the time, I’m pragmatic and I’ll take as much
 as I can get. Some vacation is better than no vacation.
 
-### Think About The Developers
+## Think About The Developers
 
 Besides, why should PHP scripters have all the fun? There are legions of
 developers gainfully and productively employed writing software using
@@ -53,7 +53,7 @@ developers are more productive because of tools like
 [Log4Net](http://logging.apache.org/log4net/ "Log4Net")? Don’t they
 deserve a bit of Open Source spice in their lives?
 
-### But You Lose Out On Freedom!
+## But You Lose Out On Freedom!
 
 There are as many flavors of Open Source as there are “developers!” in a
 Ballmer speech. But what they all share in common is some level of
@@ -73,7 +73,7 @@ to using the code, even within proprietary systems.
 Despite these philosophical differences, most reasonable people agree
 that they both constitute subsets of Open Source software.
 
-### I Have Freedom Where I Most Need It
+## I Have Freedom Where I Most Need It
 
 The stack that I use with
 [Subtext](http://subtextproject.com/ "Subtext Project") might be
@@ -98,7 +98,7 @@ productively employed and the Microsoft platform is great for being
 employed. Sure there are plenty of PHP and Ruby jobs, but I honestly
 really like writing C# code and the tools available to do so.
 
-### Only A Moron Thinks It’s An OxyMoron
+## Only A Moron Thinks It’s An OxyMoron
 
 In the end, I hold firmly to the belief that .NET is a viable platform
 for Open Source software. It might not meet everyone’s expectations for

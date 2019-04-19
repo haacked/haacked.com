@@ -33,7 +33,7 @@ at one common example I’ve run into from time to time—double check
 locking for
 [singletons](http://en.wikipedia.org/wiki/Singleton_pattern "Singletons").
 
-### Double Check Locking Refresher
+## Double Check Locking Refresher
 
 As a refresher, here is an example of the double check pattern.
 
@@ -88,7 +88,7 @@ For the current CLR you can ignore the volatile keyword in this case.
 But if you run your code on Mono or some other future platform, you may
 need it, so no point in not leaving it there.
 
-### Criticisms or If this is fast, how much faster is triple check locking?
+## Criticisms or If this is fast, how much faster is triple check locking?
 
 Jeffrey Richter in his book [CLR via
 C#](http://www.amazon.com/gp/product/0735621632?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0735621632 "CLR via C# on Amazon.com")
@@ -105,7 +105,7 @@ significantly more than the cost of instantiating the object used to
 synchronize access to it (not to mention all the conditional checks when
 accessing the singleton) to be worth it.
 
-### A Better Approach? The No Look Pass of Singletons
+## A Better Approach? The No Look Pass of Singletons
 
 So what’s the better approach? Use a static initializer in what I call
 the *No Check No Locking Technique*.
@@ -143,7 +143,7 @@ It turns out that this approach is also recommended for Java, as it was
 discovered that the [double check locking approach wasn’t guaranteed to
 work](http://www.cs.umd.edu/~pugh/java/memoryModel/DoubleCheckedLocking.html "Double Check Locking in Java").
 
-### What!? You’re Still Using Singletons?!
+## What!? You’re Still Using Singletons?!
 
 Now that I’ve gone through all this trouble to show you the proper way
 to create a Singleton, I leave you with this thought. Should a well

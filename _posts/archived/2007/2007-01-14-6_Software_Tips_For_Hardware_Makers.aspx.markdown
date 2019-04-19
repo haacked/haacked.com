@@ -28,7 +28,7 @@ know better write atrociously poor software. And frankly, I’m getting
 tired of it. Here are some basic principles for hardware makers to keep
 in mind when writing software for their products.
 
-### 1. The computer belongs to me, not you!
+## 1. The computer belongs to me, not you!
 
 Did you ever notice that my documents are in a folder named ***My**
 Documents*. Not ***Your** Documents* (in Vista, it’s just *Documents*,
@@ -63,14 +63,14 @@ using [Isolated
 Storage](http://www.dotnetdevs.com/articles/IsolatedStorage.aspx "Understanding Isolated Storage").
 Just don’t put it in *My Documents*.
 
-### 2. Don’t Assume The User Is An Administrator
+## 2. Don’t Assume The User Is An Administrator
 
 While I’m ranting on this topic, I should also mention that any data
 your application needs to write should not go in the *Program Folders*
 directory. Not everybody runs their machine as an administrator and
 better you learn that lesson now than when Vista is widely disseminated.
 
-### 3. Learn About the Platform And The Services It Provides You.
+## 3. Learn About the Platform And The Services It Provides You.
 
 I recently bought a USB enabled Universal Power Supply (UPS) that was
 well reviewed. It appears to be a great hardware product, but the
@@ -88,7 +88,7 @@ To me, this example and the previous example I mentioned with the
 writing good software for Windows. It’s due to an unwillingness to take
 the time to learn about the platform.
 
-### 4. Honor Your Obligations and Promises.
+## 4. Honor Your Obligations and Promises.
 
 When installing HP drivers and software for my scanner (which sadly
 doesn’t work with Vista at all), the installation process provides me
@@ -105,7 +105,7 @@ The dialog hangs, never returning. Fantastic!
 
 Please, give users a choice. **And when they make a choice, honor it**!
 
-### 5. We Really Don’t Want Your Cruft
+## 5. We Really Don’t Want Your Cruft
 
 Really. Seriously. We don’t.
 
@@ -119,7 +119,7 @@ probably don’t want it.**
 Trust me on this one. The extra endorsement money you get for bundling
 probably won’t make up for the loss in customer satisfaction.
 
-### 6. If The Software Sucks, We Think The Hardware Sucks.
+## 6. If The Software Sucks, We Think The Hardware Sucks.
 
 Again, quite simple. The majority of user interaction with a piece of
 hardware is really via the software. If the software is clunky and hard
@@ -128,7 +128,7 @@ with the entire product, hardware and all. **After all, if a company
 can’t take the time to write quality software, why should we trust in
 the quality of the hardware?**
 
-### Conclusion
+## Conclusion
 
 So that’s it. All I ask is that hardware makers take as much care
 writing their software as they do building their hardware. Perhaps more

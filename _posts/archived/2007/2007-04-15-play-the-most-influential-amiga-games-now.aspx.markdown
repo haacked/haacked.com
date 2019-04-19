@@ -85,10 +85,10 @@ garage. I’ve been meaning to unpack it and see if it still works, but my
 home is small and there’s really no room to set it up. I figure there
 must be a better way to try out my old games.
 
-### Amiga Emulation!
+## Amiga Emulation!
 
 Digging around, I discovered there’s an active project to create an
-Amiga emulator for \*nix called
+Amiga emulator for *nix called
 [UAE](http://uae.coresystems.de/ "Amiga Emulator"). There’s a Windows
 port called, not surprisingly,
 [WinUAE](http://www.winuae.net/ "Windows port of the UAE Amiga Emulator") (click
@@ -103,7 +103,7 @@ instructions on how to transfer the ROM and operating system over to
 your PC on [their
 FAQ](http://www.pcguru.plus.com/uae_transfer.html "UAE Faq").
 
-### Amiga Forever
+## Amiga Forever
 
 An even easier approach is to simply purchase [Amiga
 Forever](http://www.amigaforever.com/ "Amiga Forever") for around forty
@@ -121,7 +121,7 @@ For example, the Cinemaware site has disk images for pretty much all of
 their games available for free, including [Lords of the Rising
 Sun](http://www.cinemaware.com/clsgame_lords.asp?sel=amrom "Lords of the Rising Sun").
 
-### Play Defender of the Crown Immediately
+## Play Defender of the Crown Immediately
 
 All this talk of Amiga emulation sounds like fun and everything, but
 seriously, do I need yet another time sink? If you’re jonesing for some

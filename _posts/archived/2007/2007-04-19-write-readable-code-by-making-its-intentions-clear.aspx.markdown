@@ -1,7 +1,7 @@
 ---
 title: Write Readable Code By Making Its Intentions Clear
 date: 2007-04-19 -0800
-tags: [code]
+tags: [code,patterns]
 redirect_from:
 - "/archive/2007/04/20/write-readable-code-by-making-its-intentions-clear.aspx"
 - "/archive/2007/04/18/write-readable-code-by-making-its-intentions-clear.aspx/"
@@ -41,7 +41,7 @@ usability is make your code’s intentions crystal clear.**
 Oftentimes it’s paying attention to the little things that can really
 help your code along this path. Let’s look at a few examples.
 
-### out vs ref
+## out vs ref
 
 A while ago I encountered some code that looked something like this
 contrived example:
@@ -115,7 +115,7 @@ of the code doesn’t have to interrupt her train of thought to figure out
 the meaning of the code will make your code more readable and the API
 more usable.
 
-### Boolean Arguments vs Enums
+## Boolean Arguments vs Enums
 
 Brad Abrams [touched upon
 this](http://blogs.msdn.com/brada/archive/2004/01/12/57922.aspx "Enums vs Boolean Arguments")
@@ -138,7 +138,7 @@ In the second case, the intentions of the code is much clearer and there
 is no interruption for the reader to figure out the context of the true
 or false as in the first method.
 
-### Assigning a Value You Don’t Use
+## Assigning a Value You Don’t Use
 
 Another common example I’ve seen is where the result of a method is
 assigned to the value of a variable, but the variable is never used. I

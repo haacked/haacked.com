@@ -51,7 +51,7 @@ components: the Model, the View, and the Controller. Not only does it
 separate these three components, it outlines the loosely coupled
 relationships and communication between these components.
 
-### Key Benefits of Separating Concerns
+## Key Benefits of Separating Concerns
 
 This separation combined with loose coupling allows a developer to
 manage complexity because it allows the developer to focus on one aspect
@@ -73,7 +73,7 @@ model so that Bob can work on the view without being blocked by Alice.
 Meanwhile, Alice continues developing the business layer without the
 added stress that Bob is waiting on her.
 
-### Bring it home
+## Bring it home
 
 The MVC example above talks about separation of concerns on a large
 architectural scale. But the same benefits apply on a much smaller scale

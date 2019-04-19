@@ -13,7 +13,7 @@ In this post, I discuss some of the interesting non-obvious challenges in the im
 
 <img title="Linked by Ian Sane - CC By 2.0" src="https://cloud.githubusercontent.com/assets/19977/12462595/04521dda-bf74-11e5-95ca-ec7ec0b5e6e4.jpg" width="260" align="right" />
 
-### Implementation
+## Implementation
 
 The Semver specification is hosted in a [different GitHub repository](https://github.com/mojombo/semver) than [the website](https://github.com/mojombo/semver.org).
 
@@ -43,7 +43,7 @@ My hope is that someone will add support for generated list item IDs in Kramdown
 
 If you have concerns or suggestions about the current implementation, please [log an issue here](https://github.com/mojombo/semver.org/issues).
 
-### Future
+## Future
 
 In 2016, I hope to release Semver 3.0. But I don't want to do it alone. I'm going to spend some time thinking about the best way to structure the project moving forward so those with the most skin in the game are more involved. For example, I'd really like to have a representative from NPM, NuGet, Ruby Gems, etc. work closely with me on it.
 

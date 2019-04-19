@@ -6,7 +6,7 @@ tags: [dotnet]
 redirect_from: "/archive/2007/06/12/the-most-useful-.net-utility-classes-developers-tend-to-reinvent.aspx/"
 ---
 
-### [System.IO.Path](http://msdn2.microsoft.com/en-us/library/system.io.path.aspx "Path class on MSDN")
+## [System.IO.Path](http://msdn2.microsoft.com/en-us/library/system.io.path.aspx "Path class on MSDN")
 
 How often do you see code like this to create a file path?
 
@@ -64,7 +64,7 @@ method:
 string fileName = Path.GetFileName(fullPath);
 ```
 
-### [System.Web.VirtualPathUtility](http://msdn2.microsoft.com/en-us/library/system.web.virtualpathutility.aspx "VirtualPathUtility class on MSDN") {.clear}
+## [System.Web.VirtualPathUtility](http://msdn2.microsoft.com/en-us/library/system.web.virtualpathutility.aspx "VirtualPathUtility class on MSDN") {.clear}
 
 Not knowing and using this class is forgivable because it didn’t exist
 until .NET 2.0. But now that you are reading this, you have no excuse.
@@ -91,7 +91,7 @@ AppendTrailingSlash  | Appends a / to the end of the path if none exists already
 Combine              | Analagous to Path.Combine, but for URLs.
 MakeRelative         | Useful for getting the relative path from one directory to another (*was it dot dot slash dot dot slash? Or just dot dot slash?*)
 
-### [System.Web.HttpUtility](http://msdn2.microsoft.com/en-us/library/system.web.httputility.aspx "HttpUtility class on MSDN")
+## [System.Web.HttpUtility](http://msdn2.microsoft.com/en-us/library/system.web.httputility.aspx "HttpUtility class on MSDN")
 
 This class has a wealth of methods for URL/HTML encoding and decoding. A
 small sampling...
@@ -116,7 +116,7 @@ wherease `HtmlAttributeEncode` produces: *&amp;lt;p\>&amp;amp;&amp;lt;/p\>*
 
 In other words, it only encodes left angle brackets, not the right ones.
 
-### [System.Environment](http://msdn2.microsoft.com/en-us/library/system.environment.aspx "Environment class on MSDN")
+## [System.Environment](http://msdn2.microsoft.com/en-us/library/system.environment.aspx "Environment class on MSDN")
 
 This class contains a wealth of information about the current
 environment in which your code is executing. You can get access to the
@@ -136,7 +136,7 @@ Again, this falls under the case that your code might actually run on a
 different operating system someday. Might as well acquire good habits
 now.
 
-### What Classes Am I Missing?
+## What Classes Am I Missing?
 
 No matter how hard I can try, there is no way that I could make a
 complete list. In .NET 3.0, I’d probably add the new `TimeZoneInfo`

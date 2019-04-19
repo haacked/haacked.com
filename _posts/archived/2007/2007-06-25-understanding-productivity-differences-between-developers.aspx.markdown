@@ -1,7 +1,7 @@
 ---
 title: 10 Developers For The Price Of One
 date: 2007-06-25 -0800
-tags: [code]
+tags: [code,developers,methodologies]
 redirect_from: "/archive/2007/06/24/understanding-productivity-differences-between-developers.aspx/"
 ---
 
@@ -67,7 +67,7 @@ productive. There are many aspects to developer productivity, but they
 all fall under one main principle (*borrowing a term from the finance
 industry*), TCO.
 
-### TCO - Total Cost Of Ownership.
+## TCO - Total Cost Of Ownership.
 
 In general, I’ve tried to always [hire the best developers I can
 find](https://haacked.com/archive/2007/01/27/On_Hiring_Bloggers_and_Open_Source_Developers.aspx "Hiring Bloggers and open Source Developers").
@@ -83,7 +83,7 @@ Fast forward another few days and I swing by to see how it’s going and
 the developer tells me he doesn’t understand a few requirements and has
 been spinning his wheels trying to figure it out this whole time.
 
-### Good Developers take Ownership so You Don’t Have To
+## Good Developers take Ownership so You Don’t Have To
 
 This is one of the first ways that good developers are more productive
 than average developers. They take ownership of a project. Rather than
@@ -99,7 +99,7 @@ A developer who can write code fast, but doesn’t take ownership of their
 projects is not very productive because they end up wasting
 **your**time.
 
-### Good Developers Write Code With Less Bugs
+## Good Developers Write Code With Less Bugs
 
 I once worked with a developer who was praised by my boss for being
 extremely fast at writing code. He sure was fast! He was also fast at
@@ -119,7 +119,7 @@ As I like to say, productivity is not about speed. It’s about velocity.
 You can be fast, but if you’re going in the wrong direction, you’re not
 helping anyone.
 
-### Good Developers Write Maintainable Code
+## Good Developers Write Maintainable Code
 
 Hand in hand with writing less bugs is
 writing understandable maintainable code. As soon as a line of code is
@@ -131,7 +131,7 @@ features. By writing maintainable code, a good developer can make these
 changes more quickly and also improves the productivity of his or her
 team members who later have to work on such code.
 
-### Good Developers Do More With Less Code
+## Good Developers Do More With Less Code
 
 Another hallmark of a good developer is that they know when not to write
 code. As a friend always tells me

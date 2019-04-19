@@ -14,7 +14,7 @@ But first, let me make the case by sharing my experiences for the past two years
 
 ![typical day at the gym](https://user-images.githubusercontent.com/19977/34449748-a91d59c2-ecb0-11e7-8566-784bf6452d73.jpg)
 
-### Ain't Nobody Got Time for That
+## Ain't Nobody Got Time for That
 
 You're a high achiever. You're busy hustling to make a dent in the world. And the tiny morsels of time left over after work go to your family. I get it.
 
@@ -28,7 +28,7 @@ I realized that working out wasn't just for my own benefit, it's for my family. 
 
 If you're not convinced, here are [13 more reasons to start lifting weights](https://www.huffingtonpost.com/2015/01/12/benefits-of-lifting-weights_n_6432632.html).
 
-### It's therapeutic
+## It's therapeutic
 
 My [last post](https://haacked.com/archive/2017/12/27/darkest-timeline/) was a bit heavy. I wrote about the challenges with mental health my family has been dealing with. At the end of the post, I noted,
 
@@ -40,7 +40,7 @@ When I returned to work, I had to cut back a bit, though I'm trying hard to orga
 
 The progress I made in that time wasn't just physical. My mental well being improved a lot too.
 
-### Getting results
+## Getting results
 
 Having a clear objective for working out and setting specific goals towards that objective is an important part of any fitness program. It provides focus and motivation.
 
@@ -54,7 +54,7 @@ I'm happy to report that I accomplished two out of three of my goals. The first 
 
 The goal I didn't accomplish is touching my toes. I'm about as flexible as a gymnast in a full-body cast.
 
-### Tracking results
+## Tracking results
 
 Impact also has an InBody scanning machine so I can track my quantitative progress. It's important to not put too much stock in any individual measurement. Especially the ones you don't like. It's more important to look at the overall trend.
 
@@ -64,7 +64,7 @@ You can see there's one measurement I'm skeptical of in the screenshot below. I'
 
 Perhaps for the first time in my life, I'm seeing steady gains.
 
-### But I'm not into that BRO culture.
+## But I'm not into that BRO culture.
 
 When looking for a gym, it's important to find one that you philosophically aligns with. For example, a lot of gyms I've been to feel "aggressive" for a lack of better word. I tried Crossfit and have nothing against it, but I remember seeing shirts with slogans like:
 
@@ -90,7 +90,7 @@ I love it. It's good advice to live by. Their gym rules also reflect their philo
 
 This just fits my own personal style very well.
 
-### The Coaches
+## The Coaches
 
 In the show [Cheers](https://en.wikipedia.org/wiki/Cheers), the patrons show up every day because they love being in a place where everyone knows their name.
 
@@ -108,7 +108,7 @@ As kind and caring as they are, they will push you to give your best. You get ou
 
 And don't worry, Drew doesn't wear a costume to every workout. I just happened to have photos from Halloween and Thanksgiving when he did.
 
-### They Give back
+## They Give back
 
 ![Hapy faces at a go-giver](https://user-images.githubusercontent.com/19977/34450335-48a025b0-ecbb-11e7-9986-c0fecad99d4e.JPG)
 
@@ -116,7 +116,7 @@ One of my favorite things about the gym is they contribute back to the local com
 
 I even got my [skinny friend Noah](https://twitter.com/uxnoah) to come out one time.
 
-### Give it a try
+## Give it a try
 
 If you don't live in the area, I encourage you to find a gym like Impact. If you _do_ live in the area, give Impact a try. Your first workout is free. Just tell them Phil sent you.
 

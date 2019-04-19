@@ -14,7 +14,7 @@ this, continue onto [Part
 3](https://haacked.com/archive/2006/01/25/WhoOwnstheCopyrightforAnOpenSourceProject.aspx)
 of the series.
 
-### Licensing In General
+## Licensing In General
 
 A license is permission granted by a copyright holder to others to
 reproduce or distribute a work. It is a means to allow others to have
@@ -33,7 +33,7 @@ work to me and make clear to others the license terms for the work. As
 the copyright holder, I am free to grant others these rights, but also
 to add restrictions as well.
 
-### Proprietary and Closed Source Licenses
+## Proprietary and Closed Source Licenses
 
 Copyright law and licensing applies to software every bit as much as it
 does to writing. Most of the software that the average person uses day
@@ -44,7 +44,7 @@ can have its source code visible, but still not allow open distribution.
 Likewise, it is possible for closed-source software to allow others to
 freely distribute it as in the case of many free utilities.
 
-### Open Source and Free Software Licenses
+## Open Source and Free Software Licenses
 
 This leads us finally to “Open Source Software” and “Free Software”. The
 two terms are often used interchangeably, but there is a slight
@@ -59,7 +59,7 @@ Open Source software does not necessarily require that its usage also be
 Open Source. Thus Free Software is Open Source, but Open Source is not
 necessarily Free Software.
 
-### Types of Open Source Licenses
+## Types of Open Source Licenses
 
 When starting an open source project, the copyright owner is free to
 license the source code to others in any manner he or she sees fit. But
@@ -69,12 +69,12 @@ are many [well established
 licenses](http://www.opensource.org/licenses/) in existence that have
 stood the test of time.
 
-### Choosing A License
+## Choosing A License
 
 The Fogel book does a decent job of providing insight into how to choose
 a license, so I won’t delve into it too deeply.
 
-#### GPL
+### GPL
 
 Despite the plethora of licenses, in general the one you choose will be
 a result of your philosophical disposition towards open source software.
@@ -91,7 +91,7 @@ manner with GPL. Thus GPL code tends to begat more GPL code. It is not
 permissible under the GPL to use GPL in proprietary software while
 keeping that software closed source.
 
-#### MIT and BSD Licenses
+### MIT and BSD Licenses
 
 For others with no philosophical objection to using open source software
 within proprietary software, the
@@ -120,4 +120,3 @@ checking out.
 
 Stay Tuned for [Part
 3](https://haacked.com/archive/2006/01/26/WhoOwnstheCopyrightforAnOpenSourceProject.aspx "Part 3").
-

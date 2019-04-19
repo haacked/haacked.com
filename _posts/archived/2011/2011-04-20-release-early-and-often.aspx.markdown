@@ -1,7 +1,7 @@
 ---
 title: Release Early, Release Often
 date: 2011-04-20 -0800
-tags: [software,product-management]
+tags: [software,product-management,methodologies,ci]
 redirect_from: "/archive/2011/04/19/release-early-and-often.aspx/"
 ---
 
@@ -40,16 +40,15 @@ at 3:00 AM to release, though that may happen from time to time.
 In this blog post, I’ll look into this question as well as a couple of
 other related questions that came to mind as I thought about this topic:
 
--   If releasing often is a good thing, why not release even more often?
--   What factors affect how often is often enough?
--   What are common objections to releasing often?
--   Why does answering a question always leave you with more questions?
+- If releasing often is a good thing, why not release even more often?
+- What factors affect how often is often enough?
+- What are common objections to releasing often?
+- Why does answering a question always leave you with more questions?
 
 I’ll try answering these questions as best as I can based on my own
 experiences and research.
 
-Why is it a good thing?
------------------------
+## Why is it a good thing?
 
 What are the benefits of releasing early and often? As I thought through
 this question and looked at the various responses that I received from
@@ -60,9 +59,9 @@ the summary of my
 [TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read "Too Long, Didn't Read on Wikipedia")
 version of the answer:
 
-1.  **It’s results in a better product.**
-2.  **It results in happier customers.**
-3.  **It fosters happier developers.**
+1. **It’s results in a better product.**
+2. **It results in happier customers.**
+3. **It fosters happier developers.**
 
 So how does it accomplish these three things? Let’s take a look.
 
@@ -261,8 +260,7 @@ Continual releases are the sign of an active and vibrant product and
 product community. This is great for marketing your product to new
 audiences.
 
-So Why Not Release All The Time?
---------------------------------
+## So Why Not Release All The Time?
 
 If releasing often is such a good thing, why not release all the time?
 Isn’t releasing more often better than less often?
@@ -270,8 +268,7 @@ Isn’t releasing more often better than less often?
 Releasing every second of the day time might not be possible since it
 does take time to implement features, but it’s not unheard of to release
 features as soon as they are done. This is the idea behind a technique
-called [continuous
-deployment](http://radar.oreilly.com/2009/03/continuous-deployment-5-eas.html "Continuous deployment"),
+called [continuous deployment](http://radar.oreilly.com/2009/03/continuous-deployment-5-eas.html "Continuous deployment"),
 which is particularly well suited to web sites.
 
 When I worked at [Koders](http://koders.com/ "Koders") (now part of
@@ -299,8 +296,7 @@ every product, though I’m still learning and open to new and better
 ideas. To understand why I feel this way, let me transition to my next
 question.
 
-What factors affect how often is often enough?
-----------------------------------------------
+## What factors affect how often is often enough?
 
 I think there are several key factors that determine how often a product
 should be released.
@@ -372,8 +368,7 @@ products have to physically be shipped to the stores.
 
 All these things can affect how often a new product can be shipped.
 
-Common objections to Releasing Often
-------------------------------------
+## Common objections to Releasing Often
 
 I think there are three main objections to this model I’ve heard or can
 think of. The first is that it forces end users to update their software
@@ -396,25 +391,13 @@ Miller](http://twitter.com/#!/anglicangeek "Drew Miller on Twitter")
 points out, **long release cycles mask waste**and that waste is far
 greater than the cost of more frequest release overhead.
 
--   The more often you release, the better you are at releasing; release
-    overhead decreases over time. With long release cycles, the pain of
-    release inefficiency is easy to ignore and justify and the urgency
-    and incentive to trim that waste is very low.
--   The sense of urgency for frequent releases drives velocity, more
-    than off-setting the cost of release overhead.
--   The rapid feedback with frequent releases reduces the waste we
-    always have for course correction within a long release cycle. A
-    great example of this is the introduction of `ActionResult` to
-    ASP.NET MVC 1.0 between Preview 2 and 3. That was costly, but
-    would’ve been more costly if we had made that change much later.
--   The slow start of a long release cycle alone is usually more
-    wasteful than the total cost of release overhead over the same
-    period.
--   Long release cycles may have milestone overhead that can be as great
-    (or greater) than release overhead.
+- The more often you release, the better you are at releasing; release overhead decreases over time. With long release cycles, the pain of release inefficiency is easy to ignore and justify and the urgency and incentive to trim that waste is very low.
+- The sense of urgency for frequent releases drives velocity, more than off-setting the cost of release overhead.
+- The rapid feedback with frequent releases reduces the waste we always have for course correction within a long release cycle. A great example of this is the introduction of `ActionResult` to ASP.NET MVC 1.0 between Preview 2 and 3. That was costly, but would’ve been more costly if we had made that change much later.
+- The slow start of a long release cycle alone is usually more wasteful than the total cost of release overhead over the same period.
+- Long release cycles may have milestone overhead that can be as great (or greater) than release overhead.
 
-Release as Often as Possible and Prudent
-----------------------------------------
+## Release as Often as Possible and Prudent
 
 There’s probably a lot more that can be written on this topic, but I’m
 quickly approaching the TL;DR event horizon (if I haven’t passed it
@@ -434,21 +417,7 @@ release even more often if doing so would appeal to your customers.
 
 For more reading, I recommend:
 
--   [The Hardest Lessons for Startups to
-    Learn](http://www.paulgraham.com/startuplessons.html "Hardest Lessons")
-    This is an essay by Paul Graham with multiple lessons for startups.
-    His first point he makes is about releasing early.
--   [The Cathedral and the
-    Bazaar](http://www.free-soft.org/literature/papers/esr/cathedral-bazaar/cathedral-bazaar.html "Cathedral and the Bazaar")
-    This is the essay by Eric S. Raymond that popularized the philosophy
-    of RERO (Release Early, Release Often).
--   [Release Early, Release
-    Often](http://blog.chromium.org/2010/07/release-early-release-often.html "Release Early, Release Often")
-    This is a blog post by the Chromium project about their increased
-    release cadence.
--   [1.0 is the Loneliest
-    Number](http://ma.tt/2010/11/one-point-oh/ "One point Oh") This is a
-    blog post by Matt Mullenweg, the founder of WordPress where he talks
-    about the importance of getting to version 1.0 quickly.
-
-
+- [The Hardest Lessons for Startups to Learn](http://www.paulgraham.com/startuplessons.html "Hardest Lessons") This is an essay by Paul Graham with multiple lessons for startups. His first point he makes is about releasing early.
+- [The Cathedral and the Bazaar](http://www.free-soft.org/literature/papers/esr/cathedral-bazaar/cathedral-bazaar.html "Cathedral and the Bazaar") This is the essay by Eric S. Raymond that popularized the philosophy of RERO (Release Early, Release Often).
+- [Release Early, Release Often](http://blog.chromium.org/2010/07/release-early-release-often.html "Release Early, Release Often") This is a blog post by the Chromium project about their increased release cadence.
+- [1.0 is the Loneliest Number](http://ma.tt/2010/11/one-point-oh/ "One point Oh") This is a blog post by Matt Mullenweg, the founder of WordPress where he talks about the importance of getting to version 1.0 quickly.

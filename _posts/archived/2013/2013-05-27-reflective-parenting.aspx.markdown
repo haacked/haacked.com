@@ -59,14 +59,14 @@ There’s a lot of science and research underlying the core precepts of this app
 
 There are three core lessons I took from the classes.
 
-### Empathy
+## Empathy
 
 The first is to work on developing empathy and understanding for your child. We learned a lot about what children are capable of
 developmentally at certain ages. For example, at very young ages, children aren’t very good at understanding cause and effect.
 
 This allows you to develop more appropriate expectations and responses to the things your child may do. At some ages, you just can’t expect them to respond to reason, for example. (*By their teenage years, they can respond to reason, they just choose not to. It’s different.*)
 
-### Self Control
+## Self Control
 
 The second, and perhaps more important lesson for me personally, is that good parenting is more about controlling yourself than your child. **This is because children reflect the behavior of their parents.**
 
@@ -76,7 +76,7 @@ In that moment the parent is not disciplining. The parent is only momentarily ma
 
 In such situations, the class taught us to attempt to empathize with what the children might be experiencing and base our actions on that. If we can’t help but to lose our temper, it’s OK to separate ourselves from the situation. For example, in extreme situations, you might pull over, step out of the car, and let the kids scream their heads off while you (out of earshot) calm your nerves.
 
-### Repairing
+## Repairing
 
 Now this last point is the most important lesson. **Parents, we are going to fuck up. We’re going to do it royally. Accept it. Forgive
 yourself. And then repair the situation.**

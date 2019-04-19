@@ -31,7 +31,7 @@ The point is, I wrote what I wanted to write and didn't worry about what others 
 
 But there are consequences. After a million  posts about the intricacies of [Git aliases](https://haacked.com/archive/2014/07/28/github-flow-aliases/), it's inevitable that my friends who aren't techies got bored. And I have to say, I missed their involvement with my writing. I enjoy the interactions and feedback that came of it and I was sad that they were excluded from the blogging community I had become a part of.
 
-### Enter Medium
+## Enter Medium
 
 When Medium first came on the scene, I ignored it. I've ignored it for a long while.
 

@@ -30,11 +30,8 @@ on Web Camps TV where I talk about NuGet.
 to warn you, the rest of this blog post is full of blah blah blah about
 NuGet so if you’re a person of action, feel free to go:
 
--   [**Download**](http://nupack.codeplex.com/releases) the latest build
-    right away.
--   Read the **[Getting
-    Started](http://nupack.codeplex.com/wikipage?title=Getting%20Started)**
-    page to learn how to use it.
+- [**Download**](http://nupack.codeplex.com/releases) the latest build right away.
+- Read the **[Getting Started](http://nupack.codeplex.com/wikipage?title=Getting%20Started)** page to learn how to use it.
 
 Now back to my blabbing. I have to tell you, I’m really excited to
 finally be able to talk about this in public as we’ve been incubating
@@ -42,7 +39,7 @@ this for several months now. During that time, we collaborated with
 various influential members of the .NET open source community including
 the Nu team in order to gather feedback on delivering the right project.
 
-### What Does NuGet Solve?
+## What Does NuGet Solve?
 
 The .NET open source community has churned out a huge catalog of useful
 libraries. But what has been lacking is a widely available easy to use
@@ -74,7 +71,7 @@ NuGet automates all of these common and tedious tasks, allowing you to
 spend more time using the library than getting it set up in your
 project.
 
-### NuGet Guiding Principles
+## NuGet Guiding Principles
 
 I remember several months ago, Hot on the heels of shipping ASP.NET MVC
 2, I was in a meeting with [Scott
@@ -133,7 +130,7 @@ developers.
     Likewise, NuGet also includes an easy to use GUI dialog for adding
     packages.
 
-### NuGet’s Primary Goal
+## NuGet’s Primary Goal
 
 In my mind, the primary goal of NuGet is to help foster a vibrant open
 source community on the .NET platform by providing a means for .NET
@@ -163,7 +160,7 @@ fine with any kind of package. So you can create a network share at
 work, put all your internal packages in there, and tell your co-workers
 to point NuGet to that directory. No need to set up a NuGet server.
 
-### Get Involved!
+## Get Involved!
 
 So in the fashion of all true open source projects, this is the part
 where I beg for your help. ;)

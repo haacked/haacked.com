@@ -66,7 +66,7 @@ hippie open source part later.
 There are several reasons why **removing the platform limitation
 benefits Microsoft and the .NET team**.
 
-### It benefits Microsoft’s enterprise customers
+## It benefits Microsoft’s enterprise customers
 
 Let’s start with Microsoft’s bread and butter, the enterprise. There’s a
 growing trend of enterprises that support employees who bring their own
@@ -87,7 +87,7 @@ limitations on their .NET code hamstrings enterprise developers who want
 to either target the enterprise market or want to make internal tools
 for their companies that work on all devices.
 
-### It’s a long play benefit to Windows 8 Phone and Tablet
+## It’s a long play benefit to Windows 8 Phone and Tablet
 
 While developing Windows 8, Microsoft put a ton of energy and focus into
 a new HTML and JavaScript based development model for Windows 8
@@ -108,7 +108,7 @@ successful for them and it was the only game in town. As Xamarin tools
 get more notice, I don’t think the next generation will tolerate the
 clumsiness of the Objective-C tools.
 
-### There’s no good reason not to
+## There’s no good reason not to
 
 Ok, this isn’t strictly speaking a benefit. But it speaks to a benefit.
 

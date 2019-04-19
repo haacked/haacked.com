@@ -23,7 +23,7 @@ dubbed the Nautilus R&R Edition. This is primarily a bugfix release with
 a load of bug fixes, but there are a couple of significant new features
 as well as a bit of developer candy thrown in.
 
-### Release Notes
+## Release Notes
 
 Rather than list all the bug fixes and new features here, I will point
 you to the [release notes published
@@ -31,7 +31,7 @@ online](http://subtextproject.com/Home/Roadmap/ReleaseNotes/tabid/146/Default.as
 
 I will point out a few key changes.
 
-### HtmlEditorProvider
+## HtmlEditorProvider
 
 Subtext now supports an HtmlEditorProvider. You can swap out the html
 editor used in the admin section by implementing a provider for your
@@ -42,7 +42,7 @@ for you angle bracket jockeys.
 For more information on how to change the [text editor, read
 this](http://subtextproject.com/Home/Docs/Developer/RichTextEditorConfiguration/tabid/144/Default.aspx "How to change the text editor").
 
-### Javascript BlogInfo object
+## Javascript BlogInfo object
 
 By default now, Subtext emits a javascript object useful for client
 scripts to access information about the blog. This object is
@@ -55,7 +55,7 @@ var imagesPath = subtextBlogInfo.getImagesVirtualRoot();
 alert(imagesPath);
 ```
 
-### Improved Skin configuration {.clear}
+## Improved Skin configuration {.clear}
 
 If you write custom skins, the `Skins.config` file has a few new
 features. Here is a sample skin configuration that highlights several
@@ -97,7 +97,7 @@ modified to use the `subtextBlogInfo` object mentioned before.
 Also notice that `Style` elements may now specifa a media. Thus you can
 add a stylesheet to a skin specifically for printing.
 
-### New Skins and Skin Controls
+## New Skins and Skin Controls
 
 Checkout the new
 *[Submarine](https://haacked.com/archive/2006/06/07/SubmarineSkin.aspx "Submarine")*
@@ -108,12 +108,12 @@ renders a link to the previous and next blog post. Note that not every
 blog uses every skin control, but it is quite easy to add such a control
 to the skin of your choice.
 
-### CSS Based Printing
+## CSS Based Printing
 
 Nearly every skin in Subtext now implements CSS [based
 printing](https://haacked.com/archive/2006/03/09/ImplementingCSSBasedPrinting.aspx "CSS Based Printing").
 
-### Upgrading from Subtext 1.0
+## Upgrading from Subtext 1.0
 
 Subtext 1.5 has an automatic web-based upgrade wizard that will upgrade
 your schema and stored procedures if you are currently running Subtext
@@ -129,13 +129,13 @@ here](http://subtextproject.com/Home/Docs/Upgrading/ManualUpgradeProcess/tabid/1
 The steps in that process are the same ones that the automatic wizard
 takes on your behalf.
 
-### Installation
+## Installation
 
 If you are installing Subtext for the first time, the web-based
 installation works as before. Just follow the [instructions
 here](http://subtextproject.com/Home/Docs/Installation/tabid/111/Default.aspx "Installing Subtext").
 
-### Next Stop, Daedelus!
+## Next Stop, Daedelus!
 
 The next version of Subtext is code named **Daedelus**. It will simply
 be a straight upgrade to ASP.NET 2.0. We hope for a quick turnaround as
@@ -147,7 +147,7 @@ Please note that we may introduce a lot of breaking changes for skins in
 Subtext 2.0. We will try and keep you informed so that you will have
 advanced warning on how to upgrade your custom skins.
 
-### Links
+## Links
 
 -   [Download Subtext
     1.5.1](http://sourceforge.net/project/showfiles.php?group_id=137896 "Subtext Downloads")

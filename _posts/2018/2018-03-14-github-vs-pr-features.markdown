@@ -16,13 +16,13 @@ Visual Studio is a salient embodiment of this vision. It contains a rich set of 
 
 This creates an environment where developers who use Visual Studio __love__ to stay in Visual Studio. So much so that their friends start to worry about them, like that friend who just went through a rough break up and hasn't left their apartment in weeks. I say that out of love as one who has spent many fond hours churning out code assisted by the helpful embrace of IntelliSense.
 
-### GitHub For Visual Studio
+## GitHub For Visual Studio
 
 This week, the Editor Tools team at GitHub (the team who brought you the [GitHub Extension for Visual Studio](https://visualstudio.github.com/)) released a [new version](https://github.com/github/VisualStudio/releases/tag/v2.4.3.1737) that contributes to this vision by bringing Pull Requests closer to your fingertips!
 
 The three main features included in this release are:
 
-### Reviewing a PR with submodule changes
+## Reviewing a PR with submodule changes
 
 Besides rebasing and merge conflicts, submodules may be one of those features that cause the most angst in Git. This feature seeks to reduce that angst. When switching to a PR branch, it brings any submodule changes to the developer's attention. There's even a handy little button to update them for you!
 
@@ -30,7 +30,7 @@ Besides rebasing and merge conflicts, submodules may be one of those features th
 
 Previously, there was no indication that submodules had changed apart from random build failures and checking Git status on the command line. From there, you would have to sync and update submodules from the command line. This unnecessarily forced developers outside of Visual Studio when doing a GitHub related action (opening a PR).
 
-#### Show current PR on status bar
+### Show current PR on status bar
 
 Prior to this release, you would have to go to the PR list and take an educated guess based on the current branch name to find the active PR:
 
@@ -42,7 +42,7 @@ With this release, you can see which PR you are on directly from the status bar,
 
 ![PR at your fingertips](https://github-team.s3.amazonaws.com/uploads/general/5d5bd62e-68f4-46d0-aaa9-e1950b1b1bff.png)
 
-### Enable navigation from diff view to editor
+## Enable navigation from diff view to editor
 
 Finally, this update enables developers to quickly switch from a diff view back into the editor.
 
@@ -50,7 +50,7 @@ When viewing a diff view in Visual Studio, it is a jarring experience for a deve
 
 ![Switching from diff to code](https://github-team.s3.amazonaws.com/uploads/general/09853368-78a1-4385-a133-e5177af74391.gif)
 
-### Shout outs
+## Shout outs
 
 A special thanks to [Jamie Cansdale](https://twitter.com/jcansdale) (you may know him from such hits as [TestDriven.net](https://www.testdriven.net/)) for working on these three main features and getting them out to you!
 
@@ -63,14 +63,14 @@ And to the rest of the Editor Tools team for making this release possible. It ta
 * [stan_programmer](https://twitter.com/stan_programmer)
 * [grokys](https://twitter.com/grokys)
 
-### Busy in 2017
+## Busy in 2017
 
 And in case you haven't paid close attention last year, here are some cool features we shipped in 2017.
 
 * Viewing PRs with Diff View ([20 second video](https://drive.google.com/open?id=1OgRg9fyIGGGkPpuY_55XnQIHTh6EX5eF))
 * Leaving Inline Comments in Diff View in a PR ([20 second video](https://drive.google.com/open?id=1epqDTACMRT0h5EnmxbD7WKzStsPoydaU))
 
-### Related Posts
+## Related Posts
 
 * [GitHub Inside Your Visual Studio](https://haacked.com/archive/2015/04/30/github-in-your-visual-studio/)
 * [The Open Sourcing of the GitHub Extension for Visual Studio](https://haacked.com/archive/2015/07/20/ghfvs-oss/)

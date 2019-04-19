@@ -30,10 +30,10 @@ in response to this blog post on Microsoft’s [Open Specification
 Promise](http://blogs.msdn.com/jasonmatusow/archive/2006/09/12/751367.aspx). 
 There are two key points he makes in defense of his thesis.
 
-1.  **It’s in Microsoft’s own financial best interest.**
-2.  **It is good PR for Microsoft.**
+1. **It’s in Microsoft’s own financial best interest.**
+2. **It is good PR for Microsoft.**
 
-### Microsoft’s Financial Benefit
+## Microsoft’s Financial Benefit
 
 For the first point, Dave supplies anecdotal evidence in which open
 source software ([DotNetNuke](http://dotnetnuke.com/) which has
@@ -54,7 +54,7 @@ contradict these claims.  If open source software built on Microsoft
 tools really does benefits Microsoft financially, they would probably
 like to know by how much.
 
-### Microsoft’s PR Benefit
+## Microsoft’s PR Benefit
 
 Now this argument is a more compelling to me. As Dave points out,
 performing a Google search on the term *Evil Empire* and Microsoft shows
@@ -81,7 +81,7 @@ people warm and fuzzies when they think of Microsoft, but it might
 attract developers to the platform who would otherwise be lured to Ruby
 on Rails or other such alternative platforms.
 
-### My Take On This
+## My Take On This
 
 Ultimately I think Microsoft is not a charity and should do what’s best
 for Microsoft. Ultimately, I think it is in its best interest to look at
@@ -131,4 +131,3 @@ you could have used [MbUnit](http://mbunit.com/) or
 [NUnit](http://nunit.com/) and would not have any obligations to release
 your customizations if you so choosed (although my mom taught be that
 sharing was a good thing to do)?
-

@@ -17,7 +17,7 @@ For most dynamic languages, this phrase is slightly inaccurate in
 describing duck typing. To understand why, let’s take a quick look at
 what duck typing is about.
 
-### Duck Typing Explained
+## Duck Typing Explained
 
 [![duck-rabbit-phil](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhyDuckTypingMattersInC_919F/duckrabbitphil_thumb.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhyDuckTypingMattersInC_919F/duckrabbitphil.png "Rabbit or Duck?")Duck
 typing allows an object to be passed in to a method that expects a
@@ -41,7 +41,7 @@ method that expects a `duck`**. Same goes for a method that expects
 a `rabbit. `It only needs to support the methods and properties of the
 expected type that are actually called by the method.
 
-### The Static Typed Backlash
+## The Static Typed Backlash
 
 Naturally, static typing proponents have formed a backlash against
 dynamic typing, claming that all hell will break loose when you give up
@@ -84,7 +84,7 @@ The key point here is that static typing doesn’t come without a cost.
 And that cost has to be weighed on a case by case basis against the
 benefits of dynamic languages.
 
-### C# has used duck typing for a long time
+## C# has used duck typing for a long time
 
 Interestingly enough, certain features of C# already use duck typing.
 For example, to allow an object to be enumerated via the C# `foreach`
@@ -104,7 +104,7 @@ via the `foreach` operator.
 
  
 
-### A Very Useful Use Case For When You Might Use Duck Typing
+## A Very Useful Use Case For When You Might Use Duck Typing
 
  
 

@@ -33,7 +33,7 @@ Windsor](http://www.castleproject.org/container/index.html "Caste Windsor")
 and
 [ObjectBuilder](http://www.codeplex.com/ObjectBuilder "ObjectBuilder on CodePlex").
 
-### Start Me Up! *with apologies to The Rolling Stones*
+## Start Me Up! *with apologies to The Rolling Stones*
 
 Once the CTP is released and you have it installed, open Visual Studio
 2008 and select the *File* | *New Project*menu item. In the dialog,
@@ -115,7 +115,7 @@ Ok, we better stop here. We’ve gone far enough without writing a unit
 test. After all, I’m supposed to be demonstrating TDD. Let’s write a
 test.
 
-### Let’s Get Test Started, In Here. *with apologies to the Black Eyed Peas*
+## Let’s Get Test Started, In Here. *with apologies to the Black Eyed Peas*
 
 Starting with the simplest test possible, I’ll make sure that the
 `Recent` action does not specify a view name because I want the default
@@ -173,7 +173,7 @@ Ok, so that’s the GREEN part of the TDD lifecycle and a very very simple
 demo of TDD. Let’s move to the REFACTOR stage and start applying
 Dependency Injection.
 
-### It’s Refactor Time! *with apologies to the reader for stretching this theme too far*
+## It’s Refactor Time! *with apologies to the reader for stretching this theme too far*
 
 In order to obtain the recent blog posts, I want to provide my blog
 controller with a “service” instance it can request those posts from. 
@@ -278,7 +278,7 @@ public ActionResult Recent()
 
 Now when I run my test, it passes!
 
-### Inject That Dependency
+## Inject That Dependency
 
 But we’re not done yet. When I load up a browser and try to navigate to
 this controller action (on my machine,
@@ -394,7 +394,7 @@ public class InMemoryPostRepository : IPostRepository
 }
 ```
 
-### Quick, We Need A Factory {.clear}
+## Quick, We Need A Factory {.clear}
 
 We’re almost done. We now need to hook up StructureMap to ASP.NET MVC by
 writing implementing `IControllerFactory`. The controller factory is

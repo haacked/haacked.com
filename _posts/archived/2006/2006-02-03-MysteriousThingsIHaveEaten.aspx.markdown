@@ -17,7 +17,7 @@ I have never tried Sea Cucumber (that I know of) nor Kudu Doo-Doo, but I
 have had everything else on his list. Here is my own list of mysterious
 things I have eaten.
 
-### 1. Fermented Soy Bean (aka Natto)
+## 1. Fermented Soy Bean (aka Natto)
 
 My wife introduced me to this foul smelling Japanese dish. At first I
 wondered why she was eating the garbage when I first took a whiff, but I
@@ -31,7 +31,7 @@ why she liked it so much. It has worked, as I now love it.
  photo copyrighted by [Matt
 Wegener](http://mattw.de/japan03/ "Matt Wegener's Japan Photos Page").
 
-### 2. Raw Chicken
+## 2. Raw Chicken
 
 For this dish, I have my wife’s brother to thank. Again this is a gift
 from the Japanese. Apparently there are several places known for serving
@@ -41,12 +41,12 @@ and care in crafting food.
 
 It tasted a lot like tuna sashimi (maguro) and was quiet delicious.
 
-### 3. Blowfish (Fugu)
+## 3. Blowfish (Fugu)
 
 I guess Japanese food in general is mysterious to me. I [wrote about
 this experience here](/archive/2005/01/09/1838.aspx "Blowfish").
 
-### 4. Uni (Raw Sea Urchin)
+## 4. Uni (Raw Sea Urchin)
 
 The first time I had this I nearly gagged. But I have since learned that
 the first one I tried was not of the highest quality. When a master
@@ -55,7 +55,7 @@ sushi chef prepares Uni, it is smooth like butter.
 ![Uni (raw sea urchin)](https://haacked.com/images/Uni.jpg) \
 via Matt Wegener
 
-### 5. Chicken Feet
+## 5. Chicken Feet
 
 This one is often served at a Dim Sum restaurant. My Chinese friends
 might not find this so mysterious, but I sure do. I am not a big fan,

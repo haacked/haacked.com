@@ -17,7 +17,7 @@ Every year, it's the same rigmarole. It starts with updating all of the NuGet pa
 
 I'm not ready to share the full code for that project, but I plan to share some interesting pieces of it. The first piece is [a little something I wrote](https://github.com/Haacked/aspnetmvc-action-checker/) to help make sure I secure controller actions.
 
-### The Problem
+## The Problem
 
 You care about your users. If not, at least pretend to do so. With that in mind, you want to protect them from potential [Cross Site Request Forgery attacks](https://haacked.com/archive/2009/04/02/anatomy-of-csrf-attack.aspx/). ASP.NET MVC includes helpers for this purpose, but it's up to you to apply them.
 
@@ -35,11 +35,11 @@ Here's a screenshot of it in action.
 
 There's a few important things to note.
 
-### Which actions are checked?
+## Which actions are checked?
 
 The checker looks for all actions that might modify an HTTP resource. In other words, any action that responds to the following HTTP verbs: `POST`, `PUT`, `PATCH`, `DELETE`. In code, these correspond to action methods decorated with the following attributes: `[HttpPost]`, `[HttpPut]`, `[HttpPatch]`, `[HttpDelete]` respectively. The presence of these attributes are good indicators that the action method might modify data. Action methods that respond to GET requests should never modify data.
 
-### Do all these need to be secured?
+## Do all these need to be secured?
 
 No.
 
@@ -47,7 +47,7 @@ For example, it wouldn't make sense  to decorate your `LogOn` action with `[Auth
 
 There's no way for the checker to understand the semantics of your action method code to determine whether an action should be authorized or not. So it just lists everything it finds. It's up to you to figure out if there's any action (no pun intended) required on your part.
 
-### How do I deploy it?
+## How do I deploy it?
 
 All you have to do is copy and paste [this `SystemController.cs` file](https://raw.githubusercontent.com/Haacked/aspnetmvc-action-checker/master/SystemController.cs) into your ASP.NET MVC project. It just makes it easier to compile this into the same assembly where your controller actions exist.
 
@@ -57,7 +57,7 @@ Be aware that if you accidentally deploy `SiteController`, it will only responds
 
 And that's it.
 
-### How's it work?
+## How's it work?
 
 I kept all the code in a single file, so it's a bit ugly, but should be easy to follow.
 
@@ -77,7 +77,7 @@ It would have been possible for me to get all the action methods without using `
 
 As such, it handles cases such as when an action method is named differently from the underlying class method via the `[ActionName("SomeOtherMethod")]` attribute.
 
-### What's Next?
+## What's Next?
 
 There's so many improvements we could make (notice how I'm using "we" in a bald attempt to pull you into this?) to this. For example, the code only looks at the `HTTP*` attributes. But to be completely correct, it should also check the [`[AcceptVerbs]`](https://msdn.microsoft.com/en-us/library/system.web.mvc.acceptverbsattribute.aspx) attribute. I didn't bother because I never use that attribute, but maybe you have some legacy code that does.
 

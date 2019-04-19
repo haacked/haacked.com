@@ -27,52 +27,52 @@ I’ve chosen to focus on web utilities as they are quick and easy to use
 I am sure there are many others out there. Let me know what I missed in
 the comments.
 
-### Optimization
+## Optimization
 
 The first three tools in this category are all website speed testers,
 but each offers something different, so I’ve listed them all.
 
-1.  **[Web Page
-    Analyzer](http://www.websiteoptimization.com/services/analyze/ "Web Page Analyzer")**
-    - This tool is fairly comprehensive and may be the only one you
-    really need for website speed analysis. Includes stats on every file
-    and object downloaded and provides approximate download times for
-    different connection rates.
-2.  **[OctaGate Site
-    Timer](http://www.octagate.com/service/SiteTimer/ "OctaGate Site Timer")**
-    - I didn’t find this one to be as accurate as the first one because
-    it attempted to download images referenced in my CSS files that were
-    commented out. However, it provides a nicer graphical output that
-    marks when the request was started, when it connected, and the time
-    when the first and last bytes were received. It also highlights 404
-    errors in red, which is handy for finding missing files or bad URLs.
-3.  **[HttpZip Compression
-    Checker](http://www.port80software.com/products/httpzip/compresscheck "Port80 HttpZip Compression Checker")**
-    - Use this to check whether files from your website are being served
-    with HTTP Compression on or off. Thanks to [Jeff
-    Atwood](http://codinghorror.com/blog/ "CodingHorror blog") for
-    pointing me to this one (among others).
-4.  [**Dynamic Drive Online Image
-    Optimizer**](http://tools.dynamicdrive.com/imageoptimizer/ "Image Optimizer")**-**if
-    you’re hardcore about your image compression, you should check out
-    [**Ken Silverman’s Utility
-    Page**](http://advsys.net/ken/utils.htm#pngout "Ken Silverman’s Utility Page").
-    But if you’re like me and just want a quick and easy web based
-    utility for compressing images, this is your site. It can convert
-    gif, jpg, and png files up to 300kb. It will also do conversions to
-    other image types and display multiple results at various color
-    levels and compression rates so you can pick the best one for your
-    needs.
-5.  **[Javascript
-    Minimizer](http://fmarcia.info/jsmin/test.html "Javascript Minimizer")**
-    - This is an extremely simple tool. Paste in your javascript and
-    click the button and reduce the size of your javascripts.
-6.  **[CSS
-    Minimizer](http://www.cssdrive.com/index.php/main/csscompressor/ "CSS Minimizer")**
-    - Just like the Javascript minimizer, but for Cascading Style
-    Sheets.
+1. **[Web Page
+   Analyzer](http://www.websiteoptimization.com/services/analyze/ "Web Page Analyzer")**
+   - This tool is fairly comprehensive and may be the only one you
+   really need for website speed analysis. Includes stats on every file
+   and object downloaded and provides approximate download times for
+   different connection rates.
+2. **[OctaGate Site
+   Timer](http://www.octagate.com/service/SiteTimer/ "OctaGate Site Timer")**
+   - I didn’t find this one to be as accurate as the first one because
+   it attempted to download images referenced in my CSS files that were
+   commented out. However, it provides a nicer graphical output that
+   marks when the request was started, when it connected, and the time
+   when the first and last bytes were received. It also highlights 404
+   errors in red, which is handy for finding missing files or bad URLs.
+3. **[HttpZip Compression
+   Checker](http://www.port80software.com/products/httpzip/compresscheck "Port80 HttpZip Compression Checker")**
+   - Use this to check whether files from your website are being served
+   with HTTP Compression on or off. Thanks to [Jeff
+   Atwood](http://codinghorror.com/blog/ "CodingHorror blog") for
+   pointing me to this one (among others).
+4. [**Dynamic Drive Online Image
+   Optimizer**](http://tools.dynamicdrive.com/imageoptimizer/ "Image Optimizer")**-**if
+   you’re hardcore about your image compression, you should check out
+   [**Ken Silverman’s Utility
+   Page**](http://advsys.net/ken/utils.htm#pngout "Ken Silverman’s Utility Page").
+   But if you’re like me and just want a quick and easy web based
+   utility for compressing images, this is your site. It can convert
+   gif, jpg, and png files up to 300kb. It will also do conversions to
+   other image types and display multiple results at various color
+   levels and compression rates so you can pick the best one for your
+   needs.
+5. **[Javascript
+   Minimizer](http://fmarcia.info/jsmin/test.html "Javascript Minimizer")**
+   - This is an extremely simple tool. Paste in your javascript and
+   click the button and reduce the size of your javascripts.
+6. **[CSS
+   Minimizer](http://www.cssdrive.com/index.php/main/csscompressor/ "CSS Minimizer")**
+   - Just like the Javascript minimizer, but for Cascading Style
+   Sheets.
 
-### Statistics and Search Engine Optimization
+## Statistics and Search Engine Optimization
 
 Get a handle on your web traffic with these sites.
 
@@ -109,7 +109,7 @@ Get a handle on your web traffic with these sites.
     with several other websites on a single graph, thus starting a huge
     pissing contest.
 
-### Spicing Up Your Posts With Images
+## Spicing Up Your Posts With Images
 
 1.  **[Wikipedia Public Domain Image
     Resources](http://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources "Public Domain Images")**
@@ -140,7 +140,7 @@ Get a handle on your web traffic with these sites.
     - Another Public Domain clip art library, though the quality tends
     to be less than the Open Clip Art Library.
 
-### Create and Improve Your Content
+## Create and Improve Your Content
 
 1.  **[Cliche Finder](http://cliche.theinfo.org/ "Cliche Finder")** -
     Try to avoid using too many tired old cliches by running your post
@@ -152,7 +152,7 @@ Get a handle on your web traffic with these sites.
     want testers to focus on, the better quality the feedback. Try it
     out.
 
-### Syndication
+## Syndication
 
 1.  **[FeedBurner](http://feedburner.com/ "FeedBurner")** - This one
     gets special mention because it fits in so many categories. It’ll
@@ -162,7 +162,7 @@ Get a handle on your web traffic with these sites.
     provide features your blogging platform might not, such as
     subscribing to RSS Feeds via email.
 
-### Special Mention
+## Special Mention
 
 As I mentioned before, this post is focusing on web utilities. However,
 these two utilities are so essential, I just had to break my own rule
