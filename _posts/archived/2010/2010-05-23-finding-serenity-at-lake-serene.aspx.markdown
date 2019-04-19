@@ -1,8 +1,7 @@
 ---
 title: Finding Serenity at Lake Serene
 date: 2010-05-23 -0800
-tags:
-- personal
+tags: [personal]
 redirect_from: "/archive/2010/05/22/finding-serenity-at-lake-serene.aspx/"
 ---
 

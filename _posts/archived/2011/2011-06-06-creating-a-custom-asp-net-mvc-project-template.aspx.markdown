@@ -1,8 +1,7 @@
 ---
 title: Creating a Custom ASP.NET MVC Project Template
 date: 2011-06-06 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - aspnetmvc
 redirect_from: "/archive/2011/06/05/creating-a-custom-asp-net-mvc-project-template.aspx/"
 ---

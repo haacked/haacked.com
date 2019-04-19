@@ -1,8 +1,7 @@
 ---
 title: Changing Base Type Of A Razor View
 date: 2011-02-21 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - aspnetmvc
 - razor
 redirect_from: "/archive/2011/02/20/changing-base-type-of-a-razor-view.aspx/"

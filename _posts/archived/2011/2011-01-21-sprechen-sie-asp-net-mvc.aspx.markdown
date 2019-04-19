@@ -1,8 +1,7 @@
 ---
 title: Sprechen Sie ASP.NET MVC?
 date: 2011-01-21 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - aspnetmvc
 redirect_from: "/archive/2011/01/20/sprechen-sie-asp-net-mvc.aspx/"
 ---

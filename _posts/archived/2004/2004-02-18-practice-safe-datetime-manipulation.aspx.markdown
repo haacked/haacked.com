@@ -1,8 +1,7 @@
 ---
 title: Practice safe DateTime manipulation
 date: 2004-02-18 -0800
-tags:
-- csharp code datetime
+tags: [csharp,code,datetime]
 redirect_from: "/archive/2004/02/17/practice-safe-datetime-manipulation.aspx/"
 ---
 

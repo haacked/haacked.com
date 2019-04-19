@@ -1,8 +1,7 @@
 ---
 title: Google Print Is Still A Good Idea
 date: 2005-10-24 -0800
-tags:
-- tech
+tags: [tech]
 redirect_from: "/archive/2005/10/23/google-print-is-still-a-good-idea-again.aspx/"
 ---
 

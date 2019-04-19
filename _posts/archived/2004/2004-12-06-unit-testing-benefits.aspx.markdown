@@ -1,8 +1,7 @@
 ---
 title: Unit Testing is a Poor Example to Demonstrate a Complaint About Methodologies
 date: 2004-12-06 -0800
-tags:
-- code
+tags: [code]
 - tdd
 redirect_from: "/archive/2004/12/05/unit-testing-benefits.aspx/"
 ---

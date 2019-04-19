@@ -1,8 +1,7 @@
 ---
 title: Geek Your Momma Jokes
 date: 2009-07-08 -0800
-tags:
-- humor
+tags: [humor]
 redirect_from: "/archive/2009/07/07/geek-your-momma-jokes.aspx/"
 ---
 

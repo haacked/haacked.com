@@ -1,8 +1,7 @@
 ---
 title: Was My Code Provability Post An Inspiration To Joel?
 date: 2007-12-04 -0800
-tags:
-- code
+tags: [code]
 - tdd
 redirect_from: "/archive/2007/12/03/was-my-code-provability-post-an-inspiration-to-joel.aspx/"
 ---

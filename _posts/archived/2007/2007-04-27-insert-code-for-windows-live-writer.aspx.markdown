@@ -1,8 +1,7 @@
 ---
 title: Insert Code for Windows Live Writer
 date: 2007-04-27 -0800
-tags:
-- code
+tags: [code]
 - tech
 - blogging
 redirect_from: "/archive/2007/04/26/insert-code-for-windows-live-writer.aspx/"

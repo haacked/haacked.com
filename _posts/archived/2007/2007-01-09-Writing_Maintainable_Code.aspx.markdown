@@ -1,8 +1,7 @@
 ---
 title: Writing Maintainable Code
 date: 2007-01-09 -0800
-tags:
-- code
+tags: [code]
 redirect_from: "/archive/2007/01/08/Writing_Maintainable_Code.aspx/"
 ---
 

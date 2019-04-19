@@ -1,8 +1,7 @@
 ---
 title: Proper Way To Find The Form
 date: 2006-06-13 -0800
-tags:
-- code
+tags: [code]
 - aspnet
 redirect_from: "/archive/2006/06/12/ProperWayToFindTheForm.aspx/"
 ---

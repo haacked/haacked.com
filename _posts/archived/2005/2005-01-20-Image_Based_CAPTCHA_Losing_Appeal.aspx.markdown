@@ -4,8 +4,7 @@ date: 2005-01-20 -0800
 redirect_from:
 - "/archive/2005/01/20/1967.aspx.html"
 - "/archive/2005/01/19/Image_Based_CAPTCHA_Losing_Appeal.aspx/"
-tags:
-- captcha
+tags: [captcha]
 ---
 
 I read an article recently that talked about how ticket scalpers have a 10% success rate against TicketMaster's CAPTCHA controls. That might not seem like a very good rate, but when you have an automated process attacking it, 10% is plenty good.

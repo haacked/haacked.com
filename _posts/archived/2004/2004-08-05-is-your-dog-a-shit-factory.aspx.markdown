@@ -1,8 +1,7 @@
 ---
 title: Is Your Dog a Sh*t Factory
 date: 2004-08-05 -0800
-tags:
-- humor
+tags: [humor]
 redirect_from: "/archive/2004/08/04/is-your-dog-a-shit-factory.aspx/"
 ---
 

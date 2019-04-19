@@ -1,8 +1,7 @@
 ---
 title: A Library For Executing SQL Scripts With GO Separators and Template Parameters
 date: 2007-11-04 -0800
-tags:
-- code
+tags: [code]
 redirect_from: "/archive/2007/11/03/a-library-for-executing-sql-scripts-with-go-separators-and.aspx/"
 ---
 

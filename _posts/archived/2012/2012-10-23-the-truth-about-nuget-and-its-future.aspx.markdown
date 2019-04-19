@@ -1,8 +1,7 @@
 ---
 title: The Truth about NuGet and its Future
 date: 2012-10-23 -0800
-tags:
-- oss
+tags: [oss]
 - nuget
 - community
 - code

@@ -1,8 +1,7 @@
 ---
 title: ASP.NET MVC Now Accepting Pull Requests
 date: 2012-03-29 -0800
-tags:
-- code
+tags: [code]
 - oss
 - aspnet
 - aspnetmvc

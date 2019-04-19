@@ -1,8 +1,7 @@
 ---
 title: Why I Love New Year&rsquo;s Eve
 date: 2011-12-31 -0800
-tags:
-- personal
+tags: [personal]
 redirect_from: "/archive/2011/12/30/why-i-love-new-yearrsquos-eve.aspx/"
 ---
 

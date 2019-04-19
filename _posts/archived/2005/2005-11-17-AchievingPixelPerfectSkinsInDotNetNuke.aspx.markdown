@@ -1,7 +1,7 @@
 ---
 title: Achieving Pixel Perfect Skins in DotNetNuke
 date: 2005-11-17 -0800
-tags: [dnn]
+tags: [dotnetnuke]
 redirect_from: "/archive/2005/11/16/AchievingPixelPerfectSkinsInDotNetNuke.aspx/"
 ---
 

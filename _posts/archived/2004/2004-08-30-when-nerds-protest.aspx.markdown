@@ -1,8 +1,7 @@
 ---
 title: 'PHOTO: When Nerds Protest The RNC.'
 date: 2004-08-30 -0800
-tags:
-- humor
+tags: [humor]
 redirect_from: "/archive/2004/08/29/when-nerds-protest.aspx/"
 ---
 

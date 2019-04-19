@@ -1,8 +1,7 @@
 ---
 title: Why Should I Care About The Wire Format In SOAP?
 date: 2004-07-23 -0800
-tags:
-- code
+tags: [code]
 redirect_from: "/archive/2004/07/22/why-should-i-care-about-the-wire-format-in-soap.aspx/"
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: Unit Test Web Code Without A Web Server Using HttpSimulator
 date: 2007-06-19 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - tdd
 redirect_from: "/archive/2007/06/18/unit-tests-web-code-without-a-web-server-using-httpsimulator.aspx/"
 ---

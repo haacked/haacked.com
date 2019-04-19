@@ -1,8 +1,7 @@
 ---
 title: Talks on GitHub and NuGet
 date: 2012-06-19 -0800
-tags:
-- git
+tags: [git]
 - github
 - nuget
 - code

@@ -1,8 +1,7 @@
 ---
 title: More Eye Candy For Your Website or Blog
 date: 2006-06-21 -0800
-tags:
-- blogging
+tags: [blogging]
 redirect_from: "/archive/2006/06/20/MoreEyeCandyForYourWebsiteOrBlog.aspx/"
 ---
 

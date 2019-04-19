@@ -1,8 +1,7 @@
 ---
 title: Code Review Like You Mean It
 date: 2013-10-28 -0800
-tags:
-- oss
+tags: [oss]
 - github
 - code
 - code review

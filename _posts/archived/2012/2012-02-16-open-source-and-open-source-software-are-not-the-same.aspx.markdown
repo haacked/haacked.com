@@ -1,8 +1,7 @@
 ---
 title: Open Source and Open Source Software Are Not The Same Things
 date: 2012-02-16 -0800
-tags:
-- code
+tags: [code]
 - aspnetmvc
 - oss
 - community

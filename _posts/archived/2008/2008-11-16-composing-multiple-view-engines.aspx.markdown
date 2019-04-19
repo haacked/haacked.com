@@ -1,8 +1,7 @@
 ---
 title: Rendering A Single View Using Multiple ViewEngines
 date: 2008-11-16 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - aspnetmvc
 redirect_from: "/archive/2008/11/15/composing-multiple-view-engines.aspx/"
 ---

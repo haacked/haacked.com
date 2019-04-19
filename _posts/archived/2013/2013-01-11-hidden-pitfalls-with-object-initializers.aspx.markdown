@@ -1,8 +1,7 @@
 ---
 title: Hidden Pitfalls With Object Initializers
 date: 2013-01-11 -0800
-tags:
-- code
+tags: [code]
 redirect_from: "/archive/2013/01/10/hidden-pitfalls-with-object-initializers.aspx/"
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: Absolutely Livid
 date: 2006-05-02 -0800
-tags:
-- personal
+tags: [personal]
 redirect_from: "/archive/2006/05/01/AbsolutelyLivid.aspx/"
 ---
 

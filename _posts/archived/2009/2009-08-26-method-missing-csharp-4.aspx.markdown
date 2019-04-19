@@ -1,8 +1,7 @@
 ---
 title: Fun With Method Missing and C# 4
 date: 2009-08-26 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - code
 - aspnetmvc
 redirect_from: "/archive/2009/08/25/method-missing-csharp-4.aspx/"

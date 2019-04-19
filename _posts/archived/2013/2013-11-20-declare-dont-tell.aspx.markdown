@@ -1,8 +1,7 @@
 ---
 title: Declare, Don't Tell
 date: 2013-11-20 -0800
-tags:
-- code
+tags: [code]
 - rx
 redirect_from: "/archive/2013/11/19/declare-dont-tell.aspx/"
 excerpt_image: https://haacked.com/images/haacked_com/WindowsLiveWriter/DeclareDontTell_8BB0/megaphone_2.jpg

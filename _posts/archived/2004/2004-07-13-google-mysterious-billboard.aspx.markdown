@@ -1,8 +1,7 @@
 ---
 title: Google's Mysterious Billboard
 date: 2004-07-13 -0800
-tags:
-- code
+tags: [code]
 redirect_from: "/archive/2004/07/12/google-mysterious-billboard.aspx/"
 ---
 

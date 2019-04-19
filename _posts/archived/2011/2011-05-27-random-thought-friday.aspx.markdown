@@ -1,8 +1,7 @@
 ---
 title: Random Thought Friday
 date: 2011-05-27 -0800
-tags:
-- personal
+tags: [personal]
 redirect_from: "/archive/2011/05/26/random-thought-friday.aspx/"
 ---
 

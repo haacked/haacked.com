@@ -1,8 +1,7 @@
 ---
 title: NuGet Package Transformations
 date: 2010-11-19 -0800
-tags:
-- code
+tags: [code]
 - nuget
 - oss
 redirect_from: "/archive/2010/11/18/nuget-transformation.aspx/"

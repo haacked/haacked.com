@@ -1,8 +1,7 @@
 ---
 title: A Look Back at Mix 11
 date: 2011-04-16 -0800
-tags:
-- code
+tags: [code]
 - oss
 - aspnetmvc
 - aspnet

@@ -1,8 +1,7 @@
 ---
 title: 'Urgent: Subtext Security Patch'
 date: 2007-09-20 -0800
-tags:
-- personal
+tags: [personal]
 redirect_from: "/archive/2007/09/19/urgent-subtext-security-patch.aspx/"
 ---
 

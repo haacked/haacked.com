@@ -1,8 +1,7 @@
 ---
 title: UrlScan Broke My Blog (And How I Fixed It)
 date: 2010-09-26 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - subtext
 - code
 redirect_from: "/archive/2010/09/25/url-scan-broke-my-blog.aspx/"

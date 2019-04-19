@@ -1,8 +1,7 @@
 ---
 title: Rhino Mocks + Extension Methods + MVC == Crazy Delicious
 date: 2007-11-05 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - code
 - aspnetmvc
 - tdd

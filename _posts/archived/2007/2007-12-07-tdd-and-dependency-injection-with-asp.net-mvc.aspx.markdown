@@ -1,8 +1,7 @@
 ---
 title: TDD and Dependency Injection with ASP.NET MVC
 date: 2007-12-07 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - code
 - aspnetmvc
 - tdd

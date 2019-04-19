@@ -1,8 +1,7 @@
 ---
 title: Response.Redirect vs Server.Transfer
 date: 2004-10-06 -0800
-tags:
-- code
+tags: [code]
 redirect_from: "/archive/2004/10/05/responseredirectverseservertransfer.aspx/"
 ---
 

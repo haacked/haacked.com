@@ -1,8 +1,7 @@
 ---
 title: ASP.NET MVC 2 Optional URL Parameters
 date: 2010-02-12 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - aspnetmvc
 - code
 redirect_from: "/archive/2010/02/11/asp-net-mvc-2-optional-url-parameters.aspx/"

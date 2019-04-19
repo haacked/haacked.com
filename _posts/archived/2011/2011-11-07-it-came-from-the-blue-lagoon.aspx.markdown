@@ -1,8 +1,7 @@
 ---
 title: It Came From the Blue Lagoon
 date: 2011-11-07 -0800
-tags:
-- personal
+tags: [personal]
 redirect_from: "/archive/2011/11/06/it-came-from-the-blue-lagoon.aspx/"
 ---
 

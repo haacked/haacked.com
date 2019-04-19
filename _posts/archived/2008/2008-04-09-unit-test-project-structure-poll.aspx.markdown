@@ -1,8 +1,7 @@
 ---
 title: Unit Test Project Structure Poll
 date: 2008-04-09 -0800
-tags:
-- code
+tags: [code]
 - tdd
 redirect_from: "/archive/2008/04/08/unit-test-project-structure-poll.aspx/"
 ---

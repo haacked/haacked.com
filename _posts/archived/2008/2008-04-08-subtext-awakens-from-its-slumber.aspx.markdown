@@ -1,8 +1,7 @@
 ---
 title: Subtext Awakens From Its Slumber
 date: 2008-04-08 -0800
-tags:
-- code
+tags: [code]
 redirect_from: "/archive/2008/04/07/subtext-awakens-from-its-slumber.aspx/"
 ---
 

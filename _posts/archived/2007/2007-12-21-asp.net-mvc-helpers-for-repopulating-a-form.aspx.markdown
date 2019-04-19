@@ -1,8 +1,7 @@
 ---
 title: ASP.NET MVC Helpers For Repopulating A Form
 date: 2007-12-21 -0800
-tags:
-- code
+tags: [code]
 - aspnetmvc
 redirect_from: "/archive/2007/12/20/asp.net-mvc-helpers-for-repopulating-a-form.aspx/"
 ---

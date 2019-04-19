@@ -1,8 +1,7 @@
 ---
 title: Null Or Empty Coalescing
 date: 2010-06-16 -0800
-tags:
-- code
+tags: [code]
 redirect_from: "/archive/2010/06/15/null-or-empty-coalescing.aspx/"
 ---
 

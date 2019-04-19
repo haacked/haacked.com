@@ -1,8 +1,7 @@
 ---
 title: OutOfMemoryException and other pathological cases
 date: 2004-02-11 -0800
-tags:
-- csharp dotnet
+tags: [csharp,dotnet]
 redirect_from: "/archive/2004/02/10/outofmemoryexception-and-other-pathological-cases.aspx/"
 ---
 

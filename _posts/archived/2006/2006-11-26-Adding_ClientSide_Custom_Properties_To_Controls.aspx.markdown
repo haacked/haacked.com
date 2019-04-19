@@ -1,8 +1,7 @@
 ---
 title: Adding Client-Side Custom Properties To Controls
 date: 2006-11-26 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - code
 redirect_from: "/archive/2006/11/25/Adding_ClientSide_Custom_Properties_To_Controls.aspx/"
 ---

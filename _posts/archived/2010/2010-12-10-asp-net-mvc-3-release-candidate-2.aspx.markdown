@@ -1,8 +1,7 @@
 ---
 title: ASP.NET MVC 3 Release Candidate 2
 date: 2010-12-10 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - aspnetmvc
 - nuget
 - code

@@ -1,8 +1,7 @@
 ---
 title: My Third Blog
 date: 2006-09-21 -0800
-tags:
-- blogging
+tags: [blogging]
 redirect_from: "/archive/2006/09/20/My_Third_Blog.aspx/"
 ---
 

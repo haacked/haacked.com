@@ -1,8 +1,7 @@
 ---
 title: Easily Test Your Code For Multiple Cultures
 date: 2007-06-14 -0800
-tags:
-- code
+tags: [code]
 - tdd
 redirect_from: "/archive/2007/06/13/easily-test-your-code-for-multiple-cultures.aspx/"
 ---

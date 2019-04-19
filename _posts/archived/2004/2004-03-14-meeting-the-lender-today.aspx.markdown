@@ -1,8 +1,7 @@
 ---
 title: Meeting the Lender Today
 date: 2004-03-14 -0800
-tags:
-- personal
+tags: [personal]
 redirect_from: "/archive/2004/03/13/meeting-the-lender-today.aspx/"
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: Html Encoding Code Blocks With ASP.NET 4
 date: 2009-09-25 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - code
 - aspnetmvc
 redirect_from: "/archive/2009/09/24/html-encoding-code-nuggets.aspx/"

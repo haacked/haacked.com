@@ -1,8 +1,7 @@
 ---
 title: ASP.NET MVC 1.0 Release Candidate 2
 date: 2009-03-02 -0800
-tags:
-- aspnetmvc
+tags: [aspnetmvc]
 - aspnet
 redirect_from:
   - /archive/2009/03/01/aspnetmvc-changes-for-rc2.aspx/

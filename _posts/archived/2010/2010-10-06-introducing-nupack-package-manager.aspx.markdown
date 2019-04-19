@@ -1,8 +1,7 @@
 ---
 title: Introducing NuGet Package Manager
 date: 2010-10-06 -0800
-tags:
-- aspnetmvc
+tags: [aspnetmvc]
 - code
 - oss
 - nuget

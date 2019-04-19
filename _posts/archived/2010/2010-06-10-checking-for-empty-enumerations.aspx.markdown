@@ -1,8 +1,7 @@
 ---
 title: Checking For Empty Enumerations
 date: 2010-06-10 -0800
-tags:
-- code
+tags: [code]
 redirect_from: "/archive/2010/06/09/checking-for-empty-enumerations.aspx/"
 ---
 

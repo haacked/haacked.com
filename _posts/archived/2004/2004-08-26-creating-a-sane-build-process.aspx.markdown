@@ -1,8 +1,7 @@
 ---
 title: Creating A Sane Build Process
 date: 2004-08-26 -0800
-tags:
-- code
+tags: [code]
 redirect_from: "/archive/2004/08/25/creating-a-sane-build-process.aspx/"
 ---
 

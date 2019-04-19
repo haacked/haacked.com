@@ -4,8 +4,7 @@ date: 2009-02-07 -0800
 redirect_from:
 - "/archive/0001/01/01/take-charge-of-your-security.aspx/"
 - "/archive/2009/02/06/take-charge-of-your-security.aspx/"
-tags:
-- aspnetmvc
+tags: [aspnetmvc]
 - aspnet
 - code
 ---

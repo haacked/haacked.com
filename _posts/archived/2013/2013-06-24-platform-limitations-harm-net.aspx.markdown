@@ -1,8 +1,7 @@
 ---
 title: Platform Limitations Harm .NET
 date: 2013-06-24 -0800
-tags:
-- code
+tags: [code]
 redirect_from: "/archive/2013/06/23/platform-limitations-harm-net.aspx/"
 ---
 

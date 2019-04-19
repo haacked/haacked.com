@@ -1,8 +1,7 @@
 ---
 title: Everything You Wanted To Know About MVC and MVP But Were Afraid To Ask
 date: 2008-06-16 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - aspnetmvc
 - code
 - patterns

@@ -1,8 +1,7 @@
 ---
 title: Conditional Filters in ASP.NET MVC 3
 date: 2011-04-25 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - aspnetmvc
 - code
 redirect_from: "/archive/2011/04/24/conditional-filters.aspx/"

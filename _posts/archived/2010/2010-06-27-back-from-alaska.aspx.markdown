@@ -1,8 +1,7 @@
 ---
 title: Back from Alaska With A New Release of Subtext
 date: 2010-06-27 -0800
-tags:
-- subtext
+tags: [subtext]
 - personal
 redirect_from: "/archive/2010/06/26/back-from-alaska.aspx/"
 ---

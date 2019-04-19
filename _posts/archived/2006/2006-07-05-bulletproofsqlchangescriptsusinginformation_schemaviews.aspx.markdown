@@ -1,8 +1,7 @@
 ---
 title: Bulletproof Sql Change Scripts Using INFORMATION_SCHEMA Views
 date: 2006-07-05 -0800
-tags:
-- sql
+tags: [sql]
 redirect_from: "/archive/2006/07/04/bulletproofsqlchangescriptsusinginformation_schemaviews.aspx/"
 ---
 

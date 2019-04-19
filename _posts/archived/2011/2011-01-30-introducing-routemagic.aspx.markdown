@@ -1,8 +1,7 @@
 ---
 title: Introducing RouteMagic
 date: 2011-01-30 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - code
 - aspnetmvc
 - oss

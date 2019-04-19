@@ -1,8 +1,7 @@
 ---
 title: Subtext 2.1 Released! Contains Security Update
 date: 2008-11-27 -0800
-tags:
-- subtext
+tags: [subtext]
 redirect_from: "/archive/2008/11/26/subtext-2.1-security-update.aspx/"
 ---
 

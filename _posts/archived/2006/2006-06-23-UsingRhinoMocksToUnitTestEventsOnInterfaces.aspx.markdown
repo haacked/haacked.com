@@ -1,8 +1,7 @@
 ---
 title: Using Rhino Mocks To Unit Test Events on Interfaces
 date: 2006-06-23 -0800
-tags:
-- code
+tags: [code]
 - tdd
 redirect_from: "/archive/2006/06/22/usingrhinomockstounittesteventsoninterfaces.aspx/"
 ---

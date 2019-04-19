@@ -1,8 +1,7 @@
 ---
 title: ASP.NET MVC 3 and NuGet 1.0 Released (Including Source Code!)
 date: 2011-01-13 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - aspnetmvc
 - code
 - oss

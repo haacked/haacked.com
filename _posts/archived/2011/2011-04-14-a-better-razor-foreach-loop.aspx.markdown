@@ -1,8 +1,7 @@
 ---
 title: A Better Razor Foreach Loop
 date: 2011-04-14 -0800
-tags:
-- razor
+tags: [razor]
 - code
 - aspnetmvc
 redirect_from: "/archive/2011/04/13/a-better-razor-foreach-loop.aspx/"

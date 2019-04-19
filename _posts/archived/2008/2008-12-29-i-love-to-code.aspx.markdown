@@ -1,8 +1,7 @@
 ---
 title: I Love To Code
 date: 2008-12-29 -0800
-tags:
-- code
+tags: [code]
 redirect_from: "/archive/2008/12/28/i-love-to-code.aspx/"
 ---
 

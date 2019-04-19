@@ -1,8 +1,7 @@
 ---
 title: ASP.NET MVC on IIS 6 Walkthrough
 date: 2008-11-26 -0800
-tags:
-- aspnetmvc
+tags: [aspnetmvc]
 - aspnet
 redirect_from: "/archive/2008/11/25/asp.net-mvc-on-iis-6-walkthrough.aspx/"
 ---

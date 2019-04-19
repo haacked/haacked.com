@@ -1,8 +1,7 @@
 ---
 title: "[SQL] Stored ProcedureTo Generate Random Time of Day"
 date: 2006-04-21 -0800
-tags:
-- sql
+tags: [sql]
 redirect_from: "/archive/2006/04/20/sqlfunctiontogeneraterandomtimeofday.aspx/"
 ---
 

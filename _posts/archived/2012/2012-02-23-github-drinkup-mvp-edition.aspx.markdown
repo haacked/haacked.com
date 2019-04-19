@@ -1,8 +1,7 @@
 ---
 title: GitHub Drinkup MVP Edition
 date: 2012-02-23 -0800
-tags:
-- community
+tags: [community]
 - github
 redirect_from: "/archive/2012/02/22/github-drinkup-mvp-edition.aspx/"
 ---

@@ -1,8 +1,7 @@
 ---
 title: Funny MySpace Reference In Boondocks Today
 date: 2006-03-06 -0800
-tags:
-- humor
+tags: [humor]
 redirect_from: "/archive/2006/03/05/funnymyspacereferenceinboondockstoday.aspx/"
 ---
 

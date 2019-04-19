@@ -1,8 +1,7 @@
 ---
 title: Manipulating Action Method Parameters
 date: 2010-02-21 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - aspnetmvc
 - code
 redirect_from: "/archive/2010/02/20/manipulating-action-method-parameters.aspx/"

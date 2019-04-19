@@ -1,8 +1,7 @@
 ---
 title: Hazards of Converting Binary Data To A String
 date: 2012-01-30 -0800
-tags:
-- code
+tags: [code]
 redirect_from: "/archive/2012/01/29/hazards-of-converting-binary-data-to-a-string.aspx/"
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: You Don&rsquo;t Need A Thick Skin
 date: 2012-12-17 -0800
-tags:
-- code
+tags: [code]
 - community
 - empathy
 redirect_from: "/archive/2012/12/16/you-do-not-need-a-thick-skin.aspx/"

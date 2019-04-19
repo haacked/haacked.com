@@ -2,7 +2,7 @@
 title: NullReferenceException When Deploying DotNetNuke Could Be An ObjectQualifier
   Discrepancy
 date: 2006-05-17 -0800
-tags: [dnn]
+tags: [dotnetnuke]
 redirect_from: "/archive/2006/05/16/NullReferenceExceptionWhenDeployingDotNetNukeCouldBeAnObjectQualifierDiscrepancy.aspx/"
 ---
 

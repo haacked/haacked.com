@@ -1,8 +1,7 @@
 ---
 title: ASP.NET MVC Sessions At Mix
 date: 2009-03-24 -0800
-tags:
-- aspnetmvc
+tags: [aspnetmvc]
 redirect_from: "/archive/2009/03/23/aspnetmvc-sessions-mix.aspx/"
 ---
 

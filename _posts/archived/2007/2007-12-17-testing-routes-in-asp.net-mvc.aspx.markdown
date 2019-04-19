@@ -1,8 +1,7 @@
 ---
 title: Testing Routes In ASP.NET MVC
 date: 2007-12-17 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - code
 - aspnetmvc
 redirect_from:

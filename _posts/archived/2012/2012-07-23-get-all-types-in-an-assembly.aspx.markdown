@@ -1,8 +1,7 @@
 ---
 title: Get All Types in an Assembly
 date: 2012-07-23 -0800
-tags:
-- aspnetmvc
+tags: [aspnetmvc]
 - code
 redirect_from: "/archive/2012/07/22/get-all-types-in-an-assembly.aspx/"
 ---

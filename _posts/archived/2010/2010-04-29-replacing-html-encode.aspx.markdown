@@ -1,8 +1,7 @@
 ---
 title: 'Tip: Replacing Html.Encode Calls With New Html Encoding Syntax'
 date: 2010-04-29 -0800
-tags:
-- aspnetmvc
+tags: [aspnetmvc]
 - aspnet
 - code
 redirect_from: "/archive/2010/04/28/replacing-html-encode.aspx/"

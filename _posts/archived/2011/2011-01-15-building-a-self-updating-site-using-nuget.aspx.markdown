@@ -1,8 +1,7 @@
 ---
 title: Building a Self Updating Site Using NuGet
 date: 2011-01-15 -0800
-tags:
-- aspnetmvc
+tags: [aspnetmvc]
 - oss
 - nuget
 redirect_from: "/archive/2011/01/14/building-a-self-updating-site-using-nuget.aspx/"

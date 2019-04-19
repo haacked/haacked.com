@@ -1,8 +1,7 @@
 ---
 title: The Future of WebForms And ASP.NET MVC
 date: 2008-11-13 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - aspnetmvc
 redirect_from: "/archive/2008/11/12/future-of-aspnet.aspx/"
 ---

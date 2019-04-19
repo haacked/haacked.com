@@ -1,8 +1,7 @@
 ---
 title: Writing Unit Tests For Controller Actions
 date: 2007-12-09 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - code
 - aspnetmvc
 - tdd

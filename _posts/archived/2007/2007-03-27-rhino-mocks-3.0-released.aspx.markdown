@@ -1,8 +1,7 @@
 ---
 title: Rhino Mocks 3.0 Released!
 date: 2007-03-27 -0800
-tags:
-- code
+tags: [code]
 - tdd
 - oss
 - tech

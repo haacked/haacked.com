@@ -1,8 +1,7 @@
 ---
 title: There Is No Perfect Design
 date: 2005-05-30 -0800
-tags:
-- code
+tags: [code]
 redirect_from:
   - /archive/2005/05/29/thereisnoperfectdesign.aspx/
   - /archive/2005/05/31/ThereIsNoPerfectDesign.aspx/

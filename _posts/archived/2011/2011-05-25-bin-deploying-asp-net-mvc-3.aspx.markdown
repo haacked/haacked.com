@@ -1,8 +1,7 @@
 ---
 title: Bin Deploying ASP.NET MVC 3
 date: 2011-05-25 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - aspnetmvc
 - code
 redirect_from: "/archive/2011/05/24/bin-deploying-asp-net-mvc-3.aspx/"

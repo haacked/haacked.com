@@ -1,8 +1,7 @@
 ---
 title: ASP.NET MVC 2 RC Released
 date: 2009-12-16 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - aspnetmvc
 redirect_from: "/archive/2009/12/15/aspnetmvc-2-rc.aspx/"
 ---

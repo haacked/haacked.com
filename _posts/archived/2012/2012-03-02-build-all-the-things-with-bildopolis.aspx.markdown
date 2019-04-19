@@ -1,8 +1,7 @@
 ---
 title: Build All The Things With Bildopolis
 date: 2012-03-02 -0800
-tags:
-- personal
+tags: [personal]
 redirect_from: "/archive/2012/03/01/build-all-the-things-with-bildopolis.aspx/"
 ---
 

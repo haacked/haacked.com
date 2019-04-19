@@ -1,8 +1,7 @@
 ---
 title: How To Find Out Which NuGet Packages Depend on Yours
 date: 2011-02-23 -0800
-tags:
-- nuget
+tags: [nuget]
 - aspnet
 - aspnetmvc
 - code

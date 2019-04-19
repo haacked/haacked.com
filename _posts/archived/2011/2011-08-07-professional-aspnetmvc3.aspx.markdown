@@ -1,8 +1,7 @@
 ---
 title: Professional ASP.NET MVC 3 is available!
 date: 2011-08-07 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - aspnetmvc
 - tech
 - code

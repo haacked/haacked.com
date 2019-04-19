@@ -1,8 +1,7 @@
 ---
 title: Using QUnit with Razor Layouts
 date: 2011-12-10 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - aspnetmvc
 - tdd
 - code

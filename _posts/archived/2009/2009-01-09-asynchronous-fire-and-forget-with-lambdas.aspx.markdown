@@ -1,8 +1,7 @@
 ---
 title: Asynchronous Fire and Forget With Lambdas
 date: 2009-01-09 -0800
-tags:
-- code
+tags: [code]
 redirect_from: "/archive/2009/01/08/asynchronous-fire-and-forget-with-lambdas.aspx/"
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: Grouping Routes Part 1
 date: 2010-12-02 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - aspnetmvc
 - code
 redirect_from: "/archive/2010/12/01/grouping-routes-part-1.aspx/"

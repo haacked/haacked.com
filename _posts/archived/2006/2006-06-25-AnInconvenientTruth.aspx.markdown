@@ -1,8 +1,7 @@
 ---
 title: An Inconvenient Truth
 date: 2006-06-25 -0800
-tags:
-- personal
+tags: [personal]
 redirect_from: "/archive/2006/06/24/AnInconvenientTruth.aspx/"
 ---
 

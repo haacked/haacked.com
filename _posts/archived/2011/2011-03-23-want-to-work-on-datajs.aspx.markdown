@@ -1,8 +1,7 @@
 ---
 title: Want to work on datajs?
 date: 2011-03-23 -0800
-tags:
-- code
+tags: [code]
 redirect_from: "/archive/2011/03/22/want-to-work-on-datajs.aspx/"
 ---
 

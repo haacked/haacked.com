@@ -1,8 +1,7 @@
 ---
 title: ASP.NET MVC 3 Preview 1 Released
 date: 2010-07-27 -0800
-tags:
-- aspnet
+tags: [aspnet]
 - code
 - aspnetmvc
 redirect_from: "/archive/2010/07/26/aspnetmvc3-preview1-released.aspx/"
