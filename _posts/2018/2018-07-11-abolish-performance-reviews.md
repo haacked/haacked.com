@@ -1,7 +1,6 @@
 ---
 title: "Abolish Performance Reviews"
 description: "Where I rant about how broken annual performance reviews are today."
-date: 2018-07-11 -0700 9:46 AM
 tags: [work,management,diversity]
 excerpt_image: https://user-images.githubusercontent.com/19977/42585077-8ca73b06-84e9-11e8-8c11-f0c3164febff.png
 ---
