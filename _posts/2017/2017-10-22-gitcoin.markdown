@@ -1,7 +1,6 @@
 ---
 title: "Git Coin Project Maintainer Consensus Protocol"
 description: "A tongue-in-cheek, but functional, protocol for determining an OSS project maintainer based on a distributed consensus algorithm."
-date: 2017-10-22 -0700 4:36 PM
 tags: [git,math,humor,oss,shell,aliases]
 ---
 
