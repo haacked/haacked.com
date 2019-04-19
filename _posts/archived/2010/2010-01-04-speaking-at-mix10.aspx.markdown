@@ -1,6 +1,5 @@
 ---
 title: Speaking at Mix 10
-date: 2009-01-04 -0800 9:00 AM
 tags: [conferences]
 ---
 
