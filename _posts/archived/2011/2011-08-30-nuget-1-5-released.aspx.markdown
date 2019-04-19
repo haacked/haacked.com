@@ -1,6 +1,6 @@
 ---
 title: NuGet 1.5 Released!
-date: 2011-08-30 -0800
+date: 2011-08-30 -0800 9:00 AM
 tags: [nuget,code]
 redirect_from: "/archive/2011/08/29/nuget-1-5-released.aspx/"
 ---

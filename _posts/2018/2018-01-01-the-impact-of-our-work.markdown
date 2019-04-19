@@ -1,7 +1,7 @@
 ---
 title: "The Impact of our Work"
 description: "Don't forget to focus on the human aspect of our work. Especially the unintended impact our work may have on others and society."
-date: 2018-01-01 -0800
+date: 2018-01-01 -0800 9:00 AM
 tags: [personal,career]
 excerpt_image: https://user-images.githubusercontent.com/19977/34470329-01e954f4-eee4-11e7-9c3b-acea657e464f.png
 ---

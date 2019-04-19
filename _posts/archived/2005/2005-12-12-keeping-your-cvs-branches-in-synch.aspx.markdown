@@ -1,6 +1,6 @@
 ---
 title: Keeping Your CVS Branches In Synch
-date: 2005-12-12 -0800
+date: 2005-12-12 -0800 9:00 AM
 tags: [source-control]
 redirect_from: "/archive/2005/12/11/keeping-your-cvs-branches-in-synch.aspx/"
 ---

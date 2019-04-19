@@ -1,6 +1,6 @@
 ---
 title: Remote Desktop On A Non-Standard Port
-date: 2006-10-16 -0800
+date: 2006-10-16 -0800 9:00 AM
 tags: [tech,tools,tips]
 redirect_from: "/archive/2006/10/15/Remote_Desktop_On_A_NonStandard_Port.aspx/"
 ---

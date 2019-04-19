@@ -1,6 +1,6 @@
 ---
 title: Getting Real
-date: 2006-10-27 -0800
+date: 2006-10-27 -0800 9:00 AM
 tags: [books]
 redirect_from: "/archive/2006/10/26/Getting_Real.aspx/"
 ---

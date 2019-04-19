@@ -1,6 +1,6 @@
 ---
 title: Is Community Server Open Source?
-date: 2006-07-25 -0800
+date: 2006-07-25 -0800 9:00 AM
 tags: [oss,licensing]
 redirect_from: "/archive/2006/07/24/IsCommunityServerOpenSource.aspx/"
 ---

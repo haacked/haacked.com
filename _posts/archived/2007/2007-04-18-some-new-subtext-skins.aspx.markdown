@@ -1,6 +1,6 @@
 ---
 title: Some New Subtext Skins
-date: 2007-04-18 -0800
+date: 2007-04-18 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2007/04/17/some-new-subtext-skins.aspx/"
 ---

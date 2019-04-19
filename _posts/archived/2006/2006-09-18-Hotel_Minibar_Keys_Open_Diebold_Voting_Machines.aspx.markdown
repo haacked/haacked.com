@@ -1,6 +1,6 @@
 ---
 title: Hotel Minibar Keys Open Diebold Voting Machines
-date: 2006-09-18 -0800
+date: 2006-09-18 -0800 9:00 AM
 tags: [tech,politics]
 redirect_from: "/archive/2006/09/17/Hotel_Minibar_Keys_Open_Diebold_Voting_Machines.aspx/"
 ---

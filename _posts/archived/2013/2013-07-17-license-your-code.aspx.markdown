@@ -1,6 +1,6 @@
 ---
 title: License your code
-date: 2013-07-17 -0800
+date: 2013-07-17 -0800 9:00 AM
 tags: [oss,legal,licensing,copyright]
 redirect_from: "/archive/2013/07/16/license-your-code.aspx/"
 ---

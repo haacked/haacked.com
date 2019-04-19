@@ -1,6 +1,6 @@
 ---
 title: ASP.NET MVC Tabular Display Template
-date: 2010-05-05 -0800
+date: 2010-05-05 -0800 9:00 AM
 tags: [aspnetmvc,aspnet,code]
 redirect_from: "/archive/2010/05/04/asp-net-mvc-tabular-display-template.aspx/"
 ---

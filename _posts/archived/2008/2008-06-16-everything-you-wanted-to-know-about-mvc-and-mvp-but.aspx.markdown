@@ -1,6 +1,6 @@
 ---
 title: Everything You Wanted To Know About MVC and MVP But Were Afraid To Ask
-date: 2008-06-16 -0800
+date: 2008-06-16 -0800 9:00 AM
 tags: [aspnet,aspnetmvc,code,patterns]
 redirect_from: "/archive/2008/06/15/everything-you-wanted-to-know-about-mvc-and-mvp-but.aspx/"
 ---

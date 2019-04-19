@@ -1,6 +1,6 @@
 ---
 title: "How to review a merge commit"
-date: 2014-02-21 -0800
+date: 2014-02-21 -0800 9:00 AM
 tags: [git]
 excerpt_image: https://f.cloud.github.com/assets/19977/2239004/c8908f52-9c0c-11e3-855e-366c67a0abc9.jpg
 ---

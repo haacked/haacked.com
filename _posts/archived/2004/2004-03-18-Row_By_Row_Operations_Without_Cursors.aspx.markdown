@@ -1,6 +1,6 @@
 ---
 title: 'TIP: Row by Row operations without cursors'
-date: 2004-03-18 -0800
+date: 2004-03-18 -0800 9:00 AM
 tags: [code,sql]
 redirect_from: "/archive/2004/03/17/Row_By_Row_Operations_Without_Cursors.aspx/"
 ---

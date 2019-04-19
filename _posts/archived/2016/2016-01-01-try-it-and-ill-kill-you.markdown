@@ -1,6 +1,6 @@
 ---
 title: "Try it and I'll kill you"
-date: 2016-01-01 -0800
+date: 2016-01-01 -0800 9:00 AM
 tags: [personal]
 ---
 

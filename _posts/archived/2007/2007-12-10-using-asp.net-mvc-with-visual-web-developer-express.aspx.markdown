@@ -1,6 +1,6 @@
 ---
 title: Using ASP.NET MVC With Visual Web Developer Express
-date: 2007-12-10 -0800
+date: 2007-12-10 -0800 9:00 AM
 tags: [aspnet,code,aspnetmvc]
 redirect_from: "/archive/2007/12/09/using-asp.net-mvc-with-visual-web-developer-express.aspx/"
 ---

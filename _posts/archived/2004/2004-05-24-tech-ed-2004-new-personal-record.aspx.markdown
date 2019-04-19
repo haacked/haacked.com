@@ -1,6 +1,6 @@
 ---
 title: 'Tech-Ed 2004: New Personal Record'
-date: 2004-05-24 -0800
+date: 2004-05-24 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2004/05/23/tech-ed-2004-new-personal-record.aspx/"
 ---

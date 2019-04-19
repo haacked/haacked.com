@@ -1,6 +1,6 @@
 ---
 title: Rhino Mocks + Extension Methods + MVC == Crazy Delicious
-date: 2007-11-05 -0800
+date: 2007-11-05 -0800 9:00 AM
 tags: [aspnet,code,aspnetmvc,tdd]
 redirect_from: "/archive/2007/11/04/rhino-mocks-extension-methods-mvc-crazy-delicious.aspx/"
 ---

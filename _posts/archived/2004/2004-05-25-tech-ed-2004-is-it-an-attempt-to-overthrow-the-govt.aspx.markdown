@@ -1,6 +1,6 @@
 ---
 title: 'Tech-Ed 2004: Is it an attempt to overthrow the govt?'
-date: 2004-05-25 -0800
+date: 2004-05-25 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2004/05/24/tech-ed-2004-is-it-an-attempt-to-overthrow-the-govt.aspx/"
 ---

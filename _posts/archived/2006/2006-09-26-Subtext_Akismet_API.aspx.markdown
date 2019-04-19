@@ -1,6 +1,6 @@
 ---
 title: Subtext Akismet API
-date: 2006-09-26 -0800
+date: 2006-09-26 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2006/09/25/Subtext_Akismet_API.aspx/"
 ---

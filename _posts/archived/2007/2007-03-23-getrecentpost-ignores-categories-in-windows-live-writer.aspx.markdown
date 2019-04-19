@@ -1,6 +1,6 @@
 ---
 title: GetRecentPost Ignores Categories In Windows Live Writer
-date: 2007-03-23 -0800
+date: 2007-03-23 -0800 9:00 AM
 tags: [tools]
 redirect_from: "/archive/2007/03/22/getrecentpost-ignores-categories-in-windows-live-writer.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Concatenating Delimited Strings With Generic Delegates
-date: 2006-11-24 -0800
+date: 2006-11-24 -0800 9:00 AM
 tags: [tips,csharp]
 redirect_from:
   - "/archive/2006/11/23/concatenating_delimited_strings_with_generic_delegates.aspx/"

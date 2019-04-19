@@ -1,6 +1,6 @@
 ---
 title: And The Award To The Funniest Commenter On This Blog Goes To
-date: 2006-03-22 -0800
+date: 2006-03-22 -0800 9:00 AM
 tags: [meta,humor]
 redirect_from: "/archive/2006/03/21/AndTheAwardToTheFunniestCommenterOnThisBlogGoesTo.aspx/"
 ---

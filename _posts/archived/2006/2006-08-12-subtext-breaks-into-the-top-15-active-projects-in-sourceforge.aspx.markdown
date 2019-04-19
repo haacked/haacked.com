@@ -1,6 +1,6 @@
 ---
 title: Subtext Breaks Into The Top 15 Active Projects In SourceForge
-date: 2006-08-12 -0800
+date: 2006-08-12 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2006/08/11/subtext-breaks-into-the-top-15-active-projects-in-sourceforge.aspx/"
 ---

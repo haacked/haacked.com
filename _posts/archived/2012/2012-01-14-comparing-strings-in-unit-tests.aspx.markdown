@@ -1,6 +1,6 @@
 ---
 title: Comparing Strings in Unit Tests
-date: 2012-01-14 -0800
+date: 2012-01-14 -0800 9:00 AM
 tags: [tdd,code]
 redirect_from: "/archive/2012/01/13/comparing-strings-in-unit-tests.aspx/"
 ---

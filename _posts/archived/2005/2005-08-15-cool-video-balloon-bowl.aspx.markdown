@@ -1,6 +1,6 @@
 ---
 title: 'Cool Video: Balloon Bowl'
-date: 2005-08-15 -0800
+date: 2005-08-15 -0800 9:00 AM
 tags: [interesting]
 redirect_from: "/archive/2005/08/14/cool-video-balloon-bowl.aspx/"
 ---

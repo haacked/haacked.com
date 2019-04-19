@@ -1,6 +1,6 @@
 ---
 title: Haacked.com Is Back Online
-date: 2005-05-08 -0800
+date: 2005-05-08 -0800 9:00 AM
 tags: [blogging,subtext,sql]
 redirect_from:
   - "/archive/2005/05/07/haackedcom-is-back-online.aspx/"

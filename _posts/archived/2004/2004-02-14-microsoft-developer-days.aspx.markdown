@@ -1,6 +1,6 @@
 ---
 title: Microsoft Dev Days
-date: 2004-02-14 -0800
+date: 2004-02-14 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2004/02/13/microsoft-developer-days.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Yahoo, Please Make RSS Better For My Friend Walter
-date: 2004-06-28 -0800
+date: 2004-06-28 -0800 9:00 AM
 tags: [rss]
 redirect_from: "/archive/2004/06/27/yahoo-please-make-rss-better-for-my-friend-walter.aspx/"
 ---

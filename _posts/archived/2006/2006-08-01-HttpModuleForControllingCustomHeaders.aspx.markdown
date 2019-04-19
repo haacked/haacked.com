@@ -1,6 +1,6 @@
 ---
 title: HttpModule For Controlling Custom Headers
-date: 2006-08-01 -0800
+date: 2006-08-01 -0800 9:00 AM
 tags: [aspnet]
 redirect_from: "/archive/2006/07/31/HttpModuleForControllingCustomHeaders.aspx/"
 ---

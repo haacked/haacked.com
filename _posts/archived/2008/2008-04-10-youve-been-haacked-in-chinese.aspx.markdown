@@ -1,6 +1,6 @@
 ---
 title: You've Been Haacked In Chinese
-date: 2008-04-10 -0800
+date: 2008-04-10 -0800 9:00 AM
 tags: [blogging,personal]
 redirect_from: "/archive/2008/04/09/youve-been-haacked-in-chinese.aspx/"
 ---

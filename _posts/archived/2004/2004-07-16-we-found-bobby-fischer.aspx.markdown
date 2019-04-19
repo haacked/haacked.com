@@ -1,6 +1,6 @@
 ---
 title: We Found Bobby Fischer!
-date: 2004-07-16 -0800
+date: 2004-07-16 -0800 9:00 AM
 tags: [news]
 redirect_from: "/archive/2004/07/15/we-found-bobby-fischer.aspx/"
 ---

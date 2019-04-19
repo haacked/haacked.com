@@ -1,6 +1,6 @@
 ---
 title: This Could Remove All The Fun From When A Coworker Leaves Her Computer Unlocked
-date: 2005-08-15 -0800
+date: 2005-08-15 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2005/08/14/this-could-remove-all-the-fun-from-when-a-coworker-leaves-her-computer-unlocked.aspx/"
 ---

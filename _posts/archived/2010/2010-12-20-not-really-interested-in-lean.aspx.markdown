@@ -1,6 +1,6 @@
 ---
 title: Not Really Interested In Lean
-date: 2010-12-20 -0800
+date: 2010-12-20 -0800 9:00 AM
 tags: [code,nuget]
 redirect_from: "/archive/2010/12/19/not-really-interested-in-lean.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Optical Character Recognition On The Cheap
-date: 2006-10-02 -0800
+date: 2006-10-02 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2006/10/01/Optical_Character_Recognition_On_The_Cheap.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: If You Cut A Mort, Does He Not Bleed?
-date: 2006-03-16 -0800
+date: 2006-03-16 -0800 9:00 AM
 tags: [developers,commentary]
 redirect_from: "/archive/2006/03/15/IfYouCutAMort,DoesHeNotBleed.aspx/"
 ---

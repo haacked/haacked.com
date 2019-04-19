@@ -1,6 +1,6 @@
 ---
 title: Web Based IM with Meebo
-date: 2006-01-12 -0800
+date: 2006-01-12 -0800 9:00 AM
 tags: [tools]
 redirect_from: "/archive/2006/01/11/WebBasedIMwithMeebo.aspx/"
 ---

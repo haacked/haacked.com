@@ -1,6 +1,6 @@
 ---
 title: Going Into Design Debt
-date: 2005-09-24 -0800
+date: 2005-09-24 -0800 9:00 AM
 tags: [design,software,patterns,refactoring]
 redirect_from: "/archive/2005/09/23/GoingIntoDesignDebt.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Congratulations Kyle and Cara!
-date: 2004-08-29 -0800
+date: 2004-08-29 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2004/08/28/congratulations-kyle-and-cara.aspx/"
 ---

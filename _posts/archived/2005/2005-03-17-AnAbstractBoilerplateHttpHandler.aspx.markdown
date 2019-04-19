@@ -1,6 +1,6 @@
 ---
 title: An Abstract Boilerplate HttpHandler
-date: 2005-03-17 -0800
+date: 2005-03-17 -0800 9:00 AM
 tags: [code,dotnet]
 redirect_from:
   - "/archive/2005/03/16/AnAbstractBoilerplateHttpHandler.aspx/"

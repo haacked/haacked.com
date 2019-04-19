@@ -1,6 +1,6 @@
 ---
 title: Adding Web User Control To A Class Library In VS.NET 2005
-date: 2006-02-07 -0800
+date: 2006-02-07 -0800 9:00 AM
 tags: [visualstudio]
 redirect_from: "/archive/2006/02/06/AddingWebUserControlToAClassLibraryInVS.NET2005.aspx/"
 ---

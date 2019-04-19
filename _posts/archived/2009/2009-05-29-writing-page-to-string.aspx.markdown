@@ -1,6 +1,6 @@
 ---
 title: Writing A Page To A String
-date: 2009-05-29 -0800
+date: 2009-05-29 -0800 9:00 AM
 tags: [aspnetmvc]
 redirect_from: "/archive/2009/05/28/writing-page-to-string.aspx/"
 ---

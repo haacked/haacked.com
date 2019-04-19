@@ -1,6 +1,6 @@
 ---
 title: VS.NET Add-In For Source Code Formatting as HTML
-date: 2004-10-13 -0800
+date: 2004-10-13 -0800 9:00 AM
 tags: [tools]
 redirect_from: "/archive/2004/10/12/vsnet-add-in-for-source-code-formatting-as-html.aspx/"
 ---

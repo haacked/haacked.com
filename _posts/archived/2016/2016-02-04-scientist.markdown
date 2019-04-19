@@ -1,6 +1,6 @@
 ---
 title: "A .NET port of Scientist"
-date: 2016-01-20 -0800
+date: 2016-01-20 -0800 9:00 AM
 tags: [github,csharp,dotnet,scientist]
 excerpt_image: https://cloud.githubusercontent.com/assets/19977/12812812/0e75502c-cae9-11e5-9965-2cf7cf99adfd.jpg
 ---

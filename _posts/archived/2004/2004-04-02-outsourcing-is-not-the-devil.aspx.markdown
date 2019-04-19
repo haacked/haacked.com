@@ -1,6 +1,6 @@
 ---
 title: Outsourcing is not the Devil
-date: 2004-04-02 -0800
+date: 2004-04-02 -0800 9:00 AM
 tags: [politics]
 redirect_from: "/archive/2004/04/01/outsourcing-is-not-the-devil.aspx/"
 ---

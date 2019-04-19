@@ -1,6 +1,6 @@
 ---
 title: How a Website Can Track Your Movements
-date: 2005-01-03 -0800
+date: 2005-01-03 -0800 9:00 AM
 tags: [privacy]
 redirect_from: "/archive/2005/01/02/how-a-website-can-track-your-movements.aspx/"
 ---

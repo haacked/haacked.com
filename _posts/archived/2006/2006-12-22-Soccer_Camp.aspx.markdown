@@ -1,6 +1,6 @@
 ---
 title: Soccer Camp
-date: 2006-12-22 -0800
+date: 2006-12-22 -0800 9:00 AM
 tags: [personal,soccer]
 redirect_from: "/archive/2006/12/21/Soccer_Camp.aspx/"
 ---

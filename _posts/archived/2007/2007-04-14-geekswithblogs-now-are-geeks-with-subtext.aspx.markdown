@@ -1,6 +1,6 @@
 ---
 title: GeeksWithBlogs Now Are Geeks With Subtext
-date: 2007-04-14 -0800
+date: 2007-04-14 -0800 9:00 AM
 tags: [subtext,blogging]
 redirect_from: "/archive/2007/04/13/geekswithblogs-now-are-geeks-with-subtext.aspx/"
 ---

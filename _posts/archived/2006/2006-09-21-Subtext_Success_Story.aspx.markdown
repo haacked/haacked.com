@@ -1,6 +1,6 @@
 ---
 title: Subtext Success Story
-date: 2006-09-21 -0800
+date: 2006-09-21 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2006/09/20/Subtext_Success_Story.aspx/"
 ---

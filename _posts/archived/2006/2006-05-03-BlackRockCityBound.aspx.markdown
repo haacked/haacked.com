@@ -1,6 +1,6 @@
 ---
 title: Black Rock City Bound
-date: 2006-05-03 -0800
+date: 2006-05-03 -0800 9:00 AM
 tags: [burningman]
 redirect_from: "/archive/2006/05/02/BlackRockCityBound.aspx/"
 ---

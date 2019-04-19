@@ -1,6 +1,6 @@
 ---
 title: T4 Templates in ASP.NET MVC
-date: 2009-01-31 -0800
+date: 2009-01-31 -0800 9:00 AM
 tags: [aspnet,aspnetmvc]
 redirect_from: "/archive/2009/01/30/t4-templates-in-asp.net-mvc.aspx/"
 ---

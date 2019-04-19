@@ -1,6 +1,6 @@
 ---
 title: Thread Naming and Asynchronous Method Calls
-date: 2004-06-07 -0800
+date: 2004-06-07 -0800 9:00 AM
 tags: [dotnet,code,concurrency]
 redirect_from: "/archive/2004/06/06/thread-naming-and-asynchronous-method-calls.aspx/"
 ---

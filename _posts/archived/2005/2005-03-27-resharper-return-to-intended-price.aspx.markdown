@@ -1,6 +1,6 @@
 ---
 title: ReSharper Return to Intended Price
-date: 2005-03-27 -0800
+date: 2005-03-27 -0800 9:00 AM
 tags: [tools]
 redirect_from: "/archive/2005/03/26/resharper-return-to-intended-price.aspx/"
 ---

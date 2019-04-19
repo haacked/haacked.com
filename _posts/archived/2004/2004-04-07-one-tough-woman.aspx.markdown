@@ -1,6 +1,6 @@
 ---
 title: One Tough woman!
-date: 2004-04-07 -0800
+date: 2004-04-07 -0800 9:00 AM
 tags: [news]
 redirect_from: "/archive/2004/04/06/one-tough-woman.aspx/"
 ---

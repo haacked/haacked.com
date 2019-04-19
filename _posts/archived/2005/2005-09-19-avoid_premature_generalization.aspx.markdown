@@ -1,6 +1,6 @@
 ---
 title: Avoid Premature Generalization
-date: 2005-09-19 -0800
+date: 2005-09-19 -0800 9:00 AM
 tags: [code,software]
 redirect_from: "/archive/2005/09/18/avoid_premature_generalization.aspx/"
 ---

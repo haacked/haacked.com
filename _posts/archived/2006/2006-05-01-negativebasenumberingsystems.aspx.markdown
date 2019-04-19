@@ -1,6 +1,6 @@
 ---
 title: Negative Base Numbering Systems
-date: 2006-05-01 -0800
+date: 2006-05-01 -0800 9:00 AM
 tags: [math]
 redirect_from: "/archive/2006/04/30/negativebasenumberingsystems.aspx/"
 ---

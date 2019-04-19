@@ -1,6 +1,6 @@
 ---
 title: Mathematics Presentation and Lectures at Burning Man
-date: 2005-08-28 -0800
+date: 2005-08-28 -0800 9:00 AM
 tags: [burningman]
 redirect_from: "/archive/2005/08/27/mathematics-presentation-and-lectures-at-burning-man.aspx/"
 ---

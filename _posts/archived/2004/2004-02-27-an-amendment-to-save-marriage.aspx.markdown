@@ -1,6 +1,6 @@
 ---
 title: An Amendment To Save Marriages
-date: 2004-02-27 -0800
+date: 2004-02-27 -0800 9:00 AM
 tags: [politics]
 redirect_from: "/archive/2004/02/26/an-amendment-to-save-marriage.aspx/"
 ---

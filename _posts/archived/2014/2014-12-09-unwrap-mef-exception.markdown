@@ -1,6 +1,6 @@
 ---
 title: "Unwrap MEF composition exceptions"
-date: 2014-12-09 -0800
+date: 2014-12-09 -0800 9:00 AM
 tags: [csharp]
 ---
 

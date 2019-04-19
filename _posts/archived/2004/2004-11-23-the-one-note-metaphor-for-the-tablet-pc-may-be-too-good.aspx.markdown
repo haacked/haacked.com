@@ -1,6 +1,6 @@
 ---
 title: The One Note Metaphor for the Tablet PC May Be Too Good
-date: 2004-11-23 -0800
+date: 2004-11-23 -0800 9:00 AM
 tags: [personal,ergonomics]
 redirect_from: "/archive/2004/11/22/the-one-note-metaphor-for-the-tablet-pc-may-be-too-good.aspx/"
 ---

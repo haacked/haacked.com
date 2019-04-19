@@ -1,6 +1,6 @@
 ---
 title: The Rush Of Basketball
-date: 2004-07-07 -0800
+date: 2004-07-07 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2004/07/06/the-rush-of-basketball.aspx/"
 ---

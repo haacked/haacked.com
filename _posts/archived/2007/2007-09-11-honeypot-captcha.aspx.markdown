@@ -1,6 +1,6 @@
 ---
 title: Honeypot Captcha
-date: 2007-09-11 -0800
+date: 2007-09-11 -0800 9:00 AM
 tags: [spam,captcha,blogging]
 redirect_from: "/archive/2007/09/10/honeypot-captcha.aspx/"
 ---

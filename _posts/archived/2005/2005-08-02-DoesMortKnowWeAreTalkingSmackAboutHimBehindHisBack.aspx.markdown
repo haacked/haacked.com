@@ -1,6 +1,6 @@
 ---
 title: Does Mort Know We're Talking Smack About Him Behind His Back?
-date: 2005-08-02 -0800
+date: 2005-08-02 -0800 9:00 AM
 tags: [culture,developers,commentary]
 redirect_from: "/archive/2005/08/01/DoesMortKnowWeAreTalkingSmackAboutHimBehindHisBack.aspx/"
 ---

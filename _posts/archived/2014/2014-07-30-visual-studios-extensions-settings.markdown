@@ -1,6 +1,6 @@
 ---
 title: "Settings for your Visual Studio Extension"
-date: 2014-07-30 -0800
+date: 2014-07-30 -0800 9:00 AM
 tags: [visualstudio,vsix,encouragement]
 ---
 

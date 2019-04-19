@@ -1,6 +1,6 @@
 ---
 title: Bin Deploying ASP.NET MVC
-date: 2008-11-03 -0800
+date: 2008-11-03 -0800 9:00 AM
 tags: [aspnetmvc,aspnet]
 redirect_from: "/archive/2008/11/02/bin-deploy-aspnetmvc.aspx/"
 ---

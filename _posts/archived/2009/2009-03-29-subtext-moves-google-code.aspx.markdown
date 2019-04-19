@@ -1,6 +1,6 @@
 ---
 title: Subtext Is On The Move
-date: 2009-03-29 -0800
+date: 2009-03-29 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2009/03/28/subtext-moves-google-code.aspx/"
 ---

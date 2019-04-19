@@ -1,6 +1,6 @@
 ---
 title: RatingAPI Revisited
-date: 2004-04-23 -0800
+date: 2004-04-23 -0800 9:00 AM
 tags: [rss]
 redirect_from: "/archive/2004/04/22/ratingapi-revisited.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: How Rich Are You?
-date: 2004-11-02 -0800
+date: 2004-11-02 -0800 9:00 AM
 tags: [interesting]
 redirect_from: "/archive/2004/11/01/how-rich-are-you.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Weekend Update
-date: 2005-08-21 -0800
+date: 2005-08-21 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2005/08/20/weekend-update-Aug-2005.aspx/"
 ---

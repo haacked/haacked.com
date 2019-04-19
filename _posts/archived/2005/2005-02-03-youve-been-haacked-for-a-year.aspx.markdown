@@ -1,6 +1,6 @@
 ---
 title: You've Been Haacked For a Year
-date: 2005-02-03 -0800
+date: 2005-02-03 -0800 9:00 AM
 tags: [meta]
 redirect_from: "/archive/2005/02/02/youve-been-haacked-for-a-year.aspx/"
 ---

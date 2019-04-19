@@ -1,6 +1,6 @@
 ---
 title: Get A Free Copy Of Our New Book
-date: 2007-10-04 -0800
+date: 2007-10-04 -0800 9:00 AM
 tags: [books,aspnet]
 redirect_from: "/archive/2007/10/03/get-a-free-copy-of-our-new-book.aspx/"
 ---

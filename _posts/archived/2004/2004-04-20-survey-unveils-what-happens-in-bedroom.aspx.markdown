@@ -1,6 +1,6 @@
 ---
 title: Survey Unveils What Happens in Bedroom
-date: 2004-04-20 -0800
+date: 2004-04-20 -0800 9:00 AM
 tags: [news]
 redirect_from: "/archive/2004/04/19/survey-unveils-what-happens-in-bedroom.aspx/"
 ---

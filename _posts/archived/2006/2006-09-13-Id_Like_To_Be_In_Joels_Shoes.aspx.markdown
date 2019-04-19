@@ -1,6 +1,6 @@
 ---
 title: I'd Like To Be In Joel's Shoes
-date: 2006-09-13 -0800
+date: 2006-09-13 -0800 9:00 AM
 tags: [commentary]
 redirect_from: "/archive/2006/09/12/Id_Like_To_Be_In_Joels_Shoes.aspx/"
 ---

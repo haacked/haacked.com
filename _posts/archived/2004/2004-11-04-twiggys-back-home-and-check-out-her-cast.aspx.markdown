@@ -1,6 +1,6 @@
 ---
 title: Twiggy's Back Home and Check Out Her Cast
-date: 2004-11-04 -0800
+date: 2004-11-04 -0800 9:00 AM
 tags: [personal,twiggy]
 redirect_from: "/archive/2004/11/03/twiggys-back-home-and-check-out-her-cast.aspx/"
 ---

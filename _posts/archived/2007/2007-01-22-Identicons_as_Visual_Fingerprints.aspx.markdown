@@ -1,6 +1,6 @@
 ---
 title: Identicons as Graphical Digital Fingerprints
-date: 2007-01-22 -0800
+date: 2007-01-22 -0800 9:00 AM
 tags: [tech,code]
 redirect_from:
 - "/archive/2007/01/20/Identicons_as_Visual_Fingerprints.aspx/"

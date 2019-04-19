@@ -1,6 +1,6 @@
 ---
 title: "GitHub Secrets Talk"
-date: 2014-04-03 -0800
+date: 2014-04-03 -0800 9:00 AM
 tags: [conferences,github]
 ---
 

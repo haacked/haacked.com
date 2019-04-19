@@ -1,6 +1,6 @@
 ---
 title: Added A Privacy Policy
-date: 2004-09-01 -0800
+date: 2004-09-01 -0800 9:00 AM
 tags: [meta,privacy]
 redirect_from: "/archive/2004/08/31/added-a-privacy-policy.aspx/"
 ---

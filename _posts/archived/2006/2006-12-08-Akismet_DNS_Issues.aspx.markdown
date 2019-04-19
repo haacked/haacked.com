@@ -1,6 +1,6 @@
 ---
 title: Akismet DNS Issues
-date: 2006-12-08 -0800
+date: 2006-12-08 -0800 9:00 AM
 tags: [tools]
 redirect_from: "/archive/2006/12/07/Akismet_DNS_Issues.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: TestNG - It's like NUnit, But in Java
-date: 2005-03-28 -0800
+date: 2005-03-28 -0800 9:00 AM
 tags: [tools]
 redirect_from: "/archive/2005/03/27/testng--its-like-nunit-but-in-java.aspx/"
 ---

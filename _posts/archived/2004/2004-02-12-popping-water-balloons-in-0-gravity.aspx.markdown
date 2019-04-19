@@ -1,6 +1,6 @@
 ---
 title: Popping water balloons in 0 gravity
-date: 2004-02-12 -0800
+date: 2004-02-12 -0800 9:00 AM
 tags: [science]
 redirect_from: "/archive/2004/02/11/popping-water-balloons-in-0-gravity.aspx/"
 ---

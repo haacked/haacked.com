@@ -1,6 +1,6 @@
 ---
 title: Boyfriend Arm Pillow
-date: 2004-09-30 -0800
+date: 2004-09-30 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2004/09/29/boyfriend-arm-pillow.aspx/"
 ---

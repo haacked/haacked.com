@@ -1,6 +1,6 @@
 ---
 title: Does Holding A Delegate Reference Keep The Owning Object Alive?
-date: 2004-07-06 -0800
+date: 2004-07-06 -0800 9:00 AM
 tags: [dotnet]
 redirect_from: "/archive/2004/07/05/does-holding-a-delegate-reference-keep-the-owning-object-alive.aspx/"
 ---

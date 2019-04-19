@@ -1,6 +1,6 @@
 ---
 title: New NuGet.org Deployed!
-date: 2011-12-05 -0800
+date: 2011-12-05 -0800 9:00 AM
 tags: [nuget,code]
 redirect_from: "/archive/2011/12/04/nuget_org_update.aspx/"
 ---

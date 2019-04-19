@@ -1,6 +1,6 @@
 ---
 title: Row based testing in MbUnit (i.e. RowTest)
-date: 2004-10-20 -0800
+date: 2004-10-20 -0800 9:00 AM
 tags: [code,tdd]
 redirect_from: "/archive/2004/10/19/row_based_testing.aspx/"
 ---

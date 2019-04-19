@@ -1,6 +1,6 @@
 ---
 title: What Do You Do If You Find A Wallet?
-date: 2006-10-26 -0800
+date: 2006-10-26 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2006/10/25/What_Do_You_Do_If_You_Find_A_Wallet.aspx/"
 ---

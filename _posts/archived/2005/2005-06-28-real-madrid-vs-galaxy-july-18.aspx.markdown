@@ -1,6 +1,6 @@
 ---
 title: Real Madrid vs Galaxy, July 18
-date: 2005-06-28 -0800
+date: 2005-06-28 -0800 9:00 AM
 tags: [soccer,personal]
 redirect_from: "/archive/2005/06/27/real-madrid-vs-galaxy-july-18.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Yeahronimo Releases a Commodore Tablet PC
-date: 2005-04-01 -0800
+date: 2005-04-01 -0800 9:00 AM
 tags: [gadgets]
 redirect_from: "/archive/2005/03/31/yeahronimo-releases-a-commodore-tablet-pc.aspx/"
 ---

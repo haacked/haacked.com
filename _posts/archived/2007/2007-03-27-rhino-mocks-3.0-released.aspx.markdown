@@ -1,6 +1,6 @@
 ---
 title: Rhino Mocks 3.0 Released!
-date: 2007-03-27 -0800
+date: 2007-03-27 -0800 9:00 AM
 tags: [code,tdd,oss,tech]
 redirect_from: "/archive/2007/03/26/rhino-mocks-3.0-released.aspx/"
 ---

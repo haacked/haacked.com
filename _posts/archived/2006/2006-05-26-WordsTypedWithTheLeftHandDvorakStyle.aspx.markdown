@@ -1,6 +1,6 @@
 ---
 title: Words Typed With The Left Hand - Dvorak Style
-date: 2006-05-26 -0800
+date: 2006-05-26 -0800 9:00 AM
 tags: [dvorak]
 redirect_from: "/archive/2006/05/25/WordsTypedWithTheLeftHandDvorakStyle.aspx/"
 ---

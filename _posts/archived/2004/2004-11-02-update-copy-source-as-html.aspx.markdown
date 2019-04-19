@@ -1,6 +1,6 @@
 ---
 title: 'UPDATE: Copy Source As HTML'
-date: 2004-11-02 -0800
+date: 2004-11-02 -0800 9:00 AM
 tags: [tools]
 redirect_from: "/archive/2004/11/01/update-copy-source-as-html.aspx/"
 ---

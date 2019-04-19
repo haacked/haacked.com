@@ -1,6 +1,6 @@
 ---
 title: ReSharper 1.5 Released!  Includes New Refactorings
-date: 2005-02-28 -0800
+date: 2005-02-28 -0800 9:00 AM
 tags: [tools,refactoring]
 redirect_from: "/archive/2005/02/27/resharper-15-released-includes-new-refactorings.aspx/"
 ---

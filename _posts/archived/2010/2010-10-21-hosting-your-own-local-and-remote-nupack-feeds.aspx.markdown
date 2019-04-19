@@ -1,6 +1,6 @@
 ---
 title: Hosting Your Own Local and Remote NuGet Feeds
-date: 2010-10-21 -0800
+date: 2010-10-21 -0800 9:00 AM
 tags: [nuget,code,oss]
 redirect_from: "/archive/2010/10/20/hosting-your-own-local-and-remote-nupack-feeds.aspx/"
 ---

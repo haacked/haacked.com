@@ -1,6 +1,6 @@
 ---
 title: 007 Uses RSS Bandit
-date: 2004-09-09 -0800
+date: 2004-09-09 -0800 9:00 AM
 tags: [rss]
 redirect_from: "/archive/2004/09/08/007-uses-rss-bandit.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Revenge Of The Frogs
-date: 2004-09-16 -0800
+date: 2004-09-16 -0800 9:00 AM
 tags: [news,humor]
 redirect_from: "/archive/2004/09/15/revenge-of-the-frogs.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: It's a Love Fest At The WWW Creator's Blog
-date: 2005-12-16 -0800
+date: 2005-12-16 -0800 9:00 AM
 tags: [web]
 redirect_from: "/archive/2005/12/15/its-a-love-fest-at-the-www-creators-blog.aspx/"
 ---

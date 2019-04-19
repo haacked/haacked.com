@@ -1,6 +1,6 @@
 ---
 title: We're Going Camping!
-date: 2004-06-10 -0800
+date: 2004-06-10 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2004/06/09/were-going-camping.aspx/"
 ---

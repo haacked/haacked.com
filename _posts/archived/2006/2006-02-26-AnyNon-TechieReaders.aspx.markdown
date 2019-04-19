@@ -1,6 +1,6 @@
 ---
 title: Any Non-Techie Readers?
-date: 2006-02-26 -0800
+date: 2006-02-26 -0800 9:00 AM
 tags: [meta]
 redirect_from: "/archive/2006/02/25/AnyNon-TechieReaders.aspx/"
 ---

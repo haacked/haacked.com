@@ -1,6 +1,6 @@
 ---
 title: Happy 27th Birthday Dare!
-date: 2005-05-12 -0800
+date: 2005-05-12 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2005/05/11/happy-27th-birthday-dare.aspx/"
 ---

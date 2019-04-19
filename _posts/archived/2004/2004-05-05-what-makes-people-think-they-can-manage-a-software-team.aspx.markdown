@@ -1,6 +1,6 @@
 ---
 title: What makes people think they can manage a software team?
-date: 2004-05-05 -0800
+date: 2004-05-05 -0800 9:00 AM
 tags: [software]
 redirect_from: "/archive/2004/05/04/what-makes-people-think-they-can-manage-a-software-team.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Donut Hole Caching in ASP.NET MVC
-date: 2009-05-12 -0800
+date: 2009-05-12 -0800 9:00 AM
 tags: [aspnetmvc,caching]
 redirect_from: "/archive/2009/05/11/donut-hole-caching.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: IM Is Not Safe!  Spread The Word
-date: 2004-09-30 -0800
+date: 2004-09-30 -0800 9:00 AM
 tags: [security]
 redirect_from: "/archive/2004/09/29/im-is-not-safe-spread-the-word.aspx/"
 ---

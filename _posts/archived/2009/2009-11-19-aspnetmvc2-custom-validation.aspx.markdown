@@ -1,6 +1,6 @@
 ---
 title: ASP.NET MVC 2 Custom Validation
-date: 2009-11-19 -0800
+date: 2009-11-19 -0800 9:00 AM
 tags: [aspnetmvc,validation]
 redirect_from: "/archive/2009/11/18/aspnetmvc2-custom-validation.aspx/"
 ---

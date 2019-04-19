@@ -1,6 +1,6 @@
 ---
 title: Gotta have it!  Commodore 64 in a Joystick
-date: 2004-05-13 -0800
+date: 2004-05-13 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2004/05/12/gotta-have-it-commodore-64-in-a-joystick.aspx/"
 ---

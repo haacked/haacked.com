@@ -1,6 +1,6 @@
 ---
 title: "[Mix06] Very Late Roundup"
-date: 2006-03-25 -0800
+date: 2006-03-25 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2006/03/24/Mix06VeryLateRoundup.aspx/"
 ---

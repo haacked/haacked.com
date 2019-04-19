@@ -1,6 +1,6 @@
 ---
 title: Coder&#8217;s Block
-date: 2005-06-02 -0800
+date: 2005-06-02 -0800 9:00 AM
 tags: [humor,personal]
 redirect_from: "/archive/2005/06/01/coders-block.aspx/"
 ---

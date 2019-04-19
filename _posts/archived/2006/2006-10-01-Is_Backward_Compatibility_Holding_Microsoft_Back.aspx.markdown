@@ -1,6 +1,6 @@
 ---
 title: Is Backward Compatibility Holding Microsoft Back
-date: 2006-10-01 -0800
+date: 2006-10-01 -0800 9:00 AM
 tags: [versioning,microsoft]
 redirect_from: "/archive/2006/09/30/Is_Backward_Compatibility_Holding_Microsoft_Back.aspx/"
 ---

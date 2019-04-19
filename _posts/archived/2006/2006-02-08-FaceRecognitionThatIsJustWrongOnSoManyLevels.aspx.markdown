@@ -1,6 +1,6 @@
 ---
 title: Face Recognition That Is Just Wrong On So Many Levels
-date: 2006-02-08 -0800
+date: 2006-02-08 -0800 9:00 AM
 tags: [tech,humor]
 redirect_from: "/archive/2006/02/07/FaceRecognitionThatIsJustWrongOnSoManyLevels.aspx/"
 ---

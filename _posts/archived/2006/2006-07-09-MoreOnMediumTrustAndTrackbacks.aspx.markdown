@@ -1,6 +1,6 @@
 ---
 title: More On Medium Trust and Trackbacks
-date: 2006-07-09 -0800
+date: 2006-07-09 -0800 9:00 AM
 tags: [aspnet,security]
 redirect_from: "/archive/2006/07/08/MoreOnMediumTrustAndTrackbacks.aspx/"
 ---

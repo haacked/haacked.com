@@ -1,6 +1,6 @@
 ---
 title: Lunch
-date: 2004-02-24 -0800
+date: 2004-02-24 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2004/02/23/lunch-at-manpuku.aspx/"
 ---

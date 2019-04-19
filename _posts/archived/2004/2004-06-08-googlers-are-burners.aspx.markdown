@@ -1,6 +1,6 @@
 ---
 title: Googlers are Burners
-date: 2004-06-08 -0800
+date: 2004-06-08 -0800 9:00 AM
 tags: [burningman]
 redirect_from: "/archive/2004/06/07/googlers-are-burners.aspx/"
 ---

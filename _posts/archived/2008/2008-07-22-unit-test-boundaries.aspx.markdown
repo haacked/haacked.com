@@ -1,6 +1,6 @@
 ---
 title: Unit Test Boundaries
-date: 2008-07-22 -0800
+date: 2008-07-22 -0800 9:00 AM
 tags: [tdd]
 redirect_from: "/archive/2008/07/21/unit-test-boundaries.aspx/"
 ---

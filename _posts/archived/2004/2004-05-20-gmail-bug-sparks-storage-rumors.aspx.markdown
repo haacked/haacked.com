@@ -1,6 +1,6 @@
 ---
 title: Gmail Bug Sparks Storage Rumors
-date: 2004-05-20 -0800
+date: 2004-05-20 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2004/05/19/gmail-bug-sparks-storage-rumors.aspx/"
 ---

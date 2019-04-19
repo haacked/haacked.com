@@ -1,6 +1,6 @@
 ---
 title: ASP.NET MVC 1.0 Released!
-date: 2009-03-18 -0800
+date: 2009-03-18 -0800 9:00 AM
 tags: [aspnetmvc]
 redirect_from: "/archive/2009/03/17/aspnet-mvc-rtw.aspx/"
 ---

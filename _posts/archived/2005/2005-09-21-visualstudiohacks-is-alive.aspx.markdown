@@ -1,6 +1,6 @@
 ---
 title: VisualStudioHacks is alive...
-date: 2005-09-21 -0800
+date: 2005-09-21 -0800 9:00 AM
 tags: [books]
 redirect_from: "/archive/2005/09/20/visualstudiohacks-is-alive.aspx/"
 ---

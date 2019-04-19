@@ -1,6 +1,6 @@
 ---
 title: Code Sample Taxonomy
-date: 2009-04-16 -0800
+date: 2009-04-16 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2009/04/15/code-sample-taxonomy.aspx/"
 ---

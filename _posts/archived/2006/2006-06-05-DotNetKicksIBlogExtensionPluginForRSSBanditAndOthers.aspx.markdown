@@ -1,6 +1,6 @@
 ---
 title: DotNetKicks IBlogExtension Plugin For RSS Bandit (And Others)
-date: 2006-06-05 -0800
+date: 2006-06-05 -0800 9:00 AM
 tags: [oss,blogging]
 redirect_from: "/archive/2006/06/04/DotNetKicksIBlogExtensionPluginForRSSBanditAndOthers.aspx/"
 ---

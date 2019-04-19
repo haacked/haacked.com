@@ -1,7 +1,7 @@
 ---
 title: Why Must The &quot;Reply To All&quot; Button Be Right Next To The &quot;Reply&quot;
   Button?
-date: 2005-01-27 -0800
+date: 2005-01-27 -0800 9:00 AM
 tags: [personal,work]
 redirect_from: "/archive/2005/01/26/why-must-the-reply-to-all-button-be-right-next-to-the-reply-button.aspx/"
 ---

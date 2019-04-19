@@ -1,6 +1,6 @@
 ---
 title: Sidelined by injury and illness
-date: 2004-02-10 -0800
+date: 2004-02-10 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2004/02/09/sidlined-by-injury-and-illness.aspx/"
 ---

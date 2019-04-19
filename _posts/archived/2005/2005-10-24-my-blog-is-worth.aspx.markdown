@@ -1,6 +1,6 @@
 ---
 title: My Blog Is Worth...
-date: 2005-10-24 -0800
+date: 2005-10-24 -0800 9:00 AM
 tags: [meta]
 redirect_from: "/archive/2005/10/23/my-blog-is-worth.aspx/"
 ---

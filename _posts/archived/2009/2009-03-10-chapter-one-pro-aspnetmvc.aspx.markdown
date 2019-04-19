@@ -1,6 +1,6 @@
 ---
 title: Learn About ASP.NET MVC Via NerdDinner
-date: 2009-03-10 -0800
+date: 2009-03-10 -0800 9:00 AM
 tags: [code,aspnetmvc]
 redirect_from: "/archive/2009/03/09/chapter-one-pro-aspnetmvc.aspx/"
 ---

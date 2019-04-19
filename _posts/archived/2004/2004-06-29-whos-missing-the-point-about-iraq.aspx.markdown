@@ -1,6 +1,6 @@
 ---
 title: Who's Missing The Point About Iraq?
-date: 2004-06-29 -0800
+date: 2004-06-29 -0800 9:00 AM
 tags: [politics]
 redirect_from: "/archive/2004/06/28/whos-missing-the-point-about-iraq.aspx/"
 ---

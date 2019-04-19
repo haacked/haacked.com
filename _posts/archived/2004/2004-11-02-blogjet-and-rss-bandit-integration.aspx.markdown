@@ -1,6 +1,6 @@
 ---
 title: BlogJet and RSS Bandit integration
-date: 2004-11-02 -0800
+date: 2004-11-02 -0800 9:00 AM
 tags: [rss]
 redirect_from: "/archive/2004/11/01/blogjet-and-rss-bandit-integration.aspx/"
 ---

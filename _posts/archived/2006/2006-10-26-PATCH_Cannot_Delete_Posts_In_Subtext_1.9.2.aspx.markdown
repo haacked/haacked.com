@@ -1,6 +1,6 @@
 ---
 title: 'PATCH: Cannot Delete Posts In Subtext 1.9.2'
-date: 2006-10-26 -0800
+date: 2006-10-26 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2006/10/25/PATCH_Cannot_Delete_Posts_In_Subtext_1.9.2.aspx/"
 ---

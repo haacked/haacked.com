@@ -1,6 +1,6 @@
 ---
 title: Atlas Comment Spam Heuristics
-date: 2006-09-19 -0800
+date: 2006-09-19 -0800 9:00 AM
 tags: [spam]
 redirect_from: "/archive/2006/09/18/Atlas_Comment_Spam_Heuristics.aspx/"
 ---

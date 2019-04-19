@@ -1,6 +1,6 @@
 ---
 title: When Soccer Players Attack ... me
-date: 2004-05-12 -0800
+date: 2004-05-12 -0800 9:00 AM
 tags: [soccer,personal]
 redirect_from: "/archive/2004/05/11/when-soccer-players-attack-me.aspx/"
 ---

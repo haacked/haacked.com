@@ -1,6 +1,6 @@
 ---
 title: "Download all your NuGet Package Licenses"
-date: 2015-03-28 -0800
+date: 2015-03-28 -0800 9:00 AM
 tags: [oss,nuget,licensing]
 ---
 

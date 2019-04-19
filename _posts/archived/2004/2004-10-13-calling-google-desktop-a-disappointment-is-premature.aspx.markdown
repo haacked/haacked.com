@@ -1,6 +1,6 @@
 ---
 title: Calling Google Desktop A Disappointment Is Premature
-date: 2004-10-13 -0800
+date: 2004-10-13 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2004/10/12/calling-google-desktop-a-disappointment-is-premature.aspx/"
 ---

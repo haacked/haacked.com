@@ -1,6 +1,6 @@
 ---
 title: Some Pics from Alaska
-date: 2004-12-25 -0800
+date: 2004-12-25 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2004/12/24/some-pics-from-alaska.aspx/"
 ---

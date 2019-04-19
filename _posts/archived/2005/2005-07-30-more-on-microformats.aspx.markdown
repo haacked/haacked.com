@@ -1,6 +1,6 @@
 ---
 title: More on Microformats
-date: 2005-07-30 -0800
+date: 2005-07-30 -0800 9:00 AM
 tags: [microformats]
 redirect_from: "/archive/2005/07/29/more-on-microformats.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pimp My Desktop
-date: 2006-01-11 -0800
+date: 2006-01-11 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2006/01/10/pimpmydesktop.aspx/"
 ---

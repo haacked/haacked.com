@@ -1,6 +1,6 @@
 ---
 title: TDD Is Great...Except When It Isn't
-date: 2004-10-17 -0800
+date: 2004-10-17 -0800 9:00 AM
 tags: [tdd,methodologies]
 redirect_from: "/archive/2004/10/16/tdd-is-greatexcept-when-it-isnt.aspx/"
 ---

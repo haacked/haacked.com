@@ -1,6 +1,6 @@
 ---
 title: "The Meaning of Work"
-date: 2015-10-21 -0800
+date: 2015-10-21 -0800 9:00 AM
 tags: [work,management,motivation]
 ---
 

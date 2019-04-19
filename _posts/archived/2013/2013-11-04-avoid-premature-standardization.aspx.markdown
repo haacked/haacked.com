@@ -1,6 +1,6 @@
 ---
 title: Avoid Premature Standardization
-date: 2013-11-04 -0800
+date: 2013-11-04 -0800 9:00 AM
 tags: [oss,code,github]
 redirect_from: "/archive/2013/11/03/avoid-premature-standardization.aspx/"
 ---

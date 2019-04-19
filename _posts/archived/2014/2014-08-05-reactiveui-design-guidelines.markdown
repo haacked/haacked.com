@@ -1,6 +1,6 @@
 ---
 title: "ReactiveUI Design Guidelines"
-date: 2014-08-05 -0800
+date: 2014-08-05 -0800 9:00 AM
 tags: [rx,ghfw]
 ---
 

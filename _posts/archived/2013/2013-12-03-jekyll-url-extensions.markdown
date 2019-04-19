@@ -1,6 +1,6 @@
 ---
 title: "Preserve URL Extensions with Jekyll"
-date: 2013-12-03 -0800
+date: 2013-12-03 -0800 9:00 AM
 tags: [jekyll]
 ---
 

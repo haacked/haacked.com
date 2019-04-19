@@ -1,6 +1,6 @@
 ---
 title: 'Random Friday: On Turning Four'
-date: 2011-06-10 -0800
+date: 2011-06-10 -0800 9:00 AM
 tags: [soccer,personal,meta]
 redirect_from: "/archive/2011/06/09/random-friday-on-turning-four.aspx/"
 ---

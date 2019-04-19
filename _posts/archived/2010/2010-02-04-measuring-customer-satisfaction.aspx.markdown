@@ -1,6 +1,6 @@
 ---
 title: "Can You Really Measure Customer Satisfaction?"
-date: 2010-02-03 -0800
+date: 2010-02-03 -0800 9:00 AM
 tags: [product-management]
 ---
 One question that came up recently during my mid-year review is how am I measuring customer satisfaction with the products that I work on? For example, how can I measurably demonstrate that customers are happy with the work we are doing on ASP.NET MVC and that my team is responding to customer feedback?

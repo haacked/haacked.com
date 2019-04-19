@@ -1,6 +1,6 @@
 ---
 title: Anatomy of a Cross-site Request Forgery Attack
-date: 2009-04-02 -0800
+date: 2009-04-02 -0800 9:00 AM
 tags: [aspnetmvc,security]
 redirect_from: "/archive/2009/04/01/anatomy-of-csrf-attack.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Log4Net Troubleshooting
-date: 2006-09-27 -0800
+date: 2006-09-27 -0800 9:00 AM
 tags: [logging]
 redirect_from: "/archive/2006/09/26/Log4Net_Troubleshooting.aspx/"
 ---

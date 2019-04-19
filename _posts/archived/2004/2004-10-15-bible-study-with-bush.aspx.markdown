@@ -1,6 +1,6 @@
 ---
 title: 'Hilarity: Bible Study With Bush'
-date: 2004-10-15 -0800
+date: 2004-10-15 -0800 9:00 AM
 tags: [politics,humor]
 redirect_from: "/archive/2004/10/14/bible-study-with-bush.aspx/"
 ---

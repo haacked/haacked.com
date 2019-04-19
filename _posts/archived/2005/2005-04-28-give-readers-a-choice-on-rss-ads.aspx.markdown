@@ -1,6 +1,6 @@
 ---
 title: Give Readers a Choice on RSS Ads
-date: 2005-04-28 -0800
+date: 2005-04-28 -0800 9:00 AM
 tags: [rss]
 redirect_from: "/archive/2005/04/27/give-readers-a-choice-on-rss-ads.aspx/"
 ---

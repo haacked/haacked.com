@@ -1,6 +1,6 @@
 ---
 title: "[SQL] Create a Job to Backup and FTP Your Database"
-date: 2006-04-22 -0800
+date: 2006-04-22 -0800 9:00 AM
 tags: [sql]
 redirect_from: "/archive/2006/04/21/sqlcreateajobtobackupandftpyourdatabase.aspx/"
 ---

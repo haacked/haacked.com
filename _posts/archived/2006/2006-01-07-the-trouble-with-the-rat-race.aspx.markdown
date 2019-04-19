@@ -1,6 +1,6 @@
 ---
 title: The Trouble With The Rat Race...
-date: 2006-01-07 -0800
+date: 2006-01-07 -0800 9:00 AM
 tags: [work]
 redirect_from: "/archive/2006/01/06/the-trouble-with-the-rat-race.aspx/"
 ---

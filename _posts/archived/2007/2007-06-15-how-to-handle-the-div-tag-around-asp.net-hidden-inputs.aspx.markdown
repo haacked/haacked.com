@@ -1,6 +1,6 @@
 ---
 title: How To Handle The DIV Tag Around ASP.NET Hidden Inputs
-date: 2007-06-15 -0800
+date: 2007-06-15 -0800 9:00 AM
 tags: [aspnet]
 redirect_from: "/archive/2007/06/14/how-to-handle-the-div-tag-around-asp.net-hidden-inputs.aspx/"
 ---

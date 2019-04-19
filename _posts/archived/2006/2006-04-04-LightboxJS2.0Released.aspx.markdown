@@ -1,6 +1,6 @@
 ---
 title: Lightbox JS 2.0 Released
-date: 2006-04-04 -0800
+date: 2006-04-04 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2006/04/03/LightboxJS2.0Released.aspx/"
 ---

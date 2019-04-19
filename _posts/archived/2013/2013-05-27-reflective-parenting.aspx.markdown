@@ -1,6 +1,6 @@
 ---
 title: Reflective Parenting
-date: 2013-05-27 -0800
+date: 2013-05-27 -0800 9:00 AM
 tags: [parenting,empathy]
 redirect_from: "/archive/2013/05/26/reflective-parenting.aspx/"
 ---

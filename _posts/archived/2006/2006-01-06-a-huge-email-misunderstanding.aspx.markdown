@@ -1,6 +1,6 @@
 ---
 title: A Huge Email Misunderstanding
-date: 2006-01-06 -0800
+date: 2006-01-06 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2006/01/05/a-huge-email-misunderstanding.aspx/"
 ---

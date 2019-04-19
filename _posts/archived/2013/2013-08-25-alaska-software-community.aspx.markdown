@@ -1,6 +1,6 @@
 ---
 title: Alaska Software Community
-date: 2013-08-25 -0800
+date: 2013-08-25 -0800 9:00 AM
 tags: [conferences,community]
 redirect_from: "/archive/2013/08/24/alaska-software-community.aspx/"
 ---

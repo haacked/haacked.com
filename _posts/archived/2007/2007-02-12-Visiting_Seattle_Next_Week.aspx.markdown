@@ -1,6 +1,6 @@
 ---
 title: Visiting Seattle Next Week
-date: 2007-02-12 -0800
+date: 2007-02-12 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2007/02/11/Visiting_Seattle_Next_Week.aspx/"
 ---

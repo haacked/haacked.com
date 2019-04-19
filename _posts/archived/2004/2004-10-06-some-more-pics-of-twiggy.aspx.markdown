@@ -1,6 +1,6 @@
 ---
 title: Some More Pics Of Twiggy
-date: 2004-10-06 -0800
+date: 2004-10-06 -0800 9:00 AM
 tags: [personal,twiggy]
 redirect_from: "/archive/2004/10/05/some-more-pics-of-twiggy.aspx/"
 ---

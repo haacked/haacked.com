@@ -1,6 +1,6 @@
 ---
 title: Argue Well By Losing
-date: 2013-10-21 -0800
+date: 2013-10-21 -0800 9:00 AM
 tags: [management,relationships]
 redirect_from: "/archive/2013/10/20/argue-well-by-losing.aspx/"
 excerpt_image: https://haacked.com/images/haacked_com/WindowsLiveWriter/ArgueWellByLosing_BE9C/red-card_thumb.jpg

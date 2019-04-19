@@ -1,6 +1,6 @@
 ---
 title: Microsoft releases source code for a game
-date: 2004-02-06 -0800
+date: 2004-02-06 -0800 9:00 AM
 tags: [microsoft,gaming]
 redirect_from: "/archive/2004/02/05/microsoft-releases-source-code-for-a-game.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: The Funniest Father&#8217;s Day Ad Yet
-date: 2005-06-13 -0800
+date: 2005-06-13 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2005/06/12/funny-fathers-day-ad.aspx/"
 ---

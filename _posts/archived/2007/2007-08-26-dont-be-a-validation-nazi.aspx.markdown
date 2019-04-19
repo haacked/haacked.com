@@ -1,6 +1,6 @@
 ---
 title: Don't Be a Validation Nazi
-date: 2007-08-26 -0800
+date: 2007-08-26 -0800 9:00 AM
 tags: [code,regex]
 redirect_from: "/archive/2007/08/25/dont-be-a-validation-nazi.aspx/"
 ---

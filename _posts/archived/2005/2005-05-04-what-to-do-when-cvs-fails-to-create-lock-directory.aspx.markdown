@@ -1,6 +1,6 @@
 ---
 title: What To Do When CVS Fails to Create Lock Directory
-date: 2005-05-04 -0800
+date: 2005-05-04 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2005/05/03/what-to-do-when-cvs-fails-to-create-lock-directory.aspx/"
 ---

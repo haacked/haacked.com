@@ -1,6 +1,6 @@
 ---
 title: Added Contstraint Based Expressions To Subsonic
-date: 2007-05-22 -0800
+date: 2007-05-22 -0800 9:00 AM
 tags: [data,orm]
 redirect_from: "/archive/2007/05/21/added-contstraint-based-expressions-to-subsonic.aspx/"
 ---

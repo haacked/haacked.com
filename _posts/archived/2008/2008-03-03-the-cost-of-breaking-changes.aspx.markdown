@@ -1,6 +1,6 @@
 ---
 title: The Cost Of Breaking Changes
-date: 2008-03-03 -0800
+date: 2008-03-03 -0800 9:00 AM
 tags: [code,versioning]
 redirect_from: "/archive/2008/03/02/the-cost-of-breaking-changes.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Photos From Burning Man
-date: 2005-09-09 -0800
+date: 2005-09-09 -0800 9:00 AM
 tags: [burningman]
 redirect_from: "/archive/2005/09/08/PhotosFromBurningMan.aspx/"
 ---

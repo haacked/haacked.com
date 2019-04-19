@@ -1,6 +1,6 @@
 ---
 title: Structuring Unit Test Code
-date: 2006-10-10 -0800
+date: 2006-10-10 -0800 9:00 AM
 tags: [code,tdd]
 redirect_from: "/archive/2006/10/09/Structuring_Unit_Test_Code.aspx/"
 ---

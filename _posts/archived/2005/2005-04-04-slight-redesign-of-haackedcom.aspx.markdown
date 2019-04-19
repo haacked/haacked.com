@@ -1,6 +1,6 @@
 ---
 title: Slight Redesign of Haacked.com
-date: 2005-04-04 -0800
+date: 2005-04-04 -0800 9:00 AM
 tags: [meta]
 redirect_from: "/archive/2005/04/03/slight-redesign-of-haackedcom.aspx/"
 ---

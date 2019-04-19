@@ -1,6 +1,6 @@
 ---
 title: Indulging My OCD Using TestDriven.NET With NCoverExplorer
-date: 2006-12-14 -0800
+date: 2006-12-14 -0800 9:00 AM
 tags: [tools]
 redirect_from: "/archive/2006/12/13/Indulging_My_OCD_Using_TestDriven.NET_With_NCoverExplorer.aspx/"
 ---

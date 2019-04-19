@@ -1,6 +1,6 @@
 ---
 title: Why You Gotta Love The British
-date: 2006-09-05 -0800
+date: 2006-09-05 -0800 9:00 AM
 tags: [humor,personal]
 redirect_from: "/archive/2006/09/04/Why_You_Gotta_Love_The_British.aspx/"
 ---

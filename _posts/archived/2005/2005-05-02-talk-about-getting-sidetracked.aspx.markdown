@@ -1,6 +1,6 @@
 ---
 title: Talk About Getting Sidetracked
-date: 2005-05-02 -0800
+date: 2005-05-02 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2005/05/01/talk-about-getting-sidetracked.aspx/"
 ---

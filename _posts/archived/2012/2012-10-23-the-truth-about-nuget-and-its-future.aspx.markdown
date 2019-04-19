@@ -1,6 +1,6 @@
 ---
 title: The Truth about NuGet and its Future
-date: 2012-10-23 -0800
+date: 2012-10-23 -0800 9:00 AM
 tags: [oss,nuget,community,code]
 redirect_from: "/archive/2012/10/22/the-truth-about-nuget-and-its-future.aspx/"
 ---

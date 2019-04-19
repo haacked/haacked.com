@@ -1,6 +1,6 @@
 ---
 title: "[Mix06] The Value Of A Partial Message With Indigo"
-date: 2006-03-23 -0800
+date: 2006-03-23 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2006/03/22/Mix06TheValueOfAPartialMessageWithIndigo.aspx/"
 ---

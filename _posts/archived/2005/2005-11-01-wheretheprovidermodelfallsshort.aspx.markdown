@@ -1,6 +1,6 @@
 ---
 title: Where the Provider Model Falls Short
-date: 2005-11-01 -0800
+date: 2005-11-01 -0800 9:00 AM
 tags: [software,patterns]
 redirect_from: "/archive/2005/10/31/wheretheprovidermodelfallsshort.aspx/"
 ---

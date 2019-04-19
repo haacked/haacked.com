@@ -1,6 +1,6 @@
 ---
 title: Back From Mix Back To Reality
-date: 2008-03-08 -0800
+date: 2008-03-08 -0800 9:00 AM
 tags: [personal,conferences]
 redirect_from: "/archive/2008/03/07/back-from-mix-back-to-reality.aspx/"
 ---

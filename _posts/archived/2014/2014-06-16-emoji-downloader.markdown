@@ -1,6 +1,6 @@
 ---
 title: "Download Emojis With Octokit.NET"
-date: 2014-06-16 -0800
+date: 2014-06-16 -0800 9:00 AM
 tags: [github,octokit]
 ---
 

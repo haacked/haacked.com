@@ -1,6 +1,6 @@
 ---
 title: 'AddressInfo.cs: Converting State Codes to State Names and Vice Versa'
-date: 2005-04-08 -0800
+date: 2005-04-08 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2005/04/07/addressinfocs-converting-state-codes-to-state-names-and-vice-versa.aspx/"
 ---

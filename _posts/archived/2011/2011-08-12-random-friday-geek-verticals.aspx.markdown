@@ -1,6 +1,6 @@
 ---
 title: 'Random Friday: Geek Verticals'
-date: 2011-08-12 -0800
+date: 2011-08-12 -0800 9:00 AM
 tags: [humor,personal]
 redirect_from: "/archive/2011/08/11/random-friday-geek-verticals.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sabotage Due To Pain. Developers, Take Ergonomics Seriously!
-date: 2007-05-15 -0800
+date: 2007-05-15 -0800 9:00 AM
 tags: [ergonomics,health]
 redirect_from: "/archive/2007/05/14/sabatoge-due-to-pain.-developers-take-ergonomics-seriously.aspx/"
 ---

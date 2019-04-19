@@ -1,6 +1,6 @@
 ---
 title: Highlights From Spain
-date: 2005-11-29 -0800
+date: 2005-11-29 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2005/11/28/highlights-from-spain.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: The Evil Post
-date: 2005-07-01 -0800
+date: 2005-07-01 -0800 9:00 AM
 tags: [humor,meta]
 redirect_from: "/archive/2005/06/30/the-evil-post.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: C# Razor Syntax Quick Reference
-date: 2011-01-06 -0800
+date: 2011-01-06 -0800 9:00 AM
 tags: [aspnetmvc,aspnet,code]
 redirect_from: "/archive/2011/01/05/razor-syntax-quick-reference.aspx/"
 ---

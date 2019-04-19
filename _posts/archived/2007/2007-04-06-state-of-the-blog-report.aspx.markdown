@@ -1,6 +1,6 @@
 ---
 title: State Of The Blog Report
-date: 2007-04-06 -0800
+date: 2007-04-06 -0800 9:00 AM
 tags: [blogging]
 redirect_from: "/archive/2007/04/05/state-of-the-blog-report.aspx/"
 ---

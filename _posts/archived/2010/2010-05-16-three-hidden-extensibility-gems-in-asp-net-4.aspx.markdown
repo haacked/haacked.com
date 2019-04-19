@@ -1,6 +1,6 @@
 ---
 title: Three Hidden Extensibility Gems in ASP.NET 4
-date: 2010-05-16 -0800
+date: 2010-05-16 -0800 9:00 AM
 tags: [aspnet,code]
 redirect_from: "/archive/2010/05/15/three-hidden-extensibility-gems-in-asp-net-4.aspx/"
 ---

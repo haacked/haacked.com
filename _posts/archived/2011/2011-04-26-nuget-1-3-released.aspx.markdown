@@ -1,6 +1,6 @@
 ---
 title: NuGet 1.3 Released
-date: 2011-04-26 -0800
+date: 2011-04-26 -0800 9:00 AM
 tags: [nuget,code,oss]
 redirect_from: "/archive/2011/04/25/nuget-1-3-released.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Requirements Considered Harmful
-date: 2006-01-31 -0800
+date: 2006-01-31 -0800 9:00 AM
 tags: [product-management]
 redirect_from: "/archive/2006/01/30/RequirementsConsideredHarmful.aspx/"
 ---

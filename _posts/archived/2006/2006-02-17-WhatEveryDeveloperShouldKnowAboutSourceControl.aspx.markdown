@@ -1,6 +1,6 @@
 ---
 title: What Every Developer Should Know About Source Control
-date: 2006-02-17 -0800
+date: 2006-02-17 -0800 9:00 AM
 tags: [source-control]
 redirect_from: "/archive/2006/02/16/WhatEveryDeveloperShouldKnowAboutSourceControl.aspx/"
 ---

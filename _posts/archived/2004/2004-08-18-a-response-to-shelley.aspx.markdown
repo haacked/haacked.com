@@ -1,6 +1,6 @@
 ---
 title: A Response To Shelley
-date: 2004-08-18 -0800
+date: 2004-08-18 -0800 9:00 AM
 tags: [diversity]
 redirect_from: "/archive/2004/08/17/a-response-to-shelley.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Building an Atom Package in ES6"
-date: 2016-05-11 -0800
+date: 2016-05-11 -0800 9:00 AM
 tags: [nuget]
 ---
 

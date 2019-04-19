@@ -1,6 +1,6 @@
 ---
 title: If this port is rocking, don't come a knocking
-date: 2004-02-05 -0800
+date: 2004-02-05 -0800 9:00 AM
 tags: [security]
 redirect_from: "/archive/2004/02/04/if-this-port-is-rocking-dont-come-a-knocking.aspx/"
 ---

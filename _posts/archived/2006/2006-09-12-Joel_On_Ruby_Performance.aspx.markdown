@@ -1,6 +1,6 @@
 ---
 title: Joel On Ruby Performance
-date: 2006-09-12 -0800
+date: 2006-09-12 -0800 9:00 AM
 tags: [performance]
 redirect_from: "/archive/2006/09/11/Joel_On_Ruby_Performance.aspx/"
 ---

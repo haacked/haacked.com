@@ -1,6 +1,6 @@
 ---
 title: Poor Twiggy Broke Her Leg Yesterday
-date: 2004-11-03 -0800
+date: 2004-11-03 -0800 9:00 AM
 tags: [personal,twiggy]
 redirect_from: "/archive/2004/11/02/poor-twiggy-broke-her-leg-yesterday.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Allowing Business Users To Program Your System Is A Recipe For Disaster
-date: 2007-06-03 -0800
+date: 2007-06-03 -0800 9:00 AM
 tags: [product-management]
 redirect_from: "/archive/2007/06/02/allowing-business-users-to-program-your-system-is-a-recipe.aspx/"
 ---

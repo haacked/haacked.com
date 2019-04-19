@@ -1,6 +1,6 @@
 ---
 title: Help! Server.Transfer Throws Exception In WebServer.WebDev In Medium Trust
-date: 2006-12-06 -0800
+date: 2006-12-06 -0800 9:00 AM
 tags: [aspnet]
 redirect_from: "/archive/2006/12/05/Help_Server.Transfer_Throws_Exception_In_WebServer.WebDev_In_Medium_Trust.aspx/"
 ---

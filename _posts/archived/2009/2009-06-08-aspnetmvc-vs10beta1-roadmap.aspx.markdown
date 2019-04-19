@@ -1,6 +1,6 @@
 ---
 title: ASP.NET MVC Installer For Visual Studio 2010 Beta 1 And Roadmap
-date: 2009-06-08 -0800
+date: 2009-06-08 -0800 9:00 AM
 tags: [aspnetmvc]
 redirect_from: "/archive/2009/06/07/aspnetmvc-vs10beta1-roadmap.aspx/"
 ---

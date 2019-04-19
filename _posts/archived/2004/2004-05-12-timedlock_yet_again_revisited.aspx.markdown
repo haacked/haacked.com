@@ -1,6 +1,6 @@
 ---
 title: TimedLock Yet Again Revisited...
-date: 2004-05-12 -0800
+date: 2004-05-12 -0800 9:00 AM
 tags: [dotnet,code,concurrency,dispose]
 redirect_from: "/archive/2004/05/11/timedlock_yet_again_revisited.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Now that GMail has POP3
-date: 2004-11-17 -0800
+date: 2004-11-17 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2004/11/16/now-that-gmail-has-pop3.aspx/"
 ---

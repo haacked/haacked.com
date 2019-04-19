@@ -1,6 +1,6 @@
 ---
 title: Deals Well With Ambiguity
-date: 2010-05-26 -0800
+date: 2010-05-26 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2010/05/25/deals-well-with-ambiguity.aspx/"
 ---

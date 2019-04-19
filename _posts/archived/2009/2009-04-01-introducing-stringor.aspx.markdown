@@ -1,6 +1,6 @@
 ---
 title: Better String Input Handling
-date: 2009-04-01 -0800
+date: 2009-04-01 -0800 9:00 AM
 tags: [code,humor]
 redirect_from: "/archive/2009/03/31/introducing-stringor.aspx/"
 ---

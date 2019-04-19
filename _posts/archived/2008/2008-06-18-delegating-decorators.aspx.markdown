@@ -1,6 +1,6 @@
 ---
 title: Delegating Decorators
-date: 2008-06-18 -0800
+date: 2008-06-18 -0800 9:00 AM
 tags: [aspnetmvc]
 redirect_from: "/archive/2008/06/17/delegating-decorators.aspx/"
 ---

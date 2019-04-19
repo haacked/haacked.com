@@ -1,6 +1,6 @@
 ---
 title: A Gotcha Identifying the User's IP Address
-date: 2006-10-11 -0800
+date: 2006-10-11 -0800 9:00 AM
 tags: [dotnet]
 redirect_from: "/archive/2006/10/10/A_Gotcha_Identifying_the_Users_IP_Address.aspx/"
 ---

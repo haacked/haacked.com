@@ -1,6 +1,6 @@
 ---
 title: Twilight Samurai, Go See It
-date: 2004-07-30 -0800
+date: 2004-07-30 -0800 9:00 AM
 tags: [movies]
 redirect_from: "/archive/2004/07/29/twilight-samurai-go-see-it.aspx/"
 ---

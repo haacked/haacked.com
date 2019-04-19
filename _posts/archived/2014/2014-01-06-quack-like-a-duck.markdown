@@ -1,6 +1,6 @@
 ---
 title: "But does it quack like a duck?"
-date: 2014-01-06 -0800
+date: 2014-01-06 -0800 9:00 AM
 tags: [code]
 ---
 

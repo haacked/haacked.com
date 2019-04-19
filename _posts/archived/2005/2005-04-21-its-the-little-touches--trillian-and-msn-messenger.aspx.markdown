@@ -1,6 +1,6 @@
 ---
 title: It's the Little Touches - Trillian and MSN Messenger.
-date: 2005-04-21 -0800
+date: 2005-04-21 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2005/04/20/its-the-little-touches--trillian-and-msn-messenger.aspx/"
 ---

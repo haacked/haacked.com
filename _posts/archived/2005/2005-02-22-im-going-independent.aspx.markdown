@@ -1,6 +1,6 @@
 ---
 title: I'm Going Independent!
-date: 2005-02-22 -0800
+date: 2005-02-22 -0800 9:00 AM
 tags: [consulting,work]
 redirect_from: "/archive/2005/02/21/im-going-independent.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Church Sign Generator
-date: 2004-11-18 -0800
+date: 2004-11-18 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2004/11/17/church-signs.aspx/"
 ---

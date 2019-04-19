@@ -1,6 +1,6 @@
 ---
 title: A Sordid Little Tale Of Unexpected Security Exceptions
-date: 2010-11-04 -0800
+date: 2010-11-04 -0800 9:00 AM
 tags: [code,aspnet,security]
 redirect_from: "/archive/2010/11/03/assembly-location-and-medium-trust.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vacation in the San Juan Islands
-date: 2011-08-05 -0800
+date: 2011-08-05 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2011/08/04/vacation-in-the-san-juan-islands.aspx/"
 ---

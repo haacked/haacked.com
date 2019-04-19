@@ -1,6 +1,6 @@
 ---
 title: The Missing Detail of of New Human Machine Interfaces
-date: 2006-02-12 -0800
+date: 2006-02-12 -0800 9:00 AM
 tags: [design,ergonomics]
 redirect_from: "/archive/2006/02/11/TheMissingDetailofofNewHumanMachineInterfaces.aspx/"
 ---

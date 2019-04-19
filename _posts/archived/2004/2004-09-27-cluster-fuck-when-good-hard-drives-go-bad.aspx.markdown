@@ -1,6 +1,6 @@
 ---
 title: Cluster F*ck. When Good Hard Drives Go Bad.
-date: 2004-09-27 -0800
+date: 2004-09-27 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2004/09/26/cluster-fuck-when-good-hard-drives-go-bad.aspx/"
 ---

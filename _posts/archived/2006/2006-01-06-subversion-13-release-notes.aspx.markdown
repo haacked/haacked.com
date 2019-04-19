@@ -1,6 +1,6 @@
 ---
 title: Subversion 1.3 Release Notes
-date: 2006-01-06 -0800
+date: 2006-01-06 -0800 9:00 AM
 tags: [source-control]
 redirect_from: "/archive/2006/01/05/subversion-13-release-notes.aspx/"
 ---

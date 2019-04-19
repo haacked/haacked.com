@@ -1,6 +1,6 @@
 ---
 title: Live Preview jQuery Plugin
-date: 2009-12-15 -0800
+date: 2009-12-15 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2009/12/14/live-preview-jquery-plugin.aspx/"
 ---

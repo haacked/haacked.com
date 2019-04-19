@@ -1,6 +1,6 @@
 ---
 title: RSS Bandit Comment Watcher
-date: 2006-11-27 -0800
+date: 2006-11-27 -0800 9:00 AM
 tags: [rss]
 redirect_from: "/archive/2006/11/26/RSS_Bandit_Comment_Watcher.aspx/"
 ---

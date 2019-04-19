@@ -1,6 +1,6 @@
 ---
 title: Back In Business
-date: 2007-10-16 -0800
+date: 2007-10-16 -0800 9:00 AM
 tags: [blogging]
 redirect_from: "/archive/2007/10/15/back-in-business.aspx/"
 ---

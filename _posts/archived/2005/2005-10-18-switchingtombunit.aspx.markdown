@@ -1,6 +1,6 @@
 ---
 title: Switching to MbUnit
-date: 2005-10-18 -0800
+date: 2005-10-18 -0800 9:00 AM
 tags: [tools]
 redirect_from: "/archive/2005/10/17/switchingtombunit.aspx/"
 ---

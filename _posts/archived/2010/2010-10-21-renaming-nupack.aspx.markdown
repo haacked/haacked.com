@@ -1,6 +1,6 @@
 ---
 title: "We're Renaming NuPack"
-date: 2010-10-21 -0800
+date: 2010-10-21 -0800 9:00 AM
 tags: [nuget,code,oss]
 redirect_from: "/archive/2010/10/20/renaming-nupack.aspx/"
 ---

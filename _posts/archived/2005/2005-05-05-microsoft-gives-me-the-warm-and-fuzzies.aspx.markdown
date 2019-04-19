@@ -1,6 +1,6 @@
 ---
 title: Microsoft Gives Me the Warm and Fuzzies
-date: 2005-05-05 -0800
+date: 2005-05-05 -0800 9:00 AM
 tags: [diversity]
 redirect_from: "/archive/2005/05/04/microsoft-gives-me-the-warm-and-fuzzies.aspx/"
 ---

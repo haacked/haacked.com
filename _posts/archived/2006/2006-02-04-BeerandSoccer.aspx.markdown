@@ -1,6 +1,6 @@
 ---
 title: Beer and Soccer
-date: 2006-02-04 -0800
+date: 2006-02-04 -0800 9:00 AM
 tags: [soccer,personal]
 redirect_from: "/archive/2006/02/03/BeerandSoccer.aspx/"
 ---

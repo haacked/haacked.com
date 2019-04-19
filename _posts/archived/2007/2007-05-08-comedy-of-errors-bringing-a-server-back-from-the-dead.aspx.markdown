@@ -1,6 +1,6 @@
 ---
 title: Comedy Of Errors Bringing A Server Back From The Dead
-date: 2007-05-08 -0800
+date: 2007-05-08 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2007/05/07/comedy-of-errors-bringing-a-server-back-from-the-dead.aspx/"
 ---

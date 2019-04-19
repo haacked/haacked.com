@@ -1,6 +1,6 @@
 ---
 title: Windows 2003 Installation Blunder
-date: 2004-04-16 -0800
+date: 2004-04-16 -0800 9:00 AM
 tags: [tools]
 redirect_from: "/archive/2004/04/15/windows-2003-installation-blunder.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Get your Fitbit totals"
-date: 2014-01-02 -0800
+date: 2014-01-02 -0800 9:00 AM
 tags: [jekyll]
 ---
 

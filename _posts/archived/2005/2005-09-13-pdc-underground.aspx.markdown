@@ -1,6 +1,6 @@
 ---
 title: PDC Underground
-date: 2005-09-13 -0800
+date: 2005-09-13 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2005/09/12/pdc-underground.aspx/"
 ---

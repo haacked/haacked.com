@@ -1,6 +1,6 @@
 ---
 title: "Fixing Broken Jekyll URLs"
-date: 2013-12-12 -0800
+date: 2013-12-12 -0800 9:00 AM
 tags: [jekyll]
 ---
 Well this is a bit embarrassing.

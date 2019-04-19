@@ -1,6 +1,6 @@
 ---
 title: Cross Platform .NET Just A Lot Got Better
-date: 2013-11-14 -0800
+date: 2013-11-14 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2013/11/13/cross-platform-net-just-a-lot-got-better.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: HttpModule For Timing Requests
-date: 2008-07-02 -0800
+date: 2008-07-02 -0800 9:00 AM
 tags: [aspnetmvc]
 redirect_from: "/archive/2008/07/01/httpmodule-for-timing-requests.aspx/"
 ---

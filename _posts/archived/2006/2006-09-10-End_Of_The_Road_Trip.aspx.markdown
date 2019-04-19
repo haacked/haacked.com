@@ -1,6 +1,6 @@
 ---
 title: End Of The Road Trip
-date: 2006-09-10 -0800
+date: 2006-09-10 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2006/09/09/End_Of_The_Road_Trip.aspx/"
 ---

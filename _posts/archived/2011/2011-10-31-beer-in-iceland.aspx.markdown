@@ -1,6 +1,6 @@
 ---
 title: Beer-Up in Reykjavik, Iceland
-date: 2011-10-31 -0800
+date: 2011-10-31 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2011/10/30/beer-in-iceland.aspx/"
 ---

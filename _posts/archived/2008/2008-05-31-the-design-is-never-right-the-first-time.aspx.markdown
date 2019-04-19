@@ -1,6 +1,6 @@
 ---
 title: The Design Is Never Right The First Time
-date: 2008-05-31 -0800
+date: 2008-05-31 -0800 9:00 AM
 tags: [aspnet,aspnetmvc,code,methodologies]
 redirect_from: "/archive/2008/05/30/the-design-is-never-right-the-first-time.aspx/"
 ---

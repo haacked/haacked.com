@@ -1,6 +1,6 @@
 ---
 title: How To Talk To Employees
-date: 2012-08-03 -0800
+date: 2012-08-03 -0800 9:00 AM
 tags: [management,motivation]
 redirect_from: "/archive/2012/08/02/how-to-talk-to-employees.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Burning Man 2004 Starts Today!
-date: 2004-08-30 -0800
+date: 2004-08-30 -0800 9:00 AM
 tags: [burningman]
 redirect_from: "/archive/2004/08/29/burning-man-2004-starts-today.aspx/"
 ---

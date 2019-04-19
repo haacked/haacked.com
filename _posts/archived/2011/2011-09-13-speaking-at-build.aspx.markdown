@@ -1,6 +1,6 @@
 ---
 title: I&rsquo;m Speaking at //BUILD!
-date: 2011-09-13 -0800
+date: 2011-09-13 -0800 9:00 AM
 tags: [aspnet,aspnetmvc]
 redirect_from: "/archive/2011/09/12/speaking-at-build.aspx/"
 ---

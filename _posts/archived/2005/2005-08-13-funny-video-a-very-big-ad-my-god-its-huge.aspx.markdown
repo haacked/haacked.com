@@ -1,6 +1,6 @@
 ---
 title: 'Funny Video: A Very Big Ad. My God, It''s Huge.'
-date: 2005-08-13 -0800
+date: 2005-08-13 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2005/08/12/funny-video-a-very-big-ad-my-god-its-huge.aspx/"
 ---

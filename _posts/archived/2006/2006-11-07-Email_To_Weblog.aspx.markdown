@@ -1,6 +1,6 @@
 ---
 title: Email To Weblog
-date: 2006-11-07 -0800
+date: 2006-11-07 -0800 9:00 AM
 tags: [blogging]
 redirect_from: "/archive/2006/11/06/Email_To_Weblog.aspx/"
 ---

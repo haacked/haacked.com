@@ -1,6 +1,6 @@
 ---
 title: Oh Yes It&rsquo;s Ladies Night
-date: 2008-06-27 -0800
+date: 2008-06-27 -0800 9:00 AM
 tags: [humor,personal]
 redirect_from: "/archive/2008/06/26/oh-yes-itrsquos-ladies-night.aspx/"
 ---

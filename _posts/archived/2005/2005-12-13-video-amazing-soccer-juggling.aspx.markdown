@@ -1,6 +1,6 @@
 ---
 title: 'Video: Amazing Soccer Juggling'
-date: 2005-12-13 -0800
+date: 2005-12-13 -0800 9:00 AM
 tags: [soccer]
 redirect_from: "/archive/2005/12/12/video-amazing-soccer-juggling.aspx/"
 ---

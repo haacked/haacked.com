@@ -1,6 +1,6 @@
 ---
 title: Current Directory For Windows Service Is Not What You Expect
-date: 2004-06-29 -0800
+date: 2004-06-29 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2004/06/28/current-directory-for-windows-service-is-not-what-you-expect.aspx/"
 ---

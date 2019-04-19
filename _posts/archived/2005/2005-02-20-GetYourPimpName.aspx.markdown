@@ -1,6 +1,6 @@
 ---
 title: Get Your Pimp Name Playah!
-date: 2005-02-20 -0800
+date: 2005-02-20 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2005/02/19/GetYourPimpName.aspx/"
 ---

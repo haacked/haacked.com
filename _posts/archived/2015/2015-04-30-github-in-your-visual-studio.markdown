@@ -1,6 +1,6 @@
 ---
 title: "GitHub Inside Your Visual Studio"
-date: 2015-04-30 -0800
+date: 2015-04-30 -0800 9:00 AM
 tags: [github,visualstudio]
 ---
 

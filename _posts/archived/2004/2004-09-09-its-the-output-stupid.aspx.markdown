@@ -1,6 +1,6 @@
 ---
 title: It's The Output Stupid!  (What Makes a Great Influencer, Hacker, and Writer?)
-date: 2004-09-09 -0800
+date: 2004-09-09 -0800 9:00 AM
 tags: [tips]
 redirect_from: "/archive/2004/09/08/its-the-output-stupid.aspx/"
 ---

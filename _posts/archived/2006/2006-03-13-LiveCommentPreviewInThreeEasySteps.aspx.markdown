@@ -1,6 +1,6 @@
 ---
 title: Live Comment Preview In Three Easy Steps
-date: 2006-03-13 -0800
+date: 2006-03-13 -0800 9:00 AM
 tags: [aspnet,subtext]
 redirect_from: "/archive/2006/03/12/LiveCommentPreviewInThreeEasySteps.aspx/"
 ---

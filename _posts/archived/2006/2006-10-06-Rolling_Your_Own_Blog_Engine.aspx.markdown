@@ -1,6 +1,6 @@
 ---
 title: Rolling Your Own Blog Engine
-date: 2006-10-06 -0800
+date: 2006-10-06 -0800 9:00 AM
 tags: [meta]
 redirect_from: "/archive/2006/10/05/Rolling_Your_Own_Blog_Engine.aspx/"
 ---

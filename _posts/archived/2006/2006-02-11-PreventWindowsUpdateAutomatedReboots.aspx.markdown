@@ -1,6 +1,6 @@
 ---
 title: Prevent Windows Update Automated Reboots
-date: 2006-02-11 -0800
+date: 2006-02-11 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2006/02/10/PreventWindowsUpdateAutomatedReboots.aspx/"
 ---

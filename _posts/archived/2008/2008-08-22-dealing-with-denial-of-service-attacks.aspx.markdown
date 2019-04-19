@@ -1,6 +1,6 @@
 ---
 title: Dealing With Denial of Service Attacks
-date: 2008-08-22 -0800
+date: 2008-08-22 -0800 9:00 AM
 tags: [security,aspnet]
 redirect_from: "/archive/2008/08/21/dealing-with-denial-of-service-attacks.aspx/"
 ---

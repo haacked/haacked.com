@@ -1,6 +1,6 @@
 ---
 title: Writing A Book
-date: 2006-11-19 -0800
+date: 2006-11-19 -0800 9:00 AM
 tags: [books,writing]
 redirect_from: "/archive/2006/11/18/writing_a_book.aspx/"
 ---

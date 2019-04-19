@@ -1,6 +1,6 @@
 ---
 title: Stop The Window.Onload Madness
-date: 2006-04-06 -0800
+date: 2006-04-06 -0800 9:00 AM
 tags: [javascript]
 redirect_from: "/archive/2006/04/05/StopTheWindow.OnloadMadness.aspx/"
 ---

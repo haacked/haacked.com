@@ -1,6 +1,6 @@
 ---
 title: How To Find Out Which NuGet Packages Depend on Yours
-date: 2011-02-23 -0800
+date: 2011-02-23 -0800 9:00 AM
 tags: [nuget,aspnet,aspnetmvc,code]
 redirect_from: "/archive/2011/02/22/how-to-find-out-which-nuget-packages-depend-on-yours.aspx/"
 ---

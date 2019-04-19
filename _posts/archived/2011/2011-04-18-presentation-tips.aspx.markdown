@@ -1,6 +1,6 @@
 ---
 title: Presentation Tips Learned From My (Many) Mistakes
-date: 2011-04-18 -0800
+date: 2011-04-18 -0800 9:00 AM
 tags: [tips,speaking,conferences]
 redirect_from: "/archive/2011/04/17/presentation-tips.aspx/"
 ---

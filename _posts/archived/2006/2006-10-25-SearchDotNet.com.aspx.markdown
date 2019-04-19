@@ -1,6 +1,6 @@
 ---
 title: SearchDotNet.com
-date: 2006-10-25 -0800
+date: 2006-10-25 -0800 9:00 AM
 tags: [dotnet]
 redirect_from: "/archive/2006/10/24/SearchDotNet.com.aspx/"
 ---

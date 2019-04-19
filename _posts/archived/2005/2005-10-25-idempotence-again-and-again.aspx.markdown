@@ -1,6 +1,6 @@
 ---
 title: Idempotence Again and Again
-date: 2005-10-25 -0800
+date: 2005-10-25 -0800 9:00 AM
 tags: [tech,design,patterns]
 redirect_from: "/archive/2005/10/24/idempotence-again-and-again.aspx/"
 ---

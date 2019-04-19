@@ -1,6 +1,6 @@
 ---
 title: How the IIS SEO Toolkit Saved My Butt
-date: 2009-12-14 -0800
+date: 2009-12-14 -0800 9:00 AM
 tags: [tools,tech]
 redirect_from: "/archive/2009/12/13/seo-toolkit-saves-the-day.aspx/"
 ---

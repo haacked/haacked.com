@@ -1,6 +1,6 @@
 ---
 title: Longhorn RSS Aggregator
-date: 2004-03-05 -0800
+date: 2004-03-05 -0800 9:00 AM
 tags: [rss]
 redirect_from: "/archive/2004/03/04/longhorn-rss-aggregator.aspx/"
 ---

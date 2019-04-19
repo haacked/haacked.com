@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Blogging Syndrome
-date: 2004-05-08 -0800
+date: 2004-05-08 -0800 9:00 AM
 tags: [blogging]
 redirect_from: "/archive/2004/05/07/the-blogging-syndrome.aspx/"
 ---

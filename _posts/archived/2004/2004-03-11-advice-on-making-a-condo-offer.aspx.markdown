@@ -1,6 +1,6 @@
 ---
 title: Advice on making a condo offer
-date: 2004-03-11 -0800
+date: 2004-03-11 -0800 9:00 AM
 tags: [tips]
 redirect_from: "/archive/2004/03/10/advice-on-making-a-condo-offer.aspx/"
 ---

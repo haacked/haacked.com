@@ -1,6 +1,6 @@
 ---
 title: Quick CSS Optimization Tip
-date: 2007-03-15 -0800
+date: 2007-03-15 -0800 9:00 AM
 tags: [css,tips]
 redirect_from: "/archive/2007/03/14/quick-css-optimization-tip.aspx/"
 ---

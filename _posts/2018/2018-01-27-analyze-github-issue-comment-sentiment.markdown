@@ -1,7 +1,7 @@
 ---
 title: "Analyzing GitHub Issue Comment Sentiment With Azure"
 description: "Describes how easy it is to extend GitHub with a webhook using Azure Functions"
-date: 2018-01-27 -0800
+date: 2018-01-27 -0800 9:00 AM
 tags: [serverless,github,ai]
 excerpt_image: https://user-images.githubusercontent.com/19977/35477506-f253e26c-0378-11e8-9eff-5d150fa0ca9f.jpg
 ---

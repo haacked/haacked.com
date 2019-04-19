@@ -1,6 +1,6 @@
 ---
 title: Subtext 1.9.5 Release
-date: 2007-05-11 -0800
+date: 2007-05-11 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2007/05/10/subtext-1.9.5-release.aspx/"
 ---

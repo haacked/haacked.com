@@ -1,6 +1,6 @@
 ---
 title: XSD Schema Files For VS.NET
-date: 2007-02-13 -0800
+date: 2007-02-13 -0800 9:00 AM
 tags: [visualstudio]
 redirect_from: "/archive/2007/02/12/XSD_Schema_Files_For_VS.NET.aspx/"
 ---

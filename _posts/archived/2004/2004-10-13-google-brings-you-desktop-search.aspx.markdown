@@ -1,6 +1,6 @@
 ---
 title: Google Brings You Desktop Search
-date: 2004-10-13 -0800
+date: 2004-10-13 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2004/10/12/google-brings-you-desktop-search.aspx/"
 ---

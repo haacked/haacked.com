@@ -1,6 +1,6 @@
 ---
 title: Write Specs In The Present Tense
-date: 2004-07-26 -0800
+date: 2004-07-26 -0800 9:00 AM
 tags: [product-management]
 redirect_from: "/archive/2004/07/25/write-specs-in-the-present-tense.aspx/"
 ---

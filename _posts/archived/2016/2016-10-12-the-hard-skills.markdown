@@ -1,6 +1,6 @@
 ---
 title: "The Hard Skills"
-date: 2016-10-12 -0800
+date: 2016-10-12 -0800 9:00 AM
 tags: [management]
 ---
 

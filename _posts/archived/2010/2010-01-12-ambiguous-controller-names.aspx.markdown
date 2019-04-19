@@ -1,6 +1,6 @@
 ---
 title: "Ambiguous Controller Names With Areas"
-date: 2010-01-11 -0800
+date: 2010-01-11 -0800 9:00 AM
 tags: [aspnet,aspnetmvc]
 ---
 *Note: This describes the behavior of ASP.NET MVC 2 as of the release

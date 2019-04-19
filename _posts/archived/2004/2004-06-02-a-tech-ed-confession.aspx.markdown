@@ -1,6 +1,6 @@
 ---
 title: A Tech-Ed Confession
-date: 2004-06-02 -0800
+date: 2004-06-02 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2004/06/01/a-tech-ed-confession.aspx/"
 ---

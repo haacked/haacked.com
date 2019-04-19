@@ -1,6 +1,6 @@
 ---
 title: A Mention on Gizmodo
-date: 2005-08-27 -0800
+date: 2005-08-27 -0800 9:00 AM
 tags: [gadgets]
 redirect_from: "/archive/2005/08/26/a-mention-on-gizmodo.aspx/"
 ---

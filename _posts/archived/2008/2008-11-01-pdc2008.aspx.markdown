@@ -1,6 +1,6 @@
 ---
 title: Hazy Recollections of PDC 2008
-date: 2008-11-01 -0800
+date: 2008-11-01 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2008/10/31/pdc2008.aspx/"
 ---

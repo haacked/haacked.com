@@ -1,6 +1,6 @@
 ---
 title: Hilarious Euro Cup 2004 Video
-date: 2004-06-17 -0800
+date: 2004-06-17 -0800 9:00 AM
 tags: [soccer,humor]
 redirect_from: "/archive/2004/06/16/hilarious-euro-cup-2004-video.aspx/"
 ---

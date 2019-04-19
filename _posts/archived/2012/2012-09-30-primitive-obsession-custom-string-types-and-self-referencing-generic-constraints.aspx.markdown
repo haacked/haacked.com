@@ -1,6 +1,6 @@
 ---
 title: Primitive Obsession, Custom String Types, and Self Referencing Generic Constraints
-date: 2012-09-30 -0800
+date: 2012-09-30 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2012/09/29/primitive-obsession-custom-string-types-and-self-referencing-generic-constraints.aspx/"
 ---

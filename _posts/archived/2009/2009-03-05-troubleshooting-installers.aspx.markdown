@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting Windows MSI Installers
-date: 2009-03-05 -0800
+date: 2009-03-05 -0800 9:00 AM
 tags: [aspnetmvc,aspnet]
 redirect_from: "/archive/2009/03/04/troubleshooting-installers.aspx/"
 ---

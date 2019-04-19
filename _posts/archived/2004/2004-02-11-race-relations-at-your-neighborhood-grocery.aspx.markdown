@@ -1,6 +1,6 @@
 ---
 title: Race relations at your neighborhood grocery
-date: 2004-02-11 -0800
+date: 2004-02-11 -0800 9:00 AM
 tags: [politics]
 redirect_from: "/archive/2004/02/10/race-relations-at-your-neighborhood-grocery.aspx/"
 ---

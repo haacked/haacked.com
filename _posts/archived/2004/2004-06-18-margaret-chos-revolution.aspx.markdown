@@ -1,6 +1,6 @@
 ---
 title: Margaret Cho's Revolution
-date: 2004-06-18 -0800
+date: 2004-06-18 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2004/06/17/margaret-chos-revolution.aspx/"
 ---

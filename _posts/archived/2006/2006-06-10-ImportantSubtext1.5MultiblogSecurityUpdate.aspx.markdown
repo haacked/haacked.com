@@ -1,6 +1,6 @@
 ---
 title: Important Subtext 1.5 Multiblog Security Update
-date: 2006-06-10 -0800
+date: 2006-06-10 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2006/06/09/ImportantSubtext1.5MultiblogSecurityUpdate.aspx/"
 ---

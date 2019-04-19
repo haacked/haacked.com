@@ -1,6 +1,6 @@
 ---
 title: 'VIDEO: Aswesome Rock Balancing Video'
-date: 2005-08-09 -0800
+date: 2005-08-09 -0800 9:00 AM
 tags: [interesting]
 redirect_from: "/archive/2005/08/08/video-aswesome-rock-balancing-video.aspx/"
 ---

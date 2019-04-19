@@ -1,6 +1,6 @@
 ---
 title: Unit Testing Security Example
-date: 2007-09-21 -0800
+date: 2007-09-21 -0800 9:00 AM
 tags: [code,tdd]
 redirect_from: "/archive/2007/09/20/unit-testing-security-example.aspx/"
 ---

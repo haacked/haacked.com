@@ -1,7 +1,7 @@
 ---
 title: "Comments for Jekyll Blogs"
 description: "A comment system that stores comments in your Jekyll blog's repository."
-date: 2018-06-24 -0800
+date: 2018-06-24 -0800 9:00 AM
 tags: [jekyll,blogging,serverless]
 excerpt_image: https://user-images.githubusercontent.com/19977/41829489-e2745840-77ef-11e8-9ec5-f1d7385bb190.jpg
 ---

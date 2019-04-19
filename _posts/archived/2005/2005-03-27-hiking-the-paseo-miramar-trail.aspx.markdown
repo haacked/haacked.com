@@ -1,6 +1,6 @@
 ---
 title: Hiking the Paseo Miramar Trail
-date: 2005-03-27 -0800
+date: 2005-03-27 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2005/03/26/hiking-the-paseo-miramar-trail.aspx/"
 ---

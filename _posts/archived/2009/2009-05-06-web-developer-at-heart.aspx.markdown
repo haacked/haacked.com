@@ -1,6 +1,6 @@
 ---
 title: I am a Web Developer At Heart
-date: 2009-05-06 -0800
+date: 2009-05-06 -0800 9:00 AM
 tags: [web,developers]
 redirect_from: "/archive/2009/05/05/web-developer-at-heart.aspx/"
 ---

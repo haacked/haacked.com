@@ -1,6 +1,6 @@
 ---
 title: ASP.NET MVC NerdDinner Walkthrough
-date: 2009-04-29 -0800
+date: 2009-04-29 -0800 9:00 AM
 tags: [aspnetmvc]
 redirect_from: "/archive/2009/04/28/aspnetmvc-nerddinner-walkthrough.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Datatable as a method parameter
-date: 2004-02-04 -0800
+date: 2004-02-04 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2004/02/03/DataTableAsAMethodParameter.aspx/"
 ---

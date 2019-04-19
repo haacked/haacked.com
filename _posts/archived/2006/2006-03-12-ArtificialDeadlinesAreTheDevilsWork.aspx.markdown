@@ -1,6 +1,6 @@
 ---
 title: Artificial Deadlines Are The Devils Work
-date: 2006-03-12 -0800
+date: 2006-03-12 -0800 9:00 AM
 tags: [product-management,management,software]
 redirect_from: "/archive/2006/03/11/ArtificialDeadlinesAreTheDevilsWork.aspx/"
 ---

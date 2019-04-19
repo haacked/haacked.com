@@ -1,6 +1,6 @@
 ---
 title: RSS Bandit 1.3.0.26 Released!
-date: 2005-03-20 -0800
+date: 2005-03-20 -0800 9:00 AM
 tags: [rssbandit]
 redirect_from: "/archive/2005/03/19/rssbandit-13026-released.aspx/"
 ---

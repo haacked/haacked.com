@@ -1,6 +1,6 @@
 ---
 title: Interviewing
-date: 2004-09-24 -0800
+date: 2004-09-24 -0800 9:00 AM
 tags: [hiring]
 redirect_from: "/archive/2004/09/23/interviewing.aspx/"
 ---

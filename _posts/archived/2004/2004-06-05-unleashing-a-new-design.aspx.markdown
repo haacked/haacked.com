@@ -1,6 +1,6 @@
 ---
 title: Unleashing a new design...
-date: 2004-06-05 -0800
+date: 2004-06-05 -0800 9:00 AM
 tags: [design]
 redirect_from: "/archive/2004/06/04/unleashing-a-new-design.aspx/"
 ---

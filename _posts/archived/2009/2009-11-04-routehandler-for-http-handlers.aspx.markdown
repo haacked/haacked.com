@@ -1,6 +1,6 @@
 ---
 title: A RouteHandler for IHttpHandlers
-date: 2009-11-04 -0800
+date: 2009-11-04 -0800 9:00 AM
 tags: [aspnet,code]
 redirect_from: "/archive/2009/11/03/routehandler-for-http-handlers.aspx/"
 ---

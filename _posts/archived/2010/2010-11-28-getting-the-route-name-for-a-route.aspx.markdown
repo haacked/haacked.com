@@ -1,6 +1,6 @@
 ---
 title: Getting The Route Name For A Route
-date: 2010-11-28 -0800
+date: 2010-11-28 -0800 9:00 AM
 tags: [aspnet,aspnetmvc,code]
 redirect_from: "/archive/2010/11/27/getting-the-route-name-for-a-route.aspx/"
 ---

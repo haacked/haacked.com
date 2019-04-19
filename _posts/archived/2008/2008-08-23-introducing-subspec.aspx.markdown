@@ -1,6 +1,6 @@
 ---
 title: Streamlined BDD Using SubSpec for xUnit.NET
-date: 2008-08-23 -0800
+date: 2008-08-23 -0800 9:00 AM
 tags: [tdd]
 redirect_from:
   - "/archive/2008/08/22/introducing-subspec.aspx/"

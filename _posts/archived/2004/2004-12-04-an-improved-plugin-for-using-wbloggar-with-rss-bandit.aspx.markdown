@@ -1,6 +1,6 @@
 ---
 title: An Improved Plugin for Using w.bloggar with RSS Bandit
-date: 2004-12-04 -0800
+date: 2004-12-04 -0800 9:00 AM
 tags: [rss]
 redirect_from: "/archive/2004/12/03/an-improved-plugin-for-using-wbloggar-with-rss-bandit.aspx/"
 ---

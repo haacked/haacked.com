@@ -1,6 +1,6 @@
 ---
 title: Create Your Own Motivator Poster
-date: 2007-05-11 -0800
+date: 2007-05-11 -0800 9:00 AM
 tags: [interesting]
 redirect_from: "/archive/2007/05/10/create-your-own-motivator-poster.aspx/"
 ---

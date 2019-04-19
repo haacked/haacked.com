@@ -1,6 +1,6 @@
 ---
 title: Word Choice May Haunt Your Blog
-date: 2005-01-15 -0800
+date: 2005-01-15 -0800 9:00 AM
 tags: [blogging]
 redirect_from: "/archive/2005/01/14/word-choice-may-haunt-your-blog.aspx/"
 ---

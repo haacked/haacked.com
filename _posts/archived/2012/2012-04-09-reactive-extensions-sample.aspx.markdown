@@ -1,6 +1,6 @@
 ---
 title: Make Async Your Buddy With Reactive Extensions
-date: 2012-04-09 -0800
+date: 2012-04-09 -0800 9:00 AM
 tags: [code,rx]
 redirect_from: "/archive/2012/04/08/reactive-extensions-sample.aspx/"
 ---

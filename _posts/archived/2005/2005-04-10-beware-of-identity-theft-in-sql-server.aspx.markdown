@@ -1,6 +1,6 @@
 ---
 title: Beware of @@Identity Theft in SQL Server
-date: 2005-04-10 -0800
+date: 2005-04-10 -0800 9:00 AM
 tags: [sql]
 redirect_from: "/archive/2005/04/09/beware-of-identity-theft-in-sql-server.aspx/"
 ---

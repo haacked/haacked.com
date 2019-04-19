@@ -1,6 +1,6 @@
 ---
 title: I'm finally legit!
-date: 2004-03-05 -0800
+date: 2004-03-05 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2004/03/04/im-finally-legit.aspx/"
 ---

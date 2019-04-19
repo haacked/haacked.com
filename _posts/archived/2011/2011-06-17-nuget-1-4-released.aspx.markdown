@@ -1,6 +1,6 @@
 ---
 title: NuGet 1.4 Released
-date: 2011-06-17 -0800
+date: 2011-06-17 -0800 9:00 AM
 tags: [oss,nuget]
 redirect_from: "/archive/2011/06/16/nuget-1-4-released.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Will RSS Readers Clog the Web?
-date: 2004-04-30 -0800
+date: 2004-04-30 -0800 9:00 AM
 tags: [web,rss]
 redirect_from: "/archive/2004/04/29/will-rss-readers-clog-the-web.aspx/"
 ---

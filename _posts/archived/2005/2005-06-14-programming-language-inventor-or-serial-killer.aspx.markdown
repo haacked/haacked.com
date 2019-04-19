@@ -1,6 +1,6 @@
 ---
 title: Programming Language Inventor or Serial Killer?
-date: 2005-06-14 -0800
+date: 2005-06-14 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2005/06/13/programming-language-inventor-or-serial-killer.aspx/"
 ---

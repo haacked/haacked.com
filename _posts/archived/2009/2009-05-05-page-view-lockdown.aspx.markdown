@@ -1,6 +1,6 @@
 ---
 title: Put Your Pages and Views on Lockdown
-date: 2009-05-05 -0800
+date: 2009-05-05 -0800 9:00 AM
 tags: [aspnetmvc,security]
 redirect_from: "/archive/2009/05/04/page-view-lockdown.aspx/"
 ---

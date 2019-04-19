@@ -1,6 +1,6 @@
 ---
 title: "Your Editor should Encourage You"
-date: 2014-06-20 -0800
+date: 2014-06-20 -0800 9:00 AM
 tags: [visualstudio,vsix,encouragement]
 excerpt_image: https://cloud.githubusercontent.com/assets/19977/3343409/5c74eb98-f89f-11e3-9a50-2aaa0983dd83.png
 ---

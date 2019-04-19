@@ -1,6 +1,6 @@
 ---
 title: In Los Angeles this Friday for .NET Rocks Roadshow
-date: 2012-11-28 -0800
+date: 2012-11-28 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2012/11/27/in-los-angeles-this-friday-for-net-rocks-roadshow.aspx/"
 ---

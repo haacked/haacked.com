@@ -1,6 +1,6 @@
 ---
 title: Geek Shopping
-date: 2004-04-06 -0800
+date: 2004-04-06 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2004/04/05/geek-shopping.aspx/"
 ---

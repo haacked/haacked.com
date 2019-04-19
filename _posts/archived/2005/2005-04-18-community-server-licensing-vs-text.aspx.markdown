@@ -1,6 +1,6 @@
 ---
 title: Community Server Licensing vs .TEXT
-date: 2005-04-18 -0800
+date: 2005-04-18 -0800 9:00 AM
 tags: [blogging]
 redirect_from: "/archive/2005/04/17/community-server-licensing-vs-text.aspx/"
 ---

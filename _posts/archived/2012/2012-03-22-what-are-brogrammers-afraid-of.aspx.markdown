@@ -1,6 +1,6 @@
 ---
 title: What Are Brogrammers Afraid Of?
-date: 2012-03-22 -0800
+date: 2012-03-22 -0800 9:00 AM
 tags: [diversity]
 redirect_from: "/archive/2012/03/21/what-are-brogrammers-afraid-of.aspx/"
 ---

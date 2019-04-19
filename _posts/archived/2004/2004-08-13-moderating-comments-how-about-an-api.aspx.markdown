@@ -1,6 +1,6 @@
 ---
 title: Moderating Comments. How About An API?
-date: 2004-08-13 -0800
+date: 2004-08-13 -0800 9:00 AM
 tags: [rss]
 redirect_from: "/archive/2004/08/12/moderating-comments-how-about-an-api.aspx/"
 ---

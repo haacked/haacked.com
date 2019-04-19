@@ -1,6 +1,6 @@
 ---
 title: 'FUNNY: The REAL Automatic Update Message'
-date: 2005-08-10 -0800
+date: 2005-08-10 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2005/08/09/funny-the-real-automatic-update-message.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: DevSource Article on Exceptions
-date: 2005-11-16 -0800
+date: 2005-11-16 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2005/11/15/DevSourceArticleOnExceptions.aspx/"
 ---

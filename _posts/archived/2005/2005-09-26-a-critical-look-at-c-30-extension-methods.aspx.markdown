@@ -1,6 +1,6 @@
 ---
 title: A Critical Look at C# 3.0 Extension Methods
-date: 2005-09-26 -0800
+date: 2005-09-26 -0800 9:00 AM
 tags: [csharp]
 redirect_from: "/archive/2005/09/25/a-critical-look-at-c-30-extension-methods.aspx/"
 ---

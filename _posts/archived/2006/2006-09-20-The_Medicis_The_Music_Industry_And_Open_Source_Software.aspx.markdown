@@ -1,6 +1,6 @@
 ---
 title: The Medicis, The Music Industry, And Open Source Software
-date: 2006-09-20 -0800
+date: 2006-09-20 -0800 9:00 AM
 tags: [oss]
 redirect_from: "/archive/2006/09/19/The_Medicis_The_Music_Industry_And_Open_Source_Software.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: 4/20.  Where'd Your Coworker Go Around 4 PM?
-date: 2005-04-19 -0800
+date: 2005-04-19 -0800 9:00 AM
 tags: [humor,drugs]
 redirect_from: "/archive/2005/04/18/420-whered-your-coworker-go-around-4-pm.aspx/"
 ---

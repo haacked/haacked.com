@@ -1,6 +1,6 @@
 ---
 title: Using RFC3229 with Feeds Does Not Validate
-date: 2005-06-30 -0800
+date: 2005-06-30 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2005/06/29/using-rfc3229-with-feeds-does-not-validate.aspx/"
 ---

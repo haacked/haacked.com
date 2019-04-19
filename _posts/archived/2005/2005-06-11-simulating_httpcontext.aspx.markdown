@@ -1,6 +1,6 @@
 ---
 title: Simulating Http Context For Unit Tests Without Using Cassini nor IIS
-date: 2005-06-11 -0800
+date: 2005-06-11 -0800 9:00 AM
 tags: [code,tdd]
 redirect_from: "/archive/2005/06/10/simulating_httpcontext.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: TimeZones
-date: 2006-10-06 -0800
+date: 2006-10-06 -0800 9:00 AM
 tags: [dotnet]
 redirect_from: "/archive/2006/10/05/TimeZones.aspx/"
 ---

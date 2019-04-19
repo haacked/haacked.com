@@ -1,6 +1,6 @@
 ---
 title: Implementing CSS Based Printing
-date: 2006-03-09 -0800
+date: 2006-03-09 -0800 9:00 AM
 tags: [css]
 redirect_from: "/archive/2006/03/08/ImplementingCSSBasedPrinting.aspx/"
 ---

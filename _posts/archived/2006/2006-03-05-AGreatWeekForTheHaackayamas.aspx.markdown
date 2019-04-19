@@ -1,6 +1,6 @@
 ---
 title: A Great Week For The Haackayamas
-date: 2006-03-05 -0800
+date: 2006-03-05 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2006/03/04/AGreatWeekForTheHaackayamas.aspx/"
 ---

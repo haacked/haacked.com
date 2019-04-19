@@ -1,6 +1,6 @@
 ---
 title: Design Patterns Isn&#8217;t a Golden Hammer
-date: 2005-05-30 -0800
+date: 2005-05-30 -0800 9:00 AM
 tags: [software,design,patterns,refactoring]
 redirect_from: "/archive/2005/05/29/design-patterns-isn-8217t-a-golden-hammer.aspx/"
 ---

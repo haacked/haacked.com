@@ -1,6 +1,6 @@
 ---
 title: Rating Plug-In for RSS Bandit
-date: 2004-11-26 -0800
+date: 2004-11-26 -0800 9:00 AM
 tags: [rss]
 redirect_from: "/archive/2004/11/25/rating-plug-in-for-rss-bandit.aspx/"
 ---

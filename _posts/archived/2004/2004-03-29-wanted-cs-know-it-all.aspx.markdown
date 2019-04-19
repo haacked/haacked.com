@@ -1,6 +1,6 @@
 ---
 title: 'Wanted: CS Know-it-all'
-date: 2004-03-29 -0800
+date: 2004-03-29 -0800 9:00 AM
 tags: [mentoring]
 redirect_from: "/archive/2004/03/28/wanted-cs-know-it-all.aspx/"
 ---

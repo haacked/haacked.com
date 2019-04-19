@@ -1,6 +1,6 @@
 ---
 title: Subtext Is In The Running. Please Vote.
-date: 2007-07-02 -0800
+date: 2007-07-02 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2007/07/01/subtext-is-in-the-running.-please-vote.aspx/"
 ---

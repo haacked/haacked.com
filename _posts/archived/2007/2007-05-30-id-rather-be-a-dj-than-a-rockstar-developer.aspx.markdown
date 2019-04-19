@@ -1,6 +1,6 @@
 ---
 title: I'd Rather Be a DJ Than A Rockstar Developer
-date: 2007-05-30 -0800
+date: 2007-05-30 -0800 9:00 AM
 tags: [software,hiring]
 redirect_from: "/archive/2007/05/29/id-rather-be-a-dj-than-a-rockstar-developer.aspx/"
 ---

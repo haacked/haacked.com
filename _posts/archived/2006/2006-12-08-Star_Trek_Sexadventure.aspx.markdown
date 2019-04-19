@@ -1,6 +1,6 @@
 ---
 title: Star Trek Sexadventure
-date: 2006-12-08 -0800
+date: 2006-12-08 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2006/12/07/Star_Trek_Sexadventure.aspx/"
 ---

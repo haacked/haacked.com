@@ -1,6 +1,6 @@
 ---
 title: RSS Bandit Code Documentation (CHM)
-date: 2004-11-11 -0800
+date: 2004-11-11 -0800 9:00 AM
 tags: [rss]
 redirect_from: "/archive/2004/11/10/rss-bandit-code-documentation-chm.aspx/"
 ---

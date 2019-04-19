@@ -1,6 +1,6 @@
 ---
 title: Ideas To Reduce Comment Spam
-date: 2004-06-04 -0800
+date: 2004-06-04 -0800 9:00 AM
 tags: [spam]
 redirect_from: "/archive/2004/06/03/ideas-to-reduce-comment-spam.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Model Binding To A List
-date: 2008-10-23 -0800
+date: 2008-10-23 -0800 9:00 AM
 tags: [aspnetmvc]
 redirect_from: "/archive/2008/10/22/model-binding-to-a-list.aspx/"
 ---

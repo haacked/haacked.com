@@ -1,6 +1,6 @@
 ---
 title: Better Git with PowerShell
-date: 2011-12-13 -0800
+date: 2011-12-13 -0800 9:00 AM
 tags: [code,git]
 redirect_from: "/archive/2011/12/12/better-git-with-powershell.aspx/"
 ---

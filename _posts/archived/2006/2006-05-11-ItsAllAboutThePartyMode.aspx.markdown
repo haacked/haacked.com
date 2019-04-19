@@ -1,6 +1,6 @@
 ---
 title: It's All About The Party Mode!
-date: 2006-05-11 -0800
+date: 2006-05-11 -0800 9:00 AM
 tags: [interesting]
 redirect_from: "/archive/2006/05/10/ItsAllAboutThePartyMode.aspx/"
 ---

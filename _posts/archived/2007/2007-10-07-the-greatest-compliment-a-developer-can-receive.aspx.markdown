@@ -1,6 +1,6 @@
 ---
 title: The Greatest Compliment A Developer Can Receive
-date: 2007-10-07 -0800
+date: 2007-10-07 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2007/10/06/the-greatest-compliment-a-developer-can-receive.aspx/"
 ---

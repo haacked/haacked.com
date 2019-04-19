@@ -1,6 +1,6 @@
 ---
 title: Is The Null Coalescing Operator Thread Safe?
-date: 2006-08-08 -0800
+date: 2006-08-08 -0800 9:00 AM
 tags: [concurrency,dotnet,csharp]
 redirect_from: "/archive/2006/08/07/IsTheNullCoalescingOperatorThreadSafe.aspx/"
 ---

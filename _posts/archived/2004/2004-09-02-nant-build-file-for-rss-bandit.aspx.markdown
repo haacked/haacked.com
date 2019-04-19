@@ -1,6 +1,6 @@
 ---
 title: NAnt Build File For Rss Bandit
-date: 2004-09-02 -0800
+date: 2004-09-02 -0800 9:00 AM
 tags: [ci]
 redirect_from: "/archive/2004/09/01/nant-build-file-for-rss-bandit.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: The Must Read Book Of The Summer
-date: 2006-07-13 -0800
+date: 2006-07-13 -0800 9:00 AM
 tags: [books,writing]
 redirect_from: "/archive/2006/07/12/TheMustReadBookOfTheSummer.aspx/"
 ---

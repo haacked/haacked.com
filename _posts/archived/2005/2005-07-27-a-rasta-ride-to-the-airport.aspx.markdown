@@ -1,6 +1,6 @@
 ---
 title: A Rasta Ride to the Airport
-date: 2005-07-27 -0800
+date: 2005-07-27 -0800 9:00 AM
 tags: [personal,japan,tokyo]
 redirect_from: "/archive/2005/07/26/a-rasta-ride-to-the-airport.aspx/"
 ---

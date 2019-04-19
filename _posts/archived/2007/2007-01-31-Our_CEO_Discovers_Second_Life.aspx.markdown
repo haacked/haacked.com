@@ -1,6 +1,6 @@
 ---
 title: Our CEO Discovers Second Life
-date: 2007-01-31 -0800
+date: 2007-01-31 -0800 9:00 AM
 tags: [gaming]
 redirect_from: "/archive/2007/01/30/Our_CEO_Discovers_Second_Life.aspx/"
 ---

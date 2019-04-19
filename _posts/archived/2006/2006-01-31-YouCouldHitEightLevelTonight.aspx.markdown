@@ -1,6 +1,6 @@
 ---
 title: You Could Hit Eight Level Tonight
-date: 2006-01-31 -0800
+date: 2006-01-31 -0800 9:00 AM
 tags: [gaming,humor]
 redirect_from: "/archive/2006/01/30/YouCouldHitEightLevelTonight.aspx/"
 ---

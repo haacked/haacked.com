@@ -1,6 +1,6 @@
 ---
 title: "Twiggy Update: She Likes That I'm Working From Home"
-date: 2005-03-23 -0800
+date: 2005-03-23 -0800 9:00 AM
 tags: [personal,twiggy]
 redirect_from:
 - "/archive/2005/03/21/twiggy-update-she-likes-that-im-working-from-home.aspx/"

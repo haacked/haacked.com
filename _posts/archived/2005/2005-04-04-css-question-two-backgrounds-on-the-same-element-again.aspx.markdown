@@ -1,6 +1,6 @@
 ---
 title: 'CSS Question: Two Backgrounds on the Same Element?'
-date: 2005-04-04 -0800
+date: 2005-04-04 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2005/04/03/css-question-two-backgrounds-on-the-same-element-again.aspx/"
 ---

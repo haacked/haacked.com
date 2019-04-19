@@ -1,6 +1,6 @@
 ---
 title: Flickr Lovr
-date: 2005-05-31 -0800
+date: 2005-05-31 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2005/05/30/flickr-lovr.aspx/"
 ---

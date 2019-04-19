@@ -1,6 +1,6 @@
 ---
 title: Known Installation Issues With ASP.NET MVC
-date: 2008-12-03 -0800
+date: 2008-12-03 -0800 9:00 AM
 tags: [aspnetmvc,aspnet]
 redirect_from: "/archive/2008/12/02/known-installation-issues-with-asp.net-mvc.aspx/"
 ---

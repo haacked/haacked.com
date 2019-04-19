@@ -1,6 +1,6 @@
 ---
 title: "The Case Against Pay for Performance"
-date: 2014-08-14 -0800
+date: 2014-08-14 -0800 9:00 AM
 tags: [management,compensation,career,motivation]
 excerpt_image: https://cloud.githubusercontent.com/assets/19977/3928090/7e00f0e6-2404-11e4-8168-89532fcfdef6.jpg
 ---

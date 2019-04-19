@@ -1,6 +1,6 @@
 ---
 title: Dynamic Methods in View Data
-date: 2010-08-02 -0800
+date: 2010-08-02 -0800 9:00 AM
 tags: [aspnet,aspnetmvc,code]
 redirect_from: "/archive/2010/08/01/dynamic-methods-in-view-data.aspx/"
 ---

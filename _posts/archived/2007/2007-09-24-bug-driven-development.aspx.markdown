@@ -1,6 +1,6 @@
 ---
 title: Bug Driven Development
-date: 2007-09-24 -0800
+date: 2007-09-24 -0800 9:00 AM
 tags: [code,tdd,methodologies]
 redirect_from: "/archive/2007/09/23/bug-driven-development.aspx/"
 ---

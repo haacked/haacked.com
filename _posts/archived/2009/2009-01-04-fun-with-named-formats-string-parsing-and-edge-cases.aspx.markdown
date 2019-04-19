@@ -1,6 +1,6 @@
 ---
 title: Fun With Named Formats, String Parsing, and Edge Cases
-date: 2009-01-04 -0800
+date: 2009-01-04 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2009/01/03/fun-with-named-formats-string-parsing-and-edge-cases.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Semver Deep Links"
-date: 2016-01-20 -0800
+date: 2016-01-20 -0800 9:00 AM
 tags: [semver]
 excerpt_image: https://cloud.githubusercontent.com/assets/19977/12462595/04521dda-bf74-11e5-95ca-ec7ec0b5e6e4.jpg
 ---

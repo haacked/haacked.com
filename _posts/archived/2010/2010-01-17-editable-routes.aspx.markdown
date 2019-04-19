@@ -1,6 +1,6 @@
 ---
 title: "Editable Routes"
-date: 2010-01-17 -0800
+date: 2010-01-17 -0800 9:00 AM
 tags: [aspnetmvc,aspnet,code,routing]
 ---
 UPDATE: 2011/02/13: This code is now included in the

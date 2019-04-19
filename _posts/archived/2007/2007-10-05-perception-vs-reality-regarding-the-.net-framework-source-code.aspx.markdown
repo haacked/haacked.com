@@ -1,6 +1,6 @@
 ---
 title: Perception Vs Reality Regarding The .NET Framework Source Code
-date: 2007-10-05 -0800
+date: 2007-10-05 -0800 9:00 AM
 tags: [dotnet]
 redirect_from: "/archive/2007/10/04/perception-vs-reality-regarding-the-.net-framework-source-code.aspx/"
 ---

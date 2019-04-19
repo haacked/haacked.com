@@ -1,6 +1,6 @@
 ---
 title: Watching The MLS Is Like Self Flaggelation
-date: 2006-04-23 -0800
+date: 2006-04-23 -0800 9:00 AM
 tags: [soccer,personal]
 redirect_from: "/archive/2006/04/22/WatchingTheMLSIsLikeSelfFlaggelation.aspx/"
 ---

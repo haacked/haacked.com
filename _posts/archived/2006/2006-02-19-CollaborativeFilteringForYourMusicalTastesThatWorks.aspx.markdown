@@ -1,6 +1,6 @@
 ---
 title: Collaborative Filtering For Your Musical Tastes That Works
-date: 2006-02-19 -0800
+date: 2006-02-19 -0800 9:00 AM
 tags: [music,tools]
 redirect_from: "/archive/2006/02/18/CollaborativeFilteringForYourMusicalTastesThatWorks.aspx/"
 ---

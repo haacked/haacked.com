@@ -1,6 +1,6 @@
 ---
 title: Harsh California Weather
-date: 2004-03-02 -0800
+date: 2004-03-02 -0800 9:00 AM
 tags: [news,humor]
 redirect_from: "/archive/2004/03/01/harsh-california-weather.aspx/"
 ---

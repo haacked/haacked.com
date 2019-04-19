@@ -1,6 +1,6 @@
 ---
 title: Burning Man
-date: 2004-03-14 -0800
+date: 2004-03-14 -0800 9:00 AM
 tags: [burningman]
 redirect_from: "/archive/2004/03/13/burning-man.aspx/"
 ---

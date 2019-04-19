@@ -1,6 +1,6 @@
 ---
 title: An Arbitrary Cycle Method For ASP.NET MVC
-date: 2008-08-07 -0800
+date: 2008-08-07 -0800 9:00 AM
 tags: [aspnetmvc]
 redirect_from: "/archive/2008/08/06/aspnetmvc_cycle.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Soccer Result: 2 - 2 tie.'
-date: 2004-07-25 -0800
+date: 2004-07-25 -0800 9:00 AM
 tags: [soccer]
 redirect_from: "/archive/2004/07/24/soccer-result-2--2-tie.aspx/"
 ---

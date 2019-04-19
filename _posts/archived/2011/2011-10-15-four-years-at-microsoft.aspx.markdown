@@ -1,6 +1,6 @@
 ---
 title: Four Years At Microsoft
-date: 2011-10-15 -0800
+date: 2011-10-15 -0800 9:00 AM
 tags: [microsoft,work]
 redirect_from: "/archive/2011/10/14/four-years-at-microsoft.aspx/"
 ---

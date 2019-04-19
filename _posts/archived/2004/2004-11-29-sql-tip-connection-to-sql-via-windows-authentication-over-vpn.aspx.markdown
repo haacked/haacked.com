@@ -1,6 +1,6 @@
 ---
 title: 'SQL TIP: Connection To SQL via Windows Authentication over VPN'
-date: 2004-11-29 -0800
+date: 2004-11-29 -0800 9:00 AM
 tags: [sql]
 redirect_from: "/archive/2004/11/28/sql-tip-connection-to-sql-via-windows-authentication-over-vpn.aspx/"
 ---

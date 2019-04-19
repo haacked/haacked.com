@@ -1,6 +1,6 @@
 ---
 title: "Editable Routes Using App_Code"
-date: 2010-01-17 -0800
+date: 2010-01-17 -0800 9:00 AM
 tags: [aspnet,aspnetmvc,routing]
 ---
 UPDATE: THIS POST IS DEPRECATED!!! I’ve updated the [original post](http://haacked.com/archive/2010/01/17/editable-routes.aspx "Editable Routes")

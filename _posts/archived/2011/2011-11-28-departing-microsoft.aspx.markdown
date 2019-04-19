@@ -1,6 +1,6 @@
 ---
 title: Departures
-date: 2011-11-28 -0800
+date: 2011-11-28 -0800 9:00 AM
 tags: [microsoft,work]
 redirect_from: "/archive/2011/11/27/departing-microsoft.aspx/"
 ---

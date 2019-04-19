@@ -1,6 +1,6 @@
 ---
 title: "To String or to string"
-date: 2015-12-16 -0800
+date: 2015-12-16 -0800 9:00 AM
 tags: [csharp,design,code]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Absolutely Nothing. Say It Again! (Configuration Section Handlers)
-date: 2004-06-27 -0800
+date: 2004-06-27 -0800 9:00 AM
 tags: [dotnet]
 redirect_from: "/archive/2004/06/26/absolutely-nothing-say-it-again-configuration-section-handlers.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Syntax Highlighting Revisited: SnippetCompiler.'
-date: 2004-06-17 -0800
+date: 2004-06-17 -0800 9:00 AM
 tags: [html,code]
 redirect_from: "/archive/2004/06/16/syntax-highlighting-revisited-snippetcompiler.aspx/"
 ---

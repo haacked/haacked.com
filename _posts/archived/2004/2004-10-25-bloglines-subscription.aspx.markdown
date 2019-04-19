@@ -1,6 +1,6 @@
 ---
 title: Bloglines subscription
-date: 2004-10-25 -0800
+date: 2004-10-25 -0800 9:00 AM
 tags: [blogging]
 redirect_from: "/archive/2004/10/24/bloglines-subscription.aspx/"
 ---

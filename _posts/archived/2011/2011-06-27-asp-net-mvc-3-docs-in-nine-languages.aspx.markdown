@@ -1,6 +1,6 @@
 ---
 title: ASP.NET MVC 3 Docs In Nine Languages
-date: 2011-06-27 -0800
+date: 2011-06-27 -0800 9:00 AM
 tags: [aspnet,aspnetmvc]
 redirect_from: "/archive/2011/06/26/asp-net-mvc-3-docs-in-nine-languages.aspx/"
 ---

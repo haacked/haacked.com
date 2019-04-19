@@ -1,6 +1,6 @@
 ---
 title: Cleanup The Crap That Windows Live Writer Injects With This HttpModule
-date: 2007-07-29 -0800
+date: 2007-07-29 -0800 9:00 AM
 tags: [tips,aspnet]
 redirect_from: "/archive/2007/07/28/cleanup-the-crap-that-windows-live-writer-injects-with-this.aspx/"
 ---

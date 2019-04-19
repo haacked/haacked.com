@@ -1,6 +1,6 @@
 ---
 title: Atheist Calls Pledge Unconstitutional
-date: 2004-03-25 -0800
+date: 2004-03-25 -0800 9:00 AM
 tags: [politics,news]
 redirect_from: "/archive/2004/03/24/atheist-calls-pledge-unconstitutional.aspx/"
 ---

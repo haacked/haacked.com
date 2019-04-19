@@ -1,6 +1,6 @@
 ---
 title: What&rsquo;s the Difference Between a Value Provider and Model Binder?
-date: 2011-06-30 -0800
+date: 2011-06-30 -0800 9:00 AM
 tags: [aspnet,aspnetmvc,code]
 redirect_from: "/archive/2011/06/29/whatrsquos-the-difference-between-a-value-provider-and-model-binder.aspx/"
 ---

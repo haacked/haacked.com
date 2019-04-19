@@ -1,6 +1,6 @@
 ---
 title: Apologies For The Duplicate Posts
-date: 2006-04-11 -0800
+date: 2006-04-11 -0800 9:00 AM
 tags: [meta]
 redirect_from: "/archive/2006/04/10/ApologiesForTheDuplicatePosts.aspx/"
 ---

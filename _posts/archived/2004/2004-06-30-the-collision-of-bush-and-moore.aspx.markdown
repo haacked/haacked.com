@@ -1,6 +1,6 @@
 ---
 title: The Collision Of Bush and Moore...
-date: 2004-06-30 -0800
+date: 2004-06-30 -0800 9:00 AM
 tags: [politics,humor]
 redirect_from: "/archive/2004/06/29/the-collision-of-bush-and-moore.aspx/"
 ---

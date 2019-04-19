@@ -1,6 +1,6 @@
 ---
 title: Updated version of the RssBandit documentation
-date: 2004-02-22 -0800
+date: 2004-02-22 -0800 9:00 AM
 tags: [rssbandit,rss]
 redirect_from: "/archive/2004/02/21/updated-version-of-the-rssbandit-documentation.aspx/"
 ---

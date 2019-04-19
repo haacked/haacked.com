@@ -1,6 +1,6 @@
 ---
 title: Replacing Recursion With a Stack
-date: 2007-03-04 -0800
+date: 2007-03-04 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2007/03/03/Replacing_Recursion_With_a_Stack.aspx/"
 ---

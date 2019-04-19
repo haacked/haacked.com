@@ -1,6 +1,6 @@
 ---
 title: What Exactly Are You Trying To Prove?
-date: 2007-11-16 -0800
+date: 2007-11-16 -0800 9:00 AM
 tags: [tdd,methodologies]
 redirect_from: "/archive/2007/11/15/what-exactly-are-you-trying-to-prove.aspx/"
 ---

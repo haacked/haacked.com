@@ -1,6 +1,6 @@
 ---
 title: IPod DJ Mixer
-date: 2005-07-21 -0800
+date: 2005-07-21 -0800 9:00 AM
 tags: [gadgets]
 redirect_from: "/archive/2005/07/20/ipod-dj-mixer.aspx/"
 ---

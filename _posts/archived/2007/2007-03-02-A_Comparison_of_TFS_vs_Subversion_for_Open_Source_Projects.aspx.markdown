@@ -1,6 +1,6 @@
 ---
 title: A Comparison of TFS vs Subversion for Open Source Projects
-date: 2007-03-02 -0800
+date: 2007-03-02 -0800 9:00 AM
 tags: [source-control]
 redirect_from: "/archive/2007/03/01/A_Comparison_of_TFS_vs_Subversion_for_Open_Source_Projects.aspx/"
 ---

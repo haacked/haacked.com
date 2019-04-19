@@ -1,6 +1,6 @@
 ---
 title: Writing an ASP.NET MVC Controller Inspector
-date: 2011-08-10 -0800
+date: 2011-08-10 -0800 9:00 AM
 tags: [aspnetmvc,aspnet]
 redirect_from: "/archive/2011/08/09/writing-an-asp-net-mvc-controller-inspector.aspx/"
 ---

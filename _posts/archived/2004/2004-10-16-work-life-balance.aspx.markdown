@@ -1,7 +1,7 @@
 ---
 title: Work-life balance
 description: "How often do you hear people in the twilight of their lives or on their death beds reflect on the wonderful time they spent at the office?"
-date: 2004-10-16 -0800
+date: 2004-10-16 -0800 9:00 AM
 tags: [work,career]
 redirect_from: "/archive/2004/10/15/work-life-balance.aspx/"
 ---

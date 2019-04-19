@@ -1,6 +1,6 @@
 ---
 title: Cheney Coordinated Haliburton Contract
-date: 2004-06-02 -0800
+date: 2004-06-02 -0800 9:00 AM
 tags: [news]
 redirect_from: "/archive/2004/06/01/cheney-coordinated-haliburton-contract.aspx/"
 ---

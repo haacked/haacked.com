@@ -1,6 +1,6 @@
 ---
 title: Secrets of Product Support
-date: 2004-03-03 -0800
+date: 2004-03-03 -0800 9:00 AM
 tags: [support]
 redirect_from: "/archive/2004/03/02/secrets-of-product-support.aspx/"
 ---

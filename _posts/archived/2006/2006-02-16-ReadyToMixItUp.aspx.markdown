@@ -1,6 +1,6 @@
 ---
 title: Ready To Mix It Up
-date: 2006-02-16 -0800
+date: 2006-02-16 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2006/02/15/ReadyToMixItUp.aspx/"
 ---

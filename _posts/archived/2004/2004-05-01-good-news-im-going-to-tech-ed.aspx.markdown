@@ -1,6 +1,6 @@
 ---
 title: Good News! I'm going to Tech-Ed!!!
-date: 2004-05-01 -0800
+date: 2004-05-01 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2004/04/30/good-news-im-going-to-tech-ed.aspx/"
 ---

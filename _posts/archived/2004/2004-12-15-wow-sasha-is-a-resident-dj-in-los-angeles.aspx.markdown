@@ -1,6 +1,6 @@
 ---
 title: Wow! Sasha Is a Resident DJ in Los Angeles
-date: 2004-12-15 -0800
+date: 2004-12-15 -0800 9:00 AM
 tags: [music]
 redirect_from: "/archive/2004/12/14/wow-sasha-is-a-resident-dj-in-los-angeles.aspx/"
 ---

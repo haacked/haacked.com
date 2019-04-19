@@ -1,6 +1,6 @@
 ---
 title: Dare Makes a Move to be More Social
-date: 2004-10-24 -0800
+date: 2004-10-24 -0800 9:00 AM
 tags: [blogging]
 redirect_from: "/archive/2004/10/23/dare-makes-a-move-to-be-more-social.aspx/"
 ---

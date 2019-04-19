@@ -1,6 +1,6 @@
 ---
 title: Next Stop, Norway!
-date: 2009-04-22 -0800
+date: 2009-04-22 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2009/04/21/next-stop-norway.aspx/"
 ---

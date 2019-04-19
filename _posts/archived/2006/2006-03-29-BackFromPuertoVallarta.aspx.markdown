@@ -1,6 +1,6 @@
 ---
 title: Back from Puerto Vallarta
-date: 2006-03-29 -0800
+date: 2006-03-29 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2006/03/28/BackFromPuertoVallarta.aspx/"
 ---

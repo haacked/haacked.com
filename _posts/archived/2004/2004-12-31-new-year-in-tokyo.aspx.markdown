@@ -1,6 +1,6 @@
 ---
 title: Happy New Years From Tokyo!
-date: 2004-12-31 -0800
+date: 2004-12-31 -0800 9:00 AM
 tags: [personal,japan,tokyo]
 redirect_from: "/archive/2004/12/30/new-year-in-tokyo.aspx/"
 ---

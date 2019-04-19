@@ -1,6 +1,6 @@
 ---
 title: Comment Spam Relief In Subtext Coming Soon
-date: 2006-10-09 -0800
+date: 2006-10-09 -0800 9:00 AM
 tags: [spam]
 redirect_from: "/archive/2006/10/08/Comment_Spam_Relief_In_Subtext_Coming_Soon.aspx/"
 ---

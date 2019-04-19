@@ -1,6 +1,6 @@
 ---
 title: "A Billion Is Cool"
-date: 2016-05-11 -0800
+date: 2016-05-11 -0800 9:00 AM
 tags: [nuget]
 excerpt_image: https://cloud.githubusercontent.com/assets/19977/15195972/16db77ae-177f-11e6-8837-9819e8047f15.png
 ---

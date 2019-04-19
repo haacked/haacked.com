@@ -1,6 +1,6 @@
 ---
 title: 'T4CSS: A T4 Template for .Less CSS With Compression'
-date: 2009-12-02 -0800
+date: 2009-12-02 -0800 9:00 AM
 tags: [aspnet,code]
 redirect_from: "/archive/2009/12/01/t4-template-for-less-css.aspx/"
 ---

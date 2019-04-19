@@ -1,6 +1,6 @@
 ---
 title: HTML Stripping Challenge
-date: 2008-11-11 -0800
+date: 2008-11-11 -0800 9:00 AM
 tags: [code,html]
 redirect_from: "/archive/2008/11/10/html-stripping-challenge.aspx/"
 ---

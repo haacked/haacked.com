@@ -1,6 +1,6 @@
 ---
 title: ReSharper Reloaded
-date: 2004-08-18 -0800
+date: 2004-08-18 -0800 9:00 AM
 tags: [tools]
 redirect_from: "/archive/2004/08/17/resharper-reloaded.aspx/"
 ---

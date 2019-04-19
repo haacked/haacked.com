@@ -1,6 +1,6 @@
 ---
 title: The Viper Room And Soccer Woes
-date: 2006-10-23 -0800
+date: 2006-10-23 -0800 9:00 AM
 tags: [soccer,personal]
 redirect_from: "/archive/2006/10/22/The_Viper_Room_And_Soccer_Woes.aspx/"
 ---

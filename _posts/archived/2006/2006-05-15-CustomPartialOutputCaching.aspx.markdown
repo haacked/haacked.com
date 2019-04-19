@@ -1,6 +1,6 @@
 ---
 title: Custom Partial Output Caching
-date: 2006-05-15 -0800
+date: 2006-05-15 -0800 9:00 AM
 tags: [aspnet,caching]
 redirect_from: "/archive/2006/05/14/CustomPartialOutputCaching.aspx/"
 ---

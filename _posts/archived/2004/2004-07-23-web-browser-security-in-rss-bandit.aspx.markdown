@@ -1,6 +1,6 @@
 ---
 title: Web Browser Security In RSS Bandit
-date: 2004-07-23 -0800
+date: 2004-07-23 -0800 9:00 AM
 tags: [rss,security]
 redirect_from: "/archive/2004/07/22/web-browser-security-in-rss-bandit.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vista Gadget To Monitor Your Build
-date: 2007-04-16 -0800
+date: 2007-04-16 -0800 9:00 AM
 tags: [tools]
 redirect_from: "/archive/2007/04/15/vista-gadget-to-monitor-your-build.aspx/"
 ---

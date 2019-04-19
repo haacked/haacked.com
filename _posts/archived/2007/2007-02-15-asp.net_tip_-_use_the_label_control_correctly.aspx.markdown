@@ -1,6 +1,6 @@
 ---
 title: ASP.NET Tip - Use The Label Control Correctly
-date: 2007-02-15 -0800
+date: 2007-02-15 -0800 9:00 AM
 tags: [tips,aspnet]
 redirect_from: "/archive/2007/02/14/asp.net_tip_-_use_the_label_control_correctly.aspx/"
 ---

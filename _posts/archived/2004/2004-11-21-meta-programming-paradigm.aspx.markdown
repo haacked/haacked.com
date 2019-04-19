@@ -1,6 +1,6 @@
 ---
 title: Meta Programming Paradigm
-date: 2004-11-21 -0800
+date: 2004-11-21 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2004/11/20/meta-programming-paradigm.aspx/"
 ---

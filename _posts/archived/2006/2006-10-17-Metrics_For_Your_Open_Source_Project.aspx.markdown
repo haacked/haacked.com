@@ -1,6 +1,6 @@
 ---
 title: Metrics For Your Open Source Project
-date: 2006-10-17 -0800
+date: 2006-10-17 -0800 9:00 AM
 tags: [oss]
 redirect_from: "/archive/2006/10/16/Metrics_For_Your_Open_Source_Project.aspx/"
 ---

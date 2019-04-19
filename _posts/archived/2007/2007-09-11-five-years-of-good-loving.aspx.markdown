@@ -1,6 +1,6 @@
 ---
 title: Five Years Of Good Loving
-date: 2007-09-11 -0800
+date: 2007-09-11 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2007/09/10/five-years-of-good-loving.aspx/"
 ---

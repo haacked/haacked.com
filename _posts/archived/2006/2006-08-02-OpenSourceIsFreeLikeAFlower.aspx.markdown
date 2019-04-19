@@ -1,6 +1,6 @@
 ---
 title: Open Source Is Free Like A Flower
-date: 2006-08-02 -0800
+date: 2006-08-02 -0800 9:00 AM
 tags: [code,oss]
 redirect_from: "/archive/2006/08/01/OpenSourceIsFreeLikeAFlower.aspx/"
 ---

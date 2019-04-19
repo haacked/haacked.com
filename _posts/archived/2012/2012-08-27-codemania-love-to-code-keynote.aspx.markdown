@@ -1,6 +1,6 @@
 ---
 title: CodeMania Love To Code Keynote
-date: 2012-08-27 -0800
+date: 2012-08-27 -0800 9:00 AM
 tags: [conferences,diversity]
 redirect_from: "/archive/2012/08/26/codemania-love-to-code-keynote.aspx/"
 ---

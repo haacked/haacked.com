@@ -1,6 +1,6 @@
 ---
 title: Sending JSON to an ASP.NET MVC Action Method Argument
-date: 2010-04-15 -0800
+date: 2010-04-15 -0800 9:00 AM
 tags: [json,aspnetmvc]
 redirect_from: "/archive/2010/04/14/sending-json-to-an-asp-net-mvc-action-method-argument.aspx/"
 ---

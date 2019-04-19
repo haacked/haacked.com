@@ -1,6 +1,6 @@
 ---
 title: Hi My Name Is Phil And I'm A Blogaholic
-date: 2004-11-25 -0800
+date: 2004-11-25 -0800 9:00 AM
 tags: [meta,personal,blogging]
 redirect_from: "/archive/2004/11/24/hi-my-name-is-phil-and-im-a-blogaholic.aspx/"
 ---

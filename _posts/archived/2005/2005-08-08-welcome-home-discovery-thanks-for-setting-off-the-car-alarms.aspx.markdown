@@ -1,6 +1,6 @@
 ---
 title: Welcome Home Discovery, Thanks for Setting Off the Car Alarms
-date: 2005-08-08 -0800
+date: 2005-08-08 -0800 9:00 AM
 tags: [news]
 redirect_from: "/archive/2005/08/07/welcome-home-discovery-thanks-for-setting-off-the-car-alarms.aspx/"
 ---

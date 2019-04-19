@@ -1,6 +1,6 @@
 ---
 title: rel=&quot;willfollowforfood&quot;
-date: 2005-01-20 -0800
+date: 2005-01-20 -0800 9:00 AM
 tags: [web]
 redirect_from: "/archive/2005/01/19/relwillfollowforfood.aspx/"
 ---

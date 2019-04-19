@@ -1,6 +1,6 @@
 ---
 title: Windows Live Writer and Html Entities
-date: 2007-03-23 -0800
+date: 2007-03-23 -0800 9:00 AM
 tags: [tools]
 redirect_from: "/archive/2007/03/22/windows-live-writer-and-html-entities.aspx/"
 ---

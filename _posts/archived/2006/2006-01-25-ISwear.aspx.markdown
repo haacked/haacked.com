@@ -1,6 +1,6 @@
 ---
 title: I Swear
-date: 2006-01-25 -0800
+date: 2006-01-25 -0800 9:00 AM
 tags: [visualstudio]
 redirect_from: "/archive/2006/01/24/ISwear.aspx/"
 ---

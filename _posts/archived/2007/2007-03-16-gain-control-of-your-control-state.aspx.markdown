@@ -1,6 +1,6 @@
 ---
 title: Gain Control Of Your Control State
-date: 2007-03-16 -0800
+date: 2007-03-16 -0800 9:00 AM
 tags: [aspnet,code]
 redirect_from: "/archive/2007/03/15/gain-control-of-your-control-state.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Marshmallow-based speed-of-light measurator
-date: 2004-05-05 -0800
+date: 2004-05-05 -0800 9:00 AM
 tags: [science]
 redirect_from: "/archive/2004/05/04/marshmallow-based-speed-of-light-measurator.aspx/"
 ---

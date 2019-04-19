@@ -1,6 +1,6 @@
 ---
 title: 'WSE 2.0 Authentication: How To Avoid ClearText Passwords With UsernameToken'
-date: 2004-09-08 -0800
+date: 2004-09-08 -0800 9:00 AM
 tags: [security]
 redirect_from: "/archive/2004/09/07/wse-20-authentication-how-to-avoid-cleartext-passwords-with-usernametoken.aspx/"
 ---

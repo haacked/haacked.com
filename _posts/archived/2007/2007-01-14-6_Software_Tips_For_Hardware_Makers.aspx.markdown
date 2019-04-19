@@ -1,6 +1,6 @@
 ---
 title: 6 Software Tips For Hardware Makers
-date: 2007-01-14 -0800
+date: 2007-01-14 -0800 9:00 AM
 tags: [software,tips]
 redirect_from: "/archive/2007/01/13/6_Software_Tips_For_Hardware_Makers.aspx/"
 ---

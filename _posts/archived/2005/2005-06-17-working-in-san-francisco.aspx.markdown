@@ -1,6 +1,6 @@
 ---
 title: Working in San Francisco
-date: 2005-06-17 -0800
+date: 2005-06-17 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2005/06/16/working-in-san-francisco.aspx/"
 ---

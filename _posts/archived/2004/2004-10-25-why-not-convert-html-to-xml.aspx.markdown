@@ -1,6 +1,6 @@
 ---
 title: Why Not Convert HTML to XML?
-date: 2004-10-25 -0800
+date: 2004-10-25 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2004/10/24/why-not-convert-html-to-xml.aspx/"
 ---

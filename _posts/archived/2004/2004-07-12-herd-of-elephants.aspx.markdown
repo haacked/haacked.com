@@ -1,6 +1,6 @@
 ---
 title: Herd Of Elephants
-date: 2004-07-12 -0800
+date: 2004-07-12 -0800 9:00 AM
 tags: [podcast]
 redirect_from: "/archive/2004/07/11/herd-of-elephants.aspx/"
 ---

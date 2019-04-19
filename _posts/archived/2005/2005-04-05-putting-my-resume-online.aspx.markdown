@@ -1,6 +1,6 @@
 ---
 title: Putting My Resume Online
-date: 2005-04-05 -0800
+date: 2005-04-05 -0800 9:00 AM
 tags: [meta,personal]
 redirect_from: "/archive/2005/04/04/putting-my-resume-online.aspx/"
 ---

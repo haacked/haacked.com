@@ -1,6 +1,6 @@
 ---
 title: My Mental Laziness Mistakes
-date: 2005-09-18 -0800
+date: 2005-09-18 -0800 9:00 AM
 tags: [work,personal]
 redirect_from: "/archive/2005/09/17/my-mental-laziness-mistakes.aspx/"
 ---

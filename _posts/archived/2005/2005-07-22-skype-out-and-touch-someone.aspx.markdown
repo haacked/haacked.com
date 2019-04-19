@@ -1,6 +1,6 @@
 ---
 title: Skype Out and Touch Someone
-date: 2005-07-22 -0800
+date: 2005-07-22 -0800 9:00 AM
 tags: [personal,tech]
 redirect_from: "/archive/2005/07/21/skype-out-and-touch-someone.aspx/"
 ---

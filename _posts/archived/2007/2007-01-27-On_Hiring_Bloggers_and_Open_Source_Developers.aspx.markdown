@@ -1,6 +1,6 @@
 ---
 title: On Hiring Bloggers and Open Source Developers
-date: 2007-01-27 -0800
+date: 2007-01-27 -0800 9:00 AM
 tags: [blogging]
 redirect_from: "/archive/2007/01/26/On_Hiring_Bloggers_and_Open_Source_Developers.aspx/"
 ---

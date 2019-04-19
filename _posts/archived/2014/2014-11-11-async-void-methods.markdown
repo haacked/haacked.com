@@ -1,6 +1,6 @@
 ---
 title: "Avoid async void methods"
-date: 2014-11-11 -0800
+date: 2014-11-11 -0800 9:00 AM
 tags: [csharp,concurrency]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Writing For A Book Exposes My Ignorance
-date: 2006-04-03 -0800
+date: 2006-04-03 -0800 9:00 AM
 tags: [writing]
 redirect_from: "/archive/2006/04/02/WritingForABookExposesMyIgnorance.aspx/"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Austin Texas The Techie Town
-date: 2010-02-28 -0800
+date: 2010-02-28 -0800 9:00 AM
 tags: [personal,conferences]
 redirect_from: "/archive/2010/02/27/austin-texas-great-for-geeks.aspx/"
 ---

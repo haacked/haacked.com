@@ -1,6 +1,6 @@
 ---
 title: BMD (Breast of Mass Destruction)
-date: 2004-02-05 -0800
+date: 2004-02-05 -0800 9:00 AM
 tags: [news]
 redirect_from: "/archive/2004/02/04/breast-of-mass-destruction.aspx/"
 ---
