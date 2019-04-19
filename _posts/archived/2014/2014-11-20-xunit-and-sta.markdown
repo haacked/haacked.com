@@ -1,7 +1,7 @@
 ---
 title: "Unit tests that require the STA Thread"
 date: 2014-11-20 -0800
-tags: [csharp,xunit,tdd,wpf]
+tags: [csharp,tdd]
 ---
 
 If you've ever written a unit test that instantiates a WPF control, you might have run into one of the following errors:

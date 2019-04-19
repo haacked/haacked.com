@@ -1,7 +1,7 @@
 ---
 title: "Tupac and HoloLens are not Holograms"
 date: 2015-07-12 -0800
-tags: [science,holography]
+tags: [science]
 ---
 
 This past week I learned a new party trick. I can turn a holographic researcher beet red by simply referencing [Tupac's Hologram](https://www.youtube.com/watch?v=TGbrFmPBV0Y). It's not because they [identify strongly with East Coast hip-hop](https://en.wikipedia.org/wiki/East_Coast%E2%80%93West_Coast_hip_hop_rivalry). Rather, it has to do with calling it a hologram in the first place.

@@ -1,7 +1,7 @@
 ---
 title: Preflight Checklist
 date: 2011-08-30 -0800
-tags: [speaking,tips]
+tags: [speaking,tips,conferences]
 redirect_from: "/archive/2011/08/29/preflight-checklist.aspx/"
 ---
 
@@ -35,50 +35,43 @@ keyboard shortcuts.
 System
 ------
 
--   Set Notepad default font size to 16
--   Hide Desktop Icons
--   Close unnecessary toolbar/tray icons
--   Close all unecessary windows including Solution Explorer (use CTRL
-    ALT L to show it)
+- Set Notepad default font size to 16
+- Hide Desktop Icons
+- Close unnecessary toolbar/tray icons
+- Close all unecessary windows including Solution Explorer (use `CTRL ALT L` to show it)
 
 Visual Studio
 -------------
 
--   Launch Visual Studio
--   Set font size to 16
--   Drag necessary files into desktop
--   Start and minimize magnifier
--   Prepare snippets (if you use them)
--   Disable all unnecessary VS extensions
--   **Or better yet, [set up a DEMO
-    instance](http://codermike.com/vs2010-demo-instance "Demo Instance of Visual Studio")
-    of Visual Studio (thanks Mike Minutillo!)**
+- Launch Visual Studio
+- Set font size to 16
+- Drag necessary files into desktop
+- Start and minimize magnifier
+- Prepare snippets (if you use them)
+- Disable all unnecessary VS extensions
+- **Or better yet, [set up a DEMO instance](http://codermike.com/vs2010-demo-instance "Demo Instance of Visual Studio") of Visual Studio (thanks Mike Minutillo!)**
 
 General
 -------
 
--   **Reset all demos**. That might mean clearing cookies, clearing
-    browser forms saved data, etc.
--   Open the PowerPoint deck to the right spot
--   Consolidate your demo scripts into a single document per talk
--   Print out notes (*and don’t accidentally throw them away like I
-    did*)
--   Relax
+- **Reset all demos**. That might mean clearing cookies, clearing browser forms saved data, etc.
+- Open the PowerPoint deck to the right spot
+- Consolidate your demo scripts into a single document per talk
+- Print out notes (*and don’t accidentally throw them away like I did*)
+- Relax
 
 Important Keyboard shortcuts
 ----------------------------
 
--   Window + to zoom in one level (and start magnifier)
--   Windows - to zoom out one level
--   Windows ESC to zoom fully out
--   CTRL . smart tag expansion
--   CTRL , Navigate to
--   SHIFT ALT K to display Solution Explorer *(I remapped this on Brad's
-    advice because CTRL ALT L conflicts with Windows magnifier)*
--   CTRL + and CTRL - change font size in NotePad2
+- `Window +` to zoom in one level (and start magnifier)
+- `Windows -` to zoom out one level
+- `Windows ESC` to zoom fully out
+- `CTRL .` smart tag expansion
+- `CTRL ,` Navigate to
+- `SHIFT ALT K` to display Solution Explorer *(I remapped this on Brad's advice because CTRL ALT L conflicts with Windows magnifier)*
+- `CTRL +` and `CTRL -` change font size in NotePad2
 
 I think this checklist nicely complements my [presentation tips I
 learned from my (many)
 mistakes](https://haacked.com/archive/2011/04/18/presentation-tips.aspx "Presentation Tips")
 blog post. Did I forget an obvious preflight option? Do tell!
-

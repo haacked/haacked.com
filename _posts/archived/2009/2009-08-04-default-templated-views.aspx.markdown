@@ -1,7 +1,7 @@
 ---
 title: Default Templated Views
 date: 2009-08-04 -0800
-tags: [aspnemvc]
+tags: [aspnetmvc]
 redirect_from: "/archive/2009/08/03/default-templated-views.aspx/"
 ---
 

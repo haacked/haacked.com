@@ -1,7 +1,7 @@
 ---
 title: Be Lazy, But Not Intellectually Lazy
 date: 2005-09-18 -0800
-tags: [commentary,quality]
+tags: [commentary,excellence]
 redirect_from: "/archive/2005/09/17/be-lazy-but-not-intellectually-lazy.aspx/"
 ---
 
@@ -71,4 +71,3 @@ where they make sense. Learn the framework you are using. Understand the
 code you are writing or debugging. And in the long run, you’ll be making
 your life (and your coworkers lives) easier. Perhaps that’s the true
 laziness.
-

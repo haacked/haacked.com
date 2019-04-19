@@ -1,7 +1,7 @@
 ---
 title: "The Hard Skills"
 date: 2016-10-12 -0800
-tags: [social,code,management]
+tags: [management]
 ---
 
 On Tuesday, November 8, 2016 I'll be [giving a talk entitled "Social Coding for Effective Teams and Products"](https://qconsf.com/sf2016/speakers/phil-haack) at QCon SF as part of the "Soft Skills" track. If you happen to be in San Francisco at that time, come check it out.
