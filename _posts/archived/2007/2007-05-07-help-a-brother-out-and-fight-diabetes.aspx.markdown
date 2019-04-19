@@ -1,6 +1,5 @@
 ---
 title: Help a Brother Out And Fight Diabetes
-date: 2007-05-07 -0800 9:00 AM
 tags: [community]
 redirect_from: "/archive/2007/05/06/help-a-brother-out-and-fight-diabetes.aspx/"
 ---

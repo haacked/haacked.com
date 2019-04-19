@@ -1,6 +1,5 @@
 ---
 title: Subtext 1.9.2 Bugfix Update
-date: 2006-10-26 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2006/10/25/Subtext_1.9.2_Bugfix_Update.aspx/"
 ---

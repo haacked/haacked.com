@@ -1,6 +1,5 @@
 ---
 title: Improving The CommentAPI And Comment Moderation
-date: 2004-09-12 -0800 9:00 AM
 tags: [rss]
 redirect_from: "/archive/2004/09/11/ImprovingTheCommentAPIAndCommentModeration.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Watch Out For the Generics Explosion
-date: 2005-10-26 -0800 9:00 AM
 tags: [csharp,dotnet]
 redirect_from: "/archive/2005/10/25/watch-out-for-the-generics-explosion.aspx/"
 ---

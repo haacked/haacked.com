@@ -1,6 +1,5 @@
 ---
 title: The Server. The Server. The Server's On Fire.
-date: 2004-12-08 -0800 9:00 AM
 tags: [work]
 redirect_from: "/archive/2004/12/07/the-server-the-server-the-servers-on-fire.aspx/"
 ---

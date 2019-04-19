@@ -1,6 +1,5 @@
 ---
 title: "Death to confirmation dialogs with jquery.undoable"
-date: 2010-01-01 -0800 9:00 AM
 tags: [code,jquery]
 ---
 Confirmation dialogs were designed by masochists intent on making users

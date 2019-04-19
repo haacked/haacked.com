@@ -1,6 +1,5 @@
 ---
 title: 'Tech-Ed 2004: Don Box and Doug Purdy talk about Connected Systems.'
-date: 2004-05-25 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2004/05/24/tech-ed-2004-don-box-and-doug-purdy-talk-about-connected-systems.aspx/"
 ---

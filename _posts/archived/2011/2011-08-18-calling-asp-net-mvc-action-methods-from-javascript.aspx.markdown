@@ -1,6 +1,5 @@
 ---
 title: Calling ASP.NET MVC Action Methods from JavaScript
-date: 2011-08-18 -0800 9:00 AM
 tags: [aspnet,aspnetmvc,code]
 redirect_from: "/archive/2011/08/17/calling-asp-net-mvc-action-methods-from-javascript.aspx/"
 ---

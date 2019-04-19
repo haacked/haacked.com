@@ -1,6 +1,5 @@
 ---
 title: Motorcycle Blogging From San Diego to Alaska
-date: 2006-06-19 -0800 9:00 AM
 tags: [blogging]
 redirect_from: "/archive/2006/06/18/MotorcycleBloggingFromSanDiegoToAlaska.aspx/"
 ---

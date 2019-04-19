@@ -1,7 +1,6 @@
 ---
 title: "Increase your giving by 50% for free"
 description: "Increase the impact of your giving by 50% or more with this tip."
-date: 2018-12-28 -0800 2:37 PM
 tags: [personal,charity]
 excerpt_image: https://user-images.githubusercontent.com/19977/50540773-c3afa900-0b4c-11e9-9894-25ac7c9cad8f.jpg
 ---

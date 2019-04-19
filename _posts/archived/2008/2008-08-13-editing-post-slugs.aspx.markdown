@@ -1,6 +1,5 @@
 ---
 title: Better URLs With Subtext and Windows Live Writer
-date: 2008-08-13 -0800 9:00 AM
 tags: [subtext,blogging]
 redirect_from: "/archive/2008/08/12/editing-post-slugs.aspx/"
 ---

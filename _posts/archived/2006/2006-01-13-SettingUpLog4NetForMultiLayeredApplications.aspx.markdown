@@ -1,6 +1,5 @@
 ---
 title: Setting Up Log4Net For Multi Layered Applications
-date: 2006-01-13 -0800 9:00 AM
 tags: [logging]
 redirect_from: "/archive/2006/01/12/SettingUpLog4NetForMultiLayeredApplications.aspx/"
 ---

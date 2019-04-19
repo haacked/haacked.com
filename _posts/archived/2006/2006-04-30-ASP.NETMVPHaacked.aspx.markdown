@@ -1,6 +1,5 @@
 ---
 title: ASP.NET MVP Haacked
-date: 2006-04-30 -0800 9:00 AM
 tags: [aspnet,books]
 redirect_from: "/archive/2006/04/29/ASP.NETMVPHaacked.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Write Readable Code By Making Its Intentions Clear
-date: 2007-04-19 -0800 9:00 AM
 tags: [code,patterns]
 redirect_from:
 - "/archive/2007/04/20/write-readable-code-by-making-its-intentions-clear.aspx"

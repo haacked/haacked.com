@@ -1,6 +1,5 @@
 ---
 title: "GitHub Data In Your Website"
-date: 2014-05-10 -0800 9:00 AM
 tags: [blogging,github,jekyll]
 ---
 

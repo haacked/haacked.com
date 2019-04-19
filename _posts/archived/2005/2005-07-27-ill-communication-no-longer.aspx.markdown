@@ -1,6 +1,5 @@
 ---
 title: Ill Communication No Longer
-date: 2005-07-27 -0800 9:00 AM
 tags: [personal,tech]
 redirect_from: "/archive/2005/07/26/ill-communication-no-longer.aspx/"
 ---

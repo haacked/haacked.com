@@ -1,7 +1,6 @@
 ---
 title: "Why NuGet Package Signing Is Not (Yet) for Me"
 description: "An exploration of the NuGet package signing feature."
-date: 2019-04-03 -0700 09:05 AM
 tags: [nuget,security,oss]
 excerpt_image: https://user-images.githubusercontent.com/19977/55196121-ad28e600-516b-11e9-905d-6e1298dd8216.PNG
 ---

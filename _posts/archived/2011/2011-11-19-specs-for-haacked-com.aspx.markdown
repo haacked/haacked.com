@@ -1,6 +1,5 @@
 ---
 title: Specs for Haacked.com
-date: 2011-11-19 -0800 9:00 AM
 tags: [meta]
 redirect_from: "/archive/2011/11/18/specs-for-haacked-com.aspx/"
 ---

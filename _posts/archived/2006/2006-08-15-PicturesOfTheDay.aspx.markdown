@@ -1,6 +1,5 @@
 ---
 title: Pictures Of The Day
-date: 2006-08-15 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2006/08/14/PicturesOfTheDay.aspx/"
 ---

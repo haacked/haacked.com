@@ -1,6 +1,5 @@
 ---
 title: Single Package Version per Solution
-date: 2011-05-02 -0800 9:00 AM
 tags: [nuget,code,oss]
 redirect_from: "/archive/2011/05/01/single-package-version-per-solution.aspx/"
 ---

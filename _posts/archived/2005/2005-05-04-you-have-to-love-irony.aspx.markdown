@@ -1,6 +1,5 @@
 ---
 title: 'You Have To Love Irony '
-date: 2005-05-04 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2005/05/03/you-have-to-love-irony.aspx/"
 ---

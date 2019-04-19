@@ -1,6 +1,6 @@
 ---
 title: "The Stories We Tell Ourselves"
-date: 2014-02-14 21:09 -0800
+
 tags: [personal,management,relationships]
 ---
 

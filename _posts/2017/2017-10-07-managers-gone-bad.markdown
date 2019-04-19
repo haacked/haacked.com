@@ -1,7 +1,6 @@
 ---
 title: "Why do managers go bad?"
 description: "Why do managers go bad? It's because they espouse Theory Y, but practice Theory X management."
-date: 2017-10-07 -0700 4:17 PM
 tags: [leadership,management,motivation]
 excerpt_image: https://www.sketchport.com/drawing/4632616586182656/ww
 ---

@@ -1,6 +1,5 @@
 ---
 title: Async Lambdas
-date: 2013-01-24 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2013/01/23/async-lambdas.aspx/"
 ---

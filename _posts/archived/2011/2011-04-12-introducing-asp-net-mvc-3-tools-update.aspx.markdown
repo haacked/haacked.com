@@ -1,6 +1,5 @@
 ---
 title: Introducing ASP.NET MVC 3 Tools Update
-date: 2011-04-12 -0800 9:00 AM
 tags: [aspnetmvc]
 redirect_from: "/archive/2011/04/11/introducing-asp-net-mvc-3-tools-update.aspx/"
 ---

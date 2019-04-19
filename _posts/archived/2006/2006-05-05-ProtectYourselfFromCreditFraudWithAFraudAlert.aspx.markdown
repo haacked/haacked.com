@@ -1,6 +1,5 @@
 ---
 title: Protect Yourself From Credit Fraud With A Fraud Alert
-date: 2006-05-05 -0800 9:00 AM
 tags: [personal,tips]
 redirect_from: "/archive/2006/05/04/ProtectYourselfFromCreditFraudWithAFraudAlert.aspx/"
 ---

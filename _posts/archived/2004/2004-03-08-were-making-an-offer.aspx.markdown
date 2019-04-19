@@ -1,6 +1,5 @@
 ---
 title: We're making an offer.
-date: 2004-03-08 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2004/03/07/were-making-an-offer.aspx/"
 ---

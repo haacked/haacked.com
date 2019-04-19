@@ -1,6 +1,5 @@
 ---
 title: "ASP.NET MVC 2 RC 2 Released"
-date: 2010-02-04 -0800 9:00 AM
 tags: [aspnet,aspnetmvc]
 ---
 UPDATE: This blog post is out-of date. We released the RTM of ASP.NET

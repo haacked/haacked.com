@@ -1,6 +1,5 @@
 ---
 title: "Git and GitHub Resources"
-date: 2014-12-03 -0800 9:00 AM
 tags: [git,github]
 ---
 

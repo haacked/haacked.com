@@ -1,6 +1,5 @@
 ---
 title: Raymond's first death threat
-date: 2004-06-03 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2004/06/02/raymonds-first-death-threat.aspx/"
 ---

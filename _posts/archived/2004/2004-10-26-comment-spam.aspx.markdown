@@ -1,6 +1,5 @@
 ---
 title: Comment Spam
-date: 2004-10-26 -0800 9:00 AM
 tags: [rss]
 redirect_from: "/archive/2004/10/25/comment-spam.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Fatwa Against Soccer
-date: 2005-10-16 -0800 9:00 AM
 tags: [soccer]
 redirect_from: "/archive/2005/10/15/fatwa-against-soccer.aspx/"
 ---

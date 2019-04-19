@@ -1,6 +1,5 @@
 ---
 title: London Terrorist Attack
-date: 2005-07-06 -0800 9:00 AM
 tags: [news]
 redirect_from: "/archive/2005/07/05/london-terrorist-attack.aspx/"
 ---

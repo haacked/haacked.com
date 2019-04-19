@@ -1,6 +1,5 @@
 ---
 title: Code Review Like You Mean It
-date: 2013-10-28 -0800 9:00 AM
 tags: [oss,github,code-review]
 redirect_from: "/archive/2013/10/27/code-review-like-you-mean-it.aspx/"
 ---

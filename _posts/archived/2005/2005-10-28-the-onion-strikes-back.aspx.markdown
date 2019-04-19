@@ -1,6 +1,5 @@
 ---
 title: The Onion Strikes Back
-date: 2005-10-28 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2005/10/27/the-onion-strikes-back.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: My Year In Blogging - 2005
-date: 2005-12-29 -0800 9:00 AM
 tags: [meta]
 redirect_from: "/archive/2005/12/28/year-in-review-2005.aspx/"
 ---

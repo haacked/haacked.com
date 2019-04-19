@@ -1,6 +1,5 @@
 ---
 title: Moq Sequences Revisited
-date: 2010-11-24 -0800 9:00 AM
 tags: [tdd,code]
 redirect_from: "/archive/2010/11/23/moq-sequences-revisited.aspx/"
 ---

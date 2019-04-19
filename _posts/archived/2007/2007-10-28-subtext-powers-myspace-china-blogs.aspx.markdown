@@ -1,6 +1,5 @@
 ---
 title: MySpace China Blogs Powered By Subtext
-date: 2007-10-28 -0800 9:00 AM
 tags: [subtext,blogging]
 redirect_from: "/archive/2007/10/27/subtext-powers-myspace-china-blogs.aspx/"
 ---

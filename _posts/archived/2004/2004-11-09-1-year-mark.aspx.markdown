@@ -1,6 +1,5 @@
 ---
 title: 1 Year Mark
-date: 2004-11-09 -0800 9:00 AM
 tags: [work]
 redirect_from: "/archive/2004/11/08/1-year-mark.aspx/"
 ---

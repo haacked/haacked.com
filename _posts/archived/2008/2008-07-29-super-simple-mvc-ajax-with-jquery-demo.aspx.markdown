@@ -1,6 +1,5 @@
 ---
 title: Super Simple MVC Ajax With JQuery Demo
-date: 2008-07-29 -0800 9:00 AM
 tags: [aspnetmvc]
 redirect_from: "/archive/2008/07/28/super-simple-mvc-ajax-with-jquery-demo.aspx/"
 ---

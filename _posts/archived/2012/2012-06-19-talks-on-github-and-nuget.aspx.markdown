@@ -1,6 +1,5 @@
 ---
 title: Talks on GitHub and NuGet
-date: 2012-06-19 -0800 9:00 AM
 tags: [git,github,nuget,code]
 redirect_from: "/archive/2012/06/18/talks-on-github-and-nuget.aspx/"
 ---

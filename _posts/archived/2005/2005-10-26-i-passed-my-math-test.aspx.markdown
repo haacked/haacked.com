@@ -1,6 +1,5 @@
 ---
 title: I Passed My Math Test
-date: 2005-10-26 -0800 9:00 AM
 tags: [math]
 redirect_from: "/archive/2005/10/25/i-passed-my-math-test.aspx/"
 ---

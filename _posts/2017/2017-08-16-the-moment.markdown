@@ -1,6 +1,5 @@
 ---
 title: "The Moment"
-date: 2017-08-16 -0800 9:00 AM
 tags: [personal]
 excerpt_image: https://user-images.githubusercontent.com/19977/28849245-1241ec3a-76cb-11e7-9d80-b5e9f8fc555d.png
 ---

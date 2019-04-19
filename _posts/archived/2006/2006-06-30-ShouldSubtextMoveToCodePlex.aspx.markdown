@@ -1,6 +1,5 @@
 ---
 title: Should Subtext Move To CodePlex
-date: 2006-06-30 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2006/06/29/ShouldSubtextMoveToCodePlex.aspx/"
 ---

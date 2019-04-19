@@ -1,6 +1,5 @@
 ---
 title: An Even Better TimedLock
-date: 2004-05-13 -0800 9:00 AM
 tags: [dotnet,code,concurrency]
 redirect_from: "/archive/2004/05/12/an-even-better-timedlock.aspx/"
 ---

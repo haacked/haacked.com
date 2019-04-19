@@ -1,7 +1,6 @@
 ---
 title: Community Server Fix for Posting Comments from Feed Readers and a Rant for
   Good Measure
-date: 2005-04-18 -0800 9:00 AM
 tags: [rss]
 redirect_from: "/archive/2005/04/17/community-server-fix-for-posting-comments-from-feed-readers-and-a-rant-for-good-measure.aspx/"
 ---

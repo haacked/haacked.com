@@ -1,6 +1,5 @@
 ---
 title: Art of the Job Post
-date: 2006-10-19 -0800 9:00 AM
 tags: [hiring]
 redirect_from: "/archive/2006/10/18/Art_of_the_Job_Post.aspx/"
 ---

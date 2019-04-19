@@ -1,6 +1,5 @@
 ---
 title: Building A Strong Open Source Community Requires Empathy
-date: 2007-03-26 -0800 9:00 AM
 tags: [oss,empathy,community]
 redirect_from: "/archive/2007/03/25/building-a-strong-open-source-community-requires-empathy.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Blogging while Broken"
-date: 2014-03-29 -0800 12:27 PM
 tags: [blogging]
 ---
 

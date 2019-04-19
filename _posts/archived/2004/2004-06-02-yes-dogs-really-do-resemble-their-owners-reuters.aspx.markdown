@@ -1,6 +1,5 @@
 ---
 title: Yes, Dogs Really Do Resemble Their Owners (Reuters)
-date: 2004-06-02 -0800 9:00 AM
 tags: [news]
 redirect_from: "/archive/2004/06/01/yes-dogs-really-do-resemble-their-owners-reuters.aspx/"
 ---

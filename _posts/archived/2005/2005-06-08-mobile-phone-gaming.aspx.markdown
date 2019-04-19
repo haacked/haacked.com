@@ -1,6 +1,5 @@
 ---
 title: Mobile Phone Gaming
-date: 2005-06-08 -0800 9:00 AM
 tags: [mobile,gaming]
 redirect_from: "/archive/2005/06/07/mobile-phone-gaming.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Fun with infinite sums"
-date: 2014-01-26 -0800 9:00 AM
 tags: [math]
 ---
 I'm kind of a fan of numbers. You might even say I'm a bit of a numberPHILe. You groan, but it's true. Numbers exhibit such interesting properties when you put them together.

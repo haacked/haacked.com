@@ -1,6 +1,5 @@
 ---
 title: 'Job Posting: Rockstars Developer(s) Needed'
-date: 2005-08-01 -0800 9:00 AM
 tags: [hiring]
 redirect_from: "/archive/2005/07/31/job-posting-rockstars-developers-needed.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Playing Against A World Cup Winner
-date: 2006-03-24 -0800 9:00 AM
 tags: [personal,soccer]
 redirect_from: "/archive/2006/03/23/PlayingAgainstAWorldCupWinner.aspx/"
 ---

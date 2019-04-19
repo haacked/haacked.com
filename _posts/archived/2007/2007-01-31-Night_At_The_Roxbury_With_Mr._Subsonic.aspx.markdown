@@ -1,6 +1,5 @@
 ---
 title: Night At The Roxbury With Mr. Subsonic
-date: 2007-01-31 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2007/01/30/Night_At_The_Roxbury_With_Mr._Subsonic.aspx/"
 ---

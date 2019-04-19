@@ -1,6 +1,5 @@
 ---
 title: MvcFutures And ASP.NET MVC Beta
-date: 2008-09-05 -0800 9:00 AM
 tags: [aspnetmvc]
 redirect_from: "/archive/2008/09/04/mvcfutures-and-asp.net-mvc-beta.aspx/"
 ---

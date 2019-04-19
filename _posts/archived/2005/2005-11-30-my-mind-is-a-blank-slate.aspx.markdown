@@ -1,6 +1,5 @@
 ---
 title: My Mind Is A Blank Slate
-date: 2005-11-30 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2005/11/29/my-mind-is-a-blank-slate.aspx/"
 ---

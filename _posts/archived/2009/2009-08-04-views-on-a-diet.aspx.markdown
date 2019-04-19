@@ -1,6 +1,5 @@
 ---
 title: Put Your Views (and Pages) On a Diet
-date: 2009-08-04 -0800 9:00 AM
 tags: [aspnetmvc]
 redirect_from: "/archive/2009/08/03/views-on-a-diet.aspx/"
 ---

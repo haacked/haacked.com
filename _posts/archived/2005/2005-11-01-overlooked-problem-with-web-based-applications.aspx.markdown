@@ -1,6 +1,5 @@
 ---
 title: Overlooked Problem With Web Based Applications
-date: 2005-11-01 -0800 9:00 AM
 tags: [software]
 redirect_from: "/archive/2005/10/31/overlooked-problem-with-web-based-applications.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Man Accidentally Dates Mother Online
-date: 2005-12-13 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2005/12/12/man-accidentally-dates-mother-online.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: See Me in Brazil and Argentina in March
-date: 2010-12-21 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2010/12/20/see-me-in-brazil-and-argentina-in-march.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: What Is Microsoft's Project Q?
-date: 2006-03-18 -0800 9:00 AM
 tags: [science]
 redirect_from: "/archive/2006/03/17/WhatIsMicrosoftsProjectQ.aspx/"
 ---

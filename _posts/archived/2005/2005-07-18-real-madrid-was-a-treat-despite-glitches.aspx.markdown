@@ -1,6 +1,5 @@
 ---
 title: Real Madrid Was a Treat, Despite Glitches
-date: 2005-07-18 -0800 9:00 AM
 tags: [personal,soccer]
 redirect_from: "/archive/2005/07/17/real-madrid-was-a-treat-despite-glitches.aspx/"
 ---

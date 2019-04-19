@@ -1,6 +1,5 @@
 ---
 title: CoComment Now Enabled
-date: 2006-04-12 -0800 9:00 AM
 tags: [blogging]
 redirect_from: "/archive/2006/04/11/CoCommentNowEnabled.aspx/"
 ---

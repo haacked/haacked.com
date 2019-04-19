@@ -1,6 +1,5 @@
 ---
 title: Cauldwell's This I Believe, The Developer Edition
-date: 2007-05-24 -0800 9:00 AM
 tags: [developers]
 redirect_from: "/archive/2007/05/23/cauldewells-this-i-believe-the-developer-edition.aspx/"
 ---

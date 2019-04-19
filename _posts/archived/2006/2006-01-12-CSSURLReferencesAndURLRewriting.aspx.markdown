@@ -1,6 +1,5 @@
 ---
 title: CSS URL References And URL Rewriting
-date: 2006-01-12 -0800 9:00 AM
 tags: [css,subtext]
 redirect_from: "/archive/2006/01/11/CSSURLReferencesAndURLRewriting.aspx/"
 ---

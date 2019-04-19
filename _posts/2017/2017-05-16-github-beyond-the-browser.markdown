@@ -1,6 +1,5 @@
 ---
 title: "GitHub Beyond Your Browser"
-date: 2017-05-16 -0800 9:00 AM
 tags: [github,xplat,tools]
 excerpt_image: https://cloud.githubusercontent.com/assets/19977/26121249/7e0607ba-3a28-11e7-838b-a5407e2ac222.png
 ---

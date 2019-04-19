@@ -1,6 +1,5 @@
 ---
 title: Reporting Back With 2GB RAM
-date: 2005-03-31 -0800 9:00 AM
 tags: [gadgets]
 redirect_from: "/archive/2005/03/30/reporting-back-with-2gb-ram.aspx/"
 ---

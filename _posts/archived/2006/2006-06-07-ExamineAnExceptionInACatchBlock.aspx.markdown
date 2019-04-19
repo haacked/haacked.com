@@ -1,6 +1,5 @@
 ---
 title: Examine an Exception in a Catch() Block
-date: 2006-06-07 -0800 9:00 AM
 tags: [code,dotnet]
 redirect_from: "/archive/2006/06/06/ExamineAnExceptionInACatchBlock.aspx/"
 ---

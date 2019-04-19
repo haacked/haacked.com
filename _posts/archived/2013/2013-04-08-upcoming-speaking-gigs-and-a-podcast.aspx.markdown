@@ -1,6 +1,5 @@
 ---
 title: Upcoming Speaking Gigs and a Podcast
-date: 2013-04-08 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2013/04/07/upcoming-speaking-gigs-and-a-podcast.aspx/"
 ---

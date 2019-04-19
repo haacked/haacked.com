@@ -1,6 +1,5 @@
 ---
 title: Step Aside StackOverflow, Here&rsquo;s HaackOverflow
-date: 2008-11-07 -0800 9:00 AM
 tags: [humor,aspnetmvc,conferences]
 redirect_from: "/archive/2008/11/06/haackoverflow-vs-stackoverflow.aspx/"
 ---

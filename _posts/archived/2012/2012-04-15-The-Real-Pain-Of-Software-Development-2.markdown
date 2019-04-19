@@ -1,6 +1,5 @@
 ---
 title: "The Real Pain of Software Development [part 2]"
-date: 2012-04-15 -0800 9:00 AM
 redirect_from:
   - "/archive/2012/04/15/The-Real-Pain-Of-Software-Development-2.aspx.aspx.html/"
   - "/archive/2012/04/15/The-Real-Pain-Of-Software-Development-2.aspx.html/"

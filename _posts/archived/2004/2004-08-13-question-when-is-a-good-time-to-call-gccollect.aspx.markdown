@@ -1,6 +1,5 @@
 ---
 title: 'Question: When Is A Good Time To Call GC.Collect()?'
-date: 2004-08-13 -0800 9:00 AM
 tags: [dotnet,dispose]
 redirect_from: "/archive/2004/08/12/question-when-is-a-good-time-to-call-gccollect.aspx/"
 ---

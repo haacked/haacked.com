@@ -1,6 +1,5 @@
 ---
 title: "If You're Graduating Soon, Consider Working For The ASP.NET Team"
-date: 2010-01-13 -0800 9:00 AM
 tags: [work,aspnet]
 ---
 This is the second job posting in two days for positions on the ASP.NET

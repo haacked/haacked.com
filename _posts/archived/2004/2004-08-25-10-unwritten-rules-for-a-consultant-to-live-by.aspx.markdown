@@ -1,6 +1,5 @@
 ---
 title: 10 Unwritten Rules for a Consultant to Live By
-date: 2004-08-25 -0800 9:00 AM
 tags: [code,tech]
 redirect_from: "/archive/2004/08/24/10-unwritten-rules-for-a-consultant-to-live-by.aspx/"
 ---

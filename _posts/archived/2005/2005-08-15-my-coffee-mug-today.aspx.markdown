@@ -1,6 +1,5 @@
 ---
 title: My Coffee Mug Today
-date: 2005-08-15 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2005/08/14/my-coffee-mug-today.aspx/"
 ---

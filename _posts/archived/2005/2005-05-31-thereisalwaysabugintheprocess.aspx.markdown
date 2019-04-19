@@ -1,6 +1,5 @@
 ---
 title: Please Trust And Empower Your Employees. There's Always A Bug In The Process.
-date: 2005-05-31 -0800 9:00 AM
 tags: [culture,management]
 redirect_from: "/archive/2005/05/30/thereisalwaysabugintheprocess.aspx/"
 ---

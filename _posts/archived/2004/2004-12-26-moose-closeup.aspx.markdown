@@ -1,6 +1,5 @@
 ---
 title: Moose Closeup
-date: 2004-12-26 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2004/12/25/moose-closeup.aspx/"
 ---

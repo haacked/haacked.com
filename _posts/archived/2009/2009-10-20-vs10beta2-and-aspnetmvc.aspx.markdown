@@ -1,6 +1,5 @@
 ---
 title: VS10 Beta 2 From an ASP.NET MVC Perspective
-date: 2009-10-20 -0800 9:00 AM
 tags: [aspnet]
 redirect_from: "/archive/2009/10/19/vs10beta2-and-aspnetmvc.aspx/"
 ---

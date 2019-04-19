@@ -1,6 +1,5 @@
 ---
 title: E3 Photos
-date: 2004-05-17 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2004/05/16/e3-photos.aspx/"
 ---

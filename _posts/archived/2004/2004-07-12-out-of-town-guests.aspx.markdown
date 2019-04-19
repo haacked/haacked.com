@@ -1,6 +1,5 @@
 ---
 title: Out Of Town Guests
-date: 2004-07-12 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2004/07/11/out-of-town-guests.aspx/"
 ---

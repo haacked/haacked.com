@@ -1,6 +1,5 @@
 ---
 title: 'SQL TIP: Auto Increment in an UPDATE statement.'
-date: 2004-02-28 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2004/02/27/sql-auto-increment.aspx/"
 ---

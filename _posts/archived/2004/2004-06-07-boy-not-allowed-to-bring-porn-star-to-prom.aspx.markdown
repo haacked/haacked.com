@@ -1,6 +1,5 @@
 ---
 title: Boy Not Allowed To Bring Porn Star To Prom
-date: 2004-06-07 -0800 9:00 AM
 tags: [news,humor]
 redirect_from: "/archive/2004/06/06/boy-not-allowed-to-bring-porn-star-to-prom.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Camp Signs
-date: 2005-08-29 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2005/08/28/camp-signs.aspx/"
 ---

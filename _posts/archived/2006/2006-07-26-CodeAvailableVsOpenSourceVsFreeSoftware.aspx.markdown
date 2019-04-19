@@ -1,6 +1,5 @@
 ---
 title: Source Available vs Open Source vs Free Software
-date: 2006-07-26 -0800 9:00 AM
 tags: [oss,legal,licensing,copyright]
 redirect_from: "/archive/2006/07/25/CodeAvailableVsOpenSourceVsFreeSoftware.aspx/"
 ---

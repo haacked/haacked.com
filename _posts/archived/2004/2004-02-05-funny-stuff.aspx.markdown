@@ -1,6 +1,5 @@
 ---
 title: Funny stuff
-date: 2004-02-05 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2004/02/04/funny-stuff.aspx/"
 ---

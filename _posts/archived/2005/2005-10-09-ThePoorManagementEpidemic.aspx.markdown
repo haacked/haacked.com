@@ -1,6 +1,5 @@
 ---
 title: The Poor Management Epidemic
-date: 2005-10-09 -0800 9:00 AM
 tags: [management]
 redirect_from: "/archive/2005/10/08/ThePoorManagementEpidemic.aspx/"
 ---

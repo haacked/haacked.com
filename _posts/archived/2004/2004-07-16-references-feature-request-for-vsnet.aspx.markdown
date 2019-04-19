@@ -1,6 +1,5 @@
 ---
 title: References Feature Request for VS.NET
-date: 2004-07-16 -0800 9:00 AM
 tags: [visualstudio]
 redirect_from: "/archive/2004/07/15/references-feature-request-for-vsnet.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: MakeMeAdmin And Console MatchMaker
-date: 2006-08-30 -0800 9:00 AM
 tags: [tools]
 redirect_from: "/archive/2006/08/29/MakeMeAdmin_And_Console_MatchMaker.aspx/"
 ---

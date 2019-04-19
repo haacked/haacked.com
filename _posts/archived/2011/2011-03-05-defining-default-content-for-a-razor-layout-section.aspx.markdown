@@ -1,6 +1,5 @@
 ---
 title: Defining Default Content For A Razor Layout Section
-date: 2011-03-05 -0800 9:00 AM
 tags: [aspnet,aspnetmvc]
 redirect_from: "/archive/2011/03/04/defining-default-content-for-a-razor-layout-section.aspx/"
 ---

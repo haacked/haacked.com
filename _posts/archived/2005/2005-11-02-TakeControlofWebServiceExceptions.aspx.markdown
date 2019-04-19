@@ -1,6 +1,5 @@
 ---
 title: Take Control of Web Service Exceptions
-date: 2005-11-02 -0800 9:00 AM
 tags: [web]
 redirect_from: "/archive/2005/11/01/TakeControlofWebServiceExceptions.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Musings On Software Community
-date: 2011-11-25 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2011/11/24/musings-on-software-community.aspx/"
 ---

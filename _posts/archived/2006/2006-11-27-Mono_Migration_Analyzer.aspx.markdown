@@ -1,6 +1,5 @@
 ---
 title: Mono Migration Analyzer
-date: 2006-11-27 -0800 9:00 AM
 tags: [dotnet,xplat]
 redirect_from: "/archive/2006/11/26/Mono_Migration_Analyzer.aspx/"
 ---

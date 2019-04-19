@@ -1,6 +1,5 @@
 ---
 title: Blogging to Win a PDC Ticket
-date: 2005-06-07 -0800 9:00 AM
 tags: [blogging,conferences]
 redirect_from: "/archive/2005/06/06/blogging-to-win-a-pdc-ticket.aspx/"
 ---

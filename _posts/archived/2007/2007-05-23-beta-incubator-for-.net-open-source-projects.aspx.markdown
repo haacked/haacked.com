@@ -1,6 +1,5 @@
 ---
 title: 'BETA: Incubator for .NET Open Source Projects'
-date: 2007-05-23 -0800 9:00 AM
 tags: [oss,microsoft]
 redirect_from: "/archive/2007/05/22/beta-incubator-for-.net-open-source-projects.aspx/"
 ---

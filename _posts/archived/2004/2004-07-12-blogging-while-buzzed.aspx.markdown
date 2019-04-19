@@ -1,6 +1,5 @@
 ---
 title: Blogging While Buzzed
-date: 2004-07-12 -0800 9:00 AM
 tags: [blogging,meta]
 redirect_from: "/archive/2004/07/11/blogging-while-buzzed.aspx/"
 ---

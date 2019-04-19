@@ -1,6 +1,5 @@
 ---
 title: MIT Animated Physics Sketching
-date: 2006-10-05 -0800 9:00 AM
 tags: [science,interesting]
 redirect_from: "/archive/2006/10/04/MIT_Animated_Physics_Sketching.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Reopen The Comment Door For Your Readers With Subkismet
-date: 2008-01-04 -0800 9:00 AM
 tags: [spam,blogging]
 redirect_from: "/archive/2008/01/03/reopen-the-comment-door-for-your-readers-with-subkismet.aspx/"
 ---

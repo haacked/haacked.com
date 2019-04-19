@@ -1,6 +1,5 @@
 ---
 title: JSON Hijacking
-date: 2009-06-25 -0800 9:00 AM
 tags: [security,json]
 redirect_from:
 - "/archive/0001/01/01/json-hijacking.aspx/"

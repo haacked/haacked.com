@@ -1,6 +1,6 @@
 ---
 title: "Merge conflicts in csproj files"
-date: 2014-04-16 14:07 -0800
+
 tags: [git,ghfw,visualstudio]
 ---
 

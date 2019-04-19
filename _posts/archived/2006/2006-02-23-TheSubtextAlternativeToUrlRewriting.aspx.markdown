@@ -1,6 +1,5 @@
 ---
 title: The Subtext Alternative To Url Rewriting
-date: 2006-02-23 -0800 9:00 AM
 tags: [aspnet,subtext]
 redirect_from: "/archive/2006/02/22/TheSubtextAlternativeToUrlRewriting.aspx/"
 ---

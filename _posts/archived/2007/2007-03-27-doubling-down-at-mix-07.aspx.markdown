@@ -1,6 +1,5 @@
 ---
 title: Doubling Down At Mix 07
-date: 2007-03-27 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2007/03/26/doubling-down-at-mix-07.aspx/"
 ---

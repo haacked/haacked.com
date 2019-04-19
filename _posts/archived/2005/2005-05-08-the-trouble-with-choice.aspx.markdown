@@ -1,6 +1,5 @@
 ---
 title: The Trouble With Choice
-date: 2005-05-08 -0800 9:00 AM
 tags: [interesting]
 redirect_from: "/archive/2005/05/07/the-trouble-with-choice.aspx/"
 ---

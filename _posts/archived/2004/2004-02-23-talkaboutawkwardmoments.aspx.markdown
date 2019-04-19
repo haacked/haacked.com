@@ -1,6 +1,5 @@
 ---
 title: Talk About Awkward Moments
-date: 2004-02-23 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2004/02/22/talkaboutawkwardmoments.aspx/"
 ---

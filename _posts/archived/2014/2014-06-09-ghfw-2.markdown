@@ -1,6 +1,5 @@
 ---
 title: "GitHub for Windows 2.0"
-date: 2014-06-09 -0800 9:00 AM
 tags: [ghfw,github]
 ---
 

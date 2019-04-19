@@ -1,6 +1,5 @@
 ---
 title: Blast from the past
-date: 2004-04-09 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2004/04/08/blast-from-the-past.aspx/"
 ---

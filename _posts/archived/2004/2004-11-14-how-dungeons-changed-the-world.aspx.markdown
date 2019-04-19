@@ -1,6 +1,5 @@
 ---
 title: How 'Dungeons' changed the world
-date: 2004-11-14 -0800 9:00 AM
 tags: [personal,dnd]
 redirect_from: "/archive/2004/11/13/how-dungeons-changed-the-world.aspx/"
 ---

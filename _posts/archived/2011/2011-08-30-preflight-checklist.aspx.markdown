@@ -1,6 +1,5 @@
 ---
 title: Preflight Checklist
-date: 2011-08-30 -0800 9:00 AM
 tags: [speaking,tips,conferences]
 redirect_from: "/archive/2011/08/29/preflight-checklist.aspx/"
 ---

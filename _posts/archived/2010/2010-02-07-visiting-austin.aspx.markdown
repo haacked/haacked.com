@@ -1,6 +1,5 @@
 ---
 title: Headed To Austin and Speaking at the .NET User's Group
-date: 2010-02-07 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2010/02/06/visiting-austin.aspx/"
 ---

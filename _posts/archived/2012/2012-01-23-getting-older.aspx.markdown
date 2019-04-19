@@ -1,6 +1,5 @@
 ---
 title: Getting Older
-date: 2012-01-23 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2012/01/22/getting-older.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Patterns in Number Sequences
-date: 2005-10-20 -0800 9:00 AM
 tags: [math]
 redirect_from: "/archive/2005/10/19/patterns-in-number-sequences.aspx/"
 ---

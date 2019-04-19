@@ -1,6 +1,5 @@
 ---
 title: Single Project Areas With ASP.NET MVC 2 Preview 1
-date: 2009-07-31 -0800 9:00 AM
 tags: [code,aspnetmvc]
 redirect_from: "/archive/2009/07/30/single-project-areas.aspx/"
 ---

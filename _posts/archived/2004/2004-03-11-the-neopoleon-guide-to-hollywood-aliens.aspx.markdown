@@ -1,6 +1,5 @@
 ---
 title: The Neopoleon Guide to Hollywood Aliens
-date: 2004-03-11 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2004/03/10/the-neopoleon-guide-to-hollywood-aliens.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: An Open Message To Comment Spammers
-date: 2005-01-20 -0800 9:00 AM
 tags: [rss]
 redirect_from: "/archive/2005/01/19/an-open-message-to-comment-spammers.aspx/"
 ---

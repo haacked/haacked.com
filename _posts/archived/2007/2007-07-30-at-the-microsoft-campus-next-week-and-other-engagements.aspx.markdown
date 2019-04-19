@@ -1,6 +1,5 @@
 ---
 title: At The Microsoft Campus Next Week And Other Engagements
-date: 2007-07-30 -0800 9:00 AM
 tags: [microsoft]
 redirect_from: "/archive/2007/07/29/at-the-microsoft-campus-next-week-and-other-engagements.aspx/"
 ---

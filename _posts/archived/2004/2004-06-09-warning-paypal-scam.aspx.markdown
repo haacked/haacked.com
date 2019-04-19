@@ -1,6 +1,5 @@
 ---
 title: 'WARNING: PayPal Scam.'
-date: 2004-06-09 -0800 9:00 AM
 tags: [news]
 redirect_from: "/archive/2004/06/08/warning-paypal-scam.aspx/"
 ---

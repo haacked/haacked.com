@@ -1,6 +1,5 @@
 ---
 title: "A Lesson in Compassion"
-date: 2014-05-06 -0800 9:00 AM
 tags: [personal,empathy]
 ---
 

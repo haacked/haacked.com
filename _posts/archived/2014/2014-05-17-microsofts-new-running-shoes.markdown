@@ -1,6 +1,5 @@
 ---
 title: "Microsoft's New Running Shoes"
-date: 2014-05-17 -0800 9:00 AM
 tags: [microsoft,aspnet,oss]
 ---
 

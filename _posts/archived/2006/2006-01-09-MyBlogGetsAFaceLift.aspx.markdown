@@ -1,6 +1,5 @@
 ---
 title: My Blog Gets A Facelift
-date: 2006-01-09 -0800 9:00 AM
 tags: [meta]
 redirect_from: "/archive/2006/01/08/MyBlogGetsAFaceLift.aspx/"
 ---

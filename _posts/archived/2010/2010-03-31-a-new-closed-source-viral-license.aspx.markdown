@@ -1,6 +1,5 @@
 ---
 title: A New Closed Source Viral License
-date: 2010-03-31 -0800 9:00 AM
 tags: [humor,code]
 redirect_from: "/archive/2010/03/30/a-new-closed-source-viral-license.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Soccer Beat Down
-date: 2006-08-23 -0800 9:00 AM
 tags: [soccer,personal]
 redirect_from: "/archive/2006/08/22/Soccer_Beat_Down.aspx/"
 ---

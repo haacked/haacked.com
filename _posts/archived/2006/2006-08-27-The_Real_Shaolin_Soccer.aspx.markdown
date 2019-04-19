@@ -1,6 +1,5 @@
 ---
 title: The Real Shaolin Soccer
-date: 2006-08-27 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2006/08/26/The_Real_Shaolin_Soccer.aspx/"
 ---

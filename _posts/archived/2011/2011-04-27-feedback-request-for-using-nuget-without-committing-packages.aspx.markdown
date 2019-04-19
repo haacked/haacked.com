@@ -1,6 +1,5 @@
 ---
 title: Feedback Request for using NuGet Without Committing Packages
-date: 2011-04-27 -0800 9:00 AM
 tags: [nuget,code,oss]
 redirect_from: "/archive/2011/04/26/feedback-request-for-using-nuget-without-committing-packages.aspx/"
 ---

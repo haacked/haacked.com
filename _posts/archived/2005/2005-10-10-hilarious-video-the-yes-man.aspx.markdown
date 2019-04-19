@@ -1,6 +1,5 @@
 ---
 title: 'Hilarious Video: The Yes Man'
-date: 2005-10-10 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2005/10/09/hilarious-video-the-yes-man.aspx/"
 ---

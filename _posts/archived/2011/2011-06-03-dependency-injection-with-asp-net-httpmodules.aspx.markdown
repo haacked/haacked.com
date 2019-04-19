@@ -1,6 +1,5 @@
 ---
 title: Dependency Injection With ASP.NET HttpModules
-date: 2011-06-03 -0800 9:00 AM
 tags: [aspnet,aspnetmvc,nuget,code]
 redirect_from: "/archive/2011/06/02/dependency-injection-with-asp-net-httpmodules.aspx/"
 ---

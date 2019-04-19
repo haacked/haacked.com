@@ -1,6 +1,5 @@
 ---
 title: Searching Open Source Code With Open Source
-date: 2007-05-18 -0800 9:00 AM
 tags: [oss]
 redirect_from: "/archive/2007/05/17/searching-open-source-code-with-open-source.aspx/"
 ---

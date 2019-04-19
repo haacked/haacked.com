@@ -1,6 +1,5 @@
 ---
 title: This is So Me
-date: 2004-10-29 -0800 9:00 AM
 tags: [blogging,humor]
 redirect_from: "/archive/2004/10/28/this-is-so-me.aspx/"
 ---

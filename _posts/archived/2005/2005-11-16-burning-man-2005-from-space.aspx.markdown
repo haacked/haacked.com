@@ -1,6 +1,5 @@
 ---
 title: Burning Man 2005 From Space
-date: 2005-11-16 -0800 9:00 AM
 tags: [burningman]
 redirect_from: "/archive/2005/11/15/burning-man-2005-from-space.aspx/"
 ---

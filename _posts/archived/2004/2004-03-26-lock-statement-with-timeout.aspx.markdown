@@ -1,6 +1,5 @@
 ---
 title: A lock statement with timeout...
-date: 2004-03-26 -0800 9:00 AM
 tags: [dotnet,code,concurrency,dispose]
 redirect_from: "/archive/2004/03/25/lock-statement-with-timeout.aspx/"
 ---

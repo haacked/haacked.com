@@ -1,6 +1,5 @@
 ---
 title: Forget the PS3 or the 360
-date: 2006-11-26 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2006/11/25/Forget_the_PS3_or_the_360.aspx/"
 ---

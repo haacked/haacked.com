@@ -1,6 +1,5 @@
 ---
 title: "GitHub Flow Like a Pro with these 13 Git Aliases"
-date: 2014-07-28 -0800 9:00 AM
 tags: [git,aliases,github]
 excerpt_image: https://cloud.githubusercontent.com/assets/19977/3638839/8343b14c-1063-11e4-8369-537f7d62be06.png
 ---

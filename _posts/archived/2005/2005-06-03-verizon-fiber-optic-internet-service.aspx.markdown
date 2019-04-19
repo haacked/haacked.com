@@ -1,6 +1,5 @@
 ---
 title: Verizon Fiber Optic Internet Service
-date: 2005-06-03 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2005/06/02/verizon-fiber-optic-internet-service.aspx/"
 ---

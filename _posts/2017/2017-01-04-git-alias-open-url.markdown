@@ -1,6 +1,5 @@
 ---
 title: "Git Alias to browse "
-date: 2017-01-04 -0800 9:00 AM
 tags: [git,aliases]
 ---
 

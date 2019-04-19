@@ -1,6 +1,5 @@
 ---
 title: Microsoft Listens and Don Box Responds
-date: 2004-07-24 -0800 9:00 AM
 tags: [microsoft]
 redirect_from: "/archive/2004/07/23/microsoft-listens-and-don-box-responds.aspx/"
 ---

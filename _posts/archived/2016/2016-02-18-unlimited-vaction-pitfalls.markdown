@@ -1,6 +1,5 @@
 ---
 title: "Pitfalls of Unlimited Vacations"
-date: 2016-02-18 -0800 9:00 AM
 tags: [management,vacation,culture]
 ---
 

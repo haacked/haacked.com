@@ -1,6 +1,5 @@
 ---
 title: "Cruising"
-date: 2016-08-24 -0800 9:00 AM
 tags: [management,personal]
 excerpt_image: https://cloud.githubusercontent.com/assets/19977/17877044/a7b41cac-6894-11e6-81ca-878e09cb0152.JPG
 ---

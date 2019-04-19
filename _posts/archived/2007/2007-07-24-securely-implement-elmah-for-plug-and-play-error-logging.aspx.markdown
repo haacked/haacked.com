@@ -1,6 +1,5 @@
 ---
 title: Securely Implement ELMAH For Plug And Play Error Logging
-date: 2007-07-24 -0800 9:00 AM
 tags: [aspnet]
 redirect_from: "/archive/2007/07/23/securely-implement-elmah-for-plug-and-play-error-logging.aspx/"
 ---

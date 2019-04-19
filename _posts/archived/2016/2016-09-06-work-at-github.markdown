@@ -1,6 +1,5 @@
 ---
 title: "Working at GitHub"
-date: 2016-09-06 -0800 9:00 AM
 tags: [management,github,hiring]
 ---
 

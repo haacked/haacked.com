@@ -1,6 +1,5 @@
 ---
 title: Scripting ASP.NET MVC Views Stored In The Database
-date: 2009-04-22 -0800 9:00 AM
 tags: [code,aspnetmvc,languages]
 redirect_from: "/archive/2009/04/21/scripted-db-views.aspx/"
 ---

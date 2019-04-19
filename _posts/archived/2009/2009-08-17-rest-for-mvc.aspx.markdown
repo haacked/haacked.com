@@ -1,6 +1,5 @@
 ---
 title: Rest For ASP.NET MVC SDK and Sample
-date: 2009-08-17 -0800 9:00 AM
 tags: [aspnetmvc]
 redirect_from: "/archive/2009/08/16/rest-for-mvc.aspx/"
 ---

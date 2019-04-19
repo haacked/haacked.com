@@ -1,6 +1,5 @@
 ---
 title: Attention Denizens of Black Rock City
-date: 2010-08-29 -0800 9:00 AM
 tags: [burningman,humor,personal]
 redirect_from: "/archive/2010/08/28/attention-denizens-of-black-rock-city.aspx/"
 ---

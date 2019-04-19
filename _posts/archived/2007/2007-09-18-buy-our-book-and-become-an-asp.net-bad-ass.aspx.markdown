@@ -1,6 +1,5 @@
 ---
 title: Buy Our Book And Become An ASP.NET Bad Ass
-date: 2007-09-18 -0800 9:00 AM
 tags: [books,aspnet,writing]
 redirect_from: "/archive/2007/09/17/buy-our-book-and-become-an-asp.net-bad-ass.aspx/"
 ---

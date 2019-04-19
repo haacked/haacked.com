@@ -1,6 +1,5 @@
 ---
 title: New Edition Of Code Complete
-date: 2004-04-16 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2004/04/15/new-edition-of-code-complete.aspx/"
 ---

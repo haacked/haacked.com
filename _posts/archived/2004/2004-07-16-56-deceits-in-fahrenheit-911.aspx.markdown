@@ -1,6 +1,5 @@
 ---
 title: 56 Deceits in Fahrenheit 9/11
-date: 2004-07-16 -0800 9:00 AM
 tags: [politics]
 redirect_from: "/archive/2004/07/15/56-deceits-in-fahrenheit-911.aspx/"
 ---

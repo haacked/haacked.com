@@ -1,6 +1,5 @@
 ---
 title: The Mix Conferences Will End With 09
-date: 2006-09-20 -0800 9:00 AM
 tags: [community]
 redirect_from: "/archive/2006/09/19/The_Mix_Conferences_Will_End_With_09.aspx/"
 ---

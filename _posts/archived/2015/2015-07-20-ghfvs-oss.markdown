@@ -1,6 +1,5 @@
 ---
 title: "The Open Sourcing of the GitHub Extension for Visual Studio"
-date: 2015-07-20 -0800 9:00 AM
 tags: [github,git,oss]
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Whidbey Update
-date: 2004-10-22 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2004/10/21/whidbey-update.aspx/"
 ---

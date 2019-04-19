@@ -1,6 +1,5 @@
 ---
 title: Essential Subtext 1.9.2 Crib Notes
-date: 2006-10-25 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2006/10/24/Essential_Subtext_1.9.2_Crib_Notes.aspx/"
 ---

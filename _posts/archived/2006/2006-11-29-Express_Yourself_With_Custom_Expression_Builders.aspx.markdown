@@ -1,6 +1,5 @@
 ---
 title: Express Yourself With Custom Expression Builders
-date: 2006-11-29 -0800 9:00 AM
 tags: [aspnet]
 redirect_from: "/archive/2006/11/28/Express_Yourself_With_Custom_Expression_Builders.aspx/"
 ---

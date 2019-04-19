@@ -1,6 +1,5 @@
 ---
 title: This One Is For You Dan
-date: 2006-05-27 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2006/05/26/ThisOneIsForYouDan.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Code Based Repeater for ASP.NET MVC
-date: 2008-05-03 -0800 9:00 AM
 tags: [aspnet,aspnetmvc]
 redirect_from: "/archive/2008/05/02/code-based-repeater-for-asp.net-mvc.aspx/"
 ---

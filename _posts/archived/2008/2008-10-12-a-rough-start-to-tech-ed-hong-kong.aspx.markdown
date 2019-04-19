@@ -1,6 +1,5 @@
 ---
 title: A Rough Start To Tech-Ed Hong Kong
-date: 2008-10-12 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2008/10/11/a-rough-start-to-tech-ed-hong-kong.aspx/"
 ---

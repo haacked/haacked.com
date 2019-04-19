@@ -1,6 +1,5 @@
 ---
 title: The Onion Taken Seriously
-date: 2004-04-14 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2004/04/13/the-onion-taken-seriously.aspx/"
 ---

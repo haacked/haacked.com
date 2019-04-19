@@ -1,6 +1,5 @@
 ---
 title: How To Get The Calling Method And Type
-date: 2006-08-11 -0800 9:00 AM
 tags: [csharp,dotnet]
 redirect_from: "/archive/2006/08/10/howtogetthecallingmethodandtype.aspx/"
 ---

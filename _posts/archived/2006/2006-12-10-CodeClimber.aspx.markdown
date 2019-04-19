@@ -1,6 +1,5 @@
 ---
 title: CodeClimber
-date: 2006-12-10 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2006/12/09/CodeClimber.aspx/"
 ---

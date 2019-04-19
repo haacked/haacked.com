@@ -1,6 +1,5 @@
 ---
 title: Downloading the Latest Source for Subtext from CVS
-date: 2005-06-17 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2005/06/16/downloading-the-latest-source-for-subtext-from-cvs.aspx/"
 ---

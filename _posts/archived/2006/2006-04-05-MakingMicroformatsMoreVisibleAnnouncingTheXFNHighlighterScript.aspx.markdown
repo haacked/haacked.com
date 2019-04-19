@@ -1,6 +1,5 @@
 ---
 title: Making Microformats More Visible - Announcing The XFN Highlighter Script
-date: 2006-04-05 -0800 9:00 AM
 tags: [microformats]
 redirect_from: "/archive/2006/04/04/MakingMicroformatsMoreVisibleAnnouncingTheXFNHighlighterScript.aspx/"
 ---

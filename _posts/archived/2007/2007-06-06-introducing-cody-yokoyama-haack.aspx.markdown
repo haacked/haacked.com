@@ -1,6 +1,5 @@
 ---
 title: Introducing Cody Yokoyama Haack
-date: 2007-06-06 -0800 9:00 AM
 tags: [personal,parenting]
 redirect_from: "/archive/2007/06/05/introducing-cody-yokoyama-haack.aspx/"
 ---

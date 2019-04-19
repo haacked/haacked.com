@@ -1,6 +1,5 @@
 ---
 title: "Classic Manhattan"
-date: 2014-10-25 -0800 9:00 AM
 tags: [personal]
 ---
 

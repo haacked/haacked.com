@@ -1,6 +1,5 @@
 ---
 title: Philosophy Blogs
-date: 2004-07-21 -0800 9:00 AM
 tags: [blogging,philosophy]
 redirect_from: "/archive/2004/07/20/philosophy-blogs.aspx/"
 ---

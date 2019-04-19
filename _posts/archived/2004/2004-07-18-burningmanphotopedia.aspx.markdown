@@ -1,6 +1,5 @@
 ---
 title: Burning Man Photopedia
-date: 2004-07-18 -0700 9:00 AM
 tags: [burningman]
 redirect_from:
   - "/archive/2004/07/17/burningmanphotopedia.aspx/"

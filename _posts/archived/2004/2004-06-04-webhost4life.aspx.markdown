@@ -1,6 +1,5 @@
 ---
 title: WebHost4Life
-date: 2004-06-04 -0800 9:00 AM
 tags: [web]
 redirect_from: "/archive/2004/06/03/webhost4life.aspx/"
 ---

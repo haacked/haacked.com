@@ -1,6 +1,5 @@
 ---
 title: NuGet CTP 2 Released!
-date: 2010-11-09 -0800 9:00 AM
 tags: [nuget,code]
 redirect_from: "/archive/2010/11/08/nuget-ctp2-released.aspx/"
 ---

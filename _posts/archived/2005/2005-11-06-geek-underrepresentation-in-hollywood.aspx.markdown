@@ -1,6 +1,5 @@
 ---
 title: Geek Underrepresentation In Hollywood
-date: 2005-11-06 -0800 9:00 AM
 tags: [developers]
 redirect_from: "/archive/2005/11/05/geek-underrepresentation-in-hollywood.aspx/"
 ---

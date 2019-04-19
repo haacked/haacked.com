@@ -1,6 +1,5 @@
 ---
 title: JQuery and ASP.NET MVC
-date: 2008-09-30 -0800 9:00 AM
 tags: [jquery,aspnetmvc,oss]
 redirect_from: "/archive/2008/09/29/jquery-and-asp.net-mvc.aspx/"
 ---

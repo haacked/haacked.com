@@ -1,6 +1,5 @@
 ---
 title: Housing Prices in Los Angeles
-date: 2005-09-26 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2005/09/25/housing-prices-in-los-angeles.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Humans Are Not Random Number Generators
-date: 2005-10-12 -0800 9:00 AM
 tags: [security]
 redirect_from: "/archive/2005/10/11/humans-are-not-random-number-generators.aspx/"
 ---

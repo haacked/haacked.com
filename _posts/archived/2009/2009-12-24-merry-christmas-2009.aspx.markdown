@@ -1,6 +1,5 @@
 ---
 title: Merry Christmas
-date: 2009-12-24 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2009/12/23/merry-christmas-2009.aspx/"
 ---

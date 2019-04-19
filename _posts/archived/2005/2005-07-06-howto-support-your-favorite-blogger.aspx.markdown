@@ -1,6 +1,5 @@
 ---
 title: HowTo Support your Favorite Blogger
-date: 2005-07-06 -0800 9:00 AM
 tags: [blogging]
 redirect_from: "/archive/2005/07/05/howto-support-your-favorite-blogger.aspx/"
 ---

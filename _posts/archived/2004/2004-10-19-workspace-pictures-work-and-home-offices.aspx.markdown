@@ -1,6 +1,5 @@
 ---
 title: 'Workspace Pictures: Work and Home Offices'
-date: 2004-10-19 -0800 9:00 AM
 tags: [personal,work]
 redirect_from: "/archive/2004/10/18/workspace-pictures-work-and-home-offices.aspx/"
 ---

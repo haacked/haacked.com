@@ -1,6 +1,5 @@
 ---
 title: A Caveat with NuGet Source Code Packages
-date: 2013-02-10 -0800 9:00 AM
 tags: [git,github,code]
 redirect_from: "/archive/2013/02/09/a-caveat-with-nuget-source-code-packages.aspx/"
 ---

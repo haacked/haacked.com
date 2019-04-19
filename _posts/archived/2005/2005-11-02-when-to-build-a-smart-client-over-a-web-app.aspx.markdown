@@ -1,6 +1,5 @@
 ---
 title: When to Build a Smart Client Over a Web App
-date: 2005-11-02 -0800 9:00 AM
 tags: [web]
 redirect_from: "/archive/2005/11/01/when-to-build-a-smart-client-over-a-web-app.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Jeff Richter's First Blog Entry Ever
-date: 2004-07-07 -0800 9:00 AM
 tags: [dotnet,community]
 redirect_from: "/archive/2004/07/06/jeff-richters-first-blog-entry-ever.aspx/"
 ---

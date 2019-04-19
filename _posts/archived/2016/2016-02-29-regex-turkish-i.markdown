@@ -1,6 +1,5 @@
 ---
 title: "A Subtle Case Sensitivity Gotcha with Regular Expressions"
-date: 2016-02-29 -0800 9:00 AM
 tags: [regex]
 excerpt_image: https://imgs.xkcd.com/comics/regular_expressions.png
 ---

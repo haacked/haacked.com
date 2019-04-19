@@ -1,6 +1,5 @@
 ---
 title: Twiggy Meets Ashton Kutcher
-date: 2005-09-28 -0800 9:00 AM
 tags: [personal,twiggy]
 redirect_from: "/archive/2005/09/27/twiggy-meets-ashton-kutcher.aspx/"
 ---

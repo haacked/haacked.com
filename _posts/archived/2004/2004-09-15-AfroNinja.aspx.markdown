@@ -1,6 +1,5 @@
 ---
 title: 'FUNNY: Afro Ninja'
-date: 2004-09-15 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2004/09/14/AfroNinja.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Puerto Rico"
-date: 2015-05-14 -0800 9:00 AM
 tags: [conferences,travel,personal]
 ---
 

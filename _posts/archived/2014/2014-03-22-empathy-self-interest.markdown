@@ -1,6 +1,6 @@
 ---
 title: "Empathy In Your Best Interest"
-date: 2014-03-22 10:18 -0700
+
 tags: [empathy,management,relationships]
 excerpt_image: https://f.cloud.github.com/assets/19977/2463115/7ea028fa-af88-11e3-8a79-e3ba584a561d.jpg
 ---

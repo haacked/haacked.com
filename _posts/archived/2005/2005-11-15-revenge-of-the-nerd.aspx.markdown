@@ -1,6 +1,5 @@
 ---
 title: Revenge of the Nerd?
-date: 2005-11-15 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2005/11/14/revenge-of-the-nerd.aspx/"
 ---

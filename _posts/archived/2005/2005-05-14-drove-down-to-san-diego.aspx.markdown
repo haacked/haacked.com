@@ -1,6 +1,5 @@
 ---
 title: Drove Down to San Diego
-date: 2005-05-14 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2005/05/13/drove-down-to-san-diego.aspx/"
 ---

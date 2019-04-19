@@ -1,6 +1,5 @@
 ---
 title: Adios Suckers. We're Packed and Ready to Go.
-date: 2005-11-18 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2005/11/17/adios-suckers-were-packed-and-ready-to-go.aspx/"
 ---

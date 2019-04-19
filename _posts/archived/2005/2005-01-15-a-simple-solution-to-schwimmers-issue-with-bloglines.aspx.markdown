@@ -1,6 +1,5 @@
 ---
 title: A Simple Solution To Schwimmer's Issue With Bloglines
-date: 2005-01-15 -0800 9:00 AM
 tags: [blogging,rss]
 redirect_from: "/archive/2005/01/14/a-simple-solution-to-schwimmers-issue-with-bloglines.aspx/"
 ---

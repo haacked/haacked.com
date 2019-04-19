@@ -1,6 +1,5 @@
 ---
 title: PageParser.GetCompiledPageInstance Weirdness When Debug Set To False In Web.config
-date: 2006-05-03 -0800 9:00 AM
 tags: [aspnet]
 redirect_from: "/archive/2006/05/02/PageParser.GetCompiledPageInstanceWeirdnessWhenDebugSetToFalseInWeb.config.aspx/"
 ---

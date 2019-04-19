@@ -1,6 +1,5 @@
 ---
 title: LostYouth is back...
-date: 2004-04-20 -0800 9:00 AM
 tags: [friends]
 redirect_from: "/archive/2004/04/19/lostyouth-is-back.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: RouteDebugger 2.0
-date: 2011-04-13 -0800 9:00 AM
 tags: [aspnet,aspnetmvc,routing]
 redirect_from: "/archive/2011/04/12/routedebugger-2.aspx/"
 ---

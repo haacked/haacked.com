@@ -1,6 +1,5 @@
 ---
 title: Hilarious Quote on Computing Power
-date: 2007-11-11 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2007/11/10/hilarious-quote-on-computing-power.aspx/"
 ---

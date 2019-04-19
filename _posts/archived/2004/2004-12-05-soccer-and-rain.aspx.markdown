@@ -1,6 +1,5 @@
 ---
 title: Soccer And Rain
-date: 2004-12-05 -0800 9:00 AM
 tags: [personal,soccer]
 redirect_from: "/archive/2004/12/04/soccer-and-rain.aspx/"
 ---

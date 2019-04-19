@@ -1,6 +1,5 @@
 ---
 title: Google Suggest
-date: 2004-12-10 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2004/12/09/google-suggest.aspx/"
 ---

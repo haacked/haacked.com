@@ -1,6 +1,5 @@
 ---
 title: Ya Gotta Be a Bit MacGuyver
-date: 2005-12-16 -0800 9:00 AM
 tags: [consulting,hiring]
 redirect_from: "/archive/2005/12/15/ya-gotta-be-a-bit-macguyver.aspx/"
 ---

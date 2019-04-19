@@ -1,6 +1,5 @@
 ---
 title: Increase Productivity With Search Driven Development
-date: 2007-03-16 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2007/03/15/increase-productivity-with-search-driven-development.aspx/"
 ---

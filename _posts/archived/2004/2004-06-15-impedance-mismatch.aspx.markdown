@@ -1,6 +1,5 @@
 ---
 title: The meaning of Impedance Mismatch
-date: 2004-06-15 -0800 9:00 AM
 tags: [code,patterns]
 redirect_from: "/archive/2004/06/14/impedance-mismatch.aspx/"
 ---

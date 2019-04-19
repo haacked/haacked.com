@@ -1,6 +1,5 @@
 ---
 title: Picture of the Moment - Geisha Trio
-date: 2006-07-07 -0800 9:00 AM
 tags: [meta]
 redirect_from: "/archive/2006/07/06/PictureOfTheMomentGeishaTrio.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Changing A Strong Name Is A Major Breaking Change
-date: 2012-02-16 -0800 9:00 AM
 tags: [oss,versioning,semver]
 redirect_from: "/archive/2012/02/15/changing-a-strong-name-is-a-major-breaking-change.aspx/"
 ---

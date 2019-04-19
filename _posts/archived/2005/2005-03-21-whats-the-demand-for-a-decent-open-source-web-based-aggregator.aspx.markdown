@@ -1,6 +1,5 @@
 ---
 title: What's the Demand For a Decent Open Source Web Based Aggregator?
-date: 2005-03-21 -0800 9:00 AM
 tags: [rss]
 redirect_from: "/archive/2005/03/20/whats-the-demand-for-a-decent-open-source-web-based-aggregator.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Versioning Issues With Optional Arguments
-date: 2010-08-10 -0800 9:00 AM
 tags: [code,versioning,dotnet]
 redirect_from: "/archive/2010/08/09/versioning-issues-with-optional-arguments.aspx/"
 ---

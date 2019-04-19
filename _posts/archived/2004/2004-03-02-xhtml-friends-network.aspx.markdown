@@ -1,6 +1,5 @@
 ---
 title: XHTML Friends Network
-date: 2004-03-02 -0800 9:00 AM
 tags: [web]
 redirect_from: "/archive/2004/03/01/xhtml-friends-network.aspx/"
 ---

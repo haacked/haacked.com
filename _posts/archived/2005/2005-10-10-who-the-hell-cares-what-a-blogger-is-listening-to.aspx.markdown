@@ -1,6 +1,5 @@
 ---
 title: Who The Hell Cares What a Blogger Is Listening To?
-date: 2005-10-10 -0800 9:00 AM
 tags: [meta,blogging]
 redirect_from: "/archive/2005/10/09/who-the-hell-cares-what-a-blogger-is-listening-to.aspx/"
 ---

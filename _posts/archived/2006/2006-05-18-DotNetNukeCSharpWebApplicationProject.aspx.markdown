@@ -1,6 +1,5 @@
 ---
 title: DotNetNuke CSharp Web Application Project
-date: 2006-05-18 -0800 9:00 AM
 tags: [dotnetnuke]
 redirect_from: "/archive/2006/05/17/DotNetNukeCSharpWebApplicationProject.aspx/"
 ---

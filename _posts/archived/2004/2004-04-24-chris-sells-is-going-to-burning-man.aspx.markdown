@@ -1,6 +1,5 @@
 ---
 title: Chris Sells Is Going To Burning Man
-date: 2004-04-24 -0800 9:00 AM
 tags: [burningman]
 redirect_from: "/archive/2004/04/23/chris-sells-is-going-to-burning-man.aspx/"
 ---

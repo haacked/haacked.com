@@ -1,6 +1,5 @@
 ---
 title: Page 23
-date: 2004-04-19 -0800 9:00 AM
 tags: [regex]
 redirect_from: "/archive/2004/04/18/page-23.aspx/"
 ---

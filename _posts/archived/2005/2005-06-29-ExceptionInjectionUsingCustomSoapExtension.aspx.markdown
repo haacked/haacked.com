@@ -1,6 +1,5 @@
 ---
 title: Exception Injection Using a Custom SOAP Extension
-date: 2005-06-29 -0800 9:00 AM
 tags: [code,web]
 redirect_from: "/archive/2005/06/28/ExceptionInjectionUsingCustomSoapExtension.aspx/"
 ---

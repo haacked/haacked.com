@@ -1,6 +1,5 @@
 ---
 title: Tradeoffs When Minimizing The Impact Of Changes
-date: 2006-11-16 -0800 9:00 AM
 tags: [software]
 redirect_from: "/archive/2006/11/15/Tradeoffs_When_Minimizing_The_Impact_Of_Changes.aspx/"
 ---

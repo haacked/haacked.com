@@ -1,6 +1,5 @@
 ---
 title: MIX07 Pics From Mix
-date: 2007-05-02 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2007/05/01/mix07-pics-from-mix.aspx/"
 ---

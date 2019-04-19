@@ -1,6 +1,5 @@
 ---
 title: Adding Window Onload Events In Javascript
-date: 2006-02-05 -0800 9:00 AM
 tags: [javascript]
 redirect_from: "/archive/2006/02/04/AddingWindowOnloadEventsInJavascript.aspx/"
 ---

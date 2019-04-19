@@ -1,6 +1,5 @@
 ---
 title: NuGet Needs Your Input
-date: 2011-04-06 -0800 9:00 AM
 tags: [nuget,oss,code]
 redirect_from: "/archive/2011/04/05/nuget-needs-your-input.aspx/"
 ---

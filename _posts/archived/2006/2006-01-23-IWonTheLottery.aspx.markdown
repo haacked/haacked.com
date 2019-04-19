@@ -1,6 +1,5 @@
 ---
 title: I Won The Lottery!
-date: 2006-01-23 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2006/01/22/IWonTheLottery.aspx/"
 ---

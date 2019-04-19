@@ -1,6 +1,5 @@
 ---
 title: Geek Slap Fight - Get Rid of WWW
-date: 2007-02-27 -0800 9:00 AM
 tags: [code,tech]
 redirect_from: "/archive/2007/02/26/Geek_Slap_Fight_-_Get_Rid_of_WWW.aspx/"
 ---

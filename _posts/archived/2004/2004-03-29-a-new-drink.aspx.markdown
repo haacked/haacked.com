@@ -1,6 +1,5 @@
 ---
 title: A new drink
-date: 2004-03-29 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2004/03/28/a-new-drink.aspx/"
 ---

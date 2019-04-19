@@ -1,6 +1,5 @@
 ---
 title: Anybody Use Quickbooks Online
-date: 2005-06-23 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2005/06/22/anybody-use-quickbooks-online.aspx/"
 ---

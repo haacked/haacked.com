@@ -1,6 +1,5 @@
 ---
 title: CSS Based Printing Tip
-date: 2006-03-13 -0800 9:00 AM
 tags: [css]
 redirect_from: "/archive/2006/03/12/CSSBasedPrintingTip.aspx/"
 ---

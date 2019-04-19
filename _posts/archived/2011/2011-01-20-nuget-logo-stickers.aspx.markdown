@@ -1,6 +1,5 @@
 ---
 title: NuGet Logo Stickers
-date: 2011-01-20 -0800 9:00 AM
 tags: [nuget]
 redirect_from: "/archive/2011/01/19/nuget-logo-stickers.aspx/"
 ---

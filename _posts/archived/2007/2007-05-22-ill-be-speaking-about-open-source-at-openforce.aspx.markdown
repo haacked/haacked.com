@@ -1,6 +1,5 @@
 ---
 title: I'll Be Speaking About Open Source at OpenForce
-date: 2007-05-22 -0800 9:00 AM
 tags: [oss,conferences]
 redirect_from: "/archive/2007/05/21/ill-be-speaking-about-open-source-at-openforce.aspx/"
 ---

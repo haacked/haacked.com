@@ -1,6 +1,5 @@
 ---
 title: Podcasting Audio Logo
-date: 2005-08-08 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2005/08/07/podcasting-audio-logo.aspx/"
 ---

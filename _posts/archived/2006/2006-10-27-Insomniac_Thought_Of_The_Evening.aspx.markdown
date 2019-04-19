@@ -1,6 +1,5 @@
 ---
 title: Insomniac Thought Of The Evening
-date: 2006-10-27 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2006/10/26/Insomniac_Thought_Of_The_Evening.aspx/"
 ---

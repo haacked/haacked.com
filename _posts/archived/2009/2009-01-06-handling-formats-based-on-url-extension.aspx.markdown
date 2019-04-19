@@ -1,6 +1,5 @@
 ---
 title: Handling Formats Based On Url Extension
-date: 2009-01-06 -0800 9:00 AM
 tags: [aspnet,aspnetmvc]
 redirect_from: "/archive/2009/01/05/handling-formats-based-on-url-extension.aspx/"
 ---

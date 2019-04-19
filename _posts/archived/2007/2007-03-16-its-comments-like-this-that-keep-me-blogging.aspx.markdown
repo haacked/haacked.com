@@ -1,6 +1,5 @@
 ---
 title: It's Comments Like This That Keep Me Blogging
-date: 2007-03-16 -0800 9:00 AM
 tags: [blogging]
 redirect_from: "/archive/2007/03/15/its-comments-like-this-that-keep-me-blogging.aspx/"
 ---

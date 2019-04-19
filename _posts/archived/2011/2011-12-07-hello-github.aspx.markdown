@@ -1,6 +1,5 @@
 ---
 title: Hello GitHub!
-date: 2011-12-07 -0800 9:00 AM
 tags: [work,github]
 redirect_from: "/archive/2011/12/06/hello-github.aspx/"
 ---

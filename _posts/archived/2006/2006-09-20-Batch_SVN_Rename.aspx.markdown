@@ -1,6 +1,5 @@
 ---
 title: Batch SVN Rename
-date: 2006-09-20 -0800 9:00 AM
 tags: [tools]
 redirect_from: "/archive/2006/09/19/Batch_SVN_Rename.aspx/"
 ---

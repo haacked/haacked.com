@@ -1,6 +1,5 @@
 ---
 title: Worst Software Bugs in History
-date: 2005-11-08 -0800 9:00 AM
 tags: [software,history,work]
 redirect_from: "/archive/2005/11/07/worse-software-bugs.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: The Shining Redux - Feel Good Movie?
-date: 2005-09-29 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2005/09/28/the-shining-redux--feel-good-movie.aspx/"
 ---

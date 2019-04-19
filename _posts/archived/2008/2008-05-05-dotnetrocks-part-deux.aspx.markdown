@@ -1,6 +1,5 @@
 ---
 title: DotNetRocks Part Deux
-date: 2008-05-05 -0800 9:00 AM
 tags: [podcasts,aspnetmvc]
 redirect_from: "/archive/2008/05/04/dotnetrocks-part-deux.aspx/"
 ---
