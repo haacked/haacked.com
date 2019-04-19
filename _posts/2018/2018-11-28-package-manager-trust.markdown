@@ -2,7 +2,7 @@
 title: "The Problem of Package Manager Trust"
 description: "Trust is a tricky issue when it comes to package managers, as evidence by recent events with the event-stream package."
 date: 2018-11-28 -0800 09:30 AM PDT
-tags: [npm,nuget,security]
+tags: [nuget,security]
 excerpt_image: https://user-images.githubusercontent.com/19977/56387879-5fd3ed80-61da-11e9-8315-868a43bd5502.png
 ---
 

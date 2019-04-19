@@ -1,23 +1,13 @@
 ---
 title: How Duck Typing Benefits C# Developers
 date: 2007-08-19 -0800
-tags: [csharp,code,types]
+tags: [csharp,code,design]
 redirect_from: "/archive/2007/08/18/why-duck-typing-matters-to-c-developers.aspx/"
 ---
 
-[David
-Meyer](http://www.deftflux.net/blog/ "David Meyer’s Blog - deft flux")
-recently published a [.NET class
-library](http://www.deftflux.net/blog/page/Duck-Typing-Project.aspx "Duck Typing Project")
-that enables *[duck
-typing](http://en.wikipedia.org/wiki/Duck_typing "Duck typing on Wikipedia")*
-(also sometimes [incorrectly described as *Latent
-Typing*](http://www.mindview.net/WebLog/log-0051 "Latent Typing") as
-[Ian
-Griffiths](http://www.interact-sw.co.uk/iangblog/ "Ian Griffith's Blog")
-explains in his campaign to [disabuse that
-notion](http://www.interact-sw.co.uk/iangblog/2005/01/06/notlatent "Not Latent"))
-for .NET languages.
+[David Meyer](http://www.deftflux.net/blog/ "David Meyer’s Blog - deft flux")
+recently published a [.NET class library](http://www.deftflux.net/blog/page/Duck-Typing-Project.aspx "Duck Typing Project")
+that enables *[duck typing](http://en.wikipedia.org/wiki/Duck_typing "Duck typing on Wikipedia")* (also sometimes [incorrectly described as *Latent Typing*](http://www.mindview.net/WebLog/log-0051 "Latent Typing") as [Ian Griffiths](http://www.interact-sw.co.uk/iangblog/ "Ian Griffith's Blog") explains in his campaign to [disabuse that notion](http://www.interact-sw.co.uk/iangblog/2005/01/06/notlatent "Not Latent")) for .NET languages.
 
 The term *duck typing* is popularly explained by the phrase
 

@@ -1,7 +1,7 @@
 ---
 title: The ABCs of Alpha, Beta, CTP
 date: 2008-08-15 -0800
-tags: [releases]
+tags: [versioning]
 redirect_from: "/archive/2008/08/14/understanding-beta.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The Very Last Configuration Section Handler I'll Ever Need
 date: 2004-06-24 -0800
-tags: [aspnet,config]
+tags: [aspnet,tips]
 redirect_from: "/archive/2004/06/23/verylastconfigurationsectionhandler.aspx/"
 ---
 

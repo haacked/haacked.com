@@ -1,7 +1,7 @@
 ---
 title: Bank Error In My Favor. I'm a Microsoft MVP
 date: 2007-07-01 -0800
-tags: [mvp,microsoft]
+tags: [personal,microsoft]
 redirect_from: "/archive/2007/06/30/bank-error-in-my-favor.-im-a-microsoft-mvp.aspx/"
 ---
 
@@ -29,4 +29,3 @@ Conery](http://blog.wekeroad.com/ "Rob Conery’s Blog") for initially
 nominating me and [K. Scott
 Allen](http://odetocode.com/Blogs/scott/ "OdeToCode") for also
 nominating me later.
-

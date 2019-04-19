@@ -1,7 +1,7 @@
 ---
 title: Any Recommendations For A Good Place To Get A Drink In Redmond?
 date: 2007-08-02 -0800
-tags: [travel,drinks]
+tags: [travel]
 redirect_from: "/archive/2007/08/01/any-recommendations-for-a-good-place-to-get-a-drink.aspx/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Internationalized URLs
 date: 2007-11-30 -0800
-tags: [i8n,subtext]
+tags: [subtext]
 redirect_from: "/archive/2007/11/29/internationalized-urls.aspx/"
 ---
 
