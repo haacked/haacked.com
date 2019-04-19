@@ -1,6 +1,6 @@
 ---
 title: "Dr. Jekyll and Mr. Haack"
-date: 2013-12-02 08:18:39 -0800
+date: 2013-12-02 -0800 8:18 AM
 tags: [blogging,jekyll]
 ---
 
