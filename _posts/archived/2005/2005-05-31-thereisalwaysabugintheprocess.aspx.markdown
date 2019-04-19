@@ -1,8 +1,7 @@
 ---
-title: Please Trust And Empower Your Employees. There&#8217;s Always A Bug In The
-  Process.
+title: Please Trust And Empower Your Employees. There's Always A Bug In The Process.
 date: 2005-05-31 -0800
-tags: [company,culture]
+tags: [culture,management]
 redirect_from: "/archive/2005/05/30/thereisalwaysabugintheprocess.aspx/"
 ---
 
@@ -77,4 +76,3 @@ can afford to alienate customers.
 In this scenario, it was a small incident, nothing business threatening.
 But scale it up a notch, and you begin to realize why so many companies
 falter with head strong leadership and unempowered employees.
-

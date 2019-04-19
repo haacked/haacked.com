@@ -2,7 +2,7 @@
 title: "Work hard and love yourself"
 description: "Treat yourself and your family right and work hard to get in good physical shape."
 date: 2017-12-29 -0800 11:46 AM PDT
-tags: [personal,fitness,exercise,lifting]
+tags: [personal,health]
 excerpt_image: https://user-images.githubusercontent.com/19977/34449748-a91d59c2-ecb0-11e7-8566-784bf6452d73.jpg
 ---
 

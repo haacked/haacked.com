@@ -2,7 +2,7 @@
 title: "PR information at your fingertips"
 description: "A look at how GitHub for Visual Studio puts PR information at your fingertips."
 date: 2018-03-15 -0800
-tags: [github,visualstudio,pull-request]
+tags: [github,visualstudio,code-review]
 excerpt_image: https://github-team.s3.amazonaws.com/uploads/general/2169716d-b6ee-4602-95bc-5f65ef193db4.png
 ---
 

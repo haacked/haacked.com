@@ -1,7 +1,7 @@
 ---
 title: "GitHub Data In Your Website"
 date: 2014-05-10 -0800
-tags: [blog,github,pages]
+tags: [blogging,github,jekyll]
 ---
 
 Software collaboration goes beyond just working on the code. In addition to writing a lot of code, software involves writing a lot of _words_. Prose shows up in documentation, tutorials, blog posts, and so on.

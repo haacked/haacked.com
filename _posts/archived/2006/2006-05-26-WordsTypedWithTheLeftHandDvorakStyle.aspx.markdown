@@ -1,7 +1,7 @@
 ---
 title: Words Typed With The Left Hand - Dvorak Style
 date: 2006-05-26 -0800
-tags: [dvorak,typing]
+tags: [dvorak]
 redirect_from: "/archive/2006/05/25/WordsTypedWithTheLeftHandDvorakStyle.aspx/"
 ---
 
@@ -34,14 +34,14 @@ hitting all the wrong keys to produce the right letters.
 In any case, here are a few words that I can type with my left hand
 using the Dvorak layout.
 
--   puke
--   pee
--   keep
--   peak
--   quake
--   pique
--   oak
--   quux (metasyntactic variable such as foo, bar, baz)
+- puke
+- pee
+- keep
+- peak
+- quake
+- pique
+- oak
+- quux (metasyntactic variable such as foo, bar, baz)
 
 That is quite a limited vocabulary.
 

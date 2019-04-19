@@ -1,7 +1,7 @@
 ---
 title: Don't Buy Our Book. Win It. Or Win that XBox. Your Choice.
 date: 2007-11-05 -0800
-tags: [book,aspnet]
+tags: [books,aspnet]
 redirect_from: "/archive/2007/11/04/dont-buy-our-book-win-it-or-win-that-x-box.aspx/"
 ---
 
@@ -35,4 +35,3 @@ that, would you?
 
 In any case, for more contest details, check out [the contest
 page](http://dotnetslackers.com/contest/peers/ "Contribute to DotNetSlackers community and win prizes").
-

@@ -1,7 +1,7 @@
 ---
 title: "Avoid async void methods"
 date: 2014-11-11 -0800
-tags: [csharp,async]
+tags: [csharp,concurrency]
 ---
 
 Repeat after me, "__Avoid `async void`__!" (_Now say that ten times fast!_) Ha ha ha. You sound funny.

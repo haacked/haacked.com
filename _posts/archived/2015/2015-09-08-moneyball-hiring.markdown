@@ -1,7 +1,7 @@
 ---
 title: "Moneyball of Hiring"
 date: 2015-09-08 -0800
-tags: [hiring,industry,diversity,management]
+tags: [hiring,diversity,management]
 excerpt_image: https://cloud.githubusercontent.com/assets/19977/9565095/3e6e5c4c-4e70-11e5-8023-6aa1f81c31dd.png
 ---
 

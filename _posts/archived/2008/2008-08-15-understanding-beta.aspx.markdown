@@ -108,4 +108,3 @@ new features, but it seems to be the norm now that they do. Service
 Packs tend to include all the hotfixes and patches released since the
 product originally was released, which is convenient for the end user in
 not having to install every fix individually.
-

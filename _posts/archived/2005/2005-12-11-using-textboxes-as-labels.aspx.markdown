@@ -1,7 +1,7 @@
 ---
 title: Using TextBoxes as Labels
 date: 2005-12-11 -0800
-tags: [ui,aspnet,design]
+tags: [aspnet,design]
 redirect_from: "/archive/2005/12/10/using-textboxes-as-labels.aspx/"
 ---
 

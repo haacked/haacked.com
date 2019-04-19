@@ -1,7 +1,7 @@
 ---
 title: Threaten To Quit And Be Rewarded - On Implicit Policies
 date: 2006-05-24 -0800
-tags: [company,culture]
+tags: [culture,management]
 redirect_from: "/archive/2006/05/23/ThreatenToQuitAndBeRewardedOnImplicitPolicies.aspx/"
 ---
 
@@ -42,10 +42,10 @@ policy](http://www.jrothman.com/weblog/2006/03/courage-required.html "Courage Re
 when management is unwilling to budge on any of the four key constraints
 of software development:
 
--   Resources
--   Quality
--   Scope
--   Time
+- Resources
+- Quality
+- Scope
+- Time
 
 If management stubbornly persists on asking for all features (scope)
 without willing to budge on time, resources, or quality. Then managment

@@ -1,7 +1,7 @@
 ---
 title: Connecting to Terminal Services When All Active Sessions are Used
 date: 2005-10-13 -0800
-tags: [remote-desktop,terminal-services]
+tags: [tech]
 redirect_from:
   - "/archive/2005/10/12/remote_desktop_to_console_session.aspx/"
   - "/archive/2005/10/15/remote_desktop_to_console_session.aspx/"

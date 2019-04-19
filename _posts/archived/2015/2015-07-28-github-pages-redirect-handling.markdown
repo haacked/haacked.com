@@ -1,7 +1,7 @@
 ---
 title: "A better 404 page and redirects with GitHub Pages"
 date: 2015-07-28 -0800
-tags: [github,jekyll,pages]
+tags: [github,jekyll]
 ---
 
 A while back I migrated my blog to [Jekyll and GitHub Pages](https://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/). I worked hard to [preserve my existing URLs](https://haacked.com/archive/2013/12/03/jekyll-url-extensions/).
