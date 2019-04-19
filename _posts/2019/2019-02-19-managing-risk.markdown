@@ -1,7 +1,7 @@
 ---
 title: "Managing Risk"
 description: "Managing risk should not just come at the beginning or end of a project. It should be an ongoing part of any project. It can also be a tool for managing risks to team health, not just the project."
-date: 2019-02-19 -0800 09:52 AM PDT
+date: 2019-02-19 -0800 09:52 AM
 tags: [work,consulting,management]
 excerpt_image: https://user-images.githubusercontent.com/19977/52507123-7e4bb600-2ba5-11e9-8aa4-aee681f38c10.png
 ---

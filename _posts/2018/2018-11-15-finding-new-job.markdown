@@ -1,7 +1,7 @@
 ---
 title: "Land that first programming job"
 description: "Reflecting on how to land that first job"
-date: 2018-11-15 -0800 08:49 AM PDT
+date: 2018-11-15 -0800 08:49 AM
 tags: [community,mentoring,software,career,hiring]
 excerpt_image: https://user-images.githubusercontent.com/19977/48568699-cc0d9680-e8b4-11e8-86b0-dff01490d2a1.png
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Include my Git Aliases"
 description: "An easy way to include all of my Git aliases in your git config"
-date: 2019-02-14 -0800 03:16 PM PDT
+date: 2019-02-14 -0800 03:16 PM
 tags: [git,aliases]
 excerpt_image: https://user-images.githubusercontent.com/19977/52824672-5ad5af00-306e-11e9-8cc3-db186bf00f13.png
 ---
