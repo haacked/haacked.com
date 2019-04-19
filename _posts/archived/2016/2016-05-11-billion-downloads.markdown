@@ -2,6 +2,7 @@
 title: "A Billion Is Cool"
 date: 2016-05-11 -0800
 tags: [nuget]
+excerpt_image: https://cloud.githubusercontent.com/assets/19977/15195972/16db77ae-177f-11e6-8837-9819e8047f15.png
 ---
 
 Yesterday, the NuGet team announced that [NuGet.org](https://nuget.org/) reached [one billion package downloads](http://blog.nuget.org/20160510/The-1st-Billion.1.html)!

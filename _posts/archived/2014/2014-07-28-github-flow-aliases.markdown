@@ -2,6 +2,7 @@
 title: "GitHub Flow Like a Pro with these 13 Git Aliases"
 date: 2014-07-28 -0800
 tags: [git,aliases,github]
+excerpt_image: https://cloud.githubusercontent.com/assets/19977/3638839/8343b14c-1063-11e4-8369-537f7d62be06.png
 ---
 
 _BONUS! I've added a [useful 14th Git Alias](https://haacked.com/archive/2015/06/29/git-migrate/): `git migrate` and now a 15th useful alias to [open the repository in the browser](https://haacked.com/archive/2017/01/04/git-alias-open-url/)_

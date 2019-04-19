@@ -3,6 +3,7 @@ title: Death to the IF statement
 date: 2013-11-08 -0800
 tags: [code,functional]
 redirect_from: "/archive/2013/11/07/death-to-the-if-statement.aspx/"
+excerpt_image: https://haacked.com/images/haacked_com/WindowsLiveWriter/UnconditionalProgrammingInC_BD84/Msi_if_cover_2.jpg
 ---
 
 Over the past few years I’ve become more and more interested in

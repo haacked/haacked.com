@@ -44,3 +44,7 @@ One of the reasons I follow this convention is for readability. When things don'
 Having said that, a commenter noted that the corefx [coding guidelines always use lowercase](https://github.com/dotnet/corefx/blob/master/Documentation/coding-guidelines/coding-style.md). And one of my principles with coding conventions is I tend to adopt something I feel is something of a widespread standard even if I disagree with it because at the end of the day, these are all mostly arbitrary and rather than spend a lot of time arguing, I'd rather just point to something and say "We're doing it that way because why not?" That's why I tend to follow the Framework Design Guidelines for example.
 
 Having said that, I still need to let this one sink in.
+
+__DOUBLE UPDATE__
+
+Jared Parson who works on the C# compiler notes that `String` vs `string` is not a style debate. He makes a compelling case for why [you should always use `string`](https://blog.paranoidcoding.com/2019/04/08/string-vs-String-is-not-about-style.html).

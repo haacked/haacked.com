@@ -3,9 +3,12 @@ title: "Why do managers go bad?"
 description: "Why do managers go bad? It's because they espouse Theory Y, but practice Theory X management."
 date: 2017-10-07 -0800 4:17 PM PDT
 tags: [leadership,management]
+excerpt_image: https://www.sketchport.com/drawing/4632616586182656/ww
 ---
 
 In [Endless Immensity of the Sea](http://haacked.com/archive/2017/08/30/endless-immensity-of-the-sea) I wrote about a leadership style that encourages intrinsic motivation. Many people I talk to don't work in such an environment. Even those who work in places that promote the ideals of autonomy and intrinsic motivation often find that over time, things change for the worse. Why does this happen?
+
+[![Walter White from Breaking Bad - licensed CC-BY by thewalkingdude](https://user-images.githubusercontent.com/19977/56388296-86deef00-61db-11e9-97e5-ee4d994a98ba.png)](https://www.sketchport.com/drawing/4632616586182656/ww)
 
 I believe it's the result of management entropy. Over time, if an organization doesn't actively work to fight it, their leaders start to lose touch with what really motivates people. 
 

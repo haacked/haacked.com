@@ -2,6 +2,7 @@
 title: "10 Years of being Haacked"
 date: 2014-02-28 -0800
 tags: [meta]
+excerpt_image: https://f.cloud.github.com/assets/19977/2296799/92858a98-a0a3-11e3-9665-7e231fec6dfb.png
 ---
 
 Today Jeff Atwood commemorates [10 years of CodingHorror.com](http://blog.codinghorror.com/10-years-of-coding-horror/). Congratulations Jeff!
