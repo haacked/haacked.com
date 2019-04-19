@@ -1,6 +1,5 @@
 ---
 title: Excellence Awards
-date: 2006-11-01 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2006/10/31/Excellence_Awards.aspx/"
 ---

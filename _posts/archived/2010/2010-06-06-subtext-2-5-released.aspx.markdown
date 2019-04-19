@@ -1,6 +1,5 @@
 ---
 title: Subtext 2.5 Released!
-date: 2010-06-06 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2010/06/05/subtext-2-5-released.aspx/"
 ---

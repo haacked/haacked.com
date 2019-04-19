@@ -1,6 +1,5 @@
 ---
 title: Writing a NuGet Package That Adds A Command To The PowerShell Console
-date: 2011-04-19 -0800 9:00 AM
 tags: [code,oss,nuget]
 redirect_from: "/archive/2011/04/18/writing-a-nuget-package-that-adds-a-command-to-the.aspx/"
 excerpt_image: https://haacked.com/images/haacked_com/WindowsLiveWriter/Writing-a-NuGet-Package-That-Adds-A-Comm_C56B/magic-8-ball_3.jpg

@@ -1,6 +1,5 @@
 ---
 title: Fun Iterating PagedCollections With Generics and Iterators
-date: 2006-08-14 -0800 9:00 AM
 tags: [tips,tdd,csharp]
 redirect_from: "/archive/2006/08/13/funiteratingpagedcollectionswithgenericsanditerators.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: By This Criteria, I Must Be Awesome
-date: 2005-08-27 -0800 9:00 AM
 tags: [developers]
 redirect_from: "/archive/2005/08/26/by-this-criteria-i-must-be-awesome.aspx/"
 ---

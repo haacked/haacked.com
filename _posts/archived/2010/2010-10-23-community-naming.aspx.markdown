@@ -1,6 +1,5 @@
 ---
 title: Community Naming
-date: 2010-10-23 -0800 9:00 AM
 tags: [nuget,code,oss]
 redirect_from: "/archive/2010/10/22/community-naming.aspx/"
 ---

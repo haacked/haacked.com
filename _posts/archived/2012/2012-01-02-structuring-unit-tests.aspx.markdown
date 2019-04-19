@@ -1,6 +1,5 @@
 ---
 title: Structuring Unit Tests
-date: 2012-01-02 -0800 9:00 AM
 tags: [code,tdd]
 redirect_from: "/archive/2012/01/01/structuring-unit-tests.aspx/"
 ---

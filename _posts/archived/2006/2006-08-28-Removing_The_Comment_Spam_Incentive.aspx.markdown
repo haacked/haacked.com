@@ -1,6 +1,5 @@
 ---
 title: Removing The Comment Spam Incentive
-date: 2006-08-28 -0800 9:00 AM
 tags: [spam]
 redirect_from: "/archive/2006/08/27/Removing_The_Comment_Spam_Incentive.aspx/"
 ---

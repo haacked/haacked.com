@@ -1,6 +1,5 @@
 ---
 title: I'm Gonna Keep My Baby
-date: 2004-06-01 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2004/05/31/im-gonna-keep-my-baby.aspx/"
 ---

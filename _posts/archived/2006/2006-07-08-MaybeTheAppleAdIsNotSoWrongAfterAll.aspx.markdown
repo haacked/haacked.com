@@ -1,6 +1,5 @@
 ---
 title: Maybe The Apple Ad Is Not So Wrong After All
-date: 2006-07-08 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2006/07/07/MaybeTheAppleAdIsNotSoWrongAfterAll.aspx/"
 ---

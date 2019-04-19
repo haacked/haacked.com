@@ -1,6 +1,5 @@
 ---
 title: A Testing Mail Server For Unit Testing Email Functionality
-date: 2006-05-30 -0800 9:00 AM
 tags: [testing,tdd]
 redirect_from: "/archive/2006/05/29/ATestingMailServerForUnitTestingEmailFunctionality.aspx/"
 ---

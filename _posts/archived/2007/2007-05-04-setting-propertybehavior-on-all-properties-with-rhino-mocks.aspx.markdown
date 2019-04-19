@@ -1,6 +1,5 @@
 ---
 title: Setting PropertyBehavior On All Properties With Rhino Mocks
-date: 2007-05-04 -0800 9:00 AM
 tags: [code,tdd]
 redirect_from: "/archive/2007/05/03/setting-propertybehavior-on-all-properties-with-rhino-mocks.aspx/"
 ---

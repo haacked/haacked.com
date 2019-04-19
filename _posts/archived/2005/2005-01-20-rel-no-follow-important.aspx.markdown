@@ -1,6 +1,5 @@
 ---
 title: Why Is rel=&quot;nofollow&quot; important?
-date: 2005-01-20 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2005/01/19/rel-no-follow-important.aspx/"
 ---

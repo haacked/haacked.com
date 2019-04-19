@@ -1,6 +1,5 @@
 ---
 title: Spyware cures may cause more harm
-date: 2004-02-04 -0800 9:00 AM
 tags: [tools]
 redirect_from: "/archive/2004/02/03/spyware-cures-may-cause-more-harm.aspx/"
 ---

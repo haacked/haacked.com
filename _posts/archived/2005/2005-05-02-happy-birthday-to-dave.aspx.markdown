@@ -1,6 +1,5 @@
 ---
 title: Happy Birthday to Dave
-date: 2005-05-02 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2005/05/01/happy-birthday-to-dave.aspx/"
 ---

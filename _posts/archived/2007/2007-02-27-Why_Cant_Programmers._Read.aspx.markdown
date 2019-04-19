@@ -1,6 +1,5 @@
 ---
 title: Why Can't Programmers... Read?
-date: 2007-02-27 -0800 9:00 AM
 tags: [developers]
 redirect_from: "/archive/2007/02/26/Why_Cant_Programmers._Read.aspx/"
 ---

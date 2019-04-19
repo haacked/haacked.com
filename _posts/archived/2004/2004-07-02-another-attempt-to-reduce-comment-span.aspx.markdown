@@ -1,6 +1,5 @@
 ---
 title: Another Attempt To Reduce Comment Span
-date: 2004-07-02 -0800 9:00 AM
 tags: [spam,web]
 redirect_from: "/archive/2004/07/01/another-attempt-to-reduce-comment-span.aspx/"
 ---

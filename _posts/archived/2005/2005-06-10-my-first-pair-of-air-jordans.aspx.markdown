@@ -1,6 +1,5 @@
 ---
 title: My First Pair Of Air Jordans
-date: 2005-06-10 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2005/06/09/my-first-pair-of-air-jordans.aspx/"
 ---

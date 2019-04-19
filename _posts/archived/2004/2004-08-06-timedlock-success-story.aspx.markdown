@@ -1,6 +1,5 @@
 ---
 title: TimedLock Success Story!
-date: 2004-08-06 -0800 9:00 AM
 tags: [dotnet,concurrency]
 redirect_from: "/archive/2004/08/05/timedlock-success-story.aspx/"
 ---

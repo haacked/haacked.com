@@ -1,6 +1,5 @@
 ---
 title: The Edit And Continue Debate Rages On
-date: 2006-02-05 -0800 9:00 AM
 tags: [visualstudio]
 redirect_from: "/archive/2006/02/04/TheEditAndContinueDebateRagesOn.aspx/"
 ---

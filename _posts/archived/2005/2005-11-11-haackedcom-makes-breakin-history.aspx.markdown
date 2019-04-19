@@ -1,6 +1,5 @@
 ---
 title: Haacked.com Makes Breakin' History
-date: 2005-11-11 -0800 9:00 AM
 tags: [meta]
 redirect_from: "/archive/2005/11/10/haackedcom-makes-breakin-history.aspx/"
 ---

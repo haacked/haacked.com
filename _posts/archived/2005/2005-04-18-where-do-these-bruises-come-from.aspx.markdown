@@ -1,6 +1,5 @@
 ---
 title: Where Do These Bruises Come From?
-date: 2005-04-18 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2005/04/17/where-do-these-bruises-come-from.aspx/"
 ---

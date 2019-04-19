@@ -1,6 +1,5 @@
 ---
 title: Tiny Trick For ViewState Backed Properties
-date: 2006-08-07 -0800 9:00 AM
 tags: [aspnet]
 redirect_from:
 - "/archive/2006/08/06/tinytrickforviewstatebackedproperties.aspx/"

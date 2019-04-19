@@ -1,6 +1,5 @@
 ---
 title: Tsunami Relief
-date: 2005-01-01 -0800 9:00 AM
 tags: [news]
 redirect_from: "/archive/2004/12/31/tsunami-relief.aspx/"
 ---

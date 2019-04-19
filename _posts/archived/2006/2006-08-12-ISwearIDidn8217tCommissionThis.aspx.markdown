@@ -1,6 +1,5 @@
 ---
 title: I Swear I Didn&#8217;t Commission This
-date: 2006-08-12 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2006/08/11/ISwearIDidn8217tCommissionThis.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Trust and NuGet
-date: 2013-02-19 -0800 9:00 AM
 tags: [nuget]
 redirect_from: "/archive/2013/02/18/trust-and-nuget.aspx/"
 ---

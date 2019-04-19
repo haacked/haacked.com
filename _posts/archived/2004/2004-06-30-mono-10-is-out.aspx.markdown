@@ -1,6 +1,5 @@
 ---
 title: Mono 1.0 is out
-date: 2004-06-30 -0800 9:00 AM
 tags: [dotnet,xplat]
 redirect_from: "/archive/2004/06/29/mono-10-is-out.aspx/"
 ---

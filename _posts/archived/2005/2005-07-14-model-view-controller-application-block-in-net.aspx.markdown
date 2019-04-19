@@ -1,6 +1,5 @@
 ---
 title: Model View Controller Application Block in .NET
-date: 2005-07-14 -0800 9:00 AM
 tags: [dotnet]
 redirect_from: "/archive/2005/07/13/model-view-controller-application-block-in-net.aspx/"
 ---

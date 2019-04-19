@@ -1,6 +1,5 @@
 ---
 title: How to Harvest Emails With Google And Protect Yours From Spammers
-date: 2007-04-02 -0800 9:00 AM
 tags: [code,tech]
 redirect_from: "/archive/2007/04/01/how-to-harvest-emails-with-google-and-protect-yours-from.aspx/"
 ---

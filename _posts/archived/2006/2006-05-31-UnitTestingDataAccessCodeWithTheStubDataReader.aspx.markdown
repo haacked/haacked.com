@@ -1,6 +1,5 @@
 ---
 title: Unit Testing Data Access Code With The StubDataReader
-date: 2006-05-31 -0800 9:00 AM
 tags: [tdd]
 redirect_from: "/archive/2006/05/30/UnitTestingDataAccessCodeWithTheStubDataReader.aspx/"
 ---

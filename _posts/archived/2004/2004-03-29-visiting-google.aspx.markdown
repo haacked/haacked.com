@@ -1,6 +1,5 @@
 ---
 title: Visiting Google
-date: 2004-03-29 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2004/03/28/visiting-google.aspx/"
 ---

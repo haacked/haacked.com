@@ -1,6 +1,5 @@
 ---
 title: Atlas Web Application Project Template
-date: 2006-10-19 -0800 9:00 AM
 tags: [visualstudio]
 redirect_from: "/archive/2006/10/18/Atlas_Web_Application_Project_Template.aspx/"
 ---

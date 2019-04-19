@@ -1,6 +1,5 @@
 ---
 title: DataGrid With a Title Row
-date: 2005-04-19 -0800 9:00 AM
 tags: [data]
 redirect_from: "/archive/2005/04/18/DataGridWithATitleRow.aspx/"
 ---

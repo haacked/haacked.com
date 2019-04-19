@@ -1,6 +1,5 @@
 ---
 title: Productive Unit Testing with Specialized Assertion Classes in MbUnit
-date: 2007-05-10 -0800 9:00 AM
 tags: [code,tdd]
 redirect_from: "/archive/2007/05/09/productive-unit-testing-with-specialized-assertion-classes-in-mbunit.aspx/"
 ---

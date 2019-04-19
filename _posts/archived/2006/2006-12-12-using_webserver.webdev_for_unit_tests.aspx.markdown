@@ -1,6 +1,5 @@
 ---
 title: Using WebServer.WebDev For Unit Tests
-date: 2006-12-12 -0800 9:00 AM
 tags: [code,tdd]
 redirect_from: "/archive/2006/12/11/using_webserver.webdev_for_unit_tests.aspx/"
 ---

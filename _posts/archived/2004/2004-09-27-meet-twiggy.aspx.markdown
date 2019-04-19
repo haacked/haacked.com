@@ -1,6 +1,5 @@
 ---
 title: Meet Twiggy
-date: 2004-09-27 -0800 9:00 AM
 tags: [personal,twiggy]
 redirect_from: "/archive/2004/09/26/meet-twiggy.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Start++ Is All That And Then Some
-date: 2007-03-06 -0800 9:00 AM
 tags: [tips,tools]
 redirect_from: "/archive/2007/03/05/start_is_all_that_and_then_some.aspx/"
 ---

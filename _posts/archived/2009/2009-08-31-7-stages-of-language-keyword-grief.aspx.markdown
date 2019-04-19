@@ -1,6 +1,5 @@
 ---
 title: 7 Stages of new language keyword grief
-date: 2009-08-31 -0800 9:00 AM
 tags: [humor,csharp]
 redirect_from: "/archive/2009/08/30/7-stages-of-language-keyword-grief.aspx/"
 ---

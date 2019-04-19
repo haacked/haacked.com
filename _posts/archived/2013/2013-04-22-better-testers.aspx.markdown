@@ -1,6 +1,5 @@
 ---
 title: Better Testers
-date: 2013-04-22 -0800 9:00 AM
 tags: [testing]
 redirect_from: "/archive/2013/04/21/better-testers.aspx/"
 ---

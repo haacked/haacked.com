@@ -1,6 +1,5 @@
 ---
 title: The Sony Spyware Disincentive to Purchase Legal Music
-date: 2005-11-01 -0800 9:00 AM
 tags: [security]
 redirect_from: "/archive/2005/10/31/the-sony-spyware-disincentive-to-purchase-legal-music.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Register Custom Controls In Web.config
-date: 2006-11-14 -0800 9:00 AM
 tags: [aspnet]
 redirect_from: "/archive/2006/11/13/register_custom_controls_in_web.config.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Nice New Skin For Subtext
-date: 2006-06-26 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2006/06/25/NiceNewSkinForSubtext.aspx/"
 ---

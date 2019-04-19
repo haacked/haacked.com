@@ -1,6 +1,5 @@
 ---
 title: Software Externalities
-date: 2009-10-13 -0800 9:00 AM
 tags: [software,patterns,methodologies]
 redirect_from: "/archive/2009/10/12/software-externalities.aspx/"
 ---

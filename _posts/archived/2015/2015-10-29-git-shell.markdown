@@ -1,6 +1,5 @@
 ---
 title: "Set up a smoking Git shell on Windows"
-date: 2015-10-29 -0800 9:00 AM
 tags: [git,github,shell]
 excerpt_image: https://cloud.githubusercontent.com/assets/19977/10811215/dfcde99c-7dc6-11e5-885d-8d990a13c001.png
 ---

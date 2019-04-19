@@ -1,6 +1,5 @@
 ---
 title: Using a Regular Expression to Match HTML
-date: 2004-10-25 -0800 9:00 AM
 tags: [regex,html]
 redirect_from: "/archive/2004/10/24/usingregularexpressionstomatchhtml.aspx/"
 ---

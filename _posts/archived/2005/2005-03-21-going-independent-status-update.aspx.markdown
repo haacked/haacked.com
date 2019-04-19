@@ -1,6 +1,5 @@
 ---
 title: Going Independent Status Update
-date: 2005-03-21 -0800 9:00 AM
 tags: [consulting,work]
 redirect_from: "/archive/2005/03/20/going-independent-status-update.aspx/"
 ---

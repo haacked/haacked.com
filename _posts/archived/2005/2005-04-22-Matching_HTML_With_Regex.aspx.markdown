@@ -1,6 +1,5 @@
 ---
 title: Matching HTML With Regular Expressions Redux
-date: 2005-04-22 -0800 9:00 AM
 tags: [regex,code]
 redirect_from: "/archive/2005/04/21/Matching_HTML_With_Regex.aspx/"
 ---

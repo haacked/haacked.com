@@ -1,6 +1,5 @@
 ---
 title: Beyond The Pitch
-date: 2006-11-21 -0800 9:00 AM
 tags: [soccer,personal]
 redirect_from: "/archive/2006/11/20/Beyond_The_Pitch.aspx/"
 ---

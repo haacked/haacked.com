@@ -1,6 +1,5 @@
 ---
 title: Unit Testing Loves Beta Testing And Vice Versa
-date: 2005-10-18 -0800 9:00 AM
 tags: [testing,methodologies]
 redirect_from: "/archive/2005/10/17/UnitTestingLovesBetaTestingAndViceVersa.aspx/"
 ---

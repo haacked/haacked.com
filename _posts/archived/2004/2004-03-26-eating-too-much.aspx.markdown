@@ -1,6 +1,5 @@
 ---
 title: Eating too much
-date: 2004-03-26 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2004/03/25/eating-too-much.aspx/"
 ---

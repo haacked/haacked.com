@@ -1,6 +1,5 @@
 ---
 title: We're Homeowners!
-date: 2004-04-08 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2004/04/07/we-are-condo-owners.aspx/"
 ---

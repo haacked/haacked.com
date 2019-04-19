@@ -1,8 +1,6 @@
 ---
 title: Speaking at Mix 10
-date: 2009-01-04 -0800 9:00 AM
 tags: [conferences]
-redirect_from: "/archive/2009/01/03/fun-with-named-formats-string-parsing-and-edge-cases.aspx/"
 ---
 
 It’s that time of year again when a young man’s thoughts turn to Las Vegas! Yep, it’s another year and another [Mix Conference](http://web.archive.org/web/20100131040124/http://live.visitmix.com/) (March 15-17, 2010), but this time they’ve changed locations to Mandalay Bay.

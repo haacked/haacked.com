@@ -1,6 +1,5 @@
 ---
 title: CSRF Attacks and Web Forms
-date: 2009-04-02 -0800 9:00 AM
 tags: [aspnet,security]
 redirect_from: "/archive/2009/04/01/csrf-webforms.aspx/"
 ---

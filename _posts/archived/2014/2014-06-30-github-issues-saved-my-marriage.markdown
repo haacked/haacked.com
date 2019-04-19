@@ -1,6 +1,5 @@
 ---
 title: "GitHub Saved My Marriage"
-date: 2014-06-30 -0800 9:00 AM
 tags: [personal,github]
 ---
 

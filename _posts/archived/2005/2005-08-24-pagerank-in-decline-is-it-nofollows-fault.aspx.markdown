@@ -1,6 +1,5 @@
 ---
 title: PageRank in Decline.  Is it Nofollow's Fault?
-date: 2005-08-24 -0800 9:00 AM
 tags: [meta]
 redirect_from: "/archive/2005/08/23/pagerank-in-decline-is-it-nofollows-fault.aspx/"
 ---

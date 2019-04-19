@@ -1,6 +1,5 @@
 ---
 title: Mitigate The Billion Dollar Mistake with Aspects
-date: 2013-01-05 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2013/01/04/mitigate-the-billion-dollar-mistake-with-aspects.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: ALT.NET Seattle Day One
-date: 2009-02-27 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2009/02/26/altnetseattle-day-one.aspx/"
 ---

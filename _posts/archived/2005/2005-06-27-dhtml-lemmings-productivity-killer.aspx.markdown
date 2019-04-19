@@ -1,6 +1,5 @@
 ---
 title: 'DHTML Lemmings: Productivity Killer'
-date: 2005-06-27 -0800 9:00 AM
 tags: [gaming]
 redirect_from: "/archive/2005/06/26/dhtml-lemmings-productivity-killer.aspx/"
 ---

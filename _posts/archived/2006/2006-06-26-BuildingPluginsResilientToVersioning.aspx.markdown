@@ -1,6 +1,5 @@
 ---
 title: Building Plugins Resilient To Versioning
-date: 2006-06-26 -0800 9:00 AM
 tags: [code,versioning,extensibility]
 redirect_from: "/archive/2006/06/25/BuildingPluginsResilientToVersioning.aspx/"
 ---

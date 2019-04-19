@@ -1,6 +1,5 @@
 ---
 title: Hollywood Bowl w/ The Crystal Method, Nortec Collective et all
-date: 2004-07-23 -0800 9:00 AM
 tags: [music,personal]
 redirect_from: "/archive/2004/07/22/hollywood-bowl-w-the-crystal-method-nortec-collective-et-all.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: 'Weekend Update: Drove to San Jose...'
-date: 2004-05-03 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2004/05/02/weekend-update-drove-to-san-jose.aspx/"
 ---

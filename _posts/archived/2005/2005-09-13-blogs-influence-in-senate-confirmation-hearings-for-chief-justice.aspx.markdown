@@ -1,6 +1,5 @@
 ---
 title: Blogs Influence In Senate Confirmation Hearings for Chief Justice
-date: 2005-09-13 -0800 9:00 AM
 tags: [politics,humor]
 redirect_from: "/archive/2005/09/12/blogs-influence-in-senate-confirmation-hearings-for-chief-justice.aspx/"
 ---

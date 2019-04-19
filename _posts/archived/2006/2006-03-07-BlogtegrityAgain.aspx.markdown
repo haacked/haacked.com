@@ -1,6 +1,5 @@
 ---
 title: Blogtegrity
-date: 2006-03-07 -0800 9:00 AM
 tags: [meta,blogging]
 redirect_from:
 - "/archive/2006/03/05/BlogtegrityAgain.aspx/"

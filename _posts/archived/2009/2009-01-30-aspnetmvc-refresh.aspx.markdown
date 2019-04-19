@@ -1,6 +1,5 @@
 ---
 title: ASP.NET MVC RC Refresh
-date: 2009-01-30 -0800 9:00 AM
 tags: [aspnetmvc,aspnet]
 redirect_from: "/archive/2009/01/29/aspnetmvc-refresh.aspx/"
 ---

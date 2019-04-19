@@ -1,6 +1,5 @@
 ---
 title: Tweekend - The Crystal Method
-date: 2004-04-20 -0800 9:00 AM
 tags: [music]
 redirect_from: "/archive/2004/04/19/tweekend--the-crystal-method.aspx/"
 ---

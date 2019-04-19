@@ -1,6 +1,5 @@
 ---
 title: Resharper Can Preview XML Comments as HTML
-date: 2006-07-19 -0800 9:00 AM
 tags: [tools]
 redirect_from: "/archive/2006/07/18/ResharperCanPreviewXMLCommentsAsHTML.aspx/"
 ---

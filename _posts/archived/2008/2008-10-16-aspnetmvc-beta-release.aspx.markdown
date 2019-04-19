@@ -1,6 +1,5 @@
 ---
 title: ASP.NET MVC Beta Released!
-date: 2008-10-16 -0800 9:00 AM
 tags: [aspnet,aspnetmvc]
 redirect_from: "/archive/2008/10/15/aspnetmvc-beta-release.aspx/"
 ---

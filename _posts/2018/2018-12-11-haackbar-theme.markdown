@@ -1,7 +1,6 @@
 ---
 title: "Steal My Blog Design"
 description: "Want a blog design similar to mine? My design is now encapsulated in a theme you can reference remotely."
-date: 2018-12-11 -0800 09:48 AM
 tags: [jekyll,design,meta]
 excerpt_image: https://user-images.githubusercontent.com/19977/49748094-ac6e5180-fc59-11e8-93a5-1faee3d1aa61.png
 ---

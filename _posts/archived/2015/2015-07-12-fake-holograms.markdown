@@ -1,6 +1,5 @@
 ---
 title: "Tupac and HoloLens are not Holograms"
-date: 2015-07-12 -0800 9:00 AM
 tags: [science]
 ---
 

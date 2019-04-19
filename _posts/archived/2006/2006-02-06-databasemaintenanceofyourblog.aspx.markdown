@@ -1,6 +1,5 @@
 ---
 title: Database Maintenance Of Your Blog
-date: 2006-02-06 -0800 9:00 AM
 tags: [sql,data]
 redirect_from: "/archive/2006/02/05/databasemaintenanceofyourblog.aspx/"
 ---

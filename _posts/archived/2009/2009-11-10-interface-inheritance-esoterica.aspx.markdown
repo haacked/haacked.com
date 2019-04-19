@@ -1,6 +1,5 @@
 ---
 title: Interface Inheritance Esoterica
-date: 2009-11-10 -0800 9:00 AM
 tags: [code,dotnet]
 redirect_from: "/archive/2009/11/09/interface-inheritance-esoterica.aspx/"
 ---

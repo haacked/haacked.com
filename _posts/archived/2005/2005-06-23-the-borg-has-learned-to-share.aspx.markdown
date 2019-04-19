@@ -1,6 +1,5 @@
 ---
 title: The Borg Has Learned To Share
-date: 2005-06-23 -0800 9:00 AM
 tags: [microsoft]
 redirect_from: "/archive/2005/06/22/the-borg-has-learned-to-share.aspx/"
 ---

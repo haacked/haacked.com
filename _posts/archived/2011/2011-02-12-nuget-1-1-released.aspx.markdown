@@ -1,6 +1,5 @@
 ---
 title: NuGet 1.1 Released!
-date: 2011-02-12 -0800 9:00 AM
 tags: [nuget,oss,code]
 redirect_from: "/archive/2011/02/11/nuget-1-1-released.aspx/"
 ---

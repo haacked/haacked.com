@@ -1,6 +1,5 @@
 ---
 title: Which Version of Version?
-date: 2006-09-27 -0800 9:00 AM
 tags: [versioning]
 redirect_from: "/archive/2006/09/26/Which_Version_of_Version.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: New NuGet Documentation Site
-date: 2011-05-11 -0800 9:00 AM
 tags: [nuget,oss]
 redirect_from: "/archive/2011/05/10/new-nuget-documentation-site.aspx/"
 ---

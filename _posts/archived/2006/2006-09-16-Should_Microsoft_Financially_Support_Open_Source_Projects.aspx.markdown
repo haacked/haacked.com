@@ -1,6 +1,5 @@
 ---
 title: Should Microsoft Financially Support Open Source Projects?
-date: 2006-09-16 -0800 9:00 AM
 tags: [oss,microsoft]
 redirect_from: "/archive/2006/09/15/Should_Microsoft_Financially_Support_Open_Source_Projects.aspx/"
 ---

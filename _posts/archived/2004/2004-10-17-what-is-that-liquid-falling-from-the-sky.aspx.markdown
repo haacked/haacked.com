@@ -1,6 +1,5 @@
 ---
 title: What Is That Liquid Falling From The Sky?
-date: 2004-10-17 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2004/10/16/what-is-that-liquid-falling-from-the-sky.aspx/"
 ---

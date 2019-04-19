@@ -1,6 +1,5 @@
 ---
 title: Great Review on GameSpot
-date: 2005-09-06 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2005/09/05/great-review-on-gamespot.aspx/"
 ---

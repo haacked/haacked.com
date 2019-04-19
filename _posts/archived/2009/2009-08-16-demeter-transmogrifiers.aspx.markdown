@@ -1,6 +1,5 @@
 ---
 title: Demeter Transmogrifiers To The Rescue
-date: 2009-08-16 -0800 9:00 AM
 tags: [code,patterns]
 redirect_from: "/archive/2009/08/15/demeter-transmogrifiers.aspx/"
 ---

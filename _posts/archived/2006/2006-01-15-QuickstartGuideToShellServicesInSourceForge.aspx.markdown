@@ -1,6 +1,5 @@
 ---
 title: Quickstart Guide To Shell Services In SourceForge
-date: 2006-01-15 -0800 9:00 AM
 tags: [source-control]
 redirect_from: "/archive/2006/01/14/QuickstartGuideToShellServicesInSourceForge.aspx/"
 ---

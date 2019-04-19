@@ -1,6 +1,5 @@
 ---
 title: Fraud Detection and Prevention
-date: 2004-02-20 -0800 9:00 AM
 tags: [security]
 redirect_from: "/archive/2004/02/19/fraud-detection-and-prevention.aspx/"
 ---

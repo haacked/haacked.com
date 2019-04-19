@@ -1,6 +1,5 @@
 ---
 title: Hosting a Simple &ldquo;Read-Only&rdquo; NuGet Package Feed on the Web
-date: 2011-03-31 -0800 9:00 AM
 tags: [nuget,aspnet,code]
 redirect_from: "/archive/2011/03/30/hosting-simple-nuget-package-feed.aspx/"
 ---

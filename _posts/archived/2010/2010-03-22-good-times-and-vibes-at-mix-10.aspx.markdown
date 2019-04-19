@@ -1,6 +1,5 @@
 ---
 title: Good Times and Vibes at Mix 10
-date: 2010-03-22 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2010/03/21/good-times-and-vibes-at-mix-10.aspx/"
 ---

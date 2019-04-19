@@ -1,6 +1,5 @@
 ---
 title: One Year At GitHub
-date: 2012-12-07 -0800 9:00 AM
 tags: [github,culture,work]
 redirect_from: "/archive/2012/12/06/one-year-at-github.aspx/"
 ---

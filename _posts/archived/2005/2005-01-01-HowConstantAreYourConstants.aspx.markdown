@@ -1,6 +1,5 @@
 ---
 title: How Constant Are Your Constants in .NET
-date: 2005-01-01 -0800 9:00 AM
 tags: [dotnet]
 redirect_from: "/archive/2004/12/31/HowConstantAreYourConstants.aspx/"
 ---

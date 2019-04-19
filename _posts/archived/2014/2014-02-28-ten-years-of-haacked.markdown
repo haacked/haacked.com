@@ -1,6 +1,5 @@
 ---
 title: "10 Years of being Haacked"
-date: 2014-02-28 -0800 9:00 AM
 tags: [meta]
 excerpt_image: https://f.cloud.github.com/assets/19977/2296799/92858a98-a0a3-11e3-9665-7e231fec6dfb.png
 ---

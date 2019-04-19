@@ -1,6 +1,5 @@
 ---
 title: Subkismet Demo Website
-date: 2007-06-12 -0800 9:00 AM
 tags: [spam]
 redirect_from: "/archive/2007/06/11/subkismet-demo-website.aspx/"
 ---

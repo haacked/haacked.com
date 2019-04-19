@@ -1,6 +1,5 @@
 ---
 title: TimedLock with Stack Traces Strikes Back
-date: 2004-10-13 -0800 9:00 AM
 tags: [dotnet,code,concurrency]
 redirect_from: "/archive/2004/10/12/TimedLockWithStackTracesStrikesBack.aspx/"
 ---

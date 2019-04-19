@@ -1,6 +1,5 @@
 ---
 title: Development Abstraction Layer
-date: 2006-04-11 -0800 9:00 AM
 tags: [developers,management]
 redirect_from: "/archive/2006/04/10/DevelopmentAbstractionLayer.aspx/"
 ---

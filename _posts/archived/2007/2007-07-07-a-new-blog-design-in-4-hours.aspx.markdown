@@ -1,6 +1,5 @@
 ---
 title: A New Blog Design In 4 Hours
-date: 2007-07-07 -0800 9:00 AM
 tags: [subtext,blogging]
 redirect_from: "/archive/2007/07/06/a-new-blog-design-in-4-hours.aspx/"
 ---

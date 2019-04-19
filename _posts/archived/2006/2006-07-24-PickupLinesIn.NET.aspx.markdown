@@ -1,6 +1,5 @@
 ---
 title: Pickup Lines In .NET
-date: 2006-07-24 -0800 9:00 AM
 tags: [humor,dotnet]
 redirect_from: "/archive/2006/07/23/PickupLinesIn.NET.aspx/"
 ---

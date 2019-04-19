@@ -1,6 +1,5 @@
 ---
 title: Mr Subsonic Joins Microsoft
-date: 2007-10-26 -0800 9:00 AM
 tags: [microsoft,work]
 redirect_from: "/archive/2007/10/25/mr-subsonic-joins-microsoft.aspx/"
 ---

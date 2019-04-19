@@ -1,6 +1,5 @@
 ---
 title: 80s Music Videos
-date: 2006-06-21 -0800 9:00 AM
 tags: [music,history]
 redirect_from: "/archive/2006/06/20/80sMusicVideo.aspx/"
 ---

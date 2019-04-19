@@ -1,6 +1,5 @@
 ---
 title: Wintellect Site Is Down...
-date: 2004-09-22 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2004/09/21/wintellect-site-is-down.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Looking Directly At Me Is Forbidden
-date: 2005-01-20 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2005/01/19/looking-directly-at-me-is-forbidden.aspx/"
 ---

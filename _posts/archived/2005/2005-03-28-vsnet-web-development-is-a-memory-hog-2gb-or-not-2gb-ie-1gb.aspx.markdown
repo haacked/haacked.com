@@ -1,6 +1,5 @@
 ---
 title: VS.NET Web Development Is a Memory Hog. 2GB or Not 2GB (i.e. 1GB)?
-date: 2005-03-28 -0800 9:00 AM
 tags: [visualstudio]
 redirect_from: "/archive/2005/03/27/vsnet-web-development-is-a-memory-hog-2gb-or-not-2gb-ie-1gb.aspx/"
 ---

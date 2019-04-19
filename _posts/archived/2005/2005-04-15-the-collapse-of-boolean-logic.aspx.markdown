@@ -1,6 +1,5 @@
 ---
 title: The Collapse of Boolean Logic
-date: 2005-04-15 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2005/04/14/the-collapse-of-boolean-logic.aspx/"
 ---

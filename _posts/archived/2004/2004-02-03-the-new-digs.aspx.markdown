@@ -1,6 +1,5 @@
 ---
 title: The new digs
-date: 2004-02-03 -0800 9:00 AM
 tags: [meta]
 redirect_from: "/archive/2004/02/02/the-new-digs.aspx/"
 ---

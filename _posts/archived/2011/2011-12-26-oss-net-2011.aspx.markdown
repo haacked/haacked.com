@@ -1,6 +1,5 @@
 ---
 title: OSS and .NET Year In Review 2011
-date: 2011-12-26 -0800 9:00 AM
 tags: [oss,dotnet]
 redirect_from: "/archive/2011/12/25/oss-net-2011.aspx/"
 ---

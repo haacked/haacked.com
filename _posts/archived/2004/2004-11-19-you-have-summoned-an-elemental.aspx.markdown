@@ -1,6 +1,5 @@
 ---
 title: "&quot;You have summoned an elemental&quot;  The good ol' days of gaming..."
-date: 2004-11-19 -0800 9:00 AM
 tags: [gaming,personal]
 redirect_from: "/archive/2004/11/18/you-have-summoned-an-elemental.aspx/"
 ---

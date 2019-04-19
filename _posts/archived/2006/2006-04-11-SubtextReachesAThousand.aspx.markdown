@@ -1,6 +1,5 @@
 ---
 title: Subtext Reaches A Thousand
-date: 2006-04-11 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2006/04/10/SubtextReachesAThousand.aspx/"
 ---

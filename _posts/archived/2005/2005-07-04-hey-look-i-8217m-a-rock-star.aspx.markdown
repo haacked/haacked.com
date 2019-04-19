@@ -1,6 +1,5 @@
 ---
 title: Hey Look! I&#8217;m a Rock Star!
-date: 2005-07-04 -0800 9:00 AM
 tags: [meta]
 redirect_from: "/archive/2005/07/03/hey-look-i-8217m-a-rock-star.aspx/"
 ---

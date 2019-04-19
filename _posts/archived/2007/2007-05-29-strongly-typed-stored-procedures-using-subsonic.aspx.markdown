@@ -1,6 +1,5 @@
 ---
 title: Strongly Typed Stored Procedures Using Subsonic
-date: 2007-05-29 -0800 9:00 AM
 tags: [sql,orm]
 redirect_from: "/archive/2007/05/28/strongly-typed-stored-procedures-using-subsonic.aspx/"
 ---

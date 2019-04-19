@@ -1,6 +1,5 @@
 ---
 title: Fighting Confirmation Bias
-date: 2010-11-05 -0800 9:00 AM
 tags: [science]
 redirect_from: "/archive/2010/11/04/fighting-confirmation-bias.aspx/"
 ---

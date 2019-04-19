@@ -1,6 +1,5 @@
 ---
 title: "Auditing ASP.NET MVC Actions"
-date: 2017-08-10 -0800 9:00 AM
 tags: [aspnetmvc,security]
 excerpt_image: https://user-images.githubusercontent.com/19977/29151000-0fea13e0-7d33-11e7-8f36-bfb57e0fef94.png
 ---

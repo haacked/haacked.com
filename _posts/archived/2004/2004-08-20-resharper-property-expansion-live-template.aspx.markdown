@@ -1,6 +1,5 @@
 ---
 title: ReSharper Property Expansion Live Template
-date: 2004-08-20 -0800 9:00 AM
 redirect_from:
 - "/archive/2004/08/20/954.aspx.html"
 - "/archive/2004/08/19/resharper-property-expansion-live-template.aspx/"

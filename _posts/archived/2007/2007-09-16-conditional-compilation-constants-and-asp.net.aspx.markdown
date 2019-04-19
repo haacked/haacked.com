@@ -1,6 +1,5 @@
 ---
 title: Conditional Compilation Constants and ASP.NET
-date: 2007-09-16 -0800 9:00 AM
 tags: [aspnet]
 redirect_from: "/archive/2007/09/15/conditional-compilation-constants-and-asp.net.aspx/"
 ---

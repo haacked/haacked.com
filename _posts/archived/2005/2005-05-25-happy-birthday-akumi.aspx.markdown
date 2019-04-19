@@ -1,6 +1,5 @@
 ---
 title: Happy Birthday Akumi!
-date: 2005-05-25 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2005/05/24/happy-birthday-akumi.aspx/"
 ---

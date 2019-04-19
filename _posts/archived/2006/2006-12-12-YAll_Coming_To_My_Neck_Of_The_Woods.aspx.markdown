@@ -1,6 +1,5 @@
 ---
 title: Y'All Coming To My Neck Of The Woods?
-date: 2006-12-12 -0800 9:00 AM
 tags: [conferences]
 redirect_from: "/archive/2006/12/11/YAll_Coming_To_My_Neck_Of_The_Woods.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Hot New Presentation Tip
-date: 2008-10-28 -0800 9:00 AM
 tags: [tips,speaking,conferences]
 redirect_from: "/archive/2008/10/27/hot-new-presentation-tip.aspx/"
 ---

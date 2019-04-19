@@ -1,6 +1,5 @@
 ---
 title: 'VIDEO: Funniest DUI ever.'
-date: 2004-10-21 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2004/10/20/video-funniest-dui-ever.aspx/"
 ---

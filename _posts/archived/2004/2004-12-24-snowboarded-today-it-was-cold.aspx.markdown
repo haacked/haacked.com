@@ -1,6 +1,5 @@
 ---
 title: Snowboarded Today. It was cold.
-date: 2004-12-24 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2004/12/23/snowboarded-today-it-was-cold.aspx/"
 ---

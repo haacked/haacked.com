@@ -1,6 +1,5 @@
 ---
 title: A New Blogger In Town
-date: 2005-12-21 -0800 9:00 AM
 tags: [friends]
 redirect_from: "/archive/2005/12/20/a-new-blogger-in-town.aspx/"
 ---

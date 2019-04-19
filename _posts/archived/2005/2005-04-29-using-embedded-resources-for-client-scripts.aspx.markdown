@@ -1,6 +1,5 @@
 ---
 title: Using Embedded Resources for Client Script Blocks in ASP.NET
-date: 2005-04-29 -0800 9:00 AM
 tags: [aspnet]
 redirect_from: "/archive/2005/04/28/using-embedded-resources-for-client-scripts.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: How Subtext Uses CruiseControl.NET
-date: 2006-05-18 -0800 9:00 AM
 tags: [subtext,ci]
 redirect_from: "/archive/2006/05/17/HowSubtextUsesCruiseControl.NET.aspx/"
 ---

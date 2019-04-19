@@ -1,6 +1,5 @@
 ---
 title: Soccer Player Scores World's Fastest Goal
-date: 2004-04-20 -0800 9:00 AM
 tags: [soccer]
 redirect_from: "/archive/2004/04/19/soccer-player-scores-worlds-fastest-goal.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Look, Nobody Really Cares That You're A DJ
-date: 2005-05-09 -0800 9:00 AM
 tags: [humor,music]
 redirect_from: "/archive/2005/05/08/look-nobody-really-cares-that-youre-a-dj.aspx/"
 ---

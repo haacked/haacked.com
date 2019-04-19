@@ -1,6 +1,5 @@
 ---
 title: Second Annual Contribute to Open Source Day
-date: 2007-07-26 -0800 9:00 AM
 tags: [oss]
 redirect_from: "/archive/2007/07/25/second-annual-contribute-to-open-source-day.aspx/"
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Caribbean Developer's Conference"
 description: "A conference worth attending, speaking at, and sponsoring to expand the reach of software to all corners of the planet, even the beautiful sandy ones"
-date: 2018-11-02 -0700 04:30 PM
 tags: [community,conferences,software]
 excerpt_image: https://user-images.githubusercontent.com/19977/47868589-c77bb500-ddc1-11e8-9ec7-532c219b1dde.png
 ---

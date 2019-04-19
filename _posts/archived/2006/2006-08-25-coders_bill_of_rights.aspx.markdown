@@ -1,6 +1,5 @@
 ---
 title: Coder's Bill of Rights
-date: 2006-08-25 -0800 9:00 AM
 tags: [developers]
 redirect_from: "/archive/2006/08/24/coders_bill_of_rights.aspx/"
 ---

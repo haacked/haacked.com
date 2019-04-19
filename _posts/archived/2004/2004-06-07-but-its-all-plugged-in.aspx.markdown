@@ -1,6 +1,5 @@
 ---
 title: But It's All Plugged In
-date: 2004-06-07 -0800 9:00 AM
 tags: [humor,support]
 redirect_from: "/archive/2004/06/06/but-its-all-plugged-in.aspx/"
 ---

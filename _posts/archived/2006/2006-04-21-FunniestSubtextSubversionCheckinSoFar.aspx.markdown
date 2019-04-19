@@ -1,6 +1,5 @@
 ---
 title: Funniest Subtext Subversion Checkin So Far
-date: 2006-04-21 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2006/04/20/FunniestSubtextSubversionCheckinSoFar.aspx/"
 ---

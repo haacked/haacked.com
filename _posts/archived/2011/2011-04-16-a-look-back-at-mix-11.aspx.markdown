@@ -1,6 +1,5 @@
 ---
 title: A Look Back at Mix 11
-date: 2011-04-16 -0800 9:00 AM
 tags: [code,oss,aspnetmvc,aspnet,nuget]
 redirect_from: "/archive/2011/04/15/a-look-back-at-mix-11.aspx/"
 ---

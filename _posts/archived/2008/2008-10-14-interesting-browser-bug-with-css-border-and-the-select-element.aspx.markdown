@@ -1,6 +1,5 @@
 ---
 title: Interesting Browser Bug with CSS border and the Select element
-date: 2008-10-14 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2008/10/13/interesting-browser-bug-with-css-border-and-the-select-element.aspx/"
 ---

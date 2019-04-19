@@ -1,7 +1,6 @@
 ---
 title: Prevent Forms Authentication Login Page Redirect When You Don&rsquo;t Want
   It
-date: 2011-10-04 -0800 9:00 AM
 tags: [aspnet,aspnetmvc,code]
 redirect_from: "/archive/2011/10/03/prevent-forms-authentication-login-page-redirect-when-you-donrsquot-want.aspx/"
 ---

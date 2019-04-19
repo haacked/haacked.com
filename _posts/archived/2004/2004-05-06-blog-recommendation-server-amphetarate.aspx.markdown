@@ -1,6 +1,5 @@
 ---
 title: 'Blog Recommendation Server: AmphetaRate'
-date: 2004-05-06 -0800 9:00 AM
 tags: [rss]
 redirect_from: "/archive/2004/05/05/blog-recommendation-server-amphetarate.aspx/"
 ---

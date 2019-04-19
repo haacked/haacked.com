@@ -1,6 +1,5 @@
 ---
 title: How's This For Tech Support?
-date: 2007-02-28 -0800 9:00 AM
 tags: [support]
 redirect_from: "/archive/2007/02/27/Hows_This_For_Tech_Support.aspx/"
 ---

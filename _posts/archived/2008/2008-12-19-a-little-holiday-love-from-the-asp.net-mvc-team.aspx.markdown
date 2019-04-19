@@ -1,6 +1,5 @@
 ---
 title: A Little Holiday Love From The ASP.NET MVC Team
-date: 2008-12-19 -0800 9:00 AM
 tags: [aspnet,aspnetmvc]
 redirect_from: "/archive/2008/12/18/a-little-holiday-love-from-the-asp.net-mvc-team.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: We're Not Paid To Write Code
-date: 2010-08-26 -0800 9:00 AM
 tags: [code,software,developers,methodologies]
 redirect_from: "/archive/2010/08/25/not-paid-to-write-code.aspx/"
 ---

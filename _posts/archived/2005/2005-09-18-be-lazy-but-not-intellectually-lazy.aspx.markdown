@@ -1,6 +1,5 @@
 ---
 title: Be Lazy, But Not Intellectually Lazy
-date: 2005-09-18 -0800 9:00 AM
 tags: [commentary,excellence]
 redirect_from: "/archive/2005/09/17/be-lazy-but-not-intellectually-lazy.aspx/"
 ---

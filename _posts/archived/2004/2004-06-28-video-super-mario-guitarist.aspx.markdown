@@ -1,6 +1,5 @@
 ---
 title: 'VIDEO: Super Mario Guitarist'
-date: 2004-06-28 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2004/06/27/video-super-mario-guitarist.aspx/"
 ---

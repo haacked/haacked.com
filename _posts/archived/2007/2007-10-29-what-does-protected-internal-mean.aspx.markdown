@@ -1,6 +1,5 @@
 ---
 title: What Does Protected Internal Mean?
-date: 2007-10-29 -0800 9:00 AM
 tags: [dotnet,code]
 redirect_from: "/archive/2007/10/28/what-does-protected-internal-mean.aspx/"
 ---

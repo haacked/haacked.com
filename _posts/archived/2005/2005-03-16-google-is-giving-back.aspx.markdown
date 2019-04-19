@@ -1,6 +1,5 @@
 ---
 title: Google Is Giving Back
-date: 2005-03-16 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2005/03/15/google-is-giving-back.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Basketball Social Engineering Hoax
-date: 2006-03-14 -0800 9:00 AM
 tags: [interesting]
 redirect_from: "/archive/2006/03/13/BasketballSocialEngineeringHoax.aspx/"
 ---

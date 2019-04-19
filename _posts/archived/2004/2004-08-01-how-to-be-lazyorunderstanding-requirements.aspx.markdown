@@ -1,6 +1,5 @@
 ---
 title: How To Be Lazy...or...Understanding Requirements
-date: 2004-08-01 -0800 9:00 AM
 tags: [product-management]
 redirect_from: "/archive/2004/07/31/how-to-be-lazyorunderstanding-requirements.aspx/"
 ---

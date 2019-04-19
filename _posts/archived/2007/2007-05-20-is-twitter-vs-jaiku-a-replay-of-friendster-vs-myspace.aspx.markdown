@@ -1,6 +1,5 @@
 ---
 title: Is Twitter vs Jaiku a Replay of Friendster vs MySpace
-date: 2007-05-20 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2007/05/19/is-twitter-vs-jaiku-a-replay-of-friendster-vs-myspace.aspx/"
 ---

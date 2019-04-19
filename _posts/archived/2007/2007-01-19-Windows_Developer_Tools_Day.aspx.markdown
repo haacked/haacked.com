@@ -1,6 +1,5 @@
 ---
 title: Windows Developer Tools Day
-date: 2007-01-19 -0800 9:00 AM
 tags: [tools,books]
 redirect_from: "/archive/2007/01/18/Windows_Developer_Tools_Day.aspx/"
 ---

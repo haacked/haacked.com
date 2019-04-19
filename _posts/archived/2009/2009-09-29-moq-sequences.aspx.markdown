@@ -1,6 +1,5 @@
 ---
 title: Successive Method Calls With MoQ
-date: 2009-09-29 -0800 9:00 AM
 tags: [code,tdd]
 redirect_from: "/archive/2009/09/28/moq-sequences.aspx/"
 ---

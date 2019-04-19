@@ -1,6 +1,5 @@
 ---
 title: Make Routing Ignore Requests For A File Extension
-date: 2008-07-14 -0800 9:00 AM
 tags: [routing,aspnetmvc]
 redirect_from: "/archive/2008/07/13/make-routing-ignore-requests-for-a-file-extension.aspx/"
 ---

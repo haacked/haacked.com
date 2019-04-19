@@ -1,6 +1,5 @@
 ---
 title: Congratulations Adam!
-date: 2004-06-23 -0800 9:00 AM
 tags: [community]
 redirect_from: "/archive/2004/06/22/congratulations-adam.aspx/"
 ---

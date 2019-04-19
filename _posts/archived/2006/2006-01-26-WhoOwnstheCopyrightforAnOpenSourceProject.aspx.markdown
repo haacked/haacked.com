@@ -1,6 +1,5 @@
 ---
 title: Who Owns the Copyright for An Open Source Project
-date: 2006-01-26 -0800 9:00 AM
 tags: [oss,legal,licensing,copyright]
 redirect_from: "/archive/2006/01/25/WhoOwnstheCopyrightforAnOpenSourceProject.aspx/"
 ---

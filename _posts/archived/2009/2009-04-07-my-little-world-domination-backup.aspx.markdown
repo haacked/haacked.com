@@ -1,6 +1,5 @@
 ---
 title: My Little World Domination Backup
-date: 2009-04-07 -0800 9:00 AM
 tags: [personal,parenting]
 redirect_from: "/archive/2009/04/06/my-little-world-domination-backup.aspx/"
 ---

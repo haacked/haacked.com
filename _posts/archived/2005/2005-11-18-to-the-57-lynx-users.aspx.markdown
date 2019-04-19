@@ -1,6 +1,5 @@
 ---
 title: To The 57 Lynx Users Last Month
-date: 2005-11-18 -0800 9:00 AM
 tags: [meta]
 redirect_from: "/archive/2005/11/17/to-the-57-lynx-users.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Applying Conway&rsquo;s Law
-date: 2013-05-13 -0800 9:00 AM
 tags: [management]
 redirect_from: "/archive/2013/05/12/applying-conways-law.aspx/"
 ---

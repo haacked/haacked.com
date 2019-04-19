@@ -1,6 +1,5 @@
 ---
 title: See Your Name In Pictures!
-date: 2005-07-14 -0800 9:00 AM
 tags: [interesting]
 redirect_from: "/archive/2005/07/13/see-your-name-in-pictures.aspx/"
 ---

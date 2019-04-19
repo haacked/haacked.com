@@ -1,6 +1,5 @@
 ---
 title: An Americon Idol Success Story
-date: 2004-02-05 -0800 9:00 AM
 tags: [news]
 redirect_from: "/archive/2004/02/04/an-americon-idol-success-story.aspx/"
 ---

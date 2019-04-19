@@ -1,6 +1,5 @@
 ---
 title: Understanding How Much POP3 Is Not Scalable
-date: 2004-09-14 -0800 9:00 AM
 tags: [tech]
 redirect_from: "/archive/2004/09/13/understanding-how-much-pop3-is-not-scalable.aspx/"
 ---

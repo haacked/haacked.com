@@ -1,6 +1,5 @@
 ---
 title: e is a magic number
-date: 2004-04-30 -0800 9:00 AM
 tags: [math]
 redirect_from: "/archive/2004/04/29/e-is-a-magic-number.aspx/"
 ---

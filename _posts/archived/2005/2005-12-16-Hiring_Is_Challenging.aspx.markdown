@@ -1,6 +1,5 @@
 ---
 title: Hiring Is Challenging
-date: 2005-12-16 -0800 9:00 AM
 tags: [hiring]
 redirect_from: "/archive/2005/12/15/Hiring_Is_Challenging.aspx/"
 ---

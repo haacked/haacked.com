@@ -1,6 +1,5 @@
 ---
 title: Delegating Action Result
-date: 2008-05-11 -0800 9:00 AM
 tags: [aspnetmvc]
 redirect_from: "/archive/2008/05/10/delegating-action-result.aspx/"
 ---

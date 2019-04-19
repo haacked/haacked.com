@@ -1,6 +1,5 @@
 ---
 title: Simple Usability
-date: 2009-03-24 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2009/03/23/simple-usability.aspx/"
 ---

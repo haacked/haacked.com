@@ -1,6 +1,5 @@
 ---
 title: Who Is The Master?
-date: 2005-12-07 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2005/12/06/who-is-the-master.aspx/"
 ---

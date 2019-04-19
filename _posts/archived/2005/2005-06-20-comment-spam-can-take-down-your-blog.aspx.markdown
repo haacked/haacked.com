@@ -1,6 +1,5 @@
 ---
 title: Comment Spam Can Take Down Your Blog
-date: 2005-06-20 -0800 9:00 AM
 tags: [blogging,subtext]
 redirect_from: "/archive/2005/06/19/comment-spam-can-take-down-your-blog.aspx/"
 ---

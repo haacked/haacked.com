@@ -1,6 +1,5 @@
 ---
 title: The Excorcist in 30 Seconds.
-date: 2004-03-06 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2004/03/05/the-excorcist-in-30-seconds.aspx/"
 ---

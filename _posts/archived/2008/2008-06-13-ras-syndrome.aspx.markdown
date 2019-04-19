@@ -1,6 +1,5 @@
 ---
 title: RAS Syndrome
-date: 2008-06-13 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2008/06/12/ras-syndrome.aspx/"
 ---

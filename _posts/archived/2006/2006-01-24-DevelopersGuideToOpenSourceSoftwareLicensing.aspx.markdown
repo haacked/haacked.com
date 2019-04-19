@@ -1,6 +1,5 @@
 ---
 title: Developers Guide To Open Source Software Licensing
-date: 2006-01-24 -0800 9:00 AM
 tags: [oss,legal,licensing]
 redirect_from: "/archive/2006/01/23/DevelopersGuideToOpenSourceSoftwareLicensing.aspx/"
 ---

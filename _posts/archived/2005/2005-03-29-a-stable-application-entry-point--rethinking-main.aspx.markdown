@@ -1,6 +1,5 @@
 ---
 title: A Stable Application Entry Point - Rethinking &quot;Main()&quot;.
-date: 2005-03-29 -0800 9:00 AM
 tags: [dotnet]
 redirect_from: "/archive/2005/03/28/a-stable-application-entry-point--rethinking-main.aspx/"
 ---

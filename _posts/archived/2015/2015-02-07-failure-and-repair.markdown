@@ -1,6 +1,5 @@
 ---
 title: "The Inevitability of Failure and Importance of Repair"
-date: 2015-02-07 -0800 9:00 AM
 tags: [management]
 ---
 

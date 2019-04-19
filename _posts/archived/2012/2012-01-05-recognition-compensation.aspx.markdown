@@ -1,6 +1,5 @@
 ---
 title: Recognition Compensation
-date: 2012-01-05 -0800 9:00 AM
 tags: [compensation,management,oss,community,motivation]
 redirect_from: "/archive/2012/01/04/recognition-compensation.aspx/"
 ---

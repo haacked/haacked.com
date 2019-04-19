@@ -1,6 +1,5 @@
 ---
 title: Seasons Greetings To Y'all
-date: 2005-12-24 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2005/12/23/seasons-greetings-to-yall.aspx/"
 ---

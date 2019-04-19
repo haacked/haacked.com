@@ -1,6 +1,5 @@
 ---
 title: Anatomy of a &quot;Small&quot; Software Design Change
-date: 2008-04-24 -0800 9:00 AM
 tags: [aspnetmvc,design]
 redirect_from: "/archive/2008/04/23/anatomy-of-a-design-change.aspx/"
 ---

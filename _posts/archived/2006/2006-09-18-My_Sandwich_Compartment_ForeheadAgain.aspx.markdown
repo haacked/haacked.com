@@ -1,6 +1,5 @@
 ---
 title: My Sandwich Compartment Forehead
-date: 2006-09-18 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2006/09/17/My_Sandwich_Compartment_ForeheadAgain.aspx/"
 ---

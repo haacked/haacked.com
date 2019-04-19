@@ -1,6 +1,5 @@
 ---
 title: ".NET Developer Charity Auction"
-date: 2006-12-18 -0800 9:00 AM
 tags: [dotnet]
 redirect_from: "/archive/2006/12/17/.NET_Developer_Charity_Auction.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Class photo fun
-date: 2004-10-08 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2004/10/07/class-photo-fun.aspx/"
 ---

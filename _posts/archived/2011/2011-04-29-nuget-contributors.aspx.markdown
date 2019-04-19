@@ -1,6 +1,5 @@
 ---
 title: The Secret to NuGet's Success. You!
-date: 2011-04-29 -0800 9:00 AM
 tags: [nuget]
 redirect_from: "/archive/2011/04/28/nuget-contributors.aspx/"
 ---

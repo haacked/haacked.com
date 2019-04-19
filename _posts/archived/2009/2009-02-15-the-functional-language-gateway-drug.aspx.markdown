@@ -1,6 +1,5 @@
 ---
 title: The Functional Language Gateway Drug
-date: 2009-02-15 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2009/02/14/the-functional-language-gateway-drug.aspx/"
 ---

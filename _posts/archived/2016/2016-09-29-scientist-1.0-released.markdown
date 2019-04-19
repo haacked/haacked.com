@@ -1,6 +1,5 @@
 ---
 title: "Scientist.NET 1.0 released!"
-date: 2016-09-29 -0800 9:00 AM
 tags: [github,csharp,dotnet,scientist]
 ---
 

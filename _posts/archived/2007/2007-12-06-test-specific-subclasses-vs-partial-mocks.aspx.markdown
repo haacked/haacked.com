@@ -1,6 +1,5 @@
 ---
 title: Test Specific Subclasses vs Partial Mocks
-date: 2007-12-06 -0800 9:00 AM
 tags: [code,tdd]
 redirect_from: "/archive/2007/12/05/test-specific-subclasses-vs-partial-mocks.aspx/"
 ---

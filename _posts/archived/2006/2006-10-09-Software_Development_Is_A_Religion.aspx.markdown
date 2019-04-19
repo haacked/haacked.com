@@ -1,6 +1,5 @@
 ---
 title: Software Development Is A Religion
-date: 2006-10-09 -0800 9:00 AM
 tags: [software,methodologies]
 redirect_from: "/archive/2006/10/08/Software_Development_Is_A_Religion.aspx/"
 ---

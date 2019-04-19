@@ -1,6 +1,5 @@
 ---
 title: I Ate Blowfish (Fugu) and Lived To Blog About It
-date: 2005-01-09 -0800 9:00 AM
 tags: [personal,japan,tokyo]
 redirect_from: "/archive/2005/01/08/i-ate-blowfish.aspx/"
 ---

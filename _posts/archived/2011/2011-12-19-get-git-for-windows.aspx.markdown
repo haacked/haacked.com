@@ -1,7 +1,6 @@
 ---
 title: Configure Git in PowerShell So You Don&rsquo;t Have to Enter Your Password
   All the Damn Time
-date: 2011-12-19 -0800 9:00 AM
 tags: [git,code]
 redirect_from: "/archive/2011/12/18/get-git-for-windows.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Open Source Recruiting Is Fundamental
-date: 2006-07-30 -0800 9:00 AM
 tags: [oss]
 redirect_from: "/archive/2006/07/29/OpenSourceRecruitingIsFundamental.aspx/"
 ---

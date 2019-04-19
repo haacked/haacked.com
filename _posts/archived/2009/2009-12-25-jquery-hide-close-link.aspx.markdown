@@ -1,6 +1,5 @@
 ---
 title: jQuery Hide/Close Link
-date: 2009-12-25 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2009/12/24/jquery-hide-close-link.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Should Corporations Act Purely on Self Interest?
-date: 2005-04-24 -0800 9:00 AM
 tags: [culture,leadership]
 redirect_from: "/archive/2005/04/23/should-corporations-act-purely-on-self-interest.aspx/"
 ---

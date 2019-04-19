@@ -1,6 +1,5 @@
 ---
 title: Misspelling Might Be Your Friend
-date: 2005-04-13 -0800 9:00 AM
 tags: [blogging]
 redirect_from: "/archive/2005/04/12/misspelling-might-be-your-friend.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Subtext Extensibility Notes
-date: 2007-06-24 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2007/06/23/subtext-extensibility-notes.aspx/"
 ---

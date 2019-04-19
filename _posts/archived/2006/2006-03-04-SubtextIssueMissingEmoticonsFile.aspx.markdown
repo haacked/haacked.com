@@ -1,6 +1,5 @@
 ---
 title: 'Subtext Issue: Missing Emoticons File'
-date: 2006-03-04 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2006/03/03/SubtextIssueMissingEmoticonsFile.aspx/"
 ---

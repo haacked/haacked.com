@@ -1,6 +1,5 @@
 ---
 title: Event Handlers, Circular References, and Alleged Memory Leaks
-date: 2004-07-07 -0800 9:00 AM
 tags: [dotnet]
 redirect_from: "/archive/2004/07/06/event-handlers-circular-references-and-alleged-memory-leaks.aspx/"
 ---

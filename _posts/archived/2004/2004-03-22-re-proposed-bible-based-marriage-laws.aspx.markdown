@@ -1,6 +1,5 @@
 ---
 title: 'RE: Proposed Bible-based marriage laws'
-date: 2004-03-22 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2004/03/21/re-proposed-bible-based-marriage-laws.aspx/"
 ---

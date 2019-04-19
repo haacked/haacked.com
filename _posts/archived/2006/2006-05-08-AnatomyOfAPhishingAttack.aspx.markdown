@@ -1,6 +1,5 @@
 ---
 title: Anatomy Of A Phishing Attack
-date: 2006-05-08 -0800 9:00 AM
 tags: [security]
 redirect_from: "/archive/2006/05/07/AnatomyOfAPhishingAttack.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: So You Want To Run A Business - Payroll Tax Breakdown
-date: 2006-05-10 -0800 9:00 AM
 tags: [consulting]
 redirect_from: "/archive/2006/05/09/SoYouWantToRunABusinessPayrollTaxBreakdown.aspx/"
 ---

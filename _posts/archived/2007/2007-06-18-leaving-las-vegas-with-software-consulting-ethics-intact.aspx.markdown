@@ -1,6 +1,5 @@
 ---
 title: Leaving Las Vegas With Software Consulting Ethics Intact
-date: 2007-06-18 -0800 9:00 AM
 tags: [philosophy,personal,consulting,travel]
 redirect_from: "/archive/2007/06/17/leaving-las-vegas-with-software-consulting-ethics-intact.aspx/"
 ---

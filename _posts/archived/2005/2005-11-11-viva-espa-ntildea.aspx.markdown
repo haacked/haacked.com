@@ -1,6 +1,5 @@
 ---
 title: Viva Espa&ntilde;a
-date: 2005-11-11 -0800 9:00 AM
 tags: [personal]
 redirect_from: "/archive/2005/11/10/viva-espa-ntildea.aspx/"
 ---

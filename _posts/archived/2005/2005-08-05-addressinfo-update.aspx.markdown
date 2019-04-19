@@ -1,6 +1,5 @@
 ---
 title: AddressInfo Update
-date: 2005-08-05 -0800 9:00 AM
 tags: [code]
 redirect_from: "/archive/2005/08/04/addressinfo-update.aspx/"
 ---

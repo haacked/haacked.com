@@ -1,6 +1,5 @@
 ---
 title: XFN Link Tool For Windows Live Writer
-date: 2007-02-08 -0800 9:00 AM
 tags: [tools]
 redirect_from: "/archive/2007/02/07/XFN_Link_Tool_For_Windows_Live_Writer.aspx/"
 ---

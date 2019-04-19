@@ -1,6 +1,5 @@
 ---
 title: Reflections On The Release
-date: 2006-03-02 -0800 9:00 AM
 tags: [subtext]
 redirect_from: "/archive/2006/03/01/ReflectionsOnTheRelease.aspx/"
 ---

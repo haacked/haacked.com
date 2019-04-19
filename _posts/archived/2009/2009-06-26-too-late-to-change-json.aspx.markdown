@@ -1,6 +1,5 @@
 ---
 title: Is It Too Late To Change JSON?
-date: 2009-06-26 -0800 9:00 AM
 tags: [json,security]
 redirect_from: "/archive/2009/06/25/too-late-to-change-json.aspx/"
 ---

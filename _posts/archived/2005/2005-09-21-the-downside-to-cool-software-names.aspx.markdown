@@ -1,6 +1,5 @@
 ---
 title: The Downside to Cool Software Names
-date: 2005-09-21 -0800 9:00 AM
 tags: [tech,humor]
 redirect_from: "/archive/2005/09/20/the-downside-to-cool-software-names.aspx/"
 ---

@@ -1,6 +1,5 @@
 ---
 title: Reviews of Fahrenheit 9/11
-date: 2004-06-21 -0800 9:00 AM
 tags: [politics,movies]
 redirect_from: "/archive/2004/06/20/reviews-of-fahrenheit-911.aspx/"
 ---

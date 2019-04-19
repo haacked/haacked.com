@@ -1,6 +1,5 @@
 ---
 title: RSS Bandit Synchronization Using GMail Drive Shell Extension
-date: 2004-10-27 -0800 9:00 AM
 tags: [rss]
 redirect_from: "/archive/2004/10/26/rss-bandit-synchronization-using-gmail-drive-shell-extension.aspx/"
 ---

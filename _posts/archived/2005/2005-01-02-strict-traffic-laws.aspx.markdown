@@ -1,6 +1,5 @@
 ---
 title: Strict Traffic Laws
-date: 2005-01-02 -0800 9:00 AM
 tags: [humor]
 redirect_from: "/archive/2005/01/01/strict-traffic-laws.aspx/"
 ---

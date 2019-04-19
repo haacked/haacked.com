@@ -1,6 +1,5 @@
 ---
 title: Why Are Developers So Fat?
-date: 2007-03-21 -0800 9:00 AM
 tags: [developers,conferences]
 redirect_from: "/archive/2007/03/20/why-are-developers-so-fat.aspx/"
 ---
