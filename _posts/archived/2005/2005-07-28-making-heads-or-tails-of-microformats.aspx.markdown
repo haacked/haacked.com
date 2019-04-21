@@ -1,7 +1,9 @@
 ---
 title: Making Heads or Tails of Microformats
 tags: [microformats]
-redirect_from: "/archive/2005/07/27/making-heads-or-tails-of-microformats.aspx/"
+redirect_from:
+  - "/archive/2005/07/27/making-heads-or-tails-of-microformats.aspx/"
+  - "/archive/2005/07/28/9085.aspx/"
 ---
 
 I had an email discussion with [Dimitri](http://glazkov.com/blog/) about

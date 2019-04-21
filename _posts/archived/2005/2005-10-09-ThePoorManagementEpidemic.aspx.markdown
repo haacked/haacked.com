@@ -1,7 +1,9 @@
 ---
 title: The Poor Management Epidemic
 tags: [management]
-redirect_from: "/archive/2005/10/08/ThePoorManagementEpidemic.aspx/"
+redirect_from:
+  - "/archive/2005/10/08/ThePoorManagementEpidemic.aspx/"
+  - "/archive/2005/10/10/10657.aspx/"
 ---
 
 I’ve noticed a bit of talk lately about poor management such as [this

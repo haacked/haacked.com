@@ -1,7 +1,9 @@
 ---
 title: Meet Twiggy
 tags: [personal,twiggy]
-redirect_from: "/archive/2004/09/26/meet-twiggy.aspx/"
+redirect_from:
+  - "/archive/2004/09/26/meet-twiggy.aspx/"
+  - "/archive/2004/09/27/1278.aspx/"
 ---
 
 Twiggy is our new Italian Greyhound (not to be confused with a normal

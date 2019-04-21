@@ -1,7 +1,9 @@
 ---
 title: Reviews of Fahrenheit 9/11
 tags: [politics,movies]
-redirect_from: "/archive/2004/06/20/reviews-of-fahrenheit-911.aspx/"
+redirect_from:
+  - "/archive/2004/06/20/reviews-of-fahrenheit-911.aspx/"
+  - "/archive/2004/06/21/656.aspx/"
 ---
 
 ![Michael Moore](/images/MichaelMoore.jpg)I found this [scathing

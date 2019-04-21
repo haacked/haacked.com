@@ -5,7 +5,7 @@ redirect_from: "/archive/2004/07/22/tranforming-xml-over-http-to-soap-with-a-soa
 ---
 
 ![Soap](/images/soap.jpg) In my last
-[post](https://haacked.com/archive/2004/07/23/842.aspx) I discussed a
+[post](https://haacked.com/archive/2004/07/23/why-should-i-care-about-the-wire-format-in-soap.aspx/) I discussed a
 client who requires that we build a web service using a proprietary XML
 format (lets call it MyXML) so his mobile devices can interact with our
 platform.
@@ -135,4 +135,3 @@ avoid this type of duplication of efforts, but oh well.
 UPDATE: As my friend Ben points out, I can modify the HTTP headers with
 an ISAPI filter, but that's a lot more work and I prefer to work within
 the ASP.NET model and not have to deal with ISAPI.
-

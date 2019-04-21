@@ -1,7 +1,9 @@
 ---
 title: Using RFC3229 with Feeds Does Not Validate
 tags: [subtext]
-redirect_from: "/archive/2005/06/29/using-rfc3229-with-feeds-does-not-validate.aspx/"
+redirect_from: 
+  - "/archive/2005/06/29/using-rfc3229-with-feeds-does-not-validate.aspx/"
+  - "/archive/2005/06/30/7415.aspx/"
 ---
 
 In an effort to cut down on the bandwidth used by RSS feeds,

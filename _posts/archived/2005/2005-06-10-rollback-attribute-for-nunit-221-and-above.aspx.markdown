@@ -1,7 +1,9 @@
 ---
 title: Rollback Attribute for NUnit 2.2.1 and Above
 tags: [tools]
-redirect_from: "/archive/2005/06/09/rollback-attribute-for-nunit-221-and-above.aspx/"
+redirect_from:
+  - "/archive/2005/06/09/rollback-attribute-for-nunit-221-and-above.aspx/"
+  - "/archive/2005/06/10/4580.aspx/"
 ---
 
 Oh man, I have been head deep into “real” work lately, which explains

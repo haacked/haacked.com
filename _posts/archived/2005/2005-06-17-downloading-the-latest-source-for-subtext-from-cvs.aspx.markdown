@@ -1,7 +1,9 @@
 ---
 title: Downloading the Latest Source for Subtext from CVS
 tags: [subtext]
-redirect_from: "/archive/2005/06/16/downloading-the-latest-source-for-subtext-from-cvs.aspx/"
+redirect_from:
+  - "/archive/2005/06/16/downloading-the-latest-source-for-subtext-from-cvs.aspx/"
+  - "/archive/2005/06/18/5155.aspx/"
 ---
 
 UPDATE: Sorry, but my previous instructions contained some errors. I’ll

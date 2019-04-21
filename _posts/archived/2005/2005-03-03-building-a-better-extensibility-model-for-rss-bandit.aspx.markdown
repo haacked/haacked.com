@@ -1,7 +1,9 @@
 ---
 title: Building a Better Extensibility Model For RSS Bandit
 tags: [rss]
-redirect_from: "/archive/2005/03/02/building-a-better-extensibility-model-for-rss-bandit.aspx/"
+redirect_from:
+  - "/archive/2005/03/02/building-a-better-extensibility-model-for-rss-bandit.aspx/"
+  - "/archive/2005/03/04/2259.aspx/"
 ---
 
 Currently, the only plug-in model supported by RSS Bandit is the

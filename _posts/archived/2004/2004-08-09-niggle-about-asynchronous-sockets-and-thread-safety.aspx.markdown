@@ -1,21 +1,16 @@
 ---
 title: A Niggle or Two About Asynchronous Sockets And Thread Safety
 tags: [code,concurrency]
-redirect_from: "/archive/2004/08/08/niggle-about-asynchronous-sockets-and-thread-safety.aspx/"
+redirect_from:
+  - "/archive/2004/08/08/niggle-about-asynchronous-sockets-and-thread-safety.aspx/"
+  - "/archive/2004/08/10/895.aspx/"
 ---
 
 [Ian Griffiths](http://www.interact-sw.co.uk/iangblog/) finds a
 [niggle](http://dictionary.reference.com/search?q=niggle) about my
-[post](https://haacked.com/archive/2004/08/06/882.aspx) on sockets.
+[post](https://haacked.com/archive/2004/08/06/why-block-at-all.aspx/) on sockets.
 
-This may surprise a few friends of mine who regard me as a "human
-dictionary", but I had to look up the word "niggle". Apparently only the
-"human" part of the appellation applies. I've apparently fooled them by
-reading a lot of sci-fi fantasy and choosing to learn and use
-"impressive" words such as Bacchanalian in everyday conversation ("I
-wrote this code in a drunken stupor from a bacchanalian display of
-excessive beer drinking."). It's really all smoke and mirrors. But I
-digress...
+This may surprise a few friends of mine who regard me as a "human dictionary", but I had to look up the word "niggle". Apparently only the "human" part of the appellation applies. I've apparently fooled them by reading a lot of sci-fi fantasy and choosing to learn and use "impressive" words such as Bacchanalian in everyday conversation ("I wrote this code in a drunken stupor from a bacchanalian display of excessive beer drinking."). It's really all smoke and mirrors. But I digress...
 
 His comment is quite insightful and well worth repeating here in full.
 
@@ -47,35 +42,12 @@ His comment is quite insightful and well worth repeating here in full.
 > as your system can handle them, and no faster - this avoids swamping
 > the scheduler under high load.)
 
-I have to say, Ian's depth of knowledge on such topics (or nearly any
-geek topic) never ceases to impress me. Fortunately for my app, the
-client socket only receives data every three seconds and never sends
-data back to the remotely connected socket (how boring, I know). In any
-case, I will double check that I am synchronizing access to the socket
-just in case. Perhaps I'll use the TimedLock to do that. ;)
+I have to say, Ian's depth of knowledge on such topics (or nearly any geek topic) never ceases to impress me. Fortunately for my app, the client socket only receives data every three seconds and never sends data back to the remotely connected socket (how boring, I know). In any case, I will double check that I am synchronizing access to the socket just in case. Perhaps I'll use the `TimedLock` to do that. ;)
 
-While we're in the business of finding niggles (Ian, you've hooked me on
-this word. For some strange reason, I can't stop saying it) I should
-also point out that IO Completion ports awaken threads from the
-ThreadPool in order to perform an asynchronouse action. The entire
-asynchronous invocation model of .NET is built on the ThreadPool.
-Remember that the next time you call a method that starts with "Begin"
-such as "BeginInvoke". Chances are, it's using a thread from the
-ThreadPool (especially if its a framework method. I'll make no
-guarantees for methods written by your coworkers.)"
+While we're in the business of finding niggles (Ian, you've hooked me on this word. For some strange reason, I can't stop saying it) I should also point out that IO Completion ports awaken threads from the ThreadPool in order to perform an asynchronouse action. The entire asynchronous invocation model of .NET is built on the ThreadPool. Remember that the next time you call a method that starts with "Begin"
+such as "BeginInvoke". Chances are, it's using a thread from the ThreadPool (especially if its a framework method. I'll make no guarantees for methods written by your coworkers.)"
 
-By default, the max threadcount for the ThreadPool is 25 per processor.
-In my application, the remote socket sends short packets of data on a
-regular interval, so the threads that handle the received data are very
-short lived. Sounds like an ideal use of the ThreadPool doesn't it?
-However, if I were expecting a huge number of simultaneous connections,
-I might look into changing the machine.config file to support more than
-25 ThreadPool threads per processor. Before making any such change,
+By default, the max threadcount for the ThreadPool is 25 per processor. In my application, the remote socket sends short packets of data on a regular interval, so the threads that handle the received data are very short lived. Sounds like an ideal use of the ThreadPool doesn't it? However, if I were expecting a huge number of simultaneous connections, I might look into changing the machine.config file to support more than 25 ThreadPool threads per processor. Before making any such change,
 measure measure measure.
 
-If you have a situation where the operations on the data are long lived,
-you might consider spawning a full-fledged thread to handle the remote
-client communications and operations. Long running operations aren't
-necessarily the best place to use a thread from the .NET built in
-ThreadPool.
-
+If you have a situation where the operations on the data are long lived, you might consider spawning a full-fledged thread to handle the remote client communications and operations. Long running operations aren't necessarily the best place to use a thread from the .NET built in ThreadPool.

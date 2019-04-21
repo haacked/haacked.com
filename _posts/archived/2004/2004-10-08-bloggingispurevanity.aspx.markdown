@@ -1,7 +1,9 @@
 ---
 title: 'Blogging Is Pure Vanity: Profile Of A Vain Blogger'
 tags: [blogging,humor]
-redirect_from: "/archive/2004/10/07/bloggingispurevanity.aspx/"
+redirect_from:
+  - "/archive/2004/10/07/bloggingispurevanity.aspx/"
+  - "/archive/2004/10/08/1322.aspx/"
 ---
 
 PubSub is no longer around, so those links will be broken. I’ve written

@@ -1,7 +1,9 @@
 ---
 title: What Is It About Joel?
 tags: [commentary,methodologies]
-redirect_from: "/archive/2005/08/16/what-is-it-about-joel.aspx/"
+redirect_from:
+  - "/archive/2005/08/16/what-is-it-about-joel.aspx/"
+  - "/archive/2005/08/18/9543.aspx/"
 ---
 
 After reading over my [last blog post](https://haacked.com/archive/2005/08/17/misunderstanding-agile-design.aspx/), I wondered why my posts take such a virulent tone towards Joel Spolsky when I think he’s wrong. Looking around the web, I noticed I am not [the only one](http://www.lazycoder.com/weblog/index.php/archives/2005/08/18/why-are-people-still-listening-to-joel/).

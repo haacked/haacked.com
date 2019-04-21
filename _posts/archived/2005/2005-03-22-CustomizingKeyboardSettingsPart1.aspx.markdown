@@ -9,7 +9,7 @@ Bandit supports customizing keyboard shortcuts via an XML configuration
 file. The reason you might not know this is because it is an
 undocumented feature. Since I implemented adding customizability to
 keyboard shortcuts, I thought I might as well document how it works as
-of [version 1.3.02.26](https://haacked.com/archive/2005/03/20/2411.aspx).
+of [version 1.3.02.26](https://haacked.com/archive/2005/03/20/rssbandit-13026-released.aspx/).
 
 First, I'm going to delve a bit into how Keyboard shortcuts are
 implemented in RSS Bandit before I highlight a tool I wrote for

@@ -11,12 +11,10 @@ There’s an [interesting discussion in the comments](http://www.codinghorror.co
 
 And I definitely agree assuming a **couple constraints**...
 
--   You’re on a home computer or a system with a small number of users.
--   You enforce pass-phrases rather than passwords.
+- You’re on a home computer or a system with a small number of users.
+- You enforce pass-phrases rather than passwords.
 
-A while ago [I referenced](https://haacked.com/archive/2004/12/07/1711.aspx) an [article
-on the insecurity of passwords as compared to
-pass-phrases](http://weblogs.asp.net/robert_hensing/archive/2004/07/28/199610.aspx).
+A while ago [I referenced](https://haacked.com/archive/2004/12/07/why-you-shouldnt-be-using-a-password-of-any-kind.aspx/) an [article on the insecurity of passwords as compared to pass-phrases](http://weblogs.asp.net/robert_hensing/archive/2004/07/28/199610.aspx).
 The article discusses how dictionary attacks and their ilk (brute-force,
 pre-computation, etc...) are becoming more and more successful at
 breaking into systems because people generally choose poor passwords.
@@ -81,4 +79,3 @@ a number and a punctuation mark. Another option is to also require that
 the pass-phrase *contain* the username. So instead of the earlier
 pass-phrase I mentioned, my pass-phrase might be “Who let the dogs out
 Mr. Haacked?”
-

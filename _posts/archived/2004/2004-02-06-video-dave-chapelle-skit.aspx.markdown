@@ -1,7 +1,9 @@
 ---
 title: 'Video: The Dave Chappelle Show - &quot;The Niggar Family&quot;'
 tags: [humor]
-redirect_from: "/archive/2004/02/05/video-dave-chapelle-skit.aspx/"
+redirect_from:
+  - "/archive/2004/02/05/video-dave-chapelle-skit.aspx/"
+  - "/archive/2004/02/06/169.aspx"
 ---
 
 [This is just too

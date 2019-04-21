@@ -1,7 +1,9 @@
 ---
 title: Girl Power! (And the women of XML)
 tags: [diversity]
-redirect_from: "/archive/2004/08/16/girl-power-and-the-women-of-xml.aspx/"
+redirect_from:
+  - "/archive/2004/08/16/girl-power-and-the-women-of-xml.aspx/"
+  - "/archive/2004/08/18/935.aspx/"
 ---
 
 ![Kill Bill Vol2](/images/killbillvol2.jpg)

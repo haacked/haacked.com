@@ -1,7 +1,9 @@
 ---
 title: Why You Shouldn't Be Using a Password Of Any Kind
 tags: [security]
-redirect_from: "/archive/2004/12/06/why-you-shouldnt-be-using-a-password-of-any-kind.aspx/"
+redirect_from:
+  - "/archive/2004/12/06/why-you-shouldnt-be-using-a-password-of-any-kind.aspx/"
+  - "/archive/2004/12/07/1711.aspx/"
 ---
 
 [Robert Hensing](http://weblogs.asp.net/robert_hensing/), a senior

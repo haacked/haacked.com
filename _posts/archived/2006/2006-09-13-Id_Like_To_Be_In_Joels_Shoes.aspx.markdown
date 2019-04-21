@@ -29,7 +29,7 @@ If I were to blog something stupid (and I’m not saying he did, but just for th
 The other reaction Joel commonly gets is the *I don’t know why y’all are reading him, I gave that shit up a long time ago* reaction. I also don’t understand this reaction. For the most part, I think Joel’s signal to noise ratio is very high, and he’s written some really top notch articles on his blog. Just because he says a few things from time to
 time that you disagree with doesn’t mean you should throw the baby out with the bath water. Sure he comes across as a bit arrogant, but he’s that good.
 
-The last question I often see is *Why is everyone paying Joel so much attention?* I addressed this very question before in my post, [What Is It About Joel?](https://haacked.com/archive/2005/08/18/9543.aspx).
+The last question I often see is *Why is everyone paying Joel so much attention?* I addressed this very question before in my post, [What Is It About Joel?](https://haacked.com/archive/2005/08/17/what-is-it-about-joel.aspx/).
 
 ![Rock Star](http://www.chicagoist.com/attachments/chicagoist_julene/2006_03_rockstar.jpg)
 

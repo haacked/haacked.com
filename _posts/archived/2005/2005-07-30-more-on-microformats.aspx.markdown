@@ -5,7 +5,7 @@ redirect_from: "/archive/2005/07/29/more-on-microformats.aspx/"
 ---
 
 [Kevin Marks](http://epeus.blogspot.com/) says in the comments to my
-[last post](https://haacked.com/archive/2005/07/28/9085.aspx) that my
+[last post](https://haacked.com/archive/2005/07/28/making-heads-or-tails-of-microformats/) that my
 example of how a format designed for both machine and human readability
 might run into problems was a little contrived. My dear Mr. Marks how
 silly of you to say so. I must vehemently disagree with your lack of

@@ -1,7 +1,9 @@
 ---
 title: Patterns in Number Sequences
 tags: [math]
-redirect_from: "/archive/2005/10/19/patterns-in-number-sequences.aspx/"
+redirect_from:
+  - "/archive/2005/10/19/patterns-in-number-sequences.aspx/"
+  - "/archive/2005/10/20/10899.aspx/"
 ---
 
 You know you’re a big geek when a sequence of numbers with an

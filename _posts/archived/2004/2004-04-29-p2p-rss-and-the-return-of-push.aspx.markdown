@@ -1,7 +1,9 @@
 ---
 title: P2P RSS and the Return of Push!
 tags: [rss,blogging]
-redirect_from: "/archive/2004/04/28/p2p-rss-and-the-return-of-push.aspx/"
+redirect_from:
+  - "/archive/2004/04/28/p2p-rss-and-the-return-of-push.aspx/"
+  - "/archive/2004/04/30/387.aspx/"
 ---
 
 ![Wired Magazine May 2004](/images/cover_wired_190.jpg) I just finished
