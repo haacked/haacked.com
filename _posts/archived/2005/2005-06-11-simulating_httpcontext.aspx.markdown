@@ -7,7 +7,7 @@ redirect_from: "/archive/2005/06/10/simulating_httpcontext.aspx/"
 UPDATE: I have recently posted a [newer and better version of this code](https://haacked.com/archive/2007/06/19/unit-tests-web-code-without-a-web-server-using-httpsimulator.aspx "HttpSimulator")
 on my blog.
 
-As I’ve [stated before](https://haacked.com/archive/2004/11/30/1687.aspx), I’m a big fan of completely self-contained unit tests. When unit testing ASP.NET pages, base classes, controls and such, I use the technique [outlined by Scott Hanselman in this post](http://www.hanselman.com/blog/PermaLink.aspx?guid=944a5284-6b8d-4366-81e8-2e241401e1b3).
+As I’ve [stated before](https://haacked.com/archive/2004/11/30/creating-self-contained-nunit-tests-requiring-a-web-server.aspx/), I’m a big fan of completely self-contained unit tests. When unit testing ASP.NET pages, base classes, controls and such, I use the technique [outlined by Scott Hanselman in this post](http://www.hanselman.com/blog/PermaLink.aspx?guid=944a5284-6b8d-4366-81e8-2e241401e1b3).
 In fact, several of the unit tests for [RSS Bandit](http://www.rssbandit.org/) use this technique in order to test RSS auto-discovery and similar features.
 
 However, there are cases when I want a “lightweight” quick and dirty way to test library code that will be used by an ASP.NET project. For example, take a look at this very contrived example that follows a common pattern...

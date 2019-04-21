@@ -1,7 +1,8 @@
 ---
 title: Better Social Networking through Blogistry
 tags: [blogging]
-redirect_from: "/archive/2004/02/17/better-social-networking-through-blogistry.aspx/"
+redirect_from:
+  - "/archive/2004/02/17/better-social-networking-through-blogistry.aspx/"
 ---
 
 ![agent](/images/agent.jpg)Lately it seems that everybody is playing “six-degrees of separation” by sprouting a social networking service.

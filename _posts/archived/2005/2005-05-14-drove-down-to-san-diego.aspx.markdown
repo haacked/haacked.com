@@ -1,7 +1,9 @@
 ---
 title: Drove Down to San Diego
 tags: [personal]
-redirect_from: "/archive/2005/05/13/drove-down-to-san-diego.aspx/"
+redirect_from:
+  - "/archive/2005/05/13/drove-down-to-san-diego.aspx/"
+  - "/archive/2005/05/15/3228.aspx/"
 ---
 
 Yesterday we drove down to the San Diego area to spend the day with

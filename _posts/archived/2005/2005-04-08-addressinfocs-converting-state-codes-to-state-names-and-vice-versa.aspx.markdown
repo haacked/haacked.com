@@ -1,7 +1,9 @@
 ---
 title: 'AddressInfo.cs: Converting State Codes to State Names and Vice Versa'
 tags: [code]
-redirect_from: "/archive/2005/04/07/addressinfocs-converting-state-codes-to-state-names-and-vice-versa.aspx/"
+redirect_from:
+  - "/archive/2005/04/07/addressinfocs-converting-state-codes-to-state-names-and-vice-versa.aspx/"
+  - "/archive/2005/04/08/2599.aspx/"
 ---
 
 I'm feeling a little uninspired to write anything interesting because my

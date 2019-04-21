@@ -4,7 +4,7 @@ tags: [math]
 redirect_from: "/archive/2005/10/19/digging-deeper-into-the-triangular-series.aspx/"
 ---
 
-In [my last post](https://haacked.com/archive/2005/10/20/10899.aspx), I
+In [my last post](https://haacked.com/archive/2005/10/20/patterns-in-number-sequences.aspx), I
 didn’t explain the pattern to Jayson’s satisfaction *and* I had a typo
 in my proof that I have since corrected.
 

@@ -1,7 +1,9 @@
 ---
 title: Drinking From an RSS Fire Hose
 tags: [rss]
-redirect_from: "/archive/2005/03/22/Drinking_From_An_Rss_Firehose.aspx/"
+redirect_from:
+  - "/archive/2005/03/22/Drinking_From_An_Rss_Firehose.aspx/"
+  - "/archive/2005/03/24/2450.aspx/"
 ---
 
 ![Firehose](/images/firehose.jpg) So now that you’ve subscribed to your

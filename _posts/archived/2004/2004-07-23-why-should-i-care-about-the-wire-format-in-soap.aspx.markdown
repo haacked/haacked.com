@@ -1,7 +1,9 @@
 ---
 title: Why Should I Care About The Wire Format In SOAP?
 tags: [code]
-redirect_from: "/archive/2004/07/22/why-should-i-care-about-the-wire-format-in-soap.aspx/"
+redirect_from:
+  - "/archive/2004/07/22/why-should-i-care-about-the-wire-format-in-soap.aspx/"
+  - "/archive/2004/07/23/843.aspx/"
 ---
 
 ![Soap](/images/soap.jpg)In this
@@ -29,9 +31,7 @@ their own proprietary XML format they want to send to us over HTTP with
 a roll-our-own authentication scheme. I was hoping to take advantage of
 all the plumbing VS.NET and the .NET Web Services provide.
 
-I recently watched a video in which [Don
-Box](http://www.gotdotnet.com/team/dbox/) and [Doug
-Purdy](http://www.douglasp.com/default.aspx) discuss Indigo and SOA.
+I recently watched a video in which [Don Box](http://www.gotdotnet.com/team/dbox/) and [Doug Purdy](http://www.douglasp.com/default.aspx) discuss Indigo and SOA.
 They hope that most developers will not have to become plumbers and
 understand how it all works under the hood. You just use Indigo and it
 automagically takes care of it for you. You just focus on your business
@@ -48,4 +48,3 @@ down a bit and expose some butt crack to become a plumber.
 
 In my next post, I'll talk about my solution to this problem and a
 problem I ran into.
-

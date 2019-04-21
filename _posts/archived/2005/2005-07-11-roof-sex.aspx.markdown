@@ -1,7 +1,9 @@
 ---
 title: Roof Sex
 tags: [humor]
-redirect_from: "/archive/2005/07/10/roof-sex.aspx/"
+redirect_from:
+  - "/archive/2005/07/10/roof-sex.aspx/"
+  - "/archive/2005/07/11/8602.aspx/"
 ---
 
 ![Chairs Having

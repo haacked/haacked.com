@@ -5,8 +5,7 @@ redirect_from: "/archive/2005/03/29/putting-a-crimp-in-the-rss-fire-hose.aspx/"
 ---
 
 ![fire hose](https://haacked.com/images/firehose.jpg) In my post entitled
-[Drinking From an RSS Fire
-Hose](https://haacked.com/archive/2005/03/24/2450.aspx) I dealt with some
+[Drinking From an RSS Fire Hose](https://haacked.com/archive/2005/03/23 /Drinking_From_An_Rss_Firehose.aspx/) I dealt with some
 of the issues surrounding the flood of incoming RSS entries within an
 RSS aggregator raised by Dare's post ["Nightcrawler Thoughts: Thums Up,
 Thumbs Down and
@@ -33,9 +32,8 @@ tactics, but for the time being, this simple rule works.
 
 **Extensibily Model**
  Personally, I think the initial solution isn't a filter at all, but the
-[extensibility model](https://haacked.com/archive/2005/03/04/2259.aspx)
-prototyped by
-[Torsten](http://www.rendelmann.info/blog/PermaLink.aspx?guid=d3c8dfd5-c3f7-4e74-bdb0-0168eb4e2d82).
+[extensibility model](https://haacked.com/archive/2005/03/03/building-a-better-extensibility-model-for-rss-bandit.aspx/)
+prototyped by [Torsten](http://www.rendelmann.info/blog/PermaLink.aspx?guid=d3c8dfd5-c3f7-4e74-bdb0-0168eb4e2d82).
 
 **Rules Engine**
  On top of this, I'd probably build a simple rules engine plug-in

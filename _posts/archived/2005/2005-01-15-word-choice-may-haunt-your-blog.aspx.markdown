@@ -20,7 +20,7 @@ Saw this on Scoble's link blog.
 
 A while back I blogged about a hilarious Dave Chappelle skit called (and
 if you tend to read aloud, I recommend reading the next words silently)
-"[The Niggar Family](https://haacked.com/archive/2004/02/06/169.aspx)"
+"[The Niggar Family](https://haacked.com/archive/2004/02/06/video-dave-chapelle-skit.aspx/)"
 (and please note that the derogatory N-word is spelled differently lest
 you flame me miserably).
 

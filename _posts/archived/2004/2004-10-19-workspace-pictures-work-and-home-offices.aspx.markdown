@@ -5,7 +5,7 @@ redirect_from: "/archive/2004/10/18/workspace-pictures-work-and-home-offices.asp
 ---
 
 I know a lot of [people](http://weblogs.asp.net/pleloup/archive/2003/11/18/38243.aspx) [like](http://binarybonsai.com/archives/2004/05/06/my-cubicle/) to [post](http://scottwater.com/blog/archive/2004/02/25/11443) [pictures](http://weblogs.asp.net/rosherove/archive/2003/09/06/26527.aspx)of their [workspace](http://glazkov.com/Resources/Images/Office/quadraplex-large.jpg)
-online. Not sure why ([vanity](https://haacked.com/archive/2004/10/08/1322.aspx)!), but they just do. So I thought I'd jump on that bandwagon and do the same.
+online. Not sure why ([vanity](https://haacked.com/archive/2004/10/08/bloggingispurevanity.aspx/)!), but they just do. So I thought I'd jump on that bandwagon and do the same.
 
 This first picture shows my work office with it's nice 17th floor view.
 

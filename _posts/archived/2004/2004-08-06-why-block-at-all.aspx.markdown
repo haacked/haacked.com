@@ -70,17 +70,10 @@ void ThrowAwayTheKey(object resetEvent)
 }
 ```
 
-Calling the method LockItUp will cause a deadlock and the application
-will hang until you kill it. Although this example is a bit contrived,
-you'd be surprised how easy it is in a sufficiently large and
-complicated system with multiple developers for you to run into this
-situation in a more roundabout manner. I see this often enough because
-using the lock statement is the path of least resistance. Instead, try
-using the [TimedLock
-struct](http://www.interact-sw.co.uk/iangblog/2004/03/23/locking).
+Calling the method `LockItUp` will cause a deadlock and the application will hang until you kill it. Although this example is a bit contrived, you'd be surprised how easy it is in a sufficiently large and complicated system with multiple developers for you to run into this situation in a more roundabout manner. I see this often enough because using the lock statement is the path of least resistance. Instead, try
+using the [`TimedLock` struct](http://www.interact-sw.co.uk/iangblog/2004/03/23/locking).
 
-Another situation this type of thing comes up is with socket
-programming. Often I see code like this:
+Another situation this type of thing comes up is with socket programming. Often I see code like this:
 
 ```csharp
 using System.Net.Sockets;
@@ -98,10 +91,7 @@ public void Listen(Socket socket)
 }
 ```
 
-If the remote socket isn't forthcoming with that data, you're going to
-be sitting there all day holding that thread open. In order to stop that
-socket, you'll need another thread to call Shutdown or close on the
-socket. Contrast that with this approach:
+If the remote socket isn't forthcoming with that data, you're going to be sitting there all day holding that thread open. In order to stop that socket, you'll need another thread to call `Shutdown` or `Close` on the socket. Contrast that with this approach:
 
 ```csharp
 byte[] _buffer = new byte[4096];
@@ -118,26 +108,14 @@ void OnDataReceived(IAsyncResult ar)
 {
     Socket socket = ar.AsyncState as Socket;
     int bytesRead = socket.EndReceive(ar);
-    
+
     //go on with your bad self...
 }
 ```
 
-BeginListen returns immediately and OnDataReceived isn't called until
-there's actual data to receive. An added benefit is that you're not
-taking up a thread from the ThreadPool, but rather you're using IO
-completion ports. IO Completion ports is a method Windows uses for
-asynchronous IO operations. When an asynchronous IO is complete, Windows
-will awaken and notify your thread. The IO operations run on a pool of
-kernel threads whose only task in life is to process I/O requests.
+`BeginListen` returns immediately and `OnDataReceived` isn't called until there's actual data to receive. An added benefit is that you're not taking up a thread from the ThreadPool, but rather you're using IO completion ports. IO Completion ports is a method Windows uses for asynchronous IO operations. When an asynchronous IO is complete, Windows will awaken and notify your thread. The IO operations run on a pool of kernel threads whose only task in life is to process I/O requests.
 
-Since BeginListen returns immediately, you're free to close the socket
-if no data is received after a certain time or in response to some other
-event. This may be a matter of preference, but this is a more elegant
-and scalable approach to sockets.
+Since `BeginListen` returns immediately, you're free to close the socket if no data is received after a certain time or in response to some other event. This may be a matter of preference, but this is a more elegant and scalable approach to sockets.
 
-For more on asynchronous sockets, take the time to read [Using an
-Asynchronous Server
-Socket](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconUsingNon-blockingClientSocket.asp)
-and related articles.
-
+For more on asynchronous sockets, take the time to read [Using an Asynchronous Server
+Socket](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpguide/html/cpconUsingNon-blockingClientSocket.asp) and related articles.

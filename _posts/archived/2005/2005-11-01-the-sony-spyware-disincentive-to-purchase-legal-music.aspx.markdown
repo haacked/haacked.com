@@ -4,9 +4,7 @@ tags: [security]
 redirect_from: "/archive/2005/10/31/the-sony-spyware-disincentive-to-purchase-legal-music.aspx/"
 ---
 
-It seems Sony has [overstepped the
-line](http://www.sysinternals.com/blog/2005/10/sony-rootkits-and-digital-rights.html)
-with some DRM it used to protect its music CDs.
+It seems Sony has [overstepped the line](http://www.sysinternals.com/blog/2005/10/sony-rootkits-and-digital-rights.html) with some DRM it used to protect its music CDs.
 
 The article is very technical and goes deep into the internals of how
 Windows works, but for you non-techies, the bottom line is that Sony
@@ -18,7 +16,7 @@ in that any program named with a “\$sys\$” is cloaked from the operating
 system. This is most likely in violation of a variety of laws against
 this sort of thing (like the SPY act).
 
-The [shortsighted](https://haacked.com/archive/2005/10/10/10657.aspx)
+The [shortsighted](https://haacked.com/archive/2005/10/09/ThePoorManagementEpidemic.aspx/)
 outcome of this approach is that Sony is effectively planting malware on
 those who choose to LEGALLY purchase their music. So from Sony’s
 perspective, they are infecting the systems of the good guys and

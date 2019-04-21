@@ -4,8 +4,7 @@ tags: [diversity]
 redirect_from: "/archive/2004/08/17/a-response-to-shelley.aspx/"
 ---
 
-Regarding my [post on Women in XML](https://haacked.com/archive/2004/08/18/935.aspx) which is really a
-post about women in software industry, [Shelley](http://weblog.burningbird.net/) writes:
+Regarding my [post on Women in XML](https://haacked.com/archive/2004/08/17/girl-power-and-the-women-of-xml.aspx/) which is really a post about women in software industry, [Shelley](http://weblog.burningbird.net/) writes:
 
 > I don't know where you work, but every place I've worked in over 20
 > years has had women.

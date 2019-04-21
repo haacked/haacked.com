@@ -17,7 +17,7 @@ video](http://www.hugi.is/hahradi/bigboxes.php?box_id=51208&f_id=1395).
 Seriously, go check it out. Now! Satisfaction guaranteed or your money
 back. If I have ever lead you astray with one of these video links, you
 let me know. But I don’t think I’ve gone wrong yet. Except for maybe
-that [chair sex video](https://haacked.com/archive/2005/07/11/8602.aspx).
+that [chair sex video](https://haacked.com/archive/2005/07/11/roof-sex.aspx/).
 You know, the one that put Paris Hilton out of business. Seriously,
 furniture fornication was probaby out of line.
 

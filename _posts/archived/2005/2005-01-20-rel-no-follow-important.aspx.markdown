@@ -1,18 +1,15 @@
 ---
-title: Why Is rel=&quot;nofollow&quot; important?
+title: Why Is rel="nofollow" important?
 tags: [code]
 redirect_from: "/archive/2005/01/19/rel-no-follow-important.aspx/"
 ---
 
 There's a debate going on about how effective the rel="nofollow"
-solution really is. [Some
-believe](http://yexley.net/blogs/bob/archive/2005/01/19/1143.aspx) that
-Google is flattering itself by thinking that the primary motivation for
-comment spam is Google juice.
+solution really is. [Some believe](http://yexley.net/blogs/bob/archive/2005/01/19/1143.aspx) that Google is flattering itself by thinking that the primary motivation for comment spam is Google juice.
 
 I do not believe that rel="nofollow" will stop comment spam as I've
-[stated before](https://haacked.com/archive/2005/01/20/1939.aspx) (though
-I've [applied it](https://haacked.com/archive/2005/01/19/1933.aspx)
+[stated before](https://haacked.com/archive/2005/01/20/an-open-message-to-comment-spammers.aspx/) (though
+I've [applied it](https://haacked.com/archive/2005/01/19/relnofollow-fix-applied.aspx)
 myself). Getting their links out there may be motivation enough. However
 I think it will have a bigger impact than some people think.
 
