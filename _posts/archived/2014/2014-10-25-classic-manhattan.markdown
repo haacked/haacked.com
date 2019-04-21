@@ -73,6 +73,6 @@ In addition to a fine cocktail, I've come to appreciate a good Scotch. Like Ron 
 
 ![a good scotch](https://cloud.githubusercontent.com/assets/19977/4781191/51cc3afe-5c8e-11e4-9a6b-a99665ab80e1.png)
 
-It looks particularly good poured into an [Octocat Glencairn glass](https://github.myshopify.com/products/octocat-glencairn-glasses). I have [Richard Campbell](https://twitter.com/richcampbell), a most knowledgeable Scotch connoisseur, to thank for my Scotch kick.
+It looks particularly good poured into an Octocat Glencairn glass. I have [Richard Campbell](https://twitter.com/richcampbell), a most knowledgeable Scotch connoisseur, to thank for my Scotch kick.
 
 What's your go to drink and why?
