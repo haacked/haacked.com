@@ -48,7 +48,7 @@ All I really want to do is write a tiny bit of code to respond to a Webhook call
 
 [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) and AWS Lambda are the two most well known examples of Serverless services. I decided to play around with Azure Functions because they have specific support for GitHub Webhooks. GitHub Webhooks and Azure Functions go together like Bitters and Bourbon. Mmmm, I'll be right back.
 
-Follow [these instructions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-github-webhook-triggered-function) to set up an Azure Function inside of the [Azure Portal](hthtps://portal.azure.com) that responds to a GitHub webhook in no time. The result is a method with a signature like this.
+Follow [these instructions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-github-webhook-triggered-function) to set up an Azure Function inside of the [Azure Portal](https://portal.azure.com) that responds to a GitHub webhook in no time. The result is a method with a signature like this.
 
 ```csharp
 public static async Task<object> Run(
