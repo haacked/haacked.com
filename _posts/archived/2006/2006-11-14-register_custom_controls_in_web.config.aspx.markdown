@@ -1,7 +1,9 @@
 ---
 title: Register Custom Controls In Web.config
 tags: [aspnet]
-redirect_from: "/archive/2006/11/13/register_custom_controls_in_web.config.aspx/"
+redirect_from:
+  - "/archive/2006/11/13/register_custom_controls_in_web.config.aspx/"
+  - "/archive/2006/11/14/Register_Custom_Controls_In_Web.config.aspx/"
 ---
 
 This one is probably old news to many of you, but I just recently ran
