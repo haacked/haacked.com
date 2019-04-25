@@ -1,0 +1,5 @@
+id: 8293a26b
+date: 2019-04-25T16:23:24.7090005Z
+name: John V. Petersen, Esq.
+avatar: https://avatars.io/twitter//medium
+message: "Signing isn't the solution to the real problem. The real problem, especially for a public company,  is access to public repositories. A SOX regulated company cannot truly attest it is compliant with section 404 if it allows its developers direct access to nuget.org, nodejs, etc. To be truly compliant such that the risk has been mitigated - a company should be relying on a private repository to curate its packages. Otherwise, how do you know what you're really introducing into your enterprise? Signing doesn't really solve the problem of dealing with a duty that can't be delegated. "
