@@ -1,0 +1,14 @@
+id: 85349b6f
+date: 2019-04-28T19:08:52.6361133Z
+name: Son Nguyen
+avatar: https://avatars.io/twitter/https://github.com/sonbua/medium
+message: >-
+  I find this style really useful to organize unit tests in a project.
+
+
+
+  Does anyone still use it as of 2019?
+
+
+
+  I wrote a small command-line tool to help in converting feature (or specs) to xUnit.net tests for .NET Core here https://github.com/sonbua/GivenWhenThenTemplateToCSharp
