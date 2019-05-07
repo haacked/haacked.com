@@ -8,7 +8,7 @@ I gave a presentation to another team at Microsoft yesterday on ASP.NET MVC and 
 
 It turns out, there is a pretty [good guide about Razor](http://www.asp.net/webmatrix/tutorials/2-introduction-to-asp-net-web-programming-using-the-razor-syntax "Razor Guide") available, but it’s focused on covering the basics of web programming using Razor and inline pages and not just the Razor syntax.
 
-So I thought it might be handy to write up a a really concise quick reference about the Razor syntax.
+So I thought it might be handy to write up a really concise quick reference about the Razor syntax.
 
 <table class="matrix"><tbody>
     <tr>
