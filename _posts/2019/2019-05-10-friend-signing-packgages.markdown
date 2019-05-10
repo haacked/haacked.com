@@ -62,6 +62,8 @@ So this seems like a lot of work for the NuGet team to build up all these social
 
 Through Keybase, I've proven I'm `haacked` on just about every site you can think of. You can also see my GPG public key on Keybase. This is the key I use to sign my git commits. For example, [the commit](https://github.com/haacked/haacked.com/commit/30175fa1bba09a4c13dbb3e7b378dfa76f42d1a8) where I added a security.txt file to my blog is signed with this key.
 
+And if we check out [Troy's keybase profile](https://keybase.io/troyhunt), we can see he is indeed all the `troyhunt`s I mentioned earlier.
+
 I can imagine a world where package managers leverage Keybase to provide more secure options for establishing identity. Today, when you publish a package to NuGet.org, NuGet.org signs the package with its own certificate. The public key of that certificate ought to be published on Keybase.io. NPM does this with its own registry key.
 
 With that, I could imagine a policy where I tell the NuGet client, I trust all packages signed by nuget.org from people I follow on GitHub and Twitter. Or, if I want to be extra secure, I may tell NuGet, require that they sign the package too, but allow GPG signing as long as the key is published on keybase.io and associated with their NuGet account.
