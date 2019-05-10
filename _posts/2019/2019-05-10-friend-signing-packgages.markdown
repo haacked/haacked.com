@@ -21,7 +21,7 @@ No, not those friends. Your friends!
 
 Let's back up a step. The purpose of a certificate is to establish identity. Suppose you see a package by some user [`troyhunt` on NuGet](https://www.nuget.org/profiles/troyhunt) (I'm just using Troy as an example here, but it could be anybody).
 
-![Troy Hunt](https://user-images.githubusercontent.com/19977/57544685-f80e4f80-730c-11e9-8108-1208e613ada0.png)
+![Troy Hunt on NuGet could be anybody!](https://user-images.githubusercontent.com/19977/57544685-f80e4f80-730c-11e9-8108-1208e613ada0.png)
 
 Is that the _real_ Troy Hunt? How would you know? Anyone can scrape his photo off the web and create a `troyhunt` account. And if that person uploads a malicious package and gets caught, we don't know anything about them. They can come back as `tr0yhunt` and start all over again.
 
@@ -42,9 +42,9 @@ Is there another way we could establish his identity? After all, anybody could f
 
 Perhaps if there were a way he could verify that the `troyhunt` on NuGet is also [`@troyhunt` on Twitter](https://twitter.com/troyhunt), that would give us more confidence.
 
-![troyhunt on Twitter](https://user-images.githubusercontent.com/19977/57544859-779c1e80-730d-11e9-86c3-9b79bcc5ea91.png)
+![troyhunt on Twitter follows you](https://user-images.githubusercontent.com/19977/57544859-779c1e80-730d-11e9-86c3-9b79bcc5ea91.png)
 
-And perhaps to provide even more assurance, what if he could prove that he's also the [`@troyhunt` on GitHub](https://github.com/troyhunt)?
+And perhaps to provide even more assurance, what if he could prove that he's also the [`@troyhunt` on GitHub is the real Troy Hunt](https://github.com/troyhunt)?
 
 ![@troyhunt on GitHub](https://user-images.githubusercontent.com/19977/57550806-3d864900-731c-11e9-9e1d-c8a72e4d924f.png)
 
