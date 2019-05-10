@@ -46,7 +46,7 @@ Perhaps if there were a way he could verify that the `troyhunt` on NuGet is also
 
 And perhaps to provide even more assurance, what if he could prove that he's also the [`@troyhunt` on GitHub](https://github.com/troyhunt)?
 
-![troyhunt on GitHub](https://user-images.githubusercontent.com/19977/57544859-779c1e80-730d-11e9-86c3-9b79bcc5ea91.png)
+![@troyhunt on GitHub](https://user-images.githubusercontent.com/19977/57550806-3d864900-731c-11e9-9e1d-c8a72e4d924f.png)
 
 Then, if you knew and trusted the @troyhunt on GitHub, you could trust that the same person is in control of the `troyhunt` account on NuGet.
 
