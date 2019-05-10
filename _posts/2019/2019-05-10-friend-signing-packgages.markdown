@@ -1,5 +1,5 @@
 ---
-title: "Package Author Identiy through Social Proofs"
+title: "Package Author Identity through Social Proofs"
 description: "Rather than use certificates, social proofs may be a better approach to establishing the identity of a package author"
 tags: [nuget,security,oss]
 excerpt_image: https://user-images.githubusercontent.com/19977/57546529-c51a8a80-7311-11e9-9047-117c25f47649.png
