@@ -50,7 +50,9 @@ And perhaps to provide even more assurance, what if he could prove that he's als
 
 Then, if you knew and trusted the @troyhunt on GitHub, you could trust that the same person is in control of the `troyhunt` account on NuGet.
 
-This concept is called a social proof. At a simple level, if Troy were to tweet on Twitter that he's `troyhunt` on NuGet, and then he updated his profile on NuGet to note he's `@troyhunt` on Twitter, that would provide a proof that the same person is in charge of both accounts. It doesn't necessarily prove he's the real Troy Hunt. To prove that, we rely on other signals or the fact that he's a verified user on Twitter.
+This concept is called a social proof. At a simple level, if Troy were to tweet on Twitter that he's `troyhunt` on NuGet, and then he updated his profile on NuGet to note he's `@troyhunt` on Twitter, that would provide a proof that the same person is in charge of both accounts.
+
+That alone doesn't prove he's the real Troy Hunt. To prove that, we rely on other signals or the fact that he's a verified user on Twitter. If we know the `@troyhunt` on Twitter is the real Troy Hunt, through the transitive property (remember math?) of identity, we know that the `troyhunt` on NuGet is also the real Troy Hunt.
 
 ## Leveraging Social Proofs
 
