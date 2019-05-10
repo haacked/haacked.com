@@ -38,7 +38,7 @@ That's perhaps an unlikely scenario for Troy, but it could happen to someone els
 
 ## Social Proofs
 
-Is there another way we could establish his identity? After all, anybody could find his photo on the internet and create an account on NuGet using his name. How do we know he's the REAL Troy Hunt?
+Is there another way we could establish his identity? After all, any random hacker could find his photo on the internet and create an account on NuGet using his name. How do we know he's the REAL Troy Hunt?
 
 Perhaps if there were a way he could verify that the `troyhunt` on NuGet is also [`@troyhunt` on Twitter](https://twitter.com/troyhunt), that would give us more confidence.
 
