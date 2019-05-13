@@ -72,6 +72,6 @@ With that, I could imagine a policy where I tell the NuGet client, I trust all p
 
 People spend a lot of time grooming their online identities. Most people _don't_ spend time looking at each others certificate public keys. If we're concerned about establishing identity on a package manager, we should leverage social proofs.
 
-To be clear, this doesn't solve everything. For example, it's unclear to me how you implement a policy of key rotation with Keybase if people do use GPG to sign keys. And, there's ways for malicious actors to capitalize on these established identities to harm users. I'll talk about that in a future post maybe.
+To be clear, this doesn't solve everything. For example, it's unclear to me how you implement a policy of key rotation with Keybase if people do use GPG to sign keys. And, there's ways for malicious actors to capitalize on these established identities to harm users. I'll [write about that in a future post](https://haacked.com/archive/2019/05/13/package-fingerprint/).
 
 But for now, I'd love to see every package manager leverage social proofs to better establish identity. And let's all hope Troy never turns his talents to evil.
