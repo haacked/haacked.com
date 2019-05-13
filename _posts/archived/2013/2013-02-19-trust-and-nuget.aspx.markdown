@@ -165,3 +165,5 @@ The only benefit in this case of signing is that if a package did screw somethin
 Just to be clear. I’m actually in favor of supporting package signing eventually. But I do not support requiring package signing to make it into the NuGet gallery. And I think there are much better approaches we can take first to mitigate the risk of using NuGet before we get to that point.
 
 I worry that implementing signing just gives a false sense of security and we need to consider all the various ways that people can establish trust in packages and package authors.
+
+If you're interested in more thoughts on this, check out my follow-up post, [Why NuGet Package Signing Is Not (Yet) For Me](https://haacked.com/archive/2019/04/03/nuget-package-signing/).

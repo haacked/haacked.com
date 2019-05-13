@@ -255,4 +255,4 @@ We get an error message stating
 
 So it seems the only way to add more owners is to remove the Nuget.org trusted signer and re-add it with a complete list of everyone on nuget.org that you trust.
 
-The `-owners` option makes this feature more useful, but there's the problem of managing the list of people you trust remains. I'll write a follow-up post soon with more feedback on how I think this feature could be improved.
+The `-owners` option makes this feature more useful, but there's the problem of managing the list of people you trust remains. I [wrote a follow-up post](https://haacked.com/archive/2019/05/10/friend-signing-packgages/) with more feedback on how I think this feature could be improved.
