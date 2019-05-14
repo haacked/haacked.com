@@ -1,0 +1,26 @@
+id: ed494d82
+date: 2019-05-14T04:13:05.1320229Z
+name: aelij
+avatar: https://avatars.io/twitter/@aelij/medium
+message: >-
+  I was just tweeting about Trusted Builds the other day (https://twitter.com/aelij/status/1127495832205393920).
+
+
+
+
+
+  I believe this to be the best solution, and it's definitely doable. The pipeline could use a verified build that has certain limitations, e.g.:
+
+  * No internet access except for verified feeds
+
+
+
+  * Runs in a container on Microsoft-hosted machines
+
+  * Mandatory malware scanning
+
+
+
+
+
+  Only if these conditions are met, the package will be published as "verified" to the feed. Since the GitHub Package Repository and Azure Pipelines are both Microsoft-owned, forming this trust between them should be possible.
