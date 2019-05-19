@@ -46,12 +46,12 @@ All content on haacked.com is the copyright of Phil Haack unless otherwise state
 
 Here's a more condensed bio I use for conferences
 
-> Phil Haack is the founder and CEO of Haacked LLC where he coaches software organizations and helps them become the best versions of themselves.
+> Phil Haack is the founder of Haacked LLC where he coaches software organizations to become the best versions of themselves.
 >
-> To do this, Phil draws upon his experiences at GitHub where he was a director of engineering and helped make GitHub friendly to developers on the Microsoft platform.
+> To do this, Phil draws upon his over twenty years of experience in the software industry. Most recently, he was a director of engineering at GitHub and helped make GitHub friendly to developers on the Microsoft platform.
 >
-> He also draws upon his experience at Microsoft where he was a Senior Program Manager responsible for shipping ASP.NET MVC, NuGet, among other projects. These products had permissive open source licenses and ushered in Microsoft's Open Source era.
+> Prior to GitHub, he was a Senior Program Manager at Microsoft responsible for shipping ASP.NET MVC, NuGet, among other projects. These products had permissive open source licenses and ushered in Microsoft's Open Source era.
 > 
-> Phil is a co-author of the popular Professional ASP.NET MVC series and regularly speaks at conferences around the world. He's also made several appearances on technology podcasts such as .NET Rocks, Hanselminutes, Herding Code, and The Official jQuery Podcast.
+> Phil is a co-author of GitHub for Dummies as well as the popular Professional ASP.NET MVC series and regularly speaks at conferences around the world. He's also made several appearances on technology podcasts such as .NET Rocks, Hanselminutes, Herding Code, and The Official jQuery Podcast.
 
 Sounds like just the kind of person you want to have a beer or coffee with, doesn't it?
