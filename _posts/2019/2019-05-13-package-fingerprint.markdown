@@ -2,7 +2,7 @@
 title: "Better Security Through Package Fingerprints"
 description: "How do we ensure that a package matches the code in a GitHub repository and does not have any extra surprises injected into it? This post proposes an idea worth more investigation to see if it's a viable option."
 tags: [nuget,security,oss]
-excerpt_image: https://user-images.githubusercontent.com/19977/57586760-5ecb6e80-74af-11e9-8392-ffd892fe3613.png
+excerpt_image: https://user-images.githubusercontent.com/19977/58292816-be5f2f00-7d77-11e9-92fa-d01050531597.jpg;
 ---
 
 It seemed like an innocuous enough update. Someone yanked `bootstrap-sass` ruby gem version 3.2.0.2 and published 3.2.0.3. Ruby gems more or less follows the [SemVer versioning scheme](https://semver.org/) (albeit with an extra version number). An increment of the patch number communicates that this release should be a safe bug fix update. The command, `bundle update --patch`, should be safe as it updates to the next patch version which should be safe.
@@ -27,7 +27,6 @@ There's another approach that could help mitigate this sort of attack. Imagine t
 
 What about the [GitHub Package Registry](https://github.blog/2019-05-10-introducing-github-package-registry/) (GPR)? Does GPR address this scenario?
 
-
 It's a step in the right direction, but it doesn't solve this problem yet. The best way to think about GPR is it's a _per-repository_ package registry. It's a place to put your nightly builds. It's less like NuGet and NPM, which provide a feed for all packages, and more like MyGet, with its per-package feed. 
 
 GPR can associate a commit to the package in the feed, but at this point, it is a weak association. GPR does not confirm that a package matches the code in the repository. It's still possible for a build process to insert all sorts of code into a package before publishing it.
@@ -38,7 +37,7 @@ I've talked to [Phani Rajuyn](https://twitter.com/PhaniRajuyn/) about this probl
 
 This is easier said than done. To even begin to make this work, we'd need deterministic builds of packages. This means that given the same set of inputs, you always get the same set of outputs.
 
-![Fingerprint scanner by Mike MacKenzie www.vpnsrus.com](https://user-images.githubusercontent.com/19977/57586760-5ecb6e80-74af-11e9-8392-ffd892fe3613.png)
+![Fingerprint scanner by Mike MacKenzie www.vpnsrus.com](https://user-images.githubusercontent.com/19977/58292816-be5f2f00-7d77-11e9-92fa-d01050531597.jpg)
 
 In the .NET world, the [C# compiler supports deterministic builds](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/deterministic-compiler-option). It might not be obvious why a build isn't always determinstic. The documentation for the `-deterministic` flag explains...
 
