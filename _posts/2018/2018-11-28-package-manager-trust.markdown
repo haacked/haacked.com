@@ -2,14 +2,14 @@
 title: "The Problem of Package Manager Trust"
 description: "Trust is a tricky issue when it comes to package managers, as evidence by recent events with the event-stream package."
 tags: [nuget,security]
-excerpt_image: https://user-images.githubusercontent.com/19977/56387879-5fd3ed80-61da-11e9-8315-868a43bd5502.png
+excerpt_image: https://user-images.githubusercontent.com/19977/58293143-2cf0bc80-7d79-11e9-993b-ed21b0f7b5fe.jpg
 ---
 
 __UPDATE April 3, 2019__ Several years after I wrote this post, NuGet added a package signing feature. I wrote a blog post that [takes a close look at the feature](https://haacked.com/archive/2019/04/03/nuget-package-signing/).
 
 Package managers are among the most valuable tools in a developer's toolkit. A package can inject hundreds to thousands of lines of useful code into a project that a developer would otherwise have to write by hand. Ain't nobody got time for that!
 
-![Suspicious Package](https://user-images.githubusercontent.com/19977/56387879-5fd3ed80-61da-11e9-8315-868a43bd5502.png)
+![Suspicious Package](https://user-images.githubusercontent.com/19977/58293143-2cf0bc80-7d79-11e9-993b-ed21b0f7b5fe.jpg)
 
 Of course, such tools do not come without risk as highlighted by the [`event-stream`](https://www.npmjs.com/package/event-stream) package incident.
 
