@@ -2,7 +2,7 @@
 title: "Land that first programming job"
 description: "Reflecting on how to land that first job"
 tags: [community,mentoring,software,career,hiring]
-excerpt_image: https://user-images.githubusercontent.com/19977/48568699-cc0d9680-e8b4-11e8-86b0-dff01490d2a1.png
+excerpt_image: https://user-images.githubusercontent.com/19977/58293203-66292c80-7d79-11e9-8133-9522cbd51261.jpg
 ---
 
 How does a person land their first job as a developer these days?
@@ -23,7 +23,7 @@ And to lean into this crappy metaphor, this was just before the big Dot Com come
 
 Here's a photo of me hard at work back then.
 
-![Me hard at work](https://user-images.githubusercontent.com/19977/48568699-cc0d9680-e8b4-11e8-86b0-dff01490d2a1.png)
+![Me hard at work](https://user-images.githubusercontent.com/19977/58293203-66292c80-7d79-11e9-8133-9522cbd51261.jpg)
 
 I found that first job through applying to a series of job ads when I was a senior in college. But after that, every other job I had came through a contact.
 
