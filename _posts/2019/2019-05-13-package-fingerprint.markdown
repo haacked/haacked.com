@@ -2,7 +2,7 @@
 title: "Better Security Through Package Fingerprints"
 description: "How do we ensure that a package matches the code in a GitHub repository and does not have any extra surprises injected into it? This post proposes an idea worth more investigation to see if it's a viable option."
 tags: [nuget,security,oss]
-excerpt_image: https://user-images.githubusercontent.com/19977/58292816-be5f2f00-7d77-11e9-92fa-d01050531597.jpg;
+excerpt_image: https://user-images.githubusercontent.com/19977/58292816-be5f2f00-7d77-11e9-92fa-d01050531597.jpg
 ---
 
 It seemed like an innocuous enough update. Someone yanked `bootstrap-sass` ruby gem version 3.2.0.2 and published 3.2.0.3. Ruby gems more or less follows the [SemVer versioning scheme](https://semver.org/) (albeit with an extra version number). An increment of the patch number communicates that this release should be a safe bug fix update. The command, `bundle update --patch`, should be safe as it updates to the next patch version which should be safe.
