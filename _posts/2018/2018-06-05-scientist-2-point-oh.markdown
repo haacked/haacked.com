@@ -2,7 +2,7 @@
 title: "Scientist.NET 2.0 Release"
 description: "The new release of Scientist.NET supports fire and forget publishing and better support for IoC/DI scenarios."
 tags: [github,csharp,dotnet,scientist,refactoring]
-excerpt_image: https://user-images.githubusercontent.com/19977/56388084-fa343100-61da-11e9-9902-a7723df0d127.png
+excerpt_image: https://user-images.githubusercontent.com/19977/58293289-c0c28880-7d79-11e9-94f3-2f2f924528e1.jpg
 ---
 
 I have some big news! Scientist.NET 2.0 is now available on NuGet.
@@ -14,7 +14,7 @@ This release includes two main features:
 * A fire and forget result publisher
 * Better support for IoC/DI scenarios.
 
-![Marie Curie the scientist](https://user-images.githubusercontent.com/19977/56388084-fa343100-61da-11e9-9902-a7723df0d127.png)
+![Marie Curie the scientist](https://user-images.githubusercontent.com/19977/58293289-c0c28880-7d79-11e9-94f3-2f2f924528e1.jpg)
 
 ## Fire and Forget
 
