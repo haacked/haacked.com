@@ -1,0 +1,5 @@
+id: 5431bb48
+date: 2019-05-23T12:51:56.8115068Z
+name: Alan
+avatar: https://github.com/alansav.png
+message: Given that many use build servers owned by a third party then code signing misses the point. When I download a signing nuget package it is saying that the output has been built by the author, however if your package is built and signed by a third party then there is really no guarantee that no changes were made to your source code before building (unlikely with most but still a possibility)
