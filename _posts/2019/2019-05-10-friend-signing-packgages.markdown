@@ -2,7 +2,7 @@
 title: "Package Author Identity through Social Proofs"
 description: "Rather than use certificates, social proofs may be a better approach to establishing the identity of a package author"
 tags: [nuget,security,oss]
-excerpt_image: https://user-images.githubusercontent.com/19977/57546529-c51a8a80-7311-11e9-9047-117c25f47649.png
+excerpt_image: https://user-images.githubusercontent.com/19977/58292965-64ab3480-7d78-11e9-96f7-8e7661c818de.jpg
 ---
 
 In my post on [Why NuGet Package Signing Is Not Yet For Me](https://haacked.com/archive/2019/04/03/nuget-package-signing/) I noted...
@@ -13,7 +13,7 @@ For the most part, Microsoft implemented package signing in NuGet to comply with
 
 So what would I propose? Perhaps we can get a little help from our friends!
 
-![Cast of Friends](https://user-images.githubusercontent.com/19977/57546529-c51a8a80-7311-11e9-9047-117c25f47649.png)
+![Cast of Friends](https://user-images.githubusercontent.com/19977/58292965-64ab3480-7d78-11e9-96f7-8e7661c818de.jpg)
 
 No, not those friends. Your friends!
 
