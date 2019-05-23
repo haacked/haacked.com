@@ -2,7 +2,7 @@
 title: "Incentive Pay Does Not Work"
 description: "An argument for why incentive pay does not improve performance."
 tags: [compensation,career,management,motivation]
-excerpt_image: https://user-images.githubusercontent.com/19977/34910008-948a956c-f861-11e7-9ed9-b33a991509df.png
+excerpt_image: https://user-images.githubusercontent.com/19977/58293342-fa938f00-7d79-11e9-972a-1260b052cb07.jpg
 ---
 
 In [The Case Against Pay for Performance](https://haacked.com/archive/2014/08/14/pay-for-performance/), I argued against increasing pay based on performance reviews. Checkmate. Case closed. Or so I thought. Like many bloggers, I suffer from delusions of grandeur that millions ponder every word I write, are enlightened by insight, and then compelled to action.
@@ -36,7 +36,7 @@ As the Kohn article notes,
 
 Not only that, rewards often have an outcome that seems positive but is overall a negative. An analogy from the world of sports might make this point clear.
 
-![Image of Leo Messi by Luis Salas via Wikimedia Commons cc-by-2.0 ](https://user-images.githubusercontent.com/19977/34910008-948a956c-f861-11e7-9ed9-b33a991509df.png)
+![Image of Leo Messi by Luis Salas via Wikimedia Commons cc-by-2.0 ](https://user-images.githubusercontent.com/19977/58293342-fa938f00-7d79-11e9-972a-1260b052cb07.jpg)
 
 [Lionel Messi](https://en.wikipedia.org/wiki/Lionel_Messi) is the best soccer player in the world today, if not all time (I know I'm inviting argument here, feel free to write your rebuttal on your own blog, but for now, bear with me). He is the leading scorer in La Liga (the top Spanish soccer league where he plays for FC Barcelona) with 17 goals this season so far. In fact, because I've sat upon this draft, I've had to change this figure already. The player in second place is far behind with 13 and happens to be his teammate.
 
