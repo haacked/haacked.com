@@ -17,6 +17,8 @@ He's also written about [this idea on his blog](https://seths.blog/2012/12/write
 
 Because I blog so infrequently, my expectations of each blog post continue to go up. It has to be perfect. It has to be unnassailable. It has to withstand every and all criticism. These are impossible goals!
 
+Not only that, by not writing more often, my progress as a writer is slower. The more I write, the better I'll get. Sure I'll write a ton of crap, but every now and them, a gem will appear.
+
 So I plan to make a commitment to write every day. Will I _publish_ every day? Well, this brings me to another realization I had while reading [Nadia Eghbal's post on GitHub Sponsors](https://nadiaeghbal.com/github-sponsors).
 
 There's a paragraph that talks about why people follow other people on GitHub.
