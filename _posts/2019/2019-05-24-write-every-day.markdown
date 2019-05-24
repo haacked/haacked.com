@@ -2,12 +2,12 @@
 title: "Write Every Day"
 description: "I'm planning to write every day, and do it publicly."
 tags: [personal,meta]
-excerpt_image: https://user-images.githubusercontent.com/19977/58360174-1cede100-7e3c-11e9-89ba-b0d9e876b1c6.jpg
+excerpt_image: https://user-images.githubusercontent.com/19977/58360308-f2505800-7e3c-11e9-911c-efec88c7013d.jpg
 ---
 
 I have a lot of ideas I want to get out of my head so they can see the light of day. Many of them will be bad ideas. But every once in a while, one of those ideas might make a mark on someone. Someone out there will have an even better take on the idea. That person might take that ember of an idea and make a conflagration out of it.
 
-![I am a writer](https://user-images.githubusercontent.com/19977/58360174-1cede100-7e3c-11e9-89ba-b0d9e876b1c6.jpg)
+![I am a writer](https://user-images.githubusercontent.com/19977/58360308-f2505800-7e3c-11e9-911c-efec88c7013d.jpg)
 
 But I haven't been very good about writing often. I attributed it to writer's block, but that's a cop out. I realized that when Seth Godin called me out in his podcast, [No Such Thing (As Writer's Block)](https://www.akimbo.me/blog/episode-4-no-such-thing-as-writer-s-block). Ok, he wasn't calling me out specifically. He has no idea who I am. But it sure felt like he made that post for me.
 
