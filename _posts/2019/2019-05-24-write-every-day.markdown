@@ -38,4 +38,6 @@ For the most part, it's fear. Fear of exposing my raw ideas and having them take
 1. Most people don't read my blog. And of those that do, most are not going to look at my repository. They'll wait for the published piece if they plan to read it at all.
 2. My writing would be better if I expose it earlier and give those who are interested a chance to chime in before I publish the post. This will be a tiny number of people (perhaps 0), but if I get even one person to make a PR comment, I benefit. This is exactly why I'm a fan of [early pull requests for code](https://github.blog/2012-05-02-how-we-use-pull-requests-to-build-github/). The same should apply to my writing.
 
-So I'm making a commitment to try and write and push to GitHub every day. Much of what I write will be half-baked hand-wavey in-progress ideas. But if you're into that sort of thing, I'd definitely appreciate the feedback and [give credit](https://haacked.com/contributors/) where it's due. This should be fun!
+So I'm making a commitment to try and write and push to GitHub every day. Much of what I write will be half-baked hand-wavey in-progress ideas. But if you're into that sort of thing, I'd definitely appreciate the feedback and [give credit](https://haacked.com/contributors/) where it's due. The repository where I write my posts is [haacked/haacked.com](https://github.com/haacked/haacked.com/).
+
+This should be fun!
