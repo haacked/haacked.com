@@ -1,6 +1,6 @@
 ---
-title: "Event Stream"
-description: "..."
+title: "Maintainer burnout and package security"
+description: "At the end of the day, a determined attacker will get a malicious package in the package feed. Sometimes this is enabled by maintainer burnout. So what can we do? How do we mitigate this and provide security in depth?"
 tags: [nuget,security,oss]
 excerpt_image: ...
 ---
@@ -29,6 +29,8 @@ If you can get a bit of obfuscated code to run on a million machines, what would
 
 ## The role of burnout
 
+![Tire fire by Stephanus Riosetiawan - CC BY-SA 2.0](https://user-images.githubusercontent.com/19977/58373908-23d32d00-7eea-11e9-8a36-b894d67bbb4a.jpg)
+
 From the details I've read, it's unclear if the extra obfuscated code was in the flatmap-stream repository or not. Would fingerprinting have caught this? Maybe. But for a moment, let's assume that flatmap-stream wasn't backed by a Git repo. Or perhaps it was, but nobody was taking a close look at it. This is a very difficult attack to counter act.
 
 In my post about [establishing package author identities](https://haacked.com/archive/2019/05/10/friend-signing-packgages/), I talk about having well established identities can help guard against malicious packages.
@@ -50,7 +52,7 @@ The maintainer goes on to suggest a couple of solutions
 
 The recent announcement of the [GitHub Sponsors program](https://github.com/sponsors) could be a huge step towards the first issue. Especially for critical open source software that so many depend on.
 
-## Where do foundations fit in?
+## Where foundations might fit in
 
 Perhaps because I'm on the board of the .NET Foundation, I've been thinking a lot about the role of foundations in helping to mitigate this problem. In particular, there's two areas to consider.
 
