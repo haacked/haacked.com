@@ -11,7 +11,7 @@ Sure, many of them will be bad ideas. But not all of them. And if I let them out
 
 ![I am a writer](https://user-images.githubusercontent.com/19977/58360308-f2505800-7e3c-11e9-911c-efec88c7013d.jpg)
 
-But to make that happen, I have to write more often. Why am I not writing often? I told myself it's because of writer's block. But that's a cop out. Thanfully, Seth Godin called me out for this in his podcast, [No Such Thing (As Writer's Block)](https://www.akimbo.me/blog/episode-4-no-such-thing-as-writer-s-block). Ok, he wasn't calling me out specifically. He has no idea who I am. But it sure felt like he geared that podcast just for me.
+But to make that happen, I have to write more often. Why am I not writing often? I told myself it's because of writer's block. But that's a cop out. Thankfully, Seth Godin called me out for this in his podcast, [No Such Thing (As Writer's Block)](https://www.akimbo.me/blog/episode-4-no-such-thing-as-writer-s-block). Ok, he wasn't calling me out specifically. He has no idea who I am. But it sure felt like he geared that podcast just for me.
 
 He's also written about [this idea on his blog](https://seths.blog/2012/12/writers-block-and-the-drip/).
 
