@@ -19,5 +19,4 @@ My former colleague and friend, Sarah Guthals and I wrote a book about GitHub as
 
 The book covers a lot of interesting topics. Some of my favorites are the chapters that cover both sides of working on an open source repository. It contains great tips on how to be a good contributor (pro tip: put away that sense of entitlement) and how to be a good maintainer (pro tip: be kind and take care of your own health first). The book covers a lot of features you might not be aware of and shows them in the context of a typical developer workflow.
 
-
-....
+If you're an experienced user of GitHub, there might be some gems in the book for you. But the book is more geared towards developers and aspiring developers who are relatively new to GitHub. This would be a great book to purchase for career changers switching to software, students, etc. It's a great way to learn how to get the most out of GitHub.
