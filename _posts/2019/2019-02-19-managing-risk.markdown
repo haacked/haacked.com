@@ -11,7 +11,7 @@ Every project risks failure to some degree or other. There's the risk of deliver
 
 ## Postmortem (Retrospectives)
 
-OA well-known procedure is the postmortem (or retrospective for the squeamish). This term comes from the medical field. It refers to an examination of a dead body to determine the cause of death. The good news is most software projects are not matters of life and death. The bad news is this is not true for [all software projects](https://royal.pingdom.com/10-historical-software-bugs-with-extreme-consequences/).
+One well-known procedure is the postmortem (or retrospective for the squeamish). This term comes from the medical field. It refers to an examination of a dead body to determine the cause of death. The good news is most software projects are not matters of life and death. The bad news is this is not true for [all software projects](https://royal.pingdom.com/10-historical-software-bugs-with-extreme-consequences/).
 
 With software projects, a postmortem refers to examining a project, not a cadaver. It is a process where participants examine what went well and what didn't go well at the end of a project. Unlike a medical postmortem, the project doesn't need to fail to prompt a retrospective. There's always something to learn from every project, even the successful ones.
 
