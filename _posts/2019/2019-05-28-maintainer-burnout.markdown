@@ -2,7 +2,7 @@
 title: "Maintainer burnout and package security"
 description: "At the end of the day, a determined attacker will get a malicious package in the package feed. Sometimes this is enabled by maintainer burnout. So what can we do? How do we mitigate this and provide security in depth?"
 tags: [nuget,security,oss]
-excerpt_image: ...
+excerpt_image: https://user-images.githubusercontent.com/19977/58373908-23d32d00-7eea-11e9-8a36-b894d67bbb4a.jpg
 ---
 
 I ended [my last post on package security through fingerprints](https://haacked.com/archive/2019/05/13/package-fingerprint/) with this ominous note...
