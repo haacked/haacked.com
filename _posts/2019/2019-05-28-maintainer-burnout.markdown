@@ -19,7 +19,7 @@ Based on this description, it sounds a bit like Reactive Extensions for node, bu
 
 Chris Northwood wrote a [fantastic and detailed timeline](https://medium.com/@cnorthwood/todays-javascript-trash-fire-and-pile-on-f3efcf8ac8c7) of this vulnerability. The folllowing is a brief summary.
 
-Sometime in 20189, the maintainer of `event-stream` handed off maintenance of the package to another maintainer. This was a very popular package with around 1.4 million weekly downloads. Not long after, the maintainer added the `flatmap-stream v0.1.0` dependency to `event-stream`. You can [see the commit on GitHub](https://github.com/dominictarr/event-stream/commit/e3163361fed01384c986b9b4c18feb1fc42b8285#diff-b9cfc7f2cdf78a7f4b91a753d10865a2). Seems pretty innocuous, right? At the time, it was.
+Sometime in 2018, the maintainer of `event-stream` handed off maintenance of the package to another maintainer. This was a very popular package with around 1.4 million weekly downloads. Not long after, the maintainer added the `flatmap-stream v0.1.0` dependency to `event-stream`. You can [see the commit on GitHub](https://github.com/dominictarr/event-stream/commit/e3163361fed01384c986b9b4c18feb1fc42b8285#diff-b9cfc7f2cdf78a7f4b91a753d10865a2). Seems pretty innocuous, right? At the time, it was.
 
 Sometime later, an NPM user uploads `flatmap-stream v0.1.1` which contained a bit of extra obfuscated code at the end of the minimized code.
 
