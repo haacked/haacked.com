@@ -9,7 +9,7 @@ Millions of years ago, Zach Holman gave a great talk about [How GitHub uses GitH
 
 During my nearly seven year stint at GitHub, I immersed myself in this way of working. It is a powerful way to coordinate the activities of distributed teams. Having worked this way for so long, I started to assume lots of distributed teams work this way. This is the blindness of being in an echo chamber.
 
-But I've learned that even teams that make heavy use of GitHub leave a lot on the table. They are unaware of many features that would benefit them. These features would improve how they work and save them time and headache. 
+But I've learned that even teams that make heavy use of GitHub leave a lot on the table. They are unaware of many features that would benefit them. These features would improve how they work and save them time and headache.
 
 And it's understandable. GitHub has a lot of features! And GitHub ships new features at a steady cadence. It's difficult to keep on top of them all. Many of them are quite useful. For example, the ability to [suggest a change to a pull request](https://github.blog/2018-11-01-suggested-changes-update/) via a comment is nice!
 
