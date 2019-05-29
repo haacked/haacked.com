@@ -13,7 +13,7 @@ But I've learned that even teams that make heavy use of GitHub leave a lot on th
 
 And it's understandable. GitHub has a lot of features! And GitHub ships new features at a steady cadence. It's difficult to keep on top of them all. Many of them are quite useful. For example, the ability to [suggest a change to a pull request](https://github.blog/2018-11-01-suggested-changes-update/) via a comment is nice!
 
-If long-time GitHub users are not aware of these features, what about people new to GitHub? Using GitHub as a new developer, or as an experienced developer new to GitHub, can be daunting. If you're in this situation, or know someone who is, I have just the book for you.
+If long-time GitHub users are not aware of these features, what about people new to GitHub? Using GitHub as a new developer, or as an experienced developer new to GitHub, is daunting. If you're in this situation, or know someone who is, I have just the book for you.
 
 [![GitHub For Dummies](https://user-images.githubusercontent.com/19977/58595462-9400ec00-8225-11e9-8df5-b1c60312f9c6.jpg)](https://amzn.to/2Qr31t1)
 
