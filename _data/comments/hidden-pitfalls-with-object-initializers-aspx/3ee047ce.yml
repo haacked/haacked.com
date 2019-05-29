@@ -1,0 +1,8 @@
+id: 3ee047ce
+date: 2019-05-29T18:53:20.2377209Z
+name: Matthieu Penant
+avatar: https://github.com/Thieum.png
+message: >-
+  This doesn't seem to apply anymore - https://github.com/code-cracker/code-cracker/issues/857
+
+  FxCopAnalyzer from https://github.com/dotnet/roslyn-analyzers will not warn anymore.
