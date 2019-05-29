@@ -17,7 +17,7 @@ If long-time GitHub users are not aware of these features, what about people new
 
 [![GitHub For Dummies](https://user-images.githubusercontent.com/19977/58595462-9400ec00-8225-11e9-8df5-b1c60312f9c6.jpg)](https://amzn.to/2Qr31t1)
 
-The book is [GitHub for Dummies](https://amzn.to/2Qr31t1). [Sarah Guthals](https://twitter.com/sarahguthals) and I wrote the book to help people understand how to make effective use of GitHub. Sarah and I worked at together at GitHub. She ran the team that built the GitHub extension for Visual Studio, Atom, Unity, and VS Code. Today she's making waves over at Microsoft.
+The book is [GitHub for Dummies](https://amzn.to/2Qr31t1). [Sarah Guthals](https://twitter.com/sarahguthals) and I wrote the book to help people understand how to make effective use of GitHub. Sarah and I worked at together at GitHub. She ran the team that built the GitHub extension for Visual Studio, Atom, Unity, and VS Code. Today she's making waves over at Microsoft. Between the two of us, we have an immense amount of experience building software using GitHub.
 
 The book covers a lot of interesting topics. Some of my favorites are the chapters that cover both sides of working on an open source repository. It contains great tips on how to be a good contributor (pro tip: put away that sense of entitlement) and how to be a good maintainer (pro tip: be kind and take care of your own health first). The book exposes a lot of less well known features in the context of a typical developer workflow.
 
