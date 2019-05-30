@@ -3,6 +3,7 @@ title: "GitHub for Dummies"
 description: "An announcement of a new book I wrote with Sarah Guthals to help developers get the most out of using GitHub!"
 tags: [github,oss,books]
 excerpt_image: https://user-images.githubusercontent.com/19977/58595462-9400ec00-8225-11e9-8df5-b1c60312f9c6.jpg
+redirect_from: "/archive/2019/06/01/github-for-dummies/"
 ---
 
 Millions of years ago, Zach Holman gave a great talk about [How GitHub uses GitHub to build GitHub](https://zachholman.com/talk/how-github-uses-github-to-build-github/). The talk focused a lot on GitHub's approach to coordinating work on [github.com](https://github.com/), the software.
