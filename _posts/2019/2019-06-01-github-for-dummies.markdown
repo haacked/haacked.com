@@ -1,6 +1,6 @@
 ---
 title: "GitHub for Dummies"
-description: "..."
+description: "An announcement of a new book I wrote with Sarah Guthals to help developers get the most out of using GitHub!"
 tags: [github,oss,books]
 excerpt_image: https://user-images.githubusercontent.com/19977/58595462-9400ec00-8225-11e9-8df5-b1c60312f9c6.jpg
 ---
