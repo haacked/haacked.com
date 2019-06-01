@@ -28,4 +28,4 @@ Another nice aspect of this feature is you can apply it retroactively on a comme
 
 Suggested changes is extremely useful for small fixes. I've found it very useful when collaborating on markdown documents in a repository with others.
 
-If you found this tip useful, there's many more like it in the [GitHub for Dummies book](https://amzn.to/2Qr31t1) that I and [my co-author Sarah Guthals wrote](https://haacked.com/archive/2019/05/30/github-for-dummies/)! I'll be blogging some more tips that are in the book.
+If you found this tip useful, there's many more like it in the [GitHub for Dummies book](https://amzn.to/2Qr31t1) that I and [my co-author Sarah Guthals wrote](https://haacked.com/archive/2019/05/30/github-for-dummies/)! I'll be blogging some more tips from the book.
