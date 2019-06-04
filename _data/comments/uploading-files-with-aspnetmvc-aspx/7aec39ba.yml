@@ -1,0 +1,22 @@
+id: 7aec39ba
+date: 2019-06-04T12:02:40.6438044Z
+name: jay
+avatar: https://avatars.io/twitter//medium
+message: >2-
+     var ItemUploadFolderPath = "";
+
+              if (FileUpload != null && FileUpload.ContentLength > 0)
+
+              {
+
+                  var fileName = Path.GetFileName(FileUpload.FileName);
+
+                  var path = Path.Combine(Server.MapPath("~/images/"), fileName);
+
+                  FileUpload.SaveAs(path);
+
+                  ItemUploadFolderPath = "~/images/" + fileName;
+
+                  p.ProductImage = ItemUploadFolderPath;
+
+              }
