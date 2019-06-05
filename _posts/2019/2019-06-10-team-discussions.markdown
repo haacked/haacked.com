@@ -18,3 +18,7 @@ Click on a team name to navigate to the team discussion page. The format of the 
 When you start a discussion, you can specify if it should be public to the entire org or private to the specific team.
 
 ![Starting a discussion](https://user-images.githubusercontent.com/19977/58995127-cb344780-87a7-11e9-9c0a-cd242bc2f81e.png)
+
+When I was running the Client Apps team at GitHub, I would post a weekly "newsletter" as a team discussion for my entire team. I called it the CACAW which stood for Completely Awesome Client Apps Weekly. This was a way that I could relay important information I thought my team should know, give kudos for successes within the group, and solicit feedback on what I had been working on and what I see as our priorities. It was my way of keeping the team informed and aligned. That's just one possible use for team discussions.
+
+Team Discussions work a lot like issues. So when do you start a discussion vs an issue. In general, if there's a...
