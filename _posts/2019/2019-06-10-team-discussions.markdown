@@ -2,12 +2,22 @@
 title: "Discuss amongst yourselves on GitHub"
 description: "The Team Discussions feature is a great way for your team to have open ended discussions on GitHub without having to leave GitHub."
 tags: [github,oss,tip]
-excerpt_image: https://user-images.githubusercontent.com/19977/58995077-99bb7c00-87a7-11e9-85b6-4a57270e1c95.png
+excerpt_image: https://user-images.githubusercontent.com/19977/37788571-fa91d55e-2dbe-11e8-961d-f8f13ad65b2e.jpg
 ---
 
-How do you organize the activities of a distributed group? The group might be a team within a company, an open source project, or even an open source foundation. Without the right tools, it is difficult.
+When I ran the Client Apps team at GitHub, I would post a weekly "newsletter" via [the team discussions feature on GitHub](https://help.github.com/en/articles/about-team-discussions). I named it the CACAW which stood for Completely Awesome Client Apps Weekly. The name gave me an excuse to highlight each letter with a crow themed image. I ran out of these in short order.
 
-I was in a group like this. We started off with email as our communication tool. Email is terrible for this. So terrible that we _weren't_ sending emails to each other and thus not making any progress.
+![Am I taking this crow thing too far?](https://user-images.githubusercontent.com/19977/37788571-fa91d55e-2dbe-11e8-961d-f8f13ad65b2e.jpg)
+
+This newsletter gave me a channel to relay information important to my team. It was also a place to celebrate our successes as a team and give out kudos. And at the end of each one, I asked for feedback either by a comment on the discussion or through private channels. It was my way of keeping the team informed and aligned.
+
+The use of team discussions helped us feel like a coherent team. Distributed teams have a tendency to feel like a collection of seeds strewn about by the wind. We used discussions to reinforce our identity as a team with a common mission. This is one way this feature cane be useful. There are many other great uses for it.
+
+## Coordinating Distributed Teams
+
+For example, how do you organize the activities of a distributed group? The group might be a team within a company, an open source project, or even an open source foundation. Without the right tools, it is difficult.
+
+I was recently in a group like this. We started off with email as our communication tool. Email is terrible for this. So terrible that we _weren't_ sending emails to each other and thus not making any progress.
 
 I managed to convince the group to give [the team discussions feature on GitHub](https://help.github.com/en/articles/about-team-discussions) a try. Many of these folks were longtime GitHub users, yet they had no idea this feature existed. I don't blame them of course. The feature is only available if you're a member of an [organization on GitHub](https://help.github.com/en/articles/about-organizations).
 
@@ -33,10 +43,3 @@ Often, discussions are the precursor to one or more issues. The participants of 
 
 Another important distinction between issues and discussions is the scope. Issues are specific to a repository. A discussion is specific to a team and may span many repositories. A discussion may be more suitable to coordinate work across many projects than an issue.
 
-When I ran the Client Apps team at GitHub, I would post a weekly "newsletter" via the team discussions feature. I named it the CACAW which stood for Completely Awesome Client Apps Weekly. The name gave me an excuse to highlight each letter with a crow themed image. I ran out of these in short order.
-
-![Am I taking this crow thing too far?](https://user-images.githubusercontent.com/19977/37788571-fa91d55e-2dbe-11e8-961d-f8f13ad65b2e.jpg)
-
-This newsletter gave me a channel to relay information important to my team. It was also a place to celebrate our successes as a team and give out kudos. And at the end of each one, I asked for feedback either by a comment on the discussion or through private channels. It was my way of keeping the team informed and aligned.
-
-The use of team discussions helped us feel like a coherent team. Distributed teams have a tendency to feel like a collection of seeds strewn about by the wind. We used discussions to reinforce our identity as a team with a common mission. This is one way this feature cane be useful. There are many other great uses for it.
