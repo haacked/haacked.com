@@ -11,9 +11,9 @@ When I ran the Client Apps team at GitHub, I would post a weekly "newsletter" vi
 
 This newsletter gave me a channel to relay information important to my team. It was also a place to celebrate our successes as a team and give out kudos. And at the end of each one, I asked for feedback either by a comment on the discussion or through private channels. It was my way of keeping the team informed and aligned.
 
-The use of team discussions helped us feel like a coherent team. Distributed teams have a tendency to feel like a collection of seeds strewn about by the wind. We used discussions to reinforce our identity as a team with a common mission. This is one way this feature cane be useful. There are many other great uses for it.
+The use of team discussions helped us feel like a coherent team. Distributed teams have a tendency to feel like a collection of seeds strewn about by the wind. We used discussions to reinforce our identity as a team with a common mission. This is one way this feature can be useful. There are many other great uses for it.
 
-## Coordinating Distributed Teams
+## Coordinating Distributed Teams With Discussions
 
 For example, how do you organize the activities of a distributed group? The group might be a team within a company, an open source project, or even an open source foundation. Without the right tools, it is difficult.
 
