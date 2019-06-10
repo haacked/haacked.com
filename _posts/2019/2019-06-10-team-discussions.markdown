@@ -47,4 +47,4 @@ Often, discussions are the precursor to one or more issues. The participants of 
 
 Another important distinction between issues and discussions is the scope. Issues are specific to a repository. A discussion is specific to a team and may span many repositories. A discussion may be more suitable to coordinate work across many projects than an issue.
 
-Now that you know about this feature, I hope you find it useful within your own teams.
+If you found this tip useful, there's many more like it in the [GitHub for Dummies book](https://amzn.to/2Qr31t1) that I and [my co-author Sarah Guthals wrote](https://haacked.com/archive/2019/05/30/github-for-dummies/)! I'll be blogging some more tips from the book.
