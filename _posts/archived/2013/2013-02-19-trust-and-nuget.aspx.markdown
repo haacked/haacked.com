@@ -1,6 +1,6 @@
 ---
 title: Trust and NuGet
-tags: [nuget]
+tags: [nuget,oss,security]
 redirect_from: "/archive/2013/02/18/trust-and-nuget.aspx/"
 ---
 
