@@ -9,7 +9,7 @@ It happened [again](https://twitter.com/bcrypt/status/1136714575770816512). A gr
 
 > Yesterday, the npm, Inc. security team, in collaboration with Komodo, helped protect over $13 million USD in cryptocurrency assets as we found and responded to a malware threat targeting the users of a cryptocurrency wallet called Agama.
 
-![Guards](https://user-images.githubusercontent.com/19977/59305523-420d8c80-8c4f-11e9-86de-5c48576298e9.png)
+![They will guard your package](https://user-images.githubusercontent.com/19977/59305523-420d8c80-8c4f-11e9-86de-5c48576298e9.png)
 
 The bad news is this is just the attempt we know about.
 
