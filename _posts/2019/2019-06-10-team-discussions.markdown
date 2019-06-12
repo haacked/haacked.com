@@ -13,7 +13,7 @@ I tried to invoke every possible pun on crows I could find. It did not take long
 
 Distributed teams have a tendency to feel like a collection of seeds strewn about by the wind. This newsletter gave me a channel to relay information important to my team. It was also a place to celebrate our successes as a team and give out kudos. And at the end of each one, I asked for feedback through public or private channels. It was my attempt to reinforce a shared identity as a team with a common mission.
 
-I felt like the newsletter was a success, and a part of its succes was that I didn't send it out as an email. I had a better tool at my disposal.
+I felt like the newsletter was a success, and a part of its success was that I didn't send it out as an email. I had a better tool at my disposal.
 
 ## Coordinating Distributed Teams With Discussions
 
