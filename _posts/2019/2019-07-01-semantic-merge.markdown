@@ -1,59 +1,84 @@
-## Method Move
+---
+title: "..."
+description: "..."
+tags: [git]
+excerpt_image: ...
+---
 
-Initial commit
+Raise your hand if you enjoy merge conflicts. I'll go out on a limb and guess that nobody has a hand up. If you do have your hand up - first, you look silly right now. I can't see you. And second, you're being contrarian. Nobody likes merge conflicts. They're a hassle.
 
-```csharp
-using System.Net;
+I know the data backs me up here. When I started at GitHub, I worked on a Git client. If you can avoid it, never work on a Git client. It's painful. The folks that build these things are true heroes in my book. All of them.
 
-public interface ISocket
-{
-    string GetHostName(IPAddress address);
-    void Listen();
-    void Connect(IPAddress address);
-    int Send(byte[] buffer);
-    int Receive(byte[] buffer);
-}
+Anyways, the most frequent complaint we heard from our users had to do with merge conflicts. It trips up so many developers, whether new or experienced. We ran some surveys and we'd often hear things along the lines of this...
+
+> When I run into a merge conflict on GitHub, I flip my desk, set it all on fire, and `git reset HEAD --hard` and just start over.
+
+## Conflict Reduction
+
+Here's the dirty little secret of Git. Git has no idea what you're doing. As far as Git is concerned, you just tappety tap a bunch of random characters into a file. Ok, that's not fair to Git. It does understand a little bit about the structure of text and code. But not a lot.
+
+If it did understand the structure and semantics of code, it could reduce the number of merge conflicts by a significant amount. Let me provide a few examples. We'll assume two developers are collaborating on each example, Alice and Bob. Bob only works on `master` and Alice works in branches. Be like Alice.
+
+In each of these examples, I try to keep them as simple as possible. They're all single file, though the concepts work if you work in separate files too. 
+
+## Method Move Situation
+
+In this scenario, Bob creates an interface for a socket server. He just jams everything into a single interface.
+
+__Bob: Initial Commit on `master`__
+
+```diff
++public interface ISocket
++{
++    string GetHostName(IPAddress address);
++    void Listen();
++    void Connect(IPAddress address);
++    int Send(byte[] buffer);
++    int Receive(byte[] buffer);
++}
 ```
 
-Developer 2 creates branch `separate-client-server` and renames `ISocket` to `ICllientSocket`. Developer also moves methods `Listen` and `Receive` into a new interface, `IServerSocket`.
+Now Alice comes along and thinks, we should separate this into an interface for clients and another for servers. So she creates branch `separate-client-server` and creates the `IServerSocket` interface. She then renames `ISocket` to `IClientSocket`. She also moves the methods `Listen` and `Receive` into the `IServerSocket` interface.
 
-```csharp
-using System.Net;
+__Alice: Commit on `separate-client-server`__
 
-public interface IClientSocket
-{
-    string GetHostName(IPAddress address);
-    void Connect(IPAddress address);
-    int Send(byte[] buffer);
+```diff
+-public interface ISocket
++public interface IClientSocket
+ {
+     string GetHostName(IPAddress address);
+-    void Listen();
+     void Connect(IPAddress address);
+     int Send(byte[] buffer);
+-    int Receive(byte[] buffer);
 }
-
-public interface IServerSocket
-{
-    void Listen();
-    int Receive(byte[] buffer);
-}
++
++public interface IServerSocket
++{
++    void Listen();
++    int Receive(byte[] buffer);
++}
 ```
 
-Meanwhile, back on the `master` branch. The original developer moves `GetHostName` into a new interface, `IDns`
+Meanwhile, back on the `master` branch. Bob moves `GetHostName` into a new interface, `IDns`
 
-```csharp
-using System.Net;
-
-public interface ISocket
-{
-    void Listen();
-    void Connect(IPAddress address);
-    int Send(byte[] buffer);
-    int Receive(byte[] buffer);
-}
-
-public interface IDns
-{
-    string GetHostName(IPAddress address);
-}
+```diff
+ public interface ISocket
+ {
+-    string GetHostName(IPAddress address);
+     void Listen();
+     void Connect(IPAddress address);
+     int Send(byte[] buffer);
+     int Receive(byte[] buffer);
+ }
++
++public interface IDns
++{
++    string GetHostName(IPAddress address);
++}
 ```
 
-Now Developer 1 tries to merge the `separate-client-server` branch into master and runs into conflicts. Boo hoo.
+Now Bob tries to merge the `separate-client-server` branch into `master` and Git reports a merge conflict. Boo hoo.
 
 ```diff
  using System.Net;
@@ -85,139 +110,9 @@ Now Developer 1 tries to merge the `separate-client-server` branch into master a
 +>>>>>>> separate-client-server
 ```
 
-## Divergent Move
+You see, as far as Git is concerned, both developers just changed some text in the same place. It doesn't understand that Alice and Bob are extracting interfaces and moving methods around.
 
-We start with
+But what if it did? This is where semantic diff and semantic merge come into play. I'm an advisor to Códice Software who are deep in this space. One of their products, [gmaster](https://gmaster.io/) is a Git client that incorporates their [Semantic Merge technology](https://semanticmerge.com/).
 
-```csharp
-public interface IStudent
-{
-    string Name { get; }
-    string Teacher { get; }
-    IClass Class { get; }
-}
+Here's what happens when I run into this situation with gmaster.
 
-public interface IClass
-{
-    string Name { get; }
-    string Subject { get; }
-}
-
-public interface IEnrollment
-{
-    IStudent Student { get; }
-    IClass Class { get; }
-}
-```
-
-Then in a branch named `move-teacher-to-class` we move the `Teacher` property from `IStudent` to the `IClass` interface. We also add a `Grade` property to `IStudent`. This results in these changes:
-
-```diff
- public interface IStudent
- {
-     string Name { get; }
--    string Teacher { get; }
-+    int Grade { get; }
-     IClass Class { get; }
- }
- 
- public interface IClass
- {
-     string Name { get; }
-     string Subject { get; }
-+    string Teacher { get; }
- }
-```
-
-Meanwhile, on `master`, a different developer moves the `Teacher` property from `IStudent` to the `IEnrollment` interface.
-
-```diff
- public interface IStudent
- {
-     string Name { get; }
--    string Teacher { get; }
-     IClass Class { get; }
- }
-
- public interface IEnrollment
- {
-     IStudent Student { get; }
-     IClass Class { get; }
-+    string Teacher { get; }
- }
-```
-
-Now what happens when we merge `move-teacher-to-class` into `master`?
-
-```diff
- public interface IStudent
- {
-     string Name { get; }
-+<<<<<<< HEAD
-+=======
-+    int Grade { get; }
-+>>>>>>> move-teacher-to-class
-     IClass Class { get; }
- }
-
-public interface IClass
- {
-     string Name { get; }
-     string Subject { get; }
-+    string Teacher { get; }
- }
-```
-
-Git notices the conflict in the `IStudent` class. One developer removed a property. Another developer added a property. But something else interesting happened here that Git did not notice. We have a divergent move situation here. Both developers moved the `Teacher` property to different branches. Let's see how gmaster handles this.
-
-## Multiple usings
-
-```csharp
-using System;
-using System.Collections;
-
-public class Main
-{
-}
-```
-
-On a branch, add `using System.Diagnostics` after `using System;`
-
-```diff
-using System;
-+using System.Diagnostics;
-using System.Collections;
-
-public class Main
-{}
-```
-
-Meanwhile, on `master`, the developer adds `using System.IO` after `using System` and adds `using System.Diagnostics` to the end of the usings section.
-
-```diff
-using System;
-+using System.IO;
-using System.Collections;
-+using System.Diagnostics;
-
-public class Main
-{
-}
-```
-
-This results in the following conflict.
-
-```diff
-using System;
-<<<<<<< HEAD
-using System.IO;
-=======
-using System.Diagnostics;
->>>>>>> add-using
-using System.Collections;
-using System.Diagnostics;
-
-public class Main
-{
-}
-```
