@@ -1,0 +1,18 @@
+id: 4f44f128
+date: 2019-06-20T12:34:45.8974556Z
+name: Crazy Nutt
+avatar: https://secure.gravatar.com/avatar/9aa1f99b0b152ef7aca4d34e70100072?s=80&d=identicon&r=pg
+message: >-
+  What you are saying is: data should not executable! Would be nice, but this starts with the fact that JSON in Javascript is how values are initialised, and that is done by executing the data. And this is really convenient.
+
+
+
+  Personally I think the real problem is that modern languages are too clever by half. Why, for example, are you able to override the basic setter? When is this ever necessary. And if you tell me that comes from the way virtual functions are implemented, then I can only say that there are other ways of doing this.
+
+
+
+  Quite frankly, the language would be quite useable, without being able to re-assign every method that exists! If people want a JSON object to instantiate as anything other than the basic Object, then we could force them to be explicit in the JSON syntax.
+
+
+
+  In the end, this would be much safer, because people would not be able to just do whatever they like with your data!
