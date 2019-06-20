@@ -1,0 +1,5 @@
+id: c5a6cd87
+date: 2019-06-20T15:49:23.9626115Z
+name: Dan Vicarel
+avatar: https://secure.gravatar.com/avatar/28a449026a2de59dcbea4da40d8dd4a1?s=80&d=identicon&r=pg
+message: Great article, I've been debating to whether to sign a package myself! Another important use case that you didn't mention is the Package Manager built into Visual Studio. I've been testing installations of unsigned packages in a project with a nuget.config file, and I've gotten to the point where the NuGet command line (nuget.exe) will fail to install an unsigned package (NU3034), but the VS Package Manager succeeds. I feel like most "lay" NuGet users are using the Package Manager, so if it can't verify package signatures then the feature is definitely not doing us any good! Curious if you were able to get unsigned package installs to fail in VS during your testing...
