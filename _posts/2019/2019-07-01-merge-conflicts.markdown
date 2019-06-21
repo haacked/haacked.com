@@ -5,9 +5,13 @@ tags: [git]
 excerpt_image: ...
 ---
 
-Some merge conflicts that Git cannot resolve automatically can be resolved by tools that understand the semantics of code. In a recent post, I [gave one simple example](https://haacked.com/archive/2019/06/17/semantic-merge/).
+When you merge two branches, there may be conflicting changes between the branches. Git can often resolve these differences without intervention. For example, when each branch has changes to different files or lines of code.
 
-What about the other case? Are there situations where Git automatically resolves changes that it shouldn't? Of course the answer is yes, or I wouldn't pose the question and write this post.
+But sometimes each branch has changes that Git cannot resolve without help. For example, if two developers change the same line of code. Or if one developer deletes a file, but the other changed the file. In these situations, Git fails the merge operation and reports a merge conflict.
+
+This occurs more often than we'd like because Git doesn't understand the semantics of code. A tool that did understand code semantics could resolve many (but not all) of these conflicts. In my last post, I gave an example of a merge conflict that a semantic tool can resolve automatically.
+
+What about the opposite situation? Are there cases where Git automatically resolves changes that it shouldn't? Of course the answer is yes, or I wouldn't pose the question and write this post.
 
 ## Multiple usings
 
@@ -77,9 +81,7 @@ To be fair, the duplicate usings issue is very minor. It doesn't affect the corr
 
 ## Divergent Move
 
-
-
-We start with
+This scenario is a bit of an edge case, but more likely to cause problems with the final code. Here we start with an initial commit by Bob with a set of three simple interfaces.
 
 ```csharp
 public interface IStudent
@@ -102,7 +104,7 @@ public interface IEnrollment
 }
 ```
 
-Then in a branch named `move-teacher-to-class` we move the `Teacher` property from `IStudent` to the `IClass` interface. We also add a `Grade` property to `IStudent`. This results in these changes:
+Alice creates a branch named `move-teacher-to-class` and moves the `Teacher` property from `IStudent` to the `IClass` interface. She also adds a `Grade` property to `IStudent`. This results in these changes:
 
 ```diff
  public interface IStudent
@@ -121,7 +123,7 @@ Then in a branch named `move-teacher-to-class` we move the `Teacher` property fr
  }
 ```
 
-Meanwhile, on `master`, a different developer moves the `Teacher` property from `IStudent` to the `IEnrollment` interface.
+Meanwhile, on `master`, Bob moves the `Teacher` property from `IStudent` to the `IEnrollment` interface.
 
 ```diff
  public interface IStudent
@@ -139,7 +141,7 @@ Meanwhile, on `master`, a different developer moves the `Teacher` property from 
  }
 ```
 
-Now what happens when we merge `move-teacher-to-class` into `master`?
+Now what happens when Bob merges `move-teacher-to-class` into `master`?
 
 ```diff
  public interface IStudent
@@ -160,5 +162,18 @@ public interface IClass
  }
 ```
 
-Git notices the conflict in the `IStudent` class. One developer removed a property. Another developer added a property. But something else interesting happened here that Git did not notice. We have a divergent move situation here. Both developers moved the `Teacher` property to different branches. Let's see how gmaster handles this.
+Git notices the conflict in the `IStudent` class. One developer removed a property. Another developer added a property. But something else interesting happened here that Git did not notice. We have a divergent move situation here. Both developers moved the `Teacher` property to different interfaces. Let's see how gmaster handles this. When we launch the Merge Tool from within gmaster, we get this.
 
+![Gmaster Merge Tool notices divergent move](https://user-images.githubusercontent.com/19977/59949820-1d709c00-9429-11e9-8443-2029ee19b017.PNG)
+
+Notice that gmaster resolves the conflict in `IStudent` that Git reported. Because it understands C#, it understands this change isn't actually in conflict.
+
+However, gmaster does notice another conflict that Git did _not_ report. gmaster reports that the `Teacher` property was moved in each branch to two different locations. That is indicative of a semantic conflict. You can click on "Explain Move" to get a semantic visualization of the change.
+
+![The divergent move explained in a class diagram](https://user-images.githubusercontent.com/19977/59949802-121d7080-9429-11e9-8060-d31be1e2b19d.png)
+
+## Limitations
+
+There are other conflict scenarios that a semantic tool in theory could resolve. For example, suppose you rename a variable in one branch. Another developer in another branch makes use of the old variable name. When you merge the two branches, it would be nice if the merge tool could resolve that conflict.
+
+As I write this, gmaster doesn't yet handle this situation. The creators of gmaster want to make sure that people find the existing tools useful before investing in deeper semantic merge scenarios.
