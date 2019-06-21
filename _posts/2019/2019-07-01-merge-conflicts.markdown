@@ -1,8 +1,8 @@
 ---
-title: "..."
+title: "When Git Resolves Changes It Shouldn't"
 description: "..."
-tags: [git]
-excerpt_image: ...
+tags: [git,semantic]
+excerpt_image: https://user-images.githubusercontent.com/19977/59949820-1d709c00-9429-11e9-8443-2029ee19b017.PNG
 ---
 
 When you merge two branches, there may be conflicting changes between the branches. Git can often resolve these differences without intervention. For example, when each branch has changes to different files or lines of code.
@@ -173,6 +173,10 @@ However, gmaster does notice another conflict that Git did _not_ report. gmaster
 ![The divergent move explained in a class diagram](https://user-images.githubusercontent.com/19977/59949802-121d7080-9429-11e9-8060-d31be1e2b19d.png)
 
 ## Limitations
+
+In the scenario I presented here, there's an important caveat. As I write this, gmaster relies on Git to detect conflicts. If Alice hadn't added the `Grade` property to `IStudent`, Git would not have reported a conflict. In that case, gmaster would not intervene to report the divergent move. Should a tool like gmaster intervene on every merge? That's an interesting question for the gmaster product team. In theory they could build a [custom Git merge driver](http://www.mcclellandlegge.com/2017-03-20-customgitmergedriver/) that understands the semantic of code.
+
+## Future Exploration
 
 There are other conflict scenarios that a semantic tool in theory could resolve. For example, suppose you rename a variable in one branch. Another developer in another branch makes use of the old variable name. When you merge the two branches, it would be nice if the merge tool could resolve that conflict.
 
