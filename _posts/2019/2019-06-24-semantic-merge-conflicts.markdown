@@ -1,6 +1,6 @@
 ---
 title: "When Git Resolves Changes It Shouldn't"
-description: "..."
+description: "Sometimes, git resolves changes when merging branches that it shouldn't. This is because Git doesn't understand the semantics of code. If it did, it would know these changes to be conflicting."
 tags: [git,semantic]
 excerpt_image: https://user-images.githubusercontent.com/19977/59949820-1d709c00-9429-11e9-8443-2029ee19b017.PNG
 ---
