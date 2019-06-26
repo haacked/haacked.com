@@ -1,0 +1,22 @@
+id: 9b3cd716
+date: 2019-06-26T11:50:48.4104465Z
+name: tobi
+avatar: https://avatars.io/twitter//medium
+message: >-
+  Another solution is updating packages rarely (like every 3 month). That way there is a smaller time window in which an attack is possible.
+
+
+
+  It seems quite ridiculous to me that these days many people let their build servers pull *arbitrary binaries* from internet sources and deploy them top production. The whole methodology is fundamentally insecure. Why is nobody noticing this?
+
+
+
+  I worked with a financial software company which banned NuGet because of this. (This was a mistake - this should have allowed NuGet but updated rarely and vetted the updates).
+
+
+
+  Unfortunately, the whole .NET ecosystem has gone package crazy. There are daily updates with unimportant changes and dependency hell forces you to update everything at once essentially. It's terrible.
+
+
+
+  Besides the security issues all of this creates a lot of work for little in return.
