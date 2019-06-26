@@ -2,7 +2,7 @@
 title: "When Git Resolves Changes It Shouldn't"
 description: "Sometimes, git resolves changes when merging branches that it shouldn't. This is because Git doesn't understand the semantics of code. If it did, it would know these changes to be potential conflicts."
 tags: [git,semantic]
-excerpt_image: https://user-images.githubusercontent.com/19977/59949820-1d709c00-9429-11e9-8443-2029ee19b017.PNG
+excerpt_image: https://user-images.githubusercontent.com/19977/60196319-b7ea2a00-97f1-11e9-9f47-18a002abebd0.PNG
 ---
 
 When you merge two branches, there may be conflicting changes between the branches. Git can often resolve these differences without intervention. For example, when each branch has changes to different files or lines of code.
@@ -20,7 +20,7 @@ Let's start with something that you're likely to run into if you're a .NET devel
 ```csharp
 using System;
 using System.Collections;
-using System.Console;
+using System.Collections.Generic;
 
 public class Main
 {
@@ -34,7 +34,7 @@ Alice creates a branch named `diagnostics` and adds a couple using statements.
 +using System.Text;
  using System.Collections;
 +using System.Diagnostics;
- using System.Console;
+ using System.Collections.Generic;
 
  public class Main
  {}
@@ -46,7 +46,7 @@ Meanwhile, on `master`, Bob adds `using System.IO` in the same place where Alice
  using System;
 +using System.IO;
  using System.Collections;
- using System.Console;
+ using System.Collections.Generic;
 +using System.Diagnostics;
 
  public class Main
@@ -65,7 +65,7 @@ Now Bob tries to merge Alice's branch `diagnostics` into `master`. This results 
  >>>>>>> diagnostics
  using System.Collections;
  using System.Diagnostics;
- using System.Console;
+ using System.Collections.Generic;
  using System.Diagnostics;
 ```
 
@@ -73,7 +73,7 @@ Git reports a conflict with the second line because Alice added `System.Text` th
 
 What happens in gmaster when we launch the semantic merge tool?
 
-![gmaster resolves the conflict and duplicate usings](https://user-images.githubusercontent.com/19977/59700793-00c63100-91a9-11e9-8bf6-af1d7798920c.PNG)
+![gmaster resolves the conflict and duplicate usings](https://user-images.githubusercontent.com/19977/60196319-b7ea2a00-97f1-11e9-9f47-18a002abebd0.PNG)
 
 Because gmaster understands C#, it is not only able to automatically resolve the conflict, it resolves the duplicate usings as well.
 
