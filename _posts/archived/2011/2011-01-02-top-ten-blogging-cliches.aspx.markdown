@@ -66,7 +66,7 @@ right?[![stones-on-a-beach](https://haacked.com/images/haacked_com/WindowsLiveWr
     triangle thingy that holds the pizza box up away from the cheese.
     Really, that thing is awesome! Maybe your project is better than
     that, but if you can’t talk about it yet, you’re just wasting
-    bandwidth. Once again, shut your pie hole until you *can* talk about
+    [bandwidth](https://hosting.review/web-hosting-glossary/#16). Once again, shut your pie hole until you *can* talk about
     it.
 8.  **Top ten lists, for all values of “ten”:**Top ten (or eight, or
     eleven, or any number) lists are a cop out. You know it, I know it,
