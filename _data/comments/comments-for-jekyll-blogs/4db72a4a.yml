@@ -1,0 +1,10 @@
+id: 4db72a4a
+date: 2019-07-08T17:30:30.0197157Z
+name: Vincent Tam
+avatar: https://github.com/VincentTam.png
+message: >-
+  Staticman has been upgraded to v3.  It has Akismet support for spam filtering, but only one domain is supported according to the docs about API config.  One might self-host Staticman and merge PR 195 for user-defined Akismet.
+
+
+
+  Note the flexibility--convenience tradeoff.  Staticman is flexible and it gives *total* ownership over the comments, which are stored as data files inside the repo.  It's UI can be customized to the needs of the blogger, so the settings might be more involved than Isso and Disqus.
