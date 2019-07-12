@@ -2,7 +2,7 @@
 title: "Banish Merge Conflicts With Semantic Merge"
 description: "Merge conflicts are the bane of developers everywhere. What if we could use semantic understanding of code to reduce the time we spend resolving them."
 tags: [git,semantic]
-excerpt_image: https://user-images.githubusercontent.com/19977/59380002-f7eae080-8d0c-11e9-8b1d-b4ff5e764b8b.PNG
+excerpt_image: https://user-images.githubusercontent.com/19977/61091660-d65a4300-a3f7-11e9-9f98-dfecbe449b46.png
 ---
 
 Raise your hand if you enjoy merge conflicts. I'll go out on a limb and guess that nobody has a hand up. If you do have your hand up - first, you look silly right now. I can't see you. And second, you're being contrarian. Nobody likes merge conflicts. They're a hassle.
@@ -116,13 +116,13 @@ But what if it did? This is where semantic diff and semantic merge come into pla
 
 Here's what happens when I run into this situation with gmaster. The UI is a bit busy and confusing at first, but it's very powerful and you get used to it.
 
-![gmaster with a merge conflict](https://user-images.githubusercontent.com/19977/59379528-b4dc3d80-8d0b-11e9-886f-db6926a582fe.PNG)
+![gmaster with a merge conflict](https://user-images.githubusercontent.com/19977/61091707-01449700-a3f8-11e9-947d-b1a7da0d0f59.png)
 
 1. First, gmaster recognizes that Git reports a merge conflict. It doesn't resolve it automatically. This is by design. Merge resolution is as intentional act. There's probably a setting to allow it to automatically resolve conflicts it understands.
 2. Down below, gmaster displays a semantic diff. The diff shows that the method moved to a new interface. It knows what's going on here.
 3. Click the "Launch Merge Tool" to see the magic happen. This launches the semantic merge tool.
 
-![gmaster automatically resolves the conflict](https://user-images.githubusercontent.com/19977/59380002-f7eae080-8d0c-11e9-8b1d-b4ff5e764b8b.PNG)
+![gmaster automatically resolves the conflict](https://user-images.githubusercontent.com/19977/61091660-d65a4300-a3f7-11e9-9f98-dfecbe449b46.png)
 
 1. As you can see, the tool was able to automatically resolve the conflict. No manual intervention necessary.
 2. All you have to do is click Commit to complete the merge commit.

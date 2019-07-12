@@ -2,7 +2,7 @@
 title: "When Git Resolves Changes It Shouldn't"
 description: "Sometimes, git resolves changes when merging branches that it shouldn't. This is because Git doesn't understand the semantics of code. If it did, it would know these changes to be potential conflicts."
 tags: [git,semantic]
-excerpt_image: https://user-images.githubusercontent.com/19977/60196319-b7ea2a00-97f1-11e9-9f47-18a002abebd0.PNG
+excerpt_image: https://user-images.githubusercontent.com/19977/61091492-37354b80-a3f7-11e9-974a-27f8366243d4.png
 ---
 
 When you merge two branches, there may be conflicting changes between the branches. Git can often resolve these differences without intervention. For example, when each branch has changes to different files or lines of code.
@@ -73,7 +73,7 @@ Git reports a conflict with the second line because Alice added `System.Text` th
 
 What happens in gmaster when we launch the semantic merge tool?
 
-![gmaster resolves the conflict and duplicate usings](https://user-images.githubusercontent.com/19977/60196319-b7ea2a00-97f1-11e9-9f47-18a002abebd0.PNG)
+![gmaster resolves the conflict and duplicate usings](https://user-images.githubusercontent.com/19977/61091492-37354b80-a3f7-11e9-974a-27f8366243d4.png)
 
 Because gmaster understands C#, it is not only able to automatically resolve the conflict, it resolves the duplicate usings as well.
 
@@ -164,13 +164,13 @@ public interface IClass
 
 Git notices the conflict in the `IStudent` class. One developer removed a property. Another developer added a property. But something else interesting happened here that Git did not notice. We have a divergent move situation here. Both developers moved the `Teacher` property to different interfaces. Let's see how gmaster handles this. When we launch the Merge Tool from within gmaster, we get this.
 
-![Gmaster Merge Tool notices divergent move](https://user-images.githubusercontent.com/19977/59949820-1d709c00-9429-11e9-8443-2029ee19b017.PNG)
+![Gmaster Merge Tool notices divergent move](https://user-images.githubusercontent.com/19977/61091559-7c597d80-a3f7-11e9-8134-a90e35e3dcc7.png)
 
 Notice that gmaster resolves the conflict in `IStudent` that Git reported. Because it understands C#, it understands this change isn't actually in conflict.
 
 However, gmaster does notice another conflict that Git did _not_ report. gmaster reports that the `Teacher` property was moved in each branch to two different locations. That is indicative of a semantic conflict. You can click on "Explain Move" to get a semantic visualization of the change.
 
-![The divergent move explained in a class diagram](https://user-images.githubusercontent.com/19977/59949802-121d7080-9429-11e9-8060-d31be1e2b19d.png)
+![The divergent move explained in a class diagram](https://user-images.githubusercontent.com/19977/61091590-9bf0a600-a3f7-11e9-9ed9-42de4743d710.png)
 
 ## Limitations
 
