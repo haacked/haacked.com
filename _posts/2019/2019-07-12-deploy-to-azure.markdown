@@ -5,7 +5,7 @@ tags: [aspnet,azure]
 excerpt_image: https://user-images.githubusercontent.com/19977/61091391-e32a6700-a3f6-11e9-96d1-6ca90804ef27.png
 ---
 
-Azure has a neat feature that lets you run your [Azure Functions from a package file (aka a zip file)](https://docs.microsoft.com/en-us/azure/azure-functions/run-functions-from-deployment-package). This same feature also applies to Azure Web Apps, though you wouldn't know it from [the documentation on this option](https://docs.microsoft.com/en-us/azure/azure-functions/run-functions-from-deployment-package) which only mentions Azure Functions. I learned that from [the GitHub issue that announced the feature](https://github.com/Azure/app-service-announcements/issues/84).
+Azure has a neat feature that runs [Azure Functions from a package file (aka a zip file)](https://docs.microsoft.com/en-us/azure/azure-functions/run-functions-from-deployment-package). This same feature also applies to Azure Web Apps, though you wouldn't know it from [the documentation](https://docs.microsoft.com/en-us/azure/azure-functions/run-functions-from-deployment-package). The Run from Package docs only mention Azure Functions. [The GitHub issue that announced the feature](https://github.com/Azure/app-service-announcements/issues/84) makes it clear this also applies to Web Apps.
 
 > Run From Package is an exciting new feature which lets you run a Web App or Function App by simply pointing it to a zip file containing your files.
 
@@ -19,7 +19,17 @@ There are some cool benefits of this approach according to the docs.
 
 Performance doesn't seem to be an issue (caching is probably involved).
 
-## Defining some terms
+## The Punchline
+
+You're a busy developer, so I'll get right to the punchline. Nevermind that I spent hours to get this to work.
+
+If you're using Azure Pipelines to deploy to a Web App using this feature, most of the docs will point you to the [Azure App Service Deploy task](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/deploy/azure-rm-web-app-deployment?view=azure-devops). In the `azure-pipelines.yaml`, you invoke this task using `AzureRmWebAppDeployment@3`.
+
+I could not get that to work. Instead, I discovered another task, [Azure Web App](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/deploy/azure-rm-web-app?view=azure-devops) which you invoke with `AzureWebApp@1`. That's the one that worked for me.
+
+Read on to learn of my harrowing journey to discover this and more details on how to set this all up.
+
+## Define some terms
 
 Before I go further, let me clear up some terminology. Azure terminology keeps me in a constant state of confusion. For example, if you go to your portal, you won't see any navigation item for web apps.
 
@@ -31,15 +41,15 @@ What you're looking for is an App Service. Per [the App Service documentation](h
 
 A _Web App_ is one of the types of App Services. When you click on App Services in the left navigation, the portal displays a list of your app services. Your web apps will have an _App Type_ of _Web App_.
 
-What's confusing to me is that a _Function App_ is not listed in the documentation for Azure App Services. It is logically a first class citizen in its own right. But, when you list your App Services, you'll see Function Apps listed with the _App Type_ of _Function App_. I think they're pretty much implemented the same way, which is why Run From Package works for Web Apps as well as Function Apps.
+What's confusing to me is that a _Function App_ is not listed in the documentation for Azure App Services. It is logically a first class citizen in its own right. But, when you list your App Services, you'll see Function Apps listed with the _App Type_ of _Function App_. I assume they're mplemented the same way, which is why Run From Package works for Web Apps as well as Function Apps.
 
-## Configuring Run From Package
+## Configure Run From Package
 
 According to the docs,
 
 > To enable your function app to run from a package, you just add a `WEBSITE_RUN_FROM_PACKAGE` setting to your function app settings.
 
-To clarify, when they mention a "setting" here, it refers to an _Application Setting_. In the portal, you can set this by navigating to your App Service (Web App or Function App) and click on the _Configuration_ link under the _Settings_ heading in secondary navigation on the left.
+To clarify, when they mention a "setting" here, it refers to an _Application Setting_. In the portal, you can set this by navigating to your App Service (Web App or Function App). Then click on the _Configuration_ link under the _Settings_ heading in secondary navigation on the left.
 
 Make sure you're on the Application Settings tab and click _New application setting_ as shown in the screenshot.
 
@@ -56,11 +66,11 @@ According to the documentation:
 
 I like this option because in theory, it's less moving parts. However, to get it all to work turned out to be a pain because of some confusing documentation.
 
-### Creating the SitePackages folder
+## Create the SitePackages folder
 
-If you're running a Web App in App Services, Azure provides this really neat administrative Kudu website. Kudu is a deployment system for deploying web apps to Azure from many sources.
+If you're running a Web App in App Services, Azure provides this useful administrative Kudu website. Kudu is a deployment system for deploying web apps to Azure from many sources.
 
-To get to the website, you just need to append .scm to your web app's URL in the right place. For example, when you set up a web app, Azure will give you a URL that looks like: `https://my-app-name.azurewebsites.net`.
+To get to the website, append .scm to your web app's URL in the right place. For example, when you set up a web app, Azure will give you a URL that looks like: `https://my-app-name.azurewebsites.net`.
 
 All you have to do is insert `scm.` between your app name and `azurewebsites.net`. Thus in the example above, you'd visit `https://my-app-name.scm.azurewebsites.net` in your browser.
 
@@ -79,7 +89,7 @@ If you want to do a manual deployment to test out running from a package file, y
 
 Now you should be able to visit your site and see that it's running from the zip package.
 
-## Deploying from Azure Pipelines
+## Deploy from Azure Pipelines
 
 Maybe you're like me and aren't into that whole manual approach. I like my deployments like my transmissions, automatic.
 
@@ -89,7 +99,7 @@ If you recall, earlier I noted the following statement in the docs:
 
 A natural question is, what is a Zip Deploy? Well, [I found these docs](https://docs.microsoft.com/en-us/azure/azure-functions/deployment-zip-push). Those aren't helpful because I want to use Azure Functions to deploy the app.
 
-I then found this docemuntation on how to [Deploy an Azure Web App](https://docs.microsoft.com/en-us/azure/devops/pipelines/targets/webapp?view=azure-devops&tabs=yaml) which mentions the _Azure App Service Deploy task_ which is invoked via `AzureRmWebAppDeployment@3` when using Yaml with Azure pipelines.
+I then found this documentation on how to [Deploy an Azure Web App](https://docs.microsoft.com/en-us/azure/devops/pipelines/targets/webapp?view=azure-devops&tabs=yaml). It mentions the _Azure App Service Deploy task_ which is invoked via `AzureRmWebAppDeployment@3` when using Yaml with Azure pipelines.
 
 I read [the docs on that](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/deploy/azure-rm-web-app-deployment?view=azure-devops). It has a section with the heading _Run From Package_. Now we're getting somewhere. It states,
 
@@ -131,7 +141,7 @@ Long story short, this worked!
     deploymentMethod: runFromPackage
 ```
 
-Hopefully this saves you a lot of time and headache. The original reason I went down this path is all of my deploys were failing unless I stopped the Web App and then ran the deploy. I tried Web Deploy but that didn't work. I thought maybe Run From Package would be better.
+I didn't find much in the way of documentation that points to it as an option. Either way, I'm glad I found it and I hope this saves you time and keeps you from headaches.
 
 ## Adding Debug Logs to Azure Pipelines
 
