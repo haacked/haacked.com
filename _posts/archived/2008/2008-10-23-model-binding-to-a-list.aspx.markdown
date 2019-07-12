@@ -4,9 +4,8 @@ tags: [aspnetmvc]
 redirect_from: "/archive/2008/10/22/model-binding-to-a-list.aspx/"
 ---
 
-Download the **[sample
-project](http://code.haacked.com/mvc-2/ListModelBindingDemo.zip "ListModelBinding Demos")**
-to play with the code as you read this blog post.
+The **[sample
+project code is on GitHub](https://github.com/haacked/CodeHaacks/tree/master/src/ListModelBindingDemo "ListModelBinding Demos")**. You can play with the code as you read this blog post.
 
 Using the `DefaultModelBinder` in ASP.NET MVC, you can bind submitted
 form values to arguments of an action method. But what if that argument
@@ -193,8 +192,8 @@ render this out for you.
 When you’re creating a form to bind a list, add the following hidden
 input and it will add the appropriate hidden input to allow for a broken
 sequence of indices. **Use at your own risk!**I’ve only tested this in a
-couple of scenarios. I’ve **[included a sample
-project](http://code.haacked.com/mvc-2/ListModelBindingDemo.zip "ListModelBinding Demos")**
+couple of scenarios. I’ve **[included sample
+code](https://github.com/haacked/CodeHaacks/tree/master/src/ListModelBindingDemo "ListModelBinding Demos")**
 with multiple samples of binding to a list which includes the source
 code for this helper.
 
@@ -205,4 +204,3 @@ code for this helper.
 This is something we may consider adding to a future version of ASP.NET
 MVC. In the meanwhile, give it a whirl and let us know how it works out
 for you.
-
