@@ -53,7 +53,7 @@ To clarify, when they mention a "setting" here, it refers to an _Application Set
 
 Make sure you're on the Application Settings tab and click _New application setting_ as shown in the screenshot.
 
-![Screenshot of the Application Settings page](](https://user-images.githubusercontent.com/19977/61226960-427ac680-a6d8-11e9-8e2c-6c76a0d9677e.png)
+![Screenshot of the Application Settings page](https://user-images.githubusercontent.com/19977/61226960-427ac680-a6d8-11e9-8e2c-6c76a0d9677e.png)
 
 There are two values you can set for this setting.
 
