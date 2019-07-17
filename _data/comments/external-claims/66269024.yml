@@ -1,0 +1,10 @@
+id: 66269024
+date: 2019-07-17T13:05:14.6152117Z
+name: Alexandre Jobin
+avatar: https://secure.gravatar.com/avatar/7ddbb8e2c4c7ec5338911cafb9b3527c?s=80&d=identicon&r=pg
+message: >-
+  I have the very same question in my projects. When a user log with his social account and we create a local account with the information we get from the provider, we are duplicating the information: name, birthday, country, etc. How can we sync the information coming from the provider? Let's say that the user change his country in his Google account, we will still have the old one in our database. But we need that information persisted in our database because we do reports on that information.
+
+
+
+  Any idea how to deal with this situation?
