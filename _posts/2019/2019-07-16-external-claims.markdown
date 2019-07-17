@@ -5,7 +5,7 @@ tags: [aspnet,security]
 excerpt_image: https://user-images.githubusercontent.com/19977/61318768-a970ac00-a7ba-11e9-9041-83ce8e081809.png
 ---
 
-I love it when a web app lets me use my Google, GitHub, or Facebook account to log in. Chances are, I'm already logged into those sites, so it's one click to log into a new site. This is a great experience for users. It reduces the friction to registration and loggin in to your site. They're less likely to clam up.
+I love it when a website lets me use my Google, GitHub, or Facebook account to log in. Chances are, I'm already logged into those sites, so it's one click to log into a new site. This is a great experience for users. It reduces the friction to registration and loggin in to your site. They're less likely to clam up.
 
 It's easy to add external authentication to ASP.NET Core applications. For example, if you want users to log in with their Google or Facebook credentials, [follow these instructions](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/?view=aspnetcore-2.2&tabs=visual-studio).
 
