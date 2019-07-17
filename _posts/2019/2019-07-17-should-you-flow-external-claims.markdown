@@ -38,3 +38,9 @@ It keeps things simpler to manage. Suppose an employee legally changes their nam
 And if I turn out to be wrong, it'll be simple to change course and allow people to change their own information in the app. Until then, my app just tells people to go change their information in their company Google profile. I feel it's a valid minimum viable approach for now.
 
 If your app is using these social login providers to make it easier for the general public to log in, this approach is probably not for you.
+
+## Another Approach?
+
+One other possible approach that my last post enables is to offer a choice. In my app, I've made the identity provider the source of truth. But you may want to own the data as Brock suggests, but give your users a choice.
+
+When they log in, you can detect if any of these values have changed and offer to update the local information. For example, if their profile picture changes on Google, you can prompt them to update the image on your local site. Today, I do that with [IFTTT](https://ifttt.com) through [applets like this](https://ifttt.com/applets/qFZqXrvs-automatically-change-your-twitter-profile-pic-when-you-update-your-facebook-photo).
