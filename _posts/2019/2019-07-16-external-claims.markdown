@@ -27,15 +27,19 @@ Microsoft has a document, [Persist additional claims and tokens from external pr
 
 These steps require editing the `OnPostConfirmationAsync` method of `ExternalLogin.cshtml.cs`. When a user authenticates with an external provider for the first time, they won't have a local account. The `ExternalLogin` page displays the email address received from the provider and prompts the user to confirm their account information by submitting the form. When they submit the form, `OnPostConfirmationAsync` handles that post request.
 
-## Problems with this approach
+## Problems With This Approach
 
-There's a few issues with this approach. The first is that this only persists these claims when the user creates a local account. Subsequent logins won't update the claim with this approach. So if the user updates their profile pic on Google, your site won't receive that change by default.
+There's a few issues with this approach for my needs. The first is that this only persists these claims when the user creates a local account. Subsequent logins won't update the claim with this approach. So if the user updates their profile pic on Google, your site won't receive that change by default.
 
 The second issue is this updates a scaffolded page. Not terrible, but I try to keep updates to scaffolded pages to a minimum. That way, there's not too much to change when the next version of ASP.NET Core comes out and I want to use the updated Identity pages.
 
 Another issue is this, what if I don't even want to persist these claims. There may be some claims I always want to pull from the provider each time they log in. I don't have to worry about the logic of storing them. __How do I flow these external claims into the local claims without persisting them?__
 
-## I Don't Claim to have all the answers
+## But First, Should I Do This?
+
+What I'm trying to do here is unusual and probably does NOT meet the needs of your app. I wrote a [follow-up post covering why I'm doing this](https://haacked.com/archive/2019/07/17/should-you-flow-external-claims/). Most apps should not.
+
+## I Don't Claim to Have All the Answers
 
 Turns out, this is not so simple. In researching this, I started to get a bit clammy. Perhaps it doesn't make sense to do it at all. There's an [existing issue that explains why](https://github.com/aspnet/Identity/issues/628).
 
