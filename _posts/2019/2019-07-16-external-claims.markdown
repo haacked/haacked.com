@@ -19,7 +19,7 @@ Often, you want these claims to flow into the local application identity. When y
 
 You can see all this logic in the pages for ASP.NET Identity. For example, you can [scaffold Identity into your project](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/scaffold-identity?view=aspnetcore-2.2&tabs=visual-studio) and see all the Razor Pages.
 
-The specific logic to handle the callback occurs in `{YourProjectFolder}/Areas/Identity/Pages/Account/ExternalLogin.cshtml.cs`. You can see the source code for the [latest version on GitHub here](https://github.com/aspnet/AspNetCore/blob/master/src/Identity/UI/src/Areas/Identity/Pages/V4/Account/ExternalLogin.cshtml.cs). Not that version is in active development so it might not match up with what you have on your machine.
+The specific logic to handle the callback occurs in `{YourProjectFolder}/Areas/Identity/Pages/Account/ExternalLogin.cshtml.cs`. You can see the source code for the [latest version on GitHub here](https://github.com/aspnet/AspNetCore/blob/master/src/Identity/UI/src/Areas/Identity/Pages/V4/Account/ExternalLogin.cshtml.cs). Note that version is in active development so it might not match up with what you have on your machine.
 
 ## Persisting Claims
 
