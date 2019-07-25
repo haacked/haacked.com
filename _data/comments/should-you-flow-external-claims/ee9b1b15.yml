@@ -1,0 +1,5 @@
+id: ee9b1b15
+date: 2019-07-24T14:42:58.5499436Z
+name: Robert Slaney
+avatar: https://secure.gravatar.com/avatar/7607217d0961cfa9ab3c6457caccba3b?s=80&d=identicon&r=pg
+message: We extended the ASPNET User Claims table to add an Issuer field, that way we can track both internal and externally owned claims.  Did have a knock on affect all the way back to the UserManager though
