@@ -1,5 +1,6 @@
 ---
 title: "A haackedy 2015"
+description: "A look back at 2015 and the things I did and the things I wrote about."
 tags: [personal,meta]
 ---
 
