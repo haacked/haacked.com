@@ -1,6 +1,7 @@
 ---
 title: "Git Alias to browse "
 tags: [git,aliases]
+description: "A git alias to launch your browser to the current repository"
 ---
 
 Happy New Year! I hope you make the most of this year. To help you out, I have a tiny little Git alias that might save you a few seconds here and there.
