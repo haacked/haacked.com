@@ -1,0 +1,7 @@
+id: b66c920a
+date: 2019-07-26T15:00:10.1752344Z
+name: Levi
+avatar: https://github.com/levimatheri.png
+message: >+
+  You can do reader.SetupSequence(r => r.Read()).Returns(true).Returns(true).Returns(false)
+
