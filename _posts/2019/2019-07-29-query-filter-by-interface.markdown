@@ -1,17 +1,21 @@
 ---
-title: "Query Filter on an Interface"
-description: "..."
-tags: [data]
-excerpt_image: 
+title: "Global Query Filters for Interfaces"
+description: "This post describes how to apply an Entity Framework Core Global Query filter on all entity types that implement an interface using a strongly typed expression."
+tags: [data, ef]
+excerpt_image: https://user-images.githubusercontent.com/19977/61970776-55bc4a80-af92-11e9-9894-a772c6162adf.jpg
 ---
 
-One way to implement a multi-tenant application is to use a discriminator column (aka a `tenant_id` column on every table). This is a risky proposition. Every query must remember to filter by the `tenant_id`. One missed query and you expose data from one tenant to another.
+_This post describes how to apply an Entity Framework Core Global Query filter on all entity types that implement an interface using a strongly typed expression. And why you might want to do that in the first place._
 
-There are other features that can impact every query. For example, to implement soft deletes, you might have a `deleted` column that needs to be checked on every query.
+One way to implement a multi-tenant application is to use a discriminator column (aka a `tenant_id` column on every table). This is a risky proposition. Every query must remember to filter by the `tenant_id`. One missed query and you expose data from one tenant to another. That'll get you featured in the next [Troy Hunt](https://www.troyhunt.com/) security fail keynote. You don't want that.
+
+There are other features that can impact every query. For example, to implement soft deletes, you might have a `deleted` column on every table. Every query needs to filter on that column.
 
 This is where the [Global Query Filter feature of EF Core 2.0](https://docs.microsoft.com/en-us/ef/core/querying/filters) and above comes in handy. If you use NHibernate, you've had this feature for a long time.
 
-Here's a quick example of a query filter in action. First, we start with the class that's used in every example ever, the `Post` class. Someday we'll be more creative and create an example other than creating a blog engine because creating a blog engine is so passé.
+![Color Filters - by Carlos Ebert - CC BY 2.0](https://user-images.githubusercontent.com/19977/61970776-55bc4a80-af92-11e9-9894-a772c6162adf.jpg)
+
+Here's a quick example of a query filter in action. First, we start with the class that's used in every example ever, the `Post` class. Someday we'll be more creative and create an example other than creating a blog engine. Blog engines is so passé.
 
 First, let's assume we have a `Post` entity.
 
@@ -24,7 +28,7 @@ public class Post
 }
 ```
 
-The query filter goes in the `OnModelCreating` method of your `DbContext` derived class.
+We add a query filter to the `OnModelCreating` method of a `DbContext` derived class.
 
 ```csharp
 protected override void OnModelCreating(ModelBuilder builder)
@@ -35,7 +39,9 @@ protected override void OnModelCreating(ModelBuilder builder)
 }
 ```
 
-Now every time you query for blog posts, the query will automatically filter posts with `IsDeleted` set to `false`. But your blog engine probably has other entities. Say a `Comment` class. And maybe a `Tag` entity. Now your set of query filters look like this.
+Now every time you query for blog posts, the query only includes posts with `IsDeleted` set to `true`.
+
+But your blog engine is the talk of the town. It needs more than just posts, it needs comments and tags. Now your set of query filters look like this.
 
 ```csharp
 protected override void OnModelCreating(ModelBuilder builder)
@@ -50,11 +56,11 @@ protected override void OnModelCreating(ModelBuilder builder)
 }
 ```
 
-Hmm, seems awful repetitive. And if you add a new entity, you have to remember to add a query filter for that entity.
+Yuck! That's starting to get repetitive. And if you add a new entity, you have to remember to add a query filter for that entity.
 
 ## Will Interfaces Save Us?
 
-Since you're a professional developer, you see this problem and you think, "I know, I'll solve it with an interface!"
+But you, you are a smart developer. You see this problem and you think, "I know, I'll solve it with an interface!"
 
 ```csharp
 public interface ISoftDeletable
@@ -78,7 +84,7 @@ And you'll be wrong! This won't work because EF infers the table to filter based
 
 ## Filtering by Interface
 
-When you set a filter, EF looks at the expression provided and applies it to the entity. For example, in the above example, the expression is `p => !p.IsDeleted` where `p` is typed as `ISoftDeletable`. All we have to do is find every type that implements `ISoftDeletable` and rewrite the expression for each type. Specifically, we need to change the parameter type of this expression to match each entity type. Sounds easy right? So how do you rewrite an expression?
+When you set a filter, EF looks at the expression provided and applies it to the entity. For example, in the above example, the expression is `p => !p.IsDeleted` where `p` has the type `ISoftDeletable`. All we have to do is find every type that implements `ISoftDeletable` and rewrite this expression for each type. Specifically, we need to change the parameter type of this expression for each entity type. Sounds easy right? So how do you rewrite an expression?
 
 Fortunately I found a pretty [good answer on StackOverflow on how to replace the parameter type in a lambda expression](https://stackoverflow.com/questions/38316519/replace-parameter-type-in-lambda-expression). I had to make some tweaks to use it for my needs, but here's the code.
 
@@ -187,6 +193,7 @@ static void SetEntityQueryFilter<TEntityInterface>(
 ```
 
 This method now lets us pass in an entity type at runtime. So we can do this:
+
 
 ```csharp
 var type = typeof(Post);
