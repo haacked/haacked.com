@@ -5,7 +5,7 @@ tags: [aspnet,security]
 excerpt_image: https://user-images.githubusercontent.com/19977/61344565-8966da00-a806-11e9-9e6c-954a42102b36.png
 ---
 
-In my last post, I showed how to flow claims from an external identity provider to your application. My post walks through how to bring over the claims every time the user logs in. But why would I want to do this?
+In my last post, I showed how to flow claims from an external identity provider (also referred to as a login provider) to your application. My post walks through how to bring over the claims every time the user logs in. But why would I want to do this?
 
 On Twitter, [Brock Allen](https://brockallen.com/) replied to my post [with this tweet](https://twitter.com/BrockLAllen/status/1151270781181136896),
 
