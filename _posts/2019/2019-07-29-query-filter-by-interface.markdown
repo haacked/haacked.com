@@ -39,7 +39,7 @@ protected override void OnModelCreating(ModelBuilder builder)
 }
 ```
 
-Now every time you query for blog posts, the query only includes posts with `IsDeleted` set to `true`.
+Now every time you query for blog posts, the query only includes posts with `IsDeleted` set to `false`.
 
 But your blog engine is the talk of the town. It needs more than just posts, it needs comments and tags. Now your set of query filters look like this.
 
