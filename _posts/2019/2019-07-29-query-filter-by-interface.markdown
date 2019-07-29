@@ -208,6 +208,7 @@ public static void SetQueryFilterOnAllEntities<TEntityInterface>(
   Expression<Func<TEntityInterface, bool>> filterExpression)
 {
   foreach (var type in builder.Model.GetEntityTypes()
+    .Where(t => t.BaseType == null)
     .Select(t => t.ClrType)
     .Where(t => typeof(TEntityInterface).IsAssignableFrom(t)))
   {
@@ -217,6 +218,8 @@ public static void SetQueryFilterOnAllEntities<TEntityInterface>(
   }
 }
 ```
+
+Note the `.Where(t => t.BaseType == null)` clause here. Query filters may only be applied to the root entity type of an inheritance hierarchy. This clause ensures we don't try to apply a filter on a non-root type.
 
 And going back to our `DbContext` derived class, we can invoke this method like so:
 
