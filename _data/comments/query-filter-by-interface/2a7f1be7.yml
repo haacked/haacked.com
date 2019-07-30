@@ -1,0 +1,10 @@
+id: 2a7f1be7
+date: 2019-07-30T17:30:06.3722167Z
+name: haacked
+avatar: https://avatars.io/twitter/@haacked/medium
+message: >-
+  @Cristovão Morgado I don't know. I'm just using the built-in Global Query Filter feature of EF Core. My guess is if your `FromSql` query is composable, then it will work. But if it's not composable, then it won't. For example, if you call a stored procedure using `FromSql` I don't see how it could work.
+
+
+
+  Why don't you try it out and report back!
