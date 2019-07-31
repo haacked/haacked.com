@@ -41,7 +41,7 @@ What you're looking for is an App Service. Per [the App Service documentation](h
 
 A _Web App_ is one of the types of App Services. When you click on App Services in the left navigation, the portal displays a list of your app services. Your web apps will have an _App Type_ of _Web App_.
 
-What's confusing to me is that a _Function App_ is not listed in the documentation for Azure App Services. It is logically a first class citizen in its own right. But, when you list your App Services, you'll see Function Apps listed with the _App Type_ of _Function App_. I assume they're mplemented the same way, which is why Run From Package works for Web Apps as well as Function Apps.
+What's confusing to me is that a _Function App_ is not listed in the documentation for Azure App Services. It is logically a first class citizen in its own right. But, when you list your App Services, you'll see Function Apps listed with the _App Type_ of _Function App_. I assume they're implemented the same way, which is why Run From Package works for Web Apps as well as Function Apps.
 
 ## Configure Run From Package
 
