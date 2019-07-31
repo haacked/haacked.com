@@ -1,0 +1,10 @@
+id: 0f3c1265
+date: 2019-07-31T14:38:11.7915220Z
+name: Haacked
+avatar: https://avatars.io/twitter/@haacked/medium
+message: >-
+  @Alexandre The article I linked to about Global query filters describes how they work: https://docs.microsoft.com/en-us/ef/core/querying/filters
+
+
+
+   You call the`IgnoreQueryFilters`method.
