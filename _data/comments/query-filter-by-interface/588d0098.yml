@@ -1,0 +1,27 @@
+id: 588d0098
+date: 2019-08-01T21:18:38.9314207Z
+name: amoerie
+avatar: https://avatars.io/twitter/https://twitter.com/amoerie/medium
+message: >+
+  Great stuff! While frowned upon, the soft delete pattern has saved my skin more than once in my career!
+
+
+
+
+
+
+
+  This reminds me of when I had to tackle a bit of a similar problem a few years back, where I wanted to automagically enhance queries made by Entity Framework. I documented the process here, if you're curious: https://amoerie.wordpress.com/2013/03/09/replacing-method-calls-with-expressions-at-runtime-with-linqkit-and-the-entity-framework/
+
+
+
+
+
+  It's good to see that EF core has improved in this area by providing some better interception points, but the fact that you still need expression trees for non trivial tasks is unfortunate...
+
+
+
+
+
+  Thanks for sharing!
+
