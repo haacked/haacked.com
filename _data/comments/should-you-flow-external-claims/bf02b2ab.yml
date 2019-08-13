@@ -1,0 +1,5 @@
+id: bf02b2ab
+date: 2019-08-11T20:30:05.9588546Z
+name: Jeff P.
+avatar: https://secure.gravatar.com/avatar/5ea27fefd5d94036b0def62f7cda2c60?s=80&d=identicon&r=pg
+message: "I saw this post a few days after I started exploring ways to get out of the Identity stack entirely, in part because of the 99.9% use case you mentioned. My old solution using the Identity bits meant all kinds of little pieces copy/pasted from source and it felt yucky when I just wanted an ID from the IdP's. So I built this tiny little library: https://jeffputz.com/blog/i-wrote-a-tiny-library-pop-identity"
