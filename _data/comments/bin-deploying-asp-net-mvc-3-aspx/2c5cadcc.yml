@@ -1,0 +1,5 @@
+id: 2c5cadcc
+date: 2019-08-13T16:55:03.5760170Z
+name: ricardo
+avatar: https://secure.gravatar.com/avatar/857a4d4bd87d6d47a96f49fd0c920339?s=80&d=identicon&r=pg
+message: thank you, i've  found that  assembly reference property "Copy Local" was set to false, so i've added files again into bin folder, then i've imported files in mention fron VS Project and then changed the property "Copy Local" to true, after all this it works
