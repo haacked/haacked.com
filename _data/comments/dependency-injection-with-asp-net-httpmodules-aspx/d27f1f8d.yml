@@ -1,0 +1,5 @@
+id: d27f1f8d
+date: 2019-08-19T12:12:49.2558549Z
+name: Neil Moss
+avatar: https://github.com/ensign-nemo.png
+message: "Phil - why the check for \"as IDisposable\" in the Dispose() method? \r\nIHttpModule declares Dispose() explicitly, and this pattern won't invoke the IHttpModule.Dispose() implementation."
