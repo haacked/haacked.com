@@ -232,3 +232,7 @@ protected override void OnModelCreating(ModelBuilder builder)
 ```
 
 If you're interested in seeing the full source code all together, [check out this gist](https://gist.github.com/haacked/febe9e88354fb2f4a4eb11ba88d64c24).
+
+__UPDATE: Aug 19, 2019__ There was a subtle bug in the original implementation of this method. If you ran the method twice for different interfaces, and an entity implemented more than one interface, only the last query filter would be applied. For details on why that's the case, read [this EF Core issue](https://github.com/aspnet/EntityFrameworkCore/issues/10275). Here's [my comment on the issue](https://github.com/aspnet/EntityFrameworkCore/issues/10275#issuecomment-522686950) noting a scenario where the current behavior is surprising.
+
+Fortunately, [@YZahringer](https://github.com/YZahringer) posted [a workaround](https://github.com/aspnet/EntityFrameworkCore/issues/10275#issuecomment-457504348) that I incorporated into my implementation.
