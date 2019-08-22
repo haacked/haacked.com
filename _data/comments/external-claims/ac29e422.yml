@@ -1,0 +1,10 @@
+id: ac29e422
+date: 2019-08-22T14:29:32.2294684Z
+name: Henk
+avatar: https://secure.gravatar.com/avatar/8d0a0baa7707ccf8f1d06a2543de6907?s=80&d=identicon&r=pg
+message: >-
+  Maybe even dirtier, but less work: in case of circular dependencies I tend to inject an IServiceProvider that I use to resolve the circular dependency at runtime.
+
+
+
+  Yes. Very ugly ;-)
