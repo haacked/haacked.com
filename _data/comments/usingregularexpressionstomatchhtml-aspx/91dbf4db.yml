@@ -1,0 +1,26 @@
+id: 91dbf4db
+date: 2019-08-23T13:31:51.7267907Z
+name: Lau
+avatar: https://secure.gravatar.com/avatar/5e91a9d5c1318aa6e9ca2b7b0f7adb36?s=80&d=identicon&r=pg
+message: >-
+  Hello.
+
+
+
+  I'm looking for :
+
+
+
+  Find : <span class="bold">Word</span>
+
+  To
+
+  Replace : <b>Word</b>
+
+
+
+  Find ok with : (<\s*\/?\s*span class="bold"\s*.*?>)
+
+
+
+  But I don't know for replace...
