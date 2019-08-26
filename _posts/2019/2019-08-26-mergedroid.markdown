@@ -43,4 +43,4 @@ Today it supports C#, Visual Basic.NET, Java, C++, and C. In the future, they ma
 
 As of today, mergedroid only offers a free plan limited to individuals or teams of up to five people working on open source (or non-profit) repositories. They plan to offer more plans as more people try it out and they work out the kinks.
 
-If you'd like to try it on one of your repositories, go to the [GitHub Marketplace](https://github.com/marketplace/mergedroid) and install it and give [Códice all your feedback](mailto:support@codicesoftware.comv)!
+If you'd like to try it on one of your repositories, go to the [GitHub Marketplace](https://github.com/marketplace/mergedroid) and install it and give [Códice all your feedback](mailto:support@codicesoftware.com)!
