@@ -1,0 +1,7 @@
+id: 5bda103c
+date: 2019-08-27T16:49:39.4269914Z
+name: istrupin
+avatar: https://avatars.io/twitter/@istrupin/medium
+message: >+
+  On a related note, for a ASP.net web API (at least in 4.7.2, which is where I ran into this) the default current directory when debugging is C:\\Program Files\\IIS Express, this solution seems to help in the web world as well as the windows service world.
+
