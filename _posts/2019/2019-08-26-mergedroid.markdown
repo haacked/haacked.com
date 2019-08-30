@@ -9,7 +9,7 @@ Developer tools that understand code semantics have a lot of potential. They hav
 
 For example, a while back, I [wrote a post on how semantic diff and merge tools can reduce the number of merge conflicts a developer needs to resolve manually](https://haacked.com/archive/2019/06/17/semantic-merge/). The tool I featured is created by a [Códice Software, the company](https://www.plasticscm.com/company) that retains me as an advisor. It's a great tool, but it still requires a lot of manual steps. So what is the quickest and easiest way to realize the benefits of semantic diff and merge?
 
-## Introducing Mergdroid
+## Introducing Mergedroid
 
 ![Mergedroid, the friendly sematic merge bot](https://user-images.githubusercontent.com/19977/63366724-33b6ad80-c32f-11e9-9f55-9d88d982432c.png)
 
