@@ -18,10 +18,14 @@ I didn't find an exact solution, but I found a really good start. This [StackOve
 I posted this as a [gist as well](https://gist.github.com/Haacked/31c645b2ca315ebf1a1f).
 
 ```powershell
-@( Get-Project -All | ? { $_.ProjectName } | % { Get-Package -ProjectName $_.ProjectName } ) | Sort -Unique | % { $pkg = $_ ; Try { (New-Object System.Net.WebClient).DownloadFile($pkg.LicenseUrl, 'c:\dev\licenses\' + $pkg.Id + ".txt") } Catch [system.exception] { Write-Host "Could not download license for $pkg" } }
+Split-Path -parent $dte.Solution.FileName | cd
+New-Item -ItemType Directory -Force -Path ".\licenses"
+@( Get-Project -All | ? { $_.ProjectName } | % { Get-Package -ProjectName $_.ProjectName } ) | Sort -Unique Id | % { $pkg = $_ ; Try { (New-Object System.Net.WebClient).DownloadFile($pkg.LicenseUrl, (Join-Path (pwd) 'licenses\') + $pkg.Id + ".html") } Catch [system.exception] { Write-Host "Could not download license for $($pkg.Id)" } }
 ```
 
 _UPDATE:_ My first attempt had a bug in the catch clause that would prevent it from showing the package when an exception occurred. Thanks to Graham Clark for noticing it, Stephen Yeadon for suggesting a fix, and Gabriel for providing a PR for the fix.
+
+_UPDATE 2019-09-04:_ Updated the gist to work in VS 2019 thanks to [the work of Larry Silverman](https://gist.github.com/silverl/c945a494702c2469372b8be2ef95d319)!
 
 Be sure to double check that the list is correct by comparing it to the list of package folders in your packages directory. This isn't the complete list for my project because we also reference submodules, but it's a really great start!
 
