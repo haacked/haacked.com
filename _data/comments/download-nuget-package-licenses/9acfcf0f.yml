@@ -1,0 +1,9 @@
+id: 9acfcf0f
+date: 2019-09-04T14:26:36.7182461Z
+name: Larry Silverman
+avatar: https://secure.gravatar.com/avatar/b7b6db3461ac5814e3e5f099111bddd5?s=80&d=identicon&r=pg
+message: >+
+  Got this working in VS 2019. Fixed the issue with unique/sort and also fixed an issue where it would not print out the package Id, but instead the class name NuGet.PackageManagement.PowerShellCmdlets.PowerShellInstalledPackage.
+
+  https://gist.github.com/silverl/c945a494702c2469372b8be2ef95d319
+
