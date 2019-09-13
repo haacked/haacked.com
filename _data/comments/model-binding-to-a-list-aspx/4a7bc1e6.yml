@@ -1,0 +1,26 @@
+id: 4a7bc1e6
+date: 2019-09-13T09:54:36.9627342Z
+name: Lion O
+avatar: https://avatars.io/twitter/@mrcamaraderie/medium
+message: >-
+  Thanks again.
+
+
+
+  Please, I have an issue posting several Collections of Complex Types.
+
+
+
+  For instance, I need to post a Collection of a  Candidate's Work Experience and Qualifications.
+
+
+
+  The problem is it always posts the highest number of Collections.
+
+
+
+  If I make 2 entries for Qualifications and 5 for Work Experience, it posts 5 items in the Qualifications though I made ONLY 2. The other 3 items will just contain null for other.
+
+
+
+  Please, help!!!
