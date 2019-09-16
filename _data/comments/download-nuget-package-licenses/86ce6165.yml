@@ -1,0 +1,14 @@
+id: 86ce6165
+date: 2019-09-16T13:00:29.7555269Z
+name: Hannes
+avatar: https://github.com/https://github.com/f00f.png
+message: >-
+  Nice work.
+
+
+
+  Does anyone know of a nuget package which I just install in my application and which collects all that at build time?
+
+
+
+  What's the best way of supporting a package-embedded LicenseFile?
