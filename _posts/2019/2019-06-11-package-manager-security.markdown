@@ -2,6 +2,7 @@
 title: "Package Manager Security"
 description: "A summary of a new attack and a list of my posts on package manager security"
 tags: [nuget,security,oss]
+redirect_from: "/archive/2019/06/11/package-mwanager-security/"
 excerpt_image: https://user-images.githubusercontent.com/19977/59305523-420d8c80-8c4f-11e9-86de-5c48576298e9.png
 ---
 
