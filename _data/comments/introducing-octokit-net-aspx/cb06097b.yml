@@ -1,0 +1,5 @@
+id: cb06097b
+date: 2019-10-11T04:56:25.7949867Z
+name: haacked
+avatar: https://avatars.io/twitter/@haacked/medium
+message: This library only works with GitHub because it relies on the GitHub APIs, which may be different from other hosting providers such as AWS Code Commit.
