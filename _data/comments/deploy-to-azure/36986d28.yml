@@ -1,0 +1,5 @@
+id: 36986d28
+date: 2019-10-14T09:47:32.6282741Z
+name: Tobias
+avatar: https://secure.gravatar.com/avatar/943fd7f0369a2d37d623b77515ff33be?s=80&d=identicon&r=pg
+message: 'Would be interesting to see your yml files defining the build steps and the release pipeline. We got the zip file uploaded to SitePackage from Release Pipeline and verified that the app runs locally by downloading the package from Kudo. When trying to run the app from Azure it doesnt work. How does Azure know which dll to run? '
