@@ -1,0 +1,11 @@
+id: b20754c4
+date: 2019-10-16T08:15:15.2579203Z
+name: Sneha
+avatar: https://secure.gravatar.com/avatar/1d3e1e1634b1d3557d69b9a93e924765?s=80&d=identicon&r=pg
+message: >+
+  I am not sure how you would differentiate between major.minor[.revision[.build]] and
+
+  major.minor[.build[.revision]] anyways. It's essentially recompilation of the code right. A new build is getting generated.
+
+   I like to follow major.minor[.build[.revision]]. I am mostly concerned with Major.minor changes.
+
