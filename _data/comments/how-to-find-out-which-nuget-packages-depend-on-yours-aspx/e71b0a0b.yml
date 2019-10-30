@@ -1,0 +1,5 @@
+id: e71b0a0b
+date: 2019-10-30T09:38:23.6811059Z
+name: AroglDarthu
+avatar: https://avatars.io/twitter/@AroglDarthu/medium
+message: "BTW: the V1 url seems to be working at the following location\r\nhttps://www.nuget.org/api/v1/feedservice.svc/Packages?$filter=substringof(%27MicrosoftWebMvc%27,%20Dependencies)%20eq%20true&$select=Id,Dependencies\r\n\r\nWould be nice to get the response back in JSON though.\r\nWould be even nicer to query this on the API V3. "
