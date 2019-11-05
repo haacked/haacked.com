@@ -1,0 +1,5 @@
+id: d0632502
+date: 2019-11-05T10:45:53.5264863Z
+name: heroes
+avatar: https://secure.gravatar.com/avatar/5c780660910e2d8bd93443457b65f40c?s=80&d=identicon&r=pg
+message: How can I do a global query filters with MongoDb .net Driver. It's not have DbContext to override OnModelCreating. Am I missing something? Thanks
