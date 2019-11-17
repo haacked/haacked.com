@@ -1,0 +1,5 @@
+id: f09cfe1b
+date: 2019-11-17T20:47:30.6087771Z
+name: demetris
+avatar: https://secure.gravatar.com/avatar/af4ff8c5885d1be2e229c8fd9ed855ba?s=80&d=identicon&r=pg
+message: "Hey, \r\nIf I am using Entity Framework models, ex. people model has inner icollection people_skills, and each element of this people_skills has also an inner icollection. I show all records in my view but I can't post back (save) to controller.\r\nAny Suggestions? \r\n\r\nThanks"
