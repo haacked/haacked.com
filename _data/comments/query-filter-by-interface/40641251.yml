@@ -1,0 +1,5 @@
+id: 40641251
+date: 2019-11-18T20:08:55.9873606Z
+name: pi
+avatar: https://secure.gravatar.com/avatar/6eda980f4bb8ebd976a5e6f1f2cfff6a?s=80&d=identicon&r=pg
+message: "Very good!\r\nWhat if the field names of the entities and the interface do not match? \r\npublic partial class Post : ISoftDeletable\r\n{\r\n  ...\r\n  public bool IsDeleted { get; set; }\r\n}\r\n\r\npublic partial class Book : ISoftDeletable\r\n{\r\n  ...\r\n  public bool IsArchived { get; set; }\r\n  bool ISoftDeletable.IsDeleted { get => IsArchived; set => IsArchived = value; }\r\n}\r\n\r\nResult query for Book  will be incorrect. Because Book has no field 'IsDeleted'.\r\n\r\nAny ideas?\r\nIs it possible?"
