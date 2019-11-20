@@ -15,8 +15,7 @@ In this post, I'll walk through building "Update Panel" style functionality. I'l
 
 For those following along at home, all the [code is in a GitHub repository](https://github.com/haacked/UpdatePanelExample/commits/master). Each commit in the repo corresponds to a step in this post.
 
-## Step 1 - [Generate the project](https://github.com/haacked/UpdatePanelExample/commit/cfa4158f542224caab3bd8958af39d6d6be72292)
-
+## Step 1 - Generate the project
 This assumes you have the .NET Core SDK installed.
 
 ```bash
