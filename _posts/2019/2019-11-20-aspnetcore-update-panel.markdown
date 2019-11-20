@@ -200,7 +200,7 @@ __/Pages/Index.cshtml__
 <form method="post" data-update-target-selector="#the-message">
 ```
 
-## Step 4 - [Support for appending](https://github.com/haacked/UpdatePanelExample/commit/0d7564dc3b4a5543e3450652f84326a809bf69e6)
+## Step 4 - [Support for appending](https://github.com/haacked/UpdatePanelExample/commit/2a043d8228bf4a66def5456aa8246db8bc4b2380)
 
 Oh, we're not done yet. Suppose we want to append the response, not replace it. Let's build support for that. The following code replaces the line `updateTarget.innerHTML = html` in `site.js`.
 
