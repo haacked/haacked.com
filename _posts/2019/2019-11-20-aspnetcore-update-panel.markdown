@@ -251,3 +251,5 @@ if (Request.IsAjaxRequest())
 And we're done. You can see all the changes in order by [looking at the commits](https://github.com/haacked/UpdatePanelExample/commits/master) in order.
 
 Or just see the final result at https://github.com/haacked/UpdatePanelExample.
+
+![Final result](https://user-images.githubusercontent.com/19977/69278718-baca2a80-0b97-11ea-8cd9-be253868733f.png)
