@@ -1,0 +1,5 @@
+id: 50f18816
+date: 2019-11-20T11:55:40.0301616Z
+name: Matthew Wills
+avatar: https://secure.gravatar.com/avatar/b4335b63c09c8fe59fe3201ed7468f92?s=80&d=identicon&r=pg
+message: Another approach to consider is to use Pulumi. I adapted https://github.com/pulumi/examples/tree/master/azure-cs-appservice and replaced the wwwroot folder contents with the contents published from my .NET Core Web App and it 'just worked'.
