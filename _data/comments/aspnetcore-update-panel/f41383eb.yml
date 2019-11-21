@@ -1,0 +1,5 @@
+id: f41383eb
+date: 2019-11-21T13:12:03.9159047Z
+name: chuck
+avatar: https://secure.gravatar.com/avatar/c4e23857198befca85a2df236e8cb54e?s=80&d=identicon&r=pg
+message: Some time ago I saw a very similar idea from Tim G Thomas (https://bit.ly/37sQ4XB). It's good to see a newer implementation and I learned the hard way to be sure to check if you are in the context of an Ajax post. I am going to change my JQuery implementation for Javascript based on your article.
