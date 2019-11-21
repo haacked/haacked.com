@@ -1,0 +1,11 @@
+id: f576933c
+date: 2019-11-21T13:15:00.7441113Z
+name: Suncat2000
+avatar: https://secure.gravatar.com/avatar/ab8a61f67f3996a66ff03256f8961d8d?s=80&d=identicon&r=pg
+message: >+
+  11 years later, this material is still relevant and important information. Thanks, Phil, for explaining these sometimes confusingly nuanced concepts.
+
+  I disagree with @mvcFan that allowing two methods with the same action name is a bad thing. I work on a large project where that is very useful to help keep related ideas together. E.g. an Edit action refers to a single page where a record can be edited. The [HttpGet]Edit method displays the record content to be edited while the [HttpPost]Edit method updates the record. Makes perfect sense to me that these are so tightly bound.
+
+  As for @mvcvm's comment about the "ControllerFactory and ControllerActionInvoker are not quite clever enough to detect the difference in arguments when posting from a strongly typed view", I can simply offer that the strong typing comes from the model binder(s), also an extensibility point, and lives at a deeper level than action-method resolution. I wish sometimes that one Action = one Method, but there are so many ways to get to a method that it can make one light-headed to consider them all. Articles like this one are valuable in pointing out the reasons.
+
