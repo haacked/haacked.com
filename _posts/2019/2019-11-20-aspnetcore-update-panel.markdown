@@ -210,7 +210,6 @@ __/wwwroot/js/site.js__
 const updateTarget = form.querySelector(form.dataset.updateTargetSelector)
     || document.querySelector(form.dataset.updateTargetSelector);
 if (updateTarget) {
-    updateTarget.innerHTML = html
     const updateType = form.dataset.updateType || 'replace';
     if (updateType === 'replace') {
         updateTarget.innerHTML = html
