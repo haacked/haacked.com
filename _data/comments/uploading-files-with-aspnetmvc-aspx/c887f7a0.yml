@@ -1,0 +1,5 @@
+id: c887f7a0
+date: 2019-11-26T16:19:14.9305833Z
+name: jason
+avatar: https://secure.gravatar.com/avatar/c8b80691571bf46f5d70c602d6fdd7a5?s=80&d=identicon&r=pg
+message: Hello, I have an interesting problem saving the problem using HttpPostedFileBase's SaveAs method.For example, if you upload a picture file the first time without any problem, the second time you upload it, it will indicate that the file is being used by another process.I queried the document information that the SaveAs method inherited HttpPostedFile to save a persistent copy.I think the solution is to read the stream and save the file. Is there any other way to avoid this problem?The text is translated, please forgive me
