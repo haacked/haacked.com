@@ -1,0 +1,5 @@
+id: 4c913a54
+date: 2019-11-26T21:40:00.0069406Z
+name: haacked
+avatar: https://avatars.io/twitter/@haacked/medium
+message: "@Ryan because `response.text()` doesn't return the text, it returns a `Promise<string>`. So one way or another, I need to call `then()`, either directly on `response.text()` or by returning `response.text()` and calling the outer `then()`. I like doing the latter because it reduces nesting of callbacks."
