@@ -1,0 +1,5 @@
+id: a46ebecb
+date: 2019-11-26T13:32:51.6104432Z
+name: Ryan
+avatar: https://secure.gravatar.com/avatar/8196ac7ecc62ed5aaa2879fe15733dce?s=80&d=identicon&r=pg
+message: Why do you return the response.text to be used in the next chained then-method? Why not insert the html immediately in the first then-method?
