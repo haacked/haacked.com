@@ -51,10 +51,10 @@ But I like this friend and people have a right to have spaces in their image fil
 
 The first issue has to do with Markdown rendering. Say you upload an image named `cool image.png` (`uncool image.png` works as well, but is not as cool).
 
-The resulting markdown might look like:
+The resulting markdown might look like (xyzver5 is a random sequence to prevent collisions):
 
 ```md
-![cool image.png](/images/cool image.png)
+![cool image.png](/images/xyzver5/cool image.png)
 ```
 
 Unfortunately, [Markdig](https://github.com/lunet-io/markdig) doesn't render that as an image. That's because Markdig is a goody two-shoes and accurately follows the [CommonMark Spec](https://spec.commonmark.org/0.28/#link-destination). The spec specifically which does not allow spaces for link destinations.
@@ -62,7 +62,7 @@ Unfortunately, [Markdig](https://github.com/lunet-io/markdig) doesn't render tha
 No problem, I naively thought, I'll just use my old standby, `HttpUtility.UrlEncode` for the filename.
 
 ```md
-![cool image.png](/images/cool+image.png)
+![cool image.png](/images/xyzver5/cool+image.png)
 ```
 
 Now it renders fine. On the back end though, I don't allow direct access to these images for security reasons. Instead, I route them through a controller with a wildcard route.
@@ -73,12 +73,15 @@ Now it renders fine. On the back end though, I don't allow direct access to thes
 public class ImagesController {
   [HttpGet("{**name}")]
   public async Task<ActionResult> Get(string name) {
-    // Some beautiful code to retrieve the image by name from the 
-    // back-end store which could be S3, Azure Blob Storage, or a 
+    // name will be `xyzver5/cool+image.png`
+    // Some beautiful code to retrieve the image by name from the
+    // back-end store which could be S3, Azure Blob Storage, or a
     // junk drawer under your bed.
   }
 }
 ```
+
+Note that I'm using wildcard routing here because I want the entire path after the `/images/` part of the image URL.
 
 I tested it locally, it worked like a charm. Shipped it! I deployed it to Azure App Service and called it a day, spiked my laptop in the endzone, and celebrated another successful deployment.
 
