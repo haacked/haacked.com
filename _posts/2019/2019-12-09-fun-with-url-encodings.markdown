@@ -97,7 +97,7 @@ It turns out that the culprit was [IIS Request filtering](https://docs.microsoft
 
 > Some standards, e.g. the CGI standard require +'s to be converted into spaces. This can become a problem if you have code that implements name-based rules, for example urlauthorization rules that base their decisions on some part of the url.
 
-Probably not an issue for my secnario and I could just modify this rule, but one of my coding philosophies is to try and not work against the system as much as possible. In my younger days, I'd customize the heck out of everything. Now I don't have time for all that malarkey.
+Probably not an issue for my scenario and I could just modify this rule, but one of my coding philosophies is to try and not work against the system as much as possible. In my younger days, I'd customize the heck out of everything. Now I don't have time for all that malarkey.
 
 The solution was simple, I needed a url encoding method that used `%20` instead of `+` to encode spaces. After some research, I used `Uri.EscapeDataString` and that did the trick! But first, I had to make sure to avoid using its evil sibling, `Uri.EscapeUriString` which by most accounts is pretty useless in comparison to its smarter and better looking sibling.
 
