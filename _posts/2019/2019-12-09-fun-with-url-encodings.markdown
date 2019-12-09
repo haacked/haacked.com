@@ -12,7 +12,7 @@ Quick! How many ways are there with .NET Core to encode parts of a URL? Here's a
 * [`Uri.EscapeUriString`](https://docs.microsoft.com/en-us/dotnet/api/system.uri.escapeuristring?view=netcore-3.0) - 99 out of 100 developers agree you should pretty much never use this method. Use `EscapeDataString` instead.
 * [`Uri.EscapeDataString`](https://docs.microsoft.com/en-us/dotnet/api/system.uri.escapedatastring?view=netcore-3.0) - This method is the jam for encoding a full URL or the path portions of the URL.
 * [`HttpUtility.UrlPathEncode`](https://docs.microsoft.com/en-us/dotnet/api/system.web.httputility.urlpathencode?view=netcore-3.0) - The docs literally say "Do not use; intended only for browser compatibility."
-* [`UrlEncoder.Default.Encode`](https://docs.microsoft.com/en-us/dotnet/api/system.text.encodings.web.urlencoder?view=netcore-3.0) - This class has methods for reading and writing from text writers and spans for high performance low allocation scenarios.
+* [`UrlEncoder`](https://docs.microsoft.com/en-us/dotnet/api/system.text.encodings.web.urlencoder?view=netcore-3.0) - This class has methods for reading and writing from text writers and spans for high performance low allocation scenarios.
 
 [![Enigma machine - CC BY 2.0](https://user-images.githubusercontent.com/19977/70470634-5278b580-1a80-11ea-81d1-f0c41a392071.jpg)](https://www.flickr.com/photos/manunimaths/44960892745)
 
