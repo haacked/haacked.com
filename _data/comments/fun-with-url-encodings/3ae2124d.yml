@@ -1,0 +1,5 @@
+id: 3ae2124d
+date: 2019-12-10T02:13:55.4316238Z
+name: brianary
+avatar: https://secure.gravatar.com/avatar/bd9dd1f83b59fa96da146ca94dad7b0b?s=80&d=identicon&r=pg
+message: Microsoft URLs tend to include parentheses, which some Markdown/CommonMark systems handle better than others. And there are certain pre- and post-processing systems that may not like certain other symbols, but none of these URL escaping methods are aggressive enough to avoid these issues, so I wrote a powershell script to update a URL on the clipboard. https://github.com/brianary/scripts/blob/master/Format-EscapedUrl.ps1
