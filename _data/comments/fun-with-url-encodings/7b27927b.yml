@@ -1,0 +1,8 @@
+id: 7b27927b
+date: 2019-12-10T14:35:58.1938427Z
+name: Michel
+avatar: https://avatars.io/twitter/@ms_michel/medium
+message: >-
+  Is this only an encoding problem when you upload files?
+
+  Users can give such "weird" names to their files. For example, in France we have accents, and I've already seen names like: "Aperçus de l'été (2019).Jpg". In this case, it ' better to start by "normalizing" the file name to get something like: "apercus-de-l-e-2019.jpg"
