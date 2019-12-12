@@ -52,7 +52,7 @@ but each offers something different, so I’ve listed them all.
    Atwood](http://codinghorror.com/blog/ "CodingHorror blog") for
    pointing me to this one (among others).
 4. [**Dynamic Drive Online Image
-   Optimizer**](http://tools.dynamicdrive.com/imageoptimizer/ "Image Optimizer")**-**if
+   Optimizer**](http://tools.dynamicdrive.com/imageoptimizer/ "Image Optimizer") - if
    you’re hardcore about your image compression, you should check out
    [**Ken Silverman’s Utility
    Page**](http://advsys.net/ken/utils.htm#pngout "Ken Silverman’s Utility Page").
@@ -87,7 +87,7 @@ Get a handle on your web traffic with these sites.
     tools](http://www.google.com/webmasters/sitemaps/ "Webmaster Tools")**
     which include Sitemap support.
 3.  [**Google
-    Analytics**](http://www.google.com/analytics/ "Google Analytics")**-**A
+    Analytics**](http://www.google.com/analytics/ "Google Analytics") - A
     free and full featured analytics package for your blog or website.
     Add some javascript to your page template and you’re in information
     overload land, but done up with nice charts and graphs.
@@ -130,12 +130,8 @@ Get a handle on your web traffic with these sites.
     Remember, these photos are not public domain. You do need to abide
     by the license. But for the most part, the licenses are pretty
     lenient for you to reuse the photos in your own blog.
-4.  **[Open Clip Art Library](http://www.openclipart.org/ "Clip Art")**
-    - Maybe you want your image to be *iconic*rather than
-    *photographic*. Check out this free Public Domain clip art library
-    to find an icon for every occasion.
-5.  **[WP
-    Clipart](http://www.wpclipart.com/index.html "Public Domain Clip Art Library")**
+4.  ~~**[Open Clip Art Library](http://www.openclipart.org/ "Clip Art")** - Maybe you want your image to be *iconic* rather than *photographic*. Check out this free Public Domain clip art library to find an icon for every occasion.~~ **UPDATE 2019-12-12:** This site seems to be permanently down. Try **[Free Clip Safari instead](https://www.clipsafari.com/)**
+5.  **[WP Clipart](http://www.wpclipart.com/index.html "Public Domain Clip Art Library")**
     - Another Public Domain clip art library, though the quality tends
     to be less than the Open Clip Art Library.
 
