@@ -1,0 +1,47 @@
+id: 107ef163
+date: 2019-12-19T09:22:01.9518840Z
+name: RevolveR CMF
+avatar: https://secure.gravatar.com/avatar/c23eb9b09c905be1a95bd5e421c91621?s=80&d=identicon&r=pg
+message: >+
+  So. I can't find any RegEx for omit tag matching when omit tag is not in strict that's means there are no contains /> clause in the end and I write some snippet to make all omit tags fixed like HTML strict. It works with my parse future that's  can extract nodes with contents, child's, contents and attributes from HTML fragment like Nodes objects in JavaScript in web-browser.
+
+
+
+
+
+  Also it can extract attributes of omit-tag correct. You can improve it by checking entities and allowed attributes with contents like Validator but I skip this shit because all Entities of HTML 5 is hidden by W3C into browser and we don't know about semantics and alignments.
+
+
+
+
+
+  Simple way is to make a whitelists for tags and attributes and filtrate all issues(also we don't need to use spec for some contents like a XML db because we can now use in back-end store all words for the tags without entities check).
+
+
+
+
+
+
+
+  // make omit tags strict
+
+  preg_match_all('/<\\/?(meta|img|br|hr|input)(.*?)([?!\/]?>)/mi', $s, $p, PREG_OFFSET_CAPTURE);
+
+
+
+  foreach ( $p[ count($p) - 1 ] as $omit) {
+
+
+
+  $s = substr_replace($s, '/>', $omit[1], strlen($omit[0]));
+
+
+
+  }
+
+
+
+
+
+
+
