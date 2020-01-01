@@ -1,0 +1,5 @@
+id: 73c906f4
+date: 2020-01-01T09:20:29.2738172Z
+name: Amir
+avatar: https://secure.gravatar.com/avatar/0b256b2e9714519577e8148743bede40?s=80&d=identicon&r=pg
+message: I have adopted your approach but when debugging the process couldn't find the custom claims in IProfileService, GetProfileDataAsync() method.
