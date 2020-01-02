@@ -1,0 +1,18 @@
+id: 325ee907
+date: 2020-01-02T02:37:50.7350103Z
+name: Amir
+avatar: https://secure.gravatar.com/avatar/0b256b2e9714519577e8148743bede40?s=80&d=identicon&r=pg
+message: >-
+  oh I figure it out. I used to get the claims in this way:
+
+              var sub = context.Subject.GetSubjectId();
+
+              var user = await _userManager.FindByIdAsync(sub);
+
+              var principal = await _claimsFactory.CreateAsync(user);
+
+              var claims = principal.Claims;
+
+  but I should have got those on the fly claims like context.Subject.Claims
+
+  (context here is ProfileDataRequestContext)
