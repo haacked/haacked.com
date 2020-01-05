@@ -2,7 +2,7 @@
 title: "GitHub for Dummies"
 description: "An announcement of a new book I wrote with Sarah Guthals to help developers get the most out of using GitHub!"
 tags: [github,oss,books]
-excerpt_image: https://user-images.githubusercontent.com/19977/58595462-9400ec00-8225-11e9-8df5-b1c60312f9c6.jpg
+excerpt_image: https://user-images.githubusercontent.com/19977/71785209-bb851780-2fb1-11ea-856f-cc807718e800.jpg
 redirect_from: "/archive/2019/06/01/github-for-dummies/"
 ---
 
@@ -18,7 +18,7 @@ And it's understandable. GitHub has a lot of features! And GitHub ships new feat
 
 If long-time GitHub users are not aware of these features, what about people new to GitHub? Using GitHub as a new developer, or as an experienced developer new to GitHub, is daunting. If you're in this situation, or know someone who is, I have just the book for you.
 
-[![GitHub For Dummies](https://user-images.githubusercontent.com/19977/58595462-9400ec00-8225-11e9-8df5-b1c60312f9c6.jpg)](https://amzn.to/2Qr31t1)
+[![GitHub For Dummies](https://user-images.githubusercontent.com/19977/71785209-bb851780-2fb1-11ea-856f-cc807718e800.jpg)
 
 The book is [GitHub for Dummies](https://amzn.to/2Qr31t1). [Sarah Guthals](https://twitter.com/sarahguthals) and I wrote the book to help people understand how to make effective use of GitHub. Sarah and I worked together at GitHub. She ran the team that built the GitHub extension for Visual Studio, Atom, Unity, and VS Code. Today she's making waves over at Microsoft. Between the two of us, we have an immense amount of experience building software using GitHub.
 
