@@ -9,11 +9,9 @@
 $header-background-color: #2d3339;
 $brand-color:      #258fb8;
 $text-color: #333;
-$carbon-ad-width: 140px;
 $baseurl: '{{ site.baseurl }}';
 
-@import 'haackbar',
-  "carbon";
+@import 'haackbar';
 
 h1.post-title a {
   color: $text-color;
@@ -30,10 +28,6 @@ h1.post-title a {
 .site-nav ul li {
   @include relative-font-size(1.1);
   @include relative-font-weight(.5);
-}
-
-.page-content {
-  margin-right: $carbon-ad-width;
 }
 
 .site-footer {
