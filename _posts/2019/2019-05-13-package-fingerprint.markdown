@@ -2,7 +2,7 @@
 title: "Better Security Through Package Fingerprints"
 description: "How do we ensure that a package matches the code in a GitHub repository and does not have any extra surprises injected into it? This post proposes an idea worth more investigation to see if it's a viable option."
 tags: [nuget,security,oss]
-excerpt_image: https://user-images.githubusercontent.com/19977/58292816-be5f2f00-7d77-11e9-92fa-d01050531597.jpg
+excerpt_image: https://user-images.githubusercontent.com/19977/71785414-0f90fb80-2fb4-11ea-946a-7ebe3a805e77.jpg
 ---
 
 It seemed like an innocuous enough update. Someone yanked `bootstrap-sass` ruby gem version 3.2.0.2 and published 3.2.0.3. Ruby gems more or less follows the [SemVer versioning scheme](https://semver.org/) (albeit with an extra version number). An increment of the patch number communicates that this release should be a safe bug fix update. The command, `bundle update --patch`, should be safe as it updates to the next patch version which should be safe.
@@ -37,7 +37,7 @@ I've talked to [Phani Rajuyn](https://twitter.com/PhaniRajuyn/) about this probl
 
 This is easier said than done. To even begin to make this work, we'd need deterministic builds of packages. This means that given the same set of inputs, you always get the same set of outputs.
 
-![Fingerprint scanner by Mike MacKenzie www.vpnsrus.com](https://user-images.githubusercontent.com/19977/58292816-be5f2f00-7d77-11e9-92fa-d01050531597.jpg)
+![Fingerprint scanner by Mike MacKenzie www.vpnsrus.com](https://user-images.githubusercontent.com/19977/71785414-0f90fb80-2fb4-11ea-946a-7ebe3a805e77.jpg)
 
 In the .NET world, the [C# compiler supports deterministic builds](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/deterministic-compiler-option). It might not be obvious why a build isn't always determinstic. The documentation for the `-deterministic` flag explains...
 
