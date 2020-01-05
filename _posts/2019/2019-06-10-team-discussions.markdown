@@ -2,12 +2,12 @@
 title: "Discuss amongst yourselves on GitHub"
 description: "The Team Discussions feature is a great way for your team to have open ended discussions on GitHub without having to leave GitHub."
 tags: [github,oss,tip]
-excerpt_image: https://user-images.githubusercontent.com/19977/37788571-fa91d55e-2dbe-11e8-961d-f8f13ad65b2e.jpg
+excerpt_image: https://user-images.githubusercontent.com/19977/71785251-436b2180-2fb2-11ea-91b1-c9747700e6d4.jpg
 ---
 
 When I ran the Client Apps team at GitHub, I wrote a weekly "newsletter" to the team. I named it the CACAW which stood for Completely Awesome Client Apps Weekly. The name gave me an excuse to highlight each letter with a crow themed image.
 
-![Am I taking this crow thing too far?](https://user-images.githubusercontent.com/19977/37788571-fa91d55e-2dbe-11e8-961d-f8f13ad65b2e.jpg)
+![Am I taking this crow thing too far?](https://user-images.githubusercontent.com/19977/71785251-436b2180-2fb2-11ea-91b1-c9747700e6d4.jpg)
 
 I tried to invoke every possible pun on crows I could find. It did not take long to run out of these. The purpose of this newsletter wasn't to show off my skill at finding funny punny images.
 
