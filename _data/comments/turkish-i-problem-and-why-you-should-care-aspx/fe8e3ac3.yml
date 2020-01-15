@@ -1,0 +1,5 @@
+id: fe8e3ac3
+date: 2020-01-13T03:23:19.2889819Z
+name: Ruslan
+avatar: https://avatars.io/twitter//medium
+message: "One easy solution to this problem: always use the en-US locale. May sound ridiculous and of course doesn't apply in all situations, but if you have a JS web application, you're completely fine with having your .NET back end always be in en-US (and it will be by default if you don't go ahead and assign CultureInfo for the current thread to the user's). Even in big localized applications that shouldn't be a problem: all the handling of localization and formatting would be in their own special classes, and some would be handled client-side."
