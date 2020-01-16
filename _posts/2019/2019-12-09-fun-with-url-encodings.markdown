@@ -14,14 +14,13 @@ Quick! How many ways are there with .NET Core to encode parts of a URL? Here's a
 * [`HttpUtility.UrlPathEncode`](https://docs.microsoft.com/en-us/dotnet/api/system.web.httputility.urlpathencode?view=netcore-3.0) - The docs literally say "Do not use; intended only for browser compatibility."
 * [`UrlEncoder`](https://docs.microsoft.com/en-us/dotnet/api/system.text.encodings.web.urlencoder?view=netcore-3.0) - This class has methods for reading and writing from text writers and spans for high performance low allocation scenarios.
 
-[![Enigma machine - CC BY 2.0](https://user-images.githubusercontent.com/19977/70470634-5278b580-1a80-11ea-81d1-f0c41a392071.jpg)](https://www.flickr.com/photos/manunimaths/44960892745)
-
+[![Photo of an Enigma machine](https://user-images.githubusercontent.com/19977/70470634-5278b580-1a80-11ea-81d1-f0c41a392071.jpg "Enigma machine - CC BY 2.0")](https://www.flickr.com/photos/manunimaths/44960892745)
 
 Programming is so easy, isn't it!
 
 How did we get in such a situation? I think XKCD summarized it best,
 
-![Standards by XKCD - CC BY-NC 2.5](https://imgs.xkcd.com/comics/standards.png)
+![XKCD comic on how standards proliferate](https://imgs.xkcd.com/comics/standards.png "Standards by XKCD - CC BY-NC 2.5")
 
 Just replace "Standards" with "Ways to encode a URL."
 
