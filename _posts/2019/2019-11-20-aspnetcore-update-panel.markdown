@@ -9,7 +9,7 @@ Sometimes you just need to submit a form and update a portion of your web page w
 
 The choice you make will depend a lot on your experience and your scenario and how much complexity you can endure. For a site I'm building, I like to start as simple as possible and only add in components as the pain they solve outweighs the complexity they add. For example, the site I'm working on is very content based with pages. It's not a single page app (SPA), so React isn't necessarily a great choice for me. But it might be for you. Also, progressive enhancement and accessibility is important to me.
 
-![Vanilla flower](https://user-images.githubusercontent.com/19977/69273780-dfb9a000-0b8d-11ea-98e3-81a99d12f49f.jpg)
+![Image of a vanilla flower](https://user-images.githubusercontent.com/19977/69273780-dfb9a000-0b8d-11ea-98e3-81a99d12f49f.jpg "Vanilla flower")
 
 In this post, I'll walk through building "Update Panel" style functionality. I'll start with an old school form that posts a field like the cavepeople used to do. Then we'll ajaxify it, like the more recent cave people did. But we'll do it all without jQuery. Yes, I'm a glutton for punishment.
 

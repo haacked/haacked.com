@@ -11,7 +11,7 @@ For example, a while back, I [wrote a post on how semantic diff and merge tools 
 
 ## Introducing Mergedroid
 
-![Mergedroid, the friendly semantic merge bot](https://user-images.githubusercontent.com/19977/63366724-33b6ad80-c32f-11e9-9f55-9d88d982432c.png)
+![Mergedroid, the friendly semantic merge bot](https://user-images.githubusercontent.com/19977/63366724-33b6ad80-c32f-11e9-9f55-9d88d982432c.png "Mergedroid, the friendly semantic merge bot")
 
 This is where [mergedroid](https://gmaster.io/mergedroid) comes in. The concept is simple. Install mergedroid onto your GitHub repository. It then monitors pull requests. When GitHub reports that a pull request would result in a merge conflict, mergedroid goes to work. It examines the pull request and if it can resolve it semantically, it pushes a commit that does that.
 
