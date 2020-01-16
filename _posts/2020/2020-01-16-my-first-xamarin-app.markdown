@@ -19,15 +19,15 @@ This might sound familiar to some of you. The idea was inspired by the [Encourag
 
 Let's take a look at it! This is the main screen with a list of moods.
 
-<img src="https://user-images.githubusercontent.com/19977/72462978-2fc87380-3787-11ea-9994-3c15a3da8889.png" title="A screen with a list of mood buttons: Sad, Bored, Angry, Frustrated, Happy" width="400" />
+![The main mood button screen](https://user-images.githubusercontent.com/19977/72462978-2fc87380-3787-11ea-9994-3c15a3da8889.png "A screen with a list of mood buttons: Sad, Bored, Angry, Frustrated, Happy")
 
 Suppose she clicks "Bored", she'll get a random encouragement which consists of a funny photo and a message.
 
-<img src="https://user-images.githubusercontent.com/19977/72463290-bf6e2200-3787-11ea-9c83-26e5cf22a7b4.png" title="Image of a dog with glasses looking at a book. Underneath is the caption: When I'm bored, I go read a book" width="400" />
+![A random encouragement](https://user-images.githubusercontent.com/19977/72463290-bf6e2200-3787-11ea-9c83-26e5cf22a7b4.png "Image of a dog with glasses looking at a book. Underneath is the caption: When I'm bored, I go read a book")
 
 For now, the image is stored as a URL and is loaded off the internet, so a connection is required to see the image. Also, all of this is configurable through a janky UI.
 
-<img src="https://user-images.githubusercontent.com/19977/72463503-3a373d00-3788-11ea-97ac-ffdfeb82e27d.png" title="A janky looking user interface for editing a mood and its list of encouragements" width="400" />
+![An ugly user interface](https://user-images.githubusercontent.com/19977/72463503-3a373d00-3788-11ea-97ac-ffdfeb82e27d.png "A janky looking user interface for editing a mood and its list of encouragements")
 
 So if you wanted to add a mood such as "Missing my Ex" and add encouragements such as "Put down that phone!", you could totally do that!
 
