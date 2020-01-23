@@ -1,6 +1,6 @@
 ---
 title: "Recovering from Burnout"
-description: "A reflection on burning out, starting a business, and how that all came to a head."
+description: "A reflection on burning out, starting a business a year ago, and how that all came to a head."
 tags: [work,consulting,burnout]
 excerpt_image: https://user-images.githubusercontent.com/19977/73021437-7566eb00-3ddc-11ea-91f2-619d688f7a61.jpg
 ---
