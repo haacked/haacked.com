@@ -1,0 +1,87 @@
+---
+title: "Recovering from Burnout"
+description: "A reflection on burning out, starting a business, and how that all came to a head."
+tags: [work,consulting,burnout]
+excerpt_image: https://user-images.githubusercontent.com/19977/73021437-7566eb00-3ddc-11ea-91f2-619d688f7a61.jpg
+---
+
+Today's my birthday so naturally the topic of burnout comes to mind. For the past couple years, I've been coping with varying degrees of burnout. This is not to be confused with [being a Burner](https://haacked.com/archive/2005/09/09/PhotosFromBurningMan.aspx/) which is something else entirely.
+
+I always saw burnout as something that happened to _other_ people. It's not that I didn't believe burnout was real, I know it's real. There's plenty of evidence for that. I've helped people create the space and conditions to recover from burnout in my role as a director and manager.
+
+The reason I saw it as affecting other people is I had the misguided belief that the way I approached work prevented _me_ from burning out. I think this is a pretty common belief among driven folk. The problem with this belief is it leads to ignoring all the warning signs that would lead one to address it early.
+
+## The Causes of Burnout
+
+A common image associated with burnout is a candle burning at both ends. While long hours can contribute to burnout, it's not the only cause and often not even the primary cause. It certainly wasn't in my case.
+
+![Image of candle burning from both ends](https://user-images.githubusercontent.com/19977/73021437-7566eb00-3ddc-11ea-91f2-619d688f7a61.jpg "Flickr image by frankieleon CC BY 2.0")
+
+Perhaps a better image for burnout is a tire fire, though I like the full ["This is Fine" comic](http://gunshowcomic.com/648) from the popular meme. Because of my mistaken belief, I ignored all the signs around me while convincing myself "This is fine."
+
+[This Forbes post](https://www.forbes.com/sites/johnrampton/2015/05/13/the-6-causes-of-professional-burnout-and-how-to-avoid-them/) notes six causes of burnout...
+
+1. Lack of control
+2. Insufficient Reward
+3. Lack of Community
+4. Absence of Fairness
+5. Conflict in Values
+6. Work Overload
+
+Note that the first item is lack of control over our tasks and their outcomes at work. My brain can be a puerile child and I first read that as lack of bodily control for some reason. Who knows, maybe that also contributes to burnout, but is probably not as prevalent.
+
+Looking at this list, it became clear to me that I was indeed dealing with burnout.
+
+## Starting Haacked LLC
+
+So if you're bad at making decisions, you might try to address burnout by starting your own business. That's what I did. And there's some good reasoning about it. Yes, overwork is often associated with running your own business, but it doesn't have to be if you're doing something like consulting.
+
+And working for yourself addresses many of the other burnout causes.
+
+### Lack of Control
+
+With your own business, you are in control of your tasks and outcomes. You may not be in control of the overall market conditions, etc., but you are in control for how you will respond to any given situation.
+
+### Insufficient Reward
+
+In the beginning, your monetary rewards might still be insufficient, but it's more than made up for by the reward of building something on your own terms. Until you need to eat of course.
+
+### Absence of Fairness
+
+I assume you're fair to yourself unless you're some sort of masochist.
+
+### Conflict in Values
+
+Likewise, I assume you run your own business according to your own values. At the very least, you have the power to do so, and that autonomy is important.
+
+This is why [I started Haacked LLC](https://haacked.com/archive/2019/01/07/haacked-llc/) with high hopes and a smile. And I was off to a good start with a couple solid clients. I made ok money over the year without overworking myself.
+
+![Image of glass with etching that says "Haacked LLC 1 Year and more to come!"](https://user-images.githubusercontent.com/19977/72922729-6d3a7d00-3d02-11ea-9ea1-36354deff63d.jpg)
+
+## Burnout paper cuts
+
+But as I mentioned before, I jumped right back into work without an understanding of burnout and its causes. And it started to catch up to me.
+
+I loved working with my clients, but there were a lot of papercuts that nagged on me. Stupid things that shouldn't be a problem were amplified in my own head. For example, I might have a call with a client at a set time once a week. Only once a week should be easy. But when the time came, I dreaded the interruption to whatever I may have been doing at the time. It's important to understand, I always enjoyed the meeting, I just had a mental issue with the interruption. I had trouble dealing with _anything_ on my schedule. It seems ridiculous, but that was the state of my head.
+
+Along with that, I was putting pressure on myself to blog regularly and build up my social media presence so I could ward away the specter of irrelevance and maybe attract more customers. This is entirely self-inflicted, but it caused me to actually shut down and withdraw from all such activities.
+
+I started to write code to build a product. That really boosted my mood for a while. I really missed writing code in earnest. I spent four years at Microsoft as a program manager so any code I wrote was politely sent to the recycling bin and rewritten by a competent developer. I was hired at GitHub as a developer, but not long after I became a manager and director. I enjoy software leadership as well as writing code, and leading a small company is one way to do both.
+
+But even writing code started to wear thin. As this Harvard Business Review article notes, [Burnout at Work Isn’t Just About Exhaustion. It’s Also About Loneliness](https://hbr.org/2017/06/burnout-at-work-isnt-just-about-exhaustion-its-also-about-loneliness).
+
+In my list earlier of the many ways starting your own business helps address the main causes of burnout, you may have noticed I omitted "Lack of Community."
+
+I loved building something new, but I miss the camraderie of building something with other people. There's nobody there to bounce ideas off of at key indecision points. While rubber ducky debugging can be effective, the rubber ducky isn't a great work companion. It doesn't share any funny memes or tell any good jokes.
+
+## What I'm Doing in 2020
+
+Now that I understand what's going on, I can do something about it. As the great philosopher GI Joe once remarked...
+
+![Parody image of GI Joe telling kids "Remember kids, knowing is half the battle...the other half is extreme violence."](https://user-images.githubusercontent.com/19977/72928987-d4116380-3d0d-11ea-98eb-27f99414e6b4.png)
+
+I have the great privilege to be able to take a bit of time off and do absolutely nothing. It's what I should have done when I left GitHub. In fact, I planned a trip to recharge my batteries and after that, I hope to visit some friends and work to cultivate my friendships.
+
+To be fair, doing _nothing_ is not the right description. My two kids both are schooled at home (via an online public school) so I spend a lot of time helping them out. When I was trying to get my business off the ground, I wasn't able to be as involved with their schooling as I'd like. I still plan to blog here and there and write some code, but I want to avoid any self inflicted pressure to do so. I'll do it when I feel like it. I wish everyone who experiences burnout had the ability to take time off as I'm doing. My only advice is if you can't carve out time for yourself, try to reduce obligations so you feel you have more control and autonomy over your time. Saying no is hard, but worth it.
+
+Anyways, judging by this post, you're probably thinking I'm amazing at marketing my consulting services. I have no clients at the moment and pretty happy with that. For the first few months of this year, I think I'll avoid open-ended contracts. I do enjoy travel, so I may still consider coming on-site for a week to help a company out.
