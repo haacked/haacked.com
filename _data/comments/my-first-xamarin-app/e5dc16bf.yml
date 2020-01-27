@@ -1,0 +1,18 @@
+id: e5dc16bf
+date: 2020-01-26T21:33:12.7232723Z
+name: Thomas
+avatar: https://avatars.io/twitter/@asp_net/medium
+message: >-
+  Coming originally from your burnout article: What brought the joy of programming back to me a few years ago was to finally get myself into F#. It felt like in the early days :-). And of course there are some geeks who made it possible to build Xamarin apps written in F#. So you can skip all the XAML and MVVM stuff and adopt something that really makes sense ;) – the Elmish Architecture.
+
+
+
+  See https://thomasbandt.com/writing-xamarin-apps-in-fsharp for more info (just skip the first two ways).
+
+
+
+  Thomas
+
+
+
+  PS: Rider has fabulous Xamarin support built-in, so it might be worth trying that combo as well.
