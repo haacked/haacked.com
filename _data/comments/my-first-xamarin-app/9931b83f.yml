@@ -1,0 +1,27 @@
+id: 9931b83f
+date: 2020-02-11T16:24:40.9552775Z
+name: Frankie
+avatar: https://avatars.io/twitter/@frankiefoo732/medium
+message: >+
+  - It's pretty idiomatic, apart from nesting a ListView inside a ScrollView in MoodEditor (See https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/layouts/scroll-view#usage)
+
+  - You can use Roman Nurik's Android Asset Studio to generate Android Launcher Icon Set. And resize one of those to Apple's requirement.
+
+
+
+  Some suggestion:
+
+  - Padding & margin can go a long way.
+
+  - Use custom font to represent different mood? See https://xamarinhelp.com/custom-fonts-xamarin-forms/
+
+  - Maybe use CollectionView to allow horizontal scrolling for more encouragement. See https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/collectionview/
+
+  - Use FFImageLoading package to add image loading placeholder. See https://github.com/luberda-molinet/FFImageLoading
+
+  - Use a modal page to add encouragement instead of adding it inline, due to limited screen space on mobile. See https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/navigation/modal
+
+
+
+
+
