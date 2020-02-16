@@ -1,0 +1,5 @@
+id: 80818f2e
+date: 2020-02-16T00:06:29.2623537Z
+name: Alus
+avatar: https://avatars.io/twitter//medium
+message: Using facebook, the users can change their account email address. If we stored their email address and later they changed it, we may not be able to find them.
