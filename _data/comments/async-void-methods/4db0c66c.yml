@@ -1,0 +1,5 @@
+id: 4db0c66c
+date: 2020-02-17T15:23:20.4766273Z
+name: BrayanKhosravian
+avatar: https://avatars.io/twitter/Brayan@live.at /medium
+message: "You are using reactive extensions .Net for the 2nd code snippet.\r\nThe Subscribe method is not implemented to pass an awaitable task delegate. \r\nThe subscibe method is like an async void when passing an awaitable task delegate. \r\n\r\nThe proper way is to await the asnc method inside a select or selectmany. Then use the onerror parametter within the subscribe method. That way the exception ocxured ib the select can thick further to the subscribe method where the on error func is being executed. "
