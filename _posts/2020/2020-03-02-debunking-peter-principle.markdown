@@ -11,7 +11,7 @@ Professor Laurence J. Peter wrote [The Peter Principle](https://amzn.to/2PEUx2o)
 
 ![Man smoking a cigarette near a sign that says Danger - Flammable Gas](https://user-images.githubusercontent.com/19977/75708268-5bd77f80-5c75-11ea-82ae-f01d2d534f31.jpg "Ill advised.")
 
-Note that in naming this principle after himself, Professor Peter violates Haack's Law which states,
+Note that in naming this principle after himself, Professor Peter violates [Haack's Law](https://twitter.com/haacked/status/1234559122940416001) which states,
 
 > You can't name a law after yourself.
 
