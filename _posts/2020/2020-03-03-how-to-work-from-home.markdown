@@ -15,7 +15,7 @@ So now that you finally have the opportunity to work from home, don't blow it! W
 
 ## Wear Pants or equivalent
 
-There are many people who work from home and brag about how they don't have to wear pants. It's true that video chat only captures the top half of your body so who cares what's under deck? Perhaps you're excited that you don't have to wear pants. Some of you may even be excited about not taking showers. Gross. I'm here to suggest that you wear pants (or shorts, or a skirt, or something office appropriate) and that you continue to take showers.
+There are many people who work from home and brag about how they don't have to wear pants. It's true that video chat only captures the top half of your body so who cares what's under deck? Perhaps you're excited that you don't have to wear pants. Some of you may even be excited about not taking showers. Ewww. I'm here to suggest that you wear pants (or shorts, or a skirt, or something office appropriate) and that you continue to take showers.
 
 First of all, a bare ass on an office chair is not as comfortable as you might think and it's kind of gross. Perhaps your plan is to wear pajama pants. Definitely do it one day just to get it out your system. But the rest of the time, I recommend getting dressed for work as you normally would. It helps you get in the right mindset.
 
