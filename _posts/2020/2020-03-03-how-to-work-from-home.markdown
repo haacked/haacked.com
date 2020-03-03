@@ -1,6 +1,6 @@
 ---
 title: "How To Work From Home"
-description: "A guide to working from home for those who are just starting out."
+description: "Did a global pandemic spur your bosses to allow you to work from home? Here's a guide to working from home effectively for those who are just starting out."
 tags: [remote,work]
 excerpt_image: https://user-images.githubusercontent.com/19977/75818196-4df52d80-5d4d-11ea-81b8-0549453077c3.jpg
 ---
