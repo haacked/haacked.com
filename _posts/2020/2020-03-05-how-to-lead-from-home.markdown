@@ -29,7 +29,7 @@ Remember, you're not paying people to look busy or even to be busy. You're payin
 
 ## How Do I Build Trust?
 
-The tools to build trust are no different whether in-person or remote. The difference is when remote, it takes a bit more intention and effort. Colocated people often build camraderie and trust through happenstance and interactions that just don't happen remotely. I could write a whole blog post on building trust as a leader, but I'll focus on one specific tool, one-on-ones.
+The tools to build trust are no different whether in-person or remote. The difference is when remote, it takes a bit more intention and effort. Colocated people often build camaraderie and trust through happenstance and interactions that just don't happen remotely. I could write a whole blog post on building trust as a leader, but I'll focus on one specific tool, one-on-ones.
 
 [The Manager Tools Podcast](https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-1) has a great discussion about one-on-ones and one of the key points they make is this...
 
@@ -39,7 +39,7 @@ Some managers find themselves too busy to hold regular one-on-ones. They find th
 
 > Building a relationship and trust with your people is the fundamental act of managing.
 
-This is your job, so prioritize it. The one-on-one is a relationship building tool so don't sabotage it by asking for status updates. When I was at GitHub, I wrote up internal guidance for one-on-ones that I'd like to turn into a blog post someday. Fortunately, there's already good writing out there on the topic. The Know Your Team blog has a [couple](https://knowyourteam.com/blog/2017/12/01/how-to-have-an-honest-one-on-one-meeting-with-an-employee/) great [posts](https://knowyourteam.com/blog/2019/10/10/the-5-mistakes-youre-making-in-your-one-on-one-meetings-with-direct-reports/) about one-on-ones.
+This is your job, so prioritize it. The one-on-one is a relationship-building tool so don't sabotage it by asking for status updates. When I was at GitHub, I wrote up internal guidance for one-on-ones that I'd like to turn into a blog post someday. Fortunately, there's already good writing out there on the topic. The Know Your Team blog has a [couple](https://knowyourteam.com/blog/2017/12/01/how-to-have-an-honest-one-on-one-meeting-with-an-employee/) of great [posts](https://knowyourteam.com/blog/2019/10/10/the-5-mistakes-youre-making-in-your-one-on-one-meetings-with-direct-reports/) about one-on-ones.
 
 One last note on this, make sure to leverage video conference tools for "face to face" conversations. Humans are social creatures. We are [hardwired for social connection](https://www.scientificamerican.com/article/why-we-are-wired-to-connect/). We need to talk, laugh, vent, etc. with each other.
 
@@ -85,7 +85,7 @@ Decisions (and rationale) must be documented in a durable location. At GitHub we
 
 This is a tip from Justin Spahr-Summers in [his great post, Working Asynchronously](https://medium.com/@jspahrsummers/working-asynchronously-c4f4acd289ac).
 
-Open ended question such as "What should we do to solve this in the future?" often fall flat when asked in an asynchronous forum. Seth Godin covers this phenomena in his post ["Open the cookies"](https://seths.blog/2019/10/open-the-cookies/)...
+Open-ended question such as "What should we do to solve this in the future?" often fall flat when asked in an asynchronous forum. Seth Godin covers this phenomena in his post ["Open the cookies"](https://seths.blog/2019/10/open-the-cookies/)...
 
 > Put a bag of cookies in the break room and it might sit for days.
 >
