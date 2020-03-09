@@ -7,7 +7,7 @@ excerpt_image: https://user-images.githubusercontent.com/19977/76013609-11e8d680
 
 [Facebook, Microsoft, Google, and Amazon just told its Seattle area employees to work from home](https://www.npr.org/2020/03/05/812173963/coronavirus-amazon-facebook-google-microsoft-urge-seattle-workers-to-stay-home) for the next three weeks to reduce the risk of spreading the coronavirus. Lucky for them, I just wrote two posts that will help.
 
-1. [How to work from home](https://haacked.com/archive/2020/03/05/how-to-lead-from-home/)
+1. [How to work from home](https://haacked.com/archive/2020/03/03/how-to-work-from-home/)
 2. [How to lead from home](https://haacked.com/archive/2020/03/05/how-to-lead-from-home/)
 
 The tips in those posts are useful to any remote and distributed team, but they don't cove the unique issues a geographically distributed team faces. In this post, I'll turn the knob up to 11 and focus on teams where members work in multiple time-zones based on my own experience.
