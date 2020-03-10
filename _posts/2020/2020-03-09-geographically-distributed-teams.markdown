@@ -44,7 +44,7 @@ In both scenarios, it would be better to have the plan of record written down in
 
 One of the best posts on the subject (that I mentioned in a previous post too but will mention again), is [Working Asynchronously](https://medium.com/@jspahrsummers/working-asynchronously-c4f4acd289ac) by Justin Spahr-Summers. It's no coincidence that Justin and I worked together at GitHub.
 
-If something can be resolved in an email, chat, or online discussion, do that instead of setting up a meeting. If a regular meeting is absolutely necessary, rotate the time of the meeting to account for all the different timezones.
+If something can be resolved in an email, chat, or online discussion, do that instead of setting up a meeting. If a regular meeting is absolutely necessary, rotate the time of the meeting to account for all the different timezones. And don't forget to record the meeting and make it available to those who couldn't make it.
 
 ## One for all and all for one
 
