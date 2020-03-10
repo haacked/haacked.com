@@ -10,7 +10,7 @@ excerpt_image: https://user-images.githubusercontent.com/19977/76013609-11e8d680
 1. [How to work from home](https://haacked.com/archive/2020/03/03/how-to-work-from-home/)
 2. [How to lead from home](https://haacked.com/archive/2020/03/05/how-to-lead-from-home/)
 
-The tips in those posts are useful to any remote and distributed team, but they don't cove the unique issues a geographically distributed team faces. In this post, I'll turn the knob up to 11 and focus on teams where members work in multiple time-zones based on my own experience.
+The tips in those posts are useful to any remote and distributed team, but they don't cover the unique issues a geographically distributed team faces. In this post, I'll turn the knob up to 11 and focus on teams where members work in multiple time-zones based on my own experience.
 
 ![The Earth at Night](https://user-images.githubusercontent.com/19977/76013609-11e8d680-5ecd-11ea-9176-f0d69087a111.jpg "Photo of my former team at work - Image by NASA is in the public domain")
 
