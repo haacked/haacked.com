@@ -5,12 +5,14 @@ tags: [management,leadership,remote]
 excerpt_image: https://user-images.githubusercontent.com/19977/76013609-11e8d680-5ecd-11ea-9176-f0d69087a111.jpg
 ---
 
-[Facebook, Microsoft, Google, and Amazon just told its Seattle area employees to work from home](https://www.npr.org/2020/03/05/812173963/coronavirus-amazon-facebook-google-microsoft-urge-seattle-workers-to-stay-home) for the next three weeks to reduce the risk of spreading the coronavirus. Lucky for them, I just wrote two posts that will help.
+[Facebook, Microsoft, Google, and Amazon just told its Seattle area employees to work from home](https://www.npr.org/2020/03/05/812173963/coronavirus-amazon-facebook-google-microsoft-urge-seattle-workers-to-stay-home) for the next three weeks to reduce the risk of spreading the coronavirus. Lucky for them, I'm working on a series of post that will help.
 
 1. [How to work from home](https://haacked.com/archive/2020/03/03/how-to-work-from-home/)
 2. [How to lead from home](https://haacked.com/archive/2020/03/05/how-to-lead-from-home/)
+3. Geographically Distributed Teams (_This post._)
+4. [When Remote Work Goes Wrong](https://haacked.com/archive/2020/03/11/when-remote-work-goes-wrong/)
 
-The tips in those posts are useful to any remote and distributed team, but they don't cover the unique issues a geographically distributed team faces. In this post, I'll turn the knob up to 11 and focus on teams where members work in multiple time-zones based on my own experience.
+The tips in the first two posts are useful to any remote and distributed team, but they don't cover the unique issues a geographically distributed team faces. In this post, I'll turn the knob up to 11 and focus on teams where members work in multiple time-zones based on my own experience.
 
 ![The Earth at Night](https://user-images.githubusercontent.com/19977/76013609-11e8d680-5ecd-11ea-9176-f0d69087a111.jpg "Photo of my former team at work - Image by NASA is in the public domain")
 
