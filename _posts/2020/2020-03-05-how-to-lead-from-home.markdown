@@ -7,7 +7,12 @@ excerpt_image: https://user-images.githubusercontent.com/19977/72848206-f4331b00
 
 Working from home is a hot topic right now. If you're a manager letting your people work from home, you may have concerns. How do you ensure that people are working? How do you create a good remote work environment? Are your people really not wearing pants?
 
-Most of all, leaders want to know if shit will still get done and will their teams be successful. Yes! [Remote work is very productive](https://www.businessnewsdaily.com/15259-working-from-home-more-productive.html), but it takes some adjustment. This post provides a few tips based on my experience as a former leader of a remote and distributed team. It is a follow-up to my recent post [How to Work from Home](https://haacked.com/archive/2020/03/03/how-to-work-from-home/).
+Most of all, leaders want to know if shit will still get done and will their teams be successful. Yes! [Remote work is very productive](https://www.businessnewsdaily.com/15259-working-from-home-more-productive.html), but it takes some adjustment. This post provides a few tips based on my experience as a former leader of a remote and distributed team. It is the second post in a series I'm writing about remote work.
+
+1. [How to work from home](https://haacked.com/archive/2020/03/03/how-to-work-from-home/)
+2. How to lead from home (_This post._)
+3. [Geographically Distributed Teams](https://haacked.com/archive/2020/03/09/geographically-distributed-teams/)
+4. [When Remote Work Goes Wrong](https://haacked.com/archive/2020/03/11/when-remote-work-goes-wrong/)
 
 These posts are a response to current events. For those who might read this post far in the future, let me recap. A global pandemic caused by a mediocre beer turned the entire world into zombies unable to determine competence in their representatives. This lead to companies finally deciding to let their workers work from home.
 

@@ -11,7 +11,12 @@ Well guess what? It's finally happening! And all it took was a viral pandemic. A
 
 ![Woman sleeping on couch](https://user-images.githubusercontent.com/19977/75818196-4df52d80-5d4d-11ea-81b8-0549453077c3.jpg)
 
-So now that you finally have the opportunity to work from home, don't blow it! Working from home is a skill. How do you stay focused and effective? Should you wear pants? How do you avoid the total degradation of social skills and end up as [a modern Nell](https://en.wikipedia.org/wiki/Nell_(film))? Well my friend, I've been working from home for the last eight years and I'm happy to share some of my tips.
+So now that you finally have the opportunity to work from home, don't blow it! Working from home is a skill. How do you stay focused and effective? Should you wear pants? How do you avoid the total degradation of social skills and end up as [a modern Nell](https://en.wikipedia.org/wiki/Nell_(film))? Well my friend, I've been working from home for the last eight years and I'm happy to share some of my tips in a series of posts.
+
+1. How to work from home (_This post._)
+2. [How to lead from home](https://haacked.com/archive/2020/03/05/how-to-lead-from-home/)
+3. [Geographically Distributed Teams](https://haacked.com/archive/2020/03/09/geographically-distributed-teams/)
+4. [When Remote Work Goes Wrong](https://haacked.com/archive/2020/03/11/when-remote-work-goes-wrong/)
 
 ## Wear Pants or equivalent
 
