@@ -36,7 +36,7 @@ First, try to find one or more senior folks on the team to coach the team member
 
 It may be the case that it doesn't work to have senior members of the team coaching the person. For example, there may not be enough overlap. The life circumstances of folks may not support adapting their schedules to support coaching. In that case, find someone senior on another team within the company who is able and willing to coach them. This is not as ideal as they won't have project specific coaching, but better than the absence of a coach.
 
-If you're a small company, finding someone outside the team might to coach might not work out. In that case, look for a mentor outside of the company. In fact, do this anyways. An outside perspective is great to help a person develop in their career.
+If you're a small company, finding someone outside the team to coach might not work out. In that case, look for a mentor outside of the company. In fact, do this anyways. An outside perspective is great to help a person develop in their career.
 
 Another thing we've tried when a new team member is struggling to onboard to the team is to have someone from the team fly out to their location. We would rent a co-working space for the two to meet to have in-depth coaching and extended onboarding.
 
