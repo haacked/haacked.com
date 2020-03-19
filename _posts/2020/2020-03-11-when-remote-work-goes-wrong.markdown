@@ -24,7 +24,7 @@ One area where remote work can be especially challenging was [raised with this q
 
 > How do you deal with remote teams with low skills where mentoring is difficult or very limited (12h30 time difference)?
 
-First, what do we mean by "low skills" in this case? I took it to mean someone new to the job or to the career. Perhaps someone who does not have a lot of work experience in general. It's difficult enough to navigate a new career or team. But to do that while also learning a new style of working justs adds challenge on top of challenge. Sprinkle in a large timezone difference and you have a perfect parfait of perplexity.
+First, what do we mean by "low skills" in this case? I took it to mean someone new to the job or to the career. Perhaps someone who does not have a lot of work experience in general. It's difficult enough to navigate a new career or team. But to do that while also learning a new style of working just adds challenge on top of challenge. Sprinkle in a large timezone difference and you have a perfect parfait of perplexity.
 
 I'd be lying if I told you I've always found a way to succeed in this scenario. In my experience, this is an area where remote distributed companies really struggle. It takes a bit of extra effort to make this work, and even then, you might fail. Often, inexperienced folks need a lot of synchronous coaching. Sometimes a remote distributed company just isn't structured well to support someone early in their career. Sometimes a person just isn't well suited for remote work. How's that for a pep talk, eh?
 
