@@ -72,7 +72,7 @@ I must make one confession. I originally tried to do all this by using the publi
 
 **And now, for some preemptive answers to expected criticism.**
 
-​1. *You shouldn’t access the `HttpContext` anyways. You should abstract away the `HttpContext` by creating your own `IContex`t and using IoC and Dependency Injection.*
+​1. *You shouldn’t access the `HttpContext` anyways. You should abstract away the `HttpContext` by creating your own `IContext` and using IoC and Dependency Injection.*
 
 You’re absolutely right. Next criticism.
 
