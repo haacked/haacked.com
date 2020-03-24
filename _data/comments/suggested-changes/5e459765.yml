@@ -1,0 +1,8 @@
+id: 5e459765
+date: 2020-03-24T20:29:34.9989256Z
+name: Spike
+avatar: https://secure.gravatar.com/avatar/2dcc64c32595925a864e756fc3132f81?s=80&d=identicon&r=pg
+message: >-
+  I was very confused by this feature. When I clicked "add single comment" I get the diff panel, which is great... but the only two action buttons presented are "commit suggestion" and "add suggestion to batch". The 2nd one is obviously not going to do anything final, so I incorrectly imagined that "commit suggestion" was just some github geek's awkward way of saying "OK, submit this (change as a) suggestion".
+
+  But no, it literally means "take this suggested code change and commit it to the source branch (and run any build checks!)"    - I was absolutely astonished by this model. Calling this a "suggestion" seems insane. "commit this change" would have warned me away, but then I would have been stumped, looking for the "done" or "OK" or "submit suggestion" button.  Github needs to hire a UX engineer who understands some basic principles. Without special training, programmers are terrible UI/UX designers.
