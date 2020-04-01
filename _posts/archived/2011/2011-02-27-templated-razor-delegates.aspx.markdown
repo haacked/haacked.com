@@ -47,7 +47,7 @@ This List method accepts a templated Razor delegate, so we can call it like so.
 </ul>
 ```
 
-As I mentioned earlier, notice that the argument to this method, `<span class="asp">@</span>&lt;li><span class="asp">@</span>item&lt;/li>` is automatically converted into a `Func&lt;dynamic, HelperResult>` which is what our method requires.
+As I mentioned earlier, notice that the argument to this method, `@<li>@item</li>` is automatically converted into a `Func<dynamic, HelperResult>` which is what our method requires.
 
 Now this `List` method is very reusable. Let’s use it to generate a table of comic books.
 
