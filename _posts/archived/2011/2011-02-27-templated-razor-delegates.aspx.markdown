@@ -6,12 +6,12 @@ redirect_from: "/archive/2011/02/26/templated-razor-delegates.aspx/"
 
 [David Fowler](http://weblogs.asp.net/davidfowler/ "Fowler's Blog") turned me on to a really cool feature of Razor I hadn’t realized made it into 1.0, Templated Razor Delegates. What’s that? I’ll let the code do the speaking.
 
-<pre class="csharpcode"><code>
-<span class="asp">@</span>{
-  Func&lt;dynamic, <span class="kwrd">object</span>&gt; b = @&lt;strong&gt;@item&lt;/strong&gt;;
+```cshtml
+@{
+  Func<dynamic, object> b = @<strong>@item</strong>;
 }
-<span class="kwrd">&lt;</span><span class="html">span</span><span class="kwrd">&gt;</span>This sentence is <span class="asp">@</span>b("In Bold").<span class="kwrd">&lt;/</span><span class="html">span</span><span class="kwrd">&gt;</span>
-</code></pre>
+<span>This sentence is @b("In Bold").</span>
+```
 
 That could come in handy if you have friends who’ll jump on your case for using the bold tag instead of the strong tag because it’s “not semantic”. Yeah, I’m looking at you [Damian](http://damianedwards.wordpress.com/ "Damian") :stuck_out_tongue:  I mean, don’t both words signify being forceful? I digress.
 
@@ -37,36 +37,36 @@ public static class RazorExtensions {
 
 This List method accepts a templated Razor delegate, so we can call it like so.
 
-<pre class="csharpcode"><code>
-<span class="asp">@</span>{
+```
+@{
   var items = new[] { "one", "two", "three" };
 }
 
-&lt;ul>
-<span class="asp">@</span>items.List(<span class="asp">@</span>&lt;li>@item</li>)
-&lt;/ul>
-</code></pre>
+<ul>
+@items.List(@<li>@item</li>)
+</ul>
+```
 
 As I mentioned earlier, notice that the argument to this method, `<span class="asp">@</span>&lt;li><span class="asp">@</span>item&lt;/li>` is automatically converted into a `Func&lt;dynamic, HelperResult>` which is what our method requires.
 
 Now this `List` method is very reusable. Let’s use it to generate a table of comic books.
 
-<pre class="csharpcode"><code>
-<span class="asp">@</span>{
-    <span class="kwrd">var</span> comics = new[] { 
-        <span class="kwrd">new</span> ComicBook {Title = "Groo", Publisher = "Dark Horse Comics"},
-        <span class="kwrd">new</span> ComicBook {Title = "Spiderman", Publisher = "Marvel"}
+```cshtml
+@{
+    var comics = new[] { 
+        new ComicBook {Title = "Groo", Publisher = "Dark Horse Comics"},
+        new ComicBook {Title = "Spiderman", Publisher = "Marvel"}
     };
 }
 
-&lt;table>
+<table>
 @comics.List(
-  @&lt;tr>
-    &lt;td><span class="asp">@</span>item.Title</td>
-    &lt;td><span class="asp">@</span>item.Publisher</td>
-  &lt;/tr>)
-&lt;/table>
-</code></pre>
+  @<tr>
+    <td>@item.Title</td>
+    <td>@item.Publisher</td>
+  </tr>)
+</table>
+```
 
 This feature was originally implemented to support the WebGrid helper method, but I’m sure you’ll think of other creative ways to take
 advantage of it.
