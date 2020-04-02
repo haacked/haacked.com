@@ -1,0 +1,22 @@
+id: 76bb95fc
+date: 2020-04-02T15:00:21.4295620Z
+name: Alex
+avatar: https://avatars.io/twitter/https://github.com/aal89/medium
+message: >-
+  Good post!
+
+
+
+  "Do you see the effects of Conway’s Law in the software you produce?"
+
+
+
+  Very much so. These days, anno 2020, companies tend to go for the microservice architecture (modular architecture). In such scenarios it often is smart to model your teams such that they represent the different applications.
+
+
+
+  My company came up with such a design about two years ago, but kept the one-big-team thing. One year later we ran into so much trouble that we had to stop* the project and reflect on it. What it came down to was: "Hey, didn't we just write a monolith in four awkward split up pieces? (Yes)". I think we proved Conway's law that day.
+
+
+
+  * To this day (March 2020) the project is still on hold! Nobody has any clue what to do. Due to the sunk cost fallacy I think everybody is afraid to officially call the project failed and move on.
