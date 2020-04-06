@@ -1,13 +1,11 @@
 ---
 title: "Introducing Aboard Beta"
-description: ""
+description: "Aboard is a place for your organization, group, community to share information and ideas with thoughtful long form posts."
 tags: [leadership,remote]
 excerpt_image: https://getaboard.net/landing-site/images/app-screen-2800.png
 ---
 
-Please accept my humble invitation to try out the beta of [Aboard](https://getaboard.net/).
-
-[Aboard](https://getaboard.net/) fosters an environment where members of a group, whether it be a company, neighborhood, family, or otherwise, create a shared story. Each group sets up a "Board" (hence the name) which is a private website where members can post thoughtful content. It sounds simple, because it is. That's deliberate.
+__I invite you to try out the beta of [Aboard](https://getaboard.net/).__ [Aboard](https://getaboard.net/) fosters an environment where members of a group, whether it be a company, neighborhood, family, or otherwise, create a shared story. Each group sets up a "Board" (hence the name) which is a private website where members can post thoughtful content. It sounds simple, because it is. That's deliberate.
 
 ![Screenshot of an Aboard homepage](https://getaboard.net/landing-site/images/app-screen-2800.png)
 
