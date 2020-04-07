@@ -43,9 +43,9 @@ So I created what are effectively two editions of Aboard. Aboard for companies, 
 
 I've been working on Aboard for a while, but it's been a one person effort, so there's still a lot left to do to realize the vision I have for it. If you are interested in trying it, you would have my undying gratitude. I crave feedback!
 
-There's two ways to try it out. You could create a board for your company or group. Or, you could join a Board I created for Beta participants. Either way, all roads start with the sign-up process at https://getaboard.net/. Thank you!
+There's two ways to try it out. You could create a board for your company or group. Or, you could join a Board I created for Beta participants. Either way, all roads start with the sign-up process at [https://getaboard.net/](https://getaboard.net/). Thank you!
 
-Report all feedback to support@getaboard.net or post an issue at https://github.com/haacked/aboard-feedback/
+Report all feedback to support@getaboard.net or post an issue at [https://github.com/haacked/aboard-feedback/](https://github.com/haacked/aboard-feedback/)
 
 ## The Stack
 
