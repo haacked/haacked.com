@@ -1,6 +1,6 @@
 ---
 title: "It's Time To Break to Build"
-description: "I'm all for encouraging people to build solutions to our problems. We need more builders. But we also need to understand the real systemic challenges holding them back. This is a critique of It's Time To Build."
+description: "I'm all for encouraging people to build solutions to our problems. We need more builders. But we also need to understand the real systemic challenges that makes this opportunity not available to everyone. This is a critique of It's Time To Build."
 tags: [leadership,politics]
 excerpt_image: https://user-images.githubusercontent.com/19977/79702304-bc883f00-8258-11ea-92e4-a76d300177fc.png
 ---
