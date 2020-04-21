@@ -94,7 +94,7 @@ In this one area, I agree that the issue is desire. We don't have the desire to 
 
 Many of the ideas I mention actually enjoy [majority support in America](https://thehill.com/hilltv/what-americas-thinking/412545-70-percent-of-americans-support-medicare-for-all-health-care). We have the desire! So what's stopping us. One major factor is our current political system.
 
-The two-party system in America leaves us with all or nothing politics and milquetoast candidates. I would think those on the other end of the political spectrum would want this too! After all, I know many conservatives who feel the current president doesn't speak for them, but will end up voting for him because there's no other choice. Likewise for me, Biden is a disappointing candidate who doesn't represent many of the positions I care about. I will vote for him because he's I believe he's less dangerous than the other candidate.
+The two-party system in America leaves us with all or nothing politics and milquetoast candidates. I would think those on the other end of the political spectrum would want this too! After all, I know many conservatives who feel the current president doesn't speak for them, but will end up voting for him because there's no other choice. Likewise for me, Biden is a disappointing candidate who doesn't represent many of the positions I care about. I will vote for him because I believe he's less dangerous than the other candidate.
 
 The point here is not which candidate is better. The point is many of us on the right and left agree that we're stuck in a catch 22. If you vote for candidates that actually represent your interests, your vote may be wasted or worse, help elect the opposition under our current system.
 
