@@ -1,0 +1,5 @@
+id: 387784b8
+date: 2020-05-04T00:07:44.3938157Z
+name: Hoobajoob
+avatar: https://avatars.io/twitter//medium
+message: ISO-8859-1 (ISO_8859-1:1987) is a standardized single-byte encoding that I believe has every byte value mapped, so you can violate Skeet-ommendations all you want with that encoding. The obvious benefit is the more compact representation (vs base64), with the obvious downside that you're sending/storing little lies and misrepresentations wherever such strings go.
