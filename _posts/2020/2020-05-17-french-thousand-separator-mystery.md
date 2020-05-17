@@ -5,7 +5,7 @@ tags: [dotnet,csharp,testing]
 excerpt_image: https://user-images.githubusercontent.com/19977/82157531-dce6f180-9836-11ea-9a33-6cc5069e339f.png
 ---
 
-I enjoy writing silly chat bots. To indulge my silliness, I've been exploring the [Microsoft Bot Framework](https://dev.botframework.com/). Overall, it's a pretty good framework, but I've had some weird bugs here and there. In order to dig into them, I cloned the [microsoft/botbuilder-dotnet](https://github.com/microsoft/botbuilder-dotnet/) to my machine and ran all the unit tests. It's what I do.
+I enjoy writing silly chat bots. To indulge my silliness, I've been exploring the [Microsoft Bot Framework](https://dev.botframework.com/). Overall, it's a pretty good framework, but I've had some weird bugs here and there. It's unclear to me if they're my fault or not. So to dig into them, I cloned the [microsoft/botbuilder-dotnet](https://github.com/microsoft/botbuilder-dotnet/) to my machine and ran all the unit tests. It's what I do.
 
 One of the tests failed with the message:
 
