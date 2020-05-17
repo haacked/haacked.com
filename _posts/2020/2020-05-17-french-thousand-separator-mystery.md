@@ -101,3 +101,5 @@ According to this [JavaMoney issue](https://github.com/JavaMoney/jsr354-ri/issue
 Unfortunately, all the TRAC links are broken so I couldn't follow up to verify, but it seems reasonable.
 
 So what does this all mean? Programming is hard. And programming for multiple locales is even harder. Be safe out there.
+
+Perhaps the biggest lesson is any time you tell yourself "Oh, this'll be a simple fix!" You're probably wrong.
