@@ -82,7 +82,7 @@ The result on my machine and in dotnetfiddle is:
 > Currency Group Separator for fr-FR is 8239
 > As HEX 202F
 
-To be nice, I thought I'd fix the test and submit a PR. It's the scouting rule. However, my PR failed the build. On the projects machines, that group separator is `160`. What gives? So I dug into it more and discovered the [Unicode CLDR project](http://cldr.unicode.org/).
+To be nice, I thought I'd fix the test and [submit a PR](https://github.com/microsoft/botbuilder-dotnet/pull/3936). It's the scouting rule. However, my PR failed the build. On the projects machines, that group separator is `160`. What gives? So I dug into it more and discovered the [Unicode CLDR project](http://cldr.unicode.org/).
 
 CLDR does not stand for "Certainly Long, Didn't Read." Rather, it's the Unicode Common Locale Data Repository. It's a project by the Unicode Consortium to provide locale data in an XML format.
 
