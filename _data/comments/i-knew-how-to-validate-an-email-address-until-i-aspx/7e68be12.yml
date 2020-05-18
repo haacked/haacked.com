@@ -1,0 +1,5 @@
+id: 7e68be12
+date: 2020-05-18T20:00:57.7004997Z
+name: TheArcticGiant
+avatar: https://haacked.com/assets/img/unknown-avatar.png
+message: The best way to validate email addresses (in my experience), is when a person signs up, sent them a verification email; If they are able to receive and respond, the email is clearly valid. Any "verification" on your part just introduces the possibility of excluding a valid address. There are exceptions, of course.
