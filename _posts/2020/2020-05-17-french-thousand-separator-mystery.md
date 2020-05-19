@@ -40,7 +40,7 @@ Console.WriteLine($"12{nbsp}000,3000");
 
 This results in:
 
-> 49,50,160,48,48,48,44,51,48,48,48
+> 49,50,160,48,48,48,44,51,48,48,48  
 > 49,50,8239,48,48,48,44,51,48,48,48
 
 Would you look at that?!
@@ -79,7 +79,7 @@ Important note, I made sure to call the [`CultureInfo` constructor](https://docs
 
 The result on my machine and in dotnetfiddle is:
 
-> Currency Group Separator for fr-FR is 8239
+> Currency Group Separator for fr-FR is 8239  
 > As HEX 202F
 
 To be nice, I thought I'd fix the test and [submit a PR](https://github.com/microsoft/botbuilder-dotnet/pull/3936). It's the scouting rule. However, my PR failed the build. On the projects machines, that group separator is `160`. What gives? So I dug into it more and discovered the [Unicode CLDR project](http://cldr.unicode.org/).
