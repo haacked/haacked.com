@@ -1,0 +1,5 @@
+id: fbbcf85e
+date: 2020-05-21T20:11:03.4153410Z
+name: Kristof
+avatar: https://github.com/@kristofmattei.png
+message: "This reminds of when I was sorting pictures...\r\n\r\nI get it with `GetDetailsOf(file, 12)` and then try to parse it with `[System.DateTime]::Parse(date)`, just letting it take my current culture, which matched the way `GetDetailsOf()` returned things. \r\n\r\n`FormatException`...\r\n\r\nI looked at the data, and the Date format matched. What's going on? \r\n\r\nTried a couple of things, like putting in my own format and such...\r\n\r\nDidn't work.\r\n\r\nEventually started to look the data that got returned vs a string that I generated myself...\r\nThey didn't match. The one returned by the system contained some 8206 and 8207.\r\n\r\nOdd.\r\n\r\nPutting that in in Google showed me that I wasn't the first person experiencing this:\r\nhttps://stackoverflow.com/a/18298371/162694\r\n\r\nFiltering out those values made it work even without passing in a culture. Great! \r\n\r\nVery weird that even the built-in `new CurrentCulture(\"en-US\")` is incompatible with the way the shell returns. \r\n\r\nAh-well, lessons learned. "
