@@ -82,6 +82,6 @@ More Reading
 There’s a lot of good content out there that puts these patterns into historical and categorical perspective. Besides the links already mentioned in this paper, I recommend checking out…
 
 -   [GUI Architectures](http://www.martinfowler.com/eaaDev/uiArchs.html "GUI Architectures") – Martin Fowler presents the most influential ways to organize code for a rich client system.
--   [Interactive Application Architecture Patterns](http://ctrl-shift-b.blogspot.com/2007/08/interactive-application-architecture.html "Interactive App Patterns") – Derek Greer provides an overview of a whole slew of application patterns. **Highly recommend!**
+-   [Interactive Application Architecture Patterns](http://aspiringcraftsman.com/2007/08/25/interactive-application-architecture/ "Interactive App Patterns") – Derek Greer provides an overview of a whole slew of application patterns. **Highly recommend!**
 -   [PEAA     Catalog](http://www.martinfowler.com/eaaCatalog/index.html "P of EAA") – A catalog of patterns in Fowler’s *Patterns of Enterprise Application Architecture* book. This covers more than just MVC and MVP.
 -   [An Architectural View of the ASP.NET MVC Framework](http://dotnetslackers.com/articles/aspnet/AnArchitecturalViewOfTheASPNETMVCFramework.aspx "Architectural view of ASP.NET MVC") – Dino Esposito compares and contrasts ASP.NET MVC with classic ASP.NET.
