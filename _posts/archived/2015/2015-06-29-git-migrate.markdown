@@ -15,9 +15,9 @@ As you may know, a key component of the [GitHub Flow](https://guides.github.com/
 
 So what happens when you run into the situation I just described? Are you stuck? Heavens no! [The thing about Git](http://2ndscale.com/rtomayko/2008/the-thing-about-git) is that its very design supports fixing up mistakes after the fact. It's very forgiving in this regard. For example, a recent blog post on the GitHub blog highlights all the different ways [you can undo mistakes in Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git).
 
-## The Easy Case - Fixing `master`
+## The Easy Case - Fixing the main branch
 
-This is the simple case. I made commits on master that were intended for a branch off of master. Let's walk through this scenario step by step with some visual aids.
+This is the simple case. I made commits on `master` that were intended for a branch off of master. Let's walk through this scenario step by step with some visual aids.
 
 The following diagram shows the state of my repository before I got all itchy trigger finger on it.
 
@@ -124,8 +124,14 @@ In a blog post I wrote last year, [GitHub Flow Like a Pro with these 13 Git alia
 
 Well now I have one more to add to this list. I decided to call this alias, `migrate`. Here's the definition for the alias. Notice that it uses `git rebase --onto` which we used for the second scenario I described. It turns out that this happens to work for the first scenario too.
 
+```ini
+migrate = "!f(){ DEFAULT=$(git default); CURRENT=$(git symbolic-ref --short HEAD); git checkout -b $1 && git branch --force $CURRENT ${3-$CURRENT@{u}} && git rebase --onto ${2-$DEFAULT} $CURRENT; }; f"
 ```
-    migrate = "!f(){ CURRENT=$(git symbolic-ref --short HEAD); git checkout -b $1 && git branch --force $CURRENT ${3-$CURRENT@{u}} && git rebase --onto ${2-master} $CURRENT; }; f"
+
+Note this alias depends on an alias I wrote in my previous blog post.
+
+```ini
+default = !git symbolic-ref refs/remotes/origin/HEAD | sed 's@^refs/remotes/origin/@@'
 ```
 
 There's a lot going on here and I could probably write a whole blog post unpacking it, but for now I'll try and focus on the usage pattern.

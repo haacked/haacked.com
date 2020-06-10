@@ -10,11 +10,11 @@ _BONUS! I've added a [useful 14th Git Alias](https://haacked.com/archive/2015/06
 
 ![github-branching](https://cloud.githubusercontent.com/assets/19977/3638839/8343b14c-1063-11e4-8369-537f7d62be06.png)
 
-You are now a master of GitHub flow. Drop the mic and go release some software!
+You are now an expert of GitHub flow. Drop the mic and go release some software!
 
-Ok, there's probably a few more details than that diagram to understand. The basic idea is that new work (such as a bug fix or new feature) is done in a "topic" branch off of the `master` branch. At any time, you should feel free to push the topic branch and create a pull request (PR). A Pull Request is a discussion around some code and not [necessarily the completed work](https://github.com/blog/1124-how-we-use-pull-requests-to-build-github).
+Ok, there's probably a few more details than that diagram to understand. The basic idea is that new work (such as a bug fix or new feature) is done in a "topic" branch off of the default branch. At any time, you should feel free to push the topic branch and create a pull request (PR). A Pull Request is a discussion around some code and not [necessarily the completed work](https://github.com/blog/1124-how-we-use-pull-requests-to-build-github).
 
-At some point, the PR is complete and ready for review. After a few rounds of review (as needed), either the PR gets closed or someone merges the branch into master and the cycle continues. If the reviews have been respectful, you may even still continue to like your colleagues.
+At some point, the PR is complete and ready for review. After a few rounds of review (as needed), either the PR gets closed or someone merges the branch into the default branch and the cycle continues. If the reviews have been respectful, you may even still continue to like your colleagues.
 
 It's simple, but powerful.
 
@@ -127,37 +127,45 @@ This commits everything in my working directory and then does a hard reset to re
 
 While working on a branch, I regularly push my changes to GitHub. At some point, I'll go to github.com and create a pull request, people will review it, and then it'll get merged. Once it's merged, I like to [tidy up and delete the branch via the Web UI](https://github.com/blog/1335-tidying-up-after-pull-requests). At this point, I'm done with this topic branch and I want to clean everything up on my local machine. Here's where I use one of my more powerful aliases, `git bdone`.
 
-This alias does the following.
-
-1. Switches to master (though you can specify a different default branch)
-2. Runs `git up` to bring master up to speed with the origin
-3. Deletes all branches already merged into master using another alias, `git bclean`
-
-It's quite powerful and useful and demonstrates some advanced concepts of git aliases. But first, let me show `git bclean`. This alias is meant to be run from your master (or default) branch and does the cleanup of merged branches.
+But first, I want to introduce a helper alias. This alias is used to retrieve your default branch. The aliases shouldn't assume it's named `master`.
 
 ```ini
-bclean = "!f() { git checkout ${1-master} && git branch --merged ${1-master} | grep -v " ${1-master}$" | xargs git branch -d; }; f"
+default = !git symbolic-ref refs/remotes/origin/HEAD | sed 's@^refs/remotes/origin/@@'
+```
+
+Now we can use this in the following aliases. My `bdone` alias does the following.
+
+This alias does the following.
+
+1. Switches to the default branch (though you can specify a different branch)
+2. Runs `git up` to bring the branch up to speed with the origin
+3. Deletes all branches already merged into the specified branch using another alias, `git bclean`
+
+It's quite powerful and useful and demonstrates some advanced concepts of git aliases. But first, let me show `git bclean`. This alias is meant to be run from your default branch and does the cleanup of merged branches.
+
+```ini
+bclean = "!f() { DEFAULT=$(git default); git branch --merged ${1-$DEFAULT} | grep -v " ${1-$DEFAULT}$" | xargs git branch -d; }; f"
 ```
 
 If you're not used to shell scripts, this looks a bit odd. What it's doing is defining a function and then calling that function. The general format is `!f() { /* git operations */; }; f` We define a function named `f` that encapsulates some git operations, and then we invoke the function at the very end.
 
 What's cool about this is we can take advantage of arguments to this alias. In fact, we can have optional parameters. For example, the first argument to this alias can be accessed via `$1`. But suppose you want a default value for this argument if none is provided. That's where the curly braces come in. Inside the braces you specify the argument index (`$0` returns the whole script) followed by a dash and then the default value.
 
-Thus when you type `git bclean` the expression `${1-master}` evaluates to `master` because no argument was provided. But if you're working on a GitHub pages repository, you'll probably want to call `git bclean gh-pages` in which case the expression `${1-master}` evaluates to `gh-pages` as that's the first argument to the alias.
+Thus when you type `git bclean` the expression `${1-$DEFAULT}` evaluates to your default branch because no argument was provided. But if you're working on a GitHub pages repository, you'll probably want to call `git bclean gh-pages` in which case the expression `${1-$CURRENT}` evaluates to `gh-pages` as that's the first argument to the alias.
 
 Let's break down this alias into pieces to understand it.
 
-`git branch --merged ${1-master}` lists all the branches that have been merged into the specify branch (or master if none is specified). This list is then piped into the `grep -v "${1-master}"` command. [Grep](http://www.gnu.org/software/grep/manual/grep.html) prints out lines matching the pattern. The `-v` flag inverts the match. So this will list all merged branches that are not `master` itself. Finally this gets piped into `xargs` which takes the standard input and executes the `git branch -d` line for each line in the standard input which is piped in from the previous command.
+`git branch --merged ${1-$CURRENT}` lists all the branches that have been merged into the specify branch (or the default branch if none is specified). This list is then piped into the `grep -v "${1-$CURRENT}"` command. [Grep](http://www.gnu.org/software/grep/manual/grep.html) prints out lines matching the pattern. The `-v` flag inverts the match. So this will list all merged branches that are not the specified branch itself. Finally this gets piped into `xargs` which takes the standard input and executes the `git branch -d` line for each line in the standard input which is piped in from the previous command.
 
-In other words, it deletes every branch that's been merged into `master` except `master`. I love how we can compose these commands together.
+In other words, it deletes every branch that's been merged into the specified branch except the branch. I love how we can compose these commands together.
 
 With `bclean` in place, I can compose my git aliases together and write `git bdone`.
 
 ```ini
-bdone = "!f() { git checkout ${1-master} && git up && git bclean ${1-master}; }; f"
+bdone = "!f() { DEFAULT=$(git default); git checkout ${1-$DEFAULT} && git up && git bclean ${1-$DEFAULT}; }; f"
 ```
 
-I use this one all the time when I'm deep in the GitHub flow. And now, you too can be a GitHub flow master.
+I use this one all the time when I'm deep in the GitHub flow. And now, you too can be a GitHub flow maestro.
 
 ## The List
 
@@ -175,8 +183,8 @@ Here's a list of all the aliases together for your convenience.
   undo = reset HEAD~1 --mixed
   amend = commit -a --amend
   wipe = !git add -A && git commit -qm 'WIPE SAVEPOINT' && git reset HEAD~1 --hard
-  bclean = "!f() { git branch --merged ${1-master} | grep -v " ${1-master}$" | xargs git branch -d; }; f"
-  bdone = "!f() { git checkout ${1-master} && git up && git bclean ${1-master}; }; f"
+  bclean = "!f() { DEFAULT=$(git default); git branch --merged ${1-$DEFAULT} | grep -v " ${1-$DEFAULT}$" | xargs git branch -d; }; f"
+  bdone = "!f() { DEFAULT=$(git default); git checkout ${1-$DEFAULT} && git up && git bclean ${1-$DEFAULT}; }; f"
 ```
 
 ## Credits and more reading
@@ -192,3 +200,5 @@ It would be impossible to source every git alias I use as many of these are pret
 _PS: If you liked this post [follow me on Twitter](https://twitter.com/haacked) for interesting links and my wild observations about pointless drivel_
 
 _PPS_: For Windows users, these aliases don't require using Git Bash. They work in PowerShell and CMD when msysgit is in your path. For example, if you install [GitHub for Windows](https://windows.github.com/) and use the GitHub Shell, these all work fine.
+
+___PPS___: If you want to use all my aliases, I keep them up to date in my [dotfiles repo](https://github.com/haacked/dotfiles) which includes a script to install them.
