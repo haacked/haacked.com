@@ -13,7 +13,7 @@ but that was the extent of it. It sounded interesting, but it didn’t
 have any relevance to any projects I had at the time.
 
 Fortunately, now that I work at GitHub I have the pleasure to work with
-an Rx Guru, [Paul Betts](http://paulbetts.org/ "Paul Betts"), on a
+an Rx Guru, [Anaïs Betts](https://blog.anaisbetts.org, "Anaïs Betts"), on a
 project that actively uses Rx. And man, is my mind blown by Rx.
 
 Hits Me Like A Hurricane
