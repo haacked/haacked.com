@@ -11,7 +11,7 @@ Recently, I found another reason to avoid `async void` methods. While investigat
 
 Then I noticed that the return type of the method was `async void`. On a hunch I changed it to `async Task` and it started to fail. Ohhhhh snap!
 
-If you write unit tests using XUnit.NET and accidentally mark them as `async void` instead of `async Task`, the tests are effectively ignored. I furiously looked for other cases where we did this and fixed them.
+If you write unit tests using xUnit.NET and accidentally mark them as `async void` instead of `async Task`, the tests are effectively ignored. I furiously looked for other cases where we did this and fixed them. _UPDATE 2020-07-26: This is no longer true and probably has not been true for a long time still because of changes the xUnit.net team made._
 
 Pretty much the only valid reason to use `async void` methods is in the case where you need an asynchronous event handler. But if you use Reactive Extensions, there's an even better approach that I've [written about before, `Observable.FromEventPattern`](https://haacked.com/archive/2012/04/09/reactive-extensions-sample.aspx/).
 
