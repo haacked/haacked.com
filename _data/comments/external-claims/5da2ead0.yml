@@ -1,0 +1,5 @@
+id: 5da2ead0
+date: 2020-08-12T20:48:11.0403915Z
+name: Torben Friis Møller
+avatar: https://secure.gravatar.com/avatar/f2645044c08a84972e4cff0daf0f6c28?s=80&d=identicon&r=pg
+message: Very nice post. I ended up using AuthenticationHttpContextExtensions.AuthenticateAsync inside my IUserClaimsPrincipalFactory. This method accepts HttpContext and the name of the external scheme as arguments and returns the result containing ClaimsPrincipal with all your external claims.
