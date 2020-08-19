@@ -1,0 +1,5 @@
+id: 11ccd295
+date: 2020-08-19T08:05:32.2057605Z
+name: Asad
+avatar: https://secure.gravatar.com/avatar/40f2e1ccdad7733ee2499d6cf00857d3?s=80&d=identicon&r=pg
+message: "      dear i want to update my table with auto increment SrNo colum using C# SQL but fail and there is error near '=' what is wrong with query?     \r\n\r\n int SerialNo = 0;\r\n            cnn.Open();\r\n            string query = \"Update tableName Set SrNo = \"+ SerialNo +\" = \"+ SerialNo +\"+1 \";\r\n            cmnd = new SqlCommand(query, cnn);\r\n            cmnd.ExecuteNonQuery();\r\n            MessageBox.Show(\"Record Updated Successfully\");\r\n            cnn.Close();"
