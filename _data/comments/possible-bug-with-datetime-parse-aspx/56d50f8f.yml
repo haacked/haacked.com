@@ -1,0 +1,7 @@
+id: 56d50f8f
+date: 2020-08-28T18:12:23.9463235Z
+name: Caius
+avatar: https://haacked.com/assets/img/unknown-avatar.png
+message: >+
+  Like `DateTime.TryParseExact(utcStr, fmt, CultureInfo.InvariantCulture, DateTimeStyles.AssumeUniversal | DateTimeStyles.AdjustToUniversal, out var dt)` it seems... Hope you weren't waiting this entire time!
+
