@@ -86,7 +86,7 @@ In my experience, it often is the case that a single thread of work does take lo
 
 So how do you collaborate effectively with people in different time zones? The truth is, it's not easy. I've worked closely with employees who were awake while I was asleep and asleep while I was awake. The answer isn't a giant pile of caffeine and work all the damn time. That's unsustainable.
 
-The way to compensate for this is the same way computers compensate for the slow down in Moore's law. Parallelize your work. In a complex software project, there's no end of work to be done. Often, I'll hit an impasse on one thread of work. Maybe I'm stuck and I know my teammate has more expertise with this section of code. So I push the code to GitHub, add a comment describing my confusion and the problem in as much detail as possible, then move no to another thread of work.
+The way to compensate for this is the same way computers compensate for the slow down in Moore's law. Parallelize your work. In a complex software project, there's no end of work to be done. Often, I'll hit an impasse on one thread of work. Maybe I'm stuck and I know my teammate has more expertise with this section of code. So I push the code to GitHub, add a comment describing my confusion and the problem in as much detail as possible, then move on to another thread of work.
 
 With this approach, a single thread of work might take longer, but the overall throughput doesn't have to suffer too much. Also, it discourages too much siloing of work within a team as folks in different time zones should be able to help with any areas of discussion.
 
