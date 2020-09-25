@@ -1,0 +1,5 @@
+id: 5d4f837a
+date: 2020-09-25T06:31:55.1715229Z
+name: Henrik
+avatar: https://secure.gravatar.com/avatar/2a91b268af2317a0555552bbe2e6a44c?s=80&d=identicon&r=pg
+message: "Thanks. I'm still trying to figure out what I have fouled up. When giving \"\\nHello\" in _stData and doing this...\r\n\r\nByte[] btaBytes = Encoding.UTF8.GetBytes(_stData.Trim());\r\n                return Convert.ToBase64String(btaBytes);\r\n\r\n.. I will get a \"nice looking\" Base64-string. However, if I take the response and do this...\r\n\r\nByte[] btaBytes = Convert.FromBase64String(_stB64Data.Trim());\r\n                return Encoding.UTF8.GetString(btaBytes);        \r\n\r\n... the return of this will be \"Hello\" (without the newline)...\r\n\r\nProbably something that I have misunderstood regarding how Base64 works :-("
