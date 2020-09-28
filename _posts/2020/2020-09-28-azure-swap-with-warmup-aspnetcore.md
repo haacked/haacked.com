@@ -59,12 +59,12 @@ In a useful [troubleshooting blog post](https://ruslany.net/2017/11/most-common-
 
 Fortunately the solution is straightforward. First, I went to the `TLS/SSL settings` for my site in the Azure Portal and turned `HTTPS Only` to `Off`.
 
-Then I branched my request pipeline using the [`MapWhen` extension method](https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.mapwhenextensions.mapwhen?view=aspnetcore-3.1).
+Then I branched my request pipeline using the [`UseWhen` extension method](https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.usewhenextensions.usewhen?view=aspnetcore-3.1).
 
 ```csharp
 public void Configure(IApplicationBuilder app) {
     // ...
-    app.MapWhen(context =>
+    app.UseWhen(context =>
     {
         var path = context.Request.Path.Value ?? string.Empty;
         return !path.Equals("/statuscheck", StringComparison.OrdinalIgnoreCase);
@@ -91,7 +91,7 @@ That way I could simplify the code in my startup class to:
 ```csharp
 public void Configure(IApplicationBuilder app) {
     // ...
-    app.MapWhen(context => !context.Request.IsStatusCheckRequest(),
+    app.UseWhen(context => !context.Request.IsStatusCheckRequest(),
       mainApp =>
       {
         mainApp.UseHttpsRedirection();
@@ -100,7 +100,7 @@ public void Configure(IApplicationBuilder app) {
 }
 ```
 
-`MapWhen` takes two parameters. The first is the condition. In this case, when the request is NOT a status check request. The second is the code to call when that condition is true, in this case it registers the HTTPS redirect middleware.
+`UseWhen` takes two parameters. The first is the condition. In this case, when the request is NOT a status check request. The second is the code to call when that condition is true, in this case it registers the HTTPS redirect middleware.
 
 
 In effect, this code forks my app pipeline into two paths. For requests to `/statuscheck` HTTP requests are allowed. For all other requests, we continue to redirect HTTP to HTTPS.
