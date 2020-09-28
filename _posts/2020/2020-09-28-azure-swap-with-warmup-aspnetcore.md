@@ -31,7 +31,11 @@ Afterwards, all my deployments failed. I used `curl` to confirm my /statuscheck 
 curl -i https://mysite.example.com/statuscheck
 ```
 
-I tried running the swap manually from the Azure Portal and it gave a very unhelpful error message. First of all, the error message contained the strings `{0}` and `{1}` in places that were clearly meant to hold more information. It appears someone forgot to pass parameters to `string.Format`.
+I tried running the swap manually from the Azure Portal and it gave a very unhelpful error message. First of all, the error message contains the following string:
+
+> `Cannot swap slots for site '{0}' because the application initialization in '{1}' slot either took too long or failed.`
+
+It looks like someone forgot to pass parameters to `string.Format`.
 
 Second, it mentioned a `Bad Request: 400` status code.
 
