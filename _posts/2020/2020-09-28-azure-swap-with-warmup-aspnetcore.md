@@ -114,3 +114,5 @@ Problem solved!
 What's particularly subtle about all this is if you set up `WEBSITE_SWAP_WARMUP_PING_PATH` but do not set up `WEBSITE_SWAP_WARMUP_PING_STATUSES`, the warm-up request by default accepts all status codes, including `307`. So your deploys will pass, but it may not necessarily be done with the warm-up as it's unclear if Azure follows the redirect in this case.
 
 This was a frustrating experience, but I got it working in the end. My hope is that if you have a similar setup to me, this will save you time and headaches.
+
+__UPDATE: My deploys still fail.__ If I specify `WEBSITE_SWAP_WARMUP_PING_STATUSES` = `200` my deploys still fail even though I can use `curl` to see the status check URLs return 200. I'm at a loss here and I've opened up a support ticket with Microsoft. I'll post back here with what I learn.
