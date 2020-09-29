@@ -1,0 +1,22 @@
+id: a2d5f55d
+date: 2020-09-29T15:38:44.1306522Z
+name: haacked
+avatar: https://haacked.com/assets/img/unknown-avatar.png
+message: >-
+  @Rasmus thanks for the tip!
+
+
+
+  @Rando that won't work for me. I'm trying to set up an auto-swap. As part of the auto-swap, Azure will do the following steps:
+
+
+
+  1. Apply production settings to the staging deployment slot
+
+  2. Send the ping request to ensure it's warmed up and that it returns a 200 status code (per my settings).
+
+  3. If the ping request returns 200, it'll swap otherwise it won't.
+
+
+
+  So I could have my pipeline make the warmup request after deployment, but that wouldn't guarantee that it's done before Azure does the auto-swap. I need Azure to make that request and wait for a 200 status code to be sure.
