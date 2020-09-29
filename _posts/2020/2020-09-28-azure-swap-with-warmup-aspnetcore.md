@@ -116,3 +116,5 @@ What's particularly subtle about all this is if you set up `WEBSITE_SWAP_WARMUP_
 This was a frustrating experience, but I got it working in the end. My hope is that if you have a similar setup to me, this will save you time and headaches.
 
 __UPDATE: My deploys still fail.__ If I specify `WEBSITE_SWAP_WARMUP_PING_STATUSES` = `200` my deploys still fail even though I can use `curl` to see the status check URLs return 200. I'm at a loss here and I've opened up a support ticket with Microsoft. I'll post back here with what I learn.
+
+__UPDATE: Resolved the issue.__ I tried to be clever and pass a query string parameter to my warmup URL. For example, by setting `WEBSITE_SWAP_WARMUP_PING_PATH` to `/statuscheck?azure-warmup=true`. This way I could quickly distinguish my own testing of this URL from the request made by Azure in my logs. Upon reflection, of course this doesn't work because Azure URL Encodes `WEBSITE_SWAP_WARMUP_PING_PATH` before requesting it. So the request path is `/statuscheck%3Fazure-warmup=true` and not `/statuscheck` as I expected.
