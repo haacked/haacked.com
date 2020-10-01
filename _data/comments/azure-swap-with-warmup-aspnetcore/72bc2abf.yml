@@ -1,0 +1,5 @@
+id: 72bc2abf
+date: 2020-10-01T15:37:22.5285661Z
+name: drdamour
+avatar: https://github.com/@drdamour.png
+message: was turning https only off really required? i'd think the warmup call would come to the backend instance and not through the load balancer (and i assumed the https only was at the LB)
