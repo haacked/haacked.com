@@ -118,3 +118,20 @@ This was a frustrating experience, but I got it working in the end. My hope is t
 __UPDATE: My deploys still fail.__ If I specify `WEBSITE_SWAP_WARMUP_PING_STATUSES` = `200` my deploys still fail even though I can use `curl` to see the status check URLs return 200. I'm at a loss here and I've opened up a support ticket with Microsoft. I'll post back here with what I learn.
 
 __UPDATE: Resolved the issue.__ I tried to be clever and pass a query string parameter to my warmup URL. For example, by setting `WEBSITE_SWAP_WARMUP_PING_PATH` to `/statuscheck?azure-warmup=true`. This way I could quickly distinguish my own testing of this URL from the request made by Azure in my logs. Upon reflection, of course this doesn't work because Azure URL Encodes `WEBSITE_SWAP_WARMUP_PING_PATH` before requesting it. So the request path is `/statuscheck%3Fazure-warmup=true` and not `/statuscheck` as I expected.
+
+## Conclusion
+
+In the end, I figured out what I was doing wrong and it's easy to chalk it up to PEBCAK (Problem Exists Between Chair And Keyboard). While that may be true, it's also true that the feature could improve its usability to reduce PEBCAK occurrences.
+
+Sebastian Ros on Twitter [suggested a couple of improvements](https://twitter.com/sebastienros/status/1311060155174322176):
+
+1. It should allow for https or accept a redirect to the https endpoint
+2. It should not encode the URL you passed
+
+I definitely agree with the first suggestion. Otherwise everyone deploying a standard ASP.NET Core app will run into this and my not even realize it!
+
+My preference would be to follow the redirect so IT JUST WORKS<sup>TM</sup>. I understand this is not trivial and requires a bit of thought. For example, it can't blindly follow the redirect. The initial request is made internal to Azure, bypassing (as I understand it) DNS and the load balances etc. So it would need to be smart about following the redirect. If the redirect is to the same endpoint, but only the scheme is changed, then re-make the original request with HTTPS.
+
+Might be easier to add a radio button group to select between HTTP and HTTPS. Either way, the current behavior is a hidden gotcha.
+
+As for the second suggestion, I also agree. It would require validation of the user input. For example, if I put something that isn't allowed for the end of the URL, it should present an error message. Alternatively, have two fields, one for the path and one for the query string. Either way, the current behavior is also confusing and a hidden gotcha.
