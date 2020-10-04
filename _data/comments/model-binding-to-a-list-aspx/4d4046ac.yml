@@ -1,0 +1,5 @@
+id: 4d4046ac
+date: 2020-10-04T15:31:04.9924537Z
+name: Phil
+avatar: https://secure.gravatar.com/avatar/65e2502f6831ba129bea2268a87e8366?s=80&d=identicon&r=pg
+message: Twelve years later this is still a hot topic! This is pretty cool - especially the solution for non-sequential indices, but in my scenario I need the user to be able to add items to the list before it's posted back to the server and I don't think this article covers a way to handle that. The only thing I can think of is to use Javascript to inject indexes into the markup when the form is submitted.
