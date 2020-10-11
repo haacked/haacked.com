@@ -107,24 +107,22 @@ There will always be some friction in the developer market. But the friction due
 
 I'm not a trained economist, but I'd like to play one on TV. And all those [Planet Money podcasts](https://www.npr.org/sections/money/) I've listened to convinced me I can try and think like one. And so far, that's what I've tried to do in this post. I've taken a dispassionate look at these trends to draw a conclusion on where they are headed.
 
-Still, it's important to ask the question, is all this is a good thing or not? The answer is, it's hard to say. See, a great economist's answer. Accurate but unsatisfying.
-
-But to be fair, there will be winners and losers.
+Still, it's important to ask the question, is all this is a good thing or not? The answer is, it's hard to say. See, a great economist's answer. Accurate but unsatisfying. Let me try harder.
 
 On the growth of remote work, there are people who lament the lack of human touch and serendipitious interactions that comes with being physically present with coworkers. That is a valid concern, but it's not as bad as you might expect. I spent seven years at GitHub as a remote worker and I formed deep bonds with my colleagues there. Shameless plug, I [wrote a series about how to do remote work effectively](https://haacked.com/archive/2020/03/03/how-to-work-from-home/) based on those experiences.
 
 Another concern is the lack of investment in local communites this may lead to. Many business owners take pride in running a business that employs people in their own communities. This may be mitigated by the fact that remote workers in that community may have more opportunities and better wages, and thus more disposable income to spend in the community.
 
-Yet another concern is this will lead to companies in the United States shipping all their jobs to cheaper countries. I purposely limited my argument to the United States. In part, because that's where I live and what I know. But also because of one of the conditions of the law of one price,
+Yet another concern is this will lead to companies in the United States shipping all their jobs to cheaper countries. I don't doubt, many companies will try and move more work offshore, but that trend started a long time ago [with mixed results](https://hbr.org/2005/12/getting-offshoring-right).
 
-> legal restrictions, the currency exchange rates are the same
+> However, contrary to popular perception, many businesses have had, at best, mixed results. According to several studies, half the organizations that shifted processes offshore failed to generate the financial benefits they expected to.
 
-Hiring employees in other countries introduces all sorts of legal issues and regulations to consider. Also, there are cultural barriers and time zone challenges inherent as well. I don't doubt, many companies will try and move more work offshore, but that trend started a long time ago with mixed results. I don't believe the move to remote work reduces those frictions by a large amount.
+Hiring employees in other countries introduces new risks and all sorts of legal issues and regulations to consider. Also, there are cultural barriers and time zone challenges inherent as well. There is a lot of friction involved in sending jobs overseas. I don't anticipate a massive exodus of job loss as a result of embracing remote work.
 
 For developers, remote work provides lots of flexibility, especially for working parents. Remote workers can live where they please and have more control over their schedule. Developers in lower paying markets may see their wages increase as they join the larger market. Developers in the highest paying markets may see their pay decrease a bit, but they will have options to move to less expensive areas of the country.
 
 There are many benefits to companies. Many companies will reduce the amount of expensive office space they lease. They will have access to more talent across the country. Some companies may struggle. For example, companies in the lowest paying markets may struggle as talent prices are driven up by larger and better funded companies. But that may be offset if they're able to sell their product and services to a larger market as well.
 
-In the end, whether it's good or bad may be irrelevant. Unless the trend towards remote work is curtailed, it's inevitable. What could curtail it? A massive backlash against it. But as [more and more people and companies see the benefits](https://mobile.twitter.com/chris_herd/status/1313202750818312192?s=21), I don't see that happening.
+In the end, whether it's good or bad may be irrelevant. It's inevitable. As [more and more people and companies see the benefits of remote work](https://mobile.twitter.com/chris_herd/status/1313202750818312192?s=21), I don't see a sustained backlash happening.
 
 So if we accept that remote work is the future, it's in our best interests to look at how we mitigate damage for those who are negatively affected and act accordingly. Good luck out there!
