@@ -1,5 +1,5 @@
 ---
-title: "Should Remote Compensation Be Tied To Location?"
+title: "Will Remote Compensation Be Tied To Location In The Future?"
 description: "If someone is a fully remote worker, should their pay be tied to local market rates for their position? What does the trend towards remote work entail for the future of remote worker compensation? Find out in this post!"
 tags: [remote,compensation]
 excerpt_image: https://user-images.githubusercontent.com/19977/95684646-f0a94080-0ba7-11eb-8b2d-4b64bf8de392.png
