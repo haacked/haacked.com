@@ -49,7 +49,7 @@ Sometimes, companies get the bright idea to engage in collusion to keep wages lo
 
 Companies also leverage information asymmetry to keep wages low. Companies have better salary data than individual employees. Employees often don't realize that their compensation hasn't kept up with the market over time. Or that they are being paid less than their peers.
 
-A [recent study](http://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/) supports this claim.
+A [calculation based on average raises vs salaries](http://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/) supports this claim.
 
 > Staying employed at the same company for over two years on average is going to make you earn less over your lifetime by about 50% or more.
 > 
