@@ -1,5 +1,5 @@
 ---
-title: Applying Conway&rsquo;s Law
+title: Applying Conway's Law
 tags: [management]
 redirect_from: "/archive/2013/05/12/applying-conways-law.aspx/"
 ---
