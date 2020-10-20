@@ -1,0 +1,10 @@
+id: ed0a2748
+date: 2020-10-20T14:48:27.8216707Z
+name: Mark Bowler
+avatar: https://haacked.com/assets/img/unknown-avatar.png
+message: >-
+  I only hit this issue if the redirect rule was specified in the web.config, which is mentioned in the troubleshooting guide https://docs.microsoft.com/en-us/azure/app-service/deploy-staging-slots#troubleshoot-swaps
+
+
+
+  Not seen the issue when HTTPS only is configured in the TLS/SSL settings.
