@@ -1,0 +1,5 @@
+id: bf009675
+date: 2020-10-20T22:14:04.6416509Z
+name: Mohammad
+avatar: https://github.com/@mo_azhdari.png
+message: Wasn't it easier to set environment to "staging", then just check if `IsStaging()` in `Startup.Configure()` (or anywhere else)?
