@@ -151,11 +151,11 @@ If you're not used to shell scripts, this looks a bit odd. What it's doing is de
 
 What's cool about this is we can take advantage of arguments to this alias. In fact, we can have optional parameters. For example, the first argument to this alias can be accessed via `$1`. But suppose you want a default value for this argument if none is provided. That's where the curly braces come in. Inside the braces you specify the argument index (`$0` returns the whole script) followed by a dash and then the default value.
 
-Thus when you type `git bclean` the expression `${1-$DEFAULT}` evaluates to your default branch because no argument was provided. But if you're working on a GitHub pages repository, you'll probably want to call `git bclean gh-pages` in which case the expression `${1-$CURRENT}` evaluates to `gh-pages` as that's the first argument to the alias.
+Thus when you type `git bclean` the expression `${1-$DEFAULT}` evaluates to your default branch because no argument was provided. But if you're working on a GitHub pages repository, you'll probably want to call `git bclean gh-pages` in which case the expression `${1-$DEFAULT}` evaluates to `gh-pages` as that's the first argument to the alias.
 
 Let's break down this alias into pieces to understand it.
 
-`git branch --merged ${1-$CURRENT}` lists all the branches that have been merged into the specify branch (or the default branch if none is specified). This list is then piped into the `grep -v "${1-$CURRENT}"` command. [Grep](http://www.gnu.org/software/grep/manual/grep.html) prints out lines matching the pattern. The `-v` flag inverts the match. So this will list all merged branches that are not the specified branch itself. Finally this gets piped into `xargs` which takes the standard input and executes the `git branch -d` line for each line in the standard input which is piped in from the previous command.
+`git branch --merged ${1-$DEFAULT}` lists all the branches that have been merged into the specify branch (or the default branch if none is specified). This list is then piped into the `grep -v "${1-$DEFAULT}"` command. [Grep](http://www.gnu.org/software/grep/manual/grep.html) prints out lines matching the pattern. The `-v` flag inverts the match. So this will list all merged branches that are not the specified branch itself. Finally this gets piped into `xargs` which takes the standard input and executes the `git branch -d` line for each line in the standard input which is piped in from the previous command.
 
 In other words, it deletes every branch that's been merged into the specified branch except the branch. I love how we can compose these commands together.
 
