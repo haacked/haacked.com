@@ -7,10 +7,7 @@ redirect_from: "/archive/2010/10/20/renaming-nupack.aspx/"
 UPDATE: [The new name is
 NuGet](https://haacked.com/archive/2010/10/29/nupack-is-now-nuget.aspx "NuPack renamed")
 
-**The NuPack project is undergoing a rename and we need your help!** For
-details, **[read the announcement about the
-rename](http://www.outercurve.org/Blogs/EntryId/22/Changing-the-NuPack-Project-Name "Announcing renaming NuPack")**
-on the Outercurve Foundation’s blog.
+**The NuPack project is undergoing a rename and we need your help!**
 
 What is the new name?
 ---------------------
