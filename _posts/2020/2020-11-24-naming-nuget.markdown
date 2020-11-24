@@ -49,7 +49,7 @@ __Renaming NuGet__
 
 Picture a cool October in Redmond, WA ten years ago. [NuGet 1.0 was just released](https://haacked.com/archive/2010/10/06/introducing-nupack-package-manager.aspx/), but it was named NuPack at the time. NuPack was an Outercurve Foundation open source project. The OuterCurve Foundation was a precursor to the .NET Foundation.
 
-However Caltech informed the Outercurve Foundation they had a software package of the same name.
+However, Caltech informed the Outercurve Foundation they had a software package of the same name.
 
 > NUPACK is a growing software suite for the analysis and design of nucleic acid structures, devices, and systems.
 
