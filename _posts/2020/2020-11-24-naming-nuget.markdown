@@ -15,7 +15,7 @@ One extreme approach to solicit input is to follow Cunningham's Law (named after
 
 Well I'm good at that!
 
-While funny and effective, I don't recommend taknig this approach intentionally. Especially not with your team. Working with a team requires trust and collaboration, not techniques that may come across as a tad manipulative. Of course I can't help that I've inadverdently taken this approach many times.
+While funny and effective, I don't recommend taking this approach intentionally. Especially not with your team. Working with a team requires trust and collaboration, not techniques that may come across as a tad manipulative. Of course I can't help that I've inadverdently taken this approach many times.
 
 Justin Spahr-Summers describes a more nuanced version of this approach in his post, [Working asynchronously](https://medium.com/@jspahrsummers/working-asynchronously-c4f4acd289ac) where he states,
 
@@ -29,7 +29,7 @@ In fact, this idea of getting input early is embodied [by how GitHub uses pull r
 >
 > Pull Requests are a great way to start a conversation of a feature, so start one as soon as possible- even before you are finished with the code. Your team can comment on the feature as it evolves, instead of providing all their feedback at the very end.
 
-It's important to note that this is not an easy thing to do by any means. Nobody wants to look like a chump who doesn't know what they're doing. Also, it's harder for some people than others because of their circumstances. If you're new to a career or team, you may worry that exposing an idea early will erode trust in your abilities. If you're a member of an underrepresented groups, you may receive harsher criticism due to bias. It's incumbent on leaders to create the type of environment where people feel safe exposing ideas early for feedback. Early feedback gets better results.
+It's important to note that this is not an easy thing to do by any means. Nobody wants to look like a chump who doesn't know what they're doing. Also, it's harder for some people than others because of their circumstances. If you're new to a career or team, you may worry that exposing an idea early will erode trust in your abilities. If you're a member of an underrepresented group, you may receive harsher criticism due to bias. It's incumbent on leaders to create the type of environment where people feel safe exposing ideas early for feedback. Early feedback gets better results.
 
 Why am I discussing this? Well, it started where most of my ideas for blog posts come from these days, with a Twitter discussion. In this case Immo Landwerth, a PM on the .NET team [tweeted](https://twitter.com/terrajobst/status/1329958007271088130),
 
@@ -47,9 +47,9 @@ Hmmm, I don't know! So let's go back in time and find out.
 
 __Renaming NuGet__
 
-Picture a cool October in Redmond, WA ten years ago. [NuGet 1.0 was just released](https://haacked.com/archive/2010/10/06/introducing-nupack-package-manager.aspx/), but it as named NuPack at the time. NuPack was an Outercurve Foundation open source project. The OuterCurve Foundation was a precursor to the .NET Foundation.
+Picture a cool October in Redmond, WA ten years ago. [NuGet 1.0 was just released](https://haacked.com/archive/2010/10/06/introducing-nupack-package-manager.aspx/), but it was named NuPack at the time. NuPack was an Outercurve Foundation open source project. The OuterCurve Foundation was a precursor to the .NET Foundation.
 
-However Caltech informed the Outercurve Foundation they had a software package of the same name.
+However, Caltech informed the Outercurve Foundation they had a software package of the same name.
 
 > NUPACK is a growing software suite for the analysis and design of nucleic acid structures, devices, and systems.
 
