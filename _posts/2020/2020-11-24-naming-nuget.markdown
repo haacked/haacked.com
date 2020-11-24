@@ -29,7 +29,7 @@ In fact, this idea of getting input early is embodied [by how GitHub uses pull r
 >
 > Pull Requests are a great way to start a conversation of a feature, so start one as soon as possible- even before you are finished with the code. Your team can comment on the feature as it evolves, instead of providing all their feedback at the very end.
 
-It's important to note that this is not an easy thing to do by any means. Nobody wants to look like a chump who doesn't know what they're doing. Also, it's harder for some people than others because of their circumstances. If you're new to a career or team, you may worry that exposing an idea early will erode trust in your abilities. If you're a member of an underrepresented groups, you may receive harsher criticism due to bias. It's incumbent on leaders to create the type of environment where people feel safe exposing ideas early for feedback. Early feedback gets better results.
+It's important to note that this is not an easy thing to do by any means. Nobody wants to look like a chump who doesn't know what they're doing. Also, it's harder for some people than others because of their circumstances. If you're new to a career or team, you may worry that exposing an idea early will erode trust in your abilities. If you're a member of an underrepresented group, you may receive harsher criticism due to bias. It's incumbent on leaders to create the type of environment where people feel safe exposing ideas early for feedback. Early feedback gets better results.
 
 Why am I discussing this? Well, it started where most of my ideas for blog posts come from these days, with a Twitter discussion. In this case Immo Landwerth, a PM on the .NET team [tweeted](https://twitter.com/terrajobst/status/1329958007271088130),
 
