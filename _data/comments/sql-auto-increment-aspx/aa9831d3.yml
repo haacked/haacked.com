@@ -1,0 +1,5 @@
+id: aa9831d3
+date: 2020-11-24T08:10:04.3133153Z
+name: MAHDI
+avatar: https://haacked.com/assets/img/unknown-avatar.png
+message: "DECLARE @counter int\r\nSET @counter = 0\r\nUPDATE #tmp_Users\r\nSET @counter = counter = @counter + 1\r\n\r\nthis code will update with value 1 , however is not counter that increases every time update function triggers "
