@@ -15,7 +15,7 @@ One extreme approach to solicit input is to follow Cunningham's Law (named after
 
 Well I'm good at that!
 
-While funny and effective, I don't recommend taknig this approach intentionally. Especially not with your team. Working with a team requires trust and collaboration, not techniques that may come across as a tad manipulative. Of course I can't help that I've inadverdently taken this approach many times.
+While funny and effective, I don't recommend taking this approach intentionally. Especially not with your team. Working with a team requires trust and collaboration, not techniques that may come across as a tad manipulative. Of course I can't help that I've inadverdently taken this approach many times.
 
 Justin Spahr-Summers describes a more nuanced version of this approach in his post, [Working asynchronously](https://medium.com/@jspahrsummers/working-asynchronously-c4f4acd289ac) where he states,
 
