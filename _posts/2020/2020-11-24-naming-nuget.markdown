@@ -15,13 +15,13 @@ One extreme approach to solicit input is to follow Cunningham's Law (named after
 
 Well I'm good at that!
 
-While funny and effective, I don't recommend taking this approach intentionally. Especially not with your team. Working with a team requires trust and collaboration, not techniques that may come across as a tad manipulative. Of course I can't help that I've inadverdently taken this approach many times.
+While funny and effective, I don't recommend taking this approach intentionally. Especially not with your team. Working with a team requires trust and collaboration, not techniques that may come across as a tad manipulative. Of course I can't help that I've inadvertently taken this approach many times.
 
 Justin Spahr-Summers describes a more nuanced version of this approach in his post, [Working asynchronously](https://medium.com/@jspahrsummers/working-asynchronously-c4f4acd289ac) where he states,
 
 > People are much more willing to chime in if they disagree with something concrete. So, __instead of asking an open-ended question, assert a direction.__
 
-The point here is not to _dictate_ a direction, but to put forth a concrete proposal and _then_ ask for feedback. If you get expose a proposal, any proposal, early, it gives people an opportunity to provide feedback before it's too late.
+The point here is not to _dictate_ a direction, but to put forth a concrete proposal and _then_ ask for feedback. If you can expose a proposal, any proposal, early, it gives people an opportunity to provide feedback before it's too late.
 
 In fact, this idea of getting input early is embodied [by how GitHub uses pull requests](https://github.blog/2012-05-02-how-we-use-pull-requests-to-build-github/),
 
@@ -86,7 +86,7 @@ Me too! I liked it a lot. We quickly secured the nuget.org domain name (nuget.co
 
 ![Nugget or Nougat (or nuget.org)](https://user-images.githubusercontent.com/19977/99890425-d4230e00-2c13-11eb-87b9-323745328bc7.png)
 
-I added NuGet to the survery and promoted the hell out of it because I intended to honor the results of the vote, but I disliked the other names.
+I added NuGet to the survey and promoted the hell out of it because I intended to honor the results of the vote, but I disliked the other names.
 
 And eight days later, what GP liked, GP got when [I declared that the winner is NuGet](https://haacked.com/archive/2010/10/29/nupack-is-now-nuget.aspx/).
 
