@@ -82,6 +82,10 @@ As far as I can tell it came from [a comment on my blog](https://haacked.com/arc
 
 > I like NuGet
 
+UPDATE! Sharp eyed reader Alexander Köplinger [tweeted that](https://twitter.com/akoeplinger/status/1331685241031970818) it is more likely the suggestion came from Gunnar Liljas and [he has the receipt](https://twitter.com/gliljas/status/28540302538)!
+
+> Officially retitled my #nupack suggestion to NuGet. Pronounce it "nugget" or "nougat"? Well, I'm swedish, so they're both candy to me :)
+
 Me too! I liked it a lot. We quickly secured the nuget.org domain name (nuget.com was not available and as I write this it's a site that presents the user with these three choices).
 
 ![Nugget or Nougat (or nuget.org)](https://user-images.githubusercontent.com/19977/99890425-d4230e00-2c13-11eb-87b9-323745328bc7.png)
