@@ -1,0 +1,5 @@
+id: a2fade09
+date: 2020-12-02T22:59:47.1133699Z
+name: kgw
+avatar: https://haacked.com/assets/img/unknown-avatar.png
+message: Need to format the exception data with CDATA in order to prevent an exception when setting the .InnerXml property in the InsertDetailIntoOldStream method.
