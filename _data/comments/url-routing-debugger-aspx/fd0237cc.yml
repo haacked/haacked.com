@@ -1,0 +1,5 @@
+id: fd0237cc
+date: 2021-01-15T14:32:13.1391826Z
+name: MD
+avatar: https://haacked.com/assets/img/unknown-avatar.png
+message: How do you display the page ? I intalled the nuget package, and added "<add key="RouteDebugger:Enabled" value="true" />" in the config file, now how can I display the utility please ?
