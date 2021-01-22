@@ -1,0 +1,5 @@
+id: 16993926
+date: 2021-01-22T18:26:10.1013654Z
+name: Shelby
+avatar: https://haacked.com/assets/img/unknown-avatar.png
+message: I had a similar experience as Spike with this feature.  But in addition to accidentally committing (to my coworker's branch!) what was meant to be a suggestion, I found I could not actually suggest the changes that were needed in that PR, because I could not make the change on a file that the original person had not touched.  They put the change on the wrong file, so I was going to make a suggestion (which I assumed they would have to accept), to undo the changes on the one file and redo them on a different file.  And I could not.
