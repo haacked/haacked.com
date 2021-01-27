@@ -70,9 +70,9 @@ I spent a lot of time cleaning up the CSS and tightening up the markup. It's muc
 
 When you run the `haackbar` theme, you'll notice it has a different color scheme from my site. I did that on purpose. Feel free to steal my design, but not my color and font scheme please. Tweak those to match your own tastes.
 
-It's easy to override the theme's styles and layouts. For example, here's my [`assets/css/main.scss`](https://github.com/Haacked/haacked.com/blob/master/assets/css/main.scss) file where I override some of the colors and CSS styles from the theme.
+It's easy to override the theme's styles and layouts. For example, here's my [`assets/css/main.scss`](https://github.com/Haacked/haacked.com/blob/main/assets/css/main.scss) file where I override some of the colors and CSS styles from the theme.
 
-If you use my theme, you should do the same to make it your own. Note that there are more customization details in the [theme's README](https://github.com/Haacked/haackbar/blob/master/README.md).
+If you use my theme, you should do the same to make it your own. Note that there are more customization details in the [theme's README](https://github.com/Haacked/haackbar/blob/main/README.md).
 
 ## Try it out
 
