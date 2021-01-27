@@ -12,15 +12,15 @@ permalink: /about/
 
 In case you were wondering, not that I have any reason to believe you were, *Haacked* is *not* my real name. _Haacked_ started off as my [blogger handle](https://haacked.com/archive/2005/03/12/what-is-your-blogger-handle.aspx "What’s your blogger handle?"). It's probably no surprise that it's a play off my last name (Haack) and I use it everywhere: [Twitter](https://twitter.com/haacked), [GitHub](https://github.com/haacked), [StackOverflow](https://stackoverflow.com/users/598/haacked), [LinkedIn](https://www.linkedin.com/in/haacked/), and so on.
 
-It also forms the basis for [my company name, Haacked LLC](https://haacked.com/archive/2019/01/07/haacked-llc/). As for me, my real name is Phil Haack. Nice to meet you!
+If you're into real names, my real name is Phil Haack. Nice to meet you!
 
-The best way to reach me is to DM me on Twitter. For work inquiries, email [phil@haacked.com](mailto:phil@haacked.com).
+The best way to reach me is to DM me on Twitter.
 
 ## What I do
 
-I coach software organizations to help them become the best versions of themselves. Often, it's not the lack of technical know-how that holds teams back, but the lack of management and leadership skills that get in the way. When I help teams in this way, it's important that I leave them with tools and systems in place to scale their growth and learning.
+I build software at [A Serious Business, Inc.](https://www.aseriousbusiness.com/), a company I co-founded with a friend.
 
-Before I started Haacked LLC, I worked at [GitHub](http://github.com/) doing whatever I could [to make it even more awesome](https://haacked.com/archive/2018/12/18/leaving-github/). Prior to that I worked at Microsoft on [NuGet](http://nuget.org) and [ASP.NET MVC](https://www.asp.net/mvc) and helped to usher in Microsoft's Open Source era.
+Before I started A Serious Business, Inc., I worked at [GitHub](http://github.com/) doing whatever I could [to make it even more awesome](https://haacked.com/archive/2018/12/18/leaving-github/). Prior to that I worked at Microsoft on [NuGet](http://nuget.org) and [ASP.NET MVC](https://www.asp.net/mvc) and helped to usher in Microsoft's Open Source era.
 
 I'm also a [published author of several technical books](https://www.amazon.com/Phil-Haack/e/B005G0TNRU/ref=sr_ntt_srch_lnk_1?qid=1546924429&sr=8-1) and a regular international speaker.
 
@@ -46,9 +46,9 @@ All content on haacked.com is the copyright of Phil Haack unless otherwise state
 
 Here's a more condensed bio I use for conferences
 
-> Phil Haack is the founder of Haacked LLC where he coaches software organizations to become the best versions of themselves.
+> Phil Haack is a co-founder and CTO of [A Serious Business, Inc.](https://www.aseriousbusiness.com/) building serious products for serious people. Very serious. More on that later.
 >
-> To do this, Phil draws upon his over twenty years of experience in the software industry. Most recently, he was a director of engineering at GitHub and helped make GitHub friendly to developers on the Microsoft platform.
+> Phil has over twenty years of experience in the software industry. Prior to A Serious Business, Inc., he was a director of engineering at GitHub and helped make GitHub friendly to developers on the Microsoft platform.
 >
 > Prior to GitHub, he was a Senior Program Manager at Microsoft responsible for shipping ASP.NET MVC, NuGet, among other projects. These products had permissive open source licenses and ushered in Microsoft's Open Source era.
 > 
