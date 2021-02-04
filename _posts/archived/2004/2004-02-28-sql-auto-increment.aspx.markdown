@@ -12,7 +12,7 @@ For example, suppose I want to select record from a table of users, but add a co
 ---------|--------|------
  0       | 3432   | BillBrasky@example.COM
  1       | 7913   | zoolander@example.com
- 2       | 8372   | donaldtrump@example.com
+ 2       | 8372   | donaldduck@example.com
 
 To start, I can run the following query to create the temp table:
 
