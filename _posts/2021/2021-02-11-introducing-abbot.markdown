@@ -27,7 +27,7 @@ Hubot is fantastic. However, it can be tedious to set up and keep running. And i
 
 Abbot is a hosted chat bot that you can install with a couple of clicks. Like Hubot, it lives in your chat room and responds to commands like a champ. Abbot can be a lot of fun, but it can also do a lot of heavy lifting for you and your colleagues.
 
-If you're curious to try it out, head on over to [https://ab.bot/](https://ab.bot/) and click [TRY FOR FREE](https://ab.bot/login). We're in Beta right now and it's free to try out. Just authenticate with your Slack or Discord account to create an Abbot account. Then follow the instructions to install it into your chat platform.
+If you're curious to try it out, head on over to [https://ab.bot/](https://ab.bot/) and click [TRY FOR FREE](https://ab.bot/login). We're in Beta right now and it's free to try out. Just authenticate with your Slack or Discord account to create an Abbot account. Then follow the instructions to install it into your chat platform. Also, be sure to check out the [lastest episode of .NET Rocks](https://dotnetrocks.com/?show=1726) where I talk about Abbot and ChatOps.
 
 ![Abbot in action](https://user-images.githubusercontent.com/19977/107439587-26731d00-6ae7-11eb-925c-0f50f09f2969.png)
 
