@@ -63,7 +63,7 @@ One powerful feature of Abbot is the ability to trigger a skill on a schedule or
 
 ## Why Abbot?
 
-As you might guess, Abbot is a play on A Bot. It has nothing to do with abs. We built Abbot because we enjoy pain and figured we could take care of all the hard work and tedious details of hosting a bot so you don't have to. When you write a skill, that skill can be used in every chat platform we support. We take care of the nitty gritty details of each platform. At the moment, that's just Slack and Discord, but we plan to support more depending on interest.
+As you might guess, Abbot is a play on A Bot. It has nothing to do with abs. We built Abbot because we enjoy pain and figured we could take care of all the hard work and tedious details of hosting a bot so you don't have to. For example, skills you write work across every chat platform we support without any additional work on your part. Likewise, any skill packages you install work across multiple chat platforms. We take care of the nitty gritty details of each platform. At the moment, we only support Slack and Discord, but the sky's the limit. As we add more chat platforms based on interest, your skills work across all of them. If your organization moves from Slack to Discord, all your skills continue to work!
 
 We already get a lot of benefit from Abbot. We've found Abbot to be a fast way to experiment with an idea. It's a lot of work to build and host a full Slack or Discord integration. With Abbot, you can have your idea running in a few minutes.
 
