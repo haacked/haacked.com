@@ -71,7 +71,7 @@ We already get a lot of benefit from Abbot. We've found Abbot to be a fast way t
 
 When evaluating a product, the stack isn't really that important. It's more important that the product solves a need for you and does it well. Having said that, if you're a long time reader of my bot, you're probably a developer interested in the behind the scenes details. I plan to write more about the development in the future. For now I'll give the highlights.
 
-The main website is an ASP.NET Core site written in C#. It's mostly Razor Pages, a few controllers, and a bit of JavaScript. We're not using any JS frameworks as our needs are simple and I'm a fan of using web components. We do [use Bulma](http://bulma.io/) for our CSS framework as that was the preferred choice of the designer (and also a former colleague at GitHub) we worked with.
+The main website is an ASP.NET Core site written in C#. It's mostly Razor Pages, a few controllers, and a bit of JavaScript. We're not using any JS frameworks as our needs are simple and I'm a fan of using web components. We do [use Bulma](http://bulma.io/) for our CSS framework as that was the preferred choice of the designer (and also a former colleague at GitHub) we worked with. For the database we use Azure PostgreSql along with EF Core for data access.
 
 Abbot uses Azure Functions to run skill code, one for each language. This is why the languages we started with are C#, JavaScript, and Python as those are the languages supported by Azure Functions. For the editor, we use CodeMirror as mentioned earlier. We use MirrorSharp for the C# editor to give us IntelliSense.
 
