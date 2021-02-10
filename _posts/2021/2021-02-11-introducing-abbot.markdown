@@ -23,7 +23,7 @@ Not only that, it's a place to support your colleagues. When GitHub was [hit by 
 
 ## Introducing Abbot
 
-Hubot is fantastic. However, it can be tedious to set up and keep running. That's why my [my co-founder, Paul Nakata](http://pmn.org/) and I formed [_A Serious Business, Inc._](https://www.aseriousbusiness.com/) (Yes, that's the real company name) to take what we liked about Hubot and try to improve on it with [Abbot](https://ab.bot/).
+Hubot is fantastic. However, it can be tedious to set up and keep running. And it doesn't offer much in the way of managing a Hubot via a website, nor audit logs. That's why my [my co-founder, Paul Nakata](http://pmn.org/) and I formed [_A Serious Business, Inc._](https://www.aseriousbusiness.com/) (Yes, that's the real company name) to take what we liked about Hubot and try to improve on it with [Abbot](https://ab.bot/).
 
 Abbot is a hosted chat bot that you can install with a couple of clicks. Like Hubot, it lives in your chat room and responds to commands like a champ. Abbot can be a lot of fun, but it can also do a lot of heavy lifting for you and your colleagues.
 
@@ -35,7 +35,7 @@ If you're curious to try it out, head on over to [https://ab.bot/](https://ab.bo
 
 Abbot ships with a few simple built-in skills. Some of them may feel familiar if you've used Hubot such as `rem` for remembering things and `who` for building the story of a person.
 
-The real power lies in writing custom skills and sharing them. Abbot supports writing skills in the browser (using [CodeMirror](https://codemirror.net/)) with C#, JavaScript, and Python with as little ceremony and boilerplate as possible. With C#, you get IntelliSense powered by Roslyn and [MirrorSharp](https://github.com/ashmind/mirrorsharp).
+The real power lies in writing custom skills and sharing them. Abbot supports writing skills in the browser (using [CodeMirror](https://codemirror.net/)) with C#, JavaScript, and Python with as little ceremony and boilerplate as possible. With C#, you get IntelliSense powered by Roslyn and [MirrorSharp](https://github.com/ashmind/mirrorsharp). The editing experience also includes a console to test your skill and to run it if chat is down.
 
 ![Editing a skill in C#](https://user-images.githubusercontent.com/19977/107440160-0859ec80-6ae8-11eb-9873-31e682850be3.png)
 
