@@ -7,7 +7,7 @@ excerpt_image: https://user-images.githubusercontent.com/19977/107439587-26731d0
 
 Abbot is a hosted chat bot. It lives in your chat room and responds to commands like a champ. Abbot can be a lot of fun, but it can also do a lot of heavy lifting for you and your colleagues. This way of working is often referred to as "chat ops."
 
-The power of chat ops is that a Bot like Abbot becomes a shared command line for your organization. For example, if you tell Abbot to deploy a branch to a lab environment, everyone else in the room can see and search the command and learn together. If you're curious to try it out, head on over to https://ab.bot/ and click [TRY FOR FREE](https://ab.bot/login). We're in Beta right now and it's free to try out. Just authenticate with your Slack or Discord to create an Abbot account. Then install it into your chat platform.
+The power of chat ops is that a Bot like Abbot becomes a shared command line for your organization. For example, if you tell Abbot to deploy a branch to a lab environment, everyone else in the room can see and search the command and learn together. If you're curious to try it out, head on over to [https://ab.bot/](https://ab.bot/) and click [TRY FOR FREE](https://ab.bot/login). We're in Beta right now and it's free to try out. Just authenticate with your Slack or Discord to create an Abbot account. Then install it into your chat platform.
 
 ![Abbot in action](https://user-images.githubusercontent.com/19977/107439587-26731d00-6ae7-11eb-925c-0f50f09f2969.png)
 
@@ -40,6 +40,10 @@ For example, the [`tz` skill](https://ab.bot/packages/aseriousbiz/tz) is based o
 This skill makes use of the timezone as reported by Slack. Discord doesn't provide this information, so you can tell Abbot your timezone via the `my` skill, `@abbot my timezone is America/Los_Angeles` or by telling Abbot your location, `@abbot my location is 98008`.
 
 The [`deploy` skill](https://ab.bot/packages/aseriousbiz/deploy) is based on [`hubot-github-deployments`](https://github.com/stephenyeargin/hubot-github-deployments) and lets you manage deployment via the [GitHub Deployments API](https://docs.github.com/en/rest/reference/repos#deployments).
+
+## Custom Lists
+
+When I was at GitHub, probably the most common skill that people would write would simply post a random image or text from a pre-configured list of items. For example, my colleague wrote a `haack` skill that would post a random animated gif of me giving a thumbs up. I wrote one that returned a random Deep Thought by Jack Handey. These were so much fun that we included them as a first-class feature. You can use the `custom-list` skill to create custom lists and then add items to them. When you install Abbot, it comes pre-installed with a `joke` list. Try `@abbot joke` to learn about Abbot's sense of humor.
 
 ## Skill Triggers
 
