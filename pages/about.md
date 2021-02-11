@@ -18,7 +18,7 @@ The best way to reach me is to DM me on Twitter.
 
 ## What I do
 
-I build software at [A Serious Business, Inc.](https://www.aseriousbusiness.com/), a company I co-founded with a friend.
+I build software at [A Serious Business, Inc.](https://www.aseriousbusiness.com/), a company I co-founded with a friend. We are the creators of [Abbot](https://ab.bot/). A hosted chat bot that helps teams make ChatOps a reality. You can learn more in [my blog post introducing Abbot](https://haacked.com/archive/2021/02/11/introducing-abbot/).
 
 Before I started A Serious Business, Inc., I worked at [GitHub](http://github.com/) doing whatever I could [to make it even more awesome](https://haacked.com/archive/2018/12/18/leaving-github/). Prior to that I worked at Microsoft on [NuGet](http://nuget.org) and [ASP.NET MVC](https://www.asp.net/mvc) and helped to usher in Microsoft's Open Source era.
 
