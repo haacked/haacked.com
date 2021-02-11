@@ -19,7 +19,7 @@ The power of this approach lies in the two things. First, repeatable processes a
 
 Suppose your site goes down and you start to investigate. If you investigate by running commands in a terminal on your own system, nobody else can see what you're doing in order to help or learn. If instead you run commands in chat to bring up graphs and logs in the chat room, anyone else watching that room can follow along and collaborate. They also collectively learn how to troubleshoot issues. As does anyone in the future who happens to browse or search the chat logs. The chat room becomes your organization's shared command line.
 
-Not only that, it's a place to support your colleagues. When GitHub was [hit by the largest DDOS attack ever](https://www.wired.com/story/github-ddos-memcached/), many of us who were not involved in defending the attack still followed along in the `#ops` room (knowing not to get in the way of course). We were able to both watch the impressive troubleshooting and mitigation display by the ops team. I learned a lot about DDOS and networking etc. Not only that, we were able to offer support in other ways as people worked around the clock to keep thi site up.
+Not only that, it's a place to support your colleagues. When GitHub was [hit by the largest DDOS attack ever](https://www.wired.com/story/github-ddos-memcached/), many of us who were not involved in defending the attack still followed along in the `#ops` room (knowing not to get in the way of course). We were able to both watch the impressive troubleshooting and mitigation display by the ops team. I learned a lot about DDOS and networking etc. Not only that, we were able to offer support in other ways as people worked around the clock to keep the site up.
 
 ## Introducing Abbot
 
