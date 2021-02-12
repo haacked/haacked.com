@@ -29,7 +29,7 @@ Abbot is a hosted chat bot that you can install with a couple of clicks. Like Hu
 
 If you're curious to try it out, head on over to [https://ab.bot/](https://ab.bot/) and click [TRY FOR FREE](https://ab.bot/login). We're in Beta right now and it's free to try out. Just authenticate with your Slack or Discord account to create an Abbot account. Then follow the instructions to install it into your chat platform. Also, be sure to check out the [lastest episode of .NET Rocks](https://dotnetrocks.com/?show=1726) where I talk about Abbot and ChatOps.
 
-![Abbot in action](https://user-images.githubusercontent.com/19977/107439587-26731d00-6ae7-11eb-925c-0f50f09f2969.png)
+![Image of Abbot, a robot, against a purple background](https://user-images.githubusercontent.com/19977/107439587-26731d00-6ae7-11eb-925c-0f50f09f2969.png "I am ready to do the thing.")
 
 ## What can Abbot do?
 

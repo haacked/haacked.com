@@ -11,7 +11,7 @@ Abbot doesn't strive for true natural language processing yet because many skill
 
 To achieve a more natural language feel, Bot skills tend to have a pretty simple format for the arguments passed to the skill. But even a simple format can require a fairly complex regular expression to parse correctly. And we all know what happens when you decide to [use a regular expression to solve a problem](http://regex.info/blog/2006-09-15/247). Spending a day writing regular expressions can make you feel like you've been slugged.
 
-![The feeling I get when I parse arguments with a regular expression](https://user-images.githubusercontent.com/19977/107692389-92799080-6c61-11eb-9710-c75811b528ee.jpg)
+![Image of woman slugging a man - Simplified Pixabay License](https://user-images.githubusercontent.com/19977/107692389-92799080-6c61-11eb-9710-c75811b528ee.jpg "The feeling I get when I parse arguments with a regular expression")
 
 Let's follow an example to see what I mean. Suppose we have a skill for managing another user's favorite songs with the following usage pattern.
 
