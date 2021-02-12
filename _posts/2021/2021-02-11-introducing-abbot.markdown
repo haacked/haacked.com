@@ -79,4 +79,4 @@ To integrate with Slack we use the [Microsoft Bot Framework](https://dev.botfram
 
 ## Try it out!
 
-If this sounds interesting to you, please give it a try at https://ab.bot/. We could really use some feedback. In fact, you can send us feedback right from chat using Abbot: `@abbot feedback {Write Your Feedback Here}`. That'll go right into our inbox. Please use responsibly.
+If this sounds interesting to you, please give it a try at https://ab.bot/. We could really use some feedback. You can email your feedback to [feedback@aseriousbusinees.com](mailto:feedback@aseriousbusiness.com). Or, send us feedback right from chat using Abbot: `@abbot feedback {Write Your Feedback Here}`. That'll go right into our inbox. Please use responsibly.
