@@ -107,6 +107,8 @@ The rest of the code is left as an exercise for the reader.
 
 A few things to note. At the moment, we only support deconstructing up to a four-tuple. We can easily add a five-tuple or six-tuple in the future. But in most cases, four is enough. And if it's not, you can still deconstruct that fourth argument by casting it to `IArguments`.
 
+There are helpful extension methods on `IArgument` (the base interface for all arguments). For example, `ToLocalTime` attempts to parse the argument as a local time (such as "2pm") and return a [`LocalTime`](https://nodatime.org/2.2.x/api/NodaTime.LocalTime.html) if it succeeds. Otherwise it returns null. We'll add more of these helpers as we go along. Let us know what else we should add by emailing [feedback@aseriousbusinees.com](mailto:feedback@aseriousbusiness.com) or use the Abbot `feedback` skill.
+
 If an argument is a mention, you can cast it to `IMentionArgument` to access information about the mentioned user. Mentions are also in the `Bot.Mentions` collection.
 
 Also, if the default argument parsing doesn't work for you, you can always access the full arguments with `Bot.Arguments.Value`. Python and JavaScript skills also receive the arguments as a collection in `bot.tokenized_arguments` and `bot.tokenizedArguments` respectively. They don't have the same deconstructors that the C# code does, but mainly because those languages already have similar list operations.
