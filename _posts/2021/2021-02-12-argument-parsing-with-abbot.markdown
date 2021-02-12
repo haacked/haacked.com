@@ -5,7 +5,11 @@ tags: [abbot chatops csharp]
 excerpt_image: https://user-images.githubusercontent.com/19977/107692389-92799080-6c61-11eb-9710-c75811b528ee.jpg
 ---
 
-Most Bot skills have a pretty simple format for the arguments passed to the skill. But even a simple format can require a fairly complex regular expression to parse correctly. And we all know what happens when you decide to [use a regular expression to solve a problem](http://regex.info/blog/2006-09-15/247). Spending a day writing regular expressions can make you feel like you've been slugged.
+Most Bot skills strive for a more natural language feel to arguments passed them. For example, to remember something with Abbot you can use `@abbot rem haacked's blog is https://haacked.com`. And then later recall it with `@abbot rem haacked's blog`. Or just `@abbot rem haacked` because Abbot uses fuzzy matching.
+
+Abbot doesn't strive for true natural language processing yet because many skills need precision in calling them and natural language interfaces can be stressful to use as you figure out the right way to call them. This may change in the future and it's an area we hope to explore.
+
+To achieve a more natural language feel, Bot skills tend to have a pretty simple format for the arguments passed to the skill. But even a simple format can require a fairly complex regular expression to parse correctly. And we all know what happens when you decide to [use a regular expression to solve a problem](http://regex.info/blog/2006-09-15/247). Spending a day writing regular expressions can make you feel like you've been slugged.
 
 ![The feeling I get when I parse arguments with a regular expression](https://user-images.githubusercontent.com/19977/107692389-92799080-6c61-11eb-9710-c75811b528ee.jpg)
 
