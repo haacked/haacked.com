@@ -46,7 +46,7 @@ All content on haacked.com is the copyright of Phil Haack unless otherwise state
 
 Here's a more condensed bio I use for conferences
 
-> Phil Haack is a co-founder and CTO of [A Serious Business, Inc.](https://www.aseriousbusiness.com/) building serious products for serious people. Very serious. More on that later.
+> Phil Haack is a co-founder and CTO of [A Serious Business, Inc.](https://www.aseriousbusiness.com/) building serious products for serious people. Very serious. We are the creators of [Abbot](https://ab.bot/), a friendly ChatOps platform that makes it easy to automate tasks from chat. 
 >
 > Phil has over twenty years of experience in the software industry. Prior to A Serious Business, Inc., he was a director of engineering at GitHub and helped make GitHub friendly to developers on the Microsoft platform.
 >
@@ -57,3 +57,5 @@ Here's a more condensed bio I use for conferences
 > You can find him sharing his thoughts at https://haacked.com/ or on Twitter https://twitter.com/haacked.
 
 Sounds like just the kind of person you want to have a beer or coffee with, doesn't it?
+
+_Found an error in this page, [click here to edit and submit a pull request](https://github.com/haacked/haacked.com/edit/main/pages/about.md)._
