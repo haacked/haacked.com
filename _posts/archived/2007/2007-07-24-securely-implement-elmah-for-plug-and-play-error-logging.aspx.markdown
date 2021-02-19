@@ -70,17 +70,10 @@ I then added the following `location` element to my `web.config`.
 </location>
 ```
 
-**IMPORTANT:** It’s important to note that I’m securing everything in
-the admin directory and that I’m making sure that elmah.axd is served
-from the root */admin* URL. If the httpHandler “path” element was just
-“admin/elmah.axd” or “elmah.axd” I could inadverdently expose Elmah
-information.
+**IMPORTANT:** It’s important to note that I’m securing everything in the admin directory and that I’m making sure that elmah.axd is served from the root */admin* URL. If the httpHandler “path” element was just “admin/elmah.axd” or “elmah.axd” I could inadverdently expose Elmah information.
 
-Troy Hunt has [a great write-up of the perils of getting ELMAH
-configuration
-wrong](http://www.troyhunt.com/2012/01/aspnet-session-hijacking-with-google.html "ASP.NET Session Hijacking").
-In his post he shows a more robust way to secure elmah.axd. Put the
-httpHandlers section within the location section.
+Troy Hunt has [a great write-up of the perils of getting ELMAH configuration
+wrong](http://www.troyhunt.com/2012/01/aspnet-session-hijacking-with-google.html "ASP.NET Session Hijacking"). In his post he shows a more robust way to secure elmah.axd. Put the httpHandlers section within the location section.
 
 ```csharp
 <location path="elmah.axd">
@@ -104,20 +97,10 @@ httpHandlers section within the location section.
 </location>
 ```
 
-To demonstrate this in action, I’ve created a solution containing a Web
-Application project with ELMAH and authentication fully implemented.
+To demonstrate this in action, I’ve created a solution containing a Web Application project with ELMAH and authentication fully implemented.
 
-The point of this sample app is to demonstrate how to set this all up.
-So for example, the login page has a button to auto-log you in. In the
-real world, you’d probably use a real login form. You can also change
-the authentication from Forms authentication to Windows authentication
-depending on your needs. That might make sense in many scenarios.
+The point of this sample app is to demonstrate how to set this all up. So for example, the login page has a button to auto-log you in. In the real world, you’d probably use a real login form. You can also change the authentication from Forms authentication to Windows authentication depending on your needs. That might make sense in many scenarios.
 
-The app demonstrates in principle how to setup and secure the
-*elmah.axd* page. If you have SQL Express installed, you should be able
-to compile and run the demo without any extra steps to see ELMAH in
-action.
+The app demonstrates in principle how to setup and secure the *elmah.axd* page. If you have SQL Express installed, you should be able to compile and run the demo without any extra steps to see ELMAH in action.
 
-[[Download the
-demo](http://code.haacked.com/aspnet/securing-elmah-demo.zip "Elmah Demo")]
-
+[[Download the demo](http://haacked.com/code/securing-elmah-demo.zip "Elmah Demo")]
