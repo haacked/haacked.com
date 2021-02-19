@@ -4,7 +4,7 @@ tags: [aspnetmvc]
 redirect_from: "/archive/2008/10/22/model-binding-to-a-list.aspx/"
 ---
 
-The **[sample project code is on GitHub](https://github.com/haacked/CodeHaacks/tree/master/src/ListModelBindingDemo "ListModelBinding Demos")**. You can play with the code as you read this blog post.
+The **[sample project code is on GitHub](https://github.com/haacked/CodeHaacks/tree/main/src/ListModelBindingDemo "ListModelBinding Demos")**. You can play with the code as you read this blog post.
 
 Using the `DefaultModelBinder` in ASP.NET MVC, you can bind submitted form values to arguments of an action method. But what if that argument is a collection? Can you bind a posted form to an `ICollection<T>`?
 
@@ -152,7 +152,7 @@ indices to look for when binding to the list.
 
 Unfortunately, we don’t have a helper for generating these hidden inputs. However, I’ve hacked together an extension method which can render this out for you.
 
-When you’re creating a form to bind a list, add the following hidden input and it will add the appropriate hidden input to allow for a broken sequence of indices. **Use at your own risk!**I’ve only tested this in a couple of scenarios. I’ve **[included sample code](https://github.com/haacked/CodeHaacks/tree/master/src/ListModelBindingDemo "ListModelBinding Demos")**
+When you’re creating a form to bind a list, add the following hidden input and it will add the appropriate hidden input to allow for a broken sequence of indices. **Use at your own risk!**I’ve only tested this in a couple of scenarios. I’ve **[included sample code](https://github.com/haacked/CodeHaacks/tree/main/src/ListModelBindingDemo "ListModelBinding Demos")**
 with multiple samples of binding to a list which includes the source code for this helper.
 
 ```aspx-cs
