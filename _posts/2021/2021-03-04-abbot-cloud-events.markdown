@@ -35,7 +35,7 @@ At this point, it should look something like this. Now we just need a web hook U
 
 ![Screen Shot 2021-03-04 at 12 46 59 PM](https://user-images.githubusercontent.com/19977/110028281-e5d28200-7ce7-11eb-8037-e1d64d6a0483.png)
 
-At this point, I assume you have an Abbot account set up and connected to a chat room. If not, go to https://ab.bot/ and click "Log In" and use your Slack or Discord login to log in. Follow the instructions to get it set up.
+At this point, I assume you have an Abbot account set up and connected to a chat room. If not, go to [https://ab.bot/](https://ab.bot/) and click "Log In" and use your Slack or Discord login to log in. Follow the instructions to get it set up.
 
 Next, we need to install the `cloud-event` package. On the [`cloud-event`](https://ab.bot/packages/aseriousbiz/cloud-event) package page, click the "Install Package" button. It'll give you a chance to review the code before it actually installs it. Click "Create skill from package" and now you have the skill enabled!
 
