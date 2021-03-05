@@ -8,14 +8,16 @@ I'm working with a third party component (I will not name the guilty
 party) that has a method with the following signature and implementation
 (with no overrides):
 
-public void doSomething(DataTable table)\
-{\
-   for(int i = 0; i \< table.Rows.Count; i++)    \
-   {       \
-      DataRow row = table.Rows[i];       \
-      //Do Something with row...    \
-   } \
+```csharp
+public void doSomething(DataTable table)
+{
+   for(int i = 0; i < table.Rows.Count; i++)
+   {
+      DataRow row = table.Rows[i];
+      //Do Something with row...
+   }
 }
+```
 
 What is the problem with this method?
 
@@ -40,14 +42,15 @@ author may have decided to iterate over the DataTable for performance
 reasons. If so, a better design would have allowed for an override
 method that takes in a DataView and uses the view to iterate. Like so:
 
-public void doSomething(DataView tableView) \
-{    \
-   for(int i = 0; i \< tableView.Count; i++)    \
-   {       \
-      DataRowView row = tableView[i];       \
-      //Now Do Something with row...    \
-   } \
+public void doSomething(DataView tableView)
+{
+   for(int i = 0; i \< tableView.Count; i++)
+   {
+      DataRowView row = tableView[i];
+      //Now Do Something with row...
+   }
 }
+```
 
 This results in improved flexibilty for the user of the class.
 Thankfully, the author promised to include this in the next version of
