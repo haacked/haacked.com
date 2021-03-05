@@ -38,7 +38,7 @@ NuGet package for his library for him, to which he said yes!
 So on my machine, I created a folder named after the latest 2.5 release,
 *xmlrpcnet.2.5.0*. Here’s the directory structure I ended up with.
 
-![package-folder-structure](https://haacked.com/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/package-folder-structure_3.png "package-folder-structure")
+![package-folder-structure](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/package-folder-structure_3.png "package-folder-structure")
 
 By convention, the *lib* folder is where you place assemblies that will
 get added as referenced assemblies to the target project when installing
@@ -95,7 +95,7 @@ application](http://nuget.codeplex.com/releases/57303/download/197743 "NuGet Con
 Copy it to a utility directory and add it to your path, or copy it to
 the parent folder of the package folder.
 
-![nuget-dir](https://haacked.com/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/nuget-dir_3.png "nuget-dir")
+![nuget-dir](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/nuget-dir_3.png "nuget-dir")
 
 Now, open a command prompt and navigate to the directory and run the
 *nuget pack* command.
@@ -104,7 +104,7 @@ Now, open a command prompt and navigate to the directory and run the
 
 Here’s a screenshot of what I did:
 
-[![nuget-pack](https://haacked.com/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/nuget-pack_thumb_1.png "nuget-pack")](https://haacked.com/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/nuget-pack_4.png)
+[![nuget-pack](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/nuget-pack_thumb_1.png "nuget-pack")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/nuget-pack_4.png)
 
 **Pro tip:** What I really did was add a batch file I call *build.cmd*
 in the same directory that I put the *NuGet.exe* file. The contents of
@@ -129,12 +129,12 @@ Once you have an account, click on the [Contribute
 tab](http://nuget.org/Contribute/Index "Contribute Tab"). This page
 gives you several options for managing packages (*click to enlarge*).
 
-[![contribute-tab](https://haacked.com/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/contribute-tab_thumb.png "contribute-tab")](https://haacked.com/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/contribute-tab_2.png)
+[![contribute-tab](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/contribute-tab_thumb.png "contribute-tab")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/contribute-tab_2.png)
 
 To upload your package, click on the [Add New Package
 link](http://nuget.org/Contribute/NewSubmission "New Submission Page").
 
-[![upload-package](https://haacked.com/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/upload-package_thumb.png "upload-package")](https://haacked.com/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/upload-package_2.png)
+[![upload-package](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/upload-package_thumb.png "upload-package")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/upload-package_2.png)
 
 Notice there’s two options. At this point, you can simply browse for the
 package you created and upload it and you’re done. In a matter of a few
@@ -161,7 +161,7 @@ Visit the My Account page
 ([http://nuget.org/Contribute/MyAccount](http://nuget.org/Contribute/MyAccount "http://nuget.org/Contribute/MyAccount"))
 and make a note of your API key (click image below to enlarge it).
 
-[![nuget-gallery-api-key](https://haacked.com/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/nuget-gallery-api-key_thumb.png "nuget-gallery-api-key")](https://haacked.com/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/nuget-gallery-api-key_2.png)
+[![nuget-gallery-api-key](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/nuget-gallery-api-key_thumb.png "nuget-gallery-api-key")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/nuget-gallery-api-key_2.png)
 
 Be sure to keep that API key secret! Don’t give it out like I just did.
 If you do happen to accidentally leak your API key, you can click the
@@ -177,7 +177,7 @@ nuget push path-to-nupkg api-key –source http://packages.nuget.org/v1/
 
 Here’s a screenshot of the exact command I ran.
 
-![publishing-nupkg](https://haacked.com/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/publishing-nupkg_3.png "publishing-nupkg")
+![publishing-nupkg](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/beeb4862c29d_13D5F/publishing-nupkg_3.png "publishing-nupkg")
 
 Shoot! There I go showing off my secret API key again! I better
 regenerate that.

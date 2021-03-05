@@ -34,7 +34,7 @@ with some data.
 For example, here’s how the Tabs vs Spaces debate lands among Java
 developers on GitHub.
 
-[![java-tabs-vs-spaces](https://haacked.com/images/haacked_com/WindowsLiveWriter/PopularCodeConventionsonGitHub_D177/java-tabs-vs-spaces_thumb.png "java-tabs-vs-spaces")](https://haacked.com/images/haacked_com/WindowsLiveWriter/PopularCodeConventionsonGitHub_D177/java-tabs-vs-spaces_2.png)
+[![java-tabs-vs-spaces](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PopularCodeConventionsonGitHub_D177/java-tabs-vs-spaces_thumb.png "java-tabs-vs-spaces")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PopularCodeConventionsonGitHub_D177/java-tabs-vs-spaces_2.png)
 
 With that, I’m sure nobody ever will argue tabs over spaces again right?
 RIGHT?!

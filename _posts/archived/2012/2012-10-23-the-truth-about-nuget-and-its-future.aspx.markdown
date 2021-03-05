@@ -96,7 +96,7 @@ Well if you look at the entry in the Visual Studio Extension Manager (or
 gallery](http://visualstudiogallery.msdn.microsoft.com/27077b70-9dad-4c64-adcf-c7cf6bc9970c?SRC=Home "NuGet in VS Extension Gallery")),
 you’ll see this:
 
-[![NuGet-Package-Manager](https://haacked.com/images/haacked_com/WindowsLiveWriter/The-Truth-about-NuGet_B15C/NuGet-Package-Manager_thumb.png "NuGet-Package-Manager")](https://haacked.com/images/haacked_com/WindowsLiveWriter/The-Truth-about-NuGet_B15C/NuGet-Package-Manager_2.png)
+[![NuGet-Package-Manager](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/The-Truth-about-NuGet_B15C/NuGet-Package-Manager_thumb.png "NuGet-Package-Manager")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/The-Truth-about-NuGet_B15C/NuGet-Package-Manager_2.png)
 
 Huh? What gives? Well, it’s time for some REAL TALK™.
 

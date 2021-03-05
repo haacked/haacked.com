@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/12/14/Did_A_Solar_Flare_Hose_My_Drive.aspx/"
 ---
 
 ![Solar
-Flare](https://haacked.com/images/haacked_com/WindowsLiveWriter/DidASolarFlareHoseMyDrive_F1B6/solar_flare%5B5%5D.jpg)
+Flare](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DidASolarFlareHoseMyDrive_F1B6/solar_flare%5B5%5D.jpg)
 
 I know what you’re probably thinking. *Did Phil forget to take his meds
 today?* Let me explain.
@@ -49,7 +49,7 @@ flash-drive failed. He says,
 Then it struck me.
 
 ![Light
-Bulb](https://haacked.com/images/haacked_com/WindowsLiveWriter/DidASolarFlareHoseMyDrive_F1B6/679635_light_bulb%5B3%5D.jpg)
+Bulb](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DidASolarFlareHoseMyDrive_F1B6/679635_light_bulb%5B3%5D.jpg)
 
 I remembered reading that in fact there is a [huge solar flare headed
 towards

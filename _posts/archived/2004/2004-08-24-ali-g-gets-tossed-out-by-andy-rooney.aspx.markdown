@@ -4,7 +4,7 @@ tags: [humor]
 redirect_from: "/archive/2004/08/23/ali-g-gets-tossed-out-by-andy-rooney.aspx/"
 ---
 
-![Ali G](/images/AliG.jpg)Apparently, Andy Rooney has no [patience
+![Ali G](/assets/images/AliG.jpg)Apparently, Andy Rooney has no [patience
 for](http://www.nypost.com/entertainment/27433.htm) faux british
 rappers. If you've never seen the Ali G show, it's worth a watch. One of
 the funniest episodes I've seen was when he was visiting a K-9 police

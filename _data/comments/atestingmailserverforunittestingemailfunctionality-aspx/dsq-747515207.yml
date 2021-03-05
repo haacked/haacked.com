@@ -2,4 +2,4 @@ id: dsq-747515207
 date: 2006-05-31T11:51:00.0000000-07:00
 name: Haacked
 avatar: https://github.com/haacked.png?size=120
-message: <p>Good point, but there are some specific scenarios that a mock cannot test as well as having access to the underlying SMTP message.<br><a href="http://haacked.com/archive/2006/05/31/WhatDoesMyTestingMailServerTestThatAMockWouldNot.aspx" rel="nofollow noopener" title="http://haacked.com/archive/2006/05/31/WhatDoesMyTestingMailServerTestThatAMockWouldNot.aspx">http://haacked.com/archive/...</a></p>
+message: <p>Good point, but there are some specific scenarios that a mock cannot test as well as having access to the underlying SMTP message.<br><a href="https://haacked.com/archive/2006/05/31/WhatDoesMyTestingMailServerTestThatAMockWouldNot.aspx" rel="nofollow noopener" title="https://haacked.com/archive/2006/05/31/WhatDoesMyTestingMailServerTestThatAMockWouldNot.aspx">https://haacked.com/archive/...</a></p>

@@ -4,7 +4,7 @@ tags: [personal,microsoft]
 redirect_from: "/archive/2007/06/30/bank-error-in-my-favor.-im-a-microsoft-mvp.aspx/"
 ---
 
-![microsoft-mvp](https://haacked.com/images/haacked_com/WindowsLiveWriter/MicrosoftsRegretIsMyGainImanMVP_122F9/microsoft-mvp_thumb.png)I
+![microsoft-mvp](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MicrosoftsRegretIsMyGainImanMVP_122F9/microsoft-mvp_thumb.png)I
 received an email today informing me that I’ve been awarded the status
 of Microsoft MVP in the *Visual Developer - ASP/ASP.NET* category. I was
 aiming for an MVP for non-visual developers, but my [57

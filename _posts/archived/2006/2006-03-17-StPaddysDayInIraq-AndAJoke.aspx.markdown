@@ -4,7 +4,7 @@ tags: [humor]
 redirect_from: "/archive/2006/03/16/StPaddysDayInIraq-AndAJoke.aspx/"
 ---
 
-![Clover](https://haacked.com/images/clover_leaf.jpg) My former neighbors
+![Clover](https://haacked.com/assets/images/clover_leaf.jpg) My former neighbors
 who are now in Iraq helping the reconstruction efforts [write about
 their St. Patrick’s day
 celebration](http://khuluma.blogspot.com/2006/03/happy-st-patricks-day_17.html "St. Patrick's Day In Iraq")

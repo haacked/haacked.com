@@ -4,7 +4,7 @@ tags: [movies]
 redirect_from: "/archive/2004/07/29/twilight-samurai-go-see-it.aspx/"
 ---
 
-![twilight samurai](/images/twilightsamurai.jpg)We saw a fantastic movie
+![twilight samurai](/assets/images/twilightsamurai.jpg)We saw a fantastic movie
 at the Landmark last night called [Twilight
 Samurai](http://www.rottentomatoes.com/m/twilight_samurai/"). It stars
 Hiroyuki Sanada who played the bad ass in The Last Samurai who beats the

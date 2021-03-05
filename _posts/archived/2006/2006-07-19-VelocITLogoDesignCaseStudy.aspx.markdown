@@ -4,7 +4,7 @@ tags: [consulting]
 redirect_from: "/archive/2006/07/18/VelocITLogoDesignCaseStudy.aspx/"
 ---
 
-![VelocIT Logo](https://haacked.com/images/veloc-it_logo.gif) When we
+![VelocIT Logo](https://haacked.com/assets/images/veloc-it_logo.gif) When we
 started [VelocIT](http://veloc-it.com/ "VelocIT"), one of the early
 tasks we had was to develop an identity. Identity development is an
 ongoing process that is really never over. Typically it starts with a

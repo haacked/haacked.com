@@ -11,7 +11,7 @@ the Web Camps agenda.
 However, the folks here are keeping me on my toes asking me to give
 impromptu and deeply advanced demos. It almost feels like a form of
 performance art as I create brand new demos on the fly.
-![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Fixing-Binding-To-Decimals_9491/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Fixing-Binding-To-Decimals_9491/wlEmoticon-smile_2.png)
 
 During this time, several people reported issues binding to a decimal
 value that prompted me to write a new demo and this blog post.

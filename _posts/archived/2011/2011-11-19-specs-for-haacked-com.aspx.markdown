@@ -10,7 +10,7 @@ the details that you need.
 
 There you have it.
 
-[![trs-80](https://haacked.com/images/haacked_com/WindowsLiveWriter/Hardware-Specs-for-Haacked.com_8473/trs-80_3.jpg "trs-80")](http://www.flickr.com/photos/37796451@N00/4820596557/ "By EasterBilby - Creative Commons Some Rights Reserved")
+[![trs-80](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Hardware-Specs-for-Haacked.com_8473/trs-80_3.jpg "trs-80")](http://www.flickr.com/photos/37796451@N00/4820596557/ "By EasterBilby - Creative Commons Some Rights Reserved")
 
 [Well
 actually^TM^](http://tirania.org/blog/archive/2011/Feb-17.html "Well, Actually"),
@@ -43,7 +43,7 @@ ensure that the data customers care about are backed up and verified.
 
 Not only that, they hooked me up with a pretty nice new dedicated
 server.
-![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Hardware-Specs-for-Haacked.com_8473/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Hardware-Specs-for-Haacked.com_8473/wlEmoticon-smile_2.png)
 
 Even though they now are prepared to ensure VMs are backed up, I now
 host on bare metal, in part because [my other
@@ -96,6 +96,6 @@ completely atrophying and I like having a server at my disposal.
 
 So thanks again to The Small Business Authority (though I admit, I liked
 CrystalTech as a name better![Smile with tongue
-out](https://haacked.com/images/haacked_com/WindowsLiveWriter/Hardware-Specs-for-Haacked.com_8473/wlEmoticon-smilewithtongueout_2.png))
+out](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Hardware-Specs-for-Haacked.com_8473/wlEmoticon-smilewithtongueout_2.png))
 for hosting this blog! And thank you for reading!
 

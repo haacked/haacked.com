@@ -11,7 +11,7 @@ But there was a single point of failure in me putting all my world
 domination plans on the tiny shoulders of just one progeny. My boy needs
 a partner in crime.
 
-[![mia](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyLittleWorldDominationBackup_11528/mia_thumb.jpg "mia")](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyLittleWorldDominationBackup_11528/mia_2.jpg)
+[![mia](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MyLittleWorldDominationBackup_11528/mia_thumb.jpg "mia")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MyLittleWorldDominationBackup_11528/mia_2.jpg)
 So my wife and I conspired together and we’re happy to announce that
 baby #2 is on the way. Together, the two of them will be unstoppable!
 

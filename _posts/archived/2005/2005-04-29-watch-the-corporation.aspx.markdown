@@ -4,7 +4,7 @@ tags: [politics]
 redirect_from: "/archive/2005/04/28/watch-the-corporation.aspx/"
 ---
 
-![The Corporation](/images/TheCorporation.jpg) I know I'm late to the
+![The Corporation](/assets/images/TheCorporation.jpg) I know I'm late to the
 game, but since I rely on Netflix, I'm always watching movies long after
 the general population has seen them. However, we just finished watching
 the documentary "[The

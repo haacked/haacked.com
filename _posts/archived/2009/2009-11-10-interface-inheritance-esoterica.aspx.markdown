@@ -45,7 +45,7 @@ static void Main(string[] args) {
 
 Let’s look at the output of this code.
 
-![impl-inheritance](https://haacked.com/images/haacked_com/WindowsLiveWriter/InterfaceInheritanceEsoterica_8E49/impl-inheritance_3.png "impl-inheritance")
+![impl-inheritance](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/InterfaceInheritanceEsoterica_8E49/impl-inheritance_3.png "impl-inheritance")
 
 No surprises there.
 
@@ -84,7 +84,7 @@ foreach (var property in reflectedProperties) {
 Before looking at the next screenshot, take a moment to answer the
 question, what is the output of the program now?
 
-[![interface-inheritance](https://haacked.com/images/haacked_com/WindowsLiveWriter/InterfaceInheritanceEsoterica_8E49/interface-inheritance_thumb.png "interface-inheritance")](https://haacked.com/images/haacked_com/WindowsLiveWriter/InterfaceInheritanceEsoterica_8E49/interface-inheritance_2.png)
+[![interface-inheritance](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/InterfaceInheritanceEsoterica_8E49/interface-inheritance_thumb.png "interface-inheritance")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/InterfaceInheritanceEsoterica_8E49/interface-inheritance_2.png)
 Well it should be obvious that the output is different otherwise I
 wouldn’t be writing this blog post in the first place, right?
 

@@ -56,7 +56,7 @@ missed a few days of work due to a bad fever, and my wife then suffered
 through the same fever the following week. Fortunately Cody hasn’t
 seemed to have caught the fever.
 
-[![IMG\_1162](https://haacked.com/images/haacked_com/WindowsLiveWriter/BackFromMixBackToReality_149AA/IMG_1162_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/BackFromMixBackToReality_149AA/IMG_1162.jpg)
+[![IMG\_1162](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BackFromMixBackToReality_149AA/IMG_1162_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BackFromMixBackToReality_149AA/IMG_1162.jpg)
 
 In a week, we will finally move into our new home. While our temporary
 housing has been nice, we’ve been here a long while and it’s just hard

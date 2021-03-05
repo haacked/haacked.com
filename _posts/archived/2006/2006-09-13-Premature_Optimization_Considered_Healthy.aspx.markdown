@@ -17,7 +17,7 @@ face value, the claim is a bit vague.  **What exactly is it that is
 being optimized?**
 
 [![Image From
-http://www.galcit.caltech.edu/awt/](https://haacked.com/images/haacked_com/WindowsLiveWriter/PrematureOptimizationConsideredHealthy_2A49/WindTunnel_thumb%5B2%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/PrematureOptimizationConsideredHealthy_2A49/WindTunnel%5B4%5D.jpg)
+http://www.galcit.caltech.edu/awt/](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PrematureOptimizationConsideredHealthy_2A49/WindTunnel_thumb%5B2%5D.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PrematureOptimizationConsideredHealthy_2A49/WindTunnel%5B4%5D.jpg)
 
 Well **speed** of course! At least that is the optimization that Knuth
 refers to and it is what developers typically mean when they use the

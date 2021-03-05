@@ -70,7 +70,7 @@ that sticks out above the water.  However, the real effort is in the
 part under water that supports the whole thing.
 
 [![Iceberg Photo from
-http://shiftingbaselines.org/blog/archives/2005\_02.html](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatFeatureShouldBeRemoved_9E30/BigIceberg_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatFeatureShouldBeRemoved_9E30/BigIceberg%5B5%5D.jpg)
+http://shiftingbaselines.org/blog/archives/2005\_02.html](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatFeatureShouldBeRemoved_9E30/BigIceberg_thumb%5B1%5D.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatFeatureShouldBeRemoved_9E30/BigIceberg%5B5%5D.jpg)
 
 So if there is a feature in your product that provides very little bang
 for the support buck, consider getting rid of it.

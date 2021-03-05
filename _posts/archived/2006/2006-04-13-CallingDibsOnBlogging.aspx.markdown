@@ -4,7 +4,7 @@ tags: [blogging]
 redirect_from: "/archive/2006/04/12/CallingDibsOnBlogging.aspx/"
 ---
 
-![Dibs](https://haacked.com/images/dibs.jpg)I love working with other
+![Dibs](https://haacked.com/assets/images/dibs.jpg)I love working with other
 developers who are really excited about technology and the work we are
 doing. As is characteristic of such an organization, there is a constant
 flurry of IM messages and emails with links to interesting new

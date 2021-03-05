@@ -27,7 +27,7 @@ experiment proposed the following question:
 open source code, is it possible to craft a viral license that does the
 opposite, turning open source into closed source?**
 
-![locked-computer](https://haacked.com/images/haacked_com/WindowsLiveWriter/ANewClosedSourceViralLicense_1207/locked-computer_3.jpg "locked-computer")
+![locked-computer](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ANewClosedSourceViralLicense_1207/locked-computer_3.jpg "locked-computer")
 
 Jim, I’m afraid it is.
 
@@ -70,7 +70,7 @@ glumly noted that sales of his developer focused educational videos have
 declined precipitously ever since he was forced to redact the source
 code from his screen casts.
 
-![redacted-code](https://haacked.com/images/haacked_com/WindowsLiveWriter/ANewClosedSourceViralLicense_1207/redacted-code_3.png "redacted-code")
+![redacted-code](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ANewClosedSourceViralLicense_1207/redacted-code_3.png "redacted-code")
 
 Well regarded speaker and .NET luminary [Scott
 Hanselman](http://hanselman.com/blog/ "Scott Hanselman's blog") had this

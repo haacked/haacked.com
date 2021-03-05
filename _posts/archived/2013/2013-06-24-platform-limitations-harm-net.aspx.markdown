@@ -118,7 +118,7 @@ If you recall, Ballmer is the one who once went on stage to affirm
 Microsoft’s focus on developers! developers! developers! through
 interpretive dance.
 
-[![ballmer-developers-dance](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlatformLimitations_ACF1/ballmer-developers-dance_thumb.gif "ballmer-developers-dance")](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlatformLimitations_ACF1/ballmer-developers-dance_2.gif)
+[![ballmer-developers-dance](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PlatformLimitations_ACF1/ballmer-developers-dance_thumb.gif "ballmer-developers-dance")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PlatformLimitations_ACF1/ballmer-developers-dance_2.gif)
 
 Unless there’s something I’m missing (and feel free to enlighten me!),
 there’s no good reason to keep the platform restriction on most of these

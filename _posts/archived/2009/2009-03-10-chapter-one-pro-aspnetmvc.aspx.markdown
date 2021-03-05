@@ -37,7 +37,7 @@ issues and let us know what you like and don’t like and what you think
 works and doesn’t work. We’re all in this together learning and refining
 our craft.
 
-[![book-cover](https://haacked.com/images/haacked_com/WindowsLiveWriter/ChapterOneOfProfessionalASP.NETMVC1.0_8287/book-cover_thumb.jpg "book-cover")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ChapterOneOfProfessionalASP.NETMVC1.0_8287/book-cover_2.jpg)Looking
+[![book-cover](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ChapterOneOfProfessionalASP.NETMVC1.0_8287/book-cover_thumb.jpg "book-cover")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ChapterOneOfProfessionalASP.NETMVC1.0_8287/book-cover_2.jpg)Looking
 at the site and source will show you what NerdDinner.com is, but to
 learn how it was built, I highly recommend [**checking out ScottGu’s
 blog

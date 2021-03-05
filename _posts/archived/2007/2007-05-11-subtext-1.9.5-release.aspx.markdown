@@ -5,7 +5,7 @@ redirect_from: "/archive/2007/05/10/subtext-1.9.5-release.aspx/"
 ---
 
 ![Subtext Submarine
-Logo](https://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext1.9.5Release_EEA4/subtextsubmarinelogo6.png)
+Logo](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Subtext1.9.5Release_EEA4/subtextsubmarinelogo6.png)
 It is with great pleasure and relief that I announce the release of
 Subtext 1.9.5. Between you and me, I’m just happy to get this release
 out before [the kid is

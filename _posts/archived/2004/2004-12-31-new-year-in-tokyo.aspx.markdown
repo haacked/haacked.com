@@ -9,7 +9,7 @@ Angeles for a day, dropped Twiggy off at a doggy day care, and flew into
 Tokyo. Below is a picture of Anchorage from our airplane as we were
 leaving.
 
-![Anchorage at night from an airplane](/images/AnchorageFromPlane.jpg)
+![Anchorage at night from an airplane](/assets/images/AnchorageFromPlane.jpg)
 
 The transition from 2004 to 2005 was quite uneventful this year. I think
 I was asleep when we crossed the international date line. Unfortunately
@@ -26,7 +26,7 @@ But even nicer was the exquisite meal that awaited us when we arrived.
 Here's a pic of a small plate of sashimi we had. Along with the sashimi
 we had some onigiri and tempura. Akumi's mom is a phenomenal cook.
 
-![Sashimi](/images/Sashimi.jpg)
+![Sashimi](/assets/images/Sashimi.jpg)
 
 Well I better be off to bed and let the fight with jet lag begin. I wish
 you all a happy new year and hope we all can make some exciting things

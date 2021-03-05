@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/09/17/My_Sandwich_Compartment_ForeheadAgain.aspx/"
 ---
 
 [![CC Share Alike License:
-http://www.flickr.com/photos/bingramos/](https://haacked.com/images/haacked_com/WindowsLiveWriter/MySandwichCompartmentForehead_D036/sandwich_thumb1.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MySandwichCompartmentForehead_D036/sandwich3.jpg)
+http://www.flickr.com/photos/bingramos/](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MySandwichCompartmentForehead_D036/sandwich_thumb1.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MySandwichCompartmentForehead_D036/sandwich3.jpg)
 For whatever reasons, I happen to be somewhat well endowed in the
 forehead region.  My wife (bless her heart) likes to refer my
 forehead as my *Sandwich Compartment*.
@@ -23,7 +23,7 @@ an example of a *really really* popular .NET blog.  She remarked,
 
 See for yourself with these comparison photos.
 
-[](https://haacked.com/images/haacked_com/WindowsLiveWriter/MySandwichCompartmentForehead_D036/scott2.gif)![Me](https://haacked.com/images/haacked_com/WindowsLiveWriter/MySandwichCompartmentForehead_D036/PortraitOfMe_thumb2.jpg)![Scott](https://haacked.com/images/haacked_com/WindowsLiveWriter/MySandwichCompartmentForehead_D036/scott_thumb2.gif)\
+[](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MySandwichCompartmentForehead_D036/scott2.gif)![Me](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MySandwichCompartmentForehead_D036/PortraitOfMe_thumb2.jpg)![Scott](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MySandwichCompartmentForehead_D036/scott_thumb2.gif)\
 Ready for a picnic
 
 I told this story to Scott today via Skype and he confided in me that

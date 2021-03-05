@@ -4,7 +4,7 @@ tags: [gadgets]
 redirect_from: "/archive/2004/10/19/its-no-ipod-but-it-is-100gb.aspx/"
 ---
 
-![Xclef](/images/Xclef_SmallBlueTrans.jpg) Saw this on
+![Xclef](/assets/images/Xclef_SmallBlueTrans.jpg) Saw this on
 [Gizmodo](http://www.gizmodo.com/archives/dmc-xclef-500-100gb-hard-disk-player-023925.php).
 It's bigger and not as nice looking as an iPod, but it is 100 GB.
 

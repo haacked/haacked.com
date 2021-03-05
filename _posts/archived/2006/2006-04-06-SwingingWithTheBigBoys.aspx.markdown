@@ -4,7 +4,7 @@ tags: [meta]
 redirect_from: "/archive/2006/04/05/SwingingWithTheBigBoys.aspx/"
 ---
 
-![Gorilla Swinging](https://haacked.com/images/Gorilla.jpg)
+![Gorilla Swinging](https://haacked.com/assets/images/Gorilla.jpg)
 [Jayson](http://jaysonknight.com/blog/ "protected virtual void jaysonKnight")
 emailed me to let me know that my
 [PageRank](http://www.google.com/technology/ "Google Technology") is now

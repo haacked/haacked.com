@@ -30,14 +30,14 @@ contains a folder named Scripts. I’ll add my client script files there
 as embedded resources. In figure 1 below, you can see that I have two
 script files in my project.
 
-![Embedded Scripts](/images/EmbeddedScripts.gif)\
+![Embedded Scripts](/assets/images/EmbeddedScripts.gif)\
  **Figure 1** Script files.
 
 To make sure these files are compiled as embedded resources, I select
 the files and set the build action to *embedded resource* in the
 Properties window as in figure 2.
 
-![Embedded Resource](/images/BuildActionEmbeddedResource.gif) \
+![Embedded Resource](/assets/images/BuildActionEmbeddedResource.gif) \
  **Figure 2** Build Action = Embedded Resource.
 
 Now when I need to display these scripts in a page, I can use the

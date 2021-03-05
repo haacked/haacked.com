@@ -39,7 +39,7 @@ contain one or more VS.NET Solutions. A Solution of course may contain
 one or more Projects. Below is figure 3.5 from the article illustrating
 the directory structure.
 
-![Directory Structure](/images/FolderStructure.gif) \
+![Directory Structure](/assets/images/FolderStructure.gif) \
  Figure 3.5. Visual Studio .NET and VSS Folder Structure
 
 In general, projects and solutions won’t be shared across systems, i.e.

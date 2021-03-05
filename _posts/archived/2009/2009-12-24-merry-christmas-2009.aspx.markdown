@@ -12,7 +12,7 @@ As you can see, I’m still hard at work watching the kids on paternity
 leave.
 
 [![Playing Call of Duty Modern Warfare 2 With
-Mia](https://haacked.com/images/haacked_com/WindowsLiveWriter/MerryChristmas_147FA/024_thumb.jpg "Playing Call of Duty Modern Warfare 2 With Mia")](https://haacked.com/images/haacked_com/WindowsLiveWriter/MerryChristmas_147FA/024.jpg)
+Mia](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MerryChristmas_147FA/024_thumb.jpg "Playing Call of Duty Modern Warfare 2 With Mia")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MerryChristmas_147FA/024.jpg)
 
 My brother is a drug dealer and the name of the drug is [Call of Duty:
 Modern Warfare
@@ -24,10 +24,10 @@ At least I am managing to still get some fresh air outside and enjoy the
 weather. Here I’m walking with my wife (taking the photo), my mother, my
 son, and my brother.
 
-[![033](https://haacked.com/images/haacked_com/WindowsLiveWriter/MerryChristmas_147FA/033_thumb.jpg "033")](https://haacked.com/images/haacked_com/WindowsLiveWriter/MerryChristmas_147FA/033.jpg)
+[![033](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MerryChristmas_147FA/033_thumb.jpg "033")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MerryChristmas_147FA/033.jpg)
 Of course, every walk we go on ends up with me lugging my son around.
 
-[![042](https://haacked.com/images/haacked_com/WindowsLiveWriter/MerryChristmas_147FA/042_thumb.jpg "042")](https://haacked.com/images/haacked_com/WindowsLiveWriter/MerryChristmas_147FA/042.jpg)
+[![042](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MerryChristmas_147FA/042_thumb.jpg "042")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MerryChristmas_147FA/042.jpg)
 
 I wouldn’t trade it for anything. :)
 

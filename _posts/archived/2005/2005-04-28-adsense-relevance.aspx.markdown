@@ -4,7 +4,7 @@ tags: [blogging]
 redirect_from: "/archive/2005/04/27/adsense-relevance.aspx/"
 ---
 
-![Orange Chicken](/images/OrangeChicken.jpg) In [my
+![Orange Chicken](/assets/images/OrangeChicken.jpg) In [my
 comments](https://haacked.com/archive/2005/04/29/2874.aspx#2876),
 [Barry](http://idunno.org/)winces at the relevance of some Ad Sense ads
 he sees.

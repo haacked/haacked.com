@@ -2,14 +2,14 @@
 title: "Editable Routes Using App_Code"
 tags: [aspnet,aspnetmvc,routing]
 ---
-UPDATE: THIS POST IS DEPRECATED!!! I’ve updated the [original post](http://haacked.com/archive/2010/01/17/editable-routes.aspx "Editable Routes")
+UPDATE: THIS POST IS DEPRECATED!!! I’ve updated the [original post](https://haacked.com/archive/2010/01/17/editable-routes.aspx "Editable Routes")
 for editable routes to work in medium trust and not require a full app
 domain reload like this approach does. I think that approach may
 supersede this approach until I learn otherwise. :)
 
 Yesterday I wrote about a technique [using dynamic compilation to allow
 editing
-routes](http://haacked.com/archive/2010/01/17/editable-routes.aspx "Editable Routes")
+routes](https://haacked.com/archive/2010/01/17/editable-routes.aspx "Editable Routes")
 after you’ve deployed an application without having to manually
 recompile your application.
 
@@ -34,7 +34,7 @@ logic for watching the file system for me.
 In this case, I simply added a new folder named *App\_Code* to my
 project and copied *Routes.cs* to that folder.
 
-![routes-in-app\_code](http://haacked.com/images/haacked_com/WindowsLiveWriter/EditableRoutesInMediumTrust_9C13/routes-in-app_code_3.png "routes-in-app_code")
+![routes-in-app\_code](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/EditableRoutesInMediumTrust_9C13/routes-in-app_code_3.png "routes-in-app_code")
 
 I then added a new method to `RouteRegistrationExtensions`. (Note that
 the actual code has some null reference checking which I omitted here.)
@@ -57,7 +57,7 @@ restarted and `Application_Start` is called again.
 
 I want to also point out that a long while ago, I showed a [different
 approach for editable routes using
-IronRuby](http://haacked.com/archive/2008/04/22/defining-asp.net-mvc-routes-and-views-in-ironruby.aspx "Defining ASP.NET MVC Routes and Views in IronRuby")
+IronRuby](https://haacked.com/archive/2008/04/22/defining-asp.net-mvc-routes-and-views-in-ironruby.aspx "Defining ASP.NET MVC Routes and Views in IronRuby")
 that you might be interested in.
 
 You can **[download the sample project

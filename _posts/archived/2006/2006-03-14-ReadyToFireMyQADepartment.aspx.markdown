@@ -4,7 +4,7 @@ tags: [testing]
 redirect_from: "/archive/2006/03/13/ReadyToFireMyQADepartment.aspx/"
 ---
 
-![Fire](https://haacked.com/images/FireBurn.jpg) I have had it up to here
+![Fire](https://haacked.com/assets/images/FireBurn.jpg) I have had it up to here
 (imagine my hand on my head) and I am ready to fire the damn QA
 department for my blog. Unfortunately I *am* the QA department, so
 things will be a little awkward around here till I find a replacement

@@ -4,7 +4,7 @@ tags: [tech]
 redirect_from: "/archive/2006/07/07/MaybeTheAppleAdIsNotSoWrongAfterAll.aspx/"
 ---
 
-![Apple Ad](https://haacked.com/images/AppleAd.jpg) Recently I poked
+![Apple Ad](https://haacked.com/assets/images/AppleAd.jpg) Recently I poked
 lighthearted fun at one of the [recent Apple
 commercials](https://haacked.com/archive/2006/06/30/ApplesUnintendedComplimentToWindows.aspx "Apple Commercial")
 called “Network”

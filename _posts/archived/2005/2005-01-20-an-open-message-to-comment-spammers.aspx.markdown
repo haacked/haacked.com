@@ -4,7 +4,7 @@ tags: [rss]
 redirect_from: "/archive/2005/01/19/an-open-message-to-comment-spammers.aspx/"
 ---
 
-![Monkey](/images/MonkeyJoel.jpg)Hello y'all. In case you haven't
+![Monkey](/assets/images/MonkeyJoel.jpg)Hello y'all. In case you haven't
 noticed, links in my comments now have a rel="nofollow" attribute
 attached. That means no more Google juice when you post a list of links
 in the comments section of my site. So you can stop now. No really. Move

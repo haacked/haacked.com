@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2007/02/11/Visiting_Seattle_Next_Week.aspx/"
 ---
 
-![Seattle](https://haacked.com/images/seattle.jpg)The wife and I are
+![Seattle](https://haacked.com/assets/images/seattle.jpg)The wife and I are
 headed up to Seattle for President’s day weekend to visit some friends.
 
 Yeah, I know. ***Why Seattle At This Time Of Year**!?*

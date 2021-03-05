@@ -4,7 +4,7 @@ tags: [developers,management]
 redirect_from: "/archive/2006/03/09/DevelopersAreNotPlugandPlay.aspx/"
 ---
 
-![Plug and Play](https://haacked.com/images/plugandplay.jpg) It never
+![Plug and Play](https://haacked.com/assets/images/plugandplay.jpg) It never
 ceases to amaze me how short sighted management at many companies can be
 with software developers. Jeremy Miller mentions a discussion he had at
 the Austion Code Camp in which several [developers were really

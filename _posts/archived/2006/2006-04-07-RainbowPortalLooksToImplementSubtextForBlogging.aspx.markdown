@@ -4,7 +4,7 @@ tags: [subtext]
 redirect_from: "/archive/2006/04/06/RainbowPortalLooksToImplementSubtextForBlogging.aspx/"
 ---
 
-![Rainbow](https://haacked.com/images/Rainbow.jpg) [Eric
+![Rainbow](https://haacked.com/assets/images/Rainbow.jpg) [Eric
 Ramseur](http://eramseur.blogspot.com/ "asp.net 2.0 blog") who works on
 the [Rainbow 2.0 Portal
 project](http://community.rainbowportal.net/ "Rainbow 2.0 Community Site")

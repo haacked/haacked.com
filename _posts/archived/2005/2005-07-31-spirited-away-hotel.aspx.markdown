@@ -12,7 +12,7 @@ In any case, we’re having a pretty nice time. Below is a little mural of photo
 ### Meguro Gajoen
 ![The bathroom](https://user-images.githubusercontent.com/19977/30784699-38c54f96-a10f-11e7-8eba-716858f3a4f5.jpg)
 One of the highlights so far was our one night stay at the [Meguro Gajoen](http://www.megurogajoen.co.jp/) ![Spirited Away
-Bridge](https://haacked.com/images/SpiritedAwayBridge.jpg)a luxury hotel that served as the inspiration for the location of the movie *Sen to Chihiro no kamikakushi*, otherwise known as *[Spirited Away](http://www.imdb.com/title/tt0245429/)*. This place was one large
+Bridge](https://haacked.com/assets/images/SpiritedAwayBridge.jpg)a luxury hotel that served as the inspiration for the location of the movie *Sen to Chihiro no kamikakushi*, otherwise known as *[Spirited Away](http://www.imdb.com/title/tt0245429/)*. This place was one large
 museum piece. For example, though it is a bit dark, the picture to the right is of the main lobby bathroom. Notice it has a freaking bridge in there! Does that bridge look familiar?
 
 ![Hotel Lobby](https://user-images.githubusercontent.com/19977/30784723-8c3ab6b6-a10f-11e7-9b60-39f1cf4efdf6.jpg)

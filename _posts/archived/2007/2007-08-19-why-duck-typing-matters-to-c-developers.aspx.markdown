@@ -18,7 +18,7 @@ what duck typing is about.
 
 ## Duck Typing Explained
 
-[![duck-rabbit-phil](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhyDuckTypingMattersInC_919F/duckrabbitphil_thumb.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhyDuckTypingMattersInC_919F/duckrabbitphil.png "Rabbit or Duck?")Duck
+[![duck-rabbit-phil](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhyDuckTypingMattersInC_919F/duckrabbitphil_thumb.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhyDuckTypingMattersInC_919F/duckrabbitphil.png "Rabbit or Duck?")Duck
 typing allows an object to be passed in to a method that expects a
 certain type even if it doesn’t inherit from that type. All it has to do
 is support the methods and properties of the expected type *in use by

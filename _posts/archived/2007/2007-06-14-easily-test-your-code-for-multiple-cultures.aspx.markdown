@@ -5,7 +5,7 @@ redirect_from: "/archive/2007/06/13/easily-test-your-code-for-multiple-cultures.
 ---
 
 [![Globe from the
-stock.xchng](https://haacked.com/images/haacked_com/WindowsLiveWriter/EasilyTestYourCodeForMultipleCultures_1390E/439027_around_the_world_5_1.jpg)](http://www.sxc.hu/photo/439027 "Photo from the stock.xchng")
+stock.xchng](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/EasilyTestYourCodeForMultipleCultures_1390E/439027_around_the_world_5_1.jpg)](http://www.sxc.hu/photo/439027 "Photo from the stock.xchng")
 Most of the time when I’m testing my code, I only test it using the
 `en-US` culture since, ...well..., I speak English and I live in the
 U.S. Isn’t the U.S. the only country that matters anyway? ;)

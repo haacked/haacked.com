@@ -9,7 +9,7 @@ buildings or invest in speculative tranches made up of junk stock
 derivatives. What I do is attempt to run recurring background tasks
 within an ASP.NET application.
 
-[![110121-M-2339L-074](https://haacked.com/images/haacked_com/WindowsLiveWriter/Why-Backg.NET-and-How-To-Do-Them-Anyways_7C02/base-jumping_thumb.jpg "110121-M-2339L-074")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Why-Backg.NET-and-How-To-Do-Them-Anyways_7C02/base-jumping_2.jpg)
+[![110121-M-2339L-074](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Why-Backg.NET-and-How-To-Do-Them-Anyways_7C02/base-jumping_thumb.jpg "110121-M-2339L-074")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Why-Backg.NET-and-How-To-Do-Them-Anyways_7C02/base-jumping_2.jpg)
 *Writing code is totally just like this - [Photo by
 DVIDSHUB](http://www.flickr.com/photos/dvids/5387207067/) – [CC BY
 2.0](http://creativecommons.org/licenses/by/2.0/deed.en) *

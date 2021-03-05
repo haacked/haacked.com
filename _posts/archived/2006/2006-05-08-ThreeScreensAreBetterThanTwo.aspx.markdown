@@ -10,7 +10,7 @@ people](http://scottonwriting.net/sowblog/posts/6104.aspx "Scott on Writing")
 are just jumping on the dual-monitor bandwagon, I have recently moved on
 to three screens.
 
-![Three Screens](https://haacked.com/images/threescreens.jpg)
+![Three Screens](https://haacked.com/assets/images/threescreens.jpg)
 
 Of course that is not exactly true. The two screens on the right are
 attached to my new Dell Dimension 9150 workstation. The one on the left

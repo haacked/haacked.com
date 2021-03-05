@@ -4,7 +4,7 @@ tags: [aspnetmvc,security]
 redirect_from: "/archive/2009/05/04/page-view-lockdown.aspx/"
 ---
 
-[![lockdown](https://haacked.com/images/haacked_com/WindowsLiveWriter/PutYourViewsonLockdown_DB88/lockdown_3.jpg "lockdown")](http://www.sxc.hu/photo/1135166 "Lock on stock.xchng")As
+[![lockdown](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PutYourViewsonLockdown_DB88/lockdown_3.jpg "lockdown")](http://www.sxc.hu/photo/1135166 "Lock on stock.xchng")As
 I’m sure you know, we developers are very particular people and we like
 to have things exactly our way. How else can you explain long winded
 impassioned debates over [curly brace

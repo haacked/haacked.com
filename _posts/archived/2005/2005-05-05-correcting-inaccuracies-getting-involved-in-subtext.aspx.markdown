@@ -4,7 +4,7 @@ tags: [subtext,oss]
 redirect_from: "/archive/2005/05/04/correcting-inaccuracies-getting-involved-in-subtext.aspx/"
 ---
 
-![Tentative logo](/images/header_logo.gif) [Ken
+![Tentative logo](/assets/images/header_logo.gif) [Ken
 Robertson](http://www.qgyen.net/blog/) points out some [minor
 inaccuracies](http://www.qgyen.net/blog/archive/2005/05/05/1024.aspx)
 (none intentional) in [my

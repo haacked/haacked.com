@@ -116,22 +116,22 @@ tests (or facts) for a method are grouped together. For example, if you
 use the `CTRL+M`, `CTRL+O` shortcut to collapse method bodies, you can
 easily scan your tests and read them like a spec for your code.
 
-[![unittests-spec](https://haacked.com/images/haacked_com/WindowsLiveWriter/Structuring-Unit-Tests_CF0E/unittests-spec_thumb.png "unittests-spec")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Structuring-Unit-Tests_CF0E/unittests-spec_2.png)
+[![unittests-spec](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Structuring-Unit-Tests_CF0E/unittests-spec_thumb.png "unittests-spec")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Structuring-Unit-Tests_CF0E/unittests-spec_2.png)
 
 You also get the same effect if you run your tests in a test runner such
 as the xUnit test runner:
 
-[![unittests-testrunner](https://haacked.com/images/haacked_com/WindowsLiveWriter/Structuring-Unit-Tests_CF0E/unittests-testrunner_thumb_1.png "unittests-testrunner")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Structuring-Unit-Tests_CF0E/unittests-testrunner_4.png)
+[![unittests-testrunner](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Structuring-Unit-Tests_CF0E/unittests-testrunner_thumb_1.png "unittests-testrunner")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Structuring-Unit-Tests_CF0E/unittests-testrunner_4.png)
 
 When the test class file is open in Visual Studio, the class drop down
 provides a quick way to see a list of the methods you have tests for.
 
-![unittests-method-list](https://haacked.com/images/haacked_com/WindowsLiveWriter/Structuring-Unit-Tests_CF0E/unittests-method-list_3.png "unittests-method-list")
+![unittests-method-list](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Structuring-Unit-Tests_CF0E/unittests-method-list_3.png "unittests-method-list")
 
 This makes it easy to then see all the tests for a given method by using
 the drop down on the right.
 
-![unittests-test-list](https://haacked.com/images/haacked_com/WindowsLiveWriter/Structuring-Unit-Tests_CF0E/unittests-test-list_3.png "unittests-test-list")
+![unittests-test-list](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Structuring-Unit-Tests_CF0E/unittests-test-list_3.png "unittests-test-list")
 
 It’s a minor change to my existing practices, but one that I’ve grown to
 like a lot and hope to apply in all my projects in the future.

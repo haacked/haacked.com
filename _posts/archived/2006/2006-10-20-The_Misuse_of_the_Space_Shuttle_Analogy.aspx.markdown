@@ -5,9 +5,9 @@ redirect_from: "/archive/2006/10/19/The_Misuse_of_the_Space_Shuttle_Analogy.aspx
 ---
 
 [![Space Shuttle
-Landing](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheMisuseoftheSpaceShuttleAnalogy_C0E0/spaceshuttlelanding1_thumb2.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheMisuseoftheSpaceShuttleAnalogy_C0E0/spaceshuttlelanding14.jpg)
+Landing](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheMisuseoftheSpaceShuttleAnalogy_C0E0/spaceshuttlelanding1_thumb2.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheMisuseoftheSpaceShuttleAnalogy_C0E0/spaceshuttlelanding14.jpg)
 [Jeff
-Atwood](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheMisuseoftheSpaceShuttleAnalogy_C0E0/spaceshuttlelanding13.jpg "Jeff Atwood")
+Atwood](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheMisuseoftheSpaceShuttleAnalogy_C0E0/spaceshuttlelanding13.jpg "Jeff Atwood")
 writes a great post about [The Last Responsible
 Moment](http://www.codinghorror.com/blog/archives/000705.html "How to delay commitments").
 Take a second to read it and come back here. I’ll wait.

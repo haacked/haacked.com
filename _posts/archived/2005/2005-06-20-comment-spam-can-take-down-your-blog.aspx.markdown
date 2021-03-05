@@ -4,7 +4,7 @@ tags: [blogging,subtext]
 redirect_from: "/archive/2005/06/19/comment-spam-can-take-down-your-blog.aspx/"
 ---
 
-![spam](/images/spam.jpg) I can have a very filthy mouth when pissed
+![spam](/assets/images/spam.jpg) I can have a very filthy mouth when pissed
 off. Take today for example, my dog was witness to a blistering stream
 of profanities as I found that my site was down. I was hit with a
 torrent of comment spam like nothing I’ve seen before.

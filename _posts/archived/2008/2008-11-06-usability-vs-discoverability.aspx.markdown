@@ -19,7 +19,7 @@ Programmers](http://www.amazon.com/gp/product/1893115941?ie=UTF8&tag=youvebeenha
 > that they are simply unusable.
 
 [![Scary
-Driver](https://haacked.com/images/haacked_com/WindowsLiveWriter/ACaseStudyInDesignTradeoffsUsabilityvsDi_11DB9/learning-to-drive_thumb.jpg "Scary Driver")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ACaseStudyInDesignTradeoffsUsabilityvsDi_11DB9/learning-to-drive_2.jpg)
+Driver](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ACaseStudyInDesignTradeoffsUsabilityvsDi_11DB9/learning-to-drive_thumb.jpg "Scary Driver")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ACaseStudyInDesignTradeoffsUsabilityvsDi_11DB9/learning-to-drive_2.jpg)
 
 > This is a crucial distinction. When you sit somebody down in a typical
 > usability test, you’re really testing how learnable your interface is,

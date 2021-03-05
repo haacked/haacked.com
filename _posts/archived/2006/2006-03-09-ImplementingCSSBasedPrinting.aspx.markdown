@@ -21,7 +21,7 @@ from my blog using a browser, you will notice that I now have a
 **Print** button. Go ahead and click it. It should bring up the
 following dialog.
 
-![Print Dialog](https://haacked.com/images/PrintDialog.png)
+![Print Dialog](https://haacked.com/assets/images/PrintDialog.png)
 
 Getting that dialog to display is quite simple. Here is the HTML.
 
@@ -41,7 +41,7 @@ such as Firefox). The image below is a screenshot from my poor quality
 print preview.
 
 ![Print Preview
-Snippet](https://haacked.com/images/PrintPreviewSnippet.png)
+Snippet](https://haacked.com/assets/images/PrintPreviewSnippet.png)
 
 So the obvious conceit here is that I expect to someday write something
 worth printing. In the meanwhile, I have the print icon there to give

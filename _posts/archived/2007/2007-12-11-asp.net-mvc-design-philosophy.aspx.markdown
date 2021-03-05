@@ -5,7 +5,7 @@ redirect_from: "/archive/2007/12/10/asp.net-mvc-design-philosophy.aspx/"
 ---
 
 [Eilon
-Lipton](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVCDesignPhilosophy_1509B/Rodin-Denker-Kyoto_2.jpg "Left Slipper"),
+Lipton](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NETMVCDesignPhilosophy_1509B/Rodin-Denker-Kyoto_2.jpg "Left Slipper"),
 the lead developer on the ASP.NET MVC project shares some of his
 [thoughts on the design
 philosophy](http://weblogs.asp.net/leftslipper/archive/2007/12/10/asp-net-mvc-design-philosophy.aspx "ASP.NET Design Philosophy")
@@ -16,7 +16,7 @@ perform tasks, which are really useful. I think a more reflective post
 like this is a breath of fresh air and a nice insight into how the team
 is making decisions.
 
-[![Rodin-Denker-Kyoto](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVCDesignPhilosophy_1509B/Rodin-Denker-Kyoto_3.jpg)](http://commons.wikimedia.org/wiki/Image:Rodin-Denker-Kyoto.jpg "The thinker - cc-by-sa-2.0 - from wikimedia")Eilon
+[![Rodin-Denker-Kyoto](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NETMVCDesignPhilosophy_1509B/Rodin-Denker-Kyoto_3.jpg)](http://commons.wikimedia.org/wiki/Image:Rodin-Denker-Kyoto.jpg "The thinker - cc-by-sa-2.0 - from wikimedia")Eilon
 also covers some of the lessons we’ve already learned in building the
 CTP, and some of the changes we have planned for the next CTP.
 

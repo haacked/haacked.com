@@ -26,7 +26,7 @@ the home page of the site to contain every expletive in the book just
 for fun and it would show up immediately.
 
 [![Spreasheet photo by
-http://www.flickr.com/photos/caterina/](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheChallengeWithBringingProgrammingToThe_11600/15821634_563b5f83fb_1.jpg)](http://www.flickr.com/photos/12037949663@N01/15821634/ "Stewart spreadsheets the pizza order")
+http://www.flickr.com/photos/caterina/](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheChallengeWithBringingProgrammingToThe_11600/15821634_563b5f83fb_1.jpg)](http://www.flickr.com/photos/12037949663@N01/15821634/ "Stewart spreadsheets the pizza order")
 There are a lot of people who want to make it so that the business user
 can write code by [connecting
 legos](http://secretgeek.net/lego_software.asp "Can Software Be Like Building Legos").

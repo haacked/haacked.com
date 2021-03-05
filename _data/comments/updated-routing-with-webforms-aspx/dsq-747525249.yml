@@ -2,4 +2,4 @@ id: dsq-747525249
 date: 2008-05-20T22:26:22.0000000-07:00
 name: Haacked
 avatar: https://github.com/haacked.png?size=120
-message: "<p>@Andrew - I did. This post links to another post: <a href=\"http://haacked.com/archive/2008/03/11/using-routing-with-webforms.aspx\" rel=\"nofollow noopener\" title=\"routing and webforms\">Using Routing with WebForms</a>.<br>Download the source code and play around with it. You'll see that you can access route data within the RoutablePage class I provided.</p>"
+message: "<p>@Andrew - I did. This post links to another post: <a href=\"https://haacked.com/archive/2008/03/11/using-routing-with-webforms.aspx\" rel=\"nofollow noopener\" title=\"routing and webforms\">Using Routing with WebForms</a>.<br>Download the source code and play around with it. You'll see that you can access route data within the RoutablePage class I provided.</p>"

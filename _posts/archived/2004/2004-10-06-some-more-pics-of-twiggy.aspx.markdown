@@ -4,7 +4,7 @@ tags: [personal,twiggy]
 redirect_from: "/archive/2004/10/05/some-more-pics-of-twiggy.aspx/"
 ---
 
-![Twiggy in her favorite spot](/images/Twiggy_Favorite_Spot.jpg) 
+![Twiggy in her favorite spot](/assets/images/Twiggy_Favorite_Spot.jpg) 
 
 So Twiggy's a fast learner. She now knows that the proper place to do
 her thing is outside and not in the house. She even knows to whine if
@@ -17,20 +17,20 @@ to run up to it and greet it. The only time Twiggy barks is when she can
 hear a dog nearby and wants to play.
 
 ![Twiggy on alert for terrorists while the shadows approach.
-](/images/TwiggyAlert.jpg)
+](/assets/images/TwiggyAlert.jpg)
 
 We're waiting for some sweaters and a parka we ordered for her. She's
 all skin and bones and we hope to take her along when we visit my folks
 in Alaska for Christmas.
 
-![Giving us the evil eye.](/images/TwiggyDeathGlare.jpg) 
+![Giving us the evil eye.](/assets/images/TwiggyDeathGlare.jpg) 
 
 In any case, we're doing all we can to provide her with a good home and
 she seems happy for it. She never comes to me when I call her to, but
 the instant I sit on a couch, she shows us her true speed with a mad
 dash and a hop by my side.
 
-![With her mommy.](/images/TwiggyWithMommy.jpg)
+![With her mommy.](/assets/images/TwiggyWithMommy.jpg)
 
 The next step for Twiggy is to start her off on some elementary topics
 in OO design and hopefully progress to an understanding of how to build

@@ -9,7 +9,7 @@ threads. I prefer to change the look of my blog with a new design.
 
 This here design took all of four hours to complete.
 
-[![haacked-3.0-design](https://haacked.com/images/haacked_com/WindowsLiveWriter/ANewBlogDesignIn4Hours_10453/haacked-3.0-design_thumb.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/ANewBlogDesignIn4Hours_10453/haacked-3.0-design.png "New Blog Design")
+[![haacked-3.0-design](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ANewBlogDesignIn4Hours_10453/haacked-3.0-design_thumb.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ANewBlogDesignIn4Hours_10453/haacked-3.0-design.png "New Blog Design")
 
 Well that’s not exactly true.
 

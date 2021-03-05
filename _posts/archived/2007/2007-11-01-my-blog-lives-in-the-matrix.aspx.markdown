@@ -34,7 +34,7 @@ hadn’t received much demand for 64-bit servers until we came along with
 our bullying tactics.
 
 [![Dedicated Dual & Quad
-Core](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyBlogLivesInTheMatrix_96C/PROMO-dualcore_3.jpg)](http://crystaltech.com/dedicated-windows.aspx?uid=100 "CrystalTech Dedicated")
+Core](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MyBlogLivesInTheMatrix_96C/PROMO-dualcore_3.jpg)](http://crystaltech.com/dedicated-windows.aspx?uid=100 "CrystalTech Dedicated")
 Through a contact over there, I wanted to see if we could work out a
 hosting deal. Jeff was adamant that we get a 64-bit server, which they
 didn’t have at the time, but could certainly order. I pretty much didn’t

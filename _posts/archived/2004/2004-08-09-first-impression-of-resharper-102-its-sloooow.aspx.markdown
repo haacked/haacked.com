@@ -4,7 +4,7 @@ tags: [tools]
 redirect_from: "/archive/2004/08/08/first-impression-of-resharper-102-its-sloooow.aspx/"
 ---
 
-![Resharper](/images/resharper.gif) After hearing so much about how
+![Resharper](/assets/images/resharper.gif) After hearing so much about how
 [IntelliJ IDEA](http://www.jetbrains.com/idea/index.html) is the ideal
 IDE and blows every other IDE to smithereens from various Java pundits
 (and even a friend who's a C# and Java developer), I was excited to try

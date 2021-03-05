@@ -8,7 +8,7 @@ UPDATE: Added a followup [part
 2](https://haacked.com/archive/2006/07/01/ResilientPluginsPartDeuxGranularControl.aspx "Part 2 - Granular control")
 to this post on the topic of granular control.
 
-![white plug](https://haacked.com/images/whiteplug.jpg) We have all
+![white plug](https://haacked.com/assets/images/whiteplug.jpg) We have all
 experienced the trouble caused by plugins that break when an application
 that hosts the plugins get upgraded. This seems to happen everytime I
 upgrade [Firefox](http://www.mozilla.com/firefox/ "Firefox") or

@@ -26,7 +26,7 @@ flow was low. We were hurting for more clients.
 So it seemed providence smiled on us when I received an email from a
 former coworker who was employed by a gaming company in Las Vegas.
 
-![vegas](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyFirstFathersDay_14DB0/vegas_1.jpg)
+![vegas](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MyFirstFathersDay_14DB0/vegas_1.jpg)
 
 Because of my background in online and mobile gaming, he was interested
 in hiring me, via VelocIT, to help build out the back-end server

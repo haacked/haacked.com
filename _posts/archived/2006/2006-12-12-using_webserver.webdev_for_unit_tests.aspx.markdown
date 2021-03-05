@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/12/11/using_webserver.webdev_for_unit_tests.aspx/"
 ---
 
 [![A Scanning Test - From
-http://www.sxc.hu/photo/517386](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingWebServer.WebDevForUnitTests_7370/517386_scanning_test_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingWebServer.WebDevForUnitTests_7370/517386_scanning_test2.jpg)
+http://www.sxc.hu/photo/517386](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UsingWebServer.WebDevForUnitTests_7370/517386_scanning_test_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UsingWebServer.WebDevForUnitTests_7370/517386_scanning_test2.jpg)
 
 Last night a unit test saved my life (*[with
 apologies](http://en.wikipedia.org/wiki/Last_Night_a_DJ_Saved_My_Life_(song) "Last Night A DJ Saved My Life"))*.

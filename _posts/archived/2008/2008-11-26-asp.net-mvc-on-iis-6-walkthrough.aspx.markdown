@@ -39,7 +39,7 @@ After you create the project, right click the project and select
 size view.
 
 [![Project Properties
-Editor](https://haacked.com/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/01-project-properties_thumb_1.png "Project Properties Editor")](https://haacked.com/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/01-project-properties_4.png)
+Editor](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/01-project-properties_thumb_1.png "Project Properties Editor")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/01-project-properties_4.png)
 
 In the project URL, I gave it a virtual application name of
 *Iis6DemoWeb* and then checked *Create Virtual Directory*. A dialog box
@@ -48,7 +48,7 @@ this is different than a virtual directory, as indicated by the gear
 looking icon) under your Default Web Site.
 
 ![IIS 6 Virtual Web
-Application](https://haacked.com/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/02-iis6demoweb-iis_5.png "IIS 6 Virtual Web Application")
+Application](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/02-iis6demoweb-iis_5.png "IIS 6 Virtual Web Application")
 
 Using a URL File Extensions
 ---------------------------
@@ -78,7 +78,7 @@ Application* node (*IIS6DemoWeb* in this case) and select *Properties*.
 You should see the following dialog.
 
 ![Website
-Properties](https://haacked.com/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/virtual-directory-tab_3.png "Website Properties")
+Properties](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/virtual-directory-tab_3.png "Website Properties")
 
 Make sure you’re on the *Virtual Directory* tab and select
 *Configuration*. Note that you can also choose to make this change on
@@ -89,7 +89,7 @@ This will bring up the *Application Configuration* dialog which displays
 a list of ISAPI mappings. Scroll down to see if .mvc is in the list.
 
 ![application
-mappings](https://haacked.com/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/application-mappings_3.png "application mappings")
+mappings](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/application-mappings_3.png "application mappings")
 
 In the screenshot, you can see that *.mvc* is in the list. If it is in
 the list on your machine, you can skip ahead to the next section. If
@@ -104,7 +104,7 @@ It might differ on your machine. One easy way to find out is to find the
 dialog.
 
 ![extension
-mapping](https://haacked.com/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/08-extension-mapping_3.png "extension mapping")
+mapping](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/08-extension-mapping_3.png "extension mapping")
 
 Now you can copy the path in the *Executable* text box to your
 clipboard. This is the path you’ll want to map .mvc to.
@@ -155,12 +155,12 @@ Now, I can hit CTRL+F5 (or browse my website) and I should see the
 following home page.
 
 ![Home
-Page](https://haacked.com/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/03-home-page_3.png "Home Page")
+Page](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/03-home-page_3.png "Home Page")
 
 And about page.
 
 ![About
-Page](https://haacked.com/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/04-about-page_3.png "About Page")
+Page](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/04-about-page_3.png "About Page")
 
 Notice that the URLs contain the *.mvc* extension.
 
@@ -171,7 +171,7 @@ for your project. Notice what happens when you navigate to
 */Iis6DemoWeb*.
 
 ![Root Home
-Page](https://haacked.com/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/05-home-page_3.png "Root Home Page")
+Page](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/05-home-page_3.png "Root Home Page")
 
 This is a bug in the *Default.aspx.cs* file included with our default
 template which I discovered as I was writing this walkthrough. We’ll fix
@@ -226,13 +226,13 @@ Properties* dialog like we did when configuring the *.mvc* ISAPI mapping
 (*see, I told you that information might come in useful later*).
 
 ![application
-mappings](https://haacked.com/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/application-mappings_3.png "application mappings")
+mappings](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/application-mappings_3.png "application mappings")
 
 Next to the *Wildcard application maps* section, click the *Insert…*
 button.
 
 ![wildcard extension
-mapping](https://haacked.com/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/09-wildcard-extension-mapping_3.png "wildcard extension mapping")
+mapping](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/09-wildcard-extension-mapping_3.png "wildcard extension mapping")
 
 This brings up the wildcard application mapping dialog. Enter the path
 to the *aspnet\_isapi.dll*. You can follow the trick we mentioned
@@ -251,10 +251,10 @@ Now when you browse your site, your URLs will not have a file extension
 as you can see in the following screenshots.
 
 ![Home page without
-extension](https://haacked.com/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/11-extensionless-url_3.png "Home page without extension")
+extension](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/11-extensionless-url_3.png "Home page without extension")
 
 [![About page without
-extension](https://haacked.com/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/10-extensionless-about-page_thumb_1.png "About page without extension")](https://haacked.com/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/10-extensionless-about-page_5.png)
+extension](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/10-extensionless-about-page_thumb_1.png "About page without extension")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/07de283cb368_B754/10-extensionless-about-page_5.png)
 
  
 

@@ -3,4 +3,4 @@ replyToId: dsq-797654911
 date: 2013-02-13T09:11:15.0000000-08:00
 name: haacked
 avatar: https://github.com/haacked.png?size=120
-message: <p>Yeah, perhaps honeypot captcha might be a better approach for headless browser kits. <a href="http://haacked.com/archive/2007/09/10/honeypot-captcha.aspx" rel="nofollow noopener" title="http://haacked.com/archive/2007/09/10/honeypot-captcha.aspx">http://haacked.com/archive/...</a> But instead of using display none, move the captcha to the far left beyond the monitor display size. I wonder what display size a headless monitor uses and if they understand what's visible and what's not in the viewport.</p>
+message: <p>Yeah, perhaps honeypot captcha might be a better approach for headless browser kits. <a href="https://haacked.com/archive/2007/09/10/honeypot-captcha.aspx" rel="nofollow noopener" title="https://haacked.com/archive/2007/09/10/honeypot-captcha.aspx">https://haacked.com/archive/...</a> But instead of using display none, move the captcha to the far left beyond the monitor display size. I wonder what display size a headless monitor uses and if they understand what's visible and what's not in the viewport.</p>

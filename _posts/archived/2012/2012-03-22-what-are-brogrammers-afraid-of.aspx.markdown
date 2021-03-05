@@ -32,7 +32,7 @@ It wasn’t always like this. Ada Lovelace is widely credited as the [world’s 
 
 The same site where I found that quote has a link to this great [Life Magazine archive photo](http://thecomputerboys.com/?p=351 "Life Magazine Archive photo of IBM") of IBM computer operators.
 
-[![ibm-60s](https://haacked.com/images/haacked_com/WindowsLiveWriter/What-are-Brogrammers-Afraid-Of_C1D4/ibm-60s_thumb.jpg "ibm-60s")](https://haacked.com/images/haacked_com/WindowsLiveWriter/What-are-Brogrammers-Afraid-Of_C1D4/ibm-60s_2.jpg)
+[![ibm-60s](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/What-are-Brogrammers-Afraid-Of_C1D4/ibm-60s_thumb.jpg "ibm-60s")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/What-are-Brogrammers-Afraid-Of_C1D4/ibm-60s_2.jpg)
 
 But the percentage of women declined steadily from that point. According to this [Girls Go Geek](http://blog.fogcreek.com/girls-go-geek-again/ "Girls Go Geek") post, in 1987, 42% of software developers were women. But then:
 

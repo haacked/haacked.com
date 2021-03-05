@@ -16,7 +16,7 @@ Have any of you heard of [Robbie
 Williams](http://en.wikipedia.org/wiki/Robbie_Williams "Robbie Williams")?
 
 [![Robbie
-Williams](https://haacked.com/images/haacked_com/WindowsLiveWriter/BritishMusicStarsandSoccerInLosAngeles_14AFB/Comeundonemusicvideo.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/BritishMusicStarsandSoccerInLosAngeles_14AFB/Comeundonemusicvideo1.jpg "Robbie Williams")
+Williams](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BritishMusicStarsandSoccerInLosAngeles_14AFB/Comeundonemusicvideo.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BritishMusicStarsandSoccerInLosAngeles_14AFB/Comeundonemusicvideo1.jpg "Robbie Williams")
 
 My wife knew who he was immediately. Must be the fact that she’s a
 British citizen (she has dual Japanese citizenship as well). She played
@@ -44,7 +44,7 @@ on the pitch, and if I had that sort of money, I could see running a
 soccer club (sorry, Footbal Club) as a fantastic hobby.
 
 [![Santiago
-Cabrera](https://haacked.com/images/haacked_com/WindowsLiveWriter/BritishMusicStarsandSoccerInLosAngeles_14AFB/SantiagoCabrera_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/BritishMusicStarsandSoccerInLosAngeles_14AFB/SantiagoCabrera2.jpg "Santiago Cabrera")
+Cabrera](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BritishMusicStarsandSoccerInLosAngeles_14AFB/SantiagoCabrera_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BritishMusicStarsandSoccerInLosAngeles_14AFB/SantiagoCabrera2.jpg "Santiago Cabrera")
 
 Not to be outdone, my team now has its own celebrity member. Santiago
 Cabrera from the TV show Heroes is now a member of our team.

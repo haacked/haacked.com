@@ -4,7 +4,7 @@ tags: [personal,japan,tokyo]
 redirect_from: "/archive/2005/07/26/a-rasta-ride-to-the-airport.aspx/"
 ---
 
-![Rastafarian Flag](https://haacked.com/images/RastafariFlag.jpg)For
+![Rastafarian Flag](https://haacked.com/assets/images/RastafariFlag.jpg)For
 those of you who give a damn, we made it safely to Japan. The trip
 itself had quite an interesting start in the form of a cab ride to the
 airport with a, ahem, slightly odd-in-the-head fellow.

@@ -4,7 +4,7 @@ tags: [news]
 redirect_from: "/archive/2005/07/05/london-terrorist-attack.aspx/"
 ---
 
-![London Blast](https://haacked.com/images/LondonBlast.jpg) By now you
+![London Blast](https://haacked.com/assets/images/LondonBlast.jpg) By now you
 must have heard that there was a [Terrorist attack in
 London](http://www.cnn.com/2005/WORLD/europe/07/07/london.tube/index.html)
 in which at least 33 are dead and many more injured.

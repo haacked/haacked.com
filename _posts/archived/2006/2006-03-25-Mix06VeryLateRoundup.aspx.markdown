@@ -4,7 +4,7 @@ tags: [conferences]
 redirect_from: "/archive/2006/03/24/Mix06VeryLateRoundup.aspx/"
 ---
 
-![Craps](https://haacked.com/images/Craps.jpg)I apologize for writing up
+![Craps](https://haacked.com/assets/images/Craps.jpg)I apologize for writing up
 a roundup for the Mix06 conference several days too late, but I was not
 in a good condition to blog during the conference. In part it was due to
 a cold I was fighting which left me unmotivated to blog. You might think
@@ -41,7 +41,7 @@ about what Microsoft is doing in this space.
 
 ### Fellow Bloggers
 
-![Deck of Cards](https://haacked.com/images/black_jack.jpg) Of course the
+![Deck of Cards](https://haacked.com/assets/images/black_jack.jpg) Of course the
 best part of the conference is meeting my fellow bloggers. Almost
 immediately [**Jon**](weblogs.asp.net/jgalloway/ "Jon Galloway") and I
 ran into [**Jeff

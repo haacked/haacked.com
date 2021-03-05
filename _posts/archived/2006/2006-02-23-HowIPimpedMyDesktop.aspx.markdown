@@ -9,7 +9,7 @@ SourceForge and all this one reader from Spain (¡hola!) wants to know is
 where I got my theme from?
 
 [![My
-desktop](https://haacked.com/images/MyDesktop_Small.png)](https://haacked.com/images/MyDesktop_Big.png)
+desktop](https://haacked.com/assets/images/MyDesktop_Small.png)](https://haacked.com/assets/images/MyDesktop_Big.png)
 
 Click on the image above to see a full screenshot
 

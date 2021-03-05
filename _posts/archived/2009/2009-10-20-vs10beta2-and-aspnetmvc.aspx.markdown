@@ -28,13 +28,13 @@ you’ll be greeted with an ASP.NET MVC 2 project template option under
 the Web node.
 
 [![New
-Project](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatVisualStudio2010Beta2Meansfor.NETMVC_12658/New%20Project_thumb_1.png "New Project")](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatVisualStudio2010Beta2Meansfor.NETMVC_12658/New%20Project_4.png)
+Project](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatVisualStudio2010Beta2Meansfor.NETMVC_12658/New%20Project_thumb_1.png "New Project")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatVisualStudio2010Beta2Meansfor.NETMVC_12658/New%20Project_4.png)
 
 Note that when you create your ASP.NET MVC 2 project with Visual Studio
 2010, you can choose whether you wish to target ASP.NET 3.5 or ASP.NET
 4.
 
-![multi-target](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatVisualStudio2010Beta2Meansfor.NETMVC_12658/multi-target_3.png "multi-target")
+![multi-target](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatVisualStudio2010Beta2Meansfor.NETMVC_12658/multi-target_3.png "multi-target")
 
 If you choose to target ASP.NET 4, you’ll be able to take advantage of
 the new [HTML encoding code

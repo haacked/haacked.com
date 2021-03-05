@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2004/03/22/snowboarding-weekend-mammoth-mountain.aspx/"
 ---
 
-![Snowboarding](/images/snowboarding.jpg) A group of us went
+![Snowboarding](/assets/images/snowboarding.jpg) A group of us went
 snowboarding at Mammoth mountain this past weekend to celebrate Judy's
 (Dan's wife) birthday. I won't be so uncouth to tell you how old she
 turned. We stayed in a nice little condo with the 7 of us.

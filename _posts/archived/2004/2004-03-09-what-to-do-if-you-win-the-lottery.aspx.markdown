@@ -4,7 +4,7 @@ tags: [interesting,personal]
 redirect_from: "/archive/2004/03/08/what-to-do-if-you-win-the-lottery.aspx/"
 ---
 
-![](/images/lottery.jpg)I was thinking about this question after reading
+![](/assets/images/lottery.jpg)I was thinking about this question after reading
 an article in a magazine about setting goals. The article had four steps
 for setting goals, and six steps for meeting them. Included were your
 usual tips for visualizing your goal, writing it down, and making a plan

@@ -4,7 +4,7 @@ tags: [meta]
 redirect_from: "/archive/2006/04/26/YouveBeenHaacked1KTimes.aspx/"
 ---
 
-![Axe](https://haacked.com/images/bloodyAxe.jpg) Well this post marks my
+![Axe](https://haacked.com/assets/images/bloodyAxe.jpg) Well this post marks my
 1000th post on this blog. Since I am totally on board with the base 10
 system, that makes this noteworthy to me. If we all used the hexadecimal
 system (base 16), then this post would be my 3E8th post which really
@@ -82,7 +82,7 @@ I went ahead and created my own control panel shortcut.
     different credentials* option.
 
 ![Control Panel
-Selection](https://haacked.com/images/ControlPanelIconSelection.gif)
+Selection](https://haacked.com/assets/images/ControlPanelIconSelection.gif)
 
 Visual Studio Development {.clear}
 -------------------------

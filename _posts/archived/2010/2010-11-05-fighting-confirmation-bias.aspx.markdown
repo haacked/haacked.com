@@ -30,7 +30,7 @@ The fudge factor article talks about some of the circumstances that contribute t
 > careers.
 
 Obviously this doesn’t just apply to scientists. I’m sure we all know developers who are equally prone to confirmation bias, present company
-excluded of course. ![Winking smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Fighting-Confirmation-Bias_12B38/wlEmoticon-winkingsmile_2.png)
+excluded of course. ![Winking smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Fighting-Confirmation-Bias_12B38/wlEmoticon-winkingsmile_2.png)
 Pretty much everybody is succeptbile. We all probably witnessed an impressive (in magnitude) display of confirmation bias in the recent elections.
 
 However, there’s another contributing factor that the article doesn’t touch upon that I think is worth calling out, our education system. I

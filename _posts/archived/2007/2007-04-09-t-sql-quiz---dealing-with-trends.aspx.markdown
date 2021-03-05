@@ -34,12 +34,12 @@ each of the statistics.
 The following screenshot shows the data model.
 
 ![Statistic table and Measurement
-Table](https://haacked.com/images/haacked_com/WindowsLiveWriter/c994658a199e_148AD/image018.png)
+Table](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/c994658a199e_148AD/image018.png)
 
 The following screenshot shows the list of contrived statistics.
 
 ![Statistic Table
-Data](https://haacked.com/images/haacked_com/WindowsLiveWriter/c994658a199e_148AD/image022.png)
+Data](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/c994658a199e_148AD/image022.png)
 
 What we see above are the following:
 
@@ -53,7 +53,7 @@ For each of these statistics, the larger, the better.
 The following is a view of the Measurement table.
 
 ![Measurement Table
-Data](https://haacked.com/images/haacked_com/WindowsLiveWriter/c994658a199e_148AD/image041.png)
+Data](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/c994658a199e_148AD/image041.png)
 
 Each measurement has the previous score and current score (this is a
 denormalized version of the actual tables for the purposes of
@@ -65,7 +65,7 @@ or not the statistic is trending positive or negative, where positive is
 better and negative is worse.
 
 ![Result of the
-query](https://haacked.com/images/haacked_com/WindowsLiveWriter/c994658a199e_148AD/image036.png)
+query](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/c994658a199e_148AD/image036.png)
 
 Here is my first cut at the stored procedure. It’s pretty
 straightforward. In order to make the important part of the query as

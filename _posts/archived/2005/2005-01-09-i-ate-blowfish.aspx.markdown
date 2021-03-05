@@ -15,14 +15,14 @@ her the menu (or something like that. I couldn't understand as it
 sounded like a bunch of jibberish to me. I think they call it "Nihongo"
 or "Japanese" to you and me).
 
-![Japanese Dinner](/images/JapaneseDinner.jpg) \
+![Japanese Dinner](/assets/images/JapaneseDinner.jpg) \
 And for the main course, I will feed you poison.
 
 The food was outstanding and very delicately prepared. At least for the
 two microseconds before I clumsily destroyed my dishes with my two
 chopsticks of death.
 
-![](/images/delicatefood.jpg) \
+![](/assets/images/delicatefood.jpg) \
 Thar's gold in them there soup.
 
 Much to our surprise, we were served Fugu. It's not a typical part of
@@ -45,7 +45,7 @@ prepared by those who are not trained to prepare it. This is probably
 less than the number of people who choke and die on mochi rice each
 year.
 
-![Blowfish (fugu)](/images/Fugu.jpg) \
+![Blowfish (fugu)](/assets/images/Fugu.jpg) \
 Meet the maker of your doom.
 
 But I happily dug in. In the picture above, the plate is covered in Fugu
@@ -64,7 +64,7 @@ One of my favorite parts of this meal was the expensive bottle of sake
 we consumed. For only 10,000 yen (around \$100), we enjoyed this very
 smooth and clean concoction with a slight fruity aroma and taste.
 
-![Sake](/images/ExpensiveSake.jpg) \
+![Sake](/assets/images/ExpensiveSake.jpg) \
 Mmmmm Sake
 
 I've become quite a connoiseur of sake, so much so everyone wonders if

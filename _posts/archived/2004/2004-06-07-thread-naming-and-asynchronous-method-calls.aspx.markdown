@@ -4,7 +4,7 @@ tags: [dotnet,code,concurrency]
 redirect_from: "/archive/2004/06/06/thread-naming-and-asynchronous-method-calls.aspx/"
 ---
 
-![Thread](/images/Thread.jpg)Typically when you spawn a new thread, you
+![Thread](/assets/images/Thread.jpg)Typically when you spawn a new thread, you
 want to give it a name to facilitate debugging. For example:
 
 ```csharp

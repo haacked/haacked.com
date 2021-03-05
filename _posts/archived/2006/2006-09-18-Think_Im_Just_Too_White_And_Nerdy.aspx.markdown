@@ -11,7 +11,7 @@ premier and has been taken down. You can find the song on [Weird Al’s
 MySpace page](http://www.myspace.com/weirdal). I’ve updated my link.
 
 [![White and
-Nerdy](https://haacked.com/images/haacked_com/WindowsLiveWriter/ThinkImJustTooWhiteAndNerdy_BC52/TooWhiteAndNerdy4.png)](http://www.myspace.com/weirdal)
+Nerdy](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ThinkImJustTooWhiteAndNerdy_BC52/TooWhiteAndNerdy4.png)](http://www.myspace.com/weirdal)
 
 This video from Weird Al Yankovich cracks me up with such lyrical gems
 like this:

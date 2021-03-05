@@ -4,7 +4,7 @@ tags: [community,microsoft]
 redirect_from: "/archive/2006/03/05/BeyondChannel9.aspx/"
 ---
 
-![10](https://haacked.com/images/On10.jpg) So those crazy cats at
+![10](https://haacked.com/assets/images/On10.jpg) So those crazy cats at
 [Channel 9](http://channel9.msdn.com/ "Channel 9") are up to something
 new and somewhat secretive so far.
 

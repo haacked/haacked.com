@@ -6,7 +6,7 @@ redirect_from: "/archive/2007/04/23/the-death-of-the-subtext-build-server.aspx/"
 
 Take a good look at this picture.
 
-[![Brick](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheDeathOfTheSubtextBuildServer_14D3F/Brick_thumb%5B3%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheDeathOfTheSubtextBuildServer_14D3F/Brick%5B5%5D.jpg "A Brick")
+[![Brick](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheDeathOfTheSubtextBuildServer_14D3F/Brick_thumb%5B3%5D.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheDeathOfTheSubtextBuildServer_14D3F/Brick%5B5%5D.jpg "A Brick")
 
 That there is pretty much my Shuttle machine today, metaphorically
 speaking of course.

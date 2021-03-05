@@ -16,7 +16,7 @@ Chinook pass. At the parking area, you'll cross Route 410 by walking on
 a wooden overpass seen above. The two in the picture below are the
 friends we visited, Dan and Grace Kalish.
 
-![Beginning of the hike](/images/BeginningOverpass.jpg) \
+![Beginning of the hike](/assets/images/BeginningOverpass.jpg) \
  Car careens off the road while hikers wave at camera.
 
 After a bit of hiking, through lush green forest, we came upon the first
@@ -25,7 +25,7 @@ it's fairly easy, though we managed to make it a challenge by taking a
 wrong turn and visiting a full fledged lake. The detour set us back
 around another half hour.
 
-![A lake](/images/TheFirstLake.jpg) \
+![A lake](/assets/images/TheFirstLake.jpg) \
  Dan wonders how those people in the lake got so small
 
 Akumi and I had a plane to catch that evening and we were running out of
@@ -38,11 +38,11 @@ exactly halfway around the loop. That led to the obvious conclusion that
 we should continue. What a fortuitous decision, as this trail saves all
 the best views for those willing to stay for act 2.
 
-![Mt. Rainier](/images/MtRainier.jpg) \
+![Mt. Rainier](/assets/images/MtRainier.jpg) \
  You've seen one picture perfect lake surrounded by violet wildflowers
 in the woods with an enormous mountain backdrop, you've seen them all.
 
-![Phil has a snack](/images/EatingVegation.jpg) \
+![Phil has a snack](/assets/images/EatingVegation.jpg) \
  Man loves nature. Man eats nature.
 
 Not one to let a photographic opportunity go by, we made sure to pose
@@ -50,18 +50,18 @@ for a group shot with our new friend, Mt. Rainier. As big as it looks in
 the photos, it looked absolutely ginormous in person. It positively
 encroaches on us as we take this shot.
 
-![Group Shot](/images/TheCrew.jpg) \
+![Group Shot](/assets/images/TheCrew.jpg) \
  That cardboard backdrop is so damn convincing!
 
 For most of the rest of the hike, we were treated to wonderful views of
 the mountain. It started to get rather blase. "Yet another view of the
 one of the most spectacular woodland scenes I've ever seen. Ho hum."
 
-![Hiking along](/images/Hiking.jpg) \
+![Hiking along](/assets/images/Hiking.jpg) \
  Tired of my incessant demands to stop and pose, my friends pose a
 mutiny.
 
-![Wildflowers](/images/WildFlowers.jpg) \
+![Wildflowers](/assets/images/WildFlowers.jpg) \
  Rainier tries to hide behind some trees.
 
 At the end, the hike ended up being reasonably vigorous due to our

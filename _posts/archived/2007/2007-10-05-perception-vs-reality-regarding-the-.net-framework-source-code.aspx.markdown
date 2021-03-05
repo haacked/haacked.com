@@ -18,7 +18,7 @@ no comic art skills (nor comic writing skills), so please forgive me for
 my lack of talent (click for full size)...
 
 [![Microsoft opens the
-code](https://haacked.com/images/haacked_com/WindowsLiveWriter/PerceptionVsReali.NETFrameworkSourceCode_13213/Microsoft%20opens%20the%20code_thumb_2.png)](https://haacked.com/images/Microsoft-opens-the-code.png "Reality vs Perception")
+code](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PerceptionVsReali.NETFrameworkSourceCode_13213/Microsoft%20opens%20the%20code_thumb_2.png)](https://haacked.com/assets/images/Microsoft-opens-the-code.png "Reality vs Perception")
 
 I know some of the people involved who made this happen and I find it
 hard to believe that there were nefarious intentions involved. You have

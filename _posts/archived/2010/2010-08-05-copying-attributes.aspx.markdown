@@ -15,7 +15,7 @@ problem where my code receives a collection of attributes and needs to
 change them in some way and then pass the changed collection along to
 another method that consumes the collection.
 
-[![reflection](https://haacked.com/images/haacked_com/WindowsLiveWriter/ReflectingOverAttributesWithoutLoadingTh_ED5C/reflection_3.jpg "reflection")](http://www.sxc.hu/photo/931357 "Abstract creation: by Jamie Woods from sxc.hu")
+[![reflection](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ReflectingOverAttributesWithoutLoadingTh_ED5C/reflection_3.jpg "reflection")](http://www.sxc.hu/photo/931357 "Abstract creation: by Jamie Woods from sxc.hu")
 
 I  want to avoid changing the attributes directly, because when you use
 reflection to retrieve attributes, those attributes may be cached by the

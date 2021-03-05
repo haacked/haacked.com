@@ -4,7 +4,7 @@ tags: [meta]
 redirect_from: "/archive/2005/11/17/to-the-57-lynx-users.aspx/"
 ---
 
-![Lynx](https://haacked.com/images/lynx.jpg) Welcome!
+![Lynx](https://haacked.com/assets/images/lynx.jpg) Welcome!
 
 Just going through various stats on my blog today and noticed that last month, there were 57 visits to this site using Lynx.
 

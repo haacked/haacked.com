@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2004/04/25/weekend-update--go-lakers.aspx/"
 ---
 
-![Geek Life](/images/Nerd.jpg) During our internet access drought after
+![Geek Life](/assets/images/Nerd.jpg) During our internet access drought after
 moving into our new place, I would check my wife's email for her at
 work. Since I had access to her account, I thought I would add my RSS
 feed to her "My Yahoo" page so that my headlines appear. She thought it

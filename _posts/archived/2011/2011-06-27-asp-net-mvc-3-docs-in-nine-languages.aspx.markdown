@@ -29,7 +29,7 @@ to those learning and using ASP.NET MVC.
     [http://msdn.microsoft.com/it-it/library/gg416514(VS.98).aspx](http://msdn.microsoft.com/it-it/library/gg416514(VS.98).aspx)
 -   Russian:
     [http://msdn.microsoft.com/ru-ru/library/gg416514(VS.98).aspx](http://msdn.microsoft.com/ru-ru/library/gg416514(VS.98).aspx)
-    [![earth](https://haacked.com/images/haacked_com/WindowsLiveWriter/c8a02f8f123e_941C/earth_3.jpg "earth")](http://www.flickr.com/photos/donkeyhotey/5679642883/ "Earth by DonkeyHotey")
+    [![earth](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/c8a02f8f123e_941C/earth_3.jpg "earth")](http://www.flickr.com/photos/donkeyhotey/5679642883/ "Earth by DonkeyHotey")
     Gratuitous Earth photo by
     [DonkeyHotey](http://www.flickr.com/photos/donkeyhotey/ "DonkeyHotey user on Flickr").
     [Some Rights Reserved (CC BY

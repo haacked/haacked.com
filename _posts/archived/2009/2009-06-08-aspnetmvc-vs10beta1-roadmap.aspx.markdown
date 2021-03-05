@@ -52,7 +52,7 @@ Roadmap
 -------
 
 [![Road Blur: Photo credit: arinas74 on
-stock.xchng](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVCInstallerForVisualStudio2010Be_7EAC/fast-road_3.jpg "Road Blur. Photo credit: arinas74 on stock.xchng")](http://www.sxc.hu/photo/1158482 "Photo credit: arinas74 on stock.xchng")
+stock.xchng](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NETMVCInstallerForVisualStudio2010Be_7EAC/fast-road_3.jpg "Road Blur. Photo credit: arinas74 on stock.xchng")](http://www.sxc.hu/photo/1158482 "Photo credit: arinas74 on stock.xchng")
 
 I recently published the [**Roadmap for ASP.NET MVC
 2**](http://aspnet.codeplex.com/Wiki/View.aspx?title=Road%20Map&referringTitle=Home "ASP.NET MVC Roadmap")

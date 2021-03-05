@@ -7,8 +7,8 @@ redirect_from: "/archive/2005/01/08/speaking-of-sake-heres-a-bottle-in-the-shape
 Due to my love for sake, my father-in-law gave this bottle to me as a
 parting gift.
 
-![Castle Sake](/images/SakeCastle.jpg) 
-![top exposed](/images/SakeCastle2.jpg) 
+![Castle Sake](/assets/images/SakeCastle.jpg) 
+![top exposed](/assets/images/SakeCastle2.jpg) 
 *hic* I'm ready to shtorm the castle shir *hic*
 
 He also gave me two bottles of "Negori" Sake (not pictured). This is a

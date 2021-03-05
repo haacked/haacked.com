@@ -12,7 +12,7 @@ Bandit](http://www.rssbandit.org/ "RSS aggregator") and
 Subtext so that
 I could work on the means of delivering blogs.
 
-![Oblivion Box](https://haacked.com/images/oblivion.jpg) But now I
+![Oblivion Box](https://haacked.com/assets/images/oblivion.jpg) But now I
 realized that my blogging addiction is merely the mild craving for milk
 after a cookie. I have discovered what true addiction is, and its name
 is **Oblivion**.
@@ -39,7 +39,7 @@ something. I remember there was never a point in playing a thief in most
 role playing games because you would just get killed first. Most games
 were simply hack and slash fight your way out of every situation.
 
-![Oblivion Screenshot](https://haacked.com/images/oblivionScreen.jpg) But
+![Oblivion Screenshot](https://haacked.com/assets/images/oblivionScreen.jpg) But
 with Oblivion, you have the opportunity to really put those sneaking and
 lockpicking skills to good use in daring missions where simply blasting
 your way through really isn’t a good option. I also like the fact that

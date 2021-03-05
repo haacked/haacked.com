@@ -16,7 +16,7 @@ Ford’s son) we gathered around the screen and had a chat with the
 not-so-prolific blogger lately, [Jon
 Galloway](http://weblogs.asp.net/jgalloway/ "JonGalloway.ToString()").
 
-![Jeff and Jon](https://haacked.com/images/JeffAndJon.JPG)
+![Jeff and Jon](https://haacked.com/assets/images/JeffAndJon.JPG)
 
 So that there is Jeff on the left getting cozy with Jon on the right,
 who couldn’t make it in person but would like to thank the academy via

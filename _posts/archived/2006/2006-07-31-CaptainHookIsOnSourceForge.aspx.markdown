@@ -7,7 +7,7 @@ redirect_from: "/archive/2006/07/30/CaptainHookIsOnSourceForge.aspx/"
 UPDATE: I long ago stopped supporting Captain Hook. This is a dead
 project.
 
-![CaptainHook](https://haacked.com/images/captainhook.gif) I recently
+![CaptainHook](https://haacked.com/assets/images/captainhook.gif) I recently
 introduced an [internal tool for writing Subversion
 Hooks](https://haacked.com/archive/2006/07/27/IntroducingCaptainHookASubversionHookFrameworkFor.NET.aspx "Introducing CaptainHook")
 that we developed for internal use at

@@ -23,11 +23,11 @@ Many interpret this as a cynical jibe at software management dysfunction. But th
 
 I savor [Manu Cornet’s visual interpretation of Cornet’s law](http://www.bonkersworld.net/organizational-charts/ "Organizational charts"). I’m not sure how Manu put this together, but it’s not a stretch to suggest that the software architectures these companies produce might lead to these illustrations.
 
-[![organizational\_charts](https://haacked.com/images/haacked_com/WindowsLiveWriter/ConwaysLaw_6DF4/organizational_charts_thumb.png "organizational_charts")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ConwaysLaw_6DF4/organizational_charts_2.png)
+[![organizational\_charts](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ConwaysLaw_6DF4/organizational_charts_thumb.png "organizational_charts")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ConwaysLaw_6DF4/organizational_charts_2.png)
 
 Having worked at Microsoft, the one that makes me laugh the most is the Microsoft box. Let’s zoom in on that one. Perhaps it’s an exaggerated depiction, but in my experience it’s not without some basis in truth.
 
-[![ms-org](https://haacked.com/images/haacked_com/WindowsLiveWriter/ConwaysLaw_6DF4/ms-org_thumb.png "ms-org")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ConwaysLaw_6DF4/ms-org_2.png) 
+[![ms-org](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ConwaysLaw_6DF4/ms-org_thumb.png "ms-org")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ConwaysLaw_6DF4/ms-org_2.png) 
 
 The reason I mention Conway’s Law in my talks is to segue to the topic of how [GitHub](http://github.com/) the company is structured. It illustrates why GitHub.com is structured the way it is.
 

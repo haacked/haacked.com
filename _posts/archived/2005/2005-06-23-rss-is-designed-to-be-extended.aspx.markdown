@@ -4,7 +4,7 @@ tags: [rss]
 redirect_from: "/archive/2005/06/22/rss-is-designed-to-be-extended.aspx/"
 ---
 
-![RSS](https://haacked.com/images/RSSLOGO.jpg) Now repeat after me, “RSS
+![RSS](https://haacked.com/assets/images/RSSLOGO.jpg) Now repeat after me, “RSS
 is designed to be extended.”
 
 Good. Now repeat it again. It’s old hat that Microsoft has engaged in

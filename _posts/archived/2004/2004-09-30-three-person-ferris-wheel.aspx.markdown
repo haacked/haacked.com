@@ -6,7 +6,7 @@ redirect_from: "/archive/2004/09/29/three-person-ferris-wheel.aspx/"
 
 My buddy [Ed](http://www.xanga.com/home.aspx?user=mushustyles) posted some pics from Burning Man this year. This pedal powered Ferris wheel particularly caught my eye. How cool is that!
 
-![Ferris Wheel](/images/BMFerrisWheel.jpg)
+![Ferris Wheel](/assets/images/BMFerrisWheel.jpg)
 
 When you can't afford a hamster.
 

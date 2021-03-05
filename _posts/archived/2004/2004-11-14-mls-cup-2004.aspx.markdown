@@ -4,7 +4,7 @@ tags: [soccer,personal]
 redirect_from: "/archive/2004/11/13/mls-cup-2004.aspx/"
 ---
 
-![MLS](/images/mls.jpg) I watched DC United take on Kansas City today
+![MLS](/assets/images/mls.jpg) I watched DC United take on Kansas City today
 for the MLS Cup 2004. The great thing about soccer in the U.S. is that I
 can get tickets for the national championshipship the day before for a
 decent price. Unfortunately that's also the problem with U.S. soccer.

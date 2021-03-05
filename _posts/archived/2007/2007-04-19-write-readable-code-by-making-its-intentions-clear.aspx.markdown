@@ -16,7 +16,7 @@ coding is not writing code, but reading it. As Eric Lippert points out,
 > does not require understanding why they said it that way.**
 
 [![Screenshot of
-code](https://haacked.com/images/haacked_com/WindowsLiveWriter/APIDesignMakeYourIntentionsClear_AF1C/324180_numbers_and_letters_my_mac_pu%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/APIDesignMakeYourIntentionsClear_AF1C/324180_numbers_and_letters_my_mac_pu.jpg "Code")*Hmmm,
+code](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/APIDesignMakeYourIntentionsClear_AF1C/324180_numbers_and_letters_my_mac_pu%5B1%5D.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/APIDesignMakeYourIntentionsClear_AF1C/324180_numbers_and_letters_my_mac_pu.jpg "Code")*Hmmm,
 now why did Eric say that in that particular way?*
 
 This in part is why reinventing the wheel is so common (*apart from the

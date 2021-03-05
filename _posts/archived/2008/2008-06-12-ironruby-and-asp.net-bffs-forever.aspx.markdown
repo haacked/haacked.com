@@ -11,7 +11,7 @@ I wish I could have been there, but I was celebrating my son’s first
 birthday (which gives me an opening to gratuitously post a picture of
 the kid here).
 
-[![cody-birthday](https://haacked.com/images/haacked_com/WindowsLiveWriter/IronRubyandASP.NETBFFsForever_836B/cody-birthday_thumb.jpg "cody-birthday")](https://haacked.com/images/haacked_com/WindowsLiveWriter/IronRubyandASP.NETBFFsForever_836B/cody-birthday_2.jpg "Cody's birthday")
+[![cody-birthday](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IronRubyandASP.NETBFFsForever_836B/cody-birthday_thumb.jpg "cody-birthday")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IronRubyandASP.NETBFFsForever_836B/cody-birthday_2.jpg "Cody's birthday")
 
 I’m talking about Tech-Ed 2008 Orlando of course where [John
 Lam](http://www.iunknown.com/ "John Lam's IUnknown blog") presented a

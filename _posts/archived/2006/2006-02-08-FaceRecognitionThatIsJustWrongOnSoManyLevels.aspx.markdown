@@ -14,9 +14,9 @@ I thought I might have interesting results since I am bi-racial, but
 wasn’t expecting much. Here is the photo I uploaded and the two closest
 look alikes.
 
-![Portrait of Me](https://haacked.com/images/PortraitOfMe.jpg)
+![Portrait of Me](https://haacked.com/assets/images/PortraitOfMe.jpg)
 
-![Look Alikes](https://haacked.com/images/MeLookalikes.jpg)
+![Look Alikes](https://haacked.com/assets/images/MeLookalikes.jpg)
 
 Now that is just plain rude! Dare I play the race card here? Just
 because I am half-Korean with glasses doesn’t mean I look like Kim Jong

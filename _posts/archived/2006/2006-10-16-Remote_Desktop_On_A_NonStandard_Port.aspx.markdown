@@ -21,18 +21,18 @@ The setting for the Terminal Services port lives in the following registry key:
 `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TerminalServer\WinStations\RDP-Tcp`
 Open up Regedit, find this key, and look for the the **PortNumber** value.
 
-![PortNumber Setting](https://haacked.com/images/haacked_com/WindowsLiveWriter/RemoteDesktopOnANonStandardPort_1438D/TerminalServicesPortRegistrySetting8.png)
+![PortNumber Setting](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/RemoteDesktopOnANonStandardPort_1438D/TerminalServicesPortRegistrySetting8.png)
 
 Double click on the PortNumber setting and enter in the port number you wish to use. Unless you think in hex (pat yourself on the back if you do), you might want to click on *decimal* before entering your new port
 number.
 
-![Port Number Value Dialog](https://haacked.com/images/haacked_com/WindowsLiveWriter/RemoteDesktopOnANonStandardPort_1438D/TerminalServicesPortNumberValue4.png)
+![Port Number Value Dialog](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/RemoteDesktopOnANonStandardPort_1438D/TerminalServicesPortNumberValue4.png)
 
 Or, you can use my creatively named *[Terminal Services Port
 Changer](https://github.com/Haacked/TerminalServicesPortChanger/releases/download/v1.0.0/TerminalServicesPortChangerExtractor.exe)*
 application, which is available with [source on GitHub](https://github.com/Haacked/TerminalServicesPortChanger/).  This is a simple five minute application that does one thing and one thing only. It allows you to change the port number that Terminal Services listens on.
 
-![Terminal Services Port Changer](https://haacked.com/images/haacked_com/WindowsLiveWriter/RemoteDesktopOnANonStandardPort_1438D/VelocitTSPortChanger4.png)
+![Terminal Services Port Changer](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/RemoteDesktopOnANonStandardPort_1438D/VelocitTSPortChanger4.png)
 
 Remember, all the usual caveats apply about tinkering with the registry. You do so at your own risk.
 

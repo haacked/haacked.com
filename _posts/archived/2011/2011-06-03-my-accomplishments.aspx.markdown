@@ -50,7 +50,7 @@ thing. Be sure not to confuse the two.
 
 What I did above is hyperbole, while this is a hyperbola.
 
-![hyperbola](https://haacked.com/images/haacked_com/WindowsLiveWriter/My-Accomplishments_E6D3/hyperbola_3.png "hyperbola")
+![hyperbola](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/My-Accomplishments_E6D3/hyperbola_3.png "hyperbola")
 
 Have a nice weekend!
 

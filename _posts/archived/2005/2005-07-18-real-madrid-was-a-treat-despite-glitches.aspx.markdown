@@ -4,7 +4,7 @@ tags: [personal,soccer]
 redirect_from: "/archive/2005/07/17/real-madrid-was-a-treat-despite-glitches.aspx/"
 ---
 
-![Zinedine Zidane](https://haacked.com/images/ZidaneOnTheAttack.jpg)
+![Zinedine Zidane](https://haacked.com/assets/images/ZidaneOnTheAttack.jpg)
 
 You know how in Monopoly you can draw a Community Chest card that says
 “Bank Error In Your Favor, Collect \$200?” We had one of those moments

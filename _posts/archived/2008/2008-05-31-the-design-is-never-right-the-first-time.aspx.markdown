@@ -4,7 +4,7 @@ tags: [aspnet,aspnetmvc,code,methodologies]
 redirect_from: "/archive/2008/05/30/the-design-is-never-right-the-first-time.aspx/"
 ---
 
-![tacoma narrows](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheDesignIsNeverRightTheFirstTime_CC01/tacoma_narrows_3.jpg)
+![tacoma narrows](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheDesignIsNeverRightTheFirstTime_CC01/tacoma_narrows_3.jpg)
 The design is never right the first time. Nor is it usually right the
 second time. This is one of those key lessons you learn over time
 building real software, and is the source of one of the chief complaints

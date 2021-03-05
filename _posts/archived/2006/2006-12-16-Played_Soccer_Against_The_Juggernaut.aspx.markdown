@@ -18,10 +18,10 @@ play, but now more well known for his acting, such as the role of the
 Juggernaut in X-Men 3.
 
 [![Grabbing the wrong soccer
-ball](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlayedSoccerAgainstTheJuggernaut_BE86/vinniejones_thumb3.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlayedSoccerAgainstTheJuggernaut_BE86/vinniejones5.jpg)
+ball](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PlayedSoccerAgainstTheJuggernaut_BE86/vinniejones_thumb3.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PlayedSoccerAgainstTheJuggernaut_BE86/vinniejones5.jpg)
 
 [![The
-Juggernaut](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlayedSoccerAgainstTheJuggernaut_BE86/promo1juggernaut_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/PlayedSoccerAgainstTheJuggernaut_BE86/promo1juggernaut2.jpg)
+Juggernaut](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PlayedSoccerAgainstTheJuggernaut_BE86/promo1juggernaut_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PlayedSoccerAgainstTheJuggernaut_BE86/promo1juggernaut2.jpg)
 
 Despite being known for his rough tactics, it still takes talent to play
 at the level he played at, and it showed today. He put in a sweet
@@ -39,5 +39,5 @@ At the end of regulation, we were tied 4 to 4. Since it was a friendly
 and we had paid for the field for 10 more minutes, we played a
 short overtime period in which they scored two more goals, the final
 being 6 to 4. We should’ve faked injuries and left while we were tied.
-![Wink](https://haacked.com/Images/emotions/smiley-wink.gif)
+![Wink](https://haacked.com/assets/images/emotions/smiley-wink.gif)
 

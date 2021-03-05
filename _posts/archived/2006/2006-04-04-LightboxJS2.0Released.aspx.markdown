@@ -14,7 +14,7 @@ below. Go ahead, click on it (assuming you are not reading this in an
 aggregator).
 
 [![Screenshot of Lightbox JS 2.0 In
-Action](https://haacked.com/images/Lightbox2.0Demo_thumb.jpg)](https://haacked.com/images/LightboxJS2.0Demo.jpg "Lightbox JS")
+Action](https://haacked.com/assets/images/Lightbox2.0Demo_thumb.jpg)](https://haacked.com/assets/images/LightboxJS2.0Demo.jpg "Lightbox JS")
 
 Pretty cool eh? Well just as I go and get this implemented, the people
 that brought you Lightbox JS just released [Lightbox JS

@@ -6,7 +6,7 @@ redirect_from:
   - "/archive/2004/04/30/387.aspx/"
 ---
 
-![Wired Magazine May 2004](/images/cover_wired_190.jpg) I just finished
+![Wired Magazine May 2004](/assets/images/cover_wired_190.jpg) I just finished
 reading an essay in the latest edition of Wired by Gary Wolf entitled
 "The Return Of Push!" discussing whether or not RSS will realize his
 prediction made seven years ago. His prediction in Wired 5.03 was that

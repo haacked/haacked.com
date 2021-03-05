@@ -19,7 +19,7 @@ all mailing lists, not just the ones he mentions).
 > replies which were pointing at techniques, tools and patterns, not the
 > reasoning behind these tools, techniques and patterns.
 
-[![science-in-action](https://haacked.com/images/haacked_com/WindowsLiveWriter/ResearchSupportsTheEfficacyofTDD_15041/science-in-action_3.jpg)](http://www.sxc.hu/photo/419554 "Two students conducting an experiment - from stock exchange")As
+[![science-in-action](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ResearchSupportsTheEfficacyofTDD_15041/science-in-action_3.jpg)](http://www.sxc.hu/photo/419554 "Two students conducting an experiment - from stock exchange")As
 a fan of the scientific method, I understand the difference between a
 hypothesis and a theory/law. Experience and anecdotal evidence do not a
 theory make, as anyone who’s participated in a memory experiment will

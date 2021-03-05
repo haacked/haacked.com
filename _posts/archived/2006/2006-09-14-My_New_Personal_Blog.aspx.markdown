@@ -14,7 +14,7 @@ Expressions](https://haacked.com/archive/2005/04/22/2784.aspx).  Go
 figure.
 
 [![Soccer
-Injury](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyNewPersonalBlog_11846/dsc01408_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyNewPersonalBlog_11846/dsc014082.jpg)And
+Injury](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MyNewPersonalBlog_11846/dsc01408_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MyNewPersonalBlog_11846/dsc014082.jpg)And
 yes, I have tried in the past to explain that my blog has categories and
 by going to the **[Day to Day
 category](https://haacked.com/category/1.aspx), you can filter out my

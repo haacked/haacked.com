@@ -8,7 +8,7 @@ Or, as my recent inbox tells me, you’re *not afraid* to ask. ;)
 
 A coworker recently asked for some good resources on getting up to speed on the Model View Controller (MVC) pattern. Around the same time, I received another email talking about how people are confused around the difference between MVC and the Model View Presenter (MVP) pattern.
 
-![mvc](https://haacked.com/images/haacked_com/WindowsLiveWriter/MVCandMVPPatternResources_71CE/mvc_3.png "mvc")No
+![mvc](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MVCandMVPPatternResources_71CE/mvc_3.png "mvc")No
 better opportunity to apply the [DRY
 principle](http://en.wikipedia.org/wiki/Don't_repeat_yourself "Don't Repeat Yourself")
 by answering some of these questions with a blog post.
@@ -26,7 +26,7 @@ The first place to start digging into the MVC pattern is to look at the [Wikiped
 > keystrokes and
 > [mouse](http://en.wikipedia.org/wiki/Mouse_%28computing%29) movements.
 
-![trygve](https://haacked.com/images/haacked_com/WindowsLiveWriter/MVCandMVPPatternResources_71CE/trygve_3.jpg "trygve")
+![trygve](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MVCandMVPPatternResources_71CE/trygve_3.jpg "trygve")
 If you’re really into it, you can go [directly to the source](http://heim.ifi.uio.no/~trygver/themes/mvc/mvc-index.html "MVC Index")
 and read the original papers from [Trygve Reenskaug](http://heim.ifi.uio.no/~trygver/ "Trygve M. H. Reenkaug"),
 the inventor of the pattern.

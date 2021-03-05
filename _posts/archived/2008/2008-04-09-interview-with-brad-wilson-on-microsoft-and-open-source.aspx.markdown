@@ -12,7 +12,7 @@ Built](http://howsoftwareisbuilt.com/ "How Software is Built") blog with
 in Microsoft’s OfficeLabs team, but probably better known for his work
 on xUnit.net, CodePlex, and ObjectBuilder.
 
-![brad](https://haacked.com/images/haacked_com/WindowsLiveWriter/InterviewWithBradWilsonOnMicrosoftAndOpe_B4F0/brad_3.png)
+![brad](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/InterviewWithBradWilsonOnMicrosoftAndOpe_B4F0/brad_3.png)
 What I particularly liked about this post was the insight Brad provides
 on the diverse views of open source outside and inside of Microsoft as
 well as his own personal experience contributing to many OSS projects.

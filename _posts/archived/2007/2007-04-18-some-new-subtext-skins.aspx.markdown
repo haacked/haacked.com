@@ -15,10 +15,10 @@ skins and allow others to download the skins. The other part of the site
 displays the default skins in Subtext.
 
 [![Glossy
-Blue](https://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/glossyblue.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/glossyblue1.jpg "Glossy Blue")
-[![Terrafirma](https://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/terrafirma.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/terrafirma1.jpg "Terra Firma")
-[![Dirtylicious](https://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/dirtylicious.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/dirtylicious1.jpg "Dirtylicious")
-[![Informatif](https://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/informatif.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/informatif1.jpg "Informatif")
+Blue](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/glossyblue.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/glossyblue1.jpg "Glossy Blue")
+[![Terrafirma](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/terrafirma.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/terrafirma1.jpg "Terra Firma")
+[![Dirtylicious](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/dirtylicious.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/dirtylicious1.jpg "Dirtylicious")
+[![Informatif](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/informatif.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SomeNewSubtextSkins_1030/informatif1.jpg "Informatif")
 
 It appears that Tim has been porting some of the nicer designs in the
 [Open Designs](http://opendesigns.org/ "Open Source Website Designers")

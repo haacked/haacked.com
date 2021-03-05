@@ -97,7 +97,7 @@ One interesting thing about triangular numbers are their connection to
 Pascal’s triangle as evident in this image I found [at this
 site](http://ptri1.tripod.com/).
 
-![Pascal's Triangle](https://haacked.com/images/PascalTriangle.gif)
+![Pascal's Triangle](https://haacked.com/assets/images/PascalTriangle.gif)
 
 Trippy eh? You gotta love the various diversions mathematicians come up
 with to keep themselves busy.

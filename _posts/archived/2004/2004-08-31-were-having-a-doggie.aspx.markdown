@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2004/08/30/were-having-a-doggie.aspx/"
 ---
 
-![Italian Greyhound](/images/italianGreyhound.jpg)So after much
+![Italian Greyhound](/assets/images/italianGreyhound.jpg)So after much
 deliberation and research, we've decided that we're going to provide a
 home for a dog. In particular, we hope to adopt an [Italian
 Greyhound](http://www.dogbreedinfo.com/italiangreyhound.htm) from a

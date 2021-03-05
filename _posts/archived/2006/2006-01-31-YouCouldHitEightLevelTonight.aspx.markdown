@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/01/30/YouCouldHitEightLevelTonight.aspx/"
 ---
 
 ![Basement Gamers Video
-Screenshot](https://haacked.com/images/BasementGamers.jpg) Make some time
+Screenshot](https://haacked.com/assets/images/BasementGamers.jpg) Make some time
 for this one. This is an eleven minute mockumentary of two hardcore
 fantasy role playing gamers. If you’ve ever rolled the icosahedron^1^
 dice (or live with someone who has), you’ll find this extremely funny,

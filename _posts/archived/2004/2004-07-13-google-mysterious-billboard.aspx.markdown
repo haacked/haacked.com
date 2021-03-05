@@ -4,7 +4,7 @@ tags: [code]
 redirect_from: "/archive/2004/07/12/google-mysterious-billboard.aspx/"
 ---
 
-![](/images/googlebillboard.jpg)Google apparently is behind this
+![](/assets/images/googlebillboard.jpg)Google apparently is behind this
 mysterious billboard that presents a nice number theory problem. *I love
 number theory!*
 

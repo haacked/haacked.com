@@ -11,7 +11,7 @@ believe so. Therefore in order to reduce confusion, here is the next
 photo in my Picture of the Moment series.
 
 [![Geisha
-Trio](https://haacked.com/images/GeishaTrio.jpg)](http://flickr.com/photos/haacked/17432593/ "This pic on Flickr")
+Trio](https://haacked.com/assets/images/GeishaTrio.jpg)](http://flickr.com/photos/haacked/17432593/ "This pic on Flickr")
 
 This is the most favorited and interesting picture according to Flickr
 in my Flickr account. So naturally that tells you that it wasn’t me who

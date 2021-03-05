@@ -4,7 +4,7 @@ tags: [soccer,personal]
 redirect_from: "/archive/2005/06/27/real-madrid-vs-galaxy-july-18.aspx/"
 ---
 
-![Real Madrid](https://haacked.com/images/RealMadrid.jpg) Wohoo! The
+![Real Madrid](https://haacked.com/assets/images/RealMadrid.jpg) Wohoo! The
 little lady and myself will be in attendance as we watch [Zinedine
 Zidane](http://www.realmadrid.com/articulo/rma274.htm),
 [Beckham](http://www.realmadrid.com/articulo/rma433.htm),

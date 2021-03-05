@@ -5,7 +5,7 @@ redirect_from: "/archive/2007/01/13/6_Software_Tips_For_Hardware_Makers.aspx/"
 ---
 
 ![Photo of a
-Drill](https://haacked.com/images/haacked_com/WindowsLiveWriter/SoftwareTipsForHardwareMakers_EB2E/335381_propeller_drill_thumb1.jpg)We
+Drill](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SoftwareTipsForHardwareMakers_EB2E/335381_propeller_drill_thumb1.jpg)We
 often hear that the current state of software development is still
 dysfunctional. Scott Rosenberg recently wrote a book to that effect
 called [*Dreaming In

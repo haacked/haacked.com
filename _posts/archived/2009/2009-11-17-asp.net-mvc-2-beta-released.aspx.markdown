@@ -19,7 +19,7 @@ Beta](http://go.microsoft.com/fwlink/?LinkID=157068 "ASP.NET MVC 2 Beta").
 Feel free to download it right away! While you do that I want to present
 this public service message.
 
-[![fptopsecret](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2Beta_99BE/fptopsecret_3.jpg "fptopsecret")](http://oddlyspecific.com/2009/11/i-guess-the-secret-is-out-now/ "OddlySpecific.com: Please Drive Safely")
+[![fptopsecret](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2Beta_99BE/fptopsecret_3.jpg "fptopsecret")](http://oddlyspecific.com/2009/11/i-guess-the-secret-is-out-now/ "OddlySpecific.com: Please Drive Safely")
 
 The Beta release includes tooling for Visual Studio 2008 SP1. We did not
 ship updated tooling for Visual Studio 2010 because ASP.NET MVC 2 is now

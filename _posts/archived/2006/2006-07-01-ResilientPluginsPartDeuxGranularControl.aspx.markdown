@@ -4,7 +4,7 @@ tags: [code,extensibility]
 redirect_from: "/archive/2006/06/30/ResilientPluginsPartDeuxGranularControl.aspx/"
 ---
 
-![Plug](https://haacked.com/images/plug2.jpg) I got a lot of great
+![Plug](https://haacked.com/assets/images/plug2.jpg) I got a lot of great
 feedback from my post on [Building Plugins Resilient to
 Versioning](https://haacked.com/archive/2006/06/26/BuildingPluginsResilientToVersioning.aspx "Building Resilient Plugins"),
 which proposes an event-based self-subscription model to plugins.

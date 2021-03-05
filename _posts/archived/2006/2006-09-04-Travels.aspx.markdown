@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2006/09/03/Travels.aspx/"
 ---
 
-[![Scenery](https://haacked.com/images/haacked_com/WindowsLiveWriter/Travels_14EF5/dsc01431_edited_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/Travels_14EF5/dsc01431_edited6.jpg)This
+[![Scenery](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Travels_14EF5/dsc01431_edited_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Travels_14EF5/dsc01431_edited6.jpg)This
 past weekend my wife and I drove up to San Francisco to attend a
 friend’s wedding, which ended up being a lot of fun.  We always like
 visiting *The City* because of the many friends we have in the area,
@@ -27,7 +27,7 @@ fact that Jeff has some rhythm as well as the graphics and sound of the
 game.
 
 [![San
-francisco](https://haacked.com/images/haacked_com/WindowsLiveWriter/Travels_14EF5/dsc01414_edited_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/Travels_14EF5/dsc01414_edited6.jpg)In
+francisco](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Travels_14EF5/dsc01414_edited_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Travels_14EF5/dsc01414_edited6.jpg)In
 some ways, the *boom boom* room reminded me of Ricky Shroder’s room from
 [Silver Spoons](http://en.wikipedia.org/wiki/Silver_Spoons).
 

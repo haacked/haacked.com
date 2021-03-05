@@ -53,8 +53,8 @@ somewhere where you’ll be able to find it. I typically have a “lib”
 folder or a “Dependencies” folder for this purpose. Right clicke on the
 *References* node of the project to add a reference to the assembly.
 
-![add-reference](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingAntiXssAsTheDefaultEncoderForAS.NET_75E3/add-reference_3.png "add-reference")
-![Add-Reference-dialog](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingAntiXssAsTheDefaultEncoderForAS.NET_75E3/Add-Reference-dialog_3.png "Add-Reference-dialog")The
+![add-reference](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UsingAntiXssAsTheDefaultEncoderForAS.NET_75E3/add-reference_3.png "add-reference")
+![Add-Reference-dialog](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UsingAntiXssAsTheDefaultEncoderForAS.NET_75E3/Add-Reference-dialog_3.png "Add-Reference-dialog")The
 next step is to write a class that derives from `HttpEncoder`. Note that
 in the following listing, some methods were excluded which are included
 in the project.
@@ -109,7 +109,7 @@ name.
 To prove that this is working, run the project in the debugger and set a
 breakpoint in the encoding method.
 
-![debugger-breakpoint](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingAntiXssAsTheDefaultEncoderForAS.NET_75E3/debugger-breakpoint_3.png "debugger-breakpoint")
+![debugger-breakpoint](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UsingAntiXssAsTheDefaultEncoderForAS.NET_75E3/debugger-breakpoint_3.png "debugger-breakpoint")
 
 With that, you are all set to take full control over how strings are
 encoded in your application.

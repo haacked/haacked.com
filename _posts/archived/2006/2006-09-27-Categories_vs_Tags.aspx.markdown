@@ -4,9 +4,9 @@ tags: [blogging]
 redirect_from: "/archive/2006/09/26/Categories_vs_Tags.aspx/"
 ---
 
-[![Tag](https://haacked.com/images/haacked_com/WindowsLiveWriter/CategoriesvsTags_833F/561962_price_tag_thumb%5B1%5D.jpg)
+[![Tag](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CategoriesvsTags_833F/561962_price_tag_thumb%5B1%5D.jpg)
 Duncan
-Mackenzie](https://haacked.com/images/haacked_com/WindowsLiveWriter/CategoriesvsTags_833F/561962_price_tag%5B3%5D.jpg)
+Mackenzie](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CategoriesvsTags_833F/561962_price_tag%5B3%5D.jpg)
 writes about the issue of [Categories vs
 Tags](http://www.duncanmackenzie.net/blog/categories-vs-tags-in-blogs-and-blog-editors/)
 in blogs and blog editors.  I tried to comment there with my thoughts,

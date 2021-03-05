@@ -18,7 +18,7 @@ an IP address. I likened it to a [Graphical Digital
 Fingerprint](https://haacked.com/archive/2007/01/22/Identicons_as_Visual_Fingerprints.aspx "Identicons as Graphical Digital Fingerprints").
 
 ![Identicon
-samples](https://haacked.com/images/haacked_com/WindowsLiveWriter/IdenticonsasVisualFingerprints_CB0/identiconsamples_thumb1.png)
+samples](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IdenticonsasVisualFingerprints_CB0/identiconsamples_thumb1.png)
 
 The original concept and Java implementation was [created by Don
 Park](http://www.docuverse.com/blog/donpark/2007/01/19/identicon-explained "Don Park explains Identicons").

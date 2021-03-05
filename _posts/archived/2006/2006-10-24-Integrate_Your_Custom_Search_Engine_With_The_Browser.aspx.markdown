@@ -20,14 +20,14 @@ the top left corner of your browser is highlighted (screenshot from
 Firefox 2).
 
 ![Open search
-box.](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntegrateYourCustomSearchEngineWithTheBr_CE08/OpenSearchBox4.png)
+box.](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IntegrateYourCustomSearchEngineWithTheBr_CE08/OpenSearchBox4.png)
 
 Click on the down arrow and you will see my own search engine *[Haack
 Attack](https://haacked.com/archive/2006/10/23/My_Very_Own_Search_Engine.aspx "My Very Own Search Engine")*
 in the list of search providers.
 
 ![Haack
-Attack](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntegrateYourCustomSearchEngineWithTheBr_CE08/HaackSearchProviderInList4.png)
+Attack](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IntegrateYourCustomSearchEngineWithTheBr_CE08/HaackSearchProviderInList4.png)
 
 Now you can search using Haack Attack via your browser.  Implementing
 this required two easy steps.  First I created an `OpenSearch.xml` file

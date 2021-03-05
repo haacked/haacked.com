@@ -121,5 +121,5 @@ And with that, I leave you with this moment of zen, a photo taken near
 my house.
 
 [![giant
-snowman](https://haacked.com/images/haacked_com/WindowsLiveWriter/2c92454cf565_85B9/giant-snowman_thumb.jpg "giant snowman")](https://haacked.com/images/haacked_com/WindowsLiveWriter/2c92454cf565_85B9/giant-snowman_2.jpg)
+snowman](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/2c92454cf565_85B9/giant-snowman_thumb.jpg "giant snowman")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/2c92454cf565_85B9/giant-snowman_2.jpg)
 

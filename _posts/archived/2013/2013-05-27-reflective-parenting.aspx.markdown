@@ -34,7 +34,7 @@ Despite my [megalomaniacal](https://haacked.com/archive/2006/11/05/World_Dominat
 [tendencies](https://haacked.com/archive/2009/04/07/my-little-world-domination-backup.aspx), I like to think I turned out ok so far. My parents did a pretty good job. Does that mean I can’t strive to do even better? It’s worth a try. So in this post, I’ll explore what SCIENCE brings to bear on the subject. It may seem weird to invoke science in a subject as personal and emotional as parenting. But the scientific method is effective, even on a personal
 scale.
 
-![xkcd-standback](https://haacked.com/images/haacked_com/WindowsLiveWriter/ReflectiveParenting_80EF/xkcd-standback_thumb.png "xkcd-standback")
+![xkcd-standback](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ReflectiveParenting_80EF/xkcd-standback_thumb.png "xkcd-standback")
 
 Note that the focus here is on core principles and less on specifics. I’m not going to tell you to spank or not spank your child (*because we know that’ll end in a shit storm debate*).
 
@@ -103,7 +103,7 @@ on parenting.
 
 As you might expect, it’s hard to conduct a double blind laboratory study of raising kids. Are you going to separate twins at birth and knowingly give one to shitty parents and another to wonderful parents to examine the effects? Cool idea bro, but...
 
-[![octopus-nope](https://haacked.com/images/haacked_com/WindowsLiveWriter/ReflectiveParenting_80EF/octopus-nope_thumb.gif "octopus-nope")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ReflectiveParenting_80EF/octopus-nope_2.gif)
+[![octopus-nope](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ReflectiveParenting_80EF/octopus-nope_thumb.gif "octopus-nope")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ReflectiveParenting_80EF/octopus-nope_2.gif)
 
 But there are such things as natural experiments. There were studies done of large groups of twins separated at birth and raised by different adoptive parents.
 
@@ -143,4 +143,4 @@ Perhaps you factor those in and maybe improve your technique. Maybe not. The key
 
 Happy parenting!
 
-[![happiness](https://haacked.com/images/haacked_com/WindowsLiveWriter/ReflectiveParenting_80EF/happiness_thumb.jpg "happiness")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ReflectiveParenting_80EF/happiness_2.jpg)
+[![happiness](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ReflectiveParenting_80EF/happiness_thumb.jpg "happiness")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ReflectiveParenting_80EF/happiness_2.jpg)

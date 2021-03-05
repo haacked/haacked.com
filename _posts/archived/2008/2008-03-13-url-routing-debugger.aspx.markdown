@@ -17,7 +17,7 @@ Mix](http://sessions.visitmix.com/?selectedSearch=T22 "Developing ASP.NET MVC Ap
 he demonstrated a simple little route tester I quickly put together.
 
 [![Route Debugger
-Screenshot](https://haacked.com/images/haacked_com/WindowsLiveWriter/UrlRoutingDebugger_EEBA/route-debugger-screenshot.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/UrlRoutingDebugger_EEBA/route-debugger-screenshot.png)
+Screenshot](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UrlRoutingDebugger_EEBA/route-debugger-screenshot.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UrlRoutingDebugger_EEBA/route-debugger-screenshot.png)
 
 This utility displays the route data pulled from the request of the
 current request in the address bar. So you can type in various URLs in

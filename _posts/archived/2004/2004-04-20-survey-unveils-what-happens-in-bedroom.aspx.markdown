@@ -4,7 +4,7 @@ tags: [news]
 redirect_from: "/archive/2004/04/19/survey-unveils-what-happens-in-bedroom.aspx/"
 ---
 
-![](/images/ikea.gif)This is the type of research that keeps the head of
+![](/assets/images/ikea.gif)This is the type of research that keeps the head of
 Ikea rich rich rich...
 
 > AP - Austrians love their bedrooms, but seldom make love in them.

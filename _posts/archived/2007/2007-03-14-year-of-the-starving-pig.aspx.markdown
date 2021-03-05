@@ -25,7 +25,7 @@ Historical fact will not stop the masses from having their golden
 piglet.
 
 [![Many
-piglets](https://haacked.com/images/haacked_com/WindowsLiveWriter/YearoftheStarvingPig_8C1A/737075_piglets_1%5B5%5D.jpg)](http://www.sxc.hu/photo/737075)
+piglets](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/YearoftheStarvingPig_8C1A/737075_piglets_1%5B5%5D.jpg)](http://www.sxc.hu/photo/737075)
 However, my friend Walter had an interesting observation. **All of these
 extra children that will be born as part of this boom are competing for
 the same scarce resources.** As they grow up, they’ll all be competing

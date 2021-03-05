@@ -4,7 +4,7 @@ tags: [soccer,personal]
 redirect_from: "/archive/2006/02/08/PlayingSoccerAgainstFormerNationalTeamPlayers.aspx/"
 ---
 
-![Soccer Ball](https://haacked.com/images/SoccerBallBW.jpg) I’ve joined a
+![Soccer Ball](https://haacked.com/assets/images/SoccerBallBW.jpg) I’ve joined a
 group of soccer players attempting to form a team to get into a 30 and
 over league that hosts games on much nicer fields. These are the fields
 with that really nice high quality artificial turf, a huge difference

@@ -20,5 +20,5 @@ His former blog was in Italian, which made it diffult reading for me, as
 totally mangled translations.  When Simone is not writing about broken
 ribs from kite surfing or bagging the latest peak, he just might get
 around to writing about the CCNET setup he created for Subtext.
-![Wink](https://haacked.com/Images/emotions/smiley-wink.gif)
+![Wink](https://haacked.com/assets/images/emotions/smiley-wink.gif)
 

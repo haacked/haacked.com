@@ -6,7 +6,7 @@ redirect_from: "/archive/2008/06/26/oh-yes-itrsquos-ladies-night.aspx/"
 
 …and the feeling’s right.
 
-![phil-and-akumi](https://haacked.com/images/haacked_com/WindowsLiveWriter/OhYesItsLadiesNight_C6C2/phil-and-akumi_3.jpg "phil-and-akumi")
+![phil-and-akumi](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/OhYesItsLadiesNight_C6C2/phil-and-akumi_3.jpg "phil-and-akumi")
 If I can muster up the time and motivation, I like to try and post
 lighter more humorous fare on Fridays such as my [recent RAS Syndrome
 post](https://haacked.com/archive/2008/06/13/ras-syndrome.aspx "RAS Syndrome").

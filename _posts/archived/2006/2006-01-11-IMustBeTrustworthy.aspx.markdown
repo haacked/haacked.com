@@ -4,7 +4,7 @@ tags: [meta]
 redirect_from: "/archive/2006/01/10/IMustBeTrustworthy.aspx/"
 ---
 
-![Link](https://haacked.com/images/link.jpg) Jon Galloway has an
+![Link](https://haacked.com/assets/images/link.jpg) Jon Galloway has an
 [interesting
 write-up](http://weblogs.asp.net/jgalloway/archive/2006/01/11/435076.aspx)
 on the latest changes to Google’s search algorithms code named “Jagger”

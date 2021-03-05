@@ -4,7 +4,7 @@ tags: [tech]
 redirect_from: "/archive/2005/08/15/grrr.aspx/"
 ---
 
-![Hulk](https://haacked.com/images/hulk.jpg) I just hate it when software
+![Hulk](https://haacked.com/assets/images/hulk.jpg) I just hate it when software
 designed to save you countless hours of development work just don’t work
 out of the box. Especially when you pay good money for it. I’ve come to
 expect a few hiccups here and there with open source software. But

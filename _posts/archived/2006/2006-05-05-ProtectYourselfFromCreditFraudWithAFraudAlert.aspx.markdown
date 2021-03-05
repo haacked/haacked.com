@@ -4,7 +4,7 @@ tags: [personal,tips,security]
 redirect_from: "/archive/2006/05/04/ProtectYourselfFromCreditFraudWithAFraudAlert.aspx/"
 ---
 
-![Stop Fraud!](https://haacked.com/images/stop_sign.jpg) So after getting my [Yahoo password phished](https://haacked.com/archive/2006/05/04/VictimOfAYahooMessengerPhishingAttack.aspx "Stupid Mistake"), my wife reminded me that we should put a fraud alert on our credit file. I first heard about this from my friend Walter a while ago, but we never got around to it.
+![Stop Fraud!](https://haacked.com/assets/images/stop_sign.jpg) So after getting my [Yahoo password phished](https://haacked.com/archive/2006/05/04/VictimOfAYahooMessengerPhishingAttack.aspx "Stupid Mistake"), my wife reminded me that we should put a fraud alert on our credit file. I first heard about this from my friend Walter a while ago, but we never got around to it.
 
 This is a flag that the major credit bureaus (experian, equifax, and TransUnion) attach to your credit report. If someone (including yourself) tries to open up a new credit account, the lender is supposed to (though not required by law) to contact you by phone to make sure that you really do want to open a new account.
 

@@ -3,7 +3,7 @@ title: "Editable Routes"
 tags: [aspnetmvc,aspnet,code,routing]
 ---
 UPDATE: 2011/02/13: This code is now included in the
-[RouteMagic](http://haacked.com/archive/2011/01/30/introducing-routemagic.aspx "Introducing RouteMagic")
+[RouteMagic](https://haacked.com/archive/2011/01/30/introducing-routemagic.aspx "Introducing RouteMagic")
 NuGet package! To use this code, simply run `Install-Package RouteMagic`
 within the NuGet Package Manager Console.
 
@@ -11,7 +11,7 @@ In general, once you deploy your ASP.NET MVC application, you can’t
 change the routes for your application without recompiling the
 application and redeploying the assembly where your routes are defined.
 
-[![routes](http://haacked.com/images/haacked_com/WindowsLiveWriter/EditableRoutes_12F42/routes_3.jpg "routes")](http://www.sxc.hu/photo/732646 "Vias 2 by L Avi at sxc.hu")This
+[![routes](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/EditableRoutes_12F42/routes_3.jpg "routes")](http://www.sxc.hu/photo/732646 "Vias 2 by L Avi at sxc.hu")This
 is partly by design as routes are generally considered application
 *code*, and should have associated unit tests to verify that the routes
 are correct. A misconfigured route could seriously tank your
@@ -30,14 +30,14 @@ your routes in a content file *as code*(no XML here!) which you deploy
 with your application as in the screenshot.
 
 ![Routes File In
-Soultion](http://haacked.com/images/haacked_com/WindowsLiveWriter/EditableRoutes_12F42/solution-explorer_3.png "Routes File In Soultion")
+Soultion](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/EditableRoutes_12F42/solution-explorer_3.png "Routes File In Soultion")
 
 In my implementation, you need to place the routes in a *Config* folder
 in your web root. Note that I used Visual Studio’s Properties dialog to
 mark the file’s *Build Action* as “Content” so that it’s not compiled
 into my application.
 
-![Properties](http://haacked.com/images/haacked_com/WindowsLiveWriter/EditableRoutes_9EFD/Properties_3.png "Properties")
+![Properties](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/EditableRoutes_9EFD/Properties_3.png "Properties")
 
 What this means is that the code in the *Routes.cs* file is *not*
 compiled with the application. Instead, we will dynamically compile it.

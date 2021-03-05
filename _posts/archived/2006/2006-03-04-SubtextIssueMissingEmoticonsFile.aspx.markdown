@@ -23,7 +23,7 @@ this.
 
 In the meanwhile, I just updated the distribution in SourceForge. For
 those of you who already downloaded Subtext, please download and [unzip
-this file](https://haacked.com/images/emoticons.zip "emoticons file")
+this file](https://haacked.com/assets/images/emoticons.zip "emoticons file")
 into the root directory of your Subtext site.
 
 For those of you about to download Subtext, [SourceForge has the

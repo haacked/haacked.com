@@ -10,4 +10,4 @@ not a designer, so she has no responsibility for this garbage.
 
 Check out what folks will be wearing at the next PDC.
 
-![fashion](/images/highfashion.jpg)
+![fashion](/assets/images/highfashion.jpg)

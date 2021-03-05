@@ -19,7 +19,7 @@ instructive visual aid for teaching people about git. Point it to a
 directory and start issuing git commands, and it automatically updates
 itself with a nice graph of the git repository.
 
-[![seegit](https://haacked.com/images/haacked_com/WindowsLiveWriter/Visualizing-Git-with-SeeGit_11C41/seegit_thumb.png "seegit")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Visualizing-Git-with-SeeGit_11C41/seegit_2.png)
+[![seegit](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Visualizing-Git-with-SeeGit_11C41/seegit_thumb.png "seegit")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Visualizing-Git-with-SeeGit_11C41/seegit_2.png)
 
 During my talk, I docked SeeGit to the right and my Console2 prompt to
 the left so they were side by side. As I issued git commands, the graph

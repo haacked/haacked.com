@@ -16,7 +16,7 @@ However, what happens when you want to do the inverse. Suppose you want
 to cache the donut hole, instead of the donut?
 
 [![House of Sims
-Photostream](https://haacked.com/images/haacked_com/WindowsLiveWriter/PartialCachinginASP.NETMVC_131B3/2534011147_283339d6c1_3.jpg "House of Sims Photostream")](http://www.flickr.com/photos/houseofsims/2534011147/ "Creative Commons By Attribution")
+Photostream](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PartialCachinginASP.NETMVC_131B3/2534011147_283339d6c1_3.jpg "House of Sims Photostream")](http://www.flickr.com/photos/houseofsims/2534011147/ "Creative Commons By Attribution")
 
 I think we should nickname all of our software concepts after tasty food
 items, don’t you agree?

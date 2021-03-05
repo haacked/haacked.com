@@ -44,7 +44,7 @@ command which shows the leaderboards for step counts in the past 7 days.
 I blocked out names for privacy reasons, though I bet the top four would
 love to be unredacted.
 
-[![fitbit-me](https://haacked.com/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/fitbit-me_thumb.png "fitbit-me")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/fitbit-me_2.png)
+[![fitbit-me](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/fitbit-me_thumb.png "fitbit-me")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/fitbit-me_2.png)
 
 What I love about this is it adds an element of friendly competition to
 the mix. There’s absolutely NOTHING riding on this other than pride.
@@ -58,7 +58,7 @@ I also happened to purchase the FitBit Aria Wi-Fi scale because I love
 me them stats. As you can see from the graph, the `/fitbit me`
 motivation is effective.
 
-[![2012-now-weight](https://haacked.com/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/2012-now-weight_thumb.png "2012-now-weight")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/2012-now-weight_2.png)
+[![2012-now-weight](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/2012-now-weight_thumb.png "2012-now-weight")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/2012-now-weight_2.png)
 
 Unfortunately, I injured my knee snowboarding a couple weeks ago and
 have been sick the past few days so it’s starting to trend slightly up.
@@ -72,7 +72,7 @@ FitBit can also track sleep, but this is not as automatic as step
 counting. You have to remember to wear it at night and put it in sleep
 mode. It’s a bit high maintenance.
 
-[![2012-sleep-over-time](https://haacked.com/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/2012-sleep-over-time_thumb.png "2012-sleep-over-time")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/2012-sleep-over-time_2.png)
+[![2012-sleep-over-time](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/2012-sleep-over-time_thumb.png "2012-sleep-over-time")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/2012-sleep-over-time_2.png)
 
 Also, it seems to count nights that you forget to set it as a day with 0
 hours of sleep, which is not really what I want. Based on this graph you
@@ -91,7 +91,7 @@ One thing I wish FitBit did better is provide better graphs for seeing
 my step counts over time. For example, here’s what I could find to see
 my step counts over the past 30 days.
 
-[![steps-over-last-30-days](https://haacked.com/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/steps-over-last-30-days_thumb.png "steps-over-last-30-days")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/steps-over-last-30-days_2.png)
+[![steps-over-last-30-days](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/steps-over-last-30-days_thumb.png "steps-over-last-30-days")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/steps-over-last-30-days_2.png)
 
 I’d love to see a graph of my steps over the year in fine detail.
 
@@ -102,10 +102,10 @@ and the summit is a very physical endeavor. Well, maybe.
 
 The following is a breakdown of one of a couple of those days.
 
-[![2013-01-17-steps](https://haacked.com/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/2013-01-17-steps_thumb.png "2013-01-17-steps")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/2013-01-17-steps_2.png)*January
+[![2013-01-17-steps](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/2013-01-17-steps_thumb.png "2013-01-17-steps")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/2013-01-17-steps_2.png)*January
 17, 2013: 23,285 (approx 10.69 miles)*
 
-[![2013-01-18-steps](https://haacked.com/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/2013-01-18-steps_thumb.png "2013-01-18-steps")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/2013-01-18-steps_2.png)*January
+[![2013-01-18-steps](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/2013-01-18-steps_thumb.png "2013-01-18-steps")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Fitbit-Me_85C0/2013-01-18-steps_2.png)*January
 18, 2013: 24,512 steps (approx: 11.35 miles)*
 
 Notice the hours of the big spikes. Yeah, we like to dance late at

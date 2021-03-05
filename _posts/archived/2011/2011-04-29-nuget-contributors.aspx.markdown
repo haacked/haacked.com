@@ -14,7 +14,7 @@ co-worker, Matt Osborn who was contributing to NuGet on his own time
 from the early days.
 
 [![Matthew M. Osborn (osbornm) on Twitter - Google
-Chrome](https://haacked.com/images/haacked_com/WindowsLiveWriter/1ba1fa2803b2_865C/Matthew%20M.%20Osborn%20(osbornm)%20on%20Twitter%20-%20Google%20Chrome_376b3d07-f7e2-4ad7-8af3-3380d8a789c1.png "Matthew M. Osborn (osbornm) on Twitter - Google Chrome")](http://twitter.com/#!/osbornm/status/63833862270238720 "Mat's Tweet")
+Chrome](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/1ba1fa2803b2_865C/Matthew%20M.%20Osborn%20(osbornm)%20on%20Twitter%20-%20Google%20Chrome_376b3d07-f7e2-4ad7-8af3-3380d8a789c1.png "Matthew M. Osborn (osbornm) on Twitter - Google Chrome")](http://twitter.com/#!/osbornm/status/63833862270238720 "Mat's Tweet")
 
 A big part of the satisfaction comes from being able to collaborate with
 members of the community, aka you, in a deeper manner than before, which
@@ -28,7 +28,7 @@ NuGet as part of their day job. But three of the top ten are external
 contributors from the community.
 
 ![NuGet Contributors - Ohloh - Google
-Chrome](https://haacked.com/images/haacked_com/WindowsLiveWriter/1ba1fa2803b2_865C/NuGet%20Contributors%20-%20Ohloh%20-%20Google%20Chrome_71b4aa76-8d5f-4ca6-92ad-816459c40711.png "NuGet Contributors - Ohloh - Google Chrome")
+Chrome](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/1ba1fa2803b2_865C/NuGet%20Contributors%20-%20Ohloh%20-%20Google%20Chrome_71b4aa76-8d5f-4ca6-92ad-816459c40711.png "NuGet Contributors - Ohloh - Google Chrome")
 
 It looks like 21 of the 36 contributors are external. Take these numbers
 with a slight grain of salt because we use a distributed version control
@@ -79,7 +79,7 @@ the Visual Studio Extension Gallery
 website](http://visualstudiogallery.msdn.microsoft.com/27077b70-9dad-4c64-adcf-c7cf6bc9970c?SRC=Home "Visual Studio Gallery").
 
 ![Visual Studio Gallery - Google
-Chrome](https://haacked.com/images/haacked_com/WindowsLiveWriter/1ba1fa2803b2_865C/Visual%20Studio%20Gallery%20-%20Google%20Chrome_9c649024-c150-4b3c-bd69-ed9c253e62aa.png "Visual Studio Gallery - Google Chrome")
+Chrome](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/1ba1fa2803b2_865C/Visual%20Studio%20Gallery%20-%20Google%20Chrome_9c649024-c150-4b3c-bd69-ed9c253e62aa.png "Visual Studio Gallery - Google Chrome")
 
 If you enjoy using NuGet and have a moment, consider going to the site
 and [rate

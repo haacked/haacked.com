@@ -14,7 +14,7 @@ Extension](http://weblogs.asp.net/rmclaws/archive/2005/10/25/428422.aspx "Web Se
 This shell extension adds a right click menu on any folder that will
 start `WebDev.WebServer.exe` (aka Cassini) pointing to that directory.
 
-![Webserver-Here](https://haacked.com/images/haacked_com/WindowsLiveWriter/VS2008WebServerHereShellExtension_87F4/Webserver-Here_3.png "Webserver-Here")
+![Webserver-Here](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/VS2008WebServerHereShellExtension_87F4/Webserver-Here_3.png "Webserver-Here")
 
 I recently had to repave my work machine and I couldn’t find the .reg
 file I created that would recreate this shell extension. When I brought

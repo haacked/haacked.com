@@ -4,7 +4,7 @@ tags: [personal,tech]
 redirect_from: "/archive/2005/06/05/my-first-computer.aspx/"
 ---
 
-![TRS 80 Color Computer](/images/Trs80ColorComputer.jpg) Via [Rory’s
+![TRS 80 Color Computer](/assets/images/Trs80ColorComputer.jpg) Via [Rory’s
 post here](http://neopoleon.com/blog/posts/14587.aspx), I’ve discovered
 the [Obsolete Technology Website](http://oldcomputers.net/index.html).
 
@@ -19,7 +19,7 @@ me, that I am a total geek and I’m getting old. I love the
 
 Ahhh yeah!
 
-![Commodore 128](/images/Commodore128.jpg)Later, when several of my
+![Commodore 128](/assets/images/Commodore128.jpg)Later, when several of my
 friends were riding the Commodore 64 wave, I jumped one step ahead with
 my second computer, the [Commodore
 128](http://oldcomputers.net/c128d.html) (one-piece model). In sense,
@@ -29,7 +29,7 @@ jumped at the chance to write software that took advantage of the C128
 Mode or the CP/M mode. I pretty much spent most of the time using it in
 C64 mode.
 
-![Amiga 500](/images/Commodore128.jpg) My third, and last computer
+![Amiga 500](/assets/images/Commodore128.jpg) My third, and last computer
 before switching over to the Wintel universe, was every geek boy’s wet
 dream at the time, the Amiga 500. Unfortunately the site doesn’t have a
 write-up of the Amiga 500 specifically, but you can read up on the
@@ -40,5 +40,5 @@ Ahhh memories...
 
 *UPDATE 2013-06-24: Turns out I still have that TRS-80!*
 
-[![phil-with-trs-80](https://haacked.com/images/haacked_com/WindowsLiveWriter/HowIGotStartedInSoftwareDevelopment_761A/phil-with-trs-80_thumb.jpg "phil-with-trs-80")](https://haacked.com/images/haacked_com/WindowsLiveWriter/HowIGotStartedInSoftwareDevelopment_761A/phil-with-trs-80_2.jpg)
+[![phil-with-trs-80](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HowIGotStartedInSoftwareDevelopment_761A/phil-with-trs-80_thumb.jpg "phil-with-trs-80")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HowIGotStartedInSoftwareDevelopment_761A/phil-with-trs-80_2.jpg)
 

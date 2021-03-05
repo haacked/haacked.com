@@ -9,7 +9,7 @@ wake up every morning in a cold sweat wondering. When you add a new
 project in Visual Studio.NET 2003 (friends call her VS.NET), you get the
 following dialog
 
-![Add New Dialog](/images/AddProjectDialog.gif)
+![Add New Dialog](/assets/images/AddProjectDialog.gif)
  The beginnings of another bug ridden coding section...
 
 Now looking at that familiar dialog underneath the "Project Types:"
@@ -45,13 +45,13 @@ Query Analyzer and the newid() function to generate a new GUID for me.
 Under that key I added a sub key named "/1". Under that key I set the
 following three values as seen in this screen shot.
 
-![Registry Settings](/images/VSTemplateDirRegistrySettings.gif) \
+![Registry Settings](/assets/images/VSTemplateDirRegistrySettings.gif) \
  Must this egotistical idiot use his last name in everything?
 
 And here you can see the registry keys structure. The one I added is at
 bottom.
 
-![Registry Keys](/images/VSTemplateDirRegistryKeys.gif) \
+![Registry Keys](/assets/images/VSTemplateDirRegistryKeys.gif) \
  Ahh, "Haack" is nowhere to be seen. Forturnately it's not a proper
 GUID.
 

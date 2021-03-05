@@ -4,7 +4,7 @@ tags: [burningman]
 redirect_from: "/archive/2004/04/23/chris-sells-is-going-to-burning-man.aspx/"
 ---
 
-![BurningMan](/images/TerrorDome.jpg)Unfortunately, my plans for going
+![BurningMan](/assets/images/TerrorDome.jpg)Unfortunately, my plans for going
 to Burning Man this year are not to be. However, it looks like Mr. Sells
 and his wife are going.
 

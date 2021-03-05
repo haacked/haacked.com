@@ -6,7 +6,7 @@ redirect_from: "/archive/2004/02/11/the-doh-files-when-porn-goes-awry.aspx/"
 
 Interesting news item I found
 
-![Man with a look of shock](/images/shock.jpg)
+![Man with a look of shock](/assets/images/shock.jpg)
 
 > Reuters - An angry husband who came across a video of his wife having
 > sex with her lover on the Internet called the police who arrested a

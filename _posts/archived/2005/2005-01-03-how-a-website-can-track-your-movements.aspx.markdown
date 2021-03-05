@@ -4,7 +4,7 @@ tags: [privacy]
 redirect_from: "/archive/2005/01/02/how-a-website-can-track-your-movements.aspx/"
 ---
 
-![map of Japan](/images/MapJapan.jpg) No, I haven't become a paranoid
+![map of Japan](/assets/images/MapJapan.jpg) No, I haven't become a paranoid
 privacy freak ready to purchase a cabin in Montana. This is just
 something that struck me as I opened my browser today. My default home
 page is [http://my.yahoo.com/](http://my.yahoo.com/). Thus when I open

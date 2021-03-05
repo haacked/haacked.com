@@ -4,7 +4,7 @@ tags: [soccer,humor]
 redirect_from: "/archive/2006/06/17/WorldCupWidows.aspx/"
 ---
 
-![World Cup Widow](https://haacked.com/images/WorldCupWidows.jpg) Leading
+![World Cup Widow](https://haacked.com/assets/images/WorldCupWidows.jpg) Leading
 up to the world cup there was a lot of attention to how the World Cup
 would affect the wives of ~~soccer~~ football crazy men. Some were on
 the humorous side such as this [list of rules for

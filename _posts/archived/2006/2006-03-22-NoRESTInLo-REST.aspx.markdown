@@ -9,7 +9,7 @@ some of the other discussion on this topic. As Dare writes, Don isn’t
 the first person to make the [Lo-REST
 distinction](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=473cc14f-4668-43cf-b5b9-0178f9271296 "How Tool Vendors Can Better Support Rest").
 
-![Sleeping Tiger](https://haacked.com/images/sleeping_tiger.jpg)Well it
+![Sleeping Tiger](https://haacked.com/assets/images/sleeping_tiger.jpg)Well it
 looks like Dimitri [beat me to the
 punch](http://glazkov.com/archive/2006/03/22/2444.aspx "Dimitri Glazkov's Blog").
 It also struck me as odd to hear [Don

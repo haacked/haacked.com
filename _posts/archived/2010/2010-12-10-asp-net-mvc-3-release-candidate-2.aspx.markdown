@@ -15,7 +15,7 @@ just this week and as we were testing it we found a few
 incompatibilities with it and the ASP.NET MVC 3 RC that we had just
 released.
 
-![newdotnetlogo\_2](https://haacked.com/images/haacked_com/WindowsLiveWriter/e8a61f0bb792_82AE/newdotnetlogo_2_c9dd42e8-7ef8-4ec3-ba52-ec5615b32fe6.png "newdotnetlogo_2")That’s
+![newdotnetlogo\_2](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/e8a61f0bb792_82AE/newdotnetlogo_2_c9dd42e8-7ef8-4ec3-ba52-ec5615b32fe6.png "newdotnetlogo_2")That’s
 when we, in the parlance of the military, scrambled the jets to get
 another release candidate prepared.
 
@@ -56,7 +56,7 @@ Instead, you need to go to the Visual Studio Extension Manager dialog
 tab. You should see NuGet listed there (click on image for larger
 image):
 
-[![extension-manager](https://haacked.com/images/haacked_com/WindowsLiveWriter/e8a61f0bb792_82AE/extension-manager_thumb.png "extension-manager")](https://haacked.com/images/haacked_com/WindowsLiveWriter/e8a61f0bb792_82AE/extension-manager_2.png)
+[![extension-manager](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/e8a61f0bb792_82AE/extension-manager_thumb.png "extension-manager")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/e8a61f0bb792_82AE/extension-manager_2.png)
 
 The NuGet.exe command line tool for creating packages is [available on
 CodePlex](http://nuget.codeplex.com/releases/view/52018 "NuGet 1.0 Release Candidate Download").

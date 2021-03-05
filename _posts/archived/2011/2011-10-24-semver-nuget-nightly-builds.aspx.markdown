@@ -13,7 +13,7 @@ continuous integration systems (CI) to take advantage of
 **and I need your input!**
 
 [![Hmm, off by one error slays me again. -Image from Ask A Ninja. Click on
-the image to visit.](https://haacked.com/images/haacked_com/WindowsLiveWriter/SemVer-and-Nightly-Builds_936F/AskANinja11_f5c89cab-0701-49d8-b269-8b22b93143ac.jpg "AskANinja11")](http://blip.tv/askaninja "Ask a Ninja")
+the image to visit.](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SemVer-and-Nightly-Builds_936F/AskANinja11_f5c89cab-0701-49d8-b269-8b22b93143ac.jpg "AskANinja11")](http://blip.tv/askaninja "Ask a Ninja")
 
 Ok, they’re not really covert ninjas, that just sounds much cooler than
 a team of slightly pudgy software developers. Ok, they’ve told me to

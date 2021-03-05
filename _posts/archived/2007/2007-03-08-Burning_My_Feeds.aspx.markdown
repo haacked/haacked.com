@@ -9,7 +9,7 @@ email](http://www.feedburner.com/fb/a/emailverifySubmit?feedId=527603 "subscribe
 This is a service offering from Feedburner. Sweet!
 
 ![Flame from
-Feedburner.com](https://haacked.com/images/haacked_com/WindowsLiveWriter/BurningMyFeeds_C99B/flamocon_190h%5B9%5D.gif)I’ve
+Feedburner.com](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BurningMyFeeds_C99B/flamocon_190h%5B9%5D.gif)I’ve
 decided to make the jump and switch to Feedburner after the [glowing
 recommendation](http://www.codinghorror.com/blog/archives/000807.html "Reducing Website Bandwidth")
 from [Jeff Atwood](http://www.codinghorror.com/blog/ "Jeff Atwood").

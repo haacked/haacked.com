@@ -24,7 +24,7 @@ traffic to my blog. The following graph shows you the number of visits
 per day.
 
 ![Google Analytics
-Bump](https://haacked.com/images/haacked_com/WindowsLiveWriter/MusingsonFathersDayHumor_D88B/analytics-bump_1.png)
+Bump](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MusingsonFathersDayHumor_D88B/analytics-bump_1.png)
 
 As you can see, I enjoyed a brief spike in traffic, but things returned
 pretty much to normal soon afterwards.
@@ -35,14 +35,14 @@ on Digg. In other words, what would you guess happened to the average
 time on my site?
 
 [![google analytics average time on
-site](https://haacked.com/images/haacked_com/WindowsLiveWriter/MusingsonFathersDayHumor_D88B/google-analytics-average-time-on-site_thumb.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MusingsonFathersDayHumor_D88B/google-analytics-average-time-on-site.png)
+site](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MusingsonFathersDayHumor_D88B/google-analytics-average-time-on-site_thumb.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MusingsonFathersDayHumor_D88B/google-analytics-average-time-on-site.png)
 
 You got it. There was a corresponding dip. Well that makes sense, there
 isn’t much to read so most users looked at it and moved on. Was there a
 corresponding drop in the number of pages per visit?
 
 [![pages] per
-visit](https://haacked.com/images/haacked_com/WindowsLiveWriter/MusingsonFathersDayHumor_D88B/pages-per-visit_thumb.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MusingsonFathersDayHumor_D88B/pages-per-visit.png)
+visit](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MusingsonFathersDayHumor_D88B/pages-per-visit_thumb.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MusingsonFathersDayHumor_D88B/pages-per-visit.png)
 
 A slight dip, but not by much. Most visitors to my site view only one to
 two pages at most per visit.

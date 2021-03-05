@@ -147,7 +147,7 @@ Package signing is only a good solution if you can guarantee near ubiquity. Othe
 Once you allow package signing, you then have the user interface problem. Visual Studio Extensions is an interesting example of this
 conundrum. You only see that a package is digitally signed after you’ve downloaded and decided to install it. At that point, you tend to be committed already.
 
-[![vs-extension-gallery](https://haacked.com/images/haacked_com/WindowsLiveWriter/Trust-and-NuGet_84DF/vs-extension-gallery_thumb.png "vs-extension-gallery")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Trust-and-NuGet_84DF/vs-extension-gallery_2.png)
+[![vs-extension-gallery](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Trust-and-NuGet_84DF/vs-extension-gallery_thumb.png "vs-extension-gallery")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Trust-and-NuGet_84DF/vs-extension-gallery_2.png)
 
 Also notice that the message that this package isn’t signed is barely noticeable.
 

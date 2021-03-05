@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2004/05/02/weekend-update-drove-to-san-jose.aspx/"
 ---
 
-![Rock The Vote](/images/RockTheVote.jpg)This weekend I drove up to San
+![Rock The Vote](/assets/images/RockTheVote.jpg)This weekend I drove up to San
 Jose to hang out with [Mr.
 Oba](http://koba.europe.webmatrixhosting.net "Kyle Oba") and his woman
 Cara. You can't toss a rock there without breaking a window of some
@@ -21,7 +21,7 @@ Talk about some uncreative names that violate the principle of
 timelessness. Sun at least does a decent job with naming. "Sun", it'll
 be a few billion years before that name is out-dated.
 
-![San Francisco At Night](/images/SanFran.jpg) Our target in SF was 1015
+![San Francisco At Night](/assets/images/SanFran.jpg) Our target in SF was 1015
 Fulsom to see Paul Van Dyk spin. Promoters are a funny lot. They bill
 the event as a "Rock The Vote" benefit where a whole 1 DOLLAR! of the
 ticket price is donated. So how much do they charge for pre-sale

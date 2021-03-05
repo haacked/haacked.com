@@ -5,7 +5,7 @@ redirect_from: "/archive/2007/01/30/Night_At_The_Roxbury_With_Mr._Subsonic.aspx/
 ---
 
 [![Rob
-Conery](https://haacked.com/images/haacked_com/WindowsLiveWriter/MeetingRobConeryakaMr.Subsonic_10C/meandruby_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MeetingRobConeryakaMr.Subsonic_10C/meandruby%5B2%5D.jpg)On
+Conery](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MeetingRobConeryakaMr.Subsonic_10C/meandruby_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MeetingRobConeryakaMr.Subsonic_10C/meandruby%5B2%5D.jpg)On
 Tuesday night I met [Rob
 Conery](http://www.wekeroad.com/blogs/ "Rob Conery Ramblings"), aka Mr.
 [Subsonic](http://www.codeplex.com/Wiki/View.aspx?ProjectName=actionpack "Subsonic - The Zero Code DAL"),

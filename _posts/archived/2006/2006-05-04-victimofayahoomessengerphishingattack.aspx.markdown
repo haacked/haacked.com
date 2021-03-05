@@ -4,7 +4,7 @@ tags: [security]
 redirect_from: "/archive/2006/05/03/victimofayahoomessengerphishingattack.aspx/"
 ---
 
-![Fish](https://haacked.com/images/fish.jpg) UPDATE:*I am back in
+![Fish](https://haacked.com/assets/images/fish.jpg) UPDATE:*I am back in
 business. I have re-obtained control over my Yahoo account. So the IM
 messages you receive from me are really from me. I won’t make this
 mistake twice.*

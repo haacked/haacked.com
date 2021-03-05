@@ -17,12 +17,12 @@ result had we hiked just after the rains.
 The hike itself is around 5 miles (round trip) and at the end you're
 greeted with a nice overlook.
 
-![Paseo Miramar Hike](/images/PaseoMiramarHike.jpg)
+![Paseo Miramar Hike](/assets/images/PaseoMiramarHike.jpg)
 
 On the way back, we met one of the native inhabitants of the Santa
 Monica Mountains.
 
-![Snake](/images/Snake.jpg)
+![Snake](/assets/images/Snake.jpg)
 
 
 

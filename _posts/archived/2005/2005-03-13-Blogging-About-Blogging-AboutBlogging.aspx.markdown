@@ -6,7 +6,7 @@ redirect_from:
 tags: [humor,blogging,meta]
 ---
 
-![](/images/TheBigHit.jpg "The Big Hit") In the 1998 movie, [The Big
+![](/assets/images/TheBigHit.jpg "The Big Hit") In the 1998 movie, [The Big
 Hit](http://www.imdb.com/title/tt0120609/), the protagonists kidnap the
 daughter of an extremely wealthy Japanese businessman. When they call to
 deliver the ransom notice, they turn to Gump who employs a brand name

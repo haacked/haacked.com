@@ -15,7 +15,7 @@ anyways. I may look into creating a server-side flickr control later.
 Here’s a screenshot, in case you’re reading this in an aggregator.
 
 ![Thumbnail of my
-website](https://haacked.com/images/haacked_com/WindowsLiveWriter/TryingOutANewSiteDesign_237A/new-design%5B4%5D.png)
+website](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TryingOutANewSiteDesign_237A/new-design%5B4%5D.png)
 
 Let me know what you think of the design. My next step will be to focus
 more on usability. If there’s anything that annoys you about my site

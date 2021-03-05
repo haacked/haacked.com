@@ -52,17 +52,17 @@ Here’s how IE 8 renders it. Notice there’s no border. UPDATE: According
 to people on twitter, this is because I left out the doctype, so IE8
 rendered it in old quirks mode, not standards mode.
 
- ![ie8-select](https://haacked.com/images/haacked_com/WindowsLiveWriter/InterestingQuirkwithCSSstylesandtheSelec_D992/ie8-select_3.png "ie8-select")
+ ![ie8-select](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/InterestingQuirkwithCSSstylesandtheSelec_D992/ie8-select_3.png "ie8-select")
 
 Here’s Firefox 3. There’s a border, but there’s two drop-down arrows.
 
-![select-ff](https://haacked.com/images/haacked_com/WindowsLiveWriter/InterestingQuirkwithCSSstylesandtheSelec_D992/select-ff_3.png "select-ff")
+![select-ff](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/InterestingQuirkwithCSSstylesandtheSelec_D992/select-ff_3.png "select-ff")
 
 Here’s Google Chrome, which gets it right. Since Google Chrome uses the
 Safari Webkit rendering engine, I believe Safari gets it right as well.
 I didn’t test it personally, but Opera gets it right too.
 
-![select-chrome](https://haacked.com/images/haacked_com/WindowsLiveWriter/InterestingQuirkwithCSSstylesandtheSelec_D992/select-chrome_5.png "select-chrome")
+![select-chrome](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/InterestingQuirkwithCSSstylesandtheSelec_D992/select-chrome_5.png "select-chrome")
 
 Now if you add the following meta tag to the \<head /\> section of the
 HTML.
@@ -73,7 +73,7 @@ HTML.
 
 IE 8 now renders correctly.
 
-![select-ie8-meta](https://haacked.com/images/haacked_com/WindowsLiveWriter/InterestingQuirkwithCSSstylesandtheSelec_D992/select-ie8-meta_3.png "select-ie8-meta")
+![select-ie8-meta](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/InterestingQuirkwithCSSstylesandtheSelec_D992/select-ie8-meta_3.png "select-ie8-meta")
 
 You can see for yourself by pointing your browser to an example with
 [the meta

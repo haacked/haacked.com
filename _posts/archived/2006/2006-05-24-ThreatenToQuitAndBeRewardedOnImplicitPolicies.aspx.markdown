@@ -13,7 +13,7 @@ some cases, a raise that was refused earlier.
 This was recently well illustrated by Scott Adams in the Dilbert comic
 strip on May 14 (click image to see full-size)
 
-[![](https://haacked.com/images/dilbert2006051209374.gif)](http://dilbert.com/comics/dilbert/archive/dilbert-20060514.html "May 14 Dilbert")
+[![](https://haacked.com/assets/images/dilbert2006051209374.gif)](http://dilbert.com/comics/dilbert/archive/dilbert-20060514.html "May 14 Dilbert")
 
 This is probably all too common in many workplaces. I certainly have
 worked at places in which the only means to receiving a raise is to

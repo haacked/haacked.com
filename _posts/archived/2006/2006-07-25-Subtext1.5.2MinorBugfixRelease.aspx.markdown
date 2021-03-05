@@ -4,7 +4,7 @@ tags: [subtext]
 redirect_from: "/archive/2006/07/24/Subtext1.5.2MinorBugfixRelease.aspx/"
 ---
 
-![Subtext Logo](https://haacked.com/images/SubtextLogo.png) The Subtext
+![Subtext Logo](https://haacked.com/assets/images/SubtextLogo.png) The Subtext
 team is currently furiously working to prepare the Subtext 1.9
 *Daedelus* release for your blogging enjoyment. Subtext 1.9 will run on
 ASP.NET 2.0 in Medium trust and contain a few new goodies, though those

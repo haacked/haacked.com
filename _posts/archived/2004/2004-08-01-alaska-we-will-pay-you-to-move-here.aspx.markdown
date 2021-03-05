@@ -9,7 +9,7 @@ If you want to move to Alaska, please don’t contact me. Try looking for
 information at the official [Alaska
 homepage](http://www.state.ak.us/ "State of Alaska Homepage"). Thanks!
 
-![Alaska’s Flag](/images/alaskaflag.jpg) As a relocated Alaskan, I read
+![Alaska’s Flag](/assets/images/alaskaflag.jpg) As a relocated Alaskan, I read
 [Rory’s post](http://neopoleon.com/blog/posts/7379.aspx) about moving
 Canada to the right a bit so that Alaska could join the “lower 48” with
 amusement. I don’t think that idea would go over too well with Alaskans,
@@ -19,7 +19,7 @@ season, and you don’t mess with the fishing season in Alaska, the
 biggest state in the Union. That’s right Texas, the stars at night are
 even bigger and brighter in Alaska. Get over it, we rule you.
 
-![Alaska Map](/images/alaskaMap.jpg) However, Alaska is not paradise on
+![Alaska Map](/assets/images/alaskaMap.jpg) However, Alaska is not paradise on
 Earth (except in the summer when the sun stays out quite late drinking
 and carousing). Did you know they pay residents to live there? It’s a
 little thing called the "Permanent Fund Dividend". The Permanent Fund is

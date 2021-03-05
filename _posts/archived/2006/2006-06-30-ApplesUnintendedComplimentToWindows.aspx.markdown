@@ -13,7 +13,7 @@ speaks her language too. If you haven’t seen it, you can click on the
 image below to see it on YouTube by clicking on the image below.
 
 [![Apple
-Commercial](https://haacked.com/images/AppleCommercial.jpg)](http://www.youtube.com/watch?v=H0qbP-rIpRg&eurl=)
+Commercial](https://haacked.com/assets/images/AppleCommercial.jpg)](http://www.youtube.com/watch?v=H0qbP-rIpRg&eurl=)
 
 At the end of the commercial, she looks over at the PC guy and says
 something in Japanese to the Mac guy that elicits chuckling between the

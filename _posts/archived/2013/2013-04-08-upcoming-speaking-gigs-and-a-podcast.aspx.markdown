@@ -22,7 +22,7 @@ with the incomparable [Scott Hanselman](http://hanselman.com/). Usually
 that means him taking potshots at me for your enjoyment. ARE YOU NOT
 ENTERTAINED?!
 
-[![are\_you\_not\_entertained-135569](https://haacked.com/images/haacked_com/WindowsLiveWriter/UpcomingSpeakingGigs_899A/are_you_not_entertained-135569_thumb.jpg "are_you_not_entertained-135569")](https://haacked.com/images/haacked_com/WindowsLiveWriter/UpcomingSpeakingGigs_899A/are_you_not_entertained-135569_2.jpg)
+[![are\_you\_not\_entertained-135569](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UpcomingSpeakingGigs_899A/are_you_not_entertained-135569_thumb.jpg "are_you_not_entertained-135569")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UpcomingSpeakingGigs_899A/are_you_not_entertained-135569_2.jpg)
 
 You will be!
 

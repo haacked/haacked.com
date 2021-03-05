@@ -91,7 +91,7 @@ and you are all set. Log messages from all three assemblies should
 funnel nicely to your log file.
 
 To demonstrate this, I set up [another sample VS.NET 2003
-solution](https://haacked.com/images/Log4NetSampleSolution2.zip "Sample Log4Net Solution").
+solution](https://haacked.com/assets/images/Log4NetSampleSolution2.zip "Sample Log4Net Solution").
 It is based on the same project that I included in my previous article
 on the subject, but includes a business layer class library. The web
 application references the class library and makes a method call that

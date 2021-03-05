@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/11/04/World_Domination_Phase_1_Commenced.aspx/"
 ---
 
 [![Source:
-http://www.solarviews.com/raw/earth/earthx.jpg](https://haacked.com/images/haacked_com/WindowsLiveWriter/WorldDominationPhase1Commenced_DD0A/earthx_thumb1.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/WorldDominationPhase1Commenced_DD0A/earthx3.jpg)
+http://www.solarviews.com/raw/earth/earthx.jpg](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WorldDominationPhase1Commenced_DD0A/earthx_thumb1.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WorldDominationPhase1Commenced_DD0A/earthx3.jpg)
 Total world domination has always been a small goal of mine. It’s not
 that I have an unquenchable thirst for power, it just sounds like a
 challenging goal and I love challenges.

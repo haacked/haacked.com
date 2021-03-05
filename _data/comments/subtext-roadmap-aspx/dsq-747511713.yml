@@ -2,4 +2,4 @@ id: dsq-747511713
 date: 2005-05-10T02:41:00.0000000-07:00
 name: Haacked
 avatar: https://github.com/haacked.png?size=120
-message: <p>Ryan, the HTTP handlers are responsible for dynamically rendering links.  That way, every time you post, you don't have to create a new .aspx page. For example, the link to this post is <a href="http://haacked.com/archive/2005/05/05/2983.aspx" rel="nofollow noopener" title="http://haacked.com/archive/2005/05/05/2983.aspx">http://haacked.com/archive/2005/05/05/2983.aspx</a>.<br><br><br><br>As for the privileged user idea, I really like it. We've been talking about something similar internally.</p>
+message: <p>Ryan, the HTTP handlers are responsible for dynamically rendering links.  That way, every time you post, you don't have to create a new .aspx page. For example, the link to this post is <a href="https://haacked.com/archive/2005/05/05/2983.aspx" rel="nofollow noopener" title="https://haacked.com/archive/2005/05/05/2983.aspx">https://haacked.com/archive/2005/05/05/2983.aspx</a>.<br><br><br><br>As for the privileged user idea, I really like it. We've been talking about something similar internally.</p>

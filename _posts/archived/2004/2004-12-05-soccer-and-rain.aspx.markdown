@@ -4,7 +4,7 @@ tags: [personal,soccer]
 redirect_from: "/archive/2004/12/04/soccer-and-rain.aspx/"
 ---
 
-![Soccer Ball](/images/SoccerBallBW.jpg) Americans often have a low view
+![Soccer Ball](/assets/images/SoccerBallBW.jpg) Americans often have a low view
 of soccer players (though that is changing in recent years). They don't
 think of the sport as physical as football or even basketball. However
 from my experience, soccer players are every bit as tough as their
@@ -17,7 +17,7 @@ have been several times that we couldn't get a full squad for my morning
 basketball game at the Y because it was raining, and we're playing
 indoors!
 
-![Rain](/images/rain.jpg) Back to the subject at hand, there's nothing
+![Rain](/assets/images/rain.jpg) Back to the subject at hand, there's nothing
 like playing a solid game of soccer (or Football for my European readers
 or futbol for my spanish speaking readers) with rain pouring down. The
 artifical turf (the kind with the rubber pellets) actually grips the

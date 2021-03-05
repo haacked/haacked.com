@@ -35,11 +35,11 @@ The purpose of the special class and the *contenteditable* attribute is
 to inform WLW that the html tag is editable. In the *Web Layout* view
 (F11), you can see a hashed box around the tags like so.
 
-![image](https://haacked.com/images/haacked_com/WindowsLiveWriter/CleanupAfterWindowsLiveWriterWithThisHtt_1348B/image_2.png)
+![image](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CleanupAfterWindowsLiveWriterWithThisHtt_1348B/image_2.png)
 
 Clicking on the box changes the right menu to let you enter tags.
 
-![image](https://haacked.com/images/haacked_com/WindowsLiveWriter/CleanupAfterWindowsLiveWriterWithThisHtt_1348B/image1.png)
+![image](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CleanupAfterWindowsLiveWriterWithThisHtt_1348B/image1.png)
 
 Because I actually care about web standards and being XHTML compliant
 and I’m totally anal, I’ve always gone in and manually changed the HTML

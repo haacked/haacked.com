@@ -73,7 +73,7 @@ At heart, Web Application Projects are no different from Class Library
 projects so you can set conditional compilation constants from the
 project properties dialog in Visual Studio.[![ConditionalCompilation -
 Microsoft Visual
-Studio](https://haacked.com/images/haacked_com/WindowsLiveWriter/ConditionalConstantsandASP.NET_12C5D/ConditionalCompilation%20-%20Microsoft%20Visual%20Studio_thumb_1.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/ConditionalConstantsandASP.NET_12C5D/ConditionalCompilation%20-%20Microsoft%20Visual%20Studio_1.png "Conditional Compilation Constants")
+Studio](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ConditionalConstantsandASP.NET_12C5D/ConditionalCompilation%20-%20Microsoft%20Visual%20Studio_thumb_1.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ConditionalConstantsandASP.NET_12C5D/ConditionalCompilation%20-%20Microsoft%20Visual%20Studio_1.png "Conditional Compilation Constants")
 
 Unfortunately, these only seem to work in the code behind and not within
 ASPX files.

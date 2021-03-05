@@ -4,7 +4,7 @@ tags: [code,sql]
 redirect_from: "/archive/2004/03/17/Row_By_Row_Operations_Without_Cursors.aspx/"
 ---
 
-![](/images/cursor.jpg)In general, cursors suck ass! Ok, that’s a bit
+![](/assets/images/cursor.jpg)In general, cursors suck ass! Ok, that’s a bit
 extreme, but I have a long and ugly history with cursors. Let me diverge
 here and tell you a true story.
 

@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2006/06/24/CrazyLightningStorm.aspx/"
 ---
 
-![Lightning Storm](https://haacked.com/images/LightningStorm.jpg)We just
+![Lightning Storm](https://haacked.com/assets/images/LightningStorm.jpg)We just
 had a short lived but crazy loud lightning storm. I was up late working
 on Subtext because I couldn’t sleep when I started hearing the loud clap
 of thunder. The eerie part is that between the thunder claps, it was

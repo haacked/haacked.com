@@ -31,7 +31,7 @@ node. Here’s a snippet from my web.config.
 
 Here is a screenshot of it working on my machine.
 
-![con-in-my-url](https://haacked.com/images/haacked_com/WindowsLiveWriter/PuttingtheConCOM1LPT1NULe.BackinyourURLs_8819/con-in-my-url_6.png "con-in-my-url")
+![con-in-my-url](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PuttingtheConCOM1LPT1NULe.BackinyourURLs_8819/con-in-my-url_6.png "con-in-my-url")
 
 Now you are free to use `COM1-9, LPT1-9, AUX, PRT, NUL, CON` in your
 URLs. I know you were dying to do so. :)
@@ -47,7 +47,7 @@ want it. ;)
 
 The answer is **yes, it works**.
 
-![web.config-in-my-url](https://haacked.com/images/haacked_com/WindowsLiveWriter/PuttingtheConCOM1LPT1NULe.BackinyourURLs_8819/web.config-in-my-url_5.png "web.config-in-my-url")
+![web.config-in-my-url](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PuttingtheConCOM1LPT1NULe.BackinyourURLs_8819/web.config-in-my-url_5.png "web.config-in-my-url")
 
 Please note, that you still can’t request `/web.config` because that
 would try to request `web.config` in the root of your web application

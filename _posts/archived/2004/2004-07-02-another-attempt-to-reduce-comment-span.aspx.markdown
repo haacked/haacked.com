@@ -4,7 +4,7 @@ tags: [spam,web]
 redirect_from: "/archive/2004/07/01/another-attempt-to-reduce-comment-span.aspx/"
 ---
 
-![Spam](/images/spam.jpg)A little while back, I had a [few
+![Spam](/assets/images/spam.jpg)A little while back, I had a [few
 ideas](https://haacked.com/archive/2004/06/05/529.aspx) about how to
 combat comment spam. My ideas were more geared towards a trust-based
 approach to stopping comment graffiti than spam, but they were a bit

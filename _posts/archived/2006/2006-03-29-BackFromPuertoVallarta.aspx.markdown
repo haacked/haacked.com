@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/03/28/BackFromPuertoVallarta.aspx/"
 ---
 
 [![View from
-Pool](https://haacked.com/images/ViewFromPool_small.jpg)](https://haacked.com/images/ViewFromPool.jpg)
+Pool](https://haacked.com/assets/images/ViewFromPool_small.jpg)](https://haacked.com/assets/images/ViewFromPool.jpg)
 In case you were wondering how such a loudmouth as myself could be so
 quiet for four days and three nights, my wife and I were in Puerto
 Vallarta enjoying a real vacation. By “real” I mean completely devoid of
@@ -23,7 +23,7 @@ is the view from the patio/pool. The B&B is built on a steep hill so
 there is a pretty nice view from everywhere.
 
 [![Phil on a rooftop
-bar](https://haacked.com/images/PhillRooftopBar_small.jpg)](https://haacked.com/images/PhilRooftopBar.jpg)
+bar](https://haacked.com/assets/images/PhillRooftopBar_small.jpg)](https://haacked.com/assets/images/PhilRooftopBar.jpg)
 It also has a nice rooftop honor bar as you can see me on the right,
 attempting to draw upon my inner Tom Cruise in the movie *Cocktail*.
 

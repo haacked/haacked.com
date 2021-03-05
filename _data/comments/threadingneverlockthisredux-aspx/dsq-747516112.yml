@@ -2,4 +2,4 @@ id: dsq-747516112
 date: 2006-08-08T03:33:10.0000000-07:00
 name: Haacked
 avatar: https://github.com/haacked.png?size=120
-message: <p>Huh?  Well the lock statement uses the monitor class under the hood.<br>It would make more sense to use the <a href="http://haacked.com/archive/2004/10/13/1341.aspx" rel="nofollow noopener" title="TimedLock">TimedLock class</a>.<br>However, even so, you would force a thread lock timeout if you lock on this.<br></p>
+message: <p>Huh?  Well the lock statement uses the monitor class under the hood.<br>It would make more sense to use the <a href="https://haacked.com/archive/2004/10/13/1341.aspx" rel="nofollow noopener" title="TimedLock">TimedLock class</a>.<br>However, even so, you would force a thread lock timeout if you lock on this.<br></p>

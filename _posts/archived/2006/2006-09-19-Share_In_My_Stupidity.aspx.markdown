@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/09/18/Share_In_My_Stupidity.aspx/"
 ---
 
 [![Dumb and
-Dumber](https://haacked.com/images/haacked_com/WindowsLiveWriter/ShareInMyStupidity_9F1F/dumb-and-dumber-001-1_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/ShareInMyStupidity_9F1F/dumb-and-dumber-001-1%5B2%5D.jpg)
+Dumber](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ShareInMyStupidity_9F1F/dumb-and-dumber-001-1_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ShareInMyStupidity_9F1F/dumb-and-dumber-001-1%5B2%5D.jpg)
 In general I like to regale my readers with stories of my brave
 accomplishments, ideally embellished to make me look like a hero. 
 

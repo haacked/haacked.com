@@ -52,5 +52,5 @@ wasn’t looking. It was a brief moment, but that’s all he needed to
 change his look.
 
 ![Cody Pen
-Moustache](https://haacked.com/images/haacked_com/WindowsLiveWriter/BirthdayClustersandCodeCamps_1EF5/Cody-Pen-Moustache_3.jpg)
+Moustache](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BirthdayClustersandCodeCamps_1EF5/Cody-Pen-Moustache_3.jpg)
 

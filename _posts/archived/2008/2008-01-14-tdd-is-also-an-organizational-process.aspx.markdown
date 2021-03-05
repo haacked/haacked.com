@@ -17,7 +17,7 @@ looked at a design from a TDD perspective and discussed ways to make it
 more testable. Teams are also starting to really apply TDD in their
 development process as a team effort, and not just sporadic individuals.
 
-![Bugs](https://haacked.com/images/haacked_com/WindowsLiveWriter/BugDrivenDevelopment_851F/1364145387_b8cf994488_4.jpg)TDD
+![Bugs](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BugDrivenDevelopment_851F/1364145387_b8cf994488_4.jpg)TDD
 doesn’t work well in a vacuum. I mean, it *can* work to adopt TDD as an
 individual developer, but the effectiveness of TDD is lessened if you
 don’t consider the organizational changes that should occur in tandem

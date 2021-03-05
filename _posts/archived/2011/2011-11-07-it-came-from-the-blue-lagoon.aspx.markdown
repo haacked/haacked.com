@@ -6,11 +6,11 @@ redirect_from: "/archive/2011/11/06/it-came-from-the-blue-lagoon.aspx/"
 
 As I mentioned in [my last post](https://haacked.com/archive/2011/10/31/beer-in-iceland.aspx "Beer in Iceland"), I have an overnight stopover in Reykjavik Iceland. After checking into my hotel at an ungodly early hour (which ended up being really late for me Seattle time), my first order of business was to head over to [the Blue Lagoon](http://www.bluelagoon.com/ "The Blue Lagoon").
 
-[![blue-lagoon-movie](https://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon-movie_thumb.jpg "blue-lagoon-movie")](https://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon-movie_2.jpg)
+[![blue-lagoon-movie](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon-movie_thumb.jpg "blue-lagoon-movie")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon-movie_2.jpg)
 
 No, **not that Blue Lagoon**! This one!
 
-[![blue-lagoon](https://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon_thumb.jpg "blue-lagoon")](https://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon_2.jpg) 
+[![blue-lagoon](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon_thumb.jpg "blue-lagoon")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/blue-lagoon_2.jpg) 
 
 Look at that steam coming off the water! The Blue Lagoon is a geothermal spa with a 5000 square meter lagoon. The water comes from a nearby geothermal plant and is renewed every two days. According [to Wikipedia](http://en.wikipedia.org/wiki/Blue_Lagoon_(geothermal_spa) "Wikipedia on the spa"),
 
@@ -43,7 +43,7 @@ Though I have to admit, that was part of the fun. It was novel to be swimming ou
 
 I even had time to stop at a water side bar for a drink.
 
-[![bar-at-the-blue-lagoon](https://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/bar-at-the-blue-lagoon_thumb.jpg "bar-at-the-blue-lagoon")](https://haacked.com/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/bar-at-the-blue-lagoon_2.jpg)
+[![bar-at-the-blue-lagoon](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/bar-at-the-blue-lagoon_thumb.jpg "bar-at-the-blue-lagoon")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/It-Came-From-the-Blue-Lagoon_7635/bar-at-the-blue-lagoon_2.jpg)
 
 A good part of the drive to the Lagoon is through a vast lava field that is reminiscent of the photos sent back by the Mars Rover. It’s very easy to catch a bus from your hotel or from the airport to get there and they provide lockers as well as towel and even swimwear rental. They really make it easy to take a quick jaunt over there if you’re just on a stopover in Iceland.
 

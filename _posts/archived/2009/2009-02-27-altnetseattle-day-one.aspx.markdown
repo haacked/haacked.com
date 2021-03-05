@@ -5,7 +5,7 @@ redirect_from: "/archive/2009/02/26/altnetseattle-day-one.aspx/"
 ---
 
 [![ALT.NET Opening Ceremonies by Brad
-Wilson](https://haacked.com/images/haacked_com/WindowsLiveWriter/ALT.NET-Seattle-Day-One_A157/scott-why-so-mean_thumb.jpg "ALT.NET Opening Ceremonies by Brad Wilson")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ALT.NET-Seattle-Day-One_A157/scott-why-so-mean_2.jpg)
+Wilson](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ALT.NET-Seattle-Day-One_A157/scott-why-so-mean_thumb.jpg "ALT.NET Opening Ceremonies by Brad Wilson")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ALT.NET-Seattle-Day-One_A157/scott-why-so-mean_2.jpg)
 
 Day one of the ALT.NET Seattle conference is over and I’m looking
 forward to tomorrow’s sessions.
@@ -57,7 +57,7 @@ Harman](http://stevenharman.net/ "steve harman") and I finally meet
 third Musketeer of Subtext, who apparently can’t keep his eyes open for
 a photo after being up for over 30 hours due to flying in from Italy.
 
-[![3315077517\_855eae566b](https://haacked.com/images/haacked_com/WindowsLiveWriter/ALT.NETSeattleDayOne_14E45/3315077517_855eae566b_thumb.jpg "3315077517_855eae566b")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ALT.NETSeattleDayOne_14E45/3315077517_855eae566b_2.jpg)
+[![3315077517\_855eae566b](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ALT.NETSeattleDayOne_14E45/3315077517_855eae566b_thumb.jpg "3315077517_855eae566b")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ALT.NETSeattleDayOne_14E45/3315077517_855eae566b_2.jpg)
 
 I look forward to seeing what tomorrow brings.
 

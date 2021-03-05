@@ -18,7 +18,7 @@ working to deploy the new [NuGet.org](http://nuget.org/ "NuGet.org")
 gallery tonight if all goes well. Once that’s been up for a few days and
 we’re comfortable with it being stable, we’ll release NuGet 1.6.
 
-[![last-day](https://haacked.com/images/haacked_com/WindowsLiveWriter/Last-Day_D8B3/last-day_thumb.jpg "last-day")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Last-Day_D8B3/last-day_2.jpg)
+[![last-day](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Last-Day_D8B3/last-day_thumb.jpg "last-day")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Last-Day_D8B3/last-day_2.jpg)
 
 In the meanwhile, my office has been razed of all the good equipment
 including my crossbows that I bequeath to my co-workers that remain,

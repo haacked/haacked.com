@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2004/07/06/the-rush-of-basketball.aspx/"
 ---
 
-![](/images/Basketball.jpg)Kurtis Blow once rapped
+![](/assets/images/Basketball.jpg)Kurtis Blow once rapped
 
 > Basketball is my favorite sport,
 > I like the way they dribble up and down the court,

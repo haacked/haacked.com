@@ -16,16 +16,16 @@ crude and offensive ones.
 For the lazy, here are a few representative ones I found to be funny.
 The first example is from the movie Inception:
 
-[![blow-in-my-eyes](https://haacked.com/images/haacked_com/WindowsLiveWriter/Random-Friday-Geek-Verticals_13D35/blow-in-my-eyes_thumb.jpg "blow-in-my-eyes")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Random-Friday-Geek-Verticals_13D35/blow-in-my-eyes_2.jpg)
+[![blow-in-my-eyes](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Random-Friday-Geek-Verticals_13D35/blow-in-my-eyes_thumb.jpg "blow-in-my-eyes")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Random-Friday-Geek-Verticals_13D35/blow-in-my-eyes_2.jpg)
 
 This is another one from Inception. There seems to be a lot using this
 specific sequence.
 
-![looking-for-asian-guy](https://haacked.com/images/haacked_com/WindowsLiveWriter/Random-Friday-Geek-Verticals_13D35/looking-for-asian-guy_3.jpg "looking-for-asian-guy")
+![looking-for-asian-guy](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Random-Friday-Geek-Verticals_13D35/looking-for-asian-guy_3.jpg "looking-for-asian-guy")
 
 And here’s one from the television show, LOST.
 
-![lost](https://haacked.com/images/haacked_com/WindowsLiveWriter/Random-Friday-Geek-Verticals_13D35/lost_3.jpg "lost")
+![lost](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Random-Friday-Geek-Verticals_13D35/lost_3.jpg "lost")
 
 On a lark, I thought it’d be funny to *try* and do a geek version of
 this meme. I chose two personalities in our community I figured would be
@@ -40,15 +40,15 @@ I’ll post my versions here as well as the raw image because I know
 you’ll do much better than me. I needed to keep it tame because I do
 enjoy my employer’s salary continuation plan.
 
-![job-search](https://haacked.com/images/haacked_com/WindowsLiveWriter/Random-Friday-Geek-Verticals_13D35/job-search_3.png "job-search")
+![job-search](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Random-Friday-Geek-Verticals_13D35/job-search_3.png "job-search")
 
 Here’s another one using the same template.
 
-![Hawaii-Vertical](https://haacked.com/images/haacked_com/WindowsLiveWriter/Random-Friday-Geek-Verticals_13D35/Hawaii-Vertical_3.png "Hawaii-Vertical")
+![Hawaii-Vertical](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Random-Friday-Geek-Verticals_13D35/Hawaii-Vertical_3.png "Hawaii-Vertical")
 
 I tried changing this last one up a bit.
 
-![clone-vertical](https://haacked.com/images/haacked_com/WindowsLiveWriter/Random-Friday-Geek-Verticals_13D35/clone-vertical_3.png "clone-vertical")
+![clone-vertical](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Random-Friday-Geek-Verticals_13D35/clone-vertical_3.png "clone-vertical")
 
 It’s pretty challenging to do this with folks who are not
 television/movie celebrities because you have far fewer images to work

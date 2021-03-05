@@ -4,7 +4,7 @@ tags: [subtext]
 redirect_from: "/archive/2006/03/01/Subtext1.0NautilusEditionReleased.aspx/"
 ---
 
-![Subtext Logo](/images/SubtextLogo.png) Well it took a bit longer than
+![Subtext Logo](/assets/images/SubtextLogo.png) Well it took a bit longer than
 I thought it would, but we’ve finally put the final touches to [Subtext
 1.0](http://subtextproject.com/ "Subtext Project Site"), code named
 “Nautilus”! One of the primary goals of this release was to make it much

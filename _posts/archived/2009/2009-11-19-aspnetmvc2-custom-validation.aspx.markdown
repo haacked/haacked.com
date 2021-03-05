@@ -19,7 +19,7 @@ features.
 
 In this post I will cover validation.
 
-[![storage.canoe](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2CustomValidationAttributeWith_13136/storage.canoe_3.jpg "storage.canoe")](http://en.wikipedia.org/wiki/Stuart_Smalley "Stuart Smalley on Wikipedia")
+[![storage.canoe](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2CustomValidationAttributeWith_13136/storage.canoe_3.jpg "storage.canoe")](http://en.wikipedia.org/wiki/Stuart_Smalley "Stuart Smalley on Wikipedia")
 No, not that kind of validation, though I do think you’re good enough,
 you’re smart enough, and doggone it, people like you.
 
@@ -126,7 +126,7 @@ public class HomeController : Controller {
 We haven’t enabled client validation yet, but let’s see what happens
 when we view this page and try to submit some values.
 
-![price-invalid](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2CustomValidationAttributeWith_13136/price-invalid_3.png "price-invalid")
+![price-invalid](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2CustomValidationAttributeWith_13136/price-invalid_3.png "price-invalid")
 
 As expected, it posts the form to the server and we see the error
 messages.

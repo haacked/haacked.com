@@ -30,7 +30,7 @@ One way is to ask your neighbor with an atomic clock (because everyone
 carries one around) and compare the two. If they both report the same
 time, then you have a high degree of confidence they are both correct.
 
-[![](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhoTestsTheTests_1055D/734117_watch_thumb1.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhoTestsTheTests_1055D/734117_watch4.jpg)
+[![](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhoTestsTheTests_1055D/734117_watch_thumb1.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhoTestsTheTests_1055D/734117_watch4.jpg)
 
 If they are different, then you know one or the other is wrong.
 

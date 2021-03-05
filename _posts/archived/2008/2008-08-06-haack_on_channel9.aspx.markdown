@@ -2,10 +2,10 @@
 title: Hey Ma, I'm On TV!
 tags: [aspnetmvc,books]
 redirect_from: "/archive/2008/08/05/haack_on_channel9.aspx/"
-excerpt_image: https://haacked.com/images/haacked_com/WindowsLiveWriter/HeyMaImOnTV_8D16/phil-in-office_3.jpg
+excerpt_image: https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HeyMaImOnTV_8D16/phil-in-office_3.jpg
 ---
 
-![phil-in-office](https://haacked.com/images/haacked_com/WindowsLiveWriter/HeyMaImOnTV_8D16/phil-in-office_3.jpg "phil-in-office")
+![phil-in-office](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HeyMaImOnTV_8D16/phil-in-office_3.jpg "phil-in-office")
 
 Recently, Adam Kinney came by my office to [interview me for a Channel 9](http://channel9.msdn.com/shows/Continuum/MVCPreview4/ "MVC Preview 4") episode discussing ASP.NET MVC CodePlex Preview 4.
 

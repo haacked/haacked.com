@@ -8,7 +8,7 @@ If blogging had been around when I was a kid...
 
 [![Well, Yes, We could read your blog... or you could just TELL us about
 your school
-day.](/images/BlogCartoon.jpg)](http://trevorcook.typepad.com/photos/uncategorized/093004borgman600x403.jpg" "http://trevorcook.typepad.com/photos/uncategorized/093004borgman600x403.jpg")
+day.](/assets/images/BlogCartoon.jpg)](http://trevorcook.typepad.com/photos/uncategorized/093004borgman600x403.jpg" "http://trevorcook.typepad.com/photos/uncategorized/093004borgman600x403.jpg")
 
 From the Cincinnati Enquirer, courtesy of [Kevin
 Dugan](http://prblog.typepad.com/ "http://prblog.typepad.com/") and [Tom

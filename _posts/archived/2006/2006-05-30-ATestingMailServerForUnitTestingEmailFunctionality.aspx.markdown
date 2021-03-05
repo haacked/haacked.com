@@ -4,7 +4,7 @@ tags: [testing,tdd]
 redirect_from: "/archive/2006/05/29/ATestingMailServerForUnitTestingEmailFunctionality.aspx/"
 ---
 
-![Mail](https://haacked.com/images/Mail.jpg)So you are coding along
+![Mail](https://haacked.com/assets/images/Mail.jpg)So you are coding along
 riding that TDD high when you reach the point at which your code needs
 to send an email. What do you do now?
 

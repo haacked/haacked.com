@@ -11,7 +11,7 @@ what’s to come in the year ahead.
 Today, there’s one less thing to anticipate as we announce the final
 release of ASP.NET MVC 3 and NuGet 1.0!
 
-[![double-rainbow](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NET-MVC-3-RTM_11308/double-rainbow_3.jpg "double-rainbow")](http://www.flickr.com/photos/nicholas_t/281820290/ "Double Rainbow: CC by attribution")
+[![double-rainbow](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NET-MVC-3-RTM_11308/double-rainbow_3.jpg "double-rainbow")](http://www.flickr.com/photos/nicholas_t/281820290/ "Double Rainbow: CC by attribution")
 \
 *Oh yeah, this never gets old.*
 

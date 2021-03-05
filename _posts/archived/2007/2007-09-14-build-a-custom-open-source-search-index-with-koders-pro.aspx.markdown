@@ -18,7 +18,7 @@ work of the rest of the team that this is out there, especially
 Pro.
 
 ![The Yin-Yang of Open Source and Private
-Code](https://haacked.com/images/haacked_com/WindowsLiveWriter/BuildACustomOpenSourceSearchIndexWithPro_CBF0/home_koders_symbol_1_5.gif)Pro
+Code](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BuildACustomOpenSourceSearchIndexWithPro_CBF0/home_koders_symbol_1_5.gif)Pro
 Edition is the yin to the Koders.com yang. Pro Edition is great for
 searching and sharing your and your team’s internal code.
 

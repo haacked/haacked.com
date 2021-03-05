@@ -7,7 +7,7 @@ redirect_from: "/archive/2004/06/09/The-Real-Pain-Of-Software-Development-1.aspx
 UPDATE: I finally followed up with [part 2](https://haacked.com/archive/2012/04/15/The-Real-Pain-Of-Software-Development-2/),
 only 8 years later.
 
-![Typist In Pain](/images/TypingPain.jpg)When you ask the average programmer what problems plague the practice of building software,
+![Typist In Pain](/assets/images/TypingPain.jpg)When you ask the average programmer what problems plague the practice of building software,
 you’ll probably hear responses such as:
 
 > The impedance mismatch between relational databases and object

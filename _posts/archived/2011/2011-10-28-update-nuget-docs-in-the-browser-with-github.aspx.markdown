@@ -56,13 +56,13 @@ NuGetDocs repository.
 Here’s a sample page from our docs (click for larger). The words at the
 end of the first paragraph should be links! Doh! I should fix that.
 
-[![nuget-docs-page](https://haacked.com/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/nuget-docs-page_thumb.png "nuget-docs-page")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/nuget-docs-page_2.png)
+[![nuget-docs-page](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/nuget-docs-page_thumb.png "nuget-docs-page")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/nuget-docs-page_2.png)
 
 First, I’ll visit the [NuGet Docs
 repository](https://github.com/NuGet/NuGetDocs "NuGet Docs") (TODO: Add
 a link to each page with the path to the Github repository page).
 
-[![nuget-docs-github](https://haacked.com/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/nuget-docs-github_thumb.png "nuget-docs-github")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/nuget-docs-github_2.png)
+[![nuget-docs-github](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/nuget-docs-github_thumb.png "nuget-docs-github")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/nuget-docs-github_2.png)
 
 Cool, I’m logged in as **FakeHaacked**. Now I just need to navigate to
 the page that needs the correction. All of the documentation pages are
@@ -73,7 +73,7 @@ search to search for the page you want to edit.
 
 Here’s the page I want to edit.
 
-[![page-with-fork-this-button](https://haacked.com/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/page-with-fork-this-button_thumb.png "page-with-fork-this-button")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/page-with-fork-this-button_2.png)
+[![page-with-fork-this-button](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/page-with-fork-this-button_thumb.png "page-with-fork-this-button")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/page-with-fork-this-button_2.png)
 
 Since this file is a Markdown file, I can see a view of the file that’s
 a nice approximation of what it will look like when it’s deployed. It’s
@@ -88,7 +88,7 @@ that clone without worry that I will affect the real thing.
 
 Let’s click that button and see what happens.
 
-[![github-markdown-editor](https://haacked.com/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/github-markdown-editor_thumb.png "github-markdown-editor")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/github-markdown-editor_2.png)
+[![github-markdown-editor](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/github-markdown-editor_thumb.png "github-markdown-editor")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/github-markdown-editor_2.png)
 
 Cool, I get a nice editor with preview for editing the page right here
 in the browser. I’ll go ahead and make those last two references into
@@ -97,31 +97,31 @@ Markdown formatted links.
 When I’m done, I can scroll down, type in a commit message describing
 the change, and click the blue *Propose File Change* button.
 
-[![enter-commit-message](https://haacked.com/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/enter-commit-message_thumb_1.png "enter-commit-message")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/enter-commit-message_4.png)
+[![enter-commit-message](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/enter-commit-message_thumb_1.png "enter-commit-message")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/enter-commit-message_4.png)
 
 Once you’re happy with the set of changes you’ve made, click the button
 to send a pull request. This lets the folks who maintain the
 documentation to know you have changes that are ready for them to pull
 in.
 
-[![send-a-pull-request](https://haacked.com/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/send-a-pull-request_thumb.png "send-a-pull-request")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/send-a-pull-request_2.png)
+[![send-a-pull-request](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/send-a-pull-request_thumb.png "send-a-pull-request")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/send-a-pull-request_2.png)
 
 And that’s it. You’ve done your part. Thank you for your contribution to
 our docs! Now let’s look at what happens on the other side. I’ll put on
 my project maintainer hat and visit the site. Notice I’m logged in as
 **Haacked** now and I see there’s an outstanding pull
-request.[![pull-requests-nuget-docs](https://haacked.com/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/pull-requests-nuget-docs_thumb.png "pull-requests-nuget-docs")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/pull-requests-nuget-docs_2.png)
+request.[![pull-requests-nuget-docs](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/pull-requests-nuget-docs_thumb.png "pull-requests-nuget-docs")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/pull-requests-nuget-docs_2.png)
 
 Cool, I can take a look at it, quickly see a diff, and comment on it.
 Notice that Github was able to determine that this file is safe to
 automatically merge into the master branch.
 
-[![merge-pull-request](https://haacked.com/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/merge-pull-request_thumb_1.png "merge-pull-request")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/merge-pull-request_4.png)
+[![merge-pull-request](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/merge-pull-request_thumb_1.png "merge-pull-request")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/merge-pull-request_4.png)
 
 All I have to do is click the big blue button, enter a message, and I’m
 done!
 
-[![confirm-merge](https://haacked.com/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/confirm-merge_thumb.png "confirm-merge")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/confirm-merge_2.png)
+[![confirm-merge](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/confirm-merge_thumb.png "confirm-merge")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Update-NuGet-Docs-in-the-Browser-with-Gi_D96F/confirm-merge_2.png)
 
 It’s that easy for me to merge in your changes.
 

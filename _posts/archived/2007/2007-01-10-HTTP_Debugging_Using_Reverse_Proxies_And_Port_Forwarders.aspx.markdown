@@ -5,7 +5,7 @@ redirect_from: "/archive/2007/01/09/HTTP_Debugging_Using_Reverse_Proxies_And_Por
 ---
 
 [![Image of a RIM Blackberry
-emulator](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingFiddlerAsAReverseProxy_D572/Blackberryemulator_thumb3.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingFiddlerAsAReverseProxy_D572/Blackberryemulator5.png)I’m
+emulator](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UsingFiddlerAsAReverseProxy_D572/Blackberryemulator_thumb3.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UsingFiddlerAsAReverseProxy_D572/Blackberryemulator5.png)I’m
 currently working on an interesting project to develop a series of HTTP
 services used by games running on the RIM Blackberry. These services
 will enable players to compete against one another (though not in real
@@ -69,7 +69,7 @@ entry to the HOSTS file to map the hostname *MOBILE* to the ip address
 
 [![Image depicting a hosts file. The last entry shows the ip address
 127.0.0.1 mapped to the host name
-'Mobile'](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingFiddlerAsAReverseProxy_D572/hostsfileinnotepad_thumb10.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingFiddlerAsAReverseProxy_D572/hostsfileinnotepad16.png)
+'Mobile'](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UsingFiddlerAsAReverseProxy_D572/hostsfileinnotepad_thumb10.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UsingFiddlerAsAReverseProxy_D572/hostsfileinnotepad16.png)
 
 I then updated the custom rule in Fiddler to route requests for
 mobile:8888 to port 80 of the localhost and again asked the developers
@@ -84,7 +84,7 @@ One benefit of using Fiddler is that I can replay requests tweaking form
 values and such.
 
 [![Image of a Fiddler
-session.](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingFiddlerAsAReverseProxy_D572/fiddlerscreenshot_thumb2.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingFiddlerAsAReverseProxy_D572/fiddlerscreenshot4.png)
+session.](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UsingFiddlerAsAReverseProxy_D572/fiddlerscreenshot_thumb2.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UsingFiddlerAsAReverseProxy_D572/fiddlerscreenshot4.png)
 
 ### Dealing With Hard-Coded URLs
 
@@ -103,7 +103,7 @@ favorite alternate port for IIS, port 8080. and used
 port 80 and forward requests to port 8080.
 
 [![Image of TcpTrace window forwarding requests for port 80 to
-8080.](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingFiddlerAsAReverseProxy_D572/TcpTracePortForwarding_thumb2.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingFiddlerAsAReverseProxy_D572/TcpTracePortForwarding4.png)
+8080.](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UsingFiddlerAsAReverseProxy_D572/TcpTracePortForwarding_thumb2.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UsingFiddlerAsAReverseProxy_D572/TcpTracePortForwarding4.png)
 
 This allowed me to view the HTTP traffic back and forth between the
 emulator and the web service again using TcpTrace. Unfortunately, I

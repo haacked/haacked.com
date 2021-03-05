@@ -4,7 +4,7 @@ tags: [security]
 redirect_from: "/archive/2004/09/29/im-is-not-safe-spread-the-word.aspx/"
 ---
 
-![](/images/AIMLogo.jpg)![](/images/MSNLogo.jpg)![](/images/YMLogo.jpg)
+![](/assets/images/AIMLogo.jpg)![](/assets/images/MSNLogo.jpg)![](/assets/images/YMLogo.jpg)
 
 Think back to the last week or month of IM conversations you've had.
 Perhaps you have archiving on and can actually read them. Now, I want

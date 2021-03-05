@@ -5,7 +5,7 @@ redirect_from: "/archive/2007/01/10/This_Just_In__Beckham_To_Play_For_Los_Angele
 ---
 
 [![David
-Beckham](https://haacked.com/images/haacked_com/WindowsLiveWriter/ThisJustInBeckhamToPlayForLosAngeles_8FE4/david-beckham-11_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/ThisJustInBeckhamToPlayForLosAngeles_8FE4/david-beckham-11%5B2%5D.jpg)Looks
+Beckham](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ThisJustInBeckhamToPlayForLosAngeles_8FE4/david-beckham-11_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ThisJustInBeckhamToPlayForLosAngeles_8FE4/david-beckham-11%5B2%5D.jpg)Looks
 like [Beckham is moving to La La
 Land](http://www.mlive.com/sportsflash/topstories/index.ssf?/base/sports-2/1168529366198350.xml&storylist= "Beckham Signs With Galaxy").
 Sure, he is no longer on the English national team, nor does he start

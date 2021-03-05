@@ -31,7 +31,7 @@ I wrote a while back.
 Installing the Controller Inspector
 -----------------------------------
 
-![Inspector-120x120](https://haacked.com/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/Inspector-120x120_3.png "Inspector-120x120")The
+![Inspector-120x120](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/Inspector-120x120_3.png "Inspector-120x120")The
 Controller Inspector is available as a NuGet package with the package id
 *MvcHaack.ControllerInspector* (my Paint.net skills are top notch!).
 
@@ -43,14 +43,14 @@ After installing the package, visit any URL in your application rendered
 by a controller action. For example, here’s a standard request for a
 boring action.
 
-![index-action](https://haacked.com/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/index-action_5.png "index-action")
+![index-action](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/index-action_5.png "index-action")
 
 With the package installed and while running the site on localhost (it
 won’t work when the site is deployed), append the query string parameter
 **?inspect**. For example, in my sample, I just visit:
 *http://localhost:38249/?inspect* and voila!
 
-[![controller-inspector](https://haacked.com/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/controller-inspector_thumb.png "controller-inspector")](https://haacked.com/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/controller-inspector_2.png)
+[![controller-inspector](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/controller-inspector_thumb.png "controller-inspector")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/controller-inspector_2.png)
 
 I nicely formatted page that displays information about the controller
 and each of its actions. *If you’re wondering, “hey, isn’t this like
@@ -59,14 +59,14 @@ that.*
 
 Here’s a look at an action method.
 
-![contorller-inspector-action-view](https://haacked.com/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/contorller-inspector-action-view_3.png "contorller-inspector-action-view")
+![contorller-inspector-action-view](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/contorller-inspector-action-view_3.png "contorller-inspector-action-view")
 
 Notice that it conveniently shows the HTTP verbs next to the name to
 differentiate action methods of the same name. If an action method
 accepts a complex type as a parameter, the inspector displays details
 about that type (though not recursively yet).
 
-![action-with-model](https://haacked.com/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/action-with-model_3.png "action-with-model")
+![action-with-model](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/0137111d4432_E43D/action-with-model_3.png "action-with-model")
 
 Accessing controller metadata
 -----------------------------

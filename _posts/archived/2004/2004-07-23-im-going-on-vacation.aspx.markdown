@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2004/07/22/im-going-on-vacation.aspx/"
 ---
 
-![Vacation](/images/Vacation.jpg)I'm taking all of next week off of
+![Vacation](/assets/images/Vacation.jpg)I'm taking all of next week off of
 work. Wohoo! Well actually, I'm only on vacation from my day job. Monday
 and Tuesday I'll be working on some contracts I've got going on the
 side. Then on Wednesday, the little lady and I are [heading out to

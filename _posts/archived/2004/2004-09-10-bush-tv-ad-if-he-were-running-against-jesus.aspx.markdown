@@ -6,7 +6,7 @@ redirect_from: "/archive/2004/09/09/bush-tv-ad-if-he-were-running-against-jesus.
 
 This cracks me up.
 
-![](/images/jesusbush.jpg)
+![](/assets/images/jesusbush.jpg)
 
 It always infuriates me to see the conservative right quote the Bible to
 justify some of their policy choices. Mainly because I believe in a

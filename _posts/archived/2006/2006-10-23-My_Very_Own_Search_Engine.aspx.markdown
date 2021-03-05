@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/10/22/My_Very_Own_Search_Engine.aspx/"
 ---
 
 ![Google
-Beta](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyVeryOwnSearchEngine_13EC6/google_coop_xsm5.gif)
+Beta](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MyVeryOwnSearchEngine_13EC6/google_coop_xsm5.gif)
 Google just launched a
 neat [build-your-own-search-engine](http://googleblog.blogspot.com/2006/10/eureka-your-own-search-engine-has.html "Build Your Own Search Engine")
 feature.  You can choose sites that should be emphasized in the search

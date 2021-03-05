@@ -15,7 +15,7 @@ file from the installation package. Sorry for the the inconvenience.
 [Download Subtext
 1.5.1](http://sourceforge.net/project/showfiles.php?group_id=137896 "Subtext Downloads").
 
-![Subtext Logo](https://haacked.com/images/SubtextLogo.png) After much
+![Subtext Logo](https://haacked.com/assets/images/SubtextLogo.png) After much
 hard work, the Subtext team is proud to announce the release of [Subtext
 1.5](http://sourceforge.net/project/showfiles.php?group_id=137896 "Download it"),
 dubbed the Nautilus R&R Edition. This is primarily a bugfix release with

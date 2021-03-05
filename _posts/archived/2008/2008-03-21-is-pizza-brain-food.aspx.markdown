@@ -54,7 +54,7 @@ me and the college me? Then it hit me...
 
 Pizza Consumption!
 
- [![mmm-pizza](https://haacked.com/images/haacked_com/WindowsLiveWriter/IsPizzaBrainFood_770D/mmm-pizza_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/IsPizzaBrainFood_770D/mmm-pizza_2.jpg)
+ [![mmm-pizza](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IsPizzaBrainFood_770D/mmm-pizza_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IsPizzaBrainFood_770D/mmm-pizza_2.jpg)
 
 Think about it for a sec. They often say programmers are machines that
 turns coffee into code. I wonder if college math students are machines

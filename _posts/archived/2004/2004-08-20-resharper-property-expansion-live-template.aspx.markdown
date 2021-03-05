@@ -17,13 +17,13 @@ To add this template, go to the **ReSharper** menu and click
 **Options**. Select the **Live Templates** node and click **New**. A
 window for creating a Live Template will appear. Fill it out as below.
 
-![Property Expansion Template](/images/PropExpansion.jpg) \
+![Property Expansion Template](/assets/images/PropExpansion.jpg) \
 **Figure 1:** Live Template Editor.
 
 Now, to use the template, type the letters "prop" (sans quotes) and hit
 the TAB key. This should expand to the following:
 
-![Specifying](/images/propExpanType.jpg) \
+![Specifying](/assets/images/propExpanType.jpg) \
 **Figure 2:** Specifying the property type.
 
 Don't let all the red squigglies worry you. As you can see in the figure
@@ -32,7 +32,7 @@ the property and hit tab. This will then take you to the second argument
 of the template, the name for the private member. In the figure below, I
 chose string as the type.
 
-![Specifying the private member name](/images/propExpanMember.jpg) \
+![Specifying the private member name](/assets/images/propExpanMember.jpg) \
 **Figure 3:** Specifying the private property member name.
 
 At this point, you can type in the name of the private member that will
@@ -44,7 +44,7 @@ As you are typing, you'll notice that public property name matches
 whatever you type for the private member, but with the first character
 capitalized as in Figure 4.
 
-![It's working.](/images/propExpanGood.jpg) \
+![It's working.](/assets/images/propExpanGood.jpg) \
 **Figure 5** Look ma, I can name a property!
 
 **Bug Alert!** at this point, do not hit the TAB key. Even though we've
@@ -53,7 +53,7 @@ in the private member name, the cursor is taken to the end of the
 property expansion, but the PROPERTYNAME is removed. See figure 5.
 Instead, you're going to have to hit the down arrow a few times.
 
-![Property Expansion Lost The Name](/images/propExpanLostName.jpg) \
+![Property Expansion Lost The Name](/assets/images/propExpanLostName.jpg) \
 **Figure 5** Where's my property name!?
 
 **Conclusion**\

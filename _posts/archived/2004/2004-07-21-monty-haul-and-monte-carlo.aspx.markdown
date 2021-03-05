@@ -4,7 +4,7 @@ tags: [math]
 redirect_from: "/archive/2004/07/20/monty-haul-and-monte-carlo.aspx/"
 ---
 
-![Let’s Make a Deal](/images/LetsMakeADeal.jpg) [Ian
+![Let’s Make a Deal](/assets/images/LetsMakeADeal.jpg) [Ian
 Griffiths](http://www.interact-sw.co.uk/iangblog) blogs about the [Monty
 Hall
 problem](http://www.interact-sw.co.uk/iangblog/2004/07/21/montyhall).
@@ -25,7 +25,7 @@ problem](http://www.interact-sw.co.uk/iangblog/2004/07/21/montyhall).
 > Should you stick with your first choice, or switch to the other door?
 > Or does it not matter?
 
-![Monty Hall Problem](/images/MontyHall.jpg) I love this problem as an
+![Monty Hall Problem](/assets/images/MontyHall.jpg) I love this problem as an
 example of a very straightforward but non-intuitive result. I once
 presented this problem to a group of young kids who were in a summer
 math and science enrichment program. They were floored by the result. I

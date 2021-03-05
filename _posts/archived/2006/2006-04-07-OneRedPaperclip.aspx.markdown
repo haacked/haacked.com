@@ -4,7 +4,7 @@ tags: [community]
 redirect_from: "/archive/2006/04/06/OneRedPaperclip.aspx/"
 ---
 
-![Red Paperclip](https://haacked.com/images/redpaperclip.jpg) [This is
+![Red Paperclip](https://haacked.com/assets/images/redpaperclip.jpg) [This is
 one](http://oneredpaperclip.blogspot.com/ "One Red Paperclip") of the
 most ingenious methods of self promotion I have ever seen. Not to
 mention an interesting way to obtain a house.

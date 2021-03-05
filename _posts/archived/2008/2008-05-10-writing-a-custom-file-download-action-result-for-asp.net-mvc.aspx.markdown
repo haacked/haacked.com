@@ -30,13 +30,13 @@ Here's a page that contains a link to an action method named
 result.
 
 ![File Download
-HomePage](https://haacked.com/images/haacked_com/WindowsLiveWriter/WritingACustomFileDownloadActionR.NETMVC_E009/FileDownloadHome_3.png)
+HomePage](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WritingACustomFileDownloadActionR.NETMVC_E009/FileDownloadHome_3.png)
 
 Clicking on the link then pops up this dialog, prompting you to download
 and save the file.
 
 ![File
-Download](https://haacked.com/images/haacked_com/WindowsLiveWriter/WritingACustomFileDownloadActionR.NETMVC_E009/File%20Download_3.png)
+Download](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WritingACustomFileDownloadActionR.NETMVC_E009/File%20Download_3.png)
 
 The code for this action is pretty simple.
 

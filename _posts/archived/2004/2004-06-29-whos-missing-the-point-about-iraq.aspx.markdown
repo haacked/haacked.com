@@ -4,7 +4,7 @@ tags: [politics]
 redirect_from: "/archive/2004/06/28/whos-missing-the-point-about-iraq.aspx/"
 ---
 
-![Iraq](/images/Iraq.jpg)[My
+![Iraq](/assets/images/Iraq.jpg)[My
 response](https://haacked.com/archive/2004/06/30/dave-winer-misses-the-point-with-fahrenheit-911.aspx/) to [Dave
 Winer's](http://www.scripting.com/) [post about Michael Moore's new
 movie](http://archive.scripting.com/2004/06/30#mooresTactics) has

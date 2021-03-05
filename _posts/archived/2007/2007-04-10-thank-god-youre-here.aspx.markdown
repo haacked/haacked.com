@@ -12,7 +12,7 @@ television and movie stars, who have to bluff their way through a scene.
 They are given costumes, a set, but no script.
 
 [![The set of Thank God You're
-Here](https://haacked.com/images/haacked_com/WindowsLiveWriter/ThankGodYoureHere_A886/image010.png)](http://www.nbc.com/Video/rewind/full_episodes/index.shtml?show=thankgod "Thank God You're Here")
+Here](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ThankGodYoureHere_A886/image010.png)](http://www.nbc.com/Video/rewind/full_episodes/index.shtml?show=thankgod "Thank God You're Here")
 
 The title of the show derives from the fact that the first line of
 each skit is "Thank god you’re here!"
@@ -29,5 +29,5 @@ ever](http://youtube.com/watch?v=CTxkxG3DF4k&mode=related&search= "The Funniest 
 Richard Simmons.
 
 [![Who’s Line Is It
-Anyways?](https://haacked.com/images/haacked_com/WindowsLiveWriter/ThankGodYoureHere_A886/image016.png)](http://youtube.com/watch?v=CTxkxG3DF4k&mode=related&search= "Who's Line Is It") 
+Anyways?](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ThankGodYoureHere_A886/image016.png)](http://youtube.com/watch?v=CTxkxG3DF4k&mode=related&search= "Who's Line Is It") 
 

@@ -13,7 +13,7 @@ Why July 26?
 
 Because I happened to write that post on that day.
 
-[![coding-horror-official-logo-small](https://haacked.com/images/haacked_com/WindowsLiveWriter/Christmas.NETOpenSourceCameEarlyThisYear_FE3/coding-horror-official-logo-small_thumb.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/Christmas.NETOpenSourceCameEarlyThisYear_FE3/coding-horror-official-logo-small.png)In
+[![coding-horror-official-logo-small](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Christmas.NETOpenSourceCameEarlyThisYear_FE3/coding-horror-official-logo-small_thumb.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Christmas.NETOpenSourceCameEarlyThisYear_FE3/coding-horror-official-logo-small.png)In
 any case, it looks like Christmas will come early for some lucky open
 source projects. Jeff Atwood of
 [CodingHorror](http://www.codinghorror.com/ "CodingHorror - programming and human factors")

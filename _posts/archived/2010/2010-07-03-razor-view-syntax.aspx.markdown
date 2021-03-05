@@ -20,7 +20,7 @@ in [this very detailed blog
 post](http://weblogs.asp.net/scottgu/archive/2010/07/02/introducing-razor.aspx "Introducing Razor").
 
 [![Photo by "clix"
-http://www.sxc.hu/photo/955098](https://haacked.com/images/haacked_com/WindowsLiveWriter/RazorViewEngineSyntax_7125/razor_thumb.jpg "Photo by "clix" http://www.sxc.hu/photo/955098")](https://haacked.com/images/haacked_com/WindowsLiveWriter/RazorViewEngineSyntax_7125/razor_2.jpg)
+http://www.sxc.hu/photo/955098](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/RazorViewEngineSyntax_7125/razor_thumb.jpg "Photo by "clix" http://www.sxc.hu/photo/955098")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/RazorViewEngineSyntax_7125/razor_2.jpg)
 
 While I’m very excited about the new streamlined syntax, there’s a lot
 under the hood I’m also excited about.

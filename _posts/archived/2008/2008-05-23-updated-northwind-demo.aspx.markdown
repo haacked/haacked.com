@@ -7,7 +7,7 @@ redirect_from: "/archive/2008/05/22/updated-northwind-demo.aspx/"
 I updated the template to have the correct assembly references so it
 should work now out of the box. Sorry about that.
 
-![northwind](https://haacked.com/images/haacked_com/WindowsLiveWriter/UpdatedNorthwindDemoForAS.NETMVCPreview3_EB18/northwind_thumb.png)A
+![northwind](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UpdatedNorthwindDemoForAS.NETMVCPreview3_EB18/northwind_thumb.png)A
 while ago Scott Hanselman linked to my [Northwind
 sample](http://www.hanselman.com/blog/ASPNETMVCCheesyNorthwindSampleCode.aspx "cheesy northwind sample")
 which itself was spawned from an initial sample that [Brad

@@ -7,7 +7,7 @@ redirect_from: "/archive/2009/03/31/aspnetmvc-open-source.aspx/"
 First let me begin by assuring you, **this is not an April Fool’s
 joke**.
 
-![2871423645\_2f690a0c61](https://haacked.com/images/haacked_com/WindowsLiveWriter/OpenSourceLicenseForASP.NETMVC_AE1E/2871423645_2f690a0c61_3.jpg "2871423645_2f690a0c61")Exciting
+![2871423645\_2f690a0c61](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/OpenSourceLicenseForASP.NETMVC_AE1E/2871423645_2f690a0c61_3.jpg "2871423645_2f690a0c61")Exciting
 news! [Scott Guthrie announced
 today](http://weblogs.asp.net/scottgu/archive/2009/04/01/asp-net-mvc-1-0.aspx "ASP.NET MVC 1.0")
 that we have released the source code for [ASP.NET

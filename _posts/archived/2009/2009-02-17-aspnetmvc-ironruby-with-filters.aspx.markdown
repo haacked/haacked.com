@@ -12,7 +12,7 @@ Schementi](http://blog.jimmy.schementi.com/ "Jimmy Schementi") of the
 DLR team. It was really rough around the edges (and still is!)
 
 ![IronRuby on ASP.NET MVC
-Demo](https://haacked.com/images/haacked_com/WindowsLiveWriter/IronRubyWithASP.NETMVCWorkingPrototype_BDF3/IronRuby%20on%20ASP.NET%20MVC%20Demo%20-%20Windows%20Internet%20Explorer_3.png "IronRuby on ASP.NET MVC Demo")One
+Demo](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IronRubyWithASP.NETMVCWorkingPrototype_BDF3/IronRuby%20on%20ASP.NET%20MVC%20Demo%20-%20Windows%20Internet%20Explorer_3.png "IronRuby on ASP.NET MVC Demo")One
 of the benefits of doing that prototype was that it inspired all the
 work around action and controller descriptors in [ASP.NET
 MVC](http://asp.net/mvc "ASP.NET MVC Website") (something I need to

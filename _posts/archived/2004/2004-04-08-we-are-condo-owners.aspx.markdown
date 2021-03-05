@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2004/04/07/we-are-condo-owners.aspx/"
 ---
 
-![](/images/igloo.jpg)It’s finally official. We are legally,
+![](/assets/images/igloo.jpg)It’s finally official. We are legally,
 emotionally, officially, proud owners of a townhouse style condo. For
 you non-LA people, I could buy a 5 bedroom estate in Anchorage, Alaska
 for what we're paying. Heck, I could buy a 5 bedroom house in Seattle or

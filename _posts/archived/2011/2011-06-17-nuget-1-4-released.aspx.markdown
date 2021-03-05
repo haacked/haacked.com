@@ -27,7 +27,7 @@ is that the NuGet dialog notifies you itself that there’s a new version
 of NuGet.
 
 [![NuGet Update Check
-Notification](https://haacked.com/images/haacked_com/WindowsLiveWriter/NuGet-1.4-Released_C2D2/manage-nuget-packages-update-notification_thumb.png "NuGet Update Check Notification")](https://haacked.com/images/haacked_com/WindowsLiveWriter/NuGet-1.4-Released_C2D2/manage-nuget-packages-update-notification_2.png)
+Notification](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NuGet-1.4-Released_C2D2/manage-nuget-packages-update-notification_thumb.png "NuGet Update Check Notification")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NuGet-1.4-Released_C2D2/manage-nuget-packages-update-notification_2.png)
 
 ***Note**: The check is only made if the **Online** tab has been
 selected in the current session*.
@@ -49,7 +49,7 @@ than installing a package into a project one at a time. This was a
 common request for those working on a large multi-project solution.
 
 ![NuGet Project
-Selection](https://haacked.com/images/haacked_com/WindowsLiveWriter/NuGet-1.4-Released_C2D2/manage-nuget-packages-update-project-selection_b63a6356-8b22-4ed2-acd1-a37d6526ddea.png "NuGet Project Selection")
+Selection](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NuGet-1.4-Released_C2D2/manage-nuget-packages-update-project-selection_b63a6356-8b22-4ed2-acd1-a37d6526ddea.png "NuGet Project Selection")
 
 What’s Next?
 ------------

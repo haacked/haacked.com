@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2006/06/12/IHaveContractedAFever.aspx/"
 ---
 
-![Soccer Ball](https://haacked.com/images/SoccerBallBW.jpg)**World Cup
+![Soccer Ball](https://haacked.com/assets/images/SoccerBallBW.jpg)**World Cup
 Fever!**.
 
 Hence the lack of blogging. Last weekend, I went on a camping trip with

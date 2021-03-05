@@ -4,7 +4,7 @@ tags: [code,versioning]
 redirect_from: "/archive/2008/03/02/the-cost-of-breaking-changes.aspx/"
 ---
 
-[![broken-glass](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheCostOfBreakingChanges_A4A1/broken-glass_3.jpg)](http://www.sxc.hu/photo/296133 "Broken Glass on Stock Xchng")
+[![broken-glass](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheCostOfBreakingChanges_A4A1/broken-glass_3.jpg)](http://www.sxc.hu/photo/296133 "Broken Glass on Stock Xchng")
 One interesting response to my series on versioning of interfaces and
 abstract base classes is the one in which someone suggested that we
 should go ahead and break their code from version to version. They’re

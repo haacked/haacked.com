@@ -19,7 +19,7 @@ A mutual friend suggested that we should meet since we were both
 attending this event. This woman was there with her brother, and I was
 there with a buddy.
 
-[![photo](https://haacked.com/images/haacked_com/WindowsLiveWriter/Why-I-Love-New-Years-Eve_D220/photo_thumb.jpg "photo")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Why-I-Love-New-Years-Eve_D220/photo.jpg)
+[![photo](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Why-I-Love-New-Years-Eve_D220/photo_thumb.jpg "photo")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Why-I-Love-New-Years-Eve_D220/photo.jpg)
 
 I wonder what she’s been up to after all these years?
 
@@ -30,7 +30,7 @@ I know what she’s up to. We met in 2001 and were smitten by the time
 added to our funky bunch. We work hard hoping to keep these little
 munchkins alive. What a difference a decade makes, no?
 
-[![family-2011](https://haacked.com/images/haacked_com/WindowsLiveWriter/Why-I-Love-New-Years-Eve_D220/family-2011_thumb.jpg "family-2011")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Why-I-Love-New-Years-Eve_D220/family-2011_2.jpg)
+[![family-2011](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Why-I-Love-New-Years-Eve_D220/family-2011_thumb.jpg "family-2011")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Why-I-Love-New-Years-Eve_D220/family-2011_2.jpg)
 
 So yeah, New Year’s Eve totally rocks in my book.
 

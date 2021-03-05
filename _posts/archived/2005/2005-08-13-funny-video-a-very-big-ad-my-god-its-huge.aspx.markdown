@@ -4,7 +4,7 @@ tags: [humor]
 redirect_from: "/archive/2005/08/12/funny-video-a-very-big-ad-my-god-its-huge.aspx/"
 ---
 
-![](https://haacked.com/images/BigAd.jpg) Man, I’ve been so heads down
+![](https://haacked.com/assets/images/BigAd.jpg) Man, I’ve been so heads down
 busy with work lately that I haven’t had time to regale you with the
 fantastical events that have been going on around here. Tales of
 wizards, warriors, and actuarials. Seriously, kick-ass actuarials.

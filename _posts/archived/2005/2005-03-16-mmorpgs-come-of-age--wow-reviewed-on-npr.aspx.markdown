@@ -4,7 +4,7 @@ tags: [gaming]
 redirect_from: "/archive/2005/03/15/mmorpgs-come-of-age--wow-reviewed-on-npr.aspx/"
 ---
 
-![World of Warcraft](/images/WorldOfWarcraft.jpg) On my drive home today
+![World of Warcraft](/assets/images/WorldOfWarcraft.jpg) On my drive home today
 (being my last day at work. I'm now fully independent.), I was listening
 to the show "All Things Considered" on NPR. Much to my surprise there
 was a reviewer named Robert Holt who was describing his experience with

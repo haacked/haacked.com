@@ -22,7 +22,7 @@ with its own controllers and views, along with a *forums* subfolder with
 its own controllers and views, into a default project. The end result
 might look like the following screenshot (area folders highlighted).
 
-![areas-folder-structure](https://haacked.com/images/haacked_com/WindowsLiveWriter/36ef165d4ea4_ED92/areas-folder-structure_6.png "areas-folder-structure")
+![areas-folder-structure](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/36ef165d4ea4_ED92/areas-folder-structure_6.png "areas-folder-structure")
 
 Notice that these folders have their own *Views*, *Content*, and
 *Controllers* directories. This is slightly similar to a [solution

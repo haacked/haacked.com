@@ -20,12 +20,12 @@ drive, I clicked on the *View Report* button this time (I normally never
 do this out of hurriedness).
 
 ![Disk Defrag
-Dialog](https://haacked.com/images/haacked_com/WindowsLiveWriter/DefragmentThatHardDrive_D71C/DefragComplete4.png)
+Dialog](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DefragmentThatHardDrive_D71C/DefragComplete4.png)
 
 This brings up a little report dialog.
 
 ![Defrag
-Report](https://haacked.com/images/haacked_com/WindowsLiveWriter/DefragmentThatHardDrive_D71C/DefragReport4.png)
+Report](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DefragmentThatHardDrive_D71C/DefragReport4.png)
 
 And in the bottom, there is a list of files that *Disk Defragmenter*
 could not defragment.  In this case, I think the file was simply too
@@ -52,7 +52,7 @@ to a single fragment. 
 I ran *Disk Defragmenter* again and here are the results.
 
 ![Disk
-Defragmenter](https://haacked.com/images/haacked_com/WindowsLiveWriter/DefragmentThatHardDrive_D71C/DefragBeforeAndAfter14.png)
+Defragmenter](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DefragmentThatHardDrive_D71C/DefragBeforeAndAfter14.png)
 
 Keep in mind that the disk usage before this pass with the defragger
 was the usage after running *Disk Defragmenter* once.  After using
@@ -71,7 +71,7 @@ registry files along with how many clusters and fragments make up those
 files.
 
 ![Page
-Defrag](https://haacked.com/images/haacked_com/WindowsLiveWriter/DefragmentThatHardDrive_D71C/PageDefrg4.png)
+Defrag](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DefragmentThatHardDrive_D71C/PageDefrg4.png)
 
 This utility allows you to specify which files to defrag and either
 defragment them on the next reboot, or have them defragmented at every

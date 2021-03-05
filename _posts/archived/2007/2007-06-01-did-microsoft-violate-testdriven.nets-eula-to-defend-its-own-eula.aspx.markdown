@@ -4,7 +4,7 @@ tags: [legal,microsoft,community]
 redirect_from: "/archive/2007/05/31/did-microsoft-violate-testdriven.nets-eula-to-defend-its-own-eula.aspx/"
 ---
 
-![takeoff](https://haacked.com/images/haacked_com/WindowsLiveWriter/ATechnicalEvaluationofMicrosoftsCase.NET_13543/r_takeoff_1.gif)
+![takeoff](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ATechnicalEvaluationofMicrosoftsCase.NET_13543/r_takeoff_1.gif)
 
 Jamie Cansdale recently wrote about [some legal
 troubles](http://weblogs.asp.net/nunitaddin/archive/2007/05/30/microsoft-vs-testdriven-net-express.aspx "Microsoft vs TestDrivien.NET Express")

@@ -6,7 +6,7 @@ redirect_from:
   - "/archive/2004/08/18/935.aspx/"
 ---
 
-![Kill Bill Vol2](/images/killbillvol2.jpg)
+![Kill Bill Vol2](/assets/images/killbillvol2.jpg)
 
 **Kill Bill**
  We finished Kill Bill Vol 2 last night and absolutely loved the entire movie. By entire movie, I mean part 1 & 2 combined. Part 1 was a more visual feast while the second produced the story and dialogue we expect from Q. My wife puts it among her favorites, mainly because she loves any movies with "Girl Power".

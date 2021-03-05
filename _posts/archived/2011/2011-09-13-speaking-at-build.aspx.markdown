@@ -4,7 +4,7 @@ tags: [aspnet,aspnetmvc]
 redirect_from: "/archive/2011/09/12/speaking-at-build.aspx/"
 ---
 
-[![BUILD-speaker-bling](https://haacked.com/images/haacked_com/WindowsLiveWriter/Im-Speaking-at-BUILD_BE99/BUILD-speaker-bling_thumb.png "BUILD-speaker-bling")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Im-Speaking-at-BUILD_BE99/BUILD-speaker-bling_2.png)If
+[![BUILD-speaker-bling](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Im-Speaking-at-BUILD_BE99/BUILD-speaker-bling_thumb.png "BUILD-speaker-bling")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Im-Speaking-at-BUILD_BE99/BUILD-speaker-bling_2.png)If
 you’re at the BUILD conference in Anaheim, I’ll be speaking in two
 sessions on Thursday.
 
@@ -53,5 +53,5 @@ Edwards](http://damianedwards.wordpress.com/ "Damian Edwards"). 
 
 If you’re here, I hope you can make it. I’ll be giving out NuGet
 stickers at my sessions.
-![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Im-Speaking-at-BUILD_BE99/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Im-Speaking-at-BUILD_BE99/wlEmoticon-smile_2.png)
 

@@ -58,13 +58,13 @@ it in the master page.
 Now, when I visit the form, type in *1,000* into the text field, and hit
 the TAB key, I get the following behavior.
 
-![valid-range](https://haacked.com/images/haacked_com/WindowsLiveWriter/GlobalizingASP.NETMVCClientValidation_A13C/valid-range_3.png "valid-range")
+![valid-range](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GlobalizingASP.NETMVCClientValidation_A13C/valid-range_3.png "valid-range")
 
 Note that there is no validation message because in the US, *1,000 ==
 1000* and is within the range. Now let’s see what happens when I type
 *1.000*.
 
-![invalid-range](https://haacked.com/images/haacked_com/WindowsLiveWriter/GlobalizingASP.NETMVCClientValidation_A13C/invalid-range_6.png "invalid-range")
+![invalid-range](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GlobalizingASP.NETMVCClientValidation_A13C/invalid-range_6.png "invalid-range")
 
 As we can see, that’s not within the range and we get an error message.
 
@@ -149,12 +149,12 @@ form again.
 This time, *1,000* is not within the valid range because that’s
 equivalent to *1* in the es-ES locale.
 
-![invalid-range-es-ES](https://haacked.com/images/haacked_com/WindowsLiveWriter/GlobalizingASP.NETMVCClientValidation_A13C/invalid-range-es-ES_3.png "invalid-range-es-ES")
+![invalid-range-es-ES](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GlobalizingASP.NETMVCClientValidation_A13C/invalid-range-es-ES_3.png "invalid-range-es-ES")
 
 Meanwhile, *1.000* is within the valid range as that’s equivalent to
 1,000.
 
-![valid-range-es-ES](https://haacked.com/images/haacked_com/WindowsLiveWriter/GlobalizingASP.NETMVCClientValidation_A13C/valid-range-es-ES_3.png "valid-range-es-ES")
+![valid-range-es-ES](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GlobalizingASP.NETMVCClientValidation_A13C/valid-range-es-ES_3.png "valid-range-es-ES")
 
 So what are these scripts?
 

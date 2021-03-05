@@ -4,7 +4,7 @@ tags: [conferences]
 redirect_from: "/archive/2009/02/28/speaking-at-mix09.aspx/"
 ---
 
-![MIX09\_SpeakerBling\_VegasStrip\_136x186](https://haacked.com/images/haacked_com/WindowsLiveWriter/ad105f84305f_1361F/MIX09_SpeakerBling_VegasStrip_136x186_3.jpg "MIX09_SpeakerBling_VegasStrip_136x186")
+![MIX09\_SpeakerBling\_VegasStrip\_136x186](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ad105f84305f_1361F/MIX09_SpeakerBling_VegasStrip_136x186_3.jpg "MIX09_SpeakerBling_VegasStrip_136x186")
 I finally have my registration worked out and I’m officially going to
 Mix09 this year! Woohoo! Not only am I going, but I’ll be speaking at
 Mix for the first time, so be sure to come by and say hi.

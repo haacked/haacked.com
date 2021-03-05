@@ -4,7 +4,7 @@ tags: [subtext]
 redirect_from: "/archive/2006/08/11/subtext-breaks-into-the-top-15-active-projects-in-sourceforge.aspx/"
 ---
 
-![Subtext Logo](https://haacked.com/images/SubtextLogo.png) No, this is
+![Subtext Logo](https://haacked.com/assets/images/SubtextLogo.png) No, this is
 not a case of breaking and entering. With preparations for the next
 release of Subtext, apparently our SourceForge ranking has climbed up
 into the top 15. Now keep in mind this is a ranking of the most *active*

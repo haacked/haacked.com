@@ -12,5 +12,5 @@ for creating Atlas applications using the Web Application Project
 Projects over Web Site Projects.
 
 ![Atlas Web App
-Proj](https://haacked.com/images/haacked_com/WindowsLiveWriter/AtlasWebApplicationProjectTemplate_841F/VisualStudioNewProjectAtlas%5B4%5D.png)
+Proj](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/AtlasWebApplicationProjectTemplate_841F/VisualStudioNewProjectAtlas%5B4%5D.png)
 

@@ -16,7 +16,7 @@ hosting website despite the unfortunately confusing same name) whose
 mission is to “***enable the exchange of code and understanding among
 software companies and open source communities***”.
 
-![codeplex-foundation-logo](https://haacked.com/images/haacked_com/WindowsLiveWriter/IsTheCodePlexFoundationAGoodThing_7E7D/codeplex-foundation-logo_3.gif "codeplex-foundation-logo")
+![codeplex-foundation-logo](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IsTheCodePlexFoundationAGoodThing_7E7D/codeplex-foundation-logo_3.gif "codeplex-foundation-logo")
 
 This is an 501(c)(6) organization completely independent of Microsoft.
 For example, search the

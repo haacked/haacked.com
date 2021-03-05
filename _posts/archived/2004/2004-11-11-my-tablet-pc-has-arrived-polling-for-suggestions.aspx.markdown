@@ -4,7 +4,7 @@ tags: [gadgets]
 redirect_from: "/archive/2004/11/10/my-tablet-pc-has-arrived-polling-for-suggestions.aspx/"
 ---
 
-![Toshiba Portege M205](/images/Toshiba.jpg) Wohoo! And it is a thing of
+![Toshiba Portege M205](/assets/images/Toshiba.jpg) Wohoo! And it is a thing of
 beauty. Unfortunately I've been crazy busy lately so I don't have any
 pictures so you'll have to settle for this stock photo.
 

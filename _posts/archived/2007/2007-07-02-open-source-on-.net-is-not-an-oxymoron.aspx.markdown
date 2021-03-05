@@ -25,7 +25,7 @@ One rationale given is that ***it ain’t really Open Source unless the
 entire stack is Open Source***. I call this the *all or nothing* view of
 Open Source.
 
-[![the-stack](https://haacked.com/images/haacked_com/WindowsLiveWriter/OpenSourceOn.NETIsNotAnOxymoron_12D9B/the-stack_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/OpenSourceOn.NETIsNotAnOxymoron_12D9B/the-stack.jpg "The Stack")
+[![the-stack](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/OpenSourceOn.NETIsNotAnOxymoron_12D9B/the-stack_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/OpenSourceOn.NETIsNotAnOxymoron_12D9B/the-stack.jpg "The Stack")
 
 For example, one popular stack is the
 [LAMP](http://en.wikipedia.org/wiki/LAMP_%28software_bundle%29 "Wikipedia on LAMP (software bundle)")

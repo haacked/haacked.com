@@ -2,4 +2,4 @@ id: dsq-747526585
 date: 2009-03-04T17:03:21.0000000-08:00
 name: Huggy
 avatar: https://disqus.com/api/users/avatars/Huggy.jpg
-message: <p>As jowen81 implied at <br><a href="http://haacked.com/archive/2008/10/23/model-binding-to-a-list.aspx#70052" rel="nofollow noopener" title="http://haacked.com/archive/2008/10/23/model-binding-to-a-list.aspx#70052">haacked.com/.../model-binding-to-a-list.aspx#70052</a><br>DefaultModelBinder does not automatically bind the form values to EntitySet&lt;Object&gt; from Linq-to-Sql whereas it can do it on List&lt;Object&gt; collection.<br>Are there any shortcut to make this working?</p>
+message: <p>As jowen81 implied at <br><a href="https://haacked.com/archive/2008/10/23/model-binding-to-a-list.aspx#70052" rel="nofollow noopener" title="https://haacked.com/archive/2008/10/23/model-binding-to-a-list.aspx#70052">haacked.com/.../model-binding-to-a-list.aspx#70052</a><br>DefaultModelBinder does not automatically bind the form values to EntitySet&lt;Object&gt; from Linq-to-Sql whereas it can do it on List&lt;Object&gt; collection.<br>Are there any shortcut to make this working?</p>

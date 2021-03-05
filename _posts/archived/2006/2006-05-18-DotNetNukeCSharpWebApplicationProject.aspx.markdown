@@ -64,7 +64,7 @@ a challenge (and since I may decide to add a custom page for some reason
 later), I chose to create a C# project as shown in the screenshot.
 
 ![New Web Application Project
-Dialog](https://haacked.com/images/NewWebApplicationProject.gif)
+Dialog](https://haacked.com/assets/images/NewWebApplicationProject.gif)
 
 As per my usual process, I created a folder named *ExternalDependencies*
 in the project and copied all the DNN assemblies from the Installation
@@ -73,14 +73,14 @@ just the way I roll). To add those assemblies as assembly references, I
 right-clicked the project, selected *Add Reference*, and then selected
 all the assemblies in that folder.
 
-![Add Reference Dialog](https://haacked.com/images/AddDnnReferences.gif)
+![Add Reference Dialog](https://haacked.com/assets/images/AddDnnReferences.gif)
 
 The next step was to add the special `App_GlobalResources` folder to the
 project by simply right clicking on the project and selecting *Add* |
 *Add ASP.NET Folder* | *App\_GlobalResources*.
 
 ![Adding Global Resources Context
-Menu](https://haacked.com/images/AddGlobalResourcesFolder.gif)
+Menu](https://haacked.com/assets/images/AddGlobalResourcesFolder.gif)
 
 After copying the contents of *App\_GlobalResources* from the
 installation distribution into that folder, I copied all the other

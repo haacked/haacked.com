@@ -4,7 +4,7 @@ tags: [spam]
 redirect_from: "/archive/2004/03/31/a-novel-approach-to-filtering-spam.aspx/"
 ---
 
-![Spam](/images/spam.jpg) For the past few months I've been teaching
+![Spam](/assets/images/spam.jpg) For the past few months I've been teaching
 myself Longhorn programming via the PDC bits by building a better Spam
 filter. Some of the best filters will typically use an approach based on
 Bayesian probability modeling. For example, in this

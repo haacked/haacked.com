@@ -17,7 +17,7 @@ project hosting. Our main site (primarily for end users) is still at
 and I’ve hopefully updated every place it points to SourceForge to now
 point to Google Code.
 
-![Subtext-moves](https://haacked.com/images/haacked_com/WindowsLiveWriter/SubtextSwitchesToGoogleCode_A931/Subtext-moves_3.jpg "Subtext-moves")
+![Subtext-moves](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SubtextSwitchesToGoogleCode_A931/Subtext-moves_3.jpg "Subtext-moves")
 Image stolen from Simo’s blog. ;)
 
 This was a very tough decision between CodePlex and Google Code.

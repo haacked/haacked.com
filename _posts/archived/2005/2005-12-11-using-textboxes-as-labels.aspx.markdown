@@ -10,7 +10,7 @@ into less space, web designers will create a form in which the text
 inputs double as labels. For example, this is a login control I wrote
 for a recent project.
 
-![Login Control](https://haacked.com/images/LoginControl.png)
+![Login Control](https://haacked.com/assets/images/LoginControl.png)
 
 **Usability Issues:** 
  In my mind, this idea making the standard text box perform the double

@@ -4,7 +4,7 @@ tags: [interesting]
 redirect_from: "/archive/2006/02/12/ValentineIsTheDayForNoGoodLowDownDirtyCheatersToGetCaught.aspx/"
 ---
 
-![Candy Hearts](https://haacked.com/images/CandyHearts.jpg) Read this
+![Candy Hearts](https://haacked.com/assets/images/CandyHearts.jpg) Read this
 [interesting
 post](http://www.schneier.com/blog/archives/2006/02/valentines_day.html "Valentine's Day Security")
 by security expert [Bruce

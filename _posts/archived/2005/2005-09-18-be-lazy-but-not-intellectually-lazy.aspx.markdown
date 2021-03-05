@@ -4,7 +4,7 @@ tags: [commentary,excellence]
 redirect_from: "/archive/2005/09/17/be-lazy-but-not-intellectually-lazy.aspx/"
 ---
 
-![Lazy](https://haacked.com/images/HomerLazy.jpg) A while ago, [Jeff
+![Lazy](https://haacked.com/assets/images/HomerLazy.jpg) A while ago, [Jeff
 Atwood](http://www.codinghorror.com/blog/) wrote about the [merits of
 laziness](http://www.codinghorror.com/blog/archives/000373.html) for
 successful software developers. Lest this become the mantra of

@@ -4,7 +4,7 @@ tags: [politics,humor]
 redirect_from: "/archive/2004/06/29/the-collision-of-bush-and-moore.aspx/"
 ---
 
-![collision](/images/collision.jpg)[Koba](http://koba.europe.webmatrixhosting.net/)
+![collision](/assets/images/collision.jpg)[Koba](http://koba.europe.webmatrixhosting.net/)
 asks:
 
 > If Michael Moore and George W. Bush collide, will they annihilate in a

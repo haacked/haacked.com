@@ -31,7 +31,7 @@ This plugin just happens to use the Manoli code to perform syntax
 highlighting.
 
 ![Plugin
-Screenshot](https://haacked.com/images/haacked_com/WindowsLiveWriter/InsertCodeforWindowsLiveWriter_B945/image%7B0%7D%5B9%5D.png)
+Screenshot](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/InsertCodeforWindowsLiveWriter_B945/image%7B0%7D%5B9%5D.png)
 
 I recommend downloading and referencing the [CSS
 stylesheet](http://www.manoli.net/csharpformat/csharp.css "CSS Stylesheet for Csharp")

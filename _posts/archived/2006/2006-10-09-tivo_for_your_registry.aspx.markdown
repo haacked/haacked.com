@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/10/08/tivo_for_your_registry.aspx/"
 ---
 
 ![Tivo
-Icon](https://haacked.com/images/haacked_com/WindowsLiveWriter/TivoForYourRegistry_A88C/tivo%5B6%5D.jpg)
+Icon](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TivoForYourRegistry_A88C/tivo%5B6%5D.jpg)
 Ever prolific [Jon
 Galloway](http://weblogs.asp.net/jgalloway/ "Jon Galloway Blog") has
 released another tool on our [tools

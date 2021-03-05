@@ -11,7 +11,7 @@ Nations](http://www.amazon.com/gp/product/0385721706?ie=UTF8&tag=youvebeenhaac-2
 made by a crowd are generally better than those made by any single
 individual in the group.
 
-![Crowd](https://haacked.com/images/haacked_com/WindowsLiveWriter/GroupThinkVsMarketThink_F2B3/138583931_7fb78ef3a7%5B1%5D_3.jpg)
+![Crowd](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GroupThinkVsMarketThink_F2B3/138583931_7fb78ef3a7%5B1%5D_3.jpg)
 
 Seems like a lot of theoretical hogwash until you see this thesis put to
 action in the real world via a [prediction
@@ -52,7 +52,7 @@ Another colorful term used to describe it is *decision by committee*.
 These terms do not, by any means, have a positive connotation.
 
 [![Group
-Think](https://haacked.com/images/haacked_com/WindowsLiveWriter/GroupThinkVsMarketThink_F2B3/group-think_thumb.gif)](https://haacked.com/images/haacked_com/WindowsLiveWriter/GroupThinkVsMarketThink_F2B3/group-think_2.gif) 
+Think](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GroupThinkVsMarketThink_F2B3/group-think_thumb.gif)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GroupThinkVsMarketThink_F2B3/group-think_2.gif) 
 
 There seems to be a paradox here between the power of markets and the
 ineptitude of Group Think. Why do these two somewhat similar means of

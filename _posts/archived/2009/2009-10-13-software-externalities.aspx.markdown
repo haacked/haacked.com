@@ -6,7 +6,7 @@ redirect_from: "/archive/2009/10/12/software-externalities.aspx/"
 
 If you’re a manufacturing plant, one way to maximize profit is to keep costs as low as possible. One way to do that is to cut corners. Go ahead and dump that toxic waste into the river and pollute the heck out of the air with your smoke stacks. These options are much cheaper than installing smoke scrubbers or trucking waste to proper disposal sites.
 
-![pollutions](https://haacked.com/images/haacked_com/WindowsLiveWriter/SoftwareExternalities_80FB/pollutions_3.jpg "pollutions")
+![pollutions](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SoftwareExternalities_80FB/pollutions_3.jpg "pollutions")
 
 Of course, economists have long known that this does not paint the entire picture. Taking these shortcuts incur other costs, it’s just that these costs are not borne by the manufacturing plant. The term [externalities](http://en.wikipedia.org/wiki/Externality "Externalities on Wikipedia") describes such spillover costs.
 

@@ -4,7 +4,7 @@ tags: [code]
 redirect_from: "/archive/2004/12/07/craig-says-tabs-are-evil-but-i-like-them.aspx/"
 ---
 
-![Tab](/images/Tab.jpg)I chuckled to myself when I read this ["public
+![Tab](/assets/images/Tab.jpg)I chuckled to myself when I read this ["public
 service message brought to you by the Terminally Picky Developers
 Association for Readable
 Code"](http://pluralsight.com/blogs/craig/archive/2004/12/08/3775.aspx)

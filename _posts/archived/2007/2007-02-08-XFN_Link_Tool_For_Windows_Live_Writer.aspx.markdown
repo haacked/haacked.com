@@ -14,7 +14,7 @@ like Kimchi goes with Bulkogi? How about a plugin for inserting proper
 XFN hyperlinks?
 
 ![XFN
-Screenshot](https://haacked.com/images/haacked_com/WindowsLiveWriter/XFNLinkToolForWindowsLiveWriter_13AAB/o_sshot-1%5B1%5D%5B6%5D.png)
+Screenshot](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/XFNLinkToolForWindowsLiveWriter_13AAB/o_sshot-1%5B1%5D%5B6%5D.png)
 [Scott Dornan](http://geekswithblogs.net/sdorman/ "Scott Dornan") (and
 Keyvan) delivers [exactly
 that](http://geekswithblogs.net/sdorman/archive/2007/02/08/105859.aspx "Insert XFN Hyperlink Plugin")
@@ -34,5 +34,5 @@ Gallery](http://gallery.live.com/default.aspx?l=8 "Windows Live Gallery"),
 but will hopefully be there soon.
 
 In the meanwhile, we’ll have to beg for a direct download.
-![Wink](https://haacked.com/Images/emotions/smiley-wink.gif)
+![Wink](https://haacked.com/assets/images/emotions/smiley-wink.gif)
 

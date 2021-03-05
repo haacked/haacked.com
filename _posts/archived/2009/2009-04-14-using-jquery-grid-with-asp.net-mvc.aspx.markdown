@@ -33,7 +33,7 @@ download the plugin and to unzip the contents to my scripts directory
 per the [Installation
 instructions](http://www.secondpersonplural.ca/jqgriddocs/_2eb0enwgd.htm "Installation").
 
-![jquery-grid-scripts](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingjQueryGridWithASP.NETMVC_B6D6/jquery-grid-scripts_3.png "jquery-grid-scripts")
+![jquery-grid-scripts](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UsingjQueryGridWithASP.NETMVC_B6D6/jquery-grid-scripts_3.png "jquery-grid-scripts")
 
 For the purposes of this demo, I’ll just implement this using the
 `Index` controller action and view within the `HomeController`.
@@ -173,7 +173,7 @@ input**](https://haacked.com/archive/2008/07/08/user-input-in-sheep-clothing.asp
 In this example, we statically create some JSON data and use the `Json`
 helper method to return the data back to the grid and Voila! It works!
 
-![jquery-grid-demo](https://haacked.com/images/haacked_com/WindowsLiveWriter/UsingjQueryGridWithASP.NETMVC_B6D6/jquery-grid-demo_3.png "jquery-grid-demo")
+![jquery-grid-demo](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UsingjQueryGridWithASP.NETMVC_B6D6/jquery-grid-demo_3.png "jquery-grid-demo")
 
 *Yeah, this is great for a simple demo, but I use a real database to
 store my data!* Understood. It’s time to hook this up to a real

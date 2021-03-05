@@ -16,7 +16,7 @@ behavioral trait that bots have that can be exploited due to the bots
 inability to support another browser facility.
 
 ![honeypot image from
-http://www.cs.vu.nl/\~herbertb/misc/shelia/](https://haacked.com/images/haacked_com/WindowsLiveWriter/HoneypotCaptcha_14E35/honeypot_1.gif)
+http://www.cs.vu.nl/\~herbertb/misc/shelia/](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HoneypotCaptcha_14E35/honeypot_1.gif)
 You see, comment spam bots love form fields. When they encounter a form
 field, they go into a berserker frenzy (+2 to strength, +2 hp per level,
 etc...) trying to fill out each and every field. It’s like watching

@@ -4,7 +4,7 @@ tags: [aspnet,subtext]
 redirect_from: "/archive/2006/02/22/TheSubtextAlternativeToUrlRewriting.aspx/"
 ---
 
-![Fountain Pen](https://haacked.com/images/fountain_pen.jpg)For simple
+![Fountain Pen](https://haacked.com/assets/images/fountain_pen.jpg)For simple
 ASP.NET applications that do not employ URL Rewriting, stepping through
 the code that handles a request is fairly straightforward. For example,
 given a request for `http://localhost/MyProject/Page.aspx`, simply open

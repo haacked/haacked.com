@@ -4,7 +4,7 @@ tags: [news]
 redirect_from: "/archive/2004/06/02/congo-must-has-lots-of-cash.aspx/"
 ---
 
-![Congo Map](/images/Congo.jpg)Apparently I’m not the [only
+![Congo Map](/assets/images/Congo.jpg)Apparently I’m not the [only
 one](http://weblogs.asp.net/rosherove/archive/2004/06/02/146362.aspx "Congo Spam")
 who’s been contacted by the son of the late Democratic Republic of Congo
 President Laurent Desire Kabila. I’ve also been contacted by several

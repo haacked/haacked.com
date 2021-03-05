@@ -13,7 +13,7 @@ I heard that the names are related, but I haven’t confirmed it beyond a
 doubt, which seems appropriate given the title of the movie. But you
 didn’t hear that from me, deal?
 
-[![terminator3](https://haacked.com/images/haacked_com/WindowsLiveWriter/T4TemplatesinASP.NETMVC_D539/terminator3_thumb.jpg "terminator3")](https://haacked.com/images/haacked_com/WindowsLiveWriter/T4TemplatesinASP.NETMVC_D539/terminator3_2.jpg)
+[![terminator3](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/T4TemplatesinASP.NETMVC_D539/terminator3_thumb.jpg "terminator3")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/T4TemplatesinASP.NETMVC_D539/terminator3_2.jpg)
 Dude looks ready to write some code!
 
 Although they’ve been around forever, I haven’t really dived into T4

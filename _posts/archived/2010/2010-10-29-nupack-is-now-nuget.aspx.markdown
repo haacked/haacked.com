@@ -18,7 +18,7 @@ the name change:
 
 Over the next couple of days we’ll start transitioning the project over to the new name. We’ll try to minimize the impact of the change and make sure existing links to the CodePlex project redirect to the new URL. If you have a local clone of the repository with work in progress when we rename the project, don’t worry. All you have to do is push your changes to the new URL for your fork rather than the old one.
 
-Thanks for your participation and support! I’m glad to have this behind us so we can continue to focus on delivering a great product. I’ve even thought of a tagline we can use until one of you come up with a much better one. ![Winking smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing-NuGet_125B4/wlEmoticon-winkingsmile_2.png)
+Thanks for your participation and support! I’m glad to have this behind us so we can continue to focus on delivering a great product. I’ve even thought of a tagline we can use until one of you come up with a much better one. ![Winking smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Introducing-NuGet_125B4/wlEmoticon-winkingsmile_2.png)
 
 *NuGet: A new way to get libraries.*
 

@@ -13,5 +13,5 @@ Here’s a small version of the ad. See if you can find the offending
 image. Then click on the image to see the closeup.
 
 [![Dirty Coke
-Ad](https://haacked.com/images/DirtyCokeAd.jpg)](http://www.snopes.com/cokelore/poster.asp)
+Ad](https://haacked.com/assets/images/DirtyCokeAd.jpg)](http://www.snopes.com/cokelore/poster.asp)
 

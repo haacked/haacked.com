@@ -4,7 +4,7 @@ tags: [humor]
 redirect_from: "/archive/2004/10/29/AliGTranslator.aspx/"
 ---
 
-![Ali G](/images/AliG.jpg)if you've watched da show yous probably ave
+![Ali G](/assets/images/AliG.jpg)if you've watched da show yous probably ave
 wondered, ow can i attract da wicked bitches dig dat awesome omeboy? da
 secret is to learn to bang dig im? well in da house's your chance to
 learns da ons and out of ali g-speak. respek!

@@ -12,7 +12,7 @@ many cases it works out great. When you want to generate an URL, you
 grab this bag of values you have lying around, hand it to the routing
 engine, and let it sort it all out.
 
-[![nameless-routes](https://haacked.com/images/haacked_com/WindowsLiveWriter/Named-Routes-Are-A-Good-Thing_12C7A/nameless-routes_3.jpg "nameless-routes")](http://www.sxc.hu/photo/626043 "Traffic sign in London (blank) by José A. Warletta from sxc.hu")
+[![nameless-routes](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Named-Routes-Are-A-Good-Thing_12C7A/nameless-routes_3.jpg "nameless-routes")](http://www.sxc.hu/photo/626043 "Traffic sign in London (blank) by José A. Warletta from sxc.hu")
 
 For example, suppose an application has the following two routes defined
 
@@ -147,5 +147,5 @@ parameters to make it clear what the change was).
 > People's fates are simplified by their names.  \~Elias Canetti
 
 And the same goes for routing.
-![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Named-Routes-Are-A-Good-Thing_12C7A/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Named-Routes-Are-A-Good-Thing_12C7A/wlEmoticon-smile_2.png)
 

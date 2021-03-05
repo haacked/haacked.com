@@ -5,7 +5,7 @@ redirect_from: "/archive/2004/11/08/olympic-ceremonies-music.aspx/"
 ---
 
 ![Parade of the
-Athletes](https://haacked.com/images/ParadeOfTheAthletes.jpg)When the
+Athletes](https://haacked.com/assets/images/ParadeOfTheAthletes.jpg)When the
 Olympics occurred, one of my favorite DJs spun for the opening
 ceremonies. Unfortunately I missed it, but I had heard good buzz about
 his performance. Now he’s come out with a CD called "[Parade of the

@@ -4,7 +4,7 @@ tags: [humor]
 redirect_from: "/archive/2004/06/17/margaret-chos-revolution.aspx/"
 ---
 
-![Margaret Cho Revolution](/images/Margaret.jpg)We recently saw Margaret
+![Margaret Cho Revolution](/assets/images/Margaret.jpg)We recently saw Margaret
 Cho try out some new material in Claremont. I think she's absolutely
 hilarious and poignant. Some say she relies way too much on her Korean
 mother, but having a Korean mother myself, I think she's spot on with

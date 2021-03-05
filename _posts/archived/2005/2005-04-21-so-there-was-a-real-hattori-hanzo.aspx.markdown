@@ -4,7 +4,7 @@ tags: [interesting]
 redirect_from: "/archive/2005/04/20/so-there-was-a-real-hattori-hanzo.aspx/"
 ---
 
-![Hattori Hanzo](/images/hattoriHanzo.jpg) A while ago I wrote about
+![Hattori Hanzo](/assets/images/hattoriHanzo.jpg) A while ago I wrote about
 [Seppuku, Katanas, and
 Samurai](https://haacked.com/archive/2005/01/04/1813.aspx) and made a
 joking reference to Hattori Hanzo.

@@ -6,7 +6,7 @@ redirect_from: "/archive/2007/05/20/codeplex-to-roll-out-tortoisesvn-support.asp
 
 This just in. CodePlex is planning to roll out TortoiseSVN support!
 
-[![](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodePlexToRollOutTortoiseSVNSupport_CD86/codeplexworkitemdetails_thumb1.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodePlexToRollOutTortoiseSVNSupport_CD86/codeplexworkitemdetails3.png "Codeplex SVN Work Item Detail")
+[![](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CodePlexToRollOutTortoiseSVNSupport_CD86/codeplexworkitemdetails_thumb1.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CodePlexToRollOutTortoiseSVNSupport_CD86/codeplexworkitemdetails3.png "Codeplex SVN Work Item Detail")
 A little while ago I wrote a [comparison of TFS vs Subversion for Open
 Source
 projects](https://haacked.com/archive/2007/03/02/A_Comparison_of_TFS_vs_Subversion_for_Open_Source_Projects.aspx "TFS vs Subversion").

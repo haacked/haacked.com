@@ -14,7 +14,7 @@ red to put a temporary end to the gluttony. Needless to say, it took an
 extreme amount of willpower to turn that dial to red once we set it to
 green.
 
-![](https://haacked.com/images/dimsum.jpg) The next morning, Akumi and I
+![](https://haacked.com/assets/images/dimsum.jpg) The next morning, Akumi and I
 ate at a fantastic Dim Sum place, the name escapes me right now but we
 have the card somewhere.
 

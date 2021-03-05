@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2004/06/01/a-san-francisco-weekend.aspx/"
 ---
 
-![San Francisco](/images/sanFran.jpg)My car hates me. Or it should. Last
+![San Francisco](/assets/images/sanFran.jpg)My car hates me. Or it should. Last
 week I made two round trips to SD. Last Friday night, I returned from
 SD, and Akumi and I left the following Saturday morning to drive up to
 San Francisco. I used to love road trips, but after all the hours of

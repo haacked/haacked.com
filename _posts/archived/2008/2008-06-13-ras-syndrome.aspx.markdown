@@ -5,7 +5,7 @@ redirect_from: "/archive/2008/06/12/ras-syndrome.aspx/"
 ---
 
 ![Photo by lizerixt on stock.xchng
-http://www.sxc.hu/photo/1005758](https://haacked.com/images/haacked_com/WindowsLiveWriter/RASSyndrome_DA3C/bff_shadow_3.jpg "Photo by lizerixt on stock.xchng http://www.sxc.hu/photo/1005758")
+http://www.sxc.hu/photo/1005758](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/RASSyndrome_DA3C/bff_shadow_3.jpg "Photo by lizerixt on stock.xchng http://www.sxc.hu/photo/1005758")
 Yesterday, I [wrote a
 post](https://haacked.com/archive/2008/06/12/ironruby-and-asp.net-bffs-forever.aspx "IronRuby and ASP.NET")
 that contained the phrase “BFFs Forever” in the title. Commenters were

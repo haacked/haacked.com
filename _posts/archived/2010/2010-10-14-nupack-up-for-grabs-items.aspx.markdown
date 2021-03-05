@@ -43,7 +43,7 @@ So how do you find out about our Up for Grabs items? It’s really easy.
 2.  Search for “UpForGrabs” (sans quotes) as in the screenshot below.
 
 ![Searching for Up For Grabs
-Items](/images/haacked_com/WindowsLiveWriter/NuPack-Up-For-Grabs-Items_7F02/up-for-grabs_3.png "Searching for Up For Grabs Items")
+Items](/assets/images/haacked_com/WindowsLiveWriter/NuPack-Up-For-Grabs-Items_7F02/up-for-grabs_3.png "Searching for Up For Grabs Items")
 
 Once you find an item you’d like to tackle, [start a
 discussion](http://nuget.codeplex.com/discussions "Discussion") and let
@@ -59,7 +59,7 @@ on the issue tracker and add a filter with the word “UpForGrabs” and set
 the status to “Proposed”.
 
 ![NuPack - Issue Tracker - Windows Internet
-Explorer](/images/haacked_com/WindowsLiveWriter/NuPack-Up-For-Grabs-Items_7F02/NuGet-Issue-Tracker.png "NuPack - Issue Tracker - Windows Internet Explorer")
+Explorer](/assets/images/haacked_com/WindowsLiveWriter/NuPack-Up-For-Grabs-Items_7F02/NuGet-Issue-Tracker.png "NuPack - Issue Tracker - Windows Internet Explorer")
 
 Improving CodePlex.com
 ----------------------
@@ -72,5 +72,5 @@ In the meanwhile, we have a [list of
 issues](http://nuget.codeplex.com/wikipage?title=Support%20the%20Project "Help the Project")
 we’d love for you to vote up that would help us manage NuGet more
 effectively on CodePlex.com.
-![Smile](/images/haacked_com/WindowsLiveWriter/NuPack-Up-For-Grabs-Items_7F02/wlEmoticon-smile_2.png)
+![Smile](/assets/images/haacked_com/WindowsLiveWriter/NuPack-Up-For-Grabs-Items_7F02/wlEmoticon-smile_2.png)
 

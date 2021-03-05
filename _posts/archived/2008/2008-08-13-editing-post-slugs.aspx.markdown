@@ -20,18 +20,18 @@ efforts, there are cases where it falls a bit short.
 For example, suppose I started writing the following post with the
 following title:
 
-![editing-post-in-wlw](https://haacked.com/images/haacked_com/WindowsLiveWriter/Yallwilllikeitreally_895F/editing-post-in-wlw_3.png "editing-post-in-wlw")
+![editing-post-in-wlw](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Yallwilllikeitreally_895F/editing-post-in-wlw_3.png "editing-post-in-wlw")
 
 When I post it, the URL ends up being a bit ugly, though Subtext does
 give a good faith effort.
 
-![ugly-url-subtext](https://haacked.com/images/haacked_com/WindowsLiveWriter/Yallwilllikeitreally_895F/ugly-url-subtext_3.png "ugly-url-subtext")
+![ugly-url-subtext](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Yallwilllikeitreally_895F/ugly-url-subtext_3.png "ugly-url-subtext")
 
 With Windows live writer, there’s a little double hash mark at the
 bottom that you can click to expand, providing more options. In the
 *Slug:* field, enter a cleaner URL.
 
-![editing-slug-in-wlw](https://haacked.com/images/haacked_com/WindowsLiveWriter/Yallwilllikeitreally_895F/editing-slug-in-wlw_3.png "editing-slug-in-wlw")
+![editing-slug-in-wlw](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Yallwilllikeitreally_895F/editing-slug-in-wlw_3.png "editing-slug-in-wlw")
 
 Now when you publish this post, the URL will end with the slug that you
 specified.

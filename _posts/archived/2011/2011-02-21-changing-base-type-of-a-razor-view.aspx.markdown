@@ -37,7 +37,7 @@ you’d probably like to avoid adding even more extension methods to the
 `HtmlHelper` class because it’s already getting a little crowded in
 there.
 
-![html-extensions](https://haacked.com/images/haacked_com/WindowsLiveWriter/Advanced-Razor-View-Extensibility_12651/html-extensions_3.png "html-extensions")
+![html-extensions](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Advanced-Razor-View-Extensibility_12651/html-extensions_3.png "html-extensions")
 
 Well perhaps what we need is a new property we can access from within
 Razor. Well how do we do that?
@@ -134,7 +134,7 @@ Now, if we change the `pageBaseType` to `CustomWebViewPage`, we can
 recompile the application and start using the new property within our
 Razor views.
 
-![Html5Helpers](https://haacked.com/images/haacked_com/WindowsLiveWriter/Advanced-Razor-View-Extensibility_12651/Html5Helpers_3.png "Html5Helpers")
+![Html5Helpers](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Advanced-Razor-View-Extensibility_12651/Html5Helpers_3.png "Html5Helpers")
 
 Nice! We can now start using our new helpers. Note that if you try this
 and don’t see your new property in Intellisense right away, try closing

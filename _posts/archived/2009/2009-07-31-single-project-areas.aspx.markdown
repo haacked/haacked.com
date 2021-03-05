@@ -22,7 +22,7 @@ much [like I had it in my
 prototype](https://haacked.com/archive/2008/11/04/areas-in-aspnetmvc.aspx "Grouping Controllers")
 for ASP.NET MVC 1.0.
 
-![areas-folder-structure](https://haacked.com/images/haacked_com/WindowsLiveWriter/36ef165d4ea4_ED92/areas-folder-structure_6.png "areas-folder-structure")
+![areas-folder-structure](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/36ef165d4ea4_ED92/areas-folder-structure_6.png "areas-folder-structure")
 
 Well the bad news is that the areas layout I had in that prototype
 doesn’t work right out of the box. The good news is that it is very easy

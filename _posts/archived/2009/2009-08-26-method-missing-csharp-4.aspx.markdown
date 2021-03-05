@@ -142,7 +142,7 @@ Keep in mind that `Data.Message` here is equivalent to
 
 Here’s a screenshot of the end result.
 
-![dynamic-mvc](https://haacked.com/images/haacked_com/WindowsLiveWriter/FindThatMissingMethodWithC4_129E9/dynamic-mvc_3.png "dynamic-mvc")
+![dynamic-mvc](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/FindThatMissingMethodWithC4_129E9/dynamic-mvc_3.png "dynamic-mvc")
 
 Here’s how I did it. I started by writing a new `DynamicViewData `class.
 

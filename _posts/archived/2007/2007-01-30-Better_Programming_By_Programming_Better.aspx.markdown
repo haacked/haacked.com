@@ -60,7 +60,7 @@ to a person’s performance**. Exactly what the studies cited by Atwood
 support. **However, what does have an impact is effortful study**.
 
 [![Effortful
-study](https://haacked.com/images/haacked_com/WindowsLiveWriter/BetterProgrammingByProgrammingBetter_AD7E/Effortfulstudying_thumb2.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/BetterProgrammingByProgrammingBetter_AD7E/Effortfulstudying4.jpg)
+study](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BetterProgrammingByProgrammingBetter_AD7E/Effortfulstudying_thumb2.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BetterProgrammingByProgrammingBetter_AD7E/Effortfulstudying4.jpg)
 
 This makes a ton of sense to me. Typically, *experience* in any field,
 especially software development, often means solving similar problems

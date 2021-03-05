@@ -10,7 +10,7 @@ of Subtext, I thought I should talk about the new tagging and tag cloud
 feature. You can see it in action in the sidebar of my site.
 
 ![A
-Tag](https://haacked.com/images/haacked_com/WindowsLiveWriter/TaggingInSubtext_C85/atag4.jpg)
+Tag](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TaggingInSubtext_C85/atag4.jpg)
 To implement tagging, we followed the model I [wrote about
 before](https://haacked.com/archive/2006/09/27/Categories_vs_Tags.aspx "Categories vs Tags").
 Tags do not replace categories in Subtext. Instead, we adopted an

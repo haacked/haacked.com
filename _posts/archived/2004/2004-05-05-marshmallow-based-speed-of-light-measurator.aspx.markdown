@@ -4,7 +4,7 @@ tags: [science]
 redirect_from: "/archive/2004/05/04/marshmallow-based-speed-of-light-measurator.aspx/"
 ---
 
-![Marshmallow Man](/images/marshmallowman.jpg)The physics geek and
+![Marshmallow Man](/assets/images/marshmallowman.jpg)The physics geek and
 marshmallow lover in me thinks this is awesome.
 
 [How to measure the speed of light with a

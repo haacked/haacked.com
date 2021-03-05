@@ -4,7 +4,7 @@ tags: [gadgets,tech,music]
 redirect_from: "/archive/2004/06/30/sony-announces-digital-music-player.aspx/"
 ---
 
-![](/images/SonyWalkman.jpg)I need to see if my brother-in-law can hook
+![](/assets/images/SonyWalkman.jpg)I need to see if my brother-in-law can hook
 me up with one of these.
 
 > LONDON/TOKYO (Reuters) - Sony Corp. said on Thursday it is launching a

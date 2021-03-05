@@ -9,7 +9,7 @@ Albert Hammond who wrote *It Never Rains In Southern California*, not
 Kool and the Gang. Thanks [Jeff](http://www.codinghorror.com/blog/).
 
 ![Raining in Los
-angeles](https://haacked.com/images/RainingLosAngeles.jpg) It’s really a
+angeles](https://haacked.com/assets/images/RainingLosAngeles.jpg) It’s really a
 funny site to see how Angelenos [freak
 out](http://blogging.la/archives/2005/09/stormwatch.phtml) when it rains
 here.

@@ -19,7 +19,7 @@ do love this moment. The moment the fruits of your labor are delivered
 in a cardboard box and you open it up to see your name on a glossy cover
 with a speedy looking bobsled!
 
-[![mvc4-books](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NET-MVC-4-Book-Available_11824/mvc4-books_thumb.jpg "mvc4-books")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NET-MVC-4-Book-Available_11824/mvc4-books_2.jpg)
+[![mvc4-books](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NET-MVC-4-Book-Available_11824/mvc4-books_thumb.jpg "mvc4-books")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NET-MVC-4-Book-Available_11824/mvc4-books_2.jpg)
 
 But soon after the big question sets in, “what the hell am I going to do
 with all these books?!” (*I’ll bring some

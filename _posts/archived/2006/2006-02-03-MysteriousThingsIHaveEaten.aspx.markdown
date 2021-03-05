@@ -26,7 +26,7 @@ Kimchee to school back in the day.
 So I told myself I would try and acquire the taste since I was curious
 why she liked it so much. It has worked, as I now love it.
 
-![Image of Natto](https://haacked.com/images/Natto.jpg)\
+![Image of Natto](https://haacked.com/assets/images/Natto.jpg)\
  photo copyrighted by [Matt
 Wegener](http://mattw.de/japan03/ "Matt Wegener's Japan Photos Page").
 
@@ -51,7 +51,7 @@ The first time I had this I nearly gagged. But I have since learned that
 the first one I tried was not of the highest quality. When a master
 sushi chef prepares Uni, it is smooth like butter.
 
-![Uni (raw sea urchin)](https://haacked.com/images/Uni.jpg) \
+![Uni (raw sea urchin)](https://haacked.com/assets/images/Uni.jpg) \
 via Matt Wegener
 
 ## 5. Chicken Feet

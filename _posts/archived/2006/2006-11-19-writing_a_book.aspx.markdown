@@ -34,7 +34,7 @@ three of us have long talked about writing a book together, and this
 opportunity from [SitePoint](http://www.sitepoint.com/ "SitePoint") came
 along at the right time.  We just signed the contract recently and
 already I am panicking about the various deadlines.
-![Wink](https://haacked.com/Images/emotions/smiley-wink.gif)
+![Wink](https://haacked.com/assets/images/emotions/smiley-wink.gif)
 
 It’s good to get the panic and self-doubts over with early (*everyone
 will hate the book...no worse, they'll be indifferent to the book and

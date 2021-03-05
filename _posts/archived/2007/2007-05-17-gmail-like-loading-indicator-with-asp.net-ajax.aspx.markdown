@@ -12,7 +12,7 @@ CruiseControl.NET](https://haacked.com/archive/2007/04/16/vista-gadget-to-monito
 he published. He also was recently in a [video interview by
 MindBlog](http://www.mindscape.co.nz/blog/?p=28 "MindBlog"). Go Simo!
 
-![Loading...](https://haacked.com/images/haacked_com/WindowsLiveWriter/GMaillikeLoadingIndicatorwithASP.NETAjax_14097/googleWaiting45.jpg)
+![Loading...](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GMaillikeLoadingIndicatorwithASP.NETAjax_14097/googleWaiting45.jpg)
 The post that caught my eye recently is how to make a [Gmail-like
 loading indicator with ASP.NET
 Ajax](http://codeclimber.net.nz/archive/2007/05/17/How-to-make-a-Gmail-like-loading-indicator-with-ASP.NET-Ajax.aspx "GMail Like Loading Indicator").

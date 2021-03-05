@@ -4,7 +4,7 @@ tags: [tools]
 redirect_from: "/archive/2004/04/21/xearth-for-windows.aspx/"
 ---
 
-![XEarth](/images/xearth.gif) For you grizzled Unix hacks out there,
+![XEarth](/assets/images/xearth.gif) For you grizzled Unix hacks out there,
 this might be old news, but I just learned of a really neat tool that
 I'm sure will appeal to the geophysicist in each of us (or at least
 Erik).

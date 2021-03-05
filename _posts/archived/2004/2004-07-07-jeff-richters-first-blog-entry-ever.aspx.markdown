@@ -4,7 +4,7 @@ tags: [dotnet,community]
 redirect_from: "/archive/2004/07/06/jeff-richters-first-blog-entry-ever.aspx/"
 ---
 
-![Applied .NET Framework Programming](/images/AppliedFramework.jpg)The
+![Applied .NET Framework Programming](/assets/images/AppliedFramework.jpg)The
 blog you've all been waiting for, Jeff Richter is keeping a blog. Well
 actually, it's a
 **[Wintellog](http://wintellect.com/WEBLOGS/wintellect/)**!. Several

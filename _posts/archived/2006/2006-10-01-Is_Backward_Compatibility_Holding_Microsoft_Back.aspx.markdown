@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/09/30/Is_Backward_Compatibility_Holding_Microsoft_
 ---
 
 [![Atlas With The Weight Of The
-Codebase](https://haacked.com/images/haacked_com/WindowsLiveWriter/IsBackwardCompatibilityHoldingMicrosoftB_ECEC/602762_a_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/IsBackwardCompatibilityHoldingMicrosoftB_ECEC/602762_a2.jpg)
+Codebase](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IsBackwardCompatibilityHoldingMicrosoftB_ECEC/602762_a_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IsBackwardCompatibilityHoldingMicrosoftB_ECEC/602762_a2.jpg)
 I read [this article
 recently](http://www.informationweek.com/news/showArticle.jhtml?articleID=192501131&pgno=1&queryText= "Windows After Vista Demands Radical Rethinking")
 that describes the mind frying complexity of the Windows development

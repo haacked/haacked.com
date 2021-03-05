@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2007/09/10/five-years-of-good-loving.aspx/"
 ---
 
-[![Akumi-Phil-Cody](https://haacked.com/images/haacked_com/WindowsLiveWriter/FiveYearsOfMaritalBliss_1163/Akumi-Phil-Cody_thumb_1.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/FiveYearsOfMaritalBliss_1163/Akumi-Phil-Cody_1.jpg)
+[![Akumi-Phil-Cody](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/FiveYearsOfMaritalBliss_1163/Akumi-Phil-Cody_thumb_1.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/FiveYearsOfMaritalBliss_1163/Akumi-Phil-Cody_1.jpg)
 Today my wife and I celebrate our fifth anniversary of being legally
 married. If you’ve read my blog long enough, you might have seen [this
 post](https://haacked.com/archive/2005/06/14/two-years-ago.aspx "Wedding Anniversary")

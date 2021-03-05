@@ -10,7 +10,7 @@ tips](http://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation
 Well I have a twelfth tip that Scott needs to add to his list, and he’ll
 vouch for this.
 
-![rockband](https://haacked.com/images/haacked_com/WindowsLiveWriter/HotNewPresentationTip_9F48/rockband_3.jpg "rockband")
+![rockband](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HotNewPresentationTip_9F48/rockband_3.jpg "rockband")
 A couple of hours before Jeff and I gave the ASP.NET MVC presentation
 ([the video is now
 posted!](http://channel9.msdn.com/pdc2008/PC21/ "Video of my talk")), we

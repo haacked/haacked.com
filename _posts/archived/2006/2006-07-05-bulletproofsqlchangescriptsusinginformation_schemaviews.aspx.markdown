@@ -4,7 +4,7 @@ tags: [sql]
 redirect_from: "/archive/2006/07/04/bulletproofsqlchangescriptsusinginformation_schemaviews.aspx/"
 ---
 
-![Bullet](https://haacked.com/images/singlebullet.jpg) Working as a team
+![Bullet](https://haacked.com/assets/images/singlebullet.jpg) Working as a team
 against a common database schema can be a real challenge. Some teams
 prefer to have their local code connect to a centralized database, but
 this approach can create many headaches. If I make a schema change to a

@@ -2,4 +2,4 @@ id: dsq-747519731
 date: 2007-04-19T22:13:33.0000000-07:00
 name: Haacked
 avatar: https://github.com/haacked.png?size=120
-message: <p>Along with the conditional operator, I love the <a href="http://haacked.com/archive/2006/08/07/TinyTrickForViewStateBackedProperties.aspx" rel="nofollow noopener" title="trick for viewstate properties">null coalescing operator</a>.<br>MyClass instance = SomeMethod() ?? GetDefault();</p>
+message: <p>Along with the conditional operator, I love the <a href="https://haacked.com/archive/2006/08/07/TinyTrickForViewStateBackedProperties.aspx" rel="nofollow noopener" title="trick for viewstate properties">null coalescing operator</a>.<br>MyClass instance = SomeMethod() ?? GetDefault();</p>

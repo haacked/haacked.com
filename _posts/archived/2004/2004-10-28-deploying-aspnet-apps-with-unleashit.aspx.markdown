@@ -14,7 +14,7 @@ Galloway](http://weblogs.asp.net/jgalloway/) pointed the person to a
 neat deployment utility called
 [UnleashIt](http://www.eworldui.net/UnleashIt/).
 
-![UNLEASHit](/images/UnleashIt.jpg) \
+![UNLEASHit](/assets/images/UnleashIt.jpg) \
 Ready to deploy, Sir!
 
 UnleashIt provides integration with VS.NET 2003 as an add-in. You can

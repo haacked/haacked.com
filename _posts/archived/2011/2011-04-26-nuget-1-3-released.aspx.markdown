@@ -16,7 +16,7 @@ button and you’re all set. It only takes a minute and it really is that
 easy to upgrade.
 
 [![Extension
-Manager](https://haacked.com/images/haacked_com/WindowsLiveWriter/NuGet-1.3-Released_111EC/Extension%20Manager_thumb.png "Extension Manager")](https://haacked.com/images/haacked_com/WindowsLiveWriter/NuGet-1.3-Released_111EC/Extension%20Manager_2.png)
+Manager](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NuGet-1.3-Released_111EC/Extension%20Manager_thumb.png "Extension Manager")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NuGet-1.3-Released_111EC/Extension%20Manager_2.png)
 
 As always, there’s a new version of NuGet.exe corresponding with this
 release as well as a new version of the Package Explorer. If you have a
@@ -26,7 +26,7 @@ the following command:
 `NuGet.exe u`
 
 ![076583
-fg1019](https://haacked.com/images/haacked_com/WindowsLiveWriter/NuGet-1.2-Released_142C7/076583%20fg1019_3.png "076583 fg1019")
+fg1019](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NuGet-1.2-Released_142C7/076583%20fg1019_3.png "076583 fg1019")
 
 Expect a new version of Package Explorer to be released soon as well. It
 is a click once application so all you need to do is open it and it will

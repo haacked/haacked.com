@@ -5,7 +5,7 @@ redirect_from: "/archive/2008/04/07/subtext-awakens-from-its-slumber.aspx/"
 ---
 
 ![Subtext Submarine
-Logo](https://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext1.9.5Release_EEA4/subtextsubmarinelogo6.png)It’s
+Logo](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Subtext1.9.5Release_EEA4/subtextsubmarinelogo6.png)It’s
 been all quiet on the Subtext front for a while. While I think many open
 source projects face the occasional lull, Subtext was hit by a Perfect
 Storm of inactivity.
@@ -20,7 +20,7 @@ got latest from the tree excited to see what new goodness people checked
 in during my absence.
 
 [![Dsvnsubtexttrunk - TortoiseSVN Update...
-Finished!](https://haacked.com/images/haacked_com/WindowsLiveWriter/SubtextAwakensFromItsSlumber_12CC2/Dsvnsubtexttrunk%20-%20TortoiseSVN%20Update...%20Finished!_thumb_1.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SubtextAwakensFromItsSlumber_12CC2/Dsvnsubtexttrunk%20-%20TortoiseSVN%20Update...%20Finished!_4.png "original")
+Finished!](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SubtextAwakensFromItsSlumber_12CC2/Dsvnsubtexttrunk%20-%20TortoiseSVN%20Update...%20Finished!_thumb_1.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SubtextAwakensFromItsSlumber_12CC2/Dsvnsubtexttrunk%20-%20TortoiseSVN%20Update...%20Finished!_4.png "original")
 
 Ok, that’s not exactly true, but captures the spirit of the truth.
 

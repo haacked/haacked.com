@@ -6,7 +6,7 @@ redirect_from: "/archive/2007/06/18/unit-tests-web-code-without-a-web-server-usi
 
 Testing code written for the web is challenging. Especially code that makes use of the ASP.NET intrinsic objects such as the `HttpRequest` object. **My goal is to make testing such code easier**.
 
-[![Spider Web (c) FreeFoto.com](https://haacked.com/images/haacked_com/WindowsLiveWriter/WriteUnitTestsForTheWebWithoutAWebServer_13D45/01_17_8---Spiders-Web_web_1.jpg)](http://www.freefoto.com/preview/01-17-8?ffid=01-17-8 "Spider Web (c) FreeFoto.com")
+[![Spider Web (c) FreeFoto.com](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WriteUnitTestsForTheWebWithoutAWebServer_13D45/01_17_8---Spiders-Web_web_1.jpg)](http://www.freefoto.com/preview/01-17-8?ffid=01-17-8 "Spider Web (c) FreeFoto.com")
 
 A while ago, I wrote some code to [simulate the `HttpContext`](https://haacked.com/archive/2005/06/11/simulating_httpcontext.aspx/ "Simulate HttpContext for Unit Tests Without Using Cassini nor IIS") in order to make writing such unit tests easier. My goal wasn’t to replace web testing frameworks such as [Selenium](http://www.openqa.org/selenium/ "Selenium Web Testing Tool"), [Watin](http://watin.sourceforge.net/ "Watin"), or [AspUnit](http://aspunit.sourceforge.net/ "AspUnit"). Instead, I’m a fan of the [Pareto principle](http://en.wikipedia.org/wiki/Pareto_principle "Pareto Principle on Wikipedia")
 and I hoped to help people easily reach the 80 of the 80/20 rule before reaching out to one of these tools to cover the last mile.

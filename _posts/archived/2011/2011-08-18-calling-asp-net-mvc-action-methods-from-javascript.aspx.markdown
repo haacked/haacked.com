@@ -207,7 +207,7 @@ The code results in the alert pop up. This proves I posted a comic book
 to the server from JavaScript.
 
 ![Message from webpage
-(2)](https://haacked.com/images/haacked_com/WindowsLiveWriter/Calling-Action-Methods-Using-Icing.Ajax_95C2/Message%20from%20webpage%20(2)_3.png "Message from webpage (2)")
+(2)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Calling-Action-Methods-Using-Icing.Ajax_95C2/Message%20from%20webpage%20(2)_3.png "Message from webpage (2)")
 
 Get the codez!
 --------------

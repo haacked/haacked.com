@@ -12,7 +12,7 @@ being done is the manafacturing of hyperbole by the marketing team.
 
 But I digress...
 
-![Release Party](https://haacked.com/images/ReleaseParty.jpg) The other
+![Release Party](https://haacked.com/assets/images/ReleaseParty.jpg) The other
 thing a product team does when they release is throw a release party!
 With an open source project with no funding, that is a bit more of a
 challenge. The party sort of gives double meaning to the word “release”.
@@ -25,7 +25,7 @@ drug. Instead, I feel foreboding, anxiety, and fear.
 
 Yes fear.
 
-![Bug in the system](https://haacked.com/images/Beetle.jpg) The fear that
+![Bug in the system](https://haacked.com/assets/images/Beetle.jpg) The fear that
 there we left something important out. The fear that there is yet some
 hidden but treacherous bug left in the code that will jump out at the
 wrong moment and eat the first born child of a user (or it might run
@@ -42,7 +42,7 @@ tests). As with any product, there will definitely be a few bugs that
 get uncovered, but they aren’t likely to eat anybody’s kids.
 
 [![Earth from
-Space](https://haacked.com/images/PlanetEarth.jpg)](http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=4573)
+Space](https://haacked.com/assets/images/PlanetEarth.jpg)](http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=4573)
 Secondly is the great team of developers from all over the world that
 participated in getting this first release out there. It is nice to know
 that when I hit the sack for some shuteye, somebody in Italy, Turkey,

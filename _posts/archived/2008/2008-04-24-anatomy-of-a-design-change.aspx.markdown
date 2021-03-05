@@ -5,7 +5,7 @@ redirect_from: "/archive/2008/04/23/anatomy-of-a-design-change.aspx/"
 ---
 
 File this one away for the next time your boss comes in and
-asks,[![lumberg[1]](https://haacked.com/images/haacked_com/WindowsLiveWriter/AnatomyofaDesignChange_7EB2/lumberg%5B1%5D_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/AnatomyofaDesignChange_7EB2/lumberg%5B1%5D_2.jpg)
+asks,[![lumberg[1]](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/AnatomyofaDesignChange_7EB2/lumberg%5B1%5D_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/AnatomyofaDesignChange_7EB2/lumberg%5B1%5D_2.jpg)
 
 > Yeaaah, I’m going to need you to make that little change to the code.
 > It’ll only take you a couple hours, right?

@@ -12,7 +12,7 @@ the heart of Texas**!
 Hold onto your ten gallon hats, I’m visiting Texas for the first time!
 I’m very excited to visit the *second* largest state in the union. ;)
 
-[![austin](https://haacked.com/images/haacked_com/WindowsLiveWriter/HeadedToAustinandSpeakinga.NETUsersGroup_12E13/austin_3.jpg "austin")](http://www.flickr.com/photos/shanepope/2661195611/ "Austin, Texas from Lady Bird Lake by Shane Pope - CC licensed")
+[![austin](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HeadedToAustinandSpeakinga.NETUsersGroup_12E13/austin_3.jpg "austin")](http://www.flickr.com/photos/shanepope/2661195611/ "Austin, Texas from Lady Bird Lake by Shane Pope - CC licensed")
 The purpose of my trip is to meet with some developers at Dell doing
 interesting things and to give a talk there as well.
 

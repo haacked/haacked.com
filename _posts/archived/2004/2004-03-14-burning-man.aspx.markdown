@@ -4,7 +4,7 @@ tags: [burningman]
 redirect_from: "/archive/2004/03/13/burning-man.aspx/"
 ---
 
-![](/images/burningman.jpg)I can almost smell the smoky embers. Burning
+![](/assets/images/burningman.jpg)I can almost smell the smoky embers. Burning
 Man tickets have already gone on sale. I tried to buy them in the mad
 rush when they first came online at a discounted price to no avail.
 Their servers basically decided to go on a vacation with the overload of

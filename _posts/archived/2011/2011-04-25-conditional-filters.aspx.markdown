@@ -14,7 +14,7 @@ Currently, it takes a bit of work to do this. If you add a filter to the
 the previous scenario would mean you already need to be authorized to
 login. Now *that* is security you can trust!
 
-[![security](https://haacked.com/images/haacked_com/WindowsLiveWriter/Conditional-Filters-in-ASP.NET-MVC-3_BBA7/security_3.jpg "security")](http://www.sxc.hu/photo/1339522h "Chained door by linder6850 from sxc.hu.")
+[![security](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Conditional-Filters-in-ASP.NET-MVC-3_BBA7/security_3.jpg "security")](http://www.sxc.hu/photo/1339522h "Chained door by linder6850 from sxc.hu.")
 
 You can also manually add the filter attribute to every controller
 and/or action method except one. This solution is a potential bug magnet

@@ -2,4 +2,4 @@ id: dsq-747528561
 date: 2011-06-02T04:15:46.0000000-07:00
 name: Daniel
 avatar: https://disqus.com/api/users/avatars/Daniel.jpg
-message: <p>I tried your demo. I'm logged in the demo application but when I try to simulate the attack using the <a href="http://haacked.com/demos/csrf-webform.html" rel="nofollow noopener" title="http://haacked.com/demos/csrf-webform.html">http://haacked.com/demos/csrf-webform.html</a> link I'm redirected to the login page. I don't know what I'm doing wrong... <br>Of course, the code for preventing CSRF is still commented.</p>
+message: <p>I tried your demo. I'm logged in the demo application but when I try to simulate the attack using the <a href="https://haacked.com/demos/csrf-webform.html" rel="nofollow noopener" title="https://haacked.com/demos/csrf-webform.html">https://haacked.com/demos/csrf-webform.html</a> link I'm redirected to the login page. I don't know what I'm doing wrong... <br>Of course, the code for preventing CSRF is still commented.</p>

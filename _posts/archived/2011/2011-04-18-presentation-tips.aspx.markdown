@@ -9,7 +9,7 @@ developers, my peers, and give presentations on the technologies that my
 team and I build. I’m very fortunate to be able to do so, especially
 given the intense stage fright I used to have.
 
-![phil-mvc-talk](https://haacked.com/images/haacked_com/WindowsLiveWriter/Presentation-Tips-Learned-From-My-Mistak_D766/phil-mvc-talk_3.png "phil-mvc-talk")
+![phil-mvc-talk](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Presentation-Tips-Learned-From-My-Mistak_D766/phil-mvc-talk_3.png "phil-mvc-talk")
 
 But over time, through giving multiple presentations, the stage fright
 has subsided to mere abject horror levels. Even so, I’m still nowhere
@@ -165,7 +165,7 @@ The following screenshot depicts a page of chicken scratch from Scott
 Hanselman’s notebook where we planned out the general outline of our
 talk.
 
-[![IMG\_1165](https://haacked.com/images/haacked_com/WindowsLiveWriter/Presentation-Tips-Learned-From-My-Mistak_D766/IMG_1165_thumb.jpg "IMG_1165")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Presentation-Tips-Learned-From-My-Mistak_D766/IMG_1165.jpg)
+[![IMG\_1165](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Presentation-Tips-Learned-From-My-Mistak_D766/IMG_1165_thumb.jpg "IMG_1165")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Presentation-Tips-Learned-From-My-Mistak_D766/IMG_1165.jpg)
 
 I took these notes, typed them up into an orderly outline, and printed
 out a simple script that we referred to during the talk to make sure we

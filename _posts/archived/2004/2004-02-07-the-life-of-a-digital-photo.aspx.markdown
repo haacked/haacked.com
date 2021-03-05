@@ -24,7 +24,7 @@ I'm quite happy with, though it doesn't have image recognition (nobody
 really does just yet) and won't fix my bad hair (a lost cause).
 
 However, this new memo from Microsoft Research
-![](/images/MicrosoftResearch.GIF) describes several advances that
+![](/assets/images/MicrosoftResearch.GIF) describes several advances that
 Microsoft is working on that will make their way into future products.
 Examples include image recognition, improved ability to fix red-eye and
 cut people from one photo and paste into another. One neat feature that

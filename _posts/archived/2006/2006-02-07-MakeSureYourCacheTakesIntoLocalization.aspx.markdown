@@ -33,7 +33,7 @@ Request.UserLanguages[0] + "'", nse);
 
 Such a simple snippet of code, yet it introduced a couple of bugs, both which can be seen in this screen capture that [Jayson Knight](http://jaysonknight.com/blog/ "Jayson Knight's Blog") kindly sent me.
 
-![Archive Links](https://haacked.com/images/AchiveLinksCapture.Jpg)
+![Archive Links](https://haacked.com/assets/images/AchiveLinksCapture.Jpg)
 
 The first error, the fact that you see the same month over and over, has
 been fixed in our codebase, but I have yet to deploy it to my blog. That

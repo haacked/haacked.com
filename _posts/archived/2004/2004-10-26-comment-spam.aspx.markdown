@@ -4,7 +4,7 @@ tags: [rss]
 redirect_from: "/archive/2004/10/25/comment-spam.aspx/"
 ---
 
-![Spam](/images/Spam.jpg) [Adam](http://www.adamkinney.com/) tells me he
+![Spam](/assets/images/Spam.jpg) [Adam](http://www.adamkinney.com/) tells me he
 doesn't support comments nor the
 [CommentAPI](http://wellformedweb.org/story/9 "CommentAPI") because he
 doesn't want to deal with comment spam. So the day after admonishing him

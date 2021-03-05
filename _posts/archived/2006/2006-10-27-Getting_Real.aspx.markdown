@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/10/26/Getting_Real.aspx/"
 ---
 
 ![Getting
-Real](https://haacked.com/images/haacked_com/WindowsLiveWriter/GettingReal_9AD6/GettingRealblackbook%5B4%5D.gif)
+Real](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GettingReal_9AD6/GettingRealblackbook%5B4%5D.gif)
 Now that [37signals](http://37signals.com/ "37signals") have put their
 book **[Getting Real online for
 free](http://gettingreal.37signals.com/toc.php "Getting Real the Book"),

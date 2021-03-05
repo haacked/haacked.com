@@ -50,7 +50,7 @@ means the method is accessible by anything that can access the
 method.
 
 [![A Donkey Named Lester - Creative Commons By Attribution -
-ninjapoodles](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatDoesProtectedInternalMean_1354B/donkey-named-lester_3.jpg)](http://www.flickr.com/photos/ninjapoodles/136704951/ "A Donkey Named Lester - Creative Commons By Attribution - ninjapoodles")As
+ninjapoodles](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatDoesProtectedInternalMean_1354B/donkey-named-lester_3.jpg)](http://www.flickr.com/photos/ninjapoodles/136704951/ "A Donkey Named Lester - Creative Commons By Attribution - ninjapoodles")As
 the old saying goes, when you assume, you make an *ass* out of *u* and
 *me*. I never understood this saying because when I assume, I only make
 an ass of me. I really think the word should simply be **assme**. As

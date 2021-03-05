@@ -24,7 +24,7 @@ method or class and hit CTRL+Q, it will show a window with a more
 readable version of your XML comments. The following image demonstrates
 the feature.
 
-![](https://haacked.com/images/resharper_docExample.png)
+![](https://haacked.com/assets/images/resharper_docExample.png)
 
 I am very happy to find this, but only because I can’t get QuickDoc to
 work. Quickdoc is **far better** in how it renders the documentation in

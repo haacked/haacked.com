@@ -11,7 +11,7 @@ sign](https://haacked.com/archive/2004/08/30/987.aspx),
 end Bush tag](http://www.tshirthell.com/shirts/tshirt.php?sku=a335)
 (seen below).
 
-![End Bush T-Shirt](/images/bushTshirt.gif)
+![End Bush T-Shirt](/assets/images/bushTshirt.gif)
 
 Tell them Haacked sent ya (not that I know those people).
 

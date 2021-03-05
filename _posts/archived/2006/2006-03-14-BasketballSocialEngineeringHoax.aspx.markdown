@@ -16,7 +16,7 @@ field](http://rangelife.typepad.com/rangelife/2006/03/victoria_not_vi.html "Crue
 
 Here is a shot of Pruitt as he realizes he’s been owned.
 
-![Gabe Pruitt](https://haacked.com/images/GabePruitt.jpg)
+![Gabe Pruitt](https://haacked.com/assets/images/GabePruitt.jpg)
 
 I feel for the guy.
 

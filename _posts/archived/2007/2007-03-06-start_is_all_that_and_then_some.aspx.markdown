@@ -44,7 +44,7 @@ commands I need with elevated privileges.
 *Click for larger image.*
 
 [![Start++
-Menu](https://haacked.com/images/haacked_com/WindowsLiveWriter/StartIsAllThatAndThenSome_ABF8/Start++_thumb%5B3%5D.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/StartIsAllThatAndThenSome_ABF8/Start++%5B5%5D.png)
+Menu](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/StartIsAllThatAndThenSome_ABF8/Start++_thumb%5B3%5D.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/StartIsAllThatAndThenSome_ABF8/Start++%5B5%5D.png)
 
 Notice you can check the *Run elevated* checkbox for any command. Yes, I
 get the UAC prompt (Yes, I still have that sucker on), but that’s not

@@ -22,13 +22,13 @@ years](http://www.alexa.com/data/details/traffic_details?site0=haacked.com&site1
 (click on the chart to see the actual report page).
 
 [![Alexa Graph of Haacked.com over 3
-years](https://haacked.com/images/haacked_com/WindowsLiveWriter/StateOfMyBlogReport_DC08/haackedcomalexa3year5.png)](http://www.alexa.com/data/details/traffic_details?site0=haacked.com&site1=&site2=&site3=&site4=&y=r&z=1&h=300&w=540&range=3y&size=Medium&url=haacked.com "Haacked.com traffic over 3 years")
+years](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/StateOfMyBlogReport_DC08/haackedcomalexa3year5.png)](http://www.alexa.com/data/details/traffic_details?site0=haacked.com&site1=&site2=&site3=&site4=&y=r&z=1&h=300&w=540&range=3y&size=Medium&url=haacked.com "Haacked.com traffic over 3 years")
 
 But lest I let that go to my head, let’s compare my site’s reach with my
 friend [Jeff’s](http://codinghorror.com/ "Jeff Atwood’s Blog") using
 Alexa’s comparison tool.
 
-[![](https://haacked.com/images/haacked_com/WindowsLiveWriter/StateOfMyBlogReport_DC08/codinghorrovshaackedcomalexa5.png)](http://www.alexa.com/data/details/traffic_details?site0=haacked.com&site1=codinghorror.com&site2=&site3=&site4=&y=r&z=1&h=300&w=540&range=3y&size=Medium&url=haacked.com "Haacked.com vs CodingHorror.com")
+[![](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/StateOfMyBlogReport_DC08/codinghorrovshaackedcomalexa5.png)](http://www.alexa.com/data/details/traffic_details?site0=haacked.com&site1=codinghorror.com&site2=&site3=&site4=&y=r&z=1&h=300&w=540&range=3y&size=Medium&url=haacked.com "Haacked.com vs CodingHorror.com")
 
 Hmmm, it may be high time I contrive my own crowd pleaser [FizzBuzz
 post](http://www.codinghorror.com/blog/archives/000781.html "FizzBuzz").
@@ -37,7 +37,7 @@ Moving on, let’s see what [Technorati has to
 say](http://technorati.com/search/haacked.com "Technorati Search for Haacked.com").
 
 [![Haacked.com on Technorati - Rank 6358 (1276 links from 473
-blogs)](https://haacked.com/images/haacked_com/WindowsLiveWriter/StateOfMyBlogReport_DC08/technoratihaacked5.png)](http://technorati.com/search/haacked.com)
+blogs)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/StateOfMyBlogReport_DC08/technoratihaacked5.png)](http://technorati.com/search/haacked.com)
 
 Wow. 6358 is a big number! That’s good right? Oh, maybe not. But we can
 see that 473 blogs have provided 1276 links to my blog. I should hit
@@ -46,13 +46,13 @@ these suckers up for a loan!
 Let’s swing over to see what Feedburner says:
 
 ![Subscribers: 3,339. Site Visitors:
-1,334](https://haacked.com/images/haacked_com/WindowsLiveWriter/StateOfMyBlogReport_DC08/haackedfeedburner4.png)
+1,334](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/StateOfMyBlogReport_DC08/haackedfeedburner4.png)
 
 It’d be nice to have just one score to look at. Let’s swing over to the
 [Website Grader](http://www.websitegrader.com/ "Website Grader").
 
 [![Website Grade: 97/100 Page Rank:
-6](https://haacked.com/images/haacked_com/WindowsLiveWriter/StateOfMyBlogReport_DC08/websitegrade10.png)](http://www.websitegrader.com/DesktopModules/Ingeni-WebsiteGrader/Reports/haacked.com.html)
+6](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/StateOfMyBlogReport_DC08/websitegrade10.png)](http://www.websitegrader.com/DesktopModules/Ingeni-WebsiteGrader/Reports/haacked.com.html)
 
 I could have saved some time by just going here first. *Hey Ma! I got an
 A! Can I leave the cage?*

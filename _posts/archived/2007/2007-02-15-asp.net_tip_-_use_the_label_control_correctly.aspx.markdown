@@ -23,7 +23,7 @@ input. For example, check out this screenshot of a text label and
 textbox.
 
 ![Textbox control and
-label](https://haacked.com/images/haacked_com/WindowsLiveWriter/UseTheLabelControlCorrectly_B044/TextBoxAndLabel_thumb2.png)
+label](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UseTheLabelControlCorrectly_B044/TextBoxAndLabel_thumb2.png)
 
 Let’s look at one way to create this simple form using a `Literal`
 control (*Notice I’m getting the value from a Resource file because we

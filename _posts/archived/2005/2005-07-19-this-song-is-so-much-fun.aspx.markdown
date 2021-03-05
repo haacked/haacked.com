@@ -5,7 +5,7 @@ redirect_from: "/archive/2005/07/18/this-song-is-so-much-fun.aspx/"
 ---
 
 [![James
-Lavelle](https://haacked.com/images/FabricLive.jpg)](http://www.amazon.com/exec/obidos/ASIN/B00005S6P9/youvebeenhaac-20?creative=327641&camp=14573&link_code=as1)
+Lavelle](https://haacked.com/assets/images/FabricLive.jpg)](http://www.amazon.com/exec/obidos/ASIN/B00005S6P9/youvebeenhaac-20?creative=327641&camp=14573&link_code=as1)
 
 I’ve been pretty head down lately with work. But I just had to take a short break to blog this sweet funky song. The refrain is too catchy. You can click on the image to the right to sample the CD at Amazon.
 

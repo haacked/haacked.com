@@ -2,4 +2,4 @@ id: dsq-747513157
 date: 2005-10-13T14:39:00.0000000-07:00
 name: Marcus Lenngren
 avatar: https://disqus.com/api/users/avatars/Marcus Lenngren.jpg
-message: '<p>Hello Doc, I think this post broke the validation of your feed. Neither FireFox or MagepieRSS can parse it.<br><br><br><br>XML Parsing Error: not well-formed<br><br>Location: <a href="http://haacked.com/Rss.aspx" rel="nofollow noopener" title="http://haacked.com/Rss.aspx">http://haacked.com/Rss.aspx</a><br><br>Line Number 72, Column 46:MSTSC      [&lt;connection file=""&gt;] [/v:&lt;server[:port]&gt;] [/console] [/f[ullscreen]] <br><br><br><br>-m</p>'
+message: '<p>Hello Doc, I think this post broke the validation of your feed. Neither FireFox or MagepieRSS can parse it.<br><br><br><br>XML Parsing Error: not well-formed<br><br>Location: <a href="https://haacked.com/Rss.aspx" rel="nofollow noopener" title="https://haacked.com/Rss.aspx">https://haacked.com/Rss.aspx</a><br><br>Line Number 72, Column 46:MSTSC      [&lt;connection file=""&gt;] [/v:&lt;server[:port]&gt;] [/console] [/f[ullscreen]] <br><br><br><br>-m</p>'

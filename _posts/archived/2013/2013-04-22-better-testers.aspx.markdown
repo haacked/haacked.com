@@ -22,7 +22,7 @@ At almost every position I’ve been at, developers treated testers like second 
 Not every tester mind you. There were always standouts. But I can’t tell you how many times developers would joke that testers are just wannabe developers who didn’t make the cut. The general attitude was that you could replace these folks with [Amazon’s Mechanical
 Turk](https://www.mturk.com/mturk/welcome) and not know the difference.
 
-[![mechanical turk](https://haacked.com/images/haacked_com/WindowsLiveWriter/BetterTesters_105E3/mechanical-turk_thumb.jpg "mechanical turk")](https://haacked.com/images/haacked_com/WindowsLiveWriter/BetterTesters_105E3/mechanical-turk_2.jpg)*[Mechanical Turk](http://en.wikipedia.org/wiki/File:Tuerkischer_schachspieler_racknitz3.jpg "Mechanical Turk")
+[![mechanical turk](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BetterTesters_105E3/mechanical-turk_thumb.jpg "mechanical turk")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BetterTesters_105E3/mechanical-turk_2.jpg)*[Mechanical Turk](http://en.wikipedia.org/wiki/File:Tuerkischer_schachspieler_racknitz3.jpg "Mechanical Turk")
 from Wikimedia Commons. Public Domain image.*
 
 And in some cases, it was true. At Microsoft, for example, it’s easier to be hired as a tester than as a developer. And once your foot is in the door, you can eventually make that transition to developer if you’re half way decent.

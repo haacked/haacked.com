@@ -31,7 +31,7 @@ deserves its own name. Let’s call it the “LoD Dot Counting Law”:
 > longer, the probability that someone claims a Law of Demeter violation
 > approaches 1.
 
-[![dippindots](https://haacked.com/images/haacked_com/WindowsLiveWriter/dc0335001dbb_9404/dippindots_3.jpg "dippindots")](http://www.flickr.com/photos/acme/2571866655/ "Count the dots and win a prize! By acme on Flickr - CC By Attribution")
+[![dippindots](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/dc0335001dbb_9404/dippindots_3.jpg "dippindots")](http://www.flickr.com/photos/acme/2571866655/ "Count the dots and win a prize! By acme on Flickr - CC By Attribution")
 *Count the dots and win a prize!*
 
 What is wrong with the claim that the above expression violates LoD? To
@@ -261,7 +261,7 @@ Indicators](http://www.cs.umd.edu/users/basili/publications/journals/J62.pdf "Pa
 the authors of the study provide evidence that suggests The Law of
 Demeter reduces the probability of software faults.
 
-![the-count](https://haacked.com/images/haacked_com/WindowsLiveWriter/dc0335001dbb_9404/the-count_3.jpg "the-count")
+![the-count](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/dc0335001dbb_9404/the-count_3.jpg "the-count")
 Still, I would hope that those who apply it don’t do it blindly by
 counting dots. Dot counting can help you find where to look for
 violations, but always keep in mind that the end goal is reducing

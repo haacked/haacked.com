@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/09/19/The_Medicis_The_Music_Industry_And_Open_Sour
 ---
 
 [![From Wikipedia:
-http://en.wikipedia.org/wiki/Medici](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheMedicisTheMusicIndustryAndOpenSourceS_D54E/350pxGozzoli_magi_thumb3.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheMedicisTheMusicIndustryAndOpenSourceS_D54E/350pxGozzoli_magi5.jpg)
+http://en.wikipedia.org/wiki/Medici](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheMedicisTheMusicIndustryAndOpenSourceS_D54E/350pxGozzoli_magi_thumb3.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheMedicisTheMusicIndustryAndOpenSourceS_D54E/350pxGozzoli_magi5.jpg)
 
 You’re a struggling young 15th century composer (*because who lived to
 be old back then?*) in Europe struggling to make ends meet while trying

@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/09/14/A_Few_Questions_For_Subtext_Users.aspx/"
 ---
 
 ![Subtext
-Logo](https://haacked.com/images/haacked_com/WindowsLiveWriter/AFewQuestionsForSubtextUsers_194/SubtextLogo6.png)
+Logo](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/AFewQuestionsForSubtextUsers_194/SubtextLogo6.png)
 If you are using Subtext, or are using .TEXT and plan to use Subtext I
 need to ask you a few questions.  Please answer as your answers may
 determine whether or not some features are **removed** for the sake of

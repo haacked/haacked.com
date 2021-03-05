@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/12/07/look_both_ways_before_you_lock.aspx/"
 ---
 
 [![Green Light from
-http://www.sxc.hu/photo/669003](https://haacked.com/images/haacked_com/WindowsLiveWriter/LookBothWaysBeforeYouLock_15150/669003_green_traffic_light_thumb1.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/LookBothWaysBeforeYouLock_15150/669003_green_traffic_light3.jpg "Traffic Light")Google
+http://www.sxc.hu/photo/669003](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/LookBothWaysBeforeYouLock_15150/669003_green_traffic_light_thumb1.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/LookBothWaysBeforeYouLock_15150/669003_green_traffic_light3.jpg "Traffic Light")Google
 Code Search is truly the search engine for the uber geek, and
 potentially a great source of sublime code and sublime comments.  [K.
 Scott Allen](http://odetocode.com/Blogs/scott/ "OdeToCode"), aka Mr.

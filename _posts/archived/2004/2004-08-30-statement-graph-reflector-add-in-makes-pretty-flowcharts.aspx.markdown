@@ -11,5 +11,5 @@ soon. It generates a statement graph from the body of a method. It's a
 nice way to produce a flowchart and visualize the "flow" of execution
 within a method. See an example below:
 
-![Flowchart](/images/flow.gif)
+![Flowchart](/assets/images/flow.gif)
 

@@ -36,7 +36,7 @@ checked (IE 8, FF3, Google Chrome) all honor this markup and render the
 following.
 
 ![funky
-comment](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheLandmineofParsingHTMLandStrippingHTML_E73B/funky-comment_3.png "funky comment")
+comment](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheLandmineofParsingHTMLandStrippingHTML_E73B/funky-comment_3.png "funky comment")
 
 Notice that when I put the mouse over “Test 1” and the browser rendered
 the value of the *title* attribute as a tooltip. That’s not even the
@@ -49,7 +49,7 @@ attribute value. Ugly!
 
 Still, the browsers dutifully render it:
 
-![funkier-comment](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheLandmineofParsingHTMLandStrippingHTML_E73B/funkier-comment_3.png "funkier-comment") 
+![funkier-comment](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheLandmineofParsingHTMLandStrippingHTML_E73B/funkier-comment_3.png "funkier-comment") 
 
 At this point, It might seem like I’m spending too much time worrying
 about crazy edge cases, which is probably true. Should I simply strip

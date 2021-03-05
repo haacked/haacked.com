@@ -4,7 +4,7 @@ tags: [aspnetmvc]
 redirect_from: "/archive/2009/03/17/aspnet-mvc-rtw.aspx/"
 ---
 
-![newdotnetlogo\_2\_thumb](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC1.0Released_D6B8/newdotnetlogo_2_thumb_3.png "newdotnetlogo_2_thumb")
+![newdotnetlogo\_2\_thumb](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NETMVC1.0Released_D6B8/newdotnetlogo_2_thumb_3.png "newdotnetlogo_2_thumb")
 Today I’m happy to write that ASP.NET MVC 1.0 RTW (Release To Web) is
 [**now officially
 released**](http://go.microsoft.com/fwlink/?LinkId=144444 "ASP.NET MVC 1.0 Download Details Page").

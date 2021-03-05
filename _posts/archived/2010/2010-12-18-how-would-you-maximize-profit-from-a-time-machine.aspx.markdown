@@ -9,7 +9,7 @@ wish they could take back. During our regular status meetings, I
 sometimes make the mistake of saying something like “if I could go back
 in time, I’d tell myself not to make that decision.”
 
-![flux-capacitor](https://haacked.com/images/haacked_com/WindowsLiveWriter/How-Would-You-Maximize-Profit-From-A-Tim_BDA7/flux-capacitor_3.jpg "flux-capacitor")
+![flux-capacitor](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/How-Would-You-Maximize-Profit-From-A-Tim_BDA7/flux-capacitor_3.jpg "flux-capacitor")
 
 *Image from [the
 greenhead](http://www.thegreenhead.com/2007/12/back-to-the-future-flux-capacitor-replica.php "The GreenHead website").*

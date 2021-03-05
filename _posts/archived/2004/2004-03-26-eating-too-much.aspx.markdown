@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2004/03/25/eating-too-much.aspx/"
 ---
 
-![](/images/pig.jpg)Don't you hate it when you momentarily lose all
+![](/assets/images/pig.jpg)Don't you hate it when you momentarily lose all
 control and pig out like a death row inmate on his last meal? I need to
 exhibit more self control during those “all you can eat” moments,
 because I am so uncomfortable right now.

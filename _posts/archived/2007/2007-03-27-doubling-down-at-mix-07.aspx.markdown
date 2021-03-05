@@ -5,7 +5,7 @@ redirect_from: "/archive/2007/03/26/doubling-down-at-mix-07.aspx/"
 ---
 
 You’ve been
-H![AAA](https://haacked.com/images/haacked_com/WindowsLiveWriter/DoublingDownAtMix07_10E98/fun_cards%5B5%5D.jpg)
+H![AAA](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DoublingDownAtMix07_10E98/fun_cards%5B5%5D.jpg)
 CKED will be well represented at [Mix
 07](http://visitmix.com/ "Mix 07 website") this year. I thoroughly
 enjoyed Mix 06 last year and think 07 has the potential to be even

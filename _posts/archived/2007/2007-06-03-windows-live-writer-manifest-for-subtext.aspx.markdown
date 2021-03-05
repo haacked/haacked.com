@@ -5,7 +5,7 @@ redirect_from: "/archive/2007/06/02/windows-live-writer-manifest-for-subtext.asp
 ---
 
 ![Panel
-View](https://haacked.com/images/haacked_com/WindowsLiveWriter/WindowsLiveWriterManifestForSubtext_DE77/wlmPanel_1_1.png)
+View](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WindowsLiveWriterManifestForSubtext_DE77/wlmPanel_1_1.png)
 Microsoft recently released [Windows Live Writer Beta
 2](http://writer.live.com/ "Windows Live Writer"), the long awaited next
 version of their blog editing tool. Although there are a *[few

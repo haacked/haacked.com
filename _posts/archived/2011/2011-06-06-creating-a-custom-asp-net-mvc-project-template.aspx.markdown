@@ -53,7 +53,7 @@ I then renamed it to *MyProjectTemplate.cshtml.zip* and extracted the
 contents into a folder so I could make some modifications to its
 contents.
 
-[![MyProjectTemplate.cshtml](https://haacked.com/images/haacked_com/WindowsLiveWriter/Creating-a-Cust.NET-MVC-Project-Template_12902/MyProjectTemplate.cshtml_thumb.png "MyProjectTemplate.cshtml")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Creating-a-Cust.NET-MVC-Project-Template_12902/MyProjectTemplate.cshtml_2.png)
+[![MyProjectTemplate.cshtml](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Creating-a-Cust.NET-MVC-Project-Template_12902/MyProjectTemplate.cshtml_thumb.png "MyProjectTemplate.cshtml")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Creating-a-Cust.NET-MVC-Project-Template_12902/MyProjectTemplate.cshtml_2.png)
 
 When you extract the contents, you’ll want to rename the .vstemplate
 file to match the name of the template you chose. In my case, I renamed
@@ -139,7 +139,7 @@ previously, *C:\\Program Files (x86)\\Microsoft Visual Studio
 Once the template is there, you’ll need to setup the correct registry
 settings.
 
-![registry-editor](https://haacked.com/images/haacked_com/WindowsLiveWriter/Creating-a-Cust.NET-MVC-Project-Template_12902/registry-editor_2d901532-cb56-4a6b-aa8d-a128cb9a8ad0.png "registry-editor")
+![registry-editor](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Creating-a-Cust.NET-MVC-Project-Template_12902/registry-editor_2d901532-cb56-4a6b-aa8d-a128cb9a8ad0.png "registry-editor")
 
 Since I’m lazy, I put these registry settings in a .reg file to make it
 easy to install. You’ll just need to modify the settings within the .reg
@@ -215,7 +215,7 @@ Unzip the file, and run *install.bat* and you’ll see a new project
 template when you create a new ASP.NET MVC 3 project.
 
 ![New ASP.NET MVC 3
-Project](https://haacked.com/images/haacked_com/WindowsLiveWriter/Creating-a-Cust.NET-MVC-Project-Template_12902/New%20ASP.NET%20MVC%203%20Project_cbf1a187-1e7e-4cb4-84b2-32fb91fa212a.png "New ASP.NET MVC 3 Project")
+Project](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Creating-a-Cust.NET-MVC-Project-Template_12902/New%20ASP.NET%20MVC%203%20Project_cbf1a187-1e7e-4cb4-84b2-32fb91fa212a.png "New ASP.NET MVC 3 Project")
 
 Pretty cool, eh?
 

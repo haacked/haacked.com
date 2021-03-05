@@ -2,4 +2,4 @@ id: dsq-747515582
 date: 2006-07-05T21:59:00.0000000-07:00
 name: Steve Harman
 avatar: https://disqus.com/api/users/avatars/Steve Harman.jpg
-message: <p>Don't forget to use Template Parameters to make those scripts even more robust!<br>Also, as Phil has <a href="http://haacked.com/archive/2005/07/01/7433.aspx" rel="nofollow noopener" title="http://haacked.com/archive/2005/07/01/7433.aspx">pointed out before</a> - you can use the SQL Query Analyzer to replace those parameters just prior to running/testing your script.</p>
+message: <p>Don't forget to use Template Parameters to make those scripts even more robust!<br>Also, as Phil has <a href="https://haacked.com/archive/2005/07/01/7433.aspx" rel="nofollow noopener" title="https://haacked.com/archive/2005/07/01/7433.aspx">pointed out before</a> - you can use the SQL Query Analyzer to replace those parameters just prior to running/testing your script.</p>

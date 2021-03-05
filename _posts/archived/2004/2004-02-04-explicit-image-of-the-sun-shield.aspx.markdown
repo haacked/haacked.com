@@ -4,5 +4,5 @@ tags: [humor]
 redirect_from: "/archive/2004/02/03/explicit-image-of-the-sun-shield.aspx/"
 ---
 
-![](/images/SunRing.JPG)
+![](/assets/images/SunRing.JPG)
 

@@ -14,7 +14,7 @@ photos from day two [in his
 photostream](http://www.flickr.com/photos/dotnetguy/sets/72157614537401180/ "ALT.NET Photo Stream").
 
 [![Encouraging Open Source on .NET by Brad
-Wilson.](https://haacked.com/images/haacked_com/WindowsLiveWriter/ALT.NETSeattleDayTwo_68B5/Encouraging%20Open%20Source%20on%20.NET%20by%20Brad%20Wilson._3.jpg "Encouraging Open Source on .NET by Brad Wilson.")](http://www.flickr.com/photos/dotnetguy/3318866716/in/set-72157614537401180/ "Encouraging Open Source")
+Wilson.](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ALT.NETSeattleDayTwo_68B5/Encouraging%20Open%20Source%20on%20.NET%20by%20Brad%20Wilson._3.jpg "Encouraging Open Source on .NET by Brad Wilson.")](http://www.flickr.com/photos/dotnetguy/3318866716/in/set-72157614537401180/ "Encouraging Open Source")
 
 The first session I went to was on the topic of Encouraging Open Source
 in the .NET Space as seen above, which veered all over the place. Many
@@ -36,7 +36,7 @@ day related to the fact that for many shops, it doesn’t exist unless
 Microsoft endorses it.
 
 [![.NET on the Mac, Linux, and iPhone by Brad
-Wilson.](https://haacked.com/images/haacked_com/WindowsLiveWriter/ALT.NETSeattleDayTwo_68B5/.NET%20on%20the%20Mac,%20Linux,%20and%20iPhone%20by%20Brad%20Wilson._thumb.jpg ".NET on the Mac, Linux, and iPhone by Brad Wilson.")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ALT.NETSeattleDayTwo_68B5/.NET%20on%20the%20Mac,%20Linux,%20and%20iPhone%20by%20Brad%20Wilson._2.jpg)
+Wilson.](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ALT.NETSeattleDayTwo_68B5/.NET%20on%20the%20Mac,%20Linux,%20and%20iPhone%20by%20Brad%20Wilson._thumb.jpg ".NET on the Mac, Linux, and iPhone by Brad Wilson.")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ALT.NETSeattleDayTwo_68B5/.NET%20on%20the%20Mac,%20Linux,%20and%20iPhone%20by%20Brad%20Wilson._2.jpg)
 
 The next session I attended was “.NET/Mono on the Mac, Linux, and
 iPhone” facilitated by the always entertaining [Miguel De
@@ -47,7 +47,7 @@ app](http://venturebeat.com/2008/12/23/iphone-fart-app-pulls-in-nearly-10000-a-d
 for the iPhone using C#.
 
 [![TDD and Microsoft by Brad
-Wilson.](https://haacked.com/images/haacked_com/WindowsLiveWriter/ALT.NETSeattleDayTwo_68B5/TDD%20and%20Microsoft%20by%20Brad%20Wilson._3.jpg "TDD and Microsoft by Brad Wilson.")](http://www.flickr.com/photos/dotnetguy/3318867368/in/set-72157614537401180/ "TDD at Microsoft Session")
+Wilson.](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ALT.NETSeattleDayTwo_68B5/TDD%20and%20Microsoft%20by%20Brad%20Wilson._3.jpg "TDD and Microsoft by Brad Wilson.")](http://www.flickr.com/photos/dotnetguy/3318867368/in/set-72157614537401180/ "TDD at Microsoft Session")
 
 Later in the day, [Karen
 Liu](http://blogs.msdn.com/karenliu/ "Karen Liu") (a PM on the Managed

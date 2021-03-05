@@ -10,7 +10,7 @@ I apologize for not blogging this over the weekend as I had planned, but
 the weather this weekend was just fantastic so I spent a lot of time
 outside with my son.
 
-[![the-park](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVCForVisualStudio2010Beta1_B2C1/the-park_thumb.jpg "the-park")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVCForVisualStudio2010Beta1_B2C1/the-park_2.jpg)If
+[![the-park](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NETMVCForVisualStudio2010Beta1_B2C1/the-park_thumb.jpg "the-park")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NETMVCForVisualStudio2010Beta1_B2C1/the-park_2.jpg)If
 you haven’t heard yet, [Visual Studio 2010 Beta 1 is now
 available](http://blogs.msdn.com/somasegar/archive/2009/05/18/visual-studio-2010-and-net-fx-4-beta-1-ships.aspx "Visual Studio 2010 and .NET 4 Beta 1 ships")
 for MSDN subscribers to download. It will be more generally available on

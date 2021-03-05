@@ -22,7 +22,7 @@ game, none of them turned out too well.  Here is the best I got showing
 both these players.
 
 ![Frank and Alexi on the
-Pitch](https://haacked.com/images/SoccerBeatDown_13B67/AlexiAndFrank_thumb.jpg)
+Pitch](https://haacked.com/assets/images/SoccerBeatDown_13B67/AlexiAndFrank_thumb.jpg)
 
 I had one good play in which I dummied the ball, faking Alexi and taking
 him out of the play as he was hot on my back (I know, I’m reaching

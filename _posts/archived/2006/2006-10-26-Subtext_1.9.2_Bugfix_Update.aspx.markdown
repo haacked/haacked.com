@@ -20,7 +20,7 @@ admin and look in the bottom left corner.  You should see the version
 there.
 
 ![Subtext
-Version](https://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext1.9.2BugfixUpdate_1064E/Subtext-VersionInfo%5B4%5D.png)
+Version](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Subtext1.9.2BugfixUpdate_1064E/Subtext-VersionInfo%5B4%5D.png)
 
 If you downloaded Subtext 1.9.2 before I applied the update, then you
 will probably see version 1.9.2.19 in there.  If so, you have two

@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2006/06/24/AnInconvenientTruth.aspx/"
 ---
 
-![Movie Poster](https://haacked.com/images/AnInconvenientTruth.jpg)
+![Movie Poster](https://haacked.com/assets/images/AnInconvenientTruth.jpg)
 Watched a free screening of this last night in Downtown Los Angeles as
 part of a film festival. Prior to the screening, Jon Bon Jovi and Richie
 Sambora played some live music and Al Gore was on hand to introduce the

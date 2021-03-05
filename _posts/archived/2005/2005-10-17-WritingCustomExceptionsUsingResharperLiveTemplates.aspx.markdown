@@ -25,7 +25,7 @@ If you have this book, you should definitely read and learn these steps.
 Or if you are a [ReSharper](http://www.jetbrains.com/resharper/) user,
 you can be lazy and just use the Live Template (akin to a Whidbey Code
 Snippet) I’ve [created and posted
-here](https://haacked.com/images/ExceptionLiveTemplate.zip) for your
+here](https://haacked.com/assets/images/ExceptionLiveTemplate.zip) for your
 exceptional enjoyment.
 
 Unfortunately, I do not know of any way to export and import live
@@ -45,5 +45,5 @@ class and `excs` for the simple exception class. This ought to save you
 a lot of typing. Below is a screenshot of the full template...
 
 ![Exception Live
-Template](https://haacked.com/images/ExceptionLiveTemplateScreen.gif)
+Template](https://haacked.com/assets/images/ExceptionLiveTemplateScreen.gif)
 

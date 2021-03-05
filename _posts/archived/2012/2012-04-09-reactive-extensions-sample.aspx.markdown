@@ -33,7 +33,7 @@ of future events.
 
 Hear that? That’s the sound of my head asploding again.
 
-[![the-future](https://haacked.com/images/haacked_com/WindowsLiveWriter/EnumeratingtheFutureWithTheReactiveFrame_1263C/the-future_3.jpg "the-future")](http://www.sxc.hu/photo/1194467 "Shimmering lights 1 - by e-Eva-a")
+[![the-future](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/EnumeratingtheFutureWithTheReactiveFrame_1263C/the-future_3.jpg "the-future")](http://www.sxc.hu/photo/1194467 "Shimmering lights 1 - by e-Eva-a")
 
 Rx has a tendency to twist and contort the mind in strange ways. But
 it’s really not all that complicated. It only hurts the head at first

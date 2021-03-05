@@ -22,7 +22,7 @@ sharing of ideas, some of which I’ll talk about in subsequent blog
 posts. One such idea is I hope we add something like the open source
 exhibition hall in a future MonkeySpace.
 
-[![monkeyspace-spaker-dinner](https://haacked.com/images/haacked_com/WindowsLiveWriter/MonkeySpace-and-the-Futu.NET-Open-Source_121F1/monkeyspace-spaker-dinner_thumb.jpg "monkeyspace-spaker-dinner")](https://haacked.com/images/haacked_com/WindowsLiveWriter/MonkeySpace-and-the-Futu.NET-Open-Source_121F1/monkeyspace-spaker-dinner_2.jpg)*MonkeySpace
+[![monkeyspace-spaker-dinner](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MonkeySpace-and-the-Futu.NET-Open-Source_121F1/monkeyspace-spaker-dinner_thumb.jpg "monkeyspace-spaker-dinner")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MonkeySpace-and-the-Futu.NET-Open-Source_121F1/monkeyspace-spaker-dinner_2.jpg)*MonkeySpace
 speakers dinner. Lots of idea sharing going on.*
 
 MonkeySpace is a rebranded and refocused Monospace conference. While

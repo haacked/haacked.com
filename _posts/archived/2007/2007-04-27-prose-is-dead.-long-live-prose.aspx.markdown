@@ -51,7 +51,7 @@ work of fiction, but cater to how the brain works when writing something
 meant to be absorbed, learned, and remembered.
 
 [![Head First Design Patterns
-Cover](https://haacked.com/images/haacked_com/WindowsLiveWriter/ProseIsDead.LongLiveProse_EF74/head_first_design_patterns_cover_thu.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/ProseIsDead.LongLiveProse_EF74/head_first_design_patterns_cover2.jpg "Head First Design Patterns Cover")
+Cover](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ProseIsDead.LongLiveProse_EF74/head_first_design_patterns_cover_thu.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ProseIsDead.LongLiveProse_EF74/head_first_design_patterns_cover2.jpg "Head First Design Patterns Cover")
 I think the Head First series really gets it when it comes to how the
 mind works and learns. From the introduction to [Head First Design
 Patterns](http://www.amazon.com/gp/product/0596007124?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596007124 "Head First Design Patterns on Amazon").

@@ -42,5 +42,5 @@ I do know that I’ve worked with people on that team as partners on in
 various capacities and they’re smart folks doing good work. I’m sure my
 team and your team (should you get the job) would end up working closely
 together.
-![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Want-to-work-on-datajs_12BBE/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Want-to-work-on-datajs_12BBE/wlEmoticon-smile_2.png)
 

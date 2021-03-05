@@ -4,7 +4,7 @@ tags: [rss]
 redirect_from: "/archive/2005/03/29/putting-a-crimp-in-the-rss-fire-hose.aspx/"
 ---
 
-![fire hose](https://haacked.com/images/firehose.jpg) In my post entitled
+![fire hose](https://haacked.com/assets/images/firehose.jpg) In my post entitled
 [Drinking From an RSS Fire Hose](https://haacked.com/archive/2005/03/23 /Drinking_From_An_Rss_Firehose.aspx/) I dealt with some
 of the issues surrounding the flood of incoming RSS entries within an
 RSS aggregator raised by Dare's post ["Nightcrawler Thoughts: Thums Up,

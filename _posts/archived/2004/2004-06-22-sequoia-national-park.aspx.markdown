@@ -18,7 +18,7 @@ you to wonder what the hell you're looking at. Redwoods may be taller,
 but no trees have the volume and bulk of the giant sequoias. These
 things almost seem to generate their own gravity.
 
-![Hello In There](/images/HeadInATree.jpg) \
+![Hello In There](/assets/images/HeadInATree.jpg) \
 The author loses his head, once again.
 
 This trip found us reuniting with a several members of our intrepid
@@ -29,7 +29,7 @@ don't shine. This fallen tree is one of many among the myriad of trails
 within the park. If a tree falls in the woods, will it muss up my wife's
 pretty pink hat?
 
-![The Source of Evian](/images/AkumiUnderTree.jpg) \
+![The Source of Evian](/assets/images/AkumiUnderTree.jpg) \
 The tree was no match for the power of the hat.
 
 Sequoias are notable for the crazy tree people (though so is Green
@@ -45,7 +45,7 @@ release. Wandering through the forest, you'll notice a large number of
 trees that have grown a thick layer of bark around the scars from forest
 fires.
 
-![Dane Hiding In a Tree Trunk](/images/CrazyDaneInATree.jpg) \
+![Dane Hiding In a Tree Trunk](/assets/images/CrazyDaneInATree.jpg) \
 The last surviving member of Ponce De Leon's crew.
 
 Like a runaway pituitary gland, it's seems that a giant sequoia never
@@ -56,13 +56,13 @@ falling over from its own weight, much like the Lakers did in the finals
 recently. As can be seen below, its roots don't run very deep. They dig
 in a mere three feet.
 
-![Roots](/images/Roots.jpg) \
+![Roots](/assets/images/Roots.jpg) \
 So how do we drag this thing home?
 
 We had this sequoia surrounded, but it wouldn't be bullied by us and
 didn't give up its wallet.
 
-![Hands across a sequoia](/images/TreeBig.jpg) \
+![Hands across a sequoia](/assets/images/TreeBig.jpg) \
 Hands across America...a tree.
 
 When camping in Sequoia, the rangers go to great pains to make sure you
@@ -77,13 +77,13 @@ this typically leads to the bears being put down. There were several
 bear sitings within the campgrounds, including the one sneaking up from
 behind me in the following photo.
 
-![Attacked By Ed Bear](/images/PhilAttackedByanEdBear.jpg) \
+![Attacked By Ed Bear](/assets/images/PhilAttackedByanEdBear.jpg) \
 Unbeknownst to Gandalf, a feral Frodo approached.
 
 A nearby campsite had a black bear crawl on top of their truck and
 scratch it up a bit, apparently looking for the keys to take it for a
 joy ride. We spotted the culprit the next morning relaxing in the sun.
 
-![Black Bear](/images/BlackBear.jpg) \
+![Black Bear](/assets/images/BlackBear.jpg) \
 BooBoo was relieved to finally get rid of that annoying Yogi.
 

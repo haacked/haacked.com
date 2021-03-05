@@ -50,7 +50,7 @@ face now is how do I get any improvements they may have made back into
 my own implementation?**
 
 ![a can of
-no-spam](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingSubkismetTheCureForCommentSpa_13B94/no-spam_1.jpg)
+no-spam](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IntroducingSubkismetTheCureForCommentSpa_13B94/no-spam_1.jpg)
 To answer that, I created the [Subkismet
 project](http://www.codeplex.com/subkismet/ "Subkismet Project"). It’s
 more than just an Akismet client for .NET, it’s a library of SPAM

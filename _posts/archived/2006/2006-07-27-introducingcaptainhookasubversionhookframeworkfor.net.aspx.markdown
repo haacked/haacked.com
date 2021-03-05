@@ -7,7 +7,7 @@ redirect_from: "/archive/2006/07/26/introducingcaptainhookasubversionhookframewo
 UPDATE: CaptainHook is now an [Open Source project on
 SourceForge](https://haacked.com/archive/2006/07/31/CaptainHookIsOnSourceForge.aspx "CaptainHook on SourceForge").
 
-![Hook Logo](https://haacked.com/images/captainhook.gif) One potent tool
+![Hook Logo](https://haacked.com/assets/images/captainhook.gif) One potent tool
 for team communications on a project, especially one with distributed
 developers, is the simple commit email. Setting up Subversion to send
 out an email when a developer commits changes to the repository is

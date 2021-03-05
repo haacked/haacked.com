@@ -17,12 +17,12 @@ It looks spiffier than the system tray applet that comes with CCNET.
 Here’s a screenshot of it docked.
 
 ![CCNET Gadget
-Docked](https://haacked.com/images/haacked_com/WindowsLiveWriter/VistaGadgetToMonitorYourBuild_15055/ccnetgadgetdocked5.jpg)
+Docked](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/VistaGadgetToMonitorYourBuild_15055/ccnetgadgetdocked5.jpg)
 
 And undocked.
 
 ![CCNET Gadget
-Undocked](https://haacked.com/images/haacked_com/WindowsLiveWriter/VistaGadgetToMonitorYourBuild_15055/ccnetgadgetundocked5.jpg)
+Undocked](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/VistaGadgetToMonitorYourBuild_15055/ccnetgadgetundocked5.jpg)
 
 From the screenshots you can see the status of the projects he is
 monitoring. The good news is that the [1.9

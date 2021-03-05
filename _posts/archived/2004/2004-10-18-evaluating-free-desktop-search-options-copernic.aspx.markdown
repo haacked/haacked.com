@@ -4,7 +4,7 @@ tags: [tools]
 redirect_from: "/archive/2004/10/17/evaluating-free-desktop-search-options-copernic.aspx/"
 ---
 
-![Copernic Logo](/images/copernicLogog.gif)After reading the reaction
+![Copernic Logo](/assets/images/copernicLogog.gif)After reading the reaction
 around the net about Google Desktop (GD for short), one common complaint
 I noticed is the use of a web browser for local searching. Why use a web
 browser to search locally and forego all the utility and benefits a rich

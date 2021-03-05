@@ -35,7 +35,7 @@ top of Lucene.NET. As I said in the post, those are probably topics I
 can’t get write about in too much detail.
 
 [![Screenshot of project
-browser](https://haacked.com/images/haacked_com/WindowsLiveWriter/SearchingOpenSourceWithOpenSource_C02C/image%7B0%7D_thumb.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SearchingOpenSourceWithOpenSource_C02C/image%7B0%7D%5B2%5D.png "Subtext Code Browser on Koders")One
+browser](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SearchingOpenSourceWithOpenSource_C02C/image%7B0%7D_thumb.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SearchingOpenSourceWithOpenSource_C02C/image%7B0%7D%5B2%5D.png "Subtext Code Browser on Koders")One
 thing I should point out is that code search is only part of the
 picture. Koders also has a pretty sweet code repository browser (click
 on thumbnail for larger view).

@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2004/06/27/were-flying-to-seattle.aspx/"
 ---
 
-![](/images/seattle.jpg)And I expect my arms to be tired (ba-dump
+![](/assets/images/seattle.jpg)And I expect my arms to be tired (ba-dump
 pshhh).
 
 We're heading over there on July 28 to see my wife's best friend (from

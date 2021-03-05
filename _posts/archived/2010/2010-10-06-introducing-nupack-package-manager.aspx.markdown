@@ -25,7 +25,7 @@ There’s also a [video interview with
 me](http://channel9.msdn.com/Shows/Web+Camps+TV/Web-Camps-TV-8-NuPack-with-Phil-Haack "Video Interview With Me on NuPack")
 on Web Camps TV where I talk about NuGet.
 
-![nuget-229x64](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingNuPackPackageManager_8229/nuget-229x64_556266e8-afb7-4f84-912b-c99a3f9bf742.png "nuget-229x64")Just
+![nuget-229x64](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IntroducingNuPackPackageManager_8229/nuget-229x64_556266e8-afb7-4f84-912b-c99a3f9bf742.png "nuget-229x64")Just
 to warn you, the rest of this blog post is full of blah blah blah about
 NuGet so if you’re a person of action, feel free to go:
 

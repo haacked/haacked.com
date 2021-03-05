@@ -4,7 +4,7 @@ tags: [code,tdd]
 redirect_from: "/archive/2006/06/22/usingrhinomockstounittesteventsoninterfaces.aspx/"
 ---
 
-![Rhino](https://haacked.com/images/Rhino.jpg) I am working on some code
+![Rhino](https://haacked.com/assets/images/Rhino.jpg) I am working on some code
 using the [Model View
 Presenter](http://www.martinfowler.com/eaaDev/ModelViewPresenter.html "Fowler Article on MVP")
 pattern for an article I am writing. I am using an event based approach

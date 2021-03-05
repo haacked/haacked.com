@@ -4,7 +4,7 @@ tags: [oss,github,code-review]
 redirect_from: "/archive/2013/10/27/code-review-like-you-mean-it.aspx/"
 ---
 
-If I had to pick just one feature that embodies GitHub (besides [emoji support](http://www.emoji-cheat-sheet.com/ "Emoji") of course ![](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/thumbsup_thumb.png), I’d easily choose the **Pull Request** (aka PR). According to [GitHub’s help docs](https://help.github.com/articles/using-pull-requests "Pull Requests") (emphasis mine),
+If I had to pick just one feature that embodies GitHub (besides [emoji support](http://www.emoji-cheat-sheet.com/ "Emoji") of course ![](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/thumbsup_thumb.png), I’d easily choose the **Pull Request** (aka PR). According to [GitHub’s help docs](https://help.github.com/articles/using-pull-requests "Pull Requests") (emphasis mine),
 
 > Pull requests let you tell others about changes you’ve pushed to a
 > GitHub repository. Once a pull request is sent, **interested parties
@@ -15,7 +15,7 @@ Some folks are confused by the name “pull request.” Just think of it as a re
 
 Here’s a screenshot of a pull request for GitHub for Windows where [Paul Betts](http://log.paulbetts.org "Paul Betts blog") patiently explains why my code might result in the total economic collapse of the world economy.
 
-[![sample code review](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/-395_thumb.png "sample code review")](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/-395_2.png)
+[![sample code review](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/-395_thumb.png "sample code review")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/-395_2.png)
 
 A co-worker code review is a good way to avoid the [Danger Zone](http://www.youtube.com/watch?v=8vuZ8jSVNUI "Danger Zone") (*slightly NSFW*).
 
@@ -103,13 +103,13 @@ I also have separate checklists for different platform specific items. For examp
 
 You’ll note that I don’t mention making sure the code compiles and that the tests pass. I already know this through the magic of the [commit status API](https://github.com/blog/1227-commit-status-api "Commit Status API") which is displayed on our pull requests.
 
-[![-396](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/-396_thumb.png "-396")](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/-396_2.png)
+[![-396](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/-396_thumb.png "-396")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/-396_2.png)
 
 However, for more involved or more risky code changes, I do think it’s worthwhile to actually *try the code* and step through it in the debugger. Here, GitHub has your back with a relatively new feature that makes it easy to get the code for a specific pull request down to your machine.
 
 If you have GitHub for Windows or GitHub for Mac installed and you scroll down to the bottom of any pull request, you’ll see a curious new button.
 
-[![clone-pr-in-desktop](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/clone-pr-in-desktop_thumb.png "clone-pr-in-desktop")](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/clone-pr-in-desktop_2.png)
+[![clone-pr-in-desktop](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/clone-pr-in-desktop_thumb.png "clone-pr-in-desktop")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/clone-pr-in-desktop_2.png)
 
 Click on that button and we’ll clone the pull request code to your local machine so you can quickly and easily try it out.
 
@@ -122,7 +122,7 @@ I often like to do this and run Resharper analysis on the code to highlight thin
 After a few rounds of review, when the code looks good, make sure you let the author know! Praise where praise is due is an important part of code reviews.
 
 At GitHub, when a team is satisfied with a pull request, we tend to comment it and include the ship it squirrel emoji
-(`:shipit:`) ![](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/shipit_thumb.png). That indicates the review is complete, everything looks good, and you are free to ship the changes and merge it to master.
+(`:shipit:`) ![](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/shipit_thumb.png). That indicates the review is complete, everything looks good, and you are free to ship the changes and merge it to master.
 
 Every team is different, but on the GitHub for Windows team we tend to let the author merge the code into master after someone else signs off on the pull request.
 
@@ -130,7 +130,7 @@ This works well when dealing with pull requests from people who also have commit
 
 Here’s one of my favorites for a very good contributions.
 
-![Bruce Lee gives a thumbs up](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/thumbs-up-bruce-lee_thumb.gif)
+![Bruce Lee gives a thumbs up](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CodeReviewLikeABoss_D074/thumbs-up-bruce-lee_thumb.gif)
 
 Be Good To Each Other
 ---------------------

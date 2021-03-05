@@ -14,7 +14,7 @@ of the series.
 ### Disclaimer
 
 ![Book
-Cover](https://haacked.com/images/UnderstandingOpenSourceLicensing.gif)
+Cover](https://haacked.com/assets/images/UnderstandingOpenSourceLicensing.gif)
 As is customary when a non-lawyer attempts to discuss the finer points
 of the law, I must start with a disclaimer. I know some fine lawyers,
 but I, sir, am not a lawyer. So please do not consider this to be legal

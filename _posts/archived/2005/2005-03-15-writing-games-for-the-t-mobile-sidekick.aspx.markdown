@@ -4,7 +4,7 @@ tags: [mobile]
 redirect_from: "/archive/2005/03/14/writing-games-for-the-t-mobile-sidekick.aspx/"
 ---
 
-![Tiny Charms](/images/TinyCharms.gif) No, this post will make no
+![Tiny Charms](/assets/images/TinyCharms.gif) No, this post will make no
 mention of Paris Hilton. Promise. (Fully realizing that if I had
 mentioned her, it would attract an undesirable crowd via Google).
 

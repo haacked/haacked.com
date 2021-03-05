@@ -20,7 +20,7 @@ something that doesn’t even compile, I’d like to point out that it
 [works on my
 machine](http://www.codinghorror.com/blog/archives/000818.html "Works on my machine certification").
 
-[![works-on-my-machine-starburst](https://haacked.com/images/haacked_com/WindowsLiveWriter/IConfigMapPathIsInaccessibleDueToItsProt_1446B/works-on-my-machine-starburst_thumb.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/IConfigMapPathIsInaccessibleDueToItsProt_1446B/works-on-my-machine-starburst.png)Fortunately,
+[![works-on-my-machine-starburst](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IConfigMapPathIsInaccessibleDueToItsProt_1446B/works-on-my-machine-starburst_thumb.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IConfigMapPathIsInaccessibleDueToItsProt_1446B/works-on-my-machine-starburst.png)Fortunately,
 we have our expert build problem solver, [Simone
 Chiaretta](http://codeclimber.net.nz/ "Simone Chiaretta"), to look into
 it.

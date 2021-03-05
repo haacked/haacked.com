@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2004/09/21/i-forgot-that-i-am-an-mcsd.aspx/"
 ---
 
-![MCSD Logo](/images/MCSD-RGB.gif)
+![MCSD Logo](/assets/images/MCSD-RGB.gif)
 
 I obtained this certification several years ago and pretty much forgot
 about it. It really hasn't done me any good. The only benefit at the

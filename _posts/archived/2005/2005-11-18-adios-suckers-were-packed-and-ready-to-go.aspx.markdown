@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2005/11/17/adios-suckers-were-packed-and-ready-to-go.aspx/"
 ---
 
-![Map of Spain](https://haacked.com/images/MapSpain.jpg) The missus and I
+![Map of Spain](https://haacked.com/assets/images/MapSpain.jpg) The missus and I
 are pretty much packed and ready to go. We have to be at the airport at
 5 AM. Yes, that is *AM* as in early morning (or late at night depending
 how you look at it).

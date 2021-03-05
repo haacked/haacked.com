@@ -7,7 +7,7 @@ excerpt_image: https://user-images.githubusercontent.com/19977/49748094-ac6e5180
 
 A name like Haack does not make me destined to win awards as an outstanding designer. I've come to grips with that. I'm not terrible, mind you. I'd say my skill level is somewhere in the ballpark of slightly above Geocities and closely approaching the aesthetics of Craigslist, on a good day.
 
-If you too lack the knack (like Haack) for design, then you know it's painful to craft a decent look and feel for your website. It's arduous. The [quirks of CSS](http://haacked.com/archive/2018/12/03/css-column-list-adventure/) will drive you to pull out your hair in frustration at some point.
+If you too lack the knack (like Haack) for design, then you know it's painful to craft a decent look and feel for your website. It's arduous. The [quirks of CSS](https://haacked.com/archive/2018/12/03/css-column-list-adventure/) will drive you to pull out your hair in frustration at some point.
 
 Well not to fear, my friend, I pulled out my hair so you don't have to! That hair extraction lead to the [Haackbar Jekyll theme](https://github.com/haacked/haackbar).
 

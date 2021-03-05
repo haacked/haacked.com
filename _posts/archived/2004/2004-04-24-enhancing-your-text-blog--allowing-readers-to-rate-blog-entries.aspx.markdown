@@ -4,7 +4,7 @@ tags: [blogging]
 redirect_from: "/archive/2004/04/23/enhancing-your-text-blog--allowing-readers-to-rate-blog-entries.aspx/"
 ---
 
-![Rate This Content Screen Shot](/images/RateThisItem.gif)
+![Rate This Content Screen Shot](/assets/images/RateThisItem.gif)
 
 Scott Mitchell writes about a neat feature he created for .TEXT in [this article](http://scottonwriting.net/sowblog/posts/1028.aspx) and [this follow up article](http://scottonwriting.net/sowblog/posts/1050.aspx).
 

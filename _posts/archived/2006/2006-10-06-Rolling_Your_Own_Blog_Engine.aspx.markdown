@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/10/05/Rolling_Your_Own_Blog_Engine.aspx/"
 ---
 
 ![Hello
-World](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhyRollYourOwnBlogEngine_FAC2/HelloWorld5.jpg)
+World](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhyRollYourOwnBlogEngine_FAC2/HelloWorld5.jpg)
 
 [Jeff Atwood](http://codinghorror.com/blog/ "Coding Horror") asks [the
 question](http://www.codinghorror.com/blog/archives/000696.html "On Frameworkitis")
@@ -96,7 +96,7 @@ projects.  They could use your help and it gets you a lot of features
 for free. Just don’t use the ones you don’t need.
 
 [![Jerry
-Maguire](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhyRollYourOwnBlogEngine_FAC2/jerry00_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhyRollYourOwnBlogEngine_FAC2/jerry002.jpg)
+Maguire](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhyRollYourOwnBlogEngine_FAC2/jerry00_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhyRollYourOwnBlogEngine_FAC2/jerry002.jpg)
 2. If you still want to write your own, at least take a look at the code
 contained in these projects and try to avail yourself of the gems
 contained therein.  It’ll help you keep your wheel reinventions to a

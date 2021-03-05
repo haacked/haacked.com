@@ -5,7 +5,7 @@ redirect_from: "/archive/2005/07/10/code-camp-black-rock-city.aspx/"
 ---
 
 [![Black Rock
-City](https://haacked.com/images/BlackRockCity.jpg)](http://www.sidecanyon.com/features/deserts10.htm)
+City](https://haacked.com/assets/images/BlackRockCity.jpg)](http://www.sidecanyon.com/features/deserts10.htm)
 Ok, this is kind of a crazy idea, so as Ron Burgundy would say,
 
 > I wanna say something. I'm gonna put it out there; if you like it, you

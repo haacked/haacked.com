@@ -4,7 +4,7 @@ tags: [burningman]
 redirect_from: "/archive/2005/01/31/bought-tickets-to-burning-man.aspx/"
 ---
 
-![Burning Man](/images/burningman.jpg)My buddy Kyle and I both purchased
+![Burning Man](/assets/images/burningman.jpg)My buddy Kyle and I both purchased
 tickets to [Burning Man](http://www.burningman.com/ "Burning Man!")
 today. Still waiting to hear from a few other friends and other burners
 who might be in attendance. [I went with several years

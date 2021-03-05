@@ -29,7 +29,7 @@ In fact, here’s what it renders using Firefox 3.0.3. I confirmed the
 same behavior with IE 8 beta 2 and Google Chrome.
 
 ![three text
-areas](https://haacked.com/images/haacked_com/WindowsLiveWriter/NewLineQuirkwithHTMLTextArea_BDBC/three-text-boxes_3.png "three text areas")
+areas](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NewLineQuirkwithHTMLTextArea_BDBC/three-text-boxes_3.png "three text areas")
 
 Notice that the first two text areas are identical. Why is this
 important?

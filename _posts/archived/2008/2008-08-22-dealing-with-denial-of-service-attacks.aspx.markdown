@@ -23,7 +23,7 @@ actual intended goal. Only the attacker knows.
 The first clue (besides my site being down) is that my log file for
 today is huge at 9:00 AM.
 
-![log-files](https://haacked.com/images/haacked_com/WindowsLiveWriter/DealingWithDenialofServiceAttacks_8743/log-files_3.png "log-files")
+![log-files](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DealingWithDenialofServiceAttacks_8743/log-files_3.png "log-files")
 
 The next step is to run some queries against my logs using the fantastic
 LogParser tool. This post, entitled *[Forensic Log Parsing with

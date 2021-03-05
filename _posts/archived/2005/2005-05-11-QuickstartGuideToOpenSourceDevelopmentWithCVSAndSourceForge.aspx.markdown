@@ -48,7 +48,7 @@ The next step is to run PuTTYGen to generate your SSH keys.
 
 1.  In the Parameters section at the bottom, make sure to select “SSH2
     DSA’. \
-    ![PuTTYGen Screenshot](/images/PuttyGenScreenShot.gif)
+    ![PuTTYGen Screenshot](/assets/images/PuttyGenScreenShot.gif)
 2.  Click the “Generate“ button.
 3.  Follow the on-screen instructions (“Please generate some randomness
     by moving the mouse over the blank area“). Key generation will be
@@ -58,7 +58,7 @@ The next step is to run PuTTYGen to generate your SSH keys.
     SourceForge.net user name. This comment will help you identify the
     purpose of this key.
 5.  Enter a passphrase and confirm it.\
-    ![](/images/PuttyGenPassphrase.gif)
+    ![](/assets/images/PuttyGenPassphrase.gif)
 6.  Click on the “Save Private Key“ button and save your private key
     (using the .ppk extension) somewhere you’ll be able to find it
     again.
@@ -77,12 +77,12 @@ logged in and...
 2.  Scroll down to the “Host Access Information“ section.
 3.  You should see a section about the Project Shell Server. Click on
     the “Edit SSH Keys for Shell/CVS“ link.\
-    ![](/images/SourceForgeScreenshot.gif)
+    ![](/assets/images/SourceForgeScreenshot.gif)
 4.  This will provide a form in which you can post your public key. The
     text to post in here is displayed at the top of PuTTYGen in a text
     box with the label “Public key for pasting into OpenSSH
     authorized\_keys file:“\
-    ![](/images/PuttyGenPublicKeyForPasting.gif)
+    ![](/assets/images/PuttyGenPublicKeyForPasting.gif)
 5.  Make sure to follow the instructions on the page. Multiple keys can
     be posted, as long as there is one per line.
 
@@ -113,7 +113,7 @@ At this point, you are all set to get going.
 2.  In Windows Explorer go to the folder you wish to check the code out
     into.
 3.  Right click and select the “CVS Checkout“ command.\
-    ![CVS Checkout Command](/images/CvsCheckout.gif)
+    ![CVS Checkout Command](/assets/images/CvsCheckout.gif)
 4.  You will need your username on SourceForge and the project UNIX
     name. For example, if your username was “haacked“ (it isn’t, because
     that’s mine) and the project you were working on is “subtext“, you’d
@@ -124,7 +124,7 @@ At this point, you are all set to get going.
     -   Username: haacked
 
     \
-    ![CVS Checkout Module Dialog](/images/CvsCheckoutModuleDialog.gif)
+    ![CVS Checkout Module Dialog](/assets/images/CvsCheckoutModuleDialog.gif)
 5.  Wait patiently as the project is created on your local machine.
 
 Now Write Some Code
@@ -134,7 +134,7 @@ Note that you only have to checkout a module once. Afterwards you can
 run the update command to get changes committed by other developers.
 It’s a good idea to do this before and after you make any changes.
 
-![CVS Update](/images/CVSUpdateCommand.gif)
+![CVS Update](/assets/images/CVSUpdateCommand.gif)
 
 Commiting Changes
 -----------------
@@ -143,7 +143,7 @@ After you’ve changed some files, their icons be marked with an orange
 arrow. To commit your changes, right click and select the Commit
 command. Please make sure to enter an informative comment.
 
-![](/images/CVSCommitCommand.gif)
+![](/assets/images/CVSCommitCommand.gif)
 
 To commit multiple changes, right click on the root folder and select
 Commit. You’llget a list of all changed files. You can check the ones

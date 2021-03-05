@@ -12,13 +12,13 @@ new conference in New Zealand.
 
 This conference was something special. I mean, just look at their beautiful [lucha libre](http://en.wikipedia.org/wiki/Lucha_libre "Lucha Libre on Wikipedia") inspired site design.
 
-[![codemania](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeMania-Love-To-Code-Keynote_E9B6/codemania_thumb.png "codemania")](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeMania-Love-To-Code-Keynote_E9B6/codemania_2.png)
+[![codemania](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CodeMania-Love-To-Code-Keynote_E9B6/codemania_thumb.png "codemania")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CodeMania-Love-To-Code-Keynote_E9B6/codemania_2.png)
 
 Although inexplicably, they switched to a pirate theme when it came to
 my profile image. Even so, it’s fun and the Twitter integration is a
 nice touch. It’s time for me to tweet something very inappropriate.
 
-[![phil-at-codemania](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeMania-Love-To-Code-Keynote_E9B6/phil-at-codemania_thumb_1.png "phil-at-codemania")](https://haacked.com/images/haacked_com/WindowsLiveWriter/CodeMania-Love-To-Code-Keynote_E9B6/phil-at-codemania_4.png)
+[![phil-at-codemania](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CodeMania-Love-To-Code-Keynote_E9B6/phil-at-codemania_thumb_1.png "phil-at-codemania")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CodeMania-Love-To-Code-Keynote_E9B6/phil-at-codemania_4.png)
 
 On a personal level, this was a particularly special conference for me
 as it was the first time I’ve been asked to deliver a keynote. The topic

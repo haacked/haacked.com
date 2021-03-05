@@ -39,7 +39,7 @@ Toolkit**](http://www.microsoft.com/web/page.aspx?templang=en-us&chunkfile=seo.h
 against my site recently (*click to enlarge*)?
 
 [![SEO Toolkit
-Screenshot](https://haacked.com/images/haacked_com/WindowsLiveWriter/HowtheIISSEOToolkitSavedMyButt_13016/iis-seo-toolkit_thumb.png "SEO Toolkit Screenshot")](https://haacked.com/images/haacked_com/WindowsLiveWriter/HowtheIISSEOToolkitSavedMyButt_13016/iis-seo-toolkit_2.png)The
+Screenshot](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HowtheIISSEOToolkitSavedMyButt_13016/iis-seo-toolkit_thumb.png "SEO Toolkit Screenshot")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HowtheIISSEOToolkitSavedMyButt_13016/iis-seo-toolkit_2.png)The
 first time I saw the SEO Toolkit was when [Carlos
 Aguilar](http://blogs.msdn.com/carlosag/ "Carlos Aguilar") gave me a
 demo a long while ago. Back then it was just something he put together
@@ -52,7 +52,7 @@ Well it’s a good thing I ran it back in August! This tool stores a local
 cache of images. Oddly enough, it appends a .txt extension to every
 cached file.
 
-[![cached-images](https://haacked.com/images/haacked_com/WindowsLiveWriter/HowtheIISSEOToolkitSavedMyButt_13016/cached-images_thumb.png "cached-images")](https://haacked.com/images/haacked_com/WindowsLiveWriter/HowtheIISSEOToolkitSavedMyButt_13016/cached-images_2.png)
+[![cached-images](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HowtheIISSEOToolkitSavedMyButt_13016/cached-images_thumb.png "cached-images")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HowtheIISSEOToolkitSavedMyButt_13016/cached-images_2.png)
 No worries! Using a bit of DOS command magic, I was able to strip off
 the .txt extension from every file (note I ran this from the command
 line. If you put this in a batch file, you’ll need to double up on the %

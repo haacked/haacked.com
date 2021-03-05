@@ -8,7 +8,7 @@ UPDATE: We decided on the [Three Lions
 Pub](http://thethreelionspub.com/thethreelionspub.htm "3 lions pub website")
 in Redmond at 7:30 PM
 
-[![beer-and-dinner](https://haacked.com/images/haacked_com/WindowsLiveWriter/GeekDinnerInRedmondSundayNight_14DA5/beer-and-dinner_thumb_1.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/GeekDinnerInRedmondSundayNight_14DA5/beer-and-dinner_1.jpg)
+[![beer-and-dinner](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GeekDinnerInRedmondSundayNight_14DA5/beer-and-dinner_thumb_1.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GeekDinnerInRedmondSundayNight_14DA5/beer-and-dinner_1.jpg)
 I’m going to be in Redmond next week and would love to get a geek dinner
 together around 7:30 PM. My flight gets in at 5:18 PM so I hope that’s
 doable. **Anybody interested in joining us?**

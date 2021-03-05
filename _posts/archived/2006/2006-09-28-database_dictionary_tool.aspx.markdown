@@ -22,7 +22,7 @@ a nice GUI tool to document your database, storing the documentation as
 part of your database schema.
 
 ![Database Dictionary Entry
-Form](https://haacked.com/images/haacked_com/WindowsLiveWriter/DatabaseDictionaryTool_9823/254444157_d05bbdf9d34.jpg)
+Form](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DatabaseDictionaryTool_9823/254444157_d05bbdf9d34.jpg)
 
 The tool allows you to add your own custom properties to track, which
 then get displayed in the data dictionary form grid as seen above. Audit

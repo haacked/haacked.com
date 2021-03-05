@@ -14,10 +14,10 @@ Here are two posters I made.
 
 [![Admiration - Respect is good. But your Man Crush is starting to freak
 him
-out.](https://haacked.com/images/haacked_com/WindowsLiveWriter/CreateYourOwnMotivatorPoster_AA0E/Motivator_thumb1.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/CreateYourOwnMotivatorPoster_AA0E/Motivator3.jpg "Admiration")
+out.](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CreateYourOwnMotivatorPoster_AA0E/Motivator_thumb1.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CreateYourOwnMotivatorPoster_AA0E/Motivator3.jpg "Admiration")
 
 [![Persistence - A sunny spot is hard to
-find](https://haacked.com/images/haacked_com/WindowsLiveWriter/CreateYourOwnMotivatorPoster_AA0E/Persistence_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/CreateYourOwnMotivatorPoster_AA0E/Persistence2.jpg "Persistence")
+find](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CreateYourOwnMotivatorPoster_AA0E/Persistence_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CreateYourOwnMotivatorPoster_AA0E/Persistence2.jpg "Persistence")
 
 Thanks to Underwhelmed on Twitter for this link.
 

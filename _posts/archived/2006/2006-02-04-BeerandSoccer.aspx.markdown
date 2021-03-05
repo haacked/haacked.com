@@ -4,8 +4,8 @@ tags: [soccer,personal]
 redirect_from: "/archive/2006/02/03/BeerandSoccer.aspx/"
 ---
 
-![Beer](https://haacked.com/images/Beer.jpg)![Soccer
-Ball](https://haacked.com/images/SoccerBallBW.jpg) There is something
+![Beer](https://haacked.com/assets/images/Beer.jpg)![Soccer
+Ball](https://haacked.com/assets/images/SoccerBallBW.jpg) There is something
 really satisfying about having a beer after soccer. Especially when you
 can sit down with a Newcastle at the computer and blog about it. I’ve
 heard many marathoners say that a beer after a long run is helpful for

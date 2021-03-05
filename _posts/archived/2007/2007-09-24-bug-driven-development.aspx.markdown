@@ -10,7 +10,7 @@ won with sound logic and reasoning. Instead, applying the principle of
 argument](http://changingminds.org/principles/framing.htm "Framing Principle")
 is much more effective at swaying public opinion.
 
-![1364145387\_b8cf994488](https://haacked.com/images/haacked_com/WindowsLiveWriter/BugDrivenDevelopment_851F/1364145387_b8cf994488_4.jpg)
+![1364145387\_b8cf994488](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BugDrivenDevelopment_851F/1364145387_b8cf994488_4.jpg)
 So the next time you try to make headway introducing Test Driven
 Development (or even simply introducing writing automated unit tests at
 all) into an organization and are rebuffed with...
