@@ -27,18 +27,18 @@ Features dialog with ASP.NET MVC 3 RTM installed.
 
 **BEFORE**
 
-[![mvc3-installed](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-installed_thumb_1.png "mvc3-installed")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-installed_4.png)
+[![mvc3-installed](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-installed_thumb_1.png "mvc3-installed")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-installed_4.png)
 
 And here’s one with the Tools Update installed.
 
 **AFTER**
 
-[![mvc3-update-installed](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-update-installed_thumb.png "mvc3-update-installed")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-update-installed_2.png)
+[![mvc3-update-installed](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-update-installed_thumb.png "mvc3-update-installed")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-update-installed_2.png)
 
 Did you see what changed? If not, I’ll help you.
-![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Introducing_763A/wlEmoticon-smile_2.png)
 
-[![mvc3-update-installed-highlighted](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-update-installed-highlighted_thumb_1.png "mvc3-update-installed-highlighted")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-update-installed-highlighted_4.png)
+[![mvc3-update-installed-highlighted](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-update-installed-highlighted_thumb_1.png "mvc3-update-installed-highlighted")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Introducing_763A/mvc3-update-installed-highlighted_4.png)
 
 What’s new in this release?
 ---------------------------

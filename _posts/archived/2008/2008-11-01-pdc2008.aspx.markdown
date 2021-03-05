@@ -17,7 +17,7 @@ I’ll just string together some random impressions and pics from my
 perspective.
 
 [![crowd before the MVC
-talk](https://haacked.com/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/crowd-before-the-mvc-talk_thumb.jpg "crowd before the MVC talk")](https://haacked.com/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/crowd-before-the-mvc-talk.jpg)
+talk](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/crowd-before-the-mvc-talk_thumb.jpg "crowd before the MVC talk")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/crowd-before-the-mvc-talk.jpg)
 First of all, one thing I’m very impressed with is that all sessions are
 viewable online almost immediately afterwards, with full video of the
 slides and the presenter. Now I understand why they asked me not to pace
@@ -25,7 +25,7 @@ too much. To see my presentation, [visit its Channel9
 Page](http://channel9.msdn.com/pdc2008/PC21/ "ASP.NET MVC Talk"). **Note
 that my slides and sample code are now up there**.
 
-[![john-lam-and-me](https://haacked.com/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/john-lam-and-me_thumb.jpg "john-lam-and-me")](https://haacked.com/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/john-lam-and-me.jpg)
+[![john-lam-and-me](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/john-lam-and-me_thumb.jpg "john-lam-and-me")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/john-lam-and-me.jpg)
 I hade a great time delivering this talk (see photo of the room before I
 started above) and as I wrote before, I uncovered [a new presentation
 tip](https://haacked.com/archive/2008/10/28/hot-new-presentation-tip.aspx "Hot new presentation tip").
@@ -35,7 +35,7 @@ There were 1150 attendees at the talk. If you saw my talk, be sure to
 eval**](https://sessions.microsoftpdc.com/wizard/eval_session/wp1.aspx?objectid=1a28169e-1e5d-4c50-9ac8-007e4a2d98c9 "Submit ASP.NET MVC Eval")
 as the last time I checked, only 95 people did.
 
-[![mr-open-spaces](https://haacked.com/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/mr-open-spaces_thumb.jpg "mr-open-spaces")](https://haacked.com/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/mr-open-spaces.jpg)Of
+[![mr-open-spaces](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/mr-open-spaces_thumb.jpg "mr-open-spaces")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/mr-open-spaces.jpg)Of
 course the best part of the conference (besides excessive amounts of
 RockBand) is hanging out with the people! I spent time at the ASP.NET
 lounge at various points in the conference answering a boatload of
@@ -47,7 +47,7 @@ sessions. Especially Dustin Campbell’s session on currying, closures,
 etc… which turned into a discussion of functional languages as I was
 showing up.
 
-[![los-tres-amigos](https://haacked.com/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/los-tres-amigos_thumb.jpg "los-tres-amigos")](https://haacked.com/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/los-tres-amigos.jpg)Of
+[![los-tres-amigos](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/los-tres-amigos_thumb.jpg "los-tres-amigos")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/los-tres-amigos.jpg)Of
 course, the various parties were great too. I don’t have pictures of the
 Universal Studios trip, unfortunately, but I will say the Simpson’s ride
 was awesome. I only brought my camera to the Dev After Dark party, on
@@ -57,7 +57,7 @@ As you can see here, Jeff Atwood, Miguel De Icaza, and myself having a
 good time at the JLounge. We tried to get it renamed to NLounge, but to
 no avail.
 
-[![mike-and-the-dude](https://haacked.com/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/mike-and-the-dude_thumb.jpg "mike-and-the-dude")](https://haacked.com/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/mike-and-the-dude.jpg)
+[![mike-and-the-dude](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/mike-and-the-dude_thumb.jpg "mike-and-the-dude")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/mike-and-the-dude.jpg)
 One of the highlights of the evening was running into my coworker’s
 hero, The Dude from The Big Lebowski holding a white russian!
 
@@ -65,7 +65,7 @@ Ok, it’s actually [Ted Neward](http://blogs.tedneward.com/ "Ted Neward")
 graciously posing with my drink as this was probably the 2048^th^ time
 he heard this joke.
 
-[![OG-microsoft](https://haacked.com/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/OG-microsoft_thumb.jpg "OG-microsoft")](https://haacked.com/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/OG-microsoft.jpg)
+[![OG-microsoft](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/OG-microsoft_thumb.jpg "OG-microsoft")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PDC2008RecoveryProgram_D759/OG-microsoft.jpg)
 And wouldn’t you know it, but the Microsofties from the early days
 showed up to the party. There’s young Bill in the lower left corner.
 

@@ -12,7 +12,7 @@ Alex the Panda.
 
 Meet, **Codysaurus**!
 
-[![codysaurus-and-alexpanda](https://haacked.com/images/haacked_com/WindowsLiveWriter/HalloweenPreview_807F/codysaurus-and-alexpanda_thumb.jpg "codysaurus-and-alexpanda")](https://haacked.com/images/haacked_com/WindowsLiveWriter/HalloweenPreview_807F/codysaurus-and-alexpanda_2.jpg)
+[![codysaurus-and-alexpanda](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HalloweenPreview_807F/codysaurus-and-alexpanda_thumb.jpg "codysaurus-and-alexpanda")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HalloweenPreview_807F/codysaurus-and-alexpanda_2.jpg)
 
 Coming to terrorize a neighborhood near you.
 

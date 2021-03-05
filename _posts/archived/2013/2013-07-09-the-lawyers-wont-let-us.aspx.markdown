@@ -15,7 +15,7 @@ reasons.”*
 If it’s not malfunctioning, you should feel your bullshit detector
 tingling right now.
 
-[![bull](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheLawyersWontLetUs_12EEC/bull_thumb.jpg "bull")](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheLawyersWontLetUs_12EEC/bull_2.jpg)
+[![bull](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheLawyersWontLetUs_12EEC/bull_thumb.jpg "bull")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheLawyersWontLetUs_12EEC/bull_2.jpg)
 *Yep, it’s a bull. Photo by [Graeme
 Law](http://www.flickr.com/photos/_____graeme/) [CC BY
 2.0](http://creativecommons.org/licenses/by/2.0/)*

@@ -4,7 +4,7 @@ tags: [humor]
 redirect_from: "/archive/2004/03/19/on-dogging-those-crazy-brits.aspx/"
 ---
 
-![](/images/dogging.jpg)Austin would be so pround. I wonder what the
+![](/assets/images/dogging.jpg)Austin would be so pround. I wonder what the
 Queen thinks of all this wanton shagging going on? And I thought the
 British were such a reserved people. Apparently so if we’re talking
 about reserving a spot in the park for a romp.

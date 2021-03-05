@@ -4,7 +4,7 @@ tags: [rssbandit]
 redirect_from: "/archive/2005/03/19/rssbandit-13026-released.aspx/"
 ---
 
-![RSS Bandit Logo](/images/RssBanditLogo.jpg) After much hard work by
+![RSS Bandit Logo](/assets/images/RssBanditLogo.jpg) After much hard work by
 [Dare](http://www.25hoursaday.com/weblog/) and
 [Torsten](http://www.rendelmann.info/blog/) (and a little bit of hard
 work by yours truly), the Wolverine edition of RSS Bandit has been

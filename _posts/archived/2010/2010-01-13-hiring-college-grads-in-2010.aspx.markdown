@@ -9,7 +9,7 @@ graduates.
 Before I continue, I need to fulfill a promise to a co-worker to include
 a barely relevant stock photograph in this blog post.
 
-[![](https://haacked.com/images/haacked_com/WindowsLiveWriter/IfYoureGraduatingSoonConsiderWor.NETTeam_1248E/cap-gown_3.jpg)](http://www.sxc.hu/photo/533027 "Cap & Diploma at sxc.hu by marygrober")
+[![](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IfYoureGraduatingSoonConsiderWor.NETTeam_1248E/cap-gown_3.jpg)](http://www.sxc.hu/photo/533027 "Cap & Diploma at sxc.hu by marygrober")
 Good, with that out of the way, allow me to continue.
 
 **If you are in college or grad school, graduating in 2010, and are

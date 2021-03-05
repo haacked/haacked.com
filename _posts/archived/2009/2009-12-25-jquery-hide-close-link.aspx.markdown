@@ -12,7 +12,7 @@ as watching Basketball, hanging out with the family and eating our
 traditional Alaskan king crab Christmas dinner. But of course it
 wouldn’t be a complete day without writing a tiny bit of code!
 
-[![code](https://haacked.com/images/haacked_com/WindowsLiveWriter/jQueryHideCloseButton_C334/code_3.jpg "code")](http://www.sxc.hu/photo/58511 "the source by befresh on sxc.hu")
+[![code](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/jQueryHideCloseButton_C334/code_3.jpg "code")](http://www.sxc.hu/photo/58511 "the source by befresh on sxc.hu")
 
 Today I’ve been working on improving the UI here and there in Subtext.
 One common task I run into over and over is using an anchor tag to

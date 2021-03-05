@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/04/05/StopTheWindow.OnloadMadness.aspx/"
 ---
 
 ![Madness - Image from DC
-Comics](https://haacked.com/images/JokerMadness.jpg) There are a lot
+Comics](https://haacked.com/assets/images/JokerMadness.jpg) There are a lot
 [cool](/archive/2006/04/05/MakingMicroformatsMoreVisibleAnnouncingTheXFNHighlighterScript.aspx "XFN Highlighter Script")
 [javascript](http://paraesthesia.com/blog/comments.php?id=674_0_1_0_C "Amazon Associates Tooltips")
 [libraries](http://www.huddletogether.com/projects/lightbox2/ "Lightbox JS v2.0")

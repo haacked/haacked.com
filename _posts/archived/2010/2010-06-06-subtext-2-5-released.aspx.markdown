@@ -17,7 +17,7 @@ new features you’ll enjoy outside of the hood.
 -   **New Admin Dashboard:** When you login to the admin section of your
     blog after upgrading, you’ll notice a fancy schmancy new dashboard
     that summarizes the information you care about in a single
-    page.[![subtext-dashboard](https://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext2.5Released_13148/subtext-dashboard_thumb.png "subtext-dashboard")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext2.5Released_13148/subtext-dashboard_2.png)The
+    page.[![subtext-dashboard](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Subtext2.5Released_13148/subtext-dashboard_thumb.png "subtext-dashboard")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Subtext2.5Released_13148/subtext-dashboard_2.png)The
     other thing you’ll notice in the screenshot is the admin section
     received a face lift with a new more polished look and feel and
     ***many usability improvements***.

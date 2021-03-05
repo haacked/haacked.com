@@ -13,7 +13,7 @@ cause me to crack my skull. We made sure to push her wheelchair to the
 edge of the river as if to push her in. We all had a good laugh
 afterwards.
 
-![Akumi's Grandma](/images/GrandMaMa.jpg)
+![Akumi's Grandma](/assets/images/GrandMaMa.jpg)
 
 **Katana**
  Afterwards we walked over to the uncle's house. Akumi refers to him as
@@ -21,7 +21,7 @@ the "Harley Davidson" uncle as he rides a Harley and is in love with the
 Harley brand. He was wearing Harley jeans and a Harley cap. When we
 arrived at his place, he showed us his 200 year old Katana.
 
-![Katana](/images/Katana.jpg) 
+![Katana](/assets/images/Katana.jpg) 
  The Katana in its case. Tadashi made the stand himself.
 
 It's a beautiful piece of craftsmanship. Every two weeks he cares for it
@@ -31,7 +31,7 @@ per centimeter to sharpen properly. It's a collector's item worth over
 $8000 made by some guy named Hattori Hanzo (ok, the Hattori part isn't
 true).
 
-![Collector's Item](/images/KatanaCollectorItem.jpg) 
+![Collector's Item](/assets/images/KatanaCollectorItem.jpg) 
  Tadashi shows us the engraving on the hilt and a matching monograph in
 a collector's book.
 
@@ -41,7 +41,7 @@ was to carelessly handle or knock down a Samurai's sword. That would
 invite a fight to the death. Only then did Tadashi let me handle the
 Katana and I took great care to show it the respect it deserved.
 
-![Me with Katana](/images/Katanaphil.jpg) 
+![Me with Katana](/assets/images/Katanaphil.jpg) 
  Displaying the ferocity and skill that would have made me a great
 samurai. Or samurai fodder.
 
@@ -79,10 +79,10 @@ testing. I'd hate to be the QA department for a seppuku katana.
 
 In the next two pictures, Tadashi demonstrates Seppuku.
 
-![Seppuku demonstration step 1](/images/SeppukuPart1.jpg) 
+![Seppuku demonstration step 1](/assets/images/SeppukuPart1.jpg) 
  Step 1, insert the blade here. Be sure to disinfect first.
 
-![](/images/SeppukuPart2.jpg) 
+![](/assets/images/SeppukuPart2.jpg) 
  Step 2, slash across here. Be sure to cut into the major organs.
 Doesn't that feel nice?
 

@@ -18,6 +18,6 @@ I hope you all have a good time out there and be safe. Especially watch
 out for the sharks!
 
 ![The author auditions for Jaws 5. (Notice the temple in the distance to
-the right)](/images/Sharks.jpg)\
+the right)](/assets/images/Sharks.jpg)\
  The Black Rock legal team approaches...
 

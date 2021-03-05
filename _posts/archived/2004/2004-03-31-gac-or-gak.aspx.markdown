@@ -4,7 +4,7 @@ tags: [dotnet]
 redirect_from: "/archive/2004/03/30/gac-or-gak.aspx/"
 ---
 
-![GAK](/images/Gak.jpg)Every time someone tells me to register a
+![GAK](/assets/images/Gak.jpg)Every time someone tells me to register a
 component in the GAC, I think of GAK. Do you remember GAK? It was this
 *Are you sure an alien didn’t sneeze this up?* brightly colored gooey
 junk made by Nickelodeon. You can still [buy the

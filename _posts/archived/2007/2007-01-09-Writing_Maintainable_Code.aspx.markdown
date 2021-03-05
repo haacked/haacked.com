@@ -6,7 +6,7 @@ redirect_from:
   - "/archive/2007/01/09/writing_maintainable_code.aspx/"
 ---
 
-![A big wrench](https://haacked.com/images/haacked_com/WindowsLiveWriter/WritingMaintainableCode/monkey-wrench.jpg)
+![A big wrench](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WritingMaintainableCode/monkey-wrench.jpg)
 
 [Jeremy Miller](http://codebetter.com/blogs/jeremy.miller/ "Jeremy Miller's Blog on CodeBetter Blogs")
 believes that among the various beneficial and important qualities a

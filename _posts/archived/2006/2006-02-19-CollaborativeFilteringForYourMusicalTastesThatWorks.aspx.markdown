@@ -4,7 +4,7 @@ tags: [music,tools]
 redirect_from: "/archive/2006/02/18/CollaborativeFilteringForYourMusicalTastesThatWorks.aspx/"
 ---
 
-![Last FM plugin](https://haacked.com/images/psplugin.png)
+![Last FM plugin](https://haacked.com/assets/images/psplugin.png)
 
 Way back in the day I worked on a website called MyLaunch which later
 changed its name to Launch before being bought by Yahoo where it [now

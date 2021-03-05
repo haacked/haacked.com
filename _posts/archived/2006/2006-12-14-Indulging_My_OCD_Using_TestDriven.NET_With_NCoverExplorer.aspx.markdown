@@ -30,13 +30,13 @@ select the ***Test With*** menu option and click ***Coverage*** as in
 the screenshot below*.*
 
 ![Test With Coverage in VS.NET
-2005](https://haacked.com/images/haacked_com/WindowsLiveWriter/IndulgingMyOCDWith.NETWithNCoverExplorer_A08C/Test-With-Coverage%5B9%5D.png)
+2005](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IndulgingMyOCDWith.NETWithNCoverExplorer_A08C/Test-With-Coverage%5B9%5D.png)
 
 After running all of the unit tests, NCoverExplorer opens up with the a
 coverage report.
 
 ![NCoverExplorer coverage results in Left
-Pane](https://haacked.com/images/haacked_com/WindowsLiveWriter/IndulgingMyOCDWith.NETWithNCoverExplorer_A08C/NCoverExplorer-Result%5B4%5D.png)
+Pane](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IndulgingMyOCDWith.NETWithNCoverExplorer_A08C/NCoverExplorer-Result%5B4%5D.png)
 
 I can drill down to take a look at code coverage all the way down to the
 method level. In this case, let’s take a look at the *Subtext.Akismet*
@@ -45,7 +45,7 @@ namespace, then to the `HttpClient` class. Hey! The `PostClient` method
 only has 91% code coverage! I’ve gotta do something about that!
 
 ![NCover Drill
-Down](https://haacked.com/images/haacked_com/WindowsLiveWriter/IndulgingMyOCDWith.NETWithNCoverExplorer_A08C/NCoverExplorer-DrillDown-Left%5B15%5D.png)
+Down](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IndulgingMyOCDWith.NETWithNCoverExplorer_A08C/NCoverExplorer-DrillDown-Left%5B15%5D.png)
 
 When I click on the method, NCoverExplorer shows me the code in the
 right pane along with which lines of code were covered. The lines in red
@@ -53,7 +53,7 @@ were not executed by my unit test. Click on the below image for a
 detailed look.
 
 [![NCoverExplorer Code Coverage
-Pane](https://haacked.com/images/haacked_com/WindowsLiveWriter/IndulgingMyOCDWith.NETWithNCoverExplorer_A08C/NCoverExplorer-DrillDown_thumb%5B2%5D.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/IndulgingMyOCDWith.NETWithNCoverExplorer_A08C/NCoverExplorer-DrillDown%5B10%5D.png)
+Pane](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IndulgingMyOCDWith.NETWithNCoverExplorer_A08C/NCoverExplorer-DrillDown_thumb%5B2%5D.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IndulgingMyOCDWith.NETWithNCoverExplorer_A08C/NCoverExplorer-DrillDown%5B10%5D.png)
 
 As you can see, there are a couple of exception cases I need to test. It
 turns out that one of these exception cases never happens, which is why

@@ -10,7 +10,7 @@ can see the general approach here in the [Octokit
 directory](https://github.com/octokit/octokit.net/tree/master/Octokit "Octokit.net Octokit directory.")
 of our project:
 
- [![octokit-projects](https://haacked.com/images/haacked_com/WindowsLiveWriter/d78f9a3929bc_93D7/octokit-projects_thumb.png "octokit-projects")](https://haacked.com/images/haacked_com/WindowsLiveWriter/d78f9a3929bc_93D7/octokit-projects_2.png)
+ [![octokit-projects](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/d78f9a3929bc_93D7/octokit-projects_thumb.png "octokit-projects")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/d78f9a3929bc_93D7/octokit-projects_2.png)
 
 Mono gets a project! MonoAndroid gets a project file! Monotuch gets a
 project file! **Everybody gets a project file!**

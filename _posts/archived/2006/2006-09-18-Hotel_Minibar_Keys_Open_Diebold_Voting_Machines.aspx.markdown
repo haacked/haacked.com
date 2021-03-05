@@ -4,7 +4,7 @@ tags: [tech,politics]
 redirect_from: "/archive/2006/09/17/Hotel_Minibar_Keys_Open_Diebold_Voting_Machines.aspx/"
 ---
 
-[![Thermometer](https://haacked.com/images/haacked_com/WindowsLiveWriter/HotelMinibarKeysOpenDieboldVotingMachine_AA6F/423004_thermometer_thumb%5B2%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/HotelMinibarKeysOpenDieboldVotingMachine_AA6F/423004_thermometer%5B4%5D.jpg)
+[![Thermometer](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HotelMinibarKeysOpenDieboldVotingMachine_AA6F/423004_thermometer_thumb%5B2%5D.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HotelMinibarKeysOpenDieboldVotingMachine_AA6F/423004_thermometer%5B4%5D.jpg)
 Interesting post on how easy it is to [open up a Diebold voting
 machine](http://www.freedom-to-tinker.com/?p=1064).  Security is not
 realized by trusting the words of some CEO.  Security is obtained via

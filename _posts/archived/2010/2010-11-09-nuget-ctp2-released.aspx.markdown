@@ -120,7 +120,7 @@ based Continuous Integration (CI) server hosted at
 daily builds compiled directly from our source tree. So for those of you
 who knew about the build server, you would have been playing with the
 CTP 2 for a while now. ![Winking
-smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/NuGet-CTP-2-Released_9810/wlEmoticon-winkingsmile_2.png)
+smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NuGet-CTP-2-Released_9810/wlEmoticon-winkingsmile_2.png)
 
 What’s next?
 ------------
@@ -144,5 +144,5 @@ at.
 At this point, if you haven’t tried NuGet, give it a try. If you have
 tried it, let us know what you think. I hope you enjoy using it, I know
 I do.
-![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/NuGet-CTP-2-Released_9810/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NuGet-CTP-2-Released_9810/wlEmoticon-smile_2.png)
 

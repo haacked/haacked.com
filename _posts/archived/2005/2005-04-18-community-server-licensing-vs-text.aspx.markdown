@@ -12,7 +12,7 @@ available](http://www.telligentsystems.com/Solutions/license.aspx?File=forums-so
 but it requires you to display the following image at the bottom of
 every page.
 
-![CS EULA](/images/CSEULA.GIF) I have no problem giving credit where
+![CS EULA](/assets/images/CSEULA.GIF) I have no problem giving credit where
 credit's due, but this is in stark contrast to the [BSD license employed
 by .TEXT](http://scottwater.com/License/) and you should be aware of
 this if you plan to upgrade to CS.

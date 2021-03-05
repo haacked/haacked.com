@@ -26,7 +26,7 @@ floor of the [SD West
 conference](http://www.sdexpo.com/ "SD West conference website").
 
 ![Burger and
-Fries](https://haacked.com/images/haacked_com/WindowsLiveWriter/burger-and-fries.jpg)
+Fries](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/burger-and-fries.jpg)
 
 As is common at conferences, several booths were giving out those
 ubiquitous one-size-fits all X-Large t-shirts emblazoned with a flaccid

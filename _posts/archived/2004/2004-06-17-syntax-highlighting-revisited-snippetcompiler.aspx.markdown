@@ -5,7 +5,7 @@ redirect_from: "/archive/2004/06/16/syntax-highlighting-revisited-snippetcompile
 ---
 
 [![Snippet
-Compiler](/images/SnippetCompilerIcon.png)](http://www.sliver.com/dotnet/SnippetCompiler/)Regarding
+Compiler](/assets/images/SnippetCompilerIcon.png)](http://www.sliver.com/dotnet/SnippetCompiler/)Regarding
 Syntax Highlighting, [Daniel Turini](http://dturini.blogspot.com/)
 pointed out that
 [SnippetCompiler](http://www.sliver.com/dotnet/SnippetCompiler) has the

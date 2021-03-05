@@ -4,7 +4,7 @@ tags: [tools]
 redirect_from: "/archive/2004/06/30/itunes-album-art-importer.aspx/"
 ---
 
-![iTunes Art Importer](/images/iTunesArtImporter.jpg)Found this on
+![iTunes Art Importer](/assets/images/iTunesArtImporter.jpg)Found this on
 [Scott Hanselman's](http://www.hanselman.com/) blog. [The iTunes Art
 Importer](http://www.yvg.com/itunesartimporter.shtml).
 

@@ -21,7 +21,7 @@ end, I swapped out the `site.css` file and added an image and changed
 the site from the drab default blue template to something that looked
 similar in spirit to StackOverflow.
 
-![haackoverflow-logo-250](https://haacked.com/images/haacked_com/WindowsLiveWriter/HaackOverflowAtPDC_108E8/haackoverflow-logo-250_3.png "haackoverflow-logo-250")
+![haackoverflow-logo-250](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HaackOverflowAtPDC_108E8/haackoverflow-logo-250_3.png "haackoverflow-logo-250")
 
 If you haven’t seen the talk yet, you can [watch it on
 Channel9](http://channel9.msdn.com/pdc2008/PC21/ "ASP.NET MVC Talk at PDC").

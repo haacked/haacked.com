@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/04/29/ASP.NETMVPHaacked.aspx/"
 ---
 
 ![ASP.NET 2.0 MVP Hacks and
-Tips](https://haacked.com/images/ASP.NET_Hacks.jpg) [Scott Hanselman
+Tips](https://haacked.com/assets/images/ASP.NET_Hacks.jpg) [Scott Hanselman
 mentions a new
 book](http://www.hanselman.com/blog/ASPNETMVPHacks.aspx "ASP.NET MVP Hacks")
 in which he is one of the coauthors featured on the cover. Yes, they

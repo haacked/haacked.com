@@ -16,7 +16,7 @@ and web standards. But this year, it seemed that the scope for Mix was
 expanded to be about, well, a *Mix* of technologies as the Windows Phone
 7 series figured prominently at the conference.
 
-[![shanselman-haacked-jeresig](https://haacked.com/images/haacked_com/WindowsLiveWriter/Mix10_E26B/shanselman-haacked-jeresig_thumb.jpg "shanselman-haacked-jeresig")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Mix10_E26B/shanselman-haacked-jeresig.jpg)
+[![shanselman-haacked-jeresig](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Mix10_E26B/shanselman-haacked-jeresig_thumb.jpg "shanselman-haacked-jeresig")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Mix10_E26B/shanselman-haacked-jeresig.jpg)
 *Scott Hanselman and I are seen here attempting to tutor this young man
 about a language called “JavaScript”*
 

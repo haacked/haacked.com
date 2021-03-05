@@ -47,13 +47,13 @@ After creating a new Virtual PC machine, select the *CD* menu and then
 *Capture ISO Image* and browse for the iso image you downloaded.
 
 ![Virtual PC Capture ISO Image
-Menu](https://haacked.com/images/haacked_com/WindowsLiveWriter/InstallingUbuntuonVirtualPCforWindowsLov_C436/image033.png)
+Menu](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/InstallingUbuntuonVirtualPCforWindowsLov_C436/image033.png)
 
 When the Ubuntu menu comes up, make sure to select *Start Ubuntu in Safe
 Graphics Mode*. I’ll explain why later.
 
 ![Ubuntu startup
-screen](https://haacked.com/images/haacked_com/WindowsLiveWriter/InstallingUbuntuonVirtualPCforWindowsLov_C436/image032.png)
+screen](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/InstallingUbuntuonVirtualPCforWindowsLov_C436/image032.png)
 
 At this point, Ubuntu boots up and if you’re a total noob like me, you
 might think “Wow! That was a fast install!”.
@@ -86,7 +86,7 @@ At this point, you are ready to start the install. From the top level
 *System* menu, select *Administration* | *Install*.
 
 ![Starting the
-Install](https://haacked.com/images/haacked_com/WindowsLiveWriter/InstallingUbuntuonVirtualPCforWindowsLov_C436/image08.png)
+Install](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/InstallingUbuntuonVirtualPCforWindowsLov_C436/image08.png)
 
 The installation process asks you a few simple questions and doesn’t
 take too long.
@@ -102,7 +102,7 @@ Us](http://en.wikipedia.org/wiki/All_your_base_are_belong_to_us "All Your base o
 video.
 
 ![Ubuntu without the proper printer
-settings](https://haacked.com/images/haacked_com/WindowsLiveWriter/InstallingUbuntuonVirtualPCforWindowsLov_C436/image029.png)
+settings](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/InstallingUbuntuonVirtualPCforWindowsLov_C436/image029.png)
 
 Fortunately, I found the fix [in this
 post](http://weblogs.asp.net/pscott/archive/2005/10/13/427426.aspx "Installing Ubuntu on Virtual PC 2004")

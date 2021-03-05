@@ -9,7 +9,7 @@ redirect_from:
 UPDATE: This code is now hosted in the Subkismet project on CodePlex.
 
 [![Source:
-http://www.dpchallenge.com/image.php?IMAGE\_ID=138743](https://haacked.com/images/haacked_com/WindowsLiveWriter/LightweightInvisibleCAPTCHAControl_281C/138743_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/LightweightInvisibleCAPTCHAControl_281C/1387432.jpg)
+http://www.dpchallenge.com/image.php?IMAGE\_ID=138743](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/LightweightInvisibleCAPTCHAControl_281C/138743_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/LightweightInvisibleCAPTCHAControl_281C/1387432.jpg)
 Not too long ago I wrote about [using
 heuristics](https://haacked.com/archive/2006/08/29/Comment_Spam_Heuristics.aspx)
 to fight comment spam.  A little later I [pointed to the NoBot
@@ -67,7 +67,7 @@ non-javascript browsers (think Lynx or those text-to-speech browsers for
 the blind) a chance to comment.
 
 ![Accessible version of the Invisible CAPTCHA
-control](https://haacked.com/images/haacked_com/WindowsLiveWriter/LightweightInvisibleCAPTCHAControl_281C/AccessibleInvisibleCaptcha4.png)
+control](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/LightweightInvisibleCAPTCHAControl_281C/AccessibleInvisibleCaptcha4.png)
 
 This should be sufficient to block a lot of comment spam.
 

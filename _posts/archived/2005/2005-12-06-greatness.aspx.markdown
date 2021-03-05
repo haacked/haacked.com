@@ -4,7 +4,7 @@ tags: [career]
 redirect_from: "/archive/2005/12/05/greatness.aspx/"
 ---
 
-![The Greatest](https://haacked.com/images/TheGreatest.jpg) [Wesner
+![The Greatest](https://haacked.com/assets/images/TheGreatest.jpg) [Wesner
 writes
 that](http://wesnerm.blogs.com/net_undocumented/2005/12/think_big.html)
 a couple of readers criticized him for his desire to aspire for

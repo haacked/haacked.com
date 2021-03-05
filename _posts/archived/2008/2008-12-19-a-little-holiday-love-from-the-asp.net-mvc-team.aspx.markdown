@@ -19,7 +19,7 @@ did not disappoint yet again with a a [great detailed
 post](http://weblogs.asp.net/scottgu/archive/2008/12/19/asp-net-mvc-design-gallery-and-upcoming-view-improvements-with-the-asp-net-mvc-release-candidate.aspx "ASP.NET MVC Release Candidate")
 on some upcoming new features both in the runtime and in tooling.
 
-[![look-ma-no-code-behind](https://haacked.com/images/haacked_com/WindowsLiveWriter/ALittleHolidayLoveFromTheASP.NETMVCTeam_8267/look-ma-no-code-behind_thumb_1.png "look-ma-no-code-behind")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ALittleHolidayLoveFromTheASP.NETMVCTeam_8267/look-ma-no-code-behind_4.png)
+[![look-ma-no-code-behind](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ALittleHolidayLoveFromTheASP.NETMVCTeam_8267/look-ma-no-code-behind_thumb_1.png "look-ma-no-code-behind")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ALittleHolidayLoveFromTheASP.NETMVCTeam_8267/look-ma-no-code-behind_4.png)
 Often, it’s the little touches that get me excited, and I want to call
 one of those out, **Views without Code-Behind**. This was always
 possible, of course, but due to some incredible hacking down in the
@@ -59,7 +59,7 @@ the community to upload alternative designs for our default template.
 Happy Holidays
 --------------
 
-[![Cody](https://haacked.com/images/haacked_com/WindowsLiveWriter/ALittleHolidayLoveFromTheASP.NETMVCTeam_8267/PIC-0092%20(1)_thumb.jpg "Cody")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ALittleHolidayLoveFromTheASP.NETMVCTeam_8267/PIC-0092%20(1)_2.jpg)
+[![Cody](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ALittleHolidayLoveFromTheASP.NETMVCTeam_8267/PIC-0092%20(1)_thumb.jpg "Cody")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ALittleHolidayLoveFromTheASP.NETMVCTeam_8267/PIC-0092%20(1)_2.jpg)
 Again, I apologize that we don’t have updated bits for you to play with,
 but we’ll have something next year! In the meanwhile, as the end of this
 year winds down, I hope it was a good one for you. It certainly was a

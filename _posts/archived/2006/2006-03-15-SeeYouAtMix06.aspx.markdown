@@ -35,7 +35,7 @@ scarring bright orange Aloha shirt so that those of you who owe me a
 beer can easily spot me. If I owe you a beer, I will be wearing green
 and I have blonde hair. Ignore the rest of this post.
 
-![Orange Shirt](https://haacked.com/images/OrangeShirt.jpg)\
+![Orange Shirt](https://haacked.com/assets/images/OrangeShirt.jpg)\
 Figure 1: Eye burning shirt at BurningMan
 
 Just look for the guy who looks like a [cross between Kim Jong Il and

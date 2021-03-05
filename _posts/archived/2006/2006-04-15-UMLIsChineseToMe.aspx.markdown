@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/04/14/UMLIsChineseToMe.aspx/"
 ---
 
 ![Chinese Character for
-Money](https://haacked.com/images/MoneyInChinese.jpg)
+Money](https://haacked.com/assets/images/MoneyInChinese.jpg)
 [Jeff](http://www.codinghorror.com/blog/ "CodingHorror blog") has a
 great post in which he compares UML to circuit diagrams and then asks,
 **why doesn’t UML enjoy the same currency for software development?**
@@ -68,7 +68,7 @@ If only it were that easy.
 
 ### Make a Wish
 
-![Evil Genie](https://haacked.com/images/genie.jpg) It would be nice to
+![Evil Genie](https://haacked.com/assets/images/genie.jpg) It would be nice to
 be able to work with such high level abstractions and wire them up. *Oh,
 here, I’ll just draw a line from this order to the shopping cart and
 **boom!** when the user clicks this button, the item goes into the

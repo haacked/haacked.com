@@ -88,7 +88,7 @@ You could create one per project, but I decided to create one for my solution. I
 I then configured each project that I cared about in my solution (I ignored the unit test project) to enable code analysis using this
 ruleset file. Just go to the project properties and select the *Code Analysis* tab.
 
-[![CodeAnalysisRuleSet](https://haacked.com/images/haacked_com/WindowsLiveWriter/70bb1ffd73a5_C2A0/CodeAnalysisRuleSet_thumb.png "CodeAnalysisRuleSet")](https://haacked.com/images/haacked_com/WindowsLiveWriter/70bb1ffd73a5_C2A0/CodeAnalysisRuleSet_2.png)
+[![CodeAnalysisRuleSet](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/70bb1ffd73a5_C2A0/CodeAnalysisRuleSet_thumb.png "CodeAnalysisRuleSet")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/70bb1ffd73a5_C2A0/CodeAnalysisRuleSet_2.png)
 
 I changed the selected Configuration to “All Configurations”. I also checked the “Enable Code Analysis…” checkbox. I then clicked “Open” and selected my ruleset file.
 
@@ -128,7 +128,7 @@ Notice the `IncludeAll` element now makes every code analysis warning into an er
 
 Note that you don’t have to edit this file by hand. If you open the ruleset in Visual Studio it’ll provide a GUI editor. I prefer to simply edit the file.
 
-[![RuleSetEditor](https://haacked.com/images/haacked_com/WindowsLiveWriter/70bb1ffd73a5_C2A0/RuleSetEditor_thumb.png "RuleSetEditor")](https://haacked.com/images/haacked_com/WindowsLiveWriter/70bb1ffd73a5_C2A0/RuleSetEditor_2.png)
+[![RuleSetEditor](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/70bb1ffd73a5_C2A0/RuleSetEditor_thumb.png "RuleSetEditor")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/70bb1ffd73a5_C2A0/RuleSetEditor_2.png)
 
 One other thing I did was for really important rules where there were too many issues to fix in a timely manner, I would simply use Visual Studio to suppress all of them and commit that. At least that ensured that no new violations of the rule would be committed. That allowed me to fix the existing ones at my leisure.
 

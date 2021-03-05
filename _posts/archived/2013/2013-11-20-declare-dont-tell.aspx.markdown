@@ -2,7 +2,7 @@
 title: Declare, Don't Tell
 tags: [code,rx]
 redirect_from: "/archive/2013/11/19/declare-dont-tell.aspx/"
-excerpt_image: https://haacked.com/images/haacked_com/WindowsLiveWriter/DeclareDontTell_8BB0/megaphone_2.jpg
+excerpt_image: https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DeclareDontTell_8BB0/megaphone_2.jpg
 ---
 
 Judging by the reaction to my [Death to the If
@@ -11,7 +11,7 @@ where I talked about the benefits of declarative code and reducing
 control statements, not everyone is on board with this concept. That’s
 fine, I don’t lose sleep over people being wrong.
 
-[![Photo by Grégoire Lannoy CC BY 2.0](https://haacked.com/images/haacked_com/WindowsLiveWriter/DeclareDontTell_8BB0/megaphone_thumb.jpg "megaphone")](https://haacked.com/images/haacked_com/WindowsLiveWriter/DeclareDontTell_8BB0/megaphone_2.jpg)
+[![Photo by Grégoire Lannoy CC BY 2.0](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DeclareDontTell_8BB0/megaphone_thumb.jpg "megaphone")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DeclareDontTell_8BB0/megaphone_2.jpg)
 
 My suspicion is that the reason people don’t have the “aha! moment” is
 because examples of “declarative” code are too simple. This is

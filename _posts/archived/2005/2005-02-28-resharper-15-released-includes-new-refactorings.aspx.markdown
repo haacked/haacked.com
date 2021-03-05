@@ -4,7 +4,7 @@ tags: [tools,refactoring]
 redirect_from: "/archive/2005/02/27/resharper-15-released-includes-new-refactorings.aspx/"
 ---
 
-![Evolution of Development](/images/evolution.jpg)[Jet
+![Evolution of Development](/assets/images/evolution.jpg)[Jet
 Brains](http://www.jetbrains.com/) released a [free
 upgrade](http://www.jetbrains.com/resharper/download/whatsnew.html) to
 their ReSharper product. Let me tell you, using this product feels like

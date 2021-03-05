@@ -4,7 +4,7 @@ tags: [code-review,methodologies]
 redirect_from: "/archive/2006/02/02/OptionsForDistributedCodeReviews.aspx/"
 ---
 
-![Screen Showing Code](https://haacked.com/images/CodeReview.jpg) The
+![Screen Showing Code](https://haacked.com/assets/images/CodeReview.jpg) The
 great thing about being involved in a couple of open source projects is
 that they provide great opportunities to learn and to teach, especially
 through the vehicle of code reviews.

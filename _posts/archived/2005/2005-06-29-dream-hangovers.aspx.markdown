@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2005/06/28/dream-hangovers.aspx/"
 ---
 
-![Jaw Fragment](https://haacked.com/images/jawfragment.jpg) From the
+![Jaw Fragment](https://haacked.com/assets/images/jawfragment.jpg) From the
 title of his post, [Dream
 Hangovers](http://sharpmarbles.stufftoread.com/archive/2005/06/30/3565.aspx),
 I thought [Robb](http://sharpmarbles.stufftoread.com/) was going to tell

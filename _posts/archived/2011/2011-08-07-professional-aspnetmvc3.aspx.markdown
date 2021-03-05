@@ -64,7 +64,7 @@ edition](http://www.amazon.com/gp/product/1118076583/ref=as_li_ss_tl?ie=UTF8&tag
 and a [kindle
 edition](http://www.amazon.com/gp/product/B005EHG1TI/ref=as_li_ss_tl?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B005EHG1TI).
 Don’t be shy about collecting them all! ![Winking
-smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/0b64ea6cbad6_1365C/wlEmoticon-winkingsmile_2.png)),
+smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/0b64ea6cbad6_1365C/wlEmoticon-winkingsmile_2.png)),
 please do write a review on Amazon.com. We appreciate all the feedback
 we can get and already have ideas on how to improve the next one!
 

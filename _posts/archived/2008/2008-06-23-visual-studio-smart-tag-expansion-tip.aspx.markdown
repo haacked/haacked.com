@@ -8,7 +8,7 @@ I used to find the smart tag really annoying in Visual Studio because it
 is such a small target to hit with the mouse. Silly me, trying to expand
 a smart tag with a mouse.
 
-![VS-smart-tag](https://haacked.com/images/haacked_com/WindowsLiveWriter/VisualStudioSmartTagExpansionTip_B2D0/VS-smart-tag_3.png "VS-smart-tag") 
+![VS-smart-tag](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/VisualStudioSmartTagExpansionTip_B2D0/VS-smart-tag_3.png "VS-smart-tag") 
 
 When you highlight the tag with your mouse, it tells you that the
 keyboard combination of ALT + SHIFT + F10 will expand the menu.
@@ -23,7 +23,7 @@ written last year.
 
 Just hit the CTRL key plus the period key (CTRL + .)
 
-![VS-smart-tag-expansion](https://haacked.com/images/haacked_com/WindowsLiveWriter/VisualStudioSmartTagExpansionTip_B2D0/VS-smart-tag-expansion_3.png "VS-smart-tag-expansion")
+![VS-smart-tag-expansion](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/VisualStudioSmartTagExpansionTip_B2D0/VS-smart-tag-expansion_3.png "VS-smart-tag-expansion")
 
 I really like this approach when performing renames within Visual Studio
 because it’s totally contextual. Rather than starting with a rename

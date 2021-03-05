@@ -4,7 +4,7 @@ tags: [humor]
 redirect_from: "/archive/2005/02/19/GetYourPimpName.aspx/"
 ---
 
-![](/images/PimpName.gif) My friends are always looking out for me.
+![](/assets/images/PimpName.gif) My friends are always looking out for me.
 Apparently Tre (aka Macktastic Tre Flava) realized that as an elevated
 player, I was in dire need of a pimp name. So he helpfully sent me a
 link to the [Pimp Name Generator](http://www.playerappreciate.com/pimphandle.asp) one of the

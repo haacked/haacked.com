@@ -4,7 +4,7 @@ tags: [humor]
 redirect_from: "/archive/2004/08/26/joke-of-the-day-kenny-the-rooster.aspx/"
 ---
 
-![Rooster](/images/rooster.jpg)This farmer has about 500 hens, but no
+![Rooster](/assets/images/rooster.jpg)This farmer has about 500 hens, but no
 rooster, and he wants chicks. So, he goes down the road to the next
 farmer and asks if he has a rooster that he would sell. The other farmer
 says, "Yep, I've got this great rooster, named Kenny. He'll service

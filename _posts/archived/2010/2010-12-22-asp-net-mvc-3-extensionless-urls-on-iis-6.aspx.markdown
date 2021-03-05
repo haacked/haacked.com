@@ -72,23 +72,23 @@ In IIS Manager, I right clicked on the Web Services Extension node and
 selected the menu option labeled *Allow all Web Service extensions for a
 specific application*:
 
-![iis6-allowing-extensions](https://haacked.com/images/haacked_com/WindowsLiveWriter/d5689721b8f4_AA7D/iis6-allowing-extensions_c8da0e56-c92c-4db2-bec3-dae986aef3db.png "iis6-allowing-extensions")
+![iis6-allowing-extensions](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/d5689721b8f4_AA7D/iis6-allowing-extensions_c8da0e56-c92c-4db2-bec3-dae986aef3db.png "iis6-allowing-extensions")
 
 In the resulting dialog, I chose the ASP.NET v4.0.30319 option.
 
-![iis6-allow-web-service](https://haacked.com/images/haacked_com/WindowsLiveWriter/d5689721b8f4_AA7D/iis6-allow-web-service_6666234c-f460-49d7-b324-96053d4c8469.png "iis6-allow-web-service")
+![iis6-allow-web-service](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/d5689721b8f4_AA7D/iis6-allow-web-service_6666234c-f460-49d7-b324-96053d4c8469.png "iis6-allow-web-service")
 
 To double check that everything was configured correctly, I looked at
 the properties for my website and ensured that *Scripts* were enabled.
 
-![iis6-home-directory-tab](https://haacked.com/images/haacked_com/WindowsLiveWriter/d5689721b8f4_AA7D/iis6-home-directory-tab_a875455f-2db1-4a62-8302-5dfda6ec4657.png "iis6-home-directory-tab")
+![iis6-home-directory-tab](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/d5689721b8f4_AA7D/iis6-home-directory-tab_a875455f-2db1-4a62-8302-5dfda6ec4657.png "iis6-home-directory-tab")
 
 I also clicked on the *Configuration…* button and made sure that \*.axd
 was mapped to the proper ASP.NET Isapi dll (aspnet\_isapi.dll).
 
-![iis6-isapi](https://haacked.com/images/haacked_com/WindowsLiveWriter/d5689721b8f4_AA7D/iis6-isapi_82292fe2-1d7c-4575-a05a-dce0ba366387.png "iis6-isapi")
+![iis6-isapi](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/d5689721b8f4_AA7D/iis6-isapi_82292fe2-1d7c-4575-a05a-dce0ba366387.png "iis6-isapi")
 
-![iis6-extension-mapping](https://haacked.com/images/haacked_com/WindowsLiveWriter/d5689721b8f4_AA7D/iis6-extension-mapping_1d236e21-6957-4e6f-bdfa-0cdf202a8a6c.png "iis6-extension-mapping")
+![iis6-extension-mapping](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/d5689721b8f4_AA7D/iis6-extension-mapping_1d236e21-6957-4e6f-bdfa-0cdf202a8a6c.png "iis6-extension-mapping")
 
 With all that in place, I was able to run standard ASP.NET MVC web
 application and make requests for /, /home/about/, etc. without any

@@ -20,7 +20,7 @@ been about what the situation is exactly. In this post, I hope to clear
 up the confusion (and hopefully not add any more new confusion) and
 explain what is and isn’t supported and why that’s the case.
 
-[![why](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2andVisualStudio2010_113C5/why_3.jpg "why")](http://www.flickr.com/photos/emagic/56206868/ "Good Question, by e-magic: CC license by attribution some rights reserved")
+[![why](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2andVisualStudio2010_113C5/why_3.jpg "why")](http://www.flickr.com/photos/emagic/56206868/ "Good Question, by e-magic: CC license by attribution some rights reserved")
 
 Part of the confusion may lie in the fact that ASP.NET MVC 2 consists of
 two components, the runtime and what we call “Tooling”. The runtime is

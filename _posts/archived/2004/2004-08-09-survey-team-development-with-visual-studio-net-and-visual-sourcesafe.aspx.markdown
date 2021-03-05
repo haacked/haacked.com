@@ -4,7 +4,7 @@ tags: [tools]
 redirect_from: "/archive/2004/08/08/survey-team-development-with-visual-studio-net-and-visual-sourcesafe.aspx/"
 ---
 
-![Patterns and Practices](/images/patternspractices.gif) I'm trying to
+![Patterns and Practices](/assets/images/patternspractices.gif) I'm trying to
 convince my coworkers that we should use the Isolated development mode
 for ASP.NET projects as described in the Patterns and Practices document
 [Team Development with Visual Studio .NET and Visual

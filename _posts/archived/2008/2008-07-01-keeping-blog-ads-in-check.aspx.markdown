@@ -15,7 +15,7 @@ adding more ads from other ad networks overwhelms publishers and soon
 blogs start to look more like the movie
 [Idiocracy](http://www.imdb.com/title/tt0387808/ "Idiocracy on IMDB").
 
-![idiocracy](https://haacked.com/images/haacked_com/WindowsLiveWriter/KeepingBlogAdsInCheck_7E99/idiocracy_3.jpg "idiocracy")
+![idiocracy](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/KeepingBlogAdsInCheck_7E99/idiocracy_3.jpg "idiocracy")
 
 A while back, [Jeff Atwood](http://codinghorror.com/ "CodingHorror")
 wrote about how content is becoming dwarfed by advertisements in his

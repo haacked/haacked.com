@@ -10,7 +10,7 @@ They are considered very armed and dangerous. In fact, they are mostly
 armed and not much else.
 
 [![Cyborg
-Battle](https://haacked.com/images/haacked_com/WindowsLiveWriter/AttentionDenizensofBlackRockCity_FF91/IMGP4360_thumb_1.jpg "Cyborg Battle")](https://haacked.com/images/haacked_com/WindowsLiveWriter/AttentionDenizensofBlackRockCity_FF91/IMGP4360_1.jpg)
+Battle](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/AttentionDenizensofBlackRockCity_FF91/IMGP4360_thumb_1.jpg "Cyborg Battle")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/AttentionDenizensofBlackRockCity_FF91/IMGP4360_1.jpg)
 
 These cyborgs do **not** come in peace. I repeat, they are to be
 considerd hostiles. However, we’ve received a secret communiqué that

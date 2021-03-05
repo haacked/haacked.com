@@ -4,7 +4,7 @@ tags: [news]
 redirect_from: "/archive/2004/12/31/tsunami-relief.aspx/"
 ---
 
-![Unicef](/images/unicef.gif) We finally have a moment to sit down and
+![Unicef](/assets/images/unicef.gif) We finally have a moment to sit down and
 make a donation to the relief efforts under way in South Asia. With the
 death toll at 141,000 and rising, it's impossible to grasp the amount of
 devastation caused by this disaster.

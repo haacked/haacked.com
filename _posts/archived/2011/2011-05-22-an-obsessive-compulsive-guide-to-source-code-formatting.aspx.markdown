@@ -18,7 +18,7 @@ Simply right click in the editor and select **Organize Usings \> Remove
 and Sort****in the context menu.
 
 ![SubtextSolution - Microsoft Visual Studio (Administrator)
-(2)](https://haacked.com/images/haacked_com/WindowsLiveWriter/Formatting-All-Source-Files-With-NuGet_DE7D/SubtextSolution%20-%20Microsoft%20Visual%20Studio%20(Administrator)%20(2)_3.png "SubtextSolution - Microsoft Visual Studio (Administrator) (2)")
+(2)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Formatting-All-Source-Files-With-NuGet_DE7D/SubtextSolution%20-%20Microsoft%20Visual%20Studio%20(Administrator)%20(2)_3.png "SubtextSolution - Microsoft Visual Studio (Administrator) (2)")
 
 In Visual Studio, you can specify how you want code formatted by
 launching the Options dialog via **Tools**\> **Options** and then select
@@ -27,7 +27,7 @@ there are multiple formatting options providing hours of fun fodder for
 [religious
 debates](https://haacked.com/archive/2006/02/08/OnReligiousWarsinSoftware.aspx "Religious debates in software").
 
-[![Options](https://haacked.com/images/haacked_com/WindowsLiveWriter/Formatting-All-Source-Files-With-NuGet_DE7D/Options_thumb.png "Options")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Formatting-All-Source-Files-With-NuGet_DE7D/Options_2.png)
+[![Options](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Formatting-All-Source-Files-With-NuGet_DE7D/Options_thumb.png "Options")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Formatting-All-Source-Files-With-NuGet_DE7D/Options_2.png)
 
 Once you have the settings just the way you want them, you can select
 the **Edit \> Advanced \> Format Document** (or simply use the shortcut
@@ -149,7 +149,7 @@ the NuGet Package Manager Console. The profile file doesn't necessarily
 exist by default, but it’s easy enough to create it. The following
 screenshot shows a session where I did just that.
 
-![nuget-ps-profile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Formatting-All-Source-Files-With-NuGet_DE7D/nuget-ps-profile_3.png "nuget-ps-profile")
+![nuget-ps-profile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Formatting-All-Source-Files-With-NuGet_DE7D/nuget-ps-profile_3.png "nuget-ps-profile")
 
 The `mkdir –force (split-path $profile)` command creates the
 *WindowsPowershell* directory if it doesn’t already exist.
@@ -179,7 +179,7 @@ move to the next document.
 
 The following screenshot shows the script in action.
 
-![formatting-documents](https://haacked.com/images/haacked_com/WindowsLiveWriter/Formatting-All-Source-Files-With-NuGet_DE7D/formatting-documents_3.png "formatting-documents")
+![formatting-documents](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Formatting-All-Source-Files-With-NuGet_DE7D/formatting-documents_3.png "formatting-documents")
 
 With this in place, you can now indulge your OCD and run the
 Format-Document command to clean up your entire solution. I just ran it

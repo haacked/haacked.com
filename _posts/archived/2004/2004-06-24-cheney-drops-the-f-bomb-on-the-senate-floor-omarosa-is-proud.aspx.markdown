@@ -4,7 +4,7 @@ tags: [politics]
 redirect_from: "/archive/2004/06/23/cheney-drops-the-f-bomb-on-the-senate-floor-omarosa-is-proud.aspx/"
 ---
 
-![Cheney](/images/Cheney.jpg)It's funny to me that this makes the news.
+![Cheney](/assets/images/Cheney.jpg)It's funny to me that this makes the news.
 
 > WASHINGTON (Reuters) - Vice President Dick Cheney blurted out the "F
 > word" at Democratic Sen. Patrick Leahy of Vermont during a heated

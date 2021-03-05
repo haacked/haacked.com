@@ -10,7 +10,7 @@ comment](http://twitter.com/haacked/status/22118616918 "Comment on Twitter"):
 > We're not here to write software, we're here to ship products and
 > deliver value. Writing code is just a fulfilling  means to that end :)
 
-[![binary-code](https://haacked.com/images/haacked_com/WindowsLiveWriter/WereNotHereToWriteSoftware_134DA/binary-code_thumb.jpg "binary-code")](https://haacked.com/images/haacked_com/WindowsLiveWriter/WereNotHereToWriteSoftware_134DA/binary-code_2.jpg)
+[![binary-code](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WereNotHereToWriteSoftware_134DA/binary-code_thumb.jpg "binary-code")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WereNotHereToWriteSoftware_134DA/binary-code_2.jpg)
 *All I see now is blonde, brunette, redhead.*
 
 For the most part, I received a lot of tweets in agreement, but there

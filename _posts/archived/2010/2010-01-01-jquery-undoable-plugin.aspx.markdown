@@ -12,11 +12,11 @@ Well no longer!
 I was managing my Netflix queue recently when I accidentally added a
 movie I did not intend to add (click on the image for a larger view).
 
-[![netflix-queue](https://haacked.com/images/haacked_com/WindowsLiveWriter/UndoableactionsWithjQuery.undoable_D616/netflix-queue_thumb.png "netflix-queue")](https://haacked.com/images/haacked_com/WindowsLiveWriter/UndoableactionsWithjQuery.undoable_D616/netflix-queue_2.png)
+[![netflix-queue](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UndoableactionsWithjQuery.undoable_D616/netflix-queue_thumb.png "netflix-queue")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UndoableactionsWithjQuery.undoable_D616/netflix-queue_2.png)
 Naturally, I clicked on the blue “x” to remove it from the queue and saw
 this.
 
-[![netflix-queue-deleted](https://haacked.com/images/haacked_com/WindowsLiveWriter/UndoableactionsWithjQuery.undoable_D616/netflix-queue-deleted_thumb.png "netflix-queue-deleted")](https://haacked.com/images/haacked_com/WindowsLiveWriter/UndoableactionsWithjQuery.undoable_D616/netflix-queue-deleted_2.png)
+[![netflix-queue-deleted](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UndoableactionsWithjQuery.undoable_D616/netflix-queue-deleted_thumb.png "netflix-queue-deleted")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UndoableactionsWithjQuery.undoable_D616/netflix-queue-deleted_2.png)
 Notice that there’s no confirmation dialog that I’m most likely to
 ignore questioning my intent requiring me to take yet one more action to
 remove the movie. No, the movie is removed immediately from my queue

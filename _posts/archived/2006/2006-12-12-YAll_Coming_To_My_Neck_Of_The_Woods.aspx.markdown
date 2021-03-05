@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/12/11/YAll_Coming_To_My_Neck_Of_The_Woods.aspx/"
 ---
 
 ![PDC 2007 Developer
-Powered](https://haacked.com/images/haacked_com/WindowsLiveWriter/YAllComingToMyNeckOfTheWoods_1478D/image001_revised%5B1%5D%5B4%5D.gif)
+Powered](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/YAllComingToMyNeckOfTheWoods_1478D/image001_revised%5B1%5D%5B4%5D.gif)
 According to Brad Abrams, it looks like we’re going to have us another
 PDC [in 2007](http://msdn.microsoft.com/events/pdc/ "PDC 2007"). For
 those of you not in the know, PDC stands for Professional Developer

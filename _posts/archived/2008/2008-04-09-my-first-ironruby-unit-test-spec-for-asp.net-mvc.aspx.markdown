@@ -54,7 +54,7 @@ the require statements so it fits within the width of my blog)
 And here is the result so far.
 
 ![Administrator
-CWindowsSystem32cmd.exe](https://haacked.com/images/haacked_com/WindowsLiveWriter/TestingMVCRoutingWithIronRuby_14B31/Administrator%20CWindowsSystem32cmd.exe_3.png)
+CWindowsSystem32cmd.exe](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TestingMVCRoutingWithIronRuby_14B31/Administrator%20CWindowsSystem32cmd.exe_3.png)
 
 Yay! Two passing tests.
 

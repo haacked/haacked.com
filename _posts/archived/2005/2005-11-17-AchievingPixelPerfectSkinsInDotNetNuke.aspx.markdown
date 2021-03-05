@@ -23,10 +23,10 @@ The examples below present a Semantic Link Module I wrote (it uses an
 unordered list instead of a table to render the link list) while in
 normal content mode and while logged in as an administrator.
 
-![](https://haacked.com/images/BeforeLinkModule.Png) 
+![](https://haacked.com/assets/images/BeforeLinkModule.Png) 
  Figure 1: Normal View
 
-![](https://haacked.com/images/ActionOptions.Png) 
+![](https://haacked.com/assets/images/ActionOptions.Png) 
  Figure 2: Editable View
 
 The container that wraps this module has to have a placeholder for the

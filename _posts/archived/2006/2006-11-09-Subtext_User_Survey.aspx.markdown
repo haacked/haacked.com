@@ -4,7 +4,7 @@ tags: [subtext]
 redirect_from: "/archive/2006/11/08/Subtext_User_Survey.aspx/"
 ---
 
-![Subtext Logo](https://haacked.com/images/SubtextLogo.png) I put up a
+![Subtext Logo](https://haacked.com/assets/images/SubtextLogo.png) I put up a
 [short three question
 survey](http://subtextproject.com/Home/About/UserSurvey/tabid/159/Default.aspx "Survey")
 on the Subtext

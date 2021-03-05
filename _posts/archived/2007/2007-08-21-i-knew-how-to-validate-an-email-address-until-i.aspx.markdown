@@ -6,7 +6,7 @@ redirect_from: "/archive/2007/08/20/i-knew-how-to-validate-an-email-address-unti
 
 Raise your hand if you know how to validate an email address. For those of you with your hand in the air, put it down quickly before someone sees you. It’s an odd sight to see someone sitting alone at the keyboard raising his or her hand. I was speaking metaphorically.
 
-[![at-sign](https://haacked.com/images/haacked_com/WindowsLiveWriter/IThoughtIKnewHowToValidateAnEmailAddress_E977/at-sign_1.jpg)](http://www.stockxpert.com/browse.phtml?f=profile&l=ErickN "At Sign from stockxpert by ErickN")
+[![at-sign](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IThoughtIKnewHowToValidateAnEmailAddress_E977/at-sign_1.jpg)](http://www.stockxpert.com/browse.phtml?f=profile&l=ErickN "At Sign from stockxpert by ErickN")
 Before yesterday I would have raised my hand (metaphorically) as well. I needed to validate an email address on the server. Something I’ve done a hundred thousand times (seriously, I counted) using a handy dandy regular expression in my personal library.
 
 This time, for some reason, I decided to take a look at my underlying assumptions. I had never actually read (or even skimmed) the RFC for an email address. I simply based my implementation on my preconceived assumptions about what makes a valid email address. You know what they say [about assuming](http://jyte.com/cl/when-you-assume-you-make-an-ass-out-of-you-and-me "saying about assumptions").

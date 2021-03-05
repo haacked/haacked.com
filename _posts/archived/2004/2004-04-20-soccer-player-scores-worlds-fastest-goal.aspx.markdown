@@ -4,7 +4,7 @@ tags: [soccer]
 redirect_from: "/archive/2004/04/19/soccer-player-scores-worlds-fastest-goal.aspx/"
 ---
 
-![Soccer Ball](/images/soccerball.jpg) I once scored even faster than
+![Soccer Ball](/assets/images/soccerball.jpg) I once scored even faster than
 this... oh wait, we're talking soccer here.
 
 This must have been a nice shot off the kickoff. In college we once had

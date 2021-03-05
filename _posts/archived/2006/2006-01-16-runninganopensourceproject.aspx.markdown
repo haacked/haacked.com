@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 [![Producing Open Source Software
-Cover](https://haacked.com/images/producingoss-cover-small.gif)](http://www.amazon.com/gp/product/0596007590?ie=UTF8&tag=youvebeenhaac-20&link_code=as3&camp=211189&creative=373489&creativeASIN=0596007590 "Producing Open Source Software")
+Cover](https://haacked.com/assets/images/producingoss-cover-small.gif)](http://www.amazon.com/gp/product/0596007590?ie=UTF8&tag=youvebeenhaac-20&link_code=as3&camp=211189&creative=373489&creativeASIN=0596007590 "Producing Open Source Software")
 I just finished reading the book "[Producing Open Source Software - How
 to Run a Successful Free Software
 Project](http://www.amazon.com/gp/product/0596007590?ie=UTF8&tag=youvebeenhaac-20&link_code=as3&camp=211189&creative=373489&creativeASIN=0596007590 "Producing Open Source Software on Amazon")"

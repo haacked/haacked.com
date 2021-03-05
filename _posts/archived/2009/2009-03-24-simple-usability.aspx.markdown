@@ -26,7 +26,7 @@ that allows its audience to accomplish something?
 Let’s take a look at my experience. Here’s the front page. Where do I
 start?
 
-![mix-site](https://haacked.com/images/haacked_com/WindowsLiveWriter/SimpleUsability_B713/mix-site_3.png "mix-site")
+![mix-site](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SimpleUsability_B713/mix-site_3.png "mix-site")
 
 Notice that there’s no search feature (I already tried Google). Fine, so
 I click all sessions and get this timeline view. There’s a search button
@@ -34,7 +34,7 @@ there but when I type “MVC” and hit GO, nothing happens. I also try my
 last name. No go.
 
 ![Sessions - Windows Internet
-Explorer](https://haacked.com/images/haacked_com/WindowsLiveWriter/SimpleUsability_B713/Sessions.png "Sessions - Windows Internet Explorer")
+Explorer](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SimpleUsability_B713/Sessions.png "Sessions - Windows Internet Explorer")
 Near the bottom, I click on SPEAKERS and find my name. I then try
 clicking on one of my sessions which is highlighted as a link, and
 nothing happens (it’s since been fixed). When I highlight the session, a
@@ -42,7 +42,7 @@ pop-up which appears to have links shows up, but I can’t seem to move my
 mouse over it because it disappears before my mouse gets there.
 
 ![Speakers - Windows Internet
-Explorer](https://haacked.com/images/haacked_com/WindowsLiveWriter/SimpleUsability_B713/Speakers.png "Speakers - Windows Internet Explorer")
+Explorer](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SimpleUsability_B713/Speakers.png "Speakers - Windows Internet Explorer")
 
 After a moment of pondering, it occurs to me that maybe the video of my
 talk was not yet available at the time (it is now as I write this). It
@@ -56,7 +56,7 @@ by Greg Duncan.
 
 ![Mix 09 Quick Video Link List - Gregs Cool [Insert Clever Name] of the
 Day - Windows Internet
-Explorer](https://haacked.com/images/haacked_com/WindowsLiveWriter/SimpleUsability_B713/Gregs.png "Mix 09 Quick Video Link List - Gregs Cool [Insert Clever Name] of the Day - Windows Internet Explorer")
+Explorer](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SimpleUsability_B713/Gregs.png "Mix 09 Quick Video Link List - Gregs Cool [Insert Clever Name] of the Day - Windows Internet Explorer")
 
 Notice that it’s the height of simplicity. It’s a list of all sessions
 (after all, the list of sessions wasn’t all *that* long) with headings

@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/09/20/My_Third_Blog.aspx/"
 ---
 
 [![Soccer
-Game](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyThirdBlog_A1F6/soccer_defense_thumb1.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyThirdBlog_A1F6/soccer_defense3.jpg)
+Game](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MyThirdBlog_A1F6/soccer_defense_thumb1.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MyThirdBlog_A1F6/soccer_defense3.jpg)
 Way back when I announced the [first Roadmap for
 Subtext](https://haacked.com/archive/2005/05/05/2983.aspx), I stated that
 Subtext would remove the multiple blogs feature and only support a

@@ -19,17 +19,17 @@ the Visual Studio Extension Manager displayed the release in the
 **Updates** section.
 
 [![Extension Manager Displaying NuGet as an Available
-Updates](https://haacked.com/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/extension-manager-update-available_thumb.png "Extension Manager Displaying NuGet as an Available Updates")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/extension-manager-update-available_2.png)
+Updates](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/extension-manager-update-available_thumb.png "Extension Manager Displaying NuGet as an Available Updates")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/extension-manager-update-available_2.png)
 
 Likewise, [NuGet](http://nuget.codeplex.com/) lets you easily see
 updates for installed packages. You can either run the
 `List-Package –Updates` command:
 
-[![list-package-updates](https://haacked.com/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/list-package-updates_thumb.png "list-package-updates")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/list-package-updates_2.png)
+[![list-package-updates](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/list-package-updates_thumb.png "list-package-updates")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/list-package-updates_2.png)
 
 Or you can click on the **Updates** node of the Add Package dialog:
 
-[![updates-tab](https://haacked.com/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/updates-tab_thumb.png "updates-tab")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/updates-tab_2.png)
+[![updates-tab](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/updates-tab_thumb.png "updates-tab")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/updates-tab_2.png)
 
 This feature is very handy when using Visual Studio to develop software
 such as
@@ -116,7 +116,7 @@ Lets see the results of installing the *AutoUpdate* package and I’ll
 highlight some of the code that makes the package work. The following
 screenshot shows a very basic sample application I wrote.
 
-![home-page](https://haacked.com/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/home-page_3.png "home-page")
+![home-page](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/home-page_3.png "home-page")
 
 The homepage here has a link to check for updates which links to an
 action within the area installed by the *AutoUpdate* package. That
@@ -126,7 +126,7 @@ package.
 Clicking on that link requires me to login first and then I get to this
 page:
 
-[![update-available](https://haacked.com/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/update-available_thumb.png "update-available")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/update-available_2.png)
+[![update-available](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/update-available_thumb.png "update-available")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/update-available_2.png)
 
 As I mentioned in the steps before, I packaged up the first version of
 the application as a package and “installed” it into the *App\_Data*
@@ -198,7 +198,7 @@ that I had to copy from the *System.Web.WebPages.Administration.dll*
 assembly because it’s marked internal. I don’t know why it’s internal,
 so I’ll see if we can fix that. It’s not my fault so please direct your
 hate mail elsewhere.
-![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Building-a-Self-Updating-Site-Using-NuGe_88E2/wlEmoticon-smile_2.png)
 
 What is the web project manager? Well the [WebMatrix
 product](http://www.asp.net/WebMatrix "WebMatrix") which includes the

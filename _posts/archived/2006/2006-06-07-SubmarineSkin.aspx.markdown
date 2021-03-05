@@ -8,11 +8,11 @@ In the Subtext 1.5 release announcement, I mentioned we had a few new
 skins. I thought I would post a couple of screenshots of the Submarine
 skin to give you a sense of what it looks like.
 
-![](https://haacked.com/images/SubmarineSkin.gif)
+![](https://haacked.com/assets/images/SubmarineSkin.gif)
 
 And here is a detail shot.
 
-![](https://haacked.com/images/SubmarineDetail.gif)
+![](https://haacked.com/assets/images/SubmarineDetail.gif)
 
 One problem with this skin is that it is fairly narrow for a fixed width
 skin. Hopefully we can fix that in the next version and offer a few more

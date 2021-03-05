@@ -5,7 +5,7 @@ redirect_from:
   - "/archive/2004/02/17/better-social-networking-through-blogistry.aspx/"
 ---
 
-![agent](/images/agent.jpg)Lately it seems that everybody is playing “six-degrees of separation” by sprouting a social networking service.
+![agent](/assets/images/agent.jpg)Lately it seems that everybody is playing “six-degrees of separation” by sprouting a social networking service.
 Some of the most prominent are [Friendster.com](http://www.friendster.com/ "Now Defunct Friendster Website"),
 [Tribe.com](http://www.tribe.com/ "Tribe website"), [MySpace.com](http://www.myspace.com/ "MySpace"), and Google’s
 [Orkut](http://www.orkut.com/ "Orkut"). The promise these services make

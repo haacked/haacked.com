@@ -110,7 +110,7 @@ Now we get to the whole point of the article.  After you’ve downloaded
 and installed RSSBandit, you should see a screen that looks something
 like this (results may vary)
 
-![](/images/RssBanditImages/image001.jpg)
+![](/assets/images/RssBanditImages/image001.jpg)
 
 On the left is a list of feed subscriptions organized into category
 folders.  On the right is a list of headlines in the top pane.  In the
@@ -127,7 +127,7 @@ only the headlines for that feed are displayed.
 At the top, you’ll notice a toolbar with multiple buttons.  Most of
 these items are self explanatory, but I’ll delve into them a bit.
 
-![](/images/RssBanditImages/image002.jpg)
+![](/assets/images/RssBanditImages/image002.jpg)
 
 Subscribing To Your First Feed
 ------------------------------
@@ -143,9 +143,9 @@ subscribe to a new feed.  Hey! Let’s try mine!
 Step 1: Click on “New Feed”.  This will bring up a dialog for adding new
 feeds.
 
-![](/images/RssBanditImages/image003.jpg)
+![](/assets/images/RssBanditImages/image003.jpg)
 
-**![](/images/RssBanditImages/image004.jpg)**
+**![](/assets/images/RssBanditImages/image004.jpg)**
 
 Step 2: Paste the text
 [https://haacked.com/Rss.aspx](https://haacked.com/Rss.aspx)
@@ -156,7 +156,7 @@ subscribed to an Rss Feed of my blog.  If you look in the list of
 subscribed feeds, you’ll notice a new entry in Bold.  The (19) is number
 of unread items.  Go ahead, read them all!
 
-![](/images/RssBanditImages/image005.jpg)
+![](/assets/images/RssBanditImages/image005.jpg)
 
 Setting Preferences For A Feed
 ------------------------------
@@ -166,7 +166,7 @@ I’m producing ground breaking content, you may want to change this
 setting for my feed.  Right click on the feed and click on the
 properties menu item.
 
-![](/images/RssBanditImages/image006.jpg)
+![](/assets/images/RssBanditImages/image006.jpg)
 
 This brings up the “Feed Properties” Dialog box.  Please feel free to
 change the Max. Item Age option to Unlimited.  Feed items will never
@@ -176,7 +176,7 @@ headlines.  Since I’m not producing content every 60 minutes, that is
 more than a generous setting.  For others like Yahoo News, you might
 even consider checking every half hour.
 
-![](/images/RssBanditImages/image007.jpg)
+![](/assets/images/RssBanditImages/image007.jpg)
 
 Discovering New Feeds
 ---------------------
@@ -199,12 +199,12 @@ Feeds for these blogs.  Say you’re reading the latest installment of my
 riveting blog, and I link to David Winer’s blog.  Look up in the toolbar
 of RssBandit and you may notice that there’s an icon with an orange XML
 with a \#1 in front of it
-![](/images/RssBanditImages/image008.jpg).
+![](/assets/images/RssBanditImages/image008.jpg).
 
 Click on it and you’ll see a list of the feeds that RssBandit has
 recently discovered.
 
-![](/images/RssBanditImages/image009.jpg)
+![](/assets/images/RssBanditImages/image009.jpg)
 
 In the screenshot above, you can see that “Scripting News” was
 discovered. Clicking a discovered feed opens the Add New Feed dialog box
@@ -224,7 +224,7 @@ In the menu bar, select the “Tools” menu and click “Preferences.”  That
 will bring up a dialog box with several tabs.  Click on the “Feed Items”
 tab and you’ll see the following dialog.
 
-![](/images/RssBanditImages/image010.jpg)
+![](/assets/images/RssBanditImages/image010.jpg)
 
 This page allows you to change the format for items within the reading
 pane.  By clicking “Use a custom formatter”, you can select various

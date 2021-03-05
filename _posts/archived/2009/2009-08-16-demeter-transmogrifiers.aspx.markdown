@@ -41,7 +41,7 @@ propagate a property or method to the caller. In fact, this is so common
 there’s a term for such a wrapper. It’s called a [Demeter
 Transmogrifier](http://en.wikipedia.org/wiki/Transmogrifier_(computer_science) "Transmogrifier on Wikipedia")!
 
-![transmogrifier\_small](https://haacked.com/images/haacked_com/WindowsLiveWriter/DemeterTransmogrifiersToTheRescue_9721/transmogrifier_small_3.jpg "transmogrifier_small")
+![transmogrifier\_small](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DemeterTransmogrifiersToTheRescue_9721/transmogrifier_small_3.jpg "transmogrifier_small")
 
 Who knew that Calvin was such a rock star software developer?
 

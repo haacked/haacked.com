@@ -10,7 +10,7 @@ simply copy a skin folder into the Skins directory and just have it work
 because the configuration for a given skin is centrally located in the
 *Skins.config* file.
 
-[![elephant-skin](https://haacked.com/images/haacked_com/WindowsLiveWriter/UpcomingSubtextSkinImprovements_C779/elephant-skin_3.jpg "elephant-skin")](http://www.sxc.hu/photo/1229077 "Skin on sxc.hu by Nick Bradsworth")In
+[![elephant-skin](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UpcomingSubtextSkinImprovements_C779/elephant-skin_3.jpg "elephant-skin")](http://www.sxc.hu/photo/1229077 "Skin on sxc.hu by Nick Bradsworth")In
 other words, a skin wasn’t self contained in a single folder. With
 Subtext 2.5, this has changed. Skins are fully self contained and there
 is no longer a need for a central configuration file for skins.

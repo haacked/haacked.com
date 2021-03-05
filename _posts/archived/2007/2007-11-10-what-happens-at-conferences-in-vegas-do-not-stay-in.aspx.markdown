@@ -15,9 +15,9 @@ was also a first ever OpenForce conference put on by the DotNetNuke
 corporation and from all appearances, it was quite a success.
 
 [![Carl Franklin and Rob
-Conery](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0801_thumb_1.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0801_2.jpg)
+Conery](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0801_thumb_1.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0801_2.jpg)
 [![Rob Conery and Rick
-Strahl](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0804_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0804.jpg)
+Strahl](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0804_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0804.jpg)
 
 The first night, as I passed by the hotel bar, I noticed [Carl
 Franklin](http://www.intellectualhedonism.com/ "Carl Franklin"), well
@@ -55,9 +55,9 @@ but Eilon seemed genuinely uncomfortable. She was quite excited to get a
 pic with the guy who wrote**the `UpdatePanel`!
 
 [![An admirer gazes at
-Scott](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0805_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0805.jpg)
+Scott](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0805_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0805.jpg)
 [![An admirer gazes at
-Eilon](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0811_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0811.jpg)
+Eilon](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0811_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0811.jpg)
 
 One particular experience that was particularly fun for me was that I
 got to go around the exhibitor floor, camera-man in tow, to interview
@@ -77,8 +77,8 @@ the MVC
 talk](http://geekswithblogs.net/robz/archive/2007/11/07/DevConnections---MVC-Framework-for-ASP.NET.aspx "DevConnections MVC Framework"),
 which was good to hear.
 
-[![IMG\_0818](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0818_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0818.jpg)
-[![IMG\_0820](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0820_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0820.jpg)
+[![IMG\_0818](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0818_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0818.jpg)
+[![IMG\_0820](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0820_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatHappensAtDevConnectionsandOpenForceD_602/IMG_0820.jpg)
 
 While on the floor, they had a drawing in which they gave out a Harley.
 The winner happened to be a Harley-loving motorcycle rider, so it worked

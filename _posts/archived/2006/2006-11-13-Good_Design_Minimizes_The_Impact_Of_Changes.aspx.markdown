@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/11/12/Good_Design_Minimizes_The_Impact_Of_Changes.
 ---
 
 [![Blue Skies from
-Stock.xchng](https://haacked.com/images/haacked_com/WindowsLiveWriter/GoodDesignMinimizesTheImpactOfChanges_1198/blue_skies_thumb1.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/GoodDesignMinimizesTheImpactOfChanges_1198/blue_skies3.jpg)
+Stock.xchng](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GoodDesignMinimizesTheImpactOfChanges_1198/blue_skies_thumb1.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GoodDesignMinimizesTheImpactOfChanges_1198/blue_skies3.jpg)
 We’ve all been there.  Your project stakeholder stands in your doorway
 with a coffee mug in hand and asks for one more teeny tiny change.
 

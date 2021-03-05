@@ -16,7 +16,7 @@ I realized I can be a bit long winded when describing the latest release
 of Subtext. Can you blame me? I pour my blood, sweat, and tears (minus
 the blood) into this project.  Doesn’t that give me some leeway to be a
 total blowhard?
-![Wink](https://haacked.com/Images/emotions/smiley-wink.gif)
+![Wink](https://haacked.com/assets/images/emotions/smiley-wink.gif)
 
 This post is for those who just want the meat. Subtext 1.9.2 has the
 goal of making the world safe for trackbacks and comments.  It adds

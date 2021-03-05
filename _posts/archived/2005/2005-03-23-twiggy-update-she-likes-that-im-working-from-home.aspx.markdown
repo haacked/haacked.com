@@ -11,12 +11,12 @@ A while ago I [introduced you to Twiggy](https://haacked.com/archive/2004/09/27/
 
 Especially now that I work from home and she's free from her exercise pen during the day. Her main agenda item for the day is making sure to find a nice sunbeam to lay in as evidenced in this photo taken today.
 
-![Twiggy Finds Her Beam](/images/TwiggyInSunbeam.jpg)
+![Twiggy Finds Her Beam](/assets/images/TwiggyInSunbeam.jpg)
 
 She works very hard to stay in the sunbeam as evidenced by this photo taken two days ago.
 
-![Twiggy struggles for the beam](/images/TwiggyStaysInTheBeam.jpg)
+![Twiggy struggles for the beam](/assets/images/TwiggyStaysInTheBeam.jpg)
 
 I'm trying to get her to pull her own weight around the house. She eats, sleeps, pees, and poos but doesn't give anything back. So I tried to get her to write some code for me while I went to get a drink, figuring I could give the client a discount for work she does, but this is how I found her when I got back. Lazy dog.
 
-![Twiggy Sleeps On The Job](/images/TwiggySleepsonTheJob.jpg)
+![Twiggy Sleeps On The Job](/assets/images/TwiggySleepsonTheJob.jpg)

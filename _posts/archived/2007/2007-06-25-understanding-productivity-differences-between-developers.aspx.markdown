@@ -24,7 +24,7 @@ good and poor programmers (*emphasis mine*).
 > space measurements!**
 
 [![Tortoise and Hare:
-http://users.cwnet.com/xephyr/rich/dzone/hoozoo/toby.html](https://haacked.com/images/haacked_com/WindowsLiveWriter/GoodDevelopers10xProductivityOverAverage_A82B/toby2_thumb.gif)](https://haacked.com/images/haacked_com/WindowsLiveWriter/GoodDevelopers10xProductivityOverAverage_A82B/toby2.gif)
+http://users.cwnet.com/xephyr/rich/dzone/hoozoo/toby.html](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GoodDevelopers10xProductivityOverAverage_A82B/toby2_thumb.gif)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GoodDevelopers10xProductivityOverAverage_A82B/toby2.gif)
 
 Robert Glass cites research that puts this disparity even higher in his
 book *[Facts and Fallacies of Software

@@ -11,7 +11,7 @@ helpful to provide a preview of what the comment will look like as the
 user is typing the comment.
 
 [![sneak peek - by ArminH on
-sxc.hu](https://haacked.com/images/haacked_com/WindowsLiveWriter/LivePreviewjQueryPlugin_875E/preview_3.jpg "sneak peek - by ArminH on sxc.hu")](http://www.sxc.hu/photo/764984 "Sneak Peek - by ArminH from stock.xchng")That’s
+sxc.hu](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/LivePreviewjQueryPlugin_875E/preview_3.jpg "sneak peek - by ArminH on sxc.hu")](http://www.sxc.hu/photo/764984 "Sneak Peek - by ArminH from stock.xchng")That’s
 exactly what my live preview jQuery plugin does.
 
 [**See it in

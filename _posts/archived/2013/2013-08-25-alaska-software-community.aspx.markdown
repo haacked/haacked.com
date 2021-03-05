@@ -13,7 +13,7 @@ the top, we couldn’t see more than ten yards because of the clouds. But
 as we descended, they suddenly cleared giving us a sliver of a view of
 the ocean and coastline.
 
-[![flattop-hike](https://haacked.com/images/haacked_com/WindowsLiveWriter/AlaskaSoftwareCommunity_13B6B/flattop-hike_thumb.jpg "flattop-hike")](https://haacked.com/images/haacked_com/WindowsLiveWriter/AlaskaSoftwareCommunity_13B6B/flattop-hike_2.jpg)
+[![flattop-hike](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/AlaskaSoftwareCommunity_13B6B/flattop-hike_thumb.jpg "flattop-hike")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/AlaskaSoftwareCommunity_13B6B/flattop-hike_2.jpg)
 
 My first experience of Alaska was when my family moved out here from the
 tropical island of Guam. Yeah, it was a bit of a change. I went to high
@@ -53,7 +53,7 @@ talk. You can probably even write-off a portion of your vacation if the
 talk is related to your work (though you should talk to your tax person
 about that and don’t listen to me).
 
-![alaska-github-talk](https://haacked.com/images/haacked_com/WindowsLiveWriter/AlaskaSoftwareCommunity_13B6B/alaska-github-talk_thumb.jpg "alaska-github-talk")
+![alaska-github-talk](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/AlaskaSoftwareCommunity_13B6B/alaska-github-talk_thumb.jpg "alaska-github-talk")
 
 They put together an ad-hoc event while I was there and we had around
 twenty-five or so people show up. It doesn’t sound like a lot, but it’s

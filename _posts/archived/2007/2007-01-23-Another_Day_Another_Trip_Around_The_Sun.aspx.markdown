@@ -5,7 +5,7 @@ redirect_from: "/archive/2007/01/22/Another_Day_Another_Trip_Around_The_Sun.aspx
 ---
 
 [![Image of the sun from
-http://www.noaanews.noaa.gov/stories2005/s2372.htm](https://haacked.com/images/haacked_com/WindowsLiveWriter/AnotherDayAnotherTripAroundTheSun_7FCF/sunsoho0119051919z2_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/AnotherDayAnotherTripAroundTheSun_7FCF/sunsoho0119051919z22.jpg)
+http://www.noaanews.noaa.gov/stories2005/s2372.htm](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/AnotherDayAnotherTripAroundTheSun_7FCF/sunsoho0119051919z2_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/AnotherDayAnotherTripAroundTheSun_7FCF/sunsoho0119051919z22.jpg)
 Today I turn 32 years old.
 
 I remember when that sounded old to me. But with recent advances in

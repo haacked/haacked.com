@@ -6,7 +6,7 @@ redirect_from: "/archive/2006/08/24/coders_bill_of_rights.aspx/"
 
 ![Gratuitious nature pic for no good reason other than I love Windows
 Live
-Writer](https://haacked.com/images/CodersBillofRights_131B6/16827040_64687a1bb23.jpg)Just
+Writer](https://haacked.com/assets/images/CodersBillofRights_131B6/16827040_64687a1bb23.jpg)Just
 sticking my head above water long enough to take a breath and to link to
 some rubbish called the [Programmer’s Bill of
 Rights](http://www.codinghorror.com/blog/archives/000666.html "Programmer's Bill of Rights")

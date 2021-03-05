@@ -7,7 +7,7 @@ redirect_from: "/archive/2004/08/08/deep-dish.aspx/"
 No, I'm not talking about Pizza from Chicago. I'm talking about this
 dynamic duo:
 
-![Deep Dish](/images/DeepDishMoscow.jpg)
+![Deep Dish](/assets/images/DeepDishMoscow.jpg)
 
 As you can see at the bottom, I'm listening to their remix of Dido's
 *Thank You* which won a Grammy. These guys are one of my favorite

@@ -42,7 +42,7 @@ beer. Though get in line as [Paul
 Betts](https://twitter.com/paulcbetts "Paul Betts") owes him at least
 five beers.
 
-[![-359](https://haacked.com/images/haacked_com/WindowsLiveWriter/RestSharp104.2Released_F7DA/-359_thumb.png "-359")](https://haacked.com/images/haacked_com/WindowsLiveWriter/RestSharp104.2Released_F7DA/-359_2.png)John
+[![-359](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/RestSharp104.2Released_F7DA/-359_thumb.png "-359")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/RestSharp104.2Released_F7DA/-359_2.png)John
 started RestSharp [four years
 ago](https://github.com/restsharp/RestSharp/commit/c6fa63e14208cde3243d1176f038da2342a175ab "Initial commit")
 and has shepherded it well for a very long time. But a while back he

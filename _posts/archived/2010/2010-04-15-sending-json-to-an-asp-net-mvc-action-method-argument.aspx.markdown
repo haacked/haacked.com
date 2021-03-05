@@ -135,7 +135,7 @@ the JSON content type for the request.
 A quick check in Fiddler confirms that the data in the POST request is
 properly JSON encoded.
 
-![json-request-fiddler](https://haacked.com/images/haacked_com/WindowsLiveWriter/SendingJSONtoanASP.NETMVCActionMethod_7E01/json-request-fiddler_3.png "json-request-fiddler")
+![json-request-fiddler](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SendingJSONtoanASP.NETMVCActionMethod_7E01/json-request-fiddler_3.png "json-request-fiddler")
 
 Now, within my action method, I can actually check to see if the model
 state is valid and if not, return an error message.
@@ -168,7 +168,7 @@ public ActionResult Save(PersonInputModel inputModel) {
 And as you can see in the Fiddler screenshot, I sent an invalid Age to
 the server and yet, it all still works.
 
-![validation-with-json](https://haacked.com/images/haacked_com/WindowsLiveWriter/SendingJSONtoanASP.NETMVCActionMethod_7E01/validation-with-json_3.png "validation-with-json")
+![validation-with-json](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SendingJSONtoanASP.NETMVCActionMethod_7E01/validation-with-json_3.png "validation-with-json")
 
 Whew! I can finally cross this off of my immense blog backlog. :)
 Hopefully soon, I’ll blog a more detailed write-up of value providers.

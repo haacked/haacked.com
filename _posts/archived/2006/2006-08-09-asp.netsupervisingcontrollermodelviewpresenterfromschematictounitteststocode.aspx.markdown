@@ -39,7 +39,7 @@ associated with the post. In trying to keep the example simple, I leave
 out all minor and extraneous details such as a title for the blog post.
 How important is a title, really?
 
-![Tag UI Schematic](https://haacked.com/images/TagSchema.png)
+![Tag UI Schematic](https://haacked.com/assets/images/TagSchema.png)
 
 The chicken scrawl above is a hand-drawn quick and dirty schematic for
 the user interface. No surprises here. There is a text area for entering
@@ -377,7 +377,7 @@ public partial class _Default : System.Web.UI.Page, IPostEditView
 When I finally compile all this and run it, here is the view I see in
 the browser.
 
-![Blog Post Editor Page](https://haacked.com/images/TagEditorPage.png)
+![Blog Post Editor Page](https://haacked.com/assets/images/TagEditorPage.png)
 
 The benefits of this exercise become clear when you find bugs in the UI
 logic. Even while going through this exercise, I would find minor little

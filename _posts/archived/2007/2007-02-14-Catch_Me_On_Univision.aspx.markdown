@@ -5,13 +5,13 @@ redirect_from: "/archive/2007/02/13/Catch_Me_On_Univision.aspx/"
 ---
 
 ![Univision
-Logo](https://haacked.com/images/haacked_com/WindowsLiveWriter/CatchMeOnUnivision_137AF/univision_logo%5B12%5D.gif)
+Logo](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CatchMeOnUnivision_137AF/univision_logo%5B12%5D.gif)
 In Decemember I wrote about a great [soccer
 camp](https://haacked.com/archive/2006/12/22/Soccer_Camp.aspx "Soccer Camp")
 I attended. Well one of the other attendees is a Sports Anchor at
 Univision and had a camera man in tow taking footage during the camp.
 
-![Soccer Ball](https://haacked.com/images/SoccerBallBW.jpg)Starting on
+![Soccer Ball](https://haacked.com/assets/images/SoccerBallBW.jpg)Starting on
 Saturday, February 17^th^, Univision will be airing a four part series
 about the Galaxy Camp. The second part will air on Sunday and the third
 and fourth parts the following weekend.

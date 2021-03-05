@@ -4,7 +4,7 @@ tags: [tech]
 redirect_from: "/archive/2004/04/05/geek-shopping.aspx/"
 ---
 
-![](/images/dellultrasharp.jpg)If you haven't tried it yet, you should
+![](/assets/images/dellultrasharp.jpg)If you haven't tried it yet, you should
 really give [Froogle](http://froogle.com/) a look. I'm currently looking
 to buy an LCD monitor and I checked the usual suspects,
 [Pcworld](http://www.pcworld.com) and

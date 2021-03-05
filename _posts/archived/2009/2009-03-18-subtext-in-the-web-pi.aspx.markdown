@@ -4,7 +4,7 @@ tags: [subtext]
 redirect_from: "/archive/2009/03/17/subtext-in-the-web-pi.aspx/"
 ---
 
-![subtext200x200](https://haacked.com/images/haacked_com/WindowsLiveWriter/Sub.1AvailableViatheWebPlatformInstaller_DD87/subtext200x200_3.png "subtext200x200")One
+![subtext200x200](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Sub.1AvailableViatheWebPlatformInstaller_DD87/subtext200x200_3.png "subtext200x200")One
 of the cool products that I’m personally excited about announced at Mix
 is the updated Web Platform Installer.
 
@@ -26,7 +26,7 @@ In this screenshot, you can see the dependencies needed to run Subtext
 are already listed.
 
 ![Install
-(2)](https://haacked.com/images/haacked_com/WindowsLiveWriter/Sub.1AvailableViatheWebPlatformInstaller_DD87/Install%20(2)_3.png "Install (2)")
+(2)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Sub.1AvailableViatheWebPlatformInstaller_DD87/Install%20(2)_3.png "Install (2)")
 
 Subtext 2.1.1 is a very minor update to Subtext with a few bug fixes.
 The major fix is that the “forgot password” feature now works properly.

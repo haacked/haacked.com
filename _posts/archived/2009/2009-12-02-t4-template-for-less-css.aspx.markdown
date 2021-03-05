@@ -50,12 +50,12 @@ don’t actually reference the YUI compression nor .LESS libraries. I just
 added them to a solution folder so you could see them (and so the T4
 template can find them).
 
-![solution-without-t4](https://haacked.com/images/haacked_com/WindowsLiveWriter/T4.LessAT4Templatefor.LessCSS_8C69/solution-without-t4_3.png "solution-without-t4")
+![solution-without-t4](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/T4.LessAT4Templatefor.LessCSS_8C69/solution-without-t4_3.png "solution-without-t4")
 
 With this in place, I can simply drop my T4CSS.tt file into the Css
 directory and voila!
 
-![solution-with-t4](https://haacked.com/images/haacked_com/WindowsLiveWriter/T4.LessAT4Templatefor.LessCSS_8C69/solution-with-t4_12.png "solution-with-t4")
+![solution-with-t4](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/T4.LessAT4Templatefor.LessCSS_8C69/solution-with-t4_12.png "solution-with-t4")
 
 You can see the converted CSS files by expanding the T4CSS.tt node in
 the solution explorer as shown in the screenshot above.

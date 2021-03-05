@@ -4,7 +4,7 @@ tags: [burningman]
 redirect_from: "/archive/2005/01/08/burning-man-tickets-are-on-sale.aspx/"
 ---
 
-![Burning Man](/images/burningman.jpg) First level:\
+![Burning Man](/assets/images/burningman.jpg) First level:\
  10,000 tickets at \$175\
  Limit 2 tickets per person\
  Internet sales\

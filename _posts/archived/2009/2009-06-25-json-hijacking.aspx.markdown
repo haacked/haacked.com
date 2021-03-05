@@ -21,7 +21,7 @@ demonstrated it at the Norwegian Developers Conference last week, though
 it has been [demonstrated against Twitter in the
 past](http://hackademix.net/2009/01/13/you-dont-know-what-my-twitter-leaks/ "You don't know what my twitter leaks").
 
-[![hijack](https://haacked.com/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/hijack_3.jpg "hijack")](http://www.sxc.hu/photo/676972 "Car Theft by alicja_M on stock.xchng")
+[![hijack](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/hijack_3.jpg "hijack")](http://www.sxc.hu/photo/676972 "Car Theft by alicja_M on stock.xchng")
 
 Before I go further, let me give you the punch line first in terms of
 what this vulnerability affects.
@@ -47,26 +47,26 @@ the unwitting victim logging into the vulnerable site, and the
 vulnerable site issues an authentication cookie, which the browser holds
 onto.
 
-![Json-Hijack-1](https://haacked.com/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/Json-Hijack-1_3.png "Json-Hijack-1")
+![Json-Hijack-1](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/Json-Hijack-1_3.png "Json-Hijack-1")
 
 At some point, either in the past, or the near future, the bad guy spams
 the victim with an email promising a hilariously funny video of a
 hamster on a piano.
 
-![Json-Hijack-2](https://haacked.com/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/Json-Hijack-2_3.png "Json-Hijack-2")
+![Json-Hijack-2](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/Json-Hijack-2_3.png "Json-Hijack-2")
 
 But the link actually points to the bad guy’s website. When the victim
 clicks on the link, the next two steps happen in quick succession.
 First, the victim’s browser makes a request for the bad guy’s website.
 
-![Json-Hijack-3](https://haacked.com/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/Json-Hijack-3_6.png "Json-Hijack-3")
+![Json-Hijack-3](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/Json-Hijack-3_6.png "Json-Hijack-3")
 
 The website responds with some HTML containing some JavaScript along
 with a `script` tag. When the browser sees the script tag, it makes
 *another GET request* back to the vulnerable site to load the script,
 *sending the auth cookie along*.
 
-![Json-Hijack-4](https://haacked.com/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/Json-Hijack-4_3.png "Json-Hijack-4")
+![Json-Hijack-4](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/JSONHijacking_B386/Json-Hijack-4_3.png "Json-Hijack-4")
 
 The bad guy has tricked the victim’s *browser* to issue a request for
 the JSON containing sensitive information using the browser’s

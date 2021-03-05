@@ -4,7 +4,7 @@ tags: [personal,japan,tokyo]
 redirect_from: "/archive/2005/07/24/heading-to-japan.aspx/"
 ---
 
-![Tokyo](https://haacked.com/images/TokyoAtNight.jpg) Tomorrow we head
+![Tokyo](https://haacked.com/assets/images/TokyoAtNight.jpg) Tomorrow we head
 off to Tokyo, Japan for a memorial service to celebrate the life of my
 wife’s father. We’ve both been very busy with our respective work,
 plowing ahead head down. It finally feels good to lift our heads above

@@ -11,7 +11,7 @@ configuration. For you non geeks out there, RAID stands for
 claim the I stands for ***I**nexpensive*, I take no stand on this
 issue).
 
-![Data Center](/images/DataCenter.jpg) \
+![Data Center](/assets/images/DataCenter.jpg) \
 The matrix has you.
 
 The point of a RAID 1+0 array is to provide high performance fault
@@ -29,7 +29,7 @@ volumes, thus we could rebuild each of the drives. My coworker and I
 headed over to the data center to meet with a network engineer from our
 former parent company to take care of the situation.
 
-![Data Center Networking](/images/DataCenterNetwork.jpg) \
+![Data Center Networking](/assets/images/DataCenterNetwork.jpg) \
 Networking cables galore.
 
 The entrance to the data center has one of them double lock chambers.

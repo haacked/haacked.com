@@ -24,7 +24,7 @@ Accelerator... On second thought maybe I'll hold off on installing that.
 > Web Accelerator cache may include copies of webpages you have not
 > visited. You can clear the cache following instructions in the FAQ.
 
-![Google Web Accelerator](/images/GoogleWebAccelerator.gif) Google
+![Google Web Accelerator](/assets/images/GoogleWebAccelerator.gif) Google
 [announced](http://www.google.com/googleblog/2005/05/time-waits-for-no-one.html)
 on its blog that they've release a beta version of their new web
 accelerator designed for broadband use. I'll give it a shot and see how

@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2006/10/25/What_Do_You_Do_If_You_Find_A_Wallet.aspx/"
 ---
 
-![Wallet](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhatDoYouDoIfYouFindAWallet_8BD6/618061_wallet%5B6%5D.jpg)
+![Wallet](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhatDoYouDoIfYouFindAWallet_8BD6/618061_wallet%5B6%5D.jpg)
 Well if you’re the punk malcontent who found my wallet yesterday, you go
 on a shopping spree...at Rite Aid, Vons, and Ralphs (a convenience store
 and two grocery stores). 
@@ -37,4 +37,4 @@ figure follow something bad with something good.  Oh, and I bought a
 lottery ticket.  I know, the chances are pretty much nill. But what were
 the chances I’d put a wallet in a pocket with no bottom?  This is a
 chance for the world to get back to even terms with me.
-![Wink](https://haacked.com/Images/emotions/smiley-wink.gif)
+![Wink](https://haacked.com/assets/images/emotions/smiley-wink.gif)

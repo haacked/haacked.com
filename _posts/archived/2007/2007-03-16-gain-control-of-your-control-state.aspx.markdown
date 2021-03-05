@@ -128,7 +128,7 @@ what happens after a few postbacks.
 
 ![Image showing the ViewState and Control State counters with values of
 4
-each](https://haacked.com/images/haacked_com/WindowsLiveWriter/GainControlOfYourControlState_2D7/UntitledPageWindowsInternetExplorer6.png)
+each](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GainControlOfYourControlState_2D7/UntitledPageWindowsInternetExplorer6.png)
 
 As expected, both values increment, as they are persisted across
 postbacks. But what happens if we disable ViewState on the page and
@@ -136,7 +136,7 @@ click the button a few more times.
 
 ![Image showing the ViewState counter with a value of 1 and the Control
 State counters with a value of
-8](https://haacked.com/images/haacked_com/WindowsLiveWriter/GainControlOfYourControlState_2D7/UntitledPageWindowsInternetExplorer7.png)
+8](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GainControlOfYourControlState_2D7/UntitledPageWindowsInternetExplorer7.png)
 
 As you can see, we retain the control state, while the `ViewState` is
 disabled.
@@ -229,7 +229,7 @@ Let’s look at a screenshot of the result in action. Looks like
 everything is humming along nicely.
 
 ![Screen showing our new property also being saved and restored
-properly.](https://haacked.com/images/haacked_com/WindowsLiveWriter/GainControlOfYourControlState_2D7/UntitledPageWindowsInternetExplorer9.png)
+properly.](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GainControlOfYourControlState_2D7/UntitledPageWindowsInternetExplorer9.png)
 
 I would recommend using this approach anytime you implement control
 state in a custom control because you never know when you might override

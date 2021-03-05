@@ -18,14 +18,14 @@ forums (ooh, that could get...interesting. *First Post!*or*I
 Agree!*Count it up.) with great prizes.
 
 ![ASP.NET 2.0
-Anthology](https://haacked.com/images/haacked_com/WindowsLiveWriter/DontBuyOurBookWinItOrWinthatXBoxYourChoi_8699/aspnetAnthology_5.gif)
+Anthology](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DontBuyOurBookWinItOrWinthatXBoxYourChoi_8699/aspnetAnthology_5.gif)
 Unfortunately, our book is part of a second prize package which includes
 ANTS Profiler Pro. Our book is also the third-prize.
 
 Why is that unfortunate?
 
 ![XBox 360
-Elite](https://haacked.com/images/haacked_com/WindowsLiveWriter/DontBuyOurBookWinItOrWinthatXBoxYourChoi_8699/xboxelite_3.jpg)
+Elite](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DontBuyOurBookWinItOrWinthatXBoxYourChoi_8699/xboxelite_3.jpg)
 Because if you want a free copy of our book, you have to try real hard
 not to do too well that you win first prize, which is an XBox 360 Elite
 along with Telerik RadControls. Once you got your hands on Halo 3 or

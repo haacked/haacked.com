@@ -9,7 +9,7 @@ baby and toddler while dealing with explosive poo episodes. Believe me
 when I say the term “blow out” is apt. That’s probably not the imagery
 you were hoping for in a technical blog post, but I think you can handle
 it.
-;)![066](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2RCReleased_14561/066_1.jpg "066")
+;)![066](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2RCReleased_14561/066_1.jpg "066")
 *What!? It’s already time for an RC?! I think I need to be changed.*
 
 While I’m on leave, the ASP.NET MVC team continues its hard work and is

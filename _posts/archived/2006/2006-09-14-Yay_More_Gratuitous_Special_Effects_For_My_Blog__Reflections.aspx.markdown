@@ -16,7 +16,7 @@ do the same?
 So if it is working correctly, the image here should have a reflection.
 
 ![A
-picture.](https://haacked.com/images/haacked_com/WindowsLiveWriter/YayMoreGratuitousSpecialEffectsForMyBlog_D328/imgp2007_edited%5B4%5D.jpg)
+picture.](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/YayMoreGratuitousSpecialEffectsForMyBlog_D328/imgp2007_edited%5B4%5D.jpg)
 
 UPDATE: Doesn’t seem to align quite right for me in Firefox, but looks
 great in IE.

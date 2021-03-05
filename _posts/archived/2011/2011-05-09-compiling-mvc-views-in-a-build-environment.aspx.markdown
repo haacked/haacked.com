@@ -14,7 +14,7 @@ feature.
 -   Right click on your ASP.NET MVC project in the Solution Explorer
 -   Select *Unload Project* in the context menu. Your project will show
     up as
-    unavailable![unavailable-project](https://haacked.com/images/haacked_com/WindowsLiveWriter/MvcBuildViews-and_799B/unavailable-project_c749a0c0-18ef-4691-9937-2ab42753eecf.png "unavailable-project")
+    unavailable![unavailable-project](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MvcBuildViews-and_799B/unavailable-project_c749a0c0-18ef-4691-9937-2ab42753eecf.png "unavailable-project")
 -   Right click on the project again and select *Edit
     ProjectName.csproj*.
 

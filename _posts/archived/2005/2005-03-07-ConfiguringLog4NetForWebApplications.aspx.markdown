@@ -50,7 +50,7 @@ understand what that means? Read the [Log4Net introduction](http://logging.apach
 
 ### Sample Web Solution
 
-In order to make all this discussion very concrete, I’ve gone ahead and did all your homework for you by creating a simple ASP.NET 1.1 web solution ([Log4NetSampleSolution.zip](/images/Log4NetSampleSolution.zip "Visual Studio.NET 2003 Solution")
+In order to make all this discussion very concrete, I’ve gone ahead and did all your homework for you by creating a simple ASP.NET 1.1 web solution ([Log4NetSampleSolution.zip](/assets/images/Log4NetSampleSolution.zip "Visual Studio.NET 2003 Solution")
 ) using Visual Studio.NET 2003. After unzipping this solution, you should be able to build it and then view the default.aspx web page. This page will log a few very interesting messages of varying levels to three appenders.
 
 Of special note is the use of the RollingFileAppender as seen in this snippet.

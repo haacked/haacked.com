@@ -37,7 +37,7 @@ light. So many congrats to the team for this release!
 Some Small Things
 -----------------
 
-[![small-things](https://haacked.com/images/haacked_com/WindowsLiveWriter/Its-The-Little-Things-about-AS.NET-MVC-4_A996/small-things_thumb.jpg "small-things")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Its-The-Little-Things-about-AS.NET-MVC-4_A996/small-things_2.jpg)
+[![small-things](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Its-The-Little-Things-about-AS.NET-MVC-4_A996/small-things_thumb.jpg "small-things")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Its-The-Little-Things-about-AS.NET-MVC-4_A996/small-things_2.jpg)
 
 If you take a look at [Jon
 Galloway’s](http://weblogs.asp.net/jgalloway/archive/2012/02/16/asp-net-4-beta-released.aspx "Jon Galloway's Blog Post")
@@ -78,7 +78,7 @@ Two DependencyResolvers
 I’ve been a big fan of using the Ninject.Mvc3 package to inject
 dependencies into my ASP.NET MVC controllers.
 
-[![ninject.mvc3](https://haacked.com/images/haacked_com/WindowsLiveWriter/Its-The-Little-Things-about-AS.NET-MVC-4_A996/ninject.mvc3_thumb.png "ninject.mvc3")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Its-The-Little-Things-about-AS.NET-MVC-4_A996/ninject.mvc3_2.png)
+[![ninject.mvc3](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Its-The-Little-Things-about-AS.NET-MVC-4_A996/ninject.mvc3_thumb.png "ninject.mvc3")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Its-The-Little-Things-about-AS.NET-MVC-4_A996/ninject.mvc3_2.png)
 
 However, your Ninject bindings do not apply to `ApiController`
 instances. For example, suppose you have the following binding in the

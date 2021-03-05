@@ -8,7 +8,7 @@ One surefire way to sound really really smart is to invoke a law or
 principle named after some long dead guy (an alive guy is acceptable
 too, but lacks slightly in smart points).
 
-[![hammurapis](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheLawsOfSoftwareandSoftwareManagement_8DF6/hammurapis_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheLawsOfSoftwareandSoftwareManagement_8DF6/hammurapis.jpg)This
+[![hammurapis](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheLawsOfSoftwareandSoftwareManagement_8DF6/hammurapis_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheLawsOfSoftwareandSoftwareManagement_8DF6/hammurapis.jpg)This
 realization struck me the other day while I was reading a blog post that
 made a reference to Postel’s law. Immediately I knew the author of this
 post must be a highly intelligent card carrying member of

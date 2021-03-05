@@ -24,16 +24,16 @@ can get you up and running developing on ASP.NET in two easy clicks.
 First, you select an option from the first screen. Obviously, if you
 choose the *Your Choice* option, it’ll take more than two clicks.
 
-[![choose-type](https://haacked.com/images/haacked_com/WindowsLiveWriter/WebPlatformInstaller_EA1C/choose-type_thumb_1.png "choose-type")](https://haacked.com/images/haacked_com/WindowsLiveWriter/WebPlatformInstaller_EA1C/choose-type_4.png)
+[![choose-type](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WebPlatformInstaller_EA1C/choose-type_thumb_1.png "choose-type")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WebPlatformInstaller_EA1C/choose-type_4.png)
 
 I chose the ASP.NET Developer option and clicked *Next*.
 
-[![accept-license](https://haacked.com/images/haacked_com/WindowsLiveWriter/WebPlatformInstaller_EA1C/accept-license_thumb_1.png "accept-license")](https://haacked.com/images/haacked_com/WindowsLiveWriter/WebPlatformInstaller_EA1C/accept-license_4.png)
+[![accept-license](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WebPlatformInstaller_EA1C/accept-license_thumb_1.png "accept-license")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WebPlatformInstaller_EA1C/accept-license_4.png)
 
 The second screen lets you choose to accept the licensing terms. This is
 nice in that you don’t have to go and click through 20 different EULAs.
 
-[![installing](https://haacked.com/images/haacked_com/WindowsLiveWriter/WebPlatformInstaller_EA1C/installing_thumb_1.png "installing")](https://haacked.com/images/haacked_com/WindowsLiveWriter/WebPlatformInstaller_EA1C/installing_4.png)
+[![installing](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WebPlatformInstaller_EA1C/installing_thumb_1.png "installing")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WebPlatformInstaller_EA1C/installing_4.png)
 
 Once you click *I Accept* the installer begins.
 
@@ -41,7 +41,7 @@ If you want more control, you can choose *Your Choice*at the first
 screen which takes you to a screen that lets you choose all sorts of
 options.
 
-[![your-choice](https://haacked.com/images/haacked_com/WindowsLiveWriter/WebPlatformInstaller_EA1C/your-choice_thumb.png "your-choice")](https://haacked.com/images/haacked_com/WindowsLiveWriter/WebPlatformInstaller_EA1C/your-choice_2.png)
+[![your-choice](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WebPlatformInstaller_EA1C/your-choice_thumb.png "your-choice")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WebPlatformInstaller_EA1C/your-choice_2.png)
 
 This is a great tool for someone who wants to quickly get started
 learning and developing on ASP.NET. You’ll notice that it doesn’t

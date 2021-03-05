@@ -4,7 +4,7 @@ tags: [humor,personal]
 redirect_from: "/archive/2005/06/01/coders-block.aspx/"
 ---
 
-![block](/images/block.jpg) I’ve heard of writer’s block, but never
+![block](/assets/images/block.jpg) I’ve heard of writer’s block, but never
 dealt with coder’s block until today. Seriously, I’ve always been able
 to just unleash that kernel of code simmering inside in a big pop of
 keyboard slamming.

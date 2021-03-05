@@ -4,7 +4,7 @@ tags: [soccer]
 redirect_from: "/archive/2006/04/28/ZidanePossiblyMovingToLosAngeles.aspx/"
 ---
 
-![Zinedine Zidane](https://haacked.com/images/ZinedineZidane.jpg) I hear
+![Zinedine Zidane](https://haacked.com/assets/images/ZinedineZidane.jpg) I hear
 from a fairly reliable source that after the World Cup, Zinedine Zidane
 plans to move to Los Angeles to get into some kind of entertainment.
 That in and of itself is not exceedingly interesting. However, this

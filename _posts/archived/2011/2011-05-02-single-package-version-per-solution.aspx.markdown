@@ -15,7 +15,7 @@ here](http://survey.haacked.com/survey/1/results "Survey results").
 If there’s one question that got to the heart of the matter, it’s this
 one.
 
-![survey-question-result](https://haacked.com/images/haacked_com/WindowsLiveWriter/668154f532ae_7D5C/survey-question-result_0c4f17d9-93f0-4a5a-8cd6-43ed22abcedd.png "survey-question-result")
+![survey-question-result](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/668154f532ae_7D5C/survey-question-result_0c4f17d9-93f0-4a5a-8cd6-43ed22abcedd.png "survey-question-result")
 
 We’re considering a feature that would only allow a single package
 version per solution. As you can see by the response to the question,

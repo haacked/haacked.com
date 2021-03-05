@@ -4,7 +4,7 @@ tags: [humor]
 redirect_from: "/archive/2005/08/14/this-could-remove-all-the-fun-from-when-a-coworker-leaves-her-computer-unlocked.aspx/"
 ---
 
-![Wireless PC Lock](https://haacked.com/images/wirelesspclock.gif) I
+![Wireless PC Lock](https://haacked.com/assets/images/wirelesspclock.gif) I
 don’t know about you, but running into an unlocked workstation in the
 office is like finding a voucher for a free airline ticket and hotel
 stay at Vegas complete with gambling money. In other words, pure fun.

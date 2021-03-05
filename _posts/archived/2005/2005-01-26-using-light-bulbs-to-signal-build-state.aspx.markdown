@@ -4,7 +4,7 @@ tags: [ci]
 redirect_from: "/archive/2005/01/25/using-light-bulbs-to-signal-build-state.aspx/"
 ---
 
-![Build Lights](/images/buildlights.jpg) Oh yes, this is geeky! [Craig
+![Build Lights](/assets/images/buildlights.jpg) Oh yes, this is geeky! [Craig
 Wangdera](http://pluralsight.com/wiki/default.aspx/Craig.BuildLightsCode)
 posted the source code he wrote that lights up physical light bulbs with
 the status of his build using

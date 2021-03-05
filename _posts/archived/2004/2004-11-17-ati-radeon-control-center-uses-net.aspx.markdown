@@ -4,7 +4,7 @@ tags: [dotnet]
 redirect_from: "/archive/2004/11/16/ati-radeon-control-center-uses-net.aspx/"
 ---
 
-![ATI Radeon](/images/AtiRadeon.jpg) I'm currently updating my device
+![ATI Radeon](/assets/images/AtiRadeon.jpg) I'm currently updating my device
 driver for my ATI Radeon 9700 at work (I now have a new 17" LCD monitor
 that supports portrait mode) and noticed that to install the CATALYST
 Control Center, .NET 1.1 is required. See [for

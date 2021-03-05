@@ -16,7 +16,7 @@ for a SourceForge 2007 Community Choice Award.
 
 To nominate Subtext, just click on the badge below:
 
-[![nomProj](https://haacked.com/images/haacked_com/WindowsLiveWriter/PleaseNominateSubtextForASourceForgeComm_FAAD/nomProj_1.png)](http://sourceforge.net/awards/cca/nomination.php?group_id=137896&from=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fsubtext%2F "Nominate Subtext")
+[![nomProj](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PleaseNominateSubtextForASourceForgeComm_FAAD/nomProj_1.png)](http://sourceforge.net/awards/cca/nomination.php?group_id=137896&from=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fsubtext%2F "Nominate Subtext")
 
 Nominations are accepted until June 29th, at which point the projects
 with the most nominations become finalists. You can nominate a project

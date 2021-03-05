@@ -16,5 +16,5 @@ some of my brightest friends and come up with a business idea that will
 be easy to implement, and if not make us millionaires, provide us with a
 steady income and nice place to work. Here's what we came up with...
 
-![business plan](/images/dilbert_plans.gif)
+![business plan](/assets/images/dilbert_plans.gif)
 

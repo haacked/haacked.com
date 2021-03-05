@@ -32,7 +32,7 @@ Guidelines](http://www.amazon.com/gp/product/0321545613?ie=UTF8&tag=youvebeenhaa
 book. If you’re looking for reasons *not* to buy the book, see [Rob’s
 post](http://blog.wekeroad.com/blog/in-which-we-discuss-writing-a-book-on-mvc/ "Writing a book on MVC").
 
-[![extended-forehead-edition](https://haacked.com/images/haacked_com/WindowsLiveWriter/ProfessionalASP.NETMVC_7E9F/extended-forehead-edition_thumb.jpg "extended-forehead-edition")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ProfessionalASP.NETMVC_7E9F/extended-forehead-edition_2.jpg)The
+[![extended-forehead-edition](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ProfessionalASP.NETMVC_7E9F/extended-forehead-edition_thumb.jpg "extended-forehead-edition")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ProfessionalASP.NETMVC_7E9F/extended-forehead-edition_2.jpg)The
 bad news is that despite our heroic efforts in which we cajoled, begged,
 and pleaded and rendered our clothes asunder, we were not able to
 convince our editors to produce a special platinum extended forehead

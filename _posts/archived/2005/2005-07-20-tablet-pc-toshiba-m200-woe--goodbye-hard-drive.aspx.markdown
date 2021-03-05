@@ -4,7 +4,7 @@ tags: [gadgets,personal]
 redirect_from: "/archive/2005/07/19/tablet-pc-toshiba-m200-woe--goodbye-hard-drive.aspx/"
 ---
 
-![Toshiba M200](https://haacked.com/images/m200.jpg) I’m pretty bummed
+![Toshiba M200](https://haacked.com/assets/images/m200.jpg) I’m pretty bummed
 today as my Tablet PC went on a holiday and refuses to come back. I’m
 pretty sure it’s a problem with the hard drive as the last event viewer
 message I saw was a warning that the system detected an imminent hard

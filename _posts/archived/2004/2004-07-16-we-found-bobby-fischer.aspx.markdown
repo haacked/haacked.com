@@ -4,7 +4,7 @@ tags: [news]
 redirect_from: "/archive/2004/07/15/we-found-bobby-fischer.aspx/"
 ---
 
-![Bobby Fischer](/images/Bobby.jpg)We can't find Waldo, we can't find
+![Bobby Fischer](/assets/images/Bobby.jpg)We can't find Waldo, we can't find
 Osama, but we found Bobby. Hooray!
 
 > paulydavis writes "Former world chess champion Bobby Fischer, wanted

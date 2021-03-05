@@ -9,7 +9,7 @@ suggested to my wife that we take the kids somewhere and she sagely
 noted that taking the kids anywhere at their ages is not a vacation.
 Perhaps I should go somewhere on my own.
 
-[![IMG\_1551](https://haacked.com/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1551_thumb.jpg "IMG_1551")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1551.jpg)*Like
+[![IMG\_1551](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1551_thumb.jpg "IMG_1551")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1551.jpg)*Like
 a deserted lighthouse!*Did I mention she’s the best wife ever?
 
 I decided to take a week off and mix a bit of “staycation” with my
@@ -44,13 +44,13 @@ The plane was cozy (aka small) which allowed me to sit right behind the
 cockpit and enjoy a panoramic view during the flight to the island. The
 landing was whisper soft and I barely noticed it.
 
-[![IMG\_1473](https://haacked.com/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1473_thumb.jpg "IMG_1473")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1473.jpg)*So
+[![IMG\_1473](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1473_thumb.jpg "IMG_1473")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1473.jpg)*So
 I wonder what this button does.*I even had the opportunity to help out
 by holding the mooring rope for the pilot while he got in to start the
 plane and take off. I thought about holding onto the rope for an
 exhilarating ride, but my better judgment kicked in.
 
-[![IMG\_1507](https://haacked.com/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1507_thumb_1.png "IMG_1507")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1507_1.png)*You’re
+[![IMG\_1507](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1507_thumb_1.png "IMG_1507")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1507_1.png)*You’re
 going to tell me when to let go right? RIGHT?!*
 
 Friday Harbor House
@@ -63,7 +63,7 @@ overlooking the harbor, affording me a view of the incoming sea planes
 and ferries. I also had a view of the folks dining in the garden just
 outside the restaurant downstairs under my balcony.
 
-[![IMG\_1528](https://haacked.com/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1528_thumb.jpg "IMG_1528")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1528.jpg)
+[![IMG\_1528](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1528_thumb.jpg "IMG_1528")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1528.jpg)
 *The view of the harbor from my room.*
 
 And their view was supplemented by a direct view into my room, keen as I
@@ -92,7 +92,7 @@ himself to be a bit of a comedian. I’ll only say I was indeed
 entertained on the drive there and back.
 
 [![IMG\_3753
-(2)](https://haacked.com/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_3753%20(2)_thumb.jpg "IMG_3753 (2)")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_3753%20(2)_2.jpg)
+(2)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_3753%20(2)_thumb.jpg "IMG_3753 (2)")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_3753%20(2)_2.jpg)
 *You better believe I’m not letting go of this rope.*
 
 The group I ended up with was a rambunctious extended family on a trip
@@ -119,7 +119,7 @@ setting out in a set of double canoes. We set out on the west side of
 the island with a nice view of Canada across the sound. We didn’t catch
 any whales but did see jellyfish, sea lions, and some doll porpoises.
 
-[![IMG\_1584](https://haacked.com/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1584_thumb.jpg "IMG_1584")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1584.jpg)*Who
+[![IMG\_1584](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1584_thumb.jpg "IMG_1584")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Vacation-in-the-San-Juan-Islands_E90E/IMG_1584.jpg)*Who
 said anything about having to actually paddle?*
 
 I was fortunate to be sharing a canoe with the guide ensuring I wouldn’t

@@ -56,7 +56,7 @@ It turns out that ASP.NET provides ways to set many of the defaults within Web.c
 
 In the case of ASP.NET MVC, I opened up the *Web.config* file hiding away in the *Views* directory, not to be confused with the *Web.config* in your application root.
 
-![views-webconfig](https://haacked.com/images/haacked_com/WindowsLiveWriter/PutYourViewsandPagesOnaDiet_F0BD/views-webconfig_3.png "views-webconfig")
+![views-webconfig](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/PutYourViewsandPagesOnaDiet_F0BD/views-webconfig_3.png "views-webconfig")
 
 This *Web.config* is placed here because it is the default for all
 Views. I then made the following changes:

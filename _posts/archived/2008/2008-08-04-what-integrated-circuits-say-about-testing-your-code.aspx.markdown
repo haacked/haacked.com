@@ -11,7 +11,7 @@ decisions made in code in order to make it more testable.
 
 > Why would I want to do XYZ just do improve testability?
 
-![integrated-circuit](https://haacked.com/images/haacked_com/WindowsLiveWriter/DesignForTestability_12B08/integrated-circuit_3.png "integrated-circuit")
+![integrated-circuit](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DesignForTestability_12B08/integrated-circuit_3.png "integrated-circuit")
 Recently, I heard one variation of this comment in the comments to my
 post on [unit test
 boundaries](https://haacked.com/archive/2008/07/22/unit-test-boundaries.aspx "Unit Test Boundaries").

@@ -4,14 +4,14 @@ tags: [gaming,personal]
 redirect_from: "/archive/2004/11/18/you-have-summoned-an-elemental.aspx/"
 ---
 
-![C64](/images/C64.gif)It was really just a side question of this
+![C64](/assets/images/C64.gif)It was really just a side question of this
 [post](http://neopoleon.com/blog/posts/9917.aspx) on [Rory’s
 blog](http://www.neopoleon.com/blog/) having nothing to do with the main
 topic (some blather about Jury duty bla bla bla). *For 50 bonus points,
 the question was what game featured the quote “You have summoned an
 elemental”?*
 
-![](https://haacked.com/images/haacked_com/archon.jpg)My winning answer
+![](https://haacked.com/assets/images/haacked_com/archon.jpg)My winning answer
 was *Archon*, thus securing the 50 pts redeemable for fame, fortune, and
 street cred. Interestingly enough, the question summoned a swarm of
 geeks reminiscing about the *good ol’ days* of gaming on the Commodore

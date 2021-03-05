@@ -28,7 +28,7 @@ A couple key points he makes.
 It reminds me of this political cartoon in the paper today.
 
 ![What do terrorists
-hate?](https://haacked.com/images/TerroristsHateFreedom.gif)
+hate?](https://haacked.com/assets/images/TerroristsHateFreedom.gif)
 
 *via the [Washington
 Post](http://www.washingtonpost.com/wp-srv/opinions/cartoonsandvideos/toles_main.html?name=Toles&date=05182006 "Washington Post Political Cartoon")*

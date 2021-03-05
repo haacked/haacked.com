@@ -4,7 +4,7 @@ tags: [source-control]
 redirect_from: "/archive/2006/08/14/AtwoodIsPreachingAndImInTheChoir.aspx/"
 ---
 
-![Choir](https://haacked.com/images/AtwoodIsPreachingAndImInTheChoir_CE5B/choir_thumb6.jpg)In
+![Choir](https://haacked.com/assets/images/AtwoodIsPreachingAndImInTheChoir_CE5B/choir_thumb6.jpg)In
 [Jeff Atwood’s](http://www.codinghorror.com/blog/ "Jeff Atwood's Blog")
 latest post entitled [Source Control: Anything But
 SourceSafe](http://www.codinghorror.com/blog/archives/000660.html "Atwood on Source Control")

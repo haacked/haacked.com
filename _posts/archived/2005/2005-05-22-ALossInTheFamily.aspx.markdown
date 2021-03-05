@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2005/05/21/ALossInTheFamily.aspx/"
 ---
 
-![Hideo Yokoyama](/images/HideoYokoyama.jpg)
+![Hideo Yokoyama](/assets/images/HideoYokoyama.jpg)
 
 ### Hideo Yokoyama 1943 - 2005 {style="clear:both; margin-top:0px;"}
 

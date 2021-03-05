@@ -5,7 +5,7 @@ redirect_from: "/archive/2007/01/18/Windows_Developer_Tools_Day.aspx/"
 ---
 
 [![Windows Developer Power Tools Cover From
-Amazon.com](https://haacked.com/images/haacked_com/WindowsLiveWriter/WindowsDeveloperToolsDay_EF1E/WindowsDeveloperPowerTools_thumb5.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/WindowsDeveloperToolsDay_EF1E/WindowsDeveloperPowerTools7.jpg)
+Amazon.com](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WindowsDeveloperToolsDay_EF1E/WindowsDeveloperPowerTools_thumb5.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WindowsDeveloperToolsDay_EF1E/WindowsDeveloperPowerTools7.jpg)
 In order to promote the book [Windows Developer Power Tools:
 *Turbocharge Windows Development with More Than 140 Free and Open Source
 Tools*](http://www.amazon.com/Windows-Developer-Power-Tools-Turbocharge/dp/0596527543 "Windows Developer PowerTools"),

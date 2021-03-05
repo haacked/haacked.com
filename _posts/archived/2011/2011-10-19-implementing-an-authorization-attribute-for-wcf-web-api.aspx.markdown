@@ -16,7 +16,7 @@ testability and extensibility in mind. There are some concepts that are
 similar to ASP.NET MVC, but with a twist. For example, where ASP.NET MVC
 has filters, WCF has operation handlers.
 
-[![security](https://haacked.com/images/haacked_com/WindowsLiveWriter/Conditional-Filters-in-ASP.NET-MVC-3_BBA7/security_3.jpg "security")](http://www.sxc.hu/photo/1339522h "Chained door by linder6850 from sxc.hu.")
+[![security](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Conditional-Filters-in-ASP.NET-MVC-3_BBA7/security_3.jpg "security")](http://www.sxc.hu/photo/1339522h "Chained door by linder6850 from sxc.hu.")
 
 One question that comes up often with Web API is how do you authenticate
 requests? Well, you run Web API on ASP.NET (Web API also supports a
@@ -167,7 +167,7 @@ action (if any) and then does my custom registration logic.
 I’ll admit, I couldn’t help thinking that if `RequestHandlers` was an
 event, rather than an action, that sort of logic could be handled for
 me. ![Winking
-smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Implementing-an-Authorization-Attribute-_12EA4/wlEmoticon-winkingsmile_2.png)
+smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Implementing-an-Authorization-Attribute-_12EA4/wlEmoticon-winkingsmile_2.png)
 Have events fallen out of favor? They do work well to decouple code in
 this sort of scenario, but I digress.
 
@@ -230,7 +230,7 @@ sample. I won’t make this into a NuGet package until it’s been
 thoroughly vetted by the WCF Web API team because it’s very likely I
 have no idea what I’m doing. I’d rather one of those folks make a NuGet
 package for this.
-![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Implementing-an-Authorization-Attribute-_12EA4/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Implementing-an-Authorization-Attribute-_12EA4/wlEmoticon-smile_2.png)
 
 And if you’re wondering why I’m writing about Web API, we’re all part of
 the same larger team now, so I figured it’s good to take a peek at what

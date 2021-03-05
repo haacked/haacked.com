@@ -9,7 +9,7 @@ here](https://haacked.com/archive/2010/03/11/aspnet-mvc2-released.aspx "ASP.NET 
 Today I’m pleased to announce the availability of Release Candidate 2
 for ASP.NET MVC 2.
 
-[![thumbs-up](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2RC2Released_E8E6/thumbs-up_3.jpg "thumbs-up")](http://www.flickr.com/photos/89186997@N00/3396410350/ "thumbs up by richkidsunite - creative commons by attribution")After
+[![thumbs-up](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2RC2Released_E8E6/thumbs-up_3.jpg "thumbs-up")](http://www.flickr.com/photos/89186997@N00/3396410350/ "thumbs up by richkidsunite - creative commons by attribution")After
 receiving feedback from our last release candidate back in December, we
 decided it would be prudent to have one more release candidate that
 incorporated the feedback. You can **[read the release

@@ -38,7 +38,7 @@ interface introduced in ASP.NET 4?**
 
 The answer involves a tiny bit of voodoo black magic we’re doing in
 ASP.NET MVC
-2.[![voodoo](https://haacked.com/images/haacked_com/WindowsLiveWriter/HtmlEncodingNuggetsWithASP.NETMVC2_13929/voodoo_3.jpg "voodoo")](http://www.sxc.hu/photo/1196752 "Voodoo by sloopjohnb")
+2.[![voodoo](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HtmlEncodingNuggetsWithASP.NETMVC2_13929/voodoo_3.jpg "voodoo")](http://www.sxc.hu/photo/1196752 "Voodoo by sloopjohnb")
 
 We introduced a new type `MvcHtmlString` which is created via a factory
 method, `MvcHtmlString.Create`. When this method determines that it is

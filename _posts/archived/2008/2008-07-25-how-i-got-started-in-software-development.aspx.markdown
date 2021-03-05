@@ -18,7 +18,7 @@ Have I even started really programming yet? I guess I got my first taste
 when I was around eight with my first computer, a [TRS-80 **Color**
 Computer](https://haacked.com/archive/2005/06/06/my-first-computer.aspx "My First Computer").
 
-[![phil-with-trs-80](https://haacked.com/images/haacked_com/WindowsLiveWriter/HowIGotStartedInSoftwareDevelopment_761A/phil-with-trs-80_thumb.jpg "phil-with-trs-80")](https://haacked.com/images/haacked_com/WindowsLiveWriter/HowIGotStartedInSoftwareDevelopment_761A/phil-with-trs-80_2.jpg)
+[![phil-with-trs-80](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HowIGotStartedInSoftwareDevelopment_761A/phil-with-trs-80_thumb.jpg "phil-with-trs-80")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HowIGotStartedInSoftwareDevelopment_761A/phil-with-trs-80_2.jpg)
 
 That sucker could display 9 colors, all at once, believe it or not. My
 programming experience back then was pretty minimal. My dad and I mostly

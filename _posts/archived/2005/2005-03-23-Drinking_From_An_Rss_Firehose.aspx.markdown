@@ -6,7 +6,7 @@ redirect_from:
   - "/archive/2005/03/24/2450.aspx/"
 ---
 
-![Firehose](/images/firehose.jpg) So now that you’ve subscribed to your
+![Firehose](/assets/images/firehose.jpg) So now that you’ve subscribed to your
 4000 feeds, how do you keep on top of the flood of incoming items? Dare
 [talks about
 this](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=14d0413e-d0dc-4382-9ee9-57e95d7b3544 "Nightcrawler Thoughts"),

@@ -11,7 +11,7 @@ has certain situations where it sets various background and foreground
 colors. You can have it set those styles explicitly or you can have it
 set a CSS class, and let the CSS stylesheet do the work.
 
-[![color-wheel](https://haacked.com/images/haacked_com/WindowsLiveWriter/ConvertinganRGBColorToHexWithJavaScript_12017/color-wheel_3.jpg "color-wheel")](http://www.sxc.hu/photo/828516 "Color Wheel on sxc.hu by asifthebes")I’m
+[![color-wheel](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ConvertinganRGBColorToHexWithJavaScript_12017/color-wheel_3.jpg "color-wheel")](http://www.sxc.hu/photo/828516 "Color Wheel on sxc.hu by asifthebes")I’m
 writing some unit tests to test the former behavior and ran into an
 annoying quirk. When testing the color value in IE, I’ll get something
 like `#e0e0e0`, but when testing it in FireFox, I get

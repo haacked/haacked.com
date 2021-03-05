@@ -11,7 +11,7 @@ you want to pull out your hair. Or worse, it makes you want to pull out
 issue](http://ars.userfriendly.org/cartoons/?id=19980506 "PEBKAC"), but
 in the interest of avoiding physical harm, I try not to point that out.
 
-[![pebkac-comic](https://haacked.com/images/haacked_com/WindowsLiveWriter/62903db4eb83_8C22/pebkac-comic_3.gif "pebkac-comic")](http://ars.userfriendly.org/cartoons/?id=19980506 "UserFriendly comic")
+[![pebkac-comic](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/62903db4eb83_8C22/pebkac-comic_3.gif "pebkac-comic")](http://ars.userfriendly.org/cartoons/?id=19980506 "UserFriendly comic")
 
 Thankfully, in the interest of saving my hair, [Brad
 Wilson](http://bradwilson.typepad.com/ "Brad Wilson's Blog")
@@ -37,7 +37,7 @@ MvcDiagnostics. Simply type in “MVC” in the search dialog to filter the
 online entries. Then locate the *MvcDiagnostics* entry and click
 “Install”.
 
-[![add-package-dialog](https://haacked.com/images/haacked_com/WindowsLiveWriter/62903db4eb83_8C22/add-package-dialog_thumb.png "add-package-dialog")](https://haacked.com/images/haacked_com/WindowsLiveWriter/62903db4eb83_8C22/add-package-dialog_2.png)
+[![add-package-dialog](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/62903db4eb83_8C22/add-package-dialog_thumb.png "add-package-dialog")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/62903db4eb83_8C22/add-package-dialog_2.png)
 
 Or you can use the Package Manager Gonsole and simply type:
 
@@ -46,12 +46,12 @@ Or you can use the Package Manager Gonsole and simply type:
 Either way, this will add the `MvcDiagnostics.aspx` page to the root of
 your web application.
 
-[![mvcdiagnostics-viewinbrowser](https://haacked.com/images/haacked_com/WindowsLiveWriter/62903db4eb83_8C22/mvcdiagnostics-viewinbrowser_thumb.png "mvcdiagnostics-viewinbrowser")](https://haacked.com/images/haacked_com/WindowsLiveWriter/62903db4eb83_8C22/mvcdiagnostics-viewinbrowser_2.png)
+[![mvcdiagnostics-viewinbrowser](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/62903db4eb83_8C22/mvcdiagnostics-viewinbrowser_thumb.png "mvcdiagnostics-viewinbrowser")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/62903db4eb83_8C22/mvcdiagnostics-viewinbrowser_2.png)
 
 You can then visit the page with your browser to get diagnostics
 information.
 
-[![mvc-diagnostics](https://haacked.com/images/haacked_com/WindowsLiveWriter/62903db4eb83_8C22/mvc-diagnostics_thumb.png "mvc-diagnostics")](https://haacked.com/images/haacked_com/WindowsLiveWriter/62903db4eb83_8C22/mvc-diagnostics_2.png)
+[![mvc-diagnostics](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/62903db4eb83_8C22/mvc-diagnostics_thumb.png "mvc-diagnostics")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/62903db4eb83_8C22/mvc-diagnostics_2.png)
 
 With NuGet, it’s much easier to make use of this diagnostics page.
 Hopefully you’ll rarely need to use it, but it’s nice to know it’s

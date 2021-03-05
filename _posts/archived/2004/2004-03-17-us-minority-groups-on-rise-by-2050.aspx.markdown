@@ -4,7 +4,7 @@ tags: [news]
 redirect_from: "/archive/2004/03/16/us-minority-groups-on-rise-by-2050.aspx/"
 ---
 
-![](/images/benetton.jpg)Being of mixed heritageI have both bases
+![](/assets/images/benetton.jpg)Being of mixed heritageI have both bases
 covered. For now, I can claim my caucasian-ness and reap all the
 benefits of being the dominant sub-culture. But once minorities surpass
 caucasians, I can switch to

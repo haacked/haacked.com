@@ -4,7 +4,7 @@ tags: [tech]
 redirect_from: "/archive/2006/01/13/VistaCouldBeSoMuchBetter.aspx/"
 ---
 
-![Vista](https://haacked.com/images/WindowsVista.jpg) From reading other
+![Vista](https://haacked.com/assets/images/WindowsVista.jpg) From reading other
 blogs, it seems many developers are unimpressed with the sheen of
 Windows Vista, the next version of the Microsoft operating system. There
 is definitely appreciation for all the improvements under the hood, but

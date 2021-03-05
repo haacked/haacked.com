@@ -4,7 +4,7 @@ tags: [rss]
 redirect_from: "/archive/2004/06/17/how-to-build-iblogextension-plug-ins-for-rss-bandit.aspx/"
 ---
 
-![RSS Bandit Logo](/images/RssBanditLogo.jpg) Plug-ins are a powerful
+![RSS Bandit Logo](/assets/images/RssBanditLogo.jpg) Plug-ins are a powerful
 way for users to dynamically enhance the functionality of an installed
 application. Is there a high priority feature you want that is low
 priority for the developers? Perhaps you can write a plug-in.

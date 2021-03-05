@@ -39,13 +39,13 @@ We also took a boat ride in Oceanside to the point at which we spread
 Otosan’s ashes. My brother-in-law took some great photos, such as the
 sea lions basking on a buoy.
 
-![Sea Lions](https://haacked.com/images/SeaLions.jpg)
+![Sea Lions](https://haacked.com/assets/images/SeaLions.jpg)
 
 Everytime I ride the boat I start to wonder what it would be like to
 sell our place and live on a boat. But I realize they have the same
 parking congestion that we have.
 
-![](https://haacked.com/images/BoatsInARow.jpg)
+![](https://haacked.com/assets/images/BoatsInARow.jpg)
 
 Today I am back in Los Angeles and back to work while they are out
 shopping. It is interesting to see their shopping choices. They were so

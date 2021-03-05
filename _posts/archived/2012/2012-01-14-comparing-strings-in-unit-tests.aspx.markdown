@@ -22,7 +22,7 @@ and the second value is the value you obtained by calling some method.
 Clearly, this test fails. So you look at the output and this is what you
 see:
 
-[![test-output](https://haacked.com/images/haacked_com/WindowsLiveWriter/Comparing-Strings-in-Unit-Tests_1422A/test-output_thumb.png "test-output")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Comparing-Strings-in-Unit-Tests_1422A/test-output_2.png)
+[![test-output](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Comparing-Strings-in-Unit-Tests_1422A/test-output_thumb.png "test-output")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Comparing-Strings-in-Unit-Tests_1422A/test-output_2.png)
 
 It’s pretty hard to compare those strings by looking at them. Especially
 if they are two huge strings.
@@ -41,7 +41,7 @@ public void Fact()
 
 And here’s an example of the output.
 
-[![test-compare-output](https://haacked.com/images/haacked_com/WindowsLiveWriter/Comparing-Strings-in-Unit-Tests_1422A/test-compare-output_thumb.png "test-compare-output")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Comparing-Strings-in-Unit-Tests_1422A/test-compare-output_2.png)
+[![test-compare-output](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Comparing-Strings-in-Unit-Tests_1422A/test-compare-output_thumb.png "test-compare-output")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Comparing-Strings-in-Unit-Tests_1422A/test-compare-output_2.png)
 
 At the very top, the assert message is the same as before. I deferred to
 the existing `Assert.Equal` method in xUnit (typically `Assert.AreEqual`

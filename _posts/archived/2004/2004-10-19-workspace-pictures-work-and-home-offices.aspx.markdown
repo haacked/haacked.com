@@ -9,13 +9,13 @@ online. Not sure why ([vanity](https://haacked.com/archive/2004/10/08/bloggingis
 
 This first picture shows my work office with it's nice 17th floor view.
 
-![Work Office](/images/WorkOffice.jpg)
+![Work Office](/assets/images/WorkOffice.jpg)
 
 Strange green bands take over the screens.
 
 This next one is our home office.
 
-![My home office](/images/HomeOffice.jpg)
+![My home office](/assets/images/HomeOffice.jpg)
 
 As you can see, the home setup is much nicer than the work setup with dual 17" flat panels monitors, and a slick looking aluminum Shuttle case. I wish my company would invest in nice monitors. My work monitors flicker, make me cross-eyed and spit in my food. If you look closely at the top picture, the computer case is literally held together with scotch tape on top. The IT department wouldn't budget duct tape.
 

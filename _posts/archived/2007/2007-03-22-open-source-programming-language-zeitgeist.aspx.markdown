@@ -19,13 +19,13 @@ For example, compare this screenshot of the top Ruby, Java, and C#
 searches.
 
 ![Top Java Searches - 1. md5, 2.swing,
-3.java](https://haacked.com/images/haacked_com/WindowsLiveWriter/OpenSourceProgrammingLanguageZeitgeist_14D30/image%7B0%7D%5B19%5D.png)![Top
+3.java](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/OpenSourceProgrammingLanguageZeitgeist_14D30/image%7B0%7D%5B19%5D.png)![Top
 C# Searches 1.system, 2.dataset,
-3.openforecast](https://haacked.com/images/haacked_com/WindowsLiveWriter/OpenSourceProgrammingLanguageZeitgeist_14D30/image%7B0%7D%5B20%5D.png)
+3.openforecast](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/OpenSourceProgrammingLanguageZeitgeist_14D30/image%7B0%7D%5B20%5D.png)
 ![Top Ruby Searches 1. proxy, 2.file,
-3.socket](https://haacked.com/images/haacked_com/WindowsLiveWriter/OpenSourceProgrammingLanguageZeitgeist_14D30/image%7B0%7D%5B18%5D.png)
+3.socket](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/OpenSourceProgrammingLanguageZeitgeist_14D30/image%7B0%7D%5B18%5D.png)
 ![Top PHP Searches 1. None, 2. excel,
-3.mail](https://haacked.com/images/haacked_com/WindowsLiveWriter/OpenSourceProgrammingLanguageZeitgeist_14D30/image%7B0%7D%5B25%5D.png)
+3.mail](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/OpenSourceProgrammingLanguageZeitgeist_14D30/image%7B0%7D%5B25%5D.png)
 
 It’s hard to draw any conclusive conclusions based on this sample, but
 let me offer a few uninformed thoughts, and you can tell me how off-base

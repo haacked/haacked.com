@@ -51,7 +51,7 @@ Likewise, if you type `git checkout b{tab}`, you can cycle through all branches 
 
 Here is an animated gif that shows what it looks like to tab through all my repository's branches.
 
-![Posh-Git Tab Expansion](https://haacked.com/images/haacked_com/WindowsLiveWriter/Git-Smooth-with-PowerShell_94DB/ps-tab-expansion_thumb.gif)
+![Posh-Git Tab Expansion](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Git-Smooth-with-PowerShell_94DB/ps-tab-expansion_thumb.gif)
 
 ## PowerShell Configuration
 
@@ -111,7 +111,7 @@ You're not quite done yet. By default, ConsoleZ loads the Command shell. You'll 
 
 <img src="https://cloud.githubusercontent.com/assets/19977/10811324/f800b14c-7dc7-11e5-9f0c-9e17ab032825.png" width="531" title="ConsoleZ Tab Settings" alt="ConsoleZ Tab Settings" />
 
-You'll notice I got a little fancy and use the Git Shell icon for the tab. I put [icon here](https://haacked.com/images/icons/Shell.ico) (or use our [Octocat App Icon](https://haacked.com/images/icons/App.ico)) so you can download it and do the same if you'd like. I saved the icon to the `%LocalAppData%\GitHub\icons` directory and then pasted the path to the Icon in the Icon text box.
+You'll notice I got a little fancy and use the Git Shell icon for the tab. I put [icon here](https://haacked.com/assets/images/icons/Shell.ico) (or use our [Octocat App Icon](https://haacked.com/assets/images/icons/App.ico)) so you can download it and do the same if you'd like. I saved the icon to the `%LocalAppData%\GitHub\icons` directory and then pasted the path to the Icon in the Icon text box.
 
 ## Customize ConsoleZ
 

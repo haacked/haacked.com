@@ -4,7 +4,7 @@ tags: [subtext]
 redirect_from: "/archive/2006/04/03/CoCommentSupportInSubtext.aspx/"
 ---
 
-![CoComment Logo](https://haacked.com/images/cocommentlogo.gif) Since I
+![CoComment Logo](https://haacked.com/assets/images/cocommentlogo.gif) Since I
 was [called
 out](http://jaysonknight.com/blog/archive/2006/04/04/8001.aspx "CoComment Enable Your .TEXT Blog"),
 I went ahead and quickly implemented

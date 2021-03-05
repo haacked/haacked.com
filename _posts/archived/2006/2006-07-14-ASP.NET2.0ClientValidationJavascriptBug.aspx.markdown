@@ -4,7 +4,7 @@ tags: [aspnet,validation]
 redirect_from: "/archive/2006/07/13/ASP.NET2.0ClientValidationJavascriptBug.aspx/"
 ---
 
-![Bug](https://haacked.com/images/554589_beetle.jpg) I recently ran into
+![Bug](https://haacked.com/assets/images/554589_beetle.jpg) I recently ran into
 a perplexing problem that I believe is a bug in ASP.NET 2.0.
 
 Subtext dynamically loads UserControls into the page when fulfilling a

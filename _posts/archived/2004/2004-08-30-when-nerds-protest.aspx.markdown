@@ -9,7 +9,7 @@ photo from a friend of his, Brad Kagawa, who was at the RNC protest in
 New York. Brad scrambled across the march to take a picture of the
 geekiest protest sign he's ever seen.
 
-![](/images/protest.jpg) \
+![](/assets/images/protest.jpg) \
  Will the W3C support this addition to HTML?
 
 Whoever this person is with the sign, I \<SALUTE/\> you.

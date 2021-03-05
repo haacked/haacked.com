@@ -13,14 +13,14 @@ If you don’t see any updates, make sure to *enable automatic detection
 of available updates*.
 
 ![Extension
-Manager](https://haacked.com/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/Extension%20Manager_3.png "Extension Manager")
+Manager](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/Extension%20Manager_3.png "Extension Manager")
 
 If you are running VS 2010 SP1 Beta, you might run into the following
 error message when attempting to *upgrade* to NuGet 1.1 if you have an
 older version installed.
 
 ![Visual Studio Extension Installer
-(3)](https://haacked.com/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/Visual%20Studio%20Extension%20Installer%20(3)_3.png "Visual Studio Extension Installer (3)")
+(3)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/Visual%20Studio%20Extension%20Installer%20(3)_3.png "Visual Studio Extension Installer (3)")
 
 The workaround is to simply uninstall NuGet and then install it from the
 VS Extension Gallery.
@@ -33,7 +33,7 @@ and new VSIX match during an upgrade.
 If you don’t have NuGet installed, click the *Online* tab and type in
 “NuGet” (sans quotes) to find it.
 
-[![nuget-in-vs-gallery](https://haacked.com/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/nuget-in-vs-gallery_thumb.png "nuget-in-vs-gallery")](https://haacked.com/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/nuget-in-vs-gallery_2.png)
+[![nuget-in-vs-gallery](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/nuget-in-vs-gallery_thumb.png "nuget-in-vs-gallery")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/nuget-in-vs-gallery_2.png)
 
 The VSIX and updated command line tool (used to create and publish
 packages) is also [available on
@@ -46,7 +46,7 @@ Much of the work in this release was focused on bug fixes. Now that
 CodePlex.com supports directly linking to filtered views of the issue
 tracker, I can provide you a [link to all the issues fixed in
 1.1](http://nuget.codeplex.com/workitem/list/advanced?keyword=&status=All&type=All&priority=All&release=NuGet%201.1&assignedTo=All&component=All&sortField=LastUpdatedDate&sortDirection=Descending&page=0 "Issues fixed in 1.1").
-![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/wlEmoticon-smile_2.png)
 
 In this post, I’ll highlight some of the new features.
 
@@ -56,7 +56,7 @@ One of the first changes you might notice is that we have a new tab in
 the dialog that shows packages that you’ve installed recently. Click the
 screenshot below for a larger view.
 
-[![NuGet-Recent-Packages](https://haacked.com/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/NuGet-Recent-Packages_thumb.png "NuGet-Recent-Packages")](https://haacked.com/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/NuGet-Recent-Packages_2.png)
+[![NuGet-Recent-Packages](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/NuGet-Recent-Packages_thumb.png "NuGet-Recent-Packages")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/NuGet-Recent-Packages_2.png)
 
 The recent packages shows the last 20 packages that you’ve *directly*
 installed. This often comes in handy when you tend to use the same
@@ -70,14 +70,14 @@ By the way, you can also use the Powershell within the Package Manager
 Console to get this same information with the `–Recent` flag to
 `Get-Package`.
 
-![nuget-ps-recent](https://haacked.com/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/nuget-ps-recent_17fc70ed-a9d4-4237-94f5-a40f794e6c12.png "nuget-ps-recent")
+![nuget-ps-recent](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/nuget-ps-recent_17fc70ed-a9d4-4237-94f5-a40f794e6c12.png "nuget-ps-recent")
 
 ### Progress Bar During Installation
 
 When you install a package, you’ll now notice a progress bar dialog that
 shows up with output from installing the package.
 
-![Installing](https://haacked.com/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/Installing_b08e6cdd-7811-4c58-b90b-336402eb53f1.png "Installing")
+![Installing](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/Installing_b08e6cdd-7811-4c58-b90b-336402eb53f1.png "Installing")
 
 The dialog is meant to give an indication of progress, but also gets out
 of your way immediately when the installation is complete so you’re not
@@ -90,7 +90,7 @@ NuGet 1.1 also posts that output to the Output window now. When you go
 to the Output window, you’ll need to select output from the *Package
 Manager* to see that output as in the screenshot.
 
-![nuget-output](https://haacked.com/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/nuget-output_b80ddaad-bf65-4881-8d5e-349e746fa0aa.png "nuget-output")
+![nuget-output](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/e70eb912a429_D5FD/nuget-output_b80ddaad-bf65-4881-8d5e-349e746fa0aa.png "nuget-output")
 
 This allows you to review what changes a package made at your leisure
 after the fact.

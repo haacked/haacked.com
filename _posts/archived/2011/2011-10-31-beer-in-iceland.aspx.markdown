@@ -16,7 +16,7 @@ beer-up. A Beer-Up is basically a meet-up, but with lots of beer!
     right, by the end of the night we’ll discuss life, philosophy, and
     which direction is my hotel?
 
-[![blue-lagoon](https://haacked.com/images/haacked_com/WindowsLiveWriter/Meet-for-Beer-in-Reykyavic_D0FD/blue-lagoon_3.jpg "blue-lagoon")](http://www.sxc.hu/photo/862117 "Blue Lagoon on sxc.hu")
+[![blue-lagoon](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Meet-for-Beer-in-Reykyavic_D0FD/blue-lagoon_3.jpg "blue-lagoon")](http://www.sxc.hu/photo/862117 "Blue Lagoon on sxc.hu")
 
 *Blue Lagoon in Iceland - Photo from sxc.hu*
 

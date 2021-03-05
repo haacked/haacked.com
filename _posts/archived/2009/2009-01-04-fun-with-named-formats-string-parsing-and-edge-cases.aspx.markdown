@@ -127,7 +127,7 @@ iterations, and then divides by 1000 to get the number of milliseconds
 each method takes. Here’s the result:
 
 ![format
-perf](https://haacked.com/images/haacked_com/WindowsLiveWriter/FunWithNamedFormatsStringParsingandEdgeC_B4E3/format-perf_3.png "format perf")
+perf](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/FunWithNamedFormatsStringParsingandEdgeC_B4E3/format-perf_3.png "format perf")
 
 Notice that James’s method is 43 times slower than Hanselman’s. Even so,
 it only takes 4.4 milliseconds. So if you don’t use it in a tight loop
@@ -143,7 +143,7 @@ before. After implementing my own version, I ran the performance test
 and saw the following result.
 
 ![haackformat
-perf](https://haacked.com/images/haacked_com/WindowsLiveWriter/FunWithNamedFormatsStringParsingandEdgeC_B4E3/haackformat-perf_3.png "haackformat perf")
+perf](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/FunWithNamedFormatsStringParsingandEdgeC_B4E3/haackformat-perf_3.png "haackformat perf")
 
 Nice! by removing the overhead of using a regular expression in this
 particular case, my implementation is faster than the other

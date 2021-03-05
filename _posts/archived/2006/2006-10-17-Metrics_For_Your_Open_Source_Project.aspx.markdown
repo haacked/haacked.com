@@ -11,7 +11,7 @@ that generates interesting statistics and graphs for an open source
 website.  Just point it to your code repository and let it go!
 
 ![Some
-stats](https://haacked.com/images/haacked_com/WindowsLiveWriter/MetricsForYourOpenSourceProject_8948/Ohloh_thumb.png)
+stats](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MetricsForYourOpenSourceProject_8948/Ohloh_thumb.png)
 
 Check out the [Subtext project
 stats](http://ohloh.net/projects/3167 "Subtext Project Stats").

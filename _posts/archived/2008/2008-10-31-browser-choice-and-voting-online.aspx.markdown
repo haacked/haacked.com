@@ -18,7 +18,7 @@ screwy on their iPhone. For example, here’s how it’s supposed to look in
 IE.
 
 [![survey
-ie](https://haacked.com/images/haacked_com/WindowsLiveWriter/9b59a59d6655_7693/survey-ie_thumb.png "survey ie")](https://haacked.com/images/haacked_com/WindowsLiveWriter/9b59a59d6655_7693/survey-ie_2.png)
+ie](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/9b59a59d6655_7693/survey-ie_thumb.png "survey ie")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/9b59a59d6655_7693/survey-ie_2.png)
 
 I checked it out with Google Chrome which uses
 [WebKit](http://webkit.org/ "Webkit"), the same rendering engine that
@@ -27,7 +27,7 @@ Safari, and thus the iPhone, uses.
 Here it is (click to see full size).
 
 [![survey
-webkit](https://haacked.com/images/haacked_com/WindowsLiveWriter/9b59a59d6655_7693/survey-webkit_thumb.png "survey webkit")](https://haacked.com/images/haacked_com/WindowsLiveWriter/9b59a59d6655_7693/survey-webkit_2.png)
+webkit](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/9b59a59d6655_7693/survey-webkit_thumb.png "survey webkit")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/9b59a59d6655_7693/survey-webkit_2.png)
 
 Notice anything different? :)
 

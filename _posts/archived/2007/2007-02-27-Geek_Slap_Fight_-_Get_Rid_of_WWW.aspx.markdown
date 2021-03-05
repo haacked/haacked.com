@@ -8,7 +8,7 @@ Forget flame wars. They’re so USENET. The new way of geek fighting is
 much more subtle.
 
 ![Subtlety of a blow
-torch](https://haacked.com/images/haacked_com/WindowsLiveWriter/GeekSlapFightGetRidofWWW_8875/321549_blowtorch_1%5B2%5D.jpg)
+torch](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GeekSlapFightGetRidofWWW_8875/321549_blowtorch_1%5B2%5D.jpg)
 
 Recently [Scott Hanselman](http://www.hanselman.com/blog/ "friend")
 wrote a post on the [SEO implications of URL

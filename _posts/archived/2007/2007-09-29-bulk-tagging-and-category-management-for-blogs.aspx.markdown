@@ -21,7 +21,7 @@ it using Subtext as a test-bed so it handles the fact that we use the
 microformat](http://microformats.org/wiki/rel-tag "rel-tag microformat") within
 the content as our tagging mechanism. Sweeeeet!
 
-![blogmanager\_image](https://haacked.com/images/haacked_com/WindowsLiveWriter/BulkTaggingandCategoryManagementForBlogs_EE84/blogmanager_image_1.jpg)
+![blogmanager\_image](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BulkTaggingandCategoryManagementForBlogs_EE84/blogmanager_image_1.jpg)
 
 Many thanks to Simo for [blogging about
 this](http://codeclimber.net.nz/archive/2007/09/29/Manage-categories-and-tags-of-your-blog.aspx "Managing categories and tags") and

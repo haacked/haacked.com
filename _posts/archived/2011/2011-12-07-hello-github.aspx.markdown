@@ -23,11 +23,11 @@ According to my offer letter, my title is “Windows Badass”, but the way I se
 
 More specifically, I plan to help GitHub appeal to more developers who code for Windows and the .NET platform. For example, take a look at the TIOBE language index.
 
-[![tiobe-index](https://haacked.com/images/haacked_com/WindowsLiveWriter/Hello-GitHub_129E2/tiobe-index_thumb_1.png "tiobe-index")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Hello-GitHub_129E2/tiobe-index_4.png)
+[![tiobe-index](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Hello-GitHub_129E2/tiobe-index_thumb_1.png "tiobe-index")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Hello-GitHub_129E2/tiobe-index_4.png)
 
 Now take a look at this chart from the GitHub languages page (no longer around).
 
-[![github languages](https://haacked.com/images/haacked_com/WindowsLiveWriter/Hello-GitHub_129E2/github%20languages_thumb.png "github languages")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Hello-GitHub_129E2/github%20languages_2.png)
+[![github languages](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Hello-GitHub_129E2/github%20languages_thumb.png "github languages")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Hello-GitHub_129E2/github%20languages_2.png)
 
 See something missing? Yes, oh mah gawd! [LOLCODE](http://lolcode.org/ "Lolcode") is not there!!!
 
@@ -75,7 +75,7 @@ But alas, as much as San Francisco is a great city, my family and I love it here
 
 My little octocats agree, this is a good thing.
 
-[![octocats](https://haacked.com/images/haacked_com/WindowsLiveWriter/Hello-GitHub_129E2/octocats_thumb.jpg "octocats")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Hello-GitHub_129E2/octocats.jpg)
+[![octocats](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Hello-GitHub_129E2/octocats_thumb.jpg "octocats")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Hello-GitHub_129E2/octocats.jpg)
 
 If you’ve been a fan of my blog or Twitter account, I hope you stick around. I’ll still be blogging about ASP.NET MVC, NuGet, etc. But you can expect my blog will also expand to cover new topics.
 

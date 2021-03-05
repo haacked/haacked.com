@@ -53,7 +53,7 @@ The first issue has to do with Markdown rendering. Say you upload an image named
 The resulting markdown might look like (xyzver5 is a random sequence to prevent collisions):
 
 ```md
-![cool image.png](/images/xyzver5/cool image.png)
+![cool image.png](/assets/images/xyzver5/cool image.png)
 ```
 
 Unfortunately, [Markdig](https://github.com/lunet-io/markdig) doesn't render that as an image. That's because Markdig is a goody two-shoes and accurately follows the [CommonMark Spec](https://spec.commonmark.org/0.28/#link-destination). The spec specifically which does not allow spaces for link destinations.
@@ -61,7 +61,7 @@ Unfortunately, [Markdig](https://github.com/lunet-io/markdig) doesn't render tha
 No problem, I naively thought, I'll just use my old standby, `HttpUtility.UrlEncode` for the filename.
 
 ```md
-![cool image.png](/images/xyzver5/cool+image.png)
+![cool image.png](/assets/images/xyzver5/cool+image.png)
 ```
 
 Now it renders fine. On the back end though, I don't allow direct access to these images for security reasons. Instead, I route them through a controller with a wildcard route.

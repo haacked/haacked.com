@@ -5,7 +5,7 @@ redirect_from: "/archive/2007/06/23/subtext-extensibility-notes.aspx/"
 ---
 
 ![Subtext Submarine
-Logo](https://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext1.9.5Release_EEA4/subtextsubmarinelogo6.png)Subtext
+Logo](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Subtext1.9.5Release_EEA4/subtextsubmarinelogo6.png)Subtext
 2.0 is progressing nicely. The plug-in architecture is pretty much
 feature complete. The code is still undergoing code review, testing, and
 tweaking, but it is possible to start building plug-ins for it right

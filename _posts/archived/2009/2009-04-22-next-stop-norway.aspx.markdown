@@ -14,7 +14,7 @@ talks](https://haacked.com/archive/2009/03/24/aspnetmvc-sessions-mix.aspx "ASP.N
 and the next one is the [Norwegian Developer
 Conference](http://ndc2009.no/en/ "NDC") also known as the NDC.
 
-![NDC\_logo-2009](https://haacked.com/images/haacked_com/WindowsLiveWriter/NextStopNorway_8254/NDC_logo-2009_3.png "NDC_logo-2009")[Hanselman](http://hanselman.com/ "Scott Hanselman's Blog")
+![NDC\_logo-2009](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NextStopNorway_8254/NDC_logo-2009_3.png "NDC_logo-2009")[Hanselman](http://hanselman.com/ "Scott Hanselman's Blog")
 spoke at this conference last year and tells me it’s a good one.
 Besides, it’s in Norway! I’ve travelled through Norway once during
 college, taking a train from Oslo to Bergen, riding a boat on the

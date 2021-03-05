@@ -4,7 +4,7 @@ tags: [aspnet,aspnetmvc,code]
 redirect_from: "/archive/2011/10/03/prevent-forms-authentication-login-page-redirect-when-you-donrsquot-want.aspx/"
 ---
 
-[![redirect](https://haacked.com/images/haacked_com/WindowsLiveWriter/Prevent-Forms-Authentication-Login-Page-_C968/redirect_3.jpg "redirect")](http://www.flickr.com/photos/notjake13/2574028447/ "Construction signs in NY")
+[![redirect](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Prevent-Forms-Authentication-Login-Page-_C968/redirect_3.jpg "redirect")](http://www.flickr.com/photos/notjake13/2574028447/ "Construction signs in NY")
 *Go that way instead - Photo by JacobEnos [CC some rights
 reserved](http://creativecommons.org/licenses/by/2.0/deed.en "Creative Commons by Attribution")*
 

@@ -12,7 +12,7 @@ a customized version of Subtext for its blog, I am ashamed to say that
 Subtext’s support for internationalization has been quite weak.
 
 ![world
-map](https://haacked.com/images/haacked_com/WindowsLiveWriter/InternationalizedURLs_604/world-map_3.jpg)
+map](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/InternationalizedURLs_604/world-map_3.jpg)
 
 True, I did once write that [The Only Universal Language in Software is
 English](https://haacked.com/archive/2007/05/28/the-only-universal-language-in-software-is-english.aspx "English is lingua franca of software development"),

@@ -20,7 +20,7 @@ but I refused because I absolutely knew it would suck just by looking at
 it. The green stuff, of course, was guacamole, which I love by the
 truckload now.
 
-![Guacamole](https://haacked.com/images/haacked_com/WindowsLiveWriter/235087d3d642_11FF7/Guacamole_3.jpg)
+![Guacamole](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/235087d3d642_11FF7/Guacamole_3.jpg)
 
 With all the code samples and blog posts published about the ASP.NET MVC
 Framework, there’s been some debate about the big picture stuff.

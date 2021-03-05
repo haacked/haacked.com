@@ -24,7 +24,7 @@ Well that was soooo 2008. It’s almost 2010 and Visual Studio 2010 Beta 2
 is out which means it’s time to update this shell extension to run an
 ASP.NET 4 web server.
 
-![add-web-server-here](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NET4WebServerHereShellExtension_91C4/add-web-server-here_3.png "add-web-server-here")
+![add-web-server-here](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NET4WebServerHereShellExtension_91C4/add-web-server-here_3.png "add-web-server-here")
 
 Obviously this is not rocket science as I merely copied my old settings
 and updated the paths. But if you’re too lazy to look up the new file

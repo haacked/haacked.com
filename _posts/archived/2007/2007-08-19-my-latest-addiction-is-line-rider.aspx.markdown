@@ -20,7 +20,7 @@ drawing tool. You simply start drawing lines and hit play to watch a
 some little dude with a red scarf sled down your course.
 
 [![engin2.162.swf (applicationx-shockwave-flash Object) - Mozilla
-Firefox(2)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyLatestAddictionIsLineRider_CF3B/engin2.162.swf%20(applicationx-shockwave-flash%20Object)%20-%20Mozilla%20Firefox%20(2)_thumb_1.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyLatestAddictionIsLineRider_CF3B/engin2.162.swf%20(applicationx-shockwave-flash%20Object)%20-%20Mozilla%20Firefox%20(2)_1.png)
+Firefox(2)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MyLatestAddictionIsLineRider_CF3B/engin2.162.swf%20(applicationx-shockwave-flash%20Object)%20-%20Mozilla%20Firefox%20(2)_thumb_1.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MyLatestAddictionIsLineRider_CF3B/engin2.162.swf%20(applicationx-shockwave-flash%20Object)%20-%20Mozilla%20Firefox%20(2)_1.png)
 
 The tools themselves are simple. You have a free-hand pencil tool and a
 line tool. There are 3 colors of lines you can draw.

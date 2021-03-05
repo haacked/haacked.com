@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/04/20/TheKinneyRedesign.aspx/"
 ---
 
 ![Section of Adam's
-Design](https://haacked.com/images/KinneyRedesign.png)
+Design](https://haacked.com/assets/images/KinneyRedesign.png)
 
 [Adam Kinney](http://AdamKinney.com/ "Frosh*Design") recently unveiled a
 redesign his blog. I posted a snippet there to the left.

@@ -9,7 +9,7 @@ of Air Jordans. Yeah, they don't have anywhere near the cachet they did
 back in the day, but hey, better late than never. Here's a photo to
 commemorate the occasion.
 
-![Air Jordans](/images/AirJordans.jpg)\
+![Air Jordans](/assets/images/AirJordans.jpg)\
  Michael thanks you... all the way to the bank.
 
 I remember when I was a high-school ball player (made JV. At 5' 9", I
@@ -34,5 +34,5 @@ can see, I do wait till the last minute and beyond, before buying a new
 pair of shoes. Now excuse me while I purchase a new pair of Copa
 Mundials to replace my thoroughly trashed soccer cleats.
 
-![Ratty Shoe](/images/RattyShoe.jpg)\
+![Ratty Shoe](/assets/images/RattyShoe.jpg)\
  Look what the cat dragged in.

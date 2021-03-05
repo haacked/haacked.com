@@ -4,7 +4,7 @@ tags: [code]
 redirect_from: "/archive/2006/06/01/ImplicitBranchingAndMerging.aspx/"
 ---
 
-![branches](https://haacked.com/images/branches.jpg) [Scott Allen writes
+![branches](https://haacked.com/assets/images/branches.jpg) [Scott Allen writes
 about](http://odetocode.com/Blogs/scott/archive/2006/06/01/3934.aspx "Branching and Merging Primer")
 a [Branching and Merging primer
 (doc)](http://blogs.msdn.com/chrisbirmele/attachment/611179.ashx "Word Doc")

@@ -12,7 +12,7 @@ You also know that in half the time it takes to type the question, the person pe
 
 [Let me Google that for you](http://lmgtfy.com/ "Let Me Google That For You") addressed this little annoyance by providing a passive aggressive means to tell annoying question askers to bugger off while at the same time teaching them the power of using a search engine to help themselves.
 
-[![lmbtfy](https://haacked.com/images/haacked_com/WindowsLiveWriter/AnnouncingLetMeBingThatForYou_D717/lmbtfy_thumb.png "lmbtfy")](https://haacked.com/images/haacked_com/WindowsLiveWriter/AnnouncingLetMeBingThatForYou_D717/lmbtfy_2.png)When
+[![lmbtfy](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/AnnouncingLetMeBingThatForYou_D717/lmbtfy_thumb.png "lmbtfy")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/AnnouncingLetMeBingThatForYou_D717/lmbtfy_2.png)When
 I first heard about the Microsoft’s new search engine, [Bing](http://bing.com/ "Bing"), I jumped at purchasing the domain name
 [http://letmebingthatforyou.com/](http://letmebingthatforyou.com/ "Let Me Bing That For You")
 (*though I was remiss in not also registering lmbtfy.com as well. If you own that domain, may I buy it off of you?*)

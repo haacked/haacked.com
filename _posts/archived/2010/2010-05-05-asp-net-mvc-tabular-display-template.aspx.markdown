@@ -24,7 +24,7 @@ walk through the scenario.
 
 First, we need a model.
 
-![zoolander](https://haacked.com/images/haacked_com/WindowsLiveWriter/TabularDisplayTemplate_12625/zoolander_3.jpg "zoolander")
+![zoolander](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TabularDisplayTemplate_12625/zoolander_3.jpg "zoolander")
 
 No, not that kind of model. Something more along the lines of a C#
 variety.
@@ -108,13 +108,13 @@ make sure check *Create a partial view*. Also, check *Create a
 strongly-typed view* and type in `IList` as the *View Data Class.*
 
 ![Add View
-Dialog](https://haacked.com/images/haacked_com/WindowsLiveWriter/TabularDisplayTemplate_12625/Add%20View_3.png "Add View Dialog")
+Dialog](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TabularDisplayTemplate_12625/Add%20View_3.png "Add View Dialog")
 
 When you click *Add*, you should see the new template in the
 *DisplayTemplates* folder like so.
 
 ![solution
-explorer](https://haacked.com/images/haacked_com/WindowsLiveWriter/TabularDisplayTemplate_12625/solution-explorer_5.png "solution explorer")
+explorer](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TabularDisplayTemplate_12625/solution-explorer_5.png "solution explorer")
 
 Here’s the code for the template. Note that there’s some code in here
 that I could refactor into a helper class in order to clean up the

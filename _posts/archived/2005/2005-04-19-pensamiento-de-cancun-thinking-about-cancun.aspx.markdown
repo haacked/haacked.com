@@ -4,7 +4,7 @@ tags: [personal,vacation]
 redirect_from: "/archive/2005/04/18/pensamiento-de-cancun-thinking-about-cancun.aspx/"
 ---
 
-![Cancun](/images/Cancun.jpg)
+![Cancun](/assets/images/Cancun.jpg)
 
 Planning a vacation is proving to be a
 challenge now that I'm independent. Last year, Akumi and I decided that

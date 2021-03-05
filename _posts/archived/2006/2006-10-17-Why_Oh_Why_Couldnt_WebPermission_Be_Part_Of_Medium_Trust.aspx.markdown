@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/10/16/Why_Oh_Why_Couldnt_WebPermission_Be_Part_Of_
 ---
 
 ![Source:
-http://macibolt.hu/pag/goldilock.html](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhyOhWhyCouldntWebPermissionBePartOfMedi_11C05/threebears%5B3%5D.gif)This
+http://macibolt.hu/pag/goldilock.html](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhyOhWhyCouldntWebPermissionBePartOfMedi_11C05/threebears%5B3%5D.gif)This
 is a bit of rant born out of some frustrations I have with ASP.NET. When
 setting the trust level of an ASP.NET site, you have the following
 options:

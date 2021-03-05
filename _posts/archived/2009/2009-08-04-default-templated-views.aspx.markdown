@@ -25,7 +25,7 @@ One of the cool features of ASP.NET MVC is that any views in our
 suppose you wanted a default *Index* view for all controllers. You could
 simply add a view named *Index* into the *Shared* views folder.
 
-![shared-index-view](https://haacked.com/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/shared-index-view_3.png "shared-index-view")
+![shared-index-view](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/shared-index-view_3.png "shared-index-view")
 
 Thus any controller with an action named *Index*would automatically use
 the Index in the Shared folder unless there was also an Index view in
@@ -44,7 +44,7 @@ I prototyped this up tonight as a demonstration. The first thing I did
 was add three new views to the Shared folder, *Details*, *Edit*, and
 *Create*.
 
-[![crud-views](https://haacked.com/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/crud-views_thumb.png "crud-views")](https://haacked.com/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/crud-views_2.png)
+[![crud-views](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/crud-views_thumb.png "crud-views")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/crud-views_2.png)
 Let’s take a look at the *Details* view to see how simple it is.
 
 ```aspx-cs
@@ -105,7 +105,7 @@ Next we’ll add a new `NinjaController` using the *Add Controller* dialog
 by right clicking on the *Controllers* folder, selecting *Add*, and
 choosing *Controller*.
 
-![add-controller](https://haacked.com/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/add-controller_5.png "add-controller")
+![add-controller](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/add-controller_5.png "add-controller")
 
 This brings up a dialog which allows you to name the controller and
 choose to scaffold some simple action methods ([completely configurable
@@ -113,7 +113,7 @@ of course using T4
 templates](https://haacked.com/archive/2009/01/31/t4-templates-in-asp.net-mvc.aspx "T4 Templates in ASP.NET MVC")).
 
 ![Add
-Controller](https://haacked.com/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/Add%20Controller_3.png "Add Controller")
+Controller](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/Add%20Controller_3.png "Add Controller")
 
 Within the newly added Ninja controller, I create sample `Ninja` (as a
 static variable for demonstration purposes) and return it from the
@@ -141,7 +141,7 @@ chose to do it this way for demo purposes.
 Now, when I visit the Ninja details page, I see:
 
 ![Details for One awesome Ninja - Windows Internet Explorer
-(2)](https://haacked.com/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/Details%20for%20One%20awesome%20Ninja%20-%20Windows%20Internet%20Explorer%20(2)_3.png "Details for One awesome Ninja - Windows Internet Explorer (2)")
+(2)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/Details%20for%20One%20awesome%20Ninja%20-%20Windows%20Internet%20Explorer%20(2)_3.png "Details for One awesome Ninja - Windows Internet Explorer (2)")
 
 With these default templates in place, I can quickly create other action
 methods without having to worry about the view yet. I’ll just get a
@@ -172,7 +172,7 @@ have to be applied directly to the model but can be stored elsewhere.
 
 Now when I recompile and refresh the page, I see my updated labels.
 
-![updated-ninja-details](https://haacked.com/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/updated-ninja-details_6.png "updated-ninja-details")
+![updated-ninja-details](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/updated-ninja-details_6.png "updated-ninja-details")
 
 Alternatively, I can create a display template for Ninjas. All I need to
 do is add a folder named *DisplayTemplates* to the *Shared* views folder
@@ -183,23 +183,23 @@ making sure to check *Create a strongly-typed view*. In this case, since
 I know I’m making a template specifically for Ninjas, I can create a
 strongly typed partial view and select `Ninja` as model type.
 
-![Add-Partial-View](https://haacked.com/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/Add-Partial-View_3.png "Add-Partial-View")
+![Add-Partial-View](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/Add-Partial-View_3.png "Add-Partial-View")
 
 When I’m done, I should see the following template in the
 `DisplayTemplates` folder. I can go in there and make any edits I like
 now to provide much more detailed customization.
 
-![DisplayTemplates](https://haacked.com/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/DisplayTemplates_3.png "DisplayTemplates")
+![DisplayTemplates](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/DisplayTemplates_3.png "DisplayTemplates")
 
 Now I just recompile and then refresh my details page and see:
 
-![scaffolded-details](https://haacked.com/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/scaffolded-details_6.png "scaffolded-details")
+![scaffolded-details](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/scaffolded-details_6.png "scaffolded-details")
 
 Finally, if I need even more control, I can simply add a *Details* view
 to the *Ninja* views folder, which provides absolute control and
 overrides the default *Details* view in the Shared *folder*.
 
-![Ninja-Details-View](https://haacked.com/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/Ninja-Details-View_3.png "Ninja-Details-View")
+![Ninja-Details-View](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DefaultViewsforASP.NETMVC2_13B12/Ninja-Details-View_3.png "Ninja-Details-View")
 
 So that’s the neat idea which I’m calling “default templated views” for
 now. This walkthrough not only shows you the idea, but how to implement

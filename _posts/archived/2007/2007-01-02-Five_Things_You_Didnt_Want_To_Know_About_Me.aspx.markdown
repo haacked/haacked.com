@@ -23,7 +23,7 @@ I’ve got nothing better to do.
 
 **1. In Florida, I helped build a casino.**\
 [![Yellow Hotwheel
-Car](https://haacked.com/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/141012_hot_wheels_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/141012_hot_wheels%5B3%5D.jpg)When
+Car](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/141012_hot_wheels_thumb%5B1%5D.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/141012_hot_wheels%5B3%5D.jpg)When
 I was around eight or nine years old, I was part of a toy car club. We
 had meetings to discuss the relative merits of Matchbox vs Hotwheels and
 what qualities to look for in purchasing a collectible car. We also put
@@ -44,7 +44,7 @@ at the casino, egging me on to continue playing until I lost everything.
 **2. I was part of a breakdancing crew in Spain.**\
 [![Man performing a one handed handstand while grabbing his foot with
 the other
-hand.](https://haacked.com/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/662393_rewind_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/662393_rewind%5B3%5D.jpg)
+hand.](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/662393_rewind_thumb%5B1%5D.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/662393_rewind%5B3%5D.jpg)
 Who wasn’t part of a breakdancing crew back in the mid-80s? Me and my
 friends used to battle against the local Spanish kids.
 
@@ -57,7 +57,7 @@ excreted result back at him.
 My specialty was the head spin.
 
 **3. When I was a baby, I nearly drowned in a river in Korea.**\
-[![River](https://haacked.com/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/690176_water_rafting_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/690176_water_rafting%5B3%5D.jpg)
+[![River](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/690176_water_rafting_thumb%5B1%5D.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/690176_water_rafting%5B3%5D.jpg)
 All I remember was climbing onto an inflatable raft. I must’ve been
 around three or four. The next thing I know, the sucker flipped and I
 was drifting towards the bottom. As I was sinking, I remember looking up
@@ -67,7 +67,7 @@ you.
 
 **4. I embarrassed myself on television in Guam.**\
 [![A ship on the open seas near an island. It is the HMS
-Beagle.](https://haacked.com/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/05458_400_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/05458_400%5B3%5D.jpg)
+Beagle.](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/05458_400_thumb%5B1%5D.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/05458_400%5B3%5D.jpg)
 During Middle School, I was part of the Academic Challenge Bowl team for
 my school. We would go on local public access television to play a
 Jeopardy like game against the other middle schools.
@@ -87,7 +87,7 @@ Damn!
 **5. In High School, I struggled with math and considered going to art
 school.**\
 [![A self portrait of Van
-Gogh](https://haacked.com/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/vangogh_picture_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/vangogh_picture%5B3%5D.jpg)
+Gogh](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/vangogh_picture_thumb%5B1%5D.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/FiveThingsYouDidntWantToKnowAboutMe_13444/vangogh_picture%5B3%5D.jpg)
 I have a bit of a reputation among my friends for being a bit of a [math
 geek](https://haacked.com/archive/2005/10/20/Patterns-In-Number-Sequences.aspx "Patterns In Number Sequences").
 However, due to the fine quality of the educational institutions in

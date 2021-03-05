@@ -4,7 +4,7 @@ tags: [consulting]
 redirect_from: "/archive/2005/11/02/how-not-to-please-your-clients.aspx/"
 ---
 
-![Toilet](https://haacked.com/images/toilet.jpg) A while ago I [wrote
+![Toilet](https://haacked.com/assets/images/toilet.jpg) A while ago I [wrote
 that](https://haacked.com/archive/2005/08/18/9536.aspx) a client often
 often does not know what he wants until he sees it. I was referring to
 software development, but this is common across many professional

@@ -16,7 +16,7 @@ This time around, the promise was much like others, but they felt the
 need to note that their revolutionary new
 application/framework/doohickey will allow business analysts to directly
 build applications 10 times as fast **without the need for
-programmers![![revenge-nerds](https://haacked.com/images/haacked_com/WindowsLiveWriter/AndGetRidOfThosePeskyProgrammers_A0BE/revenge-nerds_thumb.jpg "revenge-nerds")](https://haacked.com/images/haacked_com/WindowsLiveWriter/AndGetRidOfThosePeskyProgrammers_A0BE/revenge-nerds_2.jpg)**
+programmers![![revenge-nerds](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/AndGetRidOfThosePeskyProgrammers_A0BE/revenge-nerds_thumb.jpg "revenge-nerds")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/AndGetRidOfThosePeskyProgrammers_A0BE/revenge-nerds_2.jpg)**
 
 > Ah yeah! Get rid of those foul smelling pesky programmers! We don’t
 > need em!

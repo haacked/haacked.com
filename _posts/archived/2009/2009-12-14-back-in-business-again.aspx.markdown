@@ -12,7 +12,7 @@ the managed dedicated server which hosts my blog among other sites.
 actual hard drive*)
 
 [![Crufty
-Hard-Drive](https://haacked.com/images/haacked_com/WindowsLiveWriter/BackinBusiness_B3B/bad-harddrive_3.jpg "Crufty Hard-Drive")](http://www.sxc.hu/photo/291741 "Lost Data by pawel 231 from stock.xchng")This
+Hard-Drive](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BackinBusiness_B3B/bad-harddrive_3.jpg "Crufty Hard-Drive")](http://www.sxc.hu/photo/291741 "Lost Data by pawel 231 from stock.xchng")This
 is a server that Jeff Atwood and I share (we each host a Virtual Server
 on the machine), thus all of the following sites were brought down by
 the hardware malfunction:

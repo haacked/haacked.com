@@ -39,13 +39,13 @@ Once the CTP is released and you have it installed, open Visual Studio
 select the *ASP.NET MVC Web Application*project template.
 
 ![New
-Project](https://haacked.com/images/haacked_com/WindowsLiveWriter/TDDandDependencyInjectionwithASP.NETMVC_EFA7/New%20Project_3.png "New Project")
+Project](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TDDandDependencyInjectionwithASP.NETMVC_EFA7/New%20Project_3.png "New Project")
 
 At this point, you should see the following unit test project selection
 dialog.
 
 ![Select Unit Test
-Project](https://haacked.com/images/haacked_com/WindowsLiveWriter/TDDandDependencyInjectionwithASP.NETMVC_EFA7/unit-test-project-selection_3.png "Select Unit Test Project")
+Project](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TDDandDependencyInjectionwithASP.NETMVC_EFA7/unit-test-project-selection_3.png "Select Unit Test Project")
 
 In a default installation, only the Visual Studio Unit Test project
 option is available. But MbUnit, xUnit.NET and others have installers
@@ -67,7 +67,7 @@ against. I’m going to add the following:
 After I’m done, my project tree should look like this.
 
  ![Project
-Tree](https://haacked.com/images/haacked_com/WindowsLiveWriter/DependencyInjection_F366/TddDI-Project-Tree_3.png)
+Tree](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DependencyInjection_F366/TddDI-Project-Tree_3.png)
 
 At this point, I want to implement just enough code so we can write a
 test. First, I define my repository interface.
@@ -142,7 +142,7 @@ public class BlogControllerTests
 
 When I run this test, the test fails.
 
-![failed-test](https://haacked.com/images/haacked_com/WindowsLiveWriter/TDDandDependencyInjectionwithASP.NETMVC_EFA7/failed-test_3.png "failed-test")
+![failed-test](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TDDandDependencyInjectionwithASP.NETMVC_EFA7/failed-test_3.png "failed-test")
 
 This is what we expect, after all, we haven’t yet implemented the
 `Recent `method. This is the RED part of the RED, GREEN, REFACTOR rhythm
@@ -166,7 +166,7 @@ style.
 
 Now when I run the unit test, it passes.
 
-![passing-test](https://haacked.com/images/haacked_com/WindowsLiveWriter/TDDandDependencyInjectionwithASP.NETMVC_EFA7/passing-test_3.png "passing-test") 
+![passing-test](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TDDandDependencyInjectionwithASP.NETMVC_EFA7/passing-test_3.png "passing-test") 
 
 Ok, so that’s the GREEN part of the TDD lifecycle and a very very simple
 demo of TDD. Let’s move to the REFACTOR stage and start applying
@@ -284,7 +284,7 @@ this controller action (on my machine,
 http://localhost:64701/blog/recent/), I get the following error page.
 
 ![No parameterless constructor defined for this object. - Mozilla
-Firefox](https://haacked.com/images/haacked_com/WindowsLiveWriter/DependencyInjection_F366/No%20parameterless%20constructor%20defined%20for%20this%20object.%20-%20Mozilla%20Firefox_3.png)
+Firefox](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DependencyInjection_F366/No%20parameterless%20constructor%20defined%20for%20this%20object.%20-%20Mozilla%20Firefox_3.png)
 
 Well of course it errors out! By default, ASP.NET MVC requires that
 controllers have a public parameter-less constructor so that it can
@@ -436,7 +436,7 @@ framework into our application, we can revisit our site in the browser
 (after compiling) and we get...
 
 ![View Not Found
-Message](https://haacked.com/images/haacked_com/WindowsLiveWriter/TDDandDependencyInjectionwithASP.NETMVC_EFA7/view-not-found_8.png "View Not Found Message")
+Message](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TDDandDependencyInjectionwithASP.NETMVC_EFA7/view-not-found_8.png "View Not Found Message")
 
 **Excellent!** Despite the Yellow Screen of Death here, this is a good
 sign. We know our dependency is getting injected because this is a

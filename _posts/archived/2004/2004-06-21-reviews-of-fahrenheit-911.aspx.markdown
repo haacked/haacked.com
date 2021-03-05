@@ -6,7 +6,7 @@ redirect_from:
   - "/archive/2004/06/21/656.aspx/"
 ---
 
-![Michael Moore](/images/MichaelMoore.jpg)I found this [scathing
+![Michael Moore](/assets/images/MichaelMoore.jpg)I found this [scathing
 review](http://slate.msn.com/id/2102723/fr/rss/) on
 [Slate](http://www.slate.com/) of Michael Moore and his upcoming flick,
 *Fahrenheit 9/11* I have yet to see the movie but plan to soon. It's

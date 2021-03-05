@@ -6,7 +6,7 @@ redirect_from:
   - "/archive/2004/07/23/843.aspx/"
 ---
 
-![Soap](/images/soap.jpg)In this
+![Soap](/assets/images/soap.jpg)In this
 [post](http://pluralsight.com/blogs/tewald/archive/2004/06/29/460.aspx),
 Tim Ewald talks about using Doc/Literal/Bare for your web service. There
 are several benefits he ticks off, but one seems to be the aesthetic

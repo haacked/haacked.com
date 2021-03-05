@@ -4,7 +4,7 @@ tags: [personal,humor]
 redirect_from: "/archive/2004/10/30/last-game-of-the-season.aspx/"
 ---
 
-![Soccer Ball](/images/soccerball.JPG) Today the soccer team I started
+![Soccer Ball](/assets/images/soccerball.JPG) Today the soccer team I started
 playing with had their last game of the season. This was only my second
 game with them and we were playing the first place team in the league.
 This team was much slower than our last opponent and not as skillful,

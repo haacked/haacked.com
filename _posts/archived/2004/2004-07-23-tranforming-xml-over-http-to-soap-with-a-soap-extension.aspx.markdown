@@ -4,7 +4,7 @@ tags: [web]
 redirect_from: "/archive/2004/07/22/tranforming-xml-over-http-to-soap-with-a-soap-extension.aspx/"
 ---
 
-![Soap](/images/soap.jpg) In my last
+![Soap](/assets/images/soap.jpg) In my last
 [post](https://haacked.com/archive/2004/07/23/why-should-i-care-about-the-wire-format-in-soap.aspx/) I discussed a
 client who requires that we build a web service using a proprietary XML
 format (lets call it MyXML) so his mobile devices can interact with our

@@ -4,7 +4,7 @@ tags: [design,ergonomics]
 redirect_from: "/archive/2006/02/11/TheMissingDetailofofNewHumanMachineInterfaces.aspx/"
 ---
 
-![Multi-Touch UI](https://haacked.com/images/MultiTouchUI.jpg) By now just about everybody is ooh-ing and aww-ing over [this demonstration video](http://mrl.nyu.edu/~jhan/ftirtouch/ "Amazing new Graphical Interface") showing multiple users on a single touch and pressure sensitive graphical user interface.
+![Multi-Touch UI](https://haacked.com/assets/images/MultiTouchUI.jpg) By now just about everybody is ooh-ing and aww-ing over [this demonstration video](http://mrl.nyu.edu/~jhan/ftirtouch/ "Amazing new Graphical Interface") showing multiple users on a single touch and pressure sensitive graphical user interface.
 
 And rightfully so. This thing is amazing! Who wouldn’t want to be able to organize their photos in the manner they do in the demo? They’ve created a particularly intuitive means for navigating photos, maps, floating lava lamp blobs that is a huge step forward in usability.
 

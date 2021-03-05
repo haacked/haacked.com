@@ -6,7 +6,7 @@ redirect_from: "/archive/2006/09/12/Id_Like_To_Be_In_Joels_Shoes.aspx/"
 
 Of course that assumes that Joel wears a size 9 and a half.
 
-![Shoes](https://haacked.com/images/haacked_com/WindowsLiveWriter/IdLikeToBeInJoelsShoes_F874/BlackBoots6.jpg)
+![Shoes](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IdLikeToBeInJoelsShoes_F874/BlackBoots6.jpg)
 
 Once again the ***Joel Cycle*** takes another turn. The cycle goes something like this:
 

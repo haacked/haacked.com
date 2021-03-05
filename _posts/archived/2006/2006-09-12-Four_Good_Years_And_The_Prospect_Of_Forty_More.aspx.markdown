@@ -12,7 +12,7 @@ She’s got a rock solid sense of humor (have you seen her gravatar?) and
 a smile with a gleam so bright it makes you shout *Eureka*! 
 
 [![Ask a
-Ninja](https://haacked.com/images/haacked_com/WindowsLiveWriter/FourGoodYearsAndTheProspectOfFortyMore_B49/AskANinja_thumb2.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/FourGoodYearsAndTheProspectOfFortyMore_B49/AskANinja11.jpg)
+Ninja](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/FourGoodYearsAndTheProspectOfFortyMore_B49/AskANinja_thumb2.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/FourGoodYearsAndTheProspectOfFortyMore_B49/AskANinja11.jpg)
 I would post a picture, but my wife’s sense of online privacy would make
 [Bruce Schneier](http://www.schneier.com/blog/) look like a MySpace
 exhibitionist.  In fact, I’ve already said too much. 

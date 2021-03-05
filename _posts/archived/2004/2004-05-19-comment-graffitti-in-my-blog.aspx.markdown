@@ -4,7 +4,7 @@ tags: [spam,meta]
 redirect_from: "/archive/2004/05/18/comment-graffitti-in-my-blog.aspx/"
 ---
 
-![graffitti](/images/graffitti.jpg).TEXT has a neat page in the Admin
+![graffitti](/assets/images/graffitti.jpg).TEXT has a neat page in the Admin
 section that displays all the comments made in your blog. I hadn't been
 monitoring this page so when I finally got around to it, I was quite
 surprised at some of the comments made therein. Most of the comments are

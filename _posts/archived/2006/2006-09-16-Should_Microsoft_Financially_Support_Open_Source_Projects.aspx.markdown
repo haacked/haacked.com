@@ -22,7 +22,7 @@ This sounds like a great idea and it is a shame I didn’t think to link
 to it in my discussion here.
 
 [![Money money money
-Mooooney!](https://haacked.com/images/haacked_com/WindowsLiveWriter/ShouldMicrosoftFinanciallySupportOpenSou_EC91/593207_dollars_2_thumb2.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/ShouldMicrosoftFinanciallySupportOpenSou_EC91/593207_dollars_24.jpg)[Dave](http://blog.davestechshop.net/)
+Mooooney!](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ShouldMicrosoftFinanciallySupportOpenSou_EC91/593207_dollars_2_thumb2.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ShouldMicrosoftFinanciallySupportOpenSou_EC91/593207_dollars_24.jpg)[Dave](http://blog.davestechshop.net/)
 writes that Microsoft should [financially support open source
 projects](http://blog.davestechshop.net/archive/2006/09/16/MicrosoftShouldSupportOpenSource.aspx?Pending=true)
 in response to this blog post on Microsoft’s [Open Specification

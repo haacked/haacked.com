@@ -18,7 +18,7 @@ batch file used to temporarily elevate your privilegs in a command
 window.  This has worked nicely for me for a while.
 
 ![Console
-Screenshot](https://haacked.com/images/haacked_com/WindowsLiveWriter/MakeMeAdminAndConsole_A6BC/MakeMeAdminConsole4.gif)
+Screenshot](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MakeMeAdminAndConsole_A6BC/MakeMeAdminConsole4.gif)
 
 Then [Scott Hanselman](http://computerzen.com/blog/) points out
 [Console](http://www.hanselman.com/blog/ABetterPROMPTForCMDEXEOrCoolPromptEnvironmentVariablesAndANiceTransparentMultiprompt.aspx "A Better Prompt")

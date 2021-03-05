@@ -4,7 +4,7 @@ tags: [subtext]
 redirect_from: "/archive/2006/04/10/SubtextReachesAThousand.aspx/"
 ---
 
-![Subtext Logo](https://haacked.com/images/SubtextLogo.png) [Steve
+![Subtext Logo](https://haacked.com/assets/images/SubtextLogo.png) [Steve
 Harman](http://stevenharman.net/blog/ "Steve's Blog") reports that
 [Subtext reached 1000
 downloads](http://stevenharman.net/blog/archive/2006/04/10/SubTextReaches1000DownloadsAndCounting.aspx "Subtext reaches 1000")

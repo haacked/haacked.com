@@ -8,7 +8,7 @@ One principle to follow when writing a unit test is that a unit test
 should ideally [not cross
 boundaries](http://www.williamcaputo.com/archives/000019.html "TDD Pattern: Do not Cross Boundaries").
 
-[![965948\_51171615](https://haacked.com/images/haacked_com/WindowsLiveWriter/UnitTestYourOwnCode_A67B/965948_51171615_3.jpg "965948_51171615")](http://www.sxc.hu/photo/965948 "Barbed Wire")
+[![965948\_51171615](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UnitTestYourOwnCode_A67B/965948_51171615_3.jpg "965948_51171615")](http://www.sxc.hu/photo/965948 "Barbed Wire")
 
 Michael Feathers takes a harder stance in saying…
 

@@ -4,7 +4,7 @@ tags: [humor]
 redirect_from: "/archive/2004/06/25/strong-bad-says-file-not-found.aspx/"
 ---
 
-![](/images/StrongBad.jpg) [Brad Wilson](http://www.dotnetdevs.com/)
+![](/assets/images/StrongBad.jpg) [Brad Wilson](http://www.dotnetdevs.com/)
 (thanks!) pointed me to this hilarious [404 File Not
 Found](%0Ahttp://homestarrunner.com/systemisdown.html) page. Give it a
 second to kick in (I promise, no zombies will scream). It has my

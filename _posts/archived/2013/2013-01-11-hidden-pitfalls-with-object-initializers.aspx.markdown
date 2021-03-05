@@ -12,7 +12,7 @@ us all.
 But until that day, I’ll take advantage of every bit of automation that
 I can.
 
-![the-matrix-humans](https://haacked.com/images/haacked_com/WindowsLiveWriter/fb03762ddce8_F2D1/the-matrix-humans_3.png "the-matrix-humans")
+![the-matrix-humans](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/fb03762ddce8_F2D1/the-matrix-humans_3.png "the-matrix-humans")
 
 For example, I’m a big fan of the Code Analysis tool built into Visual
 Studio. It’s more more commonly known as FxCop, though judging by the
@@ -84,7 +84,7 @@ Can you see the problem?
 A Funny Thing about Object Initializers
 ---------------------------------------
 
-[![A2600\_Pitfall](https://haacked.com/images/haacked_com/WindowsLiveWriter/fb03762ddce8_F2D1/A2600_Pitfall_thumb.png "A2600_Pitfall")](https://haacked.com/images/haacked_com/WindowsLiveWriter/fb03762ddce8_F2D1/A2600_Pitfall_2.png)The
+[![A2600\_Pitfall](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/fb03762ddce8_F2D1/A2600_Pitfall_thumb.png "A2600_Pitfall")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/fb03762ddce8_F2D1/A2600_Pitfall_2.png)The
 big clue here is the name of the variable that’s not disposed,
 `<>g__initLocal0`. As Phil Karlton once said, emphasis mine,
 
@@ -371,7 +371,7 @@ If you use Resharper (another tool with its own automated analysis) like
 I do and you write some code in a constructor that doesn’t use an object
 initializer, you’re very likely to see this (with the default settings).
 
-[![resharper-nag](https://haacked.com/images/haacked_com/WindowsLiveWriter/fb03762ddce8_F2D1/resharper-nag_thumb_1.png "resharper-nag")](https://haacked.com/images/haacked_com/WindowsLiveWriter/fb03762ddce8_F2D1/resharper-nag_4.png)
+[![resharper-nag](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/fb03762ddce8_F2D1/resharper-nag_thumb_1.png "resharper-nag")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/fb03762ddce8_F2D1/resharper-nag_4.png)
 
 See that green squiggly under the `new` keyword just inviting, no
 **begging**, you to hit `ALT+ENTER` and convert that bad boy into an

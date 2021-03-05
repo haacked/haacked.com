@@ -4,7 +4,7 @@ tags: [subtext]
 redirect_from: "/archive/2007/07/01/subtext-is-in-the-running.-please-vote.aspx/"
 ---
 
-[![sf-cca-vote](https://haacked.com/images/haacked_com/WindowsLiveWriter/SubtextIsInTheRunning.PleaseVote_1416C/sf-cca-vote_1.png)](http://sourceforge.net/awards/cca/vote.php?from=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fsubtext%252 "Vote for Subtext")
+[![sf-cca-vote](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SubtextIsInTheRunning.PleaseVote_1416C/sf-cca-vote_1.png)](http://sourceforge.net/awards/cca/vote.php?from=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fsubtext%252 "Vote for Subtext")
 A little while ago I pleaded with my readers to [nominate Subtext for a
 SourceForge Community Choice
 Award](https://haacked.com/archive/2007/06/24/please-nominate-subtext-for-a-sourceforge-community-choice-award.aspx "Please Nominate Subtext").

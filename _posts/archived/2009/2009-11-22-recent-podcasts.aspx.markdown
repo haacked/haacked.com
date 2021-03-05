@@ -7,7 +7,7 @@ redirect_from: "/archive/2009/11/21/recent-podcasts.aspx/"
 Just wanted to highlight a couple of podcasts that were
 ~~suckers~~gracious enough to have me as a guest.
 
-[![microphone](https://haacked.com/images/haacked_com/WindowsLiveWriter/RecentPodcasts_12E66/microphone_3.jpg "microphone")](http://www.sxc.hu/photo/1188223 "Microphone with filter - by kpeterson")
+[![microphone](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/RecentPodcasts_12E66/microphone_3.jpg "microphone")](http://www.sxc.hu/photo/1188223 "Microphone with filter - by kpeterson")
 
 ### HerdingCode
 

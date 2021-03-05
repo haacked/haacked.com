@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/03/23/GoingtoPuertoVallarta.aspx/"
 ---
 
 [![Puerto
-Vallarta](https://haacked.com/images/PuertoVallarta_Small.jpg)](https://haacked.com/images/PuertoVallarta.jpg)
+Vallarta](https://haacked.com/assets/images/PuertoVallarta_Small.jpg)](https://haacked.com/assets/images/PuertoVallarta.jpg)
 So the missus and I are heading over to Puerto Vallarta this Sunday for
 a short mini-vacation. For me it is a chance to recover from Mix06. It
 was kind of unfortunate that the two events are so close together, but

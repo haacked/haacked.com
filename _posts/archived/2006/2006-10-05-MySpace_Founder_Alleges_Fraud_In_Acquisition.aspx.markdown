@@ -24,5 +24,5 @@ The most surprising bit to me is that (according to the report)
 
 I wonder how much of this is true.  If it is true, what happens next? 
 Gotta love the smell of scandal in the morning.
-![Wink](https://haacked.com/Images/emotions/smiley-wink.gif)
+![Wink](https://haacked.com/assets/images/emotions/smiley-wink.gif)
 

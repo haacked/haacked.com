@@ -19,7 +19,7 @@ the demo online, but it relied on an unreleased version of MVC, so the
 code didn’t actually work.
 
 ![IronRuby on ASP.NET MVC
-Demo](https://haacked.com/images/haacked_com/WindowsLiveWriter/IronRubyWithASP.NETMVCWorkingPrototype_BDF3/IronRuby%20on%20ASP.NET%20MVC%20Demo%20-%20Windows%20Internet%20Explorer_3.png "IronRuby on ASP.NET MVC Demo")
+Demo](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IronRubyWithASP.NETMVCWorkingPrototype_BDF3/IronRuby%20on%20ASP.NET%20MVC%20Demo%20-%20Windows%20Internet%20Explorer_3.png "IronRuby on ASP.NET MVC Demo")
 Now that Preview 4 is out, I revisited the prototype and got it working
 again. I use the term *working* loosely here. Yeah, it works, but it is
 really rough around the edges. As in, get a bunch of splinters rough. At

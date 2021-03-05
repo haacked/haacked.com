@@ -26,14 +26,14 @@ for RSS Bandit would be *c:\\Program Files\\RssBandit\\plugins*.
 Once you have it installed, restart RSS Bandit and right click on any
 feed item and select the *DotNetKick This - Configure...* menu option.
 
-![Context Menu](https://haacked.com/images/SNAG-0036.gif)
+![Context Menu](https://haacked.com/assets/images/SNAG-0036.gif)
 
 This will bring up the plugin configuration dialog. You should leave the
 URLs as they are. I made left them to be configurable in case the URL
 ever changes. Just enter your DotNetKicks username and password and
 click *OK*.
 
-![](https://haacked.com/images/SNAG-0037.gif)
+![](https://haacked.com/assets/images/SNAG-0037.gif)
 
 This will save your username and password in an xml settings file with
 the password heavily encrypted.
@@ -41,7 +41,7 @@ the password heavily encrypted.
 Now you can right click on a story to submit it to DotNetKicks. If the
 story hasn’t been submitted, you will get the following dialog.
 
-![Submit a Story Dialog](https://haacked.com/images/SNAG-0038.gif)
+![Submit a Story Dialog](https://haacked.com/assets/images/SNAG-0038.gif)
 
 This form is pretty self-explanatory.
 
@@ -50,7 +50,7 @@ which allows you to kick it or unkick it (essentially adding your vote
 to the story or removing it (*editor’s note: At the time of this
 writing, the unkick function was not working*).
 
-![Kick/Unkick a story dialog](https://haacked.com/images/SNAG-0039.gif)
+![Kick/Unkick a story dialog](https://haacked.com/assets/images/SNAG-0039.gif)
 
 The API for DotNetKicks was published today on [Gavin Joyce’s
 wiki](http://public.gavinjoyce.com/default.aspx/Public/KickApi.html "Gavin Joyce").

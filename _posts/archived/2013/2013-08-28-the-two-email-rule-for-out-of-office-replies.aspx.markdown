@@ -21,7 +21,7 @@ You know the type:
 > If you need to reach me, you can’t, LOL! You can contact this list of
 > people you don’t know in my absence. Good luck with that!
 
-[![punishment](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheTwoEmailRuleForAutoReplies_D8E3/punishment_thumb.jpg "punishment")](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheTwoEmailRuleForAutoReplies_D8E3/punishment_2.jpg)
+[![punishment](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheTwoEmailRuleForAutoReplies_D8E3/punishment_thumb.jpg "punishment")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheTwoEmailRuleForAutoReplies_D8E3/punishment_2.jpg)
 ***Wait till you see the punishment for sending an email during the
 holidays!** Photo by: [Tomas
 Alexsiejunas](http://www.flickr.com/photos/tomukas/ "Tomas on Flickr")

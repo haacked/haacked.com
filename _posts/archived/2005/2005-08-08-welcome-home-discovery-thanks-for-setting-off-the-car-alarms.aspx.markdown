@@ -4,7 +4,7 @@ tags: [news]
 redirect_from: "/archive/2005/08/07/welcome-home-discovery-thanks-for-setting-off-the-car-alarms.aspx/"
 ---
 
-![Shuttle Crew](https://haacked.com/images/ShuttleCrew.jpg) Very early
+![Shuttle Crew](https://haacked.com/assets/images/ShuttleCrew.jpg) Very early
 this morning my slumber was disturbed by an extremely lound noise. Like
 Maverick in Top Gun, those durn shuttle astronauts did a fly by enroute
 to Edwards, setting off car alarms and howling dogs in the neighborhood.

@@ -27,7 +27,7 @@ captures this perfectly in this snippet of his brilliant post: [Some
 thoughts on and musing about making things for the
 web](http://theoatmeal.com/comics/making_things "Some thoughts on making things").
 
-[![oatmeal-on-reading-comments](https://haacked.com/images/haacked_com/WindowsLiveWriter/You-Dont-Need-A-Thick-Skin_BDFB/oatmeal-on-reading-comments_thumb.png "oatmeal-on-reading-comments")](https://haacked.com/images/haacked_com/WindowsLiveWriter/You-Dont-Need-A-Thick-Skin_BDFB/oatmeal-on-reading-comments_2.png)
+[![oatmeal-on-reading-comments](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/You-Dont-Need-A-Thick-Skin_BDFB/oatmeal-on-reading-comments_thumb.png "oatmeal-on-reading-comments")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/You-Dont-Need-A-Thick-Skin_BDFB/oatmeal-on-reading-comments_2.png)
 
 That is me right there. I’m not going to stop shipping software so the
 best thing to do is work harder and develop a thicker skin. Right?

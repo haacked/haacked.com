@@ -4,7 +4,7 @@ tags: [music,interesting]
 redirect_from: "/archive/2005/05/08/awesome-music-video-what-happens-when-your-work-follows-you-around.aspx/"
 ---
 
-![Music Video Screenshot](/images/CoolVideo.jpg) This is quite possibly
+![Music Video Screenshot](/assets/images/CoolVideo.jpg) This is quite possibly
 one of the [coolest music videos
 ever](http://exodus.interoutemediaservices.com/deliverMedia.asp?id=34205f2d-a938-4d18-908e-31671813fb84&delivery=stream).
 

@@ -4,7 +4,7 @@ tags: [personal,dnd]
 redirect_from: "/archive/2004/11/13/how-dungeons-changed-the-world.aspx/"
 ---
 
-![AD&D](/images/ADAndD.jpg) I'll come out of the closet and admit that I
+![AD&D](/assets/images/ADAndD.jpg) I'll come out of the closet and admit that I
 used to play this game with an almost fanatic interest. My first
 exposure to the game was in Spain when several other military brats in
 my apartment complex introduced me to a twenty sided die (1d20). By the

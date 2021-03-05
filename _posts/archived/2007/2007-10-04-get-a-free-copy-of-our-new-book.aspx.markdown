@@ -5,7 +5,7 @@ redirect_from: "/archive/2007/10/03/get-a-free-copy-of-our-new-book.aspx/"
 ---
 
 ![ASP.NET 2.0
-Anthology](https://haacked.com/images/haacked_com/WindowsLiveWriter/BuyOurBookAndBecomeAnASP.NETBadAss_12E22/41XDcuGaQrL._AA240_.jpg)I
+Anthology](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BuyOurBookAndBecomeAnASP.NETBadAss_12E22/41XDcuGaQrL._AA240_.jpg)I
 just received a few advanced copies of our new book and am giving away
 three of them to the **first three people** who leave a comment on this
 post.

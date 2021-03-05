@@ -8,7 +8,7 @@ tags: [spam,captcha]
 
 I read an article recently that talked about how ticket scalpers have a 10% success rate against TicketMaster's CAPTCHA controls. That might not seem like a very good rate, but when you have an automated process attacking it, 10% is plenty good.
 
-![NSF](/images/CAPTCHA.jpg)
+![NSF](/assets/images/CAPTCHA.jpg)
 
 CAPTCHA for the uninitiated stands for Computer Aided Program to Tell Humans and Computers Apart. It's a method or program used to distinguish between a computer and a human.. The most popular type out there is the letter or word warping kind you often see when signing up for a web based email account.
 

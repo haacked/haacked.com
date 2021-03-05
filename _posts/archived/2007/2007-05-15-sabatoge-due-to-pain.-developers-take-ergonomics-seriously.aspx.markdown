@@ -10,7 +10,7 @@ redirect_from: "/archive/2007/05/14/sabatoge-due-to-pain.-developers-take-ergono
 > *[DataHand](http://www.datahand.com/overview/dhsolution.htm "Datahand Overview")*
 
 [![Ergonomic
-Diagram](https://haacked.com/images/haacked_com/WindowsLiveWriter/TakeErgonomicsSeriously_27E9/ergonomics_thumb%5B2%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/TakeErgonomicsSeriously_27E9/ergonomics%5B6%5D.jpg "ergonomic diagram")
+Diagram](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TakeErgonomicsSeriously_27E9/ergonomics_thumb%5B2%5D.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TakeErgonomicsSeriously_27E9/ergonomics%5B6%5D.jpg "ergonomic diagram")
 And that’s just for a piddly eight hour workday! What about developers
 who go home and write more code for fun?
 
@@ -93,7 +93,7 @@ In my case, I will never fully be free from pain while working. But
 through therapy, I learned techniques to reduce the pain as well as deal
 with it better.
 
-[![](https://haacked.com/images/haacked_com/WindowsLiveWriter/TakeErgonomicsSeriously_27E9/FOAMrollerFullRound_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/TakeErgonomicsSeriously_27E9/FOAMrollerFullRound%5B3%5D.jpg)As
+[![](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TakeErgonomicsSeriously_27E9/FOAMrollerFullRound_thumb%5B1%5D.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TakeErgonomicsSeriously_27E9/FOAMrollerFullRound%5B3%5D.jpg)As
 fortune would have it, this was around the time I received a private
 office, so it was less of a spectacle when I would get on the floor with
 a foam roller and do my stretches every couple of hours.

@@ -12,7 +12,7 @@ piece of artwork and astutely snapped this picture for posterity with
 his T-Mobile (click through to go to the original flickr pic).
 
 [![Picture of my last name graffiti'd on a park
-bench](https://haacked.com/images/TaggingHaack.jpg)](http://flickr.com/photos/jackace/207586852/in/photostream/ "Photo on Flickr")
+bench](https://haacked.com/assets/images/TaggingHaack.jpg)](http://flickr.com/photos/jackace/207586852/in/photostream/ "Photo on Flickr")
 
 Soon the entire city of Angels will know the name of **Haack**!!!
 BWAHAHA!

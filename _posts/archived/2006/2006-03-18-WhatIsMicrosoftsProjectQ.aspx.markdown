@@ -4,7 +4,7 @@ tags: [science]
 redirect_from: "/archive/2006/03/17/WhatIsMicrosoftsProjectQ.aspx/"
 ---
 
-![Anyon Braid Illustation](https://haacked.com/images/AnyonBraid.jpg)
+![Anyon Braid Illustation](https://haacked.com/assets/images/AnyonBraid.jpg)
 Scientific American has a fascinating article this month on *Computing
 with Quantum Knots*. In particular, it focuses on using topological
 properties of a two-dimensionaly confined particles called anyons.

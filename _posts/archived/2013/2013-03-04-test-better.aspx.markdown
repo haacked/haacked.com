@@ -27,7 +27,7 @@ And I agree! TDD is primarily about the design of your code. But notice that Bob
 
 In my mind it’s like wrapping a steak in bacon. The steak is the primary focus of the meal, but I sure as hell am not going to throw away the bacon! *I know, half of you are hitting the reply button to suggest you prefer the bacon. Me too but allow me this analogy.*
 
-[![bacon-wrapped-steak](https://haacked.com/images/haacked_com/WindowsLiveWriter/Test-Better_9083/bacon-wrapped-steak_thumb.jpg "bacon-wrapped-steak")](http://www.flickr.com/photos/mesohungry/4267332997/)*MMMM, gimme dat! Credit: Jason Lam [CC-BY-SA-2.0](http://creativecommons.org/licenses/by-sa/2.0/)*
+[![bacon-wrapped-steak](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Test-Better_9083/bacon-wrapped-steak_thumb.jpg "bacon-wrapped-steak")](http://www.flickr.com/photos/mesohungry/4267332997/)*MMMM, gimme dat! Credit: Jason Lam [CC-BY-SA-2.0](http://creativecommons.org/licenses/by-sa/2.0/)*
 
 The problem I’ve found myself running into, despite my [own advice](https://haacked.com/archive/2004/06/09/test-first-development-doesnt-mean-you-dont-walk-through-your-code.aspx/ "Walkthrough your code") to [the contrary](https://haacked.com/archive/2004/11/03/codecoverageisnotenough.aspx "Code Coverage is not enough"),
 is that I start to trust too much in my unit tests. Several times I’ve made changes to my code, crafted beautiful unit tests that provide 100% assurance that the code is correct, only to have customers run into bugs with the code. Apparently my 100% correct code has a margin of error. Perhaps [Donald Knuth](http://en.wikipedia.org/wiki/Donald_Knuth "Donald Knuth") [said it
@@ -93,7 +93,7 @@ This puts me in a mindset to think about all the possible ways to break the code
 
 Here’s an example of a portion of a recent test plan for a major bug fix I worked on (click on it to see it larger).
 
-[![test-plan-in-pr](https://haacked.com/images/haacked_com/WindowsLiveWriter/Test-Better_9083/test-plan-in-pr_thumb.png "test-plan-in-pr")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Test-Better_9083/test-plan-in-pr_2.png)
+[![test-plan-in-pr](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Test-Better_9083/test-plan-in-pr_thumb.png "test-plan-in-pr")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Test-Better_9083/test-plan-in-pr_2.png)
 
 The act of writing the test plan really helps me think hard about what could go wrong with the code. Then running through it just requires following the plan and checking off boxes. Sometimes as I’m testing, I’ll think of new cases and I’ll just edit the plan accordingly.
 

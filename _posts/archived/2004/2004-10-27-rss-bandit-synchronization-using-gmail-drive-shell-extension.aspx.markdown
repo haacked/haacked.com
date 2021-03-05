@@ -20,7 +20,7 @@ File Share protocol and enter the GMail drive in the UNC directory path
 (it doesn't have to be UNC). In the screenshot below, I have the e:
 drive mapped to my GMail account.
 
-![Remote Storage Tab](/images/RemoteStorageTab.jpg)
+![Remote Storage Tab](/assets/images/RemoteStorageTab.jpg)
 
 Now you can use your GMail account for synchronizing your RSS Bandit
 state between multiple machines. Note that this usage of GMail is not

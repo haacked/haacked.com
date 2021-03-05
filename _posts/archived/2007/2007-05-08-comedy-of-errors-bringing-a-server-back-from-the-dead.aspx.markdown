@@ -30,7 +30,7 @@ installed Ubuntu. Sweet! But when I rebooted, the server not find the
 drive. Huh?
 
 **[![The Scream - Edvard
-Munch](https://haacked.com/images/haacked_com/WindowsLiveWriter/ComedyOfErrorsBringingAServerBackFromThe_781/300pxThe_Scream_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/ComedyOfErrorsBringingAServerBackFromThe_781/300pxThe_Scream2.jpg "The Scream - Edvard Munch")
+Munch](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ComedyOfErrorsBringingAServerBackFromThe_781/300pxThe_Scream_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ComedyOfErrorsBringingAServerBackFromThe_781/300pxThe_Scream2.jpg "The Scream - Edvard Munch")
 Lesson #2:** *When installing an Operating System on a machine, make
 sure to unplug any external USB or Firewire drives.*
 

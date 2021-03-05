@@ -13,7 +13,7 @@ Jeff posted a pic of the crew at work to make it happen (click for
 larger).
 
 [![GWB'ers burning the midnight
-oil](https://haacked.com/images/haacked_com/WindowsLiveWriter/GeeksWithBlogsNowAreGeeksWithSubtext_670/image%7B0%7D_thumb.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/GeeksWithBlogsNowAreGeeksWithSubtext_670/image%7B0%7D%5B2%5D.png "A late night at work")
+oil](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GeeksWithBlogsNowAreGeeksWithSubtext_670/image%7B0%7D_thumb.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GeeksWithBlogsNowAreGeeksWithSubtext_670/image%7B0%7D%5B2%5D.png "A late night at work")
 
 Not depicted in the picture are members of the
 [Subtext](http://subtextproject.com/ "Subtext Project") team who have

@@ -13,7 +13,7 @@ There are many test frameworks out there, but the one I love is
 [QUnit](http://docs.jquery.com/QUnit "QUnit homepage"), the jQuery unit
 test framework.
 
-![qunit-tests-running](https://haacked.com/images/haacked_com/WindowsLiveWriter/cfa3790769b8_117F0/qunit-tests-running_3.png "qunit-tests-running")
+![qunit-tests-running](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/cfa3790769b8_117F0/qunit-tests-running_3.png "qunit-tests-running")
 
 Most of my experience with QUnit is writing tests for a client script
 library such as a jQuery plugin. Here’s an example of one QUnit [test
@@ -198,11 +198,11 @@ off the extension when you request the file.
 The output of this page isn’t pretty, but it works. When I navigate to
 /test I see a list of my test files:
 
-[![qunit-tests](https://haacked.com/images/haacked_com/WindowsLiveWriter/cfa3790769b8_117F0/qunit-tests_thumb.png "qunit-tests")](https://haacked.com/images/haacked_com/WindowsLiveWriter/cfa3790769b8_117F0/qunit-tests_2.png)
+[![qunit-tests](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/cfa3790769b8_117F0/qunit-tests_thumb.png "qunit-tests")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/cfa3790769b8_117F0/qunit-tests_2.png)
 
 Here’s the contents of my test folder when I’m done with all this.
 
-[![solution](https://haacked.com/images/haacked_com/WindowsLiveWriter/cfa3790769b8_117F0/solution_thumb.png "solution")](https://haacked.com/images/haacked_com/WindowsLiveWriter/cfa3790769b8_117F0/solution_2.png)
+[![solution](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/cfa3790769b8_117F0/solution_thumb.png "solution")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/cfa3790769b8_117F0/solution_2.png)
 
 Summary
 -------

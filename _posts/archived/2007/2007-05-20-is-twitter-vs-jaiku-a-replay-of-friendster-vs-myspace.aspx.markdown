@@ -12,7 +12,7 @@ left](http://scobleizer.com/2007/04/06/leo-laporte-leaves-twitter-for-jaiku/ "Le
 Strangely enough, I’m having a [sense of deja vu](http://friendster.com/ "Friendster").
 
 ![twitter
-logo](https://haacked.com/images/haacked_com/WindowsLiveWriter/IsTwittervsJaikuaReplayofFriendstervsMyS_129E3/twitter_thumb.png)
+logo](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IsTwittervsJaikuaReplayofFriendstervsMyS_129E3/twitter_thumb.png)
 Twitter would do well to study the lessons learned in the history of Friendster vs MySpace. Building a Twitter clone is not rocket science. There is no huge barrier to entry. The only thing that keeps twitter on top of other services is their large user base.
 
 As [danah boyd](http://www.zephoria.org/thoughts/ "Danah’s Blog") points out in [this essay](http://www.danah.org/papers/FriendsterMySpaceEssay.html "Friendster vs MySpace") which compares Friendster vs MySpace, **People use the social technologies that all their friends are using**. I personally am hesitant to switch, because everyone I know is on Twitter, not on some other platform.

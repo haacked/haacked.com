@@ -4,7 +4,7 @@ tags: [work]
 redirect_from: "/archive/2004/12/07/the-server-the-server-the-servers-on-fire.aspx/"
 ---
 
-![Server on fire](/images/ComputerFire.jpg)
+![Server on fire](/assets/images/ComputerFire.jpg)
 
 In case you're wondering how important those fans are inside your
 computer, we received an email from a tech at our data center informing

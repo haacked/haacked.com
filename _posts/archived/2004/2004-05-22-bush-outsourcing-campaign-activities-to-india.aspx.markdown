@@ -4,7 +4,7 @@ tags: [politics]
 redirect_from: "/archive/2004/05/21/bush-outsourcing-campaign-activities-to-india.aspx/"
 ---
 
-> ![Dubya](/images/Dubya.jpg)According to a new report, the Bush
+> ![Dubya](/assets/images/Dubya.jpg)According to a new report, the Bush
 > Administration has taken its strong support for outsourcing further
 > than previously thought -- opting to move key political operations
 > offshore. India's Hindustan Times reports that, during a 14 month

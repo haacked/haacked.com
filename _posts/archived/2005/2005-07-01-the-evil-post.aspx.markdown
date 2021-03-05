@@ -4,18 +4,18 @@ tags: [humor,meta]
 redirect_from: "/archive/2005/06/30/the-evil-post.aspx/"
 ---
 
-![Dr. Evil](https://haacked.com/images/DrEvil.jpg) It’s an odd quirk of
+![Dr. Evil](https://haacked.com/assets/images/DrEvil.jpg) It’s an odd quirk of
 our taste for “round” numbers that we tend to celebrate milestones that
 are multiples of a power of ten. For example, a 10th anniversary is
 somehow more significant than a 6th anniversary. Likewise, a 100th post
 is more significant than a 73rd post.
 
-![Kim Il Jong](https://haacked.com/images/kimiljong.jpg) This post
+![Kim Il Jong](https://haacked.com/assets/images/kimiljong.jpg) This post
 reaches a different sort of milestone, it is my 666th post. Yes, this
 post bears with it the mark of the beast. I dedicate this post to pure
 eeeeevil.
 
-![Evil Calvin](https://haacked.com/images/evilCalvin.jpg) Not having a
+![Evil Calvin](https://haacked.com/assets/images/evilCalvin.jpg) Not having a
 reputation evil, my first step is to gauge my current evil quotient via
 the “[How evil are you?](http://home.att.net/~slugbutter/evil/)”
 website. Unfortunately I rated quite good on the Evil-o-meter. There was
@@ -52,13 +52,13 @@ here. But then again, I personally didn’t write this code, I off-shored
 it to a sweatshop in China that employs overworked six year olds to hack
 out the code.
 
-![Evil Bert](https://haacked.com/images/EvilBert.jpg) After all this hard
+![Evil Bert](https://haacked.com/assets/images/EvilBert.jpg) After all this hard
 work, I relaxed to a game of Dungeons & Dragons while watching a little
 sesame street to absorb [the evil that is
 Bert](http://www.bertisevil.tv/index2.htm). This led to an internal
 debate about which character is more evil, Barney or Bert?
 
-![Evil Barney](https://haacked.com/images/evilBarney.jpg) After studying
+![Evil Barney](https://haacked.com/assets/images/evilBarney.jpg) After studying
 this [mathematical proof of Barney’s
 evil](http://www.geocities.com/h2lee/barney.html) and this essay, “[Why
 is Barney Considered Evil](http://www.vitriol.com/barney.html)”, I

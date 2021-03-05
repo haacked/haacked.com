@@ -15,7 +15,7 @@ of which I estimate I wrote around 800 of those. Yep, if you’re browsing
 the Subtext unit test code and something smells bad, chances are I
 probably dealt it.
 
-![IMG\_1117](https://haacked.com/images/haacked_com/WindowsLiveWriter/TellMeYourUnitTestingPains_13FCD/IMG_1117_1.jpg)
+![IMG\_1117](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TellMeYourUnitTestingPains_13FCD/IMG_1117_1.jpg)
 Unfortunately, by most definitions of *Unit Test,* most of these tests
 are really *integration tests*. Partly because I was testing legacy code
 that and partly because I was blocked by the framework, not every method

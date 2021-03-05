@@ -15,13 +15,13 @@ Continuous
 Integration](http://www.subtextproject.com/Home/Docs/Developer/ContinuousIntegration/tabid/145/Default.aspx "Continuous Integration and Subtext")
 and the various utilities that Subtext uses in its CI process.
 
-![](https://haacked.com/images/CCNetTrayScreenshot.gif)
+![](https://haacked.com/assets/images/CCNetTrayScreenshot.gif)
 
 As you can see in the screenshot, the last build succeeded. Check out
 this small snippet from our [NCover
 report](http://haacked.dyndns.org/ccnet/server/local/project/SubText/build/log20060518054054Lbuild.1.4.1.69.xml/NCoverBuildReport.aspx "NCover report")
 
-![](https://haacked.com/images/NCoverReport.gif)
+![](https://haacked.com/assets/images/NCoverReport.gif)
 
 As you can see, we have a bit of work to do. But remember, [code
 coverage isn’t

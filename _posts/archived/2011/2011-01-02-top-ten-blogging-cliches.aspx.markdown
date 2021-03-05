@@ -10,7 +10,7 @@ off this new year right with a top ten list FTW!
 
 Without further ado, I present my list of the top 10 blogging clichés of
 2010. These are things yours truly would **never ever** do,
-right?[![stones-on-a-beach](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyTop10BloggingClichesof2009_123D2/stones-on-a-beach_3.jpg "stones-on-a-beach")](http://www.sxc.hu/photo/1245904 "Shore and rocks near Front Street in Lahaina by Beneeb on sxc.hu")
+right?[![stones-on-a-beach](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MyTop10BloggingClichesof2009_123D2/stones-on-a-beach_3.jpg "stones-on-a-beach")](http://www.sxc.hu/photo/1245904 "Shore and rocks near Front Street in Lahaina by Beneeb on sxc.hu")
 
 1.  **The random photo:** Starting off the list is a very common one
     that even gets the very best bloggers, including a random photo in
@@ -106,7 +106,7 @@ blogging clichés. How am I doing so far?
 Probably about as well as my resolution to stop procrastinating, which I
 made *after* the new year, so I’m not off to a good start on that one
 either. ![Winking
-smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/MyTop10BloggingClichesof2009_123D2/wlEmoticon-winkingsmile_2.png)
+smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/MyTop10BloggingClichesof2009_123D2/wlEmoticon-winkingsmile_2.png)
 
 *Before you flame me about this blog post, this was all in good fun. I
 love top 10 lists for binary values of 10!*

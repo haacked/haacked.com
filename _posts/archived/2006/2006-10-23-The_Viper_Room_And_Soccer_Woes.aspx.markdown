@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/10/22/The_Viper_Room_And_Soccer_Woes.aspx/"
 ---
 
 ![The Viper
-Room](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheViperRoom_91DC/ViperRoom%5B13%5D.jpg)Last
+Room](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheViperRoom_91DC/ViperRoom%5B13%5D.jpg)Last
 night I went to the “[World Famous Viper
 Room](http://www.viperroom.com/ "Viper Room")”.  Gotta respect that
 their website makes sure to mention the *World Famous* part.  I suppose

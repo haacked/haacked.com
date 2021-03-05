@@ -67,7 +67,7 @@ What I Liked In 2010
     I found a read a much wider variety of blog posts due to Twitter and
     unfortunately didn’t remember to bookmark my favorite of the year.
     I’ll try better next year.
-    ![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/wlEmoticon-smile_2.png)
+    ![Smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/wlEmoticon-smile_2.png)
 -   **Gadgets:** This is a tie between my iPhone 4 and my
     [Kinect](http://www.amazon.com/gp/product/B002BSA298?ie=UTF8&tag=youvebeenhaac-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002BSA298 "Kinect on Amazon.com").
     I am on my phone all the time. Perhaps too much. Ok, definitely too
@@ -81,7 +81,7 @@ What I Liked In 2010
 -   **My Kids:**Seriously, they’re cool! (I like my wife too, but she
     doesn’t like her picture plastered on the web. My kids get no
     choice.) ![Winking
-    smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/wlEmoticon-winkingsmile_2.png)[![Me-and-the-kids](https://haacked.com/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/Me-and-the-kids_thumb_1.jpg "Me-and-the-kids")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/Me-and-the-kids_4.jpg)
+    smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/wlEmoticon-winkingsmile_2.png)[![Me-and-the-kids](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/Me-and-the-kids_thumb_1.jpg "Me-and-the-kids")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/Me-and-the-kids_4.jpg)
 
 Memorable Moments/Trips of 2010
 -------------------------------
@@ -217,7 +217,7 @@ According to Google Analytics:
 -   **How’d you get here:** As usual, most of you came here via Google
     search results (1,120,983), which probably means most of you aren’t
     reading this. ![Winking
-    smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/wlEmoticon-winkingsmile_2.png)
+    smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/wlEmoticon-winkingsmile_2.png)
     In second place, many of you came here directly (254,533) via typing
     the URL to this blog in an address bar (or clicking on a bookmark,
     etc.).

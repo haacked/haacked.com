@@ -9,7 +9,7 @@ Guy](https://haacked.com/archive/2005/04/08/2602.aspx) was no longer
 cancelled on my blog, I've noticed that Google Ad Sense has been
 displaying a Family Guy banner ad on my [homepage](https://haacked.com/).
 
-![Family Guy](/images/familyGuy.gif) In case it is gone by the time you
+![Family Guy](/assets/images/familyGuy.gif) In case it is gone by the time you
 read this, the image at left is a snippet from the full banner ad. It's
 colorful and looks rather nice at the top of my blog.
 

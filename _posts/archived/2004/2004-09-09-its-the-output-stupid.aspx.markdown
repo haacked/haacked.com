@@ -4,7 +4,7 @@ tags: [tips]
 redirect_from: "/archive/2004/09/08/its-the-output-stupid.aspx/"
 ---
 
-![Fountain Pen](/images/fountainPen.jpg) I read with amusement this
+![Fountain Pen](/assets/images/fountainPen.jpg) I read with amusement this
 [recent post](http://radio.weblogs.com/0001011/2004/09/09.html#a8202) on
 [Scoble’s blog](http://radio.weblogs.com/0001011/) in which someone
 writes him a note dictating the tools that “Influencers” use.

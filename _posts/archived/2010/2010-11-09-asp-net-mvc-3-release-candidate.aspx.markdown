@@ -59,7 +59,7 @@ Well, since I’m lazy, I’ll probably be asking you very soon for your
 thoughts on what you’d like to see us focus on for the next version of
 ASP.NET MVC. Then I can present your best ideas as my own in the next
 executive review. You don’t mind that at all, do you? ![Winking
-smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NET-MVC-3-Release-Candidate_955/wlEmoticon-winkingsmile_2.png)
+smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NET-MVC-3-Release-Candidate_955/wlEmoticon-winkingsmile_2.png)
 
 Seriously though, please do provide feedback and I’ll keep you posted on
 our planning.

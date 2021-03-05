@@ -4,7 +4,7 @@ tags: [code,aspnet]
 redirect_from: "/archive/2006/06/12/ProperWayToFindTheForm.aspx/"
 ---
 
-![1040 EZ Form](https://haacked.com/images/1040ez.jpg) Today I ran across
+![1040 EZ Form](https://haacked.com/assets/images/1040ez.jpg) Today I ran across
 some code in a 3rd party open source library that used the following
 function in order to retrieve the form id.
 

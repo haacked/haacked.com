@@ -8,7 +8,7 @@ ELMAH, *which stands for Error Logging Modules and Handlers for
 ASP.NET*, is an open source project which makes it easy to log and view
 unhandled exceptions via its pluggable architecture.
 
-[![elmah](https://haacked.com/images/haacked_com/WindowsLiveWriter/Securely-Implement-ELMAH-For-Plug-And-Pl_94C5/elmah_thumb.png "elmah")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Securely-Implement-ELMAH-For-Plug-And-Pl_94C5/elmah_2.png)
+[![elmah](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Securely-Implement-ELMAH-For-Plug-And-Pl_94C5/elmah_thumb.png "elmah")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Securely-Implement-ELMAH-For-Plug-And-Pl_94C5/elmah_2.png)
 
 Having been around a while, a lot has already been written on it so I
 won’t rehash all that information. For more details, you can read the

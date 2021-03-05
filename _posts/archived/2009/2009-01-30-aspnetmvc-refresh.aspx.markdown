@@ -35,7 +35,7 @@ way to fully ensure you have the refresh is to right click on the
 downloaded file, select the Digital Signatures tab, and make sure the
 Time Stamp says Wednesday, January 28 and not Friday, January 23.
 
-![msi-props](https://haacked.com/images/haacked_com/WindowsLiveWriter/RegressionsinASP.NETMVCRC_CB6C/msi-props_5.png "msi-props")
+![msi-props](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/RegressionsinASP.NETMVCRC_CB6C/msi-props_5.png "msi-props")
 
 **Don’t forget to fully uninstall the previous RC before installing this
 one.**

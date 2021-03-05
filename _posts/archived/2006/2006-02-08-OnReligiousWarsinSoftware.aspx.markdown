@@ -4,7 +4,7 @@ tags: [software,commentary]
 redirect_from: "/archive/2006/02/07/OnReligiousWarsinSoftware.aspx/"
 ---
 
-![Toy Soldier With Bazooka](https://haacked.com/images/SoldierWithBazooka.jpg) No, this isn’t a revisionist history account attempting to insert the role of software in the Crusades. Today we take a look at Religious Wars in software. Sometimes also referred to as "Flame Wars" and "Holy Wars".
+![Toy Soldier With Bazooka](https://haacked.com/assets/images/SoldierWithBazooka.jpg) No, this isn’t a revisionist history account attempting to insert the role of software in the Crusades. Today we take a look at Religious Wars in software. Sometimes also referred to as "Flame Wars" and "Holy Wars".
 
 A religious war is a very passionate conflict or argument in which each side is absolutely convinced of the objective truth of his or her own position on a matter of personal preference. These are typically very heated arguments over very trivial matters in which the only truth is that there is no objectively correct answer. These arguments would make an outsider wonder if we should all be locked up in straight jackets.
 

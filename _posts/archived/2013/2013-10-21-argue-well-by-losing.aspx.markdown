@@ -2,7 +2,7 @@
 title: Argue Well By Losing
 tags: [management,relationships]
 redirect_from: "/archive/2013/10/20/argue-well-by-losing.aspx/"
-excerpt_image: https://haacked.com/images/haacked_com/WindowsLiveWriter/ArgueWellByLosing_BE9C/red-card_thumb.jpg
+excerpt_image: https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ArgueWellByLosing_BE9C/red-card_thumb.jpg
 ---
 
 I love a good argument. No really! Even ones online.
@@ -16,7 +16,7 @@ browbeat the other into rhetorical submission.
 >
 > ARE YOU NOT CONVINCED?!
 
-[![You want to argue? Argue with this card! Image: from Wikipedia CC BY-SA 3.0](https://haacked.com/images/haacked_com/WindowsLiveWriter/ArgueWellByLosing_BE9C/red-card_thumb.jpg "red-card")](http://en.wikipedia.org/wiki/File:2009-3-14_ManUtd_vs_LFC_Red_Card_Vidic.JPG)
+[![You want to argue? Argue with this card! Image: from Wikipedia CC BY-SA 3.0](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ArgueWellByLosing_BE9C/red-card_thumb.jpg "red-card")](http://en.wikipedia.org/wiki/File:2009-3-14_ManUtd_vs_LFC_Red_Card_Vidic.JPG)
 
 So what makes an *argument good*? (*besides when you agree with me which is always a good move*)
 
@@ -83,7 +83,7 @@ When one isn’t, it becomes overwhelmingly tempting to resort to any
 means necessary in order to wipe that smug smirk off your opponent’s
 face.
 
-[![Troll_Face](https://haacked.com/images/haacked_com/WindowsLiveWriter/ArgueWellByLosing_BE9C/Troll_Face_thumb.png "Troll_Face")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ArgueWellByLosing_BE9C/Troll_Face_2.png)
+[![Troll_Face](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ArgueWellByLosing_BE9C/Troll_Face_thumb.png "Troll_Face")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ArgueWellByLosing_BE9C/Troll_Face_2.png)
 
 Of course, both sides will believe they’re the one who is drawing
 conclusions from years of objective rational analysis, but [they’re both

@@ -10,7 +10,7 @@ takes to become a successful developer. I started to respond,
 > I don’t know. Why don’t you go ask a successful developer?
 
 [![web - credits:
-http://www.sxc.hu/photo/885310](https://haacked.com/images/haacked_com/WindowsLiveWriter/ImaWebDeveloperAtHeart_1287B/web_thumb.jpg "web - credits: http://www.sxc.hu/photo/885310")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ImaWebDeveloperAtHeart_1287B/web_2.jpg)
+http://www.sxc.hu/photo/885310](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ImaWebDeveloperAtHeart_1287B/web_thumb.jpg "web - credits: http://www.sxc.hu/photo/885310")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ImaWebDeveloperAtHeart_1287B/web_2.jpg)
 But then I thought, that’s kind of snarky, isn’t it? And who am I
 kidding with all that false modesty? After all, the concept of a “clever
 hack” was named after me, but the person who came up with it didn’t have

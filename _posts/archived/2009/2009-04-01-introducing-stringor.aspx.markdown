@@ -24,7 +24,7 @@ represent the situation after the user has submitted input, but before
 you attempt the conversion. At this point, you have a string or another
 type.
 
-![clip\_image004\_thumb](https://haacked.com/images/haacked_com/WindowsLiveWriter/HandlingStringInput_12658/clip_image004_thumb_3.jpg "clip_image004_thumb")
+![clip\_image004\_thumb](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HandlingStringInput_12658/clip_image004_thumb_3.jpg "clip_image004_thumb")
 
 For more details on the `StringOr<T>` Community Technology Preview
 (CTP), please see details on lead developer [Eilon Lipton's

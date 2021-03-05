@@ -13,7 +13,7 @@ Trip](http://www.dotnetrocks.com/roadtrip.aspx ".NET Rocks Road Trip").
 Last time it was for the launch of Visual Studio 2010. This time it
 coincides with Visual Studio 2012.
 
-![DNRRoadTripWeb](https://haacked.com/images/haacked_com/WindowsLiveWriter/In-Los-Angeles-this-F.NET-Rocks-Roadshow_120F5/DNRRoadTripWeb_3.jpg "DNRRoadTripWeb")
+![DNRRoadTripWeb](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/In-Los-Angeles-this-F.NET-Rocks-Roadshow_120F5/DNRRoadTripWeb_3.jpg "DNRRoadTripWeb")
 
 At each stop these gentlemen each give a presentation and then they
 interview a guest. If you’re in Los Angeles this Friday (November 30,

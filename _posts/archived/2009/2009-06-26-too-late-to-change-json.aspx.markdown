@@ -19,7 +19,7 @@ potentially breaking the web in the process.
 Another potential solution that came to mind was this: Can we simply
 change JSON? Is it too late to do that or has that boat left the harbor?
 
-[![boat-left-harbor](https://haacked.com/images/haacked_com/WindowsLiveWriter/IsItTooLateToChangeJSON_117AE/boat-left-harbor_thumb.jpg "boat-left-harbor")](https://haacked.com/images/haacked_com/WindowsLiveWriter/IsItTooLateToChangeJSON_117AE/boat-left-harbor_2.jpg)
+[![boat-left-harbor](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IsItTooLateToChangeJSON_117AE/boat-left-harbor_thumb.jpg "boat-left-harbor")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IsItTooLateToChangeJSON_117AE/boat-left-harbor_2.jpg)
 
 Let me run an idea by you. What if everyone got together and decided to
 version the JSON standard and change it in such a way that when the

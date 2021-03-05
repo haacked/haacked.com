@@ -26,7 +26,7 @@ out is what the view class actually looks like in Visual Studio, which I
 think is kinda cool (click on image for larger view).
 
 [![VB.NET XML Literal
-View](https://haacked.com/images/haacked_com/WindowsLiveWriter/a5a5c5b59d6c_BB42/vb-xml-literal-view_thumb.png "VB.NET XML Literal View")](https://haacked.com/images/haacked_com/WindowsLiveWriter/a5a5c5b59d6c_BB42/vb-xml-literal-view_2.png)
+View](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/a5a5c5b59d6c_BB42/vb-xml-literal-view_thumb.png "VB.NET XML Literal View")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/a5a5c5b59d6c_BB42/vb-xml-literal-view_2.png)
 
 Notice that this looks pretty similar to what you get in the default
 Index.aspx view. One advantage of this approach is that you’re always

@@ -15,7 +15,7 @@ I’ve been working on a post detailing a couple different ways to
 integrate WebForms and MVC, but life has been really busy for me lately.
 Hopefully I’ll get that to you soon.
 
-![MysteryPerson](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVCAndDynamicDataLearnToPlayWellT_7981/MysteryPerson_3.jpg "MysteryPerson")In
+![MysteryPerson](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NETMVCAndDynamicDataLearnToPlayWellT_7981/MysteryPerson_3.jpg "MysteryPerson")In
 the meanwhile, you can probably learn all you need to know by looking at
 this example.
 

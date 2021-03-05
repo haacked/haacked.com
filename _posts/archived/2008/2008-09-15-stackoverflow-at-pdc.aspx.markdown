@@ -4,7 +4,7 @@ tags: [conferences]
 redirect_from: "/archive/2008/09/14/stackoverflow-at-pdc.aspx/"
 ---
 
-![pdc2008](https://haacked.com/images/haacked_com/WindowsLiveWriter/StackOverflowatPDC_EC4F/pdc2008_3.jpg "pdc2008")
+![pdc2008](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/StackOverflowatPDC_EC4F/pdc2008_3.jpg "pdc2008")
 First of all, I want to congratulate [Jeff
 Atwood](http://codinghorror.com/ "CodingHorror blog"), [Joel
 Spolsky](http://www.joelonsoftware.com/ "Joel Spolsky's Blog"), and
@@ -20,7 +20,7 @@ ASP.NET MVC, though he’s had a few pain points that I’m now well aware
 of. :)
 
 ![Stackoverflow
-Logo](https://haacked.com/images/haacked_com/WindowsLiveWriter/StackOverflowatPDC_EC4F/stackoverflow-logo-250_3.png "Stackoverflow Logo")I
+Logo](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/StackOverflowatPDC_EC4F/stackoverflow-logo-250_3.png "Stackoverflow Logo")I
 like StackOverflow so much that I asked Jeff to take a 10-15 minute
 slice of [my ASP.NET MVC
 talk](http://channel9.msdn.com/pdc2008/PC21/ "ASP.NET MVC: A New Framework for Building Web Applications")

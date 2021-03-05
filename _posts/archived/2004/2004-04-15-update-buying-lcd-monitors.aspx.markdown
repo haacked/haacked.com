@@ -4,7 +4,7 @@ tags: [gadgets,tech]
 redirect_from: "/archive/2004/04/14/update-buying-lcd-monitors.aspx/"
 ---
 
-![](/images/dellultrasharp.jpg)In a [previous
+![](/assets/images/dellultrasharp.jpg)In a [previous
 post](https://haacked.com/archive/2004/04/07/305.aspx "Previous Post")
 I mentioned that I bought an LCD monitor from some unknow Yahoo store.
 Well I recieved it yesterday and I can't tell you how happy I am with

@@ -8,7 +8,7 @@ When approaching an extensibility model, I often find cases in which I
 want to merely tweak the existing behavior of the default implementation
 and wish I didn’t have to create a whole new specific type to do so.
 
-[![paint](https://haacked.com/images/haacked_com/WindowsLiveWriter/Delegating-Decorators_DE74/paint_3.jpg "paint")](http://www.sxc.hu/photo/61224/ "Paint and brush by Pam Roth")
+[![paint](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Delegating-Decorators_DE74/paint_3.jpg "paint")](http://www.sxc.hu/photo/61224/ "Paint and brush by Pam Roth")
 
 Instead of creating a specific type, I tend to write a decorator class
 that implements the interface and takes in both the default instance of

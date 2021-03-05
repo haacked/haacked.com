@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/10/18/Art_of_the_Job_Post.aspx/"
 ---
 
 [![Mona
-Lisa](https://haacked.com/images/haacked_com/WindowsLiveWriter/ArtoftheJobPost_CBAE/monalisa_thumb%5B1%5D.gif)](https://haacked.com/images/haacked_com/WindowsLiveWriter/ArtoftheJobPost_CBAE/monalisa%5B3%5D.gif)
+Lisa](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ArtoftheJobPost_CBAE/monalisa_thumb%5B1%5D.gif)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ArtoftheJobPost_CBAE/monalisa%5B3%5D.gif)
 When I was a bright eyed bushy tailed senior in
 [college](http://www.oxy.edu/ "Go Tigers!"), I remember wading through
 pages and pages of job ads in Jobtrak (which has since been absorbed

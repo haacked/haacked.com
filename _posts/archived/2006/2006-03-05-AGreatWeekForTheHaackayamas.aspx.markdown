@@ -22,7 +22,7 @@ In truth, it means the risk we took in me taking a large paycut to start
 a company with [Micah](http://micahdylan.com/ "Micah Dylan Blog") is
 largely mitigated. We can start putting money back into our savings.
 
-![Soccer Ball](https://haacked.com/images/SoccerBallBW.jpg) On the soccer
+![Soccer Ball](https://haacked.com/assets/images/SoccerBallBW.jpg) On the soccer
 front we finally had the opening game of the season for the competitive
 league I joined. Up until now, we’ve been playing a few pre-season
 practice games.

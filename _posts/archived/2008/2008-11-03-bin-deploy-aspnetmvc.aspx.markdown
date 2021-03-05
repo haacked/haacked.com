@@ -37,21 +37,21 @@ project and expand the References node in the project tree. Select the
 aforementioned three assemblies and in the **Properties** dialog, set
 **Copy Local** to **True**.
 
-![copy-local-true\_3](https://haacked.com/images/haacked_com/WindowsLiveWriter/BinDeployingASP.NETMVC_F744/copy-local-true_3_3.png "copy-local-true_3") 
+![copy-local-true\_3](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BinDeployingASP.NETMVC_F744/copy-local-true_3_3.png "copy-local-true_3") 
 
 Now just right click on your application and select **Publish**.
 
- ![publish-project\_3](https://haacked.com/images/haacked_com/WindowsLiveWriter/BinDeployingASP.NETMVC_F744/publish-project_3_3.png "publish-project_3")
+ ![publish-project\_3](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BinDeployingASP.NETMVC_F744/publish-project_3_3.png "publish-project_3")
 
 This brings up the following **Publish** wizard.
 
-![Publish-Web](https://haacked.com/images/haacked_com/WindowsLiveWriter/BinDeployingASP.NETMVC_F744/Publish-Web_3.png "Publish-Web")
+![Publish-Web](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BinDeployingASP.NETMVC_F744/Publish-Web_3.png "Publish-Web")
 
 Notice that in this example, I selected a local directory. When I hit
 **Publish**, all the files needed to deploy my app are available in the
 directory I chose, including the assemblies that were in the GAC.
 
-![bin-assemblies](https://haacked.com/images/haacked_com/WindowsLiveWriter/BinDeployingASP.NETMVC_F744/bin-assemblies_3.png "bin-assemblies")
+![bin-assemblies](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BinDeployingASP.NETMVC_F744/bin-assemblies_3.png "bin-assemblies")
 
 Now I am ready to XCOPY the application to my host, but before I do
 that, I really should test the application as a bin deployed app to be
@@ -68,7 +68,7 @@ register the assembly. Because it was installed using an MSI, Windows
 won’t let you unregister it. Here’s a command prompt window that shows
 what I got when I tried.
 
-![gacutil-mvc](https://haacked.com/images/haacked_com/WindowsLiveWriter/BinDeployingASP.NETMVC_F744/gacutil-mvc_3.png "gacutil-mvc")
+![gacutil-mvc](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/BinDeployingASP.NETMVC_F744/gacutil-mvc_3.png "gacutil-mvc")
 
 Notice that it says that “assembly is required by one or more
 applications”. In general, there shouldn’t be any difference between

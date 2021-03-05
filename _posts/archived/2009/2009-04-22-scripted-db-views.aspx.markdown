@@ -19,7 +19,7 @@ It’s possible to store such files in the database and use a
 safely store such views in the database in an application running in
 medium trust where the code in the view is approachable?
 
-[![](https://haacked.com/images/haacked_com/WindowsLiveWriter/HostingASP.NETMVCViewsInTheDatabase_134EA/fun-scripting_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/HostingASP.NETMVCViewsInTheDatabase_134EA/fun-scripting_2.jpg)
+[![](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HostingASP.NETMVCViewsInTheDatabase_134EA/fun-scripting_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HostingASP.NETMVCViewsInTheDatabase_134EA/fun-scripting_2.jpg)
 At the ALT.NET conference a little while back, [Jimmy
 Schementi](http://blog.jimmy.schementi.com/ "Jimmy Schementi") and [John
 Lam](http://www.iunknown.com/ "John Lam") [gave a
@@ -101,13 +101,13 @@ public ActionResult FunWithScripting()
 
 Once you write your controller, but before you create your view, you
 compile the app and then go visit the URL.![View does not exist
-view](https://haacked.com/images/haacked_com/WindowsLiveWriter/HostingASP.NETMVCViewsInTheDatabase_134EA/view-does-not-exist_11.png "View does not exist view")
+view](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HostingASP.NETMVCViewsInTheDatabase_134EA/view-does-not-exist_11.png "View does not exist view")
 
 We haven’t created the view yet, so let’s follow the instructions and
 login. Afterwards, we this:
 
 ![view
-editor](https://haacked.com/images/haacked_com/WindowsLiveWriter/HostingASP.NETMVCViewsInTheDatabase_134EA/view-editor_3.png "view editor")
+editor](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HostingASP.NETMVCViewsInTheDatabase_134EA/view-editor_3.png "view editor")
 
 Since the view doesn’t exist, I hooked in and provided a temporary view
 for the controller action which contains a view editor. Notice that at
@@ -127,7 +127,7 @@ When I click *Create View*, I get taken back to the request for the same
 action, but now I can see the view I just created (click to enlarge).
 
 [![Fun with scripting
-view](https://haacked.com/images/haacked_com/WindowsLiveWriter/HostingASP.NETMVCViewsInTheDatabase_134EA/fun-with-scripting-view_thumb.png "Fun with scripting view")](https://haacked.com/images/haacked_com/WindowsLiveWriter/HostingASP.NETMVCViewsInTheDatabase_134EA/fun-with-scripting-view_2.png)
+view](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HostingASP.NETMVCViewsInTheDatabase_134EA/fun-with-scripting-view_thumb.png "Fun with scripting view")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HostingASP.NETMVCViewsInTheDatabase_134EA/fun-with-scripting-view_2.png)
 
 In the future, I should be able to host C# views in this way. Mono
 already has a tool for dynamically compiling C# code passed in as a

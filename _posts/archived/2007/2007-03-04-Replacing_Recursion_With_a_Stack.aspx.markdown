@@ -5,7 +5,7 @@ redirect_from: "/archive/2007/03/03/Replacing_Recursion_With_a_Stack.aspx/"
 ---
 
 ![Stack of
-Paper](https://haacked.com/images/haacked_com/WindowsLiveWriter/ReplacingRecursionWithaStack_124F7/251979_paper_stack10.jpg)In
+Paper](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ReplacingRecursionWithaStack_124F7/251979_paper_stack10.jpg)In
 [Jeff Atwood’s](http://codinghorror.com/blog/ "Jeff Atwood") infamous
 [FizzBuzz
 post](http://www.codinghorror.com/blog/archives/000781.html "Why Can’t Programmers Program?"),

@@ -83,7 +83,7 @@ website in the IIS Manager tool and select properties. Click on the
 *ASP.NET* tab in the dialog box. It should look something like this...
 
 ![ASP.NET Version
-Dialog](https://haacked.com/images/haacked_com/WindowsLiveWriter/UpgradingtoSubtext1.9_10183/SNAG00254.png)
+Dialog](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UpgradingtoSubtext1.9_10183/SNAG00254.png)
 
 Makes sure to select **2.0.50727** in the *ASP.NET version* dropdown.
 
@@ -93,7 +93,7 @@ the Virtual Directory tab and select the Application Pool in the
 dropdown at the bottom of the dialog as in the following screenshot.
 
 ![App Pool
-Dialog](https://haacked.com/images/haacked_com/WindowsLiveWriter/UpgradingtoSubtext1.9_10183/AppPool4.png)
+Dialog](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/UpgradingtoSubtext1.9_10183/AppPool4.png)
 
 Good luck and smooth sailing!
 

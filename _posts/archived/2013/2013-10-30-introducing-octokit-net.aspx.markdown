@@ -16,7 +16,7 @@ Octokit.net](https://github.com/blog/1676-introducing-octokit-net "Introducing O
 > [Octokit.net](https://github.com/octokit/octokit.net), the GitHub API
 > toolkit for .NET developers.
 
-[![octokit-dotnet](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingOctokit.NET_D8EF/octokit-dotnet_thumb.png "octokit-dotnet")](https://haacked.com/images/haacked_com/WindowsLiveWriter/IntroducingOctokit.NET_D8EF/octokit-dotnet_2.png)
+[![octokit-dotnet](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IntroducingOctokit.NET_D8EF/octokit-dotnet_thumb.png "octokit-dotnet")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IntroducingOctokit.NET_D8EF/octokit-dotnet_2.png)
 
 GitHub provides a powerful set of tools for developers who build amazing
 software together. But these tools extend way beyond the website and Git

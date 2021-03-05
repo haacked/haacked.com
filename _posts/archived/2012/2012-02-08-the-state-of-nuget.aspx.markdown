@@ -20,7 +20,7 @@ Just to clarify, I have not left the NuGet project. Until my name is
 removed from [this
 page](http://www.outercurve.org/Galleries/ASPNETOpenSourceGallery/NuGet "NuGet on Outercurve"),
 I will be involved.
-![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/The-State-of-NuGet_A57C/wlEmoticon-smile_2.png)However,
+![Smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/The-State-of-NuGet_A57C/wlEmoticon-smile_2.png)However,
 as I’ve been ramping up in my new job at GitHub (loving it!), I have
 been less involved as I would like simply because there’s only so much
 of me to go around. Once we get the project I’m working on at work

@@ -16,7 +16,7 @@ in the *Skins* directory for example, you might see a set of folders
 like this.
 
 ![Subtext Skin
-Folders.](https://haacked.com/images/haacked_com/WindowsLiveWriter/790894a9b369_B541/SubtextSkinFolders4.png)
+Folders.](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/790894a9b369_B541/SubtextSkinFolders4.png)
 
 Skin Template
 -------------
@@ -38,7 +38,7 @@ define three different skins while the other stylesheets in this folder
 do not?
 
 ![Redbook
-Folder](https://haacked.com/images/haacked_com/WindowsLiveWriter/790894a9b369_B541/redbook.png)
+Folder](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/790894a9b369_B541/redbook.png)
 
 The answer is that this is defined within the `Skins.config` file.
 
@@ -109,7 +109,7 @@ render a specific skin.  There was also a control named
 *PageTemplate.ascx* in the parent directory.
 
 ![The
-Controls](https://haacked.com/images/haacked_com/WindowsLiveWriter/790894a9b369_B541/SNAG00234.png)
+Controls](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/790894a9b369_B541/SNAG00234.png)
 
 Each skin in a family of skins is rendered by the same set of
 `UserControl` instances.  The only difference between two skins within

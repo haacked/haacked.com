@@ -11,7 +11,7 @@ PubSub is no longer around, so those links will be broken. I’ve written
 post](https://haacked.com/archive/2007/04/06/state-of-the-blog-report.aspx "State of the Blog")
 that provides fresh opportunities for being a vain blogger.
 
-![Vanity](/images/vanitysmurf.jpg) I'm not the [first to say
+![Vanity](/assets/images/vanitysmurf.jpg) I'm not the [first to say
 it](http://fling93.com/blog/archives/blogging/2004/vanity_blogging.html)
 and I probably won't be the last. But blogging is pure vanity, and new
 services out there just make it easier and easier to inflate one's head.

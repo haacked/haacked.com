@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2006/07/16/BikingBallonaCreek.aspx/"
 ---
 
-![creek](https://haacked.com/images/brushycreek.jpg) Yesterday afternoon
+![creek](https://haacked.com/assets/images/brushycreek.jpg) Yesterday afternoon
 the wife and I took a bike ride along Ballona Creek. Now the word
 *creek* might conjure up an image for you of tall brushy trees on grass
 shores following the languid contours of a water way occasionally broken
@@ -13,7 +13,7 @@ reflects that vision.
 
 If so, you do *not* live in Los Angeles.
 
-![Ballona Creek](https://haacked.com/images/ballonacreek.jpg) The picture
+![Ballona Creek](https://haacked.com/assets/images/ballonacreek.jpg) The picture
 at the left here reflects the concrete reality of Los Angeles water
 ways. Los Angeles rivers and creeks are heavily angular and typically
 filled with a murky green substance one hesitates to call “water” in

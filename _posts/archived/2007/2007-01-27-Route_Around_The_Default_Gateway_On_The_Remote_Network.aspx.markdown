@@ -19,7 +19,7 @@ That effectively shuts down my ability to access resources on my local
 network as all traffic gets routed through the remote network.
 
 ![VPN Dialog. Shows the Use Default Gateway on Remote Network
-Checkbox](https://haacked.com/images/haacked_com/WindowsLiveWriter/RouteAroundTheDefaultGatewayOnTheRemoteN_ADA/Vpn-Settings%5B14%5D.png)
+Checkbox](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/RouteAroundTheDefaultGatewayOnTheRemoteN_ADA/Vpn-Settings%5B14%5D.png)
 
 Fortunately, Steve didn’t give up like I did. He persisted and,
 following up on a tip by [Jon

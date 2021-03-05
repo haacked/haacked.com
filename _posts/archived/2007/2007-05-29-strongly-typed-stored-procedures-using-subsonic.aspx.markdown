@@ -39,12 +39,12 @@ The next step is to create a new External Tool button by selecting
 *External Tools...*from the Tools Menu.
 
 ![External
-Tools...](https://haacked.com/images/haacked_com/WindowsLiveWriter/VS.NETShortcutForGeneratingStoredProcCal_145CA/vsexternaltools4.png)
+Tools...](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/VS.NETShortcutForGeneratingStoredProcCal_145CA/vsexternaltools4.png)
 
 This will bring up the following dialog.
 
 ![External Tools
-Dialog](https://haacked.com/images/haacked_com/WindowsLiveWriter/VS.NETShortcutForGeneratingStoredProcCal_145CA/ExternalTools24.png)
+Dialog](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/VS.NETShortcutForGeneratingStoredProcCal_145CA/ExternalTools24.png)
 
 I filled in the fields like so:
 
@@ -63,19 +63,19 @@ With that in place, I then created a new Toolbar by selecting
 *Customize* from the *Tools* menu which brings up the following dialog.
 
 ![Customize
-Dialog](https://haacked.com/images/haacked_com/WindowsLiveWriter/VS.NETShortcutForGeneratingStoredProcCal_145CA/Customize4.png)
+Dialog](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/VS.NETShortcutForGeneratingStoredProcCal_145CA/Customize4.png)
 
 Click on the *New...* button to create a new toolbar.
 
 ![New
-Toolbar](https://haacked.com/images/haacked_com/WindowsLiveWriter/VS.NETShortcutForGeneratingStoredProcCal_145CA/NewToolbar5.png)
+Toolbar](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/VS.NETShortcutForGeneratingStoredProcCal_145CA/NewToolbar5.png)
 
 I called mine *Subsonic*. This adds a new empty toolbar to VS.NET. Now
 all I need to do is add my *Subtext Stored Procedures* button to it.
 Just click on the *Commands* tab.
 
 ![Customize
-Commands](https://haacked.com/images/haacked_com/WindowsLiveWriter/VS.NETShortcutForGeneratingStoredProcCal_145CA/vssubsoniccommandsdialog4.png)
+Commands](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/VS.NETShortcutForGeneratingStoredProcCal_145CA/vssubsoniccommandsdialog4.png)
 
 Unfortunately, the External Tools command is not named in this dialog.
 However, since I know the first command is the one I want (it’s the same
@@ -83,7 +83,7 @@ order as it is listed in the Tools Menu), I drag *External Command 1* to
 my new Subsonic toolbar.
 
 ![Subtext SPs
-button](https://haacked.com/images/haacked_com/WindowsLiveWriter/VS.NETShortcutForGeneratingStoredProcCal_145CA/subtextsptoolbarbutton4.png)
+button](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/VS.NETShortcutForGeneratingStoredProcCal_145CA/subtextsptoolbarbutton4.png)
 
 So now when I make a change to a stored procedure, or add/delete a
 stored procedure, I can just click on that button to regenerate the code

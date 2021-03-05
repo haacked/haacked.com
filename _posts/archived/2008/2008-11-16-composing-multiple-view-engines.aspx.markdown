@@ -78,7 +78,7 @@ I then created a small spark partial view…
 … and added it to the appropriate directory. I also added a bit of CSS
 to my default stylesheet in order to highlight the partial.
 
-![views-spark-partial](https://haacked.com/images/haacked_com/WindowsLiveWriter/RenderingASingleViewUsingMultipleViewEng_BA82/views-spark-partial_3.png "views-spark-partial")
+![views-spark-partial](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/RenderingASingleViewUsingMultipleViewEng_BA82/views-spark-partial_3.png "views-spark-partial")
 
 In my `Index.aspx` view, I added a call to the `Html.RenderPartial`
 helper method.
@@ -92,7 +92,7 @@ helper method.
 And the result...
 
 [![spark partial view
-result](https://haacked.com/images/haacked_com/WindowsLiveWriter/RenderingASingleViewUsingMultipleViewEng_BA82/spark-partial-result_thumb.png "spark partial view result")](https://haacked.com/images/haacked_com/WindowsLiveWriter/RenderingASingleViewUsingMultipleViewEng_BA82/spark-partial-result_2.png)
+result](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/RenderingASingleViewUsingMultipleViewEng_BA82/spark-partial-result_thumb.png "spark partial view result")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/RenderingASingleViewUsingMultipleViewEng_BA82/spark-partial-result_2.png)
 
 When we tell the view to render the partial view named “SparkPartial”,
 ASP.NET MVC will ask each registered view engine, “Hey, yous happens to

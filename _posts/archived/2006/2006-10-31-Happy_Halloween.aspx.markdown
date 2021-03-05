@@ -17,9 +17,9 @@ gave me more time to enjoy the party. Click on a pic for a larger
 version.
 
 [![Hunter S. Thompson and Noam
-Chomsky](https://haacked.com/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN8869.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN88691.jpg)
+Chomsky](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN8869.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN88691.jpg)
 [![Group of people outside the
-house](https://haacked.com/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN8876_edited_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN8876_edited2.jpg)
+house](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN8876_edited_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN8876_edited2.jpg)
 
 My buddy Kyle went as [Noam
 Chomsky](http://en.wikipedia.org/wiki/Noam_chomsky "Noam Chomsky on Wikipedia"),
@@ -36,26 +36,26 @@ The DEA agent was probably one of my favorite costumes, just for the
 chill he sent down the spine of some partygoers.
 
 [![Steve Irwin, the Crocodile
-Hunter](https://haacked.com/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN8878.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN88781.jpg)[![Cartman
+Hunter](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN8878.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN88781.jpg)[![Cartman
 and
-Snack](https://haacked.com/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN88703.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN88704.jpg)
+Snack](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN88703.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN88704.jpg)
 
 As expected, someone with showed up in a Crocodile Hunter costume,
 though I don’t understand the red wig. We also had Cartman and his
 favorite snack in attendance.
 
 [![Inside the
-party](https://haacked.com/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN8915_thumb1.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN89156.jpg)
+party](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN8915_thumb1.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN89156.jpg)
 [![The
-Governator](https://haacked.com/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN89203.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN89204.jpg)
+Governator](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN89203.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/DSCN89204.jpg)
 
 Finally, the governator showed up, but he was inappropriately dressed. I
 had to black out that portion of his costume. Let’s just say, it took a
 pretty big circle to black that portion out. Good going Guv’nor!
 
-[![Beaker](https://haacked.com/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/image.xga.023%5B7%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/image.xga.023%5B8%5D.jpg)[![Count
+[![Beaker](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/image.xga.023%5B7%5D.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/image.xga.023%5B8%5D.jpg)[![Count
 Pimpula and
-Cheerleader](https://haacked.com/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/image.xga.008%5B2%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/image.xga.008%5B3%5D.jpg)
+Cheerleader](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/image.xga.008%5B2%5D.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HappyHalloween_B888/image.xga.008%5B3%5D.jpg)
 
 The beaker costume above was one of my favorites.  She and her boyfriend
 both were beakers. Apparently the sight of them making out was

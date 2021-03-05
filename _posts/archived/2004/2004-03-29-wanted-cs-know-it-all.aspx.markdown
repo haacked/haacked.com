@@ -4,7 +4,7 @@ tags: [mentoring]
 redirect_from: "/archive/2004/03/28/wanted-cs-know-it-all.aspx/"
 ---
 
-![Poker Chips](/images/chips.jpg)Rory at
+![Poker Chips](/assets/images/chips.jpg)Rory at
 [Neopoleon.com](http://neopoleon.com/blog/posts/4954.aspx) has an
 interesting proposition for would-be Computer Science mentors.
 Basically, he’s willing to pay for one-on-one tutoring in CS concepts

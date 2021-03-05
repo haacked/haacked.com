@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/12/17/.NET_Developer_Charity_Auction.aspx/"
 ---
 
 ![Malawi
-Villagers](https://haacked.com/images/haacked_com/WindowsLiveWriter/920309b32670.NETDeveloperCharityAuction_11436/MzuzuSept82006Richard112%5B6%5D.jpg)Clean
+Villagers](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/920309b32670.NETDeveloperCharityAuction_11436/MzuzuSept82006Richard112%5B6%5D.jpg)Clean
 drinking water piped to my house is something I take for granted (*yes,
 even in Los Angeles)*. When I stop to think about it a bit, I can’t
 imagine how tough it must be to not have clean drinking water.

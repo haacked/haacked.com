@@ -4,7 +4,7 @@ tags: [work,microsoft]
 redirect_from: "/archive/2008/10/14/one-year-at-microsoft.aspx/"
 ---
 
-[![bowl-mm](https://haacked.com/images/haacked_com/WindowsLiveWriter/OneYearAtMicrosoft_6728/bowl-mm_3.jpg "bowl-mm")](http://www.flickr.com/photos/jono_rotten/80751090/ "M&M by Jono Rotten - CC by attribution")
+[![bowl-mm](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/OneYearAtMicrosoft_6728/bowl-mm_3.jpg "bowl-mm")](http://www.flickr.com/photos/jono_rotten/80751090/ "M&M by Jono Rotten - CC by attribution")
 Today marks my one year anniversary at Microsoft. Tradition dictates
 that I bring in a pound of M&Ms for each year that I’ve been an
 employee. I’m going to buck that trend (because I like bucking things)

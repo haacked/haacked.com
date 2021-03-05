@@ -16,7 +16,7 @@ Conference](http://www.ndc2009.no/en/ "NDC 2009") (NDC 09). This
 conference was not your typical Microsoft conference I usually attend
 but was a conference on .NET with a heavy Agile Software bent.
 
-[![IMG\_3460](https://haacked.com/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/IMG_3460_thumb.jpg "IMG_3460")](https://haacked.com/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/IMG_3460.jpg)
+[![IMG\_3460](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/IMG_3460_thumb.jpg "IMG_3460")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/IMG_3460.jpg)
 
 Just looking at the [speaker
 line-up](http://www.ndc2009.no/en/index.aspx?cat=1070 "Speaker Lineup")
@@ -69,7 +69,7 @@ Hanselman).
 > build a web application”. ;) Of course, I hope more attendees felt
 > empowered rather than fearful. :P
 
-[![IMG\_3484](https://haacked.com/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/IMG_3484_thumb.jpg "IMG_3484")](https://haacked.com/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/IMG_3484.jpg)The
+[![IMG\_3484](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/IMG_3484_thumb.jpg "IMG_3484")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/IMG_3484.jpg)The
 conference was held in an indoor soccer stadium since it was a venue
 large enough for all the attendees. They curtained off sections of the
 bleachers to create rooms for giving the talks. On the outside of the
@@ -77,7 +77,7 @@ curtains was a large screen which allowed attendees to walk around from
 talk to talk with a headset on the conference floor if they didn’t feel
 like sitting in the bleachers.
 
-[![IMG\_3455](https://haacked.com/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/IMG_3455_thumb.jpg "IMG_3455")](https://haacked.com/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/IMG_3455.jpg)Plenty
+[![IMG\_3455](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/IMG_3455_thumb.jpg "IMG_3455")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/IMG_3455.jpg)Plenty
 of bean bags on the floor provided a comfortable place to relax and
 listen in. In fact, that’s where I would often find some of my new
 friends lounging around such as the [crazy
@@ -96,7 +96,7 @@ rocking music with geek friendly lyrics like:
 >
 > *-- DataRock, Computer Camp Love*
 
-[![data-rock](https://haacked.com/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/data-rock_thumb.jpg "data-rock")](https://haacked.com/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/data-rock_2.jpg)Many
+[![data-rock](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/data-rock_thumb.jpg "data-rock")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/data-rock_2.jpg)Many
 thanks to [Kjetil Klaussen for posting those lyrics in his NDC 09
 highlights
 post](http://www.kjetilk.com/2009/06/ndc-2009-highlights.html "NDC 2009 Highlights")
@@ -109,7 +109,7 @@ Rocks. The show was originally going to simply feature Scott Hanselman,
 but while hanging out in the speakers lounge Carl Franklin, one of the
 hosts of the show, suggested I join in the fun too.
 
-[![haack-hanselman-dotnetrocks](https://haacked.com/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/haack-hanselman-dotnetrocks_thumb.jpg "haack-hanselman-dotnetrocks")](https://haacked.com/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/haack-hanselman-dotnetrocks_2.jpg)While
+[![haack-hanselman-dotnetrocks](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/haack-hanselman-dotnetrocks_thumb.jpg "haack-hanselman-dotnetrocks")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/haack-hanselman-dotnetrocks_2.jpg)While
 it was great fun, Scott is a big, no ginormous, personality and I rarely
 got a word in edgewise, except for the few times I swooped right in just
 in time to put my foot in my mouth to apparently great comedic effect.
@@ -137,7 +137,7 @@ by [Cebete from
 Flickr.](http://www.flickr.com/photos/cebete/2614928119/ "Cebete") The
 main difference was the sky was a deep blue when we visited.
 
-[![Vigeland-Park](https://haacked.com/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/Vigeland-Park_thumb.jpg "Vigeland-Park")](https://haacked.com/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/Vigeland-Park_2.jpg)That
+[![Vigeland-Park](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/Vigeland-Park_thumb.jpg "Vigeland-Park")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NDC09TripReport_12378/Vigeland-Park_2.jpg)That
 evening, Sondre Bjellås, an attendee, was kind enough to invite several
 of us over to his flat for a little gathering. I headed over with
 Bellware and Anna since everyone else was pretty much flattened by the

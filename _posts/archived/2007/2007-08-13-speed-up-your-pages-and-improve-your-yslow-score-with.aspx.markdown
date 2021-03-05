@@ -38,7 +38,7 @@ YSlow provides a nice report card for your site. Here you can see the
 unfortunate grade my blog gets at the time of this writing.
 
 ![Haacked.com YSlow
-Score](https://haacked.com/images/haacked_com/WindowsLiveWriter/CoralDistributionNetworkPlugin_FAA8/Firebug%20-%20youve%20been%20HAACKED_2.png)
+Score](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CoralDistributionNetworkPlugin_FAA8/Firebug%20-%20youve%20been%20HAACKED_2.png)
 
 Naturally I couldn’t just sit there while some unknown Yahoo
 disdainfully gives my blog an F. I decided to start digging into it and
@@ -110,7 +110,7 @@ Here’s a screenshot of the domains I added to YSlow. I’m sure I’ll think
 of more to add later.
 
 ![YSlow CDN
-Configuration](https://haacked.com/images/haacked_com/WindowsLiveWriter/CoralDistributionNetworkPlugin_FAA8/Enter%20string%20value_1.png)
+Configuration](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CoralDistributionNetworkPlugin_FAA8/Enter%20string%20value_1.png)
 
 How can I automate this?
 ------------------------

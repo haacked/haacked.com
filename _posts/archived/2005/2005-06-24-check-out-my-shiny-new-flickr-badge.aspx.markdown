@@ -7,7 +7,7 @@ redirect_from: "/archive/2005/06/23/check-out-my-shiny-new-flickr-badge.aspx/"
 > You know what, I do want to express myself, okay. And I don't need 37
 > pieces of flair to do it.
 
-![Sand Sharks](https://haacked.com/images/SandSharkThum.jpg)No. I need a
+![Sand Sharks](https://haacked.com/assets/images/SandSharkThum.jpg)No. I need a
 [Flickr Badge](http://www.flickr.com/badge_new.gne)! For those of you
 reading this from an aggregator, you’ll need to take a step out of the
 comfort of the aggregator into the scary world of “web browsing” and

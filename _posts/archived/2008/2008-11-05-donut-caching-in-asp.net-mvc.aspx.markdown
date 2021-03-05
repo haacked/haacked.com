@@ -25,7 +25,7 @@ public ActionResult CacheDemo() {
 One of the problems with this approach is that it is an all or nothing
 approach. What if you want a section of the view to not be cached?
 
-[![mmmm-doughnut](https://haacked.com/images/haacked_com/WindowsLiveWriter/DonutCachinginASP.NETMVC_E52F/mmmm-doughnut_thumb.jpg "mmmm-doughnut")](https://haacked.com/images/haacked_com/WindowsLiveWriter/DonutCachinginASP.NETMVC_E52F/mmmm-doughnut_2.jpg)
+[![mmmm-doughnut](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DonutCachinginASP.NETMVC_E52F/mmmm-doughnut_thumb.jpg "mmmm-doughnut")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DonutCachinginASP.NETMVC_E52F/mmmm-doughnut_2.jpg)
 Well ASP.NET does include a `<asp:Substitution …/>` control which allows
 you to specify a method in your Page class that gets called every time
 the page is requested.

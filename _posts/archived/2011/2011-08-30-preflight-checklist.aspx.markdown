@@ -13,7 +13,7 @@ Even so, there’s one thing I did wrong, that I should have known better
 than to do. In my crazy sleep deprived work frazzled mind, I broke the
 cardinal rule of a dry run – **Treat it like the real thing!**
 
-**[![flight](https://haacked.com/images/haacked_com/WindowsLiveWriter/Preflight-Checklist_12275/flight_thumb.jpg "flight")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Preflight-Checklist_12275/flight_2.jpg)**
+**[![flight](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Preflight-Checklist_12275/flight_thumb.jpg "flight")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Preflight-Checklist_12275/flight_2.jpg)**
 *[Kitty Hawk by gilderm](http://www.sxc.hu/photo/1324305) from
 sxc.hu*For example, I have a little pre-flight checklist for every talk
 I give. I just place it in a file named *preflight.txt* in the root of

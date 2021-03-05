@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/08/29/Subtext_1.9_quotDaedelusquot_Released.aspx/"
 ---
 
 ![Subtext
-Logo](https://haacked.com/images/haacked_com/WindowsLiveWriter/Subtext1.9DaedelusReleased_10CAF/SubtextLogo5.png)
+Logo](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Subtext1.9DaedelusReleased_10CAF/SubtextLogo5.png)
 Well my friends, it took a bit longer than expected to get Subtext 1.9
 out the door, but we did it.  When we [released Subtext
 1.5](https://haacked.com/archive/2006/06/07/Subtext1.5NautilusRAndREditionReleased.aspx "Subtext 1.5 announcement") back

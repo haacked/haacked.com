@@ -25,7 +25,7 @@ automatically checks the default application data folder for a file
 named ShortcutSettings.xml. In this case, none was found so everything
 is blank.
 
-![Shortcut Editor - First Time](/images/rssbandit_ShortcutEditor.gif)
+![Shortcut Editor - First Time](/assets/images/rssbandit_ShortcutEditor.gif)
  **Figure 1:** Shortcuts Editor, no file specified.
 
 **Create a ShortcutSettings File**\
@@ -37,7 +37,7 @@ RSSBandit.exe.config file and specified a different location for RSS
 Bandit's application data by adding an appSetting entry for
 "AppDataFolder" (generally not recommended).
 
-![Shortcut Editor Save Settings Dialog](/images/rssbandit_ShortcutEditorSaveSettings.gif)
+![Shortcut Editor Save Settings Dialog](/assets/images/rssbandit_ShortcutEditorSaveSettings.gif)
  **Figure 2:** Shortcut Editor Save Settings Dialog.
 
 **Modify Settings**\
@@ -54,7 +54,7 @@ config file (as discussed in part 1). To add a new entry, click on the
 "Add" button which brings up a Shortcut Entry Form as in figure 3.
 
 ![Shortcut Editor Entry
-Form](/images/rssbandit_ShortcutEditorEntryForm.gif) \
+Form](/assets/images/rssbandit_ShortcutEditorEntryForm.gif) \
  **Figure 3:** Shortcut Editor Entry Form.
 
 This little form implements IMessageFilter itself, so when you click in
@@ -69,7 +69,7 @@ result in a new key combination being mapped to the command as shown in
 the closeup in Figure 4.
 
 ![Shortcut Editor Detail With New Filter
-Entry](/images/rssbandit_ShortcutEditorAfterAdd.gif) \
+Entry](/assets/images/rssbandit_ShortcutEditorAfterAdd.gif) \
  **Figure 4:** Shortcut Editor Detail With New Filter Entry.
 
 **Saving Your Settings**\

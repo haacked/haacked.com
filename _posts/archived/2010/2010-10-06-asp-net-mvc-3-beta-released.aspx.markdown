@@ -15,7 +15,7 @@ of ASP.NET MVC 3. Today I’m happy (and frankly, relieved) to announce
 announcement as
 well](http://weblogs.asp.net/scottgu/archive/2010/10/06/announcing-nupack-asp-net-mvc-3-beta-and-webmatrix-beta-2.aspx "Announcing MVC 3").
 
-[![onward](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC3BetaReleased_12A2D/Onward_thumb_1.jpg "onward")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC3BetaReleased_12A2D/Onward_4.jpg)
+[![onward](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NETMVC3BetaReleased_12A2D/Onward_thumb_1.jpg "onward")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NETMVC3BetaReleased_12A2D/Onward_4.jpg)
 *Credits: Image from ICanHazCheezburger
 http://icanhascheezburger.com/tag/onward/*
 

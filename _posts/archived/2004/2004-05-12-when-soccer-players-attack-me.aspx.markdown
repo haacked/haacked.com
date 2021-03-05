@@ -4,7 +4,7 @@ tags: [soccer,personal]
 redirect_from: "/archive/2004/05/11/when-soccer-players-attack-me.aspx/"
 ---
 
-![fight](/images/fightclub.jpg)This weekend I nearly got into a fight
+![fight](/assets/images/fightclub.jpg)This weekend I nearly got into a fight
 while playing soccer. To give you perspective, this is a friendly co-ed
 game with a group of people I've played with for six years. Player ages
 range from the early twenties up to fifty something.

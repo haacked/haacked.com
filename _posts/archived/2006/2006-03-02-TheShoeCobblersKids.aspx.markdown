@@ -4,7 +4,7 @@ tags: [meta]
 redirect_from: "/archive/2006/03/01/TheShoeCobblersKids.aspx/"
 ---
 
-![Shoeless](https://haacked.com/images/shoeless.jpg) An old saying I’ve
+![Shoeless](https://haacked.com/assets/images/shoeless.jpg) An old saying I’ve
 been using a lot lately is the old saw “A shoe cobbler’s kids go
 shoeless”. Basically, it points out how difficult it is to keep one’s
 own affairs in order when it is one’s job to do so for others. As an

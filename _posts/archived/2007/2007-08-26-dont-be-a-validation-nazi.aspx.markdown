@@ -28,7 +28,7 @@ exactitude on their users.
 
 Dare I say it, but developers can tend to be validation nazis.
 
-[![Seinfeld_s7e6](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhyDoMostWebValidationIgnorePostelsLaw_1135B/Seinfeld_s7e6_1.jpg)](http://en.wikipedia.org/wiki/Image:Seinfeld_s7e6.jpg "Soup Nazi from Seinfeld on Wikipedia")
+[![Seinfeld_s7e6](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhyDoMostWebValidationIgnorePostelsLaw_1135B/Seinfeld_s7e6_1.jpg)](http://en.wikipedia.org/wiki/Image:Seinfeld_s7e6.jpg "Soup Nazi from Seinfeld on Wikipedia")
 
 > **User:** (filling out form)
 > [user+nospam@example.com](mailto:user+nospam@example.com)

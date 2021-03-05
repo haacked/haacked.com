@@ -4,7 +4,7 @@ tags: [dotnet,code,concurrency,dispose]
 redirect_from: "/archive/2004/05/11/timedlock_yet_again_revisited.aspx/"
 ---
 
-![lock](/images/lock.jpg) In an [earlier
+![lock](/assets/images/lock.jpg) In an [earlier
 post](/archive/2004/04/17/timedlock-revisited.aspx), I updated the
 TimedLock class (first introduced in [this
 post](http://www.interact-sw.co.uk/iangblog/2004/03/23/locking)) to

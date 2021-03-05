@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2005/04/17/where-do-these-bruises-come-from.aspx/"
 ---
 
-![Elbow](/images/elbow.jpg) Yesterday Akumi pointed at my elbow in shock
+![Elbow](/assets/images/elbow.jpg) Yesterday Akumi pointed at my elbow in shock
 and asked me what happened.
 
 "What happened to what?" I replied?

@@ -10,7 +10,7 @@ idea, but well executed - it guesses what you are searching for as you
 type it and presents the options as a list. If you've used the
 auto-complete feature in IE, you'll get the picture.
 
-![](/images/GoogleSuggest.jpg) \
+![](/assets/images/GoogleSuggest.jpg) \
 Suuure... This is what you were \*really\* searching for.
 
 So in the above screenshot, I've typed in "good clean f" and Google has

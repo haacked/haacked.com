@@ -8,7 +8,7 @@ I wasn’t prepared to write an end-of-year blog post given the impending
 destruction of the world via a Mayan prophesied cataclysmic fury. But
 since that didn’t pan out I figured I’d better get typing.
 
-![reflections](https://haacked.com/images/haacked_com/WindowsLiveWriter/Reflections-on-2012_104D6/reflections_3.gif "reflections")
+![reflections](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Reflections-on-2012_104D6/reflections_3.gif "reflections")
 
 Those of us that are software developers shouldn’t be too surprised that
 the world didn’t end. After all, how often do projects come in on time
@@ -150,7 +150,7 @@ According to Google Analytics:
 -   **How’d you get here:** Doesn’t take a genius to guess that most
     folks come to my blog via Google search results (1,691,540), which
     probably means most of you aren’t reading this. ![Winking
-    smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/wlEmoticon-winkingsmile_2.png)
+    smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Year-In-Review-2010-Edition_12A01/wlEmoticon-winkingsmile_2.png)
     StackOverflow moves to second place (292,670) followed closely by
     direct visitors (237,862).
 

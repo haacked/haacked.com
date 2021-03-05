@@ -229,7 +229,7 @@ again. I also made the format string slightly longer. Here are the new
 results.
 
 [![named format perf take
-2](https://haacked.com/images/haacked_com/WindowsLiveWriter/NamedFormatsRedux_112F4/named-format-perf_thumb.png "named format perf take 2")](https://haacked.com/images/haacked_com/WindowsLiveWriter/NamedFormatsRedux_112F4/named-format-perf_2.png)As
+2](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NamedFormatsRedux_112F4/named-format-perf_thumb.png "named format perf take 2")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NamedFormatsRedux_112F4/named-format-perf_2.png)As
 you can see, they are all very close, though Henri’s method is the
 fastest.
 

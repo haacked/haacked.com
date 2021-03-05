@@ -9,7 +9,7 @@ of him. But last Thursday he was at Venice Beach so I took a break from
 my work and drove out there. Soon enough, we got to doing that which all
 brothers must do when they haven't seen each other in a while.
 
-![Brothers at the Beach](/images/BrothersAtTheBeach.jpg)
+![Brothers at the Beach](/assets/images/BrothersAtTheBeach.jpg)
 
 Yeah, real nice to see you too!
 

@@ -4,7 +4,7 @@ tags: [politics,humor]
 redirect_from: "/archive/2004/10/14/bible-study-with-bush.aspx/"
 ---
 
-![Bush Prays](/images/bushprays.jpg)Saw this going around the web.
+![Bush Prays](/assets/images/bushprays.jpg)Saw this going around the web.
 Classic!
 
 > Dear President Bush, Thank you for doing so much to educate people

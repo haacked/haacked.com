@@ -11,7 +11,7 @@ However it ignores the danger of a lack of diversity, namely that a
 student might not be exposed to new ideas that challenge pre-existing
 assumptions that would improve the student’s overall education.
 
-![Tunnel Vision](https://haacked.com/images/TunnelVision.jpg) Likewise,
+![Tunnel Vision](https://haacked.com/assets/images/TunnelVision.jpg) Likewise,
 any institution that does not cultivate diverse viewpoints risks being
 caught in institutional tunnel vision. At times, spending too much time
 and energy duplicating the efforts of others due to simple ignorance. I

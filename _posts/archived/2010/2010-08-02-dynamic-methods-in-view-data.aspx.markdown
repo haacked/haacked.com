@@ -9,7 +9,7 @@ In [ASP.NET MVC 3 Preview
 we introduced some syntactic sugar for creating and accessing view data
 using new dynamic properties.
 
-[![sugar](https://haacked.com/images/haacked_com/WindowsLiveWriter/DynamicViewDataIsNotJustForProperties_9E33/sugar_thumb.jpg "sugar")](https://haacked.com/images/haacked_com/WindowsLiveWriter/DynamicViewDataIsNotJustForProperties_9E33/sugar_2.jpg)*Sugar,
+[![sugar](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DynamicViewDataIsNotJustForProperties_9E33/sugar_thumb.jpg "sugar")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DynamicViewDataIsNotJustForProperties_9E33/sugar_2.jpg)*Sugar,
 it’s not just for breakfast.*
 
 Within a controller action, the `ViewModel` property of `Controller`

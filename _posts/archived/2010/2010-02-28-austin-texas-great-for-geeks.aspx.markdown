@@ -14,7 +14,7 @@ companies and people with a passion for technology that couldn’t be
 suppressed.
 
 [![Photo from
-http://www.treehugger.com/](https://haacked.com/images/haacked_com/WindowsLiveWriter/AustinTripReport_ACBF/austin-texas_thumb.jpg "Photo from http://www.treehugger.com/")](https://haacked.com/images/haacked_com/WindowsLiveWriter/AustinTripReport_ACBF/austin-texas_2.jpg)
+http://www.treehugger.com/](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/AustinTripReport_ACBF/austin-texas_thumb.jpg "Photo from http://www.treehugger.com/")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/AustinTripReport_ACBF/austin-texas_2.jpg)
 
 ### Meeting with Dell
 

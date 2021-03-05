@@ -12,7 +12,7 @@ lucky winner of some unclaimed prize money. Below is the letter he
 received.
 
 ![Sweepstakes
-Letter](https://haacked.com/images/haacked_com/WindowsLiveWriter/DeviousScamInWhichTheCheckTheySendYouCle_102B5/scam-letter%5B4%5D.png)
+Letter](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DeviousScamInWhichTheCheckTheySendYouCle_102B5/scam-letter%5B4%5D.png)
 
 They sent him a check for $1,940 dollars and told him that all he needs
 to do to claim the prize money is deposit the check and send back a
@@ -41,7 +41,7 @@ discovered by that victim, my dad would be liable for depositing a
 fraudelent check.
 
 ![The
-Inspectors](https://haacked.com/images/haacked_com/WindowsLiveWriter/DeviousScamInWhichTheCheckTheySendYouCle_102B5/141572%5B4%5D.jpg)What’s
+Inspectors](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DeviousScamInWhichTheCheckTheySendYouCle_102B5/141572%5B4%5D.jpg)What’s
 really makes this scam compelling and likely to sucker a lot of people
 into falling for it is the mistaken belief that once a check clears, the
 money is in the clear. It’s not.

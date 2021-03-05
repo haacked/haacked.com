@@ -14,5 +14,5 @@ section, it might not have a huge negative effect.
 
 Unfortunately, I am in San Jose right now, so I can’t update the release
 with a fix yet. Hopefully Steve can handle it.
-![Smile](https://haacked.com/Images/emotions/smiley-smile.gif)
+![Smile](https://haacked.com/assets/images/emotions/smiley-smile.gif)
 

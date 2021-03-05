@@ -4,7 +4,7 @@ tags: [code,oss]
 redirect_from: "/archive/2006/08/01/OpenSourceIsFreeLikeAFlower.aspx/"
 ---
 
-![Orchid](https://haacked.com/images/orchid.jpg) [Jeff “The CodingHorror”
+![Orchid](https://haacked.com/assets/images/orchid.jpg) [Jeff “The CodingHorror”
 Atwood](http://www.codinghorror.com/blog/ "Coding Horror") takes [issue
 with the
 idea](http://www.codinghorror.com/blog/archives/000649.html "Open Source: Free as in *Free*")

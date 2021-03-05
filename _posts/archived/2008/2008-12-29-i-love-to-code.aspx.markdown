@@ -28,18 +28,18 @@ with my family, which was wonderful (*cue gratuitous picture of kid*)! I
 trained my son in Ninja acrobatics.
 
 [![cody ninja
-acrobatics](https://haacked.com/images/haacked_com/WindowsLiveWriter/ILoveToCode_92E2/cody-ninja-acrobatics_thumb.jpg "cody ninja acrobatics")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ILoveToCode_92E2/cody-ninja-acrobatics_2.jpg) 
+acrobatics](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ILoveToCode_92E2/cody-ninja-acrobatics_thumb.jpg "cody ninja acrobatics")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ILoveToCode_92E2/cody-ninja-acrobatics_2.jpg) 
 
 I got my brother completely hooked on [Desktop Tower
 Defense](http://www.kongregate.com/games/preecep/desktop-tower-defense-1-5 "Desktop Tower Defense").
 
 [![brian playing desktop tower
-defense](https://haacked.com/images/haacked_com/WindowsLiveWriter/ILoveToCode_92E2/brian-playing-desktop-tower-defense_thumb.jpg "brian playing desktop tower defense")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ILoveToCode_92E2/brian-playing-desktop-tower-defense_2.jpg)
+defense](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ILoveToCode_92E2/brian-playing-desktop-tower-defense_thumb.jpg "brian playing desktop tower defense")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ILoveToCode_92E2/brian-playing-desktop-tower-defense_2.jpg)
 
 And tried to figure out what sort of mischief my son was involved in, as
 that face is as guilty as sin.
 
-[![mischief](https://haacked.com/images/haacked_com/WindowsLiveWriter/ILoveToCode_92E2/mischief_thumb.jpg "mischief")](https://haacked.com/images/haacked_com/WindowsLiveWriter/ILoveToCode_92E2/mischief_2.jpg)
+[![mischief](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ILoveToCode_92E2/mischief_thumb.jpg "mischief")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ILoveToCode_92E2/mischief_2.jpg)
 
 However, along with all that family fun, I spent nearly every minute of
 downtime hacking on

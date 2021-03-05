@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/12/04/Parkinsons_Law_Eats_Silver_Bullets.aspx/"
 ---
 
 ![Silver Bullet: From
-http://www.tejasthumpcycles.com/Parts/LeversGripsctrls/Silver\_Bullet/Silver\_Bullet\_Shift\_Brake.jpg](https://haacked.com/images/haacked_com/WindowsLiveWriter/TradeoffsWhenMinimizingTheImpactOfChange_1D54/Silver_Bullet_thumb%5B1%5D.jpg)
+http://www.tejasthumpcycles.com/Parts/LeversGripsctrls/Silver\_Bullet/Silver\_Bullet\_Shift\_Brake.jpg](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TradeoffsWhenMinimizingTheImpactOfChange_1D54/Silver_Bullet_thumb%5B1%5D.jpg)
 In his essay [No Silver Bullet: Essence and Accidents of Software
 Engineering](http://www-inst.eecs.berkeley.edu/~maratb/readings/NoSilverBullet.html "No Silver Bullet"),
 Fred Brooks makes the following postulate:
@@ -47,9 +47,9 @@ to an older game like [Ultima
 I](http://www.uo.com/archive/ultima1/ "Ultima I").
 
 [![Oblivion
-Screenshot](https://haacked.com/images/haacked_com/WindowsLiveWriter/ParkinsonsLawEatsSilverBullets_C3B8/Oblivion762892_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/ParkinsonsLawEatsSilverBullets_C3B8/Oblivion7628922.jpg)
+Screenshot](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ParkinsonsLawEatsSilverBullets_C3B8/Oblivion762892_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ParkinsonsLawEatsSilverBullets_C3B8/Oblivion7628922.jpg)
 [![Ultima
-Screenshot](https://haacked.com/images/haacked_com/WindowsLiveWriter/ParkinsonsLawEatsSilverBullets_C3B8/Ultima1_thumb1.gif)](https://haacked.com/images/haacked_com/WindowsLiveWriter/ParkinsonsLawEatsSilverBullets_C3B8/Ultima13.gif)
+Screenshot](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ParkinsonsLawEatsSilverBullets_C3B8/Ultima1_thumb1.gif)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ParkinsonsLawEatsSilverBullets_C3B8/Ultima13.gif)
 
 In a way, this is [Parkinson’s
 Law](http://en.wikipedia.org/wiki/Parkinson’s_law "Parkinson’s Law on Wikipedia")
@@ -63,7 +63,7 @@ I’ll restate it to apply to software engineering:
 > productivity gains due to silver bullets.
 
 What do you think, is that sufficiently original to call it *Haack’s
-Law*? ![Wink](https://haacked.com/Images/emotions/smiley-wink.gif)
+Law*? ![Wink](https://haacked.com/assets/images/emotions/smiley-wink.gif)
 
 In any case, I think Joel’s original point still stands. **Building
 software *to meet current needs*, will always be hard.**  When you think

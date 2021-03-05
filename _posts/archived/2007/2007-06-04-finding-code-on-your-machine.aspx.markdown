@@ -12,7 +12,7 @@ responsible for the search engine, the source code index, the forums,
 the blog and the Content Management System.
 
 ![magnifying
-glass](https://haacked.com/images/haacked_com/WindowsLiveWriter/SearchingForCodeOnYourMachine_EC44/magnifying-glass_1.jpg)
+glass](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SearchingForCodeOnYourMachine_EC44/magnifying-glass_1.jpg)
 My counterpart at Koders, [Ben
 McDonald](http://beebe4.blogspot.com/ "Ben McDonald’s blog"), is
 responsible for our client editions of the search engine which include

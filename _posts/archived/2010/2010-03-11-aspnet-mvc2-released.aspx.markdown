@@ -8,7 +8,7 @@ It’s that time of year again when the sakura (cherry blossoms) bloom and
 allergies kick into high gear. When the drive home is no longer shrouded
 in darkness and when the ASP.NET team releases Software!
 
-[![sakura](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2Released_6E42/sakura_3.jpg "sakura")](http://www.sxc.hu/photo/1172308 "Sakura - Cherry Blossoms (c) Masaki03 license: http://www.sxc.hu/txt/license.html")Earlier
+[![sakura](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2Released_6E42/sakura_3.jpg "sakura")](http://www.sxc.hu/photo/1172308 "Sakura - Cherry Blossoms (c) Masaki03 license: http://www.sxc.hu/txt/license.html")Earlier
 today we released the RTM of ASP.NET MVC 2 for Visual Studio 2008 SP1.
 See [Scott Guthrie’s announcement about
 it](http://weblogs.asp.net/scottgu/archive/2010/03/11/asp-net-mvc-2-released.aspx "Announcing ASP.NET MVC 2").

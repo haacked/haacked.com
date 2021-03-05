@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/09/19/The_Mix_Conferences_Will_End_With_09.aspx/"
 ---
 
 [![Mix06
-Hand](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheMixConferencesWillEndWith09_14993/mix06_web_hand_thumb1.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/TheMixConferencesWillEndWith09_14993/mix06_web_hand3.jpg)
+Hand](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheMixConferencesWillEndWith09_14993/mix06_web_hand_thumb1.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TheMixConferencesWillEndWith09_14993/mix06_web_hand3.jpg)
 I am going to pull a Nostradamus here and predict that the Mix series of
 conferences (did I ever tell you how much I loved
 [Mix06](http://mix06.com/)?) will end with Mix09 if they even reach that

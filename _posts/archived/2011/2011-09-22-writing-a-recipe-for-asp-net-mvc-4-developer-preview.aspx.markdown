@@ -9,7 +9,7 @@ MVC 4 **Developer Preview**. You’ll see we call out those two words a
 lot to cover our butt. The specifics about the feature **will change** 
 and this post will become out-dated. You’ve been warned.*
 
-[![recipe](https://haacked.com/images/haacked_com/WindowsLiveWriter/Writing-a-Recipe-in-ASP.NET-MVC-4_1246F/recipe_thumb.jpg "recipe")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Writing-a-Recipe-in-ASP.NET-MVC-4_1246F/recipe_2.jpg)
+[![recipe](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Writing-a-Recipe-in-ASP.NET-MVC-4_1246F/recipe_thumb.jpg "recipe")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Writing-a-Recipe-in-ASP.NET-MVC-4_1246F/recipe_2.jpg)
 *All good recipes call for a significant amount of garlic.*
 
 Introduction
@@ -21,7 +21,7 @@ applications with ASP.NET MVC
 In the talk, I demonstrated a recipe I wrote that automates the process
 to create mobile versions of desktop views.
 
-![view-mobilizer-recipe](https://haacked.com/images/haacked_com/WindowsLiveWriter/Writing-a-Recipe-in-ASP.NET-MVC-4_1246F/view-mobilizer-recipe_3.png "view-mobilizer-recipe")
+![view-mobilizer-recipe](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Writing-a-Recipe-in-ASP.NET-MVC-4_1246F/view-mobilizer-recipe_3.png "view-mobilizer-recipe")
 
 *Recipes are a great way to show off your lack of UI design skills like
 me!*
@@ -113,7 +113,7 @@ project to set up everything you need to write your first recipe.
 The following screenshot shows an example of a class library project
 after installing the recipe SDK package.
 
-![recipe-class-lib](https://haacked.com/images/haacked_com/WindowsLiveWriter/Writing-a-Recipe-in-ASP.NET-MVC-4_1246F/recipe-class-lib_3.png "recipe-class-lib")
+![recipe-class-lib](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Writing-a-Recipe-in-ASP.NET-MVC-4_1246F/recipe-class-lib_3.png "recipe-class-lib")
 
 Notice that it adds a reference to the
 *Microsoft.VisualStudio.Web.Mvc.Extensibility.1.0.dll* assembly and adds
@@ -237,7 +237,7 @@ package with the recipe into the solution.
 
 To run the recipe, right click on a folder and select *Add* \> *Run
 Recipe*.
-[![run-recipe-menu](https://haacked.com/images/haacked_com/WindowsLiveWriter/Writing-a-Recipe-in-ASP.NET-MVC-4_1246F/run-recipe-menu_thumb.png "run-recipe-menu")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Writing-a-Recipe-in-ASP.NET-MVC-4_1246F/run-recipe-menu_2.png)
+[![run-recipe-menu](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Writing-a-Recipe-in-ASP.NET-MVC-4_1246F/run-recipe-menu_thumb.png "run-recipe-menu")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Writing-a-Recipe-in-ASP.NET-MVC-4_1246F/run-recipe-menu_2.png)
 
 Right now you’re probably thinking that’s an odd menu option to launch a
 recipe. And now you’re thinking, wow, did I just read your mind? Yes, we
@@ -249,7 +249,7 @@ moment, we think moving recipes to a top level menu makes more sense.
 The *Run Recipe* menu option displays the recipe dialog with a list of
 installed recipes that are applicable in the current context.
 
-[![run-recipe-dialog](https://haacked.com/images/haacked_com/WindowsLiveWriter/Writing-a-Recipe-in-ASP.NET-MVC-4_1246F/run-recipe-dialog_thumb.png "run-recipe-dialog")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Writing-a-Recipe-in-ASP.NET-MVC-4_1246F/run-recipe-dialog_2.png)
+[![run-recipe-dialog](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Writing-a-Recipe-in-ASP.NET-MVC-4_1246F/run-recipe-dialog_thumb.png "run-recipe-dialog")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Writing-a-Recipe-in-ASP.NET-MVC-4_1246F/run-recipe-dialog_2.png)
 
 As you can see, I only have one recipe in my solution. Note that a
 recipe can control its own icon.

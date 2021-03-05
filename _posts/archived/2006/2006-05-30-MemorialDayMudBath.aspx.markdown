@@ -4,7 +4,7 @@ tags: [personal]
 redirect_from: "/archive/2006/05/29/MemorialDayMudBath.aspx/"
 ---
 
-![Mud Bath](https://haacked.com/images/Mud.jpg)My wife received a free
+![Mud Bath](https://haacked.com/assets/images/Mud.jpg)My wife received a free
 day at the [Glen Ivy Hot Springs
 Spa](http://www.glenivy.com/ "Glen Ivy") from our friends Dan and Judy
 (the same Dan to whom my [last non-geek

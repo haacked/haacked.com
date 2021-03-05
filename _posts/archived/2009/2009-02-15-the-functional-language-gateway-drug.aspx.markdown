@@ -24,7 +24,7 @@ What I’ve slowly come to realize though is that the more I use and
 understand the Linq extensions in C#, the more functional my
 programming has become in certain cases.
 
-**[![450px-Native\_American\_tobacco\_flower](https://haacked.com/images/haacked_com/WindowsLiveWriter/LinqIsNotJustForSQL_E18F/450px-Native_American_tobacco_flower_thumb_1.jpg "450px-Native_American_tobacco_flower")](https://haacked.com/images/haacked_com/WindowsLiveWriter/LinqIsNotJustForSQL_E18F/450px-Native_American_tobacco_flower_4.jpg "Tobacco Flower: Photographer: William Rafti of the William Rafti Institute")It
+**[![450px-Native\_American\_tobacco\_flower](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/LinqIsNotJustForSQL_E18F/450px-Native_American_tobacco_flower_thumb_1.jpg "450px-Native_American_tobacco_flower")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/LinqIsNotJustForSQL_E18F/450px-Native_American_tobacco_flower_4.jpg "Tobacco Flower: Photographer: William Rafti of the William Rafti Institute")It
 turns out that C# is the ultimate gateway drug for functional
 programming^1^.** It has just enough functional elements to give you a
 taste for functional, but with enough friction at times (for example,

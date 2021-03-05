@@ -34,7 +34,7 @@ logic for watching the file system for me.
 In this case, I simply added a new folder named *App\_Code* to my
 project and copied *Routes.cs* to that folder.
 
-![routes-in-app\_code](https://haacked.com/images/haacked_com/WindowsLiveWriter/EditableRoutesInMediumTrust_9C13/routes-in-app_code_3.png "routes-in-app_code")
+![routes-in-app\_code](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/EditableRoutesInMediumTrust_9C13/routes-in-app_code_3.png "routes-in-app_code")
 
 I then added a new method to `RouteRegistrationExtensions`. (Note that
 the actual code has some null reference checking which I omitted here.)

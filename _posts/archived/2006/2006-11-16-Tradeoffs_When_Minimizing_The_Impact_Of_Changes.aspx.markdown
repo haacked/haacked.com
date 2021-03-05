@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/11/15/Tradeoffs_When_Minimizing_The_Impact_Of_Chan
 ---
 
 [![Silver Bullet: From
-http://www.tejasthumpcycles.com/Parts/LeversGripsctrls/Silver\_Bullet/Silver\_Bullet\_Shift\_Brake.jpg](https://haacked.com/images/haacked_com/WindowsLiveWriter/TradeoffsWhenMinimizingTheImpactOfChange_1D54/Silver_Bullet_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/TradeoffsWhenMinimizingTheImpactOfChange_1D54/Silver_Bullet%5B3%5D.jpg)
+http://www.tejasthumpcycles.com/Parts/LeversGripsctrls/Silver\_Bullet/Silver\_Bullet\_Shift\_Brake.jpg](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TradeoffsWhenMinimizingTheImpactOfChange_1D54/Silver_Bullet_thumb%5B1%5D.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/TradeoffsWhenMinimizingTheImpactOfChange_1D54/Silver_Bullet%5B3%5D.jpg)
 In a recent post I talked about how [good design attempts to minimize
 the impact of
 changes](https://haacked.com/archive/2006/11/13/Good_Design_Minimizes_The_Impact_Of_Changes.aspx "Good Design Minimizes Changes")

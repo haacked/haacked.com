@@ -4,7 +4,7 @@ tags: [humor]
 redirect_from: "/archive/2004/08/31/joke-of-the-day-restroom-etiquette.aspx/"
 ---
 
-![Restroom](/images/restroom.jpg) (A funny story I heard from somwhere.
+![Restroom](/assets/images/restroom.jpg) (A funny story I heard from somwhere.
 Supposedly its a true story.)
 
 I was barely sitting down when I heard a voice from the other stall

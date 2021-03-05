@@ -5,7 +5,7 @@ redirect_from: "/archive/2007/03/15/increase-productivity-with-search-driven-dev
 ---
 
 [![Search Magnifying
-Glass](https://haacked.com/images/haacked_com/WindowsLiveWriter/IncreaseProductivityWithSearchDrivenDeve_E9CF/magnifyGlass00009_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/IncreaseProductivityWithSearchDrivenDeve_E9CF/magnifyGlass00009%5B2%5D.jpg)
+Glass](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IncreaseProductivityWithSearchDrivenDeve_E9CF/magnifyGlass00009_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IncreaseProductivityWithSearchDrivenDeve_E9CF/magnifyGlass00009%5B2%5D.jpg)
 With all the advances in software development in the past few years, I
 would have to point to [Google](http://google.com/ "Google") and [Google
 Groups](http://groups.google.com/ "Google Groups") as the two tools that
@@ -38,7 +38,7 @@ Here’s a screenshot I took of SmartSearch^TM^ in action. After typing
 out the method name, a moment later, the result shows up.
 
 ![Screenshot of Koders SmartSearch\<sup\>TM\</sup\> in
-action.](https://haacked.com/images/haacked_com/WindowsLiveWriter/IncreaseProductivityWithSearchDrivenDeve_E9CF/image%7B0%7D%5B13%5D.png)
+action.](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IncreaseProductivityWithSearchDrivenDeve_E9CF/image%7B0%7D%5B13%5D.png)
 
 The Smart Search feature is a bit Clippy like at times and sometimes
 exhibits a bit of lag, making it less useful than it could be. You may
@@ -52,7 +52,7 @@ already 100 implementations of this method. Let’s see how mine stacks
 up. Avert my eyes from the GPL licensed code!*
 
 ![Search
-Box](https://haacked.com/images/haacked_com/WindowsLiveWriter/IncreaseProductivityWithSearchDrivenDeve_E9CF/image%7B0%7D%5B18%5D.png)
+Box](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/IncreaseProductivityWithSearchDrivenDeve_E9CF/image%7B0%7D%5B18%5D.png)
 
 Under the hood, these plugins make use of the [Koders.com search
 engine](http://koders.com/ "Search Code"). This engine directly indexes

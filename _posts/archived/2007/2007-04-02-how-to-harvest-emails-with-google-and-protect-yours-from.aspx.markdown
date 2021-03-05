@@ -14,7 +14,7 @@ Substitute *gmail dot com* with your favorite email domain.
 **The problem with this approach is that it is trivially easy to harvest
 email addresses in this format with Google.**
 
-![Harvest](https://haacked.com/images/haacked_com/WindowsLiveWriter/HowtoHarvestEmailsWithGoogle_10AB8/harvest%5B4%5D.jpg)
+![Harvest](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HowtoHarvestEmailsWithGoogle_10AB8/harvest%5B4%5D.jpg)
 
 First, do a search for the following text (*include the quotes*):
 

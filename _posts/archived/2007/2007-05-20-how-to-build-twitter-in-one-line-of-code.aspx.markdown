@@ -12,7 +12,7 @@ Here’s the code
 
 And the result
 
-![Can working on the server](https://haacked.com/Images/haacked_com/WindowsLiveWriter/twitter-maintenance.gif)
+![Can working on the server](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/twitter-maintenance.gif)
 
 At least this seems to be my experience with Twitter lately.
 

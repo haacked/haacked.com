@@ -44,14 +44,14 @@ against so it’s not necessary to actually *reference*****each of these
 assemblies. They just need to be available on the machine either from
 the GAC or in the bin folder.
 
-![referenced-assemblies](https://haacked.com/images/haacked_com/WindowsLiveWriter/Deploying-ASP.NET-MVC-3-Assemblies_12045/referenced-assemblies_3.png "referenced-assemblies")
+![referenced-assemblies](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Deploying-ASP.NET-MVC-3-Assemblies_12045/referenced-assemblies_3.png "referenced-assemblies")
 
 But the Visual Web Developer team has you covered. They added a feature
 specifically for adding these deployable assemblies. Right click on the
 project and select **Add Deployable Assemblies** and you’ll see the
 following dialog.
 
-![add-deployable-assemblies](https://haacked.com/images/haacked_com/WindowsLiveWriter/Deploying-ASP.NET-MVC-3-Assemblies_12045/add-deployable-assemblies_3.png "add-deployable-assemblies")
+![add-deployable-assemblies](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Deploying-ASP.NET-MVC-3-Assemblies_12045/add-deployable-assemblies_3.png "add-deployable-assemblies")
 
 When building an ASP.NET MVC application, you only need to check the
 first option. Ignore the fact that the second one says “Razor”. “ASP.NET
@@ -63,7 +63,7 @@ strictly necessary if you’ve installed SQL Server Compact via NuGet.
 
 So what happens when you click “OK”?
 
-![bin-deployable-assemlies](https://haacked.com/images/haacked_com/WindowsLiveWriter/Deploying-ASP.NET-MVC-3-Assemblies_12045/bin-deployable-assemlies_3.png "bin-deployable-assemlies")
+![bin-deployable-assemlies](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Deploying-ASP.NET-MVC-3-Assemblies_12045/bin-deployable-assemlies_3.png "bin-deployable-assemlies")
 
 A special folder named **\_bin\_deployableAssemblies** is created and
 the necessary assemblies are copied into this folder. Web projects have

@@ -56,7 +56,7 @@ Studio 2008 installed (named “*Microsoft ASP.NET MVC 2 – Visual Studio
 2008 Tools*”), you’ll also need to uninstall that, but do not uninstall
 the MVC tooling for VS 2010.
 
-[![add-remove-dialog](https://haacked.com/images/haacked_com/WindowsLiveWriter/GettingAS.NETMVC2RC2onVisualStudio2010RC_13EBF/add-remove-dialog_thumb_1.png "add-remove-dialog")](https://haacked.com/images/haacked_com/WindowsLiveWriter/GettingAS.NETMVC2RC2onVisualStudio2010RC_13EBF/add-remove-dialog_4.png) 
+[![add-remove-dialog](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GettingAS.NETMVC2RC2onVisualStudio2010RC_13EBF/add-remove-dialog_thumb_1.png "add-remove-dialog")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/GettingAS.NETMVC2RC2onVisualStudio2010RC_13EBF/add-remove-dialog_4.png) 
 
 At this point, you should only have *Microsoft ASP.NET MVC 2 – Visual
 Studio Tools for VS 2010* installed. You may now run the installer for

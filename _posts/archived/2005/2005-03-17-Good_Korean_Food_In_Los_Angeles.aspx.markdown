@@ -4,7 +4,7 @@ tags: [travel]
 redirect_from: "/archive/2005/03/16/Good_Korean_Food_In_Los_Angeles.aspx/"
 ---
 
-![Korean Food](/images/KoreanFood.jpg) I've been told that for the best Korean food in the world, you need look no further than Los Angeles. The rationale is that you have a vibrant Korean community in Koreatown (affectionately known as K-Town) with access to better quality meat and vegetables than exists in the homeland.
+![Korean Food](/assets/images/KoreanFood.jpg) I've been told that for the best Korean food in the world, you need look no further than Los Angeles. The rationale is that you have a vibrant Korean community in Koreatown (affectionately known as K-Town) with access to better quality meat and vegetables than exists in the homeland.
 
 I'm not ready to start an international food fight by saying whether or not I agree with that remark, but I will tell you about some of my favorite places for Korean food in Los Angeles. This is the short list.
 

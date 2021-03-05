@@ -10,7 +10,7 @@ I’d try my hand at it.
 
 Hey! Here’s a random picture of a goat.
 
-![089](https://haacked.com/images/haacked_com/WindowsLiveWriter/NuGet-Roundup-December-Edition_A5E7/089.jpg "089")
+![089](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NuGet-Roundup-December-Edition_A5E7/089.jpg "089")
 
 I also tend to post links from my twitter account
 [http://twitter.com/haacked](http://twitter.com/haacked).
@@ -46,5 +46,5 @@ I also tend to post links from my twitter account
 Well that’s it for now. If you found this helpful, let me know and I’ll
 try to do it once in a while. Either once a quarter or once a month
 depending on interest.
-![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/NuGet-Roundup-December-Edition_A5E7/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NuGet-Roundup-December-Edition_A5E7/wlEmoticon-smile_2.png)
 

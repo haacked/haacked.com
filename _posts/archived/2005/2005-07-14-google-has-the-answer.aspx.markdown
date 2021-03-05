@@ -4,7 +4,7 @@ tags: [humor,tech]
 redirect_from: "/archive/2005/07/13/google-has-the-answer.aspx/"
 ---
 
-![Calculator](https://haacked.com/images/Calculator.gif) Try searching
+![Calculator](https://haacked.com/assets/images/Calculator.gif) Try searching
 for the following search term in [Google](http://google.com/)...
 
 > The Answer To Life The Universe and Everything

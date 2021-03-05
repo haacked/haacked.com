@@ -5,7 +5,7 @@ redirect_from: "/archive/2006/09/13/Proposed_Extensions_To_The_XFN_Microformat.a
 ---
 
 [![Source:
-http://www.hollywoodjesus.com/movie/friends/20.jpg](https://haacked.com/images/haacked_com/WindowsLiveWriter/ProposedExtensionsToTheXFNMicroformat_121EE/CastOfFriends_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/ProposedExtensionsToTheXFNMicroformat_121EE/CastOfFriends2.jpg)
+http://www.hollywoodjesus.com/movie/friends/20.jpg](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ProposedExtensionsToTheXFNMicroformat_121EE/CastOfFriends_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ProposedExtensionsToTheXFNMicroformat_121EE/CastOfFriends2.jpg)
 If you’ve read my blog you know I have a bit of a [thing for
 Microformats](https://haacked.com/archive/2006/05/11/IntroductionToMicroformatsArticle.aspx). 
 I once wrote a little [special effect

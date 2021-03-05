@@ -37,7 +37,7 @@ great answer,
 
 So simple I’ll smack myself every hour for a week for not thinking of
 it.
-![Smile](https://haacked.com/images/haacked_com/WindowsLiveWriter/NuPack-Issues-Up-For-Grabs_7BB8/wlEmoticon-smile_2.png)
+![Smile](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NuPack-Issues-Up-For-Grabs_7BB8/wlEmoticon-smile_2.png)
 
 Unfortunately, the process for accepting a contributor agreement is not
 yet fully automated (the [Outercurve

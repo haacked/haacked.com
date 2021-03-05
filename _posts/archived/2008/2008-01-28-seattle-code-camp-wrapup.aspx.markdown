@@ -4,7 +4,7 @@ tags: [conferences]
 redirect_from: "/archive/2008/01/27/seattle-code-camp-wrapup.aspx/"
 ---
 
-![camping](https://haacked.com/images/haacked_com/WindowsLiveWriter/SeattleCodeCampWrapup_B730/202619834_697395adda_b_3.jpg)
+![camping](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SeattleCodeCampWrapup_B730/202619834_697395adda_b_3.jpg)
 The [Seattle Code Camp](https://seattle.codecamp.us/default.aspx) (which
 despite the misleading photo, isn’t a camping trip) is now over and I
 have nothing but good things to say about it. I didn’t get a chance to

@@ -51,7 +51,7 @@ NuGet supports these scenarios with a combination of two features:
 For example, suppose I have a folder on my desktop named *packages* and
 drop in a couple of packages that I created like so:
 
-![packages-folder](https://haacked.com/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/packages-folder_91c16aae-1e0a-4997-8b50-992692dfbe74.png "packages-folder")
+![packages-folder](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/packages-folder_91c16aae-1e0a-4997-8b50-992692dfbe74.png "packages-folder")
 
 I can add that director to the NuGet settings. To get to the settings,
 go to the Visual Studio *Tools*| *Options* dialog and scroll down to
@@ -63,36 +63,36 @@ next to the list of package sources. This brings up the Options dialog
 (*click to see larger image*).
 
 [![Package Manager
-Options](https://haacked.com/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/Options_thumb.png "Package Manager Options")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/Options_2.png)
+Options](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/Options_thumb.png "Package Manager Options")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/Options_2.png)
 
 Type in the path to your packages folder and then click the *Add*button.
 Your local directory is now added as another package feed source.
 
-[![Options-with-local-source-added](https://haacked.com/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/Options-with-local-source-added_thumb.png "Options-with-local-source-added")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/Options-with-local-source-added_2.png)
+[![Options-with-local-source-added](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/Options-with-local-source-added_thumb.png "Options-with-local-source-added")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/Options-with-local-source-added_2.png)
 
 When you go back to the *Package Manager Console*, you can choose this
 new local package source and list the packages in that source.
 
 [![MvcApplication7 - Microsoft Visual Studio (Administrator)
-(2)](https://haacked.com/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/MvcApplication7%20-%20Microsoft%20Visual%20Studio%20(Administrator)%20(2)_thumb.png "MvcApplication7 - Microsoft Visual Studio (Administrator) (2)")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/MvcApplication7%20-%20Microsoft%20Visual%20Studio%20(Administrator)%20(2)_2.png)
+(2)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/MvcApplication7%20-%20Microsoft%20Visual%20Studio%20(Administrator)%20(2)_thumb.png "MvcApplication7 - Microsoft Visual Studio (Administrator) (2)")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/MvcApplication7%20-%20Microsoft%20Visual%20Studio%20(Administrator)%20(2)_2.png)
 
 You can also install packages from your local directory. If you’re
 creating packages, this is a great way to test them out without having
 to publish them online anywhere.[![MvcApplication7 - Microsoft Visual
 Studio (Administrator)
-(4)](https://haacked.com/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/MvcApplication7%20-%20Microsoft%20Visual%20Studio%20(Administrator)%20(4)_thumb.png "MvcApplication7 - Microsoft Visual Studio (Administrator) (4)")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/MvcApplication7%20-%20Microsoft%20Visual%20Studio%20(Administrator)%20(4)_2.png)
+(4)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/MvcApplication7%20-%20Microsoft%20Visual%20Studio%20(Administrator)%20(4)_thumb.png "MvcApplication7 - Microsoft Visual Studio (Administrator) (4)")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/MvcApplication7%20-%20Microsoft%20Visual%20Studio%20(Administrator)%20(4)_2.png)
 
 Note that if you launch the *Add Package Reference Dialog*, you won’t
 see the local package feed unless you’ve made it the default package
 source. This limitation is only temporary as we’re changing the dialog
 to allow you to select the package source.
 
-[![Options-setting-default](https://haacked.com/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/Options-setting-default_thumb.png "Options-setting-default")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/Options-setting-default_2.png)
+[![Options-setting-default](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/Options-setting-default_thumb.png "Options-setting-default")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/Options-setting-default_2.png)
 
 Now when you launch the *Add Package Reference Dialog*, you’ll see your
 local packages.
 
-[![add-package-reference-local-packages](https://haacked.com/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/add-package-reference-local-packages_thumb.png "add-package-reference-local-packages")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/add-package-reference-local-packages_2.png)
+[![add-package-reference-local-packages](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/add-package-reference-local-packages_thumb.png "add-package-reference-local-packages")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Local-Package-Sources-for-NuPack_8B1A/add-package-reference-local-packages_2.png)
 
 Please note, as of CTP 1, if one of these local packages has a
 dependency on a package in another registered feed, it won’t work.

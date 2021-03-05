@@ -4,7 +4,7 @@ tags: [conferences]
 redirect_from: "/archive/2004/06/01/a-tech-ed-confession.aspx/"
 ---
 
-![Unreal Tournament 2004 Cover](/images/UT2004.jpg) I have a confession
+![Unreal Tournament 2004 Cover](/assets/images/UT2004.jpg) I have a confession
 to make. While at Tech-Ed, I did some bad things. Please look upon me
 not with a judging eye, but try to have a forgiving stance.
 

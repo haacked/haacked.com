@@ -5,7 +5,7 @@ redirect_from: "/archive/2007/06/04/dvorak-keyboard-layout-of-champions.aspx/"
 ---
 
 [![Underwood
-Keyboard](https://haacked.com/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/UnderwoodKeyboard_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/UnderwoodKeyboard.jpg "Underwood Keyboard")One
+Keyboard](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/UnderwoodKeyboard_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/UnderwoodKeyboard.jpg "Underwood Keyboard")One
 thing that never gets old is when someone visits me and asks to
 check some email on my computer.
 
@@ -19,7 +19,7 @@ wrong keys, but see the right words show up on the screen.
 **It’s my dirty little secret—I type in Dvorak**.
 
 ![dvorak
-layout](https://haacked.com/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/dvorak_1.png)
+layout](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/dvorak_1.png)
 
 What keeps it interesting is that I type on a physical QWERTY keyboard,
 but use the Dvorak keyboard layout by switching my *Input Language*
@@ -27,7 +27,7 @@ setting within the *Regional and Language* Control Panel applet. This
 explains why it looks like I tap the wrong keys if you watch me type.
 
 [![Text Services and Input
-Languages](https://haacked.com/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/Text%20Services%20and%20Input%20Languages_thumb.png)](https://haacked.com/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/Text%20Services%20and%20Input%20Languages.png)
+Languages](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/Text%20Services%20and%20Input%20Languages_thumb.png)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DvorakKeyboardLayoutofChampions_14E86/Text%20Services%20and%20Input%20Languages.png)
 
 I switched to Dvorak over five years ago as one of several desperate
 measures I took to attempt to reduce [the pain of

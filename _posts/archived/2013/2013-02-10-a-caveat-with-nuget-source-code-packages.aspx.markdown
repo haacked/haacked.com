@@ -44,7 +44,7 @@ package and also the *SimpleOtherStuff* package, where
 The following diagram outlines the NuGet package dependency graph. It’s
 very simple.
 
-[![nuget-dependency-graph](https://haacked.com/images/haacked_com/WindowsLiveWriter/Caveats-with-Source-Only-NuGet-Packages_B2AB/nuget-dependency-graph_thumb.png "nuget-dependency-graph")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Caveats-with-Source-Only-NuGet-Packages_B2AB/nuget-dependency-graph_2.png)
+[![nuget-dependency-graph](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Caveats-with-Source-Only-NuGet-Packages_B2AB/nuget-dependency-graph_thumb.png "nuget-dependency-graph")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Caveats-with-Source-Only-NuGet-Packages_B2AB/nuget-dependency-graph_2.png)
 
 Now suppose we learn that *SimpleJson* 1.0.0 has a very bad security
 issue and we need to upgrade to the just released *SimpleJson* 1.1.
@@ -52,7 +52,7 @@ issue and we need to upgrade to the just released *SimpleJson* 1.1.
 So we do just that. Everything should be hunky dory as we’re now using
 *SimpleJson* 1.0.0 everywhere. Or are we?
 
-[![nuget-dependency-graph-2](https://haacked.com/images/haacked_com/WindowsLiveWriter/Caveats-with-Source-Only-NuGet-Packages_B2AB/nuget-dependency-graph-2_thumb.png "nuget-dependency-graph-2")](https://haacked.com/images/haacked_com/WindowsLiveWriter/Caveats-with-Source-Only-NuGet-Packages_B2AB/nuget-dependency-graph-2_2.png)
+[![nuget-dependency-graph-2](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Caveats-with-Source-Only-NuGet-Packages_B2AB/nuget-dependency-graph-2_thumb.png "nuget-dependency-graph-2")](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Caveats-with-Source-Only-NuGet-Packages_B2AB/nuget-dependency-graph-2_2.png)
 
 If all the references to *SimpleJson* were assembly references, we’d be
 fine. But recall, it’s a source code package. Even though we upgraded it

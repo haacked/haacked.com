@@ -35,12 +35,12 @@ Here are some screenshots of it in action. When I click the submit
 button, it validates all the fields. The email field is validated after
 the input loses focus.
 
-![validation](https://haacked.com/images/haacked_com/WindowsLiveWriter/CombiningJQueryFormValidationandAjaxSubm_C96D/validation_3.png "validation")
+![validation](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CombiningJQueryFormValidationandAjaxSubm_C96D/validation_3.png "validation")
 
 When I correct the data and click “Send Comment”, it will asynchronously
 display the posted comment.
 
-![async-comment-response](https://haacked.com/images/haacked_com/WindowsLiveWriter/CombiningJQueryFormValidationandAjaxSubm_C96D/async-comment-response_3.png "async-comment-response")
+![async-comment-response](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/CombiningJQueryFormValidationandAjaxSubm_C96D/async-comment-response_3.png "async-comment-response")
 
 Let’s look at the code to make this happen. Here’s the relevant HTML
 markup in my Default.aspx page:

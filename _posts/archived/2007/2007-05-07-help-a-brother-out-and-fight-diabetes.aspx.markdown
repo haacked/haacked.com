@@ -10,7 +10,7 @@ mission to raise $50,000 and then some for the American Diabetes
 Association to help fund the search for a cure.
 
 [![Team Hanselman Fight
-Diabetes](https://haacked.com/images/haacked_com/WindowsLiveWriter/HelpaBrotherOutAndFightDiabetes_C8BD/hanselmanbadge2255.png)](http://hanselman.com/fightdiabetes "Team Hanselman Fights Diabetes")
+Diabetes](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/HelpaBrotherOutAndFightDiabetes_C8BD/hanselmanbadge2255.png)](http://hanselman.com/fightdiabetes "Team Hanselman Fights Diabetes")
 If you don’t know Scott, you should definitely subscribe to his blog.
 
 His blog is has a wealth of information on software development,

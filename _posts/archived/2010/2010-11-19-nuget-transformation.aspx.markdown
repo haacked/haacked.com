@@ -37,7 +37,7 @@ content with the name of the file you want to transform followed by a
 *.transform* extension. For example, in the ELMAH package, there’s a
 file named *web.config.transform*.
 
-![web.config.transform-content](https://haacked.com/images/haacked_com/WindowsLiveWriter/NuPack-Package-Transformations_DA82/web.config.transform-content_ff374058-650a-4f04-b399-9abb2415940d.png "web.config.transform-content")
+![web.config.transform-content](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NuPack-Package-Transformations_DA82/web.config.transform-content_ff374058-650a-4f04-b399-9abb2415940d.png "web.config.transform-content")
 
 The contents of that file looks like a *web.config* (or app.config)
 file, but it only contains the sections that need to be merged into the
@@ -145,7 +145,7 @@ to your source file within your package.
 
 Here’s a screenshot of a package I’m currently authoring.
 
-![Models](https://haacked.com/images/haacked_com/WindowsLiveWriter/NuPack-Package-Transformations_DA82/Models_c4f31cf2-5437-4429-a49d-dd908c972b19.png "Models")
+![Models](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/NuPack-Package-Transformations_DA82/Models_c4f31cf2-5437-4429-a49d-dd908c972b19.png "Models")
 
 When installed, this package will add four files to the target project’s
 *\~/Models* directory. These files will be transformed and the .pp

@@ -24,7 +24,7 @@ can’t stop making choices, so be prepared to piss people off. It’s a
 part of the job. Just be mentally prepared for the attacks, fair or not.
 
 **![Deanna
-Troi](https://haacked.com/images/haacked_com/WindowsLiveWriter/OpenSourceManagementRequiresEmpathy_122C8/1057454132_sktoptroi24.jpg)
+Troi](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/OpenSourceManagementRequiresEmpathy_122C8/1057454132_sktoptroi24.jpg)
 Second, you have to have empathy for your users and developers.**
 Sometimes what feels like an attack is really a misunderstanding based
 on cultural differences. I know some cultures tend to have a very

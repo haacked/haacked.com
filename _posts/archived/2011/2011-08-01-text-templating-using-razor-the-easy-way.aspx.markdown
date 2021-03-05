@@ -38,7 +38,7 @@ the Extension Manager dialog. Select the **Online** tab and type in
 Make sure to install the one named “Razor Generator” (not to be confused
 with “Razor Single File Generator for MVC”).
 
-![razorgenerator-in-vs-extension-gallery](https://haacked.com/images/haacked_com/WindowsLiveWriter/Text-Templating-With-Razor_141F0/razorgenerator-in-vs-extension-gallery_3.png "razorgenerator-in-vs-extension-gallery")
+![razorgenerator-in-vs-extension-gallery](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Text-Templating-With-Razor_141F0/razorgenerator-in-vs-extension-gallery_3.png "razorgenerator-in-vs-extension-gallery")
 
 Create your application
 -----------------------
@@ -58,7 +58,7 @@ Make sure to set the **Custom Tool** for the CSHTML file to be
 the **Properties** menu option. Type in “RazorGenerator” (sans quotes)
 in the field labeled **Custom Tool**.
 
-![Razor-file-properties](https://haacked.com/images/haacked_com/WindowsLiveWriter/Text-Templating-With-Razor_141F0/Razor-file-properties_3.png "Razor-file-properties")
+![Razor-file-properties](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Text-Templating-With-Razor_141F0/Razor-file-properties_3.png "Razor-file-properties")
 
 I added the following code within the CSHTML file:
 
@@ -108,7 +108,7 @@ So what exactly are we instantiating? The steps we took up until now
 results in the Razor file generating a template class. If you expand the
 CSHTML file, you can see the generated class.
 
-![Razor-Generated](https://haacked.com/images/haacked_com/WindowsLiveWriter/Text-Templating-With-Razor_141F0/Razor-Generated_3.png "Razor-Generated")
+![Razor-Generated](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Text-Templating-With-Razor_141F0/Razor-Generated_3.png "Razor-Generated")
 
 That’s the class we need to instantiate. Here’s some code I added in
 *Program.cs* that makes use of this generated template class.
@@ -142,7 +142,7 @@ strongly typed properties.
 After instantiating the template instance, we simply call the
 `TransformText` method on it and write the response to the console.
 
-![razor-output](https://haacked.com/images/haacked_com/WindowsLiveWriter/Text-Templating-With-Razor_141F0/razor-output_3.png "razor-output")
+![razor-output](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/Text-Templating-With-Razor_141F0/razor-output_3.png "razor-output")
 
 Easy as stepping on a Lego block in the dark!
 

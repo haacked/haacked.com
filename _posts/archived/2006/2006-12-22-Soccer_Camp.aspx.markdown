@@ -7,7 +7,7 @@ redirect_from: "/archive/2006/12/21/Soccer_Camp.aspx/"
 No, this was definitely not a good sight for me. With my team pressing
 the attack, an unfortunate turnover left our defense out of position to
 help as the opposing team quickly capitalized.[![Ezra and
-Me](https://haacked.com/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/050_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/050%5B2%5D.jpg)
+Me](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/050_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/050%5B2%5D.jpg)
 (*Click on any pic for a larger view*).
 
 Squinting toward the sun, I saw 6’ 3" [Ezra
@@ -22,7 +22,7 @@ looked up for a midfielder to distribute the ball to, finding
 U.S. National team player, ready to receive the pass and orchestrate the
 counterattack.
 
-[![Jerseys](https://haacked.com/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/028_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/028%5B3%5D.jpg)
+[![Jerseys](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/028_thumb%5B1%5D.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/028%5B3%5D.jpg)
 Might sound like a soccer lover’s wet dream, but this is just a small
 snippet of what I’ve been up to this past week. I attended the [Los
 Angeles Galaxy’s Adult Fantasy Soccer
@@ -43,7 +43,7 @@ several soccer celebrities (though three of them happen to be in my
 league](http://eteamz.active.com/olympicsl/index.cfm? "Olympic Soccer League")).
 
 [![The
-Lounge](https://haacked.com/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/035_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/035%5B2%5D.jpg)
+Lounge](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/035_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/035%5B2%5D.jpg)
 The camp was held at the Home Depot Center, the home of the Los Angeles
 Galaxy. We used the same facilities they use, including their lockers,
 their training fields, and their lounge (seen here at right).
@@ -53,7 +53,7 @@ locker. An away jersey and a practice jersey. You can see my jersey in
 the picture below right.
 
 [![Haack,
-\#8](https://haacked.com/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/027_thumb.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/027%5B2%5D.jpg)
+\#8](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/027_thumb.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/027%5B2%5D.jpg)
 Each day started with a morning session which commenced with a warmup
 lead by an instructor from [Athelete’s
 Performance](http://www.athletesperformance.com/ "Athlete’s Performance").
@@ -72,9 +72,9 @@ soccer community is a small world in Los Angeles. Four other
 participants were current or former teammates of mine.
 
 [![Max, Me, and
-Donny](https://haacked.com/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/034_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/034%5B3%5D.jpg)[![Schrizz,
+Donny](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/034_thumb%5B1%5D.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/034%5B3%5D.jpg)[![Schrizz,
 Joaquin, and
-Mateo](https://haacked.com/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/052_thumb%5B1%5D.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/052%5B3%5D.jpg)
+Mateo](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/052_thumb%5B1%5D.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/SoccerCamp_12AE5/052%5B3%5D.jpg)
 
 The *Grand Finale* of the camp is a full field game with professional
 MLS referees between two teams chosen by the coaches. On the penultimate

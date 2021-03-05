@@ -5,7 +5,7 @@ redirect_from: "/archive/2007/12/03/was-my-code-provability-post-an-inspiration-
 ---
 
 *![Brazil
-Jersey](https://haacked.com/images/haacked_com/WindowsLiveWriter/DidJoelReadMyPostOnCodeProvability_211/BrazilJersey_3.jpg)
+Jersey](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/DidJoelReadMyPostOnCodeProvability_211/BrazilJersey_3.jpg)
 Note that in the same vein as Pele, Ronaldinho and Ronaldo, Joel has
 reach that Brazillian Soccer player level of stardom in the geek
 community and can pretty much go by just his first name. Admit it, you

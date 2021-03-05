@@ -8,7 +8,7 @@ Not too long ago I wrote a blog post on some of the [benefits of Duck Typing](ht
 for C# developers. In that post I wrote up a simplified code sample demonstrating how you can cast the `HttpContext` to an interface you
 create called `IHttpContext`, for lack of a better name.
 
-![Is it a duck or a rabbit?](https://haacked.com/images/haacked_com/WindowsLiveWriter/WhyDuckTypingMattersInC_919F/duckrabbitphil_thumb.png)Well I couldn’t just sit still on that one so I used Reflector and a lot of patience and created a set of interfaces to match the Http intrinsic classes. Here is a full list of interfaces I created along with the concrete existing class (all in the `System.Web` namespace except where otherwise stated) that can be cast to the interface (ones in bold are the most commonly used.
+![Is it a duck or a rabbit?](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/WhyDuckTypingMattersInC_919F/duckrabbitphil_thumb.png)Well I couldn’t just sit still on that one so I used Reflector and a lot of patience and created a set of interfaces to match the Http intrinsic classes. Here is a full list of interfaces I created along with the concrete existing class (all in the `System.Web` namespace except where otherwise stated) that can be cast to the interface (ones in bold are the most commonly used.
 
 -   `ICache` - *Cache*
 -   `IHttpApplication` - *HttpApplication*

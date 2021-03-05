@@ -12,7 +12,7 @@ middle of the ordeal, I turned to Google for help and didn’t find the
 information I needed. I write this in the hopes it helps some
 unfortunate guy in the future.
 
-[![mainimage](https://haacked.com/images/haacked_com/WindowsLiveWriter/LastNightADoctorSavedMyNut_10DED/mainimage_thumb_1.jpg)](https://haacked.com/images/haacked_com/WindowsLiveWriter/LastNightADoctorSavedMyNut_10DED/mainimage_1.jpg)The
+[![mainimage](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/LastNightADoctorSavedMyNut_10DED/mainimage_thumb_1.jpg)](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/LastNightADoctorSavedMyNut_10DED/mainimage_1.jpg)The
 story begins late last night around 1:15 AM as I turned in to bed for
 the night. Tossing and turning, I started to feel a pain in my lower
 abdomen and right testicle. I could feel that my right testicle was

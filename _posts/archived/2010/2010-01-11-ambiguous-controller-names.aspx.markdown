@@ -21,7 +21,7 @@ For example, in the screenshot below, notice that we have a
 `HomeController` in the main *Controllers* folder as well as in the
 *Blogs* area.
 
-![area-with-ambiguous-controller](https://haacked.com/images/haacked_com/WindowsLiveWriter/AmbiguousControllerNames_8573/area-with-ambiguous-controller_3.png "area-with-ambiguous-controller")
+![area-with-ambiguous-controller](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/AmbiguousControllerNames_8573/area-with-ambiguous-controller_3.png "area-with-ambiguous-controller")
 
 If you make a request for the area such as */Blogs/Home*, you’ll find
 that everything works

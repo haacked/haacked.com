@@ -4,7 +4,7 @@ tags: [tech]
 redirect_from: "/archive/2004/04/05/get-your-1gb-email-account-now.aspx/"
 ---
 
-![](/images/spymaclogo.gif)Looks like a another company has stolen some
+![](/assets/images/spymaclogo.gif)Looks like a another company has stolen some
 of the thunder from Google's announcement offering 1GB of email. Spymac
 announces in this
 [post](http://www.spymac.com/forums/showthread.php?threadid=70497) that

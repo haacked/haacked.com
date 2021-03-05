@@ -27,7 +27,7 @@ Here’s a screenshot that shows a tooling feature I’m particularly
 excited about.
 
 ![Unit Testing
-Frameworks](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVCUpdate_C69C/UnitTestingFrameworks_3.png)
+Frameworks](https://haacked.com/assets/images/haacked_com/WindowsLiveWriter/ASP.NETMVCUpdate_C69C/UnitTestingFrameworks_3.png)
 
 I’ve written about the challenges Microsoft faces with bundling [Open
 Source
