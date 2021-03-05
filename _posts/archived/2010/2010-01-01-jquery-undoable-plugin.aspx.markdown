@@ -12,11 +12,11 @@ Well no longer!
 I was managing my Netflix queue recently when I accidentally added a
 movie I did not intend to add (click on the image for a larger view).
 
-[![netflix-queue](http://haacked.com/images/haacked_com/WindowsLiveWriter/UndoableactionsWithjQuery.undoable_D616/netflix-queue_thumb.png "netflix-queue")](http://haacked.com/images/haacked_com/WindowsLiveWriter/UndoableactionsWithjQuery.undoable_D616/netflix-queue_2.png)
+[![netflix-queue](https://haacked.com/images/haacked_com/WindowsLiveWriter/UndoableactionsWithjQuery.undoable_D616/netflix-queue_thumb.png "netflix-queue")](https://haacked.com/images/haacked_com/WindowsLiveWriter/UndoableactionsWithjQuery.undoable_D616/netflix-queue_2.png)
 Naturally, I clicked on the blue “x” to remove it from the queue and saw
 this.
 
-[![netflix-queue-deleted](http://haacked.com/images/haacked_com/WindowsLiveWriter/UndoableactionsWithjQuery.undoable_D616/netflix-queue-deleted_thumb.png "netflix-queue-deleted")](http://haacked.com/images/haacked_com/WindowsLiveWriter/UndoableactionsWithjQuery.undoable_D616/netflix-queue-deleted_2.png)
+[![netflix-queue-deleted](https://haacked.com/images/haacked_com/WindowsLiveWriter/UndoableactionsWithjQuery.undoable_D616/netflix-queue-deleted_thumb.png "netflix-queue-deleted")](https://haacked.com/images/haacked_com/WindowsLiveWriter/UndoableactionsWithjQuery.undoable_D616/netflix-queue-deleted_2.png)
 Notice that there’s no confirmation dialog that I’m most likely to
 ignore questioning my intent requiring me to take yet one more action to
 remove the movie. No, the movie is removed immediately from my queue
@@ -33,12 +33,12 @@ I started to get curious about how they did it and did not find any
 existing jQuery plugins for building this sort of undoable interface, so
 I decided this would be a fun second jQuery plugin for me to write, my
 first being the [live preview
-plugin](http://haacked.com/archive/2009/12/15/live-preview-jquery-plugin.aspx "jquery.livepreview plugin").
+plugin](https://haacked.com/archive/2009/12/15/live-preview-jquery-plugin.aspx "jquery.livepreview plugin").
 
 ### The Plugin
 
 Much like my [jQuery hide/close
-link](http://haacked.com/archive/2009/12/25/jquery-hide-close-link.aspx "jQuery hide close link"),
+link](https://haacked.com/archive/2009/12/25/jquery-hide-close-link.aspx "jQuery hide close link"),
 the default usage of the plugin relies heavily on conventions. As you
 might expect, all the conventions are easily overriden. Here’s the
 sample HTML for a table of comments you might have in the admin section

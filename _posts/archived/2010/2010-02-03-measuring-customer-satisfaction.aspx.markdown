@@ -8,7 +8,7 @@ Umm, I can’t?
 
 At least not right now in a *measurable* manner. I don’t have any such metric and I’m not sure how reliable any metric I might come up with will be.
 
-[![ruler](http://haacked.com/images/haacked_com/WindowsLiveWriter/MeasuringCustomerSatisfaction_CD25/ruler_3.jpg "ruler")](http://www.sxc.hu/photo/174738 "Wooden Ruler on sxc.hu by Bubbels")
+[![ruler](https://haacked.com/images/haacked_com/WindowsLiveWriter/MeasuringCustomerSatisfaction_CD25/ruler_3.jpg "ruler")](http://www.sxc.hu/photo/174738 "Wooden Ruler on sxc.hu by Bubbels")
 
 But perhaps that’s simply due to a lack of imagination on my part.
 

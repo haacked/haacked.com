@@ -5,7 +5,7 @@ tags: [leadership,management,motivation]
 excerpt_image: https://www.sketchport.com/drawing/4632616586182656/ww
 ---
 
-In [Endless Immensity of the Sea](http://haacked.com/archive/2017/08/30/endless-immensity-of-the-sea) I wrote about a leadership style that encourages intrinsic motivation. Many people I talk to don't work in such an environment. Even those who work in places that promote the ideals of autonomy and intrinsic motivation often find that over time, things change for the worse. Why does this happen?
+In [Endless Immensity of the Sea](https://haacked.com/archive/2017/08/30/endless-immensity-of-the-sea) I wrote about a leadership style that encourages intrinsic motivation. Many people I talk to don't work in such an environment. Even those who work in places that promote the ideals of autonomy and intrinsic motivation often find that over time, things change for the worse. Why does this happen?
 
 [![Walter White from Breaking Bad - licensed CC-BY by thewalkingdude](https://user-images.githubusercontent.com/19977/56388296-86deef00-61db-11e9-97e5-ee4d994a98ba.png)](https://www.sketchport.com/drawing/4632616586182656/ww)
 

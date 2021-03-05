@@ -2,4 +2,4 @@ id: dsq-747524122
 date: 2008-02-07T12:53:24.0000000-08:00
 name: Haacked
 avatar: https://github.com/haacked.png?size=120
-message: <p>@The Other Steve - I actually wrote on this topic in my post, <a href="http://haacked.com/archive/2007/03/12/who-tests-the-tests.aspx" rel="nofollow noopener" title="Who tests the tests">Who Tests the Tests?</a><br></p><blockquote>The more code I write the more bugs I introduce.</blockquote><p><br>Perhaps, but the extra code is mostly in your unit tests. You don't deploy your unit tests, so even if the occasional unit test has a bug, overall, it's still helped the code you will deploy.</p>
+message: <p>@The Other Steve - I actually wrote on this topic in my post, <a href="https://haacked.com/archive/2007/03/12/who-tests-the-tests.aspx" rel="nofollow noopener" title="Who tests the tests">Who Tests the Tests?</a><br></p><blockquote>The more code I write the more bugs I introduce.</blockquote><p><br>Perhaps, but the extra code is mostly in your unit tests. You don't deploy your unit tests, so even if the occasional unit test has a bug, overall, it's still helped the code you will deploy.</p>

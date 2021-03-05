@@ -2,4 +2,4 @@ id: dsq-747523188
 date: 2007-10-29T22:13:06.0000000-07:00
 name: Haacked
 avatar: https://github.com/haacked.png?size=120
-message: <p>The "swastika" is an <a href="http://haacked.com/archive/2007/01/22/Identicons_as_Visual_Fingerprints.aspx" rel="nofollow noopener" title="Identicon as a digital fingerprint">Identicon</a>, which is generated based on the ip address.<br>Eric Kemp and I did some work to make them less swastika like, but apparently that one did not take. I may have overwritten the newer Identicon handler inadverdently.</p>
+message: <p>The "swastika" is an <a href="https://haacked.com/archive/2007/01/22/Identicons_as_Visual_Fingerprints.aspx" rel="nofollow noopener" title="Identicon as a digital fingerprint">Identicon</a>, which is generated based on the ip address.<br>Eric Kemp and I did some work to make them less swastika like, but apparently that one did not take. I may have overwritten the newer Identicon handler inadverdently.</p>

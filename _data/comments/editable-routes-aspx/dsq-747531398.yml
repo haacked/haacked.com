@@ -2,4 +2,4 @@ id: dsq-747531398
 date: 2010-01-17T20:27:40.0000000-08:00
 name: haacked
 avatar: https://github.com/haacked.png?size=120
-message: <p>Also, another way to accomplish this scenario is to define routes using a dynamic language. If you'd prefer to use Ruby (ironruby actually) to define routes, I showed how to do that a long time ago. <a href="http://haacked.com/archive/2008/04/22/defining-asp.net-mvc-routes-and-views-in-ironruby.aspx" rel="nofollow noopener" title="http://haacked.com/archive/2008/04/22/defining-asp.net-mvc-routes-and-views-in-ironruby.aspx">haacked.com/...</a></p>
+message: <p>Also, another way to accomplish this scenario is to define routes using a dynamic language. If you'd prefer to use Ruby (ironruby actually) to define routes, I showed how to do that a long time ago. <a href="https://haacked.com/archive/2008/04/22/defining-asp.net-mvc-routes-and-views-in-ironruby.aspx" rel="nofollow noopener" title="https://haacked.com/archive/2008/04/22/defining-asp.net-mvc-routes-and-views-in-ironruby.aspx">haacked.com/...</a></p>

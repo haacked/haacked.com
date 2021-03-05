@@ -4,12 +4,12 @@ tags: [aspnet,aspnetmvc]
 ---
 UPDATE: This blog post is out-of date. We released the RTM of ASP.NET
 MVC 2 in March 2010. Read [about it
-here](http://haacked.com/archive/2010/03/11/aspnet-mvc2-released.aspx "ASP.NET MVC 2 RTM").
+here](https://haacked.com/archive/2010/03/11/aspnet-mvc2-released.aspx "ASP.NET MVC 2 RTM").
 
 Today I’m pleased to announce the availability of Release Candidate 2
 for ASP.NET MVC 2.
 
-[![thumbs-up](http://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2RC2Released_E8E6/thumbs-up_3.jpg "thumbs-up")](http://www.flickr.com/photos/89186997@N00/3396410350/ "thumbs up by richkidsunite - creative commons by attribution")After
+[![thumbs-up](https://haacked.com/images/haacked_com/WindowsLiveWriter/ASP.NETMVC2RC2Released_E8E6/thumbs-up_3.jpg "thumbs-up")](http://www.flickr.com/photos/89186997@N00/3396410350/ "thumbs up by richkidsunite - creative commons by attribution")After
 receiving feedback from our last release candidate back in December, we
 decided it would be prudent to have one more release candidate that
 incorporated the feedback. You can **[read the release
