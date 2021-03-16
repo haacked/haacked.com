@@ -18,9 +18,9 @@ The tips in the first two posts are useful to any remote and distributed team, b
 
 ## My Experience
 
-I joined GitHub in 2011 and worked there just shy of seven years. GitHub is famous for being a remote friendly company. At the time I joined, it was around 60 to 70% remote. It was also a time when [GitHub didn't have managers](https://www.fastcompany.com/3020181/inside-githubs-super-lean-management-strategy-and-how-it-drives-innovation). It was like the wild west.
+I joined GitHub in 2011 and worked there just shy of seven years. GitHub is famous for being a remote friendly company. At the time I joined, it was around 60 to 70% remote. It was also a time when [GitHub didn't have managers](https://www.fastcompany.com/3020181/inside-githubs-super-lean-management-strategy-and-how-it-drives-innovation). It was like the Wild West.
 
-My team at the time was small team (three engineers and one designer). Three of the four of us worked from GitHub headquarters (HQ 2.0 as we referred to it).
+My team at the time was a small team (three engineers and one designer). Three of the four of us worked from GitHub headquarters (HQ 2.0 as we referred to it).
 
 As GitHub grew, it struggled with several big challenges. For example, one challenge was it did not ship as fast as it wanted. To address these challenges [GitHub added management](https://github.com/holman/ama/issues/800). At the time, there were several hundred fiercely independent employees, many of whom were attracted by the managerless workstyle. You sprinkle in management all of a sudden and, well, it initially went about as well as you might expect. But that's a story for another time.
 
@@ -38,7 +38,7 @@ We had folks in all the aforementioned places, but also Japan, Italy, Washington
 
 One theme you'll see throughout my posts on remote leadership is that these are good practices whether you are distributed or colocated. Some tips are specific to distributed teams, but most of them apply to all teams.
 
-The reason I emphasize these good practices is the negative consequences of bad practices are amplified when a teams is remote and distributed. For example, suppose a team relies on oral tradition and is lax about writing down the plan of record. In an office environment, teams that head in the wrong direction are more likely to be noticed by a hands on manager and a course correction can be applied. For a distributed team, the wrong direction might not be noticed until it's too expensive to correct.
+The reason I emphasize these good practices is that the negative consequences of bad practices are amplified when a team is remote and distributed. For example, suppose a team relies on oral tradition and is lax about writing down the plan of record. In an office environment, teams that head in the wrong direction are more likely to be noticed by a hands-on manager and a course correction can be applied. For a distributed team, the wrong direction might not be noticed until it's too expensive to correct.
 
 In both scenarios, it would be better to have the plan of record written down in a known location so the manager can spend their time doing higher value work than babysitting teams.
 
@@ -50,11 +50,11 @@ If something can be resolved in an email, chat, or online discussion, do that in
 
 ## One for all and all for one
 
-If one member of a team is remote, then the entire team should behave as if it's remote. When a team has a meeting, and one member is remote, but the rest of the team is co-located in a meeting room, that creates a large imbalance in the remote person's ability to participate. Ideally everyone would join the videoconference meeting indivdually. It puts everyone on a level playing field.
+If one member of a team is remote, then the entire team should behave as if it's remote. When a team has a meeting, and one member is remote, but the rest of the team is co-located in a meeting room, that creates a large imbalance in the remote person's ability to participate. Ideally everyone would join the videoconference meeting individually. It puts everyone on a level playing field.
 
 ## Communicate Well
 
-In a previous post, I mentioned the importance of communicating often. I went so far as to say you should overcommunicate. But when you do, respect the the time and attention of your audience. Embrace the asynchronicity of your communication mediums. For example, avoid messages like this.
+In a previous post, I mentioned the importance of communicating often. I went so far as to say you should overcommunicate. But when you do, respect the time and attention of your audience. Embrace the asynchronicity of your communication mediums. For example, avoid messages like this.
 
 ![Old CRT screen with the text, "@haacked: Hey, you around?"](https://user-images.githubusercontent.com/19977/72849475-99e78980-3c5b-11ea-8a4f-9019333c6892.png)
 
@@ -74,7 +74,7 @@ Making decisions asynchronously can be difficult and drawn out. I gave one examp
 
 Another problem is when a discussion has plenty of engagement, but goes on and on without a resolution. Sometimes you don't reach consensus in an asynchronous discussion. Often, the default response in such a situation is to do nothing. But doing nothing is also a choice. And it may not be the right or safe choice in every situation.
 
-It's important to solicit feedback on important decisions, but do so in a structured clear way. When soliciting feedback, make it clear up front who are the final decision makers and _when_ they will make that decision. Up until that point, everyone is free to provide input and feedback.
+It's important to solicit feedback on important decisions, but do so in a structured clear way. When soliciting feedback, make it clear up front who the final decision makers are and _when_ they will make that decision. Up until that point, everyone is free to provide input and feedback.
 
 When you do so, I recommend that you apply a [Responsibility Assignment Matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) such as [RACI](https://www.teamgantt.com/blog/raci-chart-definition-tips-and-example) or [DACI](https://www.atlassian.com/team-playbook/plays/daci) comes in real handy.
 
@@ -82,7 +82,7 @@ When you do so, I recommend that you apply a [Responsibility Assignment Matrix](
 
 One concern many people express with geographically distributed work is that progress on a project will be slower. This is a valid concern.
 
-In my experience, it often is the case that a single thread of work does take longer when the people working on it are in very different timezones. It's unavoidable. People need feedback on their work. If I (living in Bellevue, Washington) finish a piece of code and push it up into a PR, I'm going to have to wait till the next day if my teammate is in Australia.
+In my experience, it often is the case that a single thread of work does take longer when the people working on it are in very different timezones. It's unavoidable. People need feedback on their work. If I (living in Bellevue, Washington) finish a piece of code and push it up into a PR, I'm going to have to wait until the next day if my teammate is in Australia.
 
 So how do you collaborate effectively with people in different time zones? The truth is, it's not easy. I've worked closely with employees who were awake while I was asleep and asleep while I was awake. The answer isn't a giant pile of caffeine and work all the damn time. That's unsustainable.
 
