@@ -5,6 +5,8 @@ tags: [data, ef]
 excerpt_image: https://user-images.githubusercontent.com/19977/61970776-55bc4a80-af92-11e9-9894-a772c6162adf.jpg
 ---
 
+__UPDATE: At the bottom is an update that works for EF Core 5.0.2 and above that doesn't rely on internal interfaces.__
+
 _This post describes how to apply an Entity Framework Core Global Query filter on all entity types that implement an interface using a strongly typed expression. And why you might want to do that in the first place._
 
 One way to implement a multi-tenant application is to use a discriminator column (aka a `tenant_id` column on every table). This is a risky proposition. Every query must remember to filter by the `tenant_id`. One missed query and you expose data from one tenant to another. That'll get you featured in the next [Troy Hunt](https://www.troyhunt.com/) security fail keynote. You don't want that.
@@ -236,3 +238,28 @@ If you're interested in seeing the full source code all together, [check out thi
 __UPDATE: Aug 19, 2019__ There was a subtle bug in the original implementation of this method. If you ran the method twice for different interfaces, and an entity implemented more than one interface, only the last query filter would be applied. For details on why that's the case, read [this EF Core issue](https://github.com/aspnet/EntityFrameworkCore/issues/10275). Here's [my comment on the issue](https://github.com/aspnet/EntityFrameworkCore/issues/10275#issuecomment-522686950) noting a scenario where the current behavior is surprising.
 
 Fortunately, [@YZahringer](https://github.com/YZahringer) posted [a workaround](https://github.com/aspnet/EntityFrameworkCore/issues/10275#issuecomment-457504348) that I incorporated into my implementation.
+
+__UPDATE: Mar 23, 2021__ Thanks to [this comment on GitHub](https://github.com/dotnet/efcore/issues/10275#issuecomment-785916356) by magiak, I now have an implementation that works for EF Core 5.0.2 and above. Just replace `AddQueryFilter` with `AppendQueryFilter` below. I updated [the gist with the full implementation](https://gist.github.com/haacked/febe9e88354fb2f4a4eb11ba88d64c24).
+
+```csharp
+public static void AppendQueryFilter<T>(
+    this EntityTypeBuilder<T> entityTypeBuilder, Expression<Func<T, bool>> expression)
+    where T : class
+{
+    var parameterType = Expression.Parameter(entityTypeBuilder.Metadata.ClrType);
+
+    var expressionFilter = ReplacingExpressionVisitor.Replace(
+        expression.Parameters.Single(), parameterType, expression.Body);
+
+    if (entityTypeBuilder.Metadata.GetQueryFilter() != null)
+    {
+        var currentQueryFilter = entityTypeBuilder.Metadata.GetQueryFilter();
+        var currentExpressionFilter = ReplacingExpressionVisitor.Replace(
+            currentQueryFilter.Parameters.Single(), parameterType, currentQueryFilter.Body);
+        expressionFilter = Expression.AndAlso(currentExpressionFilter, expressionFilter);
+    }
+
+    var lambdaExpression = Expression.Lambda(expressionFilter, parameterType);
+    entityTypeBuilder.HasQueryFilter(lambdaExpression);
+}
+```
