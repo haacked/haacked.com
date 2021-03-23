@@ -239,7 +239,7 @@ __UPDATE: Aug 19, 2019__ There was a subtle bug in the original implementation o
 
 Fortunately, [@YZahringer](https://github.com/YZahringer) posted [a workaround](https://github.com/aspnet/EntityFrameworkCore/issues/10275#issuecomment-457504348) that I incorporated into my implementation.
 
-__UPDATE: Mar 23, 2021__ Thanks to [this comment on GitHub](https://github.com/dotnet/efcore/issues/10275#issuecomment-785916356) by magiak, I now have an implementation that works for EF Core 5.0.2 and above. Just replace `AddQueryFilter` with `AppendQueryFilter` below. I updated [the gist with the full implementation](https://gist.github.com/haacked/febe9e88354fb2f4a4eb11ba88d64c24).
+__UPDATE: Mar 23, 2021__ Thanks to [this comment on GitHub](https://github.com/dotnet/efcore/issues/10275#issuecomment-785916356) by [magiak](https://github.com/magiak), I now have an implementation that works for EF Core 5.0.2 and above. Just replace `AddQueryFilter` with `AppendQueryFilter` below. I updated [the gist with the full implementation](https://gist.github.com/haacked/febe9e88354fb2f4a4eb11ba88d64c24).
 
 ```csharp
 public static void AppendQueryFilter<T>(
