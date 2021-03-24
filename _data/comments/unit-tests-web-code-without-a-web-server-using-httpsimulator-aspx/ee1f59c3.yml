@@ -1,0 +1,5 @@
+id: ee1f59c3
+date: 2021-03-24T22:54:30.4591253Z
+name: first timer
+avatar: https://haacked.com/assets/img/unknown-avatar.png
+message: HttpSimulator works great. Thanks for sharing. However, how do i set the UserAgent property of the Request object. I tried adding User-Agent in the header but the value doesn't reflect on Request.UserAgent. Really appreciate your help.
