@@ -4,6 +4,8 @@ description: "Setting up HTTPS with a proper certificate for Azure Functions sho
 tags: [azure,security]
 ---
 
+_UPDATE: there might be an easier way now. [App Service Managed Certificates now supports apex domains](https://azure.microsoft.com/en-us/updates/public-preview-app-service-managed-certificates-now-supports-apex-domains/). I'll give it a try and report back._
+
 My friends, in an ideal world, it would be dead simple to set up a certificate for an Azure App Service. For example, GitHub Pages gets this right.
 
 ![Screen shot showing a checkbox for enforcing HTTPS](https://user-images.githubusercontent.com/19977/114780771-b3776400-9d2c-11eb-91e0-6cd175428496.png "Could it be any easier?")
