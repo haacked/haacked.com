@@ -94,4 +94,4 @@ namespace Serious.Abbot.Functions
 }
 ```
 
-Commit that, deploy it, and try it out!
+Commit that, deploy it, and try it out! Now, hopefully the next person that runs into this will find my blog post and not the hundreds of other irrelevant posts, and know what to do.
