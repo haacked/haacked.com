@@ -15,7 +15,7 @@ There are other features that can impact every query. For example, to implement 
 
 This is where the [Global Query Filter feature of EF Core 2.0](https://docs.microsoft.com/en-us/ef/core/querying/filters) and above comes in handy. If you use NHibernate, you've had this feature for a long time.
 
-![Color Filters - by Carlos Ebert - CC BY 2.0](https://user-images.githubusercontent.com/19977/61970776-55bc4a80-af92-11e9-9894-a772c6162adf.jpg)
+![Color Filters - by Carlos Ebert - CC BY 2.0](https://user-images.githubusercontent.com/19977/61970776-55bc4a80-af92-11e9-9894-a772c6162adf.jpg "Color Filters - by Carlos Ebert - CC BY 2.0")
 
 Here's a quick example of a query filter in action. First, we start with the class that's used in every example ever, the `Post` class. Someday we'll be more creative and create an example other than creating a blog engine. Blog engines is so passé.
 
