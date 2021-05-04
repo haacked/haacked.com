@@ -38,7 +38,7 @@ You can find all my aliases (and just my aliases) in a file named `.gitconfig.al
 But before you start cloning repositories and editing config files, I made an even simpler way to obtain my aliases - just run the following commands in your shell.
 
 ```bash
-curl -o ~/.gitconfig.aliases https://raw.githubusercontent.com/Haacked/dotfiles/main/git/.gitconfig.aliases
+curl -o ~/.gitconfig.aliases https://raw.githubusercontent.com/haacked/dotfiles/main/git/gitconfig.aliases.symlink
 git config --global include.path "~/.gitconfig.aliases"
 ```
 
