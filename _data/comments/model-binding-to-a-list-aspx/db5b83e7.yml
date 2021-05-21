@@ -1,0 +1,5 @@
+id: db5b83e7
+date: 2021-05-21T08:40:43.9058429Z
+name: Stephan
+avatar: https://secure.gravatar.com/avatar/9434ab78f3a1e1ee2843aae2153249b7?s=80&d=identicon&r=pg
+message: Using .Net Core, I had trouble with the sequential indexing if I removed an item from the array, and wasn't sure how to get around it unless I wrote some javascript hack, but then I saw your indexing method with hidden inputs and that is the ultimate solution to my problem, thank you very much!
