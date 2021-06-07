@@ -452,7 +452,3 @@ or you can look at the silly simple one included in the source download.
 Although this example was a ridiculously simple application, the
 principle applies in building a larger app. Just take the techniques
 here and rinse, recycle, repeat your way to TDD nirvana.
-
-To see the result of all this, [download the source
-code](https://haacked.com/code/TddDependencyInjectionDemo.zip "Source Code").
-
