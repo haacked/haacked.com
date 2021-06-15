@@ -112,11 +112,12 @@ I’m still of the mind that many teams can benefit from a dedicated tester. But
 
 **Related Posts**
 
+- [Better Testers](https://haacked.com/archive/2013/04/22/better-testers.aspx/)
 -   [Test First Development Doesn’t Mean You Don’t Walk Through Your
     Code](https://haacked.com/archive/2004/06/09/test-first-development-doesnt-mean-you-dont-walk-through-your-code.aspx/ "Walk through your code")
 -   [Why Code Coverage is not
     Enough](https://haacked.com/archive/2004/11/03/codecoverageisnotenough.aspx/ "Why Code Coverage is not Enough")
--   Structuring Unit Tests
+-   [Structuring Unit Tests](https://haacked.com/archive/2012/01/02/structuring-unit-tests.aspx/)
 -   [How we use Pull Requests to build
     GitHub](https://github.com/blog/1124-how-we-use-pull-requests-to-build-github "Pull Requests at GitHub")
 -   [Task Lists in GFM: Issues/Pulls,
