@@ -1,0 +1,48 @@
+id: aedfa9d7
+date: 2021-06-17T14:17:04.8352960Z
+name: Ray Wright
+avatar: https://robohash.org/d41d8cd98f00b204e9800998ecf8427e
+message: >-
+  There was a CPAN Perl Regex years ago that was 3 pages long and only covered RFC822. Today, any regex shorter than 10 pages long is going to be incorrect. Hmm...maybe you're doing it wrong if you use a regex!
+
+
+
+
+
+  Validating an email address against the IETF standard REQUIRES using a state engine tokenizing parser.  If you are using a regular expression, you are actually unable to follow the EBNF notation that the IETF put together and are 100% guaranteed to get it wrong.
+
+
+
+
+
+
+
+  Here's a library that does it right and even handles edge-cases like comments (yup, email addresses can have comments in them...why?  I have no idea):
+
+
+
+
+
+  https://github.com/cubiclesoft/ultimate-email
+
+
+
+
+
+  SMTP::MakeValidEmailAddress() not only implements a state engine parser, it is also able to autocorrect common typing mistakes (e.g. gmail,com instead of gmail.com) as it parses the email address.  Can a regex do that?  No.  A state engine, however, can.  It is also far more readable/comprehensible than a 3+ page regex.
+
+
+
+
+
+
+
+  One interesting aspect of that library is that it parses email address strings in reverse!  The most likely reason is that finding an '@' by starting from the left doesn't mean you've found the domain portion of the address but if you start from the right, it's a lot easier to separate the local vs. domain portions and parse them accordingly.  Now that's what I call actual intelligence!  A software developer using their brain and thinking about the easiest way to parse a complex string.
+
+
+
+
+
+
+
+  While state engines aren't pretty, they are both the only correct method of implementing any IETF standard AND the most correct way to write software in general.
