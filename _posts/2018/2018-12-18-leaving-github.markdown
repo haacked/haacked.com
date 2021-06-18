@@ -7,7 +7,7 @@ excerpt_image: https://user-images.githubusercontent.com/19977/50171388-29777780
 
 It used to be a tradition at GitHub to announce new hires with a blog post with the pattern, "So and so is a GitHubber." Each post would be accompanied by an image.
 
-On December 7, 2011, [I got my very own](https://blog.github.com/2011-12-07-phil-haack-is-a-githubber/) with a photo of me with giant robot arms. The arms are a bald attempt to cozy up to the one who really ran the show at GitHub, [Hubot](https://hubot.github.com/).
+On December 7, 2011, [I got my very own](https://web.archive.org/web/20140421212110/https://github.com/blog/1002-phil-haack-is-a-githubber) with a photo of me with giant robot arms. The arms are a bald attempt to cozy up to the one who really ran the show at GitHub, [Hubot](https://hubot.github.com/).
 
 Over time, the images became animated gifs. And [these](https://blog.github.com/2013-11-08-rob-rix-is-a-githubber/) became [more](https://blog.github.com/2013-12-21-amy-palamountain-is-a-githubber/) and more [elaborate](https://blog.github.com/2013-09-06-jd-maturen-is-a-githubber/). As you can imagine, this practice did not scale as GitHub grew. You'd need a full-time film crew to keep this up as the company is now over 950 or so people.
 
