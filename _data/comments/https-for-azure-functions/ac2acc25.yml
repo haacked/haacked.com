@@ -1,0 +1,7 @@
+id: ac2acc25
+date: 2021-08-02T21:31:04.1802592Z
+name: Scooletz
+avatar: https://unavatar.now.sh/twitter/scooletz/
+message: >+
+  Nowadays I use a lot of mixture of static web sites + some functionalities provided by Azure Functions. One of the easiest to setup that I found are Cloudflare Workers which can do both, https and a bit of compute (serverless). Then, for real active parts I use Azure Functions. This mixture proved itself several times. Have you ever tried this blend?
+
