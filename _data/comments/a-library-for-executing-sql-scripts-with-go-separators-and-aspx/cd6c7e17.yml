@@ -1,0 +1,5 @@
+id: cd6c7e17
+date: 2021-08-27T06:46:02.2317746Z
+name: Brandon Moore
+avatar: https://secure.gravatar.com/avatar/71172235ca7232d5f806b59930018407?s=80&d=identicon&r=pg
+message: Does it handle strings that are over 8k? Can't seem to figure out how to do that without using the file system (e.g. using sqlcmd w/ input file).
