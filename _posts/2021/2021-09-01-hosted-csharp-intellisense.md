@@ -2,6 +2,7 @@
 title: "IntelliSense for Hosted C# Script"
 description: "We recently announced support for a local editing experience for Abbot skills that includes IntelliSense for C# Skills in Visual Studio Code. This post digs behind the scenes to talk about how that works."
 tags: [abbot,csharp]
+excerpt_image: https://user-images.githubusercontent.com/19977/131401537-533115bd-545f-4cf6-8b38-14000258e9e1.png
 ---
 
 [This recent Abbot Blog Post](https://blog.ab.bot/archive/2021/08/31/abbot-cli/) covers [`abbot-cli` a new open source command-line tool](https://github.com/aseriousbiz/abbot-cli). `abbot-cli` makes it possible to work on Abbot skills in your local editor. In that post, I mentioned that when you retrieve a C# skill to edit locally, the tool writes a few aditional files on your machine.
