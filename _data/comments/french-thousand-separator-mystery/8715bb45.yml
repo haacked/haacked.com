@@ -1,0 +1,20 @@
+id: 8715bb45
+date: 2021-10-26T14:00:35.3318544Z
+name: Chris
+avatar: https://github.com/longliveenduro.png
+message: >-
+  UPDATE: for Java/Scala/Kotlin it was changed wrongly in JDK11-14.
+
+
+
+
+
+  And even worse: For de_AT the monetary grouping separator is a dot '.', the number grouping separator is a blank ' '.
+
+
+
+
+
+
+
+  See https://bugs.openjdk.java.net/browse/JDK-8227313
