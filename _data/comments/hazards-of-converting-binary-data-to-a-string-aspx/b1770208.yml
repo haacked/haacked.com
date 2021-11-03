@@ -1,0 +1,5 @@
+id: b1770208
+date: 2021-11-03T13:15:07.0873626Z
+name: John Henckel
+avatar: https://secure.gravatar.com/avatar/9fd6395d5a592ba630347bfd519f23ae?s=80&d=identicon&r=pg
+message: I'm a very experienced developer, and I fell victim to this same problem. I'm trying to save DICOM attributes (mixture of datatypes) into CSV. At first I tried unicode, utf-8, cp 437, cp 1252... they all failed! Some earlier than others, but none survived the round trip to the file and back. Suddenly I realized "hey, that's not what codepages are for", and switched to base64
