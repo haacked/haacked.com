@@ -1,0 +1,5 @@
+id: 5820eac0
+date: 2021-11-22T20:59:59.9381201Z
+name: andrea
+avatar: https://robohash.org/4042252d6201cd431cbf820010b1baed
+message: Hi thank you! Is there a way to have into the csx the host object passed from CSharpScript.EvaluateAsync<int>(code, opt, host) and have the intellisense on it in vscode? Via host object the script can interact with main application (CAD in my case, for exampe draw geometries). Thank you very much
