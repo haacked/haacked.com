@@ -55,7 +55,9 @@ Quick, run these through your favorite email validation method. Do they all pass
 
 For fun, I decided to try and write a regular expression ([yes, I know I now have two problems. Thanks.](http://regex.info/blog/2006-09-15/247 "Source of the famous 'Now you have two problems' quote")) that would validate all of these. Here’s what I came up with. (The part in bold is the *local part*. I am not worrying about checking my assumptions for the *domain part* for now.)
 
-`` ^(?!\.)("([^"\r\\]|\\["\r\\])*"|([-a-z0-9!#$%&'*+/=?^_`{|}~] |(?@[a-z0-9][\w\.-]*[a-z0-9]\.[a-z][a-z\.]*[a-z]$ ``
+```
+^(?!\.)("([^"\r\\]|\\["\r\\])*"|([-a-z0-9!#$%&'*+/=?^_`{|}~]|(?<!\.)\.)*)(?<!\.)@[a-z0-9][\w\.-]*[a-z0-9]\.[a-z][a-z\.]*[a-z]$
+```
 
 Note that this expression assumes case insensitivity options are turned on (*RegexOptions.IgnoreCase for .NET*). Yeah, that’s a pretty ugly expression.
 
