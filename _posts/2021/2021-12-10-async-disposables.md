@@ -136,3 +136,5 @@ public static class AsyncDisposable
 ```
 
 I hope you find this useful in your own projects.
+
+__UPDATE: 2021-12-11__ Based on Johaness comment, I made `Dispose` idempotent.
