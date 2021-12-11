@@ -8,7 +8,8 @@ In the `System.Reactive.Disposables` namespace (part of Reactive Extensions), th
 
 ```csharp
 Console.WriteLine("Working on it...");
-using var scope = Disposable.Create(() => Console.WriteLine("Done!"))
+using var scope = Disposable.Create(
+    () => Console.WriteLine("Done!"))
 {
     // Do stuff.
 } // scope is disposed and Working on it... is printed to console 
