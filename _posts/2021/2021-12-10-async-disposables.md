@@ -33,6 +33,7 @@ Here's the code for `Disposable` we use in [Abbot](https://ab.bot/).
 
 ```csharp
 using System;
+using System.Threading;
 
 namespace Serious;
 
@@ -48,12 +49,11 @@ public static class Disposable
     /// </summary>
     /// <param name="onDispose">The action to run during IDisposable.Dispose.</param>
     /// <returns>The disposable object that runs the given action upon disposal.</returns>
-    public static IDisposable Create(Action onDispose)
-        => new ActionDisposable(onDispose);
+    public static IDisposable Create(Action onDispose) => new ActionDisposable(onDispose);
 
     class ActionDisposable : IDisposable
     {
-        readonly Action _onDispose;
+        volatile Action? _onDispose;
 
         public ActionDisposable(Action onDispose)
         {
@@ -62,7 +62,7 @@ public static class Disposable
 
         public void Dispose()
         {
-            _onDispose();
+            Interlocked.Exchange(ref _onDispose, null)?.Invoke();
         }
     }
 }
@@ -92,19 +92,23 @@ Here's the code for `AsyncDisposable`.
 
 ```csharp
 using System;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Serious.Tasks;
 
 /// <summary>
-/// Helper class for creating an asynchronous scope. A scope is simply a using block that calls an async method
-/// at the end of the block by returning an <see cref="IAsyncDisposable"/>. This is the same concept as
+/// Helper class for creating an asynchronous scope.
+/// A scope is simply a using block that calls an async method
+/// at the end of the block by returning an <see cref="IAsyncDisposable"/>.
+/// This is the same concept as
 /// the <see cref="Disposable.Create"/> method.
 /// </summary>
 public static class AsyncDisposable
 {
     /// <summary>
-    /// Creates an <see cref="IAsyncDisposable"/> that calls the specified method asynchronously at the end
+    /// Creates an <see cref="IAsyncDisposable"/> that calls
+    /// the specified method asynchronously at the end
     /// of the scope upon disposal.
     /// </summary>
     /// <param name="onDispose">The method to call at the end of the scope.</param>
@@ -116,7 +120,7 @@ public static class AsyncDisposable
 
     class AsyncScope : IAsyncDisposable
     {
-        readonly Func<ValueTask> _onDispose;
+        Func<ValueTask>? _onDispose;
 
         public AsyncScope(Func<ValueTask> onDispose)
         {
@@ -125,7 +129,7 @@ public static class AsyncDisposable
         
         public ValueTask DisposeAsync()
         {
-            return _onDispose();
+            return Interlocked.Exchange(ref _onDispose, null)?.Invoke() ?? ValueTask.CompletedTask;
         }
     }
 }
