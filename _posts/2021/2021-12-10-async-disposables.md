@@ -37,7 +37,8 @@ using System;
 namespace Serious;
 
 /// <summary>
-/// Provides a set of static methods for creating Disposables. This is based off of
+/// Provides a set of static methods for creating Disposables.
+/// This is based off of
 /// https://docs.microsoft.com/en-us/previous-versions/dotnet/reactive-extensions/hh229792(v=vs.103)
 /// </summary>
 public static class Disposable
@@ -47,7 +48,8 @@ public static class Disposable
     /// </summary>
     /// <param name="onDispose">The action to run during IDisposable.Dispose.</param>
     /// <returns>The disposable object that runs the given action upon disposal.</returns>
-    public static IDisposable Create(Action onDispose) => new ActionDisposable(onDispose);
+    public static IDisposable Create(Action onDispose)
+        => new ActionDisposable(onDispose);
 
     class ActionDisposable : IDisposable
     {
