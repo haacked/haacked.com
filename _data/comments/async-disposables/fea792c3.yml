@@ -1,0 +1,14 @@
+id: fea792c3
+date: 2021-12-11T18:37:55.2210745Z
+name: Haacked
+avatar: https://github.com/haacked.png
+message: >-
+  @ Johannes thanks for the feedback! I updated the post.
+
+
+
+  > Also, is there a reason that AddReactionAsync doesn’t return an IAsyncDisposable right away?
+
+
+
+  Well in our actual code, it returns an object the represents whether or not the operation succeeded, Task<Response>. So I don't think I can make that also an `IAsyncDisposable`. I'll probably end up writing a ReactionScope class later that knows how to add and then remove the same reaction.
