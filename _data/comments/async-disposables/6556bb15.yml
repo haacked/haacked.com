@@ -1,0 +1,15 @@
+id: 6556bb15
+date: 2021-12-11T13:04:35.6200979Z
+name: Johannes
+avatar: https://unavatar.now.sh/twitter/EggerJohannes/
+message: >+
+  Thanks for sharing.
+
+
+
+  I sometimes find it useful that Rx's disposables are always idempotent - every call to Dispose except the first one is a no-op (see https://github.com/dotnet/reactive/blob/118476bec440f5ae2a916f8ca2010422a9935c5a/Rx.NET/Source/src/System.Reactive/Disposables/AnonymousDisposable.cs#L37).
+
+
+
+  Also, is there a reason that AddReactionAsync doesn't return an IAsyncDisposable right away? I find it good practice that when doing something I get back something to undo it. So undoing is basically not possible without doing it. And there's no need to lookup the undo action.
+
