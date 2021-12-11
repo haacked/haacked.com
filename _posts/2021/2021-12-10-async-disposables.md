@@ -2,7 +2,6 @@
 title: "Async Disposables The Easy Way"
 description: "Sometimes you want to ensure that an async method at the end of a block of code no matter what. We can use IAsyncDisposable for that. This post covers a nice helper class for creating ad-hoc IAsyncDisposables"
 tags: [abbot,csharp]
-excerpt_image: https://user-images.githubusercontent.com/19977/131401537-533115bd-545f-4cf6-8b38-14000258e9e1.png
 ---
 
 In the `System.Reactive.Disposables` namespace (part of Reactive Extensions), there's a small and useful `Disposable` class. It has a [`Create` method](https://docs.microsoft.com/en-us/previous-versions/dotnet/reactive-extensions/hh229378(v=vs.103)) that takes in an `Action` and returns an `IDisposable` instance. When that instance is disposed, the action is called. It's a nice way of creating an ad-hoc `IDisposable`. I use them often for creating a scope in code where something should happen at the end of the scope. Here's an exceedingly trivial example:
