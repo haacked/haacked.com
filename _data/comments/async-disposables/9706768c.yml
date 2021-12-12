@@ -1,0 +1,7 @@
+id: 9706768c
+date: 2021-12-12T19:28:01.5816719Z
+name: Sebazzz
+avatar: https://github.com/Sebazzz.png
+message: >+
+  Must be noted that if you make the disposable a struct, and don't hide it behind the IDisposable interface, you can save an allocation!
+
