@@ -1,0 +1,24 @@
+id: e2380656
+date: 2021-12-13T21:42:47.6941381Z
+name: Paul
+avatar: https://unavatar.now.sh/twitter/paulwheeler/
+message: >-
+  I think the code:
+
+
+
+
+
+  await using var scope = AsyncDisposable.Create(async () => RemoveReactionAsync(message, "robot_face"))
+
+
+
+
+
+  Should actually be:
+
+
+
+
+
+  await using var scope = AsyncDisposable.Create(async () => await RemoveReactionAsync(message, "robot_face"))
