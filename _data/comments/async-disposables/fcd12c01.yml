@@ -1,0 +1,7 @@
+id: fcd12c01
+date: 2021-12-28T23:32:03.1673149Z
+name: Alois Kraus
+avatar: https://secure.gravatar.com/avatar/98ef0371256aeebaa378d1acc31ff4a8?s=80&d=identicon&r=pg
+message: >+
+  I am not sure if this idempotent version is always right. If you are truly async/await you have no races, then there is no point in expecting more callers to the wrapper. But if you are into multithreading then the Dispose/Async calls are flawed. If you e.g. close a file in your dispose method you would expect that other threads can ensure by calling dispose on your wrapper that the file is closed, and it is safe to reopen it. With your version you return early on the second call while the first dispose call can still be running. In some places in RX this might be ok but you should be prepared for embarrasing bugs if multiple threads expect true idempotency.
+
