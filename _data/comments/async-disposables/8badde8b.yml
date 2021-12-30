@@ -1,0 +1,5 @@
+id: 8badde8b
+date: 2021-12-30T23:12:13.5923547Z
+name: 'Christof '
+avatar: https://secure.gravatar.com/avatar/98e4cb5c4608b6b23a40a36ac20290d4?s=80&d=identicon&r=pg
+message: Is it not necessary to catch a potential  exception in AsynDispose and return the proposer task? 
