@@ -1,0 +1,8 @@
+id: a5e208cb
+date: 2022-05-04T16:40:30.0977565Z
+name: pholpar
+avatar: https://unavatar.now.sh/twitter//
+message: >-
+  @Frode, regarding your error message "An error occurred creating the configuration section handler for testproject: This method cannot be called during the application's pre-start initialization stage." see this post:
+
+  https://weblogs.asp.net/pglavich/entity-framework-and-the-preapplicationstartmethod-attribute
