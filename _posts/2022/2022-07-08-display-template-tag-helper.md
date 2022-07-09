@@ -2,6 +2,7 @@
 title: "Tag Helper for Display Templates"
 description: "ASP.NET Core doesn't include a declarative way to call a display template. Let's fix that."
 tags: [aspnetcore, aspnetmvc, csharp]
+excerpt_image: https://user-images.githubusercontent.com/19977/178084800-cb7e5127-6129-48fc-aa02-e60e092cb598.png
 ---
 
 I was minding my own business when [@dahlbyk](https://github.com/dahlbyk) (you may know him from such hits as PoshGit) dropped this comment on an already merged pull request.
