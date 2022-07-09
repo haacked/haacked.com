@@ -135,4 +135,4 @@ public class DisplayForTagHelper : TagHelper
 
 Perhaps an even better approach is to write a class that inherits `HtmlHelper` and makes exposes a public version of `GenerateDisplay`. IIRC, there's a way to replace the built in `IHtmlHelper` with your own, but I forget how to do it. I'll leave that as an exercise to the reader.
 
-Likewise, I'll probably write an `<editor for="..." />` tag helper as well. Till next time.
+Likewise, I'll probably write an `<editor for="..." />` tag helper as well. If you know of a better approach, do let me know! Till next time.
