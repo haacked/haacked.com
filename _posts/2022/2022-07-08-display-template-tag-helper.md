@@ -136,3 +136,200 @@ public class DisplayForTagHelper : TagHelper
 Perhaps an even better approach is to write a class that inherits `HtmlHelper` and makes exposes a public version of `GenerateDisplay`. IIRC, there's a way to replace the built in `IHtmlHelper` with your own, but I forget how to do it. I'll leave that as an exercise to the reader.
 
 Likewise, I'll probably write an `<editor for="..." />` tag helper as well. If you know of a better approach, do let me know! Till next time.
+
+__UPDATE: I couldn't help myself. Here's the better approach.__
+
+```csharp
+using System;
+using System.Reflection;
+using System.Text.Encodings.Web;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Html;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.AspNetCore.Mvc.ViewEngines;
+using Microsoft.AspNetCore.Mvc.ViewFeatures;
+using Microsoft.AspNetCore.Razor.TagHelpers;
+using Serious.AspNetCore;
+
+namespace Serious.Abbot.Infrastructure.TagHelpers;
+
+[HtmlTargetElement("display")]
+public class DisplayForTagHelper : DisplayTemplateTagHelper
+{
+    public DisplayForTagHelper(IHtmlHelper htmlHelper) : base(htmlHelper)
+    {
+    }
+
+    public override void Process(TagHelperContext context, TagHelperOutput output)
+    {
+        Process(DisplayTemplateType.Display, context, output);
+    }
+}
+
+[HtmlTargetElement("editor")]
+public class EditorForTagHelper : DisplayTemplateTagHelper
+{
+    public EditorForTagHelper(IHtmlHelper htmlHelper) : base(htmlHelper)
+    {
+    }
+
+    public override void Process(TagHelperContext context, TagHelperOutput output)
+    {
+        Process(DisplayTemplateType.Editor, context, output);
+    }
+}
+
+public abstract class DisplayTemplateTagHelper : TagHelper
+{
+    readonly IHtmlHelper _htmlHelper;
+
+    protected enum DisplayTemplateType { Display, Editor }
+
+    /// <summary>
+    /// An expression to be evaluated against the current model.
+    /// </summary>
+    [HtmlAttributeName("for")]
+    public ModelExpression? For { get; set; }
+
+    [HtmlAttributeName("html-field-name")]
+    public string? HtmlFieldName { get; set; }
+
+    [HtmlAttributeName("template-name")]
+    public string? TemplateName { get; set; }
+
+    [ViewContext]
+    [HtmlAttributeNotBound]
+    public ViewContext ViewContext { get; set; } = null!;
+
+    protected DisplayTemplateTagHelper(IHtmlHelper htmlHelper)
+    {
+        _htmlHelper = htmlHelper;
+    }
+
+    protected void Process(DisplayTemplateType displayTemplateType, TagHelperContext context, TagHelperOutput output)
+    {
+        ArgumentNullException.ThrowIfNull(context);
+        ArgumentNullException.ThrowIfNull(output);
+
+        if (For is null)
+        {
+            return;
+        }
+
+        (_htmlHelper as IViewContextAware)?.Contextualize(ViewContext);
+
+        var content = _htmlHelper is ISeriousHtmlHelper seriousHtmlHelper
+            ? seriousHtmlHelper.DisplayFor(For, HtmlFieldName, TemplateName, null)
+            : Generate(displayTemplateType);
+
+        output.TagName = null;
+        output.Content.SetHtmlContent(content);
+    }
+
+    IHtmlContent? Generate(DisplayTemplateType displayTemplateType)
+    {
+        var methodName = $"Generate{displayTemplateType}";
+        var generateDisplayMethod = _htmlHelper
+            .GetType()
+            .GetMethod(methodName, BindingFlags.Instance | BindingFlags.NonPublic);
+        var parameters = new[] {For!.ModelExplorer, HtmlFieldName, TemplateName, (object?)null};
+        return generateDisplayMethod?.Invoke(_htmlHelper, parameters)
+            as IHtmlContent;
+    }
+}
+
+
+/// <summary>
+/// Html Helpers that includes <see cref="DisplayFor"/> and <see cref="EditorFor"/> methods that accept
+/// a <see cref="ModelExpression" />.
+/// </summary>
+public interface ISeriousHtmlHelper : IHtmlHelper
+{
+    IHtmlContent DisplayFor(
+        ModelExpression modelExpression,
+        string? htmlFieldName,
+        string? templateName,
+        string? additionalViewData);
+
+    IHtmlContent EditorFor(
+        ModelExpression modelExpression,
+        string? htmlFieldName,
+        string? templateName,
+        string? additionalViewData);
+}
+```
+
+Now you just need an implementation of `ISeriousHtmlHelper`.
+
+```csharp
+using System.Text.Encodings.Web;
+using Microsoft.AspNetCore.Html;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
+using Microsoft.AspNetCore.Mvc.ViewEngines;
+using Microsoft.AspNetCore.Mvc.ViewFeatures;
+using Microsoft.AspNetCore.Mvc.ViewFeatures.Buffers;
+using Serious.Abbot.Infrastructure.TagHelpers;
+
+namespace Serious.AspNetCore;
+
+/// <summary>
+/// Html Helpers that includes <see cref="DisplayFor"/> and <see cref="EditorFor"/> methods that accept
+/// a <see cref="ModelExpression" />.
+/// </summary>
+public class SeriousHtmlHelper : HtmlHelper, ISeriousHtmlHelper
+{
+    public SeriousHtmlHelper(
+        IHtmlGenerator htmlGenerator,
+        ICompositeViewEngine viewEngine,
+        IModelMetadataProvider metadataProvider,
+        IViewBufferScope bufferScope,
+        HtmlEncoder htmlEncoder,
+        UrlEncoder urlEncoder) : base(htmlGenerator, viewEngine, metadataProvider, bufferScope, htmlEncoder, urlEncoder)
+    {
+    }
+
+    /// <summary>
+    /// Renders a display template using the supplied <see cref="ModelExpression"/>.
+    /// </summary>
+    /// <param name="modelExpression">The <see cref="ModelExpression"/>.</param>
+    /// <param name="htmlFieldName">The name of the html field.</param>
+    /// <param name="templateName">The name of the template.</param>
+    /// <param name="additionalViewData">The additional view data.</param>
+    /// <returns><see cref="IHtmlContent"/>.</returns>
+
+    public IHtmlContent DisplayFor(
+        ModelExpression modelExpression,
+        string? htmlFieldName,
+        string? templateName,
+        string? additionalViewData)
+    {
+        return GenerateDisplay(modelExpression.ModelExplorer, htmlFieldName, templateName, additionalViewData);
+    }
+
+    /// <summary>
+    /// Renders a display template using the supplied <see cref="ModelExpression"/>.
+    /// </summary>
+    /// <param name="modelExpression">The <see cref="ModelExpression"/>.</param>
+    /// <param name="htmlFieldName">The name of the html field.</param>
+    /// <param name="templateName">The name of the template.</param>
+    /// <param name="additionalViewData">The additional view data.</param>
+    /// <returns><see cref="IHtmlContent"/>.</returns>
+    public IHtmlContent EditorFor(
+        ModelExpression modelExpression,
+        string? htmlFieldName,
+        string? templateName,
+        string? additionalViewData)
+    {
+        return GenerateEditor(modelExpression.ModelExplorer, htmlFieldName, templateName, additionalViewData);
+    }
+}
+```
+
+And finally, just register `ISeriousHtmlHelper` with your DI container.
+
+```csharp
+services.AddTransient<IHtmlHelper, SeriousHtmlHelper>();
+```
+
+And there you have it. A complete implementation of both `<display for="..." />` nad `<editor for="..." />` that doesn't require reflection (but will fallback to reflection). Once again, thanks to Keith Dahlby for the inspiration and some of the suggestions here.
