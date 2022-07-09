@@ -8,7 +8,7 @@ I was minding my own business when [@dahlbyk](https://github.com/dahlbyk) (you m
 
 ![Conversation with Keith where he nerd snipes me into building a display for tag helper](https://user-images.githubusercontent.com/19977/178084800-cb7e5127-6129-48fc-aa02-e60e092cb598.png)
 
-Display Templates? Now there's a name I haven't heard in a long time. As a refresher, [Display and Editor Templates](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/display-templates?view=aspnetcore-6.0) were first introduced as part of ASP.NET MVC. You could place partial views in the `Views/Shared/DisplayTemplates` folder (as well as a Controller specific subfolder) named after the type that the partial view is meant to render. So if you wanted all your booleans rendered in a particular way, You'd add a `Boolear.cshtml` partial view. Then make sure to call the `Html.DisplayFor(m => m.BooleanProperty)` helper.
+Display Templates? Now there's a name I haven't heard in a long time. As a refresher, [Display and Editor Templates](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/display-templates?view=aspnetcore-6.0) were first introduced as part of ASP.NET MVC. You could place partial views in the `Views/Shared/DisplayTemplates` folder (as well as a Controller specific subfolder) named after the type that the partial view is meant to render. So if you wanted all your booleans rendered in a particular way, You'd add a `Boolean.cshtml` partial view. Then make sure to call the `Html.DisplayFor(m => m.BooleanProperty)` helper.
 
 Now you may think I'm being a bit precious with my complaint about the lack of a non-declarative way to call a display template. And you're right, I am precious.
 
