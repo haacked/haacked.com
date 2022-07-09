@@ -334,3 +334,5 @@ services.AddTransient<IHtmlHelper, SeriousHtmlHelper>();
 ```
 
 And there you have it. A complete implementation of both `<display for="..." />` nad `<editor for="..." />` that doesn't require reflection (but will fallback to reflection). Once again, thanks to Keith Dahlby for the inspiration and some of the suggestions here.
+
+__UPDATE 2: __ Turns out, there's a nice `TagHelperPack` nuget package that already has a `display` and `editor` tag helper. Check out the website here: [https://taghelperpack.net/](https://taghelperpack.net/)
