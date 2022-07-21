@@ -61,3 +61,5 @@ And that helped a lot! So now we're on a plan that will allow us to automaticall
 It wouldn't be so bad if all our infrastructure was scripted using something like Terraform or Pulumi, but we're not quite there yet. We've made a lot of progress with Pulumi lately, but we're still not at the point where we can just migrate to a new data center with a few commands. That's where we're headed next. I used to believe that being Cloud Provider agnostic was a waste of engineering effort, but as we build out our product, we can see that even if you stick with a single cloud provider, it has benefits.
 
 They say that when you build a startup, you're going to make a lot of mistakes. And like an idiot, I thought I've been around the block and wouldn't make all those rookie mistakes. Yet here we are. I hope that your startup can learn from our mistakes (assuming you're building a similar type of product).
+
+And if you're curious about the product I'm building, we just launched on Product Hunt (LINK).
