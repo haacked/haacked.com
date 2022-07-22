@@ -9,7 +9,7 @@ Building a startup is easy. You file some paperwork and bam! You're a startup!
 
 Building a start-up that's sustainable and can pay everyone a nice salary, on the other hand, is very tough. We are launching [Abbot on Product Hunt](https://www.producthunt.com/posts/abbot) today, and preparing last week made me reflect on some of the lessons we've learned since starting our business.
 
-[Abbot](https://ab.bot/) is a Slack App (and bot) that helps teams keep track of customer conversations in Slack.
+[Abbot](https://ab.bot/) is a Slack App (and bot) that helps teams scale their customer conversations in Slack.
 
 Some of you might be thinking, "Wait! I thought Abbot was [ChatOps as a service](https://news.ycombinator.com/item?id=27974077)?" Indeed, that was our original goal, but we found it tough to to sell. Conversations often would go like this:
 
