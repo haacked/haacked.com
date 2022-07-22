@@ -47,7 +47,7 @@ At the same time, if you wait too long to address your infrastructure needs, you
 
 ## Lesson: All Services Are Leaky
 
-Around the time dinosaurs roamed the wold hosting their own server racks, I was a fresh-faced college graduate starting my first job at a custom development shop. We had a full server rack in the closet where we hosted all our clients web sites. This put us in control of our own hardware, software, and destiny. Which as it turns out, isn't always a good thing. I remember the time my boss wanted to demonstrate how our new hard-drive array was hot-swappable by pulling out a drive. He pulled out the drive and everything continued to work flawlessly. Just kidding. It all came crashing down like a soccer player who feels a gentle tug on the shirt in the penalty box (if the sport metaphor doesn't work for you, just trust me on this one).
+Around the time dinosaurs roamed the world hosting their own server racks, I was a fresh-faced college graduate starting my first job at a custom development shop. We had a full server rack in the closet where we hosted all our clients' web sites. This put us in control of our own hardware, software, and destiny. Which as it turns out, isn't always a good thing. I remember the time my boss wanted to demonstrate how our new hard-drive array was hot-swappable by pulling out a drive. He pulled out the drive and everything continued to work flawlessly. Just kidding. It all came crashing down like a soccer player who feels a gentle tug on the shirt in the penalty box (if the sport metaphor doesn't work for you, just trust me on this one).
 
 At the time, this was the way you built web software. You hosted everything.
 
