@@ -7,7 +7,7 @@ excerpt_image: https://user-images.githubusercontent.com/19977/180076597-6fbdb67
 
 Building a startup is easy. You file some paperwork and bam! You're a startup!
 
-Building a start-up that's sustainable and can pay everyone a nice salary, on the other hand, is very tough. Today, as my company, [A Serious Business, Inc.](https://www.aseriousbusiness.com/) launches [Abbot on Product Hunt](https://www.producthunt.com/posts/abbot), I thought I'd reflect on some of the lessons learned in the past couple years.
+Building a start-up that's sustainable and can pay everyone a nice salary, on the other hand, is very tough. We are launching [Abbot on Product Hunt](https://www.producthunt.com/posts/abbot) today, and preparing last week made me reflect on some of the lessons we've learned since starting our business.
 
 [Abbot](https://ab.bot/) is a Slack App (and bot) that helps teams keep track of customer conversations in Slack.
 
