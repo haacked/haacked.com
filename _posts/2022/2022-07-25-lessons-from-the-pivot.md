@@ -27,7 +27,7 @@ It's not that Abbot wasn't interesting, useful, and wonderful. A lot of folks to
 
 ## Lesson: Start with selling a Product not a Platform
 
-Abbot started off as an automation platform. With Abbot, we could quickly write and host new capabilities of the bot from within Abbot. We used it internally to solve whole classes of problems and run experiments. Platforms give people the tools to solve whole classes of problems, but they don't, on their own, solve any specific problems. And this is why platforms are hard to sell. For example, Amazon didn't begin with selling their Amazon Web Services (AWS) platform. They started with an online bookstore. A concrete product. And over time, they reached the point where they could sell the underlying platform (AWS) the bookstore was built on.
+Abbot started off as an automation platform. With Abbot, we could quickly write and host new capabilities of the bot from within Abbot. We used it internally to solve whole classes of problems and run experiments. Platforms give people the tools to solve whole classes of problems, but they don't solve any specific problems on their own. And this is why platforms are hard to sell. For example, Amazon didn't begin with selling their Amazon Web Services (AWS) platform. They started with an online bookstore. A concrete product. And over time, they reached the point where they could sell the underlying platform (AWS) the bookstore was built on.
 
 ## Lesson: A Platform does make it easy to experiment and pivot
 
