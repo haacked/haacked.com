@@ -101,4 +101,4 @@ I used to believe that being Cloud Provider agnostic was a waste of engineering 
 
 ## Lesson: Hire great people
 
-One of our saving graces is we've been very fortunate in our early hiring. In the areas where I'm weak, we have folks who are superstars. At this stage of our company, every person we hire is a significant percentage of the company. Each person has a huge impact on the company. If we hadn't brought in these amazing people, I think we'd have failed already.
+One of our saving graces is we've been very fortunate in our early hiring. In the areas where I'm weak, we have folks who are superstars. At this stage of our company, every person we hire has a huge impact on the company. If we hadn't brought in these amazing people, I think we'd have failed already.
