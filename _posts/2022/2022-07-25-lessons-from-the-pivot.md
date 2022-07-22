@@ -19,12 +19,6 @@ Some of you might be thinking, "Wait! I thought Abbot was [ChatOps as a service]
 
 Yeah, not too effective as a sales pitch.
 
-## Lesson: Articulate a specific problem your product solves
-
-I know this isn't new or groundbreaking advice. In fact, it's one of the first things you hear when people give advice about building a company. But it's easy to fall into the trap of thinking that *your* product is going to be the exception.
-
-It's not that Abbot wasn't interesting, useful, and wonderful. A lot of folks told us, "That's very cool! There's so much I could do with that! I hope to find some time to experiment with it." And there's the rub. People are busy and they don't have time to solve their own problems for them. They want your product to solve their problems. And it needs to be a concrete specific problem that matters, not something hypothetical. This leads us right to the next lesson.
-
 ## Lesson: Start with selling a Product not a Platform
 
 Abbot started off as an automation platform. With Abbot, we could quickly write and host new capabilities of the bot from within Abbot. We used it internally to solve whole classes of problems and run experiments. Platforms give people the tools to solve whole classes of problems, but they don't solve any specific problems on their own. And this is why platforms are hard to sell. For example, Amazon didn't begin with selling their Amazon Web Services (AWS) platform. They started with an online bookstore. A concrete product. And over time, they reached the point where they could sell the underlying platform (AWS) the bookstore was built on.
@@ -53,7 +47,7 @@ At the time, this was the way you built web software. You hosted everything.
 
 Fast forward a bunch of years, and the pendulum swung to the other side. I didn't want to host a damn thing. And with tools like Heroku, Azure Web Sites, AWS, Google Cloud, etc. I really didn't need to. Much of my later career at Microsoft and GitHub was spent building developer tools and client applications. Occasionally, I'd build a website on the side for fun. I'd just deploy it to a cloud provider, take advantage of all their services, and not worry about it too much.
 
-And this approach worked well! It worked so well, when I started a company with my colleague, Paul, we were able to [get a site up](https://ab.bot/) and running in no time. And this all worked great, everyone was happy, and it all just worked out...Until we needed to pivot.
+And this approach worked well! It worked so well, when I started a company with my colleague, Paul, we were able to [get a site up](https://ab.bot/) and running in no time. And this all worked great, everyone was happy, and it all just worked out...Until [we needed to pivot](https://www.dotnetrocks.com/default.aspx?ShowNum=1791).
 
 ![Driver telling a police office he should have turned left at Albuquerque](https://user-images.githubusercontent.com/19977/180076597-6fbdb672-6539-43fd-b10d-1a1e667c8d8b.png "Free Public Domain image from https://freesvg.org/1535673080")
 
