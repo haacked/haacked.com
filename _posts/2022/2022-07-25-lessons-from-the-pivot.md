@@ -33,7 +33,7 @@ This sounds like a very specific problem to solve! Fortunately, we had a flexibl
 
 But as we did so, it didn't take us long to run into other problems.
 
-## Lesson: Balance your early engineering and infrastructure with achieving Product Market Fit
+## Lesson: Don't completely neglect engineering and infrastructure in order to achieve Product Market Fit
 
 Before I get into the problems we ran into, it's important to understand some context, lest you think we're running a clown shoes operation. When we joined the YCombinator startup program, one of the key lessons drilled into us is that Product Market Fit is our top priority. And the reasoning is simple, if you don't achieve product market fit, then you don't have a business and your company runs out of money and dies. And it's hard to build great software with a dead company. So while good engineering and infrastructure is important, if you spend too much time on that, but don't achieve product market fit, then all that exquisite infrastructure goes to waste.
 
