@@ -11,7 +11,7 @@ Building a start-up that's sustainable and can pay everyone a nice salary, on th
 
 [Abbot](https://ab.bot/) is a Slack App (and bot) that helps teams scale their customer conversations in Slack.
 
-Some of you might be thinking, "Wait! I thought Abbot was [ChatOps as a service](https://news.ycombinator.com/item?id=27974077)?" Indeed, that was our original goal, but we found it tough to to sell. Conversations often would go like this:
+Some of you might be thinking, "Wait! I thought Abbot was [ChatOps as a service](https://news.ycombinator.com/item?id=27974077)?" Indeed, that was our original goal, but we found it tough to sell. Conversations often would go like this:
 
 > them: What problem do you solve?
 > us: What problems do you have? Abbot can help with them all!
