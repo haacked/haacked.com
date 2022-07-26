@@ -51,7 +51,7 @@ And this approach worked well! It worked so well, when I started a company with 
 
 ![Driver telling a police office he should have turned left at Albuquerque](https://user-images.githubusercontent.com/19977/180076597-6fbdb672-6539-43fd-b10d-1a1e667c8d8b.png "Free Public Domain image from https://freesvg.org/1535673080")
 
-You may have heard that [all abstractions are leaky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/). In a similar manner, all services are leaky. Whether it be Software as a Service (SAAS), Platform as a Service (SAAS), Infrastructure as a Service (IAAS), or whatever the next thing is.
+You may have heard that [all abstractions are leaky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/). In a similar manner, all services are leaky. Whether it be Software as a Service (SAAS), Platform as a Service (PAAS), Infrastructure as a Service (IAAS), or whatever the next thing is.
 
 The first "abstraction" to break was relying on Azure Bot Service for our bot. The service provides a single API to make it possible to write a bot once for multiple chat services. Where have we heard that promise before, right?
 
