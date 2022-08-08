@@ -1,0 +1,15 @@
+id: d4fa109f
+date: 2022-08-08T12:57:12.9937695Z
+name: João Paulo Rodrigues Santos
+avatar: https://secure.gravatar.com/avatar/d4413afed1a86a0cf24fb76bf7de9888?s=80&d=identicon&r=pg
+message: >+
+  Hello, Phil! How are you doing? Thanks for the article, it was very helpful!
+
+  Hi @Joshua and @KevinUK, I've got the same problem, and here's the solution:
+
+  You have to add a new input hidden for your new sublist, including the index of the previous one. Here's the example that worked for me.
+
+
+
+  <input type="hidden" name"products[0].categories.Index" value="0">
+
