@@ -1,0 +1,9 @@
+id: 00d96aa3
+date: 2022-08-12T17:21:17.2379898Z
+name: WasPassingBy
+avatar: https://secure.gravatar.com/avatar/1293f1ffe5da2109554b87dc38510625?s=80&d=identicon&r=pg
+message: >+
+  `TagHelperPack` does not work out of the box. Using ASP.NET Core 6 MVC and `DisplayNameForTagHelper`fails for `For` in `output.PostContent.AppendHtml(_htmlHelper.DisplayName(For));`.
+
+  Also, it does not work at all, if page model is `@model IEnumerable<Student>;` (and no for-each). But `@Html.DisplayNameFor(model => model.FurstName)` works fine (using it for column header in table).
+
