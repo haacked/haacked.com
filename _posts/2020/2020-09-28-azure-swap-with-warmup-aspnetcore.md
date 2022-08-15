@@ -85,7 +85,7 @@ In my actual code, I wrote an extension method like so:
 
 ```csharp
 public static bool IsStatusCheckRequest(this HttpRequest request) {
-    var path = context.Request.Path.Value ?? string.Empty;
+    var path = request.Path.Value ?? string.Empty;
     return path.Equals("/statuscheck", StringComparison.OrdinalIgnoreCase);
 }
 ```
