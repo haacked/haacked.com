@@ -5,7 +5,7 @@ tags: [abbot,csharp]
 excerpt_image: https://user-images.githubusercontent.com/19977/131401537-533115bd-545f-4cf6-8b38-14000258e9e1.png
 ---
 
-[This recent Abbot Blog Post](https://blog.ab.bot/archive/2021/08/31/abbot-cli/) covers [`abbot-cli` a new open source command-line tool](https://github.com/aseriousbiz/abbot-cli). `abbot-cli` makes it possible to work on Abbot skills in your local editor. In that post, I mentioned that when you retrieve a C# skill to edit locally, the tool writes a few aditional files on your machine.
+[This recent Abbot Blog Post](https://ab.bot/blog/edit-abbot-skills-in-your-favorite-editor) covers [`abbot-cli` a new open source command-line tool](https://github.com/aseriousbiz/abbot-cli). `abbot-cli` makes it possible to work on Abbot skills in your local editor. In that post, I mentioned that when you retrieve a C# skill to edit locally, the tool writes a few aditional files on your machine.
 
 > For C# skills, these other files make it possible for us to provide Intellisense for the skill editing experience. More on that in another post for those interested.
 
