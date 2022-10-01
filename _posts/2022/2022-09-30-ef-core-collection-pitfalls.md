@@ -35,7 +35,7 @@ public async Task<Post?> GetPostAsync(int id) {
 }
 
 // For the home page.
-public async Task<Post?> GetPostsAsync(int id) {
+public async Task<List<Post>> GetPostsAsync(int id) {
     return await _context.Posts
         .Include(p => p.Authors)
         .Include(p => p.Comments)
@@ -47,7 +47,7 @@ This is a simple approach, but not really scalable. The method to get all posts 
 
 ```csharp
 // For the home page.
-public async Task<Post?> GetPostsAsync(int id) {
+public async Task<List<Post?>> GetPostsAsync(int id) {
     return await _context.Posts
         .Include(p => p.Authors)
         .ToListAsync(p => p.Id == id);
