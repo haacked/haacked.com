@@ -105,4 +105,13 @@ public async Task<int> GetCommentCountAsync(Post post) {
 
 The call to `_dbContext.Entry(post).Collection(p => p.Comments).IsLoaded` tells us if the collection is fully loaded or not. Automatic fix-up does not set `IsLoaded` to true for the collection. I left the null check as an optimization, but it's not strictly necessary.
 
+__UPDATE:__ On Twitter, https://twitter.com/RichardDeeming noted that `LoadAsync` checks `IsLoaded` internally, so the null check *and* the `IsLoaded` check is unnecessary. Thus we're left with:
+
+```csharp
+public async Task<int> GetCommentCountAsync(Post post) {
+    await _dbContext.Entry(post).Collection(p => p.Comments).LoadAsync();
+    return post.Comments!.Count;
+}
+```
+
 I think it would be interesting if the type system could somehow express this distinction. For example, if the entity is returned from a query that includes the collection, then the collection is non-nullable and fully loaded. If the entity is returned from a query that doesn't include the collection, then the collection is nullable and not fully loaded. I'm not sure how to do this in C#, but it would be interesting to explore.
