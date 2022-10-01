@@ -114,4 +114,15 @@ public async Task<int> GetCommentCountAsync(Post post) {
 }
 ```
 
+Since we can't rely on the nullability of the collection to tell us if it's fully loaded or not, I don't think it makes sense to even use nullable collections. Which brings us back to the first approach:
+
+```csharp
+```csharp
+public class Post {
+    public int Id { get; set; }
+    public IList<Author> Authors { get; set; }
+    public IList<Comment> Comments { get; set; }
+}
+```
+
 I think it would be interesting if the type system could somehow express this distinction. For example, if the entity is returned from a query that includes the collection, then the collection is non-nullable and fully loaded. If the entity is returned from a query that doesn't include the collection, then the collection is nullable and not fully loaded. I'm not sure how to do this in C#, but it would be interesting to explore.
