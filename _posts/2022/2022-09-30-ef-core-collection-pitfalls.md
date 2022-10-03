@@ -35,11 +35,11 @@ public async Task<Post?> GetPostAsync(int id) {
 }
 
 // For the home page.
-public async Task<List<Post>> GetPostsAsync(int id) {
+public async Task<List<Post>> GetPostsAsync() {
     return await _context.Posts
         .Include(p => p.Authors)
         .Include(p => p.Comments)
-        .ToListAsync(p => p.Id == id);
+        .ToListAsync();
 }
 ```
 
@@ -47,10 +47,10 @@ This is a simple approach, but not really scalable. The method to get all posts 
 
 ```csharp
 // For the home page.
-public async Task<List<Post?>> GetPostsAsync(int id) {
+public async Task<List<Post?>> GetPostsAsync() {
     return await _context.Posts
         .Include(p => p.Authors)
-        .ToListAsync(p => p.Id == id);
+        .ToListAsync();
 }
 ```
 
@@ -116,7 +116,6 @@ public async Task<int> GetCommentCountAsync(Post post) {
 
 Since we can't rely on the nullability of the collection to tell us if it's fully loaded or not, I don't think it makes sense to even use nullable collections. Which brings us back to the first approach:
 
-```csharp
 ```csharp
 public class Post {
     public int Id { get; set; }
