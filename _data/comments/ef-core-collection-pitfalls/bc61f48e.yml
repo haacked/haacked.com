@@ -1,0 +1,10 @@
+id: bc61f48e
+date: 2022-10-06T17:01:56.5357283Z
+name: haacked
+avatar: https://unavatar.now.sh/twitter/haacked/
+message: >-
+  @Joel, I'm using EF Core and defined my collection property as an `IList<T>` which is populated with a `List<T>`. `List<T>` is a standard .NET collection and doesn't know anything about EF so it wouldn't be able to load the collection.
+
+
+
+  In theory, I could create a custom collection type that does all that, but I'm not a fan of implicit database queries. I'd rather be explicit about when my code calls the database. It's too easy to run into problems and N+1 issues otherwise.
