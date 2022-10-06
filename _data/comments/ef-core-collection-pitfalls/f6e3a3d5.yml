@@ -1,0 +1,5 @@
+id: f6e3a3d5
+date: 2022-10-06T19:01:50.3808142Z
+name: Joel
+avatar: https://secure.gravatar.com/avatar/9892eb80b286090fda750586e1bd975c?s=80&d=identicon&r=pg
+message: "@haacked. Thank you. I've never used EF so I'm not familiar with it. I would have expected the ORM to populate the IList with a type that does the implicit query like you describe, not just a standard List. But I agree that hidden database queries like that should be avoided. "
