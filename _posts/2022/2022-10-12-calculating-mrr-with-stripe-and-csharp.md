@@ -23,7 +23,7 @@ One of the most important metrics for any SaaS business is Monthly Recurring Rev
 
 MRR is forward looking, which is why you don't want to sum up invoices. Instead, you want to look at all the subscriptions you have and sum up the amount of money you're expecting to receive from them in the next month. For yearly subscriptions, you'll want to pro-rate the yearly amount to get the monthly amount.
 
-Fortunately, Stripe has a nice dashboard where you can see your MRR.
+Fortunately, Stripe has a nice dashboard where you can see your MRR. I'm not supposed to share ours, but we're all friends here right?!
 
 ![Example of MRR on the Stripe Dashboard](https://user-images.githubusercontent.com/19977/195436725-32eba110-3d9d-43ac-8df1-6ddc2b83be58.png "We're RICH,...friend.")
 
