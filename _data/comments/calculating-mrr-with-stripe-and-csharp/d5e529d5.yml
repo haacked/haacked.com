@@ -1,0 +1,22 @@
+id: d5e529d5
+date: 2022-10-12T21:53:43.3856911Z
+name: Sol
+avatar: https://unavatar.now.sh/twitter//
+message: >-
+  Does your code handle the scenario where a user purchases something on an already started yearly subscription in the middle of the service period?
+
+
+
+  E.g. in our own setup, a user can purchase extra seats on their yearly volume license subscription. The expiration for these seats are cotermed to the volume license expiration, thus the price is of course reduced because they're not covering a full period, and thus the MRR is obviously not 1/12, but rather the remaining period, e.g. 1/6 if purchased half-way through the period.
+
+
+
+  Also, I think it would be beneficial to have code that supports point-in-time calculations of MRR, such that development of MRR over time can be calculated/plotted.
+
+
+
+  It's an interesting topic, calculating MRR. Currently, doing a lot of that. It's also interesting when you have a mix of currencies.
+
+
+
+  Are there other key metrics that you look at/calculate in your SaaS?
