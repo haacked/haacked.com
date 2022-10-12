@@ -118,7 +118,7 @@ public static async Task<decimal> CalculateMonthlyRecurringRevenue()
 }
 ```
 
-The code here is a bit tricky because the Slack APIs only let you grab 100 customers at a time. And since we always want to prepare for success, we need to handle the case where there are more than 100 customers. So we loop through the customers, grabbing 100 at a time, until we get to the end.
+The code here is a bit tricky because the Stripe APIs only let you grab 100 customers at a time. And since we always want to prepare for success, we need to handle the case where there are more than 100 customers. So we loop through the customers, grabbing 100 at a time, until we get to the end.
 
 ## Conclusion
 
