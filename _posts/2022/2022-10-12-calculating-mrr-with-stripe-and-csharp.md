@@ -25,7 +25,7 @@ MRR is forward looking, which is why you don't want to sum up invoices. Instead,
 
 Fortunately, Stripe has a nice dashboard where you can see your MRR. I'm not supposed to share ours, but we're all friends here right?!
 
-![Example of MRR on the Stripe Dashboard](https://user-images.githubusercontent.com/19977/195445796-618ccc09-e369-46a8-b680-f4f60f6deb9f.png "We're RICH!...friend.)
+![Example of MRR on the Stripe Dashboard](https://user-images.githubusercontent.com/19977/195445796-618ccc09-e369-46a8-b680-f4f60f6deb9f.png "We're RICH!...friend.")
 
 Unfortunately, it can take some time to reflect recent purchases. In our case, we wanted to display the MRR in an internal dashboard and I could not find a way to grab the MRR that Stripe calculates from the Stripe API. If there is a way and I just missed it, I hope someone will let me know in the comments.
 
