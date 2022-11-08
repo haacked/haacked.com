@@ -13,7 +13,7 @@ For the most part, I lucked into it. My experience may not be the best template 
 
 ## Start small
 
-When I got the job, I knew that I would be invited to speak at conferences here and there. I had attended a few, but never saw myself speaking at them. So I started by contacting the local .NET User Group in Los Angeles (where I was living at the time) and asked if I could speak at the next meeting. They were happy to have me as they are always looknig for new speakers.
+When I got the job, I knew that I would be invited to speak at conferences here and there. I had attended a few, but never saw myself speaking at them. So I started by contacting the local .NET User Group in Los Angeles (where I was living at the time) and asked if I could speak at the next meeting. They were happy to have me as they are always looking for new speakers.
 
 Speaking at local user groups or meetups is a great way to get started. One way to find such groups is through [Meetup.com](https://www.meetup.com/). For example, if you're specifically interested in .NET, the .NET Foundation has a list of [.NET meetups here](https://www.meetup.com/pro/dotnet/).
 
