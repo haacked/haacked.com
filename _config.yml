@@ -19,6 +19,9 @@ contact:
 
 # social links
 twitter_username: haacked
+mastodon:
+  username: haacked
+  instance: hachyderm.io
 github_username:  haacked
 rss: rss
 
