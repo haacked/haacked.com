@@ -1,7 +1,7 @@
 ---
 title: "C# List Pattern Examples"
 description: "C# 11 introduces some list patterns and I'm loving them."
-tags: [csharp]
+tags: [csharp patterns]
 excerpt_image: https://user-images.githubusercontent.com/19977/203370937-0793aeb9-4d2a-444e-bc44-dd81124105f7.png
 ---
 
