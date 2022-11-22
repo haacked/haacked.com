@@ -67,7 +67,6 @@ __AFTER__
 ```csharp
 public record Parts(string Part1, string Part2, string? Part3 = null) {
     public static Parts Parse(string formatted) {
-        var parts = formatted.Split('|');
         return formatted.Split('|') switch {
             [var part1, var part2] => new Parts(part1, part2),
             [var part1, var part2, var part3] => new Parts(part1, part2, part3),
