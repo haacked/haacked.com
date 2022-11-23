@@ -70,7 +70,7 @@ public record Parts(string Part1, string Part2, string? Part3 = null) {
         return formatted.Split('|') switch {
             [var part1, var part2] => new Parts(part1, part2),
             [var part1, var part2, var part3] => new Parts(part1, part2, part3),
-            _ => throw new InvalidOperationException($"Expected 3 parts, but got {parts.Length} parts for formatted string: {formatted}."),
+            var parts => throw new InvalidOperationException($"Expected 3 parts, but got {parts.Length} parts for formatted string: {formatted}."),
         };
     }
 
