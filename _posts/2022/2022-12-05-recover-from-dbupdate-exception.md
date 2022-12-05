@@ -149,6 +149,7 @@ public async Task<User> GetUserBySlackIdAsync(string slackId) {
             SlackId = slackId,
         };
         await _db.Users.AddAsync(user);
+
         try {
             await _db.SaveChangesAsync();
         }
