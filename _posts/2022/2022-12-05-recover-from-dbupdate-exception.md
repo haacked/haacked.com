@@ -154,12 +154,13 @@ public async Task<User> GetUserBySlackIdAsync(string slackId) {
             await _db.SaveChangesAsync();
         }
         catch (DbUpdateException) {
-            _db.Entry(user).State = EntityState.Detached;
             // Maybe the user already exists? If so, return that user.
-            user = await _db.Users.SingleOrDefaultAsync(u => u.SlackId == slackId);
-            if (user is null) {
+            var existing = await _db.Users.SingleOrDefaultAsync(u => u.SlackId == slackId);
+            if (existing is null) {
                 throw;
             }
+            _db.Entry(user).State = EntityState.Detached;
+            user = existing;
         }
     }
 
