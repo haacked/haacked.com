@@ -1,0 +1,5 @@
+id: 7ccc0c08
+date: 2022-12-06T07:39:44.4930314Z
+name: Thomas Freudenberg
+avatar: https://github.com/thoemmi.png
+message: Ahem, in the last code snippet, ~Phil~ Bill wants to detach the *new* User instance, not that one returned by the second SingleOrDefaultAsync call, right?
