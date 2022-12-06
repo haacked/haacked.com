@@ -1,0 +1,5 @@
+id: 4776128f
+date: 2022-12-06T12:11:36.9849614Z
+name: Steve
+avatar: https://github.com/stevehansen.png
+message: Shouldn't the detach be done on the user variable before you assigned it with the database value? I would guess that they both be different instances in memory
