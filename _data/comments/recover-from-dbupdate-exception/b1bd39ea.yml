@@ -1,0 +1,10 @@
+id: b1bd39ea
+date: 2022-12-07T15:52:25.9284410Z
+name: haacked
+avatar: https://unavatar.now.sh/twitter/haacked/
+message: >-
+  > Why are allowing your repository method to be executed concurrently from multiple threads?
+
+
+
+  I'm not. The background task gets its own instance of DbContext injected. I'll explain this in a follow-up post.
