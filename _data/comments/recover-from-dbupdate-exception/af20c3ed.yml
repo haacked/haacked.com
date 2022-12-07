@@ -1,0 +1,7 @@
+id: af20c3ed
+date: 2022-12-07T08:19:05.4863675Z
+name: Przemyslaw
+avatar: https://unavatar.now.sh/twitter/przemsen/
+message: >+
+  DbContext is not supposed to be thread safe. Why are allowing your repository method to be executed concurrently from multiple threads?
+
