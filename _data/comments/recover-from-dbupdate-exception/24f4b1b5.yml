@@ -1,0 +1,5 @@
+id: 24f4b1b5
+date: 2022-12-08T08:38:41.7168632Z
+name: Przemyslaw
+avatar: https://unavatar.now.sh/twitter/przemsen/
+message: Got it. That is at db level. I recommend you should try experimenting with (UPDLOCK, SERIALIZABLE) hints to achieve atomicity and somehow embed them into EF config. https://sqlperformance.com/2020/09/locking/upsert-anti-pattern
