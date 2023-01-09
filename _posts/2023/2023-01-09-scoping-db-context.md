@@ -99,9 +99,9 @@ public class SlackEventProcessor {
 
     // This code runs in a background Hangfire job.
     public async Task ProcessEventAsync(int id) {
-        var nextEvent = (await _db.SlackEvents.FindAsync(id))
-            ?? throw new InvalidOperationException($"Event not found: {id}");
         await using var db = await _dbContextFactory.CreateDbContextAsync();
+        var nextEvent = (await db.SlackEvents.FindAsync(id))
+            ?? throw new InvalidOperationException($"Event not found: {id}");
         
         try {
             // This does the actual processing of the Slack event.
