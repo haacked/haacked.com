@@ -1,6 +1,6 @@
 ---
-title: "Creating new scopes for DbContexts"
-description: ""
+title: "When Your DbContext Has The Wrong Scope"
+description: "In this post, we look at a scenario when creating a new DbContext in its own scope is the right call."
 tags: [aspnetcore efcore]
 excerpt_image: https://user-images.githubusercontent.com/19977/211218857-0acd9f7d-e9a2-474a-9789-79785f9ca7f3.png
 ---
@@ -83,9 +83,11 @@ public class SlackEventProcessor {
 
 The key thing to note here is that in the case of Hangfire, every time Hangfire processes a job, it creates a unit of work (aka a scope) for that job. The end result is that as long as your `DbContext` derived instance (in this case `AbbotContext`) is registered with a lifetime of `ServiceLifetime.Scoped`, Hangfire will inject a new instance of your `DbContext` when invoking a job. So the code here doesn't call any `DbContext` methods on multiple threads concurrently. We're Ok here in that regard.
 
-However, there *is* an issue with Bill's code here. The `AbbotContext` instance in `SlackEventProcessor` should only be responsible for retrieving and updating the `SlackEvent` instance that it needs to process. It should not be the same instance that is used when we run the pipeline that does the actual Slack event processing. We really want a new `DbContext` instance for that. We should think of those things as being two different scopes.
+However, there *is* an issue with Bill's code here. I glossed over it before, but the `RunPipelineAsync` method internally uses dependency injection to resolve a service to handle the Slack event processing. That service depends on `AbbotContext`. Since this is all running as part of a Hangfire job, it's all in the same Lifetime scope. What that means is that the `AbbotContext` instance that is used to retrieve the `SlackEvent` instance is the same instance that is used to process the event. That's not good.
 
-Instead of injecting a `DbContext` instance into the `SlackEventProcessor`, we should inject an `IDbContextFactory`. Then our code looks like this:
+The `AbbotContext` instance in `SlackEventProcessor` should only be responsible for retrieving and updating the `SlackEvent` instance that it needs to process. It should not be the same instance that is used when running the Slack event processing pipeline.
+
+The solution is to create a separate `AbbotContext` instance for the outer scope. To do that, Bill needs to inject an `IDbContextFactory` into `SlackEventProcessor` and use that to create a new `AbbotContext` instance for the outer scope, resulting in:
 
 ```csharp
 public class SlackEventProcessor {
@@ -117,13 +119,13 @@ public class SlackEventProcessor {
 }
 ```
 
-With this change, the `DbContext` used to retrieve and update the `SlackEvent` from the database is not the same instance used to acutally process the event. This is a good thing. It's sort of glossed over in the code sample, but `RunPipelineAsync` uses the container to inject `AbbotContext` into whatever classes are necessary to actually run the pipeline.
+The instance of `AbbotContext` created by the factory will always be a new instance. It won't be the same instance injected into any dependencies that are resolved by the DI container.
 
 This is a pretty straightforward fix, except the first time Bill tried it, it didn't work.
 
 ## Registering the DbContextFactory Correctly
 
-Let's take a step back. In this whole series, we glossed over how Bill registered the `DbContext` instance with the DI container. Since Bill is working on an ASP.NET Core application, the recommended way to register the `DbContext` is to use the `AddDbContext` extension method on `IServiceCollection`.
+Let's take a step back and look at how Bill registered the `DbContext` instance with the DI container. Since Bill is working on an ASP.NET Core application, the recommended way to register the `DbContext` is to use the `AddDbContext` extension method on `IServiceCollection`.
 
 ```csharp
 services.AddDbContext<AbbotContext>(options => {...});
