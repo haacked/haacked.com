@@ -153,7 +153,7 @@ However, `DbContextFactory` *also* needs to consume the `DbContextOptions` insta
 
 To summarize, `DbContext` is `Scoped` while `DbContextFactory` is `Singleton` and they both need a `DbContextOptions` which is `Scoped` by default.
 
-Fortunately, there's a simple solution. Well, it's simple when you know it, otherwise it's the kind of thing that makes a Bill want to pull his hair out. The solution is to make `DbContextOptions` a `Singleton` as well. Then both `DbContext` and `DbContextOptions` could both use it.
+Fortunately, there's a simple solution. Well, it's simple when you know it, otherwise it's the kind of thing that makes a Bill want to pull his hair out. The solution is to make `DbContextOptions` a `Singleton` as well. Then both `DbContext` and `DbContextFactory` could both use it.
 
 There's an overload to `AddDbContext` that accepts a `ServiceLifetime` specifically for the `DbContextOptions` and you can set *that* to `Singleton`. So Bill's final registration code looks like:
 
