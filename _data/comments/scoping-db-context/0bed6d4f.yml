@@ -1,0 +1,5 @@
+id: 0bed6d4f
+date: 2023-01-31T20:21:14.0350576Z
+name: Dan
+avatar: https://secure.gravatar.com/avatar/48271d3706d8d398c0dbc5645cb8b51d?s=80&d=identicon&r=pg
+message: 'I think you can achieve the same through a much easier method. Call AddDbContextFactory() before AddDbContext(). This will create a DbContextOptions with singleton lifetime, that can be then consumed by AddDbContext. I even made a video on that in the context of Blazor Server. '
