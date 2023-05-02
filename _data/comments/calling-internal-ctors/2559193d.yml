@@ -1,0 +1,10 @@
+id: 2559193d
+date: 2023-05-02T00:05:11.8252319Z
+name: Heath
+avatar: https://robohash.org/07679baf203e4889a483b09c247179cc
+message: >-
+  With the Azure SDKs for .NET, we provide a *ModelFactory for response models. With clients we make all members virtual, but callvirt is an unnecessarily expensive call for models' members. See https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/keyvault/Azure.Security.KeyVault.Keys/src/KeyModelFactory.cs for an example for Key Vault.
+
+
+
+  Alas, the OpenAIClient library does not generate a model factory. https://github.com/Azure/azure-sdk-for-net/issues/35189 may be tracking, but I commented to follow up.
