@@ -25,7 +25,7 @@ You may be thinking, why would anyone want to hear from me? And what would I tal
 
 You often see the same speakers crop up again and again at conferences. This is not a bad thing. These folks have a wealth of experience and wisdom to share. On the other hand, this can to the same type of talk being repeated over and over.
 
-Experience is a double edged sword. It can further detach a person from the beginner's mind. The beginner's mind is a concept from Zen Buddhism that describes how you approach a concept without preconceptions through the eyes of a beginner. Most of the technologies and APIs we use are built by very experienced developers. We often need to be reminded that what's intuitive to us old codgers may not be so obvious to a beginner. Especially a beginner who grew up with an entirely differenc cultural context.
+Experience is a double edged sword. It can further detach a person from the beginner's mind. The beginner's mind is a concept from Zen Buddhism that describes how you approach a concept without preconceptions through the eyes of a beginner. Most of the technologies and APIs we use are built by very experienced developers. We often need to be reminded that what's intuitive to us old codgers may not be so obvious to a beginner. Especially a beginner who grew up with an entirely different cultural context.
 
 For example, I dabbled a bit in coding before my first job out of college, but I didn't really learn to code until my first job where I was thrust into the frying pan and learned on the job on customer projects. I don't know what it's like to go through a coding bootcamp, or how they teach coding. That would be an interesting topic.
 
