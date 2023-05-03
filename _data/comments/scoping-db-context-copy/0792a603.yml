@@ -1,0 +1,5 @@
+id: 0792a603
+date: 2023-05-03T08:51:32.4878436Z
+name: Ken Bonny
+avatar: https://robohash.org/a45abf6489fdca7f9660384ec8747d59
+message: "Could you not just set `optionsLifetime: ServiceLifetime.Transient`? I'm not sure what the `ServiceLifetime` values are, but I'm assuming (did not check!) they are the same as the DI registration options: singleton, scoped and transient."
