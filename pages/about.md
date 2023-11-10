@@ -52,7 +52,7 @@ Here's a more condensed bio I use for conferences
 >
 > Prior to GitHub, he was a Senior Program Manager at Microsoft responsible for shipping ASP.NET MVC, NuGet, among other projects. These products had permissive open source licenses and was part of a concerted effort to drag Microsoft's into the Open Source era.
 >
-> Phil is a co-author of GitHub for Dummies as well as the popular Professional ASP.NET MVC series and regularly speaks at conferences around the world. He's also made several appearances on technology podcasts such as .NET Rocks, Hanselminutes, Herding Code, and The Official jQuery Podcast.
+> Phil is a co-author of GitHub for Dummies as well as the popular Professional ASP.NET MVC series and regularly speaks at conferences around the world. He's also made several appearances on technology podcasts such as .NET Rocks and Hanselminutes.
 >
 > You can find him sharing his thoughts at https://haacked.com/ or on Twitter https://twitter.com/haacked or Threads https://www.threads.net/@haacked.
 
