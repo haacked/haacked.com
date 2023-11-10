@@ -46,12 +46,12 @@ All content on haacked.com is the copyright of Phil Haack unless otherwise state
 
 Here's a more condensed bio I use for conferences
 
-> Phil Haack is a co-founder and CTO of [A Serious Business, Inc.](https://www.aseriousbusiness.com/) building serious products for serious people. Very serious. We are the creators of [Abbot](https://ab.bot/), a Copilot for Customer Success automation. 
+> Phil Haack loves to code. He also loves to build products and engineering teams, with over twenty years of experience in the software industry. He is currently a recovering entrepeneur and independent techno-drifter. That's a fancy way of saying he's taking time off and evaluating his options after shutting down a startup he co-founded - [A Serious Business, Inc.](https://www.aseriousbusiness.com/) (YC S21), the makers of Abbot, a Copilot for Customer Success automation.
 >
-> Phil has over twenty years of experience in the software industry. Prior to A Serious Business, Inc., he was a director of engineering at GitHub and helped make GitHub friendly to developers on the Microsoft platform.
+> Prior to A Serious Business, Inc., he was a director of engineering at GitHub and helped make GitHub friendly to developers on the Microsoft platform.
 >
-> Prior to GitHub, he was a Senior Program Manager at Microsoft responsible for shipping ASP.NET MVC, NuGet, among other projects. These products had permissive open source licenses and ushered in Microsoft's Open Source era.
-> 
+> Prior to GitHub, he was a Senior Program Manager at Microsoft responsible for shipping ASP.NET MVC, NuGet, among other projects. These products had permissive open source licenses and was part of a concerted effort to drag Microsoft's into the Open Source era.
+>
 > Phil is a co-author of GitHub for Dummies as well as the popular Professional ASP.NET MVC series and regularly speaks at conferences around the world. He's also made several appearances on technology podcasts such as .NET Rocks, Hanselminutes, Herding Code, and The Official jQuery Podcast.
 >
 > You can find him sharing his thoughts at https://haacked.com/ or on Twitter https://twitter.com/haacked or Threads https://www.threads.net/@haacked.
