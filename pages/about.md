@@ -8,7 +8,7 @@ tags: [personal]
 permalink: /about/
 ---
 
-<img src="https://user-images.githubusercontent.com/19977/108404639-f3124b80-71d4-11eb-925e-1de429de32e4.jpg" class="profile" title="A photo of me at Lummi Island" alt="A photo of me smiling" />
+<img src="https://github.com/aseriousbiz/abbot-web/assets/19977/525b709d-4c22-4d55-b9b0-9065a6ea71a8" class="profile" title="A photo of me smiling with shrubbery in the background" />
 
 In case you were wondering, not that I have any reason to believe you were, *Haacked* is *not* my real name. _Haacked_ started off as my [blogger handle](https://haacked.com/archive/2005/03/12/what-is-your-blogger-handle.aspx "What’s your blogger handle?"). It's probably no surprise that it's a play off my last name (Haack) and I use it everywhere: [Twitter](https://twitter.com/haacked), [GitHub](https://github.com/haacked), [StackOverflow](https://stackoverflow.com/users/598/haacked), [LinkedIn](https://www.linkedin.com/in/haacked/), and so on.
 
