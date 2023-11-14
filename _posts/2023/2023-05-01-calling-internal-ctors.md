@@ -1,5 +1,5 @@
 ---
-title: Calling internal ctors in your unit tests"
+title: "Calling internal ctors in your unit tests"
 description: "What do you do when you need to construct a class with an internal constructor for a unit test? This is what you do."
 tags: [csharp tdd]
 excerpt_image: https://user-images.githubusercontent.com/19977/235283338-9c406f6d-77b6-4669-9273-4c90bf821487.png
