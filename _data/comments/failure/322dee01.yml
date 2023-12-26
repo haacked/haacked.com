@@ -1,0 +1,15 @@
+id: 322dee01
+date: 2023-12-26T04:30:06.9370656Z
+name: Lee
+avatar: https://robohash.org/d41d8cd98f00b204e9800998ecf8427e
+message: >+
+  You made some important points about the .NET stack, which I too struggle with. Been using it since version 1.0, but now I feel like I wish it could be interpreted during development - and of course that'll never happen.
+
+
+
+  So, what is your next tech stack? This is a VERY important conversion, one we've been having internally here for years.
+
+  .NET is (no longer) as agile as it was, and neither is Java, Rust, Go, etc. (even though awesome and fast in production). So what else? Python is wonderful in dev, but terribly slow in prod. Rails is nice, but it's just not "a thing" in most companies, and there's no talent. What else? Bear with me, don't laugh... There's Perl which is old, but it's blazing fast and also modern due to massive investment by Amazon; still, can't use it as no talent. So what's left? Again, don't laugh... It's old and has a bad reputation from the old days (and Wordpress), but it's also modern and is object-based if you want it, and kept alive as it's the foundation of Facebook, and has every tool you need, and countless threads on StackOverflow, and as much talent as you want... it's PHP. I feel sick admitting it, but it looks like that's our next backend platform.
+
+  What are your thoughts? Might make for an interesting discussion in the wider community, I wonder what people are thinking about this.
+
