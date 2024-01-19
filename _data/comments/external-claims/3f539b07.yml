@@ -1,0 +1,51 @@
+id: 3f539b07
+date: 2024-01-19T23:26:21.8691734Z
+name: DaN
+avatar: https://secure.gravatar.com/avatar/2523ef835f2b054a1d6291bf5f66e688?s=80&d=identicon&r=pg
+message: >+
+  I have implemented IUserClaimsPrincipalFactory and it seems that there is no need to inject SignInManager.
+
+
+
+  public async override Task<ClaimsPrincipal> CreateAsync(User user)
+
+  {
+
+      var principal = await base.CreateAsync(user);
+
+
+
+      if (principal.Identity is ClaimsIdentity claimsIdentity)
+
+      {
+
+          var httpContext = _httpContextAccessor.HttpContext;
+
+
+
+          if (httpContext != null)
+
+          {
+
+              var auth = await httpContext.AuthenticateAsync(IdentityConstants.ExternalScheme);
+
+              var authClaims = auth.Principal?.Claims;
+
+              if (authClaims != null)
+
+              {
+
+                  claimsIdentity.AddClaims(authClaims);
+
+              }
+
+          }
+
+      }
+
+
+
+      return principal;
+
+  }
+
