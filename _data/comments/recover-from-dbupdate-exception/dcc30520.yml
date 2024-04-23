@@ -1,0 +1,14 @@
+id: dcc30520
+date: 2024-04-23T09:08:47.0689483Z
+name: 'Bachpan-play school '
+avatar: https://secure.gravatar.com/avatar/9581820b0bf35528672715de0947bd40?s=80&d=identicon&r=pg
+message: >-
+  Fantastic article! Handling 'DbUpdateException' can be very difficult, particularly when using Entity Framework Core. Your detailed instructions on how to bounce back from this exception are quite beneficial.
+
+
+
+  I've personally dealt with this problem a few times, and I regret not finding your post sooner. I totally agree that the best course of action is to log the data, catch the exception, and then determine whether to roll back the transaction, alert the user, or perform the process again.
+
+
+
+  "https://bachpandwarka.com/bachpan-dwarka-admission-form/"
