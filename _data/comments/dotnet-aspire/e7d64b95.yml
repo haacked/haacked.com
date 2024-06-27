@@ -1,0 +1,10 @@
+id: e7d64b95
+date: 2024-06-27T19:00:03.3580421Z
+name: Šarūnas
+avatar: https://github.com/floatas.png
+message: >-
+  By Docker, do you mean devcontainers ? Recently I have been setting up some local dev environments using devcontainer, and it seems to be perfect to just open workspace run one or multiple services connect them together and start development.
+
+
+
+  Would love to try Aspire some day, from what I understand it is same as devcontainers but it allows you to connect to dependencies that are in cloud ? Looking forward to your next post, would be nice if you could include devcontaienrs in this comparison.
