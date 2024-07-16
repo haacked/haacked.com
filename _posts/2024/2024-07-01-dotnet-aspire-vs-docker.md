@@ -9,7 +9,7 @@ This is a follow-up to [my previous post](https://haacked.com/archive/2024/06/27
 
 ![Docker vs Aspire](https://github.com/user-attachments/assets/34aea55b-3493-401e-a90d-36427b61f6b8)
 
-The goal of these examples is to look at how much "ceremony" there is to add a service dependency to a .NET project using .NET Aspire versus using Docker. Even though it may not be the "best" example, I chose PostgreSql because it's often the first service dependency I add to a new project. The example would be stronger if I chose another service dependency in addition to Postgres, but I think you can extrapolate that as well.
+The goal of these examples is to look at how much "ceremony" there is to add a service dependency to a .NET project using .NET Aspire versus using Docker. Even though it may not be the "best" example, I chose PostgreSql because it's often the first service dependency I add to a new project. The example would be stronger if I chose another service dependency in addition to Postgres, but I think you can extrapolate that as well. And I have another project I'm working on that will have more dependencies.
 
 I won't include installing the pre-requisite tooling as part of the "ceremony" because that's a one-time thing. I'll focus on the steps to add the service dependency to a project.
 
@@ -227,4 +227,11 @@ Now to run the app, I can hit `F5` in Visual Studio/Rider or run `dotnet run` in
 
 ## Conclusions
 
-At the end of both walkthroughs we end up with a simple Blazor web app that uses a PostgreSQL database. 
+At the end of both walkthroughs we end up with a simple Blazor web app that uses a PostgreSQL database. Personally, I like the .NET Aspire approach because I didn't have to mess with connection strings and the `F5` to run experience is preserved.
+
+As I mentioned before, I have another project I'm working on that has more dependencies. When I'm done with that port, I think it'll be a better example of the ceremony surrounding cloud dependencies when using .NET Aspire.
+
+In any case, you can see both of these projects I created on GitHub.
+
+* [haacked/docker-efcore-postgres-demo](https://github.com/haacked/docker-efcore-postgres-demo)
+* [haacked/aspire-efcore-postgres-demo](https://github.com/haacked/aspire-efcore-postgres-demo)
