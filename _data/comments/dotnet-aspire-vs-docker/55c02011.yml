@@ -1,0 +1,5 @@
+id: 55c02011
+date: 2024-07-19T12:32:42.6015787Z
+name: Steve Ognibene
+avatar: https://robohash.org/b49aabacfb5b9ab22461ba095f001061
+message: Will be nice if they integrate with out of process db creation/migration platforms like SQL Server Data Tools or Flyway.  If not on EF there’s a big gap here.
