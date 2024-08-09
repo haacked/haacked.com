@@ -1,0 +1,10 @@
+id: 2fc5d1da
+date: 2024-08-09T16:53:10.2932347Z
+name: Rafferty McDonald
+avatar: https://github.com/RMcD.png
+message: >-
+  I've used a similar pattern on my options objects in the past by creating a unit test that uses conventions and reflection to validate all of the options classes/records have a static field for Configuration name with a non-null value. CI then fails it someone adds an options object without one. The configuration section name is used in builder extensions to have each option class identify the section with which it binds.
+
+
+
+  I like this as an option (haha) though. I'll have to give it a spin.
