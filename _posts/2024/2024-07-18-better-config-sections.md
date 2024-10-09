@@ -47,7 +47,7 @@ In `Program.cs`, I can configure this mapping.
 builder.Configuration.Configure<OpenAIOptions>(builder.Configuration.GetSection("OpenAI"));
 ```
 
-With this configured, I can inject an `IOptions<OpenAIOptions>` into any class that's resolved via Dependency Injection and access the congfig section properties in a strongly typed manner.
+With this configured, I can inject an `IOptions<OpenAIOptions>` into any class that's resolved via Dependency Injection and access the config section properties in a strongly typed manner.
 
 ```csharp
 using Microsoft.Extensions.Options;
@@ -67,7 +67,7 @@ Configuration.GetSection("OpenAI").Get<OpenAIOptions>()
 
 ## Static Virtual Interfaces Come To Clean Up
 
-This is all fine, but a little repetitive when you have multiple congfiguration classes. I'd like to build a more convention based approach. This is where static virtual members in interfaces come in handy.
+This is all fine, but a little repetitive when you have multiple configuration classes. I'd like to build a more convention based approach. This is where static virtual members in interfaces come in handy.
 
 First, let's define an interface for all my configuration sections.
 
