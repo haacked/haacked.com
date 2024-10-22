@@ -1,7 +1,7 @@
 ---
 title: ".NET Aspire vs Docker."
 description: "Comparing setting up a PostgreSql dependency using Docker vs using .NET Aspire?"
-tags: [aspire dotnet nuget service-dependencies]
+tags: [aspire,dotnet,nuget,service-dependencies]
 excerpt_image: https://github.com/user-attachments/assets/34aea55b-3493-401e-a90d-36427b61f6b8
 ---
 

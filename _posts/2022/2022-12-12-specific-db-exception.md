@@ -1,7 +1,7 @@
 ---
 title: "Why Did That Database Throw That Exception?"
 description: "Entity Framework Core will throw a DbUpdateException when something goes wrong trying to save your changes. But why it did can be important when trying to recover from such an exception."
-tags: [aspnetcore efcore]
+tags: [aspnetcore,efcore]
 excerpt_image: https://user-images.githubusercontent.com/19977/206928216-e465caff-5f86-4449-bf91-0f1fbe4a2da6.png
 ---
 

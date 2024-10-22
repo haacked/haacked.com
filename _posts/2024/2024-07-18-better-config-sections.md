@@ -1,7 +1,7 @@
 ---
 title: "Custom config sections using static virtual members in interfaces"
 description: "C# 11 introduced static virtual members in interfaces. The primary motivation for this feature is to support generic math algorithms. But it turns out, this feature is useful in other scenarios."
-tags: [csharp dotnet aspnetcore]
+tags: [csharp,dotnet,aspnetcore]
 ---
 
 C# 11 introduced a new feature - [static virtual members in interfaces](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/static-virtual-interface-members). The primary motivation for this feature is to support generic math algorithms. The mention of math might make some ignore this feature, but it turns out it can be useful in other scenarios.
