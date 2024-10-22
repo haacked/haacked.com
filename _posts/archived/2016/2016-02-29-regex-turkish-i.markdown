@@ -121,8 +121,9 @@ While writing this post, I used several helpful online utilities to help me test
 
 ## Useful online tools
 
-* https://repl.it/languages provides a REPL for multiple languages such as Ruby, JavaScript, C#, Python, Go, and LOLCODE among many others.
-* http://www.tutorialspoint.com/execute_perl_online.php is a Perl REPL since that last site did not include Perl.
+* https://replit.com/templates provides a REPL for multiple languages such as Ruby, JavaScript, C#, Python, Go, and LOLCODE among many others.
+* https://www.tutorialspoint.com/execute_perl_online.php is a Perl REPL since that last site did not include Perl.
 * http://regexstorm.net/tester is a regular expression tester that uses the .NET regex engine.
 * https://regex101.com/#javascript allows testing regular expressions using PHP, JavaScript, and Python engines.
-* http://rubular.com/ allows testing using the Ruby regular expression engine.
+* https://rubular.com/ allows testing using the Ruby regular expression engine.
+* [https://pythonium.net/regex](https://pythonium.net/regex) allows to visualize and test regular expressions using the Python engine.
