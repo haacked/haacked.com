@@ -1,7 +1,7 @@
 ---
 title: "Is .NET Aspire NuGet for Cloud Service Dependencies?"
 description: ".NET Aspire has similar goals to NuGet in that it aims to streamline the number of steps it takes to incorporate a cloud service into a project. But Aspire has goals that are more far-reaching than NuGet."
-tags: [aspire dotnet nuget service-dependencies cloud docker]
+tags: [aspire,dotnet,nuget,service-dependencies,cloud,docker]
 excerpt_image: https://github.com/haacked/ai-demo/assets/19977/9ce2bdc0-866e-47a8-bef0-e3bd00b80730
 ---
 

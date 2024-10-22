@@ -1,7 +1,7 @@
 ---
 title: "Calculating MRR with Stripe and C#"
 description: "Monthly Recurring Revenue is an important indicator for the health of your business. Here's how to calculate it using the Stripe API and C#."
-tags: [stripe abbot]
+tags: [stripe,abbot]
 excerpt_image: https://user-images.githubusercontent.com/19977/195433434-7d3bd771-e32a-4630-b12f-08980bf5abc2.jpg
 ---
 

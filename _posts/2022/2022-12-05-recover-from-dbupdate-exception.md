@@ -1,7 +1,7 @@
 ---
 title: "How to Recover from a DbUpdateException With EF Core"
 description: "There are cases where you can recover from a DbUpdateException if you play your cards right. This post highlights one such scenario, a pitfall that's easy to run into, and how to recover."
-tags: [aspnetcore efcore]
+tags: [aspnetcore,efcore]
 excerpt_image: https://user-images.githubusercontent.com/19977/205463714-68148077-0539-45c9-955d-5c687058cfa8.png
 ---
 

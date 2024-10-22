@@ -1,7 +1,7 @@
 ---
 title: "When Your DbContext Has The Wrong Scope"
 description: "In this post, we look at a scenario when creating a new DbContext in its own scope is the right call."
-tags: [aspnetcore efcore]
+tags: [aspnetcore,efcore]
 excerpt_image: https://user-images.githubusercontent.com/19977/211218857-0acd9f7d-e9a2-474a-9789-79785f9ca7f3.png
 ---
 
