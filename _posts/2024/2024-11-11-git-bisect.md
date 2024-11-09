@@ -88,9 +88,9 @@ I made this change in the `App.razor` file because I was tired of adding render 
 + <Routes @rendermode="InteractiveServer" />
 ```
 
-It turns out, this was a bad idea and the source of the infinite redirect. I don't understand Blazor well enough yet to know why this caused the issue, but I'm happy to have found it. I'll dig into the root cause later.
+It turns out, this change wasn't exactly wrong, just incomplete. I can save the proper fix as a follow-up post. I'm annoyed that Copilot wasn't able to offer up the eventual solution because I found it by googling around.
 
-For now, I can get back to my original state before running `git bisect` by calling `git bisect reset`.
+Now that I found the culprit, I can get back to my original state before running `git bisect` by calling `git bisect reset`.
 
 ## Challenges with Git Bisect
 
