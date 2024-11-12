@@ -1,0 +1,5 @@
+id: 15ded58d
+date: 2024-11-12T01:55:04.6912320Z
+name: Max
+avatar: https://secure.gravatar.com/avatar/5fc7c28e6b6e01c5b61e1b1e6ce78bba?s=80&d=identicon&r=pg
+message: If you are using a PR workflow with CI testing and merge commits you can use the first-parent flag for git bisect in your main branch (or other CI enforced integration branch) to first determine which PR (merge commit) introduced the bug. I find this pass can often be easily automated (because your CI system already enforced that they build). Sometimes knowing the PR can be all you need, too. If you do need to drill down into which commit inside a PR, you branch the “second parent” and you can again benefit from the first-parent flag to test only the PR’s “own” not any commits brought in from other branches. (You could keep drilling down at that point, but often if PRs are merging only from CI checked integration branches like regular remerges with your main branch, then if a bug is introduced by such a merge commit it is often the merge conflict resolutions in that merge commit themselves that are the culprit and that really is the problem commit.)
