@@ -5,21 +5,21 @@ tags: [career]
 excerpt_image: https://github.com/user-attachments/assets/3b66f137-fd6b-4c3c-aedd-0c46701657fb
 ---
 
-The career ladder is a comforting fiction we’re sold: Start as Junior, climb to Senior, then Principal, Director, and VP. One day, after paying all your dues, you gain access to the executive bathroom and bask in the C-suite glow.
-
-![Lumbergh from office space](https://github.com/user-attachments/assets/71945726-4bc8-494f-b076-22f0518f24d4 "Yeah, I'm going to need you to come in on Saturday")
+The career ladder is a comforting fiction we’re sold as we embark on our careers: Start as Junior, climb to Senior, then Principal, Director, and VP. One day, after paying all your dues, you gain access to the executive bathroom and bask in the C-suite glow.
 
 If you’re lucky, your company supports a tall Individual Contributor (IC) ladder. But often, the next rung swaps your hoodie for a power shirt, suspenders, and management duties.
 
+![Lumbergh from office space](https://github.com/user-attachments/assets/71945726-4bc8-494f-b076-22f0518f24d4 "Yeah, I'm going to need you to come in on Saturday")
+
 My first job followed this script: developer to team lead to Senior Manager. I was hustling up that ladder.
 
-But life isn’t linear. Careers are more like Chutes and Ladders. Lucky breaks shoot you up; surprises send you sliding down. Those chutes? Not failures. Opportunities.
+But life isn’t linear. Careers are more like Chutes and Ladders (which the Brits know as Snakes and Ladders, but that messes up my metaphor). Lucky breaks shoot you up; surprises send you sliding down. Those chutes? Not failures. Opportunities.
 
 ![The game of chutes and ladders](https://github.com/user-attachments/assets/3b66f137-fd6b-4c3c-aedd-0c46701657fb)
 
-Take my journey. I stepped down from Senior Manager to IC at my second job. Two roles later, I was blending coding and management. At Microsoft, I switched to being a Senior Program Manager. Then came a chute: GitHub.
+Take my journey. I took a shoot from my first job back to an IC role at my second. Two roles later, I was blending coding and management. At Microsoft, I switched to being a Senior Program Manager. Then came a chute: GitHub.
 
-I started as a developer, became a manager, then Director of Engineering. After that, I co-founded a startup, took the CTO title, but spent most of my time writing code. It looked like the classic ladder climb, but in startups, titles are smoke and mirrors. So it only counted as a step up if we succeeded. Spoiler: we didn’t.
+I started as a developer, became a manager, then Director of Engineering. After that, I co-founded a startup, took the CTO title, but spent most of my time writing code. It looked like the classic ladder climb, but in startups, titles are smoke and mirrors. So it only counted as a step up if we succeeded. [Spoiler: we didn’t.](https://haacked.com/archive/2023/11/13/failure/)
 
 ## Ladders Are Overrated
 
@@ -29,13 +29,17 @@ As Director, I mentored teams and scaled initiatives. But over time, I started t
 
 ## Growth on the Slide
 
-Over a year later, I’ve been thinking about my next move. Conventional wisdom (and ego) says aim higher: VP of Software Development or CTO at an established company. But big titles mean big demands and less control over my time. Life circumstances make time autonomy my top priority. Sure, big titles pay well, but maximizing income isn’t my goal.
+Over a year later, I’ve been thinking about my next move. Conventional wisdom (and ego) says aim higher: VP of Software Development or CTO at an established company.
 
-Here’s what I realized: By my own definition, I’ve succeeded. I’ve been part of great teams, built great products, and helped grow companies. I have nothing to prove to anyone. I don’t need a lofty title or a giant paycheck.
+The irony of big titles is they mean more power at work in many ways, but less power over your individual life. They place large demands on your time and give you less control over them as you spend so much time in meetings.
 
-So, once again, I’m setting aside my pride and stepping off the ladder. On January 6th, I start a new IC role. Details to come, but I’m thrilled to be back in the trenches, building and learning. It’s a place that treats its employees like adults and gives me the autonomy to structure my day as I see fit.
+For me, my recent life circumstances make time autonomy among my top priorities. Sure, big titles pay well, but maximizing income isn’t my goal.
 
-This isn’t about rejecting leadership. It’s about recalibrating. Leadership is broad. It’s guiding organizations or leading by example. I think it’s healthy—even advantageous—to move between IC and management roles. Life changes. I might return to management someday. Or not. The point is to stay open to what fits now.
+Here’s what I realized: By my own definition, I’ve succeeded. I’ve been part of great teams, built great products, and helped grow companies. I have nothing to prove to anyone. I don’t need a lofty title or a giant paycheck (but I'll accept one if someone is offering).
+
+So, once again, I’m setting aside my pride and stepping off the ladder. Next year on January 6th I start a new IC role. Details to come, but I’m thrilled to be back in the trenches, building and learning. It’s a place that treats its employees like adults and gives me the autonomy to structure my day as I see fit.
+
+This isn’t about rejecting leadership. It’s about recalibrating. Leadership is broad. It’s guiding organizations or leading by example. I think it’s healthy—even advantageous—to bounce between IC and management roles over the course of a career. Life changes. I might return to management someday. Or not. The point is to stay open to what fits now.
 
 ## Your Move
 
@@ -44,4 +48,3 @@ If you’re staring at a chute, wondering if stepping off the ladder will ruin y
 Careers aren’t about perfect titles. They’re about collecting experiences, relationships, and skills that shape you. Sometimes, the most important moves don’t look like progress—until you’re somewhere unexpected, doing work that matters.
 
 Spin the dial. Take the slide. Even in Chutes and Ladders, the winner isn’t who climbs highest. It’s who enjoys the game.
-
