@@ -5,7 +5,7 @@ tags: [career]
 excerpt_image: https://github.com/user-attachments/assets/3b66f137-fd6b-4c3c-aedd-0c46701657fb
 ---
 
-The career ladder is a comforting fiction we’re sold as we embark on our careers: Start as Junior, climb to Senior, then Principal, Director, and VP. One day, after paying all your dues, you gain access to the executive bathroom and bask in the C-suite glow.
+The career ladder is a comforting fiction we’re sold as we embark on our careers: Start as Junior, climb to Senior, then Principal, Director, and VP. One day, you finally trade the only thing you have left, your soul, for a key to the executive bathroom and bask in the C-suite glow. You've made it!
 
 If you’re lucky, your company supports a tall Individual Contributor (IC) ladder. But often, the next rung swaps your hoodie for a power shirt, suspenders, and management duties.
 
@@ -17,25 +17,29 @@ But life isn’t linear. Careers are more like Chutes and Ladders (which the Bri
 
 ![The game of chutes and ladders](https://github.com/user-attachments/assets/3b66f137-fd6b-4c3c-aedd-0c46701657fb)
 
-Take my journey. I took a shoot from my first job back to an IC role at my second. Two roles later, I was blending coding and management. At Microsoft, I switched to being a Senior Program Manager. Then came a chute: GitHub.
+Take my journey. I took a chute from my first job back to an IC role at my second. Climbed back up into management. Took a chute to Microsoft as a Senior Program Manager. Then came another chute: GitHub.
 
-I started as a developer, became a manager, then Director of Engineering. After that, I co-founded a startup, took the CTO title, but spent most of my time writing code. It looked like the classic ladder climb, but in startups, titles are smoke and mirrors. So it only counted as a step up if we succeeded. [Spoiler: we didn’t.](https://haacked.com/archive/2023/11/13/failure/)
+I started as a developer, became a manager, then Director of Engineering. After that, I co-founded a startup, took the CTO title, but spent most of my time writing code.
+
+It looked like the classic ladder climb, but in startups, titles are smoke and mirrors. So it only counted as a step up if we succeeded. [Spoiler: we didn’t.](https://haacked.com/archive/2023/11/13/failure/)
 
 ## Ladders Are Overrated
 
 Ladders are narrow and rigid. Titles—while shiny—hide what matters: the work. They’re bumper stickers for your career. Nice for signaling, but they don’t tell the whole story.
 
-As Director, I mentored teams and scaled initiatives. But over time, I started to miss the tech. The longer I stayed out of writing production code, the more disconnected I felt. As a CTO, I got back to coding and loved it. When the startup failed, I promised myself at least a year off to reflect before jumping into something new.
+As Director, I mentored teams and focused on broad initiatives. But over time, I started to miss the tech. The longer I stayed out of writing production code, the more disconnected I felt. As a CTO, I got back to coding and loved it. When the startup failed, I promised myself at least a year off to reflect before jumping into something new.
 
 ## Growth on the Slide
 
-Over a year later, I’ve been thinking about my next move. Conventional wisdom (and ego) says aim higher: VP of Software Development or CTO at an established company.
+Over a year later, I’ve been thinking about my next move. It turns out nobody will pay me to be a man of leisure.
 
-The irony of big titles is they mean more power at work in many ways, but less power over your individual life. They place large demands on your time and give you less control over them as you spend so much time in meetings.
+Conventional wisdom (and ego) says aim higher: VP of Software Development or CTO at an established company.
+
+The irony of big titles is they mean more power at work, but less power over your time.
 
 For me, my recent life circumstances make time autonomy among my top priorities. Sure, big titles pay well, but maximizing income isn’t my goal.
 
-Here’s what I realized: By my own definition, I’ve succeeded. I’ve been part of great teams, built great products, and helped grow companies. I have nothing to prove to anyone. I don’t need a lofty title or a giant paycheck (but I'll accept one if someone is offering).
+Here’s what I realized: By my own definition, I’ve succeeded. I’ve been part of great teams, built great products, and helped grow companies. I have nothing left to prove. I don’t need a lofty title or a giant paycheck (but I wouldn't turn one down either).
 
 So, once again, I’m setting aside my pride and stepping off the ladder. Next year on January 6th I start a new IC role. Details to come, but I’m thrilled to be back in the trenches, building and learning. It’s a place that treats its employees like adults and gives me the autonomy to structure my day as I see fit.
 
