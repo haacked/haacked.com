@@ -5,7 +5,7 @@ tags: [career]
 excerpt_image: https://github.com/user-attachments/assets/3b66f137-fd6b-4c3c-aedd-0c46701657fb
 ---
 
-The career ladder is a comforting fiction we’re sold as we embark on our careers: Start as Junior, climb to Senior, then Principal, Director, and VP. One day, you finally trade the only thing you have left, your soul, for a key to the executive bathroom and bask in the C-suite glow. You've made it!
+The career ladder is a comforting fiction we’re sold as we embark on our careers: Start as Junior, climb to Senior, then Principal, Director, and VP. One day, you defeat the final boss and receive a key to the executive bathroom and and join the C-suite. You've made it!
 
 If you’re lucky, your company supports a tall Individual Contributor (IC) ladder. But often, the next rung swaps your hoodie for a power shirt, suspenders, and management duties.
 
