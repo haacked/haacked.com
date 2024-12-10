@@ -43,8 +43,8 @@ This isn’t about rejecting leadership. It’s about recalibrating. Leadership 
 
 ## Your Move
 
-If you’re staring at a chute, wondering if stepping off the ladder will ruin you, consider this: maybe it’s not a setback. Maybe it’s a shortcut to what you really want.
+If you’re staring at a chute, wondering if stepping off the ladder will hurt you, consider this: maybe it’s not a setback. Maybe it’s a shortcut to what you really want.
 
 Careers aren’t about perfect titles. They’re about collecting experiences, relationships, and skills that shape you. Sometimes, the most important moves don’t look like progress—until you’re somewhere unexpected, doing work that matters.
 
-Spin the dial. Take the slide. Even in Chutes and Ladders, the winner isn’t who climbs highest. It’s who enjoys the game.
+Spin the dial. Take the slide. Even in Chutes and Ladders, the winner isn’t who climbs highest. It’s who enjoys the game. At least, that's what I told my friends when they beat me.
