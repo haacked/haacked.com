@@ -2,7 +2,7 @@
 title: "Deserializing JSON to a string or a value"
 description: "You may want to deserialize JSON to strongly typed values, but sometimes you run into a situation where the API doesn't comply, until now."
 tags: [csharp json]
-excerpt_image: https://github.com/user-attachments/assets/15a13230-644f-4e5e-827e-c4c35051c77e...
+excerpt_image: https://github.com/user-attachments/assets/15a13230-644f-4e5e-827e-c4c35051c77e
 ---
 
 I love using [Refit](https://github.com/reactiveui/refit) to call web APIs in a nice type-safe manner. Sometimes though, APIs don't want to cooperate with your strongly-typed hopes. For example, you might run into an API written by a hipster in a beanie, aka a dynamic-type enthusiast. I don't say that pejoratively. Some of my closest friends write Python and Ruby.
