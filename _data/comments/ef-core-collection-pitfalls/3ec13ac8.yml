@@ -1,0 +1,7 @@
+id: 3ec13ac8
+date: 2024-12-18T18:02:39.7101650Z
+name: Dave
+avatar: https://robohash.org/d41d8cd98f00b204e9800998ecf8427e
+message: >+
+  I wish there was a good solution for this. It should "explode" (throw) if I try to access a collection that I haven't included (when not lazy loading). This is a case where a runtime exception would actually be an improvement over the default. Just silently giving an empty collection is really frustrating and I can't seem to find a good alternative.
+
