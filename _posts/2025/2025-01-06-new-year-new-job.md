@@ -1,0 +1,34 @@
+---
+title: "New Year, New Job"
+description: "Taking the plunge into a new job at PostHog."
+tags: [career, work]
+excerpt_image: 
+---
+
+Last year I wrote a post about [career chutes and ladders](/archive/2024/12/10/chutes-and-ladder). The idea is that a career doesn't have to be a linear climb to the C-suite. At the end of the post, I mentioned I was stepping off the ladder to take on an IC role.
+
+Well, today's the day! After over a year of being on a personally funded sabbatical, I start a new job at [PostHog](https://posthog.com) as a Senior Product Engineer. This week is my orientation where I get to [drink from the firehose](https://haacked.com/archive/2007/10/26/drinking-from-the-firehose.aspx/) once again.
+
+## What is PostHog
+
+Apart from being a company that seems to really love cute hedgehogs, PostHog is an open-source product analytics platform. They have a set of tools to help product engineers build better products. Each product can be used as a standalone tool, but they're designed to level-up when you put them together.
+
+In particular, I'll be starting on the [Feature Flags team](https://posthog.com/feature-flags).
+
+## Why PostHog?
+
+When I was looking around at companies, an [old buddy from GitHub](https://github.com/phanatic) who worked at PostHog reached out to me and suggested I take a look at this company. He said it reminded him of the good parts of working at GitHub.
+
+[Their company handbook](https://posthog.com/handbook) really impressed me. What it communicates to me is that this is a company that values transparency, autonomy, and trust. It's a company that treats its employees like adults and tries to minimize overhead.
+
+I'm excited to be part of a company that's small, but growing. I'm joining at a similar stage to when I joined GitHub. This is a team with a strong producte engineering culture and I'm excited to contribute what I can and learn from them.
+
+## The Challenge
+
+The other part that's exciting for me is that I'll be working in a stack that I don't have a huge amount of experience with. The front-end is React with TypeScript and the back-end is Django with Python. I've done a bit of work in all these technologies except Django. However, I believe my experience with ASP.NET MVC will help me pick up Django quickly.
+
+Not to mention, I've always taken the stance that I'm a software engineer, not just a .NET developer. Don't get me wrong, I love working in .NET. But at the same time, I think it's healthy for me to get production experience in other stacks. It'll be an area of personal growth. Not to mention, they don't quite have a .NET Client SDK yet so once I get settled in, that's something I'm interested in getting started on.
+
+## The Future
+
+I'll share more about my experience here as I get settled in. In the meanwhile, wish me luck!
