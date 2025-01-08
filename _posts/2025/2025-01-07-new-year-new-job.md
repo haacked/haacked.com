@@ -31,8 +31,7 @@ Not only that, they've embraced a lot of employee-friendly practices. For exampl
 
 This is a perk usually only offerered to executives.
 
-> [!NOTE]  
-> I should [mention we're hiring](https://posthog.com/careers)! Please mention me if you apply. If we've worked together, let me know so I can provide feedback internally.
+*I should [mention we're hiring](https://posthog.com/careers)! Please mention me if you apply. If we've worked together, let me know so I can provide feedback internally.*
 
 I'm excited to be part of a company that's small, but growing. The company is at a stage similar to the stage GitHub was at when I joined. This is a team with a strong product engineering culture and I'm excited to contribute what I can and learn from them.
 
