@@ -2,10 +2,12 @@
 title: "New Year, New Job"
 description: "Taking the plunge into a new job at PostHog."
 tags: [career, work]
-excerpt_image: 
+excerpt_image: https://github.com/user-attachments/assets/0a825e78-c3e5-4aa4-ac1f-13ba597da4a5
 ---
 
 Last year I wrote a post about [career chutes and ladders](/archive/2024/12/10/chutes-and-ladder). The idea is that a career doesn't have to be a linear climb to the C-suite. At the end of the post, I mentioned I was stepping off the ladder to take on an IC role.
+
+![Hedge hog typing on a keyboard](https://github.com/user-attachments/assets/0a825e78-c3e5-4aa4-ac1f-13ba597da4a5)
 
 Well, today's the day! After over a year of being on a personally funded sabbatical, I start a new job at [PostHog](https://posthog.com) as a Senior Product Engineer. This week is my orientation where I get to [drink from the firehose](https://haacked.com/archive/2007/10/26/drinking-from-the-firehose.aspx/) once again.
 
@@ -19,9 +21,9 @@ In particular, I'll be starting on the [Feature Flags team](https://posthog.com/
 
 When I was looking around at companies, an [old buddy from GitHub](https://github.com/phanatic) who worked at PostHog reached out to me and suggested I take a look at this company. He said it reminded him of the good parts of working at GitHub.
 
-[Their company handbook](https://posthog.com/handbook) really impressed me. What it communicates to me is that this is a company that values transparency, autonomy, and trust. It's a company that treats its employees like adults and tries to minimize overhead.
+[Their company handbook](https://posthog.com/handbook) really impressed me. What it communicates to me is that this is a remote-friendly company that values transparency, autonomy, and trust. It's a company that treats its employees like adults and tries to minimize overhead.
 
-I'm excited to be part of a company that's small, but growing. I'm joining at a similar stage to when I joined GitHub. This is a team with a strong producte engineering culture and I'm excited to contribute what I can and learn from them.
+I'm excited to be part of a company that's small, but growing. The company is at a stage similar to the stage GitHub was at when I joined. This is a team with a strong product engineering culture and I'm excited to contribute what I can and learn from them.
 
 ## The Challenge
 
