@@ -48,7 +48,7 @@ All content on haacked.com is the copyright of Phil Haack unless otherwise state
 
 Here's a more condensed bio I use for conferences
 
-> Phil Haack loves to code. He also loves to build products and engineering teams, with over twenty years of experience in the software industry. He is currently a recovering entrepeneur and independent techno-drifter. That's a fancy way of saying he's taking time off and evaluating his options after shutting down a startup he co-founded - [A Serious Business, Inc.](https://www.aseriousbusiness.com/) (YC S21), the makers of Abbot, a Copilot for Customer Success automation.
+> Phil Haack loves to code. He also loves to build products and engineering teams, with over twenty years of experience in the software industry. He is currently a Senior Product Engineer at PostHog. Prior to that, he co-founded - [A Serious Business, Inc.](https://www.aseriousbusiness.com/) (YC S21), the makers of Abbot, a Copilot for Customer Success automation.
 >
 > Prior to A Serious Business, Inc., he was a director of engineering at GitHub and helped make GitHub friendly to developers on the Microsoft platform.
 >
