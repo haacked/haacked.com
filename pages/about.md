@@ -18,9 +18,9 @@ The best way to reach me is to DM me on Twitter.
 
 ## What I do
 
-Right now I'm taking a break from full-time employment. I've been enjoying some time off, traveling to give a few talks, and doing a bit of consulting here and there.
+After taking a nice long break from full-time employment, I recently started as a Senior Product Engineer at [PostHog](https://posthog.com/). I wrote a [little about my experience so far](https://haacked.com/archive/2025/01/07/new-year-new-job/).
 
-Most recently, I co-founded [A Serious Business, Inc.](https://www.aseriousbusiness.com/). We were the creators of [Abbot](https://ab.bot/), a hosted chat bot that helps teams make ChatOps a reality. You can learn more in [my blog post introducing Abbot](https://haacked.com/archive/2021/02/11/introducing-abbot/).
+Prior to that, I co-founded [A Serious Business, Inc.](https://www.aseriousbusiness.com/). We were the creators of [Abbot](https://ab.bot/), a hosted chat bot that helps teams make ChatOps a reality. You can learn more in [my blog post introducing Abbot](https://haacked.com/archive/2021/02/11/introducing-abbot/).
 
 Before I started A Serious Business, Inc., I worked at [GitHub](http://github.com/) doing whatever I could [to make it even more awesome](https://haacked.com/archive/2018/12/18/leaving-github/). Prior to that I worked at Microsoft on [NuGet](http://nuget.org) and [ASP.NET MVC](https://www.asp.net/mvc) and helped to usher in Microsoft's Open Source era.
 
