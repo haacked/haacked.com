@@ -14,7 +14,8 @@ In case you were wondering, not that I have any reason to believe you were, *Haa
 
 If you're into real names, my real name is Phil Haack. Nice to meet you!
 
-The best way to reach me is to DM me on Twitter.
+> [!TIP]
+> The best way to reach me is to ping me on [BlueSky](https://bsky.app/profile/haacked.com).
 
 ## What I do
 
