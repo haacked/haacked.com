@@ -27,7 +27,8 @@ When I was looking around at companies, an [old buddy from GitHub](https://githu
 
 Not only that, they've embraced a lot of employee-friendly practices. For example, a while back my friend Zach wrote about his [distaste for the 90 day exercise window](https://zachholman.com/posts/fuck-your-90-day-exercise-window/). PostHog [provides a 10-year window](https://posthog.com/handbook/people/compensation). Not only that, they offer employes double trigger acceleration!
 
-> Double trigger acceleration, which means if you are let go or forced to leave due to the company being acquired, you receive all of your options at that time
+> ![NOTE]
+> Double trigger acceleration means if you are let go or forced to leave due to the company being acquired, you receive all of your options at that time
 
 This is a perk usually only offerered to executives.
 
