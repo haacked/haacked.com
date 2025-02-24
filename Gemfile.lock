@@ -282,11 +282,10 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-feed (~> 0.6)
+  jekyll-feed (~> 0.17.0)
   jekyll-gfm-admonitions
   jekyll-include-cache
   jekyll-remote-theme
-  minima (~> 2.0)
   tzinfo-data
 
 BUNDLED WITH
