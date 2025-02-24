@@ -68,7 +68,7 @@ kramdown:
   hard_wrap: false
 remote_theme: haacked/haackbar
 
-exclude: [README.md CODE_OF_CONDUCT.md script .gitattributes .gitignore keybase.txt RakeFile]
+exclude: [README.md, CODE_OF_CONDUCT.md, script, .gitattributes, .gitignore, keybase.txt, RakeFile, vendor]
 keep_files: [images demos code ads.txt robots.txt favicon.ico]
 incremental: true
 
