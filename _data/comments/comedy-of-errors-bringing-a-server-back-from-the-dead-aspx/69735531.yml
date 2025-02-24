@@ -1,0 +1,14 @@
+id: 69735531
+date: 2025-02-24T16:17:08.9141705Z
+name: jackhicks121
+avatar: https://secure.gravatar.com/avatar/5729db0daccf4dd591600b647110a55d?s=80&d=identicon&r=pg
+message: >-
+  Wow, what an adventure! This story is a perfect reminder of how important it is to troubleshoot step by step before jumping to conclusions (and purchases). Testing the hard drive and SATA cables first could have saved a lot of time and frustration, but hindsight is always 20/20!
+
+
+
+  Given the issues with the SATA controller, this might be a great opportunity to upgrade to an NVMe E1.S SSD https://serverorbit.com/solid-state-drives-ssd/nvme-e1-s-ssd/960gb-5-9mm, like the 960GB-5.9mm model. Not only would this provide faster read/write speeds, but it would also bypass any failing SATA controller since NVMe drives connect directly to the PCIe lanes. It could be a perfect solution to future-proof the build server while getting a nice performance boost.
+
+
+
+  Has anyone here transitioned from SATA HDDs to NVMe E1.S SSDs on a build server? Would love to hear about the performance improvements and compatibility tips!
