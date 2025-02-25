@@ -7,6 +7,8 @@ description: > # this means to ignore newlines until "twitter_username:"
   You've been Haacked is a blog about
   Technology, Software, Management, and Open Source.
   It's full of good stuff.
+url: "https://haacked.com"      # Your site's main URL
+baseurl: ""                     # Leave empty if your site is at root
 repository: haacked/haacked.com
 github_repo_url: https://github.com/haacked/haacked.com
 github_source_branch: main
