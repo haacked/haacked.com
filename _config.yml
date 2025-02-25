@@ -8,6 +8,8 @@ description: > # this means to ignore newlines until "twitter_username:"
   Technology, Software, Management, and Open Source.
   It's full of good stuff.
 repository: haacked/haacked.com
+github_repo_url: https://github.com/haacked/haacked.com
+github_source_branch: main
 
 # Google Analytics
 google_analytics: UA-177588-1
