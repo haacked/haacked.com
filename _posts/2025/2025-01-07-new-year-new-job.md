@@ -7,7 +7,7 @@ excerpt_image: https://github.com/user-attachments/assets/0a825e78-c3e5-4aa4-ac1
 
 Last year I wrote a post, [career chutes and ladders](/archive/2024/12/10/chutes-and-ladder), where I proposed that a linear climb to the C-suite is not the only approach to a satisfying career. At the end of the post, I mentioned I was stepping off the ladder to take on an IC role.
 
-![Hedge hog typing on a keyboard](https://github.com/user-attachments/assets/0a825e78-c3e5-4aa4-ac1f-13ba597da4a5)
+![Hedge hog typing on a keyboard](https://github.com/user-attachments/assets/0a825e78-c3e5-4aa4-ac1f-13ba597da4a5 "Might be easier to code if my arms were longer")
 
 After over a year of being on a personally funded sabbatical, I started a new job at [PostHog](https://posthog.com) as a Senior Product Engineer. This week is my orientation where I get to [drink from the firehose](https://haacked.com/archive/2007/10/26/drinking-from-the-firehose.aspx/) once again.
 
