@@ -11,7 +11,7 @@ PostHog helps you build better products. It tracks what users do. It controls fe
 
 Much of my job will consist of writing Python and React with TypeScript. But when I started, I noticed they didn't have a .NET SDK. It turns out, I know a thing or two about .NET!
 
-![Hedgehog giving two thumbs up in front of a computer showing the .NET logo](https://github.com/user-attachments/assets/b7c64431-0232-4707-b016-c0161ea6b0eb)
+![Hedgehog giving two thumbs up in front of a computer showing the .NET logo](https://github.com/user-attachments/assets/b7c64431-0232-4707-b016-c0161ea6b0eb "Who has two thumbs and loves .NET?")
 
 So if you've been wanting to use PostHog in your ASP.NET Core applications, yesterday is your lucky day! The 1.0 version of the PostHog .NET SDK for ASP.NET Core is [available on NuGet](https://www.nuget.org/packages/PostHog.AspNetCore).
 
