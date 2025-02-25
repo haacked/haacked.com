@@ -260,6 +260,6 @@ With this release done, I'll be focusing my attention on the Feature Flags produ
 
 If anyone reports bugs, I'll be sure to fix them. But I won't be adding any new features for the moment.
 
-Down the road, I'm hoping to add a `PostHog.Unity` package. I just don't have a lot of experience with Unity yet. My game development experience mostly consists of getting shot in the face by squaky voiced kids playing Fortnite. I'm hoping someone will contqribute a Unity sample project to the repo which I can use as a starting point.
+Down the road, I'm hoping to add a `PostHog.Unity` package. I just don't have a lot of experience with Unity yet. My game development experience mostly consists of getting shot in the face by squeaky voiced kids playing Fortnite. I'm hoping someone will contribute a Unity sample project to the repo which I can use as a starting point.
 
 If you have any feedback, questions, or issues with the PostHog .NET SDK, please reach file an issue at https://github.com/PostHog/posthog-dotnet.
