@@ -1,5 +1,5 @@
 ---
-title: "What are your ASP.NET Core users up to? Find out with PostHog."
+title: "Using PostHog in your .NET applications"
 description: "PostHog is a product analytics platform that helps you build better products faster. It contains a set of tools to help you capture analytics and leverage feature flags."
 tags: [career, work]
 excerpt_image: https://github.com/user-attachments/assets/b7c64431-0232-4707-b016-c0161ea6b0eb
