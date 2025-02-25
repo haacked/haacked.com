@@ -1,6 +1,6 @@
 GIT
-  remote: file:///Users/haacked/dev/third-party/jekyll-gfm-admonitions
-  revision: 848f5b14d86649bdd658db9155d4ca9bb1989efc
+  remote: https://github.com/haacked/jekyll-gfm-admonitions
+  revision: c1955415d8fcc759a2e244fa518e6c94cb8d9443
   branch: haacked/fix-frozen-string-error
   specs:
     jekyll-gfm-admonitions (1.1.1)
