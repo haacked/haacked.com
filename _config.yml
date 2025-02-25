@@ -35,6 +35,7 @@ rss: rss
 # By default, your site generates a subscription feed (RSS/Atom) at /feed.xml
 # Uncomment the next two lines to change the path.
 feed:
+   url: https://haacked.com
    path: /atom.xml
 
 # If you use a feed publisher such as Feedburner, uncomment the next line
