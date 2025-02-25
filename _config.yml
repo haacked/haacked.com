@@ -82,3 +82,4 @@ plugins:
   - jekyll-paginate
   - jekyll-include-cache
   - jekyll-gfm-admonitions
+  - jekyll-octicons

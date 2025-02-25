@@ -18,7 +18,9 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.17.0"
   gem "jekyll-remote-theme"
   gem "jekyll-include-cache"
-  gem "jekyll-gfm-admonitions"
+  gem "jekyll-gfm-admonitions", git: "https://github.com/haacked/jekyll-gfm-admonitions", branch: "haacked/fix-frozen-string-error"
+  gem "jekyll-octicons"
+  gem 'octicons'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
