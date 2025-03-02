@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/haacked/jekyll-gfm-admonitions
-  revision: eee26f61bd8989d4b4ba3992dc8846a50cceaff9
+  revision: f97008be28aaa2ef5ff334c9e6d05053f745e558
   branch: haacked/fix-frozen-string-error
   specs:
     jekyll-gfm-admonitions (1.1.1)
@@ -38,8 +38,9 @@ GEM
     connection_pool (2.5.0)
     cssminify (1.0.2)
     csv (3.3.2)
-    dnsruby (1.72.3)
+    dnsruby (1.72.4)
       base64 (~> 0.2.0)
+      logger (~> 1.6.5)
       simpleidn (~> 0.2.1)
     drb (2.2.1)
     em-websocket (0.5.3)
@@ -283,7 +284,7 @@ GEM
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
-    uri (1.0.2)
+    uri (1.0.3)
     webrick (1.9.1)
 
 PLATFORMS
