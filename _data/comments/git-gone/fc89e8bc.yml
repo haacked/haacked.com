@@ -1,0 +1,5 @@
+id: fc89e8bc
+date: 2025-04-18T16:45:23.4774128Z
+name: Max
+avatar: https://secure.gravatar.com/avatar/5fc7c28e6b6e01c5b61e1b1e6ce78bba?s=80&d=identicon&r=pg
+message: With squash merging I become a branch hoarder. I’ve been saved too many times with archeology into my own loose commits to force delete squash merged branches, so I’ve taken to just renaming them with a useful prefix instead. In my case that prefix is currently zoo/ because it sorts nicely to the bottom and a lot of my branches include adjective-animal random names. I have found it also helps when having set —update-refs as a default to rebase because when the git merge algorithm gets confused with squash merges (which it does, surprisingly often) and tries to update-ref a zoo/ branch you know exactly which commits you can simply “drop” from the rebase entirely. (I am not a fan of squash merging; I understand why some prefer it, but the amount of data and metadata it throws away continues to make me unhappy and anxious.)
