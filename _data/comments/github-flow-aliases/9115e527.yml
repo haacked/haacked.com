@@ -1,0 +1,35 @@
+id: 9115e527
+date: 2025-05-06T09:07:49.8231898Z
+name: HerrDerb
+avatar: https://secure.gravatar.com/avatar/822b8208457f2ece6e192bdd88f496bd?s=80&d=identicon&r=pg
+message: >+
+  my most used alias is "recent". It allows me to quickly switch to a recent checked out branch  (of which I usually don't know the exact name anymore) by using an index:
+
+  recent = !sh ~/recent.sh
+
+
+
+  recent.sh:
+
+  ----------------
+
+  # lists recent checked out branches and allows to quickly switch them by using an index (main ignored)
+
+  # calling without an index will list the last MAX_NUMBER_OF_BRANCHES_TO_DISPLAY checked out branches
+
+  # calling with an index will checkout the branch at given index
+
+  MAX_NUMBER_OF_BRANCHES_TO_DISPLAY=10
+
+  if [ -n "$1" ]; then
+
+      git checkout $(git reflog | egrep -io "moving from ([^[:space:]]+)" | awk '{ print $3 }' | awk ' !x[$0]++' | egrep -v '^[a-f0-9]{40}$' | egrep -v 'main' | head -n$1 | tail -n1)
+
+  else
+
+      git reflog | egrep -io "moving from ([^[:space:]]+)" | awk '{ print $3 }' | awk ' !x[$0]++' | egrep -v '^[a-f0-9]{40}$' | egrep -v 'main' | head -n$MAX_NUMBER_OF_BRANCHES_TO_DISPLAY | nl -v 1
+
+  fi
+
+
+
