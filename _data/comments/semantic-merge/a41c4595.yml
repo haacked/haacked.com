@@ -1,0 +1,14 @@
+id: a41c4595
+date: 2025-08-25T11:04:45.2392782Z
+name: sageserpent-open
+avatar: https://secure.gravatar.com/avatar/1b98c803c4aaccfac03830d197bd2f62?s=80&d=identicon&r=pg
+message: >-
+  I'm rather late to this, but this sort of situation has been a perennial source of trouble for me. I've successfully used both Semantic Merge and GMaster in the past, but in the end I wrote an open source tool for this, Kinetic Merge:
+
+
+
+  https://github.com/sageserpent-open/kineticMerge
+
+
+
+  Just tried it out on the post's example and it works a treat!
