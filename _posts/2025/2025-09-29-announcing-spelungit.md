@@ -84,7 +84,7 @@ The sqlite database only stores commit SHAs and embeddings, leaving the full com
 
 I work across multiple repositories and constantly need to understand why changes were made. Traditional Git tools are limited. Too much detective work scrolling through commits.
 
-I wanted to ask Git history questions in plain English and get the right commits back. Spelungit made my workflow less frustrating.
+I wanted to ask Git history questions in plain English and get the right commits back. Semantic search of Git history is something I always wished GitHub would add. I got tired of waiting so I built this.
 
 Also, I've been experimenting with MCP servers and wanted to build something useful instead of another todo app.
 
