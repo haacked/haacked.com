@@ -5,7 +5,7 @@ tags: [csharp,patterns]
 excerpt_image: https://user-images.githubusercontent.com/19977/203370937-0793aeb9-4d2a-444e-bc44-dd81124105f7.png
 ---
 
-We recently upgraded [Abbot](https://ab.bot/) to .NET 7 and C# 11 and I'm just loving the new language features in C#. In this post, I'll give a couple examples of list patterns.
+We recently upgraded Abbot to .NET 7 and C# 11 and I'm just loving the new language features in C#. In this post, I'll give a couple examples of list patterns.
 
 ![A shopping list in front of a treasure hoard](https://user-images.githubusercontent.com/19977/203370937-0793aeb9-4d2a-444e-bc44-dd81124105f7.png "Ancient scroll with my shopping list")
 

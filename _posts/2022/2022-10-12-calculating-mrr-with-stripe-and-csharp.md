@@ -5,13 +5,13 @@ tags: [stripe,abbot]
 excerpt_image: https://user-images.githubusercontent.com/19977/195433434-7d3bd771-e32a-4630-b12f-08980bf5abc2.jpg
 ---
 
-Over here at [A Serious Business, Inc.](https://www.aseriousbusiness.com/) we're very [serious about security](https://ab.bot/blog/abbot-is-soc2-compliant). One principle that's important to us is what we call the *Principle of Least Exposure* (not to be confused with the similar [Principle of Least Privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege)).
+Over here at [A Serious Business, Inc.](https://www.aseriousbusiness.com/) we were very serious about security including SOC2 compliance. One principle that's important to us is what we call the *Principle of Least Exposure* (not to be confused with the similar [Principle of Least Privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege)).
 
 In simple terms, the principle is:
 
 > You can't expose what you don't have.
 
-For example, our product [Abbot](https://ab.bot/) doesn't store or accept credit card payment info directly. Instead, we use a trusted third party, [Stripe](https://stripe.com/), to handle that for us.
+For example, our product Abbot didn't store or accept credit card payment info directly. Instead, we used a trusted third party, [Stripe](https://stripe.com/), to handle that for us.
 
 [![Rolls of $100 bills](https://user-images.githubusercontent.com/19977/195433434-7d3bd771-e32a-4630-b12f-08980bf5abc2.jpg "Dolla dolla bills, y'all! - CC BY 2.0 by Pictures of Money")](https://www.flickr.com/photos/pictures-of-money/17123251389/)
 

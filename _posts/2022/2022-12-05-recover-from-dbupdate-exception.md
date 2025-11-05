@@ -11,7 +11,7 @@ The following story examines one example of heartache and tears. This story is b
 
 ![Robot recovering in an ice bath](https://user-images.githubusercontent.com/19977/205463714-68148077-0539-45c9-955d-5c687058cfa8.png "Even robots need to recover")
 
-My company, [A Serious Business, Inc.](https://www.aseriousbusiness.com/) (the real name), has a product called [Abbot](https://ab.bot/) (name is also real), a Slack app that helps customer success/support teams keep track of conversations within Slack and support more customers with less effort.
+My company, [A Serious Business, Inc.](https://www.aseriousbusiness.com/) (the real name), had a product called Abbot (name is also real), a Slack app that helped customer success/support teams keep track of conversations within Slack and support more customers with less effort.
 
 As a Slack App, it needs to ingest a lot of Slack events. At a high level, we have a `Controller` that receives Slack events over HTTP, saves a `SlackEvent` entity to the database, and then sends a message to a background service (Hangfire) to process the event.
 

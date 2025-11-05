@@ -5,7 +5,7 @@ tags: [abbot,csharp]
 excerpt_image: https://user-images.githubusercontent.com/19977/131401537-533115bd-545f-4cf6-8b38-14000258e9e1.png
 ---
 
-[This recent Abbot Blog Post](https://ab.bot/blog/edit-abbot-skills-in-your-favorite-editor) covers [`abbot-cli` a new open source command-line tool](https://github.com/aseriousbiz/abbot-cli). `abbot-cli` makes it possible to work on Abbot skills in your local editor. In that post, I mentioned that when you retrieve a C# skill to edit locally, the tool writes a few aditional files on your machine.
+In a recent Abbot Blog Post, we covered [`abbot-cli` a new open source command-line tool](https://github.com/aseriousbiz/abbot-cli). `abbot-cli` made it possible to work on Abbot skills in your local editor. In that post, I mentioned that when you retrieve a C# skill to edit locally, the tool writes a few aditional files on your machine.
 
 > For C# skills, these other files make it possible for us to provide Intellisense for the skill editing experience. More on that in another post for those interested.
 
@@ -13,7 +13,7 @@ In this post, I want to follow-up on that and cover how that works and why it's 
 
 ## C# Scripts
 
-First, a bit of background. If you go to [Abbot](https://ab.bot/) today and edit a C# skill, you get a nice in-browser editor with IntelliSense.
+First, a bit of background. If you went to Abbot and edited a C# skill, you got a nice in-browser editor with IntelliSense.
 
 ![Screenshot of C# IntelliSense within Abbot](https://user-images.githubusercontent.com/19977/131697837-c452ddcc-51b1-43d7-a6a4-919b400b71c1.png)
 

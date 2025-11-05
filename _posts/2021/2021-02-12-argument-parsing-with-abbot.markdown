@@ -119,4 +119,4 @@ Also, if the default argument parsing doesn't work for you, you can always acces
 
 If you're interested in seeing the code for our argument parsing, check out [this gist](https://gist.github.com/haacked/adbdc12fc6c8ea21d639deb3763fdd98). It's in a gist for now because I wanted a quick way to share it. We need to organize our code so it's easier to share the parts we want to share as open source libraries. The parsing code is fairly simple right now, but we hope to expand it. It doesn't support argument flags and such because the usage pattern for bot skills tend to be different than what you'd use with a command line tool. However, we may consider using an open source full-fledged command line parser in the future if there's demand for it.
 
-For more about writing skills for Abbot, check out the [Getting Started Guides](https://ab.bot/help/guides/).
+This post was written when Abbot was in Beta. Abbot is no longer available.

@@ -7,7 +7,7 @@ excerpt_image: https://user-images.githubusercontent.com/19977/110027163-7f00990
 
 In [my last post](https://haacked.com/archive/2021/02/19/writing-abbot-skill-in-csharp/), I wrote about writing a sparkly skill in Abbot. That was fun! But Abbot isn't _only_ about fun. After all, our company name is [A Serious Business, Inc.](https://aseriousbusiness.com/) Seriously, that's the name. So it's about time I show you how to get to some serious business with Abbot.
 
-Here's the scenario: We have a [Blue Green deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html) set up for the [Abbot website](https://martinfowler.com/bliki/BlueGreenDeployment.html). In Azure parlance, we use [Deployment Slots](https://docs.microsoft.com/en-us/azure/app-service/deploy-staging-slots) to set this up. This allows us to deploy to stage, and have an automatic cutover to production if everything is fine. But this process can seem opaque in action. It'd be nice to receive a notification when a deployment to stage is complete and the swap is starting. That's where the new Abbot [`cloud-event`](https://ab.bot/packages/aseriousbiz/cloud-event) skill comes in handy.
+Here's the scenario: We have a [Blue Green deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html) set up for the Abbot website. In Azure parlance, we use [Deployment Slots](https://docs.microsoft.com/en-us/azure/app-service/deploy-staging-slots) to set this up. This allows us to deploy to stage, and have an automatic cutover to production if everything is fine. But this process can seem opaque in action. It'd be nice to receive a notification when a deployment to stage is complete and the swap is starting. That's where the new Abbot `cloud-event` skill comes in handy.
 
 I [recorded a video](https://www.youtube.com/watch?v=nMKZFzVGutY) so you can watch to see it in action. But I'll write about it here too.
 
@@ -35,9 +35,9 @@ At this point, it should look something like this. Now we just need a web hook U
 
 ![Screen Shot 2021-03-04 at 12 46 59 PM](https://user-images.githubusercontent.com/19977/110028281-e5d28200-7ce7-11eb-8037-e1d64d6a0483.png)
 
-At this point, I assume you have an Abbot account set up and connected to a chat room. If not, go to [https://ab.bot/](https://ab.bot/) and click "Log In" and use your Slack or Discord login to log in. Follow the instructions to get it set up.
+At this point, you would have an Abbot account set up and connected to a chat room.
 
-Next, we need to install the `cloud-event` package. On the [`cloud-event`](https://ab.bot/packages/aseriousbiz/cloud-event) package page, click the "Install Package" button. It'll give you a chance to review the code before it actually installs it. Click "Create skill from package" and now you have the skill enabled!
+Next, we would install the `cloud-event` package. On the `cloud-event` package page, click the "Install Package" button. It would give you a chance to review the code before it actually installs it. Click "Create skill from package" and now you have the skill enabled!
 
 Go to a chat room with Abbot. In our case, we have an `#ops` room for this sort of notification. Then run the following in chat:
 
@@ -47,9 +47,9 @@ Go to a chat room with Abbot. In our case, we have an `#ops` room for this sort 
 
 What that does is create an HTTP trigger for the skill attached to the room where you ran it. An HTTP trigger is a secret URL that can be used to call the skill. And the skill will respond to the room it's attached to.
 
-When you run the command, Abbot will respond with something like:
+When you run the command, Abbot would respond with something like:
 
-> The skill `cloud-event` is now attached to the channel `ops`. Visit https://ab.bot/skills/cloud-event/triggers to get the secret URL used to call this skill.
+> The skill `cloud-event` is now attached to the channel `ops`. Visit the skill triggers page to get the secret URL used to call this skill.
 
 Grab that URL, and go back to the Event Grid Subscription page, and click "Select an endpoint" and supply the trigger URL as the web hook endpoint. Click "Create" and you're done! You can trigger a deploy to see it in action. Or just change an App Setting to get an `AppUpdated` notification. If you run into any problems, you can see a log of the last 100 HTTP requests that the skill received.
 
@@ -63,4 +63,4 @@ And you can inspect more details such as the HTTP headers and the request body b
 @abbot cloud-event log 42
 ```
 
-This is a powerful example of the value of Abbot in a chat ops workflow. If you're interested in learning more about Abbot, check out [my introduction to Abbot](https://haacked.com/archive/2021/02/11/introducing-abbot/), [my .NET Rocks episode on Abbot](https://dotnetrocks.com/?show=1726), or just peruse the [Abbot website](https://ab.bot/). And when you watch the video, don't forget to smash that like button!
+This was a powerful example of the value of Abbot in a chat ops workflow. If you're interested in learning more about Abbot, check out [my introduction to Abbot](https://haacked.com/archive/2021/02/11/introducing-abbot/) or [my .NET Rocks episode on Abbot](https://dotnetrocks.com/?show=1726). And when you watch the video, don't forget to smash that like button! Note: This post was written when Abbot was in Beta. Abbot is no longer available.

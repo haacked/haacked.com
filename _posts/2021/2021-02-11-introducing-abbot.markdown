@@ -23,11 +23,11 @@ Not only that, it's a place to support your colleagues. When GitHub was [hit by 
 
 ## Introducing Abbot
 
-Hubot is fantastic. However, it can be tedious to set up and keep running. And it doesn't offer much in the way of managing a Hubot via a website, nor audit logs. That's why my [my co-founder, Paul Nakata](http://pmn.org/) and I formed [_A Serious Business, Inc._](https://www.aseriousbusiness.com/) (Yes, that's the real company name) to take what we liked about Hubot and try to improve on it with [Abbot](https://ab.bot/).
+Hubot is fantastic. However, it can be tedious to set up and keep running. And it doesn't offer much in the way of managing a Hubot via a website, nor audit logs. That's why my [my co-founder, Paul Nakata](http://pmn.org/) and I formed [_A Serious Business, Inc._](https://www.aseriousbusiness.com/) (Yes, that's the real company name) to take what we liked about Hubot and try to improve on it with Abbot.
 
 Abbot is a hosted chat bot that you can install with a couple of clicks. Like Hubot, it lives in your chat room and responds to commands like a champ. Abbot can be a lot of fun, but it can also do a lot of heavy lifting for you and your colleagues.
 
-If you're curious to try it out, head on over to [https://ab.bot/](https://ab.bot/) and click [TRY FOR FREE](https://ab.bot/login). We're in Beta right now and it's free to try out. Just authenticate with your Slack or Discord account to create an Abbot account. Then follow the instructions to install it into your chat platform. Also, be sure to check out the [lastest episode of .NET Rocks](https://dotnetrocks.com/?show=1726) where I talk about Abbot and ChatOps.
+Abbot was in Beta and free to try out. Just authenticate with your Slack or Discord account to create an Abbot account. Then follow the instructions to install it into your chat platform. Also, be sure to check out the [lastest episode of .NET Rocks](https://dotnetrocks.com/?show=1726) where I talk about Abbot and ChatOps.
 
 ![Image of Abbot, a robot, against a purple background](https://user-images.githubusercontent.com/19977/107439587-26731d00-6ae7-11eb-925c-0f50f09f2969.png "I am ready to do the thing.")
 
@@ -39,19 +39,19 @@ The real power lies in writing custom skills and sharing them. Abbot supports wr
 
 ![Editing a skill in C#](https://user-images.githubusercontent.com/19977/107440160-0859ec80-6ae8-11eb-9873-31e682850be3.png)
 
-We hope to support many more languages in the future. To learn how to write a skill, check out our [Getting Started Guide](https://ab.bot/help/guides/).
+We hoped to support many more languages in the future.
 
 ## Try out a skill package!
 
-You can also browse and install skills written by others! Just visit the [Abbot Package Manager](https://ab.bot/packages) to see what's available.
+You could also browse and install skills written by others in the Abbot Package Manager.
 
-For example, the [`tz` skill](https://ab.bot/packages/aseriousbiz/tz) is based on a Hubot script written by [Markus Olsson](https://github.com/niik) and reports a specified time in the time zones of all the mentioned people:
+For example, the `tz` skill was based on a Hubot script written by [Markus Olsson](https://github.com/niik) and reports a specified time in the time zones of all the mentioned people:
 
 ![Example of the TZ skill in use. It shows 2pm for America/Grand_Turk in 3 different time zones.](https://user-images.githubusercontent.com/19977/107439487-fdeb2300-6ae6-11eb-8d4a-80a1e514794d.png)
 
 This skill makes use of the time zone as reported by Slack. Discord doesn't provide this information, so you can tell Abbot your timezone via the `my` skill, `@abbot my timezone is America/Los_Angeles`, or by telling Abbot your location, `@abbot my location is 98008`.
 
-Another useful package is the [`deploy` skill](https://ab.bot/packages/aseriousbiz/deploy). It's based on [`hubot-github-deployments`](https://github.com/stephenyeargin/hubot-github-deployments) and lets you manage deployments via the [GitHub Deployments API](https://docs.github.com/en/rest/reference/repos#deployments).
+Another useful package was the `deploy` skill. It was based on [`hubot-github-deployments`](https://github.com/stephenyeargin/hubot-github-deployments) and lets you manage deployments via the [GitHub Deployments API](https://docs.github.com/en/rest/reference/repos#deployments).
 
 ## Custom Lists
 
@@ -79,4 +79,4 @@ To integrate with Slack we use the [Microsoft Bot Framework](https://dev.botfram
 
 ## Try it out!
 
-If this sounds interesting to you, please give it a try at https://ab.bot/. We could really use some feedback. You can email your feedback to [feedback@aseriousbusinees.com](mailto:feedback@aseriousbusiness.com). Or, send us feedback right from chat using Abbot: `@abbot feedback {Write Your Feedback Here}`. That'll go right into our inbox. Please use responsibly.
+This post was written when Abbot was in Beta. Abbot is no longer available, but I hope the concepts around ChatOps were interesting to you. You can email feedback to [feedback@aseriousbusinees.com](mailto:feedback@aseriousbusiness.com).

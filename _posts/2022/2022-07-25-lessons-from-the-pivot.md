@@ -7,9 +7,9 @@ excerpt_image: https://user-images.githubusercontent.com/19977/180076597-6fbdb67
 
 Building a startup is easy. You file some paperwork and bam! You're a startup!
 
-Building a start-up that's sustainable and can pay everyone a nice salary, on the other hand, is very tough. We are launching [Abbot on Product Hunt](https://www.producthunt.com/posts/abbot) today, and preparing last week made me reflect on some of the lessons we've learned since starting our business.
+Building a start-up that's sustainable and can pay everyone a nice salary, on the other hand, is very tough. We launched Abbot on Product Hunt, and preparing for the launch made me reflect on some of the lessons we've learned since starting our business.
 
-[Abbot](https://ab.bot/) is a Slack App (and bot) that helps teams scale their customer conversations in Slack.
+Abbot was a Slack App (and bot) that helped teams scale their customer conversations in Slack.
 
 Some of you might be thinking, "Wait! I thought Abbot was [ChatOps as a service](https://news.ycombinator.com/item?id=27974077)?" Indeed, that was our original goal, but we found it tough to sell. Conversations often would go like this:
 
@@ -47,7 +47,7 @@ At the time, this was the way you built web software. You hosted everything.
 
 Fast forward a bunch of years, and the pendulum swung to the other side. I didn't want to host a damn thing. And with tools like Heroku, Azure Web Sites, AWS, Google Cloud, etc. I really didn't need to. Much of my later career at Microsoft and GitHub was spent building developer tools and client applications. Occasionally, I'd build a website on the side for fun. I'd just deploy it to a cloud provider, take advantage of all their services, and not worry about it too much.
 
-And this approach worked well! It worked so well, when I started a company with my colleague, Paul, we were able to [get a site up](https://ab.bot/) and running in no time. And this all worked great, everyone was happy, and it all just worked out...Until [we needed to pivot](https://www.dotnetrocks.com/default.aspx?ShowNum=1791).
+And this approach worked well! It worked so well, when I started a company with my colleague, Paul, we were able to get a site up and running in no time. And this all worked great, everyone was happy, and it all just worked out...Until [we needed to pivot](https://www.dotnetrocks.com/default.aspx?ShowNum=1791).
 
 ![Driver telling a police office he should have turned left at Albuquerque](https://user-images.githubusercontent.com/19977/180076597-6fbdb672-6539-43fd-b10d-1a1e667c8d8b.png "Free Public Domain image from https://freesvg.org/1535673080")
 
@@ -65,11 +65,11 @@ A little sprinkling of indirection would have helped a lot here. We should have 
 
 As a corollary to this, I recommend managing DNS as code. We have several DNS providers and managing DNS across them can be a pain. But we now use [OctoDNS](https://github.com/octodns) to manage all our DNS in some YAML files that are versioned within a GitHub repository.
 
-Alright, back to the story. So what do you think happened once Slack approved our change to direct Slack traffic to our own server at https://ab.bot? We found a bug that broke everything.
+Alright, back to the story. So what do you think happened once Slack approved our change to direct Slack traffic to our own server? We found a bug that broke everything.
 
-Now a minute ago I was talking about all the benefits of indirection that using our own Domain Name afforded us. Well, I made another mistake here. I pointed Slack directly to https://ab.bot/, which the rest of our site also ran on. So we couldn't just point this DNS entry back to Bot Service. And to revert the change might take another six weeks to go through Slack's approval process. So we just knuckled down to fix it.
+Now a minute ago I was talking about all the benefits of indirection that using our own Domain Name afforded us. Well, I made another mistake here. I pointed Slack directly to our main domain, which the rest of our site also ran on. So we couldn't just point this DNS entry back to Bot Service. And to revert the change might take another six weeks to go through Slack's approval process. So we just knuckled down to fix it.
 
-Today, we have a separation where https://ab.bot/ points to our marketing site and login page, but the app runs on https://app.ab.bot/. And for each service that needs to be publicly exposed, we use a unique host name in case we need to redirect traffic.
+We separated the concerns where the main domain points to our marketing site and login page, but the app runs on a subdomain. And for each service that needs to be publicly exposed, we use a unique host name in case we need to redirect traffic.
 
 ## Lesson: Balance Convenience With The Right Tools
 

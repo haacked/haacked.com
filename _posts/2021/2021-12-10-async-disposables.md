@@ -29,7 +29,7 @@ finally {
 
 It is real handy when implementing a method that returns an `IDisposable`. Rather than creating a custom class that inherits `IDisposable`, you can return `Disposable.Create`.
 
-Here's the code for `Disposable` we use in [Abbot](https://ab.bot/).
+Here's the code for `Disposable` we used in Abbot.
 
 ```csharp
 using System;

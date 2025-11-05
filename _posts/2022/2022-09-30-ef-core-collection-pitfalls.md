@@ -92,7 +92,7 @@ When using eager-loading with EF Core, it [has an automatic-fixup feature](https
 
 > Entity Framework Core will automatically fix-up navigation properties to any other entities that were previously loaded into the context instance. So even if you don't explicitly include the data for a navigation property, the property may still be populated if some or all of the related entities were previously loaded.
 
-Since a `Comment` associated with the `Post` is already loaded in the `DbContext`, the `Post`'s `Comments` collection will be non-null and contain that comment. This is a bit of a gotcha, that we ran into with [Abbot](https://ab.bot/) in local development recently, so it's not just a hypothetical case. Here's how I ended up fixing it:
+Since a `Comment` associated with the `Post` is already loaded in the `DbContext`, the `Post`'s `Comments` collection will be non-null and contain that comment. This is a bit of a gotcha, that we ran into with Abbot in local development recently, so it's not just a hypothetical case. Here's how I ended up fixing it:
 
 ```csharp
 public async Task<int> GetCommentCountAsync(Post post) {
