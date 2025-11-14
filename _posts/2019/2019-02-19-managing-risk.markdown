@@ -5,7 +5,7 @@ tags: [work,consulting,management]
 excerpt_image: https://user-images.githubusercontent.com/19977/58293037-b9e74600-7d78-11e9-93b6-fe31580c8344.jpg
 ---
 
-Every project risks failure to some degree or other. There's the risk of delivering late. The risk of not being able to deliver at all. Or the risk that when you do deliver, it solves the wrong problem. It's a risky business, but not the kind with [Tom Cruise lip-synching in his underwear](https://www.youtube.com/watch?v=UuQZfwWyTWY). When you work on a project, it's important to be aware of and manage risk. There are several good tools for doing this.
+Every project risks failure to some degree or other. There's the risk of delivering late. The risk of not being able to deliver at all. Or the risk that when you do deliver, it solves the wrong problem. It's a risky business, but not the kind with [Tom Cruise lip-syncing in his underwear](https://www.youtube.com/watch?v=UuQZfwWyTWY). When you work on a project, it's important to be aware of and manage risk. There are several good tools for doing this.
 
 ![Driving while changing a tire](https://user-images.githubusercontent.com/19977/58293037-b9e74600-7d78-11e9-93b6-fe31580c8344.jpg)
 
