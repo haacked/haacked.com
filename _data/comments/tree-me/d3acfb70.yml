@@ -1,0 +1,5 @@
+id: d3acfb70
+date: 2025-11-22T09:06:55.1033671Z
+name: Steve
+avatar: https://github.com/steve.png
+message: "These days I generally use bare checkouts when cloning, generally looks a bit like this\r\n\r\nmkdir project\r\ncd project\r\ngit clone --bare https:// .git\r\n\r\nso I end up with a project dir with a .git under it, looks a lot like a normal repo but without the files.  \r\n\r\nAt which point I can put my work trees in that directory all together, which i find nicer than putting it a level up (eg sibling to project dir) or in some obscure location that tools love to pick.\r\n\r\n"
