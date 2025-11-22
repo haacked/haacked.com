@@ -1,0 +1,29 @@
+# Blog Image Workflow Configuration
+# Copy this file to .blog-config.yml and fill in your API keys
+
+# OpenAI API key for DALL-E image generation
+# Get your key from: https://platform.openai.com/api-keys
+OPENAI_API_KEY="sk-your-api-key-here"
+
+# TinyPNG API key for image optimization (optional)
+# Get your key from: https://tinypng.com/developers
+# If not provided, will use ImageMagick for local optimization
+TINYPNG_API_KEY=""
+
+# Path to your images repository
+# This should point to the local clone of github.com/haacked/images
+IMAGES_REPO_PATH="$HOME/dev/haacked/images"
+
+# Base URL for published images
+IMAGE_BASE_URL="https://i.haacked.com"
+
+# Optional: Editor command to open new posts
+# Examples: "code", "vim", "subl", etc.
+# Leave empty to skip auto-opening
+EDITOR=""
+
+# DALL-E image generation settings
+DALLE_MODEL="dall-e-3"
+DALLE_SIZE="1024x1024"  # Options: 1024x1024, 1792x1024, 1024x1792
+DALLE_QUALITY="standard"  # Options: standard, hd
+DALLE_STYLE="vivid"  # Options: vivid, natural

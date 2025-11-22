@@ -1,0 +1,82 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Load configuration if it exists
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+BLOG_ROOT="$(dirname "$SCRIPT_DIR")"
+CONFIG_FILE="$BLOG_ROOT/.blog-config.yml"
+
+if [[ -f "$CONFIG_FILE" ]]; then
+  # Source the config file (it uses shell variable syntax)
+  # shellcheck disable=SC1090
+  source "$CONFIG_FILE"
+fi
+
+# Prompt for post details
+echo "Create a new blog post"
+echo ""
+read -rp "Title: " title
+
+if [[ -z "$title" ]]; then
+  echo "Error: Title cannot be empty" >&2
+  exit 1
+fi
+
+read -rp "Slug (press Enter to auto-generate): " slug
+
+# Auto-generate slug if not provided
+if [[ -z "$slug" ]]; then
+  slug=$(echo "$title" | tr '[:upper:]' '[:lower:]' | \
+    sed 's/[^a-z0-9 -]//g' | \
+    sed 's/ \+/-/g' | \
+    sed 's/-\+/-/g' | \
+    sed 's/^-\|-$//g')
+fi
+
+# Generate date and filename
+date_str=$(date +%Y-%m-%d)
+year=$(date +%Y)
+filename="${date_str}-${slug}.md"
+
+# Create paths
+posts_dir="$BLOG_ROOT/_posts/$year"
+post_path="$posts_dir/$filename"
+draft_images_dir="$BLOG_ROOT/.draft-images/${date_str}-${slug}"
+
+# Check if post already exists
+if [[ -f "$post_path" ]]; then
+  echo "Error: Post already exists at $post_path" >&2
+  exit 1
+fi
+
+# Create directories
+mkdir -p "$posts_dir"
+mkdir -p "$draft_images_dir"
+
+# Create post with front matter
+cat > "$post_path" <<EOF
+---
+title: "$title"
+description: ""
+tags: []
+excerpt_image: ""
+---
+
+Write your post here…
+
+<!-- Use placeholders like [image1: Description of image] for images -->
+EOF
+
+echo ""
+echo "✓ Created post: $post_path"
+echo "✓ Created draft images directory: $draft_images_dir"
+echo ""
+echo "Next steps:"
+echo "  1. Edit your post and add image placeholders: [image1: description]"
+echo "  2. Add any existing images to: .draft-images/${date_str}-${slug}/"
+echo "  3. Run: ./script/generate-images _posts/$year/$filename"
+
+# Open in editor if configured
+if [[ -n "${EDITOR:-}" ]]; then
+  exec "$EDITOR" "$post_path"
+fi

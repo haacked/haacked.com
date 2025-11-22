@@ -1,0 +1,305 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Load configuration
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+BLOG_ROOT="$(dirname "$SCRIPT_DIR")"
+CONFIG_FILE="$BLOG_ROOT/.blog-config.yml"
+
+if [[ ! -f "$CONFIG_FILE" ]]; then
+  echo "Error: Configuration file not found at $CONFIG_FILE" >&2
+  echo "Copy .blog-config.yml.example to .blog-config.yml and configure it." >&2
+  exit 1
+fi
+
+# shellcheck disable=SC1090
+source "$CONFIG_FILE"
+
+# Check for required tools
+if ! command -v jq &> /dev/null; then
+  echo "Error: jq is required but not installed" >&2
+  echo "Install with: brew install jq" >&2
+  exit 1
+fi
+
+if ! command -v curl &> /dev/null; then
+  echo "Error: curl is required but not installed" >&2
+  exit 1
+fi
+
+# Functions
+find_image_placeholders() {
+  local content="$1"
+  grep -oE '\[image[0-9]+:[^]]+\]' <<< "$content" || true
+}
+
+extract_placeholder_id() {
+  local placeholder="$1"
+  sed -E 's/\[([^:]+):.*/\1/' <<< "$placeholder"
+}
+
+extract_placeholder_description() {
+  local placeholder="$1"
+  sed -E 's/\[[^:]+: *([^]]+)\]/\1/' <<< "$placeholder"
+}
+
+extract_date_slug() {
+  local post_path="$1"
+  basename "$post_path" .md
+}
+
+generate_dalle_image() {
+  local prompt="$1"
+  local style="${2:-${DALLE_STYLE:-vivid}}"
+
+  local payload
+  payload=$(jq -n \
+    --arg model "${DALLE_MODEL:-dall-e-3}" \
+    --arg prompt "$prompt" \
+    --arg size "${DALLE_SIZE:-1024x1024}" \
+    --arg quality "${DALLE_QUALITY:-standard}" \
+    --arg style "$style" \
+    '{
+      model: $model,
+      prompt: $prompt,
+      n: 1,
+      size: $size,
+      quality: $quality,
+      style: $style
+    }')
+
+  local response
+  response=$(curl -s -X POST "https://api.openai.com/v1/images/generations" \
+    -H "Content-Type: application/json" \
+    -H "Authorization: Bearer $OPENAI_API_KEY" \
+    -d "$payload")
+
+  # Check for errors
+  if echo "$response" | jq -e '.error' > /dev/null 2>&1; then
+    local error_msg
+    error_msg=$(echo "$response" | jq -r '.error.message')
+    echo "Error: $error_msg" >&2
+    return 1
+  fi
+
+  echo "$response" | jq -r '.data[0].url'
+}
+
+download_image() {
+  local url="$1"
+  local output_path="$2"
+
+  curl -s -o "$output_path" "$url"
+}
+
+# Main script
+if [[ $# -eq 0 ]]; then
+  echo "Usage: $0 POST_FILE" >&2
+  echo "" >&2
+  echo "Example:" >&2
+  echo "  $0 _posts/2025/2025-11-21-my-post.md" >&2
+  exit 1
+fi
+
+post_path="$1"
+
+if [[ ! -f "$post_path" ]]; then
+  echo "Error: Post file not found: $post_path" >&2
+  exit 1
+fi
+
+content=$(cat "$post_path")
+placeholders=$(find_image_placeholders "$content")
+
+if [[ -z "$placeholders" ]]; then
+  echo "No image placeholders found in post." >&2
+  echo "Add placeholders like: [image1: Description of image]" >&2
+  exit 0
+fi
+
+date_slug=$(extract_date_slug "$post_path")
+draft_images_dir="$BLOG_ROOT/.draft-images/$date_slug"
+mkdir -p "$draft_images_dir"
+
+placeholder_count=$(echo "$placeholders" | wc -l | tr -d ' ')
+echo ""
+echo "Found $placeholder_count image placeholder(s)"
+echo ""
+
+updated_content="$content"
+counter=1
+
+while IFS= read -r placeholder; do
+  [[ -z "$placeholder" ]] && continue
+
+  image_id=$(extract_placeholder_id "$placeholder")
+  description=$(extract_placeholder_description "$placeholder")
+
+  echo "━━━ Image $counter/$placeholder_count ━━━"
+  echo "Placeholder: $placeholder"
+  echo ""
+
+  image_filename="${image_id}.png"
+  image_path="$draft_images_dir/$image_filename"
+
+  # Check if image already exists
+  if [[ -f "$image_path" ]]; then
+    echo "Image already exists: $image_path"
+    echo ""
+    echo "What would you like to do?"
+    select choice in "Keep existing image" "Use different existing file" "Regenerate with AI" "Skip"; do
+      case $choice in
+        "Keep existing image")
+          echo "✓ Keeping existing $image_filename"
+          break
+          ;;
+        "Use different existing file")
+          existing_files=("$draft_images_dir"/*)
+          if [[ ${#existing_files[@]} -eq 0 ]] || [[ ! -f "${existing_files[0]}" ]]; then
+            echo "No existing files found."
+            choice="Regenerate with AI"
+          else
+            echo ""
+            echo "Select file:"
+            select selected_file in "${existing_files[@]}"; do
+              if [[ -n "$selected_file" ]]; then
+                cp "$selected_file" "$image_path"
+                echo "✓ Using $(basename "$selected_file") as $image_filename"
+                break 2
+              fi
+            done
+          fi
+          ;;
+        "Regenerate with AI")
+          break
+          ;;
+        "Skip")
+          echo "⊘ Skipped $image_id"
+          ((counter++))
+          continue 2
+          ;;
+      esac
+    done
+  else
+    # List existing files
+    existing_files=("$draft_images_dir"/*)
+    if [[ -f "${existing_files[0]}" ]]; then
+      echo "Choose an option:"
+      select choice in "Use existing file" "Generate with AI"; do
+        case $choice in
+          "Use existing file")
+            echo ""
+            echo "Select file:"
+            select selected_file in "${existing_files[@]}"; do
+              if [[ -n "$selected_file" ]]; then
+                cp "$selected_file" "$image_path"
+                echo "✓ Using $(basename "$selected_file") as $image_filename"
+                break 2
+              fi
+            done
+            ;;
+          "Generate with AI")
+            break
+            ;;
+        esac
+      done
+    else
+      choice="Generate with AI"
+    fi
+  fi
+
+  # AI generation workflow
+  if [[ "$choice" == "Regenerate with AI" ]] || [[ "$choice" == "Generate with AI" ]]; then
+    satisfied=false
+
+    while [[ "$satisfied" == false ]]; do
+      echo ""
+      echo "Default prompt: $description"
+      read -rp "Enter custom prompt (or press Enter to use default): " custom_prompt
+
+      if [[ -z "$custom_prompt" ]]; then
+        custom_prompt="$description"
+      fi
+
+      echo ""
+      echo "Select style:"
+      select style in "Vivid (hyper-real, dramatic)" "Natural (more subdued, natural)"; do
+        case $style in
+          "Vivid"*)
+            style_value="vivid"
+            break
+            ;;
+          "Natural"*)
+            style_value="natural"
+            break
+            ;;
+        esac
+      done
+
+      echo ""
+      echo "⏳ Generating image…"
+
+      if image_url=$(generate_dalle_image "$custom_prompt" "$style_value"); then
+        echo "✓ Generated image"
+        echo ""
+        echo "Preview URL: $image_url"
+        echo ""
+
+        read -rp "Are you satisfied with this image? (y/n): " answer
+        if [[ "$answer" =~ ^[Yy] ]]; then
+          echo "⏳ Downloading image…"
+          download_image "$image_url" "$image_path"
+          echo "✓ Saved to $image_path"
+          satisfied=true
+        else
+          echo ""
+          echo "What would you like to do?"
+          select regen_choice in "Modify prompt and regenerate" "Regenerate with same prompt" "Skip this image"; do
+            case $regen_choice in
+              "Modify prompt and regenerate")
+                break
+                ;;
+              "Regenerate with same prompt")
+                break
+                ;;
+              "Skip this image")
+                echo "⊘ Skipped $image_id"
+                satisfied=true
+                break
+                ;;
+            esac
+          done
+        fi
+      else
+        echo "✗ Error generating image"
+        read -rp "Would you like to retry? (y/n): " retry
+        if [[ ! "$retry" =~ ^[Yy] ]]; then
+          echo "⊘ Skipped $image_id"
+          break
+        fi
+      fi
+    done
+  fi
+
+  # Update content with local reference if image exists
+  if [[ -f "$image_path" ]]; then
+    local_ref="./.draft-images/$date_slug/$image_filename"
+    # Escape special characters for sed
+    escaped_placeholder=$(echo "$placeholder" | sed 's/[]\/$*.^[]/\\&/g')
+    updated_content=$(echo "$updated_content" | sed "s|$escaped_placeholder|![${description}](${local_ref})|")
+  fi
+
+  echo ""
+  ((counter++))
+done <<< "$placeholders"
+
+# Write updated post
+echo "$updated_content" > "$post_path"
+
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "✓ All images processed!"
+echo "✓ Updated post with local references"
+echo ""
+echo "Next steps:"
+echo "  1. Preview locally: jekyll serve"
+echo "  2. When ready to publish: ./script/publish-images $post_path"
