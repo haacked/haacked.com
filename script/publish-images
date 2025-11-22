@@ -1,19 +1,23 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Load configuration
+# Load shared functions
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 BLOG_ROOT="$(dirname "$SCRIPT_DIR")"
-CONFIG_FILE="$BLOG_ROOT/.blog-config.yml"
 
-if [[ ! -f "$CONFIG_FILE" ]]; then
-  echo "Error: Configuration file not found at $CONFIG_FILE" >&2
-  echo "Copy .blog-config.yml.example to .blog-config.yml and configure it." >&2
+# shellcheck source=script/lib/config-loader.sh
+source "$SCRIPT_DIR/lib/config-loader.sh"
+
+# Load configuration (required for publish-images)
+CONFIG_FILE="$BLOG_ROOT/.blog-config.yml"
+if ! load_blog_config "$CONFIG_FILE" true; then
   exit 1
 fi
 
-# shellcheck disable=SC1090
-source "$CONFIG_FILE"
+# Check for required dependencies
+if ! check_required_dependencies git grep sed; then
+  exit 1
+fi
 
 # Functions
 find_local_images() {
@@ -44,7 +48,7 @@ optimize_with_tinypng() {
   local api_key="$3"
 
   local original_size
-  original_size=$(stat -f%z "$input_path" 2>/dev/null || stat -c%s "$input_path")
+  original_size=$(get_file_size "$input_path")
 
   # Upload to TinyPNG
   local response
@@ -57,7 +61,17 @@ optimize_with_tinypng() {
   output_url=$(echo "$response" | grep -i "^Location:" | sed 's/Location: //' | tr -d '\r')
 
   if [[ -z "$output_url" ]]; then
-    echo "Error: TinyPNG API failed" >&2
+    # Check for error message in response
+    local error_msg
+    error_msg=$(echo "$response" | grep -i "^{" | head -1)
+    echo "Error: TinyPNG API failed for $(basename "$input_path")" >&2
+    if [[ -n "$error_msg" ]]; then
+      echo "API response: $error_msg" >&2
+    fi
+    echo "This could be due to:" >&2
+    echo "  - API rate limit exceeded (500/month on free tier)" >&2
+    echo "  - Invalid API key in .blog-config.yml" >&2
+    echo "  - Network connectivity issues" >&2
     return 1
   fi
 
@@ -65,10 +79,12 @@ optimize_with_tinypng() {
   curl -s -o "$output_path" "$output_url"
 
   local optimized_size
-  optimized_size=$(stat -f%z "$output_path" 2>/dev/null || stat -c%s "$output_path")
+  optimized_size=$(get_file_size "$output_path")
 
-  local reduction
-  reduction=$(( (original_size - optimized_size) * 100 / original_size ))
+  local reduction=0
+  if (( original_size > 0 )); then
+    reduction=$(( (original_size - optimized_size) * 100 / original_size ))
+  fi
 
   echo "$(format_size "$original_size") → $(format_size "$optimized_size") (${reduction}% reduction)"
 }
@@ -78,16 +94,18 @@ optimize_with_imagemagick() {
   local output_path="$2"
 
   local original_size
-  original_size=$(stat -f%z "$input_path" 2>/dev/null || stat -c%s "$input_path")
+  original_size=$(get_file_size "$input_path")
 
   # Use ImageMagick to optimize
   magick "$input_path" -strip -quality 85 "$output_path"
 
   local optimized_size
-  optimized_size=$(stat -f%z "$output_path" 2>/dev/null || stat -c%s "$output_path")
+  optimized_size=$(get_file_size "$output_path")
 
-  local reduction
-  reduction=$(( (original_size - optimized_size) * 100 / original_size ))
+  local reduction=0
+  if (( original_size > 0 )); then
+    reduction=$(( (original_size - optimized_size) * 100 / original_size ))
+  fi
 
   echo "$(format_size "$original_size") → $(format_size "$optimized_size") (${reduction}% reduction)"
 }
@@ -168,29 +186,100 @@ echo ""
 echo "⏳ Optimizing and copying $image_count image(s)…"
 echo ""
 
-# Process images
+# Process images in parallel for better performance
 declare -A url_mappings
+declare -a pids=()
+declare -a temp_files=()
+
+# Function to process a single image (runs in background)
+process_single_image() {
+  local local_path="$1"
+  local temp_output="$2"
+
+  # Resolve full path and validate safety
+  local full_local_path="$BLOG_ROOT/${local_path#./}"
+
+  # Validate path is safe (prevent path traversal)
+  local safe_source
+  if ! safe_source=$(validate_path_safety "$full_local_path" "$BLOG_ROOT" "image source" 2>&1); then
+    echo "SKIP|$local_path|unsafe path" > "$temp_output"
+    return 1
+  fi
+
+  if [[ ! -f "$safe_source" ]]; then
+    echo "SKIP|$local_path|not found" > "$temp_output"
+    return 1
+  fi
+
+  local filename
+  filename=$(basename "$safe_source")
+  local target_path="$target_dir/$filename"
+
+  # Validate target path is safe
+  local safe_target
+  if ! safe_target=$(validate_path_safety "$target_path" "$images_repo_path" "image target" 2>&1); then
+    echo "SKIP|$local_path|unsafe target" > "$temp_output"
+    return 1
+  fi
+
+  # Optimize and copy
+  local result
+  result=$(optimize_image "$safe_source" "$safe_target" 2>&1)
+
+  # Build final URL
+  local final_url="$image_base_url/blog/$date_slug/$filename"
+
+  # Write result to temp file
+  echo "OK|$local_path|$final_url|$result" > "$temp_output"
+}
+
+export -f process_single_image
+export -f optimize_image
+export -f optimize_with_tinypng
+export -f optimize_with_imagemagick
+export -f format_size
+export -f validate_path_safety
+export -f get_file_size
+export BLOG_ROOT target_dir images_repo_path image_base_url date_slug TINYPNG_API_KEY
+
+# Process each image in parallel
+counter=1
 while IFS= read -r local_path; do
   [[ -z "$local_path" ]] && continue
 
-  # Resolve full path
-  full_local_path="$BLOG_ROOT/${local_path#./}"
+  temp_file=$(mktemp)
+  temp_files+=("$temp_file")
 
-  if [[ ! -f "$full_local_path" ]]; then
-    echo "  ⚠ Image not found: $full_local_path"
-    continue
+  process_single_image "$local_path" "$temp_file" &
+  pids+=($!)
+
+  ((counter++))
+done <<< "$local_images"
+
+# Wait for all background processes to complete
+for pid in "${pids[@]}"; do
+  wait "$pid" || true  # Don't fail if one image fails
+done
+
+# Collect results from temp files
+for temp_file in "${temp_files[@]}"; do
+  if [[ -f "$temp_file" ]] && [[ -s "$temp_file" ]]; then
+    IFS='|' read -r status local_path data message < "$temp_file"
+
+    case "$status" in
+      OK)
+        final_url="$data"
+        url_mappings["$local_path"]="$final_url"
+        echo "  $message"
+        ;;
+      SKIP)
+        echo "  ⚠ $local_path: $data"
+        ;;
+    esac
   fi
 
-  filename=$(basename "$full_local_path")
-  target_path="$target_dir/$filename"
-
-  # Optimize and copy
-  optimize_image "$full_local_path" "$target_path"
-
-  # Build final URL
-  final_url="$image_base_url/blog/$date_slug/$filename"
-  url_mappings["$local_path"]="$final_url"
-done <<< "$local_images"
+  rm -f "$temp_file"
+done
 
 echo ""
 echo "⏳ Committing to images repository…"
@@ -214,6 +303,10 @@ echo "⏳ Committing to images repository…"
 echo ""
 echo "⏳ Updating post with final URLs…"
 
+# Create backup before modifying
+backup_path="${post_path}.backup-$(date +%s)"
+cp "$post_path" "$backup_path"
+
 updated_content="$content"
 for local_path in "${!url_mappings[@]}"; do
   final_url="${url_mappings[$local_path]}"
@@ -224,6 +317,23 @@ for local_path in "${!url_mappings[@]}"; do
 done
 
 echo "$updated_content" > "$post_path"
+
+# Verify the update looks reasonable
+original_lines=$(wc -l < "$backup_path")
+updated_lines=$(wc -l < "$post_path")
+
+# If the file shrunk dramatically (>50%), warn and restore
+if (( updated_lines < original_lines / 2 )); then
+  echo "Warning: Post file appears corrupted after update (too few lines)" >&2
+  echo "Original: $original_lines lines, Updated: $updated_lines lines" >&2
+  echo "Restoring from backup…" >&2
+  mv "$backup_path" "$post_path"
+  exit 1
+fi
+
+# Clean up backup on success
+rm -f "$backup_path"
+
 echo "  ✓ Updated $post_path"
 
 echo ""

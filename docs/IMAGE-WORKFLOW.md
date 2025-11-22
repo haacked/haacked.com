@@ -14,16 +14,28 @@ This workflow provides three scripts that streamline the process of adding image
 
 ### 1. Install Dependencies
 
+The workflow scripts are written in bash and require the following command-line tools:
+
 ```bash
-bundle install
+# macOS
+brew install jq imagemagick
+
+# Linux (Debian/Ubuntu)
+sudo apt-get install jq imagemagick
+
+# Linux (Fedora/RHEL)
+sudo dnf install jq ImageMagick
 ```
 
-This installs the required gems:
+**Required tools:**
 
-- `ruby-openai` - OpenAI API client for DALL-E image generation
-- `tinify` - TinyPNG API for image optimization (optional)
-- `tty-prompt` - Interactive CLI prompts
-- `mini_magick` - ImageMagick wrapper (fallback for optimization)
+- `jq` - JSON parsing for API responses
+- `curl` - HTTP requests (usually pre-installed)
+- `git` - Version control (usually pre-installed)
+
+**Optional tools:**
+
+- `imagemagick` (`magick` command) - Image optimization fallback when TinyPNG API is not available
 
 ### 2. Configure API Keys
 
@@ -35,11 +47,11 @@ cp .blog-config.yml.example .blog-config.yml
 
 Edit `.blog-config.yml` and add your API keys:
 
-```yaml
-openai_api_key: "sk-your-actual-api-key"
-tinypng_api_key: "your-tinypng-key"  # Optional
-images_repo_path: "~/dev/haacked/images"
-image_base_url: "https://i.haacked.com"
+```bash
+OPENAI_API_KEY="sk-your-actual-api-key"
+TINYPNG_API_KEY="your-tinypng-key"  # Optional
+IMAGES_REPO_PATH="$HOME/dev/haacked/images"
+IMAGE_BASE_URL="https://i.haacked.com"
 ```
 
 **Getting API keys:**
