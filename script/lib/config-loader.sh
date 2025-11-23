@@ -110,9 +110,8 @@ validate_path_safety() {
   fi
 
   # Check for exact match or ensure it's a subdirectory with proper boundary
-  # The regex ensures a trailing slash, so /blog won't match /blog-evil/
-  if [[ "$real_path" != "$real_base"* ]] || \
-     { [[ "$real_path" != "$real_base" ]] && [[ ! "$real_path" =~ ^"$real_base"/ ]]; }; then
+  # Ensure trailing slash check so /blog won't match /blog-evil/
+  if [[ "$real_path" != "$real_base" ]] && [[ ! "$real_path" =~ ^"$real_base"/ ]]; then
     echo "Error: Path traversal detected in $description" >&2
     echo "  Path: $path" >&2
     echo "  Resolved: $real_path" >&2

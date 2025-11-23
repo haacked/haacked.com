@@ -120,7 +120,7 @@ download_image() {
 
   # Validate downloaded file is an image
   if command -v file &> /dev/null; then
-    if ! file "$safe_path" | grep -qE "(PNG|JPEG|GIF|WebP|image)"; then
+    if ! file "$safe_path" | grep -qE "^\S+:\s+(PNG|JPEG|GIF|WebP) image"; then
       echo "Error: Downloaded file is not a valid image format" >&2
       rm -f "$safe_path"
       return 1
