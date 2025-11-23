@@ -1,0 +1,47 @@
+#!/usr/bin/env bash
+# Run all tests for blog workflow scripts
+
+set -euo pipefail
+
+# Get script directory
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+ROOT_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
+
+# Colors
+GREEN='\033[0;32m'
+RED='\033[0;31m'
+YELLOW='\033[1;33m'
+NC='\033[0m'
+
+echo -e "${GREEN}Running blog workflow tests...${NC}\n"
+
+# Check if bats is installed
+if ! command -v bats > /dev/null 2>&1; then
+    echo -e "${RED}Error: bats is not installed${NC}"
+    echo "Install with: brew install bats-core"
+    exit 1
+fi
+
+# Run unit tests
+echo -e "${YELLOW}=== Unit Tests ===${NC}"
+if bats "$ROOT_DIR/tests/unit/"*.bats; then
+    echo -e "\n${GREEN}✓ All unit tests passed!${NC}\n"
+else
+    echo -e "\n${RED}✗ Some unit tests failed${NC}\n"
+    exit 1
+fi
+
+# Run integration tests if they exist
+if [ -d "$ROOT_DIR/tests/integration" ] && [ -n "$(ls -A "$ROOT_DIR/tests/integration"/*.bats 2> /dev/null)" ]; then
+    echo -e "${YELLOW}=== Integration Tests ===${NC}"
+    if bats "$ROOT_DIR/tests/integration/"*.bats; then
+        echo -e "\n${GREEN}✓ All integration tests passed!${NC}\n"
+    else
+        echo -e "\n${RED}✗ Some integration tests failed${NC}\n"
+        exit 1
+    fi
+fi
+
+echo -e "${GREEN}========================================${NC}"
+echo -e "${GREEN}All tests passed! ✓${NC}"
+echo -e "${GREEN}========================================${NC}"
