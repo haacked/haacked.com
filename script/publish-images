@@ -286,7 +286,7 @@ if ! (
   if git diff --cached --quiet; then
     echo "  ⊘ No changes to commit"
   else
-    git commit -m "Add images for $date_slug"
+    git commit --only -m "Add images for $date_slug" -- "blog/$date_slug"
     echo "  ⏳ Pushing to remote…"
     git push
     echo "  ✓ Pushed to remote"

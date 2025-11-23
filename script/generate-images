@@ -275,12 +275,23 @@ generate_ai_image_workflow() {
 }
 
 # Main script
+batch_mode=false
 if [[ $# -eq 0 ]]; then
-  echo "Usage: $0 POST_FILE" >&2
+  echo "Usage: $0 [--all] POST_FILE" >&2
   echo "" >&2
-  echo "Example:" >&2
+  echo "Options:" >&2
+  echo "  --all    Non-interactive mode: generate all missing images with default settings" >&2
+  echo "" >&2
+  echo "Examples:" >&2
   echo "  $0 _posts/2025/2025-11-21-my-post.md" >&2
+  echo "  $0 --all _posts/2025/2025-11-21-my-post.md" >&2
   exit 1
+fi
+
+# Parse arguments
+if [[ "$1" == "--all" ]]; then
+  batch_mode=true
+  shift
 fi
 
 post_path="$1"
@@ -326,7 +337,16 @@ while IFS= read -r placeholder; do
 
   # Determine action based on whether image exists
   choice=""
-  if [[ -f "$image_path" ]]; then
+  if [[ "$batch_mode" == true ]]; then
+    # Batch mode: keep existing images, generate missing ones
+    if [[ -f "$image_path" ]]; then
+      echo "✓ Keeping existing $image_filename"
+      choice="Keep existing image"
+    else
+      echo "⏳ Will generate with AI (batch mode)"
+      choice="Generate with AI"
+    fi
+  elif [[ -f "$image_path" ]]; then
     echo "Image already exists: $image_path"
     echo ""
     echo "What would you like to do?"
@@ -386,7 +406,29 @@ while IFS= read -r placeholder; do
 
   # Handle AI generation if selected
   if [[ "$choice" == "Regenerate with AI" ]] || [[ "$choice" == "Generate with AI" ]]; then
-    generate_ai_image_workflow "$description" "$image_path" "$image_id"
+    if [[ "$batch_mode" == true ]]; then
+      # Batch mode: generate with default settings
+      echo ""
+      echo "⏳ Generating image with default settings…"
+      if image_url=$(generate_dalle_image "$description" "${DALLE_STYLE:-vivid}"); then
+        echo "✓ Generated image"
+        echo "⏳ Downloading image…"
+        if download_image "$image_url" "$image_path"; then
+          local file_size
+          file_size=$(get_file_size "$image_path")
+          echo "✓ Saved to $image_path ($(format_size "$file_size"))"
+        else
+          echo "✗ Failed to download image" >&2
+          echo "⊘ Skipped $image_id"
+        fi
+      else
+        echo "✗ Error generating image" >&2
+        echo "⊘ Skipped $image_id"
+      fi
+    else
+      # Interactive mode: use full workflow
+      generate_ai_image_workflow "$description" "$image_path" "$image_id"
+    fi
   fi
 
   # Update content with local reference if image exists

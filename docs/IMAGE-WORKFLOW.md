@@ -104,7 +104,9 @@ More content…
 - Descriptions are used as default AI prompts
 - Add any existing images (screenshots, diagrams) to `.draft-images/YYYY-MM-DD-slug/`
 
-### Step 3: Generate/Select Images Interactively
+### Step 3: Generate/Select Images
+
+#### Interactive Mode (Default)
 
 ```bash
 ./script/generate-images _posts/YYYY/YYYY-MM-DD-slug.md
@@ -133,6 +135,28 @@ The script:
   ```markdown
   ![Description](./.draft-images/YYYY-MM-DD-slug/image1.png)
   ```
+
+#### Batch Mode (Non-Interactive)
+
+For automated workflows or CI/CD pipelines:
+
+```bash
+./script/generate-images --all _posts/YYYY/YYYY-MM-DD-slug.md
+```
+
+This mode:
+
+- Keeps all existing images without prompting
+- Generates missing images with default settings (vivid style, placeholder description as prompt)
+- Never asks for user input (safe for automation)
+- Uses `DALLE_STYLE` from `.blog-config.sh` if set, otherwise defaults to "vivid"
+
+**Use cases:**
+
+- Automated content pipelines
+- CI/CD environments
+- Generating multiple posts at once
+- When you trust the placeholder descriptions
 
 ### Step 4: Preview Locally
 

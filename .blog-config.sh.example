@@ -1,5 +1,5 @@
 # Blog Image Workflow Configuration
-# Copy this file to .blog-config.yml and fill in your API keys
+# Copy this file to .blog-config.sh and fill in your API keys
 
 # OpenAI API key for DALL-E image generation
 # Get your key from: https://platform.openai.com/api-keys
