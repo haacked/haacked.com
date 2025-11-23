@@ -9,7 +9,7 @@ load_blog_config() {
   if [[ ! -f "$config_file" ]]; then
     if [[ "$required" == "true" ]]; then
       echo "Error: Configuration file not found at $config_file" >&2
-      echo "Copy .blog-config.yml.example to .blog-config.yml and configure it." >&2
+      echo "Copy .blog-config.sh.example to .blog-config.sh and configure it." >&2
       return 1
     else
       return 0
@@ -92,8 +92,13 @@ validate_path_safety() {
     else
       real_path="$(pwd)/$path"
     fi
-    # Normalize by removing ./ and collapsing ../
-    real_path=$(echo "$real_path" | sed -E 's|/\./|/|g' | sed -E 's|/[^/]+/\.\./|/|g' | sed -E 's|^/\.\./|/|' | sed -E 's|/+|/|g')
+    # Normalize by removing ./ and collapsing ../ (loop until no more changes)
+    real_path=$(echo "$real_path" | sed -E 's|/\./|/|g' | sed -E 's|^/\.\./|/|' | sed -E 's|/+|/|g')
+    local prev_path=""
+    while [[ "$real_path" != "$prev_path" ]]; do
+      prev_path="$real_path"
+      real_path=$(echo "$real_path" | sed -E 's|/[^/]+/\.\./|/|g')
+    done
   fi
 
   # Ensure path is within base directory (prevent path traversal)
@@ -105,7 +110,9 @@ validate_path_safety() {
   fi
 
   # Check for exact match or ensure it's a subdirectory with proper boundary
-  if [[ "$real_path" != "$real_base" ]] && [[ ! "$real_path" =~ ^"$real_base"/ ]]; then
+  # The regex ensures a trailing slash, so /blog won't match /blog-evil/
+  if [[ "$real_path" != "$real_base"* ]] || \
+     { [[ "$real_path" != "$real_base" ]] && [[ ! "$real_path" =~ ^"$real_base"/ ]]; }; then
     echo "Error: Path traversal detected in $description" >&2
     echo "  Path: $path" >&2
     echo "  Resolved: $real_path" >&2
@@ -121,6 +128,22 @@ get_file_size() {
   local file_path="$1"
   # Cross-platform file size (macOS uses -f, Linux uses -c)
   stat -f%z "$file_path" 2>/dev/null || stat -c%s "$file_path" 2>/dev/null
+}
+
+extract_date_slug() {
+  local post_path="$1"
+  basename "$post_path" .md
+}
+
+format_size() {
+  local bytes="$1"
+  if (( bytes < 1024 )); then
+    echo "${bytes}B"
+  elif (( bytes < 1048576 )); then
+    echo "$(( bytes / 1024 ))KB"
+  else
+    echo "$(( bytes / 1048576 ))MB"
+  fi
 }
 
 check_required_dependencies() {

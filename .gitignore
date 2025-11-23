@@ -20,4 +20,4 @@ $RECYCLE.BIN/
 .draft-images/
 
 # Local blog configuration (contains API keys)
-.blog-config.yml
+.blog-config.sh

@@ -11,7 +11,8 @@ setup() {
     eval "$(sed -n '/^find_image_placeholders()/,/^}/p' "$PROJECT_ROOT/script/generate-images")"
     eval "$(sed -n '/^extract_placeholder_id()/,/^}/p' "$PROJECT_ROOT/script/generate-images")"
     eval "$(sed -n '/^extract_placeholder_description()/,/^}/p' "$PROJECT_ROOT/script/generate-images")"
-    eval "$(sed -n '/^extract_date_slug()/,/^}/p' "$PROJECT_ROOT/script/generate-images")"
+    # extract_date_slug is now in config-loader.sh
+    eval "$(sed -n '/^extract_date_slug()/,/^}/p' "$PROJECT_ROOT/script/lib/config-loader.sh")"
 }
 
 # === find_image_placeholders tests ===

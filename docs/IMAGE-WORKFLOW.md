@@ -42,10 +42,10 @@ sudo dnf install jq ImageMagick
 Copy the example configuration:
 
 ```bash
-cp .blog-config.yml.example .blog-config.yml
+cp .blog-config.sh.example .blog-config.sh
 ```
 
-Edit `.blog-config.yml` and add your API keys:
+Edit `.blog-config.sh` and add your API keys:
 
 ```bash
 OPENAI_API_KEY="sk-your-actual-api-key"
@@ -218,15 +218,15 @@ All scripts are idempotent:
 
 ### "Configuration file not found"
 
-Make sure you've created `.blog-config.yml` from the example:
+Make sure you've created `.blog-config.sh` from the example:
 
 ```bash
-cp .blog-config.yml.example .blog-config.yml
+cp .blog-config.sh.example .blog-config.sh
 ```
 
 ### "Images repository not found"
 
-Check that `images_repo_path` in `.blog-config.yml` points to your local clone of the images repository:
+Check that `images_repo_path` in `.blog-config.sh` points to your local clone of the images repository:
 
 ```bash
 ls ~/dev/haacked/images  # Should exist
@@ -250,8 +250,8 @@ git push  # Test push access
 
 ```text
 haacked.com/
-├── .blog-config.yml          # Your API keys (gitignored)
-├── .blog-config.yml.example  # Template
+├── .blog-config.sh           # Your API keys (gitignored)
+├── .blog-config.sh.example   # Template
 ├── .draft-images/            # Draft images (gitignored)
 │   └── 2025-11-21-my-post/
 │       ├── image1.png
@@ -280,7 +280,7 @@ done
 
 ### Custom DALL-E Settings
 
-Edit `.blog-config.yml`:
+Edit `.blog-config.sh`:
 
 ```bash
 DALLE_MODEL="dall-e-3"
@@ -291,7 +291,7 @@ DALLE_STYLE="natural"       # Default style
 
 ### Auto-open in Editor
 
-Set your preferred editor in `.blog-config.yml`:
+Set your preferred editor in `.blog-config.sh`:
 
 ```bash
 EDITOR="code"  # VS Code

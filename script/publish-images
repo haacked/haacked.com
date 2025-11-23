@@ -9,7 +9,7 @@ BLOG_ROOT="$(dirname "$SCRIPT_DIR")"
 source "$SCRIPT_DIR/lib/config-loader.sh"
 
 # Load configuration (required for publish-images)
-CONFIG_FILE="$BLOG_ROOT/.blog-config.yml"
+CONFIG_FILE="$BLOG_ROOT/.blog-config.sh"
 if ! load_blog_config "$CONFIG_FILE" true; then
   exit 1
 fi
@@ -24,22 +24,6 @@ find_local_images() {
   local content="$1"
   grep -oE '!\[[^]]*\]\(\./\.draft-images/[^)]+\)' <<< "$content" | \
     sed -E 's/!\[[^]]*\]\(([^)]+)\)/\1/' || true
-}
-
-extract_date_slug() {
-  local post_path="$1"
-  basename "$post_path" .md
-}
-
-format_size() {
-  local bytes="$1"
-  if (( bytes < 1024 )); then
-    echo "${bytes}B"
-  elif (( bytes < 1048576 )); then
-    echo "$(( bytes / 1024 ))KB"
-  else
-    echo "$(( bytes / 1048576 ))MB"
-  fi
 }
 
 optimize_with_tinypng() {
@@ -70,7 +54,7 @@ optimize_with_tinypng() {
     fi
     echo "This could be due to:" >&2
     echo "  - API rate limit exceeded (500/month on free tier)" >&2
-    echo "  - Invalid API key in .blog-config.yml" >&2
+    echo "  - Invalid API key in .blog-config.sh" >&2
     echo "  - Network connectivity issues" >&2
     return 1
   fi
@@ -173,7 +157,7 @@ image_base_url="${IMAGE_BASE_URL}"
 
 if [[ ! -d "$images_repo_path" ]]; then
   echo "Error: Images repository not found at $images_repo_path" >&2
-  echo "Check your .blog-config.yml configuration." >&2
+  echo "Check your .blog-config.sh configuration." >&2
   exit 1
 fi
 

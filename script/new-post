@@ -9,7 +9,7 @@ BLOG_ROOT="$(dirname "$SCRIPT_DIR")"
 source "$SCRIPT_DIR/lib/config-loader.sh"
 
 # Load configuration (optional for new-post)
-CONFIG_FILE="$BLOG_ROOT/.blog-config.yml"
+CONFIG_FILE="$BLOG_ROOT/.blog-config.sh"
 load_blog_config "$CONFIG_FILE" false
 
 # Prompt for post details
