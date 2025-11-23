@@ -27,10 +27,10 @@ read -rp "Slug (press Enter to auto-generate): " slug
 # Auto-generate slug if not provided
 if [[ -z "$slug" ]]; then
   slug=$(echo "$title" | tr '[:upper:]' '[:lower:]' | \
-    sed 's/[^a-z0-9 -]//g' | \
-    sed 's/ \+/-/g' | \
-    sed 's/-\+/-/g' | \
-    sed 's/^-\|-$//g')
+    sed -E 's/[^a-z0-9 -]//g' | \
+    sed -E 's/ +/-/g' | \
+    sed -E 's/-+/-/g' | \
+    sed -E 's/^-|-$//g')
 
   # Validate slug is not empty
   if [[ -z "$slug" ]]; then

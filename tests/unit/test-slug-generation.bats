@@ -19,10 +19,10 @@ teardown() {
 generate_slug() {
     local title="$1"
     echo "$title" | tr '[:upper:]' '[:lower:]' | \
-        sed 's/[^a-z0-9 -]//g' | \
-        sed 's/ \+/-/g' | \
-        sed 's/-\+/-/g' | \
-        sed 's/^-\|-$//g'
+        sed -E 's/[^a-z0-9 -]//g' | \
+        sed -E 's/ +/-/g' | \
+        sed -E 's/-+/-/g' | \
+        sed -E 's/^-|-$//g'
 }
 
 # === Slug generation tests ===

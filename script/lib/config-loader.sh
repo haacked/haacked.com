@@ -81,16 +81,28 @@ validate_path_safety() {
   local base_dir="$2"
   local description="${3:-path}"
 
-  # Resolve to absolute path
+  # Resolve to absolute path (handle both macOS and Linux)
   local real_path
-  if ! real_path=$(realpath -m "$path" 2>/dev/null); then
-    echo "Error: Invalid $description: $path" >&2
-    return 1
+  # Try GNU realpath -m first (handles non-existent paths), fall back to BSD realpath
+  if ! real_path=$(realpath -m "$path" 2>/dev/null || realpath "$path" 2>/dev/null); then
+    # If realpath fails, manually resolve the path
+    # Convert to absolute path if relative
+    if [[ "$path" = /* ]]; then
+      real_path="$path"
+    else
+      real_path="$(pwd)/$path"
+    fi
+    # Normalize by removing ./ and collapsing ../
+    real_path=$(echo "$real_path" | sed -E 's|/\./|/|g' | sed -E 's|/[^/]+/\.\./|/|g' | sed -E 's|^/\.\./|/|' | sed -E 's|/+|/|g')
   fi
 
   # Ensure path is within base directory (prevent path traversal)
   local real_base
-  real_base=$(realpath -m "$base_dir" 2>/dev/null)
+  # Resolve base directory (it should always exist)
+  if ! real_base=$(realpath "$base_dir" 2>/dev/null); then
+    echo "Error: Base directory does not exist: $base_dir" >&2
+    return 1
+  fi
 
   # Check for exact match or ensure it's a subdirectory with proper boundary
   if [[ "$real_path" != "$real_base" ]] && [[ ! "$real_path" =~ ^"$real_base"/ ]]; then
