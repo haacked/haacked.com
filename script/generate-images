@@ -407,8 +407,8 @@ while IFS= read -r placeholder; do
   # Update content with local reference if image exists
   if [[ -f "$image_path" ]]; then
     local_ref="./.draft-images/$date_slug/$image_filename"
-    # Escape special characters for sed
-    escaped_placeholder=$(echo "$placeholder" | sed 's/[]\/$*.^[]/\\&/g')
+    # Escape special characters for sed (properly formed character class)
+    escaped_placeholder=$(echo "$placeholder" | sed 's/[][\\/$*.^]/\\&/g')
     updated_content=$(echo "$updated_content" | sed "s|$escaped_placeholder|![${description}](${local_ref})|")
   fi
 

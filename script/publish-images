@@ -191,6 +191,14 @@ declare -A url_mappings
 declare -a pids=()
 declare -a temp_files=()
 
+# Cleanup function for temp files
+cleanup_temp_files() {
+  for temp_file in "${temp_files[@]}"; do
+    rm -f "$temp_file"
+  done
+}
+trap cleanup_temp_files EXIT
+
 # Function to process a single image (runs in background)
 process_single_image() {
   local local_path="$1"
@@ -284,8 +292,9 @@ done
 echo ""
 echo "⏳ Committing to images repository…"
 
-# Git operations
-(
+# Git operations (with error propagation)
+if ! (
+  set -euo pipefail
   cd "$images_repo_path"
   git add "blog/$date_slug"
 
@@ -298,7 +307,12 @@ echo "⏳ Committing to images repository…"
     git push
     echo "  ✓ Pushed to remote"
   fi
-)
+); then
+  echo "Error: Failed to publish images to repository" >&2
+  echo "Images were optimized but not pushed. Check git status in:" >&2
+  echo "  $images_repo_path" >&2
+  exit 1
+fi
 
 echo ""
 echo "⏳ Updating post with final URLs…"

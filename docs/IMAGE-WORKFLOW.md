@@ -84,7 +84,7 @@ Edit your post and add image placeholders:
 ```markdown
 ---
 title: "My Amazing Post"
-excerpt_image: [image1]
+excerpt_image: ""  # Will be set after generating images
 ---
 
 [image1: A vibrant sunset over mountains with a developer working on a laptop]
@@ -282,22 +282,21 @@ done
 
 Edit `.blog-config.yml`:
 
-```yaml
-dalle:
-  model: "dall-e-3"
-  size: "1792x1024"      # Wide format
-  quality: "hd"          # Higher quality
-  style: "natural"       # Default style
+```bash
+DALLE_MODEL="dall-e-3"
+DALLE_SIZE="1792x1024"      # Wide format
+DALLE_QUALITY="hd"          # Higher quality
+DALLE_STYLE="natural"       # Default style
 ```
 
 ### Auto-open in Editor
 
 Set your preferred editor in `.blog-config.yml`:
 
-```yaml
-editor: "code"  # VS Code
-# editor: "vim"
-# editor: "subl"
+```bash
+EDITOR="code"  # VS Code
+# EDITOR="vim"
+# EDITOR="subl"
 ```
 
 The `new-post` script will automatically open the post in your editor.

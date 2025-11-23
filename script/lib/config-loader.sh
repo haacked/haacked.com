@@ -92,7 +92,8 @@ validate_path_safety() {
   local real_base
   real_base=$(realpath -m "$base_dir" 2>/dev/null)
 
-  if [[ ! "$real_path" =~ ^"$real_base" ]]; then
+  # Check for exact match or ensure it's a subdirectory with proper boundary
+  if [[ "$real_path" != "$real_base" ]] && [[ ! "$real_path" =~ ^"$real_base"/ ]]; then
     echo "Error: Path traversal detected in $description" >&2
     echo "  Path: $path" >&2
     echo "  Resolved: $real_path" >&2

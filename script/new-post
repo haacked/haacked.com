@@ -31,6 +31,18 @@ if [[ -z "$slug" ]]; then
     sed 's/ \+/-/g' | \
     sed 's/-\+/-/g' | \
     sed 's/^-\|-$//g')
+
+  # Validate slug is not empty
+  if [[ -z "$slug" ]]; then
+    echo "Error: Could not generate a valid slug from title" >&2
+    echo "Title contains only special characters. Please provide a slug manually." >&2
+    read -rp "Enter slug: " slug
+
+    if [[ -z "$slug" ]]; then
+      echo "Error: Slug cannot be empty" >&2
+      exit 1
+    fi
+  fi
 fi
 
 # Generate date and filename
