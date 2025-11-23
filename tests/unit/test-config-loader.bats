@@ -130,13 +130,14 @@ EOF
 # === validate_editor tests ===
 
 @test "validate_editor: accepts valid editor names" {
-    run validate_editor "vim"
+    # Test with editors that exist on both macOS and Linux
+    run validate_editor "vi"
     [ "$status" -eq 0 ]
 
-    run validate_editor "code"
-    [ "$status" -eq 0 ]
-
-    run validate_editor "/usr/bin/vim"
+    # Test with absolute path using command that definitely exists
+    local cat_path
+    cat_path=$(command -v cat)
+    run validate_editor "$cat_path"
     [ "$status" -eq 0 ]
 }
 
