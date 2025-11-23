@@ -15,3 +15,9 @@ $RECYCLE.BIN/
 
 .sass-cache/
 .jekyll-metadata
+
+# Draft images (published separately to images repo)
+.draft-images/
+
+# Local blog configuration (contains API keys)
+.blog-config.sh

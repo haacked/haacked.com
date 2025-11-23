@@ -1,0 +1,475 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Load shared functions
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+BLOG_ROOT="$(dirname "$SCRIPT_DIR")"
+
+# shellcheck source=script/lib/config-loader.sh
+source "$SCRIPT_DIR/lib/config-loader.sh"
+
+# Load configuration (required for generate-images)
+CONFIG_FILE="$BLOG_ROOT/.blog-config.sh"
+if ! load_blog_config "$CONFIG_FILE" true; then
+  exit 1
+fi
+
+# Check for required dependencies
+if ! check_required_dependencies jq curl; then
+  exit 1
+fi
+
+# Functions
+find_image_placeholders() {
+  local content="$1"
+  grep -oE '\[image[0-9]+:[^]]+\]' <<< "$content" || true
+}
+
+extract_placeholder_id() {
+  local placeholder="$1"
+  sed -E 's/\[([^:]+):.*/\1/' <<< "$placeholder"
+}
+
+extract_placeholder_description() {
+  local placeholder="$1"
+  sed -E 's/\[[^:]+: *([^]]+)\]/\1/' <<< "$placeholder"
+}
+
+generate_dalle_image() {
+  local prompt="$1"
+  local style="${2:-${DALLE_STYLE:-vivid}}"
+
+  local payload
+  payload=$(jq -n \
+    --arg model "${DALLE_MODEL:-dall-e-3}" \
+    --arg prompt "$prompt" \
+    --arg size "${DALLE_SIZE:-1024x1024}" \
+    --arg quality "${DALLE_QUALITY:-standard}" \
+    --arg style "$style" \
+    '{
+      model: $model,
+      prompt: $prompt,
+      n: 1,
+      size: $size,
+      quality: $quality,
+      style: $style
+    }')
+
+  # Use curl config to hide API key from process list
+  local curl_config
+  curl_config=$(mktemp)
+  trap 'rm -f "$curl_config"' RETURN
+
+  cat > "$curl_config" <<EOF
+header = "Content-Type: application/json"
+header = "Authorization: Bearer $OPENAI_API_KEY"
+EOF
+
+  local response
+  response=$(curl -s -X POST "https://api.openai.com/v1/images/generations" \
+    -K "$curl_config" \
+    -d "$payload")
+
+  # Check for errors
+  if echo "$response" | jq -e '.error' > /dev/null 2>&1; then
+    local error_msg
+    error_msg=$(echo "$response" | jq -r '.error.message')
+    echo "Error: OpenAI API returned an error: $error_msg" >&2
+    echo "This could be due to:" >&2
+    echo "  - Invalid API key in .blog-config.sh" >&2
+    echo "  - Rate limit exceeded" >&2
+    echo "  - Network connectivity issues" >&2
+    echo "  - Invalid prompt or parameters" >&2
+    return 1
+  fi
+
+  # Validate response contains expected data
+  if ! echo "$response" | jq -e '.data[0].url' > /dev/null 2>&1; then
+    echo "Error: Unexpected response from OpenAI API" >&2
+    return 1
+  fi
+
+  local image_url
+  image_url=$(echo "$response" | jq -r '.data[0].url')
+
+  # Validate URL is from OpenAI blob storage domain
+  # OpenAI DALL-E images are served from Azure blob storage
+  if [[ ! "$image_url" =~ ^https://oaidalleapiprodscus\.blob\.core\.windows\.net/ ]]; then
+    echo "Error: Image URL is not from expected OpenAI blob storage domain: $image_url" >&2
+    return 1
+  fi
+
+  echo "$image_url"
+}
+
+download_image() {
+  local url="$1"
+  local output_path="$2"
+
+  # Validate output path is safe
+  local safe_path
+  if ! safe_path=$(validate_path_safety "$output_path" "$BLOG_ROOT/.draft-images" "image output path"); then
+    return 1
+  fi
+
+  # Download image
+  if ! curl -s -f -o "$safe_path" "$url"; then
+    echo "Error: Failed to download image from $url" >&2
+    return 1
+  fi
+
+  # Validate downloaded file is an image
+  # Use case-insensitive match since file output varies across systems
+  if command -v file &> /dev/null; then
+    if ! file "$safe_path" | grep -qiE "^\S+:\s+(PNG|JPEG|GIF|WebP) image"; then
+      echo "Error: Downloaded file is not a valid image format" >&2
+      rm -f "$safe_path"
+      return 1
+    fi
+  fi
+
+  # Check file size is reasonable (not empty, not too large)
+  local file_size
+  file_size=$(get_file_size "$safe_path")
+
+  if (( file_size == 0 )); then
+    echo "Error: Downloaded file is empty" >&2
+    rm -f "$safe_path"
+    return 1
+  fi
+
+  if (( file_size > 20971520 )); then  # 20MB limit
+    echo "Error: Downloaded file is too large ($(( file_size / 1048576 ))MB > 20MB)" >&2
+    rm -f "$safe_path"
+    return 1
+  fi
+
+  return 0
+}
+
+# Helper function: Select an existing file to use
+select_existing_file() {
+  local draft_images_dir="$1"
+  local target_path="$2"
+
+  existing_files=("$draft_images_dir"/*)
+  if [[ ${#existing_files[@]} -eq 0 ]] || [[ ! -f "${existing_files[0]}" ]]; then
+    echo "none"
+    return 1
+  fi
+
+  echo ""
+  echo "Select file:"
+  select selected_file in "${existing_files[@]}"; do
+    if [[ -n "$selected_file" ]]; then
+      # Validate paths are safe
+      local safe_source safe_dest
+      if safe_source=$(validate_path_safety "$selected_file" "$BLOG_ROOT/.draft-images" "source file") && \
+         safe_dest=$(validate_path_safety "$target_path" "$BLOG_ROOT/.draft-images" "destination file"); then
+        cp "$safe_source" "$safe_dest"
+        echo "✓ Using $(basename "$selected_file")"
+        echo "selected"
+        return 0
+      else
+        echo "Error: Path validation failed" >&2
+        echo "failed"
+        return 1
+      fi
+    fi
+  done
+
+  echo "failed"
+  return 1
+}
+
+# Helper function: Handle AI image generation workflow
+generate_ai_image_workflow() {
+  local description="$1"
+  local image_path="$2"
+  local image_id="$3"
+
+  local satisfied=false
+
+  while [[ "$satisfied" == false ]]; do
+    echo ""
+    echo "Default prompt: $description"
+    read -rp "Enter custom prompt (or press Enter to use default): " custom_prompt
+
+    if [[ -z "$custom_prompt" ]]; then
+      custom_prompt="$description"
+    fi
+
+    echo ""
+    echo "Select style:"
+    select style in "Vivid (hyper-real, dramatic)" "Natural (more subdued, natural)"; do
+      case $style in
+        "Vivid"*)
+          style_value="vivid"
+          break
+          ;;
+        "Natural"*)
+          style_value="natural"
+          break
+          ;;
+      esac
+    done
+
+    echo ""
+    echo "⏳ Generating image…"
+
+    if image_url=$(generate_dalle_image "$custom_prompt" "$style_value"); then
+      echo "✓ Generated image"
+      echo ""
+      echo "Preview URL: $image_url"
+      echo ""
+
+      read -rp "Are you satisfied with this image? (y/n): " answer
+      if [[ "$answer" =~ ^[Yy] ]]; then
+        echo "⏳ Downloading image…"
+        if download_image "$image_url" "$image_path"; then
+          local file_size
+          file_size=$(get_file_size "$image_path")
+          echo "✓ Saved to $image_path ($(format_size "$file_size"))"
+          satisfied=true
+          echo "generated"
+          return 0
+        else
+          echo "✗ Failed to download image" >&2
+          read -rp "Would you like to retry? (y/n): " retry
+          if [[ ! "$retry" =~ ^[Yy] ]]; then
+            echo "⊘ Skipped $image_id"
+            echo "skipped"
+            return 1
+          fi
+        fi
+      else
+        echo ""
+        echo "What would you like to do?"
+        select regen_choice in "Modify prompt and regenerate" "Regenerate with same prompt" "Skip this image"; do
+          case $regen_choice in
+            "Modify prompt and regenerate")
+              break
+              ;;
+            "Regenerate with same prompt")
+              # Set custom_prompt to force regeneration
+              break
+              ;;
+            "Skip this image")
+              echo "⊘ Skipped $image_id"
+              satisfied=true
+              echo "skipped"
+              return 1
+              ;;
+          esac
+        done
+      fi
+    else
+      echo "✗ Error generating image"
+      read -rp "Would you like to retry? (y/n): " retry
+      if [[ ! "$retry" =~ ^[Yy] ]]; then
+        echo "⊘ Skipped $image_id"
+        echo "skipped"
+        return 1
+      fi
+    fi
+  done
+}
+
+# Main script
+batch_mode=false
+if [[ $# -eq 0 ]]; then
+  echo "Usage: $0 [--all] POST_FILE" >&2
+  echo "" >&2
+  echo "Options:" >&2
+  echo "  --all    Non-interactive mode: generate all missing images with default settings" >&2
+  echo "" >&2
+  echo "Examples:" >&2
+  echo "  $0 _posts/2025/2025-11-21-my-post.md" >&2
+  echo "  $0 --all _posts/2025/2025-11-21-my-post.md" >&2
+  exit 1
+fi
+
+# Parse arguments
+if [[ "$1" == "--all" ]]; then
+  batch_mode=true
+  shift
+fi
+
+post_path="$1"
+
+if [[ ! -f "$post_path" ]]; then
+  echo "Error: Post file not found: $post_path" >&2
+  exit 1
+fi
+
+content=$(cat "$post_path")
+placeholders=$(find_image_placeholders "$content")
+
+if [[ -z "$placeholders" ]]; then
+  echo "No image placeholders found in post." >&2
+  echo "Add placeholders like: [image1: Description of image]" >&2
+  exit 0
+fi
+
+date_slug=$(extract_date_slug "$post_path")
+draft_images_dir="$BLOG_ROOT/.draft-images/$date_slug"
+mkdir -p "$draft_images_dir"
+
+placeholder_count=$(echo "$placeholders" | wc -l | tr -d ' ')
+echo ""
+echo "Found $placeholder_count image placeholder(s)"
+echo ""
+
+updated_content="$content"
+counter=1
+
+while IFS= read -r placeholder; do
+  [[ -z "$placeholder" ]] && continue
+
+  image_id=$(extract_placeholder_id "$placeholder")
+  description=$(extract_placeholder_description "$placeholder")
+
+  echo "━━━ Image $counter/$placeholder_count ━━━"
+  echo "Placeholder: $placeholder"
+  echo ""
+
+  image_filename="${image_id}.png"
+  image_path="$draft_images_dir/$image_filename"
+
+  # Determine action based on whether image exists
+  choice=""
+  if [[ "$batch_mode" == true ]]; then
+    # Batch mode: keep existing images, generate missing ones
+    if [[ -f "$image_path" ]]; then
+      echo "✓ Keeping existing $image_filename"
+      choice="Keep existing image"
+    else
+      echo "⏳ Will generate with AI (batch mode)"
+      choice="Generate with AI"
+    fi
+  elif [[ -f "$image_path" ]]; then
+    echo "Image already exists: $image_path"
+    echo ""
+    echo "What would you like to do?"
+    select choice in "Keep existing image" "Use different existing file" "Regenerate with AI" "Skip"; do
+      case $choice in
+        "Keep existing image")
+          echo "✓ Keeping existing $image_filename"
+          break
+          ;;
+        "Use different existing file")
+          result=$(select_existing_file "$draft_images_dir" "$image_path")
+          if [[ "$result" == "selected" ]]; then
+            break
+          elif [[ "$result" == "none" ]]; then
+            echo "No existing files found."
+            choice="Regenerate with AI"
+          else
+            choice="Skip"
+            break
+          fi
+          ;;
+        "Regenerate with AI")
+          break
+          ;;
+        "Skip")
+          echo "⊘ Skipped $image_id"
+          ((counter++))
+          continue 2
+          ;;
+      esac
+    done
+  else
+    # Check for existing files to use
+    existing_files=("$draft_images_dir"/*)
+    if [[ -f "${existing_files[0]}" ]]; then
+      echo "Choose an option:"
+      select choice in "Use existing file" "Generate with AI"; do
+        case $choice in
+          "Use existing file")
+            result=$(select_existing_file "$draft_images_dir" "$image_path")
+            if [[ "$result" == "selected" ]]; then
+              break
+            else
+              choice="Generate with AI"
+              break
+            fi
+            ;;
+          "Generate with AI")
+            break
+            ;;
+        esac
+      done
+    else
+      choice="Generate with AI"
+    fi
+  fi
+
+  # Handle AI generation if selected
+  if [[ "$choice" == "Regenerate with AI" ]] || [[ "$choice" == "Generate with AI" ]]; then
+    if [[ "$batch_mode" == true ]]; then
+      # Batch mode: generate with default settings
+      echo ""
+      echo "⏳ Generating image with default settings…"
+      if image_url=$(generate_dalle_image "$description" "${DALLE_STYLE:-vivid}"); then
+        echo "✓ Generated image"
+        echo "⏳ Downloading image…"
+        if download_image "$image_url" "$image_path"; then
+          local file_size
+          file_size=$(get_file_size "$image_path")
+          echo "✓ Saved to $image_path ($(format_size "$file_size"))"
+        else
+          echo "✗ Failed to download image" >&2
+          echo "⊘ Skipped $image_id"
+        fi
+      else
+        echo "✗ Error generating image" >&2
+        echo "⊘ Skipped $image_id"
+      fi
+    else
+      # Interactive mode: use full workflow
+      generate_ai_image_workflow "$description" "$image_path" "$image_id"
+    fi
+  fi
+
+  # Update content with local reference if image exists
+  if [[ -f "$image_path" ]]; then
+    local_ref="./.draft-images/$date_slug/$image_filename"
+    # Escape special characters for sed (properly formed character class)
+    escaped_placeholder=$(echo "$placeholder" | sed 's/[][\\/$*.^]/\\&/g')
+    updated_content=$(echo "$updated_content" | sed "s|$escaped_placeholder|![${description}](${local_ref})|")
+  fi
+
+  echo ""
+  ((counter++))
+done <<< "$placeholders"
+
+# Write updated post with backup
+backup_path="${post_path}.backup-$(date +%s)"
+cp "$post_path" "$backup_path"
+
+echo "$updated_content" > "$post_path"
+
+# Verify the update looks reasonable
+original_lines=$(wc -l < "$backup_path")
+updated_lines=$(wc -l < "$post_path")
+
+# If the file shrunk dramatically (>50%), warn and restore
+if (( updated_lines < original_lines / 2 )); then
+  echo "Warning: Post file appears corrupted after update (too few lines)" >&2
+  echo "Original: $original_lines lines, Updated: $updated_lines lines" >&2
+  echo "Restoring from backup…" >&2
+  mv "$backup_path" "$post_path"
+  exit 1
+fi
+
+# Clean up backup on success
+rm -f "$backup_path"
+
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "✓ All images processed!"
+echo "✓ Updated post with local references"
+echo ""
+echo "Next steps:"
+echo "  1. Preview locally: jekyll serve"
+echo "  2. When ready to publish: ./script/publish-images $post_path"
