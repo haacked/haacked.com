@@ -1,0 +1,28 @@
+id: 0ebf1e4d
+date: 2025-11-24T16:08:33.0208491Z
+name: 'Matthew Persico '
+avatar: https://robohash.org/0cd74c4290fff86abb65997abcf5c14f
+message: >-
+  I’ve done similar but mines integrated with a whole suite of get wrappers. I also don’t choose the worktree directory. It is a formula
+
+
+
+  ~/gits/remote-server/org/repo/wt/branch_name
+
+
+
+  So to create a work tree for branch fix-bug-342 for repo foo/bar hosted at github:
+
+
+
+  -
+
+  ~/gits/github/foo/bar/wt/fix-bug-342
+
+
+
+  Because everything‘s under one tree, I can then build an index that gets maintained. I don’t have a command called git-go that will present me with a menu of all the workspaces that I can then pick and cd to. I can also put a partial filter in there and reduce the size of the menu.
+
+
+
+  If anyone’s interested, it’s all on GitHub matthewpersico/personal
