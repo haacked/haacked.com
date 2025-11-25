@@ -1,0 +1,5 @@
+id: 2858df40
+date: 2025-11-25T16:17:40.3454156Z
+name: peterw
+avatar: https://robohash.org/1d34cd6f5327090c8e6c904b36b9bc5b
+message: I wrote something like this too! Mine uses `dialog` to flip around a TUI rather than type commands, because I'm lazy... I use this w/worktrees every day, it really is a game changer for productivity. https://github.com/peterwwillis/junkdrawer/blob/main/gw.sh
