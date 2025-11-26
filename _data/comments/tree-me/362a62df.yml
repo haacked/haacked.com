@@ -1,0 +1,14 @@
+id: 362a62df
+date: 2025-11-26T23:21:33.7141924Z
+name: Glen Maddern
+avatar: https://robohash.org/d0881abad5b2e6c209c71c32a8297b8c
+message: >-
+  Feels like it might be useful to optionally `cp` or `ln -s` files from your current working directory to the new checkout? As command-line arguments, perhaps?
+
+
+
+  I know you mention that as being beyond the scope of this tool but imo it'd let you boil the whole "checkout PR and keep moving" into a single command that you have documented for each project, e.g.
+
+
+
+  tree-me pr 123 --cp .env --ln vendor
