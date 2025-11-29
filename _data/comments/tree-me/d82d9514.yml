@@ -1,0 +1,10 @@
+id: d82d9514
+date: 2025-11-29T14:45:36.9304926Z
+name: timvw
+avatar: https://robohash.org/d41d8cd98f00b204e9800998ecf8427e
+message: >-
+  I had a couple of similar scripts lying around.. A bit of vibe-coding to convert your shell script into a go binary (+support for gitlab mr's via glab cli)..
+
+
+
+  => https://github.com/timvw/wt
