@@ -71,4 +71,4 @@ This was not something I actively sought out. I genuinely love being an IC. But,
 
 What excites me most about this split is the chance to focus deeply on the platform itself.
 
-I am excited to see what year two brings. I will be spending a lot more time in Rust, pushing our flags platform to be faster and more resilient, and making sure my face stays out of future root cause analysis reports.
+I am excited to see what year two brings. I will be spending a lot more time in Rust, pushing our flags platform to be faster and more resilient, and working my butt off to ensure my face stays out of future root cause analysis reports.
