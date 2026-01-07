@@ -67,7 +67,7 @@ Working across so many languages and paradigms has stretched my thinking and dee
 
 A while back I wrote [Chutes and Ladder career path](https://haacked.com/archive/2024/12/10/chutes-and-ladder/) about how careers do not have to follow a neat, linear ladder. True to that idea, after a year as an individual contributor, I am stepping into a team lead role.
 
-This was not something I actively sought out. I genuinely love being an IC. But, as has often happened in my career, this change grew out of a real need. We are carving out a new [Flags Platform team](https://posthog.com/teams/flags-platform) from the Feature Flags team.
+This was not something I actively sought out. I genuinely love being an IC. But, as has often happened in my career, this change grew out of a real need. We are carving out a new [Flags Platform team](https://posthog.com/teams/flags-platform) from the Feature Flags team. The good news is that a [team lead role](https://posthog.com/handbook/company/management) at PostHog is not a traditional management role. It's effectively an IC with a bit more responsibilities for the team such as hiring, mentoring, and planning.
 
 What excites me most about this split is the chance to focus deeply on the platform itself.
 
