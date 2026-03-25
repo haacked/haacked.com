@@ -2,12 +2,14 @@
 title: "Resolve Merge Conflicts the Easy Way"
 description: "Merge conflicts don't have to ruin your day. I use mergiraf for structural merging and a Claude Code skill for everything else. Here's how to set it up."
 tags: [git, productivity, open-source]
-excerpt_image: https://i.haacked.com/blog/2026-03-25-resolve-merge-conflicts/TODO-placeholder.png
+excerpt_image: https://i.haacked.com/blog/2026-03-25-resolve-merge-conflicts/merge-conflict-resolution.png
 ---
 
 Git is great at merging until it isn't. Most of the time, when I rebase my feature branch against the main branch, it all goes to plan. Nothing to do for me. But when it doesn't go to plan, it can be a big mess. Git dumps a wall of conflict markers on you. You resolve those, continue the rebase, and the next commit has conflicts too. Depending on the scope of changes, resolving merge conflicts can be a very tedious chore. The temptation to `git rebase --abort` and pretend this never happened is overwhelming.
 
 It turns out, we have some great tools now for dealing with tedious chores. In particular, I've set up two tools that turned merge conflicts from a dreaded chore into a minor speed bump. Most of the time, they resolve themselves before I even see them. For the ones that don't, automation handles the tedious parts so I only deal with the genuinely ambiguous cases.
+
+![A friendly robot referee untangling two git branches](https://i.haacked.com/blog/2026-03-25-resolve-merge-conflicts/merge-conflict-resolution.png)
 
 ## The Problem with Textual Merging
 
