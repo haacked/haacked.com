@@ -1,0 +1,5 @@
+id: 38347e0d
+date: 2026-03-26T16:23:18.9797457Z
+name: Christopher
+avatar: https://haacked.com/assets/img/unknown-avatar.png
+message: "I feel that a lot of these issues are due to how PRs integrated into main. \r\n\r\nBy actually merging (and not rebasing / squashing) the commits onto main you maintain the original commit shas. \r\n\r\nSo when you rebase your branch after some other feature got merged to main, the commit shas of the underlying changes are still the same, so Git is able to resolve those.\r\n\r\n\r\n"
