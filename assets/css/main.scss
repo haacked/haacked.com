@@ -43,7 +43,11 @@ h1.post-title a {
 }
 
 .footer-col-3 {
-  width: calc(60% - (#{$spacing-unit} / 2));
+  width: calc(35% - (#{$spacing-unit} / 2));
+}
+
+.svg-icon {
+  vertical-align: unset;
 }
 
 .pagination {
