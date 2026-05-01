@@ -1,0 +1,5 @@
+id: 8660d528
+date: 2026-05-01T19:45:34.5747844Z
+name: Jack Keller
+avatar: https://secure.gravatar.com/avatar/077d16cebf9c95c146b40baff67a673f?s=80&d=identicon&r=pg
+message: I wrote something similar to this, I ended up symlinking .env files and node_modules.
