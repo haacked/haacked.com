@@ -5,7 +5,7 @@ tags: [git, security, ssh, productivity, dotfiles]
 excerpt_image: ""
 ---
 
-These days, my main MacBook Pro does a lot of coding without me sitting in front of it. Claude Code churns through tasks in [worktrees](https://haacked.com/archive/2025/11/21/tree-me/) while I check in from wherever I happen to be. Sometimes that's the couch with an iPad. Sometimes it's a cheaper MacBook that exists mostly to be a remote control for the expensive one. [Jump Desktop](https://jumpdesktop.com/) gives me a screen share, [Blink Shell](https://blink.sh/) gives me a terminal on the iPad, and the work keeps going.
+These days, my main MacBook Pro does a lot of coding without me sitting in front of it. Claude Code churns through tasks in [worktrees](https://haacked.com/archive/2025/11/21/tree-me/) while I check in from wherever I happen to be. Sometimes that's the couch with an iPad. Sometimes it's a cheaper MacBook that exists mostly to be a remote control for the expensive one. I've essentially been promoted to middle management of my own computer. [Jump Desktop](https://jumpdesktop.com/) gives me a screen share, [Blink Shell](https://blink.sh/) gives me a terminal on the iPad, and the work keeps going whether I'm there or not.
 
 There was one snag: signed commits.
 
@@ -19,7 +19,7 @@ This post walks through the setup I landed on. I can be on my iPad or the cheap 
 
 The traditional approach stores your SSH private key in a file like `~/.ssh/id_ed25519`. The problem is that it's a file. Any process running as you can read it. A malicious npm package can quietly copy it. So can a compromised build script or a sloppy backup. Once it's copied, it's gone, and you won't even know. A passphrase helps less than you'd think because the decrypted key sits in ssh-agent's memory anyway. Besides, you type that passphrase into enough prompts that you eventually stop looking at them. I certainly did.
 
-Secretive generates keys inside the Secure Enclave, the same hardware chip that guards Touch ID and Apple Pay. The private key never exists on disk or in process memory, and there's no export button, even for you. When something wants a signature, it has to ask the enclave, and the enclave asks you for Touch ID or Apple Watch approval first.
+Secretive generates keys inside the Secure Enclave, the same hardware chip that guards Touch ID and Apple Pay. The private key never exists on disk or in process memory, and there's no export button, even for you. When something wants a signature, it has to ask the enclave, and the enclave asks you for Touch ID or Apple Watch approval first. The enclave trusts nobody, which I respect.
 
 That changes the threat model. Malware can't steal a key it can't read. The best it can do is request a signature, and an unexpected approval prompt is a pretty good alarm bell. A stolen laptop yields nothing usable. And since each machine's key lives and dies in that machine's enclave, revoking the key for a laptop I sold is a one-line change instead of a fire drill.
 
@@ -61,7 +61,7 @@ So far, so standard. Sitting at any one of these machines, `git commit` triggers
 
 When I remote into the main Mac, there are two ways in, and both break signing in their own way.
 
-**Screen sharing (Jump Desktop)**: I'm looking at the Mac's actual desktop, driving its actual shells. When git commits, it asks the Mac's local Secretive for a signature, and Secretive pops a Touch ID prompt on a laptop that may well have its lid closed, in a room I'm not in. My iPad can show me the prompt. It can't press a fingerprint through the glass.
+**Screen sharing (Jump Desktop)**: I'm looking at the Mac's actual desktop, driving its actual shells. When git commits, it asks the Mac's local Secretive for a signature, and Secretive pops a Touch ID prompt on a laptop that may well have its lid closed, in a room I'm not in. My iPad can show me the prompt. It can't press a fingerprint through the glass, no matter how sincerely I tap it.
 
 **SSH**: SSH has agent forwarding, which is almost the answer. With `ForwardAgent yes`, my client device's SSH agent (Secretive on the cheap MacBook, Blink's Secure Enclave keys on the iPad) becomes reachable on the main Mac through a socket that sshd creates. Signature requests travel back over the SSH connection to the device in my hands, which is exactly what I want.
 
@@ -211,7 +211,7 @@ Not long after I drafted this post, signing started failing on me. Sometimes the
 
 The culprit was me.
 
-At some point I had typed `ssh macbook` inside a tmux pane that was already on the main Mac. Every tmux pane looks the same, and I thought I was on the other laptop. So the Mac ssh'd into itself, forwarded its own Secretive agent back to itself, and the shell hook in that nested session adopted the looped socket as if it were a genuine forwarded agent. From then on, the machine believed it was remote. Every signature request went out through the "forwarded" socket and arrived right back at the local Secretive, which wanted a Touch ID press at a desk nobody was sitting at. Meanwhile my actual remote session held a perfectly good forwarded agent that nothing was using.
+At some point I had typed `ssh macbook` inside a tmux pane that was already on the main Mac. Every tmux pane looks exactly like every other tmux pane, and I thought I was on the other laptop. Reader, I was not. So the Mac ssh'd into itself, forwarded its own Secretive agent back to itself, and the shell hook in that nested session adopted the looped socket as if it were a genuine forwarded agent. From then on, the machine believed it was remote. My Mac was having an out-of-body experience, and my commits were paying for it. Every signature request went out through the "forwarded" socket and arrived right back at the local Secretive, which wanted a Touch ID press at a desk nobody was sitting at. Meanwhile my actual remote session held a perfectly good forwarded agent that nothing was using.
 
 The fix has two parts, both in the dotfiles now. The SSH config disables agent forwarding when the destination is the machine you're already on. And `ssh-agent-sync` compares a new forwarded socket's key list against the local Secretive's before adopting it. An exact match means it's a loop, and the script treats it as local.
 
@@ -232,6 +232,6 @@ The fix has two parts, both in the dotfiles now. The SSH config disables agent f
 
 At no point in any of this does a private key exist as a file. Each device has its own key sealed in its own Secure Enclave. Every signature requires a biometric approval on a device I'm physically touching. Losing a device revokes exactly one key.
 
-And I didn't give up anything to get here. Claude Code works on the big machine, I supervise from whatever screen is nearby, and commits come out signed and verified. The whole thing is two small scripts, a symlink, and one underappreciated git config setting.
+And I didn't give up anything to get here. Claude Code works on the big machine, I supervise from whatever screen is nearby, and commits come out signed and verified. The whole thing is two small scripts, a symlink, and one underappreciated git config setting. The symlink is doing most of the work, which feels right for a technology from 1983.
 
 Everything is in my [dotfiles repo](https://github.com/haacked/dotfiles/): `bin/ssh-agent-sync`, `bin/git-signing-key`, the zshrc hook, and the LaunchAgent. That's what dotfiles are for.
