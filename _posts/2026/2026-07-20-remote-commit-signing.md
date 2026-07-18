@@ -24,9 +24,9 @@ Secretive generates keys inside the Secure Enclave, the same hardware chip that 
 That changes the threat model. Malware can't steal a key it can't read. The best it can do is request a signature, and an unexpected approval prompt is a pretty good alarm bell. A stolen laptop yields nothing usable. And since each machine's key lives and dies in that machine's enclave, revoking the key for a laptop I sold is a one-line change instead of a fire drill.
 
 > [!IMPORTANT]
-> That alarm bell only rings if you check "Requires Authentication" when you create the key in Secretive. You can't change it later, only create a new key. Without it, the enclave signs silently for any process running as you, which quietly deletes most of the benefit described above. Relatedly, when Secretive prompts you, it offers to persist the approval for a period of time. During that window, signing is silent too. Keep it short.
+> That alarm bell only rings if you check "Requires Authentication" when you create the key in Secretive. You can't change it later, only create a new key. Without it, the enclave signs silently for any process running as you, which defeats most of the point. And when Secretive prompts you, it offers to keep the approval active for a period of time. During that window, signing is silent too. Keep it short.
 
-The tradeoff is the same as the feature: the key can't leave the machine. Which brings us back to my problem.
+The tradeoff, of course, is that the key can't leave the machine even when I have a good reason to want it to. Which brings us back to my problem.
 
 ## The Setup
 
@@ -64,7 +64,7 @@ So far, so standard. Sitting at any one of these machines, `git commit` triggers
 
 When I remote into the main Mac, there are two ways in, and both break signing in their own way.
 
-**Screen sharing (Jump Desktop)**: I'm looking at the Mac's actual desktop, driving its actual shells. When git commits, it asks the Mac's local Secretive for a signature, and Secretive pops a Touch ID prompt on a laptop that may well have its lid closed, in a room I'm not in. My iPad can show me the prompt. It can't press a fingerprint through the glass, no matter how hard I tap it.
+**Screen sharing (Jump Desktop)**: I'm looking at the Mac's actual desktop, driving its actual shells. When git commits, it asks the Mac's local Secretive for a signature, and Secretive pops a Touch ID prompt on a laptop that probably has its lid closed, in a room I'm not in. My iPad can show me the prompt. It can't press a fingerprint through the glass, no matter how hard I tap it.
 
 **SSH**: SSH has agent forwarding, which is almost the answer. With `ForwardAgent yes`, my client device's SSH agent (Secretive on the cheap MacBook, Blink's Secure Enclave keys on the iPad) becomes reachable on the main Mac through a socket that sshd creates. Signature requests travel back over the SSH connection to the device in my hands, which is exactly what I want.
 
@@ -133,7 +133,7 @@ The forwarded socket path has to be captured before the first sync. After that, 
 
 It also re-syncs on every `precmd`, not just at shell startup. The symlink is shared machine-wide, and a local shell that was running before my SSH session started will never source zshrc again when that session ends. Without the recheck, that shell would keep pointing at a forwarding socket sshd already tore down. Since the healer is idempotent, idle prompts don't pay for a redundant `ln`.
 
-Notice that every shell exports the symlink, never the raw socket. That's the indirection that makes long-lived sessions work. A Claude Code session started hours ago holds a path that never changes, even though what's on the other end of it comes and goes.
+Every shell exports the symlink, never the raw socket. That's the indirection that makes long-lived sessions work. A Claude Code session started hours ago holds a path that never changes, even though what's on the other end of it comes and goes.
 
 ### Resolving the Key at Sign Time
 
@@ -166,7 +166,7 @@ fi
 
 If a forwarded agent is live, sign with whatever key it offers. That's the client device's Secure Enclave key. Otherwise, fall back to this machine's own Secretive key via `user.localSigningKey`. Whichever agent is alive when git signs is the one that gets asked.
 
-An earlier version of this setup cached the resolved key in a file that shell hooks kept up to date. That had a hole in it. Anything that signed without a shell prompt having been drawn since the last agent change (a background agent session, a GUI git client) would sign with a stale key or fail. Deleting the cache and resolving at use time made that whole category of bugs impossible.
+An earlier version of this setup cached the resolved key in a file that shell hooks kept up to date. That had a hole in it. Anything that signed without a shell prompt having been drawn since the last agent change (a background agent session, a GUI git client) would sign with a stale key or fail. Deleting the cache and resolving at use time made that whole category of bugs go away.
 
 ### GUI Apps
 
@@ -204,7 +204,7 @@ The IP is a [Tailscale](https://tailscale.com/) address, so `ssh macbook` works 
 
 From the iPad or the cheap MacBook: `ssh macbook`. Tmux auto-attaches to my persistent session, and from that moment the entire machine signs through the device in my hands. The SSH session, sure. But also the Jump Desktop screen share I have open next to it, and the Claude Code session that's been grinding away since breakfast. They all hold the same symlink, and the symlink now points at the forwarded agent.
 
-When any of them commits, the approval prompt appears right here. Touch ID on the MacBook Neo. Face ID via Blink on the iPad. The commit gets signed with this device's key, which is a different key than the main Mac would use, but `allowed_signers` and GitHub know all my keys, so every commit verifies the same.
+When any of them commits, the approval prompt appears right here. A double-click on my Apple Watch for the MacBook Neo. Face ID via Blink on the iPad. The commit gets signed with this device's key, which is a different key than the main Mac would use, but `allowed_signers` and GitHub know all my keys, so every commit verifies the same.
 
 When I close the connection, the next shell prompt on the Mac notices the dead socket and heals the symlink back to local Secretive. I sit down at the desk and Touch ID works like nothing happened. There's no remote mode to toggle, just a symlink that points at whatever agent is currently real.
 
@@ -233,7 +233,7 @@ The fix has two parts, both in the dotfiles now. The SSH config disables agent f
 
 ## Steal It
 
-At no point in any of this does a private key exist as a file. Each device has its own key sealed in its own Secure Enclave. Every signature requires a biometric approval on a device I'm physically touching. Losing a device revokes exactly one key.
+At no point in any of this does a private key exist as a file. Each device has its own key sealed in its own Secure Enclave, and every signature requires a biometric approval on a device I'm physically touching. If I lose a device, I revoke one key and move on.
 
 And I didn't give up anything to get here. Claude Code works on the big machine, I supervise from whatever screen is nearby, and commits come out signed and verified. The whole thing is two small scripts, a symlink, and one underappreciated git config setting. The symlink is doing most of the work, which feels right for a technology from 1983.
 
