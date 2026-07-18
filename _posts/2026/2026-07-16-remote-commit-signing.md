@@ -5,11 +5,11 @@ tags: [git, security, ssh, productivity, dotfiles]
 excerpt_image: ""
 ---
 
-These days, my main MacBook Pro does a lot of coding without me sitting in front of it. Claude Code churns through tasks in [worktrees](https://haacked.com/archive/2025/11/21/tree-me/) while I check in from wherever I happen to be. Sometimes that's the couch with an iPad. Sometimes it's a cheaper MacBook that exists mostly to be a remote control for the expensive one. I've essentially been promoted to middle management of my own computer. [Jump Desktop](https://jumpdesktop.com/) gives me a screen share, [Blink Shell](https://blink.sh/) gives me a terminal on the iPad, and the work keeps going whether I'm there or not.
+These days, my main MacBook Pro does most of its coding without me. I mostly show up for the credit. For example, every day I walk with my daughter to a coffee shop while Claude Code churns through tasks in [worktrees](https://haacked.com/archive/2025/11/21/tree-me/). At the coffee shop, I'll remote in on a cheap MacBook Neo (upgraded from an iPad) to continue working. It's pretty much just a remote control for my main MacBook. [Jump Desktop](https://jumpdesktop.com/) gives me a screen share, [Blink Shell](https://blink.sh/) gives me a terminal on the iPad, and the work keeps going whether I'm there or not.
 
 There was one snag: signed commits.
 
-I sign all my commits, and my signing keys live in the Secure Enclave via [Secretive](https://github.com/maxgoedjen/secretive). That's great for security. The key physically cannot leave the machine. It's less great when git asks the Secure Enclave to sign a commit and the Secure Enclave asks for a Touch ID press from a person who is forty miles away from the keyboard.
+I sign all my commits, and my signing keys live in [the Secure Enclave](https://support.apple.com/guide/security/the-secure-enclave-sec59b0b31ff/web) via [Secretive](https://github.com/maxgoedjen/secretive). That's great for security. The key physically cannot leave the machine. It's less great when git asks the Secure Enclave to sign a commit and the Secure Enclave asks for a Touch ID press from a person who is forty miles away from the keyboard.
 
 [image1: A person relaxing on a couch with an iPad, remotely controlling a MacBook on a desk in another room. A glowing padlock hovers over the MacBook. Cozy, slightly whimsical illustration style.]
 
@@ -17,7 +17,7 @@ This post walks through the setup I landed on. I can be on my iPad or the cheap 
 
 ## Why Secretive Instead of a Key File?
 
-The traditional approach stores your SSH private key in a file like `~/.ssh/id_ed25519`. The problem is that it's a file. Any process running as you can read it. A malicious npm package can quietly copy it. So can a compromised build script or a sloppy backup. Once it's copied, it's gone, and you won't even know. A passphrase helps less than you'd think because the decrypted key sits in ssh-agent's memory anyway. Besides, you type that passphrase into enough prompts that you eventually stop looking at them. I certainly did.
+The traditional approach stores your SSH private key in a file like `~/.ssh/id_ed25519`. The problem is that it's a file. Any process running as you can read it. A malicious npm package can quietly copy it. So can a compromised build script or a sloppy backup. Once it's copied, it's gone, and you won't even know. A passphrase helps less than you'd think because the decrypted key sits in ssh-agent's memory anyway. Besides, you type that passphrase into enough prompts that you eventually stop looking at them.
 
 Secretive generates keys inside the Secure Enclave, the same hardware chip that guards Touch ID and Apple Pay. The private key never exists on disk or in process memory, and there's no export button, even for you. When something wants a signature, it has to ask the enclave, and the enclave asks you for Touch ID or Apple Watch approval first. The enclave trusts nobody, which I respect.
 
@@ -55,7 +55,7 @@ Each public key is also registered on GitHub as a signing key, so GitHub shows t
 > [!NOTE]
 > That's `localSigningKey`, not `signingkey`. It's a custom config key I made up, and the difference matters. More on that in a moment.
 
-So far, so standard. Sitting at any one of these machines, `git commit` triggers a Touch ID prompt and produces a signed commit. The interesting part is what happens when nobody is sitting at the machine.
+So far, so standard. Sitting at any one of these machines, `git commit` triggers a Touch ID prompt (or on my MacBook Neo, which lacks Touch ID, a double-click on my Apple Watch) and produces a signed commit. The interesting part is what happens when nobody is sitting at the machine.
 
 ## The Problem with Being Remote
 
