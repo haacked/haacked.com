@@ -2,7 +2,7 @@
 title: "Sign Commits from Anywhere Without Your Keys Going Anywhere"
 description: "How I sign git commits with Secure Enclave keys while remoted into my main Mac from an iPad or a cheap laptop. All it takes is Secretive, SSH agent forwarding, and one well-placed symlink."
 tags: [git, security, ssh, productivity, dotfiles]
-excerpt_image: ""
+excerpt_image: "https://i.haacked.com/blog/2026-07-20-remote-commit-signing/image1.png"
 ---
 
 These days, my main MacBook Pro does most of its coding without me. I mostly show up for the credit. For example, every day I walk with my daughter to a coffee shop while Claude Code churns through tasks in [worktrees](https://haacked.com/archive/2025/11/21/tree-me/). At the coffee shop, I'll remote in on a cheap MacBook Neo (upgraded from an iPad) to continue working. It's pretty much just a remote control for my main MacBook. [Jump Desktop](https://jumpdesktop.com/) gives me a screen share, [Blink Shell](https://blink.sh/) gives me a terminal on the iPad, and the work keeps going whether I'm there or not.
@@ -11,7 +11,7 @@ There was one snag: signed commits.
 
 I sign all my commits, and my signing keys live in [the Secure Enclave](https://support.apple.com/guide/security/the-secure-enclave-sec59b0b31ff/web) via [Secretive](https://github.com/maxgoedjen/secretive). That's great for security. The key physically cannot leave the machine. It's less great when git asks the Secure Enclave to sign a commit and the Secure Enclave asks for a Touch ID press from a person who is forty miles away from the keyboard.
 
-[image1: A person relaxing on a couch with an iPad, remotely controlling a MacBook on a desk in another room. A glowing padlock hovers over the MacBook. Cozy, slightly whimsical illustration style.]
+![Illustration of someone coding at a coffee shop, remotely connected via a glowing padlock icon to a Mac sitting on a desk back home.](https://i.haacked.com/blog/2026-07-20-remote-commit-signing/image1.png)
 
 This post walks through the setup I landed on. I can be on my iPad or the cheap laptop, remote into the main Mac, and every commit gets signed by a hardware-backed key. Even commits made by a Claude Code session that's been running since morning. The approval prompt shows up on the device in my hands.
 
