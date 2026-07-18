@@ -22,8 +22,9 @@ IMAGE_BASE_URL="https://i.haacked.com"
 # Leave empty to skip auto-opening
 EDITOR=""
 
-# DALL-E image generation settings
-DALLE_MODEL="dall-e-3"
-DALLE_SIZE="1024x1024"  # Options: 1024x1024, 1792x1024, 1024x1792
-DALLE_QUALITY="standard"  # Options: standard, hd
-DALLE_STYLE="vivid"  # Options: vivid, natural
+# OpenAI image generation settings
+# dall-e-3 was retired by OpenAI in 2026; gpt-image-1 is the replacement.
+DALLE_MODEL="gpt-image-1"
+DALLE_SIZE="1024x1024"  # Options: 1024x1024, 1536x1024, 1024x1536
+DALLE_QUALITY="high"  # Options: low, medium, high, auto
+DALLE_STYLE="vivid"  # Only used if DALLE_MODEL=dall-e-3. Options: vivid, natural

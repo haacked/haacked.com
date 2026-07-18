@@ -38,22 +38,40 @@ extract_placeholder_description() {
 generate_dalle_image() {
   local prompt="$1"
   local style="${2:-${DALLE_STYLE:-vivid}}"
+  local model="${DALLE_MODEL:-gpt-image-1}"
 
+  # The 'style' parameter (vivid/natural) only exists on the retired
+  # dall-e-3 endpoint. gpt-image-1 and dall-e-2 reject unknown params.
   local payload
-  payload=$(jq -n \
-    --arg model "${DALLE_MODEL:-dall-e-3}" \
-    --arg prompt "$prompt" \
-    --arg size "${DALLE_SIZE:-1024x1024}" \
-    --arg quality "${DALLE_QUALITY:-standard}" \
-    --arg style "$style" \
-    '{
-      model: $model,
-      prompt: $prompt,
-      n: 1,
-      size: $size,
-      quality: $quality,
-      style: $style
-    }')
+  if [[ "$model" == "dall-e-3" ]]; then
+    payload=$(jq -n \
+      --arg model "$model" \
+      --arg prompt "$prompt" \
+      --arg size "${DALLE_SIZE:-1024x1024}" \
+      --arg quality "${DALLE_QUALITY:-standard}" \
+      --arg style "$style" \
+      '{
+        model: $model,
+        prompt: $prompt,
+        n: 1,
+        size: $size,
+        quality: $quality,
+        style: $style
+      }')
+  else
+    payload=$(jq -n \
+      --arg model "$model" \
+      --arg prompt "$prompt" \
+      --arg size "${DALLE_SIZE:-1024x1024}" \
+      --arg quality "${DALLE_QUALITY:-high}" \
+      '{
+        model: $model,
+        prompt: $prompt,
+        n: 1,
+        size: $size,
+        quality: $quality
+      }')
+  fi
 
   # Use curl config to hide API key from process list
   local curl_config
@@ -83,27 +101,30 @@ EOF
     return 1
   fi
 
-  # Validate response contains expected data
-  if ! echo "$response" | jq -e '.data[0].url' > /dev/null 2>&1; then
+  # dall-e-3/dall-e-2 return a downloadable url; gpt-image-1 only ever
+  # returns base64 image data. Support whichever the response contains.
+  if echo "$response" | jq -e '.data[0].url' > /dev/null 2>&1; then
+    local image_url
+    image_url=$(echo "$response" | jq -r '.data[0].url')
+
+    # Validate URL is from OpenAI blob storage domain
+    # OpenAI DALL-E images are served from Azure blob storage
+    if [[ ! "$image_url" =~ ^https://oaidalleapiprodscus\.blob\.core\.windows\.net/ ]]; then
+      echo "Error: Image URL is not from expected OpenAI blob storage domain: $image_url" >&2
+      return 1
+    fi
+
+    echo "$image_url"
+  elif echo "$response" | jq -e '.data[0].b64_json' > /dev/null 2>&1; then
+    echo "$response" | jq -r '.data[0].b64_json'
+  else
     echo "Error: Unexpected response from OpenAI API" >&2
     return 1
   fi
-
-  local image_url
-  image_url=$(echo "$response" | jq -r '.data[0].url')
-
-  # Validate URL is from OpenAI blob storage domain
-  # OpenAI DALL-E images are served from Azure blob storage
-  if [[ ! "$image_url" =~ ^https://oaidalleapiprodscus\.blob\.core\.windows\.net/ ]]; then
-    echo "Error: Image URL is not from expected OpenAI blob storage domain: $image_url" >&2
-    return 1
-  fi
-
-  echo "$image_url"
 }
 
 download_image() {
-  local url="$1"
+  local data="$1"
   local output_path="$2"
 
   # Validate output path is safe
@@ -112,10 +133,18 @@ download_image() {
     return 1
   fi
 
-  # Download image
-  if ! curl -s -f -o "$safe_path" "$url"; then
-    echo "Error: Failed to download image from $url" >&2
-    return 1
+  # generate_dalle_image() returns either a downloadable URL (dall-e-2/3)
+  # or raw base64 image data (gpt-image-1, which has no url response mode).
+  if [[ "$data" =~ ^https?:// ]]; then
+    if ! curl -s -f -o "$safe_path" "$data"; then
+      echo "Error: Failed to download image from $data" >&2
+      return 1
+    fi
+  else
+    if ! echo "$data" | base64 -d > "$safe_path" 2>/dev/null; then
+      echo "Error: Failed to decode base64 image data" >&2
+      return 1
+    fi
   fi
 
   # Validate downloaded file is an image
