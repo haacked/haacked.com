@@ -17,11 +17,11 @@ This post walks through the setup I landed on. I can be on my iPad or the cheap 
 
 ## Why Secretive Instead of a Key File?
 
-The traditional approach stores your SSH private key in a file like `~/.ssh/id_ed25519`. The problem is that it's just that: a file. Any process running as you can read it. A malicious npm package can quietly copy it. So can a compromised build script or a sloppy backup. Once it's copied, it's gone, and you won't even know. A passphrase helps less than you'd think because the decrypted key sits in ssh-agent's memory anyway. Besides, you type that passphrase into enough prompts that you eventually stop looking at them.
+The traditional approach stores your SSH private key in a file like `~/.ssh/id_ed25519`. The problem is that it's a file. Any process running as you can read it. A malicious npm package can quietly copy it. So can a compromised build script or a sloppy backup. Once it's copied, it's gone, and you won't even know. A passphrase helps less than you'd think because the decrypted key sits in ssh-agent's memory anyway. Besides, you type that passphrase into enough prompts that you eventually stop looking at them. I certainly did.
 
-Secretive generates keys inside the Secure Enclave, the same hardware chip that guards Touch ID and Apple Pay. The private key never exists on disk or in process memory, and there's no export button. Not even for you. When something wants a signature, it has to ask the enclave, and the enclave asks you for Touch ID or Apple Watch approval first.
+Secretive generates keys inside the Secure Enclave, the same hardware chip that guards Touch ID and Apple Pay. The private key never exists on disk or in process memory, and there's no export button, even for you. When something wants a signature, it has to ask the enclave, and the enclave asks you for Touch ID or Apple Watch approval first.
 
-That changes the threat model. Malware can't steal a key it can't read. The best it can do is request a signature, and an unexpected approval prompt is a pretty good alarm bell. A stolen laptop yields nothing usable. And since each machine's key is born in that machine's enclave and dies with it, revoking the key for a laptop I sold is a one-line change instead of a fire drill.
+That changes the threat model. Malware can't steal a key it can't read. The best it can do is request a signature, and an unexpected approval prompt is a pretty good alarm bell. A stolen laptop yields nothing usable. And since each machine's key lives and dies in that machine's enclave, revoking the key for a laptop I sold is a one-line change instead of a fire drill.
 
 The tradeoff is the same as the feature: the key can't leave the machine. Which brings us back to my problem.
 
@@ -63,7 +63,7 @@ When I remote into the main Mac, there are two ways in, and both break signing i
 
 **Screen sharing (Jump Desktop)**: I'm looking at the Mac's actual desktop, driving its actual shells. When git commits, it asks the Mac's local Secretive for a signature, and Secretive pops a Touch ID prompt on a laptop that may well have its lid closed, in a room I'm not in. My iPad can show me the prompt. It can't press a fingerprint through the glass.
 
-**SSH**: SSH has agent forwarding, which is almost the answer. With `ForwardAgent yes`, my client device's SSH agent (Secretive on the cheap MacBook, Blink's Secure Enclave keys on the iPad) becomes reachable on the main Mac through a socket that sshd creates. Signature requests travel back over the SSH connection to the device in my hands. That's exactly what I want.
+**SSH**: SSH has agent forwarding, which is almost the answer. With `ForwardAgent yes`, my client device's SSH agent (Secretive on the cheap MacBook, Blink's Secure Enclave keys on the iPad) becomes reachable on the main Mac through a socket that sshd creates. Signature requests travel back over the SSH connection to the device in my hands, which is exactly what I want.
 
 But naive agent forwarding has three gaps:
 
@@ -71,7 +71,7 @@ But naive agent forwarding has three gaps:
 2. **Long-lived processes never see it.** A Claude Code session started this morning inherited whatever `SSH_AUTH_SOCK` existed this morning. It's not going to re-read my zshrc because I SSHed in after lunch. Neither is the shell inside the Jump Desktop screen share.
 3. **Git needs to know which key to ask for.** SSH signing requires the specific public key up front. When I'm remote, the right key is the client device's key, not the Mac's. A key baked into git config is wrong half the time.
 
-I went looking for a way to remotely approve the Mac's own Secretive prompts. There isn't one. Secretive's approval is deliberately local-only, which is kind of the whole point of it. So instead of trying to weaken the Mac's key, I stopped using the Mac's key when I'm not at the Mac. Sign with the key of the device I'm actually touching.
+I went looking for a way to remotely approve the Mac's own Secretive prompts. There isn't one. Secretive's approval is deliberately local-only, which is kind of the whole point of it. So instead of trying to weaken the Mac's key, I stopped using the Mac's key when I'm not at the Mac and started signing with the key of the device I'm actually touching.
 
 ## One Symlink, Zero Cached State
 
@@ -130,7 +130,7 @@ The forwarded socket path has to be captured before the first sync. After that, 
 
 It also re-syncs on every `precmd`, not just at shell startup. The symlink is shared machine-wide, and a local shell that was running before my SSH session started will never source zshrc again when that session ends. Without the recheck, that shell would keep pointing at a forwarding socket sshd already tore down. Since the healer is idempotent, idle prompts don't pay for a redundant `ln`.
 
-Notice that every shell exports the symlink, never the raw socket. That's the indirection that makes long-lived sessions work. A Claude Code session started hours ago holds a path that never changes. What's on the other end of it does.
+Notice that every shell exports the symlink, never the raw socket. That's the indirection that makes long-lived sessions work. A Claude Code session started hours ago holds a path that never changes, even though what's on the other end of it comes and goes.
 
 ### Resolving the Key at Sign Time
 
@@ -203,7 +203,17 @@ From the iPad or the cheap MacBook: `ssh macbook`. Tmux auto-attaches to my pers
 
 When any of them commits, the approval prompt appears right here. Touch ID on the cheap MacBook. Face ID via Blink on the iPad. The commit gets signed with this device's key, which is a different key than the main Mac would use, but `allowed_signers` and GitHub know all my keys, so every commit verifies the same.
 
-When I close the connection, the next shell prompt on the Mac notices the dead socket and heals the symlink back to local Secretive. I sit down at the desk and Touch ID works like nothing happened. There's no remote mode to toggle. Just a symlink that points at whatever agent is real right now.
+When I close the connection, the next shell prompt on the Mac notices the dead socket and heals the symlink back to local Secretive. I sit down at the desk and Touch ID works like nothing happened. There's no remote mode to toggle, just a symlink that points at whatever agent is currently real.
+
+## How It Bit Me
+
+Not long after I drafted this post, signing started failing on me. Sometimes the approval prompt showed up on the device in my hands like it should. Other times git would sit there waiting on an approval that never came, because the Touch ID prompt was on the Mac's screen in a room I wasn't in.
+
+The culprit was me.
+
+At some point I had typed `ssh macbook` inside a tmux pane that was already on the main Mac. Every tmux pane looks the same, and I thought I was on the other laptop. So the Mac ssh'd into itself, forwarded its own Secretive agent back to itself, and the shell hook in that nested session adopted the looped socket as if it were a genuine forwarded agent. From then on, the machine believed it was remote. Every signature request went out through the "forwarded" socket and arrived right back at the local Secretive, which wanted a Touch ID press at a desk nobody was sitting at. Meanwhile my actual remote session held a perfectly good forwarded agent that nothing was using.
+
+The fix has two parts, both in the dotfiles now. The SSH config disables agent forwarding when the destination is the machine you're already on. And `ssh-agent-sync` compares a new forwarded socket's key list against the local Secretive's before adopting it. An exact match means it's a loop, and the script treats it as local.
 
 ## Caveats
 
