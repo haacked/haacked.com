@@ -64,7 +64,7 @@ So far, so standard. Sitting at any one of these machines, `git commit` triggers
 
 When I remote into the main Mac, there are two ways in, and both break signing in their own way.
 
-**Screen sharing (Jump Desktop)**: I'm looking at the Mac's actual desktop, driving its actual shells. When git commits, it asks the Mac's local Secretive for a signature, and Secretive pops a Touch ID prompt on a laptop that probably has its lid closed, in a room I'm not in. My iPad can show me the prompt. It can't press a fingerprint through the glass, no matter how hard I tap it.
+**Screen sharing (Jump Desktop)**: I'm looking at the Mac's actual desktop, driving its actual shells. When git commits, it asks the Mac's local Secretive for a signature, and Secretive pops a Touch ID prompt on a laptop sitting alone at a desk in a room I'm not in, its screen long asleep. My iPad can show me the prompt. It can't press a fingerprint through the glass, no matter how hard I tap it.
 
 **SSH**: SSH has agent forwarding, which is almost the answer. With `ForwardAgent yes`, my client device's SSH agent (Secretive on the cheap MacBook, Blink's Secure Enclave keys on the iPad) becomes reachable on the main Mac through a socket that sshd creates. Signature requests travel back over the SSH connection to the device in my hands, which is exactly what I want.
 
