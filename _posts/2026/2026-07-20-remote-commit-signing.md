@@ -5,7 +5,7 @@ tags: [git, security, ssh, productivity, dotfiles]
 excerpt_image: "https://i.haacked.com/blog/2026-07-20-remote-commit-signing/image1.png"
 ---
 
-These days, my main MacBook Pro does most of its coding without me. I mostly show up for the credit. For example, every day I walk with my daughter to a coffee shop while Claude Code churns through tasks in [worktrees](https://haacked.com/archive/2025/11/21/tree-me/). At the coffee shop, I'll remote in on a cheap MacBook Neo (upgraded from an iPad) to continue working. It's pretty much just a remote control for my main MacBook. [Jump Desktop](https://jumpdesktop.com/) gives me a screen share, [Blink Shell](https://blink.sh/) gives me a terminal on the iPad, and the work keeps going whether I'm there or not.
+These days, my main MacBook Pro does most of its coding without me. I mostly show up to take the credit. For example, every day I walk with my daughter to a coffee shop while Claude Code churns through tasks in [worktrees](https://haacked.com/archive/2025/11/21/tree-me/). At the coffee shop, I'll remote in on a cheap MacBook Neo (upgraded from an iPad) to continue working. It's pretty much just a remote control for my main MacBook. [Jump Desktop](https://jumpdesktop.com/) gives me a screen share, [Blink Shell](https://blink.sh/) gives me a terminal on the iPad, and the work keeps going whether I'm there or not.
 
 There was one snag: signed commits.
 
@@ -21,7 +21,7 @@ The traditional approach stores your SSH private key in a file like `~/.ssh/id_e
 
 Secretive generates keys inside the Secure Enclave, the same hardware chip that guards Touch ID and Apple Pay. The private key never exists on disk or in process memory, and there's no export button, even for you. When something wants a signature, it has to ask the enclave, and the enclave asks you for Touch ID or Apple Watch approval first. The enclave trusts nobody, which I respect.
 
-That changes the threat model. Malware can't steal a key it can't read. The best it can do is request a signature, and an unexpected approval prompt is a pretty good alarm bell. A stolen laptop yields nothing usable. And since each machine's key lives and dies in that machine's enclave, revoking the key for a laptop I sold is a one-line change instead of a fire drill.
+That changes the threat model. Malware can't steal a key it can't read, so the worst it can do is trigger a Touch ID prompt I wasn't expecting, which is its own alarm bell. If I lose the laptop, its not a big deal as the key is still sealed inside it. Revoking a key for a laptop I sold only requires that I delete a line from `allowed_signers`, not a fire drill.
 
 > [!IMPORTANT]
 > That alarm bell only rings if you check "Requires Authentication" when you create the key in Secretive. You can't change it later, only create a new key. Without it, the enclave signs silently for any process running as you, which defeats most of the point. And when Secretive prompts you, it offers to keep the approval active for a period of time. During that window, signing is silent too. Keep it short.
@@ -81,7 +81,7 @@ I went looking for a way to remotely approve the Mac's own Secretive prompts. Th
 The whole system comes down to two decisions:
 
 1. There is exactly one stable agent path on the machine: `~/.ssh/agent.sock`, a symlink. Shells, GUI apps, and git all point at the symlink, and the symlink points at whichever real agent socket is currently alive.
-2. Git figures out the signing key at the moment of signing, not ahead of time. No cached key file, nothing to go stale.
+2. Git figures out the signing key at the moment of signing, not ahead of time, so there's no cached key file to go stale.
 
 Everything else is plumbing to keep those two things true. All of it lives in [my dotfiles](https://github.com/haacked/dotfiles/).
 
