@@ -11,7 +11,7 @@ There was one snag: signed commits.
 
 I sign all my commits, and my signing keys live in [the Secure Enclave](https://support.apple.com/guide/security/the-secure-enclave-sec59b0b31ff/web) via [Secretive](https://github.com/maxgoedjen/secretive). That's great for security. The key physically cannot leave the machine. It's less great when git asks the Secure Enclave to sign a commit and the Secure Enclave asks for a Touch ID press from a person who is forty miles away from the keyboard.
 
-![Illustration of someone coding at a coffee shop, remotely connected via a glowing padlock icon to a Mac sitting on a desk back home.](https://i.haacked.com/blog/2026-07-20-remote-commit-signing/image1.png)
+![Declaration of Independenc by John Turmbull - Public Domain](https://i.haacked.com/blog/2026-07-20-remote-commit-signing/image1.png "The first group commit signing")
 
 This post walks through the setup I landed on. I can be on my iPad or the cheap laptop, remote into the main Mac, and every commit gets signed by a hardware-backed key. Even commits made by a Claude Code session that's been running since morning. The approval prompt shows up on the device in my hands.
 
