@@ -87,7 +87,7 @@ Everything else is plumbing to keep those two things true. All of it lives in [m
 
 ### The Symlink Healer
 
-A small script, [`bin/ssh-agent-sync`](https://github.com/haacked/dotfiles/blob/main/bin/ssh-agent-sync), decides where the symlink points. Handed a live forwarded socket, it points the symlink there. Otherwise, if the symlink is dangling, it heals back to the local Secretive socket:
+A small script, [`bin/ssh-agent-sync`](https://github.com/haacked/dotfiles/blob/main/bin/ssh-agent-sync), decides where the symlink points. Handed a live forwarded socket, it points the symlink there. Otherwise it heals: back to the local Secretive socket when the current target is dead, or back out to a forwarded socket it remembers adopting, once that socket answers again:
 
 ```bash
 sock="$HOME/.ssh/agent.sock"
@@ -111,6 +111,8 @@ fi
 
 It's idempotent. It only touches the symlink when the symlink is wrong, and it reports which mode it resolved to (`local`, `forwarded`, or `none`) so callers don't have to figure that out themselves.
 
+It also remembers. Adopting a forwarded socket records a receipt (`~/.ssh/agent.fwd`), and when the symlink has healed back to local — say the client laptop slept and a probe timed out — a no-arg run re-adopts the receipt's socket once it answers again. Only an interactive SSH login ever hands the script a socket, so the receipt is proof I chose that agent; nothing gets adopted by scanning or guessing. A receipt whose socket refuses the connection is deleted (each new session mints a fresh socket and pushes it), and `ssh-agent-sync --local` clears it when I want the machine to stay local.
+
 ### The Shell Hook
 
 My zshrc captures the forwarded socket and keeps the symlink synced. The subtle bits are when it captures and how often it syncs:
@@ -132,6 +134,8 @@ add-zsh-hook precmd _ssh_agent_sync
 The forwarded socket path has to be captured before the first sync. After that, `SSH_AUTH_SOCK` is the symlink, and re-deriving the forwarded socket from it would just compare the symlink against itself.
 
 It also re-syncs on every `precmd`, not just at shell startup. The symlink is shared machine-wide, and a local shell that was running before my SSH session started will never source zshrc again when that session ends. Without the recheck, that shell would keep pointing at a forwarding socket sshd already tore down. Since the healer is idempotent, idle prompts don't pay for a redundant `ln`.
+
+The hook runs before tmux auto-attaches, and the order matters: an SSH login shell blocks inside `tmux attach` until the session ends, so the push of a freshly minted forwarded socket has to happen first. Otherwise every reconnect lands in tmux with its new socket unadopted, and sshd mints a new socket name on every connection.
 
 Every shell exports the symlink, never the raw socket. That's the indirection that makes long-lived sessions work. A Claude Code session started hours ago holds a path that never changes, even though what's on the other end of it comes and goes.
 
