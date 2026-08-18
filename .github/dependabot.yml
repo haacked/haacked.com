@@ -1,0 +1,26 @@
+version: 2
+updates:
+  # The Jekyll toolchain. Grouped so the blog gets one PR a month instead of
+  # eight; majors fall out of the group and arrive individually.
+  - package-ecosystem: bundler
+    directory: "/"
+    schedule:
+      interval: monthly
+    open-pull-requests-limit: 3
+    groups:
+      bundler:
+        patterns:
+          - "*"
+        update-types:
+          - minor
+          - patch
+
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: monthly
+    open-pull-requests-limit: 3
+    groups:
+      actions:
+        patterns:
+          - "*"
