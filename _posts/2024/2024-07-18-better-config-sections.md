@@ -105,10 +105,10 @@ public static class OptionsExtensions {
         return builder;
     }
 
-    public static TOptions? GetConfigurationSection<TOptions>(this IHostApplicationBuilder builder)
+    public static TOptions? GetConfigurationSection<TOptions>(this IConfiguration configuration)
         where TOptions : class, IConfigOptions
     {
-        return builder.Configuration
+        return configuration
             .GetSection(TOptions.SectionName)
             .Get<TOptions>();
     }
