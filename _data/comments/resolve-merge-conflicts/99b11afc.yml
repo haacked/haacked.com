@@ -1,0 +1,5 @@
+id: 99b11afc
+date: 2026-11-05T08:07:30.1907785Z
+name: 777 game
+avatar: https://secure.gravatar.com/avatar/0b49eadcec6ba6249858d84bfd7e5641?s=80&d=identicon&r=pg
+message: https://5rgame.com.pk/zc777-game/ This was a helpful explanation of why purely textual merging creates false conflicts, especially the example where two independent imports should simply be kept together. Mergiraf as a structural layer makes a lot of sense, and pairing it with diff3 and rerere gives both more context and a way to reuse past resolutions. The categorised approach to lock files, migrations and stacked PR duplicates also feels practical for long rebases. Thanks for laying out a workflow that turns a tedious chore into something far more manageable.
